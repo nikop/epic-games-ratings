@@ -283,34 +283,34 @@
 | 269 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
 | 269 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 269 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
-| 269 | [Returnal™](games/r/returnal™.md) | 4.66 | 
-| 285 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 285 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 285 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 285 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
-| 285 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
-| 285 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
-| 285 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 285 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 285 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
-| 285 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
-| 285 | [Coromon](games/c/coromon.md) | 4.65 | 
-| 285 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
-| 285 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
-| 285 | [APE OUT](games/a/ape_out.md) | 4.65 | 
-| 285 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
-| 285 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
-| 301 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 301 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 301 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 301 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 301 | [Old World](games/o/old_world.md) | 4.64 | 
-| 301 | [SOMA](games/s/soma.md) | 4.64 | 
-| 301 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 301 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.64 | 
-| 301 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
-| 301 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 
-| 301 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
+| 284 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 284 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 284 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 284 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
+| 284 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
+| 284 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
+| 284 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 284 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
+| 284 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 284 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
+| 284 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 284 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 
+| 284 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
+| 284 | [APE OUT](games/a/ape_out.md) | 4.65 | 
+| 284 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
+| 284 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
+| 300 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 300 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 300 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 300 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 300 | [Old World](games/o/old_world.md) | 4.64 | 
+| 300 | [SOMA](games/s/soma.md) | 4.64 | 
+| 300 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 300 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.64 | 
+| 300 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
+| 300 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 
+| 300 | [Returnal™](games/r/returnal™.md) | 4.64 | 
+| 300 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
 | 312 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 312 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 312 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
@@ -686,18 +686,18 @@
 | 677 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | 
 | 677 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 677 | [Warpips](games/w/warpips.md) | 4.37 | 
-| 677 | [Duskers](games/d/duskers.md) | 4.37 | 
 | 677 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 689 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 689 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
-| 689 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 689 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 689 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
-| 689 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 689 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
-| 689 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 689 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
-| 689 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
+| 688 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 688 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
+| 688 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 688 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 688 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
+| 688 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 688 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
+| 688 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
+| 688 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
+| 688 | [Duskers](games/d/duskers.md) | 4.36 | 
+| 688 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
 | 699 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
 | 699 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 699 | [Among Trees](games/a/among_trees.md) | 4.35 | 
