@@ -1,5 +1,5 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
-Rating: 4.67 (-)  (as of 23.09.2022)  
+Rating: 4.63 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -12,3 +12,4 @@ Rating: 4.67 (-)  (as of 23.09.2022)
 | 2023-02-28 | 4.69 | - |
 | 2023-03-01 | 4.70 | - |
 | 2023-03-02 | 4.67 | - |
+| 2023-03-03 | 4.63 | - |

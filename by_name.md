@@ -308,7 +308,7 @@
 | 306 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.11 | 
 | 307 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 308 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.55 | 
-| 309 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.67 | 
+| 309 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.63 | 
 | 310 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 311 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 312 | [GRIME](games/g/grime.md) | 4.62 | 
@@ -546,7 +546,7 @@
 | 544 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 545 | [RAILGRADE](games/r/railgrade.md) | 4.55 | 
 | 546 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 547 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 547 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
 | 548 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 549 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
 | 550 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
