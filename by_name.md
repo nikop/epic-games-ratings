@@ -283,7 +283,7 @@
 | 281 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 
 | 282 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 
 | 283 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 284 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 
+| 284 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 285 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
 | 286 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
 | 287 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
@@ -681,7 +681,7 @@
 | 679 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
 | 680 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
 | 681 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
-| 682 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
+| 682 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
 | 683 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
 | 684 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
 | 685 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.68 | 
