@@ -462,17 +462,17 @@
 | 455 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
 | 455 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
 | 455 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.55 | 
-| 455 | [RAILGRADE](games/r/railgrade.md) | 4.55 | 
-| 464 | [VALORANT](games/v/valorant.md) | 4.54 | 
-| 464 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 464 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
-| 464 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 
-| 464 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 464 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
-| 464 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
-| 464 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
-| 464 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
-| 464 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 463 | [VALORANT](games/v/valorant.md) | 4.54 | 
+| 463 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 463 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
+| 463 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 
+| 463 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 463 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
+| 463 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
+| 463 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
+| 463 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 463 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 463 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 474 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 474 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 474 | [Dauntless](games/d/dauntless.md) | 4.53 | 
@@ -674,18 +674,18 @@
 | 666 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 666 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 666 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.38 | 
+| 666 | [Duskers](games/d/duskers.md) | 4.38 | 
 | 666 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.38 | 
 | 666 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 677 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 677 | [Core](games/c/core.md) | 4.37 | 
-| 677 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 677 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 677 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
-| 677 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | 
-| 677 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 677 | [Warpips](games/w/warpips.md) | 4.37 | 
-| 677 | [Duskers](games/d/duskers.md) | 4.37 | 
-| 677 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 678 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 678 | [Core](games/c/core.md) | 4.37 | 
+| 678 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 678 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
+| 678 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
+| 678 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | 
+| 678 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 678 | [Warpips](games/w/warpips.md) | 4.37 | 
+| 678 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 687 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 687 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 
 | 687 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
@@ -789,19 +789,19 @@
 | 781 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
 | 781 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 781 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 781 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.20 | 
 | 781 | [Somerville](games/s/somerville.md) | 4.20 | 
-| 792 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
-| 792 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 792 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 
-| 792 | [Flatout](games/f/flatout.md) | 4.19 | 
-| 792 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
-| 792 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
-| 798 | [Windbound](games/w/windbound.md) | 4.18 | 
-| 798 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 
-| 798 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 798 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
-| 798 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
+| 791 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 791 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 791 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 
+| 791 | [Flatout](games/f/flatout.md) | 4.19 | 
+| 791 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
+| 791 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
+| 797 | [Windbound](games/w/windbound.md) | 4.18 | 
+| 797 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 
+| 797 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 797 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
+| 797 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
+| 797 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.18 | 
 | 803 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 803 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
 | 803 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
