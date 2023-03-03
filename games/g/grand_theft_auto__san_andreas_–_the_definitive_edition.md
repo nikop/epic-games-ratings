@@ -1,5 +1,5 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
-Rating: 4.53 (-)  (as of 23.09.2022)  
+Rating: 4.55 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -11,3 +11,4 @@ Rating: 4.53 (-)  (as of 23.09.2022)
 | 2023-02-27 | 4.52 | - |
 | 2023-02-28 | 4.52 | - |
 | 2023-03-01 | 4.53 | - |
+| 2023-03-03 | 4.55 | - |

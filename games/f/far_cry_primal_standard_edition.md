@@ -1,5 +1,5 @@
 # Far Cry Primal Standard Edition
-Rating: 4.70 (463)  (as of 23.09.2022)  
+Rating: 4.69 (463)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -75,3 +75,4 @@ Rating: 4.70 (463)  (as of 23.09.2022)
 | 2022-12-29 | 4.70 | - |
 | 2023-01-27 | 4.69 | - |
 | 2023-02-24 | 4.70 | - |
+| 2023-03-03 | 4.69 | - |

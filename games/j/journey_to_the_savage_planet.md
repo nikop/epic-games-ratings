@@ -1,5 +1,5 @@
 # Journey to the Savage Planet
-Rating: 4.58 (114)  (as of 23.09.2022)  
+Rating: 4.59 (114)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -56,3 +56,4 @@ Rating: 4.58 (114)  (as of 23.09.2022)
 | 2022-12-31 | 4.58 | - |
 | 2023-01-15 | 4.57 | - |
 | 2023-02-02 | 4.58 | - |
+| 2023-03-03 | 4.59 | - |

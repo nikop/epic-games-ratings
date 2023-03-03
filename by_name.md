@@ -173,7 +173,7 @@
 | 171 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 172 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
 | 173 | [Dead Space](games/d/dead_space.md) | 4.73 | 
-| 174 | [Death Coming](games/d/death_coming.md) | 4.45 | 
+| 174 | [Death Coming](games/d/death_coming.md) | 4.44 | 
 | 175 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
 | 176 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
 | 177 | [Death's Door](games/d/death's_door.md) | 4.66 | 
@@ -248,7 +248,7 @@
 | 246 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 247 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
 | 248 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
-| 249 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
+| 249 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.69 | 
 | 250 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
 | 251 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
 | 252 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
@@ -305,9 +305,9 @@
 | 303 | [Good Company](games/g/good_company.md) | 4.41 | 
 | 304 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
 | 305 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 306 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.12 | 
+| 306 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.11 | 
 | 307 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 308 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.53 | 
+| 308 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.55 | 
 | 309 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.67 | 
 | 310 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 311 | [Griftlands](games/g/griftlands.md) | 4.81 | 
@@ -371,7 +371,7 @@
 | 369 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 370 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
 | 371 | [Journey](games/j/journey.md) | 4.80 | 
-| 372 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
+| 372 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.59 | 
 | 373 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 374 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 375 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
