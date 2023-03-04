@@ -1,10 +1,10 @@
 {
   "ID": "1ef3edbf3bf14defac0cdb42301e3d5e",
   "Name": "RiMS Racing",
-  "Rating": 4.46,
+  "Rating": 4.47,
   "NumberOfRatings": 31,
   "FirstSeen": "2022-07-22T20:18:54.8665503+00:00",
-  "LastChanged": "2023-02-22T20:57:12.8680749+00:00",
+  "LastChanged": "2023-03-04T20:57:14.1144439+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:54.8665507+00:00",
@@ -69,6 +69,11 @@
     {
       "Time": "2023-02-22T20:57:12.8680751+00:00",
       "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-04T20:57:14.1144441+00:00",
+      "Rating": 4.47,
       "NumberOfRatings": null
     }
   ],

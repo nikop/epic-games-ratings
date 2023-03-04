@@ -257,7 +257,7 @@
 | 255 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
 | 256 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 257 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
-| 258 | [Fez](games/f/fez.md) | 4.71 | 
+| 258 | [Fez](games/f/fez.md) | 4.70 | 
 | 259 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
 | 260 | [Figment](games/f/figment.md) | 4.45 | 
 | 261 | [Filament](games/f/filament.md) | 4.32 | 
@@ -324,7 +324,7 @@
 | 322 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 323 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 
 | 324 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 325 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.44 | 
+| 325 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.43 | 
 | 326 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
 | 327 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 328 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
@@ -400,7 +400,7 @@
 | 398 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
 | 399 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 400 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.45 | 
-| 401 | [Knockout City™](games/k/knockout_city™.md) | 4.42 | 
+| 401 | [Knockout City™](games/k/knockout_city™.md) | 4.45 | 
 | 402 | [Lake](games/l/lake.md) | 4.07 | 
 | 403 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 404 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
@@ -427,7 +427,7 @@
 | 425 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.56 | 
 | 426 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
 | 427 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 428 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 
+| 428 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
 | 429 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
 | 430 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 431 | [Mago](games/m/mago.md) | 4.90 | 
@@ -566,10 +566,10 @@
 | 564 | [Revita](games/r/revita.md) | 4.74 | 
 | 565 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 566 | [RiME](games/r/rime.md) | 4.58 | 
-| 567 | [RiMS Racing](games/r/rims_racing.md) | 4.46 | 
+| 567 | [RiMS Racing](games/r/rims_racing.md) | 4.47 | 
 | 568 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 569 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 570 | [Rise of Industry](games/r/rise_of_industry.md) | 3.95 | 
+| 570 | [Rise of Industry](games/r/rise_of_industry.md) | 4.03 | 
 | 571 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 572 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
 | 573 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
@@ -798,7 +798,7 @@
 | 796 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 
 | 797 | [Trackmania](games/t/trackmania.md) | 4.66 | 
 | 798 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
-| 799 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 
+| 799 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 
 | 800 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 801 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 802 | [Train Valley](games/t/train_valley.md) | 4.46 | 
