@@ -563,6 +563,7 @@
 | 558 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 558 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 558 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
+| 558 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
 | 558 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
 | 558 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
 | 558 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
@@ -570,19 +571,18 @@
 | 558 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.47 | 
 | 558 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 558 | [STG Football](games/s/stg_football.md) | 4.47 | 
-| 571 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 571 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 571 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
-| 571 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 571 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
-| 571 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.46 | 
-| 571 | [The Surge](games/t/the_surge.md) | 4.46 | 
-| 571 | [Far Cry](games/f/far_cry.md) | 4.46 | 
-| 571 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
-| 571 | [RiMS Racing](games/r/rims_racing.md) | 4.46 | 
-| 571 | [Train Valley](games/t/train_valley.md) | 4.46 | 
-| 571 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
-| 571 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 572 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 572 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 572 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
+| 572 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 572 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
+| 572 | [The Surge](games/t/the_surge.md) | 4.46 | 
+| 572 | [Far Cry](games/f/far_cry.md) | 4.46 | 
+| 572 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
+| 572 | [RiMS Racing](games/r/rims_racing.md) | 4.46 | 
+| 572 | [Train Valley](games/t/train_valley.md) | 4.46 | 
+| 572 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
+| 572 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 584 | [SMITE](games/s/smite.md) | 4.45 | 
 | 584 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 584 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
