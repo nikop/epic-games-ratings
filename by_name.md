@@ -407,7 +407,7 @@
 | 405 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 406 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
 | 407 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 408 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
+| 408 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 409 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
 | 410 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 411 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
