@@ -322,7 +322,7 @@
 | 320 | [Haven](games/h/haven.md) | 4.75 | 
 | 321 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 322 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 323 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 
+| 323 | [Hell is Others](games/h/hell_is_others.md) | 4.40 | 
 | 324 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 325 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.43 | 
 | 326 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
@@ -555,7 +555,7 @@
 | 553 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 554 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 555 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
-| 556 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.21 | 
+| 556 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.18 | 
 | 557 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 558 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 559 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
@@ -818,7 +818,7 @@
 | 816 | [TUNIC](games/t/tunic.md) | 4.85 | 
 | 817 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 818 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 819 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 
+| 819 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 
 | 820 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 821 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 
 | 822 | [UnMetal](games/u/unmetal.md) | 4.51 | 
