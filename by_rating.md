@@ -56,18 +56,18 @@
 | 54 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 54 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 54 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
+| 54 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.83 | 
 | 54 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
-| 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 58 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
-| 58 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 58 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.82 | 
-| 58 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 58 | [The Last Campfire](games/t/the_last_campfire.md) | 4.82 | 
-| 58 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
-| 58 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.82 | 
-| 58 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
-| 58 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
-| 58 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.82 | 
+| 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 59 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 59 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
+| 59 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
+| 59 | [The Last Campfire](games/t/the_last_campfire.md) | 4.82 | 
+| 59 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
+| 59 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.82 | 
+| 59 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
+| 59 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
+| 59 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.82 | 
 | 69 | [Sifu](games/s/sifu.md) | 4.81 | 
 | 69 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 69 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
@@ -239,7 +239,6 @@
 | 232 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 232 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
 | 232 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 232 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
 | 232 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
 | 232 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 232 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
@@ -249,24 +248,25 @@
 | 232 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
 | 232 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
 | 232 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
-| 250 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 250 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 250 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
-| 250 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 250 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 250 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.67 | 
-| 250 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
-| 250 | [Overcooked](games/o/overcooked.md) | 4.67 | 
-| 250 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.67 | 
-| 250 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
-| 250 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
-| 250 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
-| 250 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
-| 250 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 250 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
-| 250 | [Card Shark](games/c/card_shark.md) | 4.67 | 
-| 250 | [GNOG](games/g/gnog.md) | 4.67 | 
-| 250 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
+| 249 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 249 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 249 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
+| 249 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 249 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 249 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.67 | 
+| 249 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
+| 249 | [Overcooked](games/o/overcooked.md) | 4.67 | 
+| 249 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.67 | 
+| 249 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 249 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
+| 249 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
+| 249 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
+| 249 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
+| 249 | [Eastward](games/e/eastward.md) | 4.67 | 
+| 249 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
+| 249 | [Card Shark](games/c/card_shark.md) | 4.67 | 
+| 249 | [GNOG](games/g/gnog.md) | 4.67 | 
+| 249 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
 | 268 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 268 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 268 | [Trackmania](games/t/trackmania.md) | 4.66 | 

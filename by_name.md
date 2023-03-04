@@ -641,7 +641,7 @@
 | 639 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 640 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
 | 641 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 642 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.82 | 
+| 642 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.83 | 
 | 643 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 644 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 645 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
@@ -813,7 +813,7 @@
 | 811 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
 | 812 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 
 | 813 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 814 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
+| 814 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 815 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
 | 816 | [TUNIC](games/t/tunic.md) | 4.85 | 
 | 817 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
