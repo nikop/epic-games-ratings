@@ -1,10 +1,10 @@
 {
   "ID": "37baf50c268d47779020d73143bb02b0",
   "Name": "Auto Chess",
-  "Rating": 4.52,
+  "Rating": 4.53,
   "NumberOfRatings": 2249,
   "FirstSeen": "2022-07-22T20:21:31.7729603+00:00",
-  "LastChanged": "2023-02-24T11:57:55.7686586+00:00",
+  "LastChanged": "2023-03-04T14:57:15.7301259+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:31.7729607+00:00",
@@ -1954,6 +1954,11 @@
     {
       "Time": "2023-02-24T11:57:55.7686589+00:00",
       "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-04T14:57:15.7301266+00:00",
+      "Rating": 4.53,
       "NumberOfRatings": null
     }
   ],

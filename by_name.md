@@ -56,7 +56,7 @@
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.42 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
-| 57 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 57 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 
@@ -209,7 +209,7 @@
 | 207 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 208 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 209 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 210 | [Duskers](games/d/duskers.md) | 4.38 | 
+| 210 | [Duskers](games/d/duskers.md) | 4.39 | 
 | 211 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 212 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 213 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
@@ -665,7 +665,7 @@
 | 663 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
 | 664 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 665 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 666 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.67 | 
+| 666 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.68 | 
 | 667 | [STG Football](games/s/stg_football.md) | 4.47 | 
 | 668 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 669 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
@@ -715,7 +715,7 @@
 | 713 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
 | 714 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 715 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
-| 716 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.71 | 
+| 716 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 717 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 718 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 719 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
