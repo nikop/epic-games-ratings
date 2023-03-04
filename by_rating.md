@@ -308,22 +308,22 @@
 | 299 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.64 | 
 | 299 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
 | 299 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 
+| 299 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.64 | 
 | 299 | [Returnal™](games/r/returnal™.md) | 4.64 | 
 | 299 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
-| 311 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 311 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 311 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 311 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 311 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
-| 311 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
-| 311 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 311 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 
-| 311 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
-| 311 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
-| 311 | [GigaBash](games/g/gigabash.md) | 4.63 | 
-| 311 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.63 | 
-| 311 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
-| 311 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.63 | 
+| 312 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 312 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 312 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 312 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 312 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
+| 312 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
+| 312 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
+| 312 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 
+| 312 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
+| 312 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
+| 312 | [GigaBash](games/g/gigabash.md) | 4.63 | 
+| 312 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
+| 312 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.63 | 
 | 325 | [Prey](games/p/prey.md) | 4.62 | 
 | 325 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 325 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
