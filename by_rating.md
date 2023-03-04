@@ -315,6 +315,7 @@
 | 312 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 312 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
 | 312 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 312 | [ABZU](games/a/abzu.md) | 4.63 | 
 | 312 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 312 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
 | 312 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
@@ -324,47 +325,46 @@
 | 312 | [GigaBash](games/g/gigabash.md) | 4.63 | 
 | 312 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 312 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.63 | 
-| 325 | [Prey](games/p/prey.md) | 4.62 | 
-| 325 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 325 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
-| 325 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 
-| 325 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 
-| 325 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
-| 325 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
-| 325 | [Limbo](games/l/limbo.md) | 4.62 | 
-| 325 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 
-| 325 | [ABZU](games/a/abzu.md) | 4.62 | 
-| 325 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 325 | [Mutazione](games/m/mutazione.md) | 4.62 | 
-| 325 | [GRIME](games/g/grime.md) | 4.62 | 
-| 325 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 325 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
-| 325 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
-| 325 | [NORCO](games/n/norco.md) | 4.62 | 
-| 325 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 325 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.62 | 
-| 344 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
-| 344 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 344 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
-| 344 | [Warframe](games/w/warframe.md) | 4.61 | 
-| 344 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
-| 344 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
-| 344 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 344 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 344 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 344 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 344 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 344 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 
-| 344 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 344 | [20XX](games/2/20xx.md) | 4.61 | 
-| 344 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
-| 344 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
-| 344 | [Road 96](games/r/road_96.md) | 4.61 | 
-| 344 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
-| 344 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
-| 344 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.61 | 
-| 344 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 
-| 344 | [Darkwood](games/d/darkwood.md) | 4.61 | 
+| 326 | [Prey](games/p/prey.md) | 4.62 | 
+| 326 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 326 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 326 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 
+| 326 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
+| 326 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
+| 326 | [Limbo](games/l/limbo.md) | 4.62 | 
+| 326 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 
+| 326 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 326 | [Mutazione](games/m/mutazione.md) | 4.62 | 
+| 326 | [GRIME](games/g/grime.md) | 4.62 | 
+| 326 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 326 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
+| 326 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
+| 326 | [NORCO](games/n/norco.md) | 4.62 | 
+| 326 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 326 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.62 | 
+| 343 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
+| 343 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 343 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
+| 343 | [Warframe](games/w/warframe.md) | 4.61 | 
+| 343 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
+| 343 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
+| 343 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 343 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 343 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 343 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 343 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 343 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 343 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 
+| 343 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 343 | [20XX](games/2/20xx.md) | 4.61 | 
+| 343 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
+| 343 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
+| 343 | [Road 96](games/r/road_96.md) | 4.61 | 
+| 343 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
+| 343 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
+| 343 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.61 | 
+| 343 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 
+| 343 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 366 | [Control](games/c/control.md) | 4.60 | 
 | 366 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 366 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
@@ -411,10 +411,10 @@
 | 400 | [Moving Out](games/m/moving_out.md) | 4.58 | 
 | 400 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 400 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
+| 400 | [Isonzo](games/i/isonzo.md) | 4.58 | 
 | 400 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 
 | 400 | [RiME](games/r/rime.md) | 4.58 | 
 | 400 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 400 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 
 | 400 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 400 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
 | 418 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
@@ -429,9 +429,9 @@
 | 418 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
 | 418 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
 | 418 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
-| 418 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 418 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
 | 418 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
+| 418 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 
 | 418 | [Everything](games/e/everything.md) | 4.57 | 
 | 418 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 435 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
@@ -596,24 +596,24 @@
 | 584 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
 | 584 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.45 | 
 | 584 | [Knockout City™](games/k/knockout_city™.md) | 4.45 | 
-| 584 | [Predecessor](games/p/predecessor.md) | 4.45 | 
 | 584 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 
-| 599 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
-| 599 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 599 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 599 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
-| 599 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 599 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
-| 599 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
-| 599 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
-| 599 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
-| 599 | [Death Coming](games/d/death_coming.md) | 4.44 | 
-| 599 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
-| 599 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
-| 599 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
-| 599 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
-| 599 | [Redout 2](games/r/redout_2.md) | 4.44 | 
-| 599 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.44 | 
+| 598 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
+| 598 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 598 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 598 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 598 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 598 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
+| 598 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
+| 598 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 598 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
+| 598 | [Death Coming](games/d/death_coming.md) | 4.44 | 
+| 598 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
+| 598 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 598 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
+| 598 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
+| 598 | [Predecessor](games/p/predecessor.md) | 4.44 | 
+| 598 | [Redout 2](games/r/redout_2.md) | 4.44 | 
+| 598 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.44 | 
 | 615 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 615 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 615 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
@@ -645,28 +645,28 @@
 | 635 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 635 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 
 | 635 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 635 | [Duskers](games/d/duskers.md) | 4.41 | 
 | 635 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
-| 647 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 647 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 647 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 647 | [Othercide](games/o/othercide.md) | 4.40 | 
-| 647 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 647 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
-| 647 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 647 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
-| 647 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
-| 647 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
-| 647 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
-| 658 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 658 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 658 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
-| 658 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
-| 658 | [Tacoma](games/t/tacoma.md) | 4.39 | 
-| 658 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
-| 658 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
-| 658 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 658 | [Duskers](games/d/duskers.md) | 4.39 | 
-| 658 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 
+| 648 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 648 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 648 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
+| 648 | [Othercide](games/o/othercide.md) | 4.40 | 
+| 648 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 648 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
+| 648 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
+| 648 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
+| 648 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 648 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
+| 648 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
+| 659 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 659 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 659 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
+| 659 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
+| 659 | [Tacoma](games/t/tacoma.md) | 4.39 | 
+| 659 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
+| 659 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
+| 659 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
+| 659 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 
 | 668 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 668 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 668 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 

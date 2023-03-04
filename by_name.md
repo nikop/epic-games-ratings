@@ -9,7 +9,7 @@
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 10 | [ABZU](games/a/abzu.md) | 4.62 | 
+| 10 | [ABZU](games/a/abzu.md) | 4.63 | 
 | 11 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 12 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
 | 13 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
@@ -97,7 +97,7 @@
 | 95 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 96 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 97 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
-| 98 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 
+| 98 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 
 | 99 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 100 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
 | 101 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -209,7 +209,7 @@
 | 207 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 208 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 209 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 210 | [Duskers](games/d/duskers.md) | 4.39 | 
+| 210 | [Duskers](games/d/duskers.md) | 4.41 | 
 | 211 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 212 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 213 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
@@ -245,7 +245,7 @@
 | 243 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 
 | 244 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 245 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
-| 246 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 
+| 246 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 247 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
 | 248 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
 | 249 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.69 | 
@@ -366,7 +366,7 @@
 | 364 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 365 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 366 | [Ironcast](games/i/ironcast.md) | 3.92 | 
-| 367 | [Isonzo](games/i/isonzo.md) | 4.57 | 
+| 367 | [Isonzo](games/i/isonzo.md) | 4.58 | 
 | 368 | [IXION](games/i/ixion.md) | 4.53 | 
 | 369 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 370 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
@@ -536,7 +536,7 @@
 | 534 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
 | 535 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 536 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 537 | [Predecessor](games/p/predecessor.md) | 4.45 | 
+| 537 | [Predecessor](games/p/predecessor.md) | 4.44 | 
 | 538 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 539 | [Prey](games/p/prey.md) | 4.62 | 
 | 540 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
