@@ -58,16 +58,16 @@
 | 54 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
 | 54 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.83 | 
 | 54 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
-| 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 59 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
-| 59 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 59 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 59 | [The Last Campfire](games/t/the_last_campfire.md) | 4.82 | 
-| 59 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
-| 59 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.82 | 
-| 59 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
-| 59 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
-| 59 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.82 | 
+| 54 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.83 | 
+| 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 60 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 60 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
+| 60 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
+| 60 | [The Last Campfire](games/t/the_last_campfire.md) | 4.82 | 
+| 60 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
+| 60 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.82 | 
+| 60 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
+| 60 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
 | 69 | [Sifu](games/s/sifu.md) | 4.81 | 
 | 69 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 69 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
@@ -673,20 +673,20 @@
 | 668 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
 | 668 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
 | 668 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
+| 668 | [Warpips](games/w/warpips.md) | 4.38 | 
 | 668 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 668 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.38 | 
 | 668 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.38 | 
 | 668 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 678 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 678 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
-| 678 | [Core](games/c/core.md) | 4.37 | 
-| 678 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 678 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 678 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
-| 678 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | 
-| 678 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 678 | [Warpips](games/w/warpips.md) | 4.37 | 
-| 678 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 679 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 679 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 679 | [Core](games/c/core.md) | 4.37 | 
+| 679 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 679 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
+| 679 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
+| 679 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | 
+| 679 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 679 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 688 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 688 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
 | 688 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
@@ -869,8 +869,8 @@
 | 866 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
 | 868 | [Chimeraland](games/c/chimeraland.md) | 3.89 | 
 | 869 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 870 | [Blood of Steel](games/b/blood_of_steel.md) | 3.81 | 
-| 871 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
+| 870 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
+| 871 | [Blood of Steel](games/b/blood_of_steel.md) | 3.79 | 
 | 872 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 872 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
 | 874 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 

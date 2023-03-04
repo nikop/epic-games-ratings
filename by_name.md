@@ -92,7 +92,7 @@
 | 90 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 91 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
 | 92 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 93 | [Blood of Steel](games/b/blood_of_steel.md) | 3.81 | 
+| 93 | [Blood of Steel](games/b/blood_of_steel.md) | 3.79 | 
 | 94 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 95 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 96 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -711,7 +711,7 @@
 | 709 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 710 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 711 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
-| 712 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.82 | 
+| 712 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.83 | 
 | 713 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
 | 714 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 715 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
@@ -842,7 +842,7 @@
 | 840 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
 | 841 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 842 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 843 | [Warpips](games/w/warpips.md) | 4.37 | 
+| 843 | [Warpips](games/w/warpips.md) | 4.38 | 
 | 844 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 845 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 846 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 

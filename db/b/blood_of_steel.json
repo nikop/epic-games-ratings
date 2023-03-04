@@ -1,10 +1,10 @@
 {
   "ID": "f1e33357c0ad46719364bac31a4fcbdf",
   "Name": "Blood of Steel",
-  "Rating": 3.81,
+  "Rating": 3.79,
   "FirstSeen": "2022-12-09T20:57:21.1764121+00:00",
   "FirstSeenRating": "2023-01-18T14:57:02.2486161+00:00",
-  "LastChanged": "2023-03-01T16:58:40.4252299+00:00",
+  "LastChanged": "2023-03-04T16:57:28.7349376+00:00",
   "RatingHistory": [
     {
       "Time": "2023-01-18T14:57:02.2486163+00:00",
@@ -64,6 +64,11 @@
     {
       "Time": "2023-03-01T16:58:40.4252302+00:00",
       "Rating": 3.81,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-04T16:57:28.7349377+00:00",
+      "Rating": 3.79,
       "NumberOfRatings": null
     }
   ],
