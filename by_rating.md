@@ -414,26 +414,26 @@
 | 400 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 
 | 400 | [RiME](games/r/rime.md) | 4.58 | 
 | 400 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 400 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 
 | 400 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 400 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
-| 418 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 418 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 418 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
-| 418 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
-| 418 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 418 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
-| 418 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
-| 418 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 418 | [Hob](games/h/hob.md) | 4.57 | 
-| 418 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
-| 418 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
-| 418 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
-| 418 | [Isonzo](games/i/isonzo.md) | 4.57 | 
-| 418 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
-| 418 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
-| 418 | [Everything](games/e/everything.md) | 4.57 | 
-| 418 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
+| 417 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 417 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 417 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
+| 417 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
+| 417 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
+| 417 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
+| 417 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
+| 417 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 417 | [Hob](games/h/hob.md) | 4.57 | 
+| 417 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
+| 417 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
+| 417 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
+| 417 | [Isonzo](games/i/isonzo.md) | 4.57 | 
+| 417 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
+| 417 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
+| 417 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 
+| 417 | [Everything](games/e/everything.md) | 4.57 | 
+| 417 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 435 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
 | 435 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 435 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
@@ -751,16 +751,16 @@
 | 746 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 750 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 750 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
-| 752 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 752 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
-| 752 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
-| 752 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
-| 756 | [EVE Online](games/e/eve_online.md) | 4.25 | 
-| 756 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
-| 756 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 
-| 756 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
-| 756 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
-| 756 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.25 | 
+| 750 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 
+| 753 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 753 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
+| 753 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
+| 753 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
+| 757 | [EVE Online](games/e/eve_online.md) | 4.25 | 
+| 757 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 757 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 
+| 757 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
+| 757 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.25 | 
 | 762 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 762 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 762 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
@@ -834,15 +834,15 @@
 | 830 | [Fangs](games/f/fangs.md) | 4.09 | 
 | 833 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 833 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
-| 833 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.08 | 
 | 833 | [Forspoken](games/f/forspoken.md) | 4.08 | 
 | 833 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
-| 838 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
-| 838 | [Lake](games/l/lake.md) | 4.07 | 
-| 838 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
-| 841 | [Godfall](games/g/godfall.md) | 4.06 | 
-| 842 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 842 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
+| 837 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
+| 837 | [Lake](games/l/lake.md) | 4.07 | 
+| 837 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
+| 840 | [Godfall](games/g/godfall.md) | 4.06 | 
+| 841 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 841 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
+| 841 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.05 | 
 | 844 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 844 | [Tharsis](games/t/tharsis.md) | 4.04 | 
 | 846 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.03 | 

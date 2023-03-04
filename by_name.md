@@ -97,7 +97,7 @@
 | 95 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 96 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 97 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
-| 98 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 
+| 98 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 
 | 99 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 100 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
 | 101 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -433,7 +433,7 @@
 | 431 | [Mago](games/m/mago.md) | 4.90 | 
 | 432 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 433 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 434 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.08 | 
+| 434 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.05 | 
 | 435 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
 | 436 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.56 | 
 | 437 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
@@ -811,7 +811,7 @@
 | 809 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 810 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 811 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
-| 812 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.25 | 
+| 812 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 
 | 813 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 814 | [Tropico 6](games/t/tropico_6.md) | 4.68 | 
 | 815 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
