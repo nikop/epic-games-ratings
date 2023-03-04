@@ -126,7 +126,7 @@
 | 124 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 125 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
 | 126 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 127 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.21 | 
+| 127 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.22 | 
 | 128 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 129 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 
 | 130 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -265,7 +265,7 @@
 | 263 | [Firework](games/f/firework.md) | 4.89 | 
 | 264 | [First Class Trouble](games/f/first_class_trouble.md) | 4.53 | 
 | 265 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 266 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
+| 266 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 
 | 267 | [Flatout](games/f/flatout.md) | 4.19 | 
 | 268 | [Flatout 2](games/f/flatout_2.md) | 4.92 | 
 | 269 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
@@ -305,7 +305,7 @@
 | 303 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 304 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
 | 305 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 306 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.11 | 
+| 306 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.15 | 
 | 307 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 308 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.55 | 
 | 309 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.63 | 
@@ -529,7 +529,7 @@
 | 527 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
 | 528 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 529 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 530 | [Pinball FX](games/p/pinball_fx.md) | 4.00 | 
+| 530 | [Pinball FX](games/p/pinball_fx.md) | 4.01 | 
 | 531 | [Pine](games/p/pine.md) | 4.15 | 
 | 532 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.52 | 
 | 533 | [Port Royale 4](games/p/port_royale_4.md) | 3.99 | 
