@@ -172,7 +172,7 @@
 | 170 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 171 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 172 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
-| 173 | [Dead Space](games/d/dead_space.md) | 4.74 | 
+| 173 | [Dead Space](games/d/dead_space.md) | 4.72 | 
 | 174 | [Death Coming](games/d/death_coming.md) | 4.44 | 
 | 175 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
 | 176 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
@@ -546,7 +546,7 @@
 | 544 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 545 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 546 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 547 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
+| 547 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
 | 548 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 549 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
 | 550 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
@@ -874,7 +874,7 @@
 | 872 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 873 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 874 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
-| 875 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
+| 875 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 
 | 876 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
 | 877 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
 | 878 | [ZOMBI](games/z/zombi.md) | 4.35 | 
