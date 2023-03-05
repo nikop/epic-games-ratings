@@ -540,22 +540,22 @@
 | 534 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
 | 534 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 534 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 534 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
 | 534 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 534 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 534 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 534 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 534 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 534 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
-| 547 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 547 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 547 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
-| 547 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
-| 547 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.48 | 
-| 547 | [Chorus](games/c/chorus.md) | 4.48 | 
-| 547 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.48 | 
-| 547 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
-| 547 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 
-| 547 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
+| 548 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 548 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 548 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
+| 548 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.48 | 
+| 548 | [Chorus](games/c/chorus.md) | 4.48 | 
+| 548 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.48 | 
+| 548 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
+| 548 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 
+| 548 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
 | 557 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 557 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 557 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
@@ -809,16 +809,16 @@
 | 805 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
 | 805 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
 | 805 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
-| 805 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.16 | 
-| 811 | [Pine](games/p/pine.md) | 4.15 | 
-| 811 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
-| 811 | [Relicta](games/r/relicta.md) | 4.15 | 
-| 811 | [Gone Home](games/g/gone_home.md) | 4.15 | 
-| 811 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 811 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.15 | 
-| 811 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
-| 818 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
-| 819 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
+| 810 | [Pine](games/p/pine.md) | 4.15 | 
+| 810 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
+| 810 | [Relicta](games/r/relicta.md) | 4.15 | 
+| 810 | [Gone Home](games/g/gone_home.md) | 4.15 | 
+| 810 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
+| 810 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.15 | 
+| 810 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
+| 817 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
+| 818 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
+| 818 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.13 | 
 | 820 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 820 | [Train Valley 2](games/t/train_valley_2.md) | 4.12 | 
 | 822 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 

@@ -357,7 +357,7 @@
 | 355 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
 | 356 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
 | 357 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 358 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
+| 358 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
 | 359 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 360 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 361 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
@@ -381,7 +381,7 @@
 | 379 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 380 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
 | 381 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 382 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.16 | 
+| 382 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.13 | 
 | 383 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 384 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 385 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
