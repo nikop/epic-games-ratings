@@ -129,7 +129,7 @@
 | 127 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.22 | 
 | 128 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 129 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 
-| 130 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 
+| 130 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 131 | [Conarium](games/c/conarium.md) | 3.93 | 
 | 132 | [Control](games/c/control.md) | 4.60 | 
 | 133 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
@@ -299,7 +299,7 @@
 | 297 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
 | 298 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 299 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 300 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 
+| 300 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.96 | 
 | 301 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 302 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 303 | [Good Company](games/g/good_company.md) | 4.42 | 
@@ -351,7 +351,7 @@
 | 349 | [Huntdown](games/h/huntdown.md) | 4.85 | 
 | 350 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 351 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
-| 352 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.65 | 
+| 352 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.67 | 
 | 353 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.76 | 
 | 354 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 355 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
@@ -542,7 +542,7 @@
 | 540 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 541 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 
 | 542 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 543 | [Quake](games/q/quake.md) | 4.77 | 
+| 543 | [Quake](games/q/quake.md) | 4.75 | 
 | 544 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 545 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 546 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
