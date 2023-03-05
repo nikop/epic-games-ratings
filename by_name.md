@@ -569,7 +569,7 @@
 | 567 | [RiMS Racing](games/r/rims_racing.md) | 4.47 | 
 | 568 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 569 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 570 | [Rise of Industry](games/r/rise_of_industry.md) | 4.02 | 
+| 570 | [Rise of Industry](games/r/rise_of_industry.md) | 4.05 | 
 | 571 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 572 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
 | 573 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 

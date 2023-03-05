@@ -844,10 +844,10 @@
 | 841 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
 | 841 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.05 | 
 | 841 | [Forspoken](games/f/forspoken.md) | 4.05 | 
-| 845 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
-| 845 | [Tharsis](games/t/tharsis.md) | 4.04 | 
-| 847 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
-| 847 | [Rise of Industry](games/r/rise_of_industry.md) | 4.02 | 
+| 841 | [Rise of Industry](games/r/rise_of_industry.md) | 4.05 | 
+| 846 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
+| 846 | [Tharsis](games/t/tharsis.md) | 4.04 | 
+| 848 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 849 | [Pinball FX](games/p/pinball_fx.md) | 4.01 | 
 | 850 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 850 | [Port Royale 4](games/p/port_royale_4.md) | 3.99 | 
