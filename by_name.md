@@ -61,7 +61,7 @@
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 
 | 61 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
-| 62 | [Aztez](games/a/aztez.md) | 4.52 | 
+| 62 | [Aztez](games/a/aztez.md) | 4.53 | 
 | 63 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 64 | [Backbone](games/b/backbone.md) | 4.33 | 
 | 65 | [Bad North](games/b/bad_north.md) | 4.69 | 
@@ -308,7 +308,7 @@
 | 306 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.15 | 
 | 307 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 308 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.55 | 
-| 309 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.64 | 
+| 309 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.66 | 
 | 310 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 311 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 312 | [GRIME](games/g/grime.md) | 4.62 | 
@@ -407,7 +407,7 @@
 | 405 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 406 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
 | 407 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 408 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
+| 408 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 409 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
 | 410 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 411 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
@@ -487,7 +487,7 @@
 | 485 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
 | 486 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 487 | [Observation](games/o/observation.md) | 4.56 | 
-| 488 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 
+| 488 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
 | 489 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 
 | 490 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 491 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
@@ -599,7 +599,7 @@
 | 597 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
 | 598 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
 | 599 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 600 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 
+| 600 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
 | 601 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 602 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 603 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
