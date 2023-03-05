@@ -646,7 +646,7 @@
 | 644 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 645 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
 | 646 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 647 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
+| 647 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
 | 648 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.44 | 
 | 649 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
 | 650 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
