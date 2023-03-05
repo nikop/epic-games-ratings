@@ -226,10 +226,10 @@
 | 224 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 225 | [EVE Online](games/e/eve_online.md) | 4.25 | 
 | 226 | [Everything](games/e/everything.md) | 4.57 | 
-| 227 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 227 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 
 | 228 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.89 | 
 | 229 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 230 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
+| 230 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 
 | 231 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 232 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
 | 233 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 

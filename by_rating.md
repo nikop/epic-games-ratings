@@ -679,7 +679,6 @@
 | 668 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.38 | 
 | 668 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
 | 679 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 679 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 679 | [Core](games/c/core.md) | 4.37 | 
 | 679 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
 | 679 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
@@ -687,17 +686,18 @@
 | 679 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | 
 | 679 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 679 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 688 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 688 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
-| 688 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 688 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 688 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
-| 688 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 688 | [Encased](games/e/encased.md) | 4.36 | 
-| 688 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
-| 688 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 688 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
-| 688 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
+| 687 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 687 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 
+| 687 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
+| 687 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 687 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 687 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
+| 687 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 687 | [Encased](games/e/encased.md) | 4.36 | 
+| 687 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
+| 687 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
+| 687 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
+| 687 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
 | 699 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
 | 699 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 699 | [Among Trees](games/a/among_trees.md) | 4.35 | 
@@ -793,15 +793,15 @@
 | 781 | [Somerville](games/s/somerville.md) | 4.20 | 
 | 792 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 792 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 
+| 792 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 
 | 792 | [Flatout](games/f/flatout.md) | 4.19 | 
 | 792 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 792 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
-| 797 | [Windbound](games/w/windbound.md) | 4.18 | 
-| 797 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 
-| 797 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 797 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
-| 797 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
-| 797 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.18 | 
+| 798 | [Windbound](games/w/windbound.md) | 4.18 | 
+| 798 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 
+| 798 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 798 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
+| 798 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.18 | 
 | 803 | [Space Punks](games/s/space_punks.md) | 4.17 | 
 | 803 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
 | 803 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
