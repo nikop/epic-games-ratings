@@ -777,7 +777,7 @@
 | 775 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 776 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
 | 777 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
-| 778 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 
+| 778 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 779 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
 | 780 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
 | 781 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
@@ -787,7 +787,7 @@
 | 785 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 786 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 787 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 
-| 788 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
+| 788 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.81 | 
 | 789 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 790 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
 | 791 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.67 | 

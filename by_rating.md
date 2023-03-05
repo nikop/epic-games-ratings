@@ -405,7 +405,6 @@
 | 399 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 399 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 399 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 399 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 
 | 399 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 399 | [Moving Out](games/m/moving_out.md) | 4.58 | 
 | 399 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
@@ -417,23 +416,24 @@
 | 399 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 399 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 399 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
-| 418 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 418 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 418 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
-| 418 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
-| 418 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 418 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
-| 418 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
-| 418 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 418 | [Hob](games/h/hob.md) | 4.57 | 
-| 418 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
-| 418 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
-| 418 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
-| 418 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
-| 418 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
-| 418 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 
-| 418 | [Everything](games/e/everything.md) | 4.57 | 
-| 418 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
+| 417 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 417 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 417 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
+| 417 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
+| 417 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
+| 417 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
+| 417 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
+| 417 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
+| 417 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 417 | [Hob](games/h/hob.md) | 4.57 | 
+| 417 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
+| 417 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
+| 417 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
+| 417 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
+| 417 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
+| 417 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 
+| 417 | [Everything](games/e/everything.md) | 4.57 | 
+| 417 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 435 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
 | 435 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 435 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
@@ -870,7 +870,7 @@
 | 868 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.90 | 
 | 869 | [Chimeraland](games/c/chimeraland.md) | 3.89 | 
 | 870 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 871 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
+| 871 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.81 | 
 | 872 | [Blood of Steel](games/b/blood_of_steel.md) | 3.79 | 
 | 873 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 873 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
