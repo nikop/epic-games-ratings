@@ -360,7 +360,7 @@
 | 358 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
 | 359 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 360 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 361 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 
+| 361 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
 | 362 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 363 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 364 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
@@ -381,7 +381,7 @@
 | 379 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 380 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
 | 381 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 382 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.25 | 
+| 382 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.16 | 
 | 383 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 384 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 385 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
@@ -546,7 +546,7 @@
 | 544 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 545 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 546 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 547 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 547 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
 | 548 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 549 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
 | 550 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
