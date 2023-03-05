@@ -826,7 +826,7 @@
 | 824 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 825 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 826 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 827 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.82 | 
+| 827 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.83 | 
 | 828 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 829 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 830 | [Vampyr](games/v/vampyr.md) | 4.32 | 

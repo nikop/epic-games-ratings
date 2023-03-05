@@ -58,16 +58,16 @@
 | 54 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
 | 54 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.83 | 
 | 54 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
+| 54 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.83 | 
 | 54 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.83 | 
-| 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 60 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
-| 60 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 60 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 60 | [The Last Campfire](games/t/the_last_campfire.md) | 4.82 | 
-| 60 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
-| 60 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.82 | 
-| 60 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
-| 60 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
+| 61 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 61 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 61 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
+| 61 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
+| 61 | [The Last Campfire](games/t/the_last_campfire.md) | 4.82 | 
+| 61 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
+| 61 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
+| 61 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
 | 69 | [Sifu](games/s/sifu.md) | 4.81 | 
 | 69 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 69 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
