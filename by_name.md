@@ -179,7 +179,7 @@
 | 177 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 178 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
 | 179 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | 
-| 180 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 180 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
 | 181 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
 | 182 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
 | 183 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
@@ -307,7 +307,7 @@
 | 305 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 306 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.15 | 
 | 307 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 308 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.53 | 
+| 308 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.55 | 
 | 309 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.64 | 
 | 310 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 311 | [Griftlands](games/g/griftlands.md) | 4.81 | 
@@ -371,7 +371,7 @@
 | 369 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 370 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
 | 371 | [Journey](games/j/journey.md) | 4.80 | 
-| 372 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.59 | 
+| 372 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 
 | 373 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 374 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 375 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
@@ -524,7 +524,7 @@
 | 522 | [Patron](games/p/patron.md) | 3.94 | 
 | 523 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 524 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 525 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
+| 525 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 526 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 527 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
 | 528 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
@@ -569,7 +569,7 @@
 | 567 | [RiMS Racing](games/r/rims_racing.md) | 4.47 | 
 | 568 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 569 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 570 | [Rise of Industry](games/r/rise_of_industry.md) | 4.03 | 
+| 570 | [Rise of Industry](games/r/rise_of_industry.md) | 4.02 | 
 | 571 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 572 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
 | 573 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
@@ -855,7 +855,7 @@
 | 853 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 854 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 855 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 856 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
+| 856 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.90 | 
 | 857 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 858 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 859 | [Windbound](games/w/windbound.md) | 4.18 | 
