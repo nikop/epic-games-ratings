@@ -366,7 +366,7 @@
 | 364 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 365 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 366 | [Ironcast](games/i/ironcast.md) | 3.92 | 
-| 367 | [Isonzo](games/i/isonzo.md) | 4.58 | 
+| 367 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 368 | [IXION](games/i/ixion.md) | 4.53 | 
 | 369 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 370 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
@@ -805,7 +805,7 @@
 | 803 | [Train Valley 2](games/t/train_valley_2.md) | 4.12 | 
 | 804 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 805 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
-| 806 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 806 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 807 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
 | 808 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
 | 809 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
