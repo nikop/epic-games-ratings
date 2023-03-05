@@ -314,6 +314,7 @@
 | 312 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 312 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 312 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 312 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.63 | 
 | 312 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 312 | [ABZU](games/a/abzu.md) | 4.63 | 
 | 312 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
@@ -325,23 +326,22 @@
 | 312 | [GigaBash](games/g/gigabash.md) | 4.63 | 
 | 312 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 312 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.63 | 
-| 326 | [Prey](games/p/prey.md) | 4.62 | 
-| 326 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 326 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
-| 326 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 
-| 326 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
-| 326 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
-| 326 | [Limbo](games/l/limbo.md) | 4.62 | 
-| 326 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 
-| 326 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 326 | [Mutazione](games/m/mutazione.md) | 4.62 | 
-| 326 | [GRIME](games/g/grime.md) | 4.62 | 
-| 326 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 326 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
-| 326 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
-| 326 | [NORCO](games/n/norco.md) | 4.62 | 
-| 326 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 326 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.62 | 
+| 327 | [Prey](games/p/prey.md) | 4.62 | 
+| 327 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 327 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 327 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 
+| 327 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
+| 327 | [Limbo](games/l/limbo.md) | 4.62 | 
+| 327 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 
+| 327 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 327 | [Mutazione](games/m/mutazione.md) | 4.62 | 
+| 327 | [GRIME](games/g/grime.md) | 4.62 | 
+| 327 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 327 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
+| 327 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
+| 327 | [NORCO](games/n/norco.md) | 4.62 | 
+| 327 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 327 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.62 | 
 | 343 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 343 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 343 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
@@ -772,14 +772,14 @@
 | 768 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
 | 768 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 768 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
-| 773 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
 | 773 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
 | 773 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
 | 773 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.22 | 
 | 773 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
-| 778 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
-| 778 | [Starsand](games/s/starsand.md) | 4.21 | 
-| 778 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
+| 777 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
+| 777 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
+| 777 | [Starsand](games/s/starsand.md) | 4.21 | 
+| 777 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
 | 781 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
 | 781 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 781 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
