@@ -126,10 +126,10 @@
 | 124 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 125 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
 | 126 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 127 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.22 | 
+| 127 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.23 | 
 | 128 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 129 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 
-| 130 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 130 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 
 | 131 | [Conarium](games/c/conarium.md) | 3.93 | 
 | 132 | [Control](games/c/control.md) | 4.60 | 
 | 133 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
@@ -742,7 +742,7 @@
 | 740 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 741 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 742 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 743 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.78 | 
+| 743 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 
 | 744 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 745 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 746 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 

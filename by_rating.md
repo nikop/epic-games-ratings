@@ -454,7 +454,6 @@
 | 435 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.56 | 
 | 435 | [The Medium](games/t/the_medium.md) | 4.56 | 
 | 454 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
-| 454 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 454 | [Outward](games/o/outward.md) | 4.55 | 
 | 454 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 454 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 
@@ -462,16 +461,17 @@
 | 454 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
 | 454 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
 | 454 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.55 | 
-| 463 | [VALORANT](games/v/valorant.md) | 4.54 | 
-| 463 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 463 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
-| 463 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 
-| 463 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 463 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
-| 463 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
-| 463 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
-| 463 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 463 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 462 | [VALORANT](games/v/valorant.md) | 4.54 | 
+| 462 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 462 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
+| 462 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 
+| 462 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 
+| 462 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 462 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
+| 462 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
+| 462 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 462 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 462 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 473 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 473 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 473 | [Dauntless](games/d/dauntless.md) | 4.53 | 
@@ -769,13 +769,13 @@
 | 767 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 767 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
 | 767 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
+| 767 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.23 | 
 | 767 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 767 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
-| 772 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
-| 772 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
-| 772 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
-| 772 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.22 | 
-| 772 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
+| 773 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 773 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
+| 773 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
+| 773 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 777 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 777 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 777 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
@@ -874,8 +874,8 @@
 | 872 | [Blood of Steel](games/b/blood_of_steel.md) | 3.79 | 
 | 873 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 873 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
-| 873 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.78 | 
-| 876 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
+| 875 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
+| 875 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 
 | 877 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 878 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
 | 879 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 

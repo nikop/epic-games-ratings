@@ -1,10 +1,10 @@
 {
   "ID": "84f45b7676af47d9adecd3b636466f89",
   "Name": "The Settlers\u00AE: New Allies",
-  "Rating": 3.78,
+  "Rating": 3.77,
   "FirstSeen": "2023-02-17T13:12:44.8398615+00:00",
   "FirstSeenRating": "2023-02-19T13:09:54.8324207+00:00",
-  "LastChanged": "2023-03-05T07:57:38.1809951+00:00",
+  "LastChanged": "2023-03-05T15:57:31.0758119+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-19T13:09:54.8324224+00:00",
@@ -224,6 +224,11 @@
     {
       "Time": "2023-03-05T07:57:38.1809953+00:00",
       "Rating": 3.78,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-05T15:57:31.0758121+00:00",
+      "Rating": 3.77,
       "NumberOfRatings": null
     }
   ],
