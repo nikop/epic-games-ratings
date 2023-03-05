@@ -17,7 +17,7 @@
 | 15 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
 | 16 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 17 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
-| 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
+| 18 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
@@ -206,7 +206,7 @@
 | 204 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 205 | [DOOM 3](games/d/doom_3.md) | 4.60 | 
 | 206 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 207 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
+| 207 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
 | 208 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 209 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 210 | [Duskers](games/d/duskers.md) | 4.41 | 

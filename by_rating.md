@@ -164,19 +164,19 @@
 | 156 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 156 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 156 | [Northgard](games/n/northgard.md) | 4.73 | 
-| 156 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 156 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
 | 156 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
 | 156 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 169 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 169 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
-| 169 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 169 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 169 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
-| 169 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 169 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 
-| 169 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 169 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
+| 168 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 168 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
+| 168 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 168 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 168 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
+| 168 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 168 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 
+| 168 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
+| 168 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 168 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
 | 178 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 178 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 178 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
@@ -323,24 +323,24 @@
 | 312 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 
 | 312 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
 | 312 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
+| 312 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 
 | 312 | [GigaBash](games/g/gigabash.md) | 4.63 | 
 | 312 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 312 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.63 | 
-| 327 | [Prey](games/p/prey.md) | 4.62 | 
-| 327 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 327 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
-| 327 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
-| 327 | [Limbo](games/l/limbo.md) | 4.62 | 
-| 327 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 
-| 327 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 327 | [Mutazione](games/m/mutazione.md) | 4.62 | 
-| 327 | [GRIME](games/g/grime.md) | 4.62 | 
-| 327 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 327 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
-| 327 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
-| 327 | [NORCO](games/n/norco.md) | 4.62 | 
-| 327 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 327 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.62 | 
+| 328 | [Prey](games/p/prey.md) | 4.62 | 
+| 328 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 328 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 328 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
+| 328 | [Limbo](games/l/limbo.md) | 4.62 | 
+| 328 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 
+| 328 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 328 | [Mutazione](games/m/mutazione.md) | 4.62 | 
+| 328 | [GRIME](games/g/grime.md) | 4.62 | 
+| 328 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 328 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
+| 328 | [NORCO](games/n/norco.md) | 4.62 | 
+| 328 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 328 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.62 | 
 | 342 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 342 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 342 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
