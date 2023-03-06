@@ -104,17 +104,17 @@
 | 91 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
 | 103 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 103 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
-| 105 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 105 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 105 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
-| 105 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 105 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 
-| 105 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.77 | 
-| 105 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
-| 105 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
-| 105 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
-| 105 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
-| 105 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
+| 103 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
+| 106 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 106 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 106 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
+| 106 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
+| 106 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 
+| 106 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.77 | 
+| 106 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
+| 106 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
+| 106 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
+| 106 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 116 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 116 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 116 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
@@ -495,6 +495,7 @@
 | 493 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
 | 493 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 493 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 493 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 493 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 493 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 493 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.52 | 
@@ -503,21 +504,20 @@
 | 493 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.52 | 
 | 493 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 493 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
-| 504 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 504 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 504 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.51 | 
-| 504 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 504 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 504 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 504 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 504 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 504 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
-| 504 | [Horace](games/h/horace.md) | 4.51 | 
-| 504 | [Sable](games/s/sable.md) | 4.51 | 
-| 504 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
-| 504 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 504 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 504 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
+| 505 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 505 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 505 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 505 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 505 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 505 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 505 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 505 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
+| 505 | [Horace](games/h/horace.md) | 4.51 | 
+| 505 | [Sable](games/s/sable.md) | 4.51 | 
+| 505 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
+| 505 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 505 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
+| 505 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
 | 519 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 519 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 519 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 

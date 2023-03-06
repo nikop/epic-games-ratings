@@ -290,7 +290,7 @@
 | 288 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 289 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
 | 290 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 291 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.51 | 
+| 291 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 292 | [GigaBash](games/g/gigabash.md) | 4.63 | 
 | 293 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
 | 294 | [GNOG](games/g/gnog.md) | 4.67 | 
@@ -589,7 +589,7 @@
 | 587 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 588 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 589 | [Sable](games/s/sable.md) | 4.51 | 
-| 590 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
+| 590 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
 | 591 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 592 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
 | 593 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
