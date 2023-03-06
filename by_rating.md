@@ -817,8 +817,8 @@
 | 811 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 811 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
 | 817 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
-| 817 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.14 | 
-| 819 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
+| 818 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
+| 818 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.13 | 
 | 820 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 820 | [Train Valley 2](games/t/train_valley_2.md) | 4.12 | 
 | 822 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
