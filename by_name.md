@@ -390,7 +390,7 @@
 | 388 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
 | 389 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
 | 390 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
-| 391 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.75 | 
+| 391 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 
 | 392 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 393 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
 | 394 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
@@ -787,7 +787,7 @@
 | 785 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 786 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 787 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 
-| 788 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.81 | 
+| 788 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
 | 789 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 790 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
 | 791 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.67 | 
