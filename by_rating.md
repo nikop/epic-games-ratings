@@ -532,21 +532,21 @@
 | 519 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 519 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 519 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 
-| 519 | [Tails of Iron](games/t/tails_of_iron.md) | 4.50 | 
-| 534 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 534 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 534 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 534 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 534 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
-| 534 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 534 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 534 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
-| 534 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 534 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 534 | [CryoFall](games/c/cryofall.md) | 4.49 | 
-| 534 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 534 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
-| 534 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
+| 533 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 533 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 533 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 533 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 533 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 533 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 533 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 533 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
+| 533 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 533 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 533 | [CryoFall](games/c/cryofall.md) | 4.49 | 
+| 533 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 533 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 533 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
+| 533 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
 | 548 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 548 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 548 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
@@ -759,13 +759,13 @@
 | 754 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
 | 758 | [EVE Online](games/e/eve_online.md) | 4.25 | 
 | 758 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
-| 758 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 
 | 758 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
 | 758 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
-| 763 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 763 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
-| 763 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 763 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
+| 762 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
+| 762 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
+| 762 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
+| 762 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
+| 762 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
 | 767 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 767 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
 | 767 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 

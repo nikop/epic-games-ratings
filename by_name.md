@@ -242,7 +242,7 @@
 | 240 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 241 | [Fangs](games/f/fangs.md) | 4.09 | 
 | 242 | [Far Cry](games/f/far_cry.md) | 4.46 | 
-| 243 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 
+| 243 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
 | 244 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 245 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
 | 246 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 
@@ -696,7 +696,7 @@
 | 694 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 695 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 696 | [Tacoma](games/t/tacoma.md) | 4.39 | 
-| 697 | [Tails of Iron](games/t/tails_of_iron.md) | 4.50 | 
+| 697 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
 | 698 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 699 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 700 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 

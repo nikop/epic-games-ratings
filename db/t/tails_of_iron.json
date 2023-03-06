@@ -1,10 +1,10 @@
 {
   "ID": "fb76c816bb054fc8be57dc49f1600843",
   "Name": "Tails of Iron",
-  "Rating": 4.5,
+  "Rating": 4.49,
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
-  "LastChanged": "2023-02-16T14:59:45.4016229+00:00",
+  "LastChanged": "2023-03-06T16:58:16.6509175+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-24T13:07:58.3730391+00:00",
@@ -184,6 +184,11 @@
     {
       "Time": "2023-02-16T14:59:45.4016236+00:00",
       "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-06T16:58:16.6509179+00:00",
+      "Rating": 4.49,
       "NumberOfRatings": null
     }
   ],
