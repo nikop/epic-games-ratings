@@ -830,21 +830,21 @@
 | 824 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 824 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
 | 824 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 831 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
-| 831 | [Submerged](games/s/submerged.md) | 4.09 | 
-| 831 | [Fangs](games/f/fangs.md) | 4.09 | 
-| 834 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 834 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
-| 834 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
-| 837 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
-| 837 | [Lake](games/l/lake.md) | 4.07 | 
-| 837 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
-| 840 | [Godfall](games/g/godfall.md) | 4.06 | 
-| 841 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 841 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
-| 841 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.05 | 
-| 841 | [Forspoken](games/f/forspoken.md) | 4.05 | 
-| 841 | [Rise of Industry](games/r/rise_of_industry.md) | 4.05 | 
+| 824 | [Rise of Industry](games/r/rise_of_industry.md) | 4.10 | 
+| 832 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
+| 832 | [Submerged](games/s/submerged.md) | 4.09 | 
+| 832 | [Fangs](games/f/fangs.md) | 4.09 | 
+| 835 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 835 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
+| 835 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
+| 838 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
+| 838 | [Lake](games/l/lake.md) | 4.07 | 
+| 838 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
+| 841 | [Godfall](games/g/godfall.md) | 4.06 | 
+| 842 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 842 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
+| 842 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.05 | 
+| 842 | [Forspoken](games/f/forspoken.md) | 4.05 | 
 | 846 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 846 | [Tharsis](games/t/tharsis.md) | 4.04 | 
 | 848 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
