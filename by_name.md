@@ -129,7 +129,7 @@
 | 127 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.23 | 
 | 128 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 129 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 
-| 130 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 
+| 130 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 131 | [Conarium](games/c/conarium.md) | 3.93 | 
 | 132 | [Control](games/c/control.md) | 4.60 | 
 | 133 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
