@@ -195,7 +195,7 @@
 | 193 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
 | 194 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 195 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
-| 196 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
+| 196 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 
 | 197 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 198 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 199 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
@@ -248,7 +248,7 @@
 | 246 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 
 | 247 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
 | 248 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
-| 249 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.69 | 
+| 249 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
 | 250 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
 | 251 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
 | 252 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 

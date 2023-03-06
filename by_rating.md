@@ -200,6 +200,7 @@
 | 193 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 193 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
 | 193 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 193 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
 | 193 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 193 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 193 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
@@ -214,23 +215,22 @@
 | 193 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
 | 193 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
 | 193 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
-| 215 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 215 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 215 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 215 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 215 | [Days Gone](games/d/days_gone.md) | 4.69 | 
-| 215 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 215 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 215 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 215 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 215 | [Bad North](games/b/bad_north.md) | 4.69 | 
-| 215 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
-| 215 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.69 | 
-| 215 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 215 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 215 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
-| 215 | [High On Life](games/h/high_on_life.md) | 4.69 | 
-| 215 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
+| 216 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
+| 216 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 216 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 216 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 216 | [Days Gone](games/d/days_gone.md) | 4.69 | 
+| 216 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
+| 216 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
+| 216 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 216 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
+| 216 | [Bad North](games/b/bad_north.md) | 4.69 | 
+| 216 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
+| 216 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 216 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 216 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
+| 216 | [High On Life](games/h/high_on_life.md) | 4.69 | 
+| 216 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
 | 232 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
 | 232 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 232 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
@@ -681,23 +681,23 @@
 | 679 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 679 | [Core](games/c/core.md) | 4.37 | 
 | 679 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 679 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 679 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
 | 679 | [Encased](games/e/encased.md) | 4.37 | 
 | 679 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | 
 | 679 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 679 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 688 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 688 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 
-| 688 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
-| 688 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 688 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 688 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
-| 688 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 688 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
-| 688 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 688 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
-| 688 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
+| 687 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 687 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 
+| 687 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
+| 687 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 687 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 687 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
+| 687 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 687 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 
+| 687 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
+| 687 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
+| 687 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
+| 687 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
 | 699 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
 | 699 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 699 | [Among Trees](games/a/among_trees.md) | 4.35 | 
