@@ -308,7 +308,7 @@
 | 306 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.15 | 
 | 307 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 308 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.52 | 
-| 309 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.66 | 
+| 309 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.67 | 
 | 310 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 311 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 312 | [GRIME](games/g/grime.md) | 4.62 | 
@@ -524,7 +524,7 @@
 | 522 | [Patron](games/p/patron.md) | 3.94 | 
 | 523 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 524 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 525 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 525 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
 | 526 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.63 | 
 | 527 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
 | 528 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 

@@ -266,24 +266,24 @@
 | 250 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
 | 250 | [Card Shark](games/c/card_shark.md) | 4.67 | 
 | 250 | [GNOG](games/g/gnog.md) | 4.67 | 
+| 250 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.67 | 
 | 250 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.67 | 
 | 250 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
-| 269 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
-| 269 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 269 | [Trackmania](games/t/trackmania.md) | 4.66 | 
-| 269 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 269 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 269 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
-| 269 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 269 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
-| 269 | [Death's Door](games/d/death's_door.md) | 4.66 | 
-| 269 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
-| 269 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
-| 269 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
-| 269 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 269 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 269 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.66 | 
-| 269 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
+| 270 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
+| 270 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
+| 270 | [Trackmania](games/t/trackmania.md) | 4.66 | 
+| 270 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 270 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
+| 270 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
+| 270 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 270 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
+| 270 | [Death's Door](games/d/death's_door.md) | 4.66 | 
+| 270 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
+| 270 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
+| 270 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
+| 270 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 270 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 270 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
 | 285 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 285 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 285 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
@@ -467,30 +467,30 @@
 | 462 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 
 | 462 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 462 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
+| 462 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
 | 462 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
 | 462 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 462 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 462 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 472 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 472 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 472 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 472 | [Verdun](games/v/verdun.md) | 4.53 | 
-| 472 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 472 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
-| 472 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
-| 472 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 472 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 472 | [RUINER](games/r/ruiner.md) | 4.53 | 
-| 472 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 472 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
-| 472 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
-| 472 | [Aztez](games/a/aztez.md) | 4.53 | 
-| 472 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 472 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
-| 472 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 472 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
-| 472 | [First Class Trouble](games/f/first_class_trouble.md) | 4.53 | 
-| 472 | [IXION](games/i/ixion.md) | 4.53 | 
+| 473 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
+| 473 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 473 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 473 | [Verdun](games/v/verdun.md) | 4.53 | 
+| 473 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
+| 473 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
+| 473 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
+| 473 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 473 | [RUINER](games/r/ruiner.md) | 4.53 | 
+| 473 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 473 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
+| 473 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
+| 473 | [Aztez](games/a/aztez.md) | 4.53 | 
+| 473 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 473 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
+| 473 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
+| 473 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
+| 473 | [First Class Trouble](games/f/first_class_trouble.md) | 4.53 | 
+| 473 | [IXION](games/i/ixion.md) | 4.53 | 
 | 492 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
 | 492 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 492 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
