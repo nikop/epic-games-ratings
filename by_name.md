@@ -56,7 +56,7 @@
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.42 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
-| 57 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 57 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 
