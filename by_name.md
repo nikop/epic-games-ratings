@@ -434,7 +434,7 @@
 | 432 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 433 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 434 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.05 | 
-| 435 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
+| 435 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 436 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.56 | 
 | 437 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
 | 438 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 

@@ -159,6 +159,7 @@
 | 155 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
 | 155 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 155 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 155 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 155 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 155 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 155 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
@@ -166,17 +167,16 @@
 | 155 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
 | 155 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
 | 155 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 167 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 167 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
-| 167 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 167 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 167 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
-| 167 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 167 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 
-| 167 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
-| 167 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 167 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
-| 167 | [Dead Space](games/d/dead_space.md) | 4.72 | 
+| 168 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 168 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 168 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 168 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
+| 168 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 168 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 
+| 168 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
+| 168 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 168 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
+| 168 | [Dead Space](games/d/dead_space.md) | 4.72 | 
 | 178 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 178 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 178 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
