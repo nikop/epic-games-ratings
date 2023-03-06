@@ -56,7 +56,7 @@
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.42 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
-| 57 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
+| 57 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
 | 58 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 59 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 60 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 
@@ -249,7 +249,7 @@
 | 247 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
 | 248 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
 | 249 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
-| 250 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
+| 250 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 
 | 251 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
 | 252 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
 | 253 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 

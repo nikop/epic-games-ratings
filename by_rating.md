@@ -225,30 +225,30 @@
 | 216 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 216 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 216 | [Bad North](games/b/bad_north.md) | 4.69 | 
-| 216 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
 | 216 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 216 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 216 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 216 | [High On Life](games/h/high_on_life.md) | 4.69 | 
 | 216 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
-| 232 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
-| 232 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 232 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 232 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 232 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 232 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 232 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
-| 232 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 232 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.68 | 
-| 232 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 232 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
-| 232 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
-| 232 | [CARRION](games/c/carrion.md) | 4.68 | 
-| 232 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.68 | 
-| 232 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
-| 232 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
-| 232 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
-| 232 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
+| 231 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
+| 231 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 231 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 231 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 231 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 231 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 231 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
+| 231 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 231 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 
+| 231 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.68 | 
+| 231 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
+| 231 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 231 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
+| 231 | [CARRION](games/c/carrion.md) | 4.68 | 
+| 231 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.68 | 
+| 231 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
+| 231 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
+| 231 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
+| 231 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
 | 250 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 250 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 250 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
@@ -474,7 +474,6 @@
 | 472 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 472 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 472 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 472 | [Auto Chess](games/a/auto_chess.md) | 4.53 | 
 | 472 | [Verdun](games/v/verdun.md) | 4.53 | 
 | 472 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 472 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
@@ -492,17 +491,18 @@
 | 472 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
 | 472 | [First Class Trouble](games/f/first_class_trouble.md) | 4.53 | 
 | 472 | [IXION](games/i/ixion.md) | 4.53 | 
-| 493 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
-| 493 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 493 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 493 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 493 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 493 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.52 | 
-| 493 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 493 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 493 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.52 | 
-| 493 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 493 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 492 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
+| 492 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 492 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 492 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 492 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 492 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 492 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.52 | 
+| 492 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 492 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 492 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.52 | 
+| 492 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 492 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 504 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 504 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 504 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.51 | 
