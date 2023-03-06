@@ -867,7 +867,7 @@
 | 865 | [Warface](games/w/warface.md) | 3.92 | 
 | 865 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 867 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 868 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.90 | 
+| 867 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
 | 869 | [Chimeraland](games/c/chimeraland.md) | 3.89 | 
 | 870 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 871 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.81 | 
