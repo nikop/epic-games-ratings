@@ -841,10 +841,10 @@
 | 838 | [Lake](games/l/lake.md) | 4.07 | 
 | 838 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
 | 841 | [Godfall](games/g/godfall.md) | 4.06 | 
-| 842 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 842 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
-| 842 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.05 | 
-| 842 | [Forspoken](games/f/forspoken.md) | 4.05 | 
+| 841 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.06 | 
+| 843 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 843 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.05 | 
+| 843 | [Forspoken](games/f/forspoken.md) | 4.05 | 
 | 846 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 846 | [Tharsis](games/t/tharsis.md) | 4.04 | 
 | 848 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 

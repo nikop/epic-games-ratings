@@ -416,7 +416,7 @@
 | 414 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
 | 415 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 416 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 417 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
+| 417 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.06 | 
 | 418 | [Limbo](games/l/limbo.md) | 4.62 | 
 | 419 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.30 | 
 | 420 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
