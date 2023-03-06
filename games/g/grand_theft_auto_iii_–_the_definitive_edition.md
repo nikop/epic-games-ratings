@@ -1,5 +1,5 @@
 # Grand Theft Auto III – The Definitive Edition
-Rating: 4.15 (-)  (as of 23.09.2022)  
+Rating: 4.16 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -10,3 +10,4 @@ Rating: 4.15 (-)  (as of 23.09.2022)
 | 2023-03-01 | 4.12 | - |
 | 2023-03-03 | 4.11 | - |
 | 2023-03-04 | 4.15 | - |
+| 2023-03-06 | 4.16 | - |
