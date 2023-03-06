@@ -226,7 +226,7 @@
 | 224 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 225 | [EVE Online](games/e/eve_online.md) | 4.25 | 
 | 226 | [Everything](games/e/everything.md) | 4.57 | 
-| 227 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 227 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 
 | 228 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.89 | 
 | 229 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 230 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 
@@ -569,7 +569,7 @@
 | 567 | [RiMS Racing](games/r/rims_racing.md) | 4.47 | 
 | 568 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 569 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 570 | [Rise of Industry](games/r/rise_of_industry.md) | 4.10 | 
+| 570 | [Rise of Industry](games/r/rise_of_industry.md) | 4.06 | 
 | 571 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 572 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
 | 573 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
@@ -742,7 +742,7 @@
 | 740 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 741 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 742 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 743 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 
+| 743 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
 | 744 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 745 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 746 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 

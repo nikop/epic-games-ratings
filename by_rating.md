@@ -679,7 +679,6 @@
 | 667 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.38 | 
 | 667 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
 | 679 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 679 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 679 | [Core](games/c/core.md) | 4.37 | 
 | 679 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
 | 679 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
@@ -687,17 +686,18 @@
 | 679 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | 
 | 679 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 679 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 688 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 688 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
-| 688 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 688 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 688 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
-| 688 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 688 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 
-| 688 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
-| 688 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 688 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
-| 688 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
+| 687 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 687 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 
+| 687 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
+| 687 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 687 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 687 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
+| 687 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 687 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 
+| 687 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
+| 687 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
+| 687 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
+| 687 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
 | 699 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
 | 699 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 699 | [Among Trees](games/a/among_trees.md) | 4.35 | 
@@ -830,18 +830,18 @@
 | 824 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 824 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
 | 824 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 824 | [Rise of Industry](games/r/rise_of_industry.md) | 4.10 | 
-| 832 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
-| 832 | [Submerged](games/s/submerged.md) | 4.09 | 
-| 832 | [Fangs](games/f/fangs.md) | 4.09 | 
-| 835 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 835 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
-| 835 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
-| 838 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
-| 838 | [Lake](games/l/lake.md) | 4.07 | 
-| 838 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
-| 841 | [Godfall](games/g/godfall.md) | 4.06 | 
-| 841 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.06 | 
+| 831 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
+| 831 | [Submerged](games/s/submerged.md) | 4.09 | 
+| 831 | [Fangs](games/f/fangs.md) | 4.09 | 
+| 834 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 834 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
+| 834 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
+| 837 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
+| 837 | [Lake](games/l/lake.md) | 4.07 | 
+| 837 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
+| 840 | [Godfall](games/g/godfall.md) | 4.06 | 
+| 840 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.06 | 
+| 840 | [Rise of Industry](games/r/rise_of_industry.md) | 4.06 | 
 | 843 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 843 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.05 | 
 | 843 | [Forspoken](games/f/forspoken.md) | 4.05 | 
@@ -875,7 +875,7 @@
 | 873 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 873 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
 | 875 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
-| 875 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 
+| 876 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
 | 877 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 878 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
 | 879 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
