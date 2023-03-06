@@ -381,7 +381,7 @@
 | 379 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 380 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 381 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 382 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.13 | 
+| 382 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.14 | 
 | 383 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 384 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 385 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
@@ -400,14 +400,14 @@
 | 398 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
 | 399 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 400 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.45 | 
-| 401 | [Knockout City™](games/k/knockout_city™.md) | 4.45 | 
+| 401 | [Knockout City™](games/k/knockout_city™.md) | 4.47 | 
 | 402 | [Lake](games/l/lake.md) | 4.07 | 
 | 403 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 404 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
 | 405 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 406 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
 | 407 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 408 | [League of Legends](games/l/league_of_legends.md) | 4.22 | 
+| 408 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 409 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
 | 410 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 411 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
@@ -566,7 +566,7 @@
 | 564 | [Revita](games/r/revita.md) | 4.74 | 
 | 565 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 566 | [RiME](games/r/rime.md) | 4.58 | 
-| 567 | [RiMS Racing](games/r/rims_racing.md) | 4.47 | 
+| 567 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
 | 568 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 569 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 570 | [Rise of Industry](games/r/rise_of_industry.md) | 4.06 | 
@@ -838,7 +838,7 @@
 | 836 | [Warface](games/w/warface.md) | 3.92 | 
 | 837 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 838 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 839 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
+| 839 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 840 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
 | 841 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 842 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
