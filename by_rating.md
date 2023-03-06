@@ -195,7 +195,6 @@
 | 193 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 193 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
 | 193 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 193 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
 | 193 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
 | 193 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 193 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
@@ -215,21 +214,22 @@
 | 193 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
 | 193 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
 | 193 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
-| 216 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 216 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 216 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 216 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 216 | [Days Gone](games/d/days_gone.md) | 4.69 | 
-| 216 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
-| 216 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 216 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 216 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 216 | [Bad North](games/b/bad_north.md) | 4.69 | 
-| 216 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 216 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 216 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
-| 216 | [High On Life](games/h/high_on_life.md) | 4.69 | 
-| 216 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
+| 215 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
+| 215 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 215 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 215 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 215 | [Days Gone](games/d/days_gone.md) | 4.69 | 
+| 215 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
+| 215 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
+| 215 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
+| 215 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 215 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
+| 215 | [Bad North](games/b/bad_north.md) | 4.69 | 
+| 215 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 215 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 215 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
+| 215 | [High On Life](games/h/high_on_life.md) | 4.69 | 
+| 215 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
 | 231 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
 | 231 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 231 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
@@ -376,28 +376,28 @@
 | 366 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 366 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 366 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
+| 366 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.60 | 
 | 366 | [DOOM 3](games/d/doom_3.md) | 4.60 | 
 | 366 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 366 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 366 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 366 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.60 | 
-| 382 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 382 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 382 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
-| 382 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 382 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 
-| 382 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
-| 382 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
-| 382 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
-| 382 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
-| 382 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
-| 382 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
-| 382 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
-| 382 | [Roguebook](games/r/roguebook.md) | 4.59 | 
-| 382 | [Breathedge](games/b/breathedge.md) | 4.59 | 
-| 382 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
-| 382 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 
-| 382 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
+| 383 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 383 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 383 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
+| 383 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 383 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 
+| 383 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 383 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 
+| 383 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
+| 383 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
+| 383 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
+| 383 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
+| 383 | [Roguebook](games/r/roguebook.md) | 4.59 | 
+| 383 | [Breathedge](games/b/breathedge.md) | 4.59 | 
+| 383 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
+| 383 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 
+| 383 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 399 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
 | 399 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 399 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
