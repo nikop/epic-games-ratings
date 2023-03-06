@@ -245,7 +245,7 @@
 | 243 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
 | 244 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 245 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
-| 246 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 
+| 246 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 247 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
 | 248 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
 | 249 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
@@ -555,7 +555,7 @@
 | 553 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 554 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 555 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
-| 556 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.18 | 
+| 556 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.19 | 
 | 557 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 558 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 559 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
@@ -643,7 +643,7 @@
 | 641 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 642 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.83 | 
 | 643 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
-| 644 | [Space Punks](games/s/space_punks.md) | 4.17 | 
+| 644 | [Space Punks](games/s/space_punks.md) | 4.16 | 
 | 645 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
 | 646 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 647 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 

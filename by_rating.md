@@ -330,7 +330,6 @@
 | 328 | [Prey](games/p/prey.md) | 4.62 | 
 | 328 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 328 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
-| 328 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 
 | 328 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
 | 328 | [Limbo](games/l/limbo.md) | 4.62 | 
 | 328 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 
@@ -342,29 +341,30 @@
 | 328 | [NORCO](games/n/norco.md) | 4.62 | 
 | 328 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 328 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.62 | 
-| 343 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
-| 343 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 343 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
-| 343 | [Warframe](games/w/warframe.md) | 4.61 | 
-| 343 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
-| 343 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
-| 343 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 343 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 343 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 343 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
-| 343 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
-| 343 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 343 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 
-| 343 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 343 | [20XX](games/2/20xx.md) | 4.61 | 
-| 343 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
-| 343 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
-| 343 | [Road 96](games/r/road_96.md) | 4.61 | 
-| 343 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
-| 343 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
-| 343 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.61 | 
-| 343 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 
-| 343 | [Darkwood](games/d/darkwood.md) | 4.61 | 
+| 342 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
+| 342 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 342 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
+| 342 | [Warframe](games/w/warframe.md) | 4.61 | 
+| 342 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
+| 342 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
+| 342 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 342 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 342 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 342 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 342 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 342 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
+| 342 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 342 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 
+| 342 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 342 | [20XX](games/2/20xx.md) | 4.61 | 
+| 342 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
+| 342 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
+| 342 | [Road 96](games/r/road_96.md) | 4.61 | 
+| 342 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
+| 342 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
+| 342 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.61 | 
+| 342 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 
+| 342 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 366 | [Control](games/c/control.md) | 4.60 | 
 | 366 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 366 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
@@ -795,20 +795,20 @@
 | 791 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 
 | 791 | [Flatout](games/f/flatout.md) | 4.19 | 
 | 791 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
+| 791 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.19 | 
 | 791 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
-| 797 | [Windbound](games/w/windbound.md) | 4.18 | 
-| 797 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 
-| 797 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 797 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
-| 797 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.18 | 
-| 802 | [Space Punks](games/s/space_punks.md) | 4.17 | 
+| 798 | [Windbound](games/w/windbound.md) | 4.18 | 
+| 798 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 
+| 798 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 798 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
 | 802 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
 | 802 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
-| 805 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
-| 805 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 805 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
-| 805 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
-| 805 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
+| 804 | [Space Punks](games/s/space_punks.md) | 4.16 | 
+| 804 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
+| 804 | [Family Man](games/f/family_man.md) | 4.16 | 
+| 804 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
+| 804 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
+| 804 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
 | 810 | [Pine](games/p/pine.md) | 4.15 | 
 | 810 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 810 | [Relicta](games/r/relicta.md) | 4.15 | 
