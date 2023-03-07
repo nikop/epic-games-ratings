@@ -348,7 +348,6 @@
 | 343 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 343 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
 | 343 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
-| 343 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
 | 343 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
 | 343 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 343 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
@@ -365,23 +364,24 @@
 | 343 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.61 | 
 | 343 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 
 | 343 | [Darkwood](games/d/darkwood.md) | 4.61 | 
-| 366 | [Control](games/c/control.md) | 4.60 | 
-| 366 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
-| 366 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
-| 366 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 366 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 366 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 366 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
-| 366 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 
-| 366 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 366 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
-| 366 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
-| 366 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.60 | 
-| 366 | [DOOM 3](games/d/doom_3.md) | 4.60 | 
-| 366 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 366 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 366 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 366 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.60 | 
+| 365 | [Control](games/c/control.md) | 4.60 | 
+| 365 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
+| 365 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
+| 365 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 365 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 365 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
+| 365 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
+| 365 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
+| 365 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 
+| 365 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 365 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 365 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
+| 365 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.60 | 
+| 365 | [DOOM 3](games/d/doom_3.md) | 4.60 | 
+| 365 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 365 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
+| 365 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
+| 365 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.60 | 
 | 383 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 383 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 383 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
@@ -515,23 +515,23 @@
 | 505 | [Horace](games/h/horace.md) | 4.51 | 
 | 505 | [Sable](games/s/sable.md) | 4.51 | 
 | 505 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 505 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
 | 505 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.51 | 
-| 518 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 518 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 518 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
-| 518 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 518 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 518 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 
-| 518 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 
-| 518 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
-| 518 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 518 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 518 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
-| 518 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 518 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
-| 518 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 518 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 
+| 517 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 517 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 517 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
+| 517 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 517 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 517 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 
+| 517 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 
+| 517 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
+| 517 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 517 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 517 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
+| 517 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 517 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
+| 517 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
+| 517 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 
+| 517 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
 | 533 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 533 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 533 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
@@ -875,7 +875,7 @@
 | 873 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 873 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
 | 875 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
-| 876 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
+| 875 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 
 | 877 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 878 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
 | 879 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 

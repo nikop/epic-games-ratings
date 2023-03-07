@@ -237,7 +237,7 @@
 | 235 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 236 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 237 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 238 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
+| 238 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
 | 239 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 
 | 240 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 241 | [Fangs](games/f/fangs.md) | 4.09 | 
@@ -595,7 +595,7 @@
 | 593 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 594 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 
 | 595 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 596 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 596 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.60 | 
 | 597 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
 | 598 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
 | 599 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
@@ -742,7 +742,7 @@
 | 740 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 741 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 742 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 743 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
+| 743 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 
 | 744 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 745 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 746 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
