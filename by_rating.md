@@ -815,10 +815,10 @@
 | 811 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 811 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 811 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
+| 811 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.15 | 
 | 811 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
-| 817 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
-| 818 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
-| 818 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.13 | 
+| 818 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
+| 819 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 820 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 820 | [Train Valley 2](games/t/train_valley_2.md) | 4.12 | 
 | 822 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
@@ -870,8 +870,8 @@
 | 867 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
 | 867 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
 | 870 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 871 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
-| 872 | [Blood of Steel](games/b/blood_of_steel.md) | 3.79 | 
+| 871 | [Blood of Steel](games/b/blood_of_steel.md) | 3.79 | 
+| 871 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.79 | 
 | 873 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 873 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
 | 875 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
