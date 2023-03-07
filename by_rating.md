@@ -58,53 +58,53 @@
 | 54 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
 | 54 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 54 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.83 | 
-| 54 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.83 | 
-| 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 60 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
-| 60 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 60 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.82 | 
-| 60 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 60 | [The Last Campfire](games/t/the_last_campfire.md) | 4.82 | 
-| 60 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
-| 60 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
-| 60 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
-| 69 | [Sifu](games/s/sifu.md) | 4.81 | 
-| 69 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 69 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
-| 69 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 69 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
-| 69 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
-| 69 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
-| 69 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
-| 69 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
-| 78 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 78 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 78 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 78 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
-| 78 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
-| 78 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
-| 78 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 
-| 78 | [Journey](games/j/journey.md) | 4.80 | 
-| 78 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
-| 78 | [Superliminal](games/s/superliminal.md) | 4.80 | 
-| 78 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 78 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
-| 78 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
-| 91 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 91 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
-| 91 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 91 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
-| 91 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 91 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 91 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
-| 91 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 
-| 91 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
-| 91 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 91 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.79 | 
-| 91 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 103 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 103 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
-| 103 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
+| 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 59 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 59 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
+| 59 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.82 | 
+| 59 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
+| 59 | [The Last Campfire](games/t/the_last_campfire.md) | 4.82 | 
+| 59 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
+| 59 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
+| 59 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
+| 68 | [Sifu](games/s/sifu.md) | 4.81 | 
+| 68 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 68 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
+| 68 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 68 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
+| 68 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
+| 68 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
+| 68 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
+| 68 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
+| 77 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 77 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 77 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 77 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
+| 77 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
+| 77 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
+| 77 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 
+| 77 | [Journey](games/j/journey.md) | 4.80 | 
+| 77 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
+| 77 | [Superliminal](games/s/superliminal.md) | 4.80 | 
+| 77 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 77 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
+| 77 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
+| 90 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 90 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
+| 90 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 90 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
+| 90 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 90 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 90 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
+| 90 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 
+| 90 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
+| 90 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 90 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.79 | 
+| 90 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
+| 102 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 102 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
+| 102 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
+| 102 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.78 | 
 | 106 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 106 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 106 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
