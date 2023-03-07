@@ -739,24 +739,24 @@
 | 736 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 736 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 736 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
-| 736 | [The Fall](games/t/the_fall.md) | 4.29 | 
 | 736 | [War Mongrels](games/w/war_mongrels.md) | 4.29 | 
 | 736 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 736 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
 | 736 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
 | 736 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 736 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
-| 747 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 747 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 747 | [Dark Light](games/d/dark_light.md) | 4.28 | 
+| 746 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 746 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 746 | [The Fall](games/t/the_fall.md) | 4.28 | 
+| 746 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 750 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 750 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 750 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 
-| 750 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.27 | 
-| 754 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 754 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
-| 754 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
-| 754 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
+| 753 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 753 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
+| 753 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
+| 753 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.26 | 
+| 753 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.26 | 
 | 758 | [EVE Online](games/e/eve_online.md) | 4.25 | 
 | 758 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 758 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 

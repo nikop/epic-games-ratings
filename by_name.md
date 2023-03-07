@@ -154,7 +154,7 @@
 | 152 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 153 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 154 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 155 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.27 | 
+| 155 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.26 | 
 | 156 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
 | 157 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
 | 158 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
@@ -721,7 +721,7 @@
 | 719 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 720 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 721 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
-| 722 | [The Fall](games/t/the_fall.md) | 4.29 | 
+| 722 | [The Fall](games/t/the_fall.md) | 4.28 | 
 | 723 | [The First Tree](games/t/the_first_tree.md) | 3.96 | 
 | 724 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
 | 725 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
