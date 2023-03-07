@@ -501,23 +501,23 @@
 | 493 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.52 | 
 | 493 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
 | 493 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 493 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.52 | 
 | 493 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 493 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
-| 505 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 505 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 505 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 505 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 505 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 505 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 505 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 505 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
-| 505 | [Horace](games/h/horace.md) | 4.51 | 
-| 505 | [Sable](games/s/sable.md) | 4.51 | 
-| 505 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
-| 505 | [UnMetal](games/u/unmetal.md) | 4.51 | 
-| 505 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 505 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
+| 504 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 504 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 504 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 504 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 504 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 504 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 504 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 504 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
+| 504 | [Horace](games/h/horace.md) | 4.51 | 
+| 504 | [Sable](games/s/sable.md) | 4.51 | 
+| 504 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
+| 504 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 504 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
+| 504 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
+| 504 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.51 | 
 | 519 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 519 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 519 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
@@ -858,11 +858,11 @@
 | 856 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.96 | 
 | 856 | [The First Tree](games/t/the_first_tree.md) | 3.96 | 
 | 858 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 858 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.95 | 
 | 858 | [Banished](games/b/banished.md) | 3.95 | 
-| 861 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
-| 861 | [Patron](games/p/patron.md) | 3.94 | 
-| 861 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
+| 860 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.94 | 
+| 860 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
+| 860 | [Patron](games/p/patron.md) | 3.94 | 
+| 860 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
 | 864 | [Conarium](games/c/conarium.md) | 3.93 | 
 | 865 | [Warface](games/w/warface.md) | 3.92 | 
 | 865 | [Ironcast](games/i/ironcast.md) | 3.92 | 
