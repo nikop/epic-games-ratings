@@ -514,24 +514,24 @@
 | 505 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
 | 505 | [Horace](games/h/horace.md) | 4.51 | 
 | 505 | [Sable](games/s/sable.md) | 4.51 | 
-| 505 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
 | 505 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 505 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 
 | 505 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.51 | 
-| 519 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 519 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 519 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
-| 519 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 519 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 519 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 
-| 519 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 
-| 519 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
-| 519 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 519 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 519 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
-| 519 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 519 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 519 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 
+| 518 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 518 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 518 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
+| 518 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 518 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 518 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 
+| 518 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 
+| 518 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
+| 518 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 518 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 518 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
+| 518 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 518 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
+| 518 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
+| 518 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 
 | 533 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 533 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 533 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
@@ -664,20 +664,20 @@
 | 660 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
 | 660 | [Tacoma](games/t/tacoma.md) | 4.39 | 
 | 660 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
+| 660 | [Warpips](games/w/warpips.md) | 4.39 | 
 | 660 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 660 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 660 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.39 | 
-| 668 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 668 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
-| 668 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 
-| 668 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
-| 668 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
-| 668 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
-| 668 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 668 | [Warpips](games/w/warpips.md) | 4.38 | 
-| 668 | [Hammerting](games/h/hammerting.md) | 4.38 | 
-| 668 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.38 | 
-| 668 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
+| 669 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 669 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
+| 669 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 
+| 669 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 669 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
+| 669 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
+| 669 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
+| 669 | [Hammerting](games/h/hammerting.md) | 4.38 | 
+| 669 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.38 | 
+| 669 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
 | 679 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 679 | [Core](games/c/core.md) | 4.37 | 
 | 679 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 

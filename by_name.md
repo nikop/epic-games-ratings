@@ -714,7 +714,7 @@
 | 712 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.78 | 
 | 713 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
 | 714 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 715 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
+| 715 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
 | 716 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 717 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 718 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
@@ -843,7 +843,7 @@
 | 841 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 842 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 843 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
-| 844 | [Warpips](games/w/warpips.md) | 4.38 | 
+| 844 | [Warpips](games/w/warpips.md) | 4.39 | 
 | 845 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 846 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 847 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
