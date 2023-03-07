@@ -173,7 +173,7 @@
 | 171 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 172 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
 | 173 | [Dead Space](games/d/dead_space.md) | 4.72 | 
-| 174 | [Death Coming](games/d/death_coming.md) | 4.44 | 
+| 174 | [Death Coming](games/d/death_coming.md) | 4.43 | 
 | 175 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
 | 176 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
 | 177 | [Death's Door](games/d/death's_door.md) | 4.66 | 
@@ -480,7 +480,7 @@
 | 478 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 479 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
 | 480 | [NORCO](games/n/norco.md) | 4.62 | 
-| 481 | [Northgard](games/n/northgard.md) | 4.73 | 
+| 481 | [Northgard](games/n/northgard.md) | 4.72 | 
 | 482 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.71 | 
 | 483 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 484 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
@@ -742,7 +742,7 @@
 | 740 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 741 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 742 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 743 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
+| 743 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 
 | 744 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 745 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 746 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 

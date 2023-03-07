@@ -1,10 +1,10 @@
 {
   "ID": "9afbc4780d874152a1c66d5fec0967d4",
   "Name": "Northgard",
-  "Rating": 4.73,
+  "Rating": 4.72,
   "NumberOfRatings": 82,
   "FirstSeen": "2022-07-22T20:19:06.911042+00:00",
-  "LastChanged": "2023-02-10T20:57:15.096883+00:00",
+  "LastChanged": "2023-03-07T03:20:52.0786529+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:06.9110423+00:00",
@@ -264,6 +264,11 @@
     {
       "Time": "2023-02-10T20:57:15.0968832+00:00",
       "Rating": 4.73,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-07T03:20:52.0786532+00:00",
+      "Rating": 4.72,
       "NumberOfRatings": null
     }
   ],

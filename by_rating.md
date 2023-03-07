@@ -163,20 +163,20 @@
 | 155 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 155 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 155 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
-| 155 | [Northgard](games/n/northgard.md) | 4.73 | 
 | 155 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
 | 155 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
 | 155 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 168 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 168 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 168 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 168 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
-| 168 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 168 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 
-| 168 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
-| 168 | [Slipways](games/s/slipways.md) | 4.72 | 
-| 168 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
-| 168 | [Dead Space](games/d/dead_space.md) | 4.72 | 
+| 167 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 167 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 167 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 167 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
+| 167 | [Northgard](games/n/northgard.md) | 4.72 | 
+| 167 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 167 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 
+| 167 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
+| 167 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 167 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
+| 167 | [Dead Space](games/d/dead_space.md) | 4.72 | 
 | 178 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 178 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 178 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
@@ -605,7 +605,6 @@
 | 598 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
 | 598 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
 | 598 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
-| 598 | [Death Coming](games/d/death_coming.md) | 4.44 | 
 | 598 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
 | 598 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 598 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
@@ -614,16 +613,17 @@
 | 598 | [Predecessor](games/p/predecessor.md) | 4.44 | 
 | 598 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 598 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.44 | 
-| 615 | [Sheltered](games/s/sheltered.md) | 4.43 | 
-| 615 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 615 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
-| 615 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
-| 615 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
-| 615 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
-| 615 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
-| 615 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.43 | 
-| 615 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
-| 615 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
+| 614 | [Sheltered](games/s/sheltered.md) | 4.43 | 
+| 614 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 614 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
+| 614 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
+| 614 | [Death Coming](games/d/death_coming.md) | 4.43 | 
+| 614 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
+| 614 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
+| 614 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
+| 614 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.43 | 
+| 614 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
+| 614 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 625 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 625 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 625 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
@@ -875,7 +875,7 @@
 | 873 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 873 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
 | 875 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
-| 876 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
+| 875 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 
 | 877 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 878 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
 | 879 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
