@@ -21,7 +21,7 @@
 | 19 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
 | 20 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 21 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
-| 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 22 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
 | 23 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
 | 24 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 25 | [Among Us](games/a/among_us.md) | 4.58 | 
@@ -478,7 +478,7 @@
 | 476 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 477 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 478 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 479 | [No Straight Roads](games/n/no_straight_roads.md) | 4.71 | 
+| 479 | [No Straight Roads](games/n/no_straight_roads.md) | 4.68 | 
 | 480 | [NORCO](games/n/norco.md) | 4.62 | 
 | 481 | [Northgard](games/n/northgard.md) | 4.72 | 
 | 482 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.71 | 
