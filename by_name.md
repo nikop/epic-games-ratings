@@ -52,7 +52,7 @@
 | 50 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
 | 51 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 52 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
-| 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 
+| 53 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
 | 54 | [ATOM RPG](games/a/atom_rpg.md) | 4.42 | 
 | 55 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
 | 56 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
@@ -217,7 +217,7 @@
 | 215 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
 | 216 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 217 | [ELEX](games/e/elex.md) | 4.42 | 
-| 218 | [ELEX II](games/e/elex_ii.md) | 4.29 | 
+| 218 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 219 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 220 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 221 | [Encased](games/e/encased.md) | 4.37 | 
@@ -744,7 +744,7 @@
 | 742 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 743 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 
 | 744 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 745 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
+| 745 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 746 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 747 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 748 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
@@ -821,7 +821,7 @@
 | 819 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 
 | 820 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 821 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 
-| 822 | [UnMetal](games/u/unmetal.md) | 4.51 | 
+| 822 | [UnMetal](games/u/unmetal.md) | 4.52 | 
 | 823 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.48 | 
 | 824 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 825 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
