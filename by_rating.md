@@ -307,26 +307,26 @@
 | 300 | [SOMA](games/s/soma.md) | 4.64 | 
 | 300 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 300 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.64 | 
+| 300 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
 | 300 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
 | 300 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 
 | 300 | [Returnal™](games/r/returnal™.md) | 4.64 | 
 | 300 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
-| 312 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 312 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 312 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 312 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.63 | 
-| 312 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 312 | [ABZU](games/a/abzu.md) | 4.63 | 
-| 312 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
-| 312 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
-| 312 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 312 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 
-| 312 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
-| 312 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
-| 312 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 
-| 312 | [GigaBash](games/g/gigabash.md) | 4.63 | 
-| 312 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
-| 312 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.63 | 
+| 313 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 313 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 313 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 313 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.63 | 
+| 313 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 313 | [ABZU](games/a/abzu.md) | 4.63 | 
+| 313 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
+| 313 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
+| 313 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 
+| 313 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
+| 313 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
+| 313 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 
+| 313 | [GigaBash](games/g/gigabash.md) | 4.63 | 
+| 313 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
+| 313 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.63 | 
 | 328 | [Prey](games/p/prey.md) | 4.62 | 
 | 328 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 328 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
@@ -666,18 +666,18 @@
 | 660 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 660 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 660 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 667 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 667 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
-| 667 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 
-| 667 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
-| 667 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
-| 667 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
-| 667 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 667 | [Warpips](games/w/warpips.md) | 4.38 | 
-| 667 | [Hammerting](games/h/hammerting.md) | 4.38 | 
-| 667 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.38 | 
-| 667 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.38 | 
-| 667 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
+| 660 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.39 | 
+| 668 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 668 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
+| 668 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 
+| 668 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 668 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
+| 668 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
+| 668 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
+| 668 | [Warpips](games/w/warpips.md) | 4.38 | 
+| 668 | [Hammerting](games/h/hammerting.md) | 4.38 | 
+| 668 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.38 | 
+| 668 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
 | 679 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 679 | [Core](games/c/core.md) | 4.37 | 
 | 679 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 

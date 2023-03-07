@@ -78,7 +78,7 @@
 | 76 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 77 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
 | 78 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
-| 79 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 
+| 79 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
 | 80 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 81 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
 | 82 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
@@ -495,7 +495,7 @@
 | 493 | [Old World](games/o/old_world.md) | 4.64 | 
 | 494 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 495 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
-| 496 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.38 | 
+| 496 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.39 | 
 | 497 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
 | 498 | [Othercide](games/o/othercide.md) | 4.40 | 
 | 499 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
