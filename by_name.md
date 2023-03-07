@@ -118,7 +118,7 @@
 | 116 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 117 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
 | 118 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
-| 119 | [Chimeraland](games/c/chimeraland.md) | 3.89 | 
+| 119 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
 | 120 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
 | 121 | [Chorus](games/c/chorus.md) | 4.48 | 
 | 122 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
@@ -525,7 +525,7 @@
 | 523 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 524 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 525 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
-| 526 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.63 | 
+| 526 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 527 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
 | 528 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 529 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 

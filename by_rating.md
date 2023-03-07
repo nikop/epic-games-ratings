@@ -315,7 +315,6 @@
 | 313 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 313 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 313 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 313 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.63 | 
 | 313 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 313 | [ABZU](games/a/abzu.md) | 4.63 | 
 | 313 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
@@ -327,20 +326,21 @@
 | 313 | [GigaBash](games/g/gigabash.md) | 4.63 | 
 | 313 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 313 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.63 | 
-| 328 | [Prey](games/p/prey.md) | 4.62 | 
-| 328 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 328 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
-| 328 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
-| 328 | [Limbo](games/l/limbo.md) | 4.62 | 
-| 328 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 
-| 328 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 328 | [Mutazione](games/m/mutazione.md) | 4.62 | 
-| 328 | [GRIME](games/g/grime.md) | 4.62 | 
-| 328 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 328 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
-| 328 | [NORCO](games/n/norco.md) | 4.62 | 
-| 328 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 328 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.62 | 
+| 327 | [Prey](games/p/prey.md) | 4.62 | 
+| 327 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 327 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 327 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
+| 327 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
+| 327 | [Limbo](games/l/limbo.md) | 4.62 | 
+| 327 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 
+| 327 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 327 | [Mutazione](games/m/mutazione.md) | 4.62 | 
+| 327 | [GRIME](games/g/grime.md) | 4.62 | 
+| 327 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 327 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
+| 327 | [NORCO](games/n/norco.md) | 4.62 | 
+| 327 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 327 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.62 | 
 | 342 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 342 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 342 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
@@ -867,8 +867,8 @@
 | 865 | [Warface](games/w/warface.md) | 3.92 | 
 | 865 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 867 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 867 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
 | 867 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
-| 869 | [Chimeraland](games/c/chimeraland.md) | 3.89 | 
 | 870 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 871 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
 | 872 | [Blood of Steel](games/b/blood_of_steel.md) | 3.79 | 
