@@ -209,7 +209,7 @@
 | 207 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
 | 208 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 209 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 210 | [Duskers](games/d/duskers.md) | 4.41 | 
+| 210 | [Duskers](games/d/duskers.md) | 4.40 | 
 | 211 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 212 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 
 | 213 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
@@ -425,7 +425,7 @@
 | 423 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
 | 424 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
 | 425 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.57 | 
-| 426 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.61 | 
+| 426 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 427 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 428 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
 | 429 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
@@ -569,7 +569,7 @@
 | 567 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
 | 568 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 569 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 570 | [Rise of Industry](games/r/rise_of_industry.md) | 4.03 | 
+| 570 | [Rise of Industry](games/r/rise_of_industry.md) | 4.05 | 
 | 571 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 572 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
 | 573 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
@@ -742,7 +742,7 @@
 | 740 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 741 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 742 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 743 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 
+| 743 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
 | 744 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 745 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 746 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
