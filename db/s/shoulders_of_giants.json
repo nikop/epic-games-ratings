@@ -1,7 +1,16 @@
 {
   "ID": "fa7346c113ff48d8b9a1b48f44a3a48e",
   "Name": "Shoulders of Giants",
+  "Rating": 4.2,
   "FirstSeen": "2023-01-26T15:57:54.151819+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
+  "LastChanged": "2023-03-08T19:57:26.4841993+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-08T19:57:26.4841995+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
