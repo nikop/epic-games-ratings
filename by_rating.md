@@ -286,21 +286,21 @@
 | 271 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
 | 271 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
 | 271 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
-| 287 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 287 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 287 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 287 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
-| 287 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
-| 287 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
-| 287 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 287 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 287 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
-| 287 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
-| 287 | [Coromon](games/c/coromon.md) | 4.65 | 
-| 287 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
-| 287 | [APE OUT](games/a/ape_out.md) | 4.65 | 
-| 287 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
-| 287 | [Returnal™](games/r/returnal™.md) | 4.65 | 
+| 271 | [Returnal™](games/r/returnal™.md) | 4.66 | 
+| 288 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 288 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 288 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 288 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
+| 288 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
+| 288 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
+| 288 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 288 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
+| 288 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 288 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
+| 288 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 288 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
+| 288 | [APE OUT](games/a/ape_out.md) | 4.65 | 
+| 288 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
 | 302 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 302 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 302 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
@@ -767,12 +767,12 @@
 | 763 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 763 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
 | 763 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
-| 763 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.24 | 
-| 769 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 769 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
-| 769 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
-| 769 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 769 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
+| 768 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 768 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
+| 768 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
+| 768 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.23 | 
+| 768 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
+| 768 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
 | 774 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
 | 774 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
 | 774 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
