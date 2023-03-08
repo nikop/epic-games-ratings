@@ -101,10 +101,10 @@
 | 90 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 90 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.79 | 
 | 90 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 102 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 102 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
-| 102 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
-| 102 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.78 | 
+| 90 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.79 | 
+| 103 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 103 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
+| 103 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
 | 106 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 106 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 106 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
@@ -646,19 +646,19 @@
 | 637 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 637 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 637 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 637 | [Duskers](games/d/duskers.md) | 4.41 | 
 | 637 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
-| 648 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 648 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 648 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 648 | [Othercide](games/o/othercide.md) | 4.40 | 
-| 648 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 648 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
-| 648 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 648 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
-| 648 | [Duskers](games/d/duskers.md) | 4.40 | 
-| 648 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
-| 648 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
-| 648 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
+| 649 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 649 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 649 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
+| 649 | [Othercide](games/o/othercide.md) | 4.40 | 
+| 649 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 649 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
+| 649 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
+| 649 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
+| 649 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 649 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
+| 649 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 660 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 660 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 660 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
@@ -876,7 +876,7 @@
 | 874 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 874 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
 | 876 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
-| 876 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 
+| 877 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
 | 878 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 879 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
 | 880 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 

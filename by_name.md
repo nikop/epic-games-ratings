@@ -210,7 +210,7 @@
 | 208 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
 | 209 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 210 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 211 | [Duskers](games/d/duskers.md) | 4.40 | 
+| 211 | [Duskers](games/d/duskers.md) | 4.41 | 
 | 212 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 213 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 214 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
@@ -712,7 +712,7 @@
 | 710 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 711 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 712 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
-| 713 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.78 | 
+| 713 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.79 | 
 | 714 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
 | 715 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 716 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
@@ -743,7 +743,7 @@
 | 741 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
 | 742 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 743 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 744 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 
+| 744 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
 | 745 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 746 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 747 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
