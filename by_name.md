@@ -805,7 +805,7 @@
 | 803 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 804 | [Train Valley 2](games/t/train_valley_2.md) | 4.12 | 
 | 805 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 806 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 
+| 806 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 807 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 808 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
 | 809 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
