@@ -132,7 +132,6 @@
 | 126 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 
 | 126 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 126 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
-| 126 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 126 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 126 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 126 | [Quake](games/q/quake.md) | 4.75 | 
@@ -141,19 +140,20 @@
 | 126 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.75 | 
 | 126 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 
 | 126 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 
-| 142 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
-| 142 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 142 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 142 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 142 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
-| 142 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
-| 142 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 142 | [Revita](games/r/revita.md) | 4.74 | 
-| 142 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
-| 142 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
-| 142 | [King of Retail](games/k/king_of_retail.md) | 4.74 | 
-| 142 | [Outlast](games/o/outlast.md) | 4.74 | 
-| 142 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
+| 141 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
+| 141 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 141 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 141 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 141 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 141 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
+| 141 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
+| 141 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
+| 141 | [Revita](games/r/revita.md) | 4.74 | 
+| 141 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 141 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
+| 141 | [King of Retail](games/k/king_of_retail.md) | 4.74 | 
+| 141 | [Outlast](games/o/outlast.md) | 4.74 | 
+| 141 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
 | 155 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 155 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 155 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
@@ -606,6 +606,7 @@
 | 599 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
 | 599 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
 | 599 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
+| 599 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
 | 599 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 599 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
 | 599 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
@@ -613,18 +614,17 @@
 | 599 | [Predecessor](games/p/predecessor.md) | 4.44 | 
 | 599 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 599 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.44 | 
-| 614 | [Sheltered](games/s/sheltered.md) | 4.43 | 
-| 614 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 614 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
-| 614 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
-| 614 | [Death Coming](games/d/death_coming.md) | 4.43 | 
-| 614 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
-| 614 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
-| 614 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
-| 614 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
-| 614 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.43 | 
-| 614 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
-| 614 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
+| 615 | [Sheltered](games/s/sheltered.md) | 4.43 | 
+| 615 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 615 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
+| 615 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
+| 615 | [Death Coming](games/d/death_coming.md) | 4.43 | 
+| 615 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
+| 615 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
+| 615 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
+| 615 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.43 | 
+| 615 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
+| 615 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 626 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 626 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 626 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
