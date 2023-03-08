@@ -18,11 +18,11 @@
 | 11 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 11 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.89 | 
 | 11 | [Firework](games/f/firework.md) | 4.89 | 
-| 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
-| 19 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
-| 19 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
-| 19 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.88 | 
+| 11 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.89 | 
+| 20 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
+| 20 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
+| 20 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
+| 20 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
 | 24 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
 | 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 
