@@ -308,7 +308,7 @@
 | 306 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 307 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.16 | 
 | 308 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 309 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.51 | 
+| 309 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.50 | 
 | 310 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.68 | 
 | 311 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 312 | [Griftlands](games/g/griftlands.md) | 4.81 | 
@@ -546,7 +546,7 @@
 | 544 | [Quake](games/q/quake.md) | 4.75 | 
 | 545 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 546 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 547 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 547 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 548 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
 | 549 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 550 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
