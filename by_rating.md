@@ -248,28 +248,28 @@
 | 231 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
 | 231 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
 | 231 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
-| 231 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.68 | 
 | 231 | [No Straight Roads](games/n/no_straight_roads.md) | 4.68 | 
 | 231 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
-| 252 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 252 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 252 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
-| 252 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 252 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 252 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.67 | 
-| 252 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
-| 252 | [Overcooked](games/o/overcooked.md) | 4.67 | 
-| 252 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 252 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
-| 252 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
-| 252 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
-| 252 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
-| 252 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 252 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
-| 252 | [Card Shark](games/c/card_shark.md) | 4.67 | 
-| 252 | [GNOG](games/g/gnog.md) | 4.67 | 
-| 252 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.67 | 
-| 252 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
+| 251 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 251 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 251 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
+| 251 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 251 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 251 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.67 | 
+| 251 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
+| 251 | [Overcooked](games/o/overcooked.md) | 4.67 | 
+| 251 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 251 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
+| 251 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
+| 251 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
+| 251 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
+| 251 | [Eastward](games/e/eastward.md) | 4.67 | 
+| 251 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
+| 251 | [Card Shark](games/c/card_shark.md) | 4.67 | 
+| 251 | [GNOG](games/g/gnog.md) | 4.67 | 
+| 251 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.67 | 
+| 251 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.67 | 
+| 251 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
 | 271 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 271 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 271 | [Trackmania](games/t/trackmania.md) | 4.66 | 
@@ -557,7 +557,6 @@
 | 549 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
 | 549 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 
 | 549 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
-| 558 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 558 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 558 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 558 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -573,17 +572,18 @@
 | 558 | [Knockout City™](games/k/knockout_city™.md) | 4.47 | 
 | 558 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 558 | [STG Football](games/s/stg_football.md) | 4.47 | 
-| 574 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 574 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 574 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
-| 574 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 574 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
-| 574 | [The Surge](games/t/the_surge.md) | 4.46 | 
-| 574 | [Far Cry](games/f/far_cry.md) | 4.46 | 
-| 574 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
-| 574 | [Train Valley](games/t/train_valley.md) | 4.46 | 
-| 574 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
-| 574 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 573 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 573 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 573 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 573 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
+| 573 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 573 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
+| 573 | [The Surge](games/t/the_surge.md) | 4.46 | 
+| 573 | [Far Cry](games/f/far_cry.md) | 4.46 | 
+| 573 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
+| 573 | [Train Valley](games/t/train_valley.md) | 4.46 | 
+| 573 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
+| 573 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 585 | [SMITE](games/s/smite.md) | 4.45 | 
 | 585 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 585 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 

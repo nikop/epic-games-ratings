@@ -309,7 +309,7 @@
 | 307 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.16 | 
 | 308 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 309 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.51 | 
-| 310 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.68 | 
+| 310 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.67 | 
 | 311 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 312 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 313 | [GRIME](games/g/grime.md) | 4.62 | 
@@ -866,7 +866,7 @@
 | 864 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
 | 865 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 866 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
-| 867 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
+| 867 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 868 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 869 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
 | 870 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
