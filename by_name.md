@@ -82,7 +82,7 @@
 | 80 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
 | 81 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 82 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 83 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
+| 83 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 84 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 85 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 86 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
@@ -212,7 +212,7 @@
 | 210 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 211 | [Duskers](games/d/duskers.md) | 4.40 | 
 | 212 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
-| 213 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 
+| 213 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 214 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 215 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 216 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
@@ -525,7 +525,7 @@
 | 523 | [Patron](games/p/patron.md) | 3.94 | 
 | 524 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 525 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 526 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
+| 526 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
 | 527 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
 | 528 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
 | 529 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
@@ -745,7 +745,7 @@
 | 743 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 744 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 
 | 745 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 746 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
+| 746 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 747 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 748 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 749 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
