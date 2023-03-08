@@ -29,7 +29,7 @@
 | 27 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 28 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 
 | 29 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 
-| 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 30 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
 | 31 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 32 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
 | 33 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.43 | 
@@ -195,7 +195,7 @@
 | 193 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
 | 194 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 195 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
-| 196 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 
+| 196 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 197 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 198 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 199 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
