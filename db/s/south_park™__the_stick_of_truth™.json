@@ -1,10 +1,10 @@
 {
   "ID": "8f8bddb3ff464536984ce8e945cb5f8c",
   "Name": "South Park\u2122: The Stick of Truth\u2122",
-  "Rating": 4.79,
+  "Rating": 4.78,
   "NumberOfRatings": 115,
   "FirstSeen": "2022-07-22T20:25:01.6762384+00:00",
-  "LastChanged": "2023-03-01T22:57:31.8106302+00:00",
+  "LastChanged": "2023-03-08T17:57:34.2138958+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:01.6762388+00:00",
@@ -239,6 +239,11 @@
     {
       "Time": "2023-03-01T22:57:31.8106307+00:00",
       "Rating": 4.79,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-08T17:57:34.2138959+00:00",
+      "Rating": 4.78,
       "NumberOfRatings": null
     }
   ],

@@ -97,14 +97,14 @@
 | 90 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 90 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
 | 90 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 
-| 90 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 90 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 90 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.79 | 
 | 90 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
 | 90 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.79 | 
-| 103 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 103 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
-| 103 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
+| 102 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 102 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
+| 102 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
+| 102 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
 | 106 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 106 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 106 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
