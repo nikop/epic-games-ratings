@@ -308,7 +308,7 @@
 | 306 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 307 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.16 | 
 | 308 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 309 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.50 | 
+| 309 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.51 | 
 | 310 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.68 | 
 | 311 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 312 | [Griftlands](games/g/griftlands.md) | 4.81 | 
@@ -454,7 +454,7 @@
 | 452 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
 | 453 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 454 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 
-| 455 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 455 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
 | 456 | [Moving Out](games/m/moving_out.md) | 4.58 | 
 | 457 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 458 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
@@ -486,7 +486,7 @@
 | 484 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 485 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
 | 486 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
-| 487 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 487 | [Obduction](games/o/obduction.md) | 4.11 | 
 | 488 | [Observation](games/o/observation.md) | 4.56 | 
 | 489 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
 | 490 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 

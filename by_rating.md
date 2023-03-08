@@ -125,7 +125,6 @@
 | 116 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 
 | 116 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.76 | 
 | 116 | [shapez](games/s/shapez.md) | 4.76 | 
-| 126 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 126 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
 | 126 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 126 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
@@ -140,20 +139,21 @@
 | 126 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.75 | 
 | 126 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 
 | 126 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 
-| 141 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
-| 141 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 141 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 141 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 141 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 141 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
-| 141 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
-| 141 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 141 | [Revita](games/r/revita.md) | 4.74 | 
-| 141 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
-| 141 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
-| 141 | [King of Retail](games/k/king_of_retail.md) | 4.74 | 
-| 141 | [Outlast](games/o/outlast.md) | 4.74 | 
-| 141 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
+| 140 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
+| 140 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
+| 140 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 140 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 140 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 140 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 140 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
+| 140 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
+| 140 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
+| 140 | [Revita](games/r/revita.md) | 4.74 | 
+| 140 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 140 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
+| 140 | [King of Retail](games/k/king_of_retail.md) | 4.74 | 
+| 140 | [Outlast](games/o/outlast.md) | 4.74 | 
+| 140 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
 | 155 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 155 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 155 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
@@ -515,24 +515,24 @@
 | 507 | [Horace](games/h/horace.md) | 4.51 | 
 | 507 | [Sable](games/s/sable.md) | 4.51 | 
 | 507 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 516 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 516 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 516 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
-| 516 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 516 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 516 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 
-| 516 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 
-| 516 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
-| 516 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
-| 516 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 516 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 516 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
-| 516 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 516 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
-| 516 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 516 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 
-| 516 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
-| 516 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.50 | 
+| 507 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.51 | 
+| 517 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 517 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 517 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
+| 517 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 517 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 517 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 
+| 517 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 
+| 517 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
+| 517 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
+| 517 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 517 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 517 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
+| 517 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 517 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
+| 517 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
+| 517 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 
+| 517 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
 | 534 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 534 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 534 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
@@ -823,14 +823,14 @@
 | 821 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 821 | [Train Valley 2](games/t/train_valley_2.md) | 4.12 | 
 | 823 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
+| 823 | [Obduction](games/o/obduction.md) | 4.11 | 
 | 823 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
-| 825 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
-| 825 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 825 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
-| 825 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
-| 825 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 825 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
-| 825 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
+| 826 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
+| 826 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
+| 826 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
+| 826 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 826 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
+| 826 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 832 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 832 | [Submerged](games/s/submerged.md) | 4.09 | 
 | 832 | [Fangs](games/f/fangs.md) | 4.09 | 
