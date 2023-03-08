@@ -246,7 +246,7 @@
 | 244 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
 | 245 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 246 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
-| 247 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 247 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 
 | 248 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
 | 249 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
 | 250 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
@@ -382,7 +382,7 @@
 | 380 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 381 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 382 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 383 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.15 | 
+| 383 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.18 | 
 | 384 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 385 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 386 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
@@ -435,7 +435,7 @@
 | 433 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 434 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 435 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.05 | 
-| 436 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
+| 436 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
 | 437 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.56 | 
 | 438 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
 | 439 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 

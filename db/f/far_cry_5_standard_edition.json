@@ -1,10 +1,10 @@
 {
   "ID": "coriander",
   "Name": "Far Cry 5 Standard Edition",
-  "Rating": 4.61,
+  "Rating": 4.62,
   "NumberOfRatings": 1848,
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
-  "LastChanged": "2023-03-06T17:57:21.3435355+00:00",
+  "LastChanged": "2023-03-08T13:14:34.1037085+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:47.7430661+00:00",
@@ -1110,6 +1110,11 @@
       "Time": "2023-03-06T17:57:21.3435357+00:00",
       "Rating": 4.61,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-08T13:14:34.1037088+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -1151,7 +1156,7 @@
     },
     {
       "Text": "This game has Realistic Visuals",
-      "Count": 49
+      "Count": 50
     },
     {
       "Text": "This game has a Creative Community",
