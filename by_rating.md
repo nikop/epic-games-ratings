@@ -320,6 +320,7 @@
 | 314 | [ABZU](games/a/abzu.md) | 4.63 | 
 | 314 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 314 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
+| 314 | [Mutazione](games/m/mutazione.md) | 4.63 | 
 | 314 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 
 | 314 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
 | 314 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
@@ -327,22 +328,21 @@
 | 314 | [GigaBash](games/g/gigabash.md) | 4.63 | 
 | 314 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
 | 314 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.63 | 
-| 328 | [Prey](games/p/prey.md) | 4.62 | 
-| 328 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 328 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
-| 328 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 328 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
-| 328 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
-| 328 | [Limbo](games/l/limbo.md) | 4.62 | 
-| 328 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 
-| 328 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 328 | [Mutazione](games/m/mutazione.md) | 4.62 | 
-| 328 | [GRIME](games/g/grime.md) | 4.62 | 
-| 328 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
-| 328 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
-| 328 | [NORCO](games/n/norco.md) | 4.62 | 
-| 328 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 328 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.62 | 
+| 329 | [Prey](games/p/prey.md) | 4.62 | 
+| 329 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 329 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 329 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 329 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
+| 329 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 
+| 329 | [Limbo](games/l/limbo.md) | 4.62 | 
+| 329 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 
+| 329 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 329 | [GRIME](games/g/grime.md) | 4.62 | 
+| 329 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 329 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
+| 329 | [NORCO](games/n/norco.md) | 4.62 | 
+| 329 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 329 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.62 | 
 | 344 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 344 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 344 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
@@ -656,19 +656,19 @@
 | 648 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 648 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
 | 648 | [Duskers](games/d/duskers.md) | 4.40 | 
-| 648 | [Hell is Others](games/h/hell_is_others.md) | 4.40 | 
 | 648 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
 | 648 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
 | 648 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
-| 661 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 661 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 661 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
-| 661 | [Tacoma](games/t/tacoma.md) | 4.39 | 
-| 661 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
-| 661 | [Warpips](games/w/warpips.md) | 4.39 | 
-| 661 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
-| 661 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 661 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.39 | 
+| 660 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 660 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 660 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
+| 660 | [Tacoma](games/t/tacoma.md) | 4.39 | 
+| 660 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
+| 660 | [Warpips](games/w/warpips.md) | 4.39 | 
+| 660 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
+| 660 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
+| 660 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 
+| 660 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.39 | 
 | 670 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 670 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 670 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 

@@ -323,7 +323,7 @@
 | 321 | [Haven](games/h/haven.md) | 4.75 | 
 | 322 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 323 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 324 | [Hell is Others](games/h/hell_is_others.md) | 4.40 | 
+| 324 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 
 | 325 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 326 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.43 | 
 | 327 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
@@ -459,7 +459,7 @@
 | 457 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 458 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
 | 459 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 460 | [Mutazione](games/m/mutazione.md) | 4.62 | 
+| 460 | [Mutazione](games/m/mutazione.md) | 4.63 | 
 | 461 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
 | 462 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 463 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
