@@ -126,7 +126,7 @@
 | 124 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 125 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
 | 126 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
-| 127 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.23 | 
+| 127 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.24 | 
 | 128 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 129 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 
 | 130 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -562,7 +562,7 @@
 | 560 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 561 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
 | 562 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 563 | [Returnal™](games/r/returnal™.md) | 4.64 | 
+| 563 | [Returnal™](games/r/returnal™.md) | 4.65 | 
 | 564 | [Revita](games/r/revita.md) | 4.74 | 
 | 565 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 566 | [RiME](games/r/rime.md) | 4.58 | 

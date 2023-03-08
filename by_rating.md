@@ -299,19 +299,19 @@
 | 286 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
 | 286 | [APE OUT](games/a/ape_out.md) | 4.65 | 
 | 286 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
-| 300 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 300 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 300 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 300 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 300 | [Old World](games/o/old_world.md) | 4.64 | 
-| 300 | [SOMA](games/s/soma.md) | 4.64 | 
-| 300 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 300 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.64 | 
-| 300 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
-| 300 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
-| 300 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 
-| 300 | [Returnal™](games/r/returnal™.md) | 4.64 | 
-| 300 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
+| 286 | [Returnal™](games/r/returnal™.md) | 4.65 | 
+| 301 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 301 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 301 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 301 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 301 | [Old World](games/o/old_world.md) | 4.64 | 
+| 301 | [SOMA](games/s/soma.md) | 4.64 | 
+| 301 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 301 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.64 | 
+| 301 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
+| 301 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
+| 301 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 
+| 301 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
 | 313 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 313 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 313 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
@@ -766,12 +766,12 @@
 | 762 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
 | 762 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
 | 762 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
-| 767 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 767 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
-| 767 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
-| 767 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.23 | 
-| 767 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 767 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
+| 762 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.24 | 
+| 768 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 768 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
+| 768 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
+| 768 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
+| 768 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
 | 773 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
 | 773 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
 | 773 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
