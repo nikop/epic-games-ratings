@@ -812,17 +812,17 @@
 | 807 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
 | 807 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
 | 807 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
-| 807 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.16 | 
-| 814 | [Pine](games/p/pine.md) | 4.15 | 
-| 814 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
-| 814 | [Relicta](games/r/relicta.md) | 4.15 | 
-| 814 | [Gone Home](games/g/gone_home.md) | 4.15 | 
-| 814 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 814 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
-| 820 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
-| 821 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
-| 822 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 822 | [Train Valley 2](games/t/train_valley_2.md) | 4.12 | 
+| 813 | [Pine](games/p/pine.md) | 4.15 | 
+| 813 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
+| 813 | [Relicta](games/r/relicta.md) | 4.15 | 
+| 813 | [Gone Home](games/g/gone_home.md) | 4.15 | 
+| 813 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
+| 813 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
+| 819 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
+| 820 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
+| 821 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
+| 821 | [Train Valley 2](games/t/train_valley_2.md) | 4.12 | 
+| 821 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.12 | 
 | 824 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
 | 824 | [Obduction](games/o/obduction.md) | 4.11 | 
 | 824 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
