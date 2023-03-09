@@ -102,7 +102,7 @@
 | 100 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 101 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
 | 102 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
-| 103 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
+| 103 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 
 | 104 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
 | 105 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.38 | 
 | 106 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
@@ -126,7 +126,7 @@
 | 124 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
 | 125 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 126 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
-| 127 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 
+| 127 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
 | 128 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.23 | 
 | 129 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 130 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 
@@ -318,7 +318,7 @@
 | 316 | [Hades](games/h/hades.md) | 4.92 | 
 | 317 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 318 | [Hammerting](games/h/hammerting.md) | 4.38 | 
-| 319 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
+| 319 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 320 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
 | 321 | [Haven](games/h/haven.md) | 4.75 | 
 | 322 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
@@ -749,7 +749,7 @@
 | 747 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 748 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 749 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 750 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 
+| 750 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
 | 751 | [The Surge](games/t/the_surge.md) | 4.46 | 
 | 752 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
 | 753 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
