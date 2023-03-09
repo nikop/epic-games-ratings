@@ -820,10 +820,10 @@
 | 813 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
 | 819 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 820 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
-| 821 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 821 | [Train Valley 2](games/t/train_valley_2.md) | 4.12 | 
-| 821 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.12 | 
-| 821 | [Rise of Industry](games/r/rise_of_industry.md) | 4.12 | 
+| 820 | [Rise of Industry](games/r/rise_of_industry.md) | 4.13 | 
+| 822 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
+| 822 | [Train Valley 2](games/t/train_valley_2.md) | 4.12 | 
+| 822 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.12 | 
 | 825 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
 | 825 | [Obduction](games/o/obduction.md) | 4.11 | 
 | 825 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
@@ -877,7 +877,7 @@
 | 875 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 875 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
 | 877 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
-| 878 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
-| 878 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 
+| 878 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
+| 879 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 880 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
 | 881 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
