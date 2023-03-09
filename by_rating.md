@@ -567,24 +567,24 @@
 | 559 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
 | 559 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
 | 559 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
+| 559 | [Far Cry](games/f/far_cry.md) | 4.47 | 
 | 559 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
 | 559 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
 | 559 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.47 | 
 | 559 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 559 | [STG Football](games/s/stg_football.md) | 4.47 | 
-| 573 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 573 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 573 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 573 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
-| 573 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 573 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
-| 573 | [The Surge](games/t/the_surge.md) | 4.46 | 
-| 573 | [Far Cry](games/f/far_cry.md) | 4.46 | 
-| 573 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
-| 573 | [Train Valley](games/t/train_valley.md) | 4.46 | 
-| 573 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
-| 573 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 573 | [WRC Generations](games/w/wrc_generations.md) | 4.46 | 
+| 574 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 574 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 574 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 574 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
+| 574 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 574 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
+| 574 | [The Surge](games/t/the_surge.md) | 4.46 | 
+| 574 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
+| 574 | [Train Valley](games/t/train_valley.md) | 4.46 | 
+| 574 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
+| 574 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 574 | [WRC Generations](games/w/wrc_generations.md) | 4.46 | 
 | 586 | [SMITE](games/s/smite.md) | 4.45 | 
 | 586 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 586 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
