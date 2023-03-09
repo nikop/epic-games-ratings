@@ -56,17 +56,17 @@
 | 54 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 54 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 54 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
+| 54 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.83 | 
 | 54 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 54 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.83 | 
-| 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 59 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
-| 59 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 59 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.82 | 
-| 59 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 59 | [The Last Campfire](games/t/the_last_campfire.md) | 4.82 | 
-| 59 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
-| 59 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
-| 59 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
+| 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 60 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 60 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
+| 60 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
+| 60 | [The Last Campfire](games/t/the_last_campfire.md) | 4.82 | 
+| 60 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
+| 60 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
+| 60 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
 | 68 | [Sifu](games/s/sifu.md) | 4.81 | 
 | 68 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 68 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
@@ -377,27 +377,27 @@
 | 366 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 366 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 366 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
-| 366 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.60 | 
 | 366 | [DOOM 3](games/d/doom_3.md) | 4.60 | 
 | 366 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 366 | [Roguebook](games/r/roguebook.md) | 4.60 | 
 | 366 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 366 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 366 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.60 | 
-| 385 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 385 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 385 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
-| 385 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 385 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 
-| 385 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
-| 385 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
-| 385 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
-| 385 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
-| 385 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
-| 385 | [Breathedge](games/b/breathedge.md) | 4.59 | 
-| 385 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
-| 385 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 
-| 385 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
+| 384 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
+| 384 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
+| 384 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
+| 384 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
+| 384 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 
+| 384 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
+| 384 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
+| 384 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
+| 384 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
+| 384 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
+| 384 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
+| 384 | [Breathedge](games/b/breathedge.md) | 4.59 | 
+| 384 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
+| 384 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 
+| 384 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 399 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
 | 399 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 399 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
