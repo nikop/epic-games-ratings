@@ -323,7 +323,7 @@
 | 321 | [Haven](games/h/haven.md) | 4.75 | 
 | 322 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 323 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 324 | [Hell is Others](games/h/hell_is_others.md) | 4.40 | 
+| 324 | [Hell is Others](games/h/hell_is_others.md) | 4.38 | 
 | 325 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 326 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.42 | 
 | 327 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
@@ -444,7 +444,7 @@
 | 442 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 443 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
 | 444 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
-| 445 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 
+| 445 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 446 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 447 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.48 | 
 | 448 | [Minit](games/m/minit.md) | 4.56 | 
