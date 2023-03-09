@@ -584,20 +584,20 @@
 | 573 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 573 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
 | 573 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 585 | [SMITE](games/s/smite.md) | 4.45 | 
-| 585 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 585 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 585 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
-| 585 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 585 | [Faeria](games/f/faeria.md) | 4.45 | 
-| 585 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 585 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 585 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 585 | [Figment](games/f/figment.md) | 4.45 | 
-| 585 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
-| 585 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
-| 585 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.45 | 
-| 585 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 
+| 573 | [WRC Generations](games/w/wrc_generations.md) | 4.46 | 
+| 586 | [SMITE](games/s/smite.md) | 4.45 | 
+| 586 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 586 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 586 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
+| 586 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 586 | [Faeria](games/f/faeria.md) | 4.45 | 
+| 586 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 586 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 586 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 586 | [Figment](games/f/figment.md) | 4.45 | 
+| 586 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
+| 586 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
+| 586 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.45 | 
 | 599 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
 | 599 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 599 | [The Captain](games/t/the_captain.md) | 4.44 | 
