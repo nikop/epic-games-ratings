@@ -877,7 +877,7 @@
 | 875 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 875 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
 | 877 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
-| 878 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
-| 879 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
+| 878 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
+| 878 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 
 | 880 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
 | 881 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
