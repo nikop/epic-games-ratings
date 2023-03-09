@@ -656,18 +656,18 @@
 | 650 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
 | 650 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 650 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
+| 650 | [Hell is Others](games/h/hell_is_others.md) | 4.40 | 
 | 650 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
 | 650 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
 | 650 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
-| 660 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 660 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 660 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
-| 660 | [Tacoma](games/t/tacoma.md) | 4.39 | 
-| 660 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
-| 660 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
-| 660 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 660 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 
-| 660 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.39 | 
+| 661 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 661 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 661 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
+| 661 | [Tacoma](games/t/tacoma.md) | 4.39 | 
+| 661 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
+| 661 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
+| 661 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
+| 661 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.39 | 
 | 669 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 669 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 669 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 
