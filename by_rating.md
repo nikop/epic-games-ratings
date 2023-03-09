@@ -401,7 +401,6 @@
 | 399 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
 | 399 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 399 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 399 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
 | 399 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 399 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 399 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
@@ -414,10 +413,12 @@
 | 399 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 
 | 399 | [RiME](games/r/rime.md) | 4.58 | 
 | 399 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
+| 399 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 
 | 399 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 399 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
 | 417 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 417 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 417 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 
 | 417 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 417 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
 | 417 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
@@ -433,7 +434,6 @@
 | 417 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 417 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
 | 417 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
-| 417 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 
 | 417 | [Everything](games/e/everything.md) | 4.57 | 
 | 417 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.57 | 
 | 417 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
@@ -664,22 +664,22 @@
 | 660 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
 | 660 | [Tacoma](games/t/tacoma.md) | 4.39 | 
 | 660 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
-| 660 | [Warpips](games/w/warpips.md) | 4.39 | 
 | 660 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 660 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 660 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 
 | 660 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.39 | 
-| 670 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 670 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
-| 670 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 
-| 670 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
-| 670 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
-| 670 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
-| 670 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 670 | [Hammerting](games/h/hammerting.md) | 4.38 | 
-| 670 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.38 | 
-| 670 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 670 | [ZOMBI](games/z/zombi.md) | 4.38 | 
+| 669 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 669 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
+| 669 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 
+| 669 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 669 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
+| 669 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
+| 669 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
+| 669 | [Warpips](games/w/warpips.md) | 4.38 | 
+| 669 | [Hammerting](games/h/hammerting.md) | 4.38 | 
+| 669 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.38 | 
+| 669 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
+| 669 | [ZOMBI](games/z/zombi.md) | 4.38 | 
 | 681 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 681 | [Core](games/c/core.md) | 4.37 | 
 | 681 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
