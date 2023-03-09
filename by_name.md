@@ -264,7 +264,7 @@
 | 262 | [Filament](games/f/filament.md) | 4.32 | 
 | 263 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 264 | [Firework](games/f/firework.md) | 4.89 | 
-| 265 | [First Class Trouble](games/f/first_class_trouble.md) | 4.53 | 
+| 265 | [First Class Trouble](games/f/first_class_trouble.md) | 4.52 | 
 | 266 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 267 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 
 | 268 | [Flatout](games/f/flatout.md) | 4.19 | 
@@ -325,7 +325,7 @@
 | 323 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 324 | [Hell is Others](games/h/hell_is_others.md) | 4.40 | 
 | 325 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 326 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.43 | 
+| 326 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.42 | 
 | 327 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
 | 328 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 329 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 

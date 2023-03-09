@@ -491,21 +491,21 @@
 | 474 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.53 | 
 | 474 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 474 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
-| 474 | [First Class Trouble](games/f/first_class_trouble.md) | 4.53 | 
 | 474 | [IXION](games/i/ixion.md) | 4.53 | 
-| 494 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
-| 494 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 494 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 494 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 494 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 494 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 494 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 494 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 494 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 494 | [UnMetal](games/u/unmetal.md) | 4.52 | 
-| 494 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 494 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 494 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 493 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
+| 493 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 493 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 493 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 493 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 493 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 493 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 493 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 493 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 493 | [UnMetal](games/u/unmetal.md) | 4.52 | 
+| 493 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 493 | [First Class Trouble](games/f/first_class_trouble.md) | 4.52 | 
+| 493 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 493 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 507 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 507 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 507 | [MythForce](games/m/mythforce.md) | 4.51 | 
@@ -622,20 +622,20 @@
 | 615 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
 | 615 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
 | 615 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
-| 615 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.43 | 
 | 615 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 615 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
-| 626 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 626 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 626 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 626 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 626 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
-| 626 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
-| 626 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 626 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 626 | [ELEX](games/e/elex.md) | 4.42 | 
-| 626 | [ATOM RPG](games/a/atom_rpg.md) | 4.42 | 
-| 626 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
+| 625 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 625 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 625 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 625 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 625 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 625 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 625 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
+| 625 | [Good Company](games/g/good_company.md) | 4.42 | 
+| 625 | [ELEX](games/e/elex.md) | 4.42 | 
+| 625 | [ATOM RPG](games/a/atom_rpg.md) | 4.42 | 
+| 625 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
+| 625 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.42 | 
 | 637 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 637 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 637 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
