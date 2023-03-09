@@ -401,7 +401,7 @@
 | 399 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
 | 400 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 401 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.45 | 
-| 402 | [Knockout City™](games/k/knockout_city™.md) | 4.47 | 
+| 402 | [Knockout City™](games/k/knockout_city™.md) | 4.48 | 
 | 403 | [Lake](games/l/lake.md) | 4.07 | 
 | 404 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 405 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
