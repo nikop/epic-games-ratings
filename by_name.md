@@ -563,7 +563,7 @@
 | 561 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 562 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
 | 563 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 564 | [Returnal™](games/r/returnal™.md) | 4.66 | 
+| 564 | [Returnal™](games/r/returnal™.md) | 4.67 | 
 | 565 | [Revita](games/r/revita.md) | 4.74 | 
 | 566 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 567 | [RiME](games/r/rime.md) | 4.58 | 
@@ -702,7 +702,7 @@
 | 700 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 701 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 702 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 703 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 
+| 703 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 704 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 705 | [Tharsis](games/t/tharsis.md) | 4.04 | 
 | 706 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 

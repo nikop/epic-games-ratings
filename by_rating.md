@@ -269,24 +269,24 @@
 | 252 | [GNOG](games/g/gnog.md) | 4.67 | 
 | 252 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.67 | 
 | 252 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.67 | 
+| 252 | [Returnal™](games/r/returnal™.md) | 4.67 | 
 | 252 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
-| 271 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
-| 271 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 271 | [Trackmania](games/t/trackmania.md) | 4.66 | 
-| 271 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 271 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 271 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
-| 271 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 271 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
-| 271 | [Death's Door](games/d/death's_door.md) | 4.66 | 
-| 271 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
-| 271 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
-| 271 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
-| 271 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
-| 271 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 271 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
-| 271 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
-| 271 | [Returnal™](games/r/returnal™.md) | 4.66 | 
+| 272 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
+| 272 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
+| 272 | [Trackmania](games/t/trackmania.md) | 4.66 | 
+| 272 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 272 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
+| 272 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
+| 272 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 272 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
+| 272 | [Death's Door](games/d/death's_door.md) | 4.66 | 
+| 272 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
+| 272 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
+| 272 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
+| 272 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
+| 272 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 272 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 272 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
 | 288 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 288 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 288 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
@@ -453,6 +453,7 @@
 | 437 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
 | 437 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.56 | 
 | 437 | [The Medium](games/t/the_medium.md) | 4.56 | 
+| 454 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 454 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 454 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 454 | [Outward](games/o/outward.md) | 4.55 | 
@@ -462,17 +463,16 @@
 | 454 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
 | 454 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
 | 454 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
-| 463 | [VALORANT](games/v/valorant.md) | 4.54 | 
-| 463 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 463 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
-| 463 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 
-| 463 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 463 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
-| 463 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
-| 463 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
-| 463 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 463 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
-| 463 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 464 | [VALORANT](games/v/valorant.md) | 4.54 | 
+| 464 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 464 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
+| 464 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 464 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
+| 464 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
+| 464 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 464 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 464 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
+| 464 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 474 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 474 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 474 | [Dauntless](games/d/dauntless.md) | 4.53 | 

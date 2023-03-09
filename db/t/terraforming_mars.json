@@ -1,10 +1,10 @@
 {
   "ID": "25d726130e6c4fe68f88e71933bda955",
   "Name": "Terraforming Mars",
-  "Rating": 4.54,
+  "Rating": 4.55,
   "NumberOfRatings": 2731,
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
-  "LastChanged": "2023-03-02T03:16:57.8373538+00:00",
+  "LastChanged": "2023-03-09T09:58:13.7670509+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:50.3990272+00:00",
@@ -1844,6 +1844,11 @@
     {
       "Time": "2023-03-02T03:16:57.8373539+00:00",
       "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-09T09:58:13.767051+00:00",
+      "Rating": 4.55,
       "NumberOfRatings": null
     }
   ],
