@@ -1,5 +1,5 @@
 # Neighbours back From Hell
-Rating: 4.67 (30)  (as of 23.09.2022)  
+Rating: 4.68 (30)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -23,3 +23,4 @@ Rating: 4.67 (30)  (as of 23.09.2022)
 | 2023-01-02 | 4.68 | - |
 | 2023-01-05 | 4.69 | - |
 | 2023-01-24 | 4.67 | - |
+| 2023-03-09 | 4.68 | - |

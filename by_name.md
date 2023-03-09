@@ -469,7 +469,7 @@
 | 467 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 468 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
 | 469 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
-| 470 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
+| 470 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.68 | 
 | 471 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 
 | 472 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 473 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
