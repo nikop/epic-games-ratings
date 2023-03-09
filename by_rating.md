@@ -243,6 +243,7 @@
 | 231 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
 | 231 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 231 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
+| 231 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 231 | [CARRION](games/c/carrion.md) | 4.68 | 
 | 231 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.68 | 
 | 231 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
@@ -250,26 +251,25 @@
 | 231 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
 | 231 | [No Straight Roads](games/n/no_straight_roads.md) | 4.68 | 
 | 231 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
-| 251 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 251 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 251 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
-| 251 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 251 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
-| 251 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.67 | 
-| 251 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
-| 251 | [Overcooked](games/o/overcooked.md) | 4.67 | 
-| 251 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 251 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
-| 251 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
-| 251 | [The Pathless](games/t/the_pathless.md) | 4.67 | 
-| 251 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
-| 251 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 251 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
-| 251 | [Card Shark](games/c/card_shark.md) | 4.67 | 
-| 251 | [GNOG](games/g/gnog.md) | 4.67 | 
-| 251 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.67 | 
-| 251 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.67 | 
-| 251 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
+| 252 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 252 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 252 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
+| 252 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 252 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 252 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.67 | 
+| 252 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
+| 252 | [Overcooked](games/o/overcooked.md) | 4.67 | 
+| 252 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 252 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
+| 252 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
+| 252 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
+| 252 | [Eastward](games/e/eastward.md) | 4.67 | 
+| 252 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.67 | 
+| 252 | [Card Shark](games/c/card_shark.md) | 4.67 | 
+| 252 | [GNOG](games/g/gnog.md) | 4.67 | 
+| 252 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.67 | 
+| 252 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.67 | 
+| 252 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
 | 271 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 271 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 271 | [Trackmania](games/t/trackmania.md) | 4.66 | 
@@ -823,30 +823,30 @@
 | 821 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 821 | [Train Valley 2](games/t/train_valley_2.md) | 4.12 | 
 | 821 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.12 | 
-| 824 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
-| 824 | [Obduction](games/o/obduction.md) | 4.11 | 
-| 824 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
-| 827 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
-| 827 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
-| 827 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
-| 827 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 827 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
-| 827 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 833 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
-| 833 | [Submerged](games/s/submerged.md) | 4.09 | 
-| 833 | [Fangs](games/f/fangs.md) | 4.09 | 
-| 836 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 836 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
-| 836 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
-| 839 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
-| 839 | [Lake](games/l/lake.md) | 4.07 | 
-| 839 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
-| 842 | [Godfall](games/g/godfall.md) | 4.06 | 
-| 842 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.06 | 
-| 844 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 844 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.05 | 
-| 844 | [Forspoken](games/f/forspoken.md) | 4.05 | 
-| 844 | [Rise of Industry](games/r/rise_of_industry.md) | 4.05 | 
+| 821 | [Rise of Industry](games/r/rise_of_industry.md) | 4.12 | 
+| 825 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
+| 825 | [Obduction](games/o/obduction.md) | 4.11 | 
+| 825 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
+| 828 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
+| 828 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
+| 828 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
+| 828 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 828 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
+| 828 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
+| 834 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
+| 834 | [Submerged](games/s/submerged.md) | 4.09 | 
+| 834 | [Fangs](games/f/fangs.md) | 4.09 | 
+| 837 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 837 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
+| 837 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
+| 840 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
+| 840 | [Lake](games/l/lake.md) | 4.07 | 
+| 840 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
+| 843 | [Godfall](games/g/godfall.md) | 4.06 | 
+| 843 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.06 | 
+| 845 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 845 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.05 | 
+| 845 | [Forspoken](games/f/forspoken.md) | 4.05 | 
 | 848 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 848 | [Tharsis](games/t/tharsis.md) | 4.04 | 
 | 850 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 

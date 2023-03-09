@@ -1,10 +1,10 @@
 {
   "ID": "9f101e25b1a9427a9e6971d2b21c5f82",
   "Name": "Rise of Industry",
-  "Rating": 4.05,
+  "Rating": 4.12,
   "FirstSeen": "2022-08-13T00:31:45.0285821+00:00",
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
-  "LastChanged": "2023-03-07T18:58:07.0786723+00:00",
+  "LastChanged": "2023-03-09T06:58:12.6281662+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-03T20:57:50.7322234+00:00",
@@ -44,6 +44,11 @@
     {
       "Time": "2023-03-07T18:58:07.0786726+00:00",
       "Rating": 4.05,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-09T06:58:12.6281666+00:00",
+      "Rating": 4.12,
       "NumberOfRatings": null
     }
   ],
