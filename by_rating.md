@@ -846,9 +846,9 @@
 | 843 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.06 | 
 | 845 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 845 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.05 | 
-| 845 | [Forspoken](games/f/forspoken.md) | 4.05 | 
-| 848 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
-| 848 | [Tharsis](games/t/tharsis.md) | 4.04 | 
+| 847 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
+| 847 | [Tharsis](games/t/tharsis.md) | 4.04 | 
+| 849 | [Forspoken](games/f/forspoken.md) | 4.03 | 
 | 850 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 851 | [Pinball FX](games/p/pinball_fx.md) | 4.01 | 
 | 852 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
