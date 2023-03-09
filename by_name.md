@@ -210,7 +210,7 @@
 | 208 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
 | 209 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 210 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 211 | [Duskers](games/d/duskers.md) | 4.41 | 
+| 211 | [Duskers](games/d/duskers.md) | 4.42 | 
 | 212 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 213 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 214 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
@@ -291,7 +291,7 @@
 | 289 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 290 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
 | 291 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 292 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 292 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.51 | 
 | 293 | [GigaBash](games/g/gigabash.md) | 4.63 | 
 | 294 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
 | 295 | [GNOG](games/g/gnog.md) | 4.67 | 
@@ -427,7 +427,7 @@
 | 425 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
 | 426 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.57 | 
 | 427 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 428 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 428 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
 | 429 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
 | 430 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
 | 431 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
@@ -547,7 +547,7 @@
 | 545 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 546 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 547 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 548 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 548 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
 | 549 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 550 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
 | 551 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 

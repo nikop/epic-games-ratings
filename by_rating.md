@@ -497,7 +497,6 @@
 | 493 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
 | 493 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 493 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 493 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 493 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 493 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 493 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
@@ -506,16 +505,17 @@
 | 493 | [First Class Trouble](games/f/first_class_trouble.md) | 4.52 | 
 | 493 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 493 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
-| 507 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 507 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 507 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 507 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 507 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 507 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
-| 507 | [Horace](games/h/horace.md) | 4.51 | 
-| 507 | [Sable](games/s/sable.md) | 4.51 | 
-| 507 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 507 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.51 | 
+| 506 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 506 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.51 | 
+| 506 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 506 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 506 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 506 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 506 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
+| 506 | [Horace](games/h/horace.md) | 4.51 | 
+| 506 | [Sable](games/s/sable.md) | 4.51 | 
+| 506 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
+| 506 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.51 | 
 | 517 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 517 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 517 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
@@ -590,6 +590,7 @@
 | 586 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 586 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
 | 586 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 586 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
 | 586 | [Faeria](games/f/faeria.md) | 4.45 | 
 | 586 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 586 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
@@ -598,22 +599,21 @@
 | 586 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 586 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
 | 586 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.45 | 
-| 599 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
-| 599 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 599 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 599 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 599 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
-| 599 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
-| 599 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
-| 599 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
-| 599 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
-| 599 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
-| 599 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
-| 599 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
-| 599 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
-| 599 | [Predecessor](games/p/predecessor.md) | 4.44 | 
-| 599 | [Redout 2](games/r/redout_2.md) | 4.44 | 
-| 599 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.44 | 
+| 600 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
+| 600 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 600 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 600 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 600 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
+| 600 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
+| 600 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
+| 600 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
+| 600 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 600 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
+| 600 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
+| 600 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
+| 600 | [Predecessor](games/p/predecessor.md) | 4.44 | 
+| 600 | [Redout 2](games/r/redout_2.md) | 4.44 | 
+| 600 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.44 | 
 | 615 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 615 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 615 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
@@ -628,16 +628,17 @@
 | 625 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 625 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 625 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 625 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 625 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
 | 625 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 625 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 625 | [ELEX](games/e/elex.md) | 4.42 | 
 | 625 | [ATOM RPG](games/a/atom_rpg.md) | 4.42 | 
 | 625 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
+| 625 | [Duskers](games/d/duskers.md) | 4.42 | 
 | 625 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.42 | 
 | 637 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 637 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 637 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
 | 637 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 637 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
 | 637 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
@@ -647,7 +648,6 @@
 | 637 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 637 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 637 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
-| 637 | [Duskers](games/d/duskers.md) | 4.41 | 
 | 637 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
 | 650 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 650 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
