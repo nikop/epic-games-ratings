@@ -676,30 +676,30 @@
 | 668 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 668 | [Warpips](games/w/warpips.md) | 4.38 | 
 | 668 | [Hammerting](games/h/hammerting.md) | 4.38 | 
-| 668 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.38 | 
 | 668 | [Hell is Others](games/h/hell_is_others.md) | 4.38 | 
 | 668 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
 | 668 | [ZOMBI](games/z/zombi.md) | 4.38 | 
-| 681 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 681 | [Core](games/c/core.md) | 4.37 | 
-| 681 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 681 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 681 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
-| 681 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | 
-| 681 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 681 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 689 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 689 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 
-| 689 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
-| 689 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 689 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 689 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
-| 689 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 689 | [Encased](games/e/encased.md) | 4.36 | 
-| 689 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
-| 689 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 689 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
-| 689 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
+| 680 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 680 | [Core](games/c/core.md) | 4.37 | 
+| 680 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 680 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
+| 680 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
+| 680 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | 
+| 680 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 680 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 688 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 688 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 
+| 688 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
+| 688 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 688 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 688 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
+| 688 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 688 | [Encased](games/e/encased.md) | 4.36 | 
+| 688 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
+| 688 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
+| 688 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
+| 688 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
+| 688 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
 | 701 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
 | 701 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 701 | [Among Trees](games/a/among_trees.md) | 4.35 | 
@@ -790,15 +790,15 @@
 | 781 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
 | 781 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 781 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 781 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.20 | 
 | 781 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.20 | 
 | 781 | [Somerville](games/s/somerville.md) | 4.20 | 
-| 793 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 793 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 
-| 793 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 
-| 793 | [Flatout](games/f/flatout.md) | 4.19 | 
-| 793 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
-| 793 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.19 | 
-| 793 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
+| 794 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 794 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 
+| 794 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 
+| 794 | [Flatout](games/f/flatout.md) | 4.19 | 
+| 794 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
+| 794 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
 | 800 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 800 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 
 | 800 | [Scavengers](games/s/scavengers.md) | 4.18 | 

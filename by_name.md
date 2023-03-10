@@ -105,7 +105,7 @@
 | 103 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 104 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 
 | 105 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
-| 106 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.38 | 
+| 106 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
 | 107 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
 | 108 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 109 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
@@ -557,7 +557,7 @@
 | 555 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 556 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 557 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
-| 558 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.19 | 
+| 558 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.20 | 
 | 559 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 560 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 561 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
