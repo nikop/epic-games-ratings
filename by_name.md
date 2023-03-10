@@ -43,7 +43,7 @@
 | 41 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 42 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 43 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
-| 44 | [Ashen](games/a/ashen.md) | 4.35 | 
+| 44 | [Ashen](games/a/ashen.md) | 4.34 | 
 | 45 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.70 | 
 | 46 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
 | 47 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
@@ -99,7 +99,7 @@
 | 97 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 98 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 99 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
-| 100 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 
+| 100 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 
 | 101 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 102 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
 | 103 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -383,7 +383,7 @@
 | 381 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 382 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 383 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 384 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.08 | 
+| 384 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.05 | 
 | 385 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 386 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 387 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
@@ -571,7 +571,7 @@
 | 569 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
 | 570 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 571 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 572 | [Rise of Industry](games/r/rise_of_industry.md) | 4.15 | 
+| 572 | [Rise of Industry](games/r/rise_of_industry.md) | 4.16 | 
 | 573 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 574 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 575 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
@@ -687,7 +687,7 @@
 | 685 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
 | 686 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
 | 687 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
-| 688 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.68 | 
+| 688 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.69 | 
 | 689 | [Superliminal](games/s/superliminal.md) | 4.80 | 
 | 690 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 691 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
@@ -837,7 +837,7 @@
 | 835 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 836 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
 | 837 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
-| 838 | [War Mongrels](games/w/war_mongrels.md) | 4.29 | 
+| 838 | [War Mongrels](games/w/war_mongrels.md) | 4.30 | 
 | 839 | [Warface](games/w/warface.md) | 3.92 | 
 | 840 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 841 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
