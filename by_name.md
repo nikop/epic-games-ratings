@@ -211,7 +211,7 @@
 | 209 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
 | 210 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 211 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 212 | [Duskers](games/d/duskers.md) | 4.42 | 
+| 212 | [Duskers](games/d/duskers.md) | 4.41 | 
 | 213 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 214 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 215 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
@@ -571,7 +571,7 @@
 | 569 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
 | 570 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 571 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 572 | [Rise of Industry](games/r/rise_of_industry.md) | 4.13 | 
+| 572 | [Rise of Industry](games/r/rise_of_industry.md) | 4.15 | 
 | 573 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 574 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
 | 575 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
@@ -718,7 +718,7 @@
 | 716 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
 | 717 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 718 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
-| 719 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
+| 719 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 720 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
 | 721 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 722 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
@@ -780,7 +780,7 @@
 | 778 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 779 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
 | 780 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
-| 781 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
+| 781 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 
 | 782 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
 | 783 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
 | 784 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
@@ -803,7 +803,7 @@
 | 801 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
 | 802 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 
 | 803 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 804 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 804 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
 | 805 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 806 | [Train Valley 2](games/t/train_valley_2.md) | 4.12 | 
 | 807 | [Transistor](games/t/transistor.md) | 4.62 | 
@@ -823,7 +823,7 @@
 | 821 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
 | 822 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 
 | 823 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 824 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 
+| 824 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.64 | 
 | 825 | [UnMetal](games/u/unmetal.md) | 4.52 | 
 | 826 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.48 | 
 | 827 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
