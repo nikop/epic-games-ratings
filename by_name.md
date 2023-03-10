@@ -402,7 +402,7 @@
 | 400 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
 | 401 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 402 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.43 | 
-| 403 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 
+| 403 | [Knockout City™](games/k/knockout_city™.md) | 4.50 | 
 | 404 | [Lake](games/l/lake.md) | 4.07 | 
 | 405 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 406 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
@@ -428,7 +428,7 @@
 | 426 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
 | 427 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.57 | 
 | 428 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 429 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
+| 429 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 430 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
 | 431 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
 | 432 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
@@ -547,7 +547,7 @@
 | 545 | [Quake](games/q/quake.md) | 4.75 | 
 | 546 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 547 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 548 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 548 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 549 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
 | 550 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 551 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 

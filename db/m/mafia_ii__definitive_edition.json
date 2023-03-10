@@ -1,10 +1,10 @@
 {
   "ID": "107bd7324f39429ca4e7e9e44765d8cf",
   "Name": "Mafia II: Definitive Edition",
-  "Rating": 4.41,
+  "Rating": 4.42,
   "NumberOfRatings": 1020,
   "FirstSeen": "2022-07-22T20:27:51.6879744+00:00",
-  "LastChanged": "2023-03-09T18:58:44.5522232+00:00",
+  "LastChanged": "2023-03-10T04:58:11.007966+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:51.6879747+00:00",
@@ -640,12 +640,17 @@
       "Time": "2023-03-09T18:58:44.5522233+00:00",
       "Rating": 4.41,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-10T04:58:11.0079662+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 330
+      "Count": 362
     }
   ]
 }
