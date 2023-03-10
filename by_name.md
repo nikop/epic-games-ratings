@@ -9,7 +9,7 @@
 | 7 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
 | 8 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 9 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 10 | [ABZU](games/a/abzu.md) | 4.63 | 
+| 10 | [ABZU](games/a/abzu.md) | 4.62 | 
 | 11 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 3.95 | 
 | 12 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 13 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
@@ -142,7 +142,7 @@
 | 140 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
 | 141 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 142 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
-| 143 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 143 | [Crashlands](games/c/crashlands.md) | 4.65 | 
 | 144 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 145 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 146 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
@@ -383,7 +383,7 @@
 | 381 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 382 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 383 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 384 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.10 | 
+| 384 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.08 | 
 | 385 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 386 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 387 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
@@ -645,7 +645,7 @@
 | 643 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
 | 644 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 645 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.83 | 
-| 646 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.78 | 
+| 646 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 647 | [Space Punks](games/s/space_punks.md) | 4.16 | 
 | 648 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
 | 649 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
@@ -805,7 +805,7 @@
 | 803 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 804 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 
 | 805 | [Train Valley](games/t/train_valley.md) | 4.46 | 
-| 806 | [Train Valley 2](games/t/train_valley_2.md) | 4.12 | 
+| 806 | [Train Valley 2](games/t/train_valley_2.md) | 4.13 | 
 | 807 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 808 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 809 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
