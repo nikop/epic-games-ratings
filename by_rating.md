@@ -67,16 +67,16 @@
 | 60 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
 | 60 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
 | 60 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
-| 68 | [Sifu](games/s/sifu.md) | 4.81 | 
-| 68 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 68 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
-| 68 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
-| 68 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 68 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
-| 68 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
-| 68 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
-| 68 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
-| 68 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
+| 60 | [Dishonored 2](games/d/dishonored_2.md) | 4.82 | 
+| 69 | [Sifu](games/s/sifu.md) | 4.81 | 
+| 69 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 69 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
+| 69 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
+| 69 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 69 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
+| 69 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
+| 69 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
+| 69 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
 | 78 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 78 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 78 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
@@ -630,6 +630,7 @@
 | 625 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 625 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 625 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 625 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 
 | 625 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 625 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 625 | [ELEX](games/e/elex.md) | 4.42 | 
@@ -637,18 +638,17 @@
 | 625 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
 | 625 | [Duskers](games/d/duskers.md) | 4.42 | 
 | 625 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.42 | 
-| 638 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
-| 638 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 638 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 638 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
-| 638 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
-| 638 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
-| 638 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
-| 638 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
-| 638 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 638 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 638 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
-| 638 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
+| 639 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
+| 639 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 639 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
+| 639 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
+| 639 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
+| 639 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
+| 639 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
+| 639 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 639 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
+| 639 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 639 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
 | 650 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 650 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 650 | [Othercide](games/o/othercide.md) | 4.40 | 
@@ -666,19 +666,19 @@
 | 660 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 660 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 660 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
+| 660 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 
 | 660 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.39 | 
-| 668 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 668 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
-| 668 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 
-| 668 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
-| 668 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
-| 668 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
-| 668 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 668 | [Warpips](games/w/warpips.md) | 4.38 | 
-| 668 | [Hammerting](games/h/hammerting.md) | 4.38 | 
-| 668 | [Hell is Others](games/h/hell_is_others.md) | 4.38 | 
-| 668 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 668 | [ZOMBI](games/z/zombi.md) | 4.38 | 
+| 669 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 669 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
+| 669 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 
+| 669 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 669 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
+| 669 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
+| 669 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
+| 669 | [Warpips](games/w/warpips.md) | 4.38 | 
+| 669 | [Hammerting](games/h/hammerting.md) | 4.38 | 
+| 669 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
+| 669 | [ZOMBI](games/z/zombi.md) | 4.38 | 
 | 680 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 680 | [Core](games/c/core.md) | 4.37 | 
 | 680 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 

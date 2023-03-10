@@ -200,7 +200,7 @@
 | 198 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 199 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 200 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
-| 201 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
+| 201 | [Dishonored 2](games/d/dishonored_2.md) | 4.82 | 
 | 202 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
 | 203 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
 | 204 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
@@ -324,7 +324,7 @@
 | 322 | [Haven](games/h/haven.md) | 4.75 | 
 | 323 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 324 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 325 | [Hell is Others](games/h/hell_is_others.md) | 4.38 | 
+| 325 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 
 | 326 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 327 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.42 | 
 | 328 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
@@ -660,7 +660,7 @@
 | 658 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.62 | 
 | 659 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
 | 660 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
-| 661 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
+| 661 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 
 | 662 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 663 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.63 | 
 | 664 | [Starsand](games/s/starsand.md) | 4.21 | 
