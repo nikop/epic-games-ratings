@@ -99,7 +99,7 @@
 | 97 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 98 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 99 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
-| 100 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 
+| 100 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 
 | 101 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 102 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
 | 103 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -781,7 +781,7 @@
 | 779 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
 | 780 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
 | 781 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
-| 782 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 
+| 782 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
 | 783 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
 | 784 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
 | 785 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
@@ -867,7 +867,7 @@
 | 865 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
 | 866 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 867 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
-| 868 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 868 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
 | 869 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 870 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
 | 871 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 

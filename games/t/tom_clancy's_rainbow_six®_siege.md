@@ -1,5 +1,5 @@
 # Tom Clancy's Rainbow Six® Siege
-Rating: 4.57 (8,669)  (as of 23.09.2022)  
+Rating: 4.58 (8,669)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -71,3 +71,4 @@ Rating: 4.57 (8,669)  (as of 23.09.2022)
 | 2022-12-13 | 4.58 | - |
 | 2022-12-14 | 4.58 | - |
 | 2023-03-09 | 4.57 | - |
+| 2023-03-10 | 4.58 | - |
