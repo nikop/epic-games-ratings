@@ -334,7 +334,7 @@
 | 332 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 333 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 334 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.90 | 
-| 335 | [High On Life](games/h/high_on_life.md) | 4.69 | 
+| 335 | [High On Life](games/h/high_on_life.md) | 4.68 | 
 | 336 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 337 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 338 | [Hob](games/h/hob.md) | 4.57 | 
@@ -573,7 +573,7 @@
 | 571 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 572 | [Rise of Industry](games/r/rise_of_industry.md) | 4.15 | 
 | 573 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 574 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 574 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 575 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 576 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
 | 577 | [Riverbond](games/r/riverbond.md) | 4.48 | 
