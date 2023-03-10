@@ -119,7 +119,7 @@
 | 117 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 118 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 119 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
-| 120 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 
+| 120 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.82 | 
 | 121 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
 | 122 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
 | 123 | [Chorus](games/c/chorus.md) | 4.48 | 
@@ -158,7 +158,7 @@
 | 156 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 157 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.26 | 
 | 158 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 159 | [Dark Deception](games/d/dark_deception.md) | 4.48 | 
+| 159 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
 | 160 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
 | 161 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 162 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
@@ -455,7 +455,7 @@
 | 453 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
 | 454 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 455 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 
-| 456 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
+| 456 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 457 | [Moving Out](games/m/moving_out.md) | 4.58 | 
 | 458 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 459 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
@@ -796,7 +796,7 @@
 | 794 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.67 | 
 | 795 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 796 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
-| 797 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 
+| 797 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 
 | 798 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 799 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 
 | 800 | [Trackmania](games/t/trackmania.md) | 4.66 | 
