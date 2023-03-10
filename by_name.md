@@ -22,7 +22,7 @@
 | 20 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
 | 21 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 22 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
-| 23 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 
+| 23 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 24 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
 | 25 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 26 | [Among Us](games/a/among_us.md) | 4.58 | 
@@ -48,7 +48,7 @@
 | 46 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
 | 47 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 48 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
-| 49 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 49 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 
 | 50 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 51 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 52 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
@@ -650,7 +650,7 @@
 | 648 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
 | 649 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 650 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
-| 651 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.44 | 
+| 651 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.46 | 
 | 652 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
 | 653 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
 | 654 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
