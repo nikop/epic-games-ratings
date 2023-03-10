@@ -165,7 +165,7 @@
 | 163 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 164 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
 | 165 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 166 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 166 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 167 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 
 | 168 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 169 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
@@ -401,7 +401,7 @@
 | 399 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
 | 400 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
 | 401 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 402 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.45 | 
+| 402 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.43 | 
 | 403 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 
 | 404 | [Lake](games/l/lake.md) | 4.07 | 
 | 405 | [Lamentum](games/l/lamentum.md) | 4.37 | 
@@ -463,7 +463,7 @@
 | 461 | [Mutazione](games/m/mutazione.md) | 4.63 | 
 | 462 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
 | 463 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 464 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 464 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
 | 465 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 466 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
 | 467 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
@@ -747,7 +747,7 @@
 | 745 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 746 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
 | 747 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 748 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
+| 748 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 749 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 750 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 751 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
