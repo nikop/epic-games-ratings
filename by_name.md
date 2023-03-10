@@ -243,7 +243,7 @@
 | 241 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.65 | 
 | 242 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 243 | [Fangs](games/f/fangs.md) | 4.09 | 
-| 244 | [Far Cry](games/f/far_cry.md) | 4.47 | 
+| 244 | [Far Cry](games/f/far_cry.md) | 4.48 | 
 | 245 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
 | 246 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 247 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
@@ -282,7 +282,7 @@
 | 280 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 281 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 282 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 283 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 
+| 283 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
 | 284 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 
 | 285 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 286 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
@@ -658,7 +658,7 @@
 | 656 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 657 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 
 | 658 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.62 | 
-| 659 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
+| 659 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.69 | 
 | 660 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 661 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 
 | 662 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
