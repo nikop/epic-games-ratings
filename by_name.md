@@ -299,7 +299,7 @@
 | 297 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 
 | 298 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 299 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
-| 300 | [Godfall](games/g/godfall.md) | 4.06 | 
+| 300 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 301 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 302 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.96 | 
 | 303 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
@@ -338,7 +338,7 @@
 | 336 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 337 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 338 | [Hob](games/h/hob.md) | 4.57 | 
-| 339 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.79 | 
+| 339 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 
 | 340 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 
 | 341 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 342 | [Horace](games/h/horace.md) | 4.51 | 
@@ -664,7 +664,7 @@
 | 662 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 663 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.63 | 
 | 664 | [Starsand](games/s/starsand.md) | 4.21 | 
-| 665 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
+| 665 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
 | 666 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
 | 667 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 668 | [Steelrising](games/s/steelrising.md) | 4.28 | 

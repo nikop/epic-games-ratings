@@ -99,11 +99,11 @@
 | 90 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 
 | 90 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
 | 90 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 90 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.79 | 
 | 90 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
 | 90 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.79 | 
-| 103 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 103 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
+| 102 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 102 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
+| 102 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 
 | 105 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 105 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 105 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
@@ -769,13 +769,13 @@
 | 767 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 767 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
 | 767 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 767 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
 | 767 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.23 | 
 | 767 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 767 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
-| 774 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
-| 774 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
-| 774 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
+| 773 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
+| 773 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
+| 773 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
+| 773 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 777 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 777 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 777 | [Starsand](games/s/starsand.md) | 4.21 | 
@@ -838,12 +838,12 @@
 | 836 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 836 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
 | 836 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
+| 839 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 839 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
 | 839 | [Lake](games/l/lake.md) | 4.07 | 
 | 839 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
-| 842 | [Godfall](games/g/godfall.md) | 4.06 | 
-| 842 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.06 | 
-| 842 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.06 | 
+| 843 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.06 | 
+| 843 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.06 | 
 | 845 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 845 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.05 | 
 | 847 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
