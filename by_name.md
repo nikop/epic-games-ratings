@@ -334,7 +334,7 @@
 | 332 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 333 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 334 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.90 | 
-| 335 | [High On Life](games/h/high_on_life.md) | 4.68 | 
+| 335 | [High On Life](games/h/high_on_life.md) | 4.69 | 
 | 336 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 337 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 338 | [Hob](games/h/hob.md) | 4.57 | 
@@ -547,7 +547,7 @@
 | 545 | [Quake](games/q/quake.md) | 4.75 | 
 | 546 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 547 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 548 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 548 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 549 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
 | 550 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 551 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
