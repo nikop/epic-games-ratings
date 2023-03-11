@@ -151,20 +151,20 @@
 | 142 | [Revita](games/r/revita.md) | 4.74 | 
 | 142 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 142 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
-| 142 | [Outlast](games/o/outlast.md) | 4.74 | 
 | 142 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
-| 154 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
-| 154 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
-| 154 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
-| 154 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
-| 154 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
-| 154 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
-| 154 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
-| 154 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
-| 154 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
-| 154 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
-| 154 | [Dead Space](games/d/dead_space.md) | 4.73 | 
-| 154 | [Suzerain](games/s/suzerain.md) | 4.73 | 
+| 153 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
+| 153 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
+| 153 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
+| 153 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
+| 153 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
+| 153 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
+| 153 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
+| 153 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
+| 153 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
+| 153 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
+| 153 | [Dead Space](games/d/dead_space.md) | 4.73 | 
+| 153 | [Outlast](games/o/outlast.md) | 4.73 | 
+| 153 | [Suzerain](games/s/suzerain.md) | 4.73 | 
 | 166 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
 | 166 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
 | 166 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
@@ -873,12 +873,12 @@
 | 870 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
 | 870 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
 | 873 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 874 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.79 | 
+| 874 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
 | 875 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 875 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
-| 875 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
-| 878 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
-| 879 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
+| 877 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
+| 878 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.75 | 
+| 878 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 880 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
 | 880 | [Blood of Steel](games/b/blood_of_steel.md) | 3.74 | 
 | 882 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 

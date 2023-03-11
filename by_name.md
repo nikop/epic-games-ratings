@@ -503,7 +503,7 @@
 | 501 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 502 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.61 | 
 | 503 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 504 | [Outlast](games/o/outlast.md) | 4.74 | 
+| 504 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 505 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
 | 506 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 507 | [Outward](games/o/outward.md) | 4.55 | 
@@ -652,7 +652,7 @@
 | 650 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
 | 651 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.46 | 
 | 652 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
-| 653 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 
+| 653 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.75 | 
 | 654 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
 | 655 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
 | 656 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
@@ -790,7 +790,7 @@
 | 788 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 789 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 790 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 
-| 791 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.79 | 
+| 791 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
 | 792 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 793 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
 | 794 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.67 | 
