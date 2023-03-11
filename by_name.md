@@ -206,7 +206,7 @@
 | 204 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
 | 205 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
 | 206 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
-| 207 | [DOOM 3](games/d/doom_3.md) | 4.60 | 
+| 207 | [DOOM 3](games/d/doom_3.md) | 4.61 | 
 | 208 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 209 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
 | 210 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
@@ -541,7 +541,7 @@
 | 539 | [Predecessor](games/p/predecessor.md) | 4.44 | 
 | 540 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 541 | [Prey](games/p/prey.md) | 4.62 | 
-| 542 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 542 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
 | 543 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 
 | 544 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 545 | [Quake](games/q/quake.md) | 4.75 | 
