@@ -487,7 +487,7 @@
 | 485 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 486 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
 | 487 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
-| 488 | [Obduction](games/o/obduction.md) | 4.11 | 
+| 488 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 489 | [Observation](games/o/observation.md) | 4.56 | 
 | 490 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
 | 491 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 
@@ -591,7 +591,7 @@
 | 589 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 590 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 591 | [Sable](games/s/sable.md) | 4.51 | 
-| 592 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
+| 592 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
 | 593 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 594 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
 | 595 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 

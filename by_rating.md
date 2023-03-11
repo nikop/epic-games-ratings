@@ -104,17 +104,17 @@
 | 90 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.79 | 
 | 103 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 103 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
-| 103 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
-| 106 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
-| 106 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 106 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
-| 106 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
-| 106 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 
-| 106 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.77 | 
-| 106 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
-| 106 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
-| 106 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
-| 106 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
+| 105 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
+| 105 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
+| 105 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
+| 105 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
+| 105 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 
+| 105 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.77 | 
+| 105 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
+| 105 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
+| 105 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
+| 105 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
+| 105 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
 | 116 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 116 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 116 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
@@ -824,14 +824,14 @@
 | 822 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
 | 822 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.12 | 
 | 824 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
-| 824 | [Obduction](games/o/obduction.md) | 4.11 | 
 | 824 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
-| 827 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
-| 827 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
-| 827 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
-| 827 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 827 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
-| 827 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
+| 826 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
+| 826 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 826 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
+| 826 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
+| 826 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 826 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
+| 826 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 833 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 833 | [Submerged](games/s/submerged.md) | 4.09 | 
 | 833 | [Fangs](games/f/fangs.md) | 4.09 | 
