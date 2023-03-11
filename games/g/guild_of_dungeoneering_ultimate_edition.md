@@ -1,5 +1,5 @@
 # Guild of Dungeoneering Ultimate Edition
-Rating: 4.63 (-)  (as of 23.09.2022)  
+Rating: 4.64 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -15,3 +15,4 @@ Rating: 4.63 (-)  (as of 23.09.2022)
 | 2022-11-15 | 4.63 | - |
 | 2023-01-01 | 4.61 | - |
 | 2023-02-15 | 4.63 | - |
+| 2023-03-11 | 4.64 | - |

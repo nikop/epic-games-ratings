@@ -315,7 +315,7 @@
 | 313 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 314 | [GRIME](games/g/grime.md) | 4.62 | 
 | 315 | [Grindstone](games/g/grindstone.md) | 4.84 | 
-| 316 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.63 | 
+| 316 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
 | 317 | [Hades](games/h/hades.md) | 4.92 | 
 | 318 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 319 | [Hammerting](games/h/hammerting.md) | 4.38 | 
@@ -513,7 +513,7 @@
 | 511 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
 | 512 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 513 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 514 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 
+| 514 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
 | 515 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 516 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 
 | 517 | [Parkitect](games/p/parkitect.md) | 4.32 | 
