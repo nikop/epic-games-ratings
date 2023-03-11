@@ -55,7 +55,7 @@
 | 53 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 54 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
 | 55 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
-| 56 | [ATOM RPG](games/a/atom_rpg.md) | 4.42 | 
+| 56 | [ATOM RPG](games/a/atom_rpg.md) | 4.43 | 
 | 57 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
 | 58 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 59 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
@@ -331,7 +331,7 @@
 | 329 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 330 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
 | 331 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
-| 332 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 332 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.24 | 
 | 333 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 334 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.90 | 
 | 335 | [High On Life](games/h/high_on_life.md) | 4.69 | 
