@@ -581,24 +581,24 @@
 | 575 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 575 | [The Surge](games/t/the_surge.md) | 4.46 | 
 | 575 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
+| 575 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 
 | 575 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 575 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
 | 575 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 575 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.46 | 
 | 575 | [WRC Generations](games/w/wrc_generations.md) | 4.46 | 
-| 587 | [SMITE](games/s/smite.md) | 4.45 | 
-| 587 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 587 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 587 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
-| 587 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 587 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
-| 587 | [Faeria](games/f/faeria.md) | 4.45 | 
-| 587 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 587 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 587 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 587 | [Figment](games/f/figment.md) | 4.45 | 
-| 587 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
-| 587 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 
+| 588 | [SMITE](games/s/smite.md) | 4.45 | 
+| 588 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 588 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 588 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
+| 588 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 588 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
+| 588 | [Faeria](games/f/faeria.md) | 4.45 | 
+| 588 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 588 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 588 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 588 | [Figment](games/f/figment.md) | 4.45 | 
+| 588 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 600 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
 | 600 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 600 | [The Captain](games/t/the_captain.md) | 4.44 | 
