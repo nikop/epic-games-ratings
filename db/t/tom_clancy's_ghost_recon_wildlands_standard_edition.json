@@ -1,10 +1,10 @@
 {
   "ID": "hyacinth",
   "Name": "Tom Clancy\u0027s Ghost Recon Wildlands Standard Edition",
-  "Rating": 4.58,
+  "Rating": 4.57,
   "NumberOfRatings": 871,
   "FirstSeen": "2022-07-22T20:20:43.6796979+00:00",
-  "LastChanged": "2023-03-10T15:57:26.2604471+00:00",
+  "LastChanged": "2023-03-11T13:06:34.1943815+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:43.6796982+00:00",
@@ -960,6 +960,11 @@
       "Time": "2023-03-10T15:57:26.2604473+00:00",
       "Rating": 4.58,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-11T13:06:34.1943816+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -977,7 +982,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 126
+      "Count": 128
     },
     {
       "Text": "This game is Highly Recommended",

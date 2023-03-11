@@ -541,7 +541,7 @@
 | 539 | [Predecessor](games/p/predecessor.md) | 4.44 | 
 | 540 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 541 | [Prey](games/p/prey.md) | 4.62 | 
-| 542 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
+| 542 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
 | 543 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 
 | 544 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 545 | [Quake](games/q/quake.md) | 4.75 | 
@@ -780,7 +780,7 @@
 | 778 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 779 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
 | 780 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
-| 781 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 
+| 781 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 782 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
 | 783 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
 | 784 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.60 | 
