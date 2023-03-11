@@ -174,7 +174,7 @@
 | 172 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 173 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 174 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
-| 175 | [Dead Space](games/d/dead_space.md) | 4.72 | 
+| 175 | [Dead Space](games/d/dead_space.md) | 4.73 | 
 | 176 | [Death Coming](games/d/death_coming.md) | 4.43 | 
 | 177 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
 | 178 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
@@ -331,7 +331,7 @@
 | 329 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 330 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
 | 331 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
-| 332 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.24 | 
+| 332 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 333 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 334 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.90 | 
 | 335 | [High On Life](games/h/high_on_life.md) | 4.68 | 
