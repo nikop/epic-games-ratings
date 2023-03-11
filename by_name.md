@@ -94,7 +94,7 @@
 | 92 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 93 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
 | 94 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 95 | [Blood of Steel](games/b/blood_of_steel.md) | 3.79 | 
+| 95 | [Blood of Steel](games/b/blood_of_steel.md) | 3.74 | 
 | 96 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 97 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 98 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -324,7 +324,7 @@
 | 322 | [Haven](games/h/haven.md) | 4.75 | 
 | 323 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 324 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 325 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 
+| 325 | [Hell is Others](games/h/hell_is_others.md) | 4.38 | 
 | 326 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 327 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.42 | 
 | 328 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
@@ -402,7 +402,7 @@
 | 400 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
 | 401 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 402 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.43 | 
-| 403 | [Knockout City™](games/k/knockout_city™.md) | 4.50 | 
+| 403 | [Knockout City™](games/k/knockout_city™.md) | 4.53 | 
 | 404 | [Lake](games/l/lake.md) | 4.07 | 
 | 405 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 406 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
