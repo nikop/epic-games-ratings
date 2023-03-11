@@ -613,7 +613,6 @@
 | 600 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
 | 600 | [Predecessor](games/p/predecessor.md) | 4.44 | 
 | 600 | [Redout 2](games/r/redout_2.md) | 4.44 | 
-| 614 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 614 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 614 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
 | 614 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
@@ -624,18 +623,19 @@
 | 614 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 614 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.43 | 
 | 614 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
-| 625 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 625 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 625 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 625 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 625 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
-| 625 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 
-| 625 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 625 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 625 | [ELEX](games/e/elex.md) | 4.42 | 
-| 625 | [ATOM RPG](games/a/atom_rpg.md) | 4.42 | 
-| 625 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
-| 625 | [Duskers](games/d/duskers.md) | 4.42 | 
+| 624 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 624 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 624 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 624 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 624 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 624 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
+| 624 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 
+| 624 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
+| 624 | [Good Company](games/g/good_company.md) | 4.42 | 
+| 624 | [ELEX](games/e/elex.md) | 4.42 | 
+| 624 | [ATOM RPG](games/a/atom_rpg.md) | 4.42 | 
+| 624 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
+| 624 | [Duskers](games/d/duskers.md) | 4.42 | 
 | 637 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 637 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 637 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
@@ -651,6 +651,7 @@
 | 637 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
 | 650 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 650 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
+| 650 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
 | 650 | [Othercide](games/o/othercide.md) | 4.40 | 
 | 650 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 650 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
@@ -658,17 +659,16 @@
 | 650 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
 | 650 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
 | 650 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
-| 659 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 659 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 659 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
-| 659 | [Tacoma](games/t/tacoma.md) | 4.39 | 
-| 659 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
-| 659 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
-| 659 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 659 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.39 | 
-| 659 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 
-| 659 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.39 | 
-| 659 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.39 | 
+| 660 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 660 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 660 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
+| 660 | [Tacoma](games/t/tacoma.md) | 4.39 | 
+| 660 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
+| 660 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
+| 660 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.39 | 
+| 660 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 
+| 660 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.39 | 
+| 660 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.39 | 
 | 670 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 670 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 670 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 
@@ -822,7 +822,7 @@
 | 820 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
 | 820 | [Train Valley 2](games/t/train_valley_2.md) | 4.13 | 
 | 820 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
-| 823 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.12 | 
+| 820 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.13 | 
 | 824 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
 | 824 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
 | 826 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
