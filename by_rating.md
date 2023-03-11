@@ -684,7 +684,7 @@
 | 681 | [Core](games/c/core.md) | 4.37 | 
 | 681 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
 | 681 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 681 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
+| 681 | [Encased](games/e/encased.md) | 4.37 | 
 | 681 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | 
 | 681 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 681 | [Lamentum](games/l/lamentum.md) | 4.37 | 
@@ -695,7 +695,7 @@
 | 689 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 689 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
 | 689 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 689 | [Encased](games/e/encased.md) | 4.36 | 
+| 689 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 
 | 689 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
 | 689 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 689 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
@@ -819,10 +819,10 @@
 | 813 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 813 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
 | 819 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
+| 820 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
 | 820 | [Train Valley 2](games/t/train_valley_2.md) | 4.13 | 
 | 820 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
-| 822 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
-| 822 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.12 | 
+| 823 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.12 | 
 | 824 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
 | 824 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
 | 826 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 

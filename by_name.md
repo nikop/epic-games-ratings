@@ -90,7 +90,7 @@
 | 88 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 89 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
 | 90 | [BLACKTAIL](games/b/blacktail.md) | 4.70 | 
-| 91 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 
+| 91 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
 | 92 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 93 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
 | 94 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
@@ -203,7 +203,7 @@
 | 201 | [Dishonored 2](games/d/dishonored_2.md) | 4.82 | 
 | 202 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
 | 203 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
-| 204 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.37 | 
+| 204 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 
 | 205 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
 | 206 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 207 | [DOOM 3](games/d/doom_3.md) | 4.61 | 
@@ -222,7 +222,7 @@
 | 220 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 221 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 222 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 223 | [Encased](games/e/encased.md) | 4.36 | 
+| 223 | [Encased](games/e/encased.md) | 4.37 | 
 | 224 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 225 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.47 | 
 | 226 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
