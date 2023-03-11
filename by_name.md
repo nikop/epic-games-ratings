@@ -387,7 +387,7 @@
 | 385 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 386 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 387 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
-| 388 | [King of Retail](games/k/king_of_retail.md) | 4.74 | 
+| 388 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 
 | 389 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
 | 390 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
 | 391 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
@@ -747,7 +747,7 @@
 | 745 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 746 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
 | 747 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 748 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
+| 748 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 749 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 750 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 751 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
