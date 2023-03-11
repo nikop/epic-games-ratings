@@ -217,7 +217,6 @@
 | 212 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
 | 212 | [Days Gone](games/d/days_gone.md) | 4.69 | 
 | 212 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 212 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 212 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 212 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 212 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
@@ -230,27 +229,28 @@
 | 212 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.69 | 
 | 212 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 212 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
-| 231 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
-| 231 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 231 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 231 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 231 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 231 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 231 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
-| 231 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
-| 231 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
-| 231 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 
-| 231 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.68 | 
-| 231 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 231 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
-| 231 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
-| 231 | [CARRION](games/c/carrion.md) | 4.68 | 
-| 231 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
-| 231 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
-| 231 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.68 | 
-| 231 | [High On Life](games/h/high_on_life.md) | 4.68 | 
-| 231 | [No Straight Roads](games/n/no_straight_roads.md) | 4.68 | 
-| 231 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
+| 230 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
+| 230 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 230 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 230 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 230 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 230 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 230 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 
+| 230 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
+| 230 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
+| 230 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 230 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 
+| 230 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.68 | 
+| 230 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
+| 230 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 230 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
+| 230 | [CARRION](games/c/carrion.md) | 4.68 | 
+| 230 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
+| 230 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
+| 230 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.68 | 
+| 230 | [High On Life](games/h/high_on_life.md) | 4.68 | 
+| 230 | [No Straight Roads](games/n/no_straight_roads.md) | 4.68 | 
+| 230 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
 | 252 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 252 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 252 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
@@ -802,16 +802,16 @@
 | 794 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
 | 801 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 801 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 803 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
-| 803 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
-| 803 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
-| 806 | [Space Punks](games/s/space_punks.md) | 4.16 | 
-| 806 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
-| 806 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 806 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
-| 806 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
-| 806 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
-| 806 | [Rise of Industry](games/r/rise_of_industry.md) | 4.16 | 
+| 801 | [Rise of Industry](games/r/rise_of_industry.md) | 4.18 | 
+| 804 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
+| 804 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
+| 804 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
+| 807 | [Space Punks](games/s/space_punks.md) | 4.16 | 
+| 807 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
+| 807 | [Family Man](games/f/family_man.md) | 4.16 | 
+| 807 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
+| 807 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
+| 807 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
 | 813 | [Pine](games/p/pine.md) | 4.15 | 
 | 813 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 813 | [Relicta](games/r/relicta.md) | 4.15 | 
@@ -843,9 +843,9 @@
 | 839 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
 | 842 | [Godfall](games/g/godfall.md) | 4.06 | 
 | 842 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.06 | 
-| 844 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 844 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.05 | 
-| 844 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.05 | 
+| 842 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.06 | 
+| 845 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 845 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.05 | 
 | 847 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 847 | [Tharsis](games/t/tharsis.md) | 4.04 | 
 | 849 | [Forspoken](games/f/forspoken.md) | 4.03 | 

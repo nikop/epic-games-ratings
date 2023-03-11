@@ -213,7 +213,7 @@
 | 211 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 212 | [Duskers](games/d/duskers.md) | 4.42 | 
 | 213 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
-| 214 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
+| 214 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 
 | 215 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 216 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 217 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
@@ -383,7 +383,7 @@
 | 381 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 382 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 383 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 384 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.05 | 
+| 384 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.06 | 
 | 385 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 386 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 387 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
@@ -571,7 +571,7 @@
 | 569 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
 | 570 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 571 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 572 | [Rise of Industry](games/r/rise_of_industry.md) | 4.16 | 
+| 572 | [Rise of Industry](games/r/rise_of_industry.md) | 4.18 | 
 | 573 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 574 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 575 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
