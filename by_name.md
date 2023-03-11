@@ -105,7 +105,7 @@
 | 103 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 104 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 
 | 105 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
-| 106 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
+| 106 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.39 | 
 | 107 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
 | 108 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 109 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
@@ -310,7 +310,7 @@
 | 308 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.12 | 
 | 309 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 310 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.51 | 
-| 311 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.68 | 
+| 311 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.67 | 
 | 312 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 313 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 314 | [GRIME](games/g/grime.md) | 4.62 | 
@@ -498,7 +498,7 @@
 | 496 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 497 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
 | 498 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.39 | 
-| 499 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.77 | 
+| 499 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
 | 500 | [Othercide](games/o/othercide.md) | 4.40 | 
 | 501 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 502 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.61 | 
