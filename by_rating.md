@@ -628,7 +628,6 @@
 | 625 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 625 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 625 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 625 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
 | 625 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
 | 625 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 
 | 625 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
@@ -636,9 +635,11 @@
 | 625 | [ELEX](games/e/elex.md) | 4.42 | 
 | 625 | [ATOM RPG](games/a/atom_rpg.md) | 4.42 | 
 | 625 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
+| 625 | [Duskers](games/d/duskers.md) | 4.42 | 
 | 625 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.42 | 
 | 638 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 638 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 638 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
 | 638 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 638 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
 | 638 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
@@ -647,7 +648,6 @@
 | 638 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 638 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 638 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
-| 638 | [Duskers](games/d/duskers.md) | 4.41 | 
 | 638 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 638 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
 | 651 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 

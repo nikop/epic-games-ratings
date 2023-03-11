@@ -211,7 +211,7 @@
 | 209 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
 | 210 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 211 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 212 | [Duskers](games/d/duskers.md) | 4.41 | 
+| 212 | [Duskers](games/d/duskers.md) | 4.42 | 
 | 213 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 214 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.69 | 
 | 215 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
@@ -428,7 +428,7 @@
 | 426 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
 | 427 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.57 | 
 | 428 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 429 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 
+| 429 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
 | 430 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
 | 431 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
 | 432 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
