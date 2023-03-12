@@ -440,7 +440,6 @@
 | 436 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
 | 436 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
 | 436 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 436 | [Hue](games/h/hue.md) | 4.56 | 
 | 436 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 436 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
 | 436 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 
@@ -452,19 +451,20 @@
 | 436 | [Observation](games/o/observation.md) | 4.56 | 
 | 436 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
 | 436 | [The Medium](games/t/the_medium.md) | 4.56 | 
-| 453 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 453 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
-| 453 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 453 | [Outward](games/o/outward.md) | 4.55 | 
-| 453 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 453 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 
-| 453 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
-| 453 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
-| 453 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
-| 453 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
-| 453 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.55 | 
-| 453 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.55 | 
-| 453 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
+| 452 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 452 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
+| 452 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 452 | [Hue](games/h/hue.md) | 4.55 | 
+| 452 | [Outward](games/o/outward.md) | 4.55 | 
+| 452 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 452 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 
+| 452 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
+| 452 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 452 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
+| 452 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
+| 452 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.55 | 
+| 452 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.55 | 
+| 452 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
 | 466 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 466 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 466 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 

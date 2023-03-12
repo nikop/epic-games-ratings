@@ -348,7 +348,7 @@
 | 346 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 347 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 348 | [House Party](games/h/house_party.md) | 4.31 | 
-| 349 | [Hue](games/h/hue.md) | 4.56 | 
+| 349 | [Hue](games/h/hue.md) | 4.55 | 
 | 350 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
 | 351 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 352 | [Huntdown](games/h/huntdown.md) | 4.85 | 
