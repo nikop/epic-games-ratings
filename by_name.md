@@ -182,7 +182,7 @@
 | 180 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 181 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
 | 182 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | 
-| 183 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
+| 183 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
 | 184 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
 | 185 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
 | 186 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
@@ -720,7 +720,7 @@
 | 718 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 719 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
 | 720 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
-| 721 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
+| 721 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 
 | 722 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 723 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
 | 724 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 

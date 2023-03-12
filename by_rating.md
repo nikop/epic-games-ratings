@@ -30,13 +30,13 @@
 | 24 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 
 | 24 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 24 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.87 | 
-| 31 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
-| 31 | [Inscryption](games/i/inscryption.md) | 4.86 | 
-| 31 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 31 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 
-| 31 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
-| 31 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 
-| 31 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 
+| 24 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 
+| 32 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
+| 32 | [Inscryption](games/i/inscryption.md) | 4.86 | 
+| 32 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
+| 32 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 
+| 32 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
+| 32 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 
 | 38 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 38 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 38 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
@@ -591,7 +591,6 @@
 | 589 | [SMITE](games/s/smite.md) | 4.45 | 
 | 589 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 589 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 589 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
 | 589 | [Pathway](games/p/pathway.md) | 4.45 | 
 | 589 | [Faeria](games/f/faeria.md) | 4.45 | 
 | 589 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
@@ -599,21 +598,22 @@
 | 589 | [Weird West](games/w/weird_west.md) | 4.45 | 
 | 589 | [Figment](games/f/figment.md) | 4.45 | 
 | 589 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
-| 600 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
-| 600 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 600 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 600 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 600 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
-| 600 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
-| 600 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
-| 600 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
-| 600 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
-| 600 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
-| 600 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
-| 600 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
-| 600 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
-| 600 | [Predecessor](games/p/predecessor.md) | 4.44 | 
-| 600 | [Redout 2](games/r/redout_2.md) | 4.44 | 
+| 599 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
+| 599 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 599 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 599 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 599 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 599 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
+| 599 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
+| 599 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 599 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
+| 599 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
+| 599 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 599 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
+| 599 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
+| 599 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
+| 599 | [Predecessor](games/p/predecessor.md) | 4.44 | 
+| 599 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 615 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 615 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
 | 615 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
