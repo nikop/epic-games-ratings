@@ -451,19 +451,19 @@
 | 436 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
 | 436 | [Observation](games/o/observation.md) | 4.56 | 
 | 436 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
-| 436 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.56 | 
 | 436 | [The Medium](games/t/the_medium.md) | 4.56 | 
-| 454 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 454 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
-| 454 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 454 | [Outward](games/o/outward.md) | 4.55 | 
-| 454 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 454 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 
-| 454 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
-| 454 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
-| 454 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
-| 454 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
-| 454 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.55 | 
+| 453 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 453 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
+| 453 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 453 | [Outward](games/o/outward.md) | 4.55 | 
+| 453 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 453 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 
+| 453 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
+| 453 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
+| 453 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
+| 453 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
+| 453 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.55 | 
+| 453 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
 | 465 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 465 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 465 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
@@ -529,27 +529,27 @@
 | 519 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 519 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 519 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
-| 519 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 519 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 519 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
 | 519 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 519 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 
 | 519 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
-| 536 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 536 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 536 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 536 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 536 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
-| 536 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
-| 536 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 536 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
-| 536 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
-| 536 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 536 | [CryoFall](games/c/cryofall.md) | 4.49 | 
-| 536 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 536 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
-| 536 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
-| 536 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
+| 535 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 535 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 535 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 535 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 535 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 535 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 535 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 535 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 
+| 535 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 535 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
+| 535 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 535 | [CryoFall](games/c/cryofall.md) | 4.49 | 
+| 535 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 535 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 535 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
+| 535 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
 | 551 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 551 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 551 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
@@ -846,39 +846,40 @@
 | 843 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.06 | 
 | 845 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 845 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.05 | 
-| 847 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
-| 847 | [Tharsis](games/t/tharsis.md) | 4.04 | 
-| 849 | [Forspoken](games/f/forspoken.md) | 4.03 | 
-| 850 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
-| 851 | [Pinball FX](games/p/pinball_fx.md) | 4.01 | 
-| 852 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
-| 852 | [Port Royale 4](games/p/port_royale_4.md) | 3.99 | 
-| 852 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 
-| 855 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
-| 855 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
-| 855 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 
-| 858 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.96 | 
-| 858 | [The First Tree](games/t/the_first_tree.md) | 3.96 | 
-| 860 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 860 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 3.95 | 
-| 860 | [Banished](games/b/banished.md) | 3.95 | 
-| 863 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.94 | 
-| 863 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
-| 863 | [Patron](games/p/patron.md) | 3.94 | 
-| 863 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
-| 867 | [Conarium](games/c/conarium.md) | 3.93 | 
-| 868 | [Warface](games/w/warface.md) | 3.92 | 
-| 868 | [Ironcast](games/i/ironcast.md) | 3.92 | 
-| 870 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 870 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
-| 870 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
-| 873 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 874 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
-| 875 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 875 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
-| 877 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
-| 878 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.75 | 
-| 878 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
-| 880 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
-| 880 | [Blood of Steel](games/b/blood_of_steel.md) | 3.74 | 
-| 882 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
+| 845 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.05 | 
+| 848 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
+| 848 | [Tharsis](games/t/tharsis.md) | 4.04 | 
+| 850 | [Forspoken](games/f/forspoken.md) | 4.03 | 
+| 851 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
+| 852 | [Pinball FX](games/p/pinball_fx.md) | 4.01 | 
+| 853 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
+| 853 | [Port Royale 4](games/p/port_royale_4.md) | 3.99 | 
+| 853 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 
+| 856 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
+| 856 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
+| 856 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 
+| 859 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.96 | 
+| 859 | [The First Tree](games/t/the_first_tree.md) | 3.96 | 
+| 861 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
+| 861 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 3.95 | 
+| 861 | [Banished](games/b/banished.md) | 3.95 | 
+| 864 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.94 | 
+| 864 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
+| 864 | [Patron](games/p/patron.md) | 3.94 | 
+| 864 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
+| 868 | [Conarium](games/c/conarium.md) | 3.93 | 
+| 869 | [Warface](games/w/warface.md) | 3.92 | 
+| 869 | [Ironcast](games/i/ironcast.md) | 3.92 | 
+| 871 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 871 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
+| 871 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
+| 874 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
+| 875 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
+| 876 | [Saints Row](games/s/saints_row.md) | 3.78 | 
+| 876 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
+| 878 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
+| 879 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.75 | 
+| 879 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
+| 881 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
+| 881 | [Blood of Steel](games/b/blood_of_steel.md) | 3.74 | 
+| 883 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 

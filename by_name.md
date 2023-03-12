@@ -165,7 +165,7 @@
 | 163 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 164 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
 | 165 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 166 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
+| 166 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 167 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 
 | 168 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 169 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
@@ -437,7 +437,7 @@
 | 435 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 436 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.05 | 
 | 437 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
-| 438 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.56 | 
+| 438 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
 | 439 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
 | 440 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
 | 441 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
@@ -863,22 +863,23 @@
 | 861 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 862 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 863 | [Windbound](games/w/windbound.md) | 4.18 | 
-| 864 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
-| 865 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
-| 866 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 867 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
-| 868 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
-| 869 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 870 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
-| 871 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
-| 872 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 873 | [WRC Generations](games/w/wrc_generations.md) | 4.46 | 
-| 874 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 875 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 876 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 877 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
-| 878 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 
-| 879 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
-| 880 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
-| 881 | [ZOMBI](games/z/zombi.md) | 4.38 | 
-| 882 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 864 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.05 | 
+| 865 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
+| 866 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
+| 867 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 868 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
+| 869 | [World of Warships](games/w/world_of_warships.md) | 4.47 | 
+| 870 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 871 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
+| 872 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
+| 873 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
+| 874 | [WRC Generations](games/w/wrc_generations.md) | 4.46 | 
+| 875 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 876 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 877 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 878 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
+| 879 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 
+| 880 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
+| 881 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
+| 882 | [ZOMBI](games/z/zombi.md) | 4.38 | 
+| 883 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
