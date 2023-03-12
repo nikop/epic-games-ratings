@@ -572,7 +572,7 @@
 | 570 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
 | 571 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 572 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 573 | [Rise of Industry](games/r/rise_of_industry.md) | 4.18 | 
+| 573 | [Rise of Industry](games/r/rise_of_industry.md) | 4.17 | 
 | 574 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 575 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 576 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
@@ -746,7 +746,7 @@
 | 744 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 745 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 746 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 747 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 
+| 747 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
 | 748 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 749 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 750 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 

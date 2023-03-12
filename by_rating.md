@@ -803,10 +803,10 @@
 | 794 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
 | 802 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 802 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 802 | [Rise of Industry](games/r/rise_of_industry.md) | 4.18 | 
-| 805 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
-| 805 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
-| 805 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
+| 804 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
+| 804 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
+| 804 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
+| 804 | [Rise of Industry](games/r/rise_of_industry.md) | 4.17 | 
 | 808 | [Space Punks](games/s/space_punks.md) | 4.16 | 
 | 808 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
 | 808 | [Family Man](games/f/family_man.md) | 4.16 | 
@@ -878,7 +878,7 @@
 | 876 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
 | 877 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 877 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
-| 879 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 
+| 879 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
 | 880 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.75 | 
 | 880 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 882 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
