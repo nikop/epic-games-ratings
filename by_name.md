@@ -745,7 +745,7 @@
 | 743 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 744 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 745 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 746 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
+| 746 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 
 | 747 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 748 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 749 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
@@ -842,7 +842,7 @@
 | 840 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 841 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 842 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 843 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
+| 843 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.41 | 
 | 844 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 845 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 846 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
@@ -880,6 +880,6 @@
 | 878 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
 | 879 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 
 | 880 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
-| 881 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
+| 881 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 
 | 882 | [ZOMBI](games/z/zombi.md) | 4.38 | 
 | 883 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 

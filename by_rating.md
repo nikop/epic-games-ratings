@@ -251,26 +251,26 @@
 | 231 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.68 | 
 | 231 | [No Straight Roads](games/n/no_straight_roads.md) | 4.68 | 
 | 231 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
-| 252 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 252 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 252 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
-| 252 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 252 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.67 | 
-| 252 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
-| 252 | [Overcooked](games/o/overcooked.md) | 4.67 | 
-| 252 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 252 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
-| 252 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
-| 252 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
-| 252 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 252 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 
-| 252 | [Card Shark](games/c/card_shark.md) | 4.67 | 
-| 252 | [GNOG](games/g/gnog.md) | 4.67 | 
-| 252 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.67 | 
-| 252 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.67 | 
-| 252 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 
-| 252 | [Returnal™](games/r/returnal™.md) | 4.67 | 
-| 252 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 
+| 231 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 
+| 253 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 253 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 253 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
+| 253 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 253 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.67 | 
+| 253 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
+| 253 | [Overcooked](games/o/overcooked.md) | 4.67 | 
+| 253 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 253 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
+| 253 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
+| 253 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
+| 253 | [Eastward](games/e/eastward.md) | 4.67 | 
+| 253 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 
+| 253 | [Card Shark](games/c/card_shark.md) | 4.67 | 
+| 253 | [GNOG](games/g/gnog.md) | 4.67 | 
+| 253 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.67 | 
+| 253 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.67 | 
+| 253 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 
+| 253 | [Returnal™](games/r/returnal™.md) | 4.67 | 
 | 272 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 272 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 272 | [Trackmania](games/t/trackmania.md) | 4.66 | 
@@ -643,22 +643,22 @@
 | 636 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
 | 636 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
 | 636 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
+| 636 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.41 | 
 | 636 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 636 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 636 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 636 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 636 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
-| 649 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 649 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 649 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
-| 649 | [Othercide](games/o/othercide.md) | 4.40 | 
-| 649 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 649 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
-| 649 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 649 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
-| 649 | [Duskers](games/d/duskers.md) | 4.40 | 
-| 649 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
-| 649 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
+| 650 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 650 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
+| 650 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
+| 650 | [Othercide](games/o/othercide.md) | 4.40 | 
+| 650 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 650 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
+| 650 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
+| 650 | [Duskers](games/d/duskers.md) | 4.40 | 
+| 650 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
+| 650 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 660 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 660 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 660 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
@@ -877,7 +877,7 @@
 | 875 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
 | 876 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 876 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
-| 878 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
+| 878 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 
 | 879 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.75 | 
 | 879 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 881 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
