@@ -8,4 +8,3 @@
 | 6 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.52 | 
 | 7 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.64 | 
 | 7 | [Returnal™](games/r/returnal™.md) | 4.64 | 
-| 9 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 

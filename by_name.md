@@ -206,7 +206,7 @@
 | 204 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
 | 205 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 
 | 206 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
-| 207 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
+| 207 | [DOOM (1993)](games/d/doom_(1993).md) | 4.81 | 
 | 208 | [DOOM 3](games/d/doom_3.md) | 4.61 | 
 | 209 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 210 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
@@ -791,7 +791,7 @@
 | 789 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 790 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 791 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 
-| 792 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
+| 792 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.79 | 
 | 793 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 794 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
 | 795 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.67 | 

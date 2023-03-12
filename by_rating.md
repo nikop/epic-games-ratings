@@ -57,26 +57,26 @@
 | 54 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 54 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
 | 54 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.83 | 
-| 54 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 
 | 54 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.83 | 
-| 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 60 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
-| 60 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 60 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 60 | [The Last Campfire](games/t/the_last_campfire.md) | 4.82 | 
-| 60 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
-| 60 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
-| 60 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.82 | 
-| 60 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
-| 69 | [Sifu](games/s/sifu.md) | 4.81 | 
-| 69 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 69 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
-| 69 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
-| 69 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 69 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
-| 69 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
-| 69 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
-| 69 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
+| 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 59 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 59 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
+| 59 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
+| 59 | [The Last Campfire](games/t/the_last_campfire.md) | 4.82 | 
+| 59 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
+| 59 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
+| 59 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.82 | 
+| 59 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
+| 68 | [Sifu](games/s/sifu.md) | 4.81 | 
+| 68 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 68 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
+| 68 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
+| 68 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 68 | [DOOM (1993)](games/d/doom_(1993).md) | 4.81 | 
+| 68 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
+| 68 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
+| 68 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
+| 68 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
 | 78 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 78 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 78 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
@@ -875,7 +875,7 @@
 | 872 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
 | 872 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
 | 875 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 876 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
+| 876 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.79 | 
 | 877 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 877 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
 | 879 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.75 | 
