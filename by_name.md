@@ -437,7 +437,7 @@
 | 435 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 436 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.05 | 
 | 437 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
-| 438 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
+| 438 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.56 | 
 | 439 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
 | 440 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
 | 441 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
