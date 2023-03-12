@@ -635,30 +635,30 @@
 | 625 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 625 | [ELEX](games/e/elex.md) | 4.42 | 
 | 625 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
-| 625 | [Duskers](games/d/duskers.md) | 4.42 | 
-| 637 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
-| 637 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 637 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
-| 637 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 637 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
-| 637 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
-| 637 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
-| 637 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
-| 637 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 637 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 637 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
-| 637 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 637 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
-| 650 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 650 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 650 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
-| 650 | [Othercide](games/o/othercide.md) | 4.40 | 
-| 650 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 650 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
-| 650 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 650 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
-| 650 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
-| 650 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
+| 636 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
+| 636 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 636 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
+| 636 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
+| 636 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
+| 636 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
+| 636 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
+| 636 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
+| 636 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 636 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
+| 636 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 636 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 636 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
+| 649 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 649 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
+| 649 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
+| 649 | [Othercide](games/o/othercide.md) | 4.40 | 
+| 649 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 649 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 
+| 649 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
+| 649 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
+| 649 | [Duskers](games/d/duskers.md) | 4.40 | 
+| 649 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
+| 649 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 660 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 660 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 660 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
@@ -666,20 +666,20 @@
 | 660 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 660 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 660 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.39 | 
-| 660 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 
 | 660 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.39 | 
 | 660 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.39 | 
-| 670 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 670 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
-| 670 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 
-| 670 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
-| 670 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
-| 670 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
-| 670 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 670 | [Warpips](games/w/warpips.md) | 4.38 | 
-| 670 | [Hammerting](games/h/hammerting.md) | 4.38 | 
-| 670 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 670 | [ZOMBI](games/z/zombi.md) | 4.38 | 
+| 669 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 669 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
+| 669 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 
+| 669 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 669 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
+| 669 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
+| 669 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
+| 669 | [Warpips](games/w/warpips.md) | 4.38 | 
+| 669 | [Hammerting](games/h/hammerting.md) | 4.38 | 
+| 669 | [Hell is Others](games/h/hell_is_others.md) | 4.38 | 
+| 669 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
+| 669 | [ZOMBI](games/z/zombi.md) | 4.38 | 
 | 681 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 681 | [Core](games/c/core.md) | 4.37 | 
 | 681 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
@@ -767,11 +767,11 @@
 | 763 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 763 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
 | 763 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
-| 768 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
-| 768 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 768 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.23 | 
-| 768 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 768 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
+| 763 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.24 | 
+| 769 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
+| 769 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
+| 769 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
+| 769 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
 | 773 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
 | 773 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
 | 773 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 

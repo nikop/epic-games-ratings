@@ -128,7 +128,7 @@
 | 126 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 127 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
 | 128 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 129 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.23 | 
+| 129 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.24 | 
 | 130 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 131 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 
 | 132 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -211,7 +211,7 @@
 | 209 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
 | 210 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 211 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 212 | [Duskers](games/d/duskers.md) | 4.42 | 
+| 212 | [Duskers](games/d/duskers.md) | 4.40 | 
 | 213 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 214 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 
 | 215 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
@@ -324,7 +324,7 @@
 | 322 | [Haven](games/h/haven.md) | 4.75 | 
 | 323 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 324 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 325 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 
+| 325 | [Hell is Others](games/h/hell_is_others.md) | 4.38 | 
 | 326 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 327 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.39 | 
 | 328 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
