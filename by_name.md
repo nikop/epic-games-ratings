@@ -196,7 +196,7 @@
 | 194 | [Diabotical](games/d/diabotical.md) | 4.76 | 
 | 195 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
 | 196 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 197 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 
+| 197 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.46 | 
 | 198 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 199 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 200 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
@@ -226,7 +226,7 @@
 | 224 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 225 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.47 | 
 | 226 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 227 | [EVE Online](games/e/eve_online.md) | 4.25 | 
+| 227 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 228 | [Everything](games/e/everything.md) | 4.57 | 
 | 229 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 
 | 230 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.89 | 
@@ -435,7 +435,7 @@
 | 433 | [Mago](games/m/mago.md) | 4.90 | 
 | 434 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 435 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 436 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.05 | 
+| 436 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.03 | 
 | 437 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
 | 438 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.56 | 
 | 439 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
