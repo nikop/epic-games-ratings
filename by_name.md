@@ -34,7 +34,7 @@
 | 32 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
 | 33 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 34 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 
-| 35 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
+| 35 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
 | 36 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
 | 37 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 38 | [APE OUT](games/a/ape_out.md) | 4.65 | 
@@ -100,7 +100,7 @@
 | 98 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 99 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 100 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
-| 101 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 
+| 101 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 
 | 102 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 103 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
 | 104 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -714,7 +714,7 @@
 | 712 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
 | 713 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 714 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
-| 715 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 
+| 715 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
 | 716 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.79 | 
 | 717 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
 | 718 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
@@ -850,7 +850,7 @@
 | 848 | [Warpips](games/w/warpips.md) | 4.38 | 
 | 849 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 850 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
-| 851 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
+| 851 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
 | 852 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.34 | 
 | 853 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 854 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
