@@ -403,7 +403,7 @@
 | 401 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
 | 402 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 403 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.43 | 
-| 404 | [Knockout City™](games/k/knockout_city™.md) | 4.53 | 
+| 404 | [Knockout City™](games/k/knockout_city™.md) | 4.54 | 
 | 405 | [Lake](games/l/lake.md) | 4.07 | 
 | 406 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 407 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
@@ -806,7 +806,7 @@
 | 804 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 805 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 806 | [Train Valley](games/t/train_valley.md) | 4.46 | 
-| 807 | [Train Valley 2](games/t/train_valley_2.md) | 4.13 | 
+| 807 | [Train Valley 2](games/t/train_valley_2.md) | 4.14 | 
 | 808 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 809 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 810 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
