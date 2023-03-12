@@ -648,18 +648,18 @@
 | 637 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 637 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 637 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 637 | [Duskers](games/d/duskers.md) | 4.41 | 
 | 637 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 637 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
-| 651 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 651 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 651 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
-| 651 | [Othercide](games/o/othercide.md) | 4.40 | 
-| 651 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 651 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 651 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
-| 651 | [Duskers](games/d/duskers.md) | 4.40 | 
-| 651 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
-| 651 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
+| 652 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 652 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
+| 652 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
+| 652 | [Othercide](games/o/othercide.md) | 4.40 | 
+| 652 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 652 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
+| 652 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
+| 652 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
+| 652 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 661 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 661 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 661 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
@@ -756,13 +756,13 @@
 | 752 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 
 | 755 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 755 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 755 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
 | 755 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 755 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.26 | 
-| 759 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
-| 759 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
-| 759 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
-| 759 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 
-| 759 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
+| 760 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 760 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
+| 760 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 
+| 760 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
 | 764 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.24 | 
 | 764 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 764 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
@@ -844,11 +844,11 @@
 | 840 | [Lake](games/l/lake.md) | 4.07 | 
 | 840 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
 | 844 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.06 | 
-| 844 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.06 | 
-| 846 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 846 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.05 | 
-| 848 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
-| 848 | [Tharsis](games/t/tharsis.md) | 4.04 | 
+| 845 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 845 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.05 | 
+| 847 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
+| 847 | [Tharsis](games/t/tharsis.md) | 4.04 | 
+| 847 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.04 | 
 | 850 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.03 | 
 | 850 | [Forspoken](games/f/forspoken.md) | 4.03 | 
 | 852 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
