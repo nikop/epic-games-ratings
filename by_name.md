@@ -311,7 +311,7 @@
 | 309 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.13 | 
 | 310 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 311 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.52 | 
-| 312 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.66 | 
+| 312 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.64 | 
 | 313 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 314 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 315 | [GRIME](games/g/grime.md) | 4.62 | 
@@ -558,7 +558,7 @@
 | 556 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 557 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 558 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
-| 559 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.19 | 
+| 559 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.18 | 
 | 560 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 561 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 562 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
@@ -784,7 +784,7 @@
 | 782 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.57 | 
 | 783 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
 | 784 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
-| 785 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.60 | 
+| 785 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
 | 786 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
 | 787 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 788 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
