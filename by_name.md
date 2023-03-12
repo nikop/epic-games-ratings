@@ -310,7 +310,7 @@
 | 308 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 309 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.13 | 
 | 310 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 311 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.51 | 
+| 311 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.52 | 
 | 312 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.66 | 
 | 313 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 314 | [Griftlands](games/g/griftlands.md) | 4.81 | 
@@ -549,7 +549,7 @@
 | 547 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 548 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 549 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
-| 550 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 
+| 550 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
 | 551 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 552 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
 | 553 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
@@ -565,7 +565,7 @@
 | 563 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 564 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
 | 565 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 566 | [Returnal™](games/r/returnal™.md) | 4.67 | 
+| 566 | [Returnal™](games/r/returnal™.md) | 4.64 | 
 | 567 | [Revita](games/r/revita.md) | 4.74 | 
 | 568 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 569 | [RiME](games/r/rime.md) | 4.58 | 
@@ -727,7 +727,7 @@
 | 725 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 726 | [The Fall](games/t/the_fall.md) | 4.28 | 
 | 727 | [The First Tree](games/t/the_first_tree.md) | 3.96 | 
-| 728 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.74 | 
+| 728 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 
 | 729 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
 | 730 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 
 | 731 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 
