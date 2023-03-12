@@ -1,7 +1,16 @@
 {
   "ID": "cc1d104767dc4a2fa22a44d487e2db64",
   "Name": "60 Seconds! Reatomized",
+  "Rating": 4.55,
   "FirstSeen": "2022-12-15T05:57:00.0275207+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
+  "LastChanged": "2023-03-12T08:56:56.666763+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-12T08:56:56.6667632+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
