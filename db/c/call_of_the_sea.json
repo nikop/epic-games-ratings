@@ -1,10 +1,10 @@
 {
   "ID": "5e427319eea1401ab20c6cd78a4163c4",
   "Name": "Call of the Sea",
-  "Rating": 4.39,
+  "Rating": 4.29,
   "FirstSeen": "2022-07-22T20:19:57.3408897+00:00",
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
-  "LastChanged": "2023-03-11T06:57:19.1859778+00:00",
+  "LastChanged": "2023-03-12T06:57:33.6870309+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-02T01:30:49.749465+00:00",
@@ -49,6 +49,11 @@
     {
       "Time": "2023-03-11T06:57:19.1859781+00:00",
       "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-12T06:57:33.6870315+00:00",
+      "Rating": 4.29,
       "NumberOfRatings": null
     }
   ],
