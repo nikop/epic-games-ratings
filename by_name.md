@@ -201,7 +201,7 @@
 | 199 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 200 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 201 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
-| 202 | [Dishonored 2](games/d/dishonored_2.md) | 4.82 | 
+| 202 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
 | 203 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
 | 204 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
 | 205 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 
@@ -321,7 +321,7 @@
 | 319 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 320 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 321 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 322 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 
+| 322 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
 | 323 | [Haven](games/h/haven.md) | 4.75 | 
 | 324 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 325 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
@@ -456,7 +456,7 @@
 | 454 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
 | 455 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 456 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 
-| 457 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
+| 457 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 458 | [Moving Out](games/m/moving_out.md) | 4.58 | 
 | 459 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 460 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
@@ -572,7 +572,7 @@
 | 570 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
 | 571 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 572 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 573 | [Rise of Industry](games/r/rise_of_industry.md) | 4.17 | 
+| 573 | [Rise of Industry](games/r/rise_of_industry.md) | 4.18 | 
 | 574 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 575 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 576 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
@@ -746,7 +746,7 @@
 | 744 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 745 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 746 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 747 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
+| 747 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 
 | 748 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 749 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 750 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
