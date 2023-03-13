@@ -176,7 +176,7 @@
 | 174 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 175 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
 | 176 | [Dead Space](games/d/dead_space.md) | 4.73 | 
-| 177 | [Death Coming](games/d/death_coming.md) | 4.43 | 
+| 177 | [Death Coming](games/d/death_coming.md) | 4.44 | 
 | 178 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
 | 179 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
 | 180 | [Death's Door](games/d/death's_door.md) | 4.66 | 
@@ -212,7 +212,7 @@
 | 210 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
 | 211 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 212 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 213 | [Duskers](games/d/duskers.md) | 4.41 | 
+| 213 | [Duskers](games/d/duskers.md) | 4.40 | 
 | 214 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 215 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 
 | 216 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
@@ -749,7 +749,7 @@
 | 747 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 748 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 
 | 749 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 750 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
+| 750 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 751 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 752 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 753 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 

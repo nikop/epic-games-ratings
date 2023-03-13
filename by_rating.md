@@ -436,22 +436,22 @@
 | 420 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
 | 420 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 
 | 420 | [Everything](games/e/everything.md) | 4.57 | 
-| 437 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
-| 437 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 437 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 437 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
-| 437 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 437 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 437 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 
-| 437 | [Minit](games/m/minit.md) | 4.56 | 
-| 437 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
-| 437 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 437 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
-| 437 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
-| 437 | [Observation](games/o/observation.md) | 4.56 | 
-| 437 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
-| 437 | [The Medium](games/t/the_medium.md) | 4.56 | 
-| 437 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
+| 420 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
+| 438 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
+| 438 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 438 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 438 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
+| 438 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 438 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 438 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 
+| 438 | [Minit](games/m/minit.md) | 4.56 | 
+| 438 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
+| 438 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 438 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
+| 438 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
+| 438 | [Observation](games/o/observation.md) | 4.56 | 
+| 438 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
+| 438 | [The Medium](games/t/the_medium.md) | 4.56 | 
 | 453 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 453 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 453 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
@@ -609,24 +609,24 @@
 | 601 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
 | 601 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
 | 601 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
+| 601 | [Death Coming](games/d/death_coming.md) | 4.44 | 
 | 601 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 601 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
 | 601 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
 | 601 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
 | 601 | [Predecessor](games/p/predecessor.md) | 4.44 | 
 | 601 | [Redout 2](games/r/redout_2.md) | 4.44 | 
-| 616 | [Sheltered](games/s/sheltered.md) | 4.43 | 
-| 616 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 616 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
-| 616 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
-| 616 | [Death Coming](games/d/death_coming.md) | 4.43 | 
-| 616 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
-| 616 | [ATOM RPG](games/a/atom_rpg.md) | 4.43 | 
-| 616 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
-| 616 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
-| 616 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
-| 616 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.43 | 
-| 616 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
+| 617 | [Sheltered](games/s/sheltered.md) | 4.43 | 
+| 617 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 617 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
+| 617 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
+| 617 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
+| 617 | [ATOM RPG](games/a/atom_rpg.md) | 4.43 | 
+| 617 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
+| 617 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
+| 617 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
+| 617 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.43 | 
+| 617 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 628 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 628 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 628 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
@@ -649,18 +649,18 @@
 | 638 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 638 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 638 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
-| 638 | [Duskers](games/d/duskers.md) | 4.41 | 
 | 638 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 638 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
-| 653 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 653 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 653 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
-| 653 | [Othercide](games/o/othercide.md) | 4.40 | 
-| 653 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 653 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 653 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
-| 653 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
-| 653 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
+| 652 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 652 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
+| 652 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
+| 652 | [Othercide](games/o/othercide.md) | 4.40 | 
+| 652 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 652 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
+| 652 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
+| 652 | [Duskers](games/d/duskers.md) | 4.40 | 
+| 652 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
+| 652 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 662 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 662 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 662 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
