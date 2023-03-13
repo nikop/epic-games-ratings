@@ -454,7 +454,6 @@
 | 438 | [The Medium](games/t/the_medium.md) | 4.56 | 
 | 453 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 453 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
-| 453 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 453 | [Hue](games/h/hue.md) | 4.55 | 
 | 453 | [Outward](games/o/outward.md) | 4.55 | 
 | 453 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
@@ -466,17 +465,18 @@
 | 453 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.55 | 
 | 453 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.55 | 
 | 453 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
-| 467 | [VALORANT](games/v/valorant.md) | 4.54 | 
-| 467 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 467 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
-| 467 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 467 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
-| 467 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
-| 467 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
-| 467 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 467 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
-| 467 | [Knockout City™](games/k/knockout_city™.md) | 4.54 | 
-| 467 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 466 | [VALORANT](games/v/valorant.md) | 4.54 | 
+| 466 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 466 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
+| 466 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 
+| 466 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 466 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
+| 466 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
+| 466 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 466 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 466 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
+| 466 | [Knockout City™](games/k/knockout_city™.md) | 4.54 | 
+| 466 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 478 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 478 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 478 | [Dauntless](games/d/dauntless.md) | 4.53 | 
