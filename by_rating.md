@@ -879,9 +879,9 @@
 | 877 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.79 | 
 | 878 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 878 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
-| 880 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
-| 881 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.75 | 
-| 881 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
+| 880 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.75 | 
+| 880 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
+| 880 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 
 | 883 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
 | 883 | [Blood of Steel](games/b/blood_of_steel.md) | 3.74 | 
 | 885 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
