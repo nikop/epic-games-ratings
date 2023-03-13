@@ -65,7 +65,7 @@
 | 63 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 
 | 64 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
 | 65 | [Aztez](games/a/aztez.md) | 4.53 | 
-| 66 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
+| 66 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
 | 67 | [Backbone](games/b/backbone.md) | 4.33 | 
 | 68 | [Bad North](games/b/bad_north.md) | 4.69 | 
 | 69 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
@@ -456,7 +456,7 @@
 | 454 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
 | 455 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 456 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 
-| 457 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 457 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
 | 458 | [Moving Out](games/m/moving_out.md) | 4.58 | 
 | 459 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 460 | [MultiVersus](games/m/multiversus.md) | 4.56 | 

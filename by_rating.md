@@ -125,7 +125,6 @@
 | 116 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 
 | 116 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.76 | 
 | 116 | [shapez](games/s/shapez.md) | 4.76 | 
-| 126 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 126 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
 | 126 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 126 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
@@ -143,16 +142,17 @@
 | 126 | [Sailing Era](games/s/sailing_era.md) | 4.75 | 
 | 126 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 
 | 126 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 
-| 144 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
-| 144 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 144 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 144 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 144 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
-| 144 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 144 | [Revita](games/r/revita.md) | 4.74 | 
-| 144 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
-| 144 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
-| 144 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
+| 143 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
+| 143 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
+| 143 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 143 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 143 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 143 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
+| 143 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
+| 143 | [Revita](games/r/revita.md) | 4.74 | 
+| 143 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 143 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
+| 143 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
 | 154 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 154 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 154 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
@@ -560,7 +560,6 @@
 | 552 | [Far Cry](games/f/far_cry.md) | 4.48 | 
 | 552 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 
 | 552 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
-| 561 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.47 | 
 | 561 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 561 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 561 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
@@ -574,21 +573,22 @@
 | 561 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.47 | 
 | 561 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 561 | [STG Football](games/s/stg_football.md) | 4.47 | 
-| 575 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 575 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 575 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 575 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
-| 575 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 575 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
-| 575 | [The Surge](games/t/the_surge.md) | 4.46 | 
-| 575 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.46 | 
-| 575 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
-| 575 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 
-| 575 | [Train Valley](games/t/train_valley.md) | 4.46 | 
-| 575 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
-| 575 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 575 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.46 | 
-| 575 | [WRC Generations](games/w/wrc_generations.md) | 4.46 | 
+| 574 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 574 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 574 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 574 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
+| 574 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
+| 574 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 574 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
+| 574 | [The Surge](games/t/the_surge.md) | 4.46 | 
+| 574 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.46 | 
+| 574 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
+| 574 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 
+| 574 | [Train Valley](games/t/train_valley.md) | 4.46 | 
+| 574 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
+| 574 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 574 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.46 | 
+| 574 | [WRC Generations](games/w/wrc_generations.md) | 4.46 | 
 | 590 | [SMITE](games/s/smite.md) | 4.45 | 
 | 590 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 590 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
