@@ -485,7 +485,6 @@
 | 478 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
 | 478 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
 | 478 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 478 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
 | 478 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 478 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
 | 478 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
@@ -495,19 +494,20 @@
 | 478 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 478 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
 | 478 | [IXION](games/i/ixion.md) | 4.53 | 
-| 496 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
-| 496 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 496 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 496 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 496 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 496 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 496 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 496 | [UnMetal](games/u/unmetal.md) | 4.52 | 
-| 496 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 496 | [First Class Trouble](games/f/first_class_trouble.md) | 4.52 | 
-| 496 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.52 | 
-| 496 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 496 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 495 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
+| 495 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 495 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 495 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 495 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 495 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 495 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 495 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 495 | [UnMetal](games/u/unmetal.md) | 4.52 | 
+| 495 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 495 | [First Class Trouble](games/f/first_class_trouble.md) | 4.52 | 
+| 495 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.52 | 
+| 495 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 495 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 509 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 509 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 509 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.51 | 
