@@ -337,7 +337,7 @@
 | 335 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.90 | 
 | 336 | [High On Life](games/h/high_on_life.md) | 4.68 | 
 | 337 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 338 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 338 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 339 | [Hob](games/h/hob.md) | 4.57 | 
 | 340 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 
 | 341 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 
@@ -514,7 +514,7 @@
 | 512 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
 | 513 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 514 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 515 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.60 | 
+| 515 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.61 | 
 | 516 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 517 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 
 | 518 | [Parkitect](games/p/parkitect.md) | 4.32 | 
@@ -716,14 +716,14 @@
 | 714 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 715 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 716 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
-| 717 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.79 | 
+| 717 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.76 | 
 | 718 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
 | 719 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 720 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
 | 721 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 722 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 
 | 723 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
-| 724 | [The Escapists](games/t/the_escapists.md) | 4.49 | 
+| 724 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
 | 725 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 726 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 727 | [The Fall](games/t/the_fall.md) | 4.28 | 
