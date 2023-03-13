@@ -568,27 +568,27 @@
 | 561 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
 | 561 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
 | 561 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
+| 561 | [The Surge](games/t/the_surge.md) | 4.47 | 
 | 561 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
 | 561 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
 | 561 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.47 | 
 | 561 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 561 | [STG Football](games/s/stg_football.md) | 4.47 | 
-| 574 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
-| 574 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 574 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 574 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
-| 574 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
-| 574 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 574 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
-| 574 | [The Surge](games/t/the_surge.md) | 4.46 | 
-| 574 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.46 | 
-| 574 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
-| 574 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 
-| 574 | [Train Valley](games/t/train_valley.md) | 4.46 | 
-| 574 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
-| 574 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 574 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.46 | 
-| 574 | [WRC Generations](games/w/wrc_generations.md) | 4.46 | 
+| 575 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 575 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 575 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 575 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
+| 575 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
+| 575 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 575 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
+| 575 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.46 | 
+| 575 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
+| 575 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 
+| 575 | [Train Valley](games/t/train_valley.md) | 4.46 | 
+| 575 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
+| 575 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 575 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.46 | 
+| 575 | [WRC Generations](games/w/wrc_generations.md) | 4.46 | 
 | 590 | [SMITE](games/s/smite.md) | 4.45 | 
 | 590 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
 | 590 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
@@ -819,12 +819,12 @@
 | 815 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 815 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 815 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
+| 815 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.15 | 
 | 815 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
-| 821 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
-| 821 | [Train Valley 2](games/t/train_valley_2.md) | 4.14 | 
-| 823 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
-| 823 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
-| 823 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.13 | 
+| 822 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
+| 822 | [Train Valley 2](games/t/train_valley_2.md) | 4.14 | 
+| 824 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
+| 824 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
 | 826 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
 | 826 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
 | 828 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
