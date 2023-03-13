@@ -1,14 +1,19 @@
 {
   "ID": "a17cc66c3a3c4d75875febf281c73fd2",
   "Name": "BLACKTAIL",
-  "Rating": 4.7,
+  "Rating": 4.71,
   "FirstSeen": "2022-12-15T13:13:21.730409+00:00",
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
-  "LastChanged": "2023-02-16T16:57:44.5958534+00:00",
+  "LastChanged": "2023-03-13T17:57:41.7966734+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-16T16:57:44.5958536+00:00",
       "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-13T17:57:41.7966737+00:00",
+      "Rating": 4.71,
       "NumberOfRatings": null
     }
   ],

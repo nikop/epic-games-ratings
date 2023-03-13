@@ -189,29 +189,29 @@
 | 178 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 
 | 178 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
 | 178 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
+| 178 | [BLACKTAIL](games/b/blacktail.md) | 4.71 | 
 | 178 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.71 | 
 | 178 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
-| 192 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
-| 192 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
-| 192 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 192 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
-| 192 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 192 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
-| 192 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 192 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
-| 192 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
-| 192 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 192 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
-| 192 | [Fez](games/f/fez.md) | 4.70 | 
-| 192 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 192 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
-| 192 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
-| 192 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.70 | 
-| 192 | [BLACKTAIL](games/b/blacktail.md) | 4.70 | 
-| 192 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.70 | 
-| 192 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
-| 192 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
-| 192 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
+| 193 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
+| 193 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
+| 193 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 193 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
+| 193 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 193 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
+| 193 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 193 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
+| 193 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
+| 193 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 193 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
+| 193 | [Fez](games/f/fez.md) | 4.70 | 
+| 193 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 193 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
+| 193 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
+| 193 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.70 | 
+| 193 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.70 | 
+| 193 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
+| 193 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
+| 193 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 213 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 213 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 213 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
@@ -481,7 +481,6 @@
 | 477 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 477 | [Verdun](games/v/verdun.md) | 4.53 | 
 | 477 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 477 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
 | 477 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
 | 477 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
 | 477 | [RUINER](games/r/ruiner.md) | 4.53 | 
@@ -494,20 +493,21 @@
 | 477 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
 | 477 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
 | 477 | [IXION](games/i/ixion.md) | 4.53 | 
-| 495 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
-| 495 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 495 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 495 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 495 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 495 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 495 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
-| 495 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 495 | [UnMetal](games/u/unmetal.md) | 4.52 | 
-| 495 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 495 | [First Class Trouble](games/f/first_class_trouble.md) | 4.52 | 
-| 495 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.52 | 
-| 495 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 495 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 494 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
+| 494 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 494 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 494 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 494 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
+| 494 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 494 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 494 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.52 | 
+| 494 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 494 | [UnMetal](games/u/unmetal.md) | 4.52 | 
+| 494 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 494 | [First Class Trouble](games/f/first_class_trouble.md) | 4.52 | 
+| 494 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.52 | 
+| 494 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 494 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
 | 509 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 509 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
 | 509 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.51 | 

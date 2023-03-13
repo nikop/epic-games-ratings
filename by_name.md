@@ -90,7 +90,7 @@
 | 88 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 89 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 90 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
-| 91 | [BLACKTAIL](games/b/blacktail.md) | 4.70 | 
+| 91 | [BLACKTAIL](games/b/blacktail.md) | 4.71 | 
 | 92 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
 | 93 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 94 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
@@ -786,7 +786,7 @@
 | 784 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
 | 785 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
 | 786 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
-| 787 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
+| 787 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
 | 788 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 789 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
 | 790 | [Torchlight](games/t/torchlight.md) | 4.35 | 
