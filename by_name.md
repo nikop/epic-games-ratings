@@ -495,7 +495,7 @@
 | 493 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 494 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
 | 495 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
-| 496 | [Old World](games/o/old_world.md) | 4.64 | 
+| 496 | [Old World](games/o/old_world.md) | 4.65 | 
 | 497 | [Ooblets](games/o/ooblets.md) | 4.87 | 
 | 498 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
 | 499 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.39 | 
