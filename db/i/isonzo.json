@@ -421,6 +421,10 @@
     {
       "Text": "This game is Educational",
       "Count": 25
+    },
+    {
+      "Text": "This game has Realistic Visuals",
+      "Count": 20
     }
   ]
 }

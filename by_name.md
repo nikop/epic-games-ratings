@@ -182,7 +182,7 @@
 | 180 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 181 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
 | 182 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | 
-| 183 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 
+| 183 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
 | 184 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
 | 185 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
 | 186 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
@@ -202,7 +202,7 @@
 | 200 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 201 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 202 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
-| 203 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
+| 203 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.44 | 
 | 204 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
 | 205 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 
 | 206 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
@@ -633,7 +633,7 @@
 | 631 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 632 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 633 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 634 | [Slipways](games/s/slipways.md) | 4.72 | 
+| 634 | [Slipways](games/s/slipways.md) | 4.73 | 
 | 635 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
 | 636 | [SMITE](games/s/smite.md) | 4.45 | 
 | 637 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
@@ -664,7 +664,7 @@
 | 662 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 663 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 
 | 664 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 665 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.63 | 
+| 665 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.64 | 
 | 666 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 667 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
 | 668 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
@@ -880,7 +880,7 @@
 | 878 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 879 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 880 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
-| 881 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 
+| 881 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
 | 882 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
 | 883 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 
 | 884 | [ZOMBI](games/z/zombi.md) | 4.38 | 

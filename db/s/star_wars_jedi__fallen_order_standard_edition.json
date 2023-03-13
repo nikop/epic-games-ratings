@@ -1,10 +1,10 @@
 {
   "ID": "e509c16d53714b13ba8e393966507255",
   "Name": "STAR WARS Jedi: Fallen Order Standard Edition",
-  "Rating": 4.63,
+  "Rating": 4.64,
   "FirstSeen": "2022-07-22T20:19:02.6839746+00:00",
   "FirstSeenRating": "2023-01-19T17:57:21.8503862+00:00",
-  "LastChanged": "2023-02-24T17:57:11.8187803+00:00",
+  "LastChanged": "2023-03-13T18:57:13.9298958+00:00",
   "RatingHistory": [
     {
       "Time": "2023-01-19T17:57:21.8503864+00:00",
@@ -44,6 +44,11 @@
     {
       "Time": "2023-02-24T17:57:11.8187806+00:00",
       "Rating": 4.63,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-13T18:57:13.929896+00:00",
+      "Rating": 4.64,
       "NumberOfRatings": null
     }
   ],
