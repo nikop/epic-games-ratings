@@ -131,7 +131,6 @@
 | 126 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 
 | 126 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 126 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
-| 126 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 126 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 126 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 126 | [Quake](games/q/quake.md) | 4.75 | 
@@ -142,17 +141,18 @@
 | 126 | [Sailing Era](games/s/sailing_era.md) | 4.75 | 
 | 126 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 
 | 126 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 
-| 143 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
-| 143 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
-| 143 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 143 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 143 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 143 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
-| 143 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 143 | [Revita](games/r/revita.md) | 4.74 | 
-| 143 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
-| 143 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
-| 143 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
+| 142 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
+| 142 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
+| 142 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 142 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 142 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 142 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 142 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
+| 142 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
+| 142 | [Revita](games/r/revita.md) | 4.74 | 
+| 142 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 142 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
+| 142 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
 | 154 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 154 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 154 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
@@ -445,6 +445,7 @@
 | 438 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
 | 438 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 
 | 438 | [Minit](games/m/minit.md) | 4.56 | 
+| 438 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
 | 438 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
 | 438 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 438 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
@@ -452,19 +453,18 @@
 | 438 | [Observation](games/o/observation.md) | 4.56 | 
 | 438 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
 | 438 | [The Medium](games/t/the_medium.md) | 4.56 | 
-| 453 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 453 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
-| 453 | [Hue](games/h/hue.md) | 4.55 | 
-| 453 | [Outward](games/o/outward.md) | 4.55 | 
-| 453 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 453 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 
-| 453 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
-| 453 | [Travellers Rest](games/t/travellers_rest.md) | 4.55 | 
-| 453 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
-| 453 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
-| 453 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.55 | 
-| 453 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.55 | 
-| 453 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
+| 454 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 454 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
+| 454 | [Hue](games/h/hue.md) | 4.55 | 
+| 454 | [Outward](games/o/outward.md) | 4.55 | 
+| 454 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 454 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 
+| 454 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
+| 454 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
+| 454 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
+| 454 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.55 | 
+| 454 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.55 | 
+| 454 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
 | 466 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 466 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 466 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
@@ -757,23 +757,23 @@
 | 752 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.27 | 
 | 756 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 756 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 756 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
 | 756 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 756 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.26 | 
-| 761 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
-| 761 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
-| 761 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 
-| 761 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
+| 760 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 760 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
+| 760 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
+| 760 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 
+| 760 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
+| 765 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.24 | 
 | 765 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 765 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 765 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
 | 765 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
 | 765 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.24 | 
-| 770 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 770 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
-| 770 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 770 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 770 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
+| 771 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
+| 771 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
+| 771 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
+| 771 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
 | 775 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
 | 775 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
 | 775 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
@@ -799,12 +799,12 @@
 | 795 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 
 | 795 | [Flatout](games/f/flatout.md) | 4.19 | 
 | 795 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
+| 795 | [Rise of Industry](games/r/rise_of_industry.md) | 4.19 | 
 | 795 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
-| 801 | [Windbound](games/w/windbound.md) | 4.18 | 
-| 801 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 801 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
-| 801 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.18 | 
-| 801 | [Rise of Industry](games/r/rise_of_industry.md) | 4.18 | 
+| 802 | [Windbound](games/w/windbound.md) | 4.18 | 
+| 802 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 802 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
+| 802 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.18 | 
 | 806 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
 | 806 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
 | 806 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
