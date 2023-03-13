@@ -474,26 +474,26 @@
 | 466 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 
 | 466 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 466 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 466 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
 | 466 | [Knockout City™](games/k/knockout_city™.md) | 4.54 | 
 | 466 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 478 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 478 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 478 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 478 | [Verdun](games/v/verdun.md) | 4.53 | 
-| 478 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 478 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
-| 478 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
-| 478 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 478 | [RUINER](games/r/ruiner.md) | 4.53 | 
-| 478 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 478 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
-| 478 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
-| 478 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.53 | 
-| 478 | [Aztez](games/a/aztez.md) | 4.53 | 
-| 478 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 478 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
-| 478 | [IXION](games/i/ixion.md) | 4.53 | 
+| 477 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
+| 477 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 477 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 477 | [Verdun](games/v/verdun.md) | 4.53 | 
+| 477 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 477 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.53 | 
+| 477 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
+| 477 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
+| 477 | [RUINER](games/r/ruiner.md) | 4.53 | 
+| 477 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 477 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
+| 477 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
+| 477 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.53 | 
+| 477 | [Aztez](games/a/aztez.md) | 4.53 | 
+| 477 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
+| 477 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
+| 477 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
+| 477 | [IXION](games/i/ixion.md) | 4.53 | 
 | 495 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
 | 495 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 495 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
@@ -636,21 +636,21 @@
 | 628 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 628 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 628 | [ELEX](games/e/elex.md) | 4.42 | 
+| 628 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 
 | 628 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
-| 638 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
-| 638 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 638 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
-| 638 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 638 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
-| 638 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
-| 638 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
-| 638 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
-| 638 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.41 | 
-| 638 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 638 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 638 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
-| 638 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 638 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
+| 639 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
+| 639 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 639 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
+| 639 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
+| 639 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
+| 639 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
+| 639 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
+| 639 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
+| 639 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 639 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
+| 639 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 639 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 639 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
 | 652 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 652 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 652 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
@@ -847,9 +847,9 @@
 | 842 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
 | 846 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.06 | 
 | 847 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 848 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
-| 848 | [Tharsis](games/t/tharsis.md) | 4.04 | 
-| 848 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.04 | 
+| 847 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.05 | 
+| 849 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
+| 849 | [Tharsis](games/t/tharsis.md) | 4.04 | 
 | 851 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.03 | 
 | 851 | [Forspoken](games/f/forspoken.md) | 4.03 | 
 | 853 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
