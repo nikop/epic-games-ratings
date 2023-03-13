@@ -232,7 +232,7 @@
 | 230 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 
 | 231 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.89 | 
 | 232 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 233 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 
+| 233 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
 | 234 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 235 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
 | 236 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
@@ -327,7 +327,7 @@
 | 325 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 326 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 
 | 327 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 328 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.39 | 
+| 328 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.35 | 
 | 329 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
 | 330 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 331 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
