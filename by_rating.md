@@ -112,19 +112,19 @@
 | 104 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 104 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 104 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
-| 104 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 104 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
-| 115 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 115 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 115 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
-| 115 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 115 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 115 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
-| 115 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
-| 115 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 
-| 115 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.76 | 
-| 115 | [shapez](games/s/shapez.md) | 4.76 | 
-| 115 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.76 | 
+| 114 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 114 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 114 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
+| 114 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 114 | [Diabotical](games/d/diabotical.md) | 4.76 | 
+| 114 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
+| 114 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
+| 114 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 
+| 114 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
+| 114 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.76 | 
+| 114 | [shapez](games/s/shapez.md) | 4.76 | 
+| 114 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.76 | 
 | 126 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
 | 126 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 126 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
@@ -677,28 +677,28 @@
 | 671 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
 | 671 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 671 | [Warpips](games/w/warpips.md) | 4.38 | 
+| 671 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
 | 671 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 671 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
 | 671 | [ZOMBI](games/z/zombi.md) | 4.38 | 
-| 681 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 681 | [Core](games/c/core.md) | 4.37 | 
-| 681 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
-| 681 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 681 | [Encased](games/e/encased.md) | 4.37 | 
-| 681 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | 
-| 681 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 681 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 689 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 689 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 
-| 689 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 689 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 689 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
-| 689 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 689 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 
-| 689 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
-| 689 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 689 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
-| 689 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
+| 682 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 682 | [Core](games/c/core.md) | 4.37 | 
+| 682 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 682 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
+| 682 | [Encased](games/e/encased.md) | 4.37 | 
+| 682 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | 
+| 682 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 682 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 690 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 690 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 
+| 690 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 690 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 690 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
+| 690 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 690 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 
+| 690 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
+| 690 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
+| 690 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
 | 700 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
 | 700 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 700 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
@@ -883,5 +883,5 @@
 | 880 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 880 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 
 | 883 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
-| 883 | [Blood of Steel](games/b/blood_of_steel.md) | 3.74 | 
-| 885 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
+| 884 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
+| 885 | [Blood of Steel](games/b/blood_of_steel.md) | 3.70 | 

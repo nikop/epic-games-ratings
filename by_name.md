@@ -95,7 +95,7 @@
 | 93 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 94 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
 | 95 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 96 | [Blood of Steel](games/b/blood_of_steel.md) | 3.74 | 
+| 96 | [Blood of Steel](games/b/blood_of_steel.md) | 3.70 | 
 | 97 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 98 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 99 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
@@ -238,7 +238,7 @@
 | 236 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 237 | [Faeria](games/f/faeria.md) | 4.45 | 
 | 238 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 239 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
+| 239 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 240 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 241 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
 | 242 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.65 | 
@@ -667,7 +667,7 @@
 | 665 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.64 | 
 | 666 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 667 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
-| 668 | [Startup Panic](games/s/startup_panic.md) | 4.36 | 
+| 668 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
 | 669 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 670 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 671 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.68 | 
