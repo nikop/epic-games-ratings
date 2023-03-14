@@ -133,7 +133,7 @@
 | 131 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 132 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 
 | 133 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 
-| 134 | [Conarium](games/c/conarium.md) | 3.93 | 
+| 134 | [Conarium](games/c/conarium.md) | 3.91 | 
 | 135 | [Control](games/c/control.md) | 4.60 | 
 | 136 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
 | 137 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 
@@ -172,7 +172,7 @@
 | 170 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
 | 171 | [Dauntless](games/d/dauntless.md) | 4.53 | 
 | 172 | [Days Gone](games/d/days_gone.md) | 4.69 | 
-| 173 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
+| 173 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 
 | 174 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 175 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
 | 176 | [Dead Space](games/d/dead_space.md) | 4.73 | 
@@ -865,7 +865,7 @@
 | 863 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 864 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 865 | [Windbound](games/w/windbound.md) | 4.18 | 
-| 866 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.17 | 
+| 866 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.20 | 
 | 867 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
 | 868 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
 | 869 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 

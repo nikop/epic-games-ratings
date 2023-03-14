@@ -793,39 +793,39 @@
 | 783 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 783 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 783 | [Somerville](games/s/somerville.md) | 4.20 | 
-| 794 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 794 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 794 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 
-| 794 | [Flatout](games/f/flatout.md) | 4.19 | 
-| 794 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
-| 794 | [Rise of Industry](games/r/rise_of_industry.md) | 4.19 | 
-| 794 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.19 | 
-| 794 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
-| 802 | [Windbound](games/w/windbound.md) | 4.18 | 
-| 802 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 802 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
-| 802 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.18 | 
-| 806 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
-| 806 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
-| 806 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
-| 806 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.17 | 
+| 783 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.20 | 
+| 795 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
+| 795 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 795 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 
+| 795 | [Flatout](games/f/flatout.md) | 4.19 | 
+| 795 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
+| 795 | [Rise of Industry](games/r/rise_of_industry.md) | 4.19 | 
+| 795 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.19 | 
+| 795 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 
+| 803 | [Windbound](games/w/windbound.md) | 4.18 | 
+| 803 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 803 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
+| 803 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.18 | 
+| 807 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
+| 807 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
+| 807 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
 | 810 | [Space Punks](games/s/space_punks.md) | 4.16 | 
 | 810 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
 | 810 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 810 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
 | 810 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
+| 810 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 
 | 810 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
-| 816 | [Pine](games/p/pine.md) | 4.15 | 
-| 816 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
-| 816 | [Relicta](games/r/relicta.md) | 4.15 | 
-| 816 | [Gone Home](games/g/gone_home.md) | 4.15 | 
-| 816 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 816 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
-| 822 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
-| 822 | [Train Valley 2](games/t/train_valley_2.md) | 4.14 | 
-| 824 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
-| 824 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
-| 824 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.13 | 
+| 817 | [Pine](games/p/pine.md) | 4.15 | 
+| 817 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
+| 817 | [Relicta](games/r/relicta.md) | 4.15 | 
+| 817 | [Gone Home](games/g/gone_home.md) | 4.15 | 
+| 817 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
+| 817 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
+| 823 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
+| 823 | [Train Valley 2](games/t/train_valley_2.md) | 4.14 | 
+| 825 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
+| 825 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.13 | 
 | 827 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
 | 827 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
 | 829 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
@@ -869,12 +869,12 @@
 | 866 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
 | 866 | [Patron](games/p/patron.md) | 3.94 | 
 | 866 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
-| 870 | [Conarium](games/c/conarium.md) | 3.93 | 
-| 871 | [Warface](games/w/warface.md) | 3.92 | 
-| 871 | [Ironcast](games/i/ironcast.md) | 3.92 | 
-| 873 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 873 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
-| 873 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
+| 870 | [Warface](games/w/warface.md) | 3.92 | 
+| 870 | [Ironcast](games/i/ironcast.md) | 3.92 | 
+| 872 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 872 | [Conarium](games/c/conarium.md) | 3.91 | 
+| 872 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
+| 872 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
 | 876 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 877 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.79 | 
 | 878 | [Saints Row](games/s/saints_row.md) | 3.78 | 
