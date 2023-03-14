@@ -76,7 +76,7 @@
 | 74 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 75 | [Barony](games/b/barony.md) | 4.71 | 
 | 76 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.31 | 
-| 77 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
+| 77 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 78 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 79 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 80 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
@@ -120,7 +120,7 @@
 | 118 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 119 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 120 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
-| 121 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.82 | 
+| 121 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 
 | 122 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
 | 123 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
 | 124 | [Chorus](games/c/chorus.md) | 4.48 | 
@@ -327,7 +327,7 @@
 | 325 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 326 | [Hell is Others](games/h/hell_is_others.md) | 4.38 | 
 | 327 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 328 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.35 | 
+| 328 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.36 | 
 | 329 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
 | 330 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 331 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
@@ -749,7 +749,7 @@
 | 747 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 748 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
 | 749 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 750 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
+| 750 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 751 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 752 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 753 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
@@ -783,7 +783,7 @@
 | 781 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
 | 782 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
 | 783 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 
-| 784 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 
+| 784 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
 | 785 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
 | 786 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
 | 787 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 

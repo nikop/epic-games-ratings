@@ -58,15 +58,15 @@
 | 54 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
 | 54 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.83 | 
 | 54 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.83 | 
-| 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 59 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
-| 59 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 59 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 59 | [The Last Campfire](games/t/the_last_campfire.md) | 4.82 | 
-| 59 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
-| 59 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
-| 59 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.82 | 
-| 59 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
+| 54 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 
+| 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 60 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 60 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
+| 60 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
+| 60 | [The Last Campfire](games/t/the_last_campfire.md) | 4.82 | 
+| 60 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
+| 60 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
+| 60 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
 | 68 | [Sifu](games/s/sifu.md) | 4.81 | 
 | 68 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 68 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
@@ -237,7 +237,6 @@
 | 231 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
 | 231 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 231 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 
-| 231 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
 | 231 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
 | 231 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
 | 231 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 
@@ -254,20 +253,21 @@
 | 231 | [No Straight Roads](games/n/no_straight_roads.md) | 4.68 | 
 | 231 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
 | 231 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 
-| 255 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 255 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 255 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 255 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.67 | 
-| 255 | [Overcooked](games/o/overcooked.md) | 4.67 | 
-| 255 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 255 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
-| 255 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
-| 255 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
-| 255 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 255 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 
-| 255 | [Card Shark](games/c/card_shark.md) | 4.67 | 
-| 255 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.67 | 
-| 255 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 
+| 254 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 254 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 254 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
+| 254 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 254 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.67 | 
+| 254 | [Overcooked](games/o/overcooked.md) | 4.67 | 
+| 254 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 254 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
+| 254 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
+| 254 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
+| 254 | [Eastward](games/e/eastward.md) | 4.67 | 
+| 254 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 
+| 254 | [Card Shark](games/c/card_shark.md) | 4.67 | 
+| 254 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.67 | 
+| 254 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 
 | 269 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 269 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 269 | [Trackmania](games/t/trackmania.md) | 4.66 | 
@@ -402,6 +402,7 @@
 | 400 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
 | 400 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 400 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 400 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
 | 400 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 400 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 400 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
@@ -419,38 +420,37 @@
 | 400 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 
 | 400 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 400 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
-| 420 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 420 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 420 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 
-| 420 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
-| 420 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
-| 420 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 420 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
-| 420 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
-| 420 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 420 | [Hob](games/h/hob.md) | 4.57 | 
-| 420 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
-| 420 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
-| 420 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
-| 420 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
-| 420 | [Everything](games/e/everything.md) | 4.57 | 
-| 435 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
-| 435 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 435 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 435 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
-| 435 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 435 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 435 | [Minit](games/m/minit.md) | 4.56 | 
-| 435 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
-| 435 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
-| 435 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 435 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
-| 435 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
-| 435 | [Observation](games/o/observation.md) | 4.56 | 
-| 435 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
-| 435 | [Knockout City™](games/k/knockout_city™.md) | 4.56 | 
-| 435 | [The Medium](games/t/the_medium.md) | 4.56 | 
-| 435 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
+| 421 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 421 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 421 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
+| 421 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
+| 421 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
+| 421 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
+| 421 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
+| 421 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 421 | [Hob](games/h/hob.md) | 4.57 | 
+| 421 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
+| 421 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
+| 421 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
+| 421 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
+| 421 | [Everything](games/e/everything.md) | 4.57 | 
+| 421 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
+| 436 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
+| 436 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 436 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 436 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
+| 436 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 436 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 436 | [Minit](games/m/minit.md) | 4.56 | 
+| 436 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 436 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
+| 436 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 436 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
+| 436 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
+| 436 | [Observation](games/o/observation.md) | 4.56 | 
+| 436 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
+| 436 | [Knockout City™](games/k/knockout_city™.md) | 4.56 | 
+| 436 | [The Medium](games/t/the_medium.md) | 4.56 | 
 | 452 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 452 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 452 | [Hue](games/h/hue.md) | 4.55 | 
@@ -698,14 +698,14 @@
 | 690 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 
 | 690 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 690 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
+| 690 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.36 | 
 | 690 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
-| 700 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
-| 700 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
-| 700 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 700 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 700 | [Torchlight](games/t/torchlight.md) | 4.35 | 
-| 700 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
-| 700 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.35 | 
+| 701 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
+| 701 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
+| 701 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 701 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 701 | [Torchlight](games/t/torchlight.md) | 4.35 | 
+| 701 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
 | 707 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 707 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 707 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.34 | 
