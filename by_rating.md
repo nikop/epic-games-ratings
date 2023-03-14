@@ -850,8 +850,8 @@
 | 847 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.05 | 
 | 849 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 849 | [Tharsis](games/t/tharsis.md) | 4.04 | 
-| 851 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.03 | 
-| 851 | [Forspoken](games/f/forspoken.md) | 4.03 | 
+| 849 | [Forspoken](games/f/forspoken.md) | 4.04 | 
+| 852 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.03 | 
 | 853 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 854 | [Pinball FX](games/p/pinball_fx.md) | 4.01 | 
 | 855 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
