@@ -1,5 +1,5 @@
 # Shadowrun Hong Kong - Extended Edition
-Rating: 4.54 (241)  (as of 23.09.2022)  
+Rating: 4.53 (241)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -67,3 +67,4 @@ Rating: 4.54 (241)  (as of 23.09.2022)
 | 2023-01-08 | 4.54 | - |
 | 2023-01-25 | 4.55 | - |
 | 2023-01-29 | 4.54 | - |
+| 2023-03-14 | 4.53 | - |
