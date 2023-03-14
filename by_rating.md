@@ -430,42 +430,42 @@
 | 419 | [Hob](games/h/hob.md) | 4.57 | 
 | 419 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
 | 419 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
-| 419 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
 | 419 | [Isonzo](games/i/isonzo.md) | 4.57 | 
 | 419 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
 | 419 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
 | 419 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 
 | 419 | [Everything](games/e/everything.md) | 4.57 | 
-| 437 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
-| 437 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 437 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 437 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
-| 437 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 437 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 437 | [Minit](games/m/minit.md) | 4.56 | 
-| 437 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
-| 437 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
-| 437 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 437 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
-| 437 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
-| 437 | [Observation](games/o/observation.md) | 4.56 | 
-| 437 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
-| 437 | [Knockout City™](games/k/knockout_city™.md) | 4.56 | 
-| 437 | [The Medium](games/t/the_medium.md) | 4.56 | 
-| 437 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
-| 454 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
-| 454 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
-| 454 | [Hue](games/h/hue.md) | 4.55 | 
-| 454 | [Outward](games/o/outward.md) | 4.55 | 
-| 454 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 454 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 
-| 454 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
-| 454 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.55 | 
-| 454 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
-| 454 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
-| 454 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.55 | 
-| 454 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.55 | 
-| 454 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
+| 436 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
+| 436 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 436 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 436 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
+| 436 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 436 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 436 | [Minit](games/m/minit.md) | 4.56 | 
+| 436 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 436 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
+| 436 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 436 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
+| 436 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
+| 436 | [Observation](games/o/observation.md) | 4.56 | 
+| 436 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
+| 436 | [Knockout City™](games/k/knockout_city™.md) | 4.56 | 
+| 436 | [The Medium](games/t/the_medium.md) | 4.56 | 
+| 436 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
+| 453 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 453 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
+| 453 | [Hue](games/h/hue.md) | 4.55 | 
+| 453 | [Outward](games/o/outward.md) | 4.55 | 
+| 453 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 453 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 
+| 453 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
+| 453 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.55 | 
+| 453 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 
+| 453 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
+| 453 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
+| 453 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.55 | 
+| 453 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.55 | 
+| 453 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
 | 467 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 467 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 467 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 

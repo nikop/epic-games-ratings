@@ -511,7 +511,7 @@
 | 509 | [Overcooked](games/o/overcooked.md) | 4.67 | 
 | 510 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
 | 511 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 512 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 
+| 512 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 
 | 513 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 514 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 515 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.61 | 
