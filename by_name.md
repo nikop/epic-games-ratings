@@ -647,7 +647,7 @@
 | 645 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
 | 646 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 647 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.83 | 
-| 648 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.79 | 
+| 648 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 649 | [Space Punks](games/s/space_punks.md) | 4.16 | 
 | 650 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
 | 651 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
@@ -716,7 +716,7 @@
 | 714 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 715 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 716 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
-| 717 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.76 | 
+| 717 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.74 | 
 | 718 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
 | 719 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 720 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
@@ -848,7 +848,7 @@
 | 846 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 847 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 848 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
-| 849 | [Warpips](games/w/warpips.md) | 4.38 | 
+| 849 | [Warpips](games/w/warpips.md) | 4.39 | 
 | 850 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 851 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 852 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
