@@ -747,14 +747,14 @@
 | 739 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
 | 739 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
 | 747 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 747 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 747 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 747 | [The Fall](games/t/the_fall.md) | 4.28 | 
 | 747 | [Dark Light](games/d/dark_light.md) | 4.28 | 
-| 752 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
-| 752 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
-| 752 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 
-| 752 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.27 | 
+| 751 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
+| 751 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
+| 751 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
+| 751 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 
+| 751 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.27 | 
 | 756 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 756 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 756 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 

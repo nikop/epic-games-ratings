@@ -220,7 +220,7 @@
 | 218 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
 | 219 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 220 | [ELEX](games/e/elex.md) | 4.42 | 
-| 221 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
+| 221 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
 | 222 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 223 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 224 | [Encased](games/e/encased.md) | 4.37 | 
