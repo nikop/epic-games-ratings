@@ -431,13 +431,13 @@
 | 429 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 430 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
 | 431 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
-| 432 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
+| 432 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 
 | 433 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 434 | [Mago](games/m/mago.md) | 4.90 | 
 | 435 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 436 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 437 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.03 | 
-| 438 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 
+| 438 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 
 | 439 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
 | 440 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
 | 441 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
@@ -464,7 +464,7 @@
 | 462 | [Mutazione](games/m/mutazione.md) | 4.63 | 
 | 463 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
 | 464 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 465 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
+| 465 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
 | 466 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 467 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
 | 468 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
@@ -548,7 +548,7 @@
 | 546 | [Quake](games/q/quake.md) | 4.75 | 
 | 547 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 548 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 549 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 549 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 550 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
 | 551 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 552 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
@@ -625,7 +625,7 @@
 | 623 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
 | 624 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
 | 625 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
-| 626 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.20 | 
+| 626 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.19 | 
 | 627 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 628 | [Sifu](games/s/sifu.md) | 4.81 | 
 | 629 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
@@ -749,7 +749,7 @@
 | 747 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 748 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
 | 749 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 750 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
+| 750 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 751 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 752 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 753 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
@@ -771,7 +771,7 @@
 | 769 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 770 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 771 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
-| 772 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.60 | 
+| 772 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.61 | 
 | 773 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
 | 774 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 775 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
