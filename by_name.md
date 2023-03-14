@@ -152,7 +152,7 @@
 | 150 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 151 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
 | 152 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
-| 153 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 
+| 153 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 154 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
 | 155 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 156 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
@@ -202,7 +202,7 @@
 | 200 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 201 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 202 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
-| 203 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.44 | 
+| 203 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
 | 204 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
 | 205 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 
 | 206 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
@@ -369,7 +369,7 @@
 | 367 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 368 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 369 | [Ironcast](games/i/ironcast.md) | 3.92 | 
-| 370 | [Isonzo](games/i/isonzo.md) | 4.57 | 
+| 370 | [Isonzo](games/i/isonzo.md) | 4.55 | 
 | 371 | [IXION](games/i/ixion.md) | 4.53 | 
 | 372 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 373 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
@@ -404,7 +404,7 @@
 | 402 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 403 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.45 | 
 | 404 | [Knockout City™](games/k/knockout_city™.md) | 4.56 | 
-| 405 | [Lake](games/l/lake.md) | 4.07 | 
+| 405 | [Lake](games/l/lake.md) | 4.03 | 
 | 406 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 407 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
 | 408 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
@@ -607,7 +607,7 @@
 | 605 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 606 | [Scorn](games/s/scorn.md) | 4.47 | 
 | 607 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
-| 608 | [Scrapnaut](games/s/scrapnaut.md) | 4.35 | 
+| 608 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 
 | 609 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 610 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
 | 611 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
