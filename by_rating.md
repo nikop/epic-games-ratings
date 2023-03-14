@@ -820,12 +820,12 @@
 | 816 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 816 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 816 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 816 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.15 | 
 | 816 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
-| 823 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
-| 823 | [Train Valley 2](games/t/train_valley_2.md) | 4.14 | 
-| 825 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
-| 825 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
+| 822 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
+| 822 | [Train Valley 2](games/t/train_valley_2.md) | 4.14 | 
+| 824 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
+| 824 | [Dead Age 2](games/d/dead_age_2.md) | 4.13 | 
+| 824 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.13 | 
 | 827 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
 | 827 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
 | 829 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
@@ -859,7 +859,7 @@
 | 855 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 
 | 858 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
 | 858 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
-| 858 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 
+| 860 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.97 | 
 | 861 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.96 | 
 | 861 | [The First Tree](games/t/the_first_tree.md) | 3.96 | 
 | 863 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 

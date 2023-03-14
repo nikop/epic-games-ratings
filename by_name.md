@@ -308,7 +308,7 @@
 | 306 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 307 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
 | 308 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 309 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.15 | 
+| 309 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.13 | 
 | 310 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 311 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.52 | 
 | 312 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.59 | 
@@ -543,7 +543,7 @@
 | 541 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 542 | [Prey](games/p/prey.md) | 4.62 | 
 | 543 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 544 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 
+| 544 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.97 | 
 | 545 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 546 | [Quake](games/q/quake.md) | 4.75 | 
 | 547 | [Rage 2](games/r/rage_2.md) | 4.28 | 
