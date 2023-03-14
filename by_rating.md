@@ -545,21 +545,21 @@
 | 536 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
 | 536 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 536 | [CryoFall](games/c/cryofall.md) | 4.49 | 
+| 536 | [Far Cry](games/f/far_cry.md) | 4.49 | 
 | 536 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 536 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 536 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
 | 536 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
-| 550 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 550 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
-| 550 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 550 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
-| 550 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
-| 550 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.48 | 
-| 550 | [Chorus](games/c/chorus.md) | 4.48 | 
-| 550 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.48 | 
-| 550 | [Far Cry](games/f/far_cry.md) | 4.48 | 
-| 550 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 
-| 550 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
+| 551 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 551 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
+| 551 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 551 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
+| 551 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
+| 551 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.48 | 
+| 551 | [Chorus](games/c/chorus.md) | 4.48 | 
+| 551 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.48 | 
+| 551 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 
+| 551 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
 | 561 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 561 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 561 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
