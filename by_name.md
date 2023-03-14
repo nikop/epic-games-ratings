@@ -325,7 +325,7 @@
 | 323 | [Haven](games/h/haven.md) | 4.75 | 
 | 324 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 325 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 326 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 
+| 326 | [Hell is Others](games/h/hell_is_others.md) | 4.38 | 
 | 327 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 328 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.35 | 
 | 329 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
@@ -456,7 +456,7 @@
 | 454 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
 | 455 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 456 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 
-| 457 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
+| 457 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 458 | [Moving Out](games/m/moving_out.md) | 4.58 | 
 | 459 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 460 | [MultiVersus](games/m/multiversus.md) | 4.56 | 

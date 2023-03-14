@@ -125,6 +125,7 @@
 | 114 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.76 | 
 | 114 | [shapez](games/s/shapez.md) | 4.76 | 
 | 114 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.76 | 
+| 126 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 126 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
 | 126 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 126 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
@@ -141,18 +142,17 @@
 | 126 | [Sailing Era](games/s/sailing_era.md) | 4.75 | 
 | 126 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 
 | 126 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 
-| 142 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
-| 142 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
-| 142 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 142 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 142 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 142 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 142 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
-| 142 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 142 | [Revita](games/r/revita.md) | 4.74 | 
-| 142 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
-| 142 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
-| 142 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
+| 143 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
+| 143 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 143 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 143 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 143 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 143 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
+| 143 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
+| 143 | [Revita](games/r/revita.md) | 4.74 | 
+| 143 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 143 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
+| 143 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
 | 154 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 154 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 154 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
@@ -668,19 +668,19 @@
 | 662 | [Tacoma](games/t/tacoma.md) | 4.39 | 
 | 662 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 662 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 662 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 
 | 662 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.39 | 
-| 671 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 671 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
-| 671 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
-| 671 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
-| 671 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
-| 671 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 671 | [Warpips](games/w/warpips.md) | 4.38 | 
-| 671 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
-| 671 | [Hammerting](games/h/hammerting.md) | 4.38 | 
-| 671 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 671 | [ZOMBI](games/z/zombi.md) | 4.38 | 
+| 670 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 670 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
+| 670 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 670 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
+| 670 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
+| 670 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
+| 670 | [Warpips](games/w/warpips.md) | 4.38 | 
+| 670 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
+| 670 | [Hammerting](games/h/hammerting.md) | 4.38 | 
+| 670 | [Hell is Others](games/h/hell_is_others.md) | 4.38 | 
+| 670 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
+| 670 | [ZOMBI](games/z/zombi.md) | 4.38 | 
 | 682 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 682 | [Core](games/c/core.md) | 4.37 | 
 | 682 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.37 | 
