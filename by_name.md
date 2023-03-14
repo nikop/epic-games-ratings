@@ -774,7 +774,7 @@
 | 772 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.60 | 
 | 773 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
 | 774 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
-| 775 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.66 | 
+| 775 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 776 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 777 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
 | 778 | [Timberborn](games/t/timberborn.md) | 4.71 | 
