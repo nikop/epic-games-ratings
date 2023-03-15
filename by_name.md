@@ -325,7 +325,7 @@
 | 323 | [Haven](games/h/haven.md) | 4.75 | 
 | 324 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 325 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 326 | [Hell is Others](games/h/hell_is_others.md) | 4.38 | 
+| 326 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 
 | 327 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 328 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.36 | 
 | 329 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
@@ -384,7 +384,7 @@
 | 382 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 383 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 384 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 385 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.05 | 
+| 385 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.06 | 
 | 386 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 387 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 388 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
@@ -852,7 +852,7 @@
 | 850 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 851 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 852 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 853 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.34 | 
+| 853 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.35 | 
 | 854 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 855 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
 | 856 | [Weird West](games/w/weird_west.md) | 4.45 | 

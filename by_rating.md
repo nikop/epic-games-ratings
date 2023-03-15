@@ -669,19 +669,19 @@
 | 662 | [Warpips](games/w/warpips.md) | 4.39 | 
 | 662 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 662 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
+| 662 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 
 | 662 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.39 | 
-| 671 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 671 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 
-| 671 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
-| 671 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
-| 671 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
-| 671 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
-| 671 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 671 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
-| 671 | [Hammerting](games/h/hammerting.md) | 4.38 | 
-| 671 | [Hell is Others](games/h/hell_is_others.md) | 4.38 | 
-| 671 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 671 | [ZOMBI](games/z/zombi.md) | 4.38 | 
+| 672 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 672 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 
+| 672 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
+| 672 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 672 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
+| 672 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
+| 672 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
+| 672 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
+| 672 | [Hammerting](games/h/hammerting.md) | 4.38 | 
+| 672 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
+| 672 | [ZOMBI](games/z/zombi.md) | 4.38 | 
 | 683 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 683 | [Core](games/c/core.md) | 4.37 | 
 | 683 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
@@ -703,16 +703,16 @@
 | 701 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
 | 701 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 701 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 701 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.35 | 
 | 701 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 701 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 701 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
-| 707 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 707 | [Automachef](games/a/automachef.md) | 4.34 | 
-| 707 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.34 | 
-| 707 | [Ashen](games/a/ashen.md) | 4.34 | 
-| 707 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
-| 707 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 
-| 707 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
+| 708 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 708 | [Automachef](games/a/automachef.md) | 4.34 | 
+| 708 | [Ashen](games/a/ashen.md) | 4.34 | 
+| 708 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
+| 708 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 
+| 708 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 714 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 714 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 
 | 714 | [Backbone](games/b/backbone.md) | 4.33 | 
@@ -845,8 +845,8 @@
 | 842 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
 | 842 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
 | 845 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.06 | 
-| 846 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 846 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.05 | 
+| 845 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.06 | 
+| 847 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 848 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 848 | [Tharsis](games/t/tharsis.md) | 4.04 | 
 | 848 | [Forspoken](games/f/forspoken.md) | 4.04 | 
