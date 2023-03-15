@@ -416,26 +416,26 @@
 | 399 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 
 | 399 | [RiME](games/r/rime.md) | 4.58 | 
 | 399 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 399 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 
 | 399 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 399 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
 | 399 | [The Medium](games/t/the_medium.md) | 4.58 | 
-| 421 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 421 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 421 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
-| 421 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
-| 421 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 421 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
-| 421 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
-| 421 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 421 | [Hob](games/h/hob.md) | 4.57 | 
-| 421 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
-| 421 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
-| 421 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
-| 421 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
-| 421 | [Everything](games/e/everything.md) | 4.57 | 
-| 421 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.57 | 
-| 421 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
+| 420 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 420 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 420 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
+| 420 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
+| 420 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
+| 420 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
+| 420 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
+| 420 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 420 | [Hob](games/h/hob.md) | 4.57 | 
+| 420 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
+| 420 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
+| 420 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
+| 420 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
+| 420 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 
+| 420 | [Everything](games/e/everything.md) | 4.57 | 
+| 420 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.57 | 
+| 420 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 437 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
 | 437 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 437 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
@@ -713,19 +713,19 @@
 | 707 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
 | 707 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 
 | 707 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
-| 714 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 714 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 714 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 
 | 714 | [Backbone](games/b/backbone.md) | 4.33 | 
 | 714 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
 | 714 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
-| 720 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 720 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 
-| 720 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
-| 720 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 
-| 720 | [Parkitect](games/p/parkitect.md) | 4.32 | 
-| 720 | [Filament](games/f/filament.md) | 4.32 | 
-| 720 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
+| 719 | [Vampyr](games/v/vampyr.md) | 4.32 | 
+| 719 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 
+| 719 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
+| 719 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
+| 719 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 
+| 719 | [Parkitect](games/p/parkitect.md) | 4.32 | 
+| 719 | [Filament](games/f/filament.md) | 4.32 | 
+| 719 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
 | 727 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 727 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 727 | [House Party](games/h/house_party.md) | 4.31 | 
@@ -822,10 +822,10 @@
 | 817 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 817 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 817 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
-| 823 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
 | 823 | [Train Valley 2](games/t/train_valley_2.md) | 4.14 | 
-| 825 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
-| 825 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.13 | 
+| 824 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
+| 824 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
+| 824 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.13 | 
 | 827 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
 | 827 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
 | 829 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 

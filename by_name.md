@@ -84,7 +84,7 @@
 | 82 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
 | 83 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 84 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 85 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
+| 85 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
 | 86 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 87 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 88 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
@@ -100,7 +100,7 @@
 | 98 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 99 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 100 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
-| 101 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 
+| 101 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 
 | 102 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 103 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
 | 104 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -118,7 +118,7 @@
 | 116 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 117 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 118 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 119 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 
+| 119 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
 | 120 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
 | 121 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 
 | 122 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
