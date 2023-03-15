@@ -112,18 +112,18 @@
 | 104 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 104 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
 | 104 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
+| 104 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.77 | 
 | 104 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
-| 114 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 114 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 114 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
-| 114 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 114 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 114 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
-| 114 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
-| 114 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 
-| 114 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
-| 114 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.76 | 
-| 114 | [shapez](games/s/shapez.md) | 4.76 | 
+| 115 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 115 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 115 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
+| 115 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 115 | [Diabotical](games/d/diabotical.md) | 4.76 | 
+| 115 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
+| 115 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
+| 115 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 
+| 115 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
+| 115 | [shapez](games/s/shapez.md) | 4.76 | 
 | 125 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 125 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
 | 125 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -294,6 +294,7 @@
 | 286 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
 | 286 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 286 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
+| 286 | [SOMA](games/s/soma.md) | 4.65 | 
 | 286 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 286 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
 | 286 | [Coromon](games/c/coromon.md) | 4.65 | 
@@ -302,20 +303,19 @@
 | 286 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
 | 286 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.65 | 
 | 286 | [Returnal™](games/r/returnal™.md) | 4.65 | 
-| 303 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 303 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 303 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 303 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 303 | [SOMA](games/s/soma.md) | 4.64 | 
-| 303 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 303 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.64 | 
-| 303 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
-| 303 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.64 | 
-| 303 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
-| 303 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
-| 303 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
-| 303 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
-| 303 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.64 | 
+| 304 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 304 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 304 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 304 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 304 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 304 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.64 | 
+| 304 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
+| 304 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.64 | 
+| 304 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
+| 304 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
+| 304 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
+| 304 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
+| 304 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.64 | 
 | 317 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 317 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 317 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 

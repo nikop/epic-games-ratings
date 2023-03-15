@@ -355,7 +355,7 @@
 | 353 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 354 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
 | 355 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.67 | 
-| 356 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.76 | 
+| 356 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.77 | 
 | 357 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 358 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
 | 359 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
@@ -639,7 +639,7 @@
 | 637 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 638 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
 | 639 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 640 | [SOMA](games/s/soma.md) | 4.64 | 
+| 640 | [SOMA](games/s/soma.md) | 4.65 | 
 | 641 | [Somerville](games/s/somerville.md) | 4.20 | 
 | 642 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 643 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
