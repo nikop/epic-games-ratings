@@ -738,15 +738,15 @@
 | 732 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
 | 732 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
 | 732 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.30 | 
-| 739 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
-| 739 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
-| 739 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
-| 739 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
-| 739 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
-| 739 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.29 | 
-| 739 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
-| 739 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
-| 739 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.29 | 
+| 732 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
+| 740 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
+| 740 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
+| 740 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
+| 740 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
+| 740 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
+| 740 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 740 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
+| 740 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.29 | 
 | 748 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 748 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 748 | [The Fall](games/t/the_fall.md) | 4.28 | 
