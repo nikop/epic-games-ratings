@@ -90,7 +90,7 @@
 | 88 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 89 | [Black Book](games/b/black_book.md) | 4.87 | 
 | 90 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
-| 91 | [BLACKTAIL](games/b/blacktail.md) | 4.71 | 
+| 91 | [BLACKTAIL](games/b/blacktail.md) | 4.73 | 
 | 92 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
 | 93 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 94 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
