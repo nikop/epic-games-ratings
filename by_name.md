@@ -450,7 +450,7 @@
 | 448 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
 | 449 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.48 | 
 | 450 | [Minit](games/m/minit.md) | 4.56 | 
-| 451 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.94 | 
+| 451 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.95 | 
 | 452 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.75 | 
 | 453 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 454 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
