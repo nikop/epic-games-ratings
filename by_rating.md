@@ -474,26 +474,26 @@
 | 467 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
 | 467 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
 | 467 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 467 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
 | 467 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 476 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 476 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 476 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 476 | [Verdun](games/v/verdun.md) | 4.53 | 
-| 476 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 476 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
-| 476 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 
-| 476 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 476 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 476 | [RUINER](games/r/ruiner.md) | 4.53 | 
-| 476 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 476 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
-| 476 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
-| 476 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.53 | 
-| 476 | [Aztez](games/a/aztez.md) | 4.53 | 
-| 476 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 
-| 476 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 476 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
-| 476 | [IXION](games/i/ixion.md) | 4.53 | 
+| 477 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
+| 477 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 477 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 477 | [Verdun](games/v/verdun.md) | 4.53 | 
+| 477 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 477 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
+| 477 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 
+| 477 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
+| 477 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 477 | [RUINER](games/r/ruiner.md) | 4.53 | 
+| 477 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 477 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
+| 477 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
+| 477 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.53 | 
+| 477 | [Aztez](games/a/aztez.md) | 4.53 | 
+| 477 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
+| 477 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
+| 477 | [IXION](games/i/ixion.md) | 4.53 | 
 | 495 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
 | 495 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 495 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
@@ -600,24 +600,24 @@
 | 590 | [Weird West](games/w/weird_west.md) | 4.45 | 
 | 590 | [Figment](games/f/figment.md) | 4.45 | 
 | 590 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
+| 590 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
 | 590 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 590 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.45 | 
-| 603 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
-| 603 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 603 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 603 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 603 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
-| 603 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
-| 603 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
-| 603 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
-| 603 | [Death Coming](games/d/death_coming.md) | 4.44 | 
-| 603 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
-| 603 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
-| 603 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
-| 603 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
-| 603 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
-| 603 | [Predecessor](games/p/predecessor.md) | 4.44 | 
-| 603 | [Redout 2](games/r/redout_2.md) | 4.44 | 
+| 604 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
+| 604 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 604 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 604 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 604 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
+| 604 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
+| 604 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 604 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
+| 604 | [Death Coming](games/d/death_coming.md) | 4.44 | 
+| 604 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 604 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
+| 604 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
+| 604 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
+| 604 | [Predecessor](games/p/predecessor.md) | 4.44 | 
+| 604 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 619 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 619 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 619 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
