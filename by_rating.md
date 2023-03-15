@@ -554,26 +554,26 @@
 | 551 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
 | 551 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 551 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
+| 551 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
 | 551 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
 | 551 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.48 | 
 | 551 | [Chorus](games/c/chorus.md) | 4.48 | 
 | 551 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.48 | 
 | 551 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 
 | 551 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
-| 561 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
-| 561 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
-| 561 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
-| 561 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 561 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
-| 561 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
-| 561 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
-| 561 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
-| 561 | [The Surge](games/t/the_surge.md) | 4.47 | 
-| 561 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 561 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
-| 561 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.47 | 
-| 561 | [Scorn](games/s/scorn.md) | 4.47 | 
-| 561 | [STG Football](games/s/stg_football.md) | 4.47 | 
+| 562 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 562 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
+| 562 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
+| 562 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
+| 562 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
+| 562 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
+| 562 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
+| 562 | [The Surge](games/t/the_surge.md) | 4.47 | 
+| 562 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
+| 562 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
+| 562 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.47 | 
+| 562 | [Scorn](games/s/scorn.md) | 4.47 | 
+| 562 | [STG Football](games/s/stg_football.md) | 4.47 | 
 | 575 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 575 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 575 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
@@ -632,25 +632,25 @@
 | 629 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 629 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 629 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 629 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 
 | 629 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 
 | 629 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 629 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 629 | [ELEX](games/e/elex.md) | 4.42 | 
 | 629 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
-| 639 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
-| 639 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 639 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
-| 639 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 639 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
-| 639 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
-| 639 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
-| 639 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 639 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 639 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
-| 639 | [Duskers](games/d/duskers.md) | 4.41 | 
-| 639 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 639 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
+| 638 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
+| 638 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 638 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
+| 638 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
+| 638 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
+| 638 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
+| 638 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
+| 638 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
+| 638 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 638 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
+| 638 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 638 | [Duskers](games/d/duskers.md) | 4.41 | 
+| 638 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 638 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
 | 652 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 652 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 652 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
