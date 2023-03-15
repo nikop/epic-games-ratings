@@ -1,10 +1,10 @@
 {
   "ID": "2a14cf8a83b149919a2399504e5686a6",
   "Name": "The Sims\u2122 4",
-  "Rating": 4.56,
+  "Rating": 4.57,
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-03-15T18:56:52.8413136+00:00",
+  "LastChanged": "2023-03-15T21:56:55.7524974+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-05T14:56:53.5654686+00:00",
@@ -310,6 +310,11 @@
       "Time": "2023-03-15T18:56:52.8413137+00:00",
       "Rating": 4.56,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-15T21:56:55.7524975+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -323,7 +328,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 21
+      "Count": 27
     },
     {
       "Text": "This game has a Creative Community",

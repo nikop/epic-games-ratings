@@ -436,21 +436,21 @@
 | 419 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 
 | 419 | [Everything](games/e/everything.md) | 4.57 | 
 | 419 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.57 | 
-| 437 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
-| 437 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 437 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 437 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
-| 437 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 437 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 437 | [Minit](games/m/minit.md) | 4.56 | 
-| 437 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
-| 437 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
-| 437 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 437 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
-| 437 | [Observation](games/o/observation.md) | 4.56 | 
-| 437 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
-| 437 | [Knockout City™](games/k/knockout_city™.md) | 4.56 | 
-| 437 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
+| 419 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
+| 438 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
+| 438 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 438 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 438 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
+| 438 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 438 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 438 | [Minit](games/m/minit.md) | 4.56 | 
+| 438 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 438 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
+| 438 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 438 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
+| 438 | [Observation](games/o/observation.md) | 4.56 | 
+| 438 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
+| 438 | [Knockout City™](games/k/knockout_city™.md) | 4.56 | 
 | 452 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 452 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 452 | [Hue](games/h/hue.md) | 4.55 | 
