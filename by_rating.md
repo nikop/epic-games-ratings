@@ -82,6 +82,7 @@
 | 78 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 78 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
 | 78 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
+| 78 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
 | 78 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 78 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 
 | 78 | [Journey](games/j/journey.md) | 4.80 | 
@@ -90,16 +91,15 @@
 | 78 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 78 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
 | 78 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
-| 91 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
-| 91 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
-| 91 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 91 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
-| 91 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
-| 91 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
-| 91 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
-| 91 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 
-| 91 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 91 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
+| 92 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 92 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
+| 92 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 92 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
+| 92 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 92 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
+| 92 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
+| 92 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 92 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
 | 101 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
 | 101 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
 | 101 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 
@@ -736,27 +736,27 @@
 | 732 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
 | 732 | [War Mongrels](games/w/war_mongrels.md) | 4.30 | 
 | 732 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
+| 732 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.30 | 
 | 732 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
 | 732 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.30 | 
 | 732 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
-| 740 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
-| 740 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
-| 740 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
-| 740 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
-| 740 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
-| 740 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
-| 740 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
-| 740 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.29 | 
-| 748 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 748 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 748 | [The Fall](games/t/the_fall.md) | 4.28 | 
-| 748 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.28 | 
-| 748 | [Dark Light](games/d/dark_light.md) | 4.28 | 
-| 753 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
-| 753 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
-| 753 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
-| 753 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 
-| 753 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.27 | 
+| 741 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
+| 741 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
+| 741 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
+| 741 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
+| 741 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
+| 741 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 741 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
+| 741 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.29 | 
+| 749 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 749 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 749 | [The Fall](games/t/the_fall.md) | 4.28 | 
+| 749 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.28 | 
+| 749 | [Dark Light](games/d/dark_light.md) | 4.28 | 
+| 754 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
+| 754 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
+| 754 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
+| 754 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 
 | 758 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 758 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 758 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
@@ -880,8 +880,8 @@
 | 878 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 878 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
 | 880 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.75 | 
+| 880 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 
 | 880 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 880 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 
-| 883 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
-| 884 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
+| 884 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
 | 885 | [Blood of Steel](games/b/blood_of_steel.md) | 3.70 | 

@@ -106,7 +106,7 @@
 | 104 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 105 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 
 | 106 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
-| 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.27 | 
+| 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.30 | 
 | 108 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
 | 109 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 110 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
@@ -139,7 +139,7 @@
 | 137 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 
 | 138 | [Core](games/c/core.md) | 4.37 | 
 | 139 | [Coromon](games/c/coromon.md) | 4.65 | 
-| 140 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.71 | 
+| 140 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 
 | 141 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
 | 142 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 143 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
@@ -491,7 +491,7 @@
 | 489 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 490 | [Observation](games/o/observation.md) | 4.56 | 
 | 491 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
-| 492 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 
+| 492 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
 | 493 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
 | 494 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
 | 495 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 

@@ -1,10 +1,10 @@
 {
   "ID": "1c4745021d4243a783b459d928b9088f",
   "Name": "OCTOPATH TRAVELER\u2122",
-  "Rating": 4.79,
+  "Rating": 4.8,
   "NumberOfRatings": 166,
   "FirstSeen": "2022-07-22T20:21:15.1292703+00:00",
-  "LastChanged": "2023-03-01T04:57:22.9477821+00:00",
+  "LastChanged": "2023-03-15T23:57:44.8603814+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:15.1292706+00:00",
@@ -399,6 +399,11 @@
     {
       "Time": "2023-03-01T04:57:22.9477824+00:00",
       "Rating": 4.79,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-15T23:57:44.8603815+00:00",
+      "Rating": 4.8,
       "NumberOfRatings": null
     }
   ],
