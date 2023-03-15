@@ -1,10 +1,10 @@
 {
   "ID": "84f45b7676af47d9adecd3b636466f89",
   "Name": "The Settlers\u00AE: New Allies",
-  "Rating": 3.76,
+  "Rating": 3.75,
   "FirstSeen": "2023-02-17T13:12:44.8398615+00:00",
   "FirstSeenRating": "2023-02-19T13:09:54.8324207+00:00",
-  "LastChanged": "2023-03-14T17:57:45.0259679+00:00",
+  "LastChanged": "2023-03-15T16:57:22.362813+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-19T13:09:54.8324224+00:00",
@@ -295,12 +295,17 @@
       "Time": "2023-03-14T17:57:45.0259682+00:00",
       "Rating": 3.76,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-15T16:57:22.3628131+00:00",
+      "Rating": 3.75,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Relaxing",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game is Great for Beginners",

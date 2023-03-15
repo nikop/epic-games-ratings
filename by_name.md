@@ -121,7 +121,7 @@
 | 119 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
 | 120 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
 | 121 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 
-| 122 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
+| 122 | [Chimeraland](games/c/chimeraland.md) | 3.90 | 
 | 123 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
 | 124 | [Chorus](games/c/chorus.md) | 4.48 | 
 | 125 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
@@ -225,7 +225,7 @@
 | 223 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 224 | [Encased](games/e/encased.md) | 4.37 | 
 | 225 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 226 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.47 | 
+| 226 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 
 | 227 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 228 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 229 | [Everything](games/e/everything.md) | 4.57 | 
@@ -543,7 +543,7 @@
 | 541 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 542 | [Prey](games/p/prey.md) | 4.62 | 
 | 543 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 544 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 
+| 544 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.97 | 
 | 545 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 546 | [Quake](games/q/quake.md) | 4.75 | 
 | 547 | [Rage 2](games/r/rage_2.md) | 4.28 | 
@@ -710,7 +710,7 @@
 | 708 | [Tharsis](games/t/tharsis.md) | 4.04 | 
 | 709 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 710 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
-| 711 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.91 | 
+| 711 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 712 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
 | 713 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
 | 714 | [The Captain](games/t/the_captain.md) | 4.44 | 
@@ -722,7 +722,7 @@
 | 720 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
 | 721 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
 | 722 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 
-| 723 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.77 | 
+| 723 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.75 | 
 | 724 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
 | 725 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 726 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
@@ -747,7 +747,7 @@
 | 745 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 746 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 747 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 748 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
+| 748 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 
 | 749 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 750 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 751 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
@@ -783,7 +783,7 @@
 | 781 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
 | 782 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
 | 783 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 
-| 784 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.58 | 
+| 784 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 
 | 785 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
 | 786 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
 | 787 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
