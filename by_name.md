@@ -311,7 +311,7 @@
 | 309 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.13 | 
 | 310 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 311 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.52 | 
-| 312 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.59 | 
+| 312 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.61 | 
 | 313 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 314 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 315 | [GRIME](games/g/grime.md) | 4.62 | 
@@ -543,7 +543,7 @@
 | 541 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 542 | [Prey](games/p/prey.md) | 4.62 | 
 | 543 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 544 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.97 | 
+| 544 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 
 | 545 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 546 | [Quake](games/q/quake.md) | 4.75 | 
 | 547 | [Rage 2](games/r/rage_2.md) | 4.28 | 
@@ -727,7 +727,7 @@
 | 725 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
 | 726 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
 | 727 | [The Fall](games/t/the_fall.md) | 4.28 | 
-| 728 | [The First Tree](games/t/the_first_tree.md) | 3.96 | 
+| 728 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 
 | 729 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 
 | 730 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
 | 731 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 
@@ -749,7 +749,7 @@
 | 747 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 748 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
 | 749 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 750 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
+| 750 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 751 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 752 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 753 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
