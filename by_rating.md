@@ -431,11 +431,11 @@
 | 419 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
 | 419 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
 | 419 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
+| 419 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 
 | 419 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
 | 419 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 
 | 419 | [Everything](games/e/everything.md) | 4.57 | 
 | 419 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.57 | 
-| 419 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 437 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
 | 437 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 437 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
@@ -446,11 +446,11 @@
 | 437 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
 | 437 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
 | 437 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 437 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.56 | 
 | 437 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
 | 437 | [Observation](games/o/observation.md) | 4.56 | 
 | 437 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
 | 437 | [Knockout City™](games/k/knockout_city™.md) | 4.56 | 
+| 437 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 452 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 452 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 452 | [Hue](games/h/hue.md) | 4.55 | 
