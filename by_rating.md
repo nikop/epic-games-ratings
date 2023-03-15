@@ -530,26 +530,26 @@
 | 519 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 519 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 519 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
+| 519 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
 | 519 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 519 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
 | 519 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 519 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 
 | 519 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
-| 536 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 536 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 536 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 536 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 536 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
-| 536 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
-| 536 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 536 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
-| 536 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 536 | [CryoFall](games/c/cryofall.md) | 4.49 | 
-| 536 | [Far Cry](games/f/far_cry.md) | 4.49 | 
-| 536 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 536 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
-| 536 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
-| 536 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
+| 537 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 537 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 537 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 537 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 537 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 537 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 537 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
+| 537 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 537 | [CryoFall](games/c/cryofall.md) | 4.49 | 
+| 537 | [Far Cry](games/f/far_cry.md) | 4.49 | 
+| 537 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 537 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 537 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
+| 537 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
 | 551 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 551 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
 | 551 | [Paradigm](games/p/paradigm.md) | 4.48 | 
@@ -750,16 +750,16 @@
 | 748 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 748 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 748 | [The Fall](games/t/the_fall.md) | 4.28 | 
+| 748 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.28 | 
 | 748 | [Dark Light](games/d/dark_light.md) | 4.28 | 
-| 752 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
-| 752 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
-| 752 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
-| 752 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 
-| 752 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.27 | 
-| 757 | [EVE Online](games/e/eve_online.md) | 4.26 | 
-| 757 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 757 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
-| 757 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.26 | 
+| 753 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
+| 753 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
+| 753 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
+| 753 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 
+| 753 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.27 | 
+| 758 | [EVE Online](games/e/eve_online.md) | 4.26 | 
+| 758 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 758 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 761 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 761 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
 | 761 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 

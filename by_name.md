@@ -157,7 +157,7 @@
 | 155 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 156 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 157 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 158 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.26 | 
+| 158 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.28 | 
 | 159 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
 | 160 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
 | 161 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
@@ -447,7 +447,7 @@
 | 445 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
 | 446 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
 | 447 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
-| 448 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 
+| 448 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
 | 449 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.48 | 
 | 450 | [Minit](games/m/minit.md) | 4.56 | 
 | 451 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.95 | 
