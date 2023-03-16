@@ -100,7 +100,7 @@
 | 98 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 99 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 100 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 101 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 
+| 101 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 
 | 102 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 103 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
 | 104 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -453,7 +453,7 @@
 | 451 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.95 | 
 | 452 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.75 | 
 | 453 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 454 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
+| 454 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
 | 455 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 456 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 
 | 457 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
@@ -736,7 +736,7 @@
 | 734 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 
 | 735 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 
 | 736 | [The Last Campfire](games/t/the_last_campfire.md) | 4.82 | 
-| 737 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 
+| 737 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 
 | 738 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
 | 739 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
 | 740 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
@@ -747,7 +747,7 @@
 | 745 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 746 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 747 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 748 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
+| 748 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 
 | 749 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 750 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
 | 751 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
@@ -856,7 +856,7 @@
 | 854 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 
 | 855 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
 | 856 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 857 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
+| 857 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.09 | 
 | 858 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 859 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 860 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
@@ -880,7 +880,7 @@
 | 878 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 879 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 880 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
-| 881 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.39 | 
+| 881 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 
 | 882 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
 | 883 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 
 | 884 | [ZOMBI](games/z/zombi.md) | 4.38 | 
