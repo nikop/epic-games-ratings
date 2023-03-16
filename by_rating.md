@@ -368,24 +368,24 @@
 | 345 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.61 | 
 | 345 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 
 | 345 | [Darkwood](games/d/darkwood.md) | 4.61 | 
+| 345 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.61 | 
 | 345 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.61 | 
-| 370 | [Control](games/c/control.md) | 4.60 | 
-| 370 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
-| 370 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
-| 370 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 370 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
-| 370 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
-| 370 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
-| 370 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 
-| 370 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 370 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
-| 370 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
-| 370 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
-| 370 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
-| 370 | [Roguebook](games/r/roguebook.md) | 4.60 | 
-| 370 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 370 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 370 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.60 | 
+| 371 | [Control](games/c/control.md) | 4.60 | 
+| 371 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
+| 371 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
+| 371 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 371 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
+| 371 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
+| 371 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 
+| 371 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 
+| 371 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
+| 371 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
+| 371 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
+| 371 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
+| 371 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
+| 371 | [Roguebook](games/r/roguebook.md) | 4.60 | 
+| 371 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
+| 371 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 387 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 387 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 387 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
@@ -583,26 +583,26 @@
 | 575 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 575 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.46 | 
 | 575 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
+| 575 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.46 | 
 | 575 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 
 | 575 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 575 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
 | 575 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 575 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.46 | 
 | 575 | [WRC Generations](games/w/wrc_generations.md) | 4.46 | 
-| 590 | [SMITE](games/s/smite.md) | 4.45 | 
-| 590 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 590 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 590 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
-| 590 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 590 | [Faeria](games/f/faeria.md) | 4.45 | 
-| 590 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 590 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 590 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 590 | [Figment](games/f/figment.md) | 4.45 | 
-| 590 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
-| 590 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.45 | 
-| 590 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
-| 590 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.45 | 
+| 591 | [SMITE](games/s/smite.md) | 4.45 | 
+| 591 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 591 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 591 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
+| 591 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 591 | [Faeria](games/f/faeria.md) | 4.45 | 
+| 591 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 591 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 591 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 591 | [Figment](games/f/figment.md) | 4.45 | 
+| 591 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
+| 591 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
+| 591 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.45 | 
 | 604 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
 | 604 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 604 | [The Captain](games/t/the_captain.md) | 4.44 | 
@@ -879,9 +879,9 @@
 | 877 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.79 | 
 | 878 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 878 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
-| 880 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.75 | 
-| 880 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 
-| 880 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
-| 880 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 
+| 880 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 
+| 881 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.75 | 
+| 881 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 
+| 881 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 884 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
 | 885 | [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | 

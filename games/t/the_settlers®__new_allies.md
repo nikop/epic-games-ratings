@@ -1,5 +1,5 @@
 # The Settlers®: New Allies
-Rating: 3.75 (-)  (as of 23.09.2022)  
+Rating: 3.76 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -25,3 +25,4 @@ Rating: 3.75 (-)  (as of 23.09.2022)
 | 2023-03-13 | 3.75 | - |
 | 2023-03-14 | 3.76 | - |
 | 2023-03-15 | 3.75 | - |
+| 2023-03-16 | 3.76 | - |
