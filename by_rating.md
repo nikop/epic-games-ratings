@@ -520,7 +520,6 @@
 | 510 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 519 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 519 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 519 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
 | 519 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 519 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 519 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 
@@ -536,20 +535,21 @@
 | 519 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 519 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 
 | 519 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
-| 537 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 537 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 537 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 537 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 537 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
-| 537 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 537 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
-| 537 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 537 | [CryoFall](games/c/cryofall.md) | 4.49 | 
-| 537 | [Far Cry](games/f/far_cry.md) | 4.49 | 
-| 537 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 537 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
-| 537 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
-| 537 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
+| 536 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 536 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 536 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 536 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 536 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 536 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 536 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 536 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
+| 536 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 536 | [CryoFall](games/c/cryofall.md) | 4.49 | 
+| 536 | [Far Cry](games/f/far_cry.md) | 4.49 | 
+| 536 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 536 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 536 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
+| 536 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
 | 551 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 551 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
 | 551 | [Paradigm](games/p/paradigm.md) | 4.48 | 
