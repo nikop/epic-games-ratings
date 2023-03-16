@@ -1,10 +1,10 @@
 {
   "ID": "3ffb410dab2d409aacd39a1abc6fcbba",
   "Name": "Prison Architect",
-  "Rating": 4.6,
+  "Rating": 4.61,
   "NumberOfRatings": 4491,
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
-  "LastChanged": "2023-03-11T13:06:09.7234341+00:00",
+  "LastChanged": "2023-03-16T19:57:05.7193399+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:08.1221805+00:00",
@@ -2239,6 +2239,11 @@
     {
       "Time": "2023-03-11T13:06:09.7234343+00:00",
       "Rating": 4.6,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-16T19:57:05.7193402+00:00",
+      "Rating": 4.61,
       "NumberOfRatings": null
     }
   ],

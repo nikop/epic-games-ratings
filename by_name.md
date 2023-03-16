@@ -94,7 +94,7 @@
 | 92 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
 | 93 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 94 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
-| 95 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
+| 95 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 
 | 96 | [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | 
 | 97 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 98 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
@@ -542,7 +542,7 @@
 | 540 | [Predecessor](games/p/predecessor.md) | 4.44 | 
 | 541 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 542 | [Prey](games/p/prey.md) | 4.62 | 
-| 543 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
+| 543 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
 | 544 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 
 | 545 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 546 | [Quake](games/q/quake.md) | 4.74 | 
@@ -813,7 +813,7 @@
 | 811 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
 | 812 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
 | 813 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.55 | 
-| 814 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.52 | 
+| 814 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.55 | 
 | 815 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 816 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
 | 817 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 

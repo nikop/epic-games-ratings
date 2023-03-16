@@ -1,7 +1,8 @@
 # Trials Fusion: Standard Edition
-Rating: 4.52 (-)  (as of 23.09.2022)  
+Rating: 4.55 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
 | 2022-11-25 | 4.70 | - |
 | 2022-12-23 | 4.52 | - |
+| 2023-03-16 | 4.55 | - |
