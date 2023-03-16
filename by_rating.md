@@ -884,4 +884,4 @@
 | 880 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 880 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 
 | 884 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
-| 885 | [Blood of Steel](games/b/blood_of_steel.md) | 3.70 | 
+| 885 | [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | 

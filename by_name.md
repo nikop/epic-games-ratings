@@ -95,7 +95,7 @@
 | 93 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 94 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
 | 95 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 
-| 96 | [Blood of Steel](games/b/blood_of_steel.md) | 3.70 | 
+| 96 | [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | 
 | 97 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 98 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 99 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
