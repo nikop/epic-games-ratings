@@ -147,7 +147,7 @@
 | 145 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 146 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 147 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 148 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
+| 148 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 
 | 149 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 150 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 151 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
@@ -332,7 +332,7 @@
 | 330 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 331 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
 | 332 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
-| 333 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.24 | 
+| 333 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 334 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 335 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.90 | 
 | 336 | [High On Life](games/h/high_on_life.md) | 4.69 | 

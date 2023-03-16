@@ -693,20 +693,20 @@
 | 690 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 
 | 690 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 690 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 690 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 
 | 690 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
 | 690 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 
 | 690 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 690 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
 | 690 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.36 | 
 | 690 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
-| 701 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
-| 701 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
-| 701 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 701 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.35 | 
-| 701 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 701 | [Torchlight](games/t/torchlight.md) | 4.35 | 
-| 701 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
+| 700 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
+| 700 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
+| 700 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 700 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 
+| 700 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.35 | 
+| 700 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 700 | [Torchlight](games/t/torchlight.md) | 4.35 | 
+| 700 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
 | 708 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 708 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 708 | [Ashen](games/a/ashen.md) | 4.34 | 
@@ -766,15 +766,15 @@
 | 762 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
 | 762 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 
 | 762 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
-| 767 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.24 | 
 | 767 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 767 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 767 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
 | 767 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.24 | 
-| 772 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
-| 772 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 772 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 772 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
+| 771 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 771 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
+| 771 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
+| 771 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
+| 771 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
 | 776 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
 | 776 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
 | 776 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
