@@ -10,7 +10,7 @@
 | 8 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
 | 9 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 10 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 11 | [ABZU](games/a/abzu.md) | 4.62 | 
+| 11 | [ABZU](games/a/abzu.md) | 4.61 | 
 | 12 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 3.95 | 
 | 13 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 14 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
@@ -121,7 +121,7 @@
 | 119 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
 | 120 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
 | 121 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 
-| 122 | [Chimeraland](games/c/chimeraland.md) | 3.90 | 
+| 122 | [Chimeraland](games/c/chimeraland.md) | 3.88 | 
 | 123 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
 | 124 | [Chorus](games/c/chorus.md) | 4.48 | 
 | 125 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
@@ -384,7 +384,7 @@
 | 382 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 383 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
 | 384 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 385 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.06 | 
+| 385 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.07 | 
 | 386 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 387 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 388 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
@@ -788,7 +788,7 @@
 | 786 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
 | 787 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
 | 788 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
-| 789 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 
+| 789 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.84 | 
 | 790 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 791 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 792 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 
