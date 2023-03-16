@@ -302,7 +302,7 @@
 | 300 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
 | 301 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 302 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 303 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.96 | 
+| 303 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 
 | 304 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 305 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 306 | [Good Company](games/g/good_company.md) | 4.42 | 

@@ -861,7 +861,7 @@
 | 858 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 858 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 
 | 858 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 
-| 862 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.96 | 
+| 862 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 
 | 863 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 863 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.95 | 
 | 863 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 3.95 | 
