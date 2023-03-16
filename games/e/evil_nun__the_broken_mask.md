@@ -1,5 +1,5 @@
 # Evil Nun: The Broken Mask
-Rating: 4.89 (-)  (as of 23.09.2022)  
+Rating: 4.90 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -8,3 +8,4 @@ Rating: 4.89 (-)  (as of 23.09.2022)
 | 2023-02-20 | 4.92 | - |
 | 2023-02-22 | 4.88 | - |
 | 2023-03-03 | 4.89 | - |
+| 2023-03-16 | 4.90 | - |

@@ -132,7 +132,7 @@
 | 130 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.24 | 
 | 131 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 132 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 
-| 133 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 
+| 133 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 134 | [Conarium](games/c/conarium.md) | 3.91 | 
 | 135 | [Control](games/c/control.md) | 4.60 | 
 | 136 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
@@ -230,7 +230,7 @@
 | 228 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 229 | [Everything](games/e/everything.md) | 4.57 | 
 | 230 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 
-| 231 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.89 | 
+| 231 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 
 | 232 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 233 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
 | 234 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
@@ -311,7 +311,7 @@
 | 309 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.13 | 
 | 310 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 311 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.53 | 
-| 312 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.61 | 
+| 312 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.60 | 
 | 313 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 314 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 315 | [GRIME](games/g/grime.md) | 4.62 | 
@@ -543,7 +543,7 @@
 | 541 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
 | 542 | [Prey](games/p/prey.md) | 4.62 | 
 | 543 | [Prison Architect](games/p/prison_architect.md) | 4.60 | 
-| 544 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.97 | 
+| 544 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 
 | 545 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
 | 546 | [Quake](games/q/quake.md) | 4.75 | 
 | 547 | [Rage 2](games/r/rage_2.md) | 4.28 | 
@@ -675,7 +675,7 @@
 | 673 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 674 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 675 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 676 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
+| 676 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 677 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
 | 678 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 
 | 679 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
@@ -772,7 +772,7 @@
 | 770 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 771 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 772 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.61 | 
-| 773 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 
+| 773 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
 | 774 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
 | 775 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 776 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
