@@ -132,7 +132,6 @@
 | 124 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
 | 124 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 124 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
-| 124 | [Quake](games/q/quake.md) | 4.75 | 
 | 124 | [Haven](games/h/haven.md) | 4.75 | 
 | 124 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.75 | 
 | 124 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 
@@ -141,18 +140,19 @@
 | 124 | [Sailing Era](games/s/sailing_era.md) | 4.75 | 
 | 124 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 
 | 124 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 
-| 142 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
-| 142 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 142 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 142 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 142 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 142 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
-| 142 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 142 | [Revita](games/r/revita.md) | 4.74 | 
-| 142 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
-| 142 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
-| 142 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
-| 142 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.74 | 
+| 141 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
+| 141 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 141 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 141 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 141 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 141 | [Quake](games/q/quake.md) | 4.74 | 
+| 141 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
+| 141 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
+| 141 | [Revita](games/r/revita.md) | 4.74 | 
+| 141 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 141 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
+| 141 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
+| 141 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.74 | 
 | 154 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 154 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 154 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
