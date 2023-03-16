@@ -195,6 +195,7 @@
 | 193 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 193 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
 | 193 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 193 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
 | 193 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
 | 193 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 193 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
@@ -212,24 +213,23 @@
 | 193 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
 | 193 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
 | 193 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
-| 213 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 213 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 213 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 213 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 213 | [Days Gone](games/d/days_gone.md) | 4.69 | 
-| 213 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
-| 213 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 213 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 213 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 213 | [Bad North](games/b/bad_north.md) | 4.69 | 
-| 213 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 213 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 213 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
-| 213 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
-| 213 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.69 | 
-| 213 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.69 | 
-| 213 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
-| 213 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
+| 214 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
+| 214 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 214 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 214 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 214 | [Days Gone](games/d/days_gone.md) | 4.69 | 
+| 214 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
+| 214 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 214 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
+| 214 | [Bad North](games/b/bad_north.md) | 4.69 | 
+| 214 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 214 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 214 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
+| 214 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
+| 214 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.69 | 
+| 214 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.69 | 
+| 214 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
+| 214 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
 | 231 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
 | 231 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 231 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
