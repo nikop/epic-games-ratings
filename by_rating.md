@@ -457,6 +457,7 @@
 | 452 | [Hue](games/h/hue.md) | 4.55 | 
 | 452 | [Outward](games/o/outward.md) | 4.55 | 
 | 452 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 452 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 452 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 
 | 452 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
 | 452 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.55 | 
@@ -467,15 +468,14 @@
 | 452 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.55 | 
 | 452 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.55 | 
 | 452 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
-| 468 | [VALORANT](games/v/valorant.md) | 4.54 | 
-| 468 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 468 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
-| 468 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 468 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
-| 468 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
-| 468 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 468 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
-| 468 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 469 | [VALORANT](games/v/valorant.md) | 4.54 | 
+| 469 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 469 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
+| 469 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 469 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
+| 469 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 469 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
+| 469 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 477 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 477 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 477 | [Dauntless](games/d/dauntless.md) | 4.53 | 

@@ -616,7 +616,7 @@
 | 614 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 615 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 
 | 616 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 617 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 
+| 617 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 618 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
 | 619 | [shapez](games/s/shapez.md) | 4.76 | 
 | 620 | [Sheltered](games/s/sheltered.md) | 4.43 | 
