@@ -643,7 +643,7 @@
 | 641 | [Somerville](games/s/somerville.md) | 4.20 | 
 | 642 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
 | 643 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
-| 644 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
+| 644 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 
 | 645 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
 | 646 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 647 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.83 | 
@@ -705,7 +705,7 @@
 | 703 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 704 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 705 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 706 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
+| 706 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 
 | 707 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 708 | [Tharsis](games/t/tharsis.md) | 4.04 | 
 | 709 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 

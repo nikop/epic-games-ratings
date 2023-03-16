@@ -94,15 +94,15 @@
 | 92 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
 | 92 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 92 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
-| 92 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 
 | 92 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 92 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
 | 92 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 92 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 100 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
-| 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 100 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
-| 100 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 
+| 99 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 
+| 99 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 99 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
+| 99 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 
 | 104 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 104 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 104 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
@@ -451,7 +451,6 @@
 | 439 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
 | 439 | [Observation](games/o/observation.md) | 4.56 | 
 | 439 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
-| 452 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 452 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 452 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 452 | [Hue](games/h/hue.md) | 4.55 | 
@@ -469,14 +468,15 @@
 | 452 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.55 | 
 | 452 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
 | 452 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.55 | 
-| 470 | [VALORANT](games/v/valorant.md) | 4.54 | 
-| 470 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 470 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
-| 470 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 470 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
-| 470 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 470 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
-| 470 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 469 | [VALORANT](games/v/valorant.md) | 4.54 | 
+| 469 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 469 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
+| 469 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 
+| 469 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 469 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
+| 469 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 469 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
+| 469 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 478 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 478 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 478 | [Dauntless](games/d/dauntless.md) | 4.53 | 
