@@ -42,7 +42,7 @@
 | 40 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
 | 41 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
 | 42 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 43 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
+| 43 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
 | 44 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
 | 45 | [Ashen](games/a/ashen.md) | 4.34 | 
 | 46 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.70 | 
@@ -308,7 +308,7 @@
 | 306 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 307 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
 | 308 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 309 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.13 | 
+| 309 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.09 | 
 | 310 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 311 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.53 | 
 | 312 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.60 | 
@@ -532,7 +532,7 @@
 | 530 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
 | 531 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 532 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 533 | [Pinball FX](games/p/pinball_fx.md) | 4.01 | 
+| 533 | [Pinball FX](games/p/pinball_fx.md) | 4.02 | 
 | 534 | [Pine](games/p/pine.md) | 4.15 | 
 | 535 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.53 | 
 | 536 | [Port Royale 4](games/p/port_royale_4.md) | 3.99 | 

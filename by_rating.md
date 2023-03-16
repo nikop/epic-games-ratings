@@ -825,22 +825,22 @@
 | 823 | [Train Valley 2](games/t/train_valley_2.md) | 4.14 | 
 | 824 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
 | 824 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
-| 824 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.13 | 
-| 827 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
-| 827 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
-| 829 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
-| 829 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 829 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
-| 829 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
-| 829 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 829 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
-| 829 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 836 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
-| 836 | [Submerged](games/s/submerged.md) | 4.09 | 
-| 836 | [Fangs](games/f/fangs.md) | 4.09 | 
-| 839 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 839 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
-| 839 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
+| 826 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
+| 826 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
+| 828 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
+| 828 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 828 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
+| 828 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
+| 828 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 828 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
+| 828 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
+| 835 | [Submerged](games/s/submerged.md) | 4.09 | 
+| 835 | [Fangs](games/f/fangs.md) | 4.09 | 
+| 835 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.09 | 
+| 838 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 838 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
+| 838 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.08 | 
+| 838 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 842 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 842 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
 | 842 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
@@ -852,8 +852,8 @@
 | 848 | [Forspoken](games/f/forspoken.md) | 4.04 | 
 | 851 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.03 | 
 | 851 | [Lake](games/l/lake.md) | 4.03 | 
+| 853 | [Pinball FX](games/p/pinball_fx.md) | 4.02 | 
 | 853 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
-| 854 | [Pinball FX](games/p/pinball_fx.md) | 4.01 | 
 | 855 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 855 | [Port Royale 4](games/p/port_royale_4.md) | 3.99 | 
 | 855 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 
