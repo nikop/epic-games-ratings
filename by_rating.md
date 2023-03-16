@@ -91,7 +91,6 @@
 | 78 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 78 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
 | 78 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
-| 92 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 92 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
 | 92 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 92 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
@@ -100,9 +99,10 @@
 | 92 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
 | 92 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 92 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 101 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 101 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
-| 101 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 
+| 100 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 100 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
+| 100 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 
 | 104 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 104 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 104 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
@@ -204,6 +204,7 @@
 | 193 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 193 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
 | 193 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
+| 193 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 193 | [Fez](games/f/fez.md) | 4.70 | 
 | 193 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
 | 193 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
@@ -213,24 +214,23 @@
 | 193 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
 | 193 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
 | 193 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
-| 214 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 214 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 214 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 214 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 214 | [Days Gone](games/d/days_gone.md) | 4.69 | 
-| 214 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 214 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 214 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 214 | [Bad North](games/b/bad_north.md) | 4.69 | 
-| 214 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 214 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 214 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
-| 214 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
-| 214 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.69 | 
-| 214 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.69 | 
-| 214 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
-| 214 | [High On Life](games/h/high_on_life.md) | 4.69 | 
-| 214 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
+| 215 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
+| 215 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 215 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 215 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 215 | [Days Gone](games/d/days_gone.md) | 4.69 | 
+| 215 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
+| 215 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 215 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
+| 215 | [Bad North](games/b/bad_north.md) | 4.69 | 
+| 215 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 215 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 215 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
+| 215 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.69 | 
+| 215 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.69 | 
+| 215 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
+| 215 | [High On Life](games/h/high_on_life.md) | 4.69 | 
+| 215 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
 | 232 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
 | 232 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 232 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
@@ -762,15 +762,15 @@
 | 758 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
 | 758 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 762 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 762 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 
 | 762 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
 | 762 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 
 | 762 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
-| 766 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.24 | 
-| 766 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 766 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
-| 766 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
-| 766 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
-| 766 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.24 | 
+| 767 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.24 | 
+| 767 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
+| 767 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
+| 767 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
+| 767 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.24 | 
 | 772 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
 | 772 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
 | 772 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 

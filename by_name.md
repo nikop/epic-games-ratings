@@ -245,7 +245,7 @@
 | 243 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 244 | [Fangs](games/f/fangs.md) | 4.09 | 
 | 245 | [Far Cry](games/f/far_cry.md) | 4.49 | 
-| 246 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
+| 246 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 
 | 247 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 248 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 249 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 
@@ -337,7 +337,7 @@
 | 335 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.90 | 
 | 336 | [High On Life](games/h/high_on_life.md) | 4.69 | 
 | 337 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 338 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 338 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 339 | [Hob](games/h/hob.md) | 4.57 | 
 | 340 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 
 | 341 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 
@@ -720,7 +720,7 @@
 | 718 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
 | 719 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 720 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 
-| 721 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 
+| 721 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 722 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 
 | 723 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.75 | 
 | 724 | [The Escapists](games/t/the_escapists.md) | 4.48 | 

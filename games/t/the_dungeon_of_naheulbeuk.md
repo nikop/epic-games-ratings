@@ -1,5 +1,5 @@
 # The Dungeon of Naheulbeuk
-Rating: 4.69 (118)  (as of 23.09.2022)  
+Rating: 4.70 (118)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -64,3 +64,4 @@ Rating: 4.69 (118)  (as of 23.09.2022)
 | 2023-02-22 | 4.71 | - |
 | 2023-03-04 | 4.70 | - |
 | 2023-03-10 | 4.69 | - |
+| 2023-03-16 | 4.70 | - |
