@@ -196,7 +196,6 @@
 | 193 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
 | 193 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 193 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
-| 193 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
 | 193 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 193 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
 | 193 | [The Witness](games/t/the_witness.md) | 4.70 | 
@@ -214,23 +213,24 @@
 | 193 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
 | 193 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
 | 193 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
-| 215 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 215 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 215 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 215 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 215 | [Days Gone](games/d/days_gone.md) | 4.69 | 
-| 215 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 215 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 215 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 215 | [Bad North](games/b/bad_north.md) | 4.69 | 
-| 215 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 215 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
-| 215 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
-| 215 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.69 | 
-| 215 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.69 | 
-| 215 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
-| 215 | [High On Life](games/h/high_on_life.md) | 4.69 | 
-| 215 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
+| 214 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
+| 214 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 214 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 214 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 214 | [Days Gone](games/d/days_gone.md) | 4.69 | 
+| 214 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
+| 214 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 214 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
+| 214 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
+| 214 | [Bad North](games/b/bad_north.md) | 4.69 | 
+| 214 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 214 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 214 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
+| 214 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.69 | 
+| 214 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.69 | 
+| 214 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
+| 214 | [High On Life](games/h/high_on_life.md) | 4.69 | 
+| 214 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
 | 232 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
 | 232 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 232 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
@@ -731,15 +731,15 @@
 | 727 | [House Party](games/h/house_party.md) | 4.31 | 
 | 727 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
 | 727 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.31 | 
-| 732 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 732 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 732 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 732 | [War Mongrels](games/w/war_mongrels.md) | 4.30 | 
-| 732 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
-| 732 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.30 | 
-| 732 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
-| 732 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.30 | 
-| 732 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
+| 727 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.31 | 
+| 733 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 733 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 733 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
+| 733 | [War Mongrels](games/w/war_mongrels.md) | 4.30 | 
+| 733 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
+| 733 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
+| 733 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.30 | 
+| 733 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
 | 741 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 741 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 741 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
@@ -781,19 +781,19 @@
 | 779 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 779 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
 | 779 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
+| 779 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 779 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 779 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 784 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
-| 784 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 784 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
-| 784 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 784 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
-| 784 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 784 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 784 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
-| 784 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 784 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 784 | [Somerville](games/s/somerville.md) | 4.20 | 
+| 785 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
+| 785 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 785 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
+| 785 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 785 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 785 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 785 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
+| 785 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 785 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 785 | [Somerville](games/s/somerville.md) | 4.20 | 
 | 795 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
 | 795 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 795 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 

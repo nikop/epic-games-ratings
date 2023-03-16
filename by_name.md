@@ -106,7 +106,7 @@
 | 104 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 105 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 
 | 106 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
-| 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.30 | 
+| 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.31 | 
 | 108 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
 | 109 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 110 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
@@ -282,7 +282,7 @@
 | 280 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 281 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 282 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 283 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.20 | 
+| 283 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 284 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
 | 285 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 
 | 286 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
@@ -794,7 +794,7 @@
 | 792 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 
 | 793 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.79 | 
 | 794 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 795 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
+| 795 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 
 | 796 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.67 | 
 | 797 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 798 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
