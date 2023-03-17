@@ -1,5 +1,5 @@
 # Immortals Fenyx Rising Standard Edition
-Rating: 4.62 (791)  (as of 23.09.2022)  
+Rating: 4.61 (791)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -74,3 +74,4 @@ Rating: 4.62 (791)  (as of 23.09.2022)
 | 2022-11-22 | 4.60 | - |
 | 2022-12-07 | 4.61 | - |
 | 2022-12-31 | 4.62 | - |
+| 2023-03-17 | 4.61 | - |

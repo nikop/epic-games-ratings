@@ -358,7 +358,7 @@
 | 356 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.77 | 
 | 357 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 358 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
-| 359 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.62 | 
+| 359 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 
 | 360 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 
 | 361 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
 | 362 | [Inscryption](games/i/inscryption.md) | 4.86 | 
@@ -427,7 +427,7 @@
 | 425 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 426 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
 | 427 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
-| 428 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.57 | 
+| 428 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
 | 429 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 430 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
 | 431 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
@@ -532,7 +532,7 @@
 | 530 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
 | 531 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 532 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 533 | [Pinball FX](games/p/pinball_fx.md) | 4.02 | 
+| 533 | [Pinball FX](games/p/pinball_fx.md) | 4.01 | 
 | 534 | [Pine](games/p/pine.md) | 4.15 | 
 | 535 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.53 | 
 | 536 | [Port Royale 4](games/p/port_royale_4.md) | 3.99 | 
@@ -625,7 +625,7 @@
 | 623 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
 | 624 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
 | 625 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
-| 626 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.19 | 
+| 626 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.23 | 
 | 627 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 628 | [Sifu](games/s/sifu.md) | 4.81 | 
 | 629 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
@@ -749,7 +749,7 @@
 | 747 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 748 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 
 | 749 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 750 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
+| 750 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 751 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 752 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 753 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
