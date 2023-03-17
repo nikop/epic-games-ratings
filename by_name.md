@@ -320,7 +320,7 @@
 | 318 | [Hades](games/h/hades.md) | 4.92 | 
 | 319 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 320 | [Hammerting](games/h/hammerting.md) | 4.38 | 
-| 321 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
+| 321 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
 | 322 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
 | 323 | [Haven](games/h/haven.md) | 4.75 | 
 | 324 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
@@ -370,7 +370,7 @@
 | 368 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 369 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 370 | [Isonzo](games/i/isonzo.md) | 4.55 | 
-| 371 | [IXION](games/i/ixion.md) | 4.53 | 
+| 371 | [IXION](games/i/ixion.md) | 4.54 | 
 | 372 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 373 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
 | 374 | [Journey](games/j/journey.md) | 4.80 | 

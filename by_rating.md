@@ -425,7 +425,6 @@
 | 420 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 420 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
 | 420 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 420 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 
 | 420 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
 | 420 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 420 | [Hob](games/h/hob.md) | 4.57 | 
@@ -436,20 +435,21 @@
 | 420 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
 | 420 | [Everything](games/e/everything.md) | 4.57 | 
 | 420 | [Knockout City™](games/k/knockout_city™.md) | 4.57 | 
-| 437 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
-| 437 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 437 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 437 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
-| 437 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 437 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 437 | [Minit](games/m/minit.md) | 4.56 | 
-| 437 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
-| 437 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
-| 437 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 437 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
-| 437 | [Observation](games/o/observation.md) | 4.56 | 
-| 437 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
-| 437 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
+| 436 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
+| 436 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 436 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 436 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
+| 436 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 436 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 436 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 436 | [Minit](games/m/minit.md) | 4.56 | 
+| 436 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 436 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
+| 436 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 436 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
+| 436 | [Observation](games/o/observation.md) | 4.56 | 
+| 436 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
+| 436 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 451 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 451 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 451 | [Hue](games/h/hue.md) | 4.55 | 
@@ -476,26 +476,26 @@
 | 468 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.54 | 
 | 468 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 468 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
+| 468 | [IXION](games/i/ixion.md) | 4.54 | 
 | 468 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 478 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 478 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 478 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 478 | [Verdun](games/v/verdun.md) | 4.53 | 
-| 478 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 478 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
-| 478 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 
-| 478 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 478 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 478 | [RUINER](games/r/ruiner.md) | 4.53 | 
-| 478 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 478 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
-| 478 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.53 | 
-| 478 | [Aztez](games/a/aztez.md) | 4.53 | 
-| 478 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 478 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
-| 478 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.53 | 
-| 478 | [IXION](games/i/ixion.md) | 4.53 | 
-| 478 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
+| 479 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
+| 479 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 479 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 479 | [Verdun](games/v/verdun.md) | 4.53 | 
+| 479 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 479 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
+| 479 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 
+| 479 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
+| 479 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 479 | [RUINER](games/r/ruiner.md) | 4.53 | 
+| 479 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 479 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
+| 479 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.53 | 
+| 479 | [Aztez](games/a/aztez.md) | 4.53 | 
+| 479 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
+| 479 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
+| 479 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.53 | 
+| 479 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
 | 497 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
 | 497 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 497 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
