@@ -501,6 +501,7 @@
 | 497 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
 | 497 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 497 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 497 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 497 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
 | 497 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 497 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
@@ -509,15 +510,14 @@
 | 497 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
 | 497 | [First Class Trouble](games/f/first_class_trouble.md) | 4.52 | 
 | 497 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 510 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 510 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.51 | 
-| 510 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 510 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 510 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 510 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 510 | [Horace](games/h/horace.md) | 4.51 | 
-| 510 | [Sable](games/s/sable.md) | 4.51 | 
-| 510 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
+| 511 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 511 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 511 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 511 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 511 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 511 | [Horace](games/h/horace.md) | 4.51 | 
+| 511 | [Sable](games/s/sable.md) | 4.51 | 
+| 511 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 519 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 519 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 519 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
@@ -759,13 +759,13 @@
 | 754 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 
 | 758 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 758 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 758 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
 | 758 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
-| 762 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
-| 762 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 
-| 762 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
-| 762 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 
-| 762 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
+| 761 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 761 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
+| 761 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 
+| 761 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
+| 761 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 
+| 761 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
 | 767 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 767 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 767 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 

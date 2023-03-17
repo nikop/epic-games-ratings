@@ -293,7 +293,7 @@
 | 291 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 292 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
 | 293 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 294 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.51 | 
+| 294 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
 | 295 | [GigaBash](games/g/gigabash.md) | 4.63 | 
 | 296 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
 | 297 | [GNOG](games/g/gnog.md) | 4.68 | 
@@ -453,7 +453,7 @@
 | 451 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.95 | 
 | 452 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.75 | 
 | 453 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 454 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
+| 454 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
 | 455 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 456 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 
 | 457 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
