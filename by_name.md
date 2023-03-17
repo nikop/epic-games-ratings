@@ -212,7 +212,7 @@
 | 210 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
 | 211 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 
 | 212 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 213 | [Duskers](games/d/duskers.md) | 4.42 | 
+| 213 | [Duskers](games/d/duskers.md) | 4.41 | 
 | 214 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 215 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 
 | 216 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
@@ -558,7 +558,7 @@
 | 556 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 557 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 558 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
-| 559 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.18 | 
+| 559 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.17 | 
 | 560 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 561 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 562 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
@@ -844,7 +844,7 @@
 | 842 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 843 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 844 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 845 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.46 | 
+| 845 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
 | 846 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 847 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 848 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 

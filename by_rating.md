@@ -584,41 +584,41 @@
 | 576 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 576 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.46 | 
 | 576 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.46 | 
-| 576 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.46 | 
 | 576 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 
 | 576 | [Train Valley](games/t/train_valley.md) | 4.46 | 
 | 576 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
 | 576 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 576 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.46 | 
 | 576 | [WRC Generations](games/w/wrc_generations.md) | 4.46 | 
-| 592 | [SMITE](games/s/smite.md) | 4.45 | 
-| 592 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 592 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 592 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
-| 592 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 592 | [Faeria](games/f/faeria.md) | 4.45 | 
-| 592 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 592 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 592 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 592 | [Figment](games/f/figment.md) | 4.45 | 
-| 592 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
-| 592 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
-| 604 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
-| 604 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 604 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 604 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 604 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
-| 604 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
-| 604 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
-| 604 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
-| 604 | [Death Coming](games/d/death_coming.md) | 4.44 | 
-| 604 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
-| 604 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 
-| 604 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
-| 604 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
-| 604 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
-| 604 | [Predecessor](games/p/predecessor.md) | 4.44 | 
-| 604 | [Redout 2](games/r/redout_2.md) | 4.44 | 
+| 591 | [SMITE](games/s/smite.md) | 4.45 | 
+| 591 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 591 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 591 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
+| 591 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 591 | [Faeria](games/f/faeria.md) | 4.45 | 
+| 591 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 591 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 591 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 591 | [Figment](games/f/figment.md) | 4.45 | 
+| 591 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
+| 591 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
+| 603 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
+| 603 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 603 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 603 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 603 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
+| 603 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
+| 603 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 603 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
+| 603 | [Death Coming](games/d/death_coming.md) | 4.44 | 
+| 603 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 603 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 
+| 603 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.44 | 
+| 603 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
+| 603 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
+| 603 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
+| 603 | [Predecessor](games/p/predecessor.md) | 4.44 | 
+| 603 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 620 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 620 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 620 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
@@ -636,21 +636,21 @@
 | 629 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 629 | [ELEX](games/e/elex.md) | 4.42 | 
 | 629 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
-| 629 | [Duskers](games/d/duskers.md) | 4.42 | 
-| 638 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
-| 638 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 638 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
-| 638 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
-| 638 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
-| 638 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
-| 638 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
-| 638 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
-| 638 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
-| 638 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 638 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 638 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
-| 638 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
-| 638 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
+| 637 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
+| 637 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 637 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
+| 637 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
+| 637 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
+| 637 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
+| 637 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
+| 637 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
+| 637 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
+| 637 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 637 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
+| 637 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 637 | [Duskers](games/d/duskers.md) | 4.41 | 
+| 637 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 637 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
 | 652 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 652 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 652 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
@@ -804,11 +804,11 @@
 | 802 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 802 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 802 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
-| 802 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.18 | 
 | 802 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
-| 807 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
-| 807 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
-| 807 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
+| 806 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
+| 806 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
+| 806 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
+| 806 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.17 | 
 | 810 | [Space Punks](games/s/space_punks.md) | 4.16 | 
 | 810 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
 | 810 | [Family Man](games/f/family_man.md) | 4.16 | 
