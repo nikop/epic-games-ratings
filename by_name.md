@@ -84,7 +84,7 @@
 | 82 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
 | 83 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 84 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 85 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
+| 85 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 86 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 87 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 88 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
@@ -238,7 +238,7 @@
 | 236 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 237 | [Faeria](games/f/faeria.md) | 4.45 | 
 | 238 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 239 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
+| 239 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 240 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 241 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
 | 242 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.65 | 

@@ -111,18 +111,18 @@
 | 104 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.77 | 
 | 104 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 104 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
+| 104 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 104 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.77 | 
 | 104 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
-| 114 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 114 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 114 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
-| 114 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 114 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 114 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
-| 114 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
-| 114 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 
-| 114 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
-| 114 | [shapez](games/s/shapez.md) | 4.76 | 
+| 115 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 115 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 115 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
+| 115 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 115 | [Diabotical](games/d/diabotical.md) | 4.76 | 
+| 115 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
+| 115 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
+| 115 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 
+| 115 | [shapez](games/s/shapez.md) | 4.76 | 
 | 124 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 124 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
 | 124 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -714,18 +714,18 @@
 | 708 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 
 | 708 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 714 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
+| 714 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 714 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 714 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 
 | 714 | [Backbone](games/b/backbone.md) | 4.33 | 
 | 714 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
 | 714 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
-| 720 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 720 | [BIOMUTANT](games/b/biomutant.md) | 4.32 | 
-| 720 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
-| 720 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 
-| 720 | [Parkitect](games/p/parkitect.md) | 4.32 | 
-| 720 | [Filament](games/f/filament.md) | 4.32 | 
-| 720 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
+| 721 | [Vampyr](games/v/vampyr.md) | 4.32 | 
+| 721 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
+| 721 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 
+| 721 | [Parkitect](games/p/parkitect.md) | 4.32 | 
+| 721 | [Filament](games/f/filament.md) | 4.32 | 
+| 721 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
 | 727 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 727 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 727 | [House Party](games/h/house_party.md) | 4.31 | 
