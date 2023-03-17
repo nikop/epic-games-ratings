@@ -164,7 +164,7 @@
 | 162 | [Dark Light](games/d/dark_light.md) | 4.28 | 
 | 163 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 164 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 165 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.53 | 
+| 165 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.54 | 
 | 166 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 167 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 168 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 
@@ -777,7 +777,7 @@
 | 775 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 776 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 
 | 777 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
-| 778 | [Timberborn](games/t/timberborn.md) | 4.71 | 
+| 778 | [Timberborn](games/t/timberborn.md) | 4.72 | 
 | 779 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
 | 780 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 781 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
