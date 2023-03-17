@@ -522,7 +522,6 @@
 | 519 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 519 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 519 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 519 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 
 | 519 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 
 | 519 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
 | 519 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
@@ -535,21 +534,22 @@
 | 519 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 519 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 
 | 519 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
-| 536 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 536 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 536 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 536 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 536 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 536 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
-| 536 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 536 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
-| 536 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 536 | [CryoFall](games/c/cryofall.md) | 4.49 | 
-| 536 | [Far Cry](games/f/far_cry.md) | 4.49 | 
-| 536 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 536 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
-| 536 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
-| 536 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
+| 535 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 535 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 535 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 535 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 535 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 535 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 535 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 535 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 535 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
+| 535 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 535 | [CryoFall](games/c/cryofall.md) | 4.49 | 
+| 535 | [Far Cry](games/f/far_cry.md) | 4.49 | 
+| 535 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 535 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 535 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
+| 535 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
 | 551 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 551 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
 | 551 | [Paradigm](games/p/paradigm.md) | 4.48 | 
@@ -825,19 +825,19 @@
 | 823 | [Train Valley 2](games/t/train_valley_2.md) | 4.14 | 
 | 824 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
 | 824 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
-| 826 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
-| 826 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
-| 828 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
-| 828 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 828 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
-| 828 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
-| 828 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 828 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
-| 828 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 835 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.09 | 
-| 835 | [Submerged](games/s/submerged.md) | 4.09 | 
-| 835 | [Fangs](games/f/fangs.md) | 4.09 | 
-| 835 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.09 | 
+| 826 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.12 | 
+| 827 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
+| 827 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
+| 829 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
+| 829 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 829 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
+| 829 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
+| 829 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 829 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
+| 829 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
+| 836 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.09 | 
+| 836 | [Submerged](games/s/submerged.md) | 4.09 | 
+| 836 | [Fangs](games/f/fangs.md) | 4.09 | 
 | 839 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 839 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
 | 839 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
