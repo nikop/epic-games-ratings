@@ -668,28 +668,28 @@
 | 663 | [Tacoma](games/t/tacoma.md) | 4.39 | 
 | 663 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 663 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 663 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 
 | 663 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.39 | 
-| 671 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 671 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 
-| 671 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
-| 671 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 
-| 671 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
-| 671 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
-| 671 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
-| 671 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 671 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
-| 671 | [Hammerting](games/h/hammerting.md) | 4.38 | 
-| 671 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 671 | [ZOMBI](games/z/zombi.md) | 4.38 | 
-| 683 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 683 | [Core](games/c/core.md) | 4.37 | 
-| 683 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 683 | [Encased](games/e/encased.md) | 4.37 | 
-| 683 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | 
-| 683 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 683 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.37 | 
-| 683 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 670 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 670 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 
+| 670 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
+| 670 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 
+| 670 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 670 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
+| 670 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
+| 670 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
+| 670 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
+| 670 | [Hammerting](games/h/hammerting.md) | 4.38 | 
+| 670 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
+| 670 | [ZOMBI](games/z/zombi.md) | 4.38 | 
+| 682 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 682 | [Core](games/c/core.md) | 4.37 | 
+| 682 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
+| 682 | [Encased](games/e/encased.md) | 4.37 | 
+| 682 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | 
+| 682 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 682 | [Hell is Others](games/h/hell_is_others.md) | 4.37 | 
+| 682 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.37 | 
+| 682 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 691 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 691 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 
 | 691 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
@@ -725,13 +725,13 @@
 | 722 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
 | 722 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 
 | 722 | [Parkitect](games/p/parkitect.md) | 4.32 | 
+| 722 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.32 | 
 | 722 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
-| 727 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 727 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
-| 727 | [House Party](games/h/house_party.md) | 4.31 | 
-| 727 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
-| 727 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.31 | 
-| 727 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.31 | 
+| 728 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 728 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
+| 728 | [House Party](games/h/house_party.md) | 4.31 | 
+| 728 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
+| 728 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.31 | 
 | 733 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 733 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 733 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
@@ -835,13 +835,13 @@
 | 829 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 829 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
 | 829 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
+| 836 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 836 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.09 | 
 | 836 | [Submerged](games/s/submerged.md) | 4.09 | 
 | 836 | [Fangs](games/f/fangs.md) | 4.09 | 
-| 839 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 839 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
-| 839 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
-| 839 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.08 | 
+| 840 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 840 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
+| 840 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.08 | 
 | 843 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 843 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
 | 843 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 

@@ -42,7 +42,7 @@
 | 40 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
 | 41 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
 | 42 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 43 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
+| 43 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 44 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
 | 45 | [Ashen](games/a/ashen.md) | 4.34 | 
 | 46 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.70 | 
@@ -106,7 +106,7 @@
 | 104 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 105 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 
 | 106 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
-| 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.31 | 
+| 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.32 | 
 | 108 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
 | 109 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 110 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
@@ -325,7 +325,7 @@
 | 323 | [Haven](games/h/haven.md) | 4.75 | 
 | 324 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 325 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 326 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 
+| 326 | [Hell is Others](games/h/hell_is_others.md) | 4.37 | 
 | 327 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 328 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.37 | 
 | 329 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
