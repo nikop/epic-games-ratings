@@ -557,6 +557,7 @@
 | 551 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
 | 551 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
 | 551 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.48 | 
+| 551 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
 | 551 | [Chorus](games/c/chorus.md) | 4.48 | 
 | 551 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.48 | 
 | 551 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 
@@ -564,17 +565,16 @@
 | 551 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 
 | 551 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.48 | 
 | 551 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
-| 565 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
-| 565 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
-| 565 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
-| 565 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
-| 565 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
-| 565 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.47 | 
-| 565 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
-| 565 | [The Surge](games/t/the_surge.md) | 4.47 | 
-| 565 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
-| 565 | [Scorn](games/s/scorn.md) | 4.47 | 
-| 565 | [STG Football](games/s/stg_football.md) | 4.47 | 
+| 566 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 566 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
+| 566 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
+| 566 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
+| 566 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
+| 566 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
+| 566 | [The Surge](games/t/the_surge.md) | 4.47 | 
+| 566 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
+| 566 | [Scorn](games/s/scorn.md) | 4.47 | 
+| 566 | [STG Football](games/s/stg_football.md) | 4.47 | 
 | 576 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 576 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 576 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
