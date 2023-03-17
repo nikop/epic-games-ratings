@@ -1,5 +1,5 @@
 # The Crew® – Standard Edition
-Rating: 4.74 (-)  (as of 23.09.2022)  
+Rating: 4.71 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -15,3 +15,4 @@ Rating: 4.74 (-)  (as of 23.09.2022)
 | 2023-03-08 | 4.79 | - |
 | 2023-03-13 | 4.76 | - |
 | 2023-03-14 | 4.74 | - |
+| 2023-03-17 | 4.71 | - |

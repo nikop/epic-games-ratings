@@ -1,10 +1,10 @@
 {
   "ID": "155b39e2ce7b4ed2855125fb2ef1d1a1",
   "Name": "The Crew\u00AE \u2013 Standard Edition",
-  "Rating": 4.74,
+  "Rating": 4.71,
   "FirstSeen": "2022-11-17T02:32:48.2032844+00:00",
   "FirstSeenRating": "2023-01-08T06:57:23.9480644+00:00",
-  "LastChanged": "2023-03-14T17:07:02.1157516+00:00",
+  "LastChanged": "2023-03-17T17:57:42.307452+00:00",
   "RatingHistory": [
     {
       "Time": "2023-01-08T06:57:23.9480647+00:00",
@@ -64,6 +64,11 @@
     {
       "Time": "2023-03-14T17:07:02.1157519+00:00",
       "Rating": 4.74,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-17T17:57:42.3074522+00:00",
+      "Rating": 4.71,
       "NumberOfRatings": null
     }
   ],
