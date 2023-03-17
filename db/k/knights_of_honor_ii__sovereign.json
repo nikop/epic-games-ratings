@@ -1,10 +1,10 @@
 {
   "ID": "22516e1b4eea447e8f027e34d3a05e87",
   "Name": "Knights of Honor II: Sovereign",
-  "Rating": 4.45,
+  "Rating": 4.48,
   "FirstSeen": "2022-12-07T15:57:38.7138742+00:00",
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
-  "LastChanged": "2023-03-14T01:54:46.4447449+00:00",
+  "LastChanged": "2023-03-17T02:03:27.2657021+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-23T23:57:47.5434783+00:00",
@@ -19,6 +19,11 @@
     {
       "Time": "2023-03-14T01:54:46.4447453+00:00",
       "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-17T02:03:27.2657024+00:00",
+      "Rating": 4.48,
       "NumberOfRatings": null
     }
   ],
