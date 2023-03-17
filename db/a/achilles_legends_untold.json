@@ -1,14 +1,19 @@
 {
   "ID": "2ec6c4dc5efd4123bdd9eee3e80554c3",
   "Name": "Achilles Legends Untold",
-  "Rating": 3.95,
+  "Rating": 4,
   "FirstSeen": "2022-10-10T23:30:50.8675024+00:00",
   "FirstSeenRating": "2023-03-09T21:57:29.2382357+00:00",
-  "LastChanged": "2023-03-09T21:57:29.2382359+00:00",
+  "LastChanged": "2023-03-17T21:57:12.6293873+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-09T21:57:29.238236+00:00",
       "Rating": 3.95,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-17T21:57:12.6293874+00:00",
+      "Rating": 4,
       "NumberOfRatings": null
     }
   ],

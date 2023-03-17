@@ -11,7 +11,7 @@
 | 9 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 10 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 11 | [ABZU](games/a/abzu.md) | 4.61 | 
-| 12 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 3.95 | 
+| 12 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.00 | 
 | 13 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 14 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
 | 15 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
