@@ -210,7 +210,7 @@
 | 208 | [DOOM 3](games/d/doom_3.md) | 4.61 | 
 | 209 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 210 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
-| 211 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
+| 211 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 
 | 212 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 213 | [Duskers](games/d/duskers.md) | 4.42 | 
 | 214 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
@@ -572,7 +572,7 @@
 | 570 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
 | 571 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 572 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 573 | [Rise of Industry](games/r/rise_of_industry.md) | 4.19 | 
+| 573 | [Rise of Industry](games/r/rise_of_industry.md) | 4.20 | 
 | 574 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 575 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 576 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 

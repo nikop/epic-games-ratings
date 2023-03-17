@@ -51,14 +51,14 @@
 | 47 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.84 | 
 | 47 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 47 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
-| 47 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 47 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
 | 47 | [Grindstone](games/g/grindstone.md) | 4.84 | 
-| 55 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 55 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
-| 55 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.83 | 
-| 55 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.83 | 
-| 55 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 
+| 54 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
+| 54 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 
+| 54 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
+| 54 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.83 | 
+| 54 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.83 | 
+| 54 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 
 | 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 60 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 60 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
@@ -793,14 +793,14 @@
 | 785 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
 | 785 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 785 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 785 | [Rise of Industry](games/r/rise_of_industry.md) | 4.20 | 
 | 785 | [Somerville](games/s/somerville.md) | 4.20 | 
-| 795 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 795 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 795 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 
-| 795 | [Flatout](games/f/flatout.md) | 4.19 | 
-| 795 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
-| 795 | [Rise of Industry](games/r/rise_of_industry.md) | 4.19 | 
-| 795 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.19 | 
+| 796 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
+| 796 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 796 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 
+| 796 | [Flatout](games/f/flatout.md) | 4.19 | 
+| 796 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
+| 796 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.19 | 
 | 802 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 802 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 802 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
