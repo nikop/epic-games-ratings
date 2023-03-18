@@ -506,7 +506,7 @@
 | 504 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 505 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 506 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
-| 507 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 507 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 508 | [Outward](games/o/outward.md) | 4.55 | 
 | 509 | [Overcooked](games/o/overcooked.md) | 4.67 | 
 | 510 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
@@ -558,7 +558,7 @@
 | 556 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 557 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 558 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
-| 559 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.17 | 
+| 559 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.18 | 
 | 560 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 561 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 562 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
@@ -795,7 +795,7 @@
 | 793 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
 | 794 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 795 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
-| 796 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.67 | 
+| 796 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.68 | 
 | 797 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 798 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
 | 799 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 
@@ -883,5 +883,5 @@
 | 881 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 
 | 882 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
 | 883 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 
-| 884 | [ZOMBI](games/z/zombi.md) | 4.38 | 
+| 884 | [ZOMBI](games/z/zombi.md) | 4.36 | 
 | 885 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
