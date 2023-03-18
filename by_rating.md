@@ -590,43 +590,43 @@
 | 577 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
 | 577 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 577 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.46 | 
-| 577 | [WRC Generations](games/w/wrc_generations.md) | 4.46 | 
-| 592 | [SMITE](games/s/smite.md) | 4.45 | 
-| 592 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 592 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 592 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
-| 592 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 592 | [Faeria](games/f/faeria.md) | 4.45 | 
-| 592 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 592 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 592 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 592 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
-| 592 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
-| 603 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
-| 603 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 603 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 603 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 603 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
-| 603 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
-| 603 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
-| 603 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
-| 603 | [Death Coming](games/d/death_coming.md) | 4.44 | 
-| 603 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
-| 603 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 
-| 603 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
-| 603 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
-| 603 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
-| 603 | [Predecessor](games/p/predecessor.md) | 4.44 | 
-| 603 | [Redout 2](games/r/redout_2.md) | 4.44 | 
-| 619 | [Sheltered](games/s/sheltered.md) | 4.43 | 
-| 619 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 619 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
-| 619 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
-| 619 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
-| 619 | [ATOM RPG](games/a/atom_rpg.md) | 4.43 | 
-| 619 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
-| 619 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
-| 619 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
+| 591 | [SMITE](games/s/smite.md) | 4.45 | 
+| 591 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 591 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 591 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
+| 591 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 591 | [Faeria](games/f/faeria.md) | 4.45 | 
+| 591 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 591 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 591 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 591 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
+| 591 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
+| 602 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
+| 602 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 602 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 602 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 602 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
+| 602 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
+| 602 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 602 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
+| 602 | [Death Coming](games/d/death_coming.md) | 4.44 | 
+| 602 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 602 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 
+| 602 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
+| 602 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
+| 602 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
+| 602 | [Predecessor](games/p/predecessor.md) | 4.44 | 
+| 602 | [Redout 2](games/r/redout_2.md) | 4.44 | 
+| 618 | [Sheltered](games/s/sheltered.md) | 4.43 | 
+| 618 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 618 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
+| 618 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
+| 618 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
+| 618 | [ATOM RPG](games/a/atom_rpg.md) | 4.43 | 
+| 618 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
+| 618 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
+| 618 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
+| 618 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 
 | 628 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 628 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 628 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
