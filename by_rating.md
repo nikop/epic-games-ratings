@@ -72,25 +72,25 @@
 | 68 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 68 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 68 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 68 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.81 | 
 | 68 | [DOOM (1993)](games/d/doom_(1993).md) | 4.81 | 
 | 68 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 68 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
 | 68 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
 | 68 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
-| 78 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 78 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 78 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 78 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
-| 78 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
-| 78 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
-| 78 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
-| 78 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 
-| 78 | [Journey](games/j/journey.md) | 4.80 | 
-| 78 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
-| 78 | [Superliminal](games/s/superliminal.md) | 4.80 | 
-| 78 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 78 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
-| 78 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
+| 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 79 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 79 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 79 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
+| 79 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
+| 79 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
+| 79 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 
+| 79 | [Journey](games/j/journey.md) | 4.80 | 
+| 79 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
+| 79 | [Superliminal](games/s/superliminal.md) | 4.80 | 
+| 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 79 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
+| 79 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
 | 92 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 92 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
 | 92 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
@@ -680,7 +680,6 @@
 | 669 | [Hammerting](games/h/hammerting.md) | 4.38 | 
 | 669 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
 | 680 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 680 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 680 | [Core](games/c/core.md) | 4.37 | 
 | 680 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
 | 680 | [Encased](games/e/encased.md) | 4.37 | 
@@ -689,15 +688,16 @@
 | 680 | [Hell is Others](games/h/hell_is_others.md) | 4.37 | 
 | 680 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.37 | 
 | 680 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 690 | [Paladins](games/p/paladins.md) | 4.36 | 
-| 690 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 690 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 690 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 690 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 
-| 690 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 690 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
-| 690 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
-| 690 | [ZOMBI](games/z/zombi.md) | 4.36 | 
+| 689 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 689 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 
+| 689 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 689 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 689 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 689 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 
+| 689 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
+| 689 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
+| 689 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 
+| 689 | [ZOMBI](games/z/zombi.md) | 4.36 | 
 | 699 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
 | 699 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 699 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 

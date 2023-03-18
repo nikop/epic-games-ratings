@@ -229,7 +229,7 @@
 | 227 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 228 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 229 | [Everything](games/e/everything.md) | 4.57 | 
-| 230 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
+| 230 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 
 | 231 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 
 | 232 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 233 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 
@@ -647,7 +647,7 @@
 | 645 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
 | 646 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 647 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.83 | 
-| 648 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
+| 648 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.81 | 
 | 649 | [Space Punks](games/s/space_punks.md) | 4.16 | 
 | 650 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
 | 651 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
