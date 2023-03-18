@@ -410,7 +410,6 @@
 | 399 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
 | 399 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
 | 399 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
-| 399 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.58 | 
 | 399 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 
 | 399 | [RiME](games/r/rime.md) | 4.58 | 
 | 399 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
@@ -418,38 +417,39 @@
 | 399 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
 | 399 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
 | 399 | [The Medium](games/t/the_medium.md) | 4.58 | 
-| 419 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 419 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 419 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 
-| 419 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
-| 419 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
-| 419 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 419 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
-| 419 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 419 | [Hob](games/h/hob.md) | 4.57 | 
-| 419 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
-| 419 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
-| 419 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
-| 419 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
-| 419 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 
-| 419 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
-| 419 | [Everything](games/e/everything.md) | 4.57 | 
-| 419 | [Knockout City™](games/k/knockout_city™.md) | 4.57 | 
-| 436 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
-| 436 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 436 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 436 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
-| 436 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 436 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 436 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 436 | [Minit](games/m/minit.md) | 4.56 | 
-| 436 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
-| 436 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
-| 436 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 436 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
-| 436 | [Observation](games/o/observation.md) | 4.56 | 
-| 436 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
-| 436 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
+| 418 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 418 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 418 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 
+| 418 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
+| 418 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
+| 418 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
+| 418 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
+| 418 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 418 | [Hob](games/h/hob.md) | 4.57 | 
+| 418 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
+| 418 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
+| 418 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
+| 418 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
+| 418 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 
+| 418 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
+| 418 | [Everything](games/e/everything.md) | 4.57 | 
+| 418 | [Knockout City™](games/k/knockout_city™.md) | 4.57 | 
+| 435 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
+| 435 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 435 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 435 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
+| 435 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 435 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 435 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 435 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 
+| 435 | [Minit](games/m/minit.md) | 4.56 | 
+| 435 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 435 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
+| 435 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 435 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
+| 435 | [Observation](games/o/observation.md) | 4.56 | 
+| 435 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
+| 435 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 451 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 451 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 451 | [Hue](games/h/hue.md) | 4.55 | 
