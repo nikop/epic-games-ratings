@@ -473,29 +473,29 @@
 | 468 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 
 | 468 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 468 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
+| 468 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
 | 468 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.54 | 
 | 468 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 468 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
 | 468 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.54 | 
 | 468 | [IXION](games/i/ixion.md) | 4.54 | 
 | 468 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 480 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 480 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 480 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 480 | [Verdun](games/v/verdun.md) | 4.53 | 
-| 480 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 480 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
-| 480 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 
-| 480 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 480 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 480 | [RUINER](games/r/ruiner.md) | 4.53 | 
-| 480 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 480 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
-| 480 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.53 | 
-| 480 | [Aztez](games/a/aztez.md) | 4.53 | 
-| 480 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 480 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
-| 480 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
+| 481 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
+| 481 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 481 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 481 | [Verdun](games/v/verdun.md) | 4.53 | 
+| 481 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
+| 481 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 
+| 481 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
+| 481 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 481 | [RUINER](games/r/ruiner.md) | 4.53 | 
+| 481 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 481 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
+| 481 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.53 | 
+| 481 | [Aztez](games/a/aztez.md) | 4.53 | 
+| 481 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
+| 481 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
+| 481 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
 | 497 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
 | 497 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 497 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
@@ -575,7 +575,6 @@
 | 566 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.47 | 
 | 566 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
 | 566 | [Scorn](games/s/scorn.md) | 4.47 | 
-| 576 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 576 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 576 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 576 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
@@ -590,17 +589,18 @@
 | 576 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 576 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.46 | 
 | 576 | [STG Football](games/s/stg_football.md) | 4.46 | 
-| 591 | [SMITE](games/s/smite.md) | 4.45 | 
-| 591 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 591 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 591 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
-| 591 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 591 | [Faeria](games/f/faeria.md) | 4.45 | 
-| 591 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 591 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 591 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 591 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
-| 591 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
+| 590 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 
+| 590 | [SMITE](games/s/smite.md) | 4.45 | 
+| 590 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 590 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 590 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
+| 590 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 590 | [Faeria](games/f/faeria.md) | 4.45 | 
+| 590 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 590 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 590 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 590 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
+| 590 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 602 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
 | 602 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 602 | [The Captain](games/t/the_captain.md) | 4.44 | 
@@ -879,9 +879,9 @@
 | 877 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
 | 878 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 878 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
-| 880 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.75 | 
-| 880 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 
-| 880 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
+| 880 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 
+| 881 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 
+| 881 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 883 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
 | 883 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.74 | 
 | 885 | [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | 

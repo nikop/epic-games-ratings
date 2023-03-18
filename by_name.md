@@ -432,7 +432,7 @@
 | 430 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
 | 431 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
 | 432 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 
-| 433 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 433 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 
 | 434 | [Mago](games/m/mago.md) | 4.90 | 
 | 435 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 436 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
@@ -527,7 +527,7 @@
 | 525 | [Patron](games/p/patron.md) | 3.94 | 
 | 526 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 527 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 528 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 528 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
 | 529 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.63 | 
 | 530 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
 | 531 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
@@ -654,7 +654,7 @@
 | 652 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
 | 653 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.46 | 
 | 654 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
-| 655 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.75 | 
+| 655 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 
 | 656 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
 | 657 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
 | 658 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
