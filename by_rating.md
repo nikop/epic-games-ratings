@@ -667,27 +667,27 @@
 | 661 | [Warpips](games/w/warpips.md) | 4.39 | 
 | 661 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
 | 661 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
+| 661 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 
 | 661 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.39 | 
-| 669 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
-| 669 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 
-| 669 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
-| 669 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 
-| 669 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
-| 669 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
-| 669 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
-| 669 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
-| 669 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
-| 669 | [Hammerting](games/h/hammerting.md) | 4.38 | 
-| 669 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
-| 680 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
-| 680 | [Core](games/c/core.md) | 4.37 | 
-| 680 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 680 | [Encased](games/e/encased.md) | 4.37 | 
-| 680 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | 
-| 680 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 680 | [Hell is Others](games/h/hell_is_others.md) | 4.37 | 
-| 680 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.37 | 
-| 680 | [Lamentum](games/l/lamentum.md) | 4.37 | 
+| 670 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
+| 670 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 
+| 670 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
+| 670 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 
+| 670 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
+| 670 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 
+| 670 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
+| 670 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
+| 670 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
+| 670 | [Hammerting](games/h/hammerting.md) | 4.38 | 
+| 670 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 
+| 681 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
+| 681 | [Core](games/c/core.md) | 4.37 | 
+| 681 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
+| 681 | [Encased](games/e/encased.md) | 4.37 | 
+| 681 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | 
+| 681 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 681 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.37 | 
+| 681 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 689 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 689 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 
 | 689 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
@@ -734,33 +734,33 @@
 | 732 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 732 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 732 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 732 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.30 | 
 | 732 | [War Mongrels](games/w/war_mongrels.md) | 4.30 | 
 | 732 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
 | 732 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
 | 732 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.30 | 
 | 732 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
-| 741 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
-| 741 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
-| 741 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
-| 741 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
-| 741 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
-| 741 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
-| 741 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
-| 741 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.29 | 
-| 749 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 749 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 749 | [The Fall](games/t/the_fall.md) | 4.28 | 
-| 749 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.28 | 
-| 749 | [Dark Light](games/d/dark_light.md) | 4.28 | 
-| 754 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
-| 754 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
-| 754 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
-| 754 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 
-| 758 | [EVE Online](games/e/eve_online.md) | 4.26 | 
-| 758 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
-| 758 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
-| 758 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
+| 740 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
+| 740 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
+| 740 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
+| 740 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
+| 740 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
+| 740 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 740 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
+| 740 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.29 | 
+| 748 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 748 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 748 | [The Fall](games/t/the_fall.md) | 4.28 | 
+| 748 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.28 | 
+| 748 | [Dark Light](games/d/dark_light.md) | 4.28 | 
+| 753 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
+| 753 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
+| 753 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
+| 753 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 
+| 757 | [EVE Online](games/e/eve_online.md) | 4.26 | 
+| 757 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 757 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
+| 757 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
+| 757 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.26 | 
 | 762 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 762 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 
 | 762 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 

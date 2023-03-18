@@ -325,7 +325,7 @@
 | 323 | [Haven](games/h/haven.md) | 4.75 | 
 | 324 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 325 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 326 | [Hell is Others](games/h/hell_is_others.md) | 4.37 | 
+| 326 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 
 | 327 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 328 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.37 | 
 | 329 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
@@ -844,7 +844,7 @@
 | 842 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 843 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 844 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 845 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.30 | 
+| 845 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.26 | 
 | 846 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 847 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 848 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
