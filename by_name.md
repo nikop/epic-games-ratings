@@ -35,7 +35,7 @@
 | 33 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 34 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 
 | 35 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
-| 36 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
+| 36 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 
 | 37 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 38 | [APE OUT](games/a/ape_out.md) | 4.65 | 
 | 39 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
@@ -481,7 +481,7 @@
 | 479 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 480 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 481 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 482 | [No Straight Roads](games/n/no_straight_roads.md) | 4.68 | 
+| 482 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 
 | 483 | [NORCO](games/n/norco.md) | 4.62 | 
 | 484 | [Northgard](games/n/northgard.md) | 4.72 | 
 | 485 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.71 | 
@@ -861,7 +861,7 @@
 | 859 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 860 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 861 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 862 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
+| 862 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.90 | 
 | 863 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 864 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 865 | [Windbound](games/w/windbound.md) | 4.18 | 
