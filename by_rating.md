@@ -476,26 +476,26 @@
 | 468 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.54 | 
 | 468 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 468 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
+| 468 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.54 | 
 | 468 | [IXION](games/i/ixion.md) | 4.54 | 
 | 468 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 479 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 479 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 479 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 479 | [Verdun](games/v/verdun.md) | 4.53 | 
-| 479 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
-| 479 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
-| 479 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 
-| 479 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 479 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 479 | [RUINER](games/r/ruiner.md) | 4.53 | 
-| 479 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 479 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
-| 479 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.53 | 
-| 479 | [Aztez](games/a/aztez.md) | 4.53 | 
-| 479 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 479 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
-| 479 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.53 | 
-| 479 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
+| 480 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
+| 480 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 480 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 480 | [Verdun](games/v/verdun.md) | 4.53 | 
+| 480 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 
+| 480 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
+| 480 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 
+| 480 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
+| 480 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 480 | [RUINER](games/r/ruiner.md) | 4.53 | 
+| 480 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 480 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
+| 480 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.53 | 
+| 480 | [Aztez](games/a/aztez.md) | 4.53 | 
+| 480 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
+| 480 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.53 | 
+| 480 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
 | 497 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
 | 497 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
 | 497 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
@@ -766,16 +766,16 @@
 | 762 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
 | 762 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 
 | 762 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
+| 767 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.24 | 
 | 767 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 767 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 767 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
 | 767 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.24 | 
-| 771 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 771 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
-| 771 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 771 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 771 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.23 | 
-| 771 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
+| 772 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
+| 772 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
+| 772 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
+| 772 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.23 | 
+| 772 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
 | 777 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
 | 777 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
 | 779 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
