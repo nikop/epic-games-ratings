@@ -453,7 +453,7 @@
 | 451 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.95 | 
 | 452 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.75 | 
 | 453 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 454 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
+| 454 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
 | 455 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 456 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 
 | 457 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 

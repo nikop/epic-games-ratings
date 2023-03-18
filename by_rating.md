@@ -759,13 +759,13 @@
 | 754 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 
 | 758 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 758 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
+| 758 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
 | 758 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
-| 761 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
-| 761 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 
-| 761 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 
-| 761 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
-| 761 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 
-| 761 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
+| 762 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 762 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 
+| 762 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
+| 762 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 
+| 762 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
 | 767 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 767 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 767 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
