@@ -872,7 +872,7 @@
 | 870 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
 | 871 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 872 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 873 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.50 | 
+| 873 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 
 | 874 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
 | 875 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
 | 876 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 
