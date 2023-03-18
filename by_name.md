@@ -19,7 +19,7 @@
 | 17 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
 | 18 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 19 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
-| 20 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 
+| 20 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
 | 21 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
 | 22 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 23 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
@@ -660,7 +660,7 @@
 | 658 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 659 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 
 | 660 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.62 | 
-| 661 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.69 | 
+| 661 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
 | 662 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 663 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
 | 664 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
@@ -671,7 +671,7 @@
 | 669 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 670 | [Steelrising](games/s/steelrising.md) | 4.28 | 
 | 671 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.68 | 
-| 672 | [STG Football](games/s/stg_football.md) | 4.47 | 
+| 672 | [STG Football](games/s/stg_football.md) | 4.46 | 
 | 673 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 674 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 675 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
