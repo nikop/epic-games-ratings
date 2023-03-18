@@ -232,7 +232,7 @@
 | 230 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 
 | 231 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 
 | 232 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 233 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 
+| 233 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 
 | 234 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
 | 235 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
 | 236 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
@@ -316,7 +316,7 @@
 | 314 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 315 | [GRIME](games/g/grime.md) | 4.62 | 
 | 316 | [Grindstone](games/g/grindstone.md) | 4.84 | 
-| 317 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.64 | 
+| 317 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.65 | 
 | 318 | [Hades](games/h/hades.md) | 4.92 | 
 | 319 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
 | 320 | [Hammerting](games/h/hammerting.md) | 4.38 | 
