@@ -99,7 +99,7 @@
 | 97 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 98 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 99 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 100 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 100 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
 | 101 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 
 | 102 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 103 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
@@ -567,7 +567,7 @@
 | 565 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 566 | [Returnal™](games/r/returnal™.md) | 4.65 | 
 | 567 | [Revita](games/r/revita.md) | 4.74 | 
-| 568 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 568 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 
 | 569 | [RiME](games/r/rime.md) | 4.58 | 
 | 570 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
 | 571 | [RimWorld](games/r/rimworld.md) | 4.89 | 
@@ -729,7 +729,7 @@
 | 727 | [The Fall](games/t/the_fall.md) | 4.28 | 
 | 728 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 
 | 729 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 
-| 730 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 
+| 730 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 
 | 731 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 
 | 732 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 
 | 733 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
