@@ -122,24 +122,24 @@
 | 115 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
 | 115 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
 | 115 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 
+| 115 | [Sailing Era](games/s/sailing_era.md) | 4.76 | 
 | 115 | [shapez](games/s/shapez.md) | 4.76 | 
-| 124 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
-| 124 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
-| 124 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 124 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
-| 124 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 
-| 124 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 124 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
-| 124 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
-| 124 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
-| 124 | [Haven](games/h/haven.md) | 4.75 | 
-| 124 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.75 | 
-| 124 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 
-| 124 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
-| 124 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.75 | 
-| 124 | [Sailing Era](games/s/sailing_era.md) | 4.75 | 
-| 124 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 
-| 124 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 
+| 125 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 125 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
+| 125 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
+| 125 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
+| 125 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 
+| 125 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
+| 125 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
+| 125 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
+| 125 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
+| 125 | [Haven](games/h/haven.md) | 4.75 | 
+| 125 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.75 | 
+| 125 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 
+| 125 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
+| 125 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.75 | 
+| 125 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 
+| 125 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 
 | 141 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
 | 141 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
 | 141 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
@@ -785,17 +785,17 @@
 | 779 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 779 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
 | 779 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 786 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
-| 786 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 786 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
-| 786 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 786 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 786 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 786 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
-| 786 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 786 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 786 | [Rise of Industry](games/r/rise_of_industry.md) | 4.20 | 
-| 786 | [Somerville](games/s/somerville.md) | 4.20 | 
+| 779 | [Rise of Industry](games/r/rise_of_industry.md) | 4.21 | 
+| 787 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
+| 787 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 787 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
+| 787 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 787 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 787 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 787 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
+| 787 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 787 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 787 | [Somerville](games/s/somerville.md) | 4.20 | 
 | 797 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
 | 797 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 797 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 

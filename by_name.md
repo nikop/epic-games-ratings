@@ -572,7 +572,7 @@
 | 570 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
 | 571 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 572 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 573 | [Rise of Industry](games/r/rise_of_industry.md) | 4.20 | 
+| 573 | [Rise of Industry](games/r/rise_of_industry.md) | 4.21 | 
 | 574 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 575 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 576 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
@@ -593,7 +593,7 @@
 | 591 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 592 | [Sable](games/s/sable.md) | 4.51 | 
 | 593 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
-| 594 | [Sailing Era](games/s/sailing_era.md) | 4.75 | 
+| 594 | [Sailing Era](games/s/sailing_era.md) | 4.76 | 
 | 595 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 596 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
 | 597 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
