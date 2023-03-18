@@ -106,7 +106,7 @@
 | 104 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 105 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 
 | 106 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
-| 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.32 | 
+| 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 108 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
 | 109 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 110 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
@@ -275,7 +275,7 @@
 | 273 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 274 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 275 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
-| 276 | [Forspoken](games/f/forspoken.md) | 4.04 | 
+| 276 | [Forspoken](games/f/forspoken.md) | 4.05 | 
 | 277 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 278 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 279 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.70 | 
@@ -332,7 +332,7 @@
 | 330 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 331 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
 | 332 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
-| 333 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.24 | 
+| 333 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 334 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 335 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.90 | 
 | 336 | [High On Life](games/h/high_on_life.md) | 4.69 | 
@@ -450,7 +450,7 @@
 | 448 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
 | 449 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.48 | 
 | 450 | [Minit](games/m/minit.md) | 4.56 | 
-| 451 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.95 | 
+| 451 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.94 | 
 | 452 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.75 | 
 | 453 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 454 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
@@ -747,7 +747,7 @@
 | 745 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 746 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 747 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 748 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 
+| 748 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.74 | 
 | 749 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 750 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 751 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
@@ -844,7 +844,7 @@
 | 842 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 843 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 844 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 845 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 
+| 845 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.30 | 
 | 846 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 847 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 848 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 

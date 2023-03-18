@@ -1,10 +1,10 @@
 {
   "ID": "0d89655f53884b09b241b60c07e684af",
   "Name": "Warhammer 40,000: Gladius - Relics of War",
-  "Rating": 4.42,
+  "Rating": 4.3,
   "NumberOfRatings": 39,
   "FirstSeen": "2022-07-22T20:19:36.3681248+00:00",
-  "LastChanged": "2023-03-18T02:03:14.5633875+00:00",
+  "LastChanged": "2023-03-18T13:57:33.7443758+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:36.3681251+00:00",
@@ -159,6 +159,11 @@
     {
       "Time": "2023-03-18T02:03:14.5633877+00:00",
       "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-18T13:57:33.7443761+00:00",
+      "Rating": 4.3,
       "NumberOfRatings": null
     }
   ],
