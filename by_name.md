@@ -209,7 +209,7 @@
 | 207 | [DOOM (1993)](games/d/doom_(1993).md) | 4.81 | 
 | 208 | [DOOM 3](games/d/doom_3.md) | 4.61 | 
 | 209 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 210 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
+| 210 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 211 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 
 | 212 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 213 | [Duskers](games/d/duskers.md) | 4.41 | 
@@ -247,7 +247,7 @@
 | 245 | [Far Cry](games/f/far_cry.md) | 4.49 | 
 | 246 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 
 | 247 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 248 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 248 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
 | 249 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 
 | 250 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
 | 251 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
@@ -747,7 +747,7 @@
 | 745 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 746 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 747 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 748 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.74 | 
+| 748 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 
 | 749 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 750 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.55 | 
 | 751 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 

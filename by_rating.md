@@ -162,22 +162,22 @@
 | 154 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 
 | 154 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 
 | 154 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
+| 154 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 154 | [Slipways](games/s/slipways.md) | 4.73 | 
 | 154 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
 | 154 | [BLACKTAIL](games/b/blacktail.md) | 4.73 | 
 | 154 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
 | 154 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 154 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 169 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 169 | [Timberborn](games/t/timberborn.md) | 4.72 | 
-| 169 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 169 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 169 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
-| 169 | [Northgard](games/n/northgard.md) | 4.72 | 
-| 169 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 169 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 
-| 169 | [DOOM II](games/d/doom_ii.md) | 4.72 | 
-| 169 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
+| 170 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 170 | [Timberborn](games/t/timberborn.md) | 4.72 | 
+| 170 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 170 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 170 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
+| 170 | [Northgard](games/n/northgard.md) | 4.72 | 
+| 170 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 170 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 
+| 170 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
 | 179 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 179 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 179 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
@@ -258,6 +258,7 @@
 | 254 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 254 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 254 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 254 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
 | 254 | [Overcooked](games/o/overcooked.md) | 4.67 | 
 | 254 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
 | 254 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
@@ -268,23 +269,22 @@
 | 254 | [Card Shark](games/c/card_shark.md) | 4.67 | 
 | 254 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.67 | 
 | 254 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 
-| 269 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
-| 269 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 269 | [Trackmania](games/t/trackmania.md) | 4.66 | 
-| 269 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 269 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 269 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
-| 269 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
-| 269 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
-| 269 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 269 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
-| 269 | [Death's Door](games/d/death's_door.md) | 4.66 | 
-| 269 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
-| 269 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
-| 269 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
-| 269 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
-| 269 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 269 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
+| 270 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
+| 270 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
+| 270 | [Trackmania](games/t/trackmania.md) | 4.66 | 
+| 270 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 270 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
+| 270 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 270 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
+| 270 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 270 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
+| 270 | [Death's Door](games/d/death's_door.md) | 4.66 | 
+| 270 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
+| 270 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
+| 270 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
+| 270 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
+| 270 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 270 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
 | 286 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 286 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 286 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
@@ -882,6 +882,6 @@
 | 880 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 
 | 881 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 
 | 881 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
-| 883 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
-| 883 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.74 | 
+| 881 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 
+| 884 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
 | 885 | [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | 
