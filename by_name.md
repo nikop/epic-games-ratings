@@ -593,7 +593,7 @@
 | 591 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 592 | [Sable](games/s/sable.md) | 4.51 | 
 | 593 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
-| 594 | [Sailing Era](games/s/sailing_era.md) | 4.76 | 
+| 594 | [Sailing Era](games/s/sailing_era.md) | 4.77 | 
 | 595 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 596 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
 | 597 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 

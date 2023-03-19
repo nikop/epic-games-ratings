@@ -114,16 +114,16 @@
 | 104 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 104 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.77 | 
 | 104 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
-| 115 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 115 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 115 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
-| 115 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 115 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 115 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
-| 115 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
-| 115 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 
-| 115 | [Sailing Era](games/s/sailing_era.md) | 4.76 | 
-| 115 | [shapez](games/s/shapez.md) | 4.76 | 
+| 104 | [Sailing Era](games/s/sailing_era.md) | 4.77 | 
+| 116 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 116 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 116 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
+| 116 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 116 | [Diabotical](games/d/diabotical.md) | 4.76 | 
+| 116 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
+| 116 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
+| 116 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 
+| 116 | [shapez](games/s/shapez.md) | 4.76 | 
 | 125 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 125 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
 | 125 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
