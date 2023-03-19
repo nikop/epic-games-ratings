@@ -1,10 +1,10 @@
 {
   "ID": "85f0435aa88347d185dbcb147716609b",
   "Name": "Predecessor",
-  "Rating": 4.44,
+  "Rating": 4.45,
   "FirstSeen": "2022-12-01T08:57:03.8695537+00:00",
   "FirstSeenRating": "2022-12-02T07:57:13.3206902+00:00",
-  "LastChanged": "2023-03-04T21:57:07.4166133+00:00",
+  "LastChanged": "2023-03-19T19:57:00.2209534+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-02T07:57:13.3206905+00:00",
@@ -230,6 +230,11 @@
       "Time": "2023-03-04T21:57:07.4166139+00:00",
       "Rating": 4.44,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-19T19:57:00.2209536+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -239,7 +244,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has a Competitive Community",

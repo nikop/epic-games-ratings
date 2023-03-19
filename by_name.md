@@ -132,7 +132,7 @@
 | 130 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.24 | 
 | 131 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 132 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 
-| 133 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 133 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 
 | 134 | [Conarium](games/c/conarium.md) | 3.91 | 
 | 135 | [Control](games/c/control.md) | 4.60 | 
 | 136 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
@@ -240,7 +240,7 @@
 | 238 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 239 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 240 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 241 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
+| 241 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.49 | 
 | 242 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.65 | 
 | 243 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 244 | [Fangs](games/f/fangs.md) | 4.09 | 
@@ -493,7 +493,7 @@
 | 491 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
 | 492 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
 | 493 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 494 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.44 | 
+| 494 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
 | 495 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 496 | [Old World](games/o/old_world.md) | 4.65 | 
 | 497 | [Ooblets](games/o/ooblets.md) | 4.87 | 
@@ -539,7 +539,7 @@
 | 537 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
 | 538 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 539 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 540 | [Predecessor](games/p/predecessor.md) | 4.44 | 
+| 540 | [Predecessor](games/p/predecessor.md) | 4.45 | 
 | 541 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.47 | 
 | 542 | [Prey](games/p/prey.md) | 4.62 | 
 | 543 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
@@ -792,7 +792,7 @@
 | 790 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 791 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 792 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 
-| 793 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
+| 793 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.79 | 
 | 794 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 795 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
 | 796 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.68 | 
@@ -844,7 +844,7 @@
 | 842 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 843 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 844 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 845 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.16 | 
+| 845 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.17 | 
 | 846 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 847 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 848 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
