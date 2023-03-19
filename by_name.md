@@ -100,7 +100,7 @@
 | 98 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 99 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 100 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
-| 101 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 
+| 101 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 
 | 102 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 103 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
 | 104 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -565,7 +565,7 @@
 | 563 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 564 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
 | 565 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 566 | [Returnal™](games/r/returnal™.md) | 4.65 | 
+| 566 | [Returnal™](games/r/returnal™.md) | 4.66 | 
 | 567 | [Revita](games/r/revita.md) | 4.74 | 
 | 568 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 569 | [RiME](games/r/rime.md) | 4.58 | 
@@ -749,7 +749,7 @@
 | 747 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 748 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 
 | 749 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 750 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.55 | 
+| 750 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 751 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 752 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 753 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
@@ -827,7 +827,7 @@
 | 825 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 826 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.64 | 
 | 827 | [UnMetal](games/u/unmetal.md) | 4.52 | 
-| 828 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.48 | 
+| 828 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
 | 829 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 830 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
 | 831 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
@@ -844,7 +844,7 @@
 | 842 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 843 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 844 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 845 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.15 | 
+| 845 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.16 | 
 | 846 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 847 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 848 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
