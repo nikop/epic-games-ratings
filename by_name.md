@@ -175,7 +175,7 @@
 | 173 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 
 | 174 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 175 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
-| 176 | [Dead Space](games/d/dead_space.md) | 4.73 | 
+| 176 | [Dead Space](games/d/dead_space.md) | 4.74 | 
 | 177 | [Death Coming](games/d/death_coming.md) | 4.44 | 
 | 178 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
 | 179 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
@@ -332,7 +332,7 @@
 | 330 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 331 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
 | 332 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
-| 333 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 333 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.24 | 
 | 334 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 335 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.90 | 
 | 336 | [High On Life](games/h/high_on_life.md) | 4.69 | 
@@ -419,7 +419,7 @@
 | 417 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
 | 418 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
 | 419 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 420 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.06 | 
+| 420 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
 | 421 | [Limbo](games/l/limbo.md) | 4.62 | 
 | 422 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.30 | 
 | 423 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
@@ -848,7 +848,7 @@
 | 846 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 847 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 848 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
-| 849 | [Warpips](games/w/warpips.md) | 4.40 | 
+| 849 | [Warpips](games/w/warpips.md) | 4.39 | 
 | 850 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 851 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 852 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
