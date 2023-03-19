@@ -72,25 +72,25 @@
 | 68 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 68 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 68 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 68 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.81 | 
 | 68 | [DOOM (1993)](games/d/doom_(1993).md) | 4.81 | 
 | 68 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 68 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
 | 68 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
 | 68 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
-| 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 79 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 79 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 79 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
-| 79 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
-| 79 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
-| 79 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 
-| 79 | [Journey](games/j/journey.md) | 4.80 | 
-| 79 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
-| 79 | [Superliminal](games/s/superliminal.md) | 4.80 | 
-| 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 79 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
-| 79 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
+| 78 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 78 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 78 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 78 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
+| 78 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
+| 78 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
+| 78 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
+| 78 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 
+| 78 | [Journey](games/j/journey.md) | 4.80 | 
+| 78 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
+| 78 | [Superliminal](games/s/superliminal.md) | 4.80 | 
+| 78 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 78 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
+| 78 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
 | 92 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 92 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
 | 92 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
@@ -531,26 +531,26 @@
 | 521 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 521 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
 | 521 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 521 | [Far Cry](games/f/far_cry.md) | 4.50 | 
 | 521 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 521 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 
-| 534 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 534 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 534 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 534 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 534 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 534 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
-| 534 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 
-| 534 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 534 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
-| 534 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
-| 534 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 534 | [CryoFall](games/c/cryofall.md) | 4.49 | 
-| 534 | [Far Cry](games/f/far_cry.md) | 4.49 | 
-| 534 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 534 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.49 | 
-| 534 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
-| 534 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
-| 534 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
+| 535 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 535 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 535 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 535 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 535 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 535 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 535 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 
+| 535 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 535 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
+| 535 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
+| 535 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 535 | [CryoFall](games/c/cryofall.md) | 4.49 | 
+| 535 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 535 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.49 | 
+| 535 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 535 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
+| 535 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
 | 552 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 552 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
 | 552 | [Paradigm](games/p/paradigm.md) | 4.48 | 

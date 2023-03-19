@@ -244,7 +244,7 @@
 | 242 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.65 | 
 | 243 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 244 | [Fangs](games/f/fangs.md) | 4.09 | 
-| 245 | [Far Cry](games/f/far_cry.md) | 4.49 | 
+| 245 | [Far Cry](games/f/far_cry.md) | 4.50 | 
 | 246 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 
 | 247 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
 | 248 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
@@ -647,7 +647,7 @@
 | 645 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
 | 646 | [Souldiers](games/s/souldiers.md) | 4.54 | 
 | 647 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.83 | 
-| 648 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.81 | 
+| 648 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 649 | [Space Punks](games/s/space_punks.md) | 4.16 | 
 | 650 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
 | 651 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
