@@ -706,21 +706,21 @@
 | 699 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 699 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 699 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
-| 707 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 707 | [Automachef](games/a/automachef.md) | 4.34 | 
-| 707 | [Ashen](games/a/ashen.md) | 4.34 | 
-| 707 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
-| 707 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 
-| 707 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
-| 713 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
-| 713 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
-| 713 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
-| 713 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 
-| 713 | [Backbone](games/b/backbone.md) | 4.33 | 
-| 713 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
-| 713 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 713 | [Filament](games/f/filament.md) | 4.33 | 
-| 713 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
+| 699 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.35 | 
+| 708 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 708 | [Automachef](games/a/automachef.md) | 4.34 | 
+| 708 | [Ashen](games/a/ashen.md) | 4.34 | 
+| 708 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
+| 708 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 
+| 708 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
+| 714 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
+| 714 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
+| 714 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
+| 714 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 
+| 714 | [Backbone](games/b/backbone.md) | 4.33 | 
+| 714 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
+| 714 | [Filament](games/f/filament.md) | 4.33 | 
+| 714 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
 | 722 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 722 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
 | 722 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 
@@ -778,14 +778,14 @@
 | 772 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
 | 777 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
 | 777 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
-| 779 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
-| 779 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
-| 779 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
-| 779 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 779 | [Starsand](games/s/starsand.md) | 4.21 | 
-| 779 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
-| 779 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 779 | [Rise of Industry](games/r/rise_of_industry.md) | 4.21 | 
+| 777 | [Rise of Industry](games/r/rise_of_industry.md) | 4.22 | 
+| 780 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
+| 780 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
+| 780 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
+| 780 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 780 | [Starsand](games/s/starsand.md) | 4.21 | 
+| 780 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
+| 780 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
 | 787 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
 | 787 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 787 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
@@ -865,10 +865,10 @@
 | 863 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 
 | 864 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 864 | [Banished](games/b/banished.md) | 3.95 | 
-| 866 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.94 | 
 | 866 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
 | 866 | [Patron](games/p/patron.md) | 3.94 | 
 | 866 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
+| 869 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
 | 870 | [Warface](games/w/warface.md) | 3.92 | 
 | 870 | [Ironcast](games/i/ironcast.md) | 3.92 | 
 | 872 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 

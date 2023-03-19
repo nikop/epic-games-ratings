@@ -106,7 +106,7 @@
 | 104 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 105 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 
 | 106 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
-| 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
+| 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.35 | 
 | 108 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
 | 109 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 110 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
@@ -450,7 +450,7 @@
 | 448 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
 | 449 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.48 | 
 | 450 | [Minit](games/m/minit.md) | 4.56 | 
-| 451 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.94 | 
+| 451 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
 | 452 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.75 | 
 | 453 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 454 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
@@ -572,7 +572,7 @@
 | 570 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
 | 571 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 572 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 573 | [Rise of Industry](games/r/rise_of_industry.md) | 4.21 | 
+| 573 | [Rise of Industry](games/r/rise_of_industry.md) | 4.22 | 
 | 574 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 575 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 576 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
