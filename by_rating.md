@@ -617,7 +617,6 @@
 | 604 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
 | 604 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
 | 604 | [Redout 2](games/r/redout_2.md) | 4.44 | 
-| 618 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 618 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 618 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 618 | [Absolute Drift](games/a/absolute_drift.md) | 4.43 | 
@@ -629,12 +628,13 @@
 | 618 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 618 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 618 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 
-| 630 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 630 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 630 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 630 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 630 | [ELEX](games/e/elex.md) | 4.42 | 
-| 630 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
+| 629 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 629 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 629 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 629 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 629 | [Good Company](games/g/good_company.md) | 4.42 | 
+| 629 | [ELEX](games/e/elex.md) | 4.42 | 
+| 629 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
 | 636 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 636 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 636 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
@@ -807,15 +807,15 @@
 | 802 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
 | 806 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
 | 806 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
-| 806 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.17 | 
-| 809 | [Space Punks](games/s/space_punks.md) | 4.16 | 
-| 809 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
-| 809 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 
-| 809 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 809 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
-| 809 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
-| 809 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 
-| 809 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
+| 808 | [Space Punks](games/s/space_punks.md) | 4.16 | 
+| 808 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
+| 808 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 
+| 808 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.16 | 
+| 808 | [Family Man](games/f/family_man.md) | 4.16 | 
+| 808 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
+| 808 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
+| 808 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 
+| 808 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
 | 817 | [Pine](games/p/pine.md) | 4.15 | 
 | 817 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 817 | [Relicta](games/r/relicta.md) | 4.15 | 
