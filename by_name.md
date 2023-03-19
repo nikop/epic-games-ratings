@@ -161,7 +161,7 @@
 | 159 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
 | 160 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
 | 161 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
-| 162 | [Dark Light](games/d/dark_light.md) | 4.28 | 
+| 162 | [Dark Light](games/d/dark_light.md) | 4.31 | 
 | 163 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 164 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 165 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.54 | 

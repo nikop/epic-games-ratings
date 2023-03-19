@@ -731,27 +731,27 @@
 | 727 | [House Party](games/h/house_party.md) | 4.31 | 
 | 727 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
 | 727 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.31 | 
-| 732 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 732 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 732 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 732 | [War Mongrels](games/w/war_mongrels.md) | 4.30 | 
-| 732 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
-| 732 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
-| 732 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.30 | 
-| 732 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
-| 740 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
-| 740 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
-| 740 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
-| 740 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
-| 740 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
-| 740 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
-| 740 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
-| 740 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.29 | 
-| 748 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 748 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 748 | [The Fall](games/t/the_fall.md) | 4.28 | 
-| 748 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.28 | 
-| 748 | [Dark Light](games/d/dark_light.md) | 4.28 | 
+| 727 | [Dark Light](games/d/dark_light.md) | 4.31 | 
+| 733 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 733 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 733 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
+| 733 | [War Mongrels](games/w/war_mongrels.md) | 4.30 | 
+| 733 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
+| 733 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
+| 733 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.30 | 
+| 733 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
+| 741 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
+| 741 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
+| 741 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
+| 741 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
+| 741 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
+| 741 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
+| 741 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
+| 741 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.29 | 
+| 749 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 749 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 749 | [The Fall](games/t/the_fall.md) | 4.28 | 
+| 749 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.28 | 
 | 753 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 753 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
 | 753 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
