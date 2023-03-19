@@ -42,7 +42,7 @@
 | 40 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
 | 41 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
 | 42 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 43 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
+| 43 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
 | 44 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
 | 45 | [Ashen](games/a/ashen.md) | 4.34 | 
 | 46 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.70 | 
@@ -121,7 +121,7 @@
 | 119 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
 | 120 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
 | 121 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 
-| 122 | [Chimeraland](games/c/chimeraland.md) | 3.88 | 
+| 122 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
 | 123 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
 | 124 | [Chorus](games/c/chorus.md) | 4.48 | 
 | 125 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
@@ -337,7 +337,7 @@
 | 335 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.90 | 
 | 336 | [High On Life](games/h/high_on_life.md) | 4.69 | 
 | 337 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 338 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 338 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 339 | [Hob](games/h/hob.md) | 4.57 | 
 | 340 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 
 | 341 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 
@@ -502,7 +502,7 @@
 | 500 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
 | 501 | [Othercide](games/o/othercide.md) | 4.40 | 
 | 502 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 503 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.61 | 
+| 503 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 
 | 504 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 505 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 506 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
@@ -848,7 +848,7 @@
 | 846 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 847 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 848 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
-| 849 | [Warpips](games/w/warpips.md) | 4.39 | 
+| 849 | [Warpips](games/w/warpips.md) | 4.40 | 
 | 850 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 851 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 852 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
