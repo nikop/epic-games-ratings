@@ -9,7 +9,7 @@
 | 7 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 8 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
 | 9 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 10 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
+| 10 | [Absolute Drift](games/a/absolute_drift.md) | 4.43 | 
 | 11 | [ABZU](games/a/abzu.md) | 4.61 | 
 | 12 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.00 | 
 | 13 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
@@ -19,7 +19,7 @@
 | 17 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
 | 18 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 19 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
-| 20 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.62 | 
+| 20 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 
 | 21 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
 | 22 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 23 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
@@ -384,7 +384,7 @@
 | 382 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 383 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.69 | 
 | 384 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 385 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.11 | 
+| 385 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.09 | 
 | 386 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 387 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 388 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
@@ -660,7 +660,7 @@
 | 658 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 659 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 
 | 660 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.62 | 
-| 661 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.67 | 
+| 661 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
 | 662 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 663 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
 | 664 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
