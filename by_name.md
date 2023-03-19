@@ -43,7 +43,7 @@
 | 41 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
 | 42 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
 | 43 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
-| 44 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
+| 44 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
 | 45 | [Ashen](games/a/ashen.md) | 4.34 | 
 | 46 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.70 | 
 | 47 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
@@ -132,7 +132,7 @@
 | 130 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.24 | 
 | 131 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 
 | 132 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 
-| 133 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 
+| 133 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 134 | [Conarium](games/c/conarium.md) | 3.91 | 
 | 135 | [Control](games/c/control.md) | 4.60 | 
 | 136 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 

@@ -37,15 +37,15 @@
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 
 | 32 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 32 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 
-| 38 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 38 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 38 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
-| 38 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
-| 38 | [TUNIC](games/t/tunic.md) | 4.85 | 
-| 38 | [Art of Rally](games/a/art_of_rally_1.md) | 4.85 | 
-| 38 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 
-| 38 | [Huntdown](games/h/huntdown.md) | 4.85 | 
-| 38 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 
+| 32 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
+| 39 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
+| 39 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 39 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
+| 39 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
+| 39 | [TUNIC](games/t/tunic.md) | 4.85 | 
+| 39 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 
+| 39 | [Huntdown](games/h/huntdown.md) | 4.85 | 
+| 39 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 
 | 47 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 47 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 47 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.84 | 
@@ -451,6 +451,7 @@
 | 435 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
 | 435 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 451 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
+| 451 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 451 | [Hue](games/h/hue.md) | 4.55 | 
 | 451 | [Outward](games/o/outward.md) | 4.55 | 
 | 451 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
@@ -468,19 +469,18 @@
 | 451 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.55 | 
 | 451 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
 | 451 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.55 | 
-| 469 | [VALORANT](games/v/valorant.md) | 4.54 | 
-| 469 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 469 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
-| 469 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 
-| 469 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 
-| 469 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 469 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
-| 469 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
-| 469 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.54 | 
-| 469 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 469 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
-| 469 | [IXION](games/i/ixion.md) | 4.54 | 
-| 469 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 470 | [VALORANT](games/v/valorant.md) | 4.54 | 
+| 470 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 470 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
+| 470 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 
+| 470 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 470 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
+| 470 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
+| 470 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.54 | 
+| 470 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 470 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
+| 470 | [IXION](games/i/ixion.md) | 4.54 | 
+| 470 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 482 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 482 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 482 | [Dauntless](games/d/dauntless.md) | 4.53 | 
