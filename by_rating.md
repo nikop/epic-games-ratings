@@ -511,6 +511,7 @@
 | 497 | [First Class Trouble](games/f/first_class_trouble.md) | 4.52 | 
 | 497 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 511 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 511 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 
 | 511 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 511 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 511 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
@@ -519,21 +520,20 @@
 | 511 | [Sable](games/s/sable.md) | 4.51 | 
 | 511 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
 | 511 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 520 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 520 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 520 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
-| 520 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 520 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
-| 520 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 
-| 520 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
-| 520 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
-| 520 | [Solitairica](games/s/solitairica.md) | 4.50 | 
-| 520 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 520 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
-| 520 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 520 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 520 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 
-| 520 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
+| 521 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 521 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 521 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
+| 521 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 521 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 
+| 521 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
+| 521 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 
+| 521 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 521 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 521 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
+| 521 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 521 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
+| 521 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 
+| 521 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
 | 535 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 535 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 535 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
