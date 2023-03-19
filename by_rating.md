@@ -825,7 +825,7 @@
 | 823 | [Train Valley 2](games/t/train_valley_2.md) | 4.14 | 
 | 824 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
 | 824 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
-| 826 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.12 | 
+| 824 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.13 | 
 | 827 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
 | 827 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
 | 827 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.11 | 
