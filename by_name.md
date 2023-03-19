@@ -247,7 +247,7 @@
 | 245 | [Far Cry](games/f/far_cry.md) | 4.50 | 
 | 246 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 
 | 247 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
-| 248 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
+| 248 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 249 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 
 | 250 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
 | 251 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
@@ -308,7 +308,7 @@
 | 306 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 307 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
 | 308 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 309 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.13 | 
+| 309 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.11 | 
 | 310 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 311 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.55 | 
 | 312 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.61 | 
@@ -470,7 +470,7 @@
 | 468 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 469 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
 | 470 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
-| 471 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.68 | 
+| 471 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.69 | 
 | 472 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 
 | 473 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
 | 474 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
@@ -605,7 +605,7 @@
 | 603 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 604 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
 | 605 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 606 | [Scorn](games/s/scorn.md) | 4.47 | 
+| 606 | [Scorn](games/s/scorn.md) | 4.48 | 
 | 607 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
 | 608 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 
 | 609 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
@@ -675,7 +675,7 @@
 | 673 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 674 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 675 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 676 | [Stranded Deep](games/s/stranded_deep.md) | 4.21 | 
+| 676 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
 | 677 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
 | 678 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 
 | 679 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
