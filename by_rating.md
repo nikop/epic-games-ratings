@@ -567,7 +567,6 @@
 | 553 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.48 | 
 | 553 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
 | 553 | [Scorn](games/s/scorn.md) | 4.48 | 
-| 568 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 
 | 568 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 568 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 568 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
@@ -576,19 +575,20 @@
 | 568 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
 | 568 | [The Surge](games/t/the_surge.md) | 4.47 | 
 | 568 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
-| 577 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 577 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
-| 577 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
-| 577 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 577 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
-| 577 | [Figment](games/f/figment.md) | 4.46 | 
-| 577 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.46 | 
-| 577 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 
-| 577 | [Train Valley](games/t/train_valley.md) | 4.46 | 
-| 577 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
-| 577 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 577 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.46 | 
-| 577 | [STG Football](games/s/stg_football.md) | 4.46 | 
+| 576 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 576 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 576 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
+| 576 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
+| 576 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 576 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
+| 576 | [Figment](games/f/figment.md) | 4.46 | 
+| 576 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.46 | 
+| 576 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 
+| 576 | [Train Valley](games/t/train_valley.md) | 4.46 | 
+| 576 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
+| 576 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 576 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.46 | 
+| 576 | [STG Football](games/s/stg_football.md) | 4.46 | 
 | 590 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 
 | 590 | [SMITE](games/s/smite.md) | 4.45 | 
 | 590 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 

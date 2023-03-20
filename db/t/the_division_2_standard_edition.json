@@ -1,10 +1,10 @@
 {
   "ID": "impala",
   "Name": "The Division 2 Standard Edition",
-  "Rating": 4.47,
+  "Rating": 4.46,
   "NumberOfRatings": 6675,
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2023-03-20T17:57:33.7541668+00:00",
+  "LastChanged": "2023-03-20T20:57:22.2280364+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:04.4200789+00:00",
@@ -3095,6 +3095,11 @@
       "Time": "2023-03-20T17:57:33.7541671+00:00",
       "Rating": 4.47,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-20T20:57:22.2280366+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -3120,7 +3125,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 1000
+      "Count": 1001
     },
     {
       "Text": "This game has Amazing Storytelling",
