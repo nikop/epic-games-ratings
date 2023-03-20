@@ -534,7 +534,7 @@
 | 532 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
 | 533 | [Pinball FX](games/p/pinball_fx.md) | 4.01 | 
 | 534 | [Pine](games/p/pine.md) | 4.15 | 
-| 535 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.53 | 
+| 535 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 
 | 536 | [Port Royale 4](games/p/port_royale_4.md) | 3.99 | 
 | 537 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
 | 538 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
