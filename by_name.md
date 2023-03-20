@@ -396,7 +396,7 @@
 | 394 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 
 | 395 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 396 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 397 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
+| 397 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 398 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 399 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
 | 400 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
@@ -646,7 +646,7 @@
 | 644 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 
 | 645 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
 | 646 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 647 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.83 | 
+| 647 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 
 | 648 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 649 | [Space Punks](games/s/space_punks.md) | 4.16 | 
 | 650 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
@@ -844,7 +844,7 @@
 | 842 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 843 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 844 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 845 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.18 | 
+| 845 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.17 | 
 | 846 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 847 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 848 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
@@ -861,7 +861,7 @@
 | 859 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 860 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 861 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 862 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.90 | 
+| 862 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
 | 863 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 864 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 865 | [Windbound](games/w/windbound.md) | 4.18 | 

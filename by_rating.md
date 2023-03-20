@@ -51,14 +51,14 @@
 | 47 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.84 | 
 | 47 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 47 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
+| 47 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 
 | 47 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
 | 47 | [Grindstone](games/g/grindstone.md) | 4.84 | 
-| 54 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 54 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 
-| 54 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
-| 54 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.83 | 
-| 54 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.83 | 
-| 54 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 
+| 55 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
+| 55 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 
+| 55 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
+| 55 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.83 | 
+| 55 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 
 | 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 60 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 60 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
@@ -131,6 +131,7 @@
 | 125 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 
 | 125 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 125 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 
+| 125 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 
 | 125 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 125 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 125 | [Quake](games/q/quake.md) | 4.75 | 
@@ -141,19 +142,18 @@
 | 125 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.75 | 
 | 125 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 
 | 125 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 
-| 142 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
-| 142 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 142 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 142 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
-| 142 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.74 | 
-| 142 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 142 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
-| 142 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 142 | [Revita](games/r/revita.md) | 4.74 | 
-| 142 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
-| 142 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
-| 142 | [Dead Space](games/d/dead_space.md) | 4.74 | 
-| 142 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
+| 143 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
+| 143 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 143 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 143 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 143 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 143 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
+| 143 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
+| 143 | [Revita](games/r/revita.md) | 4.74 | 
+| 143 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 143 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
+| 143 | [Dead Space](games/d/dead_space.md) | 4.74 | 
+| 143 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
 | 155 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 155 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 155 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
@@ -803,12 +803,12 @@
 | 797 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 802 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 802 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 802 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.18 | 
 | 802 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.18 | 
 | 802 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
-| 807 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
-| 807 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
-| 807 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
+| 806 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
+| 806 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
+| 806 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.17 | 
+| 806 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
 | 810 | [Space Punks](games/s/space_punks.md) | 4.16 | 
 | 810 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
 | 810 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 
@@ -874,7 +874,7 @@
 | 872 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 872 | [Conarium](games/c/conarium.md) | 3.91 | 
 | 872 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
-| 875 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.90 | 
+| 872 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
 | 876 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 877 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.79 | 
 | 878 | [Saints Row](games/s/saints_row.md) | 3.78 | 
