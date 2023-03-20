@@ -106,7 +106,7 @@
 | 104 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 105 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 
 | 106 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
-| 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.35 | 
+| 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.34 | 
 | 108 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
 | 109 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 110 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
@@ -275,7 +275,7 @@
 | 273 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 274 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 275 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
-| 276 | [Forspoken](games/f/forspoken.md) | 4.05 | 
+| 276 | [Forspoken](games/f/forspoken.md) | 4.06 | 
 | 277 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 278 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 279 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.70 | 

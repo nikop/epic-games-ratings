@@ -705,14 +705,14 @@
 | 698 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 698 | [Torchlight](games/t/torchlight.md) | 4.35 | 
 | 698 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
-| 698 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.35 | 
-| 707 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 707 | [Automachef](games/a/automachef.md) | 4.34 | 
-| 707 | [Ashen](games/a/ashen.md) | 4.34 | 
-| 707 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
-| 707 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 
-| 707 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
-| 707 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.34 | 
+| 706 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 706 | [Automachef](games/a/automachef.md) | 4.34 | 
+| 706 | [Ashen](games/a/ashen.md) | 4.34 | 
+| 706 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
+| 706 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 
+| 706 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
+| 706 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.34 | 
+| 706 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.34 | 
 | 714 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 714 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 714 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
@@ -845,9 +845,9 @@
 | 843 | [Godfall](games/g/godfall.md) | 4.07 | 
 | 843 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
 | 843 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
-| 846 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
-| 846 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
-| 846 | [Forspoken](games/f/forspoken.md) | 4.05 | 
+| 846 | [Forspoken](games/f/forspoken.md) | 4.06 | 
+| 847 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
+| 847 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
 | 849 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
 | 849 | [Tharsis](games/t/tharsis.md) | 4.04 | 
 | 851 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.03 | 
