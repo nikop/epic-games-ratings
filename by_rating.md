@@ -834,11 +834,11 @@
 | 830 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
 | 830 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 830 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
+| 830 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.10 | 
 | 830 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 836 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.09 | 
-| 836 | [Submerged](games/s/submerged.md) | 4.09 | 
-| 836 | [Fangs](games/f/fangs.md) | 4.09 | 
-| 836 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.09 | 
+| 837 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.09 | 
+| 837 | [Submerged](games/s/submerged.md) | 4.09 | 
+| 837 | [Fangs](games/f/fangs.md) | 4.09 | 
 | 840 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 840 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
 | 840 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
@@ -882,6 +882,6 @@
 | 880 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 
 | 881 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 
 | 881 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
-| 881 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 
-| 884 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
+| 883 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
+| 883 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.74 | 
 | 885 | [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | 
