@@ -100,7 +100,7 @@
 | 98 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 99 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 100 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
-| 101 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 
+| 101 | [Brawlhalla](games/b/brawlhalla.md) | 4.56 | 
 | 102 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 103 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
 | 104 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -448,7 +448,7 @@
 | 446 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
 | 447 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 448 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
-| 449 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.48 | 
+| 449 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.49 | 
 | 450 | [Minit](games/m/minit.md) | 4.56 | 
 | 451 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
 | 452 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.75 | 
@@ -548,7 +548,7 @@
 | 546 | [Quake](games/q/quake.md) | 4.75 | 
 | 547 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 548 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 549 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
+| 549 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
 | 550 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
 | 551 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 552 | [Rayman Origins](games/r/rayman_origins.md) | 4.82 | 
@@ -852,7 +852,7 @@
 | 850 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 851 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 852 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 853 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.35 | 
+| 853 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.34 | 
 | 854 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 
 | 855 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
 | 856 | [Weird West](games/w/weird_west.md) | 4.45 | 
