@@ -124,7 +124,6 @@
 | 115 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 
 | 115 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 115 | [shapez](games/s/shapez.md) | 4.76 | 
-| 125 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 125 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
 | 125 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 125 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
@@ -142,18 +141,19 @@
 | 125 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.75 | 
 | 125 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 
 | 125 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 
-| 143 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
-| 143 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 143 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 143 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
-| 143 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 143 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
-| 143 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 143 | [Revita](games/r/revita.md) | 4.74 | 
-| 143 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
-| 143 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
-| 143 | [Dead Space](games/d/dead_space.md) | 4.74 | 
-| 143 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
+| 142 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
+| 142 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
+| 142 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 142 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 142 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 142 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 142 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
+| 142 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
+| 142 | [Revita](games/r/revita.md) | 4.74 | 
+| 142 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 142 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
+| 142 | [Dead Space](games/d/dead_space.md) | 4.74 | 
+| 142 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
 | 155 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 155 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 155 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 

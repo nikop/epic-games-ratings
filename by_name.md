@@ -456,7 +456,7 @@
 | 454 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
 | 455 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
 | 456 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 
-| 457 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
+| 457 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
 | 458 | [Moving Out](games/m/moving_out.md) | 4.58 | 
 | 459 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 460 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
