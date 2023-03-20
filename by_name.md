@@ -34,7 +34,7 @@
 | 32 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
 | 33 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 34 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 
-| 35 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
+| 35 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
 | 36 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 
 | 37 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 38 | [APE OUT](games/a/ape_out.md) | 4.65 | 
@@ -254,7 +254,7 @@
 | 252 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
 | 253 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 
 | 254 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
-| 255 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.73 | 
+| 255 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 
 | 256 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 
 | 257 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 258 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
@@ -311,7 +311,7 @@
 | 309 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.11 | 
 | 310 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 311 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.55 | 
-| 312 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.61 | 
+| 312 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.62 | 
 | 313 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
 | 314 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 315 | [GRIME](games/g/grime.md) | 4.62 | 
@@ -427,7 +427,7 @@
 | 425 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 426 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
 | 427 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
-| 428 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.53 | 
+| 428 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.54 | 
 | 429 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 430 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
 | 431 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
