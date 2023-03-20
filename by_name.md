@@ -545,7 +545,7 @@
 | 543 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
 | 544 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 
 | 545 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 546 | [Quake](games/q/quake.md) | 4.74 | 
+| 546 | [Quake](games/q/quake.md) | 4.75 | 
 | 547 | [Rage 2](games/r/rage_2.md) | 4.28 | 
 | 548 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 549 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 
@@ -664,7 +664,7 @@
 | 662 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 663 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
 | 664 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 665 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.64 | 
+| 665 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.66 | 
 | 666 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 667 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
 | 668 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
@@ -844,7 +844,7 @@
 | 842 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 843 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 844 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 845 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.16 | 
+| 845 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.18 | 
 | 846 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 847 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 848 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
