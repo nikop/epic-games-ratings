@@ -18,7 +18,7 @@
 | 16 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
 | 17 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
 | 18 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 19 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 
+| 19 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
 | 20 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 
 | 21 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
 | 22 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
@@ -56,7 +56,7 @@
 | 54 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 55 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
 | 56 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
-| 57 | [ATOM RPG](games/a/atom_rpg.md) | 4.43 | 
+| 57 | [ATOM RPG](games/a/atom_rpg.md) | 4.44 | 
 | 58 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
 | 59 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 60 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
@@ -246,7 +246,7 @@
 | 244 | [Fangs](games/f/fangs.md) | 4.09 | 
 | 245 | [Far Cry](games/f/far_cry.md) | 4.50 | 
 | 246 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 
-| 247 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 
+| 247 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 
 | 248 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
 | 249 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 
 | 250 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
@@ -363,7 +363,7 @@
 | 361 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
 | 362 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 363 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 364 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 
+| 364 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 
 | 365 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 366 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 367 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
@@ -540,7 +540,7 @@
 | 538 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 539 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 540 | [Predecessor](games/p/predecessor.md) | 4.45 | 
-| 541 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.47 | 
+| 541 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.48 | 
 | 542 | [Prey](games/p/prey.md) | 4.62 | 
 | 543 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
 | 544 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 
