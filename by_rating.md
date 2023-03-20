@@ -168,30 +168,30 @@
 | 155 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
 | 155 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 155 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 169 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 169 | [Timberborn](games/t/timberborn.md) | 4.72 | 
-| 169 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 169 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 169 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
-| 169 | [Northgard](games/n/northgard.md) | 4.72 | 
-| 169 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 169 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 
-| 169 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
-| 178 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
-| 178 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 178 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
-| 178 | [Barony](games/b/barony.md) | 4.71 | 
-| 178 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
-| 178 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 178 | [Townscaper](games/t/townscaper.md) | 4.71 | 
-| 178 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
-| 178 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 
-| 178 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 
-| 178 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
-| 178 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
-| 178 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.71 | 
-| 178 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
-| 178 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.71 | 
+| 155 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.73 | 
+| 170 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 170 | [Timberborn](games/t/timberborn.md) | 4.72 | 
+| 170 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 170 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 170 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
+| 170 | [Northgard](games/n/northgard.md) | 4.72 | 
+| 170 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 170 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 
+| 170 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
+| 179 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
+| 179 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 179 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
+| 179 | [Barony](games/b/barony.md) | 4.71 | 
+| 179 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
+| 179 | [FUSER™](games/f/fuser™.md) | 4.71 | 
+| 179 | [Townscaper](games/t/townscaper.md) | 4.71 | 
+| 179 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
+| 179 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 
+| 179 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 
+| 179 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
+| 179 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
+| 179 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.71 | 
+| 179 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
 | 193 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 193 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
 | 193 | [For The King](games/f/for_the_king.md) | 4.70 | 
@@ -567,6 +567,7 @@
 | 552 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.48 | 
 | 552 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
 | 552 | [Scorn](games/s/scorn.md) | 4.48 | 
+| 568 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 
 | 568 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 568 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 568 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
@@ -575,20 +576,19 @@
 | 568 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
 | 568 | [The Surge](games/t/the_surge.md) | 4.47 | 
 | 568 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
-| 576 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
-| 576 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
-| 576 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
-| 576 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
-| 576 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
-| 576 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
-| 576 | [Figment](games/f/figment.md) | 4.46 | 
-| 576 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.46 | 
-| 576 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 
-| 576 | [Train Valley](games/t/train_valley.md) | 4.46 | 
-| 576 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
-| 576 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 576 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.46 | 
-| 576 | [STG Football](games/s/stg_football.md) | 4.46 | 
+| 577 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
+| 577 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
+| 577 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 
+| 577 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 
+| 577 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
+| 577 | [Figment](games/f/figment.md) | 4.46 | 
+| 577 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.46 | 
+| 577 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 
+| 577 | [Train Valley](games/t/train_valley.md) | 4.46 | 
+| 577 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
+| 577 | [Runbow](games/r/runbow.md) | 4.46 | 
+| 577 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.46 | 
+| 577 | [STG Football](games/s/stg_football.md) | 4.46 | 
 | 590 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 
 | 590 | [SMITE](games/s/smite.md) | 4.45 | 
 | 590 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
@@ -807,15 +807,15 @@
 | 802 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
 | 806 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
 | 806 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
-| 808 | [Space Punks](games/s/space_punks.md) | 4.16 | 
-| 808 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
-| 808 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 
-| 808 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.16 | 
-| 808 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 808 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
-| 808 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
-| 808 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 
-| 808 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
+| 806 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
+| 809 | [Space Punks](games/s/space_punks.md) | 4.16 | 
+| 809 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
+| 809 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 
+| 809 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.16 | 
+| 809 | [Family Man](games/f/family_man.md) | 4.16 | 
+| 809 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
+| 809 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
+| 809 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 
 | 817 | [Pine](games/p/pine.md) | 4.15 | 
 | 817 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 817 | [Relicta](games/r/relicta.md) | 4.15 | 

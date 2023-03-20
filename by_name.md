@@ -306,7 +306,7 @@
 | 304 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
 | 305 | [Gone Home](games/g/gone_home.md) | 4.15 | 
 | 306 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 307 | [Gotham Knights](games/g/gotham_knights.md) | 4.16 | 
+| 307 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
 | 308 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 309 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.11 | 
 | 310 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
@@ -716,9 +716,9 @@
 | 714 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 715 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 716 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
-| 717 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.71 | 
+| 717 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.73 | 
 | 718 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
-| 719 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
+| 719 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 
 | 720 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
 | 721 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
 | 722 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 

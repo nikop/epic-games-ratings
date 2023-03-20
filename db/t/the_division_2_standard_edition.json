@@ -1,10 +1,10 @@
 {
   "ID": "impala",
   "Name": "The Division 2 Standard Edition",
-  "Rating": 4.46,
+  "Rating": 4.47,
   "NumberOfRatings": 6675,
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2023-02-03T20:57:17.0503137+00:00",
+  "LastChanged": "2023-03-20T17:57:33.7541668+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:04.4200789+00:00",
@@ -3090,6 +3090,11 @@
       "Time": "2023-02-03T20:57:17.0503138+00:00",
       "Rating": 4.46,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-20T17:57:33.7541671+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -3127,7 +3132,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 997
+      "Count": 999
     },
     {
       "Text": "This game has Quickly Understood Controls",
