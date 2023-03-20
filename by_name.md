@@ -574,7 +574,7 @@
 | 572 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
 | 573 | [Rise of Industry](games/r/rise_of_industry.md) | 4.22 | 
 | 574 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 575 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
+| 575 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
 | 576 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 577 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
 | 578 | [Riverbond](games/r/riverbond.md) | 4.48 | 

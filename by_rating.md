@@ -648,18 +648,18 @@
 | 636 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 636 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 636 | [Duskers](games/d/duskers.md) | 4.41 | 
-| 636 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 
 | 636 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
-| 651 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 651 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 651 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 651 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
-| 651 | [Othercide](games/o/othercide.md) | 4.40 | 
-| 651 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 651 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 651 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
-| 651 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
-| 651 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
+| 650 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 650 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 650 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
+| 650 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
+| 650 | [Othercide](games/o/othercide.md) | 4.40 | 
+| 650 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 650 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
+| 650 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
+| 650 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 650 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
+| 650 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 661 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 661 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 661 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
