@@ -16,13 +16,13 @@
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 
 | 13 | [God of War](games/g/god_of_war.md) | 4.89 | 
 | 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
-| 13 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 13 | [Firework](games/f/firework.md) | 4.89 | 
-| 20 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
-| 20 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
-| 20 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
-| 20 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
+| 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
+| 19 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
+| 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
+| 19 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 
+| 19 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
 | 24 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 
 | 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 
 | 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 
@@ -111,19 +111,19 @@
 | 104 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.77 | 
 | 104 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 104 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
-| 104 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
 | 104 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.77 | 
 | 104 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
 | 104 | [Sailing Era](games/s/sailing_era.md) | 4.77 | 
-| 116 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 116 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
-| 116 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
-| 116 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
-| 116 | [Diabotical](games/d/diabotical.md) | 4.76 | 
-| 116 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
-| 116 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
-| 116 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 
-| 116 | [shapez](games/s/shapez.md) | 4.76 | 
+| 115 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
+| 115 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
+| 115 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 
+| 115 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 
+| 115 | [Diabotical](games/d/diabotical.md) | 4.76 | 
+| 115 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 
+| 115 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 
+| 115 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 
+| 115 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
+| 115 | [shapez](games/s/shapez.md) | 4.76 | 
 | 125 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 
 | 125 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
 | 125 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
@@ -425,7 +425,6 @@
 | 417 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
 | 417 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 417 | [Hob](games/h/hob.md) | 4.57 | 
-| 417 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
 | 417 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
 | 417 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
 | 417 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
@@ -434,22 +433,23 @@
 | 417 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 
 | 417 | [Everything](games/e/everything.md) | 4.57 | 
 | 417 | [Knockout City™](games/k/knockout_city™.md) | 4.57 | 
-| 435 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
-| 435 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 435 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 435 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
-| 435 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 435 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 435 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 435 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 
-| 435 | [Minit](games/m/minit.md) | 4.56 | 
-| 435 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
-| 435 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
-| 435 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 435 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
-| 435 | [Observation](games/o/observation.md) | 4.56 | 
-| 435 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
-| 435 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
+| 434 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
+| 434 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 434 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 434 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
+| 434 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 434 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.56 | 
+| 434 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 434 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 434 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 
+| 434 | [Minit](games/m/minit.md) | 4.56 | 
+| 434 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 434 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
+| 434 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 434 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
+| 434 | [Observation](games/o/observation.md) | 4.56 | 
+| 434 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
+| 434 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
 | 451 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 451 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 451 | [Hue](games/h/hue.md) | 4.55 | 

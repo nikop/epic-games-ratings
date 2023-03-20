@@ -48,7 +48,7 @@
 | 46 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.70 | 
 | 47 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
 | 48 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 49 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
+| 49 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.56 | 
 | 50 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 
 | 51 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 52 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
@@ -174,7 +174,7 @@
 | 172 | [Days Gone](games/d/days_gone.md) | 4.69 | 
 | 173 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 
 | 174 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 175 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 
+| 175 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 176 | [Dead Space](games/d/dead_space.md) | 4.74 | 
 | 177 | [Death Coming](games/d/death_coming.md) | 4.44 | 
 | 178 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
@@ -238,7 +238,7 @@
 | 236 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 237 | [Faeria](games/f/faeria.md) | 4.45 | 
 | 238 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 239 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
+| 239 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 240 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 241 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.49 | 
 | 242 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.65 | 
