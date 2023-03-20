@@ -324,7 +324,7 @@
 | 322 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
 | 323 | [Haven](games/h/haven.md) | 4.75 | 
 | 324 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
-| 325 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
+| 325 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 326 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 
 | 327 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 328 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.37 | 
@@ -403,7 +403,7 @@
 | 401 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
 | 402 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 403 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.48 | 
-| 404 | [Knockout City™](games/k/knockout_city™.md) | 4.57 | 
+| 404 | [Knockout City™](games/k/knockout_city™.md) | 4.54 | 
 | 405 | [Lake](games/l/lake.md) | 4.03 | 
 | 406 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 407 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
@@ -592,7 +592,7 @@
 | 590 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 591 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 592 | [Sable](games/s/sable.md) | 4.51 | 
-| 593 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
+| 593 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 
 | 594 | [Sailing Era](games/s/sailing_era.md) | 4.77 | 
 | 595 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 596 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
@@ -865,7 +865,7 @@
 | 863 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 864 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 865 | [Windbound](games/w/windbound.md) | 4.18 | 
-| 866 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.29 | 
+| 866 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.21 | 
 | 867 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
 | 868 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
 | 869 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
