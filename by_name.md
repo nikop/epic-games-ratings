@@ -244,7 +244,7 @@
 | 242 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.65 | 
 | 243 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 244 | [Fangs](games/f/fangs.md) | 4.09 | 
-| 245 | [Far Cry](games/f/far_cry.md) | 4.50 | 
+| 245 | [Far Cry](games/f/far_cry.md) | 4.48 | 
 | 246 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 
 | 247 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 
 | 248 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
@@ -260,7 +260,7 @@
 | 258 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
 | 259 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 260 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
-| 261 | [Fez](games/f/fez.md) | 4.70 | 
+| 261 | [Fez](games/f/fez.md) | 4.71 | 
 | 262 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
 | 263 | [Figment](games/f/figment.md) | 4.46 | 
 | 264 | [Filament](games/f/filament.md) | 4.33 | 
@@ -432,7 +432,7 @@
 | 430 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
 | 431 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
 | 432 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 
-| 433 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
+| 433 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 
 | 434 | [Mago](games/m/mago.md) | 4.90 | 
 | 435 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 436 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
@@ -844,7 +844,7 @@
 | 842 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 843 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 844 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 845 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.17 | 
+| 845 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.18 | 
 | 846 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 847 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 848 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
