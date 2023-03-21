@@ -49,7 +49,7 @@
 | 47 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
 | 48 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 49 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.56 | 
-| 50 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 
+| 50 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 51 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 52 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
 | 53 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
@@ -275,7 +275,7 @@
 | 273 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 274 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 275 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
-| 276 | [Forspoken](games/f/forspoken.md) | 4.06 | 
+| 276 | [Forspoken](games/f/forspoken.md) | 4.07 | 
 | 277 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 278 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 279 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.70 | 
@@ -311,7 +311,7 @@
 | 309 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.11 | 
 | 310 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 311 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 
-| 312 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.62 | 
+| 312 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.61 | 
 | 313 | [Gravewood High](games/g/gravewood_high.md) | 3.97 | 
 | 314 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 315 | [GRIME](games/g/grime.md) | 4.62 | 
@@ -450,7 +450,7 @@
 | 448 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
 | 449 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.49 | 
 | 450 | [Minit](games/m/minit.md) | 4.56 | 
-| 451 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 
+| 451 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.92 | 
 | 452 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.75 | 
 | 453 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 454 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 

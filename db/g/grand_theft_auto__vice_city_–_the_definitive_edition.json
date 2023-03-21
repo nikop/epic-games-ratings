@@ -1,10 +1,10 @@
 {
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
-  "Rating": 4.62,
+  "Rating": 4.61,
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
-  "LastChanged": "2023-03-20T13:13:48.3241968+00:00",
+  "LastChanged": "2023-03-21T13:57:13.7952987+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-21T16:57:02.7003964+00:00",
@@ -124,6 +124,11 @@
     {
       "Time": "2023-03-20T13:13:48.324197+00:00",
       "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-21T13:57:13.795299+00:00",
+      "Rating": 4.61,
       "NumberOfRatings": null
     }
   ],
