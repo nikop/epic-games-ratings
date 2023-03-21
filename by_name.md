@@ -789,7 +789,7 @@
 | 787 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
 | 788 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 789 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.84 | 
-| 790 | [Torchlight](games/t/torchlight.md) | 4.35 | 
+| 790 | [Torchlight](games/t/torchlight.md) | 4.34 | 
 | 791 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 792 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 
 | 793 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.79 | 
