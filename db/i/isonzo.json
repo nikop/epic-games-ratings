@@ -1,11 +1,11 @@
 {
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
-  "Rating": 4.55,
+  "Rating": 4.56,
   "NumberOfRatings": 98,
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
-  "LastChanged": "2023-03-14T18:59:04.5046607+00:00",
+  "LastChanged": "2023-03-21T21:57:19.284942+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-15T19:30:41.9786444+00:00",
@@ -396,12 +396,17 @@
       "Time": "2023-03-14T18:59:04.5046608+00:00",
       "Rating": 4.55,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-21T21:57:19.2849422+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game is Extremely Fun",

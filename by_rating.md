@@ -441,6 +441,7 @@
 | 432 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
 | 432 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 
 | 432 | [Minit](games/m/minit.md) | 4.56 | 
+| 432 | [Isonzo](games/i/isonzo.md) | 4.56 | 
 | 432 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
 | 432 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
 | 432 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
@@ -450,24 +451,23 @@
 | 432 | [Brawlhalla](games/b/brawlhalla.md) | 4.56 | 
 | 432 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 
 | 432 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
-| 451 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
-| 451 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 451 | [Hue](games/h/hue.md) | 4.55 | 
-| 451 | [Outward](games/o/outward.md) | 4.55 | 
-| 451 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 451 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 451 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 
-| 451 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
-| 451 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.55 | 
-| 451 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 
-| 451 | [Isonzo](games/i/isonzo.md) | 4.55 | 
-| 451 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
-| 451 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
-| 451 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.55 | 
-| 451 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.55 | 
-| 451 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 
-| 451 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
-| 451 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.55 | 
+| 452 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
+| 452 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 452 | [Hue](games/h/hue.md) | 4.55 | 
+| 452 | [Outward](games/o/outward.md) | 4.55 | 
+| 452 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 452 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
+| 452 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 
+| 452 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
+| 452 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.55 | 
+| 452 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 
+| 452 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
+| 452 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
+| 452 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.55 | 
+| 452 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.55 | 
+| 452 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 
+| 452 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
+| 452 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.55 | 
 | 469 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 469 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 469 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 

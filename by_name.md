@@ -369,7 +369,7 @@
 | 367 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 368 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 
 | 369 | [Ironcast](games/i/ironcast.md) | 3.92 | 
-| 370 | [Isonzo](games/i/isonzo.md) | 4.55 | 
+| 370 | [Isonzo](games/i/isonzo.md) | 4.56 | 
 | 371 | [IXION](games/i/ixion.md) | 4.54 | 
 | 372 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 
 | 373 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
