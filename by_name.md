@@ -166,7 +166,7 @@
 | 164 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 165 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 166 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 167 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 167 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 168 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 
 | 169 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 170 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
@@ -312,7 +312,7 @@
 | 310 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 311 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.55 | 
 | 312 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.62 | 
-| 313 | [Gravewood High](games/g/gravewood_high.md) | 4.02 | 
+| 313 | [Gravewood High](games/g/gravewood_high.md) | 3.97 | 
 | 314 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 315 | [GRIME](games/g/grime.md) | 4.62 | 
 | 316 | [Grindstone](games/g/grindstone.md) | 4.84 | 
@@ -539,7 +539,7 @@
 | 537 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
 | 538 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 539 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 540 | [Predecessor](games/p/predecessor.md) | 4.45 | 
+| 540 | [Predecessor](games/p/predecessor.md) | 4.44 | 
 | 541 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.48 | 
 | 542 | [Prey](games/p/prey.md) | 4.62 | 
 | 543 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
@@ -567,7 +567,7 @@
 | 565 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 566 | [Returnal™](games/r/returnal™.md) | 4.66 | 
 | 567 | [Revita](games/r/revita.md) | 4.74 | 
-| 568 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 568 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 
 | 569 | [RiME](games/r/rime.md) | 4.58 | 
 | 570 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
 | 571 | [RimWorld](games/r/rimworld.md) | 4.89 | 
