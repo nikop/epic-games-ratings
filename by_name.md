@@ -556,7 +556,7 @@
 | 554 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 555 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 556 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 557 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
+| 557 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 
 | 558 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
 | 559 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.19 | 
 | 560 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
