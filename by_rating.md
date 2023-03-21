@@ -176,22 +176,22 @@
 | 170 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
 | 170 | [Northgard](games/n/northgard.md) | 4.72 | 
 | 170 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 170 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 
 | 170 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
-| 179 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
-| 179 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 179 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
-| 179 | [Barony](games/b/barony.md) | 4.71 | 
-| 179 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
-| 179 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 179 | [Townscaper](games/t/townscaper.md) | 4.71 | 
-| 179 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
-| 179 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 
-| 179 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 
-| 179 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
-| 179 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
-| 179 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.71 | 
-| 179 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
+| 178 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
+| 178 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 178 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
+| 178 | [Barony](games/b/barony.md) | 4.71 | 
+| 178 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
+| 178 | [FUSER™](games/f/fuser™.md) | 4.71 | 
+| 178 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 
+| 178 | [Townscaper](games/t/townscaper.md) | 4.71 | 
+| 178 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
+| 178 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 
+| 178 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 
+| 178 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
+| 178 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
+| 178 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.71 | 
+| 178 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
 | 193 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
 | 193 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
 | 193 | [For The King](games/f/for_the_king.md) | 4.70 | 
