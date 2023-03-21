@@ -212,7 +212,7 @@
 | 210 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 211 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 
 | 212 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 213 | [Duskers](games/d/duskers.md) | 4.41 | 
+| 213 | [Duskers](games/d/duskers.md) | 4.42 | 
 | 214 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 215 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 
 | 216 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
@@ -240,7 +240,7 @@
 | 238 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 239 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 
 | 240 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
-| 241 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.49 | 
+| 241 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
 | 242 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.65 | 
 | 243 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 244 | [Fangs](games/f/fangs.md) | 4.09 | 
@@ -432,7 +432,7 @@
 | 430 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
 | 431 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
 | 432 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 
-| 433 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 
+| 433 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 434 | [Mago](games/m/mago.md) | 4.90 | 
 | 435 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 436 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 

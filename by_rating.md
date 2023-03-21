@@ -535,23 +535,23 @@
 | 520 | [Far Cry](games/f/far_cry.md) | 4.50 | 
 | 520 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 520 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 
-| 536 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 536 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 536 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 536 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 536 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 536 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
-| 536 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 
-| 536 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.49 | 
-| 536 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
-| 536 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
-| 536 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 536 | [CryoFall](games/c/cryofall.md) | 4.49 | 
-| 536 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 536 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.49 | 
-| 536 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
-| 536 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
-| 536 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
+| 520 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
+| 537 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 537 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 537 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 537 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 537 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 537 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 537 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 
+| 537 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.49 | 
+| 537 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
+| 537 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
+| 537 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 537 | [CryoFall](games/c/cryofall.md) | 4.49 | 
+| 537 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 537 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 537 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
+| 537 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
 | 553 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 553 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
 | 553 | [Paradigm](games/p/paradigm.md) | 4.48 | 
@@ -575,6 +575,7 @@
 | 568 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
 | 568 | [The Surge](games/t/the_surge.md) | 4.47 | 
 | 568 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
+| 576 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 
 | 576 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 576 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 576 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
@@ -589,19 +590,18 @@
 | 576 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 576 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.46 | 
 | 576 | [STG Football](games/s/stg_football.md) | 4.46 | 
-| 590 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 
-| 590 | [SMITE](games/s/smite.md) | 4.45 | 
-| 590 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
-| 590 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 590 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
-| 590 | [Pathway](games/p/pathway.md) | 4.45 | 
-| 590 | [Faeria](games/f/faeria.md) | 4.45 | 
-| 590 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
-| 590 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
-| 590 | [Weird West](games/w/weird_west.md) | 4.45 | 
-| 590 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
-| 590 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
-| 590 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
+| 591 | [SMITE](games/s/smite.md) | 4.45 | 
+| 591 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 
+| 591 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
+| 591 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 
+| 591 | [Pathway](games/p/pathway.md) | 4.45 | 
+| 591 | [Faeria](games/f/faeria.md) | 4.45 | 
+| 591 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 
+| 591 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 
+| 591 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 591 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
+| 591 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
+| 591 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 603 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
 | 603 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
 | 603 | [The Captain](games/t/the_captain.md) | 4.44 | 
@@ -636,19 +636,19 @@
 | 629 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 629 | [ELEX](games/e/elex.md) | 4.42 | 
 | 629 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
-| 637 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
-| 637 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
-| 637 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
-| 637 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
-| 637 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
-| 637 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
-| 637 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
-| 637 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
-| 637 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
-| 637 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
-| 637 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
-| 637 | [Duskers](games/d/duskers.md) | 4.41 | 
-| 637 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
+| 629 | [Duskers](games/d/duskers.md) | 4.42 | 
+| 638 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
+| 638 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
+| 638 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
+| 638 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 
+| 638 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
+| 638 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 
+| 638 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
+| 638 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 
+| 638 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
+| 638 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
+| 638 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 638 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
 | 650 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 650 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 650 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
