@@ -67,7 +67,7 @@
 | 65 | [Aztez](games/a/aztez.md) | 4.53 | 
 | 66 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
 | 67 | [Backbone](games/b/backbone.md) | 4.33 | 
-| 68 | [Bad North](games/b/bad_north.md) | 4.69 | 
+| 68 | [Bad North](games/b/bad_north.md) | 4.68 | 
 | 69 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 
 | 70 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.91 | 
 | 71 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
@@ -310,7 +310,7 @@
 | 308 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 309 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.11 | 
 | 310 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 311 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.55 | 
+| 311 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 
 | 312 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.62 | 
 | 313 | [Gravewood High](games/g/gravewood_high.md) | 3.97 | 
 | 314 | [Griftlands](games/g/griftlands.md) | 4.81 | 
@@ -517,7 +517,7 @@
 | 515 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.61 | 
 | 516 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 517 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 
-| 518 | [Parkitect](games/p/parkitect.md) | 4.32 | 
+| 518 | [Parkitect](games/p/parkitect.md) | 4.34 | 
 | 519 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 520 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
 | 521 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
