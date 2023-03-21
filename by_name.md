@@ -464,7 +464,7 @@
 | 462 | [Mutazione](games/m/mutazione.md) | 4.63 | 
 | 463 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
 | 464 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 465 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.67 | 
+| 465 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
 | 466 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 467 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
 | 468 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
