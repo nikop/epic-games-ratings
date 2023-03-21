@@ -618,16 +618,16 @@
 | 602 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
 | 602 | [Predecessor](games/p/predecessor.md) | 4.44 | 
 | 602 | [Redout 2](games/r/redout_2.md) | 4.44 | 
-| 619 | [Sheltered](games/s/sheltered.md) | 4.43 | 
-| 619 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 619 | [Absolute Drift](games/a/absolute_drift.md) | 4.43 | 
-| 619 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
-| 619 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
-| 619 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
-| 619 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
-| 619 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
-| 619 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
-| 619 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 
+| 602 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 
+| 620 | [Sheltered](games/s/sheltered.md) | 4.43 | 
+| 620 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 620 | [Absolute Drift](games/a/absolute_drift.md) | 4.43 | 
+| 620 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
+| 620 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
+| 620 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
+| 620 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
+| 620 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
+| 620 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 629 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 629 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 629 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
