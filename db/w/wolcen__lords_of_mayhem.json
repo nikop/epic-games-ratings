@@ -1,10 +1,10 @@
 {
   "ID": "2bdb46067adb434898ea22a33fa4439a",
   "Name": "Wolcen: Lords of Mayhem",
-  "Rating": 4.21,
+  "Rating": 4.23,
   "FirstSeen": "2023-02-24T02:11:47.1647682+00:00",
   "FirstSeenRating": "2023-03-12T02:14:41.9509568+00:00",
-  "LastChanged": "2023-03-20T11:57:55.44345+00:00",
+  "LastChanged": "2023-03-21T11:57:44.4462253+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-12T02:14:41.950957+00:00",
@@ -34,6 +34,11 @@
     {
       "Time": "2023-03-20T11:57:55.4434505+00:00",
       "Rating": 4.21,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-21T11:57:44.4462254+00:00",
+      "Rating": 4.23,
       "NumberOfRatings": null
     }
   ],

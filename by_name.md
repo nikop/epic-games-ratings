@@ -558,7 +558,7 @@
 | 556 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 557 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 
 | 558 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
-| 559 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.18 | 
+| 559 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.19 | 
 | 560 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 561 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 562 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
@@ -865,7 +865,7 @@
 | 863 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 864 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 865 | [Windbound](games/w/windbound.md) | 4.18 | 
-| 866 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.21 | 
+| 866 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.23 | 
 | 867 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
 | 868 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
 | 869 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
