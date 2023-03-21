@@ -727,19 +727,19 @@
 | 723 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 
 | 723 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
 | 727 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 727 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 727 | [House Party](games/h/house_party.md) | 4.31 | 
 | 727 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
 | 727 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.31 | 
 | 727 | [Dark Light](games/d/dark_light.md) | 4.31 | 
-| 733 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 733 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 733 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 733 | [War Mongrels](games/w/war_mongrels.md) | 4.30 | 
-| 733 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
-| 733 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
-| 733 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.30 | 
-| 733 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
+| 732 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 732 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 732 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
+| 732 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
+| 732 | [War Mongrels](games/w/war_mongrels.md) | 4.30 | 
+| 732 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
+| 732 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
+| 732 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.30 | 
+| 732 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
 | 741 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 741 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 741 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 

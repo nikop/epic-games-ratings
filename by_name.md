@@ -697,7 +697,7 @@
 | 695 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 696 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 697 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 698 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
+| 698 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
 | 699 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 700 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 701 | [Tacoma](games/t/tacoma.md) | 4.39 | 
