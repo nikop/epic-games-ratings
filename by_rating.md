@@ -34,18 +34,18 @@
 | 32 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 
 | 32 | [Inscryption](games/i/inscryption.md) | 4.86 | 
 | 32 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
-| 32 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 
 | 32 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 32 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 
 | 32 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
-| 39 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
-| 39 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 39 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
-| 39 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
-| 39 | [TUNIC](games/t/tunic.md) | 4.85 | 
-| 39 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 
-| 39 | [Huntdown](games/h/huntdown.md) | 4.85 | 
-| 39 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 
+| 38 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
+| 38 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
+| 38 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
+| 38 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
+| 38 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
+| 38 | [TUNIC](games/t/tunic.md) | 4.85 | 
+| 38 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 
+| 38 | [Huntdown](games/h/huntdown.md) | 4.85 | 
+| 38 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 
 | 47 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 47 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 47 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.84 | 

@@ -104,7 +104,7 @@
 | 102 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 103 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
 | 104 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
-| 105 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 
+| 105 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
 | 106 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
 | 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.34 | 
 | 108 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
