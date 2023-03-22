@@ -522,7 +522,6 @@
 | 511 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 521 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 521 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 521 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
 | 521 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
 | 521 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 
 | 521 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
@@ -535,22 +534,23 @@
 | 521 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 521 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 
 | 521 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
-| 536 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 536 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 536 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 536 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 536 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 536 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
-| 536 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 
-| 536 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
-| 536 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
-| 536 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 536 | [CryoFall](games/c/cryofall.md) | 4.49 | 
-| 536 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 
-| 536 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 536 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
-| 536 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
-| 536 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
+| 535 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 535 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 535 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
+| 535 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 535 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 535 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 535 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 535 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 
+| 535 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
+| 535 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
+| 535 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 535 | [CryoFall](games/c/cryofall.md) | 4.49 | 
+| 535 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 
+| 535 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 535 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 535 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
+| 535 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
 | 552 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 552 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
 | 552 | [Paradigm](games/p/paradigm.md) | 4.48 | 
@@ -722,10 +722,10 @@
 | 715 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
 | 715 | [Filament](games/f/filament.md) | 4.33 | 
 | 715 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
-| 723 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 723 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
-| 723 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 
-| 723 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 
+| 715 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 
+| 724 | [Vampyr](games/v/vampyr.md) | 4.32 | 
+| 724 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
+| 724 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 
 | 727 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 727 | [House Party](games/h/house_party.md) | 4.31 | 
 | 727 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
@@ -779,12 +779,12 @@
 | 777 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
 | 777 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
 | 777 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
-| 780 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
-| 780 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 780 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.21 | 
-| 780 | [Starsand](games/s/starsand.md) | 4.21 | 
-| 780 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
-| 780 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
+| 777 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
+| 781 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
+| 781 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 781 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.21 | 
+| 781 | [Starsand](games/s/starsand.md) | 4.21 | 
+| 781 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
 | 786 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
 | 786 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 786 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
