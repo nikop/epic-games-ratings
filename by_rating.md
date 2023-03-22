@@ -764,18 +764,18 @@
 | 760 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
 | 760 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 
 | 760 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
+| 765 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.24 | 
 | 765 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 765 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 765 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
 | 765 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.24 | 
 | 765 | [Rise of Industry](games/r/rise_of_industry.md) | 4.24 | 
-| 770 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 770 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
-| 770 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 770 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 770 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.23 | 
-| 770 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
-| 770 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.23 | 
+| 771 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
+| 771 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
+| 771 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
+| 771 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.23 | 
+| 771 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
+| 771 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.23 | 
 | 777 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
 | 777 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
 | 777 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
