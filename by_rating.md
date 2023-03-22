@@ -549,24 +549,24 @@
 | 536 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 
 | 536 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 536 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
-| 536 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 
 | 536 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
 | 536 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
-| 553 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 553 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
-| 553 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 553 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
-| 553 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
-| 553 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
-| 553 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.48 | 
-| 553 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
-| 553 | [Chorus](games/c/chorus.md) | 4.48 | 
-| 553 | [Far Cry](games/f/far_cry.md) | 4.48 | 
-| 553 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.48 | 
-| 553 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 
-| 553 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.48 | 
-| 553 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
-| 553 | [Scorn](games/s/scorn.md) | 4.48 | 
+| 552 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 552 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
+| 552 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 552 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
+| 552 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
+| 552 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
+| 552 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.48 | 
+| 552 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
+| 552 | [Chorus](games/c/chorus.md) | 4.48 | 
+| 552 | [Far Cry](games/f/far_cry.md) | 4.48 | 
+| 552 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.48 | 
+| 552 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 
+| 552 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 
+| 552 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.48 | 
+| 552 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
+| 552 | [Scorn](games/s/scorn.md) | 4.48 | 
 | 568 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 568 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 568 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
@@ -780,19 +780,19 @@
 | 777 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
 | 777 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
 | 780 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
-| 780 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 
 | 780 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 780 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.21 | 
 | 780 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 780 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.21 | 
 | 780 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
 | 786 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
+| 786 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 786 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
 | 786 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
 | 786 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 786 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
 | 786 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
 | 786 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
-| 786 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.20 | 
 | 786 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
 | 786 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
 | 786 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | 
