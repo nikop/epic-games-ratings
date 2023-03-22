@@ -49,7 +49,7 @@
 | 47 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
 | 48 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 49 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.56 | 
-| 50 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
+| 50 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 
 | 51 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 52 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
 | 53 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
@@ -225,7 +225,7 @@
 | 223 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 224 | [Encased](games/e/encased.md) | 4.37 | 
 | 225 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 226 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 
+| 226 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 
 | 227 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 228 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 229 | [Everything](games/e/everything.md) | 4.57 | 
@@ -252,7 +252,7 @@
 | 250 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
 | 251 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
 | 252 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
-| 253 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 
+| 253 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
 | 254 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
 | 255 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 
 | 256 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 
@@ -844,7 +844,7 @@
 | 842 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 843 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 844 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 845 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.19 | 
+| 845 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.20 | 
 | 846 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 847 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 848 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
