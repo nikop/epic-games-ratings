@@ -299,23 +299,23 @@
 | 288 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 288 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
 | 288 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 288 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.65 | 
 | 288 | [APE OUT](games/a/ape_out.md) | 4.65 | 
 | 288 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 288 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
 | 288 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.65 | 
 | 288 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.65 | 
-| 305 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 305 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 305 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 305 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 305 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
-| 305 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 305 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.64 | 
-| 305 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
-| 305 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.64 | 
-| 305 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
-| 305 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
-| 305 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
+| 306 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 306 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 306 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 306 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 306 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
+| 306 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 306 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
+| 306 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.64 | 
+| 306 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
+| 306 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
+| 306 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
 | 317 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 317 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 317 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
@@ -714,7 +714,6 @@
 | 704 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 704 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.34 | 
 | 704 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.34 | 
-| 715 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 715 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 715 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 715 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 
@@ -723,9 +722,10 @@
 | 715 | [Filament](games/f/filament.md) | 4.33 | 
 | 715 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
 | 715 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 
-| 724 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 724 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
-| 724 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 
+| 723 | [Vampyr](games/v/vampyr.md) | 4.32 | 
+| 723 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 
+| 723 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
+| 723 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 
 | 727 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 727 | [House Party](games/h/house_party.md) | 4.31 | 
 | 727 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
