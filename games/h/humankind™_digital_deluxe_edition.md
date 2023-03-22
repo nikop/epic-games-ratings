@@ -1,5 +1,5 @@
 # HUMANKIND™ Digital Deluxe Edition
-Rating: 4.50 (609)  (as of 23.09.2022)  
+Rating: 4.51 (609)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -83,3 +83,4 @@ Rating: 4.50 (609)  (as of 23.09.2022)
 | 2023-02-14 | 4.50 | - |
 | 2023-02-16 | 4.51 | - |
 | 2023-03-08 | 4.50 | - |
+| 2023-03-22 | 4.51 | - |
