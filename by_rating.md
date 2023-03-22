@@ -549,24 +549,24 @@
 | 536 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 536 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 536 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 536 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 
 | 536 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
 | 536 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
-| 552 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 552 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
-| 552 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 552 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
-| 552 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
-| 552 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
-| 552 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
-| 552 | [Chorus](games/c/chorus.md) | 4.48 | 
-| 552 | [Far Cry](games/f/far_cry.md) | 4.48 | 
-| 552 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.48 | 
-| 552 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 
-| 552 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 
-| 552 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 
-| 552 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.48 | 
-| 552 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
-| 552 | [Scorn](games/s/scorn.md) | 4.48 | 
+| 553 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 553 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
+| 553 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 553 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
+| 553 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
+| 553 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
+| 553 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
+| 553 | [Chorus](games/c/chorus.md) | 4.48 | 
+| 553 | [Far Cry](games/f/far_cry.md) | 4.48 | 
+| 553 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.48 | 
+| 553 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 
+| 553 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 
+| 553 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.48 | 
+| 553 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
+| 553 | [Scorn](games/s/scorn.md) | 4.48 | 
 | 568 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 568 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 568 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
