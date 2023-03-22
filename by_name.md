@@ -57,7 +57,7 @@
 | 55 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
 | 56 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
 | 57 | [ATOM RPG](games/a/atom_rpg.md) | 4.44 | 
-| 58 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.46 | 
+| 58 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.47 | 
 | 59 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 60 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
 | 61 | [Automachef](games/a/automachef.md) | 4.34 | 
@@ -167,7 +167,7 @@
 | 165 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 166 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 167 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
-| 168 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 
+| 168 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.61 | 
 | 169 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 170 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
 | 171 | [Dauntless](games/d/dauntless.md) | 4.53 | 
@@ -325,7 +325,7 @@
 | 323 | [Haven](games/h/haven.md) | 4.75 | 
 | 324 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 325 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
-| 326 | [Hell is Others](games/h/hell_is_others.md) | 4.38 | 
+| 326 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 
 | 327 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 328 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.37 | 
 | 329 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
@@ -389,7 +389,7 @@
 | 387 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 388 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 389 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 
-| 390 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
+| 390 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 
 | 391 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
 | 392 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
 | 393 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
@@ -448,7 +448,7 @@
 | 446 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
 | 447 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 448 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
-| 449 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.49 | 
+| 449 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.48 | 
 | 450 | [Minit](games/m/minit.md) | 4.56 | 
 | 451 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.92 | 
 | 452 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.75 | 
