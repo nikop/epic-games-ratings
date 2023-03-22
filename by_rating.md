@@ -299,23 +299,23 @@
 | 288 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 288 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
 | 288 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 288 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.65 | 
 | 288 | [APE OUT](games/a/ape_out.md) | 4.65 | 
 | 288 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 288 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
 | 288 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.65 | 
 | 288 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.65 | 
-| 305 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 305 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 305 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 305 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 305 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
-| 305 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 305 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.64 | 
-| 305 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
-| 305 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.64 | 
-| 305 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
-| 305 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
-| 305 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
+| 306 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 306 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 306 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 306 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 306 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
+| 306 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 306 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
+| 306 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.64 | 
+| 306 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
+| 306 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
+| 306 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
 | 317 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 317 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 317 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
@@ -555,7 +555,6 @@
 | 552 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
 | 552 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 552 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
-| 552 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 
 | 552 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
 | 552 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.48 | 
 | 552 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
@@ -567,15 +566,16 @@
 | 552 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.48 | 
 | 552 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
 | 552 | [Scorn](games/s/scorn.md) | 4.48 | 
-| 568 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
-| 568 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
-| 568 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
-| 568 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
-| 568 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
-| 568 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
-| 568 | [The Surge](games/t/the_surge.md) | 4.47 | 
-| 568 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
-| 568 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.47 | 
+| 567 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 567 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
+| 567 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
+| 567 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
+| 567 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
+| 567 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
+| 567 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
+| 567 | [The Surge](games/t/the_surge.md) | 4.47 | 
+| 567 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
+| 567 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.47 | 
 | 577 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 577 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 577 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
