@@ -384,7 +384,7 @@
 | 382 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 383 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
 | 384 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 385 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.09 | 
+| 385 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.10 | 
 | 386 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 387 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 388 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
