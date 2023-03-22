@@ -874,7 +874,7 @@
 | 872 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 872 | [Conarium](games/c/conarium.md) | 3.91 | 
 | 872 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
-| 872 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.91 | 
+| 875 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.89 | 
 | 876 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 877 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.79 | 
 | 878 | [Saints Row](games/s/saints_row.md) | 3.78 | 
