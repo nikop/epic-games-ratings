@@ -49,16 +49,16 @@
 | 47 | [Subnautica](games/s/subnautica.md) | 4.84 | 
 | 47 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 
 | 47 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.84 | 
-| 47 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 47 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 
 | 47 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 
 | 47 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
 | 47 | [Grindstone](games/g/grindstone.md) | 4.84 | 
-| 55 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
-| 55 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 
-| 55 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
-| 55 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.83 | 
-| 55 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 
+| 54 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
+| 54 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
+| 54 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 
+| 54 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
+| 54 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.83 | 
+| 54 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 
 | 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 60 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 60 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
@@ -268,25 +268,25 @@
 | 255 | [Card Shark](games/c/card_shark.md) | 4.67 | 
 | 255 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.67 | 
 | 255 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 
-| 269 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
-| 269 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 269 | [Trackmania](games/t/trackmania.md) | 4.66 | 
-| 269 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 269 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 269 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
-| 269 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
-| 269 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
-| 269 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 269 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
-| 269 | [Death's Door](games/d/death's_door.md) | 4.66 | 
-| 269 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
-| 269 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
-| 269 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
-| 269 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
-| 269 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 269 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
-| 269 | [Returnal™](games/r/returnal™.md) | 4.66 | 
-| 269 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.66 | 
+| 255 | [Returnal™](games/r/returnal™.md) | 4.67 | 
+| 270 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
+| 270 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
+| 270 | [Trackmania](games/t/trackmania.md) | 4.66 | 
+| 270 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 270 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
+| 270 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 270 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
+| 270 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 270 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 270 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
+| 270 | [Death's Door](games/d/death's_door.md) | 4.66 | 
+| 270 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
+| 270 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
+| 270 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
+| 270 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
+| 270 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 270 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
+| 270 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.66 | 
 | 288 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 288 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 288 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
@@ -825,10 +825,10 @@
 | 823 | [Train Valley 2](games/t/train_valley_2.md) | 4.14 | 
 | 824 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
 | 824 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
-| 826 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
-| 826 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
-| 826 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
-| 826 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.11 | 
+| 826 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.12 | 
+| 827 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
+| 827 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
+| 827 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
 | 830 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
 | 830 | [Obduction](games/o/obduction.md) | 4.10 | 
 | 830 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 

@@ -308,7 +308,7 @@
 | 306 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 307 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
 | 308 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 309 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.11 | 
+| 309 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.12 | 
 | 310 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 311 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 
 | 312 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.61 | 
@@ -512,7 +512,7 @@
 | 510 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
 | 511 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
 | 512 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 
-| 513 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
+| 513 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
 | 514 | [Paladins](games/p/paladins.md) | 4.36 | 
 | 515 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.61 | 
 | 516 | [Paradigm](games/p/paradigm.md) | 4.48 | 
@@ -565,7 +565,7 @@
 | 563 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 564 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
 | 565 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 566 | [Returnal™](games/r/returnal™.md) | 4.66 | 
+| 566 | [Returnal™](games/r/returnal™.md) | 4.67 | 
 | 567 | [Revita](games/r/revita.md) | 4.74 | 
 | 568 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 
 | 569 | [RiME](games/r/rime.md) | 4.58 | 
