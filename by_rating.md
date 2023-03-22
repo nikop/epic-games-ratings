@@ -549,23 +549,23 @@
 | 535 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 
 | 535 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 535 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 535 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 
 | 535 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
 | 535 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
-| 552 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 552 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
-| 552 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 552 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
-| 552 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
-| 552 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.48 | 
-| 552 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
-| 552 | [Chorus](games/c/chorus.md) | 4.48 | 
-| 552 | [Far Cry](games/f/far_cry.md) | 4.48 | 
-| 552 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.48 | 
-| 552 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 
-| 552 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 
-| 552 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.48 | 
-| 552 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
-| 552 | [Scorn](games/s/scorn.md) | 4.48 | 
+| 553 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 553 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
+| 553 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 553 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
+| 553 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
+| 553 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.48 | 
+| 553 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
+| 553 | [Chorus](games/c/chorus.md) | 4.48 | 
+| 553 | [Far Cry](games/f/far_cry.md) | 4.48 | 
+| 553 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.48 | 
+| 553 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 
+| 553 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.48 | 
+| 553 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
+| 553 | [Scorn](games/s/scorn.md) | 4.48 | 
 | 567 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 567 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 567 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
@@ -764,18 +764,18 @@
 | 760 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
 | 760 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 
 | 760 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
-| 765 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.24 | 
 | 765 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 765 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 765 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
 | 765 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.24 | 
 | 765 | [Rise of Industry](games/r/rise_of_industry.md) | 4.24 | 
-| 771 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
-| 771 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 771 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 771 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.23 | 
-| 771 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
-| 771 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.23 | 
+| 770 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 770 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
+| 770 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
+| 770 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
+| 770 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.23 | 
+| 770 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
+| 770 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.23 | 
 | 777 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
 | 777 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
 | 777 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 

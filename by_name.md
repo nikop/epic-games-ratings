@@ -332,7 +332,7 @@
 | 330 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 331 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
 | 332 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
-| 333 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.24 | 
+| 333 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 334 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 335 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.90 | 
 | 336 | [High On Life](games/h/high_on_life.md) | 4.69 | 
@@ -340,7 +340,7 @@
 | 338 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 339 | [Hob](games/h/hob.md) | 4.57 | 
 | 340 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 
-| 341 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 
+| 341 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 
 | 342 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 343 | [Horace](games/h/horace.md) | 4.51 | 
 | 344 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
