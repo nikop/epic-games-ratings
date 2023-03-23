@@ -312,22 +312,22 @@
 | 307 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 307 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 307 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
+| 307 | [Mutazione](games/m/mutazione.md) | 4.64 | 
 | 307 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.64 | 
 | 307 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
 | 307 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
 | 307 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
-| 317 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 317 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 317 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 317 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.63 | 
-| 317 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 317 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
-| 317 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 317 | [Mutazione](games/m/mutazione.md) | 4.63 | 
-| 317 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
-| 317 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
-| 317 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 
-| 317 | [GigaBash](games/g/gigabash.md) | 4.63 | 
+| 318 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 318 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 318 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 318 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.63 | 
+| 318 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 318 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
+| 318 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
+| 318 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
+| 318 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
+| 318 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 
+| 318 | [GigaBash](games/g/gigabash.md) | 4.63 | 
 | 329 | [Prey](games/p/prey.md) | 4.62 | 
 | 329 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 329 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
@@ -480,47 +480,47 @@
 | 469 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
 | 469 | [IXION](games/i/ixion.md) | 4.54 | 
 | 469 | [Knockout City™](games/k/knockout_city™.md) | 4.54 | 
-| 469 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.54 | 
 | 469 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 483 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 483 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 483 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 483 | [Verdun](games/v/verdun.md) | 4.53 | 
-| 483 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
-| 483 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 
-| 483 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 483 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 483 | [RUINER](games/r/ruiner.md) | 4.53 | 
-| 483 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 483 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
-| 483 | [Aztez](games/a/aztez.md) | 4.53 | 
-| 483 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 496 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
-| 496 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 496 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 496 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 496 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 496 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 496 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
-| 496 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 496 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 496 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
-| 496 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 496 | [UnMetal](games/u/unmetal.md) | 4.52 | 
-| 496 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 496 | [First Class Trouble](games/f/first_class_trouble.md) | 4.52 | 
-| 496 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 511 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 511 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 
-| 511 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 511 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 511 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 511 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 511 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 511 | [Horace](games/h/horace.md) | 4.51 | 
-| 511 | [Sable](games/s/sable.md) | 4.51 | 
-| 511 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
-| 511 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
+| 482 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
+| 482 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 482 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 482 | [Verdun](games/v/verdun.md) | 4.53 | 
+| 482 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
+| 482 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 
+| 482 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
+| 482 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 482 | [RUINER](games/r/ruiner.md) | 4.53 | 
+| 482 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 482 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
+| 482 | [Aztez](games/a/aztez.md) | 4.53 | 
+| 482 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
+| 495 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
+| 495 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 495 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 495 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 495 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 495 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 495 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
+| 495 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 495 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 495 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 495 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 495 | [UnMetal](games/u/unmetal.md) | 4.52 | 
+| 495 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 495 | [First Class Trouble](games/f/first_class_trouble.md) | 4.52 | 
+| 495 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 510 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 510 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 
+| 510 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 510 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 510 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 510 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 510 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 510 | [Horace](games/h/horace.md) | 4.51 | 
+| 510 | [Sable](games/s/sable.md) | 4.51 | 
+| 510 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
+| 510 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
+| 510 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.51 | 
 | 522 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 522 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 522 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 

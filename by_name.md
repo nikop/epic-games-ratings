@@ -427,7 +427,7 @@
 | 425 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 426 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
 | 427 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
-| 428 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.54 | 
+| 428 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.51 | 
 | 429 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 430 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
 | 431 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
@@ -461,7 +461,7 @@
 | 459 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
 | 460 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
 | 461 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 462 | [Mutazione](games/m/mutazione.md) | 4.63 | 
+| 462 | [Mutazione](games/m/mutazione.md) | 4.64 | 
 | 463 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
 | 464 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 465 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
