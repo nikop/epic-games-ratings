@@ -602,23 +602,23 @@
 | 590 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
 | 590 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
 | 590 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
-| 603 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
-| 603 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 603 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 603 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 603 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
-| 603 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
-| 603 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
-| 603 | [Death Coming](games/d/death_coming.md) | 4.44 | 
-| 603 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
-| 603 | [ATOM RPG](games/a/atom_rpg.md) | 4.44 | 
-| 603 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 
-| 603 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
-| 603 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
-| 603 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
-| 603 | [Predecessor](games/p/predecessor.md) | 4.44 | 
-| 603 | [Redout 2](games/r/redout_2.md) | 4.44 | 
-| 603 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 
+| 590 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 
+| 604 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
+| 604 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 604 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 604 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 604 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
+| 604 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
+| 604 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 604 | [Death Coming](games/d/death_coming.md) | 4.44 | 
+| 604 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 604 | [ATOM RPG](games/a/atom_rpg.md) | 4.44 | 
+| 604 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 
+| 604 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
+| 604 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
+| 604 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
+| 604 | [Predecessor](games/p/predecessor.md) | 4.44 | 
+| 604 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 620 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 620 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 620 | [Absolute Drift](games/a/absolute_drift.md) | 4.43 | 
