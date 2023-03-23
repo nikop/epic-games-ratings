@@ -45,7 +45,7 @@
 | 43 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
 | 44 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
 | 45 | [Ashen](games/a/ashen.md) | 4.34 | 
-| 46 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.70 | 
+| 46 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.67 | 
 | 47 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
 | 48 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 49 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.56 | 
@@ -513,7 +513,7 @@
 | 511 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
 | 512 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 
 | 513 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
-| 514 | [Paladins](games/p/paladins.md) | 4.36 | 
+| 514 | [Paladins](games/p/paladins.md) | 4.35 | 
 | 515 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.61 | 
 | 516 | [Paradigm](games/p/paradigm.md) | 4.48 | 
 | 517 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 
