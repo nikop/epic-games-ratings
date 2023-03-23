@@ -331,7 +331,7 @@
 | 329 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
 | 330 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 331 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
-| 332 | [Hero's Hour](games/h/hero's_hour.md) | 4.38 | 
+| 332 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 
 | 333 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.24 | 
 | 334 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 335 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.90 | 
