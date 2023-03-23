@@ -549,23 +549,23 @@
 | 535 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 
 | 535 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 535 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 535 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 
 | 535 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
 | 535 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
-| 552 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 552 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
-| 552 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 552 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
-| 552 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
-| 552 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.48 | 
-| 552 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
-| 552 | [Chorus](games/c/chorus.md) | 4.48 | 
-| 552 | [Far Cry](games/f/far_cry.md) | 4.48 | 
-| 552 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.48 | 
-| 552 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 
-| 552 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 
-| 552 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.48 | 
-| 552 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
-| 552 | [Scorn](games/s/scorn.md) | 4.48 | 
+| 553 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 553 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
+| 553 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 553 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
+| 553 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
+| 553 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.48 | 
+| 553 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
+| 553 | [Chorus](games/c/chorus.md) | 4.48 | 
+| 553 | [Far Cry](games/f/far_cry.md) | 4.48 | 
+| 553 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.48 | 
+| 553 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 
+| 553 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.48 | 
+| 553 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
+| 553 | [Scorn](games/s/scorn.md) | 4.48 | 
 | 567 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 567 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 567 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
@@ -712,16 +712,16 @@
 | 704 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 
 | 704 | [Parkitect](games/p/parkitect.md) | 4.34 | 
 | 704 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
-| 704 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.34 | 
 | 704 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.34 | 
-| 715 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
-| 715 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
-| 715 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 
-| 715 | [Backbone](games/b/backbone.md) | 4.33 | 
-| 715 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
-| 715 | [Filament](games/f/filament.md) | 4.33 | 
-| 715 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
-| 715 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 
+| 714 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
+| 714 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
+| 714 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 
+| 714 | [Backbone](games/b/backbone.md) | 4.33 | 
+| 714 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
+| 714 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
+| 714 | [Filament](games/f/filament.md) | 4.33 | 
+| 714 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
+| 714 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 
 | 723 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 723 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 
 | 723 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 

@@ -106,7 +106,7 @@
 | 104 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 105 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
 | 106 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
-| 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.34 | 
+| 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
 | 108 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
 | 109 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 110 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
@@ -340,7 +340,7 @@
 | 338 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 339 | [Hob](games/h/hob.md) | 4.57 | 
 | 340 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 
-| 341 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 
+| 341 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 
 | 342 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 343 | [Horace](games/h/horace.md) | 4.51 | 
 | 344 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
