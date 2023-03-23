@@ -294,6 +294,7 @@
 | 287 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 287 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
 | 287 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 287 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 287 | [SOMA](games/s/soma.md) | 4.65 | 
 | 287 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 287 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
@@ -305,17 +306,16 @@
 | 287 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
 | 287 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.65 | 
 | 287 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.65 | 
-| 306 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 306 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 306 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 306 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 306 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
-| 306 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 306 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
-| 306 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.64 | 
-| 306 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
-| 306 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
-| 306 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
+| 307 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 307 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 307 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 307 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 307 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 307 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
+| 307 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.64 | 
+| 307 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
+| 307 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
+| 307 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
 | 317 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 317 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 317 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
@@ -414,24 +414,24 @@
 | 399 | [RiME](games/r/rime.md) | 4.58 | 
 | 399 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 399 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
+| 399 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.58 | 
 | 399 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
 | 399 | [The Medium](games/t/the_medium.md) | 4.58 | 
-| 417 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 417 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 417 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 
-| 417 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
-| 417 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
-| 417 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 417 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
-| 417 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 417 | [Hob](games/h/hob.md) | 4.57 | 
-| 417 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
-| 417 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
-| 417 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
-| 417 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 
-| 417 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
-| 417 | [Everything](games/e/everything.md) | 4.57 | 
-| 417 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.57 | 
+| 418 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 418 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 418 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 
+| 418 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
+| 418 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
+| 418 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
+| 418 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
+| 418 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 418 | [Hob](games/h/hob.md) | 4.57 | 
+| 418 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
+| 418 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
+| 418 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
+| 418 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 
+| 418 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
+| 418 | [Everything](games/e/everything.md) | 4.57 | 
 | 433 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
 | 433 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 433 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 

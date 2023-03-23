@@ -310,7 +310,7 @@
 | 308 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 309 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.13 | 
 | 310 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 311 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.57 | 
+| 311 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.58 | 
 | 312 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.61 | 
 | 313 | [Gravewood High](games/g/gravewood_high.md) | 3.97 | 
 | 314 | [Griftlands](games/g/griftlands.md) | 4.81 | 
@@ -324,7 +324,7 @@
 | 322 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
 | 323 | [Haven](games/h/haven.md) | 4.75 | 
 | 324 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
-| 325 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
+| 325 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 326 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 
 | 327 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 328 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.37 | 
