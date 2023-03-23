@@ -433,24 +433,24 @@
 | 418 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 
 | 418 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
 | 418 | [Everything](games/e/everything.md) | 4.57 | 
-| 434 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
-| 434 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 434 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 434 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
-| 434 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 434 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 434 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 434 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 
-| 434 | [Minit](games/m/minit.md) | 4.56 | 
-| 434 | [Isonzo](games/i/isonzo.md) | 4.56 | 
-| 434 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
-| 434 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
-| 434 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 434 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
-| 434 | [Observation](games/o/observation.md) | 4.56 | 
-| 434 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
-| 434 | [Brawlhalla](games/b/brawlhalla.md) | 4.56 | 
-| 434 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.56 | 
+| 418 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
+| 435 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
+| 435 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 435 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 435 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
+| 435 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 435 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 435 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 435 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 
+| 435 | [Minit](games/m/minit.md) | 4.56 | 
+| 435 | [Isonzo](games/i/isonzo.md) | 4.56 | 
+| 435 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 435 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
+| 435 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 435 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
+| 435 | [Observation](games/o/observation.md) | 4.56 | 
+| 435 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
+| 435 | [Brawlhalla](games/b/brawlhalla.md) | 4.56 | 
 | 452 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 
 | 452 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 452 | [Hue](games/h/hue.md) | 4.55 | 
