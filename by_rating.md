@@ -779,12 +779,12 @@
 | 777 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
 | 777 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
 | 777 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
+| 777 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.22 | 
 | 777 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
-| 781 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
-| 781 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 781 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.21 | 
-| 781 | [Starsand](games/s/starsand.md) | 4.21 | 
-| 781 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
+| 782 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
+| 782 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 782 | [Starsand](games/s/starsand.md) | 4.21 | 
+| 782 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
 | 786 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
 | 786 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 786 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
