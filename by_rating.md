@@ -282,29 +282,29 @@
 | 270 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 270 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
 | 270 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
-| 270 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
 | 270 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
 | 270 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
 | 270 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
 | 270 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.66 | 
-| 288 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 288 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 288 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 288 | [Old World](games/o/old_world.md) | 4.65 | 
-| 288 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
-| 288 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
-| 288 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
-| 288 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 288 | [SOMA](games/s/soma.md) | 4.65 | 
-| 288 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
-| 288 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
-| 288 | [Coromon](games/c/coromon.md) | 4.65 | 
-| 288 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.65 | 
-| 288 | [APE OUT](games/a/ape_out.md) | 4.65 | 
-| 288 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
-| 288 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
-| 288 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.65 | 
-| 288 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.65 | 
+| 287 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 287 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 287 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 287 | [Old World](games/o/old_world.md) | 4.65 | 
+| 287 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
+| 287 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
+| 287 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
+| 287 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 287 | [SOMA](games/s/soma.md) | 4.65 | 
+| 287 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 287 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
+| 287 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 287 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.65 | 
+| 287 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 
+| 287 | [APE OUT](games/a/ape_out.md) | 4.65 | 
+| 287 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
+| 287 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
+| 287 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.65 | 
+| 287 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.65 | 
 | 306 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 306 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 306 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
@@ -549,23 +549,23 @@
 | 535 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 
 | 535 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 535 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
-| 535 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 
 | 535 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
 | 535 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
-| 553 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 553 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
-| 553 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 553 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
-| 553 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
-| 553 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.48 | 
-| 553 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
-| 553 | [Chorus](games/c/chorus.md) | 4.48 | 
-| 553 | [Far Cry](games/f/far_cry.md) | 4.48 | 
-| 553 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.48 | 
-| 553 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 
-| 553 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.48 | 
-| 553 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
-| 553 | [Scorn](games/s/scorn.md) | 4.48 | 
+| 552 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 552 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
+| 552 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 552 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
+| 552 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
+| 552 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.48 | 
+| 552 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
+| 552 | [Chorus](games/c/chorus.md) | 4.48 | 
+| 552 | [Far Cry](games/f/far_cry.md) | 4.48 | 
+| 552 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.48 | 
+| 552 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 
+| 552 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 
+| 552 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.48 | 
+| 552 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
+| 552 | [Scorn](games/s/scorn.md) | 4.48 | 
 | 567 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 567 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 567 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
@@ -769,13 +769,13 @@
 | 765 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
 | 765 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
 | 765 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.24 | 
-| 765 | [Rise of Industry](games/r/rise_of_industry.md) | 4.24 | 
-| 771 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
-| 771 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 771 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 771 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.23 | 
-| 771 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
-| 771 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.23 | 
+| 770 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
+| 770 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
+| 770 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
+| 770 | [Rise of Industry](games/r/rise_of_industry.md) | 4.23 | 
+| 770 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.23 | 
+| 770 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
+| 770 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.23 | 
 | 777 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
 | 777 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
 | 777 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
@@ -873,7 +873,7 @@
 | 869 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.92 | 
 | 872 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 872 | [Conarium](games/c/conarium.md) | 3.91 | 
-| 872 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
+| 874 | [Chimeraland](games/c/chimeraland.md) | 3.90 | 
 | 875 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.89 | 
 | 876 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 877 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.79 | 

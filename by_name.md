@@ -15,7 +15,7 @@
 | 13 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
 | 14 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
 | 15 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 16 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.66 | 
+| 16 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 
 | 17 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
 | 18 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
 | 19 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
@@ -121,7 +121,7 @@
 | 119 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
 | 120 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
 | 121 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 
-| 122 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
+| 122 | [Chimeraland](games/c/chimeraland.md) | 3.90 | 
 | 123 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
 | 124 | [Chorus](games/c/chorus.md) | 4.48 | 
 | 125 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
@@ -340,7 +340,7 @@
 | 338 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 339 | [Hob](games/h/hob.md) | 4.57 | 
 | 340 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 
-| 341 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 
+| 341 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 
 | 342 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 
 | 343 | [Horace](games/h/horace.md) | 4.51 | 
 | 344 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
@@ -572,7 +572,7 @@
 | 570 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
 | 571 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 572 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 573 | [Rise of Industry](games/r/rise_of_industry.md) | 4.24 | 
+| 573 | [Rise of Industry](games/r/rise_of_industry.md) | 4.23 | 
 | 574 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 575 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
 | 576 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
