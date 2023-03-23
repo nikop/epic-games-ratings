@@ -712,17 +712,17 @@
 | 704 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 
 | 704 | [Parkitect](games/p/parkitect.md) | 4.34 | 
 | 704 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
+| 704 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.34 | 
 | 704 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.34 | 
-| 714 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
-| 714 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
-| 714 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 
-| 714 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.33 | 
-| 714 | [Backbone](games/b/backbone.md) | 4.33 | 
-| 714 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
-| 714 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.33 | 
-| 714 | [Filament](games/f/filament.md) | 4.33 | 
-| 714 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
-| 714 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 
+| 715 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
+| 715 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
+| 715 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 
+| 715 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.33 | 
+| 715 | [Backbone](games/b/backbone.md) | 4.33 | 
+| 715 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
+| 715 | [Filament](games/f/filament.md) | 4.33 | 
+| 715 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
+| 715 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 
 | 724 | [Vampyr](games/v/vampyr.md) | 4.32 | 
 | 724 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 
 | 724 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
