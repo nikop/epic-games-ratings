@@ -9,7 +9,7 @@
 | 7 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 8 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
 | 9 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 10 | [Absolute Drift](games/a/absolute_drift.md) | 4.43 | 
+| 10 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 11 | [ABZU](games/a/abzu.md) | 4.61 | 
 | 12 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.00 | 
 | 13 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 
@@ -48,7 +48,7 @@
 | 46 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.67 | 
 | 47 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
 | 48 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 49 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.56 | 
+| 49 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
 | 50 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 
 | 51 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 52 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
@@ -567,7 +567,7 @@
 | 565 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 566 | [Returnal™](games/r/returnal™.md) | 4.67 | 
 | 567 | [Revita](games/r/revita.md) | 4.74 | 
-| 568 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 
+| 568 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 569 | [RiME](games/r/rime.md) | 4.58 | 
 | 570 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
 | 571 | [RimWorld](games/r/rimworld.md) | 4.89 | 
