@@ -42,7 +42,7 @@
 | 40 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
 | 41 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
 | 42 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 
-| 43 | [Armored Warfare](games/a/armored_warfare.md) | 4.08 | 
+| 43 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 44 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
 | 45 | [Ashen](games/a/ashen.md) | 4.34 | 
 | 46 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.67 | 
@@ -75,7 +75,7 @@
 | 73 | [Banished](games/b/banished.md) | 3.95 | 
 | 74 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 75 | [Barony](games/b/barony.md) | 4.71 | 
-| 76 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.31 | 
+| 76 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.33 | 
 | 77 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 78 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 79 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
@@ -332,7 +332,7 @@
 | 330 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
 | 331 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
 | 332 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 
-| 333 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.24 | 
+| 333 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 334 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
 | 335 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.90 | 
 | 336 | [High On Life](games/h/high_on_life.md) | 4.69 | 
@@ -539,7 +539,7 @@
 | 537 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
 | 538 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 539 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
-| 540 | [Predecessor](games/p/predecessor.md) | 4.44 | 
+| 540 | [Predecessor](games/p/predecessor.md) | 4.45 | 
 | 541 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.48 | 
 | 542 | [Prey](games/p/prey.md) | 4.62 | 
 | 543 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
@@ -872,7 +872,7 @@
 | 870 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
 | 871 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 872 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 873 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 
+| 873 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 
 | 874 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
 | 875 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
 | 876 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 

@@ -1,11 +1,11 @@
 {
   "ID": "b90c4b2fdc754c65847280d39db428fc",
   "Name": "Bassmaster\u00AE Fishing",
-  "Rating": 4.31,
+  "Rating": 4.33,
   "NumberOfRatings": 30,
   "FirstSeen": "2022-07-22T20:17:30.7872518+00:00",
   "FirstSeenRating": "2022-09-01T21:31:08.6586814+00:00",
-  "LastChanged": "2022-12-05T19:56:59.2347352+00:00",
+  "LastChanged": "2023-03-23T17:57:22.8258969+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-01T21:31:08.6586818+00:00",
@@ -85,6 +85,11 @@
     {
       "Time": "2022-12-05T19:56:59.2347354+00:00",
       "Rating": 4.31,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-23T17:57:22.8258972+00:00",
+      "Rating": 4.33,
       "NumberOfRatings": null
     }
   ],
