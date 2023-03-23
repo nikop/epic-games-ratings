@@ -619,7 +619,7 @@
 | 617 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
 | 618 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
 | 619 | [shapez](games/s/shapez.md) | 4.76 | 
-| 620 | [Sheltered](games/s/sheltered.md) | 4.43 | 
+| 620 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 621 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
 | 622 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
 | 623 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 

@@ -619,7 +619,6 @@
 | 605 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
 | 605 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
 | 605 | [Redout 2](games/r/redout_2.md) | 4.44 | 
-| 620 | [Sheltered](games/s/sheltered.md) | 4.43 | 
 | 620 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 620 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
 | 620 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
@@ -627,16 +626,17 @@
 | 620 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
 | 620 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 620 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
-| 628 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 628 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 628 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 628 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 628 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 
-| 628 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 628 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 628 | [ELEX](games/e/elex.md) | 4.42 | 
-| 628 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
-| 628 | [Duskers](games/d/duskers.md) | 4.42 | 
+| 627 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 627 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 627 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 627 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 627 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 627 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 
+| 627 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
+| 627 | [Good Company](games/g/good_company.md) | 4.42 | 
+| 627 | [ELEX](games/e/elex.md) | 4.42 | 
+| 627 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
+| 627 | [Duskers](games/d/duskers.md) | 4.42 | 
 | 638 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 638 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 638 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
