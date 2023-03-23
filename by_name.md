@@ -641,7 +641,7 @@
 | 639 | [Solitairica](games/s/solitairica.md) | 4.50 | 
 | 640 | [SOMA](games/s/soma.md) | 4.65 | 
 | 641 | [Somerville](games/s/somerville.md) | 4.20 | 
-| 642 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 
+| 642 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
 | 643 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 
 | 644 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 
 | 645 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
@@ -705,7 +705,7 @@
 | 703 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 704 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 705 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 706 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 
+| 706 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 707 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 708 | [Tharsis](games/t/tharsis.md) | 4.04 | 
 | 709 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
@@ -785,7 +785,7 @@
 | 783 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 
 | 784 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 
 | 785 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.34 | 
-| 786 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
+| 786 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 
 | 787 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
 | 788 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 789 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.84 | 
@@ -844,7 +844,7 @@
 | 842 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 843 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 844 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 845 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.22 | 
+| 845 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.23 | 
 | 846 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 847 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 848 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
