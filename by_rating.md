@@ -222,7 +222,6 @@
 | 215 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 215 | [INSIDE](games/i/inside.md) | 4.69 | 
 | 215 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 215 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
 | 215 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
 | 215 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 215 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
@@ -232,27 +231,28 @@
 | 215 | [High On Life](games/h/high_on_life.md) | 4.69 | 
 | 215 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 
 | 215 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
-| 233 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
-| 233 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
-| 233 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
-| 233 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
-| 233 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
-| 233 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
-| 233 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 
-| 233 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
-| 233 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.68 | 
-| 233 | [Bad North](games/b/bad_north.md) | 4.68 | 
-| 233 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.68 | 
-| 233 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
-| 233 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
-| 233 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
-| 233 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
-| 233 | [CARRION](games/c/carrion.md) | 4.68 | 
-| 233 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
-| 233 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
-| 233 | [GNOG](games/g/gnog.md) | 4.68 | 
-| 233 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
-| 233 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 
+| 232 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
+| 232 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
+| 232 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
+| 232 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 
+| 232 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 
+| 232 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
+| 232 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 
+| 232 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 
+| 232 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.68 | 
+| 232 | [Bad North](games/b/bad_north.md) | 4.68 | 
+| 232 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 232 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.68 | 
+| 232 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 
+| 232 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
+| 232 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
+| 232 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
+| 232 | [CARRION](games/c/carrion.md) | 4.68 | 
+| 232 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
+| 232 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
+| 232 | [GNOG](games/g/gnog.md) | 4.68 | 
+| 232 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
+| 232 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 
 | 254 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 254 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 254 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
@@ -883,5 +883,5 @@
 | 881 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 
 | 881 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 883 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
-| 884 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.73 | 
+| 884 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.72 | 
 | 885 | [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | 
