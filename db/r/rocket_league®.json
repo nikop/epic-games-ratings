@@ -1,10 +1,10 @@
 {
   "ID": "9773aa1aa54f4f7b80e44bef04986cea",
   "Name": "Rocket League\u00AE",
-  "Rating": 4.52,
+  "Rating": 4.51,
   "NumberOfRatings": 366020,
   "FirstSeen": "2022-07-22T20:17:22.1538752+00:00",
-  "LastChanged": "2023-02-09T22:57:13.0279593+00:00",
+  "LastChanged": "2023-03-24T18:57:04.1947354+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:22.1538754+00:00",
@@ -3234,6 +3234,11 @@
     {
       "Time": "2023-02-09T22:57:13.0279594+00:00",
       "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-24T18:57:04.1947355+00:00",
+      "Rating": 4.51,
       "NumberOfRatings": null
     }
   ],

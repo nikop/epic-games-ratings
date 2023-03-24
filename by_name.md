@@ -49,7 +49,7 @@
 | 47 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
 | 48 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 49 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
-| 50 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 
+| 50 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.50 | 
 | 51 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
 | 52 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
 | 53 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
@@ -579,7 +579,7 @@
 | 577 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 
 | 578 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 579 | [Road 96](games/r/road_96.md) | 4.61 | 
-| 580 | [Rocket League®](games/r/rocket_league®.md) | 4.52 | 
+| 580 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 
 | 581 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
 | 582 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
 | 583 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 
@@ -855,7 +855,7 @@
 | 853 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.34 | 
 | 854 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 
 | 855 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
-| 856 | [Weird West](games/w/weird_west.md) | 4.45 | 
+| 856 | [Weird West](games/w/weird_west.md) | 4.46 | 
 | 857 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.09 | 
 | 858 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 
 | 859 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
