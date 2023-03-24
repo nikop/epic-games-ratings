@@ -648,19 +648,19 @@
 | 638 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 
 | 638 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 638 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
+| 638 | [Hell is Others](games/h/hell_is_others.md) | 4.41 | 
 | 638 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 
-| 650 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
-| 650 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
-| 650 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 650 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
-| 650 | [Othercide](games/o/othercide.md) | 4.40 | 
-| 650 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
-| 650 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 650 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
-| 650 | [Hell is Others](games/h/hell_is_others.md) | 4.40 | 
-| 650 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
-| 650 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
-| 650 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
+| 651 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
+| 651 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
+| 651 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
+| 651 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
+| 651 | [Othercide](games/o/othercide.md) | 4.40 | 
+| 651 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
+| 651 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
+| 651 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 
+| 651 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
+| 651 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
+| 651 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
 | 662 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
 | 662 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
 | 662 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
@@ -829,13 +829,13 @@
 | 827 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
 | 827 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
 | 827 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
-| 830 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
-| 830 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 830 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
-| 830 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 830 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
-| 830 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.10 | 
-| 830 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
+| 827 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.11 | 
+| 831 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
+| 831 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 831 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
+| 831 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 831 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
+| 831 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 837 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 837 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.09 | 
 | 837 | [Submerged](games/s/submerged.md) | 4.09 | 
