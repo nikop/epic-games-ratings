@@ -292,7 +292,6 @@
 | 287 | [Old World](games/o/old_world.md) | 4.65 | 
 | 287 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
 | 287 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
-| 287 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
 | 287 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 287 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 287 | [SOMA](games/s/soma.md) | 4.65 | 
@@ -306,17 +305,18 @@
 | 287 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
 | 287 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.65 | 
 | 287 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.65 | 
-| 307 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 307 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 307 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 307 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 307 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 307 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
-| 307 | [Mutazione](games/m/mutazione.md) | 4.64 | 
-| 307 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.64 | 
-| 307 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
-| 307 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
-| 307 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
+| 306 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 306 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 306 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 306 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 306 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
+| 306 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 306 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
+| 306 | [Mutazione](games/m/mutazione.md) | 4.64 | 
+| 306 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.64 | 
+| 306 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
+| 306 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
+| 306 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
 | 318 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 318 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 318 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
@@ -728,18 +728,18 @@
 | 724 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
 | 724 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 
 | 728 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 728 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 728 | [House Party](games/h/house_party.md) | 4.31 | 
 | 728 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
 | 728 | [Dark Light](games/d/dark_light.md) | 4.31 | 
-| 732 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 732 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
-| 732 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
-| 732 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
-| 732 | [War Mongrels](games/w/war_mongrels.md) | 4.30 | 
-| 732 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
-| 732 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
-| 732 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.30 | 
-| 732 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
+| 733 | [Fortnite](games/f/fortnite.md) | 4.30 | 
+| 733 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
+| 733 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
+| 733 | [War Mongrels](games/w/war_mongrels.md) | 4.30 | 
+| 733 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
+| 733 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 
+| 733 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.30 | 
+| 733 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
 | 741 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 
 | 741 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 741 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 

@@ -413,7 +413,7 @@
 | 411 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 412 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
 | 413 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 414 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.65 | 
+| 414 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 415 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 
 | 416 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 417 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
@@ -697,7 +697,7 @@
 | 695 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 
 | 696 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 697 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 698 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 
+| 698 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 699 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
 | 700 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
 | 701 | [Tacoma](games/t/tacoma.md) | 4.39 | 
