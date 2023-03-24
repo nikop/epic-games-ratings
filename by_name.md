@@ -121,7 +121,7 @@
 | 119 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
 | 120 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
 | 121 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 
-| 122 | [Chimeraland](games/c/chimeraland.md) | 3.90 | 
+| 122 | [Chimeraland](games/c/chimeraland.md) | 3.88 | 
 | 123 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
 | 124 | [Chorus](games/c/chorus.md) | 4.48 | 
 | 125 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
@@ -735,7 +735,7 @@
 | 733 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
 | 734 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 
 | 735 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 
-| 736 | [The Last Campfire](games/t/the_last_campfire.md) | 4.82 | 
+| 736 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 
 | 737 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 
 | 738 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 
 | 739 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 

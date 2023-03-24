@@ -57,15 +57,15 @@
 | 53 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
 | 53 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 
 | 53 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
+| 53 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 
 | 53 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.83 | 
 | 53 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 
-| 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 60 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
-| 60 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 60 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 60 | [The Last Campfire](games/t/the_last_campfire.md) | 4.82 | 
-| 60 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
-| 60 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
+| 61 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 61 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 61 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
+| 61 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
+| 61 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
+| 61 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
 | 67 | [Sifu](games/s/sifu.md) | 4.81 | 
 | 67 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 67 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
@@ -873,8 +873,8 @@
 | 869 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.92 | 
 | 872 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 872 | [Conarium](games/c/conarium.md) | 3.91 | 
-| 874 | [Chimeraland](games/c/chimeraland.md) | 3.90 | 
-| 875 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.89 | 
+| 874 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.89 | 
+| 875 | [Chimeraland](games/c/chimeraland.md) | 3.88 | 
 | 876 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 877 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.79 | 
 | 878 | [Saints Row](games/s/saints_row.md) | 3.78 | 
