@@ -829,13 +829,13 @@
 | 827 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
 | 827 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
 | 827 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
-| 827 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.11 | 
-| 831 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
-| 831 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 831 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
-| 831 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 831 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
-| 831 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
+| 830 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
+| 830 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 830 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
+| 830 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 830 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
+| 830 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.10 | 
+| 830 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 837 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 837 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.09 | 
 | 837 | [Submerged](games/s/submerged.md) | 4.09 | 
