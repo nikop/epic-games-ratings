@@ -251,24 +251,24 @@
 | 232 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
 | 232 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
 | 232 | [GNOG](games/g/gnog.md) | 4.68 | 
+| 232 | [Returnal™](games/r/returnal™.md) | 4.68 | 
 | 232 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
 | 232 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 
-| 254 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 254 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 254 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
-| 254 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
-| 254 | [Overcooked](games/o/overcooked.md) | 4.67 | 
-| 254 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 254 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
-| 254 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
-| 254 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
-| 254 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 254 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 
-| 254 | [Card Shark](games/c/card_shark.md) | 4.67 | 
-| 254 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.67 | 
-| 254 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.67 | 
-| 254 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 
-| 254 | [Returnal™](games/r/returnal™.md) | 4.67 | 
+| 255 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 255 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 255 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
+| 255 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 255 | [Overcooked](games/o/overcooked.md) | 4.67 | 
+| 255 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 255 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
+| 255 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
+| 255 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
+| 255 | [Eastward](games/e/eastward.md) | 4.67 | 
+| 255 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 
+| 255 | [Card Shark](games/c/card_shark.md) | 4.67 | 
+| 255 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.67 | 
+| 255 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.67 | 
+| 255 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 
 | 270 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 270 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 270 | [Trackmania](games/t/trackmania.md) | 4.66 | 
@@ -545,27 +545,27 @@
 | 535 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
 | 535 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 535 | [CryoFall](games/c/cryofall.md) | 4.49 | 
-| 535 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 
 | 535 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
 | 535 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
 | 535 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 
 | 535 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 
 | 535 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
-| 552 | [Riverbond](games/r/riverbond.md) | 4.48 | 
-| 552 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
-| 552 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 
-| 552 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 552 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
-| 552 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
-| 552 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.48 | 
-| 552 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
-| 552 | [Chorus](games/c/chorus.md) | 4.48 | 
-| 552 | [Far Cry](games/f/far_cry.md) | 4.48 | 
-| 552 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.48 | 
-| 552 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 
-| 552 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.48 | 
-| 552 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
-| 552 | [Scorn](games/s/scorn.md) | 4.48 | 
+| 551 | [Riverbond](games/r/riverbond.md) | 4.48 | 
+| 551 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
+| 551 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 
+| 551 | [Paradigm](games/p/paradigm.md) | 4.48 | 
+| 551 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
+| 551 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
+| 551 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.48 | 
+| 551 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
+| 551 | [Chorus](games/c/chorus.md) | 4.48 | 
+| 551 | [Far Cry](games/f/far_cry.md) | 4.48 | 
+| 551 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.48 | 
+| 551 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 
+| 551 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 
+| 551 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.48 | 
+| 551 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
+| 551 | [Scorn](games/s/scorn.md) | 4.48 | 
 | 567 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
 | 567 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 567 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 

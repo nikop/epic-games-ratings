@@ -225,7 +225,7 @@
 | 223 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
 | 224 | [Encased](games/e/encased.md) | 4.37 | 
 | 225 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
-| 226 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 
+| 226 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 
 | 227 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 
 | 228 | [EVE Online](games/e/eve_online.md) | 4.26 | 
 | 229 | [Everything](games/e/everything.md) | 4.57 | 
@@ -565,7 +565,7 @@
 | 563 | [Relicta](games/r/relicta.md) | 4.15 | 
 | 564 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
 | 565 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 566 | [Returnal™](games/r/returnal™.md) | 4.67 | 
+| 566 | [Returnal™](games/r/returnal™.md) | 4.68 | 
 | 567 | [Revita](games/r/revita.md) | 4.74 | 
 | 568 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 569 | [RiME](games/r/rime.md) | 4.58 | 
