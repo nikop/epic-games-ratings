@@ -100,7 +100,7 @@
 | 98 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 99 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 100 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 101 | [Brawlhalla](games/b/brawlhalla.md) | 4.56 | 
+| 101 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 
 | 102 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 103 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
 | 104 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -535,7 +535,7 @@
 | 533 | [Pinball FX](games/p/pinball_fx.md) | 4.01 | 
 | 534 | [Pine](games/p/pine.md) | 4.15 | 
 | 535 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 
-| 536 | [Port Royale 4](games/p/port_royale_4.md) | 3.99 | 
+| 536 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
 | 537 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
 | 538 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 539 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
