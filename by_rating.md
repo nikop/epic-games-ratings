@@ -91,6 +91,7 @@
 | 78 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 78 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
 | 78 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
+| 92 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 92 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
 | 92 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 92 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
@@ -98,11 +99,10 @@
 | 92 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
 | 92 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 92 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 99 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
-| 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 
-| 99 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 99 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
-| 99 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 
+| 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 
+| 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 100 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
+| 100 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 
 | 104 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 104 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 104 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
@@ -212,25 +212,25 @@
 | 194 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
 | 194 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.70 | 
 | 194 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
+| 194 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.70 | 
 | 194 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
 | 194 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
-| 215 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 215 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
-| 215 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
-| 215 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
-| 215 | [Days Gone](games/d/days_gone.md) | 4.69 | 
-| 215 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
-| 215 | [INSIDE](games/i/inside.md) | 4.69 | 
-| 215 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
-| 215 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
-| 215 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
-| 215 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
-| 215 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.69 | 
-| 215 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
-| 215 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.69 | 
-| 215 | [High On Life](games/h/high_on_life.md) | 4.69 | 
-| 215 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 
-| 215 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
+| 216 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
+| 216 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
+| 216 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
+| 216 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 
+| 216 | [Days Gone](games/d/days_gone.md) | 4.69 | 
+| 216 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
+| 216 | [INSIDE](games/i/inside.md) | 4.69 | 
+| 216 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
+| 216 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
+| 216 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
+| 216 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
+| 216 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.69 | 
+| 216 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
+| 216 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.69 | 
+| 216 | [High On Life](games/h/high_on_life.md) | 4.69 | 
+| 216 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 
 | 232 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
 | 232 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 232 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 

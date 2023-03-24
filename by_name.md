@@ -337,7 +337,7 @@
 | 335 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.90 | 
 | 336 | [High On Life](games/h/high_on_life.md) | 4.69 | 
 | 337 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 338 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 338 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 339 | [Hob](games/h/hob.md) | 4.57 | 
 | 340 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 
 | 341 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 
@@ -617,7 +617,7 @@
 | 615 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 
 | 616 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 617 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 618 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.69 | 
+| 618 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.70 | 
 | 619 | [shapez](games/s/shapez.md) | 4.76 | 
 | 620 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 621 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
