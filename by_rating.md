@@ -802,10 +802,10 @@
 | 798 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 
 | 798 | [Flatout](games/f/flatout.md) | 4.19 | 
 | 798 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
-| 798 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.19 | 
-| 804 | [Windbound](games/w/windbound.md) | 4.18 | 
-| 804 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 804 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
+| 803 | [Windbound](games/w/windbound.md) | 4.18 | 
+| 803 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 803 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.18 | 
+| 803 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
 | 807 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
 | 807 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 
 | 807 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
