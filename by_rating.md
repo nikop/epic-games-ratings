@@ -91,7 +91,6 @@
 | 78 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 78 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
 | 78 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
-| 92 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 92 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
 | 92 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 92 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
@@ -99,10 +98,11 @@
 | 92 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
 | 92 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 92 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 
-| 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 100 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
-| 100 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 
+| 99 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 
+| 99 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 99 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
+| 99 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 
 | 104 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 104 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 104 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
@@ -168,53 +168,53 @@
 | 155 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
 | 155 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 155 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 155 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.73 | 
-| 170 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 170 | [Timberborn](games/t/timberborn.md) | 4.72 | 
-| 170 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 170 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 170 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
-| 170 | [Northgard](games/n/northgard.md) | 4.72 | 
-| 170 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 170 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
-| 178 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
-| 178 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
-| 178 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
-| 178 | [Barony](games/b/barony.md) | 4.71 | 
-| 178 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
-| 178 | [Fez](games/f/fez.md) | 4.71 | 
-| 178 | [FUSER™](games/f/fuser™.md) | 4.71 | 
-| 178 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 
-| 178 | [Townscaper](games/t/townscaper.md) | 4.71 | 
-| 178 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
-| 178 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 
-| 178 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 
-| 178 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
-| 178 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
-| 178 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.71 | 
-| 178 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
-| 194 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
-| 194 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
-| 194 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 194 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
-| 194 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
-| 194 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 194 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
-| 194 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 194 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
-| 194 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
-| 194 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 194 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
-| 194 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
-| 194 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
-| 194 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 194 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
-| 194 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
-| 194 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.70 | 
-| 194 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
-| 194 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.70 | 
-| 194 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
-| 194 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
+| 169 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 169 | [Timberborn](games/t/timberborn.md) | 4.72 | 
+| 169 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 169 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 169 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
+| 169 | [Northgard](games/n/northgard.md) | 4.72 | 
+| 169 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 169 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
+| 177 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
+| 177 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 177 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
+| 177 | [Barony](games/b/barony.md) | 4.71 | 
+| 177 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
+| 177 | [Fez](games/f/fez.md) | 4.71 | 
+| 177 | [FUSER™](games/f/fuser™.md) | 4.71 | 
+| 177 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 
+| 177 | [Townscaper](games/t/townscaper.md) | 4.71 | 
+| 177 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
+| 177 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 
+| 177 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 
+| 177 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
+| 177 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
+| 177 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.71 | 
+| 177 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.71 | 
+| 177 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
+| 177 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.71 | 
+| 195 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
+| 195 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
+| 195 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 195 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
+| 195 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
+| 195 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 195 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
+| 195 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 195 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
+| 195 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
+| 195 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 195 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
+| 195 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
+| 195 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 
+| 195 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 195 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
+| 195 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
+| 195 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
+| 195 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.70 | 
+| 195 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
+| 195 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 216 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 216 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 216 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
@@ -305,18 +305,18 @@
 | 287 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
 | 287 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.65 | 
 | 287 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.65 | 
-| 306 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
-| 306 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 306 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 306 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 306 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 306 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
-| 306 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
-| 306 | [Mutazione](games/m/mutazione.md) | 4.64 | 
-| 306 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.64 | 
-| 306 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
-| 306 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
-| 306 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
+| 287 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 
+| 307 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
+| 307 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
+| 307 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
+| 307 | [HITMAN](games/h/hitman.md) | 4.64 | 
+| 307 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
+| 307 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
+| 307 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
+| 307 | [Mutazione](games/m/mutazione.md) | 4.64 | 
+| 307 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.64 | 
+| 307 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
+| 307 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
 | 318 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
 | 318 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
 | 318 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 

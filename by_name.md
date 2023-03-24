@@ -278,7 +278,7 @@
 | 276 | [Forspoken](games/f/forspoken.md) | 4.07 | 
 | 277 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 278 | [Fortnite](games/f/fortnite.md) | 4.30 | 
-| 279 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.70 | 
+| 279 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.71 | 
 | 280 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 281 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
 | 282 | [FUSER™](games/f/fuser™.md) | 4.71 | 
@@ -337,7 +337,7 @@
 | 335 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.90 | 
 | 336 | [High On Life](games/h/high_on_life.md) | 4.69 | 
 | 337 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 338 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 338 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 339 | [Hob](games/h/hob.md) | 4.57 | 
 | 340 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 
 | 341 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 
@@ -600,7 +600,7 @@
 | 598 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 
 | 599 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 600 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 601 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.64 | 
+| 601 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 
 | 602 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
 | 603 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 
 | 604 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
@@ -716,7 +716,7 @@
 | 714 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 715 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 716 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
-| 717 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.73 | 
+| 717 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.71 | 
 | 718 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
 | 719 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 720 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
