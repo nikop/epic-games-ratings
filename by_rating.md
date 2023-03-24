@@ -452,7 +452,6 @@
 | 436 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
 | 436 | [Observation](games/o/observation.md) | 4.56 | 
 | 436 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
-| 453 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.55 | 
 | 453 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 453 | [Hue](games/h/hue.md) | 4.55 | 
 | 453 | [Outward](games/o/outward.md) | 4.55 | 
@@ -469,17 +468,18 @@
 | 453 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 
 | 453 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
 | 453 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.55 | 
-| 470 | [VALORANT](games/v/valorant.md) | 4.54 | 
-| 470 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 470 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
-| 470 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 470 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
-| 470 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
-| 470 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 470 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 
-| 470 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
-| 470 | [IXION](games/i/ixion.md) | 4.54 | 
-| 470 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 469 | [VALORANT](games/v/valorant.md) | 4.54 | 
+| 469 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 469 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
+| 469 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 
+| 469 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 469 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
+| 469 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
+| 469 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 469 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 
+| 469 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
+| 469 | [IXION](games/i/ixion.md) | 4.54 | 
+| 469 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 481 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 481 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 481 | [Dauntless](games/d/dauntless.md) | 4.53 | 
