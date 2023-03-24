@@ -29,7 +29,7 @@
 | 27 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 28 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 29 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 30 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 
+| 30 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 31 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
 | 32 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
 | 33 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
@@ -100,7 +100,7 @@
 | 98 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 99 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 100 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 
-| 101 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 
+| 101 | [Brawlhalla](games/b/brawlhalla.md) | 4.56 | 
 | 102 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 103 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
 | 104 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 

@@ -432,26 +432,26 @@
 | 418 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
 | 418 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 
 | 418 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
-| 418 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 
 | 418 | [Everything](games/e/everything.md) | 4.57 | 
 | 418 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
-| 436 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
-| 436 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
-| 436 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
-| 436 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 
-| 436 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
-| 436 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
-| 436 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
-| 436 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 436 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 
-| 436 | [Minit](games/m/minit.md) | 4.56 | 
-| 436 | [Isonzo](games/i/isonzo.md) | 4.56 | 
-| 436 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
-| 436 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
-| 436 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 436 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
-| 436 | [Observation](games/o/observation.md) | 4.56 | 
-| 436 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
+| 435 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
+| 435 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
+| 435 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
+| 435 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 
+| 435 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 
+| 435 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 
+| 435 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
+| 435 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 435 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 
+| 435 | [Minit](games/m/minit.md) | 4.56 | 
+| 435 | [Isonzo](games/i/isonzo.md) | 4.56 | 
+| 435 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
+| 435 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 
+| 435 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
+| 435 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
+| 435 | [Observation](games/o/observation.md) | 4.56 | 
+| 435 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
+| 435 | [Brawlhalla](games/b/brawlhalla.md) | 4.56 | 
 | 453 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
 | 453 | [Hue](games/h/hue.md) | 4.55 | 
 | 453 | [Outward](games/o/outward.md) | 4.55 | 
@@ -714,6 +714,7 @@
 | 705 | [Parkitect](games/p/parkitect.md) | 4.34 | 
 | 705 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 705 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.34 | 
+| 715 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 715 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 715 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 715 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 
@@ -723,10 +724,9 @@
 | 715 | [Filament](games/f/filament.md) | 4.33 | 
 | 715 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
 | 715 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 
-| 724 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 724 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 
-| 724 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
-| 724 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 
+| 725 | [Vampyr](games/v/vampyr.md) | 4.32 | 
+| 725 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
+| 725 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 
 | 728 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 728 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 728 | [House Party](games/h/house_party.md) | 4.31 | 
