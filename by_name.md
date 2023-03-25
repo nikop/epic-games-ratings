@@ -802,7 +802,7 @@
 | 800 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 
 | 801 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 802 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 
-| 803 | [Trackmania](games/t/trackmania.md) | 4.66 | 
+| 803 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 804 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
 | 805 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 
 | 806 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
