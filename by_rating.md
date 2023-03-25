@@ -784,19 +784,19 @@
 | 782 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 782 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 782 | [Starsand](games/s/starsand.md) | 4.21 | 
+| 782 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
 | 782 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 786 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
-| 786 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 786 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 786 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
-| 786 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 786 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 786 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 786 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
-| 786 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
-| 786 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 786 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | 
-| 786 | [Somerville](games/s/somerville.md) | 4.20 | 
+| 787 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
+| 787 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 787 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 787 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
+| 787 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 787 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 787 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 787 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
+| 787 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 787 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | 
+| 787 | [Somerville](games/s/somerville.md) | 4.20 | 
 | 798 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
 | 798 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 798 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 

@@ -92,7 +92,7 @@
 | 90 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
 | 91 | [BLACKTAIL](games/b/blacktail.md) | 4.73 | 
 | 92 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
-| 93 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 
+| 93 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
 | 94 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 
 | 95 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 
 | 96 | [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | 
