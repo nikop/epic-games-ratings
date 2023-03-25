@@ -1,10 +1,10 @@
 {
   "ID": "5bb3d43818ae4188850fe1dbad9d57a5",
   "Name": "Knockout City\u2122",
-  "Rating": 4.53,
+  "Rating": 4.54,
   "FirstSeen": "2022-07-22T20:18:28.089047+00:00",
   "FirstSeenRating": "2023-01-27T02:09:44.3604465+00:00",
-  "LastChanged": "2023-03-24T15:57:05.0042031+00:00",
+  "LastChanged": "2023-03-25T19:57:09.2112833+00:00",
   "RatingHistory": [
     {
       "Time": "2023-01-27T02:09:44.3604467+00:00",
@@ -194,6 +194,11 @@
     {
       "Time": "2023-03-24T15:57:05.0042034+00:00",
       "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-25T19:57:09.2112834+00:00",
+      "Rating": 4.54,
       "NumberOfRatings": null
     }
   ],
