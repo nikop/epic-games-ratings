@@ -91,7 +91,6 @@
 | 78 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 78 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
 | 78 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
-| 92 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 92 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
 | 92 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 92 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
@@ -99,10 +98,11 @@
 | 92 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
 | 92 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 92 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 
-| 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 100 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
-| 100 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 
+| 99 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 
+| 99 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 99 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
+| 99 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 
 | 104 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 104 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 104 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
@@ -313,21 +313,21 @@
 | 307 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
 | 307 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 307 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
-| 307 | [Mutazione](games/m/mutazione.md) | 4.64 | 
 | 307 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.64 | 
 | 307 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
 | 307 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
-| 318 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 318 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 318 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 318 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.63 | 
-| 318 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 318 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
-| 318 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 318 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
-| 318 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
-| 318 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 
-| 318 | [GigaBash](games/g/gigabash.md) | 4.63 | 
+| 317 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 317 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 317 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 317 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.63 | 
+| 317 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 317 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
+| 317 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
+| 317 | [Mutazione](games/m/mutazione.md) | 4.63 | 
+| 317 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
+| 317 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
+| 317 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 
+| 317 | [GigaBash](games/g/gigabash.md) | 4.63 | 
 | 329 | [Prey](games/p/prey.md) | 4.62 | 
 | 329 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 329 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
@@ -601,24 +601,24 @@
 | 590 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 
 | 590 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
 | 590 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
-| 590 | [Predecessor](games/p/predecessor.md) | 4.45 | 
-| 603 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
-| 603 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
-| 603 | [The Captain](games/t/the_captain.md) | 4.44 | 
-| 603 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
-| 603 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
-| 603 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
-| 603 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
-| 603 | [Death Coming](games/d/death_coming.md) | 4.44 | 
-| 603 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
-| 603 | [ATOM RPG](games/a/atom_rpg.md) | 4.44 | 
-| 603 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 
-| 603 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
-| 603 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
-| 603 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
-| 603 | [Redout 2](games/r/redout_2.md) | 4.44 | 
-| 603 | [STG Football](games/s/stg_football.md) | 4.44 | 
-| 603 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 
+| 602 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
+| 602 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 
+| 602 | [The Captain](games/t/the_captain.md) | 4.44 | 
+| 602 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
+| 602 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
+| 602 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
+| 602 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
+| 602 | [Death Coming](games/d/death_coming.md) | 4.44 | 
+| 602 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
+| 602 | [ATOM RPG](games/a/atom_rpg.md) | 4.44 | 
+| 602 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 
+| 602 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
+| 602 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
+| 602 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
+| 602 | [Predecessor](games/p/predecessor.md) | 4.44 | 
+| 602 | [Redout 2](games/r/redout_2.md) | 4.44 | 
+| 602 | [STG Football](games/s/stg_football.md) | 4.44 | 
+| 602 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 
 | 620 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 620 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
 | 620 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
