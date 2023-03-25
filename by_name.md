@@ -699,7 +699,7 @@
 | 697 | [Suzerain](games/s/suzerain.md) | 4.73 | 
 | 698 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 699 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
-| 700 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
+| 700 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
 | 701 | [Tacoma](games/t/tacoma.md) | 4.39 | 
 | 702 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
 | 703 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
@@ -802,7 +802,7 @@
 | 800 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 
 | 801 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 802 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 
-| 803 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 803 | [Trackmania](games/t/trackmania.md) | 4.66 | 
 | 804 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
 | 805 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 
 | 806 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 

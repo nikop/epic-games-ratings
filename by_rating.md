@@ -255,7 +255,6 @@
 | 233 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
 | 233 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 
 | 255 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 255 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 255 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
 | 255 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
 | 255 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
@@ -271,21 +270,22 @@
 | 255 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.67 | 
 | 255 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.67 | 
 | 255 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 
-| 272 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
-| 272 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 272 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 272 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 272 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
-| 272 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
-| 272 | [Crashlands](games/c/crashlands.md) | 4.66 | 
-| 272 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
-| 272 | [Death's Door](games/d/death's_door.md) | 4.66 | 
-| 272 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
-| 272 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
-| 272 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
-| 272 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 272 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
-| 272 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.66 | 
+| 271 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
+| 271 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
+| 271 | [Trackmania](games/t/trackmania.md) | 4.66 | 
+| 271 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 271 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
+| 271 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 271 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
+| 271 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 271 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
+| 271 | [Death's Door](games/d/death's_door.md) | 4.66 | 
+| 271 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
+| 271 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
+| 271 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
+| 271 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 271 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
+| 271 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.66 | 
 | 287 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
 | 287 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
 | 287 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
@@ -311,23 +311,23 @@
 | 307 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 307 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 307 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
+| 307 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
 | 307 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 307 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
 | 307 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.64 | 
 | 307 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
 | 307 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
-| 317 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 317 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 317 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 317 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.63 | 
-| 317 | [Symphony of War](games/s/symphony_of_war.md) | 4.63 | 
-| 317 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
-| 317 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 317 | [Mutazione](games/m/mutazione.md) | 4.63 | 
-| 317 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
-| 317 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
-| 317 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 
-| 317 | [GigaBash](games/g/gigabash.md) | 4.63 | 
+| 318 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 318 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 318 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 318 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.63 | 
+| 318 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
+| 318 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
+| 318 | [Mutazione](games/m/mutazione.md) | 4.63 | 
+| 318 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
+| 318 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
+| 318 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 
+| 318 | [GigaBash](games/g/gigabash.md) | 4.63 | 
 | 329 | [Prey](games/p/prey.md) | 4.62 | 
 | 329 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 329 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
