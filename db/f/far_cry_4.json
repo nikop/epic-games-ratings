@@ -1,10 +1,10 @@
 {
   "ID": "cf87285950ba492bbdc370b9d265ea36",
   "Name": "FAR CRY 4",
-  "Rating": 4.66,
+  "Rating": 4.67,
   "NumberOfRatings": 639,
   "FirstSeen": "2022-07-22T20:26:30.966572+00:00",
-  "LastChanged": "2023-03-19T23:58:15.1351536+00:00",
+  "LastChanged": "2023-03-25T13:57:37.388198+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:30.9665724+00:00",
@@ -665,6 +665,11 @@
       "Time": "2023-03-19T23:58:15.1351538+00:00",
       "Rating": 4.66,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-25T13:57:37.3881981+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -678,7 +683,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game is Extremely Fun",

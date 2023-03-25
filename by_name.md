@@ -247,7 +247,7 @@
 | 245 | [Far Cry](games/f/far_cry.md) | 4.48 | 
 | 246 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 
 | 247 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 
-| 248 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 
+| 248 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
 | 249 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 
 | 250 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
 | 251 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
@@ -427,7 +427,7 @@
 | 425 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 426 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
 | 427 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
-| 428 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.50 | 
+| 428 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.52 | 
 | 429 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 430 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
 | 431 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
@@ -764,7 +764,7 @@
 | 762 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 
 | 763 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 
 | 764 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
-| 765 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.77 | 
+| 765 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 
 | 766 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 
 | 767 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.87 | 
 | 768 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 
@@ -774,7 +774,7 @@
 | 772 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 773 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.61 | 
 | 774 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 
-| 775 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 
+| 775 | [This Is The Police](games/t/this_is_the_police.md) | 4.75 | 
 | 776 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
 | 777 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
 | 778 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
