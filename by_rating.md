@@ -466,20 +466,20 @@
 | 453 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.55 | 
 | 453 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.55 | 
 | 453 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 
-| 453 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 
 | 453 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.55 | 
-| 469 | [VALORANT](games/v/valorant.md) | 4.54 | 
-| 469 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 469 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
-| 469 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 
-| 469 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 469 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
-| 469 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
-| 469 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 469 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 
-| 469 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
-| 469 | [IXION](games/i/ixion.md) | 4.54 | 
-| 469 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 468 | [VALORANT](games/v/valorant.md) | 4.54 | 
+| 468 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 468 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
+| 468 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 
+| 468 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 468 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
+| 468 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
+| 468 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 468 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 
+| 468 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
+| 468 | [IXION](games/i/ixion.md) | 4.54 | 
+| 468 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 
+| 468 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
 | 481 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
 | 481 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 481 | [Dauntless](games/d/dauntless.md) | 4.53 | 
