@@ -1,10 +1,10 @@
 {
   "ID": "ut",
   "Name": "Unreal Tournament",
-  "Rating": 4.67,
+  "Rating": 4.66,
   "NumberOfRatings": 1070,
   "FirstSeen": "2022-07-22T20:21:08.0500861+00:00",
-  "LastChanged": "2022-12-04T11:57:27.3750234+00:00",
+  "LastChanged": "2023-03-25T21:57:42.240404+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:08.0500863+00:00",
@@ -1389,6 +1389,11 @@
     {
       "Time": "2022-12-04T11:57:27.3750235+00:00",
       "Rating": 4.67,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-25T21:57:42.2404043+00:00",
+      "Rating": 4.66,
       "NumberOfRatings": null
     }
   ],

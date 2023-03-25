@@ -106,7 +106,7 @@
 | 104 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 105 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
 | 106 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
-| 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.35 | 
+| 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
 | 108 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
 | 109 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 110 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
@@ -769,7 +769,7 @@
 | 767 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 
 | 768 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.87 | 
 | 769 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 
-| 770 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 770 | [The Witness](games/t/the_witness.md) | 4.69 | 
 | 771 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 772 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 773 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
@@ -831,7 +831,7 @@
 | 829 | [UnMetal](games/u/unmetal.md) | 4.52 | 
 | 830 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
 | 831 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
-| 832 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.67 | 
+| 832 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 
 | 833 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
 | 834 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.83 | 
 | 835 | [VALORANT](games/v/valorant.md) | 4.54 | 
@@ -863,7 +863,7 @@
 | 861 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 
 | 862 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 
 | 863 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 864 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.89 | 
+| 864 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 
 | 865 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 866 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 867 | [Windbound](games/w/windbound.md) | 4.18 | 
