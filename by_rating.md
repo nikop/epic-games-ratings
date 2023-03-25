@@ -841,12 +841,12 @@
 | 838 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.09 | 
 | 838 | [Submerged](games/s/submerged.md) | 4.09 | 
 | 838 | [Fangs](games/f/fangs.md) | 4.09 | 
-| 842 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
-| 842 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
-| 844 | [Godfall](games/g/godfall.md) | 4.07 | 
-| 844 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
-| 844 | [Forspoken](games/f/forspoken.md) | 4.07 | 
-| 844 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
+| 838 | [Forspoken](games/f/forspoken.md) | 4.09 | 
+| 843 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
+| 843 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
+| 845 | [Godfall](games/g/godfall.md) | 4.07 | 
+| 845 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
+| 845 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 
 | 848 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 848 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 
 | 850 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 
