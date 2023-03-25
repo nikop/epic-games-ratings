@@ -451,7 +451,7 @@
 | 449 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.48 | 
 | 450 | [Minit](games/m/minit.md) | 4.56 | 
 | 451 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.92 | 
-| 452 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.75 | 
+| 452 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 
 | 453 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 
 | 454 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
 | 455 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
@@ -750,7 +750,7 @@
 | 748 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
 | 749 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.72 | 
 | 750 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
-| 751 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.57 | 
+| 751 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.58 | 
 | 752 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 753 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
 | 754 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
