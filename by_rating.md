@@ -725,13 +725,13 @@
 | 715 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
 | 715 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 
 | 725 | [Vampyr](games/v/vampyr.md) | 4.32 | 
+| 725 | [House Party](games/h/house_party.md) | 4.32 | 
 | 725 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
 | 725 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 
-| 728 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
-| 728 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
-| 728 | [House Party](games/h/house_party.md) | 4.31 | 
-| 728 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
-| 728 | [Dark Light](games/d/dark_light.md) | 4.31 | 
+| 729 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
+| 729 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
+| 729 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
+| 729 | [Dark Light](games/d/dark_light.md) | 4.31 | 
 | 733 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 733 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 
 | 733 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 
@@ -874,8 +874,8 @@
 | 870 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.92 | 
 | 873 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
 | 873 | [Conarium](games/c/conarium.md) | 3.91 | 
+| 875 | [Chimeraland](games/c/chimeraland.md) | 3.89 | 
 | 875 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.89 | 
-| 876 | [Chimeraland](games/c/chimeraland.md) | 3.88 | 
 | 877 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 878 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.79 | 
 | 879 | [Saints Row](games/s/saints_row.md) | 3.78 | 

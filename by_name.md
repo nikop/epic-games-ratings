@@ -121,7 +121,7 @@
 | 119 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
 | 120 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
 | 121 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 
-| 122 | [Chimeraland](games/c/chimeraland.md) | 3.88 | 
+| 122 | [Chimeraland](games/c/chimeraland.md) | 3.89 | 
 | 123 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
 | 124 | [Chorus](games/c/chorus.md) | 4.48 | 
 | 125 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
@@ -347,7 +347,7 @@
 | 345 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 346 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 347 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 348 | [House Party](games/h/house_party.md) | 4.31 | 
+| 348 | [House Party](games/h/house_party.md) | 4.32 | 
 | 349 | [Hue](games/h/hue.md) | 4.55 | 
 | 350 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 351 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
