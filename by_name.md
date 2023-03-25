@@ -175,7 +175,7 @@
 | 173 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 
 | 174 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 175 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
-| 176 | [Dead Space](games/d/dead_space.md) | 4.74 | 
+| 176 | [Dead Space](games/d/dead_space.md) | 4.73 | 
 | 177 | [Death Coming](games/d/death_coming.md) | 4.44 | 
 | 178 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
 | 179 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
@@ -670,7 +670,7 @@
 | 668 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
 | 669 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 670 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 671 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.68 | 
+| 671 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.69 | 
 | 672 | [STG Football](games/s/stg_football.md) | 4.44 | 
 | 673 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 674 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
@@ -802,7 +802,7 @@
 | 800 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 
 | 801 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 802 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 
-| 803 | [Trackmania](games/t/trackmania.md) | 4.66 | 
+| 803 | [Trackmania](games/t/trackmania.md) | 4.67 | 
 | 804 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
 | 805 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 
 | 806 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
@@ -876,7 +876,7 @@
 | 874 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 
 | 875 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
 | 876 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 877 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 
+| 877 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 
 | 878 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 879 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 880 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 

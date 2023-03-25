@@ -1,10 +1,10 @@
 {
   "ID": "b04882669b2e495e9f747c8560488c93",
   "Name": "Trackmania",
-  "Rating": 4.66,
+  "Rating": 4.67,
   "NumberOfRatings": 6825,
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-01-01T15:57:39.0011097+00:00",
+  "LastChanged": "2023-03-25T08:57:35.4338095+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:57.8589287+00:00",
@@ -2814,6 +2814,11 @@
     {
       "Time": "2023-01-01T15:57:39.0011099+00:00",
       "Rating": 4.66,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-25T08:57:35.4338096+00:00",
+      "Rating": 4.67,
       "NumberOfRatings": null
     }
   ],
