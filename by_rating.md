@@ -554,7 +554,6 @@
 | 551 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
 | 551 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 
 | 551 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 551 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
 | 551 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 
 | 551 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.48 | 
 | 551 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 
@@ -566,15 +565,16 @@
 | 551 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.48 | 
 | 551 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 
 | 551 | [Scorn](games/s/scorn.md) | 4.48 | 
-| 567 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
-| 567 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
-| 567 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
-| 567 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
-| 567 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
-| 567 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
-| 567 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
-| 567 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
-| 567 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.47 | 
+| 566 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 
+| 566 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
+| 566 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 
+| 566 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.47 | 
+| 566 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 
+| 566 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 
+| 566 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
+| 566 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 
+| 566 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 
+| 566 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.47 | 
 | 576 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 576 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 
 | 576 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
@@ -885,5 +885,5 @@
 | 883 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 
 | 883 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 885 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
-| 886 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.72 | 
+| 886 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.73 | 
 | 887 | [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | 

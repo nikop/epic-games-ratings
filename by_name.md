@@ -621,7 +621,7 @@
 | 619 | [shapez](games/s/shapez.md) | 4.76 | 
 | 620 | [Sheltered](games/s/sheltered.md) | 4.42 | 
 | 621 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
-| 622 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 
+| 622 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.47 | 
 | 623 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
 | 624 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
 | 625 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
@@ -749,7 +749,7 @@
 | 747 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 748 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 749 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 750 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.72 | 
+| 750 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.73 | 
 | 751 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 752 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.58 | 
 | 753 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
