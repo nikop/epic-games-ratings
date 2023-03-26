@@ -3,7 +3,7 @@
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
 | 2 | [20XX](games/2/20xx.md) | 4.61 | 
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
-| 4 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.55 | 
+| 4 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.52 | 
 | 5 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 6 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 7 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
@@ -717,7 +717,7 @@
 | 715 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 716 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 717 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
-| 718 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.71 | 
+| 718 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.72 | 
 | 719 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
 | 720 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 
 | 721 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
