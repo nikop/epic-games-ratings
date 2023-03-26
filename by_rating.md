@@ -817,17 +817,17 @@
 | 812 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
 | 812 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
 | 812 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 
-| 818 | [Pine](games/p/pine.md) | 4.15 | 
-| 818 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
-| 818 | [Relicta](games/r/relicta.md) | 4.15 | 
-| 818 | [Gone Home](games/g/gone_home.md) | 4.15 | 
-| 818 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 818 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.15 | 
-| 818 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
-| 825 | [Train Valley 2](games/t/train_valley_2.md) | 4.14 | 
-| 826 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
-| 826 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
-| 826 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.13 | 
+| 812 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.16 | 
+| 819 | [Pine](games/p/pine.md) | 4.15 | 
+| 819 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
+| 819 | [Relicta](games/r/relicta.md) | 4.15 | 
+| 819 | [Gone Home](games/g/gone_home.md) | 4.15 | 
+| 819 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
+| 819 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.15 | 
+| 819 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
+| 826 | [Train Valley 2](games/t/train_valley_2.md) | 4.14 | 
+| 827 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 
+| 827 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
 | 829 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
 | 829 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
 | 829 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
