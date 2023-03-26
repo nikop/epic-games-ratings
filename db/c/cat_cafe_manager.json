@@ -1,10 +1,10 @@
 {
   "ID": "62a6ce9d61c545f2975a3315aa58adc7",
   "Name": "Cat Cafe Manager",
-  "Rating": 4.62,
+  "Rating": 4.63,
   "NumberOfRatings": 34,
   "FirstSeen": "2022-07-22T20:29:32.4410641+00:00",
-  "LastChanged": "2022-12-29T15:58:24.4699226+00:00",
+  "LastChanged": "2023-03-26T22:58:02.9128579+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:32.4410644+00:00",
@@ -69,6 +69,11 @@
     {
       "Time": "2022-12-29T15:58:24.4699228+00:00",
       "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-26T22:58:02.9128581+00:00",
+      "Rating": 4.63,
       "NumberOfRatings": null
     }
   ],

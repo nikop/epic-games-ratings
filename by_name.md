@@ -113,13 +113,13 @@
 | 111 | [Card Shark](games/c/card_shark.md) | 4.67 | 
 | 112 | [CARRION](games/c/carrion.md) | 4.67 | 
 | 113 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 
-| 114 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
+| 114 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 
 | 115 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 
 | 116 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 117 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 118 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 119 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
-| 120 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
+| 120 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.74 | 
 | 121 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 
 | 122 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
 | 123 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
@@ -516,7 +516,7 @@
 | 514 | [Paladins](games/p/paladins.md) | 4.35 | 
 | 515 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.61 | 
 | 516 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 517 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 
+| 517 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 
 | 518 | [Parkitect](games/p/parkitect.md) | 4.34 | 
 | 519 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 520 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
@@ -799,7 +799,7 @@
 | 797 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
 | 798 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.68 | 
 | 799 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
-| 800 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.43 | 
+| 800 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
 | 801 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 
 | 802 | [Townscaper](games/t/townscaper.md) | 4.71 | 
 | 803 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 
