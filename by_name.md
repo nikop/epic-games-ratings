@@ -325,7 +325,7 @@
 | 323 | [Haven](games/h/haven.md) | 4.75 | 
 | 324 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 325 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 326 | [Hell is Others](games/h/hell_is_others.md) | 4.42 | 
+| 326 | [Hell is Others](games/h/hell_is_others.md) | 4.43 | 
 | 327 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 328 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.38 | 
 | 329 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
@@ -516,7 +516,7 @@
 | 514 | [Paladins](games/p/paladins.md) | 4.35 | 
 | 515 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.61 | 
 | 516 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 517 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 
+| 517 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 
 | 518 | [Parkitect](games/p/parkitect.md) | 4.34 | 
 | 519 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 520 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
@@ -625,7 +625,7 @@
 | 623 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 
 | 624 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
 | 625 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 
-| 626 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.23 | 
+| 626 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.26 | 
 | 627 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 628 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.15 | 
 | 629 | [Sifu](games/s/sifu.md) | 4.81 | 
@@ -769,7 +769,7 @@
 | 767 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 
 | 768 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.87 | 
 | 769 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 
-| 770 | [The Witness](games/t/the_witness.md) | 4.69 | 
+| 770 | [The Witness](games/t/the_witness.md) | 4.70 | 
 | 771 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 772 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 773 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
