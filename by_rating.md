@@ -767,16 +767,16 @@
 | 761 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
 | 766 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 766 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
+| 766 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.24 | 
 | 766 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
 | 766 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.24 | 
-| 770 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 770 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
-| 770 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 770 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.23 | 
-| 770 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 770 | [Rise of Industry](games/r/rise_of_industry.md) | 4.23 | 
-| 770 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.23 | 
-| 770 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
+| 771 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 771 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
+| 771 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
+| 771 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
+| 771 | [Rise of Industry](games/r/rise_of_industry.md) | 4.23 | 
+| 771 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.23 | 
+| 771 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
 | 778 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
 | 778 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
 | 778 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
@@ -865,8 +865,8 @@
 | 859 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 
 | 864 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 
 | 864 | [Gravewood High](games/g/gravewood_high.md) | 3.97 | 
-| 866 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 866 | [Banished](games/b/banished.md) | 3.95 | 
+| 866 | [Banished](games/b/banished.md) | 3.96 | 
+| 867 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
 | 868 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
 | 868 | [Patron](games/p/patron.md) | 3.94 | 
 | 868 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 

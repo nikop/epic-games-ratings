@@ -72,7 +72,7 @@
 | 70 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.91 | 
 | 71 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
 | 72 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 
-| 73 | [Banished](games/b/banished.md) | 3.95 | 
+| 73 | [Banished](games/b/banished.md) | 3.96 | 
 | 74 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 75 | [Barony](games/b/barony.md) | 4.71 | 
 | 76 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.33 | 
@@ -846,7 +846,7 @@
 | 844 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 845 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 846 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 847 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.23 | 
+| 847 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.24 | 
 | 848 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 849 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 850 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
