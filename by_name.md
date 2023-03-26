@@ -813,7 +813,7 @@
 | 811 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 812 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
 | 813 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 
-| 814 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.29 | 
+| 814 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.32 | 
 | 815 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.55 | 
 | 816 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.55 | 
 | 817 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
@@ -850,7 +850,7 @@
 | 848 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 849 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 850 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
-| 851 | [Warpips](games/w/warpips.md) | 4.40 | 
+| 851 | [Warpips](games/w/warpips.md) | 4.39 | 
 | 852 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 853 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 
 | 854 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
