@@ -100,13 +100,13 @@
 | 98 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 99 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 100 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
-| 101 | [Brawlhalla](games/b/brawlhalla.md) | 4.56 | 
+| 101 | [Brawlhalla](games/b/brawlhalla.md) | 4.55 | 
 | 102 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 103 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
 | 104 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 105 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
 | 106 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
-| 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
+| 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.37 | 
 | 108 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
 | 109 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 110 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
@@ -846,7 +846,7 @@
 | 844 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 845 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 846 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 847 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.24 | 
+| 847 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.23 | 
 | 848 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 849 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 850 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 

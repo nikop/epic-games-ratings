@@ -451,21 +451,21 @@
 | 434 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
 | 434 | [Observation](games/o/observation.md) | 4.56 | 
 | 434 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
-| 434 | [Brawlhalla](games/b/brawlhalla.md) | 4.56 | 
-| 453 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 453 | [Hue](games/h/hue.md) | 4.55 | 
-| 453 | [Outward](games/o/outward.md) | 4.55 | 
-| 453 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 453 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 453 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 
-| 453 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
-| 453 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.55 | 
-| 453 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 
-| 453 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
-| 453 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
-| 453 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.55 | 
-| 453 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 
-| 453 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.55 | 
+| 452 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 452 | [Hue](games/h/hue.md) | 4.55 | 
+| 452 | [Outward](games/o/outward.md) | 4.55 | 
+| 452 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 452 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
+| 452 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 
+| 452 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
+| 452 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.55 | 
+| 452 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 
+| 452 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
+| 452 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
+| 452 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.55 | 
+| 452 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 
+| 452 | [Brawlhalla](games/b/brawlhalla.md) | 4.55 | 
+| 452 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.55 | 
 | 467 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 467 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 467 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
@@ -687,16 +687,16 @@
 | 682 | [Encased](games/e/encased.md) | 4.37 | 
 | 682 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | 
 | 682 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
+| 682 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.37 | 
 | 682 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 689 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 
-| 689 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 689 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 689 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 689 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 
-| 689 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 689 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
-| 689 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
-| 689 | [ZOMBI](games/z/zombi.md) | 4.36 | 
+| 690 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 
+| 690 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 690 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 690 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 690 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 
+| 690 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
+| 690 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
+| 690 | [ZOMBI](games/z/zombi.md) | 4.36 | 
 | 698 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
 | 698 | [Paladins](games/p/paladins.md) | 4.35 | 
 | 698 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
@@ -766,17 +766,17 @@
 | 761 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
 | 765 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
 | 765 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
-| 765 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.24 | 
 | 765 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
 | 765 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.24 | 
-| 770 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 770 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
-| 770 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 770 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.23 | 
-| 770 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 770 | [Rise of Industry](games/r/rise_of_industry.md) | 4.23 | 
-| 770 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.23 | 
-| 770 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
+| 769 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 769 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
+| 769 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
+| 769 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.23 | 
+| 769 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.23 | 
+| 769 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
+| 769 | [Rise of Industry](games/r/rise_of_industry.md) | 4.23 | 
+| 769 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.23 | 
+| 769 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
 | 778 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
 | 778 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
 | 778 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
