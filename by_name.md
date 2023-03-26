@@ -567,7 +567,7 @@
 | 565 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 566 | [Returnal™](games/r/returnal™.md) | 4.68 | 
 | 567 | [Revita](games/r/revita.md) | 4.67 | 
-| 568 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 568 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 
 | 569 | [RiME](games/r/rime.md) | 4.59 | 
 | 570 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
 | 571 | [RimWorld](games/r/rimworld.md) | 4.89 | 
