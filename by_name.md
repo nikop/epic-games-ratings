@@ -635,7 +635,7 @@
 | 633 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 
 | 634 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 635 | [Slipways](games/s/slipways.md) | 4.73 | 
-| 636 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 
+| 636 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
 | 637 | [SMITE](games/s/smite.md) | 4.45 | 
 | 638 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 639 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
