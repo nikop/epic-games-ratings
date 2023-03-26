@@ -17,7 +17,7 @@
 | 15 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 16 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 
 | 17 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
-| 18 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 18 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
 | 19 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
 | 20 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 
 | 21 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
@@ -111,7 +111,7 @@
 | 109 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 110 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 111 | [Card Shark](games/c/card_shark.md) | 4.67 | 
-| 112 | [CARRION](games/c/carrion.md) | 4.68 | 
+| 112 | [CARRION](games/c/carrion.md) | 4.67 | 
 | 113 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 
 | 114 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 115 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 
@@ -506,7 +506,7 @@
 | 504 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 505 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 506 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
-| 507 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 507 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 508 | [Outward](games/o/outward.md) | 4.55 | 
 | 509 | [Overcooked](games/o/overcooked.md) | 4.67 | 
 | 510 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
