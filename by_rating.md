@@ -91,7 +91,6 @@
 | 78 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 78 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
 | 78 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
-| 92 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
 | 92 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
 | 92 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 92 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
@@ -99,10 +98,11 @@
 | 92 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
 | 92 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 92 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 
-| 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 100 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
-| 100 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 
+| 99 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 
+| 99 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 99 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
+| 99 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 
 | 104 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 104 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 104 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
@@ -140,18 +140,18 @@
 | 125 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 
 | 125 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 125 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 
-| 125 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 
-| 142 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
-| 142 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
-| 142 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
-| 142 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
-| 142 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 
-| 142 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
-| 142 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
-| 142 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
-| 142 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
-| 142 | [Dead Space](games/d/dead_space.md) | 4.74 | 
-| 142 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
+| 141 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 
+| 141 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
+| 141 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 
+| 141 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 
+| 141 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 
+| 141 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 
+| 141 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 
+| 141 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
+| 141 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 
+| 141 | [Dead Space](games/d/dead_space.md) | 4.74 | 
+| 141 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 
+| 141 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 
 | 153 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 
 | 153 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 
 | 153 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 
@@ -802,10 +802,10 @@
 | 798 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 
 | 798 | [Flatout](games/f/flatout.md) | 4.19 | 
 | 798 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
-| 803 | [Windbound](games/w/windbound.md) | 4.18 | 
-| 803 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 803 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.18 | 
-| 803 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
+| 798 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.19 | 
+| 804 | [Windbound](games/w/windbound.md) | 4.18 | 
+| 804 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 804 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
 | 807 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
 | 807 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 
 | 807 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 

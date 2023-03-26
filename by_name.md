@@ -337,7 +337,7 @@
 | 335 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.90 | 
 | 336 | [High On Life](games/h/high_on_life.md) | 4.68 | 
 | 337 | [HITMAN](games/h/hitman.md) | 4.64 | 
-| 338 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 
+| 338 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 339 | [Hob](games/h/hob.md) | 4.57 | 
 | 340 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 
 | 341 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 
@@ -558,7 +558,7 @@
 | 556 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 557 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 
 | 558 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
-| 559 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.18 | 
+| 559 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.19 | 
 | 560 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 561 | [Redout 2](games/r/redout_2.md) | 4.44 | 
 | 562 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
@@ -825,7 +825,7 @@
 | 823 | [TUNIC](games/t/tunic.md) | 4.85 | 
 | 824 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 825 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 826 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 
+| 826 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 
 | 827 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
 | 828 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.64 | 
 | 829 | [UnMetal](games/u/unmetal.md) | 4.52 | 
