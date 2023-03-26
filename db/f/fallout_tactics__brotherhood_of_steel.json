@@ -1,10 +1,10 @@
 {
   "ID": "b90be973f6e74975ac1a6ff15dbfd0b3",
   "Name": "Fallout Tactics: Brotherhood of Steel",
-  "Rating": 4.49,
+  "Rating": 4.5,
   "FirstSeen": "2022-10-20T22:01:33.5009817+00:00",
   "FirstSeenRating": "2022-12-23T20:57:41.5501633+00:00",
-  "LastChanged": "2023-03-25T23:58:11.9415882+00:00",
+  "LastChanged": "2023-03-26T23:57:46.6408765+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-23T20:57:41.5501636+00:00",
@@ -219,6 +219,11 @@
     {
       "Time": "2023-03-25T23:58:11.9415883+00:00",
       "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-26T23:57:46.6408767+00:00",
+      "Rating": 4.5,
       "NumberOfRatings": null
     }
   ],
