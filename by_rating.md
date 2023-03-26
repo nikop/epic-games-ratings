@@ -177,6 +177,7 @@
 | 168 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
 | 176 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 176 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
+| 176 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
 | 176 | [Barony](games/b/barony.md) | 4.71 | 
 | 176 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
 | 176 | [Fez](games/f/fez.md) | 4.71 | 
@@ -193,26 +194,25 @@
 | 176 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.71 | 
 | 176 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
 | 176 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.71 | 
-| 194 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
-| 194 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
-| 194 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 
-| 194 | [For The King](games/f/for_the_king.md) | 4.70 | 
-| 194 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
-| 194 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
-| 194 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 194 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
-| 194 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
-| 194 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
-| 194 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 194 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
-| 194 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
-| 194 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 194 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
-| 194 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
-| 194 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
-| 194 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.70 | 
-| 194 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
-| 194 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
+| 195 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
+| 195 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
+| 195 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 195 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
+| 195 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
+| 195 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 195 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
+| 195 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
+| 195 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
+| 195 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 195 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
+| 195 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
+| 195 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 195 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
+| 195 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
+| 195 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
+| 195 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.70 | 
+| 195 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
+| 195 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 214 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 214 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 214 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
@@ -414,26 +414,26 @@
 | 399 | [RiME](games/r/rime.md) | 4.58 | 
 | 399 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 399 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
-| 399 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.58 | 
 | 399 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
 | 399 | [The Medium](games/t/the_medium.md) | 4.58 | 
 | 399 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.58 | 
-| 419 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
-| 419 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
-| 419 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 
-| 419 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
-| 419 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
-| 419 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
-| 419 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
-| 419 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
-| 419 | [Hob](games/h/hob.md) | 4.57 | 
-| 419 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
-| 419 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
-| 419 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
-| 419 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
-| 419 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 
-| 419 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
-| 419 | [Everything](games/e/everything.md) | 4.57 | 
+| 418 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
+| 418 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
+| 418 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 
+| 418 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
+| 418 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 
+| 418 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 
+| 418 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 
+| 418 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.57 | 
+| 418 | [Hob](games/h/hob.md) | 4.57 | 
+| 418 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
+| 418 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 
+| 418 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 
+| 418 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 
+| 418 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 
+| 418 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 
+| 418 | [Everything](games/e/everything.md) | 4.57 | 
+| 418 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.57 | 
 | 435 | [MultiVersus](games/m/multiversus.md) | 4.56 | 
 | 435 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 
 | 435 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
@@ -653,7 +653,6 @@
 | 651 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 651 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 651 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 
-| 651 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 
 | 651 | [Othercide](games/o/othercide.md) | 4.40 | 
 | 651 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 
 | 651 | [Warpips](games/w/warpips.md) | 4.40 | 
@@ -662,14 +661,15 @@
 | 651 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
 | 651 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
 | 651 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 
-| 663 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 663 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 663 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
-| 663 | [Tacoma](games/t/tacoma.md) | 4.39 | 
-| 663 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 
-| 663 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
-| 663 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
-| 663 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.39 | 
+| 662 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
+| 662 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
+| 662 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
+| 662 | [Tacoma](games/t/tacoma.md) | 4.39 | 
+| 662 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
+| 662 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 
+| 662 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 
+| 662 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
+| 662 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.39 | 
 | 671 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 
 | 671 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 
 | 671 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 
