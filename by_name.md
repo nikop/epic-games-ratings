@@ -121,7 +121,7 @@
 | 119 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
 | 120 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.73 | 
 | 121 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 
-| 122 | [Chimeraland](games/c/chimeraland.md) | 3.89 | 
+| 122 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
 | 123 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
 | 124 | [Chorus](games/c/chorus.md) | 4.48 | 
 | 125 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
@@ -567,7 +567,7 @@
 | 565 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 566 | [Returnal™](games/r/returnal™.md) | 4.68 | 
 | 567 | [Revita](games/r/revita.md) | 4.67 | 
-| 568 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
+| 568 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 
 | 569 | [RiME](games/r/rime.md) | 4.59 | 
 | 570 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
 | 571 | [RimWorld](games/r/rimworld.md) | 4.89 | 
