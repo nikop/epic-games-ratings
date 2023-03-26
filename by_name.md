@@ -175,7 +175,7 @@
 | 173 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 
 | 174 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 175 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
-| 176 | [Dead Space](games/d/dead_space.md) | 4.73 | 
+| 176 | [Dead Space](games/d/dead_space.md) | 4.74 | 
 | 177 | [Death Coming](games/d/death_coming.md) | 4.44 | 
 | 178 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
 | 179 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
@@ -566,7 +566,7 @@
 | 564 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
 | 565 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 566 | [Returnal™](games/r/returnal™.md) | 4.68 | 
-| 567 | [Revita](games/r/revita.md) | 4.74 | 
+| 567 | [Revita](games/r/revita.md) | 4.67 | 
 | 568 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 569 | [RiME](games/r/rime.md) | 4.59 | 
 | 570 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
