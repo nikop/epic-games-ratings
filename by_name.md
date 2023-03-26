@@ -512,7 +512,7 @@
 | 510 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
 | 511 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
 | 512 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 
-| 513 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 
+| 513 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 
 | 514 | [Paladins](games/p/paladins.md) | 4.35 | 
 | 515 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.61 | 
 | 516 | [Paradigm](games/p/paradigm.md) | 4.48 | 
@@ -567,7 +567,7 @@
 | 565 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
 | 566 | [Returnal™](games/r/returnal™.md) | 4.68 | 
 | 567 | [Revita](games/r/revita.md) | 4.67 | 
-| 568 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 
+| 568 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
 | 569 | [RiME](games/r/rime.md) | 4.59 | 
 | 570 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
 | 571 | [RimWorld](games/r/rimworld.md) | 4.89 | 
@@ -883,7 +883,7 @@
 | 881 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
 | 882 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
 | 883 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 
-| 884 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.68 | 
+| 884 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 
 | 885 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 
 | 886 | [ZOMBI](games/z/zombi.md) | 4.36 | 
 | 887 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
