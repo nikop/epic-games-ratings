@@ -112,7 +112,7 @@
 | 110 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
 | 111 | [Card Shark](games/c/card_shark.md) | 4.67 | 
 | 112 | [CARRION](games/c/carrion.md) | 4.68 | 
-| 113 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.34 | 
+| 113 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 
 | 114 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.62 | 
 | 115 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 
 | 116 | [Celeste](games/c/celeste.md) | 4.92 | 
