@@ -568,7 +568,7 @@
 | 566 | [Returnal™](games/r/returnal™.md) | 4.68 | 
 | 567 | [Revita](games/r/revita.md) | 4.74 | 
 | 568 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 
-| 569 | [RiME](games/r/rime.md) | 4.58 | 
+| 569 | [RiME](games/r/rime.md) | 4.59 | 
 | 570 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
 | 571 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 572 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
@@ -745,7 +745,7 @@
 | 743 | [The Medium](games/t/the_medium.md) | 4.58 | 
 | 744 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
 | 745 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 746 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.14 | 
+| 746 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.17 | 
 | 747 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 748 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 749 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
