@@ -639,7 +639,7 @@
 | 637 | [SMITE](games/s/smite.md) | 4.45 | 
 | 638 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 639 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
-| 640 | [Solitairica](games/s/solitairica.md) | 4.50 | 
+| 640 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 641 | [SOMA](games/s/soma.md) | 4.65 | 
 | 642 | [Somerville](games/s/somerville.md) | 4.20 | 
 | 643 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
