@@ -34,7 +34,7 @@
 | 32 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
 | 33 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 34 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 
-| 35 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
+| 35 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
 | 36 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 
 | 37 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 38 | [APE OUT](games/a/ape_out.md) | 4.65 | 
@@ -106,7 +106,7 @@
 | 104 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
 | 105 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 
 | 106 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
-| 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.37 | 
+| 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
 | 108 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
 | 109 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 110 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 
@@ -268,7 +268,7 @@
 | 266 | [Firework](games/f/firework.md) | 4.89 | 
 | 267 | [First Class Trouble](games/f/first_class_trouble.md) | 4.52 | 
 | 268 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
-| 269 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 
+| 269 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 
 | 270 | [Flatout](games/f/flatout.md) | 4.19 | 
 | 271 | [Flatout 2](games/f/flatout_2.md) | 4.92 | 
 | 272 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
