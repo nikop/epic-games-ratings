@@ -143,7 +143,7 @@
 | 141 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
 | 142 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 143 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
-| 144 | [Crashlands](games/c/crashlands.md) | 4.66 | 
+| 144 | [Crashlands](games/c/crashlands.md) | 4.65 | 
 | 145 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 146 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 147 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
@@ -245,7 +245,7 @@
 | 243 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 244 | [Fangs](games/f/fangs.md) | 4.09 | 
 | 245 | [Far Cry](games/f/far_cry.md) | 4.48 | 
-| 246 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.23 | 
+| 246 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
 | 247 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 
 | 248 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
 | 249 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 
