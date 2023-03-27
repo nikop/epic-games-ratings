@@ -403,7 +403,7 @@
 | 401 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
 | 402 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 
 | 403 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.48 | 
-| 404 | [Knockout City™](games/k/knockout_city™.md) | 4.54 | 
+| 404 | [Knockout City™](games/k/knockout_city™.md) | 4.55 | 
 | 405 | [Lake](games/l/lake.md) | 4.03 | 
 | 406 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 407 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
@@ -572,7 +572,7 @@
 | 570 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
 | 571 | [RimWorld](games/r/rimworld.md) | 4.89 | 
 | 572 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 573 | [Rise of Industry](games/r/rise_of_industry.md) | 4.23 | 
+| 573 | [Rise of Industry](games/r/rise_of_industry.md) | 4.22 | 
 | 574 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
 | 575 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 
 | 576 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
