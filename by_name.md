@@ -62,7 +62,7 @@
 | 60 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
 | 61 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 62 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 63 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.55 | 
+| 63 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 
 | 64 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
 | 65 | [Aztez](games/a/aztez.md) | 4.53 | 
 | 66 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 
@@ -516,7 +516,7 @@
 | 514 | [Paladins](games/p/paladins.md) | 4.35 | 
 | 515 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.61 | 
 | 516 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 517 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 
+| 517 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 
 | 518 | [Parkitect](games/p/parkitect.md) | 4.34 | 
 | 519 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 520 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 

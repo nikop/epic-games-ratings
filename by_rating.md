@@ -444,6 +444,7 @@
 | 436 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 
 | 436 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 
 | 436 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
+| 436 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 
 | 436 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 
 | 436 | [Minit](games/m/minit.md) | 4.56 | 
 | 436 | [Isonzo](games/i/isonzo.md) | 4.56 | 
@@ -453,21 +454,20 @@
 | 436 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 
 | 436 | [Observation](games/o/observation.md) | 4.56 | 
 | 436 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 
-| 454 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
-| 454 | [Hue](games/h/hue.md) | 4.55 | 
-| 454 | [Outward](games/o/outward.md) | 4.55 | 
-| 454 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
-| 454 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
-| 454 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 
-| 454 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
-| 454 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.55 | 
-| 454 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 
-| 454 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
-| 454 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
-| 454 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.55 | 
-| 454 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 
-| 454 | [Brawlhalla](games/b/brawlhalla.md) | 4.55 | 
-| 454 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.55 | 
+| 455 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 
+| 455 | [Hue](games/h/hue.md) | 4.55 | 
+| 455 | [Outward](games/o/outward.md) | 4.55 | 
+| 455 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
+| 455 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 
+| 455 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 
+| 455 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 
+| 455 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 
+| 455 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
+| 455 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
+| 455 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.55 | 
+| 455 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 
+| 455 | [Brawlhalla](games/b/brawlhalla.md) | 4.55 | 
+| 455 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.55 | 
 | 469 | [VALORANT](games/v/valorant.md) | 4.54 | 
 | 469 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 469 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
@@ -765,13 +765,13 @@
 | 758 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.26 | 
 | 764 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 764 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
-| 764 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 
 | 764 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
-| 768 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 768 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
-| 768 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.24 | 
-| 768 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
-| 768 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.24 | 
+| 767 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
+| 767 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
+| 767 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.24 | 
+| 767 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
+| 767 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.24 | 
+| 767 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 
 | 773 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 773 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
 | 773 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
