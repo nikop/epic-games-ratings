@@ -95,15 +95,15 @@
 | 93 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
 | 93 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 93 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
-| 93 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 
 | 93 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
 | 93 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
 | 93 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 100 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
-| 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 
-| 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
-| 100 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
-| 100 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 
+| 99 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
+| 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 
+| 99 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 
+| 99 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 
+| 99 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
+| 99 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 
 | 105 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 
 | 105 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 
 | 105 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 
@@ -776,13 +776,13 @@
 | 773 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
 | 773 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
 | 773 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
-| 773 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.23 | 
 | 773 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 773 | [Rise of Industry](games/r/rise_of_industry.md) | 4.23 | 
 | 773 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
-| 781 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
-| 781 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
-| 781 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
+| 780 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
+| 780 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
+| 780 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.22 | 
+| 780 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 784 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 784 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 784 | [Starsand](games/s/starsand.md) | 4.21 | 
