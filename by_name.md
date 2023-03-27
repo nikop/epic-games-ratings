@@ -46,7 +46,7 @@
 | 44 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 
 | 45 | [Ashen](games/a/ashen.md) | 4.34 | 
 | 46 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.67 | 
-| 47 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 
+| 47 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 
 | 48 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 
 | 49 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 
 | 50 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 
@@ -484,7 +484,7 @@
 | 482 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 
 | 483 | [NORCO](games/n/norco.md) | 4.62 | 
 | 484 | [Northgard](games/n/northgard.md) | 4.72 | 
-| 485 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.71 | 
+| 485 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.72 | 
 | 486 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
 | 487 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
 | 488 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
@@ -672,7 +672,7 @@
 | 670 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
 | 671 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 672 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 673 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.69 | 
+| 673 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.68 | 
 | 674 | [STG Football](games/s/stg_football.md) | 4.43 | 
 | 675 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 676 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
