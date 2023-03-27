@@ -253,7 +253,7 @@
 | 251 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
 | 252 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
 | 253 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 
-| 254 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.68 | 
+| 254 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 
 | 255 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 
 | 256 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 
 | 257 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
@@ -310,7 +310,7 @@
 | 308 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 309 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.16 | 
 | 310 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
-| 311 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.57 | 
+| 311 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.58 | 
 | 312 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.63 | 
 | 313 | [Gravewood High](games/g/gravewood_high.md) | 3.97 | 
 | 314 | [Griftlands](games/g/griftlands.md) | 4.81 | 
@@ -516,7 +516,7 @@
 | 514 | [Paladins](games/p/paladins.md) | 4.35 | 
 | 515 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.61 | 
 | 516 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 517 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 
+| 517 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 
 | 518 | [Parkitect](games/p/parkitect.md) | 4.34 | 
 | 519 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 520 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
