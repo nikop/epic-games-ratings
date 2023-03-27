@@ -384,7 +384,7 @@
 | 382 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 383 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
 | 384 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 385 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.10 | 
+| 385 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.09 | 
 | 386 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 387 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 388 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
@@ -532,7 +532,7 @@
 | 530 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 
 | 531 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
 | 532 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 533 | [Pinball FX](games/p/pinball_fx.md) | 4.01 | 
+| 533 | [Pinball FX](games/p/pinball_fx.md) | 4.02 | 
 | 534 | [Pine](games/p/pine.md) | 4.15 | 
 | 535 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 
 | 536 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
@@ -879,7 +879,7 @@
 | 877 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 
 | 878 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
 | 879 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 880 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 
+| 880 | [WRC Generations](games/w/wrc_generations.md) | 4.45 | 
 | 881 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
 | 882 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
 | 883 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 
@@ -888,4 +888,4 @@
 | 886 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 
 | 887 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 
 | 888 | [ZOMBI](games/z/zombi.md) | 4.36 | 
-| 889 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 
+| 889 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 
