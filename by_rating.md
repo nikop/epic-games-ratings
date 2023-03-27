@@ -621,7 +621,6 @@
 | 604 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
 | 604 | [Predecessor](games/p/predecessor.md) | 4.44 | 
 | 604 | [Redout 2](games/r/redout_2.md) | 4.44 | 
-| 622 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
 | 622 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
 | 622 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
 | 622 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
@@ -631,15 +630,16 @@
 | 622 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 622 | [STG Football](games/s/stg_football.md) | 4.43 | 
 | 622 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
-| 632 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 632 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 632 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 632 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 632 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 
-| 632 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 632 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 632 | [ELEX](games/e/elex.md) | 4.42 | 
-| 632 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
+| 631 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 631 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 631 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 631 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 631 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 631 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 
+| 631 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
+| 631 | [Good Company](games/g/good_company.md) | 4.42 | 
+| 631 | [ELEX](games/e/elex.md) | 4.42 | 
+| 631 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
 | 641 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 641 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 641 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
@@ -765,13 +765,13 @@
 | 758 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.26 | 
 | 764 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
 | 764 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
-| 764 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 
 | 764 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
-| 768 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 768 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
-| 768 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
-| 768 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
-| 768 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.24 | 
+| 767 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
+| 767 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
+| 767 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 
+| 767 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
+| 767 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.24 | 
+| 767 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 
 | 773 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 773 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
 | 773 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
@@ -887,5 +887,5 @@
 | 885 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 
 | 885 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 887 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
-| 888 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.73 | 
+| 888 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.72 | 
 | 889 | [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | 

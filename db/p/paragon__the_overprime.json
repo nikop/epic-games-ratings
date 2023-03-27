@@ -1,10 +1,10 @@
 {
   "ID": "7bb9b09415a544f78fadf6390b2e3a80",
   "Name": "Paragon: The Overprime",
-  "Rating": 4.25,
+  "Rating": 4.24,
   "FirstSeen": "2022-11-07T03:53:37.8993563+00:00",
   "FirstSeenRating": "2022-11-10T14:19:52.8915141+00:00",
-  "LastChanged": "2023-03-27T14:59:11.1135436+00:00",
+  "LastChanged": "2023-03-27T22:58:51.2055949+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-10T14:19:52.8915147+00:00",
@@ -354,6 +354,11 @@
     {
       "Time": "2023-03-27T14:59:11.113544+00:00",
       "Rating": 4.25,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-27T22:58:51.205595+00:00",
+      "Rating": 4.24,
       "NumberOfRatings": null
     }
   ],

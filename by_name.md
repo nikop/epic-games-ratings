@@ -506,7 +506,7 @@
 | 504 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
 | 505 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 506 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
-| 507 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
+| 507 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
 | 508 | [Outward](games/o/outward.md) | 4.55 | 
 | 509 | [Overcooked](games/o/overcooked.md) | 4.67 | 
 | 510 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 
@@ -516,7 +516,7 @@
 | 514 | [Paladins](games/p/paladins.md) | 4.35 | 
 | 515 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.61 | 
 | 516 | [Paradigm](games/p/paradigm.md) | 4.48 | 
-| 517 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 
+| 517 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 
 | 518 | [Parkitect](games/p/parkitect.md) | 4.34 | 
 | 519 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 
 | 520 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
@@ -751,7 +751,7 @@
 | 749 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 750 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 751 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
-| 752 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.73 | 
+| 752 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.72 | 
 | 753 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 
 | 754 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.58 | 
 | 755 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
