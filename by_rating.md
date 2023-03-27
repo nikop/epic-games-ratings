@@ -747,12 +747,12 @@
 | 744 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 
 | 744 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 
 | 744 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 
+| 744 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.29 | 
 | 744 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 
 | 744 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 
-| 750 | [Rage 2](games/r/rage_2.md) | 4.28 | 
-| 750 | [Steelrising](games/s/steelrising.md) | 4.28 | 
-| 750 | [The Fall](games/t/the_fall.md) | 4.28 | 
-| 750 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.28 | 
+| 751 | [Rage 2](games/r/rage_2.md) | 4.28 | 
+| 751 | [Steelrising](games/s/steelrising.md) | 4.28 | 
+| 751 | [The Fall](games/t/the_fall.md) | 4.28 | 
 | 754 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 
 | 754 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
 | 754 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
