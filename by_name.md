@@ -34,7 +34,7 @@
 | 32 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
 | 33 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
 | 34 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 
-| 35 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 
+| 35 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.44 | 
 | 36 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 
 | 37 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 38 | [APE OUT](games/a/ape_out.md) | 4.65 | 
@@ -100,7 +100,7 @@
 | 98 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 
 | 99 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 100 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
-| 101 | [Brawlhalla](games/b/brawlhalla.md) | 4.55 | 
+| 101 | [Brawlhalla](games/b/brawlhalla.md) | 4.56 | 
 | 102 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 103 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
 | 104 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 
@@ -304,14 +304,14 @@
 | 302 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 303 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 
 | 304 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 
-| 305 | [Gone Home](games/g/gone_home.md) | 4.15 | 
+| 305 | [Gone Home](games/g/gone_home.md) | 4.16 | 
 | 306 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 307 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
 | 308 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
 | 309 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.16 | 
 | 310 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 311 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.57 | 
-| 312 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.62 | 
+| 312 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.63 | 
 | 313 | [Gravewood High](games/g/gravewood_high.md) | 3.97 | 
 | 314 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 315 | [GRIME](games/g/grime.md) | 4.62 | 
@@ -688,7 +688,7 @@
 | 686 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
 | 687 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 
 | 688 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
-| 689 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.72 | 
+| 689 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
 | 690 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.71 | 
 | 691 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
 | 692 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.69 | 
@@ -848,11 +848,11 @@
 | 846 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 847 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 848 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 849 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.24 | 
+| 849 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.23 | 
 | 850 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 851 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 852 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
-| 853 | [Warpips](games/w/warpips.md) | 4.39 | 
+| 853 | [Warpips](games/w/warpips.md) | 4.40 | 
 | 854 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 855 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 
 | 856 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
