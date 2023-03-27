@@ -503,7 +503,6 @@
 | 496 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
 | 496 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 496 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 496 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
 | 496 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
 | 496 | [UnMetal](games/u/unmetal.md) | 4.52 | 
 | 496 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
@@ -511,17 +510,18 @@
 | 496 | [First Class Trouble](games/f/first_class_trouble.md) | 4.52 | 
 | 496 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.52 | 
 | 496 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 512 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 
-| 512 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 512 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 
-| 512 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 512 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 512 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 512 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 512 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 512 | [Horace](games/h/horace.md) | 4.51 | 
-| 512 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
-| 512 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
+| 511 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 
+| 511 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 511 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 
+| 511 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 511 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 511 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 511 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 511 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 511 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
+| 511 | [Horace](games/h/horace.md) | 4.51 | 
+| 511 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
+| 511 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
 | 523 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 523 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 523 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
@@ -719,18 +719,18 @@
 | 717 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 717 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 717 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
-| 717 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 
 | 717 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.33 | 
 | 717 | [Backbone](games/b/backbone.md) | 4.33 | 
 | 717 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
 | 717 | [Filament](games/f/filament.md) | 4.33 | 
 | 717 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
 | 717 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 
-| 727 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 727 | [House Party](games/h/house_party.md) | 4.32 | 
-| 727 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
-| 727 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 
-| 727 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.32 | 
+| 726 | [Vampyr](games/v/vampyr.md) | 4.32 | 
+| 726 | [House Party](games/h/house_party.md) | 4.32 | 
+| 726 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
+| 726 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 
+| 726 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 
+| 726 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.32 | 
 | 732 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 732 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 732 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
@@ -775,14 +775,14 @@
 | 773 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 773 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
 | 773 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
+| 773 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
 | 773 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.23 | 
 | 773 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 773 | [Rise of Industry](games/r/rise_of_industry.md) | 4.23 | 
 | 773 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
-| 780 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
-| 780 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
-| 780 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
-| 780 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
+| 781 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
+| 781 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
+| 781 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
 | 784 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 784 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 784 | [Starsand](games/s/starsand.md) | 4.21 | 
@@ -832,13 +832,13 @@
 | 829 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
 | 831 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 
 | 831 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
+| 831 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.11 | 
 | 831 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
-| 834 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
-| 834 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 834 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
-| 834 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 834 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
-| 834 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
+| 835 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
+| 835 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 835 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 835 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
+| 835 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 840 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 840 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.09 | 
 | 840 | [Submerged](games/s/submerged.md) | 4.09 | 

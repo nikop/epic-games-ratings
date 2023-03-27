@@ -164,7 +164,7 @@
 | 162 | [Dark Light](games/d/dark_light.md) | 4.31 | 
 | 163 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
 | 164 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
-| 165 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 
+| 165 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 166 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
 | 167 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 168 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.61 | 
@@ -284,7 +284,7 @@
 | 282 | [FUSER™](games/f/fuser™.md) | 4.71 | 
 | 283 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 284 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 285 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.33 | 
+| 285 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 
 | 286 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
 | 287 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 
 | 288 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 
@@ -468,7 +468,7 @@
 | 466 | [MythForce](games/m/mythforce.md) | 4.51 | 
 | 467 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
 | 468 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 
-| 469 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 
+| 469 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.11 | 
 | 470 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 
 | 471 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.69 | 
 | 472 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 
@@ -668,7 +668,7 @@
 | 666 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 
 | 667 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.66 | 
 | 668 | [Starsand](games/s/starsand.md) | 4.21 | 
-| 669 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 
+| 669 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
 | 670 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 
 | 671 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 
 | 672 | [Steelrising](games/s/steelrising.md) | 4.28 | 
