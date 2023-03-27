@@ -620,17 +620,17 @@
 | 604 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
 | 604 | [Predecessor](games/p/predecessor.md) | 4.44 | 
 | 604 | [Redout 2](games/r/redout_2.md) | 4.44 | 
-| 604 | [STG Football](games/s/stg_football.md) | 4.44 | 
 | 604 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 
-| 623 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
-| 623 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 623 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
-| 623 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
-| 623 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
-| 623 | [Duskers](games/d/duskers.md) | 4.43 | 
-| 623 | [Hell is Others](games/h/hell_is_others.md) | 4.43 | 
-| 623 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
-| 623 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
+| 622 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 
+| 622 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 622 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
+| 622 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
+| 622 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
+| 622 | [Duskers](games/d/duskers.md) | 4.43 | 
+| 622 | [Hell is Others](games/h/hell_is_others.md) | 4.43 | 
+| 622 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
+| 622 | [STG Football](games/s/stg_football.md) | 4.43 | 
+| 622 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 632 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 632 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 632 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
