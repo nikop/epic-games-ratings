@@ -148,7 +148,7 @@
 | 146 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 147 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 148 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 149 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 
+| 149 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.34 | 
 | 150 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 151 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 152 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
@@ -325,7 +325,7 @@
 | 323 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
 | 324 | [Haven](games/h/haven.md) | 4.75 | 
 | 325 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
-| 326 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
+| 326 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 327 | [Hell is Others](games/h/hell_is_others.md) | 4.43 | 
 | 328 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 329 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.38 | 
@@ -638,7 +638,7 @@
 | 636 | [Slipways](games/s/slipways.md) | 4.73 | 
 | 637 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
 | 638 | [SMITE](games/s/smite.md) | 4.45 | 
-| 639 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.62 | 
+| 639 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.65 | 
 | 640 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 641 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
 | 642 | [Solitairica](games/s/solitairica.md) | 4.49 | 

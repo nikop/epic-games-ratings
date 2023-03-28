@@ -295,7 +295,6 @@
 | 288 | [Crashlands](games/c/crashlands.md) | 4.65 | 
 | 288 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
 | 288 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 288 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
 | 288 | [SOMA](games/s/soma.md) | 4.65 | 
 | 288 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
 | 288 | [Coromon](games/c/coromon.md) | 4.65 | 
@@ -307,46 +306,47 @@
 | 288 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.65 | 
 | 288 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.65 | 
 | 288 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 
+| 288 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.65 | 
 | 308 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 308 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 308 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 308 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 308 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
+| 308 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
 | 308 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 
 | 308 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 308 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 
 | 308 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.64 | 
 | 308 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
 | 308 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
-| 319 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 319 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 319 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 319 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.63 | 
-| 319 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
-| 319 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 319 | [Mutazione](games/m/mutazione.md) | 4.63 | 
-| 319 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 
-| 319 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
-| 319 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
-| 319 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 
-| 319 | [GigaBash](games/g/gigabash.md) | 4.63 | 
-| 319 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.63 | 
-| 332 | [Prey](games/p/prey.md) | 4.62 | 
-| 332 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
-| 332 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
-| 332 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
-| 332 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 
-| 332 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 
-| 332 | [Limbo](games/l/limbo.md) | 4.62 | 
-| 332 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 
-| 332 | [Transistor](games/t/transistor.md) | 4.62 | 
-| 332 | [GRIME](games/g/grime.md) | 4.62 | 
-| 332 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 
-| 332 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
-| 332 | [NORCO](games/n/norco.md) | 4.62 | 
-| 332 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
-| 332 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.62 | 
-| 332 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.62 | 
+| 320 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 320 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 320 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 320 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.63 | 
+| 320 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
+| 320 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
+| 320 | [Mutazione](games/m/mutazione.md) | 4.63 | 
+| 320 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 
+| 320 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
+| 320 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
+| 320 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 
+| 320 | [GigaBash](games/g/gigabash.md) | 4.63 | 
+| 320 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.63 | 
+| 333 | [Prey](games/p/prey.md) | 4.62 | 
+| 333 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
+| 333 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
+| 333 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
+| 333 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 
+| 333 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 
+| 333 | [Limbo](games/l/limbo.md) | 4.62 | 
+| 333 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 
+| 333 | [Transistor](games/t/transistor.md) | 4.62 | 
+| 333 | [GRIME](games/g/grime.md) | 4.62 | 
+| 333 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 
+| 333 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
+| 333 | [NORCO](games/n/norco.md) | 4.62 | 
+| 333 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
+| 333 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.62 | 
 | 348 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 348 | [Supraland](games/s/supraland.md) | 4.61 | 
 | 348 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
@@ -703,19 +703,19 @@
 | 700 | [Paladins](games/p/paladins.md) | 4.35 | 
 | 700 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 700 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 700 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 
 | 700 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 700 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 
 | 700 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
-| 708 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 708 | [Automachef](games/a/automachef.md) | 4.34 | 
-| 708 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.34 | 
-| 708 | [Torchlight](games/t/torchlight.md) | 4.34 | 
-| 708 | [Ashen](games/a/ashen.md) | 4.34 | 
-| 708 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 
-| 708 | [Parkitect](games/p/parkitect.md) | 4.34 | 
-| 708 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
-| 708 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.34 | 
+| 707 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 707 | [Automachef](games/a/automachef.md) | 4.34 | 
+| 707 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.34 | 
+| 707 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.34 | 
+| 707 | [Torchlight](games/t/torchlight.md) | 4.34 | 
+| 707 | [Ashen](games/a/ashen.md) | 4.34 | 
+| 707 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 
+| 707 | [Parkitect](games/p/parkitect.md) | 4.34 | 
+| 707 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
+| 707 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.34 | 
 | 717 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 717 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 717 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
