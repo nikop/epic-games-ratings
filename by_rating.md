@@ -888,5 +888,5 @@
 | 886 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 
 | 886 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 888 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
-| 889 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.72 | 
-| 890 | [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | 
+| 889 | [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | 
+| 889 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.71 | 
