@@ -60,13 +60,13 @@
 | 54 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 
 | 54 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.83 | 
 | 54 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 
-| 61 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 61 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
-| 61 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 61 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 61 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
-| 61 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
-| 61 | [Tchia](games/t/tchia.md) | 4.82 | 
+| 54 | [Tchia](games/t/tchia.md) | 4.83 | 
+| 62 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 62 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 62 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
+| 62 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
+| 62 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
+| 62 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
 | 68 | [Sifu](games/s/sifu.md) | 4.81 | 
 | 68 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
 | 68 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 

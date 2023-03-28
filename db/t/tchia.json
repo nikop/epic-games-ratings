@@ -1,14 +1,19 @@
 {
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
-  "Rating": 4.82,
+  "Rating": 4.83,
   "FirstSeen": "2023-03-21T09:57:30.0588208+00:00",
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
-  "LastChanged": "2023-03-27T01:58:07.9260381+00:00",
+  "LastChanged": "2023-03-28T02:01:46.1068096+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-27T01:58:07.9260384+00:00",
       "Rating": 4.82,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-28T02:01:46.1068098+00:00",
+      "Rating": 4.83,
       "NumberOfRatings": null
     }
   ],

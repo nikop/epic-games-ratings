@@ -707,7 +707,7 @@
 | 705 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 706 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 707 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 708 | [Tchia](games/t/tchia.md) | 4.82 | 
+| 708 | [Tchia](games/t/tchia.md) | 4.83 | 
 | 709 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 
 | 710 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 711 | [Tharsis](games/t/tharsis.md) | 4.05 | 
