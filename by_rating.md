@@ -686,19 +686,19 @@
 | 684 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 
 | 684 | [Core](games/c/core.md) | 4.37 | 
 | 684 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 
-| 684 | [Encased](games/e/encased.md) | 4.37 | 
 | 684 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | 
 | 684 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 684 | [Lamentum](games/l/lamentum.md) | 4.37 | 
-| 691 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 
-| 691 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
-| 691 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 691 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
-| 691 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 
-| 691 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
-| 691 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
-| 691 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
-| 691 | [ZOMBI](games/z/zombi.md) | 4.36 | 
+| 690 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 
+| 690 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
+| 690 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
+| 690 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
+| 690 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 
+| 690 | [Encased](games/e/encased.md) | 4.36 | 
+| 690 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 
+| 690 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
+| 690 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
+| 690 | [ZOMBI](games/z/zombi.md) | 4.36 | 
 | 700 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
 | 700 | [Paladins](games/p/paladins.md) | 4.35 | 
 | 700 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
@@ -777,13 +777,13 @@
 | 774 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
 | 774 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
 | 774 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
+| 774 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.23 | 
 | 774 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 774 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
-| 780 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
-| 780 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
-| 780 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.22 | 
-| 780 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
-| 780 | [Rise of Industry](games/r/rise_of_industry.md) | 4.22 | 
+| 781 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
+| 781 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
+| 781 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
+| 781 | [Rise of Industry](games/r/rise_of_industry.md) | 4.22 | 
 | 785 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 785 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 785 | [Starsand](games/s/starsand.md) | 4.21 | 
