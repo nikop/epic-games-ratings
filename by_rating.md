@@ -250,27 +250,27 @@
 | 235 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 
 | 235 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 235 | [GNOG](games/g/gnog.md) | 4.68 | 
+| 235 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 
 | 235 | [Returnal™](games/r/returnal™.md) | 4.68 | 
 | 235 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 
 | 235 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 
-| 254 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
-| 254 | [Trackmania](games/t/trackmania.md) | 4.67 | 
-| 254 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
-| 254 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
-| 254 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
-| 254 | [Overcooked](games/o/overcooked.md) | 4.67 | 
-| 254 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
-| 254 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
-| 254 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
-| 254 | [CARRION](games/c/carrion.md) | 4.67 | 
-| 254 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
-| 254 | [Eastward](games/e/eastward.md) | 4.67 | 
-| 254 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 
-| 254 | [Revita](games/r/revita.md) | 4.67 | 
-| 254 | [Card Shark](games/c/card_shark.md) | 4.67 | 
-| 254 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.67 | 
-| 254 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.67 | 
-| 254 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 
+| 255 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
+| 255 | [Trackmania](games/t/trackmania.md) | 4.67 | 
+| 255 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 
+| 255 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
+| 255 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
+| 255 | [Overcooked](games/o/overcooked.md) | 4.67 | 
+| 255 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 
+| 255 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 
+| 255 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 
+| 255 | [CARRION](games/c/carrion.md) | 4.67 | 
+| 255 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
+| 255 | [Eastward](games/e/eastward.md) | 4.67 | 
+| 255 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 
+| 255 | [Revita](games/r/revita.md) | 4.67 | 
+| 255 | [Card Shark](games/c/card_shark.md) | 4.67 | 
+| 255 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.67 | 
+| 255 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 
 | 272 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
 | 272 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
 | 272 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
@@ -716,7 +716,6 @@
 | 707 | [Parkitect](games/p/parkitect.md) | 4.34 | 
 | 707 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
 | 707 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.34 | 
-| 717 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 717 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 717 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 717 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.33 | 
@@ -724,13 +723,14 @@
 | 717 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
 | 717 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
 | 717 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 
-| 725 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 725 | [House Party](games/h/house_party.md) | 4.32 | 
-| 725 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
-| 725 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 
-| 725 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 
-| 725 | [Filament](games/f/filament.md) | 4.32 | 
-| 725 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.32 | 
+| 724 | [Vampyr](games/v/vampyr.md) | 4.32 | 
+| 724 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 
+| 724 | [House Party](games/h/house_party.md) | 4.32 | 
+| 724 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
+| 724 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 
+| 724 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 
+| 724 | [Filament](games/f/filament.md) | 4.32 | 
+| 724 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.32 | 
 | 732 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 732 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 732 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
@@ -809,11 +809,11 @@
 | 802 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.19 | 
 | 808 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 808 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 808 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
-| 811 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
-| 811 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 
-| 811 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
-| 811 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
+| 810 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
+| 810 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 
+| 810 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
+| 810 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
+| 810 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.17 | 
 | 815 | [Space Punks](games/s/space_punks.md) | 4.16 | 
 | 815 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 
 | 815 | [Gone Home](games/g/gone_home.md) | 4.16 | 

@@ -1,5 +1,5 @@
 # I Was a Teenage Exocolonist
-Rating: 4.67 (-)  (as of 23.09.2022)  
+Rating: 4.68 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -8,3 +8,4 @@ Rating: 4.67 (-)  (as of 23.09.2022)
 | 2022-11-18 | 4.64 | - |
 | 2022-12-09 | 4.65 | - |
 | 2023-03-05 | 4.67 | - |
+| 2023-03-28 | 4.68 | - |

@@ -29,7 +29,7 @@
 | 27 | [Among Us](games/a/among_us.md) | 4.58 | 
 | 28 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 29 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 
-| 30 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
+| 30 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 
 | 31 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 
 | 32 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
 | 33 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
@@ -355,7 +355,7 @@
 | 353 | [Huntdown](games/h/huntdown.md) | 4.85 | 
 | 354 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
 | 355 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
-| 356 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.67 | 
+| 356 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 
 | 357 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.77 | 
 | 358 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 
 | 359 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 
@@ -716,7 +716,7 @@
 | 714 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.62 | 
 | 715 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
 | 716 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 
-| 717 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
+| 717 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.17 | 
 | 718 | [The Captain](games/t/the_captain.md) | 4.44 | 
 | 719 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
 | 720 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
