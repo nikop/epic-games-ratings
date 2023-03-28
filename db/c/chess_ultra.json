@@ -1,7 +1,16 @@
 {
   "ID": "0e9ae0e756524ed49a27435c9c3c3e1c",
   "Name": "Chess Ultra",
+  "Rating": 4.27,
   "FirstSeen": "2023-03-23T15:57:26.8098096+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
+  "LastChanged": "2023-03-28T10:57:23.5590255+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-28T10:57:23.5590256+00:00",
+      "Rating": 4.27,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }
