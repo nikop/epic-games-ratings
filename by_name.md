@@ -639,7 +639,7 @@
 | 637 | [SMITE](games/s/smite.md) | 4.45 | 
 | 638 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.62 | 
 | 639 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
-| 640 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
+| 640 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
 | 641 | [Solitairica](games/s/solitairica.md) | 4.49 | 
 | 642 | [SOMA](games/s/soma.md) | 4.65 | 
 | 643 | [Somerville](games/s/somerville.md) | 4.20 | 
@@ -747,7 +747,7 @@
 | 745 | [The Medium](games/t/the_medium.md) | 4.58 | 
 | 746 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
 | 747 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 748 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.17 | 
+| 748 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.21 | 
 | 749 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 750 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 751 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 

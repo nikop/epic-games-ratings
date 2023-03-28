@@ -281,32 +281,32 @@
 | 272 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
 | 272 | [Death's Door](games/d/death's_door.md) | 4.66 | 
 | 272 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
+| 272 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
 | 272 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
 | 272 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
 | 272 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
 | 272 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
 | 272 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.66 | 
-| 287 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 287 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 287 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 287 | [Old World](games/o/old_world.md) | 4.65 | 
-| 287 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
-| 287 | [Crashlands](games/c/crashlands.md) | 4.65 | 
-| 287 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
-| 287 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 287 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
-| 287 | [SOMA](games/s/soma.md) | 4.65 | 
-| 287 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
-| 287 | [Solar Ash](games/s/solar_ash.md) | 4.65 | 
-| 287 | [Coromon](games/c/coromon.md) | 4.65 | 
-| 287 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.65 | 
-| 287 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 
-| 287 | [APE OUT](games/a/ape_out.md) | 4.65 | 
-| 287 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
-| 287 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
-| 287 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.65 | 
-| 287 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.65 | 
-| 287 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 
+| 288 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 288 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 288 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 288 | [Old World](games/o/old_world.md) | 4.65 | 
+| 288 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
+| 288 | [Crashlands](games/c/crashlands.md) | 4.65 | 
+| 288 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
+| 288 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 288 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 
+| 288 | [SOMA](games/s/soma.md) | 4.65 | 
+| 288 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 288 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 288 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.65 | 
+| 288 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 
+| 288 | [APE OUT](games/a/ape_out.md) | 4.65 | 
+| 288 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
+| 288 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
+| 288 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.65 | 
+| 288 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.65 | 
+| 288 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 
 | 308 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 308 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 308 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
@@ -788,31 +788,31 @@
 | 784 | [Starsand](games/s/starsand.md) | 4.21 | 
 | 784 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
 | 784 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 789 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
-| 789 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
-| 789 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
-| 789 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
-| 789 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
-| 789 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
-| 789 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
-| 789 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
-| 789 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
-| 789 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | 
-| 789 | [Somerville](games/s/somerville.md) | 4.20 | 
-| 800 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
-| 800 | [Crayta](games/c/crayta.md) | 4.19 | 
-| 800 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 
-| 800 | [Flatout](games/f/flatout.md) | 4.19 | 
-| 800 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
-| 800 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.19 | 
-| 806 | [Windbound](games/w/windbound.md) | 4.18 | 
-| 806 | [Scavengers](games/s/scavengers.md) | 4.18 | 
-| 806 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
-| 809 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
-| 809 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 
-| 809 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
-| 809 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
-| 809 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.17 | 
+| 784 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.21 | 
+| 790 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
+| 790 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
+| 790 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 
+| 790 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
+| 790 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 
+| 790 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 
+| 790 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 
+| 790 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 
+| 790 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 
+| 790 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | 
+| 790 | [Somerville](games/s/somerville.md) | 4.20 | 
+| 801 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 
+| 801 | [Crayta](games/c/crayta.md) | 4.19 | 
+| 801 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 
+| 801 | [Flatout](games/f/flatout.md) | 4.19 | 
+| 801 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 
+| 801 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.19 | 
+| 807 | [Windbound](games/w/windbound.md) | 4.18 | 
+| 807 | [Scavengers](games/s/scavengers.md) | 4.18 | 
+| 807 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 
+| 810 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
+| 810 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 
+| 810 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
+| 810 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
 | 814 | [Space Punks](games/s/space_punks.md) | 4.16 | 
 | 814 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 
 | 814 | [Gone Home](games/g/gone_home.md) | 4.16 | 
