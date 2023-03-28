@@ -148,7 +148,7 @@
 | 146 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 147 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
 | 148 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
-| 149 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 
+| 149 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.34 | 
 | 150 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
 | 151 | [CryoFall](games/c/cryofall.md) | 4.49 | 
 | 152 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 

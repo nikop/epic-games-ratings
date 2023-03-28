@@ -703,19 +703,19 @@
 | 700 | [Paladins](games/p/paladins.md) | 4.35 | 
 | 700 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 700 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 700 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 
 | 700 | [Among Trees](games/a/among_trees.md) | 4.35 | 
 | 700 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 
 | 700 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
-| 708 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
-| 708 | [Automachef](games/a/automachef.md) | 4.34 | 
-| 708 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.34 | 
-| 708 | [Torchlight](games/t/torchlight.md) | 4.34 | 
-| 708 | [Ashen](games/a/ashen.md) | 4.34 | 
-| 708 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 
-| 708 | [Parkitect](games/p/parkitect.md) | 4.34 | 
-| 708 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
-| 708 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.34 | 
+| 707 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
+| 707 | [Automachef](games/a/automachef.md) | 4.34 | 
+| 707 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.34 | 
+| 707 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.34 | 
+| 707 | [Torchlight](games/t/torchlight.md) | 4.34 | 
+| 707 | [Ashen](games/a/ashen.md) | 4.34 | 
+| 707 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 
+| 707 | [Parkitect](games/p/parkitect.md) | 4.34 | 
+| 707 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 
+| 707 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.34 | 
 | 717 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 
 | 717 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 
 | 717 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
