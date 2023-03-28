@@ -210,7 +210,7 @@
 | 208 | [DOOM 3](games/d/doom_3.md) | 4.61 | 
 | 209 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
 | 210 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
-| 211 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 
+| 211 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 
 | 212 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
 | 213 | [Duskers](games/d/duskers.md) | 4.43 | 
 | 214 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
@@ -536,7 +536,7 @@
 | 534 | [Pine](games/p/pine.md) | 4.15 | 
 | 535 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 
 | 536 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 
-| 537 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 
+| 537 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 
 | 538 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
 | 539 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 
 | 540 | [Predecessor](games/p/predecessor.md) | 4.44 | 
