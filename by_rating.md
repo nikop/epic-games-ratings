@@ -508,20 +508,20 @@
 | 496 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
 | 496 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.52 | 
 | 496 | [First Class Trouble](games/f/first_class_trouble.md) | 4.52 | 
-| 496 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.52 | 
 | 496 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
-| 511 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 
-| 511 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
-| 511 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 
-| 511 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
-| 511 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
-| 511 | [MythForce](games/m/mythforce.md) | 4.51 | 
-| 511 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
-| 511 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
-| 511 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
-| 511 | [Horace](games/h/horace.md) | 4.51 | 
-| 511 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
-| 511 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
+| 510 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 
+| 510 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 510 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 
+| 510 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
+| 510 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
+| 510 | [MythForce](games/m/mythforce.md) | 4.51 | 
+| 510 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 
+| 510 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 
+| 510 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
+| 510 | [Horace](games/h/horace.md) | 4.51 | 
+| 510 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
+| 510 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
+| 510 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.51 | 
 | 523 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
 | 523 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
 | 523 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 

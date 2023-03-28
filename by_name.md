@@ -428,7 +428,7 @@
 | 426 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 
 | 427 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 
 | 428 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 
-| 429 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.52 | 
+| 429 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.51 | 
 | 430 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 
 | 431 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
 | 432 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 
