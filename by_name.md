@@ -176,7 +176,7 @@
 | 174 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 175 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
 | 176 | [Dead Space](games/d/dead_space.md) | 4.72 | 
-| 177 | [Death Coming](games/d/death_coming.md) | 4.44 | 
+| 177 | [Death Coming](games/d/death_coming.md) | 4.42 | 
 | 178 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
 | 179 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 
 | 180 | [Death's Door](games/d/death's_door.md) | 4.66 | 
@@ -334,7 +334,7 @@
 | 332 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 
 | 333 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 334 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 
-| 335 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.90 | 
+| 335 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.91 | 
 | 336 | [High On Life](games/h/high_on_life.md) | 4.69 | 
 | 337 | [HITMAN](games/h/hitman.md) | 4.64 | 
 | 338 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
@@ -676,7 +676,7 @@
 | 674 | [STG Football](games/s/stg_football.md) | 4.43 | 
 | 675 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
 | 676 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 677 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
+| 677 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
 | 678 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
 | 679 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 
 | 680 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 

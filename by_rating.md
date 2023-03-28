@@ -6,12 +6,12 @@
 | 3 | [Celeste](games/c/celeste.md) | 4.92 | 
 | 3 | [Flatout 2](games/f/flatout_2.md) | 4.92 | 
 | 6 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.91 | 
-| 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
-| 7 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
-| 7 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 
-| 7 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.90 | 
-| 7 | [Mago](games/m/mago.md) | 4.90 | 
-| 7 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 
+| 6 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.91 | 
+| 8 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 
+| 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 
+| 8 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 
+| 8 | [Mago](games/m/mago.md) | 4.90 | 
+| 8 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 
 | 13 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 
 | 13 | [God of War](games/g/god_of_war.md) | 4.89 | 
@@ -86,18 +86,18 @@
 | 79 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
 | 79 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
 | 79 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 
+| 79 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
 | 79 | [Journey](games/j/journey.md) | 4.80 | 
 | 79 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 79 | [Superliminal](games/s/superliminal.md) | 4.80 | 
 | 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
 | 79 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
 | 79 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
-| 93 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
-| 93 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
-| 93 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
-| 93 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
-| 93 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.79 | 
-| 93 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
+| 94 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
+| 94 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
+| 94 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
+| 94 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 
+| 94 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
 | 99 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 
 | 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 
 | 99 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 
@@ -612,7 +612,6 @@
 | 605 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
 | 605 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 
 | 605 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 
-| 605 | [Death Coming](games/d/death_coming.md) | 4.44 | 
 | 605 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 
 | 605 | [ATOM RPG](games/a/atom_rpg.md) | 4.44 | 
 | 605 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 
@@ -621,25 +620,26 @@
 | 605 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 
 | 605 | [Predecessor](games/p/predecessor.md) | 4.44 | 
 | 605 | [Redout 2](games/r/redout_2.md) | 4.44 | 
-| 622 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
-| 622 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
-| 622 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
-| 622 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
-| 622 | [Duskers](games/d/duskers.md) | 4.43 | 
-| 622 | [Hell is Others](games/h/hell_is_others.md) | 4.43 | 
-| 622 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
-| 622 | [STG Football](games/s/stg_football.md) | 4.43 | 
-| 622 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
-| 631 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
-| 631 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
-| 631 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
-| 631 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
-| 631 | [Sheltered](games/s/sheltered.md) | 4.42 | 
-| 631 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 
-| 631 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
-| 631 | [Good Company](games/g/good_company.md) | 4.42 | 
-| 631 | [ELEX](games/e/elex.md) | 4.42 | 
-| 631 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
+| 621 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 
+| 621 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 
+| 621 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 
+| 621 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 
+| 621 | [Duskers](games/d/duskers.md) | 4.43 | 
+| 621 | [Hell is Others](games/h/hell_is_others.md) | 4.43 | 
+| 621 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
+| 621 | [STG Football](games/s/stg_football.md) | 4.43 | 
+| 621 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
+| 630 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
+| 630 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
+| 630 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
+| 630 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 
+| 630 | [Sheltered](games/s/sheltered.md) | 4.42 | 
+| 630 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 
+| 630 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
+| 630 | [Death Coming](games/d/death_coming.md) | 4.42 | 
+| 630 | [Good Company](games/g/good_company.md) | 4.42 | 
+| 630 | [ELEX](games/e/elex.md) | 4.42 | 
+| 630 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
 | 641 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 641 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
 | 641 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 
