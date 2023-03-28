@@ -1,5 +1,5 @@
 # Far Cry 2: Standard Edition
-Rating: 4.24 (60)  (as of 23.09.2022)  
+Rating: 4.25 (60)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -62,3 +62,4 @@ Rating: 4.24 (60)  (as of 23.09.2022)
 | 2023-03-16 | 4.25 | - |
 | 2023-03-26 | 4.23 | - |
 | 2023-03-27 | 4.24 | - |
+| 2023-03-28 | 4.25 | - |
