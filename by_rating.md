@@ -777,13 +777,13 @@
 | 774 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
 | 774 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
 | 774 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
-| 774 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.23 | 
 | 774 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
 | 774 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
-| 781 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
-| 781 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
-| 781 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
-| 781 | [Rise of Industry](games/r/rise_of_industry.md) | 4.22 | 
+| 780 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
+| 780 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
+| 780 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.22 | 
+| 780 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
+| 780 | [Rise of Industry](games/r/rise_of_industry.md) | 4.22 | 
 | 785 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
 | 785 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
 | 785 | [Starsand](games/s/starsand.md) | 4.21 | 
