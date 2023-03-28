@@ -166,7 +166,7 @@
 | 164 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 
 | 165 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 
 | 166 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 167 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
+| 167 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
 | 168 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.61 | 
 | 169 | [Darkwood](games/d/darkwood.md) | 4.61 | 
 | 170 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 
@@ -263,7 +263,7 @@
 | 261 | [Fez](games/f/fez.md) | 4.71 | 
 | 262 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 
 | 263 | [Figment](games/f/figment.md) | 4.46 | 
-| 264 | [Filament](games/f/filament.md) | 4.33 | 
+| 264 | [Filament](games/f/filament.md) | 4.32 | 
 | 265 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 
 | 266 | [Firework](games/f/firework.md) | 4.89 | 
 | 267 | [First Class Trouble](games/f/first_class_trouble.md) | 4.52 | 

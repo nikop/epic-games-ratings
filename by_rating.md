@@ -530,28 +530,28 @@
 | 523 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
 | 523 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 523 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
-| 523 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 
 | 523 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 523 | [Sable](games/s/sable.md) | 4.50 | 
 | 523 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 523 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 
 | 523 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
 | 523 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.50 | 
-| 538 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 538 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 538 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 538 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 538 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 538 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
-| 538 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 538 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
-| 538 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
-| 538 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 538 | [CryoFall](games/c/cryofall.md) | 4.49 | 
-| 538 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 538 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
-| 538 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 
-| 538 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
+| 537 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 537 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 537 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 537 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 537 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 537 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 537 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 537 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 537 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
+| 537 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
+| 537 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 537 | [CryoFall](games/c/cryofall.md) | 4.49 | 
+| 537 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 537 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 537 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 
+| 537 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
 | 553 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 553 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
 | 553 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 
@@ -722,15 +722,15 @@
 | 717 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.33 | 
 | 717 | [Backbone](games/b/backbone.md) | 4.33 | 
 | 717 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 
-| 717 | [Filament](games/f/filament.md) | 4.33 | 
 | 717 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 
 | 717 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 
-| 726 | [Vampyr](games/v/vampyr.md) | 4.32 | 
-| 726 | [House Party](games/h/house_party.md) | 4.32 | 
-| 726 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
-| 726 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 
-| 726 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 
-| 726 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.32 | 
+| 725 | [Vampyr](games/v/vampyr.md) | 4.32 | 
+| 725 | [House Party](games/h/house_party.md) | 4.32 | 
+| 725 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 
+| 725 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 
+| 725 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 
+| 725 | [Filament](games/f/filament.md) | 4.32 | 
+| 725 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.32 | 
 | 732 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 
 | 732 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 
 | 732 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
