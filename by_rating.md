@@ -837,15 +837,15 @@
 | 832 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
 | 836 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
 | 836 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 836 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
 | 836 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
 | 836 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
 | 836 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 841 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
-| 841 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.09 | 
-| 841 | [Submerged](games/s/submerged.md) | 4.09 | 
-| 841 | [Fangs](games/f/fangs.md) | 4.09 | 
-| 841 | [Forspoken](games/f/forspoken.md) | 4.09 | 
-| 841 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.09 | 
+| 842 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
+| 842 | [Submerged](games/s/submerged.md) | 4.09 | 
+| 842 | [Fangs](games/f/fangs.md) | 4.09 | 
+| 842 | [Forspoken](games/f/forspoken.md) | 4.09 | 
+| 842 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.09 | 
 | 847 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 847 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 849 | [Godfall](games/g/godfall.md) | 4.07 | 
