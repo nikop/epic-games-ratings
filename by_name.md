@@ -313,7 +313,7 @@
 | 311 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 312 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.58 | 
 | 313 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.63 | 
-| 314 | [Gravewood High](games/g/gravewood_high.md) | 3.97 | 
+| 314 | [Gravewood High](games/g/gravewood_high.md) | 3.98 | 
 | 315 | [Griftlands](games/g/griftlands.md) | 4.81 | 
 | 316 | [GRIME](games/g/grime.md) | 4.62 | 
 | 317 | [Grindstone](games/g/grindstone.md) | 4.84 | 
@@ -349,7 +349,7 @@
 | 347 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 
 | 348 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
 | 349 | [House Party](games/h/house_party.md) | 4.32 | 
-| 350 | [Hue](games/h/hue.md) | 4.55 | 
+| 350 | [Hue](games/h/hue.md) | 4.56 | 
 | 351 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
 | 352 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
 | 353 | [Huntdown](games/h/huntdown.md) | 4.85 | 
@@ -592,7 +592,7 @@
 | 590 | [RUINER](games/r/ruiner.md) | 4.53 | 
 | 591 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 
 | 592 | [Runbow](games/r/runbow.md) | 4.46 | 
-| 593 | [Sable](games/s/sable.md) | 4.50 | 
+| 593 | [Sable](games/s/sable.md) | 4.51 | 
 | 594 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
 | 595 | [Sailing Era](games/s/sailing_era.md) | 4.77 | 
 | 596 | [Saints Row](games/s/saints_row.md) | 3.78 | 
@@ -729,7 +729,7 @@
 | 727 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.75 | 
 | 728 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
 | 729 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 730 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 
+| 730 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 
 | 731 | [The Fall](games/t/the_fall.md) | 4.28 | 
 | 732 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 
 | 733 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 
