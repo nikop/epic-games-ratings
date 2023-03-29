@@ -72,27 +72,27 @@
 | 68 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
 | 68 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
 | 68 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 68 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.81 | 
 | 68 | [DOOM (1993)](games/d/doom_(1993).md) | 4.81 | 
 | 68 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
 | 68 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
 | 68 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 
 | 68 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
 | 68 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
-| 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
-| 79 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
-| 79 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
-| 79 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
-| 79 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
-| 79 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
-| 79 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.80 | 
-| 79 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 
-| 79 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
-| 79 | [Journey](games/j/journey.md) | 4.80 | 
-| 79 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
-| 79 | [Superliminal](games/s/superliminal.md) | 4.80 | 
-| 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
-| 79 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
-| 79 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
+| 80 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
+| 80 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
+| 80 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
+| 80 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
+| 80 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 
+| 80 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 
+| 80 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 
+| 80 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 
+| 80 | [Journey](games/j/journey.md) | 4.80 | 
+| 80 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
+| 80 | [Superliminal](games/s/superliminal.md) | 4.80 | 
+| 80 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 
+| 80 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 
+| 80 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 
 | 94 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 
 | 94 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 94 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
@@ -873,20 +873,21 @@
 | 871 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
 | 871 | [Patron](games/p/patron.md) | 3.94 | 
 | 871 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
-| 874 | [Warface](games/w/warface.md) | 3.92 | 
-| 874 | [Ironcast](games/i/ironcast.md) | 3.92 | 
-| 874 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.92 | 
-| 877 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 877 | [Conarium](games/c/conarium.md) | 3.91 | 
-| 877 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
-| 880 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 
-| 881 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 882 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.79 | 
-| 883 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 883 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
-| 885 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 
-| 886 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 
-| 886 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
-| 888 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
-| 889 | [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | 
-| 889 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.71 | 
+| 874 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 
+| 875 | [Warface](games/w/warface.md) | 3.92 | 
+| 875 | [Ironcast](games/i/ironcast.md) | 3.92 | 
+| 875 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.92 | 
+| 878 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 878 | [Conarium](games/c/conarium.md) | 3.91 | 
+| 878 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
+| 881 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 
+| 882 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
+| 883 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.79 | 
+| 884 | [Saints Row](games/s/saints_row.md) | 3.78 | 
+| 884 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
+| 886 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 
+| 887 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 
+| 887 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
+| 889 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
+| 890 | [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | 
+| 890 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.71 | 
