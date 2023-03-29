@@ -798,7 +798,7 @@
 | 796 | [Torchlight](games/t/torchlight.md) | 4.34 | 
 | 797 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
 | 798 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 
-| 799 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.79 | 
+| 799 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
 | 800 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
 | 801 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
 | 802 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.68 | 
@@ -857,7 +857,7 @@
 | 855 | [Warpips](games/w/warpips.md) | 4.40 | 
 | 856 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 857 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 
-| 858 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
+| 858 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
 | 859 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.34 | 
 | 860 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 
 | 861 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 

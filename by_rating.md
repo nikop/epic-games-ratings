@@ -691,6 +691,7 @@
 | 685 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 
 | 685 | [Lamentum](games/l/lamentum.md) | 4.37 | 
 | 691 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 
+| 691 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 
 | 691 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 
 | 691 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 691 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 
@@ -700,13 +701,12 @@
 | 691 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 
 | 691 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | 
 | 691 | [ZOMBI](games/z/zombi.md) | 4.36 | 
-| 701 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
-| 701 | [Paladins](games/p/paladins.md) | 4.35 | 
-| 701 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
-| 701 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 
-| 701 | [Among Trees](games/a/among_trees.md) | 4.35 | 
-| 701 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 
-| 701 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
+| 702 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 
+| 702 | [Paladins](games/p/paladins.md) | 4.35 | 
+| 702 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 
+| 702 | [Among Trees](games/a/among_trees.md) | 4.35 | 
+| 702 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 
+| 702 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
 | 708 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 
 | 708 | [Automachef](games/a/automachef.md) | 4.34 | 
 | 708 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.34 | 
@@ -881,7 +881,7 @@
 | 877 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
 | 880 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 
 | 881 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 882 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.79 | 
+| 882 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
 | 883 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 883 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
 | 885 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 
