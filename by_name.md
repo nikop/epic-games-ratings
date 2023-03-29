@@ -76,7 +76,7 @@
 | 74 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 
 | 75 | [Barony](games/b/barony.md) | 4.71 | 
 | 76 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.33 | 
-| 77 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 
+| 77 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 
 | 78 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 
 | 79 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
 | 80 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
@@ -275,7 +275,7 @@
 | 273 | [Flatout 2](games/f/flatout_2.md) | 4.92 | 
 | 274 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 275 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
-| 276 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 276 | [For The King](games/f/for_the_king.md) | 4.71 | 
 | 277 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
 | 278 | [Forspoken](games/f/forspoken.md) | 4.12 | 
 | 279 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
