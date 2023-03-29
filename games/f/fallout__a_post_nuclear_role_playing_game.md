@@ -1,5 +1,5 @@
 # Fallout: A Post Nuclear Role Playing Game
-Rating: 4.65 (-)  (as of 23.09.2022)  
+Rating: 4.66 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -41,3 +41,4 @@ Rating: 4.65 (-)  (as of 23.09.2022)
 | 2023-02-15 | 4.63 | - |
 | 2023-02-16 | 4.64 | - |
 | 2023-03-10 | 4.65 | - |
+| 2023-03-29 | 4.66 | - |

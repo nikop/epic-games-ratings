@@ -1,5 +1,5 @@
 # Empires of the Undergrowth
-Rating: 4.75 (212)  (as of 23.09.2022)  
+Rating: 4.76 (212)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -73,3 +73,4 @@ Rating: 4.75 (212)  (as of 23.09.2022)
 | 2022-11-28 | 4.75 | - |
 | 2022-12-04 | 4.74 | - |
 | 2022-12-25 | 4.75 | - |
+| 2023-03-29 | 4.76 | - |

@@ -1,10 +1,10 @@
 {
   "ID": "2e412cfcbd954e7180930e9784a47e18",
   "Name": "Fallout: A Post Nuclear Role Playing Game",
-  "Rating": 4.65,
+  "Rating": 4.66,
   "FirstSeen": "2022-10-20T22:02:33.2875741+00:00",
   "FirstSeenRating": "2022-10-28T01:33:28.7432563+00:00",
-  "LastChanged": "2023-03-10T10:58:30.3322872+00:00",
+  "LastChanged": "2023-03-29T17:33:01.8225618+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-28T01:33:28.7432566+00:00",
@@ -234,6 +234,11 @@
     {
       "Time": "2023-03-10T10:58:30.3322873+00:00",
       "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-29T17:33:01.8225622+00:00",
+      "Rating": 4.66,
       "NumberOfRatings": null
     }
   ],

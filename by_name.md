@@ -224,7 +224,7 @@
 | 222 | [ELEX](games/e/elex.md) | 4.42 | 
 | 223 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
 | 224 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
-| 225 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 
+| 225 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 
 | 226 | [Encased](games/e/encased.md) | 4.36 | 
 | 227 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 
 | 228 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 
@@ -240,17 +240,17 @@
 | 238 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
 | 239 | [Faeria](games/f/faeria.md) | 4.45 | 
 | 240 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 241 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.77 | 
+| 241 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.75 | 
 | 242 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 
 | 243 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
-| 244 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.65 | 
+| 244 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.66 | 
 | 245 | [Family Man](games/f/family_man.md) | 4.16 | 
 | 246 | [Fangs](games/f/fangs.md) | 4.09 | 
 | 247 | [Far Cry](games/f/far_cry.md) | 4.48 | 
 | 248 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 
 | 249 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 
 | 250 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 
-| 251 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 
+| 251 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
 | 252 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 
 | 253 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 
 | 254 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
