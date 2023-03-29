@@ -3,7 +3,7 @@
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
 | 2 | [20XX](games/2/20xx.md) | 4.61 | 
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 
-| 4 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.52 | 
+| 4 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.55 | 
 | 5 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 6 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 7 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 

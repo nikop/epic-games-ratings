@@ -466,49 +466,49 @@
 | 458 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 
 | 458 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
 | 458 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.55 | 
+| 458 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.55 | 
 | 458 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 
 | 458 | [Knockout City™](games/k/knockout_city™.md) | 4.55 | 
 | 458 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.55 | 
-| 470 | [VALORANT](games/v/valorant.md) | 4.54 | 
-| 470 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
-| 470 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
-| 470 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 
-| 470 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
-| 470 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
-| 470 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
-| 470 | [Souldiers](games/s/souldiers.md) | 4.54 | 
-| 470 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 
-| 470 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
-| 470 | [IXION](games/i/ixion.md) | 4.54 | 
-| 470 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 
-| 470 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
-| 483 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
-| 483 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
-| 483 | [Dauntless](games/d/dauntless.md) | 4.53 | 
-| 483 | [Verdun](games/v/verdun.md) | 4.53 | 
-| 483 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
-| 483 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 
-| 483 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
-| 483 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 483 | [RUINER](games/r/ruiner.md) | 4.53 | 
-| 483 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
-| 483 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
-| 483 | [Aztez](games/a/aztez.md) | 4.53 | 
-| 483 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
-| 496 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
-| 496 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
-| 496 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
-| 496 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
-| 496 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
-| 496 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
-| 496 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
-| 496 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
-| 496 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
-| 496 | [UnMetal](games/u/unmetal.md) | 4.52 | 
-| 496 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
-| 496 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.52 | 
-| 496 | [First Class Trouble](games/f/first_class_trouble.md) | 4.52 | 
-| 496 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
+| 471 | [VALORANT](games/v/valorant.md) | 4.54 | 
+| 471 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 
+| 471 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 
+| 471 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 
+| 471 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
+| 471 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 
+| 471 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 
+| 471 | [Souldiers](games/s/souldiers.md) | 4.54 | 
+| 471 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 
+| 471 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 
+| 471 | [IXION](games/i/ixion.md) | 4.54 | 
+| 471 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 
+| 471 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 
+| 484 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 
+| 484 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
+| 484 | [Dauntless](games/d/dauntless.md) | 4.53 | 
+| 484 | [Verdun](games/v/verdun.md) | 4.53 | 
+| 484 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 
+| 484 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 
+| 484 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 
+| 484 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
+| 484 | [RUINER](games/r/ruiner.md) | 4.53 | 
+| 484 | [The Tenants](games/t/the_tenants.md) | 4.53 | 
+| 484 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 
+| 484 | [Aztez](games/a/aztez.md) | 4.53 | 
+| 484 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 
+| 497 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 
+| 497 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
+| 497 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 
+| 497 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 
+| 497 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 
+| 497 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 
+| 497 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
+| 497 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
+| 497 | [Costume Quest](games/c/costume_quest.md) | 4.52 | 
+| 497 | [UnMetal](games/u/unmetal.md) | 4.52 | 
+| 497 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 
+| 497 | [First Class Trouble](games/f/first_class_trouble.md) | 4.52 | 
+| 497 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 510 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 
 | 510 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
 | 510 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 
