@@ -119,12 +119,12 @@
 | 117 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 118 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 119 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
-| 120 | [Chess Ultra](games/c/chess_ultra.md) | 4.27 | 
+| 120 | [Chess Ultra](games/c/chess_ultra.md) | 4.38 | 
 | 121 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.74 | 
 | 122 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 
 | 123 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
 | 124 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
-| 125 | [Chorus](games/c/chorus.md) | 4.48 | 
+| 125 | [Chorus](games/c/chorus.md) | 4.47 | 
 | 126 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
 | 127 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
 | 128 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
@@ -277,7 +277,7 @@
 | 275 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 
 | 276 | [For The King](games/f/for_the_king.md) | 4.70 | 
 | 277 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 
-| 278 | [Forspoken](games/f/forspoken.md) | 4.09 | 
+| 278 | [Forspoken](games/f/forspoken.md) | 4.12 | 
 | 279 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 280 | [Fortnite](games/f/fortnite.md) | 4.30 | 
 | 281 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.71 | 
@@ -310,7 +310,7 @@
 | 308 | [Good Company](games/g/good_company.md) | 4.42 | 
 | 309 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
 | 310 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 
-| 311 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.16 | 
+| 311 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.17 | 
 | 312 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 313 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.58 | 
 | 314 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.63 | 
@@ -850,7 +850,7 @@
 | 848 | [Warframe](games/w/warframe.md) | 4.61 | 
 | 849 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 
 | 850 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 851 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.22 | 
+| 851 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.23 | 
 | 852 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 
 | 853 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
 | 854 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 
