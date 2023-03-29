@@ -147,7 +147,7 @@
 | 145 | [Crashlands](games/c/crashlands.md) | 4.65 | 
 | 146 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 147 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
-| 148 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.84 | 
+| 148 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.82 | 
 | 149 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 150 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.34 | 
 | 151 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
@@ -161,7 +161,7 @@
 | 159 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 160 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.29 | 
 | 161 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
-| 162 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
+| 162 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
 | 163 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
 | 164 | [Dark Light](games/d/dark_light.md) | 4.31 | 
 | 165 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 
@@ -177,7 +177,7 @@
 | 175 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 
 | 176 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 
 | 177 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 
-| 178 | [Dead Space](games/d/dead_space.md) | 4.73 | 
+| 178 | [Dead Space](games/d/dead_space.md) | 4.72 | 
 | 179 | [Death Coming](games/d/death_coming.md) | 4.42 | 
 | 180 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 
 | 181 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 

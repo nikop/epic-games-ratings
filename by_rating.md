@@ -164,18 +164,18 @@
 | 155 | [DOOM II](games/d/doom_ii.md) | 4.73 | 
 | 155 | [Slipways](games/s/slipways.md) | 4.73 | 
 | 155 | [BLACKTAIL](games/b/blacktail.md) | 4.73 | 
-| 155 | [Dead Space](games/d/dead_space.md) | 4.73 | 
 | 155 | [Outlast](games/o/outlast.md) | 4.73 | 
 | 155 | [Suzerain](games/s/suzerain.md) | 4.73 | 
-| 168 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
-| 168 | [Timberborn](games/t/timberborn.md) | 4.72 | 
-| 168 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
-| 168 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
-| 168 | [Northgard](games/n/northgard.md) | 4.72 | 
-| 168 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
-| 168 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
-| 168 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.72 | 
-| 168 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.72 | 
+| 167 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 
+| 167 | [Timberborn](games/t/timberborn.md) | 4.72 | 
+| 167 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 
+| 167 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 
+| 167 | [Northgard](games/n/northgard.md) | 4.72 | 
+| 167 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 
+| 167 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 
+| 167 | [Dead Space](games/d/dead_space.md) | 4.72 | 
+| 167 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.72 | 
+| 167 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.72 | 
 | 177 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 177 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 177 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
@@ -531,27 +531,27 @@
 | 524 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
 | 524 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
 | 524 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
+| 524 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
 | 524 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
 | 524 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
 | 524 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 
 | 524 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
 | 524 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.50 | 
-| 537 | [Maneater](games/m/maneater.md) | 4.49 | 
-| 537 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
-| 537 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
-| 537 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
-| 537 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
-| 537 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
-| 537 | [Solitairica](games/s/solitairica.md) | 4.49 | 
-| 537 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
-| 537 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
-| 537 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 
-| 537 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
-| 537 | [CryoFall](games/c/cryofall.md) | 4.49 | 
-| 537 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
-| 537 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
-| 537 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 
-| 537 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
+| 538 | [Maneater](games/m/maneater.md) | 4.49 | 
+| 538 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
+| 538 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 
+| 538 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 
+| 538 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
+| 538 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 
+| 538 | [Solitairica](games/s/solitairica.md) | 4.49 | 
+| 538 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 
+| 538 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 
+| 538 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
+| 538 | [CryoFall](games/c/cryofall.md) | 4.49 | 
+| 538 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 
+| 538 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 
+| 538 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 
+| 538 | [Tails of Iron](games/t/tails_of_iron.md) | 4.49 | 
 | 553 | [Riverbond](games/r/riverbond.md) | 4.48 | 
 | 553 | [The Escapists](games/t/the_escapists.md) | 4.48 | 
 | 553 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 
@@ -881,7 +881,7 @@
 | 877 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
 | 880 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 
 | 881 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 882 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.84 | 
+| 882 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.82 | 
 | 883 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
 | 884 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 884 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
