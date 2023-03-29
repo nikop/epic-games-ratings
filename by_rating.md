@@ -835,17 +835,17 @@
 | 832 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
 | 832 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.11 | 
 | 832 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
-| 836 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
-| 836 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 836 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
-| 836 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 836 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
-| 836 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
-| 842 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
-| 842 | [Submerged](games/s/submerged.md) | 4.09 | 
-| 842 | [Fangs](games/f/fangs.md) | 4.09 | 
-| 842 | [Forspoken](games/f/forspoken.md) | 4.09 | 
-| 842 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.09 | 
+| 832 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.11 | 
+| 837 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
+| 837 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 837 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
+| 837 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 837 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
+| 837 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
+| 843 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
+| 843 | [Submerged](games/s/submerged.md) | 4.09 | 
+| 843 | [Fangs](games/f/fangs.md) | 4.09 | 
+| 843 | [Forspoken](games/f/forspoken.md) | 4.09 | 
 | 847 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 
 | 847 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 
 | 849 | [Godfall](games/g/godfall.md) | 4.07 | 
@@ -873,21 +873,21 @@
 | 871 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 
 | 871 | [Patron](games/p/patron.md) | 3.94 | 
 | 871 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 
-| 874 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 
-| 875 | [Warface](games/w/warface.md) | 3.92 | 
-| 875 | [Ironcast](games/i/ironcast.md) | 3.92 | 
-| 875 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.92 | 
-| 878 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
-| 878 | [Conarium](games/c/conarium.md) | 3.91 | 
-| 878 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
-| 881 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 
-| 882 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 883 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.79 | 
-| 884 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 884 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
-| 886 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 
-| 887 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 
-| 887 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
-| 889 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
+| 874 | [Warface](games/w/warface.md) | 3.92 | 
+| 874 | [Ironcast](games/i/ironcast.md) | 3.92 | 
+| 874 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.92 | 
+| 877 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 
+| 877 | [Conarium](games/c/conarium.md) | 3.91 | 
+| 877 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
+| 880 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 
+| 881 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
+| 882 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.79 | 
+| 883 | [Saints Row](games/s/saints_row.md) | 3.78 | 
+| 883 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
+| 885 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 
+| 886 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 
+| 886 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
+| 888 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
+| 888 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.74 | 
 | 890 | [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | 
 | 890 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.71 | 

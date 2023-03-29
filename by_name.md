@@ -147,7 +147,7 @@
 | 145 | [Crashlands](games/c/crashlands.md) | 4.65 | 
 | 146 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 147 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
-| 148 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 
+| 148 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.74 | 
 | 149 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 150 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.34 | 
 | 151 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
@@ -386,7 +386,7 @@
 | 384 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 385 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
 | 386 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 387 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.09 | 
+| 387 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.11 | 
 | 388 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 389 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 390 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
