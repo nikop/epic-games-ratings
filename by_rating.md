@@ -773,23 +773,23 @@
 | 769 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
 | 769 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.24 | 
 | 769 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 
-| 774 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
-| 774 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
-| 774 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
-| 774 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
-| 774 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
-| 774 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
-| 780 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
-| 780 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
-| 780 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.22 | 
-| 780 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
-| 780 | [Rise of Industry](games/r/rise_of_industry.md) | 4.22 | 
-| 785 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
-| 785 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
-| 785 | [Starsand](games/s/starsand.md) | 4.21 | 
-| 785 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
-| 785 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
-| 785 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.21 | 
+| 769 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.24 | 
+| 775 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
+| 775 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
+| 775 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
+| 775 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 
+| 775 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 
+| 775 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 
+| 781 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 
+| 781 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 
+| 781 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.22 | 
+| 781 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
+| 781 | [Rise of Industry](games/r/rise_of_industry.md) | 4.22 | 
+| 786 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 
+| 786 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 
+| 786 | [Starsand](games/s/starsand.md) | 4.21 | 
+| 786 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 
+| 786 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 
 | 791 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 
 | 791 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 
 | 791 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 

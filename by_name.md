@@ -749,7 +749,7 @@
 | 747 | [The Medium](games/t/the_medium.md) | 4.58 | 
 | 748 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
 | 749 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 750 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.21 | 
+| 750 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.24 | 
 | 751 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 752 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 753 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
