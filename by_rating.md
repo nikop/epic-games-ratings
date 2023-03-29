@@ -271,42 +271,42 @@
 | 255 | [Card Shark](games/c/card_shark.md) | 4.67 | 
 | 255 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.67 | 
 | 255 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 
-| 272 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
-| 272 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
-| 272 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
-| 272 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
-| 272 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
-| 272 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 
-| 272 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
-| 272 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
-| 272 | [Death's Door](games/d/death's_door.md) | 4.66 | 
-| 272 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
-| 272 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
-| 272 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
-| 272 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
-| 272 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
-| 272 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
-| 272 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.66 | 
-| 288 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
-| 288 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
-| 288 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
-| 288 | [Old World](games/o/old_world.md) | 4.65 | 
-| 288 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
-| 288 | [Crashlands](games/c/crashlands.md) | 4.65 | 
-| 288 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
-| 288 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
-| 288 | [SOMA](games/s/soma.md) | 4.65 | 
-| 288 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
-| 288 | [Coromon](games/c/coromon.md) | 4.65 | 
-| 288 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.65 | 
-| 288 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 
-| 288 | [APE OUT](games/a/ape_out.md) | 4.65 | 
-| 288 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
-| 288 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
-| 288 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.65 | 
-| 288 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.65 | 
-| 288 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 
-| 288 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.65 | 
+| 255 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.67 | 
+| 273 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 
+| 273 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 
+| 273 | [DOOM 64](games/d/doom_64.md) | 4.66 | 
+| 273 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 
+| 273 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 
+| 273 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 
+| 273 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 
+| 273 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 
+| 273 | [Death's Door](games/d/death's_door.md) | 4.66 | 
+| 273 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 
+| 273 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
+| 273 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 
+| 273 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 
+| 273 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 
+| 273 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.66 | 
+| 273 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.66 | 
+| 289 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 
+| 289 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 
+| 289 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 
+| 289 | [Old World](games/o/old_world.md) | 4.65 | 
+| 289 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 
+| 289 | [Crashlands](games/c/crashlands.md) | 4.65 | 
+| 289 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 
+| 289 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
+| 289 | [SOMA](games/s/soma.md) | 4.65 | 
+| 289 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
+| 289 | [Coromon](games/c/coromon.md) | 4.65 | 
+| 289 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.65 | 
+| 289 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 
+| 289 | [APE OUT](games/a/ape_out.md) | 4.65 | 
+| 289 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 
+| 289 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 
+| 289 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.65 | 
+| 289 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.65 | 
+| 289 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 
 | 308 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 
 | 308 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 
 | 308 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
@@ -392,7 +392,6 @@
 | 389 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 
 | 389 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 
 | 389 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 
-| 389 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 
 | 389 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 
 | 389 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 389 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 
@@ -401,24 +400,25 @@
 | 389 | [Breathedge](games/b/breathedge.md) | 4.59 | 
 | 389 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 
 | 389 | [The Colonists](games/t/the_colonists.md) | 4.59 | 
-| 402 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
-| 402 | [Among Us](games/a/among_us.md) | 4.58 | 
-| 402 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
-| 402 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
-| 402 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
-| 402 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
-| 402 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 
-| 402 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
-| 402 | [Moving Out](games/m/moving_out.md) | 4.58 | 
-| 402 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
-| 402 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
-| 402 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
-| 402 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 
-| 402 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
-| 402 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
-| 402 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.58 | 
-| 402 | [The Medium](games/t/the_medium.md) | 4.58 | 
-| 402 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.58 | 
+| 401 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
+| 401 | [Among Us](games/a/among_us.md) | 4.58 | 
+| 401 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 
+| 401 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 
+| 401 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 
+| 401 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 
+| 401 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 
+| 401 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 
+| 401 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
+| 401 | [Moving Out](games/m/moving_out.md) | 4.58 | 
+| 401 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 
+| 401 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 
+| 401 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 
+| 401 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 
+| 401 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | 
+| 401 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 
+| 401 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.58 | 
+| 401 | [The Medium](games/t/the_medium.md) | 4.58 | 
+| 401 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.58 | 
 | 420 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 
 | 420 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 
 | 420 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 

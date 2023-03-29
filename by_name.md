@@ -416,7 +416,7 @@
 | 414 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.55 | 
 | 415 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 
 | 416 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 
-| 417 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 
+| 417 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 
 | 418 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 
 | 419 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
 | 420 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 
@@ -639,7 +639,7 @@
 | 637 | [Slipways](games/s/slipways.md) | 4.73 | 
 | 638 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
 | 639 | [SMITE](games/s/smite.md) | 4.45 | 
-| 640 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.65 | 
+| 640 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.67 | 
 | 641 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 642 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
 | 643 | [Solitairica](games/s/solitairica.md) | 4.49 | 
