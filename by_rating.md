@@ -60,25 +60,25 @@
 | 55 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 
 | 55 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.83 | 
 | 55 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 
-| 55 | [Tchia](games/t/tchia.md) | 4.83 | 
-| 62 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
-| 62 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
-| 62 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
-| 62 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
-| 62 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
-| 62 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
-| 68 | [Sifu](games/s/sifu.md) | 4.81 | 
-| 68 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
-| 68 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
-| 68 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
-| 68 | [Griftlands](games/g/griftlands.md) | 4.81 | 
-| 68 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.81 | 
-| 68 | [DOOM (1993)](games/d/doom_(1993).md) | 4.81 | 
-| 68 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
-| 68 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
-| 68 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 
-| 68 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
-| 68 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
+| 61 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 
+| 61 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 
+| 61 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 
+| 61 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 
+| 61 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
+| 61 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 
+| 67 | [Sifu](games/s/sifu.md) | 4.81 | 
+| 67 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 
+| 67 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 
+| 67 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 
+| 67 | [Griftlands](games/g/griftlands.md) | 4.81 | 
+| 67 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.81 | 
+| 67 | [DOOM (1993)](games/d/doom_(1993).md) | 4.81 | 
+| 67 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 
+| 67 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 
+| 67 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 
+| 67 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 
+| 67 | [Tchia](games/t/tchia.md) | 4.81 | 
+| 67 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 
 | 80 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 
 | 80 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 
 | 80 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 
@@ -810,18 +810,18 @@
 | 808 | [Windbound](games/w/windbound.md) | 4.18 | 
 | 808 | [Scavengers](games/s/scavengers.md) | 4.18 | 
 | 810 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 
-| 810 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 
 | 810 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 
 | 810 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 
 | 810 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.17 | 
 | 810 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.17 | 
-| 816 | [Space Punks](games/s/space_punks.md) | 4.16 | 
-| 816 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 
-| 816 | [Gone Home](games/g/gone_home.md) | 4.16 | 
-| 816 | [Family Man](games/f/family_man.md) | 4.16 | 
-| 816 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
-| 816 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
-| 816 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 
+| 815 | [Space Punks](games/s/space_punks.md) | 4.16 | 
+| 815 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
+| 815 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 
+| 815 | [Gone Home](games/g/gone_home.md) | 4.16 | 
+| 815 | [Family Man](games/f/family_man.md) | 4.16 | 
+| 815 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 
+| 815 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 
+| 815 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 
 | 823 | [Pine](games/p/pine.md) | 4.15 | 
 | 823 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 
 | 823 | [Relicta](games/r/relicta.md) | 4.15 | 
@@ -836,13 +836,13 @@
 | 833 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 
 | 833 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.11 | 
 | 833 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 
-| 833 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.11 | 
-| 838 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
-| 838 | [Obduction](games/o/obduction.md) | 4.10 | 
-| 838 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
-| 838 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
-| 838 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
-| 838 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
+| 837 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 
+| 837 | [Obduction](games/o/obduction.md) | 4.10 | 
+| 837 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 
+| 837 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 
+| 837 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 
+| 837 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.10 | 
+| 837 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 
 | 844 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 
 | 844 | [Submerged](games/s/submerged.md) | 4.09 | 
 | 844 | [Fangs](games/f/fangs.md) | 4.09 | 

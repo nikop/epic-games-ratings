@@ -386,12 +386,12 @@
 | 384 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 
 | 385 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
 | 386 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 
-| 387 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.11 | 
+| 387 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.10 | 
 | 388 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 
 | 389 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 
 | 390 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 
 | 391 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 
-| 392 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 
+| 392 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 
 | 393 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 
 | 394 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 
 | 395 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 
@@ -709,7 +709,7 @@
 | 707 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 708 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 709 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 710 | [Tchia](games/t/tchia.md) | 4.83 | 
+| 710 | [Tchia](games/t/tchia.md) | 4.81 | 
 | 711 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 
 | 712 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 713 | [Tharsis](games/t/tharsis.md) | 4.05 | 
