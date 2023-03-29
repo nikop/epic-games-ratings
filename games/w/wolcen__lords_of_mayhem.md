@@ -1,5 +1,5 @@
 # Wolcen: Lords of Mayhem
-Rating: 4.26 (-)  (as of 23.09.2022)  
+Rating: 4.24 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -10,3 +10,4 @@ Rating: 4.26 (-)  (as of 23.09.2022)
 | 2023-03-20 | 4.21 | - |
 | 2023-03-21 | 4.23 | - |
 | 2023-03-24 | 4.26 | - |
+| 2023-03-29 | 4.24 | - |

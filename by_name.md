@@ -871,7 +871,7 @@
 | 869 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 
 | 870 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 
 | 871 | [Windbound](games/w/windbound.md) | 4.18 | 
-| 872 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.26 | 
+| 872 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.24 | 
 | 873 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 
 | 874 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 
 | 875 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 

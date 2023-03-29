@@ -763,17 +763,17 @@
 | 759 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 
 | 759 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 
 | 759 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.26 | 
-| 759 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.26 | 
-| 765 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
-| 765 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 
-| 765 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
-| 765 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
-| 769 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
-| 769 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
-| 769 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
-| 769 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.24 | 
-| 769 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 
-| 769 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.24 | 
+| 764 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 
+| 764 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 
+| 764 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 
+| 764 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 
+| 768 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 
+| 768 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 
+| 768 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 
+| 768 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.24 | 
+| 768 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 
+| 768 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.24 | 
+| 768 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.24 | 
 | 775 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 
 | 775 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 
 | 775 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 
