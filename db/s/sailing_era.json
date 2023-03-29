@@ -1,10 +1,10 @@
 {
   "ID": "83a550cbe7434886b5e42bead6335cff",
   "Name": "Sailing Era",
-  "Rating": 4.77,
+  "Rating": 4.78,
   "FirstSeen": "2023-01-12T09:59:58.7174418+00:00",
   "FirstSeenRating": "2023-03-12T23:58:12.567648+00:00",
-  "LastChanged": "2023-03-19T05:58:17.033714+00:00",
+  "LastChanged": "2023-03-29T07:59:11.3945908+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-12T23:58:12.5676482+00:00",
@@ -19,6 +19,11 @@
     {
       "Time": "2023-03-19T05:58:17.0337141+00:00",
       "Rating": 4.77,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-29T07:59:11.3945913+00:00",
+      "Rating": 4.78,
       "NumberOfRatings": null
     }
   ],

@@ -327,7 +327,7 @@
 | 325 | [Haven](games/h/haven.md) | 4.75 | 
 | 326 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 
 | 327 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 
-| 328 | [Hell is Others](games/h/hell_is_others.md) | 4.43 | 
+| 328 | [Hell is Others](games/h/hell_is_others.md) | 4.44 | 
 | 329 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 
 | 330 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.38 | 
 | 331 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.47 | 
@@ -595,7 +595,7 @@
 | 593 | [Runbow](games/r/runbow.md) | 4.46 | 
 | 594 | [Sable](games/s/sable.md) | 4.51 | 
 | 595 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 
-| 596 | [Sailing Era](games/s/sailing_era.md) | 4.77 | 
+| 596 | [Sailing Era](games/s/sailing_era.md) | 4.78 | 
 | 597 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 598 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 
 | 599 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 
