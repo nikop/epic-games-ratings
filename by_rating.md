@@ -881,13 +881,13 @@
 | 877 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
 | 880 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 
 | 881 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 882 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
-| 883 | [Saints Row](games/s/saints_row.md) | 3.78 | 
-| 883 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
-| 885 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 
-| 886 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 
-| 886 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
-| 888 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
-| 888 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.74 | 
+| 882 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.84 | 
+| 883 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
+| 884 | [Saints Row](games/s/saints_row.md) | 3.78 | 
+| 884 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
+| 886 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 
+| 887 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 
+| 887 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 
+| 889 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
 | 890 | [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | 
 | 890 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.71 | 

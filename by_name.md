@@ -147,7 +147,7 @@
 | 145 | [Crashlands](games/c/crashlands.md) | 4.65 | 
 | 146 | [Crayta](games/c/crayta.md) | 4.19 | 
 | 147 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 
-| 148 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.74 | 
+| 148 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.84 | 
 | 149 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 
 | 150 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.34 | 
 | 151 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 
