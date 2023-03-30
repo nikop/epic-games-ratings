@@ -881,7 +881,7 @@
 | 877 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
 | 880 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 
 | 881 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 882 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.81 | 
+| 882 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.83 | 
 | 883 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
 | 884 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 884 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
