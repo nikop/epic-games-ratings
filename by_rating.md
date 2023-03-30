@@ -318,19 +318,19 @@
 | 307 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.64 | 
 | 307 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 
 | 307 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 
-| 319 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 319 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
-| 319 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
-| 319 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.63 | 
-| 319 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
-| 319 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
-| 319 | [Mutazione](games/m/mutazione.md) | 4.63 | 
-| 319 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 
-| 319 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
-| 319 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
-| 319 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 
-| 319 | [GigaBash](games/g/gigabash.md) | 4.63 | 
-| 319 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.63 | 
+| 307 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.64 | 
+| 320 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
+| 320 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 
+| 320 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 
+| 320 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.63 | 
+| 320 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 
+| 320 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 
+| 320 | [Mutazione](games/m/mutazione.md) | 4.63 | 
+| 320 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 
+| 320 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 
+| 320 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
+| 320 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 
+| 320 | [GigaBash](games/g/gigabash.md) | 4.63 | 
 | 332 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 
 | 332 | [Prey](games/p/prey.md) | 4.62 | 
 | 332 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
