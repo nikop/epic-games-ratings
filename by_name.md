@@ -119,7 +119,7 @@
 | 117 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 
 | 118 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 
 | 119 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 
-| 120 | [Chess Ultra](games/c/chess_ultra.md) | 4.38 | 
+| 120 | [Chess Ultra](games/c/chess_ultra.md) | 4.28 | 
 | 121 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.74 | 
 | 122 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 
 | 123 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
@@ -157,7 +157,7 @@
 | 155 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 156 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
 | 157 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
-| 158 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
+| 158 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 
 | 159 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 160 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.29 | 
 | 161 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 
