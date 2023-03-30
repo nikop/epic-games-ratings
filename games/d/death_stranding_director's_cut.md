@@ -9,7 +9,7 @@ Rating: 4.89 (3,099)  (as of 23.09.2022)
 | This game has Amazing Characters | 433 |
 | This game is Great for Beginners | 433 |
 | This game is Highly Recommended | 430 |
-| This game is Educational | 416 |
+| This game is Educational | 417 |
 | This game is Extremely Fun | 415 |
 | This game has Unique Visuals | 415 |
 | This game has Quickly Understood Controls | 408 |

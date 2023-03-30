@@ -3,7 +3,8 @@
   "Name": "Against the Storm",
   "Rating": 4.81,
   "NumberOfRatings": 1845,
-  "NumberOfAwards": 2954,
+  "NumberOfAwards": 414,
+  "NumberOfAwardsMax": 414,
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "LastChanged": "2023-02-27T18:58:03.3587978+00:00",
   "RatingHistory": [
@@ -1858,7 +1859,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 382
+      "Count": 383
     },
     {
       "Text": "This game has Obsessive Gameplay",

@@ -3,7 +3,8 @@
   "Name": "VALORANT",
   "Rating": 4.54,
   "NumberOfRatings": 157172,
-  "NumberOfAwards": 359876,
+  "NumberOfAwards": 46986,
+  "NumberOfAwardsMax": 46986,
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
   "LastChanged": "2022-12-26T02:05:44.6781572+00:00",
   "RatingHistory": [
@@ -3274,7 +3275,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 40345
+      "Count": 40434
     },
     {
       "Text": "This game has Competitive Players",
@@ -3286,7 +3287,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 41251
+      "Count": 41337
     },
     {
       "Text": "This game has Amazing Characters",

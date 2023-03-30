@@ -3,7 +3,8 @@
   "Name": "My Time at Sandrock",
   "Rating": 4.68,
   "NumberOfRatings": 892,
-  "NumberOfAwards": 1123,
+  "NumberOfAwards": 545,
+  "NumberOfAwardsMax": 545,
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "LastChanged": "2023-03-21T14:58:33.5890461+00:00",
   "RatingHistory": [
