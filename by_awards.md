@@ -14,7 +14,7 @@
 | 12 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 210,491 |
 | 13 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 156,279 |
 | 14 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 87,866 |
-| 15 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 79,568 |
+| 15 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 79,583 |
 | 16 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 77,154 |
 | 17 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 76,694 |
 | 18 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 63,466 |
@@ -30,7 +30,7 @@
 | 28 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 35,255 |
 | 29 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 34,546 |
 | 30 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 33,880 |
-| 31 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 31,934 |
+| 31 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 31,940 |
 | 32 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 30,779 |
 | 33 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 30,084 |
 | 34 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 29,466 |
@@ -45,7 +45,7 @@
 | 43 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 25,114 |
 | 44 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 24,886 |
 | 45 | [Paladins](games/p/paladins.md) | 4.35 | 24,879 |
-| 46 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 24,680 |
+| 46 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 24,699 |
 | 47 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 22,565 |
 | 48 | [SMITE](games/s/smite.md) | 4.45 | 22,244 |
 | 49 | [Among Us](games/a/among_us.md) | 4.58 | 21,381 |
@@ -72,7 +72,7 @@
 | 70 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 11,682 |
 | 71 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 11,666 |
 | 72 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 11,311 |
-| 73 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 11,108 |
+| 73 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 11,109 |
 | 74 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 11,077 |
 | 75 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 10,942 |
 | 76 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 10,619 |
@@ -80,7 +80,7 @@
 | 78 | [Sifu](games/s/sifu.md) | 4.81 | 9,632 |
 | 79 | [Saints Row](games/s/saints_row.md) | 3.78 | 8,988 |
 | 80 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 8,859 |
-| 81 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 8,770 |
+| 81 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 8,774 |
 | 82 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 8,574 |
 | 83 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 8,504 |
 | 84 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 8,419 |
@@ -230,7 +230,7 @@
 | 228 | [Space Punks](games/s/space_punks.md) | 4.16 | 936 |
 | 229 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 914 |
 | 230 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 897 |
-| 231 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 872 |
+| 231 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 873 |
 | 232 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 867 |
 | 233 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 861 |
 | 234 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 853 |
@@ -286,7 +286,7 @@
 | 284 | [First Class Trouble](games/f/first_class_trouble.md) | 4.52 | 500 |
 | 285 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 498 |
 | 286 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 448 |
-| 287 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 438 |
+| 287 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 441 |
 | 288 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 409 |
 | 289 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 408 |
 | 290 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 405 |
