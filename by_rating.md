@@ -29,7 +29,7 @@
 | 24 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,232 |
 | 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 991 |
 | 24 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 22 |
-| 24 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 1,151 |
+| 24 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 1,156 |
 | 24 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.87 | - |
 | 32 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | - |
 | 32 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 679 |
@@ -38,7 +38,7 @@
 | 32 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 39 |
 | 32 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 444 |
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 37 |
-| 38 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,416 |
+| 38 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,423 |
 | 38 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,430 |
 | 38 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 259 |
 | 38 | [Huntdown](games/h/huntdown.md) | 4.85 | - |
@@ -136,24 +136,24 @@
 | 127 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 381 |
 | 127 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.75 | - |
 | 127 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | - |
-| 127 | [The Long Dark](games/t/the_long_dark.md) | 4.75 | 723 |
 | 127 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 36 |
 | 127 | [This Is The Police](games/t/this_is_the_police.md) | 4.75 | - |
 | 127 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | - |
 | 127 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | - |
-| 142 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 395 |
-| 142 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 22 |
-| 142 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | - |
-| 142 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.74 | - |
-| 142 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 441 |
-| 142 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,292 |
-| 142 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 222 |
-| 142 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | - |
-| 142 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | - |
-| 142 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | - |
-| 142 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 41 |
-| 142 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 76 |
-| 142 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 568 |
+| 141 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 395 |
+| 141 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 22 |
+| 141 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | - |
+| 141 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.74 | - |
+| 141 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 441 |
+| 141 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,292 |
+| 141 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 222 |
+| 141 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | - |
+| 141 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | - |
+| 141 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | - |
+| 141 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 723 |
+| 141 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 41 |
+| 141 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 76 |
+| 141 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 568 |
 | 155 | [BLACKTAIL](games/b/blacktail.md) | 4.73 | - |
 | 155 | [DOOM II](games/d/doom_ii.md) | 4.73 | 25 |
 | 155 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 758 |
@@ -301,7 +301,7 @@
 | 289 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 145 |
 | 289 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 47 |
 | 289 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | - |
-| 289 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,276 |
+| 289 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,284 |
 | 289 | [SOMA](games/s/soma.md) | 4.65 | - |
 | 289 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.65 | - |
 | 289 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | - |
@@ -579,7 +579,7 @@
 | 566 | [Train Valley](games/t/train_valley.md) | 4.47 | - |
 | 578 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | - |
 | 578 | [Anno 2070](games/a/anno_2070.md) | 4.46 | - |
-| 578 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,159 |
+| 578 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,165 |
 | 578 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.46 | - |
 | 578 | [Figment](games/f/figment.md) | 4.46 | 20 |
 | 578 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 105 |
@@ -683,13 +683,12 @@
 | 673 | [Startup Panic](games/s/startup_panic.md) | 4.38 | - |
 | 673 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | - |
 | 673 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 31 |
-| 684 | [Core](games/c/core.md) | 4.37 | 718 |
+| 684 | [Core](games/c/core.md) | 4.37 | 719 |
 | 684 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | - |
 | 684 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | - |
 | 684 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | - |
 | 684 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,121 |
 | 684 | [Lamentum](games/l/lamentum.md) | 4.37 | - |
-| 690 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | - |
 | 690 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 169 |
 | 690 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 44 |
 | 690 | [Encased](games/e/encased.md) | 4.36 | 119 |
@@ -700,13 +699,14 @@
 | 690 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | - |
 | 690 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 73 |
 | 690 | [ZOMBI](games/z/zombi.md) | 4.36 | - |
-| 701 | [Among Trees](games/a/among_trees.md) | 4.35 | - |
-| 701 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | - |
-| 701 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.35 | - |
-| 701 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 200 |
-| 701 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | - |
-| 701 | [Paladins](games/p/paladins.md) | 4.35 | 3,178 |
-| 701 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 4,732 |
+| 700 | [Among Trees](games/a/among_trees.md) | 4.35 | - |
+| 700 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.35 | - |
+| 700 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | - |
+| 700 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.35 | - |
+| 700 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 200 |
+| 700 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | - |
+| 700 | [Paladins](games/p/paladins.md) | 4.35 | 3,178 |
+| 700 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 4,732 |
 | 708 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | - |
 | 708 | [Ashen](games/a/ashen.md) | 4.34 | - |
 | 708 | [Automachef](games/a/automachef.md) | 4.34 | 27 |

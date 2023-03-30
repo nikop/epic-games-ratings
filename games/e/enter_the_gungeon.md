@@ -3,7 +3,7 @@ Rating: 4.85 (8,617)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 7,416 |
+| This game has Great Boss Battles | 7,423 |
 | This game is Highly Recommended | 854 |
 | This game has Diverse Characters | 838 |
 | This game has Challenging Combat | 830 |

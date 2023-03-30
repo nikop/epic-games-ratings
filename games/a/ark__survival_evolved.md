@@ -13,7 +13,7 @@ Rating: 4.59 (35,570)  (as of 23.09.2022)
 | This game has Quickly Understood Controls | 18,423 |
 | This game has Amazing Storytelling | 18,280 |
 | This game is Relaxing | 18,182 |
-| This game has Amazing Characters | 17,871 |
+| This game has Amazing Characters | 17,882 |
 | This game has Obsessive Gameplay | 13,324 |
 ## Ratings History
 | Date | Rating | Number of Ratings |

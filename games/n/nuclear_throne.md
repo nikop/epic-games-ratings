@@ -5,10 +5,10 @@ Rating: 4.79 (631)  (as of 23.09.2022)
 | ----- | ----------------- |
 | This game has Inclusive Character Customization | 359 |
 | This game has Great Boss Battles | 285 |
+| This game has Amazing Characters | 64 |
 | This game has Unique Visuals | 63 |
-| This game has Amazing Characters | 63 |
 | This game has Challenging Combat | 63 |
-| This game is Great for Quick Sessions | 58 |
+| This game is Great for Quick Sessions | 59 |
 | This game is Extremely Fun | 57 |
 | This game has Quickly Understood Controls | 56 |
 | This game is Highly Recommended | 55 |

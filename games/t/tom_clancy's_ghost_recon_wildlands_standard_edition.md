@@ -6,10 +6,10 @@ Rating: 4.58 (871)  (as of 23.09.2022)
 | This game is Great for Beginners | 154 |
 | This game is Relaxing | 150 |
 | This game has Quickly Understood Controls | 146 |
+| This game has Amazing Characters | 141 |
 | This game is Highly Recommended | 141 |
-| This game has Amazing Characters | 140 |
 | This game has Amazing Storytelling | 133 |
-| This game is Extremely Fun | 132 |
+| This game is Extremely Fun | 133 |
 | This game has Diverse Characters | 123 |
 | This game has Obsessive Gameplay | 65 |
 | This game has Challenging Combat | 51 |

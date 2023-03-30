@@ -5,7 +5,7 @@ Rating: 4.68 (219,180)  (as of 23.09.2022)
 | ----- | ----------------- |
 | This game has Inclusive Character Customization | 278,465 |
 | This game is Great for Beginners | 122,633 |
-| This game has Diverse Characters | 115,917 |
+| This game has Diverse Characters | 116,180 |
 | This game has Amazing Characters | 105,571 |
 | This game has Amazing Storytelling | 103,047 |
 | This game is Highly Recommended | 102,171 |

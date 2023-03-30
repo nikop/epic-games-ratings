@@ -65,7 +65,7 @@
 | 63 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 46 |
 | 64 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | - |
 | 65 | [Aztez](games/a/aztez.md) | 4.53 | - |
-| 66 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,159 |
+| 66 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,165 |
 | 67 | [Backbone](games/b/backbone.md) | 4.33 | - |
 | 68 | [Bad North](games/b/bad_north.md) | 4.68 | - |
 | 69 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | - |
@@ -106,7 +106,7 @@
 | 104 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | - |
 | 105 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 37 |
 | 106 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | - |
-| 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.36 | - |
+| 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.35 | - |
 | 108 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 32 |
 | 109 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,962 |
 | 110 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 71 |
@@ -138,7 +138,7 @@
 | 136 | [Control](games/c/control.md) | 4.60 | 8,188 |
 | 137 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | - |
 | 138 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 104 |
-| 139 | [Core](games/c/core.md) | 4.37 | 718 |
+| 139 | [Core](games/c/core.md) | 4.37 | 719 |
 | 140 | [Coromon](games/c/coromon.md) | 4.65 | 40 |
 | 141 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | - |
 | 142 | [Costume Quest](games/c/costume_quest.md) | 4.52 | - |
@@ -226,7 +226,7 @@
 | 224 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 2,026 |
 | 225 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 38 |
 | 226 | [Encased](games/e/encased.md) | 4.36 | 119 |
-| 227 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,416 |
+| 227 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,423 |
 | 228 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | - |
 | 229 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 4,913 |
 | 230 | [EVE Online](games/e/eve_online.md) | 4.26 | 993 |
@@ -614,7 +614,7 @@
 | 612 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 231 |
 | 613 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 46 |
 | 614 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 150 |
-| 615 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,276 |
+| 615 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,284 |
 | 616 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 66 |
 | 617 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 539 |
 | 618 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 92 |
@@ -727,7 +727,7 @@
 | 725 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 6,266 |
 | 726 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 61 |
 | 727 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 55 |
-| 728 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 1,151 |
+| 728 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 1,156 |
 | 729 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.75 | - |
 | 730 | [The Escapists](games/t/the_escapists.md) | 4.48 | - |
 | 731 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 50 |
@@ -747,7 +747,7 @@
 | 745 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | - |
 | 746 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | - |
 | 747 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | - |
-| 748 | [The Long Dark](games/t/the_long_dark.md) | 4.75 | 723 |
+| 748 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 723 |
 | 749 | [The Medium](games/t/the_medium.md) | 4.58 | - |
 | 750 | [The Messenger](games/t/the_messenger.md) | 4.80 | 310 |
 | 751 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,717 |

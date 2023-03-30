@@ -3,7 +3,7 @@ Rating: 4.87 (-)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 1,151 |
+| This game has Inclusive Character Customization | 1,156 |
 | This game is Great for Beginners | 190 |
 | This game has Diverse Characters | 189 |
 | This game is Highly Recommended | 166 |

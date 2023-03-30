@@ -9,7 +9,7 @@ Rating: 4.70 (1,169)  (as of 23.09.2022)
 | This game is Highly Recommended | 913 |
 | This game has Challenging Combat | 908 |
 | This game has Amazing Characters | 888 |
-| This game has Quickly Understood Controls | 869 |
+| This game has Quickly Understood Controls | 870 |
 | This game has Amazing Storytelling | 859 |
 | This game is Relaxing | 858 |
 | This game has Competitive Players | 837 |

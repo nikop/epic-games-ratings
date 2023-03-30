@@ -9,7 +9,7 @@ Rating: 4.88 (29,401)  (as of 23.09.2022)
 | This game is Extremely Fun | 8,372 |
 | This game is Highly Recommended | 8,289 |
 | This game is Educational | 7,756 |
-| This game has Easy Combat | 7,603 |
+| This game has Easy Combat | 7,610 |
 | This game has a Creative Community | 6,507 |
 | This game has Amazing Characters | 6,111 |
 | This game has Amazing Storytelling | 6,062 |

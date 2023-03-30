@@ -12,7 +12,7 @@
 | 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 55,143 |
 | 11 | [VALORANT](games/v/valorant.md) | 4.54 | 46,986 |
 | 12 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 32,213 |
-| 13 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,276 |
+| 13 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,284 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 28,195 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 25,897 |
 | 15 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,137 |
@@ -37,7 +37,7 @@
 | 35 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,437 |
 | 36 | [Control](games/c/control.md) | 4.60 | 8,188 |
 | 37 | [Supraland](games/s/supraland.md) | 4.61 | 7,591 |
-| 38 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,416 |
+| 38 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,423 |
 | 39 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 7,311 |
 | 40 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,036 |
 | 41 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,005 |
@@ -81,7 +81,7 @@
 | 79 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,411 |
 | 80 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,312 |
 | 81 | [Paladins](games/p/paladins.md) | 4.35 | 3,178 |
-| 82 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,159 |
+| 82 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,165 |
 | 83 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,127 |
 | 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,062 |
 | 85 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 2,965 |
@@ -119,7 +119,7 @@
 | 117 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,282 |
 | 118 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 1,275 |
 | 119 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,166 |
-| 120 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 1,151 |
+| 120 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 1,156 |
 | 121 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,135 |
 | 122 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 1,111 |
 | 123 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 1,093 |
@@ -148,9 +148,9 @@
 | 146 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 758 |
 | 147 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 749 |
 | 148 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 744 |
-| 149 | [The Long Dark](games/t/the_long_dark.md) | 4.75 | 723 |
-| 150 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 718 |
-| 151 | [Core](games/c/core.md) | 4.37 | 718 |
+| 149 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 723 |
+| 150 | [Core](games/c/core.md) | 4.37 | 719 |
+| 151 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 718 |
 | 152 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 693 |
 | 153 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 686 |
 | 154 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 679 |

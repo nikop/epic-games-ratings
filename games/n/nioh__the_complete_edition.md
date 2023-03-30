@@ -9,7 +9,7 @@ Rating: 4.57 (10,807)  (as of 23.09.2022)
 | This game has Challenging Combat | 744 |
 | This game is Extremely Fun | 744 |
 | This game has Amazing Storytelling | 728 |
-| This game has Diverse Characters | 725 |
+| This game has Diverse Characters | 726 |
 | This game has Amazing Characters | 692 |
 | This game has Obsessive Gameplay | 489 |
 ## Ratings History

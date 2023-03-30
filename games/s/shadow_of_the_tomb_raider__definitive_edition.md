@@ -3,7 +3,7 @@ Rating: 4.65 (77,497)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 28,276 |
+| This game has Great Boss Battles | 28,284 |
 | This game is Great for Beginners | 1,009 |
 | This game has Quickly Understood Controls | 969 |
 | This game is Extremely Fun | 949 |

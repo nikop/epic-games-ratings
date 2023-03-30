@@ -5,7 +5,7 @@ Rating: 4.75 (4,120)  (as of 23.09.2022)
 | ----- | ----------------- |
 | This game is Extremely Fun | 381 |
 | This game is Relaxing | 358 |
-| This game is Highly Recommended | 346 |
+| This game is Highly Recommended | 350 |
 | This game is Great for Beginners | 344 |
 | This game has Quickly Understood Controls | 344 |
 | This game is Great for Quick Sessions | 343 |

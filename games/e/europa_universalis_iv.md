@@ -7,7 +7,7 @@ Rating: 4.68 (8,414)  (as of 23.09.2022)
 | This game has Challenging Combat | 4,746 |
 | This game is Highly Recommended | 4,704 |
 | This game is Extremely Fun | 4,674 |
-| This game has Diverse Characters | 4,627 |
+| This game has Diverse Characters | 4,634 |
 | This game is Relaxing | 4,569 |
 | This game has Competitive Players | 4,440 |
 | This game has Amazing Storytelling | 4,205 |

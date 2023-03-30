@@ -13,7 +13,7 @@ Rating: 4.49 (-)  (as of 23.09.2022)
 | This game has Beautiful Visuals | 287 |
 | This game is Extremely Fun | 275 |
 | This game has Quickly Understood Controls | 271 |
-| This game has Amazing Storytelling | 258 |
+| This game has Amazing Storytelling | 261 |
 | This game is Relaxing | 253 |
 | This game has Challenging Combat | 28 |
 | This game has a Kind Community | 22 |
