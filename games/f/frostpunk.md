@@ -3,7 +3,7 @@ Rating: 4.73 (11,240)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Quickly Understood Controls | 756 |
+| This game has Quickly Understood Controls | 758 |
 | This game is Relaxing | 733 |
 | This game has Amazing Storytelling | 726 |
 | This game is Highly Recommended | 712 |

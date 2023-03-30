@@ -12,7 +12,7 @@ Rating: 4.53 (1,046,587)  (as of 23.09.2022)
 | This game is Extremely Fun | 115,576 |
 | This game is Highly Recommended | 108,705 |
 | This game has Amazing Characters | 106,078 |
-| This game has Amazing Storytelling | 101,174 |
+| This game has Amazing Storytelling | 101,196 |
 | This game has Playful Visuals | 96,995 |
 ## Ratings History
 | Date | Rating | Number of Ratings |

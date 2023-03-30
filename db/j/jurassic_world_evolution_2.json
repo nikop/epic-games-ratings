@@ -3,7 +3,7 @@
   "Name": "Jurassic World Evolution 2",
   "Rating": 4.73,
   "NumberOfRatings": 3746,
-  "NumberOfAwards": 5204,
+  "NumberOfAwards": 5205,
   "NumberOfAwardsMax": 558,
   "FirstSeen": "2022-07-22T20:20:10.4170435+00:00",
   "LastChanged": "2022-12-19T22:57:32.1147083+00:00",
@@ -2171,7 +2171,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 455
+      "Count": 456
     }
   ]
 }

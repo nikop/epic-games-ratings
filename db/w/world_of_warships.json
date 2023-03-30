@@ -3,7 +3,7 @@
   "Name": "World of Warships",
   "Rating": 4.46,
   "NumberOfRatings": 4733,
-  "NumberOfAwards": 8504,
+  "NumberOfAwards": 8508,
   "NumberOfAwardsMax": 960,
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
   "LastChanged": "2023-03-12T08:56:50.5820424+00:00",
@@ -2857,7 +2857,7 @@
     },
     {
       "Text": "This game has Realistic Visuals",
-      "Count": 806
+      "Count": 810
     },
     {
       "Text": "This game is Extremely Fun",

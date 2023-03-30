@@ -60,7 +60,7 @@
 | 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,377 |
 | 59 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 4,913 |
 | 60 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 4,800 |
-| 61 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 4,726 |
+| 61 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 4,732 |
 | 62 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,724 |
 | 63 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,528 |
 | 64 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,475 |
@@ -76,7 +76,7 @@
 | 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,797 |
 | 75 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,693 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 3,561 |
-| 77 | [SMITE](games/s/smite.md) | 4.45 | 3,542 |
+| 77 | [SMITE](games/s/smite.md) | 4.45 | 3,550 |
 | 78 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 3,529 |
 | 79 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,411 |
 | 80 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,312 |
@@ -108,7 +108,7 @@
 | 106 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,756 |
 | 107 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,717 |
 | 108 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,677 |
-| 109 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,598 |
+| 109 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,600 |
 | 110 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,523 |
 | 111 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,465 |
 | 112 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,428 |
@@ -145,7 +145,7 @@
 | 143 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 838 |
 | 144 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 789 |
 | 145 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 779 |
-| 146 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 756 |
+| 146 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 758 |
 | 147 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 749 |
 | 148 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 744 |
 | 149 | [The Long Dark](games/t/the_long_dark.md) | 4.75 | 723 |
@@ -157,7 +157,7 @@
 | 155 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 660 |
 | 156 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 651 |
 | 157 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 640 |
-| 158 | [Subnautica](games/s/subnautica.md) | 4.84 | 635 |
+| 158 | [Subnautica](games/s/subnautica.md) | 4.84 | 636 |
 | 159 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 634 |
 | 160 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 622 |
 | 161 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 604 |
@@ -414,7 +414,7 @@
 | 412 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 36 |
 | 413 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 36 |
 | 414 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 |
-| 415 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 35 |
+| 415 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 35 |
 | 416 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.71 | 35 |
 | 417 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 35 |
 | 418 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 34 |

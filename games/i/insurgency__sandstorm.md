@@ -6,7 +6,7 @@ Rating: 4.62 (1,316)  (as of 23.09.2022)
 | This game has Quickly Understood Controls | 336 |
 | This game has Challenging Combat | 302 |
 | This game is Extremely Fun | 300 |
-| This game has Competitive Players | 294 |
+| This game has Competitive Players | 295 |
 | This game has Amazing Storytelling | 272 |
 | This game is Highly Recommended | 266 |
 | This game has Realistic Visuals | 266 |

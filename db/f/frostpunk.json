@@ -3,8 +3,8 @@
   "Name": "Frostpunk",
   "Rating": 4.73,
   "NumberOfRatings": 11240,
-  "NumberOfAwards": 6310,
-  "NumberOfAwardsMax": 756,
+  "NumberOfAwards": 6312,
+  "NumberOfAwardsMax": 758,
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "LastChanged": "2022-09-23T08:30:52.4920782+00:00",
   "RatingHistory": [
@@ -2781,7 +2781,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 756
+      "Count": 758
     },
     {
       "Text": "This game has Amazing Storytelling",

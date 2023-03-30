@@ -281,7 +281,7 @@
 | 279 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 136 |
 | 280 | [Fortnite](games/f/fortnite.md) | 4.30 | 1,179,756 |
 | 281 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.71 | - |
-| 282 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 756 |
+| 282 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 758 |
 | 283 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 157 |
 | 284 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 |
 | 285 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 169 |
@@ -322,7 +322,7 @@
 | 320 | [Hades](games/h/hades.md) | 4.92 | 2,960 |
 | 321 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | - |
 | 322 | [Hammerting](games/h/hammerting.md) | 4.38 | - |
-| 323 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 35 |
+| 323 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 35 |
 | 324 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | - |
 | 325 | [Haven](games/h/haven.md) | 4.75 | - |
 | 326 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 57 |
@@ -525,7 +525,7 @@
 | 523 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | - |
 | 524 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,370 |
 | 525 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 2,965 |
-| 526 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,598 |
+| 526 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,600 |
 | 527 | [Pathway](games/p/pathway.md) | 4.45 | - |
 | 528 | [Patron](games/p/patron.md) | 3.94 | - |
 | 529 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,020 |
@@ -583,7 +583,7 @@
 | 581 | [Riverbond](games/r/riverbond.md) | 4.48 | - |
 | 582 | [Road 96](games/r/road_96.md) | 4.61 | - |
 | 583 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 366,755 |
-| 584 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 4,726 |
+| 584 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 4,732 |
 | 585 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,055 |
 | 586 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 214 |
 | 587 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | - |
@@ -639,7 +639,7 @@
 | 637 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 97 |
 | 638 | [Slipways](games/s/slipways.md) | 4.73 | - |
 | 639 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | - |
-| 640 | [SMITE](games/s/smite.md) | 4.45 | 3,542 |
+| 640 | [SMITE](games/s/smite.md) | 4.45 | 3,550 |
 | 641 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.46 | - |
 | 642 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 7,311 |
 | 643 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 24 |
@@ -686,7 +686,7 @@
 | 684 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 47 |
 | 685 | [Submerged](games/s/submerged.md) | 4.09 | - |
 | 686 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 |
-| 687 | [Subnautica](games/s/subnautica.md) | 4.84 | 635 |
+| 687 | [Subnautica](games/s/subnautica.md) | 4.84 | 636 |
 | 688 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 141 |
 | 689 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | - |
 | 690 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 74 |

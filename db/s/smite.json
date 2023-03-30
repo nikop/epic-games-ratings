@@ -3,8 +3,8 @@
   "Name": "SMITE",
   "Rating": 4.45,
   "NumberOfRatings": 6749,
-  "NumberOfAwards": 22251,
-  "NumberOfAwardsMax": 3542,
+  "NumberOfAwards": 22264,
+  "NumberOfAwardsMax": 3550,
   "FirstSeen": "2022-07-22T20:18:32.4644513+00:00",
   "LastChanged": "2022-11-23T19:57:07.7052149+00:00",
   "RatingHistory": [
@@ -2928,7 +2928,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 3542
+      "Count": 3550
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2940,7 +2940,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 2757
+      "Count": 2762
     },
     {
       "Text": "This game is Extremely Fun",

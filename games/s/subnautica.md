@@ -3,7 +3,7 @@ Rating: 4.84 (7,928)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Amazing Storytelling | 635 |
+| This game has Amazing Storytelling | 636 |
 | This game is Great for Beginners | 621 |
 | This game has Quickly Understood Controls | 612 |
 | This game is Highly Recommended | 611 |
