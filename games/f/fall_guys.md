@@ -6,7 +6,7 @@ Rating: 4.53 (1,046,587)  (as of 23.09.2022)
 | This game is Great for Beginners | 136,985 |
 | This game is Relaxing | 129,008 |
 | This game has Competitive Players | 126,256 |
-| This game has Quickly Understood Controls | 126,238 |
+| This game has Quickly Understood Controls | 126,255 |
 | This game is Great for Quick Sessions | 120,869 |
 | This game has Diverse Characters | 118,550 |
 | This game is Extremely Fun | 115,576 |

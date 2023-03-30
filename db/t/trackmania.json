@@ -3,7 +3,8 @@
   "Name": "Trackmania",
   "Rating": 4.67,
   "NumberOfRatings": 6825,
-  "NumberOfAwards": 18767,
+  "NumberOfAwards": 2238,
+  "NumberOfAwardsMax": 2238,
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
   "LastChanged": "2023-03-25T15:57:38.9803402+00:00",
   "RatingHistory": [
@@ -2843,7 +2844,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 1893
+      "Count": 1909
     },
     {
       "Text": "This game has Obsessive Gameplay",

@@ -6,8 +6,8 @@ Rating: 4.67 (6,825)  (as of 23.09.2022)
 | This game is Great for Beginners | 2,238 |
 | This game is Great for Quick Sessions | 2,225 |
 | This game has Competitive Players | 1,943 |
+| This game has Quickly Understood Controls | 1,909 |
 | This game is Extremely Fun | 1,895 |
-| This game has Quickly Understood Controls | 1,893 |
 | This game is Relaxing | 1,832 |
 | This game is Highly Recommended | 1,780 |
 | This game has a Competitive Community | 1,576 |

@@ -3,7 +3,8 @@
   "Name": "Fall Guys",
   "Rating": 4.53,
   "NumberOfRatings": 1046587,
-  "NumberOfAwards": 1286434,
+  "NumberOfAwards": 136985,
+  "NumberOfAwardsMax": 136985,
   "FirstSeen": "2022-07-22T20:18:16.49776+00:00",
   "LastChanged": "2022-12-02T05:56:55.580745+00:00",
   "RatingHistory": [
@@ -2883,7 +2884,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 126238
+      "Count": 126255
     },
     {
       "Text": "This game has Competitive Players",
