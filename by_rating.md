@@ -179,7 +179,6 @@
 | 177 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 
 | 177 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 
 | 177 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 
-| 177 | [For The King](games/f/for_the_king.md) | 4.71 | 
 | 177 | [Barony](games/b/barony.md) | 4.71 | 
 | 177 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 
 | 177 | [SUPERHOT](games/s/superhot.md) | 4.71 | 
@@ -195,25 +194,26 @@
 | 177 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.71 | 
 | 177 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 
 | 177 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 
-| 196 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
-| 196 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
-| 196 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
-| 196 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
-| 196 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
-| 196 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
-| 196 | [The Witness](games/t/the_witness.md) | 4.70 | 
-| 196 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
-| 196 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
-| 196 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
-| 196 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
-| 196 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
-| 196 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
-| 196 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
-| 196 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
-| 196 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
-| 196 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.70 | 
-| 196 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
-| 196 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
+| 195 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 
+| 195 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 
+| 195 | [For The King](games/f/for_the_king.md) | 4.70 | 
+| 195 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 
+| 195 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 
+| 195 | [House Flipper](games/h/house_flipper.md) | 4.70 | 
+| 195 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 
+| 195 | [The Witness](games/t/the_witness.md) | 4.70 | 
+| 195 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 
+| 195 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 
+| 195 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 
+| 195 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 
+| 195 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 
+| 195 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 
+| 195 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 
+| 195 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
+| 195 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 
+| 195 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.70 | 
+| 195 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 
+| 195 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 215 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 
 | 215 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 
 | 215 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 
@@ -881,7 +881,7 @@
 | 877 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 
 | 880 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 
 | 881 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 
-| 882 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.82 | 
+| 882 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.81 | 
 | 883 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 
 | 884 | [Saints Row](games/s/saints_row.md) | 3.78 | 
 | 884 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 
