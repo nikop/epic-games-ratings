@@ -1,5 +1,20 @@
 # WRC 10 FIA World Rally Championship
 Rating: 4.48 (248)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Realistic Visuals | 36 |
+| This game is Extremely Fun | 34 |
+| This game has Quickly Understood Controls | 32 |
+| This game is Relaxing | 29 |
+| This game is Great for Quick Sessions | 29 |
+| This game is Highly Recommended | 28 |
+| This game has Challenging Combat | 26 |
+| This game has Amazing Storytelling | 26 |
+| This game is Educational | 24 |
+| This game has Competitive Players | 24 |
+| This game has Obsessive Gameplay | 21 |
+| This game has a Competitive Community | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

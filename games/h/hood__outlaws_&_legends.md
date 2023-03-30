@@ -1,5 +1,16 @@
 # Hood: Outlaws & Legends
 Rating: 3.99 (12,539)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Diverse Characters | 366 |
+| This game has Quickly Understood Controls | 366 |
+| This game is Relaxing | 361 |
+| This game has Competitive Players | 342 |
+| This game is Highly Recommended | 338 |
+| This game is Extremely Fun | 323 |
+| This game has Amazing Characters | 320 |
+| This game has Amazing Storytelling | 297 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

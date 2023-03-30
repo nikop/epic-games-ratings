@@ -1,5 +1,10 @@
 # Darksiders Warmastered Edition
 Rating: 4.60 (721)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 86 |
+| This game has Great Boss Battles | 73 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

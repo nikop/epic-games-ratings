@@ -1,5 +1,12 @@
 # Voidtrain
 Rating: 4.50 (1,305)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 27 |
+| This game has Easy Combat | 26 |
+| This game is Relaxing | 24 |
+| This game has Quickly Understood Controls | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

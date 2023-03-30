@@ -1,5 +1,17 @@
 # Galactic Civilizations III
 Rating: 4.21 (1,085)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Extremely Fun | 169 |
+| This game is Relaxing | 154 |
+| This game has Quickly Understood Controls | 152 |
+| This game has Diverse Characters | 145 |
+| This game has Amazing Storytelling | 144 |
+| This game is Highly Recommended | 144 |
+| This game has Amazing Characters | 107 |
+| This game has a Creative Community | 60 |
+| This game has Unique Visuals | 34 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

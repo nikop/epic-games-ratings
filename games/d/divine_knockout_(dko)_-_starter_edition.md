@@ -1,5 +1,21 @@
 # Divine Knockout (DKO) - Starter Edition
 Rating: 4.36 (60)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Quickly Understood Controls | 44 |
+| This game is Great for Beginners | 43 |
+| This game has Competitive Players | 37 |
+| This game has Diverse Characters | 37 |
+| This game is Great for Quick Sessions | 35 |
+| This game is Extremely Fun | 34 |
+| This game has a Competitive Community | 31 |
+| This game is Highly Recommended | 31 |
+| This game has Amazing Characters | 29 |
+| This game is Relaxing | 28 |
+| This game has Amazing Storytelling | 25 |
+| This game has Unique Visuals | 24 |
+| This game has Playful Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

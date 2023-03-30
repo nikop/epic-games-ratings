@@ -1,5 +1,18 @@
 # Hello Neighbor
 Rating: 4.54 (1,166)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Relaxing | 189 |
+| This game is Great for Beginners | 186 |
+| This game has Amazing Storytelling | 163 |
+| This game has Quickly Understood Controls | 160 |
+| This game is Extremely Fun | 151 |
+| This game is Highly Recommended | 151 |
+| This game has Amazing Characters | 150 |
+| This game has a Creative Community | 135 |
+| This game has Obsessive Gameplay | 68 |
+| This game is Great for Quick Sessions | 37 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

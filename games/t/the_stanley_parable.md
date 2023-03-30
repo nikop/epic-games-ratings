@@ -1,5 +1,8 @@
 # The Stanley Parable
 Rating: 4.72 (188)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,16 @@
 # Back 4 Blood: Standard Edition
 Rating: 4.46 (2,790)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 3,159 |
+| This game has Diverse Characters | 588 |
+| This game has Quickly Understood Controls | 554 |
+| This game is Highly Recommended | 552 |
+| This game is Extremely Fun | 546 |
+| This game is Relaxing | 541 |
+| This game has Amazing Storytelling | 518 |
+| This game has Amazing Characters | 489 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

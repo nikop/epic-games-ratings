@@ -1,5 +1,21 @@
 # Into the Breach
 Rating: 4.84 (4,082)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Extremely Fun | 401 |
+| This game is Great for Beginners | 399 |
+| This game is Highly Recommended | 397 |
+| This game has Challenging Combat | 393 |
+| This game has Quickly Understood Controls | 392 |
+| This game has Diverse Characters | 369 |
+| This game is Relaxing | 364 |
+| This game has Amazing Storytelling | 335 |
+| This game has Amazing Characters | 310 |
+| This game has Obsessive Gameplay | 287 |
+| This game has Unique Visuals | 283 |
+| This game has a Creative Community | 182 |
+| This game is Great for Quick Sessions | 39 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

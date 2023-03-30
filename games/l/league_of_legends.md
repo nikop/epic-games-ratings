@@ -1,5 +1,17 @@
 # League of Legends
 Rating: 4.21 (10,796)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 12,158 |
+| This game has Diverse Characters | 2,525 |
+| This game has Challenging Combat | 2,265 |
+| This game has Competitive Players | 2,066 |
+| This game has Amazing Characters | 2,060 |
+| This game has Amazing Storytelling | 1,931 |
+| This game has a Competitive Community | 1,881 |
+| This game has Obsessive Gameplay | 403 |
+| This game has Quickly Understood Controls | 260 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,19 @@
 # Goat Simulator 3
 Rating: 4.85 (-)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 259 |
+| This game is Highly Recommended | 254 |
+| This game has Diverse Characters | 245 |
+| This game has Amazing Characters | 242 |
+| This game is Extremely Fun | 231 |
+| This game is Relaxing | 227 |
+| This game has Quickly Understood Controls | 227 |
+| This game has Amazing Storytelling | 221 |
+| This game has a Silly Community | 195 |
+| This game has Easy Combat | 186 |
+| This game is Educational | 158 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

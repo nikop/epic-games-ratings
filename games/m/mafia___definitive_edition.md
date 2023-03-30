@@ -1,5 +1,12 @@
 # Mafia : Definitive Edition
 Rating: 4.62 (2,035)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 567 |
+| This game is Highly Recommended | 31 |
+| This game has Diverse Characters | 21 |
+| This game is Extremely Fun | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

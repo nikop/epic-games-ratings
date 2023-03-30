@@ -1,5 +1,18 @@
 # Loop Hero
 Rating: 4.68 (6,301)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Quickly Understood Controls | 407 |
+| This game is Relaxing | 397 |
+| This game has Amazing Storytelling | 374 |
+| This game is Extremely Fun | 367 |
+| This game is Great for Beginners | 366 |
+| This game is Highly Recommended | 344 |
+| This game has Unique Visuals | 340 |
+| This game has Amazing Characters | 318 |
+| This game has Diverse Characters | 313 |
+| This game has a Creative Community | 223 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

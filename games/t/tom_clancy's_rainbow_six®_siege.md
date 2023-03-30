@@ -1,5 +1,19 @@
 # Tom Clancy's Rainbow Six® Siege
 Rating: 4.57 (8,669)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Diverse Characters | 1,677 |
+| This game has Competitive Players | 1,610 |
+| This game has Amazing Characters | 1,576 |
+| This game is Extremely Fun | 1,545 |
+| This game is Highly Recommended | 1,539 |
+| This game has Challenging Combat | 1,511 |
+| This game has Quickly Understood Controls | 1,497 |
+| This game has Amazing Storytelling | 1,411 |
+| This game has a Competitive Community | 1,323 |
+| This game has Obsessive Gameplay | 1,220 |
+| This game has Realistic Visuals | 695 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

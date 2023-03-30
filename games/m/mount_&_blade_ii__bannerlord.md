@@ -1,5 +1,20 @@
 # Mount & Blade II: Bannerlord
 Rating: 4.74 (5,603)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 6,292 |
+| This game has Diverse Characters | 744 |
+| This game is Great for Beginners | 743 |
+| This game is Highly Recommended | 730 |
+| This game is Extremely Fun | 688 |
+| This game has Amazing Storytelling | 686 |
+| This game is Relaxing | 683 |
+| This game has Quickly Understood Controls | 677 |
+| This game has Amazing Characters | 671 |
+| This game has a Creative Community | 477 |
+| This game has Obsessive Gameplay | 376 |
+| This game has Competitive Players | 107 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

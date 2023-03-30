@@ -1,5 +1,19 @@
 # Anno 1800 Standard Edition
 Rating: 4.82 (4,392)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Relaxing | 1,135 |
+| This game is Extremely Fun | 1,110 |
+| This game has Quickly Understood Controls | 1,077 |
+| This game is Highly Recommended | 1,052 |
+| This game is Educational | 1,016 |
+| This game has Amazing Storytelling | 996 |
+| This game has Diverse Characters | 935 |
+| This game has Amazing Characters | 865 |
+| This game has Beautiful Visuals | 654 |
+| This game has a Creative Community | 588 |
+| This game has Obsessive Gameplay | 518 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

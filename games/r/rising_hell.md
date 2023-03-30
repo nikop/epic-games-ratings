@@ -1,5 +1,21 @@
 # Rising Hell
 Rating: 4.40 (-)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Quickly Understood Controls | 73 |
+| This game has Amazing Storytelling | 66 |
+| This game has Diverse Characters | 65 |
+| This game has Unique Visuals | 63 |
+| This game is Relaxing | 62 |
+| This game is Extremely Fun | 61 |
+| This game has Amazing Characters | 58 |
+| This game is Great for Beginners | 57 |
+| This game is Highly Recommended | 56 |
+| This game is Great for Quick Sessions | 56 |
+| This game has a Creative Community | 40 |
+| This game has Obsessive Gameplay | 26 |
+| This game has Challenging Combat | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

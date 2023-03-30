@@ -1,5 +1,20 @@
 # Star Stable Online
 Rating: 4.41 (317)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 117 |
+| This game is Educational | 104 |
+| This game has Amazing Characters | 102 |
+| This game is Relaxing | 99 |
+| This game is Highly Recommended | 95 |
+| This game has Amazing Storytelling | 94 |
+| This game has Quickly Understood Controls | 91 |
+| This game is Extremely Fun | 91 |
+| This game has Diverse Characters | 80 |
+| This game has Easy Combat | 75 |
+| This game is Great for Quick Sessions | 69 |
+| This game has Obsessive Gameplay | 49 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

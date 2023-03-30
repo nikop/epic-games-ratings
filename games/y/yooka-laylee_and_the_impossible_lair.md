@@ -1,5 +1,15 @@
 # Yooka-Laylee and the Impossible Lair
 Rating: 4.38 (346)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Relaxing | 31 |
+| This game is Extremely Fun | 28 |
+| This game is Great for Beginners | 27 |
+| This game has Playful Visuals | 24 |
+| This game is Highly Recommended | 23 |
+| This game has Amazing Storytelling | 22 |
+| This game has Obsessive Gameplay | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

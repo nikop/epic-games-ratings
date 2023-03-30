@@ -1,5 +1,21 @@
 # CRSED: F.O.A.D.
 Rating: 4.34 (464)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Highly Recommended | 90 |
+| This game is Relaxing | 83 |
+| This game has Quickly Understood Controls | 81 |
+| This game is Extremely Fun | 78 |
+| This game has Amazing Characters | 76 |
+| This game has Diverse Characters | 73 |
+| This game has Challenging Combat | 73 |
+| This game has Competitive Players | 72 |
+| This game is Great for Quick Sessions | 67 |
+| This game has Amazing Storytelling | 60 |
+| This game has a Competitive Community | 56 |
+| This game is Great for Beginners | 53 |
+| This game has Obsessive Gameplay | 36 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,20 @@
 # Marvel’s Spider-Man: Miles Morales
 Rating: 4.80 (-)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 954 |
+| This game has Diverse Characters | 41 |
+| This game has Amazing Storytelling | 39 |
+| This game is Great for Beginners | 34 |
+| This game is Highly Recommended | 32 |
+| This game is Relaxing | 32 |
+| This game is Great for Quick Sessions | 32 |
+| This game is Extremely Fun | 29 |
+| This game has Beautiful Visuals | 26 |
+| This game has Quickly Understood Controls | 26 |
+| This game has Amazing Characters | 25 |
+| This game has a Creative Community | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

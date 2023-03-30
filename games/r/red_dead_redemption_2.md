@@ -1,5 +1,22 @@
 # Red Dead Redemption 2
 Rating: 4.89 (102,658)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| In this game, your choices Impact the Story | 129,139 |
+| This game has Great Boss Battles | 70,351 |
+| This game is Great for Beginners | 12,249 |
+| This game has Diverse Characters | 11,977 |
+| This game is Extremely Fun | 11,908 |
+| This game is Relaxing | 11,895 |
+| This game is Highly Recommended | 11,889 |
+| This game has Amazing Storytelling | 11,788 |
+| This game has Amazing Characters | 11,731 |
+| This game is Educational | 11,549 |
+| This game has Quickly Understood Controls | 11,386 |
+| This game has Realistic Visuals | 11,332 |
+| This game has a Creative Community | 8,651 |
+| This game has Obsessive Gameplay | 5,801 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

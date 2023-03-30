@@ -1,5 +1,17 @@
 # Ancestors: The Humankind Odyssey
 Rating: 4.59 (481)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Educational | 44 |
+| This game has Quickly Understood Controls | 37 |
+| This game is Relaxing | 36 |
+| This game has Amazing Characters | 30 |
+| This game is Extremely Fun | 30 |
+| This game is Highly Recommended | 29 |
+| This game has Amazing Storytelling | 25 |
+| This game has Challenging Combat | 22 |
+| This game has Obsessive Gameplay | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

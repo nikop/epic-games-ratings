@@ -1,5 +1,18 @@
 # For The King
 Rating: 4.70 (5,563)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 354 |
+| This game is Extremely Fun | 332 |
+| This game has Diverse Characters | 314 |
+| This game is Relaxing | 311 |
+| This game has Quickly Understood Controls | 301 |
+| This game is Highly Recommended | 298 |
+| This game has Amazing Characters | 281 |
+| This game has Amazing Storytelling | 277 |
+| This game has Challenging Combat | 265 |
+| This game has Obsessive Gameplay | 211 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,21 @@
 # Disco Elysium
 Rating: 4.86 (1,611)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 679 |
+| This game has Amazing Storytelling | 45 |
+| This game is Educational | 43 |
+| This game is Highly Recommended | 42 |
+| This game has Quickly Understood Controls | 37 |
+| This game has Unique Visuals | 35 |
+| This game has Amazing Characters | 35 |
+| This game is Relaxing | 32 |
+| This game is Extremely Fun | 30 |
+| This game has Diverse Characters | 30 |
+| This game has Obsessive Gameplay | 26 |
+| This game has a Creative Community | 22 |
+| This game has Easy Combat | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,19 @@
 # Carcassonne
 Rating: 4.68 (276)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Highly Recommended | 71 |
+| This game is Relaxing | 68 |
+| This game is Great for Beginners | 65 |
+| This game is Extremely Fun | 63 |
+| This game has Quickly Understood Controls | 62 |
+| This game has Competitive Players | 57 |
+| This game has Obsessive Gameplay | 44 |
+| This game has Amazing Storytelling | 43 |
+| This game has a Competitive Community | 35 |
+| This game has Amazing Characters | 34 |
+| This game has Challenging Combat | 28 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,19 @@
 # Disney Dreamlight Valley
 Rating: 4.76 (1,396)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 789 |
+| This game is Relaxing | 746 |
+| This game has Amazing Characters | 729 |
+| This game is Highly Recommended | 724 |
+| This game has Diverse Characters | 707 |
+| This game has Amazing Storytelling | 704 |
+| This game has Quickly Understood Controls | 698 |
+| This game is Extremely Fun | 693 |
+| This game has a Creative Community | 555 |
+| This game has Easy Combat | 451 |
+| This game has Obsessive Gameplay | 415 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

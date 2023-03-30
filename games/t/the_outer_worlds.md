@@ -1,5 +1,20 @@
 # The Outer Worlds
 Rating: 4.63 (2,487)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 1,717 |
+| This game is Highly Recommended | 226 |
+| This game has Amazing Storytelling | 222 |
+| This game is Extremely Fun | 219 |
+| This game has Diverse Characters | 208 |
+| This game has Quickly Understood Controls | 205 |
+| This game is Relaxing | 202 |
+| This game is Great for Beginners | 199 |
+| This game has Amazing Characters | 193 |
+| This game has Easy Combat | 161 |
+| This game has a Creative Community | 107 |
+| This game has Unique Visuals | 45 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

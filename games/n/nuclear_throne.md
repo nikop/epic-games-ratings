@@ -1,5 +1,21 @@
 # Nuclear Throne
 Rating: 4.79 (631)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 359 |
+| This game has Great Boss Battles | 285 |
+| This game has Unique Visuals | 63 |
+| This game has Amazing Characters | 63 |
+| This game has Challenging Combat | 63 |
+| This game is Great for Quick Sessions | 58 |
+| This game is Extremely Fun | 57 |
+| This game has Quickly Understood Controls | 56 |
+| This game is Highly Recommended | 55 |
+| This game has Diverse Characters | 54 |
+| This game has Amazing Storytelling | 47 |
+| This game has Obsessive Gameplay | 38 |
+| This game is Relaxing | 33 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

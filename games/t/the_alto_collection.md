@@ -1,5 +1,18 @@
 # The Alto Collection
 Rating: 4.70 (332)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Quick Sessions | 43 |
+| This game is Highly Recommended | 41 |
+| This game is Great for Beginners | 40 |
+| This game has Beautiful Visuals | 37 |
+| This game has Quickly Understood Controls | 35 |
+| This game is Extremely Fun | 34 |
+| This game is Relaxing | 34 |
+| This game has Amazing Storytelling | 25 |
+| This game has Diverse Characters | 24 |
+| This game has Amazing Characters | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

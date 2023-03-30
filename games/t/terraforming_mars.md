@@ -1,5 +1,17 @@
 # Terraforming Mars
 Rating: 4.54 (2,731)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Relaxing | 486 |
+| This game is Highly Recommended | 472 |
+| This game is Extremely Fun | 434 |
+| This game has Quickly Understood Controls | 431 |
+| This game has Competitive Players | 428 |
+| This game has Amazing Storytelling | 348 |
+| This game has Obsessive Gameplay | 334 |
+| This game has a Competitive Community | 226 |
+| This game has Amazing Characters | 188 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

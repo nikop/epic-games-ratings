@@ -1,5 +1,20 @@
 # Horizon Chase Turbo
 Rating: 4.56 (1,343)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 126 |
+| This game has Quickly Understood Controls | 110 |
+| This game is Relaxing | 107 |
+| This game is Highly Recommended | 100 |
+| This game has Competitive Players | 95 |
+| This game is Great for Quick Sessions | 94 |
+| This game has Playful Visuals | 92 |
+| This game is Extremely Fun | 86 |
+| This game has Amazing Characters | 81 |
+| This game has Amazing Storytelling | 76 |
+| This game has Diverse Characters | 75 |
+| This game has a Competitive Community | 65 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

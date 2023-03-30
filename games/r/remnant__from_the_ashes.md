@@ -1,5 +1,20 @@
 # Remnant: From the Ashes
 Rating: 4.60 (12,107)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 8,800 |
+| This game has Quickly Understood Controls | 658 |
+| This game is Extremely Fun | 648 |
+| This game has Amazing Storytelling | 641 |
+| This game is Highly Recommended | 633 |
+| This game has Challenging Combat | 631 |
+| This game is Relaxing | 599 |
+| This game has Diverse Characters | 575 |
+| This game has Amazing Characters | 560 |
+| This game has Obsessive Gameplay | 419 |
+| This game has Unique Visuals | 305 |
+| This game is Great for Beginners | 111 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

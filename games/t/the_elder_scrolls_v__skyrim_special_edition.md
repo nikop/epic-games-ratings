@@ -1,5 +1,18 @@
 # The Elder Scrolls V: Skyrim Special Edition
 Rating: 4.87 (-)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 1,151 |
+| This game is Great for Beginners | 190 |
+| This game has Diverse Characters | 189 |
+| This game is Highly Recommended | 166 |
+| This game has Quickly Understood Controls | 163 |
+| This game is Extremely Fun | 162 |
+| This game has Amazing Storytelling | 160 |
+| This game has Amazing Characters | 155 |
+| This game is Relaxing | 152 |
+| This game has a Creative Community | 121 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

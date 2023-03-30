@@ -1,5 +1,20 @@
 # FUSER™
 Rating: 4.71 (86)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Highly Recommended | 35 |
+| This game is Educational | 35 |
+| This game has Diverse Characters | 34 |
+| This game is Great for Quick Sessions | 33 |
+| This game has Quickly Understood Controls | 32 |
+| This game has a Creative Community | 31 |
+| This game is Relaxing | 31 |
+| This game is Extremely Fun | 31 |
+| This game is Great for Beginners | 30 |
+| This game has Unique Visuals | 28 |
+| This game has Obsessive Gameplay | 23 |
+| This game has Amazing Characters | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,17 @@
 # MechWarrior 5: Mercenaries Standard Edition
 Rating: 4.61 (4,280)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 1,043 |
+| This game is Highly Recommended | 986 |
+| This game is Extremely Fun | 950 |
+| This game has Amazing Storytelling | 926 |
+| This game has Quickly Understood Controls | 897 |
+| This game is Relaxing | 893 |
+| This game has Challenging Combat | 864 |
+| This game has Obsessive Gameplay | 619 |
+| This game has a Creative Community | 517 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

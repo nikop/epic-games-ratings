@@ -1,5 +1,20 @@
 # Bugsnax
 Rating: 4.85 (425)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Amazing Storytelling | 37 |
+| This game has Quickly Understood Controls | 31 |
+| This game is Great for Beginners | 30 |
+| This game is Highly Recommended | 30 |
+| This game has Amazing Characters | 29 |
+| This game has Diverse Characters | 26 |
+| This game is Extremely Fun | 26 |
+| This game is Relaxing | 24 |
+| This game has a Creative Community | 24 |
+| This game is Great for Quick Sessions | 24 |
+| This game has Easy Combat | 23 |
+| This game has Obsessive Gameplay | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

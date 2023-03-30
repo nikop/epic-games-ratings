@@ -1,5 +1,18 @@
 # Defense Grid: The Awakening
 Rating: 4.45 (1,225)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 226 |
+| This game has Quickly Understood Controls | 218 |
+| This game is Relaxing | 207 |
+| This game is Extremely Fun | 199 |
+| This game is Highly Recommended | 185 |
+| This game has Challenging Combat | 175 |
+| This game has Amazing Storytelling | 172 |
+| This game has Amazing Characters | 164 |
+| This game has a Creative Community | 69 |
+| This game has Playful Visuals | 38 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

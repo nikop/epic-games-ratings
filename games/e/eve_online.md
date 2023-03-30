@@ -1,5 +1,19 @@
 # EVE Online
 Rating: 4.26 (1,408)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 993 |
+| This game is Extremely Fun | 180 |
+| This game has Challenging Combat | 173 |
+| This game has Diverse Characters | 171 |
+| This game is Highly Recommended | 165 |
+| This game is Relaxing | 163 |
+| This game has Competitive Players | 157 |
+| This game has a Competitive Community | 131 |
+| This game has Amazing Storytelling | 122 |
+| This game has Quickly Understood Controls | 53 |
+| This game has Amazing Characters | 29 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

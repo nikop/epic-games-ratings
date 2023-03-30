@@ -1,5 +1,19 @@
 # Tropico 6
 Rating: 4.67 (398)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 95 |
+| This game has Quickly Understood Controls | 90 |
+| This game is Relaxing | 87 |
+| This game has Amazing Storytelling | 81 |
+| This game is Educational | 81 |
+| This game is Highly Recommended | 79 |
+| This game has Amazing Characters | 78 |
+| This game is Extremely Fun | 75 |
+| This game has a Creative Community | 57 |
+| This game has Obsessive Gameplay | 52 |
+| This game has Diverse Characters | 46 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

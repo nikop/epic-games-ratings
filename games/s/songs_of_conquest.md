@@ -1,5 +1,16 @@
 # Songs of Conquest
 Rating: 4.70 (292)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Relaxing | 27 |
+| This game has Quickly Understood Controls | 26 |
+| This game is Highly Recommended | 25 |
+| This game has Amazing Storytelling | 25 |
+| This game is Great for Beginners | 24 |
+| This game has Unique Visuals | 22 |
+| This game has Diverse Characters | 22 |
+| This game has Competitive Players | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,17 @@
 # Mutant Year Zero: Road to Eden
 Rating: 4.49 (2,052)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 600 |
+| This game has Amazing Characters | 40 |
+| This game has Quickly Understood Controls | 39 |
+| This game is Relaxing | 36 |
+| This game is Highly Recommended | 36 |
+| This game is Extremely Fun | 36 |
+| This game has Amazing Storytelling | 34 |
+| This game has Diverse Characters | 32 |
+| This game has Obsessive Gameplay | 25 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

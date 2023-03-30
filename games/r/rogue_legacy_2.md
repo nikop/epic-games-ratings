@@ -1,5 +1,18 @@
 # Rogue Legacy 2
 Rating: 4.85 (1,331)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Extremely Fun | 214 |
+| This game has Quickly Understood Controls | 198 |
+| This game has Diverse Characters | 189 |
+| This game has Challenging Combat | 189 |
+| This game is Highly Recommended | 185 |
+| This game is Relaxing | 179 |
+| This game has Amazing Characters | 159 |
+| This game has Amazing Storytelling | 157 |
+| This game has Playful Visuals | 145 |
+| This game has Obsessive Gameplay | 123 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,19 @@
 # Dead by Daylight
 Rating: 4.53 (70,340)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Diverse Characters | 25,861 |
+| This game has Competitive Players | 24,482 |
+| This game is Highly Recommended | 23,933 |
+| This game is Extremely Fun | 23,927 |
+| This game has Quickly Understood Controls | 23,876 |
+| This game has Amazing Characters | 23,796 |
+| This game has Challenging Combat | 22,977 |
+| This game has Amazing Storytelling | 21,685 |
+| This game has a Competitive Community | 19,954 |
+| This game has Obsessive Gameplay | 16,768 |
+| This game is Great for Quick Sessions | 4,888 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

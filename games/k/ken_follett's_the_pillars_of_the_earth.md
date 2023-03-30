@@ -1,5 +1,10 @@
 # Ken Follett's The Pillars of the Earth
 Rating: 4.52 (368)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game features Easy Puzzles | 147 |
+| In this game, your choices Impact the Story | 39 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

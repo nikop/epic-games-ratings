@@ -1,5 +1,18 @@
 # Ticket to Ride
 Rating: 4.61 (167)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Quick Sessions | 60 |
+| This game is Relaxing | 42 |
+| This game is Great for Beginners | 42 |
+| This game has Competitive Players | 41 |
+| This game has Obsessive Gameplay | 37 |
+| This game has Quickly Understood Controls | 37 |
+| This game is Extremely Fun | 35 |
+| This game is Highly Recommended | 33 |
+| This game has Playful Visuals | 30 |
+| This game has Amazing Characters | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

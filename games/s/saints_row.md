@@ -1,5 +1,18 @@
 # Saints Row
 Rating: 3.78 (22,103)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Extremely Fun | 1,017 |
+| This game has Quickly Understood Controls | 984 |
+| This game is Highly Recommended | 960 |
+| This game has Amazing Characters | 945 |
+| This game is Relaxing | 944 |
+| This game is Great for Beginners | 942 |
+| This game has Amazing Storytelling | 934 |
+| This game has Diverse Characters | 931 |
+| This game has Playful Visuals | 766 |
+| This game has a Silly Community | 565 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

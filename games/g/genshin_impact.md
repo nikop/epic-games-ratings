@@ -1,5 +1,19 @@
 # Genshin Impact
 Rating: 4.68 (219,180)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 278,465 |
+| This game is Great for Beginners | 122,368 |
+| This game has Diverse Characters | 115,917 |
+| This game has Amazing Characters | 105,571 |
+| This game has Amazing Storytelling | 102,865 |
+| This game is Highly Recommended | 102,171 |
+| This game is Extremely Fun | 101,065 |
+| This game is Relaxing | 98,490 |
+| This game has Quickly Understood Controls | 98,075 |
+| This game has Beautiful Visuals | 97,656 |
+| This game has Obsessive Gameplay | 53,865 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

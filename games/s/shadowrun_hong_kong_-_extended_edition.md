@@ -1,5 +1,9 @@
 # Shadowrun Hong Kong - Extended Edition
 Rating: 4.53 (241)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 92 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

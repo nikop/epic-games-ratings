@@ -1,5 +1,19 @@
 # Tropico 5
 Rating: 4.45 (2,008)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Extremely Fun | 113 |
+| This game is Great for Beginners | 109 |
+| This game has Amazing Storytelling | 104 |
+| This game is Educational | 104 |
+| This game is Relaxing | 99 |
+| This game has Quickly Understood Controls | 98 |
+| This game is Highly Recommended | 96 |
+| This game has Diverse Characters | 83 |
+| This game has Amazing Characters | 83 |
+| This game has a Creative Community | 67 |
+| This game has Playful Visuals | 26 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

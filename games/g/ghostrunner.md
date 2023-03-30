@@ -1,5 +1,15 @@
 # Ghostrunner
 Rating: 4.72 (1,047)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 445 |
+| This game has Diverse Characters | 24 |
+| This game has Amazing Characters | 23 |
+| This game has a Creative Community | 22 |
+| This game is Relaxing | 21 |
+| This game is Extremely Fun | 20 |
+| This game has Challenging Combat | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

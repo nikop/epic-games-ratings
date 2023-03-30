@@ -1,5 +1,14 @@
 # Might & Magic Heroes 3
 Rating: 4.81 (165)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 107 |
+| This game is Great for Beginners | 31 |
+| This game is Extremely Fun | 30 |
+| This game has Diverse Characters | 24 |
+| This game is Relaxing | 22 |
+| This game is Highly Recommended | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

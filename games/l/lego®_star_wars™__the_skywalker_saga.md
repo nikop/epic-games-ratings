@@ -1,5 +1,20 @@
 # LEGO® Star Wars™: The Skywalker Saga
 Rating: 4.79 (2,536)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 2,211 |
+| This game has Diverse Characters | 467 |
+| This game has Amazing Characters | 461 |
+| This game is Great for Beginners | 459 |
+| This game has Amazing Storytelling | 449 |
+| This game is Highly Recommended | 445 |
+| This game has Easy Combat | 439 |
+| This game is Extremely Fun | 431 |
+| This game has Quickly Understood Controls | 429 |
+| This game is Relaxing | 426 |
+| This game has Obsessive Gameplay | 341 |
+| This game has a Creative Community | 307 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,8 @@
 # My Lovely Wife
 Rating: 4.36 (25)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

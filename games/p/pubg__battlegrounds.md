@@ -1,5 +1,17 @@
 # PUBG: BATTLEGROUNDS
 Rating: 3.98 (-)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Competitive Players | 1,262 |
+| This game has Quickly Understood Controls | 1,115 |
+| This game has Challenging Combat | 1,105 |
+| This game is Highly Recommended | 1,008 |
+| This game has a Competitive Community | 744 |
+| This game is Extremely Fun | 122 |
+| This game has Diverse Characters | 76 |
+| This game is Relaxing | 57 |
+| This game has Amazing Characters | 53 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

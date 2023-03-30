@@ -1,5 +1,17 @@
 # Nioh: The Complete Edition
 Rating: 4.57 (10,807)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 7,005 |
+| This game has Great Boss Battles | 4,860 |
+| This game is Highly Recommended | 746 |
+| This game has Challenging Combat | 744 |
+| This game is Extremely Fun | 744 |
+| This game has Amazing Storytelling | 728 |
+| This game has Diverse Characters | 725 |
+| This game has Amazing Characters | 692 |
+| This game has Obsessive Gameplay | 489 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,15 @@
 # NARAKA: BLADEPOINT
 Rating: 4.20 (132,339)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 178,254 |
+| This game has Competitive Players | 71,347 |
+| This game has Diverse Characters | 66,324 |
+| This game is Highly Recommended | 59,780 |
+| This game has Amazing Characters | 51,458 |
+| This game has Amazing Storytelling | 46,871 |
+| This game is Extremely Fun | 31,643 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

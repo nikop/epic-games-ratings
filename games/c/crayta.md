@@ -1,5 +1,21 @@
 # Crayta
 Rating: 4.19 (94)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Diverse Characters | 50 |
+| This game is Great for Beginners | 42 |
+| This game is Great for Quick Sessions | 41 |
+| This game has a Creative Community | 41 |
+| This game is Educational | 36 |
+| This game is Highly Recommended | 36 |
+| This game is Extremely Fun | 35 |
+| This game has Quickly Understood Controls | 35 |
+| This game has Playful Visuals | 34 |
+| This game is Relaxing | 30 |
+| This game has Amazing Characters | 30 |
+| This game has Obsessive Gameplay | 28 |
+| This game has Amazing Storytelling | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

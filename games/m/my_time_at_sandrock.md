@@ -1,5 +1,20 @@
 # My Time at Sandrock
 Rating: 4.68 (892)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 545 |
+| This game is Great for Beginners | 74 |
+| This game is Highly Recommended | 71 |
+| This game is Extremely Fun | 70 |
+| This game has Quickly Understood Controls | 66 |
+| This game has Amazing Characters | 61 |
+| This game has Amazing Storytelling | 61 |
+| This game has Diverse Characters | 61 |
+| This game is Relaxing | 59 |
+| This game has Easy Combat | 55 |
+| This game has Obsessive Gameplay | 40 |
+| This game has a Kind Community | 40 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

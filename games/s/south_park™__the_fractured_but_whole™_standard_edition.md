@@ -1,5 +1,9 @@
 # South Park™: The Fractured But Whole™ Standard Edition
 Rating: 4.84 (162)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 82 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

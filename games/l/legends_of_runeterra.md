@@ -1,5 +1,19 @@
 # Legends of Runeterra
 Rating: 4.65 (431)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Quick Sessions | 145 |
+| This game has Diverse Characters | 136 |
+| This game is Great for Beginners | 128 |
+| This game has Quickly Understood Controls | 116 |
+| This game is Relaxing | 114 |
+| This game is Highly Recommended | 107 |
+| This game is Extremely Fun | 107 |
+| This game has Amazing Characters | 102 |
+| This game has Amazing Storytelling | 98 |
+| This game has Competitive Players | 98 |
+| This game has Challenging Combat | 85 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

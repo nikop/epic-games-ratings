@@ -758,7 +758,7 @@
 | 756 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 22 |
 | 756 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 0 |
 | 756 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 867 |
-| 759 | [EVE Online](games/e/eve_online.md) | 4.26 | 2,132 |
+| 759 | [EVE Online](games/e/eve_online.md) | 4.26 | 2,133 |
 | 759 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 0 |
 | 759 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.26 | 0 |
 | 759 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 |
@@ -832,17 +832,17 @@
 | 830 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 |
 | 830 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 0 |
 | 832 | [Forspoken](games/f/forspoken.md) | 4.12 | 0 |
-| 833 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 0 |
-| 833 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 157 |
-| 833 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.11 | 0 |
-| 833 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 0 |
-| 837 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 0 |
-| 837 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.10 | 0 |
-| 837 | [Obduction](games/o/obduction.md) | 4.10 | 52 |
-| 837 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 0 |
-| 837 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 12,066 |
-| 837 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 0 |
-| 837 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 0 |
+| 832 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.12 | 0 |
+| 834 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 0 |
+| 834 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 157 |
+| 834 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.11 | 0 |
+| 834 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 0 |
+| 838 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 0 |
+| 838 | [Obduction](games/o/obduction.md) | 4.10 | 52 |
+| 838 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 0 |
+| 838 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 12,066 |
+| 838 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 0 |
+| 838 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 0 |
 | 844 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 577 |
 | 844 | [Fangs](games/f/fangs.md) | 4.09 | 0 |
 | 844 | [Submerged](games/s/submerged.md) | 4.09 | 0 |

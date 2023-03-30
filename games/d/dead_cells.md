@@ -1,5 +1,20 @@
 # Dead Cells
 Rating: 4.88 (1,319)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Diverse Characters | 237 |
+| This game has Quickly Understood Controls | 233 |
+| This game is Relaxing | 220 |
+| This game is Extremely Fun | 219 |
+| This game has Challenging Combat | 214 |
+| This game is Highly Recommended | 211 |
+| This game has Unique Visuals | 211 |
+| This game has Amazing Characters | 205 |
+| This game has Amazing Storytelling | 196 |
+| This game has a Creative Community | 163 |
+| This game has Obsessive Gameplay | 128 |
+| This game is Great for Beginners | 96 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,16 @@
 # Offworld Trading Company
 Rating: 4.29 (432)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Relaxing | 42 |
+| This game is Highly Recommended | 42 |
+| This game has Quickly Understood Controls | 39 |
+| This game is Extremely Fun | 36 |
+| This game has Diverse Characters | 34 |
+| This game has Challenging Combat | 34 |
+| This game is Educational | 33 |
+| This game has Amazing Storytelling | 30 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

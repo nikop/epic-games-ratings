@@ -1,5 +1,18 @@
 # Phoenix Point: Complete Edition
 Rating: 4.56 (2,121)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 1,756 |
+| This game is Extremely Fun | 672 |
+| This game is Highly Recommended | 671 |
+| This game has Challenging Combat | 650 |
+| This game has Diverse Characters | 641 |
+| This game has Amazing Storytelling | 628 |
+| This game has Quickly Understood Controls | 615 |
+| This game is Relaxing | 600 |
+| This game has Amazing Characters | 565 |
+| This game has a Creative Community | 263 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

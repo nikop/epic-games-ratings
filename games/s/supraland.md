@@ -1,5 +1,19 @@
 # Supraland
 Rating: 4.61 (25,175)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game features Challenging Puzzles | 7,591 |
+| This game is Educational | 277 |
+| This game is Relaxing | 272 |
+| This game has Amazing Characters | 268 |
+| This game has Amazing Storytelling | 263 |
+| This game has Quickly Understood Controls | 260 |
+| This game is Great for Beginners | 258 |
+| This game is Extremely Fun | 250 |
+| This game has Obsessive Gameplay | 243 |
+| This game is Highly Recommended | 229 |
+| This game has a Creative Community | 186 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

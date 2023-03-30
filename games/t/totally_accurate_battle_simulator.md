@@ -1,5 +1,22 @@
 # Totally Accurate Battle Simulator
 Rating: 4.77 (2,102)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 309 |
+| This game has Amazing Characters | 303 |
+| This game has Diverse Characters | 303 |
+| This game is Extremely Fun | 284 |
+| This game has Amazing Storytelling | 265 |
+| This game is Relaxing | 258 |
+| This game has Quickly Understood Controls | 257 |
+| This game has a Creative Community | 256 |
+| This game is Highly Recommended | 255 |
+| This game is Great for Quick Sessions | 238 |
+| This game has Unique Visuals | 232 |
+| This game has Obsessive Gameplay | 147 |
+| This game has Easy Combat | 79 |
+| This game has Playful Visuals | 25 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

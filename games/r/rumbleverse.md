@@ -1,5 +1,21 @@
 # Rumbleverse
 Rating: 4.42 (61,855)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Competitive Players | 6,689 |
+| This game has Diverse Characters | 6,563 |
+| This game has Quickly Understood Controls | 6,422 |
+| This game is Extremely Fun | 6,347 |
+| This game is Great for Quick Sessions | 6,291 |
+| This game is Highly Recommended | 6,247 |
+| This game has Amazing Characters | 5,740 |
+| This game has Playful Visuals | 5,497 |
+| This game has Amazing Storytelling | 5,319 |
+| This game has a Competitive Community | 5,129 |
+| This game has Obsessive Gameplay | 2,701 |
+| This game is Great for Beginners | 141 |
+| This game is Relaxing | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,8 @@
 # The Life and Suffering of Sir Brante
 Rating: 4.74 (31)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

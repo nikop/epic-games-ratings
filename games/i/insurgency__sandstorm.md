@@ -1,5 +1,19 @@
 # Insurgency: Sandstorm
 Rating: 4.62 (1,316)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Quickly Understood Controls | 336 |
+| This game has Challenging Combat | 302 |
+| This game is Extremely Fun | 300 |
+| This game has Competitive Players | 294 |
+| This game has Amazing Storytelling | 272 |
+| This game is Highly Recommended | 266 |
+| This game has Realistic Visuals | 266 |
+| This game has Amazing Characters | 260 |
+| This game has a Competitive Community | 219 |
+| This game has Obsessive Gameplay | 156 |
+| This game has Diverse Characters | 103 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

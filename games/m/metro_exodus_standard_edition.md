@@ -1,5 +1,20 @@
 # Metro Exodus Standard Edition
 Rating: 4.79 (7,529)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 5,763 |
+| This game is Great for Beginners | 620 |
+| This game is Highly Recommended | 596 |
+| This game has Amazing Storytelling | 587 |
+| This game has Diverse Characters | 582 |
+| This game is Extremely Fun | 559 |
+| This game has Amazing Characters | 555 |
+| This game has Quickly Understood Controls | 552 |
+| This game is Relaxing | 529 |
+| This game has Obsessive Gameplay | 379 |
+| This game has a Creative Community | 276 |
+| This game has Realistic Visuals | 109 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

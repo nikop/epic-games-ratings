@@ -1,5 +1,18 @@
 # Railway Empire
 Rating: 4.52 (2,155)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Relaxing | 269 |
+| This game is Extremely Fun | 263 |
+| This game is Highly Recommended | 261 |
+| This game is Great for Beginners | 254 |
+| This game has Quickly Understood Controls | 251 |
+| This game has Amazing Storytelling | 224 |
+| This game is Educational | 215 |
+| This game has Obsessive Gameplay | 164 |
+| This game has a Creative Community | 107 |
+| This game has Amazing Characters | 103 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

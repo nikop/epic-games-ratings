@@ -1,5 +1,21 @@
 # MultiVersus
 Rating: 4.56 (55,748)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 4,724 |
+| This game has Competitive Players | 4,546 |
+| This game has Diverse Characters | 4,508 |
+| This game is Great for Quick Sessions | 4,495 |
+| This game has Quickly Understood Controls | 4,410 |
+| This game is Extremely Fun | 4,217 |
+| This game has Amazing Characters | 4,138 |
+| This game is Highly Recommended | 3,929 |
+| This game has Playful Visuals | 3,600 |
+| This game has Amazing Storytelling | 3,599 |
+| This game has a Competitive Community | 3,395 |
+| This game has Obsessive Gameplay | 3,030 |
+| This game is Relaxing | 86 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

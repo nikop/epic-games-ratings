@@ -1,5 +1,20 @@
 # Trackmania
 Rating: 4.67 (6,825)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 2,238 |
+| This game is Great for Quick Sessions | 2,225 |
+| This game has Competitive Players | 1,943 |
+| This game is Extremely Fun | 1,895 |
+| This game has Quickly Understood Controls | 1,893 |
+| This game is Relaxing | 1,832 |
+| This game is Highly Recommended | 1,780 |
+| This game has a Competitive Community | 1,576 |
+| This game has Challenging Combat | 1,207 |
+| This game has Amazing Storytelling | 1,198 |
+| This game has Obsessive Gameplay | 1,144 |
+| This game has Amazing Characters | 980 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

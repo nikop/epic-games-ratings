@@ -1,5 +1,22 @@
 # Kena: Bridge of Spirits
 Rating: 4.70 (3,313)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 1,284 |
+| This game is Relaxing | 53 |
+| This game is Highly Recommended | 44 |
+| This game has Amazing Storytelling | 41 |
+| This game is Extremely Fun | 39 |
+| This game has Amazing Characters | 37 |
+| This game has Quickly Understood Controls | 35 |
+| This game has Diverse Characters | 34 |
+| This game has Beautiful Visuals | 33 |
+| This game has Challenging Combat | 33 |
+| This game is Great for Beginners | 29 |
+| This game is Educational | 29 |
+| This game has a Kind Community | 24 |
+| This game has a Creative Community | 23 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

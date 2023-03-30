@@ -1,5 +1,18 @@
 # Hundred Days - Winemaking Simulator
 Rating: 4.35 (7,669)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Extremely Fun | 200 |
+| This game is Relaxing | 200 |
+| This game has Quickly Understood Controls | 196 |
+| This game is Great for Beginners | 193 |
+| This game is Highly Recommended | 190 |
+| This game is Educational | 176 |
+| This game has Amazing Storytelling | 172 |
+| This game has Easy Combat | 126 |
+| This game has Amazing Characters | 122 |
+| This game has a Creative Community | 106 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

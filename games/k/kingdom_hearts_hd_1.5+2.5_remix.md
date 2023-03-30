@@ -1,5 +1,20 @@
 # KINGDOM HEARTS HD 1.5+2.5 ReMIX
 Rating: 4.82 (4,283)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 2,006 |
+| This game has Amazing Characters | 458 |
+| This game is Great for Beginners | 458 |
+| This game is Relaxing | 434 |
+| This game has Amazing Storytelling | 433 |
+| This game is Extremely Fun | 426 |
+| This game has Quickly Understood Controls | 416 |
+| This game is Highly Recommended | 416 |
+| This game has Diverse Characters | 405 |
+| This game has Challenging Combat | 404 |
+| This game has Obsessive Gameplay | 269 |
+| This game has a Creative Community | 79 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

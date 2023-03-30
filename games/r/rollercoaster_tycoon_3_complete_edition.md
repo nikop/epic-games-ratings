@@ -1,5 +1,20 @@
 # RollerCoaster Tycoon 3 Complete Edition
 Rating: 4.66 (687)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Relaxing | 50 |
+| This game has Amazing Storytelling | 48 |
+| This game is Great for Beginners | 43 |
+| This game has Playful Visuals | 43 |
+| This game is Extremely Fun | 43 |
+| This game has Obsessive Gameplay | 42 |
+| This game is Highly Recommended | 41 |
+| This game has Quickly Understood Controls | 39 |
+| This game has Amazing Characters | 37 |
+| This game has Easy Combat | 34 |
+| This game has a Creative Community | 31 |
+| This game has Diverse Characters | 28 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

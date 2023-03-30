@@ -1,5 +1,20 @@
 # Shadow of the Tomb Raider: Definitive Edition
 Rating: 4.65 (77,497)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 28,276 |
+| This game is Great for Beginners | 1,009 |
+| This game has Quickly Understood Controls | 969 |
+| This game is Extremely Fun | 949 |
+| This game is Highly Recommended | 937 |
+| This game has Diverse Characters | 918 |
+| This game is Educational | 906 |
+| This game has Amazing Storytelling | 893 |
+| This game has Amazing Characters | 879 |
+| This game is Relaxing | 842 |
+| This game has a Creative Community | 495 |
+| This game has Obsessive Gameplay | 284 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

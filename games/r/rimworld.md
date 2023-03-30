@@ -1,5 +1,19 @@
 # RimWorld
 Rating: 4.89 (870)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Diverse Characters | 391 |
+| This game is Extremely Fun | 385 |
+| This game is Highly Recommended | 380 |
+| This game has Quickly Understood Controls | 371 |
+| This game is Relaxing | 364 |
+| This game has Challenging Combat | 344 |
+| This game has Amazing Storytelling | 341 |
+| This game has Unique Visuals | 332 |
+| This game has a Creative Community | 329 |
+| This game has Amazing Characters | 326 |
+| This game has Obsessive Gameplay | 219 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

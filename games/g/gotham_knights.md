@@ -1,5 +1,18 @@
 # Gotham Knights
 Rating: 4.17 (-)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 2,059 |
+| This game is Extremely Fun | 173 |
+| This game is Relaxing | 172 |
+| This game has Quickly Understood Controls | 171 |
+| This game has Diverse Characters | 170 |
+| This game has Amazing Characters | 169 |
+| This game is Highly Recommended | 168 |
+| This game has Amazing Storytelling | 161 |
+| This game is Great for Beginners | 158 |
+| This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

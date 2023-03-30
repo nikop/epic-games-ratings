@@ -1,5 +1,19 @@
 # Subnautica
 Rating: 4.84 (7,928)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Amazing Storytelling | 635 |
+| This game is Great for Beginners | 621 |
+| This game has Quickly Understood Controls | 612 |
+| This game is Highly Recommended | 611 |
+| This game is Relaxing | 607 |
+| This game is Extremely Fun | 586 |
+| This game is Educational | 516 |
+| This game has Amazing Characters | 503 |
+| This game has a Creative Community | 408 |
+| This game has Obsessive Gameplay | 399 |
+| This game has Beautiful Visuals | 149 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

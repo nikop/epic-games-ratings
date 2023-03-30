@@ -1,5 +1,20 @@
 # Zombie Army 4: Dead War
 Rating: 4.69 (743)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 749 |
+| This game is Great for Beginners | 225 |
+| This game is Extremely Fun | 201 |
+| This game has Amazing Storytelling | 200 |
+| This game is Highly Recommended | 197 |
+| This game has Quickly Understood Controls | 190 |
+| This game has Diverse Characters | 189 |
+| This game is Relaxing | 179 |
+| This game has Amazing Characters | 172 |
+| This game has Obsessive Gameplay | 165 |
+| This game has Challenging Combat | 84 |
+| This game has a Creative Community | 40 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

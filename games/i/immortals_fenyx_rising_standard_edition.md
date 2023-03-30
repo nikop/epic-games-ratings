@@ -1,5 +1,17 @@
 # Immortals Fenyx Rising Standard Edition
 Rating: 4.61 (791)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 543 |
+| This game is Highly Recommended | 44 |
+| This game is Great for Beginners | 42 |
+| This game has Amazing Storytelling | 38 |
+| This game has Amazing Characters | 36 |
+| This game is Relaxing | 33 |
+| This game is Extremely Fun | 28 |
+| This game has Quickly Understood Controls | 28 |
+| This game has Obsessive Gameplay | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

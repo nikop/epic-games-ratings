@@ -1,5 +1,9 @@
 # Ruined King: A League of Legends Story™
 Rating: 4.63 (597)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 178 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,21 @@
 # Tony Hawk's™ Pro Skater™ 1 + 2
 Rating: 4.83 (1,298)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Quick Sessions | 80 |
+| This game is Extremely Fun | 76 |
+| This game is Great for Beginners | 72 |
+| This game is Highly Recommended | 68 |
+| This game has Diverse Characters | 64 |
+| This game has Quickly Understood Controls | 60 |
+| This game is Relaxing | 59 |
+| This game has Competitive Players | 55 |
+| This game has Amazing Characters | 52 |
+| This game has Obsessive Gameplay | 47 |
+| This game has Amazing Storytelling | 41 |
+| This game has a Competitive Community | 40 |
+| This game has Playful Visuals | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

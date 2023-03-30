@@ -1,5 +1,17 @@
 # Faeria
 Rating: 4.45 (194)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 102 |
+| This game is Great for Quick Sessions | 38 |
+| This game has Quickly Understood Controls | 34 |
+| This game is Great for Beginners | 32 |
+| This game is Highly Recommended | 31 |
+| This game is Relaxing | 31 |
+| This game has Amazing Characters | 29 |
+| This game is Extremely Fun | 28 |
+| This game has Challenging Combat | 25 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,18 @@
 # Surviving Mars
 Rating: 4.60 (3,483)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 425 |
+| This game has Quickly Understood Controls | 386 |
+| This game is Relaxing | 372 |
+| This game is Extremely Fun | 354 |
+| This game is Highly Recommended | 349 |
+| This game is Educational | 321 |
+| This game has Amazing Storytelling | 319 |
+| This game has Amazing Characters | 230 |
+| This game has Obsessive Gameplay | 229 |
+| This game has a Creative Community | 204 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

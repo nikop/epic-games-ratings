@@ -1,5 +1,19 @@
 # Arcadegeddon
 Rating: 4.49 (801)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Relaxing | 61 |
+| This game is Great for Beginners | 60 |
+| This game has Amazing Characters | 58 |
+| This game is Extremely Fun | 58 |
+| This game has Quickly Understood Controls | 58 |
+| This game has Diverse Characters | 56 |
+| This game has Obsessive Gameplay | 51 |
+| This game has Playful Visuals | 50 |
+| This game has Amazing Storytelling | 46 |
+| This game is Highly Recommended | 44 |
+| This game has a Creative Community | 38 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

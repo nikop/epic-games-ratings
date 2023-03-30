@@ -1,5 +1,20 @@
 # Phantasy Star Online 2 New Genesis
 Rating: 4.54 (692)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 777 |
+| This game has Great Boss Battles | 601 |
+| This game is Great for Beginners | 239 |
+| This game is Extremely Fun | 234 |
+| This game has Amazing Characters | 233 |
+| This game is Highly Recommended | 227 |
+| This game has Diverse Characters | 221 |
+| This game is Relaxing | 220 |
+| This game has Quickly Understood Controls | 218 |
+| This game has Beautiful Visuals | 206 |
+| This game has a Creative Community | 191 |
+| This game has Obsessive Gameplay | 150 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

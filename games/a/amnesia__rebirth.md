@@ -1,5 +1,13 @@
 # Amnesia: Rebirth
 Rating: 4.24 (1,664)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Highly Recommended | 31 |
+| This game has Quickly Understood Controls | 29 |
+| This game has Unique Visuals | 26 |
+| This game is Extremely Fun | 26 |
+| This game has Amazing Storytelling | 23 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

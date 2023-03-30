@@ -1,5 +1,18 @@
 # Against the Storm
 Rating: 4.81 (1,845)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Quickly Understood Controls | 414 |
+| This game is Relaxing | 404 |
+| This game is Extremely Fun | 382 |
+| This game is Highly Recommended | 364 |
+| This game is Great for Beginners | 359 |
+| This game has Amazing Storytelling | 294 |
+| This game has Unique Visuals | 288 |
+| This game has Amazing Characters | 265 |
+| This game has Obsessive Gameplay | 254 |
+| This game has a Creative Community | 184 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

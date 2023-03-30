@@ -1,5 +1,18 @@
 # Darkwood
 Rating: 4.61 (-)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Extremely Fun | 318 |
+| This game has Challenging Combat | 289 |
+| This game has Amazing Storytelling | 278 |
+| This game has Quickly Understood Controls | 269 |
+| This game is Highly Recommended | 266 |
+| This game has Unique Visuals | 261 |
+| This game has Diverse Characters | 256 |
+| This game has Amazing Characters | 250 |
+| This game has a Creative Community | 158 |
+| This game has Obsessive Gameplay | 65 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,19 @@
 # Neverwinter
 Rating: 4.29 (1,084)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 660 |
+| This game is Great for Beginners | 190 |
+| This game has Diverse Characters | 176 |
+| This game is Relaxing | 176 |
+| This game is Extremely Fun | 165 |
+| This game is Highly Recommended | 162 |
+| This game has Quickly Understood Controls | 159 |
+| This game has Amazing Storytelling | 156 |
+| This game has Amazing Characters | 149 |
+| This game has Obsessive Gameplay | 57 |
+| This game has Playful Visuals | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

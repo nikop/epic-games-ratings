@@ -1,5 +1,20 @@
 # Football Manager 2023
 Rating: 4.75 (-)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Diverse Characters | 319 |
+| This game is Extremely Fun | 306 |
+| This game is Highly Recommended | 304 |
+| This game is Educational | 299 |
+| This game is Relaxing | 293 |
+| This game has Amazing Storytelling | 256 |
+| This game has Quickly Understood Controls | 256 |
+| This game has Competitive Players | 252 |
+| This game has Amazing Characters | 237 |
+| This game has Challenging Combat | 202 |
+| This game has a Competitive Community | 121 |
+| This game has Unique Visuals | 54 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

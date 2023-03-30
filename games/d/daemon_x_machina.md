@@ -1,5 +1,18 @@
 # DAEMON X MACHINA
 Rating: 4.40 (2,096)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 967 |
+| This game is Great for Beginners | 67 |
+| This game is Great for Quick Sessions | 58 |
+| This game has Quickly Understood Controls | 56 |
+| This game has Diverse Characters | 56 |
+| This game is Extremely Fun | 52 |
+| This game has Amazing Characters | 51 |
+| This game is Highly Recommended | 51 |
+| This game has Unique Visuals | 48 |
+| This game has Obsessive Gameplay | 42 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

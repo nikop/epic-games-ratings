@@ -1,5 +1,20 @@
 # Cyberpunk 2077
 Rating: 4.61 (32,700)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 60,131 |
+| This game has Great Boss Battles | 38,430 |
+| This game has Amazing Storytelling | 6,829 |
+| This game is Great for Beginners | 6,719 |
+| This game is Extremely Fun | 6,716 |
+| This game has Diverse Characters | 6,703 |
+| This game is Relaxing | 6,684 |
+| This game is Highly Recommended | 6,643 |
+| This game has Quickly Understood Controls | 6,587 |
+| This game has Amazing Characters | 6,488 |
+| This game has a Creative Community | 4,349 |
+| This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

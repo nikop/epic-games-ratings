@@ -1,5 +1,9 @@
 # Scott Pilgrim vs. The World: The Game – Complete Edition
 Rating: 4.76 (99)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 33 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

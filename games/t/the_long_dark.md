@@ -1,5 +1,16 @@
 # The Long Dark
 Rating: 4.74 (4,814)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Highly Recommended | 723 |
+| This game is Extremely Fun | 670 |
+| This game is Relaxing | 663 |
+| This game has Quickly Understood Controls | 661 |
+| This game has Amazing Characters | 615 |
+| This game has Amazing Storytelling | 593 |
+| This game has a Creative Community | 452 |
+| This game has Obsessive Gameplay | 359 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

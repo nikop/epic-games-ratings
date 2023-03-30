@@ -1,5 +1,8 @@
 # 3 out of 10: Season Two
 Rating: 4.31 (52)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

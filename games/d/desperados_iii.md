@@ -1,5 +1,19 @@
 # Desperados III
 Rating: 4.84 (351)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Amazing Storytelling | 44 |
+| This game is Relaxing | 43 |
+| This game has Diverse Characters | 39 |
+| This game is Extremely Fun | 36 |
+| This game has Amazing Characters | 30 |
+| This game has Quickly Understood Controls | 29 |
+| This game is Highly Recommended | 27 |
+| This game is Great for Beginners | 26 |
+| This game has Challenging Combat | 25 |
+| This game has Obsessive Gameplay | 20 |
+| This game has Unique Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

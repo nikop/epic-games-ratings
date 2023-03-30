@@ -1,5 +1,10 @@
 # Crashlands
 Rating: 4.65 (517)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 186 |
+| This game has Great Boss Battles | 83 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

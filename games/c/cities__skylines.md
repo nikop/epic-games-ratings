@@ -1,5 +1,18 @@
 # Cities: Skylines
 Rating: 4.65 (25,248)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 4,167 |
+| This game is Relaxing | 4,154 |
+| This game has Quickly Understood Controls | 3,918 |
+| This game is Educational | 3,902 |
+| This game is Extremely Fun | 3,706 |
+| This game is Highly Recommended | 3,568 |
+| This game has Amazing Storytelling | 3,033 |
+| This game has a Creative Community | 2,866 |
+| This game has Amazing Characters | 2,626 |
+| This game has Obsessive Gameplay | 2,497 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

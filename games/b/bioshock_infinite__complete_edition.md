@@ -1,5 +1,21 @@
 # BioShock Infinite: Complete Edition
 Rating: 4.70 (18,329)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 4,450 |
+| This game is Great for Beginners | 119 |
+| This game is Relaxing | 115 |
+| This game has Quickly Understood Controls | 114 |
+| This game has Amazing Storytelling | 111 |
+| This game is Extremely Fun | 104 |
+| This game has Amazing Characters | 104 |
+| This game has Unique Visuals | 103 |
+| This game has Diverse Characters | 92 |
+| This game is Highly Recommended | 87 |
+| This game has Obsessive Gameplay | 72 |
+| This game has a Creative Community | 65 |
+| This game is Educational | 36 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

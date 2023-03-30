@@ -1,5 +1,8 @@
 # Where The Water Tastes Like Wine
 Rating: 4.45 (34)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

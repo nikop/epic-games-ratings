@@ -1,5 +1,8 @@
 # Out of the Park Baseball 23
 Rating: 4.62 (46)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

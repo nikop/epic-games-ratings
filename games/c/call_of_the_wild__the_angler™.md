@@ -1,5 +1,14 @@
 # Call of the Wild: The Angler™
 Rating: 4.11 (281)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Relaxing | 32 |
+| This game has Amazing Storytelling | 30 |
+| This game is Highly Recommended | 27 |
+| This game is Extremely Fun | 24 |
+| This game is Great for Beginners | 24 |
+| This game has Quickly Understood Controls | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

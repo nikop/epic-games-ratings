@@ -1,5 +1,15 @@
 # Filament
 Rating: 4.32 (-)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game features Challenging Puzzles | 547 |
+| This game has Amazing Characters | 25 |
+| This game is Highly Recommended | 24 |
+| This game has Quickly Understood Controls | 23 |
+| This game has Amazing Storytelling | 21 |
+| This game is Great for Quick Sessions | 20 |
+| This game is Educational | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

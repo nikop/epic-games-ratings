@@ -1,5 +1,13 @@
 # Spellbreak
 Rating: 4.63 (1,020)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 304 |
+| This game is Relaxing | 28 |
+| This game is Great for Beginners | 25 |
+| This game has Diverse Characters | 22 |
+| This game has Amazing Characters | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

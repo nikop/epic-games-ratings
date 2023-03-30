@@ -1,5 +1,17 @@
 # In Sound Mind
 Rating: 4.60 (1,937)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Extremely Fun | 62 |
+| This game has Amazing Characters | 59 |
+| This game is Highly Recommended | 53 |
+| This game has Quickly Understood Controls | 50 |
+| This game has Amazing Storytelling | 44 |
+| This game has Unique Visuals | 43 |
+| This game has Obsessive Gameplay | 36 |
+| This game is Great for Beginners | 32 |
+| This game has a Creative Community | 25 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

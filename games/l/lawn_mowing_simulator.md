@@ -1,5 +1,18 @@
 # Lawn Mowing Simulator
 Rating: 4.08 (5,086)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Quickly Understood Controls | 178 |
+| This game is Extremely Fun | 166 |
+| This game is Relaxing | 160 |
+| This game is Great for Beginners | 158 |
+| This game is Highly Recommended | 153 |
+| This game has Amazing Storytelling | 137 |
+| This game has Obsessive Gameplay | 55 |
+| This game has Easy Combat | 41 |
+| This game has Realistic Visuals | 30 |
+| This game has a Creative Community | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,20 @@
 # A Plague Tale: Innocence
 Rating: 4.68 (10,904)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 3,312 |
+| This game is Educational | 57 |
+| This game is Great for Beginners | 57 |
+| This game is Extremely Fun | 52 |
+| This game has Quickly Understood Controls | 52 |
+| This game is Highly Recommended | 51 |
+| This game has Diverse Characters | 51 |
+| This game has Amazing Characters | 51 |
+| This game has Amazing Storytelling | 44 |
+| This game is Relaxing | 40 |
+| This game has a Creative Community | 32 |
+| This game has Easy Combat | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

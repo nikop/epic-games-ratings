@@ -1,5 +1,20 @@
 # Days Gone
 Rating: 4.69 (3,949)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 3,691 |
+| This game is Extremely Fun | 361 |
+| This game has Amazing Storytelling | 351 |
+| This game is Great for Beginners | 343 |
+| This game is Relaxing | 335 |
+| This game has Diverse Characters | 331 |
+| This game is Highly Recommended | 325 |
+| This game has Amazing Characters | 321 |
+| This game has Quickly Understood Controls | 320 |
+| This game has Obsessive Gameplay | 198 |
+| This game has a Creative Community | 169 |
+| This game has Realistic Visuals | 107 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

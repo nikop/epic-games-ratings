@@ -1,5 +1,9 @@
 # LEGO® Batman™ 3: Beyond Gotham
 Rating: 4.58 (513)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 212 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

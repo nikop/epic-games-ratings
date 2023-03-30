@@ -1,5 +1,18 @@
 # Scavengers
 Rating: 4.18 (403)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Highly Recommended | 96 |
+| This game has Challenging Combat | 94 |
+| This game has Quickly Understood Controls | 91 |
+| This game has Amazing Storytelling | 89 |
+| This game is Relaxing | 86 |
+| This game has Competitive Players | 84 |
+| This game has Diverse Characters | 81 |
+| This game has Amazing Characters | 78 |
+| This game is Extremely Fun | 71 |
+| This game has a Competitive Community | 54 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,18 @@
 # Roller Champions™
 Rating: 4.34 (5,693)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 232 |
+| This game is Great for Quick Sessions | 219 |
+| This game is Highly Recommended | 203 |
+| This game is Extremely Fun | 199 |
+| This game has Competitive Players | 193 |
+| This game has Quickly Understood Controls | 193 |
+| This game has Amazing Storytelling | 191 |
+| This game has Amazing Characters | 168 |
+| This game has a Competitive Community | 160 |
+| This game is Relaxing | 114 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

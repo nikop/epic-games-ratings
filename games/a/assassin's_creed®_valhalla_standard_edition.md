@@ -1,5 +1,20 @@
 # Assassin's Creed® Valhalla Standard Edition
 Rating: 4.60 (12,317)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 11,118 |
+| This game has Great Boss Battles | 6,930 |
+| This game has Quickly Understood Controls | 909 |
+| This game is Relaxing | 902 |
+| This game is Highly Recommended | 899 |
+| This game has Amazing Characters | 890 |
+| This game is Extremely Fun | 888 |
+| This game has Amazing Storytelling | 887 |
+| This game has Diverse Characters | 879 |
+| This game is Great for Beginners | 868 |
+| This game has a Creative Community | 489 |
+| This game has Obsessive Gameplay | 334 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

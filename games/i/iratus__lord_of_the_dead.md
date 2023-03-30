@@ -1,5 +1,19 @@
 # Iratus: Lord of the Dead
 Rating: 4.37 (10,109)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 2,121 |
+| This game is Highly Recommended | 225 |
+| This game is Relaxing | 224 |
+| This game has Amazing Storytelling | 222 |
+| This game has Challenging Combat | 211 |
+| This game has Diverse Characters | 210 |
+| This game has Amazing Characters | 207 |
+| This game is Extremely Fun | 207 |
+| This game has Quickly Understood Controls | 197 |
+| This game has Unique Visuals | 187 |
+| This game has a Creative Community | 99 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

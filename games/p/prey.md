@@ -1,5 +1,18 @@
 # Prey
 Rating: 4.62 (13,217)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 5,474 |
+| This game is Highly Recommended | 316 |
+| This game has Amazing Storytelling | 305 |
+| This game has Diverse Characters | 296 |
+| This game is Extremely Fun | 290 |
+| This game has Amazing Characters | 282 |
+| This game has Quickly Understood Controls | 281 |
+| This game has Obsessive Gameplay | 204 |
+| This game has Challenging Combat | 201 |
+| This game has a Creative Community | 161 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

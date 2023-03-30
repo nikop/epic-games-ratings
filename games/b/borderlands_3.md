@@ -1,5 +1,19 @@
 # Borderlands 3
 Rating: 4.69 (151,211)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 106,148 |
+| This game is Great for Beginners | 25,651 |
+| This game has Diverse Characters | 23,841 |
+| This game is Highly Recommended | 23,835 |
+| This game is Extremely Fun | 23,673 |
+| This game has Amazing Storytelling | 23,057 |
+| This game has Quickly Understood Controls | 22,977 |
+| This game is Relaxing | 22,712 |
+| This game has Amazing Characters | 22,269 |
+| This game has Unique Visuals | 21,907 |
+| This game has a Creative Community | 15,974 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

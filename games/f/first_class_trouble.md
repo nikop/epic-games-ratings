@@ -1,5 +1,18 @@
 # First Class Trouble
 Rating: 4.52 (-)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Quick Sessions | 67 |
+| This game is Great for Beginners | 64 |
+| This game is Highly Recommended | 62 |
+| This game has Playful Visuals | 59 |
+| This game has Diverse Characters | 56 |
+| This game has Amazing Storytelling | 54 |
+| This game is Extremely Fun | 50 |
+| This game has Quickly Understood Controls | 48 |
+| This game has Amazing Characters | 40 |
+| This game is Relaxing | 32 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

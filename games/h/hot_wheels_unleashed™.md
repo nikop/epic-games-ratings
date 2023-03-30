@@ -1,5 +1,20 @@
 # HOT WHEELS UNLEASHED™
 Rating: 4.60 (312)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Extremely Fun | 36 |
+| This game is Great for Beginners | 35 |
+| This game has Quickly Understood Controls | 35 |
+| This game is Great for Quick Sessions | 33 |
+| This game is Relaxing | 33 |
+| This game has Amazing Storytelling | 30 |
+| This game has Diverse Characters | 29 |
+| This game has Competitive Players | 29 |
+| This game has Amazing Characters | 28 |
+| This game has a Creative Community | 28 |
+| This game is Highly Recommended | 22 |
+| This game has Challenging Combat | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

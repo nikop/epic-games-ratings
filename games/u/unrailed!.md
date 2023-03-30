@@ -1,5 +1,19 @@
 # Unrailed!
 Rating: 4.64 (21,990)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Quickly Understood Controls | 182 |
+| This game has Diverse Characters | 181 |
+| This game is Great for Beginners | 178 |
+| This game is Extremely Fun | 178 |
+| This game is Relaxing | 176 |
+| This game has Amazing Characters | 155 |
+| This game is Highly Recommended | 149 |
+| This game has Playful Visuals | 144 |
+| This game has Amazing Storytelling | 139 |
+| This game has Obsessive Gameplay | 138 |
+| This game has Competitive Players | 37 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

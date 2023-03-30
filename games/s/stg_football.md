@@ -1,5 +1,17 @@
 # STG Football
 Rating: 4.43 (-)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 33 |
+| This game is Highly Recommended | 27 |
+| This game has Diverse Characters | 27 |
+| This game is Extremely Fun | 27 |
+| This game has Quickly Understood Controls | 26 |
+| This game has a Competitive Community | 22 |
+| This game has Amazing Characters | 22 |
+| This game has Competitive Players | 21 |
+| This game is Great for Quick Sessions | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

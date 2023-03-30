@@ -1,5 +1,21 @@
 # FINAL FANTASY VII REMAKE INTERGRADE
 Rating: 4.85 (15,120)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 5,430 |
+| This game has Great Boss Battles | 3,660 |
+| This game has Amazing Storytelling | 315 |
+| This game is Extremely Fun | 307 |
+| This game has Amazing Characters | 306 |
+| This game is Relaxing | 300 |
+| This game is Highly Recommended | 296 |
+| This game has Quickly Understood Controls | 295 |
+| This game is Great for Beginners | 292 |
+| This game has Obsessive Gameplay | 284 |
+| This game has Diverse Characters | 284 |
+| This game has Beautiful Visuals | 273 |
+| This game has a Creative Community | 152 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

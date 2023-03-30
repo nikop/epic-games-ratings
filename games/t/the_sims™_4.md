@@ -1,5 +1,19 @@
 # The Sims™ 4
 Rating: 4.58 (-)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 60 |
+| This game has Diverse Characters | 58 |
+| This game has a Creative Community | 40 |
+| This game is Highly Recommended | 37 |
+| This game has Amazing Characters | 36 |
+| This game has Quickly Understood Controls | 35 |
+| This game is Educational | 34 |
+| This game is Extremely Fun | 32 |
+| This game has Amazing Storytelling | 28 |
+| This game is Relaxing | 25 |
+| This game has Easy Combat | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

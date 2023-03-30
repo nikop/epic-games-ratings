@@ -1,5 +1,19 @@
 # Century: Age of Ashes
 Rating: 4.42 (1,747)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Competitive Players | 58 |
+| This game is Great for Quick Sessions | 57 |
+| This game has Amazing Characters | 57 |
+| This game has Amazing Storytelling | 55 |
+| This game has Diverse Characters | 53 |
+| This game is Relaxing | 51 |
+| This game is Extremely Fun | 51 |
+| This game has Challenging Combat | 49 |
+| This game has Quickly Understood Controls | 48 |
+| This game is Highly Recommended | 43 |
+| This game has a Competitive Community | 40 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

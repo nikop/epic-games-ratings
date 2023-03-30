@@ -1,5 +1,18 @@
 # PC Building Simulator
 Rating: 4.66 (12,155)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 1,019 |
+| This game is Relaxing | 952 |
+| This game is Educational | 951 |
+| This game is Extremely Fun | 948 |
+| This game has Quickly Understood Controls | 915 |
+| This game is Highly Recommended | 853 |
+| This game has Amazing Storytelling | 782 |
+| This game has Obsessive Gameplay | 664 |
+| This game has Amazing Characters | 629 |
+| This game has a Creative Community | 611 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

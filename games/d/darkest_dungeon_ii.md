@@ -1,5 +1,20 @@
 # Darkest Dungeon II
 Rating: 4.67 (7,767)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 6,386 |
+| This game has Challenging Combat | 1,196 |
+| This game is Highly Recommended | 1,184 |
+| This game has Diverse Characters | 1,168 |
+| This game is Extremely Fun | 1,152 |
+| This game has Amazing Characters | 1,136 |
+| This game has Amazing Storytelling | 1,094 |
+| This game has Quickly Understood Controls | 1,090 |
+| This game has Unique Visuals | 1,004 |
+| This game has a Creative Community | 748 |
+| This game has Obsessive Gameplay | 585 |
+| This game is Relaxing | 326 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

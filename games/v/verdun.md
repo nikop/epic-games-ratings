@@ -1,5 +1,22 @@
 # Verdun
 Rating: 4.53 (1,999)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Highly Recommended | 92 |
+| This game is Great for Beginners | 88 |
+| This game is Extremely Fun | 86 |
+| This game has Quickly Understood Controls | 80 |
+| This game has Diverse Characters | 78 |
+| This game is Educational | 76 |
+| This game is Relaxing | 73 |
+| This game has Competitive Players | 68 |
+| This game has Amazing Characters | 64 |
+| This game has Realistic Visuals | 63 |
+| This game has a Competitive Community | 60 |
+| This game has Challenging Combat | 55 |
+| This game has Amazing Storytelling | 55 |
+| This game has Obsessive Gameplay | 46 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

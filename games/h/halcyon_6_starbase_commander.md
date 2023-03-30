@@ -1,5 +1,8 @@
 # Halcyon 6 Starbase Commander
 Rating: 4.45 (146)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

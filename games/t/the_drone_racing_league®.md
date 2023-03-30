@@ -1,5 +1,18 @@
 # The Drone Racing League®
 Rating: 4.51 (36)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Extremely Fun | 61 |
+| This game is Relaxing | 54 |
+| This game is Educational | 50 |
+| This game has Quickly Understood Controls | 47 |
+| This game is Highly Recommended | 45 |
+| This game is Great for Beginners | 45 |
+| This game is Great for Quick Sessions | 40 |
+| This game has Competitive Players | 39 |
+| This game has Amazing Storytelling | 35 |
+| This game has a Competitive Community | 34 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

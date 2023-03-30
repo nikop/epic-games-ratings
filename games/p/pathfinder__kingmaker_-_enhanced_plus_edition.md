@@ -1,5 +1,21 @@
 # Pathfinder: Kingmaker - Enhanced Plus Edition
 Rating: 4.57 (3,868)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 2,965 |
+| This game has Great Boss Battles | 1,972 |
+| This game has Diverse Characters | 363 |
+| This game is Extremely Fun | 362 |
+| This game is Highly Recommended | 359 |
+| This game has Amazing Characters | 357 |
+| This game has Quickly Understood Controls | 356 |
+| This game has Challenging Combat | 345 |
+| This game has Amazing Storytelling | 338 |
+| This game is Relaxing | 325 |
+| This game has a Creative Community | 186 |
+| This game has Obsessive Gameplay | 77 |
+| This game is Hard for Beginners | 50 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

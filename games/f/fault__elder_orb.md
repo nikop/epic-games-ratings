@@ -1,5 +1,19 @@
 # Fault: Elder Orb
 Rating: 3.91 (723)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Extremely Fun | 103 |
+| This game has Amazing Characters | 102 |
+| This game has Diverse Characters | 101 |
+| This game has Competitive Players | 99 |
+| This game has Obsessive Gameplay | 95 |
+| This game has Quickly Understood Controls | 92 |
+| This game has Challenging Combat | 89 |
+| This game is Highly Recommended | 80 |
+| This game has a Competitive Community | 62 |
+| This game has Amazing Storytelling | 40 |
+| This game has Beautiful Visuals | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

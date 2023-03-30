@@ -1,5 +1,20 @@
 # Sifu
 Rating: 4.81 (9,492)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 5,752 |
+| This game is Extremely Fun | 462 |
+| This game has Quickly Understood Controls | 461 |
+| This game has Diverse Characters | 458 |
+| This game has Challenging Combat | 458 |
+| This game is Highly Recommended | 444 |
+| This game has Amazing Storytelling | 443 |
+| This game has Amazing Characters | 425 |
+| This game has Unique Visuals | 419 |
+| This game is Relaxing | 401 |
+| This game has a Creative Community | 310 |
+| This game has Obsessive Gameplay | 293 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,18 @@
 # XCOM® 2
 Rating: 4.54 (7,396)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Relaxing | 1,090 |
+| This game is Highly Recommended | 1,077 |
+| This game has Challenging Combat | 1,072 |
+| This game has Amazing Storytelling | 1,058 |
+| This game has Quickly Understood Controls | 1,046 |
+| This game has Diverse Characters | 1,044 |
+| This game is Extremely Fun | 1,041 |
+| This game has Amazing Characters | 993 |
+| This game has Obsessive Gameplay | 561 |
+| This game has a Creative Community | 438 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

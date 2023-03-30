@@ -1,5 +1,20 @@
 # Going Medieval
 Rating: 4.60 (706)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Relaxing | 116 |
+| This game is Great for Beginners | 102 |
+| This game has Quickly Understood Controls | 98 |
+| This game is Extremely Fun | 96 |
+| This game has Diverse Characters | 94 |
+| This game is Highly Recommended | 93 |
+| This game has Amazing Characters | 88 |
+| This game has Amazing Storytelling | 79 |
+| This game has Unique Visuals | 74 |
+| This game has a Creative Community | 57 |
+| This game has Obsessive Gameplay | 56 |
+| This game is Educational | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

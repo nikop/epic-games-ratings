@@ -1,5 +1,18 @@
 # Surviving the Aftermath: Founder's Edition
 Rating: 4.47 (836)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Extremely Fun | 95 |
+| This game has Amazing Storytelling | 83 |
+| This game is Great for Beginners | 80 |
+| This game is Relaxing | 78 |
+| This game has Quickly Understood Controls | 77 |
+| This game is Highly Recommended | 65 |
+| This game has Amazing Characters | 61 |
+| This game has Diverse Characters | 61 |
+| This game has Obsessive Gameplay | 58 |
+| This game has a Creative Community | 37 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,16 @@
 # Kerbal Space Program
 Rating: 4.79 (-)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Educational | 313 |
+| This game is Extremely Fun | 312 |
+| This game is Relaxing | 295 |
+| This game is Highly Recommended | 284 |
+| This game has a Creative Community | 259 |
+| This game has Amazing Characters | 252 |
+| This game has Amazing Storytelling | 250 |
+| This game has Challenging Combat | 193 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

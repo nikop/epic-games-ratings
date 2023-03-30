@@ -1,5 +1,13 @@
 # Swords of Legends Online
 Rating: 4.31 (262)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 164 |
+| This game has Great Boss Battles | 92 |
+| This game is Relaxing | 21 |
+| This game has Amazing Characters | 20 |
+| This game has Beautiful Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

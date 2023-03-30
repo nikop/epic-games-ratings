@@ -1,5 +1,16 @@
 # Hand of Fate 2
 Rating: 4.56 (780)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 118 |
+| This game has Amazing Storytelling | 35 |
+| This game is Highly Recommended | 29 |
+| This game has Amazing Characters | 26 |
+| This game is Great for Beginners | 26 |
+| This game has Quickly Understood Controls | 22 |
+| This game is Extremely Fun | 21 |
+| This game has Unique Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,17 @@
 # Aven Colony
 Rating: 4.20 (2,200)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Amazing Storytelling | 119 |
+| This game has Quickly Understood Controls | 114 |
+| This game is Relaxing | 114 |
+| This game is Great for Beginners | 111 |
+| This game is Highly Recommended | 96 |
+| This game is Extremely Fun | 95 |
+| This game has Easy Combat | 84 |
+| This game has Amazing Characters | 67 |
+| This game has a Creative Community | 51 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

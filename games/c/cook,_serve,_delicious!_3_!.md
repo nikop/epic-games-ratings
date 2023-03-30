@@ -1,5 +1,20 @@
 # Cook, Serve, Delicious! 3?!
 Rating: 4.49 (2,006)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Quick Sessions | 104 |
+| This game has Amazing Characters | 102 |
+| This game is Highly Recommended | 92 |
+| This game has Quickly Understood Controls | 88 |
+| This game is Extremely Fun | 88 |
+| This game has Playful Visuals | 83 |
+| This game has Amazing Storytelling | 72 |
+| This game has Challenging Combat | 71 |
+| This game has Obsessive Gameplay | 64 |
+| This game is Great for Beginners | 59 |
+| This game is Relaxing | 34 |
+| This game has a Creative Community | 26 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
