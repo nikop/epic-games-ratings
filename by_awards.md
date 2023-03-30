@@ -1,10 +1,10 @@
 |  #  | Name | Rating | Number of Awards | 
 | --- | ---- | ------ | ---------------- | 
 | 1 | [Fortnite](games/f/fortnite.md) | 4.30 | 1,179,756 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 366,147 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 366,755 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 278,465 |
 | 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 178,254 |
-| 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 150,317 |
+| 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 150,706 |
 | 6 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 136,985 |
 | 7 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 129,139 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 106,148 |
@@ -73,8 +73,8 @@
 | 71 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 3,910 |
 | 72 | [God of War](games/g/god_of_war.md) | 4.89 | 3,892 |
 | 73 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 3,865 |
-| 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,788 |
-| 75 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,691 |
+| 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,797 |
+| 75 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,693 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 3,561 |
 | 77 | [SMITE](games/s/smite.md) | 4.45 | 3,542 |
 | 78 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 3,529 |
@@ -103,7 +103,7 @@
 | 100 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,962 |
 | 102 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 1,936 |
 | 103 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 1,853 |
-| 104 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 1,791 |
+| 104 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,791 |
 | 105 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,771 |
 | 106 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,756 |
 | 107 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,717 |
@@ -158,7 +158,7 @@
 | 156 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 651 |
 | 157 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 640 |
 | 158 | [Subnautica](games/s/subnautica.md) | 4.84 | 635 |
-| 159 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 634 |
+| 159 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 634 |
 | 160 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 622 |
 | 161 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 604 |
 | 162 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 600 |
@@ -373,7 +373,7 @@
 | 371 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 55 |
 | 372 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 54 |
 | 373 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.66 | 54 |
-| 374 | [Brawlhalla](games/b/brawlhalla.md) | 4.56 | 53 |
+| 374 | [Brawlhalla](games/b/brawlhalla.md) | 4.55 | 53 |
 | 375 | [Obduction](games/o/obduction.md) | 4.10 | 52 |
 | 376 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 50 |
 | 377 | [Crayta](games/c/crayta.md) | 4.19 | 50 |

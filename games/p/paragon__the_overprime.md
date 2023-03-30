@@ -6,12 +6,12 @@ Rating: 4.24 (-)  (as of 23.09.2022)
 | This game has Competitive Players | 282 |
 | This game has Diverse Characters | 278 |
 | This game is Highly Recommended | 263 |
+| This game has Challenging Combat | 249 |
 | This game has Amazing Characters | 247 |
-| This game has Challenging Combat | 246 |
 | This game is Extremely Fun | 241 |
 | This game has Quickly Understood Controls | 237 |
 | This game has Amazing Storytelling | 181 |
-| This game has a Competitive Community | 154 |
+| This game has a Competitive Community | 157 |
 | This game has Great Boss Battles | 109 |
 | This game has Unique Visuals | 40 |
 | This game is Great for Beginners | 33 |

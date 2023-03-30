@@ -10,7 +10,7 @@ Rating: 4.69 (151,211)  (as of 23.09.2022)
 | This game is Extremely Fun | 23,687 |
 | This game has Amazing Storytelling | 23,057 |
 | This game has Quickly Understood Controls | 22,977 |
-| This game is Relaxing | 22,712 |
+| This game is Relaxing | 22,724 |
 | This game has Amazing Characters | 22,283 |
 | This game has Unique Visuals | 21,907 |
 | This game has a Creative Community | 15,988 |

@@ -8,7 +8,7 @@ Rating: 4.05 (9,041)  (as of 23.09.2022)
 | This game has Quickly Understood Controls | 4,540 |
 | This game is Relaxing | 4,440 |
 | This game has Amazing Characters | 3,894 |
-| This game is Highly Recommended | 3,885 |
+| This game is Highly Recommended | 3,887 |
 | This game has Playful Visuals | 3,187 |
 ## Ratings History
 | Date | Rating | Number of Ratings |

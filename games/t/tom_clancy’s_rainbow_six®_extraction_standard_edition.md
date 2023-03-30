@@ -9,7 +9,7 @@ Rating: 4.52 (635)  (as of 23.09.2022)
 | This game is Highly Recommended | 125 |
 | This game has Amazing Characters | 119 |
 | This game has Challenging Combat | 111 |
-| This game is Extremely Fun | 109 |
+| This game is Extremely Fun | 110 |
 | This game has Amazing Storytelling | 100 |
 | This game has a Competitive Community | 28 |
 | This game has Realistic Visuals | 20 |

@@ -3,7 +3,7 @@
   "Name": "Trackmania",
   "Rating": 4.67,
   "NumberOfRatings": 6825,
-  "NumberOfAwards": 18790,
+  "NumberOfAwards": 18819,
   "NumberOfAwardsMax": 2238,
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
   "LastChanged": "2023-03-25T15:57:38.9803402+00:00",
@@ -2840,7 +2840,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 1895
+      "Count": 1915
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2868,11 +2868,11 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 1198
+      "Count": 1204
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 980
+      "Count": 983
     }
   ]
 }

@@ -1,8 +1,16 @@
 {
   "ID": "3348e3d8eae449ecbcf9fe354d4fe8a0",
   "Name": "Hotel Renovator",
+  "Rating": 4.35,
   "NumberOfAwards": 0,
   "FirstSeen": "2023-03-07T20:57:17.7123218+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
+  "LastChanged": "2023-03-30T21:57:33.3986382+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-30T21:57:33.3986384+00:00",
+      "Rating": 4.35
+    }
+  ],
   "Tags": []
 }

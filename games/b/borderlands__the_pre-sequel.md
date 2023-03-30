@@ -5,8 +5,8 @@ Rating: 4.50 (2,939)  (as of 23.09.2022)
 | ----- | ----------------- |
 | This game has Diverse Characters | 391 |
 | This game is Great for Beginners | 345 |
-| This game is Highly Recommended | 340 |
-| This game has Amazing Storytelling | 335 |
+| This game is Highly Recommended | 341 |
+| This game has Amazing Storytelling | 336 |
 | This game is Extremely Fun | 331 |
 | This game has Quickly Understood Controls | 326 |
 | This game has Amazing Characters | 316 |

@@ -3,14 +3,14 @@ Rating: 4.51 (366,020)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Quick Sessions | 366,147 |
+| This game is Great for Quick Sessions | 366,755 |
 | This game has Competitive Players | 323,827 |
 | This game has Quickly Understood Controls | 295,477 |
 | This game is Extremely Fun | 289,160 |
 | This game is Highly Recommended | 276,900 |
 | This game has Challenging Combat | 267,511 |
 | This game has Amazing Storytelling | 241,140 |
-| This game has a Competitive Community | 237,027 |
+| This game has a Competitive Community | 237,500 |
 | This game has Amazing Characters | 226,512 |
 | This game has Obsessive Gameplay | 167,946 |
 ## Ratings History

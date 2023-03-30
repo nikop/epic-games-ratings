@@ -1,12 +1,12 @@
 {
   "ID": "c5e786eddfd041caa9984213e3f9621d",
   "Name": "Metro Last Light Redux",
-  "Rating": 4.71,
+  "Rating": 4.7,
   "NumberOfRatings": 6367,
-  "NumberOfAwards": 2067,
+  "NumberOfAwards": 2068,
   "NumberOfAwardsMax": 1791,
   "FirstSeen": "2022-07-22T20:23:11.2145128+00:00",
-  "LastChanged": "2023-03-26T02:05:29.8812508+00:00",
+  "LastChanged": "2023-03-30T21:57:40.2806716+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:11.2145131+00:00",
@@ -1005,6 +1005,10 @@
     {
       "Time": "2023-03-26T02:05:29.8812511+00:00",
       "Rating": 4.71
+    },
+    {
+      "Time": "2023-03-30T21:57:40.2806718+00:00",
+      "Rating": 4.7
     }
   ],
   "Tags": [
@@ -1022,7 +1026,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game has Amazing Storytelling",

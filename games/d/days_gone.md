@@ -3,7 +3,7 @@ Rating: 4.69 (3,949)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 3,691 |
+| This game has Great Boss Battles | 3,693 |
 | This game is Extremely Fun | 361 |
 | This game has Amazing Storytelling | 351 |
 | This game is Great for Beginners | 343 |

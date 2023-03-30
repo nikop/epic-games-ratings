@@ -3,7 +3,7 @@ Rating: 4.69 (573,831)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 150,317 |
+| This game is Great for Beginners | 150,706 |
 | This game has Diverse Characters | 139,441 |
 | This game is Relaxing | 138,168 |
 | This game has Quickly Understood Controls | 133,554 |
