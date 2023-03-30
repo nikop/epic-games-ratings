@@ -217,12 +217,12 @@
 | 215 | [Duskers](games/d/duskers.md) | 4.43 | 
 | 216 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 
 | 217 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 
-| 218 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.22 | 
+| 218 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 
 | 219 | [Eastward](games/e/eastward.md) | 4.67 | 
 | 220 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 
 | 221 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 
 | 222 | [ELEX](games/e/elex.md) | 4.42 | 
-| 223 | [ELEX II](games/e/elex_ii.md) | 4.27 | 
+| 223 | [ELEX II](games/e/elex_ii.md) | 4.28 | 
 | 224 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 
 | 225 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 
 | 226 | [Encased](games/e/encased.md) | 4.36 | 
@@ -639,7 +639,7 @@
 | 637 | [Slipways](games/s/slipways.md) | 4.73 | 
 | 638 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 
 | 639 | [SMITE](games/s/smite.md) | 4.45 | 
-| 640 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.67 | 
+| 640 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.46 | 
 | 641 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 
 | 642 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 
 | 643 | [Solitairica](games/s/solitairica.md) | 4.49 | 
@@ -709,7 +709,7 @@
 | 707 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 
 | 708 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 
 | 709 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 
-| 710 | [Tchia](games/t/tchia.md) | 4.81 | 
+| 710 | [Tchia](games/t/tchia.md) | 4.82 | 
 | 711 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 
 | 712 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 
 | 713 | [Tharsis](games/t/tharsis.md) | 4.05 | 
