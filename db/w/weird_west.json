@@ -4,7 +4,7 @@
   "Rating": 4.46,
   "NumberOfRatings": 125,
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
-  "LastChanged": "2022-11-30T18:58:26.5581601+00:00",
+  "LastChanged": "2023-03-24T18:58:50.344845+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:17.206459+00:00",
@@ -250,12 +250,61 @@
       "Time": "2022-11-30T18:58:26.5581603+00:00",
       "Rating": 4.46,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-05T18:59:45.3705873+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-26T18:58:29.9430052+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-29T18:58:10.1013433+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-30T14:58:22.0785369+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-05T15:57:59.2022182+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-31T21:58:30.864487+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-23T23:58:24.3688551+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-24T23:58:19.477075+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-24T18:58:50.3448451+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Count": 24
+    },
+    {
+      "Text": "In this game, your choices Impact the Story",
+      "Count": 21
     }
   ]
 }

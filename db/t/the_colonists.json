@@ -1,14 +1,19 @@
 {
   "ID": "efeffab890e0438abe36f643f5da5ca2",
   "Name": "The Colonists",
-  "Rating": 4.55,
+  "Rating": 4.59,
   "FirstSeen": "2022-07-22T20:26:16.736578+00:00",
   "FirstSeenRating": "2022-11-30T17:01:14.9184871+00:00",
-  "LastChanged": "2022-11-30T17:01:14.9184873+00:00",
+  "LastChanged": "2022-12-05T03:57:50.9850778+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-30T17:01:14.9184876+00:00",
       "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-05T03:57:50.9850781+00:00",
+      "Rating": 4.59,
       "NumberOfRatings": null
     }
   ],

@@ -1,10 +1,10 @@
 {
   "ID": "9a66c93dabb74d3aaf910fa7f23c64fd",
   "Name": "Diplomacy is Not an Option",
-  "Rating": 4.52,
+  "Rating": 4.46,
   "NumberOfRatings": 51,
   "FirstSeen": "2022-07-22T20:30:41.4347718+00:00",
-  "LastChanged": "2022-11-27T20:58:17.8330835+00:00",
+  "LastChanged": "2023-03-12T04:58:42.3041472+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:41.434772+00:00",
@@ -189,6 +189,51 @@
     {
       "Time": "2022-11-27T20:58:17.8330837+00:00",
       "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-09T17:58:41.7670536+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-22T20:58:03.4646125+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-28T20:58:13.6962804+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-31T20:58:17.3326769+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-01T20:58:26.2376009+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-09T21:58:24.7961563+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-18T23:59:15.4814412+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-25T02:14:18.9576747+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-12T04:58:42.3041475+00:00",
+      "Rating": 4.46,
       "NumberOfRatings": null
     }
   ],

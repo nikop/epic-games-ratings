@@ -1,10 +1,10 @@
 {
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
-  "Rating": 4.25,
+  "Rating": 4.17,
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
-  "LastChanged": "2022-12-02T15:57:14.5007042+00:00",
+  "LastChanged": "2023-03-20T17:57:10.6288128+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-22T01:00:47.4981426+00:00",
@@ -310,44 +310,154 @@
       "Time": "2022-12-02T15:57:14.5007044+00:00",
       "Rating": 4.25,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-04T02:09:53.8233595+00:00",
+      "Rating": 4.26,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-17T17:57:13.3197981+00:00",
+      "Rating": 4.27,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-17T18:56:56.6969683+00:00",
+      "Rating": 4.26,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-19T17:57:18.1670016+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-22T09:57:16.9485848+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-24T11:57:34.9397162+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-26T07:57:03.2322024+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-28T18:57:22.0836172+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-28T20:57:02.7803741+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-29T02:04:39.6771697+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-01T03:12:10.8755274+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-06T02:10:35.7989712+00:00",
+      "Rating": 4.19,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-11T02:09:36.7154417+00:00",
+      "Rating": 4.18,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-20T13:57:26.651945+00:00",
+      "Rating": 4.17,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-21T05:56:55.8410154+00:00",
+      "Rating": 4.18,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-21T17:57:04.4219306+00:00",
+      "Rating": 4.17,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-21T23:57:22.6533079+00:00",
+      "Rating": 4.18,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-22T05:56:56.3630994+00:00",
+      "Rating": 4.17,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-10T18:57:17.4221087+00:00",
+      "Rating": 4.16,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-10T20:57:14.1310801+00:00",
+      "Rating": 4.17,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-11T07:57:03.3479679+00:00",
+      "Rating": 4.16,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-20T17:57:10.6288129+00:00",
+      "Rating": 4.17,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 1116
+      "Count": 2059
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 94
+      "Count": 171
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 87
+      "Count": 169
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 80
+      "Count": 158
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 85
+      "Count": 161
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 89
+      "Count": 168
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 93
+      "Count": 172
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 89
+      "Count": 173
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 85
+      "Count": 170
     },
     {
       "Text": "This game is Great for Quick Sessions",

@@ -1,7 +1,101 @@
 {
   "ID": "315f40c8c7ae4f95ad7426f364a39194",
   "Name": "Fangs",
+  "Rating": 4.09,
   "FirstSeen": "2022-11-30T22:56:56.3802137+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2022-12-07T16:57:36.8831309+00:00",
+  "LastChanged": "2023-01-30T23:56:57.7592003+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-12-07T16:57:36.8831311+00:00",
+      "Rating": 4.04,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-08T18:56:49.9859271+00:00",
+      "Rating": 4.15,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-09T10:56:52.1846717+00:00",
+      "Rating": 4.18,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-10T10:56:59.377855+00:00",
+      "Rating": 4.17,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-17T23:56:55.7272665+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-22T16:56:57.1961008+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-22T21:57:11.3626937+00:00",
+      "Rating": 4.16,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-22T22:57:24.9756866+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-23T16:57:00.3903708+00:00",
+      "Rating": 4.16,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-26T22:57:10.8502422+00:00",
+      "Rating": 4.15,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-27T21:57:07.9903496+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-29T22:56:55.738911+00:00",
+      "Rating": 4.19,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-04T19:56:58.2997625+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-09T17:56:51.2603789+00:00",
+      "Rating": 4.13,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-10T23:56:57.5837641+00:00",
+      "Rating": 4.05,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-17T07:57:08.6037382+00:00",
+      "Rating": 4.07,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-28T23:56:59.0015185+00:00",
+      "Rating": 4.1,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-30T23:56:57.7592004+00:00",
+      "Rating": 4.09,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }

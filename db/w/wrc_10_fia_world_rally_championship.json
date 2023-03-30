@@ -1,10 +1,10 @@
 {
   "ID": "d4d0270b8219470ebfc720c18767aef9",
   "Name": "WRC 10 FIA World Rally Championship",
-  "Rating": 4.52,
+  "Rating": 4.48,
   "NumberOfRatings": 248,
   "FirstSeen": "2022-07-22T20:22:20.0440724+00:00",
-  "LastChanged": "2022-11-30T20:57:09.4703441+00:00",
+  "LastChanged": "2023-03-23T17:57:57.2937066+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:20.0440726+00:00",
@@ -435,20 +435,70 @@
       "Time": "2022-11-30T20:57:09.4703446+00:00",
       "Rating": 4.52,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-04T13:09:58.0125303+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-20T19:57:14.2257002+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-21T19:57:24.2861686+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-31T23:57:25.6730014+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-04T17:57:35.2260542+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-23T16:57:42.0534458+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-07T16:57:35.6031135+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-26T21:57:20.5365774+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-18T17:57:28.1641774+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-23T17:57:57.2937067+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Realistic Visuals",
-      "Count": 34
+      "Count": 36
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Educational",
@@ -460,7 +510,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 30
+      "Count": 32
     },
     {
       "Text": "This game has Challenging Combat",
@@ -468,19 +518,23 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 25
+      "Count": 28
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 23
+      "Count": 26
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 21
+      "Count": 29
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 22
+      "Count": 24
+    },
+    {
+      "Text": "This game has a Competitive Community",
+      "Count": 20
     }
   ]
 }

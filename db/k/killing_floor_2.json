@@ -1,10 +1,10 @@
 {
   "ID": "affc33b82405457595a032f00284abd2",
   "Name": "Killing Floor 2",
-  "Rating": 4.4,
+  "Rating": 4.41,
   "NumberOfRatings": 18418,
   "FirstSeen": "2022-07-22T20:16:46.1518671+00:00",
-  "LastChanged": "2022-11-08T20:56:47.633216+00:00",
+  "LastChanged": "2022-12-26T19:57:09.1387922+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:46.1518677+00:00",
@@ -3235,48 +3235,53 @@
       "Time": "2022-11-08T20:56:47.6332161+00:00",
       "Rating": 4.4,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-26T19:57:09.1387929+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 10895
+      "Count": 11699
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 1401
+      "Count": 1550
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 1344
+      "Count": 1522
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 1287
+      "Count": 1461
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 1344
+      "Count": 1516
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 1389
+      "Count": 1623
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 1331
+      "Count": 1482
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 1332
+      "Count": 1529
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 1276
+      "Count": 1448
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 1139
+      "Count": 1284
     }
   ]
 }

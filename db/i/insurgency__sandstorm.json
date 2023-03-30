@@ -1,10 +1,10 @@
 {
   "ID": "94cec4802e954a6c9579e29e8b817f3a",
   "Name": "Insurgency: Sandstorm",
-  "Rating": 4.61,
+  "Rating": 4.62,
   "NumberOfRatings": 1316,
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
-  "LastChanged": "2022-11-05T21:00:46.1136559+00:00",
+  "LastChanged": "2023-03-20T02:07:00.1324183+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:15.5604869+00:00",
@@ -1305,44 +1305,109 @@
       "Time": "2022-11-05T21:00:46.1136561+00:00",
       "Rating": 4.61,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-22T06:56:58.1255207+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-22T17:57:09.4283634+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-04T20:57:16.7930866+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-05T19:57:09.0688435+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-06T17:57:13.0950004+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-08T15:57:06.2452965+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-10T20:57:09.2672161+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-11T13:57:11.2014871+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-17T14:57:04.8701584+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-19T15:57:03.0664218+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-03T20:57:02.5774315+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-05T11:57:17.5961529+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-20T02:07:00.1324184+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 310
+      "Count": 336
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 234
+      "Count": 260
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 265
+      "Count": 294
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 248
+      "Count": 272
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 273
+      "Count": 302
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 233
+      "Count": 266
     },
     {
       "Text": "This game has Realistic Visuals",
-      "Count": 236
+      "Count": 266
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 274
+      "Count": 299
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 196
+      "Count": 219
     },
     {
       "Text": "This game has Obsessive Gameplay",

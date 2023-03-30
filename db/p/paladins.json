@@ -1,10 +1,10 @@
 {
   "ID": "badb0ee71b474ed591ec43212547cfc8",
   "Name": "Paladins",
-  "Rating": 4.36,
+  "Rating": 4.35,
   "NumberOfRatings": 11687,
   "FirstSeen": "2022-07-22T20:17:05.5508389+00:00",
-  "LastChanged": "2022-09-23T12:00:57.4285757+00:00",
+  "LastChanged": "2023-03-23T09:56:59.3450959+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:05.5508391+00:00",
@@ -3120,20 +3120,25 @@
       "Time": "2022-09-23T12:00:57.4285758+00:00",
       "Rating": 4.36,
       "NumberOfRatings": 11687
+    },
+    {
+      "Time": "2023-03-23T09:56:59.3450961+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 2901
+      "Count": 3178
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 2842
+      "Count": 3118
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 2655
+      "Count": 2857
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3141,27 +3146,27 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 2659
+      "Count": 2861
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 2671
+      "Count": 2890
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 2450
+      "Count": 2676
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 2444
+      "Count": 2654
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 2317
+      "Count": 2506
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 1958
+      "Count": 2134
     }
   ]
 }

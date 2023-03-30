@@ -1,10 +1,10 @@
 {
   "ID": "b3d490d845c040ee82fd02f400ab0efc",
   "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
-  "Rating": 4.65,
+  "Rating": 4.68,
   "NumberOfRatings": 76,
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
-  "LastChanged": "2022-11-26T02:14:46.1727046+00:00",
+  "LastChanged": "2023-03-19T14:58:09.7693588+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:24.5080434+00:00",
@@ -185,12 +185,42 @@
       "Time": "2022-11-26T02:14:46.1727049+00:00",
       "Rating": 4.65,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-30T22:57:48.3622748+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-07T13:12:56.8800553+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-20T13:58:05.2558255+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-10T14:58:00.0989109+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-18T14:57:53.9797484+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-19T14:58:09.769359+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 25
+      "Count": 30
     }
   ]
 }

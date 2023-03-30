@@ -1,10 +1,10 @@
 {
   "ID": "03ecca4e19a9483aa05b3d99948c43ce",
   "Name": "Tom Clancy\u0027s The Division",
-  "Rating": 4.57,
+  "Rating": 4.58,
   "NumberOfRatings": 247,
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2022-11-25T02:21:35.9114321+00:00",
+  "LastChanged": "2023-03-24T21:56:57.7282858+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:11.4605073+00:00",
@@ -450,24 +450,133 @@
       "Time": "2022-11-25T02:21:35.9114323+00:00",
       "Rating": 4.57,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-03T23:56:48.6770361+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-14T15:57:08.0085188+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-03T18:57:09.7550506+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-05T14:57:07.858316+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-11T17:57:17.11191+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-22T02:10:14.5570785+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-03T13:11:58.6357808+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-04T13:09:44.6590886+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-06T14:56:57.0838672+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-09T10:57:19.4184704+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-11T11:57:02.169692+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-12T15:57:23.9271109+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-14T13:22:58.9028721+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-20T03:56:59.8113577+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-22T11:57:15.094152+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-23T20:57:23.4220218+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-24T21:56:57.7282859+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 179
+      "Count": 242
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 108
+      "Count": 150
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 24
+      "Count": 27
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 25
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Count": 22
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 21
+    },
+    {
+      "Text": "This game has Realistic Visuals",
+      "Count": 20
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 22
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 22
     }
   ]
 }

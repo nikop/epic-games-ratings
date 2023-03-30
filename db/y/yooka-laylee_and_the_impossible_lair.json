@@ -1,10 +1,10 @@
 {
   "ID": "fa11862b1cfd42e3b3c6395af46efe3e",
   "Name": "Yooka-Laylee and the Impossible Lair",
-  "Rating": 4.39,
+  "Rating": 4.38,
   "NumberOfRatings": 346,
   "FirstSeen": "2022-07-22T20:26:15.7946917+00:00",
-  "LastChanged": "2022-11-23T11:59:14.1497126+00:00",
+  "LastChanged": "2023-03-16T18:58:56.1266657+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:15.7946919+00:00",
@@ -495,6 +495,71 @@
       "Time": "2022-11-23T11:59:14.1497132+00:00",
       "Rating": 4.39,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-04T11:57:51.1623764+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-04T22:57:36.5000493+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-06T04:57:46.8786064+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-08T03:05:22.7377519+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-08T21:57:43.7816875+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-09T21:57:27.9041176+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-28T05:58:07.0387617+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-04T05:57:34.8354924+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-07T05:57:49.4866365+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-24T07:57:51.1337961+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-05T18:57:56.7114599+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-13T18:58:10.2208063+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-16T18:58:56.126666+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -504,19 +569,19 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 29
+      "Count": 31
     },
     {
       "Text": "This game has Playful Visuals",
-      "Count": 22
+      "Count": 24
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 24
+      "Count": 28
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -524,7 +589,7 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 23
+      "Count": 27
     }
   ]
 }

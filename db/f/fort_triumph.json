@@ -1,10 +1,10 @@
 {
   "ID": "58dbbafdb5b04b3e9442506354457e3c",
   "Name": "Fort Triumph",
-  "Rating": 4.09,
+  "Rating": 4.08,
   "FirstSeen": "2022-07-22T20:32:49.441525+00:00",
   "FirstSeenRating": "2022-12-02T08:58:26.1405445+00:00",
-  "LastChanged": "2022-12-03T10:59:24.6127709+00:00",
+  "LastChanged": "2022-12-31T03:58:34.3388151+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-02T08:58:26.140545+00:00",
@@ -20,7 +20,82 @@
       "Time": "2022-12-03T10:59:24.6127712+00:00",
       "Rating": 4.09,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-04T10:58:11.3658794+00:00",
+      "Rating": 4.06,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-04T19:57:55.111299+00:00",
+      "Rating": 4.07,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-04T21:58:01.234463+00:00",
+      "Rating": 4.06,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-05T09:58:57.1295573+00:00",
+      "Rating": 4.07,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-06T05:58:35.7156662+00:00",
+      "Rating": 4.09,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-06T11:58:13.8796938+00:00",
+      "Rating": 4.1,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-06T15:58:53.6221719+00:00",
+      "Rating": 4.09,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-07T13:13:34.4666927+00:00",
+      "Rating": 4.08,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-08T02:12:28.3007186+00:00",
+      "Rating": 4.09,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-08T07:58:00.8354339+00:00",
+      "Rating": 4.08,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-21T13:58:45.1920517+00:00",
+      "Rating": 4.07,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-26T05:58:35.44341+00:00",
+      "Rating": 4.08,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-28T13:58:02.0213325+00:00",
+      "Rating": 4.07,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-31T03:58:34.3388153+00:00",
+      "Rating": 4.08,
+      "NumberOfRatings": null
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Count": 136
+    }
+  ]
 }

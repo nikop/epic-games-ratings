@@ -1,10 +1,10 @@
 {
   "ID": "17a1f8585f9246808597b30780aaf4fb",
   "Name": "Crysis Remastered",
-  "Rating": 4.41,
+  "Rating": 4.4,
   "NumberOfRatings": 697,
   "FirstSeen": "2022-07-22T20:33:04.7204895+00:00",
-  "LastChanged": "2022-11-24T23:57:57.4764807+00:00",
+  "LastChanged": "2023-03-14T19:00:33.8375181+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:33:04.7204897+00:00",
@@ -595,12 +595,81 @@
       "Time": "2022-11-24T23:57:57.476481+00:00",
       "Rating": 4.41,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-06T11:58:15.7390204+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-08T16:58:28.6526346+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-09T16:58:50.4239779+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-12T17:00:22.4902203+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-27T21:58:44.4880801+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-15T16:58:08.6613476+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-21T16:58:13.1822038+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-22T16:58:43.5915501+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-23T16:59:37.5478686+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-25T16:58:44.9832032+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-28T19:58:26.4973087+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-08T19:58:38.0647419+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-14T19:00:33.8375183+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 225
+      "Count": 242
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 20
     }
   ]
 }

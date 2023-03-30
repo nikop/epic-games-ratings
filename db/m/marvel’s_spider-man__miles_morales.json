@@ -1,10 +1,10 @@
 {
   "ID": "f696430be718494fac1d6542cfb22542",
   "Name": "Marvel\u2019s Spider-Man: Miles Morales",
-  "Rating": 4.83,
+  "Rating": 4.8,
   "FirstSeen": "2022-11-18T19:57:18.4413349+00:00",
   "FirstSeenRating": "2022-11-19T02:30:31.0923375+00:00",
-  "LastChanged": "2022-12-01T09:57:12.0235605+00:00",
+  "LastChanged": "2023-01-09T19:57:12.8758157+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-19T02:30:31.0923377+00:00",
@@ -75,12 +75,81 @@
       "Time": "2022-12-01T09:57:12.0235606+00:00",
       "Rating": 4.83,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-03T20:57:04.5644008+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-29T23:57:10.2036045+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-07T22:57:20.1235945+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-09T02:06:11.8226881+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-09T19:57:12.8758159+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 553
+      "Count": 954
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 41
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 34
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 39
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 32
+    },
+    {
+      "Text": "This game has Beautiful Visuals",
+      "Count": 26
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 26
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 32
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 29
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Count": 32
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 21
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 25
     }
   ]
 }

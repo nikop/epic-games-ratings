@@ -1,10 +1,10 @@
 {
   "ID": "bf333e6236914222a95a536389c05813",
   "Name": "Phantasy Star Online 2 New Genesis",
-  "Rating": 4.52,
+  "Rating": 4.54,
   "NumberOfRatings": 692,
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
-  "LastChanged": "2022-11-30T11:57:13.4674764+00:00",
+  "LastChanged": "2023-03-18T19:57:05.5884082+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:27.1466756+00:00",
@@ -960,48 +960,88 @@
       "Time": "2022-11-30T11:57:13.4674766+00:00",
       "Rating": 4.52,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-11T04:57:02.849824+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-02T10:57:06.0636318+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-02T03:15:39.4850328+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-03T13:11:54.4989427+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-05T02:26:04.3381502+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-06T13:14:14.798313+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-08T14:56:56.3879196+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-18T19:57:05.5884084+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 665
+      "Count": 777
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 523
+      "Count": 601
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 183
+      "Count": 227
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 189
+      "Count": 218
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 201
+      "Count": 234
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 192
+      "Count": 239
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 194
+      "Count": 233
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 177
+      "Count": 221
     },
     {
       "Text": "This game has Beautiful Visuals",
-      "Count": 173
+      "Count": 206
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 181
+      "Count": 220
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1009,7 +1049,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 154
+      "Count": 191
     }
   ]
 }

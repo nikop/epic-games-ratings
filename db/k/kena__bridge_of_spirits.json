@@ -1,10 +1,10 @@
 {
   "ID": "7c53d7dc86494d5abcdc974b0ef0a843",
   "Name": "Kena: Bridge of Spirits",
-  "Rating": 4.69,
+  "Rating": 4.7,
   "NumberOfRatings": 3313,
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
-  "LastChanged": "2022-10-19T07:30:42.5269361+00:00",
+  "LastChanged": "2023-03-20T16:57:08.6751745+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:51.8985807+00:00",
@@ -925,12 +925,57 @@
       "Time": "2022-10-19T07:30:42.5269364+00:00",
       "Rating": 4.69,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-02T22:57:25.7297772+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-03T22:57:16.8651448+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-10T13:13:05.6984611+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-14T21:57:12.7854916+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-17T13:57:22.0108422+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-06T14:57:06.4494726+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-16T07:57:13.1015053+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-17T16:57:45.8438732+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-20T16:57:08.6751775+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 1199
+      "Count": 1284
     },
     {
       "Text": "This game is Highly Recommended",
@@ -938,11 +983,11 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 48
+      "Count": 53
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 37
+      "Count": 41
     },
     {
       "Text": "This game is Great for Beginners",
@@ -950,31 +995,39 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 29
+      "Count": 34
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 32
+      "Count": 37
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 36
+      "Count": 39
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 33
+      "Count": 35
     },
     {
       "Text": "This game has Beautiful Visuals",
-      "Count": 30
+      "Count": 33
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 26
+      "Count": 33
     },
     {
       "Text": "This game is Educational",
-      "Count": 21
+      "Count": 29
+    },
+    {
+      "Text": "This game has a Kind Community",
+      "Count": 24
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 23
     }
   ]
 }

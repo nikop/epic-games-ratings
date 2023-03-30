@@ -1,10 +1,10 @@
 {
   "ID": "hyacinth",
   "Name": "Tom Clancy\u0027s Ghost Recon Wildlands Standard Edition",
-  "Rating": 4.56,
+  "Rating": 4.58,
   "NumberOfRatings": 871,
   "FirstSeen": "2022-07-22T20:20:43.6796979+00:00",
-  "LastChanged": "2022-11-14T07:56:56.2973777+00:00",
+  "LastChanged": "2023-03-12T21:57:12.2897272+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:43.6796982+00:00",
@@ -910,6 +910,66 @@
       "Time": "2022-11-14T07:56:56.2973782+00:00",
       "Rating": 4.56,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-01T07:57:25.1439029+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-09T05:57:36.9735236+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-09T09:57:37.3734777+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-10T13:12:29.1184463+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-10T22:57:15.3240799+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-11T16:57:09.7309327+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-12T03:08:56.7475167+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-14T09:57:19.2445289+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-05T19:57:34.0381027+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-10T15:57:26.2604473+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-11T13:06:34.1943816+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-12T21:57:12.2897275+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -923,35 +983,35 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 91
+      "Count": 140
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 95
+      "Count": 132
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 89
+      "Count": 141
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 88
+      "Count": 146
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 93
+      "Count": 150
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 83
+      "Count": 122
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 89
+      "Count": 132
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 85
+      "Count": 154
     }
   ]
 }

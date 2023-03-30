@@ -1,10 +1,10 @@
 {
   "ID": "9773aa1aa54f4f7b80e44bef04986cea",
   "Name": "Rocket League\u00AE",
-  "Rating": 4.54,
+  "Rating": 4.51,
   "NumberOfRatings": 366020,
   "FirstSeen": "2022-07-22T20:17:22.1538752+00:00",
-  "LastChanged": "2022-09-23T08:01:01.1009913+00:00",
+  "LastChanged": "2023-03-24T18:57:04.1947354+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:22.1538754+00:00",
@@ -3225,12 +3225,27 @@
       "Time": "2022-09-23T08:01:01.1009916+00:00",
       "Rating": 4.54,
       "NumberOfRatings": 366020
+    },
+    {
+      "Time": "2023-01-04T10:56:49.0084059+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-09T22:57:13.0279594+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-24T18:57:04.1947355+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 235458
+      "Count": 366147
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3238,35 +3253,35 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 223999
+      "Count": 323827
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 203217
+      "Count": 295477
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 196436
+      "Count": 289160
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 185261
+      "Count": 276900
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 160062
+      "Count": 240540
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 152813
+      "Count": 237027
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 148978
+      "Count": 226512
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 177918
+      "Count": 267511
     }
   ]
 }

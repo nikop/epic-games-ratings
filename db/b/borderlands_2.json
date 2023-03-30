@@ -1,10 +1,10 @@
 {
   "ID": "f4a7772a4da24870a3ea6dfb8aeac662",
   "Name": "Borderlands 2",
-  "Rating": 4.77,
+  "Rating": 4.76,
   "NumberOfRatings": 13386,
   "FirstSeen": "2022-07-22T20:18:04.5825777+00:00",
-  "LastChanged": "2022-12-02T19:57:07.864207+00:00",
+  "LastChanged": "2022-12-07T20:56:59.5213772+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:04.582578+00:00",
@@ -3415,36 +3415,41 @@
       "Time": "2022-12-02T19:57:07.8642072+00:00",
       "Rating": 4.77,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-07T20:56:59.5213773+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 12640
+      "Count": 13741
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 2167
+      "Count": 2331
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 2131
+      "Count": 2311
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 2151
+      "Count": 2343
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 2135
+      "Count": 2390
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 2176
+      "Count": 2363
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 2113
+      "Count": 2291
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3452,11 +3457,11 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 2126
+      "Count": 2347
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 2080
+      "Count": 2237
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3464,7 +3469,7 @@
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 2009
+      "Count": 2192
     }
   ]
 }

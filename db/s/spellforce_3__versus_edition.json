@@ -1,10 +1,10 @@
 {
   "ID": "72324f542dc4488681e617b0d39ad115",
   "Name": "SpellForce 3: Versus Edition",
-  "Rating": 3.78,
+  "Rating": 3.77,
   "NumberOfRatings": 66,
   "FirstSeen": "2022-07-22T20:22:51.1807363+00:00",
-  "LastChanged": "2022-11-26T18:57:08.2332096+00:00",
+  "LastChanged": "2023-03-18T19:57:38.6452417+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:51.1807366+00:00",
@@ -274,6 +274,41 @@
     {
       "Time": "2022-11-26T18:57:08.2332098+00:00",
       "Rating": 3.78,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-05T18:58:48.7766208+00:00",
+      "Rating": 3.79,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-07T18:57:27.5332291+00:00",
+      "Rating": 3.78,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-11T18:57:33.5811183+00:00",
+      "Rating": 3.8,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-22T18:57:41.7022532+00:00",
+      "Rating": 3.81,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-13T19:57:42.2156968+00:00",
+      "Rating": 3.78,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-11T19:57:28.6455096+00:00",
+      "Rating": 3.75,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-18T19:57:38.6452419+00:00",
+      "Rating": 3.77,
       "NumberOfRatings": null
     }
   ],

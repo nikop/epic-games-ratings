@@ -1,10 +1,10 @@
 {
   "ID": "0a9e3c5ab6684506bd624a849ca0cf39",
   "Name": "DEATH STRANDING DIRECTOR\u0027S CUT",
-  "Rating": 4.85,
+  "Rating": 4.89,
   "NumberOfRatings": 3099,
   "FirstSeen": "2022-07-22T20:27:07.1002044+00:00",
-  "LastChanged": "2022-10-10T11:02:04.7000881+00:00",
+  "LastChanged": "2023-01-12T17:19:16.4404438+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:07.1002046+00:00",
@@ -2005,48 +2005,88 @@
       "Time": "2022-10-10T11:02:04.7000884+00:00",
       "Rating": 4.85,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-28T13:09:03.8297788+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-31T03:57:53.964812+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-31T06:58:00.0132697+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-31T14:58:17.5865802+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-01T09:58:21.7050958+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-01T13:57:46.190755+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-04T09:58:19.5004296+00:00",
+      "Rating": 4.88,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-12T17:19:16.440444+00:00",
+      "Rating": 4.89,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 2275
+      "Count": 6514
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 242
+      "Count": 462
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 213
+      "Count": 430
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 211
+      "Count": 433
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 218
+      "Count": 415
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 220
+      "Count": 436
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 220
+      "Count": 403
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 202
+      "Count": 408
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 162
+      "Count": 343
     },
     {
       "Text": "This game is Educational",
-      "Count": 208
+      "Count": 416
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2054,7 +2094,11 @@
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 224
+      "Count": 415
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 433
     }
   ]
 }

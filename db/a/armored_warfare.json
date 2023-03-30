@@ -1,10 +1,10 @@
 {
   "ID": "870929e8b7fb4e2b986c1a3f0a6ff38d",
   "Name": "Armored Warfare",
-  "Rating": 4.08,
+  "Rating": 4.09,
   "NumberOfRatings": 458,
   "FirstSeen": "2022-07-22T20:16:52.6557809+00:00",
-  "LastChanged": "2022-12-02T10:57:06.3030878+00:00",
+  "LastChanged": "2023-03-23T17:57:17.7070395+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:52.6557814+00:00",
@@ -745,48 +745,103 @@
       "Time": "2022-12-02T10:57:06.3030881+00:00",
       "Rating": 4.08,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-03T23:56:42.7694011+00:00",
+      "Rating": 4.09,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-23T03:56:47.3921004+00:00",
+      "Rating": 4.08,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-30T16:56:53.4256711+00:00",
+      "Rating": 4.09,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-09T14:57:15.3786757+00:00",
+      "Rating": 4.08,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-08T19:57:03.0887513+00:00",
+      "Rating": 4.09,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-03T05:10:08.4140545+00:00",
+      "Rating": 4.08,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-03T15:57:23.5745006+00:00",
+      "Rating": 4.09,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-16T09:56:57.6448494+00:00",
+      "Rating": 4.08,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-17T23:57:00.6485178+00:00",
+      "Rating": 4.09,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-19T02:12:49.6181061+00:00",
+      "Rating": 4.08,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-23T17:57:17.7070396+00:00",
+      "Rating": 4.09,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Competitive Players",
-      "Count": 42
+      "Count": 56
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 49
+      "Count": 62
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 52
+      "Count": 68
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 45
+      "Count": 56
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 48
+      "Count": 59
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 50
+      "Count": 58
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 45
+      "Count": 50
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 45
+      "Count": 57
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 36
+      "Count": 41
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 55
+      "Count": 70
     }
   ]
 }

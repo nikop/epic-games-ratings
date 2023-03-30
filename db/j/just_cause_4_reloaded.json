@@ -1,10 +1,10 @@
 {
   "ID": "ba8062bdcc1342c0b78743e3c6242575",
   "Name": "Just Cause 4 Reloaded",
-  "Rating": 4.31,
+  "Rating": 4.3,
   "NumberOfRatings": 5442,
   "FirstSeen": "2022-07-22T20:18:31.4925823+00:00",
-  "LastChanged": "2022-11-18T06:56:48.8331735+00:00",
+  "LastChanged": "2023-02-12T22:57:12.3724972+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:31.4925825+00:00",
@@ -2665,44 +2665,49 @@
       "Time": "2022-11-18T06:56:48.8331737+00:00",
       "Rating": 4.31,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-12T22:57:12.3724973+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 3291
+      "Count": 3529
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 460
+      "Count": 516
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 372
+      "Count": 412
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 395
+      "Count": 420
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 368
+      "Count": 395
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 377
+      "Count": 400
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 339
+      "Count": 364
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 375
+      "Count": 405
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 279
+      "Count": 301
     }
   ]
 }

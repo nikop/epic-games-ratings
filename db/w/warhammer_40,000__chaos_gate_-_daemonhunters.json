@@ -1,10 +1,10 @@
 {
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
-  "Rating": 4.59,
+  "Rating": 4.58,
   "NumberOfRatings": 371,
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
-  "LastChanged": "2022-11-30T17:58:07.3634561+00:00",
+  "LastChanged": "2023-03-06T20:57:47.609999+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:10.4681648+00:00",
@@ -335,36 +335,69 @@
       "Time": "2022-11-30T17:58:07.3634562+00:00",
       "Rating": 4.59,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-04T03:57:39.8654349+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-06T17:57:46.1669271+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-17T21:57:41.8309064+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-20T04:57:45.3482372+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-06T20:57:47.6099991+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 185
+      "Count": 199
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 26
+      "Count": 28
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 26
+      "Count": 29
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 21
+      "Count": 23
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 22
+      "Count": 24
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 23
+      "Count": 28
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 21
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Count": 25
     }
   ]
 }

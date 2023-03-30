@@ -1,10 +1,10 @@
 {
   "ID": "64ae027afbd145d9b6e62bd96967fe66",
   "Name": "A Plague Tale: Requiem",
-  "Rating": 4.73,
+  "Rating": 4.74,
   "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
-  "LastChanged": "2022-11-17T19:57:42.1727715+00:00",
+  "LastChanged": "2023-01-06T10:57:19.9889261+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-19T08:31:07.2693345+00:00",
@@ -145,20 +145,61 @@
       "Time": "2022-11-17T19:57:42.1727717+00:00",
       "Rating": 4.73,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-23T19:57:28.4781367+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-29T15:57:33.4066876+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-30T15:57:26.0796422+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-02T08:57:19.3925985+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-06T10:57:19.9889262+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 346
+      "Count": 395
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 22
+      "Count": 26
     },
     {
       "Text": "This game is Highly Recommended",
+      "Count": 29
+    },
+    {
+      "Text": "This game is Relaxing",
       "Count": 24
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 27
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 24
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 23
     }
   ]
 }

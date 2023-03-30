@@ -1,10 +1,10 @@
 {
   "ID": "e65d8864e0e84d6eb7fe228b2041c15f",
   "Name": "My Time at Sandrock",
-  "Rating": 4.67,
+  "Rating": 4.68,
   "NumberOfRatings": 892,
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
-  "LastChanged": "2022-10-30T12:02:35.6678949+00:00",
+  "LastChanged": "2023-03-21T14:58:33.5890461+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:47.6872012+00:00",
@@ -560,16 +560,41 @@
       "Time": "2022-10-30T12:02:35.6678951+00:00",
       "Rating": 4.67,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-12T04:58:28.321235+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-17T18:58:28.653493+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-10T02:21:43.8809104+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-14T20:58:19.1105575+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-21T14:58:33.5890462+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 513
+      "Count": 545
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 66
+      "Count": 74
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -577,39 +602,39 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 66
+      "Count": 71
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 53
+      "Count": 66
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 53
+      "Count": 61
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 60
+      "Count": 70
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 55
+      "Count": 61
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 52
+      "Count": 59
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 49
+      "Count": 61
     },
     {
       "Text": "This game has a Kind Community",
-      "Count": 38
+      "Count": 40
     },
     {
       "Text": "This game has Easy Combat",
-      "Count": 47
+      "Count": 55
     }
   ]
 }

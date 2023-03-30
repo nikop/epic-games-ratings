@@ -1,12 +1,105 @@
 {
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
-  "DailyRatings": 0,
-  "FirstSeen": null,
-  "LastChanged": null,
-  "RatingHistory": [],
-  "Tags": []
+  "Rating": 4.78,
+  "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
+  "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
+  "LastChanged": "2023-03-11T20:57:11.3685812+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-02-10T20:57:09.6904581+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-11T14:57:08.118924+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-11T20:56:46.6618484+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-12T03:57:01.1390374+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-12T04:57:06.7350022+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-13T22:56:59.5688289+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-14T15:57:13.6819247+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-18T13:08:59.7216074+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-11T20:57:11.3685814+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": null
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Count": 16166
+    },
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 7153
+    },
+    {
+      "Text": "This game has Beautiful Visuals",
+      "Count": 455
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 511
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 514
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 542
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 514
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 531
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 479
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 519
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 451
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 343
+    }
+  ]
 }

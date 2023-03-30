@@ -4,7 +4,7 @@
   "Rating": 4.68,
   "NumberOfRatings": 3843,
   "FirstSeen": "2022-07-22T20:17:42.6567846+00:00",
-  "LastChanged": "2022-10-19T22:01:16.282104+00:00",
+  "LastChanged": "2023-02-28T18:56:57.5047865+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:42.6567849+00:00",
@@ -1840,32 +1840,52 @@
       "Time": "2022-10-19T22:01:16.2821043+00:00",
       "Rating": 4.68,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-26T09:56:56.0389426+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-26T16:56:56.5884751+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-26T20:56:53.2404035+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-28T18:56:57.5047868+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 2464
+      "Count": 2877
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 178
+      "Count": 216
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 168
+      "Count": 211
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 186
+      "Count": 219
     },
     {
       "Text": "This game is Educational",
-      "Count": 160
+      "Count": 192
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 183
+      "Count": 211
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1873,23 +1893,23 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 173
+      "Count": 215
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 182
+      "Count": 222
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 172
+      "Count": 208
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 143
+      "Count": 174
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 86
+      "Count": 96
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "ID": "4b35838425c74992ad42e1276b2161ca",
   "Name": "Immortals Fenyx Rising Standard Edition",
-  "Rating": 4.6,
+  "Rating": 4.61,
   "NumberOfRatings": 791,
   "FirstSeen": "2022-07-22T20:22:58.8142388+00:00",
-  "LastChanged": "2022-11-22T13:21:21.235326+00:00",
+  "LastChanged": "2023-03-17T20:57:47.9641965+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:58.8142391+00:00",
@@ -665,32 +665,47 @@
       "Time": "2022-11-22T13:21:21.2353262+00:00",
       "Rating": 4.6,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-07T13:57:54.3786849+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-31T07:57:44.7869775+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-17T20:57:47.9641966+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 461
+      "Count": 543
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 39
+      "Count": 44
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 33
+      "Count": 42
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 31
+      "Count": 36
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 26
+      "Count": 28
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 33
+      "Count": 38
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -698,11 +713,11 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 29
+      "Count": 33
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 22
+      "Count": 28
     }
   ]
 }

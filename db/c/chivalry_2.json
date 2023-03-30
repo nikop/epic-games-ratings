@@ -1,10 +1,10 @@
 {
   "ID": "bd46d4ce259349e5bd8b3ded20274737",
   "Name": "Chivalry 2",
-  "Rating": 4.62,
+  "Rating": 4.61,
   "NumberOfRatings": 18078,
   "FirstSeen": "2022-07-22T20:20:08.5003131+00:00",
-  "LastChanged": "2022-09-23T13:31:40.6806015+00:00",
+  "LastChanged": "2023-03-04T04:57:09.1087229+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:08.5003133+00:00",
@@ -3195,6 +3195,51 @@
       "Time": "2022-09-23T13:31:40.6806042+00:00",
       "Rating": 4.62,
       "NumberOfRatings": 18078
+    },
+    {
+      "Time": "2023-02-25T03:10:14.4661627+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-25T19:57:05.6661808+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-26T14:57:16.6074392+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-27T02:14:12.7061069+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-27T11:57:30.6153946+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-27T13:57:26.8673056+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-27T16:57:51.7286784+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-01T15:57:19.5963321+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-04T04:57:09.1087234+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -3204,11 +3249,11 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 3517
+      "Count": 3909
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 3538
+      "Count": 3910
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3216,23 +3261,23 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 3294
+      "Count": 3638
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 3374
+      "Count": 3829
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 3389
+      "Count": 3762
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 2961
+      "Count": 3307
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 2730
+      "Count": 3067
     }
   ]
 }

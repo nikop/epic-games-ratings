@@ -1,5 +1,5 @@
 # STRANGER OF PARADISE FINAL FANTASY ORIGIN
-Rating: 4.49 (1,919)  (as of 23.09.2022)  
+Rating: 4.50 (1,919)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -70,3 +70,4 @@ Rating: 4.49 (1,919)  (as of 23.09.2022)
 | 2022-10-07 | 4.47 | - |
 | 2022-10-30 | 4.48 | - |
 | 2022-11-13 | 4.49 | - |
+| 2023-02-10 | 4.50 | - |

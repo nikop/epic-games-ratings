@@ -1,10 +1,10 @@
 {
   "ID": "a940d58c1aeb43dab5fe6150a5c63659",
   "Name": "Grand Tactician The Civil War 1861-1865",
-  "Rating": 4.12,
+  "Rating": 4.15,
   "NumberOfRatings": 29,
   "FirstSeen": "2022-07-22T20:22:55.5323609+00:00",
-  "LastChanged": "2022-11-10T17:57:29.0255248+00:00",
+  "LastChanged": "2022-12-04T02:10:19.5890394+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:55.5323617+00:00",
@@ -59,6 +59,11 @@
     {
       "Time": "2022-11-10T17:57:29.025525+00:00",
       "Rating": 4.12,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-04T02:10:19.5890396+00:00",
+      "Rating": 4.15,
       "NumberOfRatings": null
     }
   ],

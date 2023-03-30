@@ -1,10 +1,10 @@
 {
   "ID": "663e521f2a444199be58152fd93fa66e",
   "Name": "Remnant: From the Ashes",
-  "Rating": 4.59,
+  "Rating": 4.6,
   "NumberOfRatings": 12107,
   "FirstSeen": "2022-07-22T20:25:00.6523638+00:00",
-  "LastChanged": "2022-12-02T18:58:27.3076637+00:00",
+  "LastChanged": "2022-12-22T08:57:44.5839298+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:00.6523641+00:00",
@@ -2890,16 +2890,31 @@
       "Time": "2022-12-02T18:58:27.3076638+00:00",
       "Rating": 4.59,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-21T20:58:01.7656743+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-22T05:57:34.2778734+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-22T08:57:44.5839299+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 7837
+      "Count": 8800
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 553
+      "Count": 648
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2907,23 +2922,23 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 564
+      "Count": 641
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 550
+      "Count": 631
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 587
+      "Count": 658
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 481
+      "Count": 560
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 548
+      "Count": 633
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2931,11 +2946,11 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 524
+      "Count": 599
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 493
+      "Count": 575
     },
     {
       "Text": "This game has Obsessive Gameplay",

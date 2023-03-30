@@ -1,10 +1,10 @@
 {
   "ID": "0c6aee83b9b64372bf44a043001325f2",
   "Name": "NARAKA: BLADEPOINT",
-  "Rating": 4.22,
+  "Rating": 4.2,
   "NumberOfRatings": 132339,
   "FirstSeen": "2022-07-22T20:17:04.1152302+00:00",
-  "LastChanged": "2022-10-17T12:31:25.6836377+00:00",
+  "LastChanged": "2023-01-28T10:56:47.4053469+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:04.1152304+00:00",
@@ -3135,24 +3135,44 @@
       "Time": "2022-10-17T12:31:25.683638+00:00",
       "Rating": 4.22,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-27T05:57:29.0872329+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-27T13:08:25.5667409+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-27T17:57:10.8491286+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-28T10:56:47.405347+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 163285
+      "Count": 178254
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 56764
+      "Count": 71347
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 51686
+      "Count": 66324
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 47255
+      "Count": 59780
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3160,11 +3180,11 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 41839
+      "Count": 46871
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 41445
+      "Count": 51458
     }
   ]
 }

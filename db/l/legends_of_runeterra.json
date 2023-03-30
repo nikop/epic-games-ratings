@@ -1,10 +1,10 @@
 {
   "ID": "4fb89e9f47fe48258314c366649c398e",
   "Name": "Legends of Runeterra",
-  "Rating": 4.64,
+  "Rating": 4.65,
   "NumberOfRatings": 431,
   "FirstSeen": "2022-07-22T20:20:06.6748123+00:00",
-  "LastChanged": "2022-11-22T22:57:03.1315966+00:00",
+  "LastChanged": "2023-02-19T02:14:29.3772447+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:06.6748126+00:00",
@@ -775,52 +775,97 @@
       "Time": "2022-11-22T22:57:03.1315967+00:00",
       "Rating": 4.64,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-15T13:13:12.1332665+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-20T06:57:29.0883764+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-23T05:57:09.1808853+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-12T17:18:43.6828963+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-24T13:57:28.6852666+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-01T18:57:17.8417902+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-11T18:56:57.5305506+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-13T15:57:13.6425919+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-19T02:14:29.3772448+00:00",
+      "Rating": 4.65,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 109
+      "Count": 145
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 109
+      "Count": 136
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 80
+      "Count": 102
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 98
+      "Count": 114
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 93
+      "Count": 116
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 100
+      "Count": 128
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 84
+      "Count": 98
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 87
+      "Count": 107
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 86
+      "Count": 107
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 78
+      "Count": 98
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 65
+      "Count": 85
     }
   ]
 }

@@ -570,7 +570,7 @@
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 187
+      "Count": 201
     },
     {
       "Text": "This game has Unique Visuals",
@@ -578,6 +578,10 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
+      "Count": 24
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
       "Count": 20
     }
   ]

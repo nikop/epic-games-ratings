@@ -1,7 +1,16 @@
 {
   "ID": "51c19c28a7024793b9e38174d0e1634b",
   "Name": "Tormentor x Punisher",
+  "Rating": 4.75,
   "FirstSeen": "2022-07-22T20:18:13.9421627+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-02-22T10:57:04.2870054+00:00",
+  "LastChanged": "2023-02-22T10:57:04.2870056+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-02-22T10:57:04.2870059+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }

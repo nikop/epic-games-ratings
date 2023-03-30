@@ -4,7 +4,7 @@
   "Rating": 4.52,
   "NumberOfRatings": 2280,
   "FirstSeen": "2022-07-22T20:22:50.679277+00:00",
-  "LastChanged": "2022-10-07T14:31:41.909113+00:00",
+  "LastChanged": "2023-02-24T15:57:41.4981616+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:50.6792772+00:00",
@@ -1225,48 +1225,68 @@
       "Time": "2022-10-07T14:31:41.9091134+00:00",
       "Rating": 4.52,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-02T13:11:13.6349841+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-18T08:57:18.6527815+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-18T15:57:47.8893019+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-24T15:57:41.4981621+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
-      "Count": 89
+      "Count": 96
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 91
+      "Count": 97
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 66
+      "Count": 74
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 71
+      "Count": 76
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 68
+      "Count": 72
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 73
+      "Count": 78
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 66
+      "Count": 72
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 68
+      "Count": 74
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 73
+      "Count": 83
     },
     {
       "Text": "This game has Easy Combat",
-      "Count": 59
+      "Count": 61
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1274,7 +1294,7 @@
     },
     {
       "Text": "This game has a Silly Community",
-      "Count": 62
+      "Count": 66
     }
   ]
 }

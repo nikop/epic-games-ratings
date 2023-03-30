@@ -1,0 +1,26 @@
+{
+  "ID": "0e9ae0e756524ed49a27435c9c3c3e1c",
+  "Name": "Chess Ultra",
+  "Rating": 4.28,
+  "FirstSeen": "2023-03-23T15:57:26.8098096+00:00",
+  "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
+  "LastChanged": "2023-03-30T10:57:14.562754+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-28T10:57:23.5590256+00:00",
+      "Rating": 4.27,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-29T10:57:10.7061883+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-30T10:57:14.5627542+00:00",
+      "Rating": 4.28,
+      "NumberOfRatings": null
+    }
+  ],
+  "Tags": []
+}

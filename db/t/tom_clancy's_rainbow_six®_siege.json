@@ -1,10 +1,10 @@
 {
   "ID": "carnation",
   "Name": "Tom Clancy\u0027s Rainbow Six\u00AE Siege",
-  "Rating": 4.58,
+  "Rating": 4.57,
   "NumberOfRatings": 8669,
   "FirstSeen": "2022-07-22T20:19:50.9592707+00:00",
-  "LastChanged": "2022-09-23T13:01:15.2308496+00:00",
+  "LastChanged": "2023-03-15T16:56:55.8572994+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:50.9592709+00:00",
@@ -3170,6 +3170,61 @@
       "Time": "2022-09-23T13:01:15.2308498+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 8669
+    },
+    {
+      "Time": "2022-12-12T08:57:30.4376934+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-13T09:57:02.1276264+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-14T05:57:03.1127896+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-14T10:57:08.1597738+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-14T21:57:33.7324356+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-14T22:57:09.6558243+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-09T02:18:00.5559326+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-10T11:57:13.5993135+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-14T06:57:08.8179008+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-14T19:57:11.0061332+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-15T16:56:55.8572996+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -3179,39 +3234,39 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 1377
+      "Count": 1539
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 1416
+      "Count": 1576
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 1476
+      "Count": 1677
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 1430
+      "Count": 1610
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 1354
+      "Count": 1511
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 1373
+      "Count": 1545
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 1329
+      "Count": 1497
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 1174
+      "Count": 1323
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 1256
+      "Count": 1411
     },
     {
       "Text": "This game has Realistic Visuals",

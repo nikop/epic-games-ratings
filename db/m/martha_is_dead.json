@@ -1,10 +1,10 @@
 {
   "ID": "4b792f5770e84675b971a523a4ab9621",
   "Name": "Martha Is Dead",
-  "Rating": 4.15,
+  "Rating": 4.03,
   "NumberOfRatings": 39,
   "FirstSeen": "2022-07-22T20:18:17.5021839+00:00",
-  "LastChanged": "2022-11-24T21:57:09.4607825+00:00",
+  "LastChanged": "2023-03-12T04:57:04.9030151+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:17.5021842+00:00",
@@ -149,6 +149,86 @@
     {
       "Time": "2022-11-24T21:57:09.4607826+00:00",
       "Rating": 4.15,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-03T21:57:56.1764733+00:00",
+      "Rating": 4.16,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-20T23:57:07.5865489+00:00",
+      "Rating": 4.18,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-23T23:57:26.2752023+00:00",
+      "Rating": 4.14,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-05T23:57:02.8666342+00:00",
+      "Rating": 4.15,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-07T23:57:06.6841292+00:00",
+      "Rating": 4.16,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-24T18:57:20.5512463+00:00",
+      "Rating": 4.13,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-24T19:57:03.5704213+00:00",
+      "Rating": 4.16,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-25T02:06:54.5586311+00:00",
+      "Rating": 4.13,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-07T02:06:30.6737249+00:00",
+      "Rating": 4.11,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-13T03:11:36.7586902+00:00",
+      "Rating": 4.12,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-16T03:09:30.5565835+00:00",
+      "Rating": 4.13,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-18T03:01:02.0672851+00:00",
+      "Rating": 4.12,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-22T03:09:57.5022913+00:00",
+      "Rating": 4.13,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-24T03:09:27.6214008+00:00",
+      "Rating": 4.08,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-04T03:57:04.1007153+00:00",
+      "Rating": 4.05,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-12T04:57:04.9030152+00:00",
+      "Rating": 4.03,
       "NumberOfRatings": null
     }
   ],

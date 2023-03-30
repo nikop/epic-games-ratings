@@ -4,7 +4,7 @@
   "Rating": 4.59,
   "NumberOfRatings": 181,
   "FirstSeen": "2022-07-22T20:32:53.2112197+00:00",
-  "LastChanged": "2022-11-26T13:59:01.9396813+00:00",
+  "LastChanged": "2023-01-23T13:58:21.2043619+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:53.2112199+00:00",
@@ -310,12 +310,22 @@
       "Time": "2022-11-26T13:59:01.9396815+00:00",
       "Rating": 4.59,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-21T13:58:31.7998048+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-23T13:58:21.2043621+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 65
+      "Count": 74
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "ID": "6ea398b9c2244250a9177c0b8a69b5cd",
   "Name": "Prey",
-  "Rating": 4.61,
+  "Rating": 4.62,
   "NumberOfRatings": 13217,
   "FirstSeen": "2022-07-22T20:32:29.7707864+00:00",
-  "LastChanged": "2022-10-09T16:02:49.4565489+00:00",
+  "LastChanged": "2022-12-29T23:58:09.7024086+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:29.7707866+00:00",
@@ -2480,16 +2480,41 @@
       "Time": "2022-10-09T16:02:49.4565491+00:00",
       "Rating": 4.61,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-26T17:58:41.5693229+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-27T14:58:44.5245249+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-29T16:59:16.8807748+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-29T21:58:19.2206158+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-29T23:58:09.7024088+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
-      "Count": 272
+      "Count": 290
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 299
+      "Count": 316
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2497,27 +2522,27 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 267
+      "Count": 282
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 267
+      "Count": 296
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 264
+      "Count": 281
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 290
+      "Count": 305
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 150
+      "Count": 161
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 5138
+      "Count": 5474
     },
     {
       "Text": "This game has Challenging Combat",

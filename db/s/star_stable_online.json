@@ -1,10 +1,10 @@
 {
   "ID": "207b765975664e9db1e29129aafae69c",
   "Name": "Star Stable Online",
-  "Rating": 4.37,
+  "Rating": 4.41,
   "NumberOfRatings": 317,
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
-  "LastChanged": "2022-12-01T20:57:16.8267256+00:00",
+  "LastChanged": "2023-03-16T13:12:46.9561535+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:59.0360313+00:00",
@@ -705,36 +705,116 @@
       "Time": "2022-12-01T20:57:16.8267257+00:00",
       "Rating": 4.37,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-04T20:57:00.2541836+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-08T22:57:12.9964296+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-21T16:56:58.4636961+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-27T13:57:22.1506173+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-28T13:56:51.5493249+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-30T08:57:00.940412+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-10T16:59:59.4228261+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-14T13:04:22.3396446+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-20T18:57:15.0306104+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-23T14:57:12.6111654+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-23T21:57:02.5077271+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-27T13:57:04.5292658+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-02T18:57:15.0741791+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-17T14:57:03.3479956+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-10T13:56:57.4692897+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-16T13:12:46.9561536+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 74
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Count": 77
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Count": 77
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Count": 66
-    },
-    {
-      "Text": "This game is Great for Beginners",
       "Count": 91
     },
     {
+      "Text": "This game has Amazing Characters",
+      "Count": 102
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 99
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 91
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 117
+    },
+    {
       "Text": "This game is Highly Recommended",
-      "Count": 67
+      "Count": 95
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 67
+      "Count": 94
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -742,15 +822,19 @@
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 67
+      "Count": 69
     },
     {
       "Text": "This game has Easy Combat",
-      "Count": 51
+      "Count": 75
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 70
+      "Count": 80
+    },
+    {
+      "Text": "This game is Educational",
+      "Count": 104
     }
   ]
 }

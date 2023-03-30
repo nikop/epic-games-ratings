@@ -1,7 +1,116 @@
 {
   "ID": "5db7394e65044dd1bb083ee983e2b3a5",
   "Name": "Severed Steel",
+  "Rating": 4.68,
   "FirstSeen": "2022-07-22T20:21:24.7272687+00:00",
-  "RatingHistory": [],
-  "Tags": []
+  "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
+  "LastChanged": "2023-01-30T17:58:05.3299147+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2022-12-28T18:57:32.9042651+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-28T21:57:45.7723989+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-29T15:57:28.2990432+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-30T03:57:21.7470562+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-30T05:57:25.117475+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-30T18:57:38.2580956+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-01T03:57:26.7041951+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-02T13:57:39.6188689+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-04T10:57:07.1965812+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-05T10:57:37.4248873+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-05T18:57:44.3109981+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-06T18:57:30.15916+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-08T02:11:57.0712245+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-13T14:57:31.2472485+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-14T06:57:30.7907275+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-15T22:57:22.5440261+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-17T02:07:53.1303222+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-18T13:11:23.3355903+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-27T02:10:07.9331601+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-30T17:58:05.329915+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": null
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Count": 150
+    }
+  ]
 }

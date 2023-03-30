@@ -4,7 +4,7 @@
   "Rating": 4.2,
   "NumberOfRatings": 711,
   "FirstSeen": "2022-07-22T20:16:54.1539465+00:00",
-  "LastChanged": "2022-11-20T02:43:44.3182015+00:00",
+  "LastChanged": "2022-12-31T14:56:59.7606412+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:54.1539467+00:00",
@@ -535,12 +535,42 @@
       "Time": "2022-11-20T02:43:44.3182017+00:00",
       "Rating": 4.2,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-07T17:57:09.7290788+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-09T10:56:50.7367951+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-25T22:56:51.22055+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-29T14:57:02.1929257+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-30T14:57:00.4325778+00:00",
+      "Rating": 4.21,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-31T14:56:59.7606413+00:00",
+      "Rating": 4.2,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Relaxing",
-      "Count": 20
+      "Count": 22
     }
   ]
 }

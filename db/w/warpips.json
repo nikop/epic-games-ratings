@@ -1,11 +1,11 @@
 {
   "ID": "277788d421e748e580ca0972c339f1a6",
   "Name": "Warpips",
-  "Rating": 4.56,
+  "Rating": 4.4,
   "NumberOfRatings": 31,
   "FirstSeen": "2022-07-22T20:30:43.3276462+00:00",
   "FirstSeenRating": "2022-08-17T17:32:36.298975+00:00",
-  "LastChanged": "2022-12-01T18:58:38.7484318+00:00",
+  "LastChanged": "2023-03-27T14:05:15.9743199+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-17T17:32:36.2989753+00:00",
@@ -165,6 +165,166 @@
     {
       "Time": "2022-12-01T18:58:38.7484319+00:00",
       "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-16T02:08:40.2602223+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-17T16:58:50.1676242+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-18T04:59:22.2482273+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-18T13:58:55.5752954+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-18T14:58:15.8265187+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-18T17:59:00.6328352+00:00",
+      "Rating": 4.33,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-19T11:58:14.0968496+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-19T16:58:19.8894966+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-19T20:59:17.7050594+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-20T13:14:24.495676+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-22T02:14:11.5902801+00:00",
+      "Rating": 4.33,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-22T15:58:11.0337793+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-23T04:58:22.8693307+00:00",
+      "Rating": 4.33,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-23T07:58:25.9493443+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-23T19:58:28.2466778+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-25T08:58:30.468767+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-25T13:58:24.1158237+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-25T23:58:43.7357354+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-28T21:58:22.1232319+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-02T04:58:25.8989934+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-02T21:58:01.0378814+00:00",
+      "Rating": 4.37,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-04T16:58:36.8176237+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-07T22:58:39.0260786+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-09T02:19:43.4505003+00:00",
+      "Rating": 4.38,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-14T17:07:35.679001+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-17T02:04:09.6754747+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-18T02:04:42.9768324+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-19T02:14:16.2520792+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-19T10:58:50.8877519+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-24T16:59:09.6094823+00:00",
+      "Rating": 4.4,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-26T13:58:03.7890899+00:00",
+      "Rating": 4.39,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-27T14:05:15.9743203+00:00",
+      "Rating": 4.4,
       "NumberOfRatings": null
     }
   ],

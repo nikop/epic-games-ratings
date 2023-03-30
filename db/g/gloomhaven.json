@@ -1,11 +1,11 @@
 {
   "ID": "bc079f73f020432fac896d30c8e2c330",
   "Name": "Gloomhaven",
-  "Rating": 4.46,
+  "Rating": 4.47,
   "NumberOfRatings": 68,
   "FirstSeen": "2022-09-22T18:02:13.8573093+00:00",
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
-  "LastChanged": "2022-11-16T22:57:26.3304118+00:00",
+  "LastChanged": "2023-01-08T19:57:32.324419+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-23T05:01:45.7957209+00:00",
@@ -236,48 +236,83 @@
       "Time": "2022-11-16T22:57:26.3304121+00:00",
       "Rating": 4.46,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-11T02:16:44.3221468+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-11T14:58:07.6262215+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-17T09:57:30.0594121+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-23T18:57:31.5722517+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-25T17:57:25.6535363+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-06T06:57:49.2438065+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-08T19:57:32.3244191+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 3146
+      "Count": 3411
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 448
+      "Count": 530
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 453
+      "Count": 509
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 452
+      "Count": 504
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 429
+      "Count": 504
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 398
+      "Count": 463
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 393
+      "Count": 460
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 296
+      "Count": 350
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 376
+      "Count": 457
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 380
+      "Count": 450
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -285,7 +320,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 169
+      "Count": 199
     }
   ]
 }

@@ -231,7 +231,43 @@
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 21
+      "Count": 34
+    },
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Count": 604
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 29
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 30
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 26
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 29
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 30
+    },
+    {
+      "Text": "This game has Playful Visuals",
+      "Count": 24
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 20
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 22
     }
   ]
 }

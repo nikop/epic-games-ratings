@@ -1,10 +1,10 @@
 {
   "ID": "45e7cf3c49054f2fb20b673d9b0ae69e",
   "Name": "Sonic Mania",
-  "Rating": 4.79,
+  "Rating": 4.78,
   "NumberOfRatings": 2185,
   "FirstSeen": "2022-07-22T20:24:14.1875943+00:00",
-  "LastChanged": "2022-11-26T23:57:13.6661303+00:00",
+  "LastChanged": "2023-03-16T22:57:51.8367113+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:14.1875945+00:00",
@@ -1115,12 +1115,17 @@
       "Time": "2022-11-26T23:57:13.6661303+00:00",
       "Rating": 4.79,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-16T22:57:51.8367114+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 871
+      "Count": 901
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1128,7 +1133,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 66
+      "Count": 69
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -1136,15 +1141,15 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 70
+      "Count": 72
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 63
+      "Count": 67
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 56
+      "Count": 63
     },
     {
       "Text": "This game has Competitive Players",
@@ -1152,27 +1157,27 @@
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 59
+      "Count": 68
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 51
-    },
-    {
-      "Text": "This game is Relaxing",
       "Count": 57
     },
     {
+      "Text": "This game is Relaxing",
+      "Count": 64
+    },
+    {
       "Text": "This game has Amazing Storytelling",
-      "Count": 54
+      "Count": 57
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 49
+      "Count": 50
     }
   ]
 }

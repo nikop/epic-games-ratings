@@ -1,10 +1,10 @@
 {
   "ID": "83d6990f16444655866b04be562bf589",
   "Name": "Riders Republic",
-  "Rating": 4.74,
+  "Rating": 4.75,
   "NumberOfRatings": 4120,
   "FirstSeen": "2022-07-22T20:20:50.8722129+00:00",
-  "LastChanged": "2022-10-25T14:31:43.8748763+00:00",
+  "LastChanged": "2023-03-26T14:57:05.8180647+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:50.8722132+00:00",
@@ -2085,12 +2085,47 @@
       "Time": "2022-10-25T14:31:43.8748766+00:00",
       "Rating": 4.74,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-18T07:57:15.497462+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-18T18:57:17.5065338+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-21T01:56:38.1079859+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-23T14:57:18.8825156+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-26T11:57:31.5094283+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-26T13:03:15.5579766+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-26T14:57:05.8180652+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 236
+      "Count": 343
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2098,43 +2133,43 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 228
+      "Count": 339
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 255
+      "Count": 346
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 230
+      "Count": 337
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 230
+      "Count": 328
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 236
+      "Count": 340
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 240
+      "Count": 340
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 282
+      "Count": 381
     },
     {
       "Text": "This game is Educational",
-      "Count": 221
+      "Count": 318
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 248
+      "Count": 358
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 223
+      "Count": 303
     }
   ]
 }

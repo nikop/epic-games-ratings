@@ -1,10 +1,10 @@
 {
   "ID": "c6e54ebd92da4ee8819c1c0956cebdc4",
   "Name": "OUTRIDERS",
-  "Rating": 4.43,
+  "Rating": 4.42,
   "NumberOfRatings": 1201,
   "FirstSeen": "2022-07-22T20:20:16.889814+00:00",
-  "LastChanged": "2022-11-28T05:57:11.1048063+00:00",
+  "LastChanged": "2023-03-27T22:57:22.290828+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:16.8898143+00:00",
@@ -1170,48 +1170,123 @@
       "Time": "2022-11-28T05:57:11.1048065+00:00",
       "Rating": 4.43,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-03T15:57:06.3672099+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-28T21:57:02.5540131+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-05T08:57:20.6550617+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-06T08:57:20.7402945+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-06T20:57:33.0594174+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-07T09:57:22.5736161+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-09T03:09:49.3369106+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-12T15:57:12.905658+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-16T02:12:53.4594152+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-18T08:57:22.0653711+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-19T17:57:28.2416257+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-18T15:57:22.9703189+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-19T20:57:14.8859629+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-26T19:57:25.3306017+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-27T22:57:22.2908282+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 916
+      "Count": 1060
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 140
+      "Count": 158
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 111
+      "Count": 133
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 128
+      "Count": 146
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 120
+      "Count": 148
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 124
+      "Count": 146
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 124
+      "Count": 139
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 116
+      "Count": 143
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 127
+      "Count": 152
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 112
+      "Count": 132
     },
     {
       "Text": "This game has Obsessive Gameplay",

@@ -1,10 +1,10 @@
 {
   "ID": "f9c2aedaff8442b286fbd026948b9f09",
   "Name": "Faeria",
-  "Rating": 4.43,
+  "Rating": 4.45,
   "NumberOfRatings": 194,
   "FirstSeen": "2022-07-22T20:17:47.9455282+00:00",
-  "LastChanged": "2022-11-30T20:56:48.0349958+00:00",
+  "LastChanged": "2023-02-27T06:57:27.1562371+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:47.9455285+00:00",
@@ -390,44 +390,74 @@
       "Time": "2022-11-30T20:56:48.034996+00:00",
       "Rating": 4.43,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-04T06:57:03.5103188+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-06T17:57:14.830399+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-28T18:57:16.636559+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-03T10:57:14.1981299+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-04T10:56:51.6069085+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-27T06:57:27.1562372+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 91
+      "Count": 102
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 30
+      "Count": 38
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 27
+      "Count": 29
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 27
+      "Count": 31
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 27
+      "Count": 31
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 25
-    },
-    {
-      "Text": "This game is Great for Beginners",
       "Count": 28
     },
     {
+      "Text": "This game is Great for Beginners",
+      "Count": 32
+    },
+    {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 25
+      "Count": 34
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 21
+      "Count": 25
     }
   ]
 }

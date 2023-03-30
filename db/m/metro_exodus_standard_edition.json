@@ -1,10 +1,10 @@
 {
   "ID": "snapdragon",
   "Name": "Metro Exodus Standard Edition",
-  "Rating": 4.8,
+  "Rating": 4.79,
   "NumberOfRatings": 7529,
   "FirstSeen": "2022-07-22T20:18:26.6430541+00:00",
-  "LastChanged": "2022-09-23T13:01:03.5120061+00:00",
+  "LastChanged": "2023-01-07T19:57:09.6883215+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:26.6430543+00:00",
@@ -2675,36 +2675,51 @@
       "Time": "2022-09-23T13:01:03.5120111+00:00",
       "Rating": 4.8,
       "NumberOfRatings": 7529
+    },
+    {
+      "Time": "2023-01-01T09:57:17.9811275+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-05T17:57:09.86662+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-07T19:57:09.6883218+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 5335
+      "Count": 5763
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 565
+      "Count": 620
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 507
+      "Count": 559
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 521
+      "Count": 555
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 553
+      "Count": 596
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 534
+      "Count": 587
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 537
+      "Count": 582
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2712,15 +2727,15 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 512
+      "Count": 552
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 497
+      "Count": 529
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 258
+      "Count": 276
     },
     {
       "Text": "This game has Realistic Visuals",

@@ -1,10 +1,10 @@
 {
   "ID": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
   "Name": "Overcooked! 2",
-  "Rating": 4.75,
+  "Rating": 4.74,
   "NumberOfRatings": 5157,
   "FirstSeen": "2022-07-22T20:16:55.1110041+00:00",
-  "LastChanged": "2022-09-23T11:00:33.6060911+00:00",
+  "LastChanged": "2022-12-29T14:57:02.2300626+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:55.1110044+00:00",
@@ -1815,12 +1815,17 @@
       "Time": "2022-09-23T11:00:33.6060912+00:00",
       "Rating": 4.75,
       "NumberOfRatings": 5157
+    },
+    {
+      "Time": "2022-12-29T14:57:02.2300629+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 182
+      "Count": 209
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1828,47 +1833,47 @@
     },
     {
       "Text": "This game is Educational",
-      "Count": 162
+      "Count": 189
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 173
+      "Count": 182
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 147
+      "Count": 159
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 206
+      "Count": 222
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 162
+      "Count": 175
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 165
+      "Count": 187
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 161
+      "Count": 178
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 146
+      "Count": 166
     },
     {
       "Text": "This game has Playful Visuals",
-      "Count": 129
+      "Count": 144
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 99
+      "Count": 104
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 155
+      "Count": 177
     }
   ]
 }

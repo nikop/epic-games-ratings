@@ -1,10 +1,10 @@
 {
   "ID": "2736ab9fec9c4a93a7a2872ed5154d4b",
   "Name": "Rage 2",
-  "Rating": 4.29,
+  "Rating": 4.28,
   "NumberOfRatings": 4311,
   "FirstSeen": "2022-07-22T20:21:59.0256751+00:00",
-  "LastChanged": "2022-12-02T02:11:49.3089975+00:00",
+  "LastChanged": "2023-01-07T03:57:12.5147593+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:59.0256753+00:00",
@@ -1785,44 +1785,79 @@
       "Time": "2022-12-02T02:11:49.3089975+00:00",
       "Rating": 4.29,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-04T14:57:27.3907022+00:00",
+      "Rating": 4.28,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-05T13:57:16.0098497+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-25T17:57:21.5969018+00:00",
+      "Rating": 4.28,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-26T18:57:29.0952395+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-26T23:57:11.2168884+00:00",
+      "Rating": 4.28,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-29T16:57:58.5363061+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-07T03:57:12.5147595+00:00",
+      "Rating": 4.28,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 2185
+      "Count": 2407
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 105
+      "Count": 118
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 115
+      "Count": 125
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 108
+      "Count": 114
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 94
+      "Count": 111
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 96
+      "Count": 99
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 117
+      "Count": 128
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 100
+      "Count": 110
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 30
+      "Count": 32
     }
   ]
 }

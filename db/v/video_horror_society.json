@@ -1,10 +1,10 @@
 {
   "ID": "90487cf458a143ff921d3ca365ad4fd6",
   "Name": "Video Horror Society",
-  "Rating": 4.26,
+  "Rating": 4.27,
   "NumberOfRatings": 559,
   "FirstSeen": "2022-07-22T20:25:40.6568691+00:00",
-  "LastChanged": "2022-11-01T16:32:16.3823746+00:00",
+  "LastChanged": "2023-02-25T02:13:10.3114406+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:40.6568694+00:00",
@@ -965,20 +965,25 @@
       "Time": "2022-11-01T16:32:16.3823748+00:00",
       "Rating": 4.26,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-25T02:13:10.3114408+00:00",
+      "Rating": 4.27,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 287
+      "Count": 297
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 59
+      "Count": 61
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 66
+      "Count": 67
     },
     {
       "Text": "This game is Highly Recommended",
@@ -986,7 +991,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 62
+      "Count": 65
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -994,11 +999,11 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 61
+      "Count": 66
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 58
+      "Count": 59
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1006,11 +1011,11 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 58
+      "Count": 59
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 66
+      "Count": 68
     },
     {
       "Text": "This game is Relaxing",

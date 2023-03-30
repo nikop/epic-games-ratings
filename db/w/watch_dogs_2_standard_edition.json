@@ -1,10 +1,10 @@
 {
   "ID": "angelonia",
   "Name": "Watch Dogs 2 Standard Edition",
-  "Rating": 4.58,
+  "Rating": 4.59,
   "NumberOfRatings": 6460,
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2022-11-16T17:57:07.6004533+00:00",
+  "LastChanged": "2022-12-04T22:57:17.9125427+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:47.2553497+00:00",
@@ -2330,32 +2330,37 @@
       "Time": "2022-11-16T17:57:07.6004538+00:00",
       "Rating": 4.58,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-04T22:57:17.9125429+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Amazing Characters",
-      "Count": 213
+      "Count": 274
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 206
+      "Count": 273
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 195
+      "Count": 258
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 210
+      "Count": 295
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 202
+      "Count": 283
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 208
+      "Count": 269
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2367,11 +2372,11 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 197
+      "Count": 273
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 183
+      "Count": 240
     }
   ]
 }

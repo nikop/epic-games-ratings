@@ -1,11 +1,11 @@
 {
   "ID": "d14dcbe6b15b4fe191ff00880b9927f2",
   "Name": "F1\u00AE Manager 2022",
-  "Rating": 4.57,
+  "Rating": 4.58,
   "NumberOfRatings": 810,
   "FirstSeen": "2022-08-30T14:01:37.4479981+00:00",
   "FirstSeenRating": "2022-08-30T21:30:24.1805179+00:00",
-  "LastChanged": "2022-11-11T02:52:05.4891989+00:00",
+  "LastChanged": "2023-02-27T21:56:49.8194138+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-30T21:30:24.1805182+00:00",
@@ -876,24 +876,59 @@
       "Time": "2022-11-11T02:52:05.489199+00:00",
       "Rating": 4.57,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-05T20:57:03.0083728+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-20T13:57:06.5878274+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-21T18:58:21.2699063+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-24T17:57:00.5796657+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-25T13:09:43.5178013+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-27T16:57:32.4137612+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-27T21:56:49.8194141+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
-      "Count": 172
+      "Count": 188
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 202
+      "Count": 226
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 182
+      "Count": 198
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 189
+      "Count": 207
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -901,23 +936,23 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 184
+      "Count": 197
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 162
+      "Count": 172
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 186
+      "Count": 204
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 167
+      "Count": 191
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 137
+      "Count": 151
     },
     {
       "Text": "This game has a Competitive Community",

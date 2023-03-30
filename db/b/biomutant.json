@@ -4,7 +4,7 @@
   "Rating": 4.33,
   "NumberOfRatings": 198,
   "FirstSeen": "2022-07-22T20:21:34.6090065+00:00",
-  "LastChanged": "2022-12-01T13:23:12.0506499+00:00",
+  "LastChanged": "2023-03-17T11:57:39.7401801+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:34.6090067+00:00",
@@ -350,16 +350,66 @@
       "Time": "2022-12-01T13:23:12.0506501+00:00",
       "Rating": 4.33,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-06T13:14:48.4814003+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-27T19:57:24.0067305+00:00",
+      "Rating": 4.31,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-28T19:57:28.2685787+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-05T20:57:34.7330248+00:00",
+      "Rating": 4.31,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-08T20:57:32.6542324+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-31T21:57:26.3948427+00:00",
+      "Rating": 4.31,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-05T22:57:19.3283749+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-08T14:57:22.8404056+00:00",
+      "Rating": 4.33,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-15T11:57:41.3056187+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-17T11:57:39.7401803+00:00",
+      "Rating": 4.33,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 107
+      "Count": 113
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 41
+      "Count": 43
     }
   ]
 }

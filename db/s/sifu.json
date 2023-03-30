@@ -1,10 +1,10 @@
 {
   "ID": "b7b42e2078524ab386a8b2a9856ef557",
   "Name": "Sifu",
-  "Rating": 4.8,
+  "Rating": 4.81,
   "NumberOfRatings": 9492,
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
-  "LastChanged": "2022-11-26T02:14:27.7629218+00:00",
+  "LastChanged": "2022-12-16T02:57:36.7566435+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:06.0099469+00:00",
@@ -2750,40 +2750,55 @@
       "Time": "2022-11-26T02:14:27.7629219+00:00",
       "Rating": 4.8,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-15T03:11:45.4964288+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-15T19:57:34.4486941+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-16T02:57:36.7566436+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 4970
+      "Count": 5752
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 382
+      "Count": 462
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 387
+      "Count": 461
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 364
+      "Count": 443
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 362
+      "Count": 425
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 358
+      "Count": 458
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 379
+      "Count": 401
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 372
+      "Count": 458
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2791,15 +2806,15 @@
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 332
+      "Count": 419
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 376
+      "Count": 444
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 241
+      "Count": 310
     }
   ]
 }

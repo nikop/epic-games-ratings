@@ -1,10 +1,10 @@
 {
   "ID": "253d451b16364a22907dd01b7e928fb6",
   "Name": "Horizon Chase Turbo",
-  "Rating": 4.6,
+  "Rating": 4.56,
   "NumberOfRatings": 1343,
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
-  "LastChanged": "2022-11-26T13:11:30.7163496+00:00",
+  "LastChanged": "2023-02-17T05:57:01.3230796+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:20.5347353+00:00",
@@ -1115,40 +1115,90 @@
       "Time": "2022-11-26T13:11:30.7163498+00:00",
       "Rating": 4.6,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-07T15:57:09.9906578+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-17T14:57:03.8115006+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-17T23:57:08.7856413+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-20T08:57:15.6003786+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-21T19:57:06.8070423+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-25T05:57:24.6319498+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-30T05:57:10.2083815+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-30T16:57:06.4682514+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-18T18:56:58.3840237+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-17T05:57:01.3230799+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 91
+      "Count": 126
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 91
+      "Count": 110
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 75
+      "Count": 100
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 61
+      "Count": 81
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 73
+      "Count": 95
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 62
+      "Count": 94
     },
     {
       "Text": "This game has Playful Visuals",
-      "Count": 70
+      "Count": 92
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 83
+      "Count": 107
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1156,15 +1206,15 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 56
+      "Count": 76
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 69
+      "Count": 86
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 49
+      "Count": 65
     }
   ]
 }

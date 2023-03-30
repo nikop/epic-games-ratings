@@ -4,7 +4,7 @@
   "Rating": 4.74,
   "NumberOfRatings": 135,
   "FirstSeen": "2022-07-22T20:24:13.2126101+00:00",
-  "LastChanged": "2022-11-27T16:57:49.006965+00:00",
+  "LastChanged": "2023-02-13T17:57:46.5363813+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:13.2126103+00:00",
@@ -270,12 +270,42 @@
       "Time": "2022-11-27T16:57:49.0069654+00:00",
       "Rating": 4.74,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-16T18:58:02.3647432+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-28T03:57:50.2209418+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-31T03:57:34.5426599+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-09T03:58:08.8964734+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-27T05:58:04.2056825+00:00",
+      "Rating": 4.75,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-13T17:57:46.5363815+00:00",
+      "Rating": 4.74,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 37
+      "Count": 41
     }
   ]
 }

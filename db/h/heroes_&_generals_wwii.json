@@ -4,7 +4,7 @@
   "Rating": 4.23,
   "NumberOfRatings": 4634,
   "FirstSeen": "2022-07-22T20:17:51.2948147+00:00",
-  "LastChanged": "2022-10-22T00:30:51.2246973+00:00",
+  "LastChanged": "2023-03-23T17:57:25.8362892+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:51.2948149+00:00",
@@ -2750,24 +2750,84 @@
       "Time": "2022-10-22T00:30:51.2246976+00:00",
       "Rating": 4.23,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-11T11:57:00.7305321+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-11T15:57:05.2598831+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-11T23:57:00.6276828+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-13T14:57:08.1876621+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-13T21:57:13.9597918+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-16T21:56:54.4225795+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-18T09:57:13.9063318+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-18T13:57:18.1017816+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-19T10:57:15.4450539+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-22T18:57:21.4571776+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-22T22:56:53.6853488+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-23T17:57:25.8362894+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
-      "Count": 874
+      "Count": 969
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 799
+      "Count": 879
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 798
+      "Count": 879
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 784
+      "Count": 850
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2775,19 +2835,19 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 848
+      "Count": 921
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 749
+      "Count": 809
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 713
+      "Count": 791
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 634
+      "Count": 708
     }
   ]
 }

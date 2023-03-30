@@ -1,10 +1,10 @@
 {
   "ID": "2dbd2f64abdc4bbab077424d5c85e01b",
   "Name": "Ghost Recon Breakpoint Standard Edition",
-  "Rating": 4.53,
+  "Rating": 4.54,
   "NumberOfRatings": 4870,
   "FirstSeen": "2022-07-22T20:18:01.6049154+00:00",
-  "LastChanged": "2022-11-18T09:57:00.423415+00:00",
+  "LastChanged": "2023-01-13T03:02:27.1781567+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:01.6049159+00:00",
@@ -2435,36 +2435,41 @@
       "Time": "2022-11-18T09:57:00.4234151+00:00",
       "Rating": 4.53,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-13T03:02:27.1781569+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
-      "Count": 590
+      "Count": 807
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 685
+      "Count": 927
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 553
+      "Count": 730
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 563
+      "Count": 786
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 641
+      "Count": 859
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 602
+      "Count": 812
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 596
+      "Count": 799
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2472,11 +2477,11 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 588
+      "Count": 825
     },
     {
       "Text": "This game has Realistic Visuals",
-      "Count": 495
+      "Count": 654
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "ID": "25e53de2e4ab4da8aa589d881273a11c",
   "Name": "Pillars of Eternity - Definitive Edition",
-  "Rating": 4.65,
+  "Rating": 4.66,
   "NumberOfRatings": 2847,
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
-  "LastChanged": "2022-11-18T20:57:35.8615594+00:00",
+  "LastChanged": "2022-12-03T22:00:47.0846931+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:19.0250265+00:00",
@@ -2140,44 +2140,49 @@
       "Time": "2022-11-18T20:57:35.8615596+00:00",
       "Rating": 4.65,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-03T22:00:47.0846932+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 1751
+      "Count": 1853
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 303
+      "Count": 324
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 305
+      "Count": 331
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 274
+      "Count": 298
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 294
+      "Count": 311
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 283
+      "Count": 303
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 299
+      "Count": 324
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 306
+      "Count": 332
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 284
+      "Count": 305
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2185,7 +2190,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 170
+      "Count": 183
     }
   ]
 }

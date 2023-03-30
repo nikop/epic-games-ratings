@@ -4,7 +4,7 @@
   "Rating": 4.55,
   "NumberOfRatings": 1374,
   "FirstSeen": "2022-07-22T20:16:49.0940249+00:00",
-  "LastChanged": "2022-11-26T06:56:56.8151173+00:00",
+  "LastChanged": "2023-03-19T21:56:45.8807933+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:49.0940252+00:00",
@@ -1705,12 +1705,102 @@
       "Time": "2022-11-26T06:56:56.8151174+00:00",
       "Rating": 4.55,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-11T18:56:56.3105457+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-12T13:13:41.4895264+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-14T17:57:18.9492551+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-16T16:57:07.720747+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-02T18:56:49.3583795+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-03T23:57:05.6943612+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-27T04:56:58.5224371+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-01T18:58:16.5171614+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-01T20:57:06.5364587+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-02T18:56:55.703162+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-04T08:56:41.3074936+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-05T13:57:07.7402765+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-05T15:57:06.0131+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-06T10:56:55.7813604+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-13T04:56:56.4233737+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-16T02:05:08.611977+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-19T19:56:48.614746+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-19T21:56:45.8807934+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
-      "Count": 731
+      "Count": 1014
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1718,31 +1808,31 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 698
+      "Count": 959
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 720
+      "Count": 980
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 710
+      "Count": 956
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 649
+      "Count": 900
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 684
+      "Count": 939
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 631
+      "Count": 878
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 483
+      "Count": 685
     }
   ]
 }

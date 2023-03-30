@@ -4,7 +4,7 @@
   "Rating": 4.29,
   "NumberOfRatings": 432,
   "FirstSeen": "2022-07-22T20:20:30.0277807+00:00",
-  "LastChanged": "2022-11-19T13:15:00.6339314+00:00",
+  "LastChanged": "2023-02-10T02:16:11.4597976+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:30.0277811+00:00",
@@ -585,16 +585,26 @@
       "Time": "2022-11-19T13:15:00.6339317+00:00",
       "Rating": 4.29,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-21T02:05:56.696325+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-10T02:16:11.4597977+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Relaxing",
-      "Count": 38
+      "Count": 42
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 38
+      "Count": 42
     },
     {
       "Text": "This game is Educational",
@@ -602,15 +612,15 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 30
+      "Count": 34
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 34
+      "Count": 36
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -618,7 +628,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 26
+      "Count": 30
     }
   ]
 }

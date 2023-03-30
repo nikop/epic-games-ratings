@@ -4,7 +4,7 @@
   "Rating": 4.58,
   "NumberOfRatings": 1941,
   "FirstSeen": "2022-07-22T20:22:06.6335859+00:00",
-  "LastChanged": "2022-11-21T02:42:46.9735852+00:00",
+  "LastChanged": "2023-01-28T19:57:39.2010539+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:06.6335861+00:00",
@@ -855,44 +855,74 @@
       "Time": "2022-11-21T02:42:46.9735854+00:00",
       "Rating": 4.58,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-31T03:57:20.6663515+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-10T17:00:23.4475094+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-21T19:57:28.8136371+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-25T19:57:23.3519175+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-27T19:57:24.9160152+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-28T19:57:39.201054+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
-      "Count": 47
+      "Count": 49
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 45
+      "Count": 50
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 36
+      "Count": 42
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 37
+      "Count": 42
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 32
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Count": 35
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Count": 29
-    },
-    {
-      "Text": "This game has Amazing Characters",
       "Count": 38
     },
     {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 36
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 36
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 40
+    },
+    {
       "Text": "This game has Unique Visuals",
-      "Count": 29
+      "Count": 31
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -900,7 +930,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 22
+      "Count": 25
     }
   ]
 }

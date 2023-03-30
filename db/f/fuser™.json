@@ -1,10 +1,10 @@
 {
   "ID": "6af58339c2424644988e0fb83dfd9bd5",
   "Name": "FUSER\u2122",
-  "Rating": 4.73,
+  "Rating": 4.71,
   "NumberOfRatings": 86,
   "FirstSeen": "2022-07-22T20:17:53.9357224+00:00",
-  "LastChanged": "2022-11-21T13:29:10.3121287+00:00",
+  "LastChanged": "2023-01-12T21:57:19.0247448+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:53.9357226+00:00",
@@ -215,24 +215,29 @@
       "Time": "2022-11-21T13:29:10.312129+00:00",
       "Rating": 4.73,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-12T21:57:19.024745+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 32
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Count": 30
-    },
-    {
-      "Text": "This game is Highly Recommended",
       "Count": 33
     },
     {
+      "Text": "This game has Diverse Characters",
+      "Count": 34
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 35
+    },
+    {
       "Text": "This game has a Creative Community",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game is Great for Beginners",
@@ -240,7 +245,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -248,15 +253,15 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 29
+      "Count": 31
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 26
+      "Count": 28
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has Amazing Characters",
@@ -264,7 +269,7 @@
     },
     {
       "Text": "This game is Educational",
-      "Count": 33
+      "Count": 35
     }
   ]
 }

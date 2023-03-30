@@ -4,7 +4,7 @@
   "Rating": 4.84,
   "NumberOfRatings": 66,
   "FirstSeen": "2022-07-22T20:19:45.8967483+00:00",
-  "LastChanged": "2022-11-29T16:58:32.1773928+00:00",
+  "LastChanged": "2023-02-16T16:57:23.951135+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:45.8967486+00:00",
@@ -180,12 +180,32 @@
       "Time": "2022-11-29T16:58:32.177393+00:00",
       "Rating": 4.84,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-21T21:57:02.6435128+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-02T19:57:46.4762918+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-14T16:57:50.5893539+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-16T16:57:23.9511354+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 41
+      "Count": 50
     }
   ]
 }

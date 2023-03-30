@@ -4,7 +4,7 @@
   "Rating": 4.45,
   "NumberOfRatings": 2008,
   "FirstSeen": "2022-07-22T20:18:35.4138302+00:00",
-  "LastChanged": "2022-11-22T02:39:58.1473106+00:00",
+  "LastChanged": "2022-12-31T11:57:11.2613785+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:35.4138307+00:00",
@@ -1540,12 +1540,42 @@
       "Time": "2022-11-22T02:39:58.1473108+00:00",
       "Rating": 4.45,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-15T16:58:02.7728829+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-18T08:56:59.8612697+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-23T16:57:09.923284+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-29T19:57:08.002804+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-30T05:57:04.4522225+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-31T11:57:11.2613787+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 92
+      "Count": 98
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1553,35 +1583,35 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 99
+      "Count": 104
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 103
+      "Count": 113
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 87
+      "Count": 96
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 78
+      "Count": 82
     },
     {
       "Text": "This game is Educational",
-      "Count": 75
+      "Count": 104
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 93
+      "Count": 99
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 58
+      "Count": 67
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 94
+      "Count": 109
     },
     {
       "Text": "This game has Playful Visuals",

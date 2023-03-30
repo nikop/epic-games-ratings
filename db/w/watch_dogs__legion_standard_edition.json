@@ -1,10 +1,10 @@
 {
   "ID": "0a84818055e740a7be21a2e5b6162703",
   "Name": "Watch Dogs: Legion Standard Edition",
-  "Rating": 4.34,
+  "Rating": 4.36,
   "NumberOfRatings": 1361,
   "FirstSeen": "2022-07-22T20:17:59.5198477+00:00",
-  "LastChanged": "2022-12-02T21:57:11.4606405+00:00",
+  "LastChanged": "2023-03-29T19:57:22.7729389+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:59.519848+00:00",
@@ -1055,20 +1055,40 @@
       "Time": "2022-12-02T21:57:11.4606406+00:00",
       "Rating": 4.34,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-24T02:57:25.1300267+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-17T21:57:08.7891266+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-12T13:07:53.3185749+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-29T19:57:22.772939+00:00",
+      "Rating": 4.36,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
-      "Count": 45
+      "Count": 65
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 49
+      "Count": 73
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 52
+      "Count": 68
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1076,27 +1096,27 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 47
+      "Count": 61
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 45
+      "Count": 61
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 44
+      "Count": 62
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 47
+      "Count": 64
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 37
+      "Count": 54
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 26
+      "Count": 35
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "ID": "1fe9a1a33a8b4df8bd8dd3b9269f8153",
   "Name": "Animation Throwdown: The Quest for Cards",
-  "Rating": 4.34,
+  "Rating": 4.32,
   "NumberOfRatings": 874,
   "FirstSeen": "2022-07-22T20:16:50.5721144+00:00",
-  "LastChanged": "2022-11-26T17:56:45.5308083+00:00",
+  "LastChanged": "2023-03-28T18:56:44.4195781+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:50.5721147+00:00",
@@ -970,40 +970,80 @@
       "Time": "2022-11-26T17:56:45.5308084+00:00",
       "Rating": 4.34,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-13T10:56:58.8732333+00:00",
+      "Rating": 4.33,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-02T16:57:05.1174802+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-03T02:14:01.9941299+00:00",
+      "Rating": 4.33,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-04T18:57:13.4644856+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-17T07:56:42.9680915+00:00",
+      "Rating": 4.33,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-22T19:56:50.7808714+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-24T23:56:44.6053478+00:00",
+      "Rating": 4.33,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-28T18:56:44.4195782+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Relaxing",
-      "Count": 281
+      "Count": 291
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 280
+      "Count": 296
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 299
+      "Count": 332
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 270
+      "Count": 308
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 272
+      "Count": 288
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 249
+      "Count": 269
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 279
+      "Count": 307
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 254
+      "Count": 270
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1011,7 +1051,7 @@
     },
     {
       "Text": "This game has Playful Visuals",
-      "Count": 212
+      "Count": 221
     }
   ]
 }

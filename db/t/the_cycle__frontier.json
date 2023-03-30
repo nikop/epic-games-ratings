@@ -1,10 +1,10 @@
 {
   "ID": "azalea",
   "Name": "The Cycle: Frontier",
-  "Rating": 4.11,
+  "Rating": 4.1,
   "NumberOfRatings": 15671,
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "LastChanged": "2022-10-27T07:30:39.1088845+00:00",
+  "LastChanged": "2023-02-14T17:57:32.4141181+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:03.6642348+00:00",
@@ -3170,36 +3170,61 @@
       "Time": "2022-10-27T07:30:39.1088847+00:00",
       "Rating": 4.11,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-24T05:56:58.1928516+00:00",
+      "Rating": 4.1,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-27T19:57:05.8256721+00:00",
+      "Rating": 4.11,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-28T13:56:59.7292199+00:00",
+      "Rating": 4.1,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-30T17:57:49.0349208+00:00",
+      "Rating": 4.11,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-14T17:57:32.4141183+00:00",
+      "Rating": 4.1,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Competitive Players",
-      "Count": 1919
+      "Count": 2117
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 1873
+      "Count": 2057
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 1823
+      "Count": 2018
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 1867
+      "Count": 2081
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 1878
+      "Count": 2103
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 1504
+      "Count": 1687
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 1699
+      "Count": 1865
     }
   ]
 }

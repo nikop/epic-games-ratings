@@ -1,10 +1,10 @@
 {
   "ID": "7061cd389bdc4c068910da67cd8e154c",
   "Name": "MONOPOLY\u00AE PLUS",
-  "Rating": 3.83,
+  "Rating": 3.92,
   "NumberOfRatings": 142,
   "FirstSeen": "2022-07-22T20:30:40.4652835+00:00",
-  "LastChanged": "2022-11-28T02:20:32.8595629+00:00",
+  "LastChanged": "2023-03-21T13:58:50.2578921+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:40.4652838+00:00",
@@ -314,6 +314,91 @@
     {
       "Time": "2022-11-28T02:20:32.859563+00:00",
       "Rating": 3.83,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-03T16:57:57.9947381+00:00",
+      "Rating": 3.84,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-05T16:58:11.5784117+00:00",
+      "Rating": 3.86,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-19T03:58:15.902115+00:00",
+      "Rating": 3.88,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-24T04:58:45.1656492+00:00",
+      "Rating": 3.87,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-26T16:58:45.3753709+00:00",
+      "Rating": 3.88,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-29T16:59:03.9704376+00:00",
+      "Rating": 3.89,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-04T17:58:12.7708703+00:00",
+      "Rating": 3.9,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-06T05:57:54.1176721+00:00",
+      "Rating": 3.91,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-08T22:58:12.9928302+00:00",
+      "Rating": 3.92,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-16T04:58:26.3192854+00:00",
+      "Rating": 3.93,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-11T13:09:47.5847978+00:00",
+      "Rating": 3.94,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-01T13:58:03.23963+00:00",
+      "Rating": 3.95,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-07T13:59:13.1947493+00:00",
+      "Rating": 3.94,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-15T13:58:26.4476077+00:00",
+      "Rating": 3.95,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-18T13:59:14.1297889+00:00",
+      "Rating": 3.94,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-19T13:58:09.8437183+00:00",
+      "Rating": 3.93,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-21T13:58:50.2578924+00:00",
+      "Rating": 3.92,
       "NumberOfRatings": null
     }
   ],

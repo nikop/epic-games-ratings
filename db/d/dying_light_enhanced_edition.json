@@ -1,10 +1,10 @@
 {
   "ID": "2c42520d342a46d7a6e0cfa77b4715de",
   "Name": "Dying Light Enhanced Edition",
-  "Rating": 4.69,
+  "Rating": 4.68,
   "NumberOfRatings": 3181,
   "FirstSeen": "2022-07-22T20:18:05.0678131+00:00",
-  "LastChanged": "2022-10-30T15:00:34.5169578+00:00",
+  "LastChanged": "2023-03-11T14:57:05.7638508+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:05.0678134+00:00",
@@ -2315,40 +2315,95 @@
       "Time": "2022-10-30T15:00:34.516958+00:00",
       "Rating": 4.69,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-17T08:57:13.620153+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-18T04:58:17.906278+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-22T18:57:14.9084397+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-25T05:57:05.790533+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-26T14:57:07.4009574+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-26T19:57:03.0256277+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-26T22:57:15.9798968+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-27T14:57:26.9166234+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-07T11:57:23.8718474+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-08T14:57:00.7657593+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-11T14:57:05.7638511+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 3462
+      "Count": 3865
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 2566
+      "Count": 2819
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 565
+      "Count": 646
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 565
+      "Count": 627
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 560
+      "Count": 609
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 508
+      "Count": 553
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 509
+      "Count": 560
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 543
+      "Count": 593
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2360,15 +2415,15 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 532
+      "Count": 580
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 518
+      "Count": 566
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 386
+      "Count": 436
     }
   ]
 }

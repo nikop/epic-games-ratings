@@ -1,10 +1,10 @@
 {
   "ID": "3a212c0da4f1438e840c21565df4b6fe",
   "Name": "MultiVersus",
-  "Rating": 4.57,
+  "Rating": 4.56,
   "NumberOfRatings": 55748,
   "FirstSeen": "2022-07-26T18:01:28.8669143+00:00",
-  "LastChanged": "2022-09-23T14:31:00.8858967+00:00",
+  "LastChanged": "2023-03-02T22:57:46.0191523+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-27T00:00:54.22041+00:00",
@@ -3035,44 +3035,49 @@
       "Time": "2022-09-23T14:31:00.8858969+00:00",
       "Rating": 4.57,
       "NumberOfRatings": 55748
+    },
+    {
+      "Time": "2023-03-02T22:57:46.0191526+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 4316
+      "Count": 4410
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 4365
+      "Count": 4495
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 4598
+      "Count": 4724
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 4132
+      "Count": 4217
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 4411
+      "Count": 4508
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 3852
+      "Count": 3929
     },
     {
       "Text": "This game has Playful Visuals",
-      "Count": 3521
+      "Count": 3600
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 4052
+      "Count": 4138
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 3526
+      "Count": 3599
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3084,11 +3089,11 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 4467
+      "Count": 4546
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 3314
+      "Count": 3395
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
-  "Rating": 4.57,
+  "Rating": 4.56,
   "NumberOfRatings": 98,
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
-  "LastChanged": "2022-12-02T16:57:11.3478031+00:00",
+  "LastChanged": "2023-03-21T21:57:19.284942+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-15T19:30:41.9786444+00:00",
@@ -336,24 +336,109 @@
       "Time": "2022-12-02T16:57:11.3478035+00:00",
       "Rating": 4.57,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-04T15:57:03.9962907+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-05T19:57:11.812471+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-10T13:57:14.8934082+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-01T17:57:19.5583487+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-02T13:57:18.9731319+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-02T14:57:14.7906394+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-02T18:57:19.6447484+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-03T17:57:30.4606726+00:00",
+      "Rating": 4.59,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-07T15:57:20.4671842+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-04T21:57:07.4067937+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-05T21:57:16.9300547+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-14T18:59:04.5046608+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-21T21:57:19.2849422+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
-      "Count": 24
+      "Count": 29
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 21
+      "Count": 25
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 20
+      "Count": 26
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 20
+      "Count": 24
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 24
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 23
+    },
+    {
+      "Text": "This game is Educational",
+      "Count": 26
+    },
+    {
+      "Text": "This game has Realistic Visuals",
+      "Count": 23
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Count": 21
     }
   ]
 }

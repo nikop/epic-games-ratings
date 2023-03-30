@@ -1,10 +1,10 @@
 {
   "ID": "e9e3ee13329f434f94105e6ec63435e0",
   "Name": "BioShock Remastered",
-  "Rating": 4.63,
+  "Rating": 4.64,
   "NumberOfRatings": 24195,
   "FirstSeen": "2022-07-22T20:33:07.4798792+00:00",
-  "LastChanged": "2022-11-12T05:03:11.5767664+00:00",
+  "LastChanged": "2023-01-23T22:58:29.1100702+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:33:07.4798795+00:00",
@@ -1820,16 +1820,21 @@
       "Time": "2022-11-12T05:03:11.5767668+00:00",
       "Rating": 4.63,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-23T22:58:29.1100705+00:00",
+      "Rating": 4.64,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 5567
+      "Count": 5812
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 132
+      "Count": 138
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1837,39 +1842,39 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 107
+      "Count": 113
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 132
+      "Count": 139
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 121
+      "Count": 124
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 130
+      "Count": 141
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 136
+      "Count": 145
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 131
+      "Count": 135
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 106
+      "Count": 111
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 70
+      "Count": 74
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 120
+      "Count": 129
     }
   ]
 }

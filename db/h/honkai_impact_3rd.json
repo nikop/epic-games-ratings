@@ -1,10 +1,10 @@
 {
   "ID": "d2d162953fec40e381867d7af8371362",
   "Name": "Honkai Impact 3rd",
-  "Rating": 4.45,
+  "Rating": 4.49,
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
-  "LastChanged": "2022-12-02T03:56:56.750454+00:00",
+  "LastChanged": "2023-03-23T03:57:13.7918109+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-28T11:32:15.7744845+00:00",
@@ -180,32 +180,162 @@
       "Time": "2022-12-02T03:56:56.7504542+00:00",
       "Rating": 4.45,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-05T03:57:03.4973083+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-05T10:57:08.9734103+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-05T14:57:13.0528913+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-16T17:57:07.9781079+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-24T23:56:54.0217182+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-25T18:57:04.2681008+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-26T08:57:00.1994114+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-26T18:56:56.3064727+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-27T13:57:16.7964509+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-01T05:56:48.467771+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-01T08:57:19.186313+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-01T11:57:17.6427631+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-08T05:56:53.6361994+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-09T14:57:19.9105734+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-19T16:57:01.8743962+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-19T21:57:06.0052825+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-20T07:57:09.2017809+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-20T13:57:06.0349339+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-20T19:57:12.2373808+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-24T04:57:05.3272192+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-01T20:57:10.8275819+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-22T06:57:16.1594937+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-22T14:56:51.3909736+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-22T18:57:13.5776139+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-23T01:58:03.2743919+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-23T03:57:13.7918112+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 957
+      "Count": 1983
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 559
+      "Count": 1433
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 51
+      "Count": 315
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 62
+      "Count": 295
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 55
+      "Count": 271
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 44
+      "Count": 258
     },
     {
       "Text": "This game has Challenging Combat",
@@ -213,19 +343,19 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 47
+      "Count": 272
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 57
+      "Count": 302
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 44
+      "Count": 253
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 41
+      "Count": 291
     },
     {
       "Text": "This game has a Kind Community",
@@ -233,7 +363,11 @@
     },
     {
       "Text": "This game has Beautiful Visuals",
-      "Count": 42
+      "Count": 287
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Count": 330
     }
   ]
 }

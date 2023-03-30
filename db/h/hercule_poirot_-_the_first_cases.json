@@ -1,7 +1,16 @@
 {
   "ID": "711c559363934d6eb17c6ff3f0539b2b",
   "Name": "Hercule Poirot - The First Cases",
+  "Rating": 4.3,
   "FirstSeen": "2022-07-22T20:32:42.6542114+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
+  "LastChanged": "2023-01-28T08:58:06.9323919+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-01-28T08:58:06.9323921+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }

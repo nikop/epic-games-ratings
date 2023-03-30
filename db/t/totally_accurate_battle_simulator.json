@@ -1,10 +1,10 @@
 {
   "ID": "ffe512fa1e594ee6a75d4643d1e21b43",
   "Name": "Totally Accurate Battle Simulator",
-  "Rating": 4.78,
+  "Rating": 4.77,
   "NumberOfRatings": 2102,
   "FirstSeen": "2022-07-22T20:25:14.6922177+00:00",
-  "LastChanged": "2022-11-03T17:03:00.0637238+00:00",
+  "LastChanged": "2022-12-18T20:58:15.0845662+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:14.6922179+00:00",
@@ -1790,32 +1790,47 @@
       "Time": "2022-11-03T17:03:00.0637241+00:00",
       "Rating": 4.78,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-16T13:08:20.0563202+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-18T08:57:49.2262027+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-18T20:58:15.0845665+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 231
+      "Count": 265
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 267
+      "Count": 309
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 257
+      "Count": 303
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 241
+      "Count": 284
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 214
+      "Count": 258
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 188
+      "Count": 238
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1823,19 +1838,19 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 247
+      "Count": 303
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 217
+      "Count": 255
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 217
+      "Count": 256
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 221
+      "Count": 257
     },
     {
       "Text": "This game has Playful Visuals",
@@ -1847,7 +1862,7 @@
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 216
+      "Count": 232
     }
   ]
 }

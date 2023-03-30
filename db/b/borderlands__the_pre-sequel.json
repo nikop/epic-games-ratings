@@ -1,10 +1,10 @@
 {
   "ID": "6110c92696a54f108c8e9002713ea5f9",
   "Name": "Borderlands: The Pre-Sequel",
-  "Rating": 4.49,
+  "Rating": 4.5,
   "NumberOfRatings": 2939,
   "FirstSeen": "2022-07-22T20:22:28.453834+00:00",
-  "LastChanged": "2022-12-03T03:58:39.3105578+00:00",
+  "LastChanged": "2023-03-25T17:57:39.6260358+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:28.4538343+00:00",
@@ -2095,24 +2095,119 @@
       "Time": "2022-12-03T03:58:39.3105582+00:00",
       "Rating": 4.49,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-04T15:57:19.905526+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-04T22:57:20.797089+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-10T13:57:36.7472863+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-13T15:57:52.0104075+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-13T17:57:37.7442501+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-14T17:58:10.8815285+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-29T15:57:35.8028938+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-30T14:57:33.1203621+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-01T13:06:20.9277359+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-03T22:57:28.153549+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-04T05:57:16.7666363+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-08T10:57:35.9624734+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-09T17:02:51.0675001+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-15T19:57:12.489938+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-01T11:57:26.4355016+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-16T10:58:17.6567128+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-18T07:57:25.6854521+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-22T17:57:38.12473+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-25T17:57:39.6260358+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
-      "Count": 355
+      "Count": 391
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 318
+      "Count": 340
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 307
+      "Count": 335
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 316
+      "Count": 331
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2120,19 +2215,19 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 316
+      "Count": 345
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 307
+      "Count": 326
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 297
+      "Count": 314
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 299
+      "Count": 316
     },
     {
       "Text": "This game has Unique Visuals",

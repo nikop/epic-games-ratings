@@ -1,10 +1,10 @@
 {
   "ID": "5c30028c7a144f91b4a6ee4011bea27b",
   "Name": "STG Football",
-  "Rating": 4.55,
+  "Rating": 4.43,
   "FirstSeen": "2022-10-25T20:04:22.7982366+00:00",
   "FirstSeenRating": "2022-10-28T23:02:10.4160395+00:00",
-  "LastChanged": "2022-12-02T03:58:09.0548681+00:00",
+  "LastChanged": "2023-03-27T04:58:14.2875465+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-28T23:02:10.4160399+00:00",
@@ -200,12 +200,102 @@
       "Time": "2022-12-02T03:58:09.0548683+00:00",
       "Rating": 4.55,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-04T23:57:35.0603593+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-09T03:06:36.3196863+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-12T04:57:47.8313402+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-22T20:57:42.8114141+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-24T03:58:05.7976229+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-25T16:57:31.6799695+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-27T16:57:33.8390401+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-05T19:57:59.4768643+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-09T19:57:44.26403+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-15T02:11:00.1784924+00:00",
+      "Rating": 4.49,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-21T15:57:52.8821987+00:00",
+      "Rating": 4.48,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-23T02:59:10.9475688+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-25T22:57:58.1759428+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-26T19:58:25.462151+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-28T23:57:48.7938309+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-18T14:57:48.9195332+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-25T04:57:39.0383128+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-27T04:58:14.2875468+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 21
+      "Count": 33
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -213,11 +303,31 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 20
+      "Count": 26
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 20
+      "Count": 27
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 27
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 27
+    },
+    {
+      "Text": "This game has a Competitive Community",
+      "Count": 22
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Count": 21
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 22
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "ID": "e4a2a414d46849f49a35c0f80df2903a",
   "Name": "Verdun",
-  "Rating": 4.52,
+  "Rating": 4.53,
   "NumberOfRatings": 1999,
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
-  "LastChanged": "2022-11-20T13:16:10.86784+00:00",
+  "LastChanged": "2023-01-27T18:57:27.9358123+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:07.9846698+00:00",
@@ -1280,6 +1280,61 @@
       "Time": "2022-11-20T13:16:10.8678404+00:00",
       "Rating": 4.52,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-04T20:57:46.202602+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-05T02:08:52.1194117+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-05T20:57:38.8888216+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-06T09:58:07.8516+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-21T17:57:48.9885268+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-26T13:08:47.1870446+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-07T19:58:05.6867542+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-08T19:57:49.3413307+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-19T16:58:46.0816066+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-26T13:58:09.0891285+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-27T18:57:27.9358124+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -1289,11 +1344,11 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 49
+      "Count": 55
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 73
+      "Count": 80
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1301,43 +1356,43 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 66
+      "Count": 68
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 69
+      "Count": 78
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 65
+      "Count": 73
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 80
+      "Count": 92
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 79
+      "Count": 86
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 60
+      "Count": 64
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 76
+      "Count": 88
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 52
+      "Count": 60
     },
     {
       "Text": "This game has Realistic Visuals",
-      "Count": 55
+      "Count": 63
     },
     {
       "Text": "This game is Educational",
-      "Count": 67
+      "Count": 76
     }
   ]
 }

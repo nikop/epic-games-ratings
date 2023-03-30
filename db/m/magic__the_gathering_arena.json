@@ -1,10 +1,10 @@
 {
   "ID": "5fdcc0dc67294af3be740f362bd976fd",
   "Name": "Magic: The Gathering Arena",
-  "Rating": 4.46,
+  "Rating": 4.45,
   "NumberOfRatings": 14652,
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2022-09-23T13:01:20.2876816+00:00",
+  "LastChanged": "2023-03-21T22:57:24.7057193+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:26.803641+00:00",
@@ -3175,52 +3175,77 @@
       "Time": "2022-09-23T13:01:20.2876817+00:00",
       "Rating": 4.46,
       "NumberOfRatings": 14652
+    },
+    {
+      "Time": "2023-03-01T18:58:33.1970226+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-02T02:19:06.7431067+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-18T19:57:21.7923594+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-21T20:57:32.8072951+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-21T22:57:24.7057195+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 8007
+      "Count": 9581
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 7277
+      "Count": 8454
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 6901
+      "Count": 8018
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 7282
+      "Count": 8498
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 6441
+      "Count": 7480
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 6422
+      "Count": 7642
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 6215
+      "Count": 7250
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 5404
+      "Count": 6291
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 4981
+      "Count": 5768
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 4608
+      "Count": 5380
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 4386
+      "Count": 5187
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "ID": "caca23a0954f4c1aba1fdd7e277b81e2",
   "Name": "Tomb Raider GAME OF THE YEAR EDITION",
-  "Rating": 4.67,
+  "Rating": 4.66,
   "NumberOfRatings": 20961,
   "FirstSeen": "2022-07-22T20:21:04.7609195+00:00",
-  "LastChanged": "2022-10-13T08:01:25.551906+00:00",
+  "LastChanged": "2023-03-02T07:57:11.6778424+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:04.7609199+00:00",
@@ -1895,44 +1895,59 @@
       "Time": "2022-10-13T08:01:25.5519062+00:00",
       "Rating": 4.67,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-25T19:57:11.938214+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-26T19:57:21.1106235+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-02T07:57:11.6778427+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 5371
+      "Count": 5725
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 124
+      "Count": 133
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 105
+      "Count": 111
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 109
+      "Count": 127
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 100
+      "Count": 114
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 107
+      "Count": 117
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 109
+      "Count": 120
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 106
+      "Count": 116
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 91
+      "Count": 102
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1940,7 +1955,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 67
+      "Count": 69
     }
   ]
 }

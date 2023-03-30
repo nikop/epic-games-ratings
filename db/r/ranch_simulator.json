@@ -1,10 +1,10 @@
 {
   "ID": "6a9d6df3f6f74983a7d77861ccfcf50b",
   "Name": "Ranch Simulator",
-  "Rating": 4.46,
+  "Rating": 4.44,
   "NumberOfRatings": 338,
   "FirstSeen": "2022-07-22T20:19:57.8144749+00:00",
-  "LastChanged": "2022-11-30T08:57:20.9874054+00:00",
+  "LastChanged": "2023-03-12T09:57:21.0711793+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:57.8144751+00:00",
@@ -520,16 +520,86 @@
       "Time": "2022-11-30T08:57:20.9874059+00:00",
       "Rating": 4.46,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-05T15:57:15.5070922+00:00",
+      "Rating": 4.47,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-07T04:57:13.9434118+00:00",
+      "Rating": 4.46,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-28T08:57:09.2002543+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-05T17:57:10.8575725+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-06T17:57:15.7843083+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-07T17:57:16.4547098+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-28T05:57:50.3227253+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-01T11:57:10.3316551+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-03T11:57:00.8211227+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-04T11:57:09.812039+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-05T11:57:28.2033865+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-05T18:57:17.2236474+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-09T18:57:33.6838255+00:00",
+      "Rating": 4.45,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-12T09:57:21.0711795+00:00",
+      "Rating": 4.44,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
-      "Count": 39
+      "Count": 45
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 34
+      "Count": 41
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -541,27 +611,27 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 32
+      "Count": 35
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 38
+      "Count": 44
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 28
+      "Count": 34
     },
     {
       "Text": "This game has Easy Combat",
-      "Count": 28
+      "Count": 30
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 23
+      "Count": 25
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 20
+      "Count": 27
     }
   ]
 }

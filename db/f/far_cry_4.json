@@ -1,10 +1,10 @@
 {
   "ID": "cf87285950ba492bbdc370b9d265ea36",
   "Name": "FAR CRY 4",
-  "Rating": 4.66,
+  "Rating": 4.67,
   "NumberOfRatings": 639,
   "FirstSeen": "2022-07-22T20:26:30.966572+00:00",
-  "LastChanged": "2022-11-29T23:57:53.1164562+00:00",
+  "LastChanged": "2023-03-25T13:57:37.388198+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:30.9665724+00:00",
@@ -625,40 +625,89 @@
       "Time": "2022-11-29T23:57:53.1164564+00:00",
       "Rating": 4.66,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-05T17:57:42.9723627+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-11T17:58:20.0982986+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-13T17:58:00.8612721+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-19T03:11:14.1597186+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-22T07:57:49.3567974+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-14T13:23:41.2641722+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-19T15:57:53.0015951+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-19T23:58:15.1351538+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-25T13:57:37.3881981+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 375
+      "Count": 470
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 27
+      "Count": 30
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 27
+      "Count": 38
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 21
+      "Count": 25
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 20
+      "Count": 28
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 22
+      "Count": 25
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 20
+      "Count": 26
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 20
+      "Count": 26
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 25
     }
   ]
 }

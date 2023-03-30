@@ -1,10 +1,10 @@
 {
   "ID": "8211dc6089af4542926b7a8137b9079e",
   "Name": "Black Book",
-  "Rating": 4.88,
+  "Rating": 4.87,
   "NumberOfRatings": 96,
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
-  "LastChanged": "2022-11-12T17:02:45.9192487+00:00",
+  "LastChanged": "2023-01-25T20:57:07.1663705+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:55.4349566+00:00",
@@ -215,12 +215,17 @@
       "Time": "2022-11-12T17:02:45.9192488+00:00",
       "Rating": 4.88,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-25T20:57:07.1663706+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 20
+      "Count": 21
     }
   ]
 }

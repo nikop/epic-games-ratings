@@ -1,10 +1,10 @@
 {
   "ID": "cbd5b3d310a54b12bf3fe8c41994174f",
   "Name": "VALORANT",
-  "Rating": 4.55,
+  "Rating": 4.54,
   "NumberOfRatings": 157172,
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2022-09-23T11:32:50.2897792+00:00",
+  "LastChanged": "2022-12-26T02:05:44.6781572+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:57.2451126+00:00",
@@ -3260,32 +3260,37 @@
       "Time": "2022-09-23T11:32:50.2897795+00:00",
       "Rating": 4.55,
       "NumberOfRatings": 157172
+    },
+    {
+      "Time": "2022-12-26T02:05:44.6781574+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
-      "Count": 30654
+      "Count": 46986
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 27594
+      "Count": 40345
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 27585
+      "Count": 39717
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 27605
+      "Count": 39465
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 28230
+      "Count": 41251
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 27645
+      "Count": 40033
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3293,15 +3298,15 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 26002
+      "Count": 37502
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 25616
+      "Count": 37115
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 25098
+      "Count": 37462
     }
   ]
 }

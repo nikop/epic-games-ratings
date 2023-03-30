@@ -1,10 +1,10 @@
 {
   "ID": "ecebf45065bc4993abfe0e84c40ff18e",
   "Name": "Watch Dogs Standard Edition",
-  "Rating": 4.55,
+  "Rating": 4.56,
   "NumberOfRatings": 1912,
   "FirstSeen": "2022-07-22T20:20:01.9847852+00:00",
-  "LastChanged": "2022-12-02T13:57:38.3502239+00:00",
+  "LastChanged": "2023-03-24T15:57:12.1781729+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:01.9847855+00:00",
@@ -925,16 +925,41 @@
       "Time": "2022-12-02T13:57:38.3502241+00:00",
       "Rating": 4.55,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-07T16:57:49.2667092+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-28T19:57:18.9553442+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-31T02:01:31.4763432+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-31T10:57:00.9219428+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-24T15:57:12.178173+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 34
+      "Count": 41
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 36
+      "Count": 44
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -942,15 +967,15 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 35
+      "Count": 40
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 31
+      "Count": 36
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 33
+      "Count": 40
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -958,15 +983,23 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 25
+      "Count": 31
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 24
+      "Count": 28
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 33
+      "Count": 38
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Count": 32
+    },
+    {
+      "Text": "This game has a Competitive Community",
+      "Count": 23
     }
   ]
 }

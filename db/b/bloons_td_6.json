@@ -1,11 +1,11 @@
 {
   "ID": "6a8dfa6e441e4f2f9048a98776c6077d",
   "Name": "Bloons TD 6",
-  "Rating": 4.83,
+  "Rating": 4.76,
   "NumberOfRatings": 136,
   "FirstSeen": "2022-07-23T14:00:48.5667099+00:00",
   "FirstSeenRating": "2022-08-21T19:00:52.0889932+00:00",
-  "LastChanged": "2022-11-30T15:57:05.3051299+00:00",
+  "LastChanged": "2022-12-23T17:56:46.6750519+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-21T19:00:52.0889936+00:00",
@@ -516,6 +516,101 @@
       "Time": "2022-11-30T15:57:05.3051301+00:00",
       "Rating": 4.83,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-08T13:57:00.3171578+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-09T21:56:46.261611+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-11T18:56:58.8525418+00:00",
+      "Rating": 4.84,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-15T05:56:49.4480827+00:00",
+      "Rating": 4.83,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-16T14:57:17.7250523+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-16T22:57:02.330762+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-17T05:57:07.9200329+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-17T10:57:00.801583+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-17T13:56:52.6285734+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-17T15:57:05.320541+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-17T17:56:59.6719047+00:00",
+      "Rating": 4.78,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-18T02:01:55.8795204+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-18T07:56:55.5924397+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-18T18:56:57.5966334+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-19T03:57:11.2247864+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-19T18:56:56.3575154+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-19T20:57:36.1240086+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-23T08:56:54.1986712+00:00",
+      "Rating": 4.77,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-23T17:56:46.6750519+00:00",
+      "Rating": 4.76,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -525,27 +620,27 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 91
+      "Count": 1553
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 80
+      "Count": 915
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 74
+      "Count": 916
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 79
+      "Count": 1188
     },
     {
       "Text": "This game has Playful Visuals",
-      "Count": 64
+      "Count": 1222
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 83
+      "Count": 1911
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -553,19 +648,19 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 77
+      "Count": 1013
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 66
+      "Count": 1017
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 80
+      "Count": 897
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 68
+      "Count": 1034
     },
     {
       "Text": "This game has Competitive Players",

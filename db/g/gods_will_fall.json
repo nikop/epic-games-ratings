@@ -1,10 +1,10 @@
 {
   "ID": "28d06644e2f84b398c1b7fb96a2b6bd5",
   "Name": "Gods Will Fall",
-  "Rating": 3.94,
+  "Rating": 3.97,
   "NumberOfRatings": 228,
   "FirstSeen": "2022-07-22T20:20:39.1659104+00:00",
-  "LastChanged": "2022-12-01T21:57:15.9483495+00:00",
+  "LastChanged": "2023-03-16T08:57:17.3163627+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:39.1659106+00:00",
@@ -379,6 +379,51 @@
     {
       "Time": "2022-12-01T21:57:15.9483497+00:00",
       "Rating": 3.94,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-04T17:57:16.9991174+00:00",
+      "Rating": 3.93,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-09T18:57:37.2359148+00:00",
+      "Rating": 3.94,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-31T18:57:18.9814596+00:00",
+      "Rating": 3.95,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-08T18:57:08.018919+00:00",
+      "Rating": 3.94,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-27T13:10:38.2718097+00:00",
+      "Rating": 3.95,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-10T13:57:59.724108+00:00",
+      "Rating": 3.96,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-22T13:57:17.4867902+00:00",
+      "Rating": 3.97,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-05T13:57:31.0817797+00:00",
+      "Rating": 3.96,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-16T08:57:17.3163633+00:00",
+      "Rating": 3.97,
       "NumberOfRatings": null
     }
   ],

@@ -1,10 +1,10 @@
 {
   "ID": "87b7846d2eba4bc49eead0854323aba8",
   "Name": "Dying Light 2 Stay Human",
-  "Rating": 4.58,
+  "Rating": 4.57,
   "NumberOfRatings": 7305,
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
-  "LastChanged": "2022-11-04T08:01:28.5340694+00:00",
+  "LastChanged": "2023-02-19T18:57:00.2146031+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:57.6151267+00:00",
@@ -2710,44 +2710,69 @@
       "Time": "2022-11-04T08:01:28.5340697+00:00",
       "Rating": 4.58,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-06T02:10:35.6838137+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-17T15:57:14.1782164+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-18T17:57:11.3933826+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-18T22:57:07.2527044+00:00",
+      "Rating": 4.58,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-19T18:57:00.2146034+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 4519
+      "Count": 6198
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 2714
+      "Count": 3650
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 344
+      "Count": 504
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 352
+      "Count": 522
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 338
+      "Count": 517
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 349
+      "Count": 499
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 356
+      "Count": 520
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 322
+      "Count": 485
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 329
+      "Count": 476
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2755,7 +2780,11 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 339
+      "Count": 481
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Count": 376
     }
   ]
 }

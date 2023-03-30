@@ -1,7 +1,21 @@
 {
   "ID": "fc224bc11259446ab10c942201eb5926",
   "Name": "Dice Legacy",
+  "Rating": 4.29,
   "FirstSeen": "2022-07-22T20:22:02.0247279+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
+  "LastChanged": "2023-01-29T15:57:21.4703794+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-01-10T11:57:19.8134476+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-29T15:57:21.4703796+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": null
+    }
+  ],
   "Tags": []
 }

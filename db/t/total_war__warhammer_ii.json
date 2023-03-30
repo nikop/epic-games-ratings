@@ -1,10 +1,10 @@
 {
   "ID": "0f710ebf203f42e1a26a8bc5cb48709a",
   "Name": "Total War: WARHAMMER II",
-  "Rating": 4.69,
+  "Rating": 4.7,
   "NumberOfRatings": 1169,
   "FirstSeen": "2022-07-22T20:16:56.1200636+00:00",
-  "LastChanged": "2022-11-15T20:56:58.0013853+00:00",
+  "LastChanged": "2023-03-17T19:57:21.4137616+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:56.1200639+00:00",
@@ -1385,32 +1385,57 @@
       "Time": "2022-11-15T20:56:58.0013856+00:00",
       "Rating": 4.69,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-17T14:56:55.1170689+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-19T21:57:02.7017367+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-23T09:57:36.6713085+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-16T23:56:54.1424592+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-17T19:57:21.4137617+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 3601
+      "Count": 4119
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 851
+      "Count": 1026
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 759
+      "Count": 869
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 794
+      "Count": 908
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 799
+      "Count": 936
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 762
+      "Count": 912
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1418,19 +1443,19 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 732
+      "Count": 859
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 775
+      "Count": 886
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 755
+      "Count": 858
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 523
+      "Count": 630
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1438,7 +1463,7 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 733
+      "Count": 837
     }
   ]
 }

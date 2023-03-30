@@ -1,10 +1,10 @@
 {
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
-  "Rating": 4.2,
+  "Rating": 4.19,
   "NumberOfRatings": 429,
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
-  "LastChanged": "2022-11-28T02:19:48.985384+00:00",
+  "LastChanged": "2023-03-10T14:57:20.2040487+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:44.6509479+00:00",
@@ -590,12 +590,27 @@
       "Time": "2022-11-28T02:19:48.9853841+00:00",
       "Rating": 4.2,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-20T02:57:15.9195848+00:00",
+      "Rating": 4.19,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-27T02:14:15.7293347+00:00",
+      "Rating": 4.18,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-10T14:57:20.2040489+00:00",
+      "Rating": 4.19,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 71
+      "Count": 76
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -603,31 +618,31 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 66
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Count": 75
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Count": 74
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Count": 77
-    },
-    {
-      "Text": "This game is Relaxing",
       "Count": 80
     },
     {
+      "Text": "This game is Extremely Fun",
+      "Count": 80
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 79
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 83
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 84
+    },
+    {
       "Text": "This game has Amazing Characters",
-      "Count": 59
+      "Count": 64
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 66
+      "Count": 68
     },
     {
       "Text": "This game has a Creative Community",

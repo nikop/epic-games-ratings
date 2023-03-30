@@ -1,10 +1,10 @@
 {
   "ID": "3d4ea555f7954f06b48050b3b821d6d0",
   "Name": "Fell Seal: Arbiter\u0027s Mark",
-  "Rating": 4.62,
+  "Rating": 4.56,
   "NumberOfRatings": 39,
   "FirstSeen": "2022-07-22T20:27:38.543998+00:00",
-  "LastChanged": "2022-11-25T21:57:54.3473891+00:00",
+  "LastChanged": "2023-02-20T03:13:04.3136368+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:38.5439982+00:00",
@@ -125,12 +125,37 @@
       "Time": "2022-11-25T21:57:54.3473893+00:00",
       "Rating": 4.62,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-04T23:57:38.3631647+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-02T18:59:26.6952403+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-17T20:58:30.6016599+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-02T23:57:35.6654723+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-20T03:13:04.313637+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 25
+      "Count": 27
     }
   ]
 }

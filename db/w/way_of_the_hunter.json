@@ -1,11 +1,11 @@
 {
   "ID": "bdbfb29cbd004978acad9ca4eaf9ec82",
   "Name": "Way of the Hunter",
-  "Rating": 4.28,
+  "Rating": 4.34,
   "NumberOfRatings": 190,
   "FirstSeen": "2022-08-22T17:32:55.4881061+00:00",
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
-  "LastChanged": "2022-11-28T03:20:32.9084323+00:00",
+  "LastChanged": "2023-03-20T19:58:16.4124968+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-25T19:31:36.4278603+00:00",
@@ -456,12 +456,102 @@
       "Time": "2022-11-28T03:20:32.9084325+00:00",
       "Rating": 4.28,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-03T16:57:39.9754275+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-04T15:57:38.7624444+00:00",
+      "Rating": 4.28,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-05T15:57:52.897472+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-06T14:57:42.8359682+00:00",
+      "Rating": 4.28,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-07T18:57:58.5618219+00:00",
+      "Rating": 4.29,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-26T17:58:08.2016889+00:00",
+      "Rating": 4.3,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-29T17:57:31.4556725+00:00",
+      "Rating": 4.31,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-06T17:58:16.1469213+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-07T09:58:09.4587894+00:00",
+      "Rating": 4.31,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-08T03:58:13.9690429+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-29T02:12:27.0526238+00:00",
+      "Rating": 4.33,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-02T19:57:40.7078056+00:00",
+      "Rating": 4.32,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-05T20:57:47.5649712+00:00",
+      "Rating": 4.33,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-17T08:58:19.5186266+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-18T13:58:23.7254512+00:00",
+      "Rating": 4.33,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-05T17:57:41.3007894+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-15T15:57:57.0658848+00:00",
+      "Rating": 4.35,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-20T19:58:16.412497+00:00",
+      "Rating": 4.34,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 29
+      "Count": 35
     },
     {
       "Text": "This game is Great for Beginners",
@@ -473,23 +563,27 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 28
+      "Count": 37
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 24
+      "Count": 31
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 24
+      "Count": 28
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 22
+      "Count": 26
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 21
+      "Count": 24
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 25
     }
   ]
 }

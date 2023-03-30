@@ -1,10 +1,10 @@
 {
   "ID": "7dee3ddeac7d427eb35def472be64d9c",
   "Name": "DEATHLOOP",
-  "Rating": 4.53,
+  "Rating": 4.54,
   "NumberOfRatings": 874,
   "FirstSeen": "2022-07-22T20:23:46.7837121+00:00",
-  "LastChanged": "2022-11-11T11:57:42.6044426+00:00",
+  "LastChanged": "2023-02-06T18:57:54.8955726+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:46.7837123+00:00",
@@ -625,28 +625,67 @@
       "Time": "2022-11-11T11:57:42.6044428+00:00",
       "Rating": 4.53,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-26T03:58:03.10359+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-28T13:08:47.8527733+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-29T10:57:30.4780122+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-30T14:57:41.2724878+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-02T02:04:11.4879477+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-21T18:57:49.9591132+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-06T18:57:54.8955728+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 26
+      "Count": 29
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 30
+      "Count": 33
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 26
+      "Count": 28
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 22
+      "Count": 26
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 20
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "ID": "5c59642227a2412fb38f324d1772914e",
   "Name": "Train Valley 2",
-  "Rating": 4.07,
+  "Rating": 4.14,
   "NumberOfRatings": 87,
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
-  "LastChanged": "2022-11-16T13:24:51.6077287+00:00",
+  "LastChanged": "2023-03-12T16:57:02.6238846+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:19.351746+00:00",
@@ -205,12 +205,47 @@
       "Time": "2022-11-16T13:24:51.6077288+00:00",
       "Rating": 4.07,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-04T20:56:55.7927001+00:00",
+      "Rating": 4.08,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-05T20:57:02.3908781+00:00",
+      "Rating": 4.09,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-23T18:57:00.1290992+00:00",
+      "Rating": 4.1,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-24T15:57:13.1139278+00:00",
+      "Rating": 4.11,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-11T18:56:44.600935+00:00",
+      "Rating": 4.12,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-10T16:57:39.9425277+00:00",
+      "Rating": 4.13,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-12T16:57:02.6238848+00:00",
+      "Rating": 4.14,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
-      "Count": 65
+      "Count": 69
     }
   ]
 }

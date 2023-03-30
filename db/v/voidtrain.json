@@ -1,10 +1,10 @@
 {
   "ID": "301ec0fdbcaf46b3af9322e436ac87bd",
   "Name": "Voidtrain",
-  "Rating": 4.51,
+  "Rating": 4.5,
   "NumberOfRatings": 1305,
   "FirstSeen": "2022-07-22T20:25:41.7165355+00:00",
-  "LastChanged": "2022-10-05T05:31:31.196268+00:00",
+  "LastChanged": "2023-02-21T08:57:49.8875722+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:41.7165358+00:00",
@@ -645,16 +645,61 @@
       "Time": "2022-10-05T05:31:31.1962682+00:00",
       "Rating": 4.51,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-04T19:57:25.4202713+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-05T19:58:27.8368739+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-06T19:57:44.6489444+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-30T19:58:08.5839645+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-07T19:57:58.1285335+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-10T02:16:51.5508049+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-11T02:06:53.7806614+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-12T02:14:15.0502777+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-21T08:57:49.8875731+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 25
+      "Count": 27
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 22
+      "Count": 24
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -662,7 +707,7 @@
     },
     {
       "Text": "This game has Easy Combat",
-      "Count": 24
+      "Count": 26
     }
   ]
 }

@@ -1120,43 +1120,43 @@
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 944
+      "Count": 991
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 64
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Count": 71
-    },
-    {
-      "Text": "This game has Amazing Characters",
       "Count": 68
     },
     {
-      "Text": "This game has Quickly Understood Controls",
-      "Count": 66
+      "Text": "This game is Great for Beginners",
+      "Count": 76
     },
     {
-      "Text": "This game has Amazing Storytelling",
-      "Count": 79
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Count": 55
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Count": 71
-    },
-    {
-      "Text": "This game is Extremely Fun",
+      "Text": "This game has Amazing Characters",
       "Count": 72
     },
     {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 70
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 84
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 57
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 72
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 76
+    },
+    {
       "Text": "This game has Playful Visuals",
-      "Count": 73
+      "Count": 77
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1164,11 +1164,11 @@
     },
     {
       "Text": "This game has Easy Combat",
-      "Count": 66
+      "Count": 69
     },
     {
       "Text": "This game has a Kind Community",
-      "Count": 58
+      "Count": 60
     }
   ]
 }

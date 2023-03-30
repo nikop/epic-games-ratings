@@ -1,10 +1,10 @@
 {
   "ID": "b9def67e597b4be7a16146146a044d02",
   "Name": "MechWarrior 5: Mercenaries Standard Edition",
-  "Rating": 4.6,
+  "Rating": 4.61,
   "NumberOfRatings": 4280,
   "FirstSeen": "2022-07-22T20:19:39.9366975+00:00",
-  "LastChanged": "2022-09-23T10:30:47.4653373+00:00",
+  "LastChanged": "2023-01-27T21:57:16.3381803+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:39.936698+00:00",
@@ -2340,24 +2340,79 @@
       "Time": "2022-09-23T10:30:47.4653376+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 4280
+    },
+    {
+      "Time": "2022-12-09T09:57:23.7094103+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-09T23:57:04.5535079+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-10T11:57:00.092563+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-01T16:57:07.4505818+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-02T02:57:20.6216146+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-04T02:07:21.5409548+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-26T14:57:17.253841+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-26T21:57:21.2886981+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-26T23:57:15.1302205+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-27T16:57:27.9662023+00:00",
+      "Rating": 4.6,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-27T21:57:16.3381805+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
-      "Count": 856
+      "Count": 950
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 803
+      "Count": 897
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 850
+      "Count": 986
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 811
+      "Count": 926
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2365,19 +2420,19 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 786
+      "Count": 893
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 747
+      "Count": 864
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 449
+      "Count": 517
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 863
+      "Count": 1043
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "ID": "9afbc4780d874152a1c66d5fec0967d4",
   "Name": "Northgard",
-  "Rating": 4.73,
+  "Rating": 4.72,
   "NumberOfRatings": 82,
   "FirstSeen": "2022-07-22T20:19:06.911042+00:00",
-  "LastChanged": "2022-11-24T15:57:16.1453068+00:00",
+  "LastChanged": "2023-03-07T03:20:52.0786529+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:06.9110423+00:00",
@@ -235,16 +235,51 @@
       "Time": "2022-11-24T15:57:16.1453072+00:00",
       "Rating": 4.73,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-05T08:57:13.515961+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-22T20:57:01.1573749+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-02T21:57:35.9306311+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-06T21:57:15.8312799+00:00",
+      "Rating": 4.71,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-20T11:57:11.9242329+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-10T20:57:15.0968832+00:00",
+      "Rating": 4.73,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-07T03:20:52.0786532+00:00",
+      "Rating": 4.72,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 24
+      "Count": 27
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 24
+      "Count": 25
     }
   ]
 }

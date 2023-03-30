@@ -1,10 +1,10 @@
 {
   "ID": "6daaf10529e94fccaa8ee43b66adbe4a",
   "Name": "Pathfinder: Kingmaker - Enhanced Plus Edition",
-  "Rating": 4.56,
+  "Rating": 4.57,
   "NumberOfRatings": 3868,
   "FirstSeen": "2022-07-22T20:24:35.6101884+00:00",
-  "LastChanged": "2022-12-03T11:58:04.8794958+00:00",
+  "LastChanged": "2023-02-08T13:13:45.196656+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:35.6101886+00:00",
@@ -2465,52 +2465,57 @@
       "Time": "2022-12-03T11:58:04.879496+00:00",
       "Rating": 4.56,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-08T13:13:45.1966564+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 2676
+      "Count": 2965
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 1761
+      "Count": 1972
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 317
+      "Count": 362
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 323
+      "Count": 363
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 311
+      "Count": 357
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 319
+      "Count": 359
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 306
+      "Count": 338
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 287
+      "Count": 325
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 309
+      "Count": 345
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 316
+      "Count": 356
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 155
+      "Count": 186
     },
     {
       "Text": "This game has Obsessive Gameplay",

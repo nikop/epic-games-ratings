@@ -4,7 +4,7 @@
   "Rating": 4.42,
   "NumberOfRatings": 2541,
   "FirstSeen": "2022-07-22T20:17:00.3136154+00:00",
-  "LastChanged": "2022-09-23T13:00:49.5299812+00:00",
+  "LastChanged": "2022-12-28T15:57:09.1791428+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:00.3136156+00:00",
@@ -1960,36 +1960,56 @@
       "Time": "2022-09-23T13:00:49.5299814+00:00",
       "Rating": 4.42,
       "NumberOfRatings": 2541
+    },
+    {
+      "Time": "2022-12-20T15:56:59.0432549+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-24T18:57:00.3090467+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-26T18:56:53.3448535+00:00",
+      "Rating": 4.41,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-28T15:57:09.1791431+00:00",
+      "Rating": 4.42,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 489
+      "Count": 529
     },
     {
       "Text": "This game has Realistic Visuals",
-      "Count": 418
+      "Count": 433
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 425
+      "Count": 442
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 387
+      "Count": 409
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 431
+      "Count": 455
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 440
+      "Count": 458
     },
     {
       "Text": "This game is Educational",
-      "Count": 424
+      "Count": 440
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1997,15 +2017,15 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 277
+      "Count": 288
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 319
+      "Count": 330
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 319
+      "Count": 326
     }
   ]
 }

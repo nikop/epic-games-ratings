@@ -4,7 +4,7 @@
   "Rating": 4.51,
   "NumberOfRatings": 276,
   "FirstSeen": "2022-07-22T20:18:30.3918213+00:00",
-  "LastChanged": "2022-11-25T21:57:03.9390101+00:00",
+  "LastChanged": "2023-01-31T02:11:38.893397+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:30.3918216+00:00",
@@ -430,7 +430,42 @@
       "Time": "2022-11-25T21:57:03.9390103+00:00",
       "Rating": 4.51,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-16T05:57:16.2160371+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-27T06:57:15.9422843+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-06T02:10:33.4410598+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-15T02:10:04.4041281+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-21T02:05:41.7833435+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-31T02:11:38.8933972+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Count": 21
+    }
+  ]
 }

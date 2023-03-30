@@ -1,10 +1,10 @@
 {
   "ID": "1760fff3738043f2870594d94487fa4b",
   "Name": "Transport Fever 2",
-  "Rating": 4.68,
+  "Rating": 4.69,
   "NumberOfRatings": 180,
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
-  "LastChanged": "2022-11-29T11:57:04.1001092+00:00",
+  "LastChanged": "2023-03-08T09:58:00.7511735+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:50.1070656+00:00",
@@ -260,12 +260,37 @@
       "Time": "2022-11-29T11:57:04.1001093+00:00",
       "Rating": 4.68,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-15T21:57:12.9618636+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-19T21:57:21.6976855+00:00",
+      "Rating": 4.68,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-28T23:57:07.9637032+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-04T14:57:11.3692942+00:00",
+      "Rating": 4.7,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-08T09:58:00.7511737+00:00",
+      "Rating": 4.69,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
-      "Count": 31
+      "Count": 35
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -273,35 +298,35 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 28
+      "Count": 32
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 29
+      "Count": 33
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 25
+      "Count": 28
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 22
+      "Count": 26
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Educational",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 20
+      "Count": 21
     }
   ]
 }

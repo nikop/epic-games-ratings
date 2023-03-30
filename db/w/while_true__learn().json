@@ -4,7 +4,7 @@
   "Rating": 4.51,
   "NumberOfRatings": 896,
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
-  "LastChanged": "2022-11-15T19:57:23.5729387+00:00",
+  "LastChanged": "2023-01-16T15:57:42.1375211+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:21.2313835+00:00",
@@ -440,12 +440,32 @@
       "Time": "2022-11-15T19:57:23.5729389+00:00",
       "Rating": 4.51,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-05T17:57:16.4514578+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-13T15:57:11.656526+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-14T15:57:00.2880899+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-16T15:57:42.1375212+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
-      "Count": 125
+      "Count": 131
     }
   ]
 }

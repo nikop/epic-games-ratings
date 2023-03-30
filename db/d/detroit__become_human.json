@@ -940,7 +940,7 @@
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
-      "Count": 1251
+      "Count": 1357
     },
     {
       "Text": "This game has Amazing Characters",
@@ -948,7 +948,15 @@
     },
     {
       "Text": "This game is Educational",
-      "Count": 20
+      "Count": 22
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Count": 21
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 21
     }
   ]
 }

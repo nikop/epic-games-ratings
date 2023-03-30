@@ -1,10 +1,10 @@
 {
   "ID": "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
   "Name": "Godfall",
-  "Rating": 4.06,
+  "Rating": 4.07,
   "NumberOfRatings": 818,
   "FirstSeen": "2022-07-22T20:17:29.0337311+00:00",
-  "LastChanged": "2022-11-17T17:57:08.545741+00:00",
+  "LastChanged": "2023-03-11T20:57:06.4528487+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:29.0337314+00:00",
@@ -765,24 +765,59 @@
       "Time": "2022-11-17T17:57:08.5457422+00:00",
       "Rating": 4.06,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-19T19:57:11.0311191+00:00",
+      "Rating": 4.07,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-26T04:56:55.0359028+00:00",
+      "Rating": 4.06,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-30T16:56:57.0245191+00:00",
+      "Rating": 4.07,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-06T17:57:07.4937053+00:00",
+      "Rating": 4.06,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-12T20:57:07.303754+00:00",
+      "Rating": 4.07,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-18T13:56:55.7646508+00:00",
+      "Rating": 4.06,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-11T20:57:06.4528488+00:00",
+      "Rating": 4.07,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 461
+      "Count": 497
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 43
+      "Count": 48
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 41
+      "Count": 45
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 37
+      "Count": 43
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -790,7 +825,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 37
+      "Count": 40
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -798,11 +833,15 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 38
+      "Count": 40
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 34
+      "Count": 40
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Count": 44
     }
   ]
 }

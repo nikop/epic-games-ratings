@@ -1,10 +1,10 @@
 {
   "ID": "37baf50c268d47779020d73143bb02b0",
   "Name": "Auto Chess",
-  "Rating": 4.54,
+  "Rating": 4.52,
   "NumberOfRatings": 2249,
   "FirstSeen": "2022-07-22T20:21:31.7729603+00:00",
-  "LastChanged": "2022-11-18T02:44:32.3315396+00:00",
+  "LastChanged": "2023-03-07T21:57:20.8079924+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:31.7729607+00:00",
@@ -1935,6 +1935,46 @@
       "Time": "2022-11-18T02:44:32.33154+00:00",
       "Rating": 4.54,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-27T15:57:16.4646707+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-06T18:57:31.0626054+00:00",
+      "Rating": 4.54,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-07T18:57:41.5313689+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-24T11:57:55.7686589+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-04T14:57:15.7301266+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-06T11:57:33.916304+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-06T13:57:11.9240993+00:00",
+      "Rating": 4.53,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-07T21:57:20.8079926+00:00",
+      "Rating": 4.52,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
@@ -1944,43 +1984,43 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 668
+      "Count": 718
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 606
+      "Count": 689
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 636
+      "Count": 687
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 540
+      "Count": 595
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 640
+      "Count": 693
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 460
+      "Count": 502
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 469
+      "Count": 519
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 425
+      "Count": 459
     },
     {
       "Text": "This game has Playful Visuals",
-      "Count": 364
+      "Count": 406
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 322
+      "Count": 373
     }
   ]
 }

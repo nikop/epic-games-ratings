@@ -1,10 +1,10 @@
 {
   "ID": "effee7c2775148e9a99f5685d29751d2",
   "Name": "The Surge 2",
-  "Rating": 4.22,
+  "Rating": 4.23,
   "FirstSeen": "2022-08-21T23:30:56.8075479+00:00",
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
-  "LastChanged": "2022-12-01T07:57:33.153717+00:00",
+  "LastChanged": "2023-02-26T11:57:32.618607+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-28T12:01:34.458697+00:00",
@@ -184,6 +184,61 @@
     {
       "Time": "2022-12-01T07:57:33.1537173+00:00",
       "Rating": 4.22,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-05T20:57:21.9988359+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-06T20:57:14.2683329+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-09T18:57:46.2251283+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-25T03:57:14.7890788+00:00",
+      "Rating": 4.26,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-27T04:57:42.2223961+00:00",
+      "Rating": 4.27,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-28T04:57:54.2264506+00:00",
+      "Rating": 4.25,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-03T04:57:16.5113269+00:00",
+      "Rating": 4.26,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-04T04:57:37.4450613+00:00",
+      "Rating": 4.23,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-13T09:57:44.6698065+00:00",
+      "Rating": 4.24,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-17T10:57:36.3720658+00:00",
+      "Rating": 4.22,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-26T11:57:32.6186073+00:00",
+      "Rating": 4.23,
       "NumberOfRatings": null
     }
   ],

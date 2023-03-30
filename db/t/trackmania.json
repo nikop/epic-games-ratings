@@ -4,7 +4,7 @@
   "Rating": 4.67,
   "NumberOfRatings": 6825,
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2022-09-27T18:01:59.6568361+00:00",
+  "LastChanged": "2023-03-25T15:57:38.9803402+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:57.8589287+00:00",
@@ -2800,28 +2800,58 @@
       "Time": "2022-09-27T18:01:59.6568363+00:00",
       "Rating": 4.67,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-01T02:19:30.0801931+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-01T09:57:50.9280958+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-01T15:57:39.0011099+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-25T08:57:35.4338096+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-25T14:57:38.3724262+00:00",
+      "Rating": 4.66,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-25T15:57:38.9803404+00:00",
+      "Rating": 4.67,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
-      "Count": 1725
+      "Count": 2238
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 1499
+      "Count": 1943
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 1670
+      "Count": 2225
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 1495
+      "Count": 1895
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 1474
+      "Count": 1893
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2829,27 +2859,27 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 1371
+      "Count": 1780
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 1425
+      "Count": 1832
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 1242
+      "Count": 1576
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 950
+      "Count": 1207
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 935
+      "Count": 1198
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 750
+      "Count": 980
     }
   ]
 }

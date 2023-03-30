@@ -1,10 +1,10 @@
 {
   "ID": "d2b282a6b53e409a8f8329d3d3356f21",
   "Name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
-  "Rating": 4.49,
+  "Rating": 4.5,
   "NumberOfRatings": 1919,
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
-  "LastChanged": "2022-11-13T17:03:20.517893+00:00",
+  "LastChanged": "2023-02-10T14:57:06.4313445+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:02.4554092+00:00",
@@ -1310,16 +1310,21 @@
       "Time": "2022-11-13T17:03:20.5178931+00:00",
       "Rating": 4.49,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-10T14:57:06.4313447+00:00",
+      "Rating": 4.5,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 678
+      "Count": 744
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 81
+      "Count": 91
     },
     {
       "Text": "This game has Inclusive Character Customization",
@@ -1331,35 +1336,35 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 97
+      "Count": 111
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 85
+      "Count": 101
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 87
+      "Count": 101
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 94
+      "Count": 109
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 71
+      "Count": 85
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 89
+      "Count": 103
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 70
+      "Count": 82
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 51
+      "Count": 57
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
-  "Rating": 4.09,
+  "Rating": 4.11,
   "NumberOfRatings": 281,
   "FirstSeen": "2022-08-31T13:30:37.244386+00:00",
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
-  "LastChanged": "2022-12-03T07:57:19.8441203+00:00",
+  "LastChanged": "2023-02-08T15:57:20.8142911+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-02T02:01:46.3061228+00:00",
@@ -471,23 +471,61 @@
       "Time": "2022-12-03T07:57:19.8441205+00:00",
       "Rating": 4.09,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-08T13:12:48.322671+00:00",
+      "Rating": 4.08,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-17T07:57:19.340646+00:00",
+      "Rating": 4.09,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-05T09:57:19.7563312+00:00",
+      "Rating": 4.08,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-07T02:04:43.0944302+00:00",
+      "Rating": 4.09,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-21T11:57:04.9778835+00:00",
+      "Rating": 4.1,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-08T15:57:20.8142912+00:00",
+      "Rating": 4.11,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Relaxing",
-      "Count": 23
+      "Count": 32
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 25
+      "Count": 30
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 21
+      "Count": 27
     },
     {
       "Text": "This game is Extremely Fun",
+      "Count": 24
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Count": 24
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
       "Count": 20
     }
   ]

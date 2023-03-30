@@ -1,10 +1,10 @@
 {
   "ID": "53310576ce1d4446b20dbbdac4f09f2d",
   "Name": "A Total War Saga: TROY",
-  "Rating": 4.5,
+  "Rating": 4.51,
   "NumberOfRatings": 6316,
   "FirstSeen": "2022-07-22T20:20:30.5035149+00:00",
-  "LastChanged": "2022-09-23T13:31:44.5120268+00:00",
+  "LastChanged": "2023-03-30T15:57:07.6828237+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:30.5035153+00:00",
@@ -2860,36 +2860,41 @@
       "Time": "2022-09-23T13:31:44.5120269+00:00",
       "Rating": 4.5,
       "NumberOfRatings": 6316
+    },
+    {
+      "Time": "2023-03-30T15:57:07.6828239+00:00",
+      "Rating": 4.51,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
-      "Count": 1387
+      "Count": 1523
     },
     {
       "Text": "This game is Educational",
-      "Count": 1339
+      "Count": 1428
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 1343
+      "Count": 1419
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 1270
+      "Count": 1336
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 1314
+      "Count": 1397
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 1265
+      "Count": 1333
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 1219
+      "Count": 1302
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2897,7 +2902,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 1262
+      "Count": 1339
     }
   ]
 }

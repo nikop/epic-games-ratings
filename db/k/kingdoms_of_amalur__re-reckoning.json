@@ -4,7 +4,7 @@
   "Rating": 4.55,
   "NumberOfRatings": 137,
   "FirstSeen": "2022-07-22T20:23:19.3365419+00:00",
-  "LastChanged": "2022-12-02T16:57:44.4248714+00:00",
+  "LastChanged": "2023-02-22T02:13:19.9378005+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:19.3365421+00:00",
@@ -325,16 +325,36 @@
       "Time": "2022-12-02T16:57:44.4248716+00:00",
       "Rating": 4.55,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-03T16:57:23.5329917+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-29T20:57:31.2427084+00:00",
+      "Rating": 4.57,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-11T21:57:24.9543671+00:00",
+      "Rating": 4.56,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-22T02:13:19.9378006+00:00",
+      "Rating": 4.55,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 60
+      "Count": 69
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 41
+      "Count": 44
     }
   ]
 }

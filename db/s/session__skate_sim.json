@@ -1,10 +1,10 @@
 {
   "ID": "e29e6ef093fd468db40b6fb505de6fa8",
   "Name": "Session: Skate Sim",
-  "Rating": 4.62,
+  "Rating": 4.63,
   "NumberOfRatings": 111,
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
-  "LastChanged": "2022-11-29T10:57:31.5928263+00:00",
+  "LastChanged": "2023-02-27T02:14:42.030704+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:58.6746018+00:00",
@@ -320,52 +320,122 @@
       "Time": "2022-11-29T10:57:31.5928264+00:00",
       "Rating": 4.62,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-05T02:08:50.5587602+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-18T02:02:48.048948+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-22T18:58:00.7664324+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-01T14:57:46.4312348+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-02T14:58:27.0465299+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-03T14:57:46.4537699+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-07T17:57:57.3786072+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-13T04:57:49.777737+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-14T08:57:31.3577583+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-14T19:57:27.9792149+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-27T18:57:26.147303+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-11T20:57:22.4295808+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-18T14:57:43.2124109+00:00",
+      "Rating": 4.62,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-02-27T02:14:42.0307042+00:00",
+      "Rating": 4.63,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
-      "Count": 41
+      "Count": 46
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 34
+      "Count": 37
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 30
+      "Count": 36
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 29
+      "Count": 35
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 31
+      "Count": 33
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 26
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Count": 34
-    },
-    {
-      "Text": "This game has Realistic Visuals",
       "Count": 32
     },
     {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 37
+    },
+    {
+      "Text": "This game has Realistic Visuals",
+      "Count": 33
+    },
+    {
       "Text": "This game has Diverse Characters",
-      "Count": 26
+      "Count": 31
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game is Educational",

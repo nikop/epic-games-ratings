@@ -1,10 +1,10 @@
 {
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
-  "Rating": 4.42,
+  "Rating": 4.43,
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
-  "LastChanged": "2022-11-19T13:15:15.1463217+00:00",
+  "LastChanged": "2022-12-18T20:58:02.7109152+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-28T06:01:26.9039057+00:00",
@@ -210,40 +210,45 @@
       "Time": "2022-11-19T13:15:15.1463219+00:00",
       "Rating": 4.42,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-18T20:58:02.7109155+00:00",
+      "Rating": 4.43,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 207
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Count": 210
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Count": 228
-    },
-    {
-      "Text": "This game is Highly Recommended",
       "Count": 238
     },
     {
+      "Text": "This game is Relaxing",
+      "Count": 231
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 265
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 274
+    },
+    {
       "Text": "This game has Amazing Characters",
-      "Count": 223
+      "Count": 251
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 220
+      "Count": 248
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 181
+      "Count": 201
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 233
+      "Count": 268
     },
     {
       "Text": "This game is Great for Beginners",
@@ -251,7 +256,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 81
+      "Count": 95
     }
   ]
 }

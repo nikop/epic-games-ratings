@@ -1,10 +1,10 @@
 {
   "ID": "4c7117cadb714722950338f02850fd8d",
   "Name": "20XX",
-  "Rating": 4.6,
+  "Rating": 4.61,
   "NumberOfRatings": 392,
   "FirstSeen": "2022-07-22T20:20:18.3366391+00:00",
-  "LastChanged": "2022-12-03T13:08:52.7201274+00:00",
+  "LastChanged": "2022-12-07T19:57:21.5529637+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:18.3366397+00:00",
@@ -560,16 +560,21 @@
       "Time": "2022-12-03T13:08:52.7201277+00:00",
       "Rating": 4.6,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-07T19:57:21.5529639+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 26
+      "Count": 31
     },
     {
       "Text": "This game has Amazing Characters",
@@ -577,23 +582,31 @@
     },
     {
       "Text": "This game has Playful Visuals",
-      "Count": 24
+      "Count": 26
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 27
-    },
-    {
-      "Text": "This game is Relaxing",
       "Count": 28
     },
     {
+      "Text": "This game is Relaxing",
+      "Count": 32
+    },
+    {
       "Text": "This game has Challenging Combat",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 21
+      "Count": 23
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Count": 20
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Count": 28
     }
   ]
 }

@@ -4,7 +4,7 @@
   "Rating": 4.81,
   "NumberOfRatings": 165,
   "FirstSeen": "2022-07-22T20:27:33.8101196+00:00",
-  "LastChanged": "2022-11-26T16:58:24.7433174+00:00",
+  "LastChanged": "2023-03-09T19:58:14.9538914+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:33.8101199+00:00",
@@ -360,16 +360,82 @@
       "Time": "2022-11-26T16:58:24.7433177+00:00",
       "Rating": 4.81,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-03T17:58:02.4106919+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-07T04:58:05.974236+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-07T22:58:18.570288+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-08T23:57:40.0601101+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-10T07:58:01.3458012+00:00",
+      "Rating": 4.82,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-16T20:58:30.4341582+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-17T13:04:13.8873167+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-03T22:57:50.9712061+00:00",
+      "Rating": 4.79,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-06T23:58:08.710728+00:00",
+      "Rating": 4.8,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-09T19:58:14.9538916+00:00",
+      "Rating": 4.81,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 82
+      "Count": 107
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 26
+      "Count": 31
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Count": 30
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Count": 22
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Count": 22
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Count": 24
     }
   ]
 }

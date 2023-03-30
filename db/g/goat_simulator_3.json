@@ -1,10 +1,10 @@
 {
   "ID": "50bbaf85f4454b1c88786efeede5b302",
   "Name": "Goat Simulator 3",
-  "Rating": 4.86,
+  "Rating": 4.85,
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
-  "LastChanged": "2022-12-01T17:57:41.2974288+00:00",
+  "LastChanged": "2023-03-07T04:57:14.8502306+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-17T20:57:24.0090353+00:00",
@@ -75,52 +75,107 @@
       "Time": "2022-12-01T17:57:41.2974291+00:00",
       "Rating": 4.86,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-11T11:57:27.4341663+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-11T14:57:57.4138223+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-11T17:57:26.0953881+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-12T02:11:52.6606311+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-14T02:14:49.3199162+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-14T14:57:24.6241428+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-16T13:08:01.601526+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-16T15:57:30.9187167+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-16T18:57:42.2421285+00:00",
+      "Rating": 4.87,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2022-12-16T20:57:45.2177424+00:00",
+      "Rating": 4.86,
+      "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-07T04:57:14.8502311+00:00",
+      "Rating": 4.85,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game is Relaxing",
-      "Count": 114
+      "Count": 227
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 123
+      "Count": 227
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 122
+      "Count": 231
     },
     {
       "Text": "This game has a Silly Community",
-      "Count": 89
+      "Count": 195
     },
     {
       "Text": "This game is Great for Beginners",
-      "Count": 112
+      "Count": 259
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 116
+      "Count": 254
     },
     {
       "Text": "This game is Educational",
-      "Count": 91
+      "Count": 158
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 135
+      "Count": 242
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 102
+      "Count": 221
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 109
+      "Count": 245
     },
     {
       "Text": "This game has Easy Combat",
-      "Count": 92
+      "Count": 186
     }
   ]
 }

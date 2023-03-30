@@ -1,10 +1,10 @@
 {
   "ID": "3ddd6a590da64e3686042d108968a6b2",
   "Name": "God of War",
-  "Rating": 4.9,
+  "Rating": 4.89,
   "NumberOfRatings": 4943,
   "FirstSeen": "2022-07-22T20:26:02.7260883+00:00",
-  "LastChanged": "2022-11-17T23:58:04.4546716+00:00",
+  "LastChanged": "2023-01-01T22:57:43.5629658+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:02.7260885+00:00",
@@ -1675,16 +1675,21 @@
       "Time": "2022-11-17T23:58:04.454672+00:00",
       "Rating": 4.9,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-01-01T22:57:43.5629662+00:00",
+      "Rating": 4.89,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 3016
+      "Count": 3892
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 1699
+      "Count": 2098
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1692,43 +1697,43 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 120
+      "Count": 147
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 122
+      "Count": 156
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 133
+      "Count": 160
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 138
+      "Count": 166
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 112
+      "Count": 133
     },
     {
       "Text": "This game is Educational",
-      "Count": 117
+      "Count": 147
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 128
+      "Count": 152
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 105
+      "Count": 125
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 108
+      "Count": 143
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 116
+      "Count": 142
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1736,7 +1741,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 73
+      "Count": 90
     }
   ]
 }
