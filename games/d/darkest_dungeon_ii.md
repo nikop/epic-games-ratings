@@ -9,7 +9,7 @@ Rating: 4.67 (7,767)  (as of 23.09.2022)
 | This game has Diverse Characters | 1,168 |
 | This game is Extremely Fun | 1,154 |
 | This game has Amazing Characters | 1,136 |
-| This game has Amazing Storytelling | 1,094 |
+| This game has Amazing Storytelling | 1,095 |
 | This game has Quickly Understood Controls | 1,090 |
 | This game has Unique Visuals | 1,004 |
 | This game has a Creative Community | 748 |

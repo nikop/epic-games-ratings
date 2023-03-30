@@ -3,7 +3,7 @@ Rating: 4.78 (21,082)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Diverse Characters | 8,419 |
+| This game has Diverse Characters | 8,437 |
 | This game is Great for Beginners | 8,394 |
 | This game is Highly Recommended | 8,325 |
 | This game is Extremely Fun | 8,293 |

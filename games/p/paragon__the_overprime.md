@@ -4,7 +4,7 @@ Rating: 4.24 (-)  (as of 23.09.2022)
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Competitive Players | 282 |
-| This game has Diverse Characters | 277 |
+| This game has Diverse Characters | 278 |
 | This game is Highly Recommended | 263 |
 | This game has Challenging Combat | 246 |
 | This game has Amazing Characters | 245 |

@@ -21,7 +21,7 @@
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 125 |
 | 19 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 237 |
 | 19 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | - |
-| 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 8,813 |
+| 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 8,823 |
 | 19 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | - |
 | 24 | [Black Book](games/b/black_book.md) | 4.87 | 21 |
 | 24 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 135 |
@@ -99,7 +99,7 @@
 | 94 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,763 |
 | 94 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 359 |
 | 99 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,243 |
-| 99 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,419 |
+| 99 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,437 |
 | 99 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 16,166 |
 | 99 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 873 |
 | 99 | [Sailing Era](games/s/sailing_era.md) | 4.78 | - |
@@ -309,7 +309,7 @@
 | 307 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | - |
 | 307 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | - |
 | 307 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,812 |
-| 307 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 2,022 |
+| 307 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 2,026 |
 | 307 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.64 | - |
 | 307 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | - |
 | 307 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | - |
@@ -635,7 +635,7 @@
 | 630 | [Death Coming](games/d/death_coming.md) | 4.42 | - |
 | 630 | [ELEX](games/e/elex.md) | 4.42 | 23 |
 | 630 | [Good Company](games/g/good_company.md) | 4.42 | - |
-| 630 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,060 |
+| 630 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,063 |
 | 630 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 30 |
 | 630 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 |
 | 630 | [Sheltered](games/s/sheltered.md) | 4.42 | 261 |
@@ -658,7 +658,7 @@
 | 653 | [Othercide](games/o/othercide.md) | 4.40 | - |
 | 653 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | - |
 | 653 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 73 |
-| 653 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 365 |
+| 653 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 366 |
 | 653 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | - |
 | 653 | [Star Renegades](games/s/star_renegades.md) | 4.40 | - |
 | 653 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | - |
@@ -736,7 +736,7 @@
 | 732 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 916 |
 | 732 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 164 |
 | 736 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | - |
-| 736 | [Fortnite](games/f/fortnite.md) | 4.30 | 1,176,999 |
+| 736 | [Fortnite](games/f/fortnite.md) | 4.30 | 1,179,756 |
 | 736 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | - |
 | 736 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | - |
 | 736 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 3,529 |
@@ -772,16 +772,16 @@
 | 768 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.24 | - |
 | 768 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 282 |
 | 768 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 |
+| 768 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.24 | 29 |
 | 768 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.24 | - |
-| 774 | [City of Brass](games/c/city_of_brass.md) | 4.23 | - |
-| 774 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 5,398 |
-| 774 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | - |
-| 774 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 969 |
-| 774 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | - |
-| 774 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.23 | - |
-| 774 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | - |
-| 774 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.23 | 29 |
-| 774 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 22 |
+| 775 | [City of Brass](games/c/city_of_brass.md) | 4.23 | - |
+| 775 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 5,398 |
+| 775 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | - |
+| 775 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 969 |
+| 775 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | - |
+| 775 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.23 | - |
+| 775 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | - |
+| 775 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 22 |
 | 783 | [Rise of Industry](games/r/rise_of_industry.md) | 4.22 | - |
 | 783 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 26 |
 | 783 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 199 |

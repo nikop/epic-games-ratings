@@ -223,7 +223,7 @@
 | 221 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | - |
 | 222 | [ELEX](games/e/elex.md) | 4.42 | 23 |
 | 223 | [ELEX II](games/e/elex_ii.md) | 4.28 | - |
-| 224 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 2,022 |
+| 224 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 2,026 |
 | 225 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 38 |
 | 226 | [Encased](games/e/encased.md) | 4.36 | 119 |
 | 227 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,416 |
@@ -279,7 +279,7 @@
 | 277 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | - |
 | 278 | [Forspoken](games/f/forspoken.md) | 4.12 | - |
 | 279 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 136 |
-| 280 | [Fortnite](games/f/fortnite.md) | 4.30 | 1,176,999 |
+| 280 | [Fortnite](games/f/fortnite.md) | 4.30 | 1,179,756 |
 | 281 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.71 | - |
 | 282 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 756 |
 | 283 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 157 |
@@ -339,7 +339,7 @@
 | 337 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.91 | - |
 | 338 | [High On Life](games/h/high_on_life.md) | 4.69 | - |
 | 339 | [HITMAN](games/h/hitman.md) | 4.64 | 195 |
-| 340 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,419 |
+| 340 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,437 |
 | 341 | [Hob](games/h/hob.md) | 4.57 | - |
 | 342 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 16,166 |
 | 343 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 1,983 |
@@ -508,7 +508,7 @@
 | 506 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | - |
 | 507 | [Outlast](games/o/outlast.md) | 4.73 | - |
 | 508 | [Outlast 2](games/o/outlast_2.md) | 4.71 | - |
-| 509 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,060 |
+| 509 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,063 |
 | 510 | [Outward](games/o/outward.md) | 4.55 | 31 |
 | 511 | [Overcooked](games/o/overcooked.md) | 4.67 | 112 |
 | 512 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 222 |
@@ -597,14 +597,14 @@
 | 595 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | - |
 | 596 | [Sailing Era](games/s/sailing_era.md) | 4.78 | - |
 | 597 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,017 |
-| 598 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 365 |
+| 598 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 366 |
 | 599 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,155 |
 | 600 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | - |
 | 601 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 916 |
 | 602 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 264 |
 | 603 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | - |
 | 604 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | - |
-| 605 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 8,813 |
+| 605 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 8,823 |
 | 606 | [Saturnalia](games/s/saturnalia.md) | 4.25 | - |
 | 607 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 |
 | 608 | [Scorn](games/s/scorn.md) | 4.48 | - |
@@ -850,7 +850,7 @@
 | 848 | [Warframe](games/w/warframe.md) | 4.61 | 13,837 |
 | 849 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 838 |
 | 850 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 199 |
-| 851 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.23 | 29 |
+| 851 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.24 | 29 |
 | 852 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 274 |
 | 853 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.58 | - |
 | 854 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | - |

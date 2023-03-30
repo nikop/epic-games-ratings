@@ -10,8 +10,8 @@ Rating: 4.68 (8,414)  (as of 23.09.2022)
 | This game has Diverse Characters | 4,627 |
 | This game is Relaxing | 4,569 |
 | This game has Competitive Players | 4,440 |
-| This game has Amazing Storytelling | 4,200 |
-| This game has Amazing Characters | 3,906 |
+| This game has Amazing Storytelling | 4,205 |
+| This game has Amazing Characters | 3,910 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History

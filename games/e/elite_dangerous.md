@@ -3,8 +3,8 @@ Rating: 4.64 (6,856)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
+| This game is Highly Recommended | 2,026 |
 | This game is Relaxing | 2,022 |
-| This game is Highly Recommended | 2,022 |
 | This game has Challenging Combat | 1,974 |
 | This game is Extremely Fun | 1,963 |
 | This game is Educational | 1,948 |

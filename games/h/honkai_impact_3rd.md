@@ -8,7 +8,7 @@ Rating: 4.49 (-)  (as of 23.09.2022)
 | This game is Great for Quick Sessions | 330 |
 | This game has Diverse Characters | 318 |
 | This game is Great for Beginners | 308 |
-| This game is Highly Recommended | 295 |
+| This game is Highly Recommended | 296 |
 | This game has Amazing Characters | 291 |
 | This game has Beautiful Visuals | 287 |
 | This game is Extremely Fun | 272 |

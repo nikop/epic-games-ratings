@@ -3,7 +3,7 @@
   "Name": "ARK: Survival Evolved",
   "Rating": 4.59,
   "NumberOfRatings": 35570,
-  "NumberOfAwards": 226448,
+  "NumberOfAwards": 226464,
   "NumberOfAwardsMax": 55143,
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
   "LastChanged": "2022-09-30T12:30:39.9805116+00:00",
@@ -3532,7 +3532,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 19676
+      "Count": 19692
     },
     {
       "Text": "This game is Extremely Fun",

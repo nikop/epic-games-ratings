@@ -1,6 +1,6 @@
 |  #  | Name | Rating | Number of Awards | 
 | --- | ---- | ------ | ---------------- | 
-| 1 | [Fortnite](games/f/fortnite.md) | 4.30 | 1,176,999 |
+| 1 | [Fortnite](games/f/fortnite.md) | 4.30 | 1,179,756 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 366,147 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 278,465 |
 | 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 178,254 |
@@ -32,9 +32,9 @@
 | 30 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,118 |
 | 31 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,112 |
 | 32 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 9,596 |
-| 33 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 8,813 |
+| 33 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 8,823 |
 | 34 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 8,800 |
-| 35 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,419 |
+| 35 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,437 |
 | 36 | [Control](games/c/control.md) | 4.60 | 8,188 |
 | 37 | [Supraland](games/s/supraland.md) | 4.61 | 7,591 |
 | 38 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,416 |
@@ -98,7 +98,7 @@
 | 96 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,121 |
 | 97 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,117 |
 | 98 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 2,059 |
-| 99 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 2,022 |
+| 99 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 2,026 |
 | 100 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 1,983 |
 | 100 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,962 |
 | 102 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 1,936 |
@@ -123,7 +123,7 @@
 | 121 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,135 |
 | 122 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 1,111 |
 | 123 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 1,090 |
-| 124 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,060 |
+| 124 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,063 |
 | 125 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,055 |
 | 125 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,043 |
 | 127 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,019 |
@@ -200,7 +200,7 @@
 | 198 | [Warface](games/w/warface.md) | 3.92 | 374 |
 | 199 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 372 |
 | 200 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 366 |
-| 201 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 365 |
+| 201 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 366 |
 | 202 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 359 |
 | 203 | [For The King](games/f/for_the_king.md) | 4.70 | 354 |
 | 204 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 336 |
@@ -439,7 +439,7 @@
 | 437 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 29 |
 | 438 | [Isonzo](games/i/isonzo.md) | 4.56 | 29 |
 | 439 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 |
-| 440 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.23 | 29 |
+| 440 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.24 | 29 |
 | 441 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 28 |
 | 442 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.81 | 28 |
 | 443 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 28 |

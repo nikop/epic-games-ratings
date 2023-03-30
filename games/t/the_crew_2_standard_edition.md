@@ -9,7 +9,7 @@ Rating: 4.66 (2,083)  (as of 23.09.2022)
 | This game is Relaxing | 340 |
 | This game has Competitive Players | 326 |
 | This game is Highly Recommended | 325 |
-| This game is Extremely Fun | 321 |
+| This game is Extremely Fun | 322 |
 | This game has Amazing Characters | 285 |
 | This game has Obsessive Gameplay | 207 |
 | This game is Great for Quick Sessions | 87 |

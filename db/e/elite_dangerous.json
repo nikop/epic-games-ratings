@@ -3,8 +3,8 @@
   "Name": "Elite Dangerous",
   "Rating": 4.64,
   "NumberOfRatings": 6856,
-  "NumberOfAwards": 11682,
-  "NumberOfAwardsMax": 2022,
+  "NumberOfAwards": 11686,
+  "NumberOfAwardsMax": 2026,
   "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
   "LastChanged": "2022-09-30T14:32:13.4903687+00:00",
   "RatingHistory": [
@@ -3083,7 +3083,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 2022
+      "Count": 2026
     },
     {
       "Text": "This game is Educational",
