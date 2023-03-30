@@ -8,7 +8,7 @@ Rating: 4.62 (9,223)  (as of 23.09.2022)
 | This game has Quickly Understood Controls | 505 |
 | This game is Educational | 492 |
 | This game has Amazing Storytelling | 486 |
-| This game is Relaxing | 478 |
+| This game is Relaxing | 479 |
 | This game has Amazing Characters | 461 |
 | This game is Highly Recommended | 449 |
 | This game has Diverse Characters | 448 |

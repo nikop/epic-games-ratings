@@ -5,7 +5,7 @@ Rating: 4.58 (15,086)  (as of 23.09.2022)
 | ----- | ----------------- |
 | This game has Quickly Understood Controls | 1,465 |
 | This game is Great for Beginners | 1,429 |
-| This game is Relaxing | 1,398 |
+| This game is Relaxing | 1,399 |
 | This game has Challenging Combat | 1,379 |
 | This game is Extremely Fun | 1,372 |
 | This game is Highly Recommended | 1,331 |

@@ -3,7 +3,7 @@ Rating: 4.49 (1,003)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 207 |
+| This game has Inclusive Character Customization | 208 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

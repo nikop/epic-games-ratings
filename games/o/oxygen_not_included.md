@@ -10,7 +10,7 @@ Rating: 4.84 (897)  (as of 23.09.2022)
 | This game is Educational | 217 |
 | This game has Unique Visuals | 205 |
 | This game is Highly Recommended | 202 |
-| This game has Amazing Characters | 200 |
+| This game has Amazing Characters | 201 |
 | This game has Amazing Storytelling | 192 |
 | This game has a Creative Community | 179 |
 | This game has Obsessive Gameplay | 156 |

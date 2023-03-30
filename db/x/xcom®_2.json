@@ -3,8 +3,8 @@
   "Name": "XCOM\u00AE 2",
   "Rating": 4.54,
   "NumberOfRatings": 7396,
-  "NumberOfAwards": 8861,
-  "NumberOfAwardsMax": 1090,
+  "NumberOfAwards": 8864,
+  "NumberOfAwardsMax": 1093,
   "FirstSeen": "2022-07-22T20:17:40.7075482+00:00",
   "LastChanged": "2023-02-17T15:57:04.501647+00:00",
   "RatingHistory": [
@@ -2885,7 +2885,7 @@
   "Tags": [
     {
       "Text": "This game is Relaxing",
-      "Count": 1090
+      "Count": 1093
     },
     {
       "Text": "This game has Challenging Combat",

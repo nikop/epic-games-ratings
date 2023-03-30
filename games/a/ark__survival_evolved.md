@@ -9,7 +9,7 @@ Rating: 4.59 (35,570)  (as of 23.09.2022)
 | This game is Highly Recommended | 19,692 |
 | This game is Educational | 19,556 |
 | This game is Extremely Fun | 19,427 |
-| This game has Competitive Players | 18,467 |
+| This game has Competitive Players | 18,474 |
 | This game has Quickly Understood Controls | 18,423 |
 | This game has Amazing Storytelling | 18,280 |
 | This game is Relaxing | 18,182 |

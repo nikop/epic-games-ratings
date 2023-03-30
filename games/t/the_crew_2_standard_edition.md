@@ -4,7 +4,7 @@ Rating: 4.66 (2,083)  (as of 23.09.2022)
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Great for Beginners | 374 |
-| This game has Quickly Understood Controls | 345 |
+| This game has Quickly Understood Controls | 346 |
 | This game has Amazing Storytelling | 341 |
 | This game is Relaxing | 340 |
 | This game has Competitive Players | 326 |

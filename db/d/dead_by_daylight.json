@@ -3,8 +3,8 @@
   "Name": "Dead by Daylight",
   "Rating": 4.53,
   "NumberOfRatings": 70340,
-  "NumberOfAwards": 210491,
-  "NumberOfAwardsMax": 25861,
+  "NumberOfAwards": 210547,
+  "NumberOfAwardsMax": 25897,
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "LastChanged": "2022-10-16T14:30:24.2969243+00:00",
   "RatingHistory": [
@@ -3264,7 +3264,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 25861
+      "Count": 25897
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3272,7 +3272,7 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 24482
+      "Count": 24502
     },
     {
       "Text": "This game is Extremely Fun",

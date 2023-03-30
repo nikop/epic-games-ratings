@@ -12,7 +12,7 @@ Rating: 4.73 (57,866)  (as of 23.09.2022)
 | This game has Competitive Players | 23,379 |
 | This game has Amazing Characters | 21,515 |
 | This game has Amazing Storytelling | 20,834 |
-| This game has a Creative Community | 16,716 |
+| This game has a Creative Community | 16,760 |
 | This game has Obsessive Gameplay | 15,734 |
 ## Ratings History
 | Date | Rating | Number of Ratings |

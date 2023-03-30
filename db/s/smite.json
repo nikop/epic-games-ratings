@@ -3,7 +3,7 @@
   "Name": "SMITE",
   "Rating": 4.45,
   "NumberOfRatings": 6749,
-  "NumberOfAwards": 22244,
+  "NumberOfAwards": 22251,
   "NumberOfAwardsMax": 3542,
   "FirstSeen": "2022-07-22T20:18:32.4644513+00:00",
   "LastChanged": "2022-11-23T19:57:07.7052149+00:00",
@@ -2956,7 +2956,7 @@
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 2134
+      "Count": 2141
     }
   ]
 }

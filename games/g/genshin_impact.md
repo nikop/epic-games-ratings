@@ -9,7 +9,7 @@ Rating: 4.68 (219,180)  (as of 23.09.2022)
 | This game has Amazing Characters | 105,571 |
 | This game has Amazing Storytelling | 102,865 |
 | This game is Highly Recommended | 102,171 |
-| This game is Extremely Fun | 101,065 |
+| This game is Extremely Fun | 101,266 |
 | This game is Relaxing | 98,490 |
 | This game has Quickly Understood Controls | 98,075 |
 | This game has Beautiful Visuals | 97,656 |

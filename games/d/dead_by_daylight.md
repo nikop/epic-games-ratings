@@ -3,8 +3,8 @@ Rating: 4.53 (70,340)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Diverse Characters | 25,861 |
-| This game has Competitive Players | 24,482 |
+| This game has Diverse Characters | 25,897 |
+| This game has Competitive Players | 24,502 |
 | This game is Highly Recommended | 23,933 |
 | This game is Extremely Fun | 23,927 |
 | This game has Quickly Understood Controls | 23,876 |

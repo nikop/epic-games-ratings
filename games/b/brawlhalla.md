@@ -5,7 +5,7 @@ Rating: 4.56 (-)  (as of 23.09.2022)
 | ----- | ----------------- |
 | This game has Diverse Characters | 53 |
 | This game has Competitive Players | 51 |
-| This game is Great for Beginners | 48 |
+| This game is Great for Beginners | 51 |
 | This game is Extremely Fun | 46 |
 | This game is Great for Quick Sessions | 46 |
 | This game is Relaxing | 42 |

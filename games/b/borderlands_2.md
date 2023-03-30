@@ -3,7 +3,7 @@ Rating: 4.76 (13,386)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 13,741 |
+| This game has Great Boss Battles | 13,755 |
 | This game is Great for Beginners | 2,390 |
 | This game is Extremely Fun | 2,363 |
 | This game has Diverse Characters | 2,347 |

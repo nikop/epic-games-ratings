@@ -8,9 +8,9 @@ Rating: 4.76 (212)  (as of 23.09.2022)
 | This game is Extremely Fun | 37 |
 | This game has Amazing Storytelling | 36 |
 | This game has Quickly Understood Controls | 33 |
+| This game is Relaxing | 32 |
 | This game has Amazing Characters | 31 |
 | This game has a Creative Community | 31 |
-| This game is Relaxing | 31 |
 | This game is Highly Recommended | 29 |
 | This game is Educational | 28 |
 | This game has Obsessive Gameplay | 25 |

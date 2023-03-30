@@ -5,7 +5,7 @@ Rating: 4.53 (170)  (as of 23.09.2022)
 | ----- | ----------------- |
 | This game is Great for Beginners | 249 |
 | This game has Realistic Visuals | 235 |
-| This game is Extremely Fun | 206 |
+| This game is Extremely Fun | 207 |
 | This game is Educational | 205 |
 | This game is Highly Recommended | 205 |
 | This game has Quickly Understood Controls | 201 |

@@ -11,7 +11,7 @@ Rating: 4.45 (6,749)  (as of 23.09.2022)
 | This game has Amazing Characters | 2,644 |
 | This game has Obsessive Gameplay | 2,413 |
 | This game has Amazing Storytelling | 2,356 |
-| This game has a Competitive Community | 2,134 |
+| This game has a Competitive Community | 2,141 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

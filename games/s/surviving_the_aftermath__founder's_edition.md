@@ -3,7 +3,7 @@ Rating: 4.47 (836)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Extremely Fun | 95 |
+| This game is Extremely Fun | 96 |
 | This game has Amazing Storytelling | 83 |
 | This game is Great for Beginners | 80 |
 | This game is Relaxing | 78 |

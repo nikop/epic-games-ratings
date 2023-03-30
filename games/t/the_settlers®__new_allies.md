@@ -3,9 +3,9 @@ Rating: 3.71 (-)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
+| This game has Quickly Understood Controls | 35 |
 | This game is Relaxing | 34 |
 | This game is Great for Beginners | 34 |
-| This game has Quickly Understood Controls | 34 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

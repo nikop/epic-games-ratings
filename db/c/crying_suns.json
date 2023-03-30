@@ -3,8 +3,8 @@
   "Name": "Crying Suns",
   "Rating": 4.49,
   "NumberOfRatings": 1003,
-  "NumberOfAwards": 207,
-  "NumberOfAwardsMax": 207,
+  "NumberOfAwards": 208,
+  "NumberOfAwardsMax": 208,
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "LastChanged": "2022-11-10T17:57:38.9075858+00:00",
   "RatingHistory": [
@@ -505,7 +505,7 @@
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 207
+      "Count": 208
     }
   ]
 }

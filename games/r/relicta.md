@@ -3,7 +3,7 @@ Rating: 4.15 (429)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game features Challenging Puzzles | 188 |
+| This game features Challenging Puzzles | 189 |
 | In this game, your choices Don't Impact the Story | 65 |
 ## Ratings History
 | Date | Rating | Number of Ratings |

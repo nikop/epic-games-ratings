@@ -3,7 +3,7 @@ Rating: 4.80 (19,160)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Relaxing | 6,196 |
+| This game is Relaxing | 6,199 |
 | This game is Extremely Fun | 5,845 |
 | This game has Competitive Players | 5,675 |
 | This game has Quickly Understood Controls | 5,672 |

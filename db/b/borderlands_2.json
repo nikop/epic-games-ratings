@@ -3,8 +3,8 @@
   "Name": "Borderlands 2",
   "Rating": 4.76,
   "NumberOfRatings": 13386,
-  "NumberOfAwards": 34546,
-  "NumberOfAwardsMax": 13741,
+  "NumberOfAwards": 34560,
+  "NumberOfAwardsMax": 13755,
   "FirstSeen": "2022-07-22T20:18:04.5825777+00:00",
   "LastChanged": "2022-12-07T20:56:59.5213772+00:00",
   "RatingHistory": [
@@ -3383,7 +3383,7 @@
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 13741
+      "Count": 13755
     },
     {
       "Text": "This game has Amazing Storytelling",
