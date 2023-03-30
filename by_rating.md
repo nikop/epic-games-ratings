@@ -113,7 +113,7 @@
 | 106 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | - |
 | 106 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 27 |
 | 113 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | - |
-| 113 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 1,911 |
+| 113 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 1,936 |
 | 113 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 13,741 |
 | 113 | [Diabotical](games/d/diabotical.md) | 4.76 | 259 |
 | 113 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 789 |
@@ -153,7 +153,7 @@
 | 141 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 723 |
 | 141 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 41 |
 | 141 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 76 |
-| 141 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 567 |
+| 141 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 568 |
 | 155 | [BLACKTAIL](games/b/blacktail.md) | 4.73 | - |
 | 155 | [DOOM II](games/d/doom_ii.md) | 4.73 | 25 |
 | 155 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 756 |
@@ -864,7 +864,7 @@
 | 862 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | - |
 | 862 | [Gravewood High](games/g/gravewood_high.md) | 3.98 | - |
 | 862 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | - |
-| 862 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 1,262 |
+| 862 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 1,275 |
 | 862 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,475 |
 | 862 | [The First Tree](games/t/the_first_tree.md) | 3.98 | - |
 | 868 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | - |

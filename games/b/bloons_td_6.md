@@ -3,7 +3,7 @@ Rating: 4.76 (136)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 1,911 |
+| This game is Great for Beginners | 1,936 |
 | This game has Diverse Characters | 1,553 |
 | This game has Playful Visuals | 1,222 |
 | This game is Highly Recommended | 1,188 |

@@ -3,7 +3,7 @@
   "Name": "Warframe",
   "Rating": 4.61,
   "NumberOfRatings": 12660,
-  "NumberOfAwards": 13837,
+  "NumberOfAwards": 36333,
   "NumberOfAwardsMax": 13837,
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
   "LastChanged": "2022-11-05T17:00:29.9363602+00:00",
@@ -3276,7 +3276,7 @@
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 2600
+      "Count": 2608
     },
     {
       "Text": "This game has a Kind Community",

@@ -6,7 +6,7 @@ Rating: 4.49 (-)  (as of 23.09.2022)
 | This game has Inclusive Character Customization | 1,983 |
 | This game has Great Boss Battles | 1,433 |
 | This game is Great for Quick Sessions | 330 |
-| This game has Diverse Characters | 315 |
+| This game has Diverse Characters | 318 |
 | This game is Great for Beginners | 308 |
 | This game is Highly Recommended | 295 |
 | This game has Amazing Characters | 291 |

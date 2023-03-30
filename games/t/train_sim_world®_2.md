@@ -9,7 +9,7 @@ Rating: 4.42 (2,541)  (as of 23.09.2022)
 | This game is Extremely Fun | 442 |
 | This game is Educational | 440 |
 | This game has Realistic Visuals | 433 |
-| This game is Highly Recommended | 409 |
+| This game is Highly Recommended | 410 |
 | This game has Obsessive Gameplay | 388 |
 | This game has Amazing Storytelling | 330 |
 | This game has Amazing Characters | 326 |

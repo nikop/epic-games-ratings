@@ -9,7 +9,7 @@ Rating: 4.87 (14,015)  (as of 23.09.2022)
 | This game is Relaxing | 884 |
 | This game is Highly Recommended | 881 |
 | This game has Amazing Characters | 863 |
-| This game has Amazing Storytelling | 861 |
+| This game has Amazing Storytelling | 862 |
 | This game is Great for Beginners | 856 |
 | This game has Diverse Characters | 829 |
 | This game has Obsessive Gameplay | 678 |

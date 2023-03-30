@@ -4,7 +4,7 @@ Rating: 4.23 (39)  (as of 23.09.2022)
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Extremely Fun | 29 |
-| This game is Highly Recommended | 23 |
+| This game is Highly Recommended | 24 |
 | This game has Diverse Characters | 21 |
 | This game has Quickly Understood Controls | 21 |
 | This game has Competitive Players | 20 |

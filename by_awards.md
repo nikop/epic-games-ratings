@@ -101,7 +101,7 @@
 | 99 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 2,022 |
 | 100 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 1,983 |
 | 100 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,962 |
-| 102 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 1,911 |
+| 102 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 1,936 |
 | 103 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 1,853 |
 | 104 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.71 | 1,791 |
 | 105 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,771 |
@@ -117,7 +117,7 @@
 | 115 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.68 | 1,324 |
 | 116 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,284 |
 | 117 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,282 |
-| 118 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 1,262 |
+| 118 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 1,275 |
 | 119 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,166 |
 | 120 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 1,151 |
 | 121 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,135 |
@@ -163,8 +163,8 @@
 | 161 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 604 |
 | 162 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 600 |
 | 163 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 576 |
-| 163 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 567 |
-| 165 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 567 |
+| 164 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 568 |
+| 165 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 567 |
 | 166 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 557 |
 | 167 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 547 |
 | 168 | [Filament](games/f/filament.md) | 4.32 | 547 |

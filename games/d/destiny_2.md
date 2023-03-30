@@ -8,7 +8,7 @@ Rating: 4.50 (32,207)  (as of 23.09.2022)
 | This game is Relaxing | 5,704 |
 | This game is Extremely Fun | 5,694 |
 | This game has Quickly Understood Controls | 5,640 |
-| This game is Highly Recommended | 5,618 |
+| This game is Highly Recommended | 5,624 |
 | This game has Amazing Storytelling | 5,446 |
 | This game has Amazing Characters | 5,384 |
 | This game has Competitive Players | 5,379 |

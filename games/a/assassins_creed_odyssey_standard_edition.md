@@ -11,7 +11,7 @@ Rating: 4.75 (5,481)  (as of 23.09.2022)
 | This game has Diverse Characters | 377 |
 | This game is Educational | 375 |
 | This game is Extremely Fun | 370 |
-| This game is Relaxing | 366 |
+| This game is Relaxing | 367 |
 | This game has Quickly Understood Controls | 353 |
 | This game has Amazing Storytelling | 352 |
 | This game has Obsessive Gameplay | 210 |

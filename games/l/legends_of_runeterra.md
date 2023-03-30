@@ -5,7 +5,7 @@ Rating: 4.65 (431)  (as of 23.09.2022)
 | ----- | ----------------- |
 | This game is Great for Quick Sessions | 145 |
 | This game has Diverse Characters | 136 |
-| This game is Great for Beginners | 128 |
+| This game is Great for Beginners | 129 |
 | This game has Quickly Understood Controls | 116 |
 | This game is Relaxing | 114 |
 | This game is Highly Recommended | 107 |

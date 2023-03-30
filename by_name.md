@@ -96,7 +96,7 @@
 | 94 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 135 |
 | 95 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | - |
 | 96 | [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | - |
-| 97 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 1,911 |
+| 97 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 1,936 |
 | 98 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 13,741 |
 | 99 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 106,148 |
 | 100 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 391 |
@@ -545,7 +545,7 @@
 | 543 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.48 | - |
 | 544 | [Prey](games/p/prey.md) | 4.62 | 5,474 |
 | 545 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 389 |
-| 546 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 1,262 |
+| 546 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 1,275 |
 | 547 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | - |
 | 548 | [Quake](games/q/quake.md) | 4.75 | 43 |
 | 549 | [Rage 2](games/r/rage_2.md) | 4.28 | 2,407 |
@@ -829,7 +829,7 @@
 | 827 | [TUNIC](games/t/tunic.md) | 4.85 | 32 |
 | 828 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | - |
 | 829 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 686 |
-| 830 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 567 |
+| 830 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 568 |
 | 831 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | - |
 | 832 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.64 | - |
 | 833 | [UnMetal](games/u/unmetal.md) | 4.52 | - |

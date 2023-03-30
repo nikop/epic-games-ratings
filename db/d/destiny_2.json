@@ -3,7 +3,7 @@
   "Name": "Destiny 2",
   "Rating": 4.5,
   "NumberOfRatings": 32207,
-  "NumberOfAwards": 32213,
+  "NumberOfAwards": 77160,
   "NumberOfAwardsMax": 32213,
   "FirstSeen": "2022-08-23T20:00:58.6908762+00:00",
   "FirstSeenRating": "2022-08-24T03:30:20.9735605+00:00",
@@ -1913,7 +1913,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 5618
+      "Count": 5624
     },
     {
       "Text": "This game is Relaxing",

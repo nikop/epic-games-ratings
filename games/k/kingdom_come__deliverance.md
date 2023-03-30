@@ -10,7 +10,7 @@ Rating: 4.71 (9,133)  (as of 23.09.2022)
 | This game has Diverse Characters | 1,586 |
 | This game is Extremely Fun | 1,585 |
 | This game is Highly Recommended | 1,576 |
-| This game has Amazing Characters | 1,573 |
+| This game has Amazing Characters | 1,574 |
 | This game has Realistic Visuals | 1,547 |
 | This game is Educational | 1,508 |
 | This game is Relaxing | 1,453 |
