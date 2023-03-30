@@ -1,5 +1,19 @@
 # OUTRIDERS
 Rating: 4.42 (1,201)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 1,060 |
+| This game has Amazing Characters | 158 |
+| This game is Extremely Fun | 152 |
+| This game is Relaxing | 148 |
+| This game has Diverse Characters | 146 |
+| This game is Great for Beginners | 146 |
+| This game has Quickly Understood Controls | 143 |
+| This game has Amazing Storytelling | 139 |
+| This game has Challenging Combat | 133 |
+| This game is Highly Recommended | 132 |
+| This game has Obsessive Gameplay | 99 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

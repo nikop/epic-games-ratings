@@ -1,5 +1,17 @@
 # Chivalry 2
 Rating: 4.61 (18,078)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Extremely Fun | 3,910 |
+| This game has Competitive Players | 3,909 |
+| This game has Diverse Characters | 3,829 |
+| This game is Highly Recommended | 3,762 |
+| This game has Quickly Understood Controls | 3,638 |
+| This game has Amazing Characters | 3,307 |
+| This game has Amazing Storytelling | 3,067 |
+| This game has Obsessive Gameplay | 2,760 |
+| This game is Great for Beginners | 968 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

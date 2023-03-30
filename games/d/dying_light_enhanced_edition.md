@@ -1,5 +1,21 @@
 # Dying Light Enhanced Edition
 Rating: 4.68 (3,181)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 3,865 |
+| This game has Great Boss Battles | 2,819 |
+| This game is Great for Beginners | 646 |
+| This game has Diverse Characters | 627 |
+| This game is Highly Recommended | 609 |
+| This game is Extremely Fun | 593 |
+| This game is Relaxing | 580 |
+| This game has Quickly Understood Controls | 566 |
+| This game has Amazing Characters | 560 |
+| This game has Amazing Storytelling | 553 |
+| This game has a Creative Community | 436 |
+| This game has Obsessive Gameplay | 355 |
+| This game has Unique Visuals | 122 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

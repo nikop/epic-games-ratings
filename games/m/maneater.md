@@ -1,5 +1,22 @@
 # Maneater
 Rating: 4.49 (82,037)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 13,362 |
+| This game has Great Boss Battles | 3,267 |
+| This game is Relaxing | 92 |
+| This game has Amazing Storytelling | 90 |
+| This game has Quickly Understood Controls | 87 |
+| This game is Highly Recommended | 84 |
+| This game is Great for Beginners | 84 |
+| This game is Extremely Fun | 83 |
+| This game is Educational | 82 |
+| This game has Amazing Characters | 78 |
+| This game has Diverse Characters | 78 |
+| This game is Great for Quick Sessions | 76 |
+| This game has a Creative Community | 68 |
+| This game has Obsessive Gameplay | 64 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

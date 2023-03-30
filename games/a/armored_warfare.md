@@ -1,5 +1,18 @@
 # Armored Warfare
 Rating: 4.09 (458)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Relaxing | 70 |
+| This game is Great for Beginners | 68 |
+| This game has Amazing Storytelling | 62 |
+| This game has Diverse Characters | 59 |
+| This game has Quickly Understood Controls | 58 |
+| This game is Great for Quick Sessions | 57 |
+| This game has Competitive Players | 56 |
+| This game is Highly Recommended | 56 |
+| This game has Amazing Characters | 50 |
+| This game has a Competitive Community | 41 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

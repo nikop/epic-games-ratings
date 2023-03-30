@@ -1,5 +1,18 @@
 # SnowRunner
 Rating: 4.76 (21,349)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 7,311 |
+| This game is Relaxing | 6,960 |
+| This game has Quickly Understood Controls | 6,873 |
+| This game is Highly Recommended | 6,721 |
+| This game is Extremely Fun | 6,543 |
+| This game has Amazing Storytelling | 5,828 |
+| This game has Challenging Combat | 4,562 |
+| This game has Amazing Characters | 4,113 |
+| This game has Obsessive Gameplay | 4,064 |
+| This game has a Creative Community | 3,876 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,8 @@
 # Necromunda: Hired Gun
 Rating: 4.11 (112)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

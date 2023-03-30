@@ -1,5 +1,11 @@
 # Spirit of the North
 Rating: 4.36 (1,175)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Extremely Fun | 25 |
+| This game is Relaxing | 24 |
+| This game has Amazing Storytelling | 23 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

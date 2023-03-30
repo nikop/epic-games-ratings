@@ -1,5 +1,21 @@
 # Bloons TD 6
 Rating: 4.76 (136)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 1,911 |
+| This game has Diverse Characters | 1,553 |
+| This game has Playful Visuals | 1,222 |
+| This game is Highly Recommended | 1,188 |
+| This game has a Creative Community | 1,034 |
+| This game is Extremely Fun | 1,017 |
+| This game has Amazing Characters | 1,013 |
+| This game has Amazing Storytelling | 916 |
+| This game has Quickly Understood Controls | 915 |
+| This game is Relaxing | 897 |
+| This game is Great for Quick Sessions | 64 |
+| This game has Competitive Players | 40 |
+| This game has Obsessive Gameplay | 33 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

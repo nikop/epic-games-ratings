@@ -1,5 +1,18 @@
 # This War of Mine
 Rating: 4.74 (1,090)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Diverse Characters | 76 |
+| This game has Quickly Understood Controls | 72 |
+| This game has Unique Visuals | 68 |
+| This game is Educational | 67 |
+| This game has Amazing Characters | 65 |
+| This game is Extremely Fun | 60 |
+| This game is Highly Recommended | 56 |
+| This game is Relaxing | 56 |
+| This game has Amazing Storytelling | 54 |
+| This game has a Creative Community | 30 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

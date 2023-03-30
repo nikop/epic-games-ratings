@@ -1,5 +1,9 @@
 # Assassin's Creed® III: Remastered
 Rating: 4.47 (257)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 84 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

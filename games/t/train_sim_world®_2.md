@@ -1,5 +1,19 @@
 # Train Sim World® 2
 Rating: 4.42 (2,541)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 529 |
+| This game is Relaxing | 458 |
+| This game has Quickly Understood Controls | 455 |
+| This game is Extremely Fun | 442 |
+| This game is Educational | 440 |
+| This game has Realistic Visuals | 433 |
+| This game is Highly Recommended | 409 |
+| This game has Obsessive Gameplay | 388 |
+| This game has Amazing Storytelling | 330 |
+| This game has Amazing Characters | 326 |
+| This game has a Creative Community | 288 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

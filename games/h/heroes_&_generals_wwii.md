@@ -1,5 +1,17 @@
 # Heroes & Generals WWII
 Rating: 4.23 (4,634)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Diverse Characters | 969 |
+| This game is Extremely Fun | 921 |
+| This game has Quickly Understood Controls | 879 |
+| This game has Competitive Players | 879 |
+| This game is Highly Recommended | 850 |
+| This game has Amazing Characters | 809 |
+| This game has Amazing Storytelling | 791 |
+| This game has a Competitive Community | 708 |
+| This game has Obsessive Gameplay | 152 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

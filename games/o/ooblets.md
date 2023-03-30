@@ -1,5 +1,21 @@
 # Ooblets
 Rating: 4.87 (1,446)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 991 |
+| This game has Amazing Storytelling | 84 |
+| This game has Playful Visuals | 77 |
+| This game is Great for Beginners | 76 |
+| This game is Extremely Fun | 76 |
+| This game has Amazing Characters | 72 |
+| This game is Relaxing | 72 |
+| This game has Quickly Understood Controls | 70 |
+| This game has Easy Combat | 69 |
+| This game is Highly Recommended | 68 |
+| This game has a Kind Community | 60 |
+| This game has Diverse Characters | 57 |
+| This game has Obsessive Gameplay | 52 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

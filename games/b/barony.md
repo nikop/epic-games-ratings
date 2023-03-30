@@ -1,5 +1,17 @@
 # Barony
 Rating: 4.71 (763)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Quickly Understood Controls | 69 |
+| This game has Challenging Combat | 69 |
+| This game is Extremely Fun | 68 |
+| This game has Diverse Characters | 66 |
+| This game is Highly Recommended | 61 |
+| This game has Amazing Characters | 60 |
+| This game has Unique Visuals | 50 |
+| This game has Amazing Storytelling | 47 |
+| This game has a Creative Community | 36 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,19 @@
 # WRC 9 FIA World Rally Championship
 Rating: 4.53 (233)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 29 |
+| This game has Competitive Players | 28 |
+| This game is Highly Recommended | 26 |
+| This game is Relaxing | 24 |
+| This game is Great for Quick Sessions | 24 |
+| This game has Quickly Understood Controls | 23 |
+| This game has Challenging Combat | 21 |
+| This game has Realistic Visuals | 21 |
+| This game has Obsessive Gameplay | 20 |
+| This game has Amazing Characters | 20 |
+| This game is Extremely Fun | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

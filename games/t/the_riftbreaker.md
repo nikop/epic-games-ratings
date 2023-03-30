@@ -1,5 +1,15 @@
 # The Riftbreaker
 Rating: 4.75 (277)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 36 |
+| This game is Relaxing | 29 |
+| This game is Highly Recommended | 25 |
+| This game has Amazing Storytelling | 25 |
+| This game is Extremely Fun | 22 |
+| This game has Quickly Understood Controls | 20 |
+| This game has Amazing Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

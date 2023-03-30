@@ -1,5 +1,12 @@
 # Sunless Sea
 Rating: 4.58 (401)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 201 |
+| This game has Unique Visuals | 24 |
+| This game has Amazing Storytelling | 24 |
+| This game has Quickly Understood Controls | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,19 @@
 # Tomb Raider GAME OF THE YEAR EDITION
 Rating: 4.66 (20,961)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 5,725 |
+| This game has Quickly Understood Controls | 133 |
+| This game has Diverse Characters | 127 |
+| This game is Relaxing | 120 |
+| This game is Highly Recommended | 117 |
+| This game is Extremely Fun | 116 |
+| This game is Great for Beginners | 114 |
+| This game has Amazing Characters | 111 |
+| This game has Amazing Storytelling | 102 |
+| This game has a Creative Community | 69 |
+| This game has Obsessive Gameplay | 25 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,20 @@
 # Borderlands 2
 Rating: 4.76 (13,386)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 13,741 |
+| This game is Great for Beginners | 2,390 |
+| This game is Extremely Fun | 2,363 |
+| This game has Diverse Characters | 2,347 |
+| This game has Amazing Characters | 2,343 |
+| This game has Amazing Storytelling | 2,331 |
+| This game is Highly Recommended | 2,311 |
+| This game has Quickly Understood Controls | 2,291 |
+| This game is Relaxing | 2,237 |
+| This game has Unique Visuals | 2,192 |
+| This game has Obsessive Gameplay | 1,707 |
+| This game has Challenging Combat | 1,019 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

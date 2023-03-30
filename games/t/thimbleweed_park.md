@@ -1,5 +1,9 @@
 # Thimbleweed Park
 Rating: 4.60 (115)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game features Challenging Puzzles | 30 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

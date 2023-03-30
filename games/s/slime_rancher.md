@@ -1,5 +1,20 @@
 # Slime Rancher
 Rating: 4.83 (5,898)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 385 |
+| This game has Quickly Understood Controls | 358 |
+| This game has Amazing Storytelling | 351 |
+| This game is Extremely Fun | 332 |
+| This game has Easy Combat | 331 |
+| This game is Relaxing | 328 |
+| This game is Highly Recommended | 308 |
+| This game has Diverse Characters | 295 |
+| This game has Amazing Characters | 294 |
+| This game has Obsessive Gameplay | 243 |
+| This game is Educational | 87 |
+| This game has a Kind Community | 42 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

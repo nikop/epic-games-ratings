@@ -1,5 +1,15 @@
 # Ghostwire: Tokyo
 Rating: 4.52 (1,100)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 493 |
+| This game has Amazing Characters | 24 |
+| This game has Amazing Storytelling | 24 |
+| This game has Diverse Characters | 22 |
+| This game is Great for Beginners | 21 |
+| This game has Quickly Understood Controls | 20 |
+| This game is Relaxing | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

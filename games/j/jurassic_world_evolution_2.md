@@ -1,5 +1,19 @@
 # Jurassic World Evolution 2
 Rating: 4.73 (3,746)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Amazing Storytelling | 557 |
+| This game is Great for Beginners | 551 |
+| This game is Extremely Fun | 543 |
+| This game is Relaxing | 541 |
+| This game is Educational | 521 |
+| This game is Highly Recommended | 520 |
+| This game has Quickly Understood Controls | 511 |
+| This game has Amazing Characters | 509 |
+| This game has Diverse Characters | 495 |
+| This game has a Creative Community | 455 |
+| This game has Obsessive Gameplay | 374 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -3,7 +3,7 @@
   "Name": "EVE Online",
   "Rating": 4.26,
   "NumberOfRatings": 1408,
-  "NumberOfAwards": 2132,
+  "NumberOfAwards": 2133,
   "FirstSeen": "2022-07-22T20:17:38.4001765+00:00",
   "LastChanged": "2023-03-12T04:56:59.8423351+00:00",
   "RatingHistory": [
@@ -1467,7 +1467,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 162
+      "Count": 163
     },
     {
       "Text": "This game has Challenging Combat",

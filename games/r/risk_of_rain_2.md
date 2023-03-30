@@ -1,5 +1,20 @@
 # Risk of Rain 2
 Rating: 4.85 (1,310)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Relaxing | 223 |
+| This game is Extremely Fun | 220 |
+| This game has Diverse Characters | 211 |
+| This game is Great for Beginners | 207 |
+| This game has Amazing Characters | 206 |
+| This game has Quickly Understood Controls | 205 |
+| This game is Highly Recommended | 198 |
+| This game has Challenging Combat | 194 |
+| This game has Amazing Storytelling | 180 |
+| This game has Unique Visuals | 173 |
+| This game has Obsessive Gameplay | 154 |
+| This game has a Creative Community | 143 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

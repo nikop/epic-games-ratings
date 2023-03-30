@@ -1,5 +1,19 @@
 # Dauntless
 Rating: 4.53 (23,656)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 19,137 |
+| This game has Great Boss Battles | 12,902 |
+| This game is Great for Beginners | 2,865 |
+| This game is Extremely Fun | 2,606 |
+| This game has Quickly Understood Controls | 2,588 |
+| This game is Highly Recommended | 2,588 |
+| This game is Relaxing | 2,586 |
+| This game has Amazing Characters | 2,488 |
+| This game is Great for Quick Sessions | 1,548 |
+| This game has Diverse Characters | 915 |
+| This game has Obsessive Gameplay | 420 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

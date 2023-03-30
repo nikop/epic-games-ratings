@@ -1,5 +1,19 @@
 # House Flipper
 Rating: 4.70 (1,023)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 277 |
+| This game is Educational | 228 |
+| This game is Extremely Fun | 217 |
+| This game is Relaxing | 215 |
+| This game has Quickly Understood Controls | 211 |
+| This game has Amazing Storytelling | 203 |
+| This game is Highly Recommended | 201 |
+| This game has a Creative Community | 200 |
+| This game has Amazing Characters | 180 |
+| This game has Obsessive Gameplay | 173 |
+| This game has Easy Combat | 153 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

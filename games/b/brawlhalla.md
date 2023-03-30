@@ -1,5 +1,20 @@
 # Brawlhalla
 Rating: 4.56 (-)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Diverse Characters | 53 |
+| This game has Competitive Players | 51 |
+| This game is Great for Beginners | 48 |
+| This game is Extremely Fun | 46 |
+| This game is Great for Quick Sessions | 46 |
+| This game is Relaxing | 42 |
+| This game has Challenging Combat | 40 |
+| This game has Amazing Storytelling | 40 |
+| This game has Quickly Understood Controls | 38 |
+| This game is Highly Recommended | 37 |
+| This game has Amazing Characters | 34 |
+| This game has a Competitive Community | 29 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

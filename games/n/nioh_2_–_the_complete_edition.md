@@ -1,5 +1,20 @@
 # Nioh 2 – The Complete Edition
 Rating: 4.80 (2,526)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 2,309 |
+| This game has Great Boss Battles | 1,720 |
+| This game is Extremely Fun | 408 |
+| This game has Diverse Characters | 406 |
+| This game is Highly Recommended | 399 |
+| This game has Amazing Storytelling | 393 |
+| This game has Amazing Characters | 371 |
+| This game has Unique Visuals | 325 |
+| This game has a Creative Community | 295 |
+| This game has Obsessive Gameplay | 291 |
+| This game has Challenging Combat | 185 |
+| This game is Relaxing | 107 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

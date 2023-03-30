@@ -1,5 +1,19 @@
 # Jurassic World Evolution
 Rating: 4.62 (9,223)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Extremely Fun | 522 |
+| This game is Great for Beginners | 517 |
+| This game has Quickly Understood Controls | 505 |
+| This game is Educational | 492 |
+| This game has Amazing Storytelling | 486 |
+| This game is Relaxing | 478 |
+| This game has Amazing Characters | 461 |
+| This game is Highly Recommended | 449 |
+| This game has Diverse Characters | 448 |
+| This game has Obsessive Gameplay | 415 |
+| This game has a Creative Community | 366 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

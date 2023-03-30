@@ -1,5 +1,15 @@
 # Ancient Enemy
 Rating: 3.95 (2,089)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Relaxing | 45 |
+| This game has Quickly Understood Controls | 44 |
+| This game is Extremely Fun | 42 |
+| This game has Amazing Storytelling | 38 |
+| This game is Great for Quick Sessions | 38 |
+| This game is Great for Beginners | 35 |
+| This game is Highly Recommended | 31 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

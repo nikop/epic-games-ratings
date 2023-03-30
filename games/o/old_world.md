@@ -1,5 +1,20 @@
 # Old World
 Rating: 4.65 (1,307)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Relaxing | 212 |
+| This game is Educational | 198 |
+| This game is Highly Recommended | 198 |
+| This game has Diverse Characters | 197 |
+| This game is Extremely Fun | 197 |
+| This game has Amazing Characters | 187 |
+| This game has Challenging Combat | 185 |
+| This game has Quickly Understood Controls | 181 |
+| This game has Amazing Storytelling | 181 |
+| This game has Obsessive Gameplay | 155 |
+| This game has a Creative Community | 101 |
+| This game has Competitive Players | 59 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

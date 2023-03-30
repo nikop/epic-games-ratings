@@ -1,5 +1,14 @@
 # The Callisto Protocol
 Rating: 4.17 (-)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Highly Recommended | 43 |
+| This game has Amazing Storytelling | 41 |
+| This game is Extremely Fun | 40 |
+| This game has Amazing Characters | 39 |
+| This game has Quickly Understood Controls | 37 |
+| This game has Challenging Combat | 29 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

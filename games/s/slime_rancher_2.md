@@ -1,5 +1,20 @@
 # Slime Rancher 2
 Rating: 4.80 (36)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Amazing Storytelling | 97 |
+| This game has Quickly Understood Controls | 90 |
+| This game is Great for Beginners | 88 |
+| This game is Relaxing | 85 |
+| This game is Educational | 80 |
+| This game has Amazing Characters | 80 |
+| This game is Extremely Fun | 78 |
+| This game has Easy Combat | 75 |
+| This game is Highly Recommended | 71 |
+| This game has a Creative Community | 68 |
+| This game has Diverse Characters | 63 |
+| This game has Obsessive Gameplay | 49 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

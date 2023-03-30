@@ -1,5 +1,20 @@
 # Horizon Zero Dawn™ Complete Edition
 Rating: 4.77 (7,175)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 3,788 |
+| This game has Great Boss Battles | 2,319 |
+| This game is Extremely Fun | 212 |
+| This game has Amazing Storytelling | 209 |
+| This game is Highly Recommended | 204 |
+| This game has Beautiful Visuals | 201 |
+| This game is Relaxing | 196 |
+| This game has Diverse Characters | 193 |
+| This game has Amazing Characters | 191 |
+| This game has Quickly Understood Controls | 191 |
+| This game is Great for Beginners | 191 |
+| This game has a Creative Community | 99 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

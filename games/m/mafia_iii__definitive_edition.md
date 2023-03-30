@@ -1,5 +1,19 @@
 # Mafia III: Definitive Edition
 Rating: 4.20 (1,289)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 307 |
+| This game has Amazing Characters | 68 |
+| This game has Amazing Storytelling | 66 |
+| This game is Relaxing | 55 |
+| This game is Great for Beginners | 55 |
+| This game is Extremely Fun | 55 |
+| This game has Quickly Understood Controls | 54 |
+| This game has Diverse Characters | 53 |
+| This game is Highly Recommended | 42 |
+| This game has Obsessive Gameplay | 30 |
+| This game has Realistic Visuals | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

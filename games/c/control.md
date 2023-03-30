@@ -1,5 +1,18 @@
 # Control
 Rating: 4.60 (16,122)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 8,188 |
+| This game is Highly Recommended | 490 |
+| This game has Amazing Storytelling | 484 |
+| This game has Challenging Combat | 477 |
+| This game is Extremely Fun | 472 |
+| This game has Diverse Characters | 468 |
+| This game has Quickly Understood Controls | 464 |
+| This game has Unique Visuals | 451 |
+| This game has Amazing Characters | 449 |
+| This game has a Creative Community | 259 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

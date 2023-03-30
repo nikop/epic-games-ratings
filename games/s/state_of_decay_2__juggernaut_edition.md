@@ -1,5 +1,20 @@
 # State of Decay 2: Juggernaut Edition
 Rating: 4.73 (1,354)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Extremely Fun | 306 |
+| This game is Great for Beginners | 286 |
+| This game has Diverse Characters | 285 |
+| This game has Quickly Understood Controls | 282 |
+| This game is Relaxing | 270 |
+| This game is Highly Recommended | 258 |
+| This game has Amazing Storytelling | 243 |
+| This game has Amazing Characters | 235 |
+| This game has Obsessive Gameplay | 187 |
+| This game has a Creative Community | 169 |
+| This game has Challenging Combat | 79 |
+| This game has Playful Visuals | 40 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

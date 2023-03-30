@@ -1,5 +1,23 @@
 # God of War
 Rating: 4.89 (4,943)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 3,892 |
+| This game has Great Boss Battles | 2,098 |
+| This game is Extremely Fun | 166 |
+| This game has Amazing Characters | 160 |
+| This game has Amazing Storytelling | 156 |
+| This game has Competitive Players | 152 |
+| This game is Highly Recommended | 147 |
+| This game is Educational | 147 |
+| This game is Relaxing | 143 |
+| This game has Diverse Characters | 142 |
+| This game has Challenging Combat | 133 |
+| This game has Quickly Understood Controls | 125 |
+| This game has a Creative Community | 90 |
+| This game has Obsessive Gameplay | 86 |
+| This game is Great for Beginners | 59 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

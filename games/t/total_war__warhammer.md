@@ -1,5 +1,21 @@
 # Total War: WARHAMMER
 Rating: 4.58 (8,439)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 5,908 |
+| This game is Highly Recommended | 936 |
+| This game has Diverse Characters | 929 |
+| This game is Extremely Fun | 888 |
+| This game has Amazing Storytelling | 858 |
+| This game has Challenging Combat | 829 |
+| This game is Relaxing | 828 |
+| This game has Amazing Characters | 811 |
+| This game has Quickly Understood Controls | 800 |
+| This game has Competitive Players | 794 |
+| This game has Obsessive Gameplay | 631 |
+| This game has Unique Visuals | 226 |
+| This game has a Creative Community | 119 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,19 @@
 # Warface
 Rating: 3.92 (3,179)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Relaxing | 374 |
+| This game has Diverse Characters | 362 |
+| This game has Competitive Players | 355 |
+| This game is Highly Recommended | 332 |
+| This game has Amazing Storytelling | 328 |
+| This game has Quickly Understood Controls | 328 |
+| This game has Amazing Characters | 312 |
+| This game is Extremely Fun | 309 |
+| This game is Great for Quick Sessions | 277 |
+| This game has a Competitive Community | 254 |
+| This game is Great for Beginners | 146 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

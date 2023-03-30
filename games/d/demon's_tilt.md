@@ -1,5 +1,9 @@
 # DEMON'S TILT
 Rating: 4.51 (276)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Quick Sessions | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

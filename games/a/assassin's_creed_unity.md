@@ -1,5 +1,12 @@
 # Assassin's Creed Unity
 Rating: 4.57 (900)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 547 |
+| This game has Great Boss Battles | 32 |
+| This game is Great for Beginners | 21 |
+| This game has Unique Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

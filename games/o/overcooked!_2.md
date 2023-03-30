@@ -1,5 +1,21 @@
 # Overcooked! 2
 Rating: 4.74 (5,157)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Relaxing | 222 |
+| This game is Great for Beginners | 209 |
+| This game is Educational | 189 |
+| This game is Extremely Fun | 187 |
+| This game has Quickly Understood Controls | 182 |
+| This game is Highly Recommended | 178 |
+| This game is Great for Quick Sessions | 177 |
+| This game has Amazing Characters | 175 |
+| This game has Diverse Characters | 166 |
+| This game has Amazing Storytelling | 159 |
+| This game has Obsessive Gameplay | 150 |
+| This game has Playful Visuals | 144 |
+| This game has a Creative Community | 104 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

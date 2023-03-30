@@ -1,5 +1,18 @@
 # Galactic Civilizations IV
 Rating: 4.19 (429)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Relaxing | 84 |
+| This game has Diverse Characters | 83 |
+| This game has Quickly Understood Controls | 80 |
+| This game is Extremely Fun | 80 |
+| This game is Highly Recommended | 79 |
+| This game has Amazing Storytelling | 76 |
+| This game has Competitive Players | 68 |
+| This game has Amazing Characters | 64 |
+| This game has Obsessive Gameplay | 50 |
+| This game has a Creative Community | 26 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

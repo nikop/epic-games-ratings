@@ -1,5 +1,9 @@
 # Five Nights at Freddy's: Security Breach
 Rating: 4.56 (169)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Amazing Storytelling | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

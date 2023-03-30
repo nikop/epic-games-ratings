@@ -1,5 +1,20 @@
 # Assassin's Creed Origins Standard Edition
 Rating: 4.68 (3,843)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 2,877 |
+| This game has Amazing Storytelling | 222 |
+| This game is Great for Beginners | 219 |
+| This game is Relaxing | 216 |
+| This game is Extremely Fun | 215 |
+| This game has Amazing Characters | 211 |
+| This game is Highly Recommended | 211 |
+| This game has Quickly Understood Controls | 208 |
+| This game is Educational | 192 |
+| This game has Diverse Characters | 174 |
+| This game has Obsessive Gameplay | 114 |
+| This game has a Creative Community | 96 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

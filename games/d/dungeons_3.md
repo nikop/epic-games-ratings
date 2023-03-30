@@ -1,5 +1,19 @@
 # Dungeons 3
 Rating: 4.65 (1,635)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 313 |
+| This game is Extremely Fun | 302 |
+| This game has Quickly Understood Controls | 290 |
+| This game is Highly Recommended | 276 |
+| This game has Amazing Storytelling | 276 |
+| This game has Amazing Characters | 272 |
+| This game is Relaxing | 255 |
+| This game has Diverse Characters | 253 |
+| This game has Playful Visuals | 234 |
+| This game has Obsessive Gameplay | 189 |
+| This game has a Silly Community | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

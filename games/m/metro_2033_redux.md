@@ -1,5 +1,14 @@
 # Metro 2033 Redux
 Rating: 4.69 (5,684)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 1,166 |
+| This game is Highly Recommended | 24 |
+| This game is Extremely Fun | 23 |
+| This game has Amazing Characters | 22 |
+| This game has Amazing Storytelling | 20 |
+| This game has Quickly Understood Controls | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

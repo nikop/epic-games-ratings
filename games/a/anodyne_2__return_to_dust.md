@@ -1,5 +1,8 @@
 # Anodyne 2: Return To Dust
 Rating: 4.34 (20)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

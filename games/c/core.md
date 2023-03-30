@@ -1,5 +1,21 @@
 # Core
 Rating: 4.37 (1,439)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 718 |
+| This game is Great for Beginners | 132 |
+| This game has Diverse Characters | 126 |
+| This game is Highly Recommended | 120 |
+| This game has Quickly Understood Controls | 118 |
+| This game is Extremely Fun | 117 |
+| This game is Great for Quick Sessions | 114 |
+| This game has Amazing Characters | 112 |
+| This game is Relaxing | 109 |
+| This game has a Creative Community | 108 |
+| This game has Easy Combat | 96 |
+| This game has Obsessive Gameplay | 77 |
+| This game has Amazing Storytelling | 64 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

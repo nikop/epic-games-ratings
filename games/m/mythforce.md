@@ -1,5 +1,18 @@
 # MythForce
 Rating: 4.51 (285)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Highly Recommended | 32 |
+| This game has Amazing Characters | 28 |
+| This game has Quickly Understood Controls | 26 |
+| This game has Unique Visuals | 26 |
+| This game is Great for Beginners | 24 |
+| This game has Diverse Characters | 23 |
+| This game has Amazing Storytelling | 22 |
+| This game has Challenging Combat | 22 |
+| This game is Extremely Fun | 20 |
+| This game is Relaxing | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

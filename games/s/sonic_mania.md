@@ -1,5 +1,22 @@
 # Sonic Mania
 Rating: 4.78 (2,185)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 901 |
+| This game is Highly Recommended | 72 |
+| This game is Extremely Fun | 69 |
+| This game is Great for Quick Sessions | 68 |
+| This game has Quickly Understood Controls | 67 |
+| This game is Relaxing | 64 |
+| This game has Diverse Characters | 63 |
+| This game has Amazing Characters | 58 |
+| This game is Great for Beginners | 57 |
+| This game has Amazing Storytelling | 57 |
+| This game has Obsessive Gameplay | 56 |
+| This game has a Creative Community | 50 |
+| This game has Competitive Players | 37 |
+| This game has Beautiful Visuals | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

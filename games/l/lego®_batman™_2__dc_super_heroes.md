@@ -1,5 +1,9 @@
 # LEGO® Batman™ 2: DC Super Heroes
 Rating: 4.64 (489)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 179 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

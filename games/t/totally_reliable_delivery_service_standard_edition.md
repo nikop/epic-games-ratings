@@ -1,5 +1,8 @@
 # Totally Reliable Delivery Service Standard Edition
 Rating: 4.44 (112)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

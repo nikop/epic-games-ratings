@@ -1,5 +1,8 @@
 # King's Bounty: Dark Side
 Rating: 4.35 (40)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

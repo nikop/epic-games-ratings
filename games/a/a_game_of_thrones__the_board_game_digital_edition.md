@@ -1,5 +1,17 @@
 # A Game Of Thrones: The Board Game Digital Edition
 Rating: 4.20 (2,500)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Quickly Understood Controls | 121 |
+| This game is Extremely Fun | 110 |
+| This game is Highly Recommended | 107 |
+| This game has Competitive Players | 98 |
+| This game is Relaxing | 95 |
+| This game has Amazing Storytelling | 90 |
+| This game has Amazing Characters | 82 |
+| This game has a Competitive Community | 73 |
+| This game has Playful Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

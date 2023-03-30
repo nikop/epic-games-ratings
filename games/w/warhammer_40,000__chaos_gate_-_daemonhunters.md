@@ -1,5 +1,17 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 Rating: 4.58 (371)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 199 |
+| This game has Amazing Storytelling | 29 |
+| This game is Extremely Fun | 28 |
+| This game is Highly Recommended | 28 |
+| This game has Amazing Characters | 25 |
+| This game has Challenging Combat | 25 |
+| This game has Competitive Players | 24 |
+| This game has Diverse Characters | 23 |
+| This game is Relaxing | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

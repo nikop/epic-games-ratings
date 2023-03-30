@@ -1,5 +1,9 @@
 # Shadow Tactics - Aiko's Choice
 Rating: 4.71 (68)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 66 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

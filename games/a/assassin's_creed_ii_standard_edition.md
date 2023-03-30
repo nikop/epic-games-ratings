@@ -1,5 +1,11 @@
 # Assassin's Creed II Standard Edition
 Rating: 4.74 (315)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Amazing Storytelling | 22 |
+| This game is Extremely Fun | 21 |
+| This game has Quickly Understood Controls | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,10 @@
 # KINGDOM HEARTS HD 2.8 Final Chapter Prologue
 Rating: 4.75 (213)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 92 |
+| This game has Great Boss Battles | 42 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

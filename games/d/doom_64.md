@@ -1,5 +1,20 @@
 # DOOM 64
 Rating: 4.66 (5,134)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 1,282 |
+| This game is Great for Beginners | 45 |
+| This game has Quickly Understood Controls | 44 |
+| This game is Extremely Fun | 44 |
+| This game has Amazing Characters | 42 |
+| This game has Challenging Combat | 40 |
+| This game is Great for Quick Sessions | 40 |
+| This game is Highly Recommended | 37 |
+| This game has Amazing Storytelling | 32 |
+| This game is Relaxing | 30 |
+| This game has Competitive Players | 26 |
+| This game has Unique Visuals | 26 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

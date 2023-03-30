@@ -1,5 +1,18 @@
 # Transport Fever 2
 Rating: 4.69 (180)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Highly Recommended | 35 |
+| This game has Amazing Storytelling | 33 |
+| This game is Extremely Fun | 32 |
+| This game is Relaxing | 28 |
+| This game has Quickly Understood Controls | 28 |
+| This game is Great for Beginners | 26 |
+| This game has a Creative Community | 23 |
+| This game is Educational | 22 |
+| This game has Obsessive Gameplay | 21 |
+| This game has Amazing Characters | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

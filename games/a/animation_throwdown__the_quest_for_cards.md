@@ -1,5 +1,18 @@
 # Animation Throwdown: The Quest for Cards
 Rating: 4.32 (874)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Quick Sessions | 332 |
+| This game is Great for Beginners | 308 |
+| This game has Diverse Characters | 307 |
+| This game has Quickly Understood Controls | 296 |
+| This game is Relaxing | 291 |
+| This game is Extremely Fun | 288 |
+| This game has Amazing Characters | 270 |
+| This game is Highly Recommended | 269 |
+| This game has Playful Visuals | 221 |
+| This game has Amazing Storytelling | 118 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

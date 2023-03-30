@@ -1,5 +1,19 @@
 # Rogue Legacy
 Rating: 4.61 (2,133)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 1,055 |
+| This game is Highly Recommended | 59 |
+| This game is Great for Quick Sessions | 57 |
+| This game has Amazing Characters | 55 |
+| This game is Relaxing | 55 |
+| This game has Challenging Combat | 53 |
+| This game is Extremely Fun | 53 |
+| This game has Amazing Storytelling | 50 |
+| This game has Quickly Understood Controls | 49 |
+| This game has Diverse Characters | 46 |
+| This game has a Creative Community | 29 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

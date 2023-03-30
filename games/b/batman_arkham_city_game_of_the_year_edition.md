@@ -1,5 +1,17 @@
 # Batman Arkham City Game of the Year Edition
 Rating: 4.79 (2,832)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 1,428 |
+| This game has Amazing Storytelling | 72 |
+| This game is Relaxing | 71 |
+| This game is Extremely Fun | 67 |
+| This game has Amazing Characters | 64 |
+| This game is Great for Beginners | 63 |
+| This game has Diverse Characters | 59 |
+| This game is Highly Recommended | 58 |
+| This game has Quickly Understood Controls | 52 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

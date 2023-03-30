@@ -1,5 +1,9 @@
 # Stubbs the Zombie in Rebel Without a Pulse
 Rating: 4.36 (249)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 47 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

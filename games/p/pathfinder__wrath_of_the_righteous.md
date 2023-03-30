@@ -1,5 +1,19 @@
 # Pathfinder: Wrath of the Righteous
 Rating: 4.76 (1,354)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 1,598 |
+| This game is Extremely Fun | 600 |
+| This game is Highly Recommended | 586 |
+| This game has Amazing Characters | 584 |
+| This game has Amazing Storytelling | 569 |
+| This game has Diverse Characters | 566 |
+| This game has Quickly Understood Controls | 532 |
+| This game has Challenging Combat | 528 |
+| This game is Relaxing | 510 |
+| This game has Obsessive Gameplay | 364 |
+| This game has a Creative Community | 351 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

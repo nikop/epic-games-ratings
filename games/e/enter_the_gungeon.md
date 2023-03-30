@@ -1,5 +1,19 @@
 # Enter the Gungeon
 Rating: 4.85 (8,617)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 7,416 |
+| This game is Highly Recommended | 854 |
+| This game has Diverse Characters | 838 |
+| This game has Challenging Combat | 830 |
+| This game is Extremely Fun | 814 |
+| This game has Amazing Characters | 813 |
+| This game has Quickly Understood Controls | 812 |
+| This game has Amazing Storytelling | 777 |
+| This game has Obsessive Gameplay | 583 |
+| This game has Unique Visuals | 200 |
+| This game has a Creative Community | 151 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,20 @@
 # Diabotical
 Rating: 4.76 (572)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Quick Sessions | 259 |
+| This game has Competitive Players | 252 |
+| This game has Quickly Understood Controls | 246 |
+| This game is Extremely Fun | 241 |
+| This game is Highly Recommended | 235 |
+| This game has Challenging Combat | 233 |
+| This game has Amazing Characters | 219 |
+| This game has a Competitive Community | 217 |
+| This game has Playful Visuals | 201 |
+| This game has Obsessive Gameplay | 196 |
+| This game is Relaxing | 187 |
+| This game has Amazing Storytelling | 182 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

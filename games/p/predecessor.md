@@ -1,5 +1,17 @@
 # Predecessor
 Rating: 4.44 (-)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Diverse Characters | 43 |
+| This game is Highly Recommended | 40 |
+| This game has a Competitive Community | 38 |
+| This game has Amazing Characters | 36 |
+| This game has Challenging Combat | 36 |
+| This game has Quickly Understood Controls | 31 |
+| This game has Competitive Players | 28 |
+| This game is Extremely Fun | 27 |
+| This game has Beautiful Visuals | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

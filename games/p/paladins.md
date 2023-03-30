@@ -1,5 +1,18 @@
 # Paladins
 Rating: 4.35 (11,687)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Quick Sessions | 3,178 |
+| This game has Diverse Characters | 3,118 |
+| This game has Competitive Players | 2,890 |
+| This game has Quickly Understood Controls | 2,863 |
+| This game is Extremely Fun | 2,857 |
+| This game is Highly Recommended | 2,679 |
+| This game has Amazing Characters | 2,654 |
+| This game has Amazing Storytelling | 2,506 |
+| This game has a Competitive Community | 2,134 |
+| This game has Obsessive Gameplay | 958 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

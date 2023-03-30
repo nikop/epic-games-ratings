@@ -1,5 +1,16 @@
 # Shop Titans
 Rating: 3.98 (12,664)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 4,475 |
+| This game is Relaxing | 3,924 |
+| This game has Quickly Understood Controls | 3,903 |
+| This game has Diverse Characters | 3,689 |
+| This game is Highly Recommended | 3,634 |
+| This game has Easy Combat | 3,578 |
+| This game has Playful Visuals | 3,044 |
+| This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

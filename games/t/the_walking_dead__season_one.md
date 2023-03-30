@@ -1,5 +1,9 @@
 # The Walking Dead: Season One
 Rating: 4.80 (70)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| In this game, your choices Impact the Story | 26 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

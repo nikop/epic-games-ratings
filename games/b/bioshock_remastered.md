@@ -1,5 +1,20 @@
 # BioShock Remastered
 Rating: 4.64 (24,195)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 5,812 |
+| This game is Extremely Fun | 145 |
+| This game has Amazing Characters | 141 |
+| This game has Quickly Understood Controls | 139 |
+| This game has Amazing Storytelling | 138 |
+| This game is Highly Recommended | 135 |
+| This game is Relaxing | 129 |
+| This game is Great for Beginners | 124 |
+| This game has Diverse Characters | 113 |
+| This game has Unique Visuals | 111 |
+| This game has Obsessive Gameplay | 106 |
+| This game has a Creative Community | 74 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

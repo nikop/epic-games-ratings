@@ -1,5 +1,10 @@
 # Inscryption
 Rating: 4.86 (771)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game features Challenging Puzzles | 327 |
+| This game has Amazing Storytelling | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

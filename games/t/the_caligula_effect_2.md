@@ -1,5 +1,8 @@
 # The Caligula Effect 2
 Rating: 4.44 (32)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

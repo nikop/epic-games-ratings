@@ -1,5 +1,9 @@
 # Spiritfarer®: Farewell Edition
 Rating: 4.87 (178)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Diverse Characters | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,21 @@
 # Paragon: The Overprime
 Rating: 4.24 (-)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Competitive Players | 282 |
+| This game has Diverse Characters | 277 |
+| This game is Highly Recommended | 263 |
+| This game has Challenging Combat | 246 |
+| This game has Amazing Characters | 245 |
+| This game is Extremely Fun | 241 |
+| This game has Quickly Understood Controls | 237 |
+| This game has Amazing Storytelling | 181 |
+| This game has a Competitive Community | 154 |
+| This game has Great Boss Battles | 109 |
+| This game has Unique Visuals | 40 |
+| This game is Great for Beginners | 33 |
+| This game is Relaxing | 25 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

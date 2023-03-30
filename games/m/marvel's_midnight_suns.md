@@ -1,5 +1,19 @@
 # Marvel's Midnight Suns
 Rating: 4.54 (-)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 974 |
+| This game is Relaxing | 116 |
+| This game is Highly Recommended | 116 |
+| This game has Quickly Understood Controls | 115 |
+| This game has Diverse Characters | 114 |
+| This game has Amazing Storytelling | 110 |
+| This game is Great for Beginners | 107 |
+| This game has Amazing Characters | 105 |
+| This game is Extremely Fun | 102 |
+| This game has a Creative Community | 61 |
+| This game has Challenging Combat | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

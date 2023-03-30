@@ -1,5 +1,8 @@
 # SLUDGE LIFE
 Rating: 4.76 (176)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

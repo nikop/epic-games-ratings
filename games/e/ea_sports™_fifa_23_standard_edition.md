@@ -1,5 +1,16 @@
 # EA SPORTS™ FIFA 23 Standard Edition
 Rating: 4.23 (-)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Diverse Characters | 5,398 |
+| This game is Highly Recommended | 3,988 |
+| This game has a Competitive Community | 3,707 |
+| This game has Competitive Players | 3,357 |
+| This game has Amazing Characters | 3,259 |
+| This game has Quickly Understood Controls | 3,164 |
+| This game has Amazing Storytelling | 3,098 |
+| This game is Extremely Fun | 2,318 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

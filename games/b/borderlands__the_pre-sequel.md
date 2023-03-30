@@ -1,5 +1,18 @@
 # Borderlands: The Pre-Sequel
 Rating: 4.50 (2,939)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Diverse Characters | 391 |
+| This game is Great for Beginners | 345 |
+| This game is Highly Recommended | 340 |
+| This game has Amazing Storytelling | 335 |
+| This game is Extremely Fun | 331 |
+| This game has Quickly Understood Controls | 326 |
+| This game has Amazing Characters | 316 |
+| This game is Relaxing | 314 |
+| This game has Obsessive Gameplay | 154 |
+| This game has Unique Visuals | 119 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

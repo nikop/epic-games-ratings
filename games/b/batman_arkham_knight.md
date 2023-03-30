@@ -1,5 +1,19 @@
 # Batman Arkham Knight
 Rating: 4.82 (7,386)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 5,377 |
+| This game is Great for Beginners | 380 |
+| This game has Diverse Characters | 367 |
+| This game is Highly Recommended | 352 |
+| This game is Extremely Fun | 351 |
+| This game has Amazing Storytelling | 346 |
+| This game has Amazing Characters | 336 |
+| This game has Quickly Understood Controls | 335 |
+| This game is Relaxing | 333 |
+| This game has a Creative Community | 242 |
+| This game has Obsessive Gameplay | 190 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,18 @@
 # Ranch Simulator
 Rating: 4.44 (338)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Highly Recommended | 45 |
+| This game has Quickly Understood Controls | 44 |
+| This game is Great for Beginners | 41 |
+| This game has Amazing Characters | 35 |
+| This game has Amazing Storytelling | 34 |
+| This game has Easy Combat | 30 |
+| This game is Extremely Fun | 27 |
+| This game has Obsessive Gameplay | 26 |
+| This game is Relaxing | 25 |
+| This game is Educational | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

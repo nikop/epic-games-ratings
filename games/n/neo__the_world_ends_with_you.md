@@ -1,5 +1,10 @@
 # NEO: The World Ends with You
 Rating: 4.86 (214)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 94 |
+| This game has Great Boss Battles | 64 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,19 @@
 # Auto Chess
 Rating: 4.52 (2,249)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Competitive Players | 718 |
+| This game is Relaxing | 693 |
+| This game has Diverse Characters | 689 |
+| This game has Quickly Understood Controls | 687 |
+| This game is Extremely Fun | 595 |
+| This game is Highly Recommended | 519 |
+| This game has Amazing Characters | 502 |
+| This game has Amazing Storytelling | 459 |
+| This game has Playful Visuals | 406 |
+| This game is Great for Beginners | 394 |
+| This game has a Competitive Community | 373 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

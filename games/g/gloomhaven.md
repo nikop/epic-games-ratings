@@ -1,5 +1,20 @@
 # Gloomhaven
 Rating: 4.47 (68)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 3,411 |
+| This game has Diverse Characters | 530 |
+| This game has Challenging Combat | 509 |
+| This game is Extremely Fun | 504 |
+| This game is Highly Recommended | 504 |
+| This game has Quickly Understood Controls | 463 |
+| This game is Relaxing | 460 |
+| This game has Amazing Storytelling | 457 |
+| This game has Amazing Characters | 450 |
+| This game has Unique Visuals | 350 |
+| This game has a Creative Community | 199 |
+| This game has Obsessive Gameplay | 152 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,21 @@
 # Kingdom Come: Deliverance
 Rating: 4.71 (9,133)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 7,036 |
+| This game has Great Boss Battles | 5,201 |
+| This game has Challenging Combat | 1,651 |
+| This game has Amazing Storytelling | 1,609 |
+| This game has Diverse Characters | 1,586 |
+| This game is Extremely Fun | 1,585 |
+| This game is Highly Recommended | 1,576 |
+| This game has Amazing Characters | 1,573 |
+| This game has Realistic Visuals | 1,547 |
+| This game is Educational | 1,508 |
+| This game is Relaxing | 1,453 |
+| This game has Obsessive Gameplay | 1,048 |
+| This game has a Creative Community | 664 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

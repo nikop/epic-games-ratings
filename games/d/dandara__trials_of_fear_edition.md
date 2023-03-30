@@ -1,5 +1,9 @@
 # Dandara: Trials of Fear Edition
 Rating: 4.56 (164)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 50 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

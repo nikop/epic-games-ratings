@@ -1,5 +1,21 @@
 # Tannenberg
 Rating: 4.39 (13,393)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Competitive Players | 319 |
+| This game is Relaxing | 301 |
+| This game has Diverse Characters | 300 |
+| This game is Extremely Fun | 299 |
+| This game has Quickly Understood Controls | 299 |
+| This game has Challenging Combat | 274 |
+| This game is Highly Recommended | 268 |
+| This game has Amazing Characters | 265 |
+| This game has a Competitive Community | 252 |
+| This game has Realistic Visuals | 249 |
+| This game has Amazing Storytelling | 242 |
+| This game is Educational | 99 |
+| This game has Obsessive Gameplay | 29 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

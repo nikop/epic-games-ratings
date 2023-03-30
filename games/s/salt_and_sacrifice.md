@@ -1,5 +1,18 @@
 # Salt and Sacrifice
 Rating: 4.31 (2,205)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 916 |
+| This game has Great Boss Battles | 531 |
+| This game is Extremely Fun | 61 |
+| This game has Challenging Combat | 60 |
+| This game has Diverse Characters | 52 |
+| This game is Highly Recommended | 52 |
+| This game has Unique Visuals | 51 |
+| This game has Quickly Understood Controls | 51 |
+| This game has Amazing Storytelling | 48 |
+| This game has Obsessive Gameplay | 39 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

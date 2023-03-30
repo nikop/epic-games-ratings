@@ -1,5 +1,18 @@
 # Dark Deity
 Rating: 4.16 (24)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 604 |
+| This game has Quickly Understood Controls | 34 |
+| This game has Amazing Storytelling | 30 |
+| This game is Highly Recommended | 30 |
+| This game has Diverse Characters | 29 |
+| This game is Great for Beginners | 29 |
+| This game is Relaxing | 26 |
+| This game has Playful Visuals | 24 |
+| This game has Amazing Characters | 22 |
+| This game is Extremely Fun | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,19 @@
 # Frostpunk
 Rating: 4.73 (11,240)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Quickly Understood Controls | 756 |
+| This game is Relaxing | 733 |
+| This game has Amazing Storytelling | 726 |
+| This game is Highly Recommended | 712 |
+| This game is Educational | 692 |
+| This game is Extremely Fun | 679 |
+| This game has Unique Visuals | 596 |
+| This game has Challenging Combat | 556 |
+| This game has Amazing Characters | 520 |
+| This game has Obsessive Gameplay | 491 |
+| This game has a Creative Community | 340 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

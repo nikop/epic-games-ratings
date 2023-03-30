@@ -1,5 +1,9 @@
 # Supraland Six Inches Under
 Rating: 4.77 (209)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game features Challenging Puzzles | 96 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,8 @@
 # The Eternal Cylinder
 Rating: 4.74 (149)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

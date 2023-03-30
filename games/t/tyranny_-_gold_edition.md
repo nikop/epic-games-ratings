@@ -1,5 +1,19 @@
 # Tyranny - Gold Edition
 Rating: 4.59 (1,278)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 686 |
+| This game has Great Boss Battles | 347 |
+| This game has Amazing Storytelling | 48 |
+| This game is Extremely Fun | 45 |
+| This game is Highly Recommended | 42 |
+| This game has Quickly Understood Controls | 42 |
+| This game has Diverse Characters | 41 |
+| This game has Amazing Characters | 39 |
+| This game has Unique Visuals | 35 |
+| This game is Relaxing | 32 |
+| This game has a Creative Community | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

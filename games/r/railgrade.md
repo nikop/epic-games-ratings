@@ -1,5 +1,18 @@
 # RAILGRADE
 Rating: 4.54 (-)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Highly Recommended | 86 |
+| This game is Relaxing | 84 |
+| This game is Great for Beginners | 84 |
+| This game has Quickly Understood Controls | 84 |
+| This game is Extremely Fun | 82 |
+| This game has Amazing Storytelling | 77 |
+| This game has Unique Visuals | 56 |
+| This game has Amazing Characters | 42 |
+| This game has a Creative Community | 39 |
+| This game has Challenging Combat | 29 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

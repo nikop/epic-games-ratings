@@ -1,5 +1,18 @@
 # Tom Clancy's The Division
 Rating: 4.58 (247)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 242 |
+| This game has Great Boss Battles | 150 |
+| This game has Amazing Storytelling | 27 |
+| This game is Highly Recommended | 25 |
+| This game has Challenging Combat | 22 |
+| This game has Competitive Players | 22 |
+| This game has Amazing Characters | 22 |
+| This game is Relaxing | 22 |
+| This game is Great for Beginners | 21 |
+| This game has Realistic Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

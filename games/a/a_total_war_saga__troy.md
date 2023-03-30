@@ -1,5 +1,17 @@
 # A Total War Saga: TROY
 Rating: 4.51 (6,316)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Diverse Characters | 1,523 |
+| This game is Educational | 1,428 |
+| This game is Highly Recommended | 1,419 |
+| This game is Extremely Fun | 1,397 |
+| This game is Relaxing | 1,339 |
+| This game has Amazing Characters | 1,336 |
+| This game has Quickly Understood Controls | 1,333 |
+| This game has Amazing Storytelling | 1,302 |
+| This game has Obsessive Gameplay | 1,004 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

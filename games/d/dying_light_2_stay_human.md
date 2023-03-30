@@ -1,5 +1,20 @@
 # Dying Light 2 Stay Human
 Rating: 4.57 (7,305)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 6,198 |
+| This game has Great Boss Battles | 3,650 |
+| This game has Amazing Characters | 522 |
+| This game is Highly Recommended | 520 |
+| This game is Great for Beginners | 517 |
+| This game is Extremely Fun | 504 |
+| This game has Quickly Understood Controls | 499 |
+| This game has Diverse Characters | 485 |
+| This game is Relaxing | 481 |
+| This game has Amazing Storytelling | 476 |
+| This game has a Creative Community | 376 |
+| This game has Obsessive Gameplay | 230 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

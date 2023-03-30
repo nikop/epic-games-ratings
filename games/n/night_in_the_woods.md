@@ -1,5 +1,9 @@
 # Night in the Woods
 Rating: 4.73 (615)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| In this game, your choices Impact the Story | 139 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

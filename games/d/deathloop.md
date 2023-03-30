@@ -1,5 +1,14 @@
 # DEATHLOOP
 Rating: 4.54 (874)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Unique Visuals | 33 |
+| This game has Amazing Storytelling | 29 |
+| This game is Highly Recommended | 28 |
+| This game has Amazing Characters | 28 |
+| This game is Extremely Fun | 26 |
+| This game has Quickly Understood Controls | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

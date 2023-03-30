@@ -1,5 +1,15 @@
 # Space Punks
 Rating: 4.16 (1,927)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 166 |
+| This game is Great for Quick Sessions | 163 |
+| This game has Quickly Understood Controls | 159 |
+| This game is Relaxing | 158 |
+| This game is Highly Recommended | 148 |
+| This game has Amazing Characters | 142 |
+| This game is Extremely Fun | 79 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

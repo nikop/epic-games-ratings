@@ -1,5 +1,18 @@
 # Prison Architect
 Rating: 4.61 (4,491)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Extremely Fun | 389 |
+| This game is Highly Recommended | 379 |
+| This game is Great for Beginners | 368 |
+| This game has Quickly Understood Controls | 364 |
+| This game is Relaxing | 346 |
+| This game has Amazing Storytelling | 335 |
+| This game has Diverse Characters | 334 |
+| This game has Amazing Characters | 309 |
+| This game has a Creative Community | 248 |
+| This game has Obsessive Gameplay | 234 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,18 @@
 # Kingdom New Lands
 Rating: 4.52 (1,793)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Quickly Understood Controls | 115 |
+| This game is Great for Beginners | 114 |
+| This game is Relaxing | 93 |
+| This game is Extremely Fun | 86 |
+| This game is Highly Recommended | 83 |
+| This game has Amazing Characters | 80 |
+| This game has Amazing Storytelling | 75 |
+| This game has Obsessive Gameplay | 63 |
+| This game has Unique Visuals | 56 |
+| This game has a Creative Community | 43 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

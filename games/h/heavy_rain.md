@@ -1,5 +1,9 @@
 # Heavy Rain
 Rating: 4.59 (251)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| In this game, your choices Impact the Story | 57 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,17 @@
 # Vampyr
 Rating: 4.32 (5,106)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 545 |
+| This game has Amazing Storytelling | 32 |
+| This game has Amazing Characters | 32 |
+| This game has Quickly Understood Controls | 29 |
+| This game has Diverse Characters | 29 |
+| This game is Extremely Fun | 27 |
+| This game is Relaxing | 25 |
+| This game has Challenging Combat | 22 |
+| This game is Highly Recommended | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

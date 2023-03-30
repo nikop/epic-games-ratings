@@ -1,5 +1,18 @@
 # Subnautica Below Zero
 Rating: 4.78 (1,844)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 141 |
+| This game has Quickly Understood Controls | 130 |
+| This game has Beautiful Visuals | 125 |
+| This game is Relaxing | 121 |
+| This game is Extremely Fun | 120 |
+| This game has Amazing Characters | 118 |
+| This game has Amazing Storytelling | 113 |
+| This game is Highly Recommended | 107 |
+| This game has a Creative Community | 89 |
+| This game has Obsessive Gameplay | 85 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

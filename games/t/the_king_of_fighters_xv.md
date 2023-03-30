@@ -1,5 +1,19 @@
 # THE KING OF FIGHTERS XV
 Rating: 4.62 (181)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Diverse Characters | 70 |
+| This game is Extremely Fun | 66 |
+| This game is Relaxing | 63 |
+| This game has Quickly Understood Controls | 61 |
+| This game is Great for Quick Sessions | 60 |
+| This game has Amazing Characters | 59 |
+| This game has Competitive Players | 57 |
+| This game is Highly Recommended | 57 |
+| This game has Obsessive Gameplay | 48 |
+| This game has Challenging Combat | 44 |
+| This game has a Competitive Community | 40 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

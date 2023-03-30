@@ -1,5 +1,20 @@
 # BioShock 2 Remastered
 Rating: 4.51 (12,272)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 4,016 |
+| This game is Highly Recommended | 156 |
+| This game has Unique Visuals | 147 |
+| This game has Diverse Characters | 146 |
+| This game is Extremely Fun | 134 |
+| This game has Quickly Understood Controls | 125 |
+| This game has Amazing Storytelling | 122 |
+| This game is Relaxing | 120 |
+| This game has Amazing Characters | 112 |
+| This game is Great for Beginners | 105 |
+| This game has Obsessive Gameplay | 87 |
+| This game has a Creative Community | 76 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

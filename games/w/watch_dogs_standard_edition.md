@@ -1,5 +1,20 @@
 # Watch Dogs Standard Edition
 Rating: 4.56 (1,912)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Quickly Understood Controls | 44 |
+| This game is Great for Beginners | 41 |
+| This game has Amazing Characters | 40 |
+| This game has Amazing Storytelling | 40 |
+| This game is Great for Quick Sessions | 38 |
+| This game is Relaxing | 36 |
+| This game has Competitive Players | 32 |
+| This game is Extremely Fun | 31 |
+| This game has Obsessive Gameplay | 30 |
+| This game is Highly Recommended | 28 |
+| This game has Realistic Visuals | 26 |
+| This game has a Competitive Community | 23 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

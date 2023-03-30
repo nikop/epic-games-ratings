@@ -1,5 +1,20 @@
 # KINGDOM HEARTS III + Re Mind
 Rating: 4.78 (2,011)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 873 |
+| This game has Great Boss Battles | 704 |
+| This game is Great for Beginners | 90 |
+| This game has Amazing Storytelling | 89 |
+| This game is Extremely Fun | 83 |
+| This game has Amazing Characters | 81 |
+| This game has Quickly Understood Controls | 73 |
+| This game is Highly Recommended | 68 |
+| This game has Diverse Characters | 63 |
+| This game is Relaxing | 60 |
+| This game has a Creative Community | 57 |
+| This game has Obsessive Gameplay | 46 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

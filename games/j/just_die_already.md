@@ -1,5 +1,20 @@
 # Just Die Already
 Rating: 4.52 (2,280)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Highly Recommended | 97 |
+| This game has Diverse Characters | 96 |
+| This game is Great for Beginners | 83 |
+| This game is Extremely Fun | 78 |
+| This game is Great for Quick Sessions | 76 |
+| This game has Amazing Characters | 74 |
+| This game is Relaxing | 74 |
+| This game has Amazing Storytelling | 72 |
+| This game has Quickly Understood Controls | 72 |
+| This game has a Silly Community | 66 |
+| This game has Easy Combat | 61 |
+| This game has Obsessive Gameplay | 58 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

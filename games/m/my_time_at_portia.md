@@ -1,5 +1,21 @@
 # My Time At Portia
 Rating: 4.67 (3,894)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 2,200 |
+| This game is Great for Beginners | 277 |
+| This game has Easy Combat | 250 |
+| This game is Extremely Fun | 245 |
+| This game is Relaxing | 242 |
+| This game has Quickly Understood Controls | 239 |
+| This game has Amazing Storytelling | 237 |
+| This game is Highly Recommended | 222 |
+| This game has Amazing Characters | 219 |
+| This game has Diverse Characters | 201 |
+| This game has Playful Visuals | 193 |
+| This game has Obsessive Gameplay | 164 |
+| This game has a Creative Community | 150 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

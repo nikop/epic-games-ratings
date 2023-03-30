@@ -1,5 +1,17 @@
 # World War Z Aftermath
 Rating: 4.56 (17,073)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 3,561 |
+| This game has Diverse Characters | 3,214 |
+| This game is Relaxing | 3,142 |
+| This game is Highly Recommended | 3,055 |
+| This game has Quickly Understood Controls | 3,047 |
+| This game is Extremely Fun | 3,006 |
+| This game has Amazing Storytelling | 2,862 |
+| This game has Amazing Characters | 2,812 |
+| This game has Obsessive Gameplay | 552 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

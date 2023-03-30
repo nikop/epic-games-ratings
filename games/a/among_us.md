@@ -1,5 +1,20 @@
 # Among Us
 Rating: 4.58 (26,171)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 2,312 |
+| This game is Great for Quick Sessions | 2,172 |
+| This game has Quickly Understood Controls | 2,023 |
+| This game is Relaxing | 1,966 |
+| This game has Diverse Characters | 1,957 |
+| This game has Competitive Players | 1,938 |
+| This game is Extremely Fun | 1,885 |
+| This game is Highly Recommended | 1,865 |
+| This game has Amazing Storytelling | 1,838 |
+| This game has Amazing Characters | 1,784 |
+| This game has Playful Visuals | 1,641 |
+| This game has Obsessive Gameplay | 1,477 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

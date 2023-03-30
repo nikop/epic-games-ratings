@@ -1,5 +1,15 @@
 # Rebel Galaxy
 Rating: 4.42 (774)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Extremely Fun | 30 |
+| This game is Great for Beginners | 27 |
+| This game is Relaxing | 26 |
+| This game has Quickly Understood Controls | 25 |
+| This game is Highly Recommended | 23 |
+| This game has Amazing Storytelling | 21 |
+| This game is Great for Quick Sessions | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

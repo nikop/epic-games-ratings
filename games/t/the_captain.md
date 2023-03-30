@@ -1,5 +1,19 @@
 # The Captain
 Rating: 4.44 (2,117)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Extremely Fun | 97 |
+| This game is Highly Recommended | 90 |
+| This game has Amazing Characters | 81 |
+| This game has Diverse Characters | 77 |
+| This game has Amazing Storytelling | 74 |
+| This game is Great for Beginners | 70 |
+| This game has Quickly Understood Controls | 70 |
+| This game has Obsessive Gameplay | 62 |
+| This game is Relaxing | 61 |
+| This game has Playful Visuals | 52 |
+| This game has a Creative Community | 41 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

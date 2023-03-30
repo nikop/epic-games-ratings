@@ -1,5 +1,20 @@
 # Fallout 3: Game of the Year Edition
 Rating: 4.60 (-)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 13,090 |
+| This game is Extremely Fun | 1,512 |
+| This game has Amazing Storytelling | 1,509 |
+| This game is Great for Beginners | 1,448 |
+| This game has Quickly Understood Controls | 1,442 |
+| This game is Highly Recommended | 1,439 |
+| This game has Diverse Characters | 1,387 |
+| This game has Amazing Characters | 1,364 |
+| This game is Relaxing | 1,351 |
+| This game has Unique Visuals | 1,256 |
+| This game has a Creative Community | 908 |
+| This game has Obsessive Gameplay | 30 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

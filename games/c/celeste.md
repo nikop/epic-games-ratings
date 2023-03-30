@@ -1,5 +1,19 @@
 # Celeste
 Rating: 4.92 (2,543)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 1,389 |
+| This game is Highly Recommended | 176 |
+| This game has Amazing Storytelling | 171 |
+| This game has Beautiful Visuals | 169 |
+| This game is Extremely Fun | 163 |
+| This game has Quickly Understood Controls | 155 |
+| This game is Relaxing | 154 |
+| This game has Amazing Characters | 150 |
+| This game has Challenging Combat | 131 |
+| This game has Obsessive Gameplay | 92 |
+| This game has a Creative Community | 32 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

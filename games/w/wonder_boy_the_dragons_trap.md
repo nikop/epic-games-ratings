@@ -1,5 +1,20 @@
 # Wonder Boy The Dragons Trap
 Rating: 4.44 (3,047)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Relaxing | 59 |
+| This game has Amazing Storytelling | 53 |
+| This game is Great for Beginners | 51 |
+| This game has Quickly Understood Controls | 45 |
+| This game has Amazing Characters | 43 |
+| This game has Diverse Characters | 42 |
+| This game is Highly Recommended | 38 |
+| This game is Great for Quick Sessions | 33 |
+| This game has Challenging Combat | 32 |
+| This game is Extremely Fun | 32 |
+| This game is Educational | 24 |
+| This game has a Creative Community | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

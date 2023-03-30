@@ -1,5 +1,8 @@
 # Lumberjack's Dynasty
 Rating: 4.07 (61)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

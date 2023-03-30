@@ -1,5 +1,9 @@
 # while True: learn()
 Rating: 4.51 (896)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game features Challenging Puzzles | 131 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

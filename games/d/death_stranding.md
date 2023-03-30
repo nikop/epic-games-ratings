@@ -1,5 +1,19 @@
 # DEATH STRANDING
 Rating: 4.78 (-)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 4,243 |
+| This game is Great for Beginners | 198 |
+| This game is Highly Recommended | 183 |
+| This game is Relaxing | 181 |
+| This game has Diverse Characters | 179 |
+| This game has Quickly Understood Controls | 178 |
+| This game has Amazing Characters | 176 |
+| This game has Amazing Storytelling | 170 |
+| This game is Extremely Fun | 150 |
+| This game has a Creative Community | 132 |
+| This game has Easy Combat | 28 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

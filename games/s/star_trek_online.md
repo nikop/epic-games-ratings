@@ -1,5 +1,19 @@
 # Star Trek Online
 Rating: 4.44 (565)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 501 |
+| This game is Great for Beginners | 208 |
+| This game is Relaxing | 202 |
+| This game has Diverse Characters | 197 |
+| This game is Extremely Fun | 196 |
+| This game is Highly Recommended | 187 |
+| This game has Amazing Characters | 186 |
+| This game has Amazing Storytelling | 186 |
+| This game has Quickly Understood Controls | 185 |
+| This game has Obsessive Gameplay | 73 |
+| This game has a Creative Community | 26 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

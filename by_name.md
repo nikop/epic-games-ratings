@@ -229,7 +229,7 @@
 | 227 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 13,154 |
 | 228 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 0 |
 | 229 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 40,779 |
-| 230 | [EVE Online](games/e/eve_online.md) | 4.26 | 2,132 |
+| 230 | [EVE Online](games/e/eve_online.md) | 4.26 | 2,133 |
 | 231 | [Everything](games/e/everything.md) | 4.57 | 0 |
 | 232 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 28,291 |
 | 233 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 0 |
@@ -386,7 +386,7 @@
 | 384 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 186 |
 | 385 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,652 |
 | 386 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 2,158 |
-| 387 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.10 | 0 |
+| 387 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.12 | 0 |
 | 388 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.80 | 0 |
 | 389 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 0 |
 | 390 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 25,114 |

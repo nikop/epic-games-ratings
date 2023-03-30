@@ -1,5 +1,18 @@
 # Godfall
 Rating: 4.07 (818)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 497 |
+| This game has Challenging Combat | 49 |
+| This game is Highly Recommended | 45 |
+| This game has Amazing Characters | 44 |
+| This game has Diverse Characters | 43 |
+| This game is Relaxing | 40 |
+| This game has Quickly Understood Controls | 40 |
+| This game is Extremely Fun | 40 |
+| This game has Amazing Storytelling | 32 |
+| This game has Obsessive Gameplay | 31 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

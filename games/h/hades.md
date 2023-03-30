@@ -1,5 +1,23 @@
 # Hades
 Rating: 4.92 (6,336)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 2,960 |
+| This game has Great Boss Battles | 2,112 |
+| This game is Highly Recommended | 248 |
+| This game is Extremely Fun | 232 |
+| This game is Great for Beginners | 229 |
+| This game has Amazing Storytelling | 228 |
+| This game has Amazing Characters | 222 |
+| This game has Diverse Characters | 221 |
+| This game has Quickly Understood Controls | 221 |
+| This game is Relaxing | 219 |
+| This game has Unique Visuals | 212 |
+| This game has Challenging Combat | 170 |
+| This game has a Creative Community | 146 |
+| This game has Obsessive Gameplay | 144 |
+| This game is Educational | 51 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

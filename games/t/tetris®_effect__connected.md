@@ -1,5 +1,18 @@
 # Tetris® Effect: Connected
 Rating: 4.86 (272)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game features Challenging Puzzles | 91 |
+| This game is Extremely Fun | 39 |
+| This game is Great for Quick Sessions | 38 |
+| This game has Quickly Understood Controls | 35 |
+| This game is Highly Recommended | 32 |
+| This game has Competitive Players | 29 |
+| This game is Relaxing | 29 |
+| This game has Obsessive Gameplay | 24 |
+| This game has Amazing Storytelling | 22 |
+| This game has Amazing Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

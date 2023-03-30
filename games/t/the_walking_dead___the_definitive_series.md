@@ -1,5 +1,15 @@
 # The Walking Dead : The Definitive Series
 Rating: 4.86 (663)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| In this game, your choices Impact the Story | 444 |
+| This game has Amazing Storytelling | 33 |
+| This game has Diverse Characters | 30 |
+| This game is Extremely Fun | 28 |
+| This game is Highly Recommended | 25 |
+| This game is Great for Beginners | 25 |
+| This game has Quickly Understood Controls | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

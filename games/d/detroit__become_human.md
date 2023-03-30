@@ -1,5 +1,13 @@
 # Detroit: Become Human
 Rating: 4.87 (3,910)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| In this game, your choices Impact the Story | 1,357 |
+| This game is Educational | 22 |
+| This game has Quickly Understood Controls | 21 |
+| This game has Diverse Characters | 21 |
+| This game has Amazing Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,9 @@
 # Fallout 2: A Post Nuclear Role Playing Game
 Rating: 4.76 (-)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Inclusive Character Customization | 54 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -1,5 +1,21 @@
 # Medieval Dynasty
 Rating: 4.65 (722)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Amazing Storytelling | 47 |
+| This game is Highly Recommended | 45 |
+| This game has Easy Combat | 43 |
+| This game is Extremely Fun | 42 |
+| This game has Amazing Characters | 39 |
+| This game is Great for Beginners | 36 |
+| This game is Relaxing | 33 |
+| This game is Educational | 32 |
+| This game has Quickly Understood Controls | 31 |
+| This game has Obsessive Gameplay | 30 |
+| This game has a Creative Community | 28 |
+| This game has Realistic Visuals | 28 |
+| This game has Diverse Characters | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

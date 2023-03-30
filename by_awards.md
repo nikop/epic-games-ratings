@@ -172,7 +172,7 @@
 | 170 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 2,165 |
 | 171 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 2,160 |
 | 172 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 2,158 |
-| 173 | [EVE Online](games/e/eve_online.md) | 4.26 | 2,132 |
+| 173 | [EVE Online](games/e/eve_online.md) | 4.26 | 2,133 |
 | 174 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 2,126 |
 | 175 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 2,111 |
 | 176 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 2,109 |

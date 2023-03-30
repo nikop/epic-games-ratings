@@ -1,5 +1,21 @@
 # Pinball FX
 Rating: 4.02 (756)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 164 |
+| This game is Great for Quick Sessions | 162 |
+| This game has Quickly Understood Controls | 159 |
+| This game is Relaxing | 151 |
+| This game is Extremely Fun | 148 |
+| This game is Highly Recommended | 142 |
+| This game has Competitive Players | 140 |
+| This game has Amazing Storytelling | 96 |
+| This game has Challenging Combat | 96 |
+| This game has a Competitive Community | 95 |
+| This game has Amazing Characters | 86 |
+| This game has Obsessive Gameplay | 65 |
+| This game has Realistic Visuals | 52 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

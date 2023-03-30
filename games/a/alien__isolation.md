@@ -1,5 +1,17 @@
 # Alien: Isolation 
 Rating: 4.61 (5,222)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Highly Recommended | 126 |
+| This game has Challenging Combat | 125 |
+| This game has Amazing Storytelling | 124 |
+| This game has Diverse Characters | 121 |
+| This game is Extremely Fun | 120 |
+| This game has Quickly Understood Controls | 117 |
+| This game has Amazing Characters | 116 |
+| This game has a Creative Community | 65 |
+| This game has Realistic Visuals | 42 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

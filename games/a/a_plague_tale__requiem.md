@@ -1,5 +1,15 @@
 # A Plague Tale: Requiem
 Rating: 4.74 (-)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game has Great Boss Battles | 395 |
+| This game is Highly Recommended | 29 |
+| This game has Diverse Characters | 27 |
+| This game is Great for Beginners | 26 |
+| This game is Relaxing | 24 |
+| This game has Amazing Storytelling | 24 |
+| This game is Extremely Fun | 23 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

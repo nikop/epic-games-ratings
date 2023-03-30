@@ -1,5 +1,19 @@
 # Skul: The Hero Slayer
 Rating: 4.70 (546)  (as of 23.09.2022)  
+## Awards
+| Award | Number of Ratings |
+| ----- | ----------------- |
+| This game is Great for Beginners | 110 |
+| This game has Diverse Characters | 107 |
+| This game is Extremely Fun | 103 |
+| This game is Relaxing | 102 |
+| This game is Highly Recommended | 99 |
+| This game has Quickly Understood Controls | 93 |
+| This game has Amazing Storytelling | 83 |
+| This game has Amazing Characters | 74 |
+| This game has a Creative Community | 57 |
+| This game has Challenging Combat | 51 |
+| This game has Playful Visuals | 45 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
