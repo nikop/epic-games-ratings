@@ -15,6 +15,22 @@ namespace EpicRatingsUpdater
             return rating.Value.ToString("F2", usCulture);
         }
 
+        static string FormatRating(decimal? rating)
+        {
+            if (rating == null)
+                return "-";
+
+            return rating.Value.ToString("F2", usCulture);
+        }
+
+        static string FormatRating1digit(decimal? rating)
+        {
+            if (rating == null)
+                return "-";
+
+            return rating.Value.ToString("F1", usCulture);
+        }
+
         static string FormatVotes(int? votes)
         {
             if (votes == null)
@@ -31,6 +47,52 @@ namespace EpicRatingsUpdater
             return votes.Value.ToString("F2", usCulture);
         }
 
+        static public string BuildMarkdownStats(List<GameDbItem> filteredList, List<GameDbItem> allList)
+        {
+            var average = filteredList.Sum(x => x.Rating ?? 0) / filteredList.Count;
+
+            var decRatings = new Dictionary<decimal, int>();
+
+            foreach (var item in filteredList)
+            {
+                var decRating = Math.Round((decimal?) item.Rating ?? 0m, 1);
+
+                if (!decRatings.ContainsKey(decRating))
+                {
+                    decRatings[decRating] = 0;
+                }
+
+                decRatings[decRating]++;
+            }
+
+            var sb = new StringBuilder();
+
+            sb.AppendLine($"# Stats");
+
+            sb.AppendLine($"Games with rating: {FormatVotes(filteredList.Count)}");
+            sb.AppendLine($"Games without rating: {FormatVotes(allList.Count - filteredList.Count)}");
+            sb.AppendLine($"Average rating: {FormatRating(average)}");
+
+            var minRating = decRatings.Keys.Min();
+
+            sb.AppendLine($"## Ratings ");
+
+            sb.AppendLine("| Rating | Number of Games |");
+            sb.AppendLine("| ----  | --------------- |");
+
+            for (var i = 5.0m; i >= minRating; i -= 0.1m)
+            {
+                if (!decRatings.TryGetValue(i, out var count))
+                {
+                    count = 0;
+                }
+
+                sb.AppendLine($"| {FormatRating1digit(i)} | {FormatVotes(count)} |");
+            }
+
+            return sb.ToString();
+        }
+
         static public string BuildMarkdownGamePage(GameDbItem item)
         {
             var sb = new StringBuilder();
@@ -38,7 +100,6 @@ namespace EpicRatingsUpdater
             sb.AppendLine($"# {item.Name}");
 
             sb.AppendLine($"Rating: {FormatRating(item.Rating)} ({FormatVotes(item.NumberOfRatings)})  (as of 23.09.2022)  ");
-            //sb.AppendLine($"Ratings Per Day: {FormatPeriodVotes(item.DailyRatings)}  ");
 
             sb.AppendLine("## Ratings History");
 
@@ -59,8 +120,8 @@ namespace EpicRatingsUpdater
         {
             var sb = new StringBuilder();
 
-            sb.AppendLine("|  #  | Name | Rating | ");
-            sb.AppendLine("| --- | ---- | ------ | ");
+            sb.AppendLine("|  #  | Name | Rating | Number of Awards | ");
+            sb.AppendLine("| --- | ---- | ------ | ---------------- | ");
 
             var i = 1;
             var lastRanking = i;
@@ -72,7 +133,7 @@ namespace EpicRatingsUpdater
 
                 var displayRanking = !groupByRating ? i : (item.Rating == lastRating ? lastRanking : i);
 
-                sb.AppendLine($"| {displayRanking} | [{item.Name}]({link}) | {FormatRating(item.Rating)} | ");
+                sb.AppendLine($"| {displayRanking} | [{item.Name}]({link}) | {FormatRating(item.Rating)} | {FormatVotes(item.NumberOfAwards)} |");
 
                 lastRanking = displayRanking;
                 lastRating = item.Rating;

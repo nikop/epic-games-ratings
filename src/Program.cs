@@ -2,6 +2,7 @@
 
 using GraphQL.Client.Http;
 
+using System.Text;
 using System.Text.Json;
 
 // Configs
@@ -206,17 +207,17 @@ async ValueTask UpdateRating(JsonIndexDb<GameDbItem> gameIndex, NamespaceDef ns,
                 dbItem.RatingHistory.Add(new GameDbItemRatingHistory
                 {
                     Time = DateTimeOffset.UtcNow,
-                    //NumberOfRatings = pi.ratingCount,
                     Rating = pi.averageRating,
                 });
             }
 
             dbItem.ProductSlug = ns.ProductSlug;
-            //dbItem.NumberOfRatings = pi.ratingCount;
             dbItem.Rating = pi.averageRating;
 
             if (pi.pollResult != null)
             {
+                dbItem.NumberOfAwards = pi.pollResult.Sum(x => x.total ?? 0);
+
                 foreach (var pr in pi.pollResult.OrderByDescending(x => x.total))
                 {
                     var text = $"{pr.localizations.resultText} {pr.localizations.resultTitle}";
@@ -235,6 +236,10 @@ async ValueTask UpdateRating(JsonIndexDb<GameDbItem> gameIndex, NamespaceDef ns,
                         });
                     }
                 }
+            }
+            else if (dbItem.NumberOfAwards != null)
+            {
+                dbItem.NumberOfAwards = 0;
             }
         }
     }
@@ -293,9 +298,17 @@ await File.WriteAllTextAsync(
 );
 await File.WriteAllTextAsync(
     Path.Combine(path, "by_rating.md"), 
-    Markdown.BuildMarkdownTable(gameIndex, filteredList.OrderByDescending(x => x.Rating).ThenByDescending(x => x.NumberOfRatings).ThenBy(x => x.Name), true)
+    Markdown.BuildMarkdownTable(gameIndex, filteredList.OrderByDescending(x => x.Rating).ThenBy(x => x.Name), true)
+);
+await File.WriteAllTextAsync(
+    Path.Combine(path, "by_awards.md"),
+    Markdown.BuildMarkdownTable(gameIndex, filteredList.Where(x => x.NumberOfAwards > 0).OrderByDescending(x => x.NumberOfAwards).ThenBy(x => x.Name), true)
 );
 await File.WriteAllTextAsync(
     Path.Combine(path, "new_games.md"),
     Markdown.BuildMarkdownTable(gameIndex, filteredList.Where(x => x.FirstSeen != null && ratingsCutOffNew < x.FirstSeen).OrderByDescending(x => x.FirstSeen).ThenBy(x => x.Name), true)
+);
+await File.WriteAllTextAsync(
+    Path.Combine(path, "stats.md"),
+    Markdown.BuildMarkdownStats(filteredList, output)
 );
