@@ -1,5 +1,5 @@
 # The Outer Worlds: Spacer's Choice Edition
-Rating: 4.24 (-)  (as of 23.09.2022)  
+Rating: 4.23 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
@@ -7,3 +7,4 @@ Rating: 4.24 (-)  (as of 23.09.2022)
 | 2023-03-26 | 4.17 | - |
 | 2023-03-28 | 4.21 | - |
 | 2023-03-29 | 4.24 | - |
+| 2023-03-30 | 4.23 | - |

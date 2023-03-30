@@ -749,7 +749,7 @@
 | 747 | [The Medium](games/t/the_medium.md) | 4.58 | 
 | 748 | [The Messenger](games/t/the_messenger.md) | 4.80 | 
 | 749 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 
-| 750 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.24 | 
+| 750 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.23 | 
 | 751 | [The Pathless](games/t/the_pathless.md) | 4.68 | 
 | 752 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 
 | 753 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 
@@ -812,7 +812,7 @@
 | 810 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 
 | 811 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 
 | 812 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 
-| 813 | [Train Valley](games/t/train_valley.md) | 4.46 | 
+| 813 | [Train Valley](games/t/train_valley.md) | 4.47 | 
 | 814 | [Train Valley 2](games/t/train_valley_2.md) | 4.14 | 
 | 815 | [Transistor](games/t/transistor.md) | 4.62 | 
 | 816 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 
