@@ -101,6 +101,16 @@ namespace EpicRatingsUpdater
 
             sb.AppendLine($"Rating: {FormatRating(item.Rating)} ({FormatVotes(item.NumberOfRatings)})  (as of 23.09.2022)  ");
 
+            sb.AppendLine("## Awards");
+
+            sb.AppendLine("| Award | Number of Ratings |");
+            sb.AppendLine("| ----- | ----------------- |");
+
+            foreach (var tag in item.Tags.OrderByDescending(x => x.Count))
+            {
+                sb.AppendLine($"| {tag.Text} | {FormatVotes(tag.Count)} |");
+            }
+
             sb.AppendLine("## Ratings History");
 
             sb.AppendLine("| Date | Rating | Number of Ratings |");
