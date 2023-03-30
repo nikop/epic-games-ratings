@@ -8,7 +8,7 @@
 | 6 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 
 | 7 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 
 | 8 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 
-| 9 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
+| 9 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 
 | 10 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 
 | 11 | [ABZU](games/a/abzu.md) | 4.61 | 
 | 12 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.00 | 
@@ -157,7 +157,7 @@
 | 155 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 
 | 156 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 
 | 157 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 
-| 158 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 
+| 158 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
 | 159 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 
 | 160 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.29 | 
 | 161 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 

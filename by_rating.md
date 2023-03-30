@@ -331,7 +331,6 @@
 | 320 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 
 | 320 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 
 | 320 | [GigaBash](games/g/gigabash.md) | 4.63 | 
-| 332 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 
 | 332 | [Prey](games/p/prey.md) | 4.62 | 
 | 332 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 
 | 332 | [MudRunner](games/m/mudrunner.md) | 4.62 | 
@@ -346,34 +345,35 @@
 | 332 | [NORCO](games/n/norco.md) | 4.62 | 
 | 332 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 
 | 332 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.62 | 
-| 347 | [Supraland](games/s/supraland.md) | 4.61 | 
-| 347 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
-| 347 | [Warframe](games/w/warframe.md) | 4.61 | 
-| 347 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
-| 347 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
-| 347 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
-| 347 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
-| 347 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
-| 347 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
-| 347 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
-| 347 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
-| 347 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 
-| 347 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 
-| 347 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.61 | 
-| 347 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
-| 347 | [20XX](games/2/20xx.md) | 4.61 | 
-| 347 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
-| 347 | [ABZU](games/a/abzu.md) | 4.61 | 
-| 347 | [DOOM 3](games/d/doom_3.md) | 4.61 | 
-| 347 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
-| 347 | [Road 96](games/r/road_96.md) | 4.61 | 
-| 347 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
-| 347 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
-| 347 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 
-| 347 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.61 | 
-| 347 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 
-| 347 | [Darkwood](games/d/darkwood.md) | 4.61 | 
-| 347 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.61 | 
+| 346 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 
+| 346 | [Supraland](games/s/supraland.md) | 4.61 | 
+| 346 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 
+| 346 | [Warframe](games/w/warframe.md) | 4.61 | 
+| 346 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 
+| 346 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 
+| 346 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 
+| 346 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 
+| 346 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 
+| 346 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 
+| 346 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 
+| 346 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 
+| 346 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 
+| 346 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 
+| 346 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.61 | 
+| 346 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 
+| 346 | [20XX](games/2/20xx.md) | 4.61 | 
+| 346 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 
+| 346 | [ABZU](games/a/abzu.md) | 4.61 | 
+| 346 | [DOOM 3](games/d/doom_3.md) | 4.61 | 
+| 346 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 
+| 346 | [Road 96](games/r/road_96.md) | 4.61 | 
+| 346 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 
+| 346 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 
+| 346 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 
+| 346 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.61 | 
+| 346 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 
+| 346 | [Darkwood](games/d/darkwood.md) | 4.61 | 
+| 346 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.61 | 
 | 375 | [Control](games/c/control.md) | 4.60 | 
 | 375 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 375 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 
@@ -511,6 +511,7 @@
 | 496 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 
 | 510 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 
 | 510 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 
+| 510 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 
 | 510 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 
 | 510 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 
 | 510 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 
@@ -522,20 +523,19 @@
 | 510 | [Sable](games/s/sable.md) | 4.51 | 
 | 510 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 
 | 510 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 
-| 523 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
-| 523 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 
-| 523 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
-| 523 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
-| 523 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 
-| 523 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
-| 523 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
-| 523 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
-| 523 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
-| 523 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
-| 523 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
-| 523 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 
-| 523 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
-| 523 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.50 | 
+| 524 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 
+| 524 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 
+| 524 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 
+| 524 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 
+| 524 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 
+| 524 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 
+| 524 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 
+| 524 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 
+| 524 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 
+| 524 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 
+| 524 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 
+| 524 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 
+| 524 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.50 | 
 | 537 | [Maneater](games/m/maneater.md) | 4.49 | 
 | 537 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 
 | 537 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 

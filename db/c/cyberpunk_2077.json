@@ -1,10 +1,10 @@
 {
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
-  "Rating": 4.62,
+  "Rating": 4.61,
   "NumberOfRatings": 32700,
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
-  "LastChanged": "2023-03-30T10:57:02.3246578+00:00",
+  "LastChanged": "2023-03-30T15:56:49.4086833+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:03.6420176+00:00",
@@ -3570,12 +3570,17 @@
       "Time": "2023-03-30T10:57:02.324658+00:00",
       "Rating": 4.62,
       "NumberOfRatings": null
+    },
+    {
+      "Time": "2023-03-30T15:56:49.4086835+00:00",
+      "Rating": 4.61,
+      "NumberOfRatings": null
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 60049
+      "Count": 60131
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -3607,7 +3612,7 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Count": 6578
+      "Count": 6587
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3619,7 +3624,7 @@
     },
     {
       "Text": "This game has a Creative Community",
-      "Count": 4346
+      "Count": 4349
     }
   ]
 }
