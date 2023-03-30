@@ -3,7 +3,7 @@
 | 1 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 |
 | 2 | [20XX](games/2/20xx.md) | 4.61 | 272 |
 | 3 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 |
-| 4 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.55 | 0 |
+| 4 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.52 | 0 |
 | 5 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 776 |
 | 6 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,759 |
 | 7 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 548 |
@@ -32,7 +32,7 @@
 | 30 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 2,582 |
 | 31 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 0 |
 | 32 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 0 |
-| 33 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 8,770 |
+| 33 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 8,774 |
 | 34 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 0 |
 | 35 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 0 |
 | 36 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 0 |
@@ -127,7 +127,7 @@
 | 125 | [Chorus](games/c/chorus.md) | 4.47 | 32 |
 | 126 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 0 |
 | 127 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 |
-| 128 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 31,934 |
+| 128 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 31,940 |
 | 129 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 0 |
 | 130 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 |
 | 131 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.24 | 0 |
@@ -180,7 +180,7 @@
 | 178 | [Dead Space](games/d/dead_space.md) | 4.72 | 30 |
 | 179 | [Death Coming](games/d/death_coming.md) | 4.42 | 0 |
 | 180 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 5,790 |
-| 181 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 11,108 |
+| 181 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 11,109 |
 | 182 | [Death's Door](games/d/death's_door.md) | 4.66 | 0 |
 | 183 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 164 |
 | 184 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | 0 |
@@ -202,7 +202,7 @@
 | 200 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.46 | 0 |
 | 201 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 |
 | 202 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 1,030 |
-| 203 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 438 |
+| 203 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 441 |
 | 204 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 304 |
 | 205 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 0 |
 | 206 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 6,796 |
@@ -434,7 +434,7 @@
 | 432 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 0 |
 | 433 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 448 |
 | 434 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 162 |
-| 435 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 79,568 |
+| 435 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 79,583 |
 | 436 | [Mago](games/m/mago.md) | 4.90 | 0 |
 | 437 | [Maneater](games/m/maneater.md) | 4.49 | 17,387 |
 | 438 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 0 |
@@ -761,7 +761,7 @@
 | 759 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 0 |
 | 760 | [The Surge](games/t/the_surge.md) | 4.46 | 26 |
 | 761 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 0 |
-| 762 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | - |
+| 762 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 0 |
 | 763 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 41 |
 | 764 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 |
 | 765 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.65 | 0 |
@@ -823,7 +823,7 @@
 | 821 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 |
 | 822 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 75 |
 | 823 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 0 |
-| 824 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 872 |
+| 824 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 873 |
 | 825 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 723 |
 | 826 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 |
 | 827 | [TUNIC](games/t/tunic.md) | 4.85 | 32 |
@@ -877,7 +877,7 @@
 | 875 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 385 |
 | 876 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 0 |
 | 877 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 8,504 |
-| 878 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 24,680 |
+| 878 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 24,699 |
 | 879 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 284 |
 | 880 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 0 |
 | 881 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 207 |
