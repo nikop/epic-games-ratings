@@ -126,7 +126,7 @@ namespace EpicRatingsUpdater
             return sb.ToString();
         }
 
-        static public string BuildMarkdownTable(JsonIndexDb<GameDbItem> gameIndex, IEnumerable<GameDbItem> items, bool groupByRating = false)
+        static public string BuildMarkdownTable(JsonIndexDb<GameDbItem> gameIndex, IEnumerable<GameDbItem> items, bool groupByRating = false, bool useSumAwards = false)
         {
             var sb = new StringBuilder();
 
@@ -143,7 +143,7 @@ namespace EpicRatingsUpdater
 
                 var displayRanking = !groupByRating ? i : (item.Rating == lastRating ? lastRanking : i);
 
-                sb.AppendLine($"| {displayRanking} | [{item.Name}]({link}) | {FormatRating(item.Rating)} | {FormatVotes(item.NumberOfAwards)} |");
+                sb.AppendLine($"| {displayRanking} | [{item.Name}]({link}) | {FormatRating(item.Rating)} | {FormatVotes(useSumAwards ? item.NumberOfAwards : item.NumberOfAwardsMax)} |");
 
                 lastRanking = displayRanking;
                 lastRating = item.Rating;

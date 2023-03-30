@@ -216,7 +216,8 @@ async ValueTask UpdateRating(JsonIndexDb<GameDbItem> gameIndex, NamespaceDef ns,
 
             if (pi.pollResult != null)
             {
-                dbItem.NumberOfAwards = pi.pollResult.Sum(x => x.total ?? 0);
+                dbItem.NumberOfAwards = pi.pollResult.Max(x => x.total ?? 0);
+                dbItem.NumberOfAwardsMax = pi.pollResult.Max(x => x.total ?? 0);
 
                 foreach (var pr in pi.pollResult.OrderByDescending(x => x.total))
                 {
@@ -240,6 +241,7 @@ async ValueTask UpdateRating(JsonIndexDb<GameDbItem> gameIndex, NamespaceDef ns,
             else if (dbItem.NumberOfAwards != null)
             {
                 dbItem.NumberOfAwards = 0;
+                dbItem.NumberOfAwardsMax = 0;
             }
         }
     }
@@ -302,7 +304,11 @@ await File.WriteAllTextAsync(
 );
 await File.WriteAllTextAsync(
     Path.Combine(path, "by_awards.md"),
-    Markdown.BuildMarkdownTable(gameIndex, filteredList.Where(x => x.NumberOfAwards > 0).OrderByDescending(x => x.NumberOfAwards).ThenBy(x => x.Name), true)
+    Markdown.BuildMarkdownTable(gameIndex, filteredList.Where(x => x.NumberOfAwards > 0).OrderByDescending(x => x.NumberOfAwardsMax).ThenBy(x => x.Name), true)
+);
+await File.WriteAllTextAsync(
+    Path.Combine(path, "by_awards_sum.md"),
+    Markdown.BuildMarkdownTable(gameIndex, filteredList.Where(x => x.NumberOfAwards > 0).OrderByDescending(x => x.NumberOfAwards).ThenBy(x => x.Name), true, true)
 );
 await File.WriteAllTextAsync(
     Path.Combine(path, "new_games.md"),
