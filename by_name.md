@@ -56,7 +56,7 @@
 | 54 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 
 | 55 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 
 | 56 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 
-| 57 | [ATOM RPG](games/a/atom_rpg.md) | 4.44 | 
+| 57 | [ATOM RPG](games/a/atom_rpg.md) | 4.45 | 
 | 58 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.47 | 
 | 59 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 
 | 60 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 
