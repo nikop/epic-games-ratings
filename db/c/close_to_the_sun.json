@@ -3,6 +3,7 @@
   "Name": "Close To The Sun",
   "Rating": 3.98,
   "NumberOfRatings": 147,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:29:28.4985337+00:00",
   "LastChanged": "2023-01-22T13:57:45.4646467+00:00",
   "RatingHistory": [
@@ -243,173 +244,139 @@
     },
     {
       "Time": "2022-09-24T13:07:30.7885944+00:00",
-      "Rating": 4.03,
-      "NumberOfRatings": null
+      "Rating": 4.03
     },
     {
       "Time": "2022-09-25T20:32:16.2402908+00:00",
-      "Rating": 4.04,
-      "NumberOfRatings": null
+      "Rating": 4.04
     },
     {
       "Time": "2022-09-26T20:33:20.9397381+00:00",
-      "Rating": 4.03,
-      "NumberOfRatings": null
+      "Rating": 4.03
     },
     {
       "Time": "2022-09-30T20:33:28.9296857+00:00",
-      "Rating": 4.04,
-      "NumberOfRatings": null
+      "Rating": 4.04
     },
     {
       "Time": "2022-10-01T14:02:26.7261698+00:00",
-      "Rating": 4.03,
-      "NumberOfRatings": null
+      "Rating": 4.03
     },
     {
       "Time": "2022-10-01T14:32:26.1149421+00:00",
-      "Rating": 4.04,
-      "NumberOfRatings": null
+      "Rating": 4.04
     },
     {
       "Time": "2022-10-01T21:02:16.2637363+00:00",
-      "Rating": 4.03,
-      "NumberOfRatings": null
+      "Rating": 4.03
     },
     {
       "Time": "2022-10-03T21:02:24.398801+00:00",
-      "Rating": 4.02,
-      "NumberOfRatings": null
+      "Rating": 4.02
     },
     {
       "Time": "2022-10-05T21:02:15.9623575+00:00",
-      "Rating": 4.03,
-      "NumberOfRatings": null
+      "Rating": 4.03
     },
     {
       "Time": "2022-10-06T21:02:46.3095637+00:00",
-      "Rating": 4.01,
-      "NumberOfRatings": null
+      "Rating": 4.01
     },
     {
       "Time": "2022-10-08T21:02:07.705141+00:00",
-      "Rating": 4,
-      "NumberOfRatings": null
+      "Rating": 4
     },
     {
       "Time": "2022-10-11T21:02:19.6507644+00:00",
-      "Rating": 4.01,
-      "NumberOfRatings": null
+      "Rating": 4.01
     },
     {
       "Time": "2022-10-16T21:32:02.3724265+00:00",
-      "Rating": 3.99,
-      "NumberOfRatings": null
+      "Rating": 3.99
     },
     {
       "Time": "2022-10-21T21:32:12.3955573+00:00",
-      "Rating": 3.98,
-      "NumberOfRatings": null
+      "Rating": 3.98
     },
     {
       "Time": "2022-10-22T21:32:24.6227697+00:00",
-      "Rating": 3.99,
-      "NumberOfRatings": null
+      "Rating": 3.99
     },
     {
       "Time": "2022-10-28T15:32:37.4456116+00:00",
-      "Rating": 3.98,
-      "NumberOfRatings": null
+      "Rating": 3.98
     },
     {
       "Time": "2022-10-29T22:32:18.007234+00:00",
-      "Rating": 3.97,
-      "NumberOfRatings": null
+      "Rating": 3.97
     },
     {
       "Time": "2022-10-30T22:32:10.5197358+00:00",
-      "Rating": 3.98,
-      "NumberOfRatings": null
+      "Rating": 3.98
     },
     {
       "Time": "2022-11-03T18:03:45.1042974+00:00",
-      "Rating": 3.97,
-      "NumberOfRatings": null
+      "Rating": 3.97
     },
     {
       "Time": "2022-11-04T18:03:07.8252366+00:00",
-      "Rating": 3.98,
-      "NumberOfRatings": null
+      "Rating": 3.98
     },
     {
       "Time": "2022-11-06T17:58:13.1448505+00:00",
-      "Rating": 3.97,
-      "NumberOfRatings": null
+      "Rating": 3.97
     },
     {
       "Time": "2022-11-08T17:58:21.7433606+00:00",
-      "Rating": 3.98,
-      "NumberOfRatings": null
+      "Rating": 3.98
     },
     {
       "Time": "2022-11-12T17:58:27.1189784+00:00",
-      "Rating": 3.99,
-      "NumberOfRatings": null
+      "Rating": 3.99
     },
     {
       "Time": "2022-11-13T17:59:25.3053361+00:00",
-      "Rating": 3.98,
-      "NumberOfRatings": null
+      "Rating": 3.98
     },
     {
       "Time": "2022-11-17T18:57:46.6809601+00:00",
-      "Rating": 3.97,
-      "NumberOfRatings": null
+      "Rating": 3.97
     },
     {
       "Time": "2022-11-19T02:31:26.2410197+00:00",
-      "Rating": 3.98,
-      "NumberOfRatings": null
+      "Rating": 3.98
     },
     {
       "Time": "2022-11-25T02:22:37.4444424+00:00",
-      "Rating": 3.99,
-      "NumberOfRatings": null
+      "Rating": 3.99
     },
     {
       "Time": "2022-11-28T02:20:27.2171311+00:00",
-      "Rating": 4,
-      "NumberOfRatings": null
+      "Rating": 4
     },
     {
       "Time": "2022-12-04T02:11:02.4791956+00:00",
-      "Rating": 3.99,
-      "NumberOfRatings": null
+      "Rating": 3.99
     },
     {
       "Time": "2022-12-06T02:10:26.4782553+00:00",
-      "Rating": 3.98,
-      "NumberOfRatings": null
+      "Rating": 3.98
     },
     {
       "Time": "2022-12-08T02:12:05.6145625+00:00",
-      "Rating": 3.99,
-      "NumberOfRatings": null
+      "Rating": 3.99
     },
     {
       "Time": "2022-12-29T13:10:24.8667305+00:00",
-      "Rating": 3.98,
-      "NumberOfRatings": null
+      "Rating": 3.98
     },
     {
       "Time": "2023-01-20T13:58:44.6900274+00:00",
-      "Rating": 3.99,
-      "NumberOfRatings": null
+      "Rating": 3.99
     },
     {
       "Time": "2023-01-22T13:57:45.464647+00:00",
-      "Rating": 3.98,
-      "NumberOfRatings": null
+      "Rating": 3.98
     }
   ],
   "Tags": []

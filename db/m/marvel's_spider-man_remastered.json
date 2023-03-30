@@ -3,6 +3,7 @@
   "Name": "Marvel\u0027s Spider-Man Remastered",
   "Rating": 4.87,
   "NumberOfRatings": 14015,
+  "NumberOfAwards": 18848,
   "FirstSeen": "2022-08-12T18:01:31.1852692+00:00",
   "FirstSeenRating": "2022-08-12T21:01:33.6251933+00:00",
   "LastChanged": "2023-01-13T17:57:14.5134461+00:00",
@@ -2214,78 +2215,63 @@
     },
     {
       "Time": "2022-12-28T14:57:26.8947177+00:00",
-      "Rating": 4.87,
-      "NumberOfRatings": null
+      "Rating": 4.87
     },
     {
       "Time": "2022-12-28T17:57:33.0943986+00:00",
-      "Rating": 4.88,
-      "NumberOfRatings": null
+      "Rating": 4.88
     },
     {
       "Time": "2022-12-29T14:57:25.8423562+00:00",
-      "Rating": 4.87,
-      "NumberOfRatings": null
+      "Rating": 4.87
     },
     {
       "Time": "2022-12-29T23:57:20.1902364+00:00",
-      "Rating": 4.88,
-      "NumberOfRatings": null
+      "Rating": 4.88
     },
     {
       "Time": "2022-12-30T09:57:19.3593774+00:00",
-      "Rating": 4.87,
-      "NumberOfRatings": null
+      "Rating": 4.87
     },
     {
       "Time": "2022-12-30T13:57:50.935292+00:00",
-      "Rating": 4.88,
-      "NumberOfRatings": null
+      "Rating": 4.88
     },
     {
       "Time": "2022-12-30T19:57:23.2096142+00:00",
-      "Rating": 4.87,
-      "NumberOfRatings": null
+      "Rating": 4.87
     },
     {
       "Time": "2023-01-01T15:57:32.4494489+00:00",
-      "Rating": 4.88,
-      "NumberOfRatings": null
+      "Rating": 4.88
     },
     {
       "Time": "2023-01-02T21:57:59.4227699+00:00",
-      "Rating": 4.87,
-      "NumberOfRatings": null
+      "Rating": 4.87
     },
     {
       "Time": "2023-01-07T13:57:28.9386417+00:00",
-      "Rating": 4.88,
-      "NumberOfRatings": null
+      "Rating": 4.88
     },
     {
       "Time": "2023-01-10T02:12:58.3524292+00:00",
-      "Rating": 4.87,
-      "NumberOfRatings": null
+      "Rating": 4.87
     },
     {
       "Time": "2023-01-10T17:57:36.3532742+00:00",
-      "Rating": 4.88,
-      "NumberOfRatings": null
+      "Rating": 4.88
     },
     {
       "Time": "2023-01-11T08:00:11.0067564+00:00",
-      "Rating": 4.87,
-      "NumberOfRatings": null
+      "Rating": 4.87
     },
     {
       "Time": "2023-01-11T23:57:37.3051692+00:00",
-      "Rating": 4.88,
-      "NumberOfRatings": null
+      "Rating": 4.88
     },
     {
       "Time": "2023-01-13T17:57:14.5134463+00:00",
-      "Rating": 4.87,
-      "NumberOfRatings": null
+      "Rating": 4.87
     }
   ],
   "Tags": [

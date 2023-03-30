@@ -3,6 +3,7 @@
   "Name": "Cris Tales",
   "Rating": 4.36,
   "NumberOfRatings": 758,
+  "NumberOfAwards": 169,
   "FirstSeen": "2022-07-22T20:17:17.9085392+00:00",
   "LastChanged": "2022-12-29T23:56:57.1849437+00:00",
   "RatingHistory": [
@@ -468,63 +469,51 @@
     },
     {
       "Time": "2022-09-29T23:30:20.5091314+00:00",
-      "Rating": 4.37,
-      "NumberOfRatings": null
+      "Rating": 4.37
     },
     {
       "Time": "2022-10-03T22:30:46.2204698+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": null
+      "Rating": 4.38
     },
     {
       "Time": "2022-10-05T23:01:03.8357242+00:00",
-      "Rating": 4.37,
-      "NumberOfRatings": null
+      "Rating": 4.37
     },
     {
       "Time": "2022-10-13T19:01:02.9797351+00:00",
-      "Rating": 4.36,
-      "NumberOfRatings": null
+      "Rating": 4.36
     },
     {
       "Time": "2022-10-14T19:01:01.5387438+00:00",
-      "Rating": 4.37,
-      "NumberOfRatings": null
+      "Rating": 4.37
     },
     {
       "Time": "2022-10-31T17:00:39.2779042+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": null
+      "Rating": 4.38
     },
     {
       "Time": "2022-11-09T09:56:49.4984687+00:00",
-      "Rating": 4.37,
-      "NumberOfRatings": null
+      "Rating": 4.37
     },
     {
       "Time": "2022-11-13T08:57:01.0107438+00:00",
-      "Rating": 4.36,
-      "NumberOfRatings": null
+      "Rating": 4.36
     },
     {
       "Time": "2022-11-14T23:57:09.068595+00:00",
-      "Rating": 4.37,
-      "NumberOfRatings": null
+      "Rating": 4.37
     },
     {
       "Time": "2022-11-25T16:58:30.1563781+00:00",
-      "Rating": 4.36,
-      "NumberOfRatings": null
+      "Rating": 4.36
     },
     {
       "Time": "2022-12-19T18:56:57.4616399+00:00",
-      "Rating": 4.35,
-      "NumberOfRatings": null
+      "Rating": 4.35
     },
     {
       "Time": "2022-12-29T23:56:57.1849441+00:00",
-      "Rating": 4.36,
-      "NumberOfRatings": null
+      "Rating": 4.36
     }
   ],
   "Tags": [

@@ -3,6 +3,7 @@
   "Name": "Baldur\u0027s Gate II: Enhanced Edition",
   "Rating": 4.91,
   "NumberOfRatings": 29,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:18:50.9338623+00:00",
   "FirstSeenRating": "2022-08-05T18:01:05.432518+00:00",
   "LastChanged": "2023-02-20T03:12:21.7747881+00:00",
@@ -59,48 +60,39 @@
     },
     {
       "Time": "2022-10-02T08:00:44.6047016+00:00",
-      "Rating": 4.94,
-      "NumberOfRatings": null
+      "Rating": 4.94
     },
     {
       "Time": "2022-10-17T21:31:23.2789442+00:00",
-      "Rating": 4.91,
-      "NumberOfRatings": null
+      "Rating": 4.91
     },
     {
       "Time": "2022-10-19T21:31:24.7339756+00:00",
-      "Rating": 4.88,
-      "NumberOfRatings": null
+      "Rating": 4.88
     },
     {
       "Time": "2022-10-21T19:01:10.7642149+00:00",
-      "Rating": 4.89,
-      "NumberOfRatings": null
+      "Rating": 4.89
     },
     {
       "Time": "2022-11-04T19:00:47.0232523+00:00",
-      "Rating": 4.9,
-      "NumberOfRatings": null
+      "Rating": 4.9
     },
     {
       "Time": "2022-11-12T17:02:45.4361365+00:00",
-      "Rating": 4.88,
-      "NumberOfRatings": null
+      "Rating": 4.88
     },
     {
       "Time": "2022-11-16T17:00:46.131577+00:00",
-      "Rating": 4.89,
-      "NumberOfRatings": null
+      "Rating": 4.89
     },
     {
       "Time": "2022-12-03T14:57:12.5396381+00:00",
-      "Rating": 4.9,
-      "NumberOfRatings": null
+      "Rating": 4.9
     },
     {
       "Time": "2023-02-20T03:12:21.7747883+00:00",
-      "Rating": 4.91,
-      "NumberOfRatings": null
+      "Rating": 4.91
     }
   ],
   "Tags": []

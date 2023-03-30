@@ -3,6 +3,7 @@
   "Name": "Inscryption",
   "Rating": 4.86,
   "NumberOfRatings": 771,
+  "NumberOfAwards": 351,
   "FirstSeen": "2022-07-22T20:27:28.221027+00:00",
   "LastChanged": "2023-01-17T18:57:36.321881+00:00",
   "RatingHistory": [
@@ -528,48 +529,39 @@
     },
     {
       "Time": "2022-09-27T01:32:11.5243441+00:00",
-      "Rating": 4.84,
-      "NumberOfRatings": null
+      "Rating": 4.84
     },
     {
       "Time": "2022-09-27T07:31:57.0816651+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": null
+      "Rating": 4.85
     },
     {
       "Time": "2022-10-24T19:32:26.8250376+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": null
+      "Rating": 4.86
     },
     {
       "Time": "2022-10-26T11:32:11.8505963+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": null
+      "Rating": 4.85
     },
     {
       "Time": "2022-11-10T22:58:25.8373684+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": null
+      "Rating": 4.86
     },
     {
       "Time": "2022-11-12T15:58:09.9265175+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": null
+      "Rating": 4.85
     },
     {
       "Time": "2022-11-19T22:57:37.3421392+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": null
+      "Rating": 4.86
     },
     {
       "Time": "2023-01-08T13:57:56.2747135+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": null
+      "Rating": 4.85
     },
     {
       "Time": "2023-01-17T18:57:36.3218811+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": null
+      "Rating": 4.86
     }
   ],
   "Tags": [

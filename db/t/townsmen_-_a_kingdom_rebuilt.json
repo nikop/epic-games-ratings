@@ -3,6 +3,7 @@
   "Name": "Townsmen - A Kingdom Rebuilt",
   "Rating": 4.32,
   "NumberOfRatings": 37,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "LastChanged": "2023-02-27T02:13:57.7284064+00:00",
   "RatingHistory": [
@@ -98,83 +99,67 @@
     },
     {
       "Time": "2022-09-29T22:00:51.0504692+00:00",
-      "Rating": 4.21,
-      "NumberOfRatings": null
+      "Rating": 4.21
     },
     {
       "Time": "2022-10-09T22:30:17.4504614+00:00",
-      "Rating": 4.23,
-      "NumberOfRatings": null
+      "Rating": 4.23
     },
     {
       "Time": "2022-10-17T00:00:19.960118+00:00",
-      "Rating": 4.22,
-      "NumberOfRatings": null
+      "Rating": 4.22
     },
     {
       "Time": "2022-10-22T13:00:20.2989055+00:00",
-      "Rating": 4.24,
-      "NumberOfRatings": null
+      "Rating": 4.24
     },
     {
       "Time": "2022-10-23T16:30:23.0629478+00:00",
-      "Rating": 4.26,
-      "NumberOfRatings": null
+      "Rating": 4.26
     },
     {
       "Time": "2022-10-25T23:31:03.0021631+00:00",
-      "Rating": 4.27,
-      "NumberOfRatings": null
+      "Rating": 4.27
     },
     {
       "Time": "2022-10-28T11:32:14.0487015+00:00",
-      "Rating": 4.24,
-      "NumberOfRatings": null
+      "Rating": 4.24
     },
     {
       "Time": "2022-11-15T23:56:56.5056337+00:00",
-      "Rating": 4.26,
-      "NumberOfRatings": null
+      "Rating": 4.26
     },
     {
       "Time": "2022-11-23T08:57:05.228318+00:00",
-      "Rating": 4.27,
-      "NumberOfRatings": null
+      "Rating": 4.27
     },
     {
       "Time": "2022-11-29T04:57:17.628293+00:00",
-      "Rating": 4.26,
-      "NumberOfRatings": null
+      "Rating": 4.26
     },
     {
       "Time": "2022-11-30T04:56:50.817525+00:00",
-      "Rating": 4.27,
-      "NumberOfRatings": null
+      "Rating": 4.27
     },
     {
       "Time": "2022-12-30T16:56:54.7793751+00:00",
-      "Rating": 4.29,
-      "NumberOfRatings": null
+      "Rating": 4.29
     },
     {
       "Time": "2023-01-06T17:57:04.8249009+00:00",
-      "Rating": 4.3,
-      "NumberOfRatings": null
+      "Rating": 4.3
     },
     {
       "Time": "2023-01-09T17:56:52.4013883+00:00",
-      "Rating": 4.31,
-      "NumberOfRatings": null
+      "Rating": 4.31
     },
     {
       "Time": "2023-01-30T20:56:47.0902072+00:00",
-      "Rating": 4.33,
-      "NumberOfRatings": null
+      "Rating": 4.33
     },
     {
       "Time": "2023-02-27T02:13:57.7284066+00:00",
-      "Rating": 4.32,
-      "NumberOfRatings": null
+      "Rating": 4.32
     }
   ],
   "Tags": []

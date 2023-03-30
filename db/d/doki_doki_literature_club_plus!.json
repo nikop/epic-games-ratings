@@ -3,6 +3,7 @@
   "Name": "Doki Doki Literature Club Plus!",
   "Rating": 4.88,
   "NumberOfRatings": 47,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:27:25.5906311+00:00",
   "LastChanged": "2023-01-04T08:57:51.3182748+00:00",
   "RatingHistory": [
@@ -133,48 +134,39 @@
     },
     {
       "Time": "2022-10-01T14:02:06.7697781+00:00",
-      "Rating": 4.82,
-      "NumberOfRatings": null
+      "Rating": 4.82
     },
     {
       "Time": "2022-10-07T14:32:19.3976599+00:00",
-      "Rating": 4.83,
-      "NumberOfRatings": null
+      "Rating": 4.83
     },
     {
       "Time": "2022-10-09T14:31:44.8738752+00:00",
-      "Rating": 4.84,
-      "NumberOfRatings": null
+      "Rating": 4.84
     },
     {
       "Time": "2022-10-15T14:32:23.7145349+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": null
+      "Rating": 4.85
     },
     {
       "Time": "2022-10-23T02:31:50.9790729+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": null
+      "Rating": 4.86
     },
     {
       "Time": "2022-10-26T02:32:20.8814943+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": null
+      "Rating": 4.85
     },
     {
       "Time": "2022-11-04T03:02:59.5338029+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": null
+      "Rating": 4.86
     },
     {
       "Time": "2022-11-21T06:58:14.5703334+00:00",
-      "Rating": 4.87,
-      "NumberOfRatings": null
+      "Rating": 4.87
     },
     {
       "Time": "2023-01-04T08:57:51.3182749+00:00",
-      "Rating": 4.88,
-      "NumberOfRatings": null
+      "Rating": 4.88
     }
   ],
   "Tags": []

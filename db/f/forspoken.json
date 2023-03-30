@@ -2,169 +2,138 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "Rating": 4.12,
+  "NumberOfAwards": 0,
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "LastChanged": "2023-03-29T10:57:06.0243222+00:00",
   "RatingHistory": [
     {
       "Time": "2023-01-28T02:09:06.4755934+00:00",
-      "Rating": 3.65,
-      "NumberOfRatings": null
+      "Rating": 3.65
     },
     {
       "Time": "2023-01-28T17:57:08.2217996+00:00",
-      "Rating": 3.73,
-      "NumberOfRatings": null
+      "Rating": 3.73
     },
     {
       "Time": "2023-01-29T15:57:01.4210681+00:00",
-      "Rating": 3.8,
-      "NumberOfRatings": null
+      "Rating": 3.8
     },
     {
       "Time": "2023-01-30T13:15:08.6674978+00:00",
-      "Rating": 3.83,
-      "NumberOfRatings": null
+      "Rating": 3.83
     },
     {
       "Time": "2023-01-31T13:16:05.4741814+00:00",
-      "Rating": 3.81,
-      "NumberOfRatings": null
+      "Rating": 3.81
     },
     {
       "Time": "2023-02-01T18:57:08.7627215+00:00",
-      "Rating": 3.85,
-      "NumberOfRatings": null
+      "Rating": 3.85
     },
     {
       "Time": "2023-02-02T18:57:17.5379808+00:00",
-      "Rating": 3.86,
-      "NumberOfRatings": null
+      "Rating": 3.86
     },
     {
       "Time": "2023-02-03T03:09:39.2868729+00:00",
-      "Rating": 3.92,
-      "NumberOfRatings": null
+      "Rating": 3.92
     },
     {
       "Time": "2023-02-04T02:56:48.5621463+00:00",
-      "Rating": 3.94,
-      "NumberOfRatings": null
+      "Rating": 3.94
     },
     {
       "Time": "2023-02-04T17:57:07.2598945+00:00",
-      "Rating": 3.95,
-      "NumberOfRatings": null
+      "Rating": 3.95
     },
     {
       "Time": "2023-02-05T17:57:04.7462005+00:00",
-      "Rating": 4.01,
-      "NumberOfRatings": null
+      "Rating": 4.01
     },
     {
       "Time": "2023-02-06T17:57:06.124413+00:00",
-      "Rating": 4,
-      "NumberOfRatings": null
+      "Rating": 4
     },
     {
       "Time": "2023-02-07T17:57:09.5539818+00:00",
-      "Rating": 3.97,
-      "NumberOfRatings": null
+      "Rating": 3.97
     },
     {
       "Time": "2023-02-08T18:57:28.856662+00:00",
-      "Rating": 3.99,
-      "NumberOfRatings": null
+      "Rating": 3.99
     },
     {
       "Time": "2023-02-09T22:57:21.2818329+00:00",
-      "Rating": 4,
-      "NumberOfRatings": null
+      "Rating": 4
     },
     {
       "Time": "2023-02-10T22:57:00.8962323+00:00",
-      "Rating": 4.01,
-      "NumberOfRatings": null
+      "Rating": 4.01
     },
     {
       "Time": "2023-02-12T10:57:05.8017627+00:00",
-      "Rating": 4.04,
-      "NumberOfRatings": null
+      "Rating": 4.04
     },
     {
       "Time": "2023-02-15T10:57:04.380716+00:00",
-      "Rating": 4.06,
-      "NumberOfRatings": null
+      "Rating": 4.06
     },
     {
       "Time": "2023-02-17T05:56:57.5353847+00:00",
-      "Rating": 4.07,
-      "NumberOfRatings": null
+      "Rating": 4.07
     },
     {
       "Time": "2023-02-19T08:57:13.7954493+00:00",
-      "Rating": 4.08,
-      "NumberOfRatings": null
+      "Rating": 4.08
     },
     {
       "Time": "2023-02-20T08:57:16.7624571+00:00",
-      "Rating": 4.07,
-      "NumberOfRatings": null
+      "Rating": 4.07
     },
     {
       "Time": "2023-02-21T08:57:06.1022336+00:00",
-      "Rating": 4.06,
-      "NumberOfRatings": null
+      "Rating": 4.06
     },
     {
       "Time": "2023-03-01T08:57:00.4485349+00:00",
-      "Rating": 4.07,
-      "NumberOfRatings": null
+      "Rating": 4.07
     },
     {
       "Time": "2023-03-03T08:57:10.9309829+00:00",
-      "Rating": 4.08,
-      "NumberOfRatings": null
+      "Rating": 4.08
     },
     {
       "Time": "2023-03-04T08:56:52.2962737+00:00",
-      "Rating": 4.05,
-      "NumberOfRatings": null
+      "Rating": 4.05
     },
     {
       "Time": "2023-03-09T15:57:16.6740547+00:00",
-      "Rating": 4.03,
-      "NumberOfRatings": null
+      "Rating": 4.03
     },
     {
       "Time": "2023-03-14T13:58:16.8525401+00:00",
-      "Rating": 4.04,
-      "NumberOfRatings": null
+      "Rating": 4.04
     },
     {
       "Time": "2023-03-18T13:57:24.368462+00:00",
-      "Rating": 4.05,
-      "NumberOfRatings": null
+      "Rating": 4.05
     },
     {
       "Time": "2023-03-20T13:57:15.1710748+00:00",
-      "Rating": 4.06,
-      "NumberOfRatings": null
+      "Rating": 4.06
     },
     {
       "Time": "2023-03-21T13:57:14.9451038+00:00",
-      "Rating": 4.07,
-      "NumberOfRatings": null
+      "Rating": 4.07
     },
     {
       "Time": "2023-03-25T10:57:17.962309+00:00",
-      "Rating": 4.09,
-      "NumberOfRatings": null
+      "Rating": 4.09
     },
     {
       "Time": "2023-03-29T10:57:06.0243225+00:00",
-      "Rating": 4.12,
-      "NumberOfRatings": null
+      "Rating": 4.12
     }
   ],
   "Tags": []

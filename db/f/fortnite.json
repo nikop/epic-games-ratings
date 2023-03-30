@@ -3,6 +3,7 @@
   "Name": "Fortnite",
   "Rating": 4.3,
   "NumberOfRatings": 2283925,
+  "NumberOfAwards": 8544409,
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
   "LastChanged": "2022-09-23T14:00:58.0705779+00:00",
   "RatingHistory": [
@@ -3704,7 +3705,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 1121580
+      "Count": 1124119
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3728,7 +3729,7 @@
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 874330
+      "Count": 876295
     }
   ]
 }

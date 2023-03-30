@@ -2,14 +2,14 @@
   "ID": "snowdrop",
   "Name": "The Jackbox Party Pack 4",
   "Rating": 4.9,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:31:48.1529621+00:00",
   "FirstSeenRating": "2023-01-02T04:58:42.9664816+00:00",
   "LastChanged": "2023-01-02T04:58:42.9664817+00:00",
   "RatingHistory": [
     {
       "Time": "2023-01-02T04:58:42.966482+00:00",
-      "Rating": 4.9,
-      "NumberOfRatings": null
+      "Rating": 4.9
     }
   ],
   "Tags": []

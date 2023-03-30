@@ -3,6 +3,7 @@
   "Name": "Darkest Dungeon\u00AE",
   "Rating": 4.75,
   "NumberOfRatings": 5428,
+  "NumberOfAwards": 8574,
   "FirstSeen": "2022-07-22T20:19:59.2764084+00:00",
   "LastChanged": "2022-10-17T16:31:25.6468361+00:00",
   "RatingHistory": [
@@ -2823,53 +2824,43 @@
     },
     {
       "Time": "2022-10-11T22:01:14.3604419+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": null
+      "Rating": 4.74
     },
     {
       "Time": "2022-10-12T03:00:40.0342903+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     },
     {
       "Time": "2022-10-12T09:01:18.3007639+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": null
+      "Rating": 4.74
     },
     {
       "Time": "2022-10-12T12:00:49.2460706+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     },
     {
       "Time": "2022-10-13T05:31:26.0070967+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": null
+      "Rating": 4.74
     },
     {
       "Time": "2022-10-13T16:01:19.8930016+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     },
     {
       "Time": "2022-10-13T20:31:55.3893517+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": null
+      "Rating": 4.74
     },
     {
       "Time": "2022-10-14T02:00:44.6448225+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     },
     {
       "Time": "2022-10-17T09:00:59.0404536+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": null
+      "Rating": 4.74
     },
     {
       "Time": "2022-10-17T16:31:25.6468364+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     }
   ],
   "Tags": [

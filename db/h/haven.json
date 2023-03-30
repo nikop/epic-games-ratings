@@ -3,6 +3,7 @@
   "Name": "Haven",
   "Rating": 4.75,
   "NumberOfRatings": 38,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "LastChanged": "2023-01-15T03:01:08.4741629+00:00",
   "RatingHistory": [
@@ -93,53 +94,43 @@
     },
     {
       "Time": "2022-09-25T21:31:03.7943238+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": null
+      "Rating": 4.77
     },
     {
       "Time": "2022-10-05T19:30:43.7202869+00:00",
-      "Rating": 4.78,
-      "NumberOfRatings": null
+      "Rating": 4.78
     },
     {
       "Time": "2022-10-16T22:30:42.4364627+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     },
     {
       "Time": "2022-10-26T23:30:49.3433874+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": null
+      "Rating": 4.74
     },
     {
       "Time": "2022-11-06T00:00:47.9681878+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     },
     {
       "Time": "2022-11-17T02:32:24.7456106+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     },
     {
       "Time": "2022-11-26T03:13:34.627567+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": null
+      "Rating": 4.77
     },
     {
       "Time": "2022-12-04T19:57:00.0064655+00:00",
-      "Rating": 4.78,
-      "NumberOfRatings": null
+      "Rating": 4.78
     },
     {
       "Time": "2022-12-07T20:57:07.0992871+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     },
     {
       "Time": "2023-01-15T03:01:08.474163+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     }
   ],
   "Tags": []

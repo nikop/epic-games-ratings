@@ -1,7 +1,7 @@
 # Crime Boss: Rockay City
-Rating: 3.83 (-)  (as of 23.09.2022)  
+Rating: 3.80 (-)  (as of 23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |
 | 2023-03-29 | 3.82 | - |
-| 2023-03-30 | 3.83 | - |
+| 2023-03-30 | 3.80 | - |

@@ -3,6 +3,7 @@
   "Name": "Arcadegeddon",
   "Rating": 4.49,
   "NumberOfRatings": 801,
+  "NumberOfAwards": 529,
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "LastChanged": "2022-12-10T04:57:12.813507+00:00",
   "RatingHistory": [
@@ -548,68 +549,55 @@
     },
     {
       "Time": "2022-09-24T17:00:48.7218208+00:00",
-      "Rating": 4.51,
-      "NumberOfRatings": null
+      "Rating": 4.51
     },
     {
       "Time": "2022-09-30T15:30:49.367585+00:00",
-      "Rating": 4.52,
-      "NumberOfRatings": null
+      "Rating": 4.52
     },
     {
       "Time": "2022-10-01T03:00:44.4739047+00:00",
-      "Rating": 4.51,
-      "NumberOfRatings": null
+      "Rating": 4.51
     },
     {
       "Time": "2022-10-03T03:00:49.60021+00:00",
-      "Rating": 4.52,
-      "NumberOfRatings": null
+      "Rating": 4.52
     },
     {
       "Time": "2022-10-10T19:00:52.3010852+00:00",
-      "Rating": 4.51,
-      "NumberOfRatings": null
+      "Rating": 4.51
     },
     {
       "Time": "2022-10-31T15:31:28.9362529+00:00",
-      "Rating": 4.5,
-      "NumberOfRatings": null
+      "Rating": 4.5
     },
     {
       "Time": "2022-10-31T21:00:45.3823953+00:00",
-      "Rating": 4.51,
-      "NumberOfRatings": null
+      "Rating": 4.51
     },
     {
       "Time": "2022-11-01T16:31:45.9494277+00:00",
-      "Rating": 4.5,
-      "NumberOfRatings": null
+      "Rating": 4.5
     },
     {
       "Time": "2022-11-01T18:31:49.6359191+00:00",
-      "Rating": 4.51,
-      "NumberOfRatings": null
+      "Rating": 4.51
     },
     {
       "Time": "2022-11-04T01:32:16.239244+00:00",
-      "Rating": 4.5,
-      "NumberOfRatings": null
+      "Rating": 4.5
     },
     {
       "Time": "2022-11-06T08:01:36.9522367+00:00",
-      "Rating": 4.51,
-      "NumberOfRatings": null
+      "Rating": 4.51
     },
     {
       "Time": "2022-11-11T05:12:14.8686329+00:00",
-      "Rating": 4.5,
-      "NumberOfRatings": null
+      "Rating": 4.5
     },
     {
       "Time": "2022-12-10T04:57:12.8135071+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": null
+      "Rating": 4.49
     }
   ],
   "Tags": [

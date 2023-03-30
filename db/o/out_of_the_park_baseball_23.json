@@ -3,6 +3,7 @@
   "Name": "Out of the Park Baseball 23",
   "Rating": 4.62,
   "NumberOfRatings": 46,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:23:29.0257142+00:00",
   "LastChanged": "2023-03-19T02:13:31.3875602+00:00",
   "RatingHistory": [
@@ -98,43 +99,35 @@
     },
     {
       "Time": "2022-09-26T22:32:21.2385748+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": null
+      "Rating": 4.64
     },
     {
       "Time": "2022-10-03T21:01:35.505+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": null
+      "Rating": 4.65
     },
     {
       "Time": "2022-11-08T06:59:40.237464+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": null
+      "Rating": 4.66
     },
     {
       "Time": "2022-11-26T02:14:24.3400317+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": null
+      "Rating": 4.65
     },
     {
       "Time": "2022-12-02T14:57:45.9519214+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": null
+      "Rating": 4.63
     },
     {
       "Time": "2023-01-27T10:58:41.733957+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": null
+      "Rating": 4.6
     },
     {
       "Time": "2023-03-01T10:57:46.0569422+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": null
+      "Rating": 4.61
     },
     {
       "Time": "2023-03-19T02:13:31.3875604+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": null
+      "Rating": 4.62
     }
   ],
   "Tags": []

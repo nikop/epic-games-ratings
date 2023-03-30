@@ -3,6 +3,7 @@
   "Name": "Kena: Bridge of Spirits",
   "Rating": 4.7,
   "NumberOfRatings": 3313,
+  "NumberOfAwards": 1652,
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "LastChanged": "2023-03-20T16:57:08.6751745+00:00",
   "RatingHistory": [
@@ -913,63 +914,51 @@
     },
     {
       "Time": "2022-10-14T18:31:30.9409945+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2022-10-18T04:00:41.4584612+00:00",
-      "Rating": 4.68,
-      "NumberOfRatings": null
+      "Rating": 4.68
     },
     {
       "Time": "2022-10-19T07:30:42.5269364+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2023-01-02T22:57:25.7297772+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     },
     {
       "Time": "2023-01-03T22:57:16.8651448+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2023-01-10T13:13:05.6984611+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     },
     {
       "Time": "2023-01-14T21:57:12.7854916+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2023-01-17T13:57:22.0108422+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     },
     {
       "Time": "2023-03-06T14:57:06.4494726+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2023-03-16T07:57:13.1015053+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     },
     {
       "Time": "2023-03-17T16:57:45.8438732+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2023-03-20T16:57:08.6751775+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     }
   ],
   "Tags": [

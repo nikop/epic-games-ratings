@@ -3,6 +3,7 @@
   "Name": "Black Widow: Recharged",
   "Rating": 4.25,
   "NumberOfRatings": 34,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "LastChanged": "2023-02-08T13:57:24.6380832+00:00",
   "RatingHistory": [
@@ -63,63 +64,51 @@
     },
     {
       "Time": "2022-09-29T13:31:04.2424719+00:00",
-      "Rating": 4.43,
-      "NumberOfRatings": null
+      "Rating": 4.43
     },
     {
       "Time": "2022-10-05T13:31:41.5381213+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": null
+      "Rating": 4.44
     },
     {
       "Time": "2022-10-06T05:31:09.661666+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": null
+      "Rating": 4.46
     },
     {
       "Time": "2022-10-09T05:31:14.0273626+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": null
+      "Rating": 4.44
     },
     {
       "Time": "2022-10-11T11:01:51.9266259+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": null
+      "Rating": 4.38
     },
     {
       "Time": "2022-10-14T06:31:05.9730938+00:00",
-      "Rating": 4.34,
-      "NumberOfRatings": null
+      "Rating": 4.34
     },
     {
       "Time": "2022-10-27T12:01:17.2484699+00:00",
-      "Rating": 4.31,
-      "NumberOfRatings": null
+      "Rating": 4.31
     },
     {
       "Time": "2022-11-02T12:01:45.9622164+00:00",
-      "Rating": 4.3,
-      "NumberOfRatings": null
+      "Rating": 4.3
     },
     {
       "Time": "2022-11-07T20:57:38.1519143+00:00",
-      "Rating": 4.29,
-      "NumberOfRatings": null
+      "Rating": 4.29
     },
     {
       "Time": "2022-11-17T21:57:25.7306314+00:00",
-      "Rating": 4.24,
-      "NumberOfRatings": null
+      "Rating": 4.24
     },
     {
       "Time": "2022-11-28T10:57:28.0936123+00:00",
-      "Rating": 4.26,
-      "NumberOfRatings": null
+      "Rating": 4.26
     },
     {
       "Time": "2023-02-08T13:57:24.6380838+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": null
+      "Rating": 4.25
     }
   ],
   "Tags": []

@@ -3,6 +3,7 @@
   "Name": "The Walking Dead : The Definitive Series",
   "Rating": 4.86,
   "NumberOfRatings": 663,
+  "NumberOfAwards": 605,
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
   "LastChanged": "2022-12-01T02:34:14.0968588+00:00",
   "RatingHistory": [
@@ -588,58 +589,47 @@
     },
     {
       "Time": "2022-09-27T23:31:02.197902+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": null
+      "Rating": 4.86
     },
     {
       "Time": "2022-09-28T21:31:05.8709332+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": null
+      "Rating": 4.85
     },
     {
       "Time": "2022-10-02T16:01:04.6440957+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": null
+      "Rating": 4.86
     },
     {
       "Time": "2022-10-26T03:31:12.0756895+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": null
+      "Rating": 4.85
     },
     {
       "Time": "2022-10-26T14:31:47.0819771+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": null
+      "Rating": 4.86
     },
     {
       "Time": "2022-10-28T18:01:08.9069482+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": null
+      "Rating": 4.85
     },
     {
       "Time": "2022-10-30T05:31:09.1522695+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": null
+      "Rating": 4.86
     },
     {
       "Time": "2022-10-30T21:02:01.5434062+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": null
+      "Rating": 4.85
     },
     {
       "Time": "2022-10-31T16:31:24.3220924+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": null
+      "Rating": 4.86
     },
     {
       "Time": "2022-11-29T21:57:40.6320168+00:00",
-      "Rating": 4.87,
-      "NumberOfRatings": null
+      "Rating": 4.87
     },
     {
       "Time": "2022-12-01T02:34:14.0968589+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": null
+      "Rating": 4.86
     }
   ],
   "Tags": [

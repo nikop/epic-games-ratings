@@ -3,6 +3,7 @@
   "Name": "Baldur\u0027s Gate Dark Alliance II",
   "Rating": 4.38,
   "NumberOfRatings": 31,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:20:22.4888092+00:00",
   "FirstSeenRating": "2022-08-07T10:00:50.3521431+00:00",
   "LastChanged": "2022-11-06T17:57:23.7058973+00:00",
@@ -74,28 +75,23 @@
     },
     {
       "Time": "2022-10-01T16:30:52.2521849+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": null
+      "Rating": 4.38
     },
     {
       "Time": "2022-10-08T19:00:53.8469315+00:00",
-      "Rating": 4.37,
-      "NumberOfRatings": null
+      "Rating": 4.37
     },
     {
       "Time": "2022-10-16T20:00:48.7550795+00:00",
-      "Rating": 4.39,
-      "NumberOfRatings": null
+      "Rating": 4.39
     },
     {
       "Time": "2022-10-26T20:34:00.4250195+00:00",
-      "Rating": 4.35,
-      "NumberOfRatings": null
+      "Rating": 4.35
     },
     {
       "Time": "2022-11-06T17:57:23.7058974+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": null
+      "Rating": 4.38
     }
   ],
   "Tags": []

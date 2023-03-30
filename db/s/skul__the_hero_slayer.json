@@ -3,6 +3,7 @@
   "Name": "Skul: The Hero Slayer",
   "Rating": 4.7,
   "NumberOfRatings": 546,
+  "NumberOfAwards": 828,
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "LastChanged": "2023-01-20T14:58:42.9995916+00:00",
   "RatingHistory": [
@@ -453,48 +454,39 @@
     },
     {
       "Time": "2022-10-17T16:02:58.7231397+00:00",
-      "Rating": 4.68,
-      "NumberOfRatings": null
+      "Rating": 4.68
     },
     {
       "Time": "2022-10-19T15:32:33.973451+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2022-10-30T12:02:33.9573008+00:00",
-      "Rating": 4.68,
-      "NumberOfRatings": null
+      "Rating": 4.68
     },
     {
       "Time": "2022-11-01T03:32:29.8058989+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2022-11-30T03:57:59.3996753+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     },
     {
       "Time": "2022-12-05T14:58:42.7562695+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2022-12-09T04:59:27.4022238+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     },
     {
       "Time": "2023-01-19T08:58:30.1362852+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2023-01-20T14:58:42.9995917+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     }
   ],
   "Tags": [

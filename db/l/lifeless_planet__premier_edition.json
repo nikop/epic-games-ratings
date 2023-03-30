@@ -3,6 +3,7 @@
   "Name": "Lifeless Planet: Premier Edition",
   "Rating": 4.05,
   "NumberOfRatings": 287,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:28:34.0762225+00:00",
   "LastChanged": "2023-03-19T10:58:33.0882388+00:00",
   "RatingHistory": [
@@ -318,118 +319,95 @@
     },
     {
       "Time": "2022-09-28T13:02:17.5847172+00:00",
-      "Rating": 4.01,
-      "NumberOfRatings": null
+      "Rating": 4.01
     },
     {
       "Time": "2022-10-02T13:02:02.4768096+00:00",
-      "Rating": 4,
-      "NumberOfRatings": null
+      "Rating": 4
     },
     {
       "Time": "2022-10-04T15:31:58.1439135+00:00",
-      "Rating": 3.99,
-      "NumberOfRatings": null
+      "Rating": 3.99
     },
     {
       "Time": "2022-10-05T15:32:42.9828041+00:00",
-      "Rating": 3.98,
-      "NumberOfRatings": null
+      "Rating": 3.98
     },
     {
       "Time": "2022-10-10T15:31:55.6663513+00:00",
-      "Rating": 3.99,
-      "NumberOfRatings": null
+      "Rating": 3.99
     },
     {
       "Time": "2022-10-17T18:01:55.4515863+00:00",
-      "Rating": 4,
-      "NumberOfRatings": null
+      "Rating": 4
     },
     {
       "Time": "2022-10-24T18:32:16.2501568+00:00",
-      "Rating": 4.01,
-      "NumberOfRatings": null
+      "Rating": 4.01
     },
     {
       "Time": "2022-10-27T18:32:00.272678+00:00",
-      "Rating": 4,
-      "NumberOfRatings": null
+      "Rating": 4
     },
     {
       "Time": "2022-10-28T18:35:35.4823393+00:00",
-      "Rating": 4.01,
-      "NumberOfRatings": null
+      "Rating": 4.01
     },
     {
       "Time": "2022-10-29T18:32:37.5434236+00:00",
-      "Rating": 4,
-      "NumberOfRatings": null
+      "Rating": 4
     },
     {
       "Time": "2022-10-31T18:32:38.4830254+00:00",
-      "Rating": 4.01,
-      "NumberOfRatings": null
+      "Rating": 4.01
     },
     {
       "Time": "2022-11-01T18:33:01.734374+00:00",
-      "Rating": 4.02,
-      "NumberOfRatings": null
+      "Rating": 4.02
     },
     {
       "Time": "2022-11-06T23:57:54.8526679+00:00",
-      "Rating": 4.03,
-      "NumberOfRatings": null
+      "Rating": 4.03
     },
     {
       "Time": "2022-11-15T17:04:05.0679616+00:00",
-      "Rating": 4.02,
-      "NumberOfRatings": null
+      "Rating": 4.02
     },
     {
       "Time": "2022-11-16T17:01:37.5419871+00:00",
-      "Rating": 4.03,
-      "NumberOfRatings": null
+      "Rating": 4.03
     },
     {
       "Time": "2022-11-21T04:59:25.9438335+00:00",
-      "Rating": 4.04,
-      "NumberOfRatings": null
+      "Rating": 4.04
     },
     {
       "Time": "2022-11-22T05:58:21.4286787+00:00",
-      "Rating": 4.05,
-      "NumberOfRatings": null
+      "Rating": 4.05
     },
     {
       "Time": "2022-11-23T05:57:57.6718469+00:00",
-      "Rating": 4.04,
-      "NumberOfRatings": null
+      "Rating": 4.04
     },
     {
       "Time": "2022-11-30T05:58:24.1748169+00:00",
-      "Rating": 4.05,
-      "NumberOfRatings": null
+      "Rating": 4.05
     },
     {
       "Time": "2022-12-05T05:58:19.8014179+00:00",
-      "Rating": 4.04,
-      "NumberOfRatings": null
+      "Rating": 4.04
     },
     {
       "Time": "2022-12-10T05:57:35.2961894+00:00",
-      "Rating": 4.05,
-      "NumberOfRatings": null
+      "Rating": 4.05
     },
     {
       "Time": "2023-03-06T09:58:17.538045+00:00",
-      "Rating": 4.06,
-      "NumberOfRatings": null
+      "Rating": 4.06
     },
     {
       "Time": "2023-03-19T10:58:33.088239+00:00",
-      "Rating": 4.05,
-      "NumberOfRatings": null
+      "Rating": 4.05
     }
   ],
   "Tags": []

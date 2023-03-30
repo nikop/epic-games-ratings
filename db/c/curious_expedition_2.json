@@ -3,6 +3,7 @@
   "Name": "Curious Expedition 2",
   "Rating": 4.7,
   "NumberOfRatings": 20,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:24:56.4682953+00:00",
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "LastChanged": "2023-02-09T21:57:39.2809051+00:00",
@@ -14,18 +15,15 @@
     },
     {
       "Time": "2022-10-13T06:32:04.607835+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": null
+      "Rating": 4.71
     },
     {
       "Time": "2022-12-22T11:57:44.0488027+00:00",
-      "Rating": 4.68,
-      "NumberOfRatings": null
+      "Rating": 4.68
     },
     {
       "Time": "2023-02-09T21:57:39.2809053+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     }
   ],
   "Tags": []

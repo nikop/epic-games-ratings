@@ -3,6 +3,7 @@
   "Name": "Eiyuden Chronicle: Rising",
   "Rating": 4.49,
   "NumberOfRatings": 48,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "LastChanged": "2022-12-03T06:02:05.6342813+00:00",
   "RatingHistory": [
@@ -93,58 +94,47 @@
     },
     {
       "Time": "2022-09-24T13:07:58.1387073+00:00",
-      "Rating": 4.43,
-      "NumberOfRatings": null
+      "Rating": 4.43
     },
     {
       "Time": "2022-10-15T08:33:18.6829535+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     },
     {
       "Time": "2022-10-17T09:02:44.9722431+00:00",
-      "Rating": 4.43,
-      "NumberOfRatings": null
+      "Rating": 4.43
     },
     {
       "Time": "2022-10-19T09:03:10.7591521+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": null
+      "Rating": 4.44
     },
     {
       "Time": "2022-10-27T16:32:46.1187895+00:00",
-      "Rating": 4.45,
-      "NumberOfRatings": null
+      "Rating": 4.45
     },
     {
       "Time": "2022-10-29T16:32:49.0103762+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": null
+      "Rating": 4.46
     },
     {
       "Time": "2022-11-01T17:03:53.6615249+00:00",
-      "Rating": 4.47,
-      "NumberOfRatings": null
+      "Rating": 4.47
     },
     {
       "Time": "2022-11-05T17:36:08.8520565+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": null
+      "Rating": 4.48
     },
     {
       "Time": "2022-11-11T15:58:53.9696775+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": null
+      "Rating": 4.49
     },
     {
       "Time": "2022-11-29T17:59:05.3163111+00:00",
-      "Rating": 4.5,
-      "NumberOfRatings": null
+      "Rating": 4.5
     },
     {
       "Time": "2022-12-03T06:02:05.6342816+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": null
+      "Rating": 4.49
     }
   ],
   "Tags": []

@@ -3,6 +3,7 @@
   "Name": "Grindstone",
   "Rating": 4.84,
   "NumberOfRatings": 63,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "LastChanged": "2023-01-13T21:58:11.3249748+00:00",
   "RatingHistory": [
@@ -143,43 +144,35 @@
     },
     {
       "Time": "2022-09-24T22:02:09.2533029+00:00",
-      "Rating": 4.84,
-      "NumberOfRatings": null
+      "Rating": 4.84
     },
     {
       "Time": "2022-09-25T22:32:08.3535091+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": null
+      "Rating": 4.85
     },
     {
       "Time": "2022-10-14T02:32:07.4621676+00:00",
-      "Rating": 4.83,
-      "NumberOfRatings": null
+      "Rating": 4.83
     },
     {
       "Time": "2022-10-22T00:02:53.6593101+00:00",
-      "Rating": 4.82,
-      "NumberOfRatings": null
+      "Rating": 4.82
     },
     {
       "Time": "2022-11-09T18:58:45.2305267+00:00",
-      "Rating": 4.83,
-      "NumberOfRatings": null
+      "Rating": 4.83
     },
     {
       "Time": "2022-12-04T18:58:12.0261817+00:00",
-      "Rating": 4.82,
-      "NumberOfRatings": null
+      "Rating": 4.82
     },
     {
       "Time": "2022-12-06T07:57:50.5807181+00:00",
-      "Rating": 4.83,
-      "NumberOfRatings": null
+      "Rating": 4.83
     },
     {
       "Time": "2023-01-13T21:58:11.3249757+00:00",
-      "Rating": 4.84,
-      "NumberOfRatings": null
+      "Rating": 4.84
     }
   ],
   "Tags": []

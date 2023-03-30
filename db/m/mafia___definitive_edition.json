@@ -3,6 +3,7 @@
   "Name": "Mafia : Definitive Edition",
   "Rating": 4.62,
   "NumberOfRatings": 2035,
+  "NumberOfAwards": 639,
   "FirstSeen": "2022-07-22T20:22:45.942623+00:00",
   "LastChanged": "2023-03-07T18:57:30.6466569+00:00",
   "RatingHistory": [
@@ -648,53 +649,43 @@
     },
     {
       "Time": "2022-09-26T15:01:07.3290511+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": null
+      "Rating": 4.61
     },
     {
       "Time": "2022-09-27T11:01:10.2907221+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": null
+      "Rating": 4.62
     },
     {
       "Time": "2022-09-28T05:31:47.3949909+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": null
+      "Rating": 4.61
     },
     {
       "Time": "2022-09-30T13:31:17.3258858+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": null
+      "Rating": 4.62
     },
     {
       "Time": "2022-10-25T21:33:02.3959093+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": null
+      "Rating": 4.61
     },
     {
       "Time": "2022-12-02T15:57:43.0434999+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": null
+      "Rating": 4.62
     },
     {
       "Time": "2022-12-03T07:58:07.3704871+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": null
+      "Rating": 4.61
     },
     {
       "Time": "2022-12-07T13:12:40.5076612+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": null
+      "Rating": 4.62
     },
     {
       "Time": "2022-12-22T16:57:25.3413275+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": null
+      "Rating": 4.61
     },
     {
       "Time": "2023-03-07T18:57:30.6466572+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": null
+      "Rating": 4.62
     }
   ],
   "Tags": [

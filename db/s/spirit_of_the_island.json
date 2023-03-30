@@ -3,6 +3,7 @@
   "Name": "Spirit of the Island",
   "Rating": 4.4,
   "NumberOfRatings": 25,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:29:55.0099297+00:00",
   "FirstSeenRating": "2022-08-30T22:04:07.0610643+00:00",
   "LastChanged": "2023-02-12T06:57:59.5531709+00:00",
@@ -39,23 +40,19 @@
     },
     {
       "Time": "2022-09-25T05:32:05.6567248+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": null
+      "Rating": 4.46
     },
     {
       "Time": "2022-10-11T21:32:10.3998508+00:00",
-      "Rating": 4.36,
-      "NumberOfRatings": null
+      "Rating": 4.36
     },
     {
       "Time": "2022-12-11T22:58:08.7862568+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": null
+      "Rating": 4.38
     },
     {
       "Time": "2023-02-12T06:57:59.5531711+00:00",
-      "Rating": 4.4,
-      "NumberOfRatings": null
+      "Rating": 4.4
     }
   ],
   "Tags": []

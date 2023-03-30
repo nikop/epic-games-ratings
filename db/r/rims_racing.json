@@ -3,6 +3,7 @@
   "Name": "RiMS Racing",
   "Rating": 4.44,
   "NumberOfRatings": 31,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:18:54.8665503+00:00",
   "LastChanged": "2023-03-06T20:57:15.6398772+00:00",
   "RatingHistory": [
@@ -43,43 +44,35 @@
     },
     {
       "Time": "2022-09-25T21:01:53.3478282+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": null
+      "Rating": 4.38
     },
     {
       "Time": "2022-10-02T15:30:42.6328308+00:00",
-      "Rating": 4.39,
-      "NumberOfRatings": null
+      "Rating": 4.39
     },
     {
       "Time": "2022-12-07T14:57:22.7177678+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": null
+      "Rating": 4.41
     },
     {
       "Time": "2023-01-30T18:57:23.8697117+00:00",
-      "Rating": 4.43,
-      "NumberOfRatings": null
+      "Rating": 4.43
     },
     {
       "Time": "2023-02-09T19:57:01.8283+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": null
+      "Rating": 4.44
     },
     {
       "Time": "2023-02-22T20:57:12.8680751+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": null
+      "Rating": 4.46
     },
     {
       "Time": "2023-03-04T20:57:14.1144441+00:00",
-      "Rating": 4.47,
-      "NumberOfRatings": null
+      "Rating": 4.47
     },
     {
       "Time": "2023-03-06T20:57:15.6398774+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": null
+      "Rating": 4.44
     }
   ],
   "Tags": []

@@ -3,6 +3,7 @@
   "Name": "Old World",
   "Rating": 4.65,
   "NumberOfRatings": 1307,
+  "NumberOfAwards": 1736,
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "LastChanged": "2023-03-13T07:57:59.9863177+00:00",
   "RatingHistory": [
@@ -1188,33 +1189,27 @@
     },
     {
       "Time": "2022-10-18T07:31:45.4898881+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": null
+      "Rating": 4.64
     },
     {
       "Time": "2022-10-18T11:02:42.9139745+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": null
+      "Rating": 4.63
     },
     {
       "Time": "2022-10-20T17:37:15.7739135+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": null
+      "Rating": 4.64
     },
     {
       "Time": "2022-10-21T14:01:11.8176238+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": null
+      "Rating": 4.63
     },
     {
       "Time": "2022-10-26T20:01:31.4812319+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": null
+      "Rating": 4.64
     },
     {
       "Time": "2023-03-13T07:57:59.9863179+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": null
+      "Rating": 4.65
     }
   ],
   "Tags": [

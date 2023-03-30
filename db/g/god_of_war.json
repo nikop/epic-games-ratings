@@ -3,6 +3,7 @@
   "Name": "God of War",
   "Rating": 4.89,
   "NumberOfRatings": 4943,
+  "NumberOfAwards": 7551,
   "FirstSeen": "2022-07-22T20:26:02.7260883+00:00",
   "LastChanged": "2023-01-01T22:57:43.5629658+00:00",
   "RatingHistory": [
@@ -1673,13 +1674,11 @@
     },
     {
       "Time": "2022-11-17T23:58:04.454672+00:00",
-      "Rating": 4.9,
-      "NumberOfRatings": null
+      "Rating": 4.9
     },
     {
       "Time": "2023-01-01T22:57:43.5629662+00:00",
-      "Rating": 4.89,
-      "NumberOfRatings": null
+      "Rating": 4.89
     }
   ],
   "Tags": [

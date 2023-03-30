@@ -3,6 +3,7 @@
   "Name": "Cartel Tycoon",
   "Rating": 4.35,
   "NumberOfRatings": 101,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "LastChanged": "2023-03-26T09:57:22.9467861+00:00",
   "RatingHistory": [
@@ -213,58 +214,47 @@
     },
     {
       "Time": "2022-10-21T22:30:37.351984+00:00",
-      "Rating": 4.32,
-      "NumberOfRatings": null
+      "Rating": 4.32
     },
     {
       "Time": "2022-10-23T14:00:38.7702024+00:00",
-      "Rating": 4.33,
-      "NumberOfRatings": null
+      "Rating": 4.33
     },
     {
       "Time": "2022-10-24T14:01:07.4687705+00:00",
-      "Rating": 4.34,
-      "NumberOfRatings": null
+      "Rating": 4.34
     },
     {
       "Time": "2022-10-25T14:01:34.6008271+00:00",
-      "Rating": 4.32,
-      "NumberOfRatings": null
+      "Rating": 4.32
     },
     {
       "Time": "2022-11-03T10:31:21.0302868+00:00",
-      "Rating": 4.33,
-      "NumberOfRatings": null
+      "Rating": 4.33
     },
     {
       "Time": "2022-11-15T07:56:54.8734238+00:00",
-      "Rating": 4.34,
-      "NumberOfRatings": null
+      "Rating": 4.34
     },
     {
       "Time": "2022-11-17T06:56:55.2714724+00:00",
-      "Rating": 4.33,
-      "NumberOfRatings": null
+      "Rating": 4.33
     },
     {
       "Time": "2022-12-07T20:57:00.9418157+00:00",
-      "Rating": 4.34,
-      "NumberOfRatings": null
+      "Rating": 4.34
     },
     {
       "Time": "2022-12-31T04:57:03.1998343+00:00",
-      "Rating": 4.35,
-      "NumberOfRatings": null
+      "Rating": 4.35
     },
     {
       "Time": "2023-01-02T04:57:15.6356559+00:00",
-      "Rating": 4.34,
-      "NumberOfRatings": null
+      "Rating": 4.34
     },
     {
       "Time": "2023-03-26T09:57:22.9467864+00:00",
-      "Rating": 4.35,
-      "NumberOfRatings": null
+      "Rating": 4.35
     }
   ],
   "Tags": []

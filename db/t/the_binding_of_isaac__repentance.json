@@ -3,6 +3,7 @@
   "Name": "The Binding of Isaac: Repentance",
   "Rating": 4.9,
   "NumberOfRatings": 1859,
+  "NumberOfAwards": 8190,
   "FirstSeen": "2022-07-22T20:18:34.9311333+00:00",
   "LastChanged": "2023-03-15T16:57:03.0896529+00:00",
   "RatingHistory": [
@@ -1698,73 +1699,59 @@
     },
     {
       "Time": "2022-10-17T19:01:12.2532968+00:00",
-      "Rating": 4.91,
-      "NumberOfRatings": null
+      "Rating": 4.91
     },
     {
       "Time": "2022-10-27T11:00:41.759632+00:00",
-      "Rating": 4.9,
-      "NumberOfRatings": null
+      "Rating": 4.9
     },
     {
       "Time": "2022-10-30T19:31:01.616039+00:00",
-      "Rating": 4.91,
-      "NumberOfRatings": null
+      "Rating": 4.91
     },
     {
       "Time": "2022-11-02T10:01:19.7135442+00:00",
-      "Rating": 4.9,
-      "NumberOfRatings": null
+      "Rating": 4.9
     },
     {
       "Time": "2022-11-04T20:30:45.36676+00:00",
-      "Rating": 4.91,
-      "NumberOfRatings": null
+      "Rating": 4.91
     },
     {
       "Time": "2022-11-12T11:57:02.8376829+00:00",
-      "Rating": 4.9,
-      "NumberOfRatings": null
+      "Rating": 4.9
     },
     {
       "Time": "2022-11-14T11:56:57.4053689+00:00",
-      "Rating": 4.91,
-      "NumberOfRatings": null
+      "Rating": 4.91
     },
     {
       "Time": "2022-11-15T06:56:53.2669951+00:00",
-      "Rating": 4.9,
-      "NumberOfRatings": null
+      "Rating": 4.9
     },
     {
       "Time": "2022-11-17T15:57:22.0063274+00:00",
-      "Rating": 4.91,
-      "NumberOfRatings": null
+      "Rating": 4.91
     },
     {
       "Time": "2023-01-13T03:02:29.2712762+00:00",
-      "Rating": 4.9,
-      "NumberOfRatings": null
+      "Rating": 4.9
     },
     {
       "Time": "2023-01-25T16:57:15.5731259+00:00",
-      "Rating": 4.91,
-      "NumberOfRatings": null
+      "Rating": 4.91
     },
     {
       "Time": "2023-01-29T02:11:31.2147226+00:00",
-      "Rating": 4.9,
-      "NumberOfRatings": null
+      "Rating": 4.9
     },
     {
       "Time": "2023-02-10T03:57:07.5794676+00:00",
-      "Rating": 4.91,
-      "NumberOfRatings": null
+      "Rating": 4.91
     },
     {
       "Time": "2023-03-15T16:57:03.0896531+00:00",
-      "Rating": 4.9,
-      "NumberOfRatings": null
+      "Rating": 4.9
     }
   ],
   "Tags": [

@@ -2,39 +2,34 @@
   "ID": "14de166bd26f49e2a13e18e1d386777b",
   "Name": "Evil Nun: The Broken Mask",
   "Rating": 4.9,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-10-31T20:02:47.3273278+00:00",
   "FirstSeenRating": "2022-12-30T14:58:38.470983+00:00",
   "LastChanged": "2023-03-16T02:06:50.337983+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-30T14:58:38.4709834+00:00",
-      "Rating": 4.95,
-      "NumberOfRatings": null
+      "Rating": 4.95
     },
     {
       "Time": "2023-02-11T09:58:35.933119+00:00",
-      "Rating": 4.96,
-      "NumberOfRatings": null
+      "Rating": 4.96
     },
     {
       "Time": "2023-02-20T23:59:11.0497603+00:00",
-      "Rating": 4.92,
-      "NumberOfRatings": null
+      "Rating": 4.92
     },
     {
       "Time": "2023-02-22T23:58:29.5123342+00:00",
-      "Rating": 4.88,
-      "NumberOfRatings": null
+      "Rating": 4.88
     },
     {
       "Time": "2023-03-03T23:58:11.2109367+00:00",
-      "Rating": 4.89,
-      "NumberOfRatings": null
+      "Rating": 4.89
     },
     {
       "Time": "2023-03-16T02:06:50.3379833+00:00",
-      "Rating": 4.9,
-      "NumberOfRatings": null
+      "Rating": 4.9
     }
   ],
   "Tags": []

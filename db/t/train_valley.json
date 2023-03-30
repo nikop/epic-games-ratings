@@ -3,6 +3,7 @@
   "Name": "Train Valley",
   "Rating": 4.47,
   "NumberOfRatings": 28,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "LastChanged": "2023-03-30T04:58:04.3970021+00:00",
   "RatingHistory": [
@@ -38,43 +39,35 @@
     },
     {
       "Time": "2022-10-01T21:31:10.8319671+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": null
+      "Rating": 4.41
     },
     {
       "Time": "2022-10-03T21:31:39.2379649+00:00",
-      "Rating": 4.4,
-      "NumberOfRatings": null
+      "Rating": 4.4
     },
     {
       "Time": "2022-10-15T23:31:41.9863464+00:00",
-      "Rating": 4.39,
-      "NumberOfRatings": null
+      "Rating": 4.39
     },
     {
       "Time": "2022-10-16T13:01:06.7270048+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": null
+      "Rating": 4.41
     },
     {
       "Time": "2022-11-02T15:02:18.3058001+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     },
     {
       "Time": "2022-11-04T16:32:02.503875+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": null
+      "Rating": 4.44
     },
     {
       "Time": "2022-12-24T04:57:44.2934436+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": null
+      "Rating": 4.46
     },
     {
       "Time": "2023-03-30T04:58:04.3970024+00:00",
-      "Rating": 4.47,
-      "NumberOfRatings": null
+      "Rating": 4.47
     }
   ],
   "Tags": []

@@ -3,6 +3,7 @@
   "Name": "Windbound",
   "Rating": 4.18,
   "NumberOfRatings": 2109,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:20:10.910936+00:00",
   "LastChanged": "2023-01-10T09:57:26.2731653+00:00",
   "RatingHistory": [
@@ -613,48 +614,39 @@
     },
     {
       "Time": "2022-09-24T13:06:15.7649748+00:00",
-      "Rating": 4.16,
-      "NumberOfRatings": null
+      "Rating": 4.16
     },
     {
       "Time": "2022-09-24T18:30:48.6582783+00:00",
-      "Rating": 4.17,
-      "NumberOfRatings": null
+      "Rating": 4.17
     },
     {
       "Time": "2022-09-30T15:30:49.14459+00:00",
-      "Rating": 4.16,
-      "NumberOfRatings": null
+      "Rating": 4.16
     },
     {
       "Time": "2022-10-01T00:31:30.6236198+00:00",
-      "Rating": 4.17,
-      "NumberOfRatings": null
+      "Rating": 4.17
     },
     {
       "Time": "2022-11-06T01:00:49.937627+00:00",
-      "Rating": 4.18,
-      "NumberOfRatings": null
+      "Rating": 4.18
     },
     {
       "Time": "2022-11-24T20:57:25.4020527+00:00",
-      "Rating": 4.19,
-      "NumberOfRatings": null
+      "Rating": 4.19
     },
     {
       "Time": "2022-12-26T15:57:25.8599587+00:00",
-      "Rating": 4.18,
-      "NumberOfRatings": null
+      "Rating": 4.18
     },
     {
       "Time": "2022-12-27T15:57:09.7398185+00:00",
-      "Rating": 4.19,
-      "NumberOfRatings": null
+      "Rating": 4.19
     },
     {
       "Time": "2023-01-10T09:57:26.2731655+00:00",
-      "Rating": 4.18,
-      "NumberOfRatings": null
+      "Rating": 4.18
     }
   ],
   "Tags": []

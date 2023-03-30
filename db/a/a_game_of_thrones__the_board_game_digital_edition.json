@@ -3,6 +3,7 @@
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "Rating": 4.2,
   "NumberOfRatings": 2500,
+  "NumberOfAwards": 776,
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "LastChanged": "2023-03-22T14:58:02.0272455+00:00",
   "RatingHistory": [
@@ -1103,58 +1104,47 @@
     },
     {
       "Time": "2022-09-30T03:01:43.1624619+00:00",
-      "Rating": 4.2,
-      "NumberOfRatings": null
+      "Rating": 4.2
     },
     {
       "Time": "2022-10-23T14:02:14.7017715+00:00",
-      "Rating": 4.21,
-      "NumberOfRatings": null
+      "Rating": 4.21
     },
     {
       "Time": "2022-10-23T20:32:01.5151496+00:00",
-      "Rating": 4.2,
-      "NumberOfRatings": null
+      "Rating": 4.2
     },
     {
       "Time": "2022-10-26T16:33:04.3055588+00:00",
-      "Rating": 4.21,
-      "NumberOfRatings": null
+      "Rating": 4.21
     },
     {
       "Time": "2022-10-29T18:32:30.3344691+00:00",
-      "Rating": 4.2,
-      "NumberOfRatings": null
+      "Rating": 4.2
     },
     {
       "Time": "2022-10-30T15:32:25.9712685+00:00",
-      "Rating": 4.21,
-      "NumberOfRatings": null
+      "Rating": 4.21
     },
     {
       "Time": "2022-11-24T10:57:34.8169933+00:00",
-      "Rating": 4.2,
-      "NumberOfRatings": null
+      "Rating": 4.2
     },
     {
       "Time": "2022-12-31T20:57:57.6686275+00:00",
-      "Rating": 4.21,
-      "NumberOfRatings": null
+      "Rating": 4.21
     },
     {
       "Time": "2023-01-04T20:57:58.8747394+00:00",
-      "Rating": 4.2,
-      "NumberOfRatings": null
+      "Rating": 4.2
     },
     {
       "Time": "2023-02-11T19:58:30.5206874+00:00",
-      "Rating": 4.21,
-      "NumberOfRatings": null
+      "Rating": 4.21
     },
     {
       "Time": "2023-03-22T14:58:02.0272457+00:00",
-      "Rating": 4.2,
-      "NumberOfRatings": null
+      "Rating": 4.2
     }
   ],
   "Tags": [

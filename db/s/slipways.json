@@ -3,6 +3,7 @@
   "Name": "Slipways",
   "Rating": 4.73,
   "NumberOfRatings": 34,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:23:00.0993046+00:00",
   "LastChanged": "2023-03-13T18:57:44.090242+00:00",
   "RatingHistory": [
@@ -58,43 +59,35 @@
     },
     {
       "Time": "2022-09-24T18:31:12.3016149+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2022-09-25T18:31:13.2675136+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     },
     {
       "Time": "2022-09-28T17:31:11.8012414+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": null
+      "Rating": 4.71
     },
     {
       "Time": "2022-10-07T18:31:07.2066776+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": null
+      "Rating": 4.72
     },
     {
       "Time": "2022-10-24T12:31:29.1249263+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     },
     {
       "Time": "2022-11-13T17:58:13.811458+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": null
+      "Rating": 4.71
     },
     {
       "Time": "2022-12-04T16:58:03.1833042+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": null
+      "Rating": 4.72
     },
     {
       "Time": "2023-03-13T18:57:44.0902422+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": null
+      "Rating": 4.73
     }
   ],
   "Tags": []
