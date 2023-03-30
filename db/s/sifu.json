@@ -3,6 +3,7 @@
   "Name": "Sifu",
   "Rating": 4.81,
   "NumberOfRatings": 9492,
+  "NumberOfAwards": 9632,
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "LastChanged": "2022-12-16T02:57:36.7566435+00:00",
   "RatingHistory": [
@@ -2703,68 +2704,55 @@
     },
     {
       "Time": "2022-11-18T11:57:29.2288824+00:00",
-      "Rating": 4.81,
-      "NumberOfRatings": null
+      "Rating": 4.81
     },
     {
       "Time": "2022-11-19T23:57:19.1630685+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": null
+      "Rating": 4.8
     },
     {
       "Time": "2022-11-20T07:57:35.4881485+00:00",
-      "Rating": 4.81,
-      "NumberOfRatings": null
+      "Rating": 4.81
     },
     {
       "Time": "2022-11-21T07:57:29.537571+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": null
+      "Rating": 4.8
     },
     {
       "Time": "2022-11-22T06:57:21.1613863+00:00",
-      "Rating": 4.81,
-      "NumberOfRatings": null
+      "Rating": 4.81
     },
     {
       "Time": "2022-11-22T14:57:50.8581051+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": null
+      "Rating": 4.8
     },
     {
       "Time": "2022-11-23T14:59:08.7909197+00:00",
-      "Rating": 4.81,
-      "NumberOfRatings": null
+      "Rating": 4.81
     },
     {
       "Time": "2022-11-23T17:01:50.7229013+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": null
+      "Rating": 4.8
     },
     {
       "Time": "2022-11-24T09:58:05.4992493+00:00",
-      "Rating": 4.81,
-      "NumberOfRatings": null
+      "Rating": 4.81
     },
     {
       "Time": "2022-11-26T02:14:27.7629219+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": null
+      "Rating": 4.8
     },
     {
       "Time": "2022-12-15T03:11:45.4964288+00:00",
-      "Rating": 4.81,
-      "NumberOfRatings": null
+      "Rating": 4.81
     },
     {
       "Time": "2022-12-15T19:57:34.4486941+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": null
+      "Rating": 4.8
     },
     {
       "Time": "2022-12-16T02:57:36.7566436+00:00",
-      "Rating": 4.81,
-      "NumberOfRatings": null
+      "Rating": 4.81
     }
   ],
   "Tags": [

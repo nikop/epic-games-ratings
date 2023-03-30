@@ -3,6 +3,7 @@
   "Name": "Art of Rally",
   "Rating": 4.86,
   "NumberOfRatings": 56,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "LastChanged": "2023-03-19T21:57:08.7902741+00:00",
   "RatingHistory": [
@@ -113,78 +114,63 @@
     },
     {
       "Time": "2022-09-24T13:06:13.4829385+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": null
+      "Rating": 4.86
     },
     {
       "Time": "2022-09-30T10:00:52.8269396+00:00",
-      "Rating": 4.87,
-      "NumberOfRatings": null
+      "Rating": 4.87
     },
     {
       "Time": "2022-10-07T00:30:42.9208394+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": null
+      "Rating": 4.85
     },
     {
       "Time": "2022-10-11T07:30:53.2284811+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": null
+      "Rating": 4.86
     },
     {
       "Time": "2022-10-24T14:01:20.0952001+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": null
+      "Rating": 4.85
     },
     {
       "Time": "2022-10-27T10:31:13.4185683+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": null
+      "Rating": 4.86
     },
     {
       "Time": "2022-11-04T12:31:41.6031515+00:00",
-      "Rating": 4.87,
-      "NumberOfRatings": null
+      "Rating": 4.87
     },
     {
       "Time": "2022-11-12T07:57:06.2134098+00:00",
-      "Rating": 4.88,
-      "NumberOfRatings": null
+      "Rating": 4.88
     },
     {
       "Time": "2022-11-22T13:57:06.5796117+00:00",
-      "Rating": 4.89,
-      "NumberOfRatings": null
+      "Rating": 4.89
     },
     {
       "Time": "2022-12-26T18:57:14.3871615+00:00",
-      "Rating": 4.88,
-      "NumberOfRatings": null
+      "Rating": 4.88
     },
     {
       "Time": "2022-12-28T18:57:25.7265024+00:00",
-      "Rating": 4.87,
-      "NumberOfRatings": null
+      "Rating": 4.87
     },
     {
       "Time": "2023-01-01T19:57:07.8913068+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": null
+      "Rating": 4.85
     },
     {
       "Time": "2023-01-27T18:56:58.2799951+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": null
+      "Rating": 4.86
     },
     {
       "Time": "2023-02-15T19:57:07.7316336+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": null
+      "Rating": 4.85
     },
     {
       "Time": "2023-03-19T21:57:08.7902745+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": null
+      "Rating": 4.86
     }
   ],
   "Tags": []

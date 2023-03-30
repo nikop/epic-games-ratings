@@ -3,6 +3,7 @@
   "Name": "Farming Simulator 22",
   "Rating": 4.7,
   "NumberOfRatings": 7683,
+  "NumberOfAwards": 35255,
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "LastChanged": "2023-02-04T17:56:59.3122101+00:00",
   "RatingHistory": [
@@ -2848,83 +2849,67 @@
     },
     {
       "Time": "2022-10-04T16:31:05.3722786+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": null
+      "Rating": 4.71
     },
     {
       "Time": "2022-10-04T18:30:24.15856+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": null
+      "Rating": 4.72
     },
     {
       "Time": "2022-10-04T22:31:09.3975891+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": null
+      "Rating": 4.71
     },
     {
       "Time": "2022-10-05T13:00:21.6422995+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": null
+      "Rating": 4.72
     },
     {
       "Time": "2022-10-05T15:31:00.5156209+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": null
+      "Rating": 4.71
     },
     {
       "Time": "2022-10-16T19:00:27.2681108+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": null
+      "Rating": 4.72
     },
     {
       "Time": "2022-10-17T08:00:51.1259633+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": null
+      "Rating": 4.71
     },
     {
       "Time": "2023-01-21T02:57:06.3428429+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     },
     {
       "Time": "2023-01-24T23:57:00.3293961+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": null
+      "Rating": 4.71
     },
     {
       "Time": "2023-01-25T04:57:04.3401157+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     },
     {
       "Time": "2023-01-25T13:10:50.9661869+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": null
+      "Rating": 4.71
     },
     {
       "Time": "2023-01-25T17:57:09.7379974+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     },
     {
       "Time": "2023-02-03T18:56:56.4256005+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": null
+      "Rating": 4.71
     },
     {
       "Time": "2023-02-03T22:57:14.1397061+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     },
     {
       "Time": "2023-02-04T15:56:54.288165+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": null
+      "Rating": 4.71
     },
     {
       "Time": "2023-02-04T17:56:59.3122103+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     }
   ],
   "Tags": [
@@ -2934,7 +2919,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 3818
+      "Count": 3821
     },
     {
       "Text": "This game is Educational",
@@ -2962,11 +2947,11 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 3069
+      "Count": 3073
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 3426
+      "Count": 3429
     },
     {
       "Text": "This game has a Creative Community",

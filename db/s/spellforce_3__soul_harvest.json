@@ -2,114 +2,94 @@
   "ID": "70fa3dd4efb549f9a09f1fc019d8e751",
   "Name": "SpellForce 3: Soul Harvest",
   "Rating": 4.41,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:30:39.2591769+00:00",
   "FirstSeenRating": "2022-09-29T14:03:05.5723925+00:00",
   "LastChanged": "2023-02-27T10:58:18.6770078+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-29T14:03:05.5723929+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": null
+      "Rating": 4.8
     },
     {
       "Time": "2022-10-07T10:02:58.0679991+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     },
     {
       "Time": "2022-10-11T01:32:40.4823139+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": null
+      "Rating": 4.73
     },
     {
       "Time": "2022-10-13T01:33:42.2270773+00:00",
-      "Rating": 4.54,
-      "NumberOfRatings": null
+      "Rating": 4.54
     },
     {
       "Time": "2022-10-16T02:03:11.3446353+00:00",
-      "Rating": 4.52,
-      "NumberOfRatings": null
+      "Rating": 4.52
     },
     {
       "Time": "2022-10-21T03:02:21.0237578+00:00",
-      "Rating": 4.5,
-      "NumberOfRatings": null
+      "Rating": 4.5
     },
     {
       "Time": "2022-10-25T03:33:00.8895634+00:00",
-      "Rating": 4.52,
-      "NumberOfRatings": null
+      "Rating": 4.52
     },
     {
       "Time": "2022-10-28T04:02:48.4210206+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": null
+      "Rating": 4.46
     },
     {
       "Time": "2022-10-30T04:03:15.5988452+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": null
+      "Rating": 4.48
     },
     {
       "Time": "2022-11-02T04:32:20.0605724+00:00",
-      "Rating": 4.5,
-      "NumberOfRatings": null
+      "Rating": 4.5
     },
     {
       "Time": "2022-11-06T05:02:18.7978502+00:00",
-      "Rating": 4.52,
-      "NumberOfRatings": null
+      "Rating": 4.52
     },
     {
       "Time": "2022-11-11T05:58:20.5207402+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": null
+      "Rating": 4.44
     },
     {
       "Time": "2022-11-20T17:01:14.746156+00:00",
-      "Rating": 4.33,
-      "NumberOfRatings": null
+      "Rating": 4.33
     },
     {
       "Time": "2022-11-25T13:58:18.5169389+00:00",
-      "Rating": 4.35,
-      "NumberOfRatings": null
+      "Rating": 4.35
     },
     {
       "Time": "2022-11-26T13:58:47.1001421+00:00",
-      "Rating": 4.37,
-      "NumberOfRatings": null
+      "Rating": 4.37
     },
     {
       "Time": "2022-11-30T14:58:47.4804151+00:00",
-      "Rating": 4.39,
-      "NumberOfRatings": null
+      "Rating": 4.39
     },
     {
       "Time": "2022-12-15T22:57:58.9603337+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": null
+      "Rating": 4.41
     },
     {
       "Time": "2022-12-22T22:58:52.541029+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     },
     {
       "Time": "2023-01-17T03:58:17.1618121+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": null
+      "Rating": 4.41
     },
     {
       "Time": "2023-01-30T06:58:24.8164611+00:00",
-      "Rating": 4.4,
-      "NumberOfRatings": null
+      "Rating": 4.4
     },
     {
       "Time": "2023-02-27T10:58:18.677008+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": null
+      "Rating": 4.41
     }
   ],
   "Tags": []

@@ -2,124 +2,102 @@
   "ID": "9f101e25b1a9427a9e6971d2b21c5f82",
   "Name": "Rise of Industry",
   "Rating": 4.22,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-08-13T00:31:45.0285821+00:00",
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "LastChanged": "2023-03-27T19:59:01.9167921+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-03T20:57:50.7322234+00:00",
-      "Rating": 3.95,
-      "NumberOfRatings": null
+      "Rating": 3.95
     },
     {
       "Time": "2023-03-04T20:57:57.8345474+00:00",
-      "Rating": 4.03,
-      "NumberOfRatings": null
+      "Rating": 4.03
     },
     {
       "Time": "2023-03-05T02:27:21.1860859+00:00",
-      "Rating": 4.02,
-      "NumberOfRatings": null
+      "Rating": 4.02
     },
     {
       "Time": "2023-03-05T10:57:59.8455702+00:00",
-      "Rating": 4.05,
-      "NumberOfRatings": null
+      "Rating": 4.05
     },
     {
       "Time": "2023-03-06T07:58:47.3131302+00:00",
-      "Rating": 4.1,
-      "NumberOfRatings": null
+      "Rating": 4.1
     },
     {
       "Time": "2023-03-06T15:57:54.8677053+00:00",
-      "Rating": 4.06,
-      "NumberOfRatings": null
+      "Rating": 4.06
     },
     {
       "Time": "2023-03-07T14:58:50.8078293+00:00",
-      "Rating": 4.03,
-      "NumberOfRatings": null
+      "Rating": 4.03
     },
     {
       "Time": "2023-03-07T18:58:07.0786726+00:00",
-      "Rating": 4.05,
-      "NumberOfRatings": null
+      "Rating": 4.05
     },
     {
       "Time": "2023-03-09T06:58:12.6281666+00:00",
-      "Rating": 4.12,
-      "NumberOfRatings": null
+      "Rating": 4.12
     },
     {
       "Time": "2023-03-09T17:59:10.4393237+00:00",
-      "Rating": 4.13,
-      "NumberOfRatings": null
+      "Rating": 4.13
     },
     {
       "Time": "2023-03-10T15:58:30.4440459+00:00",
-      "Rating": 4.15,
-      "NumberOfRatings": null
+      "Rating": 4.15
     },
     {
       "Time": "2023-03-10T22:58:04.7286073+00:00",
-      "Rating": 4.16,
-      "NumberOfRatings": null
+      "Rating": 4.16
     },
     {
       "Time": "2023-03-11T14:58:19.7987608+00:00",
-      "Rating": 4.18,
-      "NumberOfRatings": null
+      "Rating": 4.18
     },
     {
       "Time": "2023-03-12T11:58:34.2125133+00:00",
-      "Rating": 4.17,
-      "NumberOfRatings": null
+      "Rating": 4.17
     },
     {
       "Time": "2023-03-12T18:58:19.3947311+00:00",
-      "Rating": 4.18,
-      "NumberOfRatings": null
+      "Rating": 4.18
     },
     {
       "Time": "2023-03-13T21:58:35.2042749+00:00",
-      "Rating": 4.19,
-      "NumberOfRatings": null
+      "Rating": 4.19
     },
     {
       "Time": "2023-03-17T05:58:33.0582064+00:00",
-      "Rating": 4.2,
-      "NumberOfRatings": null
+      "Rating": 4.2
     },
     {
       "Time": "2023-03-18T05:57:58.8021341+00:00",
-      "Rating": 4.21,
-      "NumberOfRatings": null
+      "Rating": 4.21
     },
     {
       "Time": "2023-03-19T13:57:55.9029324+00:00",
-      "Rating": 4.22,
-      "NumberOfRatings": null
+      "Rating": 4.22
     },
     {
       "Time": "2023-03-20T16:58:01.2326915+00:00",
-      "Rating": 4.23,
-      "NumberOfRatings": null
+      "Rating": 4.23
     },
     {
       "Time": "2023-03-21T16:58:48.3763612+00:00",
-      "Rating": 4.24,
-      "NumberOfRatings": null
+      "Rating": 4.24
     },
     {
       "Time": "2023-03-23T01:59:41.9001416+00:00",
-      "Rating": 4.23,
-      "NumberOfRatings": null
+      "Rating": 4.23
     },
     {
       "Time": "2023-03-27T19:59:01.9167923+00:00",
-      "Rating": 4.22,
-      "NumberOfRatings": null
+      "Rating": 4.22
     }
   ],
   "Tags": []

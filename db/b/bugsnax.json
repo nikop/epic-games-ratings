@@ -3,6 +3,7 @@
   "Name": "Bugsnax",
   "Rating": 4.85,
   "NumberOfRatings": 425,
+  "NumberOfAwards": 304,
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "LastChanged": "2023-03-22T10:59:04.9836644+00:00",
   "RatingHistory": [
@@ -428,73 +429,59 @@
     },
     {
       "Time": "2022-09-30T17:02:18.2472084+00:00",
-      "Rating": 4.84,
-      "NumberOfRatings": null
+      "Rating": 4.84
     },
     {
       "Time": "2022-10-05T09:33:00.3279627+00:00",
-      "Rating": 4.83,
-      "NumberOfRatings": null
+      "Rating": 4.83
     },
     {
       "Time": "2022-10-06T15:31:58.8159558+00:00",
-      "Rating": 4.84,
-      "NumberOfRatings": null
+      "Rating": 4.84
     },
     {
       "Time": "2022-10-16T13:02:06.1740781+00:00",
-      "Rating": 4.83,
-      "NumberOfRatings": null
+      "Rating": 4.83
     },
     {
       "Time": "2022-10-17T13:02:11.1508013+00:00",
-      "Rating": 4.84,
-      "NumberOfRatings": null
+      "Rating": 4.84
     },
     {
       "Time": "2022-11-04T09:34:08.2528081+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": null
+      "Rating": 4.85
     },
     {
       "Time": "2022-11-05T19:32:27.5778198+00:00",
-      "Rating": 4.84,
-      "NumberOfRatings": null
+      "Rating": 4.84
     },
     {
       "Time": "2022-11-06T19:58:09.8169959+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": null
+      "Rating": 4.85
     },
     {
       "Time": "2022-11-11T15:58:27.5723294+00:00",
-      "Rating": 4.84,
-      "NumberOfRatings": null
+      "Rating": 4.84
     },
     {
       "Time": "2022-11-11T20:58:22.2439036+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": null
+      "Rating": 4.85
     },
     {
       "Time": "2022-11-14T14:57:48.1906671+00:00",
-      "Rating": 4.84,
-      "NumberOfRatings": null
+      "Rating": 4.84
     },
     {
       "Time": "2022-11-24T19:58:18.77986+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": null
+      "Rating": 4.85
     },
     {
       "Time": "2023-03-09T03:15:59.5010231+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": null
+      "Rating": 4.86
     },
     {
       "Time": "2023-03-22T10:59:04.9836645+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": null
+      "Rating": 4.85
     }
   ],
   "Tags": [

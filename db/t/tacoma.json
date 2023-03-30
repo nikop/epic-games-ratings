@@ -3,6 +3,7 @@
   "Name": "Tacoma",
   "Rating": 4.39,
   "NumberOfRatings": 60,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:22:50.2049994+00:00",
   "LastChanged": "2023-02-24T07:57:33.335246+00:00",
   "RatingHistory": [
@@ -128,138 +129,111 @@
     },
     {
       "Time": "2022-09-25T23:01:07.2416649+00:00",
-      "Rating": 4.34,
-      "NumberOfRatings": null
+      "Rating": 4.34
     },
     {
       "Time": "2022-09-28T23:32:11.1194073+00:00",
-      "Rating": 4.35,
-      "NumberOfRatings": null
+      "Rating": 4.35
     },
     {
       "Time": "2022-10-02T23:31:13.6331646+00:00",
-      "Rating": 4.32,
-      "NumberOfRatings": null
+      "Rating": 4.32
     },
     {
       "Time": "2022-10-07T23:32:02.353474+00:00",
-      "Rating": 4.33,
-      "NumberOfRatings": null
+      "Rating": 4.33
     },
     {
       "Time": "2022-10-08T23:32:11.7490996+00:00",
-      "Rating": 4.35,
-      "NumberOfRatings": null
+      "Rating": 4.35
     },
     {
       "Time": "2022-10-09T23:32:02.232212+00:00",
-      "Rating": 4.33,
-      "NumberOfRatings": null
+      "Rating": 4.33
     },
     {
       "Time": "2022-10-11T00:02:08.8253113+00:00",
-      "Rating": 4.32,
-      "NumberOfRatings": null
+      "Rating": 4.32
     },
     {
       "Time": "2022-10-12T00:01:25.5028121+00:00",
-      "Rating": 4.33,
-      "NumberOfRatings": null
+      "Rating": 4.33
     },
     {
       "Time": "2022-10-13T00:01:21.9320258+00:00",
-      "Rating": 4.3,
-      "NumberOfRatings": null
+      "Rating": 4.3
     },
     {
       "Time": "2022-10-20T00:02:13.4016261+00:00",
-      "Rating": 4.31,
-      "NumberOfRatings": null
+      "Rating": 4.31
     },
     {
       "Time": "2022-11-01T01:02:01.7137633+00:00",
-      "Rating": 4.3,
-      "NumberOfRatings": null
+      "Rating": 4.3
     },
     {
       "Time": "2022-11-06T01:32:08.0911577+00:00",
-      "Rating": 4.31,
-      "NumberOfRatings": null
+      "Rating": 4.31
     },
     {
       "Time": "2022-11-07T02:49:30.7411592+00:00",
-      "Rating": 4.32,
-      "NumberOfRatings": null
+      "Rating": 4.32
     },
     {
       "Time": "2022-11-08T02:49:55.9145522+00:00",
-      "Rating": 4.33,
-      "NumberOfRatings": null
+      "Rating": 4.33
     },
     {
       "Time": "2022-11-13T02:48:17.699137+00:00",
-      "Rating": 4.34,
-      "NumberOfRatings": null
+      "Rating": 4.34
     },
     {
       "Time": "2022-11-15T02:41:05.3588257+00:00",
-      "Rating": 4.35,
-      "NumberOfRatings": null
+      "Rating": 4.35
     },
     {
       "Time": "2022-11-16T02:42:03.1220884+00:00",
-      "Rating": 4.36,
-      "NumberOfRatings": null
+      "Rating": 4.36
     },
     {
       "Time": "2022-11-19T02:30:48.2143891+00:00",
-      "Rating": 4.37,
-      "NumberOfRatings": null
+      "Rating": 4.37
     },
     {
       "Time": "2022-11-20T02:44:26.6247581+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": null
+      "Rating": 4.38
     },
     {
       "Time": "2022-11-26T03:13:47.3975317+00:00",
-      "Rating": 4.39,
-      "NumberOfRatings": null
+      "Rating": 4.39
     },
     {
       "Time": "2022-11-28T03:20:16.5051982+00:00",
-      "Rating": 4.4,
-      "NumberOfRatings": null
+      "Rating": 4.4
     },
     {
       "Time": "2022-12-03T03:58:46.5609489+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": null
+      "Rating": 4.41
     },
     {
       "Time": "2022-12-04T03:57:29.3726861+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": null
+      "Rating": 4.38
     },
     {
       "Time": "2022-12-08T03:57:12.3298197+00:00",
-      "Rating": 4.39,
-      "NumberOfRatings": null
+      "Rating": 4.39
     },
     {
       "Time": "2022-12-22T04:57:42.8824306+00:00",
-      "Rating": 4.4,
-      "NumberOfRatings": null
+      "Rating": 4.4
     },
     {
       "Time": "2023-01-01T04:57:36.040734+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": null
+      "Rating": 4.41
     },
     {
       "Time": "2023-02-24T07:57:33.3352462+00:00",
-      "Rating": 4.39,
-      "NumberOfRatings": null
+      "Rating": 4.39
     }
   ],
   "Tags": []

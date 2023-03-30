@@ -3,6 +3,7 @@
   "Name": "Sunless Sea",
   "Rating": 4.58,
   "NumberOfRatings": 401,
+  "NumberOfAwards": 269,
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "LastChanged": "2022-11-10T05:57:04.1391536+00:00",
   "RatingHistory": [
@@ -468,103 +469,83 @@
     },
     {
       "Time": "2022-09-24T13:06:18.9772687+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": null
+      "Rating": 4.59
     },
     {
       "Time": "2022-09-25T09:01:01.4026912+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": null
+      "Rating": 4.6
     },
     {
       "Time": "2022-09-26T12:30:47.2371952+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": null
+      "Rating": 4.59
     },
     {
       "Time": "2022-09-29T09:31:08.8497389+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": null
+      "Rating": 4.6
     },
     {
       "Time": "2022-10-01T22:31:57.054378+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": null
+      "Rating": 4.59
     },
     {
       "Time": "2022-10-03T08:01:08.5996854+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": null
+      "Rating": 4.6
     },
     {
       "Time": "2022-10-03T19:31:37.6176328+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": null
+      "Rating": 4.59
     },
     {
       "Time": "2022-10-04T21:30:54.2161184+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": null
+      "Rating": 4.6
     },
     {
       "Time": "2022-10-06T01:00:54.1973289+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": null
+      "Rating": 4.59
     },
     {
       "Time": "2022-10-13T04:00:47.4014567+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": null
+      "Rating": 4.6
     },
     {
       "Time": "2022-10-14T04:00:48.2158883+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": null
+      "Rating": 4.59
     },
     {
       "Time": "2022-10-24T03:30:55.6140732+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": null
+      "Rating": 4.6
     },
     {
       "Time": "2022-10-25T03:31:19.0547315+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": null
+      "Rating": 4.59
     },
     {
       "Time": "2022-10-29T14:31:33.289645+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": null
+      "Rating": 4.58
     },
     {
       "Time": "2022-10-29T22:31:01.2474331+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": null
+      "Rating": 4.59
     },
     {
       "Time": "2022-10-31T15:31:32.733931+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": null
+      "Rating": 4.58
     },
     {
       "Time": "2022-11-03T08:00:56.2646701+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": null
+      "Rating": 4.59
     },
     {
       "Time": "2022-11-03T12:01:58.6664573+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": null
+      "Rating": 4.58
     },
     {
       "Time": "2022-11-03T21:31:37.761008+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": null
+      "Rating": 4.59
     },
     {
       "Time": "2022-11-10T05:57:04.1391537+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": null
+      "Rating": 4.58
     }
   ],
   "Tags": [

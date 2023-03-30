@@ -3,6 +3,7 @@
   "Name": "Tyranny - Gold Edition",
   "Rating": 4.59,
   "NumberOfRatings": 1278,
+  "NumberOfAwards": 1346,
   "FirstSeen": "2022-07-22T20:28:41.6168651+00:00",
   "LastChanged": "2022-11-09T19:57:51.7228664+00:00",
   "RatingHistory": [
@@ -1043,68 +1044,55 @@
     },
     {
       "Time": "2022-10-18T07:32:32.8078234+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": null
+      "Rating": 4.59
     },
     {
       "Time": "2022-10-20T03:32:18.2694+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": null
+      "Rating": 4.58
     },
     {
       "Time": "2022-10-21T20:32:00.6684976+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": null
+      "Rating": 4.59
     },
     {
       "Time": "2022-10-22T03:31:56.7189213+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": null
+      "Rating": 4.58
     },
     {
       "Time": "2022-10-23T12:02:21.5609085+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": null
+      "Rating": 4.59
     },
     {
       "Time": "2022-10-23T20:02:08.8282343+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": null
+      "Rating": 4.58
     },
     {
       "Time": "2022-10-25T06:02:17.0303474+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": null
+      "Rating": 4.59
     },
     {
       "Time": "2022-10-25T17:04:45.7236047+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": null
+      "Rating": 4.58
     },
     {
       "Time": "2022-10-26T09:02:11.8496681+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": null
+      "Rating": 4.59
     },
     {
       "Time": "2022-10-26T13:03:01.823692+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": null
+      "Rating": 4.58
     },
     {
       "Time": "2022-10-27T18:32:01.5305298+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": null
+      "Rating": 4.59
     },
     {
       "Time": "2022-10-29T10:02:00.4162369+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": null
+      "Rating": 4.58
     },
     {
       "Time": "2022-11-09T19:57:51.7228665+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": null
+      "Rating": 4.59
     }
   ],
   "Tags": [
@@ -1114,7 +1102,7 @@
     },
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 346
+      "Count": 347
     },
     {
       "Text": "This game has Amazing Storytelling",

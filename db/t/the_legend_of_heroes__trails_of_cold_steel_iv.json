@@ -3,6 +3,7 @@
   "Name": "The Legend of Heroes: Trails of Cold Steel IV",
   "Rating": 4.88,
   "NumberOfRatings": 26,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:20:41.6572311+00:00",
   "FirstSeenRating": "2022-08-06T05:30:42.8443438+00:00",
   "LastChanged": "2022-12-29T05:57:20.0578511+00:00",
@@ -39,23 +40,19 @@
     },
     {
       "Time": "2022-09-24T17:00:52.2654936+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": null
+      "Rating": 4.85
     },
     {
       "Time": "2022-10-23T06:32:04.1492392+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": null
+      "Rating": 4.86
     },
     {
       "Time": "2022-11-14T08:59:01.870339+00:00",
-      "Rating": 4.87,
-      "NumberOfRatings": null
+      "Rating": 4.87
     },
     {
       "Time": "2022-12-29T05:57:20.0578513+00:00",
-      "Rating": 4.88,
-      "NumberOfRatings": null
+      "Rating": 4.88
     }
   ],
   "Tags": []

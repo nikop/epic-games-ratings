@@ -2,54 +2,46 @@
   "ID": "2bdb46067adb434898ea22a33fa4439a",
   "Name": "Wolcen: Lords of Mayhem",
   "Rating": 4.24,
+  "NumberOfAwards": 0,
   "FirstSeen": "2023-02-24T02:11:47.1647682+00:00",
   "FirstSeenRating": "2023-03-12T02:14:41.9509568+00:00",
   "LastChanged": "2023-03-29T08:57:57.6774779+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-12T02:14:41.950957+00:00",
-      "Rating": 4.05,
-      "NumberOfRatings": null
+      "Rating": 4.05
     },
     {
       "Time": "2023-03-13T02:05:58.9833822+00:00",
-      "Rating": 4.1,
-      "NumberOfRatings": null
+      "Rating": 4.1
     },
     {
       "Time": "2023-03-14T01:54:52.0026192+00:00",
-      "Rating": 4.17,
-      "NumberOfRatings": null
+      "Rating": 4.17
     },
     {
       "Time": "2023-03-14T21:58:07.6411313+00:00",
-      "Rating": 4.2,
-      "NumberOfRatings": null
+      "Rating": 4.2
     },
     {
       "Time": "2023-03-15T14:57:56.0275932+00:00",
-      "Rating": 4.29,
-      "NumberOfRatings": null
+      "Rating": 4.29
     },
     {
       "Time": "2023-03-20T11:57:55.4434505+00:00",
-      "Rating": 4.21,
-      "NumberOfRatings": null
+      "Rating": 4.21
     },
     {
       "Time": "2023-03-21T11:57:44.4462254+00:00",
-      "Rating": 4.23,
-      "NumberOfRatings": null
+      "Rating": 4.23
     },
     {
       "Time": "2023-03-24T15:57:40.288215+00:00",
-      "Rating": 4.26,
-      "NumberOfRatings": null
+      "Rating": 4.26
     },
     {
       "Time": "2023-03-29T08:57:57.6774781+00:00",
-      "Rating": 4.24,
-      "NumberOfRatings": null
+      "Rating": 4.24
     }
   ],
   "Tags": []

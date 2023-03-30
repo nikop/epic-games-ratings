@@ -3,6 +3,7 @@
   "Name": "Scott Pilgrim vs. The World: The Game \u2013 Complete Edition",
   "Rating": 4.76,
   "NumberOfRatings": 99,
+  "NumberOfAwards": 33,
   "FirstSeen": "2022-07-22T20:29:24.6298445+00:00",
   "LastChanged": "2023-01-10T17:01:11.4000558+00:00",
   "RatingHistory": [
@@ -183,83 +184,67 @@
     },
     {
       "Time": "2022-10-02T08:31:57.6647827+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": null
+      "Rating": 4.77
     },
     {
       "Time": "2022-10-04T08:31:58.2863115+00:00",
-      "Rating": 4.78,
-      "NumberOfRatings": null
+      "Rating": 4.78
     },
     {
       "Time": "2022-10-08T23:02:05.8565011+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": null
+      "Rating": 4.79
     },
     {
       "Time": "2022-10-15T21:03:14.747995+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": null
+      "Rating": 4.8
     },
     {
       "Time": "2022-10-19T21:32:57.0211007+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": null
+      "Rating": 4.79
     },
     {
       "Time": "2022-10-22T21:32:24.0365083+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     },
     {
       "Time": "2022-10-26T00:04:16.0576297+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": null
+      "Rating": 4.72
     },
     {
       "Time": "2022-10-29T19:32:15.5047689+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": null
+      "Rating": 4.73
     },
     {
       "Time": "2022-11-06T19:58:10.8357484+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": null
+      "Rating": 4.74
     },
     {
       "Time": "2022-11-23T03:58:43.85319+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": null
+      "Rating": 4.72
     },
     {
       "Time": "2022-11-27T03:58:35.8214502+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": null
+      "Rating": 4.73
     },
     {
       "Time": "2022-12-04T18:58:11.7766599+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": null
+      "Rating": 4.74
     },
     {
       "Time": "2022-12-14T18:58:40.4786748+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     },
     {
       "Time": "2022-12-20T19:57:50.1932607+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": null
+      "Rating": 4.74
     },
     {
       "Time": "2022-12-24T19:57:46.7047123+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     },
     {
       "Time": "2023-01-10T17:01:11.4000559+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     }
   ],
   "Tags": [

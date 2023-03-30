@@ -3,6 +3,7 @@
   "Name": "Aragami 2",
   "Rating": 4.57,
   "NumberOfRatings": 88,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-08-13T01:31:43.4157574+00:00",
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "LastChanged": "2023-02-07T20:57:58.0757205+00:00",
@@ -154,48 +155,39 @@
     },
     {
       "Time": "2022-09-24T13:34:24.445211+00:00",
-      "Rating": 4.51,
-      "NumberOfRatings": null
+      "Rating": 4.51
     },
     {
       "Time": "2022-09-27T03:01:32.0046944+00:00",
-      "Rating": 4.52,
-      "NumberOfRatings": null
+      "Rating": 4.52
     },
     {
       "Time": "2022-10-28T17:02:35.8430242+00:00",
-      "Rating": 4.53,
-      "NumberOfRatings": null
+      "Rating": 4.53
     },
     {
       "Time": "2022-11-09T13:35:12.4810284+00:00",
-      "Rating": 4.54,
-      "NumberOfRatings": null
+      "Rating": 4.54
     },
     {
       "Time": "2022-11-22T04:01:24.7682065+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": null
+      "Rating": 4.55
     },
     {
       "Time": "2022-11-25T21:57:53.0411091+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": null
+      "Rating": 4.56
     },
     {
       "Time": "2022-12-06T16:58:17.0731755+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": null
+      "Rating": 4.57
     },
     {
       "Time": "2023-01-21T19:58:07.5019274+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": null
+      "Rating": 4.56
     },
     {
       "Time": "2023-02-07T20:57:58.0757206+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": null
+      "Rating": 4.57
     }
   ],
   "Tags": []

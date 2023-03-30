@@ -3,6 +3,7 @@
   "Name": "WHAT THE GOLF?",
   "Rating": 4.77,
   "NumberOfRatings": 38,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:25:31.118083+00:00",
   "LastChanged": "2022-12-20T19:57:30.6893249+00:00",
   "RatingHistory": [
@@ -93,58 +94,47 @@
     },
     {
       "Time": "2022-09-29T09:31:49.1429196+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2022-10-01T09:33:42.1948997+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     },
     {
       "Time": "2022-10-02T09:32:28.3578729+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": null
+      "Rating": 4.71
     },
     {
       "Time": "2022-10-21T01:01:56.6167584+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": null
+      "Rating": 4.72
     },
     {
       "Time": "2022-10-23T14:01:54.7321933+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": null
+      "Rating": 4.73
     },
     {
       "Time": "2022-10-31T22:02:14.8359317+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": null
+      "Rating": 4.74
     },
     {
       "Time": "2022-11-13T23:59:37.547705+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     },
     {
       "Time": "2022-11-25T02:22:16.8251863+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     },
     {
       "Time": "2022-12-03T18:58:17.4779677+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": null
+      "Rating": 4.77
     },
     {
       "Time": "2022-12-06T18:58:03.9460858+00:00",
-      "Rating": 4.78,
-      "NumberOfRatings": null
+      "Rating": 4.78
     },
     {
       "Time": "2022-12-20T19:57:30.6893251+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": null
+      "Rating": 4.77
     }
   ],
   "Tags": []

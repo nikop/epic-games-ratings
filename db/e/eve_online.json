@@ -3,6 +3,7 @@
   "Name": "EVE Online",
   "Rating": 4.26,
   "NumberOfRatings": 1408,
+  "NumberOfAwards": 2132,
   "FirstSeen": "2022-07-22T20:17:38.4001765+00:00",
   "LastChanged": "2023-03-12T04:56:59.8423351+00:00",
   "RatingHistory": [
@@ -1288,218 +1289,175 @@
     },
     {
       "Time": "2022-09-25T02:30:35.138234+00:00",
-      "Rating": 4.3,
-      "NumberOfRatings": null
+      "Rating": 4.3
     },
     {
       "Time": "2022-09-25T11:32:57.130458+00:00",
-      "Rating": 4.29,
-      "NumberOfRatings": null
+      "Rating": 4.29
     },
     {
       "Time": "2022-09-25T19:30:54.7598899+00:00",
-      "Rating": 4.3,
-      "NumberOfRatings": null
+      "Rating": 4.3
     },
     {
       "Time": "2022-09-26T23:00:32.5712347+00:00",
-      "Rating": 4.29,
-      "NumberOfRatings": null
+      "Rating": 4.29
     },
     {
       "Time": "2022-09-27T02:31:06.5017399+00:00",
-      "Rating": 4.3,
-      "NumberOfRatings": null
+      "Rating": 4.3
     },
     {
       "Time": "2022-09-27T06:00:44.8154362+00:00",
-      "Rating": 4.29,
-      "NumberOfRatings": null
+      "Rating": 4.29
     },
     {
       "Time": "2022-10-03T02:00:27.046165+00:00",
-      "Rating": 4.28,
-      "NumberOfRatings": null
+      "Rating": 4.28
     },
     {
       "Time": "2022-10-03T21:00:48.0273852+00:00",
-      "Rating": 4.29,
-      "NumberOfRatings": null
+      "Rating": 4.29
     },
     {
       "Time": "2022-10-05T18:00:26.9891878+00:00",
-      "Rating": 4.28,
-      "NumberOfRatings": null
+      "Rating": 4.28
     },
     {
       "Time": "2022-10-06T01:00:28.773789+00:00",
-      "Rating": 4.29,
-      "NumberOfRatings": null
+      "Rating": 4.29
     },
     {
       "Time": "2022-10-06T17:31:01.3438588+00:00",
-      "Rating": 4.28,
-      "NumberOfRatings": null
+      "Rating": 4.28
     },
     {
       "Time": "2022-10-07T06:31:26.0850174+00:00",
-      "Rating": 4.29,
-      "NumberOfRatings": null
+      "Rating": 4.29
     },
     {
       "Time": "2022-10-07T12:00:29.5860188+00:00",
-      "Rating": 4.28,
-      "NumberOfRatings": null
+      "Rating": 4.28
     },
     {
       "Time": "2022-10-11T14:32:53.0698085+00:00",
-      "Rating": 4.29,
-      "NumberOfRatings": null
+      "Rating": 4.29
     },
     {
       "Time": "2022-10-16T00:00:30.2970823+00:00",
-      "Rating": 4.28,
-      "NumberOfRatings": null
+      "Rating": 4.28
     },
     {
       "Time": "2022-10-17T00:00:24.4031429+00:00",
-      "Rating": 4.27,
-      "NumberOfRatings": null
+      "Rating": 4.27
     },
     {
       "Time": "2022-10-19T03:31:04.9686132+00:00",
-      "Rating": 4.28,
-      "NumberOfRatings": null
+      "Rating": 4.28
     },
     {
       "Time": "2022-10-19T07:01:02.1066344+00:00",
-      "Rating": 4.27,
-      "NumberOfRatings": null
+      "Rating": 4.27
     },
     {
       "Time": "2022-10-20T02:00:26.2971468+00:00",
-      "Rating": 4.28,
-      "NumberOfRatings": null
+      "Rating": 4.28
     },
     {
       "Time": "2022-10-22T19:00:24.6573266+00:00",
-      "Rating": 4.27,
-      "NumberOfRatings": null
+      "Rating": 4.27
     },
     {
       "Time": "2022-10-26T10:30:32.6303553+00:00",
-      "Rating": 4.28,
-      "NumberOfRatings": null
+      "Rating": 4.28
     },
     {
       "Time": "2022-10-26T14:31:01.676692+00:00",
-      "Rating": 4.27,
-      "NumberOfRatings": null
+      "Rating": 4.27
     },
     {
       "Time": "2022-11-08T02:49:27.1869167+00:00",
-      "Rating": 4.28,
-      "NumberOfRatings": null
+      "Rating": 4.28
     },
     {
       "Time": "2022-11-12T07:56:57.140894+00:00",
-      "Rating": 4.27,
-      "NumberOfRatings": null
+      "Rating": 4.27
     },
     {
       "Time": "2022-11-12T08:57:03.1947161+00:00",
-      "Rating": 4.28,
-      "NumberOfRatings": null
+      "Rating": 4.28
     },
     {
       "Time": "2022-11-12T13:17:32.3393485+00:00",
-      "Rating": 4.27,
-      "NumberOfRatings": null
+      "Rating": 4.27
     },
     {
       "Time": "2022-11-12T14:56:51.1047206+00:00",
-      "Rating": 4.28,
-      "NumberOfRatings": null
+      "Rating": 4.28
     },
     {
       "Time": "2022-11-12T15:57:09.0107842+00:00",
-      "Rating": 4.27,
-      "NumberOfRatings": null
+      "Rating": 4.27
     },
     {
       "Time": "2022-11-15T02:40:44.3700237+00:00",
-      "Rating": 4.26,
-      "NumberOfRatings": null
+      "Rating": 4.26
     },
     {
       "Time": "2022-11-18T19:57:02.8769222+00:00",
-      "Rating": 4.27,
-      "NumberOfRatings": null
+      "Rating": 4.27
     },
     {
       "Time": "2022-11-19T03:31:52.2256672+00:00",
-      "Rating": 4.26,
-      "NumberOfRatings": null
+      "Rating": 4.26
     },
     {
       "Time": "2022-11-19T06:56:57.4037094+00:00",
-      "Rating": 4.27,
-      "NumberOfRatings": null
+      "Rating": 4.27
     },
     {
       "Time": "2022-11-20T18:56:57.198703+00:00",
-      "Rating": 4.26,
-      "NumberOfRatings": null
+      "Rating": 4.26
     },
     {
       "Time": "2022-11-20T20:56:50.6296603+00:00",
-      "Rating": 4.27,
-      "NumberOfRatings": null
+      "Rating": 4.27
     },
     {
       "Time": "2022-11-21T10:57:03.9578955+00:00",
-      "Rating": 4.26,
-      "NumberOfRatings": null
+      "Rating": 4.26
     },
     {
       "Time": "2022-11-22T19:56:57.2802006+00:00",
-      "Rating": 4.27,
-      "NumberOfRatings": null
+      "Rating": 4.27
     },
     {
       "Time": "2022-11-26T17:56:50.6746493+00:00",
-      "Rating": 4.26,
-      "NumberOfRatings": null
+      "Rating": 4.26
     },
     {
       "Time": "2022-11-29T15:56:58.4455688+00:00",
-      "Rating": 4.27,
-      "NumberOfRatings": null
+      "Rating": 4.27
     },
     {
       "Time": "2022-11-30T15:57:10.0472324+00:00",
-      "Rating": 4.26,
-      "NumberOfRatings": null
+      "Rating": 4.26
     },
     {
       "Time": "2022-11-30T17:57:10.4573455+00:00",
-      "Rating": 4.27,
-      "NumberOfRatings": null
+      "Rating": 4.27
     },
     {
       "Time": "2022-12-04T18:57:08.6865193+00:00",
-      "Rating": 4.26,
-      "NumberOfRatings": null
+      "Rating": 4.26
     },
     {
       "Time": "2023-01-31T09:57:19.179109+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": null
+      "Rating": 4.25
     },
     {
       "Time": "2023-03-12T04:56:59.8423352+00:00",
-      "Rating": 4.26,
-      "NumberOfRatings": null
+      "Rating": 4.26
     }
   ],
   "Tags": [

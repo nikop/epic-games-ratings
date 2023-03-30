@@ -3,6 +3,7 @@
   "Name": "GRIME",
   "Rating": 4.62,
   "NumberOfRatings": 46,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "LastChanged": "2023-01-27T15:57:36.5696477+00:00",
   "RatingHistory": [
@@ -98,78 +99,63 @@
     },
     {
       "Time": "2022-09-25T17:01:19.4363262+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": null
+      "Rating": 4.6
     },
     {
       "Time": "2022-10-01T18:02:32.117251+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": null
+      "Rating": 4.59
     },
     {
       "Time": "2022-10-06T18:31:25.3960983+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": null
+      "Rating": 4.6
     },
     {
       "Time": "2022-10-08T19:01:26.3414292+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": null
+      "Rating": 4.61
     },
     {
       "Time": "2022-10-16T19:31:22.6154198+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": null
+      "Rating": 4.62
     },
     {
       "Time": "2022-10-26T21:01:55.1582173+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": null
+      "Rating": 4.63
     },
     {
       "Time": "2022-10-27T21:01:23.7020624+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": null
+      "Rating": 4.62
     },
     {
       "Time": "2022-10-28T21:01:59.2543057+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": null
+      "Rating": 4.63
     },
     {
       "Time": "2022-11-03T04:02:29.3454258+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": null
+      "Rating": 4.61
     },
     {
       "Time": "2022-11-05T04:31:18.2336918+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": null
+      "Rating": 4.57
     },
     {
       "Time": "2022-11-08T05:16:30.0013537+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": null
+      "Rating": 4.58
     },
     {
       "Time": "2022-11-26T07:57:31.8412608+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": null
+      "Rating": 4.59
     },
     {
       "Time": "2022-12-03T08:58:16.2147038+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": null
+      "Rating": 4.6
     },
     {
       "Time": "2023-01-19T14:57:42.9625929+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": null
+      "Rating": 4.61
     },
     {
       "Time": "2023-01-27T15:57:36.5696478+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": null
+      "Rating": 4.62
     }
   ],
   "Tags": []

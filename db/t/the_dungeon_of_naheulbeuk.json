@@ -3,6 +3,7 @@
   "Name": "The Dungeon of Naheulbeuk",
   "Rating": 4.69,
   "NumberOfRatings": 118,
+  "NumberOfAwards": 55,
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "LastChanged": "2023-03-24T21:56:57.6795995+00:00",
   "RatingHistory": [
@@ -203,138 +204,111 @@
     },
     {
       "Time": "2022-09-28T21:30:33.4068961+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     },
     {
       "Time": "2022-10-01T14:30:35.8408753+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2022-10-05T05:00:34.3697725+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": null
+      "Rating": 4.67
     },
     {
       "Time": "2022-10-05T20:30:29.6952681+00:00",
-      "Rating": 4.68,
-      "NumberOfRatings": null
+      "Rating": 4.68
     },
     {
       "Time": "2022-10-07T23:01:08.1539199+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2022-10-09T23:31:25.7036616+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     },
     {
       "Time": "2022-10-13T18:30:31.4610188+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": null
+      "Rating": 4.71
     },
     {
       "Time": "2022-10-16T17:00:35.2966087+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": null
+      "Rating": 4.72
     },
     {
       "Time": "2022-10-18T21:01:03.6428355+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": null
+      "Rating": 4.71
     },
     {
       "Time": "2022-10-23T16:30:33.9313985+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": null
+      "Rating": 4.72
     },
     {
       "Time": "2022-10-24T16:30:37.3671272+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": null
+      "Rating": 4.71
     },
     {
       "Time": "2022-10-26T22:31:05.8211074+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": null
+      "Rating": 4.72
     },
     {
       "Time": "2022-10-27T17:31:33.5864925+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": null
+      "Rating": 4.71
     },
     {
       "Time": "2022-11-01T18:01:30.1730667+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     },
     {
       "Time": "2022-11-04T19:30:52.9927543+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2022-11-10T20:57:07.191142+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     },
     {
       "Time": "2022-11-21T20:56:58.2354884+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": null
+      "Rating": 4.71
     },
     {
       "Time": "2022-11-25T16:58:36.569098+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     },
     {
       "Time": "2022-12-06T16:57:26.4056887+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": null
+      "Rating": 4.71
     },
     {
       "Time": "2023-01-30T16:57:08.7151284+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": null
+      "Rating": 4.72
     },
     {
       "Time": "2023-02-14T11:57:10.2266194+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": null
+      "Rating": 4.71
     },
     {
       "Time": "2023-02-17T03:13:04.5184297+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     },
     {
       "Time": "2023-02-22T05:57:00.6406202+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": null
+      "Rating": 4.71
     },
     {
       "Time": "2023-03-04T14:56:59.8357092+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     },
     {
       "Time": "2023-03-10T15:57:07.4108262+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2023-03-16T20:57:28.8430929+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     },
     {
       "Time": "2023-03-24T21:56:57.6795996+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     }
   ],
   "Tags": [

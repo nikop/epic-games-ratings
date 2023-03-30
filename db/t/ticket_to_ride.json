@@ -3,6 +3,7 @@
   "Name": "Ticket to Ride",
   "Rating": 4.61,
   "NumberOfRatings": 167,
+  "NumberOfAwards": 320,
   "FirstSeen": "2022-07-22T20:20:53.9949813+00:00",
   "LastChanged": "2022-12-23T21:57:24.434864+00:00",
   "RatingHistory": [
@@ -308,98 +309,79 @@
     },
     {
       "Time": "2022-09-24T14:31:18.7220667+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": null
+      "Rating": 4.58
     },
     {
       "Time": "2022-09-28T20:30:49.6981871+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": null
+      "Rating": 4.59
     },
     {
       "Time": "2022-09-29T20:30:49.458158+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": null
+      "Rating": 4.57
     },
     {
       "Time": "2022-09-30T16:31:23.5258776+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": null
+      "Rating": 4.58
     },
     {
       "Time": "2022-10-01T16:01:27.8203575+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": null
+      "Rating": 4.57
     },
     {
       "Time": "2022-10-03T22:31:16.6208094+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": null
+      "Rating": 4.58
     },
     {
       "Time": "2022-10-05T15:31:32.6025181+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": null
+      "Rating": 4.57
     },
     {
       "Time": "2022-10-14T15:30:58.8099783+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": null
+      "Rating": 4.58
     },
     {
       "Time": "2022-10-18T08:01:15.2826496+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": null
+      "Rating": 4.59
     },
     {
       "Time": "2022-10-22T07:01:17.4378632+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": null
+      "Rating": 4.58
     },
     {
       "Time": "2022-10-23T16:30:58.4765426+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": null
+      "Rating": 4.59
     },
     {
       "Time": "2022-10-23T21:30:53.6576959+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": null
+      "Rating": 4.58
     },
     {
       "Time": "2022-10-31T23:01:48.2373339+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": null
+      "Rating": 4.59
     },
     {
       "Time": "2022-11-06T13:17:12.1606145+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": null
+      "Rating": 4.58
     },
     {
       "Time": "2022-11-10T05:57:05.7298085+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": null
+      "Rating": 4.59
     },
     {
       "Time": "2022-11-17T17:57:32.2208511+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": null
+      "Rating": 4.58
     },
     {
       "Time": "2022-11-19T11:57:10.8163379+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": null
+      "Rating": 4.59
     },
     {
       "Time": "2022-12-03T06:58:06.2232871+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": null
+      "Rating": 4.6
     },
     {
       "Time": "2022-12-23T21:57:24.4348643+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": null
+      "Rating": 4.61
     }
   ],
   "Tags": [

@@ -3,6 +3,7 @@
   "Name": "Lumberjack\u0027s Dynasty",
   "Rating": 4.07,
   "NumberOfRatings": 61,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:25:56.3417334+00:00",
   "LastChanged": "2023-02-23T22:57:49.3511511+00:00",
   "RatingHistory": [
@@ -133,108 +134,87 @@
     },
     {
       "Time": "2022-10-03T22:31:58.0084987+00:00",
-      "Rating": 4.11,
-      "NumberOfRatings": null
+      "Rating": 4.11
     },
     {
       "Time": "2022-10-07T23:02:11.1339335+00:00",
-      "Rating": 4.13,
-      "NumberOfRatings": null
+      "Rating": 4.13
     },
     {
       "Time": "2022-10-10T23:01:30.3108665+00:00",
-      "Rating": 4.11,
-      "NumberOfRatings": null
+      "Rating": 4.11
     },
     {
       "Time": "2022-10-12T11:01:40.8744152+00:00",
-      "Rating": 4.09,
-      "NumberOfRatings": null
+      "Rating": 4.09
     },
     {
       "Time": "2022-10-15T05:01:49.799638+00:00",
-      "Rating": 4.11,
-      "NumberOfRatings": null
+      "Rating": 4.11
     },
     {
       "Time": "2022-10-20T05:32:45.4906981+00:00",
-      "Rating": 4.1,
-      "NumberOfRatings": null
+      "Rating": 4.1
     },
     {
       "Time": "2022-10-22T05:31:37.0161776+00:00",
-      "Rating": 4.12,
-      "NumberOfRatings": null
+      "Rating": 4.12
     },
     {
       "Time": "2022-10-24T17:31:56.2235914+00:00",
-      "Rating": 4.13,
-      "NumberOfRatings": null
+      "Rating": 4.13
     },
     {
       "Time": "2022-11-02T09:02:24.5439482+00:00",
-      "Rating": 4.14,
-      "NumberOfRatings": null
+      "Rating": 4.14
     },
     {
       "Time": "2022-11-05T09:31:59.4565682+00:00",
-      "Rating": 4.13,
-      "NumberOfRatings": null
+      "Rating": 4.13
     },
     {
       "Time": "2022-11-12T23:57:33.012187+00:00",
-      "Rating": 4.11,
-      "NumberOfRatings": null
+      "Rating": 4.11
     },
     {
       "Time": "2022-11-21T02:43:05.3645873+00:00",
-      "Rating": 4.12,
-      "NumberOfRatings": null
+      "Rating": 4.12
     },
     {
       "Time": "2022-11-23T03:26:01.8453873+00:00",
-      "Rating": 4.05,
-      "NumberOfRatings": null
+      "Rating": 4.05
     },
     {
       "Time": "2022-11-25T03:28:31.6924951+00:00",
-      "Rating": 4.06,
-      "NumberOfRatings": null
+      "Rating": 4.06
     },
     {
       "Time": "2022-12-03T19:57:50.3142353+00:00",
-      "Rating": 4.08,
-      "NumberOfRatings": null
+      "Rating": 4.08
     },
     {
       "Time": "2023-01-02T22:58:26.0871961+00:00",
-      "Rating": 4.07,
-      "NumberOfRatings": null
+      "Rating": 4.07
     },
     {
       "Time": "2023-01-19T02:12:34.377558+00:00",
-      "Rating": 4.05,
-      "NumberOfRatings": null
+      "Rating": 4.05
     },
     {
       "Time": "2023-01-22T02:10:51.1308902+00:00",
-      "Rating": 4.04,
-      "NumberOfRatings": null
+      "Rating": 4.04
     },
     {
       "Time": "2023-02-05T19:57:39.8259403+00:00",
-      "Rating": 4.05,
-      "NumberOfRatings": null
+      "Rating": 4.05
     },
     {
       "Time": "2023-02-11T19:58:19.0249069+00:00",
-      "Rating": 4.06,
-      "NumberOfRatings": null
+      "Rating": 4.06
     },
     {
       "Time": "2023-02-23T22:57:49.3511513+00:00",
-      "Rating": 4.07,
-      "NumberOfRatings": null
+      "Rating": 4.07
     }
   ],
   "Tags": []

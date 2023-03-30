@@ -3,6 +3,7 @@
   "Name": "HYPERCHARGE: Unboxed",
   "Rating": 4.63,
   "NumberOfRatings": 20,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:25:35.1619996+00:00",
   "FirstSeenRating": "2022-09-09T22:01:31.3463712+00:00",
   "LastChanged": "2022-12-18T02:57:28.3871639+00:00",
@@ -14,38 +15,31 @@
     },
     {
       "Time": "2022-09-28T23:32:33.3233518+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": null
+      "Rating": 4.71
     },
     {
       "Time": "2022-10-05T20:02:29.0792798+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": null
+      "Rating": 4.73
     },
     {
       "Time": "2022-10-14T21:02:09.8919444+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     },
     {
       "Time": "2022-10-19T21:02:10.7696403+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": null
+      "Rating": 4.58
     },
     {
       "Time": "2022-10-21T21:31:40.5830826+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": null
+      "Rating": 4.6
     },
     {
       "Time": "2022-11-17T02:32:49.622145+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": null
+      "Rating": 4.62
     },
     {
       "Time": "2022-12-18T02:57:28.3871642+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": null
+      "Rating": 4.63
     }
   ],
   "Tags": []

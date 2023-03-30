@@ -3,6 +3,7 @@
   "Name": "Prehistoric Kingdom",
   "Rating": 4.48,
   "NumberOfRatings": 40,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:30:08.8557624+00:00",
   "LastChanged": "2023-03-20T02:08:29.9412457+00:00",
   "RatingHistory": [
@@ -98,53 +99,43 @@
     },
     {
       "Time": "2022-10-09T00:02:11.3409162+00:00",
-      "Rating": 4.39,
-      "NumberOfRatings": null
+      "Rating": 4.39
     },
     {
       "Time": "2022-10-10T00:02:04.5698476+00:00",
-      "Rating": 4.4,
-      "NumberOfRatings": null
+      "Rating": 4.4
     },
     {
       "Time": "2022-10-11T00:03:08.7004339+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     },
     {
       "Time": "2022-10-15T16:04:10.1874434+00:00",
-      "Rating": 4.43,
-      "NumberOfRatings": null
+      "Rating": 4.43
     },
     {
       "Time": "2022-10-22T17:02:45.3340292+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": null
+      "Rating": 4.44
     },
     {
       "Time": "2022-11-06T10:58:22.9082772+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": null
+      "Rating": 4.46
     },
     {
       "Time": "2022-11-07T11:57:53.5339019+00:00",
-      "Rating": 4.45,
-      "NumberOfRatings": null
+      "Rating": 4.45
     },
     {
       "Time": "2022-12-23T17:58:22.4444342+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": null
+      "Rating": 4.46
     },
     {
       "Time": "2023-03-18T02:04:37.4270813+00:00",
-      "Rating": 4.47,
-      "NumberOfRatings": null
+      "Rating": 4.47
     },
     {
       "Time": "2023-03-20T02:08:29.9412458+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": null
+      "Rating": 4.48
     }
   ],
   "Tags": []

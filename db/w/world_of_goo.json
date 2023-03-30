@@ -3,6 +3,7 @@
   "Name": "World of Goo",
   "Rating": 4.7,
   "NumberOfRatings": 46,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:26:07.5057967+00:00",
   "LastChanged": "2023-01-08T20:58:04.0273066+00:00",
   "RatingHistory": [
@@ -118,73 +119,59 @@
     },
     {
       "Time": "2022-10-06T11:32:05.6425051+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": null
+      "Rating": 4.73
     },
     {
       "Time": "2022-10-14T00:02:33.9818903+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": null
+      "Rating": 4.74
     },
     {
       "Time": "2022-10-15T00:31:50.4262827+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     },
     {
       "Time": "2022-10-19T00:32:43.8304293+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": null
+      "Rating": 4.74
     },
     {
       "Time": "2022-10-21T01:02:02.2134803+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     },
     {
       "Time": "2022-11-04T02:32:25.1287795+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     },
     {
       "Time": "2022-11-07T02:49:44.5428414+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     },
     {
       "Time": "2022-11-09T15:57:55.9737445+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": null
+      "Rating": 4.73
     },
     {
       "Time": "2022-11-11T17:08:39.5582019+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": null
+      "Rating": 4.67
     },
     {
       "Time": "2022-11-12T17:03:30.3806657+00:00",
-      "Rating": 4.68,
-      "NumberOfRatings": null
+      "Rating": 4.68
     },
     {
       "Time": "2022-11-22T17:58:35.8954902+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2022-11-24T17:57:44.3860577+00:00",
-      "Rating": 4.68,
-      "NumberOfRatings": null
+      "Rating": 4.68
     },
     {
       "Time": "2022-12-04T18:57:54.9232055+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2023-01-08T20:58:04.0273071+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     }
   ],
   "Tags": []

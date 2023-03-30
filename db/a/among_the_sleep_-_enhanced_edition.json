@@ -3,6 +3,7 @@
   "Name": "Among the Sleep - Enhanced Edition",
   "Rating": 4.3,
   "NumberOfRatings": 368,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "LastChanged": "2022-11-28T02:19:55.6823129+00:00",
   "RatingHistory": [
@@ -328,118 +329,95 @@
     },
     {
       "Time": "2022-09-24T13:06:31.9462217+00:00",
-      "Rating": 4.3,
-      "NumberOfRatings": null
+      "Rating": 4.3
     },
     {
       "Time": "2022-09-24T15:31:00.877301+00:00",
-      "Rating": 4.29,
-      "NumberOfRatings": null
+      "Rating": 4.29
     },
     {
       "Time": "2022-09-26T15:31:02.9203798+00:00",
-      "Rating": 4.28,
-      "NumberOfRatings": null
+      "Rating": 4.28
     },
     {
       "Time": "2022-09-29T01:31:09.7338196+00:00",
-      "Rating": 4.27,
-      "NumberOfRatings": null
+      "Rating": 4.27
     },
     {
       "Time": "2022-10-03T22:01:06.3940561+00:00",
-      "Rating": 4.28,
-      "NumberOfRatings": null
+      "Rating": 4.28
     },
     {
       "Time": "2022-10-05T22:01:02.1767925+00:00",
-      "Rating": 4.27,
-      "NumberOfRatings": null
+      "Rating": 4.27
     },
     {
       "Time": "2022-10-06T22:01:00.8340185+00:00",
-      "Rating": 4.28,
-      "NumberOfRatings": null
+      "Rating": 4.28
     },
     {
       "Time": "2022-10-07T22:01:09.5496945+00:00",
-      "Rating": 4.27,
-      "NumberOfRatings": null
+      "Rating": 4.27
     },
     {
       "Time": "2022-10-08T22:00:58.5071607+00:00",
-      "Rating": 4.28,
-      "NumberOfRatings": null
+      "Rating": 4.28
     },
     {
       "Time": "2022-10-13T21:31:07.1819012+00:00",
-      "Rating": 4.27,
-      "NumberOfRatings": null
+      "Rating": 4.27
     },
     {
       "Time": "2022-10-16T21:31:02.6405547+00:00",
-      "Rating": 4.26,
-      "NumberOfRatings": null
+      "Rating": 4.26
     },
     {
       "Time": "2022-10-17T21:31:49.5987175+00:00",
-      "Rating": 4.27,
-      "NumberOfRatings": null
+      "Rating": 4.27
     },
     {
       "Time": "2022-10-22T03:31:03.2349629+00:00",
-      "Rating": 4.26,
-      "NumberOfRatings": null
+      "Rating": 4.26
     },
     {
       "Time": "2022-10-24T03:31:10.2150458+00:00",
-      "Rating": 4.27,
-      "NumberOfRatings": null
+      "Rating": 4.27
     },
     {
       "Time": "2022-11-03T06:02:04.7898248+00:00",
-      "Rating": 4.28,
-      "NumberOfRatings": null
+      "Rating": 4.28
     },
     {
       "Time": "2022-11-06T06:01:05.0501879+00:00",
-      "Rating": 4.29,
-      "NumberOfRatings": null
+      "Rating": 4.29
     },
     {
       "Time": "2022-11-08T17:15:28.8970818+00:00",
-      "Rating": 4.3,
-      "NumberOfRatings": null
+      "Rating": 4.3
     },
     {
       "Time": "2022-11-09T17:57:23.8245018+00:00",
-      "Rating": 4.29,
-      "NumberOfRatings": null
+      "Rating": 4.29
     },
     {
       "Time": "2022-11-10T17:57:24.8065748+00:00",
-      "Rating": 4.3,
-      "NumberOfRatings": null
+      "Rating": 4.3
     },
     {
       "Time": "2022-11-17T17:57:41.6735217+00:00",
-      "Rating": 4.29,
-      "NumberOfRatings": null
+      "Rating": 4.29
     },
     {
       "Time": "2022-11-19T17:57:37.1169571+00:00",
-      "Rating": 4.3,
-      "NumberOfRatings": null
+      "Rating": 4.3
     },
     {
       "Time": "2022-11-27T02:26:18.1797836+00:00",
-      "Rating": 4.31,
-      "NumberOfRatings": null
+      "Rating": 4.31
     },
     {
       "Time": "2022-11-28T02:19:55.6823132+00:00",
-      "Rating": 4.3,
-      "NumberOfRatings": null
+      "Rating": 4.3
     }
   ],
   "Tags": []

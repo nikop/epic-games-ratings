@@ -3,6 +3,7 @@
   "Name": "Night in the Woods",
   "Rating": 4.73,
   "NumberOfRatings": 615,
+  "NumberOfAwards": 139,
   "FirstSeen": "2022-07-22T20:30:36.3686737+00:00",
   "LastChanged": "2022-12-31T09:58:23.5917735+00:00",
   "RatingHistory": [
@@ -393,88 +394,71 @@
     },
     {
       "Time": "2022-10-02T17:02:28.7368865+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": null
+      "Rating": 4.73
     },
     {
       "Time": "2022-10-05T17:02:30.412133+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": null
+      "Rating": 4.72
     },
     {
       "Time": "2022-10-08T12:32:09.0040753+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": null
+      "Rating": 4.73
     },
     {
       "Time": "2022-10-09T12:33:10.361696+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": null
+      "Rating": 4.72
     },
     {
       "Time": "2022-10-10T17:32:44.6043687+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": null
+      "Rating": 4.73
     },
     {
       "Time": "2022-10-15T12:02:44.2923582+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": null
+      "Rating": 4.72
     },
     {
       "Time": "2022-10-16T12:02:08.1738752+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": null
+      "Rating": 4.73
     },
     {
       "Time": "2022-10-18T21:32:19.0443732+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": null
+      "Rating": 4.72
     },
     {
       "Time": "2022-10-19T21:33:08.1966525+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": null
+      "Rating": 4.73
     },
     {
       "Time": "2022-11-04T13:34:13.0517489+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": null
+      "Rating": 4.72
     },
     {
       "Time": "2022-11-06T21:58:44.593855+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": null
+      "Rating": 4.73
     },
     {
       "Time": "2022-11-08T02:50:36.8257643+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": null
+      "Rating": 4.72
     },
     {
       "Time": "2022-11-09T02:58:29.0860695+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": null
+      "Rating": 4.73
     },
     {
       "Time": "2022-11-25T07:58:27.51497+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": null
+      "Rating": 4.74
     },
     {
       "Time": "2022-11-28T07:58:08.4771129+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": null
+      "Rating": 4.73
     },
     {
       "Time": "2022-12-27T09:58:42.0942836+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": null
+      "Rating": 4.74
     },
     {
       "Time": "2022-12-31T09:58:23.5917737+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": null
+      "Rating": 4.73
     }
   ],
   "Tags": [

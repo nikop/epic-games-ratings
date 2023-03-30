@@ -3,6 +3,7 @@
   "Name": "Unreal Tournament",
   "Rating": 4.66,
   "NumberOfRatings": 1070,
+  "NumberOfAwards": 3948,
   "FirstSeen": "2022-07-22T20:21:08.0500861+00:00",
   "LastChanged": "2023-03-25T21:57:42.240404+00:00",
   "RatingHistory": [
@@ -1338,63 +1339,51 @@
     },
     {
       "Time": "2022-09-25T21:31:12.2905773+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": null
+      "Rating": 4.67
     },
     {
       "Time": "2022-09-26T10:30:53.9851158+00:00",
-      "Rating": 4.68,
-      "NumberOfRatings": null
+      "Rating": 4.68
     },
     {
       "Time": "2022-10-05T18:00:56.2201507+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": null
+      "Rating": 4.67
     },
     {
       "Time": "2022-10-23T12:01:07.298762+00:00",
-      "Rating": 4.68,
-      "NumberOfRatings": null
+      "Rating": 4.68
     },
     {
       "Time": "2022-10-23T14:31:05.0820199+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": null
+      "Rating": 4.67
     },
     {
       "Time": "2022-10-23T19:30:57.0536232+00:00",
-      "Rating": 4.68,
-      "NumberOfRatings": null
+      "Rating": 4.68
     },
     {
       "Time": "2022-10-25T05:01:38.1209636+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": null
+      "Rating": 4.67
     },
     {
       "Time": "2022-11-08T22:57:19.1296613+00:00",
-      "Rating": 4.68,
-      "NumberOfRatings": null
+      "Rating": 4.68
     },
     {
       "Time": "2022-11-15T13:25:53.3202126+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": null
+      "Rating": 4.67
     },
     {
       "Time": "2022-11-29T05:57:25.600451+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": null
+      "Rating": 4.66
     },
     {
       "Time": "2022-12-04T11:57:27.3750235+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": null
+      "Rating": 4.67
     },
     {
       "Time": "2023-03-25T21:57:42.2404043+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": null
+      "Rating": 4.66
     }
   ],
   "Tags": [

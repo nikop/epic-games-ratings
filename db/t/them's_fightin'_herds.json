@@ -2,159 +2,130 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "Rating": 4.61,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-12-19T18:57:06.8658934+00:00",
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "LastChanged": "2023-03-14T20:57:14.0637482+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-20T18:57:15.4745633+00:00",
-      "Rating": 4.54,
-      "NumberOfRatings": null
+      "Rating": 4.54
     },
     {
       "Time": "2022-12-21T16:57:02.2694887+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": null
+      "Rating": 4.65
     },
     {
       "Time": "2022-12-22T05:57:03.1777836+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": null
+      "Rating": 4.63
     },
     {
       "Time": "2022-12-22T23:57:08.1755656+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": null
+      "Rating": 4.65
     },
     {
       "Time": "2022-12-23T02:57:07.9649046+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": null
+      "Rating": 4.6
     },
     {
       "Time": "2022-12-24T01:56:51.1337754+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": null
+      "Rating": 4.59
     },
     {
       "Time": "2022-12-25T02:06:15.4532776+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": null
+      "Rating": 4.61
     },
     {
       "Time": "2022-12-26T02:04:22.5160295+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": null
+      "Rating": 4.56
     },
     {
       "Time": "2022-12-27T02:01:20.1555414+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": null
+      "Rating": 4.57
     },
     {
       "Time": "2022-12-29T02:04:36.7713932+00:00",
-      "Rating": 4.54,
-      "NumberOfRatings": null
+      "Rating": 4.54
     },
     {
       "Time": "2022-12-29T07:57:10.9503153+00:00",
-      "Rating": 4.53,
-      "NumberOfRatings": null
+      "Rating": 4.53
     },
     {
       "Time": "2022-12-30T19:57:01.8511937+00:00",
-      "Rating": 4.54,
-      "NumberOfRatings": null
+      "Rating": 4.54
     },
     {
       "Time": "2022-12-31T19:57:10.2996838+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": null
+      "Rating": 4.56
     },
     {
       "Time": "2023-01-01T19:56:59.5397899+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": null
+      "Rating": 4.57
     },
     {
       "Time": "2023-01-04T04:57:12.2764975+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": null
+      "Rating": 4.58
     },
     {
       "Time": "2023-01-05T06:56:59.7843189+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": null
+      "Rating": 4.55
     },
     {
       "Time": "2023-01-06T19:57:06.1169801+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": null
+      "Rating": 4.56
     },
     {
       "Time": "2023-01-07T19:57:10.1789783+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": null
+      "Rating": 4.57
     },
     {
       "Time": "2023-01-09T19:57:05.9514559+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": null
+      "Rating": 4.58
     },
     {
       "Time": "2023-01-11T19:57:41.1677292+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": null
+      "Rating": 4.57
     },
     {
       "Time": "2023-01-12T22:57:10.3282209+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": null
+      "Rating": 4.58
     },
     {
       "Time": "2023-01-15T03:01:01.8076707+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": null
+      "Rating": 4.59
     },
     {
       "Time": "2023-01-18T16:57:17.4110585+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": null
+      "Rating": 4.57
     },
     {
       "Time": "2023-01-22T07:57:04.6884447+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": null
+      "Rating": 4.58
     },
     {
       "Time": "2023-01-26T03:56:49.1229066+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": null
+      "Rating": 4.59
     },
     {
       "Time": "2023-02-09T23:57:28.6362321+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": null
+      "Rating": 4.6
     },
     {
       "Time": "2023-02-21T18:58:27.7157723+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": null
+      "Rating": 4.58
     },
     {
       "Time": "2023-02-23T22:57:11.902882+00:00",
-      "Rating": 4.59,
-      "NumberOfRatings": null
+      "Rating": 4.59
     },
     {
       "Time": "2023-03-02T16:58:11.3406824+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": null
+      "Rating": 4.6
     },
     {
       "Time": "2023-03-14T20:57:14.0637484+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": null
+      "Rating": 4.61
     }
   ],
   "Tags": []

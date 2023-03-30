@@ -3,6 +3,7 @@
   "Name": "Iron Harvest",
   "Rating": 4.38,
   "NumberOfRatings": 165,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:22:43.0842749+00:00",
   "LastChanged": "2023-02-04T05:57:29.6371697+00:00",
   "RatingHistory": [
@@ -248,98 +249,79 @@
     },
     {
       "Time": "2022-09-24T13:06:36.1557445+00:00",
-      "Rating": 4.35,
-      "NumberOfRatings": null
+      "Rating": 4.35
     },
     {
       "Time": "2022-10-02T04:01:24.3983028+00:00",
-      "Rating": 4.36,
-      "NumberOfRatings": null
+      "Rating": 4.36
     },
     {
       "Time": "2022-10-08T08:02:08.7568346+00:00",
-      "Rating": 4.37,
-      "NumberOfRatings": null
+      "Rating": 4.37
     },
     {
       "Time": "2022-10-21T11:31:46.9973565+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": null
+      "Rating": 4.38
     },
     {
       "Time": "2022-10-29T05:01:15.1434291+00:00",
-      "Rating": 4.39,
-      "NumberOfRatings": null
+      "Rating": 4.39
     },
     {
       "Time": "2022-11-03T14:31:43.2668888+00:00",
-      "Rating": 4.4,
-      "NumberOfRatings": null
+      "Rating": 4.4
     },
     {
       "Time": "2022-11-05T06:31:17.7994086+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": null
+      "Rating": 4.38
     },
     {
       "Time": "2022-11-11T17:08:22.5845426+00:00",
-      "Rating": 4.39,
-      "NumberOfRatings": null
+      "Rating": 4.39
     },
     {
       "Time": "2022-11-18T18:57:16.8913081+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": null
+      "Rating": 4.38
     },
     {
       "Time": "2022-11-23T17:01:21.5495804+00:00",
-      "Rating": 4.37,
-      "NumberOfRatings": null
+      "Rating": 4.37
     },
     {
       "Time": "2022-11-27T20:57:33.408418+00:00",
-      "Rating": 4.36,
-      "NumberOfRatings": null
+      "Rating": 4.36
     },
     {
       "Time": "2022-12-02T09:57:32.1008924+00:00",
-      "Rating": 4.37,
-      "NumberOfRatings": null
+      "Rating": 4.37
     },
     {
       "Time": "2022-12-04T11:57:34.8257243+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": null
+      "Rating": 4.38
     },
     {
       "Time": "2022-12-05T18:58:47.2698306+00:00",
-      "Rating": 4.37,
-      "NumberOfRatings": null
+      "Rating": 4.37
     },
     {
       "Time": "2022-12-16T16:57:44.6122905+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": null
+      "Rating": 4.38
     },
     {
       "Time": "2022-12-31T02:01:47.9276731+00:00",
-      "Rating": 4.39,
-      "NumberOfRatings": null
+      "Rating": 4.39
     },
     {
       "Time": "2023-01-14T20:57:25.7867108+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": null
+      "Rating": 4.38
     },
     {
       "Time": "2023-01-21T09:57:29.847901+00:00",
-      "Rating": 4.37,
-      "NumberOfRatings": null
+      "Rating": 4.37
     },
     {
       "Time": "2023-02-04T05:57:29.6371699+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": null
+      "Rating": 4.38
     }
   ],
   "Tags": []

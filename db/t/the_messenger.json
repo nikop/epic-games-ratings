@@ -3,6 +3,7 @@
   "Name": "The Messenger",
   "Rating": 4.8,
   "NumberOfRatings": 561,
+  "NumberOfAwards": 332,
   "FirstSeen": "2022-07-22T20:18:54.3850647+00:00",
   "LastChanged": "2022-12-10T15:56:58.0491552+00:00",
   "RatingHistory": [
@@ -503,48 +504,39 @@
     },
     {
       "Time": "2022-10-26T16:31:40.7794541+00:00",
-      "Rating": 4.78,
-      "NumberOfRatings": null
+      "Rating": 4.78
     },
     {
       "Time": "2022-10-27T09:00:42.4855635+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": null
+      "Rating": 4.79
     },
     {
       "Time": "2022-10-30T22:30:41.6188257+00:00",
-      "Rating": 4.78,
-      "NumberOfRatings": null
+      "Rating": 4.78
     },
     {
       "Time": "2022-11-16T08:56:57.74799+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": null
+      "Rating": 4.79
     },
     {
       "Time": "2022-11-16T18:57:10.8985381+00:00",
-      "Rating": 4.78,
-      "NumberOfRatings": null
+      "Rating": 4.78
     },
     {
       "Time": "2022-11-17T19:57:20.8490117+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": null
+      "Rating": 4.79
     },
     {
       "Time": "2022-12-05T03:00:47.629927+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": null
+      "Rating": 4.8
     },
     {
       "Time": "2022-12-09T14:57:21.5890619+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": null
+      "Rating": 4.79
     },
     {
       "Time": "2022-12-10T15:56:58.0491554+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": null
+      "Rating": 4.8
     }
   ],
   "Tags": [

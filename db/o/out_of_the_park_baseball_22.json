@@ -3,6 +3,7 @@
   "Name": "Out of the Park Baseball 22",
   "Rating": 4.41,
   "NumberOfRatings": 26,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:23:16.2999392+00:00",
   "LastChanged": "2022-10-21T11:31:52.4961029+00:00",
   "RatingHistory": [
@@ -33,8 +34,7 @@
     },
     {
       "Time": "2022-10-21T11:31:52.4961032+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": null
+      "Rating": 4.41
     }
   ],
   "Tags": []

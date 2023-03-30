@@ -3,6 +3,7 @@
   "Name": "UnMetal",
   "Rating": 4.52,
   "NumberOfRatings": 35,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:18:47.3382201+00:00",
   "LastChanged": "2023-03-07T15:56:55.8125408+00:00",
   "RatingHistory": [
@@ -83,58 +84,47 @@
     },
     {
       "Time": "2022-10-02T20:30:43.2841758+00:00",
-      "Rating": 4.5,
-      "NumberOfRatings": null
+      "Rating": 4.5
     },
     {
       "Time": "2022-10-03T21:00:57.5718517+00:00",
-      "Rating": 4.51,
-      "NumberOfRatings": null
+      "Rating": 4.51
     },
     {
       "Time": "2022-10-07T21:30:56.1000636+00:00",
-      "Rating": 4.53,
-      "NumberOfRatings": null
+      "Rating": 4.53
     },
     {
       "Time": "2022-10-23T23:00:38.7440413+00:00",
-      "Rating": 4.54,
-      "NumberOfRatings": null
+      "Rating": 4.54
     },
     {
       "Time": "2022-10-25T23:31:30.6397132+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": null
+      "Rating": 4.55
     },
     {
       "Time": "2022-11-05T00:00:37.3740816+00:00",
-      "Rating": 4.54,
-      "NumberOfRatings": null
+      "Rating": 4.54
     },
     {
       "Time": "2022-11-06T23:57:04.1669529+00:00",
-      "Rating": 4.5,
-      "NumberOfRatings": null
+      "Rating": 4.5
     },
     {
       "Time": "2022-11-19T02:30:24.082666+00:00",
-      "Rating": 4.51,
-      "NumberOfRatings": null
+      "Rating": 4.51
     },
     {
       "Time": "2022-11-27T03:31:47.330343+00:00",
-      "Rating": 4.5,
-      "NumberOfRatings": null
+      "Rating": 4.5
     },
     {
       "Time": "2022-12-05T03:57:11.5914392+00:00",
-      "Rating": 4.51,
-      "NumberOfRatings": null
+      "Rating": 4.51
     },
     {
       "Time": "2023-03-07T15:56:55.812541+00:00",
-      "Rating": 4.52,
-      "NumberOfRatings": null
+      "Rating": 4.52
     }
   ],
   "Tags": []

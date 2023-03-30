@@ -3,6 +3,7 @@
   "Name": "Symphony of War",
   "Rating": 4.64,
   "NumberOfRatings": 181,
+  "NumberOfAwards": 66,
   "FirstSeen": "2022-07-22T20:27:23.9681849+00:00",
   "LastChanged": "2023-03-25T14:58:07.520817+00:00",
   "RatingHistory": [
@@ -173,48 +174,39 @@
     },
     {
       "Time": "2022-10-27T17:02:45.7670028+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": null
+      "Rating": 4.64
     },
     {
       "Time": "2022-10-29T20:02:25.6887496+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": null
+      "Rating": 4.63
     },
     {
       "Time": "2022-11-03T14:03:09.6938555+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": null
+      "Rating": 4.64
     },
     {
       "Time": "2022-11-06T10:58:05.7903784+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": null
+      "Rating": 4.63
     },
     {
       "Time": "2022-12-28T09:58:05.9564393+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": null
+      "Rating": 4.64
     },
     {
       "Time": "2022-12-30T10:58:06.1180823+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": null
+      "Rating": 4.63
     },
     {
       "Time": "2023-01-06T10:57:45.5338683+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": null
+      "Rating": 4.64
     },
     {
       "Time": "2023-02-03T06:58:15.656901+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": null
+      "Rating": 4.63
     },
     {
       "Time": "2023-03-25T14:58:07.5208171+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": null
+      "Rating": 4.64
     }
   ],
   "Tags": [

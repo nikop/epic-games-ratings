@@ -3,6 +3,7 @@
   "Name": "Patron",
   "Rating": 3.94,
   "NumberOfRatings": 38,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:25:15.1770761+00:00",
   "FirstSeenRating": "2022-08-04T14:01:33.7640592+00:00",
   "LastChanged": "2022-12-22T16:57:37.7581021+00:00",
@@ -79,68 +80,55 @@
     },
     {
       "Time": "2022-09-24T18:01:31.3406936+00:00",
-      "Rating": 3.97,
-      "NumberOfRatings": null
+      "Rating": 3.97
     },
     {
       "Time": "2022-09-26T09:32:18.8925778+00:00",
-      "Rating": 3.98,
-      "NumberOfRatings": null
+      "Rating": 3.98
     },
     {
       "Time": "2022-10-03T10:31:29.3034862+00:00",
-      "Rating": 3.9,
-      "NumberOfRatings": null
+      "Rating": 3.9
     },
     {
       "Time": "2022-10-08T17:02:11.7890236+00:00",
-      "Rating": 3.93,
-      "NumberOfRatings": null
+      "Rating": 3.93
     },
     {
       "Time": "2022-10-12T20:31:27.5443027+00:00",
-      "Rating": 3.91,
-      "NumberOfRatings": null
+      "Rating": 3.91
     },
     {
       "Time": "2022-10-24T00:31:29.1510661+00:00",
-      "Rating": 3.87,
-      "NumberOfRatings": null
+      "Rating": 3.87
     },
     {
       "Time": "2022-10-28T01:02:43.3314515+00:00",
-      "Rating": 3.89,
-      "NumberOfRatings": null
+      "Rating": 3.89
     },
     {
       "Time": "2022-11-08T14:09:25.3524396+00:00",
-      "Rating": 3.92,
-      "NumberOfRatings": null
+      "Rating": 3.92
     },
     {
       "Time": "2022-11-10T19:57:42.8236617+00:00",
-      "Rating": 3.94,
-      "NumberOfRatings": null
+      "Rating": 3.94
     },
     {
       "Time": "2022-11-17T18:57:29.8624329+00:00",
-      "Rating": 3.96,
-      "NumberOfRatings": null
+      "Rating": 3.96
     },
     {
       "Time": "2022-11-22T19:57:51.1290552+00:00",
-      "Rating": 3.9,
-      "NumberOfRatings": null
+      "Rating": 3.9
     },
     {
       "Time": "2022-12-08T15:58:14.9613272+00:00",
-      "Rating": 3.92,
-      "NumberOfRatings": null
+      "Rating": 3.92
     },
     {
       "Time": "2022-12-22T16:57:37.7581025+00:00",
-      "Rating": 3.94,
-      "NumberOfRatings": null
+      "Rating": 3.94
     }
   ],
   "Tags": []

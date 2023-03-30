@@ -3,6 +3,7 @@
   "Name": "Disney Dreamlight Valley",
   "Rating": 4.76,
   "NumberOfRatings": 1396,
+  "NumberOfAwards": 6796,
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "LastChanged": "2023-02-21T05:56:56.0324229+00:00",
@@ -814,98 +815,79 @@
     },
     {
       "Time": "2022-09-24T17:30:19.4431385+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": null
+      "Rating": 4.74
     },
     {
       "Time": "2022-09-25T17:00:24.717368+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": null
+      "Rating": 4.73
     },
     {
       "Time": "2022-09-25T17:30:28.3293791+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": null
+      "Rating": 4.74
     },
     {
       "Time": "2022-09-26T09:00:48.1225017+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": null
+      "Rating": 4.73
     },
     {
       "Time": "2022-09-27T13:30:19.2870976+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": null
+      "Rating": 4.74
     },
     {
       "Time": "2022-09-27T15:00:49.9140692+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": null
+      "Rating": 4.73
     },
     {
       "Time": "2022-09-27T16:00:50.4093713+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": null
+      "Rating": 4.74
     },
     {
       "Time": "2022-09-28T17:00:56.0952402+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": null
+      "Rating": 4.73
     },
     {
       "Time": "2022-09-28T23:01:03.5468943+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": null
+      "Rating": 4.74
     },
     {
       "Time": "2022-10-17T01:30:19.1068315+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     },
     {
       "Time": "2022-10-24T13:30:39.2205959+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     },
     {
       "Time": "2022-10-25T05:00:59.0418642+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     },
     {
       "Time": "2022-10-25T18:00:41.5645919+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     },
     {
       "Time": "2022-10-25T20:00:34.0889893+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     },
     {
       "Time": "2022-12-08T17:56:59.0544368+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     },
     {
       "Time": "2022-12-14T11:57:00.3115223+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     },
     {
       "Time": "2023-02-12T21:56:42.4473506+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     },
     {
       "Time": "2023-02-19T22:57:02.4168553+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     },
     {
       "Time": "2023-02-21T05:56:56.0324232+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     }
   ],
   "Tags": [

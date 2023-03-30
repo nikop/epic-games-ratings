@@ -3,6 +3,7 @@
   "Name": "Rebel Galaxy",
   "Rating": 4.42,
   "NumberOfRatings": 774,
+  "NumberOfAwards": 152,
   "FirstSeen": "2022-07-22T20:27:15.7165478+00:00",
   "LastChanged": "2023-03-21T17:57:52.1674099+00:00",
   "RatingHistory": [
@@ -608,68 +609,55 @@
     },
     {
       "Time": "2022-09-25T03:02:06.6471144+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": null
+      "Rating": 4.38
     },
     {
       "Time": "2022-09-26T08:01:46.5200287+00:00",
-      "Rating": 4.39,
-      "NumberOfRatings": null
+      "Rating": 4.39
     },
     {
       "Time": "2022-10-12T04:01:43.0631028+00:00",
-      "Rating": 4.4,
-      "NumberOfRatings": null
+      "Rating": 4.4
     },
     {
       "Time": "2022-10-13T00:02:00.1622636+00:00",
-      "Rating": 4.39,
-      "NumberOfRatings": null
+      "Rating": 4.39
     },
     {
       "Time": "2022-10-23T20:01:56.4159862+00:00",
-      "Rating": 4.4,
-      "NumberOfRatings": null
+      "Rating": 4.4
     },
     {
       "Time": "2022-11-03T16:33:20.9894857+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": null
+      "Rating": 4.41
     },
     {
       "Time": "2022-11-11T18:59:22.5540822+00:00",
-      "Rating": 4.4,
-      "NumberOfRatings": null
+      "Rating": 4.4
     },
     {
       "Time": "2022-11-13T02:48:49.9777473+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": null
+      "Rating": 4.41
     },
     {
       "Time": "2022-11-18T22:57:43.6994762+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     },
     {
       "Time": "2022-11-21T14:58:16.4687241+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": null
+      "Rating": 4.41
     },
     {
       "Time": "2022-11-23T02:25:16.3283734+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     },
     {
       "Time": "2022-11-26T05:58:13.940929+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": null
+      "Rating": 4.41
     },
     {
       "Time": "2023-03-21T17:57:52.1674103+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     }
   ],
   "Tags": [

@@ -2,284 +2,230 @@
   "ID": "8b2d6cf2b45b41f1abe91bc5b7c1e8f9",
   "Name": "UNCHARTED\u2122: Legacy of Thieves Collection",
   "Rating": 4.74,
+  "NumberOfAwards": 829,
   "FirstSeen": "2022-10-19T19:01:42.4603943+00:00",
   "FirstSeenRating": "2022-10-20T19:02:12.9087244+00:00",
   "LastChanged": "2023-03-26T16:57:46.08353+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-20T19:02:12.9087246+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": null
+      "Rating": 4.57
     },
     {
       "Time": "2022-10-21T04:02:42.1745306+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": null
+      "Rating": 4.73
     },
     {
       "Time": "2022-10-21T20:02:04.1571004+00:00",
-      "Rating": 4.83,
-      "NumberOfRatings": null
+      "Rating": 4.83
     },
     {
       "Time": "2022-10-22T15:31:40.8199058+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": null
+      "Rating": 4.85
     },
     {
       "Time": "2022-10-22T19:31:34.7210437+00:00",
-      "Rating": 4.83,
-      "NumberOfRatings": null
+      "Rating": 4.83
     },
     {
       "Time": "2022-10-22T21:31:46.9342311+00:00",
-      "Rating": 4.81,
-      "NumberOfRatings": null
+      "Rating": 4.81
     },
     {
       "Time": "2022-10-23T09:31:46.6721184+00:00",
-      "Rating": 4.82,
-      "NumberOfRatings": null
+      "Rating": 4.82
     },
     {
       "Time": "2022-10-23T15:34:26.6939515+00:00",
-      "Rating": 4.81,
-      "NumberOfRatings": null
+      "Rating": 4.81
     },
     {
       "Time": "2022-10-23T16:31:45.6313047+00:00",
-      "Rating": 4.82,
-      "NumberOfRatings": null
+      "Rating": 4.82
     },
     {
       "Time": "2022-10-23T20:01:42.2723752+00:00",
-      "Rating": 4.83,
-      "NumberOfRatings": null
+      "Rating": 4.83
     },
     {
       "Time": "2022-10-24T16:02:25.3211385+00:00",
-      "Rating": 4.82,
-      "NumberOfRatings": null
+      "Rating": 4.82
     },
     {
       "Time": "2022-10-24T23:32:08.1744021+00:00",
-      "Rating": 4.83,
-      "NumberOfRatings": null
+      "Rating": 4.83
     },
     {
       "Time": "2022-10-26T13:02:31.8442202+00:00",
-      "Rating": 4.84,
-      "NumberOfRatings": null
+      "Rating": 4.84
     },
     {
       "Time": "2022-10-26T16:32:46.1945539+00:00",
-      "Rating": 4.83,
-      "NumberOfRatings": null
+      "Rating": 4.83
     },
     {
       "Time": "2022-10-27T06:32:35.5503483+00:00",
-      "Rating": 4.82,
-      "NumberOfRatings": null
+      "Rating": 4.82
     },
     {
       "Time": "2022-10-28T03:02:05.0389674+00:00",
-      "Rating": 4.83,
-      "NumberOfRatings": null
+      "Rating": 4.83
     },
     {
       "Time": "2022-10-28T18:01:38.6756712+00:00",
-      "Rating": 4.82,
-      "NumberOfRatings": null
+      "Rating": 4.82
     },
     {
       "Time": "2022-10-28T23:31:57.3587025+00:00",
-      "Rating": 4.83,
-      "NumberOfRatings": null
+      "Rating": 4.83
     },
     {
       "Time": "2022-10-30T11:31:32.8822329+00:00",
-      "Rating": 4.82,
-      "NumberOfRatings": null
+      "Rating": 4.82
     },
     {
       "Time": "2022-10-31T18:02:12.1392098+00:00",
-      "Rating": 4.81,
-      "NumberOfRatings": null
+      "Rating": 4.81
     },
     {
       "Time": "2022-11-01T13:02:39.2039096+00:00",
-      "Rating": 4.82,
-      "NumberOfRatings": null
+      "Rating": 4.82
     },
     {
       "Time": "2022-11-02T12:02:13.5075535+00:00",
-      "Rating": 4.81,
-      "NumberOfRatings": null
+      "Rating": 4.81
     },
     {
       "Time": "2022-11-03T10:02:15.9855512+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": null
+      "Rating": 4.8
     },
     {
       "Time": "2022-11-04T01:33:16.3967602+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": null
+      "Rating": 4.79
     },
     {
       "Time": "2022-11-04T05:02:15.7866799+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": null
+      "Rating": 4.8
     },
     {
       "Time": "2022-11-04T13:33:06.5163196+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": null
+      "Rating": 4.79
     },
     {
       "Time": "2022-11-04T14:02:56.5779369+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": null
+      "Rating": 4.8
     },
     {
       "Time": "2022-11-04T22:32:26.1387793+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": null
+      "Rating": 4.79
     },
     {
       "Time": "2022-11-09T04:32:29.5852864+00:00",
-      "Rating": 4.78,
-      "NumberOfRatings": null
+      "Rating": 4.78
     },
     {
       "Time": "2022-11-13T19:58:52.3458522+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": null
+      "Rating": 4.77
     },
     {
       "Time": "2022-11-13T21:58:55.5075038+00:00",
-      "Rating": 4.78,
-      "NumberOfRatings": null
+      "Rating": 4.78
     },
     {
       "Time": "2022-11-14T17:17:47.7825775+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": null
+      "Rating": 4.77
     },
     {
       "Time": "2022-11-14T18:00:41.4793562+00:00",
-      "Rating": 4.78,
-      "NumberOfRatings": null
+      "Rating": 4.78
     },
     {
       "Time": "2022-11-16T15:57:30.1073965+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": null
+      "Rating": 4.77
     },
     {
       "Time": "2022-11-22T18:57:50.1580965+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     },
     {
       "Time": "2022-11-23T22:57:57.5943913+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": null
+      "Rating": 4.77
     },
     {
       "Time": "2022-11-26T13:58:13.0006166+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     },
     {
       "Time": "2022-11-27T20:57:49.5409093+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": null
+      "Rating": 4.77
     },
     {
       "Time": "2022-11-29T08:57:29.9404753+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     },
     {
       "Time": "2022-12-05T03:57:47.034839+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": null
+      "Rating": 4.77
     },
     {
       "Time": "2022-12-19T19:57:49.9350189+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     },
     {
       "Time": "2022-12-27T20:57:51.749011+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": null
+      "Rating": 4.77
     },
     {
       "Time": "2022-12-28T10:57:39.1583721+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     },
     {
       "Time": "2022-12-28T14:57:44.1950023+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": null
+      "Rating": 4.77
     },
     {
       "Time": "2022-12-30T15:57:47.7545335+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     },
     {
       "Time": "2023-01-01T21:58:02.7134136+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     },
     {
       "Time": "2023-01-02T21:58:31.1281579+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     },
     {
       "Time": "2023-01-07T16:57:27.5332493+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     },
     {
       "Time": "2023-01-08T11:57:50.6743492+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     },
     {
       "Time": "2023-01-08T22:57:42.3793816+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     },
     {
       "Time": "2023-01-14T15:57:23.4214913+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": null
+      "Rating": 4.74
     },
     {
       "Time": "2023-02-07T08:57:57.2874661+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     },
     {
       "Time": "2023-02-10T14:57:33.9308427+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": null
+      "Rating": 4.74
     },
     {
       "Time": "2023-03-04T22:58:09.961859+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     },
     {
       "Time": "2023-03-26T16:57:46.0835302+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": null
+      "Rating": 4.74
     }
   ],
   "Tags": [

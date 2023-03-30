@@ -3,6 +3,7 @@
   "Name": "Train Life: A Railway Simulator",
   "Rating": 3.99,
   "NumberOfRatings": 42,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:30:34.3889134+00:00",
   "LastChanged": "2023-03-04T20:57:18.1547244+00:00",
   "RatingHistory": [
@@ -98,108 +99,87 @@
     },
     {
       "Time": "2022-09-24T16:31:23.8082127+00:00",
-      "Rating": 3.98,
-      "NumberOfRatings": null
+      "Rating": 3.98
     },
     {
       "Time": "2022-09-24T19:30:50.867342+00:00",
-      "Rating": 4,
-      "NumberOfRatings": null
+      "Rating": 4
     },
     {
       "Time": "2022-09-25T21:02:00.4525094+00:00",
-      "Rating": 3.94,
-      "NumberOfRatings": null
+      "Rating": 3.94
     },
     {
       "Time": "2022-10-09T20:30:39.9611613+00:00",
-      "Rating": 3.96,
-      "NumberOfRatings": null
+      "Rating": 3.96
     },
     {
       "Time": "2022-10-11T20:00:41.931454+00:00",
-      "Rating": 3.98,
-      "NumberOfRatings": null
+      "Rating": 3.98
     },
     {
       "Time": "2022-10-12T20:01:32.9861432+00:00",
-      "Rating": 3.95,
-      "NumberOfRatings": null
+      "Rating": 3.95
     },
     {
       "Time": "2022-10-23T08:30:51.9376699+00:00",
-      "Rating": 3.96,
-      "NumberOfRatings": null
+      "Rating": 3.96
     },
     {
       "Time": "2022-10-24T08:31:19.3772839+00:00",
-      "Rating": 3.95,
-      "NumberOfRatings": null
+      "Rating": 3.95
     },
     {
       "Time": "2022-10-27T05:00:50.0708898+00:00",
-      "Rating": 3.97,
-      "NumberOfRatings": null
+      "Rating": 3.97
     },
     {
       "Time": "2022-11-04T05:30:59.4525506+00:00",
-      "Rating": 3.98,
-      "NumberOfRatings": null
+      "Rating": 3.98
     },
     {
       "Time": "2022-11-12T06:57:34.2126464+00:00",
-      "Rating": 4,
-      "NumberOfRatings": null
+      "Rating": 4
     },
     {
       "Time": "2022-11-17T11:57:16.384768+00:00",
-      "Rating": 4.02,
-      "NumberOfRatings": null
+      "Rating": 4.02
     },
     {
       "Time": "2022-11-19T13:14:58.25855+00:00",
-      "Rating": 3.98,
-      "NumberOfRatings": null
+      "Rating": 3.98
     },
     {
       "Time": "2022-11-26T13:11:33.1555354+00:00",
-      "Rating": 4,
-      "NumberOfRatings": null
+      "Rating": 4
     },
     {
       "Time": "2022-12-04T13:09:44.837608+00:00",
-      "Rating": 4.01,
-      "NumberOfRatings": null
+      "Rating": 4.01
     },
     {
       "Time": "2022-12-08T15:57:22.6927555+00:00",
-      "Rating": 4.03,
-      "NumberOfRatings": null
+      "Rating": 4.03
     },
     {
       "Time": "2022-12-09T15:57:25.6484941+00:00",
-      "Rating": 4.01,
-      "NumberOfRatings": null
+      "Rating": 4.01
     },
     {
       "Time": "2022-12-21T16:57:11.5284481+00:00",
-      "Rating": 4.03,
-      "NumberOfRatings": null
+      "Rating": 4.03
     },
     {
       "Time": "2022-12-30T16:57:09.1513475+00:00",
-      "Rating": 4.04,
-      "NumberOfRatings": null
+      "Rating": 4.04
     },
     {
       "Time": "2023-02-18T18:57:20.5821999+00:00",
-      "Rating": 4.03,
-      "NumberOfRatings": null
+      "Rating": 4.03
     },
     {
       "Time": "2023-03-04T20:57:18.1547245+00:00",
-      "Rating": 3.99,
-      "NumberOfRatings": null
+      "Rating": 3.99
     }
   ],
   "Tags": []

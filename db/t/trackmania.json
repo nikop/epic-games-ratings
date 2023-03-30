@@ -3,6 +3,7 @@
   "Name": "Trackmania",
   "Rating": 4.67,
   "NumberOfRatings": 6825,
+  "NumberOfAwards": 18767,
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
   "LastChanged": "2023-03-25T15:57:38.9803402+00:00",
   "RatingHistory": [
@@ -2788,48 +2789,39 @@
     },
     {
       "Time": "2022-09-27T06:01:28.8766436+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": null
+      "Rating": 4.67
     },
     {
       "Time": "2022-09-27T15:01:52.3991421+00:00",
-      "Rating": 4.68,
-      "NumberOfRatings": null
+      "Rating": 4.68
     },
     {
       "Time": "2022-09-27T18:01:59.6568363+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": null
+      "Rating": 4.67
     },
     {
       "Time": "2023-01-01T02:19:30.0801931+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": null
+      "Rating": 4.66
     },
     {
       "Time": "2023-01-01T09:57:50.9280958+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": null
+      "Rating": 4.67
     },
     {
       "Time": "2023-01-01T15:57:39.0011099+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": null
+      "Rating": 4.66
     },
     {
       "Time": "2023-03-25T08:57:35.4338096+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": null
+      "Rating": 4.67
     },
     {
       "Time": "2023-03-25T14:57:38.3724262+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": null
+      "Rating": 4.66
     },
     {
       "Time": "2023-03-25T15:57:38.9803404+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": null
+      "Rating": 4.67
     }
   ],
   "Tags": [

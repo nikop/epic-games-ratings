@@ -3,6 +3,7 @@
   "Name": "Jotun: Valhalla Edition",
   "Rating": 4.41,
   "NumberOfRatings": 758,
+  "NumberOfAwards": 92,
   "FirstSeen": "2022-07-22T20:29:06.202912+00:00",
   "LastChanged": "2022-12-21T22:58:05.3609854+00:00",
   "RatingHistory": [
@@ -378,73 +379,59 @@
     },
     {
       "Time": "2022-09-24T13:07:27.3105261+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     },
     {
       "Time": "2022-10-01T23:02:05.0211733+00:00",
-      "Rating": 4.43,
-      "NumberOfRatings": null
+      "Rating": 4.43
     },
     {
       "Time": "2022-10-02T23:02:11.321403+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     },
     {
       "Time": "2022-10-06T23:32:59.909793+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": null
+      "Rating": 4.41
     },
     {
       "Time": "2022-10-07T23:32:52.2064536+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     },
     {
       "Time": "2022-10-25T06:33:12.6493805+00:00",
-      "Rating": 4.43,
-      "NumberOfRatings": null
+      "Rating": 4.43
     },
     {
       "Time": "2022-10-30T14:32:39.5913587+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     },
     {
       "Time": "2022-10-31T06:02:04.939755+00:00",
-      "Rating": 4.43,
-      "NumberOfRatings": null
+      "Rating": 4.43
     },
     {
       "Time": "2022-11-01T06:02:07.3083904+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     },
     {
       "Time": "2022-11-03T23:02:45.9173581+00:00",
-      "Rating": 4.43,
-      "NumberOfRatings": null
+      "Rating": 4.43
     },
     {
       "Time": "2022-11-10T02:54:51.2461204+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     },
     {
       "Time": "2022-11-12T02:45:37.5236824+00:00",
-      "Rating": 4.43,
-      "NumberOfRatings": null
+      "Rating": 4.43
     },
     {
       "Time": "2022-11-13T02:48:59.4839737+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     },
     {
       "Time": "2022-12-21T22:58:05.3609855+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": null
+      "Rating": 4.41
     }
   ],
   "Tags": [

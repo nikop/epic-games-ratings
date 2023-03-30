@@ -2,29 +2,26 @@
   "ID": "fa7346c113ff48d8b9a1b48f44a3a48e",
   "Name": "Shoulders of Giants",
   "Rating": 4.26,
+  "NumberOfAwards": 0,
   "FirstSeen": "2023-01-26T15:57:54.151819+00:00",
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "LastChanged": "2023-03-26T21:57:13.1185768+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-08T19:57:26.4841995+00:00",
-      "Rating": 4.2,
-      "NumberOfRatings": null
+      "Rating": 4.2
     },
     {
       "Time": "2023-03-14T20:57:31.6066583+00:00",
-      "Rating": 4.19,
-      "NumberOfRatings": null
+      "Rating": 4.19
     },
     {
       "Time": "2023-03-17T20:57:42.1875246+00:00",
-      "Rating": 4.23,
-      "NumberOfRatings": null
+      "Rating": 4.23
     },
     {
       "Time": "2023-03-26T21:57:13.1185769+00:00",
-      "Rating": 4.26,
-      "NumberOfRatings": null
+      "Rating": 4.26
     }
   ],
   "Tags": []

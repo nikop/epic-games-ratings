@@ -3,6 +3,7 @@
   "Name": "Redout: Enhanced Edition",
   "Rating": 4.5,
   "NumberOfRatings": 274,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "LastChanged": "2022-12-05T15:57:18.627024+00:00",
   "RatingHistory": [
@@ -263,48 +264,39 @@
     },
     {
       "Time": "2022-09-28T07:30:58.310844+00:00",
-      "Rating": 4.5,
-      "NumberOfRatings": null
+      "Rating": 4.5
     },
     {
       "Time": "2022-09-28T08:00:58.0552966+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": null
+      "Rating": 4.49
     },
     {
       "Time": "2022-09-28T20:00:57.6413152+00:00",
-      "Rating": 4.5,
-      "NumberOfRatings": null
+      "Rating": 4.5
     },
     {
       "Time": "2022-10-20T17:36:56.8162744+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": null
+      "Rating": 4.49
     },
     {
       "Time": "2022-10-25T23:32:07.7189063+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": null
+      "Rating": 4.48
     },
     {
       "Time": "2022-10-30T10:30:58.5441447+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": null
+      "Rating": 4.49
     },
     {
       "Time": "2022-11-09T15:57:23.6054968+00:00",
-      "Rating": 4.5,
-      "NumberOfRatings": null
+      "Rating": 4.5
     },
     {
       "Time": "2022-11-21T23:57:12.6042086+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": null
+      "Rating": 4.49
     },
     {
       "Time": "2022-12-05T15:57:18.6270242+00:00",
-      "Rating": 4.5,
-      "NumberOfRatings": null
+      "Rating": 4.5
     }
   ],
   "Tags": []

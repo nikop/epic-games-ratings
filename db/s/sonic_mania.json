@@ -3,6 +3,7 @@
   "Name": "Sonic Mania",
   "Rating": 4.78,
   "NumberOfRatings": 2185,
+  "NumberOfAwards": 1526,
   "FirstSeen": "2022-07-22T20:24:14.1875943+00:00",
   "LastChanged": "2023-03-16T22:57:51.8367113+00:00",
   "RatingHistory": [
@@ -1038,88 +1039,71 @@
     },
     {
       "Time": "2022-09-30T18:31:27.7342395+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": null
+      "Rating": 4.8
     },
     {
       "Time": "2022-10-28T23:01:45.7940776+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": null
+      "Rating": 4.79
     },
     {
       "Time": "2022-10-31T18:02:00.4191901+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": null
+      "Rating": 4.8
     },
     {
       "Time": "2022-11-01T12:31:48.6039282+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": null
+      "Rating": 4.79
     },
     {
       "Time": "2022-11-05T10:31:52.3730772+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": null
+      "Rating": 4.8
     },
     {
       "Time": "2022-11-05T20:02:00.5970707+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": null
+      "Rating": 4.79
     },
     {
       "Time": "2022-11-11T17:08:31.0302264+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": null
+      "Rating": 4.8
     },
     {
       "Time": "2022-11-12T17:03:17.0725494+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": null
+      "Rating": 4.79
     },
     {
       "Time": "2022-11-14T13:38:52.1020883+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": null
+      "Rating": 4.8
     },
     {
       "Time": "2022-11-15T17:57:27.8778141+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": null
+      "Rating": 4.79
     },
     {
       "Time": "2022-11-16T14:57:35.815529+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": null
+      "Rating": 4.8
     },
     {
       "Time": "2022-11-25T13:15:01.4848262+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": null
+      "Rating": 4.79
     },
     {
       "Time": "2022-11-25T19:57:15.6467116+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": null
+      "Rating": 4.8
     },
     {
       "Time": "2022-11-26T17:57:26.0984322+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": null
+      "Rating": 4.79
     },
     {
       "Time": "2022-11-26T20:57:41.50999+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": null
+      "Rating": 4.8
     },
     {
       "Time": "2022-11-26T23:57:13.6661303+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": null
+      "Rating": 4.79
     },
     {
       "Time": "2023-03-16T22:57:51.8367114+00:00",
-      "Rating": 4.78,
-      "NumberOfRatings": null
+      "Rating": 4.78
     }
   ],
   "Tags": [

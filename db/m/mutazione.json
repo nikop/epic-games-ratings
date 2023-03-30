@@ -3,6 +3,7 @@
   "Name": "Mutazione",
   "Rating": 4.63,
   "NumberOfRatings": 63,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:26:44.0004019+00:00",
   "LastChanged": "2023-03-25T13:03:00.729256+00:00",
   "RatingHistory": [
@@ -133,118 +134,95 @@
     },
     {
       "Time": "2022-09-24T13:07:09.9496608+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": null
+      "Rating": 4.66
     },
     {
       "Time": "2022-10-01T22:01:49.0413609+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": null
+      "Rating": 4.67
     },
     {
       "Time": "2022-10-07T22:31:36.5038476+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": null
+      "Rating": 4.66
     },
     {
       "Time": "2022-10-18T23:02:22.4753761+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": null
+      "Rating": 4.65
     },
     {
       "Time": "2022-10-20T23:31:43.3591278+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": null
+      "Rating": 4.66
     },
     {
       "Time": "2022-10-24T23:32:20.3619302+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": null
+      "Rating": 4.65
     },
     {
       "Time": "2022-10-28T16:31:53.4323333+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": null
+      "Rating": 4.66
     },
     {
       "Time": "2022-10-30T16:32:21.3562324+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": null
+      "Rating": 4.65
     },
     {
       "Time": "2022-10-31T16:32:06.2450731+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": null
+      "Rating": 4.66
     },
     {
       "Time": "2022-11-03T22:32:44.5379014+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": null
+      "Rating": 4.65
     },
     {
       "Time": "2022-11-06T22:57:23.1131554+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": null
+      "Rating": 4.63
     },
     {
       "Time": "2022-11-09T22:57:37.7006143+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": null
+      "Rating": 4.64
     },
     {
       "Time": "2022-11-11T22:58:17.3708761+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": null
+      "Rating": 4.65
     },
     {
       "Time": "2022-11-20T23:57:24.3466849+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": null
+      "Rating": 4.63
     },
     {
       "Time": "2022-11-21T23:57:41.3339459+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": null
+      "Rating": 4.64
     },
     {
       "Time": "2022-11-25T23:57:27.1916512+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": null
+      "Rating": 4.63
     },
     {
       "Time": "2022-11-27T23:57:36.8725376+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": null
+      "Rating": 4.64
     },
     {
       "Time": "2022-12-02T23:59:14.0193424+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": null
+      "Rating": 4.62
     },
     {
       "Time": "2022-12-09T02:11:33.89497+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": null
+      "Rating": 4.63
     },
     {
       "Time": "2023-01-12T03:58:52.4253773+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": null
+      "Rating": 4.62
     },
     {
       "Time": "2023-03-08T11:57:51.1517122+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": null
+      "Rating": 4.63
     },
     {
       "Time": "2023-03-23T13:11:21.1081034+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": null
+      "Rating": 4.64
     },
     {
       "Time": "2023-03-25T13:03:00.7292566+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": null
+      "Rating": 4.63
     }
   ],
   "Tags": []

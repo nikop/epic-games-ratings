@@ -3,6 +3,7 @@
   "Name": "Vampire: The Masquerade \u2013 Swansong",
   "Rating": 4.2,
   "NumberOfRatings": 736,
+  "NumberOfAwards": 75,
   "FirstSeen": "2022-07-22T20:19:36.8410904+00:00",
   "LastChanged": "2022-12-29T08:57:07.39216+00:00",
   "RatingHistory": [
@@ -368,63 +369,51 @@
     },
     {
       "Time": "2022-10-29T11:00:43.4993912+00:00",
-      "Rating": 4.19,
-      "NumberOfRatings": null
+      "Rating": 4.19
     },
     {
       "Time": "2022-11-02T08:30:47.3430357+00:00",
-      "Rating": 4.18,
-      "NumberOfRatings": null
+      "Rating": 4.18
     },
     {
       "Time": "2022-11-06T15:57:24.0899555+00:00",
-      "Rating": 4.19,
-      "NumberOfRatings": null
+      "Rating": 4.19
     },
     {
       "Time": "2022-11-10T09:57:08.7061619+00:00",
-      "Rating": 4.18,
-      "NumberOfRatings": null
+      "Rating": 4.18
     },
     {
       "Time": "2022-11-12T11:57:07.8548621+00:00",
-      "Rating": 4.19,
-      "NumberOfRatings": null
+      "Rating": 4.19
     },
     {
       "Time": "2022-11-13T14:57:27.200045+00:00",
-      "Rating": 4.18,
-      "NumberOfRatings": null
+      "Rating": 4.18
     },
     {
       "Time": "2022-11-16T14:57:15.8991503+00:00",
-      "Rating": 4.19,
-      "NumberOfRatings": null
+      "Rating": 4.19
     },
     {
       "Time": "2022-11-18T03:34:46.7658693+00:00",
-      "Rating": 4.18,
-      "NumberOfRatings": null
+      "Rating": 4.18
     },
     {
       "Time": "2022-11-19T03:32:02.5373413+00:00",
-      "Rating": 4.19,
-      "NumberOfRatings": null
+      "Rating": 4.19
     },
     {
       "Time": "2022-12-05T03:57:15.2444902+00:00",
-      "Rating": 4.2,
-      "NumberOfRatings": null
+      "Rating": 4.2
     },
     {
       "Time": "2022-12-22T10:57:16.1392542+00:00",
-      "Rating": 4.19,
-      "NumberOfRatings": null
+      "Rating": 4.19
     },
     {
       "Time": "2022-12-29T08:57:07.3921602+00:00",
-      "Rating": 4.2,
-      "NumberOfRatings": null
+      "Rating": 4.2
     }
   ],
   "Tags": [

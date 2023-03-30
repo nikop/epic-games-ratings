@@ -3,6 +3,7 @@
   "Name": "Submerged",
   "Rating": 4.09,
   "NumberOfRatings": 27,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:27:56.7619059+00:00",
   "FirstSeenRating": "2022-09-05T04:31:47.8805067+00:00",
   "LastChanged": "2023-02-18T02:10:36.5792295+00:00",
@@ -34,28 +35,23 @@
     },
     {
       "Time": "2022-11-05T10:32:26.7676192+00:00",
-      "Rating": 4.07,
-      "NumberOfRatings": null
+      "Rating": 4.07
     },
     {
       "Time": "2022-11-09T10:58:19.4100337+00:00",
-      "Rating": 4.1,
-      "NumberOfRatings": null
+      "Rating": 4.1
     },
     {
       "Time": "2022-11-25T14:58:13.2992541+00:00",
-      "Rating": 4.13,
-      "NumberOfRatings": null
+      "Rating": 4.13
     },
     {
       "Time": "2022-11-27T14:58:06.1624614+00:00",
-      "Rating": 4.16,
-      "NumberOfRatings": null
+      "Rating": 4.16
     },
     {
       "Time": "2023-02-18T02:10:36.5792296+00:00",
-      "Rating": 4.09,
-      "NumberOfRatings": null
+      "Rating": 4.09
     }
   ],
   "Tags": []

@@ -2,49 +2,42 @@
   "ID": "ba50f06379bd4ae18bad48d1b2f950ac",
   "Name": "Lamentum",
   "Rating": 4.37,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:26:03.7136517+00:00",
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "LastChanged": "2022-11-26T15:58:05.7319752+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-04T02:32:44.3620859+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": null
+      "Rating": 4.25
     },
     {
       "Time": "2022-10-06T03:02:18.9429113+00:00",
-      "Rating": 4.29,
-      "NumberOfRatings": null
+      "Rating": 4.29
     },
     {
       "Time": "2022-10-17T05:01:33.1430326+00:00",
-      "Rating": 4.32,
-      "NumberOfRatings": null
+      "Rating": 4.32
     },
     {
       "Time": "2022-10-25T06:32:46.12869+00:00",
-      "Rating": 4.3,
-      "NumberOfRatings": null
+      "Rating": 4.3
     },
     {
       "Time": "2022-10-27T16:31:47.415075+00:00",
-      "Rating": 4.33,
-      "NumberOfRatings": null
+      "Rating": 4.33
     },
     {
       "Time": "2022-10-31T09:01:49.7982199+00:00",
-      "Rating": 4.36,
-      "NumberOfRatings": null
+      "Rating": 4.36
     },
     {
       "Time": "2022-11-19T13:57:35.3439996+00:00",
-      "Rating": 4.35,
-      "NumberOfRatings": null
+      "Rating": 4.35
     },
     {
       "Time": "2022-11-26T15:58:05.7319756+00:00",
-      "Rating": 4.37,
-      "NumberOfRatings": null
+      "Rating": 4.37
     }
   ],
   "Tags": []

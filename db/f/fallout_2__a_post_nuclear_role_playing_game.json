@@ -2,239 +2,194 @@
   "ID": "aae22da1fb884fa395b25bc30dd61faf",
   "Name": "Fallout 2: A Post Nuclear Role Playing Game",
   "Rating": 4.76,
+  "NumberOfAwards": 54,
   "FirstSeen": "2022-10-22T00:03:23.4324557+00:00",
   "FirstSeenRating": "2022-10-31T14:02:48.9261194+00:00",
   "LastChanged": "2023-03-30T16:59:14.7363424+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-31T14:02:48.9261197+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     },
     {
       "Time": "2022-11-01T14:03:32.0442845+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": null
+      "Rating": 4.77
     },
     {
       "Time": "2022-11-02T14:03:34.8875528+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": null
+      "Rating": 4.79
     },
     {
       "Time": "2022-11-04T05:03:41.7478961+00:00",
-      "Rating": 4.81,
-      "NumberOfRatings": null
+      "Rating": 4.81
     },
     {
       "Time": "2022-11-04T14:04:33.8101105+00:00",
-      "Rating": 4.82,
-      "NumberOfRatings": null
+      "Rating": 4.82
     },
     {
       "Time": "2022-11-05T21:02:47.3429582+00:00",
-      "Rating": 4.83,
-      "NumberOfRatings": null
+      "Rating": 4.83
     },
     {
       "Time": "2022-11-11T21:58:47.6555036+00:00",
-      "Rating": 4.84,
-      "NumberOfRatings": null
+      "Rating": 4.84
     },
     {
       "Time": "2022-11-12T21:58:49.5067693+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": null
+      "Rating": 4.86
     },
     {
       "Time": "2022-11-13T02:49:24.8059827+00:00",
-      "Rating": 4.84,
-      "NumberOfRatings": null
+      "Rating": 4.84
     },
     {
       "Time": "2022-11-15T02:41:46.2461269+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": null
+      "Rating": 4.85
     },
     {
       "Time": "2022-11-19T03:33:16.8123834+00:00",
-      "Rating": 4.81,
-      "NumberOfRatings": null
+      "Rating": 4.81
     },
     {
       "Time": "2022-11-27T11:57:50.4725462+00:00",
-      "Rating": 4.82,
-      "NumberOfRatings": null
+      "Rating": 4.82
     },
     {
       "Time": "2022-11-30T17:59:05.8997221+00:00",
-      "Rating": 4.83,
-      "NumberOfRatings": null
+      "Rating": 4.83
     },
     {
       "Time": "2022-12-07T10:58:03.1724517+00:00",
-      "Rating": 4.84,
-      "NumberOfRatings": null
+      "Rating": 4.84
     },
     {
       "Time": "2022-12-24T16:59:25.9472949+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": null
+      "Rating": 4.86
     },
     {
       "Time": "2022-12-25T15:58:50.0291281+00:00",
-      "Rating": 4.81,
-      "NumberOfRatings": null
+      "Rating": 4.81
     },
     {
       "Time": "2022-12-26T15:58:44.2845732+00:00",
-      "Rating": 4.78,
-      "NumberOfRatings": null
+      "Rating": 4.78
     },
     {
       "Time": "2022-12-27T19:58:16.0728529+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": null
+      "Rating": 4.79
     },
     {
       "Time": "2022-12-28T02:04:17.2648554+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": null
+      "Rating": 4.8
     },
     {
       "Time": "2022-12-29T15:58:48.3876464+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     },
     {
       "Time": "2022-12-30T08:58:13.0857367+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     },
     {
       "Time": "2022-12-31T09:58:38.5028418+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     },
     {
       "Time": "2023-01-04T23:58:17.5173664+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": null
+      "Rating": 4.77
     },
     {
       "Time": "2023-01-06T19:58:11.2486582+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     },
     {
       "Time": "2023-01-07T19:58:54.2328084+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     },
     {
       "Time": "2023-01-08T19:58:19.9322248+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": null
+      "Rating": 4.77
     },
     {
       "Time": "2023-01-09T09:58:11.9910769+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     },
     {
       "Time": "2023-01-11T16:13:21.5373422+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     },
     {
       "Time": "2023-01-15T13:06:53.7260927+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": null
+      "Rating": 4.77
     },
     {
       "Time": "2023-01-15T18:58:12.3730217+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     },
     {
       "Time": "2023-01-22T04:58:27.8945457+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": null
+      "Rating": 4.77
     },
     {
       "Time": "2023-01-27T23:58:40.041922+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     },
     {
       "Time": "2023-01-28T23:58:09.9603385+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     },
     {
       "Time": "2023-01-30T22:58:25.5516761+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     },
     {
       "Time": "2023-02-01T19:58:41.6131674+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     },
     {
       "Time": "2023-02-02T19:58:10.1848796+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     },
     {
       "Time": "2023-02-04T19:58:40.5651431+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     },
     {
       "Time": "2023-02-14T17:58:59.9439085+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": null
+      "Rating": 4.77
     },
     {
       "Time": "2023-02-18T08:58:29.6445151+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     },
     {
       "Time": "2023-02-24T15:58:32.4231716+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": null
+      "Rating": 4.77
     },
     {
       "Time": "2023-03-14T11:58:17.2761339+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     },
     {
       "Time": "2023-03-17T11:59:09.1824439+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": null
+      "Rating": 4.77
     },
     {
       "Time": "2023-03-20T09:58:45.254799+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     },
     {
       "Time": "2023-03-27T07:59:15.1572052+00:00",
-      "Rating": 4.77,
-      "NumberOfRatings": null
+      "Rating": 4.77
     },
     {
       "Time": "2023-03-29T17:33:04.9121386+00:00",
-      "Rating": 4.75,
-      "NumberOfRatings": null
+      "Rating": 4.75
     },
     {
       "Time": "2023-03-30T16:59:14.7363428+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     }
   ],
   "Tags": [

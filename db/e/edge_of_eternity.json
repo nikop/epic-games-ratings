@@ -3,6 +3,7 @@
   "Name": "Edge Of Eternity",
   "Rating": 3.74,
   "NumberOfRatings": 22,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:20:46.9216243+00:00",
   "FirstSeenRating": "2022-09-05T18:00:46.7188152+00:00",
   "LastChanged": "2023-02-25T02:13:12.9236246+00:00",
@@ -24,48 +25,39 @@
     },
     {
       "Time": "2022-10-09T18:00:56.1881907+00:00",
-      "Rating": 3.78,
-      "NumberOfRatings": null
+      "Rating": 3.78
     },
     {
       "Time": "2022-10-11T08:30:48.3561474+00:00",
-      "Rating": 3.79,
-      "NumberOfRatings": null
+      "Rating": 3.79
     },
     {
       "Time": "2022-10-22T10:30:56.8997027+00:00",
-      "Rating": 3.8,
-      "NumberOfRatings": null
+      "Rating": 3.8
     },
     {
       "Time": "2022-11-16T09:57:11.5701771+00:00",
-      "Rating": 3.77,
-      "NumberOfRatings": null
+      "Rating": 3.77
     },
     {
       "Time": "2022-11-30T17:00:45.8488217+00:00",
-      "Rating": 3.78,
-      "NumberOfRatings": null
+      "Rating": 3.78
     },
     {
       "Time": "2022-12-09T17:57:27.2379276+00:00",
-      "Rating": 3.75,
-      "NumberOfRatings": null
+      "Rating": 3.75
     },
     {
       "Time": "2022-12-18T18:57:21.6974218+00:00",
-      "Rating": 3.72,
-      "NumberOfRatings": null
+      "Rating": 3.72
     },
     {
       "Time": "2022-12-26T19:57:38.2394476+00:00",
-      "Rating": 3.7,
-      "NumberOfRatings": null
+      "Rating": 3.7
     },
     {
       "Time": "2023-02-25T02:13:12.9236248+00:00",
-      "Rating": 3.74,
-      "NumberOfRatings": null
+      "Rating": 3.74
     }
   ],
   "Tags": []

@@ -3,6 +3,7 @@
   "Name": "Totally Reliable Delivery Service Standard Edition",
   "Rating": 4.44,
   "NumberOfRatings": 112,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:20:09.4036127+00:00",
   "LastChanged": "2023-03-26T22:57:18.4639134+00:00",
   "RatingHistory": [
@@ -188,173 +189,139 @@
     },
     {
       "Time": "2022-09-28T13:01:11.4155795+00:00",
-      "Rating": 4.51,
-      "NumberOfRatings": null
+      "Rating": 4.51
     },
     {
       "Time": "2022-09-29T13:01:26.4770087+00:00",
-      "Rating": 4.52,
-      "NumberOfRatings": null
+      "Rating": 4.52
     },
     {
       "Time": "2022-10-02T20:00:53.3375238+00:00",
-      "Rating": 4.51,
-      "NumberOfRatings": null
+      "Rating": 4.51
     },
     {
       "Time": "2022-10-03T20:01:29.6210839+00:00",
-      "Rating": 4.52,
-      "NumberOfRatings": null
+      "Rating": 4.52
     },
     {
       "Time": "2022-10-04T20:01:18.7397825+00:00",
-      "Rating": 4.51,
-      "NumberOfRatings": null
+      "Rating": 4.51
     },
     {
       "Time": "2022-10-06T20:01:41.0221237+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": null
+      "Rating": 4.49
     },
     {
       "Time": "2022-10-07T20:01:22.8775335+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": null
+      "Rating": 4.48
     },
     {
       "Time": "2022-10-10T20:30:44.4605102+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": null
+      "Rating": 4.49
     },
     {
       "Time": "2022-10-16T18:30:44.2471301+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": null
+      "Rating": 4.48
     },
     {
       "Time": "2022-10-21T19:01:22.6888378+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": null
+      "Rating": 4.49
     },
     {
       "Time": "2022-10-22T19:00:46.277643+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": null
+      "Rating": 4.48
     },
     {
       "Time": "2022-10-23T11:30:48.6293329+00:00",
-      "Rating": 4.49,
-      "NumberOfRatings": null
+      "Rating": 4.49
     },
     {
       "Time": "2022-10-28T20:01:19.7883842+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": null
+      "Rating": 4.46
     },
     {
       "Time": "2022-10-30T20:00:52.5910018+00:00",
-      "Rating": 4.47,
-      "NumberOfRatings": null
+      "Rating": 4.47
     },
     {
       "Time": "2022-11-01T20:00:52.3117161+00:00",
-      "Rating": 4.48,
-      "NumberOfRatings": null
+      "Rating": 4.48
     },
     {
       "Time": "2022-11-02T18:30:56.8409732+00:00",
-      "Rating": 4.45,
-      "NumberOfRatings": null
+      "Rating": 4.45
     },
     {
       "Time": "2022-11-03T18:31:52.3484681+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": null
+      "Rating": 4.46
     },
     {
       "Time": "2022-11-09T02:57:44.5334759+00:00",
-      "Rating": 4.47,
-      "NumberOfRatings": null
+      "Rating": 4.47
     },
     {
       "Time": "2022-11-13T21:57:38.9261161+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": null
+      "Rating": 4.46
     },
     {
       "Time": "2022-11-16T04:59:00.2695604+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": null
+      "Rating": 4.44
     },
     {
       "Time": "2022-11-18T18:57:05.7498164+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     },
     {
       "Time": "2022-11-19T18:57:03.7322118+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": null
+      "Rating": 4.44
     },
     {
       "Time": "2022-12-02T17:57:35.2595717+00:00",
-      "Rating": 4.45,
-      "NumberOfRatings": null
+      "Rating": 4.45
     },
     {
       "Time": "2022-12-04T19:57:00.6747467+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": null
+      "Rating": 4.44
     },
     {
       "Time": "2022-12-08T13:12:56.4321002+00:00",
-      "Rating": 4.43,
-      "NumberOfRatings": null
+      "Rating": 4.43
     },
     {
       "Time": "2022-12-25T18:57:20.1171496+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": null
+      "Rating": 4.44
     },
     {
       "Time": "2023-01-06T16:57:35.1835945+00:00",
-      "Rating": 4.43,
-      "NumberOfRatings": null
+      "Rating": 4.43
     },
     {
       "Time": "2023-01-07T16:57:01.1036675+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": null
+      "Rating": 4.44
     },
     {
       "Time": "2023-01-29T02:11:41.6203064+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     },
     {
       "Time": "2023-02-04T02:56:55.8588888+00:00",
-      "Rating": 4.43,
-      "NumberOfRatings": null
+      "Rating": 4.43
     },
     {
       "Time": "2023-02-11T15:57:24.4112848+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": null
+      "Rating": 4.44
     },
     {
       "Time": "2023-02-13T15:57:13.8250944+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     },
     {
       "Time": "2023-03-02T22:57:32.9515572+00:00",
-      "Rating": 4.43,
-      "NumberOfRatings": null
+      "Rating": 4.43
     },
     {
       "Time": "2023-03-26T22:57:18.4639136+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": null
+      "Rating": 4.44
     }
   ],
   "Tags": []

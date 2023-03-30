@@ -3,6 +3,7 @@
   "Name": "Hammerting",
   "Rating": 4.38,
   "NumberOfRatings": 21,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:26:38.7700421+00:00",
   "FirstSeenRating": "2022-09-17T18:02:30.2695463+00:00",
   "LastChanged": "2023-01-21T17:57:40.2781899+00:00",
@@ -19,78 +20,63 @@
     },
     {
       "Time": "2022-09-27T13:31:50.67017+00:00",
-      "Rating": 4.32,
-      "NumberOfRatings": null
+      "Rating": 4.32
     },
     {
       "Time": "2022-09-29T13:31:38.2598493+00:00",
-      "Rating": 4.35,
-      "NumberOfRatings": null
+      "Rating": 4.35
     },
     {
       "Time": "2022-10-09T12:02:31.001435+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": null
+      "Rating": 4.38
     },
     {
       "Time": "2022-10-24T13:32:10.205512+00:00",
-      "Rating": 4.4,
-      "NumberOfRatings": null
+      "Rating": 4.4
     },
     {
       "Time": "2022-11-04T11:04:57.2532696+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     },
     {
       "Time": "2022-11-04T11:33:58.3600949+00:00",
-      "Rating": 4.4,
-      "NumberOfRatings": null
+      "Rating": 4.4
     },
     {
       "Time": "2022-11-04T22:01:56.8098312+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     },
     {
       "Time": "2022-11-09T23:57:39.5268559+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": null
+      "Rating": 4.44
     },
     {
       "Time": "2022-11-11T02:52:57.8047436+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": null
+      "Rating": 4.38
     },
     {
       "Time": "2022-11-18T02:45:03.4082865+00:00",
-      "Rating": 4.4,
-      "NumberOfRatings": null
+      "Rating": 4.4
     },
     {
       "Time": "2022-11-21T03:41:06.6745379+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     },
     {
       "Time": "2022-12-01T22:58:27.1990113+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": null
+      "Rating": 4.44
     },
     {
       "Time": "2022-12-07T02:16:22.4514407+00:00",
-      "Rating": 4.37,
-      "NumberOfRatings": null
+      "Rating": 4.37
     },
     {
       "Time": "2022-12-08T03:05:24.6192053+00:00",
-      "Rating": 4.36,
-      "NumberOfRatings": null
+      "Rating": 4.36
     },
     {
       "Time": "2023-01-21T17:57:40.27819+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": null
+      "Rating": 4.38
     }
   ],
   "Tags": []

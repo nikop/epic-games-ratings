@@ -3,6 +3,7 @@
   "Name": "Aven Colony",
   "Rating": 4.2,
   "NumberOfRatings": 2200,
+  "NumberOfAwards": 700,
   "FirstSeen": "2022-07-22T20:23:59.6890424+00:00",
   "LastChanged": "2022-11-29T07:57:39.7556846+00:00",
   "RatingHistory": [
@@ -1323,58 +1324,47 @@
     },
     {
       "Time": "2022-09-24T23:01:17.5798803+00:00",
-      "Rating": 4.2,
-      "NumberOfRatings": null
+      "Rating": 4.2
     },
     {
       "Time": "2022-10-07T06:32:15.2768109+00:00",
-      "Rating": 4.21,
-      "NumberOfRatings": null
+      "Rating": 4.21
     },
     {
       "Time": "2022-10-08T15:31:19.0586308+00:00",
-      "Rating": 4.2,
-      "NumberOfRatings": null
+      "Rating": 4.2
     },
     {
       "Time": "2022-10-09T00:31:25.9662704+00:00",
-      "Rating": 4.21,
-      "NumberOfRatings": null
+      "Rating": 4.21
     },
     {
       "Time": "2022-10-10T01:31:29.7838209+00:00",
-      "Rating": 4.2,
-      "NumberOfRatings": null
+      "Rating": 4.2
     },
     {
       "Time": "2022-10-21T11:01:29.0844362+00:00",
-      "Rating": 4.19,
-      "NumberOfRatings": null
+      "Rating": 4.19
     },
     {
       "Time": "2022-10-21T20:01:50.0726767+00:00",
-      "Rating": 4.2,
-      "NumberOfRatings": null
+      "Rating": 4.2
     },
     {
       "Time": "2022-10-23T16:31:28.5928173+00:00",
-      "Rating": 4.19,
-      "NumberOfRatings": null
+      "Rating": 4.19
     },
     {
       "Time": "2022-10-25T00:31:30.6052919+00:00",
-      "Rating": 4.2,
-      "NumberOfRatings": null
+      "Rating": 4.2
     },
     {
       "Time": "2022-11-26T18:57:13.3600724+00:00",
-      "Rating": 4.21,
-      "NumberOfRatings": null
+      "Rating": 4.21
     },
     {
       "Time": "2022-11-29T07:57:39.7556849+00:00",
-      "Rating": 4.2,
-      "NumberOfRatings": null
+      "Rating": 4.2
     }
   ],
   "Tags": [

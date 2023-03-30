@@ -3,6 +3,7 @@
   "Name": "Oddworld Soulstorm",
   "Rating": 4.72,
   "NumberOfRatings": 72,
+  "NumberOfAwards": 38,
   "FirstSeen": "2022-07-22T20:32:54.3777281+00:00",
   "LastChanged": "2023-01-22T08:58:01.5007054+00:00",
   "RatingHistory": [
@@ -158,88 +159,71 @@
     },
     {
       "Time": "2022-09-28T16:03:02.6630751+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2022-09-30T11:03:19.8781505+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     },
     {
       "Time": "2022-10-05T17:02:50.5016777+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": null
+      "Rating": 4.71
     },
     {
       "Time": "2022-10-11T18:32:31.5076055+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": null
+      "Rating": 4.72
     },
     {
       "Time": "2022-10-16T06:35:07.0328446+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": null
+      "Rating": 4.73
     },
     {
       "Time": "2022-10-17T07:03:15.8576238+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": null
+      "Rating": 4.72
     },
     {
       "Time": "2022-10-21T19:32:44.5314012+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": null
+      "Rating": 4.71
     },
     {
       "Time": "2022-10-23T03:02:35.1490055+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": null
+      "Rating": 4.72
     },
     {
       "Time": "2022-11-01T18:03:46.594079+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": null
+      "Rating": 4.71
     },
     {
       "Time": "2022-11-02T18:03:20.1828648+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": null
+      "Rating": 4.72
     },
     {
       "Time": "2022-11-07T18:58:28.2909044+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": null
+      "Rating": 4.73
     },
     {
       "Time": "2022-11-16T19:58:02.8451783+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": null
+      "Rating": 4.74
     },
     {
       "Time": "2022-11-19T19:58:58.8825098+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": null
+      "Rating": 4.73
     },
     {
       "Time": "2022-11-29T23:58:28.6559833+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": null
+      "Rating": 4.74
     },
     {
       "Time": "2022-12-10T16:58:51.5883013+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": null
+      "Rating": 4.72
     },
     {
       "Time": "2023-01-16T07:58:01.8424767+00:00",
-      "Rating": 4.73,
-      "NumberOfRatings": null
+      "Rating": 4.73
     },
     {
       "Time": "2023-01-22T08:58:01.5007055+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": null
+      "Rating": 4.72
     }
   ],
   "Tags": [

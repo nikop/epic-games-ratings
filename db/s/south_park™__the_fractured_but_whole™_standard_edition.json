@@ -3,6 +3,7 @@
   "Name": "South Park\u2122: The Fractured But Whole\u2122 Standard Edition",
   "Rating": 4.84,
   "NumberOfRatings": 162,
+  "NumberOfAwards": 82,
   "FirstSeen": "2022-07-22T20:17:01.7638488+00:00",
   "LastChanged": "2023-03-20T21:56:58.1503227+00:00",
   "RatingHistory": [
@@ -228,118 +229,95 @@
     },
     {
       "Time": "2022-09-28T02:31:16.951758+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": null
+      "Rating": 4.8
     },
     {
       "Time": "2022-10-06T21:01:04.916767+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": null
+      "Rating": 4.79
     },
     {
       "Time": "2022-10-12T02:30:15.3239874+00:00",
-      "Rating": 4.78,
-      "NumberOfRatings": null
+      "Rating": 4.78
     },
     {
       "Time": "2022-10-23T05:30:32.3140526+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": null
+      "Rating": 4.79
     },
     {
       "Time": "2022-10-28T22:00:19.4851755+00:00",
-      "Rating": 4.78,
-      "NumberOfRatings": null
+      "Rating": 4.78
     },
     {
       "Time": "2022-10-30T22:00:33.0290204+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": null
+      "Rating": 4.79
     },
     {
       "Time": "2022-11-09T11:56:51.3161524+00:00",
-      "Rating": 4.78,
-      "NumberOfRatings": null
+      "Rating": 4.78
     },
     {
       "Time": "2022-11-10T11:56:52.9010734+00:00",
-      "Rating": 4.79,
-      "NumberOfRatings": null
+      "Rating": 4.79
     },
     {
       "Time": "2022-11-21T21:56:57.5307874+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": null
+      "Rating": 4.8
     },
     {
       "Time": "2022-12-18T17:57:00.5721982+00:00",
-      "Rating": 4.81,
-      "NumberOfRatings": null
+      "Rating": 4.81
     },
     {
       "Time": "2022-12-28T23:56:56.1957977+00:00",
-      "Rating": 4.82,
-      "NumberOfRatings": null
+      "Rating": 4.82
     },
     {
       "Time": "2023-01-09T02:05:57.5484643+00:00",
-      "Rating": 4.81,
-      "NumberOfRatings": null
+      "Rating": 4.81
     },
     {
       "Time": "2023-01-12T06:57:13.5644451+00:00",
-      "Rating": 4.82,
-      "NumberOfRatings": null
+      "Rating": 4.82
     },
     {
       "Time": "2023-01-21T03:56:55.629687+00:00",
-      "Rating": 4.81,
-      "NumberOfRatings": null
+      "Rating": 4.81
     },
     {
       "Time": "2023-01-31T04:57:03.82743+00:00",
-      "Rating": 4.82,
-      "NumberOfRatings": null
+      "Rating": 4.82
     },
     {
       "Time": "2023-02-05T04:57:03.2737004+00:00",
-      "Rating": 4.81,
-      "NumberOfRatings": null
+      "Rating": 4.81
     },
     {
       "Time": "2023-02-27T05:56:53.89964+00:00",
-      "Rating": 4.82,
-      "NumberOfRatings": null
+      "Rating": 4.82
     },
     {
       "Time": "2023-03-01T05:56:48.1710904+00:00",
-      "Rating": 4.81,
-      "NumberOfRatings": null
+      "Rating": 4.81
     },
     {
       "Time": "2023-03-02T05:57:00.4811905+00:00",
-      "Rating": 4.82,
-      "NumberOfRatings": null
+      "Rating": 4.82
     },
     {
       "Time": "2023-03-04T10:56:47.2431713+00:00",
-      "Rating": 4.83,
-      "NumberOfRatings": null
+      "Rating": 4.83
     },
     {
       "Time": "2023-03-07T10:56:54.0836657+00:00",
-      "Rating": 4.82,
-      "NumberOfRatings": null
+      "Rating": 4.82
     },
     {
       "Time": "2023-03-09T10:57:10.6907794+00:00",
-      "Rating": 4.83,
-      "NumberOfRatings": null
+      "Rating": 4.83
     },
     {
       "Time": "2023-03-20T21:56:58.1503228+00:00",
-      "Rating": 4.84,
-      "NumberOfRatings": null
+      "Rating": 4.84
     }
   ],
   "Tags": [

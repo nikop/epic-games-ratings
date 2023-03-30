@@ -3,6 +3,7 @@
   "Name": "The Banner Saga Epic Trilogy",
   "Rating": 4.63,
   "NumberOfRatings": 20,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:25:15.6569997+00:00",
   "FirstSeenRating": "2022-09-23T09:02:16.9087013+00:00",
   "LastChanged": "2023-03-30T16:58:10.2823665+00:00",
@@ -14,78 +15,63 @@
     },
     {
       "Time": "2022-09-24T13:06:57.5801657+00:00",
-      "Rating": 4.52,
-      "NumberOfRatings": null
+      "Rating": 4.52
     },
     {
       "Time": "2022-10-13T01:01:31.2062324+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": null
+      "Rating": 4.55
     },
     {
       "Time": "2022-10-15T01:01:41.7706211+00:00",
-      "Rating": 4.57,
-      "NumberOfRatings": null
+      "Rating": 4.57
     },
     {
       "Time": "2022-10-24T21:31:47.0394742+00:00",
-      "Rating": 4.58,
-      "NumberOfRatings": null
+      "Rating": 4.58
     },
     {
       "Time": "2022-10-30T22:01:43.562597+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": null
+      "Rating": 4.6
     },
     {
       "Time": "2022-11-05T20:02:09.4359232+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": null
+      "Rating": 4.62
     },
     {
       "Time": "2022-11-14T20:57:38.6974439+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": null
+      "Rating": 4.63
     },
     {
       "Time": "2022-11-17T20:57:40.8770648+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": null
+      "Rating": 4.61
     },
     {
       "Time": "2022-11-28T22:57:32.4242983+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": null
+      "Rating": 4.62
     },
     {
       "Time": "2022-11-30T22:57:46.5425015+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": null
+      "Rating": 4.63
     },
     {
       "Time": "2022-12-04T22:57:32.3849412+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": null
+      "Rating": 4.65
     },
     {
       "Time": "2022-12-25T02:06:45.5317911+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": null
+      "Rating": 4.66
     },
     {
       "Time": "2023-02-07T09:57:49.3361932+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": null
+      "Rating": 4.61
     },
     {
       "Time": "2023-02-18T10:58:19.0662233+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": null
+      "Rating": 4.62
     },
     {
       "Time": "2023-03-30T16:58:10.2823668+00:00",
-      "Rating": 4.63,
-      "NumberOfRatings": null
+      "Rating": 4.63
     }
   ],
   "Tags": []

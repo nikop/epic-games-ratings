@@ -3,6 +3,7 @@
   "Name": "Souldiers",
   "Rating": 4.54,
   "NumberOfRatings": 63,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:19:33.8920547+00:00",
   "LastChanged": "2023-02-02T05:57:27.5936893+00:00",
   "RatingHistory": [
@@ -38,23 +39,19 @@
     },
     {
       "Time": "2022-10-25T03:00:43.3259597+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": null
+      "Rating": 4.55
     },
     {
       "Time": "2023-01-22T02:10:20.4272223+00:00",
-      "Rating": 4.52,
-      "NumberOfRatings": null
+      "Rating": 4.52
     },
     {
       "Time": "2023-01-26T03:56:53.6019877+00:00",
-      "Rating": 4.53,
-      "NumberOfRatings": null
+      "Rating": 4.53
     },
     {
       "Time": "2023-02-02T05:57:27.5936895+00:00",
-      "Rating": 4.54,
-      "NumberOfRatings": null
+      "Rating": 4.54
     }
   ],
   "Tags": []

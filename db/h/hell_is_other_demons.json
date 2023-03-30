@@ -3,6 +3,7 @@
   "Name": "Hell is other demons",
   "Rating": 4.64,
   "NumberOfRatings": 317,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:20:36.4695159+00:00",
   "LastChanged": "2023-03-28T13:12:09.8927081+00:00",
   "RatingHistory": [
@@ -338,73 +339,59 @@
     },
     {
       "Time": "2022-09-24T13:06:18.8084498+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2022-10-04T15:01:35.5612222+00:00",
-      "Rating": 4.68,
-      "NumberOfRatings": null
+      "Rating": 4.68
     },
     {
       "Time": "2022-10-10T16:01:20.5558061+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2022-10-15T09:31:15.0256394+00:00",
-      "Rating": 4.68,
-      "NumberOfRatings": null
+      "Rating": 4.68
     },
     {
       "Time": "2022-10-31T22:01:31.2016729+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": null
+      "Rating": 4.67
     },
     {
       "Time": "2022-11-12T13:17:53.3182823+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": null
+      "Rating": 4.66
     },
     {
       "Time": "2022-11-18T15:57:31.3003881+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": null
+      "Rating": 4.65
     },
     {
       "Time": "2022-11-20T15:58:20.5938506+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": null
+      "Rating": 4.66
     },
     {
       "Time": "2022-11-21T15:57:26.2986898+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": null
+      "Rating": 4.65
     },
     {
       "Time": "2022-12-06T16:57:39.0501918+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": null
+      "Rating": 4.64
     },
     {
       "Time": "2023-01-31T21:57:18.9333954+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": null
+      "Rating": 4.65
     },
     {
       "Time": "2023-03-20T11:57:19.3835746+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": null
+      "Rating": 4.64
     },
     {
       "Time": "2023-03-23T11:57:50.4148434+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": null
+      "Rating": 4.65
     },
     {
       "Time": "2023-03-28T13:12:09.8927109+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": null
+      "Rating": 4.64
     }
   ],
   "Tags": []

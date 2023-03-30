@@ -3,6 +3,7 @@
   "Name": "Gods Will Fall",
   "Rating": 3.97,
   "NumberOfRatings": 228,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:20:39.1659104+00:00",
   "LastChanged": "2023-03-16T08:57:17.3163627+00:00",
   "RatingHistory": [
@@ -288,143 +289,115 @@
     },
     {
       "Time": "2022-09-26T14:00:49.8867822+00:00",
-      "Rating": 3.87,
-      "NumberOfRatings": null
+      "Rating": 3.87
     },
     {
       "Time": "2022-09-28T14:00:47.9739466+00:00",
-      "Rating": 3.88,
-      "NumberOfRatings": null
+      "Rating": 3.88
     },
     {
       "Time": "2022-10-05T06:00:52.1779929+00:00",
-      "Rating": 3.89,
-      "NumberOfRatings": null
+      "Rating": 3.89
     },
     {
       "Time": "2022-10-06T18:30:58.9492919+00:00",
-      "Rating": 3.9,
-      "NumberOfRatings": null
+      "Rating": 3.9
     },
     {
       "Time": "2022-10-07T18:30:46.7911072+00:00",
-      "Rating": 3.91,
-      "NumberOfRatings": null
+      "Rating": 3.91
     },
     {
       "Time": "2022-10-11T02:00:46.2843385+00:00",
-      "Rating": 3.92,
-      "NumberOfRatings": null
+      "Rating": 3.92
     },
     {
       "Time": "2022-10-20T08:30:52.9538664+00:00",
-      "Rating": 3.91,
-      "NumberOfRatings": null
+      "Rating": 3.91
     },
     {
       "Time": "2022-10-21T08:30:50.6666567+00:00",
-      "Rating": 3.92,
-      "NumberOfRatings": null
+      "Rating": 3.92
     },
     {
       "Time": "2022-10-23T03:00:51.830572+00:00",
-      "Rating": 3.9,
-      "NumberOfRatings": null
+      "Rating": 3.9
     },
     {
       "Time": "2022-10-24T09:01:26.8785575+00:00",
-      "Rating": 3.91,
-      "NumberOfRatings": null
+      "Rating": 3.91
     },
     {
       "Time": "2022-10-24T23:01:44.5785451+00:00",
-      "Rating": 3.9,
-      "NumberOfRatings": null
+      "Rating": 3.9
     },
     {
       "Time": "2022-10-26T10:01:10.4833018+00:00",
-      "Rating": 3.89,
-      "NumberOfRatings": null
+      "Rating": 3.89
     },
     {
       "Time": "2022-10-30T19:00:51.1991831+00:00",
-      "Rating": 3.88,
-      "NumberOfRatings": null
+      "Rating": 3.88
     },
     {
       "Time": "2022-11-03T15:34:04.4289247+00:00",
-      "Rating": 3.89,
-      "NumberOfRatings": null
+      "Rating": 3.89
     },
     {
       "Time": "2022-11-07T17:15:10.2112432+00:00",
-      "Rating": 3.9,
-      "NumberOfRatings": null
+      "Rating": 3.9
     },
     {
       "Time": "2022-11-08T17:15:17.8843399+00:00",
-      "Rating": 3.91,
-      "NumberOfRatings": null
+      "Rating": 3.91
     },
     {
       "Time": "2022-11-22T14:57:28.7138705+00:00",
-      "Rating": 3.92,
-      "NumberOfRatings": null
+      "Rating": 3.92
     },
     {
       "Time": "2022-11-28T23:57:15.5127178+00:00",
-      "Rating": 3.93,
-      "NumberOfRatings": null
+      "Rating": 3.93
     },
     {
       "Time": "2022-12-01T21:57:15.9483497+00:00",
-      "Rating": 3.94,
-      "NumberOfRatings": null
+      "Rating": 3.94
     },
     {
       "Time": "2022-12-04T17:57:16.9991174+00:00",
-      "Rating": 3.93,
-      "NumberOfRatings": null
+      "Rating": 3.93
     },
     {
       "Time": "2022-12-09T18:57:37.2359148+00:00",
-      "Rating": 3.94,
-      "NumberOfRatings": null
+      "Rating": 3.94
     },
     {
       "Time": "2022-12-31T18:57:18.9814596+00:00",
-      "Rating": 3.95,
-      "NumberOfRatings": null
+      "Rating": 3.95
     },
     {
       "Time": "2023-01-08T18:57:08.018919+00:00",
-      "Rating": 3.94,
-      "NumberOfRatings": null
+      "Rating": 3.94
     },
     {
       "Time": "2023-01-27T13:10:38.2718097+00:00",
-      "Rating": 3.95,
-      "NumberOfRatings": null
+      "Rating": 3.95
     },
     {
       "Time": "2023-02-10T13:57:59.724108+00:00",
-      "Rating": 3.96,
-      "NumberOfRatings": null
+      "Rating": 3.96
     },
     {
       "Time": "2023-02-22T13:57:17.4867902+00:00",
-      "Rating": 3.97,
-      "NumberOfRatings": null
+      "Rating": 3.97
     },
     {
       "Time": "2023-03-05T13:57:31.0817797+00:00",
-      "Rating": 3.96,
-      "NumberOfRatings": null
+      "Rating": 3.96
     },
     {
       "Time": "2023-03-16T08:57:17.3163633+00:00",
-      "Rating": 3.97,
-      "NumberOfRatings": null
+      "Rating": 3.97
     }
   ],
   "Tags": []

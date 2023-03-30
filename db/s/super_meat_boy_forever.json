@@ -3,6 +3,7 @@
   "Name": "Super Meat Boy Forever",
   "Rating": 4.71,
   "NumberOfRatings": 24,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:24:25.4664791+00:00",
   "FirstSeenRating": "2022-09-02T12:31:23.1316509+00:00",
   "LastChanged": "2023-01-31T11:57:55.0271054+00:00",
@@ -34,73 +35,59 @@
     },
     {
       "Time": "2022-09-25T16:31:19.3837816+00:00",
-      "Rating": 4.84,
-      "NumberOfRatings": null
+      "Rating": 4.84
     },
     {
       "Time": "2022-10-06T17:31:55.8085491+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": null
+      "Rating": 4.85
     },
     {
       "Time": "2022-10-23T02:01:24.8017356+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": null
+      "Rating": 4.86
     },
     {
       "Time": "2022-10-26T02:01:50.3088613+00:00",
-      "Rating": 4.8,
-      "NumberOfRatings": null
+      "Rating": 4.8
     },
     {
       "Time": "2022-10-29T16:31:31.7719129+00:00",
-      "Rating": 4.81,
-      "NumberOfRatings": null
+      "Rating": 4.81
     },
     {
       "Time": "2022-11-02T16:31:46.8307736+00:00",
-      "Rating": 4.78,
-      "NumberOfRatings": null
+      "Rating": 4.78
     },
     {
       "Time": "2022-11-05T15:01:35.6505567+00:00",
-      "Rating": 4.76,
-      "NumberOfRatings": null
+      "Rating": 4.76
     },
     {
       "Time": "2022-11-26T17:57:27.0490613+00:00",
-      "Rating": 4.74,
-      "NumberOfRatings": null
+      "Rating": 4.74
     },
     {
       "Time": "2022-11-28T17:57:46.2815681+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2022-11-29T10:57:25.4957074+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     },
     {
       "Time": "2022-12-02T10:57:59.6488372+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": null
+      "Rating": 4.71
     },
     {
       "Time": "2022-12-16T07:57:45.8602988+00:00",
-      "Rating": 4.72,
-      "NumberOfRatings": null
+      "Rating": 4.72
     },
     {
       "Time": "2023-01-09T09:57:29.5899608+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     },
     {
       "Time": "2023-01-31T11:57:55.0271056+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": null
+      "Rating": 4.71
     }
   ],
   "Tags": []

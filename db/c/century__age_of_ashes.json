@@ -3,6 +3,7 @@
   "Name": "Century: Age of Ashes",
   "Rating": 4.42,
   "NumberOfRatings": 1747,
+  "NumberOfAwards": 562,
   "FirstSeen": "2022-07-22T20:17:28.564577+00:00",
   "LastChanged": "2023-01-28T22:57:03.6583837+00:00",
   "RatingHistory": [
@@ -1018,83 +1019,67 @@
     },
     {
       "Time": "2022-09-25T04:30:24.0143187+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": null
+      "Rating": 4.41
     },
     {
       "Time": "2022-11-04T19:00:33.904843+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     },
     {
       "Time": "2022-12-08T20:57:09.1940522+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": null
+      "Rating": 4.41
     },
     {
       "Time": "2022-12-15T13:57:31.7642234+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     },
     {
       "Time": "2022-12-31T08:57:00.8620258+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": null
+      "Rating": 4.41
     },
     {
       "Time": "2023-01-02T13:57:05.4275554+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     },
     {
       "Time": "2023-01-10T09:57:05.5050428+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": null
+      "Rating": 4.41
     },
     {
       "Time": "2023-01-10T10:56:54.8828881+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     },
     {
       "Time": "2023-01-13T03:02:24.658959+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": null
+      "Rating": 4.41
     },
     {
       "Time": "2023-01-15T03:00:57.2451711+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     },
     {
       "Time": "2023-01-17T13:57:07.8057754+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": null
+      "Rating": 4.41
     },
     {
       "Time": "2023-01-18T13:11:01.512231+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     },
     {
       "Time": "2023-01-19T13:12:41.1904076+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": null
+      "Rating": 4.41
     },
     {
       "Time": "2023-01-21T16:57:01.7121737+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     },
     {
       "Time": "2023-01-22T16:57:15.7163655+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": null
+      "Rating": 4.41
     },
     {
       "Time": "2023-01-28T22:57:03.6583887+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     }
   ],
   "Tags": [
@@ -1108,7 +1093,7 @@
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 56
+      "Count": 57
     },
     {
       "Text": "This game is Extremely Fun",

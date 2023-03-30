@@ -3,6 +3,7 @@
   "Name": "Othercide",
   "Rating": 4.4,
   "NumberOfRatings": 40,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:25:43.6994898+00:00",
   "LastChanged": "2023-03-03T15:58:04.5404961+00:00",
   "RatingHistory": [
@@ -93,83 +94,67 @@
     },
     {
       "Time": "2022-09-27T09:32:13.0479149+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": null
+      "Rating": 4.44
     },
     {
       "Time": "2022-09-30T14:32:59.8801774+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": null
+      "Rating": 4.46
     },
     {
       "Time": "2022-10-01T14:31:50.0656663+00:00",
-      "Rating": 4.43,
-      "NumberOfRatings": null
+      "Rating": 4.43
     },
     {
       "Time": "2022-10-03T14:01:32.8990869+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": null
+      "Rating": 4.41
     },
     {
       "Time": "2022-10-04T08:31:28.7719055+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     },
     {
       "Time": "2022-10-23T08:01:46.3125494+00:00",
-      "Rating": 4.39,
-      "NumberOfRatings": null
+      "Rating": 4.39
     },
     {
       "Time": "2022-10-24T08:02:38.5355192+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": null
+      "Rating": 4.41
     },
     {
       "Time": "2022-10-25T08:32:00.2515807+00:00",
-      "Rating": 4.4,
-      "NumberOfRatings": null
+      "Rating": 4.4
     },
     {
       "Time": "2022-10-26T08:32:32.7856821+00:00",
-      "Rating": 4.39,
-      "NumberOfRatings": null
+      "Rating": 4.39
     },
     {
       "Time": "2022-10-30T04:31:35.6127257+00:00",
-      "Rating": 4.33,
-      "NumberOfRatings": null
+      "Rating": 4.33
     },
     {
       "Time": "2022-11-09T07:02:57.9283641+00:00",
-      "Rating": 4.34,
-      "NumberOfRatings": null
+      "Rating": 4.34
     },
     {
       "Time": "2022-11-16T07:58:11.3821225+00:00",
-      "Rating": 4.35,
-      "NumberOfRatings": null
+      "Rating": 4.35
     },
     {
       "Time": "2022-11-25T21:57:44.423513+00:00",
-      "Rating": 4.37,
-      "NumberOfRatings": null
+      "Rating": 4.37
     },
     {
       "Time": "2022-12-18T03:57:50.8723307+00:00",
-      "Rating": 4.38,
-      "NumberOfRatings": null
+      "Rating": 4.38
     },
     {
       "Time": "2023-02-09T13:15:20.2180458+00:00",
-      "Rating": 4.39,
-      "NumberOfRatings": null
+      "Rating": 4.39
     },
     {
       "Time": "2023-03-03T15:58:04.5404963+00:00",
-      "Rating": 4.4,
-      "NumberOfRatings": null
+      "Rating": 4.4
     }
   ],
   "Tags": []

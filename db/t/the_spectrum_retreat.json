@@ -3,6 +3,7 @@
   "Name": "The Spectrum Retreat",
   "Rating": 4.25,
   "NumberOfRatings": 230,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:22:27.9603268+00:00",
   "LastChanged": "2023-01-22T10:57:34.3821793+00:00",
   "RatingHistory": [
@@ -288,128 +289,103 @@
     },
     {
       "Time": "2022-09-28T05:31:44.2175809+00:00",
-      "Rating": 4.31,
-      "NumberOfRatings": null
+      "Rating": 4.31
     },
     {
       "Time": "2022-09-30T05:31:00.2911246+00:00",
-      "Rating": 4.32,
-      "NumberOfRatings": null
+      "Rating": 4.32
     },
     {
       "Time": "2022-10-04T16:02:01.4272071+00:00",
-      "Rating": 4.31,
-      "NumberOfRatings": null
+      "Rating": 4.31
     },
     {
       "Time": "2022-10-06T16:01:21.3961275+00:00",
-      "Rating": 4.32,
-      "NumberOfRatings": null
+      "Rating": 4.32
     },
     {
       "Time": "2022-10-07T16:01:06.7516549+00:00",
-      "Rating": 4.31,
-      "NumberOfRatings": null
+      "Rating": 4.31
     },
     {
       "Time": "2022-10-12T19:31:09.7716453+00:00",
-      "Rating": 4.3,
-      "NumberOfRatings": null
+      "Rating": 4.3
     },
     {
       "Time": "2022-10-14T19:31:09.174462+00:00",
-      "Rating": 4.31,
-      "NumberOfRatings": null
+      "Rating": 4.31
     },
     {
       "Time": "2022-10-19T19:31:09.9694901+00:00",
-      "Rating": 4.3,
-      "NumberOfRatings": null
+      "Rating": 4.3
     },
     {
       "Time": "2022-10-20T19:31:05.9232291+00:00",
-      "Rating": 4.29,
-      "NumberOfRatings": null
+      "Rating": 4.29
     },
     {
       "Time": "2022-10-22T20:01:10.6625569+00:00",
-      "Rating": 4.3,
-      "NumberOfRatings": null
+      "Rating": 4.3
     },
     {
       "Time": "2022-10-27T20:01:09.1081144+00:00",
-      "Rating": 4.31,
-      "NumberOfRatings": null
+      "Rating": 4.31
     },
     {
       "Time": "2022-10-30T20:01:12.2975118+00:00",
-      "Rating": 4.3,
-      "NumberOfRatings": null
+      "Rating": 4.3
     },
     {
       "Time": "2022-11-01T20:01:13.5012515+00:00",
-      "Rating": 4.29,
-      "NumberOfRatings": null
+      "Rating": 4.29
     },
     {
       "Time": "2022-11-08T20:57:27.0177026+00:00",
-      "Rating": 4.28,
-      "NumberOfRatings": null
+      "Rating": 4.28
     },
     {
       "Time": "2022-11-14T18:58:35.0088675+00:00",
-      "Rating": 4.27,
-      "NumberOfRatings": null
+      "Rating": 4.27
     },
     {
       "Time": "2022-11-15T18:57:25.3720541+00:00",
-      "Rating": 4.28,
-      "NumberOfRatings": null
+      "Rating": 4.28
     },
     {
       "Time": "2022-11-17T17:04:39.1457578+00:00",
-      "Rating": 4.27,
-      "NumberOfRatings": null
+      "Rating": 4.27
     },
     {
       "Time": "2022-11-19T17:00:27.6413263+00:00",
-      "Rating": 4.26,
-      "NumberOfRatings": null
+      "Rating": 4.26
     },
     {
       "Time": "2022-11-23T17:01:18.2042003+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": null
+      "Rating": 4.25
     },
     {
       "Time": "2022-12-04T09:57:46.5498572+00:00",
-      "Rating": 4.26,
-      "NumberOfRatings": null
+      "Rating": 4.26
     },
     {
       "Time": "2022-12-05T09:57:46.6649678+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": null
+      "Rating": 4.25
     },
     {
       "Time": "2022-12-16T09:57:31.8850035+00:00",
-      "Rating": 4.26,
-      "NumberOfRatings": null
+      "Rating": 4.26
     },
     {
       "Time": "2022-12-23T09:57:40.7547461+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": null
+      "Rating": 4.25
     },
     {
       "Time": "2023-01-21T10:57:13.4822972+00:00",
-      "Rating": 4.26,
-      "NumberOfRatings": null
+      "Rating": 4.26
     },
     {
       "Time": "2023-01-22T10:57:34.38218+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": null
+      "Rating": 4.25
     }
   ],
   "Tags": []

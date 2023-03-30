@@ -3,6 +3,7 @@
   "Name": "Strange Horticulture",
   "Rating": 4.71,
   "NumberOfRatings": 34,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:19:11.8440363+00:00",
   "LastChanged": "2022-12-04T14:57:16.209462+00:00",
   "RatingHistory": [
@@ -78,38 +79,31 @@
     },
     {
       "Time": "2022-09-29T00:33:02.6315039+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": null
+      "Rating": 4.66
     },
     {
       "Time": "2022-10-04T01:00:42.1400323+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": null
+      "Rating": 4.67
     },
     {
       "Time": "2022-10-07T01:30:39.1835285+00:00",
-      "Rating": 4.68,
-      "NumberOfRatings": null
+      "Rating": 4.68
     },
     {
       "Time": "2022-10-19T02:30:37.8013865+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": null
+      "Rating": 4.67
     },
     {
       "Time": "2022-10-22T02:31:45.5284107+00:00",
-      "Rating": 4.68,
-      "NumberOfRatings": null
+      "Rating": 4.68
     },
     {
       "Time": "2022-11-11T17:57:07.2988405+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     },
     {
       "Time": "2022-12-04T14:57:16.2094621+00:00",
-      "Rating": 4.71,
-      "NumberOfRatings": null
+      "Rating": 4.71
     }
   ],
   "Tags": []

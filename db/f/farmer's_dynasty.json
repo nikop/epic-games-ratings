@@ -3,6 +3,7 @@
   "Name": "Farmer\u0027s Dynasty",
   "Rating": 4.19,
   "NumberOfRatings": 64,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:23:48.9867279+00:00",
   "LastChanged": "2023-02-24T23:57:45.6182829+00:00",
   "RatingHistory": [
@@ -148,118 +149,95 @@
     },
     {
       "Time": "2022-09-30T06:31:13.1342041+00:00",
-      "Rating": 4.02,
-      "NumberOfRatings": null
+      "Rating": 4.02
     },
     {
       "Time": "2022-10-06T01:31:29.2016577+00:00",
-      "Rating": 4.03,
-      "NumberOfRatings": null
+      "Rating": 4.03
     },
     {
       "Time": "2022-10-07T01:31:24.6224169+00:00",
-      "Rating": 4,
-      "NumberOfRatings": null
+      "Rating": 4
     },
     {
       "Time": "2022-10-10T03:01:43.7627652+00:00",
-      "Rating": 4.03,
-      "NumberOfRatings": null
+      "Rating": 4.03
     },
     {
       "Time": "2022-10-11T03:31:46.5932494+00:00",
-      "Rating": 4.04,
-      "NumberOfRatings": null
+      "Rating": 4.04
     },
     {
       "Time": "2022-10-20T05:01:29.7251336+00:00",
-      "Rating": 4.01,
-      "NumberOfRatings": null
+      "Rating": 4.01
     },
     {
       "Time": "2022-10-22T05:01:23.4808695+00:00",
-      "Rating": 4.03,
-      "NumberOfRatings": null
+      "Rating": 4.03
     },
     {
       "Time": "2022-10-30T07:31:32.4561547+00:00",
-      "Rating": 4.04,
-      "NumberOfRatings": null
+      "Rating": 4.04
     },
     {
       "Time": "2022-10-30T15:01:25.3976083+00:00",
-      "Rating": 4.05,
-      "NumberOfRatings": null
+      "Rating": 4.05
     },
     {
       "Time": "2022-10-31T15:01:33.6545298+00:00",
-      "Rating": 4.06,
-      "NumberOfRatings": null
+      "Rating": 4.06
     },
     {
       "Time": "2022-11-04T16:32:17.5691417+00:00",
-      "Rating": 4.08,
-      "NumberOfRatings": null
+      "Rating": 4.08
     },
     {
       "Time": "2022-11-10T17:09:51.3004817+00:00",
-      "Rating": 4.09,
-      "NumberOfRatings": null
+      "Rating": 4.09
     },
     {
       "Time": "2022-11-11T17:08:29.0931556+00:00",
-      "Rating": 4.1,
-      "NumberOfRatings": null
+      "Rating": 4.1
     },
     {
       "Time": "2022-11-15T13:57:55.8113036+00:00",
-      "Rating": 4.11,
-      "NumberOfRatings": null
+      "Rating": 4.11
     },
     {
       "Time": "2022-11-18T17:58:03.3642299+00:00",
-      "Rating": 4.12,
-      "NumberOfRatings": null
+      "Rating": 4.12
     },
     {
       "Time": "2022-11-24T18:58:02.5017878+00:00",
-      "Rating": 4.13,
-      "NumberOfRatings": null
+      "Rating": 4.13
     },
     {
       "Time": "2022-11-28T13:16:11.6162084+00:00",
-      "Rating": 4.14,
-      "NumberOfRatings": null
+      "Rating": 4.14
     },
     {
       "Time": "2022-11-30T17:57:56.739497+00:00",
-      "Rating": 4.15,
-      "NumberOfRatings": null
+      "Rating": 4.15
     },
     {
       "Time": "2022-12-02T17:58:13.6963013+00:00",
-      "Rating": 4.14,
-      "NumberOfRatings": null
+      "Rating": 4.14
     },
     {
       "Time": "2022-12-23T19:57:42.7205345+00:00",
-      "Rating": 4.15,
-      "NumberOfRatings": null
+      "Rating": 4.15
     },
     {
       "Time": "2022-12-30T19:57:33.9558618+00:00",
-      "Rating": 4.16,
-      "NumberOfRatings": null
+      "Rating": 4.16
     },
     {
       "Time": "2023-01-07T20:57:40.65946+00:00",
-      "Rating": 4.18,
-      "NumberOfRatings": null
+      "Rating": 4.18
     },
     {
       "Time": "2023-02-24T23:57:45.6182831+00:00",
-      "Rating": 4.19,
-      "NumberOfRatings": null
+      "Rating": 4.19
     }
   ],
   "Tags": []

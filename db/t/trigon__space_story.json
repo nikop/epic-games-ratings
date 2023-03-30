@@ -3,6 +3,7 @@
   "Name": "Trigon: Space Story",
   "Rating": 4.27,
   "NumberOfRatings": 38,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:18:03.1653519+00:00",
   "LastChanged": "2023-03-04T03:57:02.5866303+00:00",
   "RatingHistory": [
@@ -68,63 +69,51 @@
     },
     {
       "Time": "2022-09-24T15:00:30.2243257+00:00",
-      "Rating": 4.15,
-      "NumberOfRatings": null
+      "Rating": 4.15
     },
     {
       "Time": "2022-09-25T15:00:32.1154928+00:00",
-      "Rating": 4.18,
-      "NumberOfRatings": null
+      "Rating": 4.18
     },
     {
       "Time": "2022-09-28T16:01:01.7991666+00:00",
-      "Rating": 4.2,
-      "NumberOfRatings": null
+      "Rating": 4.2
     },
     {
       "Time": "2022-10-04T12:30:28.4449139+00:00",
-      "Rating": 4.21,
-      "NumberOfRatings": null
+      "Rating": 4.21
     },
     {
       "Time": "2022-10-07T12:30:27.8424692+00:00",
-      "Rating": 4.23,
-      "NumberOfRatings": null
+      "Rating": 4.23
     },
     {
       "Time": "2022-10-22T15:30:31.1480594+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": null
+      "Rating": 4.25
     },
     {
       "Time": "2022-11-01T16:00:41.4244331+00:00",
-      "Rating": 4.22,
-      "NumberOfRatings": null
+      "Rating": 4.22
     },
     {
       "Time": "2022-11-02T16:00:55.6807629+00:00",
-      "Rating": 4.23,
-      "NumberOfRatings": null
+      "Rating": 4.23
     },
     {
       "Time": "2022-12-02T13:11:23.0398054+00:00",
-      "Rating": 4.22,
-      "NumberOfRatings": null
+      "Rating": 4.22
     },
     {
       "Time": "2022-12-27T15:57:00.186878+00:00",
-      "Rating": 4.24,
-      "NumberOfRatings": null
+      "Rating": 4.24
     },
     {
       "Time": "2023-02-25T02:12:56.656461+00:00",
-      "Rating": 4.25,
-      "NumberOfRatings": null
+      "Rating": 4.25
     },
     {
       "Time": "2023-03-04T03:57:02.5866305+00:00",
-      "Rating": 4.27,
-      "NumberOfRatings": null
+      "Rating": 4.27
     }
   ],
   "Tags": []

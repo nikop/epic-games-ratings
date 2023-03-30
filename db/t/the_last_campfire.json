@@ -3,6 +3,7 @@
   "Name": "The Last Campfire",
   "Rating": 4.83,
   "NumberOfRatings": 42,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:21:43.218901+00:00",
   "LastChanged": "2023-03-24T10:57:47.4552282+00:00",
   "RatingHistory": [
@@ -98,53 +99,43 @@
     },
     {
       "Time": "2022-09-28T16:31:55.0541152+00:00",
-      "Rating": 4.87,
-      "NumberOfRatings": null
+      "Rating": 4.87
     },
     {
       "Time": "2022-10-11T17:31:39.7540172+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": null
+      "Rating": 4.86
     },
     {
       "Time": "2022-10-30T19:01:00.8003258+00:00",
-      "Rating": 4.84,
-      "NumberOfRatings": null
+      "Rating": 4.84
     },
     {
       "Time": "2022-11-16T20:58:00.1460174+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": null
+      "Rating": 4.85
     },
     {
       "Time": "2022-11-24T21:57:24.4144398+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": null
+      "Rating": 4.86
     },
     {
       "Time": "2022-12-03T21:58:55.0195044+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": null
+      "Rating": 4.85
     },
     {
       "Time": "2022-12-22T23:57:24.043165+00:00",
-      "Rating": 4.83,
-      "NumberOfRatings": null
+      "Rating": 4.83
     },
     {
       "Time": "2022-12-30T02:05:15.2690983+00:00",
-      "Rating": 4.84,
-      "NumberOfRatings": null
+      "Rating": 4.84
     },
     {
       "Time": "2023-02-20T06:57:21.0590571+00:00",
-      "Rating": 4.82,
-      "NumberOfRatings": null
+      "Rating": 4.82
     },
     {
       "Time": "2023-03-24T10:57:47.4552284+00:00",
-      "Rating": 4.83,
-      "NumberOfRatings": null
+      "Rating": 4.83
     }
   ],
   "Tags": []

@@ -3,6 +3,7 @@
   "Name": "Deponia: The Complete Journey",
   "Rating": 4.61,
   "NumberOfRatings": 777,
+  "NumberOfAwards": 271,
   "FirstSeen": "2022-07-22T20:29:58.1804178+00:00",
   "LastChanged": "2023-01-26T02:08:15.2403372+00:00",
   "RatingHistory": [
@@ -513,43 +514,35 @@
     },
     {
       "Time": "2022-09-24T13:07:34.6635412+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": null
+      "Rating": 4.62
     },
     {
       "Time": "2022-11-27T13:58:40.0488196+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": null
+      "Rating": 4.61
     },
     {
       "Time": "2022-11-28T13:58:25.8480018+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": null
+      "Rating": 4.62
     },
     {
       "Time": "2022-12-08T08:58:11.3032402+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": null
+      "Rating": 4.61
     },
     {
       "Time": "2022-12-09T13:58:16.2863286+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": null
+      "Rating": 4.62
     },
     {
       "Time": "2023-01-06T23:58:22.3784624+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": null
+      "Rating": 4.61
     },
     {
       "Time": "2023-01-08T02:13:00.3060799+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": null
+      "Rating": 4.62
     },
     {
       "Time": "2023-01-26T02:08:15.2403373+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": null
+      "Rating": 4.61
     }
   ],
   "Tags": [

@@ -3,6 +3,7 @@
   "Name": "Black Book",
   "Rating": 4.87,
   "NumberOfRatings": 96,
+  "NumberOfAwards": 21,
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "LastChanged": "2023-01-25T20:57:07.1663705+00:00",
   "RatingHistory": [
@@ -183,43 +184,35 @@
     },
     {
       "Time": "2022-09-25T20:30:51.777006+00:00",
-      "Rating": 4.88,
-      "NumberOfRatings": null
+      "Rating": 4.88
     },
     {
       "Time": "2022-10-02T21:31:42.3817608+00:00",
-      "Rating": 4.87,
-      "NumberOfRatings": null
+      "Rating": 4.87
     },
     {
       "Time": "2022-10-05T19:00:42.7468664+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": null
+      "Rating": 4.86
     },
     {
       "Time": "2022-10-06T18:30:45.3060127+00:00",
-      "Rating": 4.87,
-      "NumberOfRatings": null
+      "Rating": 4.87
     },
     {
       "Time": "2022-10-14T18:01:27.1811685+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": null
+      "Rating": 4.86
     },
     {
       "Time": "2022-10-23T17:00:36.9226536+00:00",
-      "Rating": 4.87,
-      "NumberOfRatings": null
+      "Rating": 4.87
     },
     {
       "Time": "2022-11-12T17:02:45.9192488+00:00",
-      "Rating": 4.88,
-      "NumberOfRatings": null
+      "Rating": 4.88
     },
     {
       "Time": "2023-01-25T20:57:07.1663706+00:00",
-      "Rating": 4.87,
-      "NumberOfRatings": null
+      "Rating": 4.87
     }
   ],
   "Tags": [

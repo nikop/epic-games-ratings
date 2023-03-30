@@ -3,6 +3,7 @@
   "Name": "Good Company",
   "Rating": 4.42,
   "NumberOfRatings": 75,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "LastChanged": "2023-03-03T09:58:52.9457217+00:00",
   "RatingHistory": [
@@ -108,58 +109,47 @@
     },
     {
       "Time": "2022-10-04T17:01:59.9884061+00:00",
-      "Rating": 4.46,
-      "NumberOfRatings": null
+      "Rating": 4.46
     },
     {
       "Time": "2022-10-12T17:01:53.8536844+00:00",
-      "Rating": 4.45,
-      "NumberOfRatings": null
+      "Rating": 4.45
     },
     {
       "Time": "2022-10-16T21:01:47.4437623+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": null
+      "Rating": 4.41
     },
     {
       "Time": "2022-10-18T20:31:48.961714+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     },
     {
       "Time": "2022-11-12T22:58:26.2513079+00:00",
-      "Rating": 4.43,
-      "NumberOfRatings": null
+      "Rating": 4.43
     },
     {
       "Time": "2022-12-01T15:58:24.9875552+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": null
+      "Rating": 4.44
     },
     {
       "Time": "2022-12-02T16:58:23.0347398+00:00",
-      "Rating": 4.45,
-      "NumberOfRatings": null
+      "Rating": 4.45
     },
     {
       "Time": "2022-12-22T22:58:33.5916912+00:00",
-      "Rating": 4.44,
-      "NumberOfRatings": null
+      "Rating": 4.44
     },
     {
       "Time": "2023-01-03T19:58:46.2237255+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     },
     {
       "Time": "2023-01-07T20:58:04.8595756+00:00",
-      "Rating": 4.41,
-      "NumberOfRatings": null
+      "Rating": 4.41
     },
     {
       "Time": "2023-03-03T09:58:52.9457219+00:00",
-      "Rating": 4.42,
-      "NumberOfRatings": null
+      "Rating": 4.42
     }
   ],
   "Tags": []

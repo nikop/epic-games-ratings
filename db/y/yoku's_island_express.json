@@ -3,6 +3,7 @@
   "Name": "Yoku\u0027s Island Express",
   "Rating": 4.69,
   "NumberOfRatings": 354,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:32:47.6965849+00:00",
   "LastChanged": "2022-12-07T22:58:53.6037769+00:00",
   "RatingHistory": [
@@ -368,68 +369,55 @@
     },
     {
       "Time": "2022-09-28T19:32:47.5486387+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2022-10-06T17:33:04.3948823+00:00",
-      "Rating": 4.68,
-      "NumberOfRatings": null
+      "Rating": 4.68
     },
     {
       "Time": "2022-10-10T17:02:30.4525+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2022-10-11T17:02:28.8504643+00:00",
-      "Rating": 4.68,
-      "NumberOfRatings": null
+      "Rating": 4.68
     },
     {
       "Time": "2022-10-14T20:03:41.1111847+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2022-10-15T20:07:01.2422775+00:00",
-      "Rating": 4.68,
-      "NumberOfRatings": null
+      "Rating": 4.68
     },
     {
       "Time": "2022-10-18T01:02:35.0512414+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": null
+      "Rating": 4.67
     },
     {
       "Time": "2022-10-18T22:03:40.5066872+00:00",
-      "Rating": 4.68,
-      "NumberOfRatings": null
+      "Rating": 4.68
     },
     {
       "Time": "2022-10-30T15:33:27.6119087+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2022-11-10T04:26:19.7382252+00:00",
-      "Rating": 4.68,
-      "NumberOfRatings": null
+      "Rating": 4.68
     },
     {
       "Time": "2022-12-06T04:58:20.4145065+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2022-12-07T05:59:02.1067977+00:00",
-      "Rating": 4.68,
-      "NumberOfRatings": null
+      "Rating": 4.68
     },
     {
       "Time": "2022-12-07T22:58:53.6037772+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     }
   ],
   "Tags": []

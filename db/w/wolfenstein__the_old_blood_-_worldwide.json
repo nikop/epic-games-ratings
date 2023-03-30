@@ -3,6 +3,7 @@
   "Name": "Wolfenstein: The Old Blood - Worldwide",
   "Rating": 4.6,
   "NumberOfRatings": 290,
+  "NumberOfAwards": 83,
   "FirstSeen": "2022-07-22T20:31:51.0594067+00:00",
   "LastChanged": "2022-12-07T16:58:40.271236+00:00",
   "RatingHistory": [
@@ -338,53 +339,43 @@
     },
     {
       "Time": "2022-09-29T12:32:13.6427582+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": null
+      "Rating": 4.61
     },
     {
       "Time": "2022-10-22T08:32:31.8349825+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": null
+      "Rating": 4.6
     },
     {
       "Time": "2022-10-22T23:32:39.4665693+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": null
+      "Rating": 4.61
     },
     {
       "Time": "2022-10-27T16:32:36.420503+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": null
+      "Rating": 4.62
     },
     {
       "Time": "2022-10-28T16:32:36.0896746+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": null
+      "Rating": 4.61
     },
     {
       "Time": "2022-10-29T16:32:39.0817074+00:00",
-      "Rating": 4.62,
-      "NumberOfRatings": null
+      "Rating": 4.62
     },
     {
       "Time": "2022-11-02T18:32:49.2540235+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": null
+      "Rating": 4.61
     },
     {
       "Time": "2022-12-01T17:01:27.9360808+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": null
+      "Rating": 4.6
     },
     {
       "Time": "2022-12-05T16:58:16.0181813+00:00",
-      "Rating": 4.61,
-      "NumberOfRatings": null
+      "Rating": 4.61
     },
     {
       "Time": "2022-12-07T16:58:40.2712363+00:00",
-      "Rating": 4.6,
-      "NumberOfRatings": null
+      "Rating": 4.6
     }
   ],
   "Tags": [

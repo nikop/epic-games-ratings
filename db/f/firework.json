@@ -2,34 +2,30 @@
   "ID": "a8b6c2950faf4656afaf8840bab559db",
   "Name": "Firework",
   "Rating": 4.89,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:26:13.2669751+00:00",
   "FirstSeenRating": "2022-09-28T03:32:11.0204001+00:00",
   "LastChanged": "2022-12-06T19:57:47.6546935+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-28T03:32:11.0204007+00:00",
-      "Rating": 4.85,
-      "NumberOfRatings": null
+      "Rating": 4.85
     },
     {
       "Time": "2022-10-16T07:03:25.0874247+00:00",
-      "Rating": 4.86,
-      "NumberOfRatings": null
+      "Rating": 4.86
     },
     {
       "Time": "2022-10-24T08:32:19.2172563+00:00",
-      "Rating": 4.87,
-      "NumberOfRatings": null
+      "Rating": 4.87
     },
     {
       "Time": "2022-11-04T10:34:09.2374447+00:00",
-      "Rating": 4.88,
-      "NumberOfRatings": null
+      "Rating": 4.88
     },
     {
       "Time": "2022-12-06T19:57:47.6546936+00:00",
-      "Rating": 4.89,
-      "NumberOfRatings": null
+      "Rating": 4.89
     }
   ],
   "Tags": []

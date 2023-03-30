@@ -2,114 +2,94 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "Rating": 4.17,
+  "NumberOfAwards": 0,
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "LastChanged": "2023-03-29T10:58:33.3880928+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-24T19:57:59.6714906+00:00",
-      "Rating": 4,
-      "NumberOfRatings": null
+      "Rating": 4
     },
     {
       "Time": "2023-02-25T19:58:00.1785007+00:00",
-      "Rating": 3.89,
-      "NumberOfRatings": null
+      "Rating": 3.89
     },
     {
       "Time": "2023-02-26T21:57:57.1535518+00:00",
-      "Rating": 3.86,
-      "NumberOfRatings": null
+      "Rating": 3.86
     },
     {
       "Time": "2023-02-27T21:57:59.2235157+00:00",
-      "Rating": 3.97,
-      "NumberOfRatings": null
+      "Rating": 3.97
     },
     {
       "Time": "2023-03-01T10:58:25.9216028+00:00",
-      "Rating": 4,
-      "NumberOfRatings": null
+      "Rating": 4
     },
     {
       "Time": "2023-03-01T23:58:48.5774856+00:00",
-      "Rating": 4.12,
-      "NumberOfRatings": null
+      "Rating": 4.12
     },
     {
       "Time": "2023-03-03T02:22:07.8631032+00:00",
-      "Rating": 4.11,
-      "NumberOfRatings": null
+      "Rating": 4.11
     },
     {
       "Time": "2023-03-04T02:11:44.4544689+00:00",
-      "Rating": 4.15,
-      "NumberOfRatings": null
+      "Rating": 4.15
     },
     {
       "Time": "2023-03-06T22:58:11.3772847+00:00",
-      "Rating": 4.16,
-      "NumberOfRatings": null
+      "Rating": 4.16
     },
     {
       "Time": "2023-03-08T23:58:19.9359963+00:00",
-      "Rating": 4.12,
-      "NumberOfRatings": null
+      "Rating": 4.12
     },
     {
       "Time": "2023-03-11T22:58:44.7427181+00:00",
-      "Rating": 4.13,
-      "NumberOfRatings": null
+      "Rating": 4.13
     },
     {
       "Time": "2023-03-13T10:58:28.2937653+00:00",
-      "Rating": 4.15,
-      "NumberOfRatings": null
+      "Rating": 4.15
     },
     {
       "Time": "2023-03-14T09:58:44.2745746+00:00",
-      "Rating": 4.13,
-      "NumberOfRatings": null
+      "Rating": 4.13
     },
     {
       "Time": "2023-03-16T09:58:05.0567483+00:00",
-      "Rating": 4.09,
-      "NumberOfRatings": null
+      "Rating": 4.09
     },
     {
       "Time": "2023-03-17T09:57:58.6926371+00:00",
-      "Rating": 4.12,
-      "NumberOfRatings": null
+      "Rating": 4.12
     },
     {
       "Time": "2023-03-19T09:58:05.6041369+00:00",
-      "Rating": 4.13,
-      "NumberOfRatings": null
+      "Rating": 4.13
     },
     {
       "Time": "2023-03-19T23:58:36.6920517+00:00",
-      "Rating": 4.11,
-      "NumberOfRatings": null
+      "Rating": 4.11
     },
     {
       "Time": "2023-03-22T04:58:19.5898021+00:00",
-      "Rating": 4.12,
-      "NumberOfRatings": null
+      "Rating": 4.12
     },
     {
       "Time": "2023-03-23T04:58:30.3739347+00:00",
-      "Rating": 4.13,
-      "NumberOfRatings": null
+      "Rating": 4.13
     },
     {
       "Time": "2023-03-26T10:57:58.2289865+00:00",
-      "Rating": 4.16,
-      "NumberOfRatings": null
+      "Rating": 4.16
     },
     {
       "Time": "2023-03-29T10:58:33.388093+00:00",
-      "Rating": 4.17,
-      "NumberOfRatings": null
+      "Rating": 4.17
     }
   ],
   "Tags": []

@@ -3,6 +3,7 @@
   "Name": "Vampyr",
   "Rating": 4.32,
   "NumberOfRatings": 5106,
+  "NumberOfAwards": 733,
   "FirstSeen": "2022-07-22T20:29:20.3532845+00:00",
   "LastChanged": "2022-12-22T13:57:53.0957203+00:00",
   "RatingHistory": [
@@ -1063,58 +1064,47 @@
     },
     {
       "Time": "2022-11-10T18:59:01.2706223+00:00",
-      "Rating": 4.32,
-      "NumberOfRatings": null
+      "Rating": 4.32
     },
     {
       "Time": "2022-11-11T17:57:56.4786694+00:00",
-      "Rating": 4.31,
-      "NumberOfRatings": null
+      "Rating": 4.31
     },
     {
       "Time": "2022-11-13T19:00:05.9182998+00:00",
-      "Rating": 4.32,
-      "NumberOfRatings": null
+      "Rating": 4.32
     },
     {
       "Time": "2022-11-18T13:58:13.6520684+00:00",
-      "Rating": 4.31,
-      "NumberOfRatings": null
+      "Rating": 4.31
     },
     {
       "Time": "2022-11-18T18:57:45.369131+00:00",
-      "Rating": 4.32,
-      "NumberOfRatings": null
+      "Rating": 4.32
     },
     {
       "Time": "2022-11-27T06:58:20.790174+00:00",
-      "Rating": 4.31,
-      "NumberOfRatings": null
+      "Rating": 4.31
     },
     {
       "Time": "2022-11-27T22:57:59.1313504+00:00",
-      "Rating": 4.32,
-      "NumberOfRatings": null
+      "Rating": 4.32
     },
     {
       "Time": "2022-11-28T16:00:27.5391628+00:00",
-      "Rating": 4.31,
-      "NumberOfRatings": null
+      "Rating": 4.31
     },
     {
       "Time": "2022-11-29T22:57:53.6261051+00:00",
-      "Rating": 4.32,
-      "NumberOfRatings": null
+      "Rating": 4.32
     },
     {
       "Time": "2022-11-30T07:58:11.483746+00:00",
-      "Rating": 4.31,
-      "NumberOfRatings": null
+      "Rating": 4.31
     },
     {
       "Time": "2022-12-22T13:57:53.0957204+00:00",
-      "Rating": 4.32,
-      "NumberOfRatings": null
+      "Rating": 4.32
     }
   ],
   "Tags": [

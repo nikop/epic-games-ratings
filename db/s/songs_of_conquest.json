@@ -3,6 +3,7 @@
   "Name": "Songs of Conquest",
   "Rating": 4.7,
   "NumberOfRatings": 292,
+  "NumberOfAwards": 191,
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "LastChanged": "2023-03-23T20:57:56.5643776+00:00",
   "RatingHistory": [
@@ -268,48 +269,39 @@
     },
     {
       "Time": "2022-10-02T11:31:08.2202835+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     },
     {
       "Time": "2022-10-07T17:31:10.1883581+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2022-10-20T21:31:07.9417838+00:00",
-      "Rating": 4.68,
-      "NumberOfRatings": null
+      "Rating": 4.68
     },
     {
       "Time": "2022-10-22T05:01:14.6392182+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2022-10-27T05:31:13.8430153+00:00",
-      "Rating": 4.68,
-      "NumberOfRatings": null
+      "Rating": 4.68
     },
     {
       "Time": "2022-10-29T15:01:26.4489246+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2022-12-07T16:58:01.7500418+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     },
     {
       "Time": "2023-01-16T08:57:33.1606259+00:00",
-      "Rating": 4.69,
-      "NumberOfRatings": null
+      "Rating": 4.69
     },
     {
       "Time": "2023-03-23T20:57:56.5643778+00:00",
-      "Rating": 4.7,
-      "NumberOfRatings": null
+      "Rating": 4.7
     }
   ],
   "Tags": [

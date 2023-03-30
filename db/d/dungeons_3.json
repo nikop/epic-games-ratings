@@ -3,6 +3,7 @@
   "Name": "Dungeons 3",
   "Rating": 4.65,
   "NumberOfRatings": 1635,
+  "NumberOfAwards": 2471,
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "LastChanged": "2022-12-24T02:57:14.0492651+00:00",
   "RatingHistory": [
@@ -1593,63 +1594,51 @@
     },
     {
       "Time": "2022-09-24T22:30:19.0440534+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": null
+      "Rating": 4.66
     },
     {
       "Time": "2022-09-25T00:30:18.8810998+00:00",
-      "Rating": 4.67,
-      "NumberOfRatings": null
+      "Rating": 4.67
     },
     {
       "Time": "2022-09-25T18:00:21.6471183+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": null
+      "Rating": 4.66
     },
     {
       "Time": "2022-10-03T18:01:16.1721707+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": null
+      "Rating": 4.65
     },
     {
       "Time": "2022-10-04T14:00:18.7483815+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": null
+      "Rating": 4.66
     },
     {
       "Time": "2022-10-07T03:30:27.9384355+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": null
+      "Rating": 4.65
     },
     {
       "Time": "2022-10-07T07:30:53.4686964+00:00",
-      "Rating": 4.66,
-      "NumberOfRatings": null
+      "Rating": 4.66
     },
     {
       "Time": "2022-10-07T15:30:16.0605772+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": null
+      "Rating": 4.65
     },
     {
       "Time": "2022-11-25T18:57:05.598004+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": null
+      "Rating": 4.64
     },
     {
       "Time": "2022-11-26T04:56:44.5539912+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": null
+      "Rating": 4.65
     },
     {
       "Time": "2022-11-26T15:56:59.4353503+00:00",
-      "Rating": 4.64,
-      "NumberOfRatings": null
+      "Rating": 4.64
     },
     {
       "Time": "2022-12-24T02:57:14.0492652+00:00",
-      "Rating": 4.65,
-      "NumberOfRatings": null
+      "Rating": 4.65
     }
   ],
   "Tags": [

@@ -3,6 +3,7 @@
   "Name": "VALORANT",
   "Rating": 4.54,
   "NumberOfRatings": 157172,
+  "NumberOfAwards": 359876,
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
   "LastChanged": "2022-12-26T02:05:44.6781572+00:00",
   "RatingHistory": [
@@ -3263,8 +3264,7 @@
     },
     {
       "Time": "2022-12-26T02:05:44.6781574+00:00",
-      "Rating": 4.54,
-      "NumberOfRatings": null
+      "Rating": 4.54
     }
   ],
   "Tags": [

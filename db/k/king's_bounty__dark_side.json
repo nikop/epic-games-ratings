@@ -3,6 +3,7 @@
   "Name": "King\u0027s Bounty: Dark Side",
   "Rating": 4.35,
   "NumberOfRatings": 40,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:22:44.5387804+00:00",
   "LastChanged": "2022-12-05T19:57:54.5443378+00:00",
   "RatingHistory": [
@@ -68,48 +69,39 @@
     },
     {
       "Time": "2022-10-08T23:01:12.7536742+00:00",
-      "Rating": 4.39,
-      "NumberOfRatings": null
+      "Rating": 4.39
     },
     {
       "Time": "2022-10-17T00:01:04.9920334+00:00",
-      "Rating": 4.4,
-      "NumberOfRatings": null
+      "Rating": 4.4
     },
     {
       "Time": "2022-10-19T00:01:09.927516+00:00",
-      "Rating": 4.35,
-      "NumberOfRatings": null
+      "Rating": 4.35
     },
     {
       "Time": "2022-10-26T19:01:20.5302526+00:00",
-      "Rating": 4.34,
-      "NumberOfRatings": null
+      "Rating": 4.34
     },
     {
       "Time": "2022-11-03T11:31:56.6752439+00:00",
-      "Rating": 4.36,
-      "NumberOfRatings": null
+      "Rating": 4.36
     },
     {
       "Time": "2022-11-29T18:57:24.6009254+00:00",
-      "Rating": 4.35,
-      "NumberOfRatings": null
+      "Rating": 4.35
     },
     {
       "Time": "2022-12-02T18:58:00.7761044+00:00",
-      "Rating": 4.32,
-      "NumberOfRatings": null
+      "Rating": 4.32
     },
     {
       "Time": "2022-12-04T19:57:12.3685651+00:00",
-      "Rating": 4.33,
-      "NumberOfRatings": null
+      "Rating": 4.33
     },
     {
       "Time": "2022-12-05T19:57:54.5443383+00:00",
-      "Rating": 4.35,
-      "NumberOfRatings": null
+      "Rating": 4.35
     }
   ],
   "Tags": []

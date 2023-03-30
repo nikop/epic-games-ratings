@@ -3,6 +3,7 @@
   "Name": "Osiris: New Dawn",
   "Rating": 3.78,
   "NumberOfRatings": 106,
+  "NumberOfAwards": 0,
   "FirstSeen": "2022-07-22T20:30:53.5869447+00:00",
   "LastChanged": "2023-03-11T06:58:30.4332229+00:00",
   "RatingHistory": [
@@ -173,88 +174,71 @@
     },
     {
       "Time": "2022-09-24T16:32:54.6507252+00:00",
-      "Rating": 3.79,
-      "NumberOfRatings": null
+      "Rating": 3.79
     },
     {
       "Time": "2022-09-27T16:33:22.3386579+00:00",
-      "Rating": 3.8,
-      "NumberOfRatings": null
+      "Rating": 3.8
     },
     {
       "Time": "2022-10-08T17:02:59.1514814+00:00",
-      "Rating": 3.78,
-      "NumberOfRatings": null
+      "Rating": 3.78
     },
     {
       "Time": "2022-10-12T12:02:21.5428836+00:00",
-      "Rating": 3.79,
-      "NumberOfRatings": null
+      "Rating": 3.79
     },
     {
       "Time": "2022-10-14T12:03:11.4527452+00:00",
-      "Rating": 3.77,
-      "NumberOfRatings": null
+      "Rating": 3.77
     },
     {
       "Time": "2022-10-23T09:02:23.8658673+00:00",
-      "Rating": 3.76,
-      "NumberOfRatings": null
+      "Rating": 3.76
     },
     {
       "Time": "2022-11-02T09:33:12.8953534+00:00",
-      "Rating": 3.75,
-      "NumberOfRatings": null
+      "Rating": 3.75
     },
     {
       "Time": "2022-11-12T23:58:01.4417844+00:00",
-      "Rating": 3.74,
-      "NumberOfRatings": null
+      "Rating": 3.74
     },
     {
       "Time": "2022-11-20T17:01:16.0544032+00:00",
-      "Rating": 3.73,
-      "NumberOfRatings": null
+      "Rating": 3.73
     },
     {
       "Time": "2022-11-27T19:58:54.1459879+00:00",
-      "Rating": 3.76,
-      "NumberOfRatings": null
+      "Rating": 3.76
     },
     {
       "Time": "2022-11-28T19:58:09.1548848+00:00",
-      "Rating": 3.78,
-      "NumberOfRatings": null
+      "Rating": 3.78
     },
     {
       "Time": "2022-12-01T13:24:26.9559153+00:00",
-      "Rating": 3.8,
-      "NumberOfRatings": null
+      "Rating": 3.8
     },
     {
       "Time": "2022-12-05T19:59:03.0341257+00:00",
-      "Rating": 3.79,
-      "NumberOfRatings": null
+      "Rating": 3.79
     },
     {
       "Time": "2022-12-08T19:58:17.2784014+00:00",
-      "Rating": 3.8,
-      "NumberOfRatings": null
+      "Rating": 3.8
     },
     {
       "Time": "2023-02-03T03:58:04.0444264+00:00",
-      "Rating": 3.78,
-      "NumberOfRatings": null
+      "Rating": 3.78
     },
     {
       "Time": "2023-02-06T03:58:07.8710428+00:00",
-      "Rating": 3.77,
-      "NumberOfRatings": null
+      "Rating": 3.77
     },
     {
       "Time": "2023-03-11T06:58:30.4332231+00:00",
-      "Rating": 3.78,
-      "NumberOfRatings": null
+      "Rating": 3.78
     }
   ],
   "Tags": []

@@ -3,6 +3,7 @@
   "Name": "Phoenix Point: Complete Edition",
   "Rating": 4.56,
   "NumberOfRatings": 2121,
+  "NumberOfAwards": 7061,
   "FirstSeen": "2022-07-22T20:17:48.4306383+00:00",
   "LastChanged": "2022-12-09T21:56:49.5633+00:00",
   "RatingHistory": [
@@ -2103,58 +2104,47 @@
     },
     {
       "Time": "2022-10-24T22:30:27.888404+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": null
+      "Rating": 4.56
     },
     {
       "Time": "2022-10-26T16:31:29.6869638+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": null
+      "Rating": 4.55
     },
     {
       "Time": "2022-10-26T17:31:24.6970701+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": null
+      "Rating": 4.56
     },
     {
       "Time": "2022-11-02T16:00:53.2826588+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": null
+      "Rating": 4.55
     },
     {
       "Time": "2022-12-01T19:56:59.3706646+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": null
+      "Rating": 4.56
     },
     {
       "Time": "2022-12-04T03:57:08.311443+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": null
+      "Rating": 4.55
     },
     {
       "Time": "2022-12-04T08:57:01.3416567+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": null
+      "Rating": 4.56
     },
     {
       "Time": "2022-12-04T10:57:08.0541665+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": null
+      "Rating": 4.55
     },
     {
       "Time": "2022-12-06T16:57:24.4644254+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": null
+      "Rating": 4.56
     },
     {
       "Time": "2022-12-08T22:57:11.7594785+00:00",
-      "Rating": 4.55,
-      "NumberOfRatings": null
+      "Rating": 4.55
     },
     {
       "Time": "2022-12-09T21:56:49.5633002+00:00",
-      "Rating": 4.56,
-      "NumberOfRatings": null
+      "Rating": 4.56
     }
   ],
   "Tags": [
