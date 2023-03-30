@@ -10,7 +10,7 @@ Rating: 4.69 (3,949)  (as of 23.09.2022)
 | This game is Relaxing | 335 |
 | This game has Diverse Characters | 331 |
 | This game is Highly Recommended | 325 |
-| This game has Amazing Characters | 321 |
+| This game has Amazing Characters | 322 |
 | This game has Quickly Understood Controls | 320 |
 | This game has Obsessive Gameplay | 198 |
 | This game has a Creative Community | 169 |

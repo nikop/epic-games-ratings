@@ -9,7 +9,7 @@ Rating: 4.70 (7,683)  (as of 23.09.2022)
 | This game has Quickly Understood Controls | 3,742 |
 | This game is Extremely Fun | 3,590 |
 | This game is Highly Recommended | 3,526 |
-| This game has Amazing Storytelling | 3,463 |
+| This game has Amazing Storytelling | 3,465 |
 | This game has Diverse Characters | 3,429 |
 | This game has Amazing Characters | 3,073 |
 | This game has a Creative Community | 2,867 |

@@ -3,10 +3,10 @@ Rating: 4.17 (-)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 2,059 |
+| This game has Great Boss Battles | 2,065 |
 | This game is Extremely Fun | 173 |
+| This game has Quickly Understood Controls | 172 |
 | This game is Relaxing | 172 |
-| This game has Quickly Understood Controls | 171 |
 | This game has Diverse Characters | 170 |
 | This game has Amazing Characters | 169 |
 | This game is Highly Recommended | 168 |

@@ -2,8 +2,8 @@
   "ID": "d2d162953fec40e381867d7af8371362",
   "Name": "Honkai Impact 3rd",
   "Rating": 4.49,
-  "NumberOfAwards": 6300,
-  "NumberOfAwardsMax": 1983,
+  "NumberOfAwards": 6315,
+  "NumberOfAwardsMax": 1995,
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
   "LastChanged": "2023-03-23T03:57:13.7918109+00:00",
@@ -256,7 +256,7 @@
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
-      "Count": 1983
+      "Count": 1995
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -284,7 +284,7 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 272
+      "Count": 275
     },
     {
       "Text": "This game is Great for Beginners",

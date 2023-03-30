@@ -3,7 +3,7 @@ Rating: 4.49 (-)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 1,983 |
+| This game has Inclusive Character Customization | 1,995 |
 | This game has Great Boss Battles | 1,433 |
 | This game is Great for Quick Sessions | 330 |
 | This game has Diverse Characters | 318 |
@@ -11,7 +11,7 @@ Rating: 4.49 (-)  (as of 23.09.2022)
 | This game is Highly Recommended | 296 |
 | This game has Amazing Characters | 291 |
 | This game has Beautiful Visuals | 287 |
-| This game is Extremely Fun | 272 |
+| This game is Extremely Fun | 275 |
 | This game has Quickly Understood Controls | 271 |
 | This game has Amazing Storytelling | 258 |
 | This game is Relaxing | 253 |

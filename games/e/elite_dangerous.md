@@ -8,7 +8,7 @@ Rating: 4.64 (6,856)  (as of 23.09.2022)
 | This game has Challenging Combat | 1,974 |
 | This game is Extremely Fun | 1,963 |
 | This game is Educational | 1,948 |
-| This game has Amazing Storytelling | 1,753 |
+| This game has Amazing Storytelling | 1,756 |
 | This game has Obsessive Gameplay | 1,244 |
 ## Ratings History
 | Date | Rating | Number of Ratings |

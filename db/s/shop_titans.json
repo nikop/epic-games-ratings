@@ -3,7 +3,7 @@
   "Name": "Shop Titans",
   "Rating": 3.98,
   "NumberOfRatings": 12664,
-  "NumberOfAwards": 26247,
+  "NumberOfAwards": 26250,
   "NumberOfAwardsMax": 4475,
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "LastChanged": "2022-11-10T09:01:45.6584564+00:00",
@@ -3224,7 +3224,7 @@
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 3924
+      "Count": 3925
     },
     {
       "Text": "This game has Playful Visuals",
@@ -3232,7 +3232,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 3634
+      "Count": 3636
     }
   ]
 }

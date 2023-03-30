@@ -97,9 +97,9 @@
 | 95 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,155 |
 | 96 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,121 |
 | 97 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,117 |
-| 98 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 2,059 |
+| 98 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 2,065 |
 | 99 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 2,026 |
-| 100 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 1,983 |
+| 100 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 1,995 |
 | 100 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,962 |
 | 102 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 1,936 |
 | 103 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 1,853 |
@@ -126,7 +126,7 @@
 | 124 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,063 |
 | 125 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,055 |
 | 125 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,043 |
-| 127 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,019 |
+| 127 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,020 |
 | 128 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,017 |
 | 129 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,014 |
 | 130 | [EVE Online](games/e/eve_online.md) | 4.26 | 993 |
@@ -135,9 +135,9 @@
 | 133 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 969 |
 | 134 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 967 |
 | 135 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 960 |
-| 136 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 956 |
-| 137 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 954 |
-| 138 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 927 |
+| 136 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 957 |
+| 137 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 956 |
+| 138 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 931 |
 | 139 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 916 |
 | 140 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 901 |
 | 140 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 873 |
@@ -148,7 +148,7 @@
 | 146 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 756 |
 | 147 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 749 |
 | 148 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 744 |
-| 149 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 723 |
+| 149 | [The Long Dark](games/t/the_long_dark.md) | 4.75 | 723 |
 | 150 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 718 |
 | 151 | [Core](games/c/core.md) | 4.37 | 718 |
 | 152 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 693 |

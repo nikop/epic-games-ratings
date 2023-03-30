@@ -9,7 +9,7 @@ Rating: 4.42 (1,201)  (as of 23.09.2022)
 | This game is Relaxing | 148 |
 | This game has Diverse Characters | 146 |
 | This game is Great for Beginners | 146 |
-| This game has Quickly Understood Controls | 143 |
+| This game has Quickly Understood Controls | 144 |
 | This game has Amazing Storytelling | 139 |
 | This game has Challenging Combat | 133 |
 | This game is Highly Recommended | 132 |

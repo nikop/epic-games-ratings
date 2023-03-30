@@ -11,7 +11,7 @@ Rating: 4.34 (5,693)  (as of 23.09.2022)
 | This game has Quickly Understood Controls | 193 |
 | This game has Amazing Storytelling | 191 |
 | This game has Amazing Characters | 168 |
-| This game has a Competitive Community | 160 |
+| This game has a Competitive Community | 161 |
 | This game is Relaxing | 114 |
 ## Ratings History
 | Date | Rating | Number of Ratings |

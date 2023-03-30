@@ -8,7 +8,7 @@ Rating: 4.76 (1,354)  (as of 23.09.2022)
 | This game is Highly Recommended | 586 |
 | This game has Amazing Characters | 584 |
 | This game has Amazing Storytelling | 569 |
-| This game has Diverse Characters | 566 |
+| This game has Diverse Characters | 567 |
 | This game has Quickly Understood Controls | 532 |
 | This game has Challenging Combat | 528 |
 | This game is Relaxing | 510 |

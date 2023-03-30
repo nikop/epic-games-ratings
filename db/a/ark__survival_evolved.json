@@ -3,7 +3,7 @@
   "Name": "ARK: Survival Evolved",
   "Rating": 4.59,
   "NumberOfRatings": 35570,
-  "NumberOfAwards": 226471,
+  "NumberOfAwards": 226480,
   "NumberOfAwardsMax": 55143,
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
   "LastChanged": "2022-09-30T12:30:39.9805116+00:00",
@@ -3528,7 +3528,7 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 19718
+      "Count": 19727
     },
     {
       "Text": "This game is Highly Recommended",

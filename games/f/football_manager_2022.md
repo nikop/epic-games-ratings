@@ -8,7 +8,7 @@ Rating: 4.80 (19,160)  (as of 23.09.2022)
 | This game has Competitive Players | 5,675 |
 | This game has Quickly Understood Controls | 5,672 |
 | This game is Educational | 5,637 |
-| This game is Highly Recommended | 5,619 |
+| This game is Highly Recommended | 5,621 |
 | This game has Diverse Characters | 5,151 |
 | This game has Amazing Storytelling | 4,787 |
 | This game has Obsessive Gameplay | 4,416 |

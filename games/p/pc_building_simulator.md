@@ -3,7 +3,7 @@ Rating: 4.66 (12,155)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 1,019 |
+| This game is Great for Beginners | 1,020 |
 | This game is Relaxing | 952 |
 | This game is Educational | 951 |
 | This game is Extremely Fun | 948 |

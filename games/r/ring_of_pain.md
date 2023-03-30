@@ -6,12 +6,12 @@ Rating: 4.58 (15,086)  (as of 23.09.2022)
 | This game has Quickly Understood Controls | 1,465 |
 | This game is Great for Beginners | 1,429 |
 | This game is Relaxing | 1,399 |
-| This game has Challenging Combat | 1,379 |
+| This game has Challenging Combat | 1,380 |
 | This game is Extremely Fun | 1,372 |
 | This game is Highly Recommended | 1,331 |
 | This game has Amazing Storytelling | 1,287 |
 | This game has Amazing Characters | 1,190 |
-| This game has Unique Visuals | 1,173 |
+| This game has Unique Visuals | 1,174 |
 | This game has Obsessive Gameplay | 1,088 |
 | This game has a Creative Community | 716 |
 ## Ratings History
