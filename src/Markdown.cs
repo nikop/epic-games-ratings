@@ -69,9 +69,9 @@ namespace EpicRatingsUpdater
 
             sb.AppendLine($"# Stats");
 
-            sb.AppendLine($"Games with rating: {FormatVotes(filteredList.Count)}");
-            sb.AppendLine($"Games without rating: {FormatVotes(allList.Count - filteredList.Count)}");
-            sb.AppendLine($"Average rating: {FormatRating(average)}");
+            sb.AppendLine($"Games with rating: {FormatVotes(filteredList.Count)}  ");
+            sb.AppendLine($"Games without rating: {FormatVotes(allList.Count - filteredList.Count)}  ");
+            sb.AppendLine($"Average rating: {FormatRating(average)}  ");
 
             var minRating = decRatings.Keys.Min();
 
