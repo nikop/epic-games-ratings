@@ -7,9 +7,9 @@ Rating: 4.78 (-)  (as of 23.09.2022)
 | This game has Great Boss Battles | 7,197 |
 | This game is Extremely Fun | 549 |
 | This game is Relaxing | 541 |
+| This game is Great for Beginners | 521 |
 | This game has Diverse Characters | 520 |
 | This game has Amazing Storytelling | 519 |
-| This game is Great for Beginners | 514 |
 | This game has Amazing Characters | 511 |
 | This game is Highly Recommended | 479 |
 | This game has Quickly Understood Controls | 457 |
@@ -25,3 +25,4 @@ Rating: 4.78 (-)  (as of 23.09.2022)
 | 2023-02-14 | 4.80 | - | - |
 | 2023-02-18 | 4.79 | - | - |
 | 2023-03-11 | 4.78 | - | - |
+| 2023-03-31 | 4.78 | - | 16,246 |

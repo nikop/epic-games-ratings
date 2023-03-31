@@ -135,7 +135,7 @@
 | 133 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | - | 
 | 134 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,020x Diverse Characters | 
 | 135 | [Conarium](games/c/conarium.md) | 3.91 | - | 
-| 136 | [Control](games/c/control.md) | 4.60 | 8,188x Great Boss Battles | 
+| 136 | [Control](games/c/control.md) | 4.60 | 8,193x Great Boss Battles | 
 | 137 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | - | 
 | 138 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 104x Great for Quick Sessions | 
 | 139 | [Core](games/c/core.md) | 4.37 | 719x Character Customization | 

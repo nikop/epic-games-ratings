@@ -3,11 +3,11 @@
   "Name": "Shop Titans",
   "Rating": 3.98,
   "NumberOfRatings": 12664,
-  "NumberOfAwards": 26253,
+  "NumberOfAwards": 26256,
   "NumberOfAwardsMax": 4475,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
-  "LastChanged": "2022-11-10T09:01:45.6584564+00:00",
+  "LastChanged": "2023-03-31T08:06:40.9807571+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:09.8321218+00:00",
@@ -3200,6 +3200,12 @@
     {
       "Time": "2022-11-10T09:01:45.6584566+00:00",
       "Rating": 3.98
+    },
+    {
+      "Time": "2023-03-31T08:06:40.9807572+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 26256,
+      "NumberOfAwardsMax": 4475
     }
   ],
   "Tags": [
@@ -3243,7 +3249,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3044
+      "Count": 3047
     },
     {
       "Text": "This game is Highly Recommended",

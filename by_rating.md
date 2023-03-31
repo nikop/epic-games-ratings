@@ -374,7 +374,7 @@
 | 348 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 60x Great for Quick Sessions | 
 | 348 | [Warframe](games/w/warframe.md) | 4.61 | 13,837x Great Boss Battles | 
 | 374 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,118x Character Customization | 
-| 374 | [Control](games/c/control.md) | 4.60 | 8,188x Great Boss Battles | 
+| 374 | [Control](games/c/control.md) | 4.60 | 8,193x Great Boss Battles | 
 | 374 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 73x Great Boss Battles | 
 | 374 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,092x Character Customization | 
 | 374 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 116x Relaxing | 

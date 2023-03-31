@@ -35,7 +35,7 @@
 | 33 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 8,823x Great for Beginners | 
 | 34 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 8,804x Great Boss Battles | 
 | 35 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,437x Diverse Characters | 
-| 36 | [Control](games/c/control.md) | 4.60 | 8,188x Great Boss Battles | 
+| 36 | [Control](games/c/control.md) | 4.60 | 8,193x Great Boss Battles | 
 | 37 | [Supraland](games/s/supraland.md) | 4.61 | 7,591x Challenging Puzzles | 
 | 38 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,423x Great Boss Battles | 
 | 39 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 7,311x Great for Beginners | 
