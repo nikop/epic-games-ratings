@@ -1,6 +1,6 @@
 # SpellForce 3: Fallen God
-Rating: 4.46 (Ranked $578)  
-Popularity (Based on Awards): 0 (Ranked $478)  
+Rating: 4.46 (Ranked 578)  
+Popularity (Based on Awards): 0 (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

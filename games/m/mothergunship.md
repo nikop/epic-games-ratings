@@ -1,7 +1,7 @@
 # Mothergunship
-Rating: 4.38 (Ranked $673)  
+Rating: 4.38 (Ranked 673)  
 Number of Ratings: 436  (23.09.2022)  
-Popularity (Based on Awards): 158 (Ranked $274)  
+Popularity (Based on Awards): 158 (Ranked 274)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,6 +1,6 @@
 # STG Football
-Rating: 4.43 (Ranked $622)  
-Popularity (Based on Awards): 33 (Ranked $419)  
+Rating: 4.43 (Ranked 622)  
+Popularity (Based on Awards): 33 (Ranked 419)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

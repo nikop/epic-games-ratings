@@ -1,7 +1,7 @@
 # Hood: Outlaws & Legends
-Rating: 3.99 (Ranked $861)  
+Rating: 3.99 (Ranked 861)  
 Number of Ratings: 12,539  (23.09.2022)  
-Popularity (Based on Awards): 366 (Ranked $200)  
+Popularity (Based on Awards): 366 (Ranked 200)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

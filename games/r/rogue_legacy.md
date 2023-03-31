@@ -1,7 +1,7 @@
 # Rogue Legacy
-Rating: 4.61 (Ranked $349)  
+Rating: 4.61 (Ranked 349)  
 Number of Ratings: 2,133  (23.09.2022)  
-Popularity (Based on Awards): 1,055 (Ranked $125)  
+Popularity (Based on Awards): 1,055 (Ranked 125)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

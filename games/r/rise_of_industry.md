@@ -1,6 +1,6 @@
 # Rise of Industry
-Rating: 4.22 (Ranked $784)  
-Popularity (Based on Awards): 0 (Ranked $478)  
+Rating: 4.22 (Ranked 784)  
+Popularity (Based on Awards): 0 (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

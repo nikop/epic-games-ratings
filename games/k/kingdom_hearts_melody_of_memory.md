@@ -1,7 +1,7 @@
 # KINGDOM HEARTS Melody of Memory
-Rating: 4.66 (Ranked $272)  
+Rating: 4.66 (Ranked 272)  
 Number of Ratings: 83  (23.09.2022)  
-Popularity (Based on Awards): 0 (Ranked $478)  
+Popularity (Based on Awards): 0 (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

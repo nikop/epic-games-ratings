@@ -1,6 +1,6 @@
 # EA SPORTS™ FIFA 23 Standard Edition
-Rating: 4.23 (Ranked $777)  
-Popularity (Based on Awards): 5,660 (Ranked $55)  
+Rating: 4.23 (Ranked 777)  
+Popularity (Based on Awards): 5,660 (Ranked 55)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

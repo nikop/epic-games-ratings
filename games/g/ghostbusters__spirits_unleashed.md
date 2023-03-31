@@ -1,6 +1,6 @@
 # Ghostbusters: Spirits Unleashed
-Rating: 4.49 (Ranked $537)  
-Popularity (Based on Awards): 209 (Ranked $247)  
+Rating: 4.49 (Ranked 537)  
+Popularity (Based on Awards): 209 (Ranked 247)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

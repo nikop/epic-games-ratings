@@ -1,7 +1,7 @@
 # WRC 8 FIA World Rally Championship
-Rating: 4.59 (Ranked $388)  
+Rating: 4.59 (Ranked 388)  
 Number of Ratings: 199  (23.09.2022)  
-Popularity (Based on Awards): 0 (Ranked $478)  
+Popularity (Based on Awards): 0 (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

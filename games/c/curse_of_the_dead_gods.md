@@ -1,7 +1,7 @@
 # Curse of the Dead Gods
-Rating: 4.65 (Ranked $290)  
+Rating: 4.65 (Ranked 290)  
 Number of Ratings: 140  (23.09.2022)  
-Popularity (Based on Awards): 110 (Ranked $303)  
+Popularity (Based on Awards): 110 (Ranked 303)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

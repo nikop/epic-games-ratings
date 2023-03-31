@@ -1,6 +1,6 @@
 # Rising Hell
-Rating: 4.40 (Ranked $653)  
-Popularity (Based on Awards): 73 (Ranked $342)  
+Rating: 4.40 (Ranked 653)  
+Popularity (Based on Awards): 73 (Ranked 342)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

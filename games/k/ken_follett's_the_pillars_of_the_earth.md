@@ -1,7 +1,7 @@
 # Ken Follett's The Pillars of the Earth
-Rating: 4.52 (Ranked $495)  
+Rating: 4.52 (Ranked 495)  
 Number of Ratings: 368  (23.09.2022)  
-Popularity (Based on Awards): 147 (Ranked $279)  
+Popularity (Based on Awards): 147 (Ranked 279)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

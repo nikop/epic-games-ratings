@@ -1,7 +1,7 @@
 # Space Punks
-Rating: 4.16 (Ranked $816)  
+Rating: 4.16 (Ranked 816)  
 Number of Ratings: 1,927  (23.09.2022)  
-Popularity (Based on Awards): 166 (Ranked $269)  
+Popularity (Based on Awards): 166 (Ranked 269)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

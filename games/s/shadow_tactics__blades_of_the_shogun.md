@@ -1,7 +1,7 @@
 # Shadow Tactics: Blades of the Shogun
-Rating: 4.66 (Ranked $272)  
+Rating: 4.66 (Ranked 272)  
 Number of Ratings: 495  (23.09.2022)  
-Popularity (Based on Awards): 539 (Ranked $172)  
+Popularity (Based on Awards): 539 (Ranked 172)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

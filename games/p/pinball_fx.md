@@ -1,7 +1,7 @@
 # Pinball FX
-Rating: 4.02 (Ranked $859)  
+Rating: 4.02 (Ranked 859)  
 Number of Ratings: 756  (23.09.2022)  
-Popularity (Based on Awards): 164 (Ranked $270)  
+Popularity (Based on Awards): 164 (Ranked 270)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

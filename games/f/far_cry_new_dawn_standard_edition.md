@@ -1,7 +1,7 @@
 # Far Cry New Dawn Standard Edition
-Rating: 4.41 (Ranked $641)  
+Rating: 4.41 (Ranked 641)  
 Number of Ratings: 338  (23.09.2022)  
-Popularity (Based on Awards): 169 (Ranked $265)  
+Popularity (Based on Awards): 169 (Ranked 265)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

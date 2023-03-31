@@ -1,7 +1,7 @@
 # Deponia: The Complete Journey
-Rating: 4.61 (Ranked $349)  
+Rating: 4.61 (Ranked 349)  
 Number of Ratings: 777  (23.09.2022)  
-Popularity (Based on Awards): 271 (Ranked $225)  
+Popularity (Based on Awards): 271 (Ranked 225)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

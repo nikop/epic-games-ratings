@@ -1,7 +1,7 @@
 # DAEMON X MACHINA
-Rating: 4.40 (Ranked $653)  
+Rating: 4.40 (Ranked 653)  
 Number of Ratings: 2,096  (23.09.2022)  
-Popularity (Based on Awards): 967 (Ranked $134)  
+Popularity (Based on Awards): 967 (Ranked 134)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

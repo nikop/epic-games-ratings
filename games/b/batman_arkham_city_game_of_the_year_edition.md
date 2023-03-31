@@ -1,7 +1,7 @@
 # Batman Arkham City Game of the Year Edition
-Rating: 4.79 (Ranked $94)  
+Rating: 4.79 (Ranked 94)  
 Number of Ratings: 2,832  (23.09.2022)  
-Popularity (Based on Awards): 1,428 (Ranked $112)  
+Popularity (Based on Awards): 1,428 (Ranked 112)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

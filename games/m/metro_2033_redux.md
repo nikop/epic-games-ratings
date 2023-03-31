@@ -1,7 +1,7 @@
 # Metro 2033 Redux
-Rating: 4.69 (Ranked $215)  
+Rating: 4.69 (Ranked 215)  
 Number of Ratings: 5,684  (23.09.2022)  
-Popularity (Based on Awards): 1,166 (Ranked $119)  
+Popularity (Based on Awards): 1,166 (Ranked 119)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

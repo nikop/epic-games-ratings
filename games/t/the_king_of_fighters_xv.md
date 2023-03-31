@@ -1,7 +1,7 @@
 # THE KING OF FIGHTERS XV
-Rating: 4.62 (Ranked $333)  
+Rating: 4.62 (Ranked 333)  
 Number of Ratings: 181  (23.09.2022)  
-Popularity (Based on Awards): 70 (Ranked $348)  
+Popularity (Based on Awards): 70 (Ranked 348)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

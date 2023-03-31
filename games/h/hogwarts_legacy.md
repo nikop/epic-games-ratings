@@ -1,6 +1,6 @@
 # Hogwarts Legacy
-Rating: 4.78 (Ranked $100)  
-Popularity (Based on Awards): 16,246 (Ranked $18)  
+Rating: 4.78 (Ranked 100)  
+Popularity (Based on Awards): 16,246 (Ranked 18)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
@@ -8,9 +8,9 @@ Popularity (Based on Awards): 16,246 (Ranked $18)
 | This game has Great Boss Battles | 7,197 |
 | This game is Extremely Fun | 549 |
 | This game is Relaxing | 541 |
+| This game has Amazing Storytelling | 525 |
 | This game is Great for Beginners | 521 |
 | This game has Diverse Characters | 520 |
-| This game has Amazing Storytelling | 519 |
 | This game has Amazing Characters | 511 |
 | This game is Highly Recommended | 479 |
 | This game has Quickly Understood Controls | 457 |

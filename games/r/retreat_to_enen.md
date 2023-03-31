@@ -1,6 +1,6 @@
 # Retreat To Enen
-Rating: 3.86 (Ranked $882)  
-Popularity (Based on Awards): 0 (Ranked $478)  
+Rating: 3.86 (Ranked 882)  
+Popularity (Based on Awards): 0 (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,7 +1,7 @@
 # City of Brass
-Rating: 4.23 (Ranked $777)  
+Rating: 4.23 (Ranked 777)  
 Number of Ratings: 227  (23.09.2022)  
-Popularity (Based on Awards): 0 (Ranked $478)  
+Popularity (Based on Awards): 0 (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

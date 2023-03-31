@@ -1,7 +1,7 @@
 # Subnautica
-Rating: 4.84 (Ranked $47)  
+Rating: 4.84 (Ranked 47)  
 Number of Ratings: 7,928  (23.09.2022)  
-Popularity (Based on Awards): 636 (Ranked $158)  
+Popularity (Based on Awards): 636 (Ranked 158)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

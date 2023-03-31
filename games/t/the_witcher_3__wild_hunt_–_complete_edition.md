@@ -1,7 +1,7 @@
 # The Witcher 3: Wild Hunt – Complete Edition
-Rating: 4.89 (Ranked $13)  
+Rating: 4.89 (Ranked 13)  
 Number of Ratings: 14,665  (23.09.2022)  
-Popularity (Based on Awards): 14,112 (Ranked $20)  
+Popularity (Based on Awards): 14,112 (Ranked 20)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
@@ -9,7 +9,7 @@ Popularity (Based on Awards): 14,112 (Ranked $20)
 | This game is Extremely Fun | 2,137 |
 | This game has Amazing Storytelling | 2,129 |
 | This game is Great for Beginners | 2,100 |
-| This game is Relaxing | 2,089 |
+| This game is Relaxing | 2,094 |
 | This game is Highly Recommended | 2,088 |
 | This game has Quickly Understood Controls | 2,046 |
 | This game has Amazing Characters | 2,026 |

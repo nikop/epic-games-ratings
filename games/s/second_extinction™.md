@@ -1,7 +1,7 @@
 # Second Extinction™
-Rating: 4.15 (Ranked $824)  
+Rating: 4.15 (Ranked 824)  
 Number of Ratings: 617  (23.09.2022)  
-Popularity (Based on Awards): 231 (Ranked $238)  
+Popularity (Based on Awards): 231 (Ranked 238)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

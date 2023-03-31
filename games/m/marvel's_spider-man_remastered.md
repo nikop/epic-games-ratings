@@ -1,7 +1,7 @@
 # Marvel's Spider-Man Remastered
-Rating: 4.87 (Ranked $24)  
+Rating: 4.87 (Ranked 24)  
 Number of Ratings: 14,015  (23.09.2022)  
-Popularity (Based on Awards): 11,234 (Ranked $29)  
+Popularity (Based on Awards): 11,234 (Ranked 29)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

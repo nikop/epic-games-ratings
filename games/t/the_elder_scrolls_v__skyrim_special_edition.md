@@ -1,6 +1,6 @@
 # The Elder Scrolls V: Skyrim Special Edition
-Rating: 4.87 (Ranked $24)  
-Popularity (Based on Awards): 1,156 (Ranked $120)  
+Rating: 4.87 (Ranked 24)  
+Popularity (Based on Awards): 1,156 (Ranked 120)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

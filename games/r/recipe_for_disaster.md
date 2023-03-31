@@ -1,6 +1,6 @@
 # Recipe for Disaster
-Rating: 4.19 (Ranked $802)  
-Popularity (Based on Awards): 0 (Ranked $478)  
+Rating: 4.19 (Ranked 802)  
+Popularity (Based on Awards): 0 (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

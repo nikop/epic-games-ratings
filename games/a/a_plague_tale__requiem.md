@@ -1,6 +1,6 @@
 # A Plague Tale: Requiem
-Rating: 4.74 (Ranked $141)  
-Popularity (Based on Awards): 395 (Ranked $191)  
+Rating: 4.74 (Ranked 141)  
+Popularity (Based on Awards): 395 (Ranked 191)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,7 +1,7 @@
 # AXIOM VERGE
-Rating: 4.56 (Ranked $436)  
+Rating: 4.56 (Ranked 436)  
 Number of Ratings: 132  (23.09.2022)  
-Popularity (Based on Awards): 46 (Ranked $384)  
+Popularity (Based on Awards): 46 (Ranked 384)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,6 +1,6 @@
 # Bear and Breakfast
-Rating: 4.74 (Ranked $141)  
-Popularity (Based on Awards): 0 (Ranked $478)  
+Rating: 4.74 (Ranked 141)  
+Popularity (Based on Awards): 0 (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

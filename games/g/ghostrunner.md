@@ -1,7 +1,7 @@
 # Ghostrunner
-Rating: 4.72 (Ranked $167)  
+Rating: 4.72 (Ranked 167)  
 Number of Ratings: 1,047  (23.09.2022)  
-Popularity (Based on Awards): 445 (Ranked $184)  
+Popularity (Based on Awards): 445 (Ranked 184)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

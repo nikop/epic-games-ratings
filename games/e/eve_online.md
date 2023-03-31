@@ -1,7 +1,7 @@
 # EVE Online
-Rating: 4.26 (Ranked $760)  
+Rating: 4.26 (Ranked 760)  
 Number of Ratings: 1,408  (23.09.2022)  
-Popularity (Based on Awards): 993 (Ranked $130)  
+Popularity (Based on Awards): 993 (Ranked 130)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

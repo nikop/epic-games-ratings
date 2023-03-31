@@ -1,7 +1,7 @@
 # MudRunner
-Rating: 4.62 (Ranked $333)  
+Rating: 4.62 (Ranked 333)  
 Number of Ratings: 3,155  (23.09.2022)  
-Popularity (Based on Awards): 226 (Ranked $239)  
+Popularity (Based on Awards): 226 (Ranked 239)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
@@ -11,7 +11,7 @@ Popularity (Based on Awards): 226 (Ranked $239)
 | This game is Highly Recommended | 199 |
 | This game is Educational | 198 |
 | This game is Extremely Fun | 180 |
-| This game has Realistic Visuals | 176 |
+| This game has Realistic Visuals | 177 |
 | This game has Amazing Storytelling | 160 |
 | This game has Obsessive Gameplay | 128 |
 | This game has Amazing Characters | 126 |
@@ -105,3 +105,4 @@ Popularity (Based on Awards): 226 (Ranked $239)
 | 2022-11-25 | 4.62 | - | - |
 | 2022-11-26 | 4.63 | - | - |
 | 2022-11-27 | 4.62 | - | - |
+| 2023-03-31 | 4.62 | - | 226 |

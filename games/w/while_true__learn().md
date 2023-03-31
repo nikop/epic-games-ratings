@@ -1,7 +1,7 @@
 # while True: learn()
-Rating: 4.51 (Ranked $509)  
+Rating: 4.51 (Ranked 509)  
 Number of Ratings: 896  (23.09.2022)  
-Popularity (Based on Awards): 131 (Ranked $286)  
+Popularity (Based on Awards): 131 (Ranked 286)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

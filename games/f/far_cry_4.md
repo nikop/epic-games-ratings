@@ -1,7 +1,7 @@
 # FAR CRY 4
-Rating: 4.66 (Ranked $272)  
+Rating: 4.66 (Ranked 272)  
 Number of Ratings: 639  (23.09.2022)  
-Popularity (Based on Awards): 472 (Ranked $181)  
+Popularity (Based on Awards): 472 (Ranked 181)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

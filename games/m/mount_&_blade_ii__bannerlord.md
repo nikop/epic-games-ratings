@@ -1,7 +1,7 @@
 # Mount & Blade II: Bannerlord
-Rating: 4.74 (Ranked $141)  
+Rating: 4.74 (Ranked 141)  
 Number of Ratings: 5,603  (23.09.2022)  
-Popularity (Based on Awards): 6,292 (Ranked $45)  
+Popularity (Based on Awards): 6,292 (Ranked 45)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

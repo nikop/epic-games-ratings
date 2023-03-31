@@ -1,6 +1,6 @@
 # 3 out of 10, EP 1: Welcome To Shovelworks
-Rating: - (Ranked $-)  
-Popularity (Based on Awards): 0 (Ranked $-)  
+Rating: - (Ranked -)  
+Popularity (Based on Awards): 0 (Ranked -)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

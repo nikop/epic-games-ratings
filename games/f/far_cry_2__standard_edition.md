@@ -1,7 +1,7 @@
 # Far Cry 2: Standard Edition
-Rating: 4.25 (Ranked $766)  
+Rating: 4.25 (Ranked 766)  
 Number of Ratings: 60  (23.09.2022)  
-Popularity (Based on Awards): 0 (Ranked $478)  
+Popularity (Based on Awards): 0 (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

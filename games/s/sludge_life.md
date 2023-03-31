@@ -1,7 +1,7 @@
 # SLUDGE LIFE
-Rating: 4.76 (Ranked $113)  
+Rating: 4.76 (Ranked 113)  
 Number of Ratings: 176  (23.09.2022)  
-Popularity (Based on Awards): 0 (Ranked $478)  
+Popularity (Based on Awards): 0 (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

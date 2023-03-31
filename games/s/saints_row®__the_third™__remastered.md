@@ -1,7 +1,7 @@
 # Saints Row®: The Third™  Remastered
-Rating: 4.41 (Ranked $641)  
+Rating: 4.41 (Ranked 641)  
 Number of Ratings: 6,169  (23.09.2022)  
-Popularity (Based on Awards): 2,155 (Ranked $95)  
+Popularity (Based on Awards): 2,155 (Ranked 95)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

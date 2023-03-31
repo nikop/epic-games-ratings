@@ -1,7 +1,7 @@
 # Enter the Gungeon
-Rating: 4.85 (Ranked $38)  
+Rating: 4.85 (Ranked 38)  
 Number of Ratings: 8,617  (23.09.2022)  
-Popularity (Based on Awards): 7,423 (Ranked $38)  
+Popularity (Based on Awards): 7,423 (Ranked 38)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

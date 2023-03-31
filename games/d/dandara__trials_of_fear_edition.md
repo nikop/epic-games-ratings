@@ -1,7 +1,7 @@
 # Dandara: Trials of Fear Edition
-Rating: 4.56 (Ranked $436)  
+Rating: 4.56 (Ranked 436)  
 Number of Ratings: 164  (23.09.2022)  
-Popularity (Based on Awards): 50 (Ranked $376)  
+Popularity (Based on Awards): 50 (Ranked 376)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

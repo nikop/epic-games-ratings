@@ -1,7 +1,7 @@
 # Watch Dogs Standard Edition
-Rating: 4.56 (Ranked $436)  
+Rating: 4.56 (Ranked 436)  
 Number of Ratings: 1,912  (23.09.2022)  
-Popularity (Based on Awards): 44 (Ranked $391)  
+Popularity (Based on Awards): 44 (Ranked 391)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

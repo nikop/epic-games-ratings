@@ -1,7 +1,7 @@
 # BioShock 2 Remastered
-Rating: 4.51 (Ranked $509)  
+Rating: 4.51 (Ranked 509)  
 Number of Ratings: 12,272  (23.09.2022)  
-Popularity (Based on Awards): 4,016 (Ranked $69)  
+Popularity (Based on Awards): 4,016 (Ranked 69)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

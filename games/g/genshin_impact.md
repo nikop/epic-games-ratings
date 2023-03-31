@@ -1,7 +1,7 @@
 # Genshin Impact
-Rating: 4.68 (Ranked $234)  
+Rating: 4.68 (Ranked 234)  
 Number of Ratings: 219,180  (23.09.2022)  
-Popularity (Based on Awards): 278,465 (Ranked $3)  
+Popularity (Based on Awards): 278,465 (Ranked 3)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

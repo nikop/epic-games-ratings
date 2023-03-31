@@ -1,7 +1,7 @@
 # Star Trek Online
-Rating: 4.44 (Ranked $606)  
+Rating: 4.44 (Ranked 606)  
 Number of Ratings: 565  (23.09.2022)  
-Popularity (Based on Awards): 501 (Ranked $177)  
+Popularity (Based on Awards): 501 (Ranked 177)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

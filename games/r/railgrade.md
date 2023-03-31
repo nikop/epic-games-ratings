@@ -1,6 +1,6 @@
 # RAILGRADE
-Rating: 4.54 (Ranked $468)  
-Popularity (Based on Awards): 86 (Ranked $330)  
+Rating: 4.54 (Ranked 468)  
+Popularity (Based on Awards): 86 (Ranked 330)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

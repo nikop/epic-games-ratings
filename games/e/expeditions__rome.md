@@ -1,7 +1,7 @@
 # Expeditions: Rome
-Rating: 4.63 (Ranked $320)  
+Rating: 4.63 (Ranked 320)  
 Number of Ratings: 68  (23.09.2022)  
-Popularity (Based on Awards): 45 (Ranked $387)  
+Popularity (Based on Awards): 45 (Ranked 387)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

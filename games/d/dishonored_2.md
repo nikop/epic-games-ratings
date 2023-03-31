@@ -1,6 +1,6 @@
 # Dishonored 2
-Rating: 4.81 (Ranked $68)  
-Popularity (Based on Awards): 282 (Ranked $220)  
+Rating: 4.81 (Ranked 68)  
+Popularity (Based on Awards): 282 (Ranked 220)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

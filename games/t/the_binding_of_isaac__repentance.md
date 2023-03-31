@@ -1,7 +1,7 @@
 # The Binding of Isaac: Repentance
-Rating: 4.90 (Ranked $8)  
+Rating: 4.90 (Ranked 8)  
 Number of Ratings: 1,859  (23.09.2022)  
-Popularity (Based on Awards): 1,771 (Ranked $105)  
+Popularity (Based on Awards): 1,771 (Ranked 105)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

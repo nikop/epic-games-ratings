@@ -1,6 +1,6 @@
 # Eximius: Seize the Frontline
-Rating: 4.20 (Ranked $792)  
-Popularity (Based on Awards): 0 (Ranked $478)  
+Rating: 4.20 (Ranked 792)  
+Popularity (Based on Awards): 0 (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

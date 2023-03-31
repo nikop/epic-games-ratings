@@ -1,7 +1,7 @@
 # Immortals Fenyx Rising Standard Edition
-Rating: 4.61 (Ranked $349)  
+Rating: 4.61 (Ranked 349)  
 Number of Ratings: 791  (23.09.2022)  
-Popularity (Based on Awards): 543 (Ranked $171)  
+Popularity (Based on Awards): 543 (Ranked 171)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

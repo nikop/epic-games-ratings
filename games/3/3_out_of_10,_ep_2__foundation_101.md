@@ -1,6 +1,6 @@
 # 3 out of 10, EP 2: Foundation 101
-Rating: - (Ranked $-)  
-Popularity (Based on Awards): 0 (Ranked $-)  
+Rating: - (Ranked -)  
+Popularity (Based on Awards): 0 (Ranked -)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

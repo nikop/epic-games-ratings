@@ -1,7 +1,7 @@
 # KARDS - The WWII Card Game
-Rating: 4.38 (Ranked $673)  
+Rating: 4.38 (Ranked 673)  
 Number of Ratings: 1,466  (23.09.2022)  
-Popularity (Based on Awards): 537 (Ranked $174)  
+Popularity (Based on Awards): 537 (Ranked 174)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

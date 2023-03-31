@@ -1,7 +1,7 @@
 # Inscryption
-Rating: 4.86 (Ranked $32)  
+Rating: 4.86 (Ranked 32)  
 Number of Ratings: 771  (23.09.2022)  
-Popularity (Based on Awards): 327 (Ranked $206)  
+Popularity (Based on Awards): 327 (Ranked 206)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

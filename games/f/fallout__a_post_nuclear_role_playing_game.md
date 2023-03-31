@@ -1,6 +1,6 @@
 # Fallout: A Post Nuclear Role Playing Game
-Rating: 4.66 (Ranked $272)  
-Popularity (Based on Awards): 54 (Ranked $372)  
+Rating: 4.66 (Ranked 272)  
+Popularity (Based on Awards): 54 (Ranked 372)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

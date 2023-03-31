@@ -1,7 +1,7 @@
 # This Is The Police 2
-Rating: 4.65 (Ranked $290)  
+Rating: 4.65 (Ranked 290)  
 Number of Ratings: 29  (23.09.2022)  
-Popularity (Based on Awards): 0 (Ranked $478)  
+Popularity (Based on Awards): 0 (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

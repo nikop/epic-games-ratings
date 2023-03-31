@@ -1,6 +1,6 @@
 # Duskers
-Rating: 4.43 (Ranked $622)  
-Popularity (Based on Awards): 0 (Ranked $478)  
+Rating: 4.43 (Ranked 622)  
+Popularity (Based on Awards): 0 (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

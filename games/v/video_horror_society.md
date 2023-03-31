@@ -1,7 +1,7 @@
 # Video Horror Society
-Rating: 4.27 (Ranked $757)  
+Rating: 4.27 (Ranked 757)  
 Number of Ratings: 559  (23.09.2022)  
-Popularity (Based on Awards): 297 (Ranked $217)  
+Popularity (Based on Awards): 297 (Ranked 217)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

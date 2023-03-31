@@ -1,7 +1,7 @@
 # Back 4 Blood: Standard Edition
-Rating: 4.46 (Ranked $578)  
+Rating: 4.46 (Ranked 578)  
 Number of Ratings: 2,790  (23.09.2022)  
-Popularity (Based on Awards): 3,165 (Ranked $82)  
+Popularity (Based on Awards): 3,165 (Ranked 82)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

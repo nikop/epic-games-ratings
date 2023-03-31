@@ -1,7 +1,7 @@
 # Phantom Brigade
-Rating: 4.63 (Ranked $320)  
+Rating: 4.63 (Ranked 320)  
 Number of Ratings: 239  (23.09.2022)  
-Popularity (Based on Awards): 101 (Ranked $312)  
+Popularity (Based on Awards): 101 (Ranked 312)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

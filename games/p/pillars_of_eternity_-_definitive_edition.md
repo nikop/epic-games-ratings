@@ -1,7 +1,7 @@
 # Pillars of Eternity - Definitive Edition
-Rating: 4.66 (Ranked $272)  
+Rating: 4.66 (Ranked 272)  
 Number of Ratings: 2,847  (23.09.2022)  
-Popularity (Based on Awards): 1,853 (Ranked $103)  
+Popularity (Based on Awards): 1,853 (Ranked 103)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

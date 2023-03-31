@@ -1,7 +1,7 @@
 # Rumbleverse
-Rating: 4.42 (Ranked $630)  
+Rating: 4.42 (Ranked 630)  
 Number of Ratings: 61,855  (23.09.2022)  
-Popularity (Based on Awards): 6,689 (Ranked $42)  
+Popularity (Based on Awards): 6,689 (Ranked 42)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

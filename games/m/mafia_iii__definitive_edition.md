@@ -1,14 +1,14 @@
 # Mafia III: Definitive Edition
-Rating: 4.20 (Ranked $792)  
+Rating: 4.20 (Ranked 792)  
 Number of Ratings: 1,289  (23.09.2022)  
-Popularity (Based on Awards): 68 (Ranked $353)  
+Popularity (Based on Awards): 68 (Ranked 353)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Great Boss Battles | 307 |
 | This game has Amazing Characters | 68 |
 | This game has Amazing Storytelling | 66 |
-| This game is Relaxing | 55 |
+| This game is Relaxing | 56 |
 | This game is Great for Beginners | 55 |
 | This game is Extremely Fun | 55 |
 | This game has Quickly Understood Controls | 54 |
@@ -103,3 +103,4 @@ Popularity (Based on Awards): 68 (Ranked $353)
 | 2023-02-26 | 4.20 | - | - |
 | 2023-02-28 | 4.19 | - | - |
 | 2023-03-04 | 4.20 | - | - |
+| 2023-03-31 | 4.20 | - | 68 |

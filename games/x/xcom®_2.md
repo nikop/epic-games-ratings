@@ -1,7 +1,7 @@
 # XCOM® 2
-Rating: 4.54 (Ranked $468)  
+Rating: 4.54 (Ranked 468)  
 Number of Ratings: 7,396  (23.09.2022)  
-Popularity (Based on Awards): 1,093 (Ranked $123)  
+Popularity (Based on Awards): 1,093 (Ranked 123)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

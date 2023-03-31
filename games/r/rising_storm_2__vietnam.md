@@ -1,7 +1,7 @@
 # Rising Storm 2: Vietnam
-Rating: 4.50 (Ranked $524)  
+Rating: 4.50 (Ranked 524)  
 Number of Ratings: 2,871  (23.09.2022)  
-Popularity (Based on Awards): 622 (Ranked $160)  
+Popularity (Based on Awards): 622 (Ranked 160)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

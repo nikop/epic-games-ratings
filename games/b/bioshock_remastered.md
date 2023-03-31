@@ -1,7 +1,7 @@
 # BioShock Remastered
-Rating: 4.64 (Ranked $306)  
+Rating: 4.64 (Ranked 306)  
 Number of Ratings: 24,195  (23.09.2022)  
-Popularity (Based on Awards): 5,817 (Ranked $51)  
+Popularity (Based on Awards): 5,817 (Ranked 51)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
