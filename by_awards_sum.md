@@ -162,7 +162,7 @@
 | 160 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 2,471 | 
 | 161 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 2,352 | 
 | 162 | [Darkwood](games/d/darkwood.md) | 4.61 | 2,345 | 
-| 163 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 2,334 | 
+| 163 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 2,335 | 
 | 164 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 2,306 | 
 | 165 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 2,294 | 
 | 166 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 2,287 | 
