@@ -144,7 +144,26 @@ namespace EpicRatingsUpdater
 
                 var displayRanking = !groupByRating ? i : (item.Rating == lastRating ? lastRanking : i);
 
-                sb.AppendLine($"| {displayRanking} | [{item.Name}]({link}) | {FormatRating(item.Rating)} | {FormatVotes(useSumAwards ? item.NumberOfAwards : item.NumberOfAwardsMax)} |");
+                //var num
+
+                sb.Append($"| {displayRanking} | [{item.Name}]({link}) | {FormatRating(item.Rating)} | ");
+
+                if (useSumAwards)
+                {
+                    sb.Append($"{FormatVotes(item.NumberOfAwards)}");
+                }
+                else if (item.NumberOfAwardsMax > 0)
+                {
+                    sb.Append($"{FormatVotes(item.NumberOfAwardsMax)}x {item.MaxAwardTitle}");
+                }
+                else
+                {
+                    sb.Append("-");
+                }
+
+                sb.Append(" | ");
+
+                sb.AppendLine();
 
                 lastRanking = displayRanking;
                 lastRating = item.Rating;

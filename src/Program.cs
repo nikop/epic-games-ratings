@@ -213,6 +213,7 @@ async ValueTask UpdateRating(JsonIndexDb<GameDbItem> gameIndex, NamespaceDef ns,
 
                 dbItem.NumberOfAwards = NumberOfAwards;
                 dbItem.NumberOfAwardsMax = NumberOfAwardsMax;
+                dbItem.MaxAwardTitle = topAward?.localizations.resultTitle;
 
                 foreach (var pr in pi.pollResult.OrderByDescending(x => x.total))
                 {
