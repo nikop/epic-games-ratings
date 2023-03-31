@@ -9,7 +9,7 @@ Rating: 3.98 (12,664)  (as of 23.09.2022)
 | This game has Diverse Characters | 3,692 |
 | This game is Highly Recommended | 3,636 |
 | This game has Easy Combat | 3,578 |
-| This game has Playful Visuals | 3,044 |
+| This game has Playful Visuals | 3,047 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -80,3 +80,4 @@ Rating: 3.98 (12,664)  (as of 23.09.2022)
 | 2022-09-23 | 3.97 | 12,664 | - |
 | 2022-11-07 | 3.98 | - | - |
 | 2022-11-10 | 3.98 | - | - |
+| 2023-03-31 | 3.98 | - | 4,475 |

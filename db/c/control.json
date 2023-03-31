@@ -3,11 +3,11 @@
   "Name": "Control",
   "Rating": 4.6,
   "NumberOfRatings": 16122,
-  "NumberOfAwards": 12202,
-  "NumberOfAwardsMax": 8188,
+  "NumberOfAwards": 12207,
+  "NumberOfAwardsMax": 8193,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:16:45.0678604+00:00",
-  "LastChanged": "2022-09-23T13:31:08.4800451+00:00",
+  "LastChanged": "2023-03-31T08:06:33.2973221+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:45.0678606+00:00",
@@ -2748,6 +2748,12 @@
       "Time": "2022-09-23T13:31:08.4800454+00:00",
       "Rating": 4.6,
       "NumberOfRatings": 16122
+    },
+    {
+      "Time": "2023-03-31T08:06:33.2973223+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 12207,
+      "NumberOfAwardsMax": 8193
     }
   ],
   "Tags": [
@@ -2755,7 +2761,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 8188
+      "Count": 8193
     },
     {
       "Text": "This game has Amazing Storytelling",

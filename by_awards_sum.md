@@ -34,12 +34,12 @@
 | 32 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 30,804 | 
 | 33 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 30,101 | 
 | 34 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 29,473 | 
-| 35 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 28,335 | 
+| 35 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 28,342 | 
 | 36 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 28,299 | 
 | 37 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 26,708 | 
 | 38 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 26,418 | 
 | 39 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 26,330 | 
-| 40 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 26,253 | 
+| 40 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 26,256 | 
 | 41 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 25,661 | 
 | 42 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 25,430 | 
 | 43 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 25,119 | 
@@ -65,7 +65,7 @@
 | 63 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 13,164 | 
 | 64 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 12,845 | 
 | 65 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 12,392 | 
-| 66 | [Control](games/c/control.md) | 4.60 | 12,202 | 
+| 66 | [Control](games/c/control.md) | 4.60 | 12,207 | 
 | 67 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 12,085 | 
 | 68 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 11,910 | 
 | 69 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 11,857 | 
