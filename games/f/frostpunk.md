@@ -1,5 +1,7 @@
 # Frostpunk
-Rating: 4.73 (11,240)  (as of 23.09.2022)  
+Rating: 4.73 (Ranked $155)  
+Number of Ratings: 11,240  (23.09.2022)  
+Popularity (Based on Awards): 758 (Ranked $146)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

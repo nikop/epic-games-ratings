@@ -1,5 +1,6 @@
 # Kill It With Fire
-Rating: 4.43 (-)  (as of 23.09.2022)  
+Rating: 4.43 (Ranked $622)  
+Popularity (Based on Awards): 0 (Ranked $478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

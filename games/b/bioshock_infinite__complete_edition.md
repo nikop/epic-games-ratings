@@ -1,5 +1,7 @@
 # BioShock Infinite: Complete Edition
-Rating: 4.70 (18,329)  (as of 23.09.2022)  
+Rating: 4.70 (Ranked $194)  
+Number of Ratings: 18,329  (23.09.2022)  
+Popularity (Based on Awards): 4,450 (Ranked $65)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

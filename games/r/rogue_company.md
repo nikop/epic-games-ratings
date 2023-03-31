@@ -1,5 +1,7 @@
 # Rogue Company
-Rating: 4.35 (21,107)  (as of 23.09.2022)  
+Rating: 4.35 (Ranked $700)  
+Number of Ratings: 21,107  (23.09.2022)  
+Popularity (Based on Awards): 4,732 (Ranked $61)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

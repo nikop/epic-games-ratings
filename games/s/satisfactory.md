@@ -1,5 +1,7 @@
 # Satisfactory
-Rating: 4.88 (29,401)  (as of 23.09.2022)  
+Rating: 4.88 (Ranked $19)  
+Number of Ratings: 29,401  (23.09.2022)  
+Popularity (Based on Awards): 8,823 (Ranked $33)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

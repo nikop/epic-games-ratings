@@ -1,5 +1,7 @@
 # The Messenger
-Rating: 4.80 (561)  (as of 23.09.2022)  
+Rating: 4.80 (Ranked $80)  
+Number of Ratings: 561  (23.09.2022)  
+Popularity (Based on Awards): 310 (Ranked $212)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

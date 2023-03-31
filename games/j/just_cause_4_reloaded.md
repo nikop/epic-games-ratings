@@ -1,5 +1,7 @@
 # Just Cause 4 Reloaded
-Rating: 4.30 (5,442)  (as of 23.09.2022)  
+Rating: 4.30 (Ranked $737)  
+Number of Ratings: 5,442  (23.09.2022)  
+Popularity (Based on Awards): 3,529 (Ranked $78)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

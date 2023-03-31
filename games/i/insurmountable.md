@@ -1,5 +1,7 @@
 # Insurmountable
-Rating: 4.20 (711)  (as of 23.09.2022)  
+Rating: 4.20 (Ranked $792)  
+Number of Ratings: 711  (23.09.2022)  
+Popularity (Based on Awards): 22 (Ranked $461)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

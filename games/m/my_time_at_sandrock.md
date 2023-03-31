@@ -1,5 +1,7 @@
 # My Time at Sandrock
-Rating: 4.68 (892)  (as of 23.09.2022)  
+Rating: 4.68 (Ranked $234)  
+Number of Ratings: 892  (23.09.2022)  
+Popularity (Based on Awards): 545 (Ranked $169)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

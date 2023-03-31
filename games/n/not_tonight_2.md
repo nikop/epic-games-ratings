@@ -1,5 +1,6 @@
 # Not Tonight 2
-Rating: 4.19 (-)  (as of 23.09.2022)  
+Rating: 4.19 (Ranked $802)  
+Popularity (Based on Awards): 0 (Ranked $478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,5 +1,7 @@
 # Cyberpunk 2077
-Rating: 4.62 (32,700)  (as of 23.09.2022)  
+Rating: 4.62 (Ranked $333)  
+Number of Ratings: 32,700  (23.09.2022)  
+Popularity (Based on Awards): 60,131 (Ranked $9)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

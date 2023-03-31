@@ -1,5 +1,7 @@
 # Empires of the Undergrowth
-Rating: 4.76 (212)  (as of 23.09.2022)  
+Rating: 4.76 (Ranked $113)  
+Number of Ratings: 212  (23.09.2022)  
+Popularity (Based on Awards): 39 (Ranked $402)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

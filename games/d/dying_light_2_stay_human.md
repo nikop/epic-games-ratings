@@ -1,5 +1,7 @@
 # Dying Light 2 Stay Human
-Rating: 4.57 (7,305)  (as of 23.09.2022)  
+Rating: 4.57 (Ranked $419)  
+Number of Ratings: 7,305  (23.09.2022)  
+Popularity (Based on Awards): 6,198 (Ranked $48)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

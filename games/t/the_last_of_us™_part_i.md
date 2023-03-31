@@ -1,5 +1,6 @@
 # The Last of Us™ Part I
-Rating: 3.31 (-)  (as of 23.09.2022)  
+Rating: 3.31 (Ranked $893)  
+Popularity (Based on Awards): 0 (Ranked $478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,5 +1,7 @@
 # Salt and Sanctuary
-Rating: 4.61 (3,114)  (as of 23.09.2022)  
+Rating: 4.61 (Ranked $349)  
+Number of Ratings: 3,114  (23.09.2022)  
+Popularity (Based on Awards): 264 (Ranked $228)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

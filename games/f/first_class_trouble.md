@@ -1,5 +1,6 @@
 # First Class Trouble
-Rating: 4.52 (-)  (as of 23.09.2022)  
+Rating: 4.52 (Ranked $495)  
+Popularity (Based on Awards): 67 (Ranked $355)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

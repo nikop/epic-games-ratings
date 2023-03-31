@@ -1,5 +1,7 @@
 # Just Die Already
-Rating: 4.52 (2,280)  (as of 23.09.2022)  
+Rating: 4.52 (Ranked $495)  
+Number of Ratings: 2,280  (23.09.2022)  
+Popularity (Based on Awards): 97 (Ranked $313)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

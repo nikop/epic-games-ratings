@@ -1,5 +1,7 @@
 # RimWorld
-Rating: 4.89 (870)  (as of 23.09.2022)  
+Rating: 4.89 (Ranked $13)  
+Number of Ratings: 870  (23.09.2022)  
+Popularity (Based on Awards): 391 (Ranked $192)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

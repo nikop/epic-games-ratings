@@ -1,5 +1,7 @@
 # Sonic Origins
-Rating: 4.57 (154)  (as of 23.09.2022)  
+Rating: 4.57 (Ranked $419)  
+Number of Ratings: 154  (23.09.2022)  
+Popularity (Based on Awards): 115 (Ranked $297)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

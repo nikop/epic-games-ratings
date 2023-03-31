@@ -1,5 +1,7 @@
 # Shadowrun Returns
-Rating: 4.43 (324)  (as of 23.09.2022)  
+Rating: 4.43 (Ranked $622)  
+Number of Ratings: 324  (23.09.2022)  
+Popularity (Based on Awards): 66 (Ranked $356)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

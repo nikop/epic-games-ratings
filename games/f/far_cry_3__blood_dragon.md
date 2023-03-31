@@ -1,5 +1,7 @@
 # Far Cry 3: Blood Dragon
-Rating: 4.61 (54)  (as of 23.09.2022)  
+Rating: 4.61 (Ranked $349)  
+Number of Ratings: 54  (23.09.2022)  
+Popularity (Based on Awards): 0 (Ranked $478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

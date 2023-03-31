@@ -1,5 +1,6 @@
 # Shin-chan Me and the Professor on Summer Vacation
-Rating: - (-)  (as of 23.09.2022)  
+Rating: - (Ranked $-)  
+Popularity (Based on Awards): - (Ranked $-)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,5 +1,7 @@
 # Sheltered
-Rating: 4.42 (877)  (as of 23.09.2022)  
+Rating: 4.42 (Ranked $630)  
+Number of Ratings: 877  (23.09.2022)  
+Popularity (Based on Awards): 261 (Ranked $229)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

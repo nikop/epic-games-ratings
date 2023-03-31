@@ -1,5 +1,6 @@
 # Potion Permit
-Rating: 3.75 (-)  (as of 23.09.2022)  
+Rating: 3.75 (Ranked $888)  
+Popularity (Based on Awards): 66 (Ranked $356)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

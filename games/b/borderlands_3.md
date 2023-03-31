@@ -1,5 +1,7 @@
 # Borderlands 3
-Rating: 4.69 (151,211)  (as of 23.09.2022)  
+Rating: 4.69 (Ranked $215)  
+Number of Ratings: 151,211  (23.09.2022)  
+Popularity (Based on Awards): 106,148 (Ranked $8)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,5 +1,7 @@
 # Amnesia: Rebirth
-Rating: 4.24 (1,664)  (as of 23.09.2022)  
+Rating: 4.24 (Ranked $770)  
+Number of Ratings: 1,664  (23.09.2022)  
+Popularity (Based on Awards): 31 (Ranked $429)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

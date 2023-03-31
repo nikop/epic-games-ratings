@@ -1,5 +1,7 @@
 # Iratus: Lord of the Dead
-Rating: 4.37 (10,109)  (as of 23.09.2022)  
+Rating: 4.37 (Ranked $684)  
+Number of Ratings: 10,109  (23.09.2022)  
+Popularity (Based on Awards): 2,121 (Ranked $96)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

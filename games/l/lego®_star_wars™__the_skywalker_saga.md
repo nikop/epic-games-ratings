@@ -1,5 +1,7 @@
 # LEGO® Star Wars™: The Skywalker Saga
-Rating: 4.79 (2,536)  (as of 23.09.2022)  
+Rating: 4.79 (Ranked $94)  
+Number of Ratings: 2,536  (23.09.2022)  
+Popularity (Based on Awards): 2,211 (Ranked $93)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

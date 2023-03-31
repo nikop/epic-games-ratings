@@ -1,5 +1,6 @@
 # Fort Triumph
-Rating: 4.08 (-)  (as of 23.09.2022)  
+Rating: 4.08 (Ranked $848)  
+Popularity (Based on Awards): 136 (Ranked $283)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

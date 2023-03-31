@@ -1,5 +1,7 @@
 # HOT WHEELS UNLEASHED™
-Rating: 4.60 (312)  (as of 23.09.2022)  
+Rating: 4.60 (Ranked $374)  
+Number of Ratings: 312  (23.09.2022)  
+Popularity (Based on Awards): 36 (Ranked $409)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,5 +1,7 @@
 # House Flipper
-Rating: 4.70 (1,023)  (as of 23.09.2022)  
+Rating: 4.70 (Ranked $194)  
+Number of Ratings: 1,023  (23.09.2022)  
+Popularity (Based on Awards): 277 (Ranked $222)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

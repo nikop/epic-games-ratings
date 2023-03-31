@@ -1,5 +1,6 @@
 # New Super Lucky's Tale
-Rating: 4.59 (-)  (as of 23.09.2022)  
+Rating: 4.59 (Ranked $388)  
+Popularity (Based on Awards): 0 (Ranked $478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

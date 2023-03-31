@@ -1,5 +1,7 @@
 # The Walking Dead : The Definitive Series
-Rating: 4.86 (663)  (as of 23.09.2022)  
+Rating: 4.86 (Ranked $32)  
+Number of Ratings: 663  (23.09.2022)  
+Popularity (Based on Awards): 444 (Ranked $185)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

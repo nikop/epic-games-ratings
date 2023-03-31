@@ -1,5 +1,7 @@
 # The Spectrum Retreat
-Rating: 4.25 (230)  (as of 23.09.2022)  
+Rating: 4.25 (Ranked $766)  
+Number of Ratings: 230  (23.09.2022)  
+Popularity (Based on Awards): 0 (Ranked $478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

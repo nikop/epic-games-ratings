@@ -1,5 +1,7 @@
 # Fell Seal: Arbiter's Mark
-Rating: 4.56 (39)  (as of 23.09.2022)  
+Rating: 4.56 (Ranked $436)  
+Number of Ratings: 39  (23.09.2022)  
+Popularity (Based on Awards): 27 (Ranked $444)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

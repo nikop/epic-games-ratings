@@ -1,5 +1,6 @@
 # Prince of Persia: The Sands of Time Remake
-Rating: - (-)  (as of 23.09.2022)  
+Rating: - (Ranked $-)  
+Popularity (Based on Awards): - (Ranked $-)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

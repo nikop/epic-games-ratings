@@ -1,5 +1,7 @@
 # Train Valley 2
-Rating: 4.14 (87)  (as of 23.09.2022)  
+Rating: 4.14 (Ranked $830)  
+Number of Ratings: 87  (23.09.2022)  
+Popularity (Based on Awards): 69 (Ranked $350)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

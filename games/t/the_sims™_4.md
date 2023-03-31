@@ -1,5 +1,6 @@
 # The Sims™ 4
-Rating: 4.58 (-)  (as of 23.09.2022)  
+Rating: 4.58 (Ranked $400)  
+Popularity (Based on Awards): 63 (Ranked $361)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

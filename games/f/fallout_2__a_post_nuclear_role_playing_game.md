@@ -1,5 +1,6 @@
 # Fallout 2: A Post Nuclear Role Playing Game
-Rating: 4.76 (-)  (as of 23.09.2022)  
+Rating: 4.76 (Ranked $113)  
+Popularity (Based on Awards): 54 (Ranked $372)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

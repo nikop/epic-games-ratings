@@ -1,5 +1,7 @@
 # VALORANT
-Rating: 4.54 (157,172)  (as of 23.09.2022)  
+Rating: 4.54 (Ranked $468)  
+Number of Ratings: 157,172  (23.09.2022)  
+Popularity (Based on Awards): 46,986 (Ranked $11)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

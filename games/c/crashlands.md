@@ -1,5 +1,7 @@
 # Crashlands
-Rating: 4.65 (517)  (as of 23.09.2022)  
+Rating: 4.66 (Ranked $272)  
+Number of Ratings: 517  (23.09.2022)  
+Popularity (Based on Awards): 186 (Ranked $258)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
@@ -80,3 +82,4 @@ Rating: 4.65 (517)  (as of 23.09.2022)
 | 2023-03-10 | 4.65 | - | - |
 | 2023-03-13 | 4.66 | - | - |
 | 2023-03-27 | 4.65 | - | - |
+| 2023-03-31 | 4.66 | - | 186 |

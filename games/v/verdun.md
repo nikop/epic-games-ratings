@@ -1,5 +1,7 @@
 # Verdun
-Rating: 4.53 (1,999)  (as of 23.09.2022)  
+Rating: 4.53 (Ranked $481)  
+Number of Ratings: 1,999  (23.09.2022)  
+Popularity (Based on Awards): 92 (Ranked $322)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

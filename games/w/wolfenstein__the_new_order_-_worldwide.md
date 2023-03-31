@@ -1,5 +1,7 @@
 # Wolfenstein: The New Order - Worldwide
-Rating: 4.58 (61,135)  (as of 23.09.2022)  
+Rating: 4.58 (Ranked $400)  
+Number of Ratings: 61,135  (23.09.2022)  
+Popularity (Based on Awards): 14,282 (Ranked $19)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

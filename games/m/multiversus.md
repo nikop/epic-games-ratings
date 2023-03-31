@@ -1,5 +1,7 @@
 # MultiVersus
-Rating: 4.56 (55,748)  (as of 23.09.2022)  
+Rating: 4.56 (Ranked $436)  
+Number of Ratings: 55,748  (23.09.2022)  
+Popularity (Based on Awards): 4,724 (Ranked $62)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

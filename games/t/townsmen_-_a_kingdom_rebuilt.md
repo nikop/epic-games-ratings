@@ -1,5 +1,7 @@
 # Townsmen - A Kingdom Rebuilt
-Rating: 4.32 (37)  (as of 23.09.2022)  
+Rating: 4.32 (Ranked $725)  
+Number of Ratings: 37  (23.09.2022)  
+Popularity (Based on Awards): 0 (Ranked $478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

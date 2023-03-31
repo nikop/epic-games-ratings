@@ -1,5 +1,7 @@
 # Darkest Dungeon II
-Rating: 4.67 (7,767)  (as of 23.09.2022)  
+Rating: 4.67 (Ranked $255)  
+Number of Ratings: 7,767  (23.09.2022)  
+Popularity (Based on Awards): 6,386 (Ranked $44)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,5 +1,7 @@
 # SuchArt: Genius Artist Simulator
-Rating: 4.70 (125)  (as of 23.09.2022)  
+Rating: 4.70 (Ranked $194)  
+Number of Ratings: 125  (23.09.2022)  
+Popularity (Based on Awards): 0 (Ranked $478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

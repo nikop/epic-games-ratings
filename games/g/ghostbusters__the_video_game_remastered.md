@@ -1,5 +1,7 @@
 # Ghostbusters: The Video Game Remastered
-Rating: 4.46 (418)  (as of 23.09.2022)  
+Rating: 4.46 (Ranked $578)  
+Number of Ratings: 418  (23.09.2022)  
+Popularity (Based on Awards): 105 (Ranked $307)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

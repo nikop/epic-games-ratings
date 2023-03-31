@@ -1,5 +1,6 @@
 # Brawlhalla
-Rating: 4.55 (-)  (as of 23.09.2022)  
+Rating: 4.55 (Ranked $456)  
+Popularity (Based on Awards): 53 (Ranked $374)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

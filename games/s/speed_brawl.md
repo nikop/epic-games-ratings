@@ -1,5 +1,7 @@
 # Speed Brawl
-Rating: 4.32 (104)  (as of 23.09.2022)  
+Rating: 4.32 (Ranked $725)  
+Number of Ratings: 104  (23.09.2022)  
+Popularity (Based on Awards): 29 (Ranked $437)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

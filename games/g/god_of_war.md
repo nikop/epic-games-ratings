@@ -1,5 +1,7 @@
 # God of War
-Rating: 4.89 (4,943)  (as of 23.09.2022)  
+Rating: 4.89 (Ranked $13)  
+Number of Ratings: 4,943  (23.09.2022)  
+Popularity (Based on Awards): 3,892 (Ranked $72)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

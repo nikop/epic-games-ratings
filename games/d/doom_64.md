@@ -1,5 +1,7 @@
 # DOOM 64
-Rating: 4.66 (5,134)  (as of 23.09.2022)  
+Rating: 4.66 (Ranked $272)  
+Number of Ratings: 5,134  (23.09.2022)  
+Popularity (Based on Awards): 1,282 (Ranked $117)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

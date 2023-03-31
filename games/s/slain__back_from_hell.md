@@ -1,5 +1,6 @@
 # Slain: Back From Hell
-Rating: 4.29 (-)  (as of 23.09.2022)  
+Rating: 4.29 (Ranked $745)  
+Popularity (Based on Awards): 124 (Ranked $290)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,5 +1,6 @@
 # Lost Eidolons
-Rating: 4.30 (-)  (as of 23.09.2022)  
+Rating: 4.30 (Ranked $737)  
+Popularity (Based on Awards): 0 (Ranked $478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

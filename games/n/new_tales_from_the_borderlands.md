@@ -1,5 +1,6 @@
 # New Tales from the Borderlands
-Rating: 4.07 (-)  (as of 23.09.2022)  
+Rating: 4.07 (Ranked $850)  
+Popularity (Based on Awards): 0 (Ranked $478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

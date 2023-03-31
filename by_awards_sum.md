@@ -2,10 +2,10 @@
 | --- | ---- | ------ | ---------------- | 
 | 1 | [Fortnite](games/f/fortnite.md) | 4.30 | 8,551,765 | 
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 2,526,279 | 
-| 3 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 1,286,519 | 
+| 3 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 1,286,540 | 
 | 4 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 1,224,305 | 
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 1,210,331 | 
-| 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 427,320 | 
+| 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 427,434 | 
 | 7 | [VALORANT](games/v/valorant.md) | 4.54 | 360,361 | 
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 332,127 | 
 | 9 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 325,920 | 
@@ -19,7 +19,7 @@
 | 17 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 76,752 | 
 | 18 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 63,498 | 
 | 19 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 53,953 | 
-| 20 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 52,793 | 
+| 20 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 52,804 | 
 | 21 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 48,848 | 
 | 22 | [Dauntless](games/d/dauntless.md) | 4.53 | 47,794 | 
 | 23 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 46,232 | 
@@ -56,7 +56,7 @@
 | 54 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 16,922 | 
 | 55 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 16,254 | 
 | 56 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 16,162 | 
-| 57 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 15,270 | 
+| 57 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 15,272 | 
 | 58 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 14,235 | 
 | 59 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 14,046 | 
 | 60 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 13,750 | 
@@ -324,7 +324,7 @@
 | 322 | [20XX](games/2/20xx.md) | 4.61 | 272 | 
 | 322 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 271 | 
 | 324 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 270 | 
-| 325 | [Crashlands](games/c/crashlands.md) | 4.65 | 269 | 
+| 325 | [Crashlands](games/c/crashlands.md) | 4.66 | 269 | 
 | 326 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 269 | 
 | 327 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 262 | 
 | 328 | [Sheltered](games/s/sheltered.md) | 4.42 | 261 | 

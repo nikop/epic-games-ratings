@@ -144,7 +144,7 @@
 | 142 | [Costume Quest](games/c/costume_quest.md) | 4.53 | - | 
 | 143 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | - | 
 | 144 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | - | 
-| 145 | [Crashlands](games/c/crashlands.md) | 4.65 | 186x Character Customization | 
+| 145 | [Crashlands](games/c/crashlands.md) | 4.66 | 186x Character Customization | 
 | 146 | [Crayta](games/c/crayta.md) | 4.19 | 50x Diverse Characters | 
 | 147 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 22x Great Boss Battles | 
 | 148 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.83 | - | 
@@ -469,7 +469,7 @@
 | 467 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,200x Character Customization | 
 | 468 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 545x Character Customization | 
 | 469 | [MythForce](games/m/mythforce.md) | 4.51 | 32x Highly Recommended | 
-| 470 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 178,254x Great Boss Battles | 
+| 470 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 178,254x Great Boss Battles | 
 | 471 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,617x Relaxing | 
 | 472 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.11 | - | 
 | 473 | [Necrosmith](games/n/necrosmith.md) | 4.39 | - | 

@@ -1,5 +1,7 @@
 # King's Bounty: Armored Princess
-Rating: 4.82 (20)  (as of 23.09.2022)  
+Rating: 4.82 (Ranked $61)  
+Number of Ratings: 20  (23.09.2022)  
+Popularity (Based on Awards): 0 (Ranked $478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

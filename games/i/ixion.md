@@ -1,5 +1,6 @@
 # IXION
-Rating: 4.54 (-)  (as of 23.09.2022)  
+Rating: 4.54 (Ranked $468)  
+Popularity (Based on Awards): 0 (Ranked $478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

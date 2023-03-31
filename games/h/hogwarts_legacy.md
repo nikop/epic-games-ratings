@@ -1,5 +1,6 @@
 # Hogwarts Legacy
-Rating: 4.78 (-)  (as of 23.09.2022)  
+Rating: 4.78 (Ranked $100)  
+Popularity (Based on Awards): 16,246 (Ranked $18)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

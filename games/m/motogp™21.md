@@ -1,5 +1,7 @@
 # MotoGP™21
-Rating: 4.58 (95)  (as of 23.09.2022)  
+Rating: 4.58 (Ranked $400)  
+Number of Ratings: 95  (23.09.2022)  
+Popularity (Based on Awards): 22 (Ranked $461)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

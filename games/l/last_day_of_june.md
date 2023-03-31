@@ -1,5 +1,7 @@
 # Last Day of June
-Rating: 4.63 (33)  (as of 23.09.2022)  
+Rating: 4.63 (Ranked $320)  
+Number of Ratings: 33  (23.09.2022)  
+Popularity (Based on Awards): 0 (Ranked $478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

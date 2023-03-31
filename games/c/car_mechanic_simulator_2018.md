@@ -1,11 +1,13 @@
 # Car Mechanic Simulator 2018
-Rating: 4.49 (38,343)  (as of 23.09.2022)  
+Rating: 4.49 (Ranked $537)  
+Number of Ratings: 38,343  (23.09.2022)  
+Popularity (Based on Awards): 1,962 (Ranked $101)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Relaxing | 1,962 |
 | This game is Educational | 1,943 |
-| This game is Great for Beginners | 1,940 |
+| This game is Great for Beginners | 1,942 |
 | This game has Quickly Understood Controls | 1,899 |
 | This game is Extremely Fun | 1,791 |
 | This game is Highly Recommended | 1,739 |
@@ -80,3 +82,4 @@ Rating: 4.49 (38,343)  (as of 23.09.2022)
 | 2022-09-21 | 4.49 | 38,264 | - |
 | 2022-09-22 | 4.49 | 38,318 | - |
 | 2022-09-23 | 4.49 | 38,343 | - |
+| 2023-03-31 | 4.49 | - | 1,962 |

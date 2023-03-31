@@ -1,5 +1,7 @@
 # Nioh: The Complete Edition
-Rating: 4.57 (10,807)  (as of 23.09.2022)  
+Rating: 4.57 (Ranked $419)  
+Number of Ratings: 10,807  (23.09.2022)  
+Popularity (Based on Awards): 7,005 (Ranked $41)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

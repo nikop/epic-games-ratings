@@ -1,5 +1,7 @@
 # Total War: WARHAMMER III
-Rating: 4.68 (882)  (as of 23.09.2022)  
+Rating: 4.68 (Ranked $234)  
+Number of Ratings: 882  (23.09.2022)  
+Popularity (Based on Awards): 1,328 (Ranked $115)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

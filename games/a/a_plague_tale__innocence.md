@@ -1,5 +1,7 @@
 # A Plague Tale: Innocence
-Rating: 4.68 (10,904)  (as of 23.09.2022)  
+Rating: 4.68 (Ranked $234)  
+Number of Ratings: 10,904  (23.09.2022)  
+Popularity (Based on Awards): 3,312 (Ranked $80)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

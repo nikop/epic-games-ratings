@@ -1,5 +1,6 @@
 # Crime Boss: Rockay City
-Rating: 3.83 (-)  (as of 23.09.2022)  
+Rating: 3.83 (Ranked $883)  
+Popularity (Based on Awards): 0 (Ranked $478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

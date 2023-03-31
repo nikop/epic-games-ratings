@@ -1,5 +1,7 @@
 # Fall Guys
-Rating: 4.53 (1,046,587)  (as of 23.09.2022)  
+Rating: 4.53 (Ranked $481)  
+Number of Ratings: 1,046,587  (23.09.2022)  
+Popularity (Based on Awards): 136,985 (Ranked $6)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
@@ -10,7 +12,7 @@ Rating: 4.53 (1,046,587)  (as of 23.09.2022)
 | This game is Great for Quick Sessions | 120,899 |
 | This game has Diverse Characters | 118,550 |
 | This game is Extremely Fun | 115,592 |
-| This game is Highly Recommended | 108,705 |
+| This game is Highly Recommended | 108,726 |
 | This game has Amazing Characters | 106,078 |
 | This game has Amazing Storytelling | 101,196 |
 | This game has Playful Visuals | 96,995 |

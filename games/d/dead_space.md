@@ -1,5 +1,6 @@
 # Dead Space
-Rating: 4.72 (-)  (as of 23.09.2022)  
+Rating: 4.72 (Ranked $167)  
+Popularity (Based on Awards): 30 (Ranked $433)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

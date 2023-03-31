@@ -1,5 +1,6 @@
 # Alba - A Wildlife Adventure
-Rating: 4.63 (-)  (as of 23.09.2022)  
+Rating: 4.63 (Ranked $320)  
+Popularity (Based on Awards): 20 (Ranked $473)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

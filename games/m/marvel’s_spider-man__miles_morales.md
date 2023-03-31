@@ -1,5 +1,6 @@
 # Marvel’s Spider-Man: Miles Morales
-Rating: 4.80 (-)  (as of 23.09.2022)  
+Rating: 4.80 (Ranked $80)  
+Popularity (Based on Awards): 957 (Ranked $136)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

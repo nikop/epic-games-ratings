@@ -1,5 +1,7 @@
 # DEATH STRANDING DIRECTOR'S CUT
-Rating: 4.89 (3,099)  (as of 23.09.2022)  
+Rating: 4.89 (Ranked $13)  
+Number of Ratings: 3,099  (23.09.2022)  
+Popularity (Based on Awards): 6,531 (Ranked $43)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

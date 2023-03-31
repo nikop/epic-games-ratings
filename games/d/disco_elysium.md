@@ -1,5 +1,7 @@
 # Disco Elysium
-Rating: 4.86 (1,611)  (as of 23.09.2022)  
+Rating: 4.86 (Ranked $32)  
+Number of Ratings: 1,611  (23.09.2022)  
+Popularity (Based on Awards): 679 (Ranked $154)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

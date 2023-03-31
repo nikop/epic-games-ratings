@@ -1,5 +1,6 @@
 # Vertical Third Tech Demo
-Rating: - (-)  (as of 23.09.2022)  
+Rating: - (Ranked $-)  
+Popularity (Based on Awards): 0 (Ranked $-)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

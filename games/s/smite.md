@@ -1,5 +1,7 @@
 # SMITE
-Rating: 4.45 (6,749)  (as of 23.09.2022)  
+Rating: 4.45 (Ranked $592)  
+Number of Ratings: 6,749  (23.09.2022)  
+Popularity (Based on Awards): 3,550 (Ranked $77)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

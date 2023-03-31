@@ -1,5 +1,7 @@
 # Desperados III
-Rating: 4.84 (351)  (as of 23.09.2022)  
+Rating: 4.84 (Ranked $47)  
+Number of Ratings: 351  (23.09.2022)  
+Popularity (Based on Awards): 44 (Ranked $391)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

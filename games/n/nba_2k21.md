@@ -1,5 +1,7 @@
 # NBA 2K21
-Rating: 4.39 (43,722)  (as of 23.09.2022)  
+Rating: 4.39 (Ranked $664)  
+Number of Ratings: 43,722  (23.09.2022)  
+Popularity (Based on Awards): 11,617 (Ranked $28)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

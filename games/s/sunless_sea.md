@@ -1,5 +1,7 @@
 # Sunless Sea
-Rating: 4.58 (401)  (as of 23.09.2022)  
+Rating: 4.58 (Ranked $400)  
+Number of Ratings: 401  (23.09.2022)  
+Popularity (Based on Awards): 201 (Ranked $251)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

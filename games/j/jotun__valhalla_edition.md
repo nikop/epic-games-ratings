@@ -1,5 +1,7 @@
 # Jotun: Valhalla Edition
-Rating: 4.41 (758)  (as of 23.09.2022)  
+Rating: 4.41 (Ranked $641)  
+Number of Ratings: 758  (23.09.2022)  
+Popularity (Based on Awards): 92 (Ranked $322)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

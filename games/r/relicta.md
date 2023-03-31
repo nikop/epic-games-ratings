@@ -1,5 +1,7 @@
 # Relicta
-Rating: 4.15 (429)  (as of 23.09.2022)  
+Rating: 4.15 (Ranked $824)  
+Number of Ratings: 429  (23.09.2022)  
+Popularity (Based on Awards): 189 (Ranked $256)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

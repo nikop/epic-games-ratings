@@ -1,5 +1,7 @@
 # Tyranny - Gold Edition
-Rating: 4.59 (1,278)  (as of 23.09.2022)  
+Rating: 4.59 (Ranked $388)  
+Number of Ratings: 1,278  (23.09.2022)  
+Popularity (Based on Awards): 686 (Ranked $153)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

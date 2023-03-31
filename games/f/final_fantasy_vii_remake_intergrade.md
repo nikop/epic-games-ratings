@@ -1,5 +1,7 @@
 # FINAL FANTASY VII REMAKE INTERGRADE
-Rating: 4.85 (15,120)  (as of 23.09.2022)  
+Rating: 4.85 (Ranked $38)  
+Number of Ratings: 15,120  (23.09.2022)  
+Popularity (Based on Awards): 5,430 (Ranked $57)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

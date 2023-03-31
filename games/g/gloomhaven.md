@@ -1,5 +1,7 @@
 # Gloomhaven
-Rating: 4.47 (68)  (as of 23.09.2022)  
+Rating: 4.47 (Ranked $566)  
+Number of Ratings: 68  (23.09.2022)  
+Popularity (Based on Awards): 3,411 (Ranked $79)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

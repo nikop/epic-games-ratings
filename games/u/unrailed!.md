@@ -1,5 +1,7 @@
 # Unrailed!
-Rating: 4.64 (21,990)  (as of 23.09.2022)  
+Rating: 4.64 (Ranked $306)  
+Number of Ratings: 21,990  (23.09.2022)  
+Popularity (Based on Awards): 182 (Ranked $259)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

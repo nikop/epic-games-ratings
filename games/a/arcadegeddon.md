@@ -1,5 +1,7 @@
 # Arcadegeddon
-Rating: 4.49 (801)  (as of 23.09.2022)  
+Rating: 4.49 (Ranked $537)  
+Number of Ratings: 801  (23.09.2022)  
+Popularity (Based on Awards): 61 (Ranked $365)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

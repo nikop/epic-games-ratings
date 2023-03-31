@@ -1,5 +1,6 @@
 # Honkai Impact 3rd
-Rating: 4.49 (-)  (as of 23.09.2022)  
+Rating: 4.49 (Ranked $537)  
+Popularity (Based on Awards): 1,995 (Ranked $100)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

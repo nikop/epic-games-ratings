@@ -1,5 +1,7 @@
 # ARK: Survival Evolved
-Rating: 4.59 (35,570)  (as of 23.09.2022)  
+Rating: 4.59 (Ranked $388)  
+Number of Ratings: 35,570  (23.09.2022)  
+Popularity (Based on Awards): 55,143 (Ranked $10)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

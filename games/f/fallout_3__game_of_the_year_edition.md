@@ -1,5 +1,6 @@
 # Fallout 3: Game of the Year Edition
-Rating: 4.60 (-)  (as of 23.09.2022)  
+Rating: 4.60 (Ranked $374)  
+Popularity (Based on Awards): 13,092 (Ranked $24)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

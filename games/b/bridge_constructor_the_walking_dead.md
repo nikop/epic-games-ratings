@@ -1,5 +1,7 @@
 # Bridge Constructor The Walking Dead
-Rating: 3.94 (104)  (as of 23.09.2022)  
+Rating: 3.94 (Ranked $872)  
+Number of Ratings: 104  (23.09.2022)  
+Popularity (Based on Awards): 29 (Ranked $437)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,5 +1,7 @@
 # Rage 2
-Rating: 4.28 (4,311)  (as of 23.09.2022)  
+Rating: 4.28 (Ranked $752)  
+Number of Ratings: 4,311  (23.09.2022)  
+Popularity (Based on Awards): 2,407 (Ranked $88)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,5 +1,7 @@
 # Dead Cells
-Rating: 4.88 (1,319)  (as of 23.09.2022)  
+Rating: 4.88 (Ranked $19)  
+Number of Ratings: 1,319  (23.09.2022)  
+Popularity (Based on Awards): 237 (Ranked $236)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

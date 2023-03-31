@@ -1,5 +1,7 @@
 # STRANGER OF PARADISE FINAL FANTASY ORIGIN
-Rating: 4.50 (1,919)  (as of 23.09.2022)  
+Rating: 4.50 (Ranked $524)  
+Number of Ratings: 1,919  (23.09.2022)  
+Popularity (Based on Awards): 744 (Ranked $148)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

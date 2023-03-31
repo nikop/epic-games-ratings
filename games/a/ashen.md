@@ -1,5 +1,7 @@
 # Ashen
-Rating: 4.34 (111)  (as of 23.09.2022)  
+Rating: 4.34 (Ranked $708)  
+Number of Ratings: 111  (23.09.2022)  
+Popularity (Based on Awards): 0 (Ranked $478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,5 +1,7 @@
 # DOOM 3
-Rating: 4.61 (105)  (as of 23.09.2022)  
+Rating: 4.61 (Ranked $349)  
+Number of Ratings: 105  (23.09.2022)  
+Popularity (Based on Awards): 63 (Ranked $361)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,5 +1,6 @@
 # Everything
-Rating: 4.57 (-)  (as of 23.09.2022)  
+Rating: 4.57 (Ranked $419)  
+Popularity (Based on Awards): 0 (Ranked $478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
