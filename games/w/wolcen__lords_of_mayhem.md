@@ -1,6 +1,6 @@
 # Wolcen: Lords of Mayhem
 Rating: 4.24 (Ranked 770)  
-Popularity (Based on Awards): 0 (Ranked 478)  
+Popularity (Based on Awards): 0  (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

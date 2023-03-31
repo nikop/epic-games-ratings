@@ -1,7 +1,7 @@
 # Anno 1800 Standard Edition
 Rating: 4.82 (Ranked 61)  
 Number of Ratings: 4,392  (23.09.2022)  
-Popularity (Based on Awards): 1,135 (Ranked 121)  
+Popularity (Based on Awards): 1,135 Relaxing (Ranked 121)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
@@ -14,7 +14,7 @@ Popularity (Based on Awards): 1,135 (Ranked 121)
 | This game has Diverse Characters | 935 |
 | This game has Amazing Characters | 865 |
 | This game has Beautiful Visuals | 654 |
-| This game has a Creative Community | 588 |
+| This game has a Creative Community | 591 |
 | This game has Obsessive Gameplay | 518 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |

@@ -1,7 +1,7 @@
 # Phoenix Point: Complete Edition
 Rating: 4.56 (Ranked 436)  
 Number of Ratings: 2,121  (23.09.2022)  
-Popularity (Based on Awards): 1,756 (Ranked 106)  
+Popularity (Based on Awards): 1,756 Character Customization (Ranked 106)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

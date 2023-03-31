@@ -1,7 +1,7 @@
 # Darksiders Warmastered Edition
 Rating: 4.60 (Ranked 374)  
 Number of Ratings: 721  (23.09.2022)  
-Popularity (Based on Awards): 73 (Ranked 342)  
+Popularity (Based on Awards): 73 Great Boss Battles (Ranked 342)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

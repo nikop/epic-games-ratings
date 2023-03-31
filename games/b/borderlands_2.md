@@ -1,7 +1,7 @@
 # Borderlands 2
 Rating: 4.76 (Ranked 113)  
 Number of Ratings: 13,386  (23.09.2022)  
-Popularity (Based on Awards): 13,755 (Ranked 22)  
+Popularity (Based on Awards): 13,755 Great Boss Battles (Ranked 22)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

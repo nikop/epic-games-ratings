@@ -1,7 +1,7 @@
 # Tomb Raider GAME OF THE YEAR EDITION
 Rating: 4.66 (Ranked 272)  
 Number of Ratings: 20,961  (23.09.2022)  
-Popularity (Based on Awards): 5,725 (Ranked 54)  
+Popularity (Based on Awards): 5,725 Great Boss Battles (Ranked 54)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

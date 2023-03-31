@@ -1,7 +1,7 @@
 # Hellpoint
 Rating: 4.29 (Ranked 745)  
 Number of Ratings: 20  (23.09.2022)  
-Popularity (Based on Awards): 0 (Ranked 478)  
+Popularity (Based on Awards): 0  (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

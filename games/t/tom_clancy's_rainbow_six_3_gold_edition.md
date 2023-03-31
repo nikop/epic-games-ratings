@@ -1,6 +1,6 @@
 # Tom Clancy's Rainbow Six 3 GOLD EDITION
 Rating: - (Ranked -)  
-Popularity (Based on Awards): 0 (Ranked -)  
+Popularity (Based on Awards): 0  (Ranked -)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

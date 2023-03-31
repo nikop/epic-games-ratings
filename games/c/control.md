@@ -1,7 +1,7 @@
 # Control
 Rating: 4.60 (Ranked 374)  
 Number of Ratings: 16,122  (23.09.2022)  
-Popularity (Based on Awards): 8,193 (Ranked 36)  
+Popularity (Based on Awards): 8,193 Great Boss Battles (Ranked 36)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

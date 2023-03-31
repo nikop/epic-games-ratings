@@ -1,7 +1,7 @@
 # Hello Neighbor
 Rating: 4.54 (Ranked 468)  
 Number of Ratings: 1,166  (23.09.2022)  
-Popularity (Based on Awards): 189 (Ranked 256)  
+Popularity (Based on Awards): 189 Relaxing (Ranked 256)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

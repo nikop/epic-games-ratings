@@ -1,7 +1,7 @@
 # The Legend of Heroes: Trails of Cold Steel IV
 Rating: 4.88 (Ranked 19)  
 Number of Ratings: 26  (23.09.2022)  
-Popularity (Based on Awards): 0 (Ranked 478)  
+Popularity (Based on Awards): 0  (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

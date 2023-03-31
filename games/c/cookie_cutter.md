@@ -1,6 +1,6 @@
 # Cookie Cutter
 Rating: - (Ranked -)  
-Popularity (Based on Awards): - (Ranked -)  
+Popularity (Based on Awards): -  (Ranked -)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

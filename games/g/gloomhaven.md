@@ -1,12 +1,12 @@
 # Gloomhaven
 Rating: 4.47 (Ranked 566)  
 Number of Ratings: 68  (23.09.2022)  
-Popularity (Based on Awards): 3,411 (Ranked 79)  
+Popularity (Based on Awards): 3,411 Character Customization (Ranked 79)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Inclusive Character Customization | 3,411 |
-| This game has Diverse Characters | 530 |
+| This game has Diverse Characters | 532 |
 | This game has Challenging Combat | 509 |
 | This game is Extremely Fun | 504 |
 | This game is Highly Recommended | 504 |
@@ -49,3 +49,4 @@ Popularity (Based on Awards): 3,411 (Ranked 79)
 | 2022-12-25 | 4.47 | - | - |
 | 2023-01-06 | 4.46 | - | - |
 | 2023-01-08 | 4.47 | - | - |
+| 2023-03-31 | 4.47 | - | 3,411 |

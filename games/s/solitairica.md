@@ -1,7 +1,7 @@
 # Solitairica
 Rating: 4.49 (Ranked 537)  
 Number of Ratings: 474  (23.09.2022)  
-Popularity (Based on Awards): 81 (Ranked 336)  
+Popularity (Based on Awards): 81 Quickly Understood Controls (Ranked 336)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,7 +1,7 @@
 # Unexplored 2: The Wayfarer's Legacy
 Rating: 4.36 (Ranked 690)  
 Number of Ratings: 28  (23.09.2022)  
-Popularity (Based on Awards): 0 (Ranked 478)  
+Popularity (Based on Awards): 0  (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

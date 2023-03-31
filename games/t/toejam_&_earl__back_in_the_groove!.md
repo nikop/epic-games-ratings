@@ -1,6 +1,6 @@
 # ToeJam & Earl: Back in the Groove!
 Rating: 4.33 (Ranked 718)  
-Popularity (Based on Awards): 0 (Ranked 478)  
+Popularity (Based on Awards): 0  (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,7 +1,7 @@
 # Solar Ash
 Rating: 4.66 (Ranked 272)  
 Number of Ratings: 106  (23.09.2022)  
-Popularity (Based on Awards): 24 (Ranked 456)  
+Popularity (Based on Awards): 24 Great Boss Battles (Ranked 456)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

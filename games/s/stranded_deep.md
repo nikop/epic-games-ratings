@@ -1,7 +1,7 @@
 # Stranded Deep
 Rating: 4.22 (Ranked 784)  
 Number of Ratings: 3,300  (23.09.2022)  
-Popularity (Based on Awards): 199 (Ranked 253)  
+Popularity (Based on Awards): 199 Quickly Understood Controls (Ranked 253)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,7 +1,7 @@
 # Dead by Daylight
 Rating: 4.53 (Ranked 481)  
 Number of Ratings: 70,340  (23.09.2022)  
-Popularity (Based on Awards): 25,897 (Ranked 15)  
+Popularity (Based on Awards): 25,897 Diverse Characters (Ranked 15)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

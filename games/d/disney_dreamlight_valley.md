@@ -1,7 +1,7 @@
 # Disney Dreamlight Valley
 Rating: 4.76 (Ranked 113)  
 Number of Ratings: 1,396  (23.09.2022)  
-Popularity (Based on Awards): 789 (Ranked 144)  
+Popularity (Based on Awards): 789 Great for Beginners (Ranked 144)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

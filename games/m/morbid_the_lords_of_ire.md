@@ -1,6 +1,6 @@
 # Morbid The Lords of Ire
 Rating: - (Ranked -)  
-Popularity (Based on Awards): - (Ranked -)  
+Popularity (Based on Awards): -  (Ranked -)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,13 +1,13 @@
 # Mount & Blade II: Bannerlord
 Rating: 4.74 (Ranked 141)  
 Number of Ratings: 5,603  (23.09.2022)  
-Popularity (Based on Awards): 6,292 (Ranked 45)  
+Popularity (Based on Awards): 6,292 Character Customization (Ranked 45)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Inclusive Character Customization | 6,292 |
+| This game is Great for Beginners | 746 |
 | This game has Diverse Characters | 744 |
-| This game is Great for Beginners | 743 |
 | This game is Highly Recommended | 730 |
 | This game is Extremely Fun | 689 |
 | This game has Amazing Storytelling | 686 |
@@ -95,3 +95,4 @@ Popularity (Based on Awards): 6,292 (Ranked 45)
 | 2023-03-13 | 4.74 | - | - |
 | 2023-03-14 | 4.75 | - | - |
 | 2023-03-20 | 4.74 | - | - |
+| 2023-03-31 | 4.74 | - | 6,292 |

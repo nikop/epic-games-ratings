@@ -1,7 +1,7 @@
 # Horizon Zero Dawn™ Complete Edition
 Rating: 4.77 (Ranked 106)  
 Number of Ratings: 7,175  (23.09.2022)  
-Popularity (Based on Awards): 3,797 (Ranked 74)  
+Popularity (Based on Awards): 3,797 Character Customization (Ranked 74)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
@@ -11,7 +11,7 @@ Popularity (Based on Awards): 3,797 (Ranked 74)
 | This game has Amazing Storytelling | 209 |
 | This game is Highly Recommended | 204 |
 | This game has Beautiful Visuals | 201 |
-| This game is Relaxing | 196 |
+| This game is Relaxing | 197 |
 | This game has Diverse Characters | 193 |
 | This game has Amazing Characters | 191 |
 | This game has Quickly Understood Controls | 191 |
@@ -84,3 +84,4 @@ Popularity (Based on Awards): 3,797 (Ranked 74)
 | 2022-09-21 | 4.77 | 7,083 | - |
 | 2022-09-22 | 4.77 | 7,144 | - |
 | 2022-09-23 | 4.77 | 7,175 | - |
+| 2023-03-31 | 4.77 | - | 3,797 |

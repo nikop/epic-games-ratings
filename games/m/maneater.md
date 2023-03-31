@@ -1,7 +1,7 @@
 # Maneater
 Rating: 4.49 (Ranked 537)  
 Number of Ratings: 82,037  (23.09.2022)  
-Popularity (Based on Awards): 13,362 (Ranked 23)  
+Popularity (Based on Awards): 13,362 Character Customization (Ranked 23)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,6 +1,6 @@
 # Football Manager 2020
 Rating: - (Ranked -)  
-Popularity (Based on Awards): - (Ranked -)  
+Popularity (Based on Awards): -  (Ranked -)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

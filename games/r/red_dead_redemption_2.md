@@ -1,7 +1,7 @@
 # Red Dead Redemption 2
 Rating: 4.89 (Ranked 13)  
 Number of Ratings: 102,658  (23.09.2022)  
-Popularity (Based on Awards): 129,139 (Ranked 7)  
+Popularity (Based on Awards): 129,139 Impact the Story (Ranked 7)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

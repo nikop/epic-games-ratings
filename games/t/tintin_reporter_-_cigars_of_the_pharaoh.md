@@ -1,6 +1,6 @@
 # Tintin Reporter - Cigars of the Pharaoh
 Rating: - (Ranked -)  
-Popularity (Based on Awards): - (Ranked -)  
+Popularity (Based on Awards): -  (Ranked -)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

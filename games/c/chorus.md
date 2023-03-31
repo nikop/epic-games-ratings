@@ -1,7 +1,7 @@
 # Chorus
 Rating: 4.47 (Ranked 566)  
 Number of Ratings: 58  (23.09.2022)  
-Popularity (Based on Awards): 32 (Ranked 424)  
+Popularity (Based on Awards): 32 Great Boss Battles (Ranked 424)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

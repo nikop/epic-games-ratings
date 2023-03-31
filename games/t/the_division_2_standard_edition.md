@@ -1,7 +1,7 @@
 # The Division 2 Standard Edition
 Rating: 4.46 (Ranked 578)  
 Number of Ratings: 6,675  (23.09.2022)  
-Popularity (Based on Awards): 6,266 (Ranked 46)  
+Popularity (Based on Awards): 6,266 Character Customization (Ranked 46)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

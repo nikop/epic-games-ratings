@@ -1,7 +1,7 @@
 # Transistor
 Rating: 4.62 (Ranked 333)  
 Number of Ratings: 123  (23.09.2022)  
-Popularity (Based on Awards): 0 (Ranked 478)  
+Popularity (Based on Awards): 0  (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

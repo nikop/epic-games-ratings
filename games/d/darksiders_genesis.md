@@ -1,7 +1,7 @@
 # Darksiders Genesis
 Rating: 4.51 (Ranked 509)  
 Number of Ratings: 67  (23.09.2022)  
-Popularity (Based on Awards): 38 (Ranked 404)  
+Popularity (Based on Awards): 38 Great Boss Battles (Ranked 404)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
