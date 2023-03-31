@@ -191,7 +191,7 @@ namespace EpicRatingsUpdater
                 }
                 else if (item.NumberOfAwardsMax > 0)
                 {
-                    sb.Append($"**{FormatVotes(item.NumberOfAwardsMax)}");
+                    sb.Append($"{FormatVotes(item.NumberOfAwardsMax)}");
                 }
                 else
                 {
