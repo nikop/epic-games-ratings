@@ -1,6 +1,18 @@
 {
   "ID": "3658d3b2ab274e47baf9da3225ad128e",
   "Name": "The Entropy Centre",
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-03-31T13:57:59.7998545+00:00",
+  "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
+  "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T13:57:59.7998559+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -3,15 +3,15 @@ Rating: 4.51 (Ranked 509)
 Number of Ratings: 366,020  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Quick Sessions): 366,755  (Ranked 2)  
-Sum: 2,526,279 (Ranked 2)  
+Sum: 2,527,774 (Ranked 2)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Great for Quick Sessions | 366,755 |
 | This game has Competitive Players | 323,827 |
-| This game has Quickly Understood Controls | 295,477 |
-| This game is Extremely Fun | 289,160 |
+| This game has Quickly Understood Controls | 296,294 |
+| This game is Extremely Fun | 289,838 |
 | This game is Highly Recommended | 277,410 |
 | This game has Challenging Combat | 268,016 |
 | This game has Amazing Storytelling | 241,140 |

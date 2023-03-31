@@ -47,7 +47,7 @@
 | [Ashen](games/a/ashen.md) | 4.34 | 709 | 0 | 478 |
 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.67 | 255 | 0 | 478 |
 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 141 | 22 | 461 |
-| [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 235 | 2,877 | 87 |
+| [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 235 | 2,879 | 87 |
 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 419 | 148 | 278 |
 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 509 | 89 | 327 |
 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.57 | 419 | 547 | 167 |
@@ -99,7 +99,7 @@
 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 113 | 1,936 | 102 |
 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 113 | 13,755 | 22 |
 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 215 | 106,213 | 8 |
-| [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 524 | 391 | 192 |
+| [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 524 | 391 | 193 |
 | [Brawlhalla](games/b/brawlhalla.md) | 4.55 | 456 | 53 | 374 |
 | [Breathedge](games/b/breathedge.md) | 4.59 | 388 | 0 | 478 |
 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 872 | 29 | 437 |
@@ -179,7 +179,7 @@
 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 19 | 237 | 236 |
 | [Dead Space](games/d/dead_space.md) | 4.72 | 167 | 30 | 433 |
 | [Death Coming](games/d/death_coming.md) | 4.42 | 630 | 0 | 478 |
-| [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 99 | 4,243 | 66 |
+| [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 99 | 4,255 | 66 |
 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 13 | 6,531 | 43 |
 | [Death's Door](games/d/death's_door.md) | 4.66 | 272 | 0 | 478 |
 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 468 | 33 | 419 |
@@ -397,7 +397,7 @@
 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 177 | 0 | 478 |
 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 701 | 0 | 478 |
 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 113 | 0 | 478 |
-| [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 177 | 7,036 | 40 |
+| [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 177 | 7,042 | 40 |
 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 61 | 458 | 182 |
 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 127 | 92 | 322 |
 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 99 | 873 | 141 |
@@ -545,7 +545,7 @@
 | [Predecessor](games/p/predecessor.md) | 4.44 | 605 | 43 | 395 |
 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.48 | 552 | 0 | 478 |
 | [Prey](games/p/prey.md) | 4.62 | 333 | 5,475 | 56 |
-| [Prison Architect](games/p/prison_architect.md) | 4.61 | 349 | 389 | 194 |
+| [Prison Architect](games/p/prison_architect.md) | 4.61 | 349 | 392 | 192 |
 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 863 | 1,275 | 118 |
 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 653 | 0 | 478 |
 | [Quake](games/q/quake.md) | 4.75 | 127 | 43 | 395 |
@@ -573,7 +573,7 @@
 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 127 | 382 | 196 |
 | [RiME](games/r/rime.md) | 4.59 | 388 | 0 | 478 |
 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 605 | 0 | 478 |
-| [RimWorld](games/r/rimworld.md) | 4.89 | 13 | 391 | 192 |
+| [RimWorld](games/r/rimworld.md) | 4.89 | 13 | 391 | 193 |
 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 400 | 1,465 | 111 |
 | [Rise of Industry](games/r/rise_of_industry.md) | 4.22 | 784 | 0 | 478 |
 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 215 | 11,115 | 31 |
@@ -716,7 +716,7 @@
 | [Tharsis](games/t/tharsis.md) | 4.05 | 853 | 0 | 478 |
 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 194 | 43 | 395 |
 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.63 | 320 | 0 | 478 |
-| [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 8 | 1,771 | 105 |
+| [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 8 | 1,774 | 105 |
 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 605 | 0 | 478 |
 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.17 | 811 | 43 | 395 |
 | [The Captain](games/t/the_captain.md) | 4.44 | 605 | 97 | 313 |
@@ -849,7 +849,7 @@
 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 524 | 27 | 444 |
 | [War Mongrels](games/w/war_mongrels.md) | 4.30 | 738 | 0 | 478 |
 | [Warface](games/w/warface.md) | 3.92 | 875 | 374 | 198 |
-| [Warframe](games/w/warframe.md) | 4.61 | 349 | 13,837 | 21 |
+| [Warframe](games/w/warframe.md) | 4.61 | 349 | 13,854 | 21 |
 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 215 | 838 | 143 |
 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 400 | 199 | 253 |
 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.24 | 770 | 29 | 437 |
