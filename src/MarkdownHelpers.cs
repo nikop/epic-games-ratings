@@ -137,7 +137,7 @@ namespace EpicRatingsUpdater
 
             }
 
-            sb.AppendLine($"Popularity (Based on Awards): {FormatVotes(item.NumberOfAwardsMax)} (Ranked {FormatRanking(item.Ranking_Popularity)})  ");
+            sb.AppendLine($"Popularity (Based on Awards): {FormatVotes(item.NumberOfAwardsMax)} {item.MaxAwardTitle} (Ranked {FormatRanking(item.Ranking_Popularity)})  ");
 
             sb.AppendLine("## Awards");
 
@@ -191,7 +191,7 @@ namespace EpicRatingsUpdater
                 }
                 else if (item.NumberOfAwardsMax > 0)
                 {
-                    sb.Append($"{FormatVotes(item.NumberOfAwardsMax)}x {item.MaxAwardTitle}");
+                    sb.Append($"**{FormatVotes(item.NumberOfAwardsMax)}");
                 }
                 else
                 {
