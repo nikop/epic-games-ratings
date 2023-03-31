@@ -1,7 +1,7 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 1,182,187 | 4.30 | 738 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 366,755 | 4.51 | 509 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 367,448 | 4.51 | 509 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 278,830 | 4.68 | 236 |
 | 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 178,394 | 4.19 | 802 |
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 150,706 | 4.69 | 215 |
@@ -21,7 +21,7 @@
 | 19 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,284 | 4.58 | 401 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 14,112 | 4.89 | 13 |
 | 21 | [Warframe](games/w/warframe.md) | 13,854 | 4.61 | 350 |
-| 22 | [Borderlands 2](games/b/borderlands_2.md) | 13,755 | 4.76 | 113 |
+| 22 | [Borderlands 2](games/b/borderlands_2.md) | 13,765 | 4.76 | 113 |
 | 23 | [Maneater](games/m/maneater.md) | 13,362 | 4.49 | 537 |
 | 24 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,092 | 4.60 | 374 |
 | 25 | [League of Legends](games/l/league_of_legends.md) | 12,171 | 4.21 | 786 |
@@ -57,7 +57,7 @@
 | 55 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 5,660 | 4.23 | 777 |
 | 56 | [Prey](games/p/prey.md) | 5,475 | 4.62 | 333 |
 | 57 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,430 | 4.85 | 38 |
-| 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,377 | 4.82 | 61 |
+| 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,381 | 4.82 | 61 |
 | 59 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4,917 | 4.68 | 236 |
 | 60 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,803 | 4.05 | 853 |
 | 61 | [Rogue Company](games/r/rogue_company.md) | 4,732 | 4.35 | 701 |
@@ -99,7 +99,7 @@
 | 97 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,120 | 4.10 | 839 |
 | 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,065 | 4.17 | 812 |
 | 99 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,031 | 4.64 | 306 |
-| 100 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 1,995 | 4.49 | 537 |
+| 100 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,009 | 4.49 | 537 |
 | 101 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,963 | 4.49 | 537 |
 | 102 | [Bloons TD 6](games/b/bloons_td_6.md) | 1,962 | 4.76 | 113 |
 | 103 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,853 | 4.66 | 272 |
@@ -175,7 +175,7 @@
 | 173 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 538 | 4.73 | 155 |
 | 174 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 537 | 4.38 | 672 |
 | 175 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 529 | 4.42 | 630 |
-| 176 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 522 | 4.62 | 333 |
+| 176 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 524 | 4.62 | 333 |
 | 177 | [Star Trek Online](games/s/star_trek_online.md) | 501 | 4.44 | 605 |
 | 178 | [Godfall](games/g/godfall.md) | 497 | 4.06 | 852 |
 | 179 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 493 | 4.52 | 495 |
@@ -218,7 +218,7 @@
 | 216 | [Spellbreak](games/s/spellbreak.md) | 304 | 4.63 | 321 |
 | 217 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.27 | 757 |
 | 218 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 295 | 4.59 | 388 |
-| 219 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 292 | 4.70 | 194 |
+| 219 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 293 | 4.70 | 194 |
 | 220 | [Dishonored 2](games/d/dishonored_2.md) | 285 | 4.81 | 67 |
 | 221 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 282 | 4.24 | 771 |
 | 222 | [House Flipper](games/h/house_flipper.md) | 277 | 4.70 | 194 |

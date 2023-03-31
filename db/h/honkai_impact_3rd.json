@@ -5,12 +5,12 @@
   "Ranking_Rating": 537,
   "Ranking_Popularity": 100,
   "Ranking_PopularitySum": 108,
-  "NumberOfAwards": 6336,
-  "NumberOfAwardsMax": 1995,
+  "NumberOfAwards": 6361,
+  "NumberOfAwardsMax": 2009,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
-  "LastChanged": "2023-03-31T19:56:53.0217513+00:00",
+  "LastChanged": "2023-03-31T21:57:01.5449059+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-28T11:32:15.7744845+00:00",
@@ -273,6 +273,12 @@
       "Rating": 4.49,
       "NumberOfAwards": 6336,
       "NumberOfAwardsMax": 1995
+    },
+    {
+      "Time": "2023-03-31T21:57:01.5449061+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 6361,
+      "NumberOfAwardsMax": 2009
     }
   ],
   "Tags": [
@@ -280,7 +286,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1995
+      "Count": 2009
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -298,7 +304,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 296
+      "Count": 303
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -322,7 +328,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 275
+      "Count": 279
     },
     {
       "Text": "This game is Great for Beginners",

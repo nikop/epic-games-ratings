@@ -78,7 +78,7 @@
 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.33 | 719 | 0 | 478 |
 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 255 | 634 | 159 |
 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 93 | 1,428 | 112 |
-| [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 61 | 5,377 | 58 |
+| [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 61 | 5,381 | 58 |
 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 306 | 0 | 478 |
 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 141 | 0 | 478 |
 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 306 | 0 | 478 |
@@ -97,7 +97,7 @@
 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 553 | 0 | 478 |
 | [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | 892 | 0 | 478 |
 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 113 | 1,962 | 102 |
-| [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 113 | 13,755 | 22 |
+| [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 113 | 13,765 | 22 |
 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 215 | 106,213 | 8 |
 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 524 | 391 | 193 |
 | [Brawlhalla](games/b/brawlhalla.md) | 4.55 | 456 | 53 | 374 |
@@ -147,7 +147,7 @@
 | [Crashlands](games/c/crashlands.md) | 4.66 | 272 | 186 | 258 |
 | [Crayta](games/c/crayta.md) | 4.19 | 802 | 50 | 376 |
 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 757 | 22 | 461 |
-| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.85 | 883 | 0 | 478 |
+| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.84 | 883 | 0 | 478 |
 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 690 | 169 | 265 |
 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 701 | 90 | 326 |
 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 537 | 208 | 250 |
@@ -253,7 +253,7 @@
 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 350 | 1,115 | 122 |
 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 605 | 640 | 157 |
 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 641 | 169 | 265 |
-| [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 194 | 292 | 219 |
+| [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 194 | 293 | 219 |
 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 215 | 307 | 214 |
 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 215 | 0 | 478 |
 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 177 | 0 | 478 |
@@ -342,7 +342,7 @@
 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 100 | 8,448 | 35 |
 | [Hob](games/h/hob.md) | 4.57 | 419 | 0 | 478 |
 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 100 | 16,246 | 18 |
-| [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 537 | 1,995 | 100 |
+| [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 537 | 2,009 | 100 |
 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 861 | 366 | 200 |
 | [Horace](games/h/horace.md) | 4.51 | 509 | 0 | 478 |
 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 436 | 127 | 287 |
@@ -378,7 +378,7 @@
 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 641 | 92 | 322 |
 | [Journey](games/j/journey.md) | 4.80 | 79 | 0 | 478 |
 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 419 | 36 | 409 |
-| [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 333 | 522 | 176 |
+| [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 333 | 524 | 176 |
 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 155 | 558 | 166 |
 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 738 | 3,530 | 78 |
 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 495 | 97 | 313 |
@@ -582,7 +582,7 @@
 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 38 | 223 | 242 |
 | [Riverbond](games/r/riverbond.md) | 4.48 | 553 | 0 | 478 |
 | [Road 96](games/r/road_96.md) | 4.62 | 333 | 0 | 478 |
-| [Rocket League®](games/r/rocket_league®.md) | 4.51 | 509 | 366,755 | 2 |
+| [Rocket League®](games/r/rocket_league®.md) | 4.51 | 509 | 367,448 | 2 |
 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 701 | 4,732 | 61 |
 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 350 | 1,055 | 125 |
 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 38 | 214 | 244 |

@@ -61,7 +61,7 @@
 | 55 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 80 | 337 |
 | 55 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.83 | 0 | 478 |
 | 61 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,135 | 121 |
-| 61 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,377 | 58 |
+| 61 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,381 | 58 |
 | 61 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 478 |
 | 61 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 0 | 478 |
 | 61 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 459 | 182 |
@@ -114,7 +114,7 @@
 | 106 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 27 | 444 |
 | 113 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 0 | 478 |
 | 113 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 1,962 | 102 |
-| 113 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 13,755 | 22 |
+| 113 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 13,765 | 22 |
 | 113 | [Diabotical](games/d/diabotical.md) | 4.76 | 259 | 231 |
 | 113 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 789 | 144 |
 | 113 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 39 | 402 |
@@ -195,7 +195,7 @@
 | 177 | [Townscaper](games/t/townscaper.md) | 4.71 | 0 | 478 |
 | 194 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,450 | 65 |
 | 194 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 0 | 478 |
-| 194 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 292 | 219 |
+| 194 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 293 | 219 |
 | 194 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 3,996 | 70 |
 | 194 | [For The King](games/f/for_the_king.md) | 4.70 | 354 | 203 |
 | 194 | [House Flipper](games/h/house_flipper.md) | 4.70 | 277 | 222 |
@@ -335,7 +335,7 @@
 | 333 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 60,214 | 9 |
 | 333 | [GRIME](games/g/grime.md) | 4.62 | 0 | 478 |
 | 333 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 336 | 204 |
-| 333 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 522 | 176 |
+| 333 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 524 | 176 |
 | 333 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 478 |
 | 333 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 567 | 165 |
 | 333 | [MudRunner](games/m/mudrunner.md) | 4.62 | 226 | 239 |
@@ -517,7 +517,7 @@
 | 509 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 102 | 310 |
 | 509 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.51 | 0 | 478 |
 | 509 | [MythForce](games/m/mythforce.md) | 4.51 | 32 | 424 |
-| 509 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 366,755 | 2 |
+| 509 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 367,448 | 2 |
 | 509 | [Sable](games/s/sable.md) | 4.51 | 0 | 478 |
 | 509 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 0 | 478 |
 | 509 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 62 | 363 |
@@ -545,7 +545,7 @@
 | 537 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 0 | 478 |
 | 537 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 270 | 226 |
 | 537 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 209 | 247 |
-| 537 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 1,995 | 100 |
+| 537 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 2,009 | 100 |
 | 537 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 478 |
 | 537 | [Maneater](games/m/maneater.md) | 4.49 | 13,362 | 23 |
 | 537 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 600 | 162 |
@@ -882,7 +882,7 @@
 | 878 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 309 |
 | 881 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 0 | 478 |
 | 882 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 478 |
-| 883 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.85 | 0 | 478 |
+| 883 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.84 | 0 | 478 |
 | 884 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 0 | 478 |
 | 885 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 0 | 478 |
 | 885 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,017 | 129 |
