@@ -3,13 +3,20 @@
   "Name": "Despot\u0027s Game",
   "Rating": 4.5,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-09-30T18:31:44.3056888+00:00",
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
-  "LastChanged": "2023-02-13T17:57:58.7557321+00:00",
+  "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-13T17:57:58.7557324+00:00",
       "Rating": 4.5
+    },
+    {
+      "Time": "2023-03-31T05:58:00.2990226+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

@@ -702,18 +702,26 @@
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
       "Count": 547
     },
     {
       "Text": "This game has Great Boss Battles",
+      "Prefix": "",
+      "Type": "",
       "Count": 32
     },
     {
       "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
       "Count": 21
     },
     {
       "Text": "This game has Unique Visuals",
+      "Prefix": "This game has",
+      "Type": "Unique Visuals",
       "Count": 20
     }
   ]

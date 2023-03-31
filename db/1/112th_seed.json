@@ -2,7 +2,17 @@
   "ID": "04e807a7a0534254ba2c56a2163d370c",
   "Name": "112th Seed",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:32:32.5497756+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:43.5629429+00:00",
+  "LastChanged": "2023-03-31T05:58:43.562943+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:43.5629432+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

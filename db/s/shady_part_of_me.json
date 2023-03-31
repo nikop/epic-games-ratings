@@ -3,9 +3,10 @@
   "Name": "Shady Part of Me",
   "Rating": 4.7,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:21:38.1986449+00:00",
   "FirstSeenRating": "2022-10-19T19:01:08.08918+00:00",
-  "LastChanged": "2023-03-24T03:57:47.6721994+00:00",
+  "LastChanged": "2023-03-31T05:57:27.9729177+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-19T19:01:08.0891804+00:00",
@@ -38,6 +39,12 @@
     {
       "Time": "2023-03-24T03:57:47.6721995+00:00",
       "Rating": 4.7
+    },
+    {
+      "Time": "2023-03-31T05:57:27.972918+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

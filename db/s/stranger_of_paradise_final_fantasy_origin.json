@@ -1317,50 +1317,74 @@
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
       "Count": 744
     },
     {
       "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
       "Count": 91
     },
     {
       "Text": "This game has Inclusive Character Customization",
+      "Prefix": "",
+      "Type": "",
       "Count": 452
     },
     {
       "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
       "Count": 53
     },
     {
       "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
       "Count": 111
     },
     {
       "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
       "Count": 101
     },
     {
       "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
       "Count": 101
     },
     {
       "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
       "Count": 109
     },
     {
       "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
       "Count": 85
     },
     {
       "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
       "Count": 103
     },
     {
       "Text": "This game has Unique Visuals",
+      "Prefix": "This game has",
+      "Type": "Unique Visuals",
       "Count": 82
     },
     {
       "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
       "Count": 58
     }
   ]

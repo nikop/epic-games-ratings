@@ -2,7 +2,17 @@
   "ID": "4814675fe9024f74a23a7395adc49789",
   "Name": "Jaws of Extinction",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:18:39.5435442+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:08.5883293+00:00",
+  "LastChanged": "2023-03-31T05:57:08.5883294+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:08.5883296+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

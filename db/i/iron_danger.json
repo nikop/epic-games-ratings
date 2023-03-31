@@ -2,7 +2,17 @@
   "ID": "cd8a253549eb42ce8ce491e09ca49690",
   "Name": "Iron Danger",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:33:09.0664811+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
+  "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:48.5649616+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

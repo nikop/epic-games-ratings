@@ -542,30 +542,44 @@
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
       "Count": 493
     },
     {
       "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
       "Count": 25
     },
     {
       "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
       "Count": 24
     },
     {
       "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
       "Count": 21
     },
     {
       "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
       "Count": 20
     },
     {
       "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
       "Count": 22
     },
     {
       "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
       "Count": 20
     }
   ]

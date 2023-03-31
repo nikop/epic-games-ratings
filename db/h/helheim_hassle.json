@@ -2,7 +2,17 @@
   "ID": "9fa8b87898c64196aa89daa9d55fc102",
   "Name": "Helheim Hassle",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:23:25.1923537+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:40.9366107+00:00",
+  "LastChanged": "2023-03-31T05:57:40.9366107+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:40.936611+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "9510e329e4df4d0fbf123fc898cf3c21",
   "Name": "Fire Commander",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-11-17T14:58:08.8378516+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:30.1330184+00:00",
+  "LastChanged": "2023-03-31T05:58:30.1330185+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:30.1330187+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "7029f6353d7f468eb6940bbe6041474e",
   "Name": "Touch Type Tale",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-28T17:57:30.7246301+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
+  "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:45.7559867+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

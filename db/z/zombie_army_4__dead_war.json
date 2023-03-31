@@ -3,10 +3,10 @@
   "Name": "Zombie Army 4: Dead War",
   "Rating": 4.69,
   "NumberOfRatings": 743,
-  "NumberOfAwards": 2302,
+  "NumberOfAwards": 2304,
   "NumberOfAwardsMax": 749,
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
-  "LastChanged": "2023-03-27T09:57:05.2802314+00:00",
+  "LastChanged": "2023-03-31T05:57:00.4457559+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:25.2322254+00:00",
@@ -1081,55 +1081,85 @@
     {
       "Time": "2023-03-27T09:57:05.2802315+00:00",
       "Rating": 4.69
+    },
+    {
+      "Time": "2023-03-31T05:57:00.445756+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2304,
+      "NumberOfAwardsMax": 749
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
       "Count": 749
     },
     {
       "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
       "Count": 201
     },
     {
       "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
       "Count": 165
     },
     {
       "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
       "Count": 225
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 197
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 198
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 200
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 201
     },
     {
       "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
       "Count": 179
     },
     {
       "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
       "Count": 190
     },
     {
       "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
       "Count": 172
     },
     {
       "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
       "Count": 189
     },
     {
       "Text": "This game has a Creative Community",
+      "Prefix": "",
+      "Type": "",
       "Count": 40
     },
     {
       "Text": "This game has Challenging Combat",
+      "Prefix": "",
+      "Type": "",
       "Count": 84
     }
   ]

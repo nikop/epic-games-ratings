@@ -2,7 +2,17 @@
   "ID": "8aed7eb334ae42a29337c6b561584790",
   "Name": "HyperParasite",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:19:23.8351895+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:13.1058969+00:00",
+  "LastChanged": "2023-03-31T05:57:13.105897+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:13.1058972+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

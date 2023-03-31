@@ -2,7 +2,17 @@
   "ID": "cb27e4a1c1a345208e0c152df39f0b54",
   "Name": "Funtasia",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-29T15:02:10.1801053+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:08.6152542+00:00",
+  "LastChanged": "2023-03-31T05:58:08.6152543+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:08.6152546+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

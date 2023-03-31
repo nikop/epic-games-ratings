@@ -1896,50 +1896,74 @@
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
       "Count": 592
     },
     {
       "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
       "Count": 604
     },
     {
       "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
       "Count": 622
     },
     {
       "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
       "Count": 581
     },
     {
       "Text": "This game has Realistic Visuals",
+      "Prefix": "This game has",
+      "Type": "Realistic Visuals",
       "Count": 555
     },
     {
       "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
       "Count": 611
     },
     {
       "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
       "Count": 546
     },
     {
       "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
       "Count": 507
     },
     {
       "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
       "Count": 596
     },
     {
       "Text": "This game is Educational",
+      "Prefix": "",
+      "Type": "",
       "Count": 28
     },
     {
       "Text": "This game has a Competitive Community",
+      "Prefix": "This game has a",
+      "Type": "Competitive Community",
       "Count": 480
     },
     {
       "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
       "Count": 149
     }
   ]

@@ -2,7 +2,17 @@
   "ID": "48175747d7244b11838935da9193668d",
   "Name": "Neon City Riders: Super-powered Edition",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:30:47.2788335+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:31.4419417+00:00",
+  "LastChanged": "2023-03-31T05:58:31.4419418+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:31.4419421+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

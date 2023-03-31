@@ -2,7 +2,17 @@
   "ID": "aa54bad47e504fdca79a3eb77be8c465",
   "Name": "Monkey Barrels",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:20:09.9396347+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:18.2020188+00:00",
+  "LastChanged": "2023-03-31T05:57:18.2020189+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:18.2020191+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -3,9 +3,10 @@
   "Name": "Colt Canyon",
   "Rating": 4.61,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:31:00.807877+00:00",
   "FirstSeenRating": "2022-11-22T22:58:31.2864903+00:00",
-  "LastChanged": "2023-03-03T15:58:28.4904282+00:00",
+  "LastChanged": "2023-03-31T05:58:33.0805346+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-22T22:58:31.2864905+00:00",
@@ -22,6 +23,12 @@
     {
       "Time": "2023-03-03T15:58:28.4904284+00:00",
       "Rating": 4.61
+    },
+    {
+      "Time": "2023-03-31T05:58:33.0805349+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

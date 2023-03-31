@@ -2,7 +2,17 @@
   "ID": "ff1ca89cef474e6fa402c58c29a6258a",
   "Name": "Lifeslide",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:21:30.2759488+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:26.7063169+00:00",
+  "LastChanged": "2023-03-31T05:57:26.706317+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:26.7063172+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "9dfbab09058d403892a27b96dcb349aa",
   "Name": "A Good Snowman is Hard to Build",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:29:45.7304482+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:23.4364881+00:00",
+  "LastChanged": "2023-03-31T05:58:23.4364882+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:23.4364884+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

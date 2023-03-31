@@ -2,7 +2,17 @@
   "ID": "87375f89fc4c4c7a8c681cf21febee06",
   "Name": "The Darkside Detective A Fumble in the Dark",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:29:26.6120594+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:21.1206213+00:00",
+  "LastChanged": "2023-03-31T05:58:21.1206214+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:21.1206215+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

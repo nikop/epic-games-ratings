@@ -2,7 +2,17 @@
   "ID": "331877b1814d48618cb5ffeae1f6a470",
   "Name": "Wife Quest",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:19:32.9150039+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:14.1039088+00:00",
+  "LastChanged": "2023-03-31T05:57:14.1039089+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:14.1039095+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

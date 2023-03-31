@@ -2783,54 +2783,80 @@
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
       "Count": 299
     },
     {
       "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
       "Count": 242
     },
     {
       "Text": "This game has Realistic Visuals",
+      "Prefix": "This game has",
+      "Type": "Realistic Visuals",
       "Count": 249
     },
     {
       "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
       "Count": 299
     },
     {
       "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
       "Count": 29
     },
     {
       "Text": "This game is Educational",
+      "Prefix": "",
+      "Type": "",
       "Count": 99
     },
     {
       "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
       "Count": 319
     },
     {
       "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
       "Count": 265
     },
     {
       "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
       "Count": 268
     },
     {
       "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
       "Count": 300
     },
     {
       "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
       "Count": 301
     },
     {
       "Text": "This game has a Competitive Community",
+      "Prefix": "This game has a",
+      "Type": "Competitive Community",
       "Count": 252
     },
     {
       "Text": "This game has Challenging Combat",
+      "Prefix": "",
+      "Type": "",
       "Count": 274
     }
   ]

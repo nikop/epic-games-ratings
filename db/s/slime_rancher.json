@@ -2221,50 +2221,74 @@
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
       "Count": 359
     },
     {
       "Text": "This game has Easy Combat",
+      "Prefix": "This game has",
+      "Type": "Easy Combat",
       "Count": 331
     },
     {
       "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
       "Count": 328
     },
     {
       "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
       "Count": 385
     },
     {
       "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
       "Count": 332
     },
     {
       "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
       "Count": 351
     },
     {
       "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
       "Count": 294
     },
     {
       "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
       "Count": 243
     },
     {
       "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
       "Count": 308
     },
     {
       "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
       "Count": 295
     },
     {
       "Text": "This game has a Kind Community",
+      "Prefix": "",
+      "Type": "",
       "Count": 42
     },
     {
       "Text": "This game is Educational",
+      "Prefix": "",
+      "Type": "",
       "Count": 87
     }
   ]

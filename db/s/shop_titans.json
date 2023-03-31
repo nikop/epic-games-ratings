@@ -3204,34 +3204,50 @@
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
+      "Prefix": "",
+      "Type": "",
       "Count": 22
     },
     {
       "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
       "Count": 3692
     },
     {
       "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
       "Count": 4475
     },
     {
       "Text": "This game has Easy Combat",
+      "Prefix": "This game has",
+      "Type": "Easy Combat",
       "Count": 3578
     },
     {
       "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
       "Count": 3903
     },
     {
       "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
       "Count": 3925
     },
     {
       "Text": "This game has Playful Visuals",
+      "Prefix": "This game has",
+      "Type": "Playful Visuals",
       "Count": 3044
     },
     {
       "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
       "Count": 3636
     }
   ]

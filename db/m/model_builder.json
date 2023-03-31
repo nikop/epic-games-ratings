@@ -2,7 +2,17 @@
   "ID": "23499f64e5304139b514c3e674c5c0d6",
   "Name": "Model Builder",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-01-29T08:58:42.9349994+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:36.1160749+00:00",
+  "LastChanged": "2023-03-31T05:58:36.1160751+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:36.1160753+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

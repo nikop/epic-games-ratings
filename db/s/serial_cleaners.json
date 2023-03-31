@@ -2,7 +2,17 @@
   "ID": "96f4ce259e1b4845848399fc29c718fe",
   "Name": "Serial Cleaners",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-09-24T13:06:20.5748875+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
+  "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:22.2068053+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

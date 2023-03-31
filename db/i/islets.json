@@ -2,7 +2,17 @@
   "ID": "cecc5a53aa534e15881fdbd67a1e83b7",
   "Name": "Islets",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-08-27T20:01:18.3998991+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:48.8913883+00:00",
+  "LastChanged": "2023-03-31T05:57:48.8913885+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:48.8913886+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

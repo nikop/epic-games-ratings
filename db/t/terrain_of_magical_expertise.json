@@ -2,7 +2,17 @@
   "ID": "ac07533f051f4a718304dafb0e124128",
   "Name": "Terrain of Magical Expertise",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:25:24.6549115+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:54.5750741+00:00",
+  "LastChanged": "2023-03-31T05:57:54.5750743+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:54.5750744+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

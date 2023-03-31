@@ -2,7 +2,17 @@
   "ID": "f84a0a87954243bc8dc9ce567619613e",
   "Name": "Screamer 2",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-24T10:01:37.5686839+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:03.925249+00:00",
+  "LastChanged": "2023-03-31T05:58:03.9252491+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:03.9252491+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

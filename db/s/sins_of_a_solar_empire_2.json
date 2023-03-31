@@ -3,9 +3,10 @@
   "Name": "Sins of a Solar Empire 2",
   "Rating": 4.5,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-27T20:00:58.3635967+00:00",
   "FirstSeenRating": "2022-10-28T20:01:29.0144781+00:00",
-  "LastChanged": "2023-03-25T19:57:28.4949433+00:00",
+  "LastChanged": "2023-03-31T05:57:24.7550426+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-28T20:01:29.0144786+00:00",
@@ -150,6 +151,12 @@
     {
       "Time": "2023-03-25T19:57:28.4949434+00:00",
       "Rating": 4.5
+    },
+    {
+      "Time": "2023-03-31T05:57:24.7550427+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

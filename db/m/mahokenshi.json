@@ -2,7 +2,17 @@
   "ID": "bba26f5d4c674d8789dc953faff17f4d",
   "Name": "Mahokenshi",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-01-26T18:57:45.4884336+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:26.5886755+00:00",
+  "LastChanged": "2023-03-31T05:57:26.5886756+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:26.5886758+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

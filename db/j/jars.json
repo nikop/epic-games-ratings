@@ -2,7 +2,17 @@
   "ID": "9b89b68d8751414db0991007bdc4766c",
   "Name": "JARS",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:26:25.1355207+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
+  "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:01.9914292+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

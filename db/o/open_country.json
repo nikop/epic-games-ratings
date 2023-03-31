@@ -2,7 +2,17 @@
   "ID": "dd7c9906a9604b68af4ffe0405f51af5",
   "Name": "Open Country",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:25:37.1555151+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:55.9999735+00:00",
+  "LastChanged": "2023-03-31T05:57:55.9999736+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:55.9999737+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

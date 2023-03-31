@@ -2,7 +2,17 @@
   "ID": "f8622c48c999497d92a1c7800cd37094",
   "Name": "Strategic Mind: Spectre of Communism",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:30:27.5500965+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:29.3255301+00:00",
+  "LastChanged": "2023-03-31T05:58:29.3255302+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:29.3255304+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "e18be81f77f346dfbc4467f4ed715e27",
   "Name": "Blanc",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-02-16T02:13:50.7298186+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
+  "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:12.5808395+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -3,10 +3,10 @@
   "Name": "SMITE",
   "Rating": 4.45,
   "NumberOfRatings": 6749,
-  "NumberOfAwards": 22267,
+  "NumberOfAwards": 22272,
   "NumberOfAwardsMax": 3550,
   "FirstSeen": "2022-07-22T20:18:32.4644513+00:00",
-  "LastChanged": "2022-11-23T19:57:07.7052149+00:00",
+  "LastChanged": "2023-03-31T05:57:07.6432007+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:32.4644518+00:00",
@@ -2919,43 +2919,67 @@
     {
       "Time": "2022-11-23T19:57:07.705215+00:00",
       "Rating": 4.45
+    },
+    {
+      "Time": "2023-03-31T05:57:07.6432008+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 22272,
+      "NumberOfAwardsMax": 3550
     }
   ],
   "Tags": [
     {
       "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
       "Count": 2413
     },
     {
       "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
       "Count": 3550
     },
     {
       "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
       "Count": 2929
     },
     {
       "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
       "Count": 3176
     },
     {
       "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
       "Count": 2762
     },
     {
       "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
       "Count": 2709
     },
     {
       "Text": "This game has Amazing Characters",
-      "Count": 2644
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 2649
     },
     {
       "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
       "Count": 2356
     },
     {
       "Text": "This game has a Competitive Community",
+      "Prefix": "This game has a",
+      "Type": "Competitive Community",
       "Count": 2141
     }
   ]

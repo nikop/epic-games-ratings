@@ -2,7 +2,17 @@
   "ID": "31e80b3ce51943aab3570f9c10c225d9",
   "Name": "Undungeon",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:19:47.3600608+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:15.8850083+00:00",
+  "LastChanged": "2023-03-31T05:57:15.8850084+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:15.8850087+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

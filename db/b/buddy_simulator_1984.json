@@ -2,7 +2,17 @@
   "ID": "a74a1b531da34122be033a3d0c3e7e4b",
   "Name": "Buddy Simulator 1984",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:26:09.2088155+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:00.2890831+00:00",
+  "LastChanged": "2023-03-31T05:58:00.2890832+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:00.2890834+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

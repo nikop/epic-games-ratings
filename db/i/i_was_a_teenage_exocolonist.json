@@ -3,9 +3,10 @@
   "Name": "I Was a Teenage Exocolonist",
   "Rating": 4.68,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-08-26T10:02:52.7146762+00:00",
   "FirstSeenRating": "2022-10-26T05:33:05.8564133+00:00",
-  "LastChanged": "2023-03-28T18:58:00.4526205+00:00",
+  "LastChanged": "2023-03-31T05:58:32.0333378+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-26T05:33:05.8564138+00:00",
@@ -30,6 +31,12 @@
     {
       "Time": "2023-03-28T18:58:00.4526207+00:00",
       "Rating": 4.68
+    },
+    {
+      "Time": "2023-03-31T05:58:32.0333381+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

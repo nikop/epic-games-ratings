@@ -2,7 +2,17 @@
   "ID": "caad69ee9690437da948af6d481aa864",
   "Name": "Legend Bowl",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:32:50.368093+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:45.9619923+00:00",
+  "LastChanged": "2023-03-31T05:58:45.9619924+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:45.9619927+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

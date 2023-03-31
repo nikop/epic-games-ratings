@@ -2,7 +2,17 @@
   "ID": "f3ad35f2d71a4369ad0f42741dbab5e8",
   "Name": "Hazel Sky",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-25T16:02:01.0466594+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:54.9235309+00:00",
+  "LastChanged": "2023-03-31T05:57:54.9235311+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:54.9235311+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

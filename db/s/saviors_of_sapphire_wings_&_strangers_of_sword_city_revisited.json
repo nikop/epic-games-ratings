@@ -2,7 +2,17 @@
   "ID": "3826377bb8fa4612a7af791a363091a6",
   "Name": "Saviors of Sapphire Wings \u0026 Strangers of Sword City Revisited",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:24:57.7949316+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:51.5710918+00:00",
+  "LastChanged": "2023-03-31T05:57:51.5710919+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:51.571092+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

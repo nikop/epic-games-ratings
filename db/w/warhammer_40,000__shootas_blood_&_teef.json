@@ -2,7 +2,17 @@
   "ID": "1ce33fc55a8c4363aaf65227c93185fa",
   "Name": "Warhammer 40,000: Shootas Blood \u0026 Teef",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-20T19:03:02.6403523+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:34.5850764+00:00",
+  "LastChanged": "2023-03-31T05:58:34.5850765+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:34.5850766+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

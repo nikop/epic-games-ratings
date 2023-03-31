@@ -2,7 +2,17 @@
   "ID": "04f58664c247401782ff01d9e245d778",
   "Name": "Raji: An Ancient Epic",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:21:53.1461142+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:30.0229736+00:00",
+  "LastChanged": "2023-03-31T05:57:30.0229737+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:30.0229739+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

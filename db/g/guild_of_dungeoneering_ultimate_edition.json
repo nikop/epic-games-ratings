@@ -3,9 +3,10 @@
   "Name": "Guild of Dungeoneering Ultimate Edition",
   "Rating": 4.65,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:33:05.1793726+00:00",
   "FirstSeenRating": "2022-10-01T01:33:21.6676401+00:00",
-  "LastChanged": "2023-03-18T02:59:05.3785288+00:00",
+  "LastChanged": "2023-03-31T05:58:48.1280562+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-01T01:33:21.6676405+00:00",
@@ -62,6 +63,12 @@
     {
       "Time": "2023-03-18T02:59:05.3785291+00:00",
       "Rating": 4.65
+    },
+    {
+      "Time": "2023-03-31T05:58:48.1280564+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

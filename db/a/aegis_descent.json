@@ -2,7 +2,17 @@
   "ID": "ddac88f4f58b4abc99644d6b529a16cd",
   "Name": "Aegis Descent",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:19:09.1479979+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
+  "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:11.7672734+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

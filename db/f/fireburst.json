@@ -2,7 +2,17 @@
   "ID": "89512c1a466c41eb9ed2b172f2478806",
   "Name": "Fireburst",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-09-21T21:02:58.1037353+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:25.2636519+00:00",
+  "LastChanged": "2023-03-31T05:58:25.2636521+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:25.2636523+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

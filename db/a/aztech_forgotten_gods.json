@@ -2,7 +2,17 @@
   "ID": "b4766bfcd2ca413f82d0d7388645fed2",
   "Name": "Aztech Forgotten Gods",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:24:40.6276389+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:49.5154518+00:00",
+  "LastChanged": "2023-03-31T05:57:49.5154519+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:49.5154522+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

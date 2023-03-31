@@ -2,7 +2,17 @@
   "ID": "e966687f61fa4c40b1e53b45b6e4eb75",
   "Name": "Five Dates",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-18T05:01:58.3974344+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
+  "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:14.2521097+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

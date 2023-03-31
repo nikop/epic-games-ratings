@@ -2,7 +2,17 @@
   "ID": "9c5bbf5fa33d410b955b857c58f41c5c",
   "Name": "3 out of 10, EP 2: Foundation 101",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:32:45.0086444+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:45.3075722+00:00",
+  "LastChanged": "2023-03-31T05:58:45.3075723+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:45.3075726+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

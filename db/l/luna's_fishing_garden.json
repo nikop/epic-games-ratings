@@ -2,7 +2,17 @@
   "ID": "be9b4a568a934573b2204f3fb97f8042",
   "Name": "Luna\u0027s Fishing Garden",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:24:08.9356043+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:45.8897635+00:00",
+  "LastChanged": "2023-03-31T05:57:45.8897637+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:45.8897638+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

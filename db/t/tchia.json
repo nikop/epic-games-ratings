@@ -3,9 +3,10 @@
   "Name": "Tchia",
   "Rating": 4.82,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-21T09:57:30.0588208+00:00",
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
-  "LastChanged": "2023-03-30T13:11:09.4083208+00:00",
+  "LastChanged": "2023-03-31T05:57:34.8318239+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-27T01:58:07.9260384+00:00",
@@ -22,6 +23,12 @@
     {
       "Time": "2023-03-30T13:11:09.4083211+00:00",
       "Rating": 4.82
+    },
+    {
+      "Time": "2023-03-31T05:57:34.8318241+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

@@ -3,13 +3,20 @@
   "Name": "Hercule Poirot - The First Cases",
   "Rating": 4.3,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:32:42.6542114+00:00",
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
-  "LastChanged": "2023-01-28T08:58:06.9323919+00:00",
+  "LastChanged": "2023-03-31T05:58:44.8137902+00:00",
   "RatingHistory": [
     {
       "Time": "2023-01-28T08:58:06.9323921+00:00",
       "Rating": 4.3
+    },
+    {
+      "Time": "2023-03-31T05:58:44.8137903+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

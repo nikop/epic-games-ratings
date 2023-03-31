@@ -2,7 +2,17 @@
   "ID": "005e0b8761284677ad914a6721095e94",
   "Name": "Adams Venture Origins",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:20:58.1217676+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:23.2448699+00:00",
+  "LastChanged": "2023-03-31T05:57:23.24487+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:23.2448703+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

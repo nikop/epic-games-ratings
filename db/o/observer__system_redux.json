@@ -3,9 +3,10 @@
   "Name": "Observer: System Redux",
   "Rating": 4.48,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:26:29.9715628+00:00",
   "FirstSeenRating": "2022-10-25T15:33:31.63586+00:00",
-  "LastChanged": "2023-03-05T13:10:08.3942371+00:00",
+  "LastChanged": "2023-03-31T05:58:02.386239+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-25T15:33:31.6358604+00:00",
@@ -50,6 +51,12 @@
     {
       "Time": "2023-03-05T13:10:08.3942373+00:00",
       "Rating": 4.48
+    },
+    {
+      "Time": "2023-03-31T05:58:02.3862391+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

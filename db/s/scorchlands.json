@@ -2,7 +2,17 @@
   "ID": "c5fd8176d6d44320a11c851ee2246f50",
   "Name": "Scorchlands",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-02-19T08:58:06.6057558+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:53.3418723+00:00",
+  "LastChanged": "2023-03-31T05:57:53.3418725+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:53.3418725+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

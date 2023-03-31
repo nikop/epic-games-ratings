@@ -2,7 +2,17 @@
   "ID": "9f98514084e744ab9c995bdad3950ebb",
   "Name": "Clid The Snail",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:30:02.7778969+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:25.8088524+00:00",
+  "LastChanged": "2023-03-31T05:58:25.8088525+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:25.8088526+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

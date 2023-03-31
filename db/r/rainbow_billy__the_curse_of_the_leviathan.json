@@ -2,7 +2,17 @@
   "ID": "642646defada420d83658f57953aeda5",
   "Name": "Rainbow Billy: The Curse of the Leviathan",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:31:31.9655566+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:35.9289489+00:00",
+  "LastChanged": "2023-03-31T05:58:35.928949+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:35.9289493+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

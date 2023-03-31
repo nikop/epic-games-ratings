@@ -3,10 +3,10 @@
   "Name": "Magic: The Gathering Arena",
   "Rating": 4.45,
   "NumberOfRatings": 14652,
-  "NumberOfAwards": 79596,
+  "NumberOfAwards": 79607,
   "NumberOfAwardsMax": 9596,
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2023-03-21T22:57:24.7057193+00:00",
+  "LastChanged": "2023-03-31T05:57:19.7118034+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:26.803641+00:00",
@@ -3197,51 +3197,79 @@
     {
       "Time": "2023-03-21T22:57:24.7057195+00:00",
       "Rating": 4.45
+    },
+    {
+      "Time": "2023-03-31T05:57:19.7118036+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 79607,
+      "NumberOfAwardsMax": 9596
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
+      "Prefix": "This game is",
+      "Type": "Great for Quick Sessions",
       "Count": 9596
     },
     {
       "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
       "Count": 8454
     },
     {
       "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
       "Count": 8018
     },
     {
       "Text": "This game is Relaxing",
-      "Count": 8498
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 8509
     },
     {
       "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
       "Count": 7480
     },
     {
       "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
       "Count": 7652
     },
     {
       "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
       "Count": 7258
     },
     {
       "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
       "Count": 6300
     },
     {
       "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
       "Count": 5768
     },
     {
       "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
       "Count": 5380
     },
     {
       "Text": "This game has a Competitive Community",
+      "Prefix": "This game has a",
+      "Type": "Competitive Community",
       "Count": 5192
     }
   ]

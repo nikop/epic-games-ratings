@@ -2,7 +2,17 @@
   "ID": "43c0da4f8c774c23a76a213fb8dfe59b",
   "Name": "Sky Racket",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:25:01.2061331+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:51.9241214+00:00",
+  "LastChanged": "2023-03-31T05:57:51.9241215+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:51.9241216+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "ed76203f46df4835968c332886fadb25",
   "Name": "Restless Soul",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-09-06T15:32:28.1188425+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:20.7530847+00:00",
+  "LastChanged": "2023-03-31T05:58:20.7530848+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:20.7530851+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

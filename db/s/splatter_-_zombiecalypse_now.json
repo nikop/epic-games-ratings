@@ -2,7 +2,17 @@
   "ID": "fae3c63acffa4e4b8e2401ba0bb9b92c",
   "Name": "Splatter - Zombiecalypse Now",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-11T13:58:55.2181147+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:44.118573+00:00",
+  "LastChanged": "2023-03-31T05:58:44.1185732+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:44.1185733+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

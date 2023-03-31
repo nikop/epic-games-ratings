@@ -3,9 +3,10 @@
   "Name": "Madden NFL 23",
   "Rating": 4.51,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-21T06:01:19.8599973+00:00",
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
-  "LastChanged": "2023-03-30T20:57:44.1544669+00:00",
+  "LastChanged": "2023-03-31T05:57:41.4715072+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-16T08:57:24.917077+00:00",
@@ -166,6 +167,12 @@
     {
       "Time": "2023-03-30T20:57:44.1544671+00:00",
       "Rating": 4.51
+    },
+    {
+      "Time": "2023-03-31T05:57:41.4715073+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

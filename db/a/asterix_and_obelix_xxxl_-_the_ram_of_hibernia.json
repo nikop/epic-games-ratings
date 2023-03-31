@@ -2,7 +2,17 @@
   "ID": "308e3d687093412598ea6a52c5acfa20",
   "Name": "Asterix and Obelix XXXL - The Ram of Hibernia",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-11-10T19:57:18.0487096+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:24.3004282+00:00",
+  "LastChanged": "2023-03-31T05:57:24.3004283+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:24.3004285+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

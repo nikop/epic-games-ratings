@@ -2,7 +2,17 @@
   "ID": "5d6b7b664f9847ecacd9b581bcaf27cd",
   "Name": "Pupperazzi",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:29:33.1222767+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:21.7040164+00:00",
+  "LastChanged": "2023-03-31T05:58:21.7040165+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:21.7040167+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

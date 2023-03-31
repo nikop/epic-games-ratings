@@ -2,7 +2,17 @@
   "ID": "93526c99c8d14d708b0c858e55b1aea1",
   "Name": "Jack Move",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-09-10T00:01:08.9049213+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:37.7826925+00:00",
+  "LastChanged": "2023-03-31T05:57:37.7826926+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:37.7826927+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

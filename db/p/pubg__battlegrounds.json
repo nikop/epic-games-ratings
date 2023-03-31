@@ -348,38 +348,56 @@
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
       "Count": 1008
     },
     {
       "Text": "This game is Extremely Fun",
+      "Prefix": "",
+      "Type": "",
       "Count": 122
     },
     {
       "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
       "Count": 1105
     },
     {
       "Text": "This game has Amazing Characters",
+      "Prefix": "",
+      "Type": "",
       "Count": 53
     },
     {
       "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
       "Count": 1275
     },
     {
       "Text": "This game has Quickly Understood Controls",
+      "Prefix": "",
+      "Type": "",
       "Count": 1115
     },
     {
       "Text": "This game has a Competitive Community",
+      "Prefix": "This game has a",
+      "Type": "Competitive Community",
       "Count": 744
     },
     {
       "Text": "This game is Relaxing",
+      "Prefix": "",
+      "Type": "",
       "Count": 57
     },
     {
       "Text": "This game has Diverse Characters",
+      "Prefix": "",
+      "Type": "",
       "Count": 76
     }
   ]

@@ -2,7 +2,17 @@
   "ID": "c054cb640d57494c92490932a148323b",
   "Name": "Humble",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:22:09.0636714+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:31.7110482+00:00",
+  "LastChanged": "2023-03-31T05:57:31.7110483+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:31.7110486+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

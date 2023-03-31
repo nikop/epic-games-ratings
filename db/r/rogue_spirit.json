@@ -2,7 +2,17 @@
   "ID": "f3b63c1a16ed4e78973359dbfaebbd1f",
   "Name": "Rogue Spirit",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-16T13:13:35.7951452+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:07.2469383+00:00",
+  "LastChanged": "2023-03-31T05:58:07.2469384+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:07.2469386+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

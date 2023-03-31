@@ -2,7 +2,17 @@
   "ID": "f0e736561b7d42d0bbd18c7ce039a151",
   "Name": "Cyanide \u0026 Happiness - Freakpocalypse",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:21:35.7507038+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:27.6124809+00:00",
+  "LastChanged": "2023-03-31T05:57:27.6124811+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:27.6124812+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

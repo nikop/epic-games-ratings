@@ -3,9 +3,10 @@
   "Name": "Fangs",
   "Rating": 4.09,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-11-30T22:56:56.3802137+00:00",
   "FirstSeenRating": "2022-12-07T16:57:36.8831309+00:00",
-  "LastChanged": "2023-01-30T23:56:57.7592003+00:00",
+  "LastChanged": "2023-03-31T05:56:58.2400165+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-07T16:57:36.8831311+00:00",
@@ -78,6 +79,12 @@
     {
       "Time": "2023-01-30T23:56:57.7592004+00:00",
       "Rating": 4.09
+    },
+    {
+      "Time": "2023-03-31T05:56:58.2400167+00:00",
+      "Rating": 4.09,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

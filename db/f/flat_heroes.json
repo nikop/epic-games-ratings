@@ -2,7 +2,17 @@
   "ID": "b85566d19ccb4f19895b5897e1d381a9",
   "Name": "Flat Heroes",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:20:51.7200235+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
+  "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:22.6272153+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

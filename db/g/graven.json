@@ -2,7 +2,17 @@
   "ID": "aee5af2fdb3142aebb40a83babe07a3d",
   "Name": "GRAVEN",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:32:15.2057032+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:41.3639022+00:00",
+  "LastChanged": "2023-03-31T05:58:41.3639023+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:41.3639025+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

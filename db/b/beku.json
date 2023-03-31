@@ -2,7 +2,17 @@
   "ID": "b7898e56fd624636ad56220ed8a7ee67",
   "Name": "Beku",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:29:43.2136063+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:23.0212722+00:00",
+  "LastChanged": "2023-03-31T05:58:23.0212723+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:23.0212725+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

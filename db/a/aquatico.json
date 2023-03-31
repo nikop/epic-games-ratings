@@ -2,7 +2,17 @@
   "ID": "3741c7ec4dd94f79a305a08521e71668",
   "Name": "Aquatico",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-01-13T02:13:08.0667389+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:36.7899329+00:00",
+  "LastChanged": "2023-03-31T05:57:36.789933+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:36.7899332+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

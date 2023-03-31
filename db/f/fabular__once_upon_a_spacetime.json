@@ -2,7 +2,17 @@
   "ID": "aafa05b8be6a44019e376f516640f173",
   "Name": "Fabular: Once Upon a Spacetime",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-11-12T14:57:44.1410083+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:05.2361398+00:00",
+  "LastChanged": "2023-03-31T05:58:05.2361399+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:05.2361401+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

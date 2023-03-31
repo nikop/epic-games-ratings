@@ -2,7 +2,17 @@
   "ID": "9afcbdf06f644df19c4e5729958729fb",
   "Name": "McPixel 3",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-11-16T04:11:10.3988539+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:12.8658671+00:00",
+  "LastChanged": "2023-03-31T05:57:12.8658672+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:12.8658674+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

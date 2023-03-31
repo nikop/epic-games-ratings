@@ -2,7 +2,17 @@
   "ID": "16c882e1ebdc4212b75b9d59c30b08f0",
   "Name": "Asteroids: Recharged",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:32:18.6445496+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
+  "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:41.8457035+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

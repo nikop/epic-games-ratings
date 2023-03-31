@@ -2,7 +2,17 @@
   "ID": "af153251033d4cc79d2fc375d882fb88",
   "Name": "Schein",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:23:34.1686253+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:41.7496161+00:00",
+  "LastChanged": "2023-03-31T05:57:41.7496161+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:41.7496163+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

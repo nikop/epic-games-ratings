@@ -2,7 +2,17 @@
   "ID": "7691acba99d04b8b994ce3c642ec7655",
   "Name": "VELONE",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:17:41.1845329+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:02.329349+00:00",
+  "LastChanged": "2023-03-31T05:57:02.3293491+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:02.3293493+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

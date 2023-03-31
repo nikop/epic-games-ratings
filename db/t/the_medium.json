@@ -3,9 +3,10 @@
   "Name": "The Medium",
   "Rating": 4.58,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:25:44.1996449+00:00",
   "FirstSeenRating": "2022-10-24T23:02:37.2163937+00:00",
-  "LastChanged": "2023-03-15T02:57:48.9741126+00:00",
+  "LastChanged": "2023-03-31T05:57:57.2317963+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-24T23:02:37.2163942+00:00",
@@ -54,6 +55,12 @@
     {
       "Time": "2023-03-15T02:57:48.9741128+00:00",
       "Rating": 4.58
+    },
+    {
+      "Time": "2023-03-31T05:57:57.2317965+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

@@ -2,7 +2,17 @@
   "ID": "2899727785214d8b8874649a2c4db49f",
   "Name": "Fleet Command",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-24T15:59:01.9325373+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:05.1116583+00:00",
+  "LastChanged": "2023-03-31T05:58:05.1116583+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:05.1116585+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

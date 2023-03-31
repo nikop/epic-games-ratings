@@ -2,7 +2,17 @@
   "ID": "08900611756a442ab81750df9deacd77",
   "Name": "Saint Kotar",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:32:27.8918697+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:43.0246209+00:00",
+  "LastChanged": "2023-03-31T05:58:43.024621+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:43.0246213+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

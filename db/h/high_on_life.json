@@ -3,9 +3,10 @@
   "Name": "High On Life",
   "Rating": 4.69,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
-  "LastChanged": "2023-03-26T18:57:08.710825+00:00",
+  "LastChanged": "2023-03-31T05:57:16.1177282+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-17T22:57:08.2654509+00:00",
@@ -146,6 +147,12 @@
     {
       "Time": "2023-03-26T18:57:08.7108253+00:00",
       "Rating": 4.69
+    },
+    {
+      "Time": "2023-03-31T05:57:16.1177284+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

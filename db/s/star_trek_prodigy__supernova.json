@@ -2,7 +2,17 @@
   "ID": "3628612cd9ca49248cd5b4d8a95c9f11",
   "Name": "Star Trek Prodigy: Supernova",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-02-10T02:16:04.7940165+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:13.3030994+00:00",
+  "LastChanged": "2023-03-31T05:57:13.3030995+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:13.3030998+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

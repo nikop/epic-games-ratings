@@ -2,7 +2,17 @@
   "ID": "300bfcc4364d49e7808ea4d02d6a9c5d",
   "Name": "Bug Fables -The Everlasting Sapling-",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:27:02.4416913+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
+  "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:05.5070217+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

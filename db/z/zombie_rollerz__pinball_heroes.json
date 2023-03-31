@@ -2,7 +2,17 @@
   "ID": "f03887880e3f49c9b478cae9beac3812",
   "Name": "Zombie Rollerz: Pinball Heroes",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:17:18.8444158+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
+  "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:56:59.5373101+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

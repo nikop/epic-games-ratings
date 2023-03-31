@@ -3,9 +3,10 @@
   "Name": "City of Gangsters",
   "Rating": 4.24,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-08-11T21:00:23.9390359+00:00",
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
-  "LastChanged": "2023-03-12T03:57:20.1251909+00:00",
+  "LastChanged": "2023-03-31T05:57:03.0988787+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-04T02:04:08.6033841+00:00",
@@ -202,6 +203,12 @@
     {
       "Time": "2023-03-12T03:57:20.125191+00:00",
       "Rating": 4.24
+    },
+    {
+      "Time": "2023-03-31T05:57:03.098879+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

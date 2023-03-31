@@ -2,7 +2,17 @@
   "ID": "3f7f2afed90845d4969708fe3da99e4a",
   "Name": "Ballads of Hongye",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-08T08:57:35.8078646+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:41.0153444+00:00",
+  "LastChanged": "2023-03-31T05:57:41.0153445+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:41.0153447+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "586c344cdb5e427cbbac60298d36d61c",
   "Name": "Urban Trial Playground",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:32:48.4816063+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:45.5503299+00:00",
+  "LastChanged": "2023-03-31T05:58:45.55033+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:45.5503301+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

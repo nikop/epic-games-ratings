@@ -274,10 +274,14 @@
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
+      "Prefix": "",
+      "Type": "",
       "Count": 24
     },
     {
       "Text": "In this game, your choices Impact the Story",
+      "Prefix": "In this game, your choices",
+      "Type": "Impact the Story",
       "Count": 21
     }
   ]

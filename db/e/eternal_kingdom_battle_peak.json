@@ -2,7 +2,17 @@
   "ID": "e25f3f1b1a3c4f3d902faf3eed3f0999",
   "Name": "Eternal Kingdom Battle Peak",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:32:38.3435903+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:25.9399861+00:00",
+  "LastChanged": "2023-03-31T05:58:25.9399863+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:25.9399864+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

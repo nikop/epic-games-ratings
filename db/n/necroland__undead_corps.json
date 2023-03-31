@@ -2,7 +2,17 @@
   "ID": "365ade02815042a9a804764344b17670",
   "Name": "NecroLand: Undead Corps",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:21:31.1883312+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:26.8269401+00:00",
+  "LastChanged": "2023-03-31T05:57:26.8269402+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:26.8269404+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

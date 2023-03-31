@@ -2,7 +2,17 @@
   "ID": "dae5ac373ed9475a8edd99f3c7f5b010",
   "Name": "Frogun",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-08-04T23:30:59.5265336+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:36.5225978+00:00",
+  "LastChanged": "2023-03-31T05:57:36.5225979+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:36.5225985+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

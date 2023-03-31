@@ -2,7 +2,17 @@
   "ID": "3f3f083f10d04dc6b9ec846825432273",
   "Name": "Tom Clancy\u0027s EndWar",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-02-24T03:58:29.1566712+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:42.4687223+00:00",
+  "LastChanged": "2023-03-31T05:58:42.4687224+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:42.4687226+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

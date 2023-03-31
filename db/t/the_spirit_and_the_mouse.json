@@ -2,7 +2,17 @@
   "ID": "300ee26a2d6746cdb7dd515ae819f5d4",
   "Name": "The Spirit and the Mouse",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-01T10:03:03.0283812+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:29.0586638+00:00",
+  "LastChanged": "2023-03-31T05:58:29.0586639+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:29.058664+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -3,9 +3,10 @@
   "Name": "Monster Jam Steel Titans 2",
   "Rating": 4.71,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:24:48.184736+00:00",
   "FirstSeenRating": "2023-03-02T13:57:28.8342245+00:00",
-  "LastChanged": "2023-03-25T03:57:44.3244928+00:00",
+  "LastChanged": "2023-03-31T05:57:50.2062818+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-02T13:57:28.8342254+00:00",
@@ -14,6 +15,12 @@
     {
       "Time": "2023-03-25T03:57:44.3244931+00:00",
       "Rating": 4.71
+    },
+    {
+      "Time": "2023-03-31T05:57:50.2062819+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

@@ -2,7 +2,17 @@
   "ID": "0558e58003aa447a8ace48c3a0d53b54",
   "Name": "Down in Bermuda",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:31:55.3440934+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:38.5192553+00:00",
+  "LastChanged": "2023-03-31T05:58:38.5192554+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:38.5192557+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

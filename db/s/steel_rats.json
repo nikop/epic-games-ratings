@@ -2,7 +2,17 @@
   "ID": "d1349ac0db0b48ee879304383782ae19",
   "Name": "Steel Rats",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:22:39.9391855+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:34.8267684+00:00",
+  "LastChanged": "2023-03-31T05:57:34.8267684+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:34.8267686+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

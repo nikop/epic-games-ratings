@@ -2,7 +2,17 @@
   "ID": "9de5b8c358314db2ab3ed7b41d6f41a0",
   "Name": "They Always Run",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:26:39.948442+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:03.4841752+00:00",
+  "LastChanged": "2023-03-31T05:58:03.4841753+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:03.4841754+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

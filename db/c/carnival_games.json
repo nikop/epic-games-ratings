@@ -2,7 +2,17 @@
   "ID": "dd7371cb38ea42469d9ba0df57aa394d",
   "Name": "Carnival Games",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:31:16.2667128+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:35.0151108+00:00",
+  "LastChanged": "2023-03-31T05:58:35.0151109+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:35.0151112+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

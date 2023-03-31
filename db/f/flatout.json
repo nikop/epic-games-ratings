@@ -3,9 +3,10 @@
   "Name": "Flatout",
   "Rating": 4.19,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:23:06.2936359+00:00",
   "FirstSeenRating": "2022-10-20T20:02:03.0558069+00:00",
-  "LastChanged": "2023-02-24T18:57:24.0026752+00:00",
+  "LastChanged": "2023-03-31T05:57:38.7445472+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-20T20:02:03.0558073+00:00",
@@ -34,6 +35,12 @@
     {
       "Time": "2023-02-24T18:57:24.0026753+00:00",
       "Rating": 4.19
+    },
+    {
+      "Time": "2023-03-31T05:57:38.7445474+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

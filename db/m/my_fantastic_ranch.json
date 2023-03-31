@@ -2,7 +2,17 @@
   "ID": "62dde68a8e2a400da4f259d970803658",
   "Name": "My Fantastic Ranch",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-11-24T21:57:55.7578947+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:20.5434938+00:00",
+  "LastChanged": "2023-03-31T05:58:20.5434939+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:20.543494+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

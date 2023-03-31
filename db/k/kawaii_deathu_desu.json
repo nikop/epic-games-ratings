@@ -2,7 +2,17 @@
   "ID": "61d7e38e26ff4a698942dd37a363efb7",
   "Name": "Kawaii Deathu Desu",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:31:12.4106112+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:34.6531185+00:00",
+  "LastChanged": "2023-03-31T05:58:34.6531186+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:34.6531188+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

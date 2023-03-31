@@ -2,7 +2,17 @@
   "ID": "0702e42d70eb4d8fbb9293e332047474",
   "Name": "Charon\u0027s Staircase",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-28T17:03:13.9470339+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:38.6125588+00:00",
+  "LastChanged": "2023-03-31T05:58:38.6125589+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:38.612559+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "8d4a32fcfce3401e96e1cbe349b8d859",
   "Name": "Kosmokrats",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:18:58.0910442+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:10.5095997+00:00",
+  "LastChanged": "2023-03-31T05:57:10.5095998+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:10.5096+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

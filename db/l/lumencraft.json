@@ -2,7 +2,17 @@
   "ID": "aa69a3b52f3747eebd4ee5386030014a",
   "Name": "Lumencraft",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-02T13:13:47.8325147+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:01.8494433+00:00",
+  "LastChanged": "2023-03-31T05:57:01.8494434+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:01.8494435+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

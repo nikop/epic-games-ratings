@@ -2,7 +2,17 @@
   "ID": "dda4f41bf1f64b98b0e91d74c9be9fa0",
   "Name": "REMEDIUM Sentinels",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-24T20:57:16.8836669+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:29.6034199+00:00",
+  "LastChanged": "2023-03-31T05:57:29.60342+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:29.6034202+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

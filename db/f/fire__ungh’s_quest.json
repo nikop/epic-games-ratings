@@ -2,7 +2,17 @@
   "ID": "094d313bbeb84db69dd7bee1bd885c4d",
   "Name": "Fire: Ungh\u2019s Quest",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-16T21:58:34.8167877+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
+  "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:24.8540331+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

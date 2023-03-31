@@ -2,7 +2,17 @@
   "ID": "f879f9962cf84e0f95af756f153b3cf2",
   "Name": "Nemezis: Mysterious Journey III",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:20:49.2490747+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:22.3041573+00:00",
+  "LastChanged": "2023-03-31T05:57:22.3041575+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:22.3041577+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

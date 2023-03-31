@@ -2,7 +2,17 @@
   "ID": "1d3e38b5e921433caffbbef89e265517",
   "Name": "iRacing - 3-month new membership",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:25:05.0377151+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:52.3221699+00:00",
+  "LastChanged": "2023-03-31T05:57:52.32217+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:52.3221702+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

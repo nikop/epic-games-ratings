@@ -3,9 +3,10 @@
   "Name": "Duskers",
   "Rating": 4.43,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-02-23T18:58:14.3629002+00:00",
   "FirstSeenRating": "2023-02-25T11:58:28.997752+00:00",
-  "LastChanged": "2023-03-24T06:57:47.7562164+00:00",
+  "LastChanged": "2023-03-31T05:58:14.1118809+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-25T11:58:28.9977523+00:00",
@@ -114,6 +115,12 @@
     {
       "Time": "2023-03-24T06:57:47.7562169+00:00",
       "Rating": 4.43
+    },
+    {
+      "Time": "2023-03-31T05:58:14.1118811+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

@@ -2,7 +2,17 @@
   "ID": "ed652c026ee847e18691bd832546afb4",
   "Name": "JANITOR BLEEDS",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:26:33.570233+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:02.8781009+00:00",
+  "LastChanged": "2023-03-31T05:58:02.878101+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:02.8781011+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "21799c9b5fa34894b0a1e9e515983fee",
   "Name": "Warrior Kings",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-11T21:57:28.6693415+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:35.2702658+00:00",
+  "LastChanged": "2023-03-31T05:57:35.2702659+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:35.2702661+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

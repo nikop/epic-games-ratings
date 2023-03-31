@@ -2,7 +2,17 @@
   "ID": "76578852dd8a4697a16752a11d93b86a",
   "Name": "Romancelvania",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-10T13:15:18.4912563+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:42.0189588+00:00",
+  "LastChanged": "2023-03-31T05:57:42.0189589+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:42.018959+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

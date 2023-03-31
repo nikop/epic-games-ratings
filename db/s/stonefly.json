@@ -2,7 +2,17 @@
   "ID": "1f436e99203a49479f4a4d5951374fe8",
   "Name": "Stonefly",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:31:52.0142041+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:38.2466734+00:00",
+  "LastChanged": "2023-03-31T05:58:38.2466735+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:38.2466738+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

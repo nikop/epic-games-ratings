@@ -2,7 +2,17 @@
   "ID": "e1d9c285b5214c09b1bd096b63d2d28c",
   "Name": "Bloodshore",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-11-13T23:58:32.3641197+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
+  "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:26.6955693+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -3,10 +3,10 @@
   "Name": "Dead by Daylight",
   "Rating": 4.53,
   "NumberOfRatings": 70340,
-  "NumberOfAwards": 210638,
+  "NumberOfAwards": 210662,
   "NumberOfAwardsMax": 25897,
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
-  "LastChanged": "2022-10-16T14:30:24.2969243+00:00",
+  "LastChanged": "2023-03-31T05:57:01.6966302+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:36.44586+00:00",
@@ -3255,51 +3255,79 @@
     {
       "Time": "2022-10-16T14:30:24.2969246+00:00",
       "Rating": 4.53
+    },
+    {
+      "Time": "2023-03-31T05:57:01.6966303+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 210662,
+      "NumberOfAwardsMax": 25897
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
+      "Prefix": "",
+      "Type": "",
       "Count": 4888
     },
     {
       "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
       "Count": 25897
     },
     {
       "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
       "Count": 16768
     },
     {
       "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
       "Count": 24502
     },
     {
       "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
       "Count": 23948
     },
     {
       "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
       "Count": 23826
     },
     {
       "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
       "Count": 23933
     },
     {
       "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
       "Count": 23876
     },
     {
       "Text": "This game has Challenging Combat",
-      "Count": 22977
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 23001
     },
     {
       "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
       "Count": 21708
     },
     {
       "Text": "This game has a Competitive Community",
+      "Prefix": "This game has a",
+      "Type": "Competitive Community",
       "Count": 19971
     }
   ]

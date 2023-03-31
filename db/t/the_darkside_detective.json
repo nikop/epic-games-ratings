@@ -2,7 +2,17 @@
   "ID": "29857990e5434b7db5dd026ef18dbc96",
   "Name": "The Darkside Detective",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:25:21.5289405+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:54.2770325+00:00",
+  "LastChanged": "2023-03-31T05:57:54.2770326+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:54.2770328+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

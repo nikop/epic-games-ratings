@@ -2,7 +2,17 @@
   "ID": "c473457eec2f4d31bd98bfc76551443b",
   "Name": "Alchemist Adventure",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:28:51.4966191+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:16.2383502+00:00",
+  "LastChanged": "2023-03-31T05:58:16.2383502+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:16.2383503+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

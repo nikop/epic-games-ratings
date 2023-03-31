@@ -2,7 +2,17 @@
   "ID": "b80b3a9136224504bc723409ff87a45e",
   "Name": "Sentinel 3 - Homeworld",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-01T20:57:42.9782449+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:26.7669971+00:00",
+  "LastChanged": "2023-03-31T05:57:26.7669972+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:26.7669978+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

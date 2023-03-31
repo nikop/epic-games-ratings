@@ -2,7 +2,17 @@
   "ID": "b2192c4b00db40fe8848b3be6753cfd5",
   "Name": "Primordials of Amyrion",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:18:56.5586+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:10.3698318+00:00",
+  "LastChanged": "2023-03-31T05:57:10.3698319+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:10.369832+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -3,9 +3,10 @@
   "Name": "SAMURAI SHODOWN",
   "Rating": 4.65,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:18:02.6645196+00:00",
   "FirstSeenRating": "2022-11-04T12:00:55.2608332+00:00",
-  "LastChanged": "2023-03-24T17:57:27.3832359+00:00",
+  "LastChanged": "2023-03-31T05:57:04.7641102+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-04T12:00:55.2608334+00:00",
@@ -34,6 +35,12 @@
     {
       "Time": "2023-03-24T17:57:27.3832361+00:00",
       "Rating": 4.65
+    },
+    {
+      "Time": "2023-03-31T05:57:04.7641105+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

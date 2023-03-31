@@ -3,9 +3,10 @@
   "Name": "ANNO Mutationem",
   "Rating": 4.55,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-09-25T10:31:45.2250496+00:00",
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
-  "LastChanged": "2023-03-18T21:57:37.7803919+00:00",
+  "LastChanged": "2023-03-31T05:57:44.802254+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-06T22:57:11.9823156+00:00",
@@ -54,6 +55,12 @@
     {
       "Time": "2023-03-18T21:57:37.780392+00:00",
       "Rating": 4.55
+    },
+    {
+      "Time": "2023-03-31T05:57:44.8022543+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

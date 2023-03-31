@@ -2,7 +2,17 @@
   "ID": "4ede2a7cb66d4a84806269e521375a6a",
   "Name": "Bibots",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-09T08:30:49.4926872+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:21.7768439+00:00",
+  "LastChanged": "2023-03-31T05:57:21.776844+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:21.7768443+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -3,9 +3,10 @@
   "Name": "Tails of Iron",
   "Rating": 4.49,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
-  "LastChanged": "2023-03-06T16:58:16.6509175+00:00",
+  "LastChanged": "2023-03-31T05:58:46.8065003+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-24T13:07:58.3730391+00:00",
@@ -154,6 +155,12 @@
     {
       "Time": "2023-03-06T16:58:16.6509179+00:00",
       "Rating": 4.49
+    },
+    {
+      "Time": "2023-03-31T05:58:46.8065005+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

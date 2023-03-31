@@ -2,7 +2,17 @@
   "ID": "e03870d88a6f42c5944fc7280f7c4a63",
   "Name": "Toonstruck",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-08-07T20:02:10.1854885+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:37.2066962+00:00",
+  "LastChanged": "2023-03-31T05:58:37.2066963+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:37.2066964+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

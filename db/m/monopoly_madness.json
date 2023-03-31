@@ -2,7 +2,17 @@
   "ID": "3840e423f39f45eab96aac124a46492a",
   "Name": "MONOPOLY MADNESS",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:32:14.657609+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:17.8580822+00:00",
+  "LastChanged": "2023-03-31T05:58:17.8580823+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:17.8580825+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

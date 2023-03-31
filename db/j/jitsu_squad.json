@@ -2,7 +2,17 @@
   "ID": "6ef33a285bf5426d852762aecc95c826",
   "Name": "Jitsu Squad",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-14T10:01:38.348189+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:55.148193+00:00",
+  "LastChanged": "2023-03-31T05:57:55.1481931+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:55.1481933+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

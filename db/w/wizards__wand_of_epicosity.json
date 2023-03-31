@@ -2,7 +2,17 @@
   "ID": "6fa08ca4ba92438495dfec53fb88118e",
   "Name": "Wizards: Wand of Epicosity",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:22:05.7006147+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:31.3092513+00:00",
+  "LastChanged": "2023-03-31T05:57:31.3092514+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:31.3092516+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

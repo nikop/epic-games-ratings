@@ -2,7 +2,17 @@
   "ID": "5c56ef1316244bc693e30007d5bd4092",
   "Name": "Dread X Collection",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:31:58.531678+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:38.9507626+00:00",
+  "LastChanged": "2023-03-31T05:58:38.9507627+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:38.9507628+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -3,9 +3,10 @@
   "Name": "GigaBash",
   "Rating": 4.63,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-08-05T02:02:12.3319338+00:00",
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
-  "LastChanged": "2023-01-25T14:57:25.756824+00:00",
+  "LastChanged": "2023-03-31T05:57:49.940867+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-02T07:32:08.4274132+00:00",
@@ -46,6 +47,12 @@
     {
       "Time": "2023-01-25T14:57:25.7568241+00:00",
       "Rating": 4.63
+    },
+    {
+      "Time": "2023-03-31T05:57:49.9408671+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

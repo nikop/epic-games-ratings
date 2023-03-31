@@ -3,9 +3,10 @@
   "Name": "Epistory - Typing Chronicles",
   "Rating": 4.48,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-01-19T18:58:26.8545883+00:00",
   "FirstSeenRating": "2023-01-21T18:58:09.3863297+00:00",
-  "LastChanged": "2023-03-24T09:58:24.5392365+00:00",
+  "LastChanged": "2023-03-31T05:58:01.7992606+00:00",
   "RatingHistory": [
     {
       "Time": "2023-01-21T18:58:09.3863299+00:00",
@@ -134,6 +135,12 @@
     {
       "Time": "2023-03-24T09:58:24.5392367+00:00",
       "Rating": 4.48
+    },
+    {
+      "Time": "2023-03-31T05:58:01.7992608+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

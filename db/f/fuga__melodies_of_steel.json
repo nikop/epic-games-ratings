@@ -2,7 +2,17 @@
   "ID": "ee62d03be61b4eafa0936b21d0961693",
   "Name": "Fuga: Melodies of Steel",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:21:09.7024087+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:24.4417138+00:00",
+  "LastChanged": "2023-03-31T05:57:24.4417139+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:24.441714+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

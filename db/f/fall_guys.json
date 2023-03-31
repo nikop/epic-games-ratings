@@ -3,10 +3,10 @@
   "Name": "Fall Guys",
   "Rating": 4.53,
   "NumberOfRatings": 1046587,
-  "NumberOfAwards": 1286503,
+  "NumberOfAwards": 1286519,
   "NumberOfAwardsMax": 136985,
   "FirstSeen": "2022-07-22T20:18:16.49776+00:00",
-  "LastChanged": "2022-12-02T05:56:55.580745+00:00",
+  "LastChanged": "2023-03-31T05:56:57.2398564+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:16.4977602+00:00",
@@ -2871,51 +2871,79 @@
     {
       "Time": "2022-12-02T05:56:55.5807452+00:00",
       "Rating": 4.53
+    },
+    {
+      "Time": "2023-03-31T05:56:57.2398565+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 1286519,
+      "NumberOfAwardsMax": 136985
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
       "Count": 136985
     },
     {
       "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
       "Count": 129008
     },
     {
       "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
       "Count": 126255
     },
     {
       "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
       "Count": 126256
     },
     {
       "Text": "This game is Great for Quick Sessions",
+      "Prefix": "This game is",
+      "Type": "Great for Quick Sessions",
       "Count": 120899
     },
     {
       "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
       "Count": 118550
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 115576
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 115592
     },
     {
       "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
       "Count": 108705
     },
     {
       "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
       "Count": 106078
     },
     {
       "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
       "Count": 101196
     },
     {
       "Text": "This game has Playful Visuals",
+      "Prefix": "This game has",
+      "Type": "Playful Visuals",
       "Count": 96995
     }
   ]

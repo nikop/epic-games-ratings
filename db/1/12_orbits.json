@@ -2,7 +2,17 @@
   "ID": "89da53d6472d4b8f864f68e3bbd999a3",
   "Name": "12 orbits",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-18T13:08:25.3402407+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:07.7236131+00:00",
+  "LastChanged": "2023-03-31T05:58:07.7236132+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:07.7236133+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

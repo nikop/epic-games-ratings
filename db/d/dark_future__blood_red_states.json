@@ -2,7 +2,17 @@
   "ID": "e86a9fab4e3145c191d96b0c6c94cad9",
   "Name": "Dark Future: Blood Red States",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:30:28.62241+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:29.5972529+00:00",
+  "LastChanged": "2023-03-31T05:58:29.597253+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:29.5972532+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

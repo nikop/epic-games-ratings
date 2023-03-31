@@ -2,7 +2,17 @@
   "ID": "4374bc821f524407b18a891da624ef3f",
   "Name": "A Tale of Paper: Refolded",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-08-25T13:31:06.6550408+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:38.3457185+00:00",
+  "LastChanged": "2023-03-31T05:57:38.3457186+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:38.3457189+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

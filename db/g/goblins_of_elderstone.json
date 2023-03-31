@@ -2,7 +2,17 @@
   "ID": "36104bd5987f47389c55a44694064d01",
   "Name": "Goblins of Elderstone",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-11T04:57:11.5340915+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:23.5328515+00:00",
+  "LastChanged": "2023-03-31T05:57:23.5328516+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:23.5328518+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

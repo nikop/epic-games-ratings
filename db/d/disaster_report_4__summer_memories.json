@@ -2,7 +2,17 @@
   "ID": "cb6352a885e2466d900f4f1b737c295a",
   "Name": "Disaster Report 4: Summer Memories",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:21:26.1983802+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:26.1374521+00:00",
+  "LastChanged": "2023-03-31T05:57:26.1374523+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:26.1374528+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

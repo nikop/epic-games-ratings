@@ -3,9 +3,10 @@
   "Name": "Mago",
   "Rating": 4.9,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-24T02:02:00.1291984+00:00",
   "FirstSeenRating": "2022-10-09T22:02:14.1425861+00:00",
-  "LastChanged": "2023-01-12T22:58:36.7046154+00:00",
+  "LastChanged": "2023-03-31T05:58:37.7263784+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-09T22:02:14.1425865+00:00",
@@ -30,6 +31,12 @@
     {
       "Time": "2023-01-12T22:58:36.7046155+00:00",
       "Rating": 4.9
+    },
+    {
+      "Time": "2023-03-31T05:58:37.7263787+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

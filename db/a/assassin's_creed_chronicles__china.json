@@ -3,9 +3,10 @@
   "Name": "Assassin\u0027s Creed Chronicles: China",
   "Rating": 4.67,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-29T20:03:01.8251049+00:00",
   "FirstSeenRating": "2023-03-08T07:58:37.2695884+00:00",
-  "LastChanged": "2023-03-23T09:58:11.6781451+00:00",
+  "LastChanged": "2023-03-31T05:58:37.462247+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-08T07:58:37.2695889+00:00",
@@ -14,6 +15,12 @@
     {
       "Time": "2023-03-23T09:58:11.6781453+00:00",
       "Rating": 4.67
+    },
+    {
+      "Time": "2023-03-31T05:58:37.4622472+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

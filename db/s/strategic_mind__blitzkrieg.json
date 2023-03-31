@@ -2,7 +2,17 @@
   "ID": "b8097bc285294c5eaa27d83b6a0abb1e",
   "Name": "Strategic Mind: Blitzkrieg",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:25:39.76832+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:56.8895932+00:00",
+  "LastChanged": "2023-03-31T05:57:56.8895933+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:56.8895936+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

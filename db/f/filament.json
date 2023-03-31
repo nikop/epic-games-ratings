@@ -108,30 +108,44 @@
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
+      "Prefix": "This game features",
+      "Type": "Challenging Puzzles",
       "Count": 547
     },
     {
       "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
       "Count": 24
     },
     {
       "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
       "Count": 23
     },
     {
       "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
       "Count": 25
     },
     {
       "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
       "Count": 21
     },
     {
       "Text": "This game is Great for Quick Sessions",
+      "Prefix": "",
+      "Type": "",
       "Count": 20
     },
     {
       "Text": "This game is Educational",
+      "Prefix": "This game is",
+      "Type": "Educational",
       "Count": 20
     }
   ]

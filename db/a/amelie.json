@@ -2,7 +2,17 @@
   "ID": "120f750f201544cca9ab6bcb23571546",
   "Name": "Amelie",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:20:07.5337668+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:17.9569224+00:00",
+  "LastChanged": "2023-03-31T05:57:17.9569225+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:17.9569227+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

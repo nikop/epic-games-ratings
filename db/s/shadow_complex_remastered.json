@@ -2,7 +2,17 @@
   "ID": "vpr",
   "Name": "Shadow Complex Remastered",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:24:41.1193522+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:49.5662954+00:00",
+  "LastChanged": "2023-03-31T05:57:49.5662955+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:49.5662957+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

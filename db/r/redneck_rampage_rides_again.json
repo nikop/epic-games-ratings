@@ -2,7 +2,17 @@
   "ID": "3e49a248830d4859926ce856907b05eb",
   "Name": "Redneck Rampage Rides Again",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-11-03T21:03:25.3238117+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:09.8014786+00:00",
+  "LastChanged": "2023-03-31T05:58:09.8014787+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:09.801479+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

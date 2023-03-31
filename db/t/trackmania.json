@@ -3,10 +3,10 @@
   "Name": "Trackmania",
   "Rating": 4.67,
   "NumberOfRatings": 6825,
-  "NumberOfAwards": 18853,
+  "NumberOfAwards": 18866,
   "NumberOfAwardsMax": 2238,
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-03-25T15:57:38.9803402+00:00",
+  "LastChanged": "2023-03-31T05:57:37.32651+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:57.8589287+00:00",
@@ -2823,55 +2823,85 @@
     {
       "Time": "2023-03-25T15:57:38.9803404+00:00",
       "Rating": 4.67
+    },
+    {
+      "Time": "2023-03-31T05:57:37.3265101+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 18866,
+      "NumberOfAwardsMax": 2238
     }
   ],
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
       "Count": 2238
     },
     {
       "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
       "Count": 1943
     },
     {
       "Text": "This game is Great for Quick Sessions",
-      "Count": 2225
+      "Prefix": "This game is",
+      "Type": "Great for Quick Sessions",
+      "Count": 2238
     },
     {
       "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
       "Count": 1915
     },
     {
       "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
       "Count": 1909
     },
     {
       "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
       "Count": 1144
     },
     {
       "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
       "Count": 1780
     },
     {
       "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
       "Count": 1856
     },
     {
       "Text": "This game has a Competitive Community",
+      "Prefix": "This game has a",
+      "Type": "Competitive Community",
       "Count": 1586
     },
     {
       "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
       "Count": 1214
     },
     {
       "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
       "Count": 1204
     },
     {
       "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
       "Count": 983
     }
   ]

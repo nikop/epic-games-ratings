@@ -2,7 +2,17 @@
   "ID": "b69961c88cb446a395ace83341dd94cc",
   "Name": "Bee Simulator",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:19:59.8130276+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:16.98373+00:00",
+  "LastChanged": "2023-03-31T05:57:16.9837301+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:16.9837303+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

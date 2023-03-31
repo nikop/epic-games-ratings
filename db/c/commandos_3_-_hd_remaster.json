@@ -2,7 +2,17 @@
   "ID": "ffcff8b4d613467b8e83ca8d15f78dbc",
   "Name": "Commandos 3 - HD Remaster",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-08-31T02:32:48.3697829+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:33.6737466+00:00",
+  "LastChanged": "2023-03-31T05:58:33.6737467+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:33.6737469+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

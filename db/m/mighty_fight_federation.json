@@ -2,7 +2,17 @@
   "ID": "651d07f1eee8419e80eb2938f8f44cf0",
   "Name": "Mighty Fight Federation",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:26:17.499158+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:01.2596061+00:00",
+  "LastChanged": "2023-03-31T05:58:01.2596062+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:01.2596064+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

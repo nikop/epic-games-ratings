@@ -2,7 +2,17 @@
   "ID": "e41161e83c9646bf81d973b3a83064ad",
   "Name": "Power to the People",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:26:23.5347971+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:01.943637+00:00",
+  "LastChanged": "2023-03-31T05:58:01.9436371+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:01.9436373+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

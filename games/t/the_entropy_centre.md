@@ -4,5 +4,5 @@ Rating: - (-)  (as of 23.09.2022)
 | Award | Number of Ratings |
 | ----- | ----------------- |
 ## Ratings History
-| Date | Rating | Number of Ratings |
-| ---- | ------ | ----------------- |
+| Date | Rating | Number of Ratings | Number of Awards |
+| ---- | ------ | ----------------- | ---------------- |

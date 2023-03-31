@@ -3,9 +3,10 @@
   "Name": "The Outer Worlds: Spacer\u0027s Choice Edition",
   "Rating": 4.26,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-07T20:56:52.9843527+00:00",
   "FirstSeenRating": "2023-03-24T21:56:57.663882+00:00",
-  "LastChanged": "2023-03-31T04:56:53.2973288+00:00",
+  "LastChanged": "2023-03-31T05:57:05.6026198+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-24T21:56:57.6638821+00:00",
@@ -30,6 +31,12 @@
     {
       "Time": "2023-03-31T04:56:53.297329+00:00",
       "Rating": 4.26
+    },
+    {
+      "Time": "2023-03-31T05:57:05.60262+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

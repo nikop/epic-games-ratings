@@ -2,7 +2,17 @@
   "ID": "042782770f1b4a979eded16c92bfd61c",
   "Name": "VR Soccer 96",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-18T07:58:07.2939256+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:26.3692924+00:00",
+  "LastChanged": "2023-03-31T05:58:26.3692925+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:26.3692927+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

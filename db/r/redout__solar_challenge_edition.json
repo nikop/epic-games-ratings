@@ -2,7 +2,17 @@
   "ID": "5048ed01f2d84902bd89ce27f1c9dd4b",
   "Name": "Redout: Solar Challenge Edition",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:32:54.8442855+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:46.6616324+00:00",
+  "LastChanged": "2023-03-31T05:58:46.6616325+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:46.6616327+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

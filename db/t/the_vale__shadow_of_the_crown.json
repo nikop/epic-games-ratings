@@ -2,7 +2,17 @@
   "ID": "5347bcc794bd43bab139e41d04e6271b",
   "Name": "The Vale: Shadow of the Crown",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:30:19.7036476+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:28.1527481+00:00",
+  "LastChanged": "2023-03-31T05:58:28.1527483+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:28.1527485+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

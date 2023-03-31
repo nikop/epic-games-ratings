@@ -2,7 +2,17 @@
   "ID": "a1911a550eaa45bc89cb9b3725151168",
   "Name": "Ruggnar",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:26:57.8930546+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:05.015956+00:00",
+  "LastChanged": "2023-03-31T05:58:05.0159561+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:05.0159566+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

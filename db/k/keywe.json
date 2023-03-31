@@ -2,7 +2,17 @@
   "ID": "2f85e4b21b8b459fa78a34e59ccac2a2",
   "Name": "KeyWe",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:28:35.060249+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
+  "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:13.8503403+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

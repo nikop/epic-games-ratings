@@ -2,7 +2,17 @@
   "ID": "ba2b8f9cfb9344b6b76f87d3fc5f8b80",
   "Name": "Colossal Cave",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-01-20T02:11:39.0765361+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:02.114987+00:00",
+  "LastChanged": "2023-03-31T05:57:02.1149872+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:02.1149874+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

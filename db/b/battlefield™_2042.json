@@ -2,7 +2,17 @@
   "ID": "52f57f57120c440fad9bfa0e6c279317",
   "Name": "Battlefield\u2122 2042",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:27:52.1553739+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:10.4915207+00:00",
+  "LastChanged": "2023-03-31T05:58:10.4915208+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:10.4915211+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

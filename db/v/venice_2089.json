@@ -2,7 +2,17 @@
   "ID": "2eb9074c818542998a61adb2d19b6cd7",
   "Name": "Venice 2089",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-11-21T08:57:39.3817606+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:15.5806604+00:00",
+  "LastChanged": "2023-03-31T05:58:15.5806605+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:15.5806606+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

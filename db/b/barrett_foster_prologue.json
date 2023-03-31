@@ -2,7 +2,17 @@
   "ID": "0983c2bb376e443d8c265296e5a7e136",
   "Name": "Barrett Foster Prologue",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-27T20:58:54.4962298+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:27.7520245+00:00",
+  "LastChanged": "2023-03-31T05:58:27.7520246+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:27.7520248+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

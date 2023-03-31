@@ -2,7 +2,17 @@
   "ID": "6911e6eb34024ae08b8cb991bf08a2d3",
   "Name": "Vigil: The Longest Night",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:33:02.7374312+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:47.7014003+00:00",
+  "LastChanged": "2023-03-31T05:58:47.7014005+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:47.7014006+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "503dcfc6c6b14bf2b4b57407dcc2c03b",
   "Name": "Ecosystem",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:31:10.4290307+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:34.0866043+00:00",
+  "LastChanged": "2023-03-31T05:58:34.0866044+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:34.0866047+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "17f8225091734385a60a3213e5c543dc",
   "Name": "Firegirl: Hack \u0027n Splash Rescue DX",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-17T00:31:56.4865892+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:18.8280616+00:00",
+  "LastChanged": "2023-03-31T05:58:18.8280617+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:18.8280619+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

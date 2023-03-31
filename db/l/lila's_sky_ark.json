@@ -2,7 +2,17 @@
   "ID": "c599541282c740da90c313ce23e60ece",
   "Name": "Lila\u0027s Sky Ark",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:29:44.6978411+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:23.165731+00:00",
+  "LastChanged": "2023-03-31T05:58:23.1657311+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:23.1657314+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

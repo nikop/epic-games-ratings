@@ -2,7 +2,17 @@
   "ID": "1be39e503e234386a7d4456d33b197fc",
   "Name": "No Longer Home",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:19:28.1406554+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:13.5829267+00:00",
+  "LastChanged": "2023-03-31T05:57:13.5829268+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:13.5829271+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

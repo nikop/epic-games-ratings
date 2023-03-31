@@ -2,7 +2,17 @@
   "ID": "83982788ab8e425b9c0bbe2031db3420",
   "Name": "M1 Tank Platoon",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:21:49.5059129+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:29.3145812+00:00",
+  "LastChanged": "2023-03-31T05:57:29.3145813+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:29.3145815+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

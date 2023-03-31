@@ -302,6 +302,8 @@
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
+      "Prefix": "This game features",
+      "Type": "Challenging Puzzles",
       "Count": 30
     }
   ]

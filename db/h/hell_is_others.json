@@ -3,9 +3,10 @@
   "Name": "Hell is Others",
   "Rating": 4.44,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
-  "LastChanged": "2023-03-29T07:58:23.3717371+00:00",
+  "LastChanged": "2023-03-31T05:58:04.2463456+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-05T15:57:56.0114161+00:00",
@@ -186,6 +187,12 @@
     {
       "Time": "2023-03-29T07:58:23.3717375+00:00",
       "Rating": 4.44
+    },
+    {
+      "Time": "2023-03-31T05:58:04.2463458+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

@@ -3,9 +3,10 @@
   "Name": "Suzerain",
   "Rating": 4.73,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:25:09.9621281+00:00",
   "FirstSeenRating": "2022-11-13T17:58:37.984125+00:00",
-  "LastChanged": "2022-11-28T19:57:43.7671969+00:00",
+  "LastChanged": "2023-03-31T05:57:52.9679523+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-13T17:58:37.9841255+00:00",
@@ -14,6 +15,12 @@
     {
       "Time": "2022-11-28T19:57:43.7671971+00:00",
       "Rating": 4.73
+    },
+    {
+      "Time": "2023-03-31T05:57:52.9679524+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

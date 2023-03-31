@@ -2,7 +2,17 @@
   "ID": "02ad04ef7a91432b93caef1f421ca67f",
   "Name": "Brave",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-09T21:32:16.1610682+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:33.9169826+00:00",
+  "LastChanged": "2023-03-31T05:58:33.9169828+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:33.9169832+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

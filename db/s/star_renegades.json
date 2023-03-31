@@ -3,9 +3,10 @@
   "Name": "Star Renegades",
   "Rating": 4.4,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:22:35.7423347+00:00",
   "FirstSeenRating": "2022-09-29T13:01:46.0510474+00:00",
-  "LastChanged": "2023-02-06T19:57:43.828413+00:00",
+  "LastChanged": "2023-03-31T05:57:34.400751+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-29T13:01:46.0510479+00:00",
@@ -70,6 +71,12 @@
     {
       "Time": "2023-02-06T19:57:43.8284132+00:00",
       "Rating": 4.4
+    },
+    {
+      "Time": "2023-03-31T05:57:34.4007512+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

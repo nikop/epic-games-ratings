@@ -2,7 +2,17 @@
   "ID": "7f82d4cc5bc24d6487315fd6b4b27779",
   "Name": "Scarlet Hood and the Wicked Wood",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:26:48.5342047+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:04.0805544+00:00",
+  "LastChanged": "2023-03-31T05:58:04.0805545+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:04.0805547+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

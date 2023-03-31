@@ -2,7 +2,17 @@
   "ID": "6205df00fe61413398cd7eb61f86263f",
   "Name": "Wonhon: A Vengeful Spirit",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:32:21.7515828+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:42.3282173+00:00",
+  "LastChanged": "2023-03-31T05:58:42.3282174+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:42.3282177+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

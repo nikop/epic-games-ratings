@@ -2,7 +2,17 @@
   "ID": "bde5c96f4d5d4a199275f367f2fe4bae",
   "Name": "Truck Driver",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:24:23.2055065+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:47.639357+00:00",
+  "LastChanged": "2023-03-31T05:57:47.6393571+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:47.6393572+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

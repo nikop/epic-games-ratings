@@ -2,7 +2,17 @@
   "ID": "404d41610c2541f7b7274578c6059161",
   "Name": "HENCHMAN STORY",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:23:10.243608+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:39.1697946+00:00",
+  "LastChanged": "2023-03-31T05:57:39.1697947+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:39.1697949+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

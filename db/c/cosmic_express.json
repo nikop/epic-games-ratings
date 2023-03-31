@@ -2,7 +2,17 @@
   "ID": "3b03927495db4362bb88a812e8db5e59",
   "Name": "Cosmic Express",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:32:26.3160675+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:42.8855378+00:00",
+  "LastChanged": "2023-03-31T05:58:42.8855379+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:42.8855381+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

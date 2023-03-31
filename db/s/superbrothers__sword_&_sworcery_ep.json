@@ -2,7 +2,17 @@
   "ID": "1109b87f323946e5b7883d724e6a22ba",
   "Name": "Superbrothers: Sword \u0026 Sworcery EP",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:29:52.7550915+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:24.7625058+00:00",
+  "LastChanged": "2023-03-31T05:58:24.7625059+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:24.7625061+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

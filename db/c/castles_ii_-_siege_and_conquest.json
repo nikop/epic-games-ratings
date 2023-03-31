@@ -2,7 +2,17 @@
   "ID": "f3721fe8e66748c0bd6dc10714ace230",
   "Name": "Castles II - Siege and Conquest",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-08-28T14:03:18.1880468+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:42.9744707+00:00",
+  "LastChanged": "2023-03-31T05:58:42.9744708+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:42.9744709+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

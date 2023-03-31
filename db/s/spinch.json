@@ -2,7 +2,17 @@
   "ID": "b4535bde10e34515ba22ca30a48d5964",
   "Name": "Spinch",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-17T02:00:31.0075884+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:17.6589612+00:00",
+  "LastChanged": "2023-03-31T05:58:17.6589613+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:17.6589616+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

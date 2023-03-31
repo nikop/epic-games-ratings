@@ -442,6 +442,8 @@
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
       "Count": 21
     }
   ]

@@ -2,7 +2,17 @@
   "ID": "9c39a79dfeb84f98a4bd7c1cac1e4bb3",
   "Name": "Orwell\u0027s Animal Farm",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:32:59.4211245+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:47.1841437+00:00",
+  "LastChanged": "2023-03-31T05:58:47.1841438+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:47.1841439+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

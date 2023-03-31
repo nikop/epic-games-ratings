@@ -2,7 +2,17 @@
   "ID": "e462ded8eeed40d7b81015ca87cdb5d8",
   "Name": "The Complex",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-09T13:32:29.6918033+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
+  "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:47.9747951+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "b1cf8d219f3843f0b971cd37b13abab1",
   "Name": "Urban Trial Tricky Deluxe Edition",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-01-30T02:05:15.7207676+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:45.2113814+00:00",
+  "LastChanged": "2023-03-31T05:57:45.2113815+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:45.2113816+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -3,9 +3,10 @@
   "Name": "Flatout 2",
   "Rating": 4.92,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-08-08T18:31:47.8686118+00:00",
   "FirstSeenRating": "2022-11-11T17:57:55.7315738+00:00",
-  "LastChanged": "2023-03-03T07:58:03.6213123+00:00",
+  "LastChanged": "2023-03-31T05:58:19.0118308+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-11T17:57:55.731574+00:00",
@@ -34,6 +35,12 @@
     {
       "Time": "2023-03-03T07:58:03.6213125+00:00",
       "Rating": 4.92
+    },
+    {
+      "Time": "2023-03-31T05:58:19.0118309+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

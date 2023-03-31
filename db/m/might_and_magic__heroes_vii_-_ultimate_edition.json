@@ -330,6 +330,8 @@
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
       "Count": 24
     }
   ]

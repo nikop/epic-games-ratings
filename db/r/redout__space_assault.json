@@ -2,7 +2,17 @@
   "ID": "c00afd85d8854cefa9e5581366adc40f",
   "Name": "Redout: Space Assault",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:30:56.2248935+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:32.4314652+00:00",
+  "LastChanged": "2023-03-31T05:58:32.4314653+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:32.4314656+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

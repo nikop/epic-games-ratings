@@ -2,7 +2,17 @@
   "ID": "a3dd9f3da8ec49c7b25dec42cce2ec46",
   "Name": "Adios",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:27:11.1683553+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
+  "LastChanged": "2023-03-31T05:58:06.4297958+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:06.429796+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

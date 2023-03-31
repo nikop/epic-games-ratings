@@ -3,9 +3,10 @@
   "Name": "ToeJam \u0026 Earl: Back in the Groove!",
   "Rating": 4.33,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-13T19:32:35.2294965+00:00",
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
-  "LastChanged": "2023-03-22T17:58:29.6413803+00:00",
+  "LastChanged": "2023-03-31T05:58:37.9951373+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-16T10:33:46.2619173+00:00",
@@ -186,6 +187,12 @@
     {
       "Time": "2023-03-22T17:58:29.6413804+00:00",
       "Rating": 4.33
+    },
+    {
+      "Time": "2023-03-31T05:58:37.9951375+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

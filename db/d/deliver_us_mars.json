@@ -2,7 +2,17 @@
   "ID": "53ec6d9f552241549c4d8aa1a42bcb3b",
   "Name": "Deliver Us Mars",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-02-02T14:58:20.9144782+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:02.5059025+00:00",
+  "LastChanged": "2023-03-31T05:57:02.5059026+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:02.5059028+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

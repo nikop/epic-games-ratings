@@ -3,9 +3,10 @@
   "Name": "Arcade Paradise",
   "Rating": 4.57,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-08-12T15:02:48.2909171+00:00",
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
-  "LastChanged": "2023-01-02T02:04:19.0952953+00:00",
+  "LastChanged": "2023-03-31T05:57:16.243609+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-03T03:02:52.8117429+00:00",
@@ -50,6 +51,12 @@
     {
       "Time": "2023-01-02T02:04:19.0952954+00:00",
       "Rating": 4.57
+    },
+    {
+      "Time": "2023-03-31T05:57:16.2436093+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []
