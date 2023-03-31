@@ -1,16 +1,16 @@
 # Frostpunk
-Rating: 4.73 (Ranked 156)  
+Rating: 4.73 (Ranked 155)  
 Number of Ratings: 11,240  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 758  (Ranked 146)  
-Sum: 6,313 (Ranked 109)  
+Sum: 6,314 (Ranked 109)  
 Diff (max vs sum): 37
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Quickly Understood Controls | 758 |
 | This game is Relaxing | 733 |
-| This game has Amazing Storytelling | 726 |
+| This game has Amazing Storytelling | 727 |
 | This game is Highly Recommended | 712 |
 | This game is Educational | 693 |
 | This game is Extremely Fun | 679 |

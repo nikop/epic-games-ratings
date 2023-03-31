@@ -1,10 +1,10 @@
 # Night in the Woods
-Rating: 4.73 (Ranked 156)  
+Rating: 4.73 (Ranked 155)  
 Number of Ratings: 615  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Impact the Story): 139  (Ranked 282)  
-Sum: 139 (Ranked 371)  
-Diff (max vs sum): -89
+Sum: 139 (Ranked 372)  
+Diff (max vs sum): -90
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

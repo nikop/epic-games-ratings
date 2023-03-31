@@ -3,14 +3,14 @@
   "Name": "Warhammer 40,000: Gladius - Relics of War",
   "Rating": 4.24,
   "Ranking_Rating": 771,
-  "Ranking_Popularity": 437,
-  "Ranking_PopularitySum": 380,
+  "Ranking_Popularity": 433,
+  "Ranking_PopularitySum": 371,
   "NumberOfRatings": 39,
-  "NumberOfAwards": 119,
-  "NumberOfAwardsMax": 29,
+  "NumberOfAwards": 144,
+  "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:19:36.3681248+00:00",
-  "LastChanged": "2023-03-31T19:57:07.3705524+00:00",
+  "LastChanged": "2023-03-31T20:57:20.3951394+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:36.3681251+00:00",
@@ -247,6 +247,12 @@
       "Rating": 4.24,
       "NumberOfAwards": 119,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2023-03-31T20:57:20.3951395+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 144,
+      "NumberOfAwardsMax": 30
     }
   ],
   "Tags": [
@@ -260,7 +266,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game has Diverse Characters",
@@ -279,6 +285,12 @@
       "Prefix": "This game has",
       "Type": "Competitive Players",
       "Count": 22
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 24
     }
   ]
 }
