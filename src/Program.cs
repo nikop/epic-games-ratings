@@ -196,6 +196,53 @@ async ValueTask UpdateRating(JsonIndexDb<GameDbItem> gameIndex, NamespaceDef ns,
 
             var ratingChanged = dbItem.Rating != pi.averageRating;
 
+            dbItem.ProductSlug = ns.ProductSlug;
+            dbItem.Rating = pi.averageRating;
+
+            if (pi.pollResult != null)
+            {
+                var topAward = pi.pollResult.MaxBy(x => x.total ?? 0);
+
+                var NumberOfAwards = pi.pollResult.Sum(x => x.total ?? 0);
+                var NumberOfAwardsMax = topAward?.total ?? 0;
+
+                if (NumberOfAwards != dbItem.NumberOfAwards || NumberOfAwardsMax != dbItem.NumberOfAwardsMax)
+                {
+                    ratingChanged = true;
+                }
+
+                dbItem.NumberOfAwards = NumberOfAwards;
+                dbItem.NumberOfAwardsMax = NumberOfAwardsMax;
+
+                foreach (var pr in pi.pollResult.OrderByDescending(x => x.total))
+                {
+                    var text = $"{pr.localizations.resultText} {pr.localizations.resultTitle}";
+                    var current = dbItem.Tags.FirstOrDefault(x => x.Text == text);
+
+                    if (current != null)
+                    {
+                        current.Prefix = pr.localizations.resultText;
+                        current.Type = pr.localizations.resultTitle;
+                        current.Count = pr.total ?? 0;
+                    }
+                    else
+                    {
+                        dbItem.Tags.Add(new GameDbItemTag
+                        {
+                            Text = text,
+                            Prefix = pr.localizations.resultText,
+                            Type = pr.localizations.resultTitle,
+                            Count = pr.total ?? 0,
+                        });
+                    }
+                }
+            }
+            else if (dbItem.NumberOfAwards != null)
+            {
+                dbItem.NumberOfAwards = 0;
+                dbItem.NumberOfAwardsMax = 0;
+            }
+
             if (ratingChanged)
             {
                 if (dbItem.RatingHistory.Count == 0)
@@ -208,40 +255,9 @@ async ValueTask UpdateRating(JsonIndexDb<GameDbItem> gameIndex, NamespaceDef ns,
                 {
                     Time = DateTimeOffset.UtcNow,
                     Rating = pi.averageRating,
+                    NumberOfAwards = dbItem.NumberOfAwards,
+                    NumberOfAwardsMax = dbItem.NumberOfAwardsMax,
                 });
-            }
-
-            dbItem.ProductSlug = ns.ProductSlug;
-            dbItem.Rating = pi.averageRating;
-
-            if (pi.pollResult != null)
-            {
-                dbItem.NumberOfAwards = pi.pollResult.Sum(x => x.total ?? 0);
-                dbItem.NumberOfAwardsMax = pi.pollResult.Max(x => x.total ?? 0);
-
-                foreach (var pr in pi.pollResult.OrderByDescending(x => x.total))
-                {
-                    var text = $"{pr.localizations.resultText} {pr.localizations.resultTitle}";
-                    var current = dbItem.Tags.FirstOrDefault(x => x.Text == text);
-
-                    if (current != null)
-                    {
-                        current.Count = pr.total ?? 0;
-                    }
-                    else
-                    {
-                        dbItem.Tags.Add(new GameDbItemTag
-                        {
-                            Text = text,
-                            Count = pr.total ?? 0,
-                        });
-                    }
-                }
-            }
-            else if (dbItem.NumberOfAwards != null)
-            {
-                dbItem.NumberOfAwards = 0;
-                dbItem.NumberOfAwardsMax = 0;
             }
         }
     }

@@ -15,5 +15,11 @@ namespace EpicRatingsUpdater
 
         [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
         public int? NumberOfRatings { get; set; }
+
+        [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
+        public int? NumberOfAwards { get; set; }
+
+        [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
+        public int? NumberOfAwardsMax { get; set; }
     }
 }

@@ -113,14 +113,15 @@ namespace EpicRatingsUpdater
 
             sb.AppendLine("## Ratings History");
 
-            sb.AppendLine("| Date | Rating | Number of Ratings |");
-            sb.AppendLine("| ---- | ------ | ----------------- |");
+            sb.AppendLine("| Date | Rating | Number of Ratings | Number of Awards |");
+            sb.AppendLine("| ---- | ------ | ----------------- | ---------------- |");
 
             foreach (var h in item.RatingHistory.GroupBy(x => x.Time.Date))
             {
                 var sub = h.MaxBy(x => x.NumberOfRatings)!;
+                var sub2 = h.MaxBy(x => x.NumberOfAwardsMax);
 
-                sb.AppendLine($"| {sub.Time.ToString("yyyy-MM-dd")} | {FormatRating(sub.Rating)} | {FormatVotes(sub.NumberOfRatings)} |");
+                sb.AppendLine($"| {sub.Time.ToString("yyyy-MM-dd")} | {FormatRating(sub.Rating)} | {FormatVotes(sub2?.NumberOfAwardsMax ?? 0)} |");
             }
 
             return sb.ToString();
