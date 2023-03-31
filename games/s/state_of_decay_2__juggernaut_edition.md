@@ -6,7 +6,7 @@ Popularity (Based on Awards): 306 Extremely Fun (Ranked 214)
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Extremely Fun | 306 |
-| This game is Great for Beginners | 286 |
+| This game is Great for Beginners | 287 |
 | This game has Diverse Characters | 285 |
 | This game has Quickly Understood Controls | 282 |
 | This game is Relaxing | 270 |
@@ -109,3 +109,4 @@ Popularity (Based on Awards): 306 Extremely Fun (Ranked 214)
 | 2023-01-19 | 4.73 | - | - |
 | 2023-01-28 | 4.72 | - | - |
 | 2023-02-01 | 4.73 | - | - |
+| 2023-03-31 | 4.73 | - | 306 |
