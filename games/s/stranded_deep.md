@@ -1,5 +1,7 @@
 # Stranded Deep
-Rating: 4.22 (3,300)  (as of 23.09.2022)  
+Rating: 4.22 (Ranked $784)  
+Number of Ratings: 3,300  (23.09.2022)  
+Popularity (Based on Awards): 199 (Ranked $253)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

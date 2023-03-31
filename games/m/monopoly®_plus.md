@@ -1,5 +1,7 @@
 # MONOPOLY® PLUS
-Rating: 3.92 (142)  (as of 23.09.2022)  
+Rating: 3.92 (Ranked $875)  
+Number of Ratings: 142  (23.09.2022)  
+Popularity (Based on Awards): 0 (Ranked $478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

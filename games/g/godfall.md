@@ -1,5 +1,7 @@
 # Godfall
-Rating: 4.07 (818)  (as of 23.09.2022)  
+Rating: 4.07 (Ranked $850)  
+Number of Ratings: 818  (23.09.2022)  
+Popularity (Based on Awards): 497 (Ranked $178)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

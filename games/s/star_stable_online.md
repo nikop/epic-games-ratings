@@ -1,5 +1,7 @@
 # Star Stable Online
-Rating: 4.41 (317)  (as of 23.09.2022)  
+Rating: 4.41 (Ranked $641)  
+Number of Ratings: 317  (23.09.2022)  
+Popularity (Based on Awards): 117 (Ranked $295)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

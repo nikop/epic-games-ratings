@@ -1,5 +1,7 @@
 # CRSED: F.O.A.D.
-Rating: 4.34 (464)  (as of 23.09.2022)  
+Rating: 4.34 (Ranked $708)  
+Number of Ratings: 464  (23.09.2022)  
+Popularity (Based on Awards): 90 (Ranked $326)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

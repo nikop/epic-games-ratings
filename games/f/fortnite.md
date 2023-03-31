@@ -1,5 +1,7 @@
 # Fortnite
-Rating: 4.30 (2,283,925)  (as of 23.09.2022)  
+Rating: 4.30 (Ranked $737)  
+Number of Ratings: 2,283,925  (23.09.2022)  
+Popularity (Based on Awards): 1,179,756 (Ranked $1)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

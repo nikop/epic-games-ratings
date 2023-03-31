@@ -1,5 +1,7 @@
 # Nioh 2 – The Complete Edition
-Rating: 4.80 (2,526)  (as of 23.09.2022)  
+Rating: 4.80 (Ranked $80)  
+Number of Ratings: 2,526  (23.09.2022)  
+Popularity (Based on Awards): 2,309 (Ranked $91)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

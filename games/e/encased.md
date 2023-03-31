@@ -1,5 +1,7 @@
 # Encased
-Rating: 4.36 (49)  (as of 23.09.2022)  
+Rating: 4.36 (Ranked $690)  
+Number of Ratings: 49  (23.09.2022)  
+Popularity (Based on Awards): 119 (Ranked $293)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

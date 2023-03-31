@@ -1,5 +1,7 @@
 # theHunter: Call of the Wild™
-Rating: 4.59 (14,635)  (as of 23.09.2022)  
+Rating: 4.59 (Ranked $388)  
+Number of Ratings: 14,635  (23.09.2022)  
+Popularity (Based on Awards): 3,062 (Ranked $84)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

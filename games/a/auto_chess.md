@@ -1,5 +1,7 @@
 # Auto Chess
-Rating: 4.52 (2,249)  (as of 23.09.2022)  
+Rating: 4.52 (Ranked $495)  
+Number of Ratings: 2,249  (23.09.2022)  
+Popularity (Based on Awards): 718 (Ranked $151)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,5 +1,7 @@
 # Automachef
-Rating: 4.34 (543)  (as of 23.09.2022)  
+Rating: 4.34 (Ranked $708)  
+Number of Ratings: 543  (23.09.2022)  
+Popularity (Based on Awards): 27 (Ranked $444)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

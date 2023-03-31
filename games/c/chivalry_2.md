@@ -1,5 +1,7 @@
 # Chivalry 2
-Rating: 4.61 (18,078)  (as of 23.09.2022)  
+Rating: 4.61 (Ranked $349)  
+Number of Ratings: 18,078  (23.09.2022)  
+Popularity (Based on Awards): 3,910 (Ranked $71)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

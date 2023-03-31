@@ -1,5 +1,7 @@
 # Solar Ash
-Rating: 4.66 (106)  (as of 23.09.2022)  
+Rating: 4.66 (Ranked $272)  
+Number of Ratings: 106  (23.09.2022)  
+Popularity (Based on Awards): 24 (Ranked $456)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

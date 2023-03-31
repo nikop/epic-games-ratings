@@ -1,5 +1,7 @@
 # KINGDOM HEARTS HD 1.5+2.5 ReMIX
-Rating: 4.82 (4,283)  (as of 23.09.2022)  
+Rating: 4.82 (Ranked $61)  
+Number of Ratings: 4,283  (23.09.2022)  
+Popularity (Based on Awards): 458 (Ranked $182)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

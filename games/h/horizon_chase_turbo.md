@@ -1,5 +1,7 @@
 # Horizon Chase Turbo
-Rating: 4.56 (1,343)  (as of 23.09.2022)  
+Rating: 4.56 (Ranked $436)  
+Number of Ratings: 1,343  (23.09.2022)  
+Popularity (Based on Awards): 126 (Ranked $287)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

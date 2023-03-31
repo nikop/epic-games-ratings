@@ -1,5 +1,7 @@
 # Creature in the Well
-Rating: 4.27 (113)  (as of 23.09.2022)  
+Rating: 4.27 (Ranked $757)  
+Number of Ratings: 113  (23.09.2022)  
+Popularity (Based on Awards): 22 (Ranked $461)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

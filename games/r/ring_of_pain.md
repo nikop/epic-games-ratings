@@ -1,5 +1,7 @@
 # Ring of Pain
-Rating: 4.58 (15,086)  (as of 23.09.2022)  
+Rating: 4.58 (Ranked $400)  
+Number of Ratings: 15,086  (23.09.2022)  
+Popularity (Based on Awards): 1,465 (Ranked $111)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

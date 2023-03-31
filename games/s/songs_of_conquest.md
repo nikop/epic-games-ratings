@@ -1,5 +1,7 @@
 # Songs of Conquest
-Rating: 4.70 (292)  (as of 23.09.2022)  
+Rating: 4.70 (Ranked $194)  
+Number of Ratings: 292  (23.09.2022)  
+Popularity (Based on Awards): 27 (Ranked $444)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

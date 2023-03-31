@@ -1,5 +1,7 @@
 # Rise of the Tomb Raider: 20 Year Celebration
-Rating: 4.69 (28,216)  (as of 23.09.2022)  
+Rating: 4.69 (Ranked $215)  
+Number of Ratings: 28,216  (23.09.2022)  
+Popularity (Based on Awards): 11,115 (Ranked $31)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

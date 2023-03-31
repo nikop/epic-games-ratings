@@ -1,5 +1,6 @@
 # Clad In Iron War of The Pacific 1879
-Rating: - (-)  (as of 23.09.2022)  
+Rating: - (Ranked $-)  
+Popularity (Based on Awards): - (Ranked $-)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

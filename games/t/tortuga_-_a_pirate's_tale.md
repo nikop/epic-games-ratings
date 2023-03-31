@@ -1,5 +1,6 @@
 # Tortuga - A Pirate's Tale
-Rating: 3.80 (-)  (as of 23.09.2022)  
+Rating: 3.80 (Ranked $884)  
+Popularity (Based on Awards): 0 (Ranked $478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

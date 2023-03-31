@@ -1,5 +1,7 @@
 # Journey to the Savage Planet
-Rating: 4.57 (114)  (as of 23.09.2022)  
+Rating: 4.57 (Ranked $419)  
+Number of Ratings: 114  (23.09.2022)  
+Popularity (Based on Awards): 36 (Ranked $409)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

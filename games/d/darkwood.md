@@ -1,5 +1,6 @@
 # Darkwood
-Rating: 4.61 (-)  (as of 23.09.2022)  
+Rating: 4.61 (Ranked $349)  
+Popularity (Based on Awards): 318 (Ranked $209)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

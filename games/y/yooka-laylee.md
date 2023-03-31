@@ -1,5 +1,7 @@
 # Yooka-Laylee
-Rating: 4.23 (366)  (as of 23.09.2022)  
+Rating: 4.23 (Ranked $777)  
+Number of Ratings: 366  (23.09.2022)  
+Popularity (Based on Awards): 22 (Ranked $461)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,5 +1,7 @@
 # We Were Here Forever
-Rating: 4.66 (113)  (as of 23.09.2022)  
+Rating: 4.66 (Ranked $272)  
+Number of Ratings: 113  (23.09.2022)  
+Popularity (Based on Awards): 21 (Ranked $468)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

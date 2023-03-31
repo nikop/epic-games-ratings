@@ -1,5 +1,7 @@
 # Tiny Tina's Wonderlands
-Rating: 4.57 (20,753)  (as of 23.09.2022)  
+Rating: 4.57 (Ranked $419)  
+Number of Ratings: 20,753  (23.09.2022)  
+Popularity (Based on Awards): 17,542 (Ranked $17)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

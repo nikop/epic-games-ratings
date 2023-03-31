@@ -1,5 +1,7 @@
 # Oddworld Soulstorm
-Rating: 4.72 (72)  (as of 23.09.2022)  
+Rating: 4.72 (Ranked $167)  
+Number of Ratings: 72  (23.09.2022)  
+Popularity (Based on Awards): 38 (Ranked $404)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

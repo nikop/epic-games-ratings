@@ -1,5 +1,7 @@
 # OCTOPATH TRAVELER™
-Rating: 4.80 (166)  (as of 23.09.2022)  
+Rating: 4.80 (Ranked $80)  
+Number of Ratings: 166  (23.09.2022)  
+Popularity (Based on Awards): 113 (Ranked $299)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

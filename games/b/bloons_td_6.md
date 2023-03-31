@@ -1,5 +1,7 @@
 # Bloons TD 6
-Rating: 4.76 (136)  (as of 23.09.2022)  
+Rating: 4.76 (Ranked $113)  
+Number of Ratings: 136  (23.09.2022)  
+Popularity (Based on Awards): 1,936 (Ranked $102)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

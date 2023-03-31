@@ -1,5 +1,7 @@
 # Vampire: The Masquerade – Swansong
-Rating: 4.20 (736)  (as of 23.09.2022)  
+Rating: 4.20 (Ranked $792)  
+Number of Ratings: 736  (23.09.2022)  
+Popularity (Based on Awards): 75 (Ranked $339)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

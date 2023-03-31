@@ -1,5 +1,7 @@
 # The Alto Collection
-Rating: 4.70 (332)  (as of 23.09.2022)  
+Rating: 4.70 (Ranked $194)  
+Number of Ratings: 332  (23.09.2022)  
+Popularity (Based on Awards): 43 (Ranked $395)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,5 +1,7 @@
 # Crysis 2 Remastered
-Rating: 4.61 (612)  (as of 23.09.2022)  
+Rating: 4.61 (Ranked $349)  
+Number of Ratings: 612  (23.09.2022)  
+Popularity (Based on Awards): 208 (Ranked $249)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

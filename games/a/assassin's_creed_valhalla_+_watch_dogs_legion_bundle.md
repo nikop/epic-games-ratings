@@ -1,5 +1,6 @@
 # Assassin's Creed Valhalla + Watch Dogs Legion Bundle
-Rating: - (-)  (as of 23.09.2022)  
+Rating: - (Ranked $-)  
+Popularity (Based on Awards): - (Ranked $-)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

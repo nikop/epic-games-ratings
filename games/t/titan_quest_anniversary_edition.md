@@ -1,5 +1,7 @@
 # Titan Quest Anniversary Edition
-Rating: 4.67 (98)  (as of 23.09.2022)  
+Rating: 4.67 (Ranked $255)  
+Number of Ratings: 98  (23.09.2022)  
+Popularity (Based on Awards): 83 (Ranked $333)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

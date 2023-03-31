@@ -1,5 +1,7 @@
 # Kena: Bridge of Spirits
-Rating: 4.70 (3,313)  (as of 23.09.2022)  
+Rating: 4.70 (Ranked $194)  
+Number of Ratings: 3,313  (23.09.2022)  
+Popularity (Based on Awards): 1,284 (Ranked $116)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

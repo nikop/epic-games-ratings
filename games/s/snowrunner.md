@@ -1,5 +1,7 @@
 # SnowRunner
-Rating: 4.76 (21,349)  (as of 23.09.2022)  
+Rating: 4.76 (Ranked $113)  
+Number of Ratings: 21,349  (23.09.2022)  
+Popularity (Based on Awards): 7,311 (Ranked $39)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
@@ -10,7 +12,7 @@ Rating: 4.76 (21,349)  (as of 23.09.2022)
 | This game is Extremely Fun | 6,543 |
 | This game has Amazing Storytelling | 5,828 |
 | This game has Challenging Combat | 4,562 |
-| This game has Amazing Characters | 4,113 |
+| This game has Amazing Characters | 4,124 |
 | This game has Obsessive Gameplay | 4,064 |
 | This game has a Creative Community | 3,882 |
 ## Ratings History
@@ -80,3 +82,4 @@ Rating: 4.76 (21,349)  (as of 23.09.2022)
 | 2022-09-21 | 4.76 | 21,169 | - |
 | 2022-09-22 | 4.76 | 21,295 | - |
 | 2022-09-23 | 4.76 | 21,349 | - |
+| 2023-03-31 | 4.76 | - | 7,311 |

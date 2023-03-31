@@ -1,5 +1,7 @@
 # Path of Exile
-Rating: 4.61 (3,102)  (as of 23.09.2022)  
+Rating: 4.61 (Ranked $349)  
+Number of Ratings: 3,102  (23.09.2022)  
+Popularity (Based on Awards): 2,370 (Ranked $89)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

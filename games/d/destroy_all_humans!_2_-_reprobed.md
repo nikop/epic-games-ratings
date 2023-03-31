@@ -1,5 +1,7 @@
 # Destroy All Humans! 2 - Reprobed
-Rating: 4.61 (90)  (as of 23.09.2022)  
+Rating: 4.61 (Ranked $349)  
+Number of Ratings: 90  (23.09.2022)  
+Popularity (Based on Awards): 34 (Ranked $418)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

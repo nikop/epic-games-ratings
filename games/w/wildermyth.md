@@ -1,5 +1,7 @@
 # Wildermyth
-Rating: 4.77 (45)  (as of 23.09.2022)  
+Rating: 4.77 (Ranked $106)  
+Number of Ratings: 45  (23.09.2022)  
+Popularity (Based on Awards): 27 (Ranked $444)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

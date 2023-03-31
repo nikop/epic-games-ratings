@@ -1,5 +1,7 @@
 # Destiny 2
-Rating: 4.50 (32,207)  (as of 23.09.2022)  
+Rating: 4.50 (Ranked $524)  
+Number of Ratings: 32,207  (23.09.2022)  
+Popularity (Based on Awards): 32,213 (Ranked $12)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,5 +1,7 @@
 # Crying Suns
-Rating: 4.49 (1,003)  (as of 23.09.2022)  
+Rating: 4.49 (Ranked $537)  
+Number of Ratings: 1,003  (23.09.2022)  
+Popularity (Based on Awards): 208 (Ranked $249)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

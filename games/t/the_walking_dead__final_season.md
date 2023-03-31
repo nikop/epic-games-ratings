@@ -1,5 +1,7 @@
 # The Walking Dead: Final Season
-Rating: 4.76 (57)  (as of 23.09.2022)  
+Rating: 4.76 (Ranked $113)  
+Number of Ratings: 57  (23.09.2022)  
+Popularity (Based on Awards): 0 (Ranked $478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

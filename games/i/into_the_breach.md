@@ -1,5 +1,7 @@
 # Into the Breach
-Rating: 4.84 (4,082)  (as of 23.09.2022)  
+Rating: 4.84 (Ranked $47)  
+Number of Ratings: 4,082  (23.09.2022)  
+Popularity (Based on Awards): 401 (Ranked $190)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

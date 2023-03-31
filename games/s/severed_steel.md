@@ -1,5 +1,6 @@
 # Severed Steel
-Rating: 4.68 (-)  (as of 23.09.2022)  
+Rating: 4.68 (Ranked $234)  
+Popularity (Based on Awards): 150 (Ranked $277)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

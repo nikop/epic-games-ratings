@@ -1,5 +1,7 @@
 # Pathfinder: Wrath of the Righteous
-Rating: 4.76 (1,354)  (as of 23.09.2022)  
+Rating: 4.76 (Ranked $113)  
+Number of Ratings: 1,354  (23.09.2022)  
+Popularity (Based on Awards): 1,600 (Ranked $109)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

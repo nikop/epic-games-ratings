@@ -1,5 +1,7 @@
 # Assassin's Creed® Valhalla Standard Edition
-Rating: 4.60 (12,317)  (as of 23.09.2022)  
+Rating: 4.60 (Ranked $374)  
+Number of Ratings: 12,317  (23.09.2022)  
+Popularity (Based on Awards): 11,118 (Ranked $30)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

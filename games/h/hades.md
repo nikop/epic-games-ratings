@@ -1,5 +1,7 @@
 # Hades
-Rating: 4.92 (6,336)  (as of 23.09.2022)  
+Rating: 4.92 (Ranked $3)  
+Number of Ratings: 6,336  (23.09.2022)  
+Popularity (Based on Awards): 2,960 (Ranked $86)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

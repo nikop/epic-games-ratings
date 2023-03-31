@@ -1,5 +1,7 @@
 # Remnant: From the Ashes
-Rating: 4.60 (12,107)  (as of 23.09.2022)  
+Rating: 4.60 (Ranked $374)  
+Number of Ratings: 12,107  (23.09.2022)  
+Popularity (Based on Awards): 8,804 (Ranked $34)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

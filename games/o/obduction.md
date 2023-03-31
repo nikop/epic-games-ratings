@@ -1,5 +1,7 @@
 # Obduction
-Rating: 4.10 (231)  (as of 23.09.2022)  
+Rating: 4.10 (Ranked $839)  
+Number of Ratings: 231  (23.09.2022)  
+Popularity (Based on Awards): 52 (Ranked $375)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

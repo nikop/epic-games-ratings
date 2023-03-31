@@ -1,5 +1,6 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
-Rating: 4.64 (-)  (as of 23.09.2022)  
+Rating: 4.64 (Ranked $306)  
+Popularity (Based on Awards): 0 (Ranked $478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

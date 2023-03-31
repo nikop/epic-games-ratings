@@ -1,5 +1,7 @@
 # Gamedec - Definitive Edition
-Rating: 4.32 (33)  (as of 23.09.2022)  
+Rating: 4.32 (Ranked $725)  
+Number of Ratings: 33  (23.09.2022)  
+Popularity (Based on Awards): 65 (Ranked $360)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

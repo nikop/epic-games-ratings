@@ -1,5 +1,7 @@
 # Call of the Wild: The Angler™
-Rating: 4.11 (281)  (as of 23.09.2022)  
+Rating: 4.11 (Ranked $835)  
+Number of Ratings: 281  (23.09.2022)  
+Popularity (Based on Awards): 32 (Ranked $424)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,5 +1,7 @@
 # ELEX
-Rating: 4.42 (58)  (as of 23.09.2022)  
+Rating: 4.42 (Ranked $630)  
+Number of Ratings: 58  (23.09.2022)  
+Popularity (Based on Awards): 23 (Ranked $458)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

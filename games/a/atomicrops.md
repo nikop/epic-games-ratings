@@ -1,5 +1,7 @@
 # Atomicrops
-Rating: 4.88 (157)  (as of 23.09.2022)  
+Rating: 4.88 (Ranked $19)  
+Number of Ratings: 157  (23.09.2022)  
+Popularity (Based on Awards): 125 (Ranked $289)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

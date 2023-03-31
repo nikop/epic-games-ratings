@@ -1,5 +1,7 @@
 # TUNIC
-Rating: 4.85 (100)  (as of 23.09.2022)  
+Rating: 4.85 (Ranked $38)  
+Number of Ratings: 100  (23.09.2022)  
+Popularity (Based on Awards): 32 (Ranked $424)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

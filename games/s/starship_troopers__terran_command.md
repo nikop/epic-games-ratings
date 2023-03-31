@@ -1,5 +1,7 @@
 # Starship Troopers: Terran Command
-Rating: 4.23 (100)  (as of 23.09.2022)  
+Rating: 4.23 (Ranked $777)  
+Number of Ratings: 100  (23.09.2022)  
+Popularity (Based on Awards): 0 (Ranked $478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

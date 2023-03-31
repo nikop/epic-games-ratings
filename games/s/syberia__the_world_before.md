@@ -1,5 +1,7 @@
 # Syberia: The World Before
-Rating: 4.67 (119)  (as of 23.09.2022)  
+Rating: 4.67 (Ranked $255)  
+Number of Ratings: 119  (23.09.2022)  
+Popularity (Based on Awards): 0 (Ranked $478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

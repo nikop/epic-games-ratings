@@ -1,5 +1,7 @@
 # BIOMUTANT
-Rating: 4.33 (198)  (as of 23.09.2022)  
+Rating: 4.33 (Ranked $718)  
+Number of Ratings: 198  (23.09.2022)  
+Popularity (Based on Awards): 113 (Ranked $299)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,5 +1,6 @@
 # UNCHARTED™: Legacy of Thieves Collection
-Rating: 4.74 (-)  (as of 23.09.2022)  
+Rating: 4.74 (Ranked $141)  
+Popularity (Based on Awards): 568 (Ranked $164)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

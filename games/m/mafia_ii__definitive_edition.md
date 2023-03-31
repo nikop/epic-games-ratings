@@ -1,5 +1,7 @@
 # Mafia II: Definitive Edition
-Rating: 4.41 (1,020)  (as of 23.09.2022)  
+Rating: 4.41 (Ranked $641)  
+Number of Ratings: 1,020  (23.09.2022)  
+Popularity (Based on Awards): 0 (Ranked $478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

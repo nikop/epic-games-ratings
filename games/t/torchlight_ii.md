@@ -1,5 +1,7 @@
 # Torchlight II
-Rating: 4.58 (2,280)  (as of 23.09.2022)  
+Rating: 4.58 (Ranked $400)  
+Number of Ratings: 2,280  (23.09.2022)  
+Popularity (Based on Awards): 956 (Ranked $137)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

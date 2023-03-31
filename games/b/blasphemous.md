@@ -1,5 +1,7 @@
 # Blasphemous
-Rating: 4.87 (205)  (as of 23.09.2022)  
+Rating: 4.87 (Ranked $24)  
+Number of Ratings: 205  (23.09.2022)  
+Popularity (Based on Awards): 135 (Ranked $284)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

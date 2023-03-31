@@ -1,5 +1,7 @@
 # Geneforge 1 - Mutagen
-Rating: 4.20 (1,102)  (as of 23.09.2022)  
+Rating: 4.20 (Ranked $792)  
+Number of Ratings: 1,102  (23.09.2022)  
+Popularity (Based on Awards): 33 (Ranked $419)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

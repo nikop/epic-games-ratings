@@ -1,5 +1,6 @@
 # shapez
-Rating: 4.76 (-)  (as of 23.09.2022)  
+Rating: 4.76 (Ranked $113)  
+Popularity (Based on Awards): 0 (Ranked $478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

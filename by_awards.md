@@ -3,7 +3,7 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 4.30 | 1,179,756x Competitive Players | 
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 366,755x Great for Quick Sessions | 
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 278,465x Character Customization | 
-| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 178,254x Great Boss Battles | 
+| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 178,254x Great Boss Battles | 
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 150,706x Great for Beginners | 
 | 6 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 136,985x Great for Beginners | 
 | 7 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 129,139x Impact the Story | 
@@ -257,7 +257,7 @@
 | 255 | [HITMAN](games/h/hitman.md) | 4.64 | 195x Great for Beginners | 
 | 256 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 189x Relaxing | 
 | 257 | [Relicta](games/r/relicta.md) | 4.15 | 189x Challenging Puzzles | 
-| 258 | [Crashlands](games/c/crashlands.md) | 4.65 | 186x Character Customization | 
+| 258 | [Crashlands](games/c/crashlands.md) | 4.66 | 186x Character Customization | 
 | 259 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 182x Great Boss Battles | 
 | 260 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 182x Great Boss Battles | 
 | 261 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 182x Quickly Understood Controls | 

@@ -1,5 +1,7 @@
 # The Eternal Cylinder
-Rating: 4.74 (149)  (as of 23.09.2022)  
+Rating: 4.74 (Ranked $141)  
+Number of Ratings: 149  (23.09.2022)  
+Popularity (Based on Awards): 0 (Ranked $478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

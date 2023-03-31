@@ -1,5 +1,6 @@
 # Chess Ultra
-Rating: 4.28 (-)  (as of 23.09.2022)  
+Rating: 4.28 (Ranked $752)  
+Popularity (Based on Awards): 0 (Ranked $478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,5 +1,7 @@
 # Conan Exiles
-Rating: 4.55 (1,374)  (as of 23.09.2022)  
+Rating: 4.55 (Ranked $456)  
+Number of Ratings: 1,374  (23.09.2022)  
+Popularity (Based on Awards): 1,020 (Ranked $127)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

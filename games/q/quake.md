@@ -1,5 +1,7 @@
 # Quake
-Rating: 4.75 (53)  (as of 23.09.2022)  
+Rating: 4.75 (Ranked $127)  
+Number of Ratings: 53  (23.09.2022)  
+Popularity (Based on Awards): 43 (Ranked $395)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

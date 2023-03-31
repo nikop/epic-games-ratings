@@ -1,5 +1,7 @@
 # Crayta
-Rating: 4.19 (94)  (as of 23.09.2022)  
+Rating: 4.19 (Ranked $802)  
+Number of Ratings: 94  (23.09.2022)  
+Popularity (Based on Awards): 50 (Ranked $376)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

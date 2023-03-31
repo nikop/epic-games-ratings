@@ -1,5 +1,7 @@
 # The Witcher 3: Wild Hunt – Complete Edition
-Rating: 4.89 (14,665)  (as of 23.09.2022)  
+Rating: 4.89 (Ranked $13)  
+Number of Ratings: 14,665  (23.09.2022)  
+Popularity (Based on Awards): 14,112 (Ranked $20)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

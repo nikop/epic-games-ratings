@@ -1,5 +1,7 @@
 # Shop Titans
-Rating: 3.98 (12,664)  (as of 23.09.2022)  
+Rating: 3.98 (Ranked $863)  
+Number of Ratings: 12,664  (23.09.2022)  
+Popularity (Based on Awards): 4,475 (Ranked $64)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

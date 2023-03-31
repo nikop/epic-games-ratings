@@ -1,5 +1,7 @@
 # Oxygen Not Included
-Rating: 4.84 (897)  (as of 23.09.2022)  
+Rating: 4.84 (Ranked $47)  
+Number of Ratings: 897  (23.09.2022)  
+Popularity (Based on Awards): 244 (Ranked $233)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

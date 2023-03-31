@@ -1,5 +1,7 @@
 # Overcooked
-Rating: 4.67 (601)  (as of 23.09.2022)  
+Rating: 4.67 (Ranked $255)  
+Number of Ratings: 601  (23.09.2022)  
+Popularity (Based on Awards): 112 (Ranked $302)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

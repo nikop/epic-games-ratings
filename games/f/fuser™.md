@@ -1,5 +1,7 @@
 # FUSER™
-Rating: 4.71 (86)  (as of 23.09.2022)  
+Rating: 4.71 (Ranked $177)  
+Number of Ratings: 86  (23.09.2022)  
+Popularity (Based on Awards): 35 (Ranked $414)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

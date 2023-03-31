@@ -1,5 +1,7 @@
 # PC Building Simulator
-Rating: 4.66 (12,155)  (as of 23.09.2022)  
+Rating: 4.66 (Ranked $272)  
+Number of Ratings: 12,155  (23.09.2022)  
+Popularity (Based on Awards): 1,020 (Ranked $127)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

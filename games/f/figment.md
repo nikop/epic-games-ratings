@@ -1,5 +1,7 @@
 # Figment
-Rating: 4.46 (109)  (as of 23.09.2022)  
+Rating: 4.46 (Ranked $578)  
+Number of Ratings: 109  (23.09.2022)  
+Popularity (Based on Awards): 20 (Ranked $473)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

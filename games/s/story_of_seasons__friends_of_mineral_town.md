@@ -1,5 +1,7 @@
 # STORY OF SEASONS: Friends of Mineral Town
-Rating: 4.80 (59)  (as of 23.09.2022)  
+Rating: 4.80 (Ranked $80)  
+Number of Ratings: 59  (23.09.2022)  
+Popularity (Based on Awards): 0 (Ranked $478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

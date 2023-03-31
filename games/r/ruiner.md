@@ -1,5 +1,7 @@
 # RUINER
-Rating: 4.53 (137)  (as of 23.09.2022)  
+Rating: 4.53 (Ranked $481)  
+Number of Ratings: 137  (23.09.2022)  
+Popularity (Based on Awards): 23 (Ranked $458)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

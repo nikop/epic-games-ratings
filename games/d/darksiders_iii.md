@@ -1,5 +1,7 @@
 # Darksiders III
-Rating: 4.49 (116)  (as of 23.09.2022)  
+Rating: 4.49 (Ranked $537)  
+Number of Ratings: 116  (23.09.2022)  
+Popularity (Based on Awards): 88 (Ranked $328)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

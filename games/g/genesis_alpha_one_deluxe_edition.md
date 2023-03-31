@@ -1,5 +1,7 @@
 # Genesis Alpha One Deluxe Edition
-Rating: 4.39 (50)  (as of 23.09.2022)  
+Rating: 4.39 (Ranked $664)  
+Number of Ratings: 50  (23.09.2022)  
+Popularity (Based on Awards): 0 (Ranked $478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

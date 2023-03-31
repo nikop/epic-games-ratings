@@ -1,5 +1,6 @@
 # Jackbox Party Pack 3
-Rating: 4.96 (-)  (as of 23.09.2022)  
+Rating: 4.96 (Ranked $1)  
+Popularity (Based on Awards): 0 (Ranked $478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

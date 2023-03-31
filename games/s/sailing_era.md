@@ -1,5 +1,6 @@
 # Sailing Era
-Rating: 4.79 (-)  (as of 23.09.2022)  
+Rating: 4.79 (Ranked $94)  
+Popularity (Based on Awards): 0 (Ranked $478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

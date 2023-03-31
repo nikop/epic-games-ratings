@@ -1,5 +1,7 @@
 # Assassin's Creed Unity
-Rating: 4.57 (900)  (as of 23.09.2022)  
+Rating: 4.57 (Ranked $419)  
+Number of Ratings: 900  (23.09.2022)  
+Popularity (Based on Awards): 547 (Ranked $167)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

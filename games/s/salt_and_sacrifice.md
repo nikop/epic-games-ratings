@@ -1,5 +1,7 @@
 # Salt and Sacrifice
-Rating: 4.31 (2,205)  (as of 23.09.2022)  
+Rating: 4.31 (Ranked $733)  
+Number of Ratings: 2,205  (23.09.2022)  
+Popularity (Based on Awards): 916 (Ranked $139)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
