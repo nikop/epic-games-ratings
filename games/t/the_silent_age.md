@@ -1,5 +1,5 @@
 # The Silent Age
-Rating: 4.40 (Ranked 653)  
+Rating: 4.36 (Ranked 690)  
 Number of Ratings: 29  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 478)  
@@ -30,4 +30,4 @@ Diff (max vs sum): 0
 | 2023-01-09 | 4.42 | - | - |
 | 2023-01-19 | 4.41 | - | - |
 | 2023-02-21 | 4.40 | - | - |
-| 2023-03-31 | 4.40 | - | 0 |
+| 2023-03-31 | 4.36 | - | 0 |

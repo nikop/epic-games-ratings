@@ -1,13 +1,13 @@
 # The Callisto Protocol
-Rating: 4.17 (Ranked 811)  
+Rating: 4.18 (Ranked 809)  
 ## Popularity (Based on Awards)
-Max (Highly Recommended): 43  (Ranked 396)  
-Sum: 229 (Ranked 338)  
-Diff (max vs sum): 58
+Max (Highly Recommended): 44  (Ranked 391)  
+Sum: 230 (Ranked 338)  
+Diff (max vs sum): 53
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Highly Recommended | 43 |
+| This game is Highly Recommended | 44 |
 | This game has Amazing Storytelling | 41 |
 | This game is Extremely Fun | 40 |
 | This game has Amazing Characters | 39 |
@@ -46,3 +46,4 @@ Diff (max vs sum): 58
 | 2023-03-03 | 4.19 | - | - |
 | 2023-03-15 | 4.18 | - | - |
 | 2023-03-28 | 4.17 | - | - |
+| 2023-03-31 | 4.18 | - | 44 |

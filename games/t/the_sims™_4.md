@@ -2,13 +2,13 @@
 Rating: 4.58 (Ranked 401)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 63  (Ranked 361)  
-Sum: 415 (Ranked 288)  
+Sum: 416 (Ranked 288)  
 Diff (max vs sum): 73
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Great for Beginners | 63 |
-| This game has Diverse Characters | 61 |
+| This game has Diverse Characters | 62 |
 | This game has a Creative Community | 40 |
 | This game is Highly Recommended | 37 |
 | This game is Educational | 36 |

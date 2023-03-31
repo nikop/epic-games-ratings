@@ -1,16 +1,16 @@
 {
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
-  "Rating": 4.17,
-  "Ranking_Rating": 811,
-  "Ranking_Popularity": 396,
+  "Rating": 4.18,
+  "Ranking_Rating": 809,
+  "Ranking_Popularity": 391,
   "Ranking_PopularitySum": 338,
-  "NumberOfAwards": 229,
-  "NumberOfAwardsMax": 43,
+  "NumberOfAwards": 230,
+  "NumberOfAwardsMax": 44,
   "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
-  "LastChanged": "2023-03-28T18:56:57.9159358+00:00",
+  "LastChanged": "2023-03-31T19:57:05.4766558+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-03T10:57:24.5094082+00:00",
@@ -247,6 +247,12 @@
     {
       "Time": "2023-03-28T18:56:57.9159359+00:00",
       "Rating": 4.17
+    },
+    {
+      "Time": "2023-03-31T19:57:05.4766559+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 230,
+      "NumberOfAwardsMax": 44
     }
   ],
   "Tags": [
@@ -254,7 +260,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 43
+      "Count": 44
     },
     {
       "Text": "This game is Extremely Fun",

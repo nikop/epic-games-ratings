@@ -1,5 +1,5 @@
 # Divine Knockout (DKO) - Starter Edition
-Rating: 4.36 (Ranked 691)  
+Rating: 4.36 (Ranked 690)  
 Number of Ratings: 60  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 44  (Ranked 391)  
