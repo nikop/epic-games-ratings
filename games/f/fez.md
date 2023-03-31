@@ -1,7 +1,7 @@
 # Fez
-Rating: 4.71 (Ranked $177)  
+Rating: 4.71 (Ranked 177)  
 Number of Ratings: 103  (23.09.2022)  
-Popularity (Based on Awards): 23 (Ranked $458)  
+Popularity (Based on Awards): 23 (Ranked 458)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,6 +1,6 @@
 # Lost Abroad Cafe - A Language Learning Management
-Rating: - (Ranked $-)  
-Popularity (Based on Awards): - (Ranked $-)  
+Rating: - (Ranked -)  
+Popularity (Based on Awards): - (Ranked -)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

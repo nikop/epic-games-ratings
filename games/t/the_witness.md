@@ -1,7 +1,7 @@
 # The Witness
-Rating: 4.70 (Ranked $194)  
+Rating: 4.70 (Ranked 194)  
 Number of Ratings: 503  (23.09.2022)  
-Popularity (Based on Awards): 167 (Ranked $268)  
+Popularity (Based on Awards): 167 (Ranked 268)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

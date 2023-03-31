@@ -1,7 +1,7 @@
 # Symphony of War
-Rating: 4.64 (Ranked $306)  
+Rating: 4.64 (Ranked 306)  
 Number of Ratings: 181  (23.09.2022)  
-Popularity (Based on Awards): 66 (Ranked $356)  
+Popularity (Based on Awards): 66 (Ranked 356)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

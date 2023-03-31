@@ -1,7 +1,7 @@
 # Killing Floor 2
-Rating: 4.41 (Ranked $641)  
+Rating: 4.41 (Ranked 641)  
 Number of Ratings: 18,418  (23.09.2022)  
-Popularity (Based on Awards): 11,699 (Ranked $27)  
+Popularity (Based on Awards): 11,699 (Ranked 27)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
@@ -14,7 +14,7 @@ Popularity (Based on Awards): 11,699 (Ranked $27)
 | This game has Amazing Characters | 1,483 |
 | This game is Highly Recommended | 1,463 |
 | This game has Challenging Combat | 1,448 |
-| This game has Amazing Storytelling | 1,284 |
+| This game has Amazing Storytelling | 1,286 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |

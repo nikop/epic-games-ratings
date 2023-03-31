@@ -1,7 +1,7 @@
 # Core
-Rating: 4.37 (Ranked $684)  
+Rating: 4.37 (Ranked 684)  
 Number of Ratings: 1,439  (23.09.2022)  
-Popularity (Based on Awards): 719 (Ranked $150)  
+Popularity (Based on Awards): 719 (Ranked 150)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

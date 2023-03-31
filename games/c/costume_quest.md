@@ -1,7 +1,7 @@
 # Costume Quest
-Rating: 4.53 (Ranked $481)  
+Rating: 4.53 (Ranked 481)  
 Number of Ratings: 53  (23.09.2022)  
-Popularity (Based on Awards): 0 (Ranked $478)  
+Popularity (Based on Awards): 0 (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

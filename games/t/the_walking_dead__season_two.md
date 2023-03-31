@@ -1,7 +1,7 @@
 # The Walking Dead: Season Two
-Rating: 4.87 (Ranked $24)  
+Rating: 4.87 (Ranked 24)  
 Number of Ratings: 24  (23.09.2022)  
-Popularity (Based on Awards): 0 (Ranked $478)  
+Popularity (Based on Awards): 0 (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,12 +1,12 @@
 # Riders Republic
-Rating: 4.75 (Ranked $127)  
+Rating: 4.75 (Ranked 127)  
 Number of Ratings: 4,120  (23.09.2022)  
-Popularity (Based on Awards): 382 (Ranked $196)  
+Popularity (Based on Awards): 382 (Ranked 196)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Extremely Fun | 382 |
-| This game is Relaxing | 358 |
+| This game is Relaxing | 360 |
 | This game is Highly Recommended | 350 |
 | This game is Great for Beginners | 344 |
 | This game has Quickly Understood Controls | 344 |
@@ -95,3 +95,4 @@ Popularity (Based on Awards): 382 (Ranked $196)
 | 2023-03-21 | 4.75 | - | - |
 | 2023-03-23 | 4.74 | - | - |
 | 2023-03-26 | 4.75 | - | - |
+| 2023-03-31 | 4.75 | - | 382 |

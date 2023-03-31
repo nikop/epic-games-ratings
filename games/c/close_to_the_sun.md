@@ -1,7 +1,7 @@
 # Close To The Sun
-Rating: 3.98 (Ranked $863)  
+Rating: 3.98 (Ranked 863)  
 Number of Ratings: 147  (23.09.2022)  
-Popularity (Based on Awards): 0 (Ranked $478)  
+Popularity (Based on Awards): 0 (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

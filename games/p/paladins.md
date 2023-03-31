@@ -1,7 +1,7 @@
 # Paladins
-Rating: 4.35 (Ranked $700)  
+Rating: 4.35 (Ranked 700)  
 Number of Ratings: 11,687  (23.09.2022)  
-Popularity (Based on Awards): 3,178 (Ranked $81)  
+Popularity (Based on Awards): 3,178 (Ranked 81)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,7 +1,7 @@
 # Sifu
-Rating: 4.81 (Ranked $68)  
+Rating: 4.81 (Ranked 68)  
 Number of Ratings: 9,492  (23.09.2022)  
-Popularity (Based on Awards): 5,752 (Ranked $53)  
+Popularity (Based on Awards): 5,752 (Ranked 53)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

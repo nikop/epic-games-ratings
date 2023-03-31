@@ -1,7 +1,7 @@
 # Kingdom Come: Deliverance
-Rating: 4.71 (Ranked $177)  
+Rating: 4.71 (Ranked 177)  
 Number of Ratings: 9,133  (23.09.2022)  
-Popularity (Based on Awards): 7,036 (Ranked $40)  
+Popularity (Based on Awards): 7,036 (Ranked 40)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

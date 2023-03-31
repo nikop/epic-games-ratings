@@ -1,6 +1,6 @@
 # Trek to Yomi
-Rating: 4.32 (Ranked $725)  
-Popularity (Based on Awards): 0 (Ranked $478)  
+Rating: 4.32 (Ranked 725)  
+Popularity (Based on Awards): 0 (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

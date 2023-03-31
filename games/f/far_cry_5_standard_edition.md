@@ -1,7 +1,7 @@
 # Far Cry 5 Standard Edition
-Rating: 4.61 (Ranked $349)  
+Rating: 4.61 (Ranked 349)  
 Number of Ratings: 1,848  (23.09.2022)  
-Popularity (Based on Awards): 1,111 (Ranked $122)  
+Popularity (Based on Awards): 1,111 (Ranked 122)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,7 +1,7 @@
 # Ghostwire: Tokyo
-Rating: 4.52 (Ranked $495)  
+Rating: 4.52 (Ranked 495)  
 Number of Ratings: 1,100  (23.09.2022)  
-Popularity (Based on Awards): 493 (Ranked $179)  
+Popularity (Based on Awards): 493 (Ranked 179)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

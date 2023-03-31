@@ -1,7 +1,7 @@
 # Starsand
-Rating: 4.21 (Ranked $786)  
+Rating: 4.21 (Ranked 786)  
 Number of Ratings: 29  (23.09.2022)  
-Popularity (Based on Awards): 0 (Ranked $478)  
+Popularity (Based on Awards): 0 (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

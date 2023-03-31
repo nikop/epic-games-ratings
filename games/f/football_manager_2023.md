@@ -1,6 +1,6 @@
 # Football Manager 2023
-Rating: 4.75 (Ranked $127)  
-Popularity (Based on Awards): 319 (Ranked $207)  
+Rating: 4.75 (Ranked 127)  
+Popularity (Based on Awards): 319 (Ranked 207)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

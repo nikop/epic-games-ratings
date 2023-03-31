@@ -1,7 +1,7 @@
 # Tribes of Midgard
-Rating: 4.56 (Ranked $436)  
+Rating: 4.56 (Ranked 436)  
 Number of Ratings: 120  (23.09.2022)  
-Popularity (Based on Awards): 75 (Ranked $339)  
+Popularity (Based on Awards): 75 (Ranked 339)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

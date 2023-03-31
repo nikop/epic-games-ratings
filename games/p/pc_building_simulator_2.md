@@ -1,6 +1,6 @@
 # PC Building Simulator 2
-Rating: 4.62 (Ranked $333)  
-Popularity (Based on Awards): 576 (Ranked $163)  
+Rating: 4.62 (Ranked 333)  
+Popularity (Based on Awards): 576 (Ranked 163)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
@@ -10,7 +10,7 @@ Popularity (Based on Awards): 576 (Ranked $163)
 | This game is Extremely Fun | 531 |
 | This game has Quickly Understood Controls | 527 |
 | This game is Highly Recommended | 492 |
-| This game has Amazing Storytelling | 451 |
+| This game has Amazing Storytelling | 453 |
 | This game has a Creative Community | 366 |
 | This game has Amazing Characters | 328 |
 | This game has Obsessive Gameplay | 171 |

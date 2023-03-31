@@ -1,7 +1,7 @@
 # Mages of Mystralia
-Rating: 4.38 (Ranked $673)  
+Rating: 4.38 (Ranked 673)  
 Number of Ratings: 693  (23.09.2022)  
-Popularity (Based on Awards): 162 (Ranked $273)  
+Popularity (Based on Awards): 162 (Ranked 273)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

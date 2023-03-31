@@ -1,7 +1,7 @@
 # Against the Storm
-Rating: 4.81 (Ranked $68)  
+Rating: 4.81 (Ranked 68)  
 Number of Ratings: 1,845  (23.09.2022)  
-Popularity (Based on Awards): 414 (Ranked $188)  
+Popularity (Based on Awards): 414 (Ranked 188)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

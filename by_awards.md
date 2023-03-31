@@ -3,7 +3,7 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 4.30 | 1,179,756x Competitive Players | 
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 366,755x Great for Quick Sessions | 
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 278,465x Character Customization | 
-| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 178,254x Great Boss Battles | 
+| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 178,394x Great Boss Battles | 
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 150,706x Great for Beginners | 
 | 6 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 136,985x Great for Beginners | 
 | 7 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 129,139x Impact the Story | 
@@ -24,8 +24,8 @@
 | 22 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 13,755x Great Boss Battles | 
 | 23 | [Maneater](games/m/maneater.md) | 4.49 | 13,362x Character Customization | 
 | 24 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,092x Character Customization | 
-| 25 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 12,158x Character Customization | 
-| 26 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,156x Great Boss Battles | 
+| 25 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,159x Great Boss Battles | 
+| 26 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 12,158x Character Customization | 
 | 27 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 11,699x Great Boss Battles | 
 | 28 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,617x Relaxing | 
 | 29 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,234x Great Boss Battles | 

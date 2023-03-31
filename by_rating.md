@@ -692,7 +692,7 @@
 | 690 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 169x Character Customization | 
 | 690 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 44x Quickly Understood Controls | 
 | 690 | [Encased](games/e/encased.md) | 4.36 | 119x Character Customization | 
-| 690 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,156x Great Boss Battles | 
+| 690 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,159x Great Boss Battles | 
 | 690 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | - | 
 | 690 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25x Extremely Fun | 
 | 690 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 47x Great Boss Battles | 
@@ -805,7 +805,7 @@
 | 802 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | - | 
 | 802 | [Flatout](games/f/flatout.md) | 4.19 | - | 
 | 802 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 84x Relaxing | 
-| 802 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 178,254x Great Boss Battles | 
+| 802 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 178,394x Great Boss Battles | 
 | 802 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | - | 
 | 802 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.19 | - | 
 | 809 | [Scavengers](games/s/scavengers.md) | 4.18 | 96x Highly Recommended | 
@@ -882,7 +882,7 @@
 | 878 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103x Extremely Fun | 
 | 881 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | - | 
 | 882 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | - | 
-| 883 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.83 | - | 
+| 883 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.82 | - | 
 | 884 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | - | 
 | 885 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | - | 
 | 885 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,017x Extremely Fun | 

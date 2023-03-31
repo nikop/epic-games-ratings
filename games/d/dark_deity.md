@@ -1,7 +1,7 @@
 # Dark Deity
-Rating: 4.16 (Ranked $816)  
+Rating: 4.16 (Ranked 816)  
 Number of Ratings: 24  (23.09.2022)  
-Popularity (Based on Awards): 604 (Ranked $161)  
+Popularity (Based on Awards): 604 (Ranked 161)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

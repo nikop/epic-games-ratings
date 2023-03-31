@@ -1,6 +1,6 @@
 # A Frog's Job
-Rating: - (Ranked $-)  
-Popularity (Based on Awards): - (Ranked $-)  
+Rating: - (Ranked -)  
+Popularity (Based on Awards): - (Ranked -)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

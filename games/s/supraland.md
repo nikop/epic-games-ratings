@@ -1,7 +1,7 @@
 # Supraland
-Rating: 4.61 (Ranked $349)  
+Rating: 4.61 (Ranked 349)  
 Number of Ratings: 25,175  (23.09.2022)  
-Popularity (Based on Awards): 7,591 (Ranked $37)  
+Popularity (Based on Awards): 7,591 (Ranked 37)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

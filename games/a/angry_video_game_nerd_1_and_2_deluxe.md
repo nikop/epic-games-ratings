@@ -1,6 +1,6 @@
 # Angry Video Game Nerd 1 and 2 Deluxe
-Rating: - (Ranked $-)  
-Popularity (Based on Awards): 0 (Ranked $-)  
+Rating: - (Ranked -)  
+Popularity (Based on Awards): 0 (Ranked -)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,7 +1,7 @@
 # Marvel's Guardians of the Galaxy
-Rating: 4.73 (Ranked $155)  
+Rating: 4.73 (Ranked 155)  
 Number of Ratings: 898  (23.09.2022)  
-Popularity (Based on Awards): 538 (Ranked $173)  
+Popularity (Based on Awards): 538 (Ranked 173)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

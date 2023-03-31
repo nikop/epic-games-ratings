@@ -3,13 +3,13 @@
   "Name": "Evil Dead: The Game",
   "Rating": 4.36,
   "Ranking_Rating": 690,
-  "Ranking_Popularity": 26,
+  "Ranking_Popularity": 25,
   "NumberOfRatings": 9131,
-  "NumberOfAwards": 28299,
-  "NumberOfAwardsMax": 12156,
+  "NumberOfAwards": 28302,
+  "NumberOfAwardsMax": 12159,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:18:51.4090236+00:00",
-  "LastChanged": "2023-03-18T22:57:25.7348787+00:00",
+  "LastChanged": "2023-03-31T09:56:53.4026186+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:51.4090239+00:00",
@@ -2422,6 +2422,12 @@
     {
       "Time": "2023-03-18T22:57:25.7348789+00:00",
       "Rating": 4.36
+    },
+    {
+      "Time": "2023-03-31T09:56:53.4026188+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 28302,
+      "NumberOfAwardsMax": 12159
     }
   ],
   "Tags": [
@@ -2429,7 +2435,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 12156
+      "Count": 12159
     },
     {
       "Text": "This game is Extremely Fun",

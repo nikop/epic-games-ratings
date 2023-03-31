@@ -1,7 +1,7 @@
 # Black Book
-Rating: 4.87 (Ranked $24)  
+Rating: 4.87 (Ranked 24)  
 Number of Ratings: 96  (23.09.2022)  
-Popularity (Based on Awards): 21 (Ranked $468)  
+Popularity (Based on Awards): 21 (Ranked 468)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

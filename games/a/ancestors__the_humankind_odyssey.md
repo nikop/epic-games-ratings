@@ -1,7 +1,7 @@
 # Ancestors: The Humankind Odyssey
-Rating: 4.59 (Ranked $388)  
+Rating: 4.59 (Ranked 388)  
 Number of Ratings: 481  (23.09.2022)  
-Popularity (Based on Awards): 44 (Ranked $391)  
+Popularity (Based on Awards): 44 (Ranked 391)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

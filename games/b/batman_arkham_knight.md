@@ -1,7 +1,7 @@
 # Batman Arkham Knight
-Rating: 4.82 (Ranked $61)  
+Rating: 4.82 (Ranked 61)  
 Number of Ratings: 7,386  (23.09.2022)  
-Popularity (Based on Awards): 5,377 (Ranked $58)  
+Popularity (Based on Awards): 5,377 (Ranked 58)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

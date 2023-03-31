@@ -1,7 +1,7 @@
 # Poly Bridge 2
-Rating: 4.54 (Ranked $468)  
+Rating: 4.54 (Ranked 468)  
 Number of Ratings: 54  (23.09.2022)  
-Popularity (Based on Awards): 32 (Ranked $424)  
+Popularity (Based on Awards): 32 (Ranked 424)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

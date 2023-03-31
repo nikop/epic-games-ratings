@@ -1,6 +1,6 @@
 # OVERPASS™
-Rating: 4.21 (Ranked $786)  
-Popularity (Based on Awards): 0 (Ranked $478)  
+Rating: 4.21 (Ranked 786)  
+Popularity (Based on Awards): 0 (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

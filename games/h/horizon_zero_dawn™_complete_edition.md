@@ -1,7 +1,7 @@
 # Horizon Zero Dawn™ Complete Edition
-Rating: 4.77 (Ranked $106)  
+Rating: 4.77 (Ranked 106)  
 Number of Ratings: 7,175  (23.09.2022)  
-Popularity (Based on Awards): 3,797 (Ranked $74)  
+Popularity (Based on Awards): 3,797 (Ranked 74)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

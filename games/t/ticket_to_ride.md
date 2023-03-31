@@ -1,7 +1,7 @@
 # Ticket to Ride
-Rating: 4.61 (Ranked $349)  
+Rating: 4.61 (Ranked 349)  
 Number of Ratings: 167  (23.09.2022)  
-Popularity (Based on Awards): 60 (Ranked $367)  
+Popularity (Based on Awards): 60 (Ranked 367)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

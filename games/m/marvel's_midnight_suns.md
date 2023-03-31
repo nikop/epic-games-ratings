@@ -1,6 +1,6 @@
 # Marvel's Midnight Suns
-Rating: 4.54 (Ranked $468)  
-Popularity (Based on Awards): 979 (Ranked $132)  
+Rating: 4.54 (Ranked 468)  
+Popularity (Based on Awards): 979 (Ranked 132)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

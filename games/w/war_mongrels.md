@@ -1,7 +1,7 @@
 # War Mongrels
-Rating: 4.30 (Ranked $737)  
+Rating: 4.30 (Ranked 737)  
 Number of Ratings: 34  (23.09.2022)  
-Popularity (Based on Awards): 0 (Ranked $478)  
+Popularity (Based on Awards): 0 (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

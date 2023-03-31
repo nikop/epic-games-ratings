@@ -1,7 +1,7 @@
 # The Walking Dead: Season One
-Rating: 4.80 (Ranked $80)  
+Rating: 4.80 (Ranked 80)  
 Number of Ratings: 70  (23.09.2022)  
-Popularity (Based on Awards): 26 (Ranked $450)  
+Popularity (Based on Awards): 26 (Ranked 450)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

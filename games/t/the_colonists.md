@@ -1,6 +1,6 @@
 # The Colonists
-Rating: 4.59 (Ranked $388)  
-Popularity (Based on Awards): 0 (Ranked $478)  
+Rating: 4.59 (Ranked 388)  
+Popularity (Based on Awards): 0 (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

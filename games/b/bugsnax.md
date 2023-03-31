@@ -1,7 +1,7 @@
 # Bugsnax
-Rating: 4.85 (Ranked $38)  
+Rating: 4.85 (Ranked 38)  
 Number of Ratings: 425  (23.09.2022)  
-Popularity (Based on Awards): 37 (Ranked $406)  
+Popularity (Based on Awards): 37 (Ranked 406)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

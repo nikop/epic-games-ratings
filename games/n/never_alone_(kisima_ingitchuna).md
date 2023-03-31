@@ -1,7 +1,7 @@
 # Never Alone (Kisima Ingitchuna)
-Rating: 4.11 (Ranked $835)  
+Rating: 4.11 (Ranked 835)  
 Number of Ratings: 174  (23.09.2022)  
-Popularity (Based on Awards): 0 (Ranked $478)  
+Popularity (Based on Awards): 0 (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

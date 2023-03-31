@@ -1,7 +1,7 @@
 # This War of Mine
-Rating: 4.74 (Ranked $141)  
+Rating: 4.74 (Ranked 141)  
 Number of Ratings: 1,090  (23.09.2022)  
-Popularity (Based on Awards): 76 (Ranked $338)  
+Popularity (Based on Awards): 76 (Ranked 338)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

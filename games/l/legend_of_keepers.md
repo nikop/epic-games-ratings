@@ -1,7 +1,7 @@
 # Legend of Keepers
-Rating: 4.55 (Ranked $456)  
+Rating: 4.55 (Ranked 456)  
 Number of Ratings: 39  (23.09.2022)  
-Popularity (Based on Awards): 0 (Ranked $478)  
+Popularity (Based on Awards): 0 (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

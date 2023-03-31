@@ -1,7 +1,7 @@
 # My Time At Portia
-Rating: 4.67 (Ranked $255)  
+Rating: 4.67 (Ranked 255)  
 Number of Ratings: 3,894  (23.09.2022)  
-Popularity (Based on Awards): 2,200 (Ranked $94)  
+Popularity (Based on Awards): 2,200 (Ranked 94)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

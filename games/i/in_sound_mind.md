@@ -1,7 +1,7 @@
 # In Sound Mind
-Rating: 4.60 (Ranked $374)  
+Rating: 4.60 (Ranked 374)  
 Number of Ratings: 1,937  (23.09.2022)  
-Popularity (Based on Awards): 62 (Ranked $363)  
+Popularity (Based on Awards): 62 (Ranked 363)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

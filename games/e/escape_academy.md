@@ -1,6 +1,6 @@
 # Escape Academy
-Rating: - (Ranked $-)  
-Popularity (Based on Awards): 0 (Ranked $-)  
+Rating: - (Ranked -)  
+Popularity (Based on Awards): 0 (Ranked -)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

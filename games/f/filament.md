@@ -1,6 +1,6 @@
 # Filament
-Rating: 4.32 (Ranked $725)  
-Popularity (Based on Awards): 547 (Ranked $167)  
+Rating: 4.32 (Ranked 725)  
+Popularity (Based on Awards): 547 (Ranked 167)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

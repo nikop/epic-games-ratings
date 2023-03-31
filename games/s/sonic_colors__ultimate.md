@@ -1,7 +1,7 @@
 # Sonic Colors: Ultimate
-Rating: 4.41 (Ranked $641)  
+Rating: 4.41 (Ranked 641)  
 Number of Ratings: 179  (23.09.2022)  
-Popularity (Based on Awards): 72 (Ranked $346)  
+Popularity (Based on Awards): 72 (Ranked 346)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

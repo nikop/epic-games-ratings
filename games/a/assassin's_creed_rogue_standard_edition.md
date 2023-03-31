@@ -1,7 +1,7 @@
 # Assassin's Creed Rogue Standard Edition
-Rating: 4.57 (Ranked $419)  
+Rating: 4.57 (Ranked 419)  
 Number of Ratings: 305  (23.09.2022)  
-Popularity (Based on Awards): 148 (Ranked $278)  
+Popularity (Based on Awards): 148 (Ranked 278)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

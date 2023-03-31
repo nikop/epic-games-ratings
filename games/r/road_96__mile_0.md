@@ -1,6 +1,6 @@
 # Road 96: Mile 0
-Rating: - (Ranked $-)  
-Popularity (Based on Awards): - (Ranked $-)  
+Rating: - (Ranked -)  
+Popularity (Based on Awards): - (Ranked -)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

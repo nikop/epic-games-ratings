@@ -1,7 +1,7 @@
 # Total War: WARHAMMER
-Rating: 4.58 (Ranked $400)  
+Rating: 4.58 (Ranked 400)  
 Number of Ratings: 8,439  (23.09.2022)  
-Popularity (Based on Awards): 5,908 (Ranked $50)  
+Popularity (Based on Awards): 5,908 (Ranked 50)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

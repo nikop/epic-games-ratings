@@ -147,7 +147,7 @@
 | 145 | [Crashlands](games/c/crashlands.md) | 4.66 | 186x Character Customization | 
 | 146 | [Crayta](games/c/crayta.md) | 4.19 | 50x Diverse Characters | 
 | 147 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 22x Great Boss Battles | 
-| 148 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.83 | - | 
+| 148 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.82 | - | 
 | 149 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 169x Character Customization | 
 | 150 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.34 | 90x Highly Recommended | 
 | 151 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 208x Character Customization | 
@@ -231,7 +231,7 @@
 | 229 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 4,913x Educational | 
 | 230 | [EVE Online](games/e/eve_online.md) | 4.26 | 993x Character Customization | 
 | 231 | [Everything](games/e/everything.md) | 4.57 | - | 
-| 232 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,156x Great Boss Battles | 
+| 232 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,159x Great Boss Battles | 
 | 233 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | - | 
 | 234 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 270x Great Boss Battles | 
 | 235 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | - | 
@@ -469,7 +469,7 @@
 | 467 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,200x Character Customization | 
 | 468 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 545x Character Customization | 
 | 469 | [MythForce](games/m/mythforce.md) | 4.51 | 32x Highly Recommended | 
-| 470 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 178,254x Great Boss Battles | 
+| 470 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 178,394x Great Boss Battles | 
 | 471 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,617x Relaxing | 
 | 472 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.11 | - | 
 | 473 | [Necrosmith](games/n/necrosmith.md) | 4.39 | - | 

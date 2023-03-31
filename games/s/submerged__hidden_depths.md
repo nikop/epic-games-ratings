@@ -1,7 +1,7 @@
 # Submerged: Hidden Depths
-Rating: 4.24 (Ranked $770)  
+Rating: 4.24 (Ranked 770)  
 Number of Ratings: 2,582  (23.09.2022)  
-Popularity (Based on Awards): 45 (Ranked $387)  
+Popularity (Based on Awards): 45 (Ranked 387)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
