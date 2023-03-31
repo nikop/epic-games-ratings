@@ -2,7 +2,7 @@
 Rating: 4.52 (Ranked 495)  
 ## Popularity (Based on Awards)
 Max (Great for Quick Sessions): 67  (Ranked 355)  
-Sum: 501 (Ranked 284)  
+Sum: 503 (Ranked 284)  
 Diff (max vs sum): 71
 ## Awards
 | Award | Number of Ratings |
@@ -15,7 +15,7 @@ Diff (max vs sum): 71
 | This game has Amazing Storytelling | 54 |
 | This game is Extremely Fun | 51 |
 | This game has Quickly Understood Controls | 48 |
-| This game has Amazing Characters | 40 |
+| This game has Amazing Characters | 42 |
 | This game is Relaxing | 32 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |

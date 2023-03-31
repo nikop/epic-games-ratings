@@ -1,9 +1,9 @@
 # Days Gone
-Rating: 4.69 (Ranked 215)  
+Rating: 4.69 (Ranked 214)  
 Number of Ratings: 3,949  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 3,693  (Ranked 75)  
-Sum: 6,550 (Ranked 106)  
+Sum: 6,551 (Ranked 106)  
 Diff (max vs sum): -31
 ## Awards
 | Award | Number of Ratings |
@@ -18,7 +18,7 @@ Diff (max vs sum): -31
 | This game has Amazing Characters | 322 |
 | This game has Quickly Understood Controls | 320 |
 | This game has Obsessive Gameplay | 198 |
-| This game has a Creative Community | 169 |
+| This game has a Creative Community | 170 |
 | This game has Realistic Visuals | 107 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -98,3 +98,4 @@ Diff (max vs sum): -31
 | 2022-11-09 | 4.69 | - | - |
 | 2022-11-10 | 4.70 | - | - |
 | 2022-11-11 | 4.69 | - | - |
+| 2023-03-31 | 4.69 | - | 3,693 |

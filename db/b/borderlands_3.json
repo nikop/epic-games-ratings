@@ -2,15 +2,15 @@
   "ID": "catnip",
   "Name": "Borderlands 3",
   "Rating": 4.69,
-  "Ranking_Rating": 215,
+  "Ranking_Rating": 214,
   "Ranking_Popularity": 8,
   "Ranking_PopularitySum": 8,
   "NumberOfRatings": 151211,
-  "NumberOfAwards": 332285,
+  "NumberOfAwards": 332302,
   "NumberOfAwardsMax": 106213,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
-  "LastChanged": "2023-03-31T20:57:06.9020519+00:00",
+  "LastChanged": "2023-03-31T22:56:56.3731606+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:32.2549883+00:00",
@@ -3437,6 +3437,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 332285,
       "NumberOfAwardsMax": 106213
+    },
+    {
+      "Time": "2023-03-31T22:56:56.3731608+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 332302,
+      "NumberOfAwardsMax": 106213
     }
   ],
   "Tags": [
@@ -3468,7 +3474,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 23855
+      "Count": 23872
     },
     {
       "Text": "This game has Amazing Storytelling",
