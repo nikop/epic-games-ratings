@@ -1,5 +1,5 @@
 # Filament
-Rating: 4.32 (Ranked 726)  
+Rating: 4.32 (Ranked 725)  
 ## Popularity (Based on Awards)
 Max (Challenging Puzzles): 547  (Ranked 167)  
 Sum: 660 (Ranked 259)  

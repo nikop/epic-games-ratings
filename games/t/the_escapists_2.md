@@ -1,9 +1,9 @@
 # The Escapists 2
-Rating: 4.58 (Ranked 400)  
+Rating: 4.58 (Ranked 401)  
 Number of Ratings: 1,941  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 50  (Ranked 376)  
-Sum: 389 (Ranked 294)  
+Sum: 390 (Ranked 294)  
 Diff (max vs sum): 82
 ## Awards
 | Award | Number of Ratings |
@@ -11,8 +11,8 @@ Diff (max vs sum): 82
 | This game is Extremely Fun | 50 |
 | This game is Highly Recommended | 49 |
 | This game is Great for Quick Sessions | 45 |
+| This game is Great for Beginners | 43 |
 | This game has Quickly Understood Controls | 42 |
-| This game is Great for Beginners | 42 |
 | This game has Amazing Characters | 40 |
 | This game is Relaxing | 38 |
 | This game has Amazing Storytelling | 36 |
@@ -97,3 +97,4 @@ Diff (max vs sum): 82
 | 2023-01-25 | 4.58 | - | - |
 | 2023-01-27 | 4.59 | - | - |
 | 2023-01-28 | 4.58 | - | - |
+| 2023-03-31 | 4.58 | - | 50 |

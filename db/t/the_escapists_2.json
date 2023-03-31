@@ -2,15 +2,15 @@
   "ID": "115577f4ef1e4055aaf0da534fdfe81e",
   "Name": "The Escapists 2",
   "Rating": 4.58,
-  "Ranking_Rating": 400,
+  "Ranking_Rating": 401,
   "Ranking_Popularity": 376,
   "Ranking_PopularitySum": 294,
   "NumberOfRatings": 1941,
-  "NumberOfAwards": 389,
+  "NumberOfAwards": 390,
   "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:22:06.6335859+00:00",
-  "LastChanged": "2023-01-28T19:57:39.2010539+00:00",
+  "LastChanged": "2023-03-31T17:58:21.140142+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:06.6335861+00:00",
@@ -879,6 +879,12 @@
     {
       "Time": "2023-01-28T19:57:39.201054+00:00",
       "Rating": 4.58
+    },
+    {
+      "Time": "2023-03-31T17:58:21.1401421+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 390,
+      "NumberOfAwardsMax": 50
     }
   ],
   "Tags": [
@@ -904,7 +910,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game is Relaxing",

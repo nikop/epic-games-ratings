@@ -1,8 +1,8 @@
 {
   "ID": "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
   "Name": "Godfall",
-  "Rating": 4.07,
-  "Ranking_Rating": 850,
+  "Rating": 4.06,
+  "Ranking_Rating": 852,
   "Ranking_Popularity": 178,
   "Ranking_PopularitySum": 240,
   "NumberOfRatings": 818,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 497,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:17:29.0337311+00:00",
-  "LastChanged": "2023-03-11T20:57:06.4528487+00:00",
+  "LastChanged": "2023-03-31T17:57:50.0056969+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:29.0337314+00:00",
@@ -787,6 +787,12 @@
     {
       "Time": "2023-03-11T20:57:06.4528488+00:00",
       "Rating": 4.07
+    },
+    {
+      "Time": "2023-03-31T17:57:50.005697+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 798,
+      "NumberOfAwardsMax": 497
     }
   ],
   "Tags": [
