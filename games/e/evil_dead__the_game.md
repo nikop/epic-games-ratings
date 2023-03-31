@@ -5,7 +5,7 @@ Rating: 4.36 (9,131)  (as of 23.09.2022)
 | ----- | ----------------- |
 | This game has Great Boss Battles | 12,156 |
 | This game has Diverse Characters | 1,943 |
-| This game is Extremely Fun | 1,889 |
+| This game is Extremely Fun | 1,890 |
 | This game has Competitive Players | 1,888 |
 | This game has Quickly Understood Controls | 1,860 |
 | This game is Highly Recommended | 1,837 |

@@ -4,7 +4,7 @@ Rating: 4.35 (11,687)  (as of 23.09.2022)
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Great for Quick Sessions | 3,178 |
-| This game has Diverse Characters | 3,118 |
+| This game has Diverse Characters | 3,120 |
 | This game has Competitive Players | 2,890 |
 | This game has Quickly Understood Controls | 2,863 |
 | This game is Extremely Fun | 2,857 |

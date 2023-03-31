@@ -10,8 +10,8 @@ Rating: 4.29 (841)  (as of 23.09.2022)
 | This game has Quickly Understood Controls | 114 |
 | This game has Amazing Characters | 107 |
 | This game is Highly Recommended | 104 |
+| This game is Extremely Fun | 103 |
 | This game has Playful Visuals | 103 |
-| This game is Extremely Fun | 102 |
 | This game has Amazing Storytelling | 97 |
 | This game has a Competitive Community | 88 |
 | This game has Unique Visuals | 24 |

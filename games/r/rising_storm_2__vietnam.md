@@ -7,11 +7,11 @@ Rating: 4.50 (2,871)  (as of 23.09.2022)
 | This game is Extremely Fun | 611 |
 | This game has Challenging Combat | 604 |
 | This game is Highly Recommended | 596 |
-| This game has Diverse Characters | 590 |
+| This game has Diverse Characters | 592 |
 | This game has Competitive Players | 581 |
 | This game has Realistic Visuals | 554 |
 | This game has Amazing Storytelling | 546 |
-| This game has Amazing Characters | 506 |
+| This game has Amazing Characters | 507 |
 | This game has a Competitive Community | 480 |
 | This game has Obsessive Gameplay | 149 |
 | This game is Educational | 28 |

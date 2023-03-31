@@ -3,7 +3,7 @@ Rating: 4.68 (3,181)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 3,865 |
+| This game has Inclusive Character Customization | 3,868 |
 | This game has Great Boss Battles | 2,819 |
 | This game is Great for Beginners | 646 |
 | This game has Diverse Characters | 627 |

@@ -10,7 +10,7 @@ Rating: 4.65 (431)  (as of 23.09.2022)
 | This game is Relaxing | 114 |
 | This game is Highly Recommended | 107 |
 | This game is Extremely Fun | 107 |
-| This game has Amazing Characters | 102 |
+| This game has Amazing Characters | 103 |
 | This game has Amazing Storytelling | 98 |
 | This game has Competitive Players | 98 |
 | This game has Challenging Combat | 85 |

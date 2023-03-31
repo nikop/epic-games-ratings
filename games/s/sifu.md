@@ -4,8 +4,8 @@ Rating: 4.81 (9,492)  (as of 23.09.2022)
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Great Boss Battles | 5,752 |
+| This game has Quickly Understood Controls | 465 |
 | This game is Extremely Fun | 462 |
-| This game has Quickly Understood Controls | 461 |
 | This game has Diverse Characters | 458 |
 | This game has Challenging Combat | 458 |
 | This game is Highly Recommended | 444 |

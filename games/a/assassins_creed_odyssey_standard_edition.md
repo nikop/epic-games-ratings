@@ -4,7 +4,7 @@ Rating: 4.75 (5,481)  (as of 23.09.2022)
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Inclusive Character Customization | 4,528 |
-| This game has Great Boss Battles | 2,860 |
+| This game has Great Boss Battles | 2,864 |
 | This game has Amazing Characters | 401 |
 | This game is Great for Beginners | 386 |
 | This game is Highly Recommended | 380 |
@@ -12,7 +12,7 @@ Rating: 4.75 (5,481)  (as of 23.09.2022)
 | This game is Educational | 375 |
 | This game is Extremely Fun | 370 |
 | This game is Relaxing | 367 |
-| This game has Quickly Understood Controls | 353 |
+| This game has Quickly Understood Controls | 355 |
 | This game has Amazing Storytelling | 352 |
 | This game has Obsessive Gameplay | 210 |
 | This game has Beautiful Visuals | 202 |

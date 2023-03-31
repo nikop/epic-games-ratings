@@ -3,9 +3,9 @@ Rating: 4.78 (-)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 16,166 |
+| This game has Inclusive Character Customization | 16,246 |
 | This game has Great Boss Battles | 7,197 |
-| This game is Extremely Fun | 542 |
+| This game is Extremely Fun | 549 |
 | This game is Relaxing | 531 |
 | This game has Diverse Characters | 520 |
 | This game has Amazing Storytelling | 519 |

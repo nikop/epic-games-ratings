@@ -3,8 +3,8 @@
   "Name": "BioShock Remastered",
   "Rating": 4.64,
   "NumberOfRatings": 24195,
-  "NumberOfAwards": 7061,
-  "NumberOfAwardsMax": 5812,
+  "NumberOfAwards": 7067,
+  "NumberOfAwardsMax": 5817,
   "FirstSeen": "2022-07-22T20:33:07.4798792+00:00",
   "LastChanged": "2023-01-23T22:58:29.1100702+00:00",
   "RatingHistory": [
@@ -1826,7 +1826,7 @@
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
-      "Count": 5812
+      "Count": 5817
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1858,7 +1858,7 @@
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 135
+      "Count": 136
     },
     {
       "Text": "This game has Unique Visuals",

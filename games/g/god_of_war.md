@@ -7,7 +7,7 @@ Rating: 4.89 (4,943)  (as of 23.09.2022)
 | This game has Great Boss Battles | 2,098 |
 | This game is Extremely Fun | 166 |
 | This game has Amazing Characters | 160 |
-| This game has Amazing Storytelling | 156 |
+| This game has Amazing Storytelling | 157 |
 | This game has Competitive Players | 152 |
 | This game is Highly Recommended | 147 |
 | This game is Educational | 147 |

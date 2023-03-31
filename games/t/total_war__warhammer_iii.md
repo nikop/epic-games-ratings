@@ -3,7 +3,7 @@ Rating: 4.68 (882)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 1,324 |
+| This game has Great Boss Battles | 1,328 |
 | This game has Diverse Characters | 358 |
 | This game is Relaxing | 338 |
 | This game is Highly Recommended | 335 |

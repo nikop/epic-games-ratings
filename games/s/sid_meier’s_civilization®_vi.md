@@ -3,7 +3,7 @@ Rating: 4.73 (57,866)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Diverse Characters | 28,195 |
+| This game has Diverse Characters | 28,284 |
 | This game is Educational | 26,049 |
 | This game is Relaxing | 25,027 |
 | This game is Highly Recommended | 24,886 |

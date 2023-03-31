@@ -5,7 +5,7 @@ Rating: 4.26 (1,408)  (as of 23.09.2022)
 | ----- | ----------------- |
 | This game has Inclusive Character Customization | 993 |
 | This game is Extremely Fun | 180 |
-| This game has Challenging Combat | 173 |
+| This game has Challenging Combat | 174 |
 | This game has Diverse Characters | 171 |
 | This game is Highly Recommended | 165 |
 | This game is Relaxing | 163 |

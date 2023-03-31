@@ -11,7 +11,7 @@ Rating: 4.75 (-)  (as of 23.09.2022)
 | This game has Amazing Storytelling | 256 |
 | This game has Quickly Understood Controls | 256 |
 | This game has Competitive Players | 253 |
-| This game has Amazing Characters | 237 |
+| This game has Amazing Characters | 238 |
 | This game has Challenging Combat | 202 |
 | This game has a Competitive Community | 121 |
 | This game has Unique Visuals | 54 |

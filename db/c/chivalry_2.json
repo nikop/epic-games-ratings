@@ -3,7 +3,7 @@
   "Name": "Chivalry 2",
   "Rating": 4.61,
   "NumberOfRatings": 18078,
-  "NumberOfAwards": 25427,
+  "NumberOfAwards": 25430,
   "NumberOfAwardsMax": 3910,
   "FirstSeen": "2022-07-22T20:20:08.5003131+00:00",
   "LastChanged": "2023-03-04T04:57:09.1087229+00:00",
@@ -3270,7 +3270,7 @@
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 3067
+      "Count": 3070
     }
   ]
 }

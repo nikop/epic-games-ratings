@@ -13,7 +13,7 @@ Rating: 4.57 (3,868)  (as of 23.09.2022)
 | This game has Challenging Combat | 345 |
 | This game has Amazing Storytelling | 338 |
 | This game is Relaxing | 325 |
-| This game has a Creative Community | 186 |
+| This game has a Creative Community | 187 |
 | This game has Obsessive Gameplay | 77 |
 | This game is Hard for Beginners | 50 |
 ## Ratings History

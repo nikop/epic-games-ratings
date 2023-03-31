@@ -3,8 +3,8 @@ Rating: 4.58 (-)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
+| This game is Great for Beginners | 63 |
 | This game has Diverse Characters | 61 |
-| This game is Great for Beginners | 60 |
 | This game has a Creative Community | 40 |
 | This game is Highly Recommended | 37 |
 | This game has Amazing Characters | 36 |

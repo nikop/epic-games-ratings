@@ -3,7 +3,7 @@ Rating: 4.23 (-)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Diverse Characters | 5,398 |
+| This game has Diverse Characters | 5,660 |
 | This game is Highly Recommended | 3,988 |
 | This game has a Competitive Community | 3,707 |
 | This game has Competitive Players | 3,357 |

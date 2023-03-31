@@ -3,7 +3,7 @@
   "Name": "The Binding of Isaac: Repentance",
   "Rating": 4.9,
   "NumberOfRatings": 1859,
-  "NumberOfAwards": 8190,
+  "NumberOfAwards": 8191,
   "NumberOfAwardsMax": 1771,
   "FirstSeen": "2022-07-22T20:18:34.9311333+00:00",
   "LastChanged": "2023-03-15T16:57:03.0896529+00:00",
@@ -1798,7 +1798,7 @@
     },
     {
       "Text": "This game has Unique Visuals",
-      "Count": 530
+      "Count": 531
     },
     {
       "Text": "This game is Relaxing",

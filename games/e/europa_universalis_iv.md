@@ -4,7 +4,7 @@ Rating: 4.68 (8,414)  (as of 23.09.2022)
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Educational | 4,913 |
-| This game has Challenging Combat | 4,746 |
+| This game has Challenging Combat | 4,751 |
 | This game is Highly Recommended | 4,704 |
 | This game is Extremely Fun | 4,674 |
 | This game has Diverse Characters | 4,634 |
