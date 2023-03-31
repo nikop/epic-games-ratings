@@ -1,16 +1,16 @@
 {
   "ID": "cd14dcaa4f3443f19f7169a980559c62",
   "Name": "Sid Meier\u2019s Civilization\u00AE VI",
-  "Rating": 4.73,
-  "Ranking_Rating": 155,
+  "Rating": 4.74,
+  "Ranking_Rating": 141,
   "Ranking_Popularity": 13,
   "Ranking_PopularitySum": 10,
   "NumberOfRatings": 57866,
-  "NumberOfAwards": 235712,
+  "NumberOfAwards": 235760,
   "NumberOfAwardsMax": 28284,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
-  "LastChanged": "2023-03-31T15:56:50.7329395+00:00",
+  "LastChanged": "2023-03-31T18:57:10.3253423+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:50.1564233+00:00",
@@ -3450,6 +3450,12 @@
       "Rating": 4.73,
       "NumberOfAwards": 235712,
       "NumberOfAwardsMax": 28284
+    },
+    {
+      "Time": "2023-03-31T18:57:10.3253424+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 235760,
+      "NumberOfAwardsMax": 28284
     }
   ],
   "Tags": [
@@ -3493,7 +3499,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 25027
+      "Count": 25075
     },
     {
       "Text": "This game has Competitive Players",
