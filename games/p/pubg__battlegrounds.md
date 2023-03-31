@@ -7,7 +7,7 @@ Rating: 3.98 (-)  (as of 23.09.2022)
 | This game has Quickly Understood Controls | 1,115 |
 | This game has Challenging Combat | 1,105 |
 | This game is Highly Recommended | 1,008 |
-| This game has a Competitive Community | 744 |
+| This game has a Competitive Community | 750 |
 | This game is Extremely Fun | 122 |
 | This game has Diverse Characters | 76 |
 | This game is Relaxing | 57 |
@@ -46,3 +46,4 @@ Rating: 3.98 (-)  (as of 23.09.2022)
 | 2023-03-14 | 3.97 | - | - |
 | 2023-03-15 | 3.97 | - | - |
 | 2023-03-16 | 3.98 | - | - |
+| 2023-03-31 | 3.98 | - | 1,275 |

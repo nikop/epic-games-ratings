@@ -12,7 +12,7 @@ Rating: 4.89 (14,665)  (as of 23.09.2022)
 | This game has Quickly Understood Controls | 2,046 |
 | This game has Amazing Characters | 2,026 |
 | This game has Diverse Characters | 1,998 |
-| This game is Educational | 1,923 |
+| This game is Educational | 1,930 |
 | This game has a Creative Community | 1,280 |
 | This game has Obsessive Gameplay | 1,080 |
 ## Ratings History

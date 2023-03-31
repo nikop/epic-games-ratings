@@ -74,7 +74,7 @@
 | 72 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 50x Character Customization | 
 | 73 | [Banished](games/b/banished.md) | 3.96 | - | 
 | 74 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | - | 
-| 75 | [Barony](games/b/barony.md) | 4.71 | 69x  | 
+| 75 | [Barony](games/b/barony.md) | 4.71 | 69x Quickly Understood Controls | 
 | 76 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.33 | - | 
 | 77 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 634x Great Boss Battles | 
 | 78 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,428x Great Boss Battles | 
@@ -180,7 +180,7 @@
 | 178 | [Dead Space](games/d/dead_space.md) | 4.72 | 30x Great Boss Battles | 
 | 179 | [Death Coming](games/d/death_coming.md) | 4.42 | - | 
 | 180 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,243x Great Boss Battles | 
-| 181 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,514x Great Boss Battles | 
+| 181 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,531x Great Boss Battles | 
 | 182 | [Death's Door](games/d/death's_door.md) | 4.66 | - | 
 | 183 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33x Unique Visuals | 
 | 184 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.37 | - | 
@@ -596,7 +596,7 @@
 | 594 | [Runbow](games/r/runbow.md) | 4.46 | - | 
 | 595 | [Sable](games/s/sable.md) | 4.51 | - | 
 | 596 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | - | 
-| 597 | [Sailing Era](games/s/sailing_era.md) | 4.78 | - | 
+| 597 | [Sailing Era](games/s/sailing_era.md) | 4.79 | - | 
 | 598 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,017x Extremely Fun | 
 | 599 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 366x Great Boss Battles | 
 | 600 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,155x Great Boss Battles | 
@@ -612,7 +612,7 @@
 | 610 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 33x Great Boss Battles | 
 | 611 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | - | 
 | 612 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 231x Great Boss Battles | 
-| 613 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 46x  | 
+| 613 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 46x Highly Recommended | 
 | 614 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 150x Great Boss Battles | 
 | 615 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,284x Great Boss Battles | 
 | 616 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 66x Great Boss Battles | 
@@ -803,7 +803,7 @@
 | 801 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | - | 
 | 802 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 5,908x Great Boss Battles | 
 | 803 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,119x Great Boss Battles | 
-| 804 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.68 | 1,328x  | 
+| 804 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.68 | 1,328x Great Boss Battles | 
 | 805 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 309x Great for Beginners | 
 | 806 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | - | 
 | 807 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | - | 
@@ -892,4 +892,4 @@
 | 890 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | - | 
 | 891 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | - | 
 | 892 | [ZOMBI](games/z/zombi.md) | 4.36 | - | 
-| 893 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 749x Great Boss Battles | 
+| 893 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 750x Great Boss Battles | 

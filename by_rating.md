@@ -12,7 +12,7 @@
 | 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | - | 
 | 8 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,771x Great Boss Battles | 
 | 8 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | - | 
-| 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,514x Great Boss Battles | 
+| 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,531x Great Boss Battles | 
 | 13 | [Firework](games/f/firework.md) | 4.89 | - | 
 | 13 | [God of War](games/g/god_of_war.md) | 4.89 | 3,892x Character Customization | 
 | 13 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 129,139x Impact the Story | 
@@ -98,13 +98,13 @@
 | 94 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 2,211x Great Boss Battles | 
 | 94 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,763x Great Boss Battles | 
 | 94 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 359x Character Customization | 
-| 99 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,243x Great Boss Battles | 
-| 99 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,437x Diverse Characters | 
-| 99 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 16,246x Character Customization | 
-| 99 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 873x Character Customization | 
-| 99 | [Sailing Era](games/s/sailing_era.md) | 4.78 | - | 
-| 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 901x Great Boss Battles | 
-| 99 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 141x Great for Beginners | 
+| 94 | [Sailing Era](games/s/sailing_era.md) | 4.79 | - | 
+| 100 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,243x Great Boss Battles | 
+| 100 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,437x Diverse Characters | 
+| 100 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 16,246x Character Customization | 
+| 100 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 873x Character Customization | 
+| 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 901x Great Boss Battles | 
+| 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 141x Great for Beginners | 
 | 106 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,797x Character Customization | 
 | 106 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.77 | - | 
 | 106 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | - | 
@@ -176,7 +176,7 @@
 | 167 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.72 | - | 
 | 167 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | - | 
 | 167 | [Timberborn](games/t/timberborn.md) | 4.72 | 110x Great for Beginners | 
-| 177 | [Barony](games/b/barony.md) | 4.71 | 69x  | 
+| 177 | [Barony](games/b/barony.md) | 4.71 | 69x Quickly Understood Controls | 
 | 177 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | - | 
 | 177 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,009x Great for Beginners | 
 | 177 | [Fez](games/f/fez.md) | 4.71 | 23x Challenging Puzzles | 
@@ -232,7 +232,7 @@
 | 215 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 838x Extremely Fun | 
 | 215 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | - | 
 | 215 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | - | 
-| 215 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 749x Great Boss Battles | 
+| 215 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 750x Great Boss Battles | 
 | 234 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,312x Great Boss Battles | 
 | 234 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 2,877x Great Boss Battles | 
 | 234 | [Bad North](games/b/bad_north.md) | 4.68 | - | 
@@ -252,7 +252,7 @@
 | 234 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 30x Great Boss Battles | 
 | 234 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.68 | - | 
 | 234 | [The Pathless](games/t/the_pathless.md) | 4.68 | - | 
-| 234 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.68 | 1,328x  | 
+| 234 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.68 | 1,328x Great Boss Battles | 
 | 234 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | - | 
 | 255 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.67 | - | 
 | 255 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 634x Great Boss Battles | 
@@ -328,7 +328,7 @@
 | 320 | [Mutazione](games/m/mutazione.md) | 4.63 | - | 
 | 320 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.63 | 101x Character Customization | 
 | 320 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 178x Character Customization | 
-| 320 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 46x  | 
+| 320 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 46x Highly Recommended | 
 | 320 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 304x Character Customization | 
 | 320 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.63 | - | 
 | 320 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,717x Character Customization | 

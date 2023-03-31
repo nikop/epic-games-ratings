@@ -3,9 +3,9 @@ Rating: 4.69 (743)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 749 |
+| This game has Great Boss Battles | 750 |
 | This game is Great for Beginners | 225 |
-| This game is Extremely Fun | 201 |
+| This game is Extremely Fun | 202 |
 | This game has Amazing Storytelling | 201 |
 | This game is Highly Recommended | 198 |
 | This game has Quickly Understood Controls | 190 |
@@ -95,4 +95,4 @@ Rating: 4.69 (743)  (as of 23.09.2022)
 | 2023-03-23 | 4.68 | - | - |
 | 2023-03-25 | 4.69 | - | - |
 | 2023-03-27 | 4.69 | - | - |
-| 2023-03-31 | 4.69 | - | 749 |
+| 2023-03-31 | 4.69 | - | 750 |

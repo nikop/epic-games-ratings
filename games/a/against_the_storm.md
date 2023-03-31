@@ -9,7 +9,7 @@ Rating: 4.81 (1,845)  (as of 23.09.2022)
 | This game is Highly Recommended | 364 |
 | This game is Great for Beginners | 359 |
 | This game has Amazing Storytelling | 294 |
-| This game has Unique Visuals | 288 |
+| This game has Unique Visuals | 291 |
 | This game has Amazing Characters | 265 |
 | This game has Obsessive Gameplay | 254 |
 | This game has a Creative Community | 184 |
@@ -95,3 +95,4 @@ Rating: 4.81 (1,845)  (as of 23.09.2022)
 | 2023-02-02 | 4.81 | - | - |
 | 2023-02-21 | 4.82 | - | - |
 | 2023-02-27 | 4.81 | - | - |
+| 2023-03-31 | 4.81 | - | 414 |

@@ -11,7 +11,7 @@ Rating: 4.63 (111)  (as of 23.09.2022)
 | This game is Extremely Fun | 33 |
 | This game has Realistic Visuals | 33 |
 | This game is Great for Quick Sessions | 32 |
-| This game has Diverse Characters | 31 |
+| This game has Diverse Characters | 32 |
 | This game has Quickly Understood Controls | 29 |
 | This game has Challenging Combat | 24 |
 | This game is Educational | 22 |
@@ -88,3 +88,4 @@ Rating: 4.63 (111)  (as of 23.09.2022)
 | 2023-02-11 | 4.63 | - | - |
 | 2023-02-18 | 4.62 | - | - |
 | 2023-02-27 | 4.63 | - | - |
+| 2023-03-31 | 4.63 | - | 46 |

@@ -42,7 +42,7 @@
 | 40 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,036x Character Customization | 
 | 41 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,005x Character Customization | 
 | 42 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689x Competitive Players | 
-| 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,514x Great Boss Battles | 
+| 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,531x Great Boss Battles | 
 | 44 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,386x Character Customization | 
 | 45 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,292x Character Customization | 
 | 46 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 6,266x Character Customization | 
@@ -114,7 +114,7 @@
 | 112 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,428x Great Boss Battles | 
 | 113 | [Celeste](games/c/celeste.md) | 4.92 | 1,389x Great Boss Battles | 
 | 114 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,357x Impact the Story | 
-| 115 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.68 | 1,328x  | 
+| 115 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.68 | 1,328x Great Boss Battles | 
 | 116 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,284x Great Boss Battles | 
 | 117 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,282x Great Boss Battles | 
 | 118 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 1,275x Competitive Players | 
@@ -146,7 +146,7 @@
 | 144 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 789x Great for Beginners | 
 | 145 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 779x Character Customization | 
 | 146 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 758x Quickly Understood Controls | 
-| 147 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 749x Great Boss Battles | 
+| 147 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 750x Great Boss Battles | 
 | 148 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 744x Great Boss Battles | 
 | 149 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 723x Highly Recommended | 
 | 150 | [Core](games/c/core.md) | 4.37 | 719x Character Customization | 
@@ -349,7 +349,7 @@
 | 347 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 71x Highly Recommended | 
 | 348 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 70x Relaxing | 
 | 349 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 70x Diverse Characters | 
-| 350 | [Barony](games/b/barony.md) | 4.71 | 69x  | 
+| 350 | [Barony](games/b/barony.md) | 4.71 | 69x Quickly Understood Controls | 
 | 351 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 69x Character Customization | 
 | 352 | [Train Valley 2](games/t/train_valley_2.md) | 4.14 | 69x Challenging Puzzles | 
 | 353 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 68x Impact the Story | 
@@ -385,7 +385,7 @@
 | 383 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 47x Great Boss Battles | 
 | 384 | [ATOM RPG](games/a/atom_rpg.md) | 4.45 | 46x Character Customization | 
 | 385 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 46x Great Boss Battles | 
-| 386 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 46x  | 
+| 386 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.63 | 46x Highly Recommended | 
 | 387 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45x Relaxing | 
 | 388 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.63 | 45x Character Customization | 
 | 389 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 45x Highly Recommended | 
