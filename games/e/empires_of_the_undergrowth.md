@@ -3,8 +3,8 @@ Rating: 4.76 (212)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
+| This game has Competitive Players | 39 |
 | This game is Great for Beginners | 38 |
-| This game has Competitive Players | 38 |
 | This game is Extremely Fun | 37 |
 | This game has Amazing Storytelling | 36 |
 | This game has Quickly Understood Controls | 33 |

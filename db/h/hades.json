@@ -3,7 +3,7 @@
   "Name": "Hades",
   "Rating": 4.92,
   "NumberOfRatings": 6336,
-  "NumberOfAwards": 7250,
+  "NumberOfAwards": 7251,
   "NumberOfAwardsMax": 2960,
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "LastChanged": "2022-09-23T10:01:17.9413477+00:00",
@@ -2368,7 +2368,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 221
+      "Count": 222
     },
     {
       "Text": "This game has Quickly Understood Controls",

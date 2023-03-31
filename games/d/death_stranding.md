@@ -11,7 +11,7 @@ Rating: 4.78 (-)  (as of 23.09.2022)
 | This game has Amazing Characters | 178 |
 | This game has Quickly Understood Controls | 178 |
 | This game has Amazing Storytelling | 170 |
-| This game is Extremely Fun | 150 |
+| This game is Extremely Fun | 152 |
 | This game has a Creative Community | 133 |
 | This game has Easy Combat | 28 |
 ## Ratings History

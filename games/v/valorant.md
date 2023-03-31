@@ -6,7 +6,7 @@ Rating: 4.54 (157,172)  (as of 23.09.2022)
 | This game has Diverse Characters | 46,986 |
 | This game has Challenging Combat | 41,337 |
 | This game is Highly Recommended | 40,434 |
-| This game has Amazing Characters | 40,033 |
+| This game has Amazing Characters | 40,094 |
 | This game has Competitive Players | 39,717 |
 | This game is Extremely Fun | 39,465 |
 | This game has Quickly Understood Controls | 37,502 |

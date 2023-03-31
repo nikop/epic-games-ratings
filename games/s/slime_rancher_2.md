@@ -4,7 +4,7 @@ Rating: 4.80 (36)  (as of 23.09.2022)
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Amazing Storytelling | 97 |
-| This game has Quickly Understood Controls | 90 |
+| This game has Quickly Understood Controls | 91 |
 | This game is Great for Beginners | 88 |
 | This game is Relaxing | 85 |
 | This game is Educational | 80 |

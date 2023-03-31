@@ -12,7 +12,7 @@ Rating: 4.61 (1,848)  (as of 23.09.2022)
 | This game is Highly Recommended | 56 |
 | This game has Amazing Storytelling | 54 |
 | This game has Realistic Visuals | 52 |
-| This game has Competitive Players | 48 |
+| This game has Competitive Players | 49 |
 | This game has Diverse Characters | 46 |
 | This game has a Creative Community | 36 |
 ## Ratings History

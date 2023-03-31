@@ -8,7 +8,7 @@
 | 6 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 136,985 |
 | 7 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 129,139 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 106,148 |
-| 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 60,131 |
+| 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 60,131 |
 | 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 55,143 |
 | 11 | [VALORANT](games/v/valorant.md) | 4.54 | 46,986 |
 | 12 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 32,213 |
@@ -401,9 +401,9 @@
 | 399 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 42 |
 | 400 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 41 |
 | 401 | [Coromon](games/c/coromon.md) | 4.65 | 40 |
-| 402 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 39 |
-| 403 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 38 |
-| 404 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 38 |
+| 402 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 39 |
+| 403 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 39 |
+| 404 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 38 |
 | 405 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 38 |
 | 406 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 37 |
 | 407 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 37 |

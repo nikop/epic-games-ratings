@@ -3,7 +3,7 @@
   "Name": "Evil Dead: The Game",
   "Rating": 4.36,
   "NumberOfRatings": 9131,
-  "NumberOfAwards": 28298,
+  "NumberOfAwards": 28299,
   "NumberOfAwardsMax": 12156,
   "FirstSeen": "2022-07-22T20:18:51.4090236+00:00",
   "LastChanged": "2023-03-18T22:57:25.7348787+00:00",
@@ -2464,7 +2464,7 @@
     },
     {
       "Text": "This game has a Competitive Community",
-      "Count": 1440
+      "Count": 1441
     }
   ]
 }

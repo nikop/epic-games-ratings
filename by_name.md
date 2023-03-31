@@ -147,7 +147,7 @@
 | 145 | [Crashlands](games/c/crashlands.md) | 4.65 | 186 |
 | 146 | [Crayta](games/c/crayta.md) | 4.19 | 50 |
 | 147 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 22 |
-| 148 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.85 | - |
+| 148 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.86 | - |
 | 149 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 169 |
 | 150 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.34 | 90 |
 | 151 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 208 |
@@ -157,7 +157,7 @@
 | 155 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 242 |
 | 156 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | - |
 | 157 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 110 |
-| 158 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.61 | 60,131 |
+| 158 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 60,131 |
 | 159 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 967 |
 | 160 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.29 | - |
 | 161 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 50 |
@@ -224,7 +224,7 @@
 | 222 | [ELEX](games/e/elex.md) | 4.42 | 23 |
 | 223 | [ELEX II](games/e/elex_ii.md) | 4.28 | - |
 | 224 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 2,026 |
-| 225 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 38 |
+| 225 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 39 |
 | 226 | [Encased](games/e/encased.md) | 4.36 | 119 |
 | 227 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,423 |
 | 228 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | - |
@@ -406,7 +406,7 @@
 | 404 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 69 |
 | 405 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | - |
 | 406 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.48 | - |
-| 407 | [Knockout City™](games/k/knockout_city™.md) | 4.55 | - |
+| 407 | [Knockout City™](games/k/knockout_city™.md) | 4.52 | - |
 | 408 | [Lake](games/l/lake.md) | 4.03 | - |
 | 409 | [Lamentum](games/l/lamentum.md) | 4.37 | - |
 | 410 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | - |

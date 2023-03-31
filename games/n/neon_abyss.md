@@ -5,7 +5,7 @@ Rating: 4.68 (8,340)  (as of 23.09.2022)
 | ----- | ----------------- |
 | This game is Great for Beginners | 651 |
 | This game has Quickly Understood Controls | 612 |
-| This game has Diverse Characters | 600 |
+| This game has Diverse Characters | 601 |
 | This game is Relaxing | 571 |
 | This game is Highly Recommended | 538 |
 | This game is Extremely Fun | 509 |

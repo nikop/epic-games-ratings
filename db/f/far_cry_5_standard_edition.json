@@ -3,7 +3,7 @@
   "Name": "Far Cry 5 Standard Edition",
   "Rating": 4.61,
   "NumberOfRatings": 1848,
-  "NumberOfAwards": 1726,
+  "NumberOfAwards": 1727,
   "NumberOfAwardsMax": 1111,
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
   "LastChanged": "2023-03-29T17:31:35.3040379+00:00",
@@ -1157,7 +1157,7 @@
     },
     {
       "Text": "This game has Competitive Players",
-      "Count": 48
+      "Count": 49
     }
   ]
 }

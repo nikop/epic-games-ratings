@@ -10,7 +10,7 @@ Rating: 4.58 (-)  (as of 23.09.2022)
 | This game has Amazing Characters | 36 |
 | This game has Quickly Understood Controls | 35 |
 | This game is Educational | 34 |
-| This game is Extremely Fun | 32 |
+| This game is Extremely Fun | 33 |
 | This game has Amazing Storytelling | 28 |
 | This game is Relaxing | 26 |
 | This game has Easy Combat | 20 |
