@@ -12,7 +12,7 @@ Rating: 4.76 (136)  (as of 23.09.2022)
 | This game is Extremely Fun | 1,017 |
 | This game has Amazing Storytelling | 916 |
 | This game has Quickly Understood Controls | 915 |
-| This game is Relaxing | 897 |
+| This game is Relaxing | 904 |
 | This game is Great for Quick Sessions | 64 |
 | This game has Competitive Players | 40 |
 | This game has Obsessive Gameplay | 33 |
@@ -85,3 +85,4 @@ Rating: 4.76 (136)  (as of 23.09.2022)
 | 2022-12-18 | 4.77 | - | - |
 | 2022-12-19 | 4.76 | - | - |
 | 2022-12-23 | 4.76 | - | - |
+| 2023-03-31 | 4.76 | - | 1,936 |

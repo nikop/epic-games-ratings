@@ -2,12 +2,14 @@
   "ID": "14ee004dadc142faaaece5a6270fb628",
   "Name": "The Witcher 3: Wild Hunt \u2013 Complete Edition",
   "Rating": 4.89,
+  "Ranking_Rating": 13,
+  "Ranking_Popularity": 20,
   "NumberOfRatings": 14665,
-  "NumberOfAwards": 33902,
-  "NumberOfAwardsMax": 14079,
+  "NumberOfAwards": 33935,
+  "NumberOfAwardsMax": 14112,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:24:37.9019948+00:00",
-  "LastChanged": "2023-03-31T07:57:54.0945796+00:00",
+  "LastChanged": "2023-03-31T08:57:27.1750898+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:37.9019951+00:00",
@@ -3092,6 +3094,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 33902,
       "NumberOfAwardsMax": 14079
+    },
+    {
+      "Time": "2023-03-31T08:57:27.1750999+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 33935,
+      "NumberOfAwardsMax": 14112
     }
   ],
   "Tags": [
@@ -3099,7 +3107,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 14079
+      "Count": 14112
     },
     {
       "Text": "This game is Great for Beginners",

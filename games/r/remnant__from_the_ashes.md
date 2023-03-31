@@ -9,7 +9,7 @@ Rating: 4.60 (12,107)  (as of 23.09.2022)
 | This game has Amazing Storytelling | 641 |
 | This game is Highly Recommended | 633 |
 | This game has Challenging Combat | 631 |
-| This game is Relaxing | 599 |
+| This game is Relaxing | 600 |
 | This game has Diverse Characters | 575 |
 | This game has Amazing Characters | 560 |
 | This game has Obsessive Gameplay | 419 |
@@ -86,3 +86,4 @@ Rating: 4.60 (12,107)  (as of 23.09.2022)
 | 2022-12-02 | 4.59 | - | - |
 | 2022-12-21 | 4.60 | - | - |
 | 2022-12-22 | 4.60 | - | - |
+| 2023-03-31 | 4.60 | - | 8,804 |

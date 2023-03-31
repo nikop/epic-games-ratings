@@ -2,12 +2,14 @@
   "ID": "b30b6d1b4dfd4dcc93b5490be5e094e5",
   "Name": "Red Dead Redemption 2",
   "Rating": 4.89,
+  "Ranking_Rating": 13,
+  "Ranking_Popularity": 7,
   "NumberOfRatings": 102658,
-  "NumberOfAwards": 325897,
+  "NumberOfAwards": 325920,
   "NumberOfAwardsMax": 129139,
   "MaxAwardTitle": "Impact the Story",
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2022-10-04T18:31:13.1142975+00:00",
+  "LastChanged": "2023-03-31T08:57:19.5512372+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:15.0342453+00:00",
@@ -3555,6 +3557,12 @@
     {
       "Time": "2022-10-04T18:31:13.1142978+00:00",
       "Rating": 4.89
+    },
+    {
+      "Time": "2023-03-31T08:57:19.5512374+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 325920,
+      "NumberOfAwardsMax": 129139
     }
   ],
   "Tags": [
@@ -3640,7 +3648,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 8651
+      "Count": 8674
     }
   ]
 }

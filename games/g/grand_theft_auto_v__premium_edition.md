@@ -11,7 +11,7 @@ Rating: 4.69 (573,831)  (as of 23.09.2022)
 | This game is Highly Recommended | 130,150 |
 | This game has Amazing Storytelling | 129,973 |
 | This game has Competitive Players | 129,648 |
-| This game has Amazing Characters | 126,209 |
+| This game has Amazing Characters | 126,417 |
 | This game has Obsessive Gameplay | 78,155 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |

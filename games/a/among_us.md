@@ -3,7 +3,7 @@ Rating: 4.58 (26,171)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 2,312 |
+| This game is Great for Beginners | 2,316 |
 | This game is Great for Quick Sessions | 2,172 |
 | This game has Quickly Understood Controls | 2,023 |
 | This game is Relaxing | 1,966 |
@@ -82,3 +82,4 @@ Rating: 4.58 (26,171)  (as of 23.09.2022)
 | 2022-09-21 | 4.58 | 25,945 | - |
 | 2022-09-22 | 4.58 | 26,099 | - |
 | 2022-09-23 | 4.58 | 26,171 | - |
+| 2023-03-31 | 4.58 | - | 2,316 |

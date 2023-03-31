@@ -5,7 +5,7 @@ Rating: 4.62 (-)  (as of 23.09.2022)
 | ----- | ----------------- |
 | This game is Great for Beginners | 576 |
 | This game is Educational | 561 |
-| This game is Relaxing | 557 |
+| This game is Relaxing | 558 |
 | This game is Extremely Fun | 531 |
 | This game has Quickly Understood Controls | 527 |
 | This game is Highly Recommended | 492 |
@@ -32,3 +32,4 @@ Rating: 4.62 (-)  (as of 23.09.2022)
 | 2022-11-11 | 4.62 | - | - |
 | 2022-11-12 | 4.62 | - | - |
 | 2022-11-13 | 4.62 | - | - |
+| 2023-03-31 | 4.62 | - | 576 |

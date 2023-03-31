@@ -2,12 +2,14 @@
   "ID": "cbd5b3d310a54b12bf3fe8c41994174f",
   "Name": "VALORANT",
   "Rating": 4.54,
+  "Ranking_Rating": 468,
+  "Ranking_Popularity": 11,
   "NumberOfRatings": 157172,
-  "NumberOfAwards": 360311,
+  "NumberOfAwards": 360361,
   "NumberOfAwardsMax": 46986,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2023-03-31T06:58:24.4664831+00:00",
+  "LastChanged": "2023-03-31T08:57:58.7813604+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:57.2451126+00:00",
@@ -3273,6 +3275,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 360311,
       "NumberOfAwardsMax": 46986
+    },
+    {
+      "Time": "2023-03-31T08:57:58.7813605+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 360361,
+      "NumberOfAwardsMax": 46986
     }
   ],
   "Tags": [
@@ -3322,7 +3330,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 37502
+      "Count": 37552
     },
     {
       "Text": "This game has Amazing Storytelling",

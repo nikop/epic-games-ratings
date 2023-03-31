@@ -26,7 +26,7 @@
 | 24 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | - | 
 | 25 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | - | 
 | 26 | [Among Trees](games/a/among_trees.md) | 4.35 | - | 
-| 27 | [Among Us](games/a/among_us.md) | 4.58 | 2,312x Great for Beginners | 
+| 27 | [Among Us](games/a/among_us.md) | 4.58 | 2,316x Great for Beginners | 
 | 28 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 44x Educational | 
 | 29 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45x Relaxing | 
 | 30 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 332x Great for Quick Sessions | 
@@ -147,7 +147,7 @@
 | 145 | [Crashlands](games/c/crashlands.md) | 4.65 | 186x Character Customization | 
 | 146 | [Crayta](games/c/crayta.md) | 4.19 | 50x Diverse Characters | 
 | 147 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 22x Great Boss Battles | 
-| 148 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.86 | - | 
+| 148 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.83 | - | 
 | 149 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 169x Character Customization | 
 | 150 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.34 | 90x Highly Recommended | 
 | 151 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 208x Character Customization | 
@@ -581,7 +581,7 @@
 | 579 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 622x Quickly Understood Controls | 
 | 580 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 223x Relaxing | 
 | 581 | [Riverbond](games/r/riverbond.md) | 4.48 | - | 
-| 582 | [Road 96](games/r/road_96.md) | 4.61 | - | 
+| 582 | [Road 96](games/r/road_96.md) | 4.62 | - | 
 | 583 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 366,755x Great for Quick Sessions | 
 | 584 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 4,732x Diverse Characters | 
 | 585 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,055x Great Boss Battles | 
@@ -774,7 +774,7 @@
 | 772 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | - | 
 | 773 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 26x Impact the Story | 
 | 774 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.87 | - | 
-| 775 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 14,079x Character Customization | 
+| 775 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 14,112x Character Customization | 
 | 776 | [The Witness](games/t/the_witness.md) | 4.70 | 167x Challenging Puzzles | 
 | 777 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | - | 
 | 778 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | - | 
@@ -809,7 +809,7 @@
 | 807 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | - | 
 | 808 | [Townscaper](games/t/townscaper.md) | 4.71 | - | 
 | 809 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | - | 
-| 810 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,238x Great for Quick Sessions | 
+| 810 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,245x Great for Beginners | 
 | 811 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | - | 
 | 812 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | - | 
 | 813 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 529x Great for Beginners | 

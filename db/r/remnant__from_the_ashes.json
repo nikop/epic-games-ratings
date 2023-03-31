@@ -2,12 +2,14 @@
   "ID": "663e521f2a444199be58152fd93fa66e",
   "Name": "Remnant: From the Ashes",
   "Rating": 4.6,
+  "Ranking_Rating": 374,
+  "Ranking_Popularity": 34,
   "NumberOfRatings": 12107,
-  "NumberOfAwards": 13749,
+  "NumberOfAwards": 13750,
   "NumberOfAwardsMax": 8804,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:25:00.6523638+00:00",
-  "LastChanged": "2022-12-22T08:57:44.5839298+00:00",
+  "LastChanged": "2023-03-31T08:57:29.1690868+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:00.6523641+00:00",
@@ -2903,6 +2905,12 @@
     {
       "Time": "2022-12-22T08:57:44.5839299+00:00",
       "Rating": 4.6
+    },
+    {
+      "Time": "2023-03-31T08:57:29.169087+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 13750,
+      "NumberOfAwardsMax": 8804
     }
   ],
   "Tags": [
@@ -2964,7 +2972,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 599
+      "Count": 600
     },
     {
       "Text": "This game has Diverse Characters",
