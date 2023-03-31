@@ -312,6 +312,12 @@ MarkdownHelpers.RankItems(
     (x, rank) => x.Ranking_Popularity = rank
 );
 
+MarkdownHelpers.RankItems(
+    filteredList.OrderByDescending(x => x.NumberOfAwards),
+    x => x.NumberOfAwards ?? 0,
+    (x, rank) => x.Ranking_PopularitySum = rank
+);
+
 foreach (var item in filteredList)
 {
     await gameIndex.SaveItem(item).ConfigureAwait(false);

@@ -137,7 +137,11 @@ namespace EpicRatingsUpdater
 
             }
 
-            sb.AppendLine($"Popularity (Based on Awards): {FormatVotes(item.NumberOfAwardsMax)} {item.MaxAwardTitle} (Ranked {FormatRanking(item.Ranking_Popularity)})  ");
+            sb.AppendLine("## Popularity (Based on Awards)");
+
+            sb.AppendLine($"Max ({item.MaxAwardTitle}): {FormatVotes(item.NumberOfAwardsMax)}  (Ranked {FormatRanking(item.Ranking_Popularity)})  ");
+            sb.AppendLine($"Sum: {FormatVotes(item.NumberOfAwards)} (Ranked {FormatRanking(item.Ranking_PopularitySum)})  ");
+            sb.AppendLine($"Diff (max vs sum): {FormatRanking(item.Ranking_Popularity - item.Ranking_PopularitySum)}");
 
             sb.AppendLine("## Awards");
 

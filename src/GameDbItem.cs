@@ -17,6 +17,9 @@ namespace EpicRatingsUpdater
         public int? Ranking_Popularity { get; set; }
 
         [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
+        public int? Ranking_PopularitySum { get; set; }
+
+        [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
         public int? NumberOfRatings { get; set; }
 
         [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
