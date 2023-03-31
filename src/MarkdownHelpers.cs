@@ -36,7 +36,15 @@ namespace EpicRatingsUpdater
             if (votes == null)
                 return "-";
 
-            return votes.Value.ToString("N0");
+            return votes.Value.ToString("N0", usCulture);
+        }
+
+        static string FormatRanking(int? ranking)
+        {
+            if (ranking == null)
+                return "-";
+
+            return ranking.Value.ToString("N0", usCulture);
         }
 
         static string FormatPeriodVotes(double? votes)
@@ -121,7 +129,15 @@ namespace EpicRatingsUpdater
 
             sb.AppendLine($"# {item.Name}");
 
-            sb.AppendLine($"Rating: {FormatRating(item.Rating)} ({FormatVotes(item.NumberOfRatings)})  (as of 23.09.2022)  ");
+            sb.AppendLine($"Rating: {FormatRating(item.Rating)} (Ranked ${FormatRanking(item.Ranking_Rating)})  ");
+
+            if (item.NumberOfRatings != null)
+            {
+                sb.AppendLine($"Number of Ratings: {FormatVotes(item.NumberOfRatings)}  (23.09.2022)  ");
+
+            }
+
+            sb.AppendLine($"Popularity (Based on Awards): {FormatVotes(item.NumberOfAwardsMax)} (Ranked ${FormatRanking(item.Ranking_Popularity)})  ");
 
             sb.AppendLine("## Awards");
 
@@ -167,7 +183,7 @@ namespace EpicRatingsUpdater
                 var displayRanking = !groupByRating ? i : (item.Rating == lastRating ? lastRanking : i);
 
 
-                sb.Append($"| {displayRanking} | [{item.Name}]({link}) | {FormatRating(item.Rating)} | ");
+                sb.Append($"| {FormatRanking(displayRanking)} | [{item.Name}]({link}) | {FormatRating(item.Rating)} | ");
 
                 if (useSumAwards)
                 {
