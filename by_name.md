@@ -85,7 +85,7 @@
 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 664 | 0 | 478 |
 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 235 | 68 | 353 |
 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 719 | 113 | 299 |
-| [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 509 | 4,016 | 69 |
+| [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 509 | 4,018 | 69 |
 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 194 | 4,450 | 65 |
 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 306 | 5,817 | 51 |
 | [Black Book](games/b/black_book.md) | 4.87 | 24 | 21 | 468 |
@@ -115,7 +115,7 @@
 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 701 | 0 | 478 |
 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 320 | 0 | 478 |
 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 127 | 84 | 331 |
-| [Celeste](games/c/celeste.md) | 4.92 | 3 | 1,389 | 113 |
+| [Celeste](games/c/celeste.md) | 4.92 | 3 | 1,392 | 113 |
 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 719 | 0 | 478 |
 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 630 | 58 | 369 |
 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 831 | 0 | 478 |
@@ -127,7 +127,7 @@
 | [Chorus](games/c/chorus.md) | 4.47 | 566 | 32 | 424 |
 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 839 | 0 | 478 |
 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 816 | 0 | 478 |
-| [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 290 | 4,167 | 67 |
+| [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 290 | 4,172 | 67 |
 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 67 | 0 | 478 |
 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 777 | 0 | 478 |
 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.24 | 770 | 0 | 478 |
@@ -145,7 +145,7 @@
 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 605 | 0 | 478 |
 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 67 | 0 | 478 |
 | [Crashlands](games/c/crashlands.md) | 4.66 | 272 | 186 | 258 |
-| [Crayta](games/c/crayta.md) | 4.19 | 802 | 50 | 376 |
+| [Crayta](games/c/crayta.md) | 4.19 | 803 | 50 | 376 |
 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 757 | 22 | 461 |
 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.84 | 883 | 0 | 478 |
 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 691 | 169 | 265 |
@@ -257,7 +257,7 @@
 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 235 | 306 | 214 |
 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 215 | 0 | 478 |
 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 177 | 0 | 478 |
-| [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 802 | 0 | 478 |
+| [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 803 | 0 | 478 |
 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 177 | 6,009 | 49 |
 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 194 | 3,996 | 70 |
 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 878 | 103 | 309 |
@@ -271,7 +271,7 @@
 | [First Class Trouble](games/f/first_class_trouble.md) | 4.52 | 495 | 67 | 355 |
 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 685 | 0 | 478 |
 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 436 | 21 | 468 |
-| [Flatout](games/f/flatout.md) | 4.19 | 802 | 0 | 478 |
+| [Flatout](games/f/flatout.md) | 4.19 | 803 | 0 | 478 |
 | [Flatout 2](games/f/flatout_2.md) | 4.92 | 3 | 0 | 478 |
 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 79 | 6,199 | 48 |
 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 127 | 324 | 207 |
@@ -285,7 +285,7 @@
 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 79 | 157 | 275 |
 | [FUSER™](games/f/fuser™.md) | 4.71 | 177 | 35 | 414 |
 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 786 | 169 | 265 |
-| [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 802 | 84 | 331 |
+| [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 803 | 84 | 331 |
 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 726 | 65 | 360 |
 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 792 | 33 | 419 |
 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 664 | 0 | 478 |
@@ -469,7 +469,7 @@
 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 255 | 2,200 | 94 |
 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 235 | 545 | 169 |
 | [MythForce](games/m/mythforce.md) | 4.51 | 509 | 32 | 424 |
-| [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 802 | 178,394 | 4 |
+| [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 803 | 178,394 | 4 |
 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 664 | 11,618 | 28 |
 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.11 | 834 | 0 | 478 |
 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 664 | 0 | 478 |
@@ -488,7 +488,7 @@
 | [NORCO](games/n/norco.md) | 4.62 | 333 | 0 | 478 |
 | [Northgard](games/n/northgard.md) | 4.72 | 167 | 27 | 444 |
 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.72 | 167 | 0 | 478 |
-| [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 802 | 0 | 478 |
+| [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 803 | 0 | 478 |
 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 495 | 0 | 478 |
 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 93 | 359 | 202 |
 | [Obduction](games/o/obduction.md) | 4.10 | 839 | 52 | 375 |
@@ -561,8 +561,8 @@
 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 495 | 0 | 478 |
 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 630 | 30 | 433 |
 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 622 | 0 | 478 |
-| [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.19 | 802 | 0 | 478 |
-| [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 13 | 129,139 | 7 |
+| [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.20 | 792 | 0 | 478 |
+| [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 13 | 129,388 | 7 |
 | [Redout 2](games/r/redout_2.md) | 4.44 | 605 | 0 | 478 |
 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 524 | 0 | 478 |
 | [Relicta](games/r/relicta.md) | 4.15 | 824 | 189 | 256 |

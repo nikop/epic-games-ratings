@@ -2,7 +2,7 @@
 | - | ---- | ------ | ------ | ------------------ |
 | 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 0 | 478 |
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 478 |
-| 3 | [Celeste](games/c/celeste.md) | 4.92 | 1,389 | 113 |
+| 3 | [Celeste](games/c/celeste.md) | 4.92 | 1,392 | 113 |
 | 3 | [Flatout 2](games/f/flatout_2.md) | 4.92 | 0 | 478 |
 | 3 | [Hades](games/h/hades.md) | 4.92 | 2,960 | 86 |
 | 6 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.91 | 0 | 478 |
@@ -15,7 +15,7 @@
 | 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,531 | 43 |
 | 13 | [Firework](games/f/firework.md) | 4.89 | 0 | 478 |
 | 13 | [God of War](games/g/god_of_war.md) | 4.89 | 3,896 | 72 |
-| 13 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 129,139 | 7 |
+| 13 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 129,388 | 7 |
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 391 | 193 |
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 14,112 | 20 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 125 | 289 |
@@ -291,7 +291,7 @@
 | 272 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 21 | 468 |
 | 290 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 478 |
 | 290 | [APE OUT](games/a/ape_out.md) | 4.65 | 0 | 478 |
-| 290 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,167 | 67 |
+| 290 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,172 | 67 |
 | 290 | [Coromon](games/c/coromon.md) | 4.65 | 40 | 401 |
 | 290 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 163 | 272 |
 | 290 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 110 | 303 |
@@ -510,7 +510,7 @@
 | 495 | [UnMetal](games/u/unmetal.md) | 4.52 | 0 | 478 |
 | 509 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,523 | 110 |
 | 509 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 89 | 327 |
-| 509 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,016 | 69 |
+| 509 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,018 | 69 |
 | 509 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 38 | 404 |
 | 509 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 21 | 468 |
 | 509 | [Horace](games/h/horace.md) | 4.51 | 0 | 478 |
@@ -799,15 +799,15 @@
 | 792 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 461 |
 | 792 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 0 | 478 |
 | 792 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 68 | 353 |
+| 792 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.20 | 0 | 478 |
 | 792 | [Somerville](games/s/somerville.md) | 4.20 | 0 | 478 |
 | 792 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 75 | 339 |
-| 802 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 376 |
-| 802 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 0 | 478 |
-| 802 | [Flatout](games/f/flatout.md) | 4.19 | 0 | 478 |
-| 802 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 84 | 331 |
-| 802 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 178,394 | 4 |
-| 802 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 478 |
-| 802 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.19 | 0 | 478 |
+| 803 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 376 |
+| 803 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 0 | 478 |
+| 803 | [Flatout](games/f/flatout.md) | 4.19 | 0 | 478 |
+| 803 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 84 | 331 |
+| 803 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 178,394 | 4 |
+| 803 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 478 |
 | 809 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 316 |
 | 809 | [Windbound](games/w/windbound.md) | 4.18 | 0 | 478 |
 | 811 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 26 | 450 |
