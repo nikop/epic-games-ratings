@@ -2,15 +2,15 @@
   "ID": "ed55aa5edc5941de92fd7f64de415793",
   "Name": "HITMAN 3",
   "Rating": 4.78,
-  "Ranking_Rating": 99,
+  "Ranking_Rating": 100,
   "Ranking_Popularity": 35,
   "Ranking_PopularitySum": 18,
   "NumberOfRatings": 21082,
-  "NumberOfAwards": 63498,
+  "NumberOfAwards": 63508,
   "NumberOfAwardsMax": 8437,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:17:51.8099598+00:00",
-  "LastChanged": "2023-03-26T16:57:06.6191065+00:00",
+  "LastChanged": "2023-03-31T16:57:11.762941+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:51.80996+00:00",
@@ -3731,6 +3731,12 @@
     {
       "Time": "2023-03-26T16:57:06.6191066+00:00",
       "Rating": 4.78
+    },
+    {
+      "Time": "2023-03-31T16:57:11.7629411+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 63508,
+      "NumberOfAwardsMax": 8437
     }
   ],
   "Tags": [
@@ -3786,7 +3792,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 6990
+      "Count": 7000
     },
     {
       "Text": "This game is Great for Beginners",

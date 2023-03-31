@@ -1,5 +1,5 @@
 # Knights of Honor II: Sovereign
-Rating: 4.48 (Ranked 552)  
+Rating: 4.48 (Ranked 553)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 478)  
 Sum: 0 (Ranked 478)  

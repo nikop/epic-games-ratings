@@ -1,5 +1,5 @@
 # Blazing Beaks
-Rating: 4.48 (Ranked 552)  
+Rating: 4.48 (Ranked 553)  
 Number of Ratings: 31  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 478)  

@@ -6,12 +6,12 @@
   "Ranking_Popularity": 111,
   "Ranking_PopularitySum": 72,
   "NumberOfRatings": 15086,
-  "NumberOfAwards": 11314,
+  "NumberOfAwards": 11315,
   "NumberOfAwardsMax": 1465,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
-  "LastChanged": "2022-10-13T00:01:39.8449866+00:00",
+  "LastChanged": "2023-03-31T16:58:02.7058311+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-26T04:31:33.9561596+00:00",
@@ -1536,6 +1536,12 @@
     {
       "Time": "2022-10-13T00:01:39.8449867+00:00",
       "Rating": 4.58
+    },
+    {
+      "Time": "2023-03-31T16:58:02.7058312+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11315,
+      "NumberOfAwardsMax": 1465
     }
   ],
   "Tags": [
@@ -1591,7 +1597,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1287
+      "Count": 1288
     },
     {
       "Text": "This game is Relaxing",
