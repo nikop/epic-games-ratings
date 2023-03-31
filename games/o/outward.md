@@ -1,5 +1,5 @@
 # Outward
-Rating: 4.55 (Ranked 456)  
+Rating: 4.54 (Ranked 467)  
 Number of Ratings: 266  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 31  (Ranked 429)  
@@ -77,3 +77,4 @@ Diff (max vs sum): 95
 | 2022-11-26 | 4.55 | - | - |
 | 2022-12-06 | 4.56 | - | - |
 | 2022-12-08 | 4.55 | - | - |
+| 2023-03-31 | 4.54 | - | 31 |

@@ -1,5 +1,5 @@
 # Outlast 2
-Rating: 4.71 (Ranked 177)  
+Rating: 4.71 (Ranked 176)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 478)  
 Sum: 0 (Ranked 478)  
