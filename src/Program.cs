@@ -298,18 +298,6 @@ var output = await gameIndex.GetAllItems().ConfigureAwait(false);
 // Only games with rating
 var filteredList = output.Where(x => x.Rating != null).ToList();
 
-foreach (var item in output)
-{
-    var name = gameIndex.Files[item.ID] + ".md";
-    var fullName = Path.Combine(dirGames, name);
-
-    Directory.CreateDirectory(Path.GetDirectoryName(fullName)!);
-
-    var page = MarkdownHelpers.BuildMarkdownGamePage(item);
-
-    await File.WriteAllTextAsync(fullName, page);
-}
-
 // Rating Ranking
 MarkdownHelpers.RankItems(
     filteredList.OrderByDescending(x => x.Rating),
@@ -323,6 +311,23 @@ MarkdownHelpers.RankItems(
     x => x.NumberOfAwardsMax ?? 0,
     (x, rank) => x.Ranking_Popularity = rank
 );
+
+foreach (var item in filteredList)
+{
+    await gameIndex.SaveItem(item).ConfigureAwait(false);
+}
+
+foreach (var item in output)
+{
+    var name = gameIndex.Files[item.ID] + ".md";
+    var fullName = Path.Combine(dirGames, name);
+
+    Directory.CreateDirectory(Path.GetDirectoryName(fullName)!);
+
+    var page = MarkdownHelpers.BuildMarkdownGamePage(item);
+
+    await File.WriteAllTextAsync(fullName, page);
+}
 
 // Markdown
 await File.WriteAllTextAsync(
