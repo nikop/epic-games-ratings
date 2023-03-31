@@ -122,7 +122,7 @@
 | 113 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 |
 | 113 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,600 |
 | 113 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 33 |
-| 113 | [shapez](games/s/shapez.md) | 4.76 | - |
+| 113 | [shapez](games/s/shapez.md) | 4.76 | 0 |
 | 113 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 0 |
 | 113 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 7,311 |
 | 113 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 0 |
@@ -483,7 +483,7 @@
 | 481 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 |
 | 481 | [Aztez](games/a/aztez.md) | 4.53 | 0 |
 | 481 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 |
-| 481 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,137 |
+| 481 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,154 |
 | 481 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 25,897 |
 | 481 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 136,985 |
 | 481 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 |
@@ -612,7 +612,7 @@
 | 606 | [Hell is Others](games/h/hell_is_others.md) | 4.44 | 0 |
 | 606 | [Predecessor](games/p/predecessor.md) | 4.44 | 43 |
 | 606 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 45 |
-| 606 | [Redout 2](games/r/redout_2.md) | 4.44 | - |
+| 606 | [Redout 2](games/r/redout_2.md) | 4.44 | 0 |
 | 606 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 0 |
 | 606 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 0 |
 | 606 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 501 |

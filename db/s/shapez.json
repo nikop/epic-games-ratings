@@ -3,9 +3,10 @@
   "Name": "shapez",
   "Rating": 4.76,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-11-01T20:01:20.018196+00:00",
   "FirstSeenRating": "2022-11-10T15:57:35.7088081+00:00",
-  "LastChanged": "2023-01-01T13:57:28.0823648+00:00",
+  "LastChanged": "2023-03-31T06:57:37.3034087+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-10T15:57:35.7088088+00:00",
@@ -54,6 +55,12 @@
     {
       "Time": "2023-01-01T13:57:28.082365+00:00",
       "Rating": 4.76
+    },
+    {
+      "Time": "2023-03-31T06:57:37.3034088+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

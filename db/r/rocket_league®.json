@@ -3,10 +3,10 @@
   "Name": "Rocket League\u00AE",
   "Rating": 4.51,
   "NumberOfRatings": 366020,
-  "NumberOfAwards": 2525774,
+  "NumberOfAwards": 2526279,
   "NumberOfAwardsMax": 366755,
   "FirstSeen": "2022-07-22T20:17:22.1538752+00:00",
-  "LastChanged": "2023-03-24T18:57:04.1947354+00:00",
+  "LastChanged": "2023-03-31T06:56:58.0860732+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:22.1538754+00:00",
@@ -3239,6 +3239,12 @@
     {
       "Time": "2023-03-24T18:57:04.1947355+00:00",
       "Rating": 4.51
+    },
+    {
+      "Time": "2023-03-31T06:56:58.0860734+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 2526279,
+      "NumberOfAwardsMax": 366755
     }
   ],
   "Tags": [
@@ -3300,7 +3306,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 267511
+      "Count": 268016
     }
   ]
 }

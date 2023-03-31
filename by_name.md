@@ -172,7 +172,7 @@
 | 170 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 73 |
 | 171 | [Darkwood](games/d/darkwood.md) | 4.61 | 318 |
 | 172 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 |
-| 173 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,137 |
+| 173 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,154 |
 | 174 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,693 |
 | 175 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 0 |
 | 176 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 25,897 |
@@ -563,7 +563,7 @@
 | 561 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 0 |
 | 562 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.19 | 0 |
 | 563 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 129,139 |
-| 564 | [Redout 2](games/r/redout_2.md) | 4.44 | - |
+| 564 | [Redout 2](games/r/redout_2.md) | 4.44 | 0 |
 | 565 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 0 |
 | 566 | [Relicta](games/r/relicta.md) | 4.15 | 189 |
 | 567 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 8,804 |
@@ -621,7 +621,7 @@
 | 619 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 66 |
 | 620 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 88 |
 | 621 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.70 | 0 |
-| 622 | [shapez](games/s/shapez.md) | 4.76 | - |
+| 622 | [shapez](games/s/shapez.md) | 4.76 | 0 |
 | 623 | [Sheltered](games/s/sheltered.md) | 4.42 | 261 |
 | 624 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 26 |
 | 625 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.47 | 0 |

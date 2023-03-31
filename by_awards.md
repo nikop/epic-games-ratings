@@ -15,7 +15,7 @@
 | 13 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,284 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 28,284 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 25,897 |
-| 15 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,137 |
+| 15 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,154 |
 | 17 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 17,542 |
 | 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 16,246 |
 | 19 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,282 |

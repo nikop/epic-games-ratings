@@ -2,7 +2,17 @@
   "ID": "42c9d119160c4631b5916a7e33bd4bc3",
   "Name": "BloodRayne: Terminal Cut",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-11-08T03:50:42.9174156+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T06:58:23.5211548+00:00",
+  "LastChanged": "2023-03-31T06:58:23.5211549+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T06:58:23.5211551+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }
