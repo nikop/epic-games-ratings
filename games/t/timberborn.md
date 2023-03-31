@@ -1,7 +1,7 @@
 # Timberborn
 Rating: 4.72 (Ranked 167)  
 Number of Ratings: 640  (23.09.2022)  
-Popularity (Based on Awards): 110 (Ranked 303)  
+Popularity (Based on Awards): 110 Great for Beginners (Ranked 303)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

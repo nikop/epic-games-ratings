@@ -1,7 +1,7 @@
 # Unrailed!
 Rating: 4.64 (Ranked 306)  
 Number of Ratings: 21,990  (23.09.2022)  
-Popularity (Based on Awards): 182 (Ranked 259)  
+Popularity (Based on Awards): 182 Quickly Understood Controls (Ranked 259)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

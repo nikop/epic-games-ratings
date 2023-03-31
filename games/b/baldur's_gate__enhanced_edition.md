@@ -1,7 +1,7 @@
 # Baldur's Gate: Enhanced Edition
 Rating: 4.84 (Ranked 47)  
 Number of Ratings: 66  (23.09.2022)  
-Popularity (Based on Awards): 50 (Ranked 376)  
+Popularity (Based on Awards): 50 Character Customization (Ranked 376)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

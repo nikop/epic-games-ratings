@@ -1,7 +1,7 @@
 # Alan Wake
 Rating: 4.53 (Ranked 481)  
 Number of Ratings: 419  (23.09.2022)  
-Popularity (Based on Awards): 0 (Ranked 478)  
+Popularity (Based on Awards): 0  (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

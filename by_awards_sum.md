@@ -1,6 +1,6 @@
 |  #  | Name | Rating | Number of Awards | 
 | --- | ---- | ------ | ---------------- | 
-| 1 | [Fortnite](games/f/fortnite.md) | 4.30 | 8,551,765 | 
+| 1 | [Fortnite](games/f/fortnite.md) | 4.30 | 8,553,807 | 
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 2,526,279 | 
 | 3 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 1,286,540 | 
 | 4 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 1,224,305 | 
@@ -9,7 +9,7 @@
 | 7 | [VALORANT](games/v/valorant.md) | 4.54 | 360,361 | 
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 332,127 | 
 | 9 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 325,920 | 
-| 10 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 235,448 | 
+| 10 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 235,506 | 
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 226,491 | 
 | 12 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 210,662 | 
 | 13 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 156,312 | 
@@ -55,7 +55,7 @@
 | 53 | [Maneater](games/m/maneater.md) | 4.49 | 17,387 | 
 | 54 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 16,922 | 
 | 55 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 16,254 | 
-| 56 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 16,162 | 
+| 56 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 16,166 | 
 | 57 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 15,272 | 
 | 58 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 14,235 | 
 | 59 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 14,046 | 
@@ -64,7 +64,7 @@
 | 62 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 13,582 | 
 | 63 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 13,164 | 
 | 64 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 12,845 | 
-| 65 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 12,392 | 
+| 65 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 12,395 | 
 | 66 | [Control](games/c/control.md) | 4.60 | 12,207 | 
 | 67 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 12,085 | 
 | 68 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 11,910 | 
@@ -80,16 +80,16 @@
 | 78 | [Sifu](games/s/sifu.md) | 4.81 | 9,643 | 
 | 79 | [Saints Row](games/s/saints_row.md) | 3.78 | 8,988 | 
 | 80 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 8,866 | 
-| 81 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 8,776 | 
+| 81 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 8,779 | 
 | 82 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 8,577 | 
 | 83 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 8,516 | 
 | 84 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 8,420 | 
 | 85 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 8,371 | 
 | 86 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 8,191 | 
-| 87 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 8,003 | 
+| 87 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 8,004 | 
 | 88 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 7,934 | 
-| 89 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 7,837 | 
-| 90 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 7,661 | 
+| 89 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 7,839 | 
+| 90 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 7,663 | 
 | 91 | [God of War](games/g/god_of_war.md) | 4.89 | 7,552 | 
 | 92 | [Prey](games/p/prey.md) | 4.62 | 7,405 | 
 | 93 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 7,335 | 
@@ -133,7 +133,7 @@
 | 131 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 3,948 | 
 | 132 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 3,825 | 
 | 133 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,759 | 
-| 134 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 3,751 | 
+| 134 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 3,755 | 
 | 135 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 3,588 | 
 | 136 | [RimWorld](games/r/rimworld.md) | 4.89 | 3,563 | 
 | 137 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 3,498 | 

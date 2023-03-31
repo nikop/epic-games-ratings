@@ -1,7 +1,7 @@
 # Darkest Dungeon II
 Rating: 4.67 (Ranked 255)  
 Number of Ratings: 7,767  (23.09.2022)  
-Popularity (Based on Awards): 6,386 (Ranked 44)  
+Popularity (Based on Awards): 6,386 Character Customization (Ranked 44)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
@@ -10,7 +10,7 @@ Popularity (Based on Awards): 6,386 (Ranked 44)
 | This game is Highly Recommended | 1,184 |
 | This game has Diverse Characters | 1,169 |
 | This game is Extremely Fun | 1,154 |
-| This game has Amazing Characters | 1,136 |
+| This game has Amazing Characters | 1,140 |
 | This game has Amazing Storytelling | 1,095 |
 | This game has Quickly Understood Controls | 1,090 |
 | This game has Unique Visuals | 1,004 |
@@ -84,3 +84,4 @@ Popularity (Based on Awards): 6,386 (Ranked 44)
 | 2022-09-21 | 4.67 | 7,686 | - |
 | 2022-09-22 | 4.67 | 7,735 | - |
 | 2022-09-23 | 4.67 | 7,767 | - |
+| 2023-03-31 | 4.67 | - | 6,386 |

@@ -1,7 +1,7 @@
 # RUINER
 Rating: 4.53 (Ranked 481)  
 Number of Ratings: 137  (23.09.2022)  
-Popularity (Based on Awards): 23 (Ranked 458)  
+Popularity (Based on Awards): 23 Great Boss Battles (Ranked 458)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

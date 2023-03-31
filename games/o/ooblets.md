@@ -1,7 +1,7 @@
 # Ooblets
 Rating: 4.87 (Ranked 24)  
 Number of Ratings: 1,446  (23.09.2022)  
-Popularity (Based on Awards): 991 (Ranked 131)  
+Popularity (Based on Awards): 991 Character Customization (Ranked 131)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

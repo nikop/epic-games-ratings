@@ -1,6 +1,6 @@
 # Predecessor
 Rating: 4.44 (Ranked 606)  
-Popularity (Based on Awards): 43 (Ranked 395)  
+Popularity (Based on Awards): 43 Diverse Characters (Ranked 395)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

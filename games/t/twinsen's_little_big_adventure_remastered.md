@@ -1,6 +1,6 @@
 # Twinsen's Little Big Adventure Remastered
 Rating: - (Ranked -)  
-Popularity (Based on Awards): - (Ranked -)  
+Popularity (Based on Awards): -  (Ranked -)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

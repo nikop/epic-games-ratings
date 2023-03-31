@@ -1,7 +1,7 @@
 # Fortnite
 Rating: 4.30 (Ranked 737)  
 Number of Ratings: 2,283,925  (23.09.2022)  
-Popularity (Based on Awards): 1,179,756 (Ranked 1)  
+Popularity (Based on Awards): 1,179,756 Competitive Players (Ranked 1)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
@@ -10,7 +10,7 @@ Popularity (Based on Awards): 1,179,756 (Ranked 1)
 | This game is Extremely Fun | 1,124,119 |
 | This game has Diverse Characters | 1,101,658 |
 | This game has Amazing Storytelling | 1,058,661 |
-| This game has Amazing Characters | 1,043,103 |
+| This game has Amazing Characters | 1,045,145 |
 | This game is Highly Recommended | 1,033,660 |
 | This game has a Competitive Community | 876,295 |
 ## Ratings History
@@ -80,3 +80,4 @@ Popularity (Based on Awards): 1,179,756 (Ranked 1)
 | 2022-09-21 | 4.30 | 2,263,995 | - |
 | 2022-09-22 | 4.30 | 2,276,162 | - |
 | 2022-09-23 | 4.30 | 2,283,925 | - |
+| 2023-03-31 | 4.30 | - | 1,179,756 |

@@ -1,6 +1,6 @@
 # 3 out of 10, EP 5: The Rig Is Up!
 Rating: - (Ranked -)  
-Popularity (Based on Awards): 0 (Ranked -)  
+Popularity (Based on Awards): 0  (Ranked -)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

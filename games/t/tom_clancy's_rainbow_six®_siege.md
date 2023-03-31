@@ -1,7 +1,7 @@
 # Tom Clancy's Rainbow Six® Siege
 Rating: 4.57 (Ranked 419)  
 Number of Ratings: 8,669  (23.09.2022)  
-Popularity (Based on Awards): 1,677 (Ranked 108)  
+Popularity (Based on Awards): 1,677 Diverse Characters (Ranked 108)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

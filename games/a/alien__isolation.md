@@ -1,7 +1,7 @@
 # Alien: Isolation 
 Rating: 4.61 (Ranked 349)  
 Number of Ratings: 5,222  (23.09.2022)  
-Popularity (Based on Awards): 126 (Ranked 287)  
+Popularity (Based on Awards): 126 Highly Recommended (Ranked 287)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

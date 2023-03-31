@@ -1,7 +1,7 @@
 # Warframe
 Rating: 4.61 (Ranked 349)  
 Number of Ratings: 12,660  (23.09.2022)  
-Popularity (Based on Awards): 13,837 (Ranked 21)  
+Popularity (Based on Awards): 13,837 Great Boss Battles (Ranked 21)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

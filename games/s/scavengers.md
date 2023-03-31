@@ -1,7 +1,7 @@
 # Scavengers
 Rating: 4.18 (Ranked 809)  
 Number of Ratings: 403  (23.09.2022)  
-Popularity (Based on Awards): 96 (Ranked 316)  
+Popularity (Based on Awards): 96 Highly Recommended (Ranked 316)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

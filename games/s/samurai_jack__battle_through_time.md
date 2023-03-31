@@ -1,6 +1,6 @@
 # Samurai Jack: Battle Through Time
 Rating: - (Ranked -)  
-Popularity (Based on Awards): 0 (Ranked -)  
+Popularity (Based on Awards): 0  (Ranked -)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

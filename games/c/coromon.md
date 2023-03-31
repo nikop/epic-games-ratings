@@ -1,7 +1,7 @@
 # Coromon
 Rating: 4.65 (Ranked 290)  
 Number of Ratings: 84  (23.09.2022)  
-Popularity (Based on Awards): 40 (Ranked 401)  
+Popularity (Based on Awards): 40 Character Customization (Ranked 401)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

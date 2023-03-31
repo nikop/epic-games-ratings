@@ -1,6 +1,6 @@
 # First Class Trouble
 Rating: 4.52 (Ranked 495)  
-Popularity (Based on Awards): 67 (Ranked 355)  
+Popularity (Based on Awards): 67 Great for Quick Sessions (Ranked 355)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

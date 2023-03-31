@@ -1,7 +1,7 @@
 # Might and Magic: Heroes VII - Ultimate Edition
 Rating: 4.48 (Ranked 552)  
 Number of Ratings: 96  (23.09.2022)  
-Popularity (Based on Awards): 24 (Ranked 456)  
+Popularity (Based on Awards): 24 Quickly Understood Controls (Ranked 456)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

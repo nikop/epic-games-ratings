@@ -1,7 +1,7 @@
 # MechWarrior 5: Mercenaries Standard Edition
 Rating: 4.61 (Ranked 349)  
 Number of Ratings: 4,280  (23.09.2022)  
-Popularity (Based on Awards): 1,043 (Ranked 126)  
+Popularity (Based on Awards): 1,043 Great for Beginners (Ranked 126)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

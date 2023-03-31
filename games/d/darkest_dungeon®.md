@@ -1,7 +1,7 @@
 # Darkest Dungeon®
 Rating: 4.75 (Ranked 127)  
 Number of Ratings: 5,428  (23.09.2022)  
-Popularity (Based on Awards): 3,127 (Ranked 83)  
+Popularity (Based on Awards): 3,127 Character Customization (Ranked 83)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,6 +1,6 @@
 # RAILGRADE
 Rating: 4.54 (Ranked 468)  
-Popularity (Based on Awards): 86 (Ranked 330)  
+Popularity (Based on Awards): 86 Highly Recommended (Ranked 330)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

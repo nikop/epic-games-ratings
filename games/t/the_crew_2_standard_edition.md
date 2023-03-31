@@ -1,7 +1,7 @@
 # The Crew 2 Standard Edition
 Rating: 4.66 (Ranked 272)  
 Number of Ratings: 2,083  (23.09.2022)  
-Popularity (Based on Awards): 377 (Ranked 197)  
+Popularity (Based on Awards): 377 Great for Beginners (Ranked 197)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

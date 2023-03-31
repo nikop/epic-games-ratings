@@ -1,7 +1,7 @@
 # Old World
 Rating: 4.64 (Ranked 306)  
 Number of Ratings: 1,307  (23.09.2022)  
-Popularity (Based on Awards): 212 (Ranked 245)  
+Popularity (Based on Awards): 212 Relaxing (Ranked 245)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

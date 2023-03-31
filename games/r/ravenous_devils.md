@@ -1,7 +1,7 @@
 # Ravenous Devils
 Rating: 4.50 (Ranked 524)  
 Number of Ratings: 47  (23.09.2022)  
-Popularity (Based on Awards): 0 (Ranked 478)  
+Popularity (Based on Awards): 0  (Ranked 478)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

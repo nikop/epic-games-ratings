@@ -1,7 +1,7 @@
 # FTL: Faster Than Light
 Rating: 4.80 (Ranked 80)  
 Number of Ratings: 1,209  (23.09.2022)  
-Popularity (Based on Awards): 157 (Ranked 275)  
+Popularity (Based on Awards): 157 Extremely Fun (Ranked 275)  
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
