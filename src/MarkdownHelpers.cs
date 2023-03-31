@@ -129,7 +129,7 @@ namespace EpicRatingsUpdater
 
             sb.AppendLine($"# {item.Name}");
 
-            sb.AppendLine($"Rating: {FormatRating(item.Rating)} (Ranked ${FormatRanking(item.Ranking_Rating)})  ");
+            sb.AppendLine($"Rating: {FormatRating(item.Rating)} (Ranked {FormatRanking(item.Ranking_Rating)})  ");
 
             if (item.NumberOfRatings != null)
             {
@@ -137,7 +137,7 @@ namespace EpicRatingsUpdater
 
             }
 
-            sb.AppendLine($"Popularity (Based on Awards): {FormatVotes(item.NumberOfAwardsMax)} (Ranked ${FormatRanking(item.Ranking_Popularity)})  ");
+            sb.AppendLine($"Popularity (Based on Awards): {FormatVotes(item.NumberOfAwardsMax)} (Ranked {FormatRanking(item.Ranking_Popularity)})  ");
 
             sb.AppendLine("## Awards");
 
