@@ -1,5 +1,5 @@
 # Hogwarts Legacy
-Rating: 4.78 (Ranked 100)  
+Rating: 4.78 (Ranked 99)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 16,246  (Ranked 18)  
 Sum: 28,348 (Ranked 35)  

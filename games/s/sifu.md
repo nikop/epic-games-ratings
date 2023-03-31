@@ -1,5 +1,5 @@
 # Sifu
-Rating: 4.81 (Ranked 68)  
+Rating: 4.81 (Ranked 67)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 5,764  (Ranked 52)  

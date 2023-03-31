@@ -1,5 +1,5 @@
 # Citizen Sleeper
-Rating: 4.81 (Ranked 68)  
+Rating: 4.81 (Ranked 67)  
 Number of Ratings: 34  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 478)  

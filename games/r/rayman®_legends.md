@@ -1,5 +1,5 @@
 # RAYMAN® LEGENDS
-Rating: 4.80 (Ranked 80)  
+Rating: 4.80 (Ranked 79)  
 Number of Ratings: 351  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 182  (Ranked 259)  

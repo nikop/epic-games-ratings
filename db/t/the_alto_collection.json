@@ -4,13 +4,13 @@
   "Rating": 4.7,
   "Ranking_Rating": 194,
   "Ranking_Popularity": 395,
-  "Ranking_PopularitySum": 305,
+  "Ranking_PopularitySum": 304,
   "NumberOfRatings": 332,
-  "NumberOfAwards": 337,
+  "NumberOfAwards": 338,
   "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
-  "LastChanged": "2022-12-08T15:58:28.9324168+00:00",
+  "LastChanged": "2023-03-31T13:09:59.4890902+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:20.90716+00:00",
@@ -507,6 +507,12 @@
     {
       "Time": "2022-12-08T15:58:28.9324171+00:00",
       "Rating": 4.7
+    },
+    {
+      "Time": "2023-03-31T13:09:59.4890903+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 338,
+      "NumberOfAwardsMax": 43
     }
   ],
   "Tags": [
@@ -550,7 +556,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game has Diverse Characters",
