@@ -1,7 +1,10 @@
 # Total War: WARHAMMER III
 Rating: 4.68 (Ranked 235)  
 Number of Ratings: 882  (23.09.2022)  
-Popularity (Based on Awards): 1,328 Great Boss Battles (Ranked 115)  
+## Popularity (Based on Awards)
+Max (Great Boss Battles): 1,328  (Ranked 115)  
+Sum: 4,798 (Ranked 121)  
+Diff (max vs sum): -6
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

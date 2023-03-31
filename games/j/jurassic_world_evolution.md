@@ -1,7 +1,10 @@
 # Jurassic World Evolution
 Rating: 4.62 (Ranked 333)  
 Number of Ratings: 9,223  (23.09.2022)  
-Popularity (Based on Awards): 522 Extremely Fun (Ranked 176)  
+## Popularity (Based on Awards)
+Max (Extremely Fun): 522  (Ranked 176)  
+Sum: 4,725 (Ranked 122)  
+Diff (max vs sum): 54
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

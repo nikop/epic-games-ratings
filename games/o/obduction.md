@@ -1,7 +1,10 @@
 # Obduction
 Rating: 4.10 (Ranked 839)  
 Number of Ratings: 231  (23.09.2022)  
-Popularity (Based on Awards): 52 Challenging Puzzles (Ranked 375)  
+## Popularity (Based on Awards)
+Max (Challenging Puzzles): 52  (Ranked 375)  
+Sum: 52 (Ranked 421)  
+Diff (max vs sum): -46
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

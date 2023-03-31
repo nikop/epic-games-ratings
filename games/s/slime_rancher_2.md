@@ -1,7 +1,10 @@
 # Slime Rancher 2
 Rating: 4.80 (Ranked 80)  
 Number of Ratings: 36  (23.09.2022)  
-Popularity (Based on Awards): 97 Amazing Storytelling (Ranked 313)  
+## Popularity (Based on Awards)
+Max (Amazing Storytelling): 97  (Ranked 313)  
+Sum: 796 (Ranked 241)  
+Diff (max vs sum): 72
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

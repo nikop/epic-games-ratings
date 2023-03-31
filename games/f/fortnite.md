@@ -1,7 +1,10 @@
 # Fortnite
-Rating: 4.30 (Ranked 737)  
+Rating: 4.30 (Ranked 738)  
 Number of Ratings: 2,283,925  (23.09.2022)  
-Popularity (Based on Awards): 1,179,756 Competitive Players (Ranked 1)  
+## Popularity (Based on Awards)
+Max (Competitive Players): 1,179,756  (Ranked 1)  
+Sum: 8,553,807 (Ranked 1)  
+Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

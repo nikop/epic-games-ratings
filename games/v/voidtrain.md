@@ -1,7 +1,10 @@
 # Voidtrain
 Rating: 4.50 (Ranked 524)  
 Number of Ratings: 1,305  (23.09.2022)  
-Popularity (Based on Awards): 27 Great for Beginners (Ranked 444)  
+## Popularity (Based on Awards)
+Max (Great for Beginners): 27  (Ranked 444)  
+Sum: 98 (Ranked 390)  
+Diff (max vs sum): 54
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

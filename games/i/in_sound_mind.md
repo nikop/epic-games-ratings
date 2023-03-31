@@ -1,7 +1,10 @@
 # In Sound Mind
 Rating: 4.60 (Ranked 374)  
 Number of Ratings: 1,937  (23.09.2022)  
-Popularity (Based on Awards): 62 Extremely Fun (Ranked 363)  
+## Popularity (Based on Awards)
+Max (Extremely Fun): 62  (Ranked 363)  
+Sum: 336 (Ranked 306)  
+Diff (max vs sum): 57
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

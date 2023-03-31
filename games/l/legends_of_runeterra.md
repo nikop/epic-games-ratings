@@ -1,7 +1,10 @@
 # Legends of Runeterra
 Rating: 4.65 (Ranked 290)  
 Number of Ratings: 431  (23.09.2022)  
-Popularity (Based on Awards): 145 Great for Quick Sessions (Ranked 280)  
+## Popularity (Based on Awards)
+Max (Great for Quick Sessions): 145  (Ranked 280)  
+Sum: 1,238 (Ranked 215)  
+Diff (max vs sum): 65
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

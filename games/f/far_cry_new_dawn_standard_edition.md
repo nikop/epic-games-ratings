@@ -1,7 +1,10 @@
 # Far Cry New Dawn Standard Edition
 Rating: 4.41 (Ranked 641)  
 Number of Ratings: 338  (23.09.2022)  
-Popularity (Based on Awards): 169 Great Boss Battles (Ranked 265)  
+## Popularity (Based on Awards)
+Max (Great Boss Battles): 169  (Ranked 265)  
+Sum: 169 (Ranked 356)  
+Diff (max vs sum): -91
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

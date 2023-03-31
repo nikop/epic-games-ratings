@@ -1,7 +1,10 @@
 # Supraland
 Rating: 4.61 (Ranked 349)  
 Number of Ratings: 25,175  (23.09.2022)  
-Popularity (Based on Awards): 7,591 Challenging Puzzles (Ranked 37)  
+## Popularity (Based on Awards)
+Max (Challenging Puzzles): 7,591  (Ranked 37)  
+Sum: 9,855 (Ranked 77)  
+Diff (max vs sum): -40
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

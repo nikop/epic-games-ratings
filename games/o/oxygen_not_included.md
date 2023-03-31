@@ -1,7 +1,10 @@
 # Oxygen Not Included
 Rating: 4.84 (Ranked 47)  
 Number of Ratings: 897  (23.09.2022)  
-Popularity (Based on Awards): 244 Extremely Fun (Ranked 233)  
+## Popularity (Based on Awards)
+Max (Extremely Fun): 244  (Ranked 233)  
+Sum: 2,112 (Ranked 175)  
+Diff (max vs sum): 58
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

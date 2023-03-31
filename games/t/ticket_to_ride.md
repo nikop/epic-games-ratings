@@ -1,7 +1,10 @@
 # Ticket to Ride
 Rating: 4.61 (Ranked 349)  
 Number of Ratings: 167  (23.09.2022)  
-Popularity (Based on Awards): 60 Great for Quick Sessions (Ranked 367)  
+## Popularity (Based on Awards)
+Max (Great for Quick Sessions): 60  (Ranked 367)  
+Sum: 320 (Ranked 310)  
+Diff (max vs sum): 57
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,7 +1,10 @@
 # Zombie Army 4: Dead War
 Rating: 4.69 (Ranked 215)  
 Number of Ratings: 743  (23.09.2022)  
-Popularity (Based on Awards): 750 Great Boss Battles (Ranked 147)  
+## Popularity (Based on Awards)
+Max (Great Boss Battles): 750  (Ranked 147)  
+Sum: 2,306 (Ranked 164)  
+Diff (max vs sum): -17
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

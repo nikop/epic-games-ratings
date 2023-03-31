@@ -1,7 +1,10 @@
 # World of Warships
 Rating: 4.46 (Ranked 578)  
 Number of Ratings: 4,733  (23.09.2022)  
-Popularity (Based on Awards): 960 Quickly Understood Controls (Ranked 135)  
+## Popularity (Based on Awards)
+Max (Quickly Understood Controls): 960  (Ranked 135)  
+Sum: 8,516 (Ranked 83)  
+Diff (max vs sum): 52
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

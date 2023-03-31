@@ -1,7 +1,10 @@
 # Path of Exile
 Rating: 4.61 (Ranked 349)  
 Number of Ratings: 3,102  (23.09.2022)  
-Popularity (Based on Awards): 2,370 Character Customization (Ranked 89)  
+## Popularity (Based on Awards)
+Max (Character Customization): 2,370  (Ranked 89)  
+Sum: 8,371 (Ranked 85)  
+Diff (max vs sum): 4
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

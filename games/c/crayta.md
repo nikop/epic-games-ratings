@@ -1,7 +1,10 @@
 # Crayta
 Rating: 4.19 (Ranked 802)  
 Number of Ratings: 94  (23.09.2022)  
-Popularity (Based on Awards): 50 Diverse Characters (Ranked 376)  
+## Popularity (Based on Awards)
+Max (Diverse Characters): 50  (Ranked 376)  
+Sum: 370 (Ranked 298)  
+Diff (max vs sum): 78
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

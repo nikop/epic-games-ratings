@@ -1,7 +1,10 @@
 # Automachef
-Rating: 4.34 (Ranked 708)  
+Rating: 4.34 (Ranked 709)  
 Number of Ratings: 543  (23.09.2022)  
-Popularity (Based on Awards): 27 Extremely Fun (Ranked 444)  
+## Popularity (Based on Awards)
+Max (Extremely Fun): 27  (Ranked 444)  
+Sum: 70 (Ranked 406)  
+Diff (max vs sum): 38
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

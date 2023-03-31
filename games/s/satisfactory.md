@@ -1,7 +1,10 @@
 # Satisfactory
 Rating: 4.88 (Ranked 19)  
 Number of Ratings: 29,401  (23.09.2022)  
-Popularity (Based on Awards): 8,823 Great for Beginners (Ranked 33)  
+## Popularity (Based on Awards)
+Max (Great for Beginners): 8,823  (Ranked 33)  
+Sum: 76,752 (Ranked 17)  
+Diff (max vs sum): 16
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

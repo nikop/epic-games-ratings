@@ -1,7 +1,10 @@
 # Killing Floor 2
 Rating: 4.41 (Ranked 641)  
 Number of Ratings: 18,418  (23.09.2022)  
-Popularity (Based on Awards): 11,699 Great Boss Battles (Ranked 27)  
+## Popularity (Based on Awards)
+Max (Great Boss Battles): 11,699  (Ranked 27)  
+Sum: 25,121 (Ranked 43)  
+Diff (max vs sum): -16
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

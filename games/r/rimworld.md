@@ -1,7 +1,10 @@
 # RimWorld
 Rating: 4.89 (Ranked 13)  
 Number of Ratings: 870  (23.09.2022)  
-Popularity (Based on Awards): 391 Diverse Characters (Ranked 192)  
+## Popularity (Based on Awards)
+Max (Diverse Characters): 391  (Ranked 192)  
+Sum: 3,563 (Ranked 136)  
+Diff (max vs sum): 56
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

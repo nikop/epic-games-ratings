@@ -1,7 +1,10 @@
 # House Party
-Rating: 4.32 (Ranked 725)  
+Rating: 4.32 (Ranked 726)  
 Number of Ratings: 177  (23.09.2022)  
-Popularity (Based on Awards): 0  (Ranked 478)  
+## Popularity (Based on Awards)
+Max (): 0  (Ranked 478)  
+Sum: 0 (Ranked 478)  
+Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

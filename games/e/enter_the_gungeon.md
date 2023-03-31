@@ -1,7 +1,10 @@
 # Enter the Gungeon
 Rating: 4.85 (Ranked 38)  
 Number of Ratings: 8,617  (23.09.2022)  
-Popularity (Based on Awards): 7,423 Great Boss Battles (Ranked 38)  
+## Popularity (Based on Awards)
+Max (Great Boss Battles): 7,423  (Ranked 38)  
+Sum: 13,164 (Ranked 63)  
+Diff (max vs sum): -25
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

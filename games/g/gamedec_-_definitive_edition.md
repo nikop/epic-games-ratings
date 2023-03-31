@@ -1,7 +1,10 @@
 # Gamedec - Definitive Edition
-Rating: 4.32 (Ranked 725)  
+Rating: 4.32 (Ranked 726)  
 Number of Ratings: 33  (23.09.2022)  
-Popularity (Based on Awards): 65 Character Customization (Ranked 360)  
+## Popularity (Based on Awards)
+Max (Character Customization): 65  (Ranked 360)  
+Sum: 65 (Ranked 413)  
+Diff (max vs sum): -53
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

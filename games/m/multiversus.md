@@ -1,7 +1,10 @@
 # MultiVersus
 Rating: 4.56 (Ranked 436)  
 Number of Ratings: 55,748  (23.09.2022)  
-Popularity (Based on Awards): 4,724 Great for Beginners (Ranked 62)  
+## Popularity (Based on Awards)
+Max (Great for Beginners): 4,724  (Ranked 62)  
+Sum: 45,567 (Ranked 24)  
+Diff (max vs sum): 38
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

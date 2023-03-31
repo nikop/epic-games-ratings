@@ -1,7 +1,10 @@
 # DOOM 64
 Rating: 4.66 (Ranked 272)  
 Number of Ratings: 5,134  (23.09.2022)  
-Popularity (Based on Awards): 1,282 Great Boss Battles (Ranked 117)  
+## Popularity (Based on Awards)
+Max (Great Boss Battles): 1,282  (Ranked 117)  
+Sum: 1,636 (Ranked 200)  
+Diff (max vs sum): -83
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

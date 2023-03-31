@@ -1,7 +1,10 @@
 # Realm Royale Reforged
-Rating: 4.29 (Ranked 745)  
+Rating: 4.29 (Ranked 746)  
 Number of Ratings: 841  (23.09.2022)  
-Popularity (Based on Awards): 122 Relaxing (Ranked 291)  
+## Popularity (Based on Awards)
+Max (Relaxing): 122  (Ranked 291)  
+Sum: 1,200 (Ranked 216)  
+Diff (max vs sum): 75
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

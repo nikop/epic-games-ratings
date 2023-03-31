@@ -1,7 +1,10 @@
 # Dark Deity
 Rating: 4.16 (Ranked 816)  
 Number of Ratings: 24  (23.09.2022)  
-Popularity (Based on Awards): 604 Character Customization (Ranked 161)  
+## Popularity (Based on Awards)
+Max (Character Customization): 604  (Ranked 161)  
+Sum: 848 (Ranked 235)  
+Diff (max vs sum): -74
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

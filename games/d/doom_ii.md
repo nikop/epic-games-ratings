@@ -1,7 +1,10 @@
 # DOOM II
 Rating: 4.73 (Ranked 155)  
 Number of Ratings: 48  (23.09.2022)  
-Popularity (Based on Awards): 25 Great Boss Battles (Ranked 454)  
+## Popularity (Based on Awards)
+Max (Great Boss Battles): 25  (Ranked 454)  
+Sum: 25 (Ranked 456)  
+Diff (max vs sum): -2
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,7 +1,10 @@
 # Might & Magic Heroes 3
 Rating: 4.81 (Ranked 68)  
 Number of Ratings: 165  (23.09.2022)  
-Popularity (Based on Awards): 107 Character Customization (Ranked 306)  
+## Popularity (Based on Awards)
+Max (Character Customization): 107  (Ranked 306)  
+Sum: 236 (Ranked 335)  
+Diff (max vs sum): -29
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

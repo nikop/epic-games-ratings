@@ -1,7 +1,10 @@
 # Into the Breach
 Rating: 4.84 (Ranked 47)  
 Number of Ratings: 4,082  (23.09.2022)  
-Popularity (Based on Awards): 401 Extremely Fun (Ranked 190)  
+## Popularity (Based on Awards)
+Max (Extremely Fun): 401  (Ranked 190)  
+Sum: 3,825 (Ranked 132)  
+Diff (max vs sum): 58
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

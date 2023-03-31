@@ -1,7 +1,10 @@
 # Black Book
 Rating: 4.87 (Ranked 24)  
 Number of Ratings: 96  (23.09.2022)  
-Popularity (Based on Awards): 21 Character Customization (Ranked 468)  
+## Popularity (Based on Awards)
+Max (Character Customization): 21  (Ranked 468)  
+Sum: 21 (Ranked 468)  
+Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

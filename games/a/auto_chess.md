@@ -1,7 +1,10 @@
 # Auto Chess
 Rating: 4.52 (Ranked 495)  
 Number of Ratings: 2,249  (23.09.2022)  
-Popularity (Based on Awards): 718 Competitive Players (Ranked 151)  
+## Popularity (Based on Awards)
+Max (Competitive Players): 718  (Ranked 151)  
+Sum: 5,641 (Ranked 113)  
+Diff (max vs sum): 38
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

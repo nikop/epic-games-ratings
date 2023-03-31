@@ -1,7 +1,10 @@
 # Sid Meier’s Civilization® VI
 Rating: 4.73 (Ranked 155)  
 Number of Ratings: 57,866  (23.09.2022)  
-Popularity (Based on Awards): 28,284 Diverse Characters (Ranked 13)  
+## Popularity (Based on Awards)
+Max (Diverse Characters): 28,284  (Ranked 13)  
+Sum: 235,506 (Ranked 10)  
+Diff (max vs sum): 3
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

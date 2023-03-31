@@ -1,7 +1,10 @@
 # Among Us
 Rating: 4.58 (Ranked 400)  
 Number of Ratings: 26,171  (23.09.2022)  
-Popularity (Based on Awards): 2,316 Great for Beginners (Ranked 90)  
+## Popularity (Based on Awards)
+Max (Great for Beginners): 2,316  (Ranked 90)  
+Sum: 21,385 (Ranked 49)  
+Diff (max vs sum): 41
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

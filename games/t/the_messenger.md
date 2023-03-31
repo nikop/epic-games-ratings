@@ -1,7 +1,10 @@
 # The Messenger
 Rating: 4.80 (Ranked 80)  
 Number of Ratings: 561  (23.09.2022)  
-Popularity (Based on Awards): 310 Great Boss Battles (Ranked 212)  
+## Popularity (Based on Awards)
+Max (Great Boss Battles): 310  (Ranked 212)  
+Sum: 332 (Ranked 307)  
+Diff (max vs sum): -95
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

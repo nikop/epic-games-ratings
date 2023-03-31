@@ -1,7 +1,10 @@
 # SMITE
 Rating: 4.45 (Ranked 592)  
 Number of Ratings: 6,749  (23.09.2022)  
-Popularity (Based on Awards): 3,550 Diverse Characters (Ranked 77)  
+## Popularity (Based on Awards)
+Max (Diverse Characters): 3,550  (Ranked 77)  
+Sum: 22,272 (Ranked 48)  
+Diff (max vs sum): 29
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

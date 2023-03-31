@@ -1,7 +1,10 @@
 # theHunter: Call of the Wild™
 Rating: 4.59 (Ranked 388)  
 Number of Ratings: 14,635  (23.09.2022)  
-Popularity (Based on Awards): 3,062 Great for Beginners (Ranked 84)  
+## Popularity (Based on Awards)
+Max (Great for Beginners): 3,062  (Ranked 84)  
+Sum: 22,574 (Ranked 47)  
+Diff (max vs sum): 37
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

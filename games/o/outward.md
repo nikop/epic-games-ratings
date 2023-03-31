@@ -1,7 +1,10 @@
 # Outward
 Rating: 4.55 (Ranked 456)  
 Number of Ratings: 266  (23.09.2022)  
-Popularity (Based on Awards): 31 Highly Recommended (Ranked 429)  
+## Popularity (Based on Awards)
+Max (Highly Recommended): 31  (Ranked 429)  
+Sum: 237 (Ranked 334)  
+Diff (max vs sum): 95
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

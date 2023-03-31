@@ -1,7 +1,10 @@
 # Tony Hawk's™ Pro Skater™ 1 + 2
 Rating: 4.83 (Ranked 55)  
 Number of Ratings: 1,298  (23.09.2022)  
-Popularity (Based on Awards): 80 Great for Quick Sessions (Ranked 337)  
+## Popularity (Based on Awards)
+Max (Great for Quick Sessions): 80  (Ranked 337)  
+Sum: 628 (Ranked 267)  
+Diff (max vs sum): 70
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

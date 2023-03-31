@@ -1,7 +1,10 @@
 # NEO: The World Ends with You
 Rating: 4.86 (Ranked 32)  
 Number of Ratings: 214  (23.09.2022)  
-Popularity (Based on Awards): 94 Character Customization (Ranked 320)  
+## Popularity (Based on Awards)
+Max (Character Customization): 94  (Ranked 320)  
+Sum: 158 (Ranked 363)  
+Diff (max vs sum): -43
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

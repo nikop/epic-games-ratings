@@ -1,7 +1,10 @@
 # Wildermyth
 Rating: 4.77 (Ranked 106)  
 Number of Ratings: 45  (23.09.2022)  
-Popularity (Based on Awards): 27 Character Customization (Ranked 444)  
+## Popularity (Based on Awards)
+Max (Character Customization): 27  (Ranked 444)  
+Sum: 27 (Ranked 450)  
+Diff (max vs sum): -6
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

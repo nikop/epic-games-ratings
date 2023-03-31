@@ -1,7 +1,10 @@
 # Prey
 Rating: 4.62 (Ranked 333)  
 Number of Ratings: 13,217  (23.09.2022)  
-Popularity (Based on Awards): 5,474 Great Boss Battles (Ranked 56)  
+## Popularity (Based on Awards)
+Max (Great Boss Battles): 5,474  (Ranked 56)  
+Sum: 7,405 (Ranked 92)  
+Diff (max vs sum): -36
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

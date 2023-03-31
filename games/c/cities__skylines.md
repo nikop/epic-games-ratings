@@ -1,7 +1,10 @@
 # Cities: Skylines
 Rating: 4.65 (Ranked 290)  
 Number of Ratings: 25,248  (23.09.2022)  
-Popularity (Based on Awards): 4,167 Great for Beginners (Ranked 67)  
+## Popularity (Based on Awards)
+Max (Great for Beginners): 4,167  (Ranked 67)  
+Sum: 31,958 (Ranked 31)  
+Diff (max vs sum): 36
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

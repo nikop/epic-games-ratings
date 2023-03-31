@@ -1,7 +1,10 @@
 # Europa Universalis IV
 Rating: 4.68 (Ranked 235)  
 Number of Ratings: 8,414  (23.09.2022)  
-Popularity (Based on Awards): 4,913 Educational (Ranked 59)  
+## Popularity (Based on Awards)
+Max (Educational): 4,913  (Ranked 59)  
+Sum: 40,800 (Ranked 25)  
+Diff (max vs sum): 34
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

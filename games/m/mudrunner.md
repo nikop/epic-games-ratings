@@ -1,7 +1,10 @@
 # MudRunner
 Rating: 4.62 (Ranked 333)  
 Number of Ratings: 3,155  (23.09.2022)  
-Popularity (Based on Awards): 226 Quickly Understood Controls (Ranked 239)  
+## Popularity (Based on Awards)
+Max (Quickly Understood Controls): 226  (Ranked 239)  
+Sum: 1,803 (Ranked 192)  
+Diff (max vs sum): 47
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

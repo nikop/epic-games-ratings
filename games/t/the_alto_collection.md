@@ -1,7 +1,10 @@
 # The Alto Collection
 Rating: 4.70 (Ranked 194)  
 Number of Ratings: 332  (23.09.2022)  
-Popularity (Based on Awards): 43 Great for Quick Sessions (Ranked 395)  
+## Popularity (Based on Awards)
+Max (Great for Quick Sessions): 43  (Ranked 395)  
+Sum: 337 (Ranked 305)  
+Diff (max vs sum): 90
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

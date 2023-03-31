@@ -1,7 +1,10 @@
 # Steep Standard Edition
 Rating: 4.68 (Ranked 235)  
 Number of Ratings: 414  (23.09.2022)  
-Popularity (Based on Awards): 0  (Ranked 478)  
+## Popularity (Based on Awards)
+Max (): 0  (Ranked 478)  
+Sum: 0 (Ranked 478)  
+Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

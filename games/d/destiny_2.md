@@ -1,7 +1,10 @@
 # Destiny 2
 Rating: 4.50 (Ranked 524)  
 Number of Ratings: 32,207  (23.09.2022)  
-Popularity (Based on Awards): 32,213 Great Boss Battles (Ranked 12)  
+## Popularity (Based on Awards)
+Max (Great Boss Battles): 32,213  (Ranked 12)  
+Sum: 77,214 (Ranked 16)  
+Diff (max vs sum): -4
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

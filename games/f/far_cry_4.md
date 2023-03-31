@@ -1,7 +1,10 @@
 # FAR CRY 4
 Rating: 4.66 (Ranked 272)  
 Number of Ratings: 639  (23.09.2022)  
-Popularity (Based on Awards): 472 Great Boss Battles (Ranked 181)  
+## Popularity (Based on Awards)
+Max (Great Boss Battles): 472  (Ranked 181)  
+Sum: 695 (Ranked 255)  
+Diff (max vs sum): -74
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

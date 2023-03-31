@@ -3,13 +3,14 @@
   "Name": "The Walking Dead : The Definitive Series",
   "Rating": 4.86,
   "Ranking_Rating": 32,
-  "Ranking_Popularity": 185,
+  "Ranking_Popularity": 184,
+  "Ranking_PopularitySum": 269,
   "NumberOfRatings": 663,
-  "NumberOfAwards": 605,
-  "NumberOfAwardsMax": 444,
+  "NumberOfAwards": 606,
+  "NumberOfAwardsMax": 445,
   "MaxAwardTitle": "Impact the Story",
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2022-12-01T02:34:14.0968588+00:00",
+  "LastChanged": "2023-03-31T10:40:12.7046537+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:07.8066793+00:00",
@@ -634,6 +635,12 @@
     {
       "Time": "2022-12-01T02:34:14.0968589+00:00",
       "Rating": 4.86
+    },
+    {
+      "Time": "2023-03-31T10:40:12.7046539+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 606,
+      "NumberOfAwardsMax": 445
     }
   ],
   "Tags": [
@@ -641,7 +648,7 @@
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 444
+      "Count": 445
     },
     {
       "Text": "This game has Amazing Storytelling",

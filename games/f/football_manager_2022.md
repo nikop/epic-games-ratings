@@ -1,7 +1,10 @@
 # Football Manager 2022
 Rating: 4.80 (Ranked 80)  
 Number of Ratings: 19,160  (23.09.2022)  
-Popularity (Based on Awards): 6,199 Relaxing (Ranked 47)  
+## Popularity (Based on Awards)
+Max (Relaxing): 6,199  (Ranked 47)  
+Sum: 48,848 (Ranked 21)  
+Diff (max vs sum): 26
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

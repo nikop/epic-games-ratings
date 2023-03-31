@@ -44,7 +44,7 @@
 | 42 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 
 | 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,531 | 
 | 44 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,386 | 
-| 45 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,292 | 
+| 45 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,297 | 
 | 46 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 6,266 | 
 | 47 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,199 | 
 | 48 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 6,198 | 
@@ -184,7 +184,7 @@
 | 182 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 458 | 
 | 183 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 456 | 
 | 184 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 445 | 
-| 185 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 444 | 
+| 185 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 445 | 
 | 186 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 441 | 
 | 187 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 425 | 
 | 188 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 414 | 
@@ -206,7 +206,7 @@
 | 204 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 336 | 
 | 205 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 332 | 
 | 206 | [Inscryption](games/i/inscryption.md) | 4.86 | 327 | 
-| 207 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 319 | 
+| 207 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 324 | 
 | 208 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 319 | 
 | 209 | [Darkwood](games/d/darkwood.md) | 4.61 | 318 | 
 | 210 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 313 | 

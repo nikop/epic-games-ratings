@@ -1,7 +1,10 @@
 # Subnautica
 Rating: 4.84 (Ranked 47)  
 Number of Ratings: 7,928  (23.09.2022)  
-Popularity (Based on Awards): 636 Amazing Storytelling (Ranked 158)  
+## Popularity (Based on Awards)
+Max (Amazing Storytelling): 636  (Ranked 158)  
+Sum: 5,100 (Ranked 118)  
+Diff (max vs sum): 40
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

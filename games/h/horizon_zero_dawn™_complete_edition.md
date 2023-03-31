@@ -1,7 +1,10 @@
 # Horizon Zero Dawn™ Complete Edition
 Rating: 4.77 (Ranked 106)  
 Number of Ratings: 7,175  (23.09.2022)  
-Popularity (Based on Awards): 3,797 Character Customization (Ranked 74)  
+## Popularity (Based on Awards)
+Max (Character Customization): 3,797  (Ranked 74)  
+Sum: 8,004 (Ranked 87)  
+Diff (max vs sum): -13
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

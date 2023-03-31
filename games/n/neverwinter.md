@@ -1,7 +1,10 @@
 # Neverwinter
-Rating: 4.29 (Ranked 745)  
+Rating: 4.29 (Ranked 746)  
 Number of Ratings: 1,084  (23.09.2022)  
-Popularity (Based on Awards): 661 Character Customization (Ranked 155)  
+## Popularity (Based on Awards)
+Max (Character Customization): 661  (Ranked 155)  
+Sum: 1,996 (Ranked 182)  
+Diff (max vs sum): -27
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,7 +1,10 @@
 # Assassins Creed Odyssey Standard Edition
 Rating: 4.75 (Ranked 127)  
 Number of Ratings: 5,481  (23.09.2022)  
-Popularity (Based on Awards): 4,528 Character Customization (Ranked 63)  
+## Popularity (Based on Awards)
+Max (Character Customization): 4,528  (Ranked 63)  
+Sum: 10,951 (Ranked 75)  
+Diff (max vs sum): -12
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,6 +1,9 @@
 # Lost Eidolons
-Rating: 4.30 (Ranked 737)  
-Popularity (Based on Awards): 0  (Ranked 478)  
+Rating: 4.30 (Ranked 738)  
+## Popularity (Based on Awards)
+Max (): 0  (Ranked 478)  
+Sum: 0 (Ranked 478)  
+Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

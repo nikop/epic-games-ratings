@@ -1,7 +1,10 @@
 # A Game Of Thrones: The Board Game Digital Edition
 Rating: 4.20 (Ranked 792)  
 Number of Ratings: 2,500  (23.09.2022)  
-Popularity (Based on Awards): 121 Quickly Understood Controls (Ranked 292)  
+## Popularity (Based on Awards)
+Max (Quickly Understood Controls): 121  (Ranked 292)  
+Sum: 776 (Ranked 244)  
+Diff (max vs sum): 48
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

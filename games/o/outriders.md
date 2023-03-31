@@ -1,7 +1,10 @@
 # OUTRIDERS
 Rating: 4.42 (Ranked 630)  
 Number of Ratings: 1,201  (23.09.2022)  
-Popularity (Based on Awards): 1,063 Great Boss Battles (Ranked 124)  
+## Popularity (Based on Awards)
+Max (Great Boss Battles): 1,063  (Ranked 124)  
+Sum: 2,215 (Ranked 169)  
+Diff (max vs sum): -45
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,7 +1,10 @@
 # DEATH STRANDING DIRECTOR'S CUT
 Rating: 4.89 (Ranked 13)  
 Number of Ratings: 3,099  (23.09.2022)  
-Popularity (Based on Awards): 6,531 Great Boss Battles (Ranked 43)  
+## Popularity (Based on Awards)
+Max (Great Boss Battles): 6,531  (Ranked 43)  
+Sum: 11,132 (Ranked 73)  
+Diff (max vs sum): -30
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,7 +1,10 @@
 # Desperados III
 Rating: 4.84 (Ranked 47)  
 Number of Ratings: 351  (23.09.2022)  
-Popularity (Based on Awards): 44 Amazing Storytelling (Ranked 391)  
+## Popularity (Based on Awards)
+Max (Amazing Storytelling): 44  (Ranked 391)  
+Sum: 274 (Ranked 320)  
+Diff (max vs sum): 71
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

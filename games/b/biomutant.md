@@ -1,7 +1,10 @@
 # BIOMUTANT
-Rating: 4.33 (Ranked 718)  
+Rating: 4.33 (Ranked 719)  
 Number of Ratings: 198  (23.09.2022)  
-Popularity (Based on Awards): 113 Character Customization (Ranked 299)  
+## Popularity (Based on Awards)
+Max (Character Customization): 113  (Ranked 299)  
+Sum: 156 (Ranked 366)  
+Diff (max vs sum): -67
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

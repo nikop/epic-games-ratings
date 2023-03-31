@@ -1,7 +1,10 @@
 # Cyberpunk 2077
 Rating: 4.62 (Ranked 333)  
 Number of Ratings: 32,700  (23.09.2022)  
-Popularity (Based on Awards): 60,131 Character Customization (Ranked 9)  
+## Popularity (Based on Awards)
+Max (Character Customization): 60,131  (Ranked 9)  
+Sum: 156,312 (Ranked 13)  
+Diff (max vs sum): -4
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

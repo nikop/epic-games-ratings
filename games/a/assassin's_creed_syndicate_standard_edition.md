@@ -1,7 +1,10 @@
 # Assassin's Creed Syndicate Standard Edition
 Rating: 4.51 (Ranked 509)  
 Number of Ratings: 2,854  (23.09.2022)  
-Popularity (Based on Awards): 89 Great for Beginners (Ranked 327)  
+## Popularity (Based on Awards)
+Max (Great for Beginners): 89  (Ranked 327)  
+Sum: 652 (Ranked 261)  
+Diff (max vs sum): 66
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

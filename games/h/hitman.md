@@ -1,7 +1,10 @@
 # HITMAN
 Rating: 4.64 (Ranked 306)  
 Number of Ratings: 6,362  (23.09.2022)  
-Popularity (Based on Awards): 195 Great for Beginners (Ranked 255)  
+## Popularity (Based on Awards)
+Max (Great for Beginners): 195  (Ranked 255)  
+Sum: 1,494 (Ranked 206)  
+Diff (max vs sum): 49
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

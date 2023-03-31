@@ -1,7 +1,10 @@
 # while True: learn()
 Rating: 4.51 (Ranked 509)  
 Number of Ratings: 896  (23.09.2022)  
-Popularity (Based on Awards): 131 Challenging Puzzles (Ranked 286)  
+## Popularity (Based on Awards)
+Max (Challenging Puzzles): 131  (Ranked 286)  
+Sum: 131 (Ranked 377)  
+Diff (max vs sum): -91
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

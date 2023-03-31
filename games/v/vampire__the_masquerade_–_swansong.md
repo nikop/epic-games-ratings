@@ -1,7 +1,10 @@
 # Vampire: The Masquerade – Swansong
 Rating: 4.20 (Ranked 792)  
 Number of Ratings: 736  (23.09.2022)  
-Popularity (Based on Awards): 75 Impact the Story (Ranked 339)  
+## Popularity (Based on Awards)
+Max (Impact the Story): 75  (Ranked 339)  
+Sum: 75 (Ranked 399)  
+Diff (max vs sum): -60
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

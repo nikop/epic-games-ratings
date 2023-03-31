@@ -1,7 +1,10 @@
 # Hundred Days - Winemaking Simulator
-Rating: 4.35 (Ranked 700)  
+Rating: 4.35 (Ranked 701)  
 Number of Ratings: 7,669  (23.09.2022)  
-Popularity (Based on Awards): 200 Relaxing (Ranked 252)  
+## Popularity (Based on Awards)
+Max (Relaxing): 200  (Ranked 252)  
+Sum: 1,681 (Ranked 198)  
+Diff (max vs sum): 54
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,7 +1,10 @@
 # Faeria
 Rating: 4.45 (Ranked 592)  
 Number of Ratings: 194  (23.09.2022)  
-Popularity (Based on Awards): 102 Character Customization (Ranked 310)  
+## Popularity (Based on Awards)
+Max (Character Customization): 102  (Ranked 310)  
+Sum: 312 (Ranked 313)  
+Diff (max vs sum): -3
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

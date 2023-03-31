@@ -1,7 +1,10 @@
 # Genshin Impact
 Rating: 4.68 (Ranked 235)  
 Number of Ratings: 219,180  (23.09.2022)  
-Popularity (Based on Awards): 278,465 Character Customization (Ranked 3)  
+## Popularity (Based on Awards)
+Max (Character Customization): 278,465  (Ranked 3)  
+Sum: 1,224,305 (Ranked 4)  
+Diff (max vs sum): -1
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

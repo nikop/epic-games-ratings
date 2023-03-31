@@ -1,7 +1,10 @@
 # Centipede: Recharged
-Rating: 4.33 (Ranked 718)  
+Rating: 4.33 (Ranked 719)  
 Number of Ratings: 76  (23.09.2022)  
-Popularity (Based on Awards): 0  (Ranked 478)  
+## Popularity (Based on Awards)
+Max (): 0  (Ranked 478)  
+Sum: 0 (Ranked 478)  
+Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

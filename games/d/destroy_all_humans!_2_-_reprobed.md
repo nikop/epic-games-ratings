@@ -1,7 +1,10 @@
 # Destroy All Humans! 2 - Reprobed
 Rating: 4.61 (Ranked 349)  
 Number of Ratings: 90  (23.09.2022)  
-Popularity (Based on Awards): 34 Great Boss Battles (Ranked 418)  
+## Popularity (Based on Awards)
+Max (Great Boss Battles): 34  (Ranked 418)  
+Sum: 34 (Ranked 437)  
+Diff (max vs sum): -19
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

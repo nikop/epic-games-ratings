@@ -1,6 +1,9 @@
 # Dead Space
 Rating: 4.72 (Ranked 167)  
-Popularity (Based on Awards): 30 Great Boss Battles (Ranked 433)  
+## Popularity (Based on Awards)
+Max (Great Boss Battles): 30  (Ranked 433)  
+Sum: 30 (Ranked 444)  
+Diff (max vs sum): -11
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

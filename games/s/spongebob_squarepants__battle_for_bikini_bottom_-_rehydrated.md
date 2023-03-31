@@ -1,7 +1,10 @@
 # SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 Rating: 4.68 (Ranked 235)  
 Number of Ratings: 76  (23.09.2022)  
-Popularity (Based on Awards): 30 Great Boss Battles (Ranked 433)  
+## Popularity (Based on Awards)
+Max (Great Boss Battles): 30  (Ranked 433)  
+Sum: 30 (Ranked 444)  
+Diff (max vs sum): -11
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

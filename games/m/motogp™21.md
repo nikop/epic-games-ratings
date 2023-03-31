@@ -1,7 +1,10 @@
 # MotoGP™21
 Rating: 4.58 (Ranked 400)  
 Number of Ratings: 95  (23.09.2022)  
-Popularity (Based on Awards): 22 Amazing Characters (Ranked 461)  
+## Popularity (Based on Awards)
+Max (Amazing Characters): 22  (Ranked 461)  
+Sum: 22 (Ranked 462)  
+Diff (max vs sum): -1
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

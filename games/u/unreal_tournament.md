@@ -1,7 +1,10 @@
 # Unreal Tournament
 Rating: 4.66 (Ranked 272)  
 Number of Ratings: 1,070  (23.09.2022)  
-Popularity (Based on Awards): 456 Great for Quick Sessions (Ranked 183)  
+## Popularity (Based on Awards)
+Max (Great for Quick Sessions): 456  (Ranked 183)  
+Sum: 3,948 (Ranked 131)  
+Diff (max vs sum): 52
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

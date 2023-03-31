@@ -1,7 +1,10 @@
 # The Drone Racing League®
 Rating: 4.51 (Ranked 509)  
 Number of Ratings: 36  (23.09.2022)  
-Popularity (Based on Awards): 61 Extremely Fun (Ranked 365)  
+## Popularity (Based on Awards)
+Max (Extremely Fun): 61  (Ranked 365)  
+Sum: 405 (Ranked 291)  
+Diff (max vs sum): 74
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

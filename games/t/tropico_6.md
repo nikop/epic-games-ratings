@@ -1,7 +1,10 @@
 # Tropico 6
 Rating: 4.67 (Ranked 255)  
 Number of Ratings: 398  (23.09.2022)  
-Popularity (Based on Awards): 95 Great for Beginners (Ranked 319)  
+## Popularity (Based on Awards)
+Max (Great for Beginners): 95  (Ranked 319)  
+Sum: 723 (Ranked 251)  
+Diff (max vs sum): 68
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

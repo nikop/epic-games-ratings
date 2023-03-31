@@ -1,7 +1,10 @@
 # Total War: WARHAMMER II
 Rating: 4.70 (Ranked 194)  
 Number of Ratings: 1,169  (23.09.2022)  
-Popularity (Based on Awards): 4,119 Great Boss Battles (Ranked 68)  
+## Popularity (Based on Awards)
+Max (Great Boss Battles): 4,119  (Ranked 68)  
+Sum: 12,845 (Ranked 64)  
+Diff (max vs sum): 4
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,7 +1,10 @@
 # WRC 9 FIA World Rally Championship
 Rating: 4.53 (Ranked 481)  
 Number of Ratings: 233  (23.09.2022)  
-Popularity (Based on Awards): 28 Competitive Players (Ranked 441)  
+## Popularity (Based on Awards)
+Max (Competitive Players): 28  (Ranked 441)  
+Sum: 207 (Ranked 344)  
+Diff (max vs sum): 97
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

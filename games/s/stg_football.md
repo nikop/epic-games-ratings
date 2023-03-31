@@ -1,6 +1,9 @@
 # STG Football
 Rating: 4.43 (Ranked 622)  
-Popularity (Based on Awards): 33 Great for Beginners (Ranked 419)  
+## Popularity (Based on Awards)
+Max (Great for Beginners): 33  (Ranked 419)  
+Sum: 233 (Ranked 336)  
+Diff (max vs sum): 83
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

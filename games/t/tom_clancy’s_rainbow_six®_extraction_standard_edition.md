@@ -1,7 +1,10 @@
 # Tom Clancy’s Rainbow Six® Extraction Standard Edition
 Rating: 4.52 (Ranked 495)  
 Number of Ratings: 635  (23.09.2022)  
-Popularity (Based on Awards): 135 Diverse Characters (Ranked 284)  
+## Popularity (Based on Awards)
+Max (Diverse Characters): 135  (Ranked 284)  
+Sum: 956 (Ranked 226)  
+Diff (max vs sum): 58
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

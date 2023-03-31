@@ -1,7 +1,10 @@
 # Might & Magic: Chess Royale
 Rating: 4.50 (Ranked 524)  
 Number of Ratings: 238  (23.09.2022)  
-Popularity (Based on Awards): 93 Great for Beginners (Ranked 321)  
+## Popularity (Based on Awards)
+Max (Great for Beginners): 93  (Ranked 321)  
+Sum: 739 (Ranked 247)  
+Diff (max vs sum): 74
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

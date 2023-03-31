@@ -1,6 +1,9 @@
 # ZOMBI
-Rating: 4.36 (Ranked 690)  
-Popularity (Based on Awards): 0  (Ranked 478)  
+Rating: 4.36 (Ranked 691)  
+## Popularity (Based on Awards)
+Max (): 0  (Ranked 478)  
+Sum: 0 (Ranked 478)  
+Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

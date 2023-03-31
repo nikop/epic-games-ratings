@@ -119,7 +119,7 @@
 | 117 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | - | 
 | 118 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 58 | 
 | 119 | [Chernobylite](games/c/chernobylite.md) | 4.13 | - | 
-| 120 | [Chess Ultra](games/c/chess_ultra.md) | 4.28 | - | 
+| 120 | [Chess Ultra](games/c/chess_ultra.md) | 4.38 | - | 
 | 121 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.74 | - | 
 | 122 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | - | 
 | 123 | [Chimeraland](games/c/chimeraland.md) | 3.91 | - | 
@@ -274,7 +274,7 @@
 | 272 | [Flatout](games/f/flatout.md) | 4.19 | - | 
 | 273 | [Flatout 2](games/f/flatout_2.md) | 4.92 | - | 
 | 274 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,199 | 
-| 275 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 319 | 
+| 275 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 324 | 
 | 276 | [For The King](games/f/for_the_king.md) | 4.70 | 354 | 
 | 277 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | - | 
 | 278 | [Forspoken](games/f/forspoken.md) | 4.12 | - | 
@@ -459,7 +459,7 @@
 | 457 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | - | 
 | 458 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 158 | 
 | 459 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 22 | 
-| 460 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,292 | 
+| 460 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,297 | 
 | 461 | [Moving Out](games/m/moving_out.md) | 4.58 | - | 
 | 462 | [MudRunner](games/m/mudrunner.md) | 4.62 | 226 | 
 | 463 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,724 | 
@@ -769,7 +769,7 @@
 | 767 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.65 | - | 
 | 768 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | - | 
 | 769 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | - | 
-| 770 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 444 | 
+| 770 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 445 | 
 | 771 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | - | 
 | 772 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | - | 
 | 773 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 26 | 

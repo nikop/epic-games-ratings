@@ -1,7 +1,10 @@
 # Trackmania
 Rating: 4.67 (Ranked 255)  
 Number of Ratings: 6,825  (23.09.2022)  
-Popularity (Based on Awards): 2,245 Great for Beginners (Ranked 92)  
+## Popularity (Based on Awards)
+Max (Great for Beginners): 2,245  (Ranked 92)  
+Sum: 18,886 (Ranked 51)  
+Diff (max vs sum): 41
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

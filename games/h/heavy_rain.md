@@ -1,7 +1,10 @@
 # Heavy Rain
 Rating: 4.59 (Ranked 388)  
 Number of Ratings: 251  (23.09.2022)  
-Popularity (Based on Awards): 57 Impact the Story (Ranked 370)  
+## Popularity (Based on Awards)
+Max (Impact the Story): 57  (Ranked 370)  
+Sum: 57 (Ranked 417)  
+Diff (max vs sum): -47
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

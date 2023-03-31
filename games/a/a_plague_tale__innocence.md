@@ -1,7 +1,10 @@
 # A Plague Tale: Innocence
 Rating: 4.68 (Ranked 235)  
 Number of Ratings: 10,904  (23.09.2022)  
-Popularity (Based on Awards): 3,312 Great Boss Battles (Ranked 80)  
+## Popularity (Based on Awards)
+Max (Great Boss Battles): 3,312  (Ranked 80)  
+Sum: 3,759 (Ranked 133)  
+Diff (max vs sum): -53
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

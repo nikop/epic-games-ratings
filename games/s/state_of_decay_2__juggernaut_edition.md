@@ -1,7 +1,10 @@
 # State of Decay 2: Juggernaut Edition
 Rating: 4.73 (Ranked 155)  
 Number of Ratings: 1,354  (23.09.2022)  
-Popularity (Based on Awards): 306 Extremely Fun (Ranked 214)  
+## Popularity (Based on Awards)
+Max (Extremely Fun): 306  (Ranked 214)  
+Sum: 2,335 (Ranked 163)  
+Diff (max vs sum): 51
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,7 +1,10 @@
 # Five Nights at Freddy's: Security Breach
 Rating: 4.56 (Ranked 436)  
 Number of Ratings: 169  (23.09.2022)  
-Popularity (Based on Awards): 21 Amazing Storytelling (Ranked 468)  
+## Popularity (Based on Awards)
+Max (Amazing Storytelling): 21  (Ranked 468)  
+Sum: 21 (Ranked 468)  
+Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

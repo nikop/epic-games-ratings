@@ -1,7 +1,10 @@
 # Tiny Tina's Wonderlands
 Rating: 4.57 (Ranked 419)  
 Number of Ratings: 20,753  (23.09.2022)  
-Popularity (Based on Awards): 17,542 Great Boss Battles (Ranked 17)  
+## Popularity (Based on Awards)
+Max (Great Boss Battles): 17,542  (Ranked 17)  
+Sum: 30,804 (Ranked 32)  
+Diff (max vs sum): -15
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

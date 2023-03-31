@@ -1,7 +1,10 @@
 # Red Dead Redemption 2
 Rating: 4.89 (Ranked 13)  
 Number of Ratings: 102,658  (23.09.2022)  
-Popularity (Based on Awards): 129,139 Impact the Story (Ranked 7)  
+## Popularity (Based on Awards)
+Max (Impact the Story): 129,139  (Ranked 7)  
+Sum: 325,946 (Ranked 9)  
+Diff (max vs sum): -2
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
@@ -16,7 +19,7 @@ Popularity (Based on Awards): 129,139 Impact the Story (Ranked 7)
 | This game has Amazing Characters | 11,731 |
 | This game is Educational | 11,578 |
 | This game has Quickly Understood Controls | 11,386 |
-| This game has Realistic Visuals | 11,332 |
+| This game has Realistic Visuals | 11,358 |
 | This game has a Creative Community | 8,674 |
 | This game has Obsessive Gameplay | 5,801 |
 ## Ratings History
