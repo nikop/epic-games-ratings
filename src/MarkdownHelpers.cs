@@ -3,7 +3,7 @@ using System.Text;
 
 namespace EpicRatingsUpdater
 {
-    internal static class Markdown
+    internal static class MarkdownHelpers
     {
         static CultureInfo usCulture = CultureInfo.GetCultureInfo("en-US");
 
@@ -45,6 +45,28 @@ namespace EpicRatingsUpdater
                 return "-";
 
             return votes.Value.ToString("F2", usCulture);
+        }
+
+        static public void RankItems<TItem, TRanking>(
+            IEnumerable<TItem> rankedItems, 
+            Func<TItem, TRanking> ratingRead,
+            Action<TItem, int> rankWrite) where TRanking : IEquatable<TRanking>
+        {
+            var i = 1;
+            var lastRanking = i;
+            TRanking? lastRating = default;
+
+            foreach (var item in rankedItems)
+            {
+                var rating = ratingRead(item);
+                var displayRanking = rating.Equals(lastRating) ? lastRanking : i;
+
+                rankWrite(item, displayRanking);
+
+                lastRanking = displayRanking;
+                lastRating = rating;
+                i++;
+            }
         }
 
         static public string BuildMarkdownStats(List<GameDbItem> filteredList, List<GameDbItem> allList)
@@ -144,7 +166,6 @@ namespace EpicRatingsUpdater
 
                 var displayRanking = !groupByRating ? i : (item.Rating == lastRating ? lastRanking : i);
 
-                //var num
 
                 sb.Append($"| {displayRanking} | [{item.Name}]({link}) | {FormatRating(item.Rating)} | ");
 

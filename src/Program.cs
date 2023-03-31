@@ -305,33 +305,47 @@ foreach (var item in output)
 
     Directory.CreateDirectory(Path.GetDirectoryName(fullName)!);
 
-    var page = Markdown.BuildMarkdownGamePage(item);
+    var page = MarkdownHelpers.BuildMarkdownGamePage(item);
 
     await File.WriteAllTextAsync(fullName, page);
 }
 
+// Rating Ranking
+MarkdownHelpers.RankItems(
+    filteredList.OrderByDescending(x => x.Rating),
+    x => x.Rating ?? 0,
+    (x, rank) => x.Ranking_Rating = rank
+);
+
+// Popularity/Award Ranking
+MarkdownHelpers.RankItems(
+    filteredList.OrderByDescending(x => x.NumberOfAwardsMax),
+    x => x.NumberOfAwardsMax ?? 0,
+    (x, rank) => x.Ranking_Popularity = rank
+);
+
 // Markdown
 await File.WriteAllTextAsync(
     Path.Combine(path, "by_name.md"),
-    Markdown.BuildMarkdownTable(gameIndex, filteredList.OrderBy(x => x.Name))
+    MarkdownHelpers.BuildMarkdownTable(gameIndex, filteredList.OrderBy(x => x.Name))
 );
 await File.WriteAllTextAsync(
     Path.Combine(path, "by_rating.md"), 
-    Markdown.BuildMarkdownTable(gameIndex, filteredList.OrderByDescending(x => x.Rating).ThenBy(x => x.Name), true)
+    MarkdownHelpers.BuildMarkdownTable(gameIndex, filteredList.OrderByDescending(x => x.Rating).ThenBy(x => x.Name), true)
 );
 await File.WriteAllTextAsync(
     Path.Combine(path, "by_awards.md"),
-    Markdown.BuildMarkdownTable(gameIndex, filteredList.Where(x => x.NumberOfAwardsMax > 0).OrderByDescending(x => x.NumberOfAwardsMax).ThenBy(x => x.Name), true)
+    MarkdownHelpers.BuildMarkdownTable(gameIndex, filteredList.Where(x => x.NumberOfAwardsMax > 0).OrderByDescending(x => x.NumberOfAwardsMax).ThenBy(x => x.Name), true)
 );
 await File.WriteAllTextAsync(
     Path.Combine(path, "by_awards_sum.md"),
-    Markdown.BuildMarkdownTable(gameIndex, filteredList.Where(x => x.NumberOfAwards > 0).OrderByDescending(x => x.NumberOfAwards).ThenBy(x => x.Name), true, true)
+    MarkdownHelpers.BuildMarkdownTable(gameIndex, filteredList.Where(x => x.NumberOfAwards > 0).OrderByDescending(x => x.NumberOfAwards).ThenBy(x => x.Name), true, true)
 );
 await File.WriteAllTextAsync(
     Path.Combine(path, "new_games.md"),
-    Markdown.BuildMarkdownTable(gameIndex, filteredList.Where(x => x.FirstSeen != null && ratingsCutOffNew < x.FirstSeen).OrderByDescending(x => x.FirstSeen).ThenBy(x => x.Name), true)
+    MarkdownHelpers.BuildMarkdownTable(gameIndex, filteredList.Where(x => x.FirstSeen != null && ratingsCutOffNew < x.FirstSeen).OrderByDescending(x => x.FirstSeen).ThenBy(x => x.Name), true)
 );
 await File.WriteAllTextAsync(
     Path.Combine(path, "stats.md"),
-    Markdown.BuildMarkdownStats(filteredList, output)
+    MarkdownHelpers.BuildMarkdownStats(filteredList, output)
 );
