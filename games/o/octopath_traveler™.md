@@ -1,5 +1,5 @@
 # OCTOPATH TRAVELER™
-Rating: 4.80 (Ranked 80)  
+Rating: 4.80 (Ranked 79)  
 Number of Ratings: 166  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 113  (Ranked 299)  
