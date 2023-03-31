@@ -2,7 +2,7 @@
 | --- | ---- | ------ | ---------------- | 
 | 1 | [Fortnite](games/f/fortnite.md) | 4.30 | 1,179,756 | 
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 366,755 | 
-| 3 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 278,465 | 
+| 3 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 278,830 | 
 | 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 178,394 | 
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 150,706 | 
 | 6 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 136,985 | 
@@ -40,22 +40,22 @@
 | 38 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,423 | 
 | 39 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 7,311 | 
 | 40 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,036 | 
-| 41 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,005 | 
+| 41 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,015 | 
 | 42 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 
 | 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,531 | 
 | 44 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,386 | 
 | 45 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,297 | 
-| 46 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 6,266 | 
+| 46 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 6,276 | 
 | 47 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,199 | 
 | 48 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 6,198 | 
 | 49 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,009 | 
 | 50 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 5,908 | 
 | 51 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,817 | 
-| 52 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,763 | 
-| 53 | [Sifu](games/s/sifu.md) | 4.81 | 5,752 | 
+| 52 | [Sifu](games/s/sifu.md) | 4.81 | 5,764 | 
+| 53 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,763 | 
 | 54 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,725 | 
 | 55 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 5,660 | 
-| 56 | [Prey](games/p/prey.md) | 4.62 | 5,474 | 
+| 56 | [Prey](games/p/prey.md) | 4.62 | 5,475 | 
 | 57 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,430 | 
 | 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,377 | 
 | 59 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 4,913 | 
@@ -63,7 +63,7 @@
 | 61 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 4,732 | 
 | 62 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,724 | 
 | 63 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,528 | 
-| 64 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,475 | 
+| 64 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,479 | 
 | 65 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,450 | 
 | 66 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,243 | 
 | 67 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,167 | 
@@ -71,7 +71,7 @@
 | 69 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,016 | 
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 3,992 | 
 | 71 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 3,910 | 
-| 72 | [God of War](games/g/god_of_war.md) | 4.89 | 3,892 | 
+| 72 | [God of War](games/g/god_of_war.md) | 4.89 | 3,896 | 
 | 73 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 3,868 | 
 | 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,797 | 
 | 75 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,693 | 
@@ -229,8 +229,8 @@
 | 227 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 269 | 
 | 228 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 264 | 
 | 229 | [Sheltered](games/s/sheltered.md) | 4.42 | 261 | 
-| 230 | [Diabotical](games/d/diabotical.md) | 4.76 | 259 | 
-| 231 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 259 | 
+| 230 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 260 | 
+| 231 | [Diabotical](games/d/diabotical.md) | 4.76 | 259 | 
 | 232 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 249 | 
 | 233 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 244 | 
 | 234 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 242 | 

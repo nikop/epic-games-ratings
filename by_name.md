@@ -289,7 +289,7 @@
 | 287 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 65 | 
 | 288 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 33 | 
 | 289 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | - | 
-| 290 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 278,465 | 
+| 290 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 278,830 | 
 | 291 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 931 | 
 | 292 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 22 | 
 | 293 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 209 | 
@@ -299,8 +299,8 @@
 | 297 | [GigaBash](games/g/gigabash.md) | 4.63 | - | 
 | 298 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,411 | 
 | 299 | [GNOG](games/g/gnog.md) | 4.68 | - | 
-| 300 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 259 | 
-| 301 | [God of War](games/g/god_of_war.md) | 4.89 | 3,892 | 
+| 300 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 260 | 
+| 301 | [God of War](games/g/god_of_war.md) | 4.89 | 3,896 | 
 | 302 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 26 | 
 | 303 | [Godfall](games/g/godfall.md) | 4.07 | 497 | 
 | 304 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | - | 
@@ -483,7 +483,7 @@
 | 481 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | - | 
 | 482 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 139 | 
 | 483 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,309 | 
-| 484 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,005 | 
+| 484 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,015 | 
 | 485 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | - | 
 | 486 | [NORCO](games/n/norco.md) | 4.62 | - | 
 | 487 | [Northgard](games/n/northgard.md) | 4.72 | 27 | 
@@ -544,7 +544,7 @@
 | 542 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 844 | 
 | 543 | [Predecessor](games/p/predecessor.md) | 4.44 | 43 | 
 | 544 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.48 | - | 
-| 545 | [Prey](games/p/prey.md) | 4.62 | 5,474 | 
+| 545 | [Prey](games/p/prey.md) | 4.62 | 5,475 | 
 | 546 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 389 | 
 | 547 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 1,275 | 
 | 548 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | - | 
@@ -627,11 +627,11 @@
 | 625 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.47 | - | 
 | 626 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | - | 
 | 627 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | - | 
-| 628 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,475 | 
+| 628 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,479 | 
 | 629 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.26 | - | 
 | 630 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 28,284 | 
 | 631 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.15 | - | 
-| 632 | [Sifu](games/s/sifu.md) | 4.81 | 5,752 | 
+| 632 | [Sifu](games/s/sifu.md) | 4.81 | 5,764 | 
 | 633 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.50 | - | 
 | 634 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 110 | 
 | 635 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 124 | 
@@ -724,7 +724,7 @@
 | 722 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 377 | 
 | 723 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.72 | - | 
 | 724 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,120 | 
-| 725 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 6,266 | 
+| 725 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 6,276 | 
 | 726 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 61 | 
 | 727 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 55 | 
 | 728 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 1,156 | 

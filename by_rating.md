@@ -14,7 +14,7 @@
 | 8 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | - | 
 | 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,531 | 
 | 13 | [Firework](games/f/firework.md) | 4.89 | - | 
-| 13 | [God of War](games/g/god_of_war.md) | 4.89 | 3,892 | 
+| 13 | [God of War](games/g/god_of_war.md) | 4.89 | 3,896 | 
 | 13 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 129,139 | 
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 391 | 
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 14,112 | 
@@ -40,7 +40,7 @@
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 37 | 
 | 38 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,423 | 
 | 38 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,430 | 
-| 38 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 259 | 
+| 38 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 260 | 
 | 38 | [Huntdown](games/h/huntdown.md) | 4.85 | - | 
 | 38 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 223 | 
 | 38 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 214 | 
@@ -75,7 +75,7 @@
 | 68 | [Griftlands](games/g/griftlands.md) | 4.81 | - | 
 | 68 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 107 | 
 | 68 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | - | 
-| 68 | [Sifu](games/s/sifu.md) | 4.81 | 5,752 | 
+| 68 | [Sifu](games/s/sifu.md) | 4.81 | 5,764 | 
 | 68 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.81 | 28 | 
 | 68 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | - | 
 | 68 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | - | 
@@ -242,7 +242,7 @@
 | 235 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 3,868 | 
 | 235 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 4,913 | 
 | 235 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.68 | 306 | 
-| 235 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 278,465 | 
+| 235 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 278,830 | 
 | 235 | [GNOG](games/g/gnog.md) | 4.68 | - | 
 | 235 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | - | 
 | 235 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 407 | 
@@ -342,7 +342,7 @@
 | 333 | [NORCO](games/n/norco.md) | 4.62 | - | 
 | 333 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | - | 
 | 333 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 576 | 
-| 333 | [Prey](games/p/prey.md) | 4.62 | 5,474 | 
+| 333 | [Prey](games/p/prey.md) | 4.62 | 5,475 | 
 | 333 | [Road 96](games/r/road_96.md) | 4.62 | - | 
 | 333 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.62 | - | 
 | 333 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 70 | 
@@ -428,7 +428,7 @@
 | 419 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 35 | 
 | 419 | [Hob](games/h/hob.md) | 4.57 | - | 
 | 419 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 36 | 
-| 419 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,005 | 
+| 419 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,015 | 
 | 419 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 2,965 | 
 | 419 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | - | 
 | 419 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 115 | 
@@ -586,7 +586,7 @@
 | 578 | [Runbow](games/r/runbow.md) | 4.46 | - | 
 | 578 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.46 | - | 
 | 578 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.46 | - | 
-| 578 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 6,266 | 
+| 578 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 6,276 | 
 | 578 | [The Surge](games/t/the_surge.md) | 4.46 | 26 | 
 | 578 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 273 | 
 | 578 | [Weird West](games/w/weird_west.md) | 4.46 | 21 | 
@@ -866,7 +866,7 @@
 | 863 | [Gravewood High](games/g/gravewood_high.md) | 3.98 | - | 
 | 863 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | - | 
 | 863 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 1,275 | 
-| 863 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,475 | 
+| 863 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,479 | 
 | 863 | [The First Tree](games/t/the_first_tree.md) | 3.98 | - | 
 | 869 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | - | 
 | 870 | [Banished](games/b/banished.md) | 3.96 | - | 
