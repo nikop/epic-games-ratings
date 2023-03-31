@@ -15,7 +15,7 @@ Rating: 4.89 (102,658)  (as of 23.09.2022)
 | This game is Educational | 11,578 |
 | This game has Quickly Understood Controls | 11,386 |
 | This game has Realistic Visuals | 11,332 |
-| This game has a Creative Community | 8,651 |
+| This game has a Creative Community | 8,674 |
 | This game has Obsessive Gameplay | 5,801 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -86,3 +86,4 @@ Rating: 4.89 (102,658)  (as of 23.09.2022)
 | 2022-09-23 | 4.90 | 102,658 | - |
 | 2022-10-03 | 4.89 | - | - |
 | 2022-10-04 | 4.89 | - | - |
+| 2023-03-31 | 4.89 | - | 129,139 |

@@ -19,7 +19,7 @@
 | 17 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 17,542x Great Boss Battles | 
 | 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 16,246x Character Customization | 
 | 19 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,282x Great Boss Battles | 
-| 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 14,079x Character Customization | 
+| 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 14,112x Character Customization | 
 | 21 | [Warframe](games/w/warframe.md) | 4.61 | 13,837x Great Boss Battles | 
 | 22 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 13,755x Great Boss Battles | 
 | 23 | [Maneater](games/m/maneater.md) | 4.49 | 13,362x Character Customization | 
@@ -89,9 +89,9 @@
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 2,877x Great Boss Battles | 
 | 88 | [Rage 2](games/r/rage_2.md) | 4.28 | 2,407x Great Boss Battles | 
 | 89 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,370x Character Customization | 
-| 90 | [Among Us](games/a/among_us.md) | 4.58 | 2,312x Great for Beginners | 
+| 90 | [Among Us](games/a/among_us.md) | 4.58 | 2,316x Great for Beginners | 
 | 91 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,309x Character Customization | 
-| 92 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,238x Great for Quick Sessions | 
+| 92 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,245x Great for Beginners | 
 | 93 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 2,211x Great Boss Battles | 
 | 94 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,200x Character Customization | 
 | 95 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,155x Great Boss Battles | 

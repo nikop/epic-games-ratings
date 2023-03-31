@@ -4,7 +4,7 @@ Rating: 4.44 (12,290)  (as of 23.09.2022)
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Amazing Storytelling | 640 |
-| This game is Great for Beginners | 634 |
+| This game is Great for Beginners | 636 |
 | This game has Amazing Characters | 631 |
 | This game is Extremely Fun | 624 |
 | This game is Relaxing | 622 |
@@ -84,3 +84,4 @@ Rating: 4.44 (12,290)  (as of 23.09.2022)
 | 2022-10-26 | 4.42 | - | - |
 | 2022-10-27 | 4.43 | - | - |
 | 2023-01-06 | 4.44 | - | - |
+| 2023-03-31 | 4.44 | - | 640 |

@@ -7,7 +7,7 @@ Rating: 4.75 (-)  (as of 23.09.2022)
 | This game is Extremely Fun | 306 |
 | This game is Highly Recommended | 304 |
 | This game is Educational | 299 |
-| This game is Relaxing | 293 |
+| This game is Relaxing | 295 |
 | This game has Amazing Storytelling | 256 |
 | This game has Quickly Understood Controls | 256 |
 | This game has Competitive Players | 253 |
@@ -49,3 +49,4 @@ Rating: 4.75 (-)  (as of 23.09.2022)
 | 2023-01-26 | 4.76 | - | - |
 | 2023-01-27 | 4.75 | - | - |
 | 2023-01-28 | 4.75 | - | - |
+| 2023-03-31 | 4.75 | - | 319 |

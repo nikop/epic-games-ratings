@@ -9,8 +9,8 @@ Rating: 4.54 (157,172)  (as of 23.09.2022)
 | This game has Amazing Characters | 40,094 |
 | This game has Competitive Players | 39,717 |
 | This game is Extremely Fun | 39,520 |
+| This game has Quickly Understood Controls | 37,552 |
 | This game has a Competitive Community | 37,512 |
-| This game has Quickly Understood Controls | 37,502 |
 | This game has Amazing Storytelling | 37,209 |
 | This game has Obsessive Gameplay | 20,916 |
 ## Ratings History

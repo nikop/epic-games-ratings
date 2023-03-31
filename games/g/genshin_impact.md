@@ -12,7 +12,7 @@ Rating: 4.68 (219,180)  (as of 23.09.2022)
 | This game is Extremely Fun | 101,266 |
 | This game is Relaxing | 98,675 |
 | This game has Quickly Understood Controls | 98,075 |
-| This game has Beautiful Visuals | 97,656 |
+| This game has Beautiful Visuals | 97,833 |
 | This game has Obsessive Gameplay | 53,865 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |

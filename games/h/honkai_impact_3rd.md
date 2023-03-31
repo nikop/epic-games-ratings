@@ -14,7 +14,7 @@ Rating: 4.49 (-)  (as of 23.09.2022)
 | This game is Extremely Fun | 275 |
 | This game has Quickly Understood Controls | 271 |
 | This game has Amazing Storytelling | 261 |
-| This game is Relaxing | 253 |
+| This game is Relaxing | 254 |
 | This game has Challenging Combat | 28 |
 | This game has a Kind Community | 22 |
 ## Ratings History
@@ -59,3 +59,4 @@ Rating: 4.49 (-)  (as of 23.09.2022)
 | 2023-03-01 | 4.48 | - | - |
 | 2023-03-22 | 4.49 | - | - |
 | 2023-03-23 | 4.49 | - | - |
+| 2023-03-31 | 4.49 | - | 1,995 |

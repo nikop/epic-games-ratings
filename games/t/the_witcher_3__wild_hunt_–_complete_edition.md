@@ -3,7 +3,7 @@ Rating: 4.89 (14,665)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 14,079 |
+| This game has Inclusive Character Customization | 14,112 |
 | This game is Extremely Fun | 2,137 |
 | This game has Amazing Storytelling | 2,129 |
 | This game is Great for Beginners | 2,100 |
@@ -93,4 +93,4 @@ Rating: 4.89 (14,665)  (as of 23.09.2022)
 | 2022-12-09 | 4.89 | - | - |
 | 2022-12-10 | 4.90 | - | - |
 | 2022-12-19 | 4.89 | - | - |
-| 2023-03-31 | 4.89 | - | 14,079 |
+| 2023-03-31 | 4.89 | - | 14,112 |

@@ -3,7 +3,7 @@ Rating: 4.67 (6,825)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 2,238 |
+| This game is Great for Beginners | 2,245 |
 | This game is Great for Quick Sessions | 2,238 |
 | This game has Competitive Players | 1,956 |
 | This game is Extremely Fun | 1,915 |
@@ -85,4 +85,4 @@ Rating: 4.67 (6,825)  (as of 23.09.2022)
 | 2022-09-27 | 4.67 | - | - |
 | 2023-01-01 | 4.66 | - | - |
 | 2023-03-25 | 4.67 | - | - |
-| 2023-03-31 | 4.67 | - | 2,238 |
+| 2023-03-31 | 4.67 | - | 2,245 |
