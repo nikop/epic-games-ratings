@@ -10,7 +10,7 @@ Rating: 4.35 (11,687)  (as of 23.09.2022)
 | This game is Extremely Fun | 2,857 |
 | This game is Highly Recommended | 2,679 |
 | This game has Amazing Characters | 2,654 |
-| This game has Amazing Storytelling | 2,506 |
+| This game has Amazing Storytelling | 2,507 |
 | This game has a Competitive Community | 2,134 |
 | This game has Obsessive Gameplay | 958 |
 ## Ratings History

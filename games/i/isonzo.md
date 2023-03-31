@@ -9,8 +9,8 @@ Rating: 4.56 (98)  (as of 23.09.2022)
 | This game is Extremely Fun | 25 |
 | This game has Challenging Combat | 24 |
 | This game has Diverse Characters | 24 |
+| This game has Realistic Visuals | 24 |
 | This game has Amazing Characters | 23 |
-| This game has Realistic Visuals | 23 |
 | This game has Competitive Players | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings |

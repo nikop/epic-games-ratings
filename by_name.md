@@ -469,7 +469,7 @@
 | 467 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,200 |
 | 468 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 545 |
 | 469 | [MythForce](games/m/mythforce.md) | 4.51 | 32 |
-| 470 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 178,254 |
+| 470 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 178,254 |
 | 471 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,617 |
 | 472 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.11 | - |
 | 473 | [Necrosmith](games/n/necrosmith.md) | 4.39 | - |
@@ -566,7 +566,7 @@
 | 564 | [Redout 2](games/r/redout_2.md) | 4.44 | - |
 | 565 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | - |
 | 566 | [Relicta](games/r/relicta.md) | 4.15 | 189 |
-| 567 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 8,800 |
+| 567 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 8,804 |
 | 568 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | - |
 | 569 | [Returnal™](games/r/returnal™.md) | 4.68 | - |
 | 570 | [Revita](games/r/revita.md) | 4.67 | - |
@@ -623,7 +623,7 @@
 | 621 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.70 | - |
 | 622 | [shapez](games/s/shapez.md) | 4.76 | - |
 | 623 | [Sheltered](games/s/sheltered.md) | 4.42 | 261 |
-| 624 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 26 |
+| 624 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 26 |
 | 625 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.47 | - |
 | 626 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | - |
 | 627 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | - |
@@ -751,7 +751,7 @@
 | 749 | [The Medium](games/t/the_medium.md) | 4.58 | - |
 | 750 | [The Messenger](games/t/the_messenger.md) | 4.80 | 310 |
 | 751 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,717 |
-| 752 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.23 | - |
+| 752 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.26 | - |
 | 753 | [The Pathless](games/t/the_pathless.md) | 4.68 | - |
 | 754 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | - |
 | 755 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 36 |

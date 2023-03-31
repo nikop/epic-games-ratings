@@ -13,7 +13,7 @@ Rating: 4.56 (55,748)  (as of 23.09.2022)
 | This game is Highly Recommended | 3,933 |
 | This game has Playful Visuals | 3,600 |
 | This game has Amazing Storytelling | 3,599 |
-| This game has a Competitive Community | 3,395 |
+| This game has a Competitive Community | 3,396 |
 | This game has Obsessive Gameplay | 3,030 |
 | This game is Relaxing | 86 |
 ## Ratings History

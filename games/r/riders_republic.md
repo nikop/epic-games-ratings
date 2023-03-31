@@ -11,7 +11,7 @@ Rating: 4.75 (4,120)  (as of 23.09.2022)
 | This game is Great for Quick Sessions | 343 |
 | This game has Competitive Players | 339 |
 | This game has Diverse Characters | 337 |
-| This game has Amazing Characters | 328 |
+| This game has Amazing Characters | 331 |
 | This game is Educational | 318 |
 | This game has Amazing Storytelling | 303 |
 | This game has Obsessive Gameplay | 164 |

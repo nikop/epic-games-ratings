@@ -3,7 +3,7 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 4.30 | 1,179,756 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 366,755 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 278,465 |
-| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 178,254 |
+| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 178,254 |
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 150,706 |
 | 6 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 136,985 |
 | 7 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 129,139 |
@@ -33,7 +33,7 @@
 | 31 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,115 |
 | 32 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 9,596 |
 | 33 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 8,823 |
-| 34 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 8,800 |
+| 34 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 8,804 |
 | 35 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,437 |
 | 36 | [Control](games/c/control.md) | 4.60 | 8,188 |
 | 37 | [Supraland](games/s/supraland.md) | 4.61 | 7,591 |
@@ -450,7 +450,7 @@
 | 448 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 27 |
 | 449 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 27 |
 | 450 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 26 |
-| 451 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 26 |
+| 451 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 26 |
 | 452 | [The Surge](games/t/the_surge.md) | 4.46 | 26 |
 | 453 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 26 |
 | 454 | [DOOM II](games/d/doom_ii.md) | 4.73 | 25 |

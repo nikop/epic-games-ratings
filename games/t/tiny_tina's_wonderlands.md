@@ -9,7 +9,7 @@ Rating: 4.57 (20,753)  (as of 23.09.2022)
 | This game has Quickly Understood Controls | 1,689 |
 | This game is Extremely Fun | 1,663 |
 | This game is Great for Beginners | 1,652 |
-| This game is Relaxing | 1,637 |
+| This game is Relaxing | 1,643 |
 | This game is Highly Recommended | 1,602 |
 | This game has Amazing Characters | 1,576 |
 | This game has Obsessive Gameplay | 1,206 |

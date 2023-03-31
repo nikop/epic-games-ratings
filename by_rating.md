@@ -381,7 +381,7 @@
 | 374 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 36 |
 | 374 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 62 |
 | 374 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | - |
-| 374 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 8,800 |
+| 374 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 8,804 |
 | 374 | [Roguebook](games/r/roguebook.md) | 4.60 | - |
 | 374 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 425 |
 | 374 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 30 |
@@ -762,35 +762,35 @@
 | 760 | [EVE Online](games/e/eve_online.md) | 4.26 | 993 |
 | 760 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | - |
 | 760 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.26 | - |
+| 760 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.26 | - |
 | 760 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | - |
 | 760 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | - |
-| 765 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | - |
-| 765 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | - |
-| 765 | [Saturnalia](games/s/saturnalia.md) | 4.25 | - |
-| 765 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | - |
-| 769 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | - |
-| 769 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 |
-| 769 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.24 | - |
-| 769 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 282 |
-| 769 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 |
-| 769 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.24 | 29 |
-| 769 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.24 | - |
-| 776 | [City of Brass](games/c/city_of_brass.md) | 4.23 | - |
-| 776 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 5,660 |
-| 776 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | - |
-| 776 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 969 |
-| 776 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | - |
-| 776 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.23 | - |
-| 776 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | - |
-| 776 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 22 |
+| 766 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | - |
+| 766 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | - |
+| 766 | [Saturnalia](games/s/saturnalia.md) | 4.25 | - |
+| 766 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | - |
+| 770 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | - |
+| 770 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 |
+| 770 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.24 | - |
+| 770 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 282 |
+| 770 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 |
+| 770 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.24 | 29 |
+| 770 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.24 | - |
+| 777 | [City of Brass](games/c/city_of_brass.md) | 4.23 | - |
+| 777 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 5,660 |
+| 777 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | - |
+| 777 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 969 |
+| 777 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | - |
+| 777 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | - |
+| 777 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 22 |
 | 784 | [Rise of Industry](games/r/rise_of_industry.md) | 4.22 | - |
-| 784 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 26 |
 | 784 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 199 |
-| 787 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 28 |
-| 787 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 169 |
-| 787 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 12,158 |
-| 787 | [OVERPASS™](games/o/overpass™.md) | 4.21 | - |
-| 787 | [Starsand](games/s/starsand.md) | 4.21 | - |
+| 786 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 28 |
+| 786 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 169 |
+| 786 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 12,158 |
+| 786 | [OVERPASS™](games/o/overpass™.md) | 4.21 | - |
+| 786 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 26 |
+| 786 | [Starsand](games/s/starsand.md) | 4.21 | - |
 | 792 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 121 |
 | 792 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 119 |
 | 792 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | - |
@@ -799,15 +799,15 @@
 | 792 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 |
 | 792 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | - |
 | 792 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 68 |
-| 792 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.20 | 178,254 |
 | 792 | [Somerville](games/s/somerville.md) | 4.20 | - |
 | 792 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 75 |
-| 803 | [Crayta](games/c/crayta.md) | 4.19 | 50 |
-| 803 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | - |
-| 803 | [Flatout](games/f/flatout.md) | 4.19 | - |
-| 803 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 84 |
-| 803 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | - |
-| 803 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.19 | - |
+| 802 | [Crayta](games/c/crayta.md) | 4.19 | 50 |
+| 802 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | - |
+| 802 | [Flatout](games/f/flatout.md) | 4.19 | - |
+| 802 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 84 |
+| 802 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 178,254 |
+| 802 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | - |
+| 802 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.19 | - |
 | 809 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 |
 | 809 | [Windbound](games/w/windbound.md) | 4.18 | - |
 | 811 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 26 |

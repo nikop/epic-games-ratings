@@ -13,7 +13,7 @@ Rating: 4.60 (12,317)  (as of 23.09.2022)
 | This game has Amazing Storytelling | 887 |
 | This game has Diverse Characters | 879 |
 | This game is Great for Beginners | 868 |
-| This game has a Creative Community | 489 |
+| This game has a Creative Community | 491 |
 | This game has Obsessive Gameplay | 334 |
 ## Ratings History
 | Date | Rating | Number of Ratings |

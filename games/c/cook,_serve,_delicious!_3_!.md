@@ -9,7 +9,7 @@ Rating: 4.49 (2,006)  (as of 23.09.2022)
 | This game has Quickly Understood Controls | 88 |
 | This game is Extremely Fun | 88 |
 | This game has Playful Visuals | 83 |
-| This game has Amazing Storytelling | 72 |
+| This game has Amazing Storytelling | 74 |
 | This game has Challenging Combat | 71 |
 | This game has Obsessive Gameplay | 64 |
 | This game is Great for Beginners | 59 |
