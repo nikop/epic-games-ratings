@@ -27,7 +27,7 @@
 | 25 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,159 | 
 | 26 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 12,158 | 
 | 27 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 11,699 | 
-| 28 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,617 | 
+| 28 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,618 | 
 | 29 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,234 | 
 | 30 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,118 | 
 | 31 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,115 | 
@@ -415,7 +415,7 @@
 | 413 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 36 | 
 | 414 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 
 | 415 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 35 | 
-| 416 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.71 | 35 | 
+| 416 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.72 | 35 | 
 | 417 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 35 | 
 | 418 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 34 | 
 | 419 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 

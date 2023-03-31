@@ -147,7 +147,7 @@
 | 145 | [Crashlands](games/c/crashlands.md) | 4.66 | 186 | 
 | 146 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 
 | 147 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 22 | 
-| 148 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.82 | - | 
+| 148 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.83 | - | 
 | 149 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 169 | 
 | 150 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.34 | 90 | 
 | 151 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 208 | 
@@ -470,7 +470,7 @@
 | 468 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 545 | 
 | 469 | [MythForce](games/m/mythforce.md) | 4.51 | 32 | 
 | 470 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 178,394 | 
-| 471 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,617 | 
+| 471 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,618 | 
 | 472 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.11 | - | 
 | 473 | [Necrosmith](games/n/necrosmith.md) | 4.39 | - | 
 | 474 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.69 | - | 
@@ -755,7 +755,7 @@
 | 753 | [The Pathless](games/t/the_pathless.md) | 4.68 | - | 
 | 754 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | - | 
 | 755 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 36 | 
-| 756 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.71 | 35 | 
+| 756 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.72 | 35 | 
 | 757 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | - | 
 | 758 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.58 | 63 | 
 | 759 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | - | 

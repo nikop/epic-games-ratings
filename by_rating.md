@@ -667,7 +667,7 @@
 | 664 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | - | 
 | 664 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | - | 
 | 664 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | - | 
-| 664 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,617 | 
+| 664 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,618 | 
 | 664 | [Necrosmith](games/n/necrosmith.md) | 4.39 | - | 
 | 664 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.39 | - | 
 | 664 | [Tacoma](games/t/tacoma.md) | 4.39 | - | 
@@ -882,7 +882,7 @@
 | 878 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 
 | 881 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | - | 
 | 882 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | - | 
-| 883 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.82 | - | 
+| 883 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.83 | - | 
 | 884 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | - | 
 | 885 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | - | 
 | 885 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,017 | 
@@ -890,6 +890,6 @@
 | 888 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | - | 
 | 888 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 66 | 
 | 890 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | - | 
-| 891 | [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | - | 
-| 891 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.71 | 35 | 
+| 891 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.72 | 35 | 
+| 892 | [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | - | 
 | 893 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 3.31 | - | 
