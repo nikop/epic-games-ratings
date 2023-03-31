@@ -2,7 +2,17 @@
   "ID": "89ad85eed51a421bb07c33c4fba929b3",
   "Name": "Lumote: The Mastermote Chronicles",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:26:11.247571+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:00.4254175+00:00",
+  "LastChanged": "2023-03-31T05:58:00.4254176+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:00.4254177+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

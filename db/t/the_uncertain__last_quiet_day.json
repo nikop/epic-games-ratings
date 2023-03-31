@@ -2,7 +2,17 @@
   "ID": "2295b951b8f84e86b950bfaf7cadef60",
   "Name": "The Uncertain: Last Quiet Day",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:33:10.5332764+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
+  "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:48.84438+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

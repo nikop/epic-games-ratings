@@ -3,9 +3,10 @@
   "Name": "Trackmania Turbo",
   "Rating": 4.81,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:28:57.415353+00:00",
   "FirstSeenRating": "2023-01-21T19:58:17.0263364+00:00",
-  "LastChanged": "2023-01-30T19:58:30.8935863+00:00",
+  "LastChanged": "2023-03-31T05:58:16.8179127+00:00",
   "RatingHistory": [
     {
       "Time": "2023-01-21T19:58:17.0263366+00:00",
@@ -14,6 +15,12 @@
     {
       "Time": "2023-01-30T19:58:30.8935864+00:00",
       "Rating": 4.81
+    },
+    {
+      "Time": "2023-03-31T05:58:16.8179128+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

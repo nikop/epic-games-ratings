@@ -556,6 +556,8 @@
   "Tags": [
     {
       "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
       "Count": 22
     }
   ]

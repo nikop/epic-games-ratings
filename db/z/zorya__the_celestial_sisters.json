@@ -2,7 +2,17 @@
   "ID": "8fadfa9306b34fc1879d2c3bf2a3dd8c",
   "Name": "Zorya: The Celestial Sisters",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:24:59.3303438+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:51.786956+00:00",
+  "LastChanged": "2023-03-31T05:57:51.7869561+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:51.7869562+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

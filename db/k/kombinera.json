@@ -2,7 +2,17 @@
   "ID": "1abfe306ce6d46999d2e76eadccf658e",
   "Name": "Kombinera",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:17:52.9272739+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:03.8029502+00:00",
+  "LastChanged": "2023-03-31T05:57:03.8029503+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:03.8029505+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

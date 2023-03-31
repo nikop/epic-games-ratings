@@ -3,10 +3,10 @@
   "Name": "Watch Dogs 2 Standard Edition",
   "Rating": 4.59,
   "NumberOfRatings": 6460,
-  "NumberOfAwards": 2166,
+  "NumberOfAwards": 2168,
   "NumberOfAwardsMax": 295,
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2022-12-04T22:57:17.9125427+00:00",
+  "LastChanged": "2023-03-31T05:57:28.841436+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:47.2553497+00:00",
@@ -2332,48 +2332,74 @@
     {
       "Time": "2022-12-04T22:57:17.9125429+00:00",
       "Rating": 4.59
+    },
+    {
+      "Time": "2023-03-31T05:57:28.8414362+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 2168,
+      "NumberOfAwardsMax": 295
     }
   ],
   "Tags": [
     {
       "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
       "Count": 274
     },
     {
       "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
       "Count": 273
     },
     {
       "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
       "Count": 258
     },
     {
       "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
       "Count": 295
     },
     {
       "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
       "Count": 283
     },
     {
       "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
       "Count": 269
     },
     {
       "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
       "Count": 145
     },
     {
       "Text": "This game has Competitive Players",
+      "Prefix": "",
+      "Type": "",
       "Count": 67
     },
     {
       "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
       "Count": 274
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 240
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 242
     }
   ]
 }

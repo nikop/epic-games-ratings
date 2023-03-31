@@ -2,7 +2,17 @@
   "ID": "9cac50a837da4b6f9d655ea65b9d2cc6",
   "Name": "Starless",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-02-08T13:14:41.9404177+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:33.5377947+00:00",
+  "LastChanged": "2023-03-31T05:58:33.5377948+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:33.537795+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

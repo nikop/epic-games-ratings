@@ -2,7 +2,17 @@
   "ID": "3eede8826c3b46e4926a30e4f95867ee",
   "Name": "Slaycation Paradise",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-08-20T10:32:19.9004126+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:24.628792+00:00",
+  "LastChanged": "2023-03-31T05:58:24.6287921+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:24.6287923+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

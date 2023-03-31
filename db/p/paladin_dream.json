@@ -2,7 +2,17 @@
   "ID": "0ca4b438fc1e4abab3988349d56d1cab",
   "Name": "Paladin Dream",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:23:39.8814258+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:08.4231567+00:00",
+  "LastChanged": "2023-03-31T05:57:08.4231568+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:08.423157+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "c4763f236d08423eb47b4c3008779c84",
   "Name": "Alan Wake 2",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:24:52.3265667+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:50.7516471+00:00",
+  "LastChanged": "2023-03-31T05:57:50.7516472+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:50.7516473+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

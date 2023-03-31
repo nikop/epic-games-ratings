@@ -3,9 +3,10 @@
   "Name": "The Colonists",
   "Rating": 4.59,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:26:16.736578+00:00",
   "FirstSeenRating": "2022-11-30T17:01:14.9184871+00:00",
-  "LastChanged": "2022-12-05T03:57:50.9850778+00:00",
+  "LastChanged": "2023-03-31T05:58:01.1435593+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-30T17:01:14.9184876+00:00",
@@ -14,6 +15,12 @@
     {
       "Time": "2022-12-05T03:57:50.9850781+00:00",
       "Rating": 4.59
+    },
+    {
+      "Time": "2023-03-31T05:58:01.1435595+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

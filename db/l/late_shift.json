@@ -2,7 +2,17 @@
   "ID": "537156dc975644649b905ec6e958506e",
   "Name": "Late Shift",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-26T23:03:57.7405896+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
+  "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:45.2761689+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

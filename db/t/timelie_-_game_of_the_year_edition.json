@@ -2,7 +2,17 @@
   "ID": "78b3ea07ed1c4d00a3903c5a11eb87a9",
   "Name": "Timelie - Game of the Year Edition",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:28:40.6079008+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:14.5450662+00:00",
+  "LastChanged": "2023-03-31T05:58:14.5450663+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:14.5450664+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "4dbad680e71f43a4b80487cf506661f6",
   "Name": "Cyberia 2 - Resurrection",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-20T11:57:24.7476544+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:33.2829621+00:00",
+  "LastChanged": "2023-03-31T05:57:33.2829622+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:33.2829624+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -3,13 +3,20 @@
   "Name": "Warhammer Age of Sigmar: Storm Ground",
   "Rating": 4.15,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:27:43.2871759+00:00",
   "FirstSeenRating": "2023-03-05T07:58:17.1363016+00:00",
-  "LastChanged": "2023-03-05T07:58:17.1363017+00:00",
+  "LastChanged": "2023-03-31T05:58:09.6964054+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-05T07:58:17.1363018+00:00",
       "Rating": 4.15
+    },
+    {
+      "Time": "2023-03-31T05:58:09.6964056+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

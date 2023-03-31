@@ -2,7 +2,17 @@
   "ID": "bff546f2926945d8a5524ac76e311a0f",
   "Name": "Another World - 20th Anniversary",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-01T22:01:39.8433396+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:57.1063276+00:00",
+  "LastChanged": "2023-03-31T05:57:57.1063277+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:57.1063278+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

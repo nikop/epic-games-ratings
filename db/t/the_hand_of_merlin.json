@@ -2,7 +2,17 @@
   "ID": "b6f264421d8e41349aed0c89ebd0affc",
   "Name": "The Hand of Merlin",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:25:38.4564891+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:56.4154804+00:00",
+  "LastChanged": "2023-03-31T05:57:56.4154805+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:56.4154806+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

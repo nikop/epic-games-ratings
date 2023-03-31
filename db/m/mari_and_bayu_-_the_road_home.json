@@ -2,7 +2,17 @@
   "ID": "d5e2a82090724cd5abd1218415e094f1",
   "Name": "Mari and Bayu - The Road Home",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-11-05T16:32:24.1164845+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:27.7537519+00:00",
+  "LastChanged": "2023-03-31T05:58:27.753752+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:27.7537521+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

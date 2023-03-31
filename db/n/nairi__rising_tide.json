@@ -2,7 +2,17 @@
   "ID": "edf47f11c7db4bba83041a45c4f82cf7",
   "Name": "NAIRI: Rising Tide",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-01-14T14:57:05.7408828+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:08.7006665+00:00",
+  "LastChanged": "2023-03-31T05:57:08.7006666+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:08.7006668+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "e56b314bd40e41e19227d0a5dd892939",
   "Name": "Ghost Blood",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-03T05:10:41.7673463+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:42.599759+00:00",
+  "LastChanged": "2023-03-31T05:57:42.5997591+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:42.5997592+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "b0558db0e2c741a69e83c0106b62ac85",
   "Name": "Expeditions: Viking",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:30:22.6849763+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:28.7031259+00:00",
+  "LastChanged": "2023-03-31T05:58:28.703126+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:28.7031263+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

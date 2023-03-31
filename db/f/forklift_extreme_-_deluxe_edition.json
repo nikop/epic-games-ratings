@@ -2,7 +2,17 @@
   "ID": "657d534a647948f9aff29745133987d7",
   "Name": "Forklift Extreme - Deluxe Edition",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-18T17:58:02.8547148+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:12.0232769+00:00",
+  "LastChanged": "2023-03-31T05:58:12.023277+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:12.0232772+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "e8da3dcb48b44bfaa1f37a321e833374",
   "Name": "Song of Farca",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:31:00.1292443+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:32.9975099+00:00",
+  "LastChanged": "2023-03-31T05:58:32.9975099+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:32.9975101+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

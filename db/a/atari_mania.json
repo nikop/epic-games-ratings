@@ -2,7 +2,17 @@
   "ID": "0d45b83911e0403e92394fa48bf990f0",
   "Name": "Atari Mania",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-16T03:58:02.7411463+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:54.0080897+00:00",
+  "LastChanged": "2023-03-31T05:57:54.0080898+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:54.0080898+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

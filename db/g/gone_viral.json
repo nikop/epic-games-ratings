@@ -2,7 +2,17 @@
   "ID": "fc3850a91fb14145b4f4f6f3ed037a8b",
   "Name": "Gone Viral",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:26:57.0197782+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:04.9693494+00:00",
+  "LastChanged": "2023-03-31T05:58:04.9693495+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:04.9693496+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

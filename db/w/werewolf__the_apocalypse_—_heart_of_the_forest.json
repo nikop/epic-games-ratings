@@ -2,7 +2,17 @@
   "ID": "1460e510782245bd95c1da971156c299",
   "Name": "Werewolf: The Apocalypse \u2014 Heart of the Forest",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-11-02T10:03:03.5495022+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:28.7757603+00:00",
+  "LastChanged": "2023-03-31T05:58:28.7757605+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:28.7757607+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

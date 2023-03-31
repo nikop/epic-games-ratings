@@ -345,6 +345,8 @@
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
       "Count": 22
     }
   ]

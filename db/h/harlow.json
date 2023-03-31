@@ -2,7 +2,17 @@
   "ID": "ba47117fc1974990b642e9ae383ade3f",
   "Name": "Harlow",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:23:58.7040828+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:44.6692065+00:00",
+  "LastChanged": "2023-03-31T05:57:44.6692066+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:44.6692067+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

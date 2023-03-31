@@ -2,7 +2,17 @@
   "ID": "adeb98fdbcac49ff926121019948c3c2",
   "Name": "AscendantsRising",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:32:01.6834009+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:39.6080534+00:00",
+  "LastChanged": "2023-03-31T05:58:39.6080535+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:39.6080539+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

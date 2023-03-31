@@ -2,7 +2,17 @@
   "ID": "c5730ad3d7004a65a472a7699b88008a",
   "Name": "Foretales",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-09-15T22:31:51.1934709+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
+  "LastChanged": "2023-03-31T05:57:28.024543+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:28.0245432+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

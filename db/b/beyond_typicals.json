@@ -2,7 +2,17 @@
   "ID": "be596f0df1464cda8012c4dcb72478bf",
   "Name": "Beyond Typicals",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:23:08.8867098+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:38.8748897+00:00",
+  "LastChanged": "2023-03-31T05:57:38.8748898+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:38.8748899+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "b5ab16ebd552476688116e187acd2151",
   "Name": "Ten Dates",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-02-16T03:10:27.551187+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
+  "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:08.2897176+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

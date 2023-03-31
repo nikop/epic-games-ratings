@@ -3,9 +3,10 @@
   "Name": "Outlast",
   "Rating": 4.73,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-05T05:31:44.4184122+00:00",
   "FirstSeenRating": "2022-10-20T15:31:49.6878408+00:00",
-  "LastChanged": "2023-03-11T19:57:58.4947593+00:00",
+  "LastChanged": "2023-03-31T05:58:06.9669289+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-20T15:31:49.6878413+00:00",
@@ -150,6 +151,12 @@
     {
       "Time": "2023-03-11T19:57:58.4947594+00:00",
       "Rating": 4.73
+    },
+    {
+      "Time": "2023-03-31T05:58:06.9669292+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

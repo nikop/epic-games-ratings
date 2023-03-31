@@ -2,7 +2,17 @@
   "ID": "5811da1b31a2414fbb77bd910e55480f",
   "Name": "Airoheart",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-11T00:33:08.515839+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:43.3597233+00:00",
+  "LastChanged": "2023-03-31T05:58:43.3597234+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:43.3597236+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

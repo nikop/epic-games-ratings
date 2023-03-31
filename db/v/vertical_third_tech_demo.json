@@ -2,7 +2,17 @@
   "ID": "9988387f73f14d97bd3f8a6ae7aa42a4",
   "Name": "Vertical Third Tech Demo",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-06T03:57:56.4503546+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:31.4915868+00:00",
+  "LastChanged": "2023-03-31T05:58:31.4915869+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:31.4915872+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

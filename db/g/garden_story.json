@@ -2,7 +2,17 @@
   "ID": "0f3f352865294c3ea5e10454f24fde85",
   "Name": "Garden Story",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:27:35.1087326+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:09.1022655+00:00",
+  "LastChanged": "2023-03-31T05:58:09.1022656+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:09.1022658+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

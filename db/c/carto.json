@@ -2,7 +2,17 @@
   "ID": "3bff88989b2b4eee8ec2356ea9667b52",
   "Name": "Carto",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:23:53.081227+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:43.9608434+00:00",
+  "LastChanged": "2023-03-31T05:57:43.9608436+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:43.9608437+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

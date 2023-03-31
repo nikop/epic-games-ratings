@@ -2,7 +2,17 @@
   "ID": "e29b385c72634f359aa900b174011e1a",
   "Name": "Camp Sunshine",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:17:14.5059174+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:56:58.9795393+00:00",
+  "LastChanged": "2023-03-31T05:56:58.9795394+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:56:58.9795396+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -3,10 +3,10 @@
   "Name": "Sifu",
   "Rating": 4.81,
   "NumberOfRatings": 9492,
-  "NumberOfAwards": 9639,
+  "NumberOfAwards": 9643,
   "NumberOfAwardsMax": 5752,
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
-  "LastChanged": "2022-12-16T02:57:36.7566435+00:00",
+  "LastChanged": "2023-03-31T05:57:45.5061052+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:06.0099469+00:00",
@@ -2754,55 +2754,85 @@
     {
       "Time": "2022-12-16T02:57:36.7566436+00:00",
       "Rating": 4.81
+    },
+    {
+      "Time": "2023-03-31T05:57:45.5061054+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 9643,
+      "NumberOfAwardsMax": 5752
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
       "Count": 5752
     },
     {
       "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
       "Count": 462
     },
     {
       "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
       "Count": 465
     },
     {
       "Text": "This game has Amazing Storytelling",
-      "Count": 443
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 447
     },
     {
       "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
       "Count": 425
     },
     {
       "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
       "Count": 458
     },
     {
       "Text": "This game is Relaxing",
+      "Prefix": "",
+      "Type": "",
       "Count": 401
     },
     {
       "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
       "Count": 461
     },
     {
       "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
       "Count": 293
     },
     {
       "Text": "This game has Unique Visuals",
+      "Prefix": "This game has",
+      "Type": "Unique Visuals",
       "Count": 419
     },
     {
       "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
       "Count": 444
     },
     {
       "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
       "Count": 310
     }
   ]

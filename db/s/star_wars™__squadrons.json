@@ -2,7 +2,17 @@
   "ID": "bc2b0372eaa448469cb9a769f27acea1",
   "Name": "STAR WARS\u2122: Squadrons",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:22:37.9193056+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
+  "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:34.5712388+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

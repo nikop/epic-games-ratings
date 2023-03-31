@@ -2,7 +2,17 @@
   "ID": "e6b91350d2734c3b94dc6add87d004f0",
   "Name": "Tr\u00FCberbrook",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:31:47.1969094+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:37.5017424+00:00",
+  "LastChanged": "2023-03-31T05:58:37.5017425+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:37.5017428+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

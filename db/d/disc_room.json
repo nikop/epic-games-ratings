@@ -2,7 +2,17 @@
   "ID": "ca16315212fe486b96969e8fc6d6faf6",
   "Name": "DISC ROOM",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:26:06.505754+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:00.0201004+00:00",
+  "LastChanged": "2023-03-31T05:58:00.0201005+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:00.0201007+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

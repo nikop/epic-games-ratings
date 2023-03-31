@@ -2,7 +2,17 @@
   "ID": "c2091e25d1cb42ce8fc93136ad484f05",
   "Name": "Asemblance",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:25:44.689727+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:57.2950095+00:00",
+  "LastChanged": "2023-03-31T05:57:57.2950097+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:57.2950098+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

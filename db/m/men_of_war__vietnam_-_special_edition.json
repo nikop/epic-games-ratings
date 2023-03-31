@@ -2,7 +2,17 @@
   "ID": "066f15e046bf499e96c0ae352eb4a6ab",
   "Name": "Men of War: Vietnam - Special edition",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-08T05:57:42.3867384+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:52.8010257+00:00",
+  "LastChanged": "2023-03-31T05:57:52.8010258+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:52.8010259+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

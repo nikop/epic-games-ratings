@@ -2,7 +2,17 @@
   "ID": "2176462c35e843e3bb1bacdf5a3f05bf",
   "Name": "Shattered: Tale of the Forgotten King",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:30:00.7317847+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:25.6607845+00:00",
+  "LastChanged": "2023-03-31T05:58:25.6607846+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:25.6607848+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

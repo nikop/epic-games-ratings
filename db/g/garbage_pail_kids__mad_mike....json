@@ -2,7 +2,17 @@
   "ID": "085b92bd0ebc49d9bfc992842d195b8a",
   "Name": "Garbage Pail Kids: Mad Mike...",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-11-28T13:57:47.2780248+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:46.4240857+00:00",
+  "LastChanged": "2023-03-31T05:57:46.4240858+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:46.424086+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "7d1513e400224d02bec9a57387c101b7",
   "Name": "Dollhouse",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:29:31.0325807+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:21.5358317+00:00",
+  "LastChanged": "2023-03-31T05:58:21.5358318+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:21.535832+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

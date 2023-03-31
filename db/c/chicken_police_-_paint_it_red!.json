@@ -2,7 +2,17 @@
   "ID": "0017cfe7374b4c16a42859241b3dfe94",
   "Name": "Chicken Police - Paint it Red!",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:19:05.8920134+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:11.3640183+00:00",
+  "LastChanged": "2023-03-31T05:57:11.3640184+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:11.3640185+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -3,9 +3,10 @@
   "Name": "Hello Neighbor 2",
   "Rating": 4.38,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-06T19:57:03.5315641+00:00",
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
-  "LastChanged": "2023-03-23T19:57:16.029562+00:00",
+  "LastChanged": "2023-03-31T05:57:07.4929253+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-13T19:57:02.6250274+00:00",
@@ -198,6 +199,12 @@
     {
       "Time": "2023-03-23T19:57:16.0295622+00:00",
       "Rating": 4.38
+    },
+    {
+      "Time": "2023-03-31T05:57:07.4929255+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

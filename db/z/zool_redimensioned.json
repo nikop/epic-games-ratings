@@ -2,7 +2,17 @@
   "ID": "16d321658b0f4467a9b9ae2d10eb61d3",
   "Name": "Zool Redimensioned",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:32:08.3324056+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:40.6474009+00:00",
+  "LastChanged": "2023-03-31T05:58:40.6474011+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:40.6474013+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

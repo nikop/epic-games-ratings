@@ -2,7 +2,17 @@
   "ID": "dd7f8d7482fb404ba45a7a85b5071b49",
   "Name": "Override 2: Super Mech League",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:23:23.6023652+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:40.7943369+00:00",
+  "LastChanged": "2023-03-31T05:57:40.7943371+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:40.7943372+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

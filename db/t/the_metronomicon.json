@@ -2,7 +2,17 @@
   "ID": "27186c5b85a84b8c983bd616fb3351a8",
   "Name": "The Metronomicon",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:18:53.4339634+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:09.9842158+00:00",
+  "LastChanged": "2023-03-31T05:57:09.9842159+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:09.9842161+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

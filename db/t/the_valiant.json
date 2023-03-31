@@ -2,7 +2,17 @@
   "ID": "239ed3368b8c4218bac2e15dccb3f0e6",
   "Name": "The Valiant",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-20T00:31:13.1210611+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:24.0340673+00:00",
+  "LastChanged": "2023-03-31T05:57:24.0340674+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:24.0340676+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

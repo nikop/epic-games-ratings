@@ -2,7 +2,17 @@
   "ID": "a89f29e731fa404a97efdccf127385a0",
   "Name": "Monster Outbreak",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-05T11:32:19.6268315+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:19.1476938+00:00",
+  "LastChanged": "2023-03-31T05:58:19.1476939+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:19.147694+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

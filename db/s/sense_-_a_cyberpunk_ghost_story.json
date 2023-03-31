@@ -2,7 +2,17 @@
   "ID": "185b667b440444388e97f15072b3daf1",
   "Name": "Sense - A Cyberpunk Ghost Story",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:24:58.3061491+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:51.652957+00:00",
+  "LastChanged": "2023-03-31T05:57:51.6529571+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:51.6529572+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "295e40dbaf864be3b415cb8aa3980347",
   "Name": "Tennis Manager 2021",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:27:07.7815991+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:06.141822+00:00",
+  "LastChanged": "2023-03-31T05:58:06.1418221+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:06.1418222+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

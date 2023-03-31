@@ -2,7 +2,17 @@
   "ID": "2ccd3d825eff465393503a7a8ef7b5a0",
   "Name": "Aground",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:19:54.6046773+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:16.51526+00:00",
+  "LastChanged": "2023-03-31T05:57:16.5152601+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:16.5152603+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

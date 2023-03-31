@@ -2,7 +2,17 @@
   "ID": "5c99f4b1cded415592255a53c1cad617",
   "Name": "The Unfinished Swan",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:18:59.1626065+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:10.6848788+00:00",
+  "LastChanged": "2023-03-31T05:57:10.6848789+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:10.6848791+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

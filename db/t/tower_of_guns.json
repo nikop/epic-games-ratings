@@ -2,7 +2,17 @@
   "ID": "faefb44ad5354f56ad7fb348230e4557",
   "Name": "Tower of Guns",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:18:57.1193394+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:10.4219325+00:00",
+  "LastChanged": "2023-03-31T05:57:10.4219326+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:10.4219328+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

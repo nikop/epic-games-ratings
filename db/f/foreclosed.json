@@ -2,7 +2,17 @@
   "ID": "9070f19d29354e45abf338e566da7ced",
   "Name": "FORECLOSED",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:32:15.7439274+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
+  "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:41.5045364+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

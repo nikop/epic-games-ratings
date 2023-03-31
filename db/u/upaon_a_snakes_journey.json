@@ -2,7 +2,17 @@
   "ID": "87945ed7ad5b4689acb230bef0f92d18",
   "Name": "Upaon A Snakes Journey",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:27:03.460728+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:05.643958+00:00",
+  "LastChanged": "2023-03-31T05:58:05.6439581+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:05.6439583+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "0610384879594dd0b42c73e2d8af88ae",
   "Name": "Moonglow Bay",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:25:09.4929662+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:52.9355782+00:00",
+  "LastChanged": "2023-03-31T05:57:52.9355783+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:52.9355784+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

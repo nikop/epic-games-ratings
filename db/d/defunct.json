@@ -2,7 +2,17 @@
   "ID": "89bbde8e2a724c2c9451b3d3925b6322",
   "Name": "Defunct",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:33:09.6041265+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:48.7039078+00:00",
+  "LastChanged": "2023-03-31T05:58:48.7039079+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:48.703908+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

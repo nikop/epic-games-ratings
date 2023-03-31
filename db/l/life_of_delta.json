@@ -2,7 +2,17 @@
   "ID": "4c509e1dc0584230b9c88d9d13059c63",
   "Name": "Life of Delta",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-14T10:58:44.0980292+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:02.0368301+00:00",
+  "LastChanged": "2023-03-31T05:57:02.0368302+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:02.0368304+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

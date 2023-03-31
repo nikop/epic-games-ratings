@@ -3,9 +3,10 @@
   "Name": "IXION",
   "Rating": 4.54,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-07T21:57:33.3706141+00:00",
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
-  "LastChanged": "2023-03-17T22:57:40.4291874+00:00",
+  "LastChanged": "2023-03-31T05:57:24.6021007+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-11T21:57:21.9707652+00:00",
@@ -138,6 +139,12 @@
     {
       "Time": "2023-03-17T22:57:40.4291876+00:00",
       "Rating": 4.54
+    },
+    {
+      "Time": "2023-03-31T05:57:24.6021009+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

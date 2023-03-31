@@ -2,7 +2,17 @@
   "ID": "1c13238391244f828eb1441f1e110eb0",
   "Name": "Scarf",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:31:01.2766193+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:33.1229503+00:00",
+  "LastChanged": "2023-03-31T05:58:33.1229504+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:33.1229506+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

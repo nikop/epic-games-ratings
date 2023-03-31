@@ -2,7 +2,17 @@
   "ID": "109a4631336a475ca4e4a8a51cc6fe69",
   "Name": "Figment 2: Creed Valley",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-10T19:57:27.5232152+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
+  "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:26.4324405+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "658c6b5f9bf24ee6a70d05e59151c8af",
   "Name": "Seven Doors",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-02-21T11:57:52.4454821+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:43.4272245+00:00",
+  "LastChanged": "2023-03-31T05:57:43.4272246+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:43.4272248+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

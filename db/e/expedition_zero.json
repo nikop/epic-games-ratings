@@ -2,7 +2,17 @@
   "ID": "1342bc2bfc754c6a83b03cde9ecf55ea",
   "Name": "Expedition Zero",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:27:12.1189056+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:06.5587908+00:00",
+  "LastChanged": "2023-03-31T05:58:06.5587909+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:06.558791+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

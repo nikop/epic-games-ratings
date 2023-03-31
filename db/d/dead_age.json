@@ -2,7 +2,17 @@
   "ID": "6875cef1da484a8ab72dae67d00c350e",
   "Name": "Dead Age",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:20:33.2716696+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:20.3908125+00:00",
+  "LastChanged": "2023-03-31T05:57:20.3908126+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:20.3908127+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "6a70006d598948bfa6c71ceb334ad635",
   "Name": "3 out of 10, EP 5: The Rig Is Up!",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:29:04.1552247+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:17.9713217+00:00",
+  "LastChanged": "2023-03-31T05:58:17.9713218+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:17.971322+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

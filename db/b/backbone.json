@@ -3,9 +3,10 @@
   "Name": "Backbone",
   "Rating": 4.33,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:23:12.4596639+00:00",
   "FirstSeenRating": "2022-10-07T12:31:08.1263406+00:00",
-  "LastChanged": "2023-01-18T19:58:01.6824015+00:00",
+  "LastChanged": "2023-03-31T05:57:39.4337449+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-07T12:31:08.126341+00:00",
@@ -74,6 +75,12 @@
     {
       "Time": "2023-01-18T19:58:01.6824017+00:00",
       "Rating": 4.33
+    },
+    {
+      "Time": "2023-03-31T05:57:39.4337452+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

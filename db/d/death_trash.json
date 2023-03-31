@@ -2,7 +2,17 @@
   "ID": "af3bde581952400fbc26b5335cd2011e",
   "Name": "Death Trash",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:31:30.2611001+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:35.7401238+00:00",
+  "LastChanged": "2023-03-31T05:58:35.7401239+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:35.7401241+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

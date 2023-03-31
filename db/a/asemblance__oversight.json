@@ -2,7 +2,17 @@
   "ID": "cee9bc2ddce74023a7327f7e71d144c6",
   "Name": "Asemblance: Oversight",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:28:01.4284989+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:11.3746064+00:00",
+  "LastChanged": "2023-03-31T05:58:11.3746065+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:11.3746067+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

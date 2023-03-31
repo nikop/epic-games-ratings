@@ -2,7 +2,17 @@
   "ID": "3428aac705b44d88beb8334780fa33bd",
   "Name": "SEASON\u00AE: A letter to the future",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-02-01T02:21:53.1981765+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
+  "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:21.5123336+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -3,9 +3,10 @@
   "Name": "2064: Read Only Memories",
   "Rating": 4.24,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:29:03.6056272+00:00",
   "FirstSeenRating": "2022-10-09T09:33:27.3361075+00:00",
-  "LastChanged": "2022-11-24T04:58:01.243233+00:00",
+  "LastChanged": "2023-03-31T05:58:17.7609638+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-09T09:33:27.3361077+00:00",
@@ -30,6 +31,12 @@
     {
       "Time": "2022-11-24T04:58:01.2432333+00:00",
       "Rating": 4.24
+    },
+    {
+      "Time": "2023-03-31T05:58:17.7609641+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

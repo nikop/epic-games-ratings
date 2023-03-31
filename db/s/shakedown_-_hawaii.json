@@ -2,7 +2,17 @@
   "ID": "plumeria",
   "Name": "Shakedown - Hawaii",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:24:09.8792248+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:46.1253649+00:00",
+  "LastChanged": "2023-03-31T05:57:46.125365+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:46.1253651+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

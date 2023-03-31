@@ -3,9 +3,10 @@
   "Name": "Everything",
   "Rating": 4.57,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:19:51.4210299+00:00",
   "FirstSeenRating": "2022-10-18T21:30:46.9754194+00:00",
-  "LastChanged": "2023-02-16T22:57:27.1909925+00:00",
+  "LastChanged": "2023-03-31T05:57:16.1693426+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-18T21:30:46.9754199+00:00",
@@ -50,6 +51,12 @@
     {
       "Time": "2023-02-16T22:57:27.1909928+00:00",
       "Rating": 4.57
+    },
+    {
+      "Time": "2023-03-31T05:57:16.1693429+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

@@ -2,7 +2,17 @@
   "ID": "2362b692c2574b4ea2184540ac8c5c10",
   "Name": "Lost Words: Beyond the Page",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:30:24.510922+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:28.9715136+00:00",
+  "LastChanged": "2023-03-31T05:58:28.9715138+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:28.971514+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "13757d00c8d345449b71d27943019ca1",
   "Name": "Sunshine Manor",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:33:03.254318+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:47.8137821+00:00",
+  "LastChanged": "2023-03-31T05:58:47.8137822+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:47.8137824+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

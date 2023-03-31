@@ -2,7 +2,17 @@
   "ID": "c8b495f1a9a34972ba0b0c46e8afec31",
   "Name": "Rain World",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-01-27T19:57:19.8877819+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:25.9902032+00:00",
+  "LastChanged": "2023-03-31T05:57:25.9902033+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:25.9902036+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

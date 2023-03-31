@@ -4,8 +4,9 @@
   "Rating": 4.61,
   "NumberOfRatings": 37,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:19:07.3866122+00:00",
-  "LastChanged": "2023-03-13T16:56:55.7576776+00:00",
+  "LastChanged": "2023-03-31T05:57:11.5463654+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:07.3866124+00:00",
@@ -159,6 +160,12 @@
     {
       "Time": "2023-03-13T16:56:55.7576779+00:00",
       "Rating": 4.61
+    },
+    {
+      "Time": "2023-03-31T05:57:11.546366+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

@@ -2,7 +2,17 @@
   "ID": "db15036add63431c85815502bd8e384b",
   "Name": "REPLIKATOR",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-09-06T17:30:43.0249116+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:12.6901019+00:00",
+  "LastChanged": "2023-03-31T05:57:12.6901019+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:12.6901021+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

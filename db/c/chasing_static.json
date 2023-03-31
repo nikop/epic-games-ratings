@@ -2,7 +2,17 @@
   "ID": "54de201ca03e45e68132e717c634f09d",
   "Name": "Chasing Static",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-09-03T22:01:00.1341157+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:21.2502685+00:00",
+  "LastChanged": "2023-03-31T05:57:21.2502686+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:21.2502688+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

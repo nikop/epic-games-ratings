@@ -2,7 +2,17 @@
   "ID": "9b9fa3842d42461195aae2ccc979807d",
   "Name": "Wunderdoktor",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:22:06.1643365+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:31.5595462+00:00",
+  "LastChanged": "2023-03-31T05:57:31.5595463+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:31.5595469+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "221c4f10ac5d4e818008b97bcfee6cab",
   "Name": "Tyrants Blessing",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-08-09T05:01:43.0367169+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:10.0905962+00:00",
+  "LastChanged": "2023-03-31T05:58:10.0905963+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:10.0905965+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

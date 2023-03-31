@@ -2,7 +2,17 @@
   "ID": "be4b391bc31d465ebeba92b9b822b798",
   "Name": "Milky Way Prince \u2013 The Vampire Star",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:20:04.2350712+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:17.4073625+00:00",
+  "LastChanged": "2023-03-31T05:57:17.4073626+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:17.4073628+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

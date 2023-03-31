@@ -2,7 +2,17 @@
   "ID": "a3968b24e9064e17b54aa605e4fc9ffc",
   "Name": "There Is No Light",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-09-20T07:01:50.8255032+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:58.6318904+00:00",
+  "LastChanged": "2023-03-31T05:57:58.6318905+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:58.6318906+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "25b6108a1b4e4f23bdd29a37e68567fa",
   "Name": "Hirilun",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:33:02.2780892+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:47.6582149+00:00",
+  "LastChanged": "2023-03-31T05:58:47.658215+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:47.6582152+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

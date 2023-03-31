@@ -2,7 +2,17 @@
   "ID": "5a7b7ab33eb145e99b4a89eccc914753",
   "Name": "Wunderling DX",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:31:45.6194368+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:37.2849807+00:00",
+  "LastChanged": "2023-03-31T05:58:37.2849808+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:37.284981+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

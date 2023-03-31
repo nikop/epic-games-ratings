@@ -2,7 +2,17 @@
   "ID": "29e93200bb53431a961afc53e39fb9c8",
   "Name": "The Falconeer: Standard Edition",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:21:35.086459+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:27.476237+00:00",
+  "LastChanged": "2023-03-31T05:57:27.4762371+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:27.4762374+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

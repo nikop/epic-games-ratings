@@ -2,7 +2,17 @@
   "ID": "d3cd5da88f95469fb834c7eb7382a1fc",
   "Name": "To The Rescue",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:32:21.2652426+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:42.126936+00:00",
+  "LastChanged": "2023-03-31T05:58:42.1269361+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:42.1269364+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

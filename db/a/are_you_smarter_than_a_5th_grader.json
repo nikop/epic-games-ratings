@@ -2,7 +2,17 @@
   "ID": "1293d5a9bfc84e7e8574d02b6ee5a3af",
   "Name": "Are You Smarter Than A 5th Grader",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-08-27T22:01:48.6975114+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
+  "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:18.5619773+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

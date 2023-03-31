@@ -2,7 +2,17 @@
   "ID": "78683b0edafd4a978a5ab61a7f6b0594",
   "Name": "Tunche",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:21:10.1699893+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:24.4690387+00:00",
+  "LastChanged": "2023-03-31T05:57:24.4690388+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:24.469039+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

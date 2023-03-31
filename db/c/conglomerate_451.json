@@ -2,7 +2,17 @@
   "ID": "f5527514b1e04cbaa0a68aa10a6b8378",
   "Name": "Conglomerate 451",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:29:08.7050953+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:18.5253389+00:00",
+  "LastChanged": "2023-03-31T05:58:18.525339+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:18.5253392+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

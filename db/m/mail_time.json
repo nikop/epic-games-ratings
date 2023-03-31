@@ -2,7 +2,17 @@
   "ID": "785719d6f46649018bf83b6832f6f65a",
   "Name": "Mail Time",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:27:11.6423883+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:06.4596731+00:00",
+  "LastChanged": "2023-03-31T05:58:06.4596732+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:06.4596734+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

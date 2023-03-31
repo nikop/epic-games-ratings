@@ -2,7 +2,17 @@
   "ID": "f89c6ace5ad646039f92408601334491",
   "Name": "Mars Base",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-20T18:31:40.8814837+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:32.1644396+00:00",
+  "LastChanged": "2023-03-31T05:57:32.1644397+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:32.1644397+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

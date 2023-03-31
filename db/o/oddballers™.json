@@ -2,7 +2,17 @@
   "ID": "a94166dbb96e4630af7044cb995d49f7",
   "Name": "OddBallers\u2122",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-16T16:58:14.5547981+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:32.5048421+00:00",
+  "LastChanged": "2023-03-31T05:57:32.5048422+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:32.5048424+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

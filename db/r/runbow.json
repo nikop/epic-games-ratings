@@ -3,9 +3,10 @@
   "Name": "Runbow",
   "Rating": 4.46,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-09-29T18:01:57.9994365+00:00",
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
-  "LastChanged": "2022-12-04T19:57:13.9537733+00:00",
+  "LastChanged": "2023-03-31T05:57:38.188757+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-01T13:01:20.7436539+00:00",
@@ -154,6 +155,12 @@
     {
       "Time": "2022-12-04T19:57:13.9537734+00:00",
       "Rating": 4.46
+    },
+    {
+      "Time": "2023-03-31T05:57:38.1887575+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

@@ -2,7 +2,17 @@
   "ID": "2ebac9c446314673836958b3238593f6",
   "Name": "Crowns and Pawns: Kingdom of Deceit",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:24:49.2167056+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:50.3533998+00:00",
+  "LastChanged": "2023-03-31T05:57:50.3533999+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:50.3534+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

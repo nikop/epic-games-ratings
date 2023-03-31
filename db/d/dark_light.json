@@ -3,9 +3,10 @@
   "Name": "Dark Light",
   "Rating": 4.31,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:32:51.3406723+00:00",
   "FirstSeenRating": "2022-11-17T06:58:12.9972323+00:00",
-  "LastChanged": "2023-03-19T13:10:49.9491351+00:00",
+  "LastChanged": "2023-03-31T05:58:45.9838932+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-17T06:58:12.9972326+00:00",
@@ -30,6 +31,12 @@
     {
       "Time": "2023-03-19T13:10:49.9491353+00:00",
       "Rating": 4.31
+    },
+    {
+      "Time": "2023-03-31T05:58:45.9838933+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

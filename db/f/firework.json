@@ -3,9 +3,10 @@
   "Name": "Firework",
   "Rating": 4.89,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:26:13.2669751+00:00",
   "FirstSeenRating": "2022-09-28T03:32:11.0204001+00:00",
-  "LastChanged": "2022-12-06T19:57:47.6546935+00:00",
+  "LastChanged": "2023-03-31T05:58:00.8298132+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-28T03:32:11.0204007+00:00",
@@ -26,6 +27,12 @@
     {
       "Time": "2022-12-06T19:57:47.6546936+00:00",
       "Rating": 4.89
+    },
+    {
+      "Time": "2023-03-31T05:58:00.8298134+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

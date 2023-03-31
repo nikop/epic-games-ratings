@@ -3,9 +3,10 @@
   "Name": "The Uncertain: Light at the End",
   "Rating": 3.94,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:32:49.9129709+00:00",
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
-  "LastChanged": "2022-12-27T02:02:25.8960128+00:00",
+  "LastChanged": "2023-03-31T05:58:45.816959+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-10T07:33:50.0588665+00:00",
@@ -38,6 +39,12 @@
     {
       "Time": "2022-12-27T02:02:25.8960129+00:00",
       "Rating": 3.94
+    },
+    {
+      "Time": "2023-03-31T05:58:45.8169592+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

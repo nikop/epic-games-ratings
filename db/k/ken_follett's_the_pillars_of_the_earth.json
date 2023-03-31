@@ -438,10 +438,14 @@
   "Tags": [
     {
       "Text": "This game features Easy Puzzles",
+      "Prefix": "This game features",
+      "Type": "Easy Puzzles",
       "Count": 147
     },
     {
       "Text": "In this game, your choices Impact the Story",
+      "Prefix": "In this game, your choices",
+      "Type": "Impact the Story",
       "Count": 39
     }
   ]

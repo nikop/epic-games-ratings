@@ -2,7 +2,17 @@
   "ID": "26b9eeb6f649400d9b1d0426b7de9823",
   "Name": "Soccer Story",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-02T09:58:34.5838736+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:41.4474304+00:00",
+  "LastChanged": "2023-03-31T05:58:41.4474305+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:41.4474307+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

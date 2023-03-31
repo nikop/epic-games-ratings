@@ -2,7 +2,17 @@
   "ID": "6b2ba3389f034a388f602047551b0bf5",
   "Name": "Going Under",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:26:44.4954985+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:03.8880203+00:00",
+  "LastChanged": "2023-03-31T05:58:03.8880204+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:03.8880205+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

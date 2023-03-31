@@ -3,9 +3,10 @@
   "Name": "Hi-Fi RUSH",
   "Rating": 4.91,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-01-26T02:08:08.7515496+00:00",
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
-  "LastChanged": "2023-03-28T04:58:25.9491263+00:00",
+  "LastChanged": "2023-03-31T05:58:17.1837263+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-17T04:58:03.9003744+00:00",
@@ -30,6 +31,12 @@
     {
       "Time": "2023-03-28T04:58:25.9491265+00:00",
       "Rating": 4.91
+    },
+    {
+      "Time": "2023-03-31T05:58:17.1837265+00:00",
+      "Rating": 4.91,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

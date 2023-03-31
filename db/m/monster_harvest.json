@@ -2,7 +2,17 @@
   "ID": "5c744d37f3a24e81aaee7eac20e19f0d",
   "Name": "Monster Harvest",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-11-05T01:02:08.2350013+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:23.9307508+00:00",
+  "LastChanged": "2023-03-31T05:58:23.9307509+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:23.9307511+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

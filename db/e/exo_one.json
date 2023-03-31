@@ -2,7 +2,17 @@
   "ID": "8a84f291e373466d9b7cc9f7cea4b2e6",
   "Name": "Exo One",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:24:11.7911765+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:46.2956858+00:00",
+  "LastChanged": "2023-03-31T05:57:46.2956859+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:46.2956861+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -3,13 +3,20 @@
   "Name": "Hotel Renovator",
   "Rating": 4.35,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-07T20:57:17.7123218+00:00",
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
-  "LastChanged": "2023-03-30T21:57:33.3986382+00:00",
+  "LastChanged": "2023-03-31T05:57:31.9854553+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-30T21:57:33.3986384+00:00",
       "Rating": 4.35
+    },
+    {
+      "Time": "2023-03-31T05:57:31.9854555+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

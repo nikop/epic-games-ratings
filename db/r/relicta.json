@@ -486,10 +486,14 @@
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
+      "Prefix": "This game features",
+      "Type": "Challenging Puzzles",
       "Count": 189
     },
     {
       "Text": "In this game, your choices Don\u0027t Impact the Story",
+      "Prefix": "In this game, your choices",
+      "Type": "Don\u0027t Impact the Story",
       "Count": 65
     }
   ]

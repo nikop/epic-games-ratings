@@ -2,7 +2,17 @@
   "ID": "f4bbbc20a6b74295ac82b7c258739bff",
   "Name": "3 out of 10, EP 3: Pivot Like A Champion",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:24:21.2039808+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:47.5049458+00:00",
+  "LastChanged": "2023-03-31T05:57:47.5049459+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:47.504946+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

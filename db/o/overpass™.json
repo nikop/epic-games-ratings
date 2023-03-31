@@ -3,9 +3,10 @@
   "Name": "OVERPASS\u2122",
   "Rating": 4.21,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:18:25.1920106+00:00",
   "FirstSeenRating": "2022-09-27T09:01:01.2666865+00:00",
-  "LastChanged": "2022-12-09T19:57:07.4207198+00:00",
+  "LastChanged": "2023-03-31T05:57:06.9449056+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-27T09:01:01.2666869+00:00",
@@ -26,6 +27,12 @@
     {
       "Time": "2022-12-09T19:57:07.4207204+00:00",
       "Rating": 4.21
+    },
+    {
+      "Time": "2023-03-31T05:57:06.944906+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

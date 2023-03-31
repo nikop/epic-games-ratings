@@ -2,7 +2,17 @@
   "ID": "c237dc4307b74e4e865d7f79e7ba4c78",
   "Name": "Star Vikings Forever",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-11-05T15:32:17.5669827+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:28.4422655+00:00",
+  "LastChanged": "2023-03-31T05:58:28.4422657+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:28.4422659+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "2ffca7b804814a12a367c5100fb000f5",
   "Name": "Chains",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-08-28T03:02:25.0656096+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:35.9949935+00:00",
+  "LastChanged": "2023-03-31T05:58:35.9949937+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:35.9949939+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

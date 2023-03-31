@@ -2,7 +2,17 @@
   "ID": "06cc983ef896457fa4e36e2039576b47",
   "Name": "Penko Park",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:22:52.1278831+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:36.6059982+00:00",
+  "LastChanged": "2023-03-31T05:57:36.6059983+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:36.6059985+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -96,6 +96,8 @@
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
       "Count": 20
     }
   ]

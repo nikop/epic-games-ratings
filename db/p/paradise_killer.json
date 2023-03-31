@@ -2,7 +2,17 @@
   "ID": "88f877d800874f1d8a503ef29d919e38",
   "Name": "Paradise Killer",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:20:58.5981666+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:23.3080567+00:00",
+  "LastChanged": "2023-03-31T05:57:23.3080568+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:23.3080571+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "aac5ef68f6ce4c20aea4c3e722873070",
   "Name": "A Musical Story",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:20:38.213412+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
+  "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:21.0267679+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

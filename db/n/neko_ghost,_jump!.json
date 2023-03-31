@@ -2,7 +2,17 @@
   "ID": "c4c7d3cd0a2f4ea2bf7d4a57e46e8d68",
   "Name": "Neko Ghost, Jump!",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:28:49.0656384+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:15.8398465+00:00",
+  "LastChanged": "2023-03-31T05:58:15.8398466+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:15.8398467+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

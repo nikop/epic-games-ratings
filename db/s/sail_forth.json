@@ -2,7 +2,17 @@
   "ID": "d93cf08971eb4920862a95870a051f81",
   "Name": "Sail Forth",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-22T16:58:05.6186581+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:32.4374953+00:00",
+  "LastChanged": "2023-03-31T05:58:32.4374954+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:32.4374956+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

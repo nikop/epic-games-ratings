@@ -2,7 +2,17 @@
   "ID": "2bcf2fdc85594071846aa803926b8681",
   "Name": "From Dust",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-02-19T16:58:32.7059569+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:46.915713+00:00",
+  "LastChanged": "2023-03-31T05:58:46.9157132+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:46.9157134+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

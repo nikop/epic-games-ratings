@@ -3,9 +3,10 @@
   "Name": "Jackbox Party Pack 3",
   "Rating": 4.96,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:30:19.1154075+00:00",
   "FirstSeenRating": "2022-10-04T19:03:12.7540662+00:00",
-  "LastChanged": "2022-11-02T16:32:43.1321826+00:00",
+  "LastChanged": "2023-03-31T05:58:28.0252344+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-04T19:03:12.7540667+00:00",
@@ -14,6 +15,12 @@
     {
       "Time": "2022-11-02T16:32:43.1321828+00:00",
       "Rating": 4.96
+    },
+    {
+      "Time": "2023-03-31T05:58:28.0252346+00:00",
+      "Rating": 4.96,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

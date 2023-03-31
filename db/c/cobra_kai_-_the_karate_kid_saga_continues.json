@@ -2,7 +2,17 @@
   "ID": "a89ff9c697d64dceb20519213bd50f4c",
   "Name": "Cobra Kai - The Karate Kid Saga Continues",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:32:00.6407548+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:39.2216112+00:00",
+  "LastChanged": "2023-03-31T05:58:39.2216113+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:39.2216114+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

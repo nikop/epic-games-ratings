@@ -2,7 +2,17 @@
   "ID": "281f6bb206c34730901f78aea5d3357a",
   "Name": "XIII",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-09-21T17:02:07.347856+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:04.6221882+00:00",
+  "LastChanged": "2023-03-31T05:58:04.6221883+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:04.6221886+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

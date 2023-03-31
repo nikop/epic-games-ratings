@@ -2,7 +2,17 @@
   "ID": "a5c7f255d82b45c29d9ae3e3d2e5563a",
   "Name": "The Case of the Golden Idol",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-24T17:57:36.1252473+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
+  "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:12.5416793+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

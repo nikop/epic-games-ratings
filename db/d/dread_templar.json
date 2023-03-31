@@ -2,7 +2,17 @@
   "ID": "195d0bec22bf4b63aab10e4b40f5bf2e",
   "Name": "Dread Templar",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:24:09.3993741+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:45.995399+00:00",
+  "LastChanged": "2023-03-31T05:57:45.9953991+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:45.9953992+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

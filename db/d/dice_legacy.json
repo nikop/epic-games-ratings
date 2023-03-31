@@ -3,9 +3,10 @@
   "Name": "Dice Legacy",
   "Rating": 4.29,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:22:02.0247279+00:00",
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
-  "LastChanged": "2023-01-29T15:57:21.4703794+00:00",
+  "LastChanged": "2023-03-31T05:57:30.891724+00:00",
   "RatingHistory": [
     {
       "Time": "2023-01-10T11:57:19.8134476+00:00",
@@ -14,6 +15,12 @@
     {
       "Time": "2023-01-29T15:57:21.4703796+00:00",
       "Rating": 4.29
+    },
+    {
+      "Time": "2023-03-31T05:57:30.8917246+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

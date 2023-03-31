@@ -2,7 +2,17 @@
   "ID": "9105f33b8d1743b6affbeeeec46d5df4",
   "Name": "Chicken Assassin Reloaded",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:31:45.1616581+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:37.2049403+00:00",
+  "LastChanged": "2023-03-31T05:58:37.2049404+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:37.2049407+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

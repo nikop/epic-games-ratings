@@ -3,10 +3,10 @@
   "Name": "Genshin Impact",
   "Rating": 4.68,
   "NumberOfRatings": 219180,
-  "NumberOfAwards": 1223942,
+  "NumberOfAwards": 1224128,
   "NumberOfAwardsMax": 278465,
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2023-01-05T18:58:01.3317214+00:00",
+  "LastChanged": "2023-03-31T05:57:42.759836+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:42.3518765+00:00",
@@ -3696,51 +3696,79 @@
     {
       "Time": "2023-01-05T18:58:01.3317407+00:00",
       "Rating": 4.68
+    },
+    {
+      "Time": "2023-03-31T05:57:42.7598361+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1224128,
+      "NumberOfAwardsMax": 278465
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
       "Count": 278465
     },
     {
       "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
       "Count": 122633
     },
     {
       "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
       "Count": 116180
     },
     {
       "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
       "Count": 105774
     },
     {
       "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
       "Count": 101266
     },
     {
       "Text": "This game is Highly Recommended",
-      "Count": 102171
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 102357
     },
     {
       "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
       "Count": 103047
     },
     {
       "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
       "Count": 53865
     },
     {
       "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
       "Count": 98075
     },
     {
       "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
       "Count": 98675
     },
     {
       "Text": "This game has Beautiful Visuals",
+      "Prefix": "This game has",
+      "Type": "Beautiful Visuals",
       "Count": 97656
     }
   ]

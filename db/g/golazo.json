@@ -2,7 +2,17 @@
   "ID": "da9399071b4949f1a0c134528da61816",
   "Name": "Golazo",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:33:10.077628+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:48.7565867+00:00",
+  "LastChanged": "2023-03-31T05:58:48.7565868+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:48.7565871+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

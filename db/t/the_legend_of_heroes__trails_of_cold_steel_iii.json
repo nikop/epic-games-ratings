@@ -2,7 +2,17 @@
   "ID": "cb54020e6f7344368b8b14b20d63952a",
   "Name": "The Legend of Heroes: Trails of Cold Steel III",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:17:00.7844929+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:56:57.3788928+00:00",
+  "LastChanged": "2023-03-31T05:56:57.3788929+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:56:57.3788931+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

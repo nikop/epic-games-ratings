@@ -2,7 +2,17 @@
   "ID": "4d7cfa0547184108b138ebd0b3efdc24",
   "Name": "Ravens Hike",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:24:38.9033516+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:49.4416797+00:00",
+  "LastChanged": "2023-03-31T05:57:49.4416798+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:49.4416799+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "9c7a70d78df948ddaf1b51722b16d6b8",
   "Name": "Evan\u0027s Remains",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:27:26.089164+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:08.1301026+00:00",
+  "LastChanged": "2023-03-31T05:58:08.1301028+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:08.1301029+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

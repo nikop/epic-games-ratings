@@ -2,7 +2,17 @@
   "ID": "f82989cf20a747289a0dfa4987ef8fbd",
   "Name": "Nira",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-11-12T02:45:37.0323437+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:17.0970534+00:00",
+  "LastChanged": "2023-03-31T05:58:17.0970535+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:17.0970536+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

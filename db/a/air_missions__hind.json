@@ -2,7 +2,17 @@
   "ID": "05cd7449db434e1088b1c72b74849da7",
   "Name": "Air Missions: HIND",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:27:40.1235725+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:09.3933638+00:00",
+  "LastChanged": "2023-03-31T05:58:09.3933639+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:09.3933639+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

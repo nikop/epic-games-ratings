@@ -2,7 +2,17 @@
   "ID": "49c0ed7b0cc94825a13c3c2ca21ed265",
   "Name": "Doodle God",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:31:33.9017854+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
+  "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:36.1213417+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

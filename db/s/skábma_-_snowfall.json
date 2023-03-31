@@ -2,7 +2,17 @@
   "ID": "d3278d24cdbe499cb01bbd49fc00035d",
   "Name": "Sk\u00E1bma - Snowfall",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:28:37.7322136+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:14.1155101+00:00",
+  "LastChanged": "2023-03-31T05:58:14.1155102+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:14.1155103+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "5b09a6b974f0440097567beb6db5ae06",
   "Name": "Project Pastorate",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-23T04:01:52.0458243+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:08.8932795+00:00",
+  "LastChanged": "2023-03-31T05:58:08.8932796+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:08.8932799+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

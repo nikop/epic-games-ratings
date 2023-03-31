@@ -2,7 +2,17 @@
   "ID": "f722b3e93a524c6090958039d80943a7",
   "Name": "The Pegasus Expedition",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-21T21:30:31.9703237+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:01.61111+00:00",
+  "LastChanged": "2023-03-31T05:57:01.6111102+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:01.6111103+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

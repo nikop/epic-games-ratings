@@ -2,7 +2,17 @@
   "ID": "55ac8e9b72be4f7881f740de2fb80ce9",
   "Name": "Atrio: The Dark Wild",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:30:38.7814272+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:30.57182+00:00",
+  "LastChanged": "2023-03-31T05:58:30.5718201+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:30.5718203+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

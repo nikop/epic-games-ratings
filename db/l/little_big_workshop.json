@@ -3,9 +3,10 @@
   "Name": "Little Big Workshop",
   "Rating": 4.3,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:22:20.9578996+00:00",
   "FirstSeenRating": "2022-10-23T19:31:08.0358175+00:00",
-  "LastChanged": "2023-02-25T03:57:27.8731626+00:00",
+  "LastChanged": "2023-03-31T05:57:32.7408744+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-23T19:31:08.0358179+00:00",
@@ -38,6 +39,12 @@
     {
       "Time": "2023-02-25T03:57:27.8731629+00:00",
       "Rating": 4.3
+    },
+    {
+      "Time": "2023-03-31T05:57:32.7408746+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

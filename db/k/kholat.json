@@ -2,7 +2,17 @@
   "ID": "1b7be718900a412696034cbffdc27820",
   "Name": "Kholat",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-02-24T16:58:26.7953234+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:29.5789887+00:00",
+  "LastChanged": "2023-03-31T05:58:29.5789888+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:29.5789891+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

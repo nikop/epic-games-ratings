@@ -3,9 +3,10 @@
   "Name": "GNOG",
   "Rating": 4.68,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:23:24.0704964+00:00",
   "FirstSeenRating": "2022-11-16T04:59:22.0834451+00:00",
-  "LastChanged": "2023-03-12T17:57:58.4633863+00:00",
+  "LastChanged": "2023-03-31T05:57:40.8774842+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-16T04:59:22.0834457+00:00",
@@ -30,6 +31,12 @@
     {
       "Time": "2023-03-12T17:57:58.4633866+00:00",
       "Rating": 4.68
+    },
+    {
+      "Time": "2023-03-31T05:57:40.8774843+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

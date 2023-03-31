@@ -2,7 +2,17 @@
   "ID": "018b24db743b4460aeb22bf71e8437c7",
   "Name": "Monorail Stories",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-29T11:02:45.0390394+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:44.1772361+00:00",
+  "LastChanged": "2023-03-31T05:58:44.1772362+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:44.1772364+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

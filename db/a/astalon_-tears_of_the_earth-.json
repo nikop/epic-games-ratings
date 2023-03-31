@@ -2,7 +2,17 @@
   "ID": "5e09944aaced4155ac9463196b5deada",
   "Name": "Astalon -Tears of the Earth-",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:18:20.7821607+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
+  "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:06.6585969+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

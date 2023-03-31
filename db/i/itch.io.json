@@ -2,7 +2,17 @@
   "ID": "5688a1fee5204ee4968b96e70c75f50b",
   "Name": "Itch.io",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:28:33.6019363+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:13.5629637+00:00",
+  "LastChanged": "2023-03-31T05:58:13.5629638+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:13.562964+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

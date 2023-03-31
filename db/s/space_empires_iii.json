@@ -2,7 +2,17 @@
   "ID": "8a8952d2270c4fbd833efc9d4903f14f",
   "Name": "Space Empires III",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-09-26T10:32:03.1583004+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:23.1659765+00:00",
+  "LastChanged": "2023-03-31T05:58:23.1659766+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:23.1659767+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

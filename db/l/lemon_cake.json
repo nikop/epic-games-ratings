@@ -2,7 +2,17 @@
   "ID": "3eae9135a71f43a288f3b683fe83bc11",
   "Name": "Lemon Cake",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-01T04:31:59.3146976+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
+  "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:18.6780258+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

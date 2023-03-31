@@ -4,8 +4,9 @@
   "Rating": 4.28,
   "NumberOfRatings": 124,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
-  "LastChanged": "2023-03-30T13:11:25.2368124+00:00",
+  "LastChanged": "2023-03-31T05:57:50.966626+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:52.8123952+00:00",
@@ -404,15 +405,25 @@
     {
       "Time": "2023-03-30T13:11:25.2368127+00:00",
       "Rating": 4.28
+    },
+    {
+      "Time": "2023-03-31T05:57:50.9666263+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
+      "Prefix": "",
+      "Type": "",
       "Count": 83
     },
     {
       "Text": "This game has Great Boss Battles",
+      "Prefix": "",
+      "Type": "",
       "Count": 24
     }
   ]

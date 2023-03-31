@@ -3,10 +3,10 @@
   "Name": "Total War: WARHAMMER",
   "Rating": 4.58,
   "NumberOfRatings": 8439,
-  "NumberOfAwards": 13581,
+  "NumberOfAwards": 13582,
   "NumberOfAwardsMax": 5908,
   "FirstSeen": "2022-07-22T20:19:32.4449837+00:00",
-  "LastChanged": "2022-10-09T16:01:02.9660073+00:00",
+  "LastChanged": "2023-03-31T05:57:14.0923608+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:32.4449839+00:00",
@@ -2884,59 +2884,91 @@
     {
       "Time": "2022-10-09T16:01:02.9660076+00:00",
       "Rating": 4.58
+    },
+    {
+      "Time": "2023-03-31T05:57:14.092361+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13582,
+      "NumberOfAwardsMax": 5908
     }
   ],
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
       "Count": 5908
     },
     {
       "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
       "Count": 936
     },
     {
       "Text": "This game is Extremely Fun",
-      "Count": 888
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 889
     },
     {
       "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
       "Count": 858
     },
     {
       "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
       "Count": 929
     },
     {
       "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
       "Count": 828
     },
     {
       "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
       "Count": 829
     },
     {
       "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
       "Count": 811
     },
     {
       "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
       "Count": 794
     },
     {
       "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
       "Count": 631
     },
     {
       "Text": "This game has Unique Visuals",
+      "Prefix": "",
+      "Type": "",
       "Count": 226
     },
     {
       "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
       "Count": 800
     },
     {
       "Text": "This game has a Creative Community",
+      "Prefix": "",
+      "Type": "",
       "Count": 119
     }
   ]

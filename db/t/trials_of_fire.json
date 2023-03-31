@@ -2,7 +2,17 @@
   "ID": "cc56bfab64424c71b9109bc0607a00dd",
   "Name": "Trials of Fire",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:26:53.2283987+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:04.6975561+00:00",
+  "LastChanged": "2023-03-31T05:58:04.6975562+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:04.6975567+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

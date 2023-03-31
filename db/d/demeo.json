@@ -2,7 +2,17 @@
   "ID": "2fc1f2a89cc9472f9f09807c2a4ccd8c",
   "Name": "Demeo",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-16T19:58:20.4626151+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:02.6583894+00:00",
+  "LastChanged": "2023-03-31T05:58:02.6583895+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:02.6583897+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

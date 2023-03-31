@@ -2,7 +2,17 @@
   "ID": "ec47caf26e574aa882d96fc924afc291",
   "Name": "The Jackbox Party Starter",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:27:13.3796122+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:06.5607145+00:00",
+  "LastChanged": "2023-03-31T05:58:06.5607146+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:06.5607148+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

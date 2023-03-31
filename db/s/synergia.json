@@ -2,7 +2,17 @@
   "ID": "52b2abce9b65471dbedf72c90cf69b54",
   "Name": "Synergia",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:18:27.6055508+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:07.0768645+00:00",
+  "LastChanged": "2023-03-31T05:57:07.0768646+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:07.0768648+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

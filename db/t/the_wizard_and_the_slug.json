@@ -2,7 +2,17 @@
   "ID": "3a0c580a3a64493ba8495522f57d745c",
   "Name": "The Wizard and The Slug",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:18:43.7686956+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:09.1656691+00:00",
+  "LastChanged": "2023-03-31T05:57:09.1656692+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:09.1656694+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

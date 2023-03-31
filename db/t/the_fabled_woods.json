@@ -2,7 +2,17 @@
   "ID": "1b4d97cb697f4ac09ff053738f7716e4",
   "Name": "The Fabled Woods",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:30:59.6419354+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:32.9344091+00:00",
+  "LastChanged": "2023-03-31T05:58:32.9344092+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:32.9344094+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "528150dcd4a5462994608939eb783270",
   "Name": "The Last Friend",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:25:51.4323032+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:57.9751078+00:00",
+  "LastChanged": "2023-03-31T05:57:57.9751079+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:57.9751081+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

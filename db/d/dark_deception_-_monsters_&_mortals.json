@@ -2,7 +2,17 @@
   "ID": "2f05d28a79224f11862217735899c442",
   "Name": "Dark Deception - Monsters \u0026 Mortals",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-08-12T09:01:15.146428+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:20.9823113+00:00",
+  "LastChanged": "2023-03-31T05:57:20.9823114+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:20.9823117+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

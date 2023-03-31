@@ -2,7 +2,17 @@
   "ID": "meerkat",
   "Name": "Gorogoa",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:23:21.698655+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:40.7538072+00:00",
+  "LastChanged": "2023-03-31T05:57:40.7538073+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:40.7538074+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

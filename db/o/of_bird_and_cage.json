@@ -2,7 +2,17 @@
   "ID": "4c5465a18cae48ed97ea6a0ba561a965",
   "Name": "Of Bird And Cage",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:28:50.5188467+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:15.975788+00:00",
+  "LastChanged": "2023-03-31T05:58:15.975788+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:15.9757882+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

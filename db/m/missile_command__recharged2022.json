@@ -2,7 +2,17 @@
   "ID": "3cc7b441081746dba9291d05df460a2d",
   "Name": "Missile Command: Recharged2022",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-01-20T23:58:43.8320591+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:42.6226547+00:00",
+  "LastChanged": "2023-03-31T05:58:42.6226548+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:42.6226549+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

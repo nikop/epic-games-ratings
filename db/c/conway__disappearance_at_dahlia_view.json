@@ -2,7 +2,17 @@
   "ID": "329ecb6186a14fdab79d72d8e4aaebd3",
   "Name": "Conway: Disappearance at Dahlia View",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:28:51.9833654+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:16.2831841+00:00",
+  "LastChanged": "2023-03-31T05:58:16.2831842+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:16.2831843+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

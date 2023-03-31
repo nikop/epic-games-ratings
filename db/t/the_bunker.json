@@ -2,7 +2,17 @@
   "ID": "f8bbf6bb94794b1aa2161cd923d11e5e",
   "Name": "The Bunker",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-22T08:32:43.2662089+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
+  "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:47.3322752+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

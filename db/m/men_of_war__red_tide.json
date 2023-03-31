@@ -2,7 +2,17 @@
   "ID": "3280034a0ad34ff29ffb1511b2953c6b",
   "Name": "Men of War: Red Tide",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-08T15:58:28.6095554+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:07.2984114+00:00",
+  "LastChanged": "2023-03-31T05:58:07.2984115+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:07.2984118+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

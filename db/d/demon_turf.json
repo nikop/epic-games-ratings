@@ -2,7 +2,17 @@
   "ID": "3e7e7c2bc1644a25a99b3a4c4ef1ff33",
   "Name": "Demon Turf",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:22:38.4285191+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:34.6632397+00:00",
+  "LastChanged": "2023-03-31T05:57:34.6632398+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:34.66324+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

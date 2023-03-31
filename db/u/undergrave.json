@@ -2,7 +2,17 @@
   "ID": "f775879e25c241019cc8f5a96de143a9",
   "Name": "Undergrave",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:21:58.5421929+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:30.5829736+00:00",
+  "LastChanged": "2023-03-31T05:57:30.5829737+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:30.5829739+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

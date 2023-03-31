@@ -2,7 +2,17 @@
   "ID": "f5d58106a0e143758ddf2bb30dd72ae2",
   "Name": "Wheels of Aurelia",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:22:41.8978194+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:35.1228965+00:00",
+  "LastChanged": "2023-03-31T05:57:35.1228966+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:35.1228967+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

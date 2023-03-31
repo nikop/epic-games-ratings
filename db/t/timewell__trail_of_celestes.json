@@ -2,7 +2,17 @@
   "ID": "36cff9e593e64a5e85a4cf22a9bc4071",
   "Name": "Timewell: Trail Of Celestes",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-15T20:58:27.0024385+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:13.0341364+00:00",
+  "LastChanged": "2023-03-31T05:58:13.0341364+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:13.0341365+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

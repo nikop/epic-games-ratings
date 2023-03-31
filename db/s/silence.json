@@ -2,7 +2,17 @@
   "ID": "28885ec3cd4d49808b65636c95ee28c1",
   "Name": "Silence",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-08-04T10:32:09.0887096+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
+  "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:44.1033928+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

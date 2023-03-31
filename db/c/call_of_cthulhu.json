@@ -3,9 +3,10 @@
   "Name": "Call of Cthulhu",
   "Rating": 4.33,
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-09-24T13:06:25.3949128+00:00",
   "FirstSeenRating": "2022-10-03T16:01:44.7804784+00:00",
-  "LastChanged": "2023-01-25T22:57:24.6138648+00:00",
+  "LastChanged": "2023-03-31T05:57:26.3061313+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-03T16:01:44.7804788+00:00",
@@ -94,6 +95,12 @@
     {
       "Time": "2023-01-25T22:57:24.6138651+00:00",
       "Rating": 4.33
+    },
+    {
+      "Time": "2023-03-31T05:57:26.3061315+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": []

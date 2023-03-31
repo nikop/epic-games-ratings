@@ -2,7 +2,17 @@
   "ID": "53ab8bb7c3674b058a39a5ae550fc74b",
   "Name": "Danger Scavenger",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-30T02:05:07.3432153+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:21.3680111+00:00",
+  "LastChanged": "2023-03-31T05:57:21.3680112+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:21.3680115+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

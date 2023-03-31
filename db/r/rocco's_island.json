@@ -2,7 +2,17 @@
   "ID": "8abcced47a53488a874bb76ccfcd290d",
   "Name": "Rocco\u0027s Island",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:30:46.284249+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:31.3645779+00:00",
+  "LastChanged": "2023-03-31T05:58:31.364578+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:31.3645782+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

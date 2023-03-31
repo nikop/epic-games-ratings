@@ -2,7 +2,17 @@
   "ID": "c281373e4f7f45d2981dc4072c571173",
   "Name": "Pirates Outlaws",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-12T14:58:21.7862512+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:13.2996269+00:00",
+  "LastChanged": "2023-03-31T05:58:13.299627+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:13.2996271+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

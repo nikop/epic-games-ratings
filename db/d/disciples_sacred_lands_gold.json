@@ -2,7 +2,17 @@
   "ID": "7c2d0f6324ee4c6fa6a7601052f50a47",
   "Name": "Disciples Sacred Lands Gold",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-01-10T20:58:23.0460597+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:24.9786014+00:00",
+  "LastChanged": "2023-03-31T05:58:24.9786015+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:24.9786018+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

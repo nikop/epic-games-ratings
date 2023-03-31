@@ -156,10 +156,14 @@
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
+      "Prefix": "",
+      "Type": "",
       "Count": 27
     },
     {
       "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
       "Count": 20
     }
   ]

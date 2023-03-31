@@ -2,7 +2,17 @@
   "ID": "116b93c8b15c4304b7629f0861523322",
   "Name": "Aquanox Deep Descent",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:29:10.8707161+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:18.7849043+00:00",
+  "LastChanged": "2023-03-31T05:58:18.7849045+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:18.7849047+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

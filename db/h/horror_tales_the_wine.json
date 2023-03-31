@@ -2,7 +2,17 @@
   "ID": "a277815803c441fb8954b4caa7559920",
   "Name": "HORROR TALES The Wine",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:31:19.8682527+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:35.187961+00:00",
+  "LastChanged": "2023-03-31T05:58:35.1879611+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:35.1879612+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

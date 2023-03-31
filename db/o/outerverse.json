@@ -2,7 +2,17 @@
   "ID": "5d46b2bd3f2143e894866ac923f4547c",
   "Name": "Outerverse",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:32:37.1451682+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:44.161188+00:00",
+  "LastChanged": "2023-03-31T05:58:44.1611881+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:44.1611884+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

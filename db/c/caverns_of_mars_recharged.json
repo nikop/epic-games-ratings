@@ -2,7 +2,17 @@
   "ID": "42982e62eeea429582692a822624acd9",
   "Name": "Caverns of Mars Recharged",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-18T23:58:14.3050784+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:27.5050348+00:00",
+  "LastChanged": "2023-03-31T05:58:27.5050349+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:27.505035+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "5f3d58af886e4cf98a8f9e87ad9d2e2b",
   "Name": "Tinytopia",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:24:01.5764989+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:45.0651025+00:00",
+  "LastChanged": "2023-03-31T05:57:45.0651026+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:45.0651027+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

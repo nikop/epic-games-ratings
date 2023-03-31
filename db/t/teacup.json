@@ -2,7 +2,17 @@
   "ID": "820e78ed3f3b4e19a715a25181a0cdd8",
   "Name": "Teacup",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:28:44.1645677+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:15.4330682+00:00",
+  "LastChanged": "2023-03-31T05:58:15.4330682+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:15.4330683+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -2,7 +2,17 @@
   "ID": "e42a1909bc4a46b88ad8435441817b56",
   "Name": "Melatonin",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-20T02:06:00.0748142+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:11.2547734+00:00",
+  "LastChanged": "2023-03-31T05:58:11.2547735+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:11.2547735+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

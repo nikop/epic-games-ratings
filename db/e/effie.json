@@ -2,7 +2,17 @@
   "ID": "9e46ce76e796420a89e04e0d6cad61f4",
   "Name": "Effie",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-01-31T14:58:16.7856488+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:33.350726+00:00",
+  "LastChanged": "2023-03-31T05:58:33.3507261+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:33.3507263+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

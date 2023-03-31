@@ -2,7 +2,17 @@
   "ID": "c93c968f694746ffa30999d914eb5566",
   "Name": "Gravitar: Recharged",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:28:53.9538086+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:16.4913741+00:00",
+  "LastChanged": "2023-03-31T05:58:16.4913742+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:16.4913744+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

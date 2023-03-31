@@ -2,7 +2,17 @@
   "ID": "98b14e90cfc24054a301177eec6bc52d",
   "Name": "Merchant of the Skies",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:28:42.0879597+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:14.9474468+00:00",
+  "LastChanged": "2023-03-31T05:58:14.9474469+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:14.9474471+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

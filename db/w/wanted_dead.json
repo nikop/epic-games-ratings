@@ -2,7 +2,17 @@
   "ID": "2f5cbaa0276f44c9b6251e093b82eab7",
   "Name": "Wanted Dead",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-02-14T13:58:06.7067755+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:10.9472872+00:00",
+  "LastChanged": "2023-03-31T05:58:10.9472874+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:10.9472874+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

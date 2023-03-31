@@ -2,7 +2,17 @@
   "ID": "5fb8093984924ff5bfad61ae28730818",
   "Name": "Behind the Frame: The Finest Scenery",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:30:04.9137313+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:26.1927561+00:00",
+  "LastChanged": "2023-03-31T05:58:26.1927562+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:26.1927564+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

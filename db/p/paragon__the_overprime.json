@@ -296,54 +296,80 @@
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
+      "Prefix": "",
+      "Type": "",
       "Count": 109
     },
     {
       "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
       "Count": 247
     },
     {
       "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
       "Count": 282
     },
     {
       "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
       "Count": 278
     },
     {
       "Text": "This game is Great for Beginners",
+      "Prefix": "",
+      "Type": "",
       "Count": 33
     },
     {
       "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
       "Count": 237
     },
     {
       "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
       "Count": 241
     },
     {
       "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
       "Count": 263
     },
     {
       "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
       "Count": 181
     },
     {
       "Text": "This game has a Competitive Community",
+      "Prefix": "This game has a",
+      "Type": "Competitive Community",
       "Count": 157
     },
     {
       "Text": "This game is Relaxing",
+      "Prefix": "",
+      "Type": "",
       "Count": 25
     },
     {
       "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
       "Count": 249
     },
     {
       "Text": "This game has Unique Visuals",
+      "Prefix": "",
+      "Type": "",
       "Count": 40
     }
   ]

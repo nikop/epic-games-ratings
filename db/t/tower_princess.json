@@ -2,7 +2,17 @@
   "ID": "0f607d2997b04e7384c786708ee2c67a",
   "Name": "Tower Princess",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-09-11T02:32:40.0498387+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:58:39.3470193+00:00",
+  "LastChanged": "2023-03-31T05:58:39.3470194+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:58:39.3470196+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

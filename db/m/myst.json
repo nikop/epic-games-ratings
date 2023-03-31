@@ -2,7 +2,17 @@
   "ID": "c7282e7be302408db3613eef0782fc91",
   "Name": "Myst",
   "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:19:58.8058162+00:00",
-  "RatingHistory": [],
+  "FirstSeenRating": "2023-03-31T05:57:16.8502811+00:00",
+  "LastChanged": "2023-03-31T05:57:16.8502812+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T05:57:16.8502815+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }
