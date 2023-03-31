@@ -11,7 +11,7 @@ Rating: 4.89 (14,665)  (as of 23.09.2022)
 | This game is Highly Recommended | 2,088 |
 | This game has Quickly Understood Controls | 2,046 |
 | This game has Amazing Characters | 2,026 |
-| This game has Diverse Characters | 1,995 |
+| This game has Diverse Characters | 1,998 |
 | This game is Educational | 1,923 |
 | This game has a Creative Community | 1,280 |
 | This game has Obsessive Gameplay | 1,080 |
@@ -93,3 +93,4 @@ Rating: 4.89 (14,665)  (as of 23.09.2022)
 | 2022-12-09 | 4.89 | - | - |
 | 2022-12-10 | 4.90 | - | - |
 | 2022-12-19 | 4.89 | - | - |
+| 2023-03-31 | 4.89 | - | 14,079 |
