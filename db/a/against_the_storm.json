@@ -3,10 +3,11 @@
   "Name": "Against the Storm",
   "Rating": 4.81,
   "NumberOfRatings": 1845,
-  "NumberOfAwards": 2955,
+  "NumberOfAwards": 2958,
   "NumberOfAwardsMax": 414,
+  "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
-  "LastChanged": "2023-02-27T18:58:03.3587978+00:00",
+  "LastChanged": "2023-03-31T07:58:10.1559163+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:52.7561903+00:00",
@@ -1842,6 +1843,12 @@
     {
       "Time": "2023-02-27T18:58:03.358798+00:00",
       "Rating": 4.81
+    },
+    {
+      "Time": "2023-03-31T07:58:10.1559165+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 2958,
+      "NumberOfAwardsMax": 414
     }
   ],
   "Tags": [
@@ -1903,7 +1910,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 288
+      "Count": 291
     }
   ]
 }

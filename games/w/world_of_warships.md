@@ -6,8 +6,8 @@ Rating: 4.46 (4,733)  (as of 23.09.2022)
 | This game has Quickly Understood Controls | 960 |
 | This game is Relaxing | 960 |
 | This game is Extremely Fun | 930 |
+| This game has Challenging Combat | 907 |
 | This game has Competitive Players | 907 |
-| This game has Challenging Combat | 905 |
 | This game is Highly Recommended | 887 |
 | This game has Realistic Visuals | 810 |
 | This game has Amazing Storytelling | 786 |
@@ -94,3 +94,4 @@ Rating: 4.46 (4,733)  (as of 23.09.2022)
 | 2023-03-08 | 4.46 | - | - |
 | 2023-03-10 | 4.47 | - | - |
 | 2023-03-12 | 4.46 | - | - |
+| 2023-03-31 | 4.46 | - | 960 |

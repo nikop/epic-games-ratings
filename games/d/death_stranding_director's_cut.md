@@ -3,7 +3,7 @@ Rating: 4.89 (3,099)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 6,514 |
+| This game has Great Boss Battles | 6,531 |
 | This game has Amazing Storytelling | 462 |
 | This game is Great for Beginners | 437 |
 | This game has Diverse Characters | 436 |
@@ -93,4 +93,4 @@ Rating: 4.89 (3,099)  (as of 23.09.2022)
 | 2023-01-01 | 4.87 | - | - |
 | 2023-01-04 | 4.88 | - | - |
 | 2023-01-12 | 4.89 | - | - |
-| 2023-03-31 | 4.89 | - | 6,514 |
+| 2023-03-31 | 4.89 | - | 6,531 |

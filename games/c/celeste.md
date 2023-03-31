@@ -7,7 +7,7 @@ Rating: 4.92 (2,543)  (as of 23.09.2022)
 | This game is Highly Recommended | 176 |
 | This game has Amazing Storytelling | 171 |
 | This game has Beautiful Visuals | 169 |
-| This game is Extremely Fun | 163 |
+| This game is Extremely Fun | 164 |
 | This game has Quickly Understood Controls | 155 |
 | This game is Relaxing | 154 |
 | This game has Amazing Characters | 150 |
@@ -81,3 +81,4 @@ Rating: 4.92 (2,543)  (as of 23.09.2022)
 | 2022-09-21 | 4.92 | 2,514 | - |
 | 2022-09-22 | 4.92 | 2,530 | - |
 | 2022-09-23 | 4.92 | 2,543 | - |
+| 2023-03-31 | 4.92 | - | 1,389 |

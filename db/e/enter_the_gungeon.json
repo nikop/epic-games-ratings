@@ -3,10 +3,11 @@
   "Name": "Enter the Gungeon",
   "Rating": 4.85,
   "NumberOfRatings": 8617,
-  "NumberOfAwards": 13163,
+  "NumberOfAwards": 13164,
   "NumberOfAwardsMax": 7423,
+  "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:25:04.490879+00:00",
-  "LastChanged": "2022-09-24T13:06:55.9570196+00:00",
+  "LastChanged": "2023-03-31T07:24:03.0307611+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:04.4908793+00:00",
@@ -2966,6 +2967,12 @@
     {
       "Time": "2022-09-24T13:06:55.9570198+00:00",
       "Rating": 4.85
+    },
+    {
+      "Time": "2023-03-31T07:24:03.0307613+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 13164,
+      "NumberOfAwardsMax": 7423
     }
   ],
   "Tags": [
@@ -2991,7 +2998,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 830
+      "Count": 831
     },
     {
       "Text": "This game has Amazing Storytelling",

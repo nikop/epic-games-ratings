@@ -3,10 +3,11 @@
   "Name": "Railway Empire",
   "Rating": 4.52,
   "NumberOfRatings": 2155,
-  "NumberOfAwards": 1845,
+  "NumberOfAwards": 1846,
   "NumberOfAwardsMax": 269,
+  "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:18:36.383576+00:00",
-  "LastChanged": "2023-03-20T19:57:18.8112414+00:00",
+  "LastChanged": "2023-03-31T07:23:08.2114554+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:36.3835762+00:00",
@@ -1884,6 +1885,12 @@
     {
       "Time": "2023-03-20T19:57:18.8112416+00:00",
       "Rating": 4.52
+    },
+    {
+      "Time": "2023-03-31T07:23:08.2114556+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 1846,
+      "NumberOfAwardsMax": 269
     }
   ],
   "Tags": [
@@ -1921,7 +1928,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 254
+      "Count": 255
     },
     {
       "Text": "This game is Educational",
