@@ -2,15 +2,15 @@
   "ID": "0c6aee83b9b64372bf44a043001325f2",
   "Name": "NARAKA: BLADEPOINT",
   "Rating": 4.19,
-  "Ranking_Rating": 803,
+  "Ranking_Rating": 802,
   "Ranking_Popularity": 4,
   "Ranking_PopularitySum": 6,
   "NumberOfRatings": 132339,
-  "NumberOfAwards": 427660,
+  "NumberOfAwards": 427755,
   "NumberOfAwardsMax": 178394,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:17:04.1152302+00:00",
-  "LastChanged": "2023-03-31T13:08:52.3803086+00:00",
+  "LastChanged": "2023-03-31T15:56:45.4388199+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:04.1152304+00:00",
@@ -3172,6 +3172,12 @@
       "Rating": 4.19,
       "NumberOfAwards": 427660,
       "NumberOfAwardsMax": 178394
+    },
+    {
+      "Time": "2023-03-31T15:56:45.4388201+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 427755,
+      "NumberOfAwardsMax": 178394
     }
   ],
   "Tags": [
@@ -3191,7 +3197,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 66324
+      "Count": 66419
     },
     {
       "Text": "This game is Highly Recommended",

@@ -1,5 +1,5 @@
 # Scrapnaut
-Rating: 4.34 (Ranked 709)  
+Rating: 4.34 (Ranked 710)  
 Number of Ratings: 38  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 478)  
