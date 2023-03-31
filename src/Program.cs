@@ -1,4 +1,5 @@
 ﻿using EpicRatingsUpdater;
+using EpicRatingsUpdater.Markdown;
 
 using GraphQL.Client.Http;
 
@@ -335,27 +336,62 @@ foreach (var item in output)
     await File.WriteAllTextAsync(fullName, page);
 }
 
+string GamesLink(GameDbItem item)
+{
+    return "games/" + gameIndex?.Files[item.ID].Replace(@"\", "/") + ".md";
+}
+
+
+var nameTable = new MarkdownTable<GameDbItem>()
+    .AddColumn("Game", x => $"[{x.Name}]({GamesLink(x)})")
+    .AddColumn("Rating", x => MarkdownHelpers.FormatRating(x.Rating))
+    .AddColumn("Ranking", x => MarkdownHelpers.FormatRanking(x.Ranking_Rating))
+    .AddColumn("Awards", x => MarkdownHelpers.FormatVotes(x.NumberOfAwardsMax))
+    .AddColumn("Ranking", x => MarkdownHelpers.FormatRanking(x.Ranking_Popularity));
+
+var ratingTable = new MarkdownTable<GameDbItem>()
+    .AddColumn("#", x => MarkdownHelpers.FormatRanking(x.Ranking_Rating))
+    .AddColumn("Game", x => $"[{x.Name}]({GamesLink(x)})")
+    .AddColumn("Rating", x => MarkdownHelpers.FormatRating(x.Rating))
+    .AddColumn("Awards", x => MarkdownHelpers.FormatVotes(x.NumberOfAwardsMax))
+    .AddColumn("Popularity Ranking", x => MarkdownHelpers.FormatRanking(x.Ranking_Popularity));
+
+var awardsTable = new MarkdownTable<GameDbItem>()
+    .AddColumn("#", x => MarkdownHelpers.FormatRanking(x.Ranking_Popularity))
+    .AddColumn("Game", x => $"[{x.Name}]({GamesLink(x)})")
+    .AddColumn("Awards", x => MarkdownHelpers.FormatVotes(x.NumberOfAwardsMax))
+    .AddColumn("Rating", x => MarkdownHelpers.FormatRating(x.Rating))
+    .AddColumn("Rating Ranking", x => MarkdownHelpers.FormatRanking(x.Ranking_Rating));
+
+var awardsSumTable = new MarkdownTable<GameDbItem>()
+    .AddColumn("#", x => MarkdownHelpers.FormatRanking(x.Ranking_PopularitySum))
+    .AddColumn("Game", x => $"[{x.Name}]({GamesLink(x)})")
+    .AddColumn("Awards", x => MarkdownHelpers.FormatVotes(x.NumberOfAwards))
+    .AddColumn("Rating", x => MarkdownHelpers.FormatRating(x.Rating))
+    .AddColumn("Rating Ranking", x => MarkdownHelpers.FormatRanking(x.Ranking_Rating));
+
 // Markdown
 await File.WriteAllTextAsync(
     Path.Combine(path, "by_name.md"),
-    MarkdownHelpers.BuildMarkdownTable(gameIndex, filteredList.OrderBy(x => x.Name))
+    nameTable.FormatTable(filteredList.OrderBy(x => x.Name))
 );
 await File.WriteAllTextAsync(
     Path.Combine(path, "by_rating.md"), 
-    MarkdownHelpers.BuildMarkdownTable(gameIndex, filteredList.OrderByDescending(x => x.Rating).ThenBy(x => x.Name), true)
+    ratingTable.FormatTable(filteredList.OrderByDescending(x => x.Rating).ThenBy(x => x.Name))
 );
 await File.WriteAllTextAsync(
     Path.Combine(path, "by_awards.md"),
-    MarkdownHelpers.BuildMarkdownTable(gameIndex, filteredList.Where(x => x.NumberOfAwardsMax > 0).OrderByDescending(x => x.NumberOfAwardsMax).ThenBy(x => x.Name), true)
+    awardsTable.FormatTable(filteredList.Where(x => x.NumberOfAwardsMax > 0).OrderByDescending(x => x.NumberOfAwardsMax).ThenBy(x => x.Name))
 );
 await File.WriteAllTextAsync(
     Path.Combine(path, "by_awards_sum.md"),
-    MarkdownHelpers.BuildMarkdownTable(gameIndex, filteredList.Where(x => x.NumberOfAwards > 0).OrderByDescending(x => x.NumberOfAwards).ThenBy(x => x.Name), true, true)
+    awardsSumTable.FormatTable(filteredList.Where(x => x.NumberOfAwards > 0).OrderByDescending(x => x.NumberOfAwards).ThenBy(x => x.Name))
 );
 await File.WriteAllTextAsync(
     Path.Combine(path, "new_games.md"),
-    MarkdownHelpers.BuildMarkdownTable(gameIndex, filteredList.Where(x => x.FirstSeen != null && ratingsCutOffNew < x.FirstSeen).OrderByDescending(x => x.FirstSeen).ThenBy(x => x.Name), true)
+    nameTable.FormatTable(filteredList.Where(x => x.FirstSeen != null && ratingsCutOffNew < x.FirstSeen).OrderByDescending(x => x.FirstSeen).ThenBy(x => x.Name))
 );
+
 await File.WriteAllTextAsync(
     Path.Combine(path, "stats.md"),
     MarkdownHelpers.BuildMarkdownStats(filteredList, output)

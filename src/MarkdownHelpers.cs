@@ -7,7 +7,7 @@ namespace EpicRatingsUpdater
     {
         static CultureInfo usCulture = CultureInfo.GetCultureInfo("en-US");
 
-        static string FormatRating(double? rating)
+        public static string FormatRating(double? rating)
         {
             if (rating == null)
                 return "-";
@@ -15,7 +15,7 @@ namespace EpicRatingsUpdater
             return rating.Value.ToString("F2", usCulture);
         }
 
-        static string FormatRating(decimal? rating)
+        public static string FormatRating(decimal? rating)
         {
             if (rating == null)
                 return "-";
@@ -23,7 +23,7 @@ namespace EpicRatingsUpdater
             return rating.Value.ToString("F2", usCulture);
         }
 
-        static string FormatRating1digit(decimal? rating)
+        public static string FormatRating1digit(decimal? rating)
         {
             if (rating == null)
                 return "-";
@@ -31,7 +31,7 @@ namespace EpicRatingsUpdater
             return rating.Value.ToString("F1", usCulture);
         }
 
-        static string FormatVotes(int? votes)
+        public static string FormatVotes(int? votes)
         {
             if (votes == null)
                 return "-";
@@ -39,7 +39,7 @@ namespace EpicRatingsUpdater
             return votes.Value.ToString("N0", usCulture);
         }
 
-        static string FormatRanking(int? ranking)
+        public static string FormatRanking(int? ranking)
         {
             if (ranking == null)
                 return "-";
@@ -47,7 +47,7 @@ namespace EpicRatingsUpdater
             return ranking.Value.ToString("N0", usCulture);
         }
 
-        static string FormatPeriodVotes(double? votes)
+        public static string FormatPeriodVotes(double? votes)
         {
             if (votes == null)
                 return "-";
@@ -164,52 +164,6 @@ namespace EpicRatingsUpdater
                 var sub2 = h.MaxBy(x => x.NumberOfAwardsMax);
 
                 sb.AppendLine($"| {sub.Time.ToString("yyyy-MM-dd")} | {FormatRating(sub.Rating)} | {FormatVotes(sub?.NumberOfRatings)} | {FormatVotes(sub2?.NumberOfAwardsMax)} |");
-            }
-
-            return sb.ToString();
-        }
-
-        static public string BuildMarkdownTable(JsonIndexDb<GameDbItem> gameIndex, IEnumerable<GameDbItem> items, bool groupByRating = false, bool useSumAwards = false)
-        {
-            var sb = new StringBuilder();
-
-            sb.AppendLine("|  #  | Name | Rating | Number of Awards | ");
-            sb.AppendLine("| --- | ---- | ------ | ---------------- | ");
-
-            var i = 1;
-            var lastRanking = i;
-            double? lastRating = null;
-
-            foreach (var item in items)
-            {
-                var link = "games/" + gameIndex.Files[item.ID].Replace(@"\", "/") + ".md";
-
-                var displayRanking = !groupByRating ? i : (item.Rating == lastRating ? lastRanking : i);
-
-
-                sb.Append($"| {FormatRanking(displayRanking)} | [{item.Name}]({link}) | {FormatRating(item.Rating)} | ");
-
-                if (useSumAwards)
-                {
-                    sb.Append($"{FormatVotes(item.NumberOfAwards)}");
-                }
-                else if (item.NumberOfAwardsMax > 0)
-                {
-                    sb.Append($"{FormatVotes(item.NumberOfAwardsMax)}");
-                }
-                else
-                {
-                    sb.Append("-");
-                }
-
-                sb.Append(" | ");
-
-                sb.AppendLine();
-
-                lastRanking = displayRanking;
-                lastRating = item.Rating;
-
-                i++;
             }
 
             return sb.ToString();
