@@ -2,12 +2,14 @@
   "ID": "2c42520d342a46d7a6e0cfa77b4715de",
   "Name": "Dying Light Enhanced Edition",
   "Rating": 4.68,
+  "Ranking_Rating": 234,
+  "Ranking_Popularity": 73,
   "NumberOfRatings": 3181,
-  "NumberOfAwards": 11857,
+  "NumberOfAwards": 11858,
   "NumberOfAwardsMax": 3868,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:18:05.0678131+00:00",
-  "LastChanged": "2023-03-11T14:57:05.7638508+00:00",
+  "LastChanged": "2023-03-31T08:12:57.2730772+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:05.0678134+00:00",
@@ -2346,6 +2348,12 @@
     {
       "Time": "2023-03-11T14:57:05.7638511+00:00",
       "Rating": 4.68
+    },
+    {
+      "Time": "2023-03-31T08:12:57.2730774+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 11858,
+      "NumberOfAwardsMax": 3868
     }
   ],
   "Tags": [
@@ -2419,7 +2427,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 566
+      "Count": 567
     },
     {
       "Text": "This game has a Creative Community",

@@ -68,7 +68,7 @@
 | 66 | [Control](games/c/control.md) | 4.60 | 12,207 | 
 | 67 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 12,085 | 
 | 68 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 11,910 | 
-| 69 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 11,857 | 
+| 69 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 11,858 | 
 | 70 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 11,716 | 
 | 71 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 11,689 | 
 | 72 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 11,314 | 

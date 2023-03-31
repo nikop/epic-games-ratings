@@ -881,8 +881,8 @@
 | 878 | [Conarium](games/c/conarium.md) | 3.91 | - | 
 | 878 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103x Extremely Fun | 
 | 881 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | - | 
-| 882 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.86 | - | 
 | 882 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | - | 
+| 883 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.85 | - | 
 | 884 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | - | 
 | 885 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | - | 
 | 885 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,017x Extremely Fun | 

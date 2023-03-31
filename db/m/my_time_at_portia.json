@@ -2,6 +2,8 @@
   "ID": "cobra",
   "Name": "My Time At Portia",
   "Rating": 4.67,
+  "Ranking_Rating": 255,
+  "Ranking_Popularity": 94,
   "NumberOfRatings": 3894,
   "NumberOfAwards": 4675,
   "NumberOfAwardsMax": 2200,
