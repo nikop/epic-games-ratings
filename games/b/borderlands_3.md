@@ -12,7 +12,7 @@ Rating: 4.69 (151,211)  (as of 23.09.2022)
 | This game has Quickly Understood Controls | 22,977 |
 | This game is Relaxing | 22,724 |
 | This game has Amazing Characters | 22,283 |
-| This game has Unique Visuals | 21,907 |
+| This game has Unique Visuals | 21,922 |
 | This game has a Creative Community | 15,988 |
 ## Ratings History
 | Date | Rating | Number of Ratings |

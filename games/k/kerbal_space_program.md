@@ -10,7 +10,7 @@ Rating: 4.79 (-)  (as of 23.09.2022)
 | This game has a Creative Community | 259 |
 | This game has Amazing Characters | 252 |
 | This game has Amazing Storytelling | 250 |
-| This game has Challenging Combat | 193 |
+| This game has Challenging Combat | 195 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

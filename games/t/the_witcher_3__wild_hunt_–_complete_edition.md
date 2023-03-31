@@ -5,12 +5,12 @@ Rating: 4.89 (14,665)  (as of 23.09.2022)
 | ----- | ----------------- |
 | This game has Inclusive Character Customization | 14,079 |
 | This game is Extremely Fun | 2,137 |
-| This game has Amazing Storytelling | 2,122 |
+| This game has Amazing Storytelling | 2,129 |
 | This game is Great for Beginners | 2,100 |
 | This game is Relaxing | 2,089 |
 | This game is Highly Recommended | 2,088 |
 | This game has Quickly Understood Controls | 2,046 |
-| This game has Amazing Characters | 2,021 |
+| This game has Amazing Characters | 2,026 |
 | This game has Diverse Characters | 1,995 |
 | This game is Educational | 1,923 |
 | This game has a Creative Community | 1,280 |

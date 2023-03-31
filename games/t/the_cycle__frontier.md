@@ -3,7 +3,7 @@ Rating: 4.10 (15,671)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Competitive Players | 2,117 |
+| This game has Competitive Players | 2,120 |
 | This game has Challenging Combat | 2,103 |
 | This game is Highly Recommended | 2,084 |
 | This game has Quickly Understood Controls | 2,065 |

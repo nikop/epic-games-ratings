@@ -28,7 +28,7 @@
 | 26 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,156 |
 | 27 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 11,699 |
 | 28 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,617 |
-| 29 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,232 |
+| 29 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,234 |
 | 30 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,118 |
 | 31 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,115 |
 | 32 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 9,596 |
@@ -96,7 +96,7 @@
 | 94 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,200 |
 | 95 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,155 |
 | 96 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,121 |
-| 97 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,117 |
+| 97 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,120 |
 | 98 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 2,065 |
 | 99 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 2,026 |
 | 100 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 1,995 |
@@ -131,7 +131,7 @@
 | 129 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,017 |
 | 130 | [EVE Online](games/e/eve_online.md) | 4.26 | 993 |
 | 131 | [Ooblets](games/o/ooblets.md) | 4.87 | 991 |
-| 132 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 974 |
+| 132 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 979 |
 | 133 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 969 |
 | 134 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 967 |
 | 135 | [World of Warships](games/w/world_of_warships.md) | 4.46 | 960 |
@@ -195,7 +195,7 @@
 | 193 | [RimWorld](games/r/rimworld.md) | 4.89 | 391 |
 | 194 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 389 |
 | 195 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 385 |
-| 196 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 381 |
+| 196 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 382 |
 | 197 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 377 |
 | 198 | [Warface](games/w/warface.md) | 3.92 | 374 |
 | 199 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 372 |

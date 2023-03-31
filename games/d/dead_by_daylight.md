@@ -8,7 +8,7 @@ Rating: 4.53 (70,340)  (as of 23.09.2022)
 | This game is Highly Recommended | 23,933 |
 | This game is Extremely Fun | 23,927 |
 | This game has Quickly Understood Controls | 23,876 |
-| This game has Amazing Characters | 23,796 |
+| This game has Amazing Characters | 23,826 |
 | This game has Challenging Combat | 22,977 |
 | This game has Amazing Storytelling | 21,708 |
 | This game has a Competitive Community | 19,971 |

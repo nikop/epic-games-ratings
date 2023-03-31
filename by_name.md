@@ -147,7 +147,7 @@
 | 145 | [Crashlands](games/c/crashlands.md) | 4.65 | 186 |
 | 146 | [Crayta](games/c/crayta.md) | 4.19 | 50 |
 | 147 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 22 |
-| 148 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.84 | - |
+| 148 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.85 | - |
 | 149 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 169 |
 | 150 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.34 | 90 |
 | 151 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 208 |
@@ -441,8 +441,8 @@
 | 439 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | - |
 | 440 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.03 | - |
 | 441 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 538 |
-| 442 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 974 |
-| 443 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,232 |
+| 442 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 979 |
+| 443 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,234 |
 | 444 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 957 |
 | 445 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,043 |
 | 446 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 47 |
@@ -570,7 +570,7 @@
 | 568 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | - |
 | 569 | [Returnal™](games/r/returnal™.md) | 4.68 | - |
 | 570 | [Revita](games/r/revita.md) | 4.67 | - |
-| 571 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 381 |
+| 571 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 382 |
 | 572 | [RiME](games/r/rime.md) | 4.59 | - |
 | 573 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | - |
 | 574 | [RimWorld](games/r/rimworld.md) | 4.89 | 391 |
@@ -723,7 +723,7 @@
 | 721 | [The Colonists](games/t/the_colonists.md) | 4.59 | - |
 | 722 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 377 |
 | 723 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.72 | - |
-| 724 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,117 |
+| 724 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,120 |
 | 725 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 6,266 |
 | 726 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 61 |
 | 727 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 55 |

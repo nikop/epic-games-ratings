@@ -3,7 +3,7 @@ Rating: 4.87 (14,015)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 11,232 |
+| This game has Great Boss Battles | 11,234 |
 | This game has Quickly Understood Controls | 925 |
 | This game is Extremely Fun | 898 |
 | This game is Relaxing | 884 |

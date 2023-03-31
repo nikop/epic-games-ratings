@@ -10,7 +10,7 @@ Rating: 4.67 (6,825)  (as of 23.09.2022)
 | This game has Quickly Understood Controls | 1,909 |
 | This game is Relaxing | 1,856 |
 | This game is Highly Recommended | 1,780 |
-| This game has a Competitive Community | 1,576 |
+| This game has a Competitive Community | 1,586 |
 | This game has Challenging Combat | 1,214 |
 | This game has Amazing Storytelling | 1,204 |
 | This game has Obsessive Gameplay | 1,144 |

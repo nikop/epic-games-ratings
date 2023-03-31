@@ -13,7 +13,7 @@ Rating: 4.45 (14,652)  (as of 23.09.2022)
 | This game has Challenging Combat | 6,300 |
 | This game has Amazing Characters | 5,768 |
 | This game has Amazing Storytelling | 5,380 |
-| This game has a Competitive Community | 5,187 |
+| This game has a Competitive Community | 5,192 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

@@ -3,7 +3,7 @@ Rating: 4.54 (-)  (as of 23.09.2022)
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 974 |
+| This game has Inclusive Character Customization | 979 |
 | This game has Quickly Understood Controls | 118 |
 | This game is Relaxing | 117 |
 | This game is Highly Recommended | 116 |

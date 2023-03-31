@@ -14,7 +14,7 @@ Rating: 4.78 (-)  (as of 23.09.2022)
 | This game is Highly Recommended | 479 |
 | This game has Quickly Understood Controls | 457 |
 | This game has Beautiful Visuals | 455 |
-| This game has a Creative Community | 343 |
+| This game has a Creative Community | 347 |
 ## Ratings History
 | Date | Rating | Number of Ratings |
 | ---- | ------ | ----------------- |

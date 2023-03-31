@@ -4,7 +4,7 @@ Rating: 4.83 (5,898)  (as of 23.09.2022)
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Great for Beginners | 385 |
-| This game has Quickly Understood Controls | 358 |
+| This game has Quickly Understood Controls | 359 |
 | This game has Amazing Storytelling | 351 |
 | This game is Extremely Fun | 332 |
 | This game has Easy Combat | 331 |

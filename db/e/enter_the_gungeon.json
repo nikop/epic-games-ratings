@@ -3,7 +3,7 @@
   "Name": "Enter the Gungeon",
   "Rating": 4.85,
   "NumberOfRatings": 8617,
-  "NumberOfAwards": 13161,
+  "NumberOfAwards": 13163,
   "NumberOfAwardsMax": 7423,
   "FirstSeen": "2022-07-22T20:25:04.490879+00:00",
   "LastChanged": "2022-09-24T13:06:55.9570196+00:00",
@@ -2979,7 +2979,7 @@
     },
     {
       "Text": "This game has Diverse Characters",
-      "Count": 838
+      "Count": 840
     },
     {
       "Text": "This game has Challenging Combat",

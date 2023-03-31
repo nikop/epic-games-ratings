@@ -26,7 +26,7 @@
 | 24 | [Black Book](games/b/black_book.md) | 4.87 | 21 |
 | 24 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 135 |
 | 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,357 |
-| 24 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,232 |
+| 24 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,234 |
 | 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 991 |
 | 24 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 22 |
 | 24 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 1,156 |
@@ -133,7 +133,7 @@
 | 127 | [Haven](games/h/haven.md) | 4.75 | - |
 | 127 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 92 |
 | 127 | [Quake](games/q/quake.md) | 4.75 | 43 |
-| 127 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 381 |
+| 127 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 382 |
 | 127 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.75 | - |
 | 127 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | - |
 | 127 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 36 |
@@ -473,7 +473,7 @@
 | 469 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 931 |
 | 469 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 189 |
 | 469 | [IXION](games/i/ixion.md) | 4.54 | - |
-| 469 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 974 |
+| 469 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 979 |
 | 469 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 779 |
 | 469 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 32 |
 | 469 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 86 |
@@ -841,7 +841,7 @@
 | 839 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | - |
 | 839 | [Obduction](games/o/obduction.md) | 4.10 | 52 |
 | 839 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | - |
-| 839 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,117 |
+| 839 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,120 |
 | 839 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | - |
 | 839 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | - |
 | 845 | [Armored Warfare](games/a/armored_warfare.md) | 4.09 | 70 |
@@ -882,7 +882,7 @@
 | 878 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 |
 | 881 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | - |
 | 882 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | - |
-| 883 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.84 | - |
+| 883 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.85 | - |
 | 884 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | - |
 | 885 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | - |
 | 885 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,017 |
