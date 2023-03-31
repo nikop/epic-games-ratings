@@ -121,7 +121,7 @@ namespace EpicRatingsUpdater
                 var sub = h.MaxBy(x => x.NumberOfRatings)!;
                 var sub2 = h.MaxBy(x => x.NumberOfAwardsMax);
 
-                sb.AppendLine($"| {sub.Time.ToString("yyyy-MM-dd")} | {FormatRating(sub.Rating)} | {FormatVotes(sub2?.NumberOfAwardsMax ?? 0)} |");
+                sb.AppendLine($"| {sub.Time.ToString("yyyy-MM-dd")} | {FormatRating(sub.Rating)} | {FormatVotes(sub?.NumberOfRatings)} | {FormatVotes(sub2?.NumberOfAwardsMax)} |");
             }
 
             return sb.ToString();
