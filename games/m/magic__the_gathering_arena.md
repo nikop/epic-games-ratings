@@ -1,15 +1,15 @@
 # Magic: The Gathering Arena
-Rating: 4.45 (Ranked 590)  
+Rating: 4.45 (Ranked 591)  
 Number of Ratings: 14,652  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Quick Sessions): 9,611  (Ranked 32)  
-Sum: 79,678 (Ranked 15)  
+Sum: 79,696 (Ranked 15)  
 Diff (max vs sum): 17
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Great for Quick Sessions | 9,611 |
-| This game is Relaxing | 8,509 |
+| This game is Relaxing | 8,518 |
 | This game has Competitive Players | 8,467 |
 | This game has Quickly Understood Controls | 8,026 |
 | This game has Diverse Characters | 7,662 |
@@ -18,7 +18,7 @@ Diff (max vs sum): 17
 | This game has Challenging Combat | 6,306 |
 | This game has Amazing Characters | 5,772 |
 | This game has Amazing Storytelling | 5,384 |
-| This game has a Competitive Community | 5,192 |
+| This game has a Competitive Community | 5,201 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -91,3 +91,4 @@ Diff (max vs sum): 17
 | 2023-03-18 | 4.45 | - | - |
 | 2023-03-21 | 4.45 | - | - |
 | 2023-03-31 | 4.45 | - | 9,611 |
+| 2023-04-01 | 4.45 | - | 9,611 |

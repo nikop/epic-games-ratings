@@ -1,5 +1,5 @@
 # SMITE
-Rating: 4.45 (Ranked 590)  
+Rating: 4.45 (Ranked 591)  
 Number of Ratings: 6,749  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 3,554  (Ranked 77)  
