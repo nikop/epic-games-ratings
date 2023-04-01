@@ -1,10 +1,10 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 1,185,585 | 4.30 | 738 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 367,448 | 4.51 | 509 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 368,281 | 4.51 | 509 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 279,283 | 4.68 | 236 |
 | 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 178,517 | 4.19 | 803 |
-| 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 151,086 | 4.69 | 213 |
+| 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 151,576 | 4.69 | 213 |
 | 6 | [Fall Guys](games/f/fall_guys.md) | 137,046 | 4.53 | 482 |
 | 7 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 129,680 | 4.89 | 13 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 106,284 | 4.69 | 213 |
@@ -99,7 +99,7 @@
 | 97 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,123 | 4.37 | 682 |
 | 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,069 | 4.17 | 812 |
 | 99 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,036 | 4.64 | 307 |
-| 100 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,009 | 4.49 | 537 |
+| 100 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,016 | 4.49 | 537 |
 | 101 | [Bloons TD 6](games/b/bloons_td_6.md) | 1,979 | 4.76 | 113 |
 | 102 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,964 | 4.49 | 537 |
 | 103 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,855 | 4.66 | 272 |
@@ -121,7 +121,7 @@
 | 119 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,166 | 4.69 | 213 |
 | 120 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,157 | 4.87 | 24 |
 | 121 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,137 | 4.82 | 61 |
-| 122 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,115 | 4.61 | 348 |
+| 122 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,119 | 4.61 | 348 |
 | 123 | [XCOM® 2](games/x/xcom®_2.md) | 1,093 | 4.54 | 467 |
 | 124 | [OUTRIDERS](games/o/outriders.md) | 1,066 | 4.42 | 629 |
 | 125 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,055 | 4.61 | 348 |

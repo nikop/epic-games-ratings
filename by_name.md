@@ -147,7 +147,7 @@
 | [Crashlands](games/c/crashlands.md) | 4.66 | 272 | 186 | 258 |
 | [Crayta](games/c/crayta.md) | 4.19 | 803 | 50 | 376 |
 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 757 | 22 | 462 |
-| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.80 | 884 | 0 | 478 |
+| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.79 | 885 | 0 | 478 |
 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 688 | 169 | 265 |
 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 699 | 90 | 325 |
 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 537 | 208 | 250 |
@@ -250,7 +250,7 @@
 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 766 | 0 | 478 |
 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 348 | 0 | 478 |
 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 272 | 472 | 181 |
-| [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 348 | 1,115 | 122 |
+| [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 348 | 1,119 | 122 |
 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 605 | 641 | 157 |
 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 640 | 169 | 265 |
 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 194 | 293 | 219 |
@@ -311,7 +311,7 @@
 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 812 | 2,069 | 98 |
 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 825 | 0 | 478 |
 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.17 | 812 | 0 | 478 |
-| [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 213 | 151,086 | 5 |
+| [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 213 | 151,576 | 5 |
 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.58 | 401 | 0 | 478 |
 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.64 | 307 | 0 | 478 |
 | [Gravewood High](games/g/gravewood_high.md) | 3.98 | 864 | 0 | 478 |
@@ -342,7 +342,7 @@
 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 92 | 8,448 | 35 |
 | [Hob](games/h/hob.md) | 4.57 | 419 | 0 | 478 |
 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 100 | 16,337 | 18 |
-| [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 537 | 2,009 | 100 |
+| [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 537 | 2,016 | 100 |
 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 862 | 367 | 201 |
 | [Horace](games/h/horace.md) | 4.51 | 509 | 0 | 478 |
 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 436 | 127 | 287 |
@@ -582,7 +582,7 @@
 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 38 | 223 | 242 |
 | [Riverbond](games/r/riverbond.md) | 4.48 | 553 | 0 | 478 |
 | [Road 96](games/r/road_96.md) | 4.62 | 332 | 0 | 478 |
-| [Rocket League®](games/r/rocket_league®.md) | 4.51 | 509 | 367,448 | 2 |
+| [Rocket League®](games/r/rocket_league®.md) | 4.51 | 509 | 368,281 | 2 |
 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 699 | 4,736 | 61 |
 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 348 | 1,055 | 125 |
 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 38 | 214 | 244 |

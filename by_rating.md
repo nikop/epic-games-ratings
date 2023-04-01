@@ -216,7 +216,7 @@
 | 213 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,694 | 75 |
 | 213 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 307 | 214 |
 | 213 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 0 | 478 |
-| 213 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 151,086 | 5 |
+| 213 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 151,576 | 5 |
 | 213 | [High On Life](games/h/high_on_life.md) | 4.69 | 0 | 478 |
 | 213 | [INSIDE](games/i/inside.md) | 4.69 | 0 | 478 |
 | 213 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,166 | 119 |
@@ -360,7 +360,7 @@
 | 348 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 34 | 418 |
 | 348 | [DOOM 3](games/d/doom_3.md) | 4.61 | 63 | 362 |
 | 348 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 0 | 478 |
-| 348 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 1,115 | 122 |
+| 348 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 1,119 | 122 |
 | 348 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 545 | 169 |
 | 348 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 0 | 478 |
 | 348 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,045 | 126 |
@@ -516,7 +516,7 @@
 | 509 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 102 | 310 |
 | 509 | [MythForce](games/m/mythforce.md) | 4.51 | 32 | 424 |
 | 509 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 269 | 227 |
-| 509 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 367,448 | 2 |
+| 509 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 368,281 | 2 |
 | 509 | [Sable](games/s/sable.md) | 4.51 | 0 | 478 |
 | 509 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 0 | 478 |
 | 509 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 62 | 363 |
@@ -545,7 +545,7 @@
 | 537 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 0 | 478 |
 | 537 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 270 | 226 |
 | 537 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 209 | 247 |
-| 537 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 2,009 | 100 |
+| 537 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 2,016 | 100 |
 | 537 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 478 |
 | 537 | [Maneater](games/m/maneater.md) | 4.49 | 13,362 | 23 |
 | 537 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 602 | 162 |
@@ -883,8 +883,8 @@
 | 879 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 309 |
 | 882 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 0 | 478 |
 | 883 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 478 |
-| 884 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.80 | 0 | 478 |
 | 884 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 0 | 478 |
+| 885 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.79 | 0 | 478 |
 | 886 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 0 | 478 |
 | 886 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,017 | 129 |
 | 888 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 478 |
