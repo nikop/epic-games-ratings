@@ -2,15 +2,15 @@
   "ID": "badb0ee71b474ed591ec43212547cfc8",
   "Name": "Paladins",
   "Rating": 4.35,
-  "Ranking_Rating": 702,
+  "Ranking_Rating": 701,
   "Ranking_Popularity": 81,
   "Ranking_PopularitySum": 45,
   "NumberOfRatings": 11687,
-  "NumberOfAwards": 24892,
+  "NumberOfAwards": 24896,
   "NumberOfAwardsMax": 3180,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:17:05.5508389+00:00",
-  "LastChanged": "2023-04-01T03:56:46.5334907+00:00",
+  "LastChanged": "2023-04-01T10:56:58.7632636+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:05.5508391+00:00",
@@ -3154,6 +3154,12 @@
       "Rating": 4.35,
       "NumberOfAwards": 24892,
       "NumberOfAwardsMax": 3180
+    },
+    {
+      "Time": "2023-04-01T10:56:58.7632637+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 24896,
+      "NumberOfAwardsMax": 3180
     }
   ],
   "Tags": [
@@ -3191,7 +3197,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 2890
+      "Count": 2893
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3209,7 +3215,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2507
+      "Count": 2508
     },
     {
       "Text": "This game has a Competitive Community",
