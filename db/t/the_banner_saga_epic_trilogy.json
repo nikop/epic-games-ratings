@@ -1,8 +1,8 @@
 {
   "ID": "42c16682591a49f6bc488ed2fa422589",
   "Name": "The Banner Saga Epic Trilogy",
-  "Rating": 4.63,
-  "Ranking_Rating": 321,
+  "Rating": 4.64,
+  "Ranking_Rating": 307,
   "Ranking_Popularity": 478,
   "Ranking_PopularitySum": 478,
   "NumberOfRatings": 20,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:25:15.6569997+00:00",
   "FirstSeenRating": "2022-09-23T09:02:16.9087013+00:00",
-  "LastChanged": "2023-03-31T05:57:53.7469623+00:00",
+  "LastChanged": "2023-04-01T16:58:08.8260182+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-23T09:02:16.9087015+00:00",
@@ -80,6 +80,12 @@
     {
       "Time": "2023-03-31T05:57:53.7469624+00:00",
       "Rating": 4.63,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-01T16:58:08.8260185+00:00",
+      "Rating": 4.64,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

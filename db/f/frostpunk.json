@@ -1,16 +1,16 @@
 {
   "ID": "be886d9db65047a89b24cd4317695f18",
   "Name": "Frostpunk",
-  "Rating": 4.73,
-  "Ranking_Rating": 154,
+  "Rating": 4.74,
+  "Ranking_Rating": 141,
   "Ranking_Popularity": 146,
   "Ranking_PopularitySum": 109,
   "NumberOfRatings": 11240,
-  "NumberOfAwards": 6315,
+  "NumberOfAwards": 6317,
   "NumberOfAwardsMax": 758,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
-  "LastChanged": "2023-04-01T13:00:50.4333994+00:00",
+  "LastChanged": "2023-04-01T16:57:37.075762+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:37.4125463+00:00",
@@ -2794,6 +2794,12 @@
       "Rating": 4.73,
       "NumberOfAwards": 6315,
       "NumberOfAwardsMax": 758
+    },
+    {
+      "Time": "2023-04-01T16:57:37.0757621+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 6317,
+      "NumberOfAwardsMax": 758
     }
   ],
   "Tags": [
@@ -2855,13 +2861,13 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 340
+      "Count": 341
     },
     {
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 596
+      "Count": 597
     }
   ]
 }
