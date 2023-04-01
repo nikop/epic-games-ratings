@@ -1,5 +1,5 @@
 # A Total War Saga: TROY
-Rating: 4.51 (Ranked 509)  
+Rating: 4.50 (Ranked 523)  
 Number of Ratings: 6,316  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 1,524  (Ranked 110)  
@@ -86,3 +86,4 @@ Diff (max vs sum): 36
 | 2022-09-23 | 4.50 | 6,316 | - |
 | 2023-03-30 | 4.51 | - | - |
 | 2023-03-31 | 4.51 | - | 1,524 |
+| 2023-04-01 | 4.50 | - | 1,524 |

@@ -1,8 +1,8 @@
 {
   "ID": "53310576ce1d4446b20dbbdac4f09f2d",
   "Name": "A Total War Saga: TROY",
-  "Rating": 4.51,
-  "Ranking_Rating": 509,
+  "Rating": 4.5,
+  "Ranking_Rating": 523,
   "Ranking_Popularity": 110,
   "Ranking_PopularitySum": 74,
   "NumberOfRatings": 6316,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 1524,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:20:30.5035149+00:00",
-  "LastChanged": "2023-03-31T16:57:31.7164574+00:00",
+  "LastChanged": "2023-04-01T02:57:21.6843525+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:30.5035153+00:00",
@@ -2880,6 +2880,12 @@
     {
       "Time": "2023-03-31T16:57:31.7164575+00:00",
       "Rating": 4.51,
+      "NumberOfAwards": 11080,
+      "NumberOfAwardsMax": 1524
+    },
+    {
+      "Time": "2023-04-01T02:57:21.6843528+00:00",
+      "Rating": 4.5,
       "NumberOfAwards": 11080,
       "NumberOfAwardsMax": 1524
     }

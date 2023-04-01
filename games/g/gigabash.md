@@ -1,5 +1,5 @@
 # GigaBash
-Rating: 4.63 (Ranked 321)  
+Rating: 4.63 (Ranked 320)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 478)  
 Sum: 0 (Ranked 478)  

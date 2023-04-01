@@ -1,5 +1,5 @@
 # Sins of a Solar Empire 2
-Rating: 4.50 (Ranked 524)  
+Rating: 4.50 (Ranked 523)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 478)  
 Sum: 0 (Ranked 478)  
