@@ -1,5 +1,5 @@
 # Fishing - North Atlantic
-Rating: 4.37 (Ranked 682)  
+Rating: 4.36 (Ranked 687)  
 Number of Ratings: 33  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 478)  
@@ -28,3 +28,4 @@ Diff (max vs sum): 0
 | 2022-11-12 | 4.35 | - | - |
 | 2022-12-02 | 4.37 | - | - |
 | 2023-03-31 | 4.37 | - | 0 |
+| 2023-04-01 | 4.36 | - | 0 |

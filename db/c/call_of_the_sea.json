@@ -1,15 +1,15 @@
 {
   "ID": "5e427319eea1401ab20c6cd78a4163c4",
   "Name": "Call of the Sea",
-  "Rating": 4.36,
-  "Ranking_Rating": 688,
+  "Rating": 4.35,
+  "Ranking_Rating": 698,
   "Ranking_Popularity": 478,
   "Ranking_PopularitySum": 478,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:19:57.3408897+00:00",
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
-  "LastChanged": "2023-03-31T23:57:27.0436874+00:00",
+  "LastChanged": "2023-04-01T23:57:16.5958+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-02T01:30:49.749465+00:00",
@@ -116,6 +116,12 @@
     {
       "Time": "2023-03-31T23:57:27.0436875+00:00",
       "Rating": 4.36,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-01T23:57:16.5958002+00:00",
+      "Rating": 4.35,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
