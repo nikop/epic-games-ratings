@@ -6,11 +6,11 @@
   "Ranking_Popularity": 49,
   "Ranking_PopularitySum": 23,
   "NumberOfRatings": 16706,
-  "NumberOfAwards": 46259,
+  "NumberOfAwards": 46266,
   "NumberOfAwardsMax": 6012,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:21:56.7737014+00:00",
-  "LastChanged": "2023-04-01T11:57:22.1485071+00:00",
+  "LastChanged": "2023-04-01T18:57:45.3079268+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:56.7737017+00:00",
@@ -3010,6 +3010,12 @@
       "Rating": 4.71,
       "NumberOfAwards": 46259,
       "NumberOfAwardsMax": 6012
+    },
+    {
+      "Time": "2023-04-01T18:57:45.3079271+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 46266,
+      "NumberOfAwardsMax": 6012
     }
   ],
   "Tags": [
@@ -3071,7 +3077,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 3747
+      "Count": 3754
     },
     {
       "Text": "This game has Easy Combat",

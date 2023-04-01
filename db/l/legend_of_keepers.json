@@ -1,15 +1,15 @@
 {
   "ID": "3d4b3dcf7ec449c7a042c163d08fa0f3",
   "Name": "Legend of Keepers",
-  "Rating": 4.55,
-  "Ranking_Rating": 456,
+  "Rating": 4.56,
+  "Ranking_Rating": 436,
   "Ranking_Popularity": 478,
   "Ranking_PopularitySum": 478,
   "NumberOfRatings": 39,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:26:54.4614277+00:00",
-  "LastChanged": "2023-03-31T05:58:04.8311656+00:00",
+  "LastChanged": "2023-04-01T18:58:27.2306789+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:54.4614279+00:00",
@@ -142,6 +142,12 @@
     {
       "Time": "2023-03-31T05:58:04.8311658+00:00",
       "Rating": 4.55,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-01T18:58:27.2306793+00:00",
+      "Rating": 4.56,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

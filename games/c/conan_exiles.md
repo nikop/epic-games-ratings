@@ -1,9 +1,9 @@
 # Conan Exiles
-Rating: 4.55 (Ranked 456)  
+Rating: 4.55 (Ranked 458)  
 Number of Ratings: 1,374  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 1,025  (Ranked 127)  
-Sum: 7,356 (Ranked 93)  
+Sum: 7,358 (Ranked 93)  
 Diff (max vs sum): 34
 ## Awards
 | Award | Number of Ratings |
@@ -11,7 +11,7 @@ Diff (max vs sum): 34
 | This game has Diverse Characters | 1,025 |
 | This game is Relaxing | 983 |
 | This game is Highly Recommended | 962 |
-| This game is Extremely Fun | 960 |
+| This game is Extremely Fun | 962 |
 | This game has Quickly Understood Controls | 943 |
 | This game has Amazing Storytelling | 910 |
 | This game has Amazing Characters | 882 |
