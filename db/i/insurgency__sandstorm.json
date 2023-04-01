@@ -6,11 +6,11 @@
   "Ranking_Popularity": 204,
   "Ranking_PopularitySum": 159,
   "NumberOfRatings": 1316,
-  "NumberOfAwards": 2519,
+  "NumberOfAwards": 2520,
   "NumberOfAwardsMax": 338,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
-  "LastChanged": "2023-03-31T22:57:02.1615882+00:00",
+  "LastChanged": "2023-04-01T13:57:25.5739763+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:15.5604869+00:00",
@@ -1361,6 +1361,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 2519,
       "NumberOfAwardsMax": 338
+    },
+    {
+      "Time": "2023-04-01T13:57:25.5739765+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2520,
+      "NumberOfAwardsMax": 338
     }
   ],
   "Tags": [
@@ -1404,7 +1410,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 266
+      "Count": 267
     },
     {
       "Text": "This game is Extremely Fun",

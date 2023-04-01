@@ -1,5 +1,5 @@
 # This Is The Police
-Rating: 4.75 (Ranked 127)  
+Rating: 4.73 (Ranked 154)  
 Number of Ratings: 52  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 478)  
@@ -52,3 +52,4 @@ Diff (max vs sum): 0
 | 2022-12-27 | 4.74 | - | - |
 | 2023-03-25 | 4.75 | - | - |
 | 2023-03-31 | 4.75 | - | 0 |
+| 2023-04-01 | 4.73 | - | 0 |

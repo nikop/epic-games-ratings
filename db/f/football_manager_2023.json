@@ -2,15 +2,15 @@
   "ID": "5c7a78e0c4d640898d690c5e38c0392f",
   "Name": "Football Manager 2023",
   "Rating": 4.75,
-  "Ranking_Rating": 127,
+  "Ranking_Rating": 128,
   "Ranking_Popularity": 207,
   "Ranking_PopularitySum": 151,
-  "NumberOfAwards": 2751,
+  "NumberOfAwards": 2752,
   "NumberOfAwardsMax": 326,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-11-08T02:50:04.1543779+00:00",
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
-  "LastChanged": "2023-04-01T11:57:42.2268043+00:00",
+  "LastChanged": "2023-04-01T13:58:27.1078338+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-08T17:57:47.9405888+00:00",
@@ -327,6 +327,12 @@
       "Rating": 4.75,
       "NumberOfAwards": 2751,
       "NumberOfAwardsMax": 326
+    },
+    {
+      "Time": "2023-04-01T13:58:27.107834+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 2752,
+      "NumberOfAwardsMax": 326
     }
   ],
   "Tags": [
@@ -376,7 +382,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 306
+      "Count": 307
     },
     {
       "Text": "This game has Unique Visuals",

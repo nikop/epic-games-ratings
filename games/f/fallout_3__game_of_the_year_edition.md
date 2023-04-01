@@ -1,13 +1,13 @@
 # Fallout 3: Game of the Year Edition
 Rating: 4.60 (Ranked 374)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 13,092  (Ranked 24)  
-Sum: 26,711 (Ranked 38)  
+Max (Character Customization): 13,097  (Ranked 24)  
+Sum: 26,716 (Ranked 38)  
 Diff (max vs sum): -14
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 13,092 |
+| This game has Inclusive Character Customization | 13,097 |
 | This game is Extremely Fun | 1,512 |
 | This game has Amazing Storytelling | 1,509 |
 | This game is Great for Beginners | 1,448 |
@@ -33,4 +33,4 @@ Diff (max vs sum): -14
 | 2022-11-03 | 4.59 | - | - |
 | 2022-11-12 | 4.60 | - | - |
 | 2023-03-31 | 4.60 | - | 13,092 |
-| 2023-04-01 | 4.60 | - | 13,092 |
+| 2023-04-01 | 4.60 | - | 13,097 |

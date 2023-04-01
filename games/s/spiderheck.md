@@ -1,5 +1,5 @@
 # SpiderHeck
-Rating: 4.74 (Ranked 141)  
+Rating: 4.76 (Ranked 113)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 478)  
 Sum: 0 (Ranked 478)  
@@ -25,3 +25,4 @@ Diff (max vs sum): 0
 | 2023-01-22 | 4.73 | - | - |
 | 2023-01-30 | 4.74 | - | - |
 | 2023-03-31 | 4.74 | - | 0 |
+| 2023-04-01 | 4.76 | - | 0 |
