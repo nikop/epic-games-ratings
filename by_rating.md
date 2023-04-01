@@ -238,10 +238,11 @@
 | 236 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,313 | 80 |
 | 236 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 2,882 | 87 |
 | 236 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 478 |
+| 236 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 634 | 159 |
 | 236 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 350 |
 | 236 | [Carcassonne](games/c/carcassonne.md) | 4.68 | 71 | 347 |
 | 236 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 3,871 | 73 |
-| 236 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 4,917 | 59 |
+| 236 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 4,923 | 59 |
 | 236 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 279,283 | 3 |
 | 236 | [GNOG](games/g/gnog.md) | 4.68 | 0 | 478 |
 | 236 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 478 |
@@ -254,23 +255,22 @@
 | 236 | [The Pathless](games/t/the_pathless.md) | 4.68 | 0 | 478 |
 | 236 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.68 | 1,337 | 115 |
 | 236 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 0 | 478 |
-| 255 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.67 | 0 | 478 |
-| 255 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 634 | 159 |
-| 255 | [Card Shark](games/c/card_shark.md) | 4.67 | 0 | 478 |
-| 255 | [CARRION](games/c/carrion.md) | 4.67 | 0 | 478 |
-| 255 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,391 | 44 |
-| 255 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 478 |
-| 255 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 0 | 478 |
-| 255 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.67 | 0 | 478 |
-| 255 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 0 | 478 |
-| 255 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,201 | 94 |
-| 255 | [Overcooked](games/o/overcooked.md) | 4.67 | 112 | 302 |
-| 255 | [Revita](games/r/revita.md) | 4.67 | 0 | 478 |
-| 255 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 478 |
-| 255 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 83 | 333 |
-| 255 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 478 |
-| 255 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,251 | 92 |
-| 255 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 90 | 325 |
+| 256 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.67 | 0 | 478 |
+| 256 | [Card Shark](games/c/card_shark.md) | 4.67 | 0 | 478 |
+| 256 | [CARRION](games/c/carrion.md) | 4.67 | 0 | 478 |
+| 256 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,391 | 44 |
+| 256 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 478 |
+| 256 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 0 | 478 |
+| 256 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.67 | 0 | 478 |
+| 256 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 0 | 478 |
+| 256 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,201 | 94 |
+| 256 | [Overcooked](games/o/overcooked.md) | 4.67 | 112 | 302 |
+| 256 | [Revita](games/r/revita.md) | 4.67 | 0 | 478 |
+| 256 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 478 |
+| 256 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 83 | 333 |
+| 256 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 478 |
+| 256 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,251 | 92 |
+| 256 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 90 | 325 |
 | 272 | [Crashlands](games/c/crashlands.md) | 4.66 | 186 | 258 |
 | 272 | [Death's Door](games/d/death's_door.md) | 4.66 | 0 | 478 |
 | 272 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,282 | 118 |
@@ -309,7 +309,7 @@
 | 307 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 0 | 478 |
 | 307 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 478 |
 | 307 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,820 | 51 |
-| 307 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 2,031 | 99 |
+| 307 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 2,036 | 99 |
 | 307 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 45 | 387 |
 | 307 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.64 | 0 | 478 |
 | 307 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 0 | 478 |

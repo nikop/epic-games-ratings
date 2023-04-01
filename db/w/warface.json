@@ -4,13 +4,13 @@
   "Rating": 3.92,
   "Ranking_Rating": 876,
   "Ranking_Popularity": 198,
-  "Ranking_PopularitySum": 148,
+  "Ranking_PopularitySum": 147,
   "NumberOfRatings": 3179,
-  "NumberOfAwards": 2960,
+  "NumberOfAwards": 2961,
   "NumberOfAwardsMax": 374,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2023-04-01T15:58:08.1408458+00:00",
+  "LastChanged": "2023-04-01T21:58:28.9740927+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:34.3823286+00:00",
@@ -2195,6 +2195,12 @@
       "Rating": 3.92,
       "NumberOfAwards": 2960,
       "NumberOfAwardsMax": 374
+    },
+    {
+      "Time": "2023-04-01T21:58:28.9740929+00:00",
+      "Rating": 3.92,
+      "NumberOfAwards": 2961,
+      "NumberOfAwardsMax": 374
     }
   ],
   "Tags": [
@@ -2238,7 +2244,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 362
+      "Count": 363
     },
     {
       "Text": "This game is Highly Recommended",
