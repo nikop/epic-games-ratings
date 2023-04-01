@@ -1,5 +1,5 @@
 # ATOM RPG Trudograd
-Rating: 4.47 (Ranked 566)  
+Rating: 4.47 (Ranked 565)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 478)  
 Sum: 0 (Ranked 478)  

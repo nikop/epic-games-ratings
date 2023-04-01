@@ -1,5 +1,5 @@
 # Railway Empire
-Rating: 4.52 (Ranked 495)  
+Rating: 4.51 (Ranked 509)  
 Number of Ratings: 2,155  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 269  (Ranked 227)  
@@ -99,3 +99,4 @@ Diff (max vs sum): 36
 | 2023-03-14 | 4.52 | - | - |
 | 2023-03-20 | 4.52 | - | - |
 | 2023-03-31 | 4.52 | - | 269 |
+| 2023-04-01 | 4.51 | - | 269 |

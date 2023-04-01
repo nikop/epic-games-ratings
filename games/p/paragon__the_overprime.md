@@ -1,5 +1,5 @@
 # Paragon: The Overprime
-Rating: 4.24 (Ranked 771)  
+Rating: 4.24 (Ranked 772)  
 ## Popularity (Based on Awards)
 Max (Competitive Players): 282  (Ranked 221)  
 Sum: 2,154 (Ranked 173)  

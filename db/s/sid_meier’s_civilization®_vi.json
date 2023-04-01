@@ -1,16 +1,16 @@
 {
   "ID": "cd14dcaa4f3443f19f7169a980559c62",
   "Name": "Sid Meier\u2019s Civilization\u00AE VI",
-  "Rating": 4.74,
-  "Ranking_Rating": 141,
+  "Rating": 4.73,
+  "Ranking_Rating": 155,
   "Ranking_Popularity": 13,
   "Ranking_PopularitySum": 10,
   "NumberOfRatings": 57866,
-  "NumberOfAwards": 235946,
+  "NumberOfAwards": 236004,
   "NumberOfAwardsMax": 28360,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
-  "LastChanged": "2023-04-01T04:57:05.4322066+00:00",
+  "LastChanged": "2023-04-01T07:57:06.4692818+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:50.1564233+00:00",
@@ -3474,6 +3474,12 @@
       "Rating": 4.74,
       "NumberOfAwards": 235946,
       "NumberOfAwardsMax": 28360
+    },
+    {
+      "Time": "2023-04-01T07:57:06.4692819+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 236004,
+      "NumberOfAwardsMax": 28360
     }
   ],
   "Tags": [
@@ -3529,7 +3535,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 21569
+      "Count": 21627
     },
     {
       "Text": "This game has Amazing Storytelling",
