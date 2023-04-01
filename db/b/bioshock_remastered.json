@@ -3,14 +3,14 @@
   "Name": "BioShock Remastered",
   "Rating": 4.64,
   "Ranking_Rating": 307,
-  "Ranking_Popularity": 52,
+  "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 97,
   "NumberOfRatings": 24195,
-  "NumberOfAwards": 7067,
-  "NumberOfAwardsMax": 5817,
+  "NumberOfAwards": 7070,
+  "NumberOfAwardsMax": 5820,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:33:07.4798792+00:00",
-  "LastChanged": "2023-01-23T22:58:29.1100702+00:00",
+  "LastChanged": "2023-04-01T13:03:02.4660796+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:33:07.4798795+00:00",
@@ -1825,6 +1825,12 @@
     {
       "Time": "2023-01-23T22:58:29.1100705+00:00",
       "Rating": 4.64
+    },
+    {
+      "Time": "2023-04-01T13:03:02.4660798+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 7070,
+      "NumberOfAwardsMax": 5820
     }
   ],
   "Tags": [
@@ -1832,7 +1838,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5817
+      "Count": 5820
     },
     {
       "Text": "This game has Amazing Storytelling",
