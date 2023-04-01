@@ -483,7 +483,7 @@
 | 481 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 478 |
 | 481 | [Aztez](games/a/aztez.md) | 4.53 | 0 | 478 |
 | 481 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 478 |
-| 481 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,154 | 16 |
+| 481 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,169 | 16 |
 | 481 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 25,926 | 15 |
 | 481 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 137,011 | 6 |
 | 481 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 478 |
@@ -503,25 +503,25 @@
 | 495 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 115 | 297 |
 | 495 | [Knockout City™](games/k/knockout_city™.md) | 4.52 | 0 | 478 |
 | 495 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 182 | 259 |
+| 495 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.52 | 0 | 478 |
 | 495 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 478 |
 | 495 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 269 | 227 |
 | 495 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 478 |
 | 495 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 135 | 284 |
 | 495 | [UnMetal](games/u/unmetal.md) | 4.52 | 0 | 478 |
-| 509 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 89 | 327 |
-| 509 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,018 | 69 |
-| 509 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 38 | 404 |
-| 509 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 21 | 468 |
-| 509 | [Horace](games/h/horace.md) | 4.51 | 0 | 478 |
-| 509 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 102 | 310 |
-| 509 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.51 | 0 | 478 |
-| 509 | [MythForce](games/m/mythforce.md) | 4.51 | 32 | 424 |
-| 509 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 367,448 | 2 |
-| 509 | [Sable](games/s/sable.md) | 4.51 | 0 | 478 |
-| 509 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 0 | 478 |
-| 509 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 62 | 363 |
-| 509 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 131 | 286 |
-| 509 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 0 | 478 |
+| 510 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 89 | 327 |
+| 510 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,018 | 69 |
+| 510 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 38 | 404 |
+| 510 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 21 | 468 |
+| 510 | [Horace](games/h/horace.md) | 4.51 | 0 | 478 |
+| 510 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 102 | 310 |
+| 510 | [MythForce](games/m/mythforce.md) | 4.51 | 32 | 424 |
+| 510 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 367,448 | 2 |
+| 510 | [Sable](games/s/sable.md) | 4.51 | 0 | 478 |
+| 510 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 0 | 478 |
+| 510 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 62 | 363 |
+| 510 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 131 | 286 |
+| 510 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 0 | 478 |
 | 523 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 1,524 | 110 |
 | 523 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 391 | 193 |
 | 523 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 0 | 478 |
