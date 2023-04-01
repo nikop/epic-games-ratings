@@ -6,11 +6,11 @@
   "Ranking_Popularity": 74,
   "Ranking_PopularitySum": 87,
   "NumberOfRatings": 7175,
-  "NumberOfAwards": 8014,
+  "NumberOfAwards": 8015,
   "NumberOfAwardsMax": 3799,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:25:54.5867721+00:00",
-  "LastChanged": "2023-04-01T03:57:32.1146506+00:00",
+  "LastChanged": "2023-04-01T05:57:56.155759+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:54.5867723+00:00",
@@ -2157,6 +2157,12 @@
       "Rating": 4.77,
       "NumberOfAwards": 8014,
       "NumberOfAwardsMax": 3799
+    },
+    {
+      "Time": "2023-04-01T05:57:56.1557593+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 8015,
+      "NumberOfAwardsMax": 3799
     }
   ],
   "Tags": [
@@ -2188,7 +2194,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 201
+      "Count": 202
     },
     {
       "Text": "This game is Relaxing",

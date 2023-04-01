@@ -369,7 +369,7 @@
 | 349 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 392 | 192 |
 | 349 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,055 | 125 |
 | 349 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 264 | 228 |
-| 349 | [Supraland](games/s/supraland.md) | 4.61 | 7,591 | 37 |
+| 349 | [Supraland](games/s/supraland.md) | 4.61 | 7,592 | 37 |
 | 349 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 60 | 367 |
 | 349 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.61 | 0 | 478 |
 | 349 | [Warframe](games/w/warframe.md) | 4.61 | 13,854 | 21 |

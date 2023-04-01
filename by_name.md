@@ -696,7 +696,7 @@
 | [SUPERHOT](games/s/superhot.md) | 4.71 | 176 | 0 | 478 |
 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.69 | 214 | 0 | 478 |
 | [Superliminal](games/s/superliminal.md) | 4.80 | 79 | 0 | 478 |
-| [Supraland](games/s/supraland.md) | 4.61 | 349 | 7,591 | 37 |
+| [Supraland](games/s/supraland.md) | 4.61 | 349 | 7,592 | 37 |
 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 106 | 96 | 316 |
 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 566 | 0 | 478 |
 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 374 | 425 | 187 |
