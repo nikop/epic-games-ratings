@@ -2,15 +2,15 @@
   "ID": "badb0ee71b474ed591ec43212547cfc8",
   "Name": "Paladins",
   "Rating": 4.35,
-  "Ranking_Rating": 701,
+  "Ranking_Rating": 700,
   "Ranking_Popularity": 81,
   "Ranking_PopularitySum": 45,
   "NumberOfRatings": 11687,
-  "NumberOfAwards": 24898,
+  "NumberOfAwards": 24902,
   "NumberOfAwardsMax": 3180,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:17:05.5508389+00:00",
-  "LastChanged": "2023-04-01T17:56:59.259114+00:00",
+  "LastChanged": "2023-04-01T19:56:48.7181598+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:05.5508391+00:00",
@@ -3172,6 +3172,12 @@
       "Rating": 4.35,
       "NumberOfAwards": 24898,
       "NumberOfAwardsMax": 3180
+    },
+    {
+      "Time": "2023-04-01T19:56:48.7181599+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 24902,
+      "NumberOfAwardsMax": 3180
     }
   ],
   "Tags": [
@@ -3233,7 +3239,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 2134
+      "Count": 2138
     }
   ]
 }

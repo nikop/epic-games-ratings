@@ -1,9 +1,9 @@
 # Rogue Company
-Rating: 4.35 (Ranked 701)  
+Rating: 4.35 (Ranked 700)  
 Number of Ratings: 21,107  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 4,736  (Ranked 61)  
-Sum: 30,128 (Ranked 33)  
+Sum: 30,134 (Ranked 33)  
 Diff (max vs sum): 28
 ## Awards
 | Award | Number of Ratings |
@@ -14,7 +14,7 @@ Diff (max vs sum): 28
 | This game has Quickly Understood Controls | 4,400 |
 | This game is Highly Recommended | 4,296 |
 | This game has Amazing Characters | 4,278 |
-| This game has a Competitive Community | 3,451 |
+| This game has a Competitive Community | 3,457 |
 | This game is Great for Quick Sessions | 2,812 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |

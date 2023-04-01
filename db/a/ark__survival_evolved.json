@@ -6,11 +6,11 @@
   "Ranking_Popularity": 10,
   "Ranking_PopularitySum": 11,
   "NumberOfRatings": 35570,
-  "NumberOfAwards": 226725,
+  "NumberOfAwards": 226737,
   "NumberOfAwardsMax": 55219,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2023-04-01T18:57:25.876877+00:00",
+  "LastChanged": "2023-04-01T19:57:01.956881+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:31.1262323+00:00",
@@ -3601,6 +3601,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 226725,
       "NumberOfAwardsMax": 55219
+    },
+    {
+      "Time": "2023-04-01T19:57:01.9568812+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 226737,
+      "NumberOfAwardsMax": 55219
     }
   ],
   "Tags": [
@@ -3626,7 +3632,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 19434
+      "Count": 19446
     },
     {
       "Text": "This game is Educational",
