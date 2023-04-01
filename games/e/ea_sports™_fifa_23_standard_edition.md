@@ -1,13 +1,13 @@
 # EA SPORTS™ FIFA 23 Standard Edition
 Rating: 4.23 (Ranked 777)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 5,660  (Ranked 55)  
-Sum: 27,071 (Ranked 37)  
-Diff (max vs sum): 18
+Max (Diverse Characters): 5,819  (Ranked 51)  
+Sum: 27,230 (Ranked 37)  
+Diff (max vs sum): 14
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Diverse Characters | 5,660 |
+| This game has Diverse Characters | 5,819 |
 | This game is Highly Recommended | 4,125 |
 | This game has a Competitive Community | 3,824 |
 | This game has Competitive Players | 3,485 |
@@ -105,3 +105,4 @@ Diff (max vs sum): 18
 | 2023-03-22 | 4.22 | - | - |
 | 2023-03-30 | 4.23 | - | - |
 | 2023-03-31 | 4.23 | - | 5,660 |
+| 2023-04-01 | 4.23 | - | 5,819 |

@@ -1,5 +1,5 @@
 # Universe Sandbox
-Rating: 4.64 (Ranked 306)  
+Rating: 4.64 (Ranked 307)  
 Number of Ratings: 63  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 478)  

@@ -2,9 +2,9 @@
 Rating: 4.67 (Ranked 255)  
 Number of Ratings: 398  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 95  (Ranked 319)  
-Sum: 723 (Ranked 251)  
-Diff (max vs sum): 68
+Max (Quickly Understood Controls): 90  (Ranked 325)  
+Sum: 628 (Ranked 266)  
+Diff (max vs sum): 59
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
@@ -97,3 +97,4 @@ Diff (max vs sum): 68
 | 2022-12-09 | 4.67 | - | - |
 | 2023-02-26 | 4.68 | - | - |
 | 2023-03-04 | 4.67 | - | - |
+| 2023-04-01 | 4.67 | - | 90 |
