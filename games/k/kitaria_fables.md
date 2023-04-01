@@ -1,5 +1,5 @@
 # Kitaria Fables
-Rating: 4.39 (Ranked 664)  
+Rating: 4.39 (Ranked 663)  
 Number of Ratings: 20  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 478)  

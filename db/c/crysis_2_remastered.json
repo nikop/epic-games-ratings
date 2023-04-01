@@ -1,8 +1,8 @@
 {
   "ID": "ac082b5524e94daf9b431ee4cb8a9dd0",
   "Name": "Crysis 2 Remastered",
-  "Rating": 4.61,
-  "Ranking_Rating": 349,
+  "Rating": 4.6,
+  "Ranking_Rating": 373,
   "Ranking_Popularity": 247,
   "Ranking_PopularitySum": 342,
   "NumberOfRatings": 612,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 209,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:18:01.1104791+00:00",
-  "LastChanged": "2023-03-31T17:57:54.0780731+00:00",
+  "LastChanged": "2023-04-01T20:57:10.5689004+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:01.1104793+00:00",
@@ -507,6 +507,12 @@
     {
       "Time": "2023-03-31T17:57:54.0780733+00:00",
       "Rating": 4.61,
+      "NumberOfAwards": 209,
+      "NumberOfAwardsMax": 209
+    },
+    {
+      "Time": "2023-04-01T20:57:10.5689006+00:00",
+      "Rating": 4.6,
       "NumberOfAwards": 209,
       "NumberOfAwardsMax": 209
     }

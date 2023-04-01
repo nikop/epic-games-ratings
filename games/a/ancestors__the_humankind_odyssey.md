@@ -1,9 +1,9 @@
 # Ancestors: The Humankind Odyssey
-Rating: 4.59 (Ranked 388)  
+Rating: 4.59 (Ranked 389)  
 Number of Ratings: 481  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Educational): 44  (Ranked 391)  
-Sum: 231 (Ranked 337)  
+Sum: 232 (Ranked 337)  
 Diff (max vs sum): 54
 ## Awards
 | Award | Number of Ratings |
@@ -14,7 +14,7 @@ Diff (max vs sum): 54
 | This game has Amazing Characters | 30 |
 | This game is Extremely Fun | 30 |
 | This game is Highly Recommended | 29 |
-| This game has Amazing Storytelling | 25 |
+| This game has Amazing Storytelling | 26 |
 | This game has Challenging Combat | 22 |
 | This game has Obsessive Gameplay | 21 |
 ## Ratings History
@@ -98,3 +98,4 @@ Diff (max vs sum): 54
 | 2022-11-29 | 4.59 | - | - |
 | 2022-12-08 | 4.58 | - | - |
 | 2022-12-09 | 4.59 | - | - |
+| 2023-04-01 | 4.59 | - | 44 |

@@ -1,15 +1,15 @@
 {
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
-  "Rating": 4.44,
-  "Ranking_Rating": 605,
+  "Rating": 4.33,
+  "Ranking_Rating": 717,
   "Ranking_Popularity": 478,
   "Ranking_PopularitySum": 478,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-07T14:57:33.0234716+00:00",
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
-  "LastChanged": "2023-03-31T13:16:10.6822652+00:00",
+  "LastChanged": "2023-04-01T20:57:24.6444452+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-27T02:57:24.3255682+00:00",
@@ -36,6 +36,12 @@
     {
       "Time": "2023-03-31T13:16:10.6822654+00:00",
       "Rating": 4.44,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-01T20:57:24.6444454+00:00",
+      "Rating": 4.33,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

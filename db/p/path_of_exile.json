@@ -2,15 +2,15 @@
   "ID": "7ad5508d382e46228056f1d1a0189ae2",
   "Name": "Path of Exile",
   "Rating": 4.61,
-  "Ranking_Rating": 349,
+  "Ranking_Rating": 348,
   "Ranking_Popularity": 89,
   "Ranking_PopularitySum": 85,
   "NumberOfRatings": 3102,
-  "NumberOfAwards": 8374,
-  "NumberOfAwardsMax": 2371,
+  "NumberOfAwards": 8378,
+  "NumberOfAwardsMax": 2375,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:16:56.6558117+00:00",
-  "LastChanged": "2023-04-01T15:56:48.2674113+00:00",
+  "LastChanged": "2023-04-01T20:57:02.9082427+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:56.655812+00:00",
@@ -2520,6 +2520,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 8374,
       "NumberOfAwardsMax": 2371
+    },
+    {
+      "Time": "2023-04-01T20:57:02.908243+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 8378,
+      "NumberOfAwardsMax": 2375
     }
   ],
   "Tags": [
@@ -2527,7 +2533,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 2371
+      "Count": 2375
     },
     {
       "Text": "This game has Great Boss Battles",

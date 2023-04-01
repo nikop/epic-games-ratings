@@ -5,12 +5,12 @@
   "Ranking_Rating": 497,
   "Ranking_Popularity": 355,
   "Ranking_PopularitySum": 284,
-  "NumberOfAwards": 503,
+  "NumberOfAwards": 505,
   "NumberOfAwardsMax": 67,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-09-22T22:01:01.54229+00:00",
   "FirstSeenRating": "2023-01-13T07:56:45.2170746+00:00",
-  "LastChanged": "2023-03-31T22:56:50.1775488+00:00",
+  "LastChanged": "2023-04-01T20:57:02.2109945+00:00",
   "RatingHistory": [
     {
       "Time": "2023-01-13T07:56:45.2170748+00:00",
@@ -219,6 +219,12 @@
       "Rating": 4.52,
       "NumberOfAwards": 503,
       "NumberOfAwardsMax": 67
+    },
+    {
+      "Time": "2023-04-01T20:57:02.2109947+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 505,
+      "NumberOfAwardsMax": 67
     }
   ],
   "Tags": [
@@ -268,7 +274,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 59
+      "Count": 61
     },
     {
       "Text": "This game has Amazing Characters",

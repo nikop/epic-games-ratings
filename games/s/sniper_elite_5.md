@@ -1,5 +1,5 @@
 # Sniper Elite 5
-Rating: 4.44 (Ranked 605)  
+Rating: 4.33 (Ranked 717)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 478)  
 Sum: 0 (Ranked 478)  
@@ -15,3 +15,4 @@ Diff (max vs sum): 0
 | 2023-03-29 | 4.67 | - | - |
 | 2023-03-30 | 4.46 | - | - |
 | 2023-03-31 | 4.44 | - | 0 |
+| 2023-04-01 | 4.33 | - | 0 |
