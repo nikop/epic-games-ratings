@@ -6,7 +6,7 @@
 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.52 | 495 | 0 | 478 |
 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 792 | 121 | 292 |
 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 236 | 3,313 | 80 |
-| [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 141 | 395 | 191 |
+| [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 141 | 396 | 191 |
 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 55 | 0 | 478 |
 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 523 | 1,524 | 110 |
 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 630 | 0 | 478 |
@@ -32,7 +32,7 @@
 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 719 | 332 | 205 |
 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 113 | 0 | 478 |
 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 467 | 0 | 478 |
-| [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 61 | 1,135 | 121 |
+| [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 61 | 1,137 | 121 |
 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 578 | 0 | 478 |
 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 590 | 0 | 478 |
 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 456 | 0 | 478 |
@@ -86,7 +86,7 @@
 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 236 | 68 | 353 |
 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 719 | 113 | 300 |
 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 509 | 4,018 | 69 |
-| [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 194 | 4,450 | 65 |
+| [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 194 | 4,453 | 65 |
 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 307 | 5,817 | 52 |
 | [Black Book](games/b/black_book.md) | 4.87 | 24 | 21 | 468 |
 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 766 | 0 | 478 |
@@ -442,7 +442,7 @@
 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.03 | 857 | 0 | 478 |
 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 156 | 538 | 173 |
 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 467 | 981 | 132 |
-| [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 24 | 11,234 | 29 |
+| [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 24 | 11,239 | 29 |
 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.80 | 79 | 957 | 136 |
 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 349 | 1,045 | 126 |
 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 290 | 47 | 382 |
@@ -566,7 +566,7 @@
 | [Redout 2](games/r/redout_2.md) | 4.44 | 605 | 0 | 478 |
 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 523 | 0 | 478 |
 | [Relicta](games/r/relicta.md) | 4.15 | 824 | 189 | 256 |
-| [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 374 | 8,804 | 34 |
+| [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 374 | 8,817 | 34 |
 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 882 | 0 | 478 |
 | [Returnal™](games/r/returnal™.md) | 4.69 | 214 | 0 | 478 |
 | [Revita](games/r/revita.md) | 4.67 | 255 | 0 | 478 |

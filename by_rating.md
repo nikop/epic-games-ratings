@@ -26,7 +26,7 @@
 | 24 | [Black Book](games/b/black_book.md) | 4.87 | 21 | 468 |
 | 24 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 135 | 284 |
 | 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,357 | 114 |
-| 24 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,234 | 29 |
+| 24 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,239 | 29 |
 | 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 991 | 131 |
 | 24 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 22 | 462 |
 | 24 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 1,156 | 120 |
@@ -60,7 +60,7 @@
 | 55 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 0 | 478 |
 | 55 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 80 | 337 |
 | 55 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.83 | 0 | 478 |
-| 61 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,135 | 121 |
+| 61 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,137 | 121 |
 | 61 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,381 | 58 |
 | 61 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 478 |
 | 61 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 0 | 478 |
@@ -140,7 +140,7 @@
 | 127 | [This Is The Police](games/t/this_is_the_police.md) | 4.75 | 0 | 478 |
 | 127 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 478 |
 | 127 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 0 | 478 |
-| 141 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 395 | 191 |
+| 141 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 396 | 191 |
 | 141 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 22 | 462 |
 | 141 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 478 |
 | 141 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.74 | 0 | 478 |
@@ -193,7 +193,7 @@
 | 176 | [SUPERHOT](games/s/superhot.md) | 4.71 | 0 | 478 |
 | 176 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.71 | 0 | 478 |
 | 176 | [Townscaper](games/t/townscaper.md) | 4.71 | 0 | 478 |
-| 194 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,450 | 65 |
+| 194 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,453 | 65 |
 | 194 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 0 | 478 |
 | 194 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 293 | 219 |
 | 194 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 3,996 | 70 |
@@ -381,7 +381,7 @@
 | 374 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 36 | 409 |
 | 374 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 62 | 363 |
 | 374 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 0 | 478 |
-| 374 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 8,804 | 34 |
+| 374 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 8,817 | 34 |
 | 374 | [Roguebook](games/r/roguebook.md) | 4.60 | 0 | 478 |
 | 374 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 425 | 187 |
 | 374 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.60 | 30 | 434 |

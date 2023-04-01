@@ -28,12 +28,12 @@
 | 26 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,159 | 4.36 | 690 |
 | 27 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,703 | 4.41 | 641 |
 | 28 | [NBA 2K21](games/n/nba_2k21.md) | 11,618 | 4.39 | 663 |
-| 29 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,234 | 4.87 | 24 |
+| 29 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,239 | 4.87 | 24 |
 | 30 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 11,126 | 4.60 | 374 |
 | 31 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,120 | 4.69 | 214 |
 | 32 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 9,611 | 4.45 | 590 |
 | 33 | [Satisfactory](games/s/satisfactory.md) | 8,842 | 4.88 | 19 |
-| 34 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 8,804 | 4.60 | 374 |
+| 34 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 8,817 | 4.60 | 374 |
 | 35 | [HITMAN 3](games/h/hitman_3.md) | 8,448 | 4.78 | 100 |
 | 36 | [Control](games/c/control.md) | 8,193 | 4.60 | 374 |
 | 37 | [Supraland](games/s/supraland.md) | 7,591 | 4.61 | 349 |
@@ -64,7 +64,7 @@
 | 62 | [MultiVersus](games/m/multiversus.md) | 4,724 | 4.56 | 436 |
 | 63 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4,533 | 4.75 | 127 |
 | 64 | [Shop Titans](games/s/shop_titans.md) | 4,479 | 3.98 | 863 |
-| 65 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,450 | 4.70 | 194 |
+| 65 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,453 | 4.70 | 194 |
 | 66 | [DEATH STRANDING](games/d/death_stranding.md) | 4,255 | 4.78 | 100 |
 | 67 | [Cities: Skylines](games/c/cities__skylines.md) | 4,172 | 4.65 | 290 |
 | 68 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,123 | 4.70 | 194 |
@@ -120,7 +120,7 @@
 | 118 | [DOOM 64](games/d/doom_64.md) | 1,282 | 4.66 | 272 |
 | 119 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,166 | 4.69 | 214 |
 | 120 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,156 | 4.87 | 24 |
-| 121 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,135 | 4.82 | 61 |
+| 121 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,137 | 4.82 | 61 |
 | 122 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,115 | 4.61 | 349 |
 | 123 | [XCOM® 2](games/x/xcom®_2.md) | 1,093 | 4.54 | 467 |
 | 124 | [OUTRIDERS](games/o/outriders.md) | 1,063 | 4.42 | 630 |
@@ -190,7 +190,7 @@
 | 188 | [Against the Storm](games/a/against_the_storm.md) | 414 | 4.81 | 67 |
 | 189 | [Loop Hero](games/l/loop_hero.md) | 409 | 4.68 | 236 |
 | 190 | [Into the Breach](games/i/into_the_breach.md) | 401 | 4.84 | 47 |
-| 191 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 395 | 4.74 | 141 |
+| 191 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 396 | 4.74 | 141 |
 | 192 | [Prison Architect](games/p/prison_architect.md) | 392 | 4.61 | 349 |
 | 193 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 391 | 4.50 | 523 |
 | 193 | [RimWorld](games/r/rimworld.md) | 391 | 4.89 | 13 |
