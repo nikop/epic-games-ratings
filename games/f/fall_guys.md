@@ -1,5 +1,5 @@
 # Fall Guys
-Rating: 4.53 (Ranked 481)  
+Rating: 4.53 (Ranked 482)  
 Number of Ratings: 1,046,587  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 137,046  (Ranked 6)  

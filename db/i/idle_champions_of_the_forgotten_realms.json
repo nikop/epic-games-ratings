@@ -1,7 +1,7 @@
 {
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
-  "Rating": 4.05,
+  "Rating": 4.06,
   "Ranking_Rating": 853,
   "Ranking_Popularity": 60,
   "Ranking_PopularitySum": 34,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 4803,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
-  "LastChanged": "2023-04-01T08:56:54.006861+00:00",
+  "LastChanged": "2023-04-01T17:56:57.1882566+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:45.6649584+00:00",
@@ -2764,6 +2764,12 @@
     {
       "Time": "2023-04-01T08:56:54.0068611+00:00",
       "Rating": 4.05,
+      "NumberOfAwards": 29487,
+      "NumberOfAwardsMax": 4803
+    },
+    {
+      "Time": "2023-04-01T17:56:57.1882567+00:00",
+      "Rating": 4.06,
       "NumberOfAwards": 29487,
       "NumberOfAwardsMax": 4803
     }

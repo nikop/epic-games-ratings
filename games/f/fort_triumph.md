@@ -1,5 +1,5 @@
 # Fort Triumph
-Rating: 4.08 (Ranked 848)  
+Rating: 4.08 (Ranked 849)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 136  (Ranked 283)  
 Sum: 136 (Ranked 374)  

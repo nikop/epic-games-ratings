@@ -2,15 +2,15 @@
   "ID": "azalea",
   "Name": "The Cycle: Frontier",
   "Rating": 4.1,
-  "Ranking_Rating": 839,
+  "Ranking_Rating": 840,
   "Ranking_Popularity": 96,
   "Ranking_PopularitySum": 67,
   "NumberOfRatings": 15671,
-  "NumberOfAwards": 12118,
+  "NumberOfAwards": 12123,
   "NumberOfAwardsMax": 2126,
   "MaxAwardTitle": "Competitive Players",
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "LastChanged": "2023-04-01T10:57:18.5083478+00:00",
+  "LastChanged": "2023-04-01T17:57:10.8074176+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:03.6642348+00:00",
@@ -3224,6 +3224,12 @@
       "Rating": 4.1,
       "NumberOfAwards": 12118,
       "NumberOfAwardsMax": 2126
+    },
+    {
+      "Time": "2023-04-01T17:57:10.807418+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 12123,
+      "NumberOfAwardsMax": 2126
     }
   ],
   "Tags": [
@@ -3255,7 +3261,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 2110
+      "Count": 2115
     },
     {
       "Text": "This game has a Competitive Community",

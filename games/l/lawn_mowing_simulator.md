@@ -1,5 +1,5 @@
 # Lawn Mowing Simulator
-Rating: 4.08 (Ranked 848)  
+Rating: 4.08 (Ranked 849)  
 Number of Ratings: 5,086  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 178  (Ranked 263)  

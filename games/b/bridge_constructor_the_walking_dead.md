@@ -1,5 +1,5 @@
 # Bridge Constructor The Walking Dead
-Rating: 3.94 (Ranked 872)  
+Rating: 3.94 (Ranked 873)  
 Number of Ratings: 104  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Challenging Puzzles): 29  (Ranked 438)  

@@ -1,5 +1,5 @@
 # Godfall
-Rating: 4.06 (Ranked 852)  
+Rating: 4.06 (Ranked 853)  
 Number of Ratings: 818  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 497  (Ranked 178)  
