@@ -1,5 +1,5 @@
 # AER Memories of Old
-Rating: 4.46 (Ranked 578)  
+Rating: 4.47 (Ranked 565)  
 Number of Ratings: 170  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 478)  
@@ -76,3 +76,4 @@ Diff (max vs sum): 0
 | 2023-01-21 | 4.47 | - | - |
 | 2023-02-21 | 4.46 | - | - |
 | 2023-03-31 | 4.46 | - | 0 |
+| 2023-04-01 | 4.47 | - | 0 |

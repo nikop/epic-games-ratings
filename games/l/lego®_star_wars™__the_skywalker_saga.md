@@ -1,5 +1,5 @@
 # LEGO® Star Wars™: The Skywalker Saga
-Rating: 4.79 (Ranked 93)  
+Rating: 4.79 (Ranked 92)  
 Number of Ratings: 2,536  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 2,215  (Ranked 93)  

@@ -1,8 +1,8 @@
 {
   "ID": "f696430be718494fac1d6542cfb22542",
   "Name": "Marvel\u2019s Spider-Man: Miles Morales",
-  "Rating": 4.8,
-  "Ranking_Rating": 79,
+  "Rating": 4.79,
+  "Ranking_Rating": 92,
   "Ranking_Popularity": 136,
   "Ranking_PopularitySum": 214,
   "NumberOfAwards": 1269,
@@ -10,7 +10,7 @@
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-11-18T19:57:18.4413349+00:00",
   "FirstSeenRating": "2022-11-19T02:30:31.0923375+00:00",
-  "LastChanged": "2023-03-31T11:57:19.0916789+00:00",
+  "LastChanged": "2023-04-01T11:57:09.0762942+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-19T02:30:31.0923377+00:00",
@@ -91,6 +91,12 @@
     {
       "Time": "2023-03-31T11:57:19.091679+00:00",
       "Rating": 4.8,
+      "NumberOfAwards": 1269,
+      "NumberOfAwardsMax": 957
+    },
+    {
+      "Time": "2023-04-01T11:57:09.0762944+00:00",
+      "Rating": 4.79,
       "NumberOfAwards": 1269,
       "NumberOfAwardsMax": 957
     }

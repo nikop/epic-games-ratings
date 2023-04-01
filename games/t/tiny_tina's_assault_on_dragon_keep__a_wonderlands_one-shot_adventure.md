@@ -1,5 +1,5 @@
 # Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure
-Rating: 4.46 (Ranked 578)  
+Rating: 4.46 (Ranked 579)  
 Number of Ratings: 1,211  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 274  (Ranked 223)  
