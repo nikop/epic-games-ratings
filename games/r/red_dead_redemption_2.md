@@ -3,13 +3,13 @@ Rating: 4.89 (Ranked 13)
 Number of Ratings: 102,658  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Impact the Story): 129,680  (Ranked 7)  
-Sum: 327,123 (Ranked 9)  
+Sum: 327,289 (Ranked 9)  
 Diff (max vs sum): -2
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | In this game, your choices Impact the Story | 129,680 |
-| This game has Great Boss Battles | 70,481 |
+| This game has Great Boss Battles | 70,647 |
 | This game is Great for Beginners | 12,336 |
 | This game has Diverse Characters | 12,036 |
 | This game is Highly Recommended | 11,959 |

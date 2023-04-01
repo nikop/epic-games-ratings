@@ -1,5 +1,5 @@
 # Returnal™
-Rating: 4.69 (Ranked 214)  
+Rating: 4.69 (Ranked 213)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 478)  
 Sum: 0 (Ranked 478)  
