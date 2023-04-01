@@ -1,13 +1,13 @@
 # Saints Row IV Re-Elected
 Rating: 4.40 (Ranked 653)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 366  (Ranked 200)  
-Sum: 366 (Ranked 299)  
+Max (Great Boss Battles): 369  (Ranked 200)  
+Sum: 369 (Ranked 299)  
 Diff (max vs sum): -99
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 366 |
+| This game has Great Boss Battles | 369 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -29,3 +29,4 @@ Diff (max vs sum): -99
 | 2023-01-29 | 4.42 | - | - |
 | 2023-02-01 | 4.41 | - | - |
 | 2023-02-12 | 4.40 | - | - |
+| 2023-04-01 | 4.40 | - | 369 |
