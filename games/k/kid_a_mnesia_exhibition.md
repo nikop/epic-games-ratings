@@ -1,5 +1,5 @@
 # KID A MNESIA EXHIBITION
-Rating: 4.80 (Ranked 79)  
+Rating: 4.81 (Ranked 67)  
 Number of Ratings: 41  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 478)  
@@ -43,3 +43,4 @@ Diff (max vs sum): 0
 | 2022-12-07 | 4.81 | - | - |
 | 2023-01-23 | 4.80 | - | - |
 | 2023-03-31 | 4.80 | - | 0 |
+| 2023-04-01 | 4.81 | - | 0 |
