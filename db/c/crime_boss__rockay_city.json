@@ -3,13 +3,14 @@
   "Name": "Crime Boss: Rockay City",
   "Rating": 3.81,
   "Ranking_Rating": 885,
-  "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 478,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
+  "Ranking_Popularity": 473,
+  "Ranking_PopularitySum": 473,
+  "NumberOfAwards": 20,
+  "NumberOfAwardsMax": 20,
+  "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
-  "LastChanged": "2023-04-02T13:00:32.9278896+00:00",
+  "LastChanged": "2023-04-02T13:57:08.2549542+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-29T02:58:45.3340124+00:00",
@@ -166,7 +167,20 @@
       "Rating": 3.81,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-02T13:57:08.2549544+00:00",
+      "Rating": 3.81,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Prefix": "This game is",
+      "Type": "Great for Quick Sessions",
+      "Count": 20
+    }
+  ]
 }

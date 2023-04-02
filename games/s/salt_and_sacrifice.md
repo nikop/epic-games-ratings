@@ -1,5 +1,5 @@
 # Salt and Sacrifice
-Rating: 4.31 (Ranked 734)  
+Rating: 4.31 (Ranked 735)  
 Number of Ratings: 2,205  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 916  (Ranked 139)  
