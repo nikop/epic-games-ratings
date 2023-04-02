@@ -1,5 +1,5 @@
 # Guild of Dungeoneering Ultimate Edition
-Rating: 4.65 (Ranked 290)  
+Rating: 4.65 (Ranked 289)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 478)  
 Sum: 0 (Ranked 478)  

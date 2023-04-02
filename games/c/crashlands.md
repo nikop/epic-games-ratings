@@ -1,5 +1,5 @@
 # Crashlands
-Rating: 4.66 (Ranked 272)  
+Rating: 4.65 (Ranked 289)  
 Number of Ratings: 517  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 186  (Ranked 258)  
@@ -86,3 +86,4 @@ Diff (max vs sum): -67
 | 2023-03-13 | 4.66 | - | - |
 | 2023-03-27 | 4.65 | - | - |
 | 2023-03-31 | 4.66 | - | 186 |
+| 2023-04-02 | 4.65 | - | 186 |
