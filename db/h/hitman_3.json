@@ -1,8 +1,8 @@
 {
   "ID": "ed55aa5edc5941de92fd7f64de415793",
   "Name": "HITMAN 3",
-  "Rating": 4.79,
-  "Ranking_Rating": 92,
+  "Rating": 4.78,
+  "Ranking_Rating": 99,
   "Ranking_Popularity": 35,
   "Ranking_PopularitySum": 18,
   "NumberOfRatings": 21082,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 8466,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:17:51.8099598+00:00",
-  "LastChanged": "2023-04-02T01:57:42.4381404+00:00",
+  "LastChanged": "2023-04-02T10:57:00.7869282+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:51.80996+00:00",
@@ -3795,6 +3795,12 @@
     {
       "Time": "2023-04-02T01:57:42.4381405+00:00",
       "Rating": 4.79,
+      "NumberOfAwards": 63598,
+      "NumberOfAwardsMax": 8466
+    },
+    {
+      "Time": "2023-04-02T10:57:00.7869392+00:00",
+      "Rating": 4.78,
       "NumberOfAwards": 63598,
       "NumberOfAwardsMax": 8466
     }

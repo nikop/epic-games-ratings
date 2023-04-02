@@ -17,7 +17,7 @@
 | 13 | [God of War](games/g/god_of_war.md) | 4.89 | 3,901 | 72 |
 | 13 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 129,680 | 7 |
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 391 | 193 |
-| 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 14,137 | 20 |
+| 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 14,174 | 20 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 126 | 288 |
 | 19 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 237 | 236 |
 | 19 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 0 | 478 |
@@ -92,19 +92,19 @@
 | 80 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 0 | 478 |
 | 80 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 26 | 450 |
 | 92 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,428 | 112 |
-| 92 | [HITMAN 3](games/h/hitman_3.md) | 4.79 | 8,466 | 35 |
 | 92 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 324 | 208 |
 | 92 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 2,215 | 93 |
 | 92 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 958 | 136 |
 | 92 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,763 | 54 |
 | 92 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 360 | 202 |
 | 92 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 478 |
-| 100 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,268 | 66 |
-| 100 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 16,440 | 18 |
-| 100 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 873 | 141 |
-| 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 901 | 140 |
-| 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 141 | 281 |
-| 100 | [Tchia](games/t/tchia.md) | 4.78 | 0 | 478 |
+| 99 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,268 | 66 |
+| 99 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,466 | 35 |
+| 99 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 16,440 | 18 |
+| 99 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 873 | 141 |
+| 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 901 | 140 |
+| 99 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 141 | 281 |
+| 99 | [Tchia](games/t/tchia.md) | 4.78 | 0 | 478 |
 | 106 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,808 | 74 |
 | 106 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.77 | 0 | 478 |
 | 106 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 0 | 478 |
@@ -118,7 +118,7 @@
 | 113 | [Diabotical](games/d/diabotical.md) | 4.76 | 259 | 231 |
 | 113 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 789 | 144 |
 | 113 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 39 | 402 |
-| 113 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 54 | 373 |
+| 113 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 55 | 372 |
 | 113 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 478 |
 | 113 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,600 | 109 |
 | 113 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 33 | 419 |
@@ -273,7 +273,7 @@
 | 256 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 90 | 325 |
 | 272 | [Death's Door](games/d/death's_door.md) | 4.66 | 0 | 478 |
 | 272 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,283 | 118 |
-| 272 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.66 | 54 | 373 |
+| 272 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.66 | 54 | 374 |
 | 272 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 472 | 181 |
 | 272 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 0 | 478 |
 | 272 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 0 | 478 |
@@ -803,14 +803,14 @@
 | 793 | [Somerville](games/s/somerville.md) | 4.20 | 0 | 478 |
 | 793 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 75 | 339 |
 | 803 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 376 |
-| 803 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 0 | 478 |
 | 803 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 0 | 478 |
 | 803 | [Flatout](games/f/flatout.md) | 4.19 | 0 | 478 |
 | 803 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 84 | 331 |
 | 803 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 178,641 | 4 |
 | 803 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 478 |
-| 810 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 316 |
-| 810 | [Windbound](games/w/windbound.md) | 4.18 | 0 | 478 |
+| 809 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 478 |
+| 809 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 316 |
+| 809 | [Windbound](games/w/windbound.md) | 4.18 | 0 | 478 |
 | 812 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 26 | 450 |
 | 812 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 2,069 | 98 |
 | 812 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.17 | 0 | 478 |

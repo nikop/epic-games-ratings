@@ -179,7 +179,7 @@
 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 19 | 237 | 236 |
 | [Dead Space](games/d/dead_space.md) | 4.72 | 167 | 31 | 429 |
 | [Death Coming](games/d/death_coming.md) | 4.42 | 629 | 0 | 478 |
-| [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 100 | 4,268 | 66 |
+| [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 99 | 4,268 | 66 |
 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 13 | 6,540 | 43 |
 | [Death's Door](games/d/death's_door.md) | 4.66 | 272 | 0 | 478 |
 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 467 | 33 | 419 |
@@ -234,16 +234,16 @@
 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 687 | 12,163 | 26 |
 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 8 | 0 | 478 |
 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 538 | 270 | 226 |
-| [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 803 | 0 | 478 |
+| [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 809 | 0 | 478 |
 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 307 | 45 | 387 |
 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 419 | 695 | 152 |
 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 401 | 228 | 239 |
 | [Faeria](games/f/faeria.md) | 4.45 | 591 | 102 | 310 |
 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 482 | 137,046 | 6 |
-| [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 113 | 54 | 373 |
+| [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 113 | 55 | 372 |
 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 373 | 13,097 | 24 |
 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 523 | 62 | 363 |
-| [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.66 | 272 | 54 | 373 |
+| [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.66 | 272 | 54 | 374 |
 | [Family Man](games/f/family_man.md) | 4.16 | 817 | 0 | 478 |
 | [Fangs](games/f/fangs.md) | 4.09 | 846 | 0 | 478 |
 | [Far Cry](games/f/far_cry.md) | 4.48 | 554 | 0 | 478 |
@@ -339,9 +339,9 @@
 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.91 | 6 | 0 | 478 |
 | [High On Life](games/h/high_on_life.md) | 4.69 | 213 | 0 | 478 |
 | [HITMAN](games/h/hitman.md) | 4.64 | 307 | 195 | 255 |
-| [HITMAN 3](games/h/hitman_3.md) | 4.79 | 92 | 8,466 | 35 |
+| [HITMAN 3](games/h/hitman_3.md) | 4.78 | 99 | 8,466 | 35 |
 | [Hob](games/h/hob.md) | 4.57 | 419 | 0 | 478 |
-| [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 100 | 16,440 | 18 |
+| [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 99 | 16,440 | 18 |
 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 538 | 2,016 | 100 |
 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 862 | 367 | 201 |
 | [Horace](games/h/horace.md) | 4.51 | 509 | 0 | 478 |
@@ -400,7 +400,7 @@
 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 176 | 7,044 | 40 |
 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 61 | 459 | 182 |
 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 128 | 92 | 322 |
-| [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 100 | 873 | 141 |
+| [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 99 | 873 | 141 |
 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 272 | 0 | 478 |
 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 496 | 115 | 297 |
 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 457 | 69 | 350 |
@@ -607,7 +607,7 @@
 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 565 | 0 | 478 |
 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 19 | 8,856 | 33 |
 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 767 | 0 | 478 |
-| [Scavengers](games/s/scavengers.md) | 4.18 | 810 | 96 | 316 |
+| [Scavengers](games/s/scavengers.md) | 4.18 | 809 | 96 | 316 |
 | [Scorn](games/s/scorn.md) | 4.48 | 554 | 0 | 478 |
 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.76 | 113 | 33 | 419 |
 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 709 | 0 | 478 |
@@ -648,7 +648,7 @@
 | [Somerville](games/s/somerville.md) | 4.20 | 793 | 0 | 478 |
 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 194 | 27 | 444 |
 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 640 | 72 | 346 |
-| [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 100 | 901 | 140 |
+| [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 99 | 901 | 140 |
 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 419 | 115 | 297 |
 | [Souldiers](games/s/souldiers.md) | 4.54 | 467 | 0 | 478 |
 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 47 | 82 | 335 |
@@ -687,7 +687,7 @@
 | [Submerged](games/s/submerged.md) | 4.09 | 846 | 0 | 478 |
 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 773 | 45 | 387 |
 | [Subnautica](games/s/subnautica.md) | 4.84 | 47 | 639 | 158 |
-| [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 100 | 141 | 281 |
+| [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 99 | 141 | 281 |
 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 194 | 0 | 478 |
 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 388 | 74 | 341 |
 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 401 | 201 | 251 |
@@ -710,7 +710,7 @@
 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 213 | 0 | 478 |
 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 457 | 0 | 478 |
 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 663 | 319 | 209 |
-| [Tchia](games/t/tchia.md) | 4.78 | 100 | 0 | 478 |
+| [Tchia](games/t/tchia.md) | 4.78 | 99 | 0 | 478 |
 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 467 | 486 | 180 |
 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 32 | 39 | 402 |
 | [Tharsis](games/t/tharsis.md) | 4.05 | 855 | 0 | 478 |
@@ -774,7 +774,7 @@
 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 113 | 0 | 478 |
 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 80 | 26 | 450 |
 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.87 | 24 | 0 | 478 |
-| [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 13 | 14,137 | 20 |
+| [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 13 | 14,174 | 20 |
 | [The Witness](games/t/the_witness.md) | 4.70 | 194 | 167 | 268 |
 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 67 | 0 | 478 |
 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 840 | 0 | 478 |
@@ -873,7 +873,7 @@
 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 882 | 0 | 478 |
 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 106 | 27 | 444 |
 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 307 | 0 | 478 |
-| [Windbound](games/w/windbound.md) | 4.18 | 810 | 0 | 478 |
+| [Windbound](games/w/windbound.md) | 4.18 | 809 | 0 | 478 |
 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.24 | 773 | 0 | 478 |
 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 401 | 14,284 | 19 |
 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 373 | 83 | 333 |

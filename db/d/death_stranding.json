@@ -2,15 +2,15 @@
   "ID": "f4a904fcef2447439c35c4e6457f3027",
   "Name": "DEATH STRANDING",
   "Rating": 4.78,
-  "Ranking_Rating": 100,
+  "Ranking_Rating": 99,
   "Ranking_Popularity": 66,
   "Ranking_PopularitySum": 111,
-  "NumberOfAwards": 5827,
+  "NumberOfAwards": 5830,
   "NumberOfAwardsMax": 4268,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-12-25T17:57:41.2427697+00:00",
   "FirstSeenRating": "2022-12-26T09:58:07.1196688+00:00",
-  "LastChanged": "2023-04-01T14:57:44.1516956+00:00",
+  "LastChanged": "2023-04-02T10:57:44.4756268+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-26T09:58:07.1196692+00:00",
@@ -121,6 +121,12 @@
       "Rating": 4.78,
       "NumberOfAwards": 5827,
       "NumberOfAwardsMax": 4268
+    },
+    {
+      "Time": "2023-04-02T10:57:44.475627+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5830,
+      "NumberOfAwardsMax": 4268
     }
   ],
   "Tags": [
@@ -134,7 +140,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 178
+      "Count": 179
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -146,7 +152,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 182
+      "Count": 184
     },
     {
       "Text": "This game is Great for Beginners",
