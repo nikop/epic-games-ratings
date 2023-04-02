@@ -1,5 +1,5 @@
 # Industries of Titan
-Rating: 4.49 (Ranked 537)  
+Rating: 4.49 (Ranked 538)  
 Number of Ratings: 123  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 478)  

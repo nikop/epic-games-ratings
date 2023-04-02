@@ -1,8 +1,8 @@
 {
   "ID": "tulip",
   "Name": "Thimbleweed Park",
-  "Rating": 4.6,
-  "Ranking_Rating": 373,
+  "Rating": 4.59,
+  "Ranking_Rating": 388,
   "Ranking_Popularity": 434,
   "Ranking_PopularitySum": 445,
   "NumberOfRatings": 115,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Challenging Puzzles",
   "FirstSeen": "2022-07-22T20:27:09.288426+00:00",
-  "LastChanged": "2023-03-16T02:06:14.1915535+00:00",
+  "LastChanged": "2023-04-02T03:57:47.2232067+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:09.2884263+00:00",
@@ -301,6 +301,12 @@
     {
       "Time": "2023-03-16T02:06:14.1915537+00:00",
       "Rating": 4.6
+    },
+    {
+      "Time": "2023-04-02T03:57:47.2232069+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 30,
+      "NumberOfAwardsMax": 30
     }
   ],
   "Tags": [

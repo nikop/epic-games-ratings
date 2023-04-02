@@ -1,5 +1,5 @@
 # Tails of Iron
-Rating: 4.49 (Ranked 537)  
+Rating: 4.49 (Ranked 538)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 478)  
 Sum: 0 (Ranked 478)  
