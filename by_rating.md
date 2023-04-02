@@ -224,7 +224,7 @@
 | 213 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.69 | 0 | 478 |
 | 213 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 478 |
 | 213 | [Returnal™](games/r/returnal™.md) | 4.69 | 0 | 478 |
-| 213 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,120 | 31 |
+| 213 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,121 | 31 |
 | 213 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.69 | 0 | 478 |
 | 213 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 0 | 478 |
 | 213 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 55 | 372 |
