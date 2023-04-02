@@ -1,15 +1,15 @@
 # Surviving Mars
-Rating: 4.60 (Ranked 373)  
+Rating: 4.60 (Ranked 374)  
 Number of Ratings: 3,483  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 425  (Ranked 187)  
-Sum: 2,962 (Ranked 147)  
+Sum: 2,963 (Ranked 147)  
 Diff (max vs sum): 40
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Great for Beginners | 425 |
-| This game has Quickly Understood Controls | 386 |
+| This game has Quickly Understood Controls | 387 |
 | This game is Relaxing | 373 |
 | This game is Extremely Fun | 354 |
 | This game is Highly Recommended | 349 |

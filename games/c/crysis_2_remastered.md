@@ -1,5 +1,5 @@
 # Crysis 2 Remastered
-Rating: 4.60 (Ranked 373)  
+Rating: 4.61 (Ranked 349)  
 Number of Ratings: 612  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 209  (Ranked 247)  
@@ -84,3 +84,4 @@ Diff (max vs sum): -95
 | 2022-12-30 | 4.61 | - | - |
 | 2023-03-31 | 4.61 | - | 209 |
 | 2023-04-01 | 4.60 | - | 209 |
+| 2023-04-02 | 4.61 | - | 209 |

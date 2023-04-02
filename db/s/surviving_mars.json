@@ -2,15 +2,15 @@
   "ID": "d759128018124dcabb1fbee9bb28e178",
   "Name": "Surviving Mars",
   "Rating": 4.6,
-  "Ranking_Rating": 373,
+  "Ranking_Rating": 374,
   "Ranking_Popularity": 187,
   "Ranking_PopularitySum": 147,
   "NumberOfRatings": 3483,
-  "NumberOfAwards": 2962,
+  "NumberOfAwards": 2963,
   "NumberOfAwardsMax": 425,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:20:28.5955065+00:00",
-  "LastChanged": "2023-04-02T18:57:23.1090064+00:00",
+  "LastChanged": "2023-04-02T20:57:34.6118321+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:28.5955068+00:00",
@@ -2080,6 +2080,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 2962,
       "NumberOfAwardsMax": 425
+    },
+    {
+      "Time": "2023-04-02T20:57:34.6118322+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 2963,
+      "NumberOfAwardsMax": 425
     }
   ],
   "Tags": [
@@ -2111,7 +2117,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 386
+      "Count": 387
     },
     {
       "Text": "This game is Relaxing",

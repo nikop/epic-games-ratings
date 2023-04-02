@@ -2,15 +2,15 @@
   "ID": "d2d162953fec40e381867d7af8371362",
   "Name": "Honkai Impact 3rd",
   "Rating": 4.49,
-  "Ranking_Rating": 536,
+  "Ranking_Rating": 537,
   "Ranking_Popularity": 100,
-  "Ranking_PopularitySum": 108,
-  "NumberOfAwards": 6431,
+  "Ranking_PopularitySum": 107,
+  "NumberOfAwards": 6433,
   "NumberOfAwardsMax": 2016,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
-  "LastChanged": "2023-04-02T15:57:13.4516124+00:00",
+  "LastChanged": "2023-04-02T20:57:09.5004667+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-28T11:32:15.7744845+00:00",
@@ -357,6 +357,12 @@
       "Rating": 4.49,
       "NumberOfAwards": 6431,
       "NumberOfAwardsMax": 2016
+    },
+    {
+      "Time": "2023-04-02T20:57:09.5004668+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 6433,
+      "NumberOfAwardsMax": 2016
     }
   ],
   "Tags": [
@@ -394,7 +400,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 265
+      "Count": 267
     },
     {
       "Text": "This game has Challenging Combat",

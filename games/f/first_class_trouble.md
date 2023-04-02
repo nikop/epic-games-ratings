@@ -2,8 +2,8 @@
 Rating: 4.52 (Ranked 496)  
 ## Popularity (Based on Awards)
 Max (Great for Quick Sessions): 69  (Ranked 350)  
-Sum: 511 (Ranked 284)  
-Diff (max vs sum): 66
+Sum: 511 (Ranked 283)  
+Diff (max vs sum): 67
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
