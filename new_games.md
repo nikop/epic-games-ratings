@@ -2,7 +2,7 @@
 | ---- | ------ | ------- | ------ | ------- |
 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 3.58 | 895 | 0 | 479 |
 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.82 | 885 | 20 | 473 |
-| [Chess Ultra](games/c/chess_ultra.md) | 4.25 | 767 | 0 | 479 |
+| [Chess Ultra](games/c/chess_ultra.md) | 4.25 | 766 | 0 | 479 |
 | [Tchia](games/t/tchia.md) | 4.79 | 92 | 0 | 479 |
 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.35 | 698 | 0 | 479 |
 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.26 | 759 | 0 | 479 |
