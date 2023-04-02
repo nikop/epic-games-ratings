@@ -2,15 +2,15 @@
   "ID": "4817ba5c11504724ba4d5817c8995dff",
   "Name": "Jurassic World Evolution 2",
   "Rating": 4.73,
-  "Ranking_Rating": 155,
+  "Ranking_Rating": 154,
   "Ranking_Popularity": 166,
   "Ranking_PopularitySum": 116,
   "NumberOfRatings": 3746,
-  "NumberOfAwards": 5243,
+  "NumberOfAwards": 5246,
   "NumberOfAwardsMax": 561,
   "MaxAwardTitle": "Amazing Storytelling",
   "FirstSeen": "2022-07-22T20:20:10.4170435+00:00",
-  "LastChanged": "2023-04-02T13:57:31.1402929+00:00",
+  "LastChanged": "2023-04-02T16:57:09.8558909+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:10.4170437+00:00",
@@ -2208,6 +2208,12 @@
       "Rating": 4.73,
       "NumberOfAwards": 5243,
       "NumberOfAwardsMax": 561
+    },
+    {
+      "Time": "2023-04-02T16:57:09.8558911+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 5246,
+      "NumberOfAwardsMax": 561
     }
   ],
   "Tags": [
@@ -2269,7 +2275,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 512
+      "Count": 515
     },
     {
       "Text": "This game has a Creative Community",

@@ -1,15 +1,15 @@
 {
   "ID": "9f101e25b1a9427a9e6971d2b21c5f82",
   "Name": "Rise of Industry",
-  "Rating": 4.22,
-  "Ranking_Rating": 785,
+  "Rating": 4.23,
+  "Ranking_Rating": 778,
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 479,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-08-13T00:31:45.0285821+00:00",
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
-  "LastChanged": "2023-03-31T05:58:14.2651928+00:00",
+  "LastChanged": "2023-04-02T16:58:13.494572+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-03T20:57:50.7322234+00:00",
@@ -106,6 +106,12 @@
     {
       "Time": "2023-03-31T05:58:14.2651929+00:00",
       "Rating": 4.22,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-02T16:58:13.4945723+00:00",
+      "Rating": 4.23,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

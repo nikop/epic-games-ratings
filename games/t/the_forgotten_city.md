@@ -1,5 +1,5 @@
 # The Forgotten City
-Rating: 4.75 (Ranked 128)  
+Rating: 4.75 (Ranked 127)  
 Number of Ratings: 37  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 479)  

@@ -1,5 +1,5 @@
 # Rise of the Tomb Raider: 20 Year Celebration
-Rating: 4.69 (Ranked 212)  
+Rating: 4.69 (Ranked 213)  
 Number of Ratings: 28,216  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 11,121  (Ranked 31)  

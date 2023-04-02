@@ -1,9 +1,9 @@
 # Jurassic World Evolution 2
-Rating: 4.73 (Ranked 155)  
+Rating: 4.73 (Ranked 154)  
 Number of Ratings: 3,746  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Amazing Storytelling): 561  (Ranked 166)  
-Sum: 5,243 (Ranked 116)  
+Sum: 5,246 (Ranked 116)  
 Diff (max vs sum): 50
 ## Awards
 | Award | Number of Ratings |
@@ -14,8 +14,8 @@ Diff (max vs sum): 50
 | This game is Relaxing | 544 |
 | This game is Educational | 526 |
 | This game is Highly Recommended | 522 |
+| This game has Amazing Characters | 515 |
 | This game has Quickly Understood Controls | 512 |
-| This game has Amazing Characters | 512 |
 | This game has Diverse Characters | 501 |
 | This game has a Creative Community | 458 |
 | This game has Obsessive Gameplay | 374 |

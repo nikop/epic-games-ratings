@@ -1,5 +1,5 @@
 # Sackboy™: A Big Adventure
-Rating: 4.77 (Ranked 106)  
+Rating: 4.75 (Ranked 127)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 479)  
 Sum: 0 (Ranked 479)  
@@ -48,3 +48,4 @@ Diff (max vs sum): 0
 | 2023-03-20 | 4.78 | - | - |
 | 2023-03-22 | 4.77 | - | - |
 | 2023-03-31 | 4.77 | - | 0 |
+| 2023-04-02 | 4.75 | - | 0 |

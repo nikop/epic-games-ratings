@@ -2,15 +2,15 @@
   "ID": "0712176b5e3e49bfa8866c0ee1359f2d",
   "Name": "KINGDOM HEARTS III \u002B Re Mind",
   "Rating": 4.78,
-  "Ranking_Rating": 99,
+  "Ranking_Rating": 100,
   "Ranking_Popularity": 141,
   "Ranking_PopularitySum": 168,
   "NumberOfRatings": 2011,
-  "NumberOfAwards": 2242,
-  "NumberOfAwardsMax": 873,
+  "NumberOfAwards": 2243,
+  "NumberOfAwardsMax": 874,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:21:33.6381012+00:00",
-  "LastChanged": "2023-04-01T04:57:24.3092964+00:00",
+  "LastChanged": "2023-04-02T16:57:19.4526338+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:33.6381014+00:00",
@@ -1419,6 +1419,12 @@
       "Rating": 4.78,
       "NumberOfAwards": 2242,
       "NumberOfAwardsMax": 873
+    },
+    {
+      "Time": "2023-04-02T16:57:19.452634+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 2243,
+      "NumberOfAwardsMax": 874
     }
   ],
   "Tags": [
@@ -1426,7 +1432,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 873
+      "Count": 874
     },
     {
       "Text": "This game has Great Boss Battles",

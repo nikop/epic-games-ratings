@@ -1,16 +1,16 @@
 {
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
-  "Rating": 4.61,
-  "Ranking_Rating": 348,
+  "Rating": 4.62,
+  "Ranking_Rating": 332,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 13,
   "NumberOfRatings": 32700,
-  "NumberOfAwards": 156859,
-  "NumberOfAwardsMax": 60294,
+  "NumberOfAwards": 157001,
+  "NumberOfAwardsMax": 60377,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
-  "LastChanged": "2023-04-02T15:57:11.8616517+00:00",
+  "LastChanged": "2023-04-02T16:56:47.386275+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:03.6420176+00:00",
@@ -3709,6 +3709,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 156859,
       "NumberOfAwardsMax": 60294
+    },
+    {
+      "Time": "2023-04-02T16:56:47.3862753+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 157001,
+      "NumberOfAwardsMax": 60377
     }
   ],
   "Tags": [
@@ -3716,13 +3722,13 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 60294
+      "Count": 60377
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 38561
+      "Count": 38620
     },
     {
       "Text": "This game has Diverse Characters",

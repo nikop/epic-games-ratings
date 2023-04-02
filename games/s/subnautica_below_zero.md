@@ -1,5 +1,5 @@
 # Subnautica Below Zero
-Rating: 4.78 (Ranked 99)  
+Rating: 4.78 (Ranked 100)  
 Number of Ratings: 1,844  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 141  (Ranked 281)  

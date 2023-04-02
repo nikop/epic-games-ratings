@@ -1,6 +1,18 @@
 {
   "ID": "80053eb656ea417b8cc6c891699477c7",
   "Name": "Eldest Souls",
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-02T16:58:35.9851929+00:00",
+  "FirstSeenRating": "2023-04-02T16:58:35.9851971+00:00",
+  "LastChanged": "2023-04-02T16:58:35.9851971+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-02T16:58:35.9851974+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

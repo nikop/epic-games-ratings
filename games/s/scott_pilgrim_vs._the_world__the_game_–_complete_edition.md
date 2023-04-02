@@ -1,5 +1,5 @@
 # Scott Pilgrim vs. The World: The Game – Complete Edition
-Rating: 4.76 (Ranked 113)  
+Rating: 4.76 (Ranked 112)  
 Number of Ratings: 99  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 33  (Ranked 419)  

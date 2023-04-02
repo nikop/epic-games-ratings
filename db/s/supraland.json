@@ -2,15 +2,15 @@
   "ID": "ae373893881044d2bf26d6f8363a120e",
   "Name": "Supraland",
   "Rating": 4.61,
-  "Ranking_Rating": 348,
+  "Ranking_Rating": 349,
   "Ranking_Popularity": 37,
   "Ranking_PopularitySum": 77,
   "NumberOfRatings": 25175,
-  "NumberOfAwards": 9859,
+  "NumberOfAwards": 9860,
   "NumberOfAwardsMax": 7594,
   "MaxAwardTitle": "Challenging Puzzles",
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
-  "LastChanged": "2023-04-02T14:57:05.2056024+00:00",
+  "LastChanged": "2023-04-02T16:57:07.1515249+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:49.3012081+00:00",
@@ -2124,6 +2124,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 9859,
       "NumberOfAwardsMax": 7594
+    },
+    {
+      "Time": "2023-04-02T16:57:07.1515251+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 9860,
+      "NumberOfAwardsMax": 7594
     }
   ],
   "Tags": [
@@ -2149,7 +2155,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 272
+      "Count": 273
     },
     {
       "Text": "This game is Educational",
