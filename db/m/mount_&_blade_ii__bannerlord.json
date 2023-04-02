@@ -2,15 +2,15 @@
   "ID": "aeac94c7a11048758064b82f8f8d20ed",
   "Name": "Mount \u0026 Blade II: Bannerlord",
   "Rating": 4.74,
-  "Ranking_Rating": 141,
+  "Ranking_Rating": 142,
   "Ranking_Popularity": 45,
   "Ranking_PopularitySum": 65,
   "NumberOfRatings": 5603,
-  "NumberOfAwards": 12420,
+  "NumberOfAwards": 12426,
   "NumberOfAwardsMax": 6300,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
-  "LastChanged": "2023-04-02T10:57:17.1205668+00:00",
+  "LastChanged": "2023-04-02T11:57:30.0062961+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:18.7217338+00:00",
@@ -2801,6 +2801,12 @@
       "Rating": 4.74,
       "NumberOfAwards": 12420,
       "NumberOfAwardsMax": 6300
+    },
+    {
+      "Time": "2023-04-02T11:57:30.0062962+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 12426,
+      "NumberOfAwardsMax": 6300
     }
   ],
   "Tags": [
@@ -2850,7 +2856,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 678
+      "Count": 683
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2862,7 +2868,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 684
+      "Count": 685
     },
     {
       "Text": "This game has a Creative Community",

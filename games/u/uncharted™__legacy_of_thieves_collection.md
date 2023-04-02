@@ -1,15 +1,15 @@
 # UNCHARTED™: Legacy of Thieves Collection
-Rating: 4.74 (Ranked 141)  
+Rating: 4.74 (Ranked 142)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 568  (Ranked 164)  
-Sum: 831 (Ranked 237)  
+Sum: 832 (Ranked 237)  
 Diff (max vs sum): -73
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Great Boss Battles | 568 |
 | This game has Diverse Characters | 36 |
-| This game has Amazing Characters | 33 |
+| This game has Amazing Characters | 34 |
 | This game is Highly Recommended | 32 |
 | This game is Extremely Fun | 32 |
 | This game is Relaxing | 32 |
@@ -58,3 +58,4 @@ Diff (max vs sum): -73
 | 2023-03-04 | 4.75 | - | - |
 | 2023-03-26 | 4.74 | - | - |
 | 2023-04-01 | 4.74 | - | 568 |
+| 2023-04-02 | 4.74 | - | 568 |

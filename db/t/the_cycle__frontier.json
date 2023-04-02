@@ -2,15 +2,15 @@
   "ID": "azalea",
   "Name": "The Cycle: Frontier",
   "Rating": 4.1,
-  "Ranking_Rating": 840,
+  "Ranking_Rating": 841,
   "Ranking_Popularity": 96,
   "Ranking_PopularitySum": 67,
   "NumberOfRatings": 15671,
-  "NumberOfAwards": 12131,
+  "NumberOfAwards": 12133,
   "NumberOfAwardsMax": 2126,
   "MaxAwardTitle": "Competitive Players",
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "LastChanged": "2023-04-02T06:57:23.0883335+00:00",
+  "LastChanged": "2023-04-02T11:57:16.7076152+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:03.6642348+00:00",
@@ -3236,6 +3236,12 @@
       "Rating": 4.1,
       "NumberOfAwards": 12131,
       "NumberOfAwardsMax": 2126
+    },
+    {
+      "Time": "2023-04-02T11:57:16.7076153+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 12133,
+      "NumberOfAwardsMax": 2126
     }
   ],
   "Tags": [
@@ -3249,7 +3255,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 2069
+      "Count": 2071
     },
     {
       "Text": "This game is Extremely Fun",

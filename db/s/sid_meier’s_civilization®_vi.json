@@ -1,8 +1,8 @@
 {
   "ID": "cd14dcaa4f3443f19f7169a980559c62",
   "Name": "Sid Meier\u2019s Civilization\u00AE VI",
-  "Rating": 4.74,
-  "Ranking_Rating": 141,
+  "Rating": 4.73,
+  "Ranking_Rating": 154,
   "Ranking_Popularity": 13,
   "Ranking_PopularitySum": 10,
   "NumberOfRatings": 57866,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 28435,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
-  "LastChanged": "2023-04-02T10:57:00.5722339+00:00",
+  "LastChanged": "2023-04-02T11:57:07.2081412+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:50.1564233+00:00",
@@ -3538,6 +3538,12 @@
     {
       "Time": "2023-04-02T10:57:00.572234+00:00",
       "Rating": 4.74,
+      "NumberOfAwards": 236681,
+      "NumberOfAwardsMax": 28435
+    },
+    {
+      "Time": "2023-04-02T11:57:07.2081413+00:00",
+      "Rating": 4.73,
       "NumberOfAwards": 236681,
       "NumberOfAwardsMax": 28435
     }

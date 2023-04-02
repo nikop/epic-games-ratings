@@ -2,15 +2,15 @@
   "ID": "8b2d6cf2b45b41f1abe91bc5b7c1e8f9",
   "Name": "UNCHARTED\u2122: Legacy of Thieves Collection",
   "Rating": 4.74,
-  "Ranking_Rating": 141,
+  "Ranking_Rating": 142,
   "Ranking_Popularity": 164,
   "Ranking_PopularitySum": 237,
-  "NumberOfAwards": 831,
+  "NumberOfAwards": 832,
   "NumberOfAwardsMax": 568,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-10-19T19:01:42.4603943+00:00",
   "FirstSeenRating": "2022-10-20T19:02:12.9087244+00:00",
-  "LastChanged": "2023-04-01T15:57:35.8754987+00:00",
+  "LastChanged": "2023-04-02T11:58:00.4194539+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-20T19:02:12.9087246+00:00",
@@ -237,6 +237,12 @@
       "Rating": 4.74,
       "NumberOfAwards": 831,
       "NumberOfAwardsMax": 568
+    },
+    {
+      "Time": "2023-04-02T11:58:00.4194569+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 832,
+      "NumberOfAwardsMax": 568
     }
   ],
   "Tags": [
@@ -262,7 +268,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game is Extremely Fun",

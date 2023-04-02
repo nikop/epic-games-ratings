@@ -1,8 +1,8 @@
 {
   "ID": "58dfcd1952ee48c1a1fa31c6ace5fe3d",
   "Name": "The Long Dark",
-  "Rating": 4.74,
-  "Ranking_Rating": 141,
+  "Rating": 4.75,
+  "Ranking_Rating": 128,
   "Ranking_Popularity": 149,
   "Ranking_PopularitySum": 127,
   "NumberOfRatings": 4814,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 725,
   "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2022-07-22T20:32:46.2160701+00:00",
-  "LastChanged": "2023-04-02T07:57:23.6674542+00:00",
+  "LastChanged": "2023-04-02T11:57:36.9538209+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:46.2160704+00:00",
@@ -2566,6 +2566,12 @@
     {
       "Time": "2023-04-02T07:57:23.6674543+00:00",
       "Rating": 4.74,
+      "NumberOfAwards": 4387,
+      "NumberOfAwardsMax": 725
+    },
+    {
+      "Time": "2023-04-02T11:57:36.953821+00:00",
+      "Rating": 4.75,
       "NumberOfAwards": 4387,
       "NumberOfAwardsMax": 725
     }

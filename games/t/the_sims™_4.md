@@ -2,7 +2,7 @@
 Rating: 4.58 (Ranked 401)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 65  (Ranked 360)  
-Sum: 435 (Ranked 288)  
+Sum: 438 (Ranked 288)  
 Diff (max vs sum): 72
 ## Awards
 | Award | Number of Ratings |
@@ -15,8 +15,8 @@ Diff (max vs sum): 72
 | This game has Amazing Characters | 37 |
 | This game is Educational | 36 |
 | This game is Extremely Fun | 34 |
+| This game has Amazing Storytelling | 31 |
 | This game is Relaxing | 31 |
-| This game has Amazing Storytelling | 28 |
 | This game has Easy Combat | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |

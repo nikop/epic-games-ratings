@@ -1,5 +1,5 @@
 # The Last of Us™ Part I
-Rating: 3.51 (Ranked 894)  
+Rating: 3.51 (Ranked 895)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 478)  
 Sum: 0 (Ranked 478)  

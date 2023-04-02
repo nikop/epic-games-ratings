@@ -1,5 +1,5 @@
 # Lifeless Planet: Premier Edition
-Rating: 4.05 (Ranked 855)  
+Rating: 4.05 (Ranked 856)  
 Number of Ratings: 287  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 478)  

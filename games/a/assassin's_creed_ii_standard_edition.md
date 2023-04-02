@@ -1,5 +1,5 @@
 # Assassin's Creed II Standard Edition
-Rating: 4.74 (Ranked 141)  
+Rating: 4.74 (Ranked 142)  
 Number of Ratings: 315  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Amazing Storytelling): 22  (Ranked 462)  

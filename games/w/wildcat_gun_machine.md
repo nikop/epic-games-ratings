@@ -1,5 +1,5 @@
 # Wildcat Gun Machine
-Rating: 3.88 (Ranked 882)  
+Rating: 3.88 (Ranked 883)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 478)  
 Sum: 0 (Ranked 478)  
