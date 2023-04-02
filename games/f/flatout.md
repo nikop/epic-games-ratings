@@ -1,5 +1,5 @@
 # Flatout
-Rating: 4.19 (Ranked 804)  
+Rating: 4.19 (Ranked 803)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 479)  
 Sum: 0 (Ranked 479)  

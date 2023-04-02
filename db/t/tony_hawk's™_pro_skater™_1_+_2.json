@@ -6,11 +6,11 @@
   "Ranking_Popularity": 337,
   "Ranking_PopularitySum": 266,
   "NumberOfRatings": 1298,
-  "NumberOfAwards": 630,
+  "NumberOfAwards": 631,
   "NumberOfAwardsMax": 80,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:20:55.4170175+00:00",
-  "LastChanged": "2023-04-02T16:57:14.7091388+00:00",
+  "LastChanged": "2023-04-02T17:57:17.5438755+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:55.4170178+00:00",
@@ -1101,6 +1101,12 @@
       "Rating": 4.83,
       "NumberOfAwards": 630,
       "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2023-04-02T17:57:17.5438757+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 631,
+      "NumberOfAwardsMax": 80
     }
   ],
   "Tags": [
@@ -1120,7 +1126,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 60
+      "Count": 61
     },
     {
       "Text": "This game is Highly Recommended",

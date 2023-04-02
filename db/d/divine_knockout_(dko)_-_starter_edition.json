@@ -4,13 +4,13 @@
   "Rating": 4.36,
   "Ranking_Rating": 687,
   "Ranking_Popularity": 391,
-  "Ranking_PopularitySum": 302,
+  "Ranking_PopularitySum": 301,
   "NumberOfRatings": 60,
-  "NumberOfAwards": 349,
+  "NumberOfAwards": 352,
   "NumberOfAwardsMax": 44,
-  "MaxAwardTitle": "Quickly Understood Controls",
+  "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
-  "LastChanged": "2023-04-01T14:57:30.1267813+00:00",
+  "LastChanged": "2023-04-02T17:57:36.2296139+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:52.9902409+00:00",
@@ -450,6 +450,12 @@
       "Rating": 4.36,
       "NumberOfAwards": 349,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-04-02T17:57:36.2296142+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 352,
+      "NumberOfAwardsMax": 44
     }
   ],
   "Tags": [
@@ -469,13 +475,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 43
+      "Count": 44
     },
     {
       "Text": "This game has Competitive Players",
@@ -499,7 +505,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game is Relaxing",

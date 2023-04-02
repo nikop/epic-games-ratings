@@ -3,15 +3,15 @@
   "Name": "DOOM (1993)",
   "Rating": 4.81,
   "Ranking_Rating": 67,
-  "Ranking_Popularity": 429,
-  "Ranking_PopularitySum": 443,
+  "Ranking_Popularity": 424,
+  "Ranking_PopularitySum": 440,
   "NumberOfRatings": 96,
-  "NumberOfAwards": 31,
-  "NumberOfAwardsMax": 31,
+  "NumberOfAwards": 32,
+  "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-08-19T14:31:30.8251329+00:00",
   "FirstSeenRating": "2022-08-26T00:30:55.8306783+00:00",
-  "LastChanged": "2023-03-12T19:57:29.8185693+00:00",
+  "LastChanged": "2023-04-02T17:57:22.6774817+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-26T00:30:55.830679+00:00",
@@ -211,6 +211,12 @@
     {
       "Time": "2023-03-12T19:57:29.8185695+00:00",
       "Rating": 4.81
+    },
+    {
+      "Time": "2023-04-02T17:57:22.6774819+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 32,
+      "NumberOfAwardsMax": 32
     }
   ],
   "Tags": [
@@ -218,7 +224,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 31
+      "Count": 32
     }
   ]
 }
