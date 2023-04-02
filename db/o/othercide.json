@@ -1,15 +1,15 @@
 {
   "ID": "325bbb62ea0d490793fd3d274ea74818",
   "Name": "Othercide",
-  "Rating": 4.4,
-  "Ranking_Rating": 652,
+  "Rating": 4.41,
+  "Ranking_Rating": 640,
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 479,
   "NumberOfRatings": 40,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:25:43.6994898+00:00",
-  "LastChanged": "2023-03-31T05:57:57.1012251+00:00",
+  "LastChanged": "2023-04-02T23:57:30.1297342+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:43.6994901+00:00",
@@ -163,6 +163,12 @@
     {
       "Time": "2023-03-31T05:57:57.1012253+00:00",
       "Rating": 4.4,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-02T23:57:30.1297343+00:00",
+      "Rating": 4.41,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
