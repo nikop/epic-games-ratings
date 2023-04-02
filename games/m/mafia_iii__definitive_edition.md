@@ -1,5 +1,5 @@
 # Mafia III: Definitive Edition
-Rating: 4.20 (Ranked 792)  
+Rating: 4.20 (Ranked 793)  
 Number of Ratings: 1,289  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Amazing Characters): 68  (Ranked 354)  

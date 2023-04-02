@@ -1,20 +1,21 @@
 # Warhammer 40,000: Gladius - Relics of War
-Rating: 4.25 (Ranked 766)  
+Rating: 4.25 (Ranked 767)  
 Number of Ratings: 39  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 30  (Ranked 434)  
-Sum: 170 (Ranked 356)  
-Diff (max vs sum): 78
+Sum: 192 (Ranked 347)  
+Diff (max vs sum): 87
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Extremely Fun | 30 |
+| This game is Relaxing | 26 |
 | This game is Highly Recommended | 25 |
 | This game has Diverse Characters | 25 |
-| This game is Relaxing | 24 |
 | This game has Amazing Characters | 23 |
 | This game has Competitive Players | 22 |
 | This game has Quickly Understood Controls | 21 |
+| This game has Unique Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -60,3 +61,4 @@ Diff (max vs sum): 78
 | 2023-03-30 | 4.24 | - | - |
 | 2023-03-31 | 4.24 | - | 30 |
 | 2023-04-01 | 4.25 | - | 30 |
+| 2023-04-02 | 4.25 | - | 30 |
