@@ -1,5 +1,5 @@
 # Isonzo
-Rating: 4.56 (Ranked 436)  
+Rating: 4.55 (Ranked 457)  
 Number of Ratings: 98  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 29  (Ranked 438)  
@@ -71,3 +71,4 @@ Diff (max vs sum): 99
 | 2023-03-05 | 4.57 | - | - |
 | 2023-03-14 | 4.55 | - | - |
 | 2023-03-21 | 4.56 | - | - |
+| 2023-04-02 | 4.55 | - | 29 |
