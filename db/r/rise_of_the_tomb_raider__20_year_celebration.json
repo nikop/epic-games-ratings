@@ -6,11 +6,11 @@
   "Ranking_Popularity": 31,
   "Ranking_PopularitySum": 59,
   "NumberOfRatings": 28216,
-  "NumberOfAwards": 14052,
+  "NumberOfAwards": 14054,
   "NumberOfAwardsMax": 11121,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:21:10.6439255+00:00",
-  "LastChanged": "2023-04-02T02:57:23.2434651+00:00",
+  "LastChanged": "2023-04-02T05:57:14.3554473+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:10.6439258+00:00",
@@ -2667,6 +2667,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 14052,
       "NumberOfAwardsMax": 11121
+    },
+    {
+      "Time": "2023-04-02T05:57:14.3554473+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 14054,
+      "NumberOfAwardsMax": 11121
     }
   ],
   "Tags": [
@@ -2686,7 +2692,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 347
+      "Count": 349
     },
     {
       "Text": "This game has Amazing Storytelling",

@@ -26,7 +26,7 @@
 | 24 | [Black Book](games/b/black_book.md) | 4.87 | 21 | 468 |
 | 24 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 135 | 284 |
 | 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,357 | 114 |
-| 24 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,239 | 29 |
+| 24 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,246 | 29 |
 | 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 991 | 131 |
 | 24 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 22 | 462 |
 | 24 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 1,157 | 120 |
@@ -367,7 +367,7 @@
 | 348 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,375 | 89 |
 | 348 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 392 | 192 |
 | 348 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,055 | 125 |
-| 348 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 264 | 228 |
+| 348 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 265 | 228 |
 | 348 | [Supraland](games/s/supraland.md) | 4.61 | 7,592 | 37 |
 | 348 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 60 | 367 |
 | 348 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.61 | 0 | 478 |
@@ -579,7 +579,7 @@
 | 565 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 96 | 316 |
 | 565 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 478 |
 | 579 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 0 | 478 |
-| 579 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,165 | 82 |
+| 579 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,168 | 82 |
 | 579 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.46 | 0 | 478 |
 | 579 | [Figment](games/f/figment.md) | 4.46 | 20 | 473 |
 | 579 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 105 | 307 |
@@ -600,7 +600,7 @@
 | 591 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 37 | 406 |
 | 591 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 478 |
 | 591 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 844 | 142 |
-| 591 | [SMITE](games/s/smite.md) | 4.45 | 3,554 | 77 |
+| 591 | [SMITE](games/s/smite.md) | 4.45 | 3,560 | 77 |
 | 591 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 113 | 300 |
 | 591 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 0 | 478 |
 | 591 | [World of Warships](games/w/world_of_warships.md) | 4.45 | 963 | 135 |

@@ -28,7 +28,7 @@
 | 26 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,163 | 4.36 | 687 |
 | 27 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,706 | 4.41 | 640 |
 | 28 | [NBA 2K21](games/n/nba_2k21.md) | 11,618 | 4.39 | 663 |
-| 29 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,239 | 4.87 | 24 |
+| 29 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,246 | 4.87 | 24 |
 | 30 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 11,143 | 4.60 | 373 |
 | 31 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,121 | 4.69 | 213 |
 | 32 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 9,624 | 4.45 | 591 |
@@ -76,12 +76,12 @@
 | 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 3,808 | 4.77 | 106 |
 | 75 | [Days Gone](games/d/days_gone.md) | 3,694 | 4.69 | 213 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 3,583 | 4.56 | 436 |
-| 77 | [SMITE](games/s/smite.md) | 3,554 | 4.45 | 591 |
+| 77 | [SMITE](games/s/smite.md) | 3,560 | 4.45 | 591 |
 | 78 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,534 | 4.30 | 738 |
 | 79 | [Gloomhaven](games/g/gloomhaven.md) | 3,411 | 4.47 | 565 |
 | 80 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,313 | 4.68 | 236 |
 | 81 | [Paladins](games/p/paladins.md) | 3,180 | 4.35 | 698 |
-| 82 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,165 | 4.46 | 579 |
+| 82 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,168 | 4.46 | 579 |
 | 83 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,128 | 4.75 | 128 |
 | 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,063 | 4.59 | 388 |
 | 85 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 2,969 | 4.57 | 419 |
@@ -227,7 +227,7 @@
 | 225 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 271 | 4.61 | 348 |
 | 226 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 270 | 4.49 | 538 |
 | 227 | [Railway Empire](games/r/railway_empire.md) | 269 | 4.51 | 509 |
-| 228 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 264 | 4.61 | 348 |
+| 228 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 265 | 4.61 | 348 |
 | 229 | [Sheltered](games/s/sheltered.md) | 261 | 4.42 | 629 |
 | 230 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 260 | 4.85 | 38 |
 | 231 | [Diabotical](games/d/diabotical.md) | 259 | 4.76 | 113 |

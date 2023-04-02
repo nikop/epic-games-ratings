@@ -65,7 +65,7 @@
 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 436 | 46 | 384 |
 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 457 | 0 | 478 |
 | [Aztez](games/a/aztez.md) | 4.53 | 482 | 0 | 478 |
-| [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 579 | 3,165 | 82 |
+| [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 579 | 3,168 | 82 |
 | [Backbone](games/b/backbone.md) | 4.33 | 717 | 0 | 478 |
 | [Bad North](games/b/bad_north.md) | 4.68 | 236 | 0 | 478 |
 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 672 | 0 | 478 |
@@ -442,7 +442,7 @@
 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.03 | 858 | 0 | 478 |
 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 155 | 538 | 173 |
 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 467 | 981 | 132 |
-| [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 24 | 11,239 | 29 |
+| [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 24 | 11,246 | 29 |
 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 92 | 958 | 136 |
 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 348 | 1,045 | 126 |
 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 290 | 47 | 382 |
@@ -602,7 +602,7 @@
 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 640 | 2,156 | 95 |
 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 176 | 0 | 478 |
 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 734 | 916 | 139 |
-| [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 348 | 264 | 228 |
+| [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 348 | 265 | 228 |
 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 290 | 0 | 478 |
 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 565 | 0 | 478 |
 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 19 | 8,856 | 33 |
@@ -639,7 +639,7 @@
 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 80 | 97 | 313 |
 | [Slipways](games/s/slipways.md) | 4.73 | 155 | 0 | 478 |
 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 113 | 0 | 478 |
-| [SMITE](games/s/smite.md) | 4.45 | 591 | 3,554 | 77 |
+| [SMITE](games/s/smite.md) | 4.45 | 591 | 3,560 | 77 |
 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.33 | 717 | 0 | 478 |
 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 113 | 7,346 | 39 |
 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 272 | 24 | 456 |

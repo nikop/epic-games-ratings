@@ -4,13 +4,13 @@
   "Rating": 4.6,
   "Ranking_Rating": 373,
   "Ranking_Popularity": 187,
-  "Ranking_PopularitySum": 149,
+  "Ranking_PopularitySum": 147,
   "NumberOfRatings": 3483,
-  "NumberOfAwards": 2960,
+  "NumberOfAwards": 2961,
   "NumberOfAwardsMax": 425,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:20:28.5955065+00:00",
-  "LastChanged": "2022-11-22T20:57:26.4190327+00:00",
+  "LastChanged": "2023-04-02T05:57:10.7431283+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:28.5955068+00:00",
@@ -2068,6 +2068,12 @@
     {
       "Time": "2022-11-22T20:57:26.4190329+00:00",
       "Rating": 4.6
+    },
+    {
+      "Time": "2023-04-02T05:57:10.7431284+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 2961,
+      "NumberOfAwardsMax": 425
     }
   ],
   "Tags": [
@@ -2105,7 +2111,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 372
+      "Count": 373
     },
     {
       "Text": "This game has Obsessive Gameplay",
