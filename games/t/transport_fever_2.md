@@ -1,5 +1,5 @@
 # Transport Fever 2
-Rating: 4.69 (Ranked 213)  
+Rating: 4.69 (Ranked 212)  
 Number of Ratings: 180  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 35  (Ranked 415)  

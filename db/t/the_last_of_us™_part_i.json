@@ -1,7 +1,7 @@
 {
   "ID": "0c40923dd1174a768f732a3b013dcff2",
   "Name": "The Last of Us\u2122 Part I",
-  "Rating": 3.58,
+  "Rating": 3.63,
   "Ranking_Rating": 895,
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 479,
@@ -9,7 +9,7 @@
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-28T17:57:06.372926+00:00",
   "FirstSeenRating": "2023-03-30T20:57:18.2148276+00:00",
-  "LastChanged": "2023-04-02T17:57:10.0717344+00:00",
+  "LastChanged": "2023-04-02T22:57:27.8531076+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-30T20:57:18.2148278+00:00",
@@ -46,6 +46,12 @@
     {
       "Time": "2023-04-02T17:57:10.0717348+00:00",
       "Rating": 3.58,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-02T22:57:27.853108+00:00",
+      "Rating": 3.63,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
