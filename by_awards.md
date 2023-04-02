@@ -131,7 +131,7 @@
 | 129 | [Saints Row](games/s/saints_row.md) | 1,017 | 3.78 | 885 |
 | 130 | [EVE Online](games/e/eve_online.md) | 994 | 4.26 | 760 |
 | 131 | [Ooblets](games/o/ooblets.md) | 991 | 4.87 | 24 |
-| 132 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 981 | 4.54 | 467 |
+| 132 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 989 | 4.54 | 467 |
 | 133 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 970 | 4.23 | 778 |
 | 134 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 967 | 4.40 | 652 |
 | 135 | [World of Warships](games/w/world_of_warships.md) | 963 | 4.45 | 591 |

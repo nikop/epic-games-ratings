@@ -472,7 +472,7 @@
 | 467 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 937 | 138 |
 | 467 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 189 | 257 |
 | 467 | [IXION](games/i/ixion.md) | 4.54 | 0 | 478 |
-| 467 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 981 | 132 |
+| 467 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 989 | 132 |
 | 467 | [Outward](games/o/outward.md) | 4.54 | 31 | 429 |
 | 467 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 780 | 145 |
 | 467 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 32 | 424 |
