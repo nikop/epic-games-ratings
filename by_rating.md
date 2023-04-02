@@ -230,7 +230,7 @@
 | 213 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 55 | 372 |
 | 213 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 35 | 414 |
 | 213 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 0 | 478 |
-| 213 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 838 | 143 |
+| 213 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 839 | 143 |
 | 213 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 0 | 478 |
 | 213 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 478 |
 | 213 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 0 | 478 |
@@ -484,7 +484,7 @@
 | 482 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 478 |
 | 482 | [Aztez](games/a/aztez.md) | 4.53 | 0 | 478 |
 | 482 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 478 |
-| 482 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,169 | 16 |
+| 482 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,184 | 16 |
 | 482 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 25,961 | 15 |
 | 482 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 137,046 | 6 |
 | 482 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 478 |
@@ -883,10 +883,10 @@
 | 879 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 309 |
 | 882 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 0 | 478 |
 | 883 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 478 |
+| 884 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.80 | 0 | 478 |
 | 884 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 0 | 478 |
-| 885 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.78 | 0 | 478 |
-| 885 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 0 | 478 |
-| 885 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,017 | 129 |
+| 886 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 0 | 478 |
+| 886 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,017 | 129 |
 | 888 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 478 |
 | 889 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 0 | 478 |
 | 889 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 66 | 356 |

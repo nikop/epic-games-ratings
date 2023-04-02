@@ -15,7 +15,7 @@
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 28,435 | 4.74 | 141 |
 | 14 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,286 | 4.65 | 290 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 25,961 | 4.53 | 482 |
-| 16 | [Dauntless](games/d/dauntless.md) | 19,169 | 4.53 | 482 |
+| 16 | [Dauntless](games/d/dauntless.md) | 19,184 | 4.53 | 482 |
 | 17 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 17,571 | 4.57 | 419 |
 | 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 16,440 | 4.78 | 100 |
 | 19 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,284 | 4.58 | 401 |
@@ -128,7 +128,7 @@
 | 126 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,048 | 4.61 | 348 |
 | 127 | [Conan Exiles](games/c/conan_exiles.md) | 1,025 | 4.55 | 457 |
 | 128 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,020 | 4.66 | 272 |
-| 129 | [Saints Row](games/s/saints_row.md) | 1,017 | 3.78 | 885 |
+| 129 | [Saints Row](games/s/saints_row.md) | 1,017 | 3.78 | 886 |
 | 130 | [EVE Online](games/e/eve_online.md) | 994 | 4.26 | 760 |
 | 131 | [Ooblets](games/o/ooblets.md) | 991 | 4.87 | 24 |
 | 132 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 989 | 4.54 | 467 |
@@ -142,7 +142,7 @@
 | 140 | [Sonic Mania](games/s/sonic_mania.md) | 901 | 4.78 | 100 |
 | 141 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 873 | 4.78 | 100 |
 | 142 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 844 | 4.45 | 591 |
-| 143 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 838 | 4.69 | 213 |
+| 143 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 839 | 4.69 | 213 |
 | 144 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 789 | 4.76 | 113 |
 | 145 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 780 | 4.54 | 467 |
 | 146 | [Frostpunk](games/f/frostpunk.md) | 758 | 4.73 | 155 |

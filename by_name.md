@@ -147,7 +147,7 @@
 | [Crashlands](games/c/crashlands.md) | 4.66 | 272 | 186 | 258 |
 | [Crayta](games/c/crayta.md) | 4.19 | 803 | 50 | 376 |
 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 757 | 22 | 462 |
-| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.78 | 885 | 0 | 478 |
+| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.80 | 884 | 0 | 478 |
 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 687 | 169 | 266 |
 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 698 | 90 | 325 |
 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 538 | 208 | 250 |
@@ -172,7 +172,7 @@
 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 373 | 73 | 342 |
 | [Darkwood](games/d/darkwood.md) | 4.61 | 348 | 318 | 210 |
 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 605 | 0 | 478 |
-| [Dauntless](games/d/dauntless.md) | 4.53 | 482 | 19,169 | 16 |
+| [Dauntless](games/d/dauntless.md) | 4.53 | 482 | 19,184 | 16 |
 | [Days Gone](games/d/days_gone.md) | 4.69 | 213 | 3,694 | 75 |
 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 817 | 0 | 478 |
 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 482 | 25,961 | 15 |
@@ -502,7 +502,7 @@
 | [Ooblets](games/o/ooblets.md) | 4.87 | 24 | 991 | 131 |
 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 272 | 0 | 478 |
 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.39 | 663 | 0 | 478 |
-| [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 885 | 0 | 478 |
+| [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 886 | 0 | 478 |
 | [Othercide](games/o/othercide.md) | 4.40 | 652 | 0 | 478 |
 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 640 | 0 | 478 |
 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 332 | 0 | 478 |
@@ -597,7 +597,7 @@
 | [Sable](games/s/sable.md) | 4.51 | 509 | 0 | 478 |
 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 106 | 0 | 478 |
 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 92 | 0 | 478 |
-| [Saints Row](games/s/saints_row.md) | 3.78 | 885 | 1,017 | 129 |
+| [Saints Row](games/s/saints_row.md) | 3.78 | 886 | 1,017 | 129 |
 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 652 | 369 | 200 |
 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 640 | 2,156 | 95 |
 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 176 | 0 | 478 |
@@ -851,7 +851,7 @@
 | [War Mongrels](games/w/war_mongrels.md) | 4.30 | 738 | 0 | 478 |
 | [Warface](games/w/warface.md) | 3.92 | 876 | 374 | 198 |
 | [Warframe](games/w/warframe.md) | 4.61 | 348 | 13,874 | 21 |
-| [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 213 | 838 | 143 |
+| [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 213 | 839 | 143 |
 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 401 | 199 | 253 |
 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.25 | 767 | 30 | 434 |
 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 622 | 274 | 223 |
