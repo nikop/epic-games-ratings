@@ -363,9 +363,9 @@
 | 348 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 1,119 | 122 |
 | 348 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 545 | 169 |
 | 348 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 0 | 478 |
-| 348 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,045 | 126 |
+| 348 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,048 | 126 |
 | 348 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,375 | 89 |
-| 348 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 392 | 192 |
+| 348 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 393 | 192 |
 | 348 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,055 | 125 |
 | 348 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 265 | 228 |
 | 348 | [Supraland](games/s/supraland.md) | 4.61 | 7,592 | 37 |
