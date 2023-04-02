@@ -2,7 +2,7 @@
 Rating: 4.75 (Ranked 127)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 331  (Ranked 206)  
-Sum: 2,776 (Ranked 151)  
+Sum: 2,778 (Ranked 151)  
 Diff (max vs sum): 55
 ## Awards
 | Award | Number of Ratings |
@@ -11,7 +11,7 @@ Diff (max vs sum): 55
 | This game is Extremely Fun | 307 |
 | This game is Highly Recommended | 307 |
 | This game is Educational | 304 |
-| This game is Relaxing | 298 |
+| This game is Relaxing | 300 |
 | This game has Quickly Understood Controls | 265 |
 | This game has Amazing Storytelling | 260 |
 | This game has Competitive Players | 255 |

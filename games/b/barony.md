@@ -1,5 +1,5 @@
 # Barony
-Rating: 4.71 (Ranked 176)  
+Rating: 4.70 (Ranked 192)  
 Number of Ratings: 763  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 69  (Ranked 350)  
@@ -90,3 +90,4 @@ Diff (max vs sum): 67
 | 2022-11-11 | 4.69 | - | - |
 | 2022-12-06 | 4.70 | - | - |
 | 2023-01-10 | 4.71 | - | - |
+| 2023-04-02 | 4.70 | - | 69 |
