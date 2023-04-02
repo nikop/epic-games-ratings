@@ -1,5 +1,5 @@
 # Evoland Legendary Edition
-Rating: 4.49 (Ranked 538)  
+Rating: 4.49 (Ranked 536)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 270  (Ranked 226)  
 Sum: 270 (Ranked 324)  

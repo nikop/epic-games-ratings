@@ -4,13 +4,13 @@
   "Rating": 4.59,
   "Ranking_Rating": 388,
   "Ranking_Popularity": 391,
-  "Ranking_PopularitySum": 337,
+  "Ranking_PopularitySum": 344,
   "NumberOfRatings": 481,
-  "NumberOfAwards": 232,
+  "NumberOfAwards": 195,
   "NumberOfAwardsMax": 44,
   "MaxAwardTitle": "Educational",
   "FirstSeen": "2022-07-22T20:21:27.180823+00:00",
-  "LastChanged": "2023-04-01T20:57:32.737333+00:00",
+  "LastChanged": "2023-04-02T15:57:36.8324147+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:27.1808232+00:00",
@@ -586,6 +586,12 @@
       "Time": "2023-04-01T20:57:32.7373332+00:00",
       "Rating": 4.59,
       "NumberOfAwards": 232,
+      "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-04-02T15:57:36.8324152+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 195,
       "NumberOfAwardsMax": 44
     }
   ],

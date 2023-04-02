@@ -3,14 +3,14 @@
   "Name": "Football Manager 2023",
   "Rating": 4.75,
   "Ranking_Rating": 128,
-  "Ranking_Popularity": 207,
+  "Ranking_Popularity": 206,
   "Ranking_PopularitySum": 151,
-  "NumberOfAwards": 2767,
-  "NumberOfAwardsMax": 326,
+  "NumberOfAwards": 2772,
+  "NumberOfAwardsMax": 331,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-11-08T02:50:04.1543779+00:00",
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
-  "LastChanged": "2023-04-02T13:01:22.3240425+00:00",
+  "LastChanged": "2023-04-02T15:57:57.0172574+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-08T17:57:47.9405888+00:00",
@@ -363,6 +363,12 @@
       "Rating": 4.75,
       "NumberOfAwards": 2767,
       "NumberOfAwardsMax": 326
+    },
+    {
+      "Time": "2023-04-02T15:57:57.0172575+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 2772,
+      "NumberOfAwardsMax": 331
     }
   ],
   "Tags": [
@@ -388,7 +394,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 326
+      "Count": 331
     },
     {
       "Text": "This game is Educational",
