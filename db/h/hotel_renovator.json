@@ -1,15 +1,15 @@
 {
   "ID": "3348e3d8eae449ecbcf9fe354d4fe8a0",
   "Name": "Hotel Renovator",
-  "Rating": 4.35,
-  "Ranking_Rating": 698,
+  "Rating": 4.38,
+  "Ranking_Rating": 672,
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 479,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-07T20:57:17.7123218+00:00",
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
-  "LastChanged": "2023-03-31T05:57:31.9854553+00:00",
+  "LastChanged": "2023-04-02T21:57:36.2441202+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-30T21:57:33.3986384+00:00",
@@ -18,6 +18,12 @@
     {
       "Time": "2023-03-31T05:57:31.9854555+00:00",
       "Rating": 4.35,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-02T21:57:36.2441203+00:00",
+      "Rating": 4.38,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

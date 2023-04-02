@@ -1,5 +1,5 @@
 # King's Bounty: Dark Side
-Rating: 4.35 (Ranked 698)  
+Rating: 4.35 (Ranked 699)  
 Number of Ratings: 40  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 479)  

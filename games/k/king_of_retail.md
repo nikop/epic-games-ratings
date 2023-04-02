@@ -1,5 +1,5 @@
 # King of Retail
-Rating: 4.67 (Ranked 256)  
+Rating: 4.67 (Ranked 255)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 479)  
 Sum: 0 (Ranked 479)  

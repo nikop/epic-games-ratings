@@ -1,5 +1,5 @@
 # Encased
-Rating: 4.36 (Ranked 687)  
+Rating: 4.36 (Ranked 688)  
 Number of Ratings: 49  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 119  (Ranked 293)  

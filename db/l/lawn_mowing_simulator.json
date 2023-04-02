@@ -3,14 +3,14 @@
   "Name": "Lawn Mowing Simulator",
   "Rating": 4.08,
   "Ranking_Rating": 850,
-  "Ranking_Popularity": 263,
+  "Ranking_Popularity": 262,
   "Ranking_PopularitySum": 227,
   "NumberOfRatings": 5086,
-  "NumberOfAwards": 953,
-  "NumberOfAwardsMax": 178,
+  "NumberOfAwards": 954,
+  "NumberOfAwardsMax": 179,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
-  "LastChanged": "2023-03-31T13:10:02.1381565+00:00",
+  "LastChanged": "2023-04-02T21:58:18.1099759+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-29T20:02:16.5004662+00:00",
@@ -1892,6 +1892,12 @@
       "Rating": 4.08,
       "NumberOfAwards": 953,
       "NumberOfAwardsMax": 178
+    },
+    {
+      "Time": "2023-04-02T21:58:18.109976+00:00",
+      "Rating": 4.08,
+      "NumberOfAwards": 954,
+      "NumberOfAwardsMax": 179
     }
   ],
   "Tags": [
@@ -1911,7 +1917,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 178
+      "Count": 179
     },
     {
       "Text": "This game is Relaxing",

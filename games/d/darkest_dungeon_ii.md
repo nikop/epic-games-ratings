@@ -1,5 +1,5 @@
 # Darkest Dungeon II
-Rating: 4.67 (Ranked 256)  
+Rating: 4.67 (Ranked 255)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 6,395  (Ranked 44)  
