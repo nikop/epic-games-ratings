@@ -6,11 +6,11 @@
   "Ranking_Popularity": 16,
   "Ranking_PopularitySum": 22,
   "NumberOfRatings": 23656,
-  "NumberOfAwards": 47866,
+  "NumberOfAwards": 47874,
   "NumberOfAwardsMax": 19184,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2023-04-02T11:57:21.9401168+00:00",
+  "LastChanged": "2023-04-02T14:57:06.0071605+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:00.302975+00:00",
@@ -3538,6 +3538,12 @@
       "Rating": 4.53,
       "NumberOfAwards": 47866,
       "NumberOfAwardsMax": 19184
+    },
+    {
+      "Time": "2023-04-02T14:57:06.0071606+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 47874,
+      "NumberOfAwardsMax": 19184
     }
   ],
   "Tags": [
@@ -3551,7 +3557,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 12920
+      "Count": 12928
     },
     {
       "Text": "This game has Obsessive Gameplay",

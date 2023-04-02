@@ -6,4 +6,4 @@
 | [Tchia](games/t/tchia.md) | 4.78 | 99 | 0 | 479 |
 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.35 | 698 | 0 | 479 |
 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.26 | 760 | 0 | 479 |
-| [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.35 | 698 | 0 | 479 |
+| [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.34 | 708 | 0 | 479 |

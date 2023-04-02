@@ -2,7 +2,7 @@
 Rating: 4.78 (Ranked 99)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 16,440  (Ranked 18)  
-Sum: 28,798 (Ranked 35)  
+Sum: 28,803 (Ranked 35)  
 Diff (max vs sum): -17
 ## Awards
 | Award | Number of Ratings |
@@ -18,7 +18,7 @@ Diff (max vs sum): -17
 | This game is Highly Recommended | 501 |
 | This game has Beautiful Visuals | 473 |
 | This game has Quickly Understood Controls | 471 |
-| This game has a Creative Community | 355 |
+| This game has a Creative Community | 360 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
