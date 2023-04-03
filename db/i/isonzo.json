@@ -1,8 +1,8 @@
 {
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
-  "Rating": 4.55,
-  "Ranking_Rating": 456,
+  "Rating": 4.56,
+  "Ranking_Rating": 435,
   "Ranking_Popularity": 438,
   "Ranking_PopularitySum": 338,
   "NumberOfRatings": 98,
@@ -11,7 +11,7 @@
   "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
-  "LastChanged": "2023-04-02T04:56:54.9943895+00:00",
+  "LastChanged": "2023-04-03T04:57:11.2013465+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-15T19:30:41.9786444+00:00",
@@ -355,6 +355,12 @@
     {
       "Time": "2023-04-02T04:56:54.9943896+00:00",
       "Rating": 4.55,
+      "NumberOfAwards": 222,
+      "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2023-04-03T04:57:11.2013467+00:00",
+      "Rating": 4.56,
       "NumberOfAwards": 222,
       "NumberOfAwardsMax": 29
     }

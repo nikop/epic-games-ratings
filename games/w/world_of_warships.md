@@ -1,5 +1,5 @@
 # World of Warships
-Rating: 4.45 (Ranked 591)  
+Rating: 4.45 (Ranked 592)  
 Number of Ratings: 4,733  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 966  (Ranked 135)  

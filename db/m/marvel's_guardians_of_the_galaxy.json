@@ -3,14 +3,14 @@
   "Name": "Marvel\u0027s Guardians of the Galaxy",
   "Rating": 4.73,
   "Ranking_Rating": 154,
-  "Ranking_Popularity": 173,
+  "Ranking_Popularity": 172,
   "Ranking_PopularitySum": 246,
   "NumberOfRatings": 898,
-  "NumberOfAwards": 742,
-  "NumberOfAwardsMax": 538,
+  "NumberOfAwards": 743,
+  "NumberOfAwardsMax": 539,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:24:01.0577713+00:00",
-  "LastChanged": "2023-03-14T20:57:40.5160401+00:00",
+  "LastChanged": "2023-04-03T04:57:52.6308472+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:01.0577718+00:00",
@@ -777,6 +777,12 @@
     {
       "Time": "2023-03-14T20:57:40.5160403+00:00",
       "Rating": 4.73
+    },
+    {
+      "Time": "2023-04-03T04:57:52.6308474+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 743,
+      "NumberOfAwardsMax": 539
     }
   ],
   "Tags": [
@@ -784,7 +790,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 538
+      "Count": 539
     },
     {
       "Text": "This game is Extremely Fun",

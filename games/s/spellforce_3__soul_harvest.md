@@ -1,5 +1,5 @@
 # SpellForce 3: Soul Harvest
-Rating: 4.41 (Ranked 640)  
+Rating: 4.41 (Ranked 641)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 479)  
 Sum: 0 (Ranked 479)  

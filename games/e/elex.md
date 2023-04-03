@@ -1,5 +1,5 @@
 # ELEX
-Rating: 4.42 (Ranked 629)  
+Rating: 4.42 (Ranked 630)  
 Number of Ratings: 58  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 23  (Ranked 458)  
