@@ -1,15 +1,15 @@
 {
   "ID": "36b8fb441b2542f89250fc92ca761077",
   "Name": "Splinter Cell Chaos Theory",
-  "Rating": 4.62,
-  "Ranking_Rating": 332,
+  "Rating": 4.63,
+  "Ranking_Rating": 322,
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 479,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:31:41.2828224+00:00",
   "FirstSeenRating": "2022-10-11T18:32:21.2470874+00:00",
-  "LastChanged": "2023-03-31T05:58:36.9367782+00:00",
+  "LastChanged": "2023-04-03T03:58:12.236955+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-11T18:32:21.2470878+00:00",
@@ -78,6 +78,12 @@
     {
       "Time": "2023-03-31T05:58:36.9367785+00:00",
       "Rating": 4.62,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-03T03:58:12.2369552+00:00",
+      "Rating": 4.63,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
