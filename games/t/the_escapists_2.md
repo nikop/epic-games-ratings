@@ -3,7 +3,7 @@ Rating: 4.58 (Ranked 401)
 Number of Ratings: 1,941  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 50  (Ranked 376)  
-Sum: 390 (Ranked 294)  
+Sum: 391 (Ranked 294)  
 Diff (max vs sum): 82
 ## Awards
 | Award | Number of Ratings |
@@ -17,7 +17,7 @@ Diff (max vs sum): 82
 | This game is Relaxing | 38 |
 | This game has Amazing Storytelling | 36 |
 | This game has Diverse Characters | 36 |
-| This game has Unique Visuals | 31 |
+| This game has Unique Visuals | 32 |
 | This game has a Creative Community | 25 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -98,3 +98,4 @@ Diff (max vs sum): 82
 | 2023-01-27 | 4.59 | - | - |
 | 2023-01-28 | 4.58 | - | - |
 | 2023-03-31 | 4.58 | - | 50 |
+| 2023-04-03 | 4.58 | - | 50 |
