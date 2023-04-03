@@ -1,15 +1,15 @@
 {
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
-  "Rating": 4.58,
-  "Ranking_Rating": 402,
+  "Rating": 4.59,
+  "Ranking_Rating": 388,
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 479,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
-  "LastChanged": "2023-03-31T05:58:19.7962538+00:00",
+  "LastChanged": "2023-04-03T22:57:58.3845812+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-21T07:58:25.3551608+00:00",
@@ -138,6 +138,12 @@
     {
       "Time": "2023-03-31T05:58:19.796254+00:00",
       "Rating": 4.58,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-03T22:57:58.3845814+00:00",
+      "Rating": 4.59,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

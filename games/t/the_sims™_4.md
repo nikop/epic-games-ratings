@@ -1,8 +1,8 @@
 # The Sims™ 4
-Rating: 4.58 (Ranked 402)  
+Rating: 4.58 (Ranked 403)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 70  (Ranked 348)  
-Sum: 452 (Ranked 287)  
+Sum: 455 (Ranked 287)  
 Diff (max vs sum): 61
 ## Awards
 | Award | Number of Ratings |
@@ -14,9 +14,9 @@ Diff (max vs sum): 61
 | This game is Educational | 39 |
 | This game is Highly Recommended | 39 |
 | This game has Amazing Characters | 39 |
-| This game is Extremely Fun | 34 |
+| This game is Extremely Fun | 36 |
 | This game has Amazing Storytelling | 32 |
-| This game is Relaxing | 31 |
+| This game is Relaxing | 32 |
 | This game has Easy Combat | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |

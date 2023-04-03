@@ -1,14 +1,14 @@
 # Predecessor
 Rating: 4.44 (Ranked 606)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 44  (Ranked 392)  
-Sum: 286 (Ranked 317)  
-Diff (max vs sum): 75
+Max (Highly Recommended): 44  (Ranked 393)  
+Sum: 288 (Ranked 317)  
+Diff (max vs sum): 76
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Diverse Characters | 44 |
-| This game is Highly Recommended | 42 |
+| This game is Highly Recommended | 44 |
 | This game has a Competitive Community | 38 |
 | This game has Amazing Characters | 37 |
 | This game has Challenging Combat | 37 |

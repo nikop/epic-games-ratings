@@ -2,15 +2,15 @@
   "ID": "2a14cf8a83b149919a2399504e5686a6",
   "Name": "The Sims\u2122 4",
   "Rating": 4.58,
-  "Ranking_Rating": 402,
+  "Ranking_Rating": 403,
   "Ranking_Popularity": 348,
   "Ranking_PopularitySum": 287,
-  "NumberOfAwards": 452,
+  "NumberOfAwards": 455,
   "NumberOfAwardsMax": 70,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-04-03T20:56:52.840257+00:00",
+  "LastChanged": "2023-04-03T22:56:57.8598116+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-05T14:56:53.5654686+00:00",
@@ -381,6 +381,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 452,
       "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2023-04-03T22:56:57.859812+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 455,
+      "NumberOfAwardsMax": 70
     }
   ],
   "Tags": [
@@ -424,7 +430,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 34
+      "Count": 36
     },
     {
       "Text": "This game has Amazing Characters",
@@ -442,7 +448,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game has Easy Combat",

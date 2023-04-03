@@ -3,14 +3,14 @@
   "Name": "Predecessor",
   "Rating": 4.44,
   "Ranking_Rating": 606,
-  "Ranking_Popularity": 392,
+  "Ranking_Popularity": 393,
   "Ranking_PopularitySum": 317,
-  "NumberOfAwards": 286,
+  "NumberOfAwards": 288,
   "NumberOfAwardsMax": 44,
-  "MaxAwardTitle": "Diverse Characters",
+  "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2022-12-01T08:57:03.8695537+00:00",
   "FirstSeenRating": "2022-12-02T07:57:13.3206902+00:00",
-  "LastChanged": "2023-04-03T20:57:01.8330583+00:00",
+  "LastChanged": "2023-04-03T22:57:06.3472842+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-02T07:57:13.3206905+00:00",
@@ -249,6 +249,12 @@
       "Rating": 4.44,
       "NumberOfAwards": 286,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-04-03T22:57:06.3472843+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 288,
+      "NumberOfAwardsMax": 44
     }
   ],
   "Tags": [
@@ -280,7 +286,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 42
+      "Count": 44
     },
     {
       "Text": "This game is Extremely Fun",

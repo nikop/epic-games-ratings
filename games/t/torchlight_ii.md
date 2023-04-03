@@ -1,5 +1,5 @@
 # Torchlight II
-Rating: 4.58 (Ranked 402)  
+Rating: 4.58 (Ranked 403)  
 Number of Ratings: 2,280  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 958  (Ranked 137)  
