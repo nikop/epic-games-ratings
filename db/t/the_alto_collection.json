@@ -3,14 +3,14 @@
   "Name": "The Alto Collection",
   "Rating": 4.69,
   "Ranking_Rating": 212,
-  "Ranking_Popularity": 398,
+  "Ranking_Popularity": 393,
   "Ranking_PopularitySum": 305,
   "NumberOfRatings": 332,
-  "NumberOfAwards": 338,
-  "NumberOfAwardsMax": 43,
+  "NumberOfAwards": 339,
+  "NumberOfAwardsMax": 44,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
-  "LastChanged": "2023-04-02T13:58:34.4199593+00:00",
+  "LastChanged": "2023-04-03T23:58:15.0501043+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:20.90716+00:00",
@@ -519,6 +519,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 338,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2023-04-03T23:58:15.0501044+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 339,
+      "NumberOfAwardsMax": 44
     }
   ],
   "Tags": [
@@ -538,7 +544,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 43
+      "Count": 44
     },
     {
       "Text": "This game has Beautiful Visuals",

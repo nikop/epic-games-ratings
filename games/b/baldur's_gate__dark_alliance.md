@@ -1,5 +1,5 @@
 # Baldur's Gate: Dark Alliance
-Rating: 4.72 (Ranked 166)  
+Rating: 4.72 (Ranked 167)  
 Number of Ratings: 22  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 479)  

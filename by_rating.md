@@ -154,6 +154,7 @@
 | 143 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 76 | 338 |
 | 143 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 568 | 164 |
 | 154 | [BLACKTAIL](games/b/blacktail.md) | 4.73 | 0 | 479 |
+| 154 | [Dead Space](games/d/dead_space.md) | 4.73 | 31 | 431 |
 | 154 | [DOOM II](games/d/doom_ii.md) | 4.73 | 25 | 455 |
 | 154 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 760 | 146 |
 | 154 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 562 | 166 |
@@ -165,16 +166,15 @@
 | 154 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 306 | 215 |
 | 154 | [Suzerain](games/s/suzerain.md) | 4.73 | 0 | 479 |
 | 154 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 0 | 479 |
-| 166 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 0 | 479 |
-| 166 | [Dead Space](games/d/dead_space.md) | 4.72 | 31 | 431 |
-| 166 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 446 | 185 |
-| 166 | [Northgard](games/n/northgard.md) | 4.72 | 27 | 445 |
-| 166 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.72 | 0 | 479 |
-| 166 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 38 | 404 |
-| 166 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 0 | 479 |
-| 166 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 479 |
-| 166 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 0 | 479 |
-| 166 | [Timberborn](games/t/timberborn.md) | 4.72 | 110 | 304 |
+| 167 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 0 | 479 |
+| 167 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 446 | 185 |
+| 167 | [Northgard](games/n/northgard.md) | 4.72 | 27 | 445 |
+| 167 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.72 | 0 | 479 |
+| 167 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 38 | 404 |
+| 167 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 0 | 479 |
+| 167 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 479 |
+| 167 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 0 | 479 |
+| 167 | [Timberborn](games/t/timberborn.md) | 4.72 | 110 | 304 |
 | 176 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 479 |
 | 176 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,025 | 49 |
 | 176 | [Fez](games/f/fez.md) | 4.71 | 23 | 459 |
@@ -226,7 +226,7 @@
 | 212 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,123 | 31 |
 | 212 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.69 | 0 | 479 |
 | 212 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 0 | 479 |
-| 212 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 43 | 398 |
+| 212 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 44 | 393 |
 | 212 | [The Witness](games/t/the_witness.md) | 4.69 | 167 | 268 |
 | 212 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 35 | 415 |
 | 212 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 0 | 479 |
@@ -248,7 +248,7 @@
 | 236 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 409 | 189 |
 | 236 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 545 | 169 |
 | 236 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 651 | 156 |
-| 236 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 150 | 277 |
+| 236 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 151 | 277 |
 | 236 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 30 | 435 |
 | 236 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.68 | 0 | 479 |
 | 236 | [The Pathless](games/t/the_pathless.md) | 4.68 | 0 | 479 |
@@ -258,7 +258,7 @@
 | 255 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 634 | 159 |
 | 255 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 71 | 347 |
 | 255 | [Card Shark](games/c/card_shark.md) | 4.67 | 0 | 479 |
-| 255 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,395 | 44 |
+| 255 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,400 | 44 |
 | 255 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 479 |
 | 255 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 0 | 479 |
 | 255 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.67 | 0 | 479 |
@@ -706,7 +706,7 @@
 | 701 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 201 | 251 |
 | 701 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 479 |
 | 701 | [Paladins](games/p/paladins.md) | 4.35 | 3,130 | 82 |
-| 701 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 4,740 | 61 |
+| 701 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 4,745 | 61 |
 | 701 | [Torchlight](games/t/torchlight.md) | 4.35 | 20 | 475 |
 | 709 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 0 | 479 |
 | 709 | [Ashen](games/a/ashen.md) | 4.34 | 0 | 479 |
@@ -754,7 +754,7 @@
 | 746 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 124 | 290 |
 | 753 | [Chess Ultra](games/c/chess_ultra.md) | 4.28 | 0 | 479 |
 | 753 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 479 |
-| 753 | [Rage 2](games/r/rage_2.md) | 4.28 | 2,408 | 88 |
+| 753 | [Rage 2](games/r/rage_2.md) | 4.28 | 2,410 | 88 |
 | 753 | [Steelrising](games/s/steelrising.md) | 4.28 | 0 | 479 |
 | 753 | [The Fall](games/t/the_fall.md) | 4.28 | 0 | 479 |
 | 758 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 22 | 463 |
@@ -854,7 +854,7 @@
 | 852 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 0 | 479 |
 | 852 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 0 | 479 |
 | 854 | [Godfall](games/g/godfall.md) | 4.06 | 497 | 178 |
-| 854 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 4,806 | 60 |
+| 854 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 4,807 | 60 |
 | 856 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 0 | 479 |
 | 856 | [Tharsis](games/t/tharsis.md) | 4.05 | 0 | 479 |
 | 858 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 0 | 479 |
