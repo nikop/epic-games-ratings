@@ -1,5 +1,5 @@
 # WRC 10 FIA World Rally Championship
-Rating: 4.48 (Ranked 554)  
+Rating: 4.49 (Ranked 537)  
 Number of Ratings: 248  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Realistic Visuals): 36  (Ranked 410)  
@@ -101,3 +101,4 @@ Diff (max vs sum): 93
 | 2023-02-26 | 4.50 | - | - |
 | 2023-03-18 | 4.49 | - | - |
 | 2023-03-23 | 4.48 | - | - |
+| 2023-04-03 | 4.49 | - | 36 |

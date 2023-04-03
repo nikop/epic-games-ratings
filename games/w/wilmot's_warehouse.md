@@ -1,5 +1,5 @@
 # Wilmot's Warehouse
-Rating: 4.64 (Ranked 308)  
+Rating: 4.64 (Ranked 309)  
 Number of Ratings: 88  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 479)  

@@ -1,8 +1,8 @@
 {
   "ID": "d4d0270b8219470ebfc720c18767aef9",
   "Name": "WRC 10 FIA World Rally Championship",
-  "Rating": 4.48,
-  "Ranking_Rating": 554,
+  "Rating": 4.49,
+  "Ranking_Rating": 537,
   "Ranking_Popularity": 410,
   "Ranking_PopularitySum": 317,
   "NumberOfRatings": 248,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Realistic Visuals",
   "FirstSeen": "2022-07-22T20:22:20.0440724+00:00",
-  "LastChanged": "2023-03-23T17:57:57.2937066+00:00",
+  "LastChanged": "2023-04-03T02:57:37.0227461+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:20.0440726+00:00",
@@ -468,6 +468,12 @@
     {
       "Time": "2023-03-23T17:57:57.2937067+00:00",
       "Rating": 4.48
+    },
+    {
+      "Time": "2023-04-03T02:57:37.0227462+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 284,
+      "NumberOfAwardsMax": 36
     }
   ],
   "Tags": [

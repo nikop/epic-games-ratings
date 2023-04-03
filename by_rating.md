@@ -51,7 +51,7 @@
 | 47 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 209 | 247 |
 | 47 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 479 |
 | 47 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 402 | 190 |
-| 47 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 245 | 233 |
+| 47 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 246 | 233 |
 | 47 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 83 | 333 |
 | 47 | [Subnautica](games/s/subnautica.md) | 4.84 | 639 | 158 |
 | 55 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 0 | 479 |
@@ -156,7 +156,7 @@
 | 154 | [BLACKTAIL](games/b/blacktail.md) | 4.73 | 0 | 479 |
 | 154 | [DOOM II](games/d/doom_ii.md) | 4.73 | 25 | 454 |
 | 154 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 760 | 146 |
-| 154 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 561 | 166 |
+| 154 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.73 | 562 | 166 |
 | 154 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 538 | 173 |
 | 154 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 139 | 282 |
 | 154 | [Outlast](games/o/outlast.md) | 4.73 | 0 | 479 |
@@ -299,6 +299,7 @@
 | 288 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.65 | 54 | 374 |
 | 288 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.65 | 0 | 479 |
 | 288 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.65 | 0 | 479 |
+| 288 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 0 | 479 |
 | 288 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 145 | 280 |
 | 288 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 48 | 382 |
 | 288 | [Old World](games/o/old_world.md) | 4.65 | 212 | 245 |
@@ -307,20 +308,19 @@
 | 288 | [SOMA](games/s/soma.md) | 4.65 | 0 | 479 |
 | 288 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.65 | 0 | 479 |
 | 288 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 0 | 479 |
-| 308 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 0 | 479 |
-| 308 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 479 |
-| 308 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,824 | 52 |
-| 308 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 2,036 | 99 |
-| 308 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 45 | 387 |
-| 308 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.64 | 0 | 479 |
-| 308 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 0 | 479 |
-| 308 | [HITMAN](games/h/hitman.md) | 4.64 | 195 | 255 |
-| 308 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 179 | 262 |
-| 308 | [Mutazione](games/m/mutazione.md) | 4.64 | 0 | 479 |
-| 308 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 66 | 358 |
-| 308 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.64 | 0 | 479 |
-| 308 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 182 | 259 |
-| 308 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 0 | 479 |
+| 309 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 0 | 479 |
+| 309 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 479 |
+| 309 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,824 | 52 |
+| 309 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 2,036 | 99 |
+| 309 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 45 | 387 |
+| 309 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 0 | 479 |
+| 309 | [HITMAN](games/h/hitman.md) | 4.64 | 195 | 255 |
+| 309 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 179 | 262 |
+| 309 | [Mutazione](games/m/mutazione.md) | 4.64 | 0 | 479 |
+| 309 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 66 | 358 |
+| 309 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.64 | 0 | 479 |
+| 309 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 182 | 259 |
+| 309 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 0 | 479 |
 | 322 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 20 | 473 |
 | 322 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 0 | 479 |
 | 322 | [GigaBash](games/g/gigabash.md) | 4.63 | 0 | 479 |
@@ -376,7 +376,7 @@
 | 374 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,164 | 30 |
 | 374 | [Control](games/c/control.md) | 4.60 | 8,200 | 36 |
 | 374 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 73 | 342 |
-| 374 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,097 | 24 |
+| 374 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,105 | 24 |
 | 374 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 116 | 296 |
 | 374 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 36 | 410 |
 | 374 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 62 | 363 |
@@ -553,17 +553,17 @@
 | 537 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 603 | 162 |
 | 537 | [Solitairica](games/s/solitairica.md) | 4.49 | 81 | 336 |
 | 537 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 0 | 479 |
-| 554 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 479 |
-| 554 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 0 | 479 |
-| 554 | [Far Cry](games/f/far_cry.md) | 4.48 | 0 | 479 |
-| 554 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 0 | 479 |
-| 554 | [Paradigm](games/p/paradigm.md) | 4.48 | 0 | 479 |
-| 554 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.48 | 0 | 479 |
-| 554 | [Riverbond](games/r/riverbond.md) | 4.48 | 0 | 479 |
-| 554 | [Scorn](games/s/scorn.md) | 4.48 | 0 | 479 |
-| 554 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 0 | 479 |
-| 554 | [The Escapists](games/t/the_escapists.md) | 4.48 | 0 | 479 |
-| 554 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 36 | 410 |
+| 537 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 36 | 410 |
+| 555 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 479 |
+| 555 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 0 | 479 |
+| 555 | [Far Cry](games/f/far_cry.md) | 4.48 | 0 | 479 |
+| 555 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 0 | 479 |
+| 555 | [Paradigm](games/p/paradigm.md) | 4.48 | 0 | 479 |
+| 555 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.48 | 0 | 479 |
+| 555 | [Riverbond](games/r/riverbond.md) | 4.48 | 0 | 479 |
+| 555 | [Scorn](games/s/scorn.md) | 4.48 | 0 | 479 |
+| 555 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 0 | 479 |
+| 555 | [The Escapists](games/t/the_escapists.md) | 4.48 | 0 | 479 |
 | 565 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.47 | 0 | 479 |
 | 565 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 0 | 479 |
 | 565 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 0 | 479 |
@@ -778,7 +778,7 @@
 | 773 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 387 |
 | 773 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.24 | 0 | 479 |
 | 778 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 479 |
-| 778 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 5,927 | 50 |
+| 778 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 6,020 | 50 |
 | 778 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 0 | 479 |
 | 778 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 970 | 133 |
 | 778 | [Rise of Industry](games/r/rise_of_industry.md) | 4.23 | 0 | 479 |
