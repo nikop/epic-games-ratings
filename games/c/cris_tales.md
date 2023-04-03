@@ -1,5 +1,5 @@
 # Cris Tales
-Rating: 4.36 (Ranked 688)  
+Rating: 4.36 (Ranked 689)  
 Number of Ratings: 758  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 169  (Ranked 266)  

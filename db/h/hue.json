@@ -1,15 +1,15 @@
 {
   "ID": "cd88d9edc5a748cfa138e467205adcac",
   "Name": "Hue",
-  "Rating": 4.56,
-  "Ranking_Rating": 435,
+  "Rating": 4.55,
+  "Ranking_Rating": 456,
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 479,
   "NumberOfRatings": 426,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:18:29.4748598+00:00",
-  "LastChanged": "2023-03-31T05:57:07.2427533+00:00",
+  "LastChanged": "2023-04-03T01:52:48.5981772+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:29.47486+00:00",
@@ -394,6 +394,12 @@
     {
       "Time": "2023-03-31T05:57:07.2427536+00:00",
       "Rating": 4.56,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-03T01:52:48.5981849+00:00",
+      "Rating": 4.55,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

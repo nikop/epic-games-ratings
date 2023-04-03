@@ -1,5 +1,5 @@
 # Disciples: Liberation
-Rating: 4.37 (Ranked 683)  
+Rating: 4.37 (Ranked 684)  
 Number of Ratings: 145  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 479)  

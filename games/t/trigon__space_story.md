@@ -1,5 +1,5 @@
 # Trigon: Space Story
-Rating: 4.27 (Ranked 757)  
+Rating: 4.27 (Ranked 758)  
 Number of Ratings: 38  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 479)  

@@ -1,5 +1,5 @@
 # Iratus: Lord of the Dead
-Rating: 4.37 (Ranked 683)  
+Rating: 4.37 (Ranked 684)  
 Number of Ratings: 10,109  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 2,123  (Ranked 97)  

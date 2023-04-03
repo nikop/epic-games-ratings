@@ -3,7 +3,7 @@ Rating: 4.77 (Ranked 106)
 Number of Ratings: 2,102  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 309  (Ranked 213)  
-Sum: 2,729 (Ranked 153)  
+Sum: 2,730 (Ranked 153)  
 Diff (max vs sum): 60
 ## Awards
 | Award | Number of Ratings |
@@ -17,7 +17,7 @@ Diff (max vs sum): 60
 | This game has Quickly Understood Controls | 257 |
 | This game has a Creative Community | 256 |
 | This game is Highly Recommended | 255 |
-| This game is Great for Quick Sessions | 238 |
+| This game is Great for Quick Sessions | 239 |
 | This game has Unique Visuals | 232 |
 | This game has Obsessive Gameplay | 147 |
 | This game has Easy Combat | 79 |
@@ -102,3 +102,4 @@ Diff (max vs sum): 60
 | 2022-12-16 | 4.77 | - | - |
 | 2022-12-18 | 4.77 | - | - |
 | 2023-04-02 | 4.77 | - | 309 |
+| 2023-04-03 | 4.77 | - | 309 |

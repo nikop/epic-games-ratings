@@ -1,5 +1,5 @@
 # Hue
-Rating: 4.56 (Ranked 435)  
+Rating: 4.55 (Ranked 456)  
 Number of Ratings: 426  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 479)  
@@ -84,3 +84,4 @@ Diff (max vs sum): 0
 | 2023-03-12 | 4.55 | - | - |
 | 2023-03-29 | 4.56 | - | - |
 | 2023-03-31 | 4.56 | - | 0 |
+| 2023-04-03 | 4.55 | - | 0 |
