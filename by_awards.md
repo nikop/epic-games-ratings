@@ -16,7 +16,7 @@
 | 14 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,290 | 4.65 | 288 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 26,006 | 4.53 | 481 |
 | 16 | [Dauntless](games/d/dauntless.md) | 19,184 | 4.53 | 481 |
-| 17 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 17,571 | 4.57 | 419 |
+| 17 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 17,596 | 4.57 | 419 |
 | 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 16,550 | 4.78 | 100 |
 | 19 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,288 | 4.58 | 401 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 14,174 | 4.89 | 13 |
@@ -73,7 +73,7 @@
 | 71 | [Chivalry 2](games/c/chivalry_2.md) | 3,920 | 4.61 | 349 |
 | 72 | [God of War](games/g/god_of_war.md) | 3,903 | 4.89 | 13 |
 | 73 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 3,877 | 4.68 | 236 |
-| 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 3,808 | 4.77 | 106 |
+| 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 3,814 | 4.77 | 106 |
 | 75 | [Days Gone](games/d/days_gone.md) | 3,696 | 4.69 | 212 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 3,598 | 4.56 | 435 |
 | 77 | [SMITE](games/s/smite.md) | 3,560 | 4.45 | 592 |
@@ -81,7 +81,7 @@
 | 79 | [Gloomhaven](games/g/gloomhaven.md) | 3,412 | 4.47 | 565 |
 | 80 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,314 | 4.68 | 236 |
 | 81 | [Paladins](games/p/paladins.md) | 3,182 | 4.35 | 700 |
-| 82 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,168 | 4.46 | 579 |
+| 82 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,173 | 4.46 | 579 |
 | 83 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,130 | 4.75 | 127 |
 | 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,065 | 4.59 | 388 |
 | 85 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 2,970 | 4.57 | 419 |

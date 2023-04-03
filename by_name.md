@@ -65,7 +65,7 @@
 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 435 | 46 | 384 |
 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 458 | 0 | 479 |
 | [Aztez](games/a/aztez.md) | 4.53 | 481 | 0 | 479 |
-| [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 579 | 3,168 | 82 |
+| [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 579 | 3,173 | 82 |
 | [Backbone](games/b/backbone.md) | 4.33 | 719 | 0 | 479 |
 | [Bad North](games/b/bad_north.md) | 4.68 | 236 | 0 | 479 |
 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 673 | 0 | 479 |
@@ -346,7 +346,7 @@
 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 864 | 367 | 201 |
 | [Horace](games/h/horace.md) | 4.51 | 509 | 0 | 479 |
 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 435 | 127 | 287 |
-| [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 106 | 3,808 | 74 |
+| [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 106 | 3,814 | 74 |
 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 374 | 36 | 410 |
 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.38 | 673 | 0 | 479 |
 | [House Flipper](games/h/house_flipper.md) | 4.70 | 192 | 277 | 222 |
@@ -788,7 +788,7 @@
 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 349 | 60 | 367 |
 | [Timberborn](games/t/timberborn.md) | 4.72 | 166 | 110 | 303 |
 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 579 | 275 | 223 |
-| [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 419 | 17,571 | 17 |
+| [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 419 | 17,596 | 17 |
 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 255 | 83 | 333 |
 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 727 | 0 | 479 |
 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 401 | 155 | 276 |

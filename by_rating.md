@@ -105,7 +105,7 @@
 | 100 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 874 | 141 |
 | 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 901 | 140 |
 | 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 141 | 281 |
-| 106 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,808 | 74 |
+| 106 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,814 | 74 |
 | 106 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.77 | 0 | 479 |
 | 106 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 96 | 316 |
 | 106 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 309 | 213 |
@@ -431,7 +431,7 @@
 | 419 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 2,970 | 85 |
 | 419 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 0 | 479 |
 | 419 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 115 | 297 |
-| 419 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 17,571 | 17 |
+| 419 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 17,596 | 17 |
 | 419 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,678 | 108 |
 | 419 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 0 | 479 |
 | 435 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 0 | 479 |
@@ -579,7 +579,7 @@
 | 565 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 96 | 316 |
 | 565 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 479 |
 | 579 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 0 | 479 |
-| 579 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,168 | 82 |
+| 579 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,173 | 82 |
 | 579 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.46 | 0 | 479 |
 | 579 | [Figment](games/f/figment.md) | 4.46 | 20 | 473 |
 | 579 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 105 | 307 |
