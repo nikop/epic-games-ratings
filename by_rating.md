@@ -483,7 +483,7 @@
 | 481 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 479 |
 | 481 | [Aztez](games/a/aztez.md) | 4.53 | 0 | 479 |
 | 481 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 479 |
-| 481 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,184 | 16 |
+| 481 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,205 | 16 |
 | 481 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 26,006 | 15 |
 | 481 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 137,081 | 6 |
 | 481 | [IXION](games/i/ixion.md) | 4.53 | 0 | 479 |
@@ -741,7 +741,7 @@
 | 738 | [Fortnite](games/f/fortnite.md) | 4.30 | 1,188,924 | 1 |
 | 738 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 0 | 479 |
 | 738 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 479 |
-| 738 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 3,534 | 78 |
+| 738 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 3,540 | 78 |
 | 738 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.30 | 0 | 479 |
 | 738 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 0 | 479 |
 | 738 | [War Mongrels](games/w/war_mongrels.md) | 4.30 | 0 | 479 |
@@ -806,7 +806,7 @@
 | 803 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 0 | 479 |
 | 803 | [Flatout](games/f/flatout.md) | 4.19 | 0 | 479 |
 | 803 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 84 | 331 |
-| 803 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 178,641 | 4 |
+| 803 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 178,754 | 4 |
 | 803 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 479 |
 | 803 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.19 | 0 | 479 |
 | 810 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 479 |
