@@ -2,13 +2,14 @@
 Rating: 4.43 (Ranked 623)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 21  (Ranked 470)  
-Sum: 21 (Ranked 470)  
-Diff (max vs sum): 0
+Sum: 41 (Ranked 432)  
+Diff (max vs sum): 38
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Great Boss Battles | 27 |
 | This game is Extremely Fun | 21 |
+| This game is Relaxing | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |

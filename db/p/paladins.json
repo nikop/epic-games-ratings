@@ -3,14 +3,14 @@
   "Name": "Paladins",
   "Rating": 4.35,
   "Ranking_Rating": 701,
-  "Ranking_Popularity": 81,
-  "Ranking_PopularitySum": 45,
+  "Ranking_Popularity": 82,
+  "Ranking_PopularitySum": 48,
   "NumberOfRatings": 11687,
-  "NumberOfAwards": 24933,
-  "NumberOfAwardsMax": 3182,
-  "MaxAwardTitle": "Great for Quick Sessions",
+  "NumberOfAwards": 21751,
+  "NumberOfAwardsMax": 3130,
+  "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:17:05.5508389+00:00",
-  "LastChanged": "2023-04-03T18:57:20.7422435+00:00",
+  "LastChanged": "2023-04-03T21:56:54.0768822+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:05.5508391+00:00",
@@ -3238,6 +3238,12 @@
       "Rating": 4.35,
       "NumberOfAwards": 24933,
       "NumberOfAwardsMax": 3182
+    },
+    {
+      "Time": "2023-04-03T21:56:54.0768823+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 21751,
+      "NumberOfAwardsMax": 3130
     }
   ],
   "Tags": [
