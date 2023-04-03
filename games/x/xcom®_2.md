@@ -1,9 +1,9 @@
 # XCOM® 2
-Rating: 4.54 (Ranked 467)  
+Rating: 4.54 (Ranked 468)  
 Number of Ratings: 7,396  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 1,097  (Ranked 123)  
-Sum: 8,898 (Ranked 80)  
+Sum: 8,900 (Ranked 80)  
 Diff (max vs sum): 43
 ## Awards
 | Award | Number of Ratings |
@@ -14,7 +14,7 @@ Diff (max vs sum): 43
 | This game has Amazing Storytelling | 1,060 |
 | This game has Diverse Characters | 1,050 |
 | This game has Quickly Understood Controls | 1,049 |
-| This game is Extremely Fun | 1,043 |
+| This game is Extremely Fun | 1,045 |
 | This game has Amazing Characters | 997 |
 | This game has Obsessive Gameplay | 561 |
 | This game has a Creative Community | 443 |

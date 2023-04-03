@@ -2,15 +2,15 @@
   "ID": "7ec453d446194b8f8afe82aaa9561211",
   "Name": "XCOM\u00AE 2",
   "Rating": 4.54,
-  "Ranking_Rating": 467,
+  "Ranking_Rating": 468,
   "Ranking_Popularity": 123,
   "Ranking_PopularitySum": 80,
   "NumberOfRatings": 7396,
-  "NumberOfAwards": 8898,
+  "NumberOfAwards": 8900,
   "NumberOfAwardsMax": 1097,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:17:40.7075482+00:00",
-  "LastChanged": "2023-04-03T16:57:05.8752536+00:00",
+  "LastChanged": "2023-04-03T17:57:06.7316551+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:40.7075487+00:00",
@@ -2962,6 +2962,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 8898,
       "NumberOfAwardsMax": 1097
+    },
+    {
+      "Time": "2023-04-03T17:57:06.7316579+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8900,
+      "NumberOfAwardsMax": 1097
     }
   ],
   "Tags": [
@@ -2987,7 +2993,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1043
+      "Count": 1045
     },
     {
       "Text": "This game is Highly Recommended",

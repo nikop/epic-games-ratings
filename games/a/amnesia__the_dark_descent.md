@@ -1,5 +1,5 @@
 # Amnesia: The Dark Descent
-Rating: 4.56 (Ranked 435)  
+Rating: 4.56 (Ranked 436)  
 Number of Ratings: 289  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 479)  

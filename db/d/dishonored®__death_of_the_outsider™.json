@@ -3,14 +3,14 @@
   "Name": "Dishonored\u00AE: Death of the Outsider\u2122",
   "Rating": 4.43,
   "Ranking_Rating": 623,
-  "Ranking_Popularity": 474,
-  "Ranking_PopularitySum": 474,
-  "NumberOfAwards": 20,
-  "NumberOfAwardsMax": 20,
+  "Ranking_Popularity": 470,
+  "Ranking_PopularitySum": 470,
+  "NumberOfAwards": 21,
+  "NumberOfAwardsMax": 21,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-12-15T22:58:09.2323476+00:00",
   "FirstSeenRating": "2022-12-26T17:58:45.352902+00:00",
-  "LastChanged": "2023-03-14T19:00:33.5342123+00:00",
+  "LastChanged": "2023-04-03T17:59:07.5294433+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-26T17:58:45.3529025+00:00",
@@ -155,6 +155,12 @@
     {
       "Time": "2023-03-14T19:00:33.5342125+00:00",
       "Rating": 4.43
+    },
+    {
+      "Time": "2023-04-03T17:59:07.5294436+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 21,
+      "NumberOfAwardsMax": 21
     }
   ],
   "Tags": [
@@ -168,7 +174,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 20
+      "Count": 21
     }
   ]
 }
