@@ -2,7 +2,7 @@
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 1,188,924 | 4.30 | 738 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 369,237 | 4.51 | 509 |
-| 3 | [Genshin Impact](games/g/genshin_impact.md) | 279,685 | 4.68 | 236 |
+| 3 | [Genshin Impact](games/g/genshin_impact.md) | 280,091 | 4.68 | 236 |
 | 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 178,754 | 4.19 | 803 |
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 152,070 | 4.69 | 212 |
 | 6 | [Fall Guys](games/f/fall_guys.md) | 137,081 | 4.53 | 481 |
@@ -146,7 +146,7 @@
 | 144 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 789 | 4.76 | 112 |
 | 145 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 785 | 4.54 | 467 |
 | 146 | [Frostpunk](games/f/frostpunk.md) | 760 | 4.73 | 154 |
-| 147 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 750 | 4.69 | 212 |
+| 147 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 751 | 4.69 | 212 |
 | 148 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 746 | 4.50 | 523 |
 | 149 | [The Long Dark](games/t/the_long_dark.md) | 728 | 4.75 | 127 |
 | 150 | [Core](games/c/core.md) | 720 | 4.37 | 684 |
@@ -183,7 +183,7 @@
 | 181 | [FAR CRY 4](games/f/far_cry_4.md) | 472 | 4.66 | 272 |
 | 182 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 463 | 4.82 | 61 |
 | 183 | [Unreal Tournament](games/u/unreal_tournament.md) | 457 | 4.66 | 272 |
-| 184 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 447 | 4.74 | 143 |
+| 184 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 452 | 4.74 | 143 |
 | 185 | [Ghostrunner](games/g/ghostrunner.md) | 446 | 4.72 | 166 |
 | 186 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 445 | 4.86 | 32 |
 | 187 | [Surviving Mars](games/s/surviving_mars.md) | 425 | 4.60 | 374 |

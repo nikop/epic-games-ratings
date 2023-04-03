@@ -145,7 +145,7 @@
 | 143 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 396 | 191 |
 | 143 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 479 |
 | 143 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.74 | 0 | 479 |
-| 143 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 447 | 184 |
+| 143 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 452 | 184 |
 | 143 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,308 | 45 |
 | 143 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 222 | 243 |
 | 143 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 479 |
@@ -234,7 +234,7 @@
 | 212 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 0 | 479 |
 | 212 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 479 |
 | 212 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 0 | 479 |
-| 212 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 750 | 147 |
+| 212 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 751 | 147 |
 | 236 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,314 | 80 |
 | 236 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 2,887 | 87 |
 | 236 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 479 |
@@ -242,7 +242,7 @@
 | 236 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 479 |
 | 236 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 3,877 | 73 |
 | 236 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 4,929 | 59 |
-| 236 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 279,685 | 3 |
+| 236 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 280,091 | 3 |
 | 236 | [GNOG](games/g/gnog.md) | 4.68 | 0 | 479 |
 | 236 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 479 |
 | 236 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 409 | 189 |
