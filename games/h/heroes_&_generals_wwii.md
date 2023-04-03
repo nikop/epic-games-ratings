@@ -1,9 +1,9 @@
 # Heroes & Generals WWII
-Rating: 4.23 (Ranked 778)  
+Rating: 4.24 (Ranked 774)  
 Number of Ratings: 4,634  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 970  (Ranked 133)  
-Sum: 6,812 (Ranked 101)  
+Sum: 6,813 (Ranked 101)  
 Diff (max vs sum): 32
 ## Awards
 | Award | Number of Ratings |
@@ -12,7 +12,7 @@ Diff (max vs sum): 32
 | This game is Extremely Fun | 921 |
 | This game has Quickly Understood Controls | 879 |
 | This game has Competitive Players | 879 |
-| This game is Highly Recommended | 851 |
+| This game is Highly Recommended | 852 |
 | This game has Amazing Characters | 810 |
 | This game has Amazing Storytelling | 791 |
 | This game has a Competitive Community | 711 |
@@ -98,3 +98,4 @@ Diff (max vs sum): 32
 | 2023-03-23 | 4.23 | - | - |
 | 2023-04-01 | 4.23 | - | 970 |
 | 2023-04-02 | 4.23 | - | 970 |
+| 2023-04-03 | 4.24 | - | 970 |

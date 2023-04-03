@@ -1,5 +1,5 @@
 # The Surge 2
-Rating: 4.23 (Ranked 778)  
+Rating: 4.23 (Ranked 779)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 479)  
 Sum: 0 (Ranked 479)  
