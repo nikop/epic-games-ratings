@@ -3,14 +3,14 @@
   "Name": "Torchlight II",
   "Rating": 4.58,
   "Ranking_Rating": 401,
-  "Ranking_Popularity": 137,
+  "Ranking_Popularity": 136,
   "Ranking_PopularitySum": 188,
   "NumberOfRatings": 2280,
-  "NumberOfAwards": 1865,
-  "NumberOfAwardsMax": 957,
+  "NumberOfAwards": 1866,
+  "NumberOfAwardsMax": 958,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:29:22.1423084+00:00",
-  "LastChanged": "2023-03-31T15:57:52.8330117+00:00",
+  "LastChanged": "2023-04-03T05:58:58.511859+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:22.1423087+00:00",
@@ -1211,6 +1211,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 1865,
       "NumberOfAwardsMax": 957
+    },
+    {
+      "Time": "2023-04-03T05:58:58.5118594+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1866,
+      "NumberOfAwardsMax": 958
     }
   ],
   "Tags": [
@@ -1218,7 +1224,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 957
+      "Count": 958
     },
     {
       "Text": "This game has Great Boss Battles",

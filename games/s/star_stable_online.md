@@ -1,5 +1,5 @@
 # Star Stable Online
-Rating: 4.41 (Ranked 641)  
+Rating: 4.41 (Ranked 640)  
 Number of Ratings: 317  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 118  (Ranked 295)  

@@ -2,7 +2,7 @@
 Rating: 4.54 (Ranked 467)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 989  (Ranked 132)  
-Sum: 1,985 (Ranked 183)  
+Sum: 1,987 (Ranked 183)  
 Diff (max vs sum): -51
 ## Awards
 | Award | Number of Ratings |
@@ -15,7 +15,7 @@ Diff (max vs sum): -51
 | This game has Diverse Characters | 118 |
 | This game is Great for Beginners | 113 |
 | This game is Extremely Fun | 108 |
-| This game has Amazing Characters | 106 |
+| This game has Amazing Characters | 108 |
 | This game has a Creative Community | 61 |
 | This game has Challenging Combat | 60 |
 ## Ratings History
