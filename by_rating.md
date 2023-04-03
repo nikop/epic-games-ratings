@@ -126,7 +126,7 @@
 | 112 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 7,361 | 39 |
 | 112 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 479 |
 | 112 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 0 | 479 |
-| 127 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,547 | 63 |
+| 127 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,554 | 63 |
 | 127 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 84 | 331 |
 | 127 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,130 | 83 |
 | 127 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 331 | 206 |
@@ -311,7 +311,7 @@
 | 309 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 0 | 479 |
 | 309 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 479 |
 | 309 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,824 | 52 |
-| 309 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 2,036 | 99 |
+| 309 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 2,037 | 99 |
 | 309 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 45 | 387 |
 | 309 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 0 | 479 |
 | 309 | [HITMAN](games/h/hitman.md) | 4.64 | 195 | 255 |
@@ -365,7 +365,7 @@
 | 349 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 545 | 169 |
 | 349 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 0 | 479 |
 | 349 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,048 | 126 |
-| 349 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,375 | 89 |
+| 349 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,376 | 89 |
 | 349 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 393 | 192 |
 | 349 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,055 | 125 |
 | 349 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 265 | 228 |
@@ -428,7 +428,7 @@
 | 419 | [Hob](games/h/hob.md) | 4.57 | 0 | 479 |
 | 419 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 36 | 410 |
 | 419 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,027 | 41 |
-| 419 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 2,969 | 85 |
+| 419 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 2,970 | 85 |
 | 419 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 0 | 479 |
 | 419 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 115 | 297 |
 | 419 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 17,571 | 17 |
@@ -766,17 +766,17 @@
 | 761 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.26 | 0 | 479 |
 | 761 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 479 |
 | 761 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 479 |
-| 767 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 0 | 479 |
-| 767 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.25 | 0 | 479 |
-| 767 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 0 | 479 |
-| 767 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 0 | 479 |
-| 767 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 0 | 479 |
-| 767 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.25 | 30 | 434 |
-| 773 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 479 |
-| 773 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 430 |
-| 773 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 284 | 221 |
-| 773 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 387 |
-| 773 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.24 | 0 | 479 |
+| 761 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.26 | 0 | 479 |
+| 768 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 0 | 479 |
+| 768 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.25 | 0 | 479 |
+| 768 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 0 | 479 |
+| 768 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 0 | 479 |
+| 768 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 0 | 479 |
+| 768 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.25 | 30 | 434 |
+| 774 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 479 |
+| 774 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 430 |
+| 774 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 284 | 221 |
+| 774 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 387 |
 | 778 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 479 |
 | 778 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 6,020 | 50 |
 | 778 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 0 | 479 |
