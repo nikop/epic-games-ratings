@@ -1,5 +1,5 @@
 # This War of Mine
-Rating: 4.74 (Ranked 142)  
+Rating: 4.74 (Ranked 143)  
 Number of Ratings: 1,090  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 76  (Ranked 338)  

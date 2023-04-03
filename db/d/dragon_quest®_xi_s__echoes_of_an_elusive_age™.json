@@ -1,8 +1,8 @@
 {
   "ID": "94a50905f377470c84c8e4b7c38f9cdd",
   "Name": "DRAGON QUEST\u00AE XI S: Echoes of an Elusive Age\u2122",
-  "Rating": 4.84,
-  "Ranking_Rating": 47,
+  "Rating": 4.83,
+  "Ranking_Rating": 54,
   "Ranking_Popularity": 247,
   "Ranking_PopularitySum": 290,
   "NumberOfRatings": 306,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 209,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:19:40.4195288+00:00",
-  "LastChanged": "2023-03-28T07:57:12.5937961+00:00",
+  "LastChanged": "2023-04-03T07:57:33.6849259+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:40.4195291+00:00",
@@ -466,6 +466,12 @@
     {
       "Time": "2023-03-28T07:57:12.5937962+00:00",
       "Rating": 4.84
+    },
+    {
+      "Time": "2023-04-03T07:57:33.6849262+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 408,
+      "NumberOfAwardsMax": 209
     }
   ],
   "Tags": [

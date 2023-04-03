@@ -1,8 +1,8 @@
 {
   "ID": "50648c4c6f7f47e98a1b3756ed06cc4a",
   "Name": "Assassin\u0027s Creed II Standard Edition",
-  "Rating": 4.74,
-  "Ranking_Rating": 142,
+  "Rating": 4.75,
+  "Ranking_Rating": 127,
   "Ranking_Popularity": 462,
   "Ranking_PopularitySum": 414,
   "NumberOfRatings": 315,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Amazing Storytelling",
   "FirstSeen": "2022-07-22T20:18:28.9665726+00:00",
-  "LastChanged": "2023-03-27T11:57:07.8536849+00:00",
+  "LastChanged": "2023-04-03T07:57:24.5267359+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:28.9665728+00:00",
@@ -439,6 +439,12 @@
     {
       "Time": "2023-03-27T11:57:07.8536851+00:00",
       "Rating": 4.74
+    },
+    {
+      "Time": "2023-04-03T07:57:24.5267361+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 63,
+      "NumberOfAwardsMax": 22
     }
   ],
   "Tags": [

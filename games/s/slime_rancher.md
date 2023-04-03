@@ -1,5 +1,5 @@
 # Slime Rancher
-Rating: 4.83 (Ranked 55)  
+Rating: 4.83 (Ranked 54)  
 Number of Ratings: 5,898  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 385  (Ranked 196)  
