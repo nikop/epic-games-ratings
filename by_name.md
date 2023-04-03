@@ -98,7 +98,7 @@
 | [Blood of Steel](games/b/blood_of_steel.md) | 3.76 | 890 | 0 | 479 |
 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 112 | 1,996 | 101 |
 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 112 | 13,791 | 22 |
-| [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 212 | 106,369 | 8 |
+| [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 212 | 106,436 | 8 |
 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 537 | 391 | 193 |
 | [Brawlhalla](games/b/brawlhalla.md) | 4.55 | 456 | 60 | 367 |
 | [Breathedge](games/b/breathedge.md) | 4.59 | 388 | 0 | 479 |
@@ -147,7 +147,7 @@
 | [Crashlands](games/c/crashlands.md) | 4.65 | 288 | 186 | 258 |
 | [Crayta](games/c/crayta.md) | 4.19 | 803 | 50 | 376 |
 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 758 | 22 | 463 |
-| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.84 | 885 | 28 | 442 |
+| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.85 | 885 | 28 | 442 |
 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 689 | 169 | 266 |
 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 700 | 90 | 325 |
 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 537 | 208 | 250 |
@@ -192,7 +192,7 @@
 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 349 | 271 | 225 |
 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 47 | 44 | 392 |
 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 523 | 0 | 479 |
-| [Destiny 2](games/d/destiny_2.md) | 4.50 | 523 | 32,331 | 12 |
+| [Destiny 2](games/d/destiny_2.md) | 4.50 | 523 | 32,374 | 12 |
 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 349 | 33 | 419 |
 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 349 | 34 | 418 |
 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 24 | 1,357 | 114 |
@@ -443,11 +443,11 @@
 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 154 | 539 | 172 |
 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 467 | 998 | 130 |
 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 24 | 11,246 | 29 |
-| [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 92 | 958 | 136 |
+| [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 92 | 959 | 136 |
 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 349 | 1,048 | 126 |
 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 288 | 48 | 382 |
 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 212 | 1,166 | 119 |
-| [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 92 | 5,765 | 54 |
+| [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 92 | 5,769 | 54 |
 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 192 | 1,792 | 104 |
 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 67 | 108 | 306 |
 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 523 | 93 | 320 |
@@ -566,7 +566,7 @@
 | [Redout 2](games/r/redout_2.md) | 4.44 | 606 | 0 | 479 |
 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 523 | 0 | 479 |
 | [Relicta](games/r/relicta.md) | 4.15 | 826 | 190 | 256 |
-| [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 374 | 8,825 | 34 |
+| [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 374 | 8,836 | 34 |
 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 884 | 0 | 479 |
 | [Returnal™](games/r/returnal™.md) | 4.69 | 212 | 0 | 479 |
 | [Revita](games/r/revita.md) | 4.67 | 255 | 0 | 479 |
@@ -576,7 +576,7 @@
 | [RimWorld](games/r/rimworld.md) | 4.89 | 13 | 391 | 193 |
 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 401 | 1,465 | 111 |
 | [Rise of Industry](games/r/rise_of_industry.md) | 4.23 | 779 | 0 | 479 |
-| [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 212 | 11,121 | 31 |
+| [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 212 | 11,123 | 31 |
 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 654 | 73 | 342 |
 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 523 | 625 | 160 |
 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 38 | 223 | 242 |
@@ -668,7 +668,7 @@
 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 236 | 30 | 434 |
 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 654 | 0 | 479 |
 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 640 | 118 | 295 |
-| [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 606 | 501 | 177 |
+| [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 606 | 502 | 177 |
 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.66 | 272 | 0 | 479 |
 | [Starsand](games/s/starsand.md) | 4.21 | 787 | 0 | 479 |
 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 779 | 0 | 479 |
@@ -728,7 +728,7 @@
 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 579 | 6,299 | 46 |
 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 509 | 62 | 364 |
 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 192 | 56 | 372 |
-| [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 24 | 1,159 | 120 |
+| [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 24 | 1,160 | 120 |
 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.75 | 127 | 0 | 479 |
 | [The Escapists](games/t/the_escapists.md) | 4.48 | 555 | 0 | 479 |
 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 401 | 50 | 376 |
@@ -799,7 +799,7 @@
 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 272 | 5,725 | 55 |
 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 54 | 80 | 337 |
 | [Torchlight](games/t/torchlight.md) | 4.35 | 700 | 20 | 474 |
-| [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 401 | 958 | 136 |
+| [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 401 | 958 | 137 |
 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 127 | 0 | 479 |
 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 886 | 0 | 479 |
 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 401 | 5,912 | 51 |

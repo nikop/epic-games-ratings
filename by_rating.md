@@ -29,7 +29,7 @@
 | 24 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,246 | 29 |
 | 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 991 | 132 |
 | 24 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 22 | 463 |
-| 24 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 1,159 | 120 |
+| 24 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.87 | 1,160 | 120 |
 | 24 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.87 | 0 | 479 |
 | 32 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 479 |
 | 32 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 680 | 154 |
@@ -94,8 +94,8 @@
 | 92 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,428 | 112 |
 | 92 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 330 | 207 |
 | 92 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 2,215 | 93 |
-| 92 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 958 | 136 |
-| 92 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,765 | 54 |
+| 92 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 959 | 136 |
+| 92 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,769 | 54 |
 | 92 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 360 | 202 |
 | 92 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 479 |
 | 92 | [Tchia](games/t/tchia.md) | 4.79 | 0 | 479 |
@@ -211,7 +211,7 @@
 | 192 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 0 | 479 |
 | 192 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 479 |
 | 192 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,131 | 68 |
-| 212 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 106,369 | 8 |
+| 212 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 106,436 | 8 |
 | 212 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,696 | 75 |
 | 212 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 307 | 214 |
 | 212 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 0 | 479 |
@@ -223,7 +223,7 @@
 | 212 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.69 | 0 | 479 |
 | 212 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 479 |
 | 212 | [Returnal™](games/r/returnal™.md) | 4.69 | 0 | 479 |
-| 212 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,121 | 31 |
+| 212 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,123 | 31 |
 | 212 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.69 | 0 | 479 |
 | 212 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 0 | 479 |
 | 212 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 43 | 398 |
@@ -381,7 +381,7 @@
 | 374 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 36 | 410 |
 | 374 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 62 | 364 |
 | 374 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 0 | 479 |
-| 374 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 8,825 | 34 |
+| 374 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 8,836 | 34 |
 | 374 | [Roguebook](games/r/roguebook.md) | 4.60 | 0 | 479 |
 | 374 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 425 | 187 |
 | 374 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 20 | 474 |
@@ -414,7 +414,7 @@
 | 401 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.58 | 67 | 357 |
 | 401 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 155 | 276 |
 | 401 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 243 | 234 |
-| 401 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 958 | 136 |
+| 401 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 958 | 137 |
 | 401 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 5,912 | 51 |
 | 401 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 199 | 253 |
 | 401 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,288 | 19 |
@@ -525,7 +525,7 @@
 | 523 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 1,526 | 110 |
 | 523 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 0 | 479 |
 | 523 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 479 |
-| 523 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 32,331 | 12 |
+| 523 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 32,374 | 12 |
 | 523 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.50 | 0 | 479 |
 | 523 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 0 | 479 |
 | 523 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 93 | 320 |
@@ -615,7 +615,7 @@
 | 606 | [Redout 2](games/r/redout_2.md) | 4.44 | 0 | 479 |
 | 606 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 0 | 479 |
 | 606 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 0 | 479 |
-| 606 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 501 | 177 |
+| 606 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 502 | 177 |
 | 606 | [STG Football](games/s/stg_football.md) | 4.44 | 33 | 419 |
 | 606 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 479 |
 | 606 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 314 |
@@ -884,7 +884,7 @@
 | 880 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 309 |
 | 883 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 0 | 479 |
 | 884 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 479 |
-| 885 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.84 | 28 | 442 |
+| 885 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.85 | 28 | 442 |
 | 886 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 0 | 479 |
 | 887 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 0 | 479 |
 | 887 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,017 | 129 |

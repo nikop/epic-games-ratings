@@ -1,13 +1,13 @@
 # The Elder Scrolls V: Skyrim Special Edition
 Rating: 4.87 (Ranked 24)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 1,159  (Ranked 120)  
-Sum: 2,628 (Ranked 157)  
+Max (Character Customization): 1,160  (Ranked 120)  
+Sum: 2,629 (Ranked 157)  
 Diff (max vs sum): -37
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 1,159 |
+| This game has Inclusive Character Customization | 1,160 |
 | This game is Great for Beginners | 193 |
 | This game has Diverse Characters | 190 |
 | This game is Highly Recommended | 168 |
@@ -60,3 +60,4 @@ Diff (max vs sum): -37
 | 2023-03-31 | 4.87 | - | 1,156 |
 | 2023-04-01 | 4.87 | - | 1,157 |
 | 2023-04-02 | 4.87 | - | 1,159 |
+| 2023-04-03 | 4.87 | - | 1,160 |
