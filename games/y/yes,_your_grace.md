@@ -1,5 +1,5 @@
 # Yes, Your Grace
-Rating: 4.51 (Ranked 509)  
+Rating: 4.51 (Ranked 508)  
 Number of Ratings: 85  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 479)  

@@ -6,11 +6,11 @@
   "Ranking_Popularity": 107,
   "Ranking_PopularitySum": 137,
   "NumberOfRatings": 2487,
-  "NumberOfAwards": 3503,
-  "NumberOfAwardsMax": 1718,
+  "NumberOfAwards": 3505,
+  "NumberOfAwardsMax": 1720,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:25:45.1874412+00:00",
-  "LastChanged": "2023-04-03T01:53:26.4698049+00:00",
+  "LastChanged": "2023-04-03T18:58:41.5265999+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:45.1874414+00:00",
@@ -1760,6 +1760,12 @@
       "Rating": 4.63,
       "NumberOfAwards": 3503,
       "NumberOfAwardsMax": 1718
+    },
+    {
+      "Time": "2023-04-03T18:58:41.5266001+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3505,
+      "NumberOfAwardsMax": 1720
     }
   ],
   "Tags": [
@@ -1767,7 +1773,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1718
+      "Count": 1720
     },
     {
       "Text": "This game is Extremely Fun",
