@@ -1,18 +1,18 @@
 # Tannenberg
-Rating: 4.39 (Ranked 662)  
+Rating: 4.39 (Ranked 663)  
 Number of Ratings: 13,393  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Competitive Players): 319  (Ranked 209)  
-Sum: 2,795 (Ranked 151)  
+Sum: 2,796 (Ranked 151)  
 Diff (max vs sum): 58
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Competitive Players | 319 |
 | This game is Relaxing | 301 |
+| This game has Quickly Understood Controls | 300 |
 | This game has Diverse Characters | 300 |
 | This game is Extremely Fun | 299 |
-| This game has Quickly Understood Controls | 299 |
 | This game has Challenging Combat | 274 |
 | This game is Highly Recommended | 268 |
 | This game has Amazing Characters | 265 |
@@ -100,3 +100,4 @@ Diff (max vs sum): 58
 | 2022-11-04 | 4.38 | - | - |
 | 2022-11-07 | 4.39 | - | - |
 | 2023-04-01 | 4.39 | - | 319 |
+| 2023-04-03 | 4.39 | - | 319 |

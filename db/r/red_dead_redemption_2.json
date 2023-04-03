@@ -6,11 +6,11 @@
   "Ranking_Popularity": 7,
   "Ranking_PopularitySum": 9,
   "NumberOfRatings": 102658,
-  "NumberOfAwards": 328922,
+  "NumberOfAwards": 328942,
   "NumberOfAwardsMax": 130249,
   "MaxAwardTitle": "Impact the Story",
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-04-03T16:57:45.2065879+00:00",
+  "LastChanged": "2023-04-03T19:57:46.1773372+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:15.0342453+00:00",
@@ -3750,6 +3750,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 328922,
       "NumberOfAwardsMax": 130249
+    },
+    {
+      "Time": "2023-04-03T19:57:46.1773373+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 328942,
+      "NumberOfAwardsMax": 130249
     }
   ],
   "Tags": [
@@ -3769,7 +3775,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 11993
+      "Count": 12013
     },
     {
       "Text": "This game has Amazing Characters",
