@@ -2,12 +2,13 @@
 Rating: 3.85 (Ranked 885)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 28  (Ranked 442)  
-Sum: 48 (Ranked 426)  
-Diff (max vs sum): 16
+Sum: 71 (Ranked 406)  
+Diff (max vs sum): 36
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Diverse Characters | 28 |
+| This game has Amazing Characters | 23 |
 | This game is Great for Quick Sessions | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |

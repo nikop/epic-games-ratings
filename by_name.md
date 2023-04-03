@@ -18,7 +18,7 @@
 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 288 | 0 | 479 |
 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 481 | 0 | 479 |
 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 435 | 0 | 479 |
-| [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 835 | 0 | 479 |
+| [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 836 | 0 | 479 |
 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 322 | 20 | 474 |
 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 349 | 126 | 288 |
 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 858 | 0 | 479 |
@@ -209,7 +209,7 @@
 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 689 | 45 | 387 |
 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 19 | 0 | 479 |
 | [DOOM (1993)](games/d/doom_(1993).md) | 4.81 | 67 | 32 | 424 |
-| [DOOM 3](games/d/doom_3.md) | 4.61 | 349 | 63 | 362 |
+| [DOOM 3](games/d/doom_3.md) | 4.61 | 349 | 64 | 362 |
 | [DOOM 64](games/d/doom_64.md) | 4.66 | 272 | 1,283 | 118 |
 | [DOOM II](games/d/doom_ii.md) | 4.73 | 154 | 25 | 455 |
 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 54 | 209 | 247 |
@@ -242,7 +242,7 @@
 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 481 | 137,081 | 6 |
 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 112 | 55 | 373 |
 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 374 | 13,105 | 24 |
-| [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.49 | 537 | 63 | 362 |
+| [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.49 | 537 | 63 | 363 |
 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.65 | 288 | 54 | 374 |
 | [Family Man](games/f/family_man.md) | 4.16 | 818 | 0 | 479 |
 | [Fangs](games/f/fangs.md) | 4.09 | 847 | 0 | 479 |
@@ -277,7 +277,7 @@
 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 127 | 331 | 206 |
 | [For The King](games/f/for_the_king.md) | 4.70 | 192 | 354 | 203 |
 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 606 | 0 | 479 |
-| [Forspoken](games/f/forspoken.md) | 4.12 | 835 | 0 | 479 |
+| [Forspoken](games/f/forspoken.md) | 4.13 | 833 | 0 | 479 |
 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 850 | 136 | 283 |
 | [Fortnite](games/f/fortnite.md) | 4.30 | 738 | 1,188,924 | 1 |
 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.71 | 176 | 0 | 479 |
@@ -334,7 +334,7 @@
 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 746 | 0 | 479 |
 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 738 | 0 | 479 |
 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 662 | 0 | 479 |
-| [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.24 | 774 | 970 | 133 |
+| [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.24 | 774 | 971 | 133 |
 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 435 | 0 | 479 |
 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.91 | 6 | 0 | 479 |
 | [High On Life](games/h/high_on_life.md) | 4.69 | 212 | 0 | 479 |
@@ -444,7 +444,7 @@
 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 467 | 998 | 130 |
 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 24 | 11,246 | 29 |
 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 92 | 959 | 136 |
-| [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 349 | 1,048 | 126 |
+| [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 349 | 1,049 | 126 |
 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 288 | 48 | 382 |
 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 212 | 1,166 | 119 |
 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 92 | 5,769 | 54 |
@@ -519,7 +519,7 @@
 | [Paladins](games/p/paladins.md) | 4.35 | 700 | 3,182 | 81 |
 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.62 | 333 | 0 | 479 |
 | [Paradigm](games/p/paradigm.md) | 4.48 | 555 | 0 | 479 |
-| [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 774 | 287 | 220 |
+| [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 774 | 288 | 220 |
 | [Parkitect](games/p/parkitect.md) | 4.34 | 709 | 0 | 479 |
 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 374 | 0 | 479 |
 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 719 | 0 | 479 |
@@ -639,7 +639,7 @@
 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 80 | 98 | 313 |
 | [Slipways](games/s/slipways.md) | 4.73 | 154 | 0 | 479 |
 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 112 | 0 | 479 |
-| [SMITE](games/s/smite.md) | 4.45 | 592 | 3,560 | 77 |
+| [SMITE](games/s/smite.md) | 4.45 | 592 | 3,568 | 77 |
 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.34 | 709 | 0 | 479 |
 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 112 | 7,361 | 39 |
 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 272 | 24 | 457 |

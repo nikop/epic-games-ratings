@@ -4,13 +4,13 @@
   "Rating": 4.53,
   "Ranking_Rating": 481,
   "Ranking_Popularity": 442,
-  "Ranking_PopularitySum": 344,
+  "Ranking_PopularitySum": 343,
   "NumberOfRatings": 233,
-  "NumberOfAwards": 207,
+  "NumberOfAwards": 208,
   "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Competitive Players",
   "FirstSeen": "2022-07-22T20:19:01.098445+00:00",
-  "LastChanged": "2023-01-23T18:56:57.7007182+00:00",
+  "LastChanged": "2023-04-03T13:57:17.2818174+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:01.0984452+00:00",
@@ -439,6 +439,12 @@
     {
       "Time": "2023-01-23T18:56:57.7007183+00:00",
       "Rating": 4.53
+    },
+    {
+      "Time": "2023-04-03T13:57:17.2818175+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 208,
+      "NumberOfAwardsMax": 28
     }
   ],
   "Tags": [
@@ -458,7 +464,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game is Relaxing",

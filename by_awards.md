@@ -76,7 +76,7 @@
 | 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 3,814 | 4.77 | 106 |
 | 75 | [Days Gone](games/d/days_gone.md) | 3,696 | 4.69 | 212 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 3,598 | 4.56 | 435 |
-| 77 | [SMITE](games/s/smite.md) | 3,560 | 4.45 | 592 |
+| 77 | [SMITE](games/s/smite.md) | 3,568 | 4.45 | 592 |
 | 78 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,540 | 4.30 | 738 |
 | 79 | [Gloomhaven](games/g/gloomhaven.md) | 3,412 | 4.47 | 565 |
 | 80 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,314 | 4.68 | 236 |
@@ -125,14 +125,14 @@
 | 123 | [XCOM® 2](games/x/xcom®_2.md) | 1,097 | 4.54 | 467 |
 | 124 | [OUTRIDERS](games/o/outriders.md) | 1,071 | 4.42 | 630 |
 | 125 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,055 | 4.61 | 349 |
-| 126 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,048 | 4.61 | 349 |
+| 126 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,049 | 4.61 | 349 |
 | 127 | [Conan Exiles](games/c/conan_exiles.md) | 1,028 | 4.55 | 456 |
 | 128 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,021 | 4.66 | 272 |
 | 129 | [Saints Row](games/s/saints_row.md) | 1,017 | 3.78 | 887 |
 | 130 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 998 | 4.54 | 467 |
 | 131 | [EVE Online](games/e/eve_online.md) | 994 | 4.26 | 761 |
 | 132 | [Ooblets](games/o/ooblets.md) | 991 | 4.87 | 24 |
-| 133 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 970 | 4.24 | 774 |
+| 133 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 971 | 4.24 | 774 |
 | 134 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 969 | 4.40 | 654 |
 | 135 | [World of Warships](games/w/world_of_warships.md) | 966 | 4.45 | 592 |
 | 136 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 959 | 4.79 | 92 |
@@ -219,7 +219,7 @@
 | 217 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.27 | 758 |
 | 218 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 295 | 4.59 | 388 |
 | 219 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 293 | 4.70 | 192 |
-| 220 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 287 | 4.24 | 774 |
+| 220 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 288 | 4.24 | 774 |
 | 221 | [Dishonored 2](games/d/dishonored_2.md) | 285 | 4.81 | 67 |
 | 222 | [House Flipper](games/h/house_flipper.md) | 277 | 4.70 | 192 |
 | 223 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 275 | 4.46 | 579 |
@@ -361,8 +361,8 @@
 | 358 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 66 | 4.71 | 176 |
 | 358 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 66 | 4.43 | 623 |
 | 358 | [Symphony of War](games/s/symphony_of_war.md) | 66 | 4.64 | 309 |
-| 362 | [DOOM 3](games/d/doom_3.md) | 63 | 4.61 | 349 |
-| 362 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 63 | 4.49 | 537 |
+| 362 | [DOOM 3](games/d/doom_3.md) | 64 | 4.61 | 349 |
+| 363 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 63 | 4.49 | 537 |
 | 364 | [In Sound Mind](games/i/in_sound_mind.md) | 62 | 4.60 | 374 |
 | 364 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 62 | 4.51 | 509 |
 | 366 | [Arcadegeddon](games/a/arcadegeddon.md) | 61 | 4.49 | 537 |

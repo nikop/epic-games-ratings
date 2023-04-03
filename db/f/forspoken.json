@@ -1,15 +1,15 @@
 {
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
-  "Rating": 4.12,
-  "Ranking_Rating": 835,
+  "Rating": 4.13,
+  "Ranking_Rating": 833,
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 479,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
-  "LastChanged": "2023-03-31T05:57:07.770663+00:00",
+  "LastChanged": "2023-04-03T13:57:13.8832507+00:00",
   "RatingHistory": [
     {
       "Time": "2023-01-28T02:09:06.4755934+00:00",
@@ -142,6 +142,12 @@
     {
       "Time": "2023-03-31T05:57:07.7706631+00:00",
       "Rating": 4.12,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-03T13:57:13.8832509+00:00",
+      "Rating": 4.13,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

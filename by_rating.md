@@ -359,12 +359,12 @@
 | 349 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 271 | 225 |
 | 349 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 33 | 419 |
 | 349 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 34 | 418 |
-| 349 | [DOOM 3](games/d/doom_3.md) | 4.61 | 63 | 362 |
+| 349 | [DOOM 3](games/d/doom_3.md) | 4.61 | 64 | 362 |
 | 349 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 0 | 479 |
 | 349 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 1,123 | 122 |
 | 349 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 545 | 169 |
 | 349 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 0 | 479 |
-| 349 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,048 | 126 |
+| 349 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,049 | 126 |
 | 349 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,376 | 89 |
 | 349 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 393 | 192 |
 | 349 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,055 | 125 |
@@ -545,7 +545,7 @@
 | 537 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 88 | 328 |
 | 537 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 0 | 479 |
 | 537 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 270 | 226 |
-| 537 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.49 | 63 | 362 |
+| 537 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.49 | 63 | 363 |
 | 537 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 209 | 247 |
 | 537 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 2,027 | 100 |
 | 537 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 479 |
@@ -601,7 +601,7 @@
 | 592 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 37 | 406 |
 | 592 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 479 |
 | 592 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 844 | 142 |
-| 592 | [SMITE](games/s/smite.md) | 4.45 | 3,560 | 77 |
+| 592 | [SMITE](games/s/smite.md) | 4.45 | 3,568 | 77 |
 | 592 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 113 | 300 |
 | 592 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 0 | 479 |
 | 592 | [World of Warships](games/w/world_of_warships.md) | 4.45 | 966 | 135 |
@@ -775,8 +775,8 @@
 | 768 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.25 | 30 | 434 |
 | 774 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 479 |
 | 774 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 430 |
-| 774 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.24 | 970 | 133 |
-| 774 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 287 | 220 |
+| 774 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.24 | 971 | 133 |
+| 774 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 288 | 220 |
 | 774 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 387 |
 | 779 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 479 |
 | 779 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 6,020 | 50 |
@@ -834,8 +834,8 @@
 | 832 | [Train Valley 2](games/t/train_valley_2.md) | 4.14 | 69 | 350 |
 | 833 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 479 |
 | 833 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 0 | 479 |
-| 835 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 0 | 479 |
-| 835 | [Forspoken](games/f/forspoken.md) | 4.12 | 0 | 479 |
+| 833 | [Forspoken](games/f/forspoken.md) | 4.13 | 0 | 479 |
+| 836 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 0 | 479 |
 | 837 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 32 | 424 |
 | 837 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.11 | 0 | 479 |
 | 837 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.11 | 0 | 479 |
