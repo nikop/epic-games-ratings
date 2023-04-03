@@ -2,15 +2,15 @@
   "ID": "45e7cf3c49054f2fb20b673d9b0ae69e",
   "Name": "Sonic Mania",
   "Rating": 4.78,
-  "Ranking_Rating": 100,
+  "Ranking_Rating": 101,
   "Ranking_Popularity": 140,
   "Ranking_PopularitySum": 205,
   "NumberOfRatings": 2185,
-  "NumberOfAwards": 1526,
+  "NumberOfAwards": 1527,
   "NumberOfAwardsMax": 901,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:24:14.1875943+00:00",
-  "LastChanged": "2023-03-16T22:57:51.8367113+00:00",
+  "LastChanged": "2023-04-03T16:57:52.0757689+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:14.1875945+00:00",
@@ -1109,6 +1109,12 @@
     {
       "Time": "2023-03-16T22:57:51.8367114+00:00",
       "Rating": 4.78
+    },
+    {
+      "Time": "2023-04-03T16:57:52.0757691+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 1527,
+      "NumberOfAwardsMax": 901
     }
   ],
   "Tags": [
@@ -1164,7 +1170,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 68
+      "Count": 69
     },
     {
       "Text": "This game has Amazing Characters",

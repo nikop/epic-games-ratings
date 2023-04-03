@@ -1,5 +1,5 @@
 # LEGO® Batman™ 2: DC Super Heroes
-Rating: 4.64 (Ranked 309)  
+Rating: 4.64 (Ranked 308)  
 Number of Ratings: 489  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 179  (Ranked 262)  

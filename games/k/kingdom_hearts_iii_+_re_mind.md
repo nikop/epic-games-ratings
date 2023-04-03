@@ -1,5 +1,5 @@
 # KINGDOM HEARTS III + Re Mind
-Rating: 4.78 (Ranked 100)  
+Rating: 4.79 (Ranked 92)  
 Number of Ratings: 2,011  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 874  (Ranked 141)  
@@ -92,3 +92,4 @@ Diff (max vs sum): -28
 | 2023-03-27 | 4.78 | - | - |
 | 2023-04-01 | 4.78 | - | 873 |
 | 2023-04-02 | 4.78 | - | 874 |
+| 2023-04-03 | 4.79 | - | 874 |

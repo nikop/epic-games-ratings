@@ -1,13 +1,13 @@
 # Gotham Knights
 Rating: 4.17 (Ranked 813)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 2,073  (Ranked 98)  
-Sum: 3,421 (Ranked 140)  
+Max (Great Boss Battles): 2,077  (Ranked 98)  
+Sum: 3,425 (Ranked 140)  
 Diff (max vs sum): -42
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 2,073 |
+| This game has Great Boss Battles | 2,077 |
 | This game is Extremely Fun | 176 |
 | This game has Quickly Understood Controls | 172 |
 | This game is Relaxing | 172 |
@@ -64,4 +64,4 @@ Diff (max vs sum): -42
 | 2023-03-20 | 4.17 | - | - |
 | 2023-04-01 | 4.17 | - | 2,069 |
 | 2023-04-02 | 4.17 | - | 2,073 |
-| 2023-04-03 | 4.17 | - | 2,073 |
+| 2023-04-03 | 4.17 | - | 2,077 |
