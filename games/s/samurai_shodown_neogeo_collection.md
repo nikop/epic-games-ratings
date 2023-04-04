@@ -1,5 +1,5 @@
 # SAMURAI SHODOWN NEOGEO COLLECTION
-Rating: 4.47 (Ranked 565)  
+Rating: 4.46 (Ranked 578)  
 Number of Ratings: 83  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 479)  
@@ -63,3 +63,4 @@ Diff (max vs sum): 0
 | 2023-02-27 | 4.46 | - | - |
 | 2023-03-04 | 4.47 | - | - |
 | 2023-03-31 | 4.47 | - | 0 |
+| 2023-04-04 | 4.46 | - | 0 |
