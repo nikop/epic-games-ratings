@@ -1,5 +1,5 @@
 # Duskers
-Rating: 4.44 (Ranked 605)  
+Rating: 4.45 (Ranked 591)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 479)  
 Sum: 0 (Ranked 479)  
@@ -32,3 +32,4 @@ Diff (max vs sum): 0
 | 2023-03-24 | 4.43 | - | - |
 | 2023-03-31 | 4.43 | - | 0 |
 | 2023-04-01 | 4.44 | - | 0 |
+| 2023-04-04 | 4.45 | - | 0 |

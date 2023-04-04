@@ -1,15 +1,15 @@
 {
   "ID": "f27cd07f948348dfb27165510c56c569",
   "Name": "Duskers",
-  "Rating": 4.44,
-  "Ranking_Rating": 605,
+  "Rating": 4.45,
+  "Ranking_Rating": 591,
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 479,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-02-23T18:58:14.3629002+00:00",
   "FirstSeenRating": "2023-02-25T11:58:28.997752+00:00",
-  "LastChanged": "2023-04-01T10:58:50.2594871+00:00",
+  "LastChanged": "2023-04-04T05:58:18.513785+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-25T11:58:28.9977523+00:00",
@@ -128,6 +128,12 @@
     {
       "Time": "2023-04-01T10:58:50.2594873+00:00",
       "Rating": 4.44,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-04T05:58:18.5137853+00:00",
+      "Rating": 4.45,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
