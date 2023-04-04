@@ -1,5 +1,5 @@
 # Among the Sleep - Enhanced Edition
-Rating: 4.30 (Ranked 738)  
+Rating: 4.30 (Ranked 737)  
 Number of Ratings: 368  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 479)  

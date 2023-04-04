@@ -1,15 +1,12 @@
-# Dice Legacy
-Rating: 4.29 (Ranked 745)  
+# Dream of Tiny Snow
+Rating: - (Ranked -)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 479)  
-Sum: 0 (Ranked 479)  
-Diff (max vs sum): 0
+Max (): -  (Ranked -)  
+Sum: - (Ranked -)  
+Diff (max vs sum): -
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
-| 2023-01-10 | 4.30 | - | - |
-| 2023-01-29 | 4.29 | - | - |
-| 2023-03-31 | 4.29 | - | 0 |
