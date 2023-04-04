@@ -2,15 +2,15 @@
   "ID": "5fdcc0dc67294af3be740f362bd976fd",
   "Name": "Magic: The Gathering Arena",
   "Rating": 4.45,
-  "Ranking_Rating": 591,
+  "Ranking_Rating": 590,
   "Ranking_Popularity": 32,
   "Ranking_PopularitySum": 15,
   "NumberOfRatings": 14652,
-  "NumberOfAwards": 79984,
+  "NumberOfAwards": 79994,
   "NumberOfAwardsMax": 9662,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2023-04-04T05:57:24.1803035+00:00",
+  "LastChanged": "2023-04-04T08:57:21.5414489+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:26.803641+00:00",
@@ -3375,6 +3375,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 79984,
       "NumberOfAwardsMax": 9662
+    },
+    {
+      "Time": "2023-04-04T08:57:21.5414491+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 79994,
+      "NumberOfAwardsMax": 9662
     }
   ],
   "Tags": [
@@ -3418,7 +3424,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 7281
+      "Count": 7291
     },
     {
       "Text": "This game has Challenging Combat",

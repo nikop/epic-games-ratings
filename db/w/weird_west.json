@@ -1,8 +1,8 @@
 {
   "ID": "73ce3d09e1d949e8b80f66c78c1cda50",
   "Name": "Weird West",
-  "Rating": 4.46,
-  "Ranking_Rating": 579,
+  "Rating": 4.45,
+  "Ranking_Rating": 590,
   "Ranking_Popularity": 463,
   "Ranking_PopularitySum": 465,
   "NumberOfRatings": 125,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Impact the Story",
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
-  "LastChanged": "2023-04-03T07:59:09.9435505+00:00",
+  "LastChanged": "2023-04-04T08:58:21.0392328+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:17.206459+00:00",
@@ -277,6 +277,12 @@
     {
       "Time": "2023-04-03T07:59:09.9435507+00:00",
       "Rating": 4.46,
+      "NumberOfAwards": 22,
+      "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-04-04T08:58:21.0392329+00:00",
+      "Rating": 4.45,
       "NumberOfAwards": 22,
       "NumberOfAwardsMax": 22
     }
