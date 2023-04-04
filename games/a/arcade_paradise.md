@@ -1,5 +1,5 @@
 # Arcade Paradise
-Rating: 4.57 (Ranked 420)  
+Rating: 4.57 (Ranked 419)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 479)  
 Sum: 0 (Ranked 479)  

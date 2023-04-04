@@ -2,8 +2,8 @@
 Rating: 4.54 (Ranked 468)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 998  (Ranked 130)  
-Sum: 2,000 (Ranked 183)  
-Diff (max vs sum): -53
+Sum: 2,002 (Ranked 182)  
+Diff (max vs sum): -52
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
@@ -13,7 +13,7 @@ Diff (max vs sum): -53
 | This game is Relaxing | 120 |
 | This game has Amazing Storytelling | 120 |
 | This game has Diverse Characters | 118 |
-| This game is Great for Beginners | 113 |
+| This game is Great for Beginners | 115 |
 | This game is Extremely Fun | 108 |
 | This game has Amazing Characters | 108 |
 | This game has a Creative Community | 61 |
