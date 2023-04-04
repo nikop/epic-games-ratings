@@ -3,14 +3,14 @@
   "Name": "Hades",
   "Rating": 4.92,
   "Ranking_Rating": 3,
-  "Ranking_Popularity": 85,
+  "Ranking_Popularity": 86,
   "Ranking_PopularitySum": 95,
   "NumberOfRatings": 6336,
-  "NumberOfAwards": 7269,
+  "NumberOfAwards": 7270,
   "NumberOfAwardsMax": 2970,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
-  "LastChanged": "2023-04-04T03:57:37.1035552+00:00",
+  "LastChanged": "2023-04-04T14:57:44.1913718+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:47.7235161+00:00",
@@ -2397,6 +2397,12 @@
       "Rating": 4.92,
       "NumberOfAwards": 7269,
       "NumberOfAwardsMax": 2970
+    },
+    {
+      "Time": "2023-04-04T14:57:44.191372+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 7270,
+      "NumberOfAwardsMax": 2970
     }
   ],
   "Tags": [
@@ -2410,7 +2416,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2114
+      "Count": 2115
     },
     {
       "Text": "This game is Highly Recommended",

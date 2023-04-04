@@ -1,10 +1,10 @@
 # For The King
-Rating: 4.70 (Ranked 192)  
+Rating: 4.70 (Ranked 193)  
 Number of Ratings: 5,563  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 354  (Ranked 203)  
-Sum: 2,735 (Ranked 152)  
-Diff (max vs sum): 51
+Sum: 2,735 (Ranked 153)  
+Diff (max vs sum): 50
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

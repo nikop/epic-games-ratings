@@ -1,9 +1,9 @@
 # Farming Simulator 22
-Rating: 4.70 (Ranked 192)  
+Rating: 4.70 (Ranked 193)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 4,017  (Ranked 70)  
-Sum: 35,363 (Ranked 28)  
+Sum: 35,366 (Ranked 28)  
 Diff (max vs sum): 42
 ## Awards
 | Award | Number of Ratings |
@@ -12,7 +12,7 @@ Diff (max vs sum): 42
 | This game is Relaxing | 3,826 |
 | This game is Educational | 3,763 |
 | This game has Quickly Understood Controls | 3,748 |
-| This game is Extremely Fun | 3,602 |
+| This game is Extremely Fun | 3,605 |
 | This game is Highly Recommended | 3,538 |
 | This game has Amazing Storytelling | 3,472 |
 | This game has Diverse Characters | 3,440 |
@@ -100,3 +100,4 @@ Diff (max vs sum): 42
 | 2023-04-01 | 4.70 | - | 4,002 |
 | 2023-04-02 | 4.70 | - | 4,010 |
 | 2023-04-03 | 4.70 | - | 4,017 |
+| 2023-04-04 | 4.70 | - | 4,017 |

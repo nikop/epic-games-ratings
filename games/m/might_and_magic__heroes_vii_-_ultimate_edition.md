@@ -3,12 +3,13 @@ Rating: 4.47 (Ranked 565)
 Number of Ratings: 96  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 24  (Ranked 457)  
-Sum: 24 (Ranked 460)  
-Diff (max vs sum): -3
+Sum: 44 (Ranked 431)  
+Diff (max vs sum): 26
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Quickly Understood Controls | 24 |
+| This game is Extremely Fun | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -79,3 +80,4 @@ Diff (max vs sum): -3
 | 2023-03-20 | 4.49 | - | - |
 | 2023-03-22 | 4.48 | - | - |
 | 2023-04-01 | 4.47 | - | 24 |
+| 2023-04-04 | 4.47 | - | 24 |

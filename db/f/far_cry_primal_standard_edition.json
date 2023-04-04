@@ -1,8 +1,8 @@
 {
   "ID": "larkspur",
   "Name": "Far Cry Primal Standard Edition",
-  "Rating": 4.7,
-  "Ranking_Rating": 192,
+  "Rating": 4.71,
+  "Ranking_Rating": 176,
   "Ranking_Popularity": 219,
   "Ranking_PopularitySum": 316,
   "NumberOfRatings": 463,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 294,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:23:55.0433269+00:00",
-  "LastChanged": "2023-04-03T14:57:59.7211226+00:00",
+  "LastChanged": "2023-04-04T14:58:03.1431389+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:55.0433272+00:00",
@@ -532,6 +532,12 @@
     {
       "Time": "2023-04-03T14:57:59.7211227+00:00",
       "Rating": 4.7,
+      "NumberOfAwards": 294,
+      "NumberOfAwardsMax": 294
+    },
+    {
+      "Time": "2023-04-04T14:58:03.1431392+00:00",
+      "Rating": 4.71,
       "NumberOfAwards": 294,
       "NumberOfAwardsMax": 294
     }
