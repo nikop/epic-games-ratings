@@ -4,13 +4,13 @@
   "Rating": 4.25,
   "Ranking_Rating": 768,
   "Ranking_Popularity": 425,
-  "Ranking_PopularitySum": 338,
+  "Ranking_PopularitySum": 344,
   "NumberOfRatings": 39,
-  "NumberOfAwards": 228,
+  "NumberOfAwards": 204,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:19:36.3681248+00:00",
-  "LastChanged": "2023-04-04T15:57:18.8767381+00:00",
+  "LastChanged": "2023-04-04T17:57:22.6937785+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:36.3681251+00:00",
@@ -336,6 +336,12 @@
       "Time": "2023-04-04T15:57:18.8767384+00:00",
       "Rating": 4.25,
       "NumberOfAwards": 228,
+      "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2023-04-04T17:57:22.6937787+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 204,
       "NumberOfAwardsMax": 32
     }
   ],

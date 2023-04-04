@@ -3,14 +3,14 @@
   "Name": "Watch Dogs 2 Standard Edition",
   "Rating": 4.59,
   "Ranking_Rating": 388,
-  "Ranking_Popularity": 218,
+  "Ranking_Popularity": 217,
   "Ranking_PopularitySum": 172,
   "NumberOfRatings": 6460,
-  "NumberOfAwards": 2183,
-  "NumberOfAwardsMax": 295,
+  "NumberOfAwards": 2185,
+  "NumberOfAwardsMax": 297,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2023-04-03T21:57:22.1642213+00:00",
+  "LastChanged": "2023-04-04T17:57:42.1917097+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:47.2553497+00:00",
@@ -2396,6 +2396,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 2183,
       "NumberOfAwardsMax": 295
+    },
+    {
+      "Time": "2023-04-04T17:57:42.1917098+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 2185,
+      "NumberOfAwardsMax": 297
     }
   ],
   "Tags": [
@@ -2421,7 +2427,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 295
+      "Count": 297
     },
     {
       "Text": "This game is Relaxing",

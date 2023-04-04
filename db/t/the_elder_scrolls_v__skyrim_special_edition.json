@@ -1,16 +1,16 @@
 {
   "ID": "c8738a4d1ead40368eab9688b3c7d737",
   "Name": "The Elder Scrolls V: Skyrim Special Edition",
-  "Rating": 4.87,
-  "Ranking_Rating": 24,
+  "Rating": 4.86,
+  "Ranking_Rating": 31,
   "Ranking_Popularity": 120,
   "Ranking_PopularitySum": 157,
-  "NumberOfAwards": 2631,
+  "NumberOfAwards": 2633,
   "NumberOfAwardsMax": 1160,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-10-06T16:01:22.0492256+00:00",
   "FirstSeenRating": "2022-10-10T18:31:07.4618498+00:00",
-  "LastChanged": "2023-04-03T20:57:20.4951607+00:00",
+  "LastChanged": "2023-04-04T17:57:46.3820328+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-10T18:31:07.4618502+00:00",
@@ -351,6 +351,12 @@
       "Rating": 4.87,
       "NumberOfAwards": 2631,
       "NumberOfAwardsMax": 1160
+    },
+    {
+      "Time": "2023-04-04T17:57:46.382033+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 2633,
+      "NumberOfAwardsMax": 1160
     }
   ],
   "Tags": [
@@ -364,7 +370,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 164
+      "Count": 165
     },
     {
       "Text": "This game is Extremely Fun",
@@ -394,7 +400,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 155
+      "Count": 156
     },
     {
       "Text": "This game has Diverse Characters",
