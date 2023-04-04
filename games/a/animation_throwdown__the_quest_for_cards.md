@@ -1,9 +1,9 @@
 # Animation Throwdown: The Quest for Cards
-Rating: 4.33 (Ranked 718)  
+Rating: 4.32 (Ranked 725)  
 Number of Ratings: 874  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Quick Sessions): 332  (Ranked 207)  
-Sum: 2,589 (Ranked 158)  
+Sum: 2,590 (Ranked 158)  
 Diff (max vs sum): 49
 ## Awards
 | Award | Number of Ratings |
@@ -16,7 +16,7 @@ Diff (max vs sum): 49
 | This game is Extremely Fun | 288 |
 | This game is Highly Recommended | 271 |
 | This game has Amazing Characters | 270 |
-| This game has Playful Visuals | 221 |
+| This game has Playful Visuals | 222 |
 | This game has Amazing Storytelling | 118 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -103,3 +103,4 @@ Diff (max vs sum): 49
 | 2023-04-01 | 4.33 | - | 332 |
 | 2023-04-02 | 4.33 | - | 332 |
 | 2023-04-03 | 4.33 | - | 332 |
+| 2023-04-04 | 4.32 | - | 332 |

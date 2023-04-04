@@ -1,8 +1,8 @@
 {
   "ID": "870929e8b7fb4e2b986c1a3f0a6ff38d",
   "Name": "Armored Warfare",
-  "Rating": 4.09,
-  "Ranking_Rating": 847,
+  "Rating": 4.1,
+  "Ranking_Rating": 841,
   "Ranking_Popularity": 348,
   "Ranking_PopularitySum": 273,
   "NumberOfRatings": 458,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 70,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:16:52.6557809+00:00",
-  "LastChanged": "2023-04-02T15:57:10.7528177+00:00",
+  "LastChanged": "2023-04-04T15:57:01.6386558+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:52.6557814+00:00",
@@ -782,6 +782,12 @@
     {
       "Time": "2023-04-02T15:57:10.7528178+00:00",
       "Rating": 4.09,
+      "NumberOfAwards": 582,
+      "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2023-04-04T15:57:01.6386559+00:00",
+      "Rating": 4.1,
       "NumberOfAwards": 582,
       "NumberOfAwardsMax": 70
     }
