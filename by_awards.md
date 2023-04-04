@@ -21,9 +21,9 @@
 | 19 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,295 | 4.58 | 403 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 14,200 | 4.89 | 13 |
 | 21 | [Warframe](games/w/warframe.md) | 13,907 | 4.61 | 349 |
-| 22 | [Borderlands 2](games/b/borderlands_2.md) | 13,791 | 4.76 | 112 |
+| 22 | [Borderlands 2](games/b/borderlands_2.md) | 13,798 | 4.76 | 112 |
 | 23 | [Maneater](games/m/maneater.md) | 13,365 | 4.49 | 537 |
-| 24 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,105 | 4.60 | 373 |
+| 24 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,108 | 4.60 | 373 |
 | 25 | [League of Legends](games/l/league_of_legends.md) | 12,223 | 4.21 | 787 |
 | 26 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,166 | 4.36 | 689 |
 | 27 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,714 | 4.41 | 639 |
@@ -44,8 +44,8 @@
 | 42 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 630 |
 | 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,560 | 4.89 | 13 |
 | 44 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 6,400 | 4.67 | 255 |
-| 45 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,308 | 4.74 | 143 |
-| 45 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,308 | 4.46 | 579 |
+| 45 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,313 | 4.74 | 143 |
+| 46 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,308 | 4.46 | 579 |
 | 47 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 6,243 | 4.57 | 420 |
 | 48 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,202 | 4.80 | 80 |
 | 49 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 6,081 | 4.23 | 779 |
@@ -371,8 +371,8 @@
 | 369 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 606 |
 | 370 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 58 | 4.42 | 630 |
 | 371 | [Heavy Rain](games/h/heavy_rain.md) | 57 | 4.59 | 388 |
+| 372 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 56 | 4.76 | 112 |
 | 372 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 56 | 4.70 | 192 |
-| 373 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 55 | 4.76 | 112 |
 | 374 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 54 | 4.64 | 308 |
 | 375 | [Obduction](games/o/obduction.md) | 52 | 4.10 | 841 |
 | 376 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 50 | 4.84 | 47 |
@@ -434,7 +434,7 @@
 | 431 | [Dead Space](games/d/dead_space.md) | 31 | 4.73 | 154 |
 | 431 | [Outward](games/o/outward.md) | 31 | 4.54 | 468 |
 | 431 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 31 | 4.38 | 673 |
-| 435 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 30 | 3.86 | 884 |
+| 435 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 30 | 3.85 | 885 |
 | 435 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 30 | 4.41 | 639 |
 | 435 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 30 | 4.68 | 236 |
 | 435 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 30 | 4.59 | 388 |

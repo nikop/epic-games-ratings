@@ -6,11 +6,11 @@
   "Ranking_Popularity": 182,
   "Ranking_PopularitySum": 138,
   "NumberOfRatings": 4283,
-  "NumberOfAwards": 3469,
+  "NumberOfAwards": 3471,
   "NumberOfAwardsMax": 464,
   "MaxAwardTitle": "Amazing Characters",
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2023-04-03T17:57:57.2795798+00:00",
+  "LastChanged": "2023-04-04T03:57:48.5408243+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:56.8065491+00:00",
@@ -2530,6 +2530,12 @@
       "Rating": 4.82,
       "NumberOfAwards": 3469,
       "NumberOfAwardsMax": 464
+    },
+    {
+      "Time": "2023-04-04T03:57:48.5408245+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3471,
+      "NumberOfAwardsMax": 464
     }
   ],
   "Tags": [
@@ -2579,7 +2585,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 418
+      "Count": 420
     },
     {
       "Text": "This game has Amazing Storytelling",
