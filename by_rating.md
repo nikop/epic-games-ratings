@@ -101,7 +101,7 @@
 | 92 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 479 |
 | 92 | [Tchia](games/t/tchia.md) | 4.79 | 0 | 479 |
 | 101 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,306 | 66 |
-| 101 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,485 | 35 |
+| 101 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,491 | 35 |
 | 101 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 16,622 | 18 |
 | 101 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 901 | 140 |
 | 101 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 141 | 281 |
@@ -512,7 +512,7 @@
 | 508 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 38 | 404 |
 | 508 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 21 | 470 |
 | 508 | [Horace](games/h/horace.md) | 4.51 | 0 | 479 |
-| 508 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 102 | 310 |
+| 508 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 104 | 308 |
 | 508 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.51 | 0 | 479 |
 | 508 | [MythForce](games/m/mythforce.md) | 4.51 | 32 | 424 |
 | 508 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 269 | 227 |
@@ -593,7 +593,7 @@
 | 590 | [ATOM RPG](games/a/atom_rpg.md) | 4.45 | 46 | 384 |
 | 590 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 227 | 240 |
 | 590 | [Duskers](games/d/duskers.md) | 4.45 | 0 | 479 |
-| 590 | [Faeria](games/f/faeria.md) | 4.45 | 102 | 310 |
+| 590 | [Faeria](games/f/faeria.md) | 4.45 | 102 | 311 |
 | 590 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 0 | 479 |
 | 590 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 0 | 479 |
 | 590 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 9,662 | 32 |
@@ -881,7 +881,7 @@
 | 877 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.92 | 0 | 479 |
 | 877 | [Warface](games/w/warface.md) | 3.92 | 375 | 198 |
 | 881 | [Conarium](games/c/conarium.md) | 3.91 | 0 | 479 |
-| 881 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 309 |
+| 881 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 310 |
 | 883 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 0 | 479 |
 | 884 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 479 |
 | 885 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.85 | 30 | 435 |

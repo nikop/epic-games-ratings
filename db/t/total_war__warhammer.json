@@ -6,11 +6,11 @@
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 62,
   "NumberOfRatings": 8439,
-  "NumberOfAwards": 13624,
+  "NumberOfAwards": 13626,
   "NumberOfAwardsMax": 5919,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:19:32.4449837+00:00",
-  "LastChanged": "2023-04-04T05:57:18.0486096+00:00",
+  "LastChanged": "2023-04-04T13:05:44.6225268+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:32.4449839+00:00",
@@ -2990,6 +2990,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 13624,
       "NumberOfAwardsMax": 5919
+    },
+    {
+      "Time": "2023-04-04T13:05:44.6225271+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13626,
+      "NumberOfAwardsMax": 5919
     }
   ],
   "Tags": [
@@ -3027,7 +3033,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 829
+      "Count": 831
     },
     {
       "Text": "This game has Challenging Combat",
