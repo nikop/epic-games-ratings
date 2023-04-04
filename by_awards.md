@@ -39,7 +39,7 @@
 | 37 | [Supraland](games/s/supraland.md) | 7,594 | 4.61 | 349 |
 | 38 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,432 | 4.85 | 38 |
 | 39 | [SnowRunner](games/s/snowrunner.md) | 7,373 | 4.76 | 112 |
-| 40 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,048 | 4.71 | 176 |
+| 40 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,050 | 4.71 | 176 |
 | 41 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,036 | 4.57 | 419 |
 | 42 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 629 |
 | 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,560 | 4.89 | 13 |
@@ -122,7 +122,7 @@
 | 120 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,160 | 4.87 | 24 |
 | 121 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,151 | 4.82 | 60 |
 | 122 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,123 | 4.61 | 349 |
-| 123 | [XCOM® 2](games/x/xcom®_2.md) | 1,097 | 4.54 | 468 |
+| 123 | [XCOM® 2](games/x/xcom®_2.md) | 1,102 | 4.54 | 468 |
 | 124 | [OUTRIDERS](games/o/outriders.md) | 1,071 | 4.42 | 629 |
 | 125 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,057 | 4.61 | 349 |
 | 126 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,049 | 4.61 | 349 |
@@ -238,7 +238,7 @@
 | 236 | [Dead Cells](games/d/dead_cells.md) | 237 | 4.88 | 19 |
 | 237 | [Roller Champions™](games/r/roller_champions™.md) | 232 | 4.34 | 709 |
 | 238 | [Second Extinction™](games/s/second_extinction™.md) | 231 | 4.15 | 826 |
-| 239 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 229 | 4.58 | 402 |
+| 239 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 230 | 4.58 | 402 |
 | 240 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 227 | 4.45 | 590 |
 | 241 | [MudRunner](games/m/mudrunner.md) | 226 | 4.62 | 333 |
 | 242 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 223 | 4.85 | 38 |
@@ -274,8 +274,8 @@
 | 272 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 163 | 4.65 | 288 |
 | 273 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 162 | 4.38 | 672 |
 | 274 | [Mothergunship](games/m/mothergunship.md) | 158 | 4.38 | 672 |
-| 275 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 157 | 4.80 | 80 |
-| 276 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 155 | 4.58 | 402 |
+| 274 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 158 | 4.58 | 402 |
+| 276 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 157 | 4.80 | 80 |
 | 277 | [Severed Steel](games/s/severed_steel.md) | 151 | 4.68 | 236 |
 | 278 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 148 | 4.57 | 419 |
 | 279 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 147 | 4.52 | 496 |

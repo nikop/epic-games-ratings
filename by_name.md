@@ -237,7 +237,7 @@
 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 810 | 0 | 479 |
 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 308 | 45 | 387 |
 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 436 | 698 | 152 |
-| [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 402 | 229 | 239 |
+| [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 402 | 230 | 239 |
 | [Faeria](games/f/faeria.md) | 4.45 | 590 | 102 | 310 |
 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 480 | 137,105 | 6 |
 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 112 | 56 | 372 |
@@ -282,7 +282,7 @@
 | [Fortnite](games/f/fortnite.md) | 4.30 | 738 | 1,191,442 | 1 |
 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.71 | 176 | 0 | 479 |
 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 154 | 760 | 146 |
-| [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 80 | 157 | 275 |
+| [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 80 | 157 | 276 |
 | [FUSER™](games/f/fuser™.md) | 4.71 | 176 | 35 | 415 |
 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 787 | 170 | 265 |
 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 804 | 84 | 331 |
@@ -397,7 +397,7 @@
 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 176 | 0 | 479 |
 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 700 | 0 | 479 |
 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 112 | 0 | 479 |
-| [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 176 | 7,048 | 40 |
+| [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 176 | 7,050 | 40 |
 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 60 | 464 | 182 |
 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 127 | 93 | 320 |
 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 92 | 874 | 141 |
@@ -791,7 +791,7 @@
 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 419 | 17,596 | 17 |
 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 255 | 83 | 333 |
 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 726 | 0 | 479 |
-| [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 402 | 155 | 276 |
+| [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 402 | 158 | 274 |
 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 419 | 1,678 | 108 |
 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.34 | 709 | 0 | 479 |
 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 402 | 243 | 234 |
@@ -886,7 +886,7 @@
 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 373 | 0 | 479 |
 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 480 | 28 | 443 |
 | [WRC Generations](games/w/wrc_generations.md) | 4.46 | 579 | 0 | 479 |
-| [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 468 | 1,097 | 123 |
+| [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 468 | 1,102 | 123 |
 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 508 | 0 | 479 |
 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 212 | 0 | 479 |
 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 779 | 22 | 463 |

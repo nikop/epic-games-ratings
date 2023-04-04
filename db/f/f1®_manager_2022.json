@@ -6,12 +6,12 @@
   "Ranking_Popularity": 239,
   "Ranking_PopularitySum": 189,
   "NumberOfRatings": 810,
-  "NumberOfAwards": 1858,
-  "NumberOfAwardsMax": 229,
+  "NumberOfAwards": 1859,
+  "NumberOfAwardsMax": 230,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-08-30T14:01:37.4479981+00:00",
   "FirstSeenRating": "2022-08-30T21:30:24.1805179+00:00",
-  "LastChanged": "2023-04-03T19:57:08.9697698+00:00",
+  "LastChanged": "2023-04-04T09:57:03.4088589+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-30T21:30:24.1805182+00:00",
@@ -927,6 +927,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 1858,
       "NumberOfAwardsMax": 229
+    },
+    {
+      "Time": "2023-04-04T09:57:03.4088591+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1859,
+      "NumberOfAwardsMax": 230
     }
   ],
   "Tags": [
@@ -940,7 +946,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 229
+      "Count": 230
     },
     {
       "Text": "This game is Highly Recommended",

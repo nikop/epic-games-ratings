@@ -80,7 +80,7 @@
 | 67 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 479 |
 | 67 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 0 | 479 |
 | 80 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,202 | 48 |
-| 80 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 157 | 275 |
+| 80 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 157 | 276 |
 | 80 | [Journey](games/j/journey.md) | 4.80 | 0 | 479 |
 | 80 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,314 | 91 |
 | 80 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 114 | 299 |
@@ -181,7 +181,7 @@
 | 176 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.71 | 0 | 479 |
 | 176 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 415 |
 | 176 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 0 | 479 |
-| 176 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,048 | 40 |
+| 176 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,050 | 40 |
 | 176 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 0 | 479 |
 | 176 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 0 | 479 |
 | 176 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 0 | 479 |
@@ -403,7 +403,7 @@
 | 388 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 295 | 218 |
 | 402 | [Among Us](games/a/among_us.md) | 4.58 | 2,328 | 90 |
 | 402 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.58 | 0 | 479 |
-| 402 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 229 | 239 |
+| 402 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 230 | 239 |
 | 402 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 212 | 245 |
 | 402 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 22 | 463 |
 | 402 | [Moving Out](games/m/moving_out.md) | 4.58 | 0 | 479 |
@@ -412,7 +412,7 @@
 | 402 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 50 | 376 |
 | 402 | [The Medium](games/t/the_medium.md) | 4.58 | 0 | 479 |
 | 402 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.58 | 70 | 348 |
-| 402 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 155 | 276 |
+| 402 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 158 | 274 |
 | 402 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 243 | 234 |
 | 402 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 958 | 137 |
 | 402 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 5,919 | 51 |
@@ -478,7 +478,7 @@
 | 468 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 479 |
 | 468 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 487 | 180 |
 | 468 | [VALORANT](games/v/valorant.md) | 4.54 | 47,449 | 11 |
-| 468 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 1,097 | 123 |
+| 468 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 1,102 | 123 |
 | 480 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 479 |
 | 480 | [Aztez](games/a/aztez.md) | 4.53 | 0 | 479 |
 | 480 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 479 |
