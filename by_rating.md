@@ -40,7 +40,7 @@
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 37 | 406 |
 | 38 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,432 | 38 |
 | 38 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,430 | 57 |
-| 38 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 262 | 229 |
+| 38 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 264 | 229 |
 | 38 | [Huntdown](games/h/huntdown.md) | 4.85 | 0 | 479 |
 | 38 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 223 | 242 |
 | 38 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 214 | 244 |
@@ -105,7 +105,7 @@
 | 101 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 16,622 | 18 |
 | 101 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 901 | 140 |
 | 101 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 141 | 281 |
-| 106 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,814 | 74 |
+| 106 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,817 | 74 |
 | 106 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.77 | 0 | 479 |
 | 106 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 96 | 316 |
 | 106 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 311 | 212 |
@@ -242,7 +242,7 @@
 | 236 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 479 |
 | 236 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 3,880 | 73 |
 | 236 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 4,934 | 59 |
-| 236 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 280,091 | 3 |
+| 236 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 280,418 | 3 |
 | 236 | [GNOG](games/g/gnog.md) | 4.68 | 0 | 479 |
 | 236 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 479 |
 | 236 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 409 | 189 |
@@ -307,21 +307,21 @@
 | 288 | [SOMA](games/s/soma.md) | 4.65 | 0 | 479 |
 | 288 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.65 | 0 | 479 |
 | 288 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 0 | 479 |
-| 308 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 0 | 479 |
-| 308 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 479 |
-| 308 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,829 | 52 |
-| 308 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 2,037 | 99 |
-| 308 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 45 | 387 |
-| 308 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 55 | 374 |
-| 308 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 0 | 479 |
-| 308 | [HITMAN](games/h/hitman.md) | 4.64 | 195 | 255 |
-| 308 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 179 | 262 |
-| 308 | [Mutazione](games/m/mutazione.md) | 4.64 | 0 | 479 |
-| 308 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.64 | 46 | 384 |
-| 308 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 66 | 358 |
-| 308 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.64 | 0 | 479 |
-| 308 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 182 | 259 |
-| 308 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.64 | 0 | 479 |
+| 288 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 0 | 479 |
+| 309 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 0 | 479 |
+| 309 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 479 |
+| 309 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,829 | 52 |
+| 309 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 2,037 | 99 |
+| 309 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 45 | 387 |
+| 309 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 55 | 374 |
+| 309 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 0 | 479 |
+| 309 | [HITMAN](games/h/hitman.md) | 4.64 | 195 | 255 |
+| 309 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 179 | 262 |
+| 309 | [Mutazione](games/m/mutazione.md) | 4.64 | 0 | 479 |
+| 309 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.64 | 46 | 384 |
+| 309 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 66 | 358 |
+| 309 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.64 | 0 | 479 |
+| 309 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 182 | 259 |
 | 323 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 20 | 475 |
 | 323 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 0 | 479 |
 | 323 | [GigaBash](games/g/gigabash.md) | 4.63 | 0 | 479 |
@@ -745,6 +745,7 @@
 | 738 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.30 | 0 | 479 |
 | 738 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 0 | 479 |
 | 738 | [War Mongrels](games/w/war_mongrels.md) | 4.30 | 0 | 479 |
+| 746 | [Chess Ultra](games/c/chess_ultra.md) | 4.29 | 0 | 479 |
 | 746 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.29 | 0 | 479 |
 | 746 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 0 | 479 |
 | 746 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 0 | 479 |
@@ -752,11 +753,10 @@
 | 746 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 42 | 399 |
 | 746 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 122 | 291 |
 | 746 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 124 | 290 |
-| 753 | [Chess Ultra](games/c/chess_ultra.md) | 4.28 | 0 | 479 |
-| 753 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 479 |
-| 753 | [Rage 2](games/r/rage_2.md) | 4.28 | 2,410 | 88 |
-| 753 | [Steelrising](games/s/steelrising.md) | 4.28 | 0 | 479 |
-| 753 | [The Fall](games/t/the_fall.md) | 4.28 | 0 | 479 |
+| 754 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 479 |
+| 754 | [Rage 2](games/r/rage_2.md) | 4.28 | 2,410 | 88 |
+| 754 | [Steelrising](games/s/steelrising.md) | 4.28 | 0 | 479 |
+| 754 | [The Fall](games/t/the_fall.md) | 4.28 | 0 | 479 |
 | 758 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 22 | 463 |
 | 758 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 0 | 479 |
 | 758 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 297 | 217 |
