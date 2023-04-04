@@ -29,7 +29,7 @@
 | [Among Us](games/a/among_us.md) | 4.58 | 403 | 2,328 | 90 |
 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 388 | 44 | 393 |
 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 873 | 45 | 387 |
-| [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 718 | 332 | 206 |
+| [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 718 | 332 | 207 |
 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 112 | 0 | 479 |
 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 468 | 0 | 479 |
 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 61 | 1,146 | 121 |
@@ -217,7 +217,7 @@
 | [Duskers](games/d/duskers.md) | 4.44 | 606 | 0 | 479 |
 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 420 | 6,243 | 47 |
 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.68 | 236 | 3,880 | 73 |
-| [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 779 | 6,020 | 50 |
+| [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 779 | 6,081 | 49 |
 | [Eastward](games/e/eastward.md) | 4.67 | 255 | 0 | 479 |
 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 893 | 0 | 479 |
 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 537 | 0 | 479 |
@@ -258,7 +258,7 @@
 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 212 | 0 | 479 |
 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 176 | 0 | 479 |
 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 804 | 0 | 479 |
-| [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 176 | 6,025 | 49 |
+| [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 176 | 6,032 | 50 |
 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 192 | 4,017 | 70 |
 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 881 | 103 | 309 |
 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 436 | 27 | 445 |
@@ -274,7 +274,7 @@
 | [Flatout](games/f/flatout.md) | 4.19 | 804 | 0 | 479 |
 | [Flatout 2](games/f/flatout_2.md) | 4.92 | 3 | 0 | 479 |
 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 80 | 6,202 | 48 |
-| [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 127 | 336 | 205 |
+| [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 127 | 336 | 206 |
 | [For The King](games/f/for_the_king.md) | 4.70 | 192 | 354 | 203 |
 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 606 | 0 | 479 |
 | [Forspoken](games/f/forspoken.md) | 4.13 | 833 | 0 | 479 |
@@ -341,7 +341,7 @@
 | [HITMAN](games/h/hitman.md) | 4.64 | 308 | 195 | 255 |
 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 101 | 8,485 | 35 |
 | [Hob](games/h/hob.md) | 4.57 | 420 | 0 | 479 |
-| [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 101 | 16,550 | 18 |
+| [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 101 | 16,622 | 18 |
 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 537 | 2,027 | 100 |
 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 864 | 367 | 201 |
 | [Horace](games/h/horace.md) | 4.51 | 508 | 0 | 479 |
@@ -386,7 +386,7 @@
 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 673 | 537 | 174 |
 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 496 | 147 | 279 |
 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 192 | 1,285 | 117 |
-| [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 92 | 330 | 207 |
+| [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 92 | 337 | 205 |
 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.11 | 837 | 0 | 479 |
 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 67 | 0 | 479 |
 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 623 | 0 | 479 |
@@ -629,7 +629,7 @@
 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 623 | 0 | 479 |
 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 866 | 4,483 | 64 |
 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.26 | 761 | 0 | 479 |
-| [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 154 | 28,522 | 13 |
+| [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 154 | 28,582 | 13 |
 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.15 | 826 | 0 | 479 |
 | [Sifu](games/s/sifu.md) | 4.81 | 67 | 5,802 | 53 |
 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.50 | 523 | 0 | 479 |
@@ -833,7 +833,7 @@
 | [TUNIC](games/t/tunic.md) | 4.85 | 38 | 32 | 424 |
 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 761 | 0 | 479 |
 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 388 | 686 | 153 |
-| [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 143 | 568 | 164 |
+| [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 143 | 569 | 164 |
 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 689 | 0 | 479 |
 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.61 | 349 | 0 | 479 |
 | [UnMetal](games/u/unmetal.md) | 4.52 | 496 | 0 | 479 |

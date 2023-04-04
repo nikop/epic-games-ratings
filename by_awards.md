@@ -12,12 +12,12 @@
 | 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 55,305 | 4.59 | 388 |
 | 11 | [VALORANT](games/v/valorant.md) | 47,449 | 4.54 | 468 |
 | 12 | [Destiny 2](games/d/destiny_2.md) | 32,374 | 4.50 | 523 |
-| 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 28,522 | 4.73 | 154 |
+| 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 28,582 | 4.73 | 154 |
 | 14 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,295 | 4.65 | 288 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 26,037 | 4.53 | 480 |
 | 16 | [Dauntless](games/d/dauntless.md) | 19,205 | 4.53 | 480 |
 | 17 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 17,596 | 4.57 | 420 |
-| 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 16,550 | 4.78 | 101 |
+| 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 16,622 | 4.78 | 101 |
 | 19 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,295 | 4.58 | 403 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 14,200 | 4.89 | 13 |
 | 21 | [Warframe](games/w/warframe.md) | 13,907 | 4.61 | 349 |
@@ -48,8 +48,8 @@
 | 45 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,308 | 4.46 | 579 |
 | 47 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 6,243 | 4.57 | 420 |
 | 48 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,202 | 4.80 | 80 |
-| 49 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,025 | 4.71 | 176 |
-| 50 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 6,020 | 4.23 | 779 |
+| 49 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 6,081 | 4.23 | 779 |
+| 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,032 | 4.71 | 176 |
 | 51 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 5,919 | 4.58 | 403 |
 | 52 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,829 | 4.64 | 308 |
 | 53 | [Sifu](games/s/sifu.md) | 5,802 | 4.81 | 67 |
@@ -163,7 +163,7 @@
 | 161 | [Dark Deity](games/d/dark_deity.md) | 604 | 4.16 | 818 |
 | 162 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 603 | 4.49 | 537 |
 | 163 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 577 | 4.62 | 333 |
-| 164 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 568 | 4.74 | 143 |
+| 164 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 569 | 4.74 | 143 |
 | 165 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 567 | 4.62 | 333 |
 | 166 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 562 | 4.73 | 154 |
 | 167 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 550 | 4.57 | 420 |
@@ -204,9 +204,9 @@
 | 202 | [Nuclear Throne](games/n/nuclear_throne.md) | 360 | 4.79 | 92 |
 | 203 | [For The King](games/f/for_the_king.md) | 354 | 4.70 | 192 |
 | 204 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 339 | 4.62 | 333 |
-| 205 | [Football Manager 2023](games/f/football_manager_2023.md) | 336 | 4.75 | 127 |
-| 206 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 332 | 4.33 | 718 |
-| 207 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 330 | 4.79 | 92 |
+| 205 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 337 | 4.79 | 92 |
+| 206 | [Football Manager 2023](games/f/football_manager_2023.md) | 336 | 4.75 | 127 |
+| 207 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 332 | 4.33 | 718 |
 | 208 | [Inscryption](games/i/inscryption.md) | 327 | 4.86 | 32 |
 | 209 | [Tannenberg](games/t/tannenberg.md) | 319 | 4.39 | 663 |
 | 210 | [Darkwood](games/d/darkwood.md) | 318 | 4.61 | 349 |

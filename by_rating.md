@@ -92,7 +92,7 @@
 | 80 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 0 | 479 |
 | 80 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 26 | 451 |
 | 92 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,430 | 112 |
-| 92 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 330 | 207 |
+| 92 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 337 | 205 |
 | 92 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 874 | 141 |
 | 92 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 2,218 | 93 |
 | 92 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 959 | 136 |
@@ -102,7 +102,7 @@
 | 92 | [Tchia](games/t/tchia.md) | 4.79 | 0 | 479 |
 | 101 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,306 | 66 |
 | 101 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,485 | 35 |
-| 101 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 16,550 | 18 |
+| 101 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 16,622 | 18 |
 | 101 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 901 | 140 |
 | 101 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 141 | 281 |
 | 106 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,814 | 74 |
@@ -130,7 +130,7 @@
 | 127 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,554 | 63 |
 | 127 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 84 | 331 |
 | 127 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,131 | 82 |
-| 127 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 336 | 205 |
+| 127 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 336 | 206 |
 | 127 | [Haven](games/h/haven.md) | 4.75 | 0 | 479 |
 | 127 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 92 | 322 |
 | 127 | [Quake](games/q/quake.md) | 4.75 | 44 | 393 |
@@ -152,7 +152,7 @@
 | 143 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 479 |
 | 143 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 41 | 400 |
 | 143 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 76 | 338 |
-| 143 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 568 | 164 |
+| 143 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 569 | 164 |
 | 154 | [BLACKTAIL](games/b/blacktail.md) | 4.73 | 0 | 479 |
 | 154 | [Dead Space](games/d/dead_space.md) | 4.73 | 31 | 431 |
 | 154 | [DOOM II](games/d/doom_ii.md) | 4.73 | 25 | 455 |
@@ -161,7 +161,7 @@
 | 154 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 539 | 172 |
 | 154 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 139 | 282 |
 | 154 | [Outlast](games/o/outlast.md) | 4.73 | 0 | 479 |
-| 154 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 28,522 | 13 |
+| 154 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 28,582 | 13 |
 | 154 | [Slipways](games/s/slipways.md) | 4.73 | 0 | 479 |
 | 154 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 306 | 215 |
 | 154 | [Suzerain](games/s/suzerain.md) | 4.73 | 0 | 479 |
@@ -176,7 +176,7 @@
 | 167 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 0 | 479 |
 | 167 | [Timberborn](games/t/timberborn.md) | 4.72 | 110 | 304 |
 | 176 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 479 |
-| 176 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,025 | 49 |
+| 176 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,032 | 50 |
 | 176 | [Fez](games/f/fez.md) | 4.71 | 23 | 459 |
 | 176 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.71 | 0 | 479 |
 | 176 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 415 |
@@ -717,7 +717,7 @@
 | 709 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.34 | 0 | 479 |
 | 709 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.34 | 0 | 479 |
 | 709 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.34 | 37 | 406 |
-| 718 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 332 | 206 |
+| 718 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 332 | 207 |
 | 718 | [Backbone](games/b/backbone.md) | 4.33 | 0 | 479 |
 | 718 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.33 | 0 | 479 |
 | 718 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 113 | 300 |
@@ -779,7 +779,7 @@
 | 774 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 288 | 220 |
 | 774 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 387 |
 | 779 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 479 |
-| 779 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 6,020 | 50 |
+| 779 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 6,081 | 49 |
 | 779 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 0 | 479 |
 | 779 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 479 |
 | 779 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 0 | 479 |
