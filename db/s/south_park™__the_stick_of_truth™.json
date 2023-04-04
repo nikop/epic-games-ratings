@@ -3,14 +3,14 @@
   "Name": "South Park\u2122: The Stick of Truth\u2122",
   "Rating": 4.81,
   "Ranking_Rating": 67,
-  "Ranking_Popularity": 439,
-  "Ranking_PopularitySum": 451,
+  "Ranking_Popularity": 432,
+  "Ranking_PopularitySum": 448,
   "NumberOfRatings": 115,
-  "NumberOfAwards": 29,
-  "NumberOfAwardsMax": 29,
+  "NumberOfAwards": 31,
+  "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:25:01.6762384+00:00",
-  "LastChanged": "2023-04-02T01:58:35.1146509+00:00",
+  "LastChanged": "2023-04-04T22:57:54.2185385+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:01.6762388+00:00",
@@ -260,6 +260,12 @@
       "Rating": 4.81,
       "NumberOfAwards": 29,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2023-04-04T22:57:54.2185386+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 31,
+      "NumberOfAwardsMax": 31
     }
   ],
   "Tags": [
@@ -267,7 +273,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 29
+      "Count": 31
     }
   ]
 }

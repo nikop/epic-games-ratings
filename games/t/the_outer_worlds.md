@@ -1,9 +1,9 @@
 # The Outer Worlds
-Rating: 4.63 (Ranked 323)  
+Rating: 4.63 (Ranked 324)  
 Number of Ratings: 2,487  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 1,720  (Ranked 107)  
-Sum: 3,507 (Ranked 137)  
+Sum: 3,508 (Ranked 137)  
 Diff (max vs sum): -30
 ## Awards
 | Award | Number of Ratings |
@@ -12,7 +12,7 @@ Diff (max vs sum): -30
 | This game is Highly Recommended | 227 |
 | This game has Amazing Storytelling | 223 |
 | This game is Extremely Fun | 219 |
-| This game has Diverse Characters | 209 |
+| This game has Diverse Characters | 210 |
 | This game has Quickly Understood Controls | 206 |
 | This game is Relaxing | 203 |
 | This game is Great for Beginners | 200 |
