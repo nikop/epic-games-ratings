@@ -2,15 +2,15 @@
   "ID": "85f0435aa88347d185dbcb147716609b",
   "Name": "Predecessor",
   "Rating": 4.44,
-  "Ranking_Rating": 606,
+  "Ranking_Rating": 607,
   "Ranking_Popularity": 387,
   "Ranking_PopularitySum": 317,
-  "NumberOfAwards": 290,
+  "NumberOfAwards": 292,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-12-01T08:57:03.8695537+00:00",
   "FirstSeenRating": "2022-12-02T07:57:13.3206902+00:00",
-  "LastChanged": "2023-04-04T15:57:15.734979+00:00",
+  "LastChanged": "2023-04-04T18:57:18.3492951+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-02T07:57:13.3206905+00:00",
@@ -267,6 +267,12 @@
       "Rating": 4.44,
       "NumberOfAwards": 290,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-04-04T18:57:18.3492954+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 292,
+      "NumberOfAwardsMax": 45
     }
   ],
   "Tags": [
@@ -310,7 +316,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 29
+      "Count": 31
     },
     {
       "Text": "This game has Quickly Understood Controls",

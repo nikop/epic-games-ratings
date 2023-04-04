@@ -3,14 +3,14 @@
   "Name": "Diabotical",
   "Rating": 4.76,
   "Ranking_Rating": 112,
-  "Ranking_Popularity": 231,
+  "Ranking_Popularity": 230,
   "Ranking_PopularitySum": 168,
   "NumberOfRatings": 572,
-  "NumberOfAwards": 2287,
-  "NumberOfAwardsMax": 259,
+  "NumberOfAwards": 2289,
+  "NumberOfAwardsMax": 261,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:22:10.7191906+00:00",
-  "LastChanged": "2023-04-04T16:57:38.9406534+00:00",
+  "LastChanged": "2023-04-04T18:57:39.0691581+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:10.7191909+00:00",
@@ -844,6 +844,12 @@
       "Rating": 4.76,
       "NumberOfAwards": 2287,
       "NumberOfAwardsMax": 259
+    },
+    {
+      "Time": "2023-04-04T18:57:39.0691583+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 2289,
+      "NumberOfAwardsMax": 261
     }
   ],
   "Tags": [
@@ -863,7 +869,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 259
+      "Count": 261
     },
     {
       "Text": "This game has Amazing Characters",
