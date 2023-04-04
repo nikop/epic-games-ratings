@@ -1,5 +1,5 @@
 # HITMAN 3
-Rating: 4.78 (Ranked 101)  
+Rating: 4.78 (Ranked 100)  
 Number of Ratings: 21,082  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 8,491  (Ranked 35)  
