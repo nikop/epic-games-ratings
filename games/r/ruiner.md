@@ -1,10 +1,10 @@
 # RUINER
-Rating: 4.53 (Ranked 480)  
+Rating: 4.53 (Ranked 481)  
 Number of Ratings: 137  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 23  (Ranked 459)  
-Sum: 23 (Ranked 461)  
-Diff (max vs sum): -2
+Sum: 23 (Ranked 462)  
+Diff (max vs sum): -3
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
