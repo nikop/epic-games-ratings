@@ -79,7 +79,7 @@
 | 67 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.81 | 31 | 432 |
 | 67 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 479 |
 | 67 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 0 | 479 |
-| 80 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,202 | 48 |
+| 80 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,204 | 48 |
 | 80 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 157 | 276 |
 | 80 | [Journey](games/j/journey.md) | 4.80 | 0 | 479 |
 | 80 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,316 | 91 |
@@ -469,7 +469,7 @@
 | 457 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 75 | 340 |
 | 468 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 0 | 479 |
 | 468 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 948 | 138 |
-| 468 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 189 | 257 |
+| 468 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 190 | 256 |
 | 468 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.54 | 1,003 | 130 |
 | 468 | [Outward](games/o/outward.md) | 4.54 | 31 | 432 |
 | 468 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 790 | 145 |
@@ -641,7 +641,7 @@
 | 638 | [Death Coming](games/d/death_coming.md) | 4.41 | 0 | 479 |
 | 638 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 169 | 266 |
 | 638 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 92 | 323 |
-| 638 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 11,714 | 27 |
+| 638 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 11,721 | 27 |
 | 638 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 0 | 479 |
 | 638 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 0 | 479 |
 | 638 | [Othercide](games/o/othercide.md) | 4.41 | 0 | 479 |
@@ -760,7 +760,7 @@
 | 758 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 22 | 463 |
 | 758 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 0 | 479 |
 | 758 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 297 | 217 |
-| 761 | [EVE Online](games/e/eve_online.md) | 4.26 | 994 | 131 |
+| 761 | [EVE Online](games/e/eve_online.md) | 4.26 | 995 | 131 |
 | 761 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 0 | 479 |
 | 761 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.26 | 0 | 479 |
 | 761 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.26 | 0 | 479 |
@@ -883,8 +883,8 @@
 | 881 | [Conarium](games/c/conarium.md) | 3.91 | 0 | 479 |
 | 881 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 310 |
 | 883 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 0 | 479 |
+| 884 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.86 | 34 | 418 |
 | 884 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 479 |
-| 885 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.85 | 34 | 418 |
 | 886 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 0 | 479 |
 | 887 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 0 | 479 |
 | 887 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,017 | 129 |
