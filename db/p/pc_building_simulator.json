@@ -2,15 +2,15 @@
   "ID": "8f5f5eff22f3468fa5551771406fc868",
   "Name": "PC Building Simulator",
   "Rating": 4.66,
-  "Ranking_Rating": 272,
+  "Ranking_Rating": 273,
   "Ranking_Popularity": 128,
   "Ranking_PopularitySum": 90,
   "NumberOfRatings": 12155,
-  "NumberOfAwards": 7668,
+  "NumberOfAwards": 7670,
   "NumberOfAwardsMax": 1021,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:21:06.3204437+00:00",
-  "LastChanged": "2023-04-03T13:57:30.1808921+00:00",
+  "LastChanged": "2023-04-04T01:58:38.2712488+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:06.3204439+00:00",
@@ -2970,6 +2970,12 @@
       "Rating": 4.66,
       "NumberOfAwards": 7668,
       "NumberOfAwardsMax": 1021
+    },
+    {
+      "Time": "2023-04-04T01:58:38.271249+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 7670,
+      "NumberOfAwardsMax": 1021
     }
   ],
   "Tags": [
@@ -3025,7 +3031,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 612
+      "Count": 614
     },
     {
       "Text": "This game has Amazing Characters",
