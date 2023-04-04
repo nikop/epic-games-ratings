@@ -1,5 +1,5 @@
 # Pine
-Rating: 4.15 (Ranked 826)  
+Rating: 4.15 (Ranked 825)  
 Number of Ratings: 694  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 479)  

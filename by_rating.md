@@ -17,7 +17,7 @@
 | 13 | [God of War](games/g/god_of_war.md) | 4.89 | 3,906 | 72 |
 | 13 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 130,249 | 7 |
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 393 | 192 |
-| 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 14,200 | 20 |
+| 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 14,221 | 20 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 126 | 288 |
 | 19 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 237 | 236 |
 | 19 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 0 | 479 |
@@ -82,7 +82,7 @@
 | 80 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,202 | 48 |
 | 80 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 157 | 276 |
 | 80 | [Journey](games/j/journey.md) | 4.80 | 0 | 479 |
-| 80 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,314 | 91 |
+| 80 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,316 | 91 |
 | 80 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 114 | 299 |
 | 80 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 182 | 259 |
 | 80 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 98 | 313 |
@@ -432,7 +432,7 @@
 | 419 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 2,970 | 85 |
 | 419 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 0 | 479 |
 | 419 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 115 | 297 |
-| 419 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 17,596 | 17 |
+| 419 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 17,607 | 17 |
 | 419 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,678 | 108 |
 | 419 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 0 | 479 |
 | 436 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 0 | 479 |
@@ -450,7 +450,7 @@
 | 436 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 69 | 352 |
 | 436 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 479 |
 | 436 | [Minit](games/m/minit.md) | 4.56 | 0 | 479 |
-| 436 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,725 | 62 |
+| 436 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,727 | 62 |
 | 436 | [Observation](games/o/observation.md) | 4.56 | 0 | 479 |
 | 436 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,756 | 106 |
 | 436 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 0 | 479 |
@@ -807,30 +807,30 @@
 | 804 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 0 | 479 |
 | 804 | [Flatout](games/f/flatout.md) | 4.19 | 0 | 479 |
 | 804 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 84 | 331 |
-| 804 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 178,754 | 4 |
+| 804 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 178,841 | 4 |
 | 804 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 479 |
 | 810 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 479 |
 | 810 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 316 |
 | 810 | [Windbound](games/w/windbound.md) | 4.18 | 0 | 479 |
 | 813 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 26 | 451 |
 | 813 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 2,077 | 98 |
-| 813 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.17 | 0 | 479 |
 | 813 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.17 | 44 | 394 |
 | 813 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 0 | 479 |
-| 818 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 479 |
-| 818 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 604 | 161 |
-| 818 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 0 | 479 |
-| 818 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 479 |
-| 818 | [Gone Home](games/g/gone_home.md) | 4.16 | 0 | 479 |
-| 818 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 0 | 479 |
-| 818 | [Space Punks](games/s/space_punks.md) | 4.16 | 166 | 269 |
-| 818 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 0 | 479 |
-| 826 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 0 | 479 |
-| 826 | [Pine](games/p/pine.md) | 4.15 | 0 | 479 |
-| 826 | [Relicta](games/r/relicta.md) | 4.15 | 190 | 256 |
-| 826 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 231 | 238 |
-| 826 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.15 | 0 | 479 |
-| 826 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 479 |
+| 817 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 479 |
+| 817 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 604 | 161 |
+| 817 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 0 | 479 |
+| 817 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 479 |
+| 817 | [Gone Home](games/g/gone_home.md) | 4.16 | 0 | 479 |
+| 817 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.16 | 0 | 479 |
+| 817 | [Space Punks](games/s/space_punks.md) | 4.16 | 166 | 269 |
+| 817 | [The Guild 3](games/t/the_guild_3.md) | 4.16 | 0 | 479 |
+| 825 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 0 | 479 |
+| 825 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.15 | 0 | 479 |
+| 825 | [Pine](games/p/pine.md) | 4.15 | 0 | 479 |
+| 825 | [Relicta](games/r/relicta.md) | 4.15 | 190 | 256 |
+| 825 | [Second Extinction™](games/s/second_extinction™.md) | 4.15 | 231 | 238 |
+| 825 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.15 | 0 | 479 |
+| 825 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 479 |
 | 832 | [Train Valley 2](games/t/train_valley_2.md) | 4.14 | 69 | 352 |
 | 833 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 479 |
 | 833 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 0 | 479 |
