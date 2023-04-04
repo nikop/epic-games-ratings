@@ -1,13 +1,13 @@
 # Fallout: A Post Nuclear Role Playing Game
 Rating: 4.64 (Ranked 308)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 54  (Ranked 374)  
-Sum: 54 (Ranked 421)  
+Max (Character Customization): 55  (Ranked 374)  
+Sum: 55 (Ranked 421)  
 Diff (max vs sum): -47
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 54 |
+| This game has Inclusive Character Customization | 55 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -52,3 +52,4 @@ Diff (max vs sum): -47
 | 2023-03-29 | 4.66 | - | - |
 | 2023-04-02 | 4.65 | - | 54 |
 | 2023-04-03 | 4.64 | - | 54 |
+| 2023-04-04 | 4.64 | - | 55 |
