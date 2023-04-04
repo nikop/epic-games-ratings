@@ -1,5 +1,5 @@
 # RiMS Racing
-Rating: 4.44 (Ranked 606)  
+Rating: 4.44 (Ranked 605)  
 Number of Ratings: 31  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 479)  

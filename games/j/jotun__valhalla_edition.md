@@ -1,10 +1,10 @@
 # Jotun: Valhalla Edition
-Rating: 4.41 (Ranked 639)  
+Rating: 4.41 (Ranked 638)  
 Number of Ratings: 758  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 92  (Ranked 322)  
+Max (Great Boss Battles): 92  (Ranked 323)  
 Sum: 92 (Ranked 392)  
-Diff (max vs sum): -70
+Diff (max vs sum): -69
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

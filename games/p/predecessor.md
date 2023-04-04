@@ -1,5 +1,5 @@
 # Predecessor
-Rating: 4.44 (Ranked 606)  
+Rating: 4.44 (Ranked 605)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 44  (Ranked 393)  
 Sum: 288 (Ranked 317)  
