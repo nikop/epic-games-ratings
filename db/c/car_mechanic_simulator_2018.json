@@ -6,11 +6,11 @@
   "Ranking_Popularity": 102,
   "Ranking_PopularitySum": 57,
   "NumberOfRatings": 38343,
-  "NumberOfAwards": 15283,
+  "NumberOfAwards": 15284,
   "NumberOfAwardsMax": 1965,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:26:04.6520015+00:00",
-  "LastChanged": "2023-04-04T17:58:19.8278027+00:00",
+  "LastChanged": "2023-04-05T13:58:05.3962631+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:04.6520017+00:00",
@@ -2998,6 +2998,12 @@
       "Rating": 4.49,
       "NumberOfAwards": 15283,
       "NumberOfAwardsMax": 1965
+    },
+    {
+      "Time": "2023-04-05T13:58:05.3962632+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15284,
+      "NumberOfAwardsMax": 1965
     }
   ],
   "Tags": [
@@ -3029,7 +3035,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1792
+      "Count": 1793
     },
     {
       "Text": "This game is Highly Recommended",

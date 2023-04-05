@@ -100,7 +100,7 @@
 | 92 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 360 | 202 |
 | 92 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 480 |
 | 100 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,328 | 66 |
-| 100 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,491 | 35 |
+| 100 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,504 | 35 |
 | 100 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 16,686 | 18 |
 | 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 901 | 140 |
 | 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 141 | 281 |
@@ -200,7 +200,7 @@
 | 192 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 50 | 376 |
 | 192 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,289 | 117 |
 | 192 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 0 | 480 |
-| 192 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,794 | 104 |
+| 192 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,795 | 104 |
 | 192 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.70 | 0 | 480 |
 | 192 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 111 | 303 |
 | 192 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 27 | 445 |
@@ -211,7 +211,7 @@
 | 192 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 0 | 480 |
 | 192 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 480 |
 | 192 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,141 | 68 |
-| 212 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 106,479 | 8 |
+| 212 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 106,555 | 8 |
 | 212 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,698 | 75 |
 | 212 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 308 | 214 |
 | 212 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 0 | 480 |
@@ -524,7 +524,7 @@
 | 522 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 1,529 | 110 |
 | 522 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 0 | 480 |
 | 522 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 480 |
-| 522 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 32,402 | 12 |
+| 522 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 32,430 | 12 |
 | 522 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.50 | 0 | 480 |
 | 522 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 0 | 480 |
 | 522 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 93 | 320 |

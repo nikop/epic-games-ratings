@@ -98,7 +98,7 @@
 | [Blood of Steel](games/b/blood_of_steel.md) | 3.76 | 890 | 0 | 480 |
 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 112 | 2,033 | 101 |
 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 112 | 13,806 | 22 |
-| [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 212 | 106,479 | 8 |
+| [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 212 | 106,555 | 8 |
 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 536 | 391 | 194 |
 | [Brawlhalla](games/b/brawlhalla.md) | 4.55 | 456 | 63 | 363 |
 | [Breathedge](games/b/breathedge.md) | 4.59 | 388 | 0 | 480 |
@@ -192,7 +192,7 @@
 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 349 | 271 | 225 |
 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 47 | 44 | 395 |
 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 522 | 0 | 480 |
-| [Destiny 2](games/d/destiny_2.md) | 4.50 | 522 | 32,402 | 12 |
+| [Destiny 2](games/d/destiny_2.md) | 4.50 | 522 | 32,430 | 12 |
 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 349 | 33 | 421 |
 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 349 | 34 | 419 |
 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 24 | 1,358 | 114 |
@@ -339,7 +339,7 @@
 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.92 | 3 | 0 | 480 |
 | [High On Life](games/h/high_on_life.md) | 4.69 | 212 | 0 | 480 |
 | [HITMAN](games/h/hitman.md) | 4.64 | 310 | 195 | 255 |
-| [HITMAN 3](games/h/hitman_3.md) | 4.78 | 100 | 8,491 | 35 |
+| [HITMAN 3](games/h/hitman_3.md) | 4.78 | 100 | 8,504 | 35 |
 | [Hob](games/h/hob.md) | 4.57 | 420 | 0 | 480 |
 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 100 | 16,686 | 18 |
 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 536 | 2,044 | 99 |
@@ -448,7 +448,7 @@
 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 288 | 48 | 382 |
 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 212 | 1,167 | 119 |
 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 92 | 5,772 | 54 |
-| [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 192 | 1,794 | 104 |
+| [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 192 | 1,795 | 104 |
 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 67 | 108 | 306 |
 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 522 | 93 | 320 |
 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.47 | 565 | 24 | 457 |

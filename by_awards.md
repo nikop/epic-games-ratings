@@ -7,11 +7,11 @@
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 153,200 | 4.69 | 212 |
 | 6 | [Fall Guys](games/f/fall_guys.md) | 137,147 | 4.53 | 481 |
 | 7 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 130,483 | 4.89 | 13 |
-| 8 | [Borderlands 3](games/b/borderlands_3.md) | 106,479 | 4.69 | 212 |
+| 8 | [Borderlands 3](games/b/borderlands_3.md) | 106,555 | 4.69 | 212 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 60,501 | 4.62 | 333 |
 | 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 55,346 | 4.59 | 388 |
 | 11 | [VALORANT](games/v/valorant.md) | 47,550 | 4.54 | 468 |
-| 12 | [Destiny 2](games/d/destiny_2.md) | 32,402 | 4.50 | 522 |
+| 12 | [Destiny 2](games/d/destiny_2.md) | 32,430 | 4.50 | 522 |
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 28,639 | 4.73 | 154 |
 | 14 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,301 | 4.65 | 288 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 26,061 | 4.53 | 481 |
@@ -34,7 +34,7 @@
 | 32 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 9,676 | 4.45 | 590 |
 | 33 | [Satisfactory](games/s/satisfactory.md) | 8,896 | 4.88 | 19 |
 | 34 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 8,842 | 4.60 | 373 |
-| 35 | [HITMAN 3](games/h/hitman_3.md) | 8,491 | 4.78 | 100 |
+| 35 | [HITMAN 3](games/h/hitman_3.md) | 8,504 | 4.78 | 100 |
 | 36 | [Control](games/c/control.md) | 8,202 | 4.60 | 373 |
 | 37 | [Supraland](games/s/supraland.md) | 7,595 | 4.61 | 349 |
 | 38 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,434 | 4.85 | 38 |
@@ -103,7 +103,7 @@
 | 101 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,033 | 4.76 | 112 |
 | 102 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,965 | 4.49 | 536 |
 | 103 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,858 | 4.65 | 288 |
-| 104 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,794 | 4.70 | 192 |
+| 104 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,795 | 4.70 | 192 |
 | 105 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,776 | 4.90 | 8 |
 | 106 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,758 | 4.56 | 436 |
 | 107 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,720 | 4.63 | 324 |
