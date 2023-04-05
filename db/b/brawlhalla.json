@@ -1,16 +1,16 @@
 {
   "ID": "15e6680a0c164ee189fcc3eb10398fd6",
   "Name": "Brawlhalla",
-  "Rating": 4.56,
-  "Ranking_Rating": 436,
+  "Rating": 4.55,
+  "Ranking_Rating": 456,
   "Ranking_Popularity": 364,
   "Ranking_PopularitySum": 284,
-  "NumberOfAwards": 511,
+  "NumberOfAwards": 513,
   "NumberOfAwardsMax": 62,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-04-04T23:56:55.7500785+00:00",
+  "LastChanged": "2023-04-05T01:39:40.5401723+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-21T06:57:02.0735411+00:00",
@@ -563,6 +563,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 511,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2023-04-05T01:39:40.5401724+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 513,
+      "NumberOfAwardsMax": 62
     }
   ],
   "Tags": [
@@ -630,7 +636,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 31
+      "Count": 33
     },
     {
       "Text": "This game is Great for Beginners",

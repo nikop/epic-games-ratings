@@ -3,7 +3,7 @@ Rating: 4.34 (Ranked 709)
 Number of Ratings: 5,693  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 232  (Ranked 237)  
-Sum: 1,764 (Ranked 195)  
+Sum: 1,765 (Ranked 195)  
 Diff (max vs sum): 42
 ## Awards
 | Award | Number of Ratings |
@@ -11,7 +11,7 @@ Diff (max vs sum): 42
 | This game is Great for Beginners | 232 |
 | This game is Great for Quick Sessions | 219 |
 | This game is Highly Recommended | 203 |
-| This game is Extremely Fun | 201 |
+| This game is Extremely Fun | 202 |
 | This game has Quickly Understood Controls | 195 |
 | This game has Competitive Players | 194 |
 | This game has Amazing Storytelling | 191 |
@@ -87,3 +87,4 @@ Diff (max vs sum): 42
 | 2022-09-23 | 4.34 | 5,693 | - |
 | 2023-03-31 | 4.34 | - | 232 |
 | 2023-04-01 | 4.34 | - | 232 |
+| 2023-04-05 | 4.34 | - | 232 |
