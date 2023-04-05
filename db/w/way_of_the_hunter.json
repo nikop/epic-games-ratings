@@ -1,8 +1,8 @@
 {
   "ID": "bdbfb29cbd004978acad9ca4eaf9ec82",
   "Name": "Way of the Hunter",
-  "Rating": 4.34,
-  "Ranking_Rating": 709,
+  "Rating": 4.35,
+  "Ranking_Rating": 701,
   "Ranking_Popularity": 408,
   "Ranking_PopularitySum": 353,
   "NumberOfRatings": 190,
@@ -11,7 +11,7 @@
   "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2022-08-22T17:32:55.4881061+00:00",
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
-  "LastChanged": "2023-03-20T19:58:16.4124968+00:00",
+  "LastChanged": "2023-04-05T20:58:05.777433+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-25T19:31:36.4278603+00:00",
@@ -507,6 +507,12 @@
     {
       "Time": "2023-03-20T19:58:16.412497+00:00",
       "Rating": 4.34
+    },
+    {
+      "Time": "2023-04-05T20:58:05.7774331+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 181,
+      "NumberOfAwardsMax": 37
     }
   ],
   "Tags": [
