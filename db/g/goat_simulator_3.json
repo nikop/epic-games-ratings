@@ -3,14 +3,14 @@
   "Name": "Goat Simulator 3",
   "Rating": 4.85,
   "Ranking_Rating": 38,
-  "Ranking_Popularity": 229,
+  "Ranking_Popularity": 228,
   "Ranking_PopularitySum": 165,
-  "NumberOfAwards": 2326,
-  "NumberOfAwardsMax": 264,
+  "NumberOfAwards": 2329,
+  "NumberOfAwardsMax": 267,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
-  "LastChanged": "2023-04-05T17:57:13.900058+00:00",
+  "LastChanged": "2023-04-05T18:57:25.5735679+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-17T20:57:24.0090353+00:00",
@@ -225,6 +225,12 @@
       "Rating": 4.85,
       "NumberOfAwards": 2326,
       "NumberOfAwardsMax": 264
+    },
+    {
+      "Time": "2023-04-05T18:57:25.573568+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2329,
+      "NumberOfAwardsMax": 267
     }
   ],
   "Tags": [
@@ -256,7 +262,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 264
+      "Count": 267
     },
     {
       "Text": "This game is Highly Recommended",

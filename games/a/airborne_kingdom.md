@@ -1,5 +1,5 @@
 # Airborne Kingdom
-Rating: 4.65 (Ranked 288)  
+Rating: 4.65 (Ranked 287)  
 Number of Ratings: 74  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 480)  

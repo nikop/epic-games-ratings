@@ -2,15 +2,15 @@
   "ID": "b04882669b2e495e9f747c8560488c93",
   "Name": "Trackmania",
   "Rating": 4.67,
-  "Ranking_Rating": 255,
+  "Ranking_Rating": 254,
   "Ranking_Popularity": 92,
   "Ranking_PopularitySum": 51,
   "NumberOfRatings": 6825,
-  "NumberOfAwards": 19547,
+  "NumberOfAwards": 19557,
   "NumberOfAwardsMax": 2300,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-04-05T16:57:34.0941436+00:00",
+  "LastChanged": "2023-04-05T18:57:33.5167266+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:57.8589287+00:00",
@@ -3097,6 +3097,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 19547,
       "NumberOfAwardsMax": 2300
+    },
+    {
+      "Time": "2023-04-05T18:57:33.5167267+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 19557,
+      "NumberOfAwardsMax": 2300
     }
   ],
   "Tags": [
@@ -3140,7 +3146,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1847
+      "Count": 1857
     },
     {
       "Text": "This game is Relaxing",

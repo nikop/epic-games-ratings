@@ -2,9 +2,9 @@
 Rating: 4.61 (Ranked 349)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Challenging Combat): 265  (Ranked 228)  
+Max (Challenging Combat): 265  (Ranked 229)  
 Sum: 1,857 (Ranked 190)  
-Diff (max vs sum): 38
+Diff (max vs sum): 39
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -2,15 +2,15 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "Rating": 4.67,
-  "Ranking_Rating": 255,
+  "Ranking_Rating": 254,
   "Ranking_Popularity": 44,
   "Ranking_PopularitySum": 56,
   "NumberOfRatings": 7767,
-  "NumberOfAwards": 16250,
+  "NumberOfAwards": 16251,
   "NumberOfAwardsMax": 6405,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
-  "LastChanged": "2023-04-05T15:57:38.1904364+00:00",
+  "LastChanged": "2023-04-05T18:57:27.1085983+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:45.4172839+00:00",
@@ -3035,6 +3035,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 16250,
       "NumberOfAwardsMax": 6405
+    },
+    {
+      "Time": "2023-04-05T18:57:27.1085984+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 16251,
+      "NumberOfAwardsMax": 6405
     }
   ],
   "Tags": [
@@ -3066,7 +3072,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1199
+      "Count": 1200
     },
     {
       "Text": "This game has Quickly Understood Controls",

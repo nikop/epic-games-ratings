@@ -1,5 +1,5 @@
 # Void Bastards
-Rating: 4.60 (Ranked 373)  
+Rating: 4.60 (Ranked 374)  
 Number of Ratings: 986  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Quick Sessions): 20  (Ranked 475)  

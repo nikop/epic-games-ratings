@@ -2,7 +2,7 @@
 Rating: 4.79 (Ranked 92)  
 ## Popularity (Based on Awards)
 Max (Educational): 340  (Ranked 204)  
-Sum: 2,331 (Ranked 164)  
+Sum: 2,336 (Ranked 164)  
 Diff (max vs sum): 40
 ## Awards
 | Award | Number of Ratings |
@@ -14,7 +14,7 @@ Diff (max vs sum): 40
 | This game has a Creative Community | 283 |
 | This game has Amazing Characters | 272 |
 | This game has Amazing Storytelling | 271 |
-| This game has Challenging Combat | 213 |
+| This game has Challenging Combat | 218 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |

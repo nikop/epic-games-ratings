@@ -1,15 +1,15 @@
 {
   "ID": "4c461792757541e99c4a16c00834c956",
   "Name": "Returnal\u2122",
-  "Rating": 4.69,
-  "Ranking_Rating": 212,
+  "Rating": 4.65,
+  "Ranking_Rating": 287,
   "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 480,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-02-15T19:57:17.063924+00:00",
   "FirstSeenRating": "2023-02-22T19:57:26.9994266+00:00",
-  "LastChanged": "2023-03-31T10:15:59.4550703+00:00",
+  "LastChanged": "2023-04-05T18:57:27.9782478+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-22T19:57:26.9994274+00:00",
@@ -88,6 +88,12 @@
     {
       "Time": "2023-03-31T10:15:59.4550704+00:00",
       "Rating": 4.69,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-05T18:57:27.978248+00:00",
+      "Rating": 4.65,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
