@@ -69,7 +69,7 @@
 | [Backbone](games/b/backbone.md) | 4.33 | 718 | 0 | 479 |
 | [Bad North](games/b/bad_north.md) | 4.68 | 236 | 0 | 479 |
 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 672 | 0 | 479 |
-| [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.91 | 6 | 0 | 479 |
+| [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.91 | 7 | 0 | 479 |
 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 167 | 0 | 479 |
 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 47 | 50 | 376 |
 | [Banished](games/b/banished.md) | 3.96 | 872 | 0 | 479 |
@@ -147,7 +147,7 @@
 | [Crashlands](games/c/crashlands.md) | 4.66 | 273 | 186 | 258 |
 | [Crayta](games/c/crayta.md) | 4.19 | 804 | 50 | 376 |
 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 758 | 22 | 463 |
-| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.86 | 884 | 39 | 402 |
+| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.84 | 885 | 39 | 402 |
 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 688 | 169 | 266 |
 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 700 | 90 | 325 |
 | [Crying Suns](games/c/crying_suns.md) | 4.49 | 536 | 208 | 250 |
@@ -258,7 +258,7 @@
 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 212 | 0 | 479 |
 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 176 | 0 | 479 |
 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 804 | 0 | 479 |
-| [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 176 | 6,032 | 50 |
+| [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 176 | 6,042 | 50 |
 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 193 | 4,017 | 70 |
 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 881 | 103 | 310 |
 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 436 | 27 | 445 |
@@ -336,7 +336,7 @@
 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 662 | 0 | 479 |
 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 778 | 971 | 133 |
 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 436 | 0 | 479 |
-| [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.91 | 6 | 0 | 479 |
+| [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.92 | 3 | 0 | 479 |
 | [High On Life](games/h/high_on_life.md) | 4.69 | 212 | 0 | 479 |
 | [HITMAN](games/h/hitman.md) | 4.64 | 310 | 195 | 255 |
 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 100 | 8,491 | 35 |
@@ -519,7 +519,7 @@
 | [Paladins](games/p/paladins.md) | 4.35 | 700 | 3,132 | 83 |
 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.62 | 333 | 0 | 479 |
 | [Paradigm](games/p/paradigm.md) | 4.48 | 554 | 0 | 479 |
-| [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 774 | 289 | 220 |
+| [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 774 | 294 | 219 |
 | [Parkitect](games/p/parkitect.md) | 4.34 | 709 | 0 | 479 |
 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 373 | 0 | 479 |
 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 718 | 0 | 479 |
@@ -814,7 +814,7 @@
 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 67 | 0 | 479 |
 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 864 | 0 | 479 |
 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 629 | 530 | 175 |
-| [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 481 | 252 | 232 |
+| [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 481 | 253 | 232 |
 | [Train Valley](games/t/train_valley.md) | 4.47 | 565 | 0 | 479 |
 | [Train Valley 2](games/t/train_valley_2.md) | 4.14 | 832 | 69 | 352 |
 | [Transistor](games/t/transistor.md) | 4.62 | 333 | 0 | 479 |

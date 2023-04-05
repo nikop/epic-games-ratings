@@ -5,8 +5,8 @@
 | 3 | [Celeste](games/c/celeste.md) | 4.92 | 1,399 | 113 |
 | 3 | [Flatout 2](games/f/flatout_2.md) | 4.92 | 0 | 479 |
 | 3 | [Hades](games/h/hades.md) | 4.92 | 2,970 | 86 |
-| 6 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.91 | 0 | 479 |
-| 6 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.91 | 0 | 479 |
+| 3 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.92 | 0 | 479 |
+| 7 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.91 | 0 | 479 |
 | 8 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 0 | 479 |
 | 8 | [Mago](games/m/mago.md) | 4.90 | 0 | 479 |
 | 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 479 |
@@ -177,7 +177,7 @@
 | 167 | [Timberborn](games/t/timberborn.md) | 4.72 | 110 | 304 |
 | 176 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 294 | 219 |
 | 176 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 479 |
-| 176 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,032 | 50 |
+| 176 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,042 | 50 |
 | 176 | [Fez](games/f/fez.md) | 4.71 | 23 | 459 |
 | 176 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.71 | 0 | 479 |
 | 176 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 416 |
@@ -493,7 +493,7 @@
 | 481 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 92 | 323 |
 | 481 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.53 | 0 | 479 |
 | 481 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 479 |
-| 481 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 252 | 232 |
+| 481 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 253 | 232 |
 | 481 | [Verdun](games/v/verdun.md) | 4.53 | 93 | 320 |
 | 496 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 718 | 151 |
 | 496 | [First Class Trouble](games/f/first_class_trouble.md) | 4.52 | 70 | 348 |
@@ -775,7 +775,7 @@
 | 768 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.25 | 34 | 419 |
 | 774 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 479 |
 | 774 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 432 |
-| 774 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 289 | 220 |
+| 774 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 294 | 219 |
 | 774 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 387 |
 | 778 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 479 |
 | 778 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 6,149 | 49 |
@@ -883,8 +883,8 @@
 | 881 | [Conarium](games/c/conarium.md) | 3.91 | 0 | 479 |
 | 881 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 310 |
 | 883 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 0 | 479 |
-| 884 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.86 | 39 | 402 |
 | 884 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 479 |
+| 885 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.84 | 39 | 402 |
 | 886 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 0 | 479 |
 | 887 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.78 | 0 | 479 |
 | 887 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,017 | 129 |

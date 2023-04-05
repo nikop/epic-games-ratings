@@ -3,14 +3,14 @@
   "Name": "Paragon: The Overprime",
   "Rating": 4.24,
   "Ranking_Rating": 774,
-  "Ranking_Popularity": 220,
+  "Ranking_Popularity": 219,
   "Ranking_PopularitySum": 169,
-  "NumberOfAwards": 2247,
-  "NumberOfAwardsMax": 289,
-  "MaxAwardTitle": "Competitive Players",
+  "NumberOfAwards": 2253,
+  "NumberOfAwardsMax": 294,
+  "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-11-07T03:53:37.8993563+00:00",
   "FirstSeenRating": "2022-11-10T14:19:52.8915141+00:00",
-  "LastChanged": "2023-04-05T03:58:06.0953648+00:00",
+  "LastChanged": "2023-04-05T05:59:02.6847089+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-10T14:19:52.8915147+00:00",
@@ -457,6 +457,12 @@
       "Rating": 4.24,
       "NumberOfAwards": 2247,
       "NumberOfAwardsMax": 289
+    },
+    {
+      "Time": "2023-04-05T05:59:02.684709+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 2253,
+      "NumberOfAwardsMax": 294
     }
   ],
   "Tags": [
@@ -482,7 +488,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 288
+      "Count": 294
     },
     {
       "Text": "This game is Great for Beginners",

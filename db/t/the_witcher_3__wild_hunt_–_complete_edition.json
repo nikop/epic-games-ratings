@@ -6,11 +6,11 @@
   "Ranking_Popularity": 20,
   "Ranking_PopularitySum": 30,
   "NumberOfRatings": 14665,
-  "NumberOfAwards": 34252,
+  "NumberOfAwards": 34260,
   "NumberOfAwardsMax": 14221,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:24:37.9019948+00:00",
-  "LastChanged": "2023-04-05T01:40:21.872664+00:00",
+  "LastChanged": "2023-04-05T05:57:51.3277753+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:37.9019951+00:00",
@@ -3329,6 +3329,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 34252,
       "NumberOfAwardsMax": 14221
+    },
+    {
+      "Time": "2023-04-05T05:57:51.3277755+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 34260,
+      "NumberOfAwardsMax": 14221
     }
   ],
   "Tags": [
@@ -3384,7 +3390,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 1946
+      "Count": 1954
     },
     {
       "Text": "This game has Diverse Characters",
