@@ -1,8 +1,8 @@
 {
   "ID": "25e53de2e4ab4da8aa589d881273a11c",
   "Name": "Pillars of Eternity - Definitive Edition",
-  "Rating": 4.66,
-  "Ranking_Rating": 273,
+  "Rating": 4.65,
+  "Ranking_Rating": 288,
   "Ranking_Popularity": 103,
   "Ranking_PopularitySum": 125,
   "NumberOfRatings": 2847,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 1858,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
-  "LastChanged": "2023-04-02T18:58:11.4063437+00:00",
+  "LastChanged": "2023-04-05T02:57:52.5675937+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:19.0250265+00:00",
@@ -2148,6 +2148,12 @@
     {
       "Time": "2023-04-02T18:58:11.406344+00:00",
       "Rating": 4.66,
+      "NumberOfAwards": 4569,
+      "NumberOfAwardsMax": 1858
+    },
+    {
+      "Time": "2023-04-05T02:57:52.5675944+00:00",
+      "Rating": 4.65,
       "NumberOfAwards": 4569,
       "NumberOfAwardsMax": 1858
     }

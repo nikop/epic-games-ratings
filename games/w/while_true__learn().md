@@ -1,5 +1,5 @@
 # while True: learn()
-Rating: 4.51 (Ranked 508)  
+Rating: 4.51 (Ranked 507)  
 Number of Ratings: 896  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Challenging Puzzles): 131  (Ranked 286)  

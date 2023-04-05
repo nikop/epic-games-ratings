@@ -1,5 +1,5 @@
 # Pillars of Eternity - Definitive Edition
-Rating: 4.66 (Ranked 273)  
+Rating: 4.65 (Ranked 288)  
 Number of Ratings: 2,847  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 1,858  (Ranked 103)  
@@ -97,3 +97,4 @@ Diff (max vs sum): -22
 | 2022-12-03 | 4.66 | - | - |
 | 2023-04-01 | 4.66 | - | 1,855 |
 | 2023-04-02 | 4.66 | - | 1,858 |
+| 2023-04-05 | 4.65 | - | 1,858 |

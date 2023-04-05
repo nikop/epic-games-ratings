@@ -2,15 +2,15 @@
   "ID": "53310576ce1d4446b20dbbdac4f09f2d",
   "Name": "A Total War Saga: TROY",
   "Rating": 4.5,
-  "Ranking_Rating": 523,
+  "Ranking_Rating": 522,
   "Ranking_Popularity": 110,
   "Ranking_PopularitySum": 74,
   "NumberOfRatings": 6316,
-  "NumberOfAwards": 11096,
+  "NumberOfAwards": 11097,
   "NumberOfAwardsMax": 1529,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:20:30.5035149+00:00",
-  "LastChanged": "2023-04-04T22:57:18.4451333+00:00",
+  "LastChanged": "2023-04-05T02:57:19.9997917+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:30.5035153+00:00",
@@ -2948,6 +2948,12 @@
       "Rating": 4.5,
       "NumberOfAwards": 11096,
       "NumberOfAwardsMax": 1529
+    },
+    {
+      "Time": "2023-04-05T02:57:19.9997918+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 11097,
+      "NumberOfAwardsMax": 1529
     }
   ],
   "Tags": [
@@ -2967,7 +2973,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1420
+      "Count": 1421
     },
     {
       "Text": "This game has Amazing Characters",

@@ -1,8 +1,8 @@
 # Honkai Impact 3rd
-Rating: 4.49 (Ranked 537)  
+Rating: 4.49 (Ranked 536)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 2,035  (Ranked 100)  
-Sum: 6,520 (Ranked 107)  
+Sum: 6,527 (Ranked 107)  
 Diff (max vs sum): -7
 ## Awards
 | Award | Number of Ratings |
@@ -17,7 +17,7 @@ Diff (max vs sum): -7
 | This game has Beautiful Visuals | 304 |
 | This game is Extremely Fun | 284 |
 | This game has Quickly Understood Controls | 281 |
-| This game has Amazing Storytelling | 271 |
+| This game has Amazing Storytelling | 278 |
 | This game is Relaxing | 262 |
 | This game has Challenging Combat | 28 |
 | This game has a Kind Community | 22 |
