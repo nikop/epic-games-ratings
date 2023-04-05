@@ -129,7 +129,7 @@
 | 127 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 22 | 463 |
 | 127 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,564 | 63 |
 | 127 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 84 | 331 |
-| 127 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,131 | 83 |
+| 127 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,133 | 82 |
 | 127 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 338 | 205 |
 | 127 | [Haven](games/h/haven.md) | 4.75 | 0 | 479 |
 | 127 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 93 | 320 |
@@ -553,17 +553,17 @@
 | 537 | [Maneater](games/m/maneater.md) | 4.49 | 13,365 | 23 |
 | 537 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 604 | 161 |
 | 537 | [Solitairica](games/s/solitairica.md) | 4.49 | 81 | 336 |
-| 537 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 36 | 411 |
-| 555 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 479 |
-| 555 | [Far Cry](games/f/far_cry.md) | 4.48 | 0 | 479 |
-| 555 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 0 | 479 |
-| 555 | [Paradigm](games/p/paradigm.md) | 4.48 | 0 | 479 |
-| 555 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.48 | 0 | 479 |
-| 555 | [Riverbond](games/r/riverbond.md) | 4.48 | 0 | 479 |
-| 555 | [Scorn](games/s/scorn.md) | 4.48 | 0 | 479 |
-| 555 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 0 | 479 |
-| 555 | [The Escapists](games/t/the_escapists.md) | 4.48 | 0 | 479 |
-| 555 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.48 | 0 | 479 |
+| 554 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 479 |
+| 554 | [Far Cry](games/f/far_cry.md) | 4.48 | 0 | 479 |
+| 554 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 0 | 479 |
+| 554 | [Paradigm](games/p/paradigm.md) | 4.48 | 0 | 479 |
+| 554 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.48 | 0 | 479 |
+| 554 | [Riverbond](games/r/riverbond.md) | 4.48 | 0 | 479 |
+| 554 | [Scorn](games/s/scorn.md) | 4.48 | 0 | 479 |
+| 554 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 0 | 479 |
+| 554 | [The Escapists](games/t/the_escapists.md) | 4.48 | 0 | 479 |
+| 554 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.48 | 0 | 479 |
+| 554 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 36 | 411 |
 | 565 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.47 | 0 | 479 |
 | 565 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 0 | 479 |
 | 565 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 0 | 479 |
@@ -597,7 +597,7 @@
 | 590 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 0 | 479 |
 | 590 | [Hell is Others](games/h/hell_is_others.md) | 4.45 | 0 | 479 |
 | 590 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 0 | 479 |
-| 590 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 9,662 | 32 |
+| 590 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 9,676 | 32 |
 | 590 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 37 | 407 |
 | 590 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 479 |
 | 590 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 844 | 142 |
@@ -704,7 +704,7 @@
 | 700 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 90 | 325 |
 | 700 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 201 | 251 |
 | 700 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 479 |
-| 700 | [Paladins](games/p/paladins.md) | 4.35 | 3,132 | 82 |
+| 700 | [Paladins](games/p/paladins.md) | 4.35 | 3,132 | 83 |
 | 700 | [Rogue Company](games/r/rogue_company.md) | 4.35 | 4,750 | 61 |
 | 700 | [Torchlight](games/t/torchlight.md) | 4.35 | 20 | 475 |
 | 700 | [Tunche](games/t/tunche.md) | 4.35 | 0 | 479 |
@@ -778,7 +778,7 @@
 | 774 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 288 | 220 |
 | 774 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 387 |
 | 778 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 479 |
-| 778 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 6,081 | 49 |
+| 778 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 6,149 | 49 |
 | 778 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 0 | 479 |
 | 778 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 971 | 133 |
 | 778 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 479 |
