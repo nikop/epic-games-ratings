@@ -3,13 +3,14 @@
   "Name": "ATOM RPG Trudograd",
   "Rating": 4.47,
   "Ranking_Rating": 565,
-  "Ranking_Popularity": 479,
-  "Ranking_PopularitySum": 479,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
+  "Ranking_Popularity": 475,
+  "Ranking_PopularitySum": 475,
+  "NumberOfAwards": 20,
+  "NumberOfAwardsMax": 20,
+  "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-11-08T13:31:16.6189198+00:00",
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
-  "LastChanged": "2023-03-31T05:58:08.5509785+00:00",
+  "LastChanged": "2023-04-05T11:57:50.2738452+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-18T14:57:38.137253+00:00",
@@ -136,7 +137,20 @@
       "Rating": 4.47,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-05T11:57:50.2738453+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 20
+    }
+  ]
 }
