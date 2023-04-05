@@ -3,15 +3,15 @@ Rating: 4.64 (Ranked 310)
 Number of Ratings: 111  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 46  (Ranked 384)  
-Sum: 381 (Ranked 296)  
+Sum: 382 (Ranked 296)  
 Diff (max vs sum): 88
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Highly Recommended | 46 |
 | This game has a Creative Community | 38 |
+| This game has Amazing Storytelling | 38 |
 | This game is Relaxing | 37 |
-| This game has Amazing Storytelling | 37 |
 | This game has Amazing Characters | 35 |
 | This game is Great for Quick Sessions | 34 |
 | This game has Diverse Characters | 34 |
@@ -97,3 +97,4 @@ Diff (max vs sum): 88
 | 2023-04-01 | 4.63 | - | 46 |
 | 2023-04-02 | 4.63 | - | 46 |
 | 2023-04-03 | 4.64 | - | 46 |
+| 2023-04-05 | 4.64 | - | 46 |
