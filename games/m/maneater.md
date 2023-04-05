@@ -1,9 +1,9 @@
 # Maneater
-Rating: 4.49 (Ranked 536)  
+Rating: 4.49 (Ranked 537)  
 Number of Ratings: 82,037  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 13,365  (Ranked 23)  
-Sum: 17,393 (Ranked 53)  
+Sum: 17,394 (Ranked 53)  
 Diff (max vs sum): -30
 ## Awards
 | Award | Number of Ratings |
@@ -13,7 +13,7 @@ Diff (max vs sum): -30
 | This game is Relaxing | 92 |
 | This game has Amazing Storytelling | 90 |
 | This game has Quickly Understood Controls | 87 |
-| This game is Highly Recommended | 84 |
+| This game is Highly Recommended | 85 |
 | This game is Great for Beginners | 84 |
 | This game is Extremely Fun | 83 |
 | This game is Educational | 82 |
