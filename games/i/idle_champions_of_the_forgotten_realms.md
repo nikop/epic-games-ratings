@@ -1,17 +1,17 @@
 # Idle Champions of the Forgotten Realms
-Rating: 4.06 (Ranked 855)  
+Rating: 4.06 (Ranked 854)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 4,807  (Ranked 60)  
-Sum: 29,523 (Ranked 34)  
+Max (Diverse Characters): 4,811  (Ranked 60)  
+Sum: 29,529 (Ranked 34)  
 Diff (max vs sum): 26
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Diverse Characters | 4,807 |
+| This game has Diverse Characters | 4,811 |
 | This game is Great for Beginners | 4,737 |
 | This game has Quickly Understood Controls | 4,548 |
-| This game is Relaxing | 4,446 |
+| This game is Relaxing | 4,448 |
 | This game has Amazing Characters | 3,903 |
 | This game is Highly Recommended | 3,890 |
 | This game has Playful Visuals | 3,192 |
@@ -88,4 +88,4 @@ Diff (max vs sum): 26
 | 2023-04-02 | 4.06 | - | 4,806 |
 | 2023-04-03 | 4.06 | - | 4,807 |
 | 2023-04-04 | 4.06 | - | 4,807 |
-| 2023-04-05 | 4.06 | - | 4,807 |
+| 2023-04-05 | 4.06 | - | 4,811 |

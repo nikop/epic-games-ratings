@@ -175,7 +175,7 @@
 | [Dauntless](games/d/dauntless.md) | 4.53 | 481 | 19,240 | 16 |
 | [Days Gone](games/d/days_gone.md) | 4.69 | 212 | 3,698 | 75 |
 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 818 | 0 | 480 |
-| [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 481 | 26,061 | 15 |
+| [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 481 | 26,089 | 15 |
 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 19 | 237 | 236 |
 | [Dead Space](games/d/dead_space.md) | 4.73 | 154 | 31 | 432 |
 | [Death Coming](games/d/death_coming.md) | 4.41 | 638 | 0 | 480 |
@@ -297,18 +297,18 @@
 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 167 | 446 | 185 |
 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 496 | 493 | 179 |
 | [GigaBash](games/g/gigabash.md) | 4.65 | 287 | 0 | 480 |
-| [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 565 | 3,414 | 79 |
+| [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 565 | 3,415 | 79 |
 | [GNOG](games/g/gnog.md) | 4.68 | 234 | 0 | 480 |
 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 38 | 267 | 228 |
 | [God of War](games/g/god_of_war.md) | 4.89 | 13 | 3,908 | 72 |
 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 813 | 26 | 451 |
-| [Godfall](games/g/godfall.md) | 4.07 | 852 | 499 | 178 |
+| [Godfall](games/g/godfall.md) | 4.06 | 854 | 500 | 178 |
 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 778 | 0 | 480 |
 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 871 | 0 | 480 |
 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 374 | 116 | 296 |
 | [Gone Home](games/g/gone_home.md) | 4.16 | 818 | 0 | 480 |
 | [Good Company](games/g/good_company.md) | 4.42 | 629 | 0 | 480 |
-| [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 813 | 2,083 | 98 |
+| [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 813 | 2,085 | 98 |
 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 825 | 0 | 480 |
 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.15 | 825 | 0 | 480 |
 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 212 | 153,200 | 5 |
@@ -359,7 +359,7 @@
 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 324 | 0 | 480 |
 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 234 | 0 | 480 |
 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.77 | 106 | 0 | 480 |
-| [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 855 | 4,807 | 60 |
+| [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 854 | 4,811 | 60 |
 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 739 | 0 | 480 |
 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 349 | 545 | 169 |
 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 374 | 62 | 365 |
@@ -641,7 +641,7 @@
 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 112 | 0 | 480 |
 | [SMITE](games/s/smite.md) | 4.45 | 591 | 3,574 | 77 |
 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.34 | 710 | 0 | 480 |
-| [SnowRunner](games/s/snowrunner.md) | 4.76 | 112 | 7,385 | 39 |
+| [SnowRunner](games/s/snowrunner.md) | 4.76 | 112 | 7,402 | 39 |
 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 272 | 24 | 457 |
 | [Solitairica](games/s/solitairica.md) | 4.49 | 537 | 81 | 336 |
 | [SOMA](games/s/soma.md) | 4.65 | 287 | 0 | 480 |
@@ -724,11 +724,11 @@
 | [The Colonists](games/t/the_colonists.md) | 4.59 | 388 | 0 | 480 |
 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 272 | 383 | 197 |
 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.71 | 176 | 0 | 480 |
-| [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 841 | 2,146 | 96 |
+| [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 841 | 2,150 | 96 |
 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 578 | 6,332 | 45 |
 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 508 | 62 | 365 |
 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 192 | 56 | 373 |
-| [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 31 | 1,163 | 120 |
+| [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 31 | 1,164 | 120 |
 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.75 | 127 | 0 | 480 |
 | [The Escapists](games/t/the_escapists.md) | 4.48 | 554 | 0 | 480 |
 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 402 | 50 | 376 |
@@ -779,7 +779,7 @@
 | [The Witness](games/t/the_witness.md) | 4.69 | 212 | 167 | 268 |
 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.80 | 78 | 0 | 480 |
 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 841 | 0 | 480 |
-| [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 388 | 3,073 | 84 |
+| [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 388 | 3,080 | 84 |
 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.62 | 333 | 0 | 480 |
 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 388 | 30 | 437 |
 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 167 | 0 | 480 |
@@ -804,7 +804,7 @@
 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 886 | 0 | 480 |
 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 402 | 5,923 | 51 |
 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 192 | 4,141 | 68 |
-| [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.68 | 234 | 1,351 | 115 |
+| [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.68 | 234 | 1,357 | 115 |
 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 106 | 311 | 212 |
 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.45 | 591 | 0 | 480 |
 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 254 | 0 | 480 |
@@ -871,7 +871,7 @@
 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 106 | 0 | 480 |
 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 591 | 0 | 480 |
 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 508 | 131 | 286 |
-| [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 883 | 0 | 480 |
+| [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.87 | 883 | 0 | 480 |
 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 106 | 27 | 445 |
 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 287 | 0 | 480 |
 | [Windbound](games/w/windbound.md) | 4.18 | 810 | 0 | 480 |
