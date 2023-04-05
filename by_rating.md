@@ -199,7 +199,7 @@
 | 193 | [For The King](games/f/for_the_king.md) | 4.70 | 354 | 203 |
 | 193 | [House Flipper](games/h/house_flipper.md) | 4.70 | 277 | 222 |
 | 193 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 50 | 376 |
-| 193 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,285 | 117 |
+| 193 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,289 | 117 |
 | 193 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 0 | 479 |
 | 193 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,794 | 104 |
 | 193 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.70 | 0 | 479 |
@@ -234,7 +234,7 @@
 | 212 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 0 | 479 |
 | 212 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 479 |
 | 212 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 0 | 479 |
-| 212 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 751 | 147 |
+| 212 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 752 | 147 |
 | 236 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,314 | 80 |
 | 236 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 2,895 | 87 |
 | 236 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 479 |
@@ -451,7 +451,7 @@
 | 436 | [Minit](games/m/minit.md) | 4.56 | 0 | 479 |
 | 436 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,727 | 62 |
 | 436 | [Observation](games/o/observation.md) | 4.56 | 0 | 479 |
-| 436 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,756 | 106 |
+| 436 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,758 | 106 |
 | 436 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 0 | 479 |
 | 436 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 45 | 387 |
 | 436 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 3,606 | 76 |

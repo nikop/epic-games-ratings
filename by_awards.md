@@ -105,7 +105,7 @@
 | 103 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,858 | 4.65 | 288 |
 | 104 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,794 | 4.70 | 193 |
 | 105 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,776 | 4.90 | 8 |
-| 106 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,756 | 4.56 | 436 |
+| 106 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,758 | 4.56 | 436 |
 | 107 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,720 | 4.63 | 324 |
 | 108 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,678 | 4.57 | 420 |
 | 109 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 1,602 | 4.76 | 112 |
@@ -116,7 +116,7 @@
 | 114 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,358 | 4.87 | 24 |
 | 115 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,351 | 4.68 | 236 |
 | 116 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 1,336 | 3.98 | 866 |
-| 117 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,285 | 4.70 | 193 |
+| 117 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,289 | 4.70 | 193 |
 | 118 | [DOOM 64](games/d/doom_64.md) | 1,283 | 4.66 | 273 |
 | 119 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,167 | 4.69 | 212 |
 | 120 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,163 | 4.86 | 31 |
@@ -146,7 +146,7 @@
 | 144 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 792 | 4.76 | 112 |
 | 145 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 790 | 4.54 | 468 |
 | 146 | [Frostpunk](games/f/frostpunk.md) | 760 | 4.73 | 154 |
-| 147 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 751 | 4.69 | 212 |
+| 147 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 752 | 4.69 | 212 |
 | 148 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 746 | 4.50 | 522 |
 | 149 | [The Long Dark](games/t/the_long_dark.md) | 729 | 4.75 | 127 |
 | 150 | [Core](games/c/core.md) | 720 | 4.37 | 683 |

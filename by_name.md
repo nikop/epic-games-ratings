@@ -385,7 +385,7 @@
 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.67 | 255 | 0 | 479 |
 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 672 | 537 | 174 |
 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 496 | 147 | 279 |
-| [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 193 | 1,285 | 117 |
+| [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 193 | 1,289 | 117 |
 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 92 | 340 | 204 |
 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.11 | 837 | 0 | 479 |
 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 67 | 0 | 479 |
@@ -532,7 +532,7 @@
 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 333 | 578 | 163 |
 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 468 | 790 | 145 |
 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.63 | 324 | 101 | 312 |
-| [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 436 | 1,756 | 106 |
+| [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 436 | 1,758 | 106 |
 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 167 | 0 | 479 |
 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 288 | 1,858 | 103 |
 | [Pinball FX](games/p/pinball_fx.md) | 4.02 | 861 | 165 | 270 |
@@ -894,4 +894,4 @@
 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 212 | 0 | 479 |
 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 236 | 0 | 479 |
 | [ZOMBI](games/z/zombi.md) | 4.36 | 688 | 0 | 479 |
-| [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 212 | 751 | 147 |
+| [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 212 | 752 | 147 |
