@@ -69,7 +69,7 @@
 | 67 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 414 | 188 |
 | 67 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 0 | 479 |
 | 67 | [Cozy Grove](games/c/cozy_grove.md) | 4.81 | 0 | 479 |
-| 67 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 288 | 220 |
+| 67 | [Dishonored 2](games/d/dishonored_2.md) | 4.81 | 288 | 221 |
 | 67 | [DOOM (1993)](games/d/doom_(1993).md) | 4.81 | 32 | 426 |
 | 67 | [Griftlands](games/g/griftlands.md) | 4.81 | 0 | 479 |
 | 67 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 0 | 479 |
@@ -113,7 +113,7 @@
 | 106 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 27 | 445 |
 | 112 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 0 | 479 |
 | 112 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 2,033 | 101 |
-| 112 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 13,798 | 22 |
+| 112 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 13,806 | 22 |
 | 112 | [Diabotical](games/d/diabotical.md) | 4.76 | 261 | 230 |
 | 112 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 792 | 144 |
 | 112 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 39 | 402 |
@@ -161,7 +161,7 @@
 | 154 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 539 | 173 |
 | 154 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 139 | 282 |
 | 154 | [Outlast](games/o/outlast.md) | 4.73 | 0 | 479 |
-| 154 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 28,582 | 13 |
+| 154 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.73 | 28,639 | 13 |
 | 154 | [Slipways](games/s/slipways.md) | 4.73 | 0 | 479 |
 | 154 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 306 | 215 |
 | 154 | [Suzerain](games/s/suzerain.md) | 4.73 | 0 | 479 |
@@ -212,7 +212,7 @@
 | 193 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 479 |
 | 193 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,141 | 68 |
 | 212 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 106,479 | 8 |
-| 212 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,696 | 75 |
+| 212 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,698 | 75 |
 | 212 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 308 | 214 |
 | 212 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 0 | 479 |
 | 212 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 153,200 | 5 |
@@ -750,7 +750,7 @@
 | 745 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 0 | 479 |
 | 745 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 662 | 155 |
 | 745 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 42 | 399 |
-| 745 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 122 | 291 |
+| 745 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 123 | 291 |
 | 745 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 124 | 290 |
 | 753 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 479 |
 | 753 | [Rage 2](games/r/rage_2.md) | 4.28 | 2,410 | 88 |
@@ -775,7 +775,7 @@
 | 768 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.25 | 34 | 419 |
 | 774 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 479 |
 | 774 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 432 |
-| 774 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 288 | 220 |
+| 774 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 289 | 220 |
 | 774 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 387 |
 | 778 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 479 |
 | 778 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 6,149 | 49 |
