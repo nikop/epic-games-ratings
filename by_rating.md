@@ -343,7 +343,7 @@
 | 333 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 479 |
 | 333 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.62 | 0 | 479 |
 | 333 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 578 | 163 |
-| 333 | [Prey](games/p/prey.md) | 4.62 | 5,483 | 56 |
+| 333 | [Prey](games/p/prey.md) | 4.62 | 5,487 | 56 |
 | 333 | [Road 96](games/r/road_96.md) | 4.62 | 0 | 479 |
 | 333 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 70 | 348 |
 | 333 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.62 | 0 | 479 |
@@ -665,11 +665,11 @@
 | 662 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 0 | 479 |
 | 662 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 479 |
 | 662 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 0 | 479 |
-| 662 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,620 | 28 |
+| 662 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,623 | 28 |
 | 662 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 0 | 479 |
 | 662 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.39 | 0 | 479 |
 | 662 | [Tacoma](games/t/tacoma.md) | 4.39 | 0 | 479 |
-| 662 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 319 | 209 |
+| 662 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 320 | 209 |
 | 662 | [Warpips](games/w/warpips.md) | 4.39 | 0 | 479 |
 | 672 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 479 |
 | 672 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 0 | 479 |

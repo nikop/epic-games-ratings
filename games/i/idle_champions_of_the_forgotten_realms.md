@@ -3,7 +3,7 @@ Rating: 4.06 (Ranked 855)
 Number of Ratings: 9,041  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 4,807  (Ranked 60)  
-Sum: 29,512 (Ranked 34)  
+Sum: 29,514 (Ranked 34)  
 Diff (max vs sum): 26
 ## Awards
 | Award | Number of Ratings |
@@ -14,7 +14,7 @@ Diff (max vs sum): 26
 | This game is Relaxing | 4,446 |
 | This game has Amazing Characters | 3,901 |
 | This game is Highly Recommended | 3,888 |
-| This game has Playful Visuals | 3,190 |
+| This game has Playful Visuals | 3,192 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -88,3 +88,4 @@ Diff (max vs sum): 26
 | 2023-04-02 | 4.06 | - | 4,806 |
 | 2023-04-03 | 4.06 | - | 4,807 |
 | 2023-04-04 | 4.06 | - | 4,807 |
+| 2023-04-05 | 4.06 | - | 4,807 |

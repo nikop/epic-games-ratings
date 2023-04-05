@@ -470,7 +470,7 @@
 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 236 | 545 | 169 |
 | [MythForce](games/m/mythforce.md) | 4.51 | 507 | 32 | 426 |
 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 804 | 178,841 | 4 |
-| [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 662 | 11,620 | 28 |
+| [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 662 | 11,623 | 28 |
 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.11 | 837 | 0 | 479 |
 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 662 | 0 | 479 |
 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.69 | 212 | 0 | 479 |
@@ -544,7 +544,7 @@
 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 590 | 844 | 142 |
 | [Predecessor](games/p/predecessor.md) | 4.44 | 607 | 45 | 387 |
 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.48 | 554 | 0 | 479 |
-| [Prey](games/p/prey.md) | 4.62 | 333 | 5,483 | 56 |
+| [Prey](games/p/prey.md) | 4.62 | 333 | 5,487 | 56 |
 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 349 | 393 | 192 |
 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 866 | 1,336 | 116 |
 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 653 | 0 | 479 |
@@ -709,7 +709,7 @@
 | [Tails of Iron](games/t/tails_of_iron.md) | 4.50 | 522 | 0 | 479 |
 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 212 | 0 | 479 |
 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 456 | 0 | 479 |
-| [Tannenberg](games/t/tannenberg.md) | 4.39 | 662 | 319 | 209 |
+| [Tannenberg](games/t/tannenberg.md) | 4.39 | 662 | 320 | 209 |
 | [Tchia](games/t/tchia.md) | 4.78 | 100 | 0 | 479 |
 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 468 | 487 | 180 |
 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 31 | 39 | 402 |

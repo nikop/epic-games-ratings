@@ -27,7 +27,7 @@
 | 25 | [League of Legends](games/l/league_of_legends.md) | 12,241 | 4.21 | 787 |
 | 26 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,171 | 4.36 | 688 |
 | 27 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,721 | 4.41 | 638 |
-| 28 | [NBA 2K21](games/n/nba_2k21.md) | 11,620 | 4.39 | 662 |
+| 28 | [NBA 2K21](games/n/nba_2k21.md) | 11,623 | 4.39 | 662 |
 | 29 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,252 | 4.87 | 24 |
 | 30 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 11,193 | 4.60 | 373 |
 | 31 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,127 | 4.69 | 212 |
@@ -55,7 +55,7 @@
 | 53 | [Sifu](games/s/sifu.md) | 5,816 | 4.81 | 67 |
 | 54 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,772 | 4.79 | 92 |
 | 55 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,728 | 4.66 | 273 |
-| 56 | [Prey](games/p/prey.md) | 5,483 | 4.62 | 333 |
+| 56 | [Prey](games/p/prey.md) | 5,487 | 4.62 | 333 |
 | 57 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,432 | 4.85 | 38 |
 | 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,390 | 4.82 | 60 |
 | 59 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4,934 | 4.68 | 236 |
@@ -208,7 +208,7 @@
 | 206 | [Football Manager 2023](games/f/football_manager_2023.md) | 338 | 4.75 | 127 |
 | 207 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 332 | 4.32 | 725 |
 | 208 | [Inscryption](games/i/inscryption.md) | 327 | 4.86 | 31 |
-| 209 | [Tannenberg](games/t/tannenberg.md) | 319 | 4.39 | 662 |
+| 209 | [Tannenberg](games/t/tannenberg.md) | 320 | 4.39 | 662 |
 | 210 | [Darkwood](games/d/darkwood.md) | 318 | 4.61 | 349 |
 | 211 | [Dungeons 3](games/d/dungeons_3.md) | 313 | 4.65 | 288 |
 | 212 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 311 | 4.77 | 106 |
