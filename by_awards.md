@@ -3,7 +3,7 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 1,193,695 | 4.30 | 737 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 371,038 | 4.51 | 508 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 280,418 | 4.68 | 236 |
-| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 178,841 | 4.19 | 804 |
+| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 178,959 | 4.19 | 804 |
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 153,200 | 4.69 | 212 |
 | 6 | [Fall Guys](games/f/fall_guys.md) | 137,147 | 4.53 | 481 |
 | 7 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 130,483 | 4.89 | 13 |
@@ -58,7 +58,7 @@
 | 56 | [Prey](games/p/prey.md) | 5,487 | 4.62 | 333 |
 | 57 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,432 | 4.85 | 38 |
 | 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,390 | 4.82 | 60 |
-| 59 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4,934 | 4.68 | 236 |
+| 59 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4,937 | 4.68 | 236 |
 | 60 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,807 | 4.06 | 855 |
 | 61 | [Rogue Company](games/r/rogue_company.md) | 4,750 | 4.35 | 700 |
 | 62 | [MultiVersus](games/m/multiversus.md) | 4,727 | 4.56 | 436 |
@@ -223,7 +223,7 @@
 | 221 | [Dishonored 2](games/d/dishonored_2.md) | 288 | 4.81 | 67 |
 | 222 | [House Flipper](games/h/house_flipper.md) | 277 | 4.70 | 193 |
 | 223 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 275 | 4.46 | 578 |
-| 224 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 274 | 4.43 | 624 |
+| 224 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 274 | 4.43 | 623 |
 | 225 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 271 | 4.61 | 349 |
 | 226 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 270 | 4.49 | 536 |
 | 226 | [Railway Empire](games/r/railway_empire.md) | 270 | 4.52 | 496 |
@@ -359,7 +359,7 @@
 | 357 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 68 | 4.32 | 725 |
 | 358 | [Potion Permit](games/p/potion_permit.md) | 66 | 3.75 | 891 |
 | 358 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 66 | 4.71 | 176 |
-| 358 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 66 | 4.43 | 624 |
+| 358 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 66 | 4.43 | 623 |
 | 358 | [Symphony of War](games/s/symphony_of_war.md) | 66 | 4.64 | 310 |
 | 362 | [DOOM 3](games/d/doom_3.md) | 64 | 4.61 | 349 |
 | 363 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 63 | 4.49 | 536 |
@@ -370,9 +370,9 @@
 | 368 | [Ticket to Ride](games/t/ticket_to_ride.md) | 60 | 4.61 | 349 |
 | 369 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 607 |
 | 370 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 58 | 4.42 | 629 |
-| 371 | [Heavy Rain](games/h/heavy_rain.md) | 57 | 4.59 | 388 |
-| 372 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 56 | 4.76 | 112 |
-| 372 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 56 | 4.70 | 193 |
+| 370 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 58 | 4.76 | 112 |
+| 372 | [Heavy Rain](games/h/heavy_rain.md) | 57 | 4.59 | 388 |
+| 373 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 56 | 4.70 | 193 |
 | 374 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 55 | 4.64 | 310 |
 | 375 | [Obduction](games/o/obduction.md) | 52 | 4.10 | 841 |
 | 376 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 50 | 4.84 | 47 |
@@ -406,15 +406,15 @@
 | 402 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 39 | 4.86 | 31 |
 | 405 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 38 | 4.51 | 508 |
 | 405 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 38 | 4.72 | 167 |
-| 407 | [Bugsnax](games/b/bugsnax.md) | 37 | 4.85 | 38 |
-| 407 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 37 | 4.45 | 590 |
-| 407 | [The Riftbreaker](games/t/the_riftbreaker.md) | 37 | 4.75 | 127 |
-| 407 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 37 | 4.34 | 709 |
-| 411 | [20XX](games/2/20xx.md) | 36 | 4.61 | 349 |
-| 411 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 36 | 4.60 | 373 |
-| 411 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 36 | 4.57 | 420 |
-| 411 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 36 | 3.72 | 894 |
-| 411 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 36 | 4.48 | 554 |
+| 405 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 38 | 3.72 | 894 |
+| 408 | [Bugsnax](games/b/bugsnax.md) | 37 | 4.85 | 38 |
+| 408 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 37 | 4.45 | 590 |
+| 408 | [The Riftbreaker](games/t/the_riftbreaker.md) | 37 | 4.75 | 127 |
+| 408 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 37 | 4.34 | 709 |
+| 412 | [20XX](games/2/20xx.md) | 36 | 4.61 | 349 |
+| 412 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 36 | 4.60 | 373 |
+| 412 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 36 | 4.57 | 420 |
+| 412 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 36 | 4.48 | 554 |
 | 416 | [FUSER™](games/f/fuser™.md) | 35 | 4.71 | 176 |
 | 416 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 35 | 4.57 | 420 |
 | 416 | [Transport Fever 2](games/t/transport_fever_2.md) | 35 | 4.69 | 212 |
@@ -471,7 +471,7 @@
 | 463 | [Yooka-Laylee](games/y/yooka-laylee.md) | 22 | 4.23 | 778 |
 | 470 | [Black Book](games/b/black_book.md) | 21 | 4.87 | 24 |
 | 470 | [DEMON'S TILT](games/d/demon's_tilt.md) | 21 | 4.51 | 508 |
-| 470 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 21 | 4.44 | 607 |
+| 470 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 21 | 4.43 | 623 |
 | 470 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 21 | 4.55 | 456 |
 | 470 | [We Were Here Forever](games/w/we_were_here_forever.md) | 21 | 4.66 | 273 |
 | 475 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 20 | 4.63 | 324 |

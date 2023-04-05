@@ -2,16 +2,16 @@
 Rating: 4.55 (Ranked 456)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 62  (Ranked 364)  
-Sum: 513 (Ranked 284)  
+Sum: 517 (Ranked 284)  
 Diff (max vs sum): 80
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Diverse Characters | 62 |
+| This game is Great for Quick Sessions | 56 |
 | This game has Competitive Players | 54 |
-| This game is Great for Quick Sessions | 54 |
 | This game is Great for Beginners | 51 |
-| This game is Extremely Fun | 48 |
+| This game is Extremely Fun | 50 |
 | This game is Relaxing | 47 |
 | This game has Quickly Understood Controls | 45 |
 | This game has Amazing Storytelling | 44 |
