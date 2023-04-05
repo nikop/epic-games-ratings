@@ -23,7 +23,7 @@
 | 21 | [Warframe](games/w/warframe.md) | 13,925 | 4.61 | 349 |
 | 22 | [Borderlands 2](games/b/borderlands_2.md) | 13,806 | 4.76 | 112 |
 | 23 | [Maneater](games/m/maneater.md) | 13,365 | 4.49 | 536 |
-| 24 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,108 | 4.60 | 373 |
+| 24 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,112 | 4.60 | 373 |
 | 25 | [League of Legends](games/l/league_of_legends.md) | 12,241 | 4.21 | 787 |
 | 26 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,171 | 4.36 | 688 |
 | 27 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,721 | 4.41 | 638 |
@@ -180,7 +180,7 @@
 | 178 | [Godfall](games/g/godfall.md) | 499 | 4.07 | 852 |
 | 179 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 493 | 4.52 | 496 |
 | 180 | [Terraforming Mars](games/t/terraforming_mars.md) | 487 | 4.54 | 468 |
-| 181 | [FAR CRY 4](games/f/far_cry_4.md) | 474 | 4.66 | 273 |
+| 181 | [FAR CRY 4](games/f/far_cry_4.md) | 476 | 4.66 | 273 |
 | 182 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 466 | 4.82 | 60 |
 | 183 | [Unreal Tournament](games/u/unreal_tournament.md) | 457 | 4.66 | 273 |
 | 184 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 452 | 4.74 | 143 |

@@ -241,7 +241,7 @@
 | [Faeria](games/f/faeria.md) | 4.45 | 590 | 102 | 311 |
 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 481 | 137,147 | 6 |
 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 112 | 56 | 372 |
-| [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 373 | 13,108 | 24 |
+| [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 373 | 13,112 | 24 |
 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.49 | 536 | 63 | 363 |
 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 310 | 55 | 374 |
 | [Family Man](games/f/family_man.md) | 4.16 | 817 | 0 | 479 |
@@ -249,7 +249,7 @@
 | [Far Cry](games/f/far_cry.md) | 4.48 | 554 | 0 | 479 |
 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 768 | 0 | 479 |
 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 349 | 0 | 479 |
-| [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 273 | 474 | 181 |
+| [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 273 | 476 | 181 |
 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 349 | 1,125 | 122 |
 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 607 | 641 | 157 |
 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 638 | 169 | 266 |

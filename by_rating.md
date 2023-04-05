@@ -275,7 +275,7 @@
 | 273 | [Crashlands](games/c/crashlands.md) | 4.66 | 186 | 258 |
 | 273 | [Death's Door](games/d/death's_door.md) | 4.66 | 0 | 479 |
 | 273 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,283 | 118 |
-| 273 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 474 | 181 |
+| 273 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 476 | 181 |
 | 273 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 0 | 479 |
 | 273 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 0 | 479 |
 | 273 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,021 | 128 |
@@ -375,7 +375,7 @@
 | 373 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,193 | 30 |
 | 373 | [Control](games/c/control.md) | 4.60 | 8,202 | 36 |
 | 373 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 73 | 342 |
-| 373 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,108 | 24 |
+| 373 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,112 | 24 |
 | 373 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 116 | 296 |
 | 373 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 36 | 411 |
 | 373 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 62 | 364 |

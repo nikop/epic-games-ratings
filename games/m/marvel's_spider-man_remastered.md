@@ -3,7 +3,7 @@ Rating: 4.87 (Ranked 24)
 Number of Ratings: 14,015  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 11,252  (Ranked 29)  
-Sum: 18,879 (Ranked 52)  
+Sum: 18,880 (Ranked 52)  
 Diff (max vs sum): -23
 ## Awards
 | Award | Number of Ratings |
@@ -18,7 +18,7 @@ Diff (max vs sum): -23
 | This game is Great for Beginners | 856 |
 | This game has Diverse Characters | 829 |
 | This game has Obsessive Gameplay | 678 |
-| This game has a Creative Community | 621 |
+| This game has a Creative Community | 622 |
 | This game is Educational | 150 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
