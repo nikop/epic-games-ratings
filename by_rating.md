@@ -207,32 +207,32 @@
 | 192 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 0 | 480 |
 | 192 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.70 | 73 | 342 |
 | 192 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.70 | 0 | 480 |
+| 192 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 44 | 395 |
 | 192 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 56 | 373 |
 | 192 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 0 | 480 |
 | 192 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 480 |
 | 192 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,141 | 68 |
-| 212 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 106,555 | 8 |
-| 212 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,698 | 75 |
-| 212 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 0 | 480 |
-| 212 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 153,740 | 5 |
-| 212 | [High On Life](games/h/high_on_life.md) | 4.69 | 0 | 480 |
-| 212 | [INSIDE](games/i/inside.md) | 4.69 | 0 | 480 |
-| 212 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,167 | 119 |
-| 212 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 480 |
-| 212 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.69 | 0 | 480 |
-| 212 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 480 |
-| 212 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,130 | 31 |
-| 212 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.69 | 0 | 480 |
-| 212 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 0 | 480 |
-| 212 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 44 | 395 |
-| 212 | [The Witness](games/t/the_witness.md) | 4.69 | 167 | 268 |
-| 212 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 35 | 416 |
-| 212 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 0 | 480 |
-| 212 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 839 | 143 |
-| 212 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 0 | 480 |
-| 212 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 480 |
-| 212 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 0 | 480 |
-| 212 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 752 | 147 |
+| 213 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 106,555 | 8 |
+| 213 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,698 | 75 |
+| 213 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 0 | 480 |
+| 213 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 153,740 | 5 |
+| 213 | [High On Life](games/h/high_on_life.md) | 4.69 | 0 | 480 |
+| 213 | [INSIDE](games/i/inside.md) | 4.69 | 0 | 480 |
+| 213 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,167 | 119 |
+| 213 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 480 |
+| 213 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.69 | 0 | 480 |
+| 213 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 480 |
+| 213 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,130 | 31 |
+| 213 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.69 | 0 | 480 |
+| 213 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 0 | 480 |
+| 213 | [The Witness](games/t/the_witness.md) | 4.69 | 167 | 268 |
+| 213 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 35 | 416 |
+| 213 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 0 | 480 |
+| 213 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 839 | 143 |
+| 213 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 0 | 480 |
+| 213 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 480 |
+| 213 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 0 | 480 |
+| 213 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 752 | 147 |
 | 234 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,314 | 80 |
 | 234 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 2,902 | 87 |
 | 234 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 480 |
@@ -280,7 +280,7 @@
 | 272 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,021 | 128 |
 | 272 | [Rogue Lords](games/r/rogue_lords.md) | 4.66 | 0 | 480 |
 | 272 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 50 | 376 |
-| 272 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 541 | 172 |
+| 272 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 542 | 172 |
 | 272 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 24 | 457 |
 | 272 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 384 | 197 |
 | 272 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,728 | 55 |
@@ -893,5 +893,5 @@
 | 891 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 0 | 480 |
 | 891 | [Potion Permit](games/p/potion_permit.md) | 3.75 | 66 | 358 |
 | 893 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 0 | 480 |
-| 894 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.71 | 38 | 405 |
+| 894 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.72 | 38 | 405 |
 | 895 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 3.64 | 0 | 480 |
