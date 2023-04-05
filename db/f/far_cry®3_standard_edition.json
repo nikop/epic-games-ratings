@@ -1,8 +1,8 @@
 {
   "ID": "hellebore",
   "Name": "Far Cry\u00AE3 Standard Edition",
-  "Rating": 4.69,
-  "Ranking_Rating": 212,
+  "Rating": 4.68,
+  "Ranking_Rating": 235,
   "Ranking_Popularity": 214,
   "Ranking_PopularitySum": 303,
   "NumberOfRatings": 504,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 308,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:24:43.0306746+00:00",
-  "LastChanged": "2023-04-03T17:58:03.4208443+00:00",
+  "LastChanged": "2023-04-05T17:57:31.0545977+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:43.0306749+00:00",
@@ -581,6 +581,12 @@
     {
       "Time": "2023-04-03T17:58:03.4208446+00:00",
       "Rating": 4.69,
+      "NumberOfAwards": 348,
+      "NumberOfAwardsMax": 308
+    },
+    {
+      "Time": "2023-04-05T17:57:31.0545979+00:00",
+      "Rating": 4.68,
       "NumberOfAwards": 348,
       "NumberOfAwardsMax": 308
     }

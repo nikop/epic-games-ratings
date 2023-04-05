@@ -2,13 +2,13 @@
 Rating: 4.80 (Ranked 78)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 288  (Ranked 221)  
-Sum: 311 (Ranked 314)  
-Diff (max vs sum): -93
+Sum: 312 (Ranked 313)  
+Diff (max vs sum): -92
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Great Boss Battles | 288 |
-| This game has Diverse Characters | 23 |
+| This game has Diverse Characters | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |

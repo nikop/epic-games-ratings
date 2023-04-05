@@ -1,6 +1,6 @@
 | Game | Rating | Ranking | Awards | Ranking |
 | ---- | ------ | ------- | ------ | ------- |
-| [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 3.66 | 895 | 0 | 480 |
+| [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 3.64 | 895 | 0 | 480 |
 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.84 | 885 | 41 | 400 |
 | [Chess Ultra](games/c/chess_ultra.md) | 4.31 | 734 | 0 | 480 |
 | [Tchia](games/t/tchia.md) | 4.79 | 92 | 0 | 480 |

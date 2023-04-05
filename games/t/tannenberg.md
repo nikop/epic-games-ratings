@@ -3,7 +3,7 @@ Rating: 4.39 (Ranked 662)
 Number of Ratings: 13,393  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Competitive Players): 320  (Ranked 209)  
-Sum: 2,797 (Ranked 151)  
+Sum: 2,798 (Ranked 151)  
 Diff (max vs sum): 58
 ## Awards
 | Award | Number of Ratings |
@@ -16,7 +16,7 @@ Diff (max vs sum): 58
 | This game has Challenging Combat | 274 |
 | This game is Highly Recommended | 268 |
 | This game has Amazing Characters | 265 |
-| This game has a Competitive Community | 252 |
+| This game has a Competitive Community | 253 |
 | This game has Realistic Visuals | 249 |
 | This game has Amazing Storytelling | 243 |
 | This game is Educational | 99 |
