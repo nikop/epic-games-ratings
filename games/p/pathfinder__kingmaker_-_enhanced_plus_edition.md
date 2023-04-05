@@ -1,5 +1,5 @@
 # Pathfinder: Kingmaker - Enhanced Plus Edition
-Rating: 4.57 (Ranked 419)  
+Rating: 4.57 (Ranked 420)  
 Number of Ratings: 3,868  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 2,973  (Ranked 85)  
