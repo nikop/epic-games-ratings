@@ -1,5 +1,5 @@
 # Super Meat Boy
-Rating: 4.71 (Ranked 176)  
+Rating: 4.70 (Ranked 192)  
 Number of Ratings: 155  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 73  (Ranked 342)  
@@ -76,3 +76,4 @@ Diff (max vs sum): -61
 | 2023-02-20 | 4.71 | - | - |
 | 2023-03-03 | 4.72 | - | - |
 | 2023-03-27 | 4.71 | - | - |
+| 2023-04-05 | 4.70 | - | 73 |

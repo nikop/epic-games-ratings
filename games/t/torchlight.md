@@ -1,5 +1,5 @@
 # Torchlight
-Rating: 4.35 (Ranked 700)  
+Rating: 4.35 (Ranked 701)  
 Number of Ratings: 122  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 20  (Ranked 475)  

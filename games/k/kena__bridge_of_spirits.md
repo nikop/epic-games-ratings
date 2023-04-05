@@ -1,5 +1,5 @@
 # Kena: Bridge of Spirits
-Rating: 4.70 (Ranked 193)  
+Rating: 4.70 (Ranked 192)  
 Number of Ratings: 3,313  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 1,289  (Ranked 117)  

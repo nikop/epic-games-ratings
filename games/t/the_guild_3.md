@@ -1,5 +1,5 @@
 # The Guild 3
-Rating: 4.16 (Ranked 817)  
+Rating: 4.16 (Ranked 818)  
 Number of Ratings: 76  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 480)  

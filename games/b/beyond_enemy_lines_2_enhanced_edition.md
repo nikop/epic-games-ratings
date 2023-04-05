@@ -1,16 +1,12 @@
-# ZOMBI
-Rating: 4.36 (Ranked 689)  
+# Beyond Enemy Lines 2 Enhanced Edition
+Rating: - (Ranked -)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 480)  
-Sum: 0 (Ranked 480)  
-Diff (max vs sum): 0
+Max (): -  (Ranked -)  
+Sum: - (Ranked -)  
+Diff (max vs sum): -
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
-| 2022-11-04 | 4.35 | - | - |
-| 2023-03-08 | 4.38 | - | - |
-| 2023-03-18 | 4.36 | - | - |
-| 2023-03-31 | 4.36 | - | 0 |
