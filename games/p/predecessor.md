@@ -1,5 +1,5 @@
 # Predecessor
-Rating: 4.44 (Ranked 607)  
+Rating: 4.44 (Ranked 608)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 46  (Ranked 384)  
 Sum: 295 (Ranked 316)  

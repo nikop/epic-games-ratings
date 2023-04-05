@@ -3,14 +3,14 @@
   "Name": "Saints Row IV Re-Elected",
   "Rating": 4.4,
   "Ranking_Rating": 653,
-  "Ranking_Popularity": 200,
+  "Ranking_Popularity": 199,
   "Ranking_PopularitySum": 298,
-  "NumberOfAwards": 371,
-  "NumberOfAwardsMax": 371,
+  "NumberOfAwards": 372,
+  "NumberOfAwardsMax": 372,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-12-08T19:57:27.2562206+00:00",
   "FirstSeenRating": "2022-12-09T02:11:05.5025317+00:00",
-  "LastChanged": "2023-04-04T07:57:22.4773905+00:00",
+  "LastChanged": "2023-04-05T19:57:53.5650209+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-09T02:11:05.5025321+00:00",
@@ -111,6 +111,12 @@
       "Rating": 4.4,
       "NumberOfAwards": 371,
       "NumberOfAwardsMax": 371
+    },
+    {
+      "Time": "2023-04-05T19:57:53.565021+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 372,
+      "NumberOfAwardsMax": 372
     }
   ],
   "Tags": [
@@ -118,7 +124,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 371
+      "Count": 372
     }
   ]
 }

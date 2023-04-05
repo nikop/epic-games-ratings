@@ -3,14 +3,14 @@
   "Name": "Ticket to Ride",
   "Rating": 4.61,
   "Ranking_Rating": 349,
-  "Ranking_Popularity": 368,
+  "Ranking_Popularity": 367,
   "Ranking_PopularitySum": 310,
   "NumberOfRatings": 167,
-  "NumberOfAwards": 320,
-  "NumberOfAwardsMax": 60,
+  "NumberOfAwards": 321,
+  "NumberOfAwardsMax": 61,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:20:53.9949813+00:00",
-  "LastChanged": "2022-12-23T21:57:24.434864+00:00",
+  "LastChanged": "2023-04-05T19:57:46.1354093+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:53.9949816+00:00",
@@ -387,6 +387,12 @@
     {
       "Time": "2022-12-23T21:57:24.4348643+00:00",
       "Rating": 4.61
+    },
+    {
+      "Time": "2023-04-05T19:57:46.1354094+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 321,
+      "NumberOfAwardsMax": 61
     }
   ],
   "Tags": [
@@ -394,7 +400,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 60
+      "Count": 61
     },
     {
       "Text": "This game has Obsessive Gameplay",

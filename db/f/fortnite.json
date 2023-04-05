@@ -2,15 +2,15 @@
   "ID": "fn",
   "Name": "Fortnite",
   "Rating": 4.3,
-  "Ranking_Rating": 738,
+  "Ranking_Rating": 739,
   "Ranking_Popularity": 1,
   "Ranking_PopularitySum": 1,
   "NumberOfRatings": 2283925,
-  "NumberOfAwards": 8665633,
+  "NumberOfAwards": 8668066,
   "NumberOfAwardsMax": 1196589,
   "MaxAwardTitle": "Competitive Players",
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
-  "LastChanged": "2023-04-05T18:57:07.5629506+00:00",
+  "LastChanged": "2023-04-05T19:57:22.1555274+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:41.6739551+00:00",
@@ -3929,6 +3929,12 @@
       "Rating": 4.3,
       "NumberOfAwards": 8665633,
       "NumberOfAwardsMax": 1196589
+    },
+    {
+      "Time": "2023-04-05T19:57:22.1555275+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 8668066,
+      "NumberOfAwardsMax": 1196589
     }
   ],
   "Tags": [
@@ -3966,7 +3972,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1045617
+      "Count": 1048050
     },
     {
       "Text": "This game has Amazing Characters",

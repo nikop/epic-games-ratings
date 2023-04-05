@@ -3,14 +3,14 @@
   "Name": "Paladins",
   "Rating": 4.35,
   "Ranking_Rating": 701,
-  "Ranking_Popularity": 83,
+  "Ranking_Popularity": 82,
   "Ranking_PopularitySum": 48,
   "NumberOfRatings": 11687,
-  "NumberOfAwards": 21771,
-  "NumberOfAwardsMax": 3132,
+  "NumberOfAwards": 21778,
+  "NumberOfAwardsMax": 3135,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:17:05.5508389+00:00",
-  "LastChanged": "2023-04-05T17:56:51.6127972+00:00",
+  "LastChanged": "2023-04-05T19:57:16.4490666+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:05.5508391+00:00",
@@ -3280,6 +3280,12 @@
       "Rating": 4.35,
       "NumberOfAwards": 21771,
       "NumberOfAwardsMax": 3132
+    },
+    {
+      "Time": "2023-04-05T19:57:16.4490669+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 21778,
+      "NumberOfAwardsMax": 3135
     }
   ],
   "Tags": [
@@ -3293,7 +3299,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3132
+      "Count": 3135
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3311,7 +3317,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 2866
+      "Count": 2868
     },
     {
       "Text": "This game has Competitive Players",
@@ -3341,7 +3347,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 2142
+      "Count": 2144
     }
   ]
 }

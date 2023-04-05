@@ -1,5 +1,5 @@
 # Totally Reliable Delivery Service Standard Edition
-Rating: 4.44 (Ranked 607)  
+Rating: 4.45 (Ranked 591)  
 Number of Ratings: 112  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 480)  
@@ -81,3 +81,4 @@ Diff (max vs sum): 0
 | 2023-03-02 | 4.43 | - | - |
 | 2023-03-26 | 4.44 | - | - |
 | 2023-03-31 | 4.44 | - | 0 |
+| 2023-04-05 | 4.45 | - | 0 |
