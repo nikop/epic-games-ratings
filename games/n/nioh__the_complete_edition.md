@@ -1,9 +1,9 @@
 # Nioh: The Complete Edition
-Rating: 4.57 (Ranked 420)  
+Rating: 4.57 (Ranked 421)  
 Number of Ratings: 10,807  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 7,045  (Ranked 41)  
-Sum: 16,345 (Ranked 55)  
+Sum: 16,346 (Ranked 55)  
 Diff (max vs sum): -14
 ## Awards
 | Award | Number of Ratings |
@@ -14,7 +14,7 @@ Diff (max vs sum): -14
 | This game has Challenging Combat | 750 |
 | This game is Extremely Fun | 748 |
 | This game has Amazing Storytelling | 734 |
-| This game has Diverse Characters | 728 |
+| This game has Diverse Characters | 729 |
 | This game has Amazing Characters | 700 |
 | This game has Obsessive Gameplay | 489 |
 ## Ratings History

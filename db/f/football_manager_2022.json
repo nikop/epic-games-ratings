@@ -2,15 +2,15 @@
   "ID": "97071dce4a98441d9c0b7f0df92f7b31",
   "Name": "Football Manager 2022",
   "Rating": 4.8,
-  "Ranking_Rating": 79,
+  "Ranking_Rating": 78,
   "Ranking_Popularity": 48,
   "Ranking_PopularitySum": 21,
   "NumberOfRatings": 19160,
-  "NumberOfAwards": 48927,
+  "NumberOfAwards": 48929,
   "NumberOfAwardsMax": 6204,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
-  "LastChanged": "2023-04-05T03:57:13.8455528+00:00",
+  "LastChanged": "2023-04-05T15:57:46.6721075+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:56.4642724+00:00",
@@ -3207,6 +3207,12 @@
       "Rating": 4.8,
       "NumberOfAwards": 48927,
       "NumberOfAwardsMax": 6204
+    },
+    {
+      "Time": "2023-04-05T15:57:46.6721076+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 48929,
+      "NumberOfAwardsMax": 6204
     }
   ],
   "Tags": [
@@ -3244,7 +3250,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 5642
+      "Count": 5644
     },
     {
       "Text": "This game has Competitive Players",

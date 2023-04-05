@@ -2,13 +2,13 @@
 Rating: 4.79 (Ranked 92)  
 ## Popularity (Based on Awards)
 Max (Educational): 340  (Ranked 204)  
-Sum: 2,327 (Ranked 164)  
+Sum: 2,331 (Ranked 164)  
 Diff (max vs sum): 40
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Educational | 340 |
-| This game is Extremely Fun | 330 |
+| This game is Extremely Fun | 334 |
 | This game is Relaxing | 312 |
 | This game is Highly Recommended | 306 |
 | This game has a Creative Community | 283 |

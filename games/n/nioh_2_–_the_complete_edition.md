@@ -1,14 +1,14 @@
 # Nioh 2 – The Complete Edition
-Rating: 4.80 (Ranked 79)  
+Rating: 4.80 (Ranked 78)  
 Number of Ratings: 2,526  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 2,316  (Ranked 91)  
-Sum: 6,650 (Ranked 105)  
+Max (Character Customization): 2,318  (Ranked 91)  
+Sum: 6,652 (Ranked 105)  
 Diff (max vs sum): -14
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 2,316 |
+| This game has Inclusive Character Customization | 2,318 |
 | This game has Great Boss Battles | 1,729 |
 | This game is Extremely Fun | 409 |
 | This game has Diverse Characters | 406 |
@@ -93,4 +93,4 @@ Diff (max vs sum): -14
 | 2023-04-02 | 4.80 | - | 2,314 |
 | 2023-04-03 | 4.80 | - | 2,314 |
 | 2023-04-04 | 4.80 | - | 2,316 |
-| 2023-04-05 | 4.80 | - | 2,316 |
+| 2023-04-05 | 4.80 | - | 2,318 |

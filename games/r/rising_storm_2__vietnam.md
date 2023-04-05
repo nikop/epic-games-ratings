@@ -1,9 +1,9 @@
 # Rising Storm 2: Vietnam
-Rating: 4.50 (Ranked 522)  
+Rating: 4.50 (Ranked 523)  
 Number of Ratings: 2,871  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 625  (Ranked 160)  
-Sum: 5,742 (Ranked 112)  
+Sum: 5,747 (Ranked 112)  
 Diff (max vs sum): 48
 ## Awards
 | Award | Number of Ratings |
@@ -12,10 +12,10 @@ Diff (max vs sum): 48
 | This game is Extremely Fun | 615 |
 | This game has Challenging Combat | 611 |
 | This game has Diverse Characters | 604 |
-| This game is Highly Recommended | 601 |
+| This game is Highly Recommended | 604 |
 | This game has Competitive Players | 586 |
 | This game has Realistic Visuals | 557 |
-| This game has Amazing Storytelling | 548 |
+| This game has Amazing Storytelling | 550 |
 | This game has Amazing Characters | 513 |
 | This game has a Competitive Community | 482 |
 | This game has Obsessive Gameplay | 149 |

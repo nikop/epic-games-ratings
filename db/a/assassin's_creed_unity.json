@@ -1,8 +1,8 @@
 {
   "ID": "72bdc702b4974024a69a5eb718a7a135",
   "Name": "Assassin\u0027s Creed Unity",
-  "Rating": 4.57,
-  "Ranking_Rating": 420,
+  "Rating": 4.58,
+  "Ranking_Rating": 402,
   "Ranking_Popularity": 167,
   "Ranking_PopularitySum": 271,
   "NumberOfRatings": 900,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 553,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:21:14.6538569+00:00",
-  "LastChanged": "2023-04-04T15:57:28.0573985+00:00",
+  "LastChanged": "2023-04-05T15:57:34.576495+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:14.6538572+00:00",
@@ -723,6 +723,12 @@
     {
       "Time": "2023-04-04T15:57:28.0573987+00:00",
       "Rating": 4.57,
+      "NumberOfAwards": 595,
+      "NumberOfAwardsMax": 553
+    },
+    {
+      "Time": "2023-04-05T15:57:34.5764951+00:00",
+      "Rating": 4.58,
       "NumberOfAwards": 595,
       "NumberOfAwardsMax": 553
     }

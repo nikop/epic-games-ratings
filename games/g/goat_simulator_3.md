@@ -2,7 +2,7 @@
 Rating: 4.85 (Ranked 38)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 264  (Ranked 229)  
-Sum: 2,318 (Ranked 165)  
+Sum: 2,319 (Ranked 165)  
 Diff (max vs sum): 64
 ## Awards
 | Award | Number of Ratings |
@@ -16,7 +16,7 @@ Diff (max vs sum): 64
 | This game is Relaxing | 228 |
 | This game has Amazing Storytelling | 221 |
 | This game has a Silly Community | 199 |
-| This game has Easy Combat | 187 |
+| This game has Easy Combat | 188 |
 | This game is Educational | 158 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
