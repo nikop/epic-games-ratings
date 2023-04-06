@@ -1,5 +1,5 @@
 # Rage 2
-Rating: 4.28 (Ranked 754)  
+Rating: 4.28 (Ranked 755)  
 Number of Ratings: 4,311  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 2,413  (Ranked 88)  
