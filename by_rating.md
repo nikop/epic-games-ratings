@@ -14,8 +14,8 @@
 | 8 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 480 |
 | 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,583 | 43 |
 | 13 | [Firework](games/f/firework.md) | 4.89 | 0 | 480 |
-| 13 | [God of War](games/g/god_of_war.md) | 4.89 | 3,908 | 72 |
-| 13 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 130,917 | 7 |
+| 13 | [God of War](games/g/god_of_war.md) | 4.89 | 3,912 | 72 |
+| 13 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 131,203 | 7 |
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 393 | 193 |
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 14,268 | 20 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 126 | 288 |
@@ -127,7 +127,7 @@
 | 113 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 480 |
 | 113 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 0 | 480 |
 | 127 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 22 | 463 |
-| 127 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,574 | 63 |
+| 127 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,588 | 63 |
 | 127 | [Cave Story+](games/c/cave_story+.md) | 4.75 | 84 | 331 |
 | 127 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,133 | 83 |
 | 127 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 340 | 205 |
@@ -269,7 +269,7 @@
 | 254 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 480 |
 | 254 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 83 | 334 |
 | 254 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 480 |
-| 254 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,300 | 92 |
+| 254 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,305 | 92 |
 | 254 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 91 | 325 |
 | 272 | [Crashlands](games/c/crashlands.md) | 4.66 | 186 | 258 |
 | 272 | [Death's Door](games/d/death's_door.md) | 4.66 | 0 | 480 |
@@ -588,7 +588,7 @@
 | 577 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.46 | 0 | 480 |
 | 577 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 6,332 | 45 |
 | 577 | [The Surge](games/t/the_surge.md) | 4.46 | 26 | 451 |
-| 577 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 275 | 223 |
+| 577 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 276 | 223 |
 | 577 | [WRC Generations](games/w/wrc_generations.md) | 4.46 | 0 | 480 |
 | 591 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 0 | 480 |
 | 591 | [ATOM RPG](games/a/atom_rpg.md) | 4.45 | 46 | 385 |

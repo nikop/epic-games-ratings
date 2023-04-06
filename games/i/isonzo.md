@@ -3,7 +3,7 @@ Rating: 4.56 (Ranked 437)
 Number of Ratings: 98  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 29  (Ranked 440)  
-Sum: 223 (Ranked 339)  
+Sum: 224 (Ranked 339)  
 Diff (max vs sum): 101
 ## Awards
 | Award | Number of Ratings |
@@ -16,7 +16,7 @@ Diff (max vs sum): 101
 | This game has Diverse Characters | 24 |
 | This game has Realistic Visuals | 24 |
 | This game has Amazing Characters | 23 |
-| This game has Competitive Players | 21 |
+| This game has Competitive Players | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
