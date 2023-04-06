@@ -1,8 +1,8 @@
 {
   "ID": "b79cdb6e07ea4ce9a82c00a0fb079ca5",
   "Name": "Barony",
-  "Rating": 4.7,
-  "Ranking_Rating": 192,
+  "Rating": 4.71,
+  "Ranking_Rating": 176,
   "Ranking_Popularity": 352,
   "Ranking_PopularitySum": 284,
   "NumberOfRatings": 763,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 69,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:23:54.5508638+00:00",
-  "LastChanged": "2023-04-02T18:57:50.3174735+00:00",
+  "LastChanged": "2023-04-06T18:57:53.8928698+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:54.550864+00:00",
@@ -779,6 +779,12 @@
     {
       "Time": "2023-04-02T18:57:50.3174736+00:00",
       "Rating": 4.7,
+      "NumberOfAwards": 526,
+      "NumberOfAwardsMax": 69
+    },
+    {
+      "Time": "2023-04-06T18:57:53.8928699+00:00",
+      "Rating": 4.71,
       "NumberOfAwards": 526,
       "NumberOfAwardsMax": 69
     }

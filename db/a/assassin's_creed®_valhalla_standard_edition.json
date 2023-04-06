@@ -2,15 +2,15 @@
   "ID": "400347196e674de89c23cc2a7f2121db",
   "Name": "Assassin\u0027s Creed\u00AE Valhalla Standard Edition",
   "Rating": 4.6,
-  "Ranking_Rating": 374,
+  "Ranking_Rating": 373,
   "Ranking_Popularity": 30,
   "Ranking_PopularitySum": 41,
   "NumberOfRatings": 12317,
-  "NumberOfAwards": 25868,
+  "NumberOfAwards": 25871,
   "NumberOfAwardsMax": 11206,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2023-04-06T16:57:18.3565996+00:00",
+  "LastChanged": "2023-04-06T18:57:33.9756212+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:17.7160411+00:00",
@@ -3379,6 +3379,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 25868,
       "NumberOfAwardsMax": 11206
+    },
+    {
+      "Time": "2023-04-06T18:57:33.9756214+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 25871,
+      "NumberOfAwardsMax": 11206
     }
   ],
   "Tags": [
@@ -3422,7 +3428,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 899
+      "Count": 902
     },
     {
       "Text": "This game has Quickly Understood Controls",

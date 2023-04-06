@@ -1,5 +1,5 @@
 # Remnant: From the Ashes
-Rating: 4.60 (Ranked 374)  
+Rating: 4.60 (Ranked 373)  
 Number of Ratings: 12,107  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 8,845  (Ranked 34)  

@@ -1,16 +1,16 @@
 {
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
-  "Rating": 3.85,
-  "Ranking_Rating": 885,
+  "Rating": 3.86,
+  "Ranking_Rating": 884,
   "Ranking_Popularity": 376,
-  "Ranking_PopularitySum": 342,
-  "NumberOfAwards": 210,
+  "Ranking_PopularitySum": 339,
+  "NumberOfAwards": 225,
   "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
-  "LastChanged": "2023-04-06T16:56:59.4897321+00:00",
+  "LastChanged": "2023-04-06T18:57:06.8554794+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-29T02:58:45.3340124+00:00",
@@ -323,6 +323,12 @@
       "Rating": 3.85,
       "NumberOfAwards": 210,
       "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2023-04-06T18:57:06.8554868+00:00",
+      "Rating": 3.86,
+      "NumberOfAwards": 225,
+      "NumberOfAwardsMax": 51
     }
   ],
   "Tags": [
@@ -348,7 +354,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 32
+      "Count": 47
     },
     {
       "Text": "This game has Challenging Combat",
