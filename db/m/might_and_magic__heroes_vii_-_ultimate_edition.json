@@ -1,8 +1,8 @@
 {
   "ID": "55d082ca99b64bd9bdb25754eb56a135",
   "Name": "Might and Magic: Heroes VII - Ultimate Edition",
-  "Rating": 4.47,
-  "Ranking_Rating": 565,
+  "Rating": 4.46,
+  "Ranking_Rating": 576,
   "Ranking_Popularity": 457,
   "Ranking_PopularitySum": 432,
   "NumberOfRatings": 96,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 24,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:25:09.0043612+00:00",
-  "LastChanged": "2023-04-04T14:58:15.4866521+00:00",
+  "LastChanged": "2023-04-06T17:57:50.7669025+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:09.0043615+00:00",
@@ -339,6 +339,12 @@
     {
       "Time": "2023-04-04T14:58:15.4866524+00:00",
       "Rating": 4.47,
+      "NumberOfAwards": 44,
+      "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2023-04-06T17:57:50.7669025+00:00",
+      "Rating": 4.46,
       "NumberOfAwards": 44,
       "NumberOfAwardsMax": 24
     }
