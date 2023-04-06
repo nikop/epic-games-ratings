@@ -257,7 +257,7 @@
 | 254 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 635 | 159 |
 | 254 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 71 | 347 |
 | 254 | [Card Shark](games/c/card_shark.md) | 4.67 | 0 | 480 |
-| 254 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,405 | 44 |
+| 254 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,409 | 44 |
 | 254 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 480 |
 | 254 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 0 | 480 |
 | 254 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.67 | 0 | 480 |
@@ -343,7 +343,7 @@
 | 333 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 480 |
 | 333 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.62 | 0 | 480 |
 | 333 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 578 | 163 |
-| 333 | [Prey](games/p/prey.md) | 4.62 | 5,487 | 56 |
+| 333 | [Prey](games/p/prey.md) | 4.62 | 5,489 | 56 |
 | 333 | [Road 96](games/r/road_96.md) | 4.62 | 0 | 480 |
 | 333 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 70 | 348 |
 | 333 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.62 | 0 | 480 |

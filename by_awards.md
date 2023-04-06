@@ -43,7 +43,7 @@
 | 40 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,053 | 4.57 | 421 |
 | 42 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 629 |
 | 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,583 | 4.89 | 13 |
-| 44 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 6,405 | 4.67 | 254 |
+| 44 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 6,409 | 4.67 | 254 |
 | 45 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,332 | 4.46 | 578 |
 | 46 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,317 | 4.74 | 143 |
 | 47 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 6,267 | 4.23 | 779 |
@@ -55,7 +55,7 @@
 | 53 | [Sifu](games/s/sifu.md) | 5,829 | 4.81 | 67 |
 | 54 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,772 | 4.79 | 92 |
 | 55 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,728 | 4.66 | 272 |
-| 56 | [Prey](games/p/prey.md) | 5,487 | 4.62 | 333 |
+| 56 | [Prey](games/p/prey.md) | 5,489 | 4.62 | 333 |
 | 57 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,433 | 4.85 | 38 |
 | 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,392 | 4.82 | 60 |
 | 59 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4,937 | 4.68 | 234 |

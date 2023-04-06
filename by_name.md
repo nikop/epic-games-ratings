@@ -164,7 +164,7 @@
 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 523 | 0 | 480 |
 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 818 | 604 | 161 |
 | [Dark Light](games/d/dark_light.md) | 4.33 | 718 | 0 | 480 |
-| [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 254 | 6,405 | 44 |
+| [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 254 | 6,409 | 44 |
 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 127 | 3,133 | 83 |
 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 508 | 38 | 405 |
 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 349 | 372 | 199 |
@@ -544,7 +544,7 @@
 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 591 | 844 | 142 |
 | [Predecessor](games/p/predecessor.md) | 4.45 | 591 | 46 | 385 |
 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.48 | 554 | 0 | 480 |
-| [Prey](games/p/prey.md) | 4.62 | 333 | 5,487 | 56 |
+| [Prey](games/p/prey.md) | 4.62 | 333 | 5,489 | 56 |
 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 349 | 396 | 191 |
 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 866 | 1,348 | 116 |
 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 653 | 0 | 480 |
