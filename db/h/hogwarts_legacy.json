@@ -2,15 +2,15 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "Rating": 4.78,
-  "Ranking_Rating": 101,
+  "Ranking_Rating": 100,
   "Ranking_Popularity": 18,
   "Ranking_PopularitySum": 35,
-  "NumberOfAwards": 29584,
+  "NumberOfAwards": 29590,
   "NumberOfAwardsMax": 16769,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
-  "LastChanged": "2023-04-06T13:57:05.4702878+00:00",
+  "LastChanged": "2023-04-06T16:57:04.042094+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-10T20:57:09.6904581+00:00",
@@ -395,6 +395,12 @@
       "Rating": 4.78,
       "NumberOfAwards": 29584,
       "NumberOfAwardsMax": 16769
+    },
+    {
+      "Time": "2023-04-06T16:57:04.0420941+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 29590,
+      "NumberOfAwardsMax": 16769
     }
   ],
   "Tags": [
@@ -432,7 +438,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 589
+      "Count": 595
     },
     {
       "Text": "This game has Diverse Characters",
