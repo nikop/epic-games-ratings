@@ -1,5 +1,5 @@
 # SnowRunner
-Rating: 4.76 (Ranked 112)  
+Rating: 4.76 (Ranked 113)  
 Number of Ratings: 21,349  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 7,402  (Ranked 39)  

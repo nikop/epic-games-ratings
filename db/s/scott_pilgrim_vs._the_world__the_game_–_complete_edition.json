@@ -1,8 +1,8 @@
 {
   "ID": "a443faa3d6304a7dacd7456e0f6b0fa6",
   "Name": "Scott Pilgrim vs. The World: The Game \u2013 Complete Edition",
-  "Rating": 4.76,
-  "Ranking_Rating": 112,
+  "Rating": 4.77,
+  "Ranking_Rating": 106,
   "Ranking_Popularity": 421,
   "Ranking_PopularitySum": 442,
   "NumberOfRatings": 99,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 33,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:29:24.6298445+00:00",
-  "LastChanged": "2023-01-10T17:01:11.4000558+00:00",
+  "LastChanged": "2023-04-06T08:57:52.4983829+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:24.6298447+00:00",
@@ -250,6 +250,12 @@
     {
       "Time": "2023-01-10T17:01:11.4000559+00:00",
       "Rating": 4.76
+    },
+    {
+      "Time": "2023-04-06T08:57:52.4983832+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 33,
+      "NumberOfAwardsMax": 33
     }
   ],
   "Tags": [
