@@ -1,5 +1,5 @@
 # Dishonored - Definitive Edition
-Rating: 4.74 (Ranked 143)  
+Rating: 4.74 (Ranked 142)  
 Number of Ratings: 234  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 459  (Ranked 183)  
