@@ -1,5 +1,5 @@
 # Suzerain
-Rating: 4.73 (Ranked 154)  
+Rating: 4.73 (Ranked 153)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 480)  
 Sum: 0 (Ranked 480)  
