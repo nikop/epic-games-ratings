@@ -345,7 +345,7 @@
 | 333 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 578 | 163 |
 | 333 | [Prey](games/p/prey.md) | 4.62 | 5,489 | 56 |
 | 333 | [Road 96](games/r/road_96.md) | 4.62 | 0 | 480 |
-| 333 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 70 | 348 |
+| 333 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 70 | 349 |
 | 333 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.62 | 0 | 480 |
 | 333 | [Transistor](games/t/transistor.md) | 4.62 | 0 | 480 |
 | 349 | [20XX](games/2/20xx.md) | 4.61 | 36 | 412 |
@@ -413,7 +413,7 @@
 | 402 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 201 | 251 |
 | 402 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 50 | 376 |
 | 402 | [The Medium](games/t/the_medium.md) | 4.58 | 0 | 480 |
-| 402 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.58 | 70 | 348 |
+| 402 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.58 | 71 | 347 |
 | 402 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 158 | 275 |
 | 402 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 244 | 234 |
 | 402 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 958 | 137 |
@@ -496,7 +496,7 @@
 | 481 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 253 | 232 |
 | 481 | [Verdun](games/v/verdun.md) | 4.53 | 93 | 320 |
 | 496 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 718 | 151 |
-| 496 | [First Class Trouble](games/f/first_class_trouble.md) | 4.52 | 70 | 348 |
+| 496 | [First Class Trouble](games/f/first_class_trouble.md) | 4.52 | 70 | 349 |
 | 496 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 493 | 179 |
 | 496 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 97 | 314 |
 | 496 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 147 | 279 |
@@ -665,7 +665,7 @@
 | 662 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 0 | 480 |
 | 662 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 480 |
 | 662 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 0 | 480 |
-| 662 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,623 | 28 |
+| 662 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,625 | 28 |
 | 662 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 0 | 480 |
 | 662 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.39 | 0 | 480 |
 | 662 | [Tacoma](games/t/tacoma.md) | 4.39 | 0 | 480 |
@@ -840,7 +840,7 @@
 | 837 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.11 | 0 | 480 |
 | 837 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.11 | 0 | 480 |
 | 837 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 0 | 480 |
-| 841 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 70 | 348 |
+| 841 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 70 | 349 |
 | 841 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 0 | 480 |
 | 841 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 375 |
 | 841 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 0 | 480 |

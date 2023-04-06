@@ -42,7 +42,7 @@
 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 421 | 0 | 480 |
 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 537 | 61 | 367 |
 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 388 | 55,384 | 10 |
-| [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 841 | 70 | 348 |
+| [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 841 | 70 | 349 |
 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 31 | 0 | 480 |
 | [Ashen](games/a/ashen.md) | 4.34 | 710 | 0 | 480 |
 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.67 | 254 | 0 | 480 |
@@ -268,7 +268,7 @@
 | [Filament](games/f/filament.md) | 4.32 | 726 | 547 | 168 |
 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 38 | 5,433 | 57 |
 | [Firework](games/f/firework.md) | 4.89 | 13 | 0 | 480 |
-| [First Class Trouble](games/f/first_class_trouble.md) | 4.52 | 496 | 70 | 348 |
+| [First Class Trouble](games/f/first_class_trouble.md) | 4.52 | 496 | 70 | 349 |
 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.36 | 689 | 0 | 480 |
 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 456 | 21 | 471 |
 | [Flatout](games/f/flatout.md) | 4.19 | 804 | 0 | 480 |
@@ -470,7 +470,7 @@
 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 234 | 545 | 169 |
 | [MythForce](games/m/mythforce.md) | 4.51 | 507 | 32 | 426 |
 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 804 | 178,959 | 4 |
-| [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 662 | 11,623 | 28 |
+| [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 662 | 11,625 | 28 |
 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.11 | 837 | 0 | 480 |
 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 662 | 0 | 480 |
 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.69 | 213 | 0 | 480 |
@@ -741,7 +741,7 @@
 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 8 | 0 | 480 |
 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 192 | 0 | 480 |
 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 38 | 0 | 480 |
-| [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 333 | 70 | 348 |
+| [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 333 | 70 | 349 |
 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 54 | 0 | 480 |
 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 3.64 | 895 | 0 | 480 |
 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 609 | 0 | 480 |
@@ -758,7 +758,7 @@
 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 127 | 37 | 408 |
 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.72 | 894 | 38 | 405 |
 | [The Silent Age](games/t/the_silent_age.md) | 4.33 | 718 | 0 | 480 |
-| [The Sims™ 4](games/t/the_sims™_4.md) | 4.58 | 402 | 70 | 348 |
+| [The Sims™ 4](games/t/the_sims™_4.md) | 4.58 | 402 | 71 | 347 |
 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 769 | 0 | 480 |
 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 167 | 0 | 480 |
 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 813 | 0 | 480 |

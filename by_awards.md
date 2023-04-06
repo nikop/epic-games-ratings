@@ -27,7 +27,7 @@
 | 25 | [League of Legends](games/l/league_of_legends.md) | 12,262 | 4.21 | 787 |
 | 26 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,172 | 4.36 | 689 |
 | 27 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,727 | 4.41 | 638 |
-| 28 | [NBA 2K21](games/n/nba_2k21.md) | 11,623 | 4.39 | 662 |
+| 28 | [NBA 2K21](games/n/nba_2k21.md) | 11,625 | 4.39 | 662 |
 | 29 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,256 | 4.87 | 24 |
 | 30 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 11,206 | 4.60 | 374 |
 | 31 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,130 | 4.69 | 213 |
@@ -347,10 +347,10 @@
 | 342 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 73 | 4.36 | 689 |
 | 346 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 72 | 4.41 | 638 |
 | 347 | [Carcassonne](games/c/carcassonne.md) | 71 | 4.67 | 254 |
-| 348 | [Armored Warfare](games/a/armored_warfare.md) | 70 | 4.10 | 841 |
-| 348 | [First Class Trouble](games/f/first_class_trouble.md) | 70 | 4.52 | 496 |
-| 348 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 70 | 4.62 | 333 |
-| 348 | [The Sims™ 4](games/t/the_sims™_4.md) | 70 | 4.58 | 402 |
+| 347 | [The Sims™ 4](games/t/the_sims™_4.md) | 71 | 4.58 | 402 |
+| 349 | [Armored Warfare](games/a/armored_warfare.md) | 70 | 4.10 | 841 |
+| 349 | [First Class Trouble](games/f/first_class_trouble.md) | 70 | 4.52 | 496 |
+| 349 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 70 | 4.62 | 333 |
 | 352 | [Barony](games/b/barony.md) | 69 | 4.70 | 192 |
 | 352 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 69 | 4.68 | 234 |
 | 352 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 69 | 4.56 | 437 |
