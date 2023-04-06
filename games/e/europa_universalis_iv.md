@@ -3,14 +3,14 @@ Rating: 4.68 (Ranked 235)
 Number of Ratings: 8,414  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Educational): 4,945  (Ranked 59)  
-Sum: 41,066 (Ranked 25)  
+Sum: 41,073 (Ranked 25)  
 Diff (max vs sum): 34
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Educational | 4,945 |
 | This game has Challenging Combat | 4,772 |
-| This game is Highly Recommended | 4,737 |
+| This game is Highly Recommended | 4,744 |
 | This game is Extremely Fun | 4,713 |
 | This game has Diverse Characters | 4,655 |
 | This game is Relaxing | 4,612 |

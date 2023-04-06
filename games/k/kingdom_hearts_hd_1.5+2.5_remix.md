@@ -1,5 +1,5 @@
 # KINGDOM HEARTS HD 1.5+2.5 ReMIX
-Rating: 4.82 (Ranked 60)  
+Rating: 4.82 (Ranked 61)  
 Number of Ratings: 4,283  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Amazing Characters): 468  (Ranked 182)  

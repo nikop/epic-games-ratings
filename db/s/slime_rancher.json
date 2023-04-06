@@ -1,8 +1,8 @@
 {
   "ID": "corydalis",
   "Name": "Slime Rancher",
-  "Rating": 4.82,
-  "Ranking_Rating": 60,
+  "Rating": 4.83,
+  "Ranking_Rating": 54,
   "Ranking_Popularity": 196,
   "Ranking_PopularitySum": 146,
   "NumberOfRatings": 5898,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 385,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:22:59.345324+00:00",
-  "LastChanged": "2023-04-04T13:06:16.7246272+00:00",
+  "LastChanged": "2023-04-06T15:57:32.4617282+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:59.3453245+00:00",
@@ -2242,6 +2242,12 @@
     {
       "Time": "2023-04-04T13:06:16.7246274+00:00",
       "Rating": 4.82,
+      "NumberOfAwards": 2987,
+      "NumberOfAwardsMax": 385
+    },
+    {
+      "Time": "2023-04-06T15:57:32.4617283+00:00",
+      "Rating": 4.83,
       "NumberOfAwards": 2987,
       "NumberOfAwardsMax": 385
     }

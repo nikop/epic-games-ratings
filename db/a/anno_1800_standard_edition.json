@@ -2,15 +2,15 @@
   "ID": "oregano",
   "Name": "Anno 1800 Standard Edition",
   "Rating": 4.82,
-  "Ranking_Rating": 60,
+  "Ranking_Rating": 61,
   "Ranking_Popularity": 121,
   "Ranking_PopularitySum": 80,
   "NumberOfRatings": 4392,
-  "NumberOfAwards": 8952,
+  "NumberOfAwards": 8953,
   "NumberOfAwardsMax": 1157,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2023-04-06T10:57:05.2664114+00:00",
+  "LastChanged": "2023-04-06T15:57:05.5779604+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:47.4504915+00:00",
@@ -2914,6 +2914,12 @@
       "Rating": 4.82,
       "NumberOfAwards": 8952,
       "NumberOfAwardsMax": 1157
+    },
+    {
+      "Time": "2023-04-06T15:57:05.5779606+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 8953,
+      "NumberOfAwardsMax": 1157
     }
   ],
   "Tags": [
@@ -2981,7 +2987,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 598
+      "Count": 599
     }
   ]
 }

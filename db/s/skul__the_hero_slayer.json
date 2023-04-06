@@ -3,14 +3,14 @@
   "Name": "Skul: The Hero Slayer",
   "Rating": 4.7,
   "Ranking_Rating": 192,
-  "Ranking_Popularity": 303,
-  "Ranking_PopularitySum": 238,
+  "Ranking_Popularity": 302,
+  "Ranking_PopularitySum": 237,
   "NumberOfRatings": 546,
-  "NumberOfAwards": 833,
-  "NumberOfAwardsMax": 111,
+  "NumberOfAwards": 834,
+  "NumberOfAwardsMax": 112,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
-  "LastChanged": "2023-04-03T14:59:08.1838527+00:00",
+  "LastChanged": "2023-04-06T15:58:19.3048459+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:36.7483718+00:00",
@@ -516,6 +516,12 @@
       "Rating": 4.7,
       "NumberOfAwards": 833,
       "NumberOfAwardsMax": 111
+    },
+    {
+      "Time": "2023-04-06T15:58:19.3048472+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 834,
+      "NumberOfAwardsMax": 112
     }
   ],
   "Tags": [
@@ -583,7 +589,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 111
+      "Count": 112
     }
   ]
 }
