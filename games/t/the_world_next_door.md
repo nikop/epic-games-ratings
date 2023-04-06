@@ -1,5 +1,5 @@
 # The World Next Door
-Rating: 4.10 (Ranked 841)  
+Rating: 4.10 (Ranked 842)  
 Number of Ratings: 38  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 480)  

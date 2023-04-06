@@ -1,5 +1,5 @@
 # Werewolf: The Apocalypse – Earthblood
-Rating: 4.10 (Ranked 841)  
+Rating: 4.11 (Ranked 837)  
 Number of Ratings: 62  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 480)  
@@ -58,3 +58,4 @@ Diff (max vs sum): 0
 | 2023-03-16 | 4.09 | - | - |
 | 2023-03-28 | 4.10 | - | - |
 | 2023-03-31 | 4.10 | - | 0 |
+| 2023-04-06 | 4.11 | - | 0 |

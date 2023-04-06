@@ -3,13 +3,13 @@ Rating: 4.74 (Ranked 143)
 Number of Ratings: 234  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 459  (Ranked 183)  
-Sum: 479 (Ranked 287)  
+Sum: 480 (Ranked 287)  
 Diff (max vs sum): -104
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Great Boss Battles | 459 |
-| This game has Amazing Storytelling | 20 |
+| This game has Amazing Storytelling | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -93,3 +93,4 @@ Diff (max vs sum): -104
 | 2023-04-01 | 4.74 | - | 447 |
 | 2023-04-03 | 4.74 | - | 452 |
 | 2023-04-05 | 4.74 | - | 459 |
+| 2023-04-06 | 4.74 | - | 459 |
