@@ -1,14 +1,12 @@
-# Hercule Poirot - The First Cases
-Rating: 4.30 (Ranked 738)  
+# Reverie - Sweet As Edition
+Rating: - (Ranked -)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 480)  
-Sum: 0 (Ranked 480)  
-Diff (max vs sum): 0
+Max (): -  (Ranked -)  
+Sum: - (Ranked -)  
+Diff (max vs sum): -
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
-| 2023-01-28 | 4.30 | - | - |
-| 2023-03-31 | 4.30 | - | 0 |

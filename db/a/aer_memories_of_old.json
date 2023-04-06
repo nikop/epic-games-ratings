@@ -1,15 +1,15 @@
 {
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
-  "Rating": 4.47,
-  "Ranking_Rating": 565,
+  "Rating": 4.46,
+  "Ranking_Rating": 577,
   "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 480,
   "NumberOfRatings": 170,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
-  "LastChanged": "2023-04-01T11:58:41.7500765+00:00",
+  "LastChanged": "2023-04-06T11:58:32.7016297+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:57.2410234+00:00",
@@ -339,6 +339,12 @@
     {
       "Time": "2023-04-01T11:58:41.7500768+00:00",
       "Rating": 4.47,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-06T11:58:32.70163+00:00",
+      "Rating": 4.46,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
