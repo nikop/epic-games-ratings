@@ -3,14 +3,14 @@
   "Name": "Fallout Tactics: Brotherhood of Steel",
   "Rating": 4.49,
   "Ranking_Rating": 537,
-  "Ranking_Popularity": 363,
-  "Ranking_PopularitySum": 416,
-  "NumberOfAwards": 63,
-  "NumberOfAwardsMax": 63,
+  "Ranking_Popularity": 362,
+  "Ranking_PopularitySum": 415,
+  "NumberOfAwards": 64,
+  "NumberOfAwardsMax": 64,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-10-20T22:01:33.5009817+00:00",
   "FirstSeenRating": "2022-12-23T20:57:41.5501633+00:00",
-  "LastChanged": "2023-04-03T04:58:06.2050208+00:00",
+  "LastChanged": "2023-04-06T06:58:23.6163012+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-23T20:57:41.5501636+00:00",
@@ -199,6 +199,12 @@
       "Rating": 4.49,
       "NumberOfAwards": 63,
       "NumberOfAwardsMax": 63
+    },
+    {
+      "Time": "2023-04-06T06:58:23.6163018+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 64,
+      "NumberOfAwardsMax": 64
     }
   ],
   "Tags": [
@@ -206,7 +212,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 63
+      "Count": 64
     }
   ]
 }

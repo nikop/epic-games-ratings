@@ -1,5 +1,5 @@
 # Alan Wake Remastered
-Rating: 4.56 (Ranked 436)  
+Rating: 4.57 (Ranked 421)  
 Number of Ratings: 524  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 480)  
@@ -88,3 +88,4 @@ Diff (max vs sum): 0
 | 2023-02-27 | 4.57 | - | - |
 | 2023-03-26 | 4.56 | - | - |
 | 2023-03-31 | 4.56 | - | 0 |
+| 2023-04-06 | 4.57 | - | 0 |

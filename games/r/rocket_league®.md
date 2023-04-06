@@ -1,9 +1,9 @@
 # Rocket League®
-Rating: 4.51 (Ranked 508)  
+Rating: 4.51 (Ranked 507)  
 Number of Ratings: 366,020  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Quick Sessions): 372,155  (Ranked 2)  
-Sum: 2,561,109 (Ranked 2)  
+Sum: 2,561,767 (Ranked 2)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
@@ -13,7 +13,7 @@ Diff (max vs sum): 0
 | This game has Quickly Understood Controls | 299,759 |
 | This game is Extremely Fun | 293,162 |
 | This game is Highly Recommended | 281,172 |
-| This game has Challenging Combat | 271,086 |
+| This game has Challenging Combat | 271,744 |
 | This game has Amazing Storytelling | 244,490 |
 | This game has a Competitive Community | 240,910 |
 | This game has Amazing Characters | 230,178 |
