@@ -5,12 +5,12 @@
   "Ranking_Rating": 456,
   "Ranking_Popularity": 363,
   "Ranking_PopularitySum": 284,
-  "NumberOfAwards": 521,
+  "NumberOfAwards": 523,
   "NumberOfAwardsMax": 63,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-04-05T10:57:02.3155547+00:00",
+  "LastChanged": "2023-04-06T02:57:09.0361334+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-21T06:57:02.0735411+00:00",
@@ -581,6 +581,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 521,
       "NumberOfAwardsMax": 63
+    },
+    {
+      "Time": "2023-04-06T02:57:09.0361336+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 523,
+      "NumberOfAwardsMax": 63
     }
   ],
   "Tags": [
@@ -624,7 +630,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 41
+      "Count": 43
     },
     {
       "Text": "This game has Amazing Storytelling",
