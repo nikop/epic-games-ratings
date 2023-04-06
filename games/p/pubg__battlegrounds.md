@@ -1,13 +1,13 @@
 # PUBG: BATTLEGROUNDS
 Rating: 3.98 (Ranked 866)  
 ## Popularity (Based on Awards)
-Max (Competitive Players): 1,348  (Ranked 116)  
-Sum: 4,376 (Ranked 128)  
-Diff (max vs sum): -12
+Max (Competitive Players): 1,363  (Ranked 114)  
+Sum: 4,391 (Ranked 128)  
+Diff (max vs sum): -14
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Competitive Players | 1,348 |
+| This game has Competitive Players | 1,363 |
 | This game has Challenging Combat | 1,175 |
 | This game has Quickly Understood Controls | 1,115 |
 | This game is Highly Recommended | 1,070 |
@@ -56,3 +56,4 @@ Diff (max vs sum): -12
 | 2023-04-03 | 3.98 | - | 1,323 |
 | 2023-04-04 | 3.98 | - | 1,336 |
 | 2023-04-05 | 3.98 | - | 1,348 |
+| 2023-04-06 | 3.98 | - | 1,363 |
