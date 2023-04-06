@@ -1,8 +1,8 @@
 {
   "ID": "f93166410da745b58b1613db66141c02",
   "Name": "ELEX",
-  "Rating": 4.42,
-  "Ranking_Rating": 629,
+  "Rating": 4.41,
+  "Ranking_Rating": 636,
   "Ranking_Popularity": 459,
   "Ranking_PopularitySum": 462,
   "NumberOfRatings": 58,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 23,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:26:49.7646389+00:00",
-  "LastChanged": "2023-02-26T23:58:04.3589703+00:00",
+  "LastChanged": "2023-04-06T20:58:02.9563947+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-25T10:01:57.4129818+00:00",
@@ -243,6 +243,12 @@
     {
       "Time": "2023-02-26T23:58:04.3589706+00:00",
       "Rating": 4.42
+    },
+    {
+      "Time": "2023-04-06T20:58:02.9563949+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 23,
+      "NumberOfAwardsMax": 23
     }
   ],
   "Tags": [

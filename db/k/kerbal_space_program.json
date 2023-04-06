@@ -2,15 +2,15 @@
   "ID": "ca0530b485754032be50cb6f27be0c2c",
   "Name": "Kerbal Space Program",
   "Rating": 4.79,
-  "Ranking_Rating": 92,
+  "Ranking_Rating": 91,
   "Ranking_Popularity": 204,
   "Ranking_PopularitySum": 161,
-  "NumberOfAwards": 2359,
+  "NumberOfAwards": 2363,
   "NumberOfAwardsMax": 345,
   "MaxAwardTitle": "Educational",
   "FirstSeen": "2023-01-05T18:57:29.6336645+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
-  "LastChanged": "2023-04-06T18:57:20.4961636+00:00",
+  "LastChanged": "2023-04-06T20:57:11.958904+00:00",
   "RatingHistory": [
     {
       "Time": "2023-01-06T04:57:07.6192795+00:00",
@@ -291,6 +291,12 @@
       "Rating": 4.79,
       "NumberOfAwards": 2359,
       "NumberOfAwardsMax": 345
+    },
+    {
+      "Time": "2023-04-06T20:57:11.9589042+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2363,
+      "NumberOfAwardsMax": 345
     }
   ],
   "Tags": [
@@ -328,7 +334,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 271
+      "Count": 275
     },
     {
       "Text": "This game has a Creative Community",

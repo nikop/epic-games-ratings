@@ -1,5 +1,5 @@
 # Sailing Era
-Rating: 4.79 (Ranked 92)  
+Rating: 4.79 (Ranked 91)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 480)  
 Sum: 0 (Ranked 480)  

@@ -1,13 +1,13 @@
 # Goat Simulator 3
 Rating: 4.85 (Ranked 38)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 267  (Ranked 228)  
-Sum: 2,337 (Ranked 165)  
-Diff (max vs sum): 63
+Max (Great for Beginners): 270  (Ranked 226)  
+Sum: 2,340 (Ranked 164)  
+Diff (max vs sum): 62
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 267 |
+| This game is Great for Beginners | 270 |
 | This game is Highly Recommended | 262 |
 | This game has Diverse Characters | 252 |
 | This game has Amazing Characters | 248 |
@@ -37,4 +37,4 @@ Diff (max vs sum): 63
 | 2023-04-03 | 4.85 | - | 262 |
 | 2023-04-04 | 4.85 | - | 264 |
 | 2023-04-05 | 4.85 | - | 267 |
-| 2023-04-06 | 4.85 | - | 267 |
+| 2023-04-06 | 4.85 | - | 270 |

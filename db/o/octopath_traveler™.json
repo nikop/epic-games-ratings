@@ -1,8 +1,8 @@
 {
   "ID": "1c4745021d4243a783b459d928b9088f",
   "Name": "OCTOPATH TRAVELER\u2122",
-  "Rating": 4.8,
-  "Ranking_Rating": 78,
+  "Rating": 4.79,
+  "Ranking_Rating": 91,
   "Ranking_Popularity": 299,
   "Ranking_PopularitySum": 384,
   "NumberOfRatings": 166,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 114,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:21:15.1292703+00:00",
-  "LastChanged": "2023-03-31T20:57:30.6967472+00:00",
+  "LastChanged": "2023-04-06T20:57:23.933453+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:15.1292706+00:00",
@@ -393,6 +393,12 @@
     {
       "Time": "2023-03-31T20:57:30.6967475+00:00",
       "Rating": 4.8,
+      "NumberOfAwards": 114,
+      "NumberOfAwardsMax": 114
+    },
+    {
+      "Time": "2023-04-06T20:57:23.9334536+00:00",
+      "Rating": 4.79,
       "NumberOfAwards": 114,
       "NumberOfAwardsMax": 114
     }

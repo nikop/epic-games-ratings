@@ -1,5 +1,5 @@
 # Marvel’s Spider-Man: Miles Morales
-Rating: 4.79 (Ranked 92)  
+Rating: 4.79 (Ranked 91)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 961  (Ranked 136)  
 Sum: 1,274 (Ranked 214)  

@@ -3,14 +3,14 @@
   "Name": "Stranded Deep",
   "Rating": 4.22,
   "Ranking_Rating": 785,
-  "Ranking_Popularity": 254,
+  "Ranking_Popularity": 253,
   "Ranking_PopularitySum": 225,
   "NumberOfRatings": 3300,
-  "NumberOfAwards": 999,
-  "NumberOfAwardsMax": 199,
+  "NumberOfAwards": 1000,
+  "NumberOfAwardsMax": 200,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
-  "LastChanged": "2023-04-01T19:58:02.0713451+00:00",
+  "LastChanged": "2023-04-06T20:58:28.9849909+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:37.8027765+00:00",
@@ -1850,6 +1850,12 @@
       "Rating": 4.22,
       "NumberOfAwards": 999,
       "NumberOfAwardsMax": 199
+    },
+    {
+      "Time": "2023-04-06T20:58:28.9849911+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1000,
+      "NumberOfAwardsMax": 200
     }
   ],
   "Tags": [
@@ -1857,7 +1863,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 199
+      "Count": 200
     },
     {
       "Text": "This game has Amazing Storytelling",

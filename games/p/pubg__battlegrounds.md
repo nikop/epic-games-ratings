@@ -2,8 +2,8 @@
 Rating: 3.98 (Ranked 866)  
 ## Popularity (Based on Awards)
 Max (Competitive Players): 1,363  (Ranked 114)  
-Sum: 4,417 (Ranked 126)  
-Diff (max vs sum): -12
+Sum: 4,417 (Ranked 127)  
+Diff (max vs sum): -13
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

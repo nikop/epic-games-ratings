@@ -1,5 +1,5 @@
 # King's Bounty II
-Rating: 4.17 (Ranked 813)  
+Rating: 4.17 (Ranked 814)  
 Number of Ratings: 108  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 480)  
