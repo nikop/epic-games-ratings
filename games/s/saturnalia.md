@@ -1,5 +1,5 @@
 # Saturnalia
-Rating: 4.25 (Ranked 768)  
+Rating: 4.25 (Ranked 767)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  
 Sum: 0 (Ranked 481)  

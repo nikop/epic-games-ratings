@@ -2,15 +2,15 @@
   "ID": "1200aeb2f87c48349594d96554e2833d",
   "Name": "Divine Knockout (DKO) - Starter Edition",
   "Rating": 4.36,
-  "Ranking_Rating": 688,
+  "Ranking_Rating": 689,
   "Ranking_Popularity": 389,
   "Ranking_PopularitySum": 301,
   "NumberOfRatings": 60,
-  "NumberOfAwards": 357,
+  "NumberOfAwards": 358,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
-  "LastChanged": "2023-04-06T18:57:51.7979443+00:00",
+  "LastChanged": "2023-04-06T23:58:02.3889813+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:52.9902409+00:00",
@@ -486,6 +486,12 @@
       "Rating": 4.36,
       "NumberOfAwards": 357,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-04-06T23:58:02.3889814+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 358,
+      "NumberOfAwardsMax": 45
     }
   ],
   "Tags": [
@@ -499,7 +505,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game is Extremely Fun",
