@@ -2,15 +2,15 @@
   "ID": "5c7a78e0c4d640898d690c5e38c0392f",
   "Name": "Football Manager 2023",
   "Rating": 4.75,
-  "Ranking_Rating": 126,
+  "Ranking_Rating": 125,
   "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 150,
-  "NumberOfAwards": 2843,
+  "NumberOfAwards": 2844,
   "NumberOfAwardsMax": 340,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-11-08T02:50:04.1543779+00:00",
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
-  "LastChanged": "2023-04-06T18:57:57.1173493+00:00",
+  "LastChanged": "2023-04-06T22:57:34.0396956+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-08T17:57:47.9405888+00:00",
@@ -501,6 +501,12 @@
       "Rating": 4.75,
       "NumberOfAwards": 2843,
       "NumberOfAwardsMax": 340
+    },
+    {
+      "Time": "2023-04-06T22:57:34.0396958+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 2844,
+      "NumberOfAwardsMax": 340
     }
   ],
   "Tags": [
@@ -508,7 +514,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 246
+      "Count": 247
     },
     {
       "Text": "This game is Relaxing",

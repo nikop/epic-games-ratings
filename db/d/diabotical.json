@@ -1,8 +1,8 @@
 {
   "ID": "36336ee97ec543bbae85abaca618182b",
   "Name": "Diabotical",
-  "Rating": 4.76,
-  "Ranking_Rating": 113,
+  "Rating": 4.75,
+  "Ranking_Rating": 125,
   "Ranking_Popularity": 231,
   "Ranking_PopularitySum": 168,
   "NumberOfRatings": 572,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 261,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:22:10.7191906+00:00",
-  "LastChanged": "2023-04-04T22:57:31.8726152+00:00",
+  "LastChanged": "2023-04-06T22:57:23.1314329+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:10.7191909+00:00",
@@ -854,6 +854,12 @@
     {
       "Time": "2023-04-04T22:57:31.8726154+00:00",
       "Rating": 4.76,
+      "NumberOfAwards": 2290,
+      "NumberOfAwardsMax": 261
+    },
+    {
+      "Time": "2023-04-06T22:57:23.131433+00:00",
+      "Rating": 4.75,
       "NumberOfAwards": 2290,
       "NumberOfAwardsMax": 261
     }

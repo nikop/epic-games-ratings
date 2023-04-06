@@ -3,14 +3,14 @@
   "Name": "Tom Clancy\u0027s Ghost Recon Wildlands Standard Edition",
   "Rating": 4.58,
   "Ranking_Rating": 402,
-  "Ranking_Popularity": 275,
+  "Ranking_Popularity": 274,
   "Ranking_PopularitySum": 217,
   "NumberOfRatings": 871,
-  "NumberOfAwards": 1144,
-  "NumberOfAwardsMax": 158,
+  "NumberOfAwards": 1145,
+  "NumberOfAwardsMax": 159,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:20:43.6796979+00:00",
-  "LastChanged": "2023-04-05T16:57:21.8337253+00:00",
+  "LastChanged": "2023-04-06T22:57:15.3420913+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:43.6796982+00:00",
@@ -1036,6 +1036,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 1144,
       "NumberOfAwardsMax": 158
+    },
+    {
+      "Time": "2023-04-06T22:57:15.3420914+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1145,
+      "NumberOfAwardsMax": 159
     }
   ],
   "Tags": [
@@ -1097,7 +1103,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 158
+      "Count": 159
     }
   ]
 }
