@@ -4,13 +4,13 @@
   "Rating": 4.67,
   "Ranking_Rating": 254,
   "Ranking_Popularity": 325,
-  "Ranking_PopularitySum": 267,
+  "Ranking_PopularitySum": 266,
   "NumberOfRatings": 398,
-  "NumberOfAwards": 631,
-  "NumberOfAwardsMax": 90,
+  "NumberOfAwards": 632,
+  "NumberOfAwardsMax": 91,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
-  "LastChanged": "2023-04-04T13:57:05.1132186+00:00",
+  "LastChanged": "2023-04-06T13:03:07.3454407+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:21.1290303+00:00",
@@ -668,6 +668,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 631,
       "NumberOfAwardsMax": 90
+    },
+    {
+      "Time": "2023-04-06T13:03:07.3454409+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 632,
+      "NumberOfAwardsMax": 91
     }
   ],
   "Tags": [
@@ -705,7 +711,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 90
+      "Count": 91
     },
     {
       "Text": "This game is Educational",
