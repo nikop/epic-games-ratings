@@ -2,7 +2,7 @@
 Rating: 4.58 (Ranked 402)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 70  (Ranked 348)  
-Sum: 480 (Ranked 286)  
+Sum: 481 (Ranked 286)  
 Diff (max vs sum): 62
 ## Awards
 | Award | Number of Ratings |
@@ -17,7 +17,7 @@ Diff (max vs sum): 62
 | This game has Amazing Characters | 39 |
 | This game has Amazing Storytelling | 37 |
 | This game is Relaxing | 35 |
-| This game has Easy Combat | 24 |
+| This game has Easy Combat | 25 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -61,3 +61,4 @@ Diff (max vs sum): 62
 | 2023-04-03 | 4.58 | - | 70 |
 | 2023-04-04 | 4.58 | - | 70 |
 | 2023-04-05 | 4.58 | - | 70 |
+| 2023-04-06 | 4.58 | - | 70 |

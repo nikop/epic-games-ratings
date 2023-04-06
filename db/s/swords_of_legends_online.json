@@ -1,8 +1,8 @@
 {
   "ID": "025f0740981e4902a0cc7e1f1d92dd13",
   "Name": "Swords of Legends Online",
-  "Rating": 4.31,
-  "Ranking_Rating": 735,
+  "Rating": 4.32,
+  "Ranking_Rating": 726,
   "Ranking_Popularity": 270,
   "Ranking_PopularitySum": 312,
   "NumberOfRatings": 262,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 165,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:23:20.3020946+00:00",
-  "LastChanged": "2023-04-04T03:57:45.498712+00:00",
+  "LastChanged": "2023-04-06T03:57:40.3796818+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:20.3020948+00:00",
@@ -456,6 +456,12 @@
     {
       "Time": "2023-04-04T03:57:45.4987122+00:00",
       "Rating": 4.31,
+      "NumberOfAwards": 319,
+      "NumberOfAwardsMax": 165
+    },
+    {
+      "Time": "2023-04-06T03:57:40.3796818+00:00",
+      "Rating": 4.32,
       "NumberOfAwards": 319,
       "NumberOfAwardsMax": 165
     }
