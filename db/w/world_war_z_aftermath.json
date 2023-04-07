@@ -2,15 +2,15 @@
   "ID": "wombat",
   "Name": "World War Z Aftermath",
   "Rating": 4.56,
-  "Ranking_Rating": 436,
+  "Ranking_Rating": 435,
   "Ranking_Popularity": 76,
   "Ranking_PopularitySum": 45,
   "NumberOfRatings": 17073,
-  "NumberOfAwards": 24999,
+  "NumberOfAwards": 25008,
   "NumberOfAwardsMax": 3636,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:17:09.1230837+00:00",
-  "LastChanged": "2023-04-07T16:56:58.2746487+00:00",
+  "LastChanged": "2023-04-07T18:56:55.9402319+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:09.123084+00:00",
@@ -3753,6 +3753,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 24999,
       "NumberOfAwardsMax": 3636
+    },
+    {
+      "Time": "2023-04-07T18:56:55.940232+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 25008,
+      "NumberOfAwardsMax": 3636
     }
   ],
   "Tags": [
@@ -3790,7 +3796,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3257
+      "Count": 3266
     },
     {
       "Text": "This game has Amazing Storytelling",

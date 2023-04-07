@@ -1,13 +1,13 @@
 # DEATH STRANDING
 Rating: 4.78 (Ranked 100)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 4,369  (Ranked 66)  
-Sum: 5,970 (Ranked 111)  
+Max (Great Boss Battles): 4,395  (Ranked 66)  
+Sum: 5,996 (Ranked 111)  
 Diff (max vs sum): -45
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 4,369 |
+| This game has Great Boss Battles | 4,395 |
 | This game is Great for Beginners | 203 |
 | This game is Highly Recommended | 190 |
 | This game has Diverse Characters | 188 |
@@ -38,4 +38,4 @@ Diff (max vs sum): -45
 | 2023-04-04 | 4.78 | - | 4,328 |
 | 2023-04-05 | 4.78 | - | 4,350 |
 | 2023-04-06 | 4.78 | - | 4,369 |
-| 2023-04-07 | 4.78 | - | 4,369 |
+| 2023-04-07 | 4.78 | - | 4,395 |

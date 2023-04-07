@@ -3,14 +3,14 @@
   "Name": "Trackmania",
   "Rating": 4.67,
   "Ranking_Rating": 254,
-  "Ranking_Popularity": 92,
+  "Ranking_Popularity": 91,
   "Ranking_PopularitySum": 51,
   "NumberOfRatings": 6825,
-  "NumberOfAwards": 19774,
-  "NumberOfAwardsMax": 2313,
-  "MaxAwardTitle": "Great for Quick Sessions",
+  "NumberOfAwards": 19785,
+  "NumberOfAwardsMax": 2322,
+  "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-04-07T17:57:32.757955+00:00",
+  "LastChanged": "2023-04-07T18:57:33.4997147+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:57.8589287+00:00",
@@ -3193,6 +3193,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 19774,
       "NumberOfAwardsMax": 2313
+    },
+    {
+      "Time": "2023-04-07T18:57:33.4997149+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 19785,
+      "NumberOfAwardsMax": 2322
     }
   ],
   "Tags": [
@@ -3200,7 +3206,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 2311
+      "Count": 2322
     },
     {
       "Text": "This game has Competitive Players",

@@ -3,14 +3,14 @@
   "Name": "Paragon: The Overprime",
   "Rating": 4.24,
   "Ranking_Rating": 773,
-  "Ranking_Popularity": 218,
+  "Ranking_Popularity": 217,
   "Ranking_PopularitySum": 167,
-  "NumberOfAwards": 2301,
-  "NumberOfAwardsMax": 298,
+  "NumberOfAwards": 2307,
+  "NumberOfAwardsMax": 299,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-11-07T03:53:37.8993563+00:00",
   "FirstSeenRating": "2022-11-10T14:19:52.8915141+00:00",
-  "LastChanged": "2023-04-07T11:58:13.8801493+00:00",
+  "LastChanged": "2023-04-07T18:58:40.744394+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-10T14:19:52.8915147+00:00",
@@ -529,6 +529,12 @@
       "Rating": 4.24,
       "NumberOfAwards": 2301,
       "NumberOfAwardsMax": 298
+    },
+    {
+      "Time": "2023-04-07T18:58:40.7443941+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 2307,
+      "NumberOfAwardsMax": 299
     }
   ],
   "Tags": [
@@ -554,7 +560,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 298
+      "Count": 299
     },
     {
       "Text": "This game is Great for Beginners",
@@ -566,7 +572,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 254
+      "Count": 258
     },
     {
       "Text": "This game is Extremely Fun",
@@ -584,7 +590,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 202
+      "Count": 203
     },
     {
       "Text": "This game has a Competitive Community",

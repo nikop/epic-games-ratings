@@ -1,5 +1,5 @@
 # Returnal™
-Rating: 4.65 (Ranked 287)  
+Rating: 4.66 (Ranked 271)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  
 Sum: 0 (Ranked 481)  
@@ -27,3 +27,4 @@ Diff (max vs sum): 0
 | 2023-03-24 | 4.68 | - | - |
 | 2023-03-31 | 4.69 | - | 0 |
 | 2023-04-05 | 4.65 | - | 0 |
+| 2023-04-07 | 4.66 | - | 0 |
