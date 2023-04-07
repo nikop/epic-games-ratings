@@ -1,16 +1,16 @@
 # Stranded Deep
-Rating: 4.22 (Ranked 785)  
+Rating: 4.22 (Ranked 784)  
 Number of Ratings: 3,300  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 200  (Ranked 253)  
-Sum: 1,001 (Ranked 225)  
+Sum: 1,002 (Ranked 225)  
 Diff (max vs sum): 28
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Quickly Understood Controls | 200 |
 | This game is Relaxing | 190 |
-| This game is Highly Recommended | 183 |
+| This game is Highly Recommended | 184 |
 | This game has Amazing Storytelling | 182 |
 | This game is Extremely Fun | 173 |
 | This game has Obsessive Gameplay | 115 |

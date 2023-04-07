@@ -1,16 +1,16 @@
 # Swords of Legends Online
-Rating: 4.32 (Ranked 725)  
+Rating: 4.32 (Ranked 724)  
 Number of Ratings: 262  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 165  (Ranked 270)  
-Sum: 321 (Ranked 310)  
+Sum: 322 (Ranked 310)  
 Diff (max vs sum): -40
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Inclusive Character Customization | 165 |
 | This game has Great Boss Battles | 94 |
-| This game is Relaxing | 21 |
+| This game is Relaxing | 22 |
 | This game has Amazing Characters | 21 |
 | This game has Beautiful Visuals | 20 |
 ## Ratings History
@@ -88,3 +88,4 @@ Diff (max vs sum): -40
 | 2023-04-02 | 4.31 | - | 165 |
 | 2023-04-04 | 4.31 | - | 165 |
 | 2023-04-06 | 4.32 | - | 165 |
+| 2023-04-07 | 4.32 | - | 165 |

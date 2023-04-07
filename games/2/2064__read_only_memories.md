@@ -1,5 +1,5 @@
 # 2064: Read Only Memories
-Rating: 4.24 (Ranked 774)  
+Rating: 4.24 (Ranked 773)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  
 Sum: 0 (Ranked 481)  

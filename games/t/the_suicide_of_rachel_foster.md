@@ -1,5 +1,5 @@
 # The Suicide of Rachel Foster
-Rating: 4.17 (Ranked 814)  
+Rating: 4.17 (Ranked 813)  
 Number of Ratings: 71  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  
