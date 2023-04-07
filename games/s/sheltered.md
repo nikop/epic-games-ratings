@@ -1,10 +1,10 @@
 # Sheltered
-Rating: 4.42 (Ranked 629)  
+Rating: 4.42 (Ranked 628)  
 Number of Ratings: 877  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 263  (Ranked 230)  
-Sum: 263 (Ranked 327)  
-Diff (max vs sum): -97
+Sum: 263 (Ranked 328)  
+Diff (max vs sum): -98
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

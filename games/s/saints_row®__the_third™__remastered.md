@@ -1,5 +1,5 @@
 # Saints Row®: The Third™  Remastered
-Rating: 4.41 (Ranked 636)  
+Rating: 4.41 (Ranked 635)  
 Number of Ratings: 6,169  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 2,156  (Ranked 95)  

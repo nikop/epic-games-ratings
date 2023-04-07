@@ -2,15 +2,15 @@
   "ID": "jackal",
   "Name": "Dauntless",
   "Rating": 4.53,
-  "Ranking_Rating": 479,
+  "Ranking_Rating": 480,
   "Ranking_Popularity": 16,
   "Ranking_PopularitySum": 22,
   "NumberOfRatings": 23656,
-  "NumberOfAwards": 48047,
-  "NumberOfAwardsMax": 19259,
+  "NumberOfAwards": 48065,
+  "NumberOfAwardsMax": 19277,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2023-04-07T01:50:39.4765341+00:00",
+  "LastChanged": "2023-04-07T17:57:17.1613332+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:00.302975+00:00",
@@ -3658,6 +3658,12 @@
       "Rating": 4.53,
       "NumberOfAwards": 48047,
       "NumberOfAwardsMax": 19259
+    },
+    {
+      "Time": "2023-04-07T17:57:17.1613333+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 48065,
+      "NumberOfAwardsMax": 19277
     }
   ],
   "Tags": [
@@ -3665,7 +3671,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 19259
+      "Count": 19277
     },
     {
       "Text": "This game has Great Boss Battles",

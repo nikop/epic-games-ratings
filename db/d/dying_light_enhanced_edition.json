@@ -1,16 +1,16 @@
 {
   "ID": "2c42520d342a46d7a6e0cfa77b4715de",
   "Name": "Dying Light Enhanced Edition",
-  "Rating": 4.43,
-  "Ranking_Rating": 622,
-  "Ranking_Popularity": 73,
+  "Rating": 4.29,
+  "Ranking_Rating": 745,
+  "Ranking_Popularity": 69,
   "Ranking_PopularitySum": 69,
   "NumberOfRatings": 3181,
-  "NumberOfAwards": 11925,
-  "NumberOfAwardsMax": 3885,
+  "NumberOfAwards": 12094,
+  "NumberOfAwardsMax": 4050,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:18:05.0678131+00:00",
-  "LastChanged": "2023-04-07T11:56:56.3294911+00:00",
+  "LastChanged": "2023-04-07T17:57:08.3016987+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:05.0678134+00:00",
@@ -2535,6 +2535,12 @@
       "Rating": 4.43,
       "NumberOfAwards": 11925,
       "NumberOfAwardsMax": 3885
+    },
+    {
+      "Time": "2023-04-07T17:57:08.3017197+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 12094,
+      "NumberOfAwardsMax": 4050
     }
   ],
   "Tags": [
@@ -2542,7 +2548,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 3885
+      "Count": 4050
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -2554,7 +2560,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 653
+      "Count": 656
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2578,7 +2584,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 562
+      "Count": 563
     },
     {
       "Text": "This game is Extremely Fun",

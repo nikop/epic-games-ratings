@@ -4,13 +4,13 @@
   "Rating": 4.45,
   "Ranking_Rating": 590,
   "Ranking_Popularity": 133,
-  "Ranking_PopularitySum": 83,
+  "Ranking_PopularitySum": 82,
   "NumberOfRatings": 4733,
-  "NumberOfAwards": 8586,
+  "NumberOfAwards": 8589,
   "NumberOfAwardsMax": 974,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
-  "LastChanged": "2023-04-07T14:56:57.9456526+00:00",
+  "LastChanged": "2023-04-07T17:57:02.5842634+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:02.7521929+00:00",
@@ -3044,6 +3044,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 8586,
       "NumberOfAwardsMax": 974
+    },
+    {
+      "Time": "2023-04-07T17:57:02.5842639+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 8589,
+      "NumberOfAwardsMax": 974
     }
   ],
   "Tags": [
@@ -3087,7 +3093,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 683
+      "Count": 686
     },
     {
       "Text": "This game has Amazing Storytelling",
