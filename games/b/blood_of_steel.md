@@ -1,5 +1,5 @@
 # Blood of Steel
-Rating: 3.74 (Ranked 892)  
+Rating: 3.74 (Ranked 893)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  
 Sum: 0 (Ranked 481)  

@@ -1,5 +1,5 @@
 # The Cycle: Frontier
-Rating: 4.10 (Ranked 842)  
+Rating: 4.10 (Ranked 843)  
 Number of Ratings: 15,671  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Competitive Players): 2,154  (Ranked 96)  

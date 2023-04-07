@@ -1,5 +1,5 @@
 # Q.U.B.E. 2
-Rating: 4.40 (Ranked 652)  
+Rating: 4.40 (Ranked 653)  
 Number of Ratings: 94  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  

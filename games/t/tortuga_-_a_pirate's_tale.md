@@ -1,5 +1,5 @@
 # Tortuga - A Pirate's Tale
-Rating: 3.80 (Ranked 886)  
+Rating: 3.80 (Ranked 887)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  
 Sum: 0 (Ranked 481)  

@@ -1,5 +1,5 @@
 # The Uncertain: Light at the End
-Rating: 3.94 (Ranked 874)  
+Rating: 3.94 (Ranked 875)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  
 Sum: 0 (Ranked 481)  

@@ -2,15 +2,15 @@
   "ID": "9a4a6536096c4307bfb235d811f754ce",
   "Name": "Neverwinter",
   "Rating": 4.29,
-  "Ranking_Rating": 745,
+  "Ranking_Rating": 746,
   "Ranking_Popularity": 155,
   "Ranking_PopularitySum": 183,
   "NumberOfRatings": 1084,
-  "NumberOfAwards": 2018,
+  "NumberOfAwards": 2019,
   "NumberOfAwardsMax": 667,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:17:12.0635613+00:00",
-  "LastChanged": "2023-04-07T18:56:56.2027928+00:00",
+  "LastChanged": "2023-04-07T19:56:54.1217503+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:12.0635618+00:00",
@@ -1346,6 +1346,12 @@
       "Rating": 4.29,
       "NumberOfAwards": 2018,
       "NumberOfAwardsMax": 667
+    },
+    {
+      "Time": "2023-04-07T19:56:54.1217506+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 2019,
+      "NumberOfAwardsMax": 667
     }
   ],
   "Tags": [
@@ -1389,7 +1395,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 160
+      "Count": 161
     },
     {
       "Text": "This game has Obsessive Gameplay",

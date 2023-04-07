@@ -1,5 +1,5 @@
 # Stories Untold
-Rating: 4.51 (Ranked 505)  
+Rating: 4.51 (Ranked 506)  
 Number of Ratings: 28  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  

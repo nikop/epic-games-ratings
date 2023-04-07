@@ -2,15 +2,15 @@
   "ID": "affc33b82405457595a032f00284abd2",
   "Name": "Killing Floor 2",
   "Rating": 4.41,
-  "Ranking_Rating": 635,
+  "Ranking_Rating": 636,
   "Ranking_Popularity": 27,
   "Ranking_PopularitySum": 44,
   "NumberOfRatings": 18418,
-  "NumberOfAwards": 25230,
+  "NumberOfAwards": 25233,
   "NumberOfAwardsMax": 11736,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:16:46.1518671+00:00",
-  "LastChanged": "2023-04-07T18:56:53.3359298+00:00",
+  "LastChanged": "2023-04-07T19:56:50.5476725+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:46.1518677+00:00",
@@ -3488,6 +3488,12 @@
       "Rating": 4.41,
       "NumberOfAwards": 25230,
       "NumberOfAwardsMax": 11736
+    },
+    {
+      "Time": "2023-04-07T19:56:50.5476726+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 25233,
+      "NumberOfAwardsMax": 11736
     }
   ],
   "Tags": [
@@ -3501,13 +3507,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1557
+      "Count": 1558
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1530
+      "Count": 1532
     },
     {
       "Text": "This game is Highly Recommended",

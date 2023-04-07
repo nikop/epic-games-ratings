@@ -1,5 +1,5 @@
 # DEATHLOOP
-Rating: 4.54 (Ranked 467)  
+Rating: 4.54 (Ranked 468)  
 Number of Ratings: 874  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Unique Visuals): 33  (Ranked 421)  

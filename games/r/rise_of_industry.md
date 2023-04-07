@@ -1,5 +1,5 @@
 # Rise of Industry
-Rating: 4.22 (Ranked 784)  
+Rating: 4.22 (Ranked 785)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  
 Sum: 0 (Ranked 481)  

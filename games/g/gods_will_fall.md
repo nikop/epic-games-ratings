@@ -1,5 +1,5 @@
 # Gods Will Fall
-Rating: 3.97 (Ranked 871)  
+Rating: 3.97 (Ranked 872)  
 Number of Ratings: 228  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  

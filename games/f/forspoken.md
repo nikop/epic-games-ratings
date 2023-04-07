@@ -1,5 +1,5 @@
 # Forspoken
-Rating: 4.13 (Ranked 833)  
+Rating: 4.13 (Ranked 834)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  
 Sum: 0 (Ranked 481)  

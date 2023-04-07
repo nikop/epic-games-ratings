@@ -1,16 +1,16 @@
 # VALORANT
-Rating: 4.54 (Ranked 467)  
+Rating: 4.54 (Ranked 468)  
 Number of Ratings: 157,172  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 47,898  (Ranked 11)  
-Sum: 365,463 (Ranked 7)  
+Sum: 365,672 (Ranked 7)  
 Diff (max vs sum): 4
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Diverse Characters | 47,898 |
-| This game has Challenging Combat | 41,853 |
-| This game is Highly Recommended | 40,958 |
+| This game has Challenging Combat | 41,964 |
+| This game is Highly Recommended | 41,056 |
 | This game has Amazing Characters | 40,679 |
 | This game has Competitive Players | 40,253 |
 | This game is Extremely Fun | 40,075 |
