@@ -1,5 +1,5 @@
 # Rocket League®
-Rating: 4.51 (Ranked 506)  
+Rating: 4.51 (Ranked 505)  
 Number of Ratings: 366,020  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Quick Sessions): 373,359  (Ranked 2)  

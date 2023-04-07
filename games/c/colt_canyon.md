@@ -1,5 +1,5 @@
 # Colt Canyon
-Rating: 4.61 (Ranked 349)  
+Rating: 4.61 (Ranked 348)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  
 Sum: 0 (Ranked 481)  

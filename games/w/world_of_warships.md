@@ -1,15 +1,15 @@
 # World of Warships
-Rating: 4.45 (Ranked 591)  
+Rating: 4.45 (Ranked 590)  
 Number of Ratings: 4,733  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 974  (Ranked 133)  
-Sum: 8,580 (Ranked 83)  
+Sum: 8,581 (Ranked 83)  
 Diff (max vs sum): 50
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Relaxing | 974 |
-| This game has Quickly Understood Controls | 964 |
+| This game has Quickly Understood Controls | 965 |
 | This game is Extremely Fun | 937 |
 | This game has Competitive Players | 916 |
 | This game has Challenging Combat | 911 |

@@ -1,5 +1,5 @@
 # Control
-Rating: 4.60 (Ranked 373)  
+Rating: 4.60 (Ranked 372)  
 Number of Ratings: 16,122  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 8,204  (Ranked 36)  

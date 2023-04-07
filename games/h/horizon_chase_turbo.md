@@ -1,9 +1,9 @@
 # Horizon Chase Turbo
-Rating: 4.56 (Ranked 437)  
+Rating: 4.56 (Ranked 436)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 129  (Ranked 287)  
-Sum: 1,043 (Ranked 223)  
+Sum: 1,045 (Ranked 223)  
 Diff (max vs sum): 64
 ## Awards
 | Award | Number of Ratings |
@@ -12,9 +12,9 @@ Diff (max vs sum): 64
 | This game has Quickly Understood Controls | 111 |
 | This game is Relaxing | 109 |
 | This game is Highly Recommended | 100 |
-| This game has Competitive Players | 95 |
+| This game has Competitive Players | 96 |
 | This game is Great for Quick Sessions | 95 |
-| This game has Playful Visuals | 92 |
+| This game has Playful Visuals | 93 |
 | This game is Extremely Fun | 88 |
 | This game has Amazing Characters | 81 |
 | This game has Amazing Storytelling | 77 |
@@ -111,3 +111,4 @@ Diff (max vs sum): 64
 | 2023-04-04 | 4.56 | - | 129 |
 | 2023-04-05 | 4.56 | - | 129 |
 | 2023-04-06 | 4.56 | - | 129 |
+| 2023-04-07 | 4.56 | - | 129 |

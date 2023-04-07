@@ -2,15 +2,15 @@
   "ID": "7ad5508d382e46228056f1d1a0189ae2",
   "Name": "Path of Exile",
   "Rating": 4.61,
-  "Ranking_Rating": 349,
+  "Ranking_Rating": 348,
   "Ranking_Popularity": 89,
   "Ranking_PopularitySum": 85,
   "NumberOfRatings": 3102,
-  "NumberOfAwards": 8398,
+  "NumberOfAwards": 8399,
   "NumberOfAwardsMax": 2379,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:16:56.6558117+00:00",
-  "LastChanged": "2023-04-07T04:57:02.7295804+00:00",
+  "LastChanged": "2023-04-07T09:57:05.8136924+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:56.655812+00:00",
@@ -2616,6 +2616,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 8398,
       "NumberOfAwardsMax": 2379
+    },
+    {
+      "Time": "2023-04-07T09:57:05.8136926+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 8399,
+      "NumberOfAwardsMax": 2379
     }
   ],
   "Tags": [
@@ -2641,7 +2647,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 605
+      "Count": 606
     },
     {
       "Text": "This game is Extremely Fun",

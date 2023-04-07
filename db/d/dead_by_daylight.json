@@ -2,15 +2,15 @@
   "ID": "611482b8586142cda48a0786eb8a127c",
   "Name": "Dead by Daylight",
   "Rating": 4.53,
-  "Ranking_Rating": 480,
+  "Ranking_Rating": 479,
   "Ranking_Popularity": 15,
   "Ranking_PopularitySum": 12,
   "NumberOfRatings": 70340,
-  "NumberOfAwards": 212218,
+  "NumberOfAwards": 212259,
   "NumberOfAwardsMax": 26132,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
-  "LastChanged": "2023-04-07T04:57:08.0749012+00:00",
+  "LastChanged": "2023-04-07T09:57:10.7287422+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:36.44586+00:00",
@@ -3571,6 +3571,12 @@
       "Rating": 4.53,
       "NumberOfAwards": 212218,
       "NumberOfAwardsMax": 26132
+    },
+    {
+      "Time": "2023-04-07T09:57:10.7287425+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 212259,
+      "NumberOfAwardsMax": 26132
     }
   ],
   "Tags": [
@@ -3608,7 +3614,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 23990
+      "Count": 24031
     },
     {
       "Text": "This game is Highly Recommended",

@@ -2,15 +2,15 @@
   "ID": "93b333eb973b45b582f3bdf68dfc1dc9",
   "Name": "Railway Empire",
   "Rating": 4.51,
-  "Ranking_Rating": 506,
-  "Ranking_Popularity": 226,
+  "Ranking_Rating": 505,
+  "Ranking_Popularity": 225,
   "Ranking_PopularitySum": 190,
   "NumberOfRatings": 2155,
-  "NumberOfAwards": 1853,
-  "NumberOfAwardsMax": 270,
+  "NumberOfAwards": 1854,
+  "NumberOfAwardsMax": 271,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:18:36.383576+00:00",
-  "LastChanged": "2023-04-07T06:57:04.5498929+00:00",
+  "LastChanged": "2023-04-07T09:57:17.2379367+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:36.3835762+00:00",
@@ -1942,6 +1942,12 @@
       "Rating": 4.51,
       "NumberOfAwards": 1853,
       "NumberOfAwardsMax": 270
+    },
+    {
+      "Time": "2023-04-07T09:57:17.2379369+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 1854,
+      "NumberOfAwardsMax": 271
     }
   ],
   "Tags": [
@@ -1955,7 +1961,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 270
+      "Count": 271
     },
     {
       "Text": "This game has Quickly Understood Controls",
