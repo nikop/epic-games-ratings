@@ -17,12 +17,12 @@
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 26,132 | 4.53 | 480 |
 | 16 | [Dauntless](games/d/dauntless.md) | 19,259 | 4.53 | 480 |
 | 17 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 17,630 | 4.57 | 421 |
-| 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 16,769 | 4.78 | 100 |
+| 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 16,856 | 4.78 | 100 |
 | 19 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,296 | 4.58 | 402 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 14,268 | 4.89 | 13 |
 | 21 | [Warframe](games/w/warframe.md) | 13,954 | 4.61 | 349 |
 | 22 | [Borderlands 2](games/b/borderlands_2.md) | 13,811 | 4.76 | 113 |
-| 23 | [Maneater](games/m/maneater.md) | 13,365 | 4.49 | 537 |
+| 23 | [Maneater](games/m/maneater.md) | 13,368 | 4.49 | 537 |
 | 24 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,115 | 4.60 | 373 |
 | 25 | [League of Legends](games/l/league_of_legends.md) | 12,280 | 4.21 | 787 |
 | 26 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,177 | 4.37 | 683 |
@@ -44,9 +44,9 @@
 | 42 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 629 |
 | 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,590 | 4.89 | 13 |
 | 44 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 6,409 | 4.67 | 255 |
-| 45 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,340 | 4.46 | 577 |
-| 46 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,324 | 4.74 | 142 |
-| 47 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 6,267 | 4.23 | 779 |
+| 45 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 6,395 | 4.23 | 779 |
+| 46 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,340 | 4.46 | 577 |
+| 47 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,324 | 4.74 | 142 |
 | 48 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 6,260 | 4.57 | 421 |
 | 49 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,206 | 4.80 | 78 |
 | 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,047 | 4.71 | 176 |
@@ -84,7 +84,7 @@
 | 82 | [Paladins](games/p/paladins.md) | 3,135 | 4.35 | 700 |
 | 83 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,133 | 4.75 | 125 |
 | 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,080 | 4.59 | 388 |
-| 85 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 2,978 | 4.57 | 421 |
+| 85 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 2,980 | 4.57 | 421 |
 | 86 | [Hades](games/h/hades.md) | 2,973 | 4.92 | 3 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 2,906 | 4.68 | 235 |
 | 88 | [Rage 2](games/r/rage_2.md) | 2,413 | 4.28 | 754 |

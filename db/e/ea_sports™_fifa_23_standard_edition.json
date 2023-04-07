@@ -3,14 +3,14 @@
   "Name": "EA SPORTS\u2122 FIFA 23 Standard Edition",
   "Rating": 4.23,
   "Ranking_Rating": 779,
-  "Ranking_Popularity": 47,
+  "Ranking_Popularity": 45,
   "Ranking_PopularitySum": 34,
-  "NumberOfAwards": 30032,
-  "NumberOfAwardsMax": 6267,
+  "NumberOfAwards": 30160,
+  "NumberOfAwardsMax": 6395,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-09-30T07:01:34.8859438+00:00",
   "FirstSeenRating": "2022-10-06T07:01:15.4932538+00:00",
-  "LastChanged": "2023-04-06T23:57:33.2298931+00:00",
+  "LastChanged": "2023-04-07T02:57:25.6865199+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-06T07:01:15.4932542+00:00",
@@ -769,6 +769,12 @@
       "Rating": 4.23,
       "NumberOfAwards": 30032,
       "NumberOfAwardsMax": 6267
+    },
+    {
+      "Time": "2023-04-07T02:57:25.6865201+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 30160,
+      "NumberOfAwardsMax": 6395
     }
   ],
   "Tags": [
@@ -776,7 +782,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 6267
+      "Count": 6395
     },
     {
       "Text": "This game has a Competitive Community",

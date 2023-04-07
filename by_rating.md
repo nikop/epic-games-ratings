@@ -101,7 +101,7 @@
 | 91 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 481 |
 | 100 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,369 | 66 |
 | 100 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,516 | 35 |
-| 100 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 16,769 | 18 |
+| 100 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 16,856 | 18 |
 | 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 901 | 140 |
 | 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 141 | 281 |
 | 100 | [Tchia](games/t/tchia.md) | 4.78 | 0 | 481 |
@@ -145,7 +145,7 @@
 | 142 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 481 |
 | 142 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.74 | 0 | 481 |
 | 142 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 459 | 183 |
-| 142 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,324 | 46 |
+| 142 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,324 | 47 |
 | 142 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 222 | 243 |
 | 142 | [shapez](games/s/shapez.md) | 4.74 | 0 | 481 |
 | 142 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 28,692 | 13 |
@@ -430,7 +430,7 @@
 | 421 | [Hob](games/h/hob.md) | 4.57 | 0 | 481 |
 | 421 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 36 | 412 |
 | 421 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,057 | 40 |
-| 421 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 2,978 | 85 |
+| 421 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 2,980 | 85 |
 | 421 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 0 | 481 |
 | 421 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 115 | 297 |
 | 421 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 17,630 | 17 |
@@ -550,7 +550,7 @@
 | 537 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 209 | 248 |
 | 537 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 2,058 | 100 |
 | 537 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 481 |
-| 537 | [Maneater](games/m/maneater.md) | 4.49 | 13,365 | 23 |
+| 537 | [Maneater](games/m/maneater.md) | 4.49 | 13,368 | 23 |
 | 537 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 604 | 161 |
 | 537 | [Solitairica](games/s/solitairica.md) | 4.49 | 81 | 336 |
 | 554 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 481 |
@@ -586,7 +586,7 @@
 | 577 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 481 |
 | 577 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.46 | 0 | 481 |
 | 577 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.46 | 0 | 481 |
-| 577 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 6,340 | 45 |
+| 577 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 6,340 | 46 |
 | 577 | [The Surge](games/t/the_surge.md) | 4.46 | 26 | 451 |
 | 577 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 276 | 223 |
 | 577 | [WRC Generations](games/w/wrc_generations.md) | 4.46 | 0 | 481 |
@@ -779,7 +779,7 @@
 | 774 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 298 | 218 |
 | 774 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 389 |
 | 779 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 481 |
-| 779 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 6,267 | 47 |
+| 779 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.23 | 6,395 | 45 |
 | 779 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 0 | 481 |
 | 779 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 481 |
 | 779 | [The Surge 2](games/t/the_surge_2.md) | 4.23 | 0 | 481 |
