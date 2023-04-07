@@ -4,13 +4,13 @@
   "Rating": 4.55,
   "Ranking_Rating": 454,
   "Ranking_Popularity": 364,
-  "Ranking_PopularitySum": 281,
-  "NumberOfAwards": 536,
+  "Ranking_PopularitySum": 272,
+  "NumberOfAwards": 595,
   "NumberOfAwardsMax": 63,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-04-07T10:56:47.3671264+00:00",
+  "LastChanged": "2023-04-07T23:56:51.559207+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-21T06:57:02.0735411+00:00",
@@ -617,6 +617,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 536,
       "NumberOfAwardsMax": 63
+    },
+    {
+      "Time": "2023-04-07T23:56:51.5592071+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 595,
+      "NumberOfAwardsMax": 63
     }
   ],
   "Tags": [
@@ -690,7 +696,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 51
+      "Count": 59
     }
   ]
 }
