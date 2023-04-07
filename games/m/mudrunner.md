@@ -1,5 +1,5 @@
 # MudRunner
-Rating: 4.62 (Ranked 333)  
+Rating: 4.62 (Ranked 332)  
 Number of Ratings: 3,155  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 228  (Ranked 240)  
