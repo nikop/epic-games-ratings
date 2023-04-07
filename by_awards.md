@@ -18,8 +18,8 @@
 | 16 | [Dauntless](games/d/dauntless.md) | 19,259 | 4.53 | 479 |
 | 17 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 17,630 | 4.57 | 420 |
 | 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 16,856 | 4.78 | 100 |
-| 19 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,296 | 4.58 | 401 |
-| 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 14,268 | 4.89 | 13 |
+| 19 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,298 | 4.58 | 401 |
+| 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 14,286 | 4.89 | 13 |
 | 21 | [Warframe](games/w/warframe.md) | 13,954 | 4.61 | 348 |
 | 22 | [Borderlands 2](games/b/borderlands_2.md) | 13,811 | 4.76 | 113 |
 | 23 | [Maneater](games/m/maneater.md) | 13,368 | 4.49 | 536 |
@@ -90,7 +90,7 @@
 | 88 | [Rage 2](games/r/rage_2.md) | 2,413 | 4.28 | 754 |
 | 89 | [Path of Exile](games/p/path_of_exile.md) | 2,379 | 4.61 | 348 |
 | 90 | [Among Us](games/a/among_us.md) | 2,335 | 4.58 | 401 |
-| 91 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,318 | 4.80 | 78 |
+| 91 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,320 | 4.80 | 78 |
 | 92 | [Trackmania](games/t/trackmania.md) | 2,311 | 4.67 | 254 |
 | 93 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,218 | 4.79 | 91 |
 | 94 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,203 | 4.67 | 254 |
@@ -109,7 +109,7 @@
 | 107 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,720 | 4.63 | 323 |
 | 108 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,680 | 4.57 | 420 |
 | 109 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 1,604 | 4.76 | 113 |
-| 110 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,529 | 4.51 | 505 |
+| 110 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,530 | 4.51 | 505 |
 | 111 | [Ring of Pain](games/r/ring_of_pain.md) | 1,466 | 4.58 | 401 |
 | 112 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,430 | 4.79 | 91 |
 | 113 | [Celeste](games/c/celeste.md) | 1,400 | 4.92 | 3 |
@@ -146,7 +146,7 @@
 | 144 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 799 | 4.76 | 113 |
 | 145 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 792 | 4.54 | 467 |
 | 146 | [Frostpunk](games/f/frostpunk.md) | 760 | 4.73 | 154 |
-| 147 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 752 | 4.69 | 212 |
+| 147 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 754 | 4.69 | 212 |
 | 148 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 746 | 4.50 | 522 |
 | 149 | [The Long Dark](games/t/the_long_dark.md) | 732 | 4.75 | 125 |
 | 150 | [Core](games/c/core.md) | 720 | 4.37 | 683 |
@@ -191,7 +191,7 @@
 | 189 | [Loop Hero](games/l/loop_hero.md) | 409 | 4.68 | 235 |
 | 190 | [Into the Breach](games/i/into_the_breach.md) | 402 | 4.84 | 47 |
 | 191 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 397 | 4.74 | 142 |
-| 192 | [Prison Architect](games/p/prison_architect.md) | 396 | 4.61 | 348 |
+| 191 | [Prison Architect](games/p/prison_architect.md) | 397 | 4.61 | 348 |
 | 193 | [RimWorld](games/r/rimworld.md) | 393 | 4.89 | 13 |
 | 194 | [Riders Republic](games/r/riders_republic.md) | 392 | 4.75 | 125 |
 | 195 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 391 | 4.49 | 536 |
@@ -350,12 +350,12 @@
 | 347 | [First Class Trouble](games/f/first_class_trouble.md) | 71 | 4.51 | 505 |
 | 347 | [The Sims™ 4](games/t/the_sims™_4.md) | 71 | 4.58 | 401 |
 | 350 | [Armored Warfare](games/a/armored_warfare.md) | 70 | 4.10 | 842 |
+| 350 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 70 | 4.20 | 792 |
 | 350 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 70 | 4.62 | 332 |
-| 352 | [Barony](games/b/barony.md) | 69 | 4.71 | 176 |
-| 352 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 69 | 4.68 | 235 |
-| 352 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 69 | 4.56 | 436 |
-| 352 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 69 | 4.20 | 792 |
-| 352 | [Train Valley 2](games/t/train_valley_2.md) | 69 | 4.14 | 832 |
+| 353 | [Barony](games/b/barony.md) | 69 | 4.71 | 176 |
+| 353 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 69 | 4.68 | 235 |
+| 353 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 69 | 4.56 | 436 |
+| 353 | [Train Valley 2](games/t/train_valley_2.md) | 69 | 4.14 | 832 |
 | 357 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 68 | 4.32 | 724 |
 | 358 | [Potion Permit](games/p/potion_permit.md) | 66 | 3.75 | 890 |
 | 358 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 66 | 4.71 | 176 |

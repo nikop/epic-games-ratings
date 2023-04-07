@@ -8,7 +8,7 @@
 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 235 | 3,314 | 80 |
 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 142 | 397 | 191 |
 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 54 | 0 | 481 |
-| [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 505 | 1,529 | 110 |
+| [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 505 | 1,530 | 110 |
 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 629 | 0 | 481 |
 | [ABZU](games/a/abzu.md) | 4.61 | 348 | 0 | 481 |
 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.00 | 862 | 0 | 481 |
@@ -74,7 +74,7 @@
 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 47 | 50 | 377 |
 | [Banished](games/b/banished.md) | 3.96 | 872 | 0 | 481 |
 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 636 | 0 | 481 |
-| [Barony](games/b/barony.md) | 4.71 | 176 | 69 | 352 |
+| [Barony](games/b/barony.md) | 4.71 | 176 | 69 | 353 |
 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.33 | 718 | 0 | 481 |
 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 254 | 635 | 159 |
 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 91 | 1,430 | 112 |
@@ -83,7 +83,7 @@
 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 142 | 0 | 481 |
 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 309 | 0 | 481 |
 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 661 | 0 | 481 |
-| [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 235 | 69 | 352 |
+| [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 235 | 69 | 353 |
 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 718 | 113 | 300 |
 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 505 | 4,027 | 69 |
 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 192 | 4,463 | 65 |
@@ -403,7 +403,7 @@
 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 91 | 876 | 141 |
 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 271 | 0 | 481 |
 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 495 | 115 | 297 |
-| [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 436 | 69 | 352 |
+| [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 436 | 69 | 353 |
 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 661 | 0 | 481 |
 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.50 | 522 | 0 | 481 |
 | [Knockout City™](games/k/knockout_city™.md) | 4.50 | 522 | 0 | 481 |
@@ -433,7 +433,7 @@
 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.51 | 505 | 0 | 481 |
 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 332 | 570 | 164 |
 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 636 | 0 | 481 |
-| [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 792 | 69 | 352 |
+| [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 792 | 70 | 350 |
 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 672 | 162 | 273 |
 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 590 | 9,706 | 32 |
 | [Mago](games/m/mago.md) | 4.90 | 8 | 0 | 481 |
@@ -482,7 +482,7 @@
 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 852 | 0 | 481 |
 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 479 | 0 | 481 |
 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 154 | 139 | 282 |
-| [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 78 | 2,318 | 91 |
+| [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 78 | 2,320 | 91 |
 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 420 | 7,057 | 40 |
 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 212 | 0 | 481 |
 | [NORCO](games/n/norco.md) | 4.62 | 332 | 0 | 481 |
@@ -545,7 +545,7 @@
 | [Predecessor](games/p/predecessor.md) | 4.45 | 590 | 49 | 383 |
 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.48 | 553 | 0 | 481 |
 | [Prey](games/p/prey.md) | 4.62 | 332 | 5,489 | 56 |
-| [Prison Architect](games/p/prison_architect.md) | 4.61 | 348 | 396 | 192 |
+| [Prison Architect](games/p/prison_architect.md) | 4.61 | 348 | 397 | 191 |
 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 866 | 1,363 | 115 |
 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 653 | 0 | 481 |
 | [Quake](games/q/quake.md) | 4.75 | 125 | 45 | 389 |
@@ -775,7 +775,7 @@
 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 113 | 0 | 481 |
 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 78 | 26 | 451 |
 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.87 | 24 | 0 | 481 |
-| [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 13 | 14,268 | 20 |
+| [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 13 | 14,286 | 20 |
 | [The Witness](games/t/the_witness.md) | 4.69 | 212 | 167 | 268 |
 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.80 | 78 | 0 | 481 |
 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 842 | 0 | 481 |
@@ -816,7 +816,7 @@
 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 629 | 530 | 175 |
 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 479 | 255 | 232 |
 | [Train Valley](games/t/train_valley.md) | 4.47 | 564 | 0 | 481 |
-| [Train Valley 2](games/t/train_valley_2.md) | 4.14 | 832 | 69 | 352 |
+| [Train Valley 2](games/t/train_valley_2.md) | 4.14 | 832 | 69 | 353 |
 | [Transistor](games/t/transistor.md) | 4.62 | 332 | 0 | 481 |
 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 212 | 35 | 417 |
 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 436 | 0 | 481 |
@@ -876,7 +876,7 @@
 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 286 | 0 | 481 |
 | [Windbound](games/w/windbound.md) | 4.18 | 809 | 0 | 481 |
 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.17 | 813 | 0 | 481 |
-| [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 401 | 14,296 | 19 |
+| [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 401 | 14,298 | 19 |
 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 372 | 83 | 334 |
 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 608 | 59 | 370 |
 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 212 | 0 | 481 |
@@ -894,4 +894,4 @@
 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 212 | 0 | 481 |
 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 235 | 0 | 481 |
 | [ZOMBI](games/z/zombi.md) | 4.36 | 689 | 0 | 481 |
-| [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 212 | 752 | 147 |
+| [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 212 | 754 | 147 |

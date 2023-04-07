@@ -3,7 +3,7 @@ Rating: 3.78 (Ranked 887)
 Number of Ratings: 22,103  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 1,017  (Ranked 129)  
-Sum: 8,994 (Ranked 79)  
+Sum: 8,995 (Ranked 79)  
 Diff (max vs sum): 50
 ## Awards
 | Award | Number of Ratings |
@@ -15,7 +15,7 @@ Diff (max vs sum): 50
 | This game is Relaxing | 944 |
 | This game is Great for Beginners | 943 |
 | This game has Amazing Storytelling | 935 |
-| This game has Diverse Characters | 931 |
+| This game has Diverse Characters | 932 |
 | This game has Playful Visuals | 767 |
 | This game has a Silly Community | 565 |
 ## Ratings History
@@ -58,3 +58,4 @@ Diff (max vs sum): 50
 | 2023-04-04 | 3.78 | - | 1,017 |
 | 2023-04-05 | 3.78 | - | 1,017 |
 | 2023-04-06 | 3.78 | - | 1,017 |
+| 2023-04-07 | 3.78 | - | 1,017 |
