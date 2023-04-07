@@ -26,7 +26,7 @@
 | 24 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,115 | 4.60 | 373 |
 | 25 | [League of Legends](games/l/league_of_legends.md) | 12,280 | 4.21 | 786 |
 | 26 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,177 | 4.36 | 688 |
-| 27 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,727 | 4.41 | 636 |
+| 27 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,736 | 4.41 | 636 |
 | 28 | [NBA 2K21](games/n/nba_2k21.md) | 11,625 | 4.39 | 661 |
 | 29 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,260 | 4.87 | 24 |
 | 30 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 11,218 | 4.60 | 373 |
@@ -85,7 +85,7 @@
 | 83 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,133 | 4.75 | 125 |
 | 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,092 | 4.59 | 388 |
 | 85 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 2,980 | 4.57 | 421 |
-| 86 | [Hades](games/h/hades.md) | 2,973 | 4.92 | 3 |
+| 86 | [Hades](games/h/hades.md) | 2,977 | 4.92 | 3 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 2,906 | 4.68 | 235 |
 | 88 | [Rage 2](games/r/rage_2.md) | 2,413 | 4.28 | 754 |
 | 89 | [Path of Exile](games/p/path_of_exile.md) | 2,379 | 4.61 | 349 |
@@ -130,7 +130,7 @@
 | 128 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,022 | 4.66 | 271 |
 | 129 | [Saints Row](games/s/saints_row.md) | 1,017 | 3.78 | 887 |
 | 130 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,015 | 4.54 | 468 |
-| 131 | [EVE Online](games/e/eve_online.md) | 997 | 4.26 | 761 |
+| 131 | [EVE Online](games/e/eve_online.md) | 997 | 4.26 | 762 |
 | 132 | [Ooblets](games/o/ooblets.md) | 992 | 4.87 | 24 |
 | 133 | [World of Warships](games/w/world_of_warships.md) | 974 | 4.45 | 591 |
 | 134 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 973 | 4.24 | 773 |
@@ -282,8 +282,8 @@
 | 280 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 145 | 4.65 | 286 |
 | 281 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 141 | 4.78 | 100 |
 | 282 | [Night in the Woods](games/n/night_in_the_woods.md) | 139 | 4.73 | 154 |
-| 283 | [Fort Triumph](games/f/fort_triumph.md) | 136 | 4.08 | 850 |
-| 283 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 136 | 4.52 | 496 |
+| 283 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 138 | 4.52 | 496 |
+| 284 | [Fort Triumph](games/f/fort_triumph.md) | 136 | 4.08 | 850 |
 | 285 | [Blasphemous](games/b/blasphemous.md) | 135 | 4.87 | 24 |
 | 286 | [while True: learn()](games/w/while_true__learn().md) | 131 | 4.51 | 506 |
 | 287 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 129 | 4.56 | 437 |
@@ -414,7 +414,7 @@
 | 412 | [20XX](games/2/20xx.md) | 36 | 4.61 | 349 |
 | 412 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 36 | 4.60 | 373 |
 | 412 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 36 | 4.57 | 421 |
-| 412 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 36 | 4.26 | 761 |
+| 412 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 36 | 4.26 | 762 |
 | 412 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 36 | 4.48 | 554 |
 | 417 | [FUSER™](games/f/fuser™.md) | 35 | 4.71 | 176 |
 | 417 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 35 | 4.57 | 421 |

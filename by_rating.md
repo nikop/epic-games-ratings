@@ -4,7 +4,7 @@
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 481 |
 | 3 | [Celeste](games/c/celeste.md) | 4.92 | 1,400 | 113 |
 | 3 | [Flatout 2](games/f/flatout_2.md) | 4.92 | 0 | 481 |
-| 3 | [Hades](games/h/hades.md) | 4.92 | 2,973 | 86 |
+| 3 | [Hades](games/h/hades.md) | 4.92 | 2,977 | 86 |
 | 3 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.92 | 0 | 481 |
 | 7 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.91 | 0 | 481 |
 | 8 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 0 | 481 |
@@ -503,7 +503,7 @@
 | 496 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 182 | 259 |
 | 496 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 481 |
 | 496 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 481 |
-| 496 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 136 | 283 |
+| 496 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 138 | 283 |
 | 496 | [UnMetal](games/u/unmetal.md) | 4.52 | 0 | 481 |
 | 506 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,529 | 110 |
 | 506 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 89 | 327 |
@@ -641,7 +641,7 @@
 | 636 | [ELEX](games/e/elex.md) | 4.41 | 23 | 459 |
 | 636 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 169 | 267 |
 | 636 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 92 | 323 |
-| 636 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 11,727 | 27 |
+| 636 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 11,736 | 27 |
 | 636 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 0 | 481 |
 | 636 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 0 | 481 |
 | 636 | [Othercide](games/o/othercide.md) | 4.41 | 0 | 481 |
@@ -758,14 +758,14 @@
 | 754 | [Steelrising](games/s/steelrising.md) | 4.28 | 0 | 481 |
 | 754 | [The Fall](games/t/the_fall.md) | 4.28 | 0 | 481 |
 | 758 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 22 | 463 |
+| 758 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 0 | 481 |
 | 758 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 0 | 481 |
 | 758 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 297 | 219 |
-| 761 | [EVE Online](games/e/eve_online.md) | 4.26 | 997 | 131 |
-| 761 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 0 | 481 |
-| 761 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.26 | 0 | 481 |
-| 761 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 481 |
-| 761 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 481 |
-| 761 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.26 | 36 | 412 |
+| 762 | [EVE Online](games/e/eve_online.md) | 4.26 | 997 | 131 |
+| 762 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.26 | 0 | 481 |
+| 762 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 481 |
+| 762 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 481 |
+| 762 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.26 | 36 | 412 |
 | 767 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 0 | 481 |
 | 767 | [Chess Ultra](games/c/chess_ultra.md) | 4.25 | 0 | 481 |
 | 767 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.25 | 0 | 481 |
@@ -849,7 +849,7 @@
 | 842 | [The World Next Door](games/t/the_world_next_door.md) | 4.10 | 0 | 481 |
 | 848 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 481 |
 | 848 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 481 |
-| 850 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 136 | 283 |
+| 850 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 136 | 284 |
 | 850 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 179 | 262 |
 | 852 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 0 | 481 |
 | 852 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 0 | 481 |
