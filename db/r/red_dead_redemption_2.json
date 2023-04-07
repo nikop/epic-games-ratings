@@ -6,11 +6,11 @@
   "Ranking_Popularity": 7,
   "Ranking_PopularitySum": 9,
   "NumberOfRatings": 102658,
-  "NumberOfAwards": 332180,
+  "NumberOfAwards": 332439,
   "NumberOfAwardsMax": 131552,
   "MaxAwardTitle": "Impact the Story",
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-04-07T14:57:48.0950525+00:00",
+  "LastChanged": "2023-04-07T15:57:40.2078683+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:15.0342453+00:00",
@@ -3948,6 +3948,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 332180,
       "NumberOfAwardsMax": 131552
+    },
+    {
+      "Time": "2023-04-07T15:57:40.207869+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 332439,
+      "NumberOfAwardsMax": 131552
     }
   ],
   "Tags": [
@@ -3961,7 +3967,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 71543
+      "Count": 71724
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4003,13 +4009,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 12142
+      "Count": 12177
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 12507
+      "Count": 12550
     },
     {
       "Text": "This game is Relaxing",

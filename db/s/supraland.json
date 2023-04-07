@@ -6,11 +6,11 @@
   "Ranking_Popularity": 37,
   "Ranking_PopularitySum": 77,
   "NumberOfRatings": 25175,
-  "NumberOfAwards": 9862,
+  "NumberOfAwards": 9863,
   "NumberOfAwardsMax": 7595,
   "MaxAwardTitle": "Challenging Puzzles",
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
-  "LastChanged": "2023-04-06T10:57:17.8965338+00:00",
+  "LastChanged": "2023-04-07T15:57:23.2124484+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:49.3012081+00:00",
@@ -2142,6 +2142,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 9862,
       "NumberOfAwardsMax": 7595
+    },
+    {
+      "Time": "2023-04-07T15:57:23.2124486+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 9863,
+      "NumberOfAwardsMax": 7595
     }
   ],
   "Tags": [
@@ -2179,7 +2185,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 250
+      "Count": 251
     },
     {
       "Text": "This game has Amazing Storytelling",

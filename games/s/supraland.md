@@ -3,7 +3,7 @@ Rating: 4.61 (Ranked 348)
 Number of Ratings: 25,175  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Challenging Puzzles): 7,595  (Ranked 37)  
-Sum: 9,862 (Ranked 77)  
+Sum: 9,863 (Ranked 77)  
 Diff (max vs sum): -40
 ## Awards
 | Award | Number of Ratings |
@@ -15,7 +15,7 @@ Diff (max vs sum): -40
 | This game has Amazing Storytelling | 263 |
 | This game has Quickly Understood Controls | 260 |
 | This game is Great for Beginners | 259 |
-| This game is Extremely Fun | 250 |
+| This game is Extremely Fun | 251 |
 | This game has Obsessive Gameplay | 243 |
 | This game is Highly Recommended | 230 |
 | This game has a Creative Community | 186 |
@@ -91,3 +91,4 @@ Diff (max vs sum): -40
 | 2023-04-02 | 4.61 | - | 7,594 |
 | 2023-04-04 | 4.61 | - | 7,595 |
 | 2023-04-06 | 4.61 | - | 7,595 |
+| 2023-04-07 | 4.61 | - | 7,595 |
