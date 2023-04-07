@@ -1,8 +1,8 @@
 {
   "ID": "0e87bed2a83c4cf6a68a7aeb43f25cf0",
   "Name": "Kingdom New Lands",
-  "Rating": 4.52,
-  "Ranking_Rating": 495,
+  "Rating": 4.53,
+  "Ranking_Rating": 479,
   "Ranking_Popularity": 297,
   "Ranking_PopularitySum": 255,
   "NumberOfRatings": 1793,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 115,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:26:48.0590918+00:00",
-  "LastChanged": "2023-04-02T13:58:29.8526471+00:00",
+  "LastChanged": "2023-04-07T16:57:46.0943917+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:48.0590922+00:00",
@@ -1265,6 +1265,12 @@
     {
       "Time": "2023-04-02T13:58:29.8526472+00:00",
       "Rating": 4.52,
+      "NumberOfAwards": 690,
+      "NumberOfAwardsMax": 115
+    },
+    {
+      "Time": "2023-04-07T16:57:46.0943918+00:00",
+      "Rating": 4.53,
       "NumberOfAwards": 690,
       "NumberOfAwardsMax": 115
     }

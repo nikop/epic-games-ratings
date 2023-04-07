@@ -1,5 +1,5 @@
 # Kingdom New Lands
-Rating: 4.52 (Ranked 495)  
+Rating: 4.53 (Ranked 479)  
 Number of Ratings: 1,793  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 115  (Ranked 297)  
@@ -99,3 +99,4 @@ Diff (max vs sum): 42
 | 2023-02-11 | 4.53 | - | - |
 | 2023-02-16 | 4.52 | - | - |
 | 2023-04-02 | 4.52 | - | 115 |
+| 2023-04-07 | 4.53 | - | 115 |

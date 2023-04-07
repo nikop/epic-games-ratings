@@ -6,11 +6,11 @@
   "Ranking_Popularity": 146,
   "Ranking_PopularitySum": 109,
   "NumberOfRatings": 11240,
-  "NumberOfAwards": 6333,
+  "NumberOfAwards": 6334,
   "NumberOfAwardsMax": 760,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
-  "LastChanged": "2023-04-07T13:57:26.8301719+00:00",
+  "LastChanged": "2023-04-07T16:57:14.4050542+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:37.4125463+00:00",
@@ -2872,6 +2872,12 @@
       "Rating": 4.73,
       "NumberOfAwards": 6333,
       "NumberOfAwardsMax": 760
+    },
+    {
+      "Time": "2023-04-07T16:57:14.4050543+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 6334,
+      "NumberOfAwardsMax": 760
     }
   ],
   "Tags": [
@@ -2903,7 +2909,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 679
+      "Count": 680
     },
     {
       "Text": "This game is Educational",
