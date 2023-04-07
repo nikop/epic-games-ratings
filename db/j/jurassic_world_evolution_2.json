@@ -1,16 +1,16 @@
 {
   "ID": "4817ba5c11504724ba4d5817c8995dff",
   "Name": "Jurassic World Evolution 2",
-  "Rating": 4.73,
-  "Ranking_Rating": 154,
+  "Rating": 4.74,
+  "Ranking_Rating": 142,
   "Ranking_Popularity": 166,
   "Ranking_PopularitySum": 115,
   "NumberOfRatings": 3746,
-  "NumberOfAwards": 5277,
-  "NumberOfAwardsMax": 562,
+  "NumberOfAwards": 5279,
+  "NumberOfAwardsMax": 564,
   "MaxAwardTitle": "Amazing Storytelling",
   "FirstSeen": "2022-07-22T20:20:10.4170435+00:00",
-  "LastChanged": "2023-04-07T07:57:29.0225846+00:00",
+  "LastChanged": "2023-04-07T14:57:22.6742962+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:10.4170437+00:00",
@@ -2322,6 +2322,12 @@
       "Rating": 4.73,
       "NumberOfAwards": 5277,
       "NumberOfAwardsMax": 562
+    },
+    {
+      "Time": "2023-04-07T14:57:22.6742965+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 5279,
+      "NumberOfAwardsMax": 564
     }
   ],
   "Tags": [
@@ -2353,7 +2359,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 562
+      "Count": 564
     },
     {
       "Text": "This game is Great for Beginners",

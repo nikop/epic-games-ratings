@@ -1,5 +1,5 @@
 # APE OUT
-Rating: 4.65 (Ranked 286)  
+Rating: 4.65 (Ranked 287)  
 Number of Ratings: 33  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  

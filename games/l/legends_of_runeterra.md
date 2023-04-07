@@ -1,9 +1,9 @@
 # Legends of Runeterra
-Rating: 4.65 (Ranked 286)  
+Rating: 4.65 (Ranked 287)  
 Number of Ratings: 431  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Quick Sessions): 145  (Ranked 280)  
-Sum: 1,254 (Ranked 215)  
+Sum: 1,255 (Ranked 215)  
 Diff (max vs sum): 65
 ## Awards
 | Award | Number of Ratings |
@@ -11,7 +11,7 @@ Diff (max vs sum): 65
 | This game is Great for Quick Sessions | 145 |
 | This game has Diverse Characters | 137 |
 | This game is Great for Beginners | 132 |
-| This game has Quickly Understood Controls | 118 |
+| This game has Quickly Understood Controls | 119 |
 | This game is Relaxing | 117 |
 | This game is Extremely Fun | 109 |
 | This game is Highly Recommended | 107 |
