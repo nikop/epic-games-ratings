@@ -3,14 +3,14 @@
   "Name": "Insurgency: Sandstorm",
   "Rating": 4.62,
   "Ranking_Rating": 333,
-  "Ranking_Popularity": 206,
+  "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 159,
   "NumberOfRatings": 1316,
-  "NumberOfAwards": 2540,
-  "NumberOfAwardsMax": 339,
+  "NumberOfAwards": 2542,
+  "NumberOfAwardsMax": 340,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
-  "LastChanged": "2023-04-06T21:57:02.0786394+00:00",
+  "LastChanged": "2023-04-07T01:50:28.8423059+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:15.5604869+00:00",
@@ -1439,6 +1439,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 2540,
       "NumberOfAwardsMax": 339
+    },
+    {
+      "Time": "2023-04-07T01:50:28.842306+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2542,
+      "NumberOfAwardsMax": 340
     }
   ],
   "Tags": [
@@ -1446,7 +1452,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 339
+      "Count": 340
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1458,7 +1464,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 298
+      "Count": 299
     },
     {
       "Text": "This game has Amazing Storytelling",

@@ -2,15 +2,15 @@
   "ID": "impala",
   "Name": "The Division 2 Standard Edition",
   "Rating": 4.46,
-  "Ranking_Rating": 576,
+  "Ranking_Rating": 577,
   "Ranking_Popularity": 45,
   "Ranking_PopularitySum": 50,
   "NumberOfRatings": 6675,
-  "NumberOfAwards": 20245,
+  "NumberOfAwards": 20253,
   "NumberOfAwardsMax": 6340,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2023-04-06T23:57:49.5513129+00:00",
+  "LastChanged": "2023-04-07T01:50:53.3161697+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:04.4200789+00:00",
@@ -3364,6 +3364,12 @@
       "Rating": 4.46,
       "NumberOfAwards": 20245,
       "NumberOfAwardsMax": 6340
+    },
+    {
+      "Time": "2023-04-07T01:50:53.3161699+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 20253,
+      "NumberOfAwardsMax": 6340
     }
   ],
   "Tags": [
@@ -3389,13 +3395,13 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1008
+      "Count": 1012
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1015
+      "Count": 1017
     },
     {
       "Text": "This game is Relaxing",
@@ -3437,7 +3443,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 997
+      "Count": 999
     }
   ]
 }

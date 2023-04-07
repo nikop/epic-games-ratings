@@ -2,8 +2,8 @@
 Rating: 3.86 (Ranked 884)  
 ## Popularity (Based on Awards)
 Max (Amazing Characters): 52  (Ranked 375)  
-Sum: 235 (Ranked 336)  
-Diff (max vs sum): 39
+Sum: 246 (Ranked 334)  
+Diff (max vs sum): 41
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
@@ -11,7 +11,7 @@ Diff (max vs sum): 39
 | This game has Diverse Characters | 51 |
 | This game is Great for Quick Sessions | 49 |
 | This game has Quickly Understood Controls | 47 |
-| This game has Challenging Combat | 36 |
+| This game has Challenging Combat | 47 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -24,3 +24,4 @@ Diff (max vs sum): 39
 | 2023-04-04 | 3.86 | - | 34 |
 | 2023-04-05 | 3.84 | - | 42 |
 | 2023-04-06 | 3.86 | - | 52 |
+| 2023-04-07 | 3.86 | - | 52 |
