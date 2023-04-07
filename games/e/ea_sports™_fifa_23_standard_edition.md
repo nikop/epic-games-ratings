@@ -2,7 +2,7 @@
 Rating: 4.23 (Ranked 778)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 6,395  (Ranked 45)  
-Sum: 30,462 (Ranked 33)  
+Sum: 30,523 (Ranked 33)  
 Diff (max vs sum): 12
 ## Awards
 | Award | Number of Ratings |
@@ -12,7 +12,7 @@ Diff (max vs sum): 12
 | This game has a Competitive Community | 4,300 |
 | This game has Competitive Players | 3,951 |
 | This game has Amazing Characters | 3,860 |
-| This game has Quickly Understood Controls | 3,630 |
+| This game has Quickly Understood Controls | 3,691 |
 | This game has Amazing Storytelling | 3,627 |
 | This game is Extremely Fun | 2,318 |
 ## Ratings History

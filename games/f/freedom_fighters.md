@@ -1,5 +1,5 @@
 # Freedom Fighters
-Rating: 4.71 (Ranked 176)  
+Rating: 4.72 (Ranked 167)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  
 Sum: 0 (Ranked 481)  
@@ -16,3 +16,4 @@ Diff (max vs sum): 0
 | 2023-02-24 | 4.70 | - | - |
 | 2023-03-24 | 4.71 | - | - |
 | 2023-03-31 | 4.71 | - | 0 |
+| 2023-04-07 | 4.72 | - | 0 |

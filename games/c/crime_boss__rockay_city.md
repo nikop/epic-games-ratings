@@ -2,15 +2,15 @@
 Rating: 3.85 (Ranked 886)  
 ## Popularity (Based on Awards)
 Max (Great for Quick Sessions): 61  (Ranked 367)  
-Sum: 265 (Ranked 327)  
-Diff (max vs sum): 40
+Sum: 272 (Ranked 322)  
+Diff (max vs sum): 45
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Great for Quick Sessions | 61 |
 | This game has Diverse Characters | 58 |
+| This game has Quickly Understood Controls | 54 |
 | This game has Amazing Characters | 52 |
-| This game has Quickly Understood Controls | 47 |
 | This game has Challenging Combat | 47 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |

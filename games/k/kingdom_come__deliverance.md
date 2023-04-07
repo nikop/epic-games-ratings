@@ -1,14 +1,14 @@
 # Kingdom Come: Deliverance
-Rating: 4.71 (Ranked 176)  
+Rating: 4.71 (Ranked 177)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 7,057  (Ranked 40)  
-Sum: 26,417 (Ranked 39)  
+Max (Character Customization): 7,064  (Ranked 40)  
+Sum: 26,425 (Ranked 39)  
 Diff (max vs sum): 1
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 7,057 |
+| This game has Inclusive Character Customization | 7,064 |
 | This game has Great Boss Battles | 5,216 |
 | This game has Challenging Combat | 1,656 |
 | This game has Amazing Storytelling | 1,618 |
@@ -18,7 +18,7 @@ Diff (max vs sum): 1
 | This game has Amazing Characters | 1,575 |
 | This game has Realistic Visuals | 1,559 |
 | This game is Educational | 1,513 |
-| This game is Relaxing | 1,455 |
+| This game is Relaxing | 1,456 |
 | This game has Obsessive Gameplay | 1,048 |
 | This game has a Creative Community | 664 |
 ## Ratings History
@@ -95,4 +95,4 @@ Diff (max vs sum): 1
 | 2023-04-04 | 4.71 | - | 7,050 |
 | 2023-04-05 | 4.71 | - | 7,053 |
 | 2023-04-06 | 4.71 | - | 7,057 |
-| 2023-04-07 | 4.71 | - | 7,057 |
+| 2023-04-07 | 4.71 | - | 7,064 |

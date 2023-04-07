@@ -4,13 +4,13 @@
   "Rating": 3.85,
   "Ranking_Rating": 886,
   "Ranking_Popularity": 367,
-  "Ranking_PopularitySum": 327,
-  "NumberOfAwards": 265,
+  "Ranking_PopularitySum": 322,
+  "NumberOfAwards": 272,
   "NumberOfAwardsMax": 61,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
-  "LastChanged": "2023-04-07T17:57:04.9141389+00:00",
+  "LastChanged": "2023-04-07T20:56:57.5071835+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-29T02:58:45.3340124+00:00",
@@ -365,6 +365,12 @@
       "Rating": 3.85,
       "NumberOfAwards": 265,
       "NumberOfAwardsMax": 61
+    },
+    {
+      "Time": "2023-04-07T20:56:57.5071838+00:00",
+      "Rating": 3.85,
+      "NumberOfAwards": 272,
+      "NumberOfAwardsMax": 61
     }
   ],
   "Tags": [
@@ -390,7 +396,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 47
+      "Count": 54
     },
     {
       "Text": "This game has Challenging Combat",

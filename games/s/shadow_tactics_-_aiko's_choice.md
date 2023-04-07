@@ -1,5 +1,5 @@
 # Shadow Tactics - Aiko's Choice
-Rating: 4.71 (Ranked 176)  
+Rating: 4.71 (Ranked 177)  
 Number of Ratings: 68  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 66  (Ranked 358)  

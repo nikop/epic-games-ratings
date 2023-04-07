@@ -1,6 +1,18 @@
 {
   "ID": "70154859be3c47bca7eef7f37b1a9f6a",
   "Name": "Book of Demons",
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-07T20:57:53.3312508+00:00",
+  "FirstSeenRating": "2023-04-07T20:57:53.3312549+00:00",
+  "LastChanged": "2023-04-07T20:57:53.331255+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-07T20:57:53.3312553+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }
