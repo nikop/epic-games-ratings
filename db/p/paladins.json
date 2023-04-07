@@ -3,14 +3,14 @@
   "Name": "Paladins",
   "Rating": 4.35,
   "Ranking_Rating": 700,
-  "Ranking_Popularity": 82,
-  "Ranking_PopularitySum": 48,
+  "Ranking_Popularity": 81,
+  "Ranking_PopularitySum": 45,
   "NumberOfRatings": 11687,
-  "NumberOfAwards": 21787,
-  "NumberOfAwardsMax": 3135,
-  "MaxAwardTitle": "Diverse Characters",
+  "NumberOfAwards": 24980,
+  "NumberOfAwardsMax": 3193,
+  "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:17:05.5508389+00:00",
-  "LastChanged": "2023-04-07T03:56:53.2752881+00:00",
+  "LastChanged": "2023-04-07T06:56:57.20021+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:05.5508391+00:00",
@@ -3316,6 +3316,12 @@
       "Rating": 4.35,
       "NumberOfAwards": 21787,
       "NumberOfAwardsMax": 3135
+    },
+    {
+      "Time": "2023-04-07T06:56:57.2002102+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 24980,
+      "NumberOfAwardsMax": 3193
     }
   ],
   "Tags": [
@@ -3323,7 +3329,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 3182
+      "Count": 3193
     },
     {
       "Text": "This game has Diverse Characters",
