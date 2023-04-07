@@ -1,5 +1,5 @@
 # Cozy Grove
-Rating: 4.81 (Ranked 67)  
+Rating: 4.81 (Ranked 68)  
 Number of Ratings: 43  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  

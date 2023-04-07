@@ -1,5 +1,5 @@
 # Against the Storm
-Rating: 4.81 (Ranked 67)  
+Rating: 4.81 (Ranked 68)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 414  (Ranked 188)  

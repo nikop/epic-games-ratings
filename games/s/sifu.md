@@ -1,9 +1,9 @@
 # Sifu
-Rating: 4.81 (Ranked 67)  
+Rating: 4.82 (Ranked 61)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 5,838  (Ranked 53)  
-Sum: 9,819 (Ranked 78)  
+Sum: 9,820 (Ranked 78)  
 Diff (max vs sum): -25
 ## Awards
 | Award | Number of Ratings |
@@ -14,7 +14,7 @@ Diff (max vs sum): -25
 | This game has Challenging Combat | 474 |
 | This game is Extremely Fun | 470 |
 | This game has Amazing Storytelling | 457 |
-| This game is Highly Recommended | 452 |
+| This game is Highly Recommended | 453 |
 | This game has Amazing Characters | 433 |
 | This game has Unique Visuals | 425 |
 | This game is Relaxing | 401 |
@@ -104,4 +104,4 @@ Diff (max vs sum): -25
 | 2023-04-04 | 4.81 | - | 5,802 |
 | 2023-04-05 | 4.81 | - | 5,816 |
 | 2023-04-06 | 4.81 | - | 5,829 |
-| 2023-04-07 | 4.81 | - | 5,838 |
+| 2023-04-07 | 4.82 | - | 5,838 |
