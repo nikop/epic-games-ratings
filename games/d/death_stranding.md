@@ -2,7 +2,7 @@
 Rating: 4.78 (Ranked 100)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 4,395  (Ranked 66)  
-Sum: 5,999 (Ranked 111)  
+Sum: 6,000 (Ranked 111)  
 Diff (max vs sum): -45
 ## Awards
 | Award | Number of Ratings |
@@ -16,7 +16,7 @@ Diff (max vs sum): -45
 | This game has Amazing Characters | 181 |
 | This game has Amazing Storytelling | 176 |
 | This game is Extremely Fun | 157 |
-| This game has a Creative Community | 136 |
+| This game has a Creative Community | 137 |
 | This game has Easy Combat | 28 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
