@@ -1,5 +1,5 @@
 # We Were Here Forever
-Rating: 4.66 (Ranked 272)  
+Rating: 4.66 (Ranked 271)  
 Number of Ratings: 113  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Challenging Puzzles): 21  (Ranked 471)  

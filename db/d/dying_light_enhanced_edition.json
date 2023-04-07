@@ -1,16 +1,16 @@
 {
   "ID": "2c42520d342a46d7a6e0cfa77b4715de",
   "Name": "Dying Light Enhanced Edition",
-  "Rating": 4.67,
-  "Ranking_Rating": 254,
+  "Rating": 4.64,
+  "Ranking_Rating": 309,
   "Ranking_Popularity": 73,
   "Ranking_PopularitySum": 70,
   "NumberOfRatings": 3181,
-  "NumberOfAwards": 11916,
+  "NumberOfAwards": 11918,
   "NumberOfAwardsMax": 3885,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:18:05.0678131+00:00",
-  "LastChanged": "2023-04-07T03:56:58.3129997+00:00",
+  "LastChanged": "2023-04-07T04:57:11.5966895+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:05.0678134+00:00",
@@ -2511,6 +2511,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 11916,
       "NumberOfAwardsMax": 3885
+    },
+    {
+      "Time": "2023-04-07T04:57:11.5966973+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 11918,
+      "NumberOfAwardsMax": 3885
     }
   ],
   "Tags": [
@@ -2548,7 +2554,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 554
+      "Count": 555
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2578,7 +2584,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 582
+      "Count": 583
     },
     {
       "Text": "This game has Quickly Understood Controls",
