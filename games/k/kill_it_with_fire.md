@@ -1,5 +1,5 @@
 # Kill It With Fire
-Rating: 4.43 (Ranked 623)  
+Rating: 4.43 (Ranked 622)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  
 Sum: 0 (Ranked 481)  
