@@ -61,7 +61,7 @@
 | 54 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 80 | 337 |
 | 54 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.83 | 0 | 481 |
 | 61 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,161 | 121 |
-| 61 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,392 | 58 |
+| 61 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,398 | 58 |
 | 61 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 481 |
 | 61 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 0 | 481 |
 | 61 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 468 | 182 |
@@ -148,24 +148,24 @@
 | 142 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 564 | 166 |
 | 142 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,330 | 47 |
 | 142 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 222 | 243 |
-| 142 | [shapez](games/s/shapez.md) | 4.74 | 0 | 481 |
 | 142 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 28,774 | 13 |
 | 142 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 481 |
 | 142 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 41 | 401 |
 | 142 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 76 | 339 |
 | 142 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 570 | 164 |
-| 155 | [BLACKTAIL](games/b/blacktail.md) | 4.73 | 0 | 481 |
-| 155 | [Dead Space](games/d/dead_space.md) | 4.73 | 31 | 432 |
-| 155 | [DOOM II](games/d/doom_ii.md) | 4.73 | 25 | 455 |
-| 155 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 760 | 146 |
-| 155 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 539 | 173 |
-| 155 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 139 | 282 |
-| 155 | [Outlast](games/o/outlast.md) | 4.73 | 0 | 481 |
-| 155 | [Slipways](games/s/slipways.md) | 4.73 | 0 | 481 |
-| 155 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 307 | 215 |
-| 155 | [Suzerain](games/s/suzerain.md) | 4.73 | 0 | 481 |
-| 155 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 0 | 481 |
-| 155 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 0 | 481 |
+| 154 | [BLACKTAIL](games/b/blacktail.md) | 4.73 | 0 | 481 |
+| 154 | [Dead Space](games/d/dead_space.md) | 4.73 | 31 | 432 |
+| 154 | [DOOM II](games/d/doom_ii.md) | 4.73 | 25 | 455 |
+| 154 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 760 | 146 |
+| 154 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 539 | 173 |
+| 154 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 139 | 282 |
+| 154 | [Outlast](games/o/outlast.md) | 4.73 | 0 | 481 |
+| 154 | [shapez](games/s/shapez.md) | 4.73 | 0 | 481 |
+| 154 | [Slipways](games/s/slipways.md) | 4.73 | 0 | 481 |
+| 154 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.73 | 307 | 215 |
+| 154 | [Suzerain](games/s/suzerain.md) | 4.73 | 0 | 481 |
+| 154 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 0 | 481 |
+| 154 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 0 | 481 |
 | 167 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.72 | 0 | 481 |
 | 167 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.72 | 0 | 481 |
 | 167 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 447 | 185 |
@@ -182,7 +182,7 @@
 | 177 | [Fez](games/f/fez.md) | 4.71 | 23 | 459 |
 | 177 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 417 |
 | 177 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 0 | 481 |
-| 177 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,064 | 40 |
+| 177 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,064 | 41 |
 | 177 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 0 | 481 |
 | 177 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 0 | 481 |
 | 177 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.71 | 0 | 481 |
@@ -427,7 +427,7 @@
 | 419 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 35 | 417 |
 | 419 | [Hob](games/h/hob.md) | 4.57 | 0 | 481 |
 | 419 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 36 | 412 |
-| 419 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,057 | 41 |
+| 419 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,068 | 40 |
 | 419 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 2,980 | 85 |
 | 419 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 0 | 481 |
 | 419 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 115 | 297 |
@@ -484,7 +484,7 @@
 | 481 | [Aztez](games/a/aztez.md) | 4.53 | 0 | 481 |
 | 481 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 481 |
 | 481 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,277 | 16 |
-| 481 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 26,132 | 15 |
+| 481 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 26,193 | 15 |
 | 481 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 137,263 | 6 |
 | 481 | [IXION](games/i/ixion.md) | 4.53 | 0 | 481 |
 | 481 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 115 | 297 |

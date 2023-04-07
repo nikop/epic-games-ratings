@@ -1,5 +1,5 @@
 # The Talos Principle
-Rating: 4.73 (Ranked 155)  
+Rating: 4.73 (Ranked 154)  
 Number of Ratings: 281  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  
