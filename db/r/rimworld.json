@@ -3,14 +3,14 @@
   "Name": "RimWorld",
   "Rating": 4.89,
   "Ranking_Rating": 13,
-  "Ranking_Popularity": 194,
+  "Ranking_Popularity": 193,
   "Ranking_PopularitySum": 136,
   "NumberOfRatings": 870,
-  "NumberOfAwards": 3579,
-  "NumberOfAwardsMax": 393,
+  "NumberOfAwards": 3580,
+  "NumberOfAwardsMax": 394,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:18:32.0105732+00:00",
-  "LastChanged": "2023-04-06T13:57:06.6060632+00:00",
+  "LastChanged": "2023-04-08T06:57:22.0222389+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:32.0105735+00:00",
@@ -1140,6 +1140,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 3579,
       "NumberOfAwardsMax": 393
+    },
+    {
+      "Time": "2023-04-08T06:57:22.0222391+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 3580,
+      "NumberOfAwardsMax": 394
     }
   ],
   "Tags": [
@@ -1159,7 +1165,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 393
+      "Count": 394
     },
     {
       "Text": "This game is Relaxing",

@@ -2,9 +2,9 @@
 Rating: 4.88 (Ranked 19)  
 Number of Ratings: 1,319  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 237  (Ranked 236)  
-Sum: 2,124 (Ranked 175)  
-Diff (max vs sum): 61
+Max (Quickly Understood Controls): 234  (Ranked 236)  
+Sum: 1,887 (Ranked 185)  
+Diff (max vs sum): 51
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
@@ -112,3 +112,4 @@ Diff (max vs sum): 61
 | 2023-04-05 | 4.88 | - | 237 |
 | 2023-04-06 | 4.88 | - | 237 |
 | 2023-04-07 | 4.88 | - | 237 |
+| 2023-04-08 | 4.88 | - | 234 |
