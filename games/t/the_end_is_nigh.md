@@ -1,5 +1,5 @@
 # The End is Nigh
-Rating: 4.75 (Ranked 125)  
+Rating: 4.75 (Ranked 126)  
 Number of Ratings: 38  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  

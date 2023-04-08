@@ -2,15 +2,15 @@
   "ID": "2744acda6a2e493e9894b389b6564df7",
   "Name": "SnowRunner",
   "Rating": 4.76,
-  "Ranking_Rating": 113,
+  "Ranking_Rating": 114,
   "Ranking_Popularity": 39,
   "Ranking_PopularitySum": 20,
   "NumberOfRatings": 21349,
-  "NumberOfAwards": 53547,
+  "NumberOfAwards": 53552,
   "NumberOfAwardsMax": 7439,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:17:33.5806012+00:00",
-  "LastChanged": "2023-04-08T07:57:12.926472+00:00",
+  "LastChanged": "2023-04-08T10:57:01.3381572+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:33.5806018+00:00",
@@ -3494,6 +3494,12 @@
       "Rating": 4.76,
       "NumberOfAwards": 53547,
       "NumberOfAwardsMax": 7439
+    },
+    {
+      "Time": "2023-04-08T10:57:01.3381574+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 53552,
+      "NumberOfAwardsMax": 7439
     }
   ],
   "Tags": [
@@ -3543,7 +3549,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 4635
+      "Count": 4640
     },
     {
       "Text": "This game has Amazing Characters",

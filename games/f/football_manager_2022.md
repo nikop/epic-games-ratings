@@ -3,7 +3,7 @@ Rating: 4.80 (Ranked 78)
 Number of Ratings: 19,160  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 6,208  (Ranked 49)  
-Sum: 48,965 (Ranked 21)  
+Sum: 48,967 (Ranked 21)  
 Diff (max vs sum): 28
 ## Awards
 | Award | Number of Ratings |
@@ -13,7 +13,7 @@ Diff (max vs sum): 28
 | This game has Competitive Players | 5,683 |
 | This game has Quickly Understood Controls | 5,682 |
 | This game is Educational | 5,649 |
-| This game is Highly Recommended | 5,637 |
+| This game is Highly Recommended | 5,639 |
 | This game has Diverse Characters | 5,181 |
 | This game has Amazing Storytelling | 4,794 |
 | This game has Obsessive Gameplay | 4,416 |

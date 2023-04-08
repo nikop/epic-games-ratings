@@ -3,13 +3,13 @@ Rating: 4.50 (Ranked 522)
 Number of Ratings: 2,871  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 627  (Ranked 160)  
-Sum: 5,778 (Ranked 112)  
+Sum: 5,779 (Ranked 112)  
 Diff (max vs sum): 48
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Quickly Understood Controls | 627 |
-| This game is Extremely Fun | 619 |
+| This game is Extremely Fun | 620 |
 | This game has Challenging Combat | 612 |
 | This game is Highly Recommended | 608 |
 | This game has Diverse Characters | 606 |

@@ -1,5 +1,5 @@
 # Sackboy™: A Big Adventure
-Rating: 4.75 (Ranked 125)  
+Rating: 4.75 (Ranked 126)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  
 Sum: 0 (Ranked 481)  

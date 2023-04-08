@@ -3,21 +3,21 @@ Rating: 4.69 (Ranked 213)
 Number of Ratings: 2,918  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 840  (Ranked 143)  
-Sum: 6,975 (Ranked 100)  
+Sum: 6,977 (Ranked 100)  
 Diff (max vs sum): 43
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Extremely Fun | 840 |
 | This game is Highly Recommended | 840 |
-| This game is Educational | 828 |
+| This game is Educational | 829 |
 | This game has Diverse Characters | 824 |
 | This game has Challenging Combat | 814 |
 | This game has Competitive Players | 810 |
 | This game has Amazing Storytelling | 749 |
 | This game has Realistic Visuals | 723 |
 | This game has a Competitive Community | 644 |
-| This game has Amazing Characters | 626 |
+| This game has Amazing Characters | 627 |
 | This game has Obsessive Gameplay | 562 |
 | This game is Relaxing | 181 |
 ## Ratings History
