@@ -3,14 +3,14 @@
   "Name": "Tom Clancy\u2019s Rainbow Six\u00AE Extraction Standard Edition",
   "Rating": 4.52,
   "Ranking_Rating": 497,
-  "Ranking_Popularity": 283,
+  "Ranking_Popularity": 282,
   "Ranking_PopularitySum": 226,
   "NumberOfRatings": 635,
-  "NumberOfAwards": 970,
-  "NumberOfAwardsMax": 138,
+  "NumberOfAwards": 972,
+  "NumberOfAwardsMax": 140,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:22:18.7941234+00:00",
-  "LastChanged": "2023-04-07T10:57:15.4936798+00:00",
+  "LastChanged": "2023-04-08T15:57:13.6250455+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:18.7941236+00:00",
@@ -1046,6 +1046,12 @@
       "Rating": 4.52,
       "NumberOfAwards": 970,
       "NumberOfAwardsMax": 138
+    },
+    {
+      "Time": "2023-04-08T15:57:13.6250456+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 972,
+      "NumberOfAwardsMax": 140
     }
   ],
   "Tags": [
@@ -1053,7 +1059,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 138
+      "Count": 140
     },
     {
       "Text": "This game is Relaxing",

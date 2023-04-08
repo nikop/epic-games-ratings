@@ -1,5 +1,5 @@
 # Valiant Hearts: The Great War
-Rating: 4.83 (Ranked 54)  
+Rating: 4.83 (Ranked 55)  
 Number of Ratings: 30  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  

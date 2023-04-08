@@ -2,15 +2,15 @@
   "ID": "4fb89e9f47fe48258314c366649c398e",
   "Name": "Legends of Runeterra",
   "Rating": 4.65,
-  "Ranking_Rating": 288,
+  "Ranking_Rating": 289,
   "Ranking_Popularity": 280,
   "Ranking_PopularitySum": 215,
   "NumberOfRatings": 431,
-  "NumberOfAwards": 1255,
+  "NumberOfAwards": 1258,
   "NumberOfAwardsMax": 145,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:20:06.6748123+00:00",
-  "LastChanged": "2023-04-07T14:57:22.1242303+00:00",
+  "LastChanged": "2023-04-08T15:57:01.8986423+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:06.6748126+00:00",
@@ -877,6 +877,12 @@
       "Rating": 4.65,
       "NumberOfAwards": 1255,
       "NumberOfAwardsMax": 145
+    },
+    {
+      "Time": "2023-04-08T15:57:01.8986424+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1258,
+      "NumberOfAwardsMax": 145
     }
   ],
   "Tags": [
@@ -902,7 +908,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 117
+      "Count": 118
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -926,7 +932,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 107
+      "Count": 109
     },
     {
       "Text": "This game is Extremely Fun",

@@ -1,5 +1,5 @@
 # A Short Hike
-Rating: 4.83 (Ranked 54)  
+Rating: 4.83 (Ranked 55)  
 Number of Ratings: 184  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  

@@ -1,8 +1,8 @@
 {
   "ID": "deab864e1abf4357b303bcd5ff6fe8da",
   "Name": "Tony Hawk\u0027s\u2122 Pro Skater\u2122 1 \u002B 2",
-  "Rating": 4.83,
-  "Ranking_Rating": 54,
+  "Rating": 4.84,
+  "Ranking_Rating": 47,
   "Ranking_Popularity": 337,
   "Ranking_PopularitySum": 266,
   "NumberOfRatings": 1298,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 80,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:20:55.4170175+00:00",
-  "LastChanged": "2023-04-04T06:57:12.2683247+00:00",
+  "LastChanged": "2023-04-08T15:57:05.8152117+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:55.4170178+00:00",
@@ -1111,6 +1111,12 @@
     {
       "Time": "2023-04-04T06:57:12.2683248+00:00",
       "Rating": 4.83,
+      "NumberOfAwards": 632,
+      "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2023-04-08T15:57:05.815212+00:00",
+      "Rating": 4.84,
       "NumberOfAwards": 632,
       "NumberOfAwardsMax": 80
     }

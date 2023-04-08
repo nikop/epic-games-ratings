@@ -1,6 +1,18 @@
 {
   "ID": "ddb0965e1dbf42b8bb00a6141be02a12",
   "Name": "Unusual Findings",
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-08T15:58:09.6187261+00:00",
+  "FirstSeenRating": "2023-04-08T15:58:09.6187281+00:00",
+  "LastChanged": "2023-04-08T15:58:09.6187281+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-08T15:58:09.6187283+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }
