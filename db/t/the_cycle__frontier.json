@@ -3,14 +3,14 @@
   "Name": "The Cycle: Frontier",
   "Rating": 4.1,
   "Ranking_Rating": 843,
-  "Ranking_Popularity": 96,
+  "Ranking_Popularity": 95,
   "Ranking_PopularitySum": 67,
   "NumberOfRatings": 15671,
-  "NumberOfAwards": 12276,
-  "NumberOfAwardsMax": 2154,
+  "NumberOfAwards": 12280,
+  "NumberOfAwardsMax": 2158,
   "MaxAwardTitle": "Competitive Players",
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "LastChanged": "2023-04-08T03:57:13.8671016+00:00",
+  "LastChanged": "2023-04-08T09:57:02.9181587+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:03.6642348+00:00",
@@ -3386,6 +3386,12 @@
       "Rating": 4.1,
       "NumberOfAwards": 12276,
       "NumberOfAwardsMax": 2154
+    },
+    {
+      "Time": "2023-04-08T09:57:02.9181589+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 12280,
+      "NumberOfAwardsMax": 2158
     }
   ],
   "Tags": [
@@ -3393,7 +3399,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 2154
+      "Count": 2158
     },
     {
       "Text": "This game has Quickly Understood Controls",

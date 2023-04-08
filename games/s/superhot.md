@@ -1,5 +1,5 @@
 # SUPERHOT
-Rating: 4.71 (Ranked 177)  
+Rating: 4.72 (Ranked 167)  
 Number of Ratings: 146  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  
@@ -70,3 +70,4 @@ Diff (max vs sum): 0
 | 2022-12-20 | 4.72 | - | - |
 | 2023-01-31 | 4.71 | - | - |
 | 2023-03-31 | 4.71 | - | 0 |
+| 2023-04-08 | 4.72 | - | 0 |
