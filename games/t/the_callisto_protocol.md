@@ -2,8 +2,8 @@
 Rating: 4.18 (Ranked 811)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 44  (Ranked 396)  
-Sum: 231 (Ranked 338)  
-Diff (max vs sum): 58
+Sum: 231 (Ranked 339)  
+Diff (max vs sum): 57
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

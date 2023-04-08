@@ -1,5 +1,5 @@
 # Fallout Tactics: Brotherhood of Steel
-Rating: 4.49 (Ranked 535)  
+Rating: 4.50 (Ranked 522)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 65  (Ranked 363)  
 Sum: 65 (Ranked 415)  
@@ -55,3 +55,4 @@ Diff (max vs sum): -52
 | 2023-04-03 | 4.49 | - | 63 |
 | 2023-04-06 | 4.49 | - | 64 |
 | 2023-04-07 | 4.49 | - | 65 |
+| 2023-04-08 | 4.50 | - | 65 |
