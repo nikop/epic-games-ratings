@@ -1,5 +1,5 @@
 # WRC Generations
-Rating: 4.45 (Ranked 590)  
+Rating: 4.45 (Ranked 591)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  
 Sum: 0 (Ranked 481)  

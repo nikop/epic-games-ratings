@@ -3,15 +3,15 @@
   "Name": "Blankos Block Party",
   "Rating": 4.21,
   "Ranking_Rating": 787,
-  "Ranking_Popularity": 443,
+  "Ranking_Popularity": 440,
   "Ranking_PopularitySum": 372,
   "NumberOfRatings": 27,
-  "NumberOfAwards": 148,
-  "NumberOfAwardsMax": 28,
+  "NumberOfAwards": 150,
+  "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-09-15T18:02:36.8331612+00:00",
   "FirstSeenRating": "2022-09-21T21:02:42.6156669+00:00",
-  "LastChanged": "2023-04-03T05:58:46.3634651+00:00",
+  "LastChanged": "2023-04-08T16:58:01.0220708+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-21T21:02:42.6156673+00:00",
@@ -333,6 +333,12 @@
       "Rating": 4.21,
       "NumberOfAwards": 148,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2023-04-08T16:58:01.0220709+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 150,
+      "NumberOfAwardsMax": 29
     }
   ],
   "Tags": [
@@ -340,7 +346,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Highly Recommended",
@@ -370,7 +376,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 23
+      "Count": 24
     }
   ]
 }

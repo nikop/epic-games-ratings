@@ -1,9 +1,9 @@
 # Far Cry 5 Standard Edition
-Rating: 4.61 (Ranked 348)  
+Rating: 4.61 (Ranked 349)  
 Number of Ratings: 1,848  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 1,140  (Ranked 122)  
-Sum: 1,677 (Ranked 198)  
+Sum: 1,678 (Ranked 198)  
 Diff (max vs sum): -76
 ## Awards
 | Award | Number of Ratings |
@@ -17,7 +17,7 @@ Diff (max vs sum): -76
 | This game is Highly Recommended | 57 |
 | This game has Amazing Storytelling | 56 |
 | This game has Realistic Visuals | 52 |
-| This game has Competitive Players | 50 |
+| This game has Competitive Players | 51 |
 | This game has Diverse Characters | 46 |
 | This game has a Creative Community | 36 |
 ## Ratings History

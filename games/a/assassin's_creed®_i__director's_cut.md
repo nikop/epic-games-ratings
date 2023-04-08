@@ -1,5 +1,5 @@
 # Assassin's Creed® I: Director's Cut
-Rating: 4.47 (Ranked 564)  
+Rating: 4.46 (Ranked 576)  
 Number of Ratings: 142  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  
@@ -93,3 +93,4 @@ Diff (max vs sum): 0
 | 2023-03-15 | 4.48 | - | - |
 | 2023-03-22 | 4.47 | - | - |
 | 2023-03-31 | 4.47 | - | 0 |
+| 2023-04-08 | 4.46 | - | 0 |

@@ -2,15 +2,15 @@
   "ID": "933ada2ec45e4184ae840d64c99e0ba9",
   "Name": "Rogue Company",
   "Rating": 4.35,
-  "Ranking_Rating": 702,
+  "Ranking_Rating": 703,
   "Ranking_Popularity": 62,
   "Ranking_PopularitySum": 34,
   "NumberOfRatings": 21107,
-  "NumberOfAwards": 30242,
-  "NumberOfAwardsMax": 4760,
+  "NumberOfAwards": 30246,
+  "NumberOfAwardsMax": 4764,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:16:58.1519565+00:00",
-  "LastChanged": "2023-04-08T01:47:34.2222864+00:00",
+  "LastChanged": "2023-04-08T16:56:50.7784641+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:58.1519568+00:00",
@@ -3530,6 +3530,12 @@
       "Rating": 4.35,
       "NumberOfAwards": 30242,
       "NumberOfAwardsMax": 4760
+    },
+    {
+      "Time": "2023-04-08T16:56:50.7784645+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 30246,
+      "NumberOfAwardsMax": 4764
     }
   ],
   "Tags": [
@@ -3543,7 +3549,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4760
+      "Count": 4764
     },
     {
       "Text": "This game has Competitive Players",

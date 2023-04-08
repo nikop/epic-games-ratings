@@ -1,5 +1,5 @@
 # Weird West
-Rating: 4.45 (Ranked 590)  
+Rating: 4.45 (Ranked 591)  
 Number of Ratings: 125  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Impact the Story): 22  (Ranked 464)  

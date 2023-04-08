@@ -2,15 +2,15 @@
   "ID": "coriander",
   "Name": "Far Cry 5 Standard Edition",
   "Rating": 4.61,
-  "Ranking_Rating": 348,
+  "Ranking_Rating": 349,
   "Ranking_Popularity": 122,
   "Ranking_PopularitySum": 198,
   "NumberOfRatings": 1848,
-  "NumberOfAwards": 1677,
+  "NumberOfAwards": 1678,
   "NumberOfAwardsMax": 1140,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
-  "LastChanged": "2023-04-08T10:57:21.3359193+00:00",
+  "LastChanged": "2023-04-08T16:57:14.7410999+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:47.7430661+00:00",
@@ -1220,6 +1220,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 1677,
       "NumberOfAwardsMax": 1140
+    },
+    {
+      "Time": "2023-04-08T16:57:14.7411+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1678,
+      "NumberOfAwardsMax": 1140
     }
   ],
   "Tags": [
@@ -1293,7 +1299,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 50
+      "Count": 51
     }
   ]
 }

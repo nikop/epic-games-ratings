@@ -3,7 +3,7 @@ Rating: 4.02 (Ranked 862)
 Number of Ratings: 756  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 165  (Ranked 271)  
-Sum: 1,445 (Ranked 208)  
+Sum: 1,446 (Ranked 208)  
 Diff (max vs sum): 63
 ## Awards
 | Award | Number of Ratings |
@@ -18,7 +18,7 @@ Diff (max vs sum): 63
 | This game has Challenging Combat | 97 |
 | This game has Amazing Storytelling | 96 |
 | This game has a Competitive Community | 95 |
-| This game has Amazing Characters | 86 |
+| This game has Amazing Characters | 87 |
 | This game has Obsessive Gameplay | 65 |
 | This game has Realistic Visuals | 52 |
 ## Ratings History
