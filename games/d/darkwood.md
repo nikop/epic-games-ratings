@@ -1,19 +1,19 @@
 # Darkwood
 Rating: 4.61 (Ranked 348)  
 ## Popularity (Based on Awards)
-Max (Extremely Fun): 318  (Ranked 210)  
-Sum: 2,348 (Ranked 164)  
+Max (Extremely Fun): 319  (Ranked 210)  
+Sum: 2,350 (Ranked 164)  
 Diff (max vs sum): 46
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Extremely Fun | 318 |
+| This game is Extremely Fun | 319 |
 | This game has Challenging Combat | 289 |
 | This game has Amazing Storytelling | 278 |
 | This game has Quickly Understood Controls | 271 |
 | This game is Highly Recommended | 266 |
 | This game has Unique Visuals | 262 |
-| This game has Diverse Characters | 256 |
+| This game has Diverse Characters | 257 |
 | This game has Amazing Characters | 250 |
 | This game has a Creative Community | 158 |
 | This game has Obsessive Gameplay | 65 |
@@ -36,3 +36,4 @@ Diff (max vs sum): 46
 | 2023-04-01 | 4.61 | - | 318 |
 | 2023-04-03 | 4.61 | - | 318 |
 | 2023-04-05 | 4.61 | - | 318 |
+| 2023-04-08 | 4.61 | - | 319 |

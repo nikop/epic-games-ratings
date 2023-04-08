@@ -2,15 +2,15 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "Rating": 4.17,
-  "Ranking_Rating": 814,
+  "Ranking_Rating": 815,
   "Ranking_Popularity": 99,
   "Ranking_PopularitySum": 140,
-  "NumberOfAwards": 3450,
-  "NumberOfAwardsMax": 2090,
+  "NumberOfAwards": 3454,
+  "NumberOfAwardsMax": 2094,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
-  "LastChanged": "2023-04-08T04:57:24.7160088+00:00",
+  "LastChanged": "2023-04-08T05:57:24.5468961+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-22T01:00:47.4981426+00:00",
@@ -463,6 +463,12 @@
       "Rating": 4.17,
       "NumberOfAwards": 3450,
       "NumberOfAwardsMax": 2090
+    },
+    {
+      "Time": "2023-04-08T05:57:24.5468962+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3454,
+      "NumberOfAwardsMax": 2094
     }
   ],
   "Tags": [
@@ -470,7 +476,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2090
+      "Count": 2094
     },
     {
       "Text": "This game has Quickly Understood Controls",

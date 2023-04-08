@@ -24,7 +24,7 @@
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 8,919 | 33 |
 | 19 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 481 |
 | 24 | [Black Book](games/b/black_book.md) | 4.87 | 21 | 472 |
-| 24 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 135 | 285 |
+| 24 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 136 | 284 |
 | 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,359 | 116 |
 | 24 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,264 | 29 |
 | 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 993 | 132 |
@@ -102,7 +102,7 @@
 | 100 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,395 | 66 |
 | 100 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,531 | 35 |
 | 100 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 16,943 | 18 |
-| 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 901 | 140 |
+| 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 902 | 140 |
 | 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 141 | 281 |
 | 100 | [Tchia](games/t/tchia.md) | 4.78 | 0 | 481 |
 | 106 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,827 | 74 |
@@ -144,7 +144,7 @@
 | 142 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 397 | 191 |
 | 142 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 481 |
 | 142 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.74 | 0 | 481 |
-| 142 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 461 | 183 |
+| 142 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 467 | 183 |
 | 142 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 564 | 166 |
 | 142 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,330 | 47 |
 | 142 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 222 | 243 |
@@ -310,7 +310,7 @@
 | 288 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 0 | 481 |
 | 309 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 0 | 481 |
 | 309 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 481 |
-| 309 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,841 | 52 |
+| 309 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,850 | 52 |
 | 309 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 2,046 | 101 |
 | 309 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 45 | 389 |
 | 309 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 55 | 375 |
@@ -354,7 +354,7 @@
 | 348 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 481 |
 | 348 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 209 | 248 |
 | 348 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 372 | 200 |
-| 348 | [Darkwood](games/d/darkwood.md) | 4.61 | 318 | 210 |
+| 348 | [Darkwood](games/d/darkwood.md) | 4.61 | 319 | 210 |
 | 348 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.61 | 271 | 226 |
 | 348 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 33 | 421 |
 | 348 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.61 | 34 | 420 |
@@ -380,7 +380,7 @@
 | 372 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 62 | 366 |
 | 372 | [Little Inferno](games/l/little_inferno.md) | 4.60 | 0 | 481 |
 | 372 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 0 | 481 |
-| 372 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 8,857 | 34 |
+| 372 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 8,866 | 34 |
 | 372 | [Roguebook](games/r/roguebook.md) | 4.60 | 0 | 481 |
 | 372 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 427 | 187 |
 | 372 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 20 | 476 |
@@ -736,7 +736,7 @@
 | 724 | [Vampyr](games/v/vampyr.md) | 4.32 | 545 | 170 |
 | 735 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 481 |
 | 735 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 918 | 139 |
-| 735 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 165 | 270 |
+| 735 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 166 | 269 |
 | 738 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 481 |
 | 738 | [Fortnite](games/f/fortnite.md) | 4.30 | 1,203,034 | 1 |
 | 738 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 0 | 481 |
@@ -810,22 +810,22 @@
 | 804 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 179,163 | 4 |
 | 804 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 481 |
 | 810 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 481 |
+| 810 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.18 | 0 | 481 |
 | 810 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 316 |
 | 810 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 44 | 396 |
 | 810 | [Windbound](games/w/windbound.md) | 4.18 | 0 | 481 |
-| 814 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 26 | 451 |
-| 814 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 2,090 | 99 |
-| 814 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 0 | 481 |
-| 814 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 0 | 481 |
-| 814 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 0 | 481 |
-| 814 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.17 | 0 | 481 |
-| 820 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 481 |
-| 820 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 604 | 161 |
-| 820 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 0 | 481 |
-| 820 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 481 |
-| 820 | [Gone Home](games/g/gone_home.md) | 4.16 | 0 | 481 |
-| 820 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.16 | 0 | 481 |
-| 820 | [Space Punks](games/s/space_punks.md) | 4.16 | 166 | 269 |
+| 815 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 26 | 451 |
+| 815 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 2,094 | 99 |
+| 815 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 0 | 481 |
+| 815 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 0 | 481 |
+| 815 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 0 | 481 |
+| 815 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.17 | 0 | 481 |
+| 821 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 481 |
+| 821 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 604 | 161 |
+| 821 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 0 | 481 |
+| 821 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 481 |
+| 821 | [Gone Home](games/g/gone_home.md) | 4.16 | 0 | 481 |
+| 821 | [Space Punks](games/s/space_punks.md) | 4.16 | 166 | 269 |
 | 827 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 0 | 481 |
 | 827 | [Pine](games/p/pine.md) | 4.15 | 0 | 481 |
 | 827 | [Relicta](games/r/relicta.md) | 4.15 | 190 | 256 |
@@ -861,7 +861,7 @@
 | 859 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 0 | 481 |
 | 860 | [Lake](games/l/lake.md) | 4.03 | 0 | 481 |
 | 860 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.03 | 0 | 481 |
-| 862 | [Pinball FX](games/p/pinball_fx.md) | 4.02 | 165 | 270 |
+| 862 | [Pinball FX](games/p/pinball_fx.md) | 4.02 | 165 | 271 |
 | 863 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.00 | 0 | 481 |
 | 863 | [Gravewood High](games/g/gravewood_high.md) | 4.00 | 0 | 481 |
 | 865 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 367 | 201 |

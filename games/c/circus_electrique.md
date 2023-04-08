@@ -1,5 +1,5 @@
 # Circus Electrique
-Rating: 4.16 (Ranked 820)  
+Rating: 4.16 (Ranked 821)  
 Number of Ratings: 22  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  
