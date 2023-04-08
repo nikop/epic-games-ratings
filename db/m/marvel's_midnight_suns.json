@@ -1,16 +1,16 @@
 {
   "ID": "ea73c08ac633414584e281f838b3a78c",
   "Name": "Marvel\u0027s Midnight Suns",
-  "Rating": 4.54,
-  "Ranking_Rating": 469,
+  "Rating": 4.53,
+  "Ranking_Rating": 480,
   "Ranking_Popularity": 129,
   "Ranking_PopularitySum": 181,
-  "NumberOfAwards": 2061,
+  "NumberOfAwards": 2065,
   "NumberOfAwardsMax": 1021,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-12-02T09:57:07.4463087+00:00",
   "FirstSeenRating": "2022-12-03T17:57:10.4344427+00:00",
-  "LastChanged": "2023-04-08T22:57:29.0943993+00:00",
+  "LastChanged": "2023-04-08T23:57:08.4920726+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-03T17:57:10.4344429+00:00",
@@ -565,6 +565,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 2061,
       "NumberOfAwardsMax": 1021
+    },
+    {
+      "Time": "2023-04-08T23:57:08.4920727+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 2065,
+      "NumberOfAwardsMax": 1021
     }
   ],
   "Tags": [
@@ -596,13 +602,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 132
+      "Count": 134
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 124
+      "Count": 126
     },
     {
       "Text": "This game has Challenging Combat",
