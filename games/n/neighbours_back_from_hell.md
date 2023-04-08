@@ -1,5 +1,5 @@
 # Neighbours back From Hell
-Rating: 4.69 (Ranked 212)  
+Rating: 4.70 (Ranked 192)  
 Number of Ratings: 30  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  
@@ -34,3 +34,4 @@ Diff (max vs sum): 0
 | 2023-03-09 | 4.68 | - | - |
 | 2023-03-19 | 4.69 | - | - |
 | 2023-03-31 | 4.69 | - | 0 |
+| 2023-04-08 | 4.70 | - | 0 |
