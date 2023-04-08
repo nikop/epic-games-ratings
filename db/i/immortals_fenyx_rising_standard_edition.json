@@ -3,14 +3,14 @@
   "Name": "Immortals Fenyx Rising Standard Edition",
   "Rating": 4.61,
   "Ranking_Rating": 349,
-  "Ranking_Popularity": 169,
+  "Ranking_Popularity": 168,
   "Ranking_PopularitySum": 242,
   "NumberOfRatings": 791,
-  "NumberOfAwards": 796,
-  "NumberOfAwardsMax": 546,
+  "NumberOfAwards": 797,
+  "NumberOfAwardsMax": 547,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:22:58.8142388+00:00",
-  "LastChanged": "2023-04-06T20:57:36.4076364+00:00",
+  "LastChanged": "2023-04-08T18:57:36.7062181+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:58.8142391+00:00",
@@ -695,6 +695,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 796,
       "NumberOfAwardsMax": 546
+    },
+    {
+      "Time": "2023-04-08T18:57:36.7062182+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 797,
+      "NumberOfAwardsMax": 547
     }
   ],
   "Tags": [
@@ -702,7 +708,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 546
+      "Count": 547
     },
     {
       "Text": "This game is Highly Recommended",

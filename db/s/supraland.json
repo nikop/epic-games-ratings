@@ -6,11 +6,11 @@
   "Ranking_Popularity": 37,
   "Ranking_PopularitySum": 77,
   "NumberOfRatings": 25175,
-  "NumberOfAwards": 9864,
-  "NumberOfAwardsMax": 7595,
+  "NumberOfAwards": 9865,
+  "NumberOfAwardsMax": 7596,
   "MaxAwardTitle": "Challenging Puzzles",
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
-  "LastChanged": "2023-04-08T13:00:19.013907+00:00",
+  "LastChanged": "2023-04-08T18:57:15.2625525+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:49.3012081+00:00",
@@ -2154,6 +2154,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 9864,
       "NumberOfAwardsMax": 7595
+    },
+    {
+      "Time": "2023-04-08T18:57:15.2625526+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 9865,
+      "NumberOfAwardsMax": 7596
     }
   ],
   "Tags": [
@@ -2161,7 +2167,7 @@
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 7595
+      "Count": 7596
     },
     {
       "Text": "This game has Amazing Characters",
