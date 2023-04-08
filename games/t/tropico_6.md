@@ -1,5 +1,5 @@
 # Tropico 6
-Rating: 4.67 (Ranked 254)  
+Rating: 4.66 (Ranked 270)  
 Number of Ratings: 398  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 91  (Ranked 325)  
@@ -100,3 +100,4 @@ Diff (max vs sum): 59
 | 2023-04-01 | 4.67 | - | 90 |
 | 2023-04-04 | 4.67 | - | 90 |
 | 2023-04-06 | 4.67 | - | 91 |
+| 2023-04-08 | 4.66 | - | 91 |

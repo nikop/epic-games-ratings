@@ -1,8 +1,8 @@
 {
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
-  "Rating": 4.67,
-  "Ranking_Rating": 254,
+  "Rating": 4.66,
+  "Ranking_Rating": 270,
   "Ranking_Popularity": 325,
   "Ranking_PopularitySum": 266,
   "NumberOfRatings": 398,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 91,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
-  "LastChanged": "2023-04-06T13:03:07.3454407+00:00",
+  "LastChanged": "2023-04-08T02:18:18.6320079+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:21.1290303+00:00",
@@ -672,6 +672,12 @@
     {
       "Time": "2023-04-06T13:03:07.3454409+00:00",
       "Rating": 4.67,
+      "NumberOfAwards": 632,
+      "NumberOfAwardsMax": 91
+    },
+    {
+      "Time": "2023-04-08T02:18:18.632008+00:00",
+      "Rating": 4.66,
       "NumberOfAwards": 632,
       "NumberOfAwardsMax": 91
     }

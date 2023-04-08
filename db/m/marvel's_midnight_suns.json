@@ -3,14 +3,14 @@
   "Name": "Marvel\u0027s Midnight Suns",
   "Rating": 4.54,
   "Ranking_Rating": 468,
-  "Ranking_Popularity": 130,
+  "Ranking_Popularity": 129,
   "Ranking_PopularitySum": 182,
-  "NumberOfAwards": 2049,
-  "NumberOfAwardsMax": 1015,
+  "NumberOfAwards": 2055,
+  "NumberOfAwardsMax": 1021,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-12-02T09:57:07.4463087+00:00",
   "FirstSeenRating": "2022-12-03T17:57:10.4344427+00:00",
-  "LastChanged": "2023-04-08T01:47:46.4947465+00:00",
+  "LastChanged": "2023-04-08T02:18:28.9741625+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-03T17:57:10.4344429+00:00",
@@ -535,6 +535,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 2049,
       "NumberOfAwardsMax": 1015
+    },
+    {
+      "Time": "2023-04-08T02:18:28.9741628+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2055,
+      "NumberOfAwardsMax": 1021
     }
   ],
   "Tags": [
@@ -542,7 +548,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1015
+      "Count": 1021
     },
     {
       "Text": "This game is Great for Beginners",
