@@ -2,14 +2,14 @@
 Rating: 4.61 (Ranked 349)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 319  (Ranked 210)  
-Sum: 2,350 (Ranked 164)  
+Sum: 2,351 (Ranked 164)  
 Diff (max vs sum): 46
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Extremely Fun | 319 |
 | This game has Challenging Combat | 289 |
-| This game has Amazing Storytelling | 278 |
+| This game has Amazing Storytelling | 279 |
 | This game has Quickly Understood Controls | 271 |
 | This game is Highly Recommended | 266 |
 | This game has Unique Visuals | 262 |

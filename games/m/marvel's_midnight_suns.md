@@ -1,8 +1,8 @@
 # Marvel's Midnight Suns
-Rating: 4.54 (Ranked 468)  
+Rating: 4.54 (Ranked 469)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 1,021  (Ranked 129)  
-Sum: 2,059 (Ranked 181)  
+Sum: 2,061 (Ranked 181)  
 Diff (max vs sum): -52
 ## Awards
 | Award | Number of Ratings |
@@ -14,7 +14,7 @@ Diff (max vs sum): -52
 | This game has Diverse Characters | 124 |
 | This game has Amazing Storytelling | 122 |
 | This game is Great for Beginners | 117 |
-| This game is Extremely Fun | 112 |
+| This game is Extremely Fun | 114 |
 | This game has Amazing Characters | 112 |
 | This game has a Creative Community | 62 |
 | This game has Challenging Combat | 60 |
