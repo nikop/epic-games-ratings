@@ -1,5 +1,5 @@
 # CryoFall
-Rating: 4.49 (Ranked 536)  
+Rating: 4.49 (Ranked 535)  
 Number of Ratings: 46  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  

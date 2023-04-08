@@ -1,15 +1,15 @@
 # Borderlands 2
-Rating: 4.76 (Ranked 114)  
+Rating: 4.76 (Ranked 113)  
 Number of Ratings: 13,386  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 13,826  (Ranked 22)  
-Sum: 34,745 (Ranked 29)  
+Sum: 34,749 (Ranked 29)  
 Diff (max vs sum): -7
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Great Boss Battles | 13,826 |
-| This game is Great for Beginners | 2,411 |
+| This game is Great for Beginners | 2,415 |
 | This game is Extremely Fun | 2,372 |
 | This game has Diverse Characters | 2,367 |
 | This game has Amazing Characters | 2,356 |

@@ -1,5 +1,5 @@
 # Diabotical
-Rating: 4.75 (Ranked 126)  
+Rating: 4.75 (Ranked 125)  
 Number of Ratings: 572  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Quick Sessions): 261  (Ranked 231)  

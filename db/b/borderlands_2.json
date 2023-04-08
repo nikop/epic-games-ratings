@@ -2,15 +2,15 @@
   "ID": "f4a7772a4da24870a3ea6dfb8aeac662",
   "Name": "Borderlands 2",
   "Rating": 4.76,
-  "Ranking_Rating": 114,
+  "Ranking_Rating": 113,
   "Ranking_Popularity": 22,
   "Ranking_PopularitySum": 29,
   "NumberOfRatings": 13386,
-  "NumberOfAwards": 34745,
+  "NumberOfAwards": 34749,
   "NumberOfAwardsMax": 13826,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:18:04.5825777+00:00",
-  "LastChanged": "2023-04-08T10:57:04.851575+00:00",
+  "LastChanged": "2023-04-08T13:00:10.4553542+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:04.582578+00:00",
@@ -3634,6 +3634,12 @@
       "Rating": 4.76,
       "NumberOfAwards": 34745,
       "NumberOfAwardsMax": 13826
+    },
+    {
+      "Time": "2023-04-08T13:00:10.4553618+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 34749,
+      "NumberOfAwardsMax": 13826
     }
   ],
   "Tags": [
@@ -3665,7 +3671,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 2411
+      "Count": 2415
     },
     {
       "Text": "This game is Extremely Fun",
