@@ -1,5 +1,5 @@
 # Moving Out
-Rating: 4.58 (Ranked 401)  
+Rating: 4.59 (Ranked 387)  
 Number of Ratings: 489  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  
@@ -83,3 +83,4 @@ Diff (max vs sum): 0
 | 2022-11-28 | 4.57 | - | - |
 | 2022-12-31 | 4.58 | - | - |
 | 2023-03-31 | 4.58 | - | 0 |
+| 2023-04-08 | 4.59 | - | 0 |

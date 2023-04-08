@@ -1,5 +1,5 @@
 # Tetris® Effect: Connected
-Rating: 4.86 (Ranked 31)  
+Rating: 4.86 (Ranked 32)  
 Number of Ratings: 272  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 39  (Ranked 403)  

@@ -1,8 +1,8 @@
 {
   "ID": "84c76746bce94effb8e1047fabfd7eb7",
   "Name": "World of Warships",
-  "Rating": 4.45,
-  "Ranking_Rating": 590,
+  "Rating": 4.44,
+  "Ranking_Rating": 608,
   "Ranking_Popularity": 133,
   "Ranking_PopularitySum": 82,
   "NumberOfRatings": 4733,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 977,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
-  "LastChanged": "2023-04-08T11:57:02.0561542+00:00",
+  "LastChanged": "2023-04-08T13:56:52.855677+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:02.7521929+00:00",
@@ -3078,6 +3078,12 @@
     {
       "Time": "2023-04-08T11:57:02.0561543+00:00",
       "Rating": 4.45,
+      "NumberOfAwards": 8603,
+      "NumberOfAwardsMax": 977
+    },
+    {
+      "Time": "2023-04-08T13:56:52.8556772+00:00",
+      "Rating": 4.44,
       "NumberOfAwards": 8603,
       "NumberOfAwardsMax": 977
     }

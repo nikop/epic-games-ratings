@@ -1,10 +1,10 @@
 # Wolfenstein: The New Order - Worldwide
-Rating: 4.58 (Ranked 401)  
+Rating: 4.58 (Ranked 402)  
 Number of Ratings: 61,135  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 14,298  (Ranked 19)  
-Sum: 16,941 (Ranked 54)  
-Diff (max vs sum): -35
+Max (Great Boss Battles): 14,298  (Ranked 20)  
+Sum: 16,942 (Ranked 54)  
+Diff (max vs sum): -34
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
@@ -12,7 +12,7 @@ Diff (max vs sum): -35
 | This game has Diverse Characters | 362 |
 | This game is Great for Beginners | 350 |
 | This game is Relaxing | 343 |
-| This game is Extremely Fun | 325 |
+| This game is Extremely Fun | 326 |
 | This game has Amazing Storytelling | 322 |
 | This game has Amazing Characters | 321 |
 | This game is Highly Recommended | 314 |
@@ -91,3 +91,4 @@ Diff (max vs sum): -35
 | 2023-04-03 | 4.58 | - | 14,295 |
 | 2023-04-05 | 4.58 | - | 14,296 |
 | 2023-04-07 | 4.58 | - | 14,298 |
+| 2023-04-08 | 4.58 | - | 14,298 |

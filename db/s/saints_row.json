@@ -6,12 +6,12 @@
   "Ranking_Popularity": 130,
   "Ranking_PopularitySum": 80,
   "NumberOfRatings": 22103,
-  "NumberOfAwards": 8998,
+  "NumberOfAwards": 8999,
   "NumberOfAwardsMax": 1017,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
-  "LastChanged": "2023-04-07T18:57:12.0407647+00:00",
+  "LastChanged": "2023-04-08T13:57:09.7697015+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-23T10:30:45.3809934+00:00",
@@ -1805,6 +1805,12 @@
       "Rating": 3.78,
       "NumberOfAwards": 8998,
       "NumberOfAwardsMax": 1017
+    },
+    {
+      "Time": "2023-04-08T13:57:09.7697017+00:00",
+      "Rating": 3.78,
+      "NumberOfAwards": 8999,
+      "NumberOfAwardsMax": 1017
     }
   ],
   "Tags": [
@@ -1842,7 +1848,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 960
+      "Count": 961
     },
     {
       "Text": "This game has Amazing Storytelling",
