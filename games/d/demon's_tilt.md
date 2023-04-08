@@ -1,9 +1,9 @@
 # DEMON'S TILT
-Rating: 4.51 (Ranked 507)  
+Rating: 4.51 (Ranked 506)  
 Number of Ratings: 276  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Quick Sessions): 21  (Ranked 471)  
-Sum: 21 (Ranked 471)  
+Max (Great for Quick Sessions): 21  (Ranked 472)  
+Sum: 21 (Ranked 472)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |

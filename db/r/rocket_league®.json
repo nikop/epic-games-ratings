@@ -2,15 +2,15 @@
   "ID": "9773aa1aa54f4f7b80e44bef04986cea",
   "Name": "Rocket League\u00AE",
   "Rating": 4.51,
-  "Ranking_Rating": 507,
+  "Ranking_Rating": 506,
   "Ranking_Popularity": 2,
   "Ranking_PopularitySum": 2,
   "NumberOfRatings": 366020,
-  "NumberOfAwards": 2572614,
+  "NumberOfAwards": 2573229,
   "NumberOfAwardsMax": 374517,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:17:22.1538752+00:00",
-  "LastChanged": "2023-04-07T22:57:11.7876698+00:00",
+  "LastChanged": "2023-04-08T01:47:36.1936988+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:22.1538754+00:00",
@@ -3609,6 +3609,12 @@
       "Rating": 4.51,
       "NumberOfAwards": 2572614,
       "NumberOfAwardsMax": 374517
+    },
+    {
+      "Time": "2023-04-08T01:47:36.1936991+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 2573229,
+      "NumberOfAwardsMax": 374517
     }
   ],
   "Tags": [
@@ -3664,7 +3670,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 230795
+      "Count": 231410
     },
     {
       "Text": "This game has Challenging Combat",
