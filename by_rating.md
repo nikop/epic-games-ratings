@@ -65,7 +65,7 @@
 | 61 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 481 |
 | 61 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 0 | 481 |
 | 61 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 468 | 182 |
-| 61 | [Sifu](games/s/sifu.md) | 4.82 | 5,838 | 53 |
+| 61 | [Sifu](games/s/sifu.md) | 4.82 | 5,854 | 52 |
 | 61 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 0 | 481 |
 | 68 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 414 | 188 |
 | 68 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 0 | 481 |
@@ -115,7 +115,7 @@
 | 113 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 0 | 481 |
 | 113 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 2,150 | 97 |
 | 113 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 13,826 | 22 |
-| 113 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 799 | 144 |
+| 113 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 804 | 144 |
 | 113 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 39 | 403 |
 | 113 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 58 | 371 |
 | 113 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 481 |
@@ -310,7 +310,7 @@
 | 288 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 0 | 481 |
 | 309 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 0 | 481 |
 | 309 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 481 |
-| 309 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,850 | 52 |
+| 309 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,850 | 53 |
 | 309 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 2,046 | 101 |
 | 309 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 45 | 389 |
 | 309 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 55 | 375 |
@@ -738,22 +738,22 @@
 | 735 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.31 | 4,050 | 69 |
 | 735 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 918 | 139 |
 | 735 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.31 | 166 | 269 |
-| 739 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 481 |
-| 739 | [Fortnite](games/f/fortnite.md) | 4.30 | 1,203,034 | 1 |
-| 739 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 0 | 481 |
-| 739 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 481 |
-| 739 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 3,551 | 78 |
-| 739 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.30 | 0 | 481 |
-| 739 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 0 | 481 |
-| 739 | [War Mongrels](games/w/war_mongrels.md) | 4.30 | 0 | 481 |
-| 747 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.29 | 0 | 481 |
-| 747 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 0 | 481 |
-| 747 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 0 | 481 |
-| 747 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 667 | 155 |
-| 747 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 43 | 400 |
-| 747 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 123 | 291 |
-| 747 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 124 | 290 |
-| 747 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.29 | 0 | 481 |
+| 735 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.31 | 0 | 481 |
+| 740 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 481 |
+| 740 | [Fortnite](games/f/fortnite.md) | 4.30 | 1,203,034 | 1 |
+| 740 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 0 | 481 |
+| 740 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 481 |
+| 740 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 3,551 | 78 |
+| 740 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.30 | 0 | 481 |
+| 740 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 0 | 481 |
+| 740 | [War Mongrels](games/w/war_mongrels.md) | 4.30 | 0 | 481 |
+| 748 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.29 | 0 | 481 |
+| 748 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 0 | 481 |
+| 748 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 0 | 481 |
+| 748 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 667 | 155 |
+| 748 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 43 | 400 |
+| 748 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 123 | 291 |
+| 748 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 124 | 290 |
 | 755 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 481 |
 | 755 | [Rage 2](games/r/rage_2.md) | 4.28 | 2,413 | 88 |
 | 755 | [Steelrising](games/s/steelrising.md) | 4.28 | 0 | 481 |

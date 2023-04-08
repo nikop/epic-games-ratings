@@ -1,6 +1,6 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
-| 1 | [Fortnite](games/f/fortnite.md) | 1,203,034 | 4.30 | 739 |
+| 1 | [Fortnite](games/f/fortnite.md) | 1,203,034 | 4.30 | 740 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 374,517 | 4.51 | 506 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 281,488 | 4.68 | 235 |
 | 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 179,163 | 4.19 | 804 |
@@ -51,8 +51,8 @@
 | 49 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,208 | 4.80 | 78 |
 | 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,053 | 4.71 | 177 |
 | 51 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 5,934 | 4.58 | 401 |
-| 52 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,850 | 4.64 | 309 |
-| 53 | [Sifu](games/s/sifu.md) | 5,838 | 4.82 | 61 |
+| 52 | [Sifu](games/s/sifu.md) | 5,854 | 4.82 | 61 |
+| 53 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,850 | 4.64 | 309 |
 | 54 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,776 | 4.79 | 91 |
 | 55 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,733 | 4.66 | 270 |
 | 56 | [Prey](games/p/prey.md) | 5,490 | 4.62 | 332 |
@@ -77,7 +77,7 @@
 | 75 | [Days Gone](games/d/days_gone.md) | 3,703 | 4.69 | 213 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 3,636 | 4.56 | 436 |
 | 77 | [SMITE](games/s/smite.md) | 3,587 | 4.45 | 590 |
-| 78 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,551 | 4.30 | 739 |
+| 78 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,551 | 4.30 | 740 |
 | 79 | [Gloomhaven](games/g/gloomhaven.md) | 3,416 | 4.47 | 564 |
 | 80 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,315 | 4.68 | 235 |
 | 81 | [Paladins](games/p/paladins.md) | 3,193 | 4.35 | 702 |
@@ -143,7 +143,7 @@
 | 141 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 877 | 4.79 | 91 |
 | 142 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 844 | 4.45 | 590 |
 | 143 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 840 | 4.69 | 213 |
-| 144 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 799 | 4.76 | 113 |
+| 144 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 804 | 4.76 | 113 |
 | 145 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 794 | 4.54 | 468 |
 | 146 | [Frostpunk](games/f/frostpunk.md) | 760 | 4.73 | 154 |
 | 147 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 754 | 4.69 | 213 |
@@ -154,7 +154,7 @@
 | 152 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 700 | 4.56 | 436 |
 | 153 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 687 | 4.59 | 387 |
 | 154 | [Disco Elysium](games/d/disco_elysium.md) | 680 | 4.86 | 31 |
-| 155 | [Neverwinter](games/n/neverwinter.md) | 667 | 4.29 | 747 |
+| 155 | [Neverwinter](games/n/neverwinter.md) | 667 | 4.29 | 748 |
 | 156 | [Neon Abyss](games/n/neon_abyss.md) | 653 | 4.68 | 235 |
 | 157 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 649 | 4.44 | 609 |
 | 158 | [Subnautica](games/s/subnautica.md) | 639 | 4.84 | 47 |
@@ -289,8 +289,8 @@
 | 287 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 129 | 4.56 | 436 |
 | 288 | [Alien: Isolation ](games/a/alien__isolation.md) | 126 | 4.61 | 348 |
 | 288 | [Atomicrops](games/a/atomicrops.md) | 126 | 4.88 | 19 |
-| 290 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 124 | 4.29 | 747 |
-| 291 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 123 | 4.29 | 747 |
+| 290 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 124 | 4.29 | 748 |
+| 291 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 123 | 4.29 | 748 |
 | 292 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 121 | 4.20 | 793 |
 | 293 | [Aven Colony](games/a/aven_colony.md) | 119 | 4.20 | 793 |
 | 293 | [Encased](games/e/encased.md) | 119 | 4.36 | 692 |
@@ -399,7 +399,7 @@
 | 396 | [Desperados III](games/d/desperados_iii.md) | 44 | 4.84 | 47 |
 | 396 | [The Alto Collection](games/t/the_alto_collection.md) | 44 | 4.69 | 213 |
 | 396 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 44 | 4.18 | 810 |
-| 400 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 43 | 4.29 | 747 |
+| 400 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 43 | 4.29 | 748 |
 | 401 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 41 | 4.74 | 142 |
 | 402 | [Coromon](games/c/coromon.md) | 40 | 4.65 | 288 |
 | 403 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 39 | 4.76 | 113 |

@@ -3,14 +3,14 @@
   "Name": "Sifu",
   "Rating": 4.82,
   "Ranking_Rating": 61,
-  "Ranking_Popularity": 53,
+  "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 78,
   "NumberOfRatings": 9492,
-  "NumberOfAwards": 9825,
-  "NumberOfAwardsMax": 5838,
+  "NumberOfAwards": 9844,
+  "NumberOfAwardsMax": 5854,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
-  "LastChanged": "2023-04-08T04:58:05.3209494+00:00",
+  "LastChanged": "2023-04-08T07:58:04.9081481+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:06.0099469+00:00",
@@ -3004,6 +3004,12 @@
       "Rating": 4.82,
       "NumberOfAwards": 9825,
       "NumberOfAwardsMax": 5838
+    },
+    {
+      "Time": "2023-04-08T07:58:04.9081485+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 9844,
+      "NumberOfAwardsMax": 5854
     }
   ],
   "Tags": [
@@ -3011,7 +3017,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5838
+      "Count": 5854
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3065,7 +3071,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 425
+      "Count": 428
     },
     {
       "Text": "This game is Highly Recommended",
