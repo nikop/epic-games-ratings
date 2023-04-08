@@ -2,7 +2,7 @@
 Rating: 4.55 (Ranked 454)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 63  (Ranked 365)  
-Sum: 596 (Ranked 272)  
+Sum: 599 (Ranked 272)  
 Diff (max vs sum): 93
 ## Awards
 | Award | Number of Ratings |
@@ -11,9 +11,9 @@ Diff (max vs sum): 93
 | This game is Great for Beginners | 59 |
 | This game is Great for Quick Sessions | 56 |
 | This game has Competitive Players | 54 |
+| This game is Relaxing | 52 |
 | This game is Extremely Fun | 50 |
 | This game is Highly Recommended | 50 |
-| This game is Relaxing | 49 |
 | This game has Quickly Understood Controls | 47 |
 | This game has Amazing Characters | 45 |
 | This game has Challenging Combat | 44 |

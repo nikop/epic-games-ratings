@@ -1,16 +1,16 @@
 {
   "ID": "2c42520d342a46d7a6e0cfa77b4715de",
   "Name": "Dying Light Enhanced Edition",
-  "Rating": 4.31,
-  "Ranking_Rating": 735,
+  "Rating": 4.32,
+  "Ranking_Rating": 724,
   "Ranking_Popularity": 69,
   "Ranking_PopularitySum": 69,
   "NumberOfRatings": 3181,
-  "NumberOfAwards": 12102,
+  "NumberOfAwards": 12220,
   "NumberOfAwardsMax": 4050,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:18:05.0678131+00:00",
-  "LastChanged": "2023-04-08T06:57:19.5323632+00:00",
+  "LastChanged": "2023-04-08T08:57:05.1240576+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:05.0678134+00:00",
@@ -2559,6 +2559,12 @@
       "Rating": 4.31,
       "NumberOfAwards": 12102,
       "NumberOfAwardsMax": 4050
+    },
+    {
+      "Time": "2023-04-08T08:57:05.1240583+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 12220,
+      "NumberOfAwardsMax": 4050
     }
   ],
   "Tags": [
@@ -2572,7 +2578,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2835
+      "Count": 2953
     },
     {
       "Text": "This game is Great for Beginners",
