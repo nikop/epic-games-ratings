@@ -1,5 +1,5 @@
 # Eximius: Seize the Frontline
-Rating: 4.18 (Ranked 810)  
+Rating: 4.19 (Ranked 804)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  
 Sum: 0 (Ranked 481)  
@@ -43,3 +43,4 @@ Diff (max vs sum): 0
 | 2023-03-20 | 4.20 | - | - |
 | 2023-03-31 | 4.19 | - | 0 |
 | 2023-04-02 | 4.18 | - | 0 |
+| 2023-04-08 | 4.19 | - | 0 |
