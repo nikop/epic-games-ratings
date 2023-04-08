@@ -2,14 +2,15 @@
 Rating: 4.43 (Ranked 623)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 22  (Ranked 464)  
-Sum: 42 (Ranked 433)  
-Diff (max vs sum): 31
+Sum: 62 (Ranked 418)  
+Diff (max vs sum): 46
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Great Boss Battles | 27 |
 | This game is Extremely Fun | 22 |
 | This game is Relaxing | 20 |
+| This game has Amazing Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -47,3 +48,4 @@ Diff (max vs sum): 31
 | 2023-04-03 | 4.43 | - | 21 |
 | 2023-04-05 | 4.43 | - | 21 |
 | 2023-04-06 | 4.43 | - | 22 |
+| 2023-04-08 | 4.43 | - | 22 |

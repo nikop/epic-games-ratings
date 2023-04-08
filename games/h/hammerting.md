@@ -1,5 +1,5 @@
 # Hammerting
-Rating: 4.38 (Ranked 673)  
+Rating: 4.38 (Ranked 674)  
 Number of Ratings: 21  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  

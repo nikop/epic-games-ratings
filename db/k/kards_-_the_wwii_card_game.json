@@ -1,16 +1,16 @@
 {
   "ID": "d34cf6aeceb94c579af0236fe1185b79",
   "Name": "KARDS - The WWII Card Game",
-  "Rating": 4.38,
-  "Ranking_Rating": 673,
+  "Rating": 4.39,
+  "Ranking_Rating": 662,
   "Ranking_Popularity": 173,
   "Ranking_PopularitySum": 135,
   "NumberOfRatings": 1466,
-  "NumberOfAwards": 3594,
+  "NumberOfAwards": 3596,
   "NumberOfAwardsMax": 539,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:20:27.7135917+00:00",
-  "LastChanged": "2023-04-07T01:50:22.3233676+00:00",
+  "LastChanged": "2023-04-08T14:57:05.2264927+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:27.713592+00:00",
@@ -1440,6 +1440,12 @@
       "Rating": 4.38,
       "NumberOfAwards": 3594,
       "NumberOfAwardsMax": 539
+    },
+    {
+      "Time": "2023-04-08T14:57:05.2264929+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 3596,
+      "NumberOfAwardsMax": 539
     }
   ],
   "Tags": [
@@ -1489,7 +1495,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 377
+      "Count": 379
     },
     {
       "Text": "This game has a Competitive Community",

@@ -3,14 +3,14 @@
   "Name": "Century: Age of Ashes",
   "Rating": 4.42,
   "Ranking_Rating": 629,
-  "Ranking_Popularity": 371,
+  "Ranking_Popularity": 370,
   "Ranking_PopularitySum": 278,
   "NumberOfRatings": 1747,
-  "NumberOfAwards": 566,
-  "NumberOfAwardsMax": 58,
-  "MaxAwardTitle": "Great for Quick Sessions",
+  "NumberOfAwards": 567,
+  "NumberOfAwardsMax": 59,
+  "MaxAwardTitle": "Competitive Players",
   "FirstSeen": "2022-07-22T20:17:28.564577+00:00",
-  "LastChanged": "2023-04-06T07:57:11.9519348+00:00",
+  "LastChanged": "2023-04-08T14:57:06.3302949+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:28.5645774+00:00",
@@ -1109,6 +1109,12 @@
       "Rating": 4.42,
       "NumberOfAwards": 566,
       "NumberOfAwardsMax": 58
+    },
+    {
+      "Time": "2023-04-08T14:57:06.330295+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 567,
+      "NumberOfAwardsMax": 59
     }
   ],
   "Tags": [
@@ -1158,7 +1164,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 58
+      "Count": 59
     },
     {
       "Text": "This game has Challenging Combat",
