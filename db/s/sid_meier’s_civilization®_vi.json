@@ -6,11 +6,11 @@
   "Ranking_Popularity": 13,
   "Ranking_PopularitySum": 10,
   "NumberOfRatings": 57866,
-  "NumberOfAwards": 239925,
+  "NumberOfAwards": 240000,
   "NumberOfAwardsMax": 28844,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
-  "LastChanged": "2023-04-08T19:57:03.3031726+00:00",
+  "LastChanged": "2023-04-08T20:57:04.8729519+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:50.1564233+00:00",
@@ -3888,6 +3888,12 @@
       "Rating": 4.74,
       "NumberOfAwards": 239925,
       "NumberOfAwardsMax": 28844
+    },
+    {
+      "Time": "2023-04-08T20:57:04.8729523+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 240000,
+      "NumberOfAwardsMax": 28844
     }
   ],
   "Tags": [
@@ -3931,7 +3937,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 25491
+      "Count": 25566
     },
     {
       "Text": "This game has Competitive Players",

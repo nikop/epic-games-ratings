@@ -6,12 +6,12 @@
   "Ranking_Popularity": 313,
   "Ranking_PopularitySum": 241,
   "NumberOfRatings": 36,
-  "NumberOfAwards": 801,
+  "NumberOfAwards": 802,
   "NumberOfAwardsMax": 99,
   "MaxAwardTitle": "Amazing Storytelling",
   "FirstSeen": "2022-09-22T20:03:01.7820576+00:00",
   "FirstSeenRating": "2022-09-23T13:02:43.6402723+00:00",
-  "LastChanged": "2023-04-08T08:58:18.0148885+00:00",
+  "LastChanged": "2023-04-08T20:58:19.963046+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-23T13:02:43.6402725+00:00",
@@ -161,6 +161,12 @@
       "Rating": 4.8,
       "NumberOfAwards": 801,
       "NumberOfAwardsMax": 99
+    },
+    {
+      "Time": "2023-04-08T20:58:19.9630461+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 802,
+      "NumberOfAwardsMax": 99
     }
   ],
   "Tags": [
@@ -234,7 +240,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 68
+      "Count": 69
     }
   ]
 }

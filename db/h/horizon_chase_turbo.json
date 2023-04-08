@@ -2,15 +2,15 @@
   "ID": "253d451b16364a22907dd01b7e928fb6",
   "Name": "Horizon Chase Turbo",
   "Rating": 4.56,
-  "Ranking_Rating": 436,
+  "Ranking_Rating": 437,
   "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 223,
   "NumberOfRatings": 1343,
-  "NumberOfAwards": 1047,
+  "NumberOfAwards": 1048,
   "NumberOfAwardsMax": 129,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
-  "LastChanged": "2023-04-08T18:57:12.6244047+00:00",
+  "LastChanged": "2023-04-08T20:57:14.0043227+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:20.5347353+00:00",
@@ -1206,6 +1206,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 1047,
       "NumberOfAwardsMax": 129
+    },
+    {
+      "Time": "2023-04-08T20:57:14.0043233+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1048,
+      "NumberOfAwardsMax": 129
     }
   ],
   "Tags": [
@@ -1231,7 +1237,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 81
+      "Count": 82
     },
     {
       "Text": "This game has Competitive Players",

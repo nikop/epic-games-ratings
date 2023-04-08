@@ -6,11 +6,11 @@
   "Ranking_Popularity": 101,
   "Ranking_PopularitySum": 71,
   "NumberOfRatings": 6856,
-  "NumberOfAwards": 11760,
-  "NumberOfAwardsMax": 2046,
+  "NumberOfAwards": 11763,
+  "NumberOfAwardsMax": 2049,
   "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
-  "LastChanged": "2023-04-08T19:57:15.1307085+00:00",
+  "LastChanged": "2023-04-08T20:57:20.2460308+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:28.2143306+00:00",
@@ -3258,6 +3258,12 @@
       "Rating": 4.64,
       "NumberOfAwards": 11760,
       "NumberOfAwardsMax": 2046
+    },
+    {
+      "Time": "2023-04-08T20:57:20.246031+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 11763,
+      "NumberOfAwardsMax": 2049
     }
   ],
   "Tags": [
@@ -3289,7 +3295,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2046
+      "Count": 2049
     },
     {
       "Text": "This game is Educational",

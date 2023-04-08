@@ -1,5 +1,5 @@
 # Brawlhalla
-Rating: 4.55 (Ranked 454)  
+Rating: 4.55 (Ranked 455)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 64  (Ranked 364)  
 Sum: 603 (Ranked 271)  
