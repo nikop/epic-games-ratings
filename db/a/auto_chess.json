@@ -2,15 +2,15 @@
   "ID": "37baf50c268d47779020d73143bb02b0",
   "Name": "Auto Chess",
   "Rating": 4.52,
-  "Ranking_Rating": 496,
-  "Ranking_Popularity": 151,
+  "Ranking_Rating": 497,
+  "Ranking_Popularity": 150,
   "Ranking_PopularitySum": 113,
   "NumberOfRatings": 2249,
-  "NumberOfAwards": 5685,
-  "NumberOfAwardsMax": 718,
+  "NumberOfAwards": 5688,
+  "NumberOfAwardsMax": 721,
   "MaxAwardTitle": "Competitive Players",
   "FirstSeen": "2022-07-22T20:21:31.7729603+00:00",
-  "LastChanged": "2023-04-08T13:57:21.7681715+00:00",
+  "LastChanged": "2023-04-08T19:57:20.1808888+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:31.7729607+00:00",
@@ -2132,6 +2132,12 @@
       "Rating": 4.52,
       "NumberOfAwards": 5685,
       "NumberOfAwardsMax": 718
+    },
+    {
+      "Time": "2023-04-08T19:57:20.1808889+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 5688,
+      "NumberOfAwardsMax": 721
     }
   ],
   "Tags": [
@@ -2145,7 +2151,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 718
+      "Count": 721
     },
     {
       "Text": "This game has Diverse Characters",

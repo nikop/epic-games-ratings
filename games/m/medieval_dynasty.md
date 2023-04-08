@@ -1,5 +1,5 @@
 # Medieval Dynasty
-Rating: 4.65 (Ranked 289)  
+Rating: 4.66 (Ranked 270)  
 Number of Ratings: 722  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Amazing Storytelling): 48  (Ranked 384)  
@@ -97,3 +97,4 @@ Diff (max vs sum): 87
 | 2023-04-02 | 4.65 | - | 48 |
 | 2023-04-04 | 4.65 | - | 48 |
 | 2023-04-06 | 4.65 | - | 48 |
+| 2023-04-08 | 4.66 | - | 48 |

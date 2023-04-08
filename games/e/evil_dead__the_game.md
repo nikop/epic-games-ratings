@@ -1,16 +1,16 @@
 # Evil Dead: The Game
-Rating: 4.37 (Ranked 685)  
+Rating: 4.37 (Ranked 684)  
 Number of Ratings: 9,131  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 12,180  (Ranked 26)  
-Sum: 28,397 (Ranked 37)  
+Sum: 28,398 (Ranked 37)  
 Diff (max vs sum): -11
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Great Boss Battles | 12,180 |
 | This game has Diverse Characters | 1,952 |
-| This game has Competitive Players | 1,897 |
+| This game has Competitive Players | 1,898 |
 | This game is Extremely Fun | 1,896 |
 | This game has Quickly Understood Controls | 1,870 |
 | This game is Highly Recommended | 1,841 |

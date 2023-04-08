@@ -1,5 +1,5 @@
 # Lamentum
-Rating: 4.37 (Ranked 685)  
+Rating: 4.37 (Ranked 684)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  
 Sum: 0 (Ranked 481)  

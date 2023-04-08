@@ -1,14 +1,14 @@
 # Auto Chess
-Rating: 4.52 (Ranked 496)  
+Rating: 4.52 (Ranked 497)  
 Number of Ratings: 2,249  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Competitive Players): 718  (Ranked 151)  
-Sum: 5,685 (Ranked 113)  
-Diff (max vs sum): 38
+Max (Competitive Players): 721  (Ranked 150)  
+Sum: 5,688 (Ranked 113)  
+Diff (max vs sum): 37
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Competitive Players | 718 |
+| This game has Competitive Players | 721 |
 | This game is Relaxing | 704 |
 | This game has Diverse Characters | 693 |
 | This game has Quickly Understood Controls | 690 |
@@ -112,4 +112,4 @@ Diff (max vs sum): 38
 | 2023-04-05 | 4.52 | - | 718 |
 | 2023-04-06 | 4.52 | - | 718 |
 | 2023-04-07 | 4.52 | - | 718 |
-| 2023-04-08 | 4.52 | - | 718 |
+| 2023-04-08 | 4.52 | - | 721 |

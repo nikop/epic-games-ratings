@@ -1,5 +1,5 @@
 # SAMURAI SHODOWN
-Rating: 4.65 (Ranked 289)  
+Rating: 4.65 (Ranked 290)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 481)  
 Sum: 0 (Ranked 481)  

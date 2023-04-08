@@ -3,7 +3,7 @@ Rating: 4.61 (Ranked 349)
 Number of Ratings: 25,175  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Challenging Puzzles): 7,596  (Ranked 37)  
-Sum: 9,865 (Ranked 77)  
+Sum: 9,866 (Ranked 77)  
 Diff (max vs sum): -40
 ## Awards
 | Award | Number of Ratings |
@@ -12,7 +12,7 @@ Diff (max vs sum): -40
 | This game is Educational | 277 |
 | This game is Relaxing | 273 |
 | This game has Amazing Characters | 269 |
-| This game has Amazing Storytelling | 263 |
+| This game has Amazing Storytelling | 264 |
 | This game has Quickly Understood Controls | 260 |
 | This game is Great for Beginners | 259 |
 | This game is Extremely Fun | 251 |
