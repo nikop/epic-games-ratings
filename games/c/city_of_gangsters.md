@@ -1,12 +1,13 @@
 # City of Gangsters
 Rating: 4.25 (Ranked 769)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 481)  
-Sum: 0 (Ranked 481)  
+Max (Highly Recommended): 20  (Ranked 476)  
+Sum: 20 (Ranked 476)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
+| This game is Highly Recommended | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -37,3 +38,4 @@ Diff (max vs sum): 0
 | 2023-03-08 | 4.23 | - | - |
 | 2023-03-12 | 4.24 | - | - |
 | 2023-03-31 | 4.25 | - | 0 |
+| 2023-04-08 | 4.25 | - | 20 |

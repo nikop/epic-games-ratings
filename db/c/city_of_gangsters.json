@@ -3,13 +3,14 @@
   "Name": "City of Gangsters",
   "Rating": 4.25,
   "Ranking_Rating": 769,
-  "Ranking_Popularity": 481,
-  "Ranking_PopularitySum": 481,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
+  "Ranking_Popularity": 476,
+  "Ranking_PopularitySum": 476,
+  "NumberOfAwards": 20,
+  "NumberOfAwardsMax": 20,
+  "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2022-08-11T21:00:23.9390359+00:00",
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
-  "LastChanged": "2023-03-31T15:56:50.3888285+00:00",
+  "LastChanged": "2023-04-08T21:57:21.1207504+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-04T02:04:08.6033841+00:00",
@@ -218,7 +219,20 @@
       "Rating": 4.25,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-08T21:57:21.1207506+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 20
+    }
+  ]
 }
