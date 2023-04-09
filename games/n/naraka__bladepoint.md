@@ -1,15 +1,15 @@
 # NARAKA: BLADEPOINT
-Rating: 4.19 (Ranked 804)  
+Rating: 4.19 (Ranked 805)  
 Number of Ratings: 132,339  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 179,285  (Ranked 4)  
-Sum: 371,098 (Ranked 6)  
+Sum: 371,192 (Ranked 6)  
 Diff (max vs sum): -2
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Great Boss Battles | 179,285 |
-| This game has Competitive Players | 72,474 |
+| This game has Competitive Players | 72,568 |
 | This game has Diverse Characters | 67,205 |
 | This game is Highly Recommended | 60,101 |
 | This game has Amazing Characters | 52,134 |
@@ -99,3 +99,4 @@ Diff (max vs sum): -2
 | 2023-04-06 | 4.19 | - | 179,065 |
 | 2023-04-07 | 4.19 | - | 179,163 |
 | 2023-04-08 | 4.19 | - | 179,285 |
+| 2023-04-09 | 4.19 | - | 179,285 |

@@ -6,11 +6,11 @@
   "Ranking_Popularity": 48,
   "Ranking_PopularitySum": 58,
   "NumberOfRatings": 7305,
-  "NumberOfAwards": 14464,
+  "NumberOfAwards": 14465,
   "NumberOfAwardsMax": 6280,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
-  "LastChanged": "2023-04-09T01:57:04.598214+00:00",
+  "LastChanged": "2023-04-09T05:57:10.8959624+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:57.6151267+00:00",
@@ -2997,6 +2997,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 14464,
       "NumberOfAwardsMax": 6280
+    },
+    {
+      "Time": "2023-04-09T05:57:10.8959626+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 14465,
+      "NumberOfAwardsMax": 6280
     }
   ],
   "Tags": [
@@ -3034,7 +3040,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 508
+      "Count": 509
     },
     {
       "Text": "This game is Highly Recommended",

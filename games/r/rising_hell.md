@@ -1,9 +1,9 @@
 # Rising Hell
-Rating: 4.40 (Ranked 654)  
+Rating: 4.40 (Ranked 655)  
 ## Popularity (Based on Awards)
-Max (Quickly Understood Controls): 73  (Ranked 343)  
+Max (Quickly Understood Controls): 73  (Ranked 344)  
 Sum: 657 (Ranked 261)  
-Diff (max vs sum): 82
+Diff (max vs sum): 83
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

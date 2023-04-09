@@ -1,5 +1,5 @@
 # Grand Theft Auto III – The Definitive Edition
-Rating: 4.18 (Ranked 811)  
+Rating: 4.20 (Ranked 793)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  
 Sum: 0 (Ranked 482)  
@@ -33,3 +33,4 @@ Diff (max vs sum): 0
 | 2023-04-04 | 4.15 | - | 0 |
 | 2023-04-06 | 4.16 | - | 0 |
 | 2023-04-08 | 4.18 | - | 0 |
+| 2023-04-09 | 4.20 | - | 0 |
