@@ -6,11 +6,11 @@
   "Ranking_Popularity": 3,
   "Ranking_PopularitySum": 4,
   "NumberOfRatings": 219180,
-  "NumberOfAwards": 1243835,
+  "NumberOfAwards": 1244020,
   "NumberOfAwardsMax": 281872,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2023-04-09T06:57:40.3845284+00:00",
+  "LastChanged": "2023-04-09T10:57:35.6408822+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:42.3518765+00:00",
@@ -4144,6 +4144,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 1243835,
       "NumberOfAwardsMax": 281872
+    },
+    {
+      "Time": "2023-04-09T10:57:35.6408824+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1244020,
+      "NumberOfAwardsMax": 281872
     }
   ],
   "Tags": [
@@ -4211,7 +4217,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 99317
+      "Count": 99502
     }
   ]
 }

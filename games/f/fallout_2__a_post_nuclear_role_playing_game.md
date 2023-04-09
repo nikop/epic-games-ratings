@@ -1,5 +1,5 @@
 # Fallout 2: A Post Nuclear Role Playing Game
-Rating: 4.76 (Ranked 113)  
+Rating: 4.76 (Ranked 112)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 58  (Ranked 372)  
 Sum: 58 (Ranked 419)  

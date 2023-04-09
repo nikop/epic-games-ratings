@@ -1,5 +1,5 @@
 # SpiderHeck
-Rating: 4.76 (Ranked 113)  
+Rating: 4.76 (Ranked 112)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  
 Sum: 0 (Ranked 482)  

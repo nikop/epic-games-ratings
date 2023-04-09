@@ -1,10 +1,10 @@
 # Batman Arkham Asylum Game of the Year Edition
-Rating: 4.67 (Ranked 254)  
+Rating: 4.67 (Ranked 255)  
 Number of Ratings: 2,164  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 635  (Ranked 159)  
-Sum: 635 (Ranked 265)  
-Diff (max vs sum): -106
+Sum: 635 (Ranked 264)  
+Diff (max vs sum): -105
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

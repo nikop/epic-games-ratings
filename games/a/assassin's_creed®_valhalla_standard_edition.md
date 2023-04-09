@@ -1,9 +1,9 @@
 # Assassin's Creed® Valhalla Standard Edition
-Rating: 4.60 (Ranked 372)  
+Rating: 4.60 (Ranked 371)  
 Number of Ratings: 12,317  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 11,262  (Ranked 30)  
-Sum: 26,001 (Ranked 41)  
+Sum: 26,004 (Ranked 41)  
 Diff (max vs sum): -11
 ## Awards
 | Award | Number of Ratings |
@@ -17,7 +17,7 @@ Diff (max vs sum): -11
 | This game has Diverse Characters | 898 |
 | This game has Amazing Storytelling | 897 |
 | This game is Extremely Fun | 895 |
-| This game is Great for Beginners | 879 |
+| This game is Great for Beginners | 882 |
 | This game has a Creative Community | 495 |
 | This game has Obsessive Gameplay | 334 |
 ## Ratings History

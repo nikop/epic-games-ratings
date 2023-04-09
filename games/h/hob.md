@@ -1,5 +1,5 @@
 # Hob
-Rating: 4.57 (Ranked 419)  
+Rating: 4.57 (Ranked 420)  
 Number of Ratings: 466  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  
