@@ -1,15 +1,15 @@
 {
   "ID": "8aa6e526d2864c108f219747ad7011e5",
   "Name": "Horace",
-  "Rating": 4.51,
-  "Ranking_Rating": 508,
+  "Rating": 4.5,
+  "Ranking_Rating": 522,
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 482,
   "NumberOfRatings": 45,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:16:46.8760783+00:00",
-  "LastChanged": "2023-03-31T05:56:55.8305013+00:00",
+  "LastChanged": "2023-04-09T19:56:52.0637401+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:46.8760786+00:00",
@@ -231,6 +231,12 @@
     {
       "Time": "2023-03-31T05:56:55.8305016+00:00",
       "Rating": 4.51,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-09T19:56:52.0637402+00:00",
+      "Rating": 4.5,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

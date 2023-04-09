@@ -2,15 +2,15 @@
   "ID": "0bd3e505924240adb702295fa08c1eff",
   "Name": "Wolfenstein: The New Order - Worldwide",
   "Rating": 4.58,
-  "Ranking_Rating": 403,
+  "Ranking_Rating": 402,
   "Ranking_Popularity": 20,
   "Ranking_PopularitySum": 54,
   "NumberOfRatings": 61135,
-  "NumberOfAwards": 16944,
+  "NumberOfAwards": 16945,
   "NumberOfAwardsMax": 14300,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:25:17.2471647+00:00",
-  "LastChanged": "2023-04-08T15:57:28.9695489+00:00",
+  "LastChanged": "2023-04-09T19:57:35.0937464+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:17.2471649+00:00",
@@ -2410,6 +2410,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 16944,
       "NumberOfAwardsMax": 14300
+    },
+    {
+      "Time": "2023-04-09T19:57:35.0937466+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 16945,
+      "NumberOfAwardsMax": 14300
     }
   ],
   "Tags": [
@@ -2435,7 +2441,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 321
+      "Count": 322
     },
     {
       "Text": "This game is Highly Recommended",

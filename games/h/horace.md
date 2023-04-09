@@ -1,5 +1,5 @@
 # Horace
-Rating: 4.51 (Ranked 508)  
+Rating: 4.50 (Ranked 522)  
 Number of Ratings: 45  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  
@@ -60,3 +60,4 @@ Diff (max vs sum): 0
 | 2023-01-20 | 4.52 | - | - |
 | 2023-01-21 | 4.51 | - | - |
 | 2023-03-31 | 4.51 | - | 0 |
+| 2023-04-09 | 4.50 | - | 0 |

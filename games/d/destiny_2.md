@@ -1,5 +1,5 @@
 # Destiny 2
-Rating: 4.50 (Ranked 523)  
+Rating: 4.50 (Ranked 522)  
 Number of Ratings: 32,207  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 32,619  (Ranked 12)  
