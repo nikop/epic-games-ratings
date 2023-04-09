@@ -6,11 +6,11 @@
   "Ranking_Popularity": 74,
   "Ranking_PopularitySum": 87,
   "NumberOfRatings": 7175,
-  "NumberOfAwards": 8095,
+  "NumberOfAwards": 8097,
   "NumberOfAwardsMax": 3832,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:25:54.5867721+00:00",
-  "LastChanged": "2023-04-08T23:57:57.9189429+00:00",
+  "LastChanged": "2023-04-09T09:58:02.2625494+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:54.5867723+00:00",
@@ -2343,6 +2343,12 @@
       "Rating": 4.77,
       "NumberOfAwards": 8095,
       "NumberOfAwardsMax": 3832
+    },
+    {
+      "Time": "2023-04-09T09:58:02.2625495+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 8097,
+      "NumberOfAwardsMax": 3832
     }
   ],
   "Tags": [
@@ -2398,7 +2404,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 195
+      "Count": 197
     },
     {
       "Text": "This game is Highly Recommended",

@@ -94,7 +94,7 @@
 | 91 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 355 | 203 |
 | 91 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 877 | 141 |
 | 91 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 2,220 | 93 |
-| 91 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 964 | 136 |
+| 91 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 968 | 136 |
 | 91 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,781 | 54 |
 | 91 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 362 | 202 |
 | 91 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 114 | 299 |
@@ -497,7 +497,7 @@
 | 495 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 721 | 150 |
 | 495 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 26,225 | 15 |
 | 495 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 493 | 179 |
-| 495 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 97 | 314 |
+| 495 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 98 | 314 |
 | 495 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 147 | 279 |
 | 495 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 116 | 296 |
 | 495 | [Knockout City™](games/k/knockout_city™.md) | 4.52 | 0 | 482 |
@@ -618,7 +618,7 @@
 | 608 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 509 | 177 |
 | 608 | [STG Football](games/s/stg_football.md) | 4.44 | 33 | 423 |
 | 608 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 482 |
-| 608 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 314 |
+| 608 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 315 |
 | 608 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 0 | 482 |
 | 608 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 370 |
 | 608 | [World of Warships](games/w/world_of_warships.md) | 4.44 | 977 | 133 |
@@ -630,6 +630,7 @@
 | 623 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 274 | 225 |
 | 629 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 0 | 482 |
 | 629 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 59 | 370 |
+| 629 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.42 | 4,939 | 60 |
 | 629 | [Good Company](games/g/good_company.md) | 4.42 | 0 | 482 |
 | 629 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,081 | 124 |
 | 629 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 30 | 437 |
@@ -637,23 +638,22 @@
 | 629 | [Sheltered](games/s/sheltered.md) | 4.42 | 264 | 230 |
 | 629 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.42 | 0 | 482 |
 | 629 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 530 | 175 |
-| 638 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 0 | 482 |
-| 638 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 0 | 482 |
-| 638 | [Death Coming](games/d/death_coming.md) | 4.41 | 0 | 482 |
-| 638 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.41 | 4,939 | 60 |
-| 638 | [ELEX](games/e/elex.md) | 4.41 | 23 | 460 |
-| 638 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 169 | 267 |
-| 638 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 92 | 323 |
-| 638 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 11,745 | 27 |
-| 638 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 0 | 482 |
-| 638 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 0 | 482 |
-| 638 | [Othercide](games/o/othercide.md) | 4.41 | 0 | 482 |
-| 638 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 0 | 482 |
-| 638 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,156 | 97 |
-| 638 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 72 | 348 |
-| 638 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 0 | 482 |
-| 638 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 119 | 294 |
-| 638 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 0 | 482 |
+| 639 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 0 | 482 |
+| 639 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 0 | 482 |
+| 639 | [Death Coming](games/d/death_coming.md) | 4.41 | 0 | 482 |
+| 639 | [ELEX](games/e/elex.md) | 4.41 | 23 | 460 |
+| 639 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 169 | 267 |
+| 639 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 92 | 323 |
+| 639 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 11,745 | 27 |
+| 639 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 0 | 482 |
+| 639 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 0 | 482 |
+| 639 | [Othercide](games/o/othercide.md) | 4.41 | 0 | 482 |
+| 639 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 0 | 482 |
+| 639 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,156 | 97 |
+| 639 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 72 | 348 |
+| 639 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 0 | 482 |
+| 639 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 119 | 294 |
+| 639 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 0 | 482 |
 | 655 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 242 | 235 |
 | 655 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.40 | 0 | 482 |
 | 655 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 0 | 482 |
@@ -883,8 +883,8 @@
 | 881 | [Conarium](games/c/conarium.md) | 3.91 | 0 | 482 |
 | 881 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 310 |
 | 883 | [Chimeraland](games/c/chimeraland.md) | 3.90 | 0 | 482 |
+| 884 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.88 | 81 | 336 |
 | 884 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 0 | 482 |
-| 885 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.87 | 81 | 336 |
 | 886 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 482 |
 | 887 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.80 | 0 | 482 |
 | 888 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,018 | 130 |

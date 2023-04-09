@@ -1,5 +1,5 @@
 # Lords and Villeins
-Rating: 4.41 (Ranked 638)  
+Rating: 4.41 (Ranked 639)  
 Number of Ratings: 21  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  
