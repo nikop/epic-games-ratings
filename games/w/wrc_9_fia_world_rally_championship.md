@@ -1,9 +1,9 @@
 # WRC 9 FIA World Rally Championship
-Rating: 4.53 (Ranked 480)  
+Rating: 4.54 (Ranked 469)  
 Number of Ratings: 233  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Competitive Players): 28  (Ranked 444)  
-Sum: 209 (Ranked 343)  
+Sum: 210 (Ranked 343)  
 Diff (max vs sum): 101
 ## Awards
 | Award | Number of Ratings |
@@ -15,9 +15,9 @@ Diff (max vs sum): 101
 | This game is Great for Quick Sessions | 24 |
 | This game has Quickly Understood Controls | 23 |
 | This game has Challenging Combat | 22 |
+| This game has Amazing Characters | 21 |
 | This game has Realistic Visuals | 21 |
 | This game has Obsessive Gameplay | 20 |
-| This game has Amazing Characters | 20 |
 | This game is Extremely Fun | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -102,3 +102,4 @@ Diff (max vs sum): 101
 | 2023-04-04 | 4.54 | - | 28 |
 | 2023-04-06 | 4.53 | - | 28 |
 | 2023-04-07 | 4.53 | - | 28 |
+| 2023-04-09 | 4.54 | - | 28 |

@@ -1,8 +1,8 @@
 # Mashed
 Rating: - (Ranked -)  
 ## Popularity (Based on Awards)
-Max (): -  (Ranked -)  
-Sum: - (Ranked -)  
+Max (): 0  (Ranked -)  
+Sum: 0 (Ranked -)  
 Diff (max vs sum): -
 ## Awards
 | Award | Number of Ratings |
@@ -10,3 +10,4 @@ Diff (max vs sum): -
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
+| 2023-04-09 | - | - | 0 |

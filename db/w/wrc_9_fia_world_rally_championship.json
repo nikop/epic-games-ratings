@@ -1,16 +1,16 @@
 {
   "ID": "9cf250606722448887fa1447b1d9da06",
   "Name": "WRC 9 FIA World Rally Championship",
-  "Rating": 4.53,
-  "Ranking_Rating": 480,
+  "Rating": 4.54,
+  "Ranking_Rating": 469,
   "Ranking_Popularity": 444,
   "Ranking_PopularitySum": 343,
   "NumberOfRatings": 233,
-  "NumberOfAwards": 209,
+  "NumberOfAwards": 210,
   "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Competitive Players",
   "FirstSeen": "2022-07-22T20:19:01.098445+00:00",
-  "LastChanged": "2023-04-07T18:57:08.5175103+00:00",
+  "LastChanged": "2023-04-09T13:57:34.4564045+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:01.0984452+00:00",
@@ -463,6 +463,12 @@
       "Rating": 4.53,
       "NumberOfAwards": 209,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2023-04-09T13:57:34.4564046+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 210,
+      "NumberOfAwardsMax": 28
     }
   ],
   "Tags": [
@@ -518,7 +524,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game has Realistic Visuals",
