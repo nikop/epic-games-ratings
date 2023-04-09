@@ -1,17 +1,17 @@
 {
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
-  "Rating": 4.55,
-  "Ranking_Rating": 455,
+  "Rating": 4.56,
+  "Ranking_Rating": 435,
   "Ranking_Popularity": 440,
   "Ranking_PopularitySum": 340,
   "NumberOfRatings": 98,
-  "NumberOfAwards": 224,
+  "NumberOfAwards": 225,
   "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
-  "LastChanged": "2023-04-09T08:56:55.9912894+00:00",
+  "LastChanged": "2023-04-09T17:57:10.318813+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-15T19:30:41.9786444+00:00",
@@ -393,6 +393,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 224,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2023-04-09T17:57:10.3188132+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 225,
+      "NumberOfAwardsMax": 29
     }
   ],
   "Tags": [
@@ -424,7 +430,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Amazing Characters",

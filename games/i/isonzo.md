@@ -1,9 +1,9 @@
 # Isonzo
-Rating: 4.55 (Ranked 455)  
+Rating: 4.56 (Ranked 435)  
 Number of Ratings: 98  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 29  (Ranked 440)  
-Sum: 224 (Ranked 340)  
+Sum: 225 (Ranked 340)  
 Diff (max vs sum): 100
 ## Awards
 | Award | Number of Ratings |
@@ -12,8 +12,8 @@ Diff (max vs sum): 100
 | This game is Extremely Fun | 26 |
 | This game has Quickly Understood Controls | 26 |
 | This game is Educational | 26 |
+| This game has Diverse Characters | 25 |
 | This game has Challenging Combat | 24 |
-| This game has Diverse Characters | 24 |
 | This game has Realistic Visuals | 24 |
 | This game has Amazing Characters | 23 |
 | This game has Competitive Players | 22 |
@@ -75,4 +75,4 @@ Diff (max vs sum): 100
 | 2023-04-03 | 4.56 | - | 29 |
 | 2023-04-06 | 4.56 | - | 29 |
 | 2023-04-07 | 4.55 | - | 29 |
-| 2023-04-09 | 4.55 | - | 29 |
+| 2023-04-09 | 4.56 | - | 29 |

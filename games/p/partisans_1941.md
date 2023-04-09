@@ -1,5 +1,5 @@
 # Partisans 1941
-Rating: 4.60 (Ranked 371)  
+Rating: 4.60 (Ranked 372)  
 Number of Ratings: 98  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  

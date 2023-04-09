@@ -1,5 +1,5 @@
 # RiME
-Rating: 4.59 (Ranked 386)  
+Rating: 4.59 (Ranked 387)  
 Number of Ratings: 85  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  

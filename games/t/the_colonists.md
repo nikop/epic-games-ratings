@@ -1,5 +1,5 @@
 # The Colonists
-Rating: 4.59 (Ranked 386)  
+Rating: 4.59 (Ranked 387)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  
 Sum: 0 (Ranked 482)  

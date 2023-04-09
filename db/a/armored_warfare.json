@@ -3,14 +3,14 @@
   "Name": "Armored Warfare",
   "Rating": 4.1,
   "Ranking_Rating": 842,
-  "Ranking_Popularity": 351,
+  "Ranking_Popularity": 349,
   "Ranking_PopularitySum": 274,
   "NumberOfRatings": 458,
-  "NumberOfAwards": 584,
-  "NumberOfAwardsMax": 70,
+  "NumberOfAwards": 586,
+  "NumberOfAwardsMax": 71,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:16:52.6557809+00:00",
-  "LastChanged": "2023-04-07T18:56:54.1597487+00:00",
+  "LastChanged": "2023-04-09T17:57:00.6656813+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:52.6557814+00:00",
@@ -802,6 +802,12 @@
       "Rating": 4.1,
       "NumberOfAwards": 584,
       "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2023-04-09T17:57:00.6656814+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 586,
+      "NumberOfAwardsMax": 71
     }
   ],
   "Tags": [
@@ -809,7 +815,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -863,7 +869,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 70
+      "Count": 71
     }
   ]
 }
