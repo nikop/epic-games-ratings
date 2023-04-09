@@ -3,14 +3,14 @@
   "Name": "Assassin\u0027s Creed Syndicate Standard Edition",
   "Rating": 4.51,
   "Ranking_Rating": 508,
-  "Ranking_Popularity": 327,
+  "Ranking_Popularity": 326,
   "Ranking_PopularitySum": 259,
   "NumberOfRatings": 2854,
-  "NumberOfAwards": 659,
-  "NumberOfAwardsMax": 89,
+  "NumberOfAwards": 660,
+  "NumberOfAwardsMax": 90,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:16:50.1720529+00:00",
-  "LastChanged": "2023-04-08T17:56:49.1774867+00:00",
+  "LastChanged": "2023-04-09T15:56:43.0817873+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:50.1720532+00:00",
@@ -1363,6 +1363,12 @@
       "Rating": 4.51,
       "NumberOfAwards": 659,
       "NumberOfAwardsMax": 89
+    },
+    {
+      "Time": "2023-04-09T15:56:43.0817873+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 660,
+      "NumberOfAwardsMax": 90
     }
   ],
   "Tags": [
@@ -1370,7 +1376,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 89
+      "Count": 90
     },
     {
       "Text": "This game is Educational",

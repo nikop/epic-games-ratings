@@ -1,6 +1,18 @@
 {
   "ID": "aabb9082b6f34efba166ae276cc63986",
   "Name": "Kujlevka",
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-09T15:57:36.5906499+00:00",
+  "FirstSeenRating": "2023-04-09T15:57:36.5906541+00:00",
+  "LastChanged": "2023-04-09T15:57:36.5906542+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-09T15:57:36.5906545+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }
