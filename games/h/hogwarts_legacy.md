@@ -1,19 +1,19 @@
 # Hogwarts Legacy
 Rating: 4.78 (Ranked 100)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 16,943  (Ranked 18)  
-Sum: 30,059 (Ranked 35)  
+Max (Character Customization): 17,041  (Ranked 18)  
+Sum: 30,169 (Ranked 35)  
 Diff (max vs sum): -17
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 16,943 |
+| This game has Inclusive Character Customization | 17,041 |
 | This game has Great Boss Battles | 7,684 |
 | This game is Extremely Fun | 609 |
 | This game is Great for Beginners | 592 |
 | This game is Relaxing | 586 |
+| This game has Amazing Storytelling | 584 |
 | This game has Amazing Characters | 577 |
-| This game has Amazing Storytelling | 572 |
 | This game has Diverse Characters | 571 |
 | This game is Highly Recommended | 537 |
 | This game has Quickly Understood Controls | 513 |
@@ -38,4 +38,4 @@ Diff (max vs sum): -17
 | 2023-04-06 | 4.78 | - | 16,769 |
 | 2023-04-07 | 4.78 | - | 16,856 |
 | 2023-04-08 | 4.78 | - | 16,943 |
-| 2023-04-09 | 4.78 | - | 16,943 |
+| 2023-04-09 | 4.78 | - | 17,041 |

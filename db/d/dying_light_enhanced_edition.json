@@ -1,8 +1,8 @@
 {
   "ID": "2c42520d342a46d7a6e0cfa77b4715de",
   "Name": "Dying Light Enhanced Edition",
-  "Rating": 4.39,
-  "Ranking_Rating": 662,
+  "Rating": 4.4,
+  "Ranking_Rating": 654,
   "Ranking_Popularity": 60,
   "Ranking_PopularitySum": 64,
   "NumberOfRatings": 3181,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 4939,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:18:05.0678131+00:00",
-  "LastChanged": "2023-04-08T22:57:18.7339615+00:00",
+  "LastChanged": "2023-04-09T03:56:57.1389218+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:05.0678134+00:00",
@@ -2599,6 +2599,12 @@
     {
       "Time": "2023-04-08T22:57:18.7339616+00:00",
       "Rating": 4.39,
+      "NumberOfAwards": 13127,
+      "NumberOfAwardsMax": 4939
+    },
+    {
+      "Time": "2023-04-09T03:56:57.1389221+00:00",
+      "Rating": 4.4,
       "NumberOfAwards": 13127,
       "NumberOfAwardsMax": 4939
     }
