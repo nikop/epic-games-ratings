@@ -1,5 +1,5 @@
 # Surviving Mars
-Rating: 4.60 (Ranked 373)  
+Rating: 4.60 (Ranked 372)  
 Number of Ratings: 3,483  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 427  (Ranked 187)  

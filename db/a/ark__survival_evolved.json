@@ -2,15 +2,15 @@
   "ID": "ark",
   "Name": "ARK: Survival Evolved",
   "Rating": 4.59,
-  "Ranking_Rating": 387,
+  "Ranking_Rating": 386,
   "Ranking_Popularity": 10,
   "Ranking_PopularitySum": 11,
   "NumberOfRatings": 35570,
-  "NumberOfAwards": 227714,
+  "NumberOfAwards": 227737,
   "NumberOfAwardsMax": 55508,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2023-04-08T22:57:29.4538408+00:00",
+  "LastChanged": "2023-04-09T01:57:08.4371506+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:31.1262323+00:00",
@@ -3931,6 +3931,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 227714,
       "NumberOfAwardsMax": 55508
+    },
+    {
+      "Time": "2023-04-09T01:57:08.4371508+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 227737,
+      "NumberOfAwardsMax": 55508
     }
   ],
   "Tags": [
@@ -3950,7 +3956,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 19791
+      "Count": 19804
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3992,7 +3998,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 18502
+      "Count": 18512
     },
     {
       "Text": "This game has Diverse Characters",

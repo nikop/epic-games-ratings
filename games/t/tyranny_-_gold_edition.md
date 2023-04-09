@@ -1,5 +1,5 @@
 # Tyranny - Gold Edition
-Rating: 4.59 (Ranked 387)  
+Rating: 4.59 (Ranked 386)  
 Number of Ratings: 1,278  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 687  (Ranked 153)  

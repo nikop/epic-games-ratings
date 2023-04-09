@@ -2,7 +2,7 @@
 Rating: 4.74 (Ranked 143)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 570  (Ranked 165)  
-Sum: 837 (Ranked 237)  
+Sum: 838 (Ranked 237)  
 Diff (max vs sum): -72
 ## Awards
 | Award | Number of Ratings |
@@ -16,7 +16,7 @@ Diff (max vs sum): -72
 | This game is Great for Beginners | 28 |
 | This game has Quickly Understood Controls | 25 |
 | This game has Amazing Storytelling | 25 |
-| This game has a Creative Community | 21 |
+| This game has a Creative Community | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -62,3 +62,4 @@ Diff (max vs sum): -72
 | 2023-04-04 | 4.74 | - | 569 |
 | 2023-04-07 | 4.74 | - | 570 |
 | 2023-04-08 | 4.74 | - | 570 |
+| 2023-04-09 | 4.74 | - | 570 |

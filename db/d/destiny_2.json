@@ -6,12 +6,12 @@
   "Ranking_Popularity": 12,
   "Ranking_PopularitySum": 16,
   "NumberOfRatings": 32207,
-  "NumberOfAwards": 78221,
+  "NumberOfAwards": 78262,
   "NumberOfAwardsMax": 32580,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-08-23T20:00:58.6908762+00:00",
   "FirstSeenRating": "2022-08-24T03:30:20.9735605+00:00",
-  "LastChanged": "2023-04-08T14:57:06.7367823+00:00",
+  "LastChanged": "2023-04-09T01:56:52.7891426+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-24T03:30:20.973561+00:00",
@@ -2252,6 +2252,12 @@
       "Rating": 4.5,
       "NumberOfAwards": 78221,
       "NumberOfAwardsMax": 32580
+    },
+    {
+      "Time": "2023-04-09T01:56:52.7891429+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 78262,
+      "NumberOfAwardsMax": 32580
     }
   ],
   "Tags": [
@@ -2265,7 +2271,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 5778
+      "Count": 5794
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2277,7 +2283,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 5767
+      "Count": 5780
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2295,7 +2301,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 5460
+      "Count": 5472
     },
     {
       "Text": "This game has Quickly Understood Controls",

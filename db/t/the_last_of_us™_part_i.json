@@ -1,7 +1,7 @@
 {
   "ID": "0c40923dd1174a768f732a3b013dcff2",
   "Name": "The Last of Us\u2122 Part I",
-  "Rating": 3.68,
+  "Rating": 3.7,
   "Ranking_Rating": 896,
   "Ranking_Popularity": 459,
   "Ranking_PopularitySum": 462,
@@ -10,7 +10,7 @@
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2023-03-28T17:57:06.372926+00:00",
   "FirstSeenRating": "2023-03-30T20:57:18.2148276+00:00",
-  "LastChanged": "2023-04-08T01:47:46.5622005+00:00",
+  "LastChanged": "2023-04-09T01:57:08.1193987+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-30T20:57:18.2148278+00:00",
@@ -113,6 +113,12 @@
     {
       "Time": "2023-04-08T01:47:46.5622008+00:00",
       "Rating": 3.68,
+      "NumberOfAwards": 23,
+      "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2023-04-09T01:57:08.1193988+00:00",
+      "Rating": 3.7,
       "NumberOfAwards": 23,
       "NumberOfAwardsMax": 23
     }

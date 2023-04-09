@@ -1,5 +1,5 @@
 # Assassin's Creed Origins Standard Edition
-Rating: 4.68 (Ranked 235)  
+Rating: 4.68 (Ranked 236)  
 Number of Ratings: 3,843  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 2,909  (Ranked 87)  

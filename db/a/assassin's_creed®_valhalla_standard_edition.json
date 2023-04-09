@@ -2,15 +2,15 @@
   "ID": "400347196e674de89c23cc2a7f2121db",
   "Name": "Assassin\u0027s Creed\u00AE Valhalla Standard Edition",
   "Rating": 4.6,
-  "Ranking_Rating": 373,
+  "Ranking_Rating": 372,
   "Ranking_Popularity": 30,
   "Ranking_PopularitySum": 41,
   "NumberOfRatings": 12317,
-  "NumberOfAwards": 25957,
-  "NumberOfAwardsMax": 11239,
+  "NumberOfAwards": 25980,
+  "NumberOfAwardsMax": 11262,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2023-04-08T18:57:24.6930954+00:00",
+  "LastChanged": "2023-04-09T01:57:22.3858675+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:17.7160411+00:00",
@@ -3457,6 +3457,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 25957,
       "NumberOfAwardsMax": 11239
+    },
+    {
+      "Time": "2023-04-09T01:57:22.3858676+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 25980,
+      "NumberOfAwardsMax": 11262
     }
   ],
   "Tags": [
@@ -3464,7 +3470,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 11239
+      "Count": 11262
     },
     {
       "Text": "This game has Great Boss Battles",

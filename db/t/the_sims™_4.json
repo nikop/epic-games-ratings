@@ -2,15 +2,15 @@
   "ID": "2a14cf8a83b149919a2399504e5686a6",
   "Name": "The Sims\u2122 4",
   "Rating": 4.58,
-  "Ranking_Rating": 402,
+  "Ranking_Rating": 401,
   "Ranking_Popularity": 343,
   "Ranking_PopularitySum": 285,
-  "NumberOfAwards": 502,
+  "NumberOfAwards": 504,
   "NumberOfAwardsMax": 73,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-04-08T15:56:46.536252+00:00",
+  "LastChanged": "2023-04-09T01:56:48.4605769+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-05T14:56:53.5654686+00:00",
@@ -507,6 +507,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 502,
       "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2023-04-09T01:56:48.4605772+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 504,
+      "NumberOfAwardsMax": 73
     }
   ],
   "Tags": [
@@ -538,7 +544,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 43
+      "Count": 45
     },
     {
       "Text": "This game is Highly Recommended",
