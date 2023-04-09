@@ -91,7 +91,7 @@
 | 78 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 26 | 451 |
 | 78 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.80 | 0 | 482 |
 | 91 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,433 | 112 |
-| 91 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 355 | 203 |
+| 91 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 360 | 203 |
 | 91 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 877 | 141 |
 | 91 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 2,220 | 93 |
 | 91 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 968 | 136 |
@@ -104,7 +104,7 @@
 | 100 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 17,041 | 18 |
 | 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 903 | 140 |
 | 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 141 | 281 |
-| 105 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,832 | 74 |
+| 105 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,839 | 74 |
 | 105 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.77 | 0 | 482 |
 | 105 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 34 | 420 |
 | 105 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 96 | 316 |
@@ -195,7 +195,7 @@
 | 192 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 0 | 482 |
 | 192 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 297 | 219 |
 | 192 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,042 | 70 |
-| 192 | [For The King](games/f/for_the_king.md) | 4.70 | 355 | 203 |
+| 192 | [For The King](games/f/for_the_king.md) | 4.70 | 355 | 204 |
 | 192 | [House Flipper](games/h/house_flipper.md) | 4.70 | 278 | 222 |
 | 192 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 50 | 378 |
 | 192 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,291 | 117 |
@@ -216,7 +216,7 @@
 | 213 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,706 | 75 |
 | 213 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 314 | 211 |
 | 213 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 0 | 482 |
-| 213 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 155,195 | 5 |
+| 213 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 155,657 | 5 |
 | 213 | [High On Life](games/h/high_on_life.md) | 4.69 | 0 | 482 |
 | 213 | [INSIDE](games/i/inside.md) | 4.69 | 0 | 482 |
 | 213 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,168 | 120 |
@@ -482,7 +482,7 @@
 | 480 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 482 |
 | 480 | [Aztez](games/a/aztez.md) | 4.53 | 0 | 482 |
 | 480 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 482 |
-| 480 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,305 | 16 |
+| 480 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,322 | 16 |
 | 480 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 33 | 423 |
 | 480 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 137,346 | 6 |
 | 480 | [IXION](games/i/ixion.md) | 4.53 | 0 | 482 |
@@ -496,7 +496,7 @@
 | 480 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 255 | 232 |
 | 480 | [Verdun](games/v/verdun.md) | 4.53 | 93 | 322 |
 | 496 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 723 | 150 |
-| 496 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 26,225 | 15 |
+| 496 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 26,270 | 15 |
 | 496 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 493 | 179 |
 | 496 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 98 | 314 |
 | 496 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 147 | 279 |
@@ -515,7 +515,7 @@
 | 508 | [First Class Trouble](games/f/first_class_trouble.md) | 4.51 | 72 | 348 |
 | 508 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 104 | 308 |
 | 508 | [MythForce](games/m/mythforce.md) | 4.51 | 32 | 426 |
-| 508 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 375,707 | 2 |
+| 508 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 376,764 | 2 |
 | 508 | [Sable](games/s/sable.md) | 4.51 | 0 | 482 |
 | 508 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 0 | 482 |
 | 508 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 62 | 366 |
@@ -707,7 +707,7 @@
 | 703 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 90 | 326 |
 | 703 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 201 | 251 |
 | 703 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 482 |
-| 703 | [Paladins](games/p/paladins.md) | 4.35 | 3,197 | 81 |
+| 703 | [Paladins](games/p/paladins.md) | 4.35 | 3,198 | 81 |
 | 703 | [Tunche](games/t/tunche.md) | 4.35 | 0 | 482 |
 | 703 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.35 | 37 | 408 |
 | 711 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 0 | 482 |
