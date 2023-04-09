@@ -1,5 +1,5 @@
 # Hi-Fi RUSH
-Rating: 4.92 (Ranked 3)  
+Rating: 4.92 (Ranked 4)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  
 Sum: 0 (Ranked 482)  
