@@ -1,15 +1,15 @@
 {
   "ID": "100f8957d16d4d2d89716775b5767779",
   "Name": "Riverbond",
-  "Rating": 4.48,
-  "Ranking_Rating": 553,
+  "Rating": 4.47,
+  "Ranking_Rating": 564,
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 482,
   "NumberOfRatings": 617,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
-  "LastChanged": "2023-03-31T05:58:37.0111921+00:00",
+  "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:42.544323+00:00",
@@ -456,6 +456,12 @@
     {
       "Time": "2023-03-31T05:58:37.0111923+00:00",
       "Rating": 4.48,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-09T23:59:07.506491+00:00",
+      "Rating": 4.47,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

@@ -1,5 +1,5 @@
 # Riverbond
-Rating: 4.48 (Ranked 553)  
+Rating: 4.47 (Ranked 564)  
 Number of Ratings: 617  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  
@@ -87,3 +87,4 @@ Diff (max vs sum): 0
 | 2023-01-26 | 4.49 | - | - |
 | 2023-01-27 | 4.48 | - | - |
 | 2023-03-31 | 4.48 | - | 0 |
+| 2023-04-09 | 4.47 | - | 0 |
