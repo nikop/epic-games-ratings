@@ -1,15 +1,15 @@
 {
   "ID": "78683b0edafd4a978a5ab61a7f6b0594",
   "Name": "Tunche",
-  "Rating": 4.32,
-  "Ranking_Rating": 725,
+  "Rating": 4.35,
+  "Ranking_Rating": 703,
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 482,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:21:10.1699893+00:00",
   "FirstSeenRating": "2023-03-31T05:57:24.4690387+00:00",
-  "LastChanged": "2023-04-08T02:18:36.8371239+00:00",
+  "LastChanged": "2023-04-09T02:57:35.2675739+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:24.469039+00:00",
@@ -68,6 +68,12 @@
     {
       "Time": "2023-04-08T02:18:36.837124+00:00",
       "Rating": 4.32,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-09T02:57:35.267574+00:00",
+      "Rating": 4.35,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

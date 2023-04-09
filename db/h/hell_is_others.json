@@ -1,15 +1,15 @@
 {
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
-  "Rating": 4.46,
-  "Ranking_Rating": 575,
+  "Rating": 4.47,
+  "Ranking_Rating": 565,
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 482,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
-  "LastChanged": "2023-04-08T20:58:04.0837604+00:00",
+  "LastChanged": "2023-04-09T02:58:14.6101433+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-05T15:57:56.0114161+00:00",
@@ -230,6 +230,12 @@
     {
       "Time": "2023-04-08T20:58:04.0837607+00:00",
       "Rating": 4.46,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-09T02:58:14.6101435+00:00",
+      "Rating": 4.47,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
