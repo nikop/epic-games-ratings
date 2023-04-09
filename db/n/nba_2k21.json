@@ -2,15 +2,15 @@
   "ID": "6b3b9698082c43cd9dcd7f68e3365e79",
   "Name": "NBA 2K21",
   "Rating": 4.39,
-  "Ranking_Rating": 663,
+  "Ranking_Rating": 664,
   "Ranking_Popularity": 28,
   "Ranking_PopularitySum": 14,
   "NumberOfRatings": 43722,
-  "NumberOfAwards": 87962,
+  "NumberOfAwards": 87964,
   "NumberOfAwardsMax": 11628,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:26:01.1099601+00:00",
-  "LastChanged": "2023-04-09T16:58:18.9483881+00:00",
+  "LastChanged": "2023-04-09T21:57:34.6452018+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:01.1099603+00:00",
@@ -3616,6 +3616,12 @@
       "Rating": 4.39,
       "NumberOfAwards": 87962,
       "NumberOfAwardsMax": 11628
+    },
+    {
+      "Time": "2023-04-09T21:57:34.645202+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 87964,
+      "NumberOfAwardsMax": 11628
     }
   ],
   "Tags": [
@@ -3635,7 +3641,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 10742
+      "Count": 10744
     },
     {
       "Text": "This game is Extremely Fun",

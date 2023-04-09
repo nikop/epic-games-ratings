@@ -1,5 +1,5 @@
 # Spirit of the Island
-Rating: 4.40 (Ranked 655)  
+Rating: 4.40 (Ranked 656)  
 Number of Ratings: 25  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  

@@ -1,5 +1,5 @@
 # Tannenberg
-Rating: 4.39 (Ranked 663)  
+Rating: 4.39 (Ranked 664)  
 Number of Ratings: 13,393  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Competitive Players): 321  (Ranked 209)  
