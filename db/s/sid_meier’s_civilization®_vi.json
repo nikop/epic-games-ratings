@@ -2,15 +2,15 @@
   "ID": "cd14dcaa4f3443f19f7169a980559c62",
   "Name": "Sid Meier\u2019s Civilization\u00AE VI",
   "Rating": 4.74,
-  "Ranking_Rating": 142,
+  "Ranking_Rating": 141,
   "Ranking_Popularity": 13,
   "Ranking_PopularitySum": 11,
   "NumberOfRatings": 57866,
-  "NumberOfAwards": 240236,
+  "NumberOfAwards": 240297,
   "NumberOfAwardsMax": 28931,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
-  "LastChanged": "2023-04-09T11:57:14.8652323+00:00",
+  "LastChanged": "2023-04-09T13:00:18.3152799+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:50.1564233+00:00",
@@ -3918,6 +3918,12 @@
       "Rating": 4.74,
       "NumberOfAwards": 240236,
       "NumberOfAwardsMax": 28931
+    },
+    {
+      "Time": "2023-04-09T13:00:18.3152801+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 240297,
+      "NumberOfAwardsMax": 28931
     }
   ],
   "Tags": [
@@ -3949,7 +3955,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 24854
+      "Count": 24915
     },
     {
       "Text": "This game has Quickly Understood Controls",

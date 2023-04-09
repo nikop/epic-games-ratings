@@ -1,8 +1,8 @@
 {
   "ID": "78473822f724474d8e436f6bde735623",
   "Name": "Cave Story\u002B",
-  "Rating": 4.75,
-  "Ranking_Rating": 124,
+  "Rating": 4.76,
+  "Ranking_Rating": 112,
   "Ranking_Popularity": 332,
   "Ranking_PopularitySum": 397,
   "NumberOfRatings": 278,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 84,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:30:31.2539727+00:00",
-  "LastChanged": "2023-02-11T13:58:13.6912654+00:00",
+  "LastChanged": "2023-04-09T13:01:44.4339057+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:31.253973+00:00",
@@ -410,6 +410,12 @@
     {
       "Time": "2023-02-11T13:58:13.6912656+00:00",
       "Rating": 4.75
+    },
+    {
+      "Time": "2023-04-09T13:01:44.4339058+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 84,
+      "NumberOfAwardsMax": 84
     }
   ],
   "Tags": [

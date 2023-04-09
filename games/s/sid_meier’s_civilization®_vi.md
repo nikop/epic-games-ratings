@@ -1,9 +1,9 @@
 # Sid Meier’s Civilization® VI
-Rating: 4.74 (Ranked 142)  
+Rating: 4.74 (Ranked 141)  
 Number of Ratings: 57,866  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 28,931  (Ranked 13)  
-Sum: 240,236 (Ranked 11)  
+Sum: 240,297 (Ranked 11)  
 Diff (max vs sum): 2
 ## Awards
 | Award | Number of Ratings |
@@ -12,7 +12,7 @@ Diff (max vs sum): 2
 | This game is Educational | 26,599 |
 | This game is Relaxing | 25,566 |
 | This game is Highly Recommended | 25,437 |
-| This game is Extremely Fun | 24,854 |
+| This game is Extremely Fun | 24,915 |
 | This game has Quickly Understood Controls | 24,702 |
 | This game has Competitive Players | 23,854 |
 | This game has Amazing Characters | 22,003 |
