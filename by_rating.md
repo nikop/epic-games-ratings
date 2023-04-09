@@ -113,7 +113,7 @@
 | 105 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 482 |
 | 105 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 27 | 445 |
 | 113 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 0 | 482 |
-| 113 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 2,150 | 97 |
+| 113 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 2,170 | 95 |
 | 113 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 13,841 | 22 |
 | 113 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 804 | 144 |
 | 113 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 39 | 403 |
@@ -153,7 +153,7 @@
 | 143 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 482 |
 | 143 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.74 | 41 | 401 |
 | 143 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 76 | 339 |
-| 143 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 570 | 165 |
+| 143 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 571 | 165 |
 | 155 | [BLACKTAIL](games/b/blacktail.md) | 4.73 | 0 | 482 |
 | 155 | [Dead Space](games/d/dead_space.md) | 4.73 | 31 | 432 |
 | 155 | [DOOM II](games/d/doom_ii.md) | 4.73 | 25 | 455 |
@@ -211,7 +211,7 @@
 | 192 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 57 | 373 |
 | 192 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 0 | 482 |
 | 192 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 482 |
-| 192 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,145 | 69 |
+| 192 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,151 | 69 |
 | 213 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 106,768 | 8 |
 | 213 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,706 | 75 |
 | 213 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 312 | 212 |
@@ -363,7 +363,7 @@
 | 350 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 0 | 482 |
 | 350 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.61 | 1,140 | 122 |
 | 350 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 547 | 168 |
-| 350 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,055 | 126 |
+| 350 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,056 | 126 |
 | 350 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,381 | 89 |
 | 350 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 397 | 191 |
 | 350 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,057 | 125 |
@@ -648,7 +648,7 @@
 | 637 | [Othercide](games/o/othercide.md) | 4.41 | 0 | 482 |
 | 637 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 0 | 482 |
 | 637 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 30 | 437 |
-| 637 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,156 | 96 |
+| 637 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,156 | 97 |
 | 637 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 72 | 347 |
 | 637 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 0 | 482 |
 | 637 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 119 | 294 |
@@ -758,21 +758,21 @@
 | 755 | [Rage 2](games/r/rage_2.md) | 4.28 | 2,414 | 88 |
 | 755 | [Steelrising](games/s/steelrising.md) | 4.28 | 0 | 482 |
 | 755 | [The Fall](games/t/the_fall.md) | 4.28 | 0 | 482 |
-| 759 | [Chess Ultra](games/c/chess_ultra.md) | 4.27 | 0 | 482 |
 | 759 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 22 | 464 |
 | 759 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 0 | 482 |
 | 759 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 0 | 482 |
 | 759 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 297 | 219 |
+| 759 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.27 | 36 | 412 |
 | 764 | [EVE Online](games/e/eve_online.md) | 4.26 | 997 | 131 |
 | 764 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.26 | 0 | 482 |
 | 764 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 482 |
 | 764 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 482 |
-| 764 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.26 | 36 | 412 |
-| 769 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 0 | 482 |
-| 769 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.25 | 20 | 476 |
-| 769 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 0 | 482 |
-| 769 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 0 | 482 |
-| 769 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 0 | 482 |
+| 768 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 0 | 482 |
+| 768 | [Chess Ultra](games/c/chess_ultra.md) | 4.25 | 0 | 482 |
+| 768 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.25 | 20 | 476 |
+| 768 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 0 | 482 |
+| 768 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 0 | 482 |
+| 768 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 0 | 482 |
 | 774 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 482 |
 | 774 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 432 |
 | 774 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.24 | 973 | 134 |
@@ -845,7 +845,7 @@
 | 842 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 0 | 482 |
 | 842 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 376 |
 | 842 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 0 | 482 |
-| 842 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,158 | 95 |
+| 842 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,158 | 96 |
 | 847 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 482 |
 | 847 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 482 |
 | 849 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 136 | 284 |

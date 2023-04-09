@@ -68,7 +68,7 @@
 | 66 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,464 | 4.70 | 192 |
 | 67 | [DEATH STRANDING](games/d/death_stranding.md) | 4,415 | 4.78 | 100 |
 | 68 | [Cities: Skylines](games/c/cities__skylines.md) | 4,238 | 4.65 | 290 |
-| 69 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,145 | 4.70 | 192 |
+| 69 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,151 | 4.70 | 192 |
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,031 | 4.70 | 192 |
 | 71 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,028 | 4.51 | 507 |
 | 72 | [Chivalry 2](games/c/chivalry_2.md) | 3,934 | 4.61 | 350 |
@@ -94,9 +94,9 @@
 | 92 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,323 | 4.80 | 78 |
 | 93 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,220 | 4.79 | 91 |
 | 94 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,203 | 4.67 | 254 |
-| 95 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,158 | 4.10 | 842 |
-| 96 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,156 | 4.41 | 637 |
-| 97 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,150 | 4.76 | 113 |
+| 95 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,170 | 4.76 | 113 |
+| 96 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,158 | 4.10 | 842 |
+| 97 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,156 | 4.41 | 637 |
 | 98 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,125 | 4.37 | 685 |
 | 99 | [Gotham Knights](games/g/gotham_knights.md) | 2,094 | 4.17 | 815 |
 | 100 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,082 | 4.49 | 536 |
@@ -125,7 +125,7 @@
 | 123 | [XCOM® 2](games/x/xcom®_2.md) | 1,107 | 4.54 | 469 |
 | 124 | [OUTRIDERS](games/o/outriders.md) | 1,081 | 4.42 | 629 |
 | 125 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,057 | 4.61 | 350 |
-| 126 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,055 | 4.61 | 350 |
+| 126 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,056 | 4.61 | 350 |
 | 127 | [Conan Exiles](games/c/conan_exiles.md) | 1,039 | 4.55 | 455 |
 | 128 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,023 | 4.66 | 270 |
 | 129 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,021 | 4.53 | 480 |
@@ -164,7 +164,7 @@
 | 161 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 604 | 4.49 | 536 |
 | 163 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 579 | 4.62 | 332 |
 | 164 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 573 | 4.62 | 332 |
-| 165 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 570 | 4.74 | 143 |
+| 165 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 571 | 4.74 | 143 |
 | 166 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 565 | 4.74 | 143 |
 | 167 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 560 | 4.58 | 401 |
 | 168 | [Filament](games/f/filament.md) | 547 | 4.32 | 726 |
@@ -414,7 +414,7 @@
 | 412 | [20XX](games/2/20xx.md) | 36 | 4.61 | 350 |
 | 412 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 36 | 4.60 | 372 |
 | 412 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 36 | 4.57 | 419 |
-| 412 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 36 | 4.26 | 764 |
+| 412 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 36 | 4.27 | 759 |
 | 412 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 36 | 4.48 | 553 |
 | 417 | [FUSER™](games/f/fuser™.md) | 35 | 4.71 | 178 |
 | 417 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 35 | 4.56 | 436 |
@@ -477,7 +477,7 @@
 | 472 | [We Were Here Forever](games/w/we_were_here_forever.md) | 21 | 4.66 | 270 |
 | 476 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 20 | 4.63 | 324 |
 | 476 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 20 | 4.47 | 565 |
-| 476 | [City of Gangsters](games/c/city_of_gangsters.md) | 20 | 4.25 | 769 |
+| 476 | [City of Gangsters](games/c/city_of_gangsters.md) | 20 | 4.25 | 768 |
 | 476 | [Figment](games/f/figment.md) | 20 | 4.46 | 576 |
 | 476 | [Torchlight](games/t/torchlight.md) | 20 | 4.33 | 719 |
 | 476 | [Void Bastards](games/v/void_bastards.md) | 20 | 4.60 | 372 |
