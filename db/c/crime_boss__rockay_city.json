@@ -4,13 +4,13 @@
   "Rating": 3.88,
   "Ranking_Rating": 884,
   "Ranking_Popularity": 336,
-  "Ranking_PopularitySum": 294,
-  "NumberOfAwards": 397,
+  "Ranking_PopularitySum": 289,
+  "NumberOfAwards": 430,
   "NumberOfAwardsMax": 81,
   "MaxAwardTitle": "Amazing Characters",
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
-  "LastChanged": "2023-04-09T09:57:05.4995448+00:00",
+  "LastChanged": "2023-04-09T11:57:11.2512798+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-29T02:58:45.3340124+00:00",
@@ -431,6 +431,12 @@
       "Rating": 3.88,
       "NumberOfAwards": 397,
       "NumberOfAwardsMax": 81
+    },
+    {
+      "Time": "2023-04-09T11:57:11.2512802+00:00",
+      "Rating": 3.88,
+      "NumberOfAwards": 430,
+      "NumberOfAwardsMax": 81
     }
   ],
   "Tags": [
@@ -475,6 +481,12 @@
       "Prefix": "This game is",
       "Type": "Highly Recommended",
       "Count": 73
+    },
+    {
+      "Text": "This game has a Silly Community",
+      "Prefix": "This game has a",
+      "Type": "Silly Community",
+      "Count": 33
     }
   ]
 }

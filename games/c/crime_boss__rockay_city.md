@@ -2,8 +2,8 @@
 Rating: 3.88 (Ranked 884)  
 ## Popularity (Based on Awards)
 Max (Amazing Characters): 81  (Ranked 336)  
-Sum: 397 (Ranked 294)  
-Diff (max vs sum): 42
+Sum: 430 (Ranked 289)  
+Diff (max vs sum): 47
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
@@ -14,6 +14,7 @@ Diff (max vs sum): 42
 | This game has Challenging Combat | 62 |
 | This game has Quickly Understood Controls | 60 |
 | This game has Amazing Storytelling | 52 |
+| This game has a Silly Community | 33 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |

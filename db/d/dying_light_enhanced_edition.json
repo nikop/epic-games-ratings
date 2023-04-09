@@ -3,14 +3,14 @@
   "Name": "Dying Light Enhanced Edition",
   "Rating": 4.42,
   "Ranking_Rating": 629,
-  "Ranking_Popularity": 60,
-  "Ranking_PopularitySum": 63,
+  "Ranking_Popularity": 50,
+  "Ranking_PopularitySum": 58,
   "NumberOfRatings": 3181,
-  "NumberOfAwards": 13341,
-  "NumberOfAwardsMax": 4939,
+  "NumberOfAwards": 14497,
+  "NumberOfAwardsMax": 6092,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:18:05.0678131+00:00",
-  "LastChanged": "2023-04-09T10:57:07.8907882+00:00",
+  "LastChanged": "2023-04-09T11:57:16.65405+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:05.0678134+00:00",
@@ -2631,6 +2631,12 @@
       "Rating": 4.42,
       "NumberOfAwards": 13341,
       "NumberOfAwardsMax": 4939
+    },
+    {
+      "Time": "2023-04-09T11:57:16.6540503+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 14497,
+      "NumberOfAwardsMax": 6092
     }
   ],
   "Tags": [
@@ -2638,7 +2644,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 4939
+      "Count": 6092
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -2668,7 +2674,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 559
+      "Count": 562
     },
     {
       "Text": "This game has Amazing Characters",
