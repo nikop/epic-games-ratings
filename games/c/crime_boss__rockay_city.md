@@ -2,8 +2,8 @@
 Rating: 3.88 (Ranked 884)  
 ## Popularity (Based on Awards)
 Max (Amazing Characters): 81  (Ranked 336)  
-Sum: 430 (Ranked 289)  
-Diff (max vs sum): 47
+Sum: 378 (Ranked 298)  
+Diff (max vs sum): 38
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
