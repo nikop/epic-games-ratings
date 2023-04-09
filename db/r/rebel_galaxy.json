@@ -1,8 +1,8 @@
 {
   "ID": "weaver",
   "Name": "Rebel Galaxy",
-  "Rating": 4.41,
-  "Ranking_Rating": 637,
+  "Rating": 4.42,
+  "Ranking_Rating": 629,
   "Ranking_Popularity": 437,
   "Ranking_PopularitySum": 371,
   "NumberOfRatings": 774,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:27:15.7165478+00:00",
-  "LastChanged": "2023-04-04T22:58:11.7493967+00:00",
+  "LastChanged": "2023-04-09T06:58:08.3844128+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:15.7165482+00:00",
@@ -673,6 +673,12 @@
     {
       "Time": "2023-04-04T22:58:11.7493969+00:00",
       "Rating": 4.41,
+      "NumberOfAwards": 153,
+      "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2023-04-09T06:58:08.3844129+00:00",
+      "Rating": 4.42,
       "NumberOfAwards": 153,
       "NumberOfAwardsMax": 30
     }

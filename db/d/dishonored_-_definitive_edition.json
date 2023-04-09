@@ -3,14 +3,14 @@
   "Name": "Dishonored - Definitive Edition",
   "Rating": 4.74,
   "Ranking_Rating": 143,
-  "Ranking_Popularity": 183,
+  "Ranking_Popularity": 182,
   "Ranking_PopularitySum": 287,
   "NumberOfRatings": 234,
-  "NumberOfAwards": 488,
-  "NumberOfAwardsMax": 467,
+  "NumberOfAwards": 492,
+  "NumberOfAwardsMax": 471,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:32:28.893212+00:00",
-  "LastChanged": "2023-04-08T05:59:06.9152671+00:00",
+  "LastChanged": "2023-04-09T06:58:49.8438991+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:28.8932125+00:00",
@@ -491,6 +491,12 @@
       "Rating": 4.74,
       "NumberOfAwards": 488,
       "NumberOfAwardsMax": 467
+    },
+    {
+      "Time": "2023-04-09T06:58:49.8438991+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 492,
+      "NumberOfAwardsMax": 471
     }
   ],
   "Tags": [
@@ -498,7 +504,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 467
+      "Count": 471
     },
     {
       "Text": "This game has Amazing Storytelling",

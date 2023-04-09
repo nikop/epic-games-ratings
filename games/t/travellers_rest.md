@@ -1,5 +1,5 @@
 # Travellers Rest
-Rating: 4.56 (Ranked 436)  
+Rating: 4.56 (Ranked 435)  
 Number of Ratings: 64  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  

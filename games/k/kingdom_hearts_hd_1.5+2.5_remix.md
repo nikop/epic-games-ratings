@@ -2,9 +2,9 @@
 Rating: 4.82 (Ranked 61)  
 Number of Ratings: 4,283  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Amazing Characters): 468  (Ranked 182)  
+Max (Amazing Characters): 468  (Ranked 183)  
 Sum: 3,496 (Ranked 138)  
-Diff (max vs sum): 44
+Diff (max vs sum): 45
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

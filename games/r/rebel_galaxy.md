@@ -1,5 +1,5 @@
 # Rebel Galaxy
-Rating: 4.41 (Ranked 637)  
+Rating: 4.42 (Ranked 629)  
 Number of Ratings: 774  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 30  (Ranked 437)  
@@ -96,3 +96,4 @@ Diff (max vs sum): 66
 | 2023-03-21 | 4.42 | - | - |
 | 2023-04-03 | 4.41 | - | 30 |
 | 2023-04-04 | 4.41 | - | 30 |
+| 2023-04-09 | 4.42 | - | 30 |
