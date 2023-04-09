@@ -1,15 +1,15 @@
 {
   "ID": "315e6807f6684c279fc286d0fc36a44f",
   "Name": "shapez",
-  "Rating": 4.71,
-  "Ranking_Rating": 177,
+  "Rating": 4.73,
+  "Ranking_Rating": 154,
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 482,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-11-01T20:01:20.018196+00:00",
   "FirstSeenRating": "2022-11-10T15:57:35.7088081+00:00",
-  "LastChanged": "2023-04-09T10:57:32.3249708+00:00",
+  "LastChanged": "2023-04-09T16:57:53.2492448+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-10T15:57:35.7088088+00:00",
@@ -86,6 +86,12 @@
     {
       "Time": "2023-04-09T10:57:32.3249709+00:00",
       "Rating": 4.71,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-09T16:57:53.2492451+00:00",
+      "Rating": 4.73,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

@@ -1,5 +1,5 @@
 # The Stanley Parable
-Rating: 4.72 (Ranked 166)  
+Rating: 4.72 (Ranked 167)  
 Number of Ratings: 188  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  

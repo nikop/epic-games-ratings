@@ -1,5 +1,5 @@
 # Ghostrunner
-Rating: 4.72 (Ranked 166)  
+Rating: 4.72 (Ranked 167)  
 Number of Ratings: 1,047  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 448  (Ranked 185)  

@@ -1,5 +1,5 @@
 # Dakar Desert Rally
-Rating: 4.29 (Ranked 749)  
+Rating: 4.29 (Ranked 748)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  
 Sum: 0 (Ranked 482)  
