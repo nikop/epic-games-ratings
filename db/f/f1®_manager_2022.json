@@ -2,16 +2,16 @@
   "ID": "d14dcbe6b15b4fe191ff00880b9927f2",
   "Name": "F1\u00AE Manager 2022",
   "Rating": 4.58,
-  "Ranking_Rating": 402,
+  "Ranking_Rating": 403,
   "Ranking_Popularity": 238,
   "Ranking_PopularitySum": 195,
   "NumberOfRatings": 810,
-  "NumberOfAwards": 1753,
+  "NumberOfAwards": 1754,
   "NumberOfAwardsMax": 231,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-08-30T14:01:37.4479981+00:00",
   "FirstSeenRating": "2022-08-30T21:30:24.1805179+00:00",
-  "LastChanged": "2023-04-09T15:56:46.4941305+00:00",
+  "LastChanged": "2023-04-09T18:57:07.1262309+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-30T21:30:24.1805182+00:00",
@@ -1005,6 +1005,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 1753,
       "NumberOfAwardsMax": 231
+    },
+    {
+      "Time": "2023-04-09T18:57:07.126231+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1754,
+      "NumberOfAwardsMax": 231
     }
   ],
   "Tags": [
@@ -1042,7 +1048,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 199
+      "Count": 200
     },
     {
       "Text": "This game has Amazing Storytelling",

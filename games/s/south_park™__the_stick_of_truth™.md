@@ -1,5 +1,5 @@
 # South Park™: The Stick of Truth™
-Rating: 4.81 (Ranked 69)  
+Rating: 4.81 (Ranked 70)  
 Number of Ratings: 115  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 31  (Ranked 432)  

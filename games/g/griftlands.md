@@ -1,5 +1,5 @@
 # Griftlands
-Rating: 4.81 (Ranked 69)  
+Rating: 4.81 (Ranked 70)  
 Number of Ratings: 151  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  

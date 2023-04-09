@@ -1,5 +1,5 @@
 # Little Inferno
-Rating: 4.60 (Ranked 372)  
+Rating: 4.61 (Ranked 351)  
 Number of Ratings: 66  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  
@@ -74,3 +74,4 @@ Diff (max vs sum): 0
 | 2023-01-23 | 4.61 | - | - |
 | 2023-03-31 | 4.61 | - | 0 |
 | 2023-04-03 | 4.60 | - | 0 |
+| 2023-04-09 | 4.61 | - | 0 |

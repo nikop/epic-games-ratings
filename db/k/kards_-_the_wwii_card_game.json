@@ -1,8 +1,8 @@
 {
   "ID": "d34cf6aeceb94c579af0236fe1185b79",
   "Name": "KARDS - The WWII Card Game",
-  "Rating": 4.39,
-  "Ranking_Rating": 663,
+  "Rating": 4.38,
+  "Ranking_Rating": 674,
   "Ranking_Popularity": 174,
   "Ranking_PopularitySum": 135,
   "NumberOfRatings": 1466,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 539,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:20:27.7135917+00:00",
-  "LastChanged": "2023-04-08T18:56:58.8831138+00:00",
+  "LastChanged": "2023-04-09T18:57:05.7646304+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:27.713592+00:00",
@@ -1450,6 +1450,12 @@
     {
       "Time": "2023-04-08T18:56:58.883114+00:00",
       "Rating": 4.39,
+      "NumberOfAwards": 3597,
+      "NumberOfAwardsMax": 539
+    },
+    {
+      "Time": "2023-04-09T18:57:05.764633+00:00",
+      "Rating": 4.38,
       "NumberOfAwards": 3597,
       "NumberOfAwardsMax": 539
     }
