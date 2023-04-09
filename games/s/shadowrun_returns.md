@@ -1,10 +1,10 @@
 # Shadowrun Returns
-Rating: 4.43 (Ranked 623)  
+Rating: 4.43 (Ranked 624)  
 Number of Ratings: 324  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 66  (Ranked 359)  
-Sum: 66 (Ranked 412)  
-Diff (max vs sum): -53
+Sum: 66 (Ranked 413)  
+Diff (max vs sum): -54
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

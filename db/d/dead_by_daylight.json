@@ -2,15 +2,15 @@
   "ID": "611482b8586142cda48a0786eb8a127c",
   "Name": "Dead by Daylight",
   "Rating": 4.52,
-  "Ranking_Rating": 495,
+  "Ranking_Rating": 496,
   "Ranking_Popularity": 15,
   "Ranking_PopularitySum": 12,
   "NumberOfRatings": 70340,
-  "NumberOfAwards": 213093,
+  "NumberOfAwards": 213138,
   "NumberOfAwardsMax": 26225,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
-  "LastChanged": "2023-04-09T16:57:09.8515125+00:00",
+  "LastChanged": "2023-04-09T20:56:53.2620567+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:36.44586+00:00",
@@ -3697,6 +3697,12 @@
       "Rating": 4.52,
       "NumberOfAwards": 213093,
       "NumberOfAwardsMax": 26225
+    },
+    {
+      "Time": "2023-04-09T20:56:53.2620568+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 213138,
+      "NumberOfAwardsMax": 26225
     }
   ],
   "Tags": [
@@ -3740,7 +3746,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 24205
+      "Count": 24250
     },
     {
       "Text": "This game has Quickly Understood Controls",

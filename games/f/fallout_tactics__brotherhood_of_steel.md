@@ -2,8 +2,8 @@
 Rating: 4.50 (Ranked 522)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 65  (Ranked 363)  
-Sum: 65 (Ranked 416)  
-Diff (max vs sum): -53
+Sum: 65 (Ranked 417)  
+Diff (max vs sum): -54
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

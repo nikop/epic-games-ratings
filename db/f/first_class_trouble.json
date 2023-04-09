@@ -3,14 +3,14 @@
   "Name": "First Class Trouble",
   "Rating": 4.51,
   "Ranking_Rating": 508,
-  "Ranking_Popularity": 349,
+  "Ranking_Popularity": 348,
   "Ranking_PopularitySum": 281,
-  "NumberOfAwards": 544,
-  "NumberOfAwardsMax": 71,
-  "MaxAwardTitle": "Great for Quick Sessions",
+  "NumberOfAwards": 546,
+  "NumberOfAwardsMax": 72,
+  "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-09-22T22:01:01.54229+00:00",
   "FirstSeenRating": "2023-01-13T07:56:45.2170746+00:00",
-  "LastChanged": "2023-04-09T19:56:52.3360592+00:00",
+  "LastChanged": "2023-04-09T20:56:48.6716191+00:00",
   "RatingHistory": [
     {
       "Time": "2023-01-13T07:56:45.2170748+00:00",
@@ -357,6 +357,12 @@
       "Rating": 4.51,
       "NumberOfAwards": 544,
       "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2023-04-09T20:56:48.6716192+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 546,
+      "NumberOfAwardsMax": 72
     }
   ],
   "Tags": [
@@ -382,7 +388,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 70
+      "Count": 72
     },
     {
       "Text": "This game has Diverse Characters",
