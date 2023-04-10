@@ -3,14 +3,14 @@
   "Name": "Kerbal Space Program",
   "Rating": 4.79,
   "Ranking_Rating": 91,
-  "Ranking_Popularity": 203,
+  "Ranking_Popularity": 202,
   "Ranking_PopularitySum": 160,
-  "NumberOfAwards": 2478,
-  "NumberOfAwardsMax": 360,
+  "NumberOfAwards": 2483,
+  "NumberOfAwardsMax": 365,
   "MaxAwardTitle": "Educational",
   "FirstSeen": "2023-01-05T18:57:29.6336645+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
-  "LastChanged": "2023-04-10T21:57:16.7601176+00:00",
+  "LastChanged": "2023-04-10T23:57:00.6783103+00:00",
   "RatingHistory": [
     {
       "Time": "2023-01-06T04:57:07.6192795+00:00",
@@ -423,6 +423,12 @@
       "Rating": 4.79,
       "NumberOfAwards": 2478,
       "NumberOfAwardsMax": 360
+    },
+    {
+      "Time": "2023-04-10T23:57:00.678311+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2483,
+      "NumberOfAwardsMax": 365
     }
   ],
   "Tags": [
@@ -448,7 +454,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 360
+      "Count": 365
     },
     {
       "Text": "This game is Highly Recommended",

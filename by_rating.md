@@ -91,12 +91,12 @@
 | 78 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 26 | 452 |
 | 78 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.80 | 0 | 482 |
 | 91 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,433 | 112 |
-| 91 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 360 | 203 |
+| 91 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 365 | 202 |
 | 91 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 877 | 141 |
 | 91 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 2,222 | 93 |
 | 91 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 968 | 136 |
 | 91 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,783 | 55 |
-| 91 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 362 | 202 |
+| 91 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 362 | 203 |
 | 91 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 114 | 299 |
 | 91 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 482 |
 | 100 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,448 | 67 |
@@ -208,32 +208,32 @@
 | 192 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 0 | 482 |
 | 192 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.70 | 74 | 343 |
 | 192 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.70 | 0 | 482 |
+| 192 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 44 | 396 |
 | 192 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 57 | 373 |
 | 192 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 0 | 482 |
 | 192 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 482 |
 | 192 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,157 | 69 |
-| 213 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 106,928 | 8 |
-| 213 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,706 | 75 |
-| 213 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 314 | 211 |
-| 213 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 0 | 482 |
-| 213 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 156,027 | 5 |
-| 213 | [High On Life](games/h/high_on_life.md) | 4.69 | 0 | 482 |
-| 213 | [INSIDE](games/i/inside.md) | 4.69 | 0 | 482 |
-| 213 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,168 | 121 |
-| 213 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 482 |
-| 213 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 482 |
-| 213 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,141 | 31 |
-| 213 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.69 | 0 | 482 |
-| 213 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 0 | 482 |
-| 213 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 44 | 396 |
-| 213 | [The Witness](games/t/the_witness.md) | 4.69 | 167 | 268 |
-| 213 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 35 | 417 |
-| 213 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 0 | 482 |
-| 213 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 843 | 143 |
-| 213 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 0 | 482 |
-| 213 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 482 |
-| 213 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 0 | 482 |
-| 213 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 757 | 147 |
+| 214 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 106,928 | 8 |
+| 214 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,706 | 75 |
+| 214 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 314 | 211 |
+| 214 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 0 | 482 |
+| 214 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 156,027 | 5 |
+| 214 | [High On Life](games/h/high_on_life.md) | 4.69 | 0 | 482 |
+| 214 | [INSIDE](games/i/inside.md) | 4.69 | 0 | 482 |
+| 214 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,168 | 121 |
+| 214 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 482 |
+| 214 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 482 |
+| 214 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,141 | 31 |
+| 214 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.69 | 0 | 482 |
+| 214 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 0 | 482 |
+| 214 | [The Witness](games/t/the_witness.md) | 4.69 | 167 | 268 |
+| 214 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 35 | 417 |
+| 214 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 0 | 482 |
+| 214 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 843 | 143 |
+| 214 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 0 | 482 |
+| 214 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 482 |
+| 214 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 0 | 482 |
+| 214 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 757 | 147 |
 | 235 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,315 | 80 |
 | 235 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.68 | 0 | 482 |
 | 235 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 2,920 | 87 |
@@ -483,7 +483,7 @@
 | 480 | [Aztez](games/a/aztez.md) | 4.53 | 0 | 482 |
 | 480 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 482 |
 | 480 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,346 | 16 |
-| 480 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 26,270 | 15 |
+| 480 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.53 | 26,297 | 15 |
 | 480 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 33 | 423 |
 | 480 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 137,374 | 6 |
 | 480 | [IXION](games/i/ixion.md) | 4.53 | 0 | 482 |
