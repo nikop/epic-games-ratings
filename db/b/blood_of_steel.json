@@ -1,15 +1,15 @@
 {
   "ID": "f1e33357c0ad46719364bac31a4fcbdf",
   "Name": "Blood of Steel",
-  "Rating": 3.74,
-  "Ranking_Rating": 893,
+  "Rating": 3.68,
+  "Ranking_Rating": 896,
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 482,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-09T20:57:21.1764121+00:00",
   "FirstSeenRating": "2023-01-18T14:57:02.2486161+00:00",
-  "LastChanged": "2023-04-06T16:57:15.4537355+00:00",
+  "LastChanged": "2023-04-10T16:57:07.2571487+00:00",
   "RatingHistory": [
     {
       "Time": "2023-01-18T14:57:02.2486163+00:00",
@@ -96,6 +96,12 @@
     {
       "Time": "2023-04-06T16:57:15.4537358+00:00",
       "Rating": 3.74,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-10T16:57:07.2571488+00:00",
+      "Rating": 3.68,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

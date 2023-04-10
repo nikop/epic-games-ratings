@@ -1,16 +1,16 @@
 {
   "ID": "eb99ee4694474e8da0b05a8ab391825c",
   "Name": "PUBG: BATTLEGROUNDS",
-  "Rating": 3.99,
-  "Ranking_Rating": 865,
+  "Rating": 3.98,
+  "Ranking_Rating": 867,
   "Ranking_Popularity": 114,
   "Ranking_PopularitySum": 126,
-  "NumberOfAwards": 4548,
+  "NumberOfAwards": 4555,
   "NumberOfAwardsMax": 1400,
   "MaxAwardTitle": "Competitive Players",
   "FirstSeen": "2022-12-06T17:57:24.6501738+00:00",
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
-  "LastChanged": "2023-04-10T13:02:18.8707682+00:00",
+  "LastChanged": "2023-04-10T16:57:05.1909086+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-08T10:57:21.6139883+00:00",
@@ -551,6 +551,12 @@
       "Rating": 3.99,
       "NumberOfAwards": 4548,
       "NumberOfAwardsMax": 1400
+    },
+    {
+      "Time": "2023-04-10T16:57:05.1909088+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 4555,
+      "NumberOfAwardsMax": 1400
     }
   ],
   "Tags": [
@@ -594,7 +600,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 811
+      "Count": 818
     },
     {
       "Text": "This game is Relaxing",

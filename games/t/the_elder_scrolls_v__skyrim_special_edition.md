@@ -2,7 +2,7 @@
 Rating: 4.86 (Ranked 31)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 1,171  (Ranked 120)  
-Sum: 2,657 (Ranked 157)  
+Sum: 2,658 (Ranked 157)  
 Diff (max vs sum): -37
 ## Awards
 | Award | Number of Ratings |
@@ -16,7 +16,7 @@ Diff (max vs sum): -37
 | This game is Extremely Fun | 162 |
 | This game has Amazing Characters | 156 |
 | This game is Relaxing | 153 |
-| This game has a Creative Community | 124 |
+| This game has a Creative Community | 125 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
