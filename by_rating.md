@@ -112,7 +112,7 @@
 | 105 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 482 |
 | 105 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 27 | 445 |
 | 112 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 0 | 482 |
-| 112 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 2,170 | 95 |
+| 112 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 2,191 | 95 |
 | 112 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 13,850 | 22 |
 | 112 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 84 | 333 |
 | 112 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 806 | 144 |
@@ -845,7 +845,7 @@
 | 842 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 0 | 482 |
 | 842 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 376 |
 | 842 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 0 | 482 |
-| 842 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,158 | 96 |
+| 842 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,161 | 96 |
 | 847 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 482 |
 | 847 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 482 |
 | 849 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 136 | 284 |
@@ -865,12 +865,12 @@
 | 863 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.00 | 0 | 482 |
 | 863 | [Gravewood High](games/g/gravewood_high.md) | 4.00 | 0 | 482 |
 | 865 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 367 | 201 |
-| 865 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.99 | 1,400 | 114 |
 | 865 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 0 | 482 |
-| 868 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 482 |
-| 868 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 0 | 482 |
-| 868 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,500 | 65 |
-| 868 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 482 |
+| 867 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 482 |
+| 867 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 0 | 482 |
+| 867 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 1,400 | 114 |
+| 867 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,500 | 65 |
+| 867 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 482 |
 | 872 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 482 |
 | 873 | [Banished](games/b/banished.md) | 3.96 | 0 | 482 |
 | 874 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 390 |
