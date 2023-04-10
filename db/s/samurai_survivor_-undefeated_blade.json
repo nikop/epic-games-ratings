@@ -1,6 +1,18 @@
 {
   "ID": "e05bd0c3c8d44873af400d441f97ecc6",
   "Name": "SAMURAI Survivor -Undefeated Blade",
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-10T17:59:06.1224696+00:00",
+  "FirstSeenRating": "2023-04-10T17:59:06.1224734+00:00",
+  "LastChanged": "2023-04-10T17:59:06.1224735+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-10T17:59:06.1224737+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

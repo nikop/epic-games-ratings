@@ -2,8 +2,8 @@
 Rating: 3.71 (Ranked 895)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 39  (Ranked 403)  
-Sum: 113 (Ranked 385)  
-Diff (max vs sum): 18
+Sum: 113 (Ranked 386)  
+Diff (max vs sum): 17
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

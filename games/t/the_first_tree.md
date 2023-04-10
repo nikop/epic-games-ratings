@@ -1,5 +1,5 @@
 # The First Tree
-Rating: 3.98 (Ranked 867)  
+Rating: 3.98 (Ranked 868)  
 Number of Ratings: 56  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  

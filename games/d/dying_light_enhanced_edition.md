@@ -1,9 +1,9 @@
 # Dying Light Enhanced Edition
-Rating: 4.47 (Ranked 564)  
+Rating: 4.48 (Ranked 554)  
 Number of Ratings: 3,181  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 7,286  (Ranked 40)  
-Sum: 16,027 (Ranked 57)  
+Sum: 16,037 (Ranked 57)  
 Diff (max vs sum): -17
 ## Awards
 | Award | Number of Ratings |
@@ -13,7 +13,7 @@ Diff (max vs sum): -17
 | This game is Great for Beginners | 687 |
 | This game has Diverse Characters | 645 |
 | This game is Highly Recommended | 621 |
-| This game is Extremely Fun | 604 |
+| This game is Extremely Fun | 614 |
 | This game is Relaxing | 595 |
 | This game has Quickly Understood Controls | 585 |
 | This game has Amazing Characters | 577 |
@@ -119,4 +119,4 @@ Diff (max vs sum): -17
 | 2023-04-07 | 4.28 | - | 4,050 |
 | 2023-04-08 | 4.39 | - | 4,939 |
 | 2023-04-09 | 4.45 | - | 6,092 |
-| 2023-04-10 | 4.47 | - | 7,286 |
+| 2023-04-10 | 4.48 | - | 7,286 |

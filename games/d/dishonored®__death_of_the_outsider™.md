@@ -2,8 +2,8 @@
 Rating: 4.43 (Ranked 624)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 22  (Ranked 465)  
-Sum: 103 (Ranked 390)  
-Diff (max vs sum): 75
+Sum: 123 (Ranked 382)  
+Diff (max vs sum): 83
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
@@ -13,6 +13,7 @@ Diff (max vs sum): 75
 | This game is Relaxing | 20 |
 | This game has Amazing Characters | 20 |
 | This game has Diverse Characters | 20 |
+| This game is Great for Beginners | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
