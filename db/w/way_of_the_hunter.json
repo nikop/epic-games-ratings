@@ -3,15 +3,15 @@
   "Name": "Way of the Hunter",
   "Rating": 4.35,
   "Ranking_Rating": 704,
-  "Ranking_Popularity": 408,
-  "Ranking_PopularitySum": 352,
+  "Ranking_Popularity": 406,
+  "Ranking_PopularitySum": 351,
   "NumberOfRatings": 190,
-  "NumberOfAwards": 183,
-  "NumberOfAwardsMax": 37,
+  "NumberOfAwards": 184,
+  "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2022-08-22T17:32:55.4881061+00:00",
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
-  "LastChanged": "2023-04-07T16:57:45.3291081+00:00",
+  "LastChanged": "2023-04-10T09:58:08.1159319+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-25T19:31:36.4278603+00:00",
@@ -519,6 +519,12 @@
       "Rating": 4.35,
       "NumberOfAwards": 183,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2023-04-10T09:58:08.1159321+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 184,
+      "NumberOfAwardsMax": 38
     }
   ],
   "Tags": [
@@ -544,7 +550,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game is Relaxing",
