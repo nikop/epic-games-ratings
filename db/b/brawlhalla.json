@@ -5,12 +5,12 @@
   "Ranking_Rating": 457,
   "Ranking_Popularity": 364,
   "Ranking_PopularitySum": 268,
-  "NumberOfAwards": 615,
+  "NumberOfAwards": 616,
   "NumberOfAwardsMax": 64,
-  "MaxAwardTitle": "Great for Beginners",
+  "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-04-09T23:57:03.6794392+00:00",
+  "LastChanged": "2023-04-10T02:57:03.338661+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-21T06:57:02.0735411+00:00",
@@ -683,6 +683,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 615,
       "NumberOfAwardsMax": 64
+    },
+    {
+      "Time": "2023-04-10T02:57:03.3386612+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 616,
+      "NumberOfAwardsMax": 64
     }
   ],
   "Tags": [
@@ -714,7 +720,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 52
+      "Count": 53
     },
     {
       "Text": "This game is Highly Recommended",

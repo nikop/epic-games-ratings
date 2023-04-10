@@ -1,5 +1,5 @@
 # Paladins
-Rating: 4.35 (Ranked 703)  
+Rating: 4.35 (Ranked 704)  
 Number of Ratings: 11,687  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Quick Sessions): 3,198  (Ranked 81)  
