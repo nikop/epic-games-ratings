@@ -1,9 +1,9 @@
 # Tom Clancy's Ghost Recon Wildlands Standard Edition
-Rating: 4.58 (Ranked 402)  
+Rating: 4.58 (Ranked 403)  
 Number of Ratings: 871  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 160  (Ranked 274)  
-Sum: 1,159 (Ranked 218)  
+Sum: 1,160 (Ranked 218)  
 Diff (max vs sum): 56
 ## Awards
 | Award | Number of Ratings |
@@ -14,7 +14,7 @@ Diff (max vs sum): 56
 | This game has Amazing Characters | 146 |
 | This game is Highly Recommended | 143 |
 | This game has Amazing Storytelling | 142 |
-| This game is Extremely Fun | 137 |
+| This game is Extremely Fun | 138 |
 | This game has Diverse Characters | 125 |
 | This game has Obsessive Gameplay | 65 |
 | This game has Challenging Combat | 51 |
@@ -114,3 +114,4 @@ Diff (max vs sum): 56
 | 2023-04-07 | 4.58 | - | 159 |
 | 2023-04-08 | 4.58 | - | 160 |
 | 2023-04-09 | 4.58 | - | 160 |
+| 2023-04-10 | 4.58 | - | 160 |
