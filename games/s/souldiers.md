@@ -1,5 +1,5 @@
 # Souldiers
-Rating: 4.54 (Ranked 469)  
+Rating: 4.54 (Ranked 468)  
 Number of Ratings: 63  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  

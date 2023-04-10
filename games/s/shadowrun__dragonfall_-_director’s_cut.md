@@ -1,5 +1,5 @@
 # Shadowrun: Dragonfall - Director’s Cut
-Rating: 4.55 (Ranked 457)  
+Rating: 4.54 (Ranked 468)  
 Number of Ratings: 236  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 88  (Ranked 329)  
@@ -83,3 +83,4 @@ Diff (max vs sum): -67
 | 2022-12-26 | 4.55 | - | - |
 | 2023-01-16 | 4.54 | - | - |
 | 2023-03-16 | 4.55 | - | - |
+| 2023-04-10 | 4.54 | - | 88 |

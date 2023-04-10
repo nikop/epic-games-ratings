@@ -2,15 +2,15 @@
   "ID": "helloneighbor",
   "Name": "Hello Neighbor",
   "Rating": 4.54,
-  "Ranking_Rating": 469,
+  "Ranking_Rating": 468,
   "Ranking_Popularity": 256,
   "Ranking_PopularitySum": 212,
   "NumberOfRatings": 1166,
-  "NumberOfAwards": 1299,
-  "NumberOfAwardsMax": 190,
+  "NumberOfAwards": 1300,
+  "NumberOfAwardsMax": 191,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:22:23.0108388+00:00",
-  "LastChanged": "2023-04-10T13:02:33.4589666+00:00",
+  "LastChanged": "2023-04-10T15:57:30.6748307+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:23.0108394+00:00",
@@ -1439,6 +1439,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 1299,
       "NumberOfAwardsMax": 190
+    },
+    {
+      "Time": "2023-04-10T15:57:30.6748309+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 1300,
+      "NumberOfAwardsMax": 191
     }
   ],
   "Tags": [
@@ -1458,7 +1464,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 190
+      "Count": 191
     },
     {
       "Text": "This game has Amazing Storytelling",
