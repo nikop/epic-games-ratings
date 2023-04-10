@@ -1,16 +1,16 @@
 {
   "ID": "93b333eb973b45b582f3bdf68dfc1dc9",
   "Name": "Railway Empire",
-  "Rating": 4.52,
-  "Ranking_Rating": 496,
+  "Rating": 4.51,
+  "Ranking_Rating": 507,
   "Ranking_Popularity": 226,
   "Ranking_PopularitySum": 191,
   "NumberOfRatings": 2155,
-  "NumberOfAwards": 1857,
+  "NumberOfAwards": 1858,
   "NumberOfAwardsMax": 271,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:18:36.383576+00:00",
-  "LastChanged": "2023-04-09T13:00:23.1855323+00:00",
+  "LastChanged": "2023-04-10T21:57:12.5160563+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:36.3835762+00:00",
@@ -1966,6 +1966,12 @@
       "Rating": 4.52,
       "NumberOfAwards": 1857,
       "NumberOfAwardsMax": 271
+    },
+    {
+      "Time": "2023-04-10T21:57:12.5160564+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 1858,
+      "NumberOfAwardsMax": 271
     }
   ],
   "Tags": [
@@ -2021,7 +2027,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 108
+      "Count": 109
     },
     {
       "Text": "This game has Amazing Characters",

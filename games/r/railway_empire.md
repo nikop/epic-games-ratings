@@ -1,9 +1,9 @@
 # Railway Empire
-Rating: 4.52 (Ranked 496)  
+Rating: 4.51 (Ranked 507)  
 Number of Ratings: 2,155  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 271  (Ranked 226)  
-Sum: 1,857 (Ranked 191)  
+Sum: 1,858 (Ranked 191)  
 Diff (max vs sum): 35
 ## Awards
 | Award | Number of Ratings |
@@ -16,7 +16,7 @@ Diff (max vs sum): 35
 | This game has Amazing Storytelling | 224 |
 | This game is Educational | 217 |
 | This game has Obsessive Gameplay | 164 |
-| This game has a Creative Community | 108 |
+| This game has a Creative Community | 109 |
 | This game has Amazing Characters | 103 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -106,3 +106,4 @@ Diff (max vs sum): 35
 | 2023-04-07 | 4.51 | - | 271 |
 | 2023-04-08 | 4.51 | - | 271 |
 | 2023-04-09 | 4.52 | - | 271 |
+| 2023-04-10 | 4.51 | - | 271 |

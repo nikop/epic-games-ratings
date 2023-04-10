@@ -1,5 +1,5 @@
 # 3 out of 10: Season Two
-Rating: 4.31 (Ranked 736)  
+Rating: 4.31 (Ranked 737)  
 Number of Ratings: 52  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  
