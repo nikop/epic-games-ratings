@@ -6,11 +6,11 @@
   "Ranking_Popularity": 91,
   "Ranking_PopularitySum": 51,
   "NumberOfRatings": 6825,
-  "NumberOfAwards": 20000,
+  "NumberOfAwards": 20017,
   "NumberOfAwardsMax": 2335,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-04-10T17:58:02.0059673+00:00",
+  "LastChanged": "2023-04-10T19:57:46.8852231+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:57.8589287+00:00",
@@ -3325,6 +3325,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 20000,
       "NumberOfAwardsMax": 2335
+    },
+    {
+      "Time": "2023-04-10T19:57:46.8852232+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 20017,
+      "NumberOfAwardsMax": 2335
     }
   ],
   "Tags": [
@@ -3350,7 +3356,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2011
+      "Count": 2021
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3380,7 +3386,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 1671
+      "Count": 1678
     },
     {
       "Text": "This game has Challenging Combat",

@@ -1,5 +1,5 @@
 # Cook, Serve, Delicious! 3?!
-Rating: 4.49 (Ranked 538)  
+Rating: 4.49 (Ranked 539)  
 Number of Ratings: 2,006  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Quick Sessions): 104  (Ranked 308)  

@@ -3,13 +3,13 @@ Rating: 4.35 (Ranked 704)
 Number of Ratings: 11,687  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Quick Sessions): 3,198  (Ranked 81)  
-Sum: 25,029 (Ranked 46)  
+Sum: 25,033 (Ranked 46)  
 Diff (max vs sum): 35
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Great for Quick Sessions | 3,198 |
-| This game has Diverse Characters | 3,143 |
+| This game has Diverse Characters | 3,147 |
 | This game has Competitive Players | 2,906 |
 | This game has Quickly Understood Controls | 2,875 |
 | This game is Extremely Fun | 2,871 |
