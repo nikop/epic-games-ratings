@@ -1,13 +1,13 @@
 # Filament
 Rating: 4.32 (Ranked 726)  
 ## Popularity (Based on Awards)
-Max (Challenging Puzzles): 547  (Ranked 168)  
-Sum: 661 (Ranked 257)  
+Max (Challenging Puzzles): 548  (Ranked 168)  
+Sum: 662 (Ranked 257)  
 Diff (max vs sum): -89
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game features Challenging Puzzles | 547 |
+| This game features Challenging Puzzles | 548 |
 | This game has Amazing Characters | 25 |
 | This game is Highly Recommended | 24 |
 | This game has Quickly Understood Controls | 23 |
@@ -32,3 +32,4 @@ Diff (max vs sum): -89
 | 2023-03-17 | 4.33 | - | - |
 | 2023-03-28 | 4.32 | - | - |
 | 2023-04-05 | 4.32 | - | 547 |
+| 2023-04-10 | 4.32 | - | 548 |

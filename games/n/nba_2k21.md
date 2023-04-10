@@ -1,5 +1,5 @@
 # NBA 2K21
-Rating: 4.39 (Ranked 664)  
+Rating: 4.39 (Ranked 665)  
 Number of Ratings: 43,722  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 11,628  (Ranked 28)  

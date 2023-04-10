@@ -3,7 +3,7 @@ Rating: 4.35 (Ranked 704)
 Number of Ratings: 7,669  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 201  (Ranked 251)  
-Sum: 1,686 (Ranked 197)  
+Sum: 1,687 (Ranked 197)  
 Diff (max vs sum): 54
 ## Awards
 | Award | Number of Ratings |
@@ -17,7 +17,7 @@ Diff (max vs sum): 54
 | This game has Amazing Storytelling | 173 |
 | This game has Easy Combat | 127 |
 | This game has Amazing Characters | 122 |
-| This game has a Creative Community | 106 |
+| This game has a Creative Community | 107 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -49,3 +49,4 @@ Diff (max vs sum): 54
 | 2023-04-02 | 4.35 | - | 201 |
 | 2023-04-03 | 4.35 | - | 201 |
 | 2023-04-09 | 4.35 | - | 201 |
+| 2023-04-10 | 4.35 | - | 201 |
