@@ -146,7 +146,7 @@
 | 140 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 565 | 166 |
 | 140 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,350 | 47 |
 | 140 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 222 | 243 |
-| 140 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 28,931 | 13 |
+| 140 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 29,001 | 13 |
 | 140 | [Tchia](games/t/tchia.md) | 4.74 | 0 | 482 |
 | 140 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 482 |
 | 140 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 735 | 149 |
@@ -233,7 +233,7 @@
 | 213 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 0 | 482 |
 | 213 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 482 |
 | 213 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 0 | 482 |
-| 213 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 756 | 147 |
+| 213 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 757 | 147 |
 | 235 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,315 | 80 |
 | 235 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.68 | 0 | 482 |
 | 235 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 2,917 | 87 |
@@ -415,7 +415,7 @@
 | 403 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 201 | 251 |
 | 403 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 50 | 378 |
 | 403 | [The Medium](games/t/the_medium.md) | 4.58 | 0 | 482 |
-| 403 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 160 | 274 |
+| 403 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 161 | 274 |
 | 403 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 245 | 234 |
 | 403 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 959 | 137 |
 | 403 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 5,937 | 52 |
@@ -680,7 +680,7 @@
 | 675 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 0 | 482 |
 | 675 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 539 | 174 |
 | 675 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 162 | 273 |
-| 675 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 160 | 274 |
+| 675 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 160 | 275 |
 | 675 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 0 | 482 |
 | 675 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 482 |
 | 675 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 31 | 432 |

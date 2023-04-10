@@ -5,12 +5,12 @@
   "Ranking_Rating": 457,
   "Ranking_Popularity": 364,
   "Ranking_PopularitySum": 268,
-  "NumberOfAwards": 616,
+  "NumberOfAwards": 618,
   "NumberOfAwardsMax": 64,
-  "MaxAwardTitle": "Diverse Characters",
+  "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-04-10T02:57:03.338661+00:00",
+  "LastChanged": "2023-04-10T07:56:49.1214641+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-21T06:57:02.0735411+00:00",
@@ -689,6 +689,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 616,
       "NumberOfAwardsMax": 64
+    },
+    {
+      "Time": "2023-04-10T07:56:49.1214641+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 618,
+      "NumberOfAwardsMax": 64
     }
   ],
   "Tags": [
@@ -726,7 +732,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 52
+      "Count": 54
     },
     {
       "Text": "This game has Challenging Combat",

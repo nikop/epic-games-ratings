@@ -6,11 +6,11 @@
   "Ranking_Popularity": 183,
   "Ranking_PopularitySum": 138,
   "NumberOfRatings": 4283,
-  "NumberOfAwards": 3500,
+  "NumberOfAwards": 3502,
   "NumberOfAwardsMax": 469,
   "MaxAwardTitle": "Amazing Characters",
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2023-04-09T22:57:41.0806394+00:00",
+  "LastChanged": "2023-04-10T07:57:26.110428+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:56.8065491+00:00",
@@ -2632,6 +2632,12 @@
       "Rating": 4.82,
       "NumberOfAwards": 3500,
       "NumberOfAwardsMax": 469
+    },
+    {
+      "Time": "2023-04-10T07:57:26.1104281+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3502,
+      "NumberOfAwardsMax": 469
     }
   ],
   "Tags": [
@@ -2669,7 +2675,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 432
+      "Count": 434
     },
     {
       "Text": "This game has Challenging Combat",
