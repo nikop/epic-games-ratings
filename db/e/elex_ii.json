@@ -1,15 +1,15 @@
 {
   "ID": "75c06d52a99942e9884a47deced106bb",
   "Name": "ELEX II",
-  "Rating": 4.28,
-  "Ranking_Rating": 755,
+  "Rating": 4.27,
+  "Ranking_Rating": 758,
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 482,
   "NumberOfRatings": 124,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
-  "LastChanged": "2023-03-31T05:57:50.966626+00:00",
+  "LastChanged": "2023-04-10T13:57:38.5536797+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:52.8123952+00:00",
@@ -412,6 +412,12 @@
     {
       "Time": "2023-03-31T05:57:50.9666263+00:00",
       "Rating": 4.28,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-10T13:57:38.55368+00:00",
+      "Rating": 4.27,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

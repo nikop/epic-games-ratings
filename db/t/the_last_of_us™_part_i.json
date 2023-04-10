@@ -3,14 +3,14 @@
   "Name": "The Last of Us\u2122 Part I",
   "Rating": 3.73,
   "Ranking_Rating": 895,
-  "Ranking_Popularity": 458,
-  "Ranking_PopularitySum": 461,
-  "NumberOfAwards": 24,
-  "NumberOfAwardsMax": 24,
+  "Ranking_Popularity": 444,
+  "Ranking_PopularitySum": 454,
+  "NumberOfAwards": 28,
+  "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2023-03-28T17:57:06.372926+00:00",
   "FirstSeenRating": "2023-03-30T20:57:18.2148276+00:00",
-  "LastChanged": "2023-04-10T08:58:15.1112646+00:00",
+  "LastChanged": "2023-04-10T13:57:10.7582625+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-30T20:57:18.2148278+00:00",
@@ -133,6 +133,12 @@
       "Rating": 3.73,
       "NumberOfAwards": 24,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2023-04-10T13:57:10.7582626+00:00",
+      "Rating": 3.73,
+      "NumberOfAwards": 28,
+      "NumberOfAwardsMax": 28
     }
   ],
   "Tags": [
@@ -140,7 +146,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 24
+      "Count": 28
     }
   ]
 }
