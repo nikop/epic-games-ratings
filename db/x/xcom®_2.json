@@ -6,11 +6,11 @@
   "Ranking_Popularity": 123,
   "Ranking_PopularitySum": 81,
   "NumberOfRatings": 7396,
-  "NumberOfAwards": 8951,
+  "NumberOfAwards": 8953,
   "NumberOfAwardsMax": 1107,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:17:40.7075482+00:00",
-  "LastChanged": "2023-04-09T21:56:50.8625373+00:00",
+  "LastChanged": "2023-04-10T03:57:07.3191704+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:40.7075487+00:00",
@@ -3088,6 +3088,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 8951,
       "NumberOfAwardsMax": 1107
+    },
+    {
+      "Time": "2023-04-10T03:57:07.3191705+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8953,
+      "NumberOfAwardsMax": 1107
     }
   ],
   "Tags": [
@@ -3101,7 +3107,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1081
+      "Count": 1083
     },
     {
       "Text": "This game has Amazing Storytelling",

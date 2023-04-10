@@ -2,15 +2,15 @@
   "ID": "c37115918ccc4969a57b6b1bdc28af4a",
   "Name": "Tiny Tina\u0027s Wonderlands",
   "Rating": 4.57,
-  "Ranking_Rating": 421,
+  "Ranking_Rating": 422,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 33,
   "NumberOfRatings": 20753,
-  "NumberOfAwards": 31017,
+  "NumberOfAwards": 31021,
   "NumberOfAwardsMax": 17670,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:20:26.2976401+00:00",
-  "LastChanged": "2023-04-09T21:57:03.9965554+00:00",
+  "LastChanged": "2023-04-10T03:57:24.2808844+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:26.2976404+00:00",
@@ -3524,6 +3524,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 31017,
       "NumberOfAwardsMax": 17670
+    },
+    {
+      "Time": "2023-04-10T03:57:24.2808846+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 31021,
+      "NumberOfAwardsMax": 17670
     }
   ],
   "Tags": [
@@ -3549,7 +3555,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1698
+      "Count": 1700
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3567,7 +3573,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1648
+      "Count": 1650
     },
     {
       "Text": "This game is Great for Beginners",

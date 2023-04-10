@@ -1,5 +1,5 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
-Rating: 4.57 (Ranked 421)  
+Rating: 4.57 (Ranked 422)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  
 Sum: 0 (Ranked 482)  

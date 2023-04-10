@@ -1,8 +1,8 @@
 {
   "ID": "oleander",
   "Name": "Journey to the Savage Planet",
-  "Rating": 4.57,
-  "Ranking_Rating": 421,
+  "Rating": 4.58,
+  "Ranking_Rating": 402,
   "Ranking_Popularity": 413,
   "Ranking_PopularitySum": 440,
   "NumberOfRatings": 114,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:21:18.1838434+00:00",
-  "LastChanged": "2023-03-18T02:03:27.3811199+00:00",
+  "LastChanged": "2023-04-10T03:57:30.6047112+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:18.1838436+00:00",
@@ -292,6 +292,12 @@
     {
       "Time": "2023-03-18T02:03:27.3811202+00:00",
       "Rating": 4.57
+    },
+    {
+      "Time": "2023-04-10T03:57:30.6047114+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 36,
+      "NumberOfAwardsMax": 36
     }
   ],
   "Tags": [
