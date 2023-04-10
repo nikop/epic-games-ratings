@@ -1,16 +1,16 @@
 {
   "ID": "conanexiles",
   "Name": "Conan Exiles",
-  "Rating": 4.55,
-  "Ranking_Rating": 457,
+  "Rating": 4.54,
+  "Ranking_Rating": 469,
   "Ranking_Popularity": 127,
   "Ranking_PopularitySum": 92,
   "NumberOfRatings": 1374,
-  "NumberOfAwards": 7509,
+  "NumberOfAwards": 7518,
   "NumberOfAwardsMax": 1044,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:16:49.0940249+00:00",
-  "LastChanged": "2023-04-10T10:56:57.0193491+00:00",
+  "LastChanged": "2023-04-10T13:01:55.8361287+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:49.0940252+00:00",
@@ -2069,6 +2069,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 7509,
       "NumberOfAwardsMax": 1044
+    },
+    {
+      "Time": "2023-04-10T13:01:55.8361289+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 7518,
+      "NumberOfAwardsMax": 1044
     }
   ],
   "Tags": [
@@ -2100,7 +2106,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 978
+      "Count": 981
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2112,7 +2118,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 965
+      "Count": 971
     },
     {
       "Text": "This game has Amazing Characters",

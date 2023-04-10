@@ -1,17 +1,17 @@
 # Hello Neighbor
-Rating: 4.54 (Ranked 470)  
+Rating: 4.54 (Ranked 469)  
 Number of Ratings: 1,166  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 190  (Ranked 256)  
-Sum: 1,298 (Ranked 212)  
+Sum: 1,299 (Ranked 212)  
 Diff (max vs sum): 44
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Relaxing | 190 |
 | This game is Great for Beginners | 187 |
+| This game has Amazing Storytelling | 166 |
 | This game has Quickly Understood Controls | 165 |
-| This game has Amazing Storytelling | 165 |
 | This game is Extremely Fun | 154 |
 | This game is Highly Recommended | 152 |
 | This game has Amazing Characters | 150 |
@@ -114,3 +114,4 @@ Diff (max vs sum): 44
 | 2023-04-04 | 4.54 | - | 190 |
 | 2023-04-06 | 4.54 | - | 190 |
 | 2023-04-08 | 4.54 | - | 190 |
+| 2023-04-10 | 4.54 | - | 190 |

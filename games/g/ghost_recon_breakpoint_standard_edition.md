@@ -1,5 +1,5 @@
 # Ghost Recon Breakpoint Standard Edition
-Rating: 4.54 (Ranked 470)  
+Rating: 4.54 (Ranked 469)  
 Number of Ratings: 4,870  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 959  (Ranked 137)  

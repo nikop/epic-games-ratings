@@ -2,15 +2,15 @@
   "ID": "cbd5b3d310a54b12bf3fe8c41994174f",
   "Name": "VALORANT",
   "Rating": 4.54,
-  "Ranking_Rating": 470,
+  "Ranking_Rating": 469,
   "Ranking_Popularity": 11,
   "Ranking_PopularitySum": 7,
   "NumberOfRatings": 157172,
-  "NumberOfAwards": 367380,
+  "NumberOfAwards": 367456,
   "NumberOfAwardsMax": 48139,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2023-04-10T11:58:08.2317599+00:00",
+  "LastChanged": "2023-04-10T13:03:26.553155+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:57.2451126+00:00",
@@ -3708,6 +3708,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 367380,
       "NumberOfAwardsMax": 48139
+    },
+    {
+      "Time": "2023-04-10T13:03:26.5531551+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 367456,
+      "NumberOfAwardsMax": 48139
     }
   ],
   "Tags": [
@@ -3769,7 +3775,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 38212
+      "Count": 38288
     }
   ]
 }

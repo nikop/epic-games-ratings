@@ -1,5 +1,5 @@
 # Yooka-Laylee and the Impossible Lair
-Rating: 4.38 (Ranked 675)  
+Rating: 4.38 (Ranked 676)  
 Number of Ratings: 346  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 31  (Ranked 432)  
