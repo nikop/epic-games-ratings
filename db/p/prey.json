@@ -2,15 +2,15 @@
   "ID": "6ea398b9c2244250a9177c0b8a69b5cd",
   "Name": "Prey",
   "Rating": 4.62,
-  "Ranking_Rating": 332,
+  "Ranking_Rating": 333,
   "Ranking_Popularity": 57,
   "Ranking_PopularitySum": 93,
   "NumberOfRatings": 13217,
-  "NumberOfAwards": 7428,
-  "NumberOfAwardsMax": 5492,
+  "NumberOfAwards": 7431,
+  "NumberOfAwardsMax": 5495,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:32:29.7707864+00:00",
-  "LastChanged": "2023-04-10T15:58:43.829183+00:00",
+  "LastChanged": "2023-04-10T18:59:12.0657121+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:29.7707866+00:00",
@@ -2569,6 +2569,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 7428,
       "NumberOfAwardsMax": 5492
+    },
+    {
+      "Time": "2023-04-10T18:59:12.0657122+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 7431,
+      "NumberOfAwardsMax": 5495
     }
   ],
   "Tags": [
@@ -2624,7 +2630,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5492
+      "Count": 5495
     },
     {
       "Text": "This game has Challenging Combat",

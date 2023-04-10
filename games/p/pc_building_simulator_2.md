@@ -1,17 +1,17 @@
 # PC Building Simulator 2
-Rating: 4.62 (Ranked 332)  
+Rating: 4.62 (Ranked 333)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 579  (Ranked 163)  
-Sum: 4,430 (Ranked 128)  
+Sum: 4,432 (Ranked 128)  
 Diff (max vs sum): 35
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Great for Beginners | 579 |
-| This game is Educational | 565 |
+| This game is Educational | 566 |
 | This game is Relaxing | 564 |
 | This game is Extremely Fun | 538 |
-| This game has Quickly Understood Controls | 528 |
+| This game has Quickly Understood Controls | 529 |
 | This game is Highly Recommended | 498 |
 | This game has Amazing Storytelling | 458 |
 | This game has a Creative Community | 369 |

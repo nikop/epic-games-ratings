@@ -3,7 +3,7 @@ Rating: 4.33 (Ranked 719)
 Number of Ratings: 874  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Quick Sessions): 335  (Ranked 207)  
-Sum: 2,597 (Ranked 158)  
+Sum: 2,598 (Ranked 158)  
 Diff (max vs sum): 49
 ## Awards
 | Award | Number of Ratings |
@@ -15,7 +15,7 @@ Diff (max vs sum): 49
 | This game is Relaxing | 291 |
 | This game is Extremely Fun | 289 |
 | This game is Highly Recommended | 272 |
-| This game has Amazing Characters | 270 |
+| This game has Amazing Characters | 271 |
 | This game has Playful Visuals | 222 |
 | This game has Amazing Storytelling | 118 |
 ## Ratings History

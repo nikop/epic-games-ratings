@@ -6,11 +6,11 @@
   "Ranking_Popularity": 25,
   "Ranking_PopularitySum": 43,
   "NumberOfRatings": 10796,
-  "NumberOfAwards": 25410,
-  "NumberOfAwardsMax": 12370,
+  "NumberOfAwards": 25428,
+  "NumberOfAwardsMax": 12382,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
-  "LastChanged": "2023-04-10T13:58:18.7461217+00:00",
+  "LastChanged": "2023-04-10T18:59:10.4652729+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:19.1268614+00:00",
@@ -3734,6 +3734,12 @@
       "Rating": 4.21,
       "NumberOfAwards": 25410,
       "NumberOfAwardsMax": 12370
+    },
+    {
+      "Time": "2023-04-10T18:59:10.4652731+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 25428,
+      "NumberOfAwardsMax": 12382
     }
   ],
   "Tags": [
@@ -3741,7 +3747,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 12370
+      "Count": 12382
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3765,13 +3771,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 2100
+      "Count": 2101
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 1922
+      "Count": 1927
     },
     {
       "Text": "This game has Amazing Storytelling",

@@ -1,5 +1,5 @@
 # UNO Standard Edition
-Rating: 4.48 (Ranked 554)  
+Rating: 4.49 (Ranked 538)  
 Number of Ratings: 58  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  
@@ -63,3 +63,4 @@ Diff (max vs sum): 0
 | 2023-03-19 | 4.49 | - | - |
 | 2023-03-31 | 4.49 | - | 0 |
 | 2023-04-04 | 4.48 | - | 0 |
+| 2023-04-10 | 4.49 | - | 0 |

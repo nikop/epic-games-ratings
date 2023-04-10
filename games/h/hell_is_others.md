@@ -1,5 +1,5 @@
 # Hell is Others
-Rating: 4.47 (Ranked 565)  
+Rating: 4.47 (Ranked 566)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  
 Sum: 0 (Ranked 482)  

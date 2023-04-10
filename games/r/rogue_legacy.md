@@ -1,10 +1,10 @@
 # Rogue Legacy
-Rating: 4.61 (Ranked 351)  
+Rating: 4.61 (Ranked 352)  
 Number of Ratings: 2,133  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 1,057  (Ranked 125)  
+Max (Great Boss Battles): 1,057  (Ranked 126)  
 Sum: 1,564 (Ranked 204)  
-Diff (max vs sum): -79
+Diff (max vs sum): -78
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

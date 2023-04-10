@@ -1,5 +1,5 @@
 # Brothers - A Tale of Two Sons
-Rating: 4.47 (Ranked 565)  
+Rating: 4.47 (Ranked 566)  
 Number of Ratings: 687  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  

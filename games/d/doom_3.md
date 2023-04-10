@@ -1,5 +1,5 @@
 # DOOM 3
-Rating: 4.61 (Ranked 351)  
+Rating: 4.61 (Ranked 352)  
 Number of Ratings: 105  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 64  (Ranked 365)  
