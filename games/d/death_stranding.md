@@ -2,13 +2,13 @@
 Rating: 4.78 (Ranked 100)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 4,430  (Ranked 67)  
-Sum: 6,044 (Ranked 111)  
+Sum: 6,046 (Ranked 111)  
 Diff (max vs sum): -44
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Great Boss Battles | 4,430 |
-| This game is Great for Beginners | 207 |
+| This game is Great for Beginners | 209 |
 | This game is Highly Recommended | 193 |
 | This game has Diverse Characters | 190 |
 | This game is Relaxing | 185 |

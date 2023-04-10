@@ -3,14 +3,14 @@
   "Name": "Anno 1800 Standard Edition",
   "Rating": 4.82,
   "Ranking_Rating": 61,
-  "Ranking_Popularity": 121,
+  "Ranking_Popularity": 119,
   "Ranking_PopularitySum": 79,
   "NumberOfRatings": 4392,
-  "NumberOfAwards": 9059,
-  "NumberOfAwardsMax": 1167,
+  "NumberOfAwards": 9065,
+  "NumberOfAwardsMax": 1173,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2023-04-10T11:57:05.7768943+00:00",
+  "LastChanged": "2023-04-10T14:56:55.9312299+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:47.4504915+00:00",
@@ -3058,6 +3058,12 @@
       "Rating": 4.82,
       "NumberOfAwards": 9059,
       "NumberOfAwardsMax": 1167
+    },
+    {
+      "Time": "2023-04-10T14:56:55.9312302+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 9065,
+      "NumberOfAwardsMax": 1173
     }
   ],
   "Tags": [
@@ -3101,7 +3107,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1167
+      "Count": 1173
     },
     {
       "Text": "This game has Beautiful Visuals",

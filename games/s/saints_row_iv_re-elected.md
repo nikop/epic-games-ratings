@@ -1,5 +1,5 @@
 # Saints Row IV Re-Elected
-Rating: 4.40 (Ranked 657)  
+Rating: 4.40 (Ranked 658)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 373  (Ranked 199)  
 Sum: 373 (Ranked 299)  

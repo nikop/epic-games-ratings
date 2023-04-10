@@ -1,8 +1,8 @@
 {
   "ID": "2cc23de0d8ca4785a0bc37cc95979462",
   "Name": "Card Shark",
-  "Rating": 4.67,
-  "Ranking_Rating": 255,
+  "Rating": 4.68,
+  "Ranking_Rating": 235,
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 482,
   "NumberOfRatings": 21,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:29:35.9399807+00:00",
   "FirstSeenRating": "2022-08-19T11:03:13.5817816+00:00",
-  "LastChanged": "2023-03-31T05:58:22.1076138+00:00",
+  "LastChanged": "2023-04-10T14:58:24.1122933+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-19T11:03:13.5817818+00:00",
@@ -49,6 +49,12 @@
     {
       "Time": "2023-03-31T05:58:22.1076139+00:00",
       "Rating": 4.67,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-10T14:58:24.1122935+00:00",
+      "Rating": 4.68,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

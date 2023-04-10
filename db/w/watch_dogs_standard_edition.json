@@ -2,15 +2,15 @@
   "ID": "ecebf45065bc4993abfe0e84c40ff18e",
   "Name": "Watch Dogs Standard Edition",
   "Rating": 4.56,
-  "Ranking_Rating": 436,
+  "Ranking_Rating": 437,
   "Ranking_Popularity": 387,
   "Ranking_PopularitySum": 311,
   "NumberOfRatings": 1912,
-  "NumberOfAwards": 330,
+  "NumberOfAwards": 331,
   "NumberOfAwardsMax": 46,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:20:01.9847852+00:00",
-  "LastChanged": "2023-04-10T01:52:04.0735658+00:00",
+  "LastChanged": "2023-04-10T14:57:11.0264241+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:01.9847855+00:00",
@@ -992,6 +992,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 330,
       "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2023-04-10T14:57:11.0264242+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 331,
+      "NumberOfAwardsMax": 46
     }
   ],
   "Tags": [
@@ -1029,7 +1035,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game has Realistic Visuals",
