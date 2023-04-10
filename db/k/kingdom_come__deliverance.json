@@ -3,14 +3,14 @@
   "Name": "Kingdom Come: Deliverance",
   "Rating": 4.71,
   "Ranking_Rating": 178,
-  "Ranking_Popularity": 41,
+  "Ranking_Popularity": 42,
   "Ranking_PopularitySum": 39,
   "NumberOfRatings": 9133,
-  "NumberOfAwards": 26443,
+  "NumberOfAwards": 26444,
   "NumberOfAwardsMax": 7067,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
-  "LastChanged": "2023-04-09T18:57:06.8298556+00:00",
+  "LastChanged": "2023-04-10T11:57:03.4794967+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:24.2310156+00:00",
@@ -3566,6 +3566,12 @@
       "Rating": 4.71,
       "NumberOfAwards": 26443,
       "NumberOfAwardsMax": 7067
+    },
+    {
+      "Time": "2023-04-10T11:57:03.479497+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26444,
+      "NumberOfAwardsMax": 7067
     }
   ],
   "Tags": [
@@ -3585,7 +3591,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1583
+      "Count": 1584
     },
     {
       "Text": "This game is Extremely Fun",
