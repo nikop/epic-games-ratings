@@ -1,9 +1,9 @@
 # Session: Skate Sim
-Rating: 4.64 (Ranked 308)  
+Rating: 4.65 (Ranked 288)  
 Number of Ratings: 111  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 47  (Ranked 385)  
-Sum: 388 (Ranked 296)  
+Sum: 389 (Ranked 296)  
 Diff (max vs sum): 89
 ## Awards
 | Award | Number of Ratings |
@@ -13,7 +13,7 @@ Diff (max vs sum): 89
 | This game has Amazing Storytelling | 38 |
 | This game is Relaxing | 37 |
 | This game is Great for Quick Sessions | 37 |
-| This game has Amazing Characters | 35 |
+| This game has Amazing Characters | 36 |
 | This game has Diverse Characters | 35 |
 | This game is Extremely Fun | 33 |
 | This game has Realistic Visuals | 33 |
@@ -101,3 +101,4 @@ Diff (max vs sum): 89
 | 2023-04-06 | 4.64 | - | 46 |
 | 2023-04-08 | 4.64 | - | 47 |
 | 2023-04-09 | 4.64 | - | 47 |
+| 2023-04-10 | 4.65 | - | 47 |
