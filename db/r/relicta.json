@@ -3,14 +3,14 @@
   "Name": "Relicta",
   "Rating": 4.15,
   "Ranking_Rating": 827,
-  "Ranking_Popularity": 257,
+  "Ranking_Popularity": 256,
   "Ranking_PopularitySum": 333,
   "NumberOfRatings": 429,
-  "NumberOfAwards": 256,
-  "NumberOfAwardsMax": 190,
+  "NumberOfAwards": 258,
+  "NumberOfAwardsMax": 192,
   "MaxAwardTitle": "Challenging Puzzles",
   "FirstSeen": "2022-07-22T20:28:55.5563049+00:00",
-  "LastChanged": "2023-04-03T14:58:41.4174678+00:00",
+  "LastChanged": "2023-04-10T22:58:01.70838+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:55.5563052+00:00",
@@ -497,6 +497,12 @@
       "Rating": 4.15,
       "NumberOfAwards": 256,
       "NumberOfAwardsMax": 190
+    },
+    {
+      "Time": "2023-04-10T22:58:01.7083805+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 258,
+      "NumberOfAwardsMax": 192
     }
   ],
   "Tags": [
@@ -504,7 +510,7 @@
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 190
+      "Count": 192
     },
     {
       "Text": "In this game, your choices Don\u0027t Impact the Story",
