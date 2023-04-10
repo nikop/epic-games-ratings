@@ -2,13 +2,13 @@
 Rating: 4.45 (Ranked 592)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 51  (Ranked 377)  
-Sum: 320 (Ranked 314)  
-Diff (max vs sum): 63
+Sum: 321 (Ranked 313)  
+Diff (max vs sum): 64
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Diverse Characters | 51 |
-| This game is Highly Recommended | 45 |
+| This game is Highly Recommended | 46 |
 | This game has Challenging Combat | 43 |
 | This game has a Competitive Community | 40 |
 | This game has Amazing Characters | 39 |

@@ -360,7 +360,7 @@
 | 351 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 372 | 200 |
 | 351 | [Darkwood](games/d/darkwood.md) | 4.61 | 319 | 210 |
 | 351 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 34 | 420 |
-| 351 | [DOOM 3](games/d/doom_3.md) | 4.61 | 64 | 364 |
+| 351 | [DOOM 3](games/d/doom_3.md) | 4.61 | 64 | 365 |
 | 351 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 0 | 482 |
 | 351 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 547 | 169 |
 | 351 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 0 | 482 |
@@ -459,7 +459,7 @@
 | 457 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 0 | 482 |
 | 457 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 0 | 482 |
 | 457 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 0 | 482 |
-| 457 | [Brawlhalla](games/b/brawlhalla.md) | 4.55 | 64 | 364 |
+| 457 | [Brawlhalla](games/b/brawlhalla.md) | 4.55 | 65 | 363 |
 | 457 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,044 | 127 |
 | 457 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 21 | 472 |
 | 457 | [Hue](games/h/hue.md) | 4.55 | 0 | 482 |
@@ -808,7 +808,7 @@
 | 804 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 0 | 482 |
 | 804 | [Flatout](games/f/flatout.md) | 4.19 | 0 | 482 |
 | 804 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 85 | 331 |
-| 804 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 179,382 | 4 |
+| 804 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 179,475 | 4 |
 | 804 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 482 |
 | 811 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.18 | 0 | 482 |
 | 811 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 316 |

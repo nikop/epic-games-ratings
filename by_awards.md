@@ -3,7 +3,7 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 1,208,922 | 4.30 | 739 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 376,764 | 4.51 | 508 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 282,282 | 4.68 | 235 |
-| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 179,382 | 4.19 | 804 |
+| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 179,475 | 4.19 | 804 |
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 155,657 | 4.69 | 213 |
 | 6 | [Fall Guys](games/f/fall_guys.md) | 137,346 | 4.53 | 480 |
 | 7 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 132,219 | 4.89 | 13 |
@@ -362,9 +362,9 @@
 | 359 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 66 | 4.71 | 178 |
 | 359 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 66 | 4.43 | 624 |
 | 359 | [Symphony of War](games/s/symphony_of_war.md) | 66 | 4.64 | 309 |
+| 363 | [Brawlhalla](games/b/brawlhalla.md) | 65 | 4.55 | 457 |
 | 363 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 65 | 4.50 | 522 |
-| 364 | [Brawlhalla](games/b/brawlhalla.md) | 64 | 4.55 | 457 |
-| 364 | [DOOM 3](games/d/doom_3.md) | 64 | 4.61 | 351 |
+| 365 | [DOOM 3](games/d/doom_3.md) | 64 | 4.61 | 351 |
 | 366 | [In Sound Mind](games/i/in_sound_mind.md) | 62 | 4.60 | 374 |
 | 366 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 62 | 4.51 | 508 |
 | 368 | [Arcadegeddon](games/a/arcadegeddon.md) | 61 | 4.49 | 537 |

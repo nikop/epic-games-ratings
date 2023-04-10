@@ -100,7 +100,7 @@
 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 112 | 13,850 | 22 |
 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 213 | 106,845 | 8 |
 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 537 | 391 | 195 |
-| [Brawlhalla](games/b/brawlhalla.md) | 4.55 | 457 | 64 | 364 |
+| [Brawlhalla](games/b/brawlhalla.md) | 4.55 | 457 | 65 | 363 |
 | [Breathedge](games/b/breathedge.md) | 4.59 | 388 | 0 | 482 |
 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 878 | 29 | 440 |
 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 564 | 0 | 482 |
@@ -209,7 +209,7 @@
 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 692 | 45 | 390 |
 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 19 | 0 | 482 |
 | [DOOM (1993)](games/d/doom_(1993).md) | 4.81 | 70 | 32 | 426 |
-| [DOOM 3](games/d/doom_3.md) | 4.61 | 351 | 64 | 364 |
+| [DOOM 3](games/d/doom_3.md) | 4.61 | 351 | 64 | 365 |
 | [DOOM 64](games/d/doom_64.md) | 4.66 | 271 | 1,284 | 118 |
 | [DOOM II](games/d/doom_ii.md) | 4.73 | 154 | 25 | 455 |
 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 55 | 210 | 247 |
@@ -469,7 +469,7 @@
 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 255 | 2,203 | 94 |
 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 235 | 545 | 170 |
 | [MythForce](games/m/mythforce.md) | 4.51 | 508 | 32 | 426 |
-| [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 804 | 179,382 | 4 |
+| [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 804 | 179,475 | 4 |
 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 665 | 11,628 | 28 |
 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.11 | 838 | 0 | 482 |
 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 665 | 0 | 482 |
