@@ -1,5 +1,5 @@
 # STAR WARS Jedi: Fallen Order Standard Edition
-Rating: 4.69 (Ranked 213)  
+Rating: 4.68 (Ranked 235)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  
 Sum: 0 (Ranked 482)  
@@ -24,3 +24,4 @@ Diff (max vs sum): 0
 | 2023-04-04 | 4.67 | - | 0 |
 | 2023-04-07 | 4.68 | - | 0 |
 | 2023-04-09 | 4.69 | - | 0 |
+| 2023-04-10 | 4.68 | - | 0 |

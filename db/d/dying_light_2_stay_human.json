@@ -6,11 +6,11 @@
   "Ranking_Popularity": 48,
   "Ranking_PopularitySum": 59,
   "NumberOfRatings": 7305,
-  "NumberOfAwards": 14481,
+  "NumberOfAwards": 14483,
   "NumberOfAwardsMax": 6290,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
-  "LastChanged": "2023-04-09T22:57:08.8253041+00:00",
+  "LastChanged": "2023-04-10T01:51:59.2164954+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:57.6151267+00:00",
@@ -3027,6 +3027,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 14481,
       "NumberOfAwardsMax": 6290
+    },
+    {
+      "Time": "2023-04-10T01:51:59.2164954+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 14483,
+      "NumberOfAwardsMax": 6290
     }
   ],
   "Tags": [
@@ -3058,7 +3064,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 531
+      "Count": 533
     },
     {
       "Text": "This game has Quickly Understood Controls",

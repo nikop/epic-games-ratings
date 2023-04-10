@@ -1,10 +1,10 @@
 # Submerged: Hidden Depths
-Rating: 4.24 (Ranked 773)  
+Rating: 4.24 (Ranked 772)  
 Number of Ratings: 2,582  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 45  (Ranked 389)  
+Max (Great for Beginners): 45  (Ranked 390)  
 Sum: 320 (Ranked 314)  
-Diff (max vs sum): 75
+Diff (max vs sum): 76
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

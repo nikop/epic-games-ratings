@@ -1,14 +1,14 @@
 # Watch Dogs Standard Edition
-Rating: 4.56 (Ranked 435)  
+Rating: 4.56 (Ranked 436)  
 Number of Ratings: 1,912  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Quickly Understood Controls): 45  (Ranked 389)  
-Sum: 329 (Ranked 311)  
-Diff (max vs sum): 78
+Max (Quickly Understood Controls): 46  (Ranked 387)  
+Sum: 330 (Ranked 311)  
+Diff (max vs sum): 76
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Quickly Understood Controls | 45 |
+| This game has Quickly Understood Controls | 46 |
 | This game is Great for Beginners | 42 |
 | This game has Amazing Characters | 42 |
 | This game has Amazing Storytelling | 40 |
@@ -108,3 +108,4 @@ Diff (max vs sum): 78
 | 2023-04-05 | 4.56 | - | 45 |
 | 2023-04-07 | 4.56 | - | 45 |
 | 2023-04-08 | 4.56 | - | 45 |
+| 2023-04-10 | 4.56 | - | 46 |

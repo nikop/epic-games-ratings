@@ -1,5 +1,5 @@
 # Timberborn
-Rating: 4.72 (Ranked 167)  
+Rating: 4.72 (Ranked 166)  
 Number of Ratings: 640  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 111  (Ranked 304)  

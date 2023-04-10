@@ -1,5 +1,5 @@
 # FAR: Lone Sails
-Rating: 4.71 (Ranked 179)  
+Rating: 4.71 (Ranked 178)  
 Number of Ratings: 25  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  
