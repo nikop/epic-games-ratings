@@ -3,14 +3,14 @@
   "Name": "Second Extinction\u2122",
   "Rating": 4.15,
   "Ranking_Rating": 827,
-  "Ranking_Popularity": 238,
+  "Ranking_Popularity": 237,
   "Ranking_PopularitySum": 334,
   "NumberOfRatings": 617,
-  "NumberOfAwards": 251,
-  "NumberOfAwardsMax": 231,
+  "NumberOfAwards": 253,
+  "NumberOfAwardsMax": 233,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:33:01.3104454+00:00",
-  "LastChanged": "2022-12-25T16:57:59.3828029+00:00",
+  "LastChanged": "2023-04-11T05:58:32.1317817+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:33:01.3104463+00:00",
@@ -608,6 +608,12 @@
     {
       "Time": "2022-12-25T16:57:59.3828032+00:00",
       "Rating": 4.15
+    },
+    {
+      "Time": "2023-04-11T05:58:32.131782+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 253,
+      "NumberOfAwardsMax": 233
     }
   ],
   "Tags": [
@@ -615,7 +621,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 231
+      "Count": 233
     },
     {
       "Text": "This game is Highly Recommended",
