@@ -2,15 +2,15 @@
   "ID": "ae373893881044d2bf26d6f8363a120e",
   "Name": "Supraland",
   "Rating": 4.61,
-  "Ranking_Rating": 352,
+  "Ranking_Rating": 351,
   "Ranking_Popularity": 37,
   "Ranking_PopularitySum": 78,
   "NumberOfRatings": 25175,
-  "NumberOfAwards": 9866,
+  "NumberOfAwards": 9867,
   "NumberOfAwardsMax": 7596,
   "MaxAwardTitle": "Challenging Puzzles",
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
-  "LastChanged": "2023-04-08T19:57:12.2211958+00:00",
+  "LastChanged": "2023-04-11T09:57:29.2352873+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:49.3012081+00:00",
@@ -2166,6 +2166,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 9866,
       "NumberOfAwardsMax": 7596
+    },
+    {
+      "Time": "2023-04-11T09:57:29.2352875+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 9867,
+      "NumberOfAwardsMax": 7596
     }
   ],
   "Tags": [
@@ -2203,7 +2209,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 251
+      "Count": 252
     },
     {
       "Text": "This game has Amazing Storytelling",

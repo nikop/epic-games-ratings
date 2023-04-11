@@ -2,15 +2,15 @@
   "ID": "933ada2ec45e4184ae840d64c99e0ba9",
   "Name": "Rogue Company",
   "Rating": 4.34,
-  "Ranking_Rating": 711,
+  "Ranking_Rating": 710,
   "Ranking_Popularity": 62,
   "Ranking_PopularitySum": 35,
   "NumberOfRatings": 21107,
-  "NumberOfAwards": 30305,
+  "NumberOfAwards": 30308,
   "NumberOfAwardsMax": 4774,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:16:58.1519565+00:00",
-  "LastChanged": "2023-04-10T20:57:11.2124825+00:00",
+  "LastChanged": "2023-04-11T09:57:15.0880869+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:58.1519568+00:00",
@@ -3608,6 +3608,12 @@
       "Rating": 4.34,
       "NumberOfAwards": 30305,
       "NumberOfAwardsMax": 4774
+    },
+    {
+      "Time": "2023-04-11T09:57:15.088087+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 30308,
+      "NumberOfAwardsMax": 4774
     }
   ],
   "Tags": [
@@ -3633,7 +3639,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 4428
+      "Count": 4431
     },
     {
       "Text": "This game has Quickly Understood Controls",

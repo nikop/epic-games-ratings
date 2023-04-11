@@ -2,13 +2,13 @@
 Rating: 4.85 (Ranked 38)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 279  (Ranked 222)  
-Sum: 2,405 (Ranked 162)  
+Sum: 2,407 (Ranked 162)  
 Diff (max vs sum): 60
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Great for Beginners | 279 |
-| This game is Highly Recommended | 269 |
+| This game is Highly Recommended | 271 |
 | This game has Diverse Characters | 263 |
 | This game has Amazing Characters | 255 |
 | This game is Extremely Fun | 238 |

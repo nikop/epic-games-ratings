@@ -1,5 +1,5 @@
 # Beholder 3
-Rating: 4.39 (Ranked 666)  
+Rating: 4.39 (Ranked 665)  
 Number of Ratings: 21  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  

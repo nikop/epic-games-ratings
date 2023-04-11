@@ -2,7 +2,7 @@
 Rating: 4.58 (Ranked 402)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 81  (Ranked 337)  
-Sum: 542 (Ranked 282)  
+Sum: 544 (Ranked 282)  
 Diff (max vs sum): 55
 ## Awards
 | Award | Number of Ratings |
@@ -17,7 +17,7 @@ Diff (max vs sum): 55
 | This game is Highly Recommended | 41 |
 | This game has Amazing Storytelling | 41 |
 | This game is Relaxing | 41 |
-| This game has Easy Combat | 30 |
+| This game has Easy Combat | 32 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |

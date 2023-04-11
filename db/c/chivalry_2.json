@@ -2,15 +2,15 @@
   "ID": "bd46d4ce259349e5bd8b3ded20274737",
   "Name": "Chivalry 2",
   "Rating": 4.61,
-  "Ranking_Rating": 352,
+  "Ranking_Rating": 351,
   "Ranking_Popularity": 72,
   "Ranking_PopularitySum": 42,
   "NumberOfRatings": 18078,
-  "NumberOfAwards": 25642,
+  "NumberOfAwards": 25645,
   "NumberOfAwardsMax": 3940,
-  "MaxAwardTitle": "Extremely Fun",
+  "MaxAwardTitle": "Competitive Players",
   "FirstSeen": "2022-07-22T20:20:08.5003131+00:00",
-  "LastChanged": "2023-04-11T08:57:31.1175486+00:00",
+  "LastChanged": "2023-04-11T09:57:30.7082884+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:08.5003133+00:00",
@@ -3537,6 +3537,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 25642,
       "NumberOfAwardsMax": 3940
+    },
+    {
+      "Time": "2023-04-11T09:57:30.7082886+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 25645,
+      "NumberOfAwardsMax": 3940
     }
   ],
   "Tags": [
@@ -3550,7 +3556,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 3937
+      "Count": 3940
     },
     {
       "Text": "This game is Extremely Fun",

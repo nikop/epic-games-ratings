@@ -1,5 +1,5 @@
 # Core
-Rating: 4.37 (Ranked 686)  
+Rating: 4.37 (Ranked 685)  
 Number of Ratings: 1,439  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 723  (Ranked 150)  

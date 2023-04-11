@@ -1,5 +1,5 @@
 # Democracy 4
-Rating: 4.38 (Ranked 676)  
+Rating: 4.38 (Ranked 675)  
 Number of Ratings: 46  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  

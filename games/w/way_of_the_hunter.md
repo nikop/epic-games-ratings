@@ -1,10 +1,10 @@
 # Way of the Hunter
-Rating: 4.35 (Ranked 703)  
+Rating: 4.35 (Ranked 702)  
 Number of Ratings: 190  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 38  (Ranked 407)  
-Sum: 185 (Ranked 351)  
-Diff (max vs sum): 56
+Sum: 186 (Ranked 350)  
+Diff (max vs sum): 57
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
@@ -13,8 +13,8 @@ Diff (max vs sum): 56
 | This game is Relaxing | 33 |
 | This game is Extremely Fun | 29 |
 | This game has Amazing Storytelling | 26 |
+| This game has Amazing Characters | 25 |
 | This game has Diverse Characters | 25 |
-| This game has Amazing Characters | 24 |
 | This game has Obsessive Gameplay | 21 |
 | This game is Great for Beginners | 20 |
 ## Ratings History

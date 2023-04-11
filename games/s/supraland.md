@@ -1,9 +1,9 @@
 # Supraland
-Rating: 4.61 (Ranked 352)  
+Rating: 4.61 (Ranked 351)  
 Number of Ratings: 25,175  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Challenging Puzzles): 7,596  (Ranked 37)  
-Sum: 9,866 (Ranked 78)  
+Sum: 9,867 (Ranked 78)  
 Diff (max vs sum): -41
 ## Awards
 | Award | Number of Ratings |
@@ -15,7 +15,7 @@ Diff (max vs sum): -41
 | This game has Amazing Storytelling | 264 |
 | This game has Quickly Understood Controls | 260 |
 | This game is Great for Beginners | 259 |
-| This game is Extremely Fun | 251 |
+| This game is Extremely Fun | 252 |
 | This game has Obsessive Gameplay | 243 |
 | This game is Highly Recommended | 231 |
 | This game has a Creative Community | 186 |
@@ -93,3 +93,4 @@ Diff (max vs sum): -41
 | 2023-04-06 | 4.61 | - | 7,595 |
 | 2023-04-07 | 4.61 | - | 7,595 |
 | 2023-04-08 | 4.61 | - | 7,596 |
+| 2023-04-11 | 4.61 | - | 7,596 |
