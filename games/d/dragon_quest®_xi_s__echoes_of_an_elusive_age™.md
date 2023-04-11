@@ -1,5 +1,5 @@
 # DRAGON QUEST® XI S: Echoes of an Elusive Age™
-Rating: 4.83 (Ranked 55)  
+Rating: 4.84 (Ranked 47)  
 Number of Ratings: 306  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 210  (Ranked 247)  
@@ -94,3 +94,4 @@ Diff (max vs sum): -44
 | 2023-03-28 | 4.84 | - | - |
 | 2023-04-03 | 4.83 | - | 209 |
 | 2023-04-04 | 4.83 | - | 210 |
+| 2023-04-11 | 4.84 | - | 210 |

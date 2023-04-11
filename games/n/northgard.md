@@ -1,5 +1,5 @@
 # Northgard
-Rating: 4.72 (Ranked 166)  
+Rating: 4.71 (Ranked 177)  
 Number of Ratings: 82  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 27  (Ranked 446)  
@@ -64,3 +64,4 @@ Diff (max vs sum): 23
 | 2023-01-20 | 4.72 | - | - |
 | 2023-02-10 | 4.73 | - | - |
 | 2023-03-07 | 4.72 | - | - |
+| 2023-04-11 | 4.71 | - | 27 |
