@@ -1,16 +1,16 @@
 {
   "ID": "15e6680a0c164ee189fcc3eb10398fd6",
   "Name": "Brawlhalla",
-  "Rating": 4.55,
-  "Ranking_Rating": 457,
+  "Rating": 4.56,
+  "Ranking_Rating": 437,
   "Ranking_Popularity": 363,
-  "Ranking_PopularitySum": 268,
-  "NumberOfAwards": 622,
+  "Ranking_PopularitySum": 267,
+  "NumberOfAwards": 627,
   "NumberOfAwardsMax": 65,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-04-11T02:57:15.7799261+00:00",
+  "LastChanged": "2023-04-11T08:57:04.191074+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-21T06:57:02.0735411+00:00",
@@ -707,6 +707,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 622,
       "NumberOfAwardsMax": 65
+    },
+    {
+      "Time": "2023-04-11T08:57:04.1910741+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 627,
+      "NumberOfAwardsMax": 65
     }
   ],
   "Tags": [
@@ -762,13 +768,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 46
+      "Count": 48
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 49
+      "Count": 52
     },
     {
       "Text": "This game has a Competitive Community",

@@ -1,5 +1,5 @@
 # Cook Serve Delicious 2
-Rating: 4.82 (Ranked 61)  
+Rating: 4.82 (Ranked 60)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  
 Sum: 0 (Ranked 482)  

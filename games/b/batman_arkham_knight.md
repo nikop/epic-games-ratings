@@ -1,5 +1,5 @@
 # Batman Arkham Knight
-Rating: 4.82 (Ranked 61)  
+Rating: 4.82 (Ranked 60)  
 Number of Ratings: 7,386  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 5,404  (Ranked 59)  

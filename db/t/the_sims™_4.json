@@ -3,14 +3,14 @@
   "Name": "The Sims\u2122 4",
   "Rating": 4.58,
   "Ranking_Rating": 402,
-  "Ranking_Popularity": 339,
+  "Ranking_Popularity": 337,
   "Ranking_PopularitySum": 282,
-  "NumberOfAwards": 539,
-  "NumberOfAwardsMax": 78,
+  "NumberOfAwards": 542,
+  "NumberOfAwardsMax": 81,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-04-10T22:56:49.1235347+00:00",
+  "LastChanged": "2023-04-11T08:57:06.1181725+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-05T14:56:53.5654686+00:00",
@@ -579,6 +579,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 539,
       "NumberOfAwardsMax": 78
+    },
+    {
+      "Time": "2023-04-11T08:57:06.1181727+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 542,
+      "NumberOfAwardsMax": 81
     }
   ],
   "Tags": [
@@ -592,7 +598,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 78
+      "Count": 81
     },
     {
       "Text": "This game has Diverse Characters",

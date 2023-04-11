@@ -1,5 +1,5 @@
 # Anno 1800 Standard Edition
-Rating: 4.82 (Ranked 61)  
+Rating: 4.82 (Ranked 60)  
 Number of Ratings: 4,392  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 1,173  (Ranked 119)  

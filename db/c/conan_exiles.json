@@ -1,16 +1,16 @@
 {
   "ID": "conanexiles",
   "Name": "Conan Exiles",
-  "Rating": 4.55,
-  "Ranking_Rating": 457,
+  "Rating": 4.54,
+  "Ranking_Rating": 468,
   "Ranking_Popularity": 127,
   "Ranking_PopularitySum": 92,
   "NumberOfRatings": 1374,
-  "NumberOfAwards": 7523,
+  "NumberOfAwards": 7526,
   "NumberOfAwardsMax": 1048,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:16:49.0940249+00:00",
-  "LastChanged": "2023-04-11T03:56:56.5562199+00:00",
+  "LastChanged": "2023-04-11T08:57:03.8342798+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:49.0940252+00:00",
@@ -2093,6 +2093,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 7523,
       "NumberOfAwardsMax": 1048
+    },
+    {
+      "Time": "2023-04-11T08:57:03.8342801+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 7526,
+      "NumberOfAwardsMax": 1048
     }
   ],
   "Tags": [
@@ -2130,7 +2136,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 931
+      "Count": 934
     },
     {
       "Text": "This game has Quickly Understood Controls",

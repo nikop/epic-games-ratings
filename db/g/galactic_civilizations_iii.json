@@ -6,11 +6,11 @@
   "Ranking_Popularity": 265,
   "Ranking_PopularitySum": 221,
   "NumberOfRatings": 1085,
-  "NumberOfAwards": 1088,
+  "NumberOfAwards": 1089,
   "NumberOfAwardsMax": 172,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:17:25.7061184+00:00",
-  "LastChanged": "2023-04-11T04:57:08.8450334+00:00",
+  "LastChanged": "2023-04-11T08:57:09.2870123+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:25.7061186+00:00",
@@ -1283,6 +1283,12 @@
       "Rating": 4.21,
       "NumberOfAwards": 1088,
       "NumberOfAwardsMax": 172
+    },
+    {
+      "Time": "2023-04-11T08:57:09.2870126+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 1089,
+      "NumberOfAwardsMax": 172
     }
   ],
   "Tags": [
@@ -1326,7 +1332,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 107
+      "Count": 108
     },
     {
       "Text": "This game has Unique Visuals",
