@@ -1,9 +1,9 @@
 # RAILGRADE
 Rating: 4.54 (Ranked 468)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 86  (Ranked 331)  
+Max (Great for Beginners): 86  (Ranked 332)  
 Sum: 639 (Ranked 263)  
-Diff (max vs sum): 68
+Diff (max vs sum): 69
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
