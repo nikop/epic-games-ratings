@@ -3,14 +3,14 @@
   "Name": "Ghostbusters: Spirits Unleashed",
   "Rating": 4.49,
   "Ranking_Rating": 540,
-  "Ranking_Popularity": 248,
+  "Ranking_Popularity": 247,
   "Ranking_PopularitySum": 185,
-  "NumberOfAwards": 1896,
-  "NumberOfAwardsMax": 209,
+  "NumberOfAwards": 1897,
+  "NumberOfAwardsMax": 210,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
-  "LastChanged": "2023-04-11T17:56:50.5815476+00:00",
+  "LastChanged": "2023-04-11T23:56:55.0393286+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-19T03:31:00.7496554+00:00",
@@ -299,6 +299,12 @@
       "Rating": 4.49,
       "NumberOfAwards": 1896,
       "NumberOfAwardsMax": 209
+    },
+    {
+      "Time": "2023-04-11T23:56:55.0393287+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 1897,
+      "NumberOfAwardsMax": 210
     }
   ],
   "Tags": [
@@ -306,7 +312,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 209
+      "Count": 210
     },
     {
       "Text": "This game has Obsessive Gameplay",

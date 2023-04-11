@@ -1,8 +1,8 @@
 # New Tales from the Borderlands
 Rating: 4.07 (Ranked 851)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 482)  
-Sum: 0 (Ranked 482)  
+Max (): 0  (Ranked 483)  
+Sum: 0 (Ranked 483)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |

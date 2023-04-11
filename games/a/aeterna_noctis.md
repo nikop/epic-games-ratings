@@ -1,9 +1,9 @@
 # Aeterna Noctis
-Rating: 4.56 (Ranked 437)  
+Rating: 4.56 (Ranked 438)  
 Number of Ratings: 21  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 482)  
-Sum: 0 (Ranked 482)  
+Max (): 0  (Ranked 483)  
+Sum: 0 (Ranked 483)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
