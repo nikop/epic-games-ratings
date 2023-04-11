@@ -1,5 +1,5 @@
 # Farmer's Dynasty
-Rating: 4.19 (Ranked 804)  
+Rating: 4.20 (Ranked 793)  
 Number of Ratings: 64  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  
@@ -59,3 +59,4 @@ Diff (max vs sum): 0
 | 2023-01-07 | 4.18 | - | - |
 | 2023-02-24 | 4.19 | - | - |
 | 2023-03-31 | 4.19 | - | 0 |
+| 2023-04-11 | 4.20 | - | 0 |
