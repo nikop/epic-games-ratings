@@ -1,16 +1,16 @@
 {
   "ID": "2a14cf8a83b149919a2399504e5686a6",
   "Name": "The Sims\u2122 4",
-  "Rating": 4.58,
-  "Ranking_Rating": 402,
+  "Rating": 4.59,
+  "Ranking_Rating": 388,
   "Ranking_Popularity": 337,
   "Ranking_PopularitySum": 282,
-  "NumberOfAwards": 544,
+  "NumberOfAwards": 548,
   "NumberOfAwardsMax": 81,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-04-11T09:57:15.6284859+00:00",
+  "LastChanged": "2023-04-11T13:57:03.4133202+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-05T14:56:53.5654686+00:00",
@@ -591,6 +591,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 544,
       "NumberOfAwardsMax": 81
+    },
+    {
+      "Time": "2023-04-11T13:57:03.4133203+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 548,
+      "NumberOfAwardsMax": 81
     }
   ],
   "Tags": [
@@ -610,7 +616,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 73
+      "Count": 75
     },
     {
       "Text": "This game has a Creative Community",
@@ -646,7 +652,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 41
+      "Count": 43
     },
     {
       "Text": "This game is Relaxing",
