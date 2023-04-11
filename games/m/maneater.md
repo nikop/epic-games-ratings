@@ -1,14 +1,14 @@
 # Maneater
-Rating: 4.49 (Ranked 539)  
+Rating: 4.49 (Ranked 540)  
 Number of Ratings: 82,037  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 13,376  (Ranked 23)  
-Sum: 17,411 (Ranked 54)  
+Max (Character Customization): 13,378  (Ranked 23)  
+Sum: 17,413 (Ranked 54)  
 Diff (max vs sum): -31
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 13,376 |
+| This game has Inclusive Character Customization | 13,378 |
 | This game has Great Boss Battles | 3,273 |
 | This game is Relaxing | 93 |
 | This game has Amazing Storytelling | 91 |
@@ -98,3 +98,4 @@ Diff (max vs sum): -31
 | 2023-04-08 | 4.49 | - | 13,371 |
 | 2023-04-09 | 4.49 | - | 13,371 |
 | 2023-04-10 | 4.49 | - | 13,376 |
+| 2023-04-11 | 4.49 | - | 13,378 |

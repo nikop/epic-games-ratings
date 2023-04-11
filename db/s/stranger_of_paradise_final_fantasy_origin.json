@@ -4,13 +4,13 @@
   "Rating": 4.5,
   "Ranking_Rating": 522,
   "Ranking_Popularity": 148,
-  "Ranking_PopularitySum": 203,
+  "Ranking_PopularitySum": 204,
   "NumberOfRatings": 1919,
-  "NumberOfAwards": 1597,
+  "NumberOfAwards": 1539,
   "NumberOfAwardsMax": 747,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
-  "LastChanged": "2023-04-09T21:57:02.0299918+00:00",
+  "LastChanged": "2023-04-11T16:57:44.3356767+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:02.4554092+00:00",
@@ -1369,6 +1369,12 @@
       "Time": "2023-04-09T21:57:02.0299921+00:00",
       "Rating": 4.5,
       "NumberOfAwards": 1597,
+      "NumberOfAwardsMax": 747
+    },
+    {
+      "Time": "2023-04-11T16:57:44.3356769+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 1539,
       "NumberOfAwardsMax": 747
     }
   ],
