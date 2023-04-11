@@ -4,13 +4,13 @@
   "Rating": 3.9,
   "Ranking_Rating": 883,
   "Ranking_Popularity": 325,
-  "Ranking_PopularitySum": 289,
-  "NumberOfAwards": 420,
+  "Ranking_PopularitySum": 308,
+  "NumberOfAwards": 337,
   "NumberOfAwardsMax": 91,
   "MaxAwardTitle": "Amazing Characters",
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
-  "LastChanged": "2023-04-11T08:57:09.4632615+00:00",
+  "LastChanged": "2023-04-11T10:57:49.5517953+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-29T02:58:45.3340124+00:00",
@@ -502,6 +502,12 @@
       "Time": "2023-04-11T08:57:09.4632617+00:00",
       "Rating": 3.9,
       "NumberOfAwards": 420,
+      "NumberOfAwardsMax": 91
+    },
+    {
+      "Time": "2023-04-11T10:57:49.5517955+00:00",
+      "Rating": 3.9,
+      "NumberOfAwards": 337,
       "NumberOfAwardsMax": 91
     }
   ],

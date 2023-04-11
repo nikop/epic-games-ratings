@@ -3,14 +3,14 @@
   "Name": "Sonic Origins",
   "Rating": 4.57,
   "Ranking_Rating": 423,
-  "Ranking_Popularity": 298,
+  "Ranking_Popularity": 296,
   "Ranking_PopularitySum": 384,
   "NumberOfRatings": 154,
-  "NumberOfAwards": 115,
-  "NumberOfAwardsMax": 115,
+  "NumberOfAwards": 116,
+  "NumberOfAwardsMax": 116,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
-  "LastChanged": "2023-02-22T19:57:52.0151418+00:00",
+  "LastChanged": "2023-04-11T10:58:48.5885072+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:50.9782297+00:00",
@@ -201,6 +201,12 @@
     {
       "Time": "2023-02-22T19:57:52.0151421+00:00",
       "Rating": 4.57
+    },
+    {
+      "Time": "2023-04-11T10:58:48.5885074+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 116,
+      "NumberOfAwardsMax": 116
     }
   ],
   "Tags": [
@@ -208,7 +214,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 115
+      "Count": 116
     }
   ]
 }
