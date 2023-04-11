@@ -2,7 +2,7 @@
 Rating: 4.62 (Ranked 333)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 580  (Ranked 163)  
-Sum: 4,434 (Ranked 128)  
+Sum: 4,436 (Ranked 128)  
 Diff (max vs sum): 35
 ## Awards
 | Award | Number of Ratings |
@@ -14,7 +14,7 @@ Diff (max vs sum): 35
 | This game has Quickly Understood Controls | 529 |
 | This game is Highly Recommended | 499 |
 | This game has Amazing Storytelling | 458 |
-| This game has a Creative Community | 369 |
+| This game has a Creative Community | 371 |
 | This game has Amazing Characters | 331 |
 | This game has Obsessive Gameplay | 171 |
 | This game has Easy Combat | 96 |

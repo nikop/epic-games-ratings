@@ -1,8 +1,8 @@
 {
   "ID": "conanexiles",
   "Name": "Conan Exiles",
-  "Rating": 4.54,
-  "Ranking_Rating": 468,
+  "Rating": 4.55,
+  "Ranking_Rating": 457,
   "Ranking_Popularity": 127,
   "Ranking_PopularitySum": 92,
   "NumberOfRatings": 1374,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 1048,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:16:49.0940249+00:00",
-  "LastChanged": "2023-04-11T13:57:01.9732626+00:00",
+  "LastChanged": "2023-04-11T19:57:07.2711783+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:49.0940252+00:00",
@@ -2115,6 +2115,12 @@
     {
       "Time": "2023-04-11T13:57:01.9732627+00:00",
       "Rating": 4.54,
+      "NumberOfAwards": 7538,
+      "NumberOfAwardsMax": 1048
+    },
+    {
+      "Time": "2023-04-11T19:57:07.2711784+00:00",
+      "Rating": 4.55,
       "NumberOfAwards": 7538,
       "NumberOfAwardsMax": 1048
     }

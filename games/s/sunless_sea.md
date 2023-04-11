@@ -1,5 +1,5 @@
 # Sunless Sea
-Rating: 4.58 (Ranked 403)  
+Rating: 4.59 (Ranked 388)  
 Number of Ratings: 401  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 201  (Ranked 251)  
@@ -89,3 +89,4 @@ Diff (max vs sum): -76
 | 2022-10-31 | 4.58 | - | - |
 | 2022-11-03 | 4.59 | - | - |
 | 2022-11-10 | 4.58 | - | - |
+| 2023-04-11 | 4.59 | - | 201 |
