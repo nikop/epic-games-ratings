@@ -5,12 +5,12 @@
   "Ranking_Rating": 91,
   "Ranking_Popularity": 202,
   "Ranking_PopularitySum": 160,
-  "NumberOfAwards": 2483,
+  "NumberOfAwards": 2486,
   "NumberOfAwardsMax": 365,
   "MaxAwardTitle": "Educational",
   "FirstSeen": "2023-01-05T18:57:29.6336645+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
-  "LastChanged": "2023-04-10T23:57:00.6783103+00:00",
+  "LastChanged": "2023-04-11T01:54:45.585747+00:00",
   "RatingHistory": [
     {
       "Time": "2023-01-06T04:57:07.6192795+00:00",
@@ -429,6 +429,12 @@
       "Rating": 4.79,
       "NumberOfAwards": 2483,
       "NumberOfAwardsMax": 365
+    },
+    {
+      "Time": "2023-04-11T01:54:45.5857472+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2486,
+      "NumberOfAwardsMax": 365
     }
   ],
   "Tags": [
@@ -466,7 +472,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 284
+      "Count": 287
     },
     {
       "Text": "This game has a Creative Community",

@@ -1,15 +1,15 @@
 {
   "ID": "135201128d4f428699a891fc501a5097",
   "Name": "Scorn",
-  "Rating": 4.48,
-  "Ranking_Rating": 555,
+  "Rating": 4.47,
+  "Ranking_Rating": 565,
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 482,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-14T14:31:02.6493654+00:00",
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
-  "LastChanged": "2023-03-31T05:57:12.2600533+00:00",
+  "LastChanged": "2023-04-11T01:54:45.1189189+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-15T14:30:48.7901662+00:00",
@@ -162,6 +162,12 @@
     {
       "Time": "2023-03-31T05:57:12.2600535+00:00",
       "Rating": 4.48,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-11T01:54:45.1189192+00:00",
+      "Rating": 4.47,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

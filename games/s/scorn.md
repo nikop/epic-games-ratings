@@ -1,5 +1,5 @@
 # Scorn
-Rating: 4.48 (Ranked 555)  
+Rating: 4.47 (Ranked 565)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  
 Sum: 0 (Ranked 482)  
@@ -45,3 +45,4 @@ Diff (max vs sum): 0
 | 2023-01-07 | 4.47 | - | - |
 | 2023-03-19 | 4.48 | - | - |
 | 2023-03-31 | 4.48 | - | 0 |
+| 2023-04-11 | 4.47 | - | 0 |
