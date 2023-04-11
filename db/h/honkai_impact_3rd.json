@@ -5,12 +5,12 @@
   "Ranking_Rating": 540,
   "Ranking_Popularity": 100,
   "Ranking_PopularitySum": 103,
-  "NumberOfAwards": 6791,
-  "NumberOfAwardsMax": 2097,
+  "NumberOfAwards": 6811,
+  "NumberOfAwardsMax": 2110,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
-  "LastChanged": "2023-04-11T20:56:57.7026361+00:00",
+  "LastChanged": "2023-04-11T21:57:01.713092+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-28T11:32:15.7744845+00:00",
@@ -747,6 +747,12 @@
       "Rating": 4.49,
       "NumberOfAwards": 6791,
       "NumberOfAwardsMax": 2097
+    },
+    {
+      "Time": "2023-04-11T21:57:01.7130922+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 6811,
+      "NumberOfAwardsMax": 2110
     }
   ],
   "Tags": [
@@ -754,7 +760,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 2097
+      "Count": 2110
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -814,7 +820,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 316
+      "Count": 320
     },
     {
       "Text": "This game has a Kind Community",
@@ -832,7 +838,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 360
+      "Count": 363
     }
   ]
 }
