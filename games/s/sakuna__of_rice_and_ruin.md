@@ -1,5 +1,5 @@
 # Sakuna: Of Rice and Ruin
-Rating: 4.71 (Ranked 177)  
+Rating: 4.72 (Ranked 166)  
 Number of Ratings: 29  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  
@@ -29,3 +29,4 @@ Diff (max vs sum): 0
 | 2022-11-25 | 4.73 | - | - |
 | 2023-01-23 | 4.71 | - | - |
 | 2023-03-31 | 4.71 | - | 0 |
+| 2023-04-11 | 4.72 | - | 0 |
