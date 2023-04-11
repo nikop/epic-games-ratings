@@ -1,9 +1,9 @@
 # Ring of Pain
-Rating: 4.58 (Ranked 404)  
+Rating: 4.58 (Ranked 403)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 1,467  (Ranked 111)  
-Sum: 11,337 (Ranked 73)  
+Sum: 11,339 (Ranked 73)  
 Diff (max vs sum): 38
 ## Awards
 | Award | Number of Ratings |
@@ -16,7 +16,7 @@ Diff (max vs sum): 38
 | This game is Highly Recommended | 1,334 |
 | This game has Amazing Storytelling | 1,291 |
 | This game has Amazing Characters | 1,192 |
-| This game has Unique Visuals | 1,176 |
+| This game has Unique Visuals | 1,178 |
 | This game has Obsessive Gameplay | 1,088 |
 | This game has a Creative Community | 718 |
 ## Ratings History

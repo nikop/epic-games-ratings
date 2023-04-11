@@ -2,15 +2,15 @@
   "ID": "2744acda6a2e493e9894b389b6564df7",
   "Name": "SnowRunner",
   "Rating": 4.76,
-  "Ranking_Rating": 112,
+  "Ranking_Rating": 111,
   "Ranking_Popularity": 39,
   "Ranking_PopularitySum": 20,
   "NumberOfRatings": 21349,
-  "NumberOfAwards": 53838,
+  "NumberOfAwards": 53853,
   "NumberOfAwardsMax": 7497,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:17:33.5806012+00:00",
-  "LastChanged": "2023-04-11T11:56:56.6513019+00:00",
+  "LastChanged": "2023-04-11T15:57:05.5651351+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:33.5806018+00:00",
@@ -3632,6 +3632,12 @@
       "Rating": 4.76,
       "NumberOfAwards": 53838,
       "NumberOfAwardsMax": 7497
+    },
+    {
+      "Time": "2023-04-11T15:57:05.5651353+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 53853,
+      "NumberOfAwardsMax": 7497
     }
   ],
   "Tags": [
@@ -3639,7 +3645,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 6838
+      "Count": 6848
     },
     {
       "Text": "This game is Relaxing",
@@ -3681,7 +3687,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 4659
+      "Count": 4664
     },
     {
       "Text": "This game has Amazing Characters",

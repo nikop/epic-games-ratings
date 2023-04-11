@@ -1,5 +1,5 @@
 # Hello Neighbor: Hide and Seek
-Rating: 4.47 (Ranked 565)  
+Rating: 4.48 (Ranked 556)  
 Number of Ratings: 81  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  
@@ -78,3 +78,4 @@ Diff (max vs sum): 0
 | 2023-02-05 | 4.49 | - | - |
 | 2023-02-22 | 4.47 | - | - |
 | 2023-03-31 | 4.47 | - | 0 |
+| 2023-04-11 | 4.48 | - | 0 |

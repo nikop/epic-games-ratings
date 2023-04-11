@@ -3,7 +3,7 @@ Rating: 4.73 (Ranked 154)
 Number of Ratings: 1,354  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 308  (Ranked 215)  
-Sum: 2,348 (Ranked 166)  
+Sum: 2,349 (Ranked 166)  
 Diff (max vs sum): 49
 ## Awards
 | Award | Number of Ratings |
@@ -12,7 +12,7 @@ Diff (max vs sum): 49
 | This game is Great for Beginners | 291 |
 | This game has Diverse Characters | 287 |
 | This game has Quickly Understood Controls | 282 |
-| This game is Relaxing | 271 |
+| This game is Relaxing | 272 |
 | This game is Highly Recommended | 258 |
 | This game has Amazing Storytelling | 244 |
 | This game has Amazing Characters | 236 |

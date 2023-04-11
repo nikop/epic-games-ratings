@@ -2,16 +2,16 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "Rating": 4.58,
-  "Ranking_Rating": 404,
+  "Ranking_Rating": 403,
   "Ranking_Popularity": 111,
   "Ranking_PopularitySum": 73,
   "NumberOfRatings": 15086,
-  "NumberOfAwards": 11337,
+  "NumberOfAwards": 11339,
   "NumberOfAwardsMax": 1467,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
-  "LastChanged": "2023-04-11T03:58:03.4299978+00:00",
+  "LastChanged": "2023-04-11T15:57:52.5086751+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-26T04:31:33.9561596+00:00",
@@ -1656,6 +1656,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 11337,
       "NumberOfAwardsMax": 1467
+    },
+    {
+      "Time": "2023-04-11T15:57:52.5086753+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11339,
+      "NumberOfAwardsMax": 1467
     }
   ],
   "Tags": [
@@ -1681,7 +1687,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1176
+      "Count": 1178
     },
     {
       "Text": "This game has Quickly Understood Controls",

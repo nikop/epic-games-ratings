@@ -3,14 +3,14 @@
   "Name": "Trackmania",
   "Rating": 4.67,
   "Ranking_Rating": 256,
-  "Ranking_Popularity": 91,
+  "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 51,
   "NumberOfRatings": 6825,
-  "NumberOfAwards": 20061,
-  "NumberOfAwardsMax": 2338,
-  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwards": 20070,
+  "NumberOfAwardsMax": 2344,
+  "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-04-11T13:06:32.1233368+00:00",
+  "LastChanged": "2023-04-11T15:57:39.7465872+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:57.8589287+00:00",
@@ -3361,6 +3361,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 20061,
       "NumberOfAwardsMax": 2338
+    },
+    {
+      "Time": "2023-04-11T15:57:39.7465876+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 20070,
+      "NumberOfAwardsMax": 2344
     }
   ],
   "Tags": [
@@ -3380,7 +3386,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 2335
+      "Count": 2344
     },
     {
       "Text": "This game is Extremely Fun",

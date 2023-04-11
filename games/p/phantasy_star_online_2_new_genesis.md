@@ -1,5 +1,5 @@
 # Phantasy Star Online 2 New Genesis
-Rating: 4.55 (Ranked 458)  
+Rating: 4.55 (Ranked 457)  
 Number of Ratings: 692  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 799  (Ranked 145)  

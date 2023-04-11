@@ -6,11 +6,11 @@
   "Ranking_Popularity": 218,
   "Ranking_PopularitySum": 172,
   "NumberOfRatings": 6460,
-  "NumberOfAwards": 2210,
+  "NumberOfAwards": 2211,
   "NumberOfAwardsMax": 301,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2023-04-11T07:57:14.1096473+00:00",
+  "LastChanged": "2023-04-11T15:57:31.6242527+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:47.2553497+00:00",
@@ -2522,6 +2522,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 2210,
       "NumberOfAwardsMax": 301
+    },
+    {
+      "Time": "2023-04-11T15:57:31.6242528+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 2211,
+      "NumberOfAwardsMax": 301
     }
   ],
   "Tags": [
@@ -2535,7 +2541,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 280
+      "Count": 281
     },
     {
       "Text": "This game has Diverse Characters",

@@ -1,5 +1,5 @@
 # Insurmountable
-Rating: 4.20 (Ranked 793)  
+Rating: 4.20 (Ranked 792)  
 Number of Ratings: 711  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 22  (Ranked 465)  

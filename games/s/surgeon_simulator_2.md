@@ -1,5 +1,5 @@
 # Surgeon Simulator 2
-Rating: 4.47 (Ranked 565)  
+Rating: 4.47 (Ranked 566)  
 Number of Ratings: 22  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  
