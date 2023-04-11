@@ -1,13 +1,13 @@
 # Warhammer 40,000: Mechanicus - Standard Edition
 Rating: 4.43 (Ranked 624)  
 ## Popularity (Based on Awards)
-Max (Highly Recommended): 274  (Ranked 225)  
-Sum: 2,076 (Ranked 181)  
+Max (Highly Recommended): 275  (Ranked 225)  
+Sum: 2,077 (Ranked 181)  
 Diff (max vs sum): 44
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Highly Recommended | 274 |
+| This game is Highly Recommended | 275 |
 | This game has Quickly Understood Controls | 269 |
 | This game is Extremely Fun | 265 |
 | This game has Amazing Characters | 252 |
@@ -35,4 +35,4 @@ Diff (max vs sum): 44
 | 2022-12-18 | 4.43 | - | - |
 | 2023-03-31 | 4.43 | - | 274 |
 | 2023-04-01 | 4.43 | - | 274 |
-| 2023-04-11 | 4.43 | - | 274 |
+| 2023-04-11 | 4.43 | - | 275 |

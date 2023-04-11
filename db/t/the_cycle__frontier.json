@@ -6,11 +6,11 @@
   "Ranking_Popularity": 96,
   "Ranking_PopularitySum": 68,
   "NumberOfRatings": 15671,
-  "NumberOfAwards": 12354,
-  "NumberOfAwardsMax": 2161,
+  "NumberOfAwards": 12358,
+  "NumberOfAwardsMax": 2165,
   "MaxAwardTitle": "Competitive Players",
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "LastChanged": "2023-04-11T17:56:59.5221349+00:00",
+  "LastChanged": "2023-04-11T20:57:06.031159+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:03.6642348+00:00",
@@ -3488,6 +3488,12 @@
       "Rating": 4.1,
       "NumberOfAwards": 12354,
       "NumberOfAwardsMax": 2161
+    },
+    {
+      "Time": "2023-04-11T20:57:06.0311592+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 12358,
+      "NumberOfAwardsMax": 2165
     }
   ],
   "Tags": [
@@ -3495,7 +3501,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 2161
+      "Count": 2165
     },
     {
       "Text": "This game has Quickly Understood Controls",

@@ -1,8 +1,8 @@
 {
   "ID": "46d340566781448ebdc2cb576f91d3b6",
   "Name": "The Silent Age",
-  "Rating": 4.35,
-  "Ranking_Rating": 702,
+  "Rating": 4.36,
+  "Ranking_Rating": 691,
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 482,
   "NumberOfRatings": 29,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:29:31.9753367+00:00",
   "FirstSeenRating": "2022-08-05T17:31:55.1060737+00:00",
-  "LastChanged": "2023-04-10T20:58:17.8891111+00:00",
+  "LastChanged": "2023-04-11T20:57:57.2735231+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-05T17:31:55.106074+00:00",
@@ -158,6 +158,12 @@
     {
       "Time": "2023-04-10T20:58:17.8891115+00:00",
       "Rating": 4.35,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-11T20:57:57.2735234+00:00",
+      "Rating": 4.36,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
