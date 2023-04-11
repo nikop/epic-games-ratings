@@ -4,13 +4,13 @@
   "Rating": 4.55,
   "Ranking_Rating": 457,
   "Ranking_Popularity": 359,
-  "Ranking_PopularitySum": 266,
-  "NumberOfAwards": 633,
-  "NumberOfAwardsMax": 66,
-  "MaxAwardTitle": "Great for Beginners",
+  "Ranking_PopularitySum": 264,
+  "NumberOfAwards": 635,
+  "NumberOfAwardsMax": 67,
+  "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-04-11T15:57:00.5285247+00:00",
+  "LastChanged": "2023-04-11T17:56:48.6731239+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-21T06:57:02.0735411+00:00",
@@ -731,6 +731,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 633,
       "NumberOfAwardsMax": 66
+    },
+    {
+      "Time": "2023-04-11T17:56:48.6731241+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 635,
+      "NumberOfAwardsMax": 67
     }
   ],
   "Tags": [
@@ -750,7 +756,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 65
+      "Count": 67
     },
     {
       "Text": "This game is Great for Quick Sessions",
