@@ -2,8 +2,8 @@
 Rating: 3.71 (Ranked 895)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 39  (Ranked 403)  
-Sum: 113 (Ranked 386)  
-Diff (max vs sum): 17
+Sum: 76 (Ranked 402)  
+Diff (max vs sum): 1
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
@@ -51,3 +51,4 @@ Diff (max vs sum): 17
 | 2023-04-08 | 3.71 | - | 38 |
 | 2023-04-09 | 3.71 | - | 39 |
 | 2023-04-10 | 3.71 | - | 39 |
+| 2023-04-11 | 3.71 | - | 39 |

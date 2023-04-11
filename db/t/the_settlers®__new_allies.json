@@ -4,13 +4,13 @@
   "Rating": 3.71,
   "Ranking_Rating": 895,
   "Ranking_Popularity": 403,
-  "Ranking_PopularitySum": 386,
-  "NumberOfAwards": 113,
+  "Ranking_PopularitySum": 402,
+  "NumberOfAwards": 76,
   "NumberOfAwardsMax": 39,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2023-02-17T13:12:44.8398615+00:00",
   "FirstSeenRating": "2023-02-19T13:09:54.8324207+00:00",
-  "LastChanged": "2023-04-10T02:57:37.8613225+00:00",
+  "LastChanged": "2023-04-11T13:06:26.03811+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-19T13:09:54.8324224+00:00",
@@ -352,6 +352,12 @@
       "Time": "2023-04-10T02:57:37.8613226+00:00",
       "Rating": 3.71,
       "NumberOfAwards": 113,
+      "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2023-04-11T13:06:26.0381102+00:00",
+      "Rating": 3.71,
+      "NumberOfAwards": 76,
       "NumberOfAwardsMax": 39
     }
   ],
