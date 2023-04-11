@@ -1,9 +1,9 @@
 # Grand Theft Auto V: Premium Edition
-Rating: 4.69 (Ranked 214)  
+Rating: 4.69 (Ranked 213)  
 Number of Ratings: 573,831  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 156,027  (Ranked 5)  
-Sum: 1,248,543 (Ranked 5)  
+Sum: 1,248,814 (Ranked 5)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
@@ -12,7 +12,7 @@ Diff (max vs sum): 0
 | This game has Diverse Characters | 144,402 |
 | This game is Relaxing | 142,564 |
 | This game has Quickly Understood Controls | 137,803 |
-| This game is Extremely Fun | 135,656 |
+| This game is Extremely Fun | 135,927 |
 | This game is Highly Recommended | 134,114 |
 | This game has Amazing Storytelling | 134,031 |
 | This game has Competitive Players | 133,790 |

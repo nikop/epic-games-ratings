@@ -1,5 +1,5 @@
 # Shady Part of Me
-Rating: 4.70 (Ranked 192)  
+Rating: 4.70 (Ranked 191)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 482)  
 Sum: 0 (Ranked 482)  
