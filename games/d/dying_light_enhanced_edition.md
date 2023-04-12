@@ -1,5 +1,5 @@
 # Dying Light Enhanced Edition
-Rating: 4.50 (Ranked 522)  
+Rating: 4.51 (Ranked 507)  
 Number of Ratings: 3,181  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 8,631  (Ranked 35)  
@@ -121,4 +121,4 @@ Diff (max vs sum): -18
 | 2023-04-09 | 4.45 | - | 6,092 |
 | 2023-04-10 | 4.48 | - | 7,286 |
 | 2023-04-11 | 4.50 | - | 8,631 |
-| 2023-04-12 | 4.50 | - | 8,631 |
+| 2023-04-12 | 4.51 | - | 8,631 |
