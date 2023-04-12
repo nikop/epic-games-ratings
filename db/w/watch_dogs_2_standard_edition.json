@@ -6,11 +6,11 @@
   "Ranking_Popularity": 218,
   "Ranking_PopularitySum": 172,
   "NumberOfRatings": 6460,
-  "NumberOfAwards": 2213,
-  "NumberOfAwardsMax": 301,
+  "NumberOfAwards": 2215,
+  "NumberOfAwardsMax": 302,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2023-04-12T13:05:20.3038736+00:00",
+  "LastChanged": "2023-04-12T16:57:20.2178553+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:47.2553497+00:00",
@@ -2534,6 +2534,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 2213,
       "NumberOfAwardsMax": 301
+    },
+    {
+      "Time": "2023-04-12T16:57:20.2178556+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 2215,
+      "NumberOfAwardsMax": 302
     }
   ],
   "Tags": [
@@ -2553,13 +2559,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 262
+      "Count": 263
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 301
+      "Count": 302
     },
     {
       "Text": "This game is Relaxing",
