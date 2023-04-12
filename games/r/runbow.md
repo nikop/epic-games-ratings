@@ -1,5 +1,5 @@
 # Runbow
-Rating: 4.46 (Ranked 576)  
+Rating: 4.46 (Ranked 577)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 483)  
 Sum: 0 (Ranked 483)  
