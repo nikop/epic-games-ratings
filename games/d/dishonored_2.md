@@ -1,13 +1,13 @@
 # Dishonored 2
 Rating: 4.80 (Ranked 78)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 295  (Ranked 221)  
-Sum: 340 (Ranked 306)  
+Max (Great Boss Battles): 296  (Ranked 221)  
+Sum: 341 (Ranked 306)  
 Diff (max vs sum): -85
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 295 |
+| This game has Great Boss Battles | 296 |
 | This game has Diverse Characters | 25 |
 | This game is Relaxing | 20 |
 ## Ratings History
@@ -56,3 +56,4 @@ Diff (max vs sum): -85
 | 2023-04-07 | 4.80 | - | 292 |
 | 2023-04-09 | 4.80 | - | 294 |
 | 2023-04-11 | 4.80 | - | 295 |
+| 2023-04-12 | 4.80 | - | 296 |

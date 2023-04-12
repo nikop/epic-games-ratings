@@ -1,5 +1,5 @@
 # No Straight Roads
-Rating: 4.69 (Ranked 214)  
+Rating: 4.69 (Ranked 213)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 483)  
 Sum: 0 (Ranked 483)  

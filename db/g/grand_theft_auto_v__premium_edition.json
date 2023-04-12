@@ -2,15 +2,15 @@
   "ID": "0584d2013f0149a791e7b9bad0eec102",
   "Name": "Grand Theft Auto V: Premium Edition",
   "Rating": 4.69,
-  "Ranking_Rating": 214,
+  "Ranking_Rating": 213,
   "Ranking_Popularity": 5,
   "Ranking_PopularitySum": 5,
   "NumberOfRatings": 573831,
-  "NumberOfAwards": 1250043,
+  "NumberOfAwards": 1250315,
   "NumberOfAwardsMax": 156388,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2023-04-12T09:57:24.0347706+00:00",
+  "LastChanged": "2023-04-12T13:05:06.3388638+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:49.5868983+00:00",
@@ -4080,6 +4080,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 1250043,
       "NumberOfAwardsMax": 156388
+    },
+    {
+      "Time": "2023-04-12T13:05:06.3388639+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1250315,
+      "NumberOfAwardsMax": 156388
     }
   ],
   "Tags": [
@@ -4105,7 +4111,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 134031
+      "Count": 134303
     },
     {
       "Text": "This game is Extremely Fun",
