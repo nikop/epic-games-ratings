@@ -4,13 +4,13 @@
   "Rating": 4.88,
   "Ranking_Rating": 19,
   "Ranking_Popularity": 236,
-  "Ranking_PopularitySum": 186,
+  "Ranking_PopularitySum": 185,
   "NumberOfRatings": 1319,
-  "NumberOfAwards": 1894,
+  "NumberOfAwards": 1897,
   "NumberOfAwardsMax": 235,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2023-04-11T10:57:49.5629608+00:00",
+  "LastChanged": "2023-04-12T03:56:54.6795491+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:26.6981295+00:00",
@@ -1458,6 +1458,12 @@
       "Rating": 4.88,
       "NumberOfAwards": 1894,
       "NumberOfAwardsMax": 235
+    },
+    {
+      "Time": "2023-04-12T03:56:54.6795493+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 1897,
+      "NumberOfAwardsMax": 235
     }
   ],
   "Tags": [
@@ -1495,13 +1501,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 199
+      "Count": 200
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 224
+      "Count": 225
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1531,7 +1537,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 214
+      "Count": 215
     }
   ]
 }

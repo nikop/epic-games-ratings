@@ -1,5 +1,5 @@
 # Predator: Hunting Grounds Standard Edition
-Rating: 4.45 (Ranked 593)  
+Rating: 4.45 (Ranked 594)  
 Number of Ratings: 1,373  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 845  (Ranked 142)  
