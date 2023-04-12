@@ -65,7 +65,7 @@
 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 438 | 46 | 387 |
 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 458 | 0 | 483 |
 | [Aztez](games/a/aztez.md) | 4.53 | 480 | 0 | 483 |
-| [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 576 | 3,191 | 82 |
+| [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 576 | 3,194 | 82 |
 | [Backbone](games/b/backbone.md) | 4.33 | 717 | 0 | 483 |
 | [Bad North](games/b/bad_north.md) | 4.68 | 235 | 0 | 483 |
 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 675 | 0 | 483 |
@@ -96,7 +96,7 @@
 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 24 | 136 | 284 |
 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 555 | 0 | 483 |
 | [Blood of Steel](games/b/blood_of_steel.md) | 3.68 | 896 | 0 | 483 |
-| [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 111 | 2,205 | 94 |
+| [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 111 | 2,224 | 93 |
 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 111 | 13,875 | 22 |
 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 214 | 106,999 | 8 |
 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 539 | 391 | 195 |
@@ -122,7 +122,7 @@
 | [Chess Ultra](games/c/chess_ultra.md) | 4.26 | 764 | 0 | 483 |
 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.74 | 141 | 0 | 483 |
 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 55 | 0 | 483 |
-| [Chimeraland](games/c/chimeraland.md) | 3.90 | 883 | 0 | 483 |
+| [Chimeraland](games/c/chimeraland.md) | 3.90 | 884 | 0 | 483 |
 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 352 | 3,940 | 72 |
 | [Chorus](games/c/chorus.md) | 4.47 | 565 | 32 | 426 |
 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 842 | 0 | 483 |
@@ -147,7 +147,7 @@
 | [Crashlands](games/c/crashlands.md) | 4.66 | 271 | 186 | 258 |
 | [Crayta](games/c/crayta.md) | 4.19 | 805 | 50 | 378 |
 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 759 | 22 | 465 |
-| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.90 | 883 | 94 | 320 |
+| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.91 | 881 | 94 | 320 |
 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 692 | 170 | 266 |
 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 703 | 90 | 327 |
 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 523 | 208 | 250 |
@@ -379,7 +379,7 @@
 | [Journey](games/j/journey.md) | 4.80 | 78 | 0 | 483 |
 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 404 | 36 | 413 |
 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 333 | 527 | 176 |
-| [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 141 | 567 | 166 |
+| [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 141 | 568 | 166 |
 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 740 | 3,556 | 78 |
 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 498 | 98 | 314 |
 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.67 | 256 | 0 | 483 |
@@ -420,7 +420,7 @@
 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 404 | 212 | 245 |
 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 498 | 182 | 261 |
 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 190 | 0 | 483 |
-| [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 91 | 2,222 | 93 |
+| [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 91 | 2,222 | 94 |
 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 657 | 0 | 483 |
 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 856 | 0 | 483 |
 | [Limbo](games/l/limbo.md) | 4.62 | 333 | 0 | 483 |
@@ -466,7 +466,7 @@
 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 539 | 605 | 161 |
 | [Mutazione](games/m/mutazione.md) | 4.64 | 311 | 0 | 483 |
 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 692 | 0 | 483 |
-| [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 256 | 2,205 | 94 |
+| [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 256 | 2,205 | 95 |
 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 235 | 546 | 170 |
 | [MythForce](games/m/mythforce.md) | 4.51 | 507 | 32 | 426 |
 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 805 | 179,563 | 4 |
@@ -644,7 +644,7 @@
 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.32 | 725 | 0 | 483 |
 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 111 | 7,497 | 39 |
 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 271 | 24 | 459 |
-| [Solitairica](games/s/solitairica.md) | 4.49 | 539 | 81 | 337 |
+| [Solitairica](games/s/solitairica.md) | 4.49 | 539 | 81 | 338 |
 | [SOMA](games/s/soma.md) | 4.65 | 288 | 0 | 483 |
 | [Somerville](games/s/somerville.md) | 4.20 | 793 | 0 | 483 |
 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 190 | 27 | 446 |
@@ -759,7 +759,7 @@
 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 124 | 37 | 409 |
 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.70 | 895 | 39 | 403 |
 | [The Silent Age](games/t/the_silent_age.md) | 4.36 | 692 | 0 | 483 |
-| [The Sims™ 4](games/t/the_sims™_4.md) | 4.59 | 388 | 81 | 337 |
+| [The Sims™ 4](games/t/the_sims™_4.md) | 4.59 | 388 | 84 | 334 |
 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 769 | 0 | 483 |
 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 166 | 0 | 483 |
 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 814 | 0 | 483 |
@@ -790,7 +790,7 @@
 | [Timberborn](games/t/timberborn.md) | 4.72 | 166 | 111 | 304 |
 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 576 | 276 | 224 |
 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 423 | 17,704 | 17 |
-| [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 256 | 83 | 336 |
+| [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 256 | 83 | 337 |
 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 725 | 0 | 483 |
 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 404 | 163 | 272 |
 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 423 | 1,680 | 108 |

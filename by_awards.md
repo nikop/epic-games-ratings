@@ -81,7 +81,7 @@
 | 79 | [Gloomhaven](games/g/gloomhaven.md) | 3,422 | 4.47 | 565 |
 | 80 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,315 | 4.68 | 235 |
 | 81 | [Paladins](games/p/paladins.md) | 3,201 | 4.35 | 703 |
-| 82 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,191 | 4.46 | 576 |
+| 82 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,194 | 4.46 | 576 |
 | 83 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,141 | 4.75 | 124 |
 | 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,113 | 4.59 | 388 |
 | 85 | [Hades](games/h/hades.md) | 2,986 | 4.92 | 4 |
@@ -92,9 +92,9 @@
 | 90 | [Trackmania](games/t/trackmania.md) | 2,344 | 4.67 | 256 |
 | 91 | [Among Us](games/a/among_us.md) | 2,343 | 4.58 | 404 |
 | 92 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,327 | 4.80 | 78 |
-| 93 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,222 | 4.79 | 91 |
-| 94 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,205 | 4.76 | 111 |
-| 94 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,205 | 4.67 | 256 |
+| 93 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,224 | 4.76 | 111 |
+| 94 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,222 | 4.79 | 91 |
+| 95 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,205 | 4.67 | 256 |
 | 96 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,165 | 4.10 | 842 |
 | 97 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,156 | 4.41 | 640 |
 | 98 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,125 | 4.37 | 687 |
@@ -165,7 +165,7 @@
 | 163 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 580 | 4.62 | 333 |
 | 164 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 573 | 4.62 | 333 |
 | 165 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 571 | 4.74 | 141 |
-| 166 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 567 | 4.74 | 141 |
+| 166 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 568 | 4.74 | 141 |
 | 167 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 561 | 4.58 | 404 |
 | 168 | [Filament](games/f/filament.md) | 548 | 4.32 | 725 |
 | 168 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 548 | 4.61 | 352 |
@@ -319,7 +319,7 @@
 | 316 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 96 | 4.77 | 105 |
 | 316 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 96 | 4.47 | 565 |
 | 319 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 95 | 4.75 | 124 |
-| 320 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 94 | 3.90 | 883 |
+| 320 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 94 | 3.91 | 881 |
 | 320 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 94 | 4.50 | 523 |
 | 320 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 94 | 4.86 | 31 |
 | 323 | [Verdun](games/v/verdun.md) | 93 | 4.53 | 480 |
@@ -334,10 +334,10 @@
 | 332 | [RAILGRADE](games/r/railgrade.md) | 86 | 4.54 | 469 |
 | 333 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 85 | 4.19 | 805 |
 | 334 | [Cave Story+](games/c/cave_story+.md) | 84 | 4.76 | 111 |
+| 334 | [The Sims™ 4](games/t/the_sims™_4.md) | 84 | 4.59 | 388 |
 | 334 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 84 | 4.60 | 374 |
-| 336 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 83 | 4.67 | 256 |
-| 337 | [Solitairica](games/s/solitairica.md) | 81 | 4.49 | 539 |
-| 337 | [The Sims™ 4](games/t/the_sims™_4.md) | 81 | 4.59 | 388 |
+| 337 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 83 | 4.67 | 256 |
+| 338 | [Solitairica](games/s/solitairica.md) | 81 | 4.49 | 539 |
 | 339 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 80 | 4.84 | 48 |
 | 340 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 77 | 4.20 | 793 |
 | 341 | [This War of Mine](games/t/this_war_of_mine.md) | 76 | 4.74 | 141 |

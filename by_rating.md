@@ -93,7 +93,7 @@
 | 91 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,434 | 112 |
 | 91 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 365 | 202 |
 | 91 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 879 | 141 |
-| 91 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 2,222 | 93 |
+| 91 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 2,222 | 94 |
 | 91 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 973 | 135 |
 | 91 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,786 | 55 |
 | 91 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 362 | 203 |
@@ -111,7 +111,7 @@
 | 105 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 483 |
 | 105 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 27 | 446 |
 | 111 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 0 | 483 |
-| 111 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 2,205 | 94 |
+| 111 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 2,224 | 93 |
 | 111 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 13,875 | 22 |
 | 111 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 84 | 334 |
 | 111 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 807 | 144 |
@@ -144,7 +144,7 @@
 | 141 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 483 |
 | 141 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.74 | 0 | 483 |
 | 141 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 476 | 182 |
-| 141 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 567 | 166 |
+| 141 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 568 | 166 |
 | 141 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,362 | 48 |
 | 141 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 222 | 243 |
 | 141 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 29,064 | 13 |
@@ -262,11 +262,11 @@
 | 256 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 0 | 483 |
 | 256 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.67 | 0 | 483 |
 | 256 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 0 | 483 |
-| 256 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,205 | 94 |
+| 256 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,205 | 95 |
 | 256 | [Overcooked](games/o/overcooked.md) | 4.67 | 112 | 302 |
 | 256 | [Revita](games/r/revita.md) | 4.67 | 0 | 483 |
 | 256 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 483 |
-| 256 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 83 | 336 |
+| 256 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 83 | 337 |
 | 256 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 483 |
 | 256 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,344 | 90 |
 | 256 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 21 | 472 |
@@ -397,7 +397,7 @@
 | 388 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 201 | 251 |
 | 388 | [The Colonists](games/t/the_colonists.md) | 4.59 | 0 | 483 |
 | 388 | [The Medium](games/t/the_medium.md) | 4.59 | 0 | 483 |
-| 388 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.59 | 81 | 337 |
+| 388 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.59 | 84 | 334 |
 | 388 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,113 | 84 |
 | 388 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 30 | 438 |
 | 388 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 688 | 153 |
@@ -552,7 +552,7 @@
 | 539 | [Maneater](games/m/maneater.md) | 4.49 | 13,378 | 23 |
 | 539 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 605 | 161 |
 | 539 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 0 | 483 |
-| 539 | [Solitairica](games/s/solitairica.md) | 4.49 | 81 | 337 |
+| 539 | [Solitairica](games/s/solitairica.md) | 4.49 | 81 | 338 |
 | 539 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 0 | 483 |
 | 555 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 0 | 483 |
 | 555 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 483 |
@@ -578,7 +578,7 @@
 | 576 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 483 |
 | 576 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 0 | 483 |
 | 576 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 0 | 483 |
-| 576 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,191 | 82 |
+| 576 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,194 | 82 |
 | 576 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.46 | 0 | 483 |
 | 576 | [Duskers](games/d/duskers.md) | 4.46 | 0 | 483 |
 | 576 | [Figment](games/f/figment.md) | 4.46 | 20 | 476 |
@@ -881,9 +881,9 @@
 | 878 | [Ironcast](games/i/ironcast.md) | 3.92 | 0 | 483 |
 | 878 | [Warface](games/w/warface.md) | 3.92 | 377 | 198 |
 | 881 | [Conarium](games/c/conarium.md) | 3.91 | 0 | 483 |
+| 881 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.91 | 94 | 320 |
 | 881 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 310 |
-| 883 | [Chimeraland](games/c/chimeraland.md) | 3.90 | 0 | 483 |
-| 883 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.90 | 94 | 320 |
+| 884 | [Chimeraland](games/c/chimeraland.md) | 3.90 | 0 | 483 |
 | 885 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 0 | 483 |
 | 886 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 483 |
 | 887 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.81 | 0 | 483 |
