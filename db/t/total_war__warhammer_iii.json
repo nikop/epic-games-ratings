@@ -2,15 +2,15 @@
   "ID": "dda64c2956b54f1ba3cd97f6aaee775f",
   "Name": "Total War: WARHAMMER III",
   "Rating": 4.68,
-  "Ranking_Rating": 235,
+  "Ranking_Rating": 236,
   "Ranking_Popularity": 115,
   "Ranking_PopularitySum": 120,
   "NumberOfRatings": 882,
-  "NumberOfAwards": 4952,
+  "NumberOfAwards": 4953,
   "NumberOfAwardsMax": 1383,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:20:31.8340221+00:00",
-  "LastChanged": "2023-04-11T21:57:20.5685123+00:00",
+  "LastChanged": "2023-04-12T01:56:18.8469974+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:31.8340223+00:00",
@@ -1847,6 +1847,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 4952,
       "NumberOfAwardsMax": 1383
+    },
+    {
+      "Time": "2023-04-12T01:56:18.8469977+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 4953,
+      "NumberOfAwardsMax": 1383
     }
   ],
   "Tags": [
@@ -1872,7 +1878,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 325
+      "Count": 326
     },
     {
       "Text": "This game has Obsessive Gameplay",

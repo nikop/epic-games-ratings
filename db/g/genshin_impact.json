@@ -2,15 +2,15 @@
   "ID": "879b0d8776ab46a59a129983ba78f0ce",
   "Name": "Genshin Impact",
   "Rating": 4.68,
-  "Ranking_Rating": 235,
+  "Ranking_Rating": 236,
   "Ranking_Popularity": 3,
   "Ranking_PopularitySum": 4,
   "NumberOfRatings": 219180,
-  "NumberOfAwards": 1250124,
+  "NumberOfAwards": 1250589,
   "NumberOfAwardsMax": 283054,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2023-04-11T23:57:30.3503803+00:00",
+  "LastChanged": "2023-04-12T01:56:51.0402513+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:42.3518765+00:00",
@@ -4270,6 +4270,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 1250124,
       "NumberOfAwardsMax": 283054
+    },
+    {
+      "Time": "2023-04-12T01:56:51.0402516+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1250589,
+      "NumberOfAwardsMax": 283054
     }
   ],
   "Tags": [
@@ -4289,7 +4295,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 118810
+      "Count": 119275
     },
     {
       "Text": "This game has Amazing Characters",
