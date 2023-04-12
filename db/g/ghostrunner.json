@@ -3,14 +3,14 @@
   "Name": "Ghostrunner",
   "Rating": 4.72,
   "Ranking_Rating": 166,
-  "Ranking_Popularity": 186,
-  "Ranking_PopularitySum": 276,
+  "Ranking_Popularity": 185,
+  "Ranking_PopularitySum": 275,
   "NumberOfRatings": 1047,
-  "NumberOfAwards": 580,
-  "NumberOfAwardsMax": 448,
+  "NumberOfAwards": 581,
+  "NumberOfAwardsMax": 449,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
-  "LastChanged": "2023-04-09T13:57:47.694284+00:00",
+  "LastChanged": "2023-04-12T15:57:21.3746389+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:51.2324113+00:00",
@@ -752,6 +752,12 @@
       "Rating": 4.72,
       "NumberOfAwards": 580,
       "NumberOfAwardsMax": 448
+    },
+    {
+      "Time": "2023-04-12T15:57:21.3746391+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 581,
+      "NumberOfAwardsMax": 449
     }
   ],
   "Tags": [
@@ -759,7 +765,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 448
+      "Count": 449
     },
     {
       "Text": "This game has Diverse Characters",

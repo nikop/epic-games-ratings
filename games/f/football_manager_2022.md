@@ -3,13 +3,13 @@ Rating: 4.80 (Ranked 78)
 Number of Ratings: 19,160  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 6,216  (Ranked 50)  
-Sum: 49,015 (Ranked 21)  
+Sum: 49,016 (Ranked 21)  
 Diff (max vs sum): 29
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Relaxing | 6,216 |
-| This game is Extremely Fun | 5,867 |
+| This game is Extremely Fun | 5,868 |
 | This game has Competitive Players | 5,688 |
 | This game has Quickly Understood Controls | 5,687 |
 | This game is Educational | 5,657 |

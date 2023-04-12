@@ -1,16 +1,16 @@
 {
   "ID": "1368a7f14c3344bbaededbae528fafed",
   "Name": "Dead Cells",
-  "Rating": 4.88,
-  "Ranking_Rating": 19,
-  "Ranking_Popularity": 236,
-  "Ranking_PopularitySum": 186,
+  "Rating": 4.89,
+  "Ranking_Rating": 13,
+  "Ranking_Popularity": 235,
+  "Ranking_PopularitySum": 175,
   "NumberOfRatings": 1319,
-  "NumberOfAwards": 1897,
-  "NumberOfAwardsMax": 235,
-  "MaxAwardTitle": "Quickly Understood Controls",
+  "NumberOfAwards": 2141,
+  "NumberOfAwardsMax": 244,
+  "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2023-04-12T03:56:54.6795491+00:00",
+  "LastChanged": "2023-04-12T15:57:00.3139176+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:26.6981295+00:00",
@@ -1464,6 +1464,12 @@
       "Rating": 4.88,
       "NumberOfAwards": 1897,
       "NumberOfAwardsMax": 235
+    },
+    {
+      "Time": "2023-04-12T15:57:00.3139177+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 2141,
+      "NumberOfAwardsMax": 244
     }
   ],
   "Tags": [
@@ -1531,7 +1537,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 240
+      "Count": 244
     },
     {
       "Text": "This game has Challenging Combat",

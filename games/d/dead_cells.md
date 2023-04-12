@@ -1,14 +1,14 @@
 # Dead Cells
-Rating: 4.88 (Ranked 19)  
+Rating: 4.89 (Ranked 13)  
 Number of Ratings: 1,319  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Quickly Understood Controls): 235  (Ranked 236)  
-Sum: 1,897 (Ranked 186)  
-Diff (max vs sum): 50
+Max (Diverse Characters): 244  (Ranked 235)  
+Sum: 2,141 (Ranked 175)  
+Diff (max vs sum): 60
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Diverse Characters | 240 |
+| This game has Diverse Characters | 244 |
 | This game has Quickly Understood Controls | 235 |
 | This game is Relaxing | 225 |
 | This game is Extremely Fun | 222 |
@@ -115,4 +115,4 @@ Diff (max vs sum): 50
 | 2023-04-08 | 4.88 | - | 235 |
 | 2023-04-09 | 4.88 | - | 240 |
 | 2023-04-11 | 4.88 | - | 235 |
-| 2023-04-12 | 4.88 | - | 235 |
+| 2023-04-12 | 4.89 | - | 244 |
