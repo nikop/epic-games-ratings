@@ -6,12 +6,12 @@
   "Ranking_Popularity": 12,
   "Ranking_PopularitySum": 16,
   "NumberOfRatings": 32207,
-  "NumberOfAwards": 78591,
+  "NumberOfAwards": 78596,
   "NumberOfAwardsMax": 32696,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-08-23T20:00:58.6908762+00:00",
   "FirstSeenRating": "2022-08-24T03:30:20.9735605+00:00",
-  "LastChanged": "2023-04-12T03:56:55.2354264+00:00",
+  "LastChanged": "2023-04-12T05:57:00.480596+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-24T03:30:20.973561+00:00",
@@ -2372,6 +2372,12 @@
       "Rating": 4.5,
       "NumberOfAwards": 78591,
       "NumberOfAwardsMax": 32696
+    },
+    {
+      "Time": "2023-04-12T05:57:00.4805962+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 78596,
+      "NumberOfAwardsMax": 32696
     }
   ],
   "Tags": [
@@ -2385,7 +2391,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 5812
+      "Count": 5817
     },
     {
       "Text": "This game is Highly Recommended",

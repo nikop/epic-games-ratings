@@ -3,15 +3,15 @@
   "Name": "F1\u00AE Manager 2022",
   "Rating": 4.58,
   "Ranking_Rating": 404,
-  "Ranking_Popularity": 239,
+  "Ranking_Popularity": 238,
   "Ranking_PopularitySum": 195,
   "NumberOfRatings": 810,
-  "NumberOfAwards": 1757,
-  "NumberOfAwardsMax": 231,
+  "NumberOfAwards": 1758,
+  "NumberOfAwardsMax": 232,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-08-30T14:01:37.4479981+00:00",
   "FirstSeenRating": "2022-08-30T21:30:24.1805179+00:00",
-  "LastChanged": "2023-04-11T06:57:23.0715453+00:00",
+  "LastChanged": "2023-04-12T05:56:59.7845112+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-30T21:30:24.1805182+00:00",
@@ -1029,6 +1029,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 1757,
       "NumberOfAwardsMax": 231
+    },
+    {
+      "Time": "2023-04-12T05:56:59.7845113+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1758,
+      "NumberOfAwardsMax": 232
     }
   ],
   "Tags": [
@@ -1042,7 +1048,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 231
+      "Count": 232
     },
     {
       "Text": "This game is Highly Recommended",
