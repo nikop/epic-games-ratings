@@ -6,11 +6,11 @@
   "Ranking_Popularity": 7,
   "Ranking_PopularitySum": 8,
   "NumberOfRatings": 102658,
-  "NumberOfAwards": 335713,
+  "NumberOfAwards": 335740,
   "NumberOfAwardsMax": 132641,
   "MaxAwardTitle": "Impact the Story",
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-04-12T01:56:47.7681931+00:00",
+  "LastChanged": "2023-04-12T04:57:35.8570162+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:15.0342453+00:00",
@@ -4206,6 +4206,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 335713,
       "NumberOfAwardsMax": 132641
+    },
+    {
+      "Time": "2023-04-12T04:57:35.8570164+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 335740,
+      "NumberOfAwardsMax": 132641
     }
   ],
   "Tags": [
@@ -4243,7 +4249,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 11960
+      "Count": 11987
     },
     {
       "Text": "This game has Realistic Visuals",

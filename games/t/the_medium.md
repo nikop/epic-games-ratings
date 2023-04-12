@@ -1,5 +1,5 @@
 # The Medium
-Rating: 4.58 (Ranked 403)  
+Rating: 4.59 (Ranked 388)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 483)  
 Sum: 0 (Ranked 483)  
@@ -23,3 +23,4 @@ Diff (max vs sum): 0
 | 2023-01-21 | 4.56 | - | - |
 | 2023-03-15 | 4.58 | - | - |
 | 2023-03-31 | 4.58 | - | 0 |
+| 2023-04-12 | 4.59 | - | 0 |
