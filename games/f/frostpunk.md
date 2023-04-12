@@ -3,14 +3,14 @@ Rating: 4.73 (Ranked 154)
 Number of Ratings: 11,240  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 762  (Ranked 146)  
-Sum: 6,344 (Ranked 109)  
+Sum: 6,345 (Ranked 109)  
 Diff (max vs sum): 37
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Quickly Understood Controls | 762 |
 | This game is Relaxing | 734 |
-| This game has Amazing Storytelling | 729 |
+| This game has Amazing Storytelling | 730 |
 | This game is Highly Recommended | 720 |
 | This game is Educational | 696 |
 | This game is Extremely Fun | 682 |
