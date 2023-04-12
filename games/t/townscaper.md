@@ -1,5 +1,5 @@
 # Townscaper
-Rating: 4.71 (Ranked 176)  
+Rating: 4.71 (Ranked 177)  
 Number of Ratings: 41  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 483)  

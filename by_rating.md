@@ -172,23 +172,23 @@
 | 166 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 403 |
 | 166 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 0 | 483 |
 | 166 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.72 | 0 | 483 |
+| 166 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 66 | 360 |
 | 166 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 483 |
 | 166 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 0 | 483 |
 | 166 | [Timberborn](games/t/timberborn.md) | 4.72 | 111 | 304 |
-| 176 | [Barony](games/b/barony.md) | 4.71 | 69 | 354 |
-| 176 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 483 |
-| 176 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,084 | 51 |
-| 176 | [Fez](games/f/fez.md) | 4.71 | 23 | 460 |
-| 176 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 417 |
-| 176 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 0 | 483 |
-| 176 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,073 | 42 |
-| 176 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 0 | 483 |
-| 176 | [Northgard](games/n/northgard.md) | 4.71 | 27 | 446 |
-| 176 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 0 | 483 |
-| 176 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 66 | 360 |
-| 176 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 0 | 483 |
-| 176 | [SUPERHOT](games/s/superhot.md) | 4.71 | 0 | 483 |
-| 176 | [Townscaper](games/t/townscaper.md) | 4.71 | 0 | 483 |
+| 177 | [Barony](games/b/barony.md) | 4.71 | 69 | 354 |
+| 177 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 483 |
+| 177 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,084 | 51 |
+| 177 | [Fez](games/f/fez.md) | 4.71 | 23 | 460 |
+| 177 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 417 |
+| 177 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 0 | 483 |
+| 177 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,073 | 42 |
+| 177 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 0 | 483 |
+| 177 | [Northgard](games/n/northgard.md) | 4.71 | 27 | 446 |
+| 177 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 0 | 483 |
+| 177 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 0 | 483 |
+| 177 | [SUPERHOT](games/s/superhot.md) | 4.71 | 0 | 483 |
+| 177 | [Townscaper](games/t/townscaper.md) | 4.71 | 0 | 483 |
 | 190 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,473 | 66 |
 | 190 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 0 | 483 |
 | 190 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 297 | 219 |
@@ -241,7 +241,7 @@
 | 235 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 354 |
 | 235 | [Card Shark](games/c/card_shark.md) | 4.68 | 0 | 483 |
 | 235 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 483 |
-| 235 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 4,974 | 60 |
+| 235 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 4,982 | 60 |
 | 235 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 283,054 | 3 |
 | 235 | [GNOG](games/g/gnog.md) | 4.68 | 0 | 483 |
 | 235 | [High On Life](games/h/high_on_life.md) | 4.68 | 0 | 483 |
@@ -289,7 +289,7 @@
 | 271 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 457 | 184 |
 | 288 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 483 |
 | 288 | [APE OUT](games/a/ape_out.md) | 4.65 | 0 | 483 |
-| 288 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,251 | 68 |
+| 288 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,259 | 68 |
 | 288 | [Coromon](games/c/coromon.md) | 4.65 | 40 | 402 |
 | 288 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 163 | 272 |
 | 288 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 111 | 304 |
@@ -808,7 +808,7 @@
 | 805 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 0 | 483 |
 | 805 | [Flatout](games/f/flatout.md) | 4.19 | 0 | 483 |
 | 805 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 85 | 333 |
-| 805 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 179,563 | 4 |
+| 805 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 179,649 | 4 |
 | 805 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 483 |
 | 811 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 316 |
 | 811 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 44 | 396 |

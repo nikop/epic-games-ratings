@@ -1,5 +1,5 @@
 # Kingdom Come: Deliverance
-Rating: 4.71 (Ranked 176)  
+Rating: 4.71 (Ranked 177)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 7,073  (Ranked 42)  
