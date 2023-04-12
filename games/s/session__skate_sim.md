@@ -2,13 +2,13 @@
 Rating: 4.65 (Ranked 289)  
 Number of Ratings: 111  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Highly Recommended): 47  (Ranked 385)  
-Sum: 389 (Ranked 296)  
-Diff (max vs sum): 89
+Max (Highly Recommended): 48  (Ranked 384)  
+Sum: 390 (Ranked 296)  
+Diff (max vs sum): 88
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Highly Recommended | 47 |
+| This game is Highly Recommended | 48 |
 | This game has a Creative Community | 38 |
 | This game has Amazing Storytelling | 38 |
 | This game is Relaxing | 37 |
@@ -102,3 +102,4 @@ Diff (max vs sum): 89
 | 2023-04-08 | 4.64 | - | 47 |
 | 2023-04-09 | 4.64 | - | 47 |
 | 2023-04-10 | 4.65 | - | 47 |
+| 2023-04-12 | 4.65 | - | 48 |

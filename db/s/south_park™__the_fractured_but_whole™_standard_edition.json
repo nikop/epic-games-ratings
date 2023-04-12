@@ -3,14 +3,14 @@
   "Name": "South Park\u2122: The Fractured But Whole\u2122 Standard Edition",
   "Rating": 4.85,
   "Ranking_Rating": 38,
-  "Ranking_Popularity": 331,
-  "Ranking_PopularitySum": 397,
+  "Ranking_Popularity": 329,
+  "Ranking_PopularitySum": 395,
   "NumberOfRatings": 162,
-  "NumberOfAwards": 87,
-  "NumberOfAwardsMax": 87,
+  "NumberOfAwards": 88,
+  "NumberOfAwardsMax": 88,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:17:01.7638488+00:00",
-  "LastChanged": "2023-04-11T14:57:01.052577+00:00",
+  "LastChanged": "2023-04-12T22:56:55.7350122+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:01.7638491+00:00",
@@ -353,6 +353,12 @@
       "Rating": 4.85,
       "NumberOfAwards": 87,
       "NumberOfAwardsMax": 87
+    },
+    {
+      "Time": "2023-04-12T22:56:55.7350124+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 88,
+      "NumberOfAwardsMax": 88
     }
   ],
   "Tags": [
@@ -360,7 +366,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 87
+      "Count": 88
     }
   ]
 }

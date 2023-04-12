@@ -3,14 +3,14 @@
   "Name": "Session: Skate Sim",
   "Rating": 4.65,
   "Ranking_Rating": 289,
-  "Ranking_Popularity": 385,
+  "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 296,
   "NumberOfRatings": 111,
-  "NumberOfAwards": 389,
-  "NumberOfAwardsMax": 47,
+  "NumberOfAwards": 390,
+  "NumberOfAwardsMax": 48,
   "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
-  "LastChanged": "2023-04-10T08:58:47.8162754+00:00",
+  "LastChanged": "2023-04-12T22:57:54.5199578+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:58.6746018+00:00",
@@ -434,6 +434,12 @@
       "Rating": 4.65,
       "NumberOfAwards": 389,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2023-04-12T22:57:54.519958+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 390,
+      "NumberOfAwardsMax": 48
     }
   ],
   "Tags": [
@@ -441,7 +447,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 47
+      "Count": 48
     },
     {
       "Text": "This game is Relaxing",
