@@ -1,9 +1,9 @@
 # Rise of the Tomb Raider: 20 Year Celebration
-Rating: 4.69 (Ranked 213)  
+Rating: 4.69 (Ranked 212)  
 Number of Ratings: 28,216  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 11,145  (Ranked 31)  
-Sum: 14,085 (Ranked 60)  
+Sum: 14,087 (Ranked 60)  
 Diff (max vs sum): -29
 ## Awards
 | Award | Number of Ratings |
@@ -13,8 +13,8 @@ Diff (max vs sum): -29
 | This game has Amazing Storytelling | 358 |
 | This game is Highly Recommended | 353 |
 | This game is Great for Beginners | 350 |
+| This game has Quickly Understood Controls | 344 |
 | This game is Extremely Fun | 343 |
-| This game has Quickly Understood Controls | 342 |
 | This game has Amazing Characters | 337 |
 | This game has Diverse Characters | 315 |
 | This game has a Creative Community | 180 |

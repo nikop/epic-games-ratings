@@ -2,15 +2,15 @@
   "ID": "d66c34349a054c3ea529726a5687520e",
   "Name": "Wargame: Red Dragon",
   "Rating": 4.69,
-  "Ranking_Rating": 213,
+  "Ranking_Rating": 212,
   "Ranking_Popularity": 143,
   "Ranking_PopularitySum": 100,
   "NumberOfRatings": 2918,
-  "NumberOfAwards": 7002,
-  "NumberOfAwardsMax": 843,
+  "NumberOfAwards": 7004,
+  "NumberOfAwardsMax": 844,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:18:18.8189699+00:00",
-  "LastChanged": "2023-04-12T15:57:05.886424+00:00",
+  "LastChanged": "2023-04-12T17:57:09.9501737+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:18.8189702+00:00",
@@ -2410,6 +2410,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 7002,
       "NumberOfAwardsMax": 843
+    },
+    {
+      "Time": "2023-04-12T17:57:09.9501738+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 7004,
+      "NumberOfAwardsMax": 844
     }
   ],
   "Tags": [
@@ -2417,7 +2423,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 812
+      "Count": 813
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2435,7 +2441,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 843
+      "Count": 844
     },
     {
       "Text": "This game is Highly Recommended",

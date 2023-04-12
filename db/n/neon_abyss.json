@@ -2,15 +2,15 @@
   "ID": "b0ebefb11a9145488af78f6d2488afff",
   "Name": "Neon Abyss",
   "Rating": 4.68,
-  "Ranking_Rating": 235,
-  "Ranking_Popularity": 157,
+  "Ranking_Rating": 234,
+  "Ranking_Popularity": 156,
   "Ranking_PopularitySum": 116,
   "NumberOfRatings": 8340,
-  "NumberOfAwards": 5258,
-  "NumberOfAwardsMax": 653,
+  "NumberOfAwards": 5261,
+  "NumberOfAwardsMax": 656,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:20:56.8709558+00:00",
-  "LastChanged": "2023-04-11T16:57:50.2187287+00:00",
+  "LastChanged": "2023-04-12T17:57:26.2781078+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:56.870956+00:00",
@@ -2698,6 +2698,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 5258,
       "NumberOfAwardsMax": 653
+    },
+    {
+      "Time": "2023-04-12T17:57:26.2781079+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 5261,
+      "NumberOfAwardsMax": 656
     }
   ],
   "Tags": [
@@ -2705,7 +2711,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 653
+      "Count": 656
     },
     {
       "Text": "This game has Diverse Characters",

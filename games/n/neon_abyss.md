@@ -1,14 +1,14 @@
 # Neon Abyss
-Rating: 4.68 (Ranked 235)  
+Rating: 4.68 (Ranked 234)  
 Number of Ratings: 8,340  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 653  (Ranked 157)  
-Sum: 5,258 (Ranked 116)  
-Diff (max vs sum): 41
+Max (Great for Beginners): 656  (Ranked 156)  
+Sum: 5,261 (Ranked 116)  
+Diff (max vs sum): 40
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 653 |
+| This game is Great for Beginners | 656 |
 | This game has Quickly Understood Controls | 614 |
 | This game has Diverse Characters | 602 |
 | This game is Relaxing | 572 |
@@ -96,3 +96,4 @@ Diff (max vs sum): 41
 | 2023-04-09 | 4.68 | - | 653 |
 | 2023-04-10 | 4.68 | - | 653 |
 | 2023-04-11 | 4.68 | - | 653 |
+| 2023-04-12 | 4.68 | - | 656 |

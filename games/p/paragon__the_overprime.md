@@ -1,13 +1,13 @@
 # Paragon: The Overprime
 Rating: 4.24 (Ranked 773)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 306  (Ranked 216)  
-Sum: 2,390 (Ranked 164)  
-Diff (max vs sum): 52
+Max (Diverse Characters): 310  (Ranked 215)  
+Sum: 2,397 (Ranked 164)  
+Diff (max vs sum): 51
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Diverse Characters | 306 |
+| This game has Diverse Characters | 310 |
 | This game has Competitive Players | 302 |
 | This game is Highly Recommended | 295 |
 | This game is Extremely Fun | 279 |
@@ -15,7 +15,7 @@ Diff (max vs sum): 52
 | This game has Challenging Combat | 275 |
 | This game has Quickly Understood Controls | 269 |
 | This game has Amazing Storytelling | 211 |
-| This game has a Competitive Community | 177 |
+| This game has a Competitive Community | 180 |
 | This game has Great Boss Battles | 109 |
 | This game has Unique Visuals | 40 |
 | This game is Great for Beginners | 33 |
@@ -72,4 +72,4 @@ Diff (max vs sum): 52
 | 2023-04-09 | 4.24 | - | 301 |
 | 2023-04-10 | 4.24 | - | 303 |
 | 2023-04-11 | 4.24 | - | 306 |
-| 2023-04-12 | 4.24 | - | 306 |
+| 2023-04-12 | 4.24 | - | 310 |
