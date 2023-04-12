@@ -3,14 +3,14 @@
   "Name": "Crime Boss: Rockay City",
   "Rating": 3.91,
   "Ranking_Rating": 881,
-  "Ranking_Popularity": 320,
-  "Ranking_PopularitySum": 303,
-  "NumberOfAwards": 352,
-  "NumberOfAwardsMax": 94,
-  "MaxAwardTitle": "Amazing Characters",
+  "Ranking_Popularity": 319,
+  "Ranking_PopularitySum": 302,
+  "NumberOfAwards": 358,
+  "NumberOfAwardsMax": 95,
+  "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
-  "LastChanged": "2023-04-12T08:57:10.4705156+00:00",
+  "LastChanged": "2023-04-12T11:57:10.2260081+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-29T02:58:45.3340124+00:00",
@@ -533,6 +533,12 @@
       "Rating": 3.91,
       "NumberOfAwards": 352,
       "NumberOfAwardsMax": 94
+    },
+    {
+      "Time": "2023-04-12T11:57:10.2260088+00:00",
+      "Rating": 3.91,
+      "NumberOfAwards": 358,
+      "NumberOfAwardsMax": 95
     }
   ],
   "Tags": [
@@ -546,7 +552,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 89
+      "Count": 95
     },
     {
       "Text": "This game has Amazing Characters",

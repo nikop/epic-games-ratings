@@ -3,14 +3,14 @@
   "Name": "Star Stable Online",
   "Rating": 4.41,
   "Ranking_Rating": 640,
-  "Ranking_Popularity": 294,
+  "Ranking_Popularity": 293,
   "Ranking_PopularitySum": 244,
   "NumberOfRatings": 317,
-  "NumberOfAwards": 780,
-  "NumberOfAwardsMax": 119,
+  "NumberOfAwards": 781,
+  "NumberOfAwardsMax": 120,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
-  "LastChanged": "2023-04-12T08:57:15.2779094+00:00",
+  "LastChanged": "2023-04-12T11:57:14.9321575+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:59.0360313+00:00",
@@ -824,6 +824,12 @@
       "Rating": 4.41,
       "NumberOfAwards": 780,
       "NumberOfAwardsMax": 119
+    },
+    {
+      "Time": "2023-04-12T11:57:14.9321579+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 781,
+      "NumberOfAwardsMax": 120
     }
   ],
   "Tags": [
@@ -855,7 +861,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 119
+      "Count": 120
     },
     {
       "Text": "This game is Highly Recommended",

@@ -3,14 +3,14 @@
   "Name": "Dying Light Enhanced Edition",
   "Rating": 4.51,
   "Ranking_Rating": 507,
-  "Ranking_Popularity": 35,
-  "Ranking_PopularitySum": 53,
+  "Ranking_Popularity": 32,
+  "Ranking_PopularitySum": 52,
   "NumberOfRatings": 3181,
-  "NumberOfAwards": 18322,
-  "NumberOfAwardsMax": 8631,
+  "NumberOfAwards": 19709,
+  "NumberOfAwardsMax": 10018,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:18:05.0678131+00:00",
-  "LastChanged": "2023-04-12T09:57:18.6347403+00:00",
+  "LastChanged": "2023-04-12T11:57:15.4894436+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:05.0678134+00:00",
@@ -2793,6 +2793,12 @@
       "Rating": 4.51,
       "NumberOfAwards": 18322,
       "NumberOfAwardsMax": 8631
+    },
+    {
+      "Time": "2023-04-12T11:57:15.4894565+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 19709,
+      "NumberOfAwardsMax": 10018
     }
   ],
   "Tags": [
@@ -2800,7 +2806,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 8631
+      "Count": 10018
     },
     {
       "Text": "This game has Great Boss Battles",
