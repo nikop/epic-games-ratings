@@ -1,5 +1,5 @@
 # The Fall
-Rating: 4.28 (Ranked 756)  
+Rating: 4.29 (Ranked 748)  
 Number of Ratings: 106  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 483)  
@@ -76,3 +76,4 @@ Diff (max vs sum): 0
 | 2022-12-08 | 4.29 | - | - |
 | 2023-03-07 | 4.28 | - | - |
 | 2023-03-31 | 4.28 | - | 0 |
+| 2023-04-12 | 4.29 | - | 0 |

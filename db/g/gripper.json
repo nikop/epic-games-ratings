@@ -1,12 +1,18 @@
 {
   "ID": "4acc3c00b76e48dca196601dfe1940fc",
   "Name": "Gripper",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
-  "DailyRatings": 0,
-  "FirstSeen": null,
-  "LastChanged": null,
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-12T09:57:52.0824759+00:00",
+  "FirstSeenRating": "2023-04-12T09:57:52.0824797+00:00",
+  "LastChanged": "2023-04-12T09:57:52.0824798+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-12T09:57:52.0824801+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -1,5 +1,5 @@
 # Rogue Company
-Rating: 4.34 (Ranked 710)  
+Rating: 4.34 (Ranked 711)  
 Number of Ratings: 21,107  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 4,774  (Ranked 62)  

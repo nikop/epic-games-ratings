@@ -3,14 +3,14 @@
   "Name": "Among Us",
   "Rating": 4.58,
   "Ranking_Rating": 404,
-  "Ranking_Popularity": 91,
+  "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 49,
   "NumberOfRatings": 26171,
-  "NumberOfAwards": 21584,
-  "NumberOfAwardsMax": 2343,
+  "NumberOfAwards": 21588,
+  "NumberOfAwardsMax": 2347,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:21:02.6618053+00:00",
-  "LastChanged": "2023-04-12T03:57:12.404646+00:00",
+  "LastChanged": "2023-04-12T09:57:40.5040961+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:02.6618056+00:00",
@@ -3466,6 +3466,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 21584,
       "NumberOfAwardsMax": 2343
+    },
+    {
+      "Time": "2023-04-12T09:57:40.5040962+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 21588,
+      "NumberOfAwardsMax": 2347
     }
   ],
   "Tags": [
@@ -3473,7 +3479,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 2343
+      "Count": 2347
     },
     {
       "Text": "This game is Great for Quick Sessions",
