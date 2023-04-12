@@ -3,7 +3,7 @@ Rating: 4.71 (Ranked 177)
 Number of Ratings: 9,133  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 7,073  (Ranked 42)  
-Sum: 26,464 (Ranked 39)  
+Sum: 26,465 (Ranked 39)  
 Diff (max vs sum): 3
 ## Awards
 | Award | Number of Ratings |
@@ -16,7 +16,7 @@ Diff (max vs sum): 3
 | This game is Extremely Fun | 1,595 |
 | This game is Highly Recommended | 1,585 |
 | This game has Amazing Characters | 1,576 |
-| This game has Realistic Visuals | 1,561 |
+| This game has Realistic Visuals | 1,562 |
 | This game is Educational | 1,514 |
 | This game is Relaxing | 1,458 |
 | This game has Obsessive Gameplay | 1,048 |

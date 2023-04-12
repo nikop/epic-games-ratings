@@ -1,15 +1,15 @@
 {
   "ID": "0e9ae0e756524ed49a27435c9c3c3e1c",
   "Name": "Chess Ultra",
-  "Rating": 4.26,
-  "Ranking_Rating": 764,
+  "Rating": 4.25,
+  "Ranking_Rating": 768,
   "Ranking_Popularity": 483,
   "Ranking_PopularitySum": 483,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-23T15:57:26.8098096+00:00",
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
-  "LastChanged": "2023-04-11T02:57:28.668985+00:00",
+  "LastChanged": "2023-04-12T18:57:03.091188+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-28T10:57:23.5590256+00:00",
@@ -116,6 +116,12 @@
     {
       "Time": "2023-04-11T02:57:28.6689851+00:00",
       "Rating": 4.26,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-12T18:57:03.0911883+00:00",
+      "Rating": 4.25,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

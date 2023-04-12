@@ -1,5 +1,5 @@
 # Black Widow: Recharged
-Rating: 4.25 (Ranked 769)  
+Rating: 4.25 (Ranked 768)  
 Number of Ratings: 34  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 483)  
