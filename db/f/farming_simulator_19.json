@@ -2,15 +2,15 @@
   "ID": "493e9ad801e8487497fe7840cb8404bb",
   "Name": "Farming Simulator 19",
   "Rating": 4.71,
-  "Ranking_Rating": 177,
+  "Ranking_Rating": 178,
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 23,
   "NumberOfRatings": 16706,
-  "NumberOfAwards": 46569,
+  "NumberOfAwards": 46572,
   "NumberOfAwardsMax": 6090,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:21:56.7737014+00:00",
-  "LastChanged": "2023-04-12T17:57:33.2935092+00:00",
+  "LastChanged": "2023-04-12T23:57:13.2773126+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:56.7737017+00:00",
@@ -3370,6 +3370,12 @@
       "Rating": 4.71,
       "NumberOfAwards": 46569,
       "NumberOfAwardsMax": 6090
+    },
+    {
+      "Time": "2023-04-12T23:57:13.2773208+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 46572,
+      "NumberOfAwardsMax": 6090
     }
   ],
   "Tags": [
@@ -3431,7 +3437,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 3781
+      "Count": 3784
     },
     {
       "Text": "This game has Easy Combat",

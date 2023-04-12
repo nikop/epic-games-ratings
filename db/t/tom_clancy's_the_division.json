@@ -3,14 +3,14 @@
   "Name": "Tom Clancy\u0027s The Division",
   "Rating": 4.58,
   "Ranking_Rating": 403,
-  "Ranking_Popularity": 234,
+  "Ranking_Popularity": 233,
   "Ranking_PopularitySum": 275,
   "NumberOfRatings": 247,
-  "NumberOfAwards": 581,
-  "NumberOfAwardsMax": 245,
+  "NumberOfAwards": 583,
+  "NumberOfAwardsMax": 247,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2023-04-09T15:56:50.552241+00:00",
+  "LastChanged": "2023-04-12T23:56:54.5898014+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:11.4605073+00:00",
@@ -552,6 +552,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 581,
       "NumberOfAwardsMax": 245
+    },
+    {
+      "Time": "2023-04-12T23:56:54.5898015+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 583,
+      "NumberOfAwardsMax": 247
     }
   ],
   "Tags": [
@@ -559,7 +565,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 245
+      "Count": 247
     },
     {
       "Text": "This game has Great Boss Battles",
