@@ -2,15 +2,15 @@
   "ID": "33956bcb55d4452d8c47e16b94e294bd",
   "Name": "Among Us",
   "Rating": 4.58,
-  "Ranking_Rating": 404,
+  "Ranking_Rating": 403,
   "Ranking_Popularity": 91,
   "Ranking_PopularitySum": 49,
   "NumberOfRatings": 26171,
-  "NumberOfAwards": 21593,
+  "NumberOfAwards": 21598,
   "NumberOfAwardsMax": 2347,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:21:02.6618053+00:00",
-  "LastChanged": "2023-04-12T13:57:14.5029569+00:00",
+  "LastChanged": "2023-04-12T19:57:18.156731+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:02.6618056+00:00",
@@ -3484,6 +3484,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 21593,
       "NumberOfAwardsMax": 2347
+    },
+    {
+      "Time": "2023-04-12T19:57:18.1567314+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 21598,
+      "NumberOfAwardsMax": 2347
     }
   ],
   "Tags": [
@@ -3539,7 +3545,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 1952
+      "Count": 1957
     },
     {
       "Text": "This game has Amazing Characters",

@@ -3,14 +3,14 @@
   "Name": "PUBG: BATTLEGROUNDS",
   "Rating": 3.99,
   "Ranking_Rating": 865,
-  "Ranking_Popularity": 113,
+  "Ranking_Popularity": 112,
   "Ranking_PopularitySum": 124,
-  "NumberOfAwards": 4630,
-  "NumberOfAwardsMax": 1426,
+  "NumberOfAwards": 4648,
+  "NumberOfAwardsMax": 1444,
   "MaxAwardTitle": "Competitive Players",
   "FirstSeen": "2022-12-06T17:57:24.6501738+00:00",
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
-  "LastChanged": "2023-04-12T06:57:18.094799+00:00",
+  "LastChanged": "2023-04-12T19:57:14.4609705+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-08T10:57:21.6139883+00:00",
@@ -611,6 +611,12 @@
       "Rating": 3.99,
       "NumberOfAwards": 4630,
       "NumberOfAwardsMax": 1426
+    },
+    {
+      "Time": "2023-04-12T19:57:14.4609708+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 4648,
+      "NumberOfAwardsMax": 1444
     }
   ],
   "Tags": [
@@ -642,7 +648,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 1426
+      "Count": 1444
     },
     {
       "Text": "This game has Quickly Understood Controls",

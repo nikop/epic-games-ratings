@@ -1,5 +1,5 @@
 # Way of the Hunter
-Rating: 4.35 (Ranked 704)  
+Rating: 4.35 (Ranked 705)  
 Number of Ratings: 190  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 38  (Ranked 407)  

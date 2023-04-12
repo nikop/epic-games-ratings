@@ -4,13 +4,13 @@
   "Rating": 4.62,
   "Ranking_Rating": 333,
   "Ranking_Popularity": 226,
-  "Ranking_PopularitySum": 326,
+  "Ranking_PopularitySum": 324,
   "NumberOfRatings": 777,
-  "NumberOfAwards": 271,
-  "NumberOfAwardsMax": 271,
+  "NumberOfAwards": 272,
+  "NumberOfAwardsMax": 272,
   "MaxAwardTitle": "Challenging Puzzles",
   "FirstSeen": "2022-07-22T20:29:58.1804178+00:00",
-  "LastChanged": "2023-04-08T16:58:13.9808315+00:00",
+  "LastChanged": "2023-04-12T19:58:05.4103319+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:58.180418+00:00",
@@ -554,6 +554,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 271,
       "NumberOfAwardsMax": 271
+    },
+    {
+      "Time": "2023-04-12T19:58:05.410332+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 272,
+      "NumberOfAwardsMax": 272
     }
   ],
   "Tags": [
@@ -561,7 +567,7 @@
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 271
+      "Count": 272
     }
   ]
 }

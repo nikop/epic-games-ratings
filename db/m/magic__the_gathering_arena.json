@@ -2,15 +2,15 @@
   "ID": "5fdcc0dc67294af3be740f362bd976fd",
   "Name": "Magic: The Gathering Arena",
   "Rating": 4.45,
-  "Ranking_Rating": 593,
+  "Ranking_Rating": 592,
   "Ranking_Popularity": 33,
   "Ranking_PopularitySum": 15,
   "NumberOfRatings": 14652,
-  "NumberOfAwards": 80735,
+  "NumberOfAwards": 80744,
   "NumberOfAwardsMax": 9772,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2023-04-12T15:57:18.5118465+00:00",
+  "LastChanged": "2023-04-12T19:57:15.0380449+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:26.803641+00:00",
@@ -3765,6 +3765,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 80735,
       "NumberOfAwardsMax": 9772
+    },
+    {
+      "Time": "2023-04-12T19:57:15.0380451+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 80744,
+      "NumberOfAwardsMax": 9772
     }
   ],
   "Tags": [
@@ -3796,7 +3802,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 7567
+      "Count": 7576
     },
     {
       "Text": "This game has Diverse Characters",

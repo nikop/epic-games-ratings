@@ -1,15 +1,15 @@
 # Crime Boss: Rockay City
 Rating: 3.91 (Ranked 881)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 95  (Ranked 319)  
-Sum: 453 (Ranked 289)  
-Diff (max vs sum): 30
+Max (Amazing Characters): 99  (Ranked 313)  
+Sum: 458 (Ranked 289)  
+Diff (max vs sum): 24
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
+| This game has Amazing Characters | 99 |
 | This game has Diverse Characters | 95 |
 | This game is Highly Recommended | 95 |
-| This game has Amazing Characters | 94 |
 | This game has Quickly Understood Controls | 85 |
 | This game has Challenging Combat | 84 |
 | This game is Great for Quick Sessions | 70 |
@@ -32,4 +32,4 @@ Diff (max vs sum): 30
 | 2023-04-09 | 3.88 | - | 81 |
 | 2023-04-10 | 3.89 | - | 91 |
 | 2023-04-11 | 3.89 | - | 94 |
-| 2023-04-12 | 3.91 | - | 95 |
+| 2023-04-12 | 3.91 | - | 99 |

@@ -3,14 +3,14 @@
   "Name": "Might \u0026 Magic: Chess Royale",
   "Rating": 4.5,
   "Ranking_Rating": 523,
-  "Ranking_Popularity": 321,
-  "Ranking_PopularitySum": 247,
+  "Ranking_Popularity": 320,
+  "Ranking_PopularitySum": 246,
   "NumberOfRatings": 238,
-  "NumberOfAwards": 749,
-  "NumberOfAwardsMax": 94,
+  "NumberOfAwards": 750,
+  "NumberOfAwardsMax": 95,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:27:16.1959446+00:00",
-  "LastChanged": "2023-04-10T13:03:08.4784622+00:00",
+  "LastChanged": "2023-04-12T19:57:51.2834722+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:16.1959449+00:00",
@@ -569,6 +569,12 @@
       "Rating": 4.5,
       "NumberOfAwards": 749,
       "NumberOfAwardsMax": 94
+    },
+    {
+      "Time": "2023-04-12T19:57:51.2834723+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 750,
+      "NumberOfAwardsMax": 95
     }
   ],
   "Tags": [
@@ -576,7 +582,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 94
+      "Count": 95
     },
     {
       "Text": "This game has Competitive Players",
