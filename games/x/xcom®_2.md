@@ -3,7 +3,7 @@ Rating: 4.54 (Ranked 469)
 Number of Ratings: 7,396  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 1,109  (Ranked 123)  
-Sum: 8,977 (Ranked 81)  
+Sum: 8,981 (Ranked 81)  
 Diff (max vs sum): 42
 ## Awards
 | Award | Number of Ratings |
@@ -15,7 +15,7 @@ Diff (max vs sum): 42
 | This game has Diverse Characters | 1,063 |
 | This game has Quickly Understood Controls | 1,061 |
 | This game is Extremely Fun | 1,053 |
-| This game has Amazing Characters | 1,001 |
+| This game has Amazing Characters | 1,005 |
 | This game has Obsessive Gameplay | 561 |
 | This game has a Creative Community | 448 |
 ## Ratings History
