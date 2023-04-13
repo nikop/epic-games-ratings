@@ -1,5 +1,5 @@
 # Journey
-Rating: 4.80 (Ranked 78)  
+Rating: 4.80 (Ranked 79)  
 Number of Ratings: 54  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  

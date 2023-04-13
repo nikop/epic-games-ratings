@@ -1,5 +1,5 @@
 # ELEX II
-Rating: 4.27 (Ranked 760)  
+Rating: 4.28 (Ranked 758)  
 Number of Ratings: 124  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
@@ -98,3 +98,4 @@ Diff (max vs sum): 0
 | 2023-03-30 | 4.28 | - | - |
 | 2023-03-31 | 4.28 | - | 0 |
 | 2023-04-10 | 4.27 | - | 0 |
+| 2023-04-13 | 4.28 | - | 0 |

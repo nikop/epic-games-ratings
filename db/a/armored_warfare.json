@@ -4,13 +4,13 @@
   "Rating": 4.1,
   "Ranking_Rating": 843,
   "Ranking_Popularity": 351,
-  "Ranking_PopularitySum": 272,
+  "Ranking_PopularitySum": 280,
   "NumberOfRatings": 458,
-  "NumberOfAwards": 594,
+  "NumberOfAwards": 553,
   "NumberOfAwardsMax": 71,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:16:52.6557809+00:00",
-  "LastChanged": "2023-04-13T15:57:04.698595+00:00",
+  "LastChanged": "2023-04-13T20:56:53.8009513+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:52.6557814+00:00",
@@ -849,6 +849,12 @@
       "Time": "2023-04-13T15:57:04.6985951+00:00",
       "Rating": 4.1,
       "NumberOfAwards": 594,
+      "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2023-04-13T20:56:53.8009514+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 553,
       "NumberOfAwardsMax": 71
     }
   ],

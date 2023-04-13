@@ -6,11 +6,11 @@
   "Ranking_Popularity": 7,
   "Ranking_PopularitySum": 8,
   "NumberOfRatings": 102658,
-  "NumberOfAwards": 336831,
+  "NumberOfAwards": 336899,
   "NumberOfAwardsMax": 133054,
   "MaxAwardTitle": "Impact the Story",
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-04-13T15:57:48.2702063+00:00",
+  "LastChanged": "2023-04-13T20:57:26.7289568+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:15.0342453+00:00",
@@ -4284,6 +4284,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 336831,
       "NumberOfAwardsMax": 133054
+    },
+    {
+      "Time": "2023-04-13T20:57:26.728957+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 336899,
+      "NumberOfAwardsMax": 133054
     }
   ],
   "Tags": [
@@ -4339,13 +4345,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 12346
+      "Count": 12381
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 12706
+      "Count": 12739
     },
     {
       "Text": "This game is Relaxing",
