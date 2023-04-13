@@ -87,7 +87,7 @@
 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 719 | 113 | 300 |
 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 508 | 4,039 | 71 |
 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 191 | 4,473 | 66 |
-| [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 311 | 5,859 | 54 |
+| [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 311 | 5,861 | 54 |
 | [Black Book](games/b/black_book.md) | 4.87 | 24 | 21 | 472 |
 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 768 | 0 | 483 |
 | [BLACKTAIL](games/b/blacktail.md) | 4.73 | 154 | 0 | 483 |
@@ -123,7 +123,7 @@
 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.74 | 140 | 0 | 483 |
 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 55 | 0 | 483 |
 | [Chimeraland](games/c/chimeraland.md) | 3.90 | 884 | 0 | 483 |
-| [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 351 | 3,943 | 72 |
+| [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 351 | 3,946 | 72 |
 | [Chorus](games/c/chorus.md) | 4.47 | 566 | 32 | 427 |
 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 842 | 0 | 483 |
 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 820 | 0 | 483 |
@@ -154,15 +154,15 @@
 | [CryoFall](games/c/cryofall.md) | 4.50 | 524 | 0 | 483 |
 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 351 | 209 | 249 |
 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 289 | 163 | 272 |
-| [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 657 | 242 | 236 |
+| [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 657 | 243 | 236 |
 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 191 | 0 | 483 |
 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 289 | 112 | 302 |
 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 333 | 61,228 | 9 |
-| [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 657 | 972 | 136 |
+| [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 657 | 972 | 137 |
 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.29 | 748 | 0 | 483 |
 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 438 | 50 | 378 |
 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 524 | 0 | 483 |
-| [Dark Deity](games/d/dark_deity.md) | 4.16 | 820 | 605 | 161 |
+| [Dark Deity](games/d/dark_deity.md) | 4.16 | 820 | 605 | 162 |
 | [Dark Light](games/d/dark_light.md) | 4.33 | 719 | 0 | 483 |
 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 256 | 6,434 | 46 |
 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 124 | 3,141 | 83 |
@@ -180,7 +180,7 @@
 | [Dead Space](games/d/dead_space.md) | 4.73 | 154 | 33 | 424 |
 | [Death Coming](games/d/death_coming.md) | 4.42 | 631 | 0 | 483 |
 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 100 | 4,459 | 67 |
-| [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 13 | 6,669 | 45 |
+| [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 13 | 6,677 | 45 |
 | [Death's Door](games/d/death's_door.md) | 4.66 | 273 | 0 | 483 |
 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 480 | 33 | 424 |
 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.39 | 665 | 0 | 483 |
@@ -290,7 +290,7 @@
 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 793 | 33 | 424 |
 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 665 | 0 | 483 |
 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 234 | 284,487 | 3 |
-| [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 468 | 970 | 137 |
+| [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 468 | 973 | 136 |
 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 423 | 24 | 459 |
 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 538 | 210 | 247 |
 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 577 | 105 | 307 |
@@ -459,11 +459,11 @@
 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 759 | 0 | 483 |
 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 676 | 161 | 275 |
 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 403 | 22 | 465 |
-| [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 140 | 6,362 | 48 |
+| [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 140 | 6,370 | 48 |
 | [Moving Out](games/m/moving_out.md) | 4.59 | 388 | 0 | 483 |
 | [MudRunner](games/m/mudrunner.md) | 4.62 | 333 | 228 | 240 |
 | [MultiVersus](games/m/multiversus.md) | 4.56 | 438 | 4,729 | 63 |
-| [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 538 | 605 | 161 |
+| [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 538 | 606 | 161 |
 | [Mutazione](games/m/mutazione.md) | 4.64 | 311 | 0 | 483 |
 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 693 | 0 | 483 |
 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 256 | 2,205 | 95 |
