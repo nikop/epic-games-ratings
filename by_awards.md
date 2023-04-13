@@ -76,7 +76,7 @@
 | 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 3,854 | 4.77 | 105 |
 | 75 | [Days Gone](games/d/days_gone.md) | 3,709 | 4.69 | 212 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 3,681 | 4.56 | 438 |
-| 77 | [SMITE](games/s/smite.md) | 3,607 | 4.45 | 592 |
+| 77 | [SMITE](games/s/smite.md) | 3,617 | 4.45 | 592 |
 | 78 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,559 | 4.30 | 740 |
 | 79 | [Gloomhaven](games/g/gloomhaven.md) | 3,423 | 4.47 | 566 |
 | 80 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,315 | 4.68 | 234 |
@@ -85,7 +85,7 @@
 | 83 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,141 | 4.75 | 124 |
 | 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,119 | 4.59 | 388 |
 | 85 | [Hades](games/h/hades.md) | 2,988 | 4.92 | 4 |
-| 86 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 2,984 | 4.57 | 423 |
+| 86 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 2,987 | 4.57 | 423 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 2,929 | 4.68 | 234 |
 | 88 | [Rage 2](games/r/rage_2.md) | 2,415 | 4.28 | 757 |
 | 89 | [Path of Exile](games/p/path_of_exile.md) | 2,409 | 4.61 | 351 |

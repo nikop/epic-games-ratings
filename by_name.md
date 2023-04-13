@@ -524,7 +524,7 @@
 | [Partisans 1941](games/p/partisans_1941.md) | 4.60 | 373 | 0 | 483 |
 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 719 | 0 | 483 |
 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 351 | 2,409 | 89 |
-| [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 423 | 2,984 | 86 |
+| [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 423 | 2,987 | 86 |
 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 111 | 1,607 | 109 |
 | [Pathway](games/p/pathway.md) | 4.45 | 592 | 0 | 483 |
 | [Patron](games/p/patron.md) | 3.94 | 875 | 0 | 483 |
@@ -640,7 +640,7 @@
 | [Slipways](games/s/slipways.md) | 4.73 | 154 | 0 | 483 |
 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 111 | 0 | 483 |
 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.67 | 256 | 0 | 483 |
-| [SMITE](games/s/smite.md) | 4.45 | 592 | 3,607 | 77 |
+| [SMITE](games/s/smite.md) | 4.45 | 592 | 3,617 | 77 |
 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.38 | 676 | 0 | 483 |
 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 111 | 7,508 | 39 |
 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 273 | 24 | 459 |

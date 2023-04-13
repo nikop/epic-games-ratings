@@ -432,7 +432,7 @@
 | 423 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 35 | 417 |
 | 423 | [Hob](games/h/hob.md) | 4.57 | 0 | 483 |
 | 423 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,092 | 42 |
-| 423 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 2,984 | 86 |
+| 423 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 2,987 | 86 |
 | 423 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 116 | 296 |
 | 423 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 17,716 | 17 |
 | 423 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,680 | 108 |
@@ -602,7 +602,7 @@
 | 592 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 483 |
 | 592 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 845 | 142 |
 | 592 | [Predecessor](games/p/predecessor.md) | 4.45 | 51 | 377 |
-| 592 | [SMITE](games/s/smite.md) | 4.45 | 3,607 | 77 |
+| 592 | [SMITE](games/s/smite.md) | 4.45 | 3,617 | 77 |
 | 592 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.45 | 0 | 483 |
 | 592 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 113 | 300 |
 | 592 | [Weird West](games/w/weird_west.md) | 4.45 | 22 | 465 |
