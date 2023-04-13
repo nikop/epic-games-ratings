@@ -17,16 +17,16 @@
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 26,362 | 4.52 | 497 |
 | 16 | [Dauntless](games/d/dauntless.md) | 19,383 | 4.53 | 480 |
 | 17 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 17,716 | 4.57 | 423 |
-| 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 17,268 | 4.78 | 100 |
+| 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 17,313 | 4.78 | 100 |
 | 19 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 14,406 | 4.89 | 13 |
 | 20 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,307 | 4.58 | 403 |
 | 21 | [Warframe](games/w/warframe.md) | 14,028 | 4.61 | 351 |
 | 22 | [Borderlands 2](games/b/borderlands_2.md) | 13,875 | 4.76 | 111 |
-| 23 | [Maneater](games/m/maneater.md) | 13,378 | 4.49 | 538 |
+| 23 | [Maneater](games/m/maneater.md) | 13,381 | 4.49 | 538 |
 | 24 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,144 | 4.60 | 373 |
 | 25 | [League of Legends](games/l/league_of_legends.md) | 12,434 | 4.21 | 787 |
 | 26 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,205 | 4.37 | 688 |
-| 27 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,762 | 4.41 | 640 |
+| 27 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,767 | 4.41 | 640 |
 | 28 | [NBA 2K21](games/n/nba_2k21.md) | 11,631 | 4.39 | 665 |
 | 29 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 11,300 | 4.60 | 373 |
 | 30 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,277 | 4.87 | 24 |
@@ -35,14 +35,14 @@
 | 33 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 9,772 | 4.45 | 592 |
 | 34 | [Satisfactory](games/s/satisfactory.md) | 8,988 | 4.88 | 20 |
 | 35 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 8,906 | 4.60 | 373 |
-| 36 | [HITMAN 3](games/h/hitman_3.md) | 8,584 | 4.78 | 100 |
+| 36 | [HITMAN 3](games/h/hitman_3.md) | 8,596 | 4.78 | 100 |
 | 37 | [Control](games/c/control.md) | 8,216 | 4.60 | 373 |
 | 38 | [Supraland](games/s/supraland.md) | 7,596 | 4.61 | 351 |
 | 39 | [SnowRunner](games/s/snowrunner.md) | 7,508 | 4.76 | 111 |
 | 40 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,453 | 4.85 | 38 |
-| 41 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,092 | 4.57 | 423 |
-| 42 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,073 | 4.71 | 178 |
-| 43 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 6,943 | 4.24 | 773 |
+| 41 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 7,189 | 4.24 | 773 |
+| 42 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,092 | 4.57 | 423 |
+| 43 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,073 | 4.71 | 178 |
 | 44 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 631 |
 | 45 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,669 | 4.89 | 13 |
 | 46 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 6,434 | 4.67 | 256 |
@@ -134,7 +134,7 @@
 | 132 | [Ooblets](games/o/ooblets.md) | 994 | 4.87 | 24 |
 | 133 | [World of Warships](games/w/world_of_warships.md) | 981 | 4.44 | 608 |
 | 134 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 976 | 4.24 | 773 |
-| 135 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 973 | 4.79 | 91 |
+| 135 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 974 | 4.79 | 91 |
 | 136 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 972 | 4.40 | 657 |
 | 137 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 970 | 4.54 | 468 |
 | 138 | [Torchlight II](games/t/torchlight_ii.md) | 960 | 4.58 | 403 |
@@ -274,7 +274,7 @@
 | 272 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 163 | 4.65 | 289 |
 | 272 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 163 | 4.58 | 403 |
 | 274 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 162 | 4.38 | 676 |
-| 275 | [Mothergunship](games/m/mothergunship.md) | 160 | 4.38 | 676 |
+| 275 | [Mothergunship](games/m/mothergunship.md) | 161 | 4.38 | 676 |
 | 276 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 158 | 4.80 | 78 |
 | 277 | [Severed Steel](games/s/severed_steel.md) | 156 | 4.68 | 234 |
 | 278 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 148 | 4.57 | 423 |

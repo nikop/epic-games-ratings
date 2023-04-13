@@ -217,7 +217,7 @@
 | [Duskers](games/d/duskers.md) | 4.47 | 566 | 0 | 483 |
 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 423 | 6,330 | 49 |
 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.52 | 497 | 10,018 | 32 |
-| [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 773 | 6,943 | 43 |
+| [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 773 | 7,189 | 41 |
 | [Eastward](games/e/eastward.md) | 4.67 | 256 | 0 | 483 |
 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 894 | 0 | 483 |
 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 538 | 0 | 483 |
@@ -339,9 +339,9 @@
 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.92 | 4 | 0 | 483 |
 | [High On Life](games/h/high_on_life.md) | 4.68 | 234 | 0 | 483 |
 | [HITMAN](games/h/hitman.md) | 4.64 | 311 | 195 | 255 |
-| [HITMAN 3](games/h/hitman_3.md) | 4.78 | 100 | 8,584 | 36 |
+| [HITMAN 3](games/h/hitman_3.md) | 4.78 | 100 | 8,596 | 36 |
 | [Hob](games/h/hob.md) | 4.57 | 423 | 0 | 483 |
-| [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 100 | 17,268 | 18 |
+| [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 100 | 17,313 | 18 |
 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 538 | 2,125 | 98 |
 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 865 | 367 | 202 |
 | [Horace](games/h/horace.md) | 4.50 | 524 | 0 | 483 |
@@ -390,14 +390,14 @@
 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.11 | 837 | 0 | 483 |
 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 69 | 0 | 483 |
 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 624 | 0 | 483 |
-| [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 640 | 11,762 | 27 |
+| [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 640 | 11,767 | 27 |
 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 256 | 0 | 483 |
 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 814 | 0 | 483 |
 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 60 | 0 | 483 |
 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 178 | 0 | 483 |
 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 705 | 0 | 483 |
 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 111 | 0 | 483 |
-| [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 178 | 7,073 | 42 |
+| [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 178 | 7,073 | 43 |
 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 60 | 470 | 183 |
 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 124 | 95 | 320 |
 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 91 | 879 | 141 |
@@ -437,13 +437,13 @@
 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 676 | 162 | 274 |
 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 592 | 9,772 | 33 |
 | [Mago](games/m/mago.md) | 4.90 | 8 | 0 | 483 |
-| [Maneater](games/m/maneater.md) | 4.49 | 538 | 13,378 | 23 |
+| [Maneater](games/m/maneater.md) | 4.49 | 538 | 13,381 | 23 |
 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 524 | 0 | 483 |
 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.03 | 860 | 0 | 483 |
 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 154 | 541 | 173 |
 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 480 | 1,032 | 128 |
 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 24 | 11,277 | 30 |
-| [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 91 | 973 | 135 |
+| [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 91 | 974 | 135 |
 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 351 | 1,059 | 125 |
 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 289 | 48 | 384 |
 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 212 | 1,168 | 121 |
@@ -457,7 +457,7 @@
 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 178 | 0 | 483 |
 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 212 | 0 | 483 |
 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 759 | 0 | 483 |
-| [Mothergunship](games/m/mothergunship.md) | 4.38 | 676 | 160 | 275 |
+| [Mothergunship](games/m/mothergunship.md) | 4.38 | 676 | 161 | 275 |
 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 403 | 22 | 465 |
 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 140 | 6,362 | 48 |
 | [Moving Out](games/m/moving_out.md) | 4.59 | 388 | 0 | 483 |
@@ -483,7 +483,7 @@
 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 480 | 0 | 483 |
 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 154 | 139 | 283 |
 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 78 | 2,327 | 92 |
-| [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 423 | 7,092 | 41 |
+| [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 423 | 7,092 | 42 |
 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 212 | 0 | 483 |
 | [NORCO](games/n/norco.md) | 4.62 | 333 | 0 | 483 |
 | [Northgard](games/n/northgard.md) | 4.71 | 178 | 27 | 446 |
