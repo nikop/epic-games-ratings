@@ -1,8 +1,8 @@
 {
   "ID": "39c6dd5409944922a04cac3f59fbbcd4",
   "Name": "Shadow Tactics - Aiko\u0027s Choice",
-  "Rating": 4.72,
-  "Ranking_Rating": 166,
+  "Rating": 4.71,
+  "Ranking_Rating": 177,
   "Ranking_Popularity": 360,
   "Ranking_PopularitySum": 413,
   "NumberOfRatings": 68,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 66,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:30:07.8581549+00:00",
-  "LastChanged": "2023-04-12T10:58:23.2233376+00:00",
+  "LastChanged": "2023-04-13T10:58:26.4719822+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:07.8581551+00:00",
@@ -338,6 +338,12 @@
     {
       "Time": "2023-04-12T10:58:23.2233378+00:00",
       "Rating": 4.72,
+      "NumberOfAwards": 66,
+      "NumberOfAwardsMax": 66
+    },
+    {
+      "Time": "2023-04-13T10:58:26.4719824+00:00",
+      "Rating": 4.71,
       "NumberOfAwards": 66,
       "NumberOfAwardsMax": 66
     }

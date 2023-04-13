@@ -1,5 +1,5 @@
 # Ring of Pain
-Rating: 4.58 (Ranked 403)  
+Rating: 4.58 (Ranked 404)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 1,468  (Ranked 111)  

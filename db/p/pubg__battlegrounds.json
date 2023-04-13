@@ -4,13 +4,13 @@
   "Rating": 3.99,
   "Ranking_Rating": 865,
   "Ranking_Popularity": 112,
-  "Ranking_PopularitySum": 124,
-  "NumberOfAwards": 4676,
+  "Ranking_PopularitySum": 123,
+  "NumberOfAwards": 4688,
   "NumberOfAwardsMax": 1444,
   "MaxAwardTitle": "Competitive Players",
   "FirstSeen": "2022-12-06T17:57:24.6501738+00:00",
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
-  "LastChanged": "2023-04-13T08:57:27.3704824+00:00",
+  "LastChanged": "2023-04-13T10:57:19.3976035+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-08T10:57:21.6139883+00:00",
@@ -629,6 +629,12 @@
       "Rating": 3.99,
       "NumberOfAwards": 4676,
       "NumberOfAwardsMax": 1444
+    },
+    {
+      "Time": "2023-04-13T10:57:19.3976036+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 4688,
+      "NumberOfAwardsMax": 1444
     }
   ],
   "Tags": [
@@ -672,7 +678,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 826
+      "Count": 838
     },
     {
       "Text": "This game is Relaxing",
