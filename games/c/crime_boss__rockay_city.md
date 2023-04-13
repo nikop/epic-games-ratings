@@ -2,7 +2,7 @@
 Rating: 3.91 (Ranked 881)  
 ## Popularity (Based on Awards)
 Max (Amazing Characters): 99  (Ranked 313)  
-Sum: 470 (Ranked 288)  
+Sum: 478 (Ranked 288)  
 Diff (max vs sum): 25
 ## Awards
 | Award | Number of Ratings |
@@ -11,7 +11,7 @@ Diff (max vs sum): 25
 | This game has Diverse Characters | 98 |
 | This game is Highly Recommended | 95 |
 | This game has Quickly Understood Controls | 94 |
-| This game has Challenging Combat | 84 |
+| This game has Challenging Combat | 92 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
 | This game has a Silly Community | 33 |

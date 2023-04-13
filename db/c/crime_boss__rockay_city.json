@@ -5,12 +5,12 @@
   "Ranking_Rating": 881,
   "Ranking_Popularity": 313,
   "Ranking_PopularitySum": 288,
-  "NumberOfAwards": 470,
+  "NumberOfAwards": 478,
   "NumberOfAwardsMax": 99,
   "MaxAwardTitle": "Amazing Characters",
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
-  "LastChanged": "2023-04-13T13:04:22.7189266+00:00",
+  "LastChanged": "2023-04-13T14:57:18.3793165+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-29T02:58:45.3340124+00:00",
@@ -563,6 +563,12 @@
       "Rating": 3.91,
       "NumberOfAwards": 470,
       "NumberOfAwardsMax": 99
+    },
+    {
+      "Time": "2023-04-13T14:57:18.3793171+00:00",
+      "Rating": 3.91,
+      "NumberOfAwards": 478,
+      "NumberOfAwardsMax": 99
     }
   ],
   "Tags": [
@@ -594,7 +600,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 84
+      "Count": 92
     },
     {
       "Text": "This game has Amazing Storytelling",

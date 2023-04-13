@@ -1,5 +1,5 @@
 # Huntdown
-Rating: 4.85 (Ranked 38)  
+Rating: 4.85 (Ranked 37)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 483)  
 Sum: 0 (Ranked 483)  

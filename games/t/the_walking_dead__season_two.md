@@ -1,5 +1,5 @@
 # The Walking Dead: Season Two
-Rating: 4.87 (Ranked 24)  
+Rating: 4.85 (Ranked 37)  
 Number of Ratings: 24  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 483)  
@@ -29,3 +29,4 @@ Diff (max vs sum): 0
 | 2022-12-28 | 4.86 | - | - |
 | 2023-03-03 | 4.87 | - | - |
 | 2023-03-31 | 4.87 | - | 0 |
+| 2023-04-13 | 4.85 | - | 0 |
