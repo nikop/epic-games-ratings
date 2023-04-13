@@ -19,7 +19,7 @@
 | 13 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 132,862 | 7 |
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 394 | 194 |
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 14,406 | 19 |
-| 20 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 126 | 289 |
+| 20 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 127 | 288 |
 | 20 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 0 | 483 |
 | 20 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 8,988 | 34 |
 | 20 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 483 |
@@ -60,7 +60,7 @@
 | 55 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 0 | 483 |
 | 55 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.83 | 0 | 483 |
 | 60 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 483 |
-| 60 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,179 | 119 |
+| 60 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,181 | 119 |
 | 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,406 | 59 |
 | 60 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 483 |
 | 60 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 483 |
@@ -497,7 +497,7 @@
 | 480 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 258 | 232 |
 | 480 | [Verdun](games/v/verdun.md) | 4.53 | 93 | 323 |
 | 497 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 724 | 150 |
-| 497 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 26,332 | 15 |
+| 497 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 26,362 | 15 |
 | 497 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.52 | 10,018 | 32 |
 | 497 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 493 | 179 |
 | 497 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 98 | 315 |
@@ -673,23 +673,23 @@
 | 665 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 0 | 483 |
 | 665 | [Tacoma](games/t/tacoma.md) | 4.39 | 0 | 483 |
 | 665 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 321 | 209 |
+| 665 | [Tunche](games/t/tunche.md) | 4.39 | 0 | 483 |
 | 665 | [Warpips](games/w/warpips.md) | 4.39 | 0 | 483 |
-| 675 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 483 |
-| 675 | [Core](games/c/core.md) | 4.38 | 723 | 151 |
-| 675 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 0 | 483 |
-| 675 | [Hammerting](games/h/hammerting.md) | 4.38 | 0 | 483 |
-| 675 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 0 | 483 |
-| 675 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 539 | 174 |
-| 675 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 162 | 274 |
-| 675 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 160 | 275 |
-| 675 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.38 | 0 | 483 |
-| 675 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 0 | 483 |
-| 675 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 483 |
-| 675 | [Tunche](games/t/tunche.md) | 4.38 | 0 | 483 |
-| 675 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 31 | 433 |
+| 676 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 483 |
+| 676 | [Core](games/c/core.md) | 4.38 | 723 | 151 |
+| 676 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 0 | 483 |
+| 676 | [Hammerting](games/h/hammerting.md) | 4.38 | 0 | 483 |
+| 676 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 0 | 483 |
+| 676 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 539 | 174 |
+| 676 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 162 | 274 |
+| 676 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 160 | 275 |
+| 676 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.38 | 0 | 483 |
+| 676 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 0 | 483 |
+| 676 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 483 |
+| 676 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 31 | 433 |
 | 688 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.37 | 0 | 483 |
 | 688 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 483 |
-| 688 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 12,203 | 26 |
+| 688 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 12,205 | 26 |
 | 688 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,125 | 98 |
 | 688 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 483 |
 | 693 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 266 |
@@ -869,7 +869,7 @@
 | 865 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 0 | 483 |
 | 868 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 483 |
 | 868 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 0 | 483 |
-| 868 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,504 | 65 |
+| 868 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,507 | 65 |
 | 868 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 483 |
 | 872 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 483 |
 | 873 | [Banished](games/b/banished.md) | 3.96 | 0 | 483 |

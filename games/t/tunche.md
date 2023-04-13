@@ -1,5 +1,5 @@
 # Tunche
-Rating: 4.38 (Ranked 675)  
+Rating: 4.39 (Ranked 665)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 483)  
 Sum: 0 (Ranked 483)  
@@ -22,3 +22,4 @@ Diff (max vs sum): 0
 | 2023-04-09 | 4.35 | - | 0 |
 | 2023-04-10 | 4.36 | - | 0 |
 | 2023-04-12 | 4.38 | - | 0 |
+| 2023-04-13 | 4.39 | - | 0 |
