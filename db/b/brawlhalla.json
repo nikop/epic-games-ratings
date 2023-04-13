@@ -2,15 +2,15 @@
   "ID": "15e6680a0c164ee189fcc3eb10398fd6",
   "Name": "Brawlhalla",
   "Rating": 4.56,
-  "Ranking_Rating": 437,
+  "Ranking_Rating": 438,
   "Ranking_Popularity": 358,
   "Ranking_PopularitySum": 260,
-  "NumberOfAwards": 659,
+  "NumberOfAwards": 660,
   "NumberOfAwardsMax": 68,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-04-13T18:56:45.1373209+00:00",
+  "LastChanged": "2023-04-13T19:57:03.3756836+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-21T06:57:02.0735411+00:00",
@@ -797,6 +797,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 659,
       "NumberOfAwardsMax": 68
+    },
+    {
+      "Time": "2023-04-13T19:57:03.3756838+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 660,
+      "NumberOfAwardsMax": 68
     }
   ],
   "Tags": [
@@ -822,7 +828,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 64
+      "Count": 65
     },
     {
       "Text": "This game is Relaxing",

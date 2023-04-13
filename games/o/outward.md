@@ -1,10 +1,10 @@
 # Outward
-Rating: 4.54 (Ranked 468)  
+Rating: 4.54 (Ranked 469)  
 Number of Ratings: 266  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Amazing Characters): 31  (Ranked 433)  
+Max (Amazing Characters): 31  (Ranked 434)  
 Sum: 238 (Ranked 337)  
-Diff (max vs sum): 96
+Diff (max vs sum): 97
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

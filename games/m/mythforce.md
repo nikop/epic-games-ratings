@@ -1,10 +1,10 @@
 # MythForce
-Rating: 4.51 (Ranked 508)  
+Rating: 4.51 (Ranked 509)  
 Number of Ratings: 285  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Highly Recommended): 32  (Ranked 427)  
+Max (Highly Recommended): 32  (Ranked 428)  
 Sum: 219 (Ranked 341)  
-Diff (max vs sum): 86
+Diff (max vs sum): 87
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

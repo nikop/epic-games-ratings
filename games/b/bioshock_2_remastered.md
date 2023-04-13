@@ -1,14 +1,14 @@
 # BioShock 2 Remastered
-Rating: 4.51 (Ranked 508)  
+Rating: 4.51 (Ranked 509)  
 Number of Ratings: 12,272  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 4,039  (Ranked 71)  
-Sum: 5,164 (Ranked 117)  
+Max (Great Boss Battles): 4,042  (Ranked 71)  
+Sum: 5,168 (Ranked 117)  
 Diff (max vs sum): -46
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 4,039 |
+| This game has Great Boss Battles | 4,042 |
 | This game is Highly Recommended | 156 |
 | This game has Unique Visuals | 147 |
 | This game has Diverse Characters | 146 |
@@ -16,7 +16,7 @@ Diff (max vs sum): -46
 | This game has Quickly Understood Controls | 125 |
 | This game has Amazing Storytelling | 122 |
 | This game is Relaxing | 120 |
-| This game has Amazing Characters | 112 |
+| This game has Amazing Characters | 113 |
 | This game is Great for Beginners | 106 |
 | This game has Obsessive Gameplay | 87 |
 | This game has a Creative Community | 76 |
@@ -98,3 +98,4 @@ Diff (max vs sum): -46
 | 2023-04-10 | 4.51 | - | 4,037 |
 | 2023-04-11 | 4.51 | - | 4,037 |
 | 2023-04-12 | 4.51 | - | 4,039 |
+| 2023-04-13 | 4.51 | - | 4,042 |

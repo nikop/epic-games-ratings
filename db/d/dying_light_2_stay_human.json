@@ -2,15 +2,15 @@
   "ID": "87b7846d2eba4bc49eead0854323aba8",
   "Name": "Dying Light 2 Stay Human",
   "Rating": 4.57,
-  "Ranking_Rating": 423,
+  "Ranking_Rating": 424,
   "Ranking_Popularity": 49,
   "Ranking_PopularitySum": 59,
   "NumberOfRatings": 7305,
-  "NumberOfAwards": 14578,
+  "NumberOfAwards": 14589,
   "NumberOfAwardsMax": 6330,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
-  "LastChanged": "2023-04-13T16:57:18.298792+00:00",
+  "LastChanged": "2023-04-13T19:57:21.5544123+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:57.6151267+00:00",
@@ -3141,6 +3141,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 14578,
       "NumberOfAwardsMax": 6330
+    },
+    {
+      "Time": "2023-04-13T19:57:21.5544125+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 14589,
+      "NumberOfAwardsMax": 6330
     }
   ],
   "Tags": [
@@ -3154,7 +3160,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3722
+      "Count": 3733
     },
     {
       "Text": "This game is Extremely Fun",

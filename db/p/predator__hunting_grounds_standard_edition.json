@@ -2,15 +2,15 @@
   "ID": "5a82d5954a1943d79dc6b49cde2fe972",
   "Name": "Predator: Hunting Grounds Standard Edition",
   "Rating": 4.45,
-  "Ranking_Rating": 592,
+  "Ranking_Rating": 593,
   "Ranking_Popularity": 142,
   "Ranking_PopularitySum": 169,
   "NumberOfRatings": 1373,
-  "NumberOfAwards": 2299,
-  "NumberOfAwardsMax": 845,
+  "NumberOfAwards": 2300,
+  "NumberOfAwardsMax": 846,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:19:15.8732166+00:00",
-  "LastChanged": "2023-04-12T01:56:15.6144477+00:00",
+  "LastChanged": "2023-04-13T19:57:23.8080301+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:15.8732169+00:00",
@@ -1766,6 +1766,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 2299,
       "NumberOfAwardsMax": 845
+    },
+    {
+      "Time": "2023-04-13T19:57:23.8080302+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 2300,
+      "NumberOfAwardsMax": 846
     }
   ],
   "Tags": [
@@ -1845,7 +1851,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 845
+      "Count": 846
     }
   ]
 }

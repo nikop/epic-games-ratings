@@ -1,5 +1,5 @@
 # The Banner Saga Epic Trilogy
-Rating: 4.64 (Ranked 310)  
+Rating: 4.64 (Ranked 311)  
 Number of Ratings: 20  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  

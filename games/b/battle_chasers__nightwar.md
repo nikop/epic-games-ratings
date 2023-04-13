@@ -1,5 +1,5 @@
 # Battle Chasers: Nightwar
-Rating: 4.64 (Ranked 310)  
+Rating: 4.64 (Ranked 311)  
 Number of Ratings: 32  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  

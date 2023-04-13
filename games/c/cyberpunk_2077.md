@@ -1,15 +1,15 @@
 # Cyberpunk 2077
-Rating: 4.62 (Ranked 333)  
+Rating: 4.62 (Ranked 334)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 61,340  (Ranked 9)  
-Sum: 159,803 (Ranked 13)  
+Sum: 159,865 (Ranked 13)  
 Diff (max vs sum): -4
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Inclusive Character Customization | 61,340 |
-| This game has Great Boss Battles | 39,244 |
+| This game has Great Boss Battles | 39,301 |
 | This game has Amazing Storytelling | 6,988 |
 | This game is Great for Beginners | 6,913 |
 | This game has Diverse Characters | 6,895 |
@@ -18,7 +18,7 @@ Diff (max vs sum): -4
 | This game is Highly Recommended | 6,809 |
 | This game has Quickly Understood Controls | 6,743 |
 | This game has Amazing Characters | 6,673 |
-| This game has a Creative Community | 4,450 |
+| This game has a Creative Community | 4,455 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |

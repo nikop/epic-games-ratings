@@ -1,9 +1,9 @@
 # League of Legends
-Rating: 4.21 (Ranked 787)  
+Rating: 4.21 (Ranked 788)  
 Number of Ratings: 10,796  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 12,434  (Ranked 25)  
-Sum: 25,537 (Ranked 43)  
+Sum: 25,543 (Ranked 43)  
 Diff (max vs sum): -18
 ## Awards
 | Award | Number of Ratings |
@@ -14,7 +14,7 @@ Diff (max vs sum): -18
 | This game has Amazing Characters | 2,130 |
 | This game has Competitive Players | 2,106 |
 | This game has Amazing Storytelling | 1,983 |
-| This game has a Competitive Community | 1,931 |
+| This game has a Competitive Community | 1,937 |
 | This game has Obsessive Gameplay | 403 |
 | This game has Quickly Understood Controls | 260 |
 ## Ratings History

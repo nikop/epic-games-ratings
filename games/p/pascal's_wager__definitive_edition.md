@@ -1,5 +1,5 @@
 # Pascal's Wager: Definitive Edition
-Rating: 4.33 (Ranked 719)  
+Rating: 4.33 (Ranked 720)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  

@@ -1,5 +1,5 @@
 # Idle Champions of the Forgotten Realms
-Rating: 4.06 (Ranked 854)  
+Rating: 4.06 (Ranked 855)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 4,828  (Ranked 61)  

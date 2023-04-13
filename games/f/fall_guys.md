@@ -1,9 +1,9 @@
 # Fall Guys
-Rating: 4.53 (Ranked 480)  
+Rating: 4.53 (Ranked 481)  
 Number of Ratings: 1,046,587  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 137,466  (Ranked 6)  
-Sum: 1,289,455 (Ranked 3)  
+Sum: 1,289,466 (Ranked 3)  
 Diff (max vs sum): 3
 ## Awards
 | Award | Number of Ratings |
@@ -14,7 +14,7 @@ Diff (max vs sum): 3
 | This game has Quickly Understood Controls | 126,484 |
 | This game is Great for Quick Sessions | 121,251 |
 | This game has Diverse Characters | 118,858 |
-| This game is Extremely Fun | 115,798 |
+| This game is Extremely Fun | 115,809 |
 | This game is Highly Recommended | 108,953 |
 | This game has Amazing Characters | 106,297 |
 | This game has Amazing Storytelling | 101,368 |

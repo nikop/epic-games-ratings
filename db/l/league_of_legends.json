@@ -2,15 +2,15 @@
   "ID": "24b9b5e323bc40eea252a10cdd3b2f10",
   "Name": "League of Legends",
   "Rating": 4.21,
-  "Ranking_Rating": 787,
+  "Ranking_Rating": 788,
   "Ranking_Popularity": 25,
   "Ranking_PopularitySum": 43,
   "NumberOfRatings": 10796,
-  "NumberOfAwards": 25537,
+  "NumberOfAwards": 25543,
   "NumberOfAwardsMax": 12434,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
-  "LastChanged": "2023-04-13T17:58:52.4739693+00:00",
+  "LastChanged": "2023-04-13T19:59:16.3700845+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:19.1268614+00:00",
@@ -3824,6 +3824,12 @@
       "Rating": 4.21,
       "NumberOfAwards": 25537,
       "NumberOfAwardsMax": 12434
+    },
+    {
+      "Time": "2023-04-13T19:59:16.3700846+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 25543,
+      "NumberOfAwardsMax": 12434
     }
   ],
   "Tags": [
@@ -3861,7 +3867,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 1931
+      "Count": 1937
     },
     {
       "Text": "This game has Amazing Storytelling",

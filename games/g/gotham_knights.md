@@ -1,8 +1,8 @@
 # Gotham Knights
-Rating: 4.17 (Ranked 814)  
+Rating: 4.17 (Ranked 815)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 2,115  (Ranked 100)  
-Sum: 3,485 (Ranked 139)  
+Sum: 3,486 (Ranked 139)  
 Diff (max vs sum): -39
 ## Awards
 | Award | Number of Ratings |
@@ -15,7 +15,7 @@ Diff (max vs sum): -39
 | This game has Amazing Characters | 170 |
 | This game is Highly Recommended | 170 |
 | This game is Great for Beginners | 164 |
-| This game has Amazing Storytelling | 163 |
+| This game has Amazing Storytelling | 164 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |

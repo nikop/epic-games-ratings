@@ -1,5 +1,5 @@
 # LEGO® Batman™: The Videogame
-Rating: 4.52 (Ranked 498)  
+Rating: 4.52 (Ranked 499)  
 Number of Ratings: 523  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 182  (Ranked 261)  

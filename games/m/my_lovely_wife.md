@@ -1,5 +1,5 @@
 # My Lovely Wife
-Rating: 4.36 (Ranked 693)  
+Rating: 4.36 (Ranked 695)  
 Number of Ratings: 25  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  

@@ -2,15 +2,15 @@
   "ID": "50118b7f954e450f8823df1614b24e80",
   "Name": "Fall Guys",
   "Rating": 4.53,
-  "Ranking_Rating": 480,
+  "Ranking_Rating": 481,
   "Ranking_Popularity": 6,
   "Ranking_PopularitySum": 3,
   "NumberOfRatings": 1046587,
-  "NumberOfAwards": 1289455,
+  "NumberOfAwards": 1289466,
   "NumberOfAwardsMax": 137466,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:18:16.49776+00:00",
-  "LastChanged": "2023-04-13T18:56:45.8897304+00:00",
+  "LastChanged": "2023-04-13T19:57:04.5613132+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:16.4977602+00:00",
@@ -3577,6 +3577,12 @@
       "Rating": 4.53,
       "NumberOfAwards": 1289455,
       "NumberOfAwardsMax": 137466
+    },
+    {
+      "Time": "2023-04-13T19:57:04.5613133+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 1289466,
+      "NumberOfAwardsMax": 137466
     }
   ],
   "Tags": [
@@ -3620,7 +3626,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 115798
+      "Count": 115809
     },
     {
       "Text": "This game is Highly Recommended",

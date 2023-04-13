@@ -2,15 +2,15 @@
   "ID": "84c76746bce94effb8e1047fabfd7eb7",
   "Name": "World of Warships",
   "Rating": 4.44,
-  "Ranking_Rating": 608,
+  "Ranking_Rating": 609,
   "Ranking_Popularity": 133,
   "Ranking_PopularitySum": 82,
   "NumberOfRatings": 4733,
-  "NumberOfAwards": 8673,
-  "NumberOfAwardsMax": 981,
+  "NumberOfAwards": 8678,
+  "NumberOfAwardsMax": 984,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
-  "LastChanged": "2023-04-13T13:04:19.691318+00:00",
+  "LastChanged": "2023-04-13T19:57:05.1084623+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:02.7521929+00:00",
@@ -3242,6 +3242,12 @@
       "Rating": 4.44,
       "NumberOfAwards": 8673,
       "NumberOfAwardsMax": 981
+    },
+    {
+      "Time": "2023-04-13T19:57:05.1084624+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 8678,
+      "NumberOfAwardsMax": 984
     }
   ],
   "Tags": [
@@ -3291,7 +3297,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 794
+      "Count": 796
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3303,7 +3309,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 981
+      "Count": 984
     }
   ]
 }
