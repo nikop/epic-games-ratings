@@ -112,7 +112,7 @@
 | 105 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 27 | 446 |
 | 111 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 0 | 483 |
 | 111 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 2,224 | 93 |
-| 111 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 13,875 | 22 |
+| 111 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 13,883 | 22 |
 | 111 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 84 | 334 |
 | 111 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 807 | 144 |
 | 111 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 39 | 403 |
@@ -183,7 +183,7 @@
 | 178 | [Fez](games/f/fez.md) | 4.71 | 23 | 461 |
 | 178 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 417 |
 | 178 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 0 | 483 |
-| 178 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,073 | 43 |
+| 178 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,076 | 43 |
 | 178 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 0 | 483 |
 | 178 | [Northgard](games/n/northgard.md) | 4.71 | 27 | 446 |
 | 178 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 0 | 483 |
@@ -253,7 +253,7 @@
 | 234 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.68 | 0 | 483 |
 | 234 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.68 | 0 | 483 |
 | 234 | [The Pathless](games/t/the_pathless.md) | 4.68 | 0 | 483 |
-| 234 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.68 | 1,383 | 115 |
+| 234 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.68 | 1,389 | 115 |
 | 234 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 0 | 483 |
 | 256 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 635 | 159 |
 | 256 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 71 | 351 |

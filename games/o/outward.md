@@ -2,15 +2,15 @@
 Rating: 4.54 (Ranked 468)  
 Number of Ratings: 266  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Highly Recommended): 31  (Ranked 433)  
-Sum: 237 (Ranked 337)  
+Max (Amazing Characters): 31  (Ranked 433)  
+Sum: 238 (Ranked 337)  
 Diff (max vs sum): 96
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Highly Recommended | 31 |
+| This game has Amazing Characters | 31 |
 | This game has Unique Visuals | 30 |
-| This game has Amazing Characters | 30 |
 | This game has Quickly Understood Controls | 27 |
 | This game has Challenging Combat | 27 |
 | This game is Relaxing | 26 |
@@ -78,3 +78,4 @@ Diff (max vs sum): 96
 | 2022-12-06 | 4.56 | - | - |
 | 2022-12-08 | 4.55 | - | - |
 | 2023-03-31 | 4.54 | - | 31 |
+| 2023-04-13 | 4.54 | - | 31 |
