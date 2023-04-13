@@ -1,16 +1,16 @@
 {
   "ID": "impala",
   "Name": "The Division 2 Standard Edition",
-  "Rating": 4.46,
-  "Ranking_Rating": 577,
+  "Rating": 4.47,
+  "Ranking_Rating": 565,
   "Ranking_Popularity": 47,
   "Ranking_PopularitySum": 51,
   "NumberOfRatings": 6675,
-  "NumberOfAwards": 20478,
+  "NumberOfAwards": 20480,
   "NumberOfAwardsMax": 6400,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2023-04-13T14:57:48.4381447+00:00",
+  "LastChanged": "2023-04-13T15:57:40.1581637+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:04.4200789+00:00",
@@ -3652,6 +3652,12 @@
       "Rating": 4.46,
       "NumberOfAwards": 20478,
       "NumberOfAwardsMax": 6400
+    },
+    {
+      "Time": "2023-04-13T15:57:40.1581638+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 20480,
+      "NumberOfAwardsMax": 6400
     }
   ],
   "Tags": [
@@ -3713,7 +3719,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1054
+      "Count": 1056
     },
     {
       "Text": "This game has Obsessive Gameplay",
