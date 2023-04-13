@@ -1,8 +1,8 @@
 {
   "ID": "f5deacee017b4b109476933f7dd2edbd",
   "Name": "EA SPORTS\u2122 FIFA 23 Standard Edition",
-  "Rating": 4.23,
-  "Ranking_Rating": 781,
+  "Rating": 4.24,
+  "Ranking_Rating": 773,
   "Ranking_Popularity": 43,
   "Ranking_PopularitySum": 31,
   "NumberOfAwards": 33369,
@@ -10,7 +10,7 @@
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-09-30T07:01:34.8859438+00:00",
   "FirstSeenRating": "2022-10-06T07:01:15.4932538+00:00",
-  "LastChanged": "2023-04-12T21:57:31.2334686+00:00",
+  "LastChanged": "2023-04-13T01:54:25.6917773+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-06T07:01:15.4932542+00:00",
@@ -995,6 +995,12 @@
     {
       "Time": "2023-04-12T21:57:31.2334689+00:00",
       "Rating": 4.23,
+      "NumberOfAwards": 33369,
+      "NumberOfAwardsMax": 6943
+    },
+    {
+      "Time": "2023-04-13T01:54:25.6917775+00:00",
+      "Rating": 4.24,
       "NumberOfAwards": 33369,
       "NumberOfAwardsMax": 6943
     }
