@@ -99,7 +99,7 @@
 | 91 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 362 | 203 |
 | 91 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 114 | 299 |
 | 91 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 483 |
-| 100 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,459 | 67 |
+| 100 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,467 | 67 |
 | 100 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,596 | 36 |
 | 100 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 17,313 | 18 |
 | 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 903 | 140 |
@@ -146,7 +146,7 @@
 | 140 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 568 | 166 |
 | 140 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,370 | 48 |
 | 140 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 222 | 243 |
-| 140 | [Quake](games/q/quake.md) | 4.74 | 45 | 390 |
+| 140 | [Quake](games/q/quake.md) | 4.74 | 45 | 391 |
 | 140 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 29,134 | 13 |
 | 140 | [Tchia](games/t/tchia.md) | 4.74 | 0 | 483 |
 | 140 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 483 |
@@ -314,7 +314,7 @@
 | 311 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 483 |
 | 311 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,861 | 54 |
 | 311 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 2,052 | 101 |
-| 311 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 45 | 390 |
+| 311 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 45 | 391 |
 | 311 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 55 | 375 |
 | 311 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 0 | 483 |
 | 311 | [HITMAN](games/h/hitman.md) | 4.64 | 195 | 255 |
@@ -613,7 +613,7 @@
 | 608 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 660 | 156 |
 | 608 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 483 |
 | 608 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.44 | 0 | 483 |
-| 608 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 45 | 390 |
+| 608 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 45 | 391 |
 | 608 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 0 | 483 |
 | 608 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 0 | 483 |
 | 608 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 513 | 177 |
@@ -693,7 +693,7 @@
 | 688 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,125 | 98 |
 | 688 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 483 |
 | 693 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 266 |
-| 693 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 45 | 390 |
+| 693 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 46 | 387 |
 | 693 | [Encased](games/e/encased.md) | 4.36 | 120 | 293 |
 | 693 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.36 | 0 | 483 |
 | 693 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 483 |
@@ -779,7 +779,7 @@
 | 773 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.24 | 976 | 134 |
 | 773 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 310 | 215 |
 | 773 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.24 | 0 | 483 |
-| 773 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 390 |
+| 773 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 391 |
 | 773 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 0 | 483 |
 | 782 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 483 |
 | 782 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 0 | 483 |
@@ -873,7 +873,7 @@
 | 868 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 483 |
 | 872 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 483 |
 | 873 | [Banished](games/b/banished.md) | 3.96 | 0 | 483 |
-| 874 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 390 |
+| 874 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 391 |
 | 875 | [Patron](games/p/patron.md) | 3.94 | 0 | 483 |
 | 875 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.94 | 0 | 483 |
 | 877 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 0 | 483 |

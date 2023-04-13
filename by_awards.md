@@ -66,7 +66,7 @@
 | 64 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4,643 | 4.75 | 124 |
 | 65 | [Shop Titans](games/s/shop_titans.md) | 4,507 | 3.98 | 868 |
 | 66 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,473 | 4.70 | 191 |
-| 67 | [DEATH STRANDING](games/d/death_stranding.md) | 4,459 | 4.78 | 100 |
+| 67 | [DEATH STRANDING](games/d/death_stranding.md) | 4,467 | 4.78 | 100 |
 | 68 | [Cities: Skylines](games/c/cities__skylines.md) | 4,259 | 4.65 | 289 |
 | 69 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,160 | 4.70 | 191 |
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,052 | 4.70 | 191 |
@@ -388,13 +388,13 @@
 | 386 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 47 | 4.36 | 693 |
 | 387 | [ATOM RPG](games/a/atom_rpg.md) | 46 | 4.45 | 592 |
 | 387 | [AXIOM VERGE](games/a/axiom_verge.md) | 46 | 4.56 | 438 |
+| 387 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 46 | 4.36 | 693 |
 | 387 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 46 | 4.56 | 438 |
-| 390 | [Ancient Enemy](games/a/ancient_enemy.md) | 45 | 3.95 | 874 |
-| 390 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 45 | 4.36 | 693 |
-| 390 | [Expeditions: Rome](games/e/expeditions__rome.md) | 45 | 4.64 | 311 |
-| 390 | [Quake](games/q/quake.md) | 45 | 4.74 | 140 |
-| 390 | [Ranch Simulator](games/r/ranch_simulator.md) | 45 | 4.44 | 608 |
-| 390 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 45 | 4.24 | 773 |
+| 391 | [Ancient Enemy](games/a/ancient_enemy.md) | 45 | 3.95 | 874 |
+| 391 | [Expeditions: Rome](games/e/expeditions__rome.md) | 45 | 4.64 | 311 |
+| 391 | [Quake](games/q/quake.md) | 45 | 4.74 | 140 |
+| 391 | [Ranch Simulator](games/r/ranch_simulator.md) | 45 | 4.44 | 608 |
+| 391 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 45 | 4.24 | 773 |
 | 396 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 44 | 4.59 | 388 |
 | 396 | [Desperados III](games/d/desperados_iii.md) | 44 | 4.84 | 48 |
 | 396 | [The Alto Collection](games/t/the_alto_collection.md) | 44 | 4.70 | 191 |

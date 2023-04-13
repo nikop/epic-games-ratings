@@ -28,7 +28,7 @@
 | [Among Trees](games/a/among_trees.md) | 4.35 | 705 | 0 | 483 |
 | [Among Us](games/a/among_us.md) | 4.58 | 403 | 2,347 | 91 |
 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 388 | 44 | 396 |
-| [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 874 | 45 | 390 |
+| [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 874 | 45 | 391 |
 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 728 | 336 | 207 |
 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 111 | 0 | 483 |
 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 459 | 0 | 483 |
@@ -179,7 +179,7 @@
 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 13 | 244 | 235 |
 | [Dead Space](games/d/dead_space.md) | 4.73 | 154 | 33 | 424 |
 | [Death Coming](games/d/death_coming.md) | 4.42 | 631 | 0 | 483 |
-| [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 100 | 4,459 | 67 |
+| [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 100 | 4,467 | 67 |
 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 13 | 6,677 | 45 |
 | [Death's Door](games/d/death's_door.md) | 4.66 | 273 | 0 | 483 |
 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 480 | 33 | 424 |
@@ -206,7 +206,7 @@
 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 78 | 296 | 221 |
 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 624 | 22 | 465 |
 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 111 | 807 | 144 |
-| [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 693 | 45 | 390 |
+| [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 693 | 46 | 387 |
 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 20 | 0 | 483 |
 | [DOOM (1993)](games/d/doom_(1993).md) | 4.81 | 69 | 32 | 427 |
 | [DOOM 3](games/d/doom_3.md) | 4.61 | 351 | 64 | 365 |
@@ -235,7 +235,7 @@
 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 8 | 0 | 483 |
 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 538 | 270 | 228 |
 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 805 | 0 | 483 |
-| [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 311 | 45 | 390 |
+| [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 311 | 45 | 391 |
 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.57 | 423 | 710 | 152 |
 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 403 | 232 | 238 |
 | [Faeria](games/f/faeria.md) | 4.45 | 592 | 103 | 310 |
@@ -548,11 +548,11 @@
 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 351 | 397 | 192 |
 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.99 | 865 | 1,444 | 112 |
 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 657 | 0 | 483 |
-| [Quake](games/q/quake.md) | 4.74 | 140 | 45 | 390 |
+| [Quake](games/q/quake.md) | 4.74 | 140 | 45 | 391 |
 | [Rage 2](games/r/rage_2.md) | 4.28 | 757 | 2,415 | 88 |
 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 468 | 86 | 332 |
 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 508 | 271 | 227 |
-| [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 608 | 45 | 390 |
+| [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 608 | 45 | 391 |
 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 524 | 0 | 483 |
 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 69 | 0 | 483 |
 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 78 | 185 | 259 |
@@ -686,7 +686,7 @@
 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 524 | 747 | 148 |
 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 693 | 47 | 386 |
 | [Submerged](games/s/submerged.md) | 4.09 | 847 | 0 | 483 |
-| [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 773 | 45 | 390 |
+| [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 773 | 45 | 391 |
 | [Subnautica](games/s/subnautica.md) | 4.84 | 48 | 642 | 158 |
 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 100 | 141 | 281 |
 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 191 | 0 | 483 |
