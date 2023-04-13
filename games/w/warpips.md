@@ -2,12 +2,13 @@
 Rating: 4.39 (Ranked 665)  
 Number of Ratings: 31  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 483)  
-Sum: 0 (Ranked 483)  
+Max (Playful Visuals): 20  (Ranked 477)  
+Sum: 20 (Ranked 477)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
+| This game has Playful Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -62,3 +63,4 @@ Diff (max vs sum): 0
 | 2023-03-27 | 4.40 | - | - |
 | 2023-03-31 | 4.40 | - | 0 |
 | 2023-04-02 | 4.39 | - | 0 |
+| 2023-04-13 | 4.39 | - | 20 |

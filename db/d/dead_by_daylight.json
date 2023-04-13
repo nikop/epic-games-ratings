@@ -2,15 +2,15 @@
   "ID": "611482b8586142cda48a0786eb8a127c",
   "Name": "Dead by Daylight",
   "Rating": 4.52,
-  "Ranking_Rating": 497,
+  "Ranking_Rating": 498,
   "Ranking_Popularity": 15,
   "Ranking_PopularitySum": 12,
   "NumberOfRatings": 70340,
-  "NumberOfAwards": 213973,
+  "NumberOfAwards": 213993,
   "NumberOfAwardsMax": 26362,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
-  "LastChanged": "2023-04-13T15:57:10.4717252+00:00",
+  "LastChanged": "2023-04-13T18:56:49.4864517+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:36.44586+00:00",
@@ -3895,6 +3895,12 @@
       "Rating": 4.52,
       "NumberOfAwards": 213973,
       "NumberOfAwardsMax": 26362
+    },
+    {
+      "Time": "2023-04-13T18:56:49.4864518+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 213993,
+      "NumberOfAwardsMax": 26362
     }
   ],
   "Tags": [
@@ -3956,7 +3962,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 22031
+      "Count": 22051
     },
     {
       "Text": "This game has a Competitive Community",

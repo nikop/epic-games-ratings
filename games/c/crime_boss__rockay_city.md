@@ -1,5 +1,5 @@
 # Crime Boss: Rockay City
-Rating: 3.91 (Ranked 881)  
+Rating: 3.92 (Ranked 878)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 105  (Ranked 307)  
 Sum: 488 (Ranked 288)  
@@ -33,4 +33,4 @@ Diff (max vs sum): 19
 | 2023-04-10 | 3.89 | - | 91 |
 | 2023-04-11 | 3.89 | - | 94 |
 | 2023-04-12 | 3.91 | - | 99 |
-| 2023-04-13 | 3.91 | - | 105 |
+| 2023-04-13 | 3.92 | - | 105 |
