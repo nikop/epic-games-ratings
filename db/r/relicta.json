@@ -4,13 +4,13 @@
   "Rating": 4.15,
   "Ranking_Rating": 827,
   "Ranking_Popularity": 256,
-  "Ranking_PopularitySum": 333,
+  "Ranking_PopularitySum": 332,
   "NumberOfRatings": 429,
-  "NumberOfAwards": 258,
+  "NumberOfAwards": 260,
   "NumberOfAwardsMax": 192,
   "MaxAwardTitle": "Challenging Puzzles",
   "FirstSeen": "2022-07-22T20:28:55.5563049+00:00",
-  "LastChanged": "2023-04-10T22:58:01.70838+00:00",
+  "LastChanged": "2023-04-13T22:57:44.8715524+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:55.5563052+00:00",
@@ -503,6 +503,12 @@
       "Rating": 4.15,
       "NumberOfAwards": 258,
       "NumberOfAwardsMax": 192
+    },
+    {
+      "Time": "2023-04-13T22:57:44.8715526+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 260,
+      "NumberOfAwardsMax": 192
     }
   ],
   "Tags": [
@@ -516,7 +522,7 @@
       "Text": "In this game, your choices Don\u0027t Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Don\u0027t Impact the Story",
-      "Count": 66
+      "Count": 68
     }
   ]
 }
