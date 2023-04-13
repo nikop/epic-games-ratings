@@ -2,15 +2,15 @@
   "ID": "6009be9994c2409099588cde6f3a5ed0",
   "Name": "Cities: Skylines",
   "Rating": 4.65,
-  "Ranking_Rating": 289,
+  "Ranking_Rating": 288,
   "Ranking_Popularity": 68,
   "Ranking_PopularitySum": 32,
   "NumberOfRatings": 25248,
-  "NumberOfAwards": 32556,
+  "NumberOfAwards": 32565,
   "NumberOfAwardsMax": 4268,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:19:44.6167524+00:00",
-  "LastChanged": "2023-04-13T10:57:13.2123495+00:00",
+  "LastChanged": "2023-04-13T13:04:34.3875125+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:44.6167527+00:00",
@@ -3702,6 +3702,12 @@
       "Rating": 4.65,
       "NumberOfAwards": 32556,
       "NumberOfAwardsMax": 4268
+    },
+    {
+      "Time": "2023-04-13T13:04:34.3875128+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 32565,
+      "NumberOfAwardsMax": 4268
     }
   ],
   "Tags": [
@@ -3715,7 +3721,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4247
+      "Count": 4256
     },
     {
       "Text": "This game is Educational",

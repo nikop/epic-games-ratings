@@ -6,11 +6,11 @@
   "Ranking_Popularity": 96,
   "Ranking_PopularitySum": 68,
   "NumberOfRatings": 15671,
-  "NumberOfAwards": 12383,
+  "NumberOfAwards": 12389,
   "NumberOfAwardsMax": 2171,
   "MaxAwardTitle": "Competitive Players",
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "LastChanged": "2023-04-13T03:57:12.5482451+00:00",
+  "LastChanged": "2023-04-13T13:04:33.3410731+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:03.6642348+00:00",
@@ -3524,6 +3524,12 @@
       "Rating": 4.1,
       "NumberOfAwards": 12383,
       "NumberOfAwardsMax": 2171
+    },
+    {
+      "Time": "2023-04-13T13:04:33.3410736+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 12389,
+      "NumberOfAwardsMax": 2171
     }
   ],
   "Tags": [
@@ -3555,7 +3561,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 2156
+      "Count": 2162
     },
     {
       "Text": "This game has a Competitive Community",

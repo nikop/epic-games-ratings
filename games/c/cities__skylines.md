@@ -1,15 +1,15 @@
 # Cities: Skylines
-Rating: 4.65 (Ranked 289)  
+Rating: 4.65 (Ranked 288)  
 Number of Ratings: 25,248  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 4,268  (Ranked 68)  
-Sum: 32,556 (Ranked 32)  
+Sum: 32,565 (Ranked 32)  
 Diff (max vs sum): 36
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Great for Beginners | 4,268 |
-| This game is Relaxing | 4,247 |
+| This game is Relaxing | 4,256 |
 | This game has Quickly Understood Controls | 3,983 |
 | This game is Educational | 3,980 |
 | This game is Extremely Fun | 3,766 |
