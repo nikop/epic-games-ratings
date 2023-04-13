@@ -3,14 +3,14 @@
   "Name": "Encased",
   "Rating": 4.36,
   "Ranking_Rating": 693,
-  "Ranking_Popularity": 293,
+  "Ranking_Popularity": 292,
   "Ranking_PopularitySum": 383,
   "NumberOfRatings": 49,
-  "NumberOfAwards": 120,
-  "NumberOfAwardsMax": 120,
+  "NumberOfAwards": 121,
+  "NumberOfAwardsMax": 121,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:20:17.8710965+00:00",
-  "LastChanged": "2023-04-09T03:57:07.5140817+00:00",
+  "LastChanged": "2023-04-13T17:57:27.9026151+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:17.8710967+00:00",
@@ -297,6 +297,12 @@
       "Rating": 4.36,
       "NumberOfAwards": 120,
       "NumberOfAwardsMax": 120
+    },
+    {
+      "Time": "2023-04-13T17:57:27.9026154+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 121,
+      "NumberOfAwardsMax": 121
     }
   ],
   "Tags": [
@@ -304,7 +310,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 120
+      "Count": 121
     }
   ]
 }

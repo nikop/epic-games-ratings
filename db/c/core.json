@@ -1,8 +1,8 @@
 {
   "ID": "8ff186a4415d4ce6b5a287ccfd11cf04",
   "Name": "Core",
-  "Rating": 4.38,
-  "Ranking_Rating": 676,
+  "Rating": 4.37,
+  "Ranking_Rating": 687,
   "Ranking_Popularity": 151,
   "Ranking_PopularitySum": 188,
   "NumberOfRatings": 1439,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 723,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
-  "LastChanged": "2023-04-11T13:57:41.0387307+00:00",
+  "LastChanged": "2023-04-13T17:57:54.458428+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:10.3468581+00:00",
@@ -1469,6 +1469,12 @@
     {
       "Time": "2023-04-11T13:57:41.038731+00:00",
       "Rating": 4.38,
+      "NumberOfAwards": 1877,
+      "NumberOfAwardsMax": 723
+    },
+    {
+      "Time": "2023-04-13T17:57:54.4584282+00:00",
+      "Rating": 4.37,
       "NumberOfAwards": 1877,
       "NumberOfAwardsMax": 723
     }
