@@ -6,11 +6,11 @@
   "Ranking_Popularity": 295,
   "Ranking_PopularitySum": 253,
   "NumberOfRatings": 2200,
-  "NumberOfAwards": 704,
+  "NumberOfAwards": 705,
   "NumberOfAwardsMax": 119,
   "MaxAwardTitle": "Amazing Storytelling",
   "FirstSeen": "2022-07-22T20:23:59.6890424+00:00",
-  "LastChanged": "2023-04-12T10:57:41.7019622+00:00",
+  "LastChanged": "2023-04-13T21:57:35.996854+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:59.6890426+00:00",
@@ -1388,6 +1388,12 @@
       "Rating": 4.2,
       "NumberOfAwards": 704,
       "NumberOfAwardsMax": 119
+    },
+    {
+      "Time": "2023-04-13T21:57:35.9968541+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 705,
+      "NumberOfAwardsMax": 119
     }
   ],
   "Tags": [
@@ -1419,7 +1425,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 96
+      "Count": 97
     },
     {
       "Text": "This game is Relaxing",

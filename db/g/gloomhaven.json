@@ -2,16 +2,16 @@
   "ID": "bc079f73f020432fac896d30c8e2c330",
   "Name": "Gloomhaven",
   "Rating": 4.47,
-  "Ranking_Rating": 566,
+  "Ranking_Rating": 567,
   "Ranking_Popularity": 79,
   "Ranking_PopularitySum": 89,
   "NumberOfRatings": 68,
-  "NumberOfAwards": 7884,
+  "NumberOfAwards": 7886,
   "NumberOfAwardsMax": 3423,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-09-22T18:02:13.8573093+00:00",
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
-  "LastChanged": "2023-04-13T11:57:54.2660514+00:00",
+  "LastChanged": "2023-04-13T21:57:30.3878063+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-23T05:01:45.7957209+00:00",
@@ -411,6 +411,12 @@
       "Rating": 4.47,
       "NumberOfAwards": 7884,
       "NumberOfAwardsMax": 3423
+    },
+    {
+      "Time": "2023-04-13T21:57:30.3878064+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 7886,
+      "NumberOfAwardsMax": 3423
     }
   ],
   "Tags": [
@@ -424,7 +430,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 539
+      "Count": 541
     },
     {
       "Text": "This game has Challenging Combat",

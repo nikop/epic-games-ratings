@@ -1,5 +1,5 @@
 # shapez
-Rating: 4.72 (Ranked 165)  
+Rating: 4.71 (Ranked 176)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  
@@ -30,3 +30,4 @@ Diff (max vs sum): 0
 | 2023-04-10 | 4.71 | - | 0 |
 | 2023-04-11 | 4.70 | - | 0 |
 | 2023-04-12 | 4.72 | - | 0 |
+| 2023-04-13 | 4.71 | - | 0 |

@@ -1,8 +1,8 @@
 {
   "ID": "41591febb4a74d7faa39819d5788f7d0",
   "Name": "ATOM RPG Trudograd",
-  "Rating": 4.47,
-  "Ranking_Rating": 566,
+  "Rating": 4.48,
+  "Ranking_Rating": 556,
   "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 477,
   "NumberOfAwards": 20,
@@ -10,7 +10,7 @@
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-11-08T13:31:16.6189198+00:00",
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
-  "LastChanged": "2023-04-05T11:57:50.2738452+00:00",
+  "LastChanged": "2023-04-13T21:57:54.9697369+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-18T14:57:38.137253+00:00",
@@ -141,6 +141,12 @@
     {
       "Time": "2023-04-05T11:57:50.2738453+00:00",
       "Rating": 4.47,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2023-04-13T21:57:54.969737+00:00",
+      "Rating": 4.48,
       "NumberOfAwards": 20,
       "NumberOfAwardsMax": 20
     }
