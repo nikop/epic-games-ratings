@@ -1,8 +1,8 @@
 {
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
-  "Rating": 4.57,
-  "Ranking_Rating": 424,
+  "Rating": 4.56,
+  "Ranking_Rating": 437,
   "Ranking_Popularity": 417,
   "Ranking_PopularitySum": 355,
   "NumberOfRatings": 780,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Amazing Storytelling",
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
-  "LastChanged": "2023-04-11T23:57:23.6637563+00:00",
+  "LastChanged": "2023-04-13T23:57:20.0441186+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:25.6908042+00:00",
@@ -736,6 +736,12 @@
     {
       "Time": "2023-04-11T23:57:23.6638201+00:00",
       "Rating": 4.57,
+      "NumberOfAwards": 179,
+      "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-04-13T23:57:20.0441187+00:00",
+      "Rating": 4.56,
       "NumberOfAwards": 179,
       "NumberOfAwardsMax": 35
     }

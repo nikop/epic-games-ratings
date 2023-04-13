@@ -1,5 +1,5 @@
 # Hand of Fate 2
-Rating: 4.57 (Ranked 424)  
+Rating: 4.56 (Ranked 437)  
 Number of Ratings: 780  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Amazing Storytelling): 35  (Ranked 417)  
@@ -100,3 +100,4 @@ Diff (max vs sum): 62
 | 2023-03-30 | 4.57 | - | - |
 | 2023-04-08 | 4.56 | - | 35 |
 | 2023-04-11 | 4.57 | - | 35 |
+| 2023-04-13 | 4.56 | - | 35 |

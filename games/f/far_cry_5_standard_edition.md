@@ -1,14 +1,14 @@
 # Far Cry 5 Standard Edition
-Rating: 4.62 (Ranked 334)  
+Rating: 4.62 (Ranked 333)  
 Number of Ratings: 1,848  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 1,152  (Ranked 122)  
-Sum: 1,699 (Ranked 197)  
+Max (Great Boss Battles): 1,158  (Ranked 122)  
+Sum: 1,705 (Ranked 197)  
 Diff (max vs sum): -75
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 1,152 |
+| This game has Great Boss Battles | 1,158 |
 | This game is Relaxing | 74 |
 | This game has Amazing Characters | 72 |
 | This game has Quickly Understood Controls | 68 |
@@ -110,3 +110,4 @@ Diff (max vs sum): -75
 | 2023-04-10 | 4.62 | - | 1,143 |
 | 2023-04-11 | 4.62 | - | 1,148 |
 | 2023-04-12 | 4.62 | - | 1,152 |
+| 2023-04-13 | 4.62 | - | 1,158 |
