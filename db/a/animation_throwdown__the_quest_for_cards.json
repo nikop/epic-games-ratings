@@ -1,8 +1,8 @@
 {
   "ID": "1fe9a1a33a8b4df8bd8dd3b9269f8153",
   "Name": "Animation Throwdown: The Quest for Cards",
-  "Rating": 4.32,
-  "Ranking_Rating": 728,
+  "Rating": 4.33,
+  "Ranking_Rating": 719,
   "Ranking_Popularity": 207,
   "Ranking_PopularitySum": 158,
   "NumberOfRatings": 874,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 336,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:16:50.5721144+00:00",
-  "LastChanged": "2023-04-12T19:56:56.9459662+00:00",
+  "LastChanged": "2023-04-13T11:57:14.065629+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:50.5721147+00:00",
@@ -1117,6 +1117,12 @@
     {
       "Time": "2023-04-12T19:56:56.9459663+00:00",
       "Rating": 4.32,
+      "NumberOfAwards": 2604,
+      "NumberOfAwardsMax": 336
+    },
+    {
+      "Time": "2023-04-13T11:57:14.0656292+00:00",
+      "Rating": 4.33,
       "NumberOfAwards": 2604,
       "NumberOfAwardsMax": 336
     }

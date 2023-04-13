@@ -4,13 +4,13 @@
   "Rating": 4.46,
   "Ranking_Rating": 577,
   "Ranking_Popularity": 47,
-  "Ranking_PopularitySum": 50,
+  "Ranking_PopularitySum": 51,
   "NumberOfRatings": 6675,
-  "NumberOfAwards": 20468,
+  "NumberOfAwards": 20470,
   "NumberOfAwardsMax": 6393,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2023-04-13T09:57:14.3149181+00:00",
+  "LastChanged": "2023-04-13T11:57:48.9500123+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:04.4200789+00:00",
@@ -3634,6 +3634,12 @@
       "Rating": 4.46,
       "NumberOfAwards": 20468,
       "NumberOfAwardsMax": 6393
+    },
+    {
+      "Time": "2023-04-13T11:57:48.9500124+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 20470,
+      "NumberOfAwardsMax": 6393
     }
   ],
   "Tags": [
@@ -3671,7 +3677,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1043
+      "Count": 1045
     },
     {
       "Text": "This game has Amazing Storytelling",
