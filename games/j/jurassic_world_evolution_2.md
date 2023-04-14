@@ -1,5 +1,5 @@
 # Jurassic World Evolution 2
-Rating: 4.74 (Ranked 140)  
+Rating: 4.74 (Ranked 139)  
 Number of Ratings: 3,746  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 569  (Ranked 166)  

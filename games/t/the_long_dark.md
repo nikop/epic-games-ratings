@@ -1,5 +1,5 @@
 # The Long Dark
-Rating: 4.74 (Ranked 140)  
+Rating: 4.74 (Ranked 139)  
 Number of Ratings: 4,814  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 737  (Ranked 149)  

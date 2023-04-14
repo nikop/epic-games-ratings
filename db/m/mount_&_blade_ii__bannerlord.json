@@ -2,15 +2,15 @@
   "ID": "aeac94c7a11048758064b82f8f8d20ed",
   "Name": "Mount \u0026 Blade II: Bannerlord",
   "Rating": 4.74,
-  "Ranking_Rating": 140,
+  "Ranking_Rating": 139,
   "Ranking_Popularity": 48,
   "Ranking_PopularitySum": 68,
   "NumberOfRatings": 5603,
-  "NumberOfAwards": 12608,
-  "NumberOfAwardsMax": 6370,
+  "NumberOfAwards": 12615,
+  "NumberOfAwardsMax": 6377,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
-  "LastChanged": "2023-04-13T23:57:14.2944252+00:00",
+  "LastChanged": "2023-04-14T04:57:06.3868874+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:18.7217338+00:00",
@@ -3155,6 +3155,12 @@
       "Rating": 4.74,
       "NumberOfAwards": 12608,
       "NumberOfAwardsMax": 6370
+    },
+    {
+      "Time": "2023-04-14T04:57:06.3868876+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 12615,
+      "NumberOfAwardsMax": 6377
     }
   ],
   "Tags": [
@@ -3162,7 +3168,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 6370
+      "Count": 6377
     },
     {
       "Text": "This game is Highly Recommended",
