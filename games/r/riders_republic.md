@@ -3,7 +3,7 @@ Rating: 4.75 (Ranked 124)
 Number of Ratings: 4,120  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 401  (Ranked 191)  
-Sum: 3,956 (Ranked 131)  
+Sum: 3,958 (Ranked 131)  
 Diff (max vs sum): 60
 ## Awards
 | Award | Number of Ratings |
@@ -17,7 +17,7 @@ Diff (max vs sum): 60
 | This game has Competitive Players | 360 |
 | This game has Diverse Characters | 351 |
 | This game has Amazing Characters | 343 |
-| This game is Educational | 334 |
+| This game is Educational | 336 |
 | This game has Amazing Storytelling | 326 |
 | This game has Obsessive Gameplay | 164 |
 ## Ratings History
@@ -112,3 +112,4 @@ Diff (max vs sum): 60
 | 2023-04-11 | 4.75 | - | 399 |
 | 2023-04-12 | 4.75 | - | 399 |
 | 2023-04-13 | 4.75 | - | 401 |
+| 2023-04-14 | 4.75 | - | 401 |

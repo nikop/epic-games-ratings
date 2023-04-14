@@ -1,6 +1,18 @@
 {
   "ID": "edecc2d8282c4dc39823e3319d1b8bc1",
   "Name": "Hunt the Night",
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-14T09:57:55.2658874+00:00",
+  "FirstSeenRating": "2023-04-14T09:57:55.2658892+00:00",
+  "LastChanged": "2023-04-14T09:57:55.2658892+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-14T09:57:55.2658893+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

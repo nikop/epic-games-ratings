@@ -12,7 +12,7 @@
 | 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 55,692 | 4.59 | 389 |
 | 11 | [VALORANT](games/v/valorant.md) | 48,584 | 4.54 | 469 |
 | 12 | [Destiny 2](games/d/destiny_2.md) | 32,765 | 4.50 | 525 |
-| 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 29,181 | 4.74 | 139 |
+| 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 29,232 | 4.74 | 139 |
 | 14 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,337 | 4.65 | 288 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 26,394 | 4.52 | 499 |
 | 16 | [Dauntless](games/d/dauntless.md) | 19,401 | 4.53 | 481 |
@@ -28,7 +28,7 @@
 | 26 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,210 | 4.37 | 689 |
 | 27 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,771 | 4.41 | 641 |
 | 28 | [NBA 2K21](games/n/nba_2k21.md) | 11,634 | 4.39 | 666 |
-| 29 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 11,307 | 4.60 | 374 |
+| 29 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 11,324 | 4.60 | 374 |
 | 30 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 11,287 | 4.53 | 481 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,283 | 4.87 | 24 |
 | 32 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,151 | 4.69 | 212 |
@@ -60,7 +60,7 @@
 | 58 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,440 | 4.85 | 37 |
 | 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,410 | 4.82 | 60 |
 | 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4,990 | 4.68 | 234 |
-| 61 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,828 | 4.06 | 855 |
+| 61 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,834 | 4.06 | 855 |
 | 62 | [Rogue Company](games/r/rogue_company.md) | 4,785 | 4.34 | 713 |
 | 63 | [MultiVersus](games/m/multiversus.md) | 4,729 | 4.56 | 437 |
 | 64 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4,650 | 4.75 | 124 |
@@ -85,7 +85,7 @@
 | 83 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,144 | 4.75 | 124 |
 | 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,119 | 4.59 | 389 |
 | 85 | [Hades](games/h/hades.md) | 2,988 | 4.92 | 4 |
-| 86 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 2,987 | 4.57 | 423 |
+| 85 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 2,988 | 4.57 | 423 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 2,934 | 4.68 | 234 |
 | 88 | [Rage 2](games/r/rage_2.md) | 2,415 | 4.28 | 758 |
 | 89 | [Path of Exile](games/p/path_of_exile.md) | 2,412 | 4.61 | 351 |
