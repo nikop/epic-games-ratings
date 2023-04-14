@@ -6,11 +6,11 @@
   "Ranking_Popularity": 216,
   "Ranking_PopularitySum": 167,
   "NumberOfRatings": 1354,
-  "NumberOfAwards": 2350,
+  "NumberOfAwards": 2351,
   "NumberOfAwardsMax": 309,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:20:15.4995457+00:00",
-  "LastChanged": "2023-04-11T20:57:11.2302648+00:00",
+  "LastChanged": "2023-04-14T15:57:14.2782071+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:15.4995461+00:00",
@@ -1749,6 +1749,12 @@
       "Rating": 4.73,
       "NumberOfAwards": 2350,
       "NumberOfAwardsMax": 309
+    },
+    {
+      "Time": "2023-04-14T15:57:14.2782073+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 2351,
+      "NumberOfAwardsMax": 309
     }
   ],
   "Tags": [
@@ -1822,7 +1828,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 171
+      "Count": 172
     }
   ]
 }

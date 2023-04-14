@@ -6,11 +6,11 @@
   "Ranking_Popularity": 7,
   "Ranking_PopularitySum": 8,
   "NumberOfRatings": 102658,
-  "NumberOfAwards": 337265,
+  "NumberOfAwards": 337402,
   "NumberOfAwardsMax": 133266,
   "MaxAwardTitle": "Impact the Story",
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-04-14T14:57:51.0325675+00:00",
+  "LastChanged": "2023-04-14T15:57:34.8163463+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:15.0342453+00:00",
@@ -4332,6 +4332,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 337265,
       "NumberOfAwardsMax": 133266
+    },
+    {
+      "Time": "2023-04-14T15:57:34.8163466+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 337402,
+      "NumberOfAwardsMax": 133266
     }
   ],
   "Tags": [
@@ -4345,7 +4351,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 72606
+      "Count": 72743
     },
     {
       "Text": "This game is Extremely Fun",

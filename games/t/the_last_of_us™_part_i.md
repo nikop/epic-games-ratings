@@ -1,5 +1,5 @@
 # The Last of Us™ Part I
-Rating: 3.77 (Ranked 891)  
+Rating: 3.78 (Ranked 890)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 35  (Ranked 417)  
 Sum: 35 (Ranked 442)  
@@ -25,3 +25,4 @@ Diff (max vs sum): -25
 | 2023-04-11 | 3.74 | - | 31 |
 | 2023-04-12 | 3.75 | - | 31 |
 | 2023-04-13 | 3.77 | - | 35 |
+| 2023-04-14 | 3.78 | - | 35 |
