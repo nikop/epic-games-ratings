@@ -1,5 +1,5 @@
 # Dakar Desert Rally
-Rating: 4.29 (Ranked 750)  
+Rating: 4.31 (Ranked 739)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  
@@ -35,3 +35,4 @@ Diff (max vs sum): 0
 | 2023-03-15 | 4.28 | - | - |
 | 2023-03-27 | 4.29 | - | - |
 | 2023-03-31 | 4.29 | - | 0 |
+| 2023-04-14 | 4.31 | - | 0 |

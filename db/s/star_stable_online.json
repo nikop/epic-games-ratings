@@ -3,14 +3,14 @@
   "Name": "Star Stable Online",
   "Rating": 4.41,
   "Ranking_Rating": 642,
-  "Ranking_Popularity": 294,
-  "Ranking_PopularitySum": 244,
+  "Ranking_Popularity": 292,
+  "Ranking_PopularitySum": 243,
   "NumberOfRatings": 317,
-  "NumberOfAwards": 784,
-  "NumberOfAwardsMax": 120,
+  "NumberOfAwards": 787,
+  "NumberOfAwardsMax": 121,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
-  "LastChanged": "2023-04-13T10:57:05.4494664+00:00",
+  "LastChanged": "2023-04-14T16:57:00.0036513+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:59.0360313+00:00",
@@ -842,6 +842,12 @@
       "Rating": 4.41,
       "NumberOfAwards": 784,
       "NumberOfAwardsMax": 120
+    },
+    {
+      "Time": "2023-04-14T16:57:00.0036514+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 787,
+      "NumberOfAwardsMax": 121
     }
   ],
   "Tags": [
@@ -867,19 +873,19 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 92
+      "Count": 93
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 120
+      "Count": 121
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 101
+      "Count": 102
     },
     {
       "Text": "This game has Amazing Storytelling",

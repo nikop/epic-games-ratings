@@ -1,5 +1,5 @@
 # Chess Ultra
-Rating: 4.25 (Ranked 770)  
+Rating: 4.27 (Ranked 762)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  
@@ -25,3 +25,4 @@ Diff (max vs sum): 0
 | 2023-04-10 | 4.25 | - | 0 |
 | 2023-04-11 | 4.26 | - | 0 |
 | 2023-04-12 | 4.25 | - | 0 |
+| 2023-04-14 | 4.27 | - | 0 |
