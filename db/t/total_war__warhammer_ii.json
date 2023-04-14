@@ -2,15 +2,15 @@
   "ID": "0f710ebf203f42e1a26a8bc5cb48709a",
   "Name": "Total War: WARHAMMER II",
   "Rating": 4.7,
-  "Ranking_Rating": 191,
+  "Ranking_Rating": 190,
   "Ranking_Popularity": 69,
   "Ranking_PopularitySum": 67,
   "NumberOfRatings": 1169,
-  "NumberOfAwards": 12994,
+  "NumberOfAwards": 12996,
   "NumberOfAwardsMax": 4166,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:16:56.1200636+00:00",
-  "LastChanged": "2023-04-13T22:56:45.7061851+00:00",
+  "LastChanged": "2023-04-14T03:56:54.8891667+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:56.1200639+00:00",
@@ -1757,6 +1757,12 @@
       "Rating": 4.7,
       "NumberOfAwards": 12994,
       "NumberOfAwardsMax": 4166
+    },
+    {
+      "Time": "2023-04-14T03:56:54.8891669+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 12996,
+      "NumberOfAwardsMax": 4166
     }
   ],
   "Tags": [
@@ -1776,7 +1782,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 880
+      "Count": 881
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1794,7 +1800,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 920
+      "Count": 921
     },
     {
       "Text": "This game has Obsessive Gameplay",

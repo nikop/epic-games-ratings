@@ -2,15 +2,15 @@
   "ID": "308cbcb523ad4937a8c509d10e9b688a",
   "Name": "Farming Simulator 22",
   "Rating": 4.7,
-  "Ranking_Rating": 191,
+  "Ranking_Rating": 190,
   "Ranking_Popularity": 70,
   "Ranking_PopularitySum": 28,
   "NumberOfRatings": 7683,
-  "NumberOfAwards": 35613,
+  "NumberOfAwards": 35617,
   "NumberOfAwardsMax": 4056,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
-  "LastChanged": "2023-04-13T18:56:47.9385824+00:00",
+  "LastChanged": "2023-04-14T03:56:58.8013968+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:20.637015+00:00",
@@ -3341,6 +3341,12 @@
       "Rating": 4.7,
       "NumberOfAwards": 35613,
       "NumberOfAwardsMax": 4056
+    },
+    {
+      "Time": "2023-04-14T03:56:58.801399+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 35617,
+      "NumberOfAwardsMax": 4056
     }
   ],
   "Tags": [
@@ -3408,7 +3414,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 2892
+      "Count": 2896
     },
     {
       "Text": "This game has Easy Combat",

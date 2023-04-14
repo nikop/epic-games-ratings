@@ -1,5 +1,5 @@
 # Farming Simulator 19
-Rating: 4.71 (Ranked 176)  
+Rating: 4.71 (Ranked 175)  
 Number of Ratings: 16,706  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 6,097  (Ranked 51)  
