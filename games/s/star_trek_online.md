@@ -1,14 +1,14 @@
 # Star Trek Online
-Rating: 4.44 (Ranked 609)  
+Rating: 4.44 (Ranked 610)  
 Number of Ratings: 565  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 513  (Ranked 177)  
-Sum: 2,101 (Ranked 179)  
-Diff (max vs sum): -2
+Max (Character Customization): 514  (Ranked 177)  
+Sum: 2,102 (Ranked 178)  
+Diff (max vs sum): -1
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 513 |
+| This game has Inclusive Character Customization | 514 |
 | This game is Great for Beginners | 211 |
 | This game is Relaxing | 207 |
 | This game has Diverse Characters | 206 |
@@ -116,4 +116,4 @@ Diff (max vs sum): -2
 | 2023-04-10 | 4.44 | - | 509 |
 | 2023-04-12 | 4.44 | - | 513 |
 | 2023-04-13 | 4.44 | - | 513 |
-| 2023-04-14 | 4.44 | - | 513 |
+| 2023-04-14 | 4.44 | - | 514 |

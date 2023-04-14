@@ -1,9 +1,9 @@
 # World of Warships
-Rating: 4.44 (Ranked 609)  
+Rating: 4.44 (Ranked 610)  
 Number of Ratings: 4,733  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 984  (Ranked 133)  
-Sum: 8,692 (Ranked 82)  
+Sum: 8,693 (Ranked 82)  
 Diff (max vs sum): 51
 ## Awards
 | Award | Number of Ratings |
@@ -14,7 +14,7 @@ Diff (max vs sum): 51
 | This game has Competitive Players | 930 |
 | This game has Challenging Combat | 924 |
 | This game is Highly Recommended | 911 |
-| This game has Realistic Visuals | 825 |
+| This game has Realistic Visuals | 826 |
 | This game has Amazing Storytelling | 796 |
 | This game has Amazing Characters | 704 |
 | This game has a Competitive Community | 695 |

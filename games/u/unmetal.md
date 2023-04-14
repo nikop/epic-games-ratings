@@ -1,5 +1,5 @@
 # UnMetal
-Rating: 4.52 (Ranked 499)  
+Rating: 4.52 (Ranked 498)  
 Number of Ratings: 35  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  

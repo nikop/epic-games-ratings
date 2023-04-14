@@ -2,15 +2,15 @@
   "ID": "9773aa1aa54f4f7b80e44bef04986cea",
   "Name": "Rocket League\u00AE",
   "Rating": 4.51,
-  "Ranking_Rating": 509,
+  "Ranking_Rating": 508,
   "Ranking_Popularity": 2,
   "Ranking_PopularitySum": 2,
   "NumberOfRatings": 366020,
-  "NumberOfAwards": 2610882,
+  "NumberOfAwards": 2611446,
   "NumberOfAwardsMax": 380738,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:17:22.1538752+00:00",
-  "LastChanged": "2023-04-14T15:56:55.0876643+00:00",
+  "LastChanged": "2023-04-14T21:56:53.35104+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:22.1538754+00:00",
@@ -3915,6 +3915,12 @@
       "Rating": 4.51,
       "NumberOfAwards": 2610882,
       "NumberOfAwardsMax": 380738
+    },
+    {
+      "Time": "2023-04-14T21:56:53.3510402+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 2611446,
+      "NumberOfAwardsMax": 380738
     }
   ],
   "Tags": [
@@ -3958,7 +3964,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 248965
+      "Count": 249529
     },
     {
       "Text": "This game has a Competitive Community",

@@ -2,15 +2,15 @@
   "ID": "06a97980aac14fdfb914ef603a113792",
   "Name": "Star Trek Online",
   "Rating": 4.44,
-  "Ranking_Rating": 609,
+  "Ranking_Rating": 610,
   "Ranking_Popularity": 177,
-  "Ranking_PopularitySum": 179,
+  "Ranking_PopularitySum": 178,
   "NumberOfRatings": 565,
-  "NumberOfAwards": 2101,
-  "NumberOfAwardsMax": 513,
+  "NumberOfAwards": 2102,
+  "NumberOfAwardsMax": 514,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:17:13.4550293+00:00",
-  "LastChanged": "2023-04-14T05:57:03.2233158+00:00",
+  "LastChanged": "2023-04-14T21:56:52.8344011+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:13.4550296+00:00",
@@ -986,6 +986,12 @@
       "Rating": 4.44,
       "NumberOfAwards": 2101,
       "NumberOfAwardsMax": 513
+    },
+    {
+      "Time": "2023-04-14T21:56:52.8344027+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 2102,
+      "NumberOfAwardsMax": 514
     }
   ],
   "Tags": [
@@ -993,7 +999,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 513
+      "Count": 514
     },
     {
       "Text": "This game has Quickly Understood Controls",

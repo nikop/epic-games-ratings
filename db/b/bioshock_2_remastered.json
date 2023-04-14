@@ -2,15 +2,15 @@
   "ID": "304724b675974566b1d7e23af80a1f52",
   "Name": "BioShock 2 Remastered",
   "Rating": 4.51,
-  "Ranking_Rating": 509,
+  "Ranking_Rating": 508,
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 117,
   "NumberOfRatings": 12272,
-  "NumberOfAwards": 5168,
+  "NumberOfAwards": 5169,
   "NumberOfAwardsMax": 4042,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:29:15.5533471+00:00",
-  "LastChanged": "2023-04-13T19:58:47.4834906+00:00",
+  "LastChanged": "2023-04-14T21:57:54.7468619+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:15.5533474+00:00",
@@ -1838,6 +1838,12 @@
       "Rating": 4.51,
       "NumberOfAwards": 5168,
       "NumberOfAwardsMax": 4042
+    },
+    {
+      "Time": "2023-04-14T21:57:54.7468621+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 5169,
+      "NumberOfAwardsMax": 4042
     }
   ],
   "Tags": [
@@ -1851,7 +1857,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 156
+      "Count": 157
     },
     {
       "Text": "This game has Unique Visuals",
