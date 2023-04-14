@@ -5,12 +5,12 @@
   "Ranking_Rating": 351,
   "Ranking_Popularity": 210,
   "Ranking_PopularitySum": 166,
-  "NumberOfAwards": 2351,
+  "NumberOfAwards": 2352,
   "NumberOfAwardsMax": 319,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-10-13T18:04:06.1897035+00:00",
   "FirstSeenRating": "2022-10-14T04:32:25.5553197+00:00",
-  "LastChanged": "2023-04-08T22:59:08.1991985+00:00",
+  "LastChanged": "2023-04-14T02:58:06.4833465+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-14T04:32:25.5553201+00:00",
@@ -157,6 +157,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 2351,
       "NumberOfAwardsMax": 319
+    },
+    {
+      "Time": "2023-04-14T02:58:06.4833466+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2352,
+      "NumberOfAwardsMax": 319
     }
   ],
   "Tags": [
@@ -176,7 +182,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 289
+      "Count": 290
     },
     {
       "Text": "This game is Highly Recommended",
