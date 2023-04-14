@@ -21,7 +21,7 @@
 | 19 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 14,422 | 4.89 | 13 |
 | 20 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,313 | 4.58 | 405 |
 | 21 | [Warframe](games/w/warframe.md) | 14,040 | 4.61 | 351 |
-| 22 | [Borderlands 2](games/b/borderlands_2.md) | 13,883 | 4.76 | 111 |
+| 22 | [Borderlands 2](games/b/borderlands_2.md) | 13,899 | 4.76 | 111 |
 | 23 | [Maneater](games/m/maneater.md) | 13,381 | 4.49 | 540 |
 | 24 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,148 | 4.60 | 374 |
 | 25 | [League of Legends](games/l/league_of_legends.md) | 12,456 | 4.21 | 788 |

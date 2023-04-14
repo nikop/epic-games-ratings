@@ -3,7 +3,7 @@ Rating: 4.36 (Ranked 695)
 Number of Ratings: 1,361  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Amazing Characters): 73  (Ranked 346)  
-Sum: 559 (Ranked 279)  
+Sum: 560 (Ranked 279)  
 Diff (max vs sum): 67
 ## Awards
 | Award | Number of Ratings |
@@ -16,7 +16,7 @@ Diff (max vs sum): 67
 | This game has Amazing Storytelling | 63 |
 | This game has Quickly Understood Controls | 61 |
 | This game is Relaxing | 57 |
-| This game has a Creative Community | 36 |
+| This game has a Creative Community | 37 |
 | This game has Obsessive Gameplay | 33 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |

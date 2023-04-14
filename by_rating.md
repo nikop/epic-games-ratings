@@ -112,7 +112,7 @@
 | 105 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 27 | 446 |
 | 111 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 0 | 484 |
 | 111 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 2,240 | 93 |
-| 111 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 13,883 | 22 |
+| 111 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 13,899 | 22 |
 | 111 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 84 | 335 |
 | 111 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 807 | 144 |
 | 111 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 39 | 404 |

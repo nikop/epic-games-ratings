@@ -97,7 +97,7 @@
 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 557 | 0 | 484 |
 | [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | 897 | 0 | 484 |
 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 111 | 2,240 | 93 |
-| [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 111 | 13,883 | 22 |
+| [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 111 | 13,899 | 22 |
 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 212 | 107,144 | 8 |
 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 540 | 391 | 196 |
 | [Brawlhalla](games/b/brawlhalla.md) | 4.56 | 437 | 71 | 351 |
