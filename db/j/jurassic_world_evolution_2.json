@@ -6,11 +6,11 @@
   "Ranking_Popularity": 166,
   "Ranking_PopularitySum": 115,
   "NumberOfRatings": 3746,
-  "NumberOfAwards": 5320,
+  "NumberOfAwards": 5322,
   "NumberOfAwardsMax": 571,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:20:10.4170435+00:00",
-  "LastChanged": "2023-04-14T22:57:23.3763593+00:00",
+  "LastChanged": "2023-04-14T23:57:35.8800981+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:10.4170437+00:00",
@@ -2460,6 +2460,12 @@
       "Rating": 4.74,
       "NumberOfAwards": 5320,
       "NumberOfAwardsMax": 571
+    },
+    {
+      "Time": "2023-04-14T23:57:35.8800983+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 5322,
+      "NumberOfAwardsMax": 571
     }
   ],
   "Tags": [
@@ -2527,7 +2533,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 468
+      "Count": 470
     }
   ]
 }

@@ -128,7 +128,7 @@
 | 124 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,144 | 83 |
 | 124 | [Diabotical](games/d/diabotical.md) | 4.75 | 262 | 231 |
 | 124 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 361 | 204 |
-| 124 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 95 | 320 |
+| 124 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 96 | 317 |
 | 124 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 402 | 191 |
 | 124 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.75 | 0 | 484 |
 | 124 | [Tchia](games/t/tchia.md) | 4.75 | 0 | 484 |
@@ -215,7 +215,7 @@
 | 212 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,716 | 75 |
 | 212 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 315 | 211 |
 | 212 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 0 | 484 |
-| 212 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 157,138 | 5 |
+| 212 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 157,511 | 5 |
 | 212 | [INSIDE](games/i/inside.md) | 4.69 | 0 | 484 |
 | 212 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,168 | 121 |
 | 212 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 484 |
@@ -346,14 +346,14 @@
 | 334 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.62 | 0 | 484 |
 | 334 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 585 | 163 |
 | 334 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 101 | 313 |
-| 334 | [Prey](games/p/prey.md) | 4.62 | 5,498 | 57 |
+| 334 | [Prey](games/p/prey.md) | 4.62 | 5,501 | 57 |
 | 334 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 70 | 354 |
 | 334 | [Transistor](games/t/transistor.md) | 4.62 | 0 | 484 |
 | 334 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.62 | 0 | 484 |
 | 351 | [20XX](games/2/20xx.md) | 4.61 | 36 | 414 |
 | 351 | [ABZU](games/a/abzu.md) | 4.61 | 0 | 484 |
 | 351 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 127 | 288 |
-| 351 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 3,951 | 72 |
+| 351 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 3,953 | 72 |
 | 351 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 484 |
 | 351 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 209 | 249 |
 | 351 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 372 | 201 |
@@ -414,7 +414,7 @@
 | 405 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 36 | 414 |
 | 405 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 212 | 245 |
 | 405 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 22 | 465 |
-| 405 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,468 | 111 |
+| 405 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,468 | 112 |
 | 405 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 201 | 251 |
 | 405 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 50 | 378 |
 | 405 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 165 | 272 |
@@ -532,7 +532,7 @@
 | 525 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 65 | 364 |
 | 525 | [Horace](games/h/horace.md) | 4.50 | 0 | 484 |
 | 525 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 0 | 484 |
-| 525 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 95 | 320 |
+| 525 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 96 | 317 |
 | 525 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 0 | 484 |
 | 525 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 0 | 484 |
 | 525 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 634 | 160 |
@@ -870,7 +870,7 @@
 | 867 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 0 | 484 |
 | 869 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 484 |
 | 869 | [Port Royale 4](games/p/port_royale_4.md) | 3.98 | 0 | 484 |
-| 869 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 1,455 | 112 |
+| 869 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 1,470 | 111 |
 | 869 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,511 | 65 |
 | 869 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 484 |
 | 874 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 484 |
