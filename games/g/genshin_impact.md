@@ -1,9 +1,9 @@
 # Genshin Impact
-Rating: 4.68 (Ranked 234)  
+Rating: 4.68 (Ranked 235)  
 Number of Ratings: 219,180  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 285,805  (Ranked 3)  
-Sum: 1,265,754 (Ranked 4)  
+Sum: 1,266,006 (Ranked 4)  
 Diff (max vs sum): -1
 ## Awards
 | Award | Number of Ratings |
@@ -16,7 +16,7 @@ Diff (max vs sum): -1
 | This game is Highly Recommended | 106,096 |
 | This game is Extremely Fun | 104,633 |
 | This game is Relaxing | 101,942 |
-| This game has Quickly Understood Controls | 101,347 |
+| This game has Quickly Understood Controls | 101,599 |
 | This game has Beautiful Visuals | 101,182 |
 | This game has Obsessive Gameplay | 53,865 |
 ## Ratings History

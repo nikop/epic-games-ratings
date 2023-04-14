@@ -1,14 +1,14 @@
 # My Time At Portia
-Rating: 4.67 (Ranked 256)  
+Rating: 4.67 (Ranked 257)  
 Number of Ratings: 3,894  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 2,206  (Ranked 95)  
-Sum: 4,687 (Ranked 124)  
+Max (Character Customization): 2,207  (Ranked 95)  
+Sum: 4,688 (Ranked 124)  
 Diff (max vs sum): -29
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 2,206 |
+| This game has Inclusive Character Customization | 2,207 |
 | This game is Great for Beginners | 279 |
 | This game has Easy Combat | 250 |
 | This game is Extremely Fun | 245 |
@@ -100,4 +100,4 @@ Diff (max vs sum): -29
 | 2023-04-11 | 4.67 | - | 2,204 |
 | 2023-04-12 | 4.67 | - | 2,205 |
 | 2023-04-13 | 4.67 | - | 2,206 |
-| 2023-04-14 | 4.67 | - | 2,206 |
+| 2023-04-14 | 4.67 | - | 2,207 |

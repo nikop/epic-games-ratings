@@ -2,15 +2,15 @@
   "ID": "4b5461ca8d1c488787b5200b420de066",
   "Name": "Shadow of the Tomb Raider: Definitive Edition",
   "Rating": 4.65,
-  "Ranking_Rating": 287,
+  "Ranking_Rating": 288,
   "Ranking_Popularity": 14,
   "Ranking_PopularitySum": 26,
   "NumberOfRatings": 77497,
-  "NumberOfAwards": 37169,
+  "NumberOfAwards": 37171,
   "NumberOfAwardsMax": 28337,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:32:36.072499+00:00",
-  "LastChanged": "2023-04-14T01:54:23.2495223+00:00",
+  "LastChanged": "2023-04-14T13:05:15.4536316+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:36.0724993+00:00",
@@ -3200,6 +3200,12 @@
       "Rating": 4.65,
       "NumberOfAwards": 37169,
       "NumberOfAwardsMax": 28337
+    },
+    {
+      "Time": "2023-04-14T13:05:15.4536318+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 37171,
+      "NumberOfAwardsMax": 28337
     }
   ],
   "Tags": [
@@ -3219,7 +3225,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 896
+      "Count": 898
     },
     {
       "Text": "This game is Extremely Fun",

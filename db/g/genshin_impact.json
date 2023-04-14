@@ -2,15 +2,15 @@
   "ID": "879b0d8776ab46a59a129983ba78f0ce",
   "Name": "Genshin Impact",
   "Rating": 4.68,
-  "Ranking_Rating": 234,
+  "Ranking_Rating": 235,
   "Ranking_Popularity": 3,
   "Ranking_PopularitySum": 4,
   "NumberOfRatings": 219180,
-  "NumberOfAwards": 1265754,
+  "NumberOfAwards": 1266006,
   "NumberOfAwardsMax": 285805,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2023-04-14T11:58:22.9790531+00:00",
+  "LastChanged": "2023-04-14T13:03:57.1523498+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:42.3518765+00:00",
@@ -4390,6 +4390,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 1265754,
       "NumberOfAwardsMax": 285805
+    },
+    {
+      "Time": "2023-04-14T13:03:57.1523499+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1266006,
+      "NumberOfAwardsMax": 285805
     }
   ],
   "Tags": [
@@ -4445,7 +4451,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 101347
+      "Count": 101599
     },
     {
       "Text": "This game is Relaxing",

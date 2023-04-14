@@ -1,6 +1,18 @@
 {
   "ID": "d8a4cd05d72d437aa3f3091bae2add52",
   "Name": "Shin-chan Me and the Professor on Summer Vacation",
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-14T13:04:33.1915303+00:00",
+  "FirstSeenRating": "2023-04-14T13:04:33.1915334+00:00",
+  "LastChanged": "2023-04-14T13:04:33.1915334+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-14T13:04:33.1915338+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

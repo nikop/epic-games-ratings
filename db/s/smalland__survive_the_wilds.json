@@ -1,15 +1,15 @@
 {
   "ID": "390584f0f63a4e69978eafa4d4fce9e7",
   "Name": "Smalland: Survive the Wilds",
-  "Rating": 4.67,
-  "Ranking_Rating": 256,
+  "Rating": 4.69,
+  "Ranking_Rating": 212,
   "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 484,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-29T21:57:34.1236869+00:00",
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
-  "LastChanged": "2023-04-12T18:57:15.2753941+00:00",
+  "LastChanged": "2023-04-14T13:03:42.147248+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:29.8298129+00:00",
@@ -50,6 +50,12 @@
     {
       "Time": "2023-04-12T18:57:15.2753942+00:00",
       "Rating": 4.67,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-14T13:03:42.1472481+00:00",
+      "Rating": 4.69,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

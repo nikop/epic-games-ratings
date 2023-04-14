@@ -2,15 +2,15 @@
   "ID": "cobra",
   "Name": "My Time At Portia",
   "Rating": 4.67,
-  "Ranking_Rating": 256,
+  "Ranking_Rating": 257,
   "Ranking_Popularity": 95,
   "Ranking_PopularitySum": 124,
   "NumberOfRatings": 3894,
-  "NumberOfAwards": 4687,
-  "NumberOfAwardsMax": 2206,
+  "NumberOfAwards": 4688,
+  "NumberOfAwardsMax": 2207,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:22:29.4113784+00:00",
-  "LastChanged": "2023-04-14T10:57:42.1096962+00:00",
+  "LastChanged": "2023-04-14T13:03:47.2021409+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:29.4113786+00:00",
@@ -2114,6 +2114,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 4687,
       "NumberOfAwardsMax": 2206
+    },
+    {
+      "Time": "2023-04-14T13:03:47.2021414+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4688,
+      "NumberOfAwardsMax": 2207
     }
   ],
   "Tags": [
@@ -2121,7 +2127,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 2206
+      "Count": 2207
     },
     {
       "Text": "This game is Relaxing",
