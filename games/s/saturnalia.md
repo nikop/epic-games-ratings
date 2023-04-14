@@ -1,5 +1,5 @@
 # Saturnalia
-Rating: 4.25 (Ranked 769)  
+Rating: 4.24 (Ranked 773)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  
@@ -43,3 +43,4 @@ Diff (max vs sum): 0
 | 2022-12-26 | 4.24 | - | - |
 | 2023-03-05 | 4.25 | - | - |
 | 2023-03-31 | 4.25 | - | 0 |
+| 2023-04-14 | 4.24 | - | 0 |
