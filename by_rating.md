@@ -16,7 +16,7 @@
 | 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,684 | 45 |
 | 13 | [Firework](games/f/firework.md) | 4.89 | 0 | 484 |
 | 13 | [God of War](games/g/god_of_war.md) | 4.89 | 3,930 | 73 |
-| 13 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 133,054 | 7 |
+| 13 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 133,266 | 7 |
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 397 | 192 |
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 14,422 | 19 |
 | 20 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 127 | 288 |
@@ -95,7 +95,7 @@
 | 91 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 879 | 141 |
 | 91 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 2,223 | 94 |
 | 91 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 974 | 135 |
-| 91 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,788 | 55 |
+| 91 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,791 | 55 |
 | 91 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 363 | 203 |
 | 91 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 115 | 299 |
 | 91 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 484 |
@@ -173,7 +173,7 @@
 | 164 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 484 |
 | 164 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 0 | 484 |
 | 164 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 0 | 484 |
-| 164 | [Timberborn](games/t/timberborn.md) | 4.72 | 111 | 305 |
+| 164 | [Timberborn](games/t/timberborn.md) | 4.72 | 112 | 302 |
 | 175 | [Barony](games/b/barony.md) | 4.71 | 69 | 355 |
 | 175 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 484 |
 | 175 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,097 | 51 |
@@ -193,7 +193,7 @@
 | 190 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,476 | 67 |
 | 190 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 0 | 484 |
 | 190 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 297 | 219 |
-| 190 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,056 | 70 |
+| 190 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,061 | 70 |
 | 190 | [For The King](games/f/for_the_king.md) | 4.70 | 355 | 205 |
 | 190 | [House Flipper](games/h/house_flipper.md) | 4.70 | 278 | 223 |
 | 190 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 50 | 378 |
@@ -556,7 +556,6 @@
 | 540 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 0 | 484 |
 | 540 | [Solitairica](games/s/solitairica.md) | 4.49 | 81 | 338 |
 | 540 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 0 | 484 |
-| 557 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 0 | 484 |
 | 557 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.48 | 20 | 477 |
 | 557 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 484 |
 | 557 | [Far Cry](games/f/far_cry.md) | 4.48 | 0 | 484 |
@@ -566,17 +565,18 @@
 | 557 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 0 | 484 |
 | 557 | [The Escapists](games/t/the_escapists.md) | 4.48 | 0 | 484 |
 | 557 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 36 | 413 |
-| 567 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 484 |
-| 567 | [Chorus](games/c/chorus.md) | 4.47 | 32 | 428 |
-| 567 | [Duskers](games/d/duskers.md) | 4.47 | 0 | 484 |
-| 567 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,425 | 79 |
-| 567 | [Riverbond](games/r/riverbond.md) | 4.47 | 0 | 484 |
-| 567 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 0 | 484 |
-| 567 | [Scorn](games/s/scorn.md) | 4.47 | 0 | 484 |
-| 567 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.47 | 0 | 484 |
-| 567 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 0 | 484 |
-| 567 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 96 | 317 |
-| 567 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 484 |
+| 566 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 0 | 484 |
+| 566 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 484 |
+| 566 | [Chorus](games/c/chorus.md) | 4.47 | 32 | 428 |
+| 566 | [Duskers](games/d/duskers.md) | 4.47 | 0 | 484 |
+| 566 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,425 | 79 |
+| 566 | [Riverbond](games/r/riverbond.md) | 4.47 | 0 | 484 |
+| 566 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 0 | 484 |
+| 566 | [Scorn](games/s/scorn.md) | 4.47 | 0 | 484 |
+| 566 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.47 | 0 | 484 |
+| 566 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 0 | 484 |
+| 566 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 96 | 317 |
+| 566 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 484 |
 | 578 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 484 |
 | 578 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 0 | 484 |
 | 578 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 0 | 484 |
@@ -603,7 +603,7 @@
 | 593 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 484 |
 | 593 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 846 | 143 |
 | 593 | [Predecessor](games/p/predecessor.md) | 4.45 | 51 | 377 |
-| 593 | [SMITE](games/s/smite.md) | 4.45 | 3,617 | 77 |
+| 593 | [SMITE](games/s/smite.md) | 4.45 | 3,622 | 77 |
 | 593 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.45 | 0 | 484 |
 | 593 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 113 | 300 |
 | 593 | [Weird West](games/w/weird_west.md) | 4.45 | 22 | 465 |

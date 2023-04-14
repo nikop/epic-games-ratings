@@ -3,8 +3,8 @@ Rating: 4.55 (Ranked 460)
 Number of Ratings: 1,912  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 46  (Ranked 387)  
-Sum: 333 (Ranked 310)  
-Diff (max vs sum): 77
+Sum: 333 (Ranked 311)  
+Diff (max vs sum): 76
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

@@ -1,5 +1,5 @@
 # Surviving the Aftermath: Founder's Edition
-Rating: 4.47 (Ranked 567)  
+Rating: 4.47 (Ranked 566)  
 Number of Ratings: 836  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 96  (Ranked 317)  
