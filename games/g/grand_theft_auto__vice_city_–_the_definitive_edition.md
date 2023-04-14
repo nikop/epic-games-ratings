@@ -1,5 +1,5 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
-Rating: 4.66 (Ranked 272)  
+Rating: 4.63 (Ranked 325)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  
@@ -43,3 +43,4 @@ Diff (max vs sum): 0
 | 2023-04-10 | 4.66 | - | 0 |
 | 2023-04-12 | 4.67 | - | 0 |
 | 2023-04-13 | 4.66 | - | 0 |
+| 2023-04-14 | 4.63 | - | 0 |

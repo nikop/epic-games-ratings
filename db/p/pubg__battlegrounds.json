@@ -1,8 +1,8 @@
 {
   "ID": "eb99ee4694474e8da0b05a8ab391825c",
   "Name": "PUBG: BATTLEGROUNDS",
-  "Rating": 3.99,
-  "Ranking_Rating": 866,
+  "Rating": 3.98,
+  "Ranking_Rating": 868,
   "Ranking_Popularity": 112,
   "Ranking_PopularitySum": 123,
   "NumberOfAwards": 4735,
@@ -10,7 +10,7 @@
   "MaxAwardTitle": "Competitive Players",
   "FirstSeen": "2022-12-06T17:57:24.6501738+00:00",
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
-  "LastChanged": "2023-04-14T10:57:24.1005136+00:00",
+  "LastChanged": "2023-04-14T11:57:54.3851798+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-08T10:57:21.6139883+00:00",
@@ -657,6 +657,12 @@
     {
       "Time": "2023-04-14T10:57:24.1005137+00:00",
       "Rating": 3.99,
+      "NumberOfAwards": 4735,
+      "NumberOfAwardsMax": 1455
+    },
+    {
+      "Time": "2023-04-14T11:57:54.38518+00:00",
+      "Rating": 3.98,
       "NumberOfAwards": 4735,
       "NumberOfAwardsMax": 1455
     }

@@ -1,16 +1,16 @@
 {
   "ID": "impala",
   "Name": "The Division 2 Standard Edition",
-  "Rating": 4.47,
-  "Ranking_Rating": 567,
+  "Rating": 4.46,
+  "Ranking_Rating": 578,
   "Ranking_Popularity": 47,
   "Ranking_PopularitySum": 51,
   "NumberOfRatings": 6675,
-  "NumberOfAwards": 20481,
+  "NumberOfAwards": 20490,
   "NumberOfAwardsMax": 6400,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2023-04-13T23:57:18.296218+00:00",
+  "LastChanged": "2023-04-14T11:58:09.9104864+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:04.4200789+00:00",
@@ -3664,6 +3664,12 @@
       "Rating": 4.47,
       "NumberOfAwards": 20481,
       "NumberOfAwardsMax": 6400
+    },
+    {
+      "Time": "2023-04-14T11:58:09.9104866+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 20490,
+      "NumberOfAwardsMax": 6400
     }
   ],
   "Tags": [
@@ -3689,7 +3695,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1024
+      "Count": 1033
     },
     {
       "Text": "This game is Highly Recommended",

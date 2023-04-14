@@ -1,15 +1,15 @@
 {
   "ID": "4b5f1eb366dc45f0920d397c01b291ba",
   "Name": "Q.U.B.E. 2",
-  "Rating": 4.4,
-  "Ranking_Rating": 658,
+  "Rating": 4.41,
+  "Ranking_Rating": 641,
   "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 484,
   "NumberOfRatings": 94,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
-  "LastChanged": "2023-03-31T05:57:10.9178085+00:00",
+  "LastChanged": "2023-04-14T11:57:45.3563489+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:01.6692959+00:00",
@@ -303,6 +303,12 @@
     {
       "Time": "2023-03-31T05:57:10.9178087+00:00",
       "Rating": 4.4,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-14T11:57:45.3563492+00:00",
+      "Rating": 4.41,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

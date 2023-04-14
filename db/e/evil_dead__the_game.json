@@ -3,14 +3,14 @@
   "Name": "Evil Dead: The Game",
   "Rating": 4.37,
   "Ranking_Rating": 689,
-  "Ranking_Popularity": 26,
+  "Ranking_Popularity": 27,
   "Ranking_PopularitySum": 37,
   "NumberOfRatings": 9131,
-  "NumberOfAwards": 28473,
+  "NumberOfAwards": 28475,
   "NumberOfAwardsMax": 12210,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:18:51.4090236+00:00",
-  "LastChanged": "2023-04-14T02:56:49.9286029+00:00",
+  "LastChanged": "2023-04-14T11:57:27.4411154+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:51.4090239+00:00",
@@ -2831,6 +2831,12 @@
       "Rating": 4.37,
       "NumberOfAwards": 28473,
       "NumberOfAwardsMax": 12210
+    },
+    {
+      "Time": "2023-04-14T11:57:27.4411156+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 28475,
+      "NumberOfAwardsMax": 12210
     }
   ],
   "Tags": [
@@ -2862,7 +2868,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1876
+      "Count": 1878
     },
     {
       "Text": "This game has Amazing Characters",

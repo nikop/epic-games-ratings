@@ -1,5 +1,5 @@
 # Shop Titans
-Rating: 3.98 (Ranked 869)  
+Rating: 3.98 (Ranked 868)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 4,507  (Ranked 65)  
