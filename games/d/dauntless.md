@@ -1,5 +1,5 @@
 # Dauntless
-Rating: 4.53 (Ranked 481)  
+Rating: 4.53 (Ranked 482)  
 Number of Ratings: 23,656  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 19,401  (Ranked 16)  
