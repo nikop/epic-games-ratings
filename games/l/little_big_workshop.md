@@ -1,5 +1,5 @@
 # Little Big Workshop
-Rating: 4.30 (Ranked 741)  
+Rating: 4.30 (Ranked 742)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  

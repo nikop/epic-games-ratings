@@ -1,9 +1,9 @@
 # Roller Champions™
-Rating: 4.34 (Ranked 713)  
+Rating: 4.34 (Ranked 714)  
 Number of Ratings: 5,693  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 232  (Ranked 238)  
-Sum: 1,776 (Ranked 193)  
+Sum: 1,777 (Ranked 193)  
 Diff (max vs sum): 45
 ## Awards
 | Award | Number of Ratings |
@@ -14,7 +14,7 @@ Diff (max vs sum): 45
 | This game is Extremely Fun | 203 |
 | This game has Quickly Understood Controls | 197 |
 | This game has Competitive Players | 195 |
-| This game has Amazing Storytelling | 193 |
+| This game has Amazing Storytelling | 194 |
 | This game has Amazing Characters | 171 |
 | This game has a Competitive Community | 162 |
 | This game is Relaxing | 114 |

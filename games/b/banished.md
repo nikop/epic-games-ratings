@@ -1,5 +1,5 @@
 # Banished
-Rating: 3.96 (Ranked 874)  
+Rating: 3.96 (Ranked 875)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  

@@ -2,15 +2,15 @@
   "ID": "d8d8b399f3d14ac2b9b75870329a68dd",
   "Name": "Train Sim World\u00AE 2",
   "Rating": 4.42,
-  "Ranking_Rating": 632,
+  "Ranking_Rating": 633,
   "Ranking_Popularity": 175,
   "Ranking_PopularitySum": 129,
   "NumberOfRatings": 2541,
-  "NumberOfAwards": 4132,
+  "NumberOfAwards": 4133,
   "NumberOfAwardsMax": 532,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:17:00.3136154+00:00",
-  "LastChanged": "2023-04-14T11:57:27.9638583+00:00",
+  "LastChanged": "2023-04-14T13:57:08.5785274+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:00.3136156+00:00",
@@ -2060,6 +2060,12 @@
       "Rating": 4.42,
       "NumberOfAwards": 4132,
       "NumberOfAwardsMax": 532
+    },
+    {
+      "Time": "2023-04-14T13:57:08.5785275+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 4133,
+      "NumberOfAwardsMax": 532
     }
   ],
   "Tags": [
@@ -2115,7 +2121,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 291
+      "Count": 292
     },
     {
       "Text": "This game has Amazing Storytelling",

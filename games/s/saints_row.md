@@ -1,5 +1,5 @@
 # Saints Row
-Rating: 3.78 (Ranked 889)  
+Rating: 3.78 (Ranked 890)  
 Number of Ratings: 22,103  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 1,018  (Ranked 130)  

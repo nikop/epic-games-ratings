@@ -1,5 +1,5 @@
 # Paragon: The Overprime
-Rating: 4.24 (Ranked 773)  
+Rating: 4.24 (Ranked 774)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 312  (Ranked 213)  
 Sum: 2,422 (Ranked 164)  
