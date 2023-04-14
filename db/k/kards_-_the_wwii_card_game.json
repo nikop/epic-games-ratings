@@ -2,15 +2,15 @@
   "ID": "d34cf6aeceb94c579af0236fe1185b79",
   "Name": "KARDS - The WWII Card Game",
   "Rating": 4.38,
-  "Ranking_Rating": 676,
+  "Ranking_Rating": 677,
   "Ranking_Popularity": 174,
   "Ranking_PopularitySum": 135,
   "NumberOfRatings": 1466,
-  "NumberOfAwards": 3598,
+  "NumberOfAwards": 3599,
   "NumberOfAwardsMax": 539,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:20:27.7135917+00:00",
-  "LastChanged": "2023-04-14T03:56:57.9722686+00:00",
+  "LastChanged": "2023-04-14T10:57:02.1803719+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:27.713592+00:00",
@@ -1464,6 +1464,12 @@
       "Rating": 4.38,
       "NumberOfAwards": 3598,
       "NumberOfAwardsMax": 539
+    },
+    {
+      "Time": "2023-04-14T10:57:02.1803721+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 3599,
+      "NumberOfAwardsMax": 539
     }
   ],
   "Tags": [
@@ -1471,7 +1477,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 491
+      "Count": 492
     },
     {
       "Text": "This game is Relaxing",
