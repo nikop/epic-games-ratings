@@ -2,15 +2,15 @@
   "ID": "87c84bc5f43d4fe69ad8f3ccde0594b0",
   "Name": "Dishonored\u00AE: Death of the Outsider\u2122",
   "Rating": 4.43,
-  "Ranking_Rating": 625,
+  "Ranking_Rating": 626,
   "Ranking_Popularity": 465,
-  "Ranking_PopularitySum": 381,
-  "NumberOfAwards": 124,
+  "Ranking_PopularitySum": 373,
+  "NumberOfAwards": 144,
   "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Amazing Storytelling",
   "FirstSeen": "2022-12-15T22:58:09.2323476+00:00",
   "FirstSeenRating": "2022-12-26T17:58:45.352902+00:00",
-  "LastChanged": "2023-04-12T21:59:26.0813298+00:00",
+  "LastChanged": "2023-04-14T20:58:17.7280283+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-26T17:58:45.3529025+00:00",
@@ -215,6 +215,12 @@
       "Rating": 4.43,
       "NumberOfAwards": 124,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-04-14T20:58:17.7280284+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 144,
+      "NumberOfAwardsMax": 22
     }
   ],
   "Tags": [
@@ -258,6 +264,12 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
+      "Count": 20
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
       "Count": 20
     }
   ]
