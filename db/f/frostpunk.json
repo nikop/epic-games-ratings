@@ -6,11 +6,11 @@
   "Ranking_Popularity": 146,
   "Ranking_PopularitySum": 109,
   "NumberOfRatings": 11240,
-  "NumberOfAwards": 6350,
+  "NumberOfAwards": 6351,
   "NumberOfAwardsMax": 763,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
-  "LastChanged": "2023-04-14T11:57:56.9411958+00:00",
+  "LastChanged": "2023-04-14T19:57:26.740405+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:37.4125463+00:00",
@@ -2956,6 +2956,12 @@
       "Rating": 4.73,
       "NumberOfAwards": 6350,
       "NumberOfAwardsMax": 763
+    },
+    {
+      "Time": "2023-04-14T19:57:26.7404051+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 6351,
+      "NumberOfAwardsMax": 763
     }
   ],
   "Tags": [
@@ -3023,7 +3029,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 598
+      "Count": 599
     }
   ]
 }

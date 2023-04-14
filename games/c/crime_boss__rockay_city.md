@@ -2,8 +2,8 @@
 Rating: 3.92 (Ranked 879)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 108  (Ranked 307)  
-Sum: 524 (Ranked 285)  
-Diff (max vs sum): 22
+Sum: 524 (Ranked 286)  
+Diff (max vs sum): 21
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
