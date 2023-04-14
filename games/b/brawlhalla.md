@@ -2,8 +2,8 @@
 Rating: 4.56 (Ranked 437)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 71  (Ranked 351)  
-Sum: 671 (Ranked 257)  
-Diff (max vs sum): 94
+Sum: 672 (Ranked 258)  
+Diff (max vs sum): 93
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
@@ -16,7 +16,7 @@ Diff (max vs sum): 94
 | This game has Quickly Understood Controls | 54 |
 | This game is Extremely Fun | 53 |
 | This game has Challenging Combat | 51 |
-| This game has Amazing Characters | 49 |
+| This game has Amazing Characters | 50 |
 | This game has Amazing Storytelling | 46 |
 | This game has a Competitive Community | 40 |
 ## Ratings History

@@ -1,5 +1,5 @@
 # HOT WHEELS UNLEASHED™
-Rating: 4.60 (Ranked 374)  
+Rating: 4.60 (Ranked 375)  
 Number of Ratings: 312  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 36  (Ranked 413)  

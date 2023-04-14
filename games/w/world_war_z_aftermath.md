@@ -3,13 +3,13 @@ Rating: 4.56 (Ranked 437)
 Number of Ratings: 17,073  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 3,695  (Ranked 76)  
-Sum: 25,226 (Ranked 45)  
+Sum: 25,233 (Ranked 45)  
 Diff (max vs sum): 31
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Great for Beginners | 3,695 |
-| This game has Diverse Characters | 3,290 |
+| This game has Diverse Characters | 3,297 |
 | This game is Relaxing | 3,191 |
 | This game is Highly Recommended | 3,126 |
 | This game has Quickly Understood Controls | 3,090 |

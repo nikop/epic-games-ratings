@@ -2,8 +2,8 @@
 Rating: 4.32 (Ranked 730)  
 ## Popularity (Based on Awards)
 Max (Challenging Puzzles): 548  (Ranked 169)  
-Sum: 662 (Ranked 259)  
-Diff (max vs sum): -90
+Sum: 662 (Ranked 260)  
+Diff (max vs sum): -91
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

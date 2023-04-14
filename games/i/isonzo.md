@@ -2,13 +2,13 @@
 Rating: 4.56 (Ranked 437)  
 Number of Ratings: 98  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Highly Recommended): 29  (Ranked 441)  
-Sum: 225 (Ranked 340)  
-Diff (max vs sum): 101
+Max (Highly Recommended): 30  (Ranked 438)  
+Sum: 226 (Ranked 340)  
+Diff (max vs sum): 98
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Highly Recommended | 29 |
+| This game is Highly Recommended | 30 |
 | This game is Extremely Fun | 26 |
 | This game has Quickly Understood Controls | 26 |
 | This game is Educational | 26 |
@@ -76,3 +76,4 @@ Diff (max vs sum): 101
 | 2023-04-06 | 4.56 | - | 29 |
 | 2023-04-07 | 4.55 | - | 29 |
 | 2023-04-09 | 4.56 | - | 29 |
+| 2023-04-14 | 4.56 | - | 30 |
