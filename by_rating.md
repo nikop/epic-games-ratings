@@ -151,8 +151,8 @@
 | 139 | [Tchia](games/t/tchia.md) | 4.74 | 0 | 484 |
 | 139 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 484 |
 | 139 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 737 | 149 |
-| 139 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 76 | 341 |
-| 139 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 573 | 164 |
+| 139 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 77 | 340 |
+| 139 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 573 | 165 |
 | 154 | [BLACKTAIL](games/b/blacktail.md) | 4.73 | 0 | 484 |
 | 154 | [DOOM II](games/d/doom_ii.md) | 4.73 | 25 | 456 |
 | 154 | [Frostpunk](games/f/frostpunk.md) | 4.73 | 763 | 146 |
@@ -180,7 +180,7 @@
 | 175 | [Fez](games/f/fez.md) | 4.71 | 23 | 461 |
 | 175 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 417 |
 | 175 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 0 | 484 |
-| 175 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,076 | 43 |
+| 175 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,081 | 43 |
 | 175 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 0 | 484 |
 | 175 | [Northgard](games/n/northgard.md) | 4.71 | 27 | 446 |
 | 175 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 0 | 484 |
@@ -339,7 +339,7 @@
 | 334 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 341 | 206 |
 | 334 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 527 | 176 |
 | 334 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 484 |
-| 334 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 573 | 164 |
+| 334 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 574 | 164 |
 | 334 | [MudRunner](games/m/mudrunner.md) | 4.62 | 229 | 240 |
 | 334 | [NORCO](games/n/norco.md) | 4.62 | 0 | 484 |
 | 334 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 484 |
@@ -353,7 +353,7 @@
 | 351 | [20XX](games/2/20xx.md) | 4.61 | 36 | 413 |
 | 351 | [ABZU](games/a/abzu.md) | 4.61 | 0 | 484 |
 | 351 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 127 | 288 |
-| 351 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 3,949 | 72 |
+| 351 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 3,951 | 72 |
 | 351 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 484 |
 | 351 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 209 | 249 |
 | 351 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 372 | 201 |
@@ -421,7 +421,7 @@
 | 405 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 960 | 138 |
 | 405 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 5,956 | 52 |
 | 405 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 201 | 251 |
-| 405 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,307 | 20 |
+| 405 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,313 | 20 |
 | 423 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 0 | 484 |
 | 423 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 0 | 484 |
 | 423 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 148 | 278 |
@@ -479,7 +479,7 @@
 | 469 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 489 | 180 |
 | 469 | [VALORANT](games/v/valorant.md) | 4.54 | 48,584 | 11 |
 | 469 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 28 | 445 |
-| 469 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 1,111 | 123 |
+| 469 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 1,112 | 123 |
 | 481 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 484 |
 | 481 | [Aztez](games/a/aztez.md) | 4.53 | 0 | 484 |
 | 481 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 484 |
@@ -513,7 +513,7 @@
 | 509 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,042 | 71 |
 | 509 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 38 | 408 |
 | 509 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 21 | 472 |
-| 509 | [First Class Trouble](games/f/first_class_trouble.md) | 4.51 | 76 | 341 |
+| 509 | [First Class Trouble](games/f/first_class_trouble.md) | 4.51 | 76 | 342 |
 | 509 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 104 | 309 |
 | 509 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.51 | 0 | 484 |
 | 509 | [MythForce](games/m/mythforce.md) | 4.51 | 32 | 428 |
