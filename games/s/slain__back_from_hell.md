@@ -1,5 +1,5 @@
 # Slain: Back From Hell
-Rating: 4.29 (Ranked 751)  
+Rating: 4.29 (Ranked 752)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 124  (Ranked 290)  
 Sum: 124 (Ranked 382)  

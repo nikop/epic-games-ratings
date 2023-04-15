@@ -1,5 +1,5 @@
 # Dice Legacy
-Rating: 4.29 (Ranked 751)  
+Rating: 4.29 (Ranked 752)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  
