@@ -1,8 +1,8 @@
 {
   "ID": "c3e63401d6ba410493de31ed69a798a1",
   "Name": "Heroes \u0026 Generals WWII",
-  "Rating": 4.24,
-  "Ranking_Rating": 775,
+  "Rating": 4.23,
+  "Ranking_Rating": 785,
   "Ranking_Popularity": 135,
   "Ranking_PopularitySum": 103,
   "NumberOfRatings": 4634,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 979,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:17:51.2948147+00:00",
-  "LastChanged": "2023-04-15T08:57:08.8382123+00:00",
+  "LastChanged": "2023-04-15T23:57:18.751735+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:51.2948149+00:00",
@@ -2955,6 +2955,12 @@
     {
       "Time": "2023-04-15T08:57:08.8382124+00:00",
       "Rating": 4.24,
+      "NumberOfAwards": 6851,
+      "NumberOfAwardsMax": 979
+    },
+    {
+      "Time": "2023-04-15T23:57:18.7517353+00:00",
+      "Rating": 4.23,
       "NumberOfAwards": 6851,
       "NumberOfAwardsMax": 979
     }

@@ -1,5 +1,5 @@
 # IXION
-Rating: 4.53 (Ranked 484)  
+Rating: 4.54 (Ranked 470)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  
@@ -41,3 +41,4 @@ Diff (max vs sum): 0
 | 2023-03-17 | 4.54 | - | - |
 | 2023-03-31 | 4.54 | - | 0 |
 | 2023-04-02 | 4.53 | - | 0 |
+| 2023-04-15 | 4.54 | - | 0 |
