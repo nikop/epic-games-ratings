@@ -366,7 +366,7 @@
 | 351 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 0 | 484 |
 | 351 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,060 | 125 |
 | 351 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 484 |
-| 351 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,412 | 89 |
+| 351 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,415 | 88 |
 | 351 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 397 | 192 |
 | 351 | [Road 96](games/r/road_96.md) | 4.61 | 0 | 484 |
 | 351 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,057 | 126 |
@@ -484,7 +484,7 @@
 | 482 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 484 |
 | 482 | [Aztez](games/a/aztez.md) | 4.53 | 0 | 484 |
 | 482 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 484 |
-| 482 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,401 | 16 |
+| 482 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,419 | 16 |
 | 482 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 33 | 425 |
 | 482 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 137,497 | 6 |
 | 482 | [IXION](games/i/ixion.md) | 4.53 | 0 | 484 |
@@ -647,7 +647,7 @@
 | 643 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 171 | 266 |
 | 643 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.41 | 0 | 484 |
 | 643 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 92 | 324 |
-| 643 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 11,771 | 28 |
+| 643 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 11,777 | 28 |
 | 643 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 0 | 484 |
 | 643 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 0 | 484 |
 | 643 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.41 | 0 | 484 |
@@ -837,12 +837,12 @@
 | 833 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.13 | 0 | 484 |
 | 836 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 0 | 484 |
 | 836 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.12 | 32 | 428 |
-| 836 | [Second Extinction™](games/s/second_extinction™.md) | 4.12 | 234 | 237 |
-| 839 | [Forspoken](games/f/forspoken.md) | 4.11 | 0 | 484 |
-| 839 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.11 | 0 | 484 |
-| 839 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.11 | 0 | 484 |
-| 839 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 0 | 484 |
-| 839 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 0 | 484 |
+| 838 | [Forspoken](games/f/forspoken.md) | 4.11 | 0 | 484 |
+| 838 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.11 | 0 | 484 |
+| 838 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.11 | 0 | 484 |
+| 838 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 0 | 484 |
+| 838 | [Second Extinction™](games/s/second_extinction™.md) | 4.11 | 234 | 237 |
+| 838 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.11 | 0 | 484 |
 | 844 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 71 | 351 |
 | 844 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 0 | 484 |
 | 844 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 376 |
