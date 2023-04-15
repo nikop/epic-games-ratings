@@ -34,7 +34,7 @@
 | 30 | [Inscryption](games/i/inscryption.md) | 4.86 | 328 | 208 |
 | 30 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 94 | 322 |
 | 30 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 39 | 404 |
-| 30 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,179 | 120 |
+| 30 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,180 | 120 |
 | 30 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 449 | 185 |
 | 37 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 37 | 411 |
 | 37 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,456 | 40 |
@@ -65,7 +65,7 @@
 | 60 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 484 |
 | 60 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 484 |
 | 60 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 0 | 484 |
-| 60 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 470 | 183 |
+| 60 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 472 | 183 |
 | 60 | [Sifu](games/s/sifu.md) | 4.82 | 5,909 | 53 |
 | 60 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 0 | 484 |
 | 69 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 415 | 188 |
@@ -468,7 +468,7 @@
 | 460 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.55 | 0 | 484 |
 | 460 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.55 | 0 | 484 |
 | 460 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.55 | 46 | 387 |
-| 469 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,054 | 127 |
+| 469 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,057 | 126 |
 | 469 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.54 | 12,679 | 25 |
 | 469 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 978 | 134 |
 | 469 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 191 | 257 |
@@ -512,7 +512,7 @@
 | 508 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,047 | 71 |
 | 508 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 38 | 408 |
 | 508 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 21 | 472 |
-| 508 | [First Class Trouble](games/f/first_class_trouble.md) | 4.51 | 76 | 342 |
+| 508 | [First Class Trouble](games/f/first_class_trouble.md) | 4.51 | 77 | 340 |
 | 508 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 104 | 309 |
 | 508 | [Knockout City™](games/k/knockout_city™.md) | 4.51 | 0 | 484 |
 | 508 | [MythForce](games/m/mythforce.md) | 4.51 | 32 | 428 |
@@ -688,13 +688,13 @@
 | 678 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 0 | 484 |
 | 678 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.38 | 0 | 484 |
 | 678 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 484 |
+| 678 | [Tunche](games/t/tunche.md) | 4.38 | 0 | 484 |
 | 678 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 31 | 434 |
-| 690 | [Core](games/c/core.md) | 4.37 | 723 | 151 |
-| 690 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 484 |
-| 690 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 12,210 | 27 |
-| 690 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,125 | 99 |
-| 690 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 484 |
-| 690 | [Tunche](games/t/tunche.md) | 4.37 | 0 | 484 |
+| 691 | [Core](games/c/core.md) | 4.37 | 723 | 151 |
+| 691 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 484 |
+| 691 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 12,210 | 27 |
+| 691 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,125 | 99 |
+| 691 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 484 |
 | 696 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 267 |
 | 696 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 46 | 387 |
 | 696 | [Encased](games/e/encased.md) | 4.36 | 122 | 292 |

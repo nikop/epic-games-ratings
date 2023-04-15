@@ -3,14 +3,14 @@
   "Name": "Conan Exiles",
   "Rating": 4.54,
   "Ranking_Rating": 469,
-  "Ranking_Popularity": 127,
+  "Ranking_Popularity": 126,
   "Ranking_PopularitySum": 92,
   "NumberOfRatings": 1374,
-  "NumberOfAwards": 7604,
-  "NumberOfAwardsMax": 1054,
+  "NumberOfAwards": 7610,
+  "NumberOfAwardsMax": 1057,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:16:49.0940249+00:00",
-  "LastChanged": "2023-04-14T23:57:08.2377134+00:00",
+  "LastChanged": "2023-04-15T02:57:04.0564644+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:49.0940252+00:00",
@@ -2207,6 +2207,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 7604,
       "NumberOfAwardsMax": 1054
+    },
+    {
+      "Time": "2023-04-15T02:57:04.0564645+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 7610,
+      "NumberOfAwardsMax": 1057
     }
   ],
   "Tags": [
@@ -2214,7 +2220,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1054
+      "Count": 1057
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2262,7 +2268,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 712
+      "Count": 715
     }
   ]
 }

@@ -6,11 +6,11 @@
   "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 52,
   "NumberOfRatings": 6825,
-  "NumberOfAwards": 20330,
+  "NumberOfAwards": 20336,
   "NumberOfAwardsMax": 2374,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-04-14T20:57:21.6000281+00:00",
+  "LastChanged": "2023-04-15T02:57:46.3291337+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:57.8589287+00:00",
@@ -3535,6 +3535,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 20330,
       "NumberOfAwardsMax": 2374
+    },
+    {
+      "Time": "2023-04-15T02:57:46.3291337+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 20336,
+      "NumberOfAwardsMax": 2374
     }
   ],
   "Tags": [
@@ -3596,7 +3602,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1294
+      "Count": 1300
     },
     {
       "Text": "This game has Amazing Storytelling",

@@ -133,12 +133,12 @@
 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.25 | 771 | 21 | 472 |
 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 869 | 0 | 484 |
 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 351 | 0 | 484 |
-| [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 469 | 1,054 | 127 |
+| [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 469 | 1,057 | 126 |
 | [Conarium](games/c/conarium.md) | 3.91 | 883 | 0 | 484 |
 | [Control](games/c/control.md) | 4.60 | 375 | 8,221 | 37 |
 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 60 | 0 | 484 |
 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 539 | 104 | 309 |
-| [Core](games/c/core.md) | 4.37 | 690 | 723 | 151 |
+| [Core](games/c/core.md) | 4.37 | 691 | 723 | 151 |
 | [Coromon](games/c/coromon.md) | 4.65 | 288 | 40 | 402 |
 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 895 | 0 | 484 |
 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 482 | 0 | 484 |
@@ -200,7 +200,7 @@
 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 751 | 0 | 484 |
 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 795 | 0 | 484 |
 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.46 | 577 | 0 | 484 |
-| [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 690 | 0 | 484 |
+| [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 691 | 0 | 484 |
 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 30 | 683 | 154 |
 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 140 | 479 | 182 |
 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 79 | 297 | 219 |
@@ -231,7 +231,7 @@
 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 235 | 4,996 | 60 |
 | [EVE Online](games/e/eve_online.md) | 4.26 | 766 | 1,003 | 131 |
 | [Everything](games/e/everything.md) | 4.57 | 424 | 0 | 484 |
-| [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 690 | 12,210 | 27 |
+| [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 691 | 12,210 | 27 |
 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 8 | 0 | 484 |
 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 539 | 271 | 227 |
 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 807 | 0 | 484 |
@@ -268,7 +268,7 @@
 | [Filament](games/f/filament.md) | 4.32 | 730 | 548 | 169 |
 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 37 | 5,442 | 58 |
 | [Firework](games/f/firework.md) | 4.89 | 13 | 0 | 484 |
-| [First Class Trouble](games/f/first_class_trouble.md) | 4.51 | 508 | 76 | 342 |
+| [First Class Trouble](games/f/first_class_trouble.md) | 4.51 | 508 | 77 | 340 |
 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.36 | 696 | 0 | 484 |
 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 437 | 21 | 472 |
 | [Flatout](games/f/flatout.md) | 4.19 | 807 | 0 | 484 |
@@ -369,7 +369,7 @@
 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 334 | 341 | 206 |
 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 795 | 22 | 465 |
 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 48 | 405 | 190 |
-| [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 690 | 2,125 | 99 |
+| [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 691 | 2,125 | 99 |
 | [Iron Harvest](games/i/iron_harvest.md) | 4.38 | 678 | 0 | 484 |
 | [Ironcast](games/i/ironcast.md) | 3.92 | 879 | 0 | 484 |
 | [Isonzo](games/i/isonzo.md) | 4.56 | 437 | 30 | 438 |
@@ -398,7 +398,7 @@
 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 706 | 0 | 484 |
 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 111 | 0 | 484 |
 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 175 | 7,081 | 43 |
-| [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 60 | 470 | 183 |
+| [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 60 | 472 | 183 |
 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 124 | 96 | 317 |
 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 91 | 879 | 141 |
 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 272 | 0 | 484 |
@@ -408,7 +408,7 @@
 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.44 | 611 | 0 | 484 |
 | [Knockout City™](games/k/knockout_city™.md) | 4.51 | 508 | 0 | 484 |
 | [Lake](games/l/lake.md) | 4.03 | 862 | 0 | 484 |
-| [Lamentum](games/l/lamentum.md) | 4.37 | 690 | 0 | 484 |
+| [Lamentum](games/l/lamentum.md) | 4.37 | 691 | 0 | 484 |
 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 325 | 0 | 484 |
 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 851 | 179 | 262 |
 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 795 | 0 | 484 |
@@ -730,7 +730,7 @@
 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 577 | 6,414 | 47 |
 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 508 | 63 | 366 |
 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 190 | 57 | 373 |
-| [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 30 | 1,179 | 120 |
+| [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 30 | 1,180 | 120 |
 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.75 | 124 | 0 | 484 |
 | [The Escapists](games/t/the_escapists.md) | 4.48 | 556 | 0 | 484 |
 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 405 | 50 | 378 |
@@ -832,7 +832,7 @@
 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 593 | 113 | 300 |
 | [Tropico 6](games/t/tropico_6.md) | 4.66 | 272 | 91 | 327 |
 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 678 | 0 | 484 |
-| [Tunche](games/t/tunche.md) | 4.37 | 690 | 0 | 484 |
+| [Tunche](games/t/tunche.md) | 4.38 | 678 | 0 | 484 |
 | [TUNIC](games/t/tunic.md) | 4.85 | 37 | 32 | 428 |
 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 766 | 0 | 484 |
 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 389 | 690 | 153 |
