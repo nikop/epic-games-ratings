@@ -13,7 +13,7 @@
 | 8 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,782 | 105 |
 | 8 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 484 |
 | 13 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 244 | 235 |
-| 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,684 | 45 |
+| 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,692 | 44 |
 | 13 | [Firework](games/f/firework.md) | 4.89 | 0 | 484 |
 | 13 | [God of War](games/g/god_of_war.md) | 4.89 | 3,932 | 73 |
 | 13 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 133,266 | 7 |
@@ -100,7 +100,7 @@
 | 91 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 115 | 299 |
 | 91 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 484 |
 | 100 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,478 | 66 |
-| 100 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,612 | 36 |
+| 100 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,626 | 36 |
 | 100 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 17,423 | 18 |
 | 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 903 | 140 |
 | 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 141 | 281 |
@@ -290,7 +290,7 @@
 | 288 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 484 |
 | 288 | [APE OUT](games/a/ape_out.md) | 4.65 | 0 | 484 |
 | 288 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,277 | 68 |
-| 288 | [Coromon](games/c/coromon.md) | 4.65 | 40 | 402 |
+| 288 | [Coromon](games/c/coromon.md) | 4.65 | 40 | 403 |
 | 288 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 163 | 273 |
 | 288 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 0 | 484 |
 | 288 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 315 | 211 |
@@ -639,7 +639,7 @@
 | 633 | [Good Company](games/g/good_company.md) | 4.42 | 0 | 484 |
 | 633 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,090 | 124 |
 | 633 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 30 | 438 |
-| 633 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 44 |
+| 633 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 45 |
 | 633 | [Sheltered](games/s/sheltered.md) | 4.42 | 264 | 230 |
 | 633 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 532 | 175 |
 | 643 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 0 | 484 |
@@ -757,7 +757,7 @@
 | 751 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 124 | 290 |
 | 751 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 124 | 290 |
 | 751 | [The Fall](games/t/the_fall.md) | 4.29 | 0 | 484 |
-| 751 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.29 | 40 | 402 |
+| 751 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.29 | 41 | 401 |
 | 759 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 484 |
 | 759 | [Rage 2](games/r/rage_2.md) | 4.28 | 2,415 | 88 |
 | 759 | [Steelrising](games/s/steelrising.md) | 4.28 | 0 | 484 |

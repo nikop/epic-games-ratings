@@ -139,7 +139,7 @@
 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 60 | 0 | 484 |
 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 539 | 104 | 309 |
 | [Core](games/c/core.md) | 4.37 | 691 | 723 | 151 |
-| [Coromon](games/c/coromon.md) | 4.65 | 288 | 40 | 402 |
+| [Coromon](games/c/coromon.md) | 4.65 | 288 | 40 | 403 |
 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 895 | 0 | 484 |
 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 482 | 0 | 484 |
 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 611 | 0 | 484 |
@@ -180,7 +180,7 @@
 | [Dead Space](games/d/dead_space.md) | 4.74 | 140 | 33 | 425 |
 | [Death Coming](games/d/death_coming.md) | 4.42 | 633 | 0 | 484 |
 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 100 | 4,478 | 66 |
-| [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 13 | 6,684 | 45 |
+| [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 13 | 6,692 | 44 |
 | [Death's Door](games/d/death's_door.md) | 4.66 | 272 | 0 | 484 |
 | [DEATHLOOP](games/d/deathloop.md) | 4.53 | 482 | 33 | 425 |
 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.39 | 667 | 0 | 484 |
@@ -339,7 +339,7 @@
 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.92 | 4 | 0 | 484 |
 | [High On Life](games/h/high_on_life.md) | 4.68 | 235 | 0 | 484 |
 | [HITMAN](games/h/hitman.md) | 4.64 | 310 | 195 | 255 |
-| [HITMAN 3](games/h/hitman_3.md) | 4.78 | 100 | 8,612 | 36 |
+| [HITMAN 3](games/h/hitman_3.md) | 4.78 | 100 | 8,626 | 36 |
 | [Hob](games/h/hob.md) | 4.57 | 424 | 0 | 484 |
 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 100 | 17,423 | 18 |
 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 539 | 2,135 | 98 |
@@ -593,7 +593,7 @@
 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 272 | 50 | 378 |
 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 325 | 179 | 262 |
 | [RUINER](games/r/ruiner.md) | 4.53 | 482 | 23 | 461 |
-| [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 633 | 6,689 | 44 |
+| [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 633 | 6,689 | 45 |
 | [Runbow](games/r/runbow.md) | 4.46 | 577 | 0 | 484 |
 | [Sable](games/s/sable.md) | 4.51 | 508 | 0 | 484 |
 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.75 | 124 | 0 | 484 |
@@ -857,7 +857,7 @@
 | [Warframe](games/w/warframe.md) | 4.61 | 351 | 14,057 | 21 |
 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 212 | 848 | 142 |
 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 405 | 201 | 251 |
-| [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.29 | 751 | 40 | 402 |
+| [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.29 | 751 | 41 | 401 |
 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 627 | 275 | 225 |
 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.59 | 389 | 0 | 484 |
 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 828 | 0 | 484 |

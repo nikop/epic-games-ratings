@@ -35,7 +35,7 @@
 | 33 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 9,807 | 4.45 | 593 |
 | 34 | [Satisfactory](games/s/satisfactory.md) | 9,019 | 4.88 | 20 |
 | 35 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 8,916 | 4.60 | 375 |
-| 36 | [HITMAN 3](games/h/hitman_3.md) | 8,612 | 4.78 | 100 |
+| 36 | [HITMAN 3](games/h/hitman_3.md) | 8,626 | 4.78 | 100 |
 | 37 | [Control](games/c/control.md) | 8,221 | 4.60 | 375 |
 | 38 | [Supraland](games/s/supraland.md) | 7,596 | 4.61 | 351 |
 | 39 | [SnowRunner](games/s/snowrunner.md) | 7,530 | 4.76 | 111 |
@@ -43,8 +43,8 @@
 | 41 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 7,415 | 4.24 | 774 |
 | 42 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,099 | 4.57 | 424 |
 | 43 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,081 | 4.71 | 175 |
-| 44 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 633 |
-| 45 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,684 | 4.89 | 13 |
+| 44 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,692 | 4.89 | 13 |
+| 45 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 633 |
 | 46 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 6,440 | 4.67 | 258 |
 | 47 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,414 | 4.46 | 577 |
 | 48 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,377 | 4.74 | 140 |
@@ -401,8 +401,8 @@
 | 396 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 44 | 4.18 | 813 |
 | 400 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 43 | 4.29 | 751 |
 | 401 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 41 | 4.75 | 124 |
-| 402 | [Coromon](games/c/coromon.md) | 40 | 4.65 | 288 |
-| 402 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 40 | 4.29 | 751 |
+| 401 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 41 | 4.29 | 751 |
+| 403 | [Coromon](games/c/coromon.md) | 40 | 4.65 | 288 |
 | 404 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 39 | 4.76 | 111 |
 | 404 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 39 | 4.72 | 164 |
 | 404 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 39 | 4.86 | 30 |
