@@ -1,16 +1,16 @@
 {
   "ID": "be886d9db65047a89b24cd4317695f18",
   "Name": "Frostpunk",
-  "Rating": 4.73,
-  "Ranking_Rating": 154,
+  "Rating": 4.74,
+  "Ranking_Rating": 140,
   "Ranking_Popularity": 146,
   "Ranking_PopularitySum": 109,
   "NumberOfRatings": 11240,
-  "NumberOfAwards": 6351,
-  "NumberOfAwardsMax": 763,
+  "NumberOfAwards": 6354,
+  "NumberOfAwardsMax": 765,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
-  "LastChanged": "2023-04-14T19:57:26.740405+00:00",
+  "LastChanged": "2023-04-15T08:57:25.6369203+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:37.4125463+00:00",
@@ -2962,6 +2962,12 @@
       "Rating": 4.73,
       "NumberOfAwards": 6351,
       "NumberOfAwardsMax": 763
+    },
+    {
+      "Time": "2023-04-15T08:57:25.6369204+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 6354,
+      "NumberOfAwardsMax": 765
     }
   ],
   "Tags": [
@@ -2975,7 +2981,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 763
+      "Count": 765
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2999,7 +3005,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 697
+      "Count": 698
     },
     {
       "Text": "This game is Highly Recommended",
