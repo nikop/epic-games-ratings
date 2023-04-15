@@ -2,15 +2,15 @@
   "ID": "879b0d8776ab46a59a129983ba78f0ce",
   "Name": "Genshin Impact",
   "Rating": 4.68,
-  "Ranking_Rating": 234,
+  "Ranking_Rating": 235,
   "Ranking_Popularity": 3,
   "Ranking_PopularitySum": 4,
   "NumberOfRatings": 219180,
-  "NumberOfAwards": 1268669,
+  "NumberOfAwards": 1268910,
   "NumberOfAwardsMax": 286256,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2023-04-15T13:00:53.354018+00:00",
+  "LastChanged": "2023-04-15T21:57:55.9676055+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:42.3518765+00:00",
@@ -4450,6 +4450,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 1268669,
       "NumberOfAwardsMax": 286256
+    },
+    {
+      "Time": "2023-04-15T21:57:55.9676056+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1268910,
+      "NumberOfAwardsMax": 286256
     }
   ],
   "Tags": [
@@ -4493,7 +4499,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 106933
+      "Count": 107174
     },
     {
       "Text": "This game has Obsessive Gameplay",
