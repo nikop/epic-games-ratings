@@ -3,7 +3,7 @@ Rating: 4.69 (Ranked 212)
 Number of Ratings: 2,918  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 848  (Ranked 142)  
-Sum: 7,024 (Ranked 100)  
+Sum: 7,026 (Ranked 100)  
 Diff (max vs sum): 42
 ## Awards
 | Award | Number of Ratings |
@@ -16,7 +16,7 @@ Diff (max vs sum): 42
 | This game has Competitive Players | 814 |
 | This game has Amazing Storytelling | 752 |
 | This game has Realistic Visuals | 723 |
-| This game has a Competitive Community | 648 |
+| This game has a Competitive Community | 650 |
 | This game has Amazing Characters | 631 |
 | This game has Obsessive Gameplay | 562 |
 | This game is Relaxing | 181 |

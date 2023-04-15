@@ -1,5 +1,5 @@
 # Overcooked
-Rating: 4.67 (Ranked 258)  
+Rating: 4.67 (Ranked 257)  
 Number of Ratings: 601  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 112  (Ranked 303)  

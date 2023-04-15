@@ -1,5 +1,5 @@
 # Trackmania
-Rating: 4.67 (Ranked 258)  
+Rating: 4.67 (Ranked 257)  
 Number of Ratings: 6,825  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Quick Sessions): 2,374  (Ranked 90)  

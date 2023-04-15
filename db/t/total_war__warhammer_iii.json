@@ -2,15 +2,15 @@
   "ID": "dda64c2956b54f1ba3cd97f6aaee775f",
   "Name": "Total War: WARHAMMER III",
   "Rating": 4.68,
-  "Ranking_Rating": 235,
-  "Ranking_Popularity": 115,
+  "Ranking_Rating": 234,
+  "Ranking_Popularity": 114,
   "Ranking_PopularitySum": 120,
   "NumberOfRatings": 882,
-  "NumberOfAwards": 5033,
-  "NumberOfAwardsMax": 1404,
+  "NumberOfAwards": 5051,
+  "NumberOfAwardsMax": 1417,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:20:31.8340221+00:00",
-  "LastChanged": "2023-04-15T06:57:42.9413636+00:00",
+  "LastChanged": "2023-04-15T13:00:32.7925113+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:31.8340223+00:00",
@@ -1967,6 +1967,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 5033,
       "NumberOfAwardsMax": 1404
+    },
+    {
+      "Time": "2023-04-15T13:00:32.7925115+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 5051,
+      "NumberOfAwardsMax": 1417
     }
   ],
   "Tags": [
@@ -1974,7 +1980,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1404
+      "Count": 1417
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1986,7 +1992,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 337
+      "Count": 342
     },
     {
       "Text": "This game has Quickly Understood Controls",

@@ -6,11 +6,11 @@
   "Ranking_Popularity": 72,
   "Ranking_PopularitySum": 43,
   "NumberOfRatings": 18078,
-  "NumberOfAwards": 25739,
-  "NumberOfAwardsMax": 3953,
-  "MaxAwardTitle": "Competitive Players",
+  "NumberOfAwards": 25747,
+  "NumberOfAwardsMax": 3959,
+  "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:20:08.5003131+00:00",
-  "LastChanged": "2023-04-15T10:57:49.202958+00:00",
+  "LastChanged": "2023-04-15T13:00:34.76461+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:08.5003133+00:00",
@@ -3657,6 +3657,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 25739,
       "NumberOfAwardsMax": 3953
+    },
+    {
+      "Time": "2023-04-15T13:00:34.7646102+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 25747,
+      "NumberOfAwardsMax": 3959
     }
   ],
   "Tags": [
@@ -3676,7 +3682,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 3951
+      "Count": 3959
     },
     {
       "Text": "This game has Obsessive Gameplay",

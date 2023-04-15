@@ -6,11 +6,11 @@
   "Ranking_Popularity": 11,
   "Ranking_PopularitySum": 7,
   "NumberOfRatings": 157172,
-  "NumberOfAwards": 370563,
+  "NumberOfAwards": 370632,
   "NumberOfAwardsMax": 48692,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2023-04-15T01:57:42.5673084+00:00",
+  "LastChanged": "2023-04-15T13:01:26.6989503+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:57.2451126+00:00",
@@ -3894,6 +3894,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 370563,
       "NumberOfAwardsMax": 48692
+    },
+    {
+      "Time": "2023-04-15T13:01:26.6989505+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 370632,
+      "NumberOfAwardsMax": 48692
     }
   ],
   "Tags": [
@@ -3919,7 +3925,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 40549
+      "Count": 40618
     },
     {
       "Text": "This game has Challenging Combat",

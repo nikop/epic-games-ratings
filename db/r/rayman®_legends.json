@@ -3,14 +3,14 @@
   "Name": "RAYMAN\u00AE LEGENDS",
   "Rating": 4.8,
   "Ranking_Rating": 79,
-  "Ranking_Popularity": 259,
-  "Ranking_PopularitySum": 352,
+  "Ranking_Popularity": 258,
+  "Ranking_PopularitySum": 350,
   "NumberOfRatings": 351,
-  "NumberOfAwards": 185,
-  "NumberOfAwardsMax": 185,
+  "NumberOfAwards": 186,
+  "NumberOfAwardsMax": 186,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:31:21.8622945+00:00",
-  "LastChanged": "2023-04-12T21:59:09.6444979+00:00",
+  "LastChanged": "2023-04-15T13:01:34.5732148+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:21.8622947+00:00",
@@ -455,6 +455,12 @@
       "Rating": 4.8,
       "NumberOfAwards": 185,
       "NumberOfAwardsMax": 185
+    },
+    {
+      "Time": "2023-04-15T13:01:34.5732151+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 186,
+      "NumberOfAwardsMax": 186
     }
   ],
   "Tags": [
@@ -462,7 +468,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 185
+      "Count": 186
     }
   ]
 }

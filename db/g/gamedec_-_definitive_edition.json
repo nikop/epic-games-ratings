@@ -1,8 +1,8 @@
 {
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
-  "Rating": 4.32,
-  "Ranking_Rating": 730,
+  "Rating": 4.33,
+  "Ranking_Rating": 721,
   "Ranking_Popularity": 359,
   "Ranking_PopularitySum": 412,
   "NumberOfRatings": 33,
@@ -11,7 +11,7 @@
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:19:30.52798+00:00",
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
-  "LastChanged": "2023-04-13T13:04:35.7824394+00:00",
+  "LastChanged": "2023-04-15T13:00:31.63957+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-13T10:30:34.4977327+00:00",
@@ -235,6 +235,12 @@
     {
       "Time": "2023-04-13T13:04:35.7824397+00:00",
       "Rating": 4.32,
+      "NumberOfAwards": 68,
+      "NumberOfAwardsMax": 68
+    },
+    {
+      "Time": "2023-04-15T13:00:31.6395703+00:00",
+      "Rating": 4.33,
       "NumberOfAwards": 68,
       "NumberOfAwardsMax": 68
     }

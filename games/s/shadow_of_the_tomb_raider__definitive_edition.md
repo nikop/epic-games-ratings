@@ -1,9 +1,9 @@
 # Shadow of the Tomb Raider: Definitive Edition
-Rating: 4.65 (Ranked 288)  
+Rating: 4.65 (Ranked 287)  
 Number of Ratings: 77,497  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 28,341  (Ranked 14)  
-Sum: 37,177 (Ranked 26)  
+Sum: 37,178 (Ranked 26)  
 Diff (max vs sum): -12
 ## Awards
 | Award | Number of Ratings |
@@ -12,7 +12,7 @@ Diff (max vs sum): -12
 | This game is Great for Beginners | 1,011 |
 | This game has Quickly Understood Controls | 972 |
 | This game is Extremely Fun | 950 |
-| This game is Highly Recommended | 938 |
+| This game is Highly Recommended | 939 |
 | This game has Diverse Characters | 930 |
 | This game is Educational | 911 |
 | This game has Amazing Storytelling | 898 |
