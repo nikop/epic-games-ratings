@@ -3,14 +3,14 @@
   "Name": "Celeste",
   "Rating": 4.92,
   "Ranking_Rating": 4,
-  "Ranking_Popularity": 115,
+  "Ranking_Popularity": 114,
   "Ranking_PopularitySum": 155,
   "NumberOfRatings": 2543,
-  "NumberOfAwards": 2708,
-  "NumberOfAwardsMax": 1415,
+  "NumberOfAwards": 2711,
+  "NumberOfAwardsMax": 1417,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:25:26.412797+00:00",
-  "LastChanged": "2023-04-15T17:57:41.5328601+00:00",
+  "LastChanged": "2023-04-15T19:57:53.2957849+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:26.4127972+00:00",
@@ -1862,6 +1862,12 @@
       "Rating": 4.92,
       "NumberOfAwards": 2708,
       "NumberOfAwardsMax": 1415
+    },
+    {
+      "Time": "2023-04-15T19:57:53.295785+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2711,
+      "NumberOfAwardsMax": 1417
     }
   ],
   "Tags": [
@@ -1869,13 +1875,13 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1415
+      "Count": 1417
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 158
+      "Count": 159
     },
     {
       "Text": "This game has Challenging Combat",

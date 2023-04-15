@@ -1,15 +1,15 @@
 {
   "ID": "70fa3dd4efb549f9a09f1fc019d8e751",
   "Name": "SpellForce 3: Soul Harvest",
-  "Rating": 4.41,
-  "Ranking_Rating": 642,
+  "Rating": 4.43,
+  "Ranking_Rating": 627,
   "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 484,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:30:39.2591769+00:00",
   "FirstSeenRating": "2022-09-29T14:03:05.5723925+00:00",
-  "LastChanged": "2023-03-31T05:58:30.5747063+00:00",
+  "LastChanged": "2023-04-15T19:58:30.6427022+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-29T14:03:05.5723929+00:00",
@@ -98,6 +98,12 @@
     {
       "Time": "2023-03-31T05:58:30.5747064+00:00",
       "Rating": 4.41,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-15T19:58:30.6427024+00:00",
+      "Rating": 4.43,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
