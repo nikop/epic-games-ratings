@@ -1,5 +1,5 @@
 # Swords of Legends Online
-Rating: 4.31 (Ranked 739)  
+Rating: 4.30 (Ranked 742)  
 Number of Ratings: 262  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 168  (Ranked 268)  
@@ -92,3 +92,4 @@ Diff (max vs sum): -45
 | 2023-04-08 | 4.31 | - | 166 |
 | 2023-04-09 | 4.31 | - | 167 |
 | 2023-04-13 | 4.31 | - | 168 |
+| 2023-04-15 | 4.30 | - | 168 |

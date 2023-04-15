@@ -1,5 +1,5 @@
 # Second Extinction™
-Rating: 4.11 (Ranked 838)  
+Rating: 4.10 (Ranked 843)  
 Number of Ratings: 617  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 234  (Ranked 237)  
@@ -104,4 +104,4 @@ Diff (max vs sum): -97
 | 2022-12-25 | 4.15 | - | - |
 | 2023-04-11 | 4.15 | - | 233 |
 | 2023-04-14 | 4.12 | - | 234 |
-| 2023-04-15 | 4.11 | - | 234 |
+| 2023-04-15 | 4.10 | - | 234 |
