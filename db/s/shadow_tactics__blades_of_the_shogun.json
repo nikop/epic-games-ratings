@@ -3,14 +3,14 @@
   "Name": "Shadow Tactics: Blades of the Shogun",
   "Rating": 4.66,
   "Ranking_Rating": 271,
-  "Ranking_Popularity": 172,
+  "Ranking_Popularity": 171,
   "Ranking_PopularitySum": 125,
   "NumberOfRatings": 495,
-  "NumberOfAwards": 4617,
-  "NumberOfAwardsMax": 544,
+  "NumberOfAwards": 4618,
+  "NumberOfAwardsMax": 545,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
-  "LastChanged": "2023-04-15T13:00:44.6104064+00:00",
+  "LastChanged": "2023-04-15T16:57:28.8900695+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:59.8684255+00:00",
@@ -807,6 +807,12 @@
       "Rating": 4.66,
       "NumberOfAwards": 4617,
       "NumberOfAwardsMax": 544
+    },
+    {
+      "Time": "2023-04-15T16:57:28.8900696+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4618,
+      "NumberOfAwardsMax": 545
     }
   ],
   "Tags": [
@@ -844,7 +850,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 544
+      "Count": 545
     },
     {
       "Text": "This game has Diverse Characters",

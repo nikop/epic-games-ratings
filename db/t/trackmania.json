@@ -6,11 +6,11 @@
   "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 52,
   "NumberOfRatings": 6825,
-  "NumberOfAwards": 20362,
+  "NumberOfAwards": 20372,
   "NumberOfAwardsMax": 2374,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-04-15T15:57:45.866441+00:00",
+  "LastChanged": "2023-04-15T16:57:34.1221051+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:57.8589287+00:00",
@@ -3559,6 +3559,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 20362,
       "NumberOfAwardsMax": 2374
+    },
+    {
+      "Time": "2023-04-15T16:57:34.1221052+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 20372,
+      "NumberOfAwardsMax": 2374
     }
   ],
   "Tags": [
@@ -3590,7 +3596,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 2109
+      "Count": 2119
     },
     {
       "Text": "This game has Obsessive Gameplay",
