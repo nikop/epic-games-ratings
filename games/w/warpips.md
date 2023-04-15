@@ -1,5 +1,5 @@
 # Warpips
-Rating: 4.39 (Ranked 666)  
+Rating: 4.39 (Ranked 665)  
 Number of Ratings: 31  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Playful Visuals): 20  (Ranked 477)  
