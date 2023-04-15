@@ -1,5 +1,5 @@
 # Steep Standard Edition
-Rating: 4.68 (Ranked 234)  
+Rating: 4.69 (Ranked 212)  
 Number of Ratings: 414  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
@@ -87,3 +87,4 @@ Diff (max vs sum): 0
 | 2023-03-25 | 4.69 | - | - |
 | 2023-03-27 | 4.68 | - | - |
 | 2023-03-31 | 4.68 | - | 0 |
+| 2023-04-15 | 4.69 | - | 0 |

@@ -6,11 +6,11 @@
   "Ranking_Popularity": 81,
   "Ranking_PopularitySum": 47,
   "NumberOfRatings": 11687,
-  "NumberOfAwards": 25103,
-  "NumberOfAwardsMax": 3208,
+  "NumberOfAwards": 25110,
+  "NumberOfAwardsMax": 3215,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:17:05.5508389+00:00",
-  "LastChanged": "2023-04-15T11:57:07.3827503+00:00",
+  "LastChanged": "2023-04-15T14:57:16.5396533+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:05.5508391+00:00",
@@ -3556,6 +3556,12 @@
       "Rating": 4.35,
       "NumberOfAwards": 25103,
       "NumberOfAwardsMax": 3208
+    },
+    {
+      "Time": "2023-04-15T14:57:16.5396535+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 25110,
+      "NumberOfAwardsMax": 3215
     }
   ],
   "Tags": [
@@ -3563,7 +3569,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 3208
+      "Count": 3215
     },
     {
       "Text": "This game has Diverse Characters",
