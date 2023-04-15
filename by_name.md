@@ -97,7 +97,7 @@
 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 556 | 0 | 484 |
 | [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | 898 | 0 | 484 |
 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 111 | 2,261 | 93 |
-| [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 111 | 13,899 | 22 |
+| [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 111 | 13,910 | 22 |
 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 212 | 107,230 | 8 |
 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 539 | 391 | 196 |
 | [Brawlhalla](games/b/brawlhalla.md) | 4.56 | 437 | 71 | 351 |
@@ -175,7 +175,7 @@
 | [Dauntless](games/d/dauntless.md) | 4.53 | 482 | 19,419 | 16 |
 | [Days Gone](games/d/days_gone.md) | 4.69 | 212 | 3,716 | 75 |
 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 822 | 0 | 484 |
-| [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 498 | 26,394 | 15 |
+| [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 498 | 26,427 | 15 |
 | [Dead Cells](games/d/dead_cells.md) | 4.89 | 13 | 244 | 235 |
 | [Dead Space](games/d/dead_space.md) | 4.74 | 140 | 33 | 425 |
 | [Death Coming](games/d/death_coming.md) | 4.42 | 633 | 0 | 484 |
@@ -308,7 +308,7 @@
 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 375 | 117 | 296 |
 | [Gone Home](games/g/gone_home.md) | 4.16 | 822 | 0 | 484 |
 | [Good Company](games/g/good_company.md) | 4.42 | 633 | 0 | 484 |
-| [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 816 | 2,119 | 100 |
+| [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 816 | 2,122 | 100 |
 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 828 | 0 | 484 |
 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.13 | 833 | 0 | 484 |
 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 212 | 157,511 | 5 |
@@ -366,7 +366,7 @@
 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 539 | 0 | 484 |
 | [Inscryption](games/i/inscryption.md) | 4.86 | 30 | 328 | 208 |
 | [INSIDE](games/i/inside.md) | 4.69 | 212 | 0 | 484 |
-| [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 334 | 341 | 206 |
+| [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 334 | 342 | 206 |
 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 795 | 22 | 465 |
 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 48 | 405 | 190 |
 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 691 | 2,125 | 99 |
@@ -426,7 +426,7 @@
 | [Limbo](games/l/limbo.md) | 4.62 | 334 | 0 | 484 |
 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.30 | 743 | 0 | 484 |
 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 351 | 0 | 484 |
-| [Loop Hero](games/l/loop_hero.md) | 4.68 | 235 | 409 | 189 |
+| [Loop Hero](games/l/loop_hero.md) | 4.68 | 235 | 410 | 189 |
 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 643 | 0 | 484 |
 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 743 | 0 | 484 |
 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.07 | 853 | 0 | 484 |
@@ -471,7 +471,7 @@
 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 235 | 546 | 170 |
 | [MythForce](games/m/mythforce.md) | 4.51 | 508 | 32 | 428 |
 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 807 | 179,866 | 4 |
-| [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 667 | 11,634 | 29 |
+| [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 667 | 11,635 | 29 |
 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.11 | 838 | 0 | 484 |
 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 667 | 0 | 484 |
 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.70 | 190 | 0 | 484 |
@@ -484,7 +484,7 @@
 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 482 | 0 | 484 |
 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 154 | 139 | 283 |
 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 79 | 2,329 | 92 |
-| [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 424 | 7,099 | 42 |
+| [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 424 | 7,105 | 42 |
 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 212 | 0 | 484 |
 | [NORCO](games/n/norco.md) | 4.62 | 334 | 0 | 484 |
 | [Northgard](games/n/northgard.md) | 4.71 | 175 | 27 | 446 |
@@ -524,7 +524,7 @@
 | [Parkitect](games/p/parkitect.md) | 4.34 | 714 | 0 | 484 |
 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 351 | 0 | 484 |
 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 721 | 0 | 484 |
-| [Path of Exile](games/p/path_of_exile.md) | 4.61 | 351 | 2,415 | 88 |
+| [Path of Exile](games/p/path_of_exile.md) | 4.61 | 351 | 2,415 | 89 |
 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 424 | 2,988 | 86 |
 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 111 | 1,608 | 109 |
 | [Pathway](games/p/pathway.md) | 4.45 | 593 | 0 | 484 |
@@ -550,7 +550,7 @@
 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 869 | 1,470 | 111 |
 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.41 | 643 | 0 | 484 |
 | [Quake](games/q/quake.md) | 4.74 | 140 | 45 | 391 |
-| [Rage 2](games/r/rage_2.md) | 4.28 | 759 | 2,415 | 88 |
+| [Rage 2](games/r/rage_2.md) | 4.28 | 759 | 2,417 | 88 |
 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 469 | 86 | 332 |
 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 508 | 271 | 227 |
 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 611 | 45 | 391 |
@@ -577,7 +577,7 @@
 | [RimWorld](games/r/rimworld.md) | 4.89 | 13 | 397 | 192 |
 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 405 | 1,468 | 112 |
 | [Rise of Industry](games/r/rise_of_industry.md) | 4.22 | 786 | 0 | 484 |
-| [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 212 | 11,151 | 32 |
+| [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 212 | 11,155 | 32 |
 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 660 | 73 | 346 |
 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 524 | 634 | 160 |
 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 37 | 223 | 242 |
