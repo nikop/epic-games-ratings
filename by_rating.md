@@ -27,7 +27,7 @@
 | 25 | [Black Book](games/b/black_book.md) | 4.87 | 21 | 472 |
 | 25 | [Blasphemous](games/b/blasphemous.md) | 4.87 | 136 | 284 |
 | 25 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,362 | 116 |
-| 25 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,283 | 31 |
+| 25 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,286 | 31 |
 | 25 | [Ooblets](games/o/ooblets.md) | 4.87 | 995 | 132 |
 | 30 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 484 |
 | 30 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 683 | 154 |
@@ -116,7 +116,7 @@
 | 111 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 84 | 335 |
 | 111 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 810 | 144 |
 | 111 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 39 | 405 |
-| 111 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 59 | 370 |
+| 111 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 60 | 370 |
 | 111 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 484 |
 | 111 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,608 | 109 |
 | 111 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 0 | 484 |
@@ -479,7 +479,7 @@
 | 469 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 88 | 331 |
 | 469 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 484 |
 | 469 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 490 | 180 |
-| 469 | [VALORANT](games/v/valorant.md) | 4.54 | 48,692 | 11 |
+| 469 | [VALORANT](games/v/valorant.md) | 4.54 | 48,803 | 11 |
 | 469 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 28 | 445 |
 | 469 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 1,113 | 123 |
 | 483 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 484 |
@@ -588,7 +588,7 @@
 | 577 | [Redout 2](games/r/redout_2.md) | 4.46 | 0 | 484 |
 | 577 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 484 |
 | 577 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.46 | 0 | 484 |
-| 577 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 6,414 | 47 |
+| 577 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 6,421 | 47 |
 | 577 | [The Surge](games/t/the_surge.md) | 4.46 | 26 | 452 |
 | 577 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 276 | 224 |
 | 577 | [WRC Generations](games/w/wrc_generations.md) | 4.46 | 0 | 484 |
@@ -624,7 +624,7 @@
 | 611 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 484 |
 | 611 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 316 |
 | 611 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 0 | 484 |
-| 611 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 370 |
+| 611 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 371 |
 | 611 | [World of Warships](games/w/world_of_warships.md) | 4.44 | 984 | 133 |
 | 627 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 22 | 465 |
 | 627 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 0 | 484 |
@@ -633,7 +633,7 @@
 | 627 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 275 | 225 |
 | 632 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 0 | 484 |
 | 632 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 0 | 484 |
-| 632 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 59 | 370 |
+| 632 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 59 | 371 |
 | 632 | [Death Coming](games/d/death_coming.md) | 4.42 | 0 | 484 |
 | 632 | [Good Company](games/g/good_company.md) | 4.42 | 0 | 484 |
 | 632 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,090 | 124 |
@@ -655,7 +655,7 @@
 | 642 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,156 | 97 |
 | 642 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 72 | 349 |
 | 642 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.41 | 0 | 484 |
-| 642 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 121 | 293 |
+| 642 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 121 | 294 |
 | 642 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 0 | 484 |
 | 658 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 243 | 236 |
 | 658 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 973 | 137 |
@@ -794,7 +794,7 @@
 | 789 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 0 | 484 |
 | 789 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.21 | 0 | 484 |
 | 789 | [Starsand](games/s/starsand.md) | 4.21 | 0 | 484 |
-| 795 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 121 | 293 |
+| 795 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 122 | 292 |
 | 795 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 119 | 295 |
 | 795 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 484 |
 | 795 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.20 | 0 | 484 |
@@ -856,7 +856,7 @@
 | 853 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 0 | 484 |
 | 853 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 0 | 484 |
 | 856 | [Godfall](games/g/godfall.md) | 4.06 | 503 | 178 |
-| 856 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 4,834 | 61 |
+| 856 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 4,837 | 61 |
 | 858 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 0 | 484 |
 | 858 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.05 | 0 | 484 |
 | 858 | [Tharsis](games/t/tharsis.md) | 4.05 | 0 | 484 |

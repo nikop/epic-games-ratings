@@ -10,7 +10,7 @@
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 107,310 | 4.69 | 212 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 61,450 | 4.62 | 334 |
 | 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 55,724 | 4.59 | 389 |
-| 11 | [VALORANT](games/v/valorant.md) | 48,692 | 4.54 | 469 |
+| 11 | [VALORANT](games/v/valorant.md) | 48,803 | 4.54 | 469 |
 | 12 | [Destiny 2](games/d/destiny_2.md) | 32,804 | 4.50 | 524 |
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 29,298 | 4.74 | 140 |
 | 14 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,341 | 4.65 | 287 |
@@ -30,7 +30,7 @@
 | 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,777 | 4.41 | 642 |
 | 29 | [NBA 2K21](games/n/nba_2k21.md) | 11,635 | 4.39 | 666 |
 | 30 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 11,344 | 4.60 | 375 |
-| 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,283 | 4.87 | 25 |
+| 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,286 | 4.87 | 25 |
 | 32 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,155 | 4.69 | 212 |
 | 33 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 9,807 | 4.45 | 593 |
 | 34 | [Satisfactory](games/s/satisfactory.md) | 9,019 | 4.88 | 20 |
@@ -46,7 +46,7 @@
 | 44 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,692 | 4.89 | 13 |
 | 45 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 632 |
 | 46 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 6,440 | 4.67 | 257 |
-| 47 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,414 | 4.46 | 577 |
+| 47 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,421 | 4.46 | 577 |
 | 48 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,380 | 4.74 | 140 |
 | 49 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 6,356 | 4.57 | 423 |
 | 50 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,219 | 4.80 | 79 |
@@ -60,7 +60,7 @@
 | 58 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,442 | 4.85 | 37 |
 | 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,412 | 4.82 | 60 |
 | 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4,996 | 4.68 | 235 |
-| 61 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,834 | 4.06 | 856 |
+| 61 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,837 | 4.06 | 856 |
 | 62 | [Rogue Company](games/r/rogue_company.md) | 4,788 | 4.34 | 713 |
 | 63 | [MultiVersus](games/m/multiversus.md) | 4,730 | 4.56 | 438 |
 | 64 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4,674 | 4.75 | 125 |
@@ -291,9 +291,9 @@
 | 288 | [Atomicrops](games/a/atomicrops.md) | 127 | 4.88 | 20 |
 | 290 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 124 | 4.29 | 751 |
 | 290 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 124 | 4.29 | 751 |
+| 292 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 122 | 4.20 | 795 |
 | 292 | [Encased](games/e/encased.md) | 122 | 4.36 | 695 |
-| 293 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 121 | 4.20 | 795 |
-| 293 | [Star Stable Online](games/s/star_stable_online.md) | 121 | 4.41 | 642 |
+| 294 | [Star Stable Online](games/s/star_stable_online.md) | 121 | 4.41 | 642 |
 | 295 | [Aven Colony](games/a/aven_colony.md) | 119 | 4.20 | 795 |
 | 296 | [Going Medieval](games/g/going_medieval.md) | 117 | 4.60 | 375 |
 | 297 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 116 | 4.53 | 483 |
@@ -369,9 +369,9 @@
 | 367 | [In Sound Mind](games/i/in_sound_mind.md) | 62 | 4.60 | 375 |
 | 368 | [Arcadegeddon](games/a/arcadegeddon.md) | 61 | 4.49 | 539 |
 | 368 | [Ticket to Ride](games/t/ticket_to_ride.md) | 61 | 4.61 | 351 |
-| 370 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 59 | 4.42 | 632 |
-| 370 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 59 | 4.76 | 111 |
-| 370 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 611 |
+| 370 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 60 | 4.76 | 111 |
+| 371 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 59 | 4.42 | 632 |
+| 371 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 611 |
 | 373 | [Heavy Rain](games/h/heavy_rain.md) | 57 | 4.59 | 389 |
 | 373 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 57 | 4.70 | 190 |
 | 375 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 55 | 4.64 | 310 |
