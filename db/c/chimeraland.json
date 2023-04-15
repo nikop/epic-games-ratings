@@ -1,15 +1,15 @@
 {
   "ID": "0b595db2a0604a3c91d77847a59f5895",
   "Name": "Chimeraland",
-  "Rating": 3.9,
-  "Ranking_Rating": 885,
+  "Rating": 3.91,
+  "Ranking_Rating": 883,
   "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 484,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-22T08:56:57.9222177+00:00",
   "FirstSeenRating": "2023-01-08T08:57:11.5833974+00:00",
-  "LastChanged": "2023-04-08T19:57:00.1899697+00:00",
+  "LastChanged": "2023-04-15T01:56:16.9394559+00:00",
   "RatingHistory": [
     {
       "Time": "2023-01-08T08:57:11.5833977+00:00",
@@ -188,6 +188,12 @@
     {
       "Time": "2023-04-08T19:57:00.1899698+00:00",
       "Rating": 3.9,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-15T01:56:16.9394565+00:00",
+      "Rating": 3.91,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

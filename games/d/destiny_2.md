@@ -1,9 +1,9 @@
 # Destiny 2
-Rating: 4.50 (Ranked 525)  
+Rating: 4.50 (Ranked 524)  
 Number of Ratings: 32,207  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 32,804  (Ranked 12)  
-Sum: 78,900 (Ranked 16)  
+Sum: 78,908 (Ranked 16)  
 Diff (max vs sum): -4
 ## Awards
 | Award | Number of Ratings |
@@ -16,7 +16,7 @@ Diff (max vs sum): -4
 | This game has Quickly Understood Controls | 5,759 |
 | This game has Amazing Storytelling | 5,571 |
 | This game has Amazing Characters | 5,525 |
-| This game has Competitive Players | 5,505 |
+| This game has Competitive Players | 5,513 |
 | This game has Obsessive Gameplay | 3,329 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -88,3 +88,4 @@ Diff (max vs sum): -4
 | 2023-04-12 | 4.50 | - | 32,736 |
 | 2023-04-13 | 4.50 | - | 32,765 |
 | 2023-04-14 | 4.50 | - | 32,804 |
+| 2023-04-15 | 4.50 | - | 32,804 |

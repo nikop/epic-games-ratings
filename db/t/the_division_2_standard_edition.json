@@ -2,15 +2,15 @@
   "ID": "impala",
   "Name": "The Division 2 Standard Edition",
   "Rating": 4.46,
-  "Ranking_Rating": 578,
+  "Ranking_Rating": 577,
   "Ranking_Popularity": 47,
   "Ranking_PopularitySum": 51,
   "NumberOfRatings": 6675,
-  "NumberOfAwards": 20517,
+  "NumberOfAwards": 20524,
   "NumberOfAwardsMax": 6414,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2023-04-14T21:57:17.3841332+00:00",
+  "LastChanged": "2023-04-15T01:56:48.339708+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:04.4200789+00:00",
@@ -3694,6 +3694,12 @@
       "Rating": 4.46,
       "NumberOfAwards": 20517,
       "NumberOfAwardsMax": 6414
+    },
+    {
+      "Time": "2023-04-15T01:56:48.3397081+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 20524,
+      "NumberOfAwardsMax": 6414
     }
   ],
   "Tags": [
@@ -3731,7 +3737,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1045
+      "Count": 1049
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3749,7 +3755,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1054
+      "Count": 1057
     },
     {
       "Text": "This game has Quickly Understood Controls",

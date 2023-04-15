@@ -1,5 +1,5 @@
 # Costume Quest 2
-Rating: 4.44 (Ranked 610)  
+Rating: 4.44 (Ranked 611)  
 Number of Ratings: 60  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
