@@ -164,7 +164,7 @@
 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 524 | 0 | 484 |
 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 822 | 605 | 162 |
 | [Dark Light](games/d/dark_light.md) | 4.33 | 721 | 0 | 484 |
-| [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 258 | 6,438 | 46 |
+| [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 258 | 6,440 | 46 |
 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 124 | 3,144 | 83 |
 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 508 | 38 | 408 |
 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 351 | 372 | 201 |
@@ -386,7 +386,7 @@
 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 678 | 539 | 174 |
 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 498 | 147 | 280 |
 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 190 | 1,294 | 117 |
-| [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 91 | 374 | 200 |
+| [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 91 | 379 | 198 |
 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.11 | 839 | 0 | 484 |
 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 69 | 0 | 484 |
 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.43 | 627 | 0 | 484 |
@@ -853,9 +853,9 @@
 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 375 | 20 | 477 |
 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 524 | 27 | 446 |
 | [War Mongrels](games/w/war_mongrels.md) | 4.30 | 743 | 0 | 484 |
-| [Warface](games/w/warface.md) | 3.92 | 879 | 377 | 199 |
+| [Warface](games/w/warface.md) | 3.92 | 879 | 377 | 200 |
 | [Warframe](games/w/warframe.md) | 4.61 | 351 | 14,057 | 21 |
-| [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 212 | 847 | 142 |
+| [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 212 | 848 | 142 |
 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 405 | 201 | 251 |
 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.29 | 751 | 40 | 402 |
 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 627 | 275 | 225 |

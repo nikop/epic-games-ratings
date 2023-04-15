@@ -91,7 +91,7 @@
 | 79 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 0 | 484 |
 | 79 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.80 | 0 | 484 |
 | 91 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,434 | 113 |
-| 91 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 374 | 200 |
+| 91 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 379 | 198 |
 | 91 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 879 | 141 |
 | 91 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 2,224 | 94 |
 | 91 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 974 | 136 |
@@ -229,7 +229,7 @@
 | 212 | [The Witness](games/t/the_witness.md) | 4.69 | 167 | 271 |
 | 212 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 35 | 418 |
 | 212 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 0 | 484 |
-| 212 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 847 | 142 |
+| 212 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 848 | 142 |
 | 212 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 0 | 484 |
 | 212 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 484 |
 | 212 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 0 | 484 |
@@ -259,7 +259,7 @@
 | 235 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 0 | 484 |
 | 258 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 636 | 159 |
 | 258 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 71 | 351 |
-| 258 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,438 | 46 |
+| 258 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,440 | 46 |
 | 258 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 484 |
 | 258 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 0 | 484 |
 | 258 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.67 | 0 | 484 |
@@ -881,7 +881,7 @@
 | 879 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 442 |
 | 879 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.92 | 113 | 300 |
 | 879 | [Ironcast](games/i/ironcast.md) | 3.92 | 0 | 484 |
-| 879 | [Warface](games/w/warface.md) | 3.92 | 377 | 199 |
+| 879 | [Warface](games/w/warface.md) | 3.92 | 377 | 200 |
 | 883 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 0 | 484 |
 | 883 | [Conarium](games/c/conarium.md) | 3.91 | 0 | 484 |
 | 883 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 311 |
