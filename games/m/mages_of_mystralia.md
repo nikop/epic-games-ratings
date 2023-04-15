@@ -1,5 +1,5 @@
 # Mages of Mystralia
-Rating: 4.38 (Ranked 679)  
+Rating: 4.38 (Ranked 678)  
 Number of Ratings: 693  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 162  (Ranked 274)  

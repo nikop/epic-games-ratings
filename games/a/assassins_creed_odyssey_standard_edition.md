@@ -1,5 +1,5 @@
 # Assassins Creed Odyssey Standard Edition
-Rating: 4.75 (Ranked 124)  
+Rating: 4.75 (Ranked 125)  
 Number of Ratings: 5,481  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 4,662  (Ranked 64)  

@@ -6,11 +6,11 @@
   "Ranking_Popularity": 119,
   "Ranking_PopularitySum": 79,
   "NumberOfRatings": 4392,
-  "NumberOfAwards": 9216,
+  "NumberOfAwards": 9220,
   "NumberOfAwardsMax": 1194,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2023-04-15T13:00:24.2086509+00:00",
+  "LastChanged": "2023-04-15T13:56:55.013819+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:47.4504915+00:00",
@@ -3250,6 +3250,12 @@
       "Rating": 4.82,
       "NumberOfAwards": 9216,
       "NumberOfAwardsMax": 1194
+    },
+    {
+      "Time": "2023-04-15T13:56:55.0138191+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 9220,
+      "NumberOfAwardsMax": 1194
     }
   ],
   "Tags": [
@@ -3275,7 +3281,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 1057
+      "Count": 1061
     },
     {
       "Text": "This game has Obsessive Gameplay",

@@ -1,5 +1,5 @@
 # Let's Build A Zoo
-Rating: 4.40 (Ranked 660)  
+Rating: 4.40 (Ranked 659)  
 Number of Ratings: 39  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
