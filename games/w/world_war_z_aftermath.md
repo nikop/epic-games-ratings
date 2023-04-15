@@ -1,10 +1,10 @@
 # World War Z Aftermath
-Rating: 4.56 (Ranked 437)  
+Rating: 4.56 (Ranked 436)  
 Number of Ratings: 17,073  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 3,695  (Ranked 76)  
-Sum: 25,248 (Ranked 45)  
-Diff (max vs sum): 31
+Sum: 25,248 (Ranked 46)  
+Diff (max vs sum): 30
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
