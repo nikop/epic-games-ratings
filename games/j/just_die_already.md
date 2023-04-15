@@ -1,9 +1,9 @@
 # Just Die Already
-Rating: 4.52 (Ranked 498)  
+Rating: 4.52 (Ranked 499)  
 Number of Ratings: 2,280  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 98  (Ranked 315)  
-Sum: 785 (Ranked 244)  
+Sum: 786 (Ranked 244)  
 Diff (max vs sum): 71
 ## Awards
 | Award | Number of Ratings |
@@ -14,8 +14,8 @@ Diff (max vs sum): 71
 | This game is Extremely Fun | 78 |
 | This game is Great for Quick Sessions | 76 |
 | This game has Amazing Characters | 74 |
+| This game has Amazing Storytelling | 74 |
 | This game is Relaxing | 74 |
-| This game has Amazing Storytelling | 73 |
 | This game has Quickly Understood Controls | 72 |
 | This game has a Silly Community | 66 |
 | This game has Easy Combat | 61 |
@@ -99,3 +99,4 @@ Diff (max vs sum): 71
 | 2023-02-24 | 4.52 | - | - |
 | 2023-04-06 | 4.52 | - | 97 |
 | 2023-04-09 | 4.52 | - | 98 |
+| 2023-04-15 | 4.52 | - | 98 |

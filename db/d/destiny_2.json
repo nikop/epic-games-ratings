@@ -2,16 +2,16 @@
   "ID": "428115def4ca4deea9d69c99c5a5a99e",
   "Name": "Destiny 2",
   "Rating": 4.5,
-  "Ranking_Rating": 524,
+  "Ranking_Rating": 525,
   "Ranking_Popularity": 12,
   "Ranking_PopularitySum": 16,
   "NumberOfRatings": 32207,
-  "NumberOfAwards": 79023,
+  "NumberOfAwards": 79051,
   "NumberOfAwardsMax": 32858,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-08-23T20:00:58.6908762+00:00",
   "FirstSeenRating": "2022-08-24T03:30:20.9735605+00:00",
-  "LastChanged": "2023-04-15T20:57:19.921377+00:00",
+  "LastChanged": "2023-04-15T22:57:14.6367984+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-24T03:30:20.973561+00:00",
@@ -2516,6 +2516,12 @@
       "Rating": 4.5,
       "NumberOfAwards": 79023,
       "NumberOfAwardsMax": 32858
+    },
+    {
+      "Time": "2023-04-15T22:57:14.6367987+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 79051,
+      "NumberOfAwardsMax": 32858
     }
   ],
   "Tags": [
@@ -2553,13 +2559,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 6293
+      "Count": 6312
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 5525
+      "Count": 5534
     },
     {
       "Text": "This game has Quickly Understood Controls",

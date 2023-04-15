@@ -1,5 +1,5 @@
 # Madden NFL 23
-Rating: 4.45 (Ranked 593)  
+Rating: 4.45 (Ranked 594)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  

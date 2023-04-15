@@ -1,5 +1,5 @@
 # Dinosaur Fossil Hunter
-Rating: 4.20 (Ranked 795)  
+Rating: 4.20 (Ranked 796)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  

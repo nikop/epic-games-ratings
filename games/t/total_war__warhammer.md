@@ -1,5 +1,5 @@
 # Total War: WARHAMMER
-Rating: 4.58 (Ranked 405)  
+Rating: 4.58 (Ranked 406)  
 Number of Ratings: 8,439  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 5,966  (Ranked 52)  

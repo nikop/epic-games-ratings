@@ -1,5 +1,5 @@
 # Shoulders of Giants
-Rating: 4.26 (Ranked 766)  
+Rating: 4.26 (Ranked 768)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  

@@ -1,5 +1,5 @@
 # Sherlock Holmes: Crimes and Punishments
-Rating: 4.44 (Ranked 611)  
+Rating: 4.44 (Ranked 612)  
 Number of Ratings: 491  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  

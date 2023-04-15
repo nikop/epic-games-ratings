@@ -2,15 +2,15 @@
   "ID": "9773aa1aa54f4f7b80e44bef04986cea",
   "Name": "Rocket League\u00AE",
   "Rating": 4.51,
-  "Ranking_Rating": 508,
+  "Ranking_Rating": 509,
   "Ranking_Popularity": 2,
   "Ranking_PopularitySum": 2,
   "NumberOfRatings": 366020,
-  "NumberOfAwards": 2617675,
-  "NumberOfAwardsMax": 381720,
+  "NumberOfAwards": 2619480,
+  "NumberOfAwardsMax": 382850,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:17:22.1538752+00:00",
-  "LastChanged": "2023-04-15T21:57:01.8046381+00:00",
+  "LastChanged": "2023-04-15T22:57:12.1367438+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:22.1538754+00:00",
@@ -3963,6 +3963,12 @@
       "Rating": 4.51,
       "NumberOfAwards": 2617675,
       "NumberOfAwardsMax": 381720
+    },
+    {
+      "Time": "2023-04-15T22:57:12.1367441+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 2619480,
+      "NumberOfAwardsMax": 382850
     }
   ],
   "Tags": [
@@ -3970,7 +3976,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 381720
+      "Count": 382850
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4012,7 +4018,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 246658
+      "Count": 247333
     },
     {
       "Text": "This game has Amazing Characters",

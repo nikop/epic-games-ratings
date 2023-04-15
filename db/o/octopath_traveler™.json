@@ -3,14 +3,14 @@
   "Name": "OCTOPATH TRAVELER\u2122",
   "Rating": 4.79,
   "Ranking_Rating": 91,
-  "Ranking_Popularity": 299,
-  "Ranking_PopularitySum": 385,
+  "Ranking_Popularity": 297,
+  "Ranking_PopularitySum": 384,
   "NumberOfRatings": 166,
-  "NumberOfAwards": 115,
-  "NumberOfAwardsMax": 115,
+  "NumberOfAwards": 116,
+  "NumberOfAwardsMax": 116,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:21:15.1292703+00:00",
-  "LastChanged": "2023-04-14T10:57:31.9741732+00:00",
+  "LastChanged": "2023-04-15T22:57:43.4568796+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:15.1292706+00:00",
@@ -407,6 +407,12 @@
       "Rating": 4.79,
       "NumberOfAwards": 115,
       "NumberOfAwardsMax": 115
+    },
+    {
+      "Time": "2023-04-15T22:57:43.4568797+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 116,
+      "NumberOfAwardsMax": 116
     }
   ],
   "Tags": [
@@ -414,7 +420,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 115
+      "Count": 116
     }
   ]
 }

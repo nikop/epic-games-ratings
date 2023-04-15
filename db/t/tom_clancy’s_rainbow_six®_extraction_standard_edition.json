@@ -2,15 +2,15 @@
   "ID": "1093790870b043cdbae03d91d76d9ae6",
   "Name": "Tom Clancy\u2019s Rainbow Six\u00AE Extraction Standard Edition",
   "Rating": 4.52,
-  "Ranking_Rating": 498,
+  "Ranking_Rating": 499,
   "Ranking_Popularity": 281,
   "Ranking_PopularitySum": 226,
   "NumberOfRatings": 635,
-  "NumberOfAwards": 982,
+  "NumberOfAwards": 984,
   "NumberOfAwardsMax": 141,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:22:18.7941234+00:00",
-  "LastChanged": "2023-04-15T01:56:49.7711568+00:00",
+  "LastChanged": "2023-04-15T22:57:52.9853678+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:18.7941236+00:00",
@@ -1100,6 +1100,12 @@
       "Rating": 4.52,
       "NumberOfAwards": 982,
       "NumberOfAwardsMax": 141
+    },
+    {
+      "Time": "2023-04-15T22:57:52.9853706+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 984,
+      "NumberOfAwardsMax": 141
     }
   ],
   "Tags": [
@@ -1113,7 +1119,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 127
+      "Count": 128
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1155,7 +1161,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 112
+      "Count": 113
     },
     {
       "Text": "This game has Realistic Visuals",

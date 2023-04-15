@@ -1,5 +1,5 @@
 # Relicta
-Rating: 4.15 (Ranked 828)  
+Rating: 4.15 (Ranked 829)  
 Number of Ratings: 429  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Challenging Puzzles): 192  (Ranked 256)  

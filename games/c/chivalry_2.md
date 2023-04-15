@@ -1,16 +1,16 @@
 # Chivalry 2
-Rating: 4.61 (Ranked 351)  
+Rating: 4.61 (Ranked 352)  
 Number of Ratings: 18,078  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 3,959  (Ranked 72)  
-Sum: 25,747 (Ranked 43)  
+Sum: 25,749 (Ranked 43)  
 Diff (max vs sum): 29
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Extremely Fun | 3,959 |
 | This game has Competitive Players | 3,953 |
-| This game has Diverse Characters | 3,896 |
+| This game has Diverse Characters | 3,898 |
 | This game is Highly Recommended | 3,809 |
 | This game has Quickly Understood Controls | 3,674 |
 | This game has Amazing Characters | 3,358 |

@@ -1,15 +1,15 @@
 # Dying Light 2 Stay Human
-Rating: 4.57 (Ranked 423)  
+Rating: 4.57 (Ranked 424)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 6,356  (Ranked 49)  
-Sum: 14,641 (Ranked 59)  
+Sum: 14,648 (Ranked 59)  
 Diff (max vs sum): -10
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Inclusive Character Customization | 6,356 |
-| This game has Great Boss Battles | 3,737 |
+| This game has Great Boss Battles | 3,744 |
 | This game is Great for Beginners | 544 |
 | This game is Highly Recommended | 539 |
 | This game has Amazing Characters | 535 |

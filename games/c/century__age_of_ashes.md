@@ -1,10 +1,10 @@
 # Century: Age of Ashes
-Rating: 4.42 (Ranked 633)  
+Rating: 4.42 (Ranked 634)  
 Number of Ratings: 1,747  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Competitive Players): 59  (Ranked 371)  
-Sum: 569 (Ranked 278)  
-Diff (max vs sum): 93
+Sum: 569 (Ranked 279)  
+Diff (max vs sum): 92
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
