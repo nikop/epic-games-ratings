@@ -2,15 +2,15 @@
   "ID": "047392e91d5e4cfdb19e2767440ab206",
   "Name": "Jurassic World Evolution",
   "Rating": 4.62,
-  "Ranking_Rating": 333,
+  "Ranking_Rating": 334,
   "Ranking_Popularity": 176,
   "Ranking_PopularitySum": 123,
   "NumberOfRatings": 9223,
-  "NumberOfAwards": 4767,
+  "NumberOfAwards": 4768,
   "NumberOfAwardsMax": 527,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:18:31.0085434+00:00",
-  "LastChanged": "2023-04-16T21:57:01.4827661+00:00",
+  "LastChanged": "2023-04-16T22:56:59.3445273+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:31.0085436+00:00",
@@ -2718,6 +2718,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 4767,
       "NumberOfAwardsMax": 527
+    },
+    {
+      "Time": "2023-04-16T22:56:59.3445275+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 4768,
+      "NumberOfAwardsMax": 527
     }
   ],
   "Tags": [
@@ -2773,7 +2779,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 489
+      "Count": 490
     },
     {
       "Text": "This game has Amazing Characters",

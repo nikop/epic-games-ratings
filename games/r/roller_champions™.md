@@ -1,5 +1,5 @@
 # Roller Champions™
-Rating: 4.34 (Ranked 714)  
+Rating: 4.34 (Ranked 715)  
 Number of Ratings: 5,693  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 233  (Ranked 238)  

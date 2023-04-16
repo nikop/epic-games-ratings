@@ -1,15 +1,15 @@
 {
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
-  "Rating": 4.62,
-  "Ranking_Rating": 333,
+  "Rating": 4.64,
+  "Ranking_Rating": 310,
   "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 484,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-21T22:57:01.0375788+00:00",
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
-  "LastChanged": "2023-04-15T22:57:10.0507056+00:00",
+  "LastChanged": "2023-04-16T22:56:51.8833289+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:56:57.8348963+00:00",
@@ -20,6 +20,12 @@
     {
       "Time": "2023-04-15T22:57:10.0507058+00:00",
       "Rating": 4.62,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-16T22:56:51.8833291+00:00",
+      "Rating": 4.64,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
