@@ -4,13 +4,13 @@
   "Rating": 4.58,
   "Ranking_Rating": 406,
   "Ranking_Popularity": 167,
-  "Ranking_PopularitySum": 274,
+  "Ranking_PopularitySum": 275,
   "NumberOfRatings": 900,
-  "NumberOfAwards": 607,
+  "NumberOfAwards": 587,
   "NumberOfAwardsMax": 565,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:21:14.6538569+00:00",
-  "LastChanged": "2023-04-14T15:57:20.5960038+00:00",
+  "LastChanged": "2023-04-16T10:57:36.855195+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:14.6538572+00:00",
@@ -766,6 +766,12 @@
       "Time": "2023-04-14T15:57:20.596004+00:00",
       "Rating": 4.58,
       "NumberOfAwards": 607,
+      "NumberOfAwardsMax": 565
+    },
+    {
+      "Time": "2023-04-16T10:57:36.8551953+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 587,
       "NumberOfAwardsMax": 565
     }
   ],

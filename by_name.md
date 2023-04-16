@@ -133,13 +133,13 @@
 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.25 | 772 | 21 | 472 |
 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 870 | 0 | 484 |
 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 352 | 0 | 484 |
-| [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 472 | 1,060 | 125 |
+| [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 472 | 1,060 | 126 |
 | [Conarium](games/c/conarium.md) | 3.91 | 883 | 0 | 484 |
 | [Control](games/c/control.md) | 4.60 | 376 | 8,221 | 37 |
 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 60 | 0 | 484 |
 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 540 | 104 | 309 |
 | [Core](games/c/core.md) | 4.37 | 690 | 724 | 150 |
-| [Coromon](games/c/coromon.md) | 4.65 | 286 | 40 | 404 |
+| [Coromon](games/c/coromon.md) | 4.65 | 286 | 40 | 405 |
 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 896 | 0 | 484 |
 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 485 | 0 | 484 |
 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.44 | 612 | 0 | 484 |
@@ -445,7 +445,7 @@
 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 485 | 1,041 | 128 |
 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 25 | 11,286 | 31 |
 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 91 | 975 | 136 |
-| [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 352 | 1,060 | 125 |
+| [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 352 | 1,061 | 125 |
 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 286 | 48 | 384 |
 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 212 | 1,168 | 121 |
 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 91 | 5,793 | 55 |
@@ -760,7 +760,7 @@
 | [The Pathless](games/t/the_pathless.md) | 4.68 | 235 | 0 | 484 |
 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 190 | 0 | 484 |
 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 125 | 37 | 411 |
-| [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.72 | 898 | 40 | 404 |
+| [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.72 | 898 | 41 | 402 |
 | [The Silent Age](games/t/the_silent_age.md) | 4.35 | 706 | 0 | 484 |
 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.59 | 390 | 89 | 330 |
 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 772 | 0 | 484 |

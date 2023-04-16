@@ -288,7 +288,7 @@
 | 286 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 484 |
 | 286 | [APE OUT](games/a/ape_out.md) | 4.65 | 0 | 484 |
 | 286 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,283 | 68 |
-| 286 | [Coromon](games/c/coromon.md) | 4.65 | 40 | 404 |
+| 286 | [Coromon](games/c/coromon.md) | 4.65 | 40 | 405 |
 | 286 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 163 | 273 |
 | 286 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 112 | 304 |
 | 286 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 0 | 484 |
@@ -365,7 +365,7 @@
 | 352 | [GRIME](games/g/grime.md) | 4.61 | 0 | 484 |
 | 352 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 550 | 168 |
 | 352 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 0 | 484 |
-| 352 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,060 | 125 |
+| 352 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,061 | 125 |
 | 352 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 484 |
 | 352 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,415 | 89 |
 | 352 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 398 | 192 |
@@ -471,7 +471,7 @@
 | 461 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 484 |
 | 461 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.55 | 0 | 484 |
 | 461 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.55 | 0 | 484 |
-| 472 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,060 | 125 |
+| 472 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,060 | 126 |
 | 472 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 425 |
 | 472 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 981 | 134 |
 | 472 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 191 | 257 |
@@ -897,5 +897,5 @@
 | 894 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 66 | 360 |
 | 896 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 0 | 484 |
 | 897 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 0 | 484 |
-| 898 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.72 | 40 | 404 |
+| 898 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.72 | 41 | 402 |
 | 899 | [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | 0 | 484 |

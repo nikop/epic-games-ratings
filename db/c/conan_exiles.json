@@ -3,14 +3,14 @@
   "Name": "Conan Exiles",
   "Rating": 4.54,
   "Ranking_Rating": 472,
-  "Ranking_Popularity": 125,
+  "Ranking_Popularity": 126,
   "Ranking_PopularitySum": 91,
   "NumberOfRatings": 1374,
-  "NumberOfAwards": 7634,
+  "NumberOfAwards": 7637,
   "NumberOfAwardsMax": 1060,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:16:49.0940249+00:00",
-  "LastChanged": "2023-04-16T09:56:54.0462468+00:00",
+  "LastChanged": "2023-04-16T10:56:59.914996+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:49.0940252+00:00",
@@ -2249,6 +2249,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 7634,
       "NumberOfAwardsMax": 1060
+    },
+    {
+      "Time": "2023-04-16T10:56:59.9149962+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 7637,
+      "NumberOfAwardsMax": 1060
     }
   ],
   "Tags": [
@@ -2274,7 +2280,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1016
+      "Count": 1019
     },
     {
       "Text": "This game is Extremely Fun",
