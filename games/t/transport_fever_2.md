@@ -1,14 +1,14 @@
 # Transport Fever 2
-Rating: 4.69 (Ranked 212)  
+Rating: 4.70 (Ranked 190)  
 Number of Ratings: 180  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Highly Recommended): 35  (Ranked 418)  
-Sum: 252 (Ranked 335)  
-Diff (max vs sum): 83
+Max (Highly Recommended): 36  (Ranked 414)  
+Sum: 253 (Ranked 335)  
+Diff (max vs sum): 79
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Highly Recommended | 35 |
+| This game is Highly Recommended | 36 |
 | This game has Amazing Storytelling | 33 |
 | This game is Extremely Fun | 32 |
 | This game is Relaxing | 28 |
@@ -73,3 +73,4 @@ Diff (max vs sum): 83
 | 2023-04-05 | 4.69 | - | 35 |
 | 2023-04-09 | 4.69 | - | 35 |
 | 2023-04-14 | 4.69 | - | 35 |
+| 2023-04-16 | 4.70 | - | 36 |

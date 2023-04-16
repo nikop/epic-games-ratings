@@ -1,13 +1,13 @@
 # Marvel’s Spider-Man: Miles Morales
 Rating: 4.79 (Ranked 91)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 975  (Ranked 136)  
-Sum: 1,293 (Ranked 213)  
+Max (Great Boss Battles): 978  (Ranked 136)  
+Sum: 1,296 (Ranked 213)  
 Diff (max vs sum): -77
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 975 |
+| This game has Great Boss Battles | 978 |
 | This game has Diverse Characters | 41 |
 | This game has Amazing Storytelling | 40 |
 | This game is Great for Beginners | 35 |
@@ -47,3 +47,4 @@ Diff (max vs sum): -77
 | 2023-04-13 | 4.79 | - | 974 |
 | 2023-04-14 | 4.79 | - | 974 |
 | 2023-04-15 | 4.79 | - | 975 |
+| 2023-04-16 | 4.79 | - | 978 |

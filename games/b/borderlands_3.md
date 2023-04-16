@@ -1,9 +1,9 @@
 # Borderlands 3
-Rating: 4.69 (Ranked 212)  
+Rating: 4.69 (Ranked 213)  
 Number of Ratings: 151,211  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 107,310  (Ranked 8)  
-Sum: 335,960 (Ranked 9)  
+Sum: 335,982 (Ranked 9)  
 Diff (max vs sum): -1
 ## Awards
 | Award | Number of Ratings |
@@ -13,7 +13,7 @@ Diff (max vs sum): -1
 | This game has Diverse Characters | 24,169 |
 | This game is Highly Recommended | 24,119 |
 | This game is Extremely Fun | 23,949 |
-| This game has Amazing Storytelling | 23,291 |
+| This game has Amazing Storytelling | 23,313 |
 | This game has Quickly Understood Controls | 23,226 |
 | This game is Relaxing | 22,918 |
 | This game has Amazing Characters | 22,546 |

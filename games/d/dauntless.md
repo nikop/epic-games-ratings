@@ -1,9 +1,9 @@
 # Dauntless
-Rating: 4.53 (Ranked 485)  
+Rating: 4.53 (Ranked 484)  
 Number of Ratings: 23,656  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 19,436  (Ranked 16)  
-Sum: 48,454 (Ranked 22)  
+Sum: 48,456 (Ranked 22)  
 Diff (max vs sum): -6
 ## Awards
 | Award | Number of Ratings |
@@ -12,9 +12,9 @@ Diff (max vs sum): -6
 | This game has Great Boss Battles | 13,054 |
 | This game is Great for Beginners | 2,938 |
 | This game is Extremely Fun | 2,652 |
+| This game is Highly Recommended | 2,617 |
 | This game is Relaxing | 2,617 |
 | This game has Quickly Understood Controls | 2,616 |
-| This game is Highly Recommended | 2,615 |
 | This game has Amazing Characters | 2,526 |
 | This game is Great for Quick Sessions | 1,548 |
 | This game has Diverse Characters | 915 |

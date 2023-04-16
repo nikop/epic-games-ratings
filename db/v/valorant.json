@@ -2,15 +2,15 @@
   "ID": "cbd5b3d310a54b12bf3fe8c41994174f",
   "Name": "VALORANT",
   "Rating": 4.54,
-  "Ranking_Rating": 472,
+  "Ranking_Rating": 471,
   "Ranking_Popularity": 11,
   "Ranking_PopularitySum": 7,
   "NumberOfRatings": 157172,
-  "NumberOfAwards": 371347,
+  "NumberOfAwards": 371431,
   "NumberOfAwardsMax": 48803,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2023-04-16T02:03:23.0441128+00:00",
+  "LastChanged": "2023-04-16T13:02:36.3362361+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:57.2451126+00:00",
@@ -3936,6 +3936,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 371347,
       "NumberOfAwardsMax": 48803
+    },
+    {
+      "Time": "2023-04-16T13:02:36.3362362+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 371431,
+      "NumberOfAwardsMax": 48803
     }
   ],
   "Tags": [
@@ -3961,7 +3967,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 40618
+      "Count": 40702
     },
     {
       "Text": "This game has Challenging Combat",

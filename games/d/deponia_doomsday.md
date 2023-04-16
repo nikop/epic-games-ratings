@@ -1,5 +1,5 @@
 # Deponia Doomsday
-Rating: 4.58 (Ranked 406)  
+Rating: 4.58 (Ranked 405)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  

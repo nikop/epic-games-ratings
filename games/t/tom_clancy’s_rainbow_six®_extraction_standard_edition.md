@@ -1,9 +1,9 @@
 # Tom Clancy’s Rainbow Six® Extraction Standard Edition
-Rating: 4.52 (Ranked 499)  
+Rating: 4.52 (Ranked 498)  
 Number of Ratings: 635  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 141  (Ranked 281)  
-Sum: 984 (Ranked 226)  
+Sum: 985 (Ranked 226)  
 Diff (max vs sum): 55
 ## Awards
 | Award | Number of Ratings |
@@ -11,7 +11,7 @@ Diff (max vs sum): 55
 | This game has Diverse Characters | 141 |
 | This game has Quickly Understood Controls | 133 |
 | This game is Relaxing | 128 |
-| This game is Highly Recommended | 126 |
+| This game is Highly Recommended | 127 |
 | This game has Amazing Characters | 124 |
 | This game has Challenging Combat | 114 |
 | This game is Extremely Fun | 113 |
@@ -120,3 +120,4 @@ Diff (max vs sum): 55
 | 2023-04-11 | 4.52 | - | 140 |
 | 2023-04-14 | 4.52 | - | 141 |
 | 2023-04-15 | 4.52 | - | 141 |
+| 2023-04-16 | 4.52 | - | 141 |

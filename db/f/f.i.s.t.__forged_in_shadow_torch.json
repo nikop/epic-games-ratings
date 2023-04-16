@@ -2,15 +2,15 @@
   "ID": "a7e2a2c51b9149c097b771926ed91877",
   "Name": "F.I.S.T.: Forged In Shadow Torch",
   "Rating": 4.56,
-  "Ranking_Rating": 438,
+  "Ranking_Rating": 436,
   "Ranking_Popularity": 152,
-  "Ranking_PopularitySum": 247,
+  "Ranking_PopularitySum": 246,
   "NumberOfRatings": 572,
-  "NumberOfAwards": 752,
-  "NumberOfAwardsMax": 712,
+  "NumberOfAwards": 755,
+  "NumberOfAwardsMax": 715,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:26:53.9715824+00:00",
-  "LastChanged": "2023-04-14T10:58:17.4297778+00:00",
+  "LastChanged": "2023-04-16T13:02:08.8410551+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:53.9715826+00:00",
@@ -598,6 +598,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 752,
       "NumberOfAwardsMax": 712
+    },
+    {
+      "Time": "2023-04-16T13:02:08.8410552+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 755,
+      "NumberOfAwardsMax": 715
     }
   ],
   "Tags": [
@@ -605,7 +611,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 712
+      "Count": 715
     },
     {
       "Text": "This game is Extremely Fun",

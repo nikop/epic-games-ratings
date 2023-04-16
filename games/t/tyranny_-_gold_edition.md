@@ -1,9 +1,9 @@
 # Tyranny - Gold Edition
-Rating: 4.59 (Ranked 390)  
+Rating: 4.59 (Ranked 389)  
 Number of Ratings: 1,278  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 690  (Ranked 153)  
-Sum: 1,351 (Ranked 211)  
+Sum: 1,352 (Ranked 211)  
 Diff (max vs sum): -58
 ## Awards
 | Award | Number of Ratings |
@@ -13,8 +13,8 @@ Diff (max vs sum): -58
 | This game has Amazing Storytelling | 48 |
 | This game is Extremely Fun | 45 |
 | This game is Highly Recommended | 42 |
+| This game has Diverse Characters | 42 |
 | This game has Quickly Understood Controls | 42 |
-| This game has Diverse Characters | 41 |
 | This game has Amazing Characters | 39 |
 | This game has Unique Visuals | 35 |
 | This game is Relaxing | 32 |
@@ -99,3 +99,4 @@ Diff (max vs sum): -58
 | 2023-04-11 | 4.59 | - | 688 |
 | 2023-04-14 | 4.59 | - | 690 |
 | 2023-04-15 | 4.59 | - | 690 |
+| 2023-04-16 | 4.59 | - | 690 |

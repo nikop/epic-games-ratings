@@ -1,16 +1,16 @@
 {
   "ID": "1760fff3738043f2870594d94487fa4b",
   "Name": "Transport Fever 2",
-  "Rating": 4.69,
-  "Ranking_Rating": 212,
-  "Ranking_Popularity": 418,
+  "Rating": 4.7,
+  "Ranking_Rating": 190,
+  "Ranking_Popularity": 414,
   "Ranking_PopularitySum": 335,
   "NumberOfRatings": 180,
-  "NumberOfAwards": 252,
-  "NumberOfAwardsMax": 35,
+  "NumberOfAwards": 253,
+  "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
-  "LastChanged": "2023-04-14T17:56:58.7075236+00:00",
+  "LastChanged": "2023-04-16T13:00:49.3612855+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:50.1070656+00:00",
@@ -302,6 +302,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 252,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-04-16T13:00:49.3612856+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 253,
+      "NumberOfAwardsMax": 36
     }
   ],
   "Tags": [
@@ -309,7 +315,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game has Obsessive Gameplay",

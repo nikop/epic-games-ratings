@@ -2,15 +2,15 @@
   "ID": "jackal",
   "Name": "Dauntless",
   "Rating": 4.53,
-  "Ranking_Rating": 485,
+  "Ranking_Rating": 484,
   "Ranking_Popularity": 16,
   "Ranking_PopularitySum": 22,
   "NumberOfRatings": 23656,
-  "NumberOfAwards": 48454,
+  "NumberOfAwards": 48456,
   "NumberOfAwardsMax": 19436,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2023-04-16T07:57:18.4633518+00:00",
+  "LastChanged": "2023-04-16T13:01:07.3523756+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:00.302975+00:00",
@@ -3940,6 +3940,12 @@
       "Rating": 4.53,
       "NumberOfAwards": 48454,
       "NumberOfAwardsMax": 19436
+    },
+    {
+      "Time": "2023-04-16T13:01:07.3523757+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 48456,
+      "NumberOfAwardsMax": 19436
     }
   ],
   "Tags": [
@@ -3983,7 +3989,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2615
+      "Count": 2617
     },
     {
       "Text": "This game is Great for Beginners",

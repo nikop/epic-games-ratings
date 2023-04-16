@@ -2,15 +2,15 @@
   "ID": "7ec453d446194b8f8afe82aaa9561211",
   "Name": "XCOM\u00AE 2",
   "Rating": 4.54,
-  "Ranking_Rating": 472,
+  "Ranking_Rating": 471,
   "Ranking_Popularity": 123,
   "Ranking_PopularitySum": 80,
   "NumberOfRatings": 7396,
-  "NumberOfAwards": 9030,
+  "NumberOfAwards": 9033,
   "NumberOfAwardsMax": 1113,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:17:40.7075482+00:00",
-  "LastChanged": "2023-04-16T05:57:00.9634613+00:00",
+  "LastChanged": "2023-04-16T13:00:49.2204734+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:40.7075487+00:00",
@@ -3250,6 +3250,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 9030,
       "NumberOfAwardsMax": 1113
+    },
+    {
+      "Time": "2023-04-16T13:00:49.2204735+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9033,
+      "NumberOfAwardsMax": 1113
     }
   ],
   "Tags": [
@@ -3287,7 +3293,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1070
+      "Count": 1073
     },
     {
       "Text": "This game has Quickly Understood Controls",

@@ -1,9 +1,9 @@
 # Watch Dogs 2 Standard Edition
-Rating: 4.59 (Ranked 390)  
+Rating: 4.59 (Ranked 389)  
 Number of Ratings: 6,460  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 305  (Ranked 217)  
-Sum: 2,232 (Ranked 172)  
+Sum: 2,233 (Ranked 172)  
 Diff (max vs sum): 45
 ## Awards
 | Award | Number of Ratings |
@@ -14,7 +14,7 @@ Diff (max vs sum): 45
 | This game is Great for Beginners | 280 |
 | This game is Extremely Fun | 279 |
 | This game has Amazing Characters | 278 |
-| This game has Diverse Characters | 264 |
+| This game has Diverse Characters | 265 |
 | This game is Highly Recommended | 251 |
 | This game has Obsessive Gameplay | 145 |
 | This game has Competitive Players | 67 |
@@ -103,3 +103,4 @@ Diff (max vs sum): 45
 | 2023-04-13 | 4.59 | - | 302 |
 | 2023-04-14 | 4.59 | - | 303 |
 | 2023-04-15 | 4.59 | - | 305 |
+| 2023-04-16 | 4.59 | - | 305 |

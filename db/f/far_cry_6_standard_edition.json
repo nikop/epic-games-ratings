@@ -4,13 +4,13 @@
   "Rating": 4.44,
   "Ranking_Rating": 612,
   "Ranking_Popularity": 156,
-  "Ranking_PopularitySum": 119,
+  "Ranking_PopularitySum": 118,
   "NumberOfRatings": 12290,
-  "NumberOfAwards": 5139,
+  "NumberOfAwards": 5144,
   "NumberOfAwardsMax": 661,
   "MaxAwardTitle": "Amazing Storytelling",
   "FirstSeen": "2022-07-22T20:18:07.3905482+00:00",
-  "LastChanged": "2023-04-16T10:57:09.2404213+00:00",
+  "LastChanged": "2023-04-16T13:00:50.6131012+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:07.3905485+00:00",
@@ -3246,6 +3246,12 @@
       "Rating": 4.44,
       "NumberOfAwards": 5139,
       "NumberOfAwardsMax": 661
+    },
+    {
+      "Time": "2023-04-16T13:00:50.6131013+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5144,
+      "NumberOfAwardsMax": 661
     }
   ],
   "Tags": [
@@ -3253,13 +3259,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 646
+      "Count": 649
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 626
+      "Count": 628
     },
     {
       "Text": "This game is Great for Beginners",

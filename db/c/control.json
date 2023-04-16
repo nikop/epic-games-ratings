@@ -2,15 +2,15 @@
   "ID": "calluna",
   "Name": "Control",
   "Rating": 4.6,
-  "Ranking_Rating": 376,
+  "Ranking_Rating": 375,
   "Ranking_Popularity": 37,
   "Ranking_PopularitySum": 69,
   "NumberOfRatings": 16122,
-  "NumberOfAwards": 12260,
-  "NumberOfAwardsMax": 8221,
+  "NumberOfAwards": 12261,
+  "NumberOfAwardsMax": 8222,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:16:45.0678604+00:00",
-  "LastChanged": "2023-04-15T23:57:08.5346942+00:00",
+  "LastChanged": "2023-04-16T13:00:40.3068953+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:45.0678606+00:00",
@@ -2949,6 +2949,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 12260,
       "NumberOfAwardsMax": 8221
+    },
+    {
+      "Time": "2023-04-16T13:00:40.3068955+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 12261,
+      "NumberOfAwardsMax": 8222
     }
   ],
   "Tags": [
@@ -2956,7 +2962,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 8221
+      "Count": 8222
     },
     {
       "Text": "This game has Amazing Storytelling",

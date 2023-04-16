@@ -2,15 +2,15 @@
   "ID": "48ffecf4a89f4fd496817b0451384f39",
   "Name": "Rise of the Tomb Raider: 20 Year Celebration",
   "Rating": 4.69,
-  "Ranking_Rating": 212,
+  "Ranking_Rating": 213,
   "Ranking_Popularity": 32,
   "Ranking_PopularitySum": 60,
   "NumberOfRatings": 28216,
-  "NumberOfAwards": 14097,
-  "NumberOfAwardsMax": 11155,
+  "NumberOfAwards": 14100,
+  "NumberOfAwardsMax": 11158,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:21:10.6439255+00:00",
-  "LastChanged": "2023-04-15T07:57:30.0249024+00:00",
+  "LastChanged": "2023-04-16T13:01:16.9489413+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:10.6439258+00:00",
@@ -2763,6 +2763,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 14097,
       "NumberOfAwardsMax": 11155
+    },
+    {
+      "Time": "2023-04-16T13:01:16.9489415+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 14100,
+      "NumberOfAwardsMax": 11158
     }
   ],
   "Tags": [
@@ -2770,7 +2776,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 11155
+      "Count": 11158
     },
     {
       "Text": "This game has Quickly Understood Controls",
