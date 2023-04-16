@@ -6,11 +6,11 @@
   "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 52,
   "NumberOfRatings": 6825,
-  "NumberOfAwards": 20453,
-  "NumberOfAwardsMax": 2386,
+  "NumberOfAwards": 20491,
+  "NumberOfAwardsMax": 2394,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-04-16T20:58:10.906865+00:00",
+  "LastChanged": "2023-04-16T21:57:35.7357356+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:57.8589287+00:00",
@@ -3631,6 +3631,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 20453,
       "NumberOfAwardsMax": 2386
+    },
+    {
+      "Time": "2023-04-16T21:57:35.7357357+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 20491,
+      "NumberOfAwardsMax": 2394
     }
   ],
   "Tags": [
@@ -3650,13 +3656,13 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 2386
+      "Count": 2394
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2057
+      "Count": 2066
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3680,7 +3686,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 2073
+      "Count": 2087
     },
     {
       "Text": "This game has a Competitive Community",
@@ -3704,7 +3710,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1060
+      "Count": 1067
     }
   ]
 }

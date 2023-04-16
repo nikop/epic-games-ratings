@@ -3,14 +3,14 @@
   "Name": "THE KING OF FIGHTERS XV",
   "Rating": 4.62,
   "Ranking_Rating": 333,
-  "Ranking_Popularity": 354,
+  "Ranking_Popularity": 352,
   "Ranking_PopularitySum": 284,
   "NumberOfRatings": 181,
-  "NumberOfAwards": 536,
-  "NumberOfAwardsMax": 70,
+  "NumberOfAwards": 538,
+  "NumberOfAwardsMax": 71,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:21:01.2233812+00:00",
-  "LastChanged": "2023-04-16T13:01:15.5212032+00:00",
+  "LastChanged": "2023-04-16T21:57:19.0763275+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:01.2233815+00:00",
@@ -243,6 +243,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 536,
       "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2023-04-16T21:57:19.0763277+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 538,
+      "NumberOfAwardsMax": 71
     }
   ],
   "Tags": [
@@ -280,7 +286,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 70
+      "Count": 71
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -298,7 +304,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 60
+      "Count": 61
     },
     {
       "Text": "This game has Challenging Combat",

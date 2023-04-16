@@ -1,5 +1,5 @@
 # Knockout City™
-Rating: 4.51 (Ranked 508)  
+Rating: 4.50 (Ranked 523)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  
@@ -53,3 +53,4 @@ Diff (max vs sum): 0
 | 2023-04-08 | 4.52 | - | 0 |
 | 2023-04-11 | 4.53 | - | 0 |
 | 2023-04-14 | 4.51 | - | 0 |
+| 2023-04-16 | 4.50 | - | 0 |
