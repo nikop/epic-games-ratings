@@ -1,16 +1,16 @@
 {
   "ID": "c3e63401d6ba410493de31ed69a798a1",
   "Name": "Heroes \u0026 Generals WWII",
-  "Rating": 4.23,
-  "Ranking_Rating": 785,
+  "Rating": 4.24,
+  "Ranking_Rating": 775,
   "Ranking_Popularity": 135,
   "Ranking_PopularitySum": 103,
   "NumberOfRatings": 4634,
-  "NumberOfAwards": 6853,
+  "NumberOfAwards": 6854,
   "NumberOfAwardsMax": 979,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:17:51.2948147+00:00",
-  "LastChanged": "2023-04-16T02:01:41.0610419+00:00",
+  "LastChanged": "2023-04-16T13:56:53.1313779+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:51.2948149+00:00",
@@ -2969,6 +2969,12 @@
       "Rating": 4.23,
       "NumberOfAwards": 6853,
       "NumberOfAwardsMax": 979
+    },
+    {
+      "Time": "2023-04-16T13:56:53.1313781+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 6854,
+      "NumberOfAwardsMax": 979
     }
   ],
   "Tags": [
@@ -3006,7 +3012,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 928
+      "Count": 929
     },
     {
       "Text": "This game has Amazing Characters",

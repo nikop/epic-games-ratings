@@ -1,5 +1,5 @@
 # Fangs
-Rating: 4.09 (Ranked 850)  
+Rating: 4.09 (Ranked 849)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  

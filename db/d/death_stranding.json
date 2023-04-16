@@ -3,14 +3,14 @@
   "Name": "DEATH STRANDING",
   "Rating": 4.78,
   "Ranking_Rating": 100,
-  "Ranking_Popularity": 66,
+  "Ranking_Popularity": 65,
   "Ranking_PopularitySum": 111,
-  "NumberOfAwards": 6133,
-  "NumberOfAwardsMax": 4496,
+  "NumberOfAwards": 6153,
+  "NumberOfAwardsMax": 4516,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-12-25T17:57:41.2427697+00:00",
   "FirstSeenRating": "2022-12-26T09:58:07.1196688+00:00",
-  "LastChanged": "2023-04-16T09:58:14.8556567+00:00",
+  "LastChanged": "2023-04-16T13:57:41.1336666+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-26T09:58:07.1196692+00:00",
@@ -457,6 +457,12 @@
       "Rating": 4.78,
       "NumberOfAwards": 6133,
       "NumberOfAwardsMax": 4496
+    },
+    {
+      "Time": "2023-04-16T13:57:41.1336668+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6153,
+      "NumberOfAwardsMax": 4516
     }
   ],
   "Tags": [
@@ -464,7 +470,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 4496
+      "Count": 4516
     },
     {
       "Text": "This game has Amazing Characters",

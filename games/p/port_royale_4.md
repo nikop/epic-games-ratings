@@ -1,5 +1,5 @@
 # Port Royale 4
-Rating: 3.98 (Ranked 870)  
+Rating: 3.99 (Ranked 868)  
 Number of Ratings: 53  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
@@ -48,3 +48,4 @@ Diff (max vs sum): 0
 | 2023-02-18 | 3.99 | - | - |
 | 2023-03-24 | 3.98 | - | - |
 | 2023-03-31 | 3.98 | - | 0 |
+| 2023-04-16 | 3.99 | - | 0 |
