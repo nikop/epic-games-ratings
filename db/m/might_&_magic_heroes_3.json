@@ -1,8 +1,8 @@
 {
   "ID": "4912067a5f4f4346b312aa226b2787ac",
   "Name": "Might \u0026 Magic Heroes 3",
-  "Rating": 4.81,
-  "Ranking_Rating": 69,
+  "Rating": 4.82,
+  "Ranking_Rating": 60,
   "Ranking_Popularity": 307,
   "Ranking_PopularitySum": 329,
   "NumberOfRatings": 165,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 109,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:27:33.8101196+00:00",
-  "LastChanged": "2023-04-14T17:57:49.1977573+00:00",
+  "LastChanged": "2023-04-16T02:03:02.9372803+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:33.8101199+00:00",
@@ -445,6 +445,12 @@
     {
       "Time": "2023-04-14T17:57:49.1977575+00:00",
       "Rating": 4.81,
+      "NumberOfAwards": 264,
+      "NumberOfAwardsMax": 109
+    },
+    {
+      "Time": "2023-04-16T02:03:02.9372805+00:00",
+      "Rating": 4.82,
       "NumberOfAwards": 264,
       "NumberOfAwardsMax": 109
     }

@@ -1,8 +1,8 @@
 {
   "ID": "4d62b26703d24f6d919750b3d88b6d52",
   "Name": "Destroy All Humans! 2 - Reprobed",
-  "Rating": 4.58,
-  "Ranking_Rating": 406,
+  "Rating": 4.56,
+  "Ranking_Rating": 438,
   "Ranking_Popularity": 421,
   "Ranking_PopularitySum": 443,
   "NumberOfRatings": 90,
@@ -11,7 +11,7 @@
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-08-30T21:00:25.2604466+00:00",
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
-  "LastChanged": "2023-04-09T01:56:48.8776984+00:00",
+  "LastChanged": "2023-04-16T02:01:33.3563191+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-02T22:30:21.4748667+00:00",
@@ -204,6 +204,12 @@
     {
       "Time": "2023-04-09T01:56:48.8776985+00:00",
       "Rating": 4.58,
+      "NumberOfAwards": 34,
+      "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-04-16T02:01:33.3563193+00:00",
+      "Rating": 4.56,
       "NumberOfAwards": 34,
       "NumberOfAwardsMax": 34
     }

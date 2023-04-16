@@ -6,11 +6,11 @@
   "Ranking_Popularity": 7,
   "Ranking_PopularitySum": 8,
   "NumberOfRatings": 102658,
-  "NumberOfAwards": 338383,
+  "NumberOfAwards": 338421,
   "NumberOfAwardsMax": 133548,
   "MaxAwardTitle": "Impact the Story",
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-04-15T22:58:02.2024907+00:00",
+  "LastChanged": "2023-04-16T02:02:24.6382215+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:15.0342453+00:00",
@@ -4422,6 +4422,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 338383,
       "NumberOfAwardsMax": 133548
+    },
+    {
+      "Time": "2023-04-16T02:02:24.6382216+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 338421,
+      "NumberOfAwardsMax": 133548
     }
   ],
   "Tags": [
@@ -4501,7 +4507,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 11861
+      "Count": 11899
     },
     {
       "Text": "This game has a Creative Community",

@@ -1,5 +1,5 @@
 # Hextech Mayhem: A League of Legends Story™
-Rating: 4.56 (Ranked 439)  
+Rating: 4.56 (Ranked 438)  
 Number of Ratings: 30  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  

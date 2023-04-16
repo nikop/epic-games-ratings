@@ -1,8 +1,8 @@
 # Brawlhalla
-Rating: 4.56 (Ranked 439)  
+Rating: 4.56 (Ranked 438)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 72  (Ranked 349)  
-Sum: 676 (Ranked 257)  
+Sum: 677 (Ranked 257)  
 Diff (max vs sum): 92
 ## Awards
 | Award | Number of Ratings |
@@ -14,7 +14,7 @@ Diff (max vs sum): 92
 | This game is Highly Recommended | 57 |
 | This game is Relaxing | 56 |
 | This game has Quickly Understood Controls | 56 |
-| This game is Extremely Fun | 53 |
+| This game is Extremely Fun | 54 |
 | This game has Challenging Combat | 51 |
 | This game has Amazing Characters | 50 |
 | This game has Amazing Storytelling | 47 |
@@ -104,3 +104,4 @@ Diff (max vs sum): 92
 | 2023-04-13 | 4.56 | - | 68 |
 | 2023-04-14 | 4.56 | - | 71 |
 | 2023-04-15 | 4.56 | - | 72 |
+| 2023-04-16 | 4.56 | - | 72 |
