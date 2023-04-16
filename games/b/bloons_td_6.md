@@ -1,9 +1,9 @@
 # Bloons TD 6
-Rating: 4.76 (Ranked 111)  
+Rating: 4.76 (Ranked 112)  
 Number of Ratings: 136  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 2,318  (Ranked 93)  
-Sum: 13,830 (Ranked 62)  
+Sum: 13,838 (Ranked 62)  
 Diff (max vs sum): 31
 ## Awards
 | Award | Number of Ratings |
@@ -17,7 +17,7 @@ Diff (max vs sum): 31
 | This game is Extremely Fun | 1,184 |
 | This game has Amazing Storytelling | 1,085 |
 | This game has Quickly Understood Controls | 1,072 |
-| This game is Relaxing | 1,038 |
+| This game is Relaxing | 1,046 |
 | This game is Great for Quick Sessions | 64 |
 | This game has Competitive Players | 40 |
 | This game has Obsessive Gameplay | 33 |

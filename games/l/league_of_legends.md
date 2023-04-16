@@ -1,5 +1,5 @@
 # League of Legends
-Rating: 4.21 (Ranked 790)  
+Rating: 4.21 (Ranked 789)  
 Number of Ratings: 10,796  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 12,503  (Ranked 26)  

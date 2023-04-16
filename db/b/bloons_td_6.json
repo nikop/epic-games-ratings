@@ -2,16 +2,16 @@
   "ID": "6a8dfa6e441e4f2f9048a98776c6077d",
   "Name": "Bloons TD 6",
   "Rating": 4.76,
-  "Ranking_Rating": 111,
+  "Ranking_Rating": 112,
   "Ranking_Popularity": 93,
   "Ranking_PopularitySum": 62,
   "NumberOfRatings": 136,
-  "NumberOfAwards": 13830,
+  "NumberOfAwards": 13838,
   "NumberOfAwardsMax": 2318,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-23T14:00:48.5667099+00:00",
   "FirstSeenRating": "2022-08-21T19:00:52.0889932+00:00",
-  "LastChanged": "2023-04-16T15:57:13.4112659+00:00",
+  "LastChanged": "2023-04-16T16:56:49.4959076+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-21T19:00:52.0889936+00:00",
@@ -1346,6 +1346,12 @@
       "Rating": 4.76,
       "NumberOfAwards": 13830,
       "NumberOfAwardsMax": 2318
+    },
+    {
+      "Time": "2023-04-16T16:56:49.4959079+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 13838,
+      "NumberOfAwardsMax": 2318
     }
   ],
   "Tags": [
@@ -1413,7 +1419,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1038
+      "Count": 1046
     },
     {
       "Text": "This game has a Creative Community",
