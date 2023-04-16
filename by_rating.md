@@ -431,11 +431,11 @@
 | 423 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.57 | 0 | 484 |
 | 423 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 35 | 418 |
 | 423 | [Hob](games/h/hob.md) | 4.57 | 0 | 484 |
-| 423 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,105 | 42 |
+| 423 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,119 | 42 |
 | 423 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 2,993 | 85 |
 | 423 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 116 | 298 |
 | 423 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 17,751 | 17 |
-| 423 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,681 | 108 |
+| 423 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,682 | 108 |
 | 423 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 0 | 484 |
 | 438 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 0 | 484 |
 | 438 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 0 | 484 |
@@ -487,7 +487,7 @@
 | 485 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 484 |
 | 485 | [Aztez](games/a/aztez.md) | 4.53 | 0 | 484 |
 | 485 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 484 |
-| 485 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,419 | 16 |
+| 485 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,436 | 16 |
 | 485 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 137,536 | 6 |
 | 485 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 116 | 298 |
 | 485 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,041 | 128 |
@@ -499,7 +499,7 @@
 | 485 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 261 | 232 |
 | 485 | [Verdun](games/v/verdun.md) | 4.53 | 93 | 323 |
 | 499 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 724 | 150 |
-| 499 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 26,427 | 15 |
+| 499 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 26,472 | 15 |
 | 499 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 493 | 179 |
 | 499 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 98 | 315 |
 | 499 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 147 | 280 |
@@ -662,7 +662,7 @@
 | 659 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 973 | 137 |
 | 659 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 0 | 484 |
 | 659 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 73 | 346 |
-| 659 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 379 | 199 |
+| 659 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 380 | 199 |
 | 659 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 0 | 484 |
 | 659 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 0 | 484 |
 | 659 | [Warpips](games/w/warpips.md) | 4.40 | 20 | 477 |
@@ -890,8 +890,8 @@
 | 887 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 0 | 484 |
 | 889 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 484 |
 | 890 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.81 | 0 | 484 |
-| 891 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,019 | 130 |
-| 891 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 3.78 | 43 | 400 |
+| 891 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 3.79 | 43 | 400 |
+| 892 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,019 | 130 |
 | 893 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 484 |
 | 894 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.76 | 0 | 484 |
 | 894 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 66 | 360 |
