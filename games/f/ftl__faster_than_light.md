@@ -3,13 +3,13 @@ Rating: 4.80 (Ranked 79)
 Number of Ratings: 1,209  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 158  (Ranked 276)  
-Sum: 1,133 (Ranked 219)  
+Sum: 1,134 (Ranked 219)  
 Diff (max vs sum): 57
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Extremely Fun | 158 |
-| This game has Challenging Combat | 140 |
+| This game has Challenging Combat | 141 |
 | This game has Quickly Understood Controls | 130 |
 | This game is Highly Recommended | 129 |
 | This game has Amazing Storytelling | 125 |
@@ -95,3 +95,4 @@ Diff (max vs sum): 57
 | 2023-04-08 | 4.80 | - | 158 |
 | 2023-04-11 | 4.80 | - | 158 |
 | 2023-04-12 | 4.80 | - | 158 |
+| 2023-04-16 | 4.80 | - | 158 |

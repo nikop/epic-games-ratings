@@ -6,11 +6,11 @@
   "Ranking_Popularity": 176,
   "Ranking_PopularitySum": 123,
   "NumberOfRatings": 9223,
-  "NumberOfAwards": 4765,
+  "NumberOfAwards": 4766,
   "NumberOfAwardsMax": 527,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:18:31.0085434+00:00",
-  "LastChanged": "2023-04-16T16:56:56.6887001+00:00",
+  "LastChanged": "2023-04-16T19:57:03.5998598+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:31.0085436+00:00",
@@ -2706,6 +2706,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 4765,
       "NumberOfAwardsMax": 527
+    },
+    {
+      "Time": "2023-04-16T19:57:03.59986+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 4766,
+      "NumberOfAwardsMax": 527
     }
   ],
   "Tags": [
@@ -2737,7 +2743,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 509
+      "Count": 510
     },
     {
       "Text": "This game has Diverse Characters",

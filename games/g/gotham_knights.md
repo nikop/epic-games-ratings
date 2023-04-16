@@ -2,7 +2,7 @@
 Rating: 4.17 (Ranked 817)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 2,127  (Ranked 99)  
-Sum: 3,503 (Ranked 139)  
+Sum: 3,504 (Ranked 139)  
 Diff (max vs sum): -40
 ## Awards
 | Award | Number of Ratings |
@@ -11,8 +11,8 @@ Diff (max vs sum): -40
 | This game is Relaxing | 180 |
 | This game is Extremely Fun | 179 |
 | This game has Quickly Understood Controls | 176 |
+| This game has Amazing Characters | 171 |
 | This game has Diverse Characters | 171 |
-| This game has Amazing Characters | 170 |
 | This game is Highly Recommended | 170 |
 | This game is Great for Beginners | 166 |
 | This game has Amazing Storytelling | 164 |
