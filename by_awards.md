@@ -67,7 +67,7 @@
 | 65 | [Shop Titans](games/s/shop_titans.md) | 4,514 | 3.98 | 870 |
 | 66 | [DEATH STRANDING](games/d/death_stranding.md) | 4,496 | 4.78 | 100 |
 | 67 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,478 | 4.70 | 190 |
-| 68 | [Cities: Skylines](games/c/cities__skylines.md) | 4,277 | 4.65 | 286 |
+| 68 | [Cities: Skylines](games/c/cities__skylines.md) | 4,283 | 4.65 | 286 |
 | 69 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,178 | 4.70 | 190 |
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,068 | 4.70 | 190 |
 | 71 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,047 | 4.51 | 509 |
@@ -128,7 +128,7 @@
 | 126 | [Conan Exiles](games/c/conan_exiles.md) | 1,057 | 4.54 | 470 |
 | 126 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,057 | 4.61 | 352 |
 | 128 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,041 | 4.53 | 485 |
-| 129 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,027 | 4.66 | 271 |
+| 129 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,028 | 4.66 | 271 |
 | 130 | [Saints Row](games/s/saints_row.md) | 1,019 | 3.78 | 891 |
 | 131 | [EVE Online](games/e/eve_online.md) | 1,005 | 4.26 | 768 |
 | 132 | [Ooblets](games/o/ooblets.md) | 995 | 4.87 | 25 |
@@ -289,17 +289,17 @@
 | 287 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 130 | 4.56 | 438 |
 | 288 | [Alien: Isolation ](games/a/alien__isolation.md) | 127 | 4.61 | 352 |
 | 288 | [Atomicrops](games/a/atomicrops.md) | 127 | 4.88 | 20 |
+| 290 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 125 | 3.91 | 883 |
 | 290 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 125 | 4.29 | 753 |
-| 291 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 124 | 4.29 | 753 |
-| 292 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 122 | 4.20 | 796 |
-| 292 | [Encased](games/e/encased.md) | 122 | 4.36 | 696 |
-| 294 | [Star Stable Online](games/s/star_stable_online.md) | 121 | 4.41 | 644 |
-| 295 | [Aven Colony](games/a/aven_colony.md) | 119 | 4.20 | 796 |
-| 296 | [Going Medieval](games/g/going_medieval.md) | 117 | 4.60 | 376 |
-| 297 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 116 | 4.53 | 485 |
-| 297 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 116 | 4.79 | 91 |
-| 297 | [Sonic Origins](games/s/sonic_origins.md) | 116 | 4.57 | 423 |
-| 300 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 115 | 3.91 | 883 |
+| 292 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 124 | 4.29 | 753 |
+| 293 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 122 | 4.20 | 796 |
+| 293 | [Encased](games/e/encased.md) | 122 | 4.36 | 696 |
+| 295 | [Star Stable Online](games/s/star_stable_online.md) | 121 | 4.41 | 644 |
+| 296 | [Aven Colony](games/a/aven_colony.md) | 119 | 4.20 | 796 |
+| 297 | [Going Medieval](games/g/going_medieval.md) | 117 | 4.60 | 376 |
+| 298 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 116 | 4.53 | 485 |
+| 298 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 116 | 4.79 | 91 |
+| 298 | [Sonic Origins](games/s/sonic_origins.md) | 116 | 4.57 | 423 |
 | 301 | [BIOMUTANT](games/b/biomutant.md) | 113 | 4.33 | 721 |
 | 301 | [Timberborn](games/t/timberborn.md) | 113 | 4.72 | 164 |
 | 301 | [Tropico 5](games/t/tropico_5.md) | 113 | 4.45 | 594 |

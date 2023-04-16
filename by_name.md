@@ -4,7 +4,7 @@
 | [20XX](games/2/20xx.md) | 4.61 | 352 | 36 | 414 |
 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 739 | 0 | 484 |
 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.60 | 376 | 0 | 484 |
-| [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 796 | 122 | 292 |
+| [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 796 | 122 | 293 |
 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 235 | 3,315 | 80 |
 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 140 | 397 | 194 |
 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 60 | 0 | 484 |
@@ -61,7 +61,7 @@
 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 20 | 127 | 288 |
 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 499 | 724 | 150 |
 | [Automachef](games/a/automachef.md) | 4.34 | 714 | 27 | 446 |
-| [Aven Colony](games/a/aven_colony.md) | 4.20 | 796 | 119 | 295 |
+| [Aven Colony](games/a/aven_colony.md) | 4.20 | 796 | 119 | 296 |
 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 438 | 46 | 387 |
 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 462 | 0 | 484 |
 | [Aztez](games/a/aztez.md) | 4.53 | 485 | 0 | 484 |
@@ -127,7 +127,7 @@
 | [Chorus](games/c/chorus.md) | 4.47 | 566 | 32 | 428 |
 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 844 | 0 | 484 |
 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 823 | 0 | 484 |
-| [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 286 | 4,277 | 68 |
+| [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 286 | 4,283 | 68 |
 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 70 | 0 | 484 |
 | [City of Brass](games/c/city_of_brass.md) | 4.22 | 787 | 0 | 484 |
 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.25 | 772 | 21 | 472 |
@@ -147,7 +147,7 @@
 | [Crashlands](games/c/crashlands.md) | 4.66 | 271 | 186 | 258 |
 | [Crayta](games/c/crayta.md) | 4.19 | 808 | 50 | 378 |
 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 764 | 22 | 465 |
-| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.91 | 883 | 115 | 300 |
+| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.91 | 883 | 125 | 290 |
 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 696 | 170 | 267 |
 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 706 | 90 | 329 |
 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 525 | 208 | 250 |
@@ -226,7 +226,7 @@
 | [ELEX II](games/e/elex_ii.md) | 4.28 | 760 | 0 | 484 |
 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 310 | 2,060 | 101 |
 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 111 | 39 | 406 |
-| [Encased](games/e/encased.md) | 4.36 | 696 | 122 | 292 |
+| [Encased](games/e/encased.md) | 4.36 | 696 | 122 | 293 |
 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 37 | 7,458 | 40 |
 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 540 | 0 | 484 |
 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 235 | 5,004 | 60 |
@@ -306,7 +306,7 @@
 | [Godfall](games/g/godfall.md) | 4.06 | 857 | 503 | 178 |
 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 785 | 0 | 484 |
 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 875 | 0 | 484 |
-| [Going Medieval](games/g/going_medieval.md) | 4.60 | 376 | 117 | 296 |
+| [Going Medieval](games/g/going_medieval.md) | 4.60 | 376 | 117 | 297 |
 | [Gone Home](games/g/gone_home.md) | 4.16 | 823 | 0 | 484 |
 | [Good Company](games/g/good_company.md) | 4.42 | 634 | 0 | 484 |
 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 817 | 2,122 | 100 |
@@ -403,7 +403,7 @@
 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 125 | 96 | 317 |
 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 91 | 879 | 141 |
 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 271 | 0 | 484 |
-| [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 485 | 116 | 297 |
+| [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 485 | 116 | 298 |
 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 438 | 69 | 355 |
 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 667 | 0 | 484 |
 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.44 | 612 | 0 | 484 |
@@ -496,7 +496,7 @@
 | [Obduction](games/o/obduction.md) | 4.10 | 844 | 52 | 376 |
 | [Observation](games/o/observation.md) | 4.56 | 438 | 0 | 484 |
 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 557 | 0 | 484 |
-| [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 91 | 116 | 297 |
+| [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 91 | 116 | 298 |
 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 164 | 39 | 406 |
 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 594 | 37 | 411 |
 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 753 | 43 | 400 |
@@ -530,7 +530,7 @@
 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 111 | 1,608 | 109 |
 | [Pathway](games/p/pathway.md) | 4.45 | 594 | 0 | 484 |
 | [Patron](games/p/patron.md) | 3.94 | 878 | 0 | 484 |
-| [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 271 | 1,027 | 129 |
+| [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 271 | 1,028 | 129 |
 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.62 | 334 | 585 | 163 |
 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 462 | 809 | 145 |
 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 334 | 101 | 313 |
@@ -636,7 +636,7 @@
 | [Sifu](games/s/sifu.md) | 4.82 | 60 | 5,920 | 53 |
 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 540 | 0 | 484 |
 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 190 | 112 | 304 |
-| [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 753 | 124 | 291 |
+| [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 753 | 124 | 292 |
 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 55 | 385 | 197 |
 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 79 | 99 | 314 |
 | [Slipways](games/s/slipways.md) | 4.73 | 155 | 0 | 484 |
@@ -652,7 +652,7 @@
 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.70 | 190 | 27 | 446 |
 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 644 | 72 | 349 |
 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 100 | 903 | 140 |
-| [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 423 | 116 | 297 |
+| [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 423 | 116 | 298 |
 | [Souldiers](games/s/souldiers.md) | 4.54 | 470 | 0 | 484 |
 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 37 | 92 | 324 |
 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.81 | 70 | 31 | 434 |
@@ -670,7 +670,7 @@
 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.64 | 310 | 0 | 484 |
 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 235 | 30 | 438 |
 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 659 | 0 | 484 |
-| [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 644 | 121 | 294 |
+| [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 644 | 121 | 295 |
 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 612 | 514 | 177 |
 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.69 | 212 | 0 | 484 |
 | [Starsand](games/s/starsand.md) | 4.21 | 790 | 0 | 484 |

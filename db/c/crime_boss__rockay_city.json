@@ -3,14 +3,14 @@
   "Name": "Crime Boss: Rockay City",
   "Rating": 3.91,
   "Ranking_Rating": 883,
-  "Ranking_Popularity": 300,
-  "Ranking_PopularitySum": 281,
-  "NumberOfAwards": 557,
-  "NumberOfAwardsMax": 115,
-  "MaxAwardTitle": "Diverse Characters",
+  "Ranking_Popularity": 290,
+  "Ranking_PopularitySum": 279,
+  "NumberOfAwards": 569,
+  "NumberOfAwardsMax": 125,
+  "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
-  "LastChanged": "2023-04-15T23:57:14.7651185+00:00",
+  "LastChanged": "2023-04-16T02:57:05.6510836+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-29T02:58:45.3340124+00:00",
@@ -647,6 +647,12 @@
       "Rating": 3.91,
       "NumberOfAwards": 557,
       "NumberOfAwardsMax": 115
+    },
+    {
+      "Time": "2023-04-16T02:57:05.6510838+00:00",
+      "Rating": 3.91,
+      "NumberOfAwards": 569,
+      "NumberOfAwardsMax": 125
     }
   ],
   "Tags": [
@@ -690,7 +696,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 113
+      "Count": 125
     },
     {
       "Text": "This game has a Silly Community",
