@@ -1,16 +1,16 @@
 {
   "ID": "2c42520d342a46d7a6e0cfa77b4715de",
   "Name": "Dying Light Enhanced Edition",
-  "Rating": 4.54,
-  "Ranking_Rating": 470,
+  "Rating": 4.55,
+  "Ranking_Rating": 462,
   "Ranking_Popularity": 20,
-  "Ranking_PopularitySum": 42,
+  "Ranking_PopularitySum": 41,
   "NumberOfRatings": 3181,
-  "NumberOfAwards": 26209,
+  "NumberOfAwards": 26238,
   "NumberOfAwardsMax": 14349,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:18:05.0678131+00:00",
-  "LastChanged": "2023-04-15T23:57:20.3967119+00:00",
+  "LastChanged": "2023-04-16T03:57:08.894501+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:05.0678134+00:00",
@@ -2991,6 +2991,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 26209,
       "NumberOfAwardsMax": 14349
+    },
+    {
+      "Time": "2023-04-16T03:57:08.8945011+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 26238,
+      "NumberOfAwardsMax": 14349
     }
   ],
   "Tags": [
@@ -3040,7 +3046,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 710
+      "Count": 739
     },
     {
       "Text": "This game has Obsessive Gameplay",

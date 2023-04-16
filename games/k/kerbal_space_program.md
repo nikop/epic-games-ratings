@@ -1,13 +1,13 @@
 # Kerbal Space Program
 Rating: 4.79 (Ranked 91)  
 ## Popularity (Based on Awards)
-Max (Educational): 379  (Ranked 198)  
-Sum: 2,589 (Ranked 159)  
+Max (Educational): 384  (Ranked 198)  
+Sum: 2,594 (Ranked 159)  
 Diff (max vs sum): 39
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Educational | 379 |
+| This game is Educational | 384 |
 | This game is Extremely Fun | 356 |
 | This game is Relaxing | 344 |
 | This game is Highly Recommended | 341 |
@@ -43,4 +43,4 @@ Diff (max vs sum): 39
 | 2023-04-13 | 4.79 | - | 374 |
 | 2023-04-14 | 4.79 | - | 374 |
 | 2023-04-15 | 4.79 | - | 379 |
-| 2023-04-16 | 4.79 | - | 379 |
+| 2023-04-16 | 4.79 | - | 384 |
