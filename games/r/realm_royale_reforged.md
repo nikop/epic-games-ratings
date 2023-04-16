@@ -1,5 +1,5 @@
 # Realm Royale Reforged
-Rating: 4.29 (Ranked 753)  
+Rating: 4.29 (Ranked 752)  
 Number of Ratings: 841  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 125  (Ranked 290)  

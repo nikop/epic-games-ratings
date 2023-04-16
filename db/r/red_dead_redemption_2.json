@@ -6,11 +6,11 @@
   "Ranking_Popularity": 7,
   "Ranking_PopularitySum": 8,
   "NumberOfRatings": 102658,
-  "NumberOfAwards": 338554,
-  "NumberOfAwardsMax": 133548,
+  "NumberOfAwards": 339042,
+  "NumberOfAwardsMax": 133859,
   "MaxAwardTitle": "Impact the Story",
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-04-16T13:01:36.1014761+00:00",
+  "LastChanged": "2023-04-16T15:58:04.6281946+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:15.0342453+00:00",
@@ -4452,6 +4452,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 338554,
       "NumberOfAwardsMax": 133548
+    },
+    {
+      "Time": "2023-04-16T15:58:04.6281948+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 339042,
+      "NumberOfAwardsMax": 133859
     }
   ],
   "Tags": [
@@ -4459,13 +4465,13 @@
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 133548
+      "Count": 133859
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 72903
+      "Count": 73080
     },
     {
       "Text": "This game is Extremely Fun",

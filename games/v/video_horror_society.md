@@ -1,5 +1,5 @@
 # Video Horror Society
-Rating: 4.27 (Ranked 764)  
+Rating: 4.27 (Ranked 763)  
 Number of Ratings: 559  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 297  (Ranked 221)  

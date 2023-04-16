@@ -1,9 +1,9 @@
 # Neverwinter
-Rating: 4.29 (Ranked 753)  
+Rating: 4.29 (Ranked 752)  
 Number of Ratings: 1,084  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 669  (Ranked 155)  
-Sum: 2,036 (Ranked 183)  
+Sum: 2,038 (Ranked 183)  
 Diff (max vs sum): -28
 ## Awards
 | Award | Number of Ratings |
@@ -12,7 +12,7 @@ Diff (max vs sum): -28
 | This game is Great for Beginners | 194 |
 | This game has Diverse Characters | 186 |
 | This game is Relaxing | 179 |
-| This game is Extremely Fun | 166 |
+| This game is Extremely Fun | 168 |
 | This game is Highly Recommended | 166 |
 | This game has Amazing Storytelling | 163 |
 | This game has Quickly Understood Controls | 161 |
@@ -111,3 +111,4 @@ Diff (max vs sum): -28
 | 2023-04-13 | 4.29 | - | 669 |
 | 2023-04-14 | 4.29 | - | 669 |
 | 2023-04-15 | 4.29 | - | 669 |
+| 2023-04-16 | 4.29 | - | 669 |

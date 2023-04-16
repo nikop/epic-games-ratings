@@ -2,15 +2,15 @@
   "ID": "9a4a6536096c4307bfb235d811f754ce",
   "Name": "Neverwinter",
   "Rating": 4.29,
-  "Ranking_Rating": 753,
+  "Ranking_Rating": 752,
   "Ranking_Popularity": 155,
   "Ranking_PopularitySum": 183,
   "NumberOfRatings": 1084,
-  "NumberOfAwards": 2036,
+  "NumberOfAwards": 2038,
   "NumberOfAwardsMax": 669,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:17:12.0635613+00:00",
-  "LastChanged": "2023-04-15T22:57:11.1679057+00:00",
+  "LastChanged": "2023-04-16T15:57:13.5842903+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:12.0635618+00:00",
@@ -1424,6 +1424,12 @@
       "Rating": 4.29,
       "NumberOfAwards": 2036,
       "NumberOfAwardsMax": 669
+    },
+    {
+      "Time": "2023-04-16T15:57:13.5842904+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 2038,
+      "NumberOfAwardsMax": 669
     }
   ],
   "Tags": [
@@ -1461,7 +1467,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 166
+      "Count": 168
     },
     {
       "Text": "This game has Amazing Storytelling",
