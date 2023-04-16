@@ -2,14 +2,14 @@
 Rating: 3.91 (Ranked 883)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 125  (Ranked 290)  
-Sum: 569 (Ranked 279)  
-Diff (max vs sum): 11
+Sum: 578 (Ranked 278)  
+Diff (max vs sum): 12
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Highly Recommended | 125 |
+| This game has Amazing Characters | 122 |
 | This game has Diverse Characters | 115 |
-| This game has Amazing Characters | 113 |
 | This game has Quickly Understood Controls | 109 |
 | This game has Challenging Combat | 107 |
 | This game is Great for Quick Sessions | 70 |

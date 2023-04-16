@@ -1,8 +1,8 @@
 {
   "ID": "viola",
   "Name": "Outward",
-  "Rating": 4.54,
-  "Ranking_Rating": 471,
+  "Rating": 4.55,
+  "Ranking_Rating": 462,
   "Ranking_Popularity": 434,
   "Ranking_PopularitySum": 337,
   "NumberOfRatings": 266,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Amazing Characters",
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
-  "LastChanged": "2023-04-13T06:57:44.8394358+00:00",
+  "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:22.1140755+00:00",
@@ -394,6 +394,12 @@
     {
       "Time": "2023-04-13T06:57:44.839436+00:00",
       "Rating": 4.54,
+      "NumberOfAwards": 238,
+      "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2023-04-16T06:57:19.4337931+00:00",
+      "Rating": 4.55,
       "NumberOfAwards": 238,
       "NumberOfAwardsMax": 31
     }

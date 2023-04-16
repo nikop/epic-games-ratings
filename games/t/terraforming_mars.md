@@ -1,5 +1,5 @@
 # Terraforming Mars
-Rating: 4.54 (Ranked 471)  
+Rating: 4.54 (Ranked 472)  
 Number of Ratings: 2,731  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 490  (Ranked 180)  
