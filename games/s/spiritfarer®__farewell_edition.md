@@ -1,5 +1,5 @@
 # Spiritfarer®: Farewell Edition
-Rating: 4.88 (Ranked 20)  
+Rating: 4.88 (Ranked 19)  
 Number of Ratings: 178  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 22  (Ranked 465)  

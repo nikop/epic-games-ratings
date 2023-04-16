@@ -1,8 +1,8 @@
 {
   "ID": "1368a7f14c3344bbaededbae528fafed",
   "Name": "Dead Cells",
-  "Rating": 4.89,
-  "Ranking_Rating": 13,
+  "Rating": 4.88,
+  "Ranking_Rating": 19,
   "Ranking_Popularity": 233,
   "Ranking_PopularitySum": 175,
   "NumberOfRatings": 1319,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 247,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2023-04-15T22:57:13.733084+00:00",
+  "LastChanged": "2023-04-16T04:56:59.077853+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:26.6981295+00:00",
@@ -1504,6 +1504,12 @@
     {
       "Time": "2023-04-15T22:57:13.7330843+00:00",
       "Rating": 4.89,
+      "NumberOfAwards": 2154,
+      "NumberOfAwardsMax": 247
+    },
+    {
+      "Time": "2023-04-16T04:56:59.0778532+00:00",
+      "Rating": 4.88,
       "NumberOfAwards": 2154,
       "NumberOfAwardsMax": 247
     }
