@@ -5,12 +5,12 @@
   "Ranking_Rating": 628,
   "Ranking_Popularity": 465,
   "Ranking_PopularitySum": 373,
-  "NumberOfAwards": 145,
+  "NumberOfAwards": 146,
   "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-12-15T22:58:09.2323476+00:00",
   "FirstSeenRating": "2022-12-26T17:58:45.352902+00:00",
-  "LastChanged": "2023-04-16T09:59:16.601936+00:00",
+  "LastChanged": "2023-04-16T20:59:39.1955324+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-26T17:58:45.3529025+00:00",
@@ -227,6 +227,12 @@
       "Rating": 4.43,
       "NumberOfAwards": 145,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-04-16T20:59:39.1955328+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 146,
+      "NumberOfAwardsMax": 22
     }
   ],
   "Tags": [
@@ -246,7 +252,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game has Amazing Characters",

@@ -2,7 +2,7 @@
 Rating: 4.43 (Ranked 628)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 22  (Ranked 465)  
-Sum: 145 (Ranked 373)  
+Sum: 146 (Ranked 373)  
 Diff (max vs sum): 92
 ## Awards
 | Award | Number of Ratings |
@@ -10,8 +10,8 @@ Diff (max vs sum): 92
 | This game has Great Boss Battles | 27 |
 | This game is Extremely Fun | 22 |
 | This game has Amazing Storytelling | 22 |
+| This game is Relaxing | 21 |
 | This game has Diverse Characters | 21 |
-| This game is Relaxing | 20 |
 | This game has Amazing Characters | 20 |
 | This game is Great for Beginners | 20 |
 | This game is Highly Recommended | 20 |
