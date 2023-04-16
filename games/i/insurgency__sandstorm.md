@@ -1,14 +1,14 @@
 # Insurgency: Sandstorm
-Rating: 4.62 (Ranked 333)  
+Rating: 4.61 (Ranked 350)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Quickly Understood Controls): 342  (Ranked 206)  
-Sum: 2,563 (Ranked 160)  
+Max (Quickly Understood Controls): 343  (Ranked 206)  
+Sum: 2,564 (Ranked 160)  
 Diff (max vs sum): 46
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Quickly Understood Controls | 342 |
+| This game has Quickly Understood Controls | 343 |
 | This game has Challenging Combat | 307 |
 | This game is Extremely Fun | 307 |
 | This game has Competitive Players | 302 |
@@ -120,3 +120,4 @@ Diff (max vs sum): 46
 | 2023-04-13 | 4.62 | - | 341 |
 | 2023-04-14 | 4.62 | - | 341 |
 | 2023-04-15 | 4.62 | - | 342 |
+| 2023-04-16 | 4.61 | - | 343 |

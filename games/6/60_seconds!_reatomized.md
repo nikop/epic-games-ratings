@@ -1,5 +1,5 @@
 # 60 Seconds! Reatomized
-Rating: 4.60 (Ranked 375)  
+Rating: 4.58 (Ranked 404)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  
@@ -20,3 +20,4 @@ Diff (max vs sum): 0
 | 2023-04-09 | 4.61 | - | 0 |
 | 2023-04-11 | 4.62 | - | 0 |
 | 2023-04-12 | 4.60 | - | 0 |
+| 2023-04-16 | 4.58 | - | 0 |

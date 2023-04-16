@@ -1,5 +1,5 @@
 # Poly Bridge 2
-Rating: 4.54 (Ranked 471)  
+Rating: 4.55 (Ranked 460)  
 Number of Ratings: 54  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Challenging Puzzles): 32  (Ranked 428)  
@@ -64,3 +64,4 @@ Diff (max vs sum): -19
 | 2023-03-03 | 4.52 | - | - |
 | 2023-03-08 | 4.53 | - | - |
 | 2023-03-20 | 4.54 | - | - |
+| 2023-04-16 | 4.55 | - | 32 |
