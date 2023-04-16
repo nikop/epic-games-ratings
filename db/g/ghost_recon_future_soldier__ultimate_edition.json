@@ -3,15 +3,15 @@
   "Name": "Ghost Recon Future Soldier: Ultimate Edition",
   "Rating": 4.57,
   "Ranking_Rating": 423,
-  "Ranking_Popularity": 459,
-  "Ranking_PopularitySum": 463,
+  "Ranking_Popularity": 457,
+  "Ranking_PopularitySum": 462,
   "NumberOfRatings": 23,
-  "NumberOfAwards": 24,
-  "NumberOfAwardsMax": 24,
+  "NumberOfAwards": 25,
+  "NumberOfAwardsMax": 25,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:29:47.3812032+00:00",
   "FirstSeenRating": "2022-09-10T00:02:01.006784+00:00",
-  "LastChanged": "2023-04-12T14:58:38.2749049+00:00",
+  "LastChanged": "2023-04-16T05:58:33.2195005+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-10T00:02:01.0067842+00:00",
@@ -178,6 +178,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 24,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2023-04-16T05:58:33.2195006+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 25,
+      "NumberOfAwardsMax": 25
     }
   ],
   "Tags": [
@@ -185,7 +191,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 24
+      "Count": 25
     }
   ]
 }

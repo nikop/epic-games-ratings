@@ -107,7 +107,7 @@
 | 105 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,870 | 74 |
 | 105 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.77 | 0 | 484 |
 | 105 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 96 | 317 |
-| 105 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 312 | 213 |
+| 105 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 313 | 213 |
 | 105 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 484 |
 | 105 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 27 | 446 |
 | 111 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 0 | 484 |
@@ -280,7 +280,7 @@
 | 271 | [Returnal™](games/r/returnal™.md) | 4.66 | 20 | 477 |
 | 271 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 50 | 378 |
 | 271 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 545 | 171 |
-| 271 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 24 | 459 |
+| 271 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 24 | 460 |
 | 271 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 397 | 194 |
 | 271 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,736 | 56 |
 | 271 | [Tropico 6](games/t/tropico_6.md) | 4.66 | 91 | 327 |
@@ -427,7 +427,7 @@
 | 423 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 148 | 278 |
 | 423 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 6,380 | 48 |
 | 423 | [Everything](games/e/everything.md) | 4.57 | 0 | 484 |
-| 423 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 24 | 459 |
+| 423 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 25 | 457 |
 | 423 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.57 | 0 | 484 |
 | 423 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 35 | 418 |
 | 423 | [Hob](games/h/hob.md) | 4.57 | 0 | 484 |
@@ -550,7 +550,7 @@
 | 540 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 210 | 247 |
 | 540 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 2,146 | 98 |
 | 540 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 484 |
-| 540 | [Maneater](games/m/maneater.md) | 4.49 | 13,384 | 24 |
+| 540 | [Maneater](games/m/maneater.md) | 4.49 | 13,387 | 24 |
 | 540 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 606 | 161 |
 | 540 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 484 |
 | 540 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.49 | 0 | 484 |
@@ -647,7 +647,7 @@
 | 644 | [ELEX](games/e/elex.md) | 4.41 | 23 | 461 |
 | 644 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 171 | 266 |
 | 644 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 92 | 324 |
-| 644 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 11,777 | 28 |
+| 644 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 11,780 | 28 |
 | 644 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 0 | 484 |
 | 644 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 0 | 484 |
 | 644 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.41 | 0 | 484 |
@@ -778,7 +778,7 @@
 | 775 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 434 |
 | 775 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 7,530 | 40 |
 | 775 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 0 | 484 |
-| 775 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 312 | 213 |
+| 775 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 312 | 214 |
 | 775 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 0 | 484 |
 | 775 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.24 | 0 | 484 |
 | 775 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 391 |
@@ -793,20 +793,20 @@
 | 790 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 173 | 265 |
 | 790 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 12,503 | 26 |
 | 790 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 0 | 484 |
-| 790 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.21 | 0 | 484 |
 | 790 | [Starsand](games/s/starsand.md) | 4.21 | 0 | 484 |
-| 796 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 122 | 294 |
-| 796 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 119 | 296 |
-| 796 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 484 |
-| 796 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.20 | 0 | 484 |
-| 796 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 33 | 425 |
-| 796 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 465 |
-| 796 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 0 | 484 |
-| 796 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 72 | 349 |
-| 796 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.20 | 26 | 452 |
-| 796 | [Somerville](games/s/somerville.md) | 4.20 | 0 | 484 |
-| 796 | [The Bridge](games/t/the_bridge.md) | 4.20 | 0 | 484 |
-| 796 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 77 | 340 |
+| 795 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 122 | 294 |
+| 795 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 119 | 296 |
+| 795 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 484 |
+| 795 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.20 | 0 | 484 |
+| 795 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 33 | 425 |
+| 795 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 465 |
+| 795 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 0 | 484 |
+| 795 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 72 | 349 |
+| 795 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.20 | 0 | 484 |
+| 795 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.20 | 26 | 452 |
+| 795 | [Somerville](games/s/somerville.md) | 4.20 | 0 | 484 |
+| 795 | [The Bridge](games/t/the_bridge.md) | 4.20 | 0 | 484 |
+| 795 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 77 | 340 |
 | 808 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 378 |
 | 808 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 0 | 484 |
 | 808 | [Flatout](games/f/flatout.md) | 4.19 | 0 | 484 |
