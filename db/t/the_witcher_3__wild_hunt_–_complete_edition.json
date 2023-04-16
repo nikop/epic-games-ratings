@@ -3,14 +3,14 @@
   "Name": "The Witcher 3: Wild Hunt \u2013 Complete Edition",
   "Rating": 4.89,
   "Ranking_Rating": 13,
-  "Ranking_Popularity": 19,
+  "Ranking_Popularity": 20,
   "Ranking_PopularitySum": 30,
   "NumberOfRatings": 14665,
-  "NumberOfAwards": 34970,
+  "NumberOfAwards": 34975,
   "NumberOfAwardsMax": 14469,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:24:37.9019948+00:00",
-  "LastChanged": "2023-04-16T10:58:06.9728259+00:00",
+  "LastChanged": "2023-04-16T11:57:50.4482432+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:37.9019951+00:00",
@@ -3827,6 +3827,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 34970,
       "NumberOfAwardsMax": 14469
+    },
+    {
+      "Time": "2023-04-16T11:57:50.4482435+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 34975,
+      "NumberOfAwardsMax": 14469
     }
   ],
   "Tags": [
@@ -3840,7 +3846,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 2177
+      "Count": 2182
     },
     {
       "Text": "This game has Obsessive Gameplay",

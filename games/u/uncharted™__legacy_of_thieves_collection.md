@@ -1,5 +1,5 @@
 # UNCHARTED™: Legacy of Thieves Collection
-Rating: 4.74 (Ranked 140)  
+Rating: 4.74 (Ranked 141)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 575  (Ranked 164)  
 Sum: 843 (Ranked 237)  
