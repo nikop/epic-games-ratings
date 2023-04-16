@@ -3,7 +3,7 @@ Rating: 4.58 (Ranked 405)
 Number of Ratings: 371  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 201  (Ranked 252)  
-Sum: 407 (Ranked 293)  
+Sum: 408 (Ranked 293)  
 Diff (max vs sum): -41
 ## Awards
 | Award | Number of Ratings |
@@ -16,7 +16,7 @@ Diff (max vs sum): -41
 | This game has Competitive Players | 25 |
 | This game has Challenging Combat | 25 |
 | This game has Diverse Characters | 23 |
-| This game is Relaxing | 21 |
+| This game is Relaxing | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -84,3 +84,4 @@ Diff (max vs sum): -41
 | 2023-04-06 | 4.58 | - | 200 |
 | 2023-04-12 | 4.58 | - | 201 |
 | 2023-04-15 | 4.58 | - | 201 |
+| 2023-04-16 | 4.58 | - | 201 |

@@ -1,5 +1,5 @@
 # Scorn
-Rating: 4.47 (Ranked 566)  
+Rating: 4.47 (Ranked 567)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  
