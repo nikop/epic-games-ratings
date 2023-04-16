@@ -1,6 +1,18 @@
 {
   "ID": "af4ad21f0f9749d9ba0202073fc1566f",
   "Name": "Dream magic will",
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-16T17:59:00.8909623+00:00",
+  "FirstSeenRating": "2023-04-16T17:59:00.8909668+00:00",
+  "LastChanged": "2023-04-16T17:59:00.8909668+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-16T17:59:00.890967+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

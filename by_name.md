@@ -54,7 +54,7 @@
 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 567 | 0 | 484 |
 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 557 | 0 | 484 |
 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 375 | 11,362 | 30 |
-| [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 125 | 4,674 | 64 |
+| [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 125 | 4,684 | 64 |
 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 634 | 0 | 484 |
 | [ATOM RPG](games/a/atom_rpg.md) | 4.45 | 594 | 46 | 387 |
 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.48 | 557 | 20 | 477 |
@@ -65,7 +65,7 @@
 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 436 | 46 | 387 |
 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 460 | 0 | 484 |
 | [Aztez](games/a/aztez.md) | 4.53 | 484 | 0 | 484 |
-| [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 580 | 3,203 | 82 |
+| [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 580 | 3,208 | 82 |
 | [Backbone](games/b/backbone.md) | 4.33 | 722 | 0 | 484 |
 | [Bad North](games/b/bad_north.md) | 4.68 | 235 | 0 | 484 |
 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 679 | 0 | 484 |
@@ -123,7 +123,7 @@
 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.74 | 141 | 0 | 484 |
 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 55 | 0 | 484 |
 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 883 | 0 | 484 |
-| [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 351 | 3,959 | 72 |
+| [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 351 | 3,962 | 72 |
 | [Chorus](games/c/chorus.md) | 4.47 | 567 | 32 | 428 |
 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 844 | 0 | 484 |
 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 823 | 0 | 484 |
@@ -242,7 +242,7 @@
 | [Faeria](games/f/faeria.md) | 4.45 | 594 | 103 | 311 |
 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 484 | 137,536 | 6 |
 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 112 | 60 | 370 |
-| [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 375 | 13,150 | 25 |
+| [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 375 | 13,154 | 25 |
 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 524 | 65 | 364 |
 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 310 | 55 | 375 |
 | [Family Man](games/f/family_man.md) | 4.16 | 823 | 0 | 484 |
@@ -251,7 +251,7 @@
 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 774 | 0 | 484 |
 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 351 | 0 | 484 |
 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 271 | 487 | 181 |
-| [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 333 | 1,160 | 122 |
+| [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 333 | 1,164 | 122 |
 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 613 | 661 | 156 |
 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 644 | 171 | 266 |
 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 190 | 300 | 219 |
@@ -760,7 +760,7 @@
 | [The Pathless](games/t/the_pathless.md) | 4.68 | 235 | 0 | 484 |
 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 190 | 0 | 484 |
 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 125 | 37 | 411 |
-| [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.72 | 898 | 41 | 402 |
+| [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.72 | 898 | 41 | 403 |
 | [The Silent Age](games/t/the_silent_age.md) | 4.35 | 706 | 0 | 484 |
 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.59 | 389 | 89 | 330 |
 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 771 | 0 | 484 |
@@ -769,7 +769,7 @@
 | [The Surge](games/t/the_surge.md) | 4.46 | 580 | 26 | 452 |
 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 774 | 0 | 484 |
 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 164 | 0 | 484 |
-| [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 125 | 41 | 402 |
+| [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 125 | 41 | 403 |
 | [The Tenants](games/t/the_tenants.md) | 4.53 | 484 | 0 | 484 |
 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.65 | 286 | 0 | 484 |
 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.88 | 887 | 0 | 484 |
@@ -846,7 +846,7 @@
 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 271 | 457 | 184 |
 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 60 | 0 | 484 |
 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.83 | 55 | 0 | 484 |
-| [VALORANT](games/v/valorant.md) | 4.54 | 471 | 48,803 | 11 |
+| [VALORANT](games/v/valorant.md) | 4.54 | 471 | 48,927 | 11 |
 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 795 | 77 | 341 |
 | [Vampyr](games/v/vampyr.md) | 4.32 | 731 | 545 | 171 |
 | [Verdun](games/v/verdun.md) | 4.53 | 484 | 93 | 324 |
@@ -858,7 +858,7 @@
 | [Warframe](games/w/warframe.md) | 4.61 | 351 | 14,085 | 22 |
 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 213 | 848 | 142 |
 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 405 | 201 | 252 |
-| [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.30 | 742 | 41 | 402 |
+| [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.30 | 742 | 42 | 402 |
 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 628 | 275 | 225 |
 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.59 | 389 | 0 | 484 |
 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 829 | 0 | 484 |
@@ -885,7 +885,7 @@
 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 613 | 59 | 371 |
 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 213 | 0 | 484 |
 | [World of Warships](games/w/world_of_warships.md) | 4.44 | 613 | 987 | 133 |
-| [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 436 | 3,701 | 76 |
+| [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 436 | 3,712 | 76 |
 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 557 | 36 | 414 |
 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 375 | 0 | 484 |
 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 471 | 28 | 445 |
