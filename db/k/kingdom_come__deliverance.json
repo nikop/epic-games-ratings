@@ -2,15 +2,15 @@
   "ID": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "Name": "Kingdom Come: Deliverance",
   "Rating": 4.71,
-  "Ranking_Rating": 176,
+  "Ranking_Rating": 177,
   "Ranking_Popularity": 43,
   "Ranking_PopularitySum": 39,
   "NumberOfRatings": 9133,
-  "NumberOfAwards": 26502,
+  "NumberOfAwards": 26503,
   "NumberOfAwardsMax": 7086,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
-  "LastChanged": "2023-04-16T04:56:58.5299405+00:00",
+  "LastChanged": "2023-04-16T08:56:56.0095072+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:24.2310156+00:00",
@@ -3728,6 +3728,12 @@
       "Rating": 4.71,
       "NumberOfAwards": 26502,
       "NumberOfAwardsMax": 7086
+    },
+    {
+      "Time": "2023-04-16T08:56:56.0095075+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26503,
+      "NumberOfAwardsMax": 7086
     }
   ],
   "Tags": [
@@ -3741,7 +3747,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5230
+      "Count": 5231
     },
     {
       "Text": "This game is Highly Recommended",

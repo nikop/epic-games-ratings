@@ -3,14 +3,14 @@
   "Name": "Into the Breach",
   "Rating": 4.84,
   "Ranking_Rating": 48,
-  "Ranking_Popularity": 190,
+  "Ranking_Popularity": 191,
   "Ranking_PopularitySum": 133,
   "NumberOfRatings": 4082,
-  "NumberOfAwards": 3839,
+  "NumberOfAwards": 3840,
   "NumberOfAwardsMax": 405,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00",
-  "LastChanged": "2023-04-15T05:57:57.5872856+00:00",
+  "LastChanged": "2023-04-16T08:57:45.0049732+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:50.8479512+00:00",
@@ -2543,6 +2543,12 @@
       "Rating": 4.84,
       "NumberOfAwards": 3839,
       "NumberOfAwardsMax": 405
+    },
+    {
+      "Time": "2023-04-16T08:57:45.0049733+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3840,
+      "NumberOfAwardsMax": 405
     }
   ],
   "Tags": [
@@ -2610,7 +2616,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 336
+      "Count": 337
     },
     {
       "Text": "This game has Unique Visuals",
