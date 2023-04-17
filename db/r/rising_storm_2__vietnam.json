@@ -3,14 +3,14 @@
   "Name": "Rising Storm 2: Vietnam",
   "Rating": 4.5,
   "Ranking_Rating": 524,
-  "Ranking_Popularity": 160,
+  "Ranking_Popularity": 159,
   "Ranking_PopularitySum": 112,
   "NumberOfRatings": 2871,
-  "NumberOfAwards": 5866,
-  "NumberOfAwardsMax": 635,
+  "NumberOfAwards": 5867,
+  "NumberOfAwardsMax": 636,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
-  "LastChanged": "2023-04-16T22:57:23.4591462+00:00",
+  "LastChanged": "2023-04-17T13:06:56.9959794+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:01.9832027+00:00",
@@ -2291,6 +2291,12 @@
       "Rating": 4.5,
       "NumberOfAwards": 5866,
       "NumberOfAwardsMax": 635
+    },
+    {
+      "Time": "2023-04-17T13:06:56.9959795+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 5867,
+      "NumberOfAwardsMax": 636
     }
   ],
   "Tags": [
@@ -2310,7 +2316,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 635
+      "Count": 636
     },
     {
       "Text": "This game has Competitive Players",

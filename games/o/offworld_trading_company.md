@@ -1,5 +1,5 @@
 # Offworld Trading Company
-Rating: 4.29 (Ranked 753)  
+Rating: 4.28 (Ranked 759)  
 Number of Ratings: 432  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 43  (Ranked 401)  
@@ -95,3 +95,4 @@ Diff (max vs sum): 68
 | 2023-01-21 | 4.30 | - | - |
 | 2023-02-10 | 4.29 | - | - |
 | 2023-04-06 | 4.29 | - | 43 |
+| 2023-04-17 | 4.28 | - | 43 |

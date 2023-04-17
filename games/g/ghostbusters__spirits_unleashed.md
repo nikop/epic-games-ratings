@@ -1,9 +1,9 @@
 # Ghostbusters: Spirits Unleashed
 Rating: 4.49 (Ranked 541)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 210  (Ranked 247)  
+Max (Great for Beginners): 210  (Ranked 248)  
 Sum: 1,910 (Ranked 186)  
-Diff (max vs sum): 61
+Diff (max vs sum): 62
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
