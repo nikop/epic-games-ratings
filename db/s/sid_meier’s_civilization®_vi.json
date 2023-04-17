@@ -6,11 +6,11 @@
   "Ranking_Popularity": 13,
   "Ranking_PopularitySum": 11,
   "NumberOfRatings": 57866,
-  "NumberOfAwards": 244137,
+  "NumberOfAwards": 244226,
   "NumberOfAwardsMax": 29449,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
-  "LastChanged": "2023-04-17T17:57:03.852864+00:00",
+  "LastChanged": "2023-04-17T18:57:09.3270583+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:50.1564233+00:00",
@@ -4338,6 +4338,12 @@
       "Rating": 4.74,
       "NumberOfAwards": 244137,
       "NumberOfAwardsMax": 29449
+    },
+    {
+      "Time": "2023-04-17T18:57:09.3270584+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 244226,
+      "NumberOfAwardsMax": 29449
     }
   ],
   "Tags": [
@@ -4357,7 +4363,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 27054
+      "Count": 27106
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4387,7 +4393,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 24217
+      "Count": 24254
     },
     {
       "Text": "This game has Amazing Characters",

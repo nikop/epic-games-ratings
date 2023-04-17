@@ -6,11 +6,11 @@
   "Ranking_Popularity": 133,
   "Ranking_PopularitySum": 82,
   "NumberOfRatings": 4733,
-  "NumberOfAwards": 8730,
+  "NumberOfAwards": 8731,
   "NumberOfAwardsMax": 992,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
-  "LastChanged": "2023-04-17T13:57:05.1825595+00:00",
+  "LastChanged": "2023-04-17T18:57:04.5755618+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:02.7521929+00:00",
@@ -3350,6 +3350,12 @@
       "Rating": 4.44,
       "NumberOfAwards": 8730,
       "NumberOfAwardsMax": 992
+    },
+    {
+      "Time": "2023-04-17T18:57:04.5755619+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 8731,
+      "NumberOfAwardsMax": 992
     }
   ],
   "Tags": [
@@ -3363,7 +3369,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 930
+      "Count": 931
     },
     {
       "Text": "This game is Highly Recommended",

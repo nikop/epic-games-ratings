@@ -3,14 +3,14 @@
   "Name": "Skul: The Hero Slayer",
   "Rating": 4.71,
   "Ranking_Rating": 177,
-  "Ranking_Popularity": 304,
-  "Ranking_PopularitySum": 238,
+  "Ranking_Popularity": 307,
+  "Ranking_PopularitySum": 250,
   "NumberOfRatings": 546,
-  "NumberOfAwards": 840,
-  "NumberOfAwardsMax": 112,
-  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwards": 728,
+  "NumberOfAwardsMax": 108,
+  "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
-  "LastChanged": "2023-04-17T02:59:02.3333547+00:00",
+  "LastChanged": "2023-04-17T18:58:22.7720553+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:36.7483718+00:00",
@@ -552,6 +552,12 @@
       "Rating": 4.71,
       "NumberOfAwards": 840,
       "NumberOfAwardsMax": 112
+    },
+    {
+      "Time": "2023-04-17T18:58:22.7720555+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 728,
+      "NumberOfAwardsMax": 108
     }
   ],
   "Tags": [
