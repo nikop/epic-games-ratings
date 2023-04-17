@@ -1,5 +1,5 @@
 # Deep Sky Derelicts
-Rating: 4.39 (Ranked 670)  
+Rating: 4.38 (Ranked 681)  
 Number of Ratings: 37  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
@@ -32,3 +32,4 @@ Diff (max vs sum): 0
 | 2023-02-24 | 4.37 | - | - |
 | 2023-03-31 | 4.37 | - | 0 |
 | 2023-04-10 | 4.39 | - | 0 |
+| 2023-04-17 | 4.38 | - | 0 |
