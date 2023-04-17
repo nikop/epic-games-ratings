@@ -86,7 +86,7 @@
 | 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,130 | 4.59 | 389 |
 | 85 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 2,997 | 4.57 | 422 |
 | 86 | [Hades](games/h/hades.md) | 2,994 | 4.92 | 4 |
-| 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 2,944 | 4.68 | 235 |
+| 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 2,949 | 4.68 | 235 |
 | 88 | [Path of Exile](games/p/path_of_exile.md) | 2,419 | 4.61 | 350 |
 | 88 | [Rage 2](games/r/rage_2.md) | 2,419 | 4.28 | 759 |
 | 90 | [Trackmania](games/t/trackmania.md) | 2,394 | 4.67 | 256 |
