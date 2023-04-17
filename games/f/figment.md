@@ -1,5 +1,5 @@
 # Figment
-Rating: 4.46 (Ranked 581)  
+Rating: 4.46 (Ranked 582)  
 Number of Ratings: 109  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 20  (Ranked 477)  

@@ -1,5 +1,5 @@
 # Crying Suns
-Rating: 4.50 (Ranked 524)  
+Rating: 4.50 (Ranked 525)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 208  (Ranked 250)  

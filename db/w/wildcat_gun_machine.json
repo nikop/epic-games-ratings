@@ -1,15 +1,15 @@
 {
   "ID": "13cba1b288ec417badb9a276cbb6d819",
   "Name": "Wildcat Gun Machine",
-  "Rating": 3.88,
-  "Ranking_Rating": 888,
+  "Rating": 3.87,
+  "Ranking_Rating": 889,
   "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 484,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:28:10.3966316+00:00",
   "FirstSeenRating": "2022-12-09T16:58:13.2278182+00:00",
-  "LastChanged": "2023-04-06T21:58:07.2262926+00:00",
+  "LastChanged": "2023-04-17T21:57:48.8909417+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-09T16:58:13.227819+00:00",
@@ -178,6 +178,12 @@
     {
       "Time": "2023-04-06T21:58:07.2262927+00:00",
       "Rating": 3.88,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-17T21:57:48.8909419+00:00",
+      "Rating": 3.87,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

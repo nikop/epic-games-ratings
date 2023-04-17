@@ -1,5 +1,5 @@
 # Hotel Renovator
-Rating: 4.46 (Ranked 581)  
+Rating: 4.48 (Ranked 558)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  
@@ -16,3 +16,4 @@ Diff (max vs sum): 0
 | 2023-04-09 | 4.41 | - | 0 |
 | 2023-04-11 | 4.43 | - | 0 |
 | 2023-04-14 | 4.46 | - | 0 |
+| 2023-04-17 | 4.48 | - | 0 |

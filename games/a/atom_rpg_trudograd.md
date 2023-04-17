@@ -1,5 +1,5 @@
 # ATOM RPG Trudograd
-Rating: 4.48 (Ranked 557)  
+Rating: 4.49 (Ranked 541)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 20  (Ranked 477)  
 Sum: 20 (Ranked 477)  
@@ -37,3 +37,4 @@ Diff (max vs sum): 0
 | 2023-03-31 | 4.47 | - | 0 |
 | 2023-04-05 | 4.47 | - | 20 |
 | 2023-04-13 | 4.48 | - | 20 |
+| 2023-04-17 | 4.49 | - | 20 |
