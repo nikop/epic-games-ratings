@@ -43,19 +43,19 @@
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,461 | 4.85 | 37 |
 | 42 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,119 | 4.57 | 422 |
 | 43 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,087 | 4.71 | 177 |
-| 44 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,703 | 4.89 | 13 |
+| 44 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,713 | 4.89 | 13 |
 | 45 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 634 |
 | 46 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 6,452 | 4.67 | 256 |
 | 47 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,433 | 4.46 | 580 |
 | 48 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 6,396 | 4.57 | 422 |
 | 49 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,387 | 4.74 | 141 |
 | 50 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,221 | 4.80 | 79 |
-| 51 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,104 | 4.71 | 177 |
+| 51 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,116 | 4.71 | 177 |
 | 52 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 5,975 | 4.58 | 404 |
 | 53 | [Sifu](games/s/sifu.md) | 5,933 | 4.82 | 60 |
 | 54 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,876 | 4.64 | 310 |
 | 55 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,795 | 4.79 | 91 |
-| 56 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,736 | 4.66 | 270 |
+| 56 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,737 | 4.66 | 270 |
 | 57 | [Prey](games/p/prey.md) | 5,502 | 4.62 | 333 |
 | 58 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,442 | 4.85 | 37 |
 | 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,417 | 4.82 | 60 |
@@ -104,7 +104,7 @@
 | 102 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,967 | 4.49 | 539 |
 | 103 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,860 | 4.65 | 285 |
 | 104 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,805 | 4.70 | 191 |
-| 105 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,783 | 4.90 | 8 |
+| 105 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,785 | 4.90 | 8 |
 | 106 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,762 | 4.56 | 437 |
 | 107 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,725 | 4.63 | 325 |
 | 108 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,682 | 4.57 | 422 |
@@ -192,9 +192,9 @@
 | 190 | [Riders Republic](games/r/riders_republic.md) | 409 | 4.75 | 125 |
 | 191 | [Into the Breach](games/i/into_the_breach.md) | 405 | 4.84 | 48 |
 | 192 | [Prison Architect](games/p/prison_architect.md) | 401 | 4.61 | 349 |
+| 193 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 398 | 4.74 | 141 |
 | 193 | [RimWorld](games/r/rimworld.md) | 398 | 4.89 | 13 |
-| 194 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 397 | 4.74 | 141 |
-| 194 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 397 | 4.66 | 270 |
+| 195 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 397 | 4.66 | 270 |
 | 196 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 391 | 4.49 | 539 |
 | 197 | [Slime Rancher](games/s/slime_rancher.md) | 385 | 4.83 | 54 |
 | 198 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 384 | 4.79 | 91 |
@@ -221,7 +221,7 @@
 | 219 | [Dishonored 2](games/d/dishonored_2.md) | 302 | 4.80 | 79 |
 | 220 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 300 | 4.70 | 191 |
 | 221 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.27 | 763 |
-| 222 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 285 | 4.85 | 37 |
+| 222 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 292 | 4.85 | 37 |
 | 223 | [House Flipper](games/h/house_flipper.md) | 278 | 4.70 | 191 |
 | 224 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 276 | 4.46 | 580 |
 | 225 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 275 | 4.43 | 628 |

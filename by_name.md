@@ -6,7 +6,7 @@
 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.58 | 404 | 0 | 484 |
 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 796 | 122 | 294 |
 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 235 | 3,315 | 80 |
-| [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 141 | 397 | 194 |
+| [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 141 | 398 | 193 |
 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 60 | 0 | 484 |
 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 508 | 1,542 | 110 |
 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 634 | 0 | 484 |
@@ -180,7 +180,7 @@
 | [Dead Space](games/d/dead_space.md) | 4.75 | 125 | 34 | 421 |
 | [Death Coming](games/d/death_coming.md) | 4.42 | 634 | 0 | 484 |
 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 100 | 4,516 | 66 |
-| [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 13 | 6,703 | 44 |
+| [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 13 | 6,713 | 44 |
 | [Death's Door](games/d/death's_door.md) | 4.66 | 270 | 0 | 484 |
 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 472 | 33 | 426 |
 | [Deceive Inc.](games/d/deceive_inc..md) | 4.64 | 310 | 0 | 484 |
@@ -259,7 +259,7 @@
 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 213 | 0 | 484 |
 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 177 | 0 | 484 |
 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.20 | 796 | 0 | 484 |
-| [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 177 | 6,104 | 51 |
+| [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 177 | 6,116 | 51 |
 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 191 | 4,079 | 70 |
 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 883 | 103 | 311 |
 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 437 | 27 | 446 |
@@ -300,7 +300,7 @@
 | [GigaBash](games/g/gigabash.md) | 4.65 | 285 | 0 | 484 |
 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 567 | 3,426 | 79 |
 | [GNOG](games/g/gnog.md) | 4.69 | 213 | 0 | 484 |
-| [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 37 | 285 | 222 |
+| [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 37 | 292 | 222 |
 | [God of War](games/g/god_of_war.md) | 4.89 | 13 | 3,935 | 73 |
 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 817 | 26 | 452 |
 | [Godfall](games/g/godfall.md) | 4.06 | 857 | 503 | 178 |
@@ -719,13 +719,13 @@
 | [Tharsis](games/t/tharsis.md) | 4.05 | 859 | 0 | 484 |
 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 191 | 44 | 397 |
 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.64 | 310 | 0 | 484 |
-| [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 8 | 1,783 | 105 |
+| [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 8 | 1,785 | 105 |
 | [The Bridge](games/t/the_bridge.md) | 4.20 | 796 | 0 | 484 |
 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 613 | 0 | 484 |
 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 814 | 44 | 397 |
 | [The Captain](games/t/the_captain.md) | 4.44 | 613 | 97 | 317 |
 | [The Colonists](games/t/the_colonists.md) | 4.59 | 388 | 0 | 484 |
-| [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 270 | 397 | 194 |
+| [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 270 | 397 | 195 |
 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.69 | 213 | 0 | 484 |
 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 844 | 2,186 | 96 |
 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 580 | 6,433 | 47 |
@@ -800,7 +800,7 @@
 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.34 | 715 | 0 | 484 |
 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 404 | 247 | 234 |
 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 497 | 141 | 281 |
-| [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 270 | 5,736 | 56 |
+| [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 270 | 5,737 | 56 |
 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 54 | 80 | 339 |
 | [Torchlight](games/t/torchlight.md) | 4.32 | 731 | 20 | 477 |
 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 404 | 961 | 138 |

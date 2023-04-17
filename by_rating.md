@@ -10,9 +10,9 @@
 | 8 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 0 | 484 |
 | 8 | [Mago](games/m/mago.md) | 4.90 | 0 | 484 |
 | 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 484 |
-| 8 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,783 | 105 |
+| 8 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,785 | 105 |
 | 8 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 484 |
-| 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,703 | 44 |
+| 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,713 | 44 |
 | 13 | [Firework](games/f/firework.md) | 4.89 | 0 | 484 |
 | 13 | [God of War](games/g/god_of_war.md) | 4.89 | 3,935 | 73 |
 | 13 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 133,859 | 7 |
@@ -39,7 +39,7 @@
 | 37 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 37 | 411 |
 | 37 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,461 | 41 |
 | 37 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,442 | 58 |
-| 37 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 285 | 222 |
+| 37 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 292 | 222 |
 | 37 | [Huntdown](games/h/huntdown.md) | 4.85 | 0 | 484 |
 | 37 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 223 | 242 |
 | 37 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 215 | 244 |
@@ -140,7 +140,7 @@
 | 125 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 0 | 484 |
 | 125 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 484 |
 | 125 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 0 | 484 |
-| 141 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 397 | 194 |
+| 141 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 398 | 193 |
 | 141 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 484 |
 | 141 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.74 | 0 | 484 |
 | 141 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 482 | 182 |
@@ -178,7 +178,7 @@
 | 164 | [Timberborn](games/t/timberborn.md) | 4.72 | 113 | 301 |
 | 177 | [Barony](games/b/barony.md) | 4.71 | 69 | 355 |
 | 177 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 484 |
-| 177 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,104 | 51 |
+| 177 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,116 | 51 |
 | 177 | [Fez](games/f/fez.md) | 4.71 | 23 | 461 |
 | 177 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 419 |
 | 177 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 0 | 484 |
@@ -280,8 +280,8 @@
 | 270 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 50 | 378 |
 | 270 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 545 | 171 |
 | 270 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 24 | 460 |
-| 270 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 397 | 194 |
-| 270 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,736 | 56 |
+| 270 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 397 | 195 |
+| 270 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,737 | 56 |
 | 270 | [Tropico 6](games/t/tropico_6.md) | 4.66 | 102 | 313 |
 | 270 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 457 | 184 |
 | 285 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 484 |
