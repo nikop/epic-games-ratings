@@ -1,5 +1,5 @@
 # Shadow of the Tomb Raider: Definitive Edition
-Rating: 4.65 (Ranked 286)  
+Rating: 4.65 (Ranked 285)  
 Number of Ratings: 77,497  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 28,348  (Ranked 14)  

@@ -1,5 +1,5 @@
 # Trials Fusion: Standard Edition
-Rating: 4.55 (Ranked 460)  
+Rating: 4.57 (Ranked 422)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  
@@ -14,3 +14,4 @@ Diff (max vs sum): 0
 | 2022-12-23 | 4.52 | - | - |
 | 2023-03-16 | 4.55 | - | - |
 | 2023-03-31 | 4.55 | - | 0 |
+| 2023-04-17 | 4.57 | - | 0 |

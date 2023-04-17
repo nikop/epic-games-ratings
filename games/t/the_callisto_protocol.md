@@ -1,9 +1,9 @@
 # The Callisto Protocol
 Rating: 4.18 (Ranked 814)  
 ## Popularity (Based on Awards)
-Max (Highly Recommended): 44  (Ranked 396)  
+Max (Highly Recommended): 44  (Ranked 397)  
 Sum: 234 (Ranked 339)  
-Diff (max vs sum): 57
+Diff (max vs sum): 58
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

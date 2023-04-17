@@ -1,15 +1,15 @@
 # Crashlands
-Rating: 4.66 (Ranked 271)  
+Rating: 4.66 (Ranked 270)  
 Number of Ratings: 517  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 186  (Ranked 258)  
-Sum: 273 (Ranked 324)  
+Sum: 274 (Ranked 324)  
 Diff (max vs sum): -66
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Inclusive Character Customization | 186 |
-| This game has Great Boss Battles | 87 |
+| This game has Great Boss Battles | 88 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -92,3 +92,4 @@ Diff (max vs sum): -66
 | 2023-04-13 | 4.65 | - | 186 |
 | 2023-04-14 | 4.66 | - | 186 |
 | 2023-04-15 | 4.66 | - | 186 |
+| 2023-04-17 | 4.66 | - | 186 |

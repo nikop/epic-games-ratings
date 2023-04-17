@@ -2,15 +2,15 @@
   "ID": "1b8a504ec52d4430b65cca2990ad6c7f",
   "Name": "Crashlands",
   "Rating": 4.66,
-  "Ranking_Rating": 271,
+  "Ranking_Rating": 270,
   "Ranking_Popularity": 258,
   "Ranking_PopularitySum": 324,
   "NumberOfRatings": 517,
-  "NumberOfAwards": 273,
+  "NumberOfAwards": 274,
   "NumberOfAwardsMax": 186,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:25:11.0234055+00:00",
-  "LastChanged": "2023-04-15T09:57:53.4126712+00:00",
+  "LastChanged": "2023-04-17T01:57:34.8388195+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:11.0234057+00:00",
@@ -562,6 +562,12 @@
       "Rating": 4.66,
       "NumberOfAwards": 273,
       "NumberOfAwardsMax": 186
+    },
+    {
+      "Time": "2023-04-17T01:57:34.8388196+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 274,
+      "NumberOfAwardsMax": 186
     }
   ],
   "Tags": [
@@ -575,7 +581,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 87
+      "Count": 88
     }
   ]
 }
