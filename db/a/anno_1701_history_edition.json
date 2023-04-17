@@ -1,8 +1,8 @@
 {
   "ID": "db9ef498b3fa4b26afb501ea352e3c46",
   "Name": "Anno 1701 History Edition",
-  "Rating": 4.56,
-  "Ranking_Rating": 439,
+  "Rating": 4.57,
+  "Ranking_Rating": 423,
   "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 484,
   "NumberOfRatings": 37,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:24:28.7529915+00:00",
   "FirstSeenRating": "2022-08-06T11:01:24.6446808+00:00",
-  "LastChanged": "2023-04-13T10:57:47.8610964+00:00",
+  "LastChanged": "2023-04-17T14:57:43.5459689+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-06T11:01:24.644681+00:00",
@@ -234,6 +234,12 @@
     {
       "Time": "2023-04-13T10:57:47.8610967+00:00",
       "Rating": 4.56,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-17T14:57:43.5459693+00:00",
+      "Rating": 4.57,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

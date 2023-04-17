@@ -2,15 +2,15 @@
   "ID": "253d451b16364a22907dd01b7e928fb6",
   "Name": "Horizon Chase Turbo",
   "Rating": 4.56,
-  "Ranking_Rating": 439,
-  "Ranking_Popularity": 288,
+  "Ranking_Rating": 440,
+  "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 223,
   "NumberOfRatings": 1343,
-  "NumberOfAwards": 1053,
-  "NumberOfAwardsMax": 130,
+  "NumberOfAwards": 1055,
+  "NumberOfAwardsMax": 132,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
-  "LastChanged": "2023-04-12T15:57:12.2817936+00:00",
+  "LastChanged": "2023-04-17T14:57:13.9265672+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:20.5347353+00:00",
@@ -1242,6 +1242,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 1053,
       "NumberOfAwardsMax": 130
+    },
+    {
+      "Time": "2023-04-17T14:57:13.9265674+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1055,
+      "NumberOfAwardsMax": 132
     }
   ],
   "Tags": [
@@ -1249,7 +1255,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 130
+      "Count": 132
     },
     {
       "Text": "This game has Quickly Understood Controls",
