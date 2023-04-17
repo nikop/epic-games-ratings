@@ -87,7 +87,7 @@
 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 722 | 113 | 301 |
 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 508 | 4,052 | 71 |
 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 191 | 4,482 | 67 |
-| [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 310 | 5,872 | 54 |
+| [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 310 | 5,876 | 54 |
 | [Black Book](games/b/black_book.md) | 4.87 | 25 | 21 | 472 |
 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 771 | 0 | 484 |
 | [BLACKTAIL](games/b/blacktail.md) | 4.73 | 155 | 0 | 484 |
@@ -175,7 +175,7 @@
 | [Dauntless](games/d/dauntless.md) | 4.53 | 484 | 19,436 | 16 |
 | [Days Gone](games/d/days_gone.md) | 4.69 | 213 | 3,719 | 75 |
 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 823 | 0 | 484 |
-| [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 497 | 26,472 | 15 |
+| [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 497 | 26,504 | 15 |
 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 19 | 247 | 234 |
 | [Dead Space](games/d/dead_space.md) | 4.75 | 125 | 34 | 421 |
 | [Death Coming](games/d/death_coming.md) | 4.42 | 634 | 0 | 484 |
@@ -616,7 +616,7 @@
 | [Second Extinction™](games/s/second_extinction™.md) | 4.09 | 849 | 249 | 233 |
 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.65 | 285 | 48 | 384 |
 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 235 | 157 | 277 |
-| [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 285 | 28,348 | 14 |
+| [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 285 | 28,354 | 14 |
 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 177 | 66 | 360 |
 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 270 | 545 | 171 |
 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 484 | 92 | 326 |

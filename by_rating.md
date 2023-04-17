@@ -302,7 +302,7 @@
 | 285 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 0 | 484 |
 | 285 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 484 |
 | 285 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.65 | 48 | 384 |
-| 285 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,348 | 14 |
+| 285 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,354 | 14 |
 | 285 | [SOMA](games/s/soma.md) | 4.65 | 0 | 484 |
 | 285 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.65 | 0 | 484 |
 | 285 | [The Machines Arena](games/t/the_machines_arena.md) | 4.65 | 0 | 484 |
@@ -311,7 +311,7 @@
 | 285 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 0 | 484 |
 | 310 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 0 | 484 |
 | 310 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 484 |
-| 310 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,872 | 54 |
+| 310 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,876 | 54 |
 | 310 | [Deceive Inc.](games/d/deceive_inc..md) | 4.64 | 0 | 484 |
 | 310 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 2,060 | 101 |
 | 310 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 45 | 391 |
@@ -497,7 +497,7 @@
 | 484 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 262 | 232 |
 | 484 | [Verdun](games/v/verdun.md) | 4.53 | 93 | 325 |
 | 497 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 727 | 150 |
-| 497 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 26,472 | 15 |
+| 497 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 26,504 | 15 |
 | 497 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 493 | 179 |
 | 497 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 98 | 316 |
 | 497 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 147 | 280 |

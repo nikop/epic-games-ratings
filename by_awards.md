@@ -13,8 +13,8 @@
 | 11 | [VALORANT](games/v/valorant.md) | 48,927 | 4.54 | 472 |
 | 12 | [Destiny 2](games/d/destiny_2.md) | 32,908 | 4.50 | 523 |
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 29,380 | 4.74 | 141 |
-| 14 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,348 | 4.65 | 285 |
-| 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 26,472 | 4.52 | 497 |
+| 14 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,354 | 4.65 | 285 |
+| 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 26,504 | 4.52 | 497 |
 | 16 | [Dauntless](games/d/dauntless.md) | 19,436 | 4.53 | 484 |
 | 17 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 17,770 | 4.57 | 422 |
 | 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 17,545 | 4.78 | 100 |
@@ -53,7 +53,7 @@
 | 51 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,104 | 4.71 | 177 |
 | 52 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 5,975 | 4.58 | 404 |
 | 53 | [Sifu](games/s/sifu.md) | 5,933 | 4.82 | 60 |
-| 54 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,872 | 4.64 | 310 |
+| 54 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,876 | 4.64 | 310 |
 | 55 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,795 | 4.79 | 91 |
 | 56 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,736 | 4.66 | 270 |
 | 57 | [Prey](games/p/prey.md) | 5,502 | 4.62 | 333 |
