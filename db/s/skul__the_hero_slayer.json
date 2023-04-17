@@ -1,16 +1,16 @@
 {
   "ID": "6feac7e685174dd698e90ca9536e1299",
   "Name": "Skul: The Hero Slayer",
-  "Rating": 4.7,
-  "Ranking_Rating": 190,
+  "Rating": 4.71,
+  "Ranking_Rating": 177,
   "Ranking_Popularity": 304,
   "Ranking_PopularitySum": 238,
   "NumberOfRatings": 546,
-  "NumberOfAwards": 839,
+  "NumberOfAwards": 840,
   "NumberOfAwardsMax": 112,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
-  "LastChanged": "2023-04-13T16:58:25.3874211+00:00",
+  "LastChanged": "2023-04-17T02:59:02.3333547+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:36.7483718+00:00",
@@ -546,6 +546,12 @@
       "Rating": 4.7,
       "NumberOfAwards": 839,
       "NumberOfAwardsMax": 112
+    },
+    {
+      "Time": "2023-04-17T02:59:02.3333549+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 840,
+      "NumberOfAwardsMax": 112
     }
   ],
   "Tags": [
@@ -589,7 +595,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 76
+      "Count": 77
     },
     {
       "Text": "This game is Relaxing",

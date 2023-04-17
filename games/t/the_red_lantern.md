@@ -1,5 +1,5 @@
 # The Red Lantern
-Rating: 4.70 (Ranked 190)  
+Rating: 4.70 (Ranked 191)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  
