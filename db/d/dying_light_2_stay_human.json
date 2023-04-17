@@ -2,15 +2,15 @@
   "ID": "87b7846d2eba4bc49eead0854323aba8",
   "Name": "Dying Light 2 Stay Human",
   "Rating": 4.57,
-  "Ranking_Rating": 422,
+  "Ranking_Rating": 423,
   "Ranking_Popularity": 48,
   "Ranking_PopularitySum": 59,
   "NumberOfRatings": 7305,
-  "NumberOfAwards": 14710,
+  "NumberOfAwards": 14712,
   "NumberOfAwardsMax": 6396,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
-  "LastChanged": "2023-04-17T06:57:20.3157651+00:00",
+  "LastChanged": "2023-04-17T10:57:18.8909782+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:57.6151267+00:00",
@@ -3279,6 +3279,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 14710,
       "NumberOfAwardsMax": 6396
+    },
+    {
+      "Time": "2023-04-17T10:57:18.8909784+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 14712,
+      "NumberOfAwardsMax": 6396
     }
   ],
   "Tags": [
@@ -3328,7 +3334,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 506
+      "Count": 508
     },
     {
       "Text": "This game has Amazing Storytelling",

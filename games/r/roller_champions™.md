@@ -1,16 +1,16 @@
 # Roller Champions™
-Rating: 4.34 (Ranked 715)  
+Rating: 4.34 (Ranked 716)  
 Number of Ratings: 5,693  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 233  (Ranked 238)  
-Sum: 1,782 (Ranked 193)  
+Sum: 1,783 (Ranked 193)  
 Diff (max vs sum): 45
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Great for Beginners | 233 |
 | This game is Great for Quick Sessions | 219 |
-| This game is Highly Recommended | 204 |
+| This game is Highly Recommended | 205 |
 | This game is Extremely Fun | 203 |
 | This game has Quickly Understood Controls | 197 |
 | This game has Competitive Players | 196 |

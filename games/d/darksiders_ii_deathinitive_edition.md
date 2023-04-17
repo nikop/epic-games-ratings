@@ -1,15 +1,15 @@
 # Darksiders II Deathinitive Edition
-Rating: 4.61 (Ranked 349)  
+Rating: 4.61 (Ranked 350)  
 Number of Ratings: 827  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 372  (Ranked 201)  
-Sum: 571 (Ranked 279)  
+Sum: 573 (Ranked 279)  
 Diff (max vs sum): -78
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Inclusive Character Customization | 372 |
-| This game has Great Boss Battles | 199 |
+| This game has Great Boss Battles | 201 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -86,3 +86,4 @@ Diff (max vs sum): -78
 | 2022-11-29 | 4.61 | - | - |
 | 2023-04-07 | 4.61 | - | 372 |
 | 2023-04-11 | 4.61 | - | 372 |
+| 2023-04-17 | 4.61 | - | 372 |

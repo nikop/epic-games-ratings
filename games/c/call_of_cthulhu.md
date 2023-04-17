@@ -1,5 +1,5 @@
 # Call of Cthulhu
-Rating: 4.33 (Ranked 722)  
+Rating: 4.33 (Ranked 723)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  

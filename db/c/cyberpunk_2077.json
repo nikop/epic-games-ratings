@@ -2,15 +2,15 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "Rating": 4.62,
-  "Ranking_Rating": 333,
+  "Ranking_Rating": 334,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 13,
   "NumberOfRatings": 32700,
-  "NumberOfAwards": 160899,
+  "NumberOfAwards": 160913,
   "NumberOfAwardsMax": 61752,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
-  "LastChanged": "2023-04-17T04:57:01.6236542+00:00",
+  "LastChanged": "2023-04-17T10:57:05.6621441+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:03.6420176+00:00",
@@ -4405,6 +4405,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 160899,
       "NumberOfAwardsMax": 61752
+    },
+    {
+      "Time": "2023-04-17T10:57:05.6621443+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 160913,
+      "NumberOfAwardsMax": 61752
     }
   ],
   "Tags": [
@@ -4478,7 +4484,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 4470
+      "Count": 4484
     }
   ]
 }

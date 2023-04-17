@@ -1,15 +1,15 @@
 {
   "ID": "24285307a56445f1bc5d546df7af3025",
   "Name": "Sins of a Solar Empire 2",
-  "Rating": 4.49,
-  "Ranking_Rating": 539,
+  "Rating": 4.5,
+  "Ranking_Rating": 524,
   "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 484,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-10-27T20:00:58.3635967+00:00",
   "FirstSeenRating": "2022-10-28T20:01:29.0144781+00:00",
-  "LastChanged": "2023-04-08T13:00:26.0124067+00:00",
+  "LastChanged": "2023-04-17T10:57:33.7418558+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-28T20:01:29.0144786+00:00",
@@ -164,6 +164,12 @@
     {
       "Time": "2023-04-08T13:00:26.0124069+00:00",
       "Rating": 4.49,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-17T10:57:33.7418559+00:00",
+      "Rating": 4.5,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

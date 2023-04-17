@@ -1,5 +1,5 @@
 # Twin Mirror
-Rating: 4.26 (Ranked 767)  
+Rating: 4.26 (Ranked 768)  
 Number of Ratings: 39  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  

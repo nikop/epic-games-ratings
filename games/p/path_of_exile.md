@@ -1,9 +1,9 @@
 # Path of Exile
-Rating: 4.61 (Ranked 349)  
+Rating: 4.61 (Ranked 350)  
 Number of Ratings: 3,102  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 2,419  (Ranked 88)  
-Sum: 8,552 (Ranked 84)  
+Sum: 8,554 (Ranked 84)  
 Diff (max vs sum): 4
 ## Awards
 | Award | Number of Ratings |
@@ -12,9 +12,9 @@ Diff (max vs sum): 4
 | This game has Great Boss Battles | 2,112 |
 | This game has Diverse Characters | 657 |
 | This game has Challenging Combat | 614 |
-| This game is Highly Recommended | 599 |
+| This game is Highly Recommended | 600 |
 | This game is Extremely Fun | 564 |
-| This game has Amazing Storytelling | 549 |
+| This game has Amazing Storytelling | 550 |
 | This game has Amazing Characters | 546 |
 | This game has Unique Visuals | 492 |
 | This game has Obsessive Gameplay | 481 |

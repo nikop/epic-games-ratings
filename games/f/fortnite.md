@@ -1,9 +1,9 @@
 # Fortnite
-Rating: 4.29 (Ranked 751)  
+Rating: 4.29 (Ranked 752)  
 Number of Ratings: 2,283,925  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Competitive Players): 1,230,626  (Ranked 1)  
-Sum: 8,911,343 (Ranked 1)  
+Sum: 8,913,588 (Ranked 1)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
@@ -13,7 +13,7 @@ Diff (max vs sum): 0
 | This game is Extremely Fun | 1,171,381 |
 | This game has Diverse Characters | 1,148,637 |
 | This game has Amazing Storytelling | 1,102,067 |
-| This game has Amazing Characters | 1,086,347 |
+| This game has Amazing Characters | 1,088,592 |
 | This game is Highly Recommended | 1,076,574 |
 | This game has a Competitive Community | 912,077 |
 ## Ratings History

@@ -2,15 +2,15 @@
   "ID": "3622b6ddc5c849b1826085d5fe492eae",
   "Name": "Nioh: The Complete Edition",
   "Rating": 4.57,
-  "Ranking_Rating": 422,
+  "Ranking_Rating": 423,
   "Ranking_Popularity": 42,
   "Ranking_PopularitySum": 56,
   "NumberOfRatings": 10807,
-  "NumberOfAwards": 16514,
-  "NumberOfAwardsMax": 7119,
+  "NumberOfAwards": 16521,
+  "NumberOfAwardsMax": 7126,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:23:37.2904323+00:00",
-  "LastChanged": "2023-04-17T09:58:09.2954042+00:00",
+  "LastChanged": "2023-04-17T10:57:51.0189486+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:37.2904326+00:00",
@@ -3540,6 +3540,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 16514,
       "NumberOfAwardsMax": 7119
+    },
+    {
+      "Time": "2023-04-17T10:57:51.0189488+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 16521,
+      "NumberOfAwardsMax": 7126
     }
   ],
   "Tags": [
@@ -3547,7 +3553,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7119
+      "Count": 7126
     },
     {
       "Text": "This game has Great Boss Battles",

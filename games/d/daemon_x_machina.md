@@ -1,5 +1,5 @@
 # DAEMON X MACHINA
-Rating: 4.40 (Ranked 659)  
+Rating: 4.40 (Ranked 660)  
 Number of Ratings: 2,096  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 973  (Ranked 137)  

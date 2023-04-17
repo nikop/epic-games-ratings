@@ -1,5 +1,5 @@
 # Horizon Chase Turbo
-Rating: 4.56 (Ranked 437)  
+Rating: 4.56 (Ranked 438)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 130  (Ranked 288)  

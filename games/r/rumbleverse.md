@@ -1,5 +1,5 @@
 # Rumbleverse
-Rating: 4.42 (Ranked 634)  
+Rating: 4.42 (Ranked 635)  
 Number of Ratings: 61,855  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Competitive Players): 6,689  (Ranked 45)  

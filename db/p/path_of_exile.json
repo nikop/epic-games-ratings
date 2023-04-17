@@ -2,15 +2,15 @@
   "ID": "7ad5508d382e46228056f1d1a0189ae2",
   "Name": "Path of Exile",
   "Rating": 4.61,
-  "Ranking_Rating": 349,
+  "Ranking_Rating": 350,
   "Ranking_Popularity": 88,
   "Ranking_PopularitySum": 84,
   "NumberOfRatings": 3102,
-  "NumberOfAwards": 8552,
+  "NumberOfAwards": 8554,
   "NumberOfAwardsMax": 2419,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:16:56.6558117+00:00",
-  "LastChanged": "2023-04-17T03:56:53.2571075+00:00",
+  "LastChanged": "2023-04-17T10:57:04.6892036+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:56.655812+00:00",
@@ -2826,6 +2826,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 8552,
       "NumberOfAwardsMax": 2419
+    },
+    {
+      "Time": "2023-04-17T10:57:04.6892039+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 8554,
+      "NumberOfAwardsMax": 2419
     }
   ],
   "Tags": [
@@ -2881,13 +2887,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 549
+      "Count": 550
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 599
+      "Count": 600
     },
     {
       "Text": "This game has Unique Visuals",

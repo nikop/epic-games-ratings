@@ -1,5 +1,5 @@
 # Nowhere Prophet
-Rating: 4.52 (Ranked 497)  
+Rating: 4.52 (Ranked 498)  
 Number of Ratings: 21  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  

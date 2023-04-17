@@ -1,5 +1,5 @@
 # The Surge
-Rating: 4.46 (Ranked 580)  
+Rating: 4.46 (Ranked 581)  
 Number of Ratings: 62  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 26  (Ranked 452)  

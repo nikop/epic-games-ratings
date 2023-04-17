@@ -2,15 +2,15 @@
   "ID": "2c42520d342a46d7a6e0cfa77b4715de",
   "Name": "Dying Light Enhanced Edition",
   "Rating": 4.55,
-  "Ranking_Rating": 461,
+  "Ranking_Rating": 462,
   "Ranking_Popularity": 19,
   "Ranking_PopularitySum": 37,
   "NumberOfRatings": 3181,
-  "NumberOfAwards": 29213,
+  "NumberOfAwards": 29253,
   "NumberOfAwardsMax": 15885,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:18:05.0678131+00:00",
-  "LastChanged": "2023-04-17T09:57:22.1973424+00:00",
+  "LastChanged": "2023-04-17T10:57:13.1838435+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:05.0678134+00:00",
@@ -3069,6 +3069,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 29213,
       "NumberOfAwardsMax": 15885
+    },
+    {
+      "Time": "2023-04-17T10:57:13.1838437+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 29253,
+      "NumberOfAwardsMax": 15885
     }
   ],
   "Tags": [
@@ -3088,7 +3094,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 903
+      "Count": 943
     },
     {
       "Text": "This game has Diverse Characters",

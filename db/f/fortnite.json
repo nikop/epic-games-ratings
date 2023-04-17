@@ -2,15 +2,15 @@
   "ID": "fn",
   "Name": "Fortnite",
   "Rating": 4.29,
-  "Ranking_Rating": 751,
+  "Ranking_Rating": 752,
   "Ranking_Popularity": 1,
   "Ranking_PopularitySum": 1,
   "NumberOfRatings": 2283925,
-  "NumberOfAwards": 8911343,
+  "NumberOfAwards": 8913588,
   "NumberOfAwardsMax": 1230626,
   "MaxAwardTitle": "Competitive Players",
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
-  "LastChanged": "2023-04-17T04:57:06.0282206+00:00",
+  "LastChanged": "2023-04-17T10:57:10.4930307+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:41.6739551+00:00",
@@ -4343,6 +4343,12 @@
       "Rating": 4.29,
       "NumberOfAwards": 8911343,
       "NumberOfAwardsMax": 1230626
+    },
+    {
+      "Time": "2023-04-17T10:57:10.493031+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 8913588,
+      "NumberOfAwardsMax": 1230626
     }
   ],
   "Tags": [
@@ -4386,7 +4392,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1086347
+      "Count": 1088592
     },
     {
       "Text": "This game has a Competitive Community",

@@ -1,15 +1,15 @@
 # OUTRIDERS
-Rating: 4.42 (Ranked 634)  
+Rating: 4.42 (Ranked 635)  
 Number of Ratings: 1,201  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 1,092  (Ranked 124)  
-Sum: 2,274 (Ranked 170)  
+Sum: 2,275 (Ranked 170)  
 Diff (max vs sum): -46
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Great Boss Battles | 1,092 |
-| This game has Amazing Characters | 160 |
+| This game has Amazing Characters | 161 |
 | This game is Extremely Fun | 156 |
 | This game is Relaxing | 155 |
 | This game has Diverse Characters | 148 |

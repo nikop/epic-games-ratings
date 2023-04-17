@@ -1,9 +1,9 @@
 # ARK: Survival Evolved
-Rating: 4.59 (Ranked 388)  
+Rating: 4.59 (Ranked 389)  
 Number of Ratings: 35,570  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 55,824  (Ranked 10)  
-Sum: 247,915 (Ranked 10)  
+Sum: 247,930 (Ranked 10)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
@@ -17,8 +17,8 @@ Diff (max vs sum): 0
 | This game is Relaxing | 19,099 |
 | This game has Competitive Players | 18,610 |
 | This game has Quickly Understood Controls | 18,570 |
-| This game has Amazing Storytelling | 18,439 |
-| This game has Amazing Characters | 18,056 |
+| This game has Amazing Storytelling | 18,446 |
+| This game has Amazing Characters | 18,064 |
 | This game has Obsessive Gameplay | 13,324 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |

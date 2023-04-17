@@ -1,5 +1,5 @@
 # Amnesia: A Machine for Pigs
-Rating: 4.04 (Ranked 862)  
+Rating: 4.04 (Ranked 863)  
 Number of Ratings: 197  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
