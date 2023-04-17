@@ -37,9 +37,9 @@
 | 35 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 8,927 | 4.60 | 374 |
 | 36 | [HITMAN 3](games/h/hitman_3.md) | 8,642 | 4.78 | 100 |
 | 37 | [Control](games/c/control.md) | 8,222 | 4.60 | 374 |
-| 38 | [Supraland](games/s/supraland.md) | 7,596 | 4.61 | 349 |
-| 39 | [SnowRunner](games/s/snowrunner.md) | 7,570 | 4.76 | 112 |
-| 40 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 7,530 | 4.24 | 775 |
+| 38 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 7,602 | 4.24 | 775 |
+| 39 | [Supraland](games/s/supraland.md) | 7,596 | 4.61 | 349 |
+| 40 | [SnowRunner](games/s/snowrunner.md) | 7,570 | 4.76 | 112 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,461 | 4.85 | 37 |
 | 42 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,119 | 4.57 | 422 |
 | 43 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,087 | 4.71 | 177 |
@@ -47,8 +47,8 @@
 | 45 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 634 |
 | 46 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 6,452 | 4.67 | 256 |
 | 47 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,433 | 4.46 | 580 |
-| 48 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,387 | 4.74 | 141 |
-| 49 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 6,380 | 4.57 | 422 |
+| 48 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 6,396 | 4.57 | 422 |
+| 49 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,387 | 4.74 | 141 |
 | 50 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,221 | 4.80 | 79 |
 | 51 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,104 | 4.71 | 177 |
 | 52 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 5,975 | 4.58 | 404 |

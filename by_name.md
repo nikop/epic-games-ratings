@@ -216,9 +216,9 @@
 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 48 | 210 | 247 |
 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 285 | 316 | 212 |
 | [Duskers](games/d/duskers.md) | 4.47 | 567 | 0 | 484 |
-| [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 422 | 6,380 | 49 |
+| [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 422 | 6,396 | 48 |
 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.55 | 461 | 15,885 | 19 |
-| [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 775 | 7,530 | 40 |
+| [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 775 | 7,602 | 38 |
 | [Eastward](games/e/eastward.md) | 4.67 | 256 | 0 | 484 |
 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 897 | 0 | 484 |
 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 539 | 0 | 484 |
@@ -461,7 +461,7 @@
 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 763 | 0 | 484 |
 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 669 | 161 | 275 |
 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 404 | 22 | 465 |
-| [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 141 | 6,387 | 48 |
+| [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 141 | 6,387 | 49 |
 | [Moving Out](games/m/moving_out.md) | 4.59 | 388 | 0 | 484 |
 | [MudRunner](games/m/mudrunner.md) | 4.62 | 333 | 229 | 240 |
 | [MultiVersus](games/m/multiversus.md) | 4.56 | 437 | 4,730 | 63 |
@@ -644,7 +644,7 @@
 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.46 | 580 | 0 | 484 |
 | [SMITE](games/s/smite.md) | 4.45 | 594 | 3,634 | 77 |
 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.40 | 659 | 0 | 484 |
-| [SnowRunner](games/s/snowrunner.md) | 4.76 | 112 | 7,570 | 39 |
+| [SnowRunner](games/s/snowrunner.md) | 4.76 | 112 | 7,570 | 40 |
 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 270 | 24 | 460 |
 | [Solitairica](games/s/solitairica.md) | 4.49 | 539 | 81 | 338 |
 | [SOMA](games/s/soma.md) | 4.65 | 285 | 0 | 484 |
@@ -699,7 +699,7 @@
 | [SUPERHOT](games/s/superhot.md) | 4.72 | 164 | 0 | 484 |
 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.69 | 213 | 0 | 484 |
 | [Superliminal](games/s/superliminal.md) | 4.80 | 79 | 0 | 484 |
-| [Supraland](games/s/supraland.md) | 4.61 | 349 | 7,596 | 38 |
+| [Supraland](games/s/supraland.md) | 4.61 | 349 | 7,596 | 39 |
 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 105 | 96 | 319 |
 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 567 | 0 | 484 |
 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 374 | 429 | 187 |

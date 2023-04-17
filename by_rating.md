@@ -122,7 +122,7 @@
 | 112 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,609 | 109 |
 | 112 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 0 | 484 |
 | 112 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 0 | 484 |
-| 112 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 7,570 | 39 |
+| 112 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 7,570 | 40 |
 | 112 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 484 |
 | 125 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 23 | 461 |
 | 125 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,684 | 64 |
@@ -146,7 +146,7 @@
 | 141 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 482 | 182 |
 | 141 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 765 | 146 |
 | 141 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 574 | 166 |
-| 141 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,387 | 48 |
+| 141 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,387 | 49 |
 | 141 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 222 | 243 |
 | 141 | [Quake](games/q/quake.md) | 4.74 | 45 | 391 |
 | 141 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 29,380 | 13 |
@@ -370,7 +370,7 @@
 | 349 | [Road 96](games/r/road_96.md) | 4.61 | 0 | 484 |
 | 349 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,057 | 127 |
 | 349 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 266 | 229 |
-| 349 | [Supraland](games/s/supraland.md) | 4.61 | 7,596 | 38 |
+| 349 | [Supraland](games/s/supraland.md) | 4.61 | 7,596 | 39 |
 | 349 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 61 | 368 |
 | 349 | [Warframe](games/w/warframe.md) | 4.61 | 14,085 | 22 |
 | 374 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,362 | 30 |
@@ -424,7 +424,7 @@
 | 422 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 0 | 484 |
 | 422 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 0 | 484 |
 | 422 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 148 | 278 |
-| 422 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 6,380 | 49 |
+| 422 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 6,396 | 48 |
 | 422 | [Everything](games/e/everything.md) | 4.57 | 0 | 484 |
 | 422 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 25 | 457 |
 | 422 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 35 | 419 |
@@ -776,7 +776,7 @@
 | 771 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 0 | 484 |
 | 775 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 484 |
 | 775 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 434 |
-| 775 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 7,530 | 40 |
+| 775 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 7,602 | 38 |
 | 775 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.24 | 979 | 135 |
 | 775 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 319 | 210 |
 | 775 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 0 | 484 |
