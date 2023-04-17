@@ -18,7 +18,7 @@
 | 13 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 133,859 | 7 |
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 398 | 193 |
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 14,493 | 20 |
-| 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 127 | 288 |
+| 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 127 | 289 |
 | 19 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 247 | 234 |
 | 19 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 0 | 484 |
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 9,053 | 34 |
@@ -113,7 +113,7 @@
 | 105 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 27 | 446 |
 | 112 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 0 | 484 |
 | 112 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 2,318 | 93 |
-| 112 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 13,917 | 23 |
+| 112 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 13,927 | 23 |
 | 112 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 84 | 335 |
 | 112 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 811 | 145 |
 | 112 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 39 | 406 |
@@ -246,7 +246,7 @@
 | 235 | [High On Life](games/h/high_on_life.md) | 4.68 | 0 | 484 |
 | 235 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 484 |
 | 235 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 410 | 189 |
-| 235 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 547 | 170 |
+| 235 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 549 | 169 |
 | 235 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 657 | 157 |
 | 235 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 157 | 277 |
 | 235 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 30 | 438 |
@@ -350,7 +350,7 @@
 | 333 | [Transistor](games/t/transistor.md) | 4.62 | 0 | 484 |
 | 349 | [20XX](games/2/20xx.md) | 4.61 | 36 | 414 |
 | 349 | [ABZU](games/a/abzu.md) | 4.61 | 0 | 484 |
-| 349 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 127 | 288 |
+| 349 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 127 | 289 |
 | 349 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 3,962 | 72 |
 | 349 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 484 |
 | 349 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 209 | 249 |
@@ -448,7 +448,7 @@
 | 437 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 27 | 446 |
 | 437 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 0 | 484 |
 | 437 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 0 | 484 |
-| 437 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 130 | 287 |
+| 437 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 130 | 288 |
 | 437 | [Isonzo](games/i/isonzo.md) | 4.56 | 30 | 438 |
 | 437 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 69 | 355 |
 | 437 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 484 |
@@ -520,7 +520,7 @@
 | 508 | [Sable](games/s/sable.md) | 4.51 | 0 | 484 |
 | 508 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 0 | 484 |
 | 508 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 63 | 366 |
-| 508 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 131 | 286 |
+| 508 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 131 | 287 |
 | 508 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 0 | 484 |
 | 523 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 208 | 250 |
 | 523 | [CryoFall](games/c/cryofall.md) | 4.50 | 0 | 484 |
@@ -613,7 +613,7 @@
 | 594 | [Weird West](games/w/weird_west.md) | 4.45 | 22 | 465 |
 | 594 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 0 | 484 |
 | 613 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 484 |
-| 613 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 661 | 156 |
+| 613 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 667 | 156 |
 | 613 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 484 |
 | 613 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.44 | 0 | 484 |
 | 613 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 45 | 391 |
@@ -731,7 +731,7 @@
 | 722 | [Dark Light](games/d/dark_light.md) | 4.33 | 0 | 484 |
 | 722 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 484 |
 | 731 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 0 | 484 |
-| 731 | [Filament](games/f/filament.md) | 4.32 | 548 | 169 |
+| 731 | [Filament](games/f/filament.md) | 4.32 | 548 | 170 |
 | 731 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 68 | 359 |
 | 731 | [House Party](games/h/house_party.md) | 4.32 | 0 | 484 |
 | 731 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 442 |
@@ -755,7 +755,7 @@
 | 751 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 0 | 484 |
 | 751 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 669 | 155 |
 | 751 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 43 | 401 |
-| 751 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 125 | 290 |
+| 751 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 125 | 291 |
 | 751 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 124 | 292 |
 | 751 | [The Fall](games/t/the_fall.md) | 4.29 | 0 | 484 |
 | 759 | [Chess Ultra](games/c/chess_ultra.md) | 4.28 | 0 | 484 |
@@ -884,7 +884,7 @@
 | 880 | [Warface](games/w/warface.md) | 3.92 | 378 | 200 |
 | 883 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 0 | 484 |
 | 883 | [Conarium](games/c/conarium.md) | 3.91 | 0 | 484 |
-| 883 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.91 | 125 | 290 |
+| 883 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.91 | 134 | 286 |
 | 883 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 311 |
 | 887 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.88 | 0 | 484 |
 | 887 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 0 | 484 |

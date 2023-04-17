@@ -22,7 +22,7 @@
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 14,493 | 4.89 | 13 |
 | 21 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,313 | 4.58 | 404 |
 | 22 | [Warframe](games/w/warframe.md) | 14,085 | 4.61 | 349 |
-| 23 | [Borderlands 2](games/b/borderlands_2.md) | 13,917 | 4.76 | 112 |
+| 23 | [Borderlands 2](games/b/borderlands_2.md) | 13,927 | 4.76 | 112 |
 | 24 | [Maneater](games/m/maneater.md) | 13,387 | 4.49 | 539 |
 | 25 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,154 | 4.60 | 374 |
 | 26 | [League of Legends](games/l/league_of_legends.md) | 12,518 | 4.21 | 789 |
@@ -155,7 +155,7 @@
 | 153 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 690 | 4.59 | 388 |
 | 154 | [Disco Elysium](games/d/disco_elysium.md) | 683 | 4.86 | 30 |
 | 155 | [Neverwinter](games/n/neverwinter.md) | 669 | 4.29 | 751 |
-| 156 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 661 | 4.44 | 613 |
+| 156 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 667 | 4.44 | 613 |
 | 157 | [Neon Abyss](games/n/neon_abyss.md) | 657 | 4.68 | 235 |
 | 158 | [Subnautica](games/s/subnautica.md) | 644 | 4.84 | 48 |
 | 159 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 636 | 4.67 | 256 |
@@ -168,8 +168,8 @@
 | 166 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 574 | 4.74 | 141 |
 | 167 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 566 | 4.58 | 404 |
 | 168 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 550 | 4.61 | 349 |
-| 169 | [Filament](games/f/filament.md) | 548 | 4.32 | 731 |
-| 170 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 547 | 4.68 | 235 |
+| 169 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 549 | 4.68 | 235 |
+| 170 | [Filament](games/f/filament.md) | 548 | 4.32 | 731 |
 | 171 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 545 | 4.66 | 270 |
 | 171 | [Vampyr](games/v/vampyr.md) | 545 | 4.32 | 731 |
 | 173 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 542 | 4.73 | 155 |
@@ -285,12 +285,12 @@
 | 283 | [Night in the Woods](games/n/night_in_the_woods.md) | 139 | 4.73 | 155 |
 | 284 | [Blasphemous](games/b/blasphemous.md) | 136 | 4.87 | 25 |
 | 284 | [Fort Triumph](games/f/fort_triumph.md) | 136 | 4.08 | 852 |
-| 286 | [while True: learn()](games/w/while_true__learn().md) | 131 | 4.51 | 508 |
-| 287 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 130 | 4.56 | 437 |
-| 288 | [Alien: Isolation ](games/a/alien__isolation.md) | 127 | 4.61 | 349 |
-| 288 | [Atomicrops](games/a/atomicrops.md) | 127 | 4.88 | 19 |
-| 290 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 125 | 3.91 | 883 |
-| 290 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 125 | 4.29 | 751 |
+| 286 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 134 | 3.91 | 883 |
+| 287 | [while True: learn()](games/w/while_true__learn().md) | 131 | 4.51 | 508 |
+| 288 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 130 | 4.56 | 437 |
+| 289 | [Alien: Isolation ](games/a/alien__isolation.md) | 127 | 4.61 | 349 |
+| 289 | [Atomicrops](games/a/atomicrops.md) | 127 | 4.88 | 19 |
+| 291 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 125 | 4.29 | 751 |
 | 292 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 124 | 4.29 | 751 |
 | 293 | [Encased](games/e/encased.md) | 123 | 4.36 | 697 |
 | 294 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 122 | 4.20 | 796 |

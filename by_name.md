@@ -20,7 +20,7 @@
 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 437 | 0 | 484 |
 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 837 | 0 | 484 |
 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 325 | 20 | 477 |
-| [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 349 | 127 | 288 |
+| [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 349 | 127 | 289 |
 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 862 | 0 | 484 |
 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 775 | 31 | 434 |
 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 437 | 0 | 484 |
@@ -58,7 +58,7 @@
 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 634 | 0 | 484 |
 | [ATOM RPG](games/a/atom_rpg.md) | 4.45 | 594 | 46 | 387 |
 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.48 | 556 | 20 | 477 |
-| [Atomicrops](games/a/atomicrops.md) | 4.88 | 19 | 127 | 288 |
+| [Atomicrops](games/a/atomicrops.md) | 4.88 | 19 | 127 | 289 |
 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 497 | 727 | 150 |
 | [Automachef](games/a/automachef.md) | 4.34 | 715 | 27 | 446 |
 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 796 | 119 | 296 |
@@ -97,7 +97,7 @@
 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 556 | 0 | 484 |
 | [Blood of Steel](games/b/blood_of_steel.md) | 3.67 | 899 | 0 | 484 |
 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.76 | 112 | 2,318 | 93 |
-| [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 112 | 13,917 | 23 |
+| [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 112 | 13,927 | 23 |
 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 213 | 107,386 | 8 |
 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 539 | 391 | 196 |
 | [Brawlhalla](games/b/brawlhalla.md) | 4.56 | 437 | 73 | 346 |
@@ -147,7 +147,7 @@
 | [Crashlands](games/c/crashlands.md) | 4.66 | 270 | 186 | 258 |
 | [Crayta](games/c/crayta.md) | 4.19 | 808 | 50 | 378 |
 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 763 | 22 | 465 |
-| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.91 | 883 | 125 | 290 |
+| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.91 | 883 | 134 | 286 |
 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 697 | 170 | 267 |
 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 706 | 90 | 329 |
 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 523 | 208 | 250 |
@@ -252,7 +252,7 @@
 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 349 | 0 | 484 |
 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 270 | 487 | 181 |
 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 333 | 1,164 | 122 |
-| [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 613 | 661 | 156 |
+| [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 613 | 667 | 156 |
 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 644 | 171 | 266 |
 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 191 | 300 | 220 |
 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 213 | 316 | 212 |
@@ -266,7 +266,7 @@
 | [Fez](games/f/fez.md) | 4.71 | 177 | 23 | 461 |
 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 256 | 0 | 484 |
 | [Figment](games/f/figment.md) | 4.46 | 580 | 20 | 477 |
-| [Filament](games/f/filament.md) | 4.32 | 731 | 548 | 169 |
+| [Filament](games/f/filament.md) | 4.32 | 731 | 548 | 170 |
 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 37 | 5,442 | 58 |
 | [Firework](games/f/firework.md) | 4.89 | 13 | 0 | 484 |
 | [First Class Trouble](games/f/first_class_trouble.md) | 4.51 | 508 | 77 | 341 |
@@ -346,7 +346,7 @@
 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 539 | 2,155 | 98 |
 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 868 | 367 | 202 |
 | [Horace](games/h/horace.md) | 4.50 | 523 | 0 | 484 |
-| [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 437 | 130 | 287 |
+| [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 437 | 130 | 288 |
 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 105 | 3,870 | 74 |
 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 374 | 36 | 414 |
 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.46 | 580 | 0 | 484 |
@@ -469,7 +469,7 @@
 | [Mutazione](games/m/mutazione.md) | 4.64 | 310 | 0 | 484 |
 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 697 | 0 | 484 |
 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 256 | 2,207 | 95 |
-| [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 235 | 547 | 170 |
+| [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 235 | 549 | 169 |
 | [MythForce](games/m/mythforce.md) | 4.51 | 508 | 32 | 428 |
 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 808 | 180,087 | 4 |
 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 669 | 11,636 | 29 |
@@ -558,7 +558,7 @@
 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 523 | 0 | 484 |
 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 70 | 0 | 484 |
 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 79 | 186 | 258 |
-| [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 751 | 125 | 290 |
+| [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 751 | 125 | 291 |
 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 844 | 0 | 484 |
 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 497 | 0 | 484 |
 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 634 | 30 | 438 |
@@ -874,7 +874,7 @@
 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 125 | 0 | 484 |
 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 105 | 0 | 484 |
 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 594 | 0 | 484 |
-| [while True: learn()](games/w/while_true__learn().md) | 4.51 | 508 | 131 | 286 |
+| [while True: learn()](games/w/while_true__learn().md) | 4.51 | 508 | 131 | 287 |
 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.88 | 887 | 0 | 484 |
 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 105 | 27 | 446 |
 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 285 | 0 | 484 |

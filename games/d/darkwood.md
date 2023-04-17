@@ -2,8 +2,8 @@
 Rating: 4.61 (Ranked 349)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 319  (Ranked 210)  
-Sum: 2,353 (Ranked 166)  
-Diff (max vs sum): 44
+Sum: 2,353 (Ranked 167)  
+Diff (max vs sum): 43
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
