@@ -1,5 +1,5 @@
 # Diplomacy is Not an Option
-Rating: 4.46 (Ranked 579)  
+Rating: 4.47 (Ranked 567)  
 Number of Ratings: 51  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
@@ -58,3 +58,4 @@ Diff (max vs sum): 0
 | 2023-02-25 | 4.51 | - | - |
 | 2023-03-12 | 4.46 | - | - |
 | 2023-03-31 | 4.46 | - | 0 |
+| 2023-04-17 | 4.47 | - | 0 |
