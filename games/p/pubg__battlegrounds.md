@@ -2,14 +2,14 @@
 Rating: 3.98 (Ranked 872)  
 ## Popularity (Based on Awards)
 Max (Competitive Players): 1,502  (Ranked 111)  
-Sum: 4,857 (Ranked 122)  
+Sum: 4,869 (Ranked 122)  
 Diff (max vs sum): -11
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Competitive Players | 1,502 |
 | This game has Challenging Combat | 1,307 |
-| This game is Highly Recommended | 1,187 |
+| This game is Highly Recommended | 1,199 |
 | This game has Quickly Understood Controls | 1,115 |
 | This game has a Competitive Community | 861 |
 | This game is Extremely Fun | 122 |

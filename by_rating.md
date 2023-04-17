@@ -15,7 +15,7 @@
 | 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,713 | 44 |
 | 13 | [Firework](games/f/firework.md) | 4.89 | 0 | 484 |
 | 13 | [God of War](games/g/god_of_war.md) | 4.89 | 3,935 | 73 |
-| 13 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 133,859 | 7 |
+| 13 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 134,065 | 7 |
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 398 | 193 |
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 14,493 | 20 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 127 | 289 |
@@ -84,7 +84,7 @@
 | 79 | [Journey](games/j/journey.md) | 4.80 | 0 | 484 |
 | 79 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,330 | 93 |
 | 79 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 186 | 258 |
-| 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 99 | 315 |
+| 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 100 | 315 |
 | 79 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 484 |
 | 79 | [Superliminal](games/s/superliminal.md) | 4.80 | 0 | 484 |
 | 79 | [The Messenger](games/t/the_messenger.md) | 4.80 | 311 | 215 |
@@ -136,7 +136,7 @@
 | 125 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.75 | 0 | 484 |
 | 125 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 484 |
 | 125 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 37 | 411 |
-| 125 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 41 | 403 |
+| 125 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 41 | 404 |
 | 125 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 0 | 484 |
 | 125 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 484 |
 | 125 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 0 | 484 |
@@ -253,7 +253,7 @@
 | 235 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.68 | 0 | 484 |
 | 235 | [The Pathless](games/t/the_pathless.md) | 4.68 | 0 | 484 |
 | 235 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 83 | 337 |
-| 235 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.68 | 1,423 | 114 |
+| 235 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.68 | 1,426 | 114 |
 | 235 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 0 | 484 |
 | 256 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 637 | 159 |
 | 256 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 71 | 352 |
@@ -375,7 +375,7 @@
 | 350 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 61 | 368 |
 | 350 | [Warframe](games/w/warframe.md) | 4.61 | 14,102 | 22 |
 | 375 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,376 | 30 |
-| 375 | [Control](games/c/control.md) | 4.60 | 8,222 | 37 |
+| 375 | [Control](games/c/control.md) | 4.60 | 8,225 | 37 |
 | 375 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 73 | 346 |
 | 375 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,154 | 25 |
 | 375 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 117 | 297 |
@@ -421,7 +421,7 @@
 | 406 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 961 | 138 |
 | 406 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 5,975 | 52 |
 | 406 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 201 | 252 |
-| 406 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,313 | 21 |
+| 406 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,315 | 21 |
 | 423 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.57 | 0 | 484 |
 | 423 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 0 | 484 |
 | 423 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 0 | 484 |
@@ -695,7 +695,7 @@
 | 691 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 12,216 | 27 |
 | 691 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 0 | 484 |
 | 691 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.37 | 0 | 484 |
-| 691 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,127 | 99 |
+| 691 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,128 | 99 |
 | 691 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 484 |
 | 698 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 267 |
 | 698 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 46 | 387 |
@@ -751,7 +751,7 @@
 | 743 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 0 | 484 |
 | 743 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 168 | 269 |
 | 743 | [War Mongrels](games/w/war_mongrels.md) | 4.30 | 0 | 484 |
-| 743 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.30 | 42 | 402 |
+| 743 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.30 | 42 | 403 |
 | 753 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 0 | 484 |
 | 753 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 0 | 484 |
 | 753 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 669 | 155 |
@@ -764,13 +764,13 @@
 | 759 | [Rage 2](games/r/rage_2.md) | 4.28 | 2,419 | 88 |
 | 759 | [Steelrising](games/s/steelrising.md) | 4.28 | 0 | 484 |
 | 764 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 22 | 465 |
-| 764 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 0 | 484 |
 | 764 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 0 | 484 |
 | 764 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 297 | 221 |
-| 768 | [EVE Online](games/e/eve_online.md) | 4.26 | 1,005 | 131 |
-| 768 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.26 | 0 | 484 |
-| 768 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 484 |
-| 768 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 484 |
+| 767 | [EVE Online](games/e/eve_online.md) | 4.26 | 1,005 | 131 |
+| 767 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 0 | 484 |
+| 767 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.26 | 0 | 484 |
+| 767 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 484 |
+| 767 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 484 |
 | 772 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 0 | 484 |
 | 772 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.25 | 21 | 472 |
 | 772 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 0 | 484 |
@@ -818,7 +818,7 @@
 | 815 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 44 | 397 |
 | 815 | [Windbound](games/w/windbound.md) | 4.18 | 0 | 484 |
 | 818 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 26 | 452 |
-| 818 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 2,127 | 99 |
+| 818 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 2,127 | 100 |
 | 818 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 0 | 484 |
 | 818 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 0 | 484 |
 | 818 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 0 | 484 |
@@ -898,5 +898,5 @@
 | 895 | [Potion Permit](games/p/potion_permit.md) | 3.76 | 66 | 360 |
 | 897 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 0 | 484 |
 | 898 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 0 | 484 |
-| 899 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.72 | 41 | 403 |
+| 899 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.72 | 43 | 401 |
 | 900 | [Blood of Steel](games/b/blood_of_steel.md) | 3.67 | 0 | 484 |

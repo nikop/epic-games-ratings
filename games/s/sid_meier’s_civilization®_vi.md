@@ -3,7 +3,7 @@ Rating: 4.74 (Ranked 141)
 Number of Ratings: 57,866  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 29,449  (Ranked 13)  
-Sum: 244,057 (Ranked 11)  
+Sum: 244,101 (Ranked 11)  
 Diff (max vs sum): 2
 ## Awards
 | Award | Number of Ratings |
@@ -12,7 +12,7 @@ Diff (max vs sum): 2
 | This game is Educational | 27,054 |
 | This game is Relaxing | 25,974 |
 | This game is Highly Recommended | 25,831 |
-| This game is Extremely Fun | 25,261 |
+| This game is Extremely Fun | 25,305 |
 | This game has Quickly Understood Controls | 25,102 |
 | This game has Competitive Players | 24,217 |
 | This game has Amazing Characters | 22,300 |
