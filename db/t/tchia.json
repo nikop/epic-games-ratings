@@ -1,15 +1,15 @@
 {
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
-  "Rating": 4.75,
-  "Ranking_Rating": 125,
+  "Rating": 4.76,
+  "Ranking_Rating": 112,
   "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 484,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-21T09:57:30.0588208+00:00",
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
-  "LastChanged": "2023-04-14T22:57:44.0491354+00:00",
+  "LastChanged": "2023-04-17T22:57:22.5710362+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-27T01:58:07.9260384+00:00",
@@ -90,6 +90,12 @@
     {
       "Time": "2023-04-14T22:57:44.0491356+00:00",
       "Rating": 4.75,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-17T22:57:22.5710363+00:00",
+      "Rating": 4.76,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
