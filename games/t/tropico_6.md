@@ -1,16 +1,16 @@
 # Tropico 6
-Rating: 4.66 (Ranked 270)  
+Rating: 4.67 (Ranked 256)  
 Number of Ratings: 398  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 102  (Ranked 313)  
-Sum: 737 (Ranked 248)  
+Sum: 738 (Ranked 248)  
 Diff (max vs sum): 65
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Great for Beginners | 102 |
 | This game has Quickly Understood Controls | 91 |
-| This game is Relaxing | 87 |
+| This game is Relaxing | 88 |
 | This game is Highly Recommended | 83 |
 | This game has Amazing Storytelling | 82 |
 | This game is Educational | 81 |
@@ -104,3 +104,4 @@ Diff (max vs sum): 65
 | 2023-04-10 | 4.66 | - | 91 |
 | 2023-04-13 | 4.66 | - | 91 |
 | 2023-04-16 | 4.66 | - | 102 |
+| 2023-04-17 | 4.67 | - | 102 |

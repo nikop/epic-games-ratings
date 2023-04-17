@@ -1,23 +1,23 @@
 # Honkai Impact 3rd
 Rating: 4.49 (Ranked 541)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 2,155  (Ranked 98)  
-Sum: 7,027 (Ranked 101)  
+Max (Character Customization): 2,165  (Ranked 97)  
+Sum: 7,044 (Ranked 100)  
 Diff (max vs sum): -3
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 2,155 |
+| This game has Inclusive Character Customization | 2,165 |
 | This game has Great Boss Battles | 1,573 |
 | This game is Great for Quick Sessions | 376 |
-| This game has Diverse Characters | 361 |
+| This game has Diverse Characters | 365 |
 | This game is Great for Beginners | 348 |
 | This game is Highly Recommended | 339 |
 | This game has Amazing Characters | 333 |
 | This game has Beautiful Visuals | 329 |
 | This game has Quickly Understood Controls | 321 |
+| This game is Extremely Fun | 310 |
 | This game has Amazing Storytelling | 309 |
-| This game is Extremely Fun | 307 |
 | This game is Relaxing | 276 |
 | This game has Challenging Combat | 28 |
 | This game has a Kind Community | 22 |
@@ -80,4 +80,4 @@ Diff (max vs sum): -3
 | 2023-04-14 | 4.49 | - | 2,135 |
 | 2023-04-15 | 4.49 | - | 2,146 |
 | 2023-04-16 | 4.49 | - | 2,155 |
-| 2023-04-17 | 4.49 | - | 2,155 |
+| 2023-04-17 | 4.49 | - | 2,165 |

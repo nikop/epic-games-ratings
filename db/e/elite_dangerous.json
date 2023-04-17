@@ -6,11 +6,11 @@
   "Ranking_Popularity": 101,
   "Ranking_PopularitySum": 71,
   "NumberOfRatings": 6856,
-  "NumberOfAwards": 11838,
+  "NumberOfAwards": 11841,
   "NumberOfAwardsMax": 2065,
   "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
-  "LastChanged": "2023-04-17T18:57:21.7008852+00:00",
+  "LastChanged": "2023-04-17T19:57:32.2932804+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:28.2143306+00:00",
@@ -3414,6 +3414,12 @@
       "Rating": 4.64,
       "NumberOfAwards": 11838,
       "NumberOfAwardsMax": 2065
+    },
+    {
+      "Time": "2023-04-17T19:57:32.2932807+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 11841,
+      "NumberOfAwardsMax": 2065
     }
   ],
   "Tags": [
@@ -3457,7 +3463,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1766
+      "Count": 1769
     }
   ]
 }

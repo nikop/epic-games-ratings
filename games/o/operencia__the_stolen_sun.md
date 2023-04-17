@@ -1,5 +1,5 @@
 # Operencia: The Stolen Sun
-Rating: 4.41 (Ranked 645)  
+Rating: 4.41 (Ranked 646)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  

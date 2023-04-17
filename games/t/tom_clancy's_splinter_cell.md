@@ -1,5 +1,5 @@
 # Tom Clancy's Splinter Cell
-Rating: 4.34 (Ranked 716)  
+Rating: 4.34 (Ranked 715)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  

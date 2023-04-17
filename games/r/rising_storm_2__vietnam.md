@@ -3,7 +3,7 @@ Rating: 4.50 (Ranked 524)
 Number of Ratings: 2,871  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 636  (Ranked 160)  
-Sum: 5,872 (Ranked 112)  
+Sum: 5,873 (Ranked 112)  
 Diff (max vs sum): 48
 ## Awards
 | Award | Number of Ratings |
@@ -14,7 +14,7 @@ Diff (max vs sum): 48
 | This game has Challenging Combat | 617 |
 | This game is Highly Recommended | 616 |
 | This game has Competitive Players | 602 |
-| This game has Realistic Visuals | 567 |
+| This game has Realistic Visuals | 568 |
 | This game has Amazing Storytelling | 564 |
 | This game has Amazing Characters | 522 |
 | This game has a Competitive Community | 500 |
