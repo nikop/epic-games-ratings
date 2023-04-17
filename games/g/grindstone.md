@@ -1,5 +1,5 @@
 # Grindstone
-Rating: 4.84 (Ranked 48)  
+Rating: 4.85 (Ranked 37)  
 Number of Ratings: 63  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
@@ -47,3 +47,4 @@ Diff (max vs sum): 0
 | 2022-12-06 | 4.83 | - | - |
 | 2023-01-13 | 4.84 | - | - |
 | 2023-03-31 | 4.84 | - | 0 |
+| 2023-04-17 | 4.85 | - | 0 |
