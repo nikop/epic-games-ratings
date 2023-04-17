@@ -1,5 +1,5 @@
 # The Elder Scrolls V: Skyrim Special Edition
-Rating: 4.86 (Ranked 30)  
+Rating: 4.86 (Ranked 29)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 1,186  (Ranked 120)  
 Sum: 2,686 (Ranked 157)  

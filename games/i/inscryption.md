@@ -1,5 +1,5 @@
 # Inscryption
-Rating: 4.86 (Ranked 30)  
+Rating: 4.86 (Ranked 29)  
 Number of Ratings: 771  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Challenging Puzzles): 328  (Ranked 208)  

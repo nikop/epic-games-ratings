@@ -1,5 +1,5 @@
 # Blasphemous
-Rating: 4.87 (Ranked 25)  
+Rating: 4.86 (Ranked 29)  
 Number of Ratings: 205  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 136  (Ranked 284)  
@@ -79,3 +79,4 @@ Diff (max vs sum): -93
 | 2023-01-24 | 4.86 | - | - |
 | 2023-02-06 | 4.87 | - | - |
 | 2023-04-08 | 4.87 | - | 136 |
+| 2023-04-17 | 4.86 | - | 136 |

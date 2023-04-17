@@ -6,11 +6,11 @@
   "Ranking_Popularity": 7,
   "Ranking_PopularitySum": 8,
   "NumberOfRatings": 102658,
-  "NumberOfAwards": 339748,
+  "NumberOfAwards": 339768,
   "NumberOfAwardsMax": 134065,
   "MaxAwardTitle": "Impact the Story",
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-04-17T16:57:21.7951709+00:00",
+  "LastChanged": "2023-04-17T17:57:33.5786085+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:15.0342453+00:00",
@@ -4524,6 +4524,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 339748,
       "NumberOfAwardsMax": 134065
+    },
+    {
+      "Time": "2023-04-17T17:57:33.5786086+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 339768,
+      "NumberOfAwardsMax": 134065
     }
   ],
   "Tags": [
@@ -4609,7 +4615,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 9036
+      "Count": 9056
     }
   ]
 }
