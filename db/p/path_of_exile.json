@@ -3,14 +3,14 @@
   "Name": "Path of Exile",
   "Rating": 4.61,
   "Ranking_Rating": 350,
-  "Ranking_Popularity": 89,
+  "Ranking_Popularity": 88,
   "Ranking_PopularitySum": 84,
   "NumberOfRatings": 3102,
-  "NumberOfAwards": 8543,
-  "NumberOfAwardsMax": 2415,
+  "NumberOfAwards": 8552,
+  "NumberOfAwardsMax": 2419,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:16:56.6558117+00:00",
-  "LastChanged": "2023-04-17T01:56:49.7627519+00:00",
+  "LastChanged": "2023-04-17T03:56:53.2571075+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:56.655812+00:00",
@@ -2820,6 +2820,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 8543,
       "NumberOfAwardsMax": 2415
+    },
+    {
+      "Time": "2023-04-17T03:56:53.2571077+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 8552,
+      "NumberOfAwardsMax": 2419
     }
   ],
   "Tags": [
@@ -2827,13 +2833,13 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 2415
+      "Count": 2419
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2109
+      "Count": 2112
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2863,7 +2869,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 544
+      "Count": 546
     },
     {
       "Text": "This game has Obsessive Gameplay",

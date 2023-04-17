@@ -99,7 +99,7 @@
 | 91 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 363 | 203 |
 | 91 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 116 | 298 |
 | 91 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 484 |
-| 100 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,516 | 65 |
+| 100 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,516 | 66 |
 | 100 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,642 | 36 |
 | 100 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 17,486 | 18 |
 | 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 903 | 140 |
@@ -191,7 +191,7 @@
 | 177 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 0 | 484 |
 | 177 | [Townscaper](games/t/townscaper.md) | 4.71 | 0 | 484 |
 | 191 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 0 | 484 |
-| 191 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,478 | 67 |
+| 191 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,482 | 67 |
 | 191 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 0 | 484 |
 | 191 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 300 | 220 |
 | 191 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,068 | 70 |
@@ -366,7 +366,7 @@
 | 350 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 0 | 484 |
 | 350 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,061 | 125 |
 | 350 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 484 |
-| 350 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,415 | 89 |
+| 350 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,419 | 88 |
 | 350 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 401 | 192 |
 | 350 | [Road 96](games/r/road_96.md) | 4.61 | 0 | 484 |
 | 350 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,057 | 127 |
@@ -692,19 +692,19 @@
 | 690 | [Core](games/c/core.md) | 4.37 | 724 | 151 |
 | 690 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 484 |
 | 690 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 12,216 | 27 |
+| 690 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 0 | 484 |
 | 690 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.37 | 0 | 484 |
 | 690 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,127 | 99 |
 | 690 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 484 |
-| 696 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 267 |
-| 696 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 46 | 387 |
-| 696 | [Encased](games/e/encased.md) | 4.36 | 123 | 293 |
-| 696 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.36 | 0 | 484 |
-| 696 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 484 |
-| 696 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 457 |
-| 696 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 47 | 386 |
-| 696 | [The Silent Age](games/t/the_silent_age.md) | 4.36 | 0 | 484 |
-| 696 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 0 | 484 |
-| 696 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 484 |
+| 697 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 267 |
+| 697 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 46 | 387 |
+| 697 | [Encased](games/e/encased.md) | 4.36 | 123 | 293 |
+| 697 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 484 |
+| 697 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 457 |
+| 697 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 47 | 386 |
+| 697 | [The Silent Age](games/t/the_silent_age.md) | 4.36 | 0 | 484 |
+| 697 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 0 | 484 |
+| 697 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 484 |
 | 706 | [Among Trees](games/a/among_trees.md) | 4.35 | 0 | 484 |
 | 706 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 484 |
 | 706 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 90 | 329 |
@@ -760,7 +760,7 @@
 | 752 | [The Fall](games/t/the_fall.md) | 4.29 | 0 | 484 |
 | 759 | [Chess Ultra](games/c/chess_ultra.md) | 4.28 | 0 | 484 |
 | 759 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 484 |
-| 759 | [Rage 2](games/r/rage_2.md) | 4.28 | 2,417 | 88 |
+| 759 | [Rage 2](games/r/rage_2.md) | 4.28 | 2,417 | 89 |
 | 759 | [Steelrising](games/s/steelrising.md) | 4.28 | 0 | 484 |
 | 763 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 22 | 465 |
 | 763 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 0 | 484 |
@@ -872,7 +872,7 @@
 | 868 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 0 | 484 |
 | 871 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 484 |
 | 871 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 1,485 | 111 |
-| 871 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,514 | 66 |
+| 871 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,517 | 65 |
 | 871 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 484 |
 | 875 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 484 |
 | 876 | [Banished](games/b/banished.md) | 3.96 | 0 | 484 |

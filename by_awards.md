@@ -64,9 +64,9 @@
 | 62 | [Rogue Company](games/r/rogue_company.md) | 4,794 | 4.34 | 715 |
 | 63 | [MultiVersus](games/m/multiversus.md) | 4,730 | 4.56 | 437 |
 | 64 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4,684 | 4.75 | 125 |
-| 65 | [DEATH STRANDING](games/d/death_stranding.md) | 4,516 | 4.78 | 100 |
-| 66 | [Shop Titans](games/s/shop_titans.md) | 4,514 | 3.98 | 871 |
-| 67 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,478 | 4.70 | 191 |
+| 65 | [Shop Titans](games/s/shop_titans.md) | 4,517 | 3.98 | 871 |
+| 66 | [DEATH STRANDING](games/d/death_stranding.md) | 4,516 | 4.78 | 100 |
+| 67 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,482 | 4.70 | 191 |
 | 68 | [Cities: Skylines](games/c/cities__skylines.md) | 4,283 | 4.65 | 285 |
 | 69 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,182 | 4.70 | 191 |
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,068 | 4.70 | 191 |
@@ -87,8 +87,8 @@
 | 85 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 2,997 | 4.57 | 422 |
 | 86 | [Hades](games/h/hades.md) | 2,993 | 4.92 | 4 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 2,944 | 4.68 | 235 |
-| 88 | [Rage 2](games/r/rage_2.md) | 2,417 | 4.28 | 759 |
-| 89 | [Path of Exile](games/p/path_of_exile.md) | 2,415 | 4.61 | 350 |
+| 88 | [Path of Exile](games/p/path_of_exile.md) | 2,419 | 4.61 | 350 |
+| 89 | [Rage 2](games/r/rage_2.md) | 2,417 | 4.28 | 759 |
 | 90 | [Trackmania](games/t/trackmania.md) | 2,394 | 4.67 | 256 |
 | 91 | [Among Us](games/a/among_us.md) | 2,360 | 4.58 | 404 |
 | 92 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,330 | 4.80 | 79 |
@@ -266,7 +266,7 @@
 | 262 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 179 | 4.63 | 326 |
 | 265 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 173 | 4.21 | 789 |
 | 266 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 171 | 4.41 | 644 |
-| 267 | [Cris Tales](games/c/cris_tales.md) | 170 | 4.36 | 696 |
+| 267 | [Cris Tales](games/c/cris_tales.md) | 170 | 4.36 | 697 |
 | 268 | [Space Punks](games/s/space_punks.md) | 169 | 4.16 | 823 |
 | 269 | [Pinball FX](games/p/pinball_fx.md) | 168 | 4.03 | 863 |
 | 269 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 168 | 4.30 | 742 |
@@ -292,7 +292,7 @@
 | 290 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 125 | 3.91 | 883 |
 | 290 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 125 | 4.29 | 752 |
 | 292 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 124 | 4.29 | 752 |
-| 293 | [Encased](games/e/encased.md) | 123 | 4.36 | 696 |
+| 293 | [Encased](games/e/encased.md) | 123 | 4.36 | 697 |
 | 294 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 122 | 4.20 | 795 |
 | 295 | [Star Stable Online](games/s/star_stable_online.md) | 121 | 4.41 | 644 |
 | 296 | [Aven Colony](games/a/aven_colony.md) | 119 | 4.20 | 795 |
@@ -385,10 +385,10 @@
 | 378 | [The Escapists 2](games/t/the_escapists_2.md) | 50 | 4.58 | 404 |
 | 384 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 48 | 4.65 | 285 |
 | 384 | [Session: Skate Sim](games/s/session__skate_sim.md) | 48 | 4.65 | 285 |
-| 386 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 47 | 4.36 | 696 |
+| 386 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 47 | 4.36 | 697 |
 | 387 | [ATOM RPG](games/a/atom_rpg.md) | 46 | 4.45 | 594 |
 | 387 | [AXIOM VERGE](games/a/axiom_verge.md) | 46 | 4.56 | 437 |
-| 387 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 46 | 4.36 | 696 |
+| 387 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 46 | 4.36 | 697 |
 | 387 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 46 | 4.56 | 437 |
 | 391 | [Ancient Enemy](games/a/ancient_enemy.md) | 45 | 3.95 | 877 |
 | 391 | [Expeditions: Rome](games/e/expeditions__rome.md) | 45 | 4.64 | 310 |
@@ -458,7 +458,7 @@
 | 452 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 26 | 4.81 | 70 |
 | 457 | [DOOM II](games/d/doom_ii.md) | 25 | 4.73 | 155 |
 | 457 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 25 | 4.57 | 422 |
-| 457 | [Spirit of the North](games/s/spirit_of_the_north.md) | 25 | 4.36 | 696 |
+| 457 | [Spirit of the North](games/s/spirit_of_the_north.md) | 25 | 4.36 | 697 |
 | 460 | [Solar Ash](games/s/solar_ash.md) | 24 | 4.66 | 270 |
 | 461 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 23 | 4.75 | 125 |
 | 461 | [ELEX](games/e/elex.md) | 23 | 4.41 | 644 |
