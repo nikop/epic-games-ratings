@@ -1,5 +1,5 @@
 # Recipe for Disaster
-Rating: 4.20 (Ranked 795)  
+Rating: 4.21 (Ranked 789)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  
@@ -42,3 +42,4 @@ Diff (max vs sum): 0
 | 2023-04-11 | 4.20 | - | 0 |
 | 2023-04-12 | 4.21 | - | 0 |
 | 2023-04-16 | 4.20 | - | 0 |
+| 2023-04-17 | 4.21 | - | 0 |
