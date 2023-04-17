@@ -3,13 +3,13 @@ Rating: 3.78 (Ranked 893)
 Number of Ratings: 22,103  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 1,019  (Ranked 130)  
-Sum: 9,017 (Ranked 81)  
+Sum: 9,018 (Ranked 81)  
 Diff (max vs sum): 49
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Extremely Fun | 1,019 |
-| This game has Quickly Understood Controls | 987 |
+| This game has Quickly Understood Controls | 988 |
 | This game is Highly Recommended | 964 |
 | This game has Amazing Characters | 948 |
 | This game is Relaxing | 946 |

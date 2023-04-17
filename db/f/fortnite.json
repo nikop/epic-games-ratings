@@ -1,8 +1,8 @@
 {
   "ID": "fn",
   "Name": "Fortnite",
-  "Rating": 4.29,
-  "Ranking_Rating": 752,
+  "Rating": 4.3,
+  "Ranking_Rating": 743,
   "Ranking_Popularity": 1,
   "Ranking_PopularitySum": 1,
   "NumberOfRatings": 2283925,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 1230626,
   "MaxAwardTitle": "Competitive Players",
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
-  "LastChanged": "2023-04-17T10:57:10.4930307+00:00",
+  "LastChanged": "2023-04-17T11:56:59.1657671+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:41.6739551+00:00",
@@ -4347,6 +4347,12 @@
     {
       "Time": "2023-04-17T10:57:10.493031+00:00",
       "Rating": 4.29,
+      "NumberOfAwards": 8913588,
+      "NumberOfAwardsMax": 1230626
+    },
+    {
+      "Time": "2023-04-17T11:56:59.1657673+00:00",
+      "Rating": 4.3,
       "NumberOfAwards": 8913588,
       "NumberOfAwardsMax": 1230626
     }

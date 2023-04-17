@@ -1,9 +1,9 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
-| 1 | [Fortnite](games/f/fortnite.md) | 1,230,626 | 4.29 | 752 |
+| 1 | [Fortnite](games/f/fortnite.md) | 1,230,626 | 4.30 | 743 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 383,888 | 4.51 | 509 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 286,720 | 4.68 | 235 |
-| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 180,087 | 4.19 | 809 |
+| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 180,181 | 4.19 | 809 |
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 158,381 | 4.69 | 213 |
 | 6 | [Fall Guys](games/f/fall_guys.md) | 137,576 | 4.53 | 485 |
 | 7 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 133,859 | 4.89 | 13 |
@@ -15,10 +15,10 @@
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 29,449 | 4.74 | 141 |
 | 14 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,354 | 4.65 | 285 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 26,504 | 4.52 | 498 |
-| 16 | [Dauntless](games/d/dauntless.md) | 19,436 | 4.53 | 485 |
+| 16 | [Dauntless](games/d/dauntless.md) | 19,458 | 4.53 | 485 |
 | 17 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 17,770 | 4.57 | 423 |
 | 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 17,545 | 4.78 | 100 |
-| 19 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 15,885 | 4.55 | 462 |
+| 19 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 16,981 | 4.55 | 462 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 14,493 | 4.89 | 13 |
 | 21 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,313 | 4.58 | 406 |
 | 22 | [Warframe](games/w/warframe.md) | 14,085 | 4.61 | 350 |
@@ -154,7 +154,7 @@
 | 152 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 715 | 4.56 | 438 |
 | 153 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 690 | 4.59 | 389 |
 | 154 | [Disco Elysium](games/d/disco_elysium.md) | 683 | 4.86 | 30 |
-| 155 | [Neverwinter](games/n/neverwinter.md) | 669 | 4.29 | 752 |
+| 155 | [Neverwinter](games/n/neverwinter.md) | 669 | 4.29 | 753 |
 | 156 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 667 | 4.44 | 614 |
 | 157 | [Neon Abyss](games/n/neon_abyss.md) | 657 | 4.68 | 235 |
 | 158 | [Subnautica](games/s/subnautica.md) | 644 | 4.84 | 48 |
@@ -290,8 +290,8 @@
 | 288 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 130 | 4.56 | 438 |
 | 289 | [Alien: Isolation ](games/a/alien__isolation.md) | 127 | 4.61 | 350 |
 | 289 | [Atomicrops](games/a/atomicrops.md) | 127 | 4.88 | 19 |
-| 291 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 125 | 4.29 | 752 |
-| 292 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 124 | 4.29 | 752 |
+| 291 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 125 | 4.29 | 753 |
+| 292 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 124 | 4.29 | 753 |
 | 293 | [Encased](games/e/encased.md) | 123 | 4.36 | 698 |
 | 294 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 122 | 4.20 | 797 |
 | 295 | [Star Stable Online](games/s/star_stable_online.md) | 121 | 4.41 | 645 |
@@ -363,8 +363,8 @@
 | 360 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 66 | 4.71 | 177 |
 | 360 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 66 | 4.43 | 629 |
 | 360 | [Symphony of War](games/s/symphony_of_war.md) | 66 | 4.64 | 311 |
+| 364 | [DOOM 3](games/d/doom_3.md) | 65 | 4.61 | 350 |
 | 364 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 65 | 4.50 | 524 |
-| 365 | [DOOM 3](games/d/doom_3.md) | 64 | 4.61 | 350 |
 | 366 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 63 | 4.51 | 509 |
 | 367 | [In Sound Mind](games/i/in_sound_mind.md) | 62 | 4.60 | 375 |
 | 368 | [Arcadegeddon](games/a/arcadegeddon.md) | 61 | 4.49 | 541 |
@@ -400,7 +400,7 @@
 | 397 | [Desperados III](games/d/desperados_iii.md) | 44 | 4.84 | 48 |
 | 397 | [The Alto Collection](games/t/the_alto_collection.md) | 44 | 4.70 | 191 |
 | 397 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 44 | 4.18 | 815 |
-| 401 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 43 | 4.29 | 752 |
+| 401 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 43 | 4.29 | 753 |
 | 402 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 42 | 4.30 | 743 |
 | 403 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 41 | 3.72 | 899 |
 | 403 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 41 | 4.75 | 125 |
@@ -432,11 +432,11 @@
 | 428 | [DOOM (1993)](games/d/doom_(1993).md) | 32 | 4.81 | 70 |
 | 428 | [MythForce](games/m/mythforce.md) | 32 | 4.51 | 509 |
 | 428 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 32 | 4.55 | 462 |
+| 428 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 32 | 4.81 | 70 |
 | 428 | [TUNIC](games/t/tunic.md) | 32 | 4.85 | 37 |
-| 434 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 31 | 4.24 | 776 |
-| 434 | [Outward](games/o/outward.md) | 31 | 4.55 | 462 |
-| 434 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 31 | 4.81 | 70 |
-| 434 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 31 | 4.38 | 682 |
+| 435 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 31 | 4.24 | 776 |
+| 435 | [Outward](games/o/outward.md) | 31 | 4.55 | 462 |
+| 435 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 31 | 4.38 | 682 |
 | 438 | [Isonzo](games/i/isonzo.md) | 30 | 4.56 | 438 |
 | 438 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 30 | 4.42 | 635 |
 | 438 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 30 | 4.68 | 235 |
