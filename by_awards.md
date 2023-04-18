@@ -65,11 +65,11 @@
 | 63 | [MultiVersus](games/m/multiversus.md) | 4,730 | 4.56 | 439 |
 | 64 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4,695 | 4.75 | 126 |
 | 65 | [DEATH STRANDING](games/d/death_stranding.md) | 4,529 | 4.78 | 100 |
-| 66 | [Shop Titans](games/s/shop_titans.md) | 4,517 | 3.98 | 872 |
+| 66 | [Shop Titans](games/s/shop_titans.md) | 4,522 | 3.98 | 872 |
 | 67 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,482 | 4.70 | 191 |
-| 68 | [Cities: Skylines](games/c/cities__skylines.md) | 4,295 | 4.65 | 286 |
+| 68 | [Cities: Skylines](games/c/cities__skylines.md) | 4,300 | 4.65 | 286 |
 | 69 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,188 | 4.70 | 191 |
-| 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,079 | 4.70 | 191 |
+| 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,086 | 4.70 | 191 |
 | 71 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,054 | 4.51 | 509 |
 | 72 | [Chivalry 2](games/c/chivalry_2.md) | 3,965 | 4.61 | 350 |
 | 73 | [God of War](games/g/god_of_war.md) | 3,938 | 4.89 | 12 |
@@ -77,7 +77,7 @@
 | 75 | [Days Gone](games/d/days_gone.md) | 3,719 | 4.69 | 213 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 3,716 | 4.56 | 439 |
 | 77 | [SMITE](games/s/smite.md) | 3,638 | 4.45 | 595 |
-| 78 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,564 | 4.30 | 744 |
+| 78 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,565 | 4.30 | 744 |
 | 79 | [Gloomhaven](games/g/gloomhaven.md) | 3,426 | 4.47 | 570 |
 | 80 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,315 | 4.68 | 235 |
 | 81 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,210 | 4.46 | 582 |
@@ -198,11 +198,11 @@
 | 196 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 391 | 4.49 | 541 |
 | 197 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 390 | 4.79 | 91 |
 | 198 | [Slime Rancher](games/s/slime_rancher.md) | 385 | 4.83 | 54 |
-| 199 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 380 | 4.40 | 661 |
+| 199 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 381 | 4.40 | 661 |
 | 200 | [Warface](games/w/warface.md) | 378 | 3.92 | 881 |
 | 201 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 374 | 4.61 | 350 |
-| 202 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 367 | 3.99 | 869 |
-| 203 | [Football Manager 2023](games/f/football_manager_2023.md) | 364 | 4.75 | 126 |
+| 202 | [Football Manager 2023](games/f/football_manager_2023.md) | 370 | 4.75 | 126 |
+| 203 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 367 | 3.99 | 869 |
 | 204 | [Nuclear Throne](games/n/nuclear_throne.md) | 363 | 4.79 | 91 |
 | 205 | [For The King](games/f/for_the_king.md) | 357 | 4.70 | 191 |
 | 206 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 343 | 4.61 | 350 |
@@ -317,12 +317,12 @@
 | 315 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 100 | 4.80 | 79 |
 | 316 | [Just Die Already](games/j/just_die_already.md) | 98 | 4.52 | 498 |
 | 316 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 98 | 4.85 | 36 |
+| 318 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 97 | 4.78 | 100 |
 | 318 | [The Captain](games/t/the_captain.md) | 97 | 4.44 | 614 |
-| 319 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 96 | 4.75 | 126 |
-| 319 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 96 | 4.50 | 525 |
-| 319 | [Scavengers](games/s/scavengers.md) | 96 | 4.18 | 814 |
-| 319 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 96 | 4.78 | 100 |
-| 319 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 96 | 4.47 | 570 |
+| 320 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 96 | 4.75 | 126 |
+| 320 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 96 | 4.50 | 525 |
+| 320 | [Scavengers](games/s/scavengers.md) | 96 | 4.18 | 814 |
+| 320 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 96 | 4.47 | 570 |
 | 324 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 94 | 4.86 | 28 |
 | 325 | [Verdun](games/v/verdun.md) | 93 | 4.53 | 485 |
 | 326 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 92 | 4.41 | 646 |

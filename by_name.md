@@ -127,7 +127,7 @@
 | [Chorus](games/c/chorus.md) | 4.47 | 570 | 32 | 428 |
 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 844 | 0 | 484 |
 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 823 | 0 | 484 |
-| [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 286 | 4,295 | 68 |
+| [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 286 | 4,300 | 68 |
 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 69 | 0 | 484 |
 | [City of Brass](games/c/city_of_brass.md) | 4.22 | 787 | 0 | 484 |
 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.25 | 772 | 21 | 472 |
@@ -260,7 +260,7 @@
 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 177 | 0 | 484 |
 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 814 | 0 | 484 |
 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 177 | 6,127 | 51 |
-| [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 191 | 4,079 | 70 |
+| [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 191 | 4,086 | 70 |
 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 884 | 103 | 311 |
 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 439 | 27 | 446 |
 | [Fez](games/f/fez.md) | 4.71 | 177 | 23 | 461 |
@@ -275,7 +275,7 @@
 | [Flatout](games/f/flatout.md) | 4.19 | 808 | 0 | 484 |
 | [Flatout 2](games/f/flatout_2.md) | 4.93 | 3 | 0 | 484 |
 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 79 | 6,227 | 50 |
-| [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 126 | 364 | 203 |
+| [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 126 | 370 | 202 |
 | [For The King](games/f/for_the_king.md) | 4.70 | 191 | 357 | 205 |
 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 614 | 0 | 484 |
 | [Forspoken](games/f/forspoken.md) | 4.11 | 841 | 0 | 484 |
@@ -344,7 +344,7 @@
 | [Hob](games/h/hob.md) | 4.57 | 422 | 0 | 484 |
 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 100 | 17,602 | 19 |
 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 541 | 2,165 | 97 |
-| [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 869 | 367 | 202 |
+| [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 869 | 367 | 203 |
 | [Horace](games/h/horace.md) | 4.50 | 525 | 0 | 484 |
 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 439 | 132 | 287 |
 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 106 | 3,876 | 74 |
@@ -381,7 +381,7 @@
 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 406 | 36 | 414 |
 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 334 | 527 | 176 |
 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 141 | 574 | 166 |
-| [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 744 | 3,564 | 78 |
+| [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 744 | 3,565 | 78 |
 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 498 | 98 | 316 |
 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.67 | 256 | 0 | 484 |
 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 680 | 540 | 174 |
@@ -400,7 +400,7 @@
 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 112 | 0 | 484 |
 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 177 | 7,091 | 43 |
 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 60 | 474 | 183 |
-| [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 126 | 96 | 319 |
+| [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 126 | 96 | 320 |
 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 91 | 879 | 141 |
 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 272 | 0 | 484 |
 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 485 | 116 | 298 |
@@ -452,7 +452,7 @@
 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 91 | 5,795 | 55 |
 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 191 | 1,805 | 104 |
 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 69 | 111 | 306 |
-| [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 525 | 96 | 319 |
+| [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 525 | 96 | 320 |
 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 595 | 26 | 452 |
 | [Minit](games/m/minit.md) | 4.56 | 439 | 0 | 484 |
 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 880 | 0 | 484 |
@@ -601,7 +601,7 @@
 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 112 | 0 | 484 |
 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 91 | 0 | 484 |
 | [Saints Row](games/s/saints_row.md) | 3.78 | 893 | 1,019 | 130 |
-| [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 661 | 380 | 199 |
+| [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 661 | 381 | 199 |
 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 646 | 2,157 | 98 |
 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.72 | 164 | 0 | 484 |
 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 741 | 920 | 139 |
@@ -610,7 +610,7 @@
 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 570 | 0 | 484 |
 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 18 | 9,062 | 34 |
 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 775 | 0 | 484 |
-| [Scavengers](games/s/scavengers.md) | 4.18 | 814 | 96 | 319 |
+| [Scavengers](games/s/scavengers.md) | 4.18 | 814 | 96 | 320 |
 | [Scorn](games/s/scorn.md) | 4.47 | 570 | 0 | 484 |
 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 106 | 35 | 419 |
 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 715 | 0 | 484 |
@@ -630,7 +630,7 @@
 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 558 | 0 | 484 |
 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 614 | 0 | 484 |
 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.44 | 614 | 0 | 484 |
-| [Shop Titans](games/s/shop_titans.md) | 3.98 | 872 | 4,517 | 66 |
+| [Shop Titans](games/s/shop_titans.md) | 3.98 | 872 | 4,522 | 66 |
 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.26 | 767 | 0 | 484 |
 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 141 | 29,496 | 13 |
 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.05 | 860 | 0 | 484 |
@@ -701,10 +701,10 @@
 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.69 | 213 | 0 | 484 |
 | [Superliminal](games/s/superliminal.md) | 4.80 | 79 | 0 | 484 |
 | [Supraland](games/s/supraland.md) | 4.61 | 350 | 7,597 | 39 |
-| [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 100 | 96 | 319 |
+| [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 100 | 97 | 318 |
 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 570 | 0 | 484 |
 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 375 | 429 | 187 |
-| [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 570 | 96 | 319 |
+| [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 570 | 96 | 320 |
 | [Suzerain](games/s/suzerain.md) | 4.73 | 155 | 0 | 484 |
 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 744 | 168 | 269 |
 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 256 | 0 | 484 |

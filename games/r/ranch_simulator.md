@@ -3,8 +3,8 @@ Rating: 4.44 (Ranked 614)
 Number of Ratings: 338  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 45  (Ranked 391)  
-Sum: 283 (Ranked 321)  
-Diff (max vs sum): 70
+Sum: 284 (Ranked 320)  
+Diff (max vs sum): 71
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): 70
 | This game has Easy Combat | 30 |
 | This game is Extremely Fun | 27 |
 | This game has Obsessive Gameplay | 26 |
-| This game is Relaxing | 25 |
+| This game is Relaxing | 26 |
 | This game is Educational | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -117,3 +117,4 @@ Diff (max vs sum): 70
 | 2023-03-12 | 4.44 | - | - | - |
 | 2023-04-03 | 4.44 | - | 45 | 282 |
 | 2023-04-14 | 4.44 | - | 45 | 283 |
+| 2023-04-18 | 4.44 | - | 45 | 284 |
