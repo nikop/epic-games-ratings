@@ -1,8 +1,8 @@
 # Smalland: Survive the Wilds
 Rating: 4.49 (Ranked 541)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 484)  
-Sum: 0 (Ranked 484)  
+Max (): 0  (Ranked 485)  
+Sum: 0 (Ranked 485)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Count |
