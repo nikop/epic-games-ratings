@@ -1,5 +1,5 @@
 # The Machines Arena
-Rating: 4.65 (Ranked 285)  
+Rating: 4.67 (Ranked 256)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  
@@ -12,3 +12,4 @@ Diff (max vs sum): 0
 | ---- | ------ | ----------------- | ---------------- |
 | 2023-03-31 | - | - | 0 |
 | 2023-04-13 | 4.65 | - | 0 |
+| 2023-04-18 | 4.67 | - | 0 |
