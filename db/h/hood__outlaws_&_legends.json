@@ -2,15 +2,15 @@
   "ID": "5a2108f4db804040aaf44d139bd21bd1",
   "Name": "Hood: Outlaws \u0026 Legends",
   "Rating": 3.99,
-  "Ranking_Rating": 861,
-  "Ranking_Popularity": 200,
-  "Ranking_PopularitySum": 161,
+  "Ranking_Rating": 869,
+  "Ranking_Popularity": 202,
+  "Ranking_PopularitySum": 165,
   "NumberOfRatings": 12539,
-  "NumberOfAwards": 2352,
-  "NumberOfAwardsMax": 366,
+  "NumberOfAwards": 2356,
+  "NumberOfAwardsMax": 367,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:17:31.7735861+00:00",
-  "LastChanged": "2022-10-31T02:30:26.8029058+00:00",
+  "LastChanged": "2023-04-13T03:57:04.5250276+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:31.7735863+00:00",
@@ -2274,6 +2274,30 @@
     {
       "Time": "2022-10-31T02:30:26.8029061+00:00",
       "Rating": 3.99
+    },
+    {
+      "Time": "2023-04-01T20:57:07.256549+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 2353,
+      "NumberOfAwardsMax": 367
+    },
+    {
+      "Time": "2023-04-06T21:56:57.3085301+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 2354,
+      "NumberOfAwardsMax": 367
+    },
+    {
+      "Time": "2023-04-12T22:56:59.538292+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 2355,
+      "NumberOfAwardsMax": 367
+    },
+    {
+      "Time": "2023-04-13T03:57:04.5250277+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 2356,
+      "NumberOfAwardsMax": 367
     }
   ],
   "Tags": [
@@ -2281,13 +2305,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 366
+      "Count": 367
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 338
+      "Count": 340
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2299,7 +2323,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 342
+      "Count": 343
     },
     {
       "Text": "This game is Extremely Fun",

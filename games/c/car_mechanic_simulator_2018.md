@@ -1,23 +1,23 @@
 # Car Mechanic Simulator 2018
-Rating: 4.49 (Ranked 537)  
+Rating: 4.49 (Ranked 541)  
 Number of Ratings: 38,343  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Relaxing): 1,962  (Ranked 101)  
-Sum: 15,272 (Ranked 57)  
+Max (Relaxing): 1,967  (Ranked 102)  
+Sum: 15,314 (Ranked 58)  
 Diff (max vs sum): 44
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Relaxing | 1,962 |
-| This game is Educational | 1,943 |
-| This game is Great for Beginners | 1,942 |
-| This game has Quickly Understood Controls | 1,899 |
-| This game is Extremely Fun | 1,791 |
-| This game is Highly Recommended | 1,739 |
-| This game has Amazing Storytelling | 1,677 |
+| This game is Relaxing | 1,967 |
+| This game is Great for Beginners | 1,948 |
+| This game is Educational | 1,944 |
+| This game has Quickly Understood Controls | 1,904 |
+| This game is Extremely Fun | 1,798 |
+| This game is Highly Recommended | 1,747 |
+| This game has Amazing Storytelling | 1,683 |
 | This game has Obsessive Gameplay | 1,598 |
-| This game has Amazing Characters | 1,250 |
-| This game has a Creative Community | 1,069 |
+| This game has Amazing Characters | 1,252 |
+| This game has a Creative Community | 1,071 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -85,4 +85,19 @@ Diff (max vs sum): 44
 | 2022-09-21 | 4.49 | 38,264 | - |
 | 2022-09-22 | 4.49 | 38,318 | - |
 | 2022-09-23 | 4.49 | 38,343 | - |
-| 2023-03-31 | 4.49 | - | 1,962 |
+| 2023-03-31 | 4.49 | - | 1,963 |
+| 2023-04-01 | 4.49 | - | 1,964 |
+| 2023-04-02 | 4.49 | - | 1,964 |
+| 2023-04-03 | 4.49 | - | 1,965 |
+| 2023-04-04 | 4.49 | - | 1,965 |
+| 2023-04-05 | 4.49 | - | 1,966 |
+| 2023-04-06 | 4.49 | - | 1,966 |
+| 2023-04-08 | 4.49 | - | 1,966 |
+| 2023-04-09 | 4.49 | - | 1,966 |
+| 2023-04-10 | 4.49 | - | 1,966 |
+| 2023-04-11 | 4.49 | - | 1,966 |
+| 2023-04-12 | 4.49 | - | 1,966 |
+| 2023-04-14 | 4.49 | - | 1,967 |
+| 2023-04-15 | 4.49 | - | 1,967 |
+| 2023-04-16 | 4.49 | - | 1,967 |
+| 2023-04-17 | 4.49 | - | 1,967 |

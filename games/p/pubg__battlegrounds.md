@@ -1,17 +1,17 @@
 # PUBG: BATTLEGROUNDS
-Rating: 3.98 (Ranked 863)  
+Rating: 3.98 (Ranked 872)  
 ## Popularity (Based on Awards)
-Max (Competitive Players): 1,275  (Ranked 118)  
-Sum: 4,156 (Ranked 128)  
-Diff (max vs sum): -10
+Max (Competitive Players): 1,502  (Ranked 111)  
+Sum: 4,879 (Ranked 122)  
+Diff (max vs sum): -11
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Competitive Players | 1,275 |
+| This game has Competitive Players | 1,502 |
+| This game has Challenging Combat | 1,307 |
+| This game is Highly Recommended | 1,199 |
 | This game has Quickly Understood Controls | 1,115 |
-| This game has Challenging Combat | 1,114 |
-| This game is Highly Recommended | 1,017 |
-| This game has a Competitive Community | 750 |
+| This game has a Competitive Community | 871 |
 | This game is Extremely Fun | 122 |
 | This game has Diverse Characters | 76 |
 | This game is Relaxing | 57 |
@@ -50,4 +50,21 @@ Diff (max vs sum): -10
 | 2023-03-14 | 3.97 | - | - |
 | 2023-03-15 | 3.97 | - | - |
 | 2023-03-16 | 3.98 | - | - |
-| 2023-03-31 | 3.98 | - | 1,275 |
+| 2023-03-31 | 3.98 | - | 1,289 |
+| 2023-04-01 | 3.98 | - | 1,305 |
+| 2023-04-02 | 3.98 | - | 1,305 |
+| 2023-04-03 | 3.98 | - | 1,323 |
+| 2023-04-04 | 3.98 | - | 1,336 |
+| 2023-04-05 | 3.98 | - | 1,348 |
+| 2023-04-06 | 3.98 | - | 1,363 |
+| 2023-04-07 | 3.98 | - | 1,374 |
+| 2023-04-08 | 3.99 | - | 1,387 |
+| 2023-04-09 | 3.99 | - | 1,400 |
+| 2023-04-10 | 3.99 | - | 1,417 |
+| 2023-04-11 | 3.99 | - | 1,426 |
+| 2023-04-12 | 3.99 | - | 1,444 |
+| 2023-04-13 | 3.99 | - | 1,455 |
+| 2023-04-14 | 3.98 | - | 1,470 |
+| 2023-04-15 | 3.98 | - | 1,470 |
+| 2023-04-16 | 3.98 | - | 1,485 |
+| 2023-04-17 | 3.98 | - | 1,502 |

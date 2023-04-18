@@ -1,22 +1,22 @@
 # Unrailed!
-Rating: 4.64 (Ranked 306)  
+Rating: 4.64 (Ranked 312)  
 Number of Ratings: 21,990  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Quickly Understood Controls): 182  (Ranked 259)  
-Sum: 1,482 (Ranked 207)  
-Diff (max vs sum): 52
+Max (Quickly Understood Controls): 183  (Ranked 260)  
+Sum: 1,489 (Ranked 207)  
+Diff (max vs sum): 53
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Quickly Understood Controls | 182 |
-| This game has Diverse Characters | 181 |
+| This game has Quickly Understood Controls | 183 |
+| This game has Diverse Characters | 182 |
 | This game is Great for Beginners | 178 |
 | This game is Extremely Fun | 178 |
-| This game is Relaxing | 176 |
-| This game has Amazing Characters | 155 |
-| This game is Highly Recommended | 149 |
+| This game is Relaxing | 177 |
+| This game has Amazing Characters | 156 |
+| This game is Highly Recommended | 151 |
 | This game has Playful Visuals | 144 |
-| This game has Amazing Storytelling | 139 |
+| This game has Amazing Storytelling | 140 |
 | This game has Obsessive Gameplay | 138 |
 | This game has Competitive Players | 37 |
 ## Ratings History
@@ -78,3 +78,9 @@ Diff (max vs sum): 52
 | 2022-09-21 | 4.64 | 21,916 | - |
 | 2022-09-22 | 4.64 | 21,972 | - |
 | 2022-09-23 | 4.64 | 21,990 | - |
+| 2023-04-04 | 4.64 | - | 182 |
+| 2023-04-06 | 4.64 | - | 182 |
+| 2023-04-07 | 4.64 | - | 183 |
+| 2023-04-10 | 4.64 | - | 183 |
+| 2023-04-11 | 4.64 | - | 183 |
+| 2023-04-15 | 4.64 | - | 183 |

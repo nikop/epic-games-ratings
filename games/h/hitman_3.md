@@ -1,22 +1,22 @@
 # HITMAN 3
-Rating: 4.78 (Ranked 99)  
+Rating: 4.78 (Ranked 100)  
 Number of Ratings: 21,082  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 8,437  (Ranked 35)  
-Sum: 63,498 (Ranked 18)  
-Diff (max vs sum): 17
+Max (Diverse Characters): 8,653  (Ranked 36)  
+Sum: 64,426 (Ranked 18)  
+Diff (max vs sum): 18
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Diverse Characters | 8,437 |
+| This game has Diverse Characters | 8,653 |
+| This game is Highly Recommended | 8,436 |
+| This game is Extremely Fun | 8,396 |
 | This game is Great for Beginners | 8,394 |
-| This game is Highly Recommended | 8,325 |
-| This game is Extremely Fun | 8,293 |
-| This game has Amazing Storytelling | 8,089 |
-| This game has Amazing Characters | 7,853 |
-| This game has Quickly Understood Controls | 7,773 |
-| This game is Relaxing | 7,738 |
-| This game has a Creative Community | 6,990 |
+| This game has Amazing Storytelling | 8,184 |
+| This game has Amazing Characters | 7,961 |
+| This game has Quickly Understood Controls | 7,853 |
+| This game is Relaxing | 7,815 |
+| This game has a Creative Community | 7,128 |
 | This game has Obsessive Gameplay | 5,956 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -113,3 +113,22 @@ Diff (max vs sum): 17
 | 2023-03-24 | 4.79 | - | - |
 | 2023-03-25 | 4.78 | - | - |
 | 2023-03-26 | 4.78 | - | - |
+| 2023-03-31 | 4.78 | - | 8,448 |
+| 2023-04-01 | 4.79 | - | 8,448 |
+| 2023-04-02 | 4.78 | - | 8,466 |
+| 2023-04-03 | 4.78 | - | 8,485 |
+| 2023-04-04 | 4.78 | - | 8,491 |
+| 2023-04-05 | 4.78 | - | 8,504 |
+| 2023-04-06 | 4.78 | - | 8,516 |
+| 2023-04-07 | 4.78 | - | 8,531 |
+| 2023-04-08 | 4.78 | - | 8,542 |
+| 2023-04-09 | 4.78 | - | 8,562 |
+| 2023-04-10 | 4.78 | - | 8,573 |
+| 2023-04-11 | 4.78 | - | 8,584 |
+| 2023-04-12 | 4.78 | - | 8,584 |
+| 2023-04-13 | 4.78 | - | 8,596 |
+| 2023-04-14 | 4.78 | - | 8,612 |
+| 2023-04-15 | 4.78 | - | 8,626 |
+| 2023-04-16 | 4.78 | - | 8,642 |
+| 2023-04-17 | 4.78 | - | 8,653 |
+| 2023-04-18 | 4.78 | - | 8,653 |

@@ -2,14 +2,14 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "Rating": 4.62,
-  "Ranking_Rating": 333,
-  "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 478,
+  "Ranking_Rating": 334,
+  "Ranking_Popularity": 484,
+  "Ranking_PopularitySum": 484,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-19T18:57:06.8658934+00:00",
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
-  "LastChanged": "2023-03-31T05:57:07.3730915+00:00",
+  "LastChanged": "2023-04-16T13:00:55.726361+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-20T18:57:15.4745633+00:00",
@@ -137,6 +137,18 @@
     },
     {
       "Time": "2023-03-31T05:57:07.3730917+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-14T05:57:13.8379394+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-16T13:00:55.7263614+00:00",
       "Rating": 4.62,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0

@@ -3,14 +3,14 @@
   "Name": "Tomb Raider GAME OF THE YEAR EDITION",
   "Rating": 4.66,
   "Ranking_Rating": 272,
-  "Ranking_Popularity": 54,
-  "Ranking_PopularitySum": 104,
+  "Ranking_Popularity": 56,
+  "Ranking_PopularitySum": 105,
   "NumberOfRatings": 20961,
-  "NumberOfAwards": 6734,
-  "NumberOfAwardsMax": 5725,
+  "NumberOfAwards": 6750,
+  "NumberOfAwardsMax": 5737,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:21:04.7609195+00:00",
-  "LastChanged": "2023-03-02T07:57:11.6778424+00:00",
+  "LastChanged": "2023-04-17T08:57:37.6890757+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:04.7609199+00:00",
@@ -1907,6 +1907,72 @@
     {
       "Time": "2023-03-02T07:57:11.6778427+00:00",
       "Rating": 4.66
+    },
+    {
+      "Time": "2023-04-02T20:57:37.6831723+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 6735,
+      "NumberOfAwardsMax": 5725
+    },
+    {
+      "Time": "2023-04-02T23:57:04.0560938+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 6736,
+      "NumberOfAwardsMax": 5725
+    },
+    {
+      "Time": "2023-04-04T07:57:17.0420494+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 6739,
+      "NumberOfAwardsMax": 5728
+    },
+    {
+      "Time": "2023-04-06T15:57:21.6208193+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 6741,
+      "NumberOfAwardsMax": 5730
+    },
+    {
+      "Time": "2023-04-06T19:57:30.4460883+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 6742,
+      "NumberOfAwardsMax": 5730
+    },
+    {
+      "Time": "2023-04-08T04:57:39.8534347+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 6745,
+      "NumberOfAwardsMax": 5733
+    },
+    {
+      "Time": "2023-04-09T14:57:35.4565159+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 6746,
+      "NumberOfAwardsMax": 5734
+    },
+    {
+      "Time": "2023-04-10T22:57:21.7045264+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 6747,
+      "NumberOfAwardsMax": 5735
+    },
+    {
+      "Time": "2023-04-13T13:57:29.7720506+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 6748,
+      "NumberOfAwardsMax": 5736
+    },
+    {
+      "Time": "2023-04-15T16:57:23.5964815+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 6749,
+      "NumberOfAwardsMax": 5736
+    },
+    {
+      "Time": "2023-04-17T08:57:37.6890832+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 6750,
+      "NumberOfAwardsMax": 5737
     }
   ],
   "Tags": [
@@ -1914,7 +1980,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5725
+      "Count": 5737
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1926,19 +1992,19 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 111
+      "Count": 113
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 127
+      "Count": 128
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 114
+      "Count": 115
     },
     {
       "Text": "This game is Highly Recommended",

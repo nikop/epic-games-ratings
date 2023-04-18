@@ -1,24 +1,24 @@
 # Cyberpunk 2077
-Rating: 4.62 (Ranked 333)  
+Rating: 4.62 (Ranked 334)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 60,131  (Ranked 9)  
-Sum: 156,345 (Ranked 13)  
+Max (Character Customization): 61,864  (Ranked 9)  
+Sum: 161,201 (Ranked 13)  
 Diff (max vs sum): -4
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 60,131 |
-| This game has Great Boss Battles | 38,430 |
-| This game has Amazing Storytelling | 6,842 |
-| This game is Great for Beginners | 6,739 |
-| This game is Extremely Fun | 6,723 |
-| This game has Diverse Characters | 6,718 |
-| This game is Relaxing | 6,695 |
-| This game is Highly Recommended | 6,643 |
-| This game has Quickly Understood Controls | 6,587 |
-| This game has Amazing Characters | 6,488 |
-| This game has a Creative Community | 4,349 |
+| This game has Inclusive Character Customization | 61,864 |
+| This game has Great Boss Battles | 39,605 |
+| This game has Amazing Storytelling | 7,057 |
+| This game is Great for Beginners | 6,987 |
+| This game has Diverse Characters | 6,958 |
+| This game is Extremely Fun | 6,954 |
+| This game is Relaxing | 6,907 |
+| This game is Highly Recommended | 6,851 |
+| This game has Quickly Understood Controls | 6,798 |
+| This game has Amazing Characters | 6,736 |
+| This game has a Creative Community | 4,484 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -93,4 +93,22 @@ Diff (max vs sum): -4
 | 2022-10-28 | 4.60 | - | - |
 | 2022-12-26 | 4.61 | - | - |
 | 2023-03-30 | 4.61 | - | - |
-| 2023-03-31 | 4.62 | - | 60,131 |
+| 2023-03-31 | 4.62 | - | 60,214 |
+| 2023-04-01 | 4.61 | - | 60,294 |
+| 2023-04-02 | 4.62 | - | 60,377 |
+| 2023-04-03 | 4.62 | - | 60,445 |
+| 2023-04-04 | 4.62 | - | 60,501 |
+| 2023-04-05 | 4.62 | - | 60,581 |
+| 2023-04-06 | 4.62 | - | 60,658 |
+| 2023-04-07 | 4.62 | - | 60,751 |
+| 2023-04-08 | 4.62 | - | 60,828 |
+| 2023-04-09 | 4.62 | - | 60,912 |
+| 2023-04-10 | 4.62 | - | 60,986 |
+| 2023-04-11 | 4.62 | - | 61,090 |
+| 2023-04-12 | 4.62 | - | 61,228 |
+| 2023-04-13 | 4.62 | - | 61,340 |
+| 2023-04-14 | 4.62 | - | 61,450 |
+| 2023-04-15 | 4.62 | - | 61,591 |
+| 2023-04-16 | 4.62 | - | 61,752 |
+| 2023-04-17 | 4.62 | - | 61,864 |
+| 2023-04-18 | 4.62 | - | 61,864 |

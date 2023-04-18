@@ -1,24 +1,24 @@
 # The Division 2 Standard Edition
-Rating: 4.46 (Ranked 578)  
+Rating: 4.46 (Ranked 582)  
 Number of Ratings: 6,675  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 6,276  (Ranked 46)  
-Sum: 20,008 (Ranked 50)  
+Max (Character Customization): 6,451  (Ranked 47)  
+Sum: 20,653 (Ranked 51)  
 Diff (max vs sum): -4
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 6,276 |
-| This game has Great Boss Battles | 4,484 |
-| This game is Great for Beginners | 1,145 |
-| This game has Quickly Understood Controls | 1,029 |
-| This game has Diverse Characters | 1,024 |
-| This game has Amazing Storytelling | 1,021 |
-| This game is Extremely Fun | 1,021 |
-| This game is Relaxing | 1,018 |
-| This game is Highly Recommended | 1,005 |
-| This game has Challenging Combat | 997 |
-| This game has Amazing Characters | 988 |
+| This game has Inclusive Character Customization | 6,451 |
+| This game has Great Boss Battles | 4,620 |
+| This game is Great for Beginners | 1,184 |
+| This game has Amazing Storytelling | 1,071 |
+| This game has Quickly Understood Controls | 1,067 |
+| This game has Diverse Characters | 1,062 |
+| This game is Relaxing | 1,058 |
+| This game is Extremely Fun | 1,051 |
+| This game has Challenging Combat | 1,039 |
+| This game is Highly Recommended | 1,036 |
+| This game has Amazing Characters | 1,014 |
 | This game has Obsessive Gameplay | 156 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -101,3 +101,21 @@ Diff (max vs sum): -4
 | 2023-02-03 | 4.46 | - | - |
 | 2023-03-20 | 4.46 | - | - |
 | 2023-03-31 | 4.46 | - | 6,276 |
+| 2023-04-01 | 4.46 | - | 6,289 |
+| 2023-04-02 | 4.46 | - | 6,299 |
+| 2023-04-03 | 4.46 | - | 6,308 |
+| 2023-04-04 | 4.46 | - | 6,318 |
+| 2023-04-05 | 4.46 | - | 6,332 |
+| 2023-04-06 | 4.46 | - | 6,340 |
+| 2023-04-07 | 4.46 | - | 6,340 |
+| 2023-04-08 | 4.46 | - | 6,355 |
+| 2023-04-09 | 4.46 | - | 6,367 |
+| 2023-04-10 | 4.46 | - | 6,374 |
+| 2023-04-11 | 4.46 | - | 6,381 |
+| 2023-04-12 | 4.46 | - | 6,393 |
+| 2023-04-13 | 4.47 | - | 6,400 |
+| 2023-04-14 | 4.46 | - | 6,414 |
+| 2023-04-15 | 4.46 | - | 6,421 |
+| 2023-04-16 | 4.46 | - | 6,433 |
+| 2023-04-17 | 4.46 | - | 6,451 |
+| 2023-04-18 | 4.46 | - | 6,451 |

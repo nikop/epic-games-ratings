@@ -1,22 +1,22 @@
 # Football Manager 2023
-Rating: 4.75 (Ranked 127)  
+Rating: 4.75 (Ranked 126)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 324  (Ranked 207)  
-Sum: 2,742 (Ranked 151)  
-Diff (max vs sum): 56
+Max (Diverse Characters): 364  (Ranked 203)  
+Sum: 3,013 (Ranked 145)  
+Diff (max vs sum): 58
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Diverse Characters | 324 |
-| This game is Extremely Fun | 306 |
-| This game is Highly Recommended | 306 |
-| This game is Educational | 299 |
-| This game is Relaxing | 295 |
-| This game has Quickly Understood Controls | 263 |
-| This game has Amazing Storytelling | 256 |
-| This game has Competitive Players | 253 |
-| This game has Amazing Characters | 238 |
-| This game has Challenging Combat | 202 |
+| This game has Diverse Characters | 364 |
+| This game is Highly Recommended | 337 |
+| This game is Educational | 331 |
+| This game is Extremely Fun | 329 |
+| This game is Relaxing | 321 |
+| This game has Amazing Storytelling | 282 |
+| This game has Quickly Understood Controls | 280 |
+| This game has Competitive Players | 279 |
+| This game has Amazing Characters | 261 |
+| This game has Challenging Combat | 229 |
 | This game has a Competitive Community | 121 |
 | This game has Unique Visuals | 54 |
 ## Ratings History
@@ -54,3 +54,20 @@ Diff (max vs sum): 56
 | 2023-01-27 | 4.75 | - | - |
 | 2023-01-28 | 4.75 | - | - |
 | 2023-03-31 | 4.75 | - | 324 |
+| 2023-04-01 | 4.75 | - | 326 |
+| 2023-04-02 | 4.75 | - | 331 |
+| 2023-04-03 | 4.75 | - | 336 |
+| 2023-04-04 | 4.75 | - | 338 |
+| 2023-04-05 | 4.75 | - | 338 |
+| 2023-04-06 | 4.75 | - | 340 |
+| 2023-04-07 | 4.75 | - | 344 |
+| 2023-04-08 | 4.75 | - | 347 |
+| 2023-04-09 | 4.75 | - | 350 |
+| 2023-04-10 | 4.75 | - | 350 |
+| 2023-04-11 | 4.75 | - | 356 |
+| 2023-04-12 | 4.75 | - | 361 |
+| 2023-04-13 | 4.75 | - | 361 |
+| 2023-04-14 | 4.75 | - | 361 |
+| 2023-04-15 | 4.75 | - | 362 |
+| 2023-04-16 | 4.75 | - | 362 |
+| 2023-04-17 | 4.75 | - | 364 |

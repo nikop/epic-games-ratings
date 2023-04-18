@@ -1,6 +1,18 @@
 {
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-03T11:57:10.5871058+00:00",
+  "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
+  "LastChanged": "2023-04-03T11:57:10.587111+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-03T11:57:10.5871115+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

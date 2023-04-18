@@ -1,23 +1,23 @@
 # Iratus: Lord of the Dead
-Rating: 4.37 (Ranked 685)  
+Rating: 4.37 (Ranked 691)  
 Number of Ratings: 10,109  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 2,121  (Ranked 96)  
-Sum: 4,110 (Ranked 130)  
-Diff (max vs sum): -34
+Max (Character Customization): 2,128  (Ranked 100)  
+Sum: 4,122 (Ranked 130)  
+Diff (max vs sum): -30
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 2,121 |
+| This game has Inclusive Character Customization | 2,128 |
 | This game is Highly Recommended | 225 |
-| This game is Relaxing | 224 |
+| This game is Relaxing | 225 |
 | This game has Amazing Storytelling | 222 |
-| This game has Challenging Combat | 211 |
+| This game has Challenging Combat | 212 |
 | This game has Diverse Characters | 210 |
+| This game is Extremely Fun | 208 |
 | This game has Amazing Characters | 207 |
-| This game is Extremely Fun | 207 |
-| This game has Quickly Understood Controls | 197 |
-| This game has Unique Visuals | 187 |
+| This game has Quickly Understood Controls | 198 |
+| This game has Unique Visuals | 188 |
 | This game has a Creative Community | 99 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -86,3 +86,10 @@ Diff (max vs sum): -34
 | 2022-09-21 | 4.37 | 10,075 | - |
 | 2022-09-22 | 4.37 | 10,099 | - |
 | 2022-09-23 | 4.37 | 10,109 | - |
+| 2023-04-01 | 4.37 | - | 2,123 |
+| 2023-04-05 | 4.37 | - | 2,125 |
+| 2023-04-11 | 4.37 | - | 2,125 |
+| 2023-04-12 | 4.37 | - | 2,125 |
+| 2023-04-15 | 4.37 | - | 2,127 |
+| 2023-04-17 | 4.37 | - | 2,128 |
+| 2023-04-18 | 4.37 | - | 2,128 |

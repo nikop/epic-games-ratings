@@ -1,16 +1,16 @@
 {
   "ID": "870929e8b7fb4e2b986c1a3f0a6ff38d",
   "Name": "Armored Warfare",
-  "Rating": 4.09,
-  "Ranking_Rating": 845,
-  "Ranking_Popularity": 348,
-  "Ranking_PopularitySum": 273,
+  "Rating": 4.1,
+  "Ranking_Rating": 844,
+  "Ranking_Popularity": 352,
+  "Ranking_PopularitySum": 282,
   "NumberOfRatings": 458,
-  "NumberOfAwards": 577,
-  "NumberOfAwardsMax": 70,
+  "NumberOfAwards": 556,
+  "NumberOfAwardsMax": 71,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:16:52.6557809+00:00",
-  "LastChanged": "2023-03-23T17:57:17.7070395+00:00",
+  "LastChanged": "2023-04-14T15:56:51.7069278+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:52.6557814+00:00",
@@ -766,6 +766,102 @@
     {
       "Time": "2023-03-23T17:57:17.7070396+00:00",
       "Rating": 4.09
+    },
+    {
+      "Time": "2023-03-31T17:57:45.3717293+00:00",
+      "Rating": 4.09,
+      "NumberOfAwards": 578,
+      "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2023-04-02T11:56:58.0234988+00:00",
+      "Rating": 4.09,
+      "NumberOfAwards": 579,
+      "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2023-04-02T15:57:10.7528178+00:00",
+      "Rating": 4.09,
+      "NumberOfAwards": 582,
+      "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2023-04-04T15:57:01.6386559+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 582,
+      "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2023-04-04T17:57:00.3396007+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 583,
+      "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2023-04-07T18:56:54.1597488+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 584,
+      "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2023-04-09T17:57:00.6656814+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 586,
+      "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2023-04-09T21:56:45.4028793+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 587,
+      "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2023-04-11T19:57:07.6132111+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 588,
+      "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2023-04-12T13:04:56.5005313+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 590,
+      "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2023-04-12T18:56:51.0384792+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 591,
+      "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2023-04-13T13:04:18.5670419+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 592,
+      "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2023-04-13T14:57:14.2666674+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 593,
+      "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2023-04-13T15:57:04.6985951+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 594,
+      "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2023-04-13T20:56:53.8009514+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 553,
+      "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2023-04-14T15:56:51.706928+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 556,
+      "NumberOfAwardsMax": 71
     }
   ],
   "Tags": [
@@ -773,49 +869,49 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 56
+      "Count": 58
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 62
+      "Count": 64
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 68
+      "Count": 70
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 56
+      "Count": 61
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 59
+      "Count": 62
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 58
+      "Count": 59
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 50
+      "Count": 51
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 57
+      "Count": 60
     },
     {
       "Text": "This game has a Competitive Community",
@@ -827,7 +923,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 70
+      "Count": 71
     }
   ]
 }

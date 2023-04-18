@@ -1,16 +1,16 @@
 # Desperados III
-Rating: 4.84 (Ranked 47)  
+Rating: 4.84 (Ranked 49)  
 Number of Ratings: 351  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Amazing Storytelling): 44  (Ranked 391)  
-Sum: 274 (Ranked 320)  
-Diff (max vs sum): 71
+Max (Amazing Storytelling): 44  (Ranked 397)  
+Sum: 275 (Ranked 324)  
+Diff (max vs sum): 73
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Amazing Storytelling | 44 |
 | This game is Relaxing | 43 |
-| This game has Diverse Characters | 39 |
+| This game has Diverse Characters | 40 |
 | This game is Extremely Fun | 36 |
 | This game has Amazing Characters | 30 |
 | This game has Quickly Understood Controls | 29 |
@@ -80,3 +80,4 @@ Diff (max vs sum): 71
 | 2022-10-14 | 4.84 | - | - |
 | 2022-11-22 | 4.83 | - | - |
 | 2023-02-01 | 4.84 | - | - |
+| 2023-04-12 | 4.84 | - | 44 |

@@ -1,20 +1,20 @@
 # Salt and Sanctuary
-Rating: 4.61 (Ranked 349)  
+Rating: 4.61 (Ranked 350)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Challenging Combat): 264  (Ranked 228)  
-Sum: 1,850 (Ranked 190)  
+Max (Challenging Combat): 266  (Ranked 229)  
+Sum: 1,862 (Ranked 191)  
 Diff (max vs sum): 38
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Challenging Combat | 264 |
-| This game has Quickly Understood Controls | 245 |
-| This game is Highly Recommended | 244 |
-| This game has Diverse Characters | 225 |
-| This game has Amazing Storytelling | 222 |
-| This game is Extremely Fun | 221 |
-| This game has Amazing Characters | 217 |
+| This game has Challenging Combat | 266 |
+| This game has Quickly Understood Controls | 248 |
+| This game is Highly Recommended | 246 |
+| This game has Diverse Characters | 226 |
+| This game has Amazing Storytelling | 224 |
+| This game is Extremely Fun | 222 |
+| This game has Amazing Characters | 218 |
 | This game has Unique Visuals | 212 |
 | This game has Obsessive Gameplay | 164 |
 | This game has a Creative Community | 94 |
@@ -106,3 +106,10 @@ Diff (max vs sum): 38
 | 2023-03-07 | 4.60 | - | - |
 | 2023-03-13 | 4.61 | - | - |
 | 2023-03-31 | 4.61 | - | 264 |
+| 2023-04-02 | 4.61 | - | 265 |
+| 2023-04-03 | 4.61 | - | 265 |
+| 2023-04-04 | 4.61 | - | 265 |
+| 2023-04-05 | 4.61 | - | 265 |
+| 2023-04-07 | 4.61 | - | 265 |
+| 2023-04-09 | 4.61 | - | 265 |
+| 2023-04-13 | 4.61 | - | 266 |

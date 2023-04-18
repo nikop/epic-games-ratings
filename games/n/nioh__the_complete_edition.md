@@ -1,21 +1,21 @@
 # Nioh: The Complete Edition
-Rating: 4.57 (Ranked 419)  
+Rating: 4.57 (Ranked 422)  
 Number of Ratings: 10,807  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 7,015  (Ranked 41)  
-Sum: 16,266 (Ranked 55)  
+Max (Character Customization): 7,126  (Ranked 42)  
+Sum: 16,531 (Ranked 56)  
 Diff (max vs sum): -14
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 7,015 |
-| This game has Great Boss Battles | 4,866 |
-| This game is Highly Recommended | 746 |
-| This game has Challenging Combat | 746 |
-| This game is Extremely Fun | 744 |
-| This game has Amazing Storytelling | 728 |
-| This game has Diverse Characters | 726 |
-| This game has Amazing Characters | 695 |
+| This game has Inclusive Character Customization | 7,126 |
+| This game has Great Boss Battles | 4,958 |
+| This game is Highly Recommended | 758 |
+| This game has Challenging Combat | 758 |
+| This game is Extremely Fun | 754 |
+| This game has Amazing Storytelling | 741 |
+| This game has Diverse Characters | 733 |
+| This game has Amazing Characters | 703 |
 | This game has Obsessive Gameplay | 489 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -87,3 +87,20 @@ Diff (max vs sum): -14
 | 2022-10-01 | 4.57 | - | - |
 | 2022-10-02 | 4.57 | - | - |
 | 2023-03-31 | 4.57 | - | 7,015 |
+| 2023-04-01 | 4.57 | - | 7,021 |
+| 2023-04-02 | 4.57 | - | 7,027 |
+| 2023-04-03 | 4.57 | - | 7,036 |
+| 2023-04-04 | 4.57 | - | 7,045 |
+| 2023-04-05 | 4.57 | - | 7,053 |
+| 2023-04-06 | 4.57 | - | 7,057 |
+| 2023-04-07 | 4.57 | - | 7,068 |
+| 2023-04-08 | 4.57 | - | 7,068 |
+| 2023-04-09 | 4.57 | - | 7,078 |
+| 2023-04-10 | 4.57 | - | 7,081 |
+| 2023-04-11 | 4.57 | - | 7,086 |
+| 2023-04-12 | 4.57 | - | 7,092 |
+| 2023-04-13 | 4.57 | - | 7,092 |
+| 2023-04-14 | 4.57 | - | 7,099 |
+| 2023-04-15 | 4.57 | - | 7,105 |
+| 2023-04-16 | 4.57 | - | 7,119 |
+| 2023-04-17 | 4.57 | - | 7,126 |

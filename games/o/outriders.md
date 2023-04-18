@@ -1,23 +1,23 @@
 # OUTRIDERS
-Rating: 4.42 (Ranked 630)  
+Rating: 4.42 (Ranked 635)  
 Number of Ratings: 1,201  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 1,063  (Ranked 124)  
-Sum: 2,215 (Ranked 169)  
-Diff (max vs sum): -45
+Max (Great Boss Battles): 1,092  (Ranked 124)  
+Sum: 2,275 (Ranked 170)  
+Diff (max vs sum): -46
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 1,063 |
-| This game has Amazing Characters | 158 |
-| This game is Extremely Fun | 152 |
-| This game is Relaxing | 148 |
-| This game has Diverse Characters | 146 |
+| This game has Great Boss Battles | 1,092 |
+| This game has Amazing Characters | 161 |
+| This game is Extremely Fun | 156 |
+| This game is Relaxing | 155 |
+| This game has Diverse Characters | 148 |
+| This game has Amazing Storytelling | 147 |
 | This game is Great for Beginners | 146 |
-| This game has Quickly Understood Controls | 144 |
-| This game has Amazing Storytelling | 139 |
-| This game has Challenging Combat | 133 |
-| This game is Highly Recommended | 132 |
+| This game has Quickly Understood Controls | 146 |
+| This game has Challenging Combat | 137 |
+| This game is Highly Recommended | 133 |
 | This game has Obsessive Gameplay | 99 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -107,3 +107,19 @@ Diff (max vs sum): -45
 | 2023-03-19 | 4.42 | - | - |
 | 2023-03-26 | 4.43 | - | - |
 | 2023-03-27 | 4.42 | - | - |
+| 2023-04-01 | 4.42 | - | 1,066 |
+| 2023-04-02 | 4.42 | - | 1,071 |
+| 2023-04-03 | 4.42 | - | 1,071 |
+| 2023-04-04 | 4.42 | - | 1,072 |
+| 2023-04-05 | 4.42 | - | 1,076 |
+| 2023-04-06 | 4.42 | - | 1,079 |
+| 2023-04-07 | 4.42 | - | 1,079 |
+| 2023-04-08 | 4.42 | - | 1,081 |
+| 2023-04-09 | 4.42 | - | 1,086 |
+| 2023-04-10 | 4.42 | - | 1,086 |
+| 2023-04-11 | 4.42 | - | 1,086 |
+| 2023-04-13 | 4.42 | - | 1,090 |
+| 2023-04-14 | 4.42 | - | 1,090 |
+| 2023-04-15 | 4.42 | - | 1,090 |
+| 2023-04-16 | 4.42 | - | 1,090 |
+| 2023-04-17 | 4.42 | - | 1,092 |

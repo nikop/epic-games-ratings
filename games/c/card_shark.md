@@ -1,9 +1,9 @@
 # Card Shark
-Rating: 4.67 (Ranked 255)  
+Rating: 4.68 (Ranked 235)  
 Number of Ratings: 21  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 478)  
-Sum: 0 (Ranked 478)  
+Max (): 0  (Ranked 484)  
+Sum: 0 (Ranked 484)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
@@ -20,3 +20,4 @@ Diff (max vs sum): 0
 | 2022-12-19 | 4.65 | - | - |
 | 2022-12-28 | 4.67 | - | - |
 | 2023-03-31 | 4.67 | - | 0 |
+| 2023-04-10 | 4.68 | - | 0 |

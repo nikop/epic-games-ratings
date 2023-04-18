@@ -2,21 +2,21 @@
 Rating: 4.51 (Ranked 509)  
 Number of Ratings: 366,020  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Quick Sessions): 366,755  (Ranked 2)  
-Sum: 2,526,279 (Ranked 2)  
+Max (Great for Quick Sessions): 384,606  (Ranked 2)  
+Sum: 2,632,367 (Ranked 2)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Quick Sessions | 366,755 |
-| This game has Competitive Players | 323,827 |
-| This game has Quickly Understood Controls | 295,477 |
-| This game is Extremely Fun | 289,160 |
-| This game is Highly Recommended | 277,410 |
-| This game has Challenging Combat | 268,016 |
-| This game has Amazing Storytelling | 241,140 |
-| This game has a Competitive Community | 237,500 |
-| This game has Amazing Characters | 226,994 |
+| This game is Great for Quick Sessions | 384,606 |
+| This game has Competitive Players | 335,817 |
+| This game has Quickly Understood Controls | 306,465 |
+| This game is Extremely Fun | 300,586 |
+| This game is Highly Recommended | 288,909 |
+| This game has Challenging Combat | 279,522 |
+| This game has Amazing Storytelling | 251,247 |
+| This game has a Competitive Community | 248,433 |
+| This game has Amazing Characters | 236,782 |
 | This game has Obsessive Gameplay | 167,946 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -88,4 +88,22 @@ Diff (max vs sum): 0
 | 2023-01-04 | 4.53 | - | - |
 | 2023-02-09 | 4.52 | - | - |
 | 2023-03-24 | 4.51 | - | - |
-| 2023-03-31 | 4.51 | - | 366,755 |
+| 2023-03-31 | 4.51 | - | 367,448 |
+| 2023-04-01 | 4.51 | - | 368,281 |
+| 2023-04-02 | 4.51 | - | 369,237 |
+| 2023-04-03 | 4.51 | - | 370,158 |
+| 2023-04-04 | 4.51 | - | 371,038 |
+| 2023-04-05 | 4.51 | - | 372,155 |
+| 2023-04-06 | 4.51 | - | 373,359 |
+| 2023-04-07 | 4.51 | - | 374,517 |
+| 2023-04-08 | 4.51 | - | 375,707 |
+| 2023-04-09 | 4.51 | - | 376,764 |
+| 2023-04-10 | 4.51 | - | 377,723 |
+| 2023-04-11 | 4.51 | - | 378,858 |
+| 2023-04-12 | 4.51 | - | 379,841 |
+| 2023-04-13 | 4.51 | - | 380,738 |
+| 2023-04-14 | 4.51 | - | 381,720 |
+| 2023-04-15 | 4.51 | - | 382,850 |
+| 2023-04-16 | 4.51 | - | 383,888 |
+| 2023-04-17 | 4.51 | - | 384,606 |
+| 2023-04-18 | 4.51 | - | 384,606 |

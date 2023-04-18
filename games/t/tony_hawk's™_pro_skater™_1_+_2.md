@@ -1,21 +1,21 @@
 # Tony Hawk's™ Pro Skater™ 1 + 2
-Rating: 4.83 (Ranked 55)  
+Rating: 4.83 (Ranked 54)  
 Number of Ratings: 1,298  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Quick Sessions): 80  (Ranked 337)  
-Sum: 628 (Ranked 267)  
-Diff (max vs sum): 70
+Max (Great for Quick Sessions): 80  (Ranked 339)  
+Sum: 638 (Ranked 268)  
+Diff (max vs sum): 71
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Great for Quick Sessions | 80 |
-| This game is Extremely Fun | 76 |
-| This game is Great for Beginners | 72 |
+| This game is Extremely Fun | 78 |
+| This game is Great for Beginners | 74 |
 | This game is Highly Recommended | 68 |
 | This game has Diverse Characters | 65 |
-| This game has Quickly Understood Controls | 60 |
-| This game is Relaxing | 59 |
-| This game has Competitive Players | 55 |
+| This game has Quickly Understood Controls | 63 |
+| This game is Relaxing | 60 |
+| This game has Competitive Players | 57 |
 | This game has Amazing Characters | 52 |
 | This game has Obsessive Gameplay | 47 |
 | This game has Amazing Storytelling | 41 |
@@ -96,3 +96,11 @@ Diff (max vs sum): 70
 | 2023-03-16 | 4.84 | - | - |
 | 2023-03-24 | 4.83 | - | - |
 | 2023-03-31 | 4.83 | - | 80 |
+| 2023-04-02 | 4.83 | - | 80 |
+| 2023-04-04 | 4.83 | - | 80 |
+| 2023-04-08 | 4.84 | - | 80 |
+| 2023-04-11 | 4.84 | - | 80 |
+| 2023-04-12 | 4.84 | - | 80 |
+| 2023-04-14 | 4.84 | - | 80 |
+| 2023-04-15 | 4.84 | - | 80 |
+| 2023-04-16 | 4.83 | - | 80 |

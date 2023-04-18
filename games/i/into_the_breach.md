@@ -1,25 +1,25 @@
 # Into the Breach
-Rating: 4.84 (Ranked 47)  
+Rating: 4.84 (Ranked 49)  
 Number of Ratings: 4,082  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Extremely Fun): 401  (Ranked 190)  
-Sum: 3,825 (Ranked 132)  
-Diff (max vs sum): 58
+Max (Extremely Fun): 405  (Ranked 191)  
+Sum: 3,842 (Ranked 132)  
+Diff (max vs sum): 59
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Extremely Fun | 401 |
-| This game is Great for Beginners | 399 |
+| This game is Extremely Fun | 405 |
+| This game is Great for Beginners | 400 |
 | This game is Highly Recommended | 397 |
-| This game has Challenging Combat | 393 |
+| This game has Challenging Combat | 394 |
 | This game has Quickly Understood Controls | 392 |
-| This game has Diverse Characters | 369 |
-| This game is Relaxing | 364 |
-| This game has Amazing Storytelling | 335 |
+| This game has Diverse Characters | 372 |
+| This game is Relaxing | 367 |
+| This game has Amazing Storytelling | 337 |
 | This game has Amazing Characters | 310 |
 | This game has Obsessive Gameplay | 287 |
-| This game has Unique Visuals | 283 |
-| This game has a Creative Community | 182 |
+| This game has Unique Visuals | 285 |
+| This game has a Creative Community | 183 |
 | This game is Great for Quick Sessions | 39 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -89,3 +89,17 @@ Diff (max vs sum): 58
 | 2022-09-22 | 4.85 | 4,063 | - |
 | 2022-09-23 | 4.85 | 4,082 | - |
 | 2022-11-07 | 4.84 | - | - |
+| 2023-04-02 | 4.84 | - | 402 |
+| 2023-04-03 | 4.84 | - | 402 |
+| 2023-04-05 | 4.84 | - | 402 |
+| 2023-04-06 | 4.84 | - | 402 |
+| 2023-04-07 | 4.84 | - | 402 |
+| 2023-04-08 | 4.84 | - | 403 |
+| 2023-04-10 | 4.84 | - | 403 |
+| 2023-04-11 | 4.84 | - | 403 |
+| 2023-04-12 | 4.84 | - | 403 |
+| 2023-04-13 | 4.84 | - | 404 |
+| 2023-04-15 | 4.84 | - | 405 |
+| 2023-04-16 | 4.84 | - | 405 |
+| 2023-04-17 | 4.84 | - | 405 |
+| 2023-04-18 | 4.84 | - | 405 |

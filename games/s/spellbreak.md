@@ -1,10 +1,10 @@
 # Spellbreak
-Rating: 4.63 (Ranked 320)  
+Rating: 4.63 (Ranked 326)  
 Number of Ratings: 1,020  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 304  (Ranked 216)  
-Sum: 400 (Ranked 293)  
-Diff (max vs sum): -77
+Max (Character Customization): 304  (Ranked 218)  
+Sum: 400 (Ranked 294)  
+Diff (max vs sum): -76
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

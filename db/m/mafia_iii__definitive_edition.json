@@ -2,15 +2,15 @@
   "ID": "8ad9396e01f046aaa784a33f7e60dfbe",
   "Name": "Mafia III: Definitive Edition",
   "Rating": 4.2,
-  "Ranking_Rating": 792,
-  "Ranking_Popularity": 353,
-  "Ranking_PopularitySum": 286,
+  "Ranking_Rating": 797,
+  "Ranking_Popularity": 350,
+  "Ranking_PopularitySum": 289,
   "NumberOfRatings": 1289,
-  "NumberOfAwards": 449,
-  "NumberOfAwardsMax": 68,
+  "NumberOfAwards": 467,
+  "NumberOfAwardsMax": 72,
   "MaxAwardTitle": "Amazing Characters",
   "FirstSeen": "2022-07-22T20:19:34.9657602+00:00",
-  "LastChanged": "2023-03-31T09:57:12.6596943+00:00",
+  "LastChanged": "2023-04-17T01:57:03.8714525+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:34.9657605+00:00",
@@ -854,6 +854,102 @@
       "Rating": 4.2,
       "NumberOfAwards": 449,
       "NumberOfAwardsMax": 68
+    },
+    {
+      "Time": "2023-04-01T14:57:06.5287048+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 450,
+      "NumberOfAwardsMax": 68
+    },
+    {
+      "Time": "2023-04-02T13:57:26.2377865+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 451,
+      "NumberOfAwardsMax": 68
+    },
+    {
+      "Time": "2023-04-04T15:57:18.7626569+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 452,
+      "NumberOfAwardsMax": 69
+    },
+    {
+      "Time": "2023-04-05T03:56:56.5497796+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 453,
+      "NumberOfAwardsMax": 69
+    },
+    {
+      "Time": "2023-04-06T09:57:13.8845552+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 454,
+      "NumberOfAwardsMax": 69
+    },
+    {
+      "Time": "2023-04-06T18:57:21.7388322+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 455,
+      "NumberOfAwardsMax": 69
+    },
+    {
+      "Time": "2023-04-07T11:57:03.2821482+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 456,
+      "NumberOfAwardsMax": 69
+    },
+    {
+      "Time": "2023-04-07T13:02:15.2674777+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 457,
+      "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2023-04-07T13:57:21.7441455+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 458,
+      "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2023-04-07T19:57:12.7259141+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 459,
+      "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2023-04-09T14:57:25.8201851+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 460,
+      "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2023-04-09T20:57:02.4866392+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 462,
+      "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2023-04-10T13:02:14.3178678+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 463,
+      "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2023-04-11T04:57:22.079342+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 465,
+      "NumberOfAwardsMax": 72
+    },
+    {
+      "Time": "2023-04-12T18:57:03.9815974+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 466,
+      "NumberOfAwardsMax": 72
+    },
+    {
+      "Time": "2023-04-17T01:57:03.8714529+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 467,
+      "NumberOfAwardsMax": 72
     }
   ],
   "Tags": [
@@ -861,7 +957,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 66
+      "Count": 68
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -873,25 +969,25 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 68
+      "Count": 72
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 56
+      "Count": 60
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 54
+      "Count": 55
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 53
+      "Count": 54
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -903,19 +999,19 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 55
+      "Count": 56
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 42
+      "Count": 44
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 55
+      "Count": 58
     },
     {
       "Text": "This game has Realistic Visuals",

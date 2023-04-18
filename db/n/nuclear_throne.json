@@ -2,15 +2,15 @@
   "ID": "742f165671424189aecdfdadf5ea9755",
   "Name": "Nuclear Throne",
   "Rating": 4.79,
-  "Ranking_Rating": 93,
-  "Ranking_Popularity": 202,
-  "Ranking_PopularitySum": 217,
+  "Ranking_Rating": 91,
+  "Ranking_Popularity": 204,
+  "Ranking_PopularitySum": 218,
   "NumberOfRatings": 631,
-  "NumberOfAwards": 1162,
-  "NumberOfAwardsMax": 359,
+  "NumberOfAwards": 1171,
+  "NumberOfAwardsMax": 363,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:27:27.5332052+00:00",
-  "LastChanged": "2023-02-21T13:14:22.1180075+00:00",
+  "LastChanged": "2023-04-16T20:58:49.1142095+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:27.5332055+00:00",
@@ -836,6 +836,54 @@
     {
       "Time": "2023-02-21T13:14:22.1180078+00:00",
       "Rating": 4.79
+    },
+    {
+      "Time": "2023-03-31T22:58:16.2161342+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1163,
+      "NumberOfAwardsMax": 360
+    },
+    {
+      "Time": "2023-04-04T11:57:49.4758304+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1164,
+      "NumberOfAwardsMax": 360
+    },
+    {
+      "Time": "2023-04-05T20:58:10.998795+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1166,
+      "NumberOfAwardsMax": 362
+    },
+    {
+      "Time": "2023-04-07T16:57:49.3699753+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1167,
+      "NumberOfAwardsMax": 362
+    },
+    {
+      "Time": "2023-04-10T07:57:45.4849858+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1168,
+      "NumberOfAwardsMax": 362
+    },
+    {
+      "Time": "2023-04-11T17:57:40.9845569+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1169,
+      "NumberOfAwardsMax": 362
+    },
+    {
+      "Time": "2023-04-14T11:58:56.7502575+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1170,
+      "NumberOfAwardsMax": 363
+    },
+    {
+      "Time": "2023-04-16T20:58:49.1142099+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1171,
+      "NumberOfAwardsMax": 363
     }
   ],
   "Tags": [
@@ -843,13 +891,13 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 359
+      "Count": 363
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 285
+      "Count": 289
     },
     {
       "Text": "This game has Unique Visuals",
@@ -879,7 +927,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game is Highly Recommended",

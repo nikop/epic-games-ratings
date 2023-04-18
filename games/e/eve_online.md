@@ -1,21 +1,21 @@
 # EVE Online
-Rating: 4.26 (Ranked 760)  
+Rating: 4.26 (Ranked 767)  
 Number of Ratings: 1,408  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 993  (Ranked 130)  
-Sum: 2,134 (Ranked 174)  
+Max (Character Customization): 1,005  (Ranked 131)  
+Sum: 2,165 (Ranked 175)  
 Diff (max vs sum): -44
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 993 |
+| This game has Inclusive Character Customization | 1,005 |
 | This game is Extremely Fun | 180 |
-| This game has Challenging Combat | 174 |
-| This game has Diverse Characters | 171 |
-| This game is Highly Recommended | 165 |
-| This game is Relaxing | 163 |
-| This game has Competitive Players | 157 |
-| This game has a Competitive Community | 131 |
+| This game has Challenging Combat | 177 |
+| This game has Diverse Characters | 177 |
+| This game is Relaxing | 167 |
+| This game is Highly Recommended | 167 |
+| This game has Competitive Players | 159 |
+| This game has a Competitive Community | 133 |
 | This game has Amazing Storytelling | 122 |
 | This game has Quickly Understood Controls | 53 |
 | This game has Amazing Characters | 29 |
@@ -113,3 +113,19 @@ Diff (max vs sum): -44
 | 2022-12-04 | 4.26 | - | - |
 | 2023-01-31 | 4.25 | - | - |
 | 2023-03-12 | 4.26 | - | - |
+| 2023-04-01 | 4.26 | - | 994 |
+| 2023-04-02 | 4.26 | - | 994 |
+| 2023-04-03 | 4.26 | - | 994 |
+| 2023-04-04 | 4.26 | - | 995 |
+| 2023-04-05 | 4.26 | - | 995 |
+| 2023-04-06 | 4.26 | - | 997 |
+| 2023-04-08 | 4.26 | - | 997 |
+| 2023-04-09 | 4.26 | - | 997 |
+| 2023-04-10 | 4.26 | - | 999 |
+| 2023-04-11 | 4.26 | - | 999 |
+| 2023-04-12 | 4.26 | - | 1,001 |
+| 2023-04-13 | 4.26 | - | 1,003 |
+| 2023-04-14 | 4.26 | - | 1,003 |
+| 2023-04-15 | 4.26 | - | 1,005 |
+| 2023-04-16 | 4.26 | - | 1,005 |
+| 2023-04-17 | 4.26 | - | 1,005 |

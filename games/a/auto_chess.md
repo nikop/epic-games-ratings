@@ -1,24 +1,24 @@
 # Auto Chess
-Rating: 4.52 (Ranked 495)  
+Rating: 4.52 (Ranked 498)  
 Number of Ratings: 2,249  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Competitive Players): 718  (Ranked 151)  
-Sum: 5,641 (Ranked 113)  
-Diff (max vs sum): 38
+Max (Competitive Players): 727  (Ranked 150)  
+Sum: 5,731 (Ranked 113)  
+Diff (max vs sum): 37
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Competitive Players | 718 |
-| This game is Relaxing | 693 |
-| This game has Diverse Characters | 689 |
-| This game has Quickly Understood Controls | 687 |
-| This game is Extremely Fun | 595 |
-| This game is Highly Recommended | 519 |
-| This game has Amazing Characters | 502 |
-| This game has Amazing Storytelling | 459 |
-| This game has Playful Visuals | 406 |
+| This game has Competitive Players | 727 |
+| This game is Relaxing | 706 |
+| This game has Diverse Characters | 701 |
+| This game has Quickly Understood Controls | 694 |
+| This game is Extremely Fun | 603 |
+| This game is Highly Recommended | 526 |
+| This game has Amazing Characters | 511 |
+| This game has Amazing Storytelling | 468 |
+| This game has Playful Visuals | 414 |
 | This game is Great for Beginners | 394 |
-| This game has a Competitive Community | 373 |
+| This game has a Competitive Community | 381 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -104,3 +104,21 @@ Diff (max vs sum): 38
 | 2023-03-04 | 4.53 | - | - |
 | 2023-03-06 | 4.53 | - | - |
 | 2023-03-07 | 4.52 | - | - |
+| 2023-03-31 | 4.52 | - | 718 |
+| 2023-04-01 | 4.52 | - | 718 |
+| 2023-04-02 | 4.52 | - | 718 |
+| 2023-04-03 | 4.52 | - | 718 |
+| 2023-04-04 | 4.52 | - | 718 |
+| 2023-04-05 | 4.52 | - | 718 |
+| 2023-04-06 | 4.52 | - | 718 |
+| 2023-04-07 | 4.52 | - | 718 |
+| 2023-04-08 | 4.52 | - | 721 |
+| 2023-04-09 | 4.52 | - | 723 |
+| 2023-04-10 | 4.52 | - | 723 |
+| 2023-04-11 | 4.52 | - | 724 |
+| 2023-04-12 | 4.52 | - | 724 |
+| 2023-04-13 | 4.52 | - | 724 |
+| 2023-04-14 | 4.52 | - | 724 |
+| 2023-04-15 | 4.52 | - | 724 |
+| 2023-04-16 | 4.52 | - | 727 |
+| 2023-04-17 | 4.52 | - | 727 |

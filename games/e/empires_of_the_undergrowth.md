@@ -1,23 +1,23 @@
 # Empires of the Undergrowth
-Rating: 4.76 (Ranked 113)  
+Rating: 4.76 (Ranked 112)  
 Number of Ratings: 212  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Competitive Players): 39  (Ranked 402)  
-Sum: 358 (Ranked 300)  
-Diff (max vs sum): 102
+Max (Great for Beginners): 39  (Ranked 406)  
+Sum: 363 (Ranked 302)  
+Diff (max vs sum): 104
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
+| This game is Great for Beginners | 39 |
 | This game has Competitive Players | 39 |
-| This game is Great for Beginners | 38 |
 | This game is Extremely Fun | 37 |
-| This game has Amazing Storytelling | 36 |
+| This game has Amazing Storytelling | 37 |
 | This game has Quickly Understood Controls | 33 |
-| This game is Relaxing | 32 |
+| This game is Relaxing | 33 |
 | This game has Amazing Characters | 31 |
 | This game has a Creative Community | 31 |
-| This game is Highly Recommended | 29 |
-| This game is Educational | 28 |
+| This game is Highly Recommended | 30 |
+| This game is Educational | 29 |
 | This game has Obsessive Gameplay | 25 |
 | This game has Diverse Characters | 24 |
 | This game has Challenging Combat | 20 |
@@ -95,3 +95,6 @@ Diff (max vs sum): 102
 | 2022-12-04 | 4.74 | - | - |
 | 2022-12-25 | 4.75 | - | - |
 | 2023-03-29 | 4.76 | - | - |
+| 2023-04-01 | 4.76 | - | 39 |
+| 2023-04-05 | 4.76 | - | 39 |
+| 2023-04-15 | 4.76 | - | 39 |

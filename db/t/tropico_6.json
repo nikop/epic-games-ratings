@@ -2,15 +2,15 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "Rating": 4.67,
-  "Ranking_Rating": 255,
-  "Ranking_Popularity": 319,
-  "Ranking_PopularitySum": 251,
+  "Ranking_Rating": 256,
+  "Ranking_Popularity": 313,
+  "Ranking_PopularitySum": 248,
   "NumberOfRatings": 398,
-  "NumberOfAwards": 723,
-  "NumberOfAwardsMax": 95,
+  "NumberOfAwards": 738,
+  "NumberOfAwardsMax": 102,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
-  "LastChanged": "2023-03-04T10:56:49.7301964+00:00",
+  "LastChanged": "2023-04-17T19:57:08.4793541+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:21.1290303+00:00",
@@ -650,6 +650,60 @@
     {
       "Time": "2023-03-04T10:56:49.7301965+00:00",
       "Rating": 4.67
+    },
+    {
+      "Time": "2023-04-01T01:56:39.5871259+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 628,
+      "NumberOfAwardsMax": 90
+    },
+    {
+      "Time": "2023-04-01T14:56:49.8787879+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 630,
+      "NumberOfAwardsMax": 90
+    },
+    {
+      "Time": "2023-04-04T13:57:05.1132189+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 631,
+      "NumberOfAwardsMax": 90
+    },
+    {
+      "Time": "2023-04-06T13:03:07.3454409+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 632,
+      "NumberOfAwardsMax": 91
+    },
+    {
+      "Time": "2023-04-08T02:18:18.632008+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 632,
+      "NumberOfAwardsMax": 91
+    },
+    {
+      "Time": "2023-04-10T22:56:50.8128757+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 634,
+      "NumberOfAwardsMax": 91
+    },
+    {
+      "Time": "2023-04-13T15:57:08.4163746+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 635,
+      "NumberOfAwardsMax": 91
+    },
+    {
+      "Time": "2023-04-16T15:57:15.3457743+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 737,
+      "NumberOfAwardsMax": 102
+    },
+    {
+      "Time": "2023-04-17T19:57:08.4793544+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 738,
+      "NumberOfAwardsMax": 102
     }
   ],
   "Tags": [
@@ -663,7 +717,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 87
+      "Count": 88
     },
     {
       "Text": "This game has Amazing Characters",
@@ -675,19 +729,19 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 79
+      "Count": 83
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 81
+      "Count": 82
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 90
+      "Count": 91
     },
     {
       "Text": "This game is Educational",
@@ -699,7 +753,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game has Diverse Characters",
@@ -717,7 +771,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 95
+      "Count": 102
     }
   ]
 }

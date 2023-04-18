@@ -2,14 +2,14 @@
   "ID": "66e9c042d8cd42b7956f5e195e0442de",
   "Name": "Rayman Origins",
   "Rating": 4.81,
-  "Ranking_Rating": 67,
-  "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 478,
+  "Ranking_Rating": 70,
+  "Ranking_Popularity": 484,
+  "Ranking_PopularitySum": 484,
   "NumberOfRatings": 34,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:25:19.1614924+00:00",
-  "LastChanged": "2023-03-31T05:57:54.0786312+00:00",
+  "LastChanged": "2023-04-11T18:57:34.5274173+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-27T22:01:37.6282468+00:00",
@@ -160,6 +160,18 @@
     },
     {
       "Time": "2023-03-31T05:57:54.0786314+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-09T18:58:11.1722656+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-11T18:57:34.5274174+00:00",
       "Rating": 4.81,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0

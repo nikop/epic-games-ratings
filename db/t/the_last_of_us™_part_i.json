@@ -1,15 +1,16 @@
 {
   "ID": "0c40923dd1174a768f732a3b013dcff2",
   "Name": "The Last of Us\u2122 Part I",
-  "Rating": 3.31,
-  "Ranking_Rating": 893,
-  "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 478,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
+  "Rating": 3.83,
+  "Ranking_Rating": 891,
+  "Ranking_Popularity": 391,
+  "Ranking_PopularitySum": 432,
+  "NumberOfAwards": 45,
+  "NumberOfAwardsMax": 45,
+  "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2023-03-28T17:57:06.372926+00:00",
   "FirstSeenRating": "2023-03-30T20:57:18.2148276+00:00",
-  "LastChanged": "2023-03-31T05:57:13.6677619+00:00",
+  "LastChanged": "2023-04-18T02:57:30.0504194+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-30T20:57:18.2148278+00:00",
@@ -24,7 +25,200 @@
       "Rating": 3.31,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-01T01:56:56.1429513+00:00",
+      "Rating": 3.38,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-01T15:57:01.4788109+00:00",
+      "Rating": 3.48,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-02T01:57:53.1494265+00:00",
+      "Rating": 3.51,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-02T17:57:10.0717348+00:00",
+      "Rating": 3.58,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-02T22:57:27.853108+00:00",
+      "Rating": 3.63,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-03T17:57:22.3176184+00:00",
+      "Rating": 3.68,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-03T18:57:42.5530327+00:00",
+      "Rating": 3.63,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-03T20:57:05.852471+00:00",
+      "Rating": 3.69,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-03T21:57:07.0454075+00:00",
+      "Rating": 3.67,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-05T01:39:54.5874317+00:00",
+      "Rating": 3.66,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-05T17:57:03.8411421+00:00",
+      "Rating": 3.64,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-06T13:03:23.4570454+00:00",
+      "Rating": 3.63,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-06T22:57:09.1540047+00:00",
+      "Rating": 3.63,
+      "NumberOfAwards": 21,
+      "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2023-04-07T22:57:22.5516738+00:00",
+      "Rating": 3.66,
+      "NumberOfAwards": 21,
+      "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2023-04-08T01:47:46.5622008+00:00",
+      "Rating": 3.68,
+      "NumberOfAwards": 23,
+      "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2023-04-09T01:57:08.1193988+00:00",
+      "Rating": 3.7,
+      "NumberOfAwards": 23,
+      "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2023-04-09T08:56:59.1376712+00:00",
+      "Rating": 3.68,
+      "NumberOfAwards": 24,
+      "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2023-04-10T08:58:15.1112647+00:00",
+      "Rating": 3.73,
+      "NumberOfAwards": 24,
+      "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2023-04-10T13:57:10.7582626+00:00",
+      "Rating": 3.73,
+      "NumberOfAwards": 28,
+      "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2023-04-11T14:57:16.7068776+00:00",
+      "Rating": 3.74,
+      "NumberOfAwards": 28,
+      "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2023-04-11T20:57:07.5910107+00:00",
+      "Rating": 3.74,
+      "NumberOfAwards": 31,
+      "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2023-04-12T17:57:17.1459876+00:00",
+      "Rating": 3.76,
+      "NumberOfAwards": 31,
+      "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2023-04-12T20:56:59.4930887+00:00",
+      "Rating": 3.75,
+      "NumberOfAwards": 31,
+      "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2023-04-13T19:57:24.9975627+00:00",
+      "Rating": 3.77,
+      "NumberOfAwards": 35,
+      "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-04-14T15:57:09.2062695+00:00",
+      "Rating": 3.78,
+      "NumberOfAwards": 35,
+      "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-04-14T19:57:18.3548669+00:00",
+      "Rating": 3.79,
+      "NumberOfAwards": 38,
+      "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-04-15T19:57:09.9612967+00:00",
+      "Rating": 3.78,
+      "NumberOfAwards": 43,
+      "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2023-04-16T07:57:16.0940698+00:00",
+      "Rating": 3.79,
+      "NumberOfAwards": 43,
+      "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2023-04-16T18:57:16.5199141+00:00",
+      "Rating": 3.82,
+      "NumberOfAwards": 43,
+      "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2023-04-17T01:57:03.5779002+00:00",
+      "Rating": 3.82,
+      "NumberOfAwards": 45,
+      "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-04-18T02:57:30.0505693+00:00",
+      "Rating": 3.83,
+      "NumberOfAwards": 45,
+      "NumberOfAwardsMax": 45
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 45
+    }
+  ]
 }

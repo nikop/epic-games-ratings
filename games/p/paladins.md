@@ -1,22 +1,22 @@
 # Paladins
-Rating: 4.35 (Ranked 701)  
+Rating: 4.35 (Ranked 708)  
 Number of Ratings: 11,687  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Quick Sessions): 3,180  (Ranked 81)  
-Sum: 24,885 (Ranked 45)  
-Diff (max vs sum): 36
+Max (Diverse Characters): 3,161  (Ranked 82)  
+Sum: 21,929 (Ranked 49)  
+Diff (max vs sum): 33
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Quick Sessions | 3,180 |
-| This game has Diverse Characters | 3,120 |
-| This game has Competitive Players | 2,890 |
-| This game has Quickly Understood Controls | 2,863 |
-| This game is Extremely Fun | 2,858 |
-| This game is Highly Recommended | 2,679 |
-| This game has Amazing Characters | 2,654 |
-| This game has Amazing Storytelling | 2,507 |
-| This game has a Competitive Community | 2,134 |
+| This game is Great for Quick Sessions | 3,221 |
+| This game has Diverse Characters | 3,161 |
+| This game has Competitive Players | 2,918 |
+| This game has Quickly Understood Controls | 2,886 |
+| This game is Extremely Fun | 2,879 |
+| This game is Highly Recommended | 2,703 |
+| This game has Amazing Characters | 2,687 |
+| This game has Amazing Storytelling | 2,533 |
+| This game has a Competitive Community | 2,162 |
 | This game has Obsessive Gameplay | 958 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -87,3 +87,21 @@ Diff (max vs sum): 36
 | 2022-09-23 | 4.36 | 11,687 | - |
 | 2023-03-23 | 4.35 | - | - |
 | 2023-03-31 | 4.35 | - | 3,180 |
+| 2023-04-01 | 4.35 | - | 3,180 |
+| 2023-04-02 | 4.35 | - | 3,182 |
+| 2023-04-03 | 4.35 | - | 3,182 |
+| 2023-04-04 | 4.35 | - | 3,132 |
+| 2023-04-05 | 4.35 | - | 3,135 |
+| 2023-04-06 | 4.35 | - | 3,135 |
+| 2023-04-07 | 4.35 | - | 3,193 |
+| 2023-04-08 | 4.35 | - | 3,197 |
+| 2023-04-09 | 4.35 | - | 3,198 |
+| 2023-04-10 | 4.35 | - | 3,198 |
+| 2023-04-11 | 4.35 | - | 3,201 |
+| 2023-04-12 | 4.35 | - | 3,207 |
+| 2023-04-13 | 4.35 | - | 3,207 |
+| 2023-04-14 | 4.35 | - | 3,208 |
+| 2023-04-15 | 4.35 | - | 3,215 |
+| 2023-04-16 | 4.35 | - | 3,221 |
+| 2023-04-17 | 4.35 | - | 3,221 |
+| 2023-04-18 | 4.35 | - | 3,161 |

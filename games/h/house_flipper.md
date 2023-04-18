@@ -1,24 +1,24 @@
 # House Flipper
-Rating: 4.70 (Ranked 194)  
+Rating: 4.70 (Ranked 191)  
 Number of Ratings: 1,023  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 277  (Ranked 222)  
-Sum: 2,085 (Ranked 178)  
-Diff (max vs sum): 44
+Max (Great for Beginners): 279  (Ranked 223)  
+Sum: 2,096 (Ranked 180)  
+Diff (max vs sum): 43
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 277 |
-| This game is Educational | 228 |
-| This game is Extremely Fun | 217 |
+| This game is Great for Beginners | 279 |
+| This game is Educational | 230 |
+| This game is Extremely Fun | 218 |
 | This game is Relaxing | 215 |
 | This game has Quickly Understood Controls | 211 |
+| This game is Highly Recommended | 204 |
 | This game has Amazing Storytelling | 203 |
-| This game is Highly Recommended | 201 |
-| This game has a Creative Community | 200 |
-| This game has Amazing Characters | 180 |
+| This game has a Creative Community | 201 |
+| This game has Amazing Characters | 181 |
 | This game has Obsessive Gameplay | 173 |
-| This game has Easy Combat | 153 |
+| This game has Easy Combat | 154 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -92,3 +92,9 @@ Diff (max vs sum): 44
 | 2022-10-15 | 4.70 | - | - |
 | 2022-11-29 | 4.71 | - | - |
 | 2022-12-25 | 4.70 | - | - |
+| 2023-04-01 | 4.70 | - | 277 |
+| 2023-04-02 | 4.70 | - | 277 |
+| 2023-04-06 | 4.70 | - | 277 |
+| 2023-04-07 | 4.70 | - | 278 |
+| 2023-04-09 | 4.70 | - | 278 |
+| 2023-04-17 | 4.70 | - | 279 |

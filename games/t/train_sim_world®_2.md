@@ -1,24 +1,24 @@
 # Train Sim World® 2
-Rating: 4.42 (Ranked 630)  
+Rating: 4.42 (Ranked 635)  
 Number of Ratings: 2,541  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 529  (Ranked 175)  
-Sum: 4,111 (Ranked 129)  
+Max (Great for Beginners): 532  (Ranked 175)  
+Sum: 4,134 (Ranked 129)  
 Diff (max vs sum): 46
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 529 |
-| This game is Relaxing | 458 |
-| This game has Quickly Understood Controls | 455 |
-| This game is Extremely Fun | 442 |
-| This game is Educational | 440 |
-| This game has Realistic Visuals | 433 |
+| This game is Great for Beginners | 532 |
+| This game is Relaxing | 460 |
+| This game has Quickly Understood Controls | 457 |
+| This game is Extremely Fun | 443 |
+| This game has Realistic Visuals | 442 |
+| This game is Educational | 442 |
 | This game is Highly Recommended | 410 |
 | This game has Obsessive Gameplay | 388 |
 | This game has Amazing Storytelling | 330 |
 | This game has Amazing Characters | 326 |
-| This game has a Creative Community | 288 |
+| This game has a Creative Community | 292 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -90,3 +90,12 @@ Diff (max vs sum): 46
 | 2022-12-24 | 4.42 | - | - |
 | 2022-12-26 | 4.41 | - | - |
 | 2022-12-28 | 4.42 | - | - |
+| 2023-04-01 | 4.42 | - | 529 |
+| 2023-04-02 | 4.42 | - | 530 |
+| 2023-04-05 | 4.42 | - | 530 |
+| 2023-04-07 | 4.42 | - | 530 |
+| 2023-04-08 | 4.42 | - | 530 |
+| 2023-04-09 | 4.42 | - | 531 |
+| 2023-04-11 | 4.42 | - | 531 |
+| 2023-04-14 | 4.42 | - | 532 |
+| 2023-04-15 | 4.42 | - | 532 |

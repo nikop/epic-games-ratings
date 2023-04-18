@@ -2,16 +2,16 @@
   "ID": "6006c7c9d8534b0ca4605ea3a759f3e1",
   "Name": "Submerged: Hidden Depths",
   "Rating": 4.24,
-  "Ranking_Rating": 770,
-  "Ranking_Popularity": 387,
-  "Ranking_PopularitySum": 311,
+  "Ranking_Rating": 776,
+  "Ranking_Popularity": 391,
+  "Ranking_PopularitySum": 315,
   "NumberOfRatings": 2582,
-  "NumberOfAwards": 319,
+  "NumberOfAwards": 321,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:30:35.8919962+00:00",
   "FirstSeenRating": "2022-09-02T17:02:43.442034+00:00",
-  "LastChanged": "2022-11-06T05:02:18.1839043+00:00",
+  "LastChanged": "2023-04-13T23:58:03.6064262+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-02T17:02:43.4420342+00:00",
@@ -675,6 +675,18 @@
     {
       "Time": "2022-11-06T05:02:18.1839046+00:00",
       "Rating": 4.24
+    },
+    {
+      "Time": "2023-04-03T02:58:34.152289+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 320,
+      "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-04-13T23:58:03.6064267+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 321,
+      "NumberOfAwardsMax": 45
     }
   ],
   "Tags": [
@@ -700,13 +712,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game is Great for Beginners",

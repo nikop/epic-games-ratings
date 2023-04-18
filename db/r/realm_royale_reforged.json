@@ -2,16 +2,16 @@
   "ID": "5fcf6f3031c547f789e29c18b422ca67",
   "Name": "Realm Royale Reforged",
   "Rating": 4.29,
-  "Ranking_Rating": 746,
+  "Ranking_Rating": 752,
   "Ranking_Popularity": 291,
   "Ranking_PopularitySum": 216,
   "NumberOfRatings": 841,
-  "NumberOfAwards": 1200,
-  "NumberOfAwardsMax": 122,
-  "MaxAwardTitle": "Relaxing",
+  "NumberOfAwards": 1218,
+  "NumberOfAwardsMax": 125,
+  "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-08-22T12:01:28.8825715+00:00",
   "FirstSeenRating": "2022-08-24T22:31:27.0262733+00:00",
-  "LastChanged": "2023-02-26T03:17:47.6490829+00:00",
+  "LastChanged": "2023-04-17T14:57:05.8371492+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-24T22:31:27.0262737+00:00",
@@ -834,6 +834,108 @@
     {
       "Time": "2023-02-26T03:17:47.6490832+00:00",
       "Rating": 4.29
+    },
+    {
+      "Time": "2023-04-02T16:56:53.3120378+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1201,
+      "NumberOfAwardsMax": 122
+    },
+    {
+      "Time": "2023-04-03T20:56:57.3660656+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1202,
+      "NumberOfAwardsMax": 122
+    },
+    {
+      "Time": "2023-04-05T03:56:48.6721211+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1203,
+      "NumberOfAwardsMax": 123
+    },
+    {
+      "Time": "2023-04-06T13:57:03.4082886+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1115,
+      "NumberOfAwardsMax": 123
+    },
+    {
+      "Time": "2023-04-08T15:56:51.1357914+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1205,
+      "NumberOfAwardsMax": 123
+    },
+    {
+      "Time": "2023-04-09T06:56:57.6484044+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1206,
+      "NumberOfAwardsMax": 123
+    },
+    {
+      "Time": "2023-04-11T15:57:07.7004333+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1207,
+      "NumberOfAwardsMax": 123
+    },
+    {
+      "Time": "2023-04-12T01:56:04.8528328+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1208,
+      "NumberOfAwardsMax": 123
+    },
+    {
+      "Time": "2023-04-12T18:56:56.4071842+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1209,
+      "NumberOfAwardsMax": 123
+    },
+    {
+      "Time": "2023-04-12T19:57:03.2019304+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1210,
+      "NumberOfAwardsMax": 123
+    },
+    {
+      "Time": "2023-04-13T15:57:12.7890407+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1211,
+      "NumberOfAwardsMax": 123
+    },
+    {
+      "Time": "2023-04-13T16:57:13.0563914+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1212,
+      "NumberOfAwardsMax": 124
+    },
+    {
+      "Time": "2023-04-14T01:53:03.9335724+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1213,
+      "NumberOfAwardsMax": 124
+    },
+    {
+      "Time": "2023-04-14T21:56:56.6472745+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1214,
+      "NumberOfAwardsMax": 124
+    },
+    {
+      "Time": "2023-04-15T19:56:59.6059528+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1215,
+      "NumberOfAwardsMax": 124
+    },
+    {
+      "Time": "2023-04-16T02:01:40.8956641+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1217,
+      "NumberOfAwardsMax": 125
+    },
+    {
+      "Time": "2023-04-17T14:57:05.8371493+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1218,
+      "NumberOfAwardsMax": 125
     }
   ],
   "Tags": [
@@ -841,7 +943,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 119
+      "Count": 120
     },
     {
       "Text": "This game has Unique Visuals",
@@ -859,55 +961,55 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 122
+      "Count": 124
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 104
+      "Count": 106
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 88
+      "Count": 90
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 121
+      "Count": 122
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 97
+      "Count": 98
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 107
+      "Count": 109
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 103
+      "Count": 106
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 122
+      "Count": 125
     },
     {
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 103
+      "Count": 104
     }
   ]
 }

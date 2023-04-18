@@ -2,25 +2,25 @@
 Rating: 4.89 (Ranked 13)  
 Number of Ratings: 102,658  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Impact the Story): 129,139  (Ranked 7)  
-Sum: 326,046 (Ranked 9)  
-Diff (max vs sum): -2
+Max (Impact the Story): 134,065  (Ranked 7)  
+Sum: 339,934 (Ranked 8)  
+Diff (max vs sum): -1
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| In this game, your choices Impact the Story | 129,139 |
-| This game has Great Boss Battles | 70,351 |
-| This game is Great for Beginners | 12,288 |
-| This game has Diverse Characters | 12,009 |
-| This game is Highly Recommended | 11,918 |
-| This game is Extremely Fun | 11,908 |
-| This game is Relaxing | 11,895 |
-| This game has Amazing Storytelling | 11,811 |
-| This game has Amazing Characters | 11,731 |
-| This game is Educational | 11,578 |
-| This game has Quickly Understood Controls | 11,386 |
-| This game has Realistic Visuals | 11,358 |
-| This game has a Creative Community | 8,674 |
+| In this game, your choices Impact the Story | 134,065 |
+| This game has Great Boss Battles | 73,201 |
+| This game is Great for Beginners | 12,865 |
+| This game has Diverse Characters | 12,597 |
+| This game is Relaxing | 12,514 |
+| This game is Highly Recommended | 12,504 |
+| This game is Extremely Fun | 12,432 |
+| This game has Amazing Storytelling | 12,384 |
+| This game has Amazing Characters | 12,338 |
+| This game is Educational | 12,127 |
+| This game has Quickly Understood Controls | 11,971 |
+| This game has Realistic Visuals | 11,880 |
+| This game has a Creative Community | 9,056 |
 | This game has Obsessive Gameplay | 5,801 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -91,4 +91,22 @@ Diff (max vs sum): -2
 | 2022-09-23 | 4.90 | 102,658 | - |
 | 2022-10-03 | 4.89 | - | - |
 | 2022-10-04 | 4.89 | - | - |
-| 2023-03-31 | 4.89 | - | 129,139 |
+| 2023-03-31 | 4.89 | - | 129,388 |
+| 2023-04-01 | 4.89 | - | 129,680 |
+| 2023-04-02 | 4.89 | - | 129,993 |
+| 2023-04-03 | 4.89 | - | 130,249 |
+| 2023-04-04 | 4.89 | - | 130,483 |
+| 2023-04-05 | 4.89 | - | 130,917 |
+| 2023-04-06 | 4.89 | - | 131,203 |
+| 2023-04-07 | 4.89 | - | 131,552 |
+| 2023-04-08 | 4.89 | - | 131,874 |
+| 2023-04-09 | 4.89 | - | 132,219 |
+| 2023-04-10 | 4.89 | - | 132,455 |
+| 2023-04-11 | 4.89 | - | 132,641 |
+| 2023-04-12 | 4.89 | - | 132,862 |
+| 2023-04-13 | 4.89 | - | 133,054 |
+| 2023-04-14 | 4.89 | - | 133,266 |
+| 2023-04-15 | 4.89 | - | 133,548 |
+| 2023-04-16 | 4.89 | - | 133,859 |
+| 2023-04-17 | 4.89 | - | 134,065 |
+| 2023-04-18 | 4.89 | - | 134,065 |

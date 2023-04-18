@@ -1,16 +1,16 @@
 {
   "ID": "025f0740981e4902a0cc7e1f1d92dd13",
   "Name": "Swords of Legends Online",
-  "Rating": 4.31,
-  "Ranking_Rating": 734,
-  "Ranking_Popularity": 270,
-  "Ranking_PopularitySum": 312,
+  "Rating": 4.3,
+  "Ranking_Rating": 744,
+  "Ranking_Popularity": 269,
+  "Ranking_PopularitySum": 313,
   "NumberOfRatings": 262,
-  "NumberOfAwards": 317,
-  "NumberOfAwardsMax": 164,
+  "NumberOfAwards": 325,
+  "NumberOfAwardsMax": 168,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:23:20.3020946+00:00",
-  "LastChanged": "2023-03-24T07:57:48.798134+00:00",
+  "LastChanged": "2023-04-15T09:57:42.9509202+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:20.3020948+00:00",
@@ -446,6 +446,66 @@
     {
       "Time": "2023-03-24T07:57:48.7981342+00:00",
       "Rating": 4.31
+    },
+    {
+      "Time": "2023-04-02T18:57:43.9266722+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 318,
+      "NumberOfAwardsMax": 165
+    },
+    {
+      "Time": "2023-04-04T03:57:45.4987122+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 319,
+      "NumberOfAwardsMax": 165
+    },
+    {
+      "Time": "2023-04-06T03:57:40.3796818+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 319,
+      "NumberOfAwardsMax": 165
+    },
+    {
+      "Time": "2023-04-06T17:57:40.7408086+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 321,
+      "NumberOfAwardsMax": 165
+    },
+    {
+      "Time": "2023-04-07T03:57:23.2620155+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 322,
+      "NumberOfAwardsMax": 165
+    },
+    {
+      "Time": "2023-04-08T03:57:47.8882942+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 322,
+      "NumberOfAwardsMax": 165
+    },
+    {
+      "Time": "2023-04-08T05:57:56.0401048+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 323,
+      "NumberOfAwardsMax": 166
+    },
+    {
+      "Time": "2023-04-09T18:57:54.0960094+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 324,
+      "NumberOfAwardsMax": 167
+    },
+    {
+      "Time": "2023-04-13T09:57:20.7044027+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 325,
+      "NumberOfAwardsMax": 168
+    },
+    {
+      "Time": "2023-04-15T09:57:42.9509206+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 325,
+      "NumberOfAwardsMax": 168
     }
   ],
   "Tags": [
@@ -453,25 +513,25 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 164
+      "Count": 168
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 92
+      "Count": 94
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game has Beautiful Visuals",

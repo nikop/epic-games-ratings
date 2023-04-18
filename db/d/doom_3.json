@@ -2,16 +2,16 @@
   "ID": "7f1853beef0a4b40827038d0f47606f3",
   "Name": "DOOM 3",
   "Rating": 4.61,
-  "Ranking_Rating": 349,
-  "Ranking_Popularity": 361,
-  "Ranking_PopularitySum": 414,
+  "Ranking_Rating": 350,
+  "Ranking_Popularity": 364,
+  "Ranking_PopularitySum": 417,
   "NumberOfRatings": 105,
-  "NumberOfAwards": 63,
-  "NumberOfAwardsMax": 63,
+  "NumberOfAwards": 65,
+  "NumberOfAwardsMax": 65,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-08-18T16:02:43.6550747+00:00",
   "FirstSeenRating": "2022-08-25T17:32:08.5034693+00:00",
-  "LastChanged": "2023-03-11T03:58:30.6093659+00:00",
+  "LastChanged": "2023-04-17T11:58:24.6147683+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-25T17:32:08.5034697+00:00",
@@ -313,6 +313,18 @@
     {
       "Time": "2023-03-11T03:58:30.609366+00:00",
       "Rating": 4.61
+    },
+    {
+      "Time": "2023-04-03T13:58:34.1272667+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 64,
+      "NumberOfAwardsMax": 64
+    },
+    {
+      "Time": "2023-04-17T11:58:24.6147684+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 65,
+      "NumberOfAwardsMax": 65
     }
   ],
   "Tags": [
@@ -320,7 +332,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 63
+      "Count": 65
     }
   ]
 }

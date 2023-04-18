@@ -2,15 +2,15 @@
   "ID": "ee8802651a004c48999169fa32eb4903",
   "Name": "Mafia : Definitive Edition",
   "Rating": 4.62,
-  "Ranking_Rating": 333,
-  "Ranking_Popularity": 165,
-  "Ranking_PopularitySum": 263,
+  "Ranking_Rating": 334,
+  "Ranking_Popularity": 164,
+  "Ranking_PopularitySum": 258,
   "NumberOfRatings": 2035,
-  "NumberOfAwards": 639,
-  "NumberOfAwardsMax": 567,
+  "NumberOfAwards": 689,
+  "NumberOfAwardsMax": 575,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:22:45.942623+00:00",
-  "LastChanged": "2023-03-07T18:57:30.6466569+00:00",
+  "LastChanged": "2023-04-16T16:57:18.7354021+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:45.9426234+00:00",
@@ -691,6 +691,60 @@
     {
       "Time": "2023-03-07T18:57:30.6466572+00:00",
       "Rating": 4.62
+    },
+    {
+      "Time": "2023-04-05T17:57:20.7986006+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 640,
+      "NumberOfAwardsMax": 568
+    },
+    {
+      "Time": "2023-04-06T19:57:45.128137+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 642,
+      "NumberOfAwardsMax": 570
+    },
+    {
+      "Time": "2023-04-08T01:48:02.6559057+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 645,
+      "NumberOfAwardsMax": 573
+    },
+    {
+      "Time": "2023-04-08T09:57:20.6806143+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 665,
+      "NumberOfAwardsMax": 573
+    },
+    {
+      "Time": "2023-04-09T01:57:35.3342887+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 685,
+      "NumberOfAwardsMax": 573
+    },
+    {
+      "Time": "2023-04-09T15:57:12.9711059+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 686,
+      "NumberOfAwardsMax": 573
+    },
+    {
+      "Time": "2023-04-14T02:57:20.3909858+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 687,
+      "NumberOfAwardsMax": 573
+    },
+    {
+      "Time": "2023-04-14T06:57:45.3556975+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 688,
+      "NumberOfAwardsMax": 574
+    },
+    {
+      "Time": "2023-04-16T16:57:18.7354022+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 689,
+      "NumberOfAwardsMax": 575
     }
   ],
   "Tags": [
@@ -698,7 +752,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 567
+      "Count": 575
     },
     {
       "Text": "This game is Highly Recommended",
@@ -710,13 +764,25 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 21
+      "Count": 22
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 20
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 20
     }
   ]
 }

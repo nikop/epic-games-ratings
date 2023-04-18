@@ -2,15 +2,15 @@
   "ID": "deab864e1abf4357b303bcd5ff6fe8da",
   "Name": "Tony Hawk\u0027s\u2122 Pro Skater\u2122 1 \u002B 2",
   "Rating": 4.83,
-  "Ranking_Rating": 55,
-  "Ranking_Popularity": 337,
-  "Ranking_PopularitySum": 267,
+  "Ranking_Rating": 54,
+  "Ranking_Popularity": 339,
+  "Ranking_PopularitySum": 268,
   "NumberOfRatings": 1298,
-  "NumberOfAwards": 628,
+  "NumberOfAwards": 638,
   "NumberOfAwardsMax": 80,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:20:55.4170175+00:00",
-  "LastChanged": "2023-03-31T06:57:21.9160598+00:00",
+  "LastChanged": "2023-04-16T22:57:11.9138471+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:55.4170178+00:00",
@@ -1089,6 +1089,78 @@
       "Rating": 4.83,
       "NumberOfAwards": 628,
       "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2023-04-02T04:57:04.9860211+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 629,
+      "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2023-04-02T16:57:14.7091391+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 630,
+      "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2023-04-02T17:57:17.5438757+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 631,
+      "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2023-04-04T06:57:12.2683248+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 632,
+      "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2023-04-08T15:57:05.815212+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 632,
+      "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2023-04-11T18:57:11.2815278+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 633,
+      "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2023-04-12T21:57:38.002271+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 634,
+      "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2023-04-14T02:57:10.1530034+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 635,
+      "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2023-04-14T13:03:33.6037737+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 636,
+      "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2023-04-15T17:57:15.6315651+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 637,
+      "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2023-04-16T21:57:18.4525577+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 637,
+      "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2023-04-16T22:57:11.9138473+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 638,
+      "NumberOfAwardsMax": 80
     }
   ],
   "Tags": [
@@ -1108,7 +1180,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 60
+      "Count": 63
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1126,25 +1198,25 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 76
+      "Count": 78
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 55
+      "Count": 57
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 59
+      "Count": 60
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 72
+      "Count": 74
     },
     {
       "Text": "This game has Playful Visuals",

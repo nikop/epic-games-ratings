@@ -4,13 +4,13 @@
   "Rating": 4.68,
   "Ranking_Rating": 235,
   "Ranking_Popularity": 189,
-  "Ranking_PopularitySum": 138,
+  "Ranking_PopularitySum": 141,
   "NumberOfRatings": 6301,
-  "NumberOfAwards": 3449,
-  "NumberOfAwardsMax": 407,
+  "NumberOfAwards": 3468,
+  "NumberOfAwardsMax": 410,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
-  "LastChanged": "2022-10-01T20:02:36.3827818+00:00",
+  "LastChanged": "2023-04-17T08:59:08.9690523+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:49.2794884+00:00",
@@ -2449,6 +2449,96 @@
     {
       "Time": "2022-10-01T20:02:36.382782+00:00",
       "Rating": 4.68
+    },
+    {
+      "Time": "2023-04-01T01:58:40.8848846+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 3451,
+      "NumberOfAwardsMax": 409
+    },
+    {
+      "Time": "2023-04-01T19:58:07.6611197+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 3452,
+      "NumberOfAwardsMax": 409
+    },
+    {
+      "Time": "2023-04-03T15:58:24.4415901+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 3453,
+      "NumberOfAwardsMax": 409
+    },
+    {
+      "Time": "2023-04-04T18:58:39.8885595+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 3454,
+      "NumberOfAwardsMax": 409
+    },
+    {
+      "Time": "2023-04-06T11:58:31.574778+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 3456,
+      "NumberOfAwardsMax": 409
+    },
+    {
+      "Time": "2023-04-06T17:58:26.2275931+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 3457,
+      "NumberOfAwardsMax": 409
+    },
+    {
+      "Time": "2023-04-07T01:51:58.6316196+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 3458,
+      "NumberOfAwardsMax": 409
+    },
+    {
+      "Time": "2023-04-09T10:58:18.6673717+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 3459,
+      "NumberOfAwardsMax": 409
+    },
+    {
+      "Time": "2023-04-11T13:58:23.8691013+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 3461,
+      "NumberOfAwardsMax": 409
+    },
+    {
+      "Time": "2023-04-14T02:58:09.069883+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 3463,
+      "NumberOfAwardsMax": 409
+    },
+    {
+      "Time": "2023-04-15T07:59:02.3026297+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 3464,
+      "NumberOfAwardsMax": 410
+    },
+    {
+      "Time": "2023-04-16T02:03:39.7020305+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 3465,
+      "NumberOfAwardsMax": 410
+    },
+    {
+      "Time": "2023-04-16T02:59:08.2143301+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 3466,
+      "NumberOfAwardsMax": 410
+    },
+    {
+      "Time": "2023-04-16T05:58:50.2846807+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 3467,
+      "NumberOfAwardsMax": 410
+    },
+    {
+      "Time": "2023-04-17T08:59:08.9690524+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 3468,
+      "NumberOfAwardsMax": 410
     }
   ],
   "Tags": [
@@ -2456,13 +2546,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 367
+      "Count": 368
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 407
+      "Count": 410
     },
     {
       "Text": "This game is Relaxing",
@@ -2474,43 +2564,43 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 374
+      "Count": 375
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 344
+      "Count": 347
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 318
+      "Count": 319
     },
     {
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 340
+      "Count": 342
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 313
+      "Count": 317
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 366
+      "Count": 369
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 223
+      "Count": 224
     }
   ]
 }

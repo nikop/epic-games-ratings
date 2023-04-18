@@ -2,15 +2,15 @@
   "ID": "d34cf6aeceb94c579af0236fe1185b79",
   "Name": "KARDS - The WWII Card Game",
   "Rating": 4.38,
-  "Ranking_Rating": 673,
+  "Ranking_Rating": 680,
   "Ranking_Popularity": 174,
   "Ranking_PopularitySum": 135,
   "NumberOfRatings": 1466,
-  "NumberOfAwards": 3588,
-  "NumberOfAwardsMax": 537,
+  "NumberOfAwards": 3606,
+  "NumberOfAwardsMax": 539,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:20:27.7135917+00:00",
-  "LastChanged": "2023-02-07T23:56:57.1092593+00:00",
+  "LastChanged": "2023-04-16T08:56:55.3598127+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:27.713592+00:00",
@@ -1422,6 +1422,90 @@
     {
       "Time": "2023-02-07T23:56:57.1092594+00:00",
       "Rating": 4.38
+    },
+    {
+      "Time": "2023-04-01T11:56:47.8670989+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 3591,
+      "NumberOfAwardsMax": 537
+    },
+    {
+      "Time": "2023-04-02T07:56:52.1590313+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 3592,
+      "NumberOfAwardsMax": 537
+    },
+    {
+      "Time": "2023-04-07T01:50:22.3233678+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 3594,
+      "NumberOfAwardsMax": 539
+    },
+    {
+      "Time": "2023-04-08T14:57:05.2264929+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 3596,
+      "NumberOfAwardsMax": 539
+    },
+    {
+      "Time": "2023-04-08T18:56:58.883114+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 3597,
+      "NumberOfAwardsMax": 539
+    },
+    {
+      "Time": "2023-04-09T18:57:05.764633+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 3597,
+      "NumberOfAwardsMax": 539
+    },
+    {
+      "Time": "2023-04-14T03:56:57.9722687+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 3598,
+      "NumberOfAwardsMax": 539
+    },
+    {
+      "Time": "2023-04-14T10:57:02.1803721+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 3599,
+      "NumberOfAwardsMax": 539
+    },
+    {
+      "Time": "2023-04-14T11:57:30.5285393+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 3600,
+      "NumberOfAwardsMax": 539
+    },
+    {
+      "Time": "2023-04-14T13:03:04.6074876+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 3601,
+      "NumberOfAwardsMax": 539
+    },
+    {
+      "Time": "2023-04-15T04:56:56.52642+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 3602,
+      "NumberOfAwardsMax": 539
+    },
+    {
+      "Time": "2023-04-15T05:57:05.4879021+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 3603,
+      "NumberOfAwardsMax": 539
+    },
+    {
+      "Time": "2023-04-15T06:57:24.9923017+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 3604,
+      "NumberOfAwardsMax": 539
+    },
+    {
+      "Time": "2023-04-16T08:56:55.3598129+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 3606,
+      "NumberOfAwardsMax": 539
     }
   ],
   "Tags": [
@@ -1429,37 +1513,37 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 490
+      "Count": 492
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 475
+      "Count": 476
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 537
+      "Count": 539
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 437
+      "Count": 442
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 454
+      "Count": 455
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 443
+      "Count": 445
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1471,13 +1555,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 376
+      "Count": 380
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 376
+      "Count": 377
     },
     {
       "Text": "This game has Amazing Characters",

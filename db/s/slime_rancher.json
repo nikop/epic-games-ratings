@@ -2,15 +2,15 @@
   "ID": "corydalis",
   "Name": "Slime Rancher",
   "Rating": 4.83,
-  "Ranking_Rating": 55,
-  "Ranking_Popularity": 195,
+  "Ranking_Rating": 54,
+  "Ranking_Popularity": 198,
   "Ranking_PopularitySum": 146,
   "NumberOfRatings": 5898,
-  "NumberOfAwards": 2983,
+  "NumberOfAwards": 2997,
   "NumberOfAwardsMax": 385,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:22:59.345324+00:00",
-  "LastChanged": "2022-09-28T06:01:13.5063897+00:00",
+  "LastChanged": "2023-04-15T06:58:08.0539551+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:59.3453245+00:00",
@@ -2220,6 +2220,84 @@
     {
       "Time": "2022-09-28T06:01:13.5063899+00:00",
       "Rating": 4.83
+    },
+    {
+      "Time": "2023-03-31T21:57:41.9549805+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 2984,
+      "NumberOfAwardsMax": 385
+    },
+    {
+      "Time": "2023-04-01T14:57:27.3461947+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 2986,
+      "NumberOfAwardsMax": 385
+    },
+    {
+      "Time": "2023-04-04T07:57:30.8226984+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 2986,
+      "NumberOfAwardsMax": 385
+    },
+    {
+      "Time": "2023-04-04T13:06:16.7246274+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 2987,
+      "NumberOfAwardsMax": 385
+    },
+    {
+      "Time": "2023-04-06T15:57:32.4617283+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 2987,
+      "NumberOfAwardsMax": 385
+    },
+    {
+      "Time": "2023-04-06T22:57:27.5268109+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 2988,
+      "NumberOfAwardsMax": 385
+    },
+    {
+      "Time": "2023-04-09T07:57:46.6674395+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 2989,
+      "NumberOfAwardsMax": 385
+    },
+    {
+      "Time": "2023-04-09T11:57:56.2632913+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 2990,
+      "NumberOfAwardsMax": 385
+    },
+    {
+      "Time": "2023-04-10T06:57:38.7257873+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 2992,
+      "NumberOfAwardsMax": 385
+    },
+    {
+      "Time": "2023-04-11T18:57:22.296899+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 2993,
+      "NumberOfAwardsMax": 385
+    },
+    {
+      "Time": "2023-04-12T04:57:34.6706896+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 2994,
+      "NumberOfAwardsMax": 385
+    },
+    {
+      "Time": "2023-04-12T13:57:24.8780987+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 2996,
+      "NumberOfAwardsMax": 385
+    },
+    {
+      "Time": "2023-04-15T06:58:08.0539552+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 2997,
+      "NumberOfAwardsMax": 385
     }
   ],
   "Tags": [
@@ -2227,19 +2305,19 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 359
+      "Count": 360
     },
     {
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 331
+      "Count": 335
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 328
+      "Count": 329
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2251,19 +2329,19 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 332
+      "Count": 333
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 351
+      "Count": 354
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 294
+      "Count": 296
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2275,7 +2353,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 308
+      "Count": 310
     },
     {
       "Text": "This game has Diverse Characters",

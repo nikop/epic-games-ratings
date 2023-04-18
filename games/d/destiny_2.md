@@ -1,22 +1,22 @@
 # Destiny 2
-Rating: 4.50 (Ranked 524)  
+Rating: 4.50 (Ranked 525)  
 Number of Ratings: 32,207  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 32,246  (Ranked 12)  
-Sum: 77,247 (Ranked 16)  
+Max (Great Boss Battles): 32,948  (Ranked 12)  
+Sum: 79,289 (Ranked 16)  
 Diff (max vs sum): -4
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 32,246 |
-| This game has Diverse Characters | 6,089 |
-| This game is Relaxing | 5,712 |
-| This game is Extremely Fun | 5,703 |
-| This game has Quickly Understood Controls | 5,640 |
-| This game is Highly Recommended | 5,624 |
-| This game has Amazing Storytelling | 5,454 |
-| This game has Amazing Characters | 5,393 |
-| This game has Competitive Players | 5,386 |
+| This game has Great Boss Battles | 32,948 |
+| This game has Diverse Characters | 6,337 |
+| This game is Extremely Fun | 5,857 |
+| This game is Relaxing | 5,845 |
+| This game is Highly Recommended | 5,820 |
+| This game has Quickly Understood Controls | 5,786 |
+| This game has Amazing Storytelling | 5,603 |
+| This game has Amazing Characters | 5,556 |
+| This game has Competitive Players | 5,537 |
 | This game has Obsessive Gameplay | 3,329 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -74,3 +74,21 @@ Diff (max vs sum): -4
 | 2023-01-04 | 4.49 | - | - |
 | 2023-01-06 | 4.50 | - | - |
 | 2023-03-31 | 4.50 | - | 32,246 |
+| 2023-04-01 | 4.50 | - | 32,285 |
+| 2023-04-02 | 4.50 | - | 32,331 |
+| 2023-04-03 | 4.50 | - | 32,374 |
+| 2023-04-04 | 4.50 | - | 32,402 |
+| 2023-04-05 | 4.50 | - | 32,430 |
+| 2023-04-06 | 4.50 | - | 32,466 |
+| 2023-04-07 | 4.50 | - | 32,522 |
+| 2023-04-08 | 4.50 | - | 32,580 |
+| 2023-04-09 | 4.50 | - | 32,619 |
+| 2023-04-10 | 4.50 | - | 32,645 |
+| 2023-04-11 | 4.50 | - | 32,696 |
+| 2023-04-12 | 4.50 | - | 32,736 |
+| 2023-04-13 | 4.50 | - | 32,765 |
+| 2023-04-14 | 4.50 | - | 32,804 |
+| 2023-04-15 | 4.50 | - | 32,858 |
+| 2023-04-16 | 4.50 | - | 32,908 |
+| 2023-04-17 | 4.50 | - | 32,948 |
+| 2023-04-18 | 4.50 | - | 32,948 |

@@ -1,9 +1,9 @@
 # Symphony of War
-Rating: 4.64 (Ranked 306)  
+Rating: 4.64 (Ranked 312)  
 Number of Ratings: 181  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 66  (Ranked 356)  
-Sum: 66 (Ranked 409)  
+Max (Character Customization): 66  (Ranked 361)  
+Sum: 66 (Ranked 414)  
 Diff (max vs sum): -53
 ## Awards
 | Award | Number of Ratings |

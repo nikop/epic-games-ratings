@@ -1,21 +1,21 @@
 # Far Cry 6 Standard Edition
-Rating: 4.44 (Ranked 606)  
+Rating: 4.44 (Ranked 614)  
 Number of Ratings: 12,290  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Amazing Storytelling): 640  (Ranked 157)  
-Sum: 5,001 (Ranked 119)  
+Max (Amazing Storytelling): 667  (Ranked 156)  
+Sum: 5,157 (Ranked 118)  
 Diff (max vs sum): 38
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Amazing Storytelling | 640 |
-| This game is Great for Beginners | 636 |
-| This game has Amazing Characters | 631 |
-| This game is Extremely Fun | 626 |
-| This game is Relaxing | 622 |
-| This game has Diverse Characters | 620 |
-| This game has Quickly Understood Controls | 617 |
-| This game is Highly Recommended | 609 |
+| This game has Amazing Storytelling | 667 |
+| This game is Great for Beginners | 651 |
+| This game has Amazing Characters | 650 |
+| This game is Relaxing | 646 |
+| This game has Diverse Characters | 642 |
+| This game is Extremely Fun | 641 |
+| This game has Quickly Understood Controls | 631 |
+| This game is Highly Recommended | 629 |
 | This game has Obsessive Gameplay | 137 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -90,3 +90,20 @@ Diff (max vs sum): 38
 | 2022-10-27 | 4.43 | - | - |
 | 2023-01-06 | 4.44 | - | - |
 | 2023-03-31 | 4.44 | - | 640 |
+| 2023-04-01 | 4.44 | - | 641 |
+| 2023-04-02 | 4.44 | - | 641 |
+| 2023-04-03 | 4.44 | - | 641 |
+| 2023-04-04 | 4.44 | - | 641 |
+| 2023-04-05 | 4.44 | - | 641 |
+| 2023-04-06 | 4.44 | - | 646 |
+| 2023-04-07 | 4.44 | - | 646 |
+| 2023-04-08 | 4.44 | - | 649 |
+| 2023-04-09 | 4.44 | - | 653 |
+| 2023-04-10 | 4.44 | - | 655 |
+| 2023-04-11 | 4.44 | - | 656 |
+| 2023-04-12 | 4.44 | - | 660 |
+| 2023-04-13 | 4.44 | - | 660 |
+| 2023-04-14 | 4.44 | - | 661 |
+| 2023-04-15 | 4.44 | - | 661 |
+| 2023-04-16 | 4.44 | - | 661 |
+| 2023-04-17 | 4.44 | - | 667 |

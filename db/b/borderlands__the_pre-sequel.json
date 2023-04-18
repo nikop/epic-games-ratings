@@ -1,16 +1,16 @@
 {
   "ID": "6110c92696a54f108c8e9002713ea5f9",
   "Name": "Borderlands: The Pre-Sequel",
-  "Rating": 4.5,
-  "Ranking_Rating": 524,
-  "Ranking_Popularity": 192,
-  "Ranking_PopularitySum": 154,
+  "Rating": 4.49,
+  "Ranking_Rating": 541,
+  "Ranking_Popularity": 196,
+  "Ranking_PopularitySum": 156,
   "NumberOfRatings": 2939,
-  "NumberOfAwards": 2700,
+  "NumberOfAwards": 2709,
   "NumberOfAwardsMax": 391,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:22:28.453834+00:00",
-  "LastChanged": "2023-03-25T17:57:39.6260358+00:00",
+  "LastChanged": "2023-04-16T15:57:57.8621652+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:28.4538343+00:00",
@@ -2164,6 +2164,66 @@
     {
       "Time": "2023-03-25T17:57:39.6260358+00:00",
       "Rating": 4.5
+    },
+    {
+      "Time": "2023-04-02T15:57:44.0994829+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2700,
+      "NumberOfAwardsMax": 391
+    },
+    {
+      "Time": "2023-04-05T13:57:39.4487451+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2701,
+      "NumberOfAwardsMax": 391
+    },
+    {
+      "Time": "2023-04-05T15:57:43.1037947+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2702,
+      "NumberOfAwardsMax": 391
+    },
+    {
+      "Time": "2023-04-06T02:57:52.9296955+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2703,
+      "NumberOfAwardsMax": 391
+    },
+    {
+      "Time": "2023-04-08T21:57:43.4702993+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2704,
+      "NumberOfAwardsMax": 391
+    },
+    {
+      "Time": "2023-04-11T10:58:23.5158866+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2705,
+      "NumberOfAwardsMax": 391
+    },
+    {
+      "Time": "2023-04-11T21:57:42.7156544+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2706,
+      "NumberOfAwardsMax": 391
+    },
+    {
+      "Time": "2023-04-13T21:57:28.2361935+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2707,
+      "NumberOfAwardsMax": 391
+    },
+    {
+      "Time": "2023-04-14T05:57:46.4812585+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2708,
+      "NumberOfAwardsMax": 391
+    },
+    {
+      "Time": "2023-04-16T15:57:57.8621653+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2709,
+      "NumberOfAwardsMax": 391
     }
   ],
   "Tags": [
@@ -2177,19 +2237,19 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 341
+      "Count": 342
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 336
+      "Count": 338
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 331
+      "Count": 332
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2201,13 +2261,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 345
+      "Count": 347
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 326
+      "Count": 327
     },
     {
       "Text": "This game is Relaxing",
@@ -2219,7 +2279,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 316
+      "Count": 318
     },
     {
       "Text": "This game has Unique Visuals",

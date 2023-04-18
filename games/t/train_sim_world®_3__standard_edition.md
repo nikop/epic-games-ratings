@@ -1,23 +1,23 @@
 # Train Sim World® 3: Standard Edition
-Rating: 4.53 (Ranked 481)  
+Rating: 4.53 (Ranked 485)  
 Number of Ratings: 170  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 249  (Ranked 232)  
-Sum: 1,954 (Ranked 183)  
-Diff (max vs sum): 49
+Max (Great for Beginners): 262  (Ranked 232)  
+Sum: 2,010 (Ranked 184)  
+Diff (max vs sum): 48
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 249 |
-| This game has Realistic Visuals | 235 |
-| This game is Extremely Fun | 207 |
-| This game is Educational | 205 |
-| This game is Highly Recommended | 205 |
-| This game has Quickly Understood Controls | 201 |
-| This game is Relaxing | 195 |
-| This game has a Creative Community | 182 |
-| This game has Amazing Storytelling | 147 |
-| This game has Amazing Characters | 128 |
+| This game is Great for Beginners | 262 |
+| This game has Realistic Visuals | 236 |
+| This game is Extremely Fun | 215 |
+| This game is Highly Recommended | 212 |
+| This game is Educational | 210 |
+| This game has Quickly Understood Controls | 207 |
+| This game is Relaxing | 197 |
+| This game has a Creative Community | 192 |
+| This game has Amazing Storytelling | 148 |
+| This game has Amazing Characters | 131 |
 | This game has Obsessive Gameplay | 96 |
 | This game has a Kind Community | 27 |
 ## Ratings History
@@ -84,3 +84,18 @@ Diff (max vs sum): 49
 | 2023-03-10 | 4.53 | - | - |
 | 2023-03-13 | 4.52 | - | - |
 | 2023-03-14 | 4.53 | - | - |
+| 2023-04-01 | 4.53 | - | 251 |
+| 2023-04-02 | 4.53 | - | 252 |
+| 2023-04-03 | 4.53 | - | 252 |
+| 2023-04-05 | 4.53 | - | 253 |
+| 2023-04-06 | 4.53 | - | 255 |
+| 2023-04-07 | 4.53 | - | 255 |
+| 2023-04-08 | 4.53 | - | 255 |
+| 2023-04-09 | 4.53 | - | 255 |
+| 2023-04-10 | 4.53 | - | 257 |
+| 2023-04-11 | 4.53 | - | 258 |
+| 2023-04-13 | 4.53 | - | 258 |
+| 2023-04-14 | 4.53 | - | 259 |
+| 2023-04-15 | 4.53 | - | 261 |
+| 2023-04-16 | 4.53 | - | 262 |
+| 2023-04-17 | 4.53 | - | 262 |

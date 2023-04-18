@@ -1,24 +1,24 @@
 # Fall Guys
-Rating: 4.53 (Ranked 481)  
+Rating: 4.53 (Ranked 485)  
 Number of Ratings: 1,046,587  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 137,011  (Ranked 6)  
-Sum: 1,286,582 (Ranked 3)  
+Max (Great for Beginners): 137,603  (Ranked 6)  
+Sum: 1,290,362 (Ranked 3)  
 Diff (max vs sum): 3
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 137,011 |
-| This game is Relaxing | 129,008 |
-| This game has Competitive Players | 126,256 |
-| This game has Quickly Understood Controls | 126,255 |
-| This game is Great for Quick Sessions | 120,899 |
-| This game has Diverse Characters | 118,550 |
-| This game is Extremely Fun | 115,592 |
-| This game is Highly Recommended | 108,726 |
-| This game has Amazing Characters | 106,078 |
-| This game has Amazing Storytelling | 101,196 |
-| This game has Playful Visuals | 97,011 |
+| This game is Great for Beginners | 137,603 |
+| This game is Relaxing | 129,329 |
+| This game has Competitive Players | 126,574 |
+| This game has Quickly Understood Controls | 126,562 |
+| This game is Great for Quick Sessions | 121,351 |
+| This game has Diverse Characters | 118,949 |
+| This game is Extremely Fun | 115,875 |
+| This game is Highly Recommended | 109,043 |
+| This game has Amazing Characters | 106,366 |
+| This game has Amazing Storytelling | 101,425 |
+| This game has Playful Visuals | 97,285 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -88,3 +88,21 @@ Diff (max vs sum): 3
 | 2022-09-23 | 4.54 | 1,046,587 | - |
 | 2022-12-02 | 4.53 | - | - |
 | 2023-03-31 | 4.53 | - | 137,011 |
+| 2023-04-01 | 4.53 | - | 137,046 |
+| 2023-04-02 | 4.53 | - | 137,081 |
+| 2023-04-03 | 4.53 | - | 137,105 |
+| 2023-04-04 | 4.53 | - | 137,147 |
+| 2023-04-05 | 4.53 | - | 137,179 |
+| 2023-04-06 | 4.53 | - | 137,213 |
+| 2023-04-07 | 4.53 | - | 137,263 |
+| 2023-04-08 | 4.53 | - | 137,310 |
+| 2023-04-09 | 4.53 | - | 137,346 |
+| 2023-04-10 | 4.53 | - | 137,374 |
+| 2023-04-11 | 4.53 | - | 137,407 |
+| 2023-04-12 | 4.53 | - | 137,439 |
+| 2023-04-13 | 4.53 | - | 137,466 |
+| 2023-04-14 | 4.53 | - | 137,497 |
+| 2023-04-15 | 4.53 | - | 137,536 |
+| 2023-04-16 | 4.53 | - | 137,576 |
+| 2023-04-17 | 4.53 | - | 137,603 |
+| 2023-04-18 | 4.53 | - | 137,603 |

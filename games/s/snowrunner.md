@@ -1,23 +1,23 @@
 # SnowRunner
-Rating: 4.76 (Ranked 113)  
+Rating: 4.76 (Ranked 112)  
 Number of Ratings: 21,349  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 7,311  (Ranked 39)  
-Sum: 52,838 (Ranked 20)  
-Diff (max vs sum): 19
+Max (Great for Beginners): 7,578  (Ranked 40)  
+Sum: 54,406 (Ranked 19)  
+Diff (max vs sum): 21
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 7,311 |
-| This game is Relaxing | 6,968 |
-| This game has Quickly Understood Controls | 6,873 |
-| This game is Highly Recommended | 6,721 |
-| This game is Extremely Fun | 6,551 |
-| This game has Amazing Storytelling | 5,837 |
-| This game has Challenging Combat | 4,571 |
-| This game has Amazing Characters | 4,124 |
+| This game is Great for Beginners | 7,578 |
+| This game is Relaxing | 7,114 |
+| This game has Quickly Understood Controls | 7,049 |
+| This game is Highly Recommended | 6,920 |
+| This game is Extremely Fun | 6,730 |
+| This game has Amazing Storytelling | 6,004 |
+| This game has Challenging Combat | 4,716 |
+| This game has Amazing Characters | 4,262 |
 | This game has Obsessive Gameplay | 4,064 |
-| This game has a Creative Community | 3,882 |
+| This game has a Creative Community | 4,033 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -85,4 +85,22 @@ Diff (max vs sum): 19
 | 2022-09-21 | 4.76 | 21,169 | - |
 | 2022-09-22 | 4.76 | 21,295 | - |
 | 2022-09-23 | 4.76 | 21,349 | - |
-| 2023-03-31 | 4.76 | - | 7,311 |
+| 2023-03-31 | 4.76 | - | 7,327 |
+| 2023-04-01 | 4.76 | - | 7,346 |
+| 2023-04-02 | 4.76 | - | 7,361 |
+| 2023-04-03 | 4.76 | - | 7,373 |
+| 2023-04-04 | 4.76 | - | 7,385 |
+| 2023-04-05 | 4.76 | - | 7,402 |
+| 2023-04-06 | 4.76 | - | 7,423 |
+| 2023-04-07 | 4.76 | - | 7,423 |
+| 2023-04-08 | 4.76 | - | 7,439 |
+| 2023-04-09 | 4.76 | - | 7,463 |
+| 2023-04-10 | 4.76 | - | 7,485 |
+| 2023-04-11 | 4.76 | - | 7,497 |
+| 2023-04-12 | 4.76 | - | 7,508 |
+| 2023-04-13 | 4.76 | - | 7,517 |
+| 2023-04-14 | 4.76 | - | 7,530 |
+| 2023-04-15 | 4.76 | - | 7,550 |
+| 2023-04-16 | 4.76 | - | 7,570 |
+| 2023-04-17 | 4.76 | - | 7,578 |
+| 2023-04-18 | 4.76 | - | 7,578 |

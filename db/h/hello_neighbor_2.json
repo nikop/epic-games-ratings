@@ -1,15 +1,15 @@
 {
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
-  "Rating": 4.38,
-  "Ranking_Rating": 673,
-  "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 478,
+  "Rating": 4.37,
+  "Ranking_Rating": 691,
+  "Ranking_Popularity": 484,
+  "Ranking_PopularitySum": 484,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-06T19:57:03.5315641+00:00",
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
-  "LastChanged": "2023-03-31T05:57:07.4929253+00:00",
+  "LastChanged": "2023-04-15T15:57:15.5517068+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-13T19:57:02.6250274+00:00",
@@ -206,6 +206,48 @@
     {
       "Time": "2023-03-31T05:57:07.4929255+00:00",
       "Rating": 4.38,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-01T19:56:57.4274313+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-02T19:57:18.0093099+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-03T19:57:15.7653773+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-06T19:57:10.8334759+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-07T19:57:04.9442707+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-10T14:57:00.6117227+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-15T15:57:15.5517073+00:00",
+      "Rating": 4.37,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

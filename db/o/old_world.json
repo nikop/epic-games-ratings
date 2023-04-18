@@ -1,16 +1,16 @@
 {
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
-  "Rating": 4.64,
-  "Ranking_Rating": 306,
+  "Rating": 4.65,
+  "Ranking_Rating": 286,
   "Ranking_Popularity": 245,
-  "Ranking_PopularitySum": 196,
+  "Ranking_PopularitySum": 197,
   "NumberOfRatings": 1307,
-  "NumberOfAwards": 1736,
+  "NumberOfAwards": 1743,
   "NumberOfAwardsMax": 212,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
-  "LastChanged": "2023-03-30T19:57:28.6002135+00:00",
+  "LastChanged": "2023-04-17T21:57:19.7365021+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:45.0865852+00:00",
@@ -1219,6 +1219,42 @@
     {
       "Time": "2023-03-30T19:57:28.6002137+00:00",
       "Rating": 4.64
+    },
+    {
+      "Time": "2023-04-01T01:57:23.3183794+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1736,
+      "NumberOfAwardsMax": 212
+    },
+    {
+      "Time": "2023-04-01T13:01:14.7577246+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1737,
+      "NumberOfAwardsMax": 212
+    },
+    {
+      "Time": "2023-04-06T18:57:45.5098792+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1739,
+      "NumberOfAwardsMax": 212
+    },
+    {
+      "Time": "2023-04-10T09:57:40.1757087+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1740,
+      "NumberOfAwardsMax": 212
+    },
+    {
+      "Time": "2023-04-12T14:57:39.9616807+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1742,
+      "NumberOfAwardsMax": 212
+    },
+    {
+      "Time": "2023-04-17T21:57:19.7365022+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1743,
+      "NumberOfAwardsMax": 212
     }
   ],
   "Tags": [
@@ -1226,13 +1262,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 197
+      "Count": 198
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 197
+      "Count": 201
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1244,7 +1280,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 198
+      "Count": 199
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1262,7 +1298,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 181
+      "Count": 182
     },
     {
       "Text": "This game is Relaxing",

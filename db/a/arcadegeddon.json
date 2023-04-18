@@ -2,15 +2,15 @@
   "ID": "043ffc92cbd64a9fbc350ea68f415937",
   "Name": "Arcadegeddon",
   "Rating": 4.49,
-  "Ranking_Rating": 537,
-  "Ranking_Popularity": 365,
-  "Ranking_PopularitySum": 281,
+  "Ranking_Rating": 541,
+  "Ranking_Popularity": 368,
+  "Ranking_PopularitySum": 285,
   "NumberOfRatings": 801,
-  "NumberOfAwards": 529,
+  "NumberOfAwards": 530,
   "NumberOfAwardsMax": 61,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
-  "LastChanged": "2022-12-10T04:57:12.813507+00:00",
+  "LastChanged": "2023-04-14T02:57:06.8469078+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:13.3727466+00:00",
@@ -603,6 +603,12 @@
     {
       "Time": "2022-12-10T04:57:12.8135071+00:00",
       "Rating": 4.49
+    },
+    {
+      "Time": "2023-04-14T02:57:06.8469079+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 530,
+      "NumberOfAwardsMax": 61
     }
   ],
   "Tags": [
@@ -646,7 +652,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game has Diverse Characters",

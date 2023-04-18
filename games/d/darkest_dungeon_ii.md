@@ -1,23 +1,23 @@
 # Darkest Dungeon II
-Rating: 4.67 (Ranked 255)  
+Rating: 4.67 (Ranked 256)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 6,386  (Ranked 44)  
-Sum: 16,168 (Ranked 56)  
-Diff (max vs sum): -12
+Max (Character Customization): 6,452  (Ranked 46)  
+Sum: 16,394 (Ranked 57)  
+Diff (max vs sum): -11
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 6,386 |
-| This game has Challenging Combat | 1,196 |
-| This game is Highly Recommended | 1,184 |
-| This game has Diverse Characters | 1,169 |
-| This game is Extremely Fun | 1,154 |
-| This game has Amazing Characters | 1,140 |
-| This game has Amazing Storytelling | 1,095 |
-| This game has Quickly Understood Controls | 1,090 |
-| This game has Unique Visuals | 1,005 |
-| This game has a Creative Community | 749 |
+| This game has Inclusive Character Customization | 6,452 |
+| This game has Challenging Combat | 1,209 |
+| This game has Diverse Characters | 1,204 |
+| This game is Highly Recommended | 1,200 |
+| This game is Extremely Fun | 1,171 |
+| This game has Amazing Characters | 1,153 |
+| This game has Amazing Storytelling | 1,110 |
+| This game has Quickly Understood Controls | 1,104 |
+| This game has Unique Visuals | 1,027 |
+| This game has a Creative Community | 764 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
 ## Ratings History
@@ -87,4 +87,22 @@ Diff (max vs sum): -12
 | 2022-09-21 | 4.67 | 7,686 | - |
 | 2022-09-22 | 4.67 | 7,735 | - |
 | 2022-09-23 | 4.67 | 7,767 | - |
-| 2023-03-31 | 4.67 | - | 6,386 |
+| 2023-03-31 | 4.67 | - | 6,388 |
+| 2023-04-01 | 4.67 | - | 6,391 |
+| 2023-04-02 | 4.67 | - | 6,395 |
+| 2023-04-03 | 4.67 | - | 6,400 |
+| 2023-04-04 | 4.67 | - | 6,400 |
+| 2023-04-05 | 4.67 | - | 6,405 |
+| 2023-04-06 | 4.67 | - | 6,409 |
+| 2023-04-07 | 4.67 | - | 6,410 |
+| 2023-04-08 | 4.67 | - | 6,418 |
+| 2023-04-09 | 4.67 | - | 6,424 |
+| 2023-04-10 | 4.67 | - | 6,428 |
+| 2023-04-11 | 4.67 | - | 6,430 |
+| 2023-04-12 | 4.67 | - | 6,434 |
+| 2023-04-13 | 4.67 | - | 6,434 |
+| 2023-04-14 | 4.67 | - | 6,438 |
+| 2023-04-15 | 4.67 | - | 6,440 |
+| 2023-04-16 | 4.67 | - | 6,449 |
+| 2023-04-17 | 4.67 | - | 6,452 |
+| 2023-04-18 | 4.67 | - | 6,452 |

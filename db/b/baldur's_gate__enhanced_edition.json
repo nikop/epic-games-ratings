@@ -1,16 +1,16 @@
 {
   "ID": "ab2f9078bcb04065a5c6c2fede9cb3b0",
   "Name": "Baldur\u0027s Gate: Enhanced Edition",
-  "Rating": 4.84,
-  "Ranking_Rating": 47,
-  "Ranking_Popularity": 376,
-  "Ranking_PopularitySum": 423,
+  "Rating": 4.83,
+  "Ranking_Rating": 54,
+  "Ranking_Popularity": 378,
+  "Ranking_PopularitySum": 425,
   "NumberOfRatings": 66,
   "NumberOfAwards": 50,
   "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:19:45.8967483+00:00",
-  "LastChanged": "2023-02-16T16:57:23.951135+00:00",
+  "LastChanged": "2023-04-12T07:57:35.8472461+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:45.8967486+00:00",
@@ -198,6 +198,12 @@
     {
       "Time": "2023-02-16T16:57:23.9511354+00:00",
       "Rating": 4.84
+    },
+    {
+      "Time": "2023-04-12T07:57:35.8472463+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 50,
+      "NumberOfAwardsMax": 50
     }
   ],
   "Tags": [

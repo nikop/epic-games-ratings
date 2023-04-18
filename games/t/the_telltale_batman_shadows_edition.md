@@ -1,10 +1,10 @@
 # The Telltale Batman Shadows Edition
-Rating: 4.74 (Ranked 141)  
+Rating: 4.75 (Ranked 126)  
 Number of Ratings: 135  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 41  (Ranked 400)  
-Sum: 41 (Ranked 431)  
-Diff (max vs sum): -31
+Max (Great Boss Battles): 41  (Ranked 404)  
+Sum: 41 (Ranked 436)  
+Diff (max vs sum): -32
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
@@ -69,3 +69,4 @@ Diff (max vs sum): -31
 | 2023-01-09 | 4.76 | - | - |
 | 2023-01-27 | 4.75 | - | - |
 | 2023-02-13 | 4.74 | - | - |
+| 2023-04-10 | 4.75 | - | 41 |

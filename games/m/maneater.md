@@ -1,24 +1,24 @@
 # Maneater
-Rating: 4.49 (Ranked 537)  
+Rating: 4.49 (Ranked 541)  
 Number of Ratings: 82,037  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 13,362  (Ranked 23)  
-Sum: 17,387 (Ranked 53)  
+Max (Character Customization): 13,387  (Ranked 24)  
+Sum: 17,432 (Ranked 54)  
 Diff (max vs sum): -30
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 13,362 |
-| This game has Great Boss Battles | 3,267 |
-| This game is Relaxing | 92 |
-| This game has Amazing Storytelling | 90 |
+| This game has Inclusive Character Customization | 13,387 |
+| This game has Great Boss Battles | 3,279 |
+| This game is Relaxing | 93 |
+| This game has Amazing Storytelling | 91 |
 | This game has Quickly Understood Controls | 87 |
-| This game is Highly Recommended | 84 |
-| This game is Great for Beginners | 84 |
+| This game is Highly Recommended | 85 |
+| This game is Great for Beginners | 85 |
+| This game is Educational | 83 |
 | This game is Extremely Fun | 83 |
-| This game is Educational | 82 |
-| This game has Amazing Characters | 78 |
-| This game has Diverse Characters | 78 |
+| This game has Diverse Characters | 80 |
+| This game has Amazing Characters | 79 |
 | This game is Great for Quick Sessions | 76 |
 | This game has a Creative Community | 68 |
 | This game has Obsessive Gameplay | 64 |
@@ -89,3 +89,19 @@ Diff (max vs sum): -30
 | 2022-09-21 | 4.49 | 81,918 | - |
 | 2022-09-22 | 4.49 | 81,957 | - |
 | 2022-09-23 | 4.49 | 82,037 | - |
+| 2023-04-01 | 4.49 | - | 13,362 |
+| 2023-04-02 | 4.49 | - | 13,363 |
+| 2023-04-03 | 4.49 | - | 13,365 |
+| 2023-04-05 | 4.49 | - | 13,365 |
+| 2023-04-06 | 4.49 | - | 13,365 |
+| 2023-04-07 | 4.49 | - | 13,368 |
+| 2023-04-08 | 4.49 | - | 13,371 |
+| 2023-04-09 | 4.49 | - | 13,371 |
+| 2023-04-10 | 4.49 | - | 13,376 |
+| 2023-04-11 | 4.49 | - | 13,378 |
+| 2023-04-12 | 4.49 | - | 13,378 |
+| 2023-04-13 | 4.49 | - | 13,381 |
+| 2023-04-14 | 4.49 | - | 13,381 |
+| 2023-04-15 | 4.49 | - | 13,384 |
+| 2023-04-16 | 4.49 | - | 13,387 |
+| 2023-04-17 | 4.49 | - | 13,387 |

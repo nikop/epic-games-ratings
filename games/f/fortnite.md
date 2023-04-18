@@ -1,21 +1,21 @@
 # Fortnite
-Rating: 4.30 (Ranked 738)  
+Rating: 4.29 (Ranked 752)  
 Number of Ratings: 2,283,925  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Competitive Players): 1,179,756  (Ranked 1)  
-Sum: 8,553,807 (Ranked 1)  
+Max (Competitive Players): 1,232,900  (Ranked 1)  
+Sum: 8,928,533 (Ranked 1)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Competitive Players | 1,179,756 |
-| This game has Quickly Understood Controls | 1,134,513 |
-| This game is Extremely Fun | 1,124,119 |
-| This game has Diverse Characters | 1,101,658 |
-| This game has Amazing Storytelling | 1,058,661 |
-| This game has Amazing Characters | 1,045,145 |
-| This game is Highly Recommended | 1,033,660 |
-| This game has a Competitive Community | 876,295 |
+| This game has Competitive Players | 1,232,900 |
+| This game has Quickly Understood Controls | 1,186,824 |
+| This game is Extremely Fun | 1,173,573 |
+| This game has Diverse Characters | 1,150,408 |
+| This game has Amazing Storytelling | 1,104,176 |
+| This game has Amazing Characters | 1,088,592 |
+| This game is Highly Recommended | 1,078,393 |
+| This game has a Competitive Community | 913,667 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -83,4 +83,22 @@ Diff (max vs sum): 0
 | 2022-09-21 | 4.30 | 2,263,995 | - |
 | 2022-09-22 | 4.30 | 2,276,162 | - |
 | 2022-09-23 | 4.30 | 2,283,925 | - |
-| 2023-03-31 | 4.30 | - | 1,179,756 |
+| 2023-03-31 | 4.30 | - | 1,182,187 |
+| 2023-04-01 | 4.30 | - | 1,185,585 |
+| 2023-04-02 | 4.30 | - | 1,188,924 |
+| 2023-04-03 | 4.30 | - | 1,191,442 |
+| 2023-04-04 | 4.30 | - | 1,193,695 |
+| 2023-04-05 | 4.30 | - | 1,196,589 |
+| 2023-04-06 | 4.30 | - | 1,199,720 |
+| 2023-04-07 | 4.30 | - | 1,203,034 |
+| 2023-04-08 | 4.30 | - | 1,206,086 |
+| 2023-04-09 | 4.30 | - | 1,208,922 |
+| 2023-04-10 | 4.30 | - | 1,211,591 |
+| 2023-04-11 | 4.30 | - | 1,215,002 |
+| 2023-04-12 | 4.30 | - | 1,218,169 |
+| 2023-04-13 | 4.30 | - | 1,220,762 |
+| 2023-04-14 | 4.30 | - | 1,223,679 |
+| 2023-04-15 | 4.30 | - | 1,227,310 |
+| 2023-04-16 | 4.30 | - | 1,230,626 |
+| 2023-04-17 | 4.29 | - | 1,232,900 |
+| 2023-04-18 | 4.29 | - | 1,232,900 |

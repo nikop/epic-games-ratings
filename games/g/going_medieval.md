@@ -1,21 +1,21 @@
 # Going Medieval
-Rating: 4.60 (Ranked 374)  
+Rating: 4.60 (Ranked 375)  
 Number of Ratings: 706  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Relaxing): 116  (Ranked 296)  
-Sum: 897 (Ranked 230)  
-Diff (max vs sum): 66
+Max (Relaxing): 117  (Ranked 297)  
+Sum: 910 (Ranked 230)  
+Diff (max vs sum): 67
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Relaxing | 116 |
-| This game is Great for Beginners | 102 |
+| This game is Relaxing | 117 |
+| This game is Great for Beginners | 105 |
 | This game has Quickly Understood Controls | 98 |
-| This game is Extremely Fun | 96 |
-| This game has Diverse Characters | 94 |
+| This game is Extremely Fun | 98 |
+| This game has Diverse Characters | 98 |
 | This game is Highly Recommended | 93 |
-| This game has Amazing Characters | 88 |
-| This game has Amazing Storytelling | 79 |
+| This game has Amazing Characters | 89 |
+| This game has Amazing Storytelling | 81 |
 | This game has Unique Visuals | 74 |
 | This game has a Creative Community | 57 |
 | This game has Obsessive Gameplay | 56 |
@@ -91,3 +91,13 @@ Diff (max vs sum): 66
 | 2023-01-16 | 4.60 | - | - |
 | 2023-01-17 | 4.61 | - | - |
 | 2023-01-23 | 4.60 | - | - |
+| 2023-04-01 | 4.60 | - | 116 |
+| 2023-04-02 | 4.60 | - | 116 |
+| 2023-04-05 | 4.60 | - | 116 |
+| 2023-04-06 | 4.60 | - | 116 |
+| 2023-04-07 | 4.60 | - | 116 |
+| 2023-04-08 | 4.60 | - | 116 |
+| 2023-04-12 | 4.60 | - | 116 |
+| 2023-04-13 | 4.60 | - | 117 |
+| 2023-04-15 | 4.60 | - | 117 |
+| 2023-04-17 | 4.60 | - | 117 |

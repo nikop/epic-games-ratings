@@ -1,14 +1,14 @@
 # Ghost Recon Future Soldier: Ultimate Edition
-Rating: 4.56 (Ranked 436)  
+Rating: 4.57 (Ranked 422)  
 Number of Ratings: 23  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 22  (Ranked 461)  
-Sum: 22 (Ranked 462)  
-Diff (max vs sum): -1
+Max (Great Boss Battles): 25  (Ranked 457)  
+Sum: 25 (Ranked 462)  
+Diff (max vs sum): -5
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 22 |
+| This game has Great Boss Battles | 25 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -46,3 +46,7 @@ Diff (max vs sum): -1
 | 2023-01-07 | 4.54 | - | - |
 | 2023-01-09 | 4.55 | - | - |
 | 2023-03-03 | 4.56 | - | - |
+| 2023-03-31 | 4.56 | - | 23 |
+| 2023-04-10 | 4.57 | - | 23 |
+| 2023-04-12 | 4.57 | - | 24 |
+| 2023-04-16 | 4.57 | - | 25 |

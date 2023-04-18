@@ -2,15 +2,15 @@
   "ID": "95d0b9561be1464cb43bd029e94cf526",
   "Name": "Ghostrunner",
   "Rating": 4.72,
-  "Ranking_Rating": 167,
-  "Ranking_Popularity": 184,
-  "Ranking_PopularitySum": 274,
+  "Ranking_Rating": 164,
+  "Ranking_Popularity": 186,
+  "Ranking_PopularitySum": 278,
   "NumberOfRatings": 1047,
-  "NumberOfAwards": 575,
-  "NumberOfAwardsMax": 445,
+  "NumberOfAwards": 582,
+  "NumberOfAwardsMax": 450,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
-  "LastChanged": "2022-11-28T05:57:13.6454512+00:00",
+  "LastChanged": "2023-04-15T04:57:20.2633218+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:51.2324113+00:00",
@@ -722,6 +722,48 @@
     {
       "Time": "2022-11-28T05:57:13.6454513+00:00",
       "Rating": 4.72
+    },
+    {
+      "Time": "2023-04-01T09:57:27.1486266+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 576,
+      "NumberOfAwardsMax": 446
+    },
+    {
+      "Time": "2023-04-07T09:57:30.9105974+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 577,
+      "NumberOfAwardsMax": 446
+    },
+    {
+      "Time": "2023-04-07T10:57:07.4614383+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 578,
+      "NumberOfAwardsMax": 447
+    },
+    {
+      "Time": "2023-04-09T13:00:36.8313861+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 579,
+      "NumberOfAwardsMax": 447
+    },
+    {
+      "Time": "2023-04-09T13:57:47.6942842+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 580,
+      "NumberOfAwardsMax": 448
+    },
+    {
+      "Time": "2023-04-12T15:57:21.3746391+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 581,
+      "NumberOfAwardsMax": 449
+    },
+    {
+      "Time": "2023-04-15T04:57:20.263322+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 582,
+      "NumberOfAwardsMax": 450
     }
   ],
   "Tags": [
@@ -729,7 +771,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 445
+      "Count": 450
     },
     {
       "Text": "This game has Diverse Characters",
@@ -753,7 +795,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game is Extremely Fun",
@@ -765,7 +807,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 20
+      "Count": 21
     }
   ]
 }

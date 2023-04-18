@@ -1,24 +1,24 @@
 # Pinball FX
-Rating: 4.02 (Ranked 859)  
+Rating: 4.03 (Ranked 864)  
 Number of Ratings: 756  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 164  (Ranked 270)  
-Sum: 1,439 (Ranked 209)  
+Max (Great for Beginners): 168  (Ranked 269)  
+Sum: 1,465 (Ranked 208)  
 Diff (max vs sum): 61
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 164 |
-| This game is Great for Quick Sessions | 162 |
-| This game has Quickly Understood Controls | 159 |
-| This game is Relaxing | 151 |
-| This game is Extremely Fun | 148 |
-| This game is Highly Recommended | 142 |
-| This game has Competitive Players | 140 |
-| This game has Amazing Storytelling | 96 |
-| This game has Challenging Combat | 96 |
-| This game has a Competitive Community | 95 |
-| This game has Amazing Characters | 86 |
+| This game is Great for Beginners | 168 |
+| This game is Great for Quick Sessions | 165 |
+| This game has Quickly Understood Controls | 160 |
+| This game is Relaxing | 153 |
+| This game is Extremely Fun | 151 |
+| This game is Highly Recommended | 145 |
+| This game has Competitive Players | 143 |
+| This game has a Competitive Community | 98 |
+| This game has Amazing Storytelling | 97 |
+| This game has Challenging Combat | 97 |
+| This game has Amazing Characters | 88 |
 | This game has Obsessive Gameplay | 65 |
 | This game has Realistic Visuals | 52 |
 ## Ratings History
@@ -114,3 +114,15 @@ Diff (max vs sum): 61
 | 2023-03-16 | 4.02 | - | - |
 | 2023-03-17 | 4.01 | - | - |
 | 2023-03-27 | 4.02 | - | - |
+| 2023-04-01 | 4.02 | - | 165 |
+| 2023-04-02 | 4.02 | - | 165 |
+| 2023-04-06 | 4.02 | - | 165 |
+| 2023-04-08 | 4.02 | - | 165 |
+| 2023-04-09 | 4.02 | - | 165 |
+| 2023-04-10 | 4.02 | - | 166 |
+| 2023-04-12 | 4.02 | - | 166 |
+| 2023-04-13 | 4.02 | - | 167 |
+| 2023-04-14 | 4.02 | - | 168 |
+| 2023-04-15 | 4.02 | - | 168 |
+| 2023-04-16 | 4.03 | - | 168 |
+| 2023-04-18 | 4.03 | - | 168 |

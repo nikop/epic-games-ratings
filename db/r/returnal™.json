@@ -1,15 +1,16 @@
 {
   "ID": "4c461792757541e99c4a16c00834c956",
   "Name": "Returnal\u2122",
-  "Rating": 4.69,
-  "Ranking_Rating": 215,
-  "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 478,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
+  "Rating": 4.66,
+  "Ranking_Rating": 272,
+  "Ranking_Popularity": 477,
+  "Ranking_PopularitySum": 477,
+  "NumberOfAwards": 20,
+  "NumberOfAwardsMax": 20,
+  "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2023-02-15T19:57:17.063924+00:00",
   "FirstSeenRating": "2023-02-22T19:57:26.9994266+00:00",
-  "LastChanged": "2023-03-31T10:15:59.4550703+00:00",
+  "LastChanged": "2023-04-11T23:57:21.1099815+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-22T19:57:26.9994274+00:00",
@@ -90,7 +91,32 @@
       "Rating": 4.69,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-05T18:57:27.978248+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-07T18:57:26.4064321+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-11T23:57:21.1099816+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 20
+    }
+  ]
 }

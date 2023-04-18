@@ -1,15 +1,15 @@
 # Relicta
-Rating: 4.15 (Ranked 824)  
+Rating: 4.15 (Ranked 829)  
 Number of Ratings: 429  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Challenging Puzzles): 189  (Ranked 256)  
-Sum: 254 (Ranked 330)  
-Diff (max vs sum): -74
+Max (Challenging Puzzles): 192  (Ranked 256)  
+Sum: 260 (Ranked 333)  
+Diff (max vs sum): -77
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game features Challenging Puzzles | 189 |
-| In this game, your choices Don't Impact the Story | 65 |
+| This game features Challenging Puzzles | 192 |
+| In this game, your choices Don't Impact the Story | 68 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -94,3 +94,7 @@ Diff (max vs sum): -74
 | 2023-01-15 | 4.15 | - | - |
 | 2023-02-10 | 4.14 | - | - |
 | 2023-02-14 | 4.15 | - | - |
+| 2023-04-01 | 4.15 | - | 190 |
+| 2023-04-03 | 4.15 | - | 190 |
+| 2023-04-10 | 4.15 | - | 192 |
+| 2023-04-13 | 4.15 | - | 192 |

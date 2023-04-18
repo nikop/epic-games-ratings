@@ -1,21 +1,21 @@
 # Gotham Knights
-Rating: 4.17 (Ranked 811)  
+Rating: 4.17 (Ranked 818)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 2,065  (Ranked 98)  
-Sum: 3,408 (Ranked 140)  
-Diff (max vs sum): -42
+Max (Great Boss Battles): 2,133  (Ranked 99)  
+Sum: 3,514 (Ranked 139)  
+Diff (max vs sum): -40
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 2,065 |
-| This game is Extremely Fun | 173 |
-| This game has Quickly Understood Controls | 172 |
-| This game is Relaxing | 172 |
-| This game has Diverse Characters | 170 |
-| This game has Amazing Characters | 169 |
-| This game is Highly Recommended | 168 |
-| This game has Amazing Storytelling | 161 |
-| This game is Great for Beginners | 158 |
+| This game has Great Boss Battles | 2,133 |
+| This game is Relaxing | 180 |
+| This game is Extremely Fun | 180 |
+| This game has Quickly Understood Controls | 176 |
+| This game has Diverse Characters | 173 |
+| This game has Amazing Characters | 171 |
+| This game is Highly Recommended | 171 |
+| This game is Great for Beginners | 166 |
+| This game has Amazing Storytelling | 164 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -62,3 +62,21 @@ Diff (max vs sum): -42
 | 2023-02-10 | 4.17 | - | - |
 | 2023-02-11 | 4.16 | - | - |
 | 2023-03-20 | 4.17 | - | - |
+| 2023-04-01 | 4.17 | - | 2,069 |
+| 2023-04-02 | 4.17 | - | 2,073 |
+| 2023-04-03 | 4.17 | - | 2,077 |
+| 2023-04-04 | 4.17 | - | 2,083 |
+| 2023-04-05 | 4.17 | - | 2,085 |
+| 2023-04-06 | 4.17 | - | 2,085 |
+| 2023-04-07 | 4.17 | - | 2,090 |
+| 2023-04-08 | 4.17 | - | 2,094 |
+| 2023-04-09 | 4.17 | - | 2,100 |
+| 2023-04-10 | 4.17 | - | 2,104 |
+| 2023-04-11 | 4.17 | - | 2,111 |
+| 2023-04-12 | 4.17 | - | 2,115 |
+| 2023-04-13 | 4.17 | - | 2,115 |
+| 2023-04-14 | 4.17 | - | 2,119 |
+| 2023-04-15 | 4.17 | - | 2,122 |
+| 2023-04-16 | 4.17 | - | 2,127 |
+| 2023-04-17 | 4.17 | - | 2,133 |
+| 2023-04-18 | 4.17 | - | 2,133 |

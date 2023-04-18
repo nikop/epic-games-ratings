@@ -1,23 +1,23 @@
 # Control
-Rating: 4.60 (Ranked 374)  
+Rating: 4.60 (Ranked 375)  
 Number of Ratings: 16,122  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 8,193  (Ranked 36)  
-Sum: 12,207 (Ranked 66)  
-Diff (max vs sum): -30
+Max (Great Boss Battles): 8,225  (Ranked 37)  
+Sum: 12,268 (Ranked 69)  
+Diff (max vs sum): -32
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 8,193 |
-| This game is Highly Recommended | 490 |
-| This game has Amazing Storytelling | 484 |
-| This game has Challenging Combat | 477 |
-| This game is Extremely Fun | 472 |
-| This game has Diverse Characters | 468 |
-| This game has Quickly Understood Controls | 464 |
-| This game has Unique Visuals | 451 |
-| This game has Amazing Characters | 449 |
-| This game has a Creative Community | 259 |
+| This game has Great Boss Battles | 8,225 |
+| This game is Highly Recommended | 495 |
+| This game has Amazing Storytelling | 487 |
+| This game has Challenging Combat | 481 |
+| This game is Extremely Fun | 477 |
+| This game has Diverse Characters | 472 |
+| This game has Quickly Understood Controls | 466 |
+| This game has Unique Visuals | 453 |
+| This game has Amazing Characters | 452 |
+| This game has a Creative Community | 260 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -86,3 +86,20 @@ Diff (max vs sum): -30
 | 2022-09-22 | 4.60 | 16,046 | - |
 | 2022-09-23 | 4.60 | 16,122 | - |
 | 2023-03-31 | 4.60 | - | 8,193 |
+| 2023-04-01 | 4.60 | - | 8,195 |
+| 2023-04-02 | 4.60 | - | 8,200 |
+| 2023-04-03 | 4.60 | - | 8,200 |
+| 2023-04-04 | 4.60 | - | 8,202 |
+| 2023-04-05 | 4.60 | - | 8,202 |
+| 2023-04-06 | 4.60 | - | 8,204 |
+| 2023-04-07 | 4.60 | - | 8,206 |
+| 2023-04-08 | 4.60 | - | 8,209 |
+| 2023-04-09 | 4.60 | - | 8,209 |
+| 2023-04-10 | 4.60 | - | 8,211 |
+| 2023-04-11 | 4.60 | - | 8,214 |
+| 2023-04-12 | 4.60 | - | 8,216 |
+| 2023-04-13 | 4.60 | - | 8,217 |
+| 2023-04-14 | 4.60 | - | 8,221 |
+| 2023-04-15 | 4.60 | - | 8,221 |
+| 2023-04-16 | 4.60 | - | 8,222 |
+| 2023-04-17 | 4.60 | - | 8,225 |

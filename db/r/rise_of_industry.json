@@ -1,15 +1,15 @@
 {
   "ID": "9f101e25b1a9427a9e6971d2b21c5f82",
   "Name": "Rise of Industry",
-  "Rating": 4.22,
-  "Ranking_Rating": 784,
-  "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 478,
+  "Rating": 4.21,
+  "Ranking_Rating": 790,
+  "Ranking_Popularity": 484,
+  "Ranking_PopularitySum": 484,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-08-13T00:31:45.0285821+00:00",
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
-  "LastChanged": "2023-03-31T05:58:14.2651928+00:00",
+  "LastChanged": "2023-04-16T16:57:49.4796452+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-03T20:57:50.7322234+00:00",
@@ -106,6 +106,36 @@
     {
       "Time": "2023-03-31T05:58:14.2651929+00:00",
       "Rating": 4.22,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-02T16:58:13.4945723+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-03T16:58:25.1704672+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-11T03:58:32.6629135+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-12T04:58:02.194246+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-16T16:57:49.4796453+00:00",
+      "Rating": 4.21,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

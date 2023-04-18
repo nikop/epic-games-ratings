@@ -2,15 +2,15 @@
   "ID": "253d451b16364a22907dd01b7e928fb6",
   "Name": "Horizon Chase Turbo",
   "Rating": 4.56,
-  "Ranking_Rating": 436,
+  "Ranking_Rating": 439,
   "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 223,
   "NumberOfRatings": 1343,
-  "NumberOfAwards": 1032,
-  "NumberOfAwardsMax": 126,
+  "NumberOfAwards": 1055,
+  "NumberOfAwardsMax": 132,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
-  "LastChanged": "2023-02-17T05:57:01.3230796+00:00",
+  "LastChanged": "2023-04-17T14:57:13.9265672+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:20.5347353+00:00",
@@ -1146,6 +1146,108 @@
     {
       "Time": "2023-02-17T05:57:01.3230799+00:00",
       "Rating": 4.56
+    },
+    {
+      "Time": "2023-03-31T15:56:57.858584+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1033,
+      "NumberOfAwardsMax": 126
+    },
+    {
+      "Time": "2023-03-31T16:57:21.8437021+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1034,
+      "NumberOfAwardsMax": 127
+    },
+    {
+      "Time": "2023-04-01T01:56:55.6189681+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1035,
+      "NumberOfAwardsMax": 127
+    },
+    {
+      "Time": "2023-04-03T01:52:53.3585459+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1036,
+      "NumberOfAwardsMax": 127
+    },
+    {
+      "Time": "2023-04-04T03:57:25.6053352+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1039,
+      "NumberOfAwardsMax": 127
+    },
+    {
+      "Time": "2023-04-04T14:57:23.8767902+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1041,
+      "NumberOfAwardsMax": 129
+    },
+    {
+      "Time": "2023-04-05T13:57:19.4589724+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1042,
+      "NumberOfAwardsMax": 129
+    },
+    {
+      "Time": "2023-04-06T13:57:10.650423+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1043,
+      "NumberOfAwardsMax": 129
+    },
+    {
+      "Time": "2023-04-07T09:57:21.9705893+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1045,
+      "NumberOfAwardsMax": 129
+    },
+    {
+      "Time": "2023-04-08T18:57:12.624405+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1047,
+      "NumberOfAwardsMax": 129
+    },
+    {
+      "Time": "2023-04-08T20:57:14.0043233+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1048,
+      "NumberOfAwardsMax": 129
+    },
+    {
+      "Time": "2023-04-09T02:57:23.8816171+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1049,
+      "NumberOfAwardsMax": 129
+    },
+    {
+      "Time": "2023-04-11T01:54:45.7878847+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1050,
+      "NumberOfAwardsMax": 129
+    },
+    {
+      "Time": "2023-04-12T09:57:28.1289603+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1051,
+      "NumberOfAwardsMax": 129
+    },
+    {
+      "Time": "2023-04-12T11:57:24.9357209+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1052,
+      "NumberOfAwardsMax": 129
+    },
+    {
+      "Time": "2023-04-12T15:57:12.2817938+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1053,
+      "NumberOfAwardsMax": 130
+    },
+    {
+      "Time": "2023-04-17T14:57:13.9265674+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1055,
+      "NumberOfAwardsMax": 132
     }
   ],
   "Tags": [
@@ -1153,49 +1255,49 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 126
+      "Count": 132
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 110
+      "Count": 112
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 100
+      "Count": 101
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 81
+      "Count": 82
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 95
+      "Count": 97
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 94
+      "Count": 95
     },
     {
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 92
+      "Count": 93
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 107
+      "Count": 109
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1207,19 +1309,19 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 76
+      "Count": 78
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 86
+      "Count": 90
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 65
+      "Count": 66
     }
   ]
 }

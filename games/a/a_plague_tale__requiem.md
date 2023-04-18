@@ -1,16 +1,16 @@
 # A Plague Tale: Requiem
 Rating: 4.74 (Ranked 141)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 395  (Ranked 191)  
-Sum: 548 (Ranked 278)  
-Diff (max vs sum): -87
+Max (Great Boss Battles): 398  (Ranked 193)  
+Sum: 553 (Ranked 283)  
+Diff (max vs sum): -90
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 395 |
+| This game has Great Boss Battles | 398 |
 | This game is Highly Recommended | 29 |
-| This game has Diverse Characters | 27 |
-| This game is Great for Beginners | 26 |
+| This game has Diverse Characters | 28 |
+| This game is Great for Beginners | 27 |
 | This game is Relaxing | 24 |
 | This game has Amazing Storytelling | 24 |
 | This game is Extremely Fun | 23 |
@@ -39,3 +39,7 @@ Diff (max vs sum): -87
 | 2022-12-30 | 4.74 | - | - |
 | 2023-01-02 | 4.73 | - | - |
 | 2023-01-06 | 4.74 | - | - |
+| 2023-04-01 | 4.74 | - | 396 |
+| 2023-04-06 | 4.74 | - | 397 |
+| 2023-04-08 | 4.74 | - | 397 |
+| 2023-04-17 | 4.74 | - | 398 |

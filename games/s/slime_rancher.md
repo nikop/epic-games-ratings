@@ -1,22 +1,22 @@
 # Slime Rancher
-Rating: 4.83 (Ranked 55)  
+Rating: 4.83 (Ranked 54)  
 Number of Ratings: 5,898  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 385  (Ranked 195)  
-Sum: 2,983 (Ranked 146)  
-Diff (max vs sum): 49
+Max (Great for Beginners): 385  (Ranked 198)  
+Sum: 2,997 (Ranked 146)  
+Diff (max vs sum): 52
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Great for Beginners | 385 |
-| This game has Quickly Understood Controls | 359 |
-| This game has Amazing Storytelling | 351 |
-| This game is Extremely Fun | 332 |
-| This game has Easy Combat | 331 |
-| This game is Relaxing | 328 |
-| This game is Highly Recommended | 308 |
+| This game has Quickly Understood Controls | 360 |
+| This game has Amazing Storytelling | 354 |
+| This game has Easy Combat | 335 |
+| This game is Extremely Fun | 333 |
+| This game is Relaxing | 329 |
+| This game is Highly Recommended | 310 |
+| This game has Amazing Characters | 296 |
 | This game has Diverse Characters | 295 |
-| This game has Amazing Characters | 294 |
 | This game has Obsessive Gameplay | 243 |
 | This game is Educational | 87 |
 | This game has a Kind Community | 42 |
@@ -88,3 +88,12 @@ Diff (max vs sum): 49
 | 2022-09-22 | 4.83 | 5,856 | - |
 | 2022-09-23 | 4.84 | 5,898 | - |
 | 2022-09-28 | 4.83 | - | - |
+| 2023-03-31 | 4.83 | - | 385 |
+| 2023-04-01 | 4.83 | - | 385 |
+| 2023-04-04 | 4.82 | - | 385 |
+| 2023-04-06 | 4.83 | - | 385 |
+| 2023-04-09 | 4.83 | - | 385 |
+| 2023-04-10 | 4.83 | - | 385 |
+| 2023-04-11 | 4.83 | - | 385 |
+| 2023-04-12 | 4.83 | - | 385 |
+| 2023-04-15 | 4.83 | - | 385 |

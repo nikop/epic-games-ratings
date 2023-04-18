@@ -1,23 +1,23 @@
 # Against the Storm
-Rating: 4.81 (Ranked 67)  
+Rating: 4.81 (Ranked 70)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Quickly Understood Controls): 414  (Ranked 188)  
-Sum: 2,958 (Ranked 148)  
-Diff (max vs sum): 40
+Max (Quickly Understood Controls): 416  (Ranked 188)  
+Sum: 2,983 (Ranked 150)  
+Diff (max vs sum): 38
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Quickly Understood Controls | 414 |
-| This game is Relaxing | 404 |
-| This game is Extremely Fun | 383 |
-| This game is Highly Recommended | 364 |
-| This game is Great for Beginners | 359 |
-| This game has Amazing Storytelling | 294 |
-| This game has Unique Visuals | 291 |
-| This game has Amazing Characters | 265 |
+| This game has Quickly Understood Controls | 416 |
+| This game is Relaxing | 407 |
+| This game is Extremely Fun | 385 |
+| This game is Highly Recommended | 366 |
+| This game is Great for Beginners | 364 |
+| This game has Amazing Storytelling | 297 |
+| This game has Unique Visuals | 295 |
+| This game has Amazing Characters | 267 |
 | This game has Obsessive Gameplay | 254 |
-| This game has a Creative Community | 184 |
+| This game has a Creative Community | 186 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -101,3 +101,17 @@ Diff (max vs sum): 40
 | 2023-02-21 | 4.82 | - | - |
 | 2023-02-27 | 4.81 | - | - |
 | 2023-03-31 | 4.81 | - | 414 |
+| 2023-04-01 | 4.81 | - | 414 |
+| 2023-04-04 | 4.81 | - | 414 |
+| 2023-04-06 | 4.81 | - | 414 |
+| 2023-04-07 | 4.81 | - | 414 |
+| 2023-04-08 | 4.81 | - | 414 |
+| 2023-04-09 | 4.81 | - | 414 |
+| 2023-04-10 | 4.81 | - | 414 |
+| 2023-04-11 | 4.81 | - | 414 |
+| 2023-04-12 | 4.81 | - | 415 |
+| 2023-04-13 | 4.81 | - | 415 |
+| 2023-04-14 | 4.81 | - | 415 |
+| 2023-04-15 | 4.81 | - | 415 |
+| 2023-04-16 | 4.81 | - | 416 |
+| 2023-04-17 | 4.81 | - | 416 |

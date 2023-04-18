@@ -1,22 +1,22 @@
 # The Elder Scrolls V: Skyrim Special Edition
-Rating: 4.87 (Ranked 24)  
+Rating: 4.86 (Ranked 29)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 1,156  (Ranked 120)  
-Sum: 2,615 (Ranked 157)  
+Max (Character Customization): 1,186  (Ranked 120)  
+Sum: 2,686 (Ranked 157)  
 Diff (max vs sum): -37
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 1,156 |
-| This game is Great for Beginners | 190 |
-| This game has Diverse Characters | 189 |
-| This game is Highly Recommended | 167 |
-| This game has Quickly Understood Controls | 163 |
-| This game is Extremely Fun | 162 |
-| This game has Amazing Storytelling | 160 |
-| This game has Amazing Characters | 155 |
-| This game is Relaxing | 152 |
-| This game has a Creative Community | 121 |
+| This game has Inclusive Character Customization | 1,186 |
+| This game is Great for Beginners | 199 |
+| This game has Diverse Characters | 197 |
+| This game is Highly Recommended | 172 |
+| This game has Amazing Storytelling | 166 |
+| This game has Quickly Understood Controls | 165 |
+| This game is Extremely Fun | 164 |
+| This game has Amazing Characters | 157 |
+| This game is Relaxing | 154 |
+| This game has a Creative Community | 126 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -58,3 +58,19 @@ Diff (max vs sum): -37
 | 2023-02-21 | 4.86 | - | - |
 | 2023-03-12 | 4.87 | - | - |
 | 2023-03-31 | 4.87 | - | 1,156 |
+| 2023-04-01 | 4.87 | - | 1,157 |
+| 2023-04-02 | 4.87 | - | 1,159 |
+| 2023-04-03 | 4.87 | - | 1,160 |
+| 2023-04-04 | 4.86 | - | 1,163 |
+| 2023-04-05 | 4.86 | - | 1,164 |
+| 2023-04-06 | 4.86 | - | 1,164 |
+| 2023-04-07 | 4.86 | - | 1,167 |
+| 2023-04-08 | 4.87 | - | 1,168 |
+| 2023-04-09 | 4.86 | - | 1,171 |
+| 2023-04-10 | 4.86 | - | 1,171 |
+| 2023-04-11 | 4.86 | - | 1,173 |
+| 2023-04-12 | 4.86 | - | 1,177 |
+| 2023-04-13 | 4.86 | - | 1,179 |
+| 2023-04-14 | 4.86 | - | 1,179 |
+| 2023-04-15 | 4.86 | - | 1,180 |
+| 2023-04-16 | 4.86 | - | 1,186 |

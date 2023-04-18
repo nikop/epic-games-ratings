@@ -5,12 +5,12 @@
   "Ranking_Rating": 141,
   "Ranking_Popularity": 164,
   "Ranking_PopularitySum": 237,
-  "NumberOfAwards": 830,
-  "NumberOfAwardsMax": 568,
+  "NumberOfAwards": 845,
+  "NumberOfAwardsMax": 575,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-10-19T19:01:42.4603943+00:00",
   "FirstSeenRating": "2022-10-20T19:02:12.9087244+00:00",
-  "LastChanged": "2023-03-26T16:57:46.08353+00:00",
+  "LastChanged": "2023-04-17T11:57:55.3381546+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-20T19:02:12.9087246+00:00",
@@ -231,6 +231,90 @@
     {
       "Time": "2023-03-26T16:57:46.0835302+00:00",
       "Rating": 4.74
+    },
+    {
+      "Time": "2023-04-01T15:57:35.8754988+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 831,
+      "NumberOfAwardsMax": 568
+    },
+    {
+      "Time": "2023-04-02T11:58:00.4194569+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 832,
+      "NumberOfAwardsMax": 568
+    },
+    {
+      "Time": "2023-04-04T02:58:12.957557+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 833,
+      "NumberOfAwardsMax": 569
+    },
+    {
+      "Time": "2023-04-04T03:57:57.2889146+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 834,
+      "NumberOfAwardsMax": 569
+    },
+    {
+      "Time": "2023-04-07T14:58:07.8362653+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 835,
+      "NumberOfAwardsMax": 569
+    },
+    {
+      "Time": "2023-04-07T15:57:52.4897808+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 836,
+      "NumberOfAwardsMax": 570
+    },
+    {
+      "Time": "2023-04-08T11:57:56.9830092+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 837,
+      "NumberOfAwardsMax": 570
+    },
+    {
+      "Time": "2023-04-09T01:57:59.8432919+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 838,
+      "NumberOfAwardsMax": 570
+    },
+    {
+      "Time": "2023-04-09T04:58:15.793875+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 839,
+      "NumberOfAwardsMax": 571
+    },
+    {
+      "Time": "2023-04-12T19:57:42.4950998+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 840,
+      "NumberOfAwardsMax": 572
+    },
+    {
+      "Time": "2023-04-13T19:58:16.8029468+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 841,
+      "NumberOfAwardsMax": 573
+    },
+    {
+      "Time": "2023-04-14T20:57:35.598722+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 843,
+      "NumberOfAwardsMax": 575
+    },
+    {
+      "Time": "2023-04-16T21:57:55.7450583+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 844,
+      "NumberOfAwardsMax": 575
+    },
+    {
+      "Time": "2023-04-17T11:57:55.3381547+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 845,
+      "NumberOfAwardsMax": 575
     }
   ],
   "Tags": [
@@ -238,13 +322,13 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 568
+      "Count": 575
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game is Highly Recommended",
@@ -256,19 +340,19 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -280,7 +364,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 27
+      "Count": 29
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -292,7 +376,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 20
+      "Count": 22
     }
   ]
 }

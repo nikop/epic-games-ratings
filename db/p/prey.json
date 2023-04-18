@@ -2,15 +2,15 @@
   "ID": "6ea398b9c2244250a9177c0b8a69b5cd",
   "Name": "Prey",
   "Rating": 4.62,
-  "Ranking_Rating": 333,
-  "Ranking_Popularity": 56,
-  "Ranking_PopularitySum": 92,
+  "Ranking_Rating": 334,
+  "Ranking_Popularity": 57,
+  "Ranking_PopularitySum": 94,
   "NumberOfRatings": 13217,
-  "NumberOfAwards": 7406,
-  "NumberOfAwardsMax": 5475,
+  "NumberOfAwards": 7442,
+  "NumberOfAwardsMax": 5502,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:32:29.7707864+00:00",
-  "LastChanged": "2023-03-31T11:59:03.5791828+00:00",
+  "LastChanged": "2023-04-17T22:58:17.3327797+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:29.7707866+00:00",
@@ -2509,6 +2509,120 @@
       "Rating": 4.62,
       "NumberOfAwards": 7406,
       "NumberOfAwardsMax": 5475
+    },
+    {
+      "Time": "2023-04-01T17:58:21.4761024+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 7409,
+      "NumberOfAwardsMax": 5478
+    },
+    {
+      "Time": "2023-04-03T19:58:46.5438748+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 7414,
+      "NumberOfAwardsMax": 5483
+    },
+    {
+      "Time": "2023-04-04T02:00:00.1908397+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 7416,
+      "NumberOfAwardsMax": 5483
+    },
+    {
+      "Time": "2023-04-05T04:58:14.6497672+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 7420,
+      "NumberOfAwardsMax": 5487
+    },
+    {
+      "Time": "2023-04-06T04:58:07.0221139+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 7422,
+      "NumberOfAwardsMax": 5489
+    },
+    {
+      "Time": "2023-04-07T19:58:59.4148273+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 7423,
+      "NumberOfAwardsMax": 5490
+    },
+    {
+      "Time": "2023-04-08T09:58:10.0872622+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 7424,
+      "NumberOfAwardsMax": 5490
+    },
+    {
+      "Time": "2023-04-09T04:59:15.0318946+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 7425,
+      "NumberOfAwardsMax": 5490
+    },
+    {
+      "Time": "2023-04-09T07:58:35.7071853+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 7427,
+      "NumberOfAwardsMax": 5492
+    },
+    {
+      "Time": "2023-04-10T15:58:43.8291832+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 7428,
+      "NumberOfAwardsMax": 5492
+    },
+    {
+      "Time": "2023-04-10T18:59:12.0657122+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 7431,
+      "NumberOfAwardsMax": 5495
+    },
+    {
+      "Time": "2023-04-10T23:58:11.0534494+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 7432,
+      "NumberOfAwardsMax": 5495
+    },
+    {
+      "Time": "2023-04-12T09:59:17.1886524+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 7433,
+      "NumberOfAwardsMax": 5496
+    },
+    {
+      "Time": "2023-04-13T11:59:00.5857771+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 7435,
+      "NumberOfAwardsMax": 5498
+    },
+    {
+      "Time": "2023-04-13T13:06:04.6899482+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 7436,
+      "NumberOfAwardsMax": 5498
+    },
+    {
+      "Time": "2023-04-14T23:59:24.4114449+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 7439,
+      "NumberOfAwardsMax": 5501
+    },
+    {
+      "Time": "2023-04-16T04:59:09.5537137+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 7440,
+      "NumberOfAwardsMax": 5502
+    },
+    {
+      "Time": "2023-04-17T17:58:27.570719+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 7441,
+      "NumberOfAwardsMax": 5502
+    },
+    {
+      "Time": "2023-04-17T22:58:17.3327798+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 7442,
+      "NumberOfAwardsMax": 5502
     }
   ],
   "Tags": [
@@ -2516,13 +2630,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 290
+      "Count": 291
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 316
+      "Count": 318
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2534,25 +2648,25 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 282
+      "Count": 283
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 296
+      "Count": 298
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 281
+      "Count": 282
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 305
+      "Count": 307
     },
     {
       "Text": "This game has a Creative Community",
@@ -2564,7 +2678,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5475
+      "Count": 5502
     },
     {
       "Text": "This game has Challenging Combat",

@@ -1,24 +1,24 @@
 # MultiVersus
-Rating: 4.56 (Ranked 436)  
+Rating: 4.56 (Ranked 439)  
 Number of Ratings: 55,748  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 4,724  (Ranked 62)  
-Sum: 45,567 (Ranked 24)  
-Diff (max vs sum): 38
+Max (Great for Beginners): 4,730  (Ranked 63)  
+Sum: 45,622 (Ranked 24)  
+Diff (max vs sum): 39
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 4,724 |
-| This game has Competitive Players | 4,546 |
-| This game has Diverse Characters | 4,509 |
-| This game is Great for Quick Sessions | 4,495 |
-| This game has Quickly Understood Controls | 4,410 |
-| This game is Extremely Fun | 4,217 |
-| This game has Amazing Characters | 4,138 |
-| This game is Highly Recommended | 3,933 |
-| This game has Playful Visuals | 3,600 |
-| This game has Amazing Storytelling | 3,599 |
-| This game has a Competitive Community | 3,396 |
+| This game is Great for Beginners | 4,730 |
+| This game has Competitive Players | 4,554 |
+| This game has Diverse Characters | 4,517 |
+| This game is Great for Quick Sessions | 4,501 |
+| This game has Quickly Understood Controls | 4,415 |
+| This game is Extremely Fun | 4,221 |
+| This game has Amazing Characters | 4,142 |
+| This game is Highly Recommended | 3,937 |
+| This game has Amazing Storytelling | 3,603 |
+| This game has Playful Visuals | 3,601 |
+| This game has a Competitive Community | 3,401 |
 | This game has Obsessive Gameplay | 3,030 |
 | This game is Relaxing | 86 |
 ## Ratings History
@@ -84,3 +84,18 @@ Diff (max vs sum): 38
 | 2022-09-22 | 4.57 | 55,706 | - |
 | 2022-09-23 | 4.57 | 55,748 | - |
 | 2023-03-02 | 4.56 | - | - |
+| 2023-03-31 | 4.56 | - | 4,724 |
+| 2023-04-01 | 4.56 | - | 4,724 |
+| 2023-04-02 | 4.56 | - | 4,724 |
+| 2023-04-03 | 4.56 | - | 4,725 |
+| 2023-04-04 | 4.56 | - | 4,727 |
+| 2023-04-06 | 4.56 | - | 4,727 |
+| 2023-04-07 | 4.56 | - | 4,728 |
+| 2023-04-08 | 4.56 | - | 4,728 |
+| 2023-04-09 | 4.56 | - | 4,728 |
+| 2023-04-10 | 4.56 | - | 4,728 |
+| 2023-04-11 | 4.56 | - | 4,729 |
+| 2023-04-12 | 4.56 | - | 4,729 |
+| 2023-04-14 | 4.56 | - | 4,730 |
+| 2023-04-16 | 4.56 | - | 4,730 |
+| 2023-04-18 | 4.56 | - | 4,730 |

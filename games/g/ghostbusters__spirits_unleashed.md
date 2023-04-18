@@ -1,22 +1,22 @@
 # Ghostbusters: Spirits Unleashed
-Rating: 4.49 (Ranked 537)  
+Rating: 4.49 (Ranked 541)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 209  (Ranked 247)  
-Sum: 1,871 (Ranked 186)  
-Diff (max vs sum): 61
+Max (Great for Beginners): 210  (Ranked 248)  
+Sum: 1,912 (Ranked 186)  
+Diff (max vs sum): 62
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 209 |
-| This game is Great for Quick Sessions | 204 |
-| This game has Diverse Characters | 195 |
-| This game is Extremely Fun | 190 |
-| This game has Competitive Players | 188 |
-| This game has Amazing Storytelling | 185 |
-| This game has Quickly Understood Controls | 177 |
-| This game is Relaxing | 177 |
-| This game is Highly Recommended | 174 |
-| This game has Amazing Characters | 172 |
+| This game is Great for Beginners | 210 |
+| This game is Great for Quick Sessions | 209 |
+| This game has Diverse Characters | 200 |
+| This game is Extremely Fun | 193 |
+| This game has Competitive Players | 193 |
+| This game has Amazing Storytelling | 189 |
+| This game is Highly Recommended | 181 |
+| This game is Relaxing | 181 |
+| This game has Quickly Understood Controls | 179 |
+| This game has Amazing Characters | 177 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
 ## Ratings History
@@ -42,3 +42,19 @@ Diff (max vs sum): 61
 | 2022-11-17 | 4.50 | - | - |
 | 2022-11-24 | 4.50 | - | - |
 | 2022-11-25 | 4.49 | - | - |
+| 2023-03-31 | 4.49 | - | 209 |
+| 2023-04-01 | 4.49 | - | 209 |
+| 2023-04-02 | 4.49 | - | 209 |
+| 2023-04-05 | 4.49 | - | 209 |
+| 2023-04-06 | 4.49 | - | 209 |
+| 2023-04-07 | 4.49 | - | 209 |
+| 2023-04-09 | 4.49 | - | 209 |
+| 2023-04-10 | 4.49 | - | 209 |
+| 2023-04-11 | 4.49 | - | 210 |
+| 2023-04-12 | 4.49 | - | 210 |
+| 2023-04-13 | 4.49 | - | 210 |
+| 2023-04-14 | 4.49 | - | 210 |
+| 2023-04-15 | 4.49 | - | 210 |
+| 2023-04-16 | 4.49 | - | 210 |
+| 2023-04-17 | 4.49 | - | 210 |
+| 2023-04-18 | 4.49 | - | 210 |

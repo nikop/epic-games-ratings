@@ -1,8 +1,8 @@
 # Chimeraland
-Rating: 3.91 (Ranked 878)  
+Rating: 3.91 (Ranked 885)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 478)  
-Sum: 0 (Ranked 478)  
+Max (): 0  (Ranked 484)  
+Sum: 0 (Ranked 484)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
@@ -49,3 +49,7 @@ Diff (max vs sum): 0
 | 2023-03-25 | 3.89 | - | - |
 | 2023-03-26 | 3.91 | - | - |
 | 2023-03-31 | 3.91 | - | 0 |
+| 2023-04-03 | 3.92 | - | 0 |
+| 2023-04-04 | 3.93 | - | 0 |
+| 2023-04-08 | 3.90 | - | 0 |
+| 2023-04-15 | 3.91 | - | 0 |

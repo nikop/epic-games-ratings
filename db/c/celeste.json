@@ -2,15 +2,15 @@
   "ID": "b671fbc7be424e888c9346a9a6d3d9db",
   "Name": "Celeste",
   "Rating": 4.92,
-  "Ranking_Rating": 3,
-  "Ranking_Popularity": 113,
-  "Ranking_PopularitySum": 156,
+  "Ranking_Rating": 4,
+  "Ranking_Popularity": 115,
+  "Ranking_PopularitySum": 155,
   "NumberOfRatings": 2543,
-  "NumberOfAwards": 2659,
-  "NumberOfAwardsMax": 1389,
+  "NumberOfAwards": 2716,
+  "NumberOfAwardsMax": 1419,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:25:26.412797+00:00",
-  "LastChanged": "2023-03-31T07:57:59.8299209+00:00",
+  "LastChanged": "2023-04-18T01:55:21.5504208+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:26.4127972+00:00",
@@ -1682,6 +1682,210 @@
       "Rating": 4.92,
       "NumberOfAwards": 2659,
       "NumberOfAwardsMax": 1389
+    },
+    {
+      "Time": "2023-03-31T14:57:39.5293016+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2662,
+      "NumberOfAwardsMax": 1392
+    },
+    {
+      "Time": "2023-03-31T19:57:46.4805177+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2663,
+      "NumberOfAwardsMax": 1392
+    },
+    {
+      "Time": "2023-04-01T01:57:47.3714678+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2664,
+      "NumberOfAwardsMax": 1392
+    },
+    {
+      "Time": "2023-04-02T01:58:38.1756969+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2665,
+      "NumberOfAwardsMax": 1392
+    },
+    {
+      "Time": "2023-04-02T04:57:30.3981902+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2669,
+      "NumberOfAwardsMax": 1396
+    },
+    {
+      "Time": "2023-04-03T01:53:24.3701268+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2670,
+      "NumberOfAwardsMax": 1396
+    },
+    {
+      "Time": "2023-04-03T21:57:42.7261215+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2673,
+      "NumberOfAwardsMax": 1399
+    },
+    {
+      "Time": "2023-04-03T23:58:01.0741192+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2674,
+      "NumberOfAwardsMax": 1399
+    },
+    {
+      "Time": "2023-04-05T13:16:01.6002701+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2675,
+      "NumberOfAwardsMax": 1400
+    },
+    {
+      "Time": "2023-04-05T14:58:26.3855255+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2676,
+      "NumberOfAwardsMax": 1400
+    },
+    {
+      "Time": "2023-04-05T21:57:30.6427497+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2677,
+      "NumberOfAwardsMax": 1400
+    },
+    {
+      "Time": "2023-04-06T22:57:40.5741854+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2678,
+      "NumberOfAwardsMax": 1400
+    },
+    {
+      "Time": "2023-04-07T05:57:48.0039292+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2679,
+      "NumberOfAwardsMax": 1400
+    },
+    {
+      "Time": "2023-04-07T16:57:39.5283094+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2681,
+      "NumberOfAwardsMax": 1400
+    },
+    {
+      "Time": "2023-04-07T18:57:49.8882236+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2685,
+      "NumberOfAwardsMax": 1404
+    },
+    {
+      "Time": "2023-04-07T23:57:34.9727137+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2686,
+      "NumberOfAwardsMax": 1404
+    },
+    {
+      "Time": "2023-04-08T21:57:59.2770288+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2688,
+      "NumberOfAwardsMax": 1404
+    },
+    {
+      "Time": "2023-04-08T22:58:18.9084879+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2690,
+      "NumberOfAwardsMax": 1406
+    },
+    {
+      "Time": "2023-04-10T01:52:34.6530347+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2692,
+      "NumberOfAwardsMax": 1408
+    },
+    {
+      "Time": "2023-04-11T02:58:01.3942065+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2693,
+      "NumberOfAwardsMax": 1408
+    },
+    {
+      "Time": "2023-04-11T21:58:08.7064731+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2694,
+      "NumberOfAwardsMax": 1408
+    },
+    {
+      "Time": "2023-04-11T23:57:39.9846414+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2695,
+      "NumberOfAwardsMax": 1409
+    },
+    {
+      "Time": "2023-04-12T16:57:39.9715051+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2696,
+      "NumberOfAwardsMax": 1409
+    },
+    {
+      "Time": "2023-04-13T16:57:52.3010458+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2697,
+      "NumberOfAwardsMax": 1410
+    },
+    {
+      "Time": "2023-04-13T17:58:04.1450821+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2699,
+      "NumberOfAwardsMax": 1410
+    },
+    {
+      "Time": "2023-04-13T18:57:30.8232725+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2700,
+      "NumberOfAwardsMax": 1410
+    },
+    {
+      "Time": "2023-04-14T17:57:38.2957738+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2705,
+      "NumberOfAwardsMax": 1415
+    },
+    {
+      "Time": "2023-04-14T18:57:37.8283403+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2706,
+      "NumberOfAwardsMax": 1415
+    },
+    {
+      "Time": "2023-04-15T13:01:03.5974864+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2707,
+      "NumberOfAwardsMax": 1415
+    },
+    {
+      "Time": "2023-04-15T17:57:41.5328602+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2708,
+      "NumberOfAwardsMax": 1415
+    },
+    {
+      "Time": "2023-04-15T19:57:53.295785+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2711,
+      "NumberOfAwardsMax": 1417
+    },
+    {
+      "Time": "2023-04-17T03:57:37.7614388+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2712,
+      "NumberOfAwardsMax": 1417
+    },
+    {
+      "Time": "2023-04-17T14:57:49.0692024+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2714,
+      "NumberOfAwardsMax": 1417
+    },
+    {
+      "Time": "2023-04-18T01:55:21.5504209+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2716,
+      "NumberOfAwardsMax": 1419
     }
   ],
   "Tags": [
@@ -1689,25 +1893,25 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1389
+      "Count": 1419
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 155
+      "Count": 159
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 131
+      "Count": 132
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 171
+      "Count": 172
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1725,31 +1929,31 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 176
+      "Count": 182
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 164
+      "Count": 170
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 150
+      "Count": 151
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 154
+      "Count": 157
     },
     {
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 169
+      "Count": 174
     }
   ]
 }

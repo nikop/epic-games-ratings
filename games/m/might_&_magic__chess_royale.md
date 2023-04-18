@@ -1,24 +1,24 @@
 # Might & Magic: Chess Royale
-Rating: 4.50 (Ranked 524)  
+Rating: 4.50 (Ranked 525)  
 Number of Ratings: 238  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 93  (Ranked 321)  
-Sum: 739 (Ranked 247)  
-Diff (max vs sum): 74
+Max (Great for Beginners): 96  (Ranked 319)  
+Sum: 753 (Ranked 246)  
+Diff (max vs sum): 73
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 93 |
+| This game is Great for Beginners | 96 |
 | This game has Easy Combat | 87 |
-| This game is Relaxing | 84 |
-| This game has Quickly Understood Controls | 84 |
-| This game has Competitive Players | 79 |
+| This game is Relaxing | 85 |
+| This game has Quickly Understood Controls | 85 |
+| This game has Competitive Players | 80 |
+| This game is Highly Recommended | 77 |
 | This game is Extremely Fun | 77 |
-| This game has Amazing Characters | 76 |
-| This game is Highly Recommended | 74 |
-| This game has Diverse Characters | 73 |
+| This game has Amazing Characters | 77 |
+| This game has Diverse Characters | 75 |
 | This game has Amazing Storytelling | 54 |
-| This game has a Competitive Community | 45 |
+| This game has a Competitive Community | 47 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -104,3 +104,12 @@ Diff (max vs sum): 74
 | 2023-02-25 | 4.50 | - | - |
 | 2023-02-28 | 4.49 | - | - |
 | 2023-03-15 | 4.50 | - | - |
+| 2023-04-01 | 4.50 | - | 93 |
+| 2023-04-02 | 4.50 | - | 93 |
+| 2023-04-07 | 4.50 | - | 94 |
+| 2023-04-08 | 4.50 | - | 94 |
+| 2023-04-09 | 4.50 | - | 94 |
+| 2023-04-10 | 4.50 | - | 94 |
+| 2023-04-12 | 4.50 | - | 95 |
+| 2023-04-13 | 4.50 | - | 95 |
+| 2023-04-14 | 4.50 | - | 96 |

@@ -1,14 +1,14 @@
 # Wolfenstein: The Old Blood - Worldwide
-Rating: 4.60 (Ranked 374)  
+Rating: 4.60 (Ranked 375)  
 Number of Ratings: 290  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 83  (Ranked 333)  
-Sum: 83 (Ranked 397)  
-Diff (max vs sum): -64
+Max (Great Boss Battles): 84  (Ranked 335)  
+Sum: 84 (Ranked 398)  
+Diff (max vs sum): -63
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 83 |
+| This game has Great Boss Battles | 84 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -74,3 +74,4 @@ Diff (max vs sum): -64
 | 2022-12-01 | 4.60 | - | - |
 | 2022-12-05 | 4.61 | - | - |
 | 2022-12-07 | 4.60 | - | - |
+| 2023-04-08 | 4.60 | - | 84 |

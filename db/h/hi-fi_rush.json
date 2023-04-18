@@ -1,15 +1,15 @@
 {
   "ID": "577c5cbc303a4d168b1a104f3b46e751",
   "Name": "Hi-Fi RUSH",
-  "Rating": 4.91,
-  "Ranking_Rating": 6,
-  "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 478,
+  "Rating": 4.92,
+  "Ranking_Rating": 4,
+  "Ranking_Popularity": 484,
+  "Ranking_PopularitySum": 484,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-01-26T02:08:08.7515496+00:00",
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
-  "LastChanged": "2023-03-31T05:58:17.1837263+00:00",
+  "LastChanged": "2023-04-05T05:58:24.6964935+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-17T04:58:03.9003744+00:00",
@@ -38,6 +38,12 @@
     {
       "Time": "2023-03-31T05:58:17.1837265+00:00",
       "Rating": 4.91,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-05T05:58:24.6964938+00:00",
+      "Rating": 4.92,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

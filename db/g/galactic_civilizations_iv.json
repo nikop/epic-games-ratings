@@ -2,15 +2,15 @@
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
   "Rating": 4.19,
-  "Ranking_Rating": 802,
-  "Ranking_Popularity": 331,
-  "Ranking_PopularitySum": 262,
+  "Ranking_Rating": 808,
+  "Ranking_Popularity": 333,
+  "Ranking_PopularitySum": 265,
   "NumberOfRatings": 429,
-  "NumberOfAwards": 640,
-  "NumberOfAwardsMax": 84,
-  "MaxAwardTitle": "Relaxing",
+  "NumberOfAwards": 645,
+  "NumberOfAwardsMax": 86,
+  "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
-  "LastChanged": "2023-03-10T14:57:20.2040487+00:00",
+  "LastChanged": "2023-04-14T09:57:28.6884446+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:44.6509479+00:00",
@@ -592,6 +592,30 @@
     {
       "Time": "2023-03-10T14:57:20.2040489+00:00",
       "Rating": 4.19
+    },
+    {
+      "Time": "2023-04-02T05:57:12.1688674+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 641,
+      "NumberOfAwardsMax": 84
+    },
+    {
+      "Time": "2023-04-08T19:57:16.5134363+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 642,
+      "NumberOfAwardsMax": 85
+    },
+    {
+      "Time": "2023-04-13T23:57:11.5395572+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 644,
+      "NumberOfAwardsMax": 86
+    },
+    {
+      "Time": "2023-04-14T09:57:28.6884447+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 645,
+      "NumberOfAwardsMax": 86
     }
   ],
   "Tags": [
@@ -611,7 +635,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 80
+      "Count": 81
     },
     {
       "Text": "This game is Extremely Fun",
@@ -629,13 +653,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 83
+      "Count": 86
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 84
+      "Count": 85
     },
     {
       "Text": "This game has Amazing Characters",

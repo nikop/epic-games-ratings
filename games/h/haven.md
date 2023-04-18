@@ -1,9 +1,9 @@
 # Haven
-Rating: 4.75 (Ranked 127)  
+Rating: 4.72 (Ranked 164)  
 Number of Ratings: 38  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 478)  
-Sum: 0 (Ranked 478)  
+Max (): 0  (Ranked 484)  
+Sum: 0 (Ranked 484)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
@@ -39,3 +39,4 @@ Diff (max vs sum): 0
 | 2022-12-07 | 4.76 | - | - |
 | 2023-01-15 | 4.75 | - | - |
 | 2023-03-31 | 4.75 | - | 0 |
+| 2023-04-14 | 4.72 | - | 0 |

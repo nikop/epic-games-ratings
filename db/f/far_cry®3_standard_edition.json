@@ -1,16 +1,16 @@
 {
   "ID": "hellebore",
   "Name": "Far Cry\u00AE3 Standard Edition",
-  "Rating": 4.68,
-  "Ranking_Rating": 235,
-  "Ranking_Popularity": 214,
-  "Ranking_PopularitySum": 308,
+  "Rating": 4.69,
+  "Ranking_Rating": 213,
+  "Ranking_Popularity": 212,
+  "Ranking_PopularitySum": 303,
   "NumberOfRatings": 504,
-  "NumberOfAwards": 326,
-  "NumberOfAwardsMax": 306,
+  "NumberOfAwards": 358,
+  "NumberOfAwardsMax": 317,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:24:43.0306746+00:00",
-  "LastChanged": "2023-03-30T17:38:48.094128+00:00",
+  "LastChanged": "2023-04-17T21:57:31.2435064+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:43.0306749+00:00",
@@ -559,6 +559,78 @@
     {
       "Time": "2023-03-30T17:38:48.0941281+00:00",
       "Rating": 4.68
+    },
+    {
+      "Time": "2023-03-31T17:58:39.2403124+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 326,
+      "NumberOfAwardsMax": 306
+    },
+    {
+      "Time": "2023-03-31T19:57:41.6104639+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 327,
+      "NumberOfAwardsMax": 307
+    },
+    {
+      "Time": "2023-04-01T17:57:40.0949438+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 347,
+      "NumberOfAwardsMax": 307
+    },
+    {
+      "Time": "2023-04-03T17:58:03.4208446+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 348,
+      "NumberOfAwardsMax": 308
+    },
+    {
+      "Time": "2023-04-05T17:57:31.0545979+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 348,
+      "NumberOfAwardsMax": 308
+    },
+    {
+      "Time": "2023-04-06T10:57:51.6944599+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 350,
+      "NumberOfAwardsMax": 310
+    },
+    {
+      "Time": "2023-04-07T10:57:28.4813966+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 352,
+      "NumberOfAwardsMax": 312
+    },
+    {
+      "Time": "2023-04-09T21:57:27.5578179+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 354,
+      "NumberOfAwardsMax": 314
+    },
+    {
+      "Time": "2023-04-11T16:58:15.9290402+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 355,
+      "NumberOfAwardsMax": 315
+    },
+    {
+      "Time": "2023-04-16T13:57:31.7808218+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 356,
+      "NumberOfAwardsMax": 316
+    },
+    {
+      "Time": "2023-04-17T14:57:44.9378594+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 357,
+      "NumberOfAwardsMax": 317
+    },
+    {
+      "Time": "2023-04-17T21:57:31.2435068+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 358,
+      "NumberOfAwardsMax": 317
     }
   ],
   "Tags": [
@@ -566,13 +638,19 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 306
+      "Count": 317
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
       "Count": 20
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 21
     }
   ]
 }

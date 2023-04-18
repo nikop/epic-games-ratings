@@ -1,22 +1,22 @@
 # Ghost Recon Breakpoint Standard Edition
-Rating: 4.54 (Ranked 468)  
+Rating: 4.54 (Ranked 474)  
 Number of Ratings: 4,870  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 931  (Ranked 138)  
-Sum: 7,207 (Ranked 95)  
-Diff (max vs sum): 43
+Max (Great for Beginners): 984  (Ranked 134)  
+Sum: 7,577 (Ranked 93)  
+Diff (max vs sum): 41
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 931 |
-| This game has Quickly Understood Controls | 863 |
-| This game is Relaxing | 825 |
-| This game has Amazing Storytelling | 812 |
-| This game is Extremely Fun | 807 |
-| This game is Highly Recommended | 799 |
-| This game has Diverse Characters | 786 |
-| This game has Amazing Characters | 730 |
-| This game has Realistic Visuals | 654 |
+| This game is Great for Beginners | 984 |
+| This game has Quickly Understood Controls | 904 |
+| This game has Amazing Storytelling | 864 |
+| This game is Relaxing | 863 |
+| This game is Extremely Fun | 854 |
+| This game is Highly Recommended | 840 |
+| This game has Diverse Characters | 828 |
+| This game has Amazing Characters | 757 |
+| This game has Realistic Visuals | 683 |
 | This game has Obsessive Gameplay | 458 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -96,3 +96,22 @@ Diff (max vs sum): 43
 | 2022-11-06 | 4.52 | - | - |
 | 2022-11-18 | 4.53 | - | - |
 | 2023-01-13 | 4.54 | - | - |
+| 2023-03-31 | 4.54 | - | 931 |
+| 2023-04-01 | 4.54 | - | 934 |
+| 2023-04-02 | 4.54 | - | 937 |
+| 2023-04-03 | 4.54 | - | 943 |
+| 2023-04-04 | 4.54 | - | 948 |
+| 2023-04-05 | 4.54 | - | 948 |
+| 2023-04-06 | 4.54 | - | 950 |
+| 2023-04-07 | 4.54 | - | 950 |
+| 2023-04-08 | 4.54 | - | 954 |
+| 2023-04-09 | 4.54 | - | 959 |
+| 2023-04-10 | 4.54 | - | 963 |
+| 2023-04-11 | 4.54 | - | 963 |
+| 2023-04-12 | 4.54 | - | 970 |
+| 2023-04-13 | 4.54 | - | 973 |
+| 2023-04-14 | 4.54 | - | 978 |
+| 2023-04-15 | 4.54 | - | 981 |
+| 2023-04-16 | 4.54 | - | 981 |
+| 2023-04-17 | 4.54 | - | 984 |
+| 2023-04-18 | 4.54 | - | 984 |

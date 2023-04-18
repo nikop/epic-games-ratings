@@ -1,14 +1,14 @@
 # The Alto Collection
-Rating: 4.70 (Ranked 194)  
+Rating: 4.70 (Ranked 191)  
 Number of Ratings: 332  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Quick Sessions): 43  (Ranked 395)  
-Sum: 338 (Ranked 304)  
-Diff (max vs sum): 91
+Max (Great for Quick Sessions): 44  (Ranked 397)  
+Sum: 339 (Ranked 308)  
+Diff (max vs sum): 89
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Quick Sessions | 43 |
+| This game is Great for Quick Sessions | 44 |
 | This game is Highly Recommended | 41 |
 | This game is Great for Beginners | 40 |
 | This game has Beautiful Visuals | 37 |
@@ -94,3 +94,8 @@ Diff (max vs sum): 91
 | 2022-12-07 | 4.69 | - | - |
 | 2022-12-08 | 4.70 | - | - |
 | 2023-03-31 | 4.70 | - | 43 |
+| 2023-04-02 | 4.69 | - | 43 |
+| 2023-04-03 | 4.69 | - | 44 |
+| 2023-04-05 | 4.70 | - | 44 |
+| 2023-04-06 | 4.69 | - | 44 |
+| 2023-04-10 | 4.70 | - | 44 |

@@ -1,22 +1,22 @@
 # Just Cause 4 Reloaded
-Rating: 4.30 (Ranked 738)  
+Rating: 4.30 (Ranked 744)  
 Number of Ratings: 5,442  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 3,529  (Ranked 78)  
-Sum: 6,743 (Ranked 103)  
-Diff (max vs sum): -25
+Max (Great Boss Battles): 3,564  (Ranked 78)  
+Sum: 6,802 (Ranked 104)  
+Diff (max vs sum): -26
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 3,529 |
-| This game is Great for Beginners | 516 |
-| This game has Quickly Understood Controls | 420 |
-| This game has Amazing Storytelling | 412 |
-| This game is Relaxing | 405 |
-| This game has Amazing Characters | 400 |
-| This game is Highly Recommended | 396 |
-| This game is Extremely Fun | 364 |
-| This game has a Creative Community | 301 |
+| This game has Great Boss Battles | 3,564 |
+| This game is Great for Beginners | 521 |
+| This game has Quickly Understood Controls | 421 |
+| This game has Amazing Storytelling | 415 |
+| This game is Relaxing | 410 |
+| This game has Amazing Characters | 405 |
+| This game is Highly Recommended | 398 |
+| This game is Extremely Fun | 365 |
+| This game has a Creative Community | 303 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -99,3 +99,19 @@ Diff (max vs sum): -25
 | 2022-11-17 | 4.30 | - | - |
 | 2022-11-18 | 4.31 | - | - |
 | 2023-02-12 | 4.30 | - | - |
+| 2023-03-31 | 4.30 | - | 3,530 |
+| 2023-04-01 | 4.30 | - | 3,530 |
+| 2023-04-02 | 4.30 | - | 3,534 |
+| 2023-04-03 | 4.30 | - | 3,540 |
+| 2023-04-04 | 4.30 | - | 3,544 |
+| 2023-04-05 | 4.30 | - | 3,544 |
+| 2023-04-06 | 4.30 | - | 3,549 |
+| 2023-04-07 | 4.30 | - | 3,551 |
+| 2023-04-08 | 4.30 | - | 3,554 |
+| 2023-04-10 | 4.30 | - | 3,554 |
+| 2023-04-11 | 4.30 | - | 3,556 |
+| 2023-04-12 | 4.30 | - | 3,559 |
+| 2023-04-13 | 4.30 | - | 3,559 |
+| 2023-04-14 | 4.30 | - | 3,562 |
+| 2023-04-15 | 4.30 | - | 3,562 |
+| 2023-04-17 | 4.30 | - | 3,564 |

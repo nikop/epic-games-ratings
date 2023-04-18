@@ -1,21 +1,21 @@
 # Paragon: The Overprime
-Rating: 4.24 (Ranked 770)  
+Rating: 4.24 (Ranked 776)  
 ## Popularity (Based on Awards)
-Max (Competitive Players): 282  (Ranked 220)  
-Sum: 2,140 (Ranked 173)  
-Diff (max vs sum): 47
+Max (Diverse Characters): 319  (Ranked 210)  
+Sum: 2,494 (Ranked 162)  
+Diff (max vs sum): 48
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Competitive Players | 282 |
-| This game has Diverse Characters | 278 |
-| This game is Highly Recommended | 263 |
-| This game has Challenging Combat | 249 |
-| This game has Amazing Characters | 247 |
-| This game is Extremely Fun | 246 |
-| This game has Quickly Understood Controls | 237 |
-| This game has Amazing Storytelling | 181 |
-| This game has a Competitive Community | 157 |
+| This game has Diverse Characters | 319 |
+| This game is Highly Recommended | 314 |
+| This game has Competitive Players | 312 |
+| This game is Extremely Fun | 290 |
+| This game has Amazing Characters | 289 |
+| This game has Challenging Combat | 282 |
+| This game has Quickly Understood Controls | 280 |
+| This game has Amazing Storytelling | 218 |
+| This game has a Competitive Community | 190 |
 | This game has Great Boss Battles | 109 |
 | This game has Unique Visuals | 40 |
 | This game is Great for Beginners | 33 |
@@ -61,3 +61,21 @@ Diff (max vs sum): 47
 | 2023-03-26 | 4.25 | - | - |
 | 2023-03-27 | 4.24 | - | - |
 | 2023-03-31 | 4.24 | - | 282 |
+| 2023-04-01 | 4.24 | - | 282 |
+| 2023-04-02 | 4.24 | - | 284 |
+| 2023-04-03 | 4.24 | - | 288 |
+| 2023-04-04 | 4.24 | - | 288 |
+| 2023-04-05 | 4.24 | - | 294 |
+| 2023-04-06 | 4.24 | - | 298 |
+| 2023-04-07 | 4.24 | - | 299 |
+| 2023-04-08 | 4.24 | - | 301 |
+| 2023-04-09 | 4.24 | - | 301 |
+| 2023-04-10 | 4.24 | - | 303 |
+| 2023-04-11 | 4.24 | - | 306 |
+| 2023-04-12 | 4.24 | - | 310 |
+| 2023-04-13 | 4.24 | - | 310 |
+| 2023-04-14 | 4.24 | - | 312 |
+| 2023-04-15 | 4.24 | - | 312 |
+| 2023-04-16 | 4.24 | - | 319 |
+| 2023-04-17 | 4.24 | - | 319 |
+| 2023-04-18 | 4.24 | - | 319 |

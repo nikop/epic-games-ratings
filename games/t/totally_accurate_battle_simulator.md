@@ -1,23 +1,23 @@
 # Totally Accurate Battle Simulator
-Rating: 4.77 (Ranked 106)  
+Rating: 4.77 (Ranked 105)  
 Number of Ratings: 2,102  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 309  (Ranked 213)  
-Sum: 2,728 (Ranked 153)  
-Diff (max vs sum): 60
+Max (Great for Beginners): 315  (Ranked 214)  
+Sum: 2,771 (Ranked 153)  
+Diff (max vs sum): 61
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 309 |
-| This game has Amazing Characters | 303 |
-| This game has Diverse Characters | 303 |
-| This game is Extremely Fun | 284 |
-| This game has Amazing Storytelling | 265 |
-| This game is Relaxing | 258 |
-| This game has Quickly Understood Controls | 257 |
-| This game has a Creative Community | 256 |
-| This game is Highly Recommended | 255 |
-| This game is Great for Quick Sessions | 238 |
+| This game is Great for Beginners | 315 |
+| This game has Diverse Characters | 307 |
+| This game has Amazing Characters | 306 |
+| This game is Extremely Fun | 288 |
+| This game has Amazing Storytelling | 269 |
+| This game is Relaxing | 264 |
+| This game is Highly Recommended | 261 |
+| This game has a Creative Community | 258 |
+| This game has Quickly Understood Controls | 258 |
+| This game is Great for Quick Sessions | 245 |
 | This game has Unique Visuals | 232 |
 | This game has Obsessive Gameplay | 147 |
 | This game has Easy Combat | 79 |
@@ -101,3 +101,17 @@ Diff (max vs sum): 60
 | 2022-11-03 | 4.78 | - | - |
 | 2022-12-16 | 4.77 | - | - |
 | 2022-12-18 | 4.77 | - | - |
+| 2023-04-02 | 4.77 | - | 309 |
+| 2023-04-03 | 4.77 | - | 311 |
+| 2023-04-04 | 4.77 | - | 311 |
+| 2023-04-06 | 4.77 | - | 311 |
+| 2023-04-07 | 4.77 | - | 311 |
+| 2023-04-08 | 4.77 | - | 311 |
+| 2023-04-09 | 4.77 | - | 311 |
+| 2023-04-10 | 4.77 | - | 312 |
+| 2023-04-12 | 4.77 | - | 312 |
+| 2023-04-13 | 4.77 | - | 312 |
+| 2023-04-14 | 4.77 | - | 312 |
+| 2023-04-15 | 4.77 | - | 312 |
+| 2023-04-16 | 4.77 | - | 313 |
+| 2023-04-17 | 4.77 | - | 315 |

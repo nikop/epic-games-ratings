@@ -1,9 +1,9 @@
 # Dead Age 2
-Rating: 4.16 (Ranked 816)  
+Rating: 4.16 (Ranked 823)  
 Number of Ratings: 21  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 478)  
-Sum: 0 (Ranked 478)  
+Max (): 0  (Ranked 484)  
+Sum: 0 (Ranked 484)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |

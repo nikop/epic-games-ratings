@@ -1,24 +1,24 @@
 # ARK: Survival Evolved
-Rating: 4.59 (Ranked 388)  
+Rating: 4.59 (Ranked 389)  
 Number of Ratings: 35,570  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 55,143  (Ranked 10)  
-Sum: 226,498 (Ranked 11)  
-Diff (max vs sum): -1
+Max (Character Customization): 55,856  (Ranked 10)  
+Sum: 247,987 (Ranked 10)  
+Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 55,143 |
-| This game has Diverse Characters | 19,887 |
-| This game has Challenging Combat | 19,727 |
-| This game is Highly Recommended | 19,692 |
-| This game is Educational | 19,556 |
-| This game is Extremely Fun | 19,427 |
-| This game has Competitive Players | 18,474 |
-| This game has Quickly Understood Controls | 18,430 |
-| This game has Amazing Storytelling | 18,280 |
-| This game is Relaxing | 18,182 |
-| This game has Amazing Characters | 17,882 |
+| This game has Inclusive Character Customization | 55,856 |
+| This game has Diverse Characters | 20,188 |
+| This game has Challenging Combat | 19,964 |
+| This game is Highly Recommended | 19,885 |
+| This game is Educational | 19,721 |
+| This game is Extremely Fun | 19,584 |
+| This game is Relaxing | 19,099 |
+| This game has Competitive Players | 18,610 |
+| This game has Quickly Understood Controls | 18,570 |
+| This game has Amazing Storytelling | 18,446 |
+| This game has Amazing Characters | 18,064 |
 | This game has Obsessive Gameplay | 13,324 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -90,4 +90,22 @@ Diff (max vs sum): -1
 | 2022-09-24 | 4.61 | - | - |
 | 2022-09-26 | 4.60 | - | - |
 | 2022-09-30 | 4.59 | - | - |
-| 2023-03-31 | 4.59 | - | 55,143 |
+| 2023-03-31 | 4.59 | - | 55,167 |
+| 2023-04-01 | 4.59 | - | 55,219 |
+| 2023-04-02 | 4.59 | - | 55,263 |
+| 2023-04-03 | 4.59 | - | 55,305 |
+| 2023-04-04 | 4.59 | - | 55,346 |
+| 2023-04-05 | 4.59 | - | 55,384 |
+| 2023-04-06 | 4.59 | - | 55,419 |
+| 2023-04-07 | 4.59 | - | 55,466 |
+| 2023-04-08 | 4.59 | - | 55,508 |
+| 2023-04-09 | 4.59 | - | 55,554 |
+| 2023-04-10 | 4.59 | - | 55,597 |
+| 2023-04-11 | 4.59 | - | 55,635 |
+| 2023-04-12 | 4.59 | - | 55,664 |
+| 2023-04-13 | 4.59 | - | 55,692 |
+| 2023-04-14 | 4.59 | - | 55,724 |
+| 2023-04-15 | 4.59 | - | 55,782 |
+| 2023-04-16 | 4.59 | - | 55,824 |
+| 2023-04-17 | 4.59 | - | 55,856 |
+| 2023-04-18 | 4.59 | - | 55,856 |

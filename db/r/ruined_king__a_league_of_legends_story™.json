@@ -2,15 +2,15 @@
   "ID": "a69c5a82682c43148e4e2542fe2fcd0f",
   "Name": "Ruined King: A League of Legends Story\u2122",
   "Rating": 4.63,
-  "Ranking_Rating": 320,
-  "Ranking_Popularity": 263,
-  "Ranking_PopularitySum": 354,
+  "Ranking_Rating": 326,
+  "Ranking_Popularity": 262,
+  "Ranking_PopularitySum": 355,
   "NumberOfRatings": 597,
-  "NumberOfAwards": 178,
-  "NumberOfAwardsMax": 178,
+  "NumberOfAwards": 179,
+  "NumberOfAwardsMax": 179,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:24:34.6874306+00:00",
-  "LastChanged": "2022-12-31T20:57:39.6424124+00:00",
+  "LastChanged": "2023-04-12T20:57:24.6343788+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:34.6874312+00:00",
@@ -490,6 +490,12 @@
     {
       "Time": "2022-12-31T20:57:39.6424125+00:00",
       "Rating": 4.63
+    },
+    {
+      "Time": "2023-04-12T20:57:24.6343789+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 179,
+      "NumberOfAwardsMax": 179
     }
   ],
   "Tags": [
@@ -497,7 +503,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 178
+      "Count": 179
     }
   ]
 }

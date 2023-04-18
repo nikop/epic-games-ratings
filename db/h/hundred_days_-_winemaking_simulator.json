@@ -2,16 +2,16 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "Rating": 4.35,
-  "Ranking_Rating": 701,
+  "Ranking_Rating": 708,
   "Ranking_Popularity": 252,
-  "Ranking_PopularitySum": 198,
+  "Ranking_PopularitySum": 202,
   "NumberOfRatings": 7669,
-  "NumberOfAwards": 1681,
-  "NumberOfAwardsMax": 200,
+  "NumberOfAwards": 1568,
+  "NumberOfAwardsMax": 201,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:20:15.0097479+00:00",
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
-  "LastChanged": "2023-01-08T02:11:49.063064+00:00",
+  "LastChanged": "2023-04-17T10:57:26.6785948+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-09T05:31:36.2629345+00:00",
@@ -721,6 +721,60 @@
     {
       "Time": "2023-01-08T02:11:49.0630642+00:00",
       "Rating": 4.35
+    },
+    {
+      "Time": "2023-04-02T03:57:10.8470215+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 1682,
+      "NumberOfAwardsMax": 201
+    },
+    {
+      "Time": "2023-04-02T22:57:33.7246763+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 1684,
+      "NumberOfAwardsMax": 201
+    },
+    {
+      "Time": "2023-04-03T02:57:20.6474496+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 1685,
+      "NumberOfAwardsMax": 201
+    },
+    {
+      "Time": "2023-04-09T03:57:07.2812007+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 1686,
+      "NumberOfAwardsMax": 201
+    },
+    {
+      "Time": "2023-04-10T04:57:20.6713243+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 1687,
+      "NumberOfAwardsMax": 201
+    },
+    {
+      "Time": "2023-04-12T05:57:13.3562664+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 1565,
+      "NumberOfAwardsMax": 201
+    },
+    {
+      "Time": "2023-04-15T04:57:16.2021709+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 1566,
+      "NumberOfAwardsMax": 201
+    },
+    {
+      "Time": "2023-04-17T02:57:19.7399913+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 1567,
+      "NumberOfAwardsMax": 201
+    },
+    {
+      "Time": "2023-04-17T10:57:26.6785949+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 1568,
+      "NumberOfAwardsMax": 201
     }
   ],
   "Tags": [
@@ -728,19 +782,19 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 176
+      "Count": 177
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 193
+      "Count": 194
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 172
+      "Count": 174
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -752,25 +806,25 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 200
+      "Count": 201
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 200
+      "Count": 201
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 190
+      "Count": 191
     },
     {
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 126
+      "Count": 127
     },
     {
       "Text": "This game has Amazing Characters",
@@ -782,7 +836,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 106
+      "Count": 107
     }
   ]
 }

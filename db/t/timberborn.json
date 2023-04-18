@@ -2,15 +2,15 @@
   "ID": "3a1067df83654812b976101174e1904f",
   "Name": "Timberborn",
   "Rating": 4.72,
-  "Ranking_Rating": 167,
-  "Ranking_Popularity": 303,
+  "Ranking_Rating": 164,
+  "Ranking_Popularity": 301,
   "Ranking_PopularitySum": 236,
   "NumberOfRatings": 640,
-  "NumberOfAwards": 839,
-  "NumberOfAwardsMax": 110,
+  "NumberOfAwards": 849,
+  "NumberOfAwardsMax": 113,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:21:12.1167851+00:00",
-  "LastChanged": "2023-03-17T14:57:24.2974904+00:00",
+  "LastChanged": "2023-04-15T20:57:39.1121102+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:12.1167854+00:00",
@@ -865,6 +865,66 @@
     {
       "Time": "2023-03-17T14:57:24.2974906+00:00",
       "Rating": 4.72
+    },
+    {
+      "Time": "2023-04-01T07:57:25.5066332+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 840,
+      "NumberOfAwardsMax": 110
+    },
+    {
+      "Time": "2023-04-01T20:57:30.2917515+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 841,
+      "NumberOfAwardsMax": 110
+    },
+    {
+      "Time": "2023-04-09T06:57:21.3286179+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 842,
+      "NumberOfAwardsMax": 110
+    },
+    {
+      "Time": "2023-04-09T20:57:10.7654814+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 843,
+      "NumberOfAwardsMax": 111
+    },
+    {
+      "Time": "2023-04-11T09:57:36.7015934+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 844,
+      "NumberOfAwardsMax": 111
+    },
+    {
+      "Time": "2023-04-12T17:57:28.0058652+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 845,
+      "NumberOfAwardsMax": 111
+    },
+    {
+      "Time": "2023-04-13T13:57:30.7250072+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 846,
+      "NumberOfAwardsMax": 111
+    },
+    {
+      "Time": "2023-04-14T14:57:33.1923132+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 847,
+      "NumberOfAwardsMax": 112
+    },
+    {
+      "Time": "2023-04-15T19:57:21.3846282+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 848,
+      "NumberOfAwardsMax": 112
+    },
+    {
+      "Time": "2023-04-15T20:57:39.1121103+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 849,
+      "NumberOfAwardsMax": 113
     }
   ],
   "Tags": [
@@ -878,13 +938,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 110
+      "Count": 112
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 110
+      "Count": 113
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -896,7 +956,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 105
+      "Count": 106
     },
     {
       "Text": "This game has Amazing Characters",
@@ -908,13 +968,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 98
+      "Count": 101
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 54
+      "Count": 55
     },
     {
       "Text": "This game has Obsessive Gameplay",

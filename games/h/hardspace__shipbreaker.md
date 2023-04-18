@@ -1,9 +1,9 @@
 # Hardspace: Shipbreaker
-Rating: 4.64 (Ranked 306)  
+Rating: 4.65 (Ranked 286)  
 Number of Ratings: 36  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 478)  
-Sum: 0 (Ranked 478)  
+Max (): 0  (Ranked 484)  
+Sum: 0 (Ranked 484)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
@@ -58,3 +58,4 @@ Diff (max vs sum): 0
 | 2023-02-20 | 4.65 | - | - |
 | 2023-03-12 | 4.64 | - | - |
 | 2023-03-31 | 4.64 | - | 0 |
+| 2023-04-03 | 4.65 | - | 0 |

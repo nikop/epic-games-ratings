@@ -1,25 +1,25 @@
 # BioShock Remastered
-Rating: 4.64 (Ranked 306)  
+Rating: 4.64 (Ranked 312)  
 Number of Ratings: 24,195  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 5,817  (Ranked 51)  
-Sum: 7,067 (Ranked 97)  
-Diff (max vs sum): -46
+Max (Great Boss Battles): 5,876  (Ranked 54)  
+Sum: 7,145 (Ranked 97)  
+Diff (max vs sum): -43
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 5,817 |
-| This game is Extremely Fun | 145 |
-| This game has Amazing Characters | 141 |
-| This game has Quickly Understood Controls | 139 |
-| This game has Amazing Storytelling | 138 |
-| This game is Highly Recommended | 136 |
-| This game is Relaxing | 129 |
+| This game has Great Boss Battles | 5,876 |
+| This game is Extremely Fun | 146 |
+| This game has Amazing Characters | 143 |
+| This game has Amazing Storytelling | 142 |
+| This game has Quickly Understood Controls | 140 |
+| This game is Highly Recommended | 140 |
+| This game is Relaxing | 132 |
 | This game is Great for Beginners | 124 |
-| This game has Diverse Characters | 113 |
-| This game has Unique Visuals | 111 |
+| This game has Diverse Characters | 114 |
+| This game has Unique Visuals | 113 |
 | This game has Obsessive Gameplay | 106 |
-| This game has a Creative Community | 74 |
+| This game has a Creative Community | 75 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -91,3 +91,19 @@ Diff (max vs sum): -46
 | 2022-11-11 | 4.64 | - | - |
 | 2022-11-12 | 4.63 | - | - |
 | 2023-01-23 | 4.64 | - | - |
+| 2023-04-01 | 4.64 | - | 5,820 |
+| 2023-04-02 | 4.64 | - | 5,824 |
+| 2023-04-03 | 4.64 | - | 5,824 |
+| 2023-04-04 | 4.64 | - | 5,829 |
+| 2023-04-05 | 4.64 | - | 5,834 |
+| 2023-04-07 | 4.64 | - | 5,841 |
+| 2023-04-08 | 4.64 | - | 5,850 |
+| 2023-04-09 | 4.64 | - | 5,851 |
+| 2023-04-10 | 4.64 | - | 5,855 |
+| 2023-04-12 | 4.64 | - | 5,859 |
+| 2023-04-13 | 4.64 | - | 5,861 |
+| 2023-04-14 | 4.64 | - | 5,865 |
+| 2023-04-15 | 4.64 | - | 5,872 |
+| 2023-04-16 | 4.64 | - | 5,872 |
+| 2023-04-17 | 4.64 | - | 5,876 |
+| 2023-04-18 | 4.64 | - | 5,876 |

@@ -1,17 +1,17 @@
 {
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
-  "Rating": 4.11,
-  "Ranking_Rating": 834,
-  "Ranking_Popularity": 424,
-  "Ranking_PopularitySum": 365,
+  "Rating": 4.12,
+  "Ranking_Rating": 837,
+  "Ranking_Popularity": 428,
+  "Ranking_PopularitySum": 368,
   "NumberOfRatings": 281,
-  "NumberOfAwards": 157,
+  "NumberOfAwards": 158,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-08-31T13:30:37.244386+00:00",
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
-  "LastChanged": "2023-02-08T15:57:20.8142911+00:00",
+  "LastChanged": "2023-04-14T21:57:01.4034756+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-02T02:01:46.3061228+00:00",
@@ -487,6 +487,18 @@
     {
       "Time": "2023-02-08T15:57:20.8142912+00:00",
       "Rating": 4.11
+    },
+    {
+      "Time": "2023-04-07T20:57:06.6574401+00:00",
+      "Rating": 4.11,
+      "NumberOfAwards": 158,
+      "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2023-04-14T21:57:01.4034758+00:00",
+      "Rating": 4.12,
+      "NumberOfAwards": 158,
+      "NumberOfAwardsMax": 32
     }
   ],
   "Tags": [
@@ -506,7 +518,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game is Extremely Fun",

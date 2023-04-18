@@ -1,14 +1,14 @@
 # Ooblets
-Rating: 4.87 (Ranked 24)  
+Rating: 4.87 (Ranked 25)  
 Number of Ratings: 1,446  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 991  (Ranked 131)  
-Sum: 1,772 (Ranked 194)  
-Diff (max vs sum): -63
+Max (Character Customization): 995  (Ranked 132)  
+Sum: 1,777 (Ranked 194)  
+Diff (max vs sum): -62
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 991 |
+| This game has Inclusive Character Customization | 995 |
 | This game has Amazing Storytelling | 84 |
 | This game has Playful Visuals | 77 |
 | This game is Great for Beginners | 76 |
@@ -16,7 +16,7 @@ Diff (max vs sum): -63
 | This game has Amazing Characters | 72 |
 | This game is Relaxing | 72 |
 | This game has Quickly Understood Controls | 70 |
-| This game has Easy Combat | 69 |
+| This game has Easy Combat | 70 |
 | This game is Highly Recommended | 68 |
 | This game has a Kind Community | 60 |
 | This game has Diverse Characters | 57 |
@@ -88,3 +88,8 @@ Diff (max vs sum): -63
 | 2022-09-22 | 4.87 | 1,436 | - |
 | 2022-09-23 | 4.87 | 1,446 | - |
 | 2022-10-13 | 4.87 | - | - |
+| 2023-04-03 | 4.87 | - | 992 |
+| 2023-04-07 | 4.87 | - | 993 |
+| 2023-04-09 | 4.87 | - | 994 |
+| 2023-04-13 | 4.87 | - | 994 |
+| 2023-04-14 | 4.87 | - | 995 |

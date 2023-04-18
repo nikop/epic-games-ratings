@@ -1,23 +1,23 @@
 # STRANGER OF PARADISE FINAL FANTASY ORIGIN
-Rating: 4.50 (Ranked 524)  
+Rating: 4.50 (Ranked 525)  
 Number of Ratings: 1,919  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 744  (Ranked 148)  
-Sum: 1,585 (Ranked 203)  
-Diff (max vs sum): -55
+Max (Great Boss Battles): 751  (Ranked 148)  
+Sum: 1,545 (Ranked 204)  
+Diff (max vs sum): -56
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 744 |
+| This game has Great Boss Battles | 751 |
 | This game has Inclusive Character Customization | 452 |
-| This game is Extremely Fun | 111 |
-| This game is Highly Recommended | 109 |
-| This game has Diverse Characters | 103 |
-| This game has Amazing Storytelling | 101 |
-| This game has Quickly Understood Controls | 101 |
+| This game is Extremely Fun | 112 |
+| This game is Highly Recommended | 112 |
+| This game has Diverse Characters | 104 |
+| This game has Amazing Storytelling | 102 |
+| This game has Quickly Understood Controls | 102 |
 | This game has Challenging Combat | 91 |
-| This game has Amazing Characters | 85 |
-| This game has Unique Visuals | 82 |
+| This game has Amazing Characters | 88 |
+| This game has Unique Visuals | 83 |
 | This game has a Creative Community | 58 |
 | This game has Obsessive Gameplay | 53 |
 ## Ratings History
@@ -91,3 +91,12 @@ Diff (max vs sum): -55
 | 2022-10-30 | 4.48 | - | - |
 | 2022-11-13 | 4.49 | - | - |
 | 2023-02-10 | 4.50 | - | - |
+| 2023-04-01 | 4.50 | - | 744 |
+| 2023-04-02 | 4.50 | - | 746 |
+| 2023-04-06 | 4.50 | - | 746 |
+| 2023-04-07 | 4.50 | - | 746 |
+| 2023-04-09 | 4.50 | - | 747 |
+| 2023-04-11 | 4.50 | - | 747 |
+| 2023-04-13 | 4.50 | - | 747 |
+| 2023-04-14 | 4.50 | - | 750 |
+| 2023-04-16 | 4.50 | - | 751 |

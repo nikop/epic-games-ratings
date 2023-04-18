@@ -1,16 +1,16 @@
 {
   "ID": "5c30028c7a144f91b4a6ee4011bea27b",
   "Name": "STG Football",
-  "Rating": 4.43,
-  "Ranking_Rating": 622,
-  "Ranking_Popularity": 419,
-  "Ranking_PopularitySum": 336,
-  "NumberOfAwards": 233,
-  "NumberOfAwardsMax": 33,
+  "Rating": 4.44,
+  "Ranking_Rating": 614,
+  "Ranking_Popularity": 422,
+  "Ranking_PopularitySum": 338,
+  "NumberOfAwards": 237,
+  "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-10-25T20:04:22.7982366+00:00",
   "FirstSeenRating": "2022-10-28T23:02:10.4160395+00:00",
-  "LastChanged": "2023-03-27T04:58:14.2875465+00:00",
+  "LastChanged": "2023-04-14T03:58:16.7076973+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-28T23:02:10.4160399+00:00",
@@ -239,6 +239,36 @@
     {
       "Time": "2023-03-27T04:58:14.2875468+00:00",
       "Rating": 4.43
+    },
+    {
+      "Time": "2023-04-03T01:53:30.9796306+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 233,
+      "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2023-04-06T01:56:15.5282917+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 234,
+      "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2023-04-08T06:58:15.4741426+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 235,
+      "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2023-04-11T06:58:42.774114+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 236,
+      "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-04-14T03:58:16.7076974+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 237,
+      "NumberOfAwardsMax": 34
     }
   ],
   "Tags": [
@@ -246,13 +276,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -264,13 +294,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game is Extremely Fun",

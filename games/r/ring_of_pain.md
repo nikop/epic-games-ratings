@@ -1,24 +1,24 @@
 # Ring of Pain
-Rating: 4.58 (Ranked 400)  
+Rating: 4.58 (Ranked 406)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Quickly Understood Controls): 1,465  (Ranked 111)  
-Sum: 11,314 (Ranked 72)  
-Diff (max vs sum): 39
+Max (Quickly Understood Controls): 1,468  (Ranked 112)  
+Sum: 11,350 (Ranked 74)  
+Diff (max vs sum): 38
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Quickly Understood Controls | 1,465 |
+| This game has Quickly Understood Controls | 1,468 |
 | This game is Great for Beginners | 1,429 |
-| This game is Relaxing | 1,399 |
-| This game has Challenging Combat | 1,380 |
-| This game is Extremely Fun | 1,372 |
-| This game is Highly Recommended | 1,331 |
-| This game has Amazing Storytelling | 1,287 |
-| This game has Amazing Characters | 1,190 |
-| This game has Unique Visuals | 1,174 |
+| This game is Relaxing | 1,402 |
+| This game has Challenging Combat | 1,386 |
+| This game is Extremely Fun | 1,376 |
+| This game is Highly Recommended | 1,334 |
+| This game has Amazing Storytelling | 1,292 |
+| This game has Amazing Characters | 1,194 |
+| This game has Unique Visuals | 1,178 |
 | This game has Obsessive Gameplay | 1,088 |
-| This game has a Creative Community | 716 |
+| This game has a Creative Community | 720 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -52,3 +52,20 @@ Diff (max vs sum): 39
 | 2022-09-22 | 4.57 | 15,020 | - |
 | 2022-09-23 | 4.57 | 15,086 | - |
 | 2022-10-13 | 4.58 | - | - |
+| 2023-03-31 | 4.58 | - | 1,465 |
+| 2023-04-01 | 4.58 | - | 1,465 |
+| 2023-04-02 | 4.58 | - | 1,465 |
+| 2023-04-03 | 4.58 | - | 1,465 |
+| 2023-04-04 | 4.58 | - | 1,465 |
+| 2023-04-05 | 4.58 | - | 1,465 |
+| 2023-04-06 | 4.58 | - | 1,466 |
+| 2023-04-07 | 4.58 | - | 1,466 |
+| 2023-04-08 | 4.58 | - | 1,467 |
+| 2023-04-10 | 4.58 | - | 1,467 |
+| 2023-04-11 | 4.58 | - | 1,467 |
+| 2023-04-12 | 4.58 | - | 1,468 |
+| 2023-04-13 | 4.58 | - | 1,468 |
+| 2023-04-15 | 4.58 | - | 1,468 |
+| 2023-04-16 | 4.58 | - | 1,468 |
+| 2023-04-17 | 4.58 | - | 1,468 |
+| 2023-04-18 | 4.58 | - | 1,468 |

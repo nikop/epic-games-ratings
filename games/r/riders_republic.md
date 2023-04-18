@@ -1,24 +1,24 @@
 # Riders Republic
-Rating: 4.75 (Ranked 127)  
+Rating: 4.75 (Ranked 126)  
 Number of Ratings: 4,120  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Extremely Fun): 382  (Ranked 196)  
-Sum: 3,755 (Ranked 134)  
-Diff (max vs sum): 62
+Max (Extremely Fun): 409  (Ranked 190)  
+Sum: 3,665 (Ranked 134)  
+Diff (max vs sum): 56
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Extremely Fun | 382 |
-| This game is Relaxing | 360 |
-| This game is Highly Recommended | 350 |
-| This game is Great for Beginners | 344 |
-| This game has Quickly Understood Controls | 344 |
-| This game is Great for Quick Sessions | 343 |
-| This game has Competitive Players | 343 |
-| This game has Diverse Characters | 337 |
-| This game has Amazing Characters | 331 |
-| This game is Educational | 318 |
-| This game has Amazing Storytelling | 303 |
+| This game is Extremely Fun | 409 |
+| This game is Relaxing | 385 |
+| This game is Highly Recommended | 374 |
+| This game has Competitive Players | 367 |
+| This game has Quickly Understood Controls | 366 |
+| This game is Great for Quick Sessions | 365 |
+| This game is Great for Beginners | 364 |
+| This game has Diverse Characters | 355 |
+| This game has Amazing Characters | 346 |
+| This game is Educational | 336 |
+| This game has Amazing Storytelling | 334 |
 | This game has Obsessive Gameplay | 164 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -99,3 +99,21 @@ Diff (max vs sum): 62
 | 2023-03-23 | 4.74 | - | - |
 | 2023-03-26 | 4.75 | - | - |
 | 2023-03-31 | 4.75 | - | 382 |
+| 2023-04-01 | 4.75 | - | 384 |
+| 2023-04-02 | 4.75 | - | 384 |
+| 2023-04-03 | 4.75 | - | 387 |
+| 2023-04-04 | 4.75 | - | 387 |
+| 2023-04-05 | 4.75 | - | 389 |
+| 2023-04-06 | 4.75 | - | 392 |
+| 2023-04-07 | 4.75 | - | 394 |
+| 2023-04-08 | 4.75 | - | 394 |
+| 2023-04-09 | 4.75 | - | 394 |
+| 2023-04-10 | 4.75 | - | 399 |
+| 2023-04-11 | 4.75 | - | 399 |
+| 2023-04-12 | 4.75 | - | 399 |
+| 2023-04-13 | 4.75 | - | 401 |
+| 2023-04-14 | 4.75 | - | 402 |
+| 2023-04-15 | 4.75 | - | 402 |
+| 2023-04-16 | 4.75 | - | 409 |
+| 2023-04-17 | 4.75 | - | 409 |
+| 2023-04-18 | 4.75 | - | 409 |

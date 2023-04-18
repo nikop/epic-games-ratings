@@ -1,15 +1,15 @@
 {
   "ID": "f6dcd5bf17c0469789292d1166bf91a1",
   "Name": "WRC 8 FIA World Rally Championship",
-  "Rating": 4.59,
-  "Ranking_Rating": 388,
-  "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 478,
+  "Rating": 4.6,
+  "Ranking_Rating": 375,
+  "Ranking_Popularity": 484,
+  "Ranking_PopularitySum": 484,
   "NumberOfRatings": 199,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:18:20.314289+00:00",
-  "LastChanged": "2023-03-31T05:57:06.5406627+00:00",
+  "LastChanged": "2023-04-01T20:57:12.4181632+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:20.3142892+00:00",
@@ -332,6 +332,12 @@
     {
       "Time": "2023-03-31T05:57:06.5406629+00:00",
       "Rating": 4.59,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-01T20:57:12.4181634+00:00",
+      "Rating": 4.6,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

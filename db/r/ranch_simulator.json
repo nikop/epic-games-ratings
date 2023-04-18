@@ -2,15 +2,15 @@
   "ID": "6a9d6df3f6f74983a7d77861ccfcf50b",
   "Name": "Ranch Simulator",
   "Rating": 4.44,
-  "Ranking_Rating": 606,
-  "Ranking_Popularity": 387,
-  "Ranking_PopularitySum": 318,
+  "Ranking_Rating": 614,
+  "Ranking_Popularity": 391,
+  "Ranking_PopularitySum": 321,
   "NumberOfRatings": 338,
-  "NumberOfAwards": 281,
+  "NumberOfAwards": 283,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2022-07-22T20:19:57.8144749+00:00",
-  "LastChanged": "2023-03-12T09:57:21.0711793+00:00",
+  "LastChanged": "2023-04-14T01:53:14.0323775+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:57.8144751+00:00",
@@ -553,6 +553,18 @@
     {
       "Time": "2023-03-12T09:57:21.0711795+00:00",
       "Rating": 4.44
+    },
+    {
+      "Time": "2023-04-03T13:57:22.2858661+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 282,
+      "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-04-14T01:53:14.0323777+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 283,
+      "NumberOfAwardsMax": 45
     }
   ],
   "Tags": [
@@ -566,7 +578,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 41
+      "Count": 43
     },
     {
       "Text": "This game has Obsessive Gameplay",

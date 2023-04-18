@@ -1,22 +1,22 @@
 # Armored Warfare
-Rating: 4.09 (Ranked 845)  
+Rating: 4.10 (Ranked 844)  
 Number of Ratings: 458  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Relaxing): 70  (Ranked 348)  
-Sum: 577 (Ranked 273)  
-Diff (max vs sum): 75
+Max (Relaxing): 71  (Ranked 352)  
+Sum: 556 (Ranked 282)  
+Diff (max vs sum): 70
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Relaxing | 70 |
-| This game is Great for Beginners | 68 |
-| This game has Amazing Storytelling | 62 |
-| This game has Diverse Characters | 59 |
-| This game has Quickly Understood Controls | 58 |
-| This game is Great for Quick Sessions | 57 |
-| This game has Competitive Players | 56 |
-| This game is Highly Recommended | 56 |
-| This game has Amazing Characters | 50 |
+| This game is Relaxing | 71 |
+| This game is Great for Beginners | 70 |
+| This game has Amazing Storytelling | 64 |
+| This game has Diverse Characters | 62 |
+| This game is Highly Recommended | 61 |
+| This game is Great for Quick Sessions | 60 |
+| This game has Quickly Understood Controls | 59 |
+| This game has Competitive Players | 58 |
+| This game has Amazing Characters | 51 |
 | This game has a Competitive Community | 41 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -116,3 +116,12 @@ Diff (max vs sum): 75
 | 2023-03-17 | 4.09 | - | - |
 | 2023-03-19 | 4.08 | - | - |
 | 2023-03-23 | 4.09 | - | - |
+| 2023-03-31 | 4.09 | - | 70 |
+| 2023-04-02 | 4.09 | - | 70 |
+| 2023-04-04 | 4.10 | - | 70 |
+| 2023-04-07 | 4.10 | - | 70 |
+| 2023-04-09 | 4.10 | - | 71 |
+| 2023-04-11 | 4.10 | - | 71 |
+| 2023-04-12 | 4.10 | - | 71 |
+| 2023-04-13 | 4.10 | - | 71 |
+| 2023-04-14 | 4.10 | - | 71 |

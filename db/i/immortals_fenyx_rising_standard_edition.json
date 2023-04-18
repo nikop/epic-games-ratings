@@ -2,15 +2,15 @@
   "ID": "4b35838425c74992ad42e1276b2161ca",
   "Name": "Immortals Fenyx Rising Standard Edition",
   "Rating": 4.61,
-  "Ranking_Rating": 349,
-  "Ranking_Popularity": 171,
-  "Ranking_PopularitySum": 242,
+  "Ranking_Rating": 350,
+  "Ranking_Popularity": 168,
+  "Ranking_PopularitySum": 241,
   "NumberOfRatings": 791,
-  "NumberOfAwards": 792,
-  "NumberOfAwardsMax": 543,
+  "NumberOfAwards": 801,
+  "NumberOfAwardsMax": 550,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:22:58.8142388+00:00",
-  "LastChanged": "2023-03-17T20:57:47.9641965+00:00",
+  "LastChanged": "2023-04-14T16:57:25.132235+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:58.8142391+00:00",
@@ -677,6 +677,48 @@
     {
       "Time": "2023-03-17T20:57:47.9641966+00:00",
       "Rating": 4.61
+    },
+    {
+      "Time": "2023-03-31T14:57:26.8306252+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 793,
+      "NumberOfAwardsMax": 543
+    },
+    {
+      "Time": "2023-03-31T20:57:43.1148449+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 795,
+      "NumberOfAwardsMax": 545
+    },
+    {
+      "Time": "2023-04-06T20:57:36.4076366+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 796,
+      "NumberOfAwardsMax": 546
+    },
+    {
+      "Time": "2023-04-08T18:57:36.7062182+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 797,
+      "NumberOfAwardsMax": 547
+    },
+    {
+      "Time": "2023-04-10T15:57:35.0664312+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 798,
+      "NumberOfAwardsMax": 548
+    },
+    {
+      "Time": "2023-04-14T03:57:44.5809509+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 799,
+      "NumberOfAwardsMax": 548
+    },
+    {
+      "Time": "2023-04-14T16:57:25.1322352+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 801,
+      "NumberOfAwardsMax": 550
     }
   ],
   "Tags": [
@@ -684,13 +726,13 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 543
+      "Count": 550
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 44
+      "Count": 45
     },
     {
       "Text": "This game is Great for Beginners",
@@ -702,7 +744,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game is Extremely Fun",

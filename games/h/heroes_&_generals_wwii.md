@@ -1,21 +1,21 @@
 # Heroes & Generals WWII
-Rating: 4.23 (Ranked 777)  
+Rating: 4.23 (Ranked 785)  
 Number of Ratings: 4,634  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 969  (Ranked 133)  
-Sum: 6,807 (Ranked 101)  
-Diff (max vs sum): 32
+Max (Diverse Characters): 980  (Ranked 136)  
+Sum: 6,858 (Ranked 103)  
+Diff (max vs sum): 33
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Diverse Characters | 969 |
-| This game is Extremely Fun | 921 |
-| This game has Quickly Understood Controls | 879 |
-| This game has Competitive Players | 879 |
-| This game is Highly Recommended | 850 |
-| This game has Amazing Characters | 810 |
-| This game has Amazing Storytelling | 791 |
-| This game has a Competitive Community | 708 |
+| This game has Diverse Characters | 980 |
+| This game is Extremely Fun | 929 |
+| This game has Quickly Understood Controls | 883 |
+| This game has Competitive Players | 882 |
+| This game is Highly Recommended | 859 |
+| This game has Amazing Characters | 813 |
+| This game has Amazing Storytelling | 797 |
+| This game has a Competitive Community | 715 |
 | This game has Obsessive Gameplay | 152 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -96,3 +96,18 @@ Diff (max vs sum): 32
 | 2023-03-19 | 4.24 | - | - |
 | 2023-03-22 | 4.24 | - | - |
 | 2023-03-23 | 4.23 | - | - |
+| 2023-04-01 | 4.23 | - | 970 |
+| 2023-04-02 | 4.23 | - | 970 |
+| 2023-04-03 | 4.24 | - | 971 |
+| 2023-04-04 | 4.24 | - | 971 |
+| 2023-04-05 | 4.23 | - | 973 |
+| 2023-04-06 | 4.24 | - | 973 |
+| 2023-04-07 | 4.23 | - | 973 |
+| 2023-04-08 | 4.24 | - | 973 |
+| 2023-04-09 | 4.24 | - | 973 |
+| 2023-04-10 | 4.24 | - | 975 |
+| 2023-04-11 | 4.24 | - | 976 |
+| 2023-04-14 | 4.24 | - | 978 |
+| 2023-04-15 | 4.23 | - | 979 |
+| 2023-04-16 | 4.24 | - | 979 |
+| 2023-04-17 | 4.23 | - | 980 |

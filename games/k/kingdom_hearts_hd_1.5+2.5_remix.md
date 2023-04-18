@@ -1,22 +1,22 @@
 # KINGDOM HEARTS HD 1.5+2.5 ReMIX
-Rating: 4.82 (Ranked 61)  
+Rating: 4.82 (Ranked 60)  
 Number of Ratings: 4,283  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Amazing Characters): 458  (Ranked 182)  
-Sum: 3,448 (Ranked 139)  
-Diff (max vs sum): 43
+Max (Amazing Characters): 474  (Ranked 183)  
+Sum: 3,550 (Ranked 137)  
+Diff (max vs sum): 46
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Inclusive Character Customization | 2,006 |
-| This game has Amazing Characters | 458 |
-| This game is Great for Beginners | 458 |
-| This game is Relaxing | 434 |
-| This game has Amazing Storytelling | 433 |
-| This game is Extremely Fun | 426 |
-| This game has Quickly Understood Controls | 418 |
-| This game is Highly Recommended | 416 |
-| This game has Diverse Characters | 405 |
+| This game has Amazing Characters | 474 |
+| This game is Great for Beginners | 469 |
+| This game is Relaxing | 447 |
+| This game has Amazing Storytelling | 444 |
+| This game is Extremely Fun | 443 |
+| This game has Quickly Understood Controls | 431 |
+| This game is Highly Recommended | 429 |
+| This game has Diverse Characters | 413 |
 | This game has Challenging Combat | 404 |
 | This game has Obsessive Gameplay | 269 |
 | This game has a Creative Community | 79 |
@@ -91,3 +91,22 @@ Diff (max vs sum): 43
 | 2022-12-30 | 4.82 | - | - |
 | 2022-12-31 | 4.83 | - | - |
 | 2023-01-03 | 4.82 | - | - |
+| 2023-03-31 | 4.82 | - | 459 |
+| 2023-04-01 | 4.82 | - | 459 |
+| 2023-04-02 | 4.82 | - | 463 |
+| 2023-04-03 | 4.82 | - | 464 |
+| 2023-04-04 | 4.82 | - | 466 |
+| 2023-04-05 | 4.82 | - | 468 |
+| 2023-04-06 | 4.82 | - | 468 |
+| 2023-04-07 | 4.82 | - | 468 |
+| 2023-04-08 | 4.82 | - | 468 |
+| 2023-04-09 | 4.82 | - | 469 |
+| 2023-04-10 | 4.82 | - | 469 |
+| 2023-04-11 | 4.82 | - | 470 |
+| 2023-04-12 | 4.82 | - | 470 |
+| 2023-04-13 | 4.82 | - | 470 |
+| 2023-04-14 | 4.82 | - | 470 |
+| 2023-04-15 | 4.82 | - | 472 |
+| 2023-04-16 | 4.82 | - | 474 |
+| 2023-04-17 | 4.82 | - | 474 |
+| 2023-04-18 | 4.82 | - | 474 |

@@ -2,15 +2,15 @@
   "ID": "7015c51a49be4592b5ba3ae2577723c5",
   "Name": "Tropico 5",
   "Rating": 4.45,
-  "Ranking_Rating": 592,
-  "Ranking_Popularity": 299,
+  "Ranking_Rating": 595,
+  "Ranking_Popularity": 301,
   "Ranking_PopularitySum": 231,
   "NumberOfRatings": 2008,
-  "NumberOfAwards": 873,
+  "NumberOfAwards": 878,
   "NumberOfAwardsMax": 113,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:18:35.4138302+00:00",
-  "LastChanged": "2022-12-31T11:57:11.2613785+00:00",
+  "LastChanged": "2023-04-18T02:57:24.5608467+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:35.4138307+00:00",
@@ -1555,6 +1555,36 @@
     {
       "Time": "2022-12-31T11:57:11.2613787+00:00",
       "Rating": 4.45
+    },
+    {
+      "Time": "2023-04-04T19:57:12.3624196+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 874,
+      "NumberOfAwardsMax": 113
+    },
+    {
+      "Time": "2023-04-09T23:57:18.4916407+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 875,
+      "NumberOfAwardsMax": 113
+    },
+    {
+      "Time": "2023-04-17T09:57:25.3511601+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 876,
+      "NumberOfAwardsMax": 113
+    },
+    {
+      "Time": "2023-04-17T17:57:07.7365489+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 877,
+      "NumberOfAwardsMax": 113
+    },
+    {
+      "Time": "2023-04-18T02:57:24.5608468+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 878,
+      "NumberOfAwardsMax": 113
     }
   ],
   "Tags": [
@@ -1562,7 +1592,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 98
+      "Count": 99
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1574,7 +1604,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 104
+      "Count": 105
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1586,13 +1616,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 96
+      "Count": 97
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 83
+      "Count": 84
     },
     {
       "Text": "This game is Educational",
@@ -1610,7 +1640,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 67
+      "Count": 68
     },
     {
       "Text": "This game is Great for Beginners",

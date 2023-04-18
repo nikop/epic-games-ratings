@@ -1,16 +1,16 @@
 {
   "ID": "d0230ef21b1f4ef29aec0d49946912fc",
   "Name": "Torchlight",
-  "Rating": 4.34,
-  "Ranking_Rating": 709,
-  "Ranking_Popularity": 473,
-  "Ranking_PopularitySum": 473,
+  "Rating": 4.32,
+  "Ranking_Rating": 731,
+  "Ranking_Popularity": 477,
+  "Ranking_PopularitySum": 477,
   "NumberOfRatings": 122,
   "NumberOfAwards": 20,
   "NumberOfAwardsMax": 20,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:23:57.2645224+00:00",
-  "LastChanged": "2023-03-21T15:58:06.5244703+00:00",
+  "LastChanged": "2023-04-16T16:57:25.843938+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:57.2645227+00:00",
@@ -323,6 +323,24 @@
     {
       "Time": "2023-03-21T15:58:06.5244705+00:00",
       "Rating": 4.34
+    },
+    {
+      "Time": "2023-03-31T15:57:22.4537227+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2023-04-07T15:57:43.3427375+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2023-04-16T16:57:25.8439383+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
   "Tags": [

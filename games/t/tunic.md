@@ -1,10 +1,10 @@
 # TUNIC
-Rating: 4.85 (Ranked 38)  
+Rating: 4.85 (Ranked 37)  
 Number of Ratings: 100  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 32  (Ranked 424)  
-Sum: 32 (Ranked 440)  
-Diff (max vs sum): -16
+Max (Great Boss Battles): 32  (Ranked 428)  
+Sum: 32 (Ranked 447)  
+Diff (max vs sum): -19
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

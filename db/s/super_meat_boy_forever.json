@@ -1,16 +1,16 @@
 {
   "ID": "moose",
   "Name": "Super Meat Boy Forever",
-  "Rating": 4.71,
-  "Ranking_Rating": 177,
-  "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 478,
+  "Rating": 4.68,
+  "Ranking_Rating": 235,
+  "Ranking_Popularity": 484,
+  "Ranking_PopularitySum": 484,
   "NumberOfRatings": 24,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:24:25.4664791+00:00",
   "FirstSeenRating": "2022-09-02T12:31:23.1316509+00:00",
-  "LastChanged": "2023-03-31T05:57:47.8873868+00:00",
+  "LastChanged": "2023-04-12T17:57:50.083392+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-02T12:31:23.1316512+00:00",
@@ -96,6 +96,18 @@
     {
       "Time": "2023-03-31T05:57:47.887387+00:00",
       "Rating": 4.71,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-02T17:57:40.8894116+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-12T17:57:50.0833923+00:00",
+      "Rating": 4.68,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

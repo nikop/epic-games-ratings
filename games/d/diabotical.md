@@ -1,25 +1,25 @@
 # Diabotical
-Rating: 4.76 (Ranked 113)  
+Rating: 4.75 (Ranked 126)  
 Number of Ratings: 572  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Quick Sessions): 259  (Ranked 231)  
-Sum: 2,285 (Ranked 167)  
-Diff (max vs sum): 64
+Max (Great for Quick Sessions): 264  (Ranked 230)  
+Sum: 2,539 (Ranked 161)  
+Diff (max vs sum): 69
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Quick Sessions | 259 |
-| This game has Competitive Players | 252 |
+| This game is Great for Quick Sessions | 264 |
+| This game has Competitive Players | 253 |
 | This game has Quickly Understood Controls | 246 |
 | This game is Extremely Fun | 241 |
-| This game is Highly Recommended | 235 |
-| This game has Challenging Combat | 233 |
-| This game has Amazing Characters | 219 |
-| This game has a Competitive Community | 217 |
-| This game has Playful Visuals | 201 |
+| This game is Relaxing | 240 |
+| This game is Highly Recommended | 236 |
+| This game has Challenging Combat | 234 |
+| This game has Amazing Characters | 220 |
+| This game has a Competitive Community | 218 |
+| This game has Playful Visuals | 204 |
 | This game has Obsessive Gameplay | 196 |
-| This game is Relaxing | 187 |
-| This game has Amazing Storytelling | 182 |
+| This game has Amazing Storytelling | 183 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -91,3 +91,9 @@ Diff (max vs sum): 64
 | 2022-11-15 | 4.76 | - | - |
 | 2022-11-24 | 4.75 | - | - |
 | 2022-11-30 | 4.76 | - | - |
+| 2023-04-04 | 4.76 | - | 261 |
+| 2023-04-06 | 4.75 | - | 261 |
+| 2023-04-08 | 4.75 | - | 262 |
+| 2023-04-12 | 4.75 | - | 262 |
+| 2023-04-15 | 4.75 | - | 263 |
+| 2023-04-16 | 4.75 | - | 264 |

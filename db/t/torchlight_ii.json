@@ -2,15 +2,15 @@
   "ID": "8432511ef63b489b843d21ff486a0355",
   "Name": "Torchlight II",
   "Rating": 4.58,
-  "Ranking_Rating": 400,
-  "Ranking_Popularity": 137,
-  "Ranking_PopularitySum": 188,
+  "Ranking_Rating": 406,
+  "Ranking_Popularity": 138,
+  "Ranking_PopularitySum": 189,
   "NumberOfRatings": 2280,
-  "NumberOfAwards": 1864,
-  "NumberOfAwardsMax": 956,
+  "NumberOfAwards": 1878,
+  "NumberOfAwardsMax": 965,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:29:22.1423084+00:00",
-  "LastChanged": "2022-10-29T12:32:11.8184911+00:00",
+  "LastChanged": "2023-04-17T23:58:07.0696208+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:22.1423087+00:00",
@@ -1205,6 +1205,66 @@
     {
       "Time": "2022-10-29T12:32:11.8184913+00:00",
       "Rating": 4.58
+    },
+    {
+      "Time": "2023-03-31T15:57:52.8330118+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1865,
+      "NumberOfAwardsMax": 957
+    },
+    {
+      "Time": "2023-04-03T05:58:58.5118594+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1866,
+      "NumberOfAwardsMax": 958
+    },
+    {
+      "Time": "2023-04-05T15:58:30.0720637+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1868,
+      "NumberOfAwardsMax": 958
+    },
+    {
+      "Time": "2023-04-07T10:57:52.4419528+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1869,
+      "NumberOfAwardsMax": 959
+    },
+    {
+      "Time": "2023-04-08T16:58:09.8309929+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1870,
+      "NumberOfAwardsMax": 959
+    },
+    {
+      "Time": "2023-04-12T16:57:59.7217953+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1871,
+      "NumberOfAwardsMax": 960
+    },
+    {
+      "Time": "2023-04-13T09:57:51.7696179+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1872,
+      "NumberOfAwardsMax": 960
+    },
+    {
+      "Time": "2023-04-16T04:58:40.4817568+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1873,
+      "NumberOfAwardsMax": 961
+    },
+    {
+      "Time": "2023-04-17T21:57:55.3770037+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1874,
+      "NumberOfAwardsMax": 961
+    },
+    {
+      "Time": "2023-04-17T23:58:07.069621+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1878,
+      "NumberOfAwardsMax": 965
     }
   ],
   "Tags": [
@@ -1212,13 +1272,13 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 956
+      "Count": 965
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 467
+      "Count": 470
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1236,7 +1296,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 55
+      "Count": 57
     },
     {
       "Text": "This game has Amazing Characters",

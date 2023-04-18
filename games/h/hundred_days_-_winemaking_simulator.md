@@ -1,23 +1,23 @@
 # Hundred Days - Winemaking Simulator
-Rating: 4.35 (Ranked 701)  
+Rating: 4.35 (Ranked 708)  
 Number of Ratings: 7,669  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Relaxing): 200  (Ranked 252)  
-Sum: 1,681 (Ranked 198)  
-Diff (max vs sum): 54
+Max (Relaxing): 201  (Ranked 252)  
+Sum: 1,568 (Ranked 202)  
+Diff (max vs sum): 50
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Extremely Fun | 200 |
-| This game is Relaxing | 200 |
+| This game is Extremely Fun | 201 |
+| This game is Relaxing | 201 |
 | This game has Quickly Understood Controls | 196 |
-| This game is Great for Beginners | 193 |
-| This game is Highly Recommended | 190 |
-| This game is Educational | 176 |
-| This game has Amazing Storytelling | 172 |
-| This game has Easy Combat | 126 |
+| This game is Great for Beginners | 194 |
+| This game is Highly Recommended | 191 |
+| This game is Educational | 177 |
+| This game has Amazing Storytelling | 174 |
+| This game has Easy Combat | 127 |
 | This game has Amazing Characters | 122 |
-| This game has a Creative Community | 106 |
+| This game has a Creative Community | 107 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -46,3 +46,10 @@ Diff (max vs sum): 54
 | 2022-12-30 | 4.35 | - | - |
 | 2023-01-04 | 4.34 | - | - |
 | 2023-01-08 | 4.35 | - | - |
+| 2023-04-02 | 4.35 | - | 201 |
+| 2023-04-03 | 4.35 | - | 201 |
+| 2023-04-09 | 4.35 | - | 201 |
+| 2023-04-10 | 4.35 | - | 201 |
+| 2023-04-12 | 4.35 | - | 201 |
+| 2023-04-15 | 4.35 | - | 201 |
+| 2023-04-17 | 4.35 | - | 201 |

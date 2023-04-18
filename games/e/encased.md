@@ -1,14 +1,14 @@
 # Encased
-Rating: 4.36 (Ranked 691)  
+Rating: 4.36 (Ranked 699)  
 Number of Ratings: 49  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 119  (Ranked 293)  
-Sum: 119 (Ranked 380)  
-Diff (max vs sum): -87
+Max (Character Customization): 123  (Ranked 293)  
+Sum: 123 (Ranked 383)  
+Diff (max vs sum): -90
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 119 |
+| This game has Inclusive Character Customization | 123 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -71,3 +71,7 @@ Diff (max vs sum): -87
 | 2023-03-09 | 4.36 | - | - |
 | 2023-03-11 | 4.37 | - | - |
 | 2023-03-28 | 4.36 | - | - |
+| 2023-04-09 | 4.36 | - | 120 |
+| 2023-04-13 | 4.36 | - | 121 |
+| 2023-04-15 | 4.36 | - | 122 |
+| 2023-04-16 | 4.36 | - | 123 |

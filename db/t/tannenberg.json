@@ -2,15 +2,15 @@
   "ID": "538de058a6d9490ea151c4cd111cc01b",
   "Name": "Tannenberg",
   "Rating": 4.39,
-  "Ranking_Rating": 664,
-  "Ranking_Popularity": 208,
-  "Ranking_PopularitySum": 150,
+  "Ranking_Rating": 670,
+  "Ranking_Popularity": 209,
+  "Ranking_PopularitySum": 151,
   "NumberOfRatings": 13393,
-  "NumberOfAwards": 2794,
-  "NumberOfAwardsMax": 319,
+  "NumberOfAwards": 2816,
+  "NumberOfAwardsMax": 321,
   "MaxAwardTitle": "Competitive Players",
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
-  "LastChanged": "2022-11-07T02:49:39.5714047+00:00",
+  "LastChanged": "2023-04-15T17:57:38.3483148+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:54.24863+00:00",
@@ -2782,6 +2782,102 @@
     {
       "Time": "2022-11-07T02:49:39.5714048+00:00",
       "Rating": 4.39
+    },
+    {
+      "Time": "2023-04-01T10:58:16.2827695+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 2795,
+      "NumberOfAwardsMax": 319
+    },
+    {
+      "Time": "2023-04-03T19:57:56.4697913+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 2796,
+      "NumberOfAwardsMax": 319
+    },
+    {
+      "Time": "2023-04-05T04:57:33.3183687+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 2797,
+      "NumberOfAwardsMax": 320
+    },
+    {
+      "Time": "2023-04-05T17:57:32.0725723+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 2798,
+      "NumberOfAwardsMax": 320
+    },
+    {
+      "Time": "2023-04-06T09:57:41.8711405+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 2799,
+      "NumberOfAwardsMax": 320
+    },
+    {
+      "Time": "2023-04-07T02:23:27.0200895+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 2801,
+      "NumberOfAwardsMax": 321
+    },
+    {
+      "Time": "2023-04-07T09:57:58.69319+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 2802,
+      "NumberOfAwardsMax": 321
+    },
+    {
+      "Time": "2023-04-07T18:57:46.0549657+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 2803,
+      "NumberOfAwardsMax": 321
+    },
+    {
+      "Time": "2023-04-08T14:57:45.0844501+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 2804,
+      "NumberOfAwardsMax": 321
+    },
+    {
+      "Time": "2023-04-08T16:57:41.9764009+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 2806,
+      "NumberOfAwardsMax": 321
+    },
+    {
+      "Time": "2023-04-09T23:58:10.1007706+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 2808,
+      "NumberOfAwardsMax": 321
+    },
+    {
+      "Time": "2023-04-10T16:57:29.0153242+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 2810,
+      "NumberOfAwardsMax": 321
+    },
+    {
+      "Time": "2023-04-11T19:57:47.259632+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 2811,
+      "NumberOfAwardsMax": 321
+    },
+    {
+      "Time": "2023-04-13T15:57:59.9103312+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 2813,
+      "NumberOfAwardsMax": 321
+    },
+    {
+      "Time": "2023-04-14T22:58:03.5324606+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 2815,
+      "NumberOfAwardsMax": 321
+    },
+    {
+      "Time": "2023-04-15T17:57:38.3483149+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 2816,
+      "NumberOfAwardsMax": 321
     }
   ],
   "Tags": [
@@ -2789,25 +2885,25 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 299
+      "Count": 301
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 242
+      "Count": 244
     },
     {
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 249
+      "Count": 252
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 299
+      "Count": 304
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2825,37 +2921,37 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 319
+      "Count": 321
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 265
+      "Count": 267
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 268
+      "Count": 270
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 300
+      "Count": 301
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 301
+      "Count": 302
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 252
+      "Count": 254
     },
     {
       "Text": "This game has Challenging Combat",

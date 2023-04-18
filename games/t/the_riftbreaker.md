@@ -1,17 +1,17 @@
 # The Riftbreaker
-Rating: 4.75 (Ranked 127)  
+Rating: 4.75 (Ranked 126)  
 Number of Ratings: 277  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 36  (Ranked 409)  
-Sum: 177 (Ranked 355)  
-Diff (max vs sum): 54
+Max (Great for Beginners): 37  (Ranked 411)  
+Sum: 182 (Ranked 353)  
+Diff (max vs sum): 58
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 36 |
-| This game is Relaxing | 29 |
+| This game is Great for Beginners | 37 |
+| This game is Relaxing | 31 |
+| This game has Amazing Storytelling | 27 |
 | This game is Highly Recommended | 25 |
-| This game has Amazing Storytelling | 25 |
 | This game is Extremely Fun | 22 |
 | This game has Quickly Understood Controls | 20 |
 | This game has Amazing Characters | 20 |
@@ -84,3 +84,6 @@ Diff (max vs sum): 54
 | 2022-12-06 | 4.75 | - | - |
 | 2023-01-10 | 4.74 | - | - |
 | 2023-01-13 | 4.75 | - | - |
+| 2023-04-01 | 4.75 | - | 37 |
+| 2023-04-02 | 4.75 | - | 37 |
+| 2023-04-08 | 4.75 | - | 37 |

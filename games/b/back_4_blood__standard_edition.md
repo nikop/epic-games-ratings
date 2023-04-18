@@ -1,21 +1,21 @@
 # Back 4 Blood: Standard Edition
-Rating: 4.46 (Ranked 578)  
+Rating: 4.46 (Ranked 582)  
 Number of Ratings: 2,790  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 3,165  (Ranked 82)  
-Sum: 6,956 (Ranked 99)  
-Diff (max vs sum): -17
+Max (Great Boss Battles): 3,210  (Ranked 81)  
+Sum: 7,061 (Ranked 99)  
+Diff (max vs sum): -18
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 3,165 |
-| This game has Diverse Characters | 590 |
-| This game has Quickly Understood Controls | 554 |
-| This game is Highly Recommended | 553 |
-| This game is Extremely Fun | 546 |
-| This game is Relaxing | 541 |
-| This game has Amazing Storytelling | 518 |
-| This game has Amazing Characters | 489 |
+| This game has Great Boss Battles | 3,210 |
+| This game has Diverse Characters | 607 |
+| This game is Highly Recommended | 565 |
+| This game has Quickly Understood Controls | 558 |
+| This game is Extremely Fun | 552 |
+| This game is Relaxing | 544 |
+| This game has Amazing Storytelling | 527 |
+| This game has Amazing Characters | 498 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -93,3 +93,22 @@ Diff (max vs sum): -17
 | 2022-12-30 | 4.46 | - | - |
 | 2022-12-31 | 4.47 | - | - |
 | 2023-03-13 | 4.46 | - | - |
+| 2023-03-31 | 4.46 | - | 3,165 |
+| 2023-04-01 | 4.46 | - | 3,165 |
+| 2023-04-02 | 4.46 | - | 3,168 |
+| 2023-04-03 | 4.46 | - | 3,173 |
+| 2023-04-04 | 4.46 | - | 3,177 |
+| 2023-04-05 | 4.46 | - | 3,177 |
+| 2023-04-06 | 4.46 | - | 3,178 |
+| 2023-04-07 | 4.46 | - | 3,184 |
+| 2023-04-08 | 4.46 | - | 3,184 |
+| 2023-04-09 | 4.46 | - | 3,187 |
+| 2023-04-10 | 4.46 | - | 3,187 |
+| 2023-04-11 | 4.46 | - | 3,191 |
+| 2023-04-12 | 4.46 | - | 3,194 |
+| 2023-04-13 | 4.46 | - | 3,200 |
+| 2023-04-14 | 4.46 | - | 3,200 |
+| 2023-04-15 | 4.46 | - | 3,203 |
+| 2023-04-16 | 4.46 | - | 3,208 |
+| 2023-04-17 | 4.46 | - | 3,210 |
+| 2023-04-18 | 4.46 | - | 3,210 |

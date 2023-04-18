@@ -1,15 +1,15 @@
 {
   "ID": "aa4742eef2744a41bdb3115cfeca8b89",
   "Name": "King\u0027s Bounty II",
-  "Rating": 4.16,
-  "Ranking_Rating": 816,
-  "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 478,
+  "Rating": 4.17,
+  "Ranking_Rating": 818,
+  "Ranking_Popularity": 484,
+  "Ranking_PopularitySum": 484,
   "NumberOfRatings": 108,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:20:59.0658274+00:00",
-  "LastChanged": "2023-03-31T05:57:23.3370875+00:00",
+  "LastChanged": "2023-04-05T13:15:29.4829949+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:59.0658277+00:00",
@@ -262,6 +262,12 @@
     {
       "Time": "2023-03-31T05:57:23.3370877+00:00",
       "Rating": 4.16,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-05T13:15:29.4829953+00:00",
+      "Rating": 4.17,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

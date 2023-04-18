@@ -2,15 +2,15 @@
   "ID": "9c59efaabb6a48f19b3485d5d9416032",
   "Name": "LEGO\u00AE Star Wars\u2122: The Skywalker Saga",
   "Rating": 4.79,
-  "Ranking_Rating": 93,
-  "Ranking_Popularity": 93,
+  "Ranking_Rating": 91,
+  "Ranking_Popularity": 94,
   "Ranking_PopularitySum": 110,
   "NumberOfRatings": 2536,
-  "NumberOfAwards": 6217,
-  "NumberOfAwardsMax": 2211,
+  "NumberOfAwards": 6250,
+  "NumberOfAwardsMax": 2228,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
-  "LastChanged": "2022-11-18T05:56:47.2330822+00:00",
+  "LastChanged": "2023-04-16T20:57:20.7533454+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:57.6637815+00:00",
@@ -1656,6 +1656,120 @@
     {
       "Time": "2022-11-18T05:56:47.2330823+00:00",
       "Rating": 4.79
+    },
+    {
+      "Time": "2023-03-31T18:57:05.0178852+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 6221,
+      "NumberOfAwardsMax": 2215
+    },
+    {
+      "Time": "2023-04-02T08:56:55.3359202+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 6222,
+      "NumberOfAwardsMax": 2215
+    },
+    {
+      "Time": "2023-04-02T13:57:03.7567018+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 6223,
+      "NumberOfAwardsMax": 2215
+    },
+    {
+      "Time": "2023-04-03T04:56:55.3867908+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 6224,
+      "NumberOfAwardsMax": 2215
+    },
+    {
+      "Time": "2023-04-03T05:57:12.1090333+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 6225,
+      "NumberOfAwardsMax": 2215
+    },
+    {
+      "Time": "2023-04-04T01:58:11.895832+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 6228,
+      "NumberOfAwardsMax": 2218
+    },
+    {
+      "Time": "2023-04-06T01:55:13.0495032+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 6229,
+      "NumberOfAwardsMax": 2218
+    },
+    {
+      "Time": "2023-04-06T06:57:15.9027598+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 6231,
+      "NumberOfAwardsMax": 2218
+    },
+    {
+      "Time": "2023-04-06T17:57:07.6255545+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 6233,
+      "NumberOfAwardsMax": 2218
+    },
+    {
+      "Time": "2023-04-07T20:56:54.0207587+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 6236,
+      "NumberOfAwardsMax": 2220
+    },
+    {
+      "Time": "2023-04-08T14:57:03.3646022+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 6237,
+      "NumberOfAwardsMax": 2220
+    },
+    {
+      "Time": "2023-04-10T11:57:00.7318663+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 6239,
+      "NumberOfAwardsMax": 2222
+    },
+    {
+      "Time": "2023-04-11T07:56:47.4666407+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 6240,
+      "NumberOfAwardsMax": 2222
+    },
+    {
+      "Time": "2023-04-13T11:57:14.9181593+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 6241,
+      "NumberOfAwardsMax": 2223
+    },
+    {
+      "Time": "2023-04-14T17:56:54.3710125+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 6242,
+      "NumberOfAwardsMax": 2224
+    },
+    {
+      "Time": "2023-04-15T06:57:22.3061202+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 6243,
+      "NumberOfAwardsMax": 2224
+    },
+    {
+      "Time": "2023-04-16T16:56:48.1964652+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 6244,
+      "NumberOfAwardsMax": 2224
+    },
+    {
+      "Time": "2023-04-16T17:57:01.5980392+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 6246,
+      "NumberOfAwardsMax": 2224
+    },
+    {
+      "Time": "2023-04-16T20:57:20.7533457+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 6250,
+      "NumberOfAwardsMax": 2228
     }
   ],
   "Tags": [
@@ -1663,37 +1777,37 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2211
+      "Count": 2228
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 445
+      "Count": 448
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 459
+      "Count": 461
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 461
+      "Count": 462
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 449
+      "Count": 450
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 467
+      "Count": 472
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1705,19 +1819,19 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 429
+      "Count": 430
     },
     {
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 439
+      "Count": 440
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 431
+      "Count": 433
     },
     {
       "Text": "This game is Relaxing",

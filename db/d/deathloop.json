@@ -2,15 +2,15 @@
   "ID": "7dee3ddeac7d427eb35def472be64d9c",
   "Name": "DEATHLOOP",
   "Rating": 4.54,
-  "Ranking_Rating": 468,
-  "Ranking_Popularity": 419,
-  "Ranking_PopularitySum": 360,
+  "Ranking_Rating": 474,
+  "Ranking_Popularity": 426,
+  "Ranking_PopularitySum": 363,
   "NumberOfRatings": 874,
   "NumberOfAwards": 164,
   "NumberOfAwardsMax": 33,
   "MaxAwardTitle": "Unique Visuals",
   "FirstSeen": "2022-07-22T20:23:46.7837121+00:00",
-  "LastChanged": "2023-02-06T18:57:54.8955726+00:00",
+  "LastChanged": "2023-04-15T11:57:51.5897927+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:46.7837123+00:00",
@@ -646,6 +646,30 @@
     {
       "Time": "2023-02-06T18:57:54.8955728+00:00",
       "Rating": 4.54
+    },
+    {
+      "Time": "2023-04-03T17:57:55.9288826+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 164,
+      "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2023-04-07T17:57:36.4971705+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 164,
+      "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2023-04-09T17:57:36.3348567+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 164,
+      "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2023-04-15T11:57:51.5897929+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 164,
+      "NumberOfAwardsMax": 33
     }
   ],
   "Tags": [

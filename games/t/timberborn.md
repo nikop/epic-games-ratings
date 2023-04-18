@@ -1,23 +1,23 @@
 # Timberborn
-Rating: 4.72 (Ranked 167)  
+Rating: 4.72 (Ranked 164)  
 Number of Ratings: 640  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 110  (Ranked 303)  
-Sum: 839 (Ranked 236)  
-Diff (max vs sum): 67
+Max (Great for Beginners): 113  (Ranked 301)  
+Sum: 849 (Ranked 236)  
+Diff (max vs sum): 65
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Relaxing | 110 |
-| This game is Great for Beginners | 110 |
+| This game is Great for Beginners | 113 |
+| This game is Relaxing | 112 |
+| This game is Extremely Fun | 106 |
 | This game has Quickly Understood Controls | 105 |
-| This game is Extremely Fun | 105 |
-| This game is Highly Recommended | 98 |
+| This game is Highly Recommended | 101 |
 | This game has Amazing Characters | 96 |
 | This game has Amazing Storytelling | 84 |
 | This game is Educational | 77 |
 | This game has Obsessive Gameplay | 65 |
-| This game has a Creative Community | 54 |
+| This game has a Creative Community | 55 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -98,3 +98,10 @@ Diff (max vs sum): 67
 | 2023-02-20 | 4.72 | - | - |
 | 2023-02-28 | 4.71 | - | - |
 | 2023-03-17 | 4.72 | - | - |
+| 2023-04-01 | 4.72 | - | 110 |
+| 2023-04-09 | 4.72 | - | 111 |
+| 2023-04-11 | 4.72 | - | 111 |
+| 2023-04-12 | 4.72 | - | 111 |
+| 2023-04-13 | 4.72 | - | 111 |
+| 2023-04-14 | 4.72 | - | 112 |
+| 2023-04-15 | 4.72 | - | 113 |

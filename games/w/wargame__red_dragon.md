@@ -1,23 +1,23 @@
 # Wargame: Red Dragon
-Rating: 4.69 (Ranked 215)  
+Rating: 4.69 (Ranked 213)  
 Number of Ratings: 2,918  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Extremely Fun): 838  (Ranked 143)  
-Sum: 6,937 (Ranked 100)  
-Diff (max vs sum): 43
+Max (Extremely Fun): 848  (Ranked 142)  
+Sum: 7,041 (Ranked 101)  
+Diff (max vs sum): 41
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Extremely Fun | 838 |
-| This game is Highly Recommended | 833 |
-| This game is Educational | 826 |
-| This game has Diverse Characters | 817 |
-| This game has Challenging Combat | 811 |
-| This game has Competitive Players | 806 |
-| This game has Amazing Storytelling | 744 |
+| This game is Extremely Fun | 848 |
+| This game is Highly Recommended | 847 |
+| This game has Diverse Characters | 842 |
+| This game is Educational | 833 |
+| This game has Challenging Combat | 821 |
+| This game has Competitive Players | 815 |
+| This game has Amazing Storytelling | 753 |
 | This game has Realistic Visuals | 723 |
-| This game has a Competitive Community | 639 |
-| This game has Amazing Characters | 623 |
+| This game has a Competitive Community | 651 |
+| This game has Amazing Characters | 631 |
 | This game has Obsessive Gameplay | 562 |
 | This game is Relaxing | 181 |
 ## Ratings History
@@ -90,3 +90,20 @@ Diff (max vs sum): 43
 | 2022-10-15 | 4.69 | - | - |
 | 2022-10-16 | 4.70 | - | - |
 | 2022-10-17 | 4.69 | - | - |
+| 2023-04-01 | 4.69 | - | 838 |
+| 2023-04-02 | 4.69 | - | 839 |
+| 2023-04-03 | 4.69 | - | 839 |
+| 2023-04-04 | 4.69 | - | 839 |
+| 2023-04-05 | 4.69 | - | 839 |
+| 2023-04-06 | 4.69 | - | 840 |
+| 2023-04-07 | 4.69 | - | 840 |
+| 2023-04-08 | 4.69 | - | 842 |
+| 2023-04-09 | 4.69 | - | 842 |
+| 2023-04-10 | 4.69 | - | 843 |
+| 2023-04-11 | 4.69 | - | 843 |
+| 2023-04-12 | 4.69 | - | 844 |
+| 2023-04-13 | 4.69 | - | 844 |
+| 2023-04-14 | 4.69 | - | 847 |
+| 2023-04-15 | 4.69 | - | 848 |
+| 2023-04-16 | 4.69 | - | 848 |
+| 2023-04-17 | 4.69 | - | 848 |

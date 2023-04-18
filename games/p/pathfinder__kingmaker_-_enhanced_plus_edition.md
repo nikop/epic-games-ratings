@@ -1,23 +1,23 @@
 # Pathfinder: Kingmaker - Enhanced Plus Edition
-Rating: 4.57 (Ranked 419)  
+Rating: 4.57 (Ranked 422)  
 Number of Ratings: 3,868  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 2,965  (Ranked 85)  
-Sum: 7,934 (Ranked 88)  
+Max (Character Customization): 3,000  (Ranked 85)  
+Sum: 8,015 (Ranked 88)  
 Diff (max vs sum): -3
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 2,965 |
-| This game has Great Boss Battles | 1,975 |
-| This game has Diverse Characters | 364 |
-| This game is Extremely Fun | 362 |
-| This game is Highly Recommended | 359 |
-| This game has Amazing Characters | 357 |
-| This game has Quickly Understood Controls | 357 |
-| This game has Challenging Combat | 345 |
-| This game has Amazing Storytelling | 338 |
-| This game is Relaxing | 325 |
+| This game has Inclusive Character Customization | 3,000 |
+| This game has Great Boss Battles | 1,999 |
+| This game has Diverse Characters | 367 |
+| This game is Extremely Fun | 366 |
+| This game is Highly Recommended | 361 |
+| This game has Quickly Understood Controls | 360 |
+| This game has Amazing Characters | 358 |
+| This game has Challenging Combat | 348 |
+| This game has Amazing Storytelling | 341 |
+| This game is Relaxing | 328 |
 | This game has a Creative Community | 187 |
 | This game has Obsessive Gameplay | 77 |
 | This game is Hard for Beginners | 50 |
@@ -101,4 +101,20 @@ Diff (max vs sum): -3
 | 2022-12-02 | 4.57 | - | - |
 | 2022-12-03 | 4.56 | - | - |
 | 2023-02-08 | 4.57 | - | - |
-| 2023-03-31 | 4.57 | - | 2,965 |
+| 2023-03-31 | 4.57 | - | 2,967 |
+| 2023-04-01 | 4.57 | - | 2,967 |
+| 2023-04-02 | 4.57 | - | 2,969 |
+| 2023-04-03 | 4.57 | - | 2,970 |
+| 2023-04-04 | 4.57 | - | 2,973 |
+| 2023-04-06 | 4.57 | - | 2,978 |
+| 2023-04-07 | 4.57 | - | 2,980 |
+| 2023-04-08 | 4.57 | - | 2,980 |
+| 2023-04-09 | 4.57 | - | 2,980 |
+| 2023-04-10 | 4.57 | - | 2,980 |
+| 2023-04-11 | 4.57 | - | 2,982 |
+| 2023-04-12 | 4.57 | - | 2,984 |
+| 2023-04-13 | 4.57 | - | 2,987 |
+| 2023-04-14 | 4.57 | - | 2,988 |
+| 2023-04-15 | 4.57 | - | 2,993 |
+| 2023-04-16 | 4.57 | - | 2,997 |
+| 2023-04-17 | 4.57 | - | 3,000 |

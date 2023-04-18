@@ -1,23 +1,23 @@
 # Legends of Runeterra
-Rating: 4.65 (Ranked 290)  
+Rating: 4.65 (Ranked 286)  
 Number of Ratings: 431  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Quick Sessions): 145  (Ranked 280)  
-Sum: 1,238 (Ranked 215)  
-Diff (max vs sum): 65
+Max (Great for Quick Sessions): 148  (Ranked 278)  
+Sum: 1,277 (Ranked 214)  
+Diff (max vs sum): 64
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Quick Sessions | 145 |
-| This game has Diverse Characters | 136 |
-| This game is Great for Beginners | 129 |
-| This game has Quickly Understood Controls | 116 |
-| This game is Relaxing | 114 |
-| This game is Highly Recommended | 107 |
-| This game is Extremely Fun | 107 |
-| This game has Amazing Characters | 103 |
-| This game has Amazing Storytelling | 98 |
-| This game has Competitive Players | 98 |
+| This game is Great for Quick Sessions | 148 |
+| This game has Diverse Characters | 141 |
+| This game is Great for Beginners | 135 |
+| This game has Quickly Understood Controls | 120 |
+| This game is Relaxing | 118 |
+| This game is Extremely Fun | 113 |
+| This game is Highly Recommended | 111 |
+| This game has Amazing Characters | 105 |
+| This game has Amazing Storytelling | 101 |
+| This game has Competitive Players | 100 |
 | This game has Challenging Combat | 85 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -105,3 +105,19 @@ Diff (max vs sum): 65
 | 2023-02-11 | 4.65 | - | - |
 | 2023-02-13 | 4.64 | - | - |
 | 2023-02-19 | 4.65 | - | - |
+| 2023-03-31 | 4.65 | - | 145 |
+| 2023-04-01 | 4.65 | - | 145 |
+| 2023-04-02 | 4.65 | - | 145 |
+| 2023-04-03 | 4.65 | - | 145 |
+| 2023-04-04 | 4.65 | - | 145 |
+| 2023-04-07 | 4.65 | - | 145 |
+| 2023-04-08 | 4.65 | - | 145 |
+| 2023-04-09 | 4.65 | - | 147 |
+| 2023-04-10 | 4.65 | - | 147 |
+| 2023-04-11 | 4.65 | - | 147 |
+| 2023-04-12 | 4.65 | - | 148 |
+| 2023-04-13 | 4.65 | - | 148 |
+| 2023-04-14 | 4.65 | - | 148 |
+| 2023-04-15 | 4.65 | - | 148 |
+| 2023-04-16 | 4.65 | - | 148 |
+| 2023-04-17 | 4.65 | - | 148 |

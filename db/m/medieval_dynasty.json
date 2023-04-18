@@ -2,15 +2,15 @@
   "ID": "c556d22537ed4a14a454813c9faedd3a",
   "Name": "Medieval Dynasty",
   "Rating": 4.65,
-  "Ranking_Rating": 290,
-  "Ranking_Popularity": 382,
-  "Ranking_PopularitySum": 296,
+  "Ranking_Rating": 286,
+  "Ranking_Popularity": 384,
+  "Ranking_PopularitySum": 298,
   "NumberOfRatings": 722,
-  "NumberOfAwards": 376,
-  "NumberOfAwardsMax": 47,
+  "NumberOfAwards": 380,
+  "NumberOfAwardsMax": 48,
   "MaxAwardTitle": "Amazing Storytelling",
   "FirstSeen": "2022-07-22T20:20:29.0491506+00:00",
-  "LastChanged": "2022-11-19T17:00:15.6496204+00:00",
+  "LastChanged": "2023-04-10T19:57:28.8512441+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:29.049151+00:00",
@@ -781,6 +781,36 @@
     {
       "Time": "2022-11-19T17:00:15.6496212+00:00",
       "Rating": 4.65
+    },
+    {
+      "Time": "2023-04-02T22:57:35.2613348+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 377,
+      "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-04-04T22:57:18.2711428+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 379,
+      "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-04-06T11:57:13.8540064+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 380,
+      "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-04-08T19:57:15.1562259+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 380,
+      "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-04-10T19:57:28.8512442+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 380,
+      "NumberOfAwardsMax": 48
     }
   ],
   "Tags": [
@@ -794,19 +824,19 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 47
+      "Count": 48
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 33
+      "Count": 35
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game is Highly Recommended",

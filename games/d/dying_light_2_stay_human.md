@@ -1,24 +1,24 @@
 # Dying Light 2 Stay Human
-Rating: 4.57 (Ranked 419)  
+Rating: 4.57 (Ranked 422)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 6,206  (Ranked 47)  
-Sum: 14,244 (Ranked 58)  
+Max (Character Customization): 6,412  (Ranked 48)  
+Sum: 14,737 (Ranked 59)  
 Diff (max vs sum): -11
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 6,206 |
-| This game has Great Boss Battles | 3,652 |
-| This game has Amazing Characters | 522 |
-| This game is Highly Recommended | 520 |
-| This game is Great for Beginners | 517 |
-| This game is Extremely Fun | 506 |
-| This game has Quickly Understood Controls | 499 |
-| This game has Diverse Characters | 488 |
-| This game is Relaxing | 481 |
-| This game has Amazing Storytelling | 476 |
-| This game has a Creative Community | 377 |
+| This game has Inclusive Character Customization | 6,412 |
+| This game has Great Boss Battles | 3,764 |
+| This game is Great for Beginners | 545 |
+| This game is Highly Recommended | 541 |
+| This game has Amazing Characters | 536 |
+| This game is Extremely Fun | 523 |
+| This game has Quickly Understood Controls | 514 |
+| This game has Diverse Characters | 508 |
+| This game has Amazing Storytelling | 497 |
+| This game is Relaxing | 497 |
+| This game has a Creative Community | 400 |
 | This game has Obsessive Gameplay | 230 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -102,3 +102,21 @@ Diff (max vs sum): -11
 | 2023-02-18 | 4.58 | - | - |
 | 2023-02-19 | 4.57 | - | - |
 | 2023-03-31 | 4.57 | - | 6,206 |
+| 2023-04-01 | 4.57 | - | 6,220 |
+| 2023-04-02 | 4.57 | - | 6,235 |
+| 2023-04-03 | 4.57 | - | 6,243 |
+| 2023-04-04 | 4.57 | - | 6,243 |
+| 2023-04-05 | 4.57 | - | 6,247 |
+| 2023-04-06 | 4.57 | - | 6,260 |
+| 2023-04-07 | 4.57 | - | 6,270 |
+| 2023-04-08 | 4.57 | - | 6,280 |
+| 2023-04-09 | 4.57 | - | 6,290 |
+| 2023-04-10 | 4.57 | - | 6,300 |
+| 2023-04-11 | 4.57 | - | 6,319 |
+| 2023-04-12 | 4.57 | - | 6,330 |
+| 2023-04-13 | 4.57 | - | 6,330 |
+| 2023-04-14 | 4.57 | - | 6,339 |
+| 2023-04-15 | 4.57 | - | 6,356 |
+| 2023-04-16 | 4.57 | - | 6,380 |
+| 2023-04-17 | 4.57 | - | 6,396 |
+| 2023-04-18 | 4.57 | - | 6,412 |

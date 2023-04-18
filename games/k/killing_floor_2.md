@@ -1,23 +1,23 @@
 # Killing Floor 2
-Rating: 4.41 (Ranked 641)  
+Rating: 4.41 (Ranked 646)  
 Number of Ratings: 18,418  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 11,699  (Ranked 27)  
-Sum: 25,122 (Ranked 43)  
-Diff (max vs sum): -16
+Max (Great Boss Battles): 11,785  (Ranked 28)  
+Sum: 25,384 (Ranked 45)  
+Diff (max vs sum): -17
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 11,699 |
-| This game is Great for Beginners | 1,623 |
-| This game is Relaxing | 1,550 |
-| This game has Diverse Characters | 1,530 |
-| This game is Extremely Fun | 1,522 |
-| This game has Quickly Understood Controls | 1,518 |
-| This game has Amazing Characters | 1,483 |
-| This game is Highly Recommended | 1,463 |
-| This game has Challenging Combat | 1,448 |
-| This game has Amazing Storytelling | 1,286 |
+| This game has Great Boss Battles | 11,785 |
+| This game is Great for Beginners | 1,650 |
+| This game is Relaxing | 1,568 |
+| This game has Diverse Characters | 1,555 |
+| This game is Extremely Fun | 1,544 |
+| This game has Quickly Understood Controls | 1,533 |
+| This game has Amazing Characters | 1,500 |
+| This game is Highly Recommended | 1,481 |
+| This game has Challenging Combat | 1,466 |
+| This game has Amazing Storytelling | 1,302 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -89,4 +89,21 @@ Diff (max vs sum): -16
 | 2022-10-18 | 4.39 | - | - |
 | 2022-11-08 | 4.40 | - | - |
 | 2022-12-26 | 4.41 | - | - |
-| 2023-03-31 | 4.41 | - | 11,699 |
+| 2023-03-31 | 4.41 | - | 11,703 |
+| 2023-04-01 | 4.41 | - | 11,706 |
+| 2023-04-02 | 4.41 | - | 11,712 |
+| 2023-04-03 | 4.41 | - | 11,714 |
+| 2023-04-04 | 4.41 | - | 11,721 |
+| 2023-04-05 | 4.41 | - | 11,721 |
+| 2023-04-06 | 4.41 | - | 11,727 |
+| 2023-04-07 | 4.41 | - | 11,736 |
+| 2023-04-08 | 4.41 | - | 11,745 |
+| 2023-04-09 | 4.41 | - | 11,751 |
+| 2023-04-10 | 4.41 | - | 11,751 |
+| 2023-04-11 | 4.41 | - | 11,754 |
+| 2023-04-12 | 4.41 | - | 11,762 |
+| 2023-04-13 | 4.41 | - | 11,767 |
+| 2023-04-14 | 4.41 | - | 11,771 |
+| 2023-04-15 | 4.41 | - | 11,777 |
+| 2023-04-16 | 4.41 | - | 11,780 |
+| 2023-04-17 | 4.41 | - | 11,785 |

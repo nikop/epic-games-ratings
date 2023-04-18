@@ -1,25 +1,25 @@
 # Horizon Zero Dawn™ Complete Edition
-Rating: 4.77 (Ranked 106)  
+Rating: 4.77 (Ranked 105)  
 Number of Ratings: 7,175  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 3,797  (Ranked 74)  
-Sum: 8,005 (Ranked 87)  
+Max (Character Customization): 3,876  (Ranked 74)  
+Sum: 8,172 (Ranked 87)  
 Diff (max vs sum): -13
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 3,797 |
-| This game has Great Boss Battles | 2,319 |
-| This game is Extremely Fun | 212 |
-| This game has Amazing Storytelling | 210 |
-| This game is Highly Recommended | 204 |
-| This game has Beautiful Visuals | 201 |
-| This game is Relaxing | 197 |
-| This game has Diverse Characters | 193 |
-| This game has Amazing Characters | 191 |
-| This game has Quickly Understood Controls | 191 |
-| This game is Great for Beginners | 191 |
-| This game has a Creative Community | 99 |
+| This game has Inclusive Character Customization | 3,876 |
+| This game has Great Boss Battles | 2,366 |
+| This game is Extremely Fun | 215 |
+| This game has Amazing Storytelling | 214 |
+| This game is Highly Recommended | 210 |
+| This game has Beautiful Visuals | 208 |
+| This game is Relaxing | 200 |
+| This game has Diverse Characters | 198 |
+| This game has Quickly Understood Controls | 196 |
+| This game is Great for Beginners | 195 |
+| This game has Amazing Characters | 194 |
+| This game has a Creative Community | 100 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -87,4 +87,21 @@ Diff (max vs sum): -13
 | 2022-09-21 | 4.77 | 7,083 | - |
 | 2022-09-22 | 4.77 | 7,144 | - |
 | 2022-09-23 | 4.77 | 7,175 | - |
-| 2023-03-31 | 4.77 | - | 3,797 |
+| 2023-03-31 | 4.77 | - | 3,799 |
+| 2023-04-01 | 4.77 | - | 3,799 |
+| 2023-04-02 | 4.77 | - | 3,808 |
+| 2023-04-03 | 4.77 | - | 3,814 |
+| 2023-04-04 | 4.77 | - | 3,817 |
+| 2023-04-05 | 4.77 | - | 3,821 |
+| 2023-04-06 | 4.77 | - | 3,825 |
+| 2023-04-07 | 4.77 | - | 3,827 |
+| 2023-04-08 | 4.77 | - | 3,832 |
+| 2023-04-09 | 4.77 | - | 3,839 |
+| 2023-04-10 | 4.77 | - | 3,839 |
+| 2023-04-11 | 4.77 | - | 3,847 |
+| 2023-04-12 | 4.77 | - | 3,854 |
+| 2023-04-13 | 4.77 | - | 3,857 |
+| 2023-04-14 | 4.77 | - | 3,860 |
+| 2023-04-15 | 4.77 | - | 3,870 |
+| 2023-04-16 | 4.77 | - | 3,870 |
+| 2023-04-17 | 4.77 | - | 3,876 |

@@ -1,16 +1,16 @@
 {
   "ID": "0a84818055e740a7be21a2e5b6162703",
   "Name": "Watch Dogs: Legion Standard Edition",
-  "Rating": 4.36,
-  "Ranking_Rating": 691,
-  "Ranking_Popularity": 342,
-  "Ranking_PopularitySum": 279,
+  "Rating": 4.35,
+  "Ranking_Rating": 708,
+  "Ranking_Popularity": 346,
+  "Ranking_PopularitySum": 281,
   "NumberOfRatings": 1361,
-  "NumberOfAwards": 543,
+  "NumberOfAwards": 563,
   "NumberOfAwardsMax": 73,
-  "MaxAwardTitle": "Amazing Characters",
+  "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:17:59.5198477+00:00",
-  "LastChanged": "2023-03-29T19:57:22.7729389+00:00",
+  "LastChanged": "2023-04-17T18:57:10.0348358+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:59.519848+00:00",
@@ -1062,6 +1062,108 @@
     {
       "Time": "2023-03-29T19:57:22.772939+00:00",
       "Rating": 4.36
+    },
+    {
+      "Time": "2023-04-01T01:56:45.3216953+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 544,
+      "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2023-04-02T05:56:59.6558507+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 545,
+      "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2023-04-02T14:56:56.0282848+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 546,
+      "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2023-04-05T13:15:11.2401117+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 547,
+      "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2023-04-05T23:56:58.3617294+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 549,
+      "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2023-04-07T02:57:13.6181675+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 550,
+      "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2023-04-09T03:56:56.7447862+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 553,
+      "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2023-04-09T22:57:02.9095443+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 554,
+      "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2023-04-10T10:57:05.0841811+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 555,
+      "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2023-04-10T14:56:57.4685709+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 557,
+      "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2023-04-13T03:57:07.3566647+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 558,
+      "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2023-04-14T04:56:51.0315512+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 559,
+      "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2023-04-14T07:57:04.4177668+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 560,
+      "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2023-04-14T15:57:00.3048839+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 561,
+      "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2023-04-16T22:56:57.09646+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 561,
+      "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2023-04-17T17:57:04.5983444+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 562,
+      "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2023-04-17T18:57:10.0348359+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 563,
+      "NumberOfAwardsMax": 73
     }
   ],
   "Tags": [
@@ -1069,7 +1171,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 65
+      "Count": 68
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1081,7 +1183,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 68
+      "Count": 73
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1093,37 +1195,37 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 61
+      "Count": 65
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 61
+      "Count": 62
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 62
+      "Count": 63
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 64
+      "Count": 65
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 54
+      "Count": 57
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 35
+      "Count": 37
     }
   ]
 }

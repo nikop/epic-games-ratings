@@ -1,22 +1,22 @@
 # For The King
-Rating: 4.70 (Ranked 194)  
+Rating: 4.70 (Ranked 191)  
 Number of Ratings: 5,563  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 354  (Ranked 203)  
-Sum: 2,733 (Ranked 152)  
+Max (Great for Beginners): 357  (Ranked 205)  
+Sum: 2,753 (Ranked 154)  
 Diff (max vs sum): 51
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 354 |
-| This game is Extremely Fun | 332 |
-| This game has Diverse Characters | 314 |
-| This game is Relaxing | 311 |
-| This game has Quickly Understood Controls | 301 |
-| This game is Highly Recommended | 298 |
+| This game is Great for Beginners | 357 |
+| This game is Extremely Fun | 336 |
+| This game has Diverse Characters | 317 |
+| This game is Relaxing | 314 |
+| This game has Quickly Understood Controls | 302 |
+| This game is Highly Recommended | 301 |
 | This game has Amazing Characters | 281 |
-| This game has Amazing Storytelling | 277 |
-| This game has Challenging Combat | 265 |
+| This game has Amazing Storytelling | 279 |
+| This game has Challenging Combat | 266 |
 | This game has Obsessive Gameplay | 211 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -95,3 +95,12 @@ Diff (max vs sum): 51
 | 2022-11-13 | 4.70 | - | - |
 | 2023-03-29 | 4.71 | - | - |
 | 2023-03-30 | 4.70 | - | - |
+| 2023-04-01 | 4.70 | - | 354 |
+| 2023-04-04 | 4.70 | - | 354 |
+| 2023-04-06 | 4.70 | - | 354 |
+| 2023-04-07 | 4.70 | - | 354 |
+| 2023-04-08 | 4.70 | - | 355 |
+| 2023-04-09 | 4.70 | - | 355 |
+| 2023-04-13 | 4.70 | - | 355 |
+| 2023-04-15 | 4.70 | - | 355 |
+| 2023-04-16 | 4.70 | - | 357 |

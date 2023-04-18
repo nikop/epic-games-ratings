@@ -2,15 +2,15 @@
   "ID": "2736ab9fec9c4a93a7a2872ed5154d4b",
   "Name": "Rage 2",
   "Rating": 4.28,
-  "Ranking_Rating": 753,
+  "Ranking_Rating": 760,
   "Ranking_Popularity": 88,
   "Ranking_PopularitySum": 142,
   "NumberOfRatings": 4311,
-  "NumberOfAwards": 3213,
-  "NumberOfAwardsMax": 2407,
+  "NumberOfAwards": 3226,
+  "NumberOfAwardsMax": 2419,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:21:59.0256751+00:00",
-  "LastChanged": "2023-01-07T03:57:12.5147593+00:00",
+  "LastChanged": "2023-04-17T10:57:39.891697+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:59.0256753+00:00",
@@ -1796,6 +1796,54 @@
     {
       "Time": "2023-01-07T03:57:12.5147595+00:00",
       "Rating": 4.28
+    },
+    {
+      "Time": "2023-04-02T20:57:43.3501821+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 3214,
+      "NumberOfAwardsMax": 2408
+    },
+    {
+      "Time": "2023-04-03T23:57:32.5597614+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 3216,
+      "NumberOfAwardsMax": 2410
+    },
+    {
+      "Time": "2023-04-05T20:57:35.4034245+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 3219,
+      "NumberOfAwardsMax": 2413
+    },
+    {
+      "Time": "2023-04-07T09:57:38.9435482+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 3220,
+      "NumberOfAwardsMax": 2413
+    },
+    {
+      "Time": "2023-04-08T13:00:30.1813084+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 3221,
+      "NumberOfAwardsMax": 2414
+    },
+    {
+      "Time": "2023-04-12T21:57:47.34331+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 3222,
+      "NumberOfAwardsMax": 2415
+    },
+    {
+      "Time": "2023-04-15T07:57:37.2849652+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 3224,
+      "NumberOfAwardsMax": 2417
+    },
+    {
+      "Time": "2023-04-17T10:57:39.8916971+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 3226,
+      "NumberOfAwardsMax": 2419
     }
   ],
   "Tags": [
@@ -1803,7 +1851,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2407
+      "Count": 2419
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1839,7 +1887,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 128
+      "Count": 129
     },
     {
       "Text": "This game has Quickly Understood Controls",

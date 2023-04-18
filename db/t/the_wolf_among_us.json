@@ -1,15 +1,15 @@
 {
   "ID": "a8f9fb4a881e47b489715f18f7d08e2f",
   "Name": "The Wolf Among Us",
-  "Rating": 4.81,
-  "Ranking_Rating": 67,
-  "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 478,
+  "Rating": 4.8,
+  "Ranking_Rating": 79,
+  "Ranking_Popularity": 484,
+  "Ranking_PopularitySum": 484,
   "NumberOfRatings": 511,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:20:55.8960394+00:00",
-  "LastChanged": "2023-03-31T05:57:23.0335572+00:00",
+  "LastChanged": "2023-04-05T15:57:32.5219105+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:55.8960396+00:00",
@@ -412,6 +412,12 @@
     {
       "Time": "2023-03-31T05:57:23.0335575+00:00",
       "Rating": 4.81,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-05T15:57:32.5219106+00:00",
+      "Rating": 4.8,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

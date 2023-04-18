@@ -6,11 +6,11 @@
   "Ranking_Popularity": 258,
   "Ranking_PopularitySum": 325,
   "NumberOfRatings": 517,
-  "NumberOfAwards": 269,
+  "NumberOfAwards": 274,
   "NumberOfAwardsMax": 186,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:25:11.0234055+00:00",
-  "LastChanged": "2023-03-31T09:18:51.2039313+00:00",
+  "LastChanged": "2023-04-17T01:57:34.8388195+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:11.0234057+00:00",
@@ -526,6 +526,48 @@
       "Rating": 4.66,
       "NumberOfAwards": 269,
       "NumberOfAwardsMax": 186
+    },
+    {
+      "Time": "2023-04-02T09:57:57.1429592+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 269,
+      "NumberOfAwardsMax": 186
+    },
+    {
+      "Time": "2023-04-03T14:58:11.3848369+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 272,
+      "NumberOfAwardsMax": 186
+    },
+    {
+      "Time": "2023-04-04T14:58:15.8180997+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 272,
+      "NumberOfAwardsMax": 186
+    },
+    {
+      "Time": "2023-04-13T13:05:14.0613861+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 272,
+      "NumberOfAwardsMax": 186
+    },
+    {
+      "Time": "2023-04-14T13:04:10.6789299+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 272,
+      "NumberOfAwardsMax": 186
+    },
+    {
+      "Time": "2023-04-15T09:57:53.4126713+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 273,
+      "NumberOfAwardsMax": 186
+    },
+    {
+      "Time": "2023-04-17T01:57:34.8388196+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 274,
+      "NumberOfAwardsMax": 186
     }
   ],
   "Tags": [
@@ -539,7 +581,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 83
+      "Count": 88
     }
   ]
 }

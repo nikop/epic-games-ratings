@@ -1,14 +1,14 @@
 # Deponia: The Complete Journey
-Rating: 4.61 (Ranked 349)  
+Rating: 4.62 (Ranked 334)  
 Number of Ratings: 777  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Challenging Puzzles): 271  (Ranked 225)  
-Sum: 271 (Ranked 323)  
-Diff (max vs sum): -98
+Max (Challenging Puzzles): 272  (Ranked 226)  
+Sum: 272 (Ranked 326)  
+Diff (max vs sum): -100
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game features Challenging Puzzles | 271 |
+| This game features Challenging Puzzles | 272 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -83,3 +83,5 @@ Diff (max vs sum): -98
 | 2023-01-06 | 4.61 | - | - |
 | 2023-01-08 | 4.62 | - | - |
 | 2023-01-26 | 4.61 | - | - |
+| 2023-04-08 | 4.62 | - | 271 |
+| 2023-04-12 | 4.62 | - | 272 |

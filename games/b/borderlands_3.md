@@ -1,24 +1,24 @@
 # Borderlands 3
-Rating: 4.69 (Ranked 215)  
+Rating: 4.69 (Ranked 213)  
 Number of Ratings: 151,211  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 106,213  (Ranked 8)  
-Sum: 332,201 (Ranked 8)  
-Diff (max vs sum): 0
+Max (Character Customization): 107,461  (Ranked 8)  
+Sum: 336,397 (Ranked 9)  
+Diff (max vs sum): -1
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 106,213 |
-| This game is Great for Beginners | 25,651 |
-| This game has Diverse Characters | 23,855 |
-| This game is Highly Recommended | 23,835 |
-| This game is Extremely Fun | 23,687 |
-| This game has Amazing Storytelling | 23,066 |
-| This game has Quickly Understood Controls | 22,977 |
-| This game is Relaxing | 22,724 |
-| This game has Amazing Characters | 22,283 |
-| This game has Unique Visuals | 21,922 |
-| This game has a Creative Community | 15,988 |
+| This game has Inclusive Character Customization | 107,461 |
+| This game is Great for Beginners | 26,065 |
+| This game has Diverse Characters | 24,210 |
+| This game is Highly Recommended | 24,146 |
+| This game is Extremely Fun | 23,989 |
+| This game has Amazing Storytelling | 23,328 |
+| This game has Quickly Understood Controls | 23,242 |
+| This game is Relaxing | 22,956 |
+| This game has Amazing Characters | 22,574 |
+| This game has Unique Visuals | 22,208 |
+| This game has a Creative Community | 16,218 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -87,3 +87,21 @@ Diff (max vs sum): 0
 | 2022-09-22 | 4.69 | 150,944 | - |
 | 2022-09-23 | 4.69 | 151,211 | - |
 | 2023-03-31 | 4.69 | - | 106,213 |
+| 2023-04-01 | 4.69 | - | 106,284 |
+| 2023-04-02 | 4.69 | - | 106,369 |
+| 2023-04-03 | 4.69 | - | 106,436 |
+| 2023-04-04 | 4.69 | - | 106,479 |
+| 2023-04-05 | 4.69 | - | 106,555 |
+| 2023-04-06 | 4.69 | - | 106,607 |
+| 2023-04-07 | 4.69 | - | 106,685 |
+| 2023-04-08 | 4.69 | - | 106,768 |
+| 2023-04-09 | 4.69 | - | 106,845 |
+| 2023-04-10 | 4.69 | - | 106,928 |
+| 2023-04-11 | 4.69 | - | 106,999 |
+| 2023-04-12 | 4.69 | - | 107,070 |
+| 2023-04-13 | 4.69 | - | 107,144 |
+| 2023-04-14 | 4.69 | - | 107,230 |
+| 2023-04-15 | 4.69 | - | 107,310 |
+| 2023-04-16 | 4.69 | - | 107,386 |
+| 2023-04-17 | 4.69 | - | 107,461 |
+| 2023-04-18 | 4.69 | - | 107,461 |

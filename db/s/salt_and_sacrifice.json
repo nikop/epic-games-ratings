@@ -2,15 +2,15 @@
   "ID": "5e0e5678caaa469baf3a8627c3d1dee4",
   "Name": "Salt and Sacrifice",
   "Rating": 4.31,
-  "Ranking_Rating": 734,
+  "Ranking_Rating": 741,
   "Ranking_Popularity": 139,
-  "Ranking_PopularitySum": 192,
+  "Ranking_PopularitySum": 187,
   "NumberOfRatings": 2205,
-  "NumberOfAwards": 1822,
-  "NumberOfAwardsMax": 916,
+  "NumberOfAwards": 1884,
+  "NumberOfAwardsMax": 920,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
-  "LastChanged": "2022-12-03T13:09:20.602556+00:00",
+  "LastChanged": "2023-04-16T14:57:45.3527744+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:45.0965929+00:00",
@@ -1004,6 +1004,66 @@
     {
       "Time": "2022-12-03T13:09:20.6025562+00:00",
       "Rating": 4.31
+    },
+    {
+      "Time": "2023-04-02T15:57:52.7758016+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 1823,
+      "NumberOfAwardsMax": 916
+    },
+    {
+      "Time": "2023-04-02T21:57:48.0677837+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 1825,
+      "NumberOfAwardsMax": 918
+    },
+    {
+      "Time": "2023-04-03T02:57:47.8400393+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 1826,
+      "NumberOfAwardsMax": 918
+    },
+    {
+      "Time": "2023-04-08T01:48:07.1989475+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 1827,
+      "NumberOfAwardsMax": 918
+    },
+    {
+      "Time": "2023-04-09T11:58:02.4309421+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 1879,
+      "NumberOfAwardsMax": 918
+    },
+    {
+      "Time": "2023-04-11T14:57:45.1765133+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 1880,
+      "NumberOfAwardsMax": 919
+    },
+    {
+      "Time": "2023-04-12T13:05:29.8521757+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 1881,
+      "NumberOfAwardsMax": 919
+    },
+    {
+      "Time": "2023-04-13T14:57:59.6608936+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 1882,
+      "NumberOfAwardsMax": 919
+    },
+    {
+      "Time": "2023-04-15T22:58:05.8757117+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 1883,
+      "NumberOfAwardsMax": 920
+    },
+    {
+      "Time": "2023-04-16T14:57:45.3527744+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 1884,
+      "NumberOfAwardsMax": 920
     }
   ],
   "Tags": [
@@ -1011,13 +1071,13 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 916
+      "Count": 920
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 531
+      "Count": 535
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1029,7 +1089,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 61
+      "Count": 63
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1053,7 +1113,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 51
+      "Count": 52
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1066,6 +1126,12 @@
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
       "Count": 48
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 51
     }
   ]
 }

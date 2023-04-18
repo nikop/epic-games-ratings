@@ -1,18 +1,18 @@
 # Immortals Fenyx Rising Standard Edition
-Rating: 4.61 (Ranked 349)  
+Rating: 4.61 (Ranked 350)  
 Number of Ratings: 791  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 543  (Ranked 171)  
-Sum: 792 (Ranked 242)  
-Diff (max vs sum): -71
+Max (Great Boss Battles): 550  (Ranked 168)  
+Sum: 801 (Ranked 241)  
+Diff (max vs sum): -73
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 543 |
-| This game is Highly Recommended | 44 |
+| This game has Great Boss Battles | 550 |
+| This game is Highly Recommended | 45 |
 | This game is Great for Beginners | 42 |
 | This game has Amazing Storytelling | 38 |
-| This game has Amazing Characters | 36 |
+| This game has Amazing Characters | 37 |
 | This game is Relaxing | 33 |
 | This game is Extremely Fun | 28 |
 | This game has Quickly Understood Controls | 28 |
@@ -92,3 +92,8 @@ Diff (max vs sum): -71
 | 2022-12-07 | 4.61 | - | - |
 | 2022-12-31 | 4.62 | - | - |
 | 2023-03-17 | 4.61 | - | - |
+| 2023-03-31 | 4.61 | - | 545 |
+| 2023-04-06 | 4.61 | - | 546 |
+| 2023-04-08 | 4.61 | - | 547 |
+| 2023-04-10 | 4.61 | - | 548 |
+| 2023-04-14 | 4.61 | - | 550 |

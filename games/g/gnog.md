@@ -1,8 +1,8 @@
 # GNOG
-Rating: 4.68 (Ranked 235)  
+Rating: 4.69 (Ranked 213)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 478)  
-Sum: 0 (Ranked 478)  
+Max (): 0  (Ranked 484)  
+Sum: 0 (Ranked 484)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
@@ -17,3 +17,4 @@ Diff (max vs sum): 0
 | 2023-01-31 | 4.67 | - | - |
 | 2023-03-12 | 4.68 | - | - |
 | 2023-03-31 | 4.68 | - | 0 |
+| 2023-04-15 | 4.69 | - | 0 |

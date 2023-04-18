@@ -1,24 +1,24 @@
 # Far Cry 5 Standard Edition
-Rating: 4.61 (Ranked 349)  
+Rating: 4.62 (Ranked 334)  
 Number of Ratings: 1,848  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 1,111  (Ranked 122)  
-Sum: 1,727 (Ranked 197)  
-Diff (max vs sum): -75
+Max (Great Boss Battles): 1,166  (Ranked 122)  
+Sum: 1,772 (Ranked 195)  
+Diff (max vs sum): -73
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 1,111 |
-| This game is Relaxing | 72 |
-| This game has Amazing Characters | 71 |
-| This game has Quickly Understood Controls | 66 |
-| This game is Extremely Fun | 57 |
-| This game is Great for Beginners | 57 |
-| This game is Highly Recommended | 56 |
-| This game has Amazing Storytelling | 54 |
-| This game has Realistic Visuals | 52 |
-| This game has Competitive Players | 49 |
-| This game has Diverse Characters | 46 |
+| This game has Great Boss Battles | 1,166 |
+| This game is Relaxing | 75 |
+| This game has Amazing Characters | 73 |
+| This game has Quickly Understood Controls | 68 |
+| This game is Highly Recommended | 60 |
+| This game is Extremely Fun | 59 |
+| This game has Amazing Storytelling | 59 |
+| This game is Great for Beginners | 59 |
+| This game has Realistic Visuals | 55 |
+| This game has Competitive Players | 51 |
+| This game has Diverse Characters | 47 |
 | This game has a Creative Community | 36 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -99,3 +99,19 @@ Diff (max vs sum): -75
 | 2023-03-06 | 4.61 | - | - |
 | 2023-03-08 | 4.62 | - | - |
 | 2023-03-29 | 4.61 | - | - |
+| 2023-03-31 | 4.61 | - | 1,115 |
+| 2023-04-01 | 4.61 | - | 1,119 |
+| 2023-04-03 | 4.61 | - | 1,123 |
+| 2023-04-04 | 4.61 | - | 1,125 |
+| 2023-04-05 | 4.61 | - | 1,131 |
+| 2023-04-06 | 4.61 | - | 1,134 |
+| 2023-04-08 | 4.61 | - | 1,140 |
+| 2023-04-09 | 4.62 | - | 1,143 |
+| 2023-04-10 | 4.62 | - | 1,143 |
+| 2023-04-11 | 4.62 | - | 1,148 |
+| 2023-04-12 | 4.62 | - | 1,152 |
+| 2023-04-13 | 4.62 | - | 1,158 |
+| 2023-04-14 | 4.62 | - | 1,158 |
+| 2023-04-15 | 4.62 | - | 1,160 |
+| 2023-04-16 | 4.62 | - | 1,164 |
+| 2023-04-18 | 4.62 | - | 1,166 |

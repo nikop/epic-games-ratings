@@ -1,27 +1,27 @@
 # Assassins Creed Odyssey Standard Edition
-Rating: 4.75 (Ranked 127)  
+Rating: 4.75 (Ranked 126)  
 Number of Ratings: 5,481  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 4,528  (Ranked 63)  
-Sum: 10,951 (Ranked 75)  
-Diff (max vs sum): -12
+Max (Character Customization): 4,695  (Ranked 64)  
+Sum: 11,381 (Ranked 73)  
+Diff (max vs sum): -9
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 4,528 |
-| This game has Great Boss Battles | 2,864 |
-| This game has Amazing Characters | 401 |
-| This game is Great for Beginners | 388 |
-| This game is Highly Recommended | 380 |
-| This game has Diverse Characters | 377 |
-| This game is Educational | 375 |
-| This game is Extremely Fun | 370 |
-| This game is Relaxing | 367 |
-| This game has Quickly Understood Controls | 355 |
-| This game has Amazing Storytelling | 352 |
+| This game has Inclusive Character Customization | 4,695 |
+| This game has Great Boss Battles | 2,993 |
+| This game has Amazing Characters | 414 |
+| This game is Great for Beginners | 400 |
+| This game is Highly Recommended | 399 |
+| This game is Educational | 390 |
+| This game has Diverse Characters | 389 |
+| This game is Relaxing | 384 |
+| This game is Extremely Fun | 377 |
+| This game has Quickly Understood Controls | 373 |
+| This game has Amazing Storytelling | 360 |
 | This game has Obsessive Gameplay | 210 |
+| This game has a Creative Community | 207 |
 | This game has Beautiful Visuals | 202 |
-| This game has a Creative Community | 194 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -96,3 +96,20 @@ Diff (max vs sum): -12
 | 2022-10-01 | 4.74 | - | - |
 | 2023-01-24 | 4.75 | - | - |
 | 2023-03-31 | 4.75 | - | 4,528 |
+| 2023-04-01 | 4.75 | - | 4,533 |
+| 2023-04-02 | 4.75 | - | 4,547 |
+| 2023-04-03 | 4.75 | - | 4,554 |
+| 2023-04-04 | 4.75 | - | 4,564 |
+| 2023-04-05 | 4.75 | - | 4,574 |
+| 2023-04-06 | 4.75 | - | 4,588 |
+| 2023-04-07 | 4.75 | - | 4,600 |
+| 2023-04-08 | 4.75 | - | 4,614 |
+| 2023-04-09 | 4.75 | - | 4,623 |
+| 2023-04-10 | 4.75 | - | 4,629 |
+| 2023-04-11 | 4.75 | - | 4,629 |
+| 2023-04-12 | 4.75 | - | 4,643 |
+| 2023-04-13 | 4.75 | - | 4,650 |
+| 2023-04-14 | 4.75 | - | 4,662 |
+| 2023-04-15 | 4.75 | - | 4,674 |
+| 2023-04-16 | 4.75 | - | 4,684 |
+| 2023-04-17 | 4.75 | - | 4,695 |

@@ -1,16 +1,16 @@
 {
   "ID": "84f45b7676af47d9adecd3b636466f89",
   "Name": "The Settlers\u00AE: New Allies",
-  "Rating": 3.72,
-  "Ranking_Rating": 891,
-  "Ranking_Popularity": 414,
-  "Ranking_PopularitySum": 388,
-  "NumberOfAwards": 103,
-  "NumberOfAwardsMax": 35,
+  "Rating": 3.73,
+  "Ranking_Rating": 899,
+  "Ranking_Popularity": 401,
+  "Ranking_PopularitySum": 401,
+  "NumberOfAwards": 83,
+  "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2023-02-17T13:12:44.8398615+00:00",
   "FirstSeenRating": "2023-02-19T13:09:54.8324207+00:00",
-  "LastChanged": "2023-03-31T10:57:25.9339542+00:00",
+  "LastChanged": "2023-04-17T17:57:25.7324488+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-19T13:09:54.8324224+00:00",
@@ -293,6 +293,120 @@
       "Rating": 3.72,
       "NumberOfAwards": 103,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-04-02T18:57:33.6842355+00:00",
+      "Rating": 3.72,
+      "NumberOfAwards": 104,
+      "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-04-05T05:57:28.2082562+00:00",
+      "Rating": 3.72,
+      "NumberOfAwards": 106,
+      "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-04-05T09:57:22.9112088+00:00",
+      "Rating": 3.72,
+      "NumberOfAwards": 108,
+      "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-04-05T15:57:38.7742295+00:00",
+      "Rating": 3.71,
+      "NumberOfAwards": 108,
+      "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-04-05T23:57:21.8429049+00:00",
+      "Rating": 3.72,
+      "NumberOfAwards": 108,
+      "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-04-06T01:55:43.3577909+00:00",
+      "Rating": 3.72,
+      "NumberOfAwards": 109,
+      "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-04-07T17:57:26.7206339+00:00",
+      "Rating": 3.72,
+      "NumberOfAwards": 110,
+      "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-04-08T17:57:22.2075533+00:00",
+      "Rating": 3.71,
+      "NumberOfAwards": 110,
+      "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-04-09T18:57:41.881378+00:00",
+      "Rating": 3.71,
+      "NumberOfAwards": 111,
+      "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2023-04-10T02:57:37.8613226+00:00",
+      "Rating": 3.71,
+      "NumberOfAwards": 113,
+      "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2023-04-11T13:06:26.0381102+00:00",
+      "Rating": 3.71,
+      "NumberOfAwards": 76,
+      "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2023-04-12T07:57:52.1918774+00:00",
+      "Rating": 3.7,
+      "NumberOfAwards": 76,
+      "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2023-04-12T17:57:32.4816857+00:00",
+      "Rating": 3.71,
+      "NumberOfAwards": 76,
+      "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2023-04-13T18:57:10.6969262+00:00",
+      "Rating": 3.72,
+      "NumberOfAwards": 76,
+      "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2023-04-14T23:57:50.0941529+00:00",
+      "Rating": 3.72,
+      "NumberOfAwards": 78,
+      "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2023-04-15T08:57:34.2232088+00:00",
+      "Rating": 3.72,
+      "NumberOfAwards": 79,
+      "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2023-04-16T10:57:42.2639672+00:00",
+      "Rating": 3.72,
+      "NumberOfAwards": 80,
+      "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2023-04-17T15:57:34.3629418+00:00",
+      "Rating": 3.72,
+      "NumberOfAwards": 82,
+      "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2023-04-17T17:57:25.7324489+00:00",
+      "Rating": 3.73,
+      "NumberOfAwards": 83,
+      "NumberOfAwardsMax": 43
     }
   ],
   "Tags": [
@@ -300,19 +414,19 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 34
+      "Count": 40
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 34
+      "Count": 37
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 35
+      "Count": 43
     }
   ]
 }

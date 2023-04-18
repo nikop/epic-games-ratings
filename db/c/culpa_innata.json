@@ -1,6 +1,18 @@
 {
   "ID": "3e95e64ea16c4dd5b46cc7b097af5f6a",
   "Name": "Culpa Innata",
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-11T22:58:57.8640255+00:00",
+  "FirstSeenRating": "2023-04-11T22:58:57.8640323+00:00",
+  "LastChanged": "2023-04-11T22:58:57.8640324+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-11T22:58:57.8640328+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

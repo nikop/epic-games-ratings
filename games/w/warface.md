@@ -1,23 +1,23 @@
 # Warface
-Rating: 3.92 (Ranked 875)  
+Rating: 3.92 (Ranked 881)  
 Number of Ratings: 3,179  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Relaxing): 374  (Ranked 198)  
-Sum: 2,954 (Ranked 149)  
-Diff (max vs sum): 49
+Max (Relaxing): 378  (Ranked 200)  
+Sum: 2,990 (Ranked 149)  
+Diff (max vs sum): 51
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Relaxing | 374 |
-| This game has Diverse Characters | 362 |
-| This game has Competitive Players | 355 |
-| This game is Highly Recommended | 332 |
-| This game has Amazing Storytelling | 328 |
-| This game has Quickly Understood Controls | 328 |
-| This game has Amazing Characters | 312 |
-| This game is Extremely Fun | 309 |
+| This game is Relaxing | 378 |
+| This game has Diverse Characters | 364 |
+| This game has Competitive Players | 358 |
+| This game is Highly Recommended | 336 |
+| This game has Quickly Understood Controls | 334 |
+| This game has Amazing Storytelling | 330 |
+| This game has Amazing Characters | 317 |
+| This game is Extremely Fun | 313 |
 | This game is Great for Quick Sessions | 277 |
-| This game has a Competitive Community | 254 |
+| This game has a Competitive Community | 260 |
 | This game is Great for Beginners | 146 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -107,3 +107,17 @@ Diff (max vs sum): 49
 | 2023-01-14 | 3.92 | - | - |
 | 2023-01-17 | 3.91 | - | - |
 | 2023-01-19 | 3.92 | - | - |
+| 2023-03-31 | 3.92 | - | 374 |
+| 2023-04-01 | 3.92 | - | 374 |
+| 2023-04-03 | 3.92 | - | 374 |
+| 2023-04-04 | 3.92 | - | 375 |
+| 2023-04-05 | 3.92 | - | 376 |
+| 2023-04-06 | 3.92 | - | 376 |
+| 2023-04-07 | 3.92 | - | 376 |
+| 2023-04-08 | 3.92 | - | 376 |
+| 2023-04-10 | 3.92 | - | 377 |
+| 2023-04-11 | 3.92 | - | 377 |
+| 2023-04-12 | 3.92 | - | 377 |
+| 2023-04-14 | 3.92 | - | 377 |
+| 2023-04-16 | 3.92 | - | 378 |
+| 2023-04-17 | 3.92 | - | 378 |

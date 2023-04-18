@@ -2,15 +2,15 @@
   "ID": "foxglove",
   "Name": "Subnautica Below Zero",
   "Rating": 4.78,
-  "Ranking_Rating": 99,
-  "Ranking_Popularity": 281,
+  "Ranking_Rating": 100,
+  "Ranking_Popularity": 282,
   "Ranking_PopularitySum": 222,
   "NumberOfRatings": 1844,
-  "NumberOfAwards": 1064,
+  "NumberOfAwards": 1069,
   "NumberOfAwardsMax": 141,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:18:53.9147295+00:00",
-  "LastChanged": "2022-09-23T10:30:41.5817976+00:00",
+  "LastChanged": "2023-04-11T19:57:17.8086843+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:53.9147297+00:00",
@@ -1136,6 +1136,36 @@
       "Time": "2022-09-23T10:30:41.5817978+00:00",
       "Rating": 4.78,
       "NumberOfRatings": 1844
+    },
+    {
+      "Time": "2023-04-02T09:57:23.6130629+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 1065,
+      "NumberOfAwardsMax": 141
+    },
+    {
+      "Time": "2023-04-09T19:57:03.3447148+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 1066,
+      "NumberOfAwardsMax": 141
+    },
+    {
+      "Time": "2023-04-10T18:57:14.9881894+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 1067,
+      "NumberOfAwardsMax": 141
+    },
+    {
+      "Time": "2023-04-11T09:57:25.1846953+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 1068,
+      "NumberOfAwardsMax": 141
+    },
+    {
+      "Time": "2023-04-11T19:57:17.8086844+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 1069,
+      "NumberOfAwardsMax": 141
     }
   ],
   "Tags": [
@@ -1143,7 +1173,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 121
+      "Count": 123
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1161,7 +1191,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 118
+      "Count": 119
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1185,7 +1215,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 113
+      "Count": 114
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1197,7 +1227,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 89
+      "Count": 90
     }
   ]
 }

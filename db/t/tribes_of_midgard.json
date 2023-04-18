@@ -2,15 +2,15 @@
   "ID": "6774af9524fe4f63b2a6717d04269cd6",
   "Name": "Tribes of Midgard",
   "Rating": 4.56,
-  "Ranking_Rating": 436,
-  "Ranking_Popularity": 339,
-  "Ranking_PopularitySum": 399,
+  "Ranking_Rating": 439,
+  "Ranking_Popularity": 343,
+  "Ranking_PopularitySum": 403,
   "NumberOfRatings": 120,
   "NumberOfAwards": 75,
   "NumberOfAwardsMax": 75,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:21:40.7309672+00:00",
-  "LastChanged": "2023-03-18T16:57:34.0492815+00:00",
+  "LastChanged": "2023-04-09T17:57:25.9119603+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:40.7309675+00:00",
@@ -341,6 +341,18 @@
     {
       "Time": "2023-03-18T16:57:34.0492816+00:00",
       "Rating": 4.56
+    },
+    {
+      "Time": "2023-04-03T17:57:39.6827217+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 75,
+      "NumberOfAwardsMax": 75
+    },
+    {
+      "Time": "2023-04-09T17:57:25.9119604+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 75,
+      "NumberOfAwardsMax": 75
     }
   ],
   "Tags": [

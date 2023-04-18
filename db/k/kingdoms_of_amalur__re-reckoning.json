@@ -1,16 +1,16 @@
 {
   "ID": "0f86606a1622460898a7874d488f288a",
   "Name": "Kingdoms of Amalur: Re-Reckoning",
-  "Rating": 4.55,
-  "Ranking_Rating": 456,
-  "Ranking_Popularity": 350,
-  "Ranking_PopularitySum": 383,
+  "Rating": 4.56,
+  "Ranking_Rating": 439,
+  "Ranking_Popularity": 355,
+  "Ranking_PopularitySum": 386,
   "NumberOfRatings": 137,
   "NumberOfAwards": 113,
   "NumberOfAwardsMax": 69,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:23:19.3365419+00:00",
-  "LastChanged": "2023-02-22T02:13:19.9378005+00:00",
+  "LastChanged": "2023-04-03T04:57:47.310221+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:19.3365421+00:00",
@@ -332,6 +332,12 @@
     {
       "Time": "2023-02-22T02:13:19.9378006+00:00",
       "Rating": 4.55
+    },
+    {
+      "Time": "2023-04-03T04:57:47.3102213+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 113,
+      "NumberOfAwardsMax": 69
     }
   ],
   "Tags": [

@@ -2,15 +2,15 @@
   "ID": "b534830f4c524447bfd2266ce70cf8ab",
   "Name": "The Walking Dead : The Definitive Series",
   "Rating": 4.86,
-  "Ranking_Rating": 32,
-  "Ranking_Popularity": 184,
-  "Ranking_PopularitySum": 269,
+  "Ranking_Rating": 29,
+  "Ranking_Popularity": 185,
+  "Ranking_PopularitySum": 273,
   "NumberOfRatings": 663,
-  "NumberOfAwards": 606,
-  "NumberOfAwardsMax": 445,
+  "NumberOfAwards": 613,
+  "NumberOfAwardsMax": 451,
   "MaxAwardTitle": "Impact the Story",
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2023-03-31T10:40:12.7046537+00:00",
+  "LastChanged": "2023-04-16T19:57:22.5920135+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:07.8066793+00:00",
@@ -641,6 +641,42 @@
       "Rating": 4.86,
       "NumberOfAwards": 606,
       "NumberOfAwardsMax": 445
+    },
+    {
+      "Time": "2023-04-06T15:57:27.7055201+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 607,
+      "NumberOfAwardsMax": 446
+    },
+    {
+      "Time": "2023-04-09T07:57:42.398993+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 609,
+      "NumberOfAwardsMax": 448
+    },
+    {
+      "Time": "2023-04-10T22:57:27.325581+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 610,
+      "NumberOfAwardsMax": 448
+    },
+    {
+      "Time": "2023-04-12T13:57:20.5243814+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 611,
+      "NumberOfAwardsMax": 449
+    },
+    {
+      "Time": "2023-04-15T19:57:29.2009759+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 612,
+      "NumberOfAwardsMax": 450
+    },
+    {
+      "Time": "2023-04-16T19:57:22.5920168+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 613,
+      "NumberOfAwardsMax": 451
     }
   ],
   "Tags": [
@@ -648,7 +684,7 @@
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 445
+      "Count": 451
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -672,7 +708,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game is Great for Beginners",

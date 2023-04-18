@@ -1,15 +1,15 @@
 # Rage 2
-Rating: 4.28 (Ranked 753)  
+Rating: 4.28 (Ranked 760)  
 Number of Ratings: 4,311  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 2,407  (Ranked 88)  
-Sum: 3,213 (Ranked 142)  
+Max (Great Boss Battles): 2,419  (Ranked 88)  
+Sum: 3,226 (Ranked 142)  
 Diff (max vs sum): -54
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 2,407 |
-| This game is Great for Beginners | 128 |
+| This game has Great Boss Battles | 2,419 |
+| This game is Great for Beginners | 129 |
 | This game has Amazing Storytelling | 125 |
 | This game has Amazing Characters | 118 |
 | This game is Extremely Fun | 114 |
@@ -106,3 +106,11 @@ Diff (max vs sum): -54
 | 2022-12-26 | 4.28 | - | - |
 | 2022-12-29 | 4.29 | - | - |
 | 2023-01-07 | 4.28 | - | - |
+| 2023-04-02 | 4.28 | - | 2,408 |
+| 2023-04-03 | 4.28 | - | 2,410 |
+| 2023-04-05 | 4.28 | - | 2,413 |
+| 2023-04-07 | 4.28 | - | 2,413 |
+| 2023-04-08 | 4.28 | - | 2,414 |
+| 2023-04-12 | 4.28 | - | 2,415 |
+| 2023-04-15 | 4.28 | - | 2,417 |
+| 2023-04-17 | 4.28 | - | 2,419 |

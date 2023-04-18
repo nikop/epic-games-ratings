@@ -1,21 +1,21 @@
 # Tom Clancy's Ghost Recon Wildlands Standard Edition
-Rating: 4.58 (Ranked 400)  
+Rating: 4.58 (Ranked 406)  
 Number of Ratings: 871  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 154  (Ranked 276)  
-Sum: 1,121 (Ranked 220)  
-Diff (max vs sum): 56
+Max (Great for Beginners): 167  (Ranked 272)  
+Sum: 1,196 (Ranked 217)  
+Diff (max vs sum): 55
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 154 |
-| This game is Relaxing | 150 |
-| This game has Quickly Understood Controls | 146 |
-| This game has Amazing Characters | 141 |
-| This game is Highly Recommended | 141 |
-| This game has Amazing Storytelling | 133 |
-| This game is Extremely Fun | 133 |
-| This game has Diverse Characters | 123 |
+| This game is Great for Beginners | 167 |
+| This game is Relaxing | 161 |
+| This game has Quickly Understood Controls | 158 |
+| This game has Amazing Storytelling | 151 |
+| This game has Amazing Characters | 148 |
+| This game is Highly Recommended | 145 |
+| This game is Extremely Fun | 138 |
+| This game has Diverse Characters | 128 |
 | This game has Obsessive Gameplay | 65 |
 | This game has Challenging Combat | 51 |
 ## Ratings History
@@ -105,3 +105,21 @@ Diff (max vs sum): 56
 | 2023-03-10 | 4.58 | - | - |
 | 2023-03-11 | 4.57 | - | - |
 | 2023-03-12 | 4.58 | - | - |
+| 2023-04-01 | 4.58 | - | 154 |
+| 2023-04-02 | 4.58 | - | 155 |
+| 2023-04-03 | 4.58 | - | 155 |
+| 2023-04-04 | 4.58 | - | 158 |
+| 2023-04-05 | 4.58 | - | 158 |
+| 2023-04-06 | 4.58 | - | 159 |
+| 2023-04-07 | 4.58 | - | 159 |
+| 2023-04-08 | 4.58 | - | 160 |
+| 2023-04-09 | 4.58 | - | 160 |
+| 2023-04-10 | 4.58 | - | 161 |
+| 2023-04-11 | 4.58 | - | 163 |
+| 2023-04-12 | 4.58 | - | 163 |
+| 2023-04-13 | 4.58 | - | 165 |
+| 2023-04-14 | 4.58 | - | 165 |
+| 2023-04-15 | 4.58 | - | 167 |
+| 2023-04-16 | 4.58 | - | 167 |
+| 2023-04-17 | 4.58 | - | 167 |
+| 2023-04-18 | 4.58 | - | 167 |

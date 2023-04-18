@@ -1,20 +1,20 @@
 # Nuclear Throne
-Rating: 4.79 (Ranked 93)  
+Rating: 4.79 (Ranked 91)  
 Number of Ratings: 631  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 359  (Ranked 202)  
-Sum: 1,162 (Ranked 217)  
-Diff (max vs sum): -15
+Max (Character Customization): 363  (Ranked 204)  
+Sum: 1,171 (Ranked 218)  
+Diff (max vs sum): -14
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 359 |
-| This game has Great Boss Battles | 285 |
+| This game has Inclusive Character Customization | 363 |
+| This game has Great Boss Battles | 289 |
 | This game has Amazing Characters | 64 |
 | This game has Unique Visuals | 63 |
 | This game has Challenging Combat | 63 |
 | This game is Great for Quick Sessions | 59 |
-| This game is Extremely Fun | 57 |
+| This game is Extremely Fun | 58 |
 | This game has Quickly Understood Controls | 56 |
 | This game is Highly Recommended | 55 |
 | This game has Diverse Characters | 54 |
@@ -105,3 +105,11 @@ Diff (max vs sum): -15
 | 2023-01-15 | 4.79 | - | - |
 | 2023-01-18 | 4.80 | - | - |
 | 2023-02-21 | 4.79 | - | - |
+| 2023-03-31 | 4.79 | - | 360 |
+| 2023-04-04 | 4.79 | - | 360 |
+| 2023-04-05 | 4.79 | - | 362 |
+| 2023-04-07 | 4.79 | - | 362 |
+| 2023-04-10 | 4.79 | - | 362 |
+| 2023-04-11 | 4.79 | - | 362 |
+| 2023-04-14 | 4.79 | - | 363 |
+| 2023-04-16 | 4.79 | - | 363 |

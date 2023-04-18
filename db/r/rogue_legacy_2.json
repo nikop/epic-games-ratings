@@ -2,15 +2,15 @@
   "ID": "4966d5da285c4f2c876937844b0e23ee",
   "Name": "Rogue Legacy 2",
   "Rating": 4.85,
-  "Ranking_Rating": 38,
+  "Ranking_Rating": 37,
   "Ranking_Popularity": 244,
   "Ranking_PopularitySum": 201,
   "NumberOfRatings": 1331,
-  "NumberOfAwards": 1615,
-  "NumberOfAwardsMax": 214,
+  "NumberOfAwards": 1619,
+  "NumberOfAwardsMax": 215,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
-  "LastChanged": "2022-10-15T01:02:45.9173379+00:00",
+  "LastChanged": "2023-04-17T02:59:07.9793442+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:06.6124895+00:00",
@@ -940,6 +940,24 @@
     {
       "Time": "2022-10-15T01:02:45.9173381+00:00",
       "Rating": 4.85
+    },
+    {
+      "Time": "2023-04-11T09:58:37.2220199+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 1616,
+      "NumberOfAwardsMax": 214
+    },
+    {
+      "Time": "2023-04-12T16:58:15.466333+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 1617,
+      "NumberOfAwardsMax": 214
+    },
+    {
+      "Time": "2023-04-17T02:59:07.9793445+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 1619,
+      "NumberOfAwardsMax": 215
     }
   ],
   "Tags": [
@@ -947,7 +965,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 214
+      "Count": 215
     },
     {
       "Text": "This game is Relaxing",
@@ -965,7 +983,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 189
+      "Count": 190
     },
     {
       "Text": "This game has Challenging Combat",
@@ -989,13 +1007,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 159
+      "Count": 160
     },
     {
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 145
+      "Count": 146
     },
     {
       "Text": "This game has Obsessive Gameplay",

@@ -2,15 +2,15 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "Rating": 4.58,
-  "Ranking_Rating": 400,
-  "Ranking_Popularity": 253,
-  "Ranking_PopularitySum": 292,
+  "Ranking_Rating": 406,
+  "Ranking_Popularity": 252,
+  "Ranking_PopularitySum": 293,
   "NumberOfRatings": 371,
-  "NumberOfAwards": 402,
-  "NumberOfAwardsMax": 199,
+  "NumberOfAwards": 408,
+  "NumberOfAwardsMax": 201,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
-  "LastChanged": "2023-03-06T20:57:47.609999+00:00",
+  "LastChanged": "2023-04-16T14:57:57.3683458+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:10.4681648+00:00",
@@ -350,6 +350,42 @@
     {
       "Time": "2023-03-06T20:57:47.6099991+00:00",
       "Rating": 4.58
+    },
+    {
+      "Time": "2023-04-01T13:01:39.9657959+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 403,
+      "NumberOfAwardsMax": 199
+    },
+    {
+      "Time": "2023-04-06T11:57:46.56179+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 404,
+      "NumberOfAwardsMax": 199
+    },
+    {
+      "Time": "2023-04-06T18:58:04.3844251+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 405,
+      "NumberOfAwardsMax": 200
+    },
+    {
+      "Time": "2023-04-12T13:05:37.7421699+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 406,
+      "NumberOfAwardsMax": 201
+    },
+    {
+      "Time": "2023-04-15T23:58:20.9634947+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 407,
+      "NumberOfAwardsMax": 201
+    },
+    {
+      "Time": "2023-04-16T14:57:57.3683459+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 408,
+      "NumberOfAwardsMax": 201
     }
   ],
   "Tags": [
@@ -357,7 +393,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 199
+      "Count": 201
     },
     {
       "Text": "This game is Extremely Fun",
@@ -375,7 +411,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 25
+      "Count": 27
     },
     {
       "Text": "This game has Diverse Characters",
@@ -387,7 +423,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game is Highly Recommended",
@@ -399,7 +435,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game has Challenging Combat",

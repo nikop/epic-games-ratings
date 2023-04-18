@@ -1,16 +1,16 @@
 {
   "ID": "9cf250606722448887fa1447b1d9da06",
   "Name": "WRC 9 FIA World Rally Championship",
-  "Rating": 4.53,
-  "Ranking_Rating": 481,
-  "Ranking_Popularity": 441,
-  "Ranking_PopularitySum": 344,
+  "Rating": 4.54,
+  "Ranking_Rating": 474,
+  "Ranking_Popularity": 445,
+  "Ranking_PopularitySum": 343,
   "NumberOfRatings": 233,
-  "NumberOfAwards": 207,
+  "NumberOfAwards": 211,
   "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Competitive Players",
   "FirstSeen": "2022-07-22T20:19:01.098445+00:00",
-  "LastChanged": "2023-01-23T18:56:57.7007182+00:00",
+  "LastChanged": "2023-04-14T13:57:22.7628644+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:01.0984452+00:00",
@@ -439,6 +439,42 @@
     {
       "Time": "2023-01-23T18:56:57.7007183+00:00",
       "Rating": 4.53
+    },
+    {
+      "Time": "2023-04-03T13:57:17.2818175+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 208,
+      "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2023-04-04T13:57:16.3029264+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 208,
+      "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2023-04-06T13:57:09.1786563+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 208,
+      "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2023-04-07T18:57:08.5175104+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 209,
+      "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2023-04-09T13:57:34.4564046+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 210,
+      "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2023-04-14T13:57:22.7628645+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 211,
+      "NumberOfAwardsMax": 28
     }
   ],
   "Tags": [
@@ -458,7 +494,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game is Relaxing",
@@ -476,7 +512,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -488,13 +524,13 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game has Realistic Visuals",

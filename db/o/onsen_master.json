@@ -1,8 +1,18 @@
 {
   "ID": "7c28c10036b04d78b04f614e21e116e3",
   "Name": "Onsen Master",
-  "Names": [],
-  "DailyRatings": 0,
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-10T06:58:06.7866724+00:00",
+  "FirstSeenRating": "2023-04-10T06:58:06.786675+00:00",
+  "LastChanged": "2023-04-10T06:58:06.786675+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-10T06:58:06.7866751+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

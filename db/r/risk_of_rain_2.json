@@ -2,15 +2,15 @@
   "ID": "0dfcaeede0214b80b597f08fd7d64b1b",
   "Name": "Risk of Rain 2",
   "Rating": 4.85,
-  "Ranking_Rating": 38,
+  "Ranking_Rating": 37,
   "Ranking_Popularity": 242,
-  "Ranking_PopularitySum": 172,
+  "Ranking_PopularitySum": 173,
   "NumberOfRatings": 1310,
-  "NumberOfAwards": 2160,
+  "NumberOfAwards": 2186,
   "NumberOfAwardsMax": 223,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:26:31.4387684+00:00",
-  "LastChanged": "2022-11-26T22:57:40.5585021+00:00",
+  "LastChanged": "2023-04-17T16:57:40.9254894+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:31.4387687+00:00",
@@ -1030,6 +1030,126 @@
     {
       "Time": "2022-11-26T22:57:40.5585023+00:00",
       "Rating": 4.85
+    },
+    {
+      "Time": "2023-03-31T21:58:09.1259771+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2161,
+      "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-04-01T01:57:56.7437809+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2162,
+      "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-04-01T02:58:09.6902515+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2163,
+      "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-04-01T13:01:52.1856022+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2165,
+      "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-04-02T07:57:54.1512609+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2166,
+      "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-04-05T11:57:45.5880866+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2167,
+      "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-04-08T07:58:26.105484+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2168,
+      "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-04-09T08:57:35.1811327+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2169,
+      "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-04-09T16:58:23.0622567+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2170,
+      "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-04-10T21:57:53.9490202+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2171,
+      "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-04-10T22:57:50.7045138+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2172,
+      "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-04-12T15:58:00.7116802+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2173,
+      "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-04-12T16:57:45.8006095+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2174,
+      "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-04-13T02:58:15.7355402+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2176,
+      "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-04-13T19:58:25.1663684+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2177,
+      "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-04-14T05:58:21.1838665+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2179,
+      "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-04-14T07:58:11.3651804+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2180,
+      "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-04-14T18:57:43.8050117+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2184,
+      "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-04-15T21:58:21.8245015+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2185,
+      "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-04-17T16:57:40.9254896+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2186,
+      "NumberOfAwardsMax": 223
     }
   ],
   "Tags": [
@@ -1037,7 +1157,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 207
+      "Count": 211
     },
     {
       "Text": "This game is Relaxing",
@@ -1049,19 +1169,19 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 205
+      "Count": 207
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 211
+      "Count": 212
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 198
+      "Count": 200
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1073,19 +1193,19 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 206
+      "Count": 211
     },
     {
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 173
+      "Count": 179
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 194
+      "Count": 197
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1097,13 +1217,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 220
+      "Count": 221
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 143
+      "Count": 145
     }
   ]
 }

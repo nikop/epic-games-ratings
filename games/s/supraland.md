@@ -1,23 +1,23 @@
 # Supraland
-Rating: 4.61 (Ranked 349)  
+Rating: 4.61 (Ranked 350)  
 Number of Ratings: 25,175  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Challenging Puzzles): 7,591  (Ranked 37)  
-Sum: 9,855 (Ranked 77)  
-Diff (max vs sum): -40
+Max (Challenging Puzzles): 7,597  (Ranked 39)  
+Sum: 9,872 (Ranked 78)  
+Diff (max vs sum): -39
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game features Challenging Puzzles | 7,591 |
+| This game features Challenging Puzzles | 7,597 |
 | This game is Educational | 277 |
-| This game is Relaxing | 272 |
-| This game has Amazing Characters | 268 |
-| This game has Amazing Storytelling | 263 |
-| This game has Quickly Understood Controls | 260 |
+| This game is Relaxing | 273 |
+| This game has Amazing Characters | 271 |
+| This game has Amazing Storytelling | 265 |
+| This game has Quickly Understood Controls | 261 |
 | This game is Great for Beginners | 259 |
-| This game is Extremely Fun | 250 |
+| This game is Extremely Fun | 252 |
 | This game has Obsessive Gameplay | 243 |
-| This game is Highly Recommended | 229 |
+| This game is Highly Recommended | 231 |
 | This game has a Creative Community | 186 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -86,3 +86,14 @@ Diff (max vs sum): -40
 | 2022-09-21 | 4.61 | 25,123 | - |
 | 2022-09-22 | 4.61 | 25,151 | - |
 | 2022-09-23 | 4.61 | 25,175 | - |
+| 2023-03-31 | 4.61 | - | 7,591 |
+| 2023-04-01 | 4.61 | - | 7,592 |
+| 2023-04-02 | 4.61 | - | 7,594 |
+| 2023-04-04 | 4.61 | - | 7,595 |
+| 2023-04-06 | 4.61 | - | 7,595 |
+| 2023-04-07 | 4.61 | - | 7,595 |
+| 2023-04-08 | 4.61 | - | 7,596 |
+| 2023-04-11 | 4.61 | - | 7,596 |
+| 2023-04-14 | 4.61 | - | 7,596 |
+| 2023-04-15 | 4.61 | - | 7,596 |
+| 2023-04-17 | 4.61 | - | 7,597 |

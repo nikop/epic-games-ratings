@@ -1,20 +1,20 @@
 # HITMAN
-Rating: 4.64 (Ranked 306)  
+Rating: 4.64 (Ranked 312)  
 Number of Ratings: 6,362  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 195  (Ranked 255)  
-Sum: 1,494 (Ranked 206)  
+Sum: 1,504 (Ranked 206)  
 Diff (max vs sum): 49
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Great for Beginners | 195 |
-| This game has Amazing Storytelling | 178 |
-| This game has Quickly Understood Controls | 178 |
-| This game is Extremely Fun | 176 |
-| This game has Diverse Characters | 169 |
-| This game is Relaxing | 165 |
-| This game is Highly Recommended | 163 |
+| This game has Amazing Storytelling | 181 |
+| This game has Quickly Understood Controls | 179 |
+| This game is Extremely Fun | 178 |
+| This game has Diverse Characters | 170 |
+| This game is Relaxing | 167 |
+| This game is Highly Recommended | 164 |
 | This game has Amazing Characters | 151 |
 | This game has a Creative Community | 119 |
 | This game has Obsessive Gameplay | 104 |
@@ -87,3 +87,11 @@ Diff (max vs sum): 49
 | 2022-09-23 | 4.64 | 6,362 | - |
 | 2022-09-26 | 4.63 | - | - |
 | 2022-09-27 | 4.64 | - | - |
+| 2023-04-01 | 4.64 | - | 195 |
+| 2023-04-02 | 4.64 | - | 195 |
+| 2023-04-03 | 4.64 | - | 195 |
+| 2023-04-04 | 4.64 | - | 195 |
+| 2023-04-07 | 4.64 | - | 195 |
+| 2023-04-08 | 4.64 | - | 195 |
+| 2023-04-10 | 4.64 | - | 195 |
+| 2023-04-16 | 4.64 | - | 195 |

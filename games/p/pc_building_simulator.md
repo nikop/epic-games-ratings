@@ -2,22 +2,22 @@
 Rating: 4.66 (Ranked 272)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 1,020  (Ranked 127)  
-Sum: 7,663 (Ranked 90)  
-Diff (max vs sum): 37
+Max (Great for Beginners): 1,029  (Ranked 129)  
+Sum: 7,700 (Ranked 90)  
+Diff (max vs sum): 39
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 1,020 |
-| This game is Relaxing | 952 |
-| This game is Educational | 951 |
-| This game is Extremely Fun | 949 |
-| This game has Quickly Understood Controls | 915 |
-| This game is Highly Recommended | 853 |
-| This game has Amazing Storytelling | 782 |
+| This game is Great for Beginners | 1,029 |
+| This game is Relaxing | 957 |
+| This game is Educational | 953 |
+| This game is Extremely Fun | 952 |
+| This game has Quickly Understood Controls | 919 |
+| This game is Highly Recommended | 860 |
+| This game has Amazing Storytelling | 783 |
 | This game has Obsessive Gameplay | 664 |
-| This game has Amazing Characters | 629 |
-| This game has a Creative Community | 612 |
+| This game has Amazing Characters | 631 |
+| This game has a Creative Community | 616 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -87,3 +87,18 @@ Diff (max vs sum): 37
 | 2022-09-23 | 4.67 | 12,155 | - |
 | 2022-10-23 | 4.66 | - | - |
 | 2023-03-31 | 4.66 | - | 1,020 |
+| 2023-04-02 | 4.66 | - | 1,021 |
+| 2023-04-03 | 4.66 | - | 1,021 |
+| 2023-04-04 | 4.66 | - | 1,021 |
+| 2023-04-05 | 4.66 | - | 1,021 |
+| 2023-04-06 | 4.66 | - | 1,022 |
+| 2023-04-07 | 4.66 | - | 1,022 |
+| 2023-04-08 | 4.66 | - | 1,023 |
+| 2023-04-10 | 4.66 | - | 1,024 |
+| 2023-04-11 | 4.66 | - | 1,024 |
+| 2023-04-12 | 4.66 | - | 1,025 |
+| 2023-04-13 | 4.66 | - | 1,027 |
+| 2023-04-14 | 4.66 | - | 1,027 |
+| 2023-04-15 | 4.66 | - | 1,027 |
+| 2023-04-16 | 4.66 | - | 1,028 |
+| 2023-04-18 | 4.66 | - | 1,029 |

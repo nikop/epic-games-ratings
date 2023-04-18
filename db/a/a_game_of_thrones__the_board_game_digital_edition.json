@@ -2,15 +2,15 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "Rating": 4.2,
-  "Ranking_Rating": 792,
-  "Ranking_Popularity": 292,
+  "Ranking_Rating": 797,
+  "Ranking_Popularity": 294,
   "Ranking_PopularitySum": 244,
   "NumberOfRatings": 2500,
-  "NumberOfAwards": 776,
-  "NumberOfAwardsMax": 121,
+  "NumberOfAwards": 778,
+  "NumberOfAwardsMax": 122,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
-  "LastChanged": "2023-03-22T14:58:02.0272455+00:00",
+  "LastChanged": "2023-04-15T17:57:52.8898023+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:31.9241682+00:00",
@@ -1150,6 +1150,18 @@
     {
       "Time": "2023-03-22T14:58:02.0272457+00:00",
       "Rating": 4.2
+    },
+    {
+      "Time": "2023-03-31T20:58:14.2487037+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 777,
+      "NumberOfAwardsMax": 121
+    },
+    {
+      "Time": "2023-04-15T17:57:52.8898025+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 778,
+      "NumberOfAwardsMax": 122
     }
   ],
   "Tags": [
@@ -1163,7 +1175,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 107
+      "Count": 108
     },
     {
       "Text": "This game has Competitive Players",
@@ -1187,7 +1199,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 121
+      "Count": 122
     },
     {
       "Text": "This game has a Competitive Community",

@@ -2,15 +2,15 @@
   "ID": "5a82d5954a1943d79dc6b49cde2fe972",
   "Name": "Predator: Hunting Grounds Standard Edition",
   "Rating": 4.45,
-  "Ranking_Rating": 592,
-  "Ranking_Popularity": 142,
-  "Ranking_PopularitySum": 165,
+  "Ranking_Rating": 595,
+  "Ranking_Popularity": 143,
+  "Ranking_PopularitySum": 169,
   "NumberOfRatings": 1373,
-  "NumberOfAwards": 2294,
-  "NumberOfAwardsMax": 844,
+  "NumberOfAwards": 2301,
+  "NumberOfAwardsMax": 846,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:19:15.8732166+00:00",
-  "LastChanged": "2023-01-14T04:56:58.2477473+00:00",
+  "LastChanged": "2023-04-14T07:57:13.8205546+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:15.8732169+00:00",
@@ -1742,6 +1742,42 @@
     {
       "Time": "2023-01-14T04:56:58.2477476+00:00",
       "Rating": 4.45
+    },
+    {
+      "Time": "2023-04-01T22:57:07.7307969+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 2295,
+      "NumberOfAwardsMax": 844
+    },
+    {
+      "Time": "2023-04-09T16:57:22.6702876+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 2296,
+      "NumberOfAwardsMax": 844
+    },
+    {
+      "Time": "2023-04-11T15:57:16.0405036+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 2298,
+      "NumberOfAwardsMax": 844
+    },
+    {
+      "Time": "2023-04-12T01:56:15.6144478+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 2299,
+      "NumberOfAwardsMax": 845
+    },
+    {
+      "Time": "2023-04-13T19:57:23.8080302+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 2300,
+      "NumberOfAwardsMax": 846
+    },
+    {
+      "Time": "2023-04-14T07:57:13.8205548+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 2301,
+      "NumberOfAwardsMax": 846
     }
   ],
   "Tags": [
@@ -1755,7 +1791,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 157
+      "Count": 160
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1767,7 +1803,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 169
+      "Count": 170
     },
     {
       "Text": "This game has Competitive Players",
@@ -1797,7 +1833,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 172
+      "Count": 173
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1821,7 +1857,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 844
+      "Count": 846
     }
   ]
 }

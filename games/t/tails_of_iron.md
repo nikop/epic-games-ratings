@@ -1,8 +1,8 @@
 # Tails of Iron
-Rating: 4.49 (Ranked 537)  
+Rating: 4.50 (Ranked 525)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 478)  
-Sum: 0 (Ranked 478)  
+Max (): 0  (Ranked 484)  
+Sum: 0 (Ranked 484)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
@@ -47,3 +47,4 @@ Diff (max vs sum): 0
 | 2023-02-16 | 4.50 | - | - |
 | 2023-03-06 | 4.49 | - | - |
 | 2023-03-31 | 4.49 | - | 0 |
+| 2023-04-02 | 4.50 | - | 0 |

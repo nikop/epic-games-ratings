@@ -1,22 +1,22 @@
 # Rise of the Tomb Raider: 20 Year Celebration
-Rating: 4.69 (Ranked 215)  
+Rating: 4.69 (Ranked 213)  
 Number of Ratings: 28,216  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 11,115  (Ranked 31)  
-Sum: 14,046 (Ranked 59)  
+Max (Great Boss Battles): 11,158  (Ranked 32)  
+Sum: 14,102 (Ranked 60)  
 Diff (max vs sum): -28
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 11,115 |
-| This game is Relaxing | 361 |
-| This game has Amazing Storytelling | 357 |
-| This game is Highly Recommended | 351 |
-| This game is Great for Beginners | 347 |
-| This game has Quickly Understood Controls | 342 |
-| This game is Extremely Fun | 342 |
+| This game has Great Boss Battles | 11,158 |
+| This game is Relaxing | 362 |
+| This game has Amazing Storytelling | 358 |
+| This game is Highly Recommended | 353 |
+| This game is Great for Beginners | 350 |
+| This game has Quickly Understood Controls | 344 |
+| This game is Extremely Fun | 344 |
 | This game has Amazing Characters | 337 |
-| This game has Diverse Characters | 314 |
+| This game has Diverse Characters | 316 |
 | This game has a Creative Community | 180 |
 | This game has Obsessive Gameplay | 142 |
 ## Ratings History
@@ -90,3 +90,20 @@ Diff (max vs sum): -28
 | 2022-10-12 | 4.69 | - | - |
 | 2022-10-13 | 4.68 | - | - |
 | 2022-10-16 | 4.69 | - | - |
+| 2023-04-01 | 4.69 | - | 11,120 |
+| 2023-04-02 | 4.69 | - | 11,121 |
+| 2023-04-03 | 4.69 | - | 11,123 |
+| 2023-04-04 | 4.69 | - | 11,127 |
+| 2023-04-05 | 4.69 | - | 11,130 |
+| 2023-04-06 | 4.69 | - | 11,130 |
+| 2023-04-07 | 4.69 | - | 11,136 |
+| 2023-04-08 | 4.69 | - | 11,138 |
+| 2023-04-09 | 4.69 | - | 11,138 |
+| 2023-04-10 | 4.69 | - | 11,141 |
+| 2023-04-11 | 4.69 | - | 11,145 |
+| 2023-04-12 | 4.69 | - | 11,145 |
+| 2023-04-13 | 4.69 | - | 11,148 |
+| 2023-04-14 | 4.69 | - | 11,151 |
+| 2023-04-15 | 4.69 | - | 11,155 |
+| 2023-04-16 | 4.69 | - | 11,158 |
+| 2023-04-17 | 4.69 | - | 11,158 |

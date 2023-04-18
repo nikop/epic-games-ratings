@@ -1,19 +1,19 @@
 # Elite Dangerous
-Rating: 4.64 (Ranked 306)  
+Rating: 4.64 (Ranked 312)  
 Number of Ratings: 6,856  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Highly Recommended): 2,026  (Ranked 99)  
-Sum: 11,691 (Ranked 71)  
-Diff (max vs sum): 28
+Max (Highly Recommended): 2,065  (Ranked 101)  
+Sum: 11,841 (Ranked 71)  
+Diff (max vs sum): 30
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Highly Recommended | 2,026 |
-| This game is Relaxing | 2,022 |
-| This game has Challenging Combat | 1,976 |
-| This game is Extremely Fun | 1,963 |
-| This game is Educational | 1,948 |
-| This game has Amazing Storytelling | 1,756 |
+| This game is Highly Recommended | 2,065 |
+| This game is Relaxing | 2,046 |
+| This game has Challenging Combat | 2,003 |
+| This game is Extremely Fun | 1,991 |
+| This game is Educational | 1,967 |
+| This game has Amazing Storytelling | 1,769 |
 | This game has Obsessive Gameplay | 1,244 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -84,4 +84,21 @@ Diff (max vs sum): 28
 | 2022-09-23 | 4.63 | 6,856 | - |
 | 2022-09-24 | 4.64 | - | - |
 | 2022-09-30 | 4.64 | - | - |
-| 2023-03-31 | 4.64 | - | 2,026 |
+| 2023-03-31 | 4.64 | - | 2,031 |
+| 2023-04-01 | 4.64 | - | 2,036 |
+| 2023-04-02 | 4.64 | - | 2,036 |
+| 2023-04-03 | 4.64 | - | 2,037 |
+| 2023-04-04 | 4.64 | - | 2,040 |
+| 2023-04-05 | 4.64 | - | 2,042 |
+| 2023-04-06 | 4.64 | - | 2,042 |
+| 2023-04-07 | 4.64 | - | 2,046 |
+| 2023-04-08 | 4.64 | - | 2,049 |
+| 2023-04-09 | 4.64 | - | 2,049 |
+| 2023-04-10 | 4.64 | - | 2,051 |
+| 2023-04-11 | 4.64 | - | 2,051 |
+| 2023-04-12 | 4.64 | - | 2,052 |
+| 2023-04-13 | 4.64 | - | 2,056 |
+| 2023-04-14 | 4.64 | - | 2,056 |
+| 2023-04-15 | 4.64 | - | 2,056 |
+| 2023-04-16 | 4.64 | - | 2,060 |
+| 2023-04-17 | 4.64 | - | 2,065 |

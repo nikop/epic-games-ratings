@@ -3,14 +3,14 @@
   "Name": "Shadow Tactics - Aiko\u0027s Choice",
   "Rating": 4.71,
   "Ranking_Rating": 177,
-  "Ranking_Popularity": 356,
-  "Ranking_PopularitySum": 409,
+  "Ranking_Popularity": 359,
+  "Ranking_PopularitySum": 412,
   "NumberOfRatings": 68,
-  "NumberOfAwards": 66,
-  "NumberOfAwardsMax": 66,
+  "NumberOfAwards": 68,
+  "NumberOfAwardsMax": 68,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:30:07.8581549+00:00",
-  "LastChanged": "2023-03-21T05:58:31.4914442+00:00",
+  "LastChanged": "2023-04-17T17:58:12.7802959+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:07.8581551+00:00",
@@ -334,6 +334,24 @@
     {
       "Time": "2023-03-21T05:58:31.4914445+00:00",
       "Rating": 4.71
+    },
+    {
+      "Time": "2023-04-12T10:58:23.2233378+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 66,
+      "NumberOfAwardsMax": 66
+    },
+    {
+      "Time": "2023-04-13T10:58:26.4719824+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 66,
+      "NumberOfAwardsMax": 66
+    },
+    {
+      "Time": "2023-04-17T17:58:12.7802961+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 68,
+      "NumberOfAwardsMax": 68
     }
   ],
   "Tags": [
@@ -341,7 +359,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 66
+      "Count": 68
     }
   ]
 }

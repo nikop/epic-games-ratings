@@ -1,24 +1,24 @@
 # MudRunner
-Rating: 4.62 (Ranked 333)  
+Rating: 4.62 (Ranked 334)  
 Number of Ratings: 3,155  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Quickly Understood Controls): 226  (Ranked 239)  
-Sum: 1,803 (Ranked 193)  
-Diff (max vs sum): 46
+Max (Great for Beginners): 229  (Ranked 240)  
+Sum: 1,825 (Ranked 192)  
+Diff (max vs sum): 48
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Quickly Understood Controls | 226 |
-| This game is Great for Beginners | 224 |
-| This game is Relaxing | 203 |
-| This game is Highly Recommended | 199 |
-| This game is Educational | 198 |
+| This game is Great for Beginners | 229 |
+| This game has Quickly Understood Controls | 227 |
+| This game is Relaxing | 205 |
+| This game is Highly Recommended | 201 |
+| This game is Educational | 199 |
+| This game has Realistic Visuals | 181 |
 | This game is Extremely Fun | 180 |
-| This game has Realistic Visuals | 177 |
-| This game has Amazing Storytelling | 160 |
+| This game has Amazing Storytelling | 162 |
 | This game has Obsessive Gameplay | 128 |
-| This game has Amazing Characters | 126 |
-| This game has a Creative Community | 110 |
+| This game has Amazing Characters | 128 |
+| This game has a Creative Community | 113 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -109,3 +109,15 @@ Diff (max vs sum): 46
 | 2022-11-26 | 4.63 | - | - |
 | 2022-11-27 | 4.62 | - | - |
 | 2023-03-31 | 4.62 | - | 226 |
+| 2023-04-02 | 4.62 | - | 226 |
+| 2023-04-06 | 4.62 | - | 228 |
+| 2023-04-07 | 4.62 | - | 228 |
+| 2023-04-08 | 4.62 | - | 228 |
+| 2023-04-09 | 4.62 | - | 228 |
+| 2023-04-10 | 4.62 | - | 228 |
+| 2023-04-11 | 4.62 | - | 228 |
+| 2023-04-12 | 4.62 | - | 228 |
+| 2023-04-13 | 4.62 | - | 229 |
+| 2023-04-14 | 4.62 | - | 229 |
+| 2023-04-15 | 4.62 | - | 229 |
+| 2023-04-17 | 4.62 | - | 229 |

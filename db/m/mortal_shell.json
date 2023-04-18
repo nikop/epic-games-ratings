@@ -2,14 +2,14 @@
   "ID": "ff8c96d781824ba1ae62d18d207fc52e",
   "Name": "Mortal Shell",
   "Rating": 4.26,
-  "Ranking_Rating": 760,
-  "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 478,
+  "Ranking_Rating": 767,
+  "Ranking_Popularity": 484,
+  "Ranking_PopularitySum": 484,
   "NumberOfRatings": 213,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:19:45.0826323+00:00",
-  "LastChanged": "2023-03-31T05:57:15.5723432+00:00",
+  "LastChanged": "2023-04-17T15:57:21.9463931+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:45.0826325+00:00",
@@ -484,6 +484,18 @@
     },
     {
       "Time": "2023-03-31T05:57:15.5723435+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-07T07:57:25.7775514+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-17T15:57:21.9463933+00:00",
       "Rating": 4.26,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0

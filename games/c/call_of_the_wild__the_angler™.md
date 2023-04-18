@@ -1,16 +1,16 @@
 # Call of the Wild: The Angler™
-Rating: 4.11 (Ranked 834)  
+Rating: 4.12 (Ranked 837)  
 Number of Ratings: 281  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Relaxing): 32  (Ranked 424)  
-Sum: 157 (Ranked 365)  
-Diff (max vs sum): 59
+Max (Relaxing): 32  (Ranked 428)  
+Sum: 158 (Ranked 368)  
+Diff (max vs sum): 60
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Relaxing | 32 |
 | This game has Amazing Storytelling | 30 |
-| This game is Highly Recommended | 27 |
+| This game is Highly Recommended | 28 |
 | This game is Extremely Fun | 24 |
 | This game is Great for Beginners | 24 |
 | This game has Quickly Understood Controls | 20 |
@@ -58,3 +58,5 @@ Diff (max vs sum): 59
 | 2023-01-07 | 4.09 | - | - |
 | 2023-01-21 | 4.10 | - | - |
 | 2023-02-08 | 4.11 | - | - |
+| 2023-04-07 | 4.11 | - | 32 |
+| 2023-04-14 | 4.12 | - | 32 |

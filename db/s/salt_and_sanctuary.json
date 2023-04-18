@@ -2,15 +2,15 @@
   "ID": "79d9bff700bb46a790b21e8c73b34899",
   "Name": "Salt and Sanctuary",
   "Rating": 4.61,
-  "Ranking_Rating": 349,
-  "Ranking_Popularity": 228,
-  "Ranking_PopularitySum": 190,
+  "Ranking_Rating": 350,
+  "Ranking_Popularity": 229,
+  "Ranking_PopularitySum": 191,
   "NumberOfRatings": 3114,
-  "NumberOfAwards": 1850,
-  "NumberOfAwardsMax": 264,
+  "NumberOfAwards": 1862,
+  "NumberOfAwardsMax": 266,
   "MaxAwardTitle": "Challenging Combat",
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
-  "LastChanged": "2023-03-31T05:58:28.5679811+00:00",
+  "LastChanged": "2023-04-13T15:58:38.7486123+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:22.098302+00:00",
@@ -1951,6 +1951,78 @@
       "Rating": 4.61,
       "NumberOfAwards": 1850,
       "NumberOfAwardsMax": 264
+    },
+    {
+      "Time": "2023-04-02T05:58:03.3861989+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1851,
+      "NumberOfAwardsMax": 265
+    },
+    {
+      "Time": "2023-04-02T08:58:25.8409896+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1852,
+      "NumberOfAwardsMax": 265
+    },
+    {
+      "Time": "2023-04-03T23:58:37.2885843+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1853,
+      "NumberOfAwardsMax": 265
+    },
+    {
+      "Time": "2023-04-04T04:58:35.2547019+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1854,
+      "NumberOfAwardsMax": 265
+    },
+    {
+      "Time": "2023-04-05T01:40:51.2670002+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1855,
+      "NumberOfAwardsMax": 265
+    },
+    {
+      "Time": "2023-04-05T03:57:52.6676487+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1856,
+      "NumberOfAwardsMax": 265
+    },
+    {
+      "Time": "2023-04-05T04:58:02.7280032+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1857,
+      "NumberOfAwardsMax": 265
+    },
+    {
+      "Time": "2023-04-07T08:58:57.8454832+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1858,
+      "NumberOfAwardsMax": 265
+    },
+    {
+      "Time": "2023-04-07T14:58:47.7195847+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1859,
+      "NumberOfAwardsMax": 265
+    },
+    {
+      "Time": "2023-04-09T21:57:57.1998123+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1860,
+      "NumberOfAwardsMax": 265
+    },
+    {
+      "Time": "2023-04-13T01:55:35.6862696+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1861,
+      "NumberOfAwardsMax": 266
+    },
+    {
+      "Time": "2023-04-13T15:58:38.7486125+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1862,
+      "NumberOfAwardsMax": 266
     }
   ],
   "Tags": [
@@ -1958,37 +2030,37 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 245
+      "Count": 248
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 222
+      "Count": 224
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 264
+      "Count": 266
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 244
+      "Count": 246
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 225
+      "Count": 226
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 217
+      "Count": 218
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2000,7 +2072,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 221
+      "Count": 222
     },
     {
       "Text": "This game has Obsessive Gameplay",

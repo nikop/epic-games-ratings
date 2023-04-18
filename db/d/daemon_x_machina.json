@@ -2,15 +2,15 @@
   "ID": "0dc18227b3f14162968d8e7969e454ef",
   "Name": "DAEMON X MACHINA",
   "Rating": 4.4,
-  "Ranking_Rating": 653,
-  "Ranking_Popularity": 134,
+  "Ranking_Rating": 661,
+  "Ranking_Popularity": 137,
   "Ranking_PopularitySum": 210,
   "NumberOfRatings": 2096,
-  "NumberOfAwards": 1406,
-  "NumberOfAwardsMax": 967,
+  "NumberOfAwards": 1414,
+  "NumberOfAwardsMax": 974,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:20:03.7612115+00:00",
-  "LastChanged": "2022-12-23T04:57:00.384244+00:00",
+  "LastChanged": "2023-04-17T13:06:40.0201105+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:03.7612117+00:00",
@@ -1185,6 +1185,54 @@
     {
       "Time": "2022-12-23T04:57:00.3842443+00:00",
       "Rating": 4.4
+    },
+    {
+      "Time": "2023-03-31T14:57:10.528641+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 1407,
+      "NumberOfAwardsMax": 967
+    },
+    {
+      "Time": "2023-04-03T10:57:09.5873939+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 1409,
+      "NumberOfAwardsMax": 969
+    },
+    {
+      "Time": "2023-04-08T10:57:16.9120195+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 1409,
+      "NumberOfAwardsMax": 969
+    },
+    {
+      "Time": "2023-04-09T02:57:27.8466443+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 1410,
+      "NumberOfAwardsMax": 970
+    },
+    {
+      "Time": "2023-04-11T02:57:31.8798211+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 1410,
+      "NumberOfAwardsMax": 970
+    },
+    {
+      "Time": "2023-04-12T01:56:20.9776371+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 1412,
+      "NumberOfAwardsMax": 972
+    },
+    {
+      "Time": "2023-04-13T18:57:01.1562225+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 1413,
+      "NumberOfAwardsMax": 973
+    },
+    {
+      "Time": "2023-04-17T13:06:40.0201107+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 1414,
+      "NumberOfAwardsMax": 974
     }
   ],
   "Tags": [
@@ -1192,7 +1240,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 967
+      "Count": 974
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1234,7 +1282,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 51
+      "Count": 52
     },
     {
       "Text": "This game has Unique Visuals",

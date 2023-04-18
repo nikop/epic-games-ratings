@@ -2,15 +2,15 @@
   "ID": "7c53d7dc86494d5abcdc974b0ef0a843",
   "Name": "Kena: Bridge of Spirits",
   "Rating": 4.7,
-  "Ranking_Rating": 194,
-  "Ranking_Popularity": 116,
-  "Ranking_PopularitySum": 199,
+  "Ranking_Rating": 191,
+  "Ranking_Popularity": 117,
+  "Ranking_PopularitySum": 198,
   "NumberOfRatings": 3313,
-  "NumberOfAwards": 1652,
-  "NumberOfAwardsMax": 1284,
+  "NumberOfAwards": 1664,
+  "NumberOfAwardsMax": 1294,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
-  "LastChanged": "2023-03-20T16:57:08.6751745+00:00",
+  "LastChanged": "2023-04-14T20:57:04.8009904+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:51.8985807+00:00",
@@ -964,6 +964,54 @@
     {
       "Time": "2023-03-20T16:57:08.6751775+00:00",
       "Rating": 4.7
+    },
+    {
+      "Time": "2023-04-02T13:00:49.810632+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 1653,
+      "NumberOfAwardsMax": 1285
+    },
+    {
+      "Time": "2023-04-05T08:57:28.7620086+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 1657,
+      "NumberOfAwardsMax": 1289
+    },
+    {
+      "Time": "2023-04-06T21:57:12.3229117+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 1658,
+      "NumberOfAwardsMax": 1290
+    },
+    {
+      "Time": "2023-04-08T17:57:09.2030341+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 1659,
+      "NumberOfAwardsMax": 1291
+    },
+    {
+      "Time": "2023-04-09T07:57:30.4698205+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 1660,
+      "NumberOfAwardsMax": 1291
+    },
+    {
+      "Time": "2023-04-10T18:57:22.3286758+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 1661,
+      "NumberOfAwardsMax": 1291
+    },
+    {
+      "Time": "2023-04-12T22:57:13.6505075+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 1663,
+      "NumberOfAwardsMax": 1293
+    },
+    {
+      "Time": "2023-04-14T20:57:04.8009905+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 1664,
+      "NumberOfAwardsMax": 1294
     }
   ],
   "Tags": [
@@ -971,7 +1019,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1284
+      "Count": 1294
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1007,7 +1055,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1031,7 +1079,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game is Educational",

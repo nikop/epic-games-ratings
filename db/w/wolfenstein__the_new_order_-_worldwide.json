@@ -2,15 +2,15 @@
   "ID": "0bd3e505924240adb702295fa08c1eff",
   "Name": "Wolfenstein: The New Order - Worldwide",
   "Rating": 4.58,
-  "Ranking_Rating": 400,
-  "Ranking_Popularity": 19,
-  "Ranking_PopularitySum": 54,
+  "Ranking_Rating": 406,
+  "Ranking_Popularity": 21,
+  "Ranking_PopularitySum": 55,
   "NumberOfRatings": 61135,
-  "NumberOfAwards": 16922,
-  "NumberOfAwardsMax": 14282,
+  "NumberOfAwards": 16962,
+  "NumberOfAwardsMax": 14315,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:25:17.2471647+00:00",
-  "LastChanged": "2022-09-23T13:32:29.5801484+00:00",
+  "LastChanged": "2023-04-17T15:57:53.6744478+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:17.2471649+00:00",
@@ -2356,6 +2356,108 @@
       "Time": "2022-09-23T13:32:29.5801485+00:00",
       "Rating": 4.58,
       "NumberOfRatings": 61135
+    },
+    {
+      "Time": "2023-03-31T19:57:45.3553275+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 16924,
+      "NumberOfAwardsMax": 14284
+    },
+    {
+      "Time": "2023-04-01T07:57:49.536552+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 16925,
+      "NumberOfAwardsMax": 14284
+    },
+    {
+      "Time": "2023-04-02T17:57:47.1899299+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 16930,
+      "NumberOfAwardsMax": 14288
+    },
+    {
+      "Time": "2023-04-03T19:57:59.0728201+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 16937,
+      "NumberOfAwardsMax": 14295
+    },
+    {
+      "Time": "2023-04-05T22:57:38.8448372+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 16938,
+      "NumberOfAwardsMax": 14296
+    },
+    {
+      "Time": "2023-04-07T13:02:53.5438932+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 16940,
+      "NumberOfAwardsMax": 14298
+    },
+    {
+      "Time": "2023-04-07T18:57:48.5318479+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 16941,
+      "NumberOfAwardsMax": 14298
+    },
+    {
+      "Time": "2023-04-08T13:57:47.4063453+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 16942,
+      "NumberOfAwardsMax": 14298
+    },
+    {
+      "Time": "2023-04-08T15:57:28.9695492+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 16944,
+      "NumberOfAwardsMax": 14300
+    },
+    {
+      "Time": "2023-04-09T19:57:35.0937466+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 16945,
+      "NumberOfAwardsMax": 14300
+    },
+    {
+      "Time": "2023-04-10T01:52:33.6051799+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 16948,
+      "NumberOfAwardsMax": 14303
+    },
+    {
+      "Time": "2023-04-11T07:57:33.8290844+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 16949,
+      "NumberOfAwardsMax": 14304
+    },
+    {
+      "Time": "2023-04-11T15:57:55.343625+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 16950,
+      "NumberOfAwardsMax": 14304
+    },
+    {
+      "Time": "2023-04-12T19:57:40.8923102+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 16951,
+      "NumberOfAwardsMax": 14304
+    },
+    {
+      "Time": "2023-04-12T23:57:30.6542267+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 16954,
+      "NumberOfAwardsMax": 14307
+    },
+    {
+      "Time": "2023-04-14T06:58:05.4580196+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 16960,
+      "NumberOfAwardsMax": 14313
+    },
+    {
+      "Time": "2023-04-17T15:57:53.6744479+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 16962,
+      "NumberOfAwardsMax": 14315
     }
   ],
   "Tags": [
@@ -2363,7 +2465,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 14282
+      "Count": 14315
     },
     {
       "Text": "This game is Relaxing",
@@ -2375,25 +2477,25 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 325
+      "Count": 328
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 321
+      "Count": 322
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 312
+      "Count": 314
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 349
+      "Count": 350
     },
     {
       "Text": "This game has Diverse Characters",

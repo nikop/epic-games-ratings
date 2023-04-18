@@ -1,21 +1,21 @@
 # Enter the Gungeon
-Rating: 4.85 (Ranked 38)  
+Rating: 4.85 (Ranked 37)  
 Number of Ratings: 8,617  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 7,423  (Ranked 38)  
-Sum: 13,164 (Ranked 63)  
-Diff (max vs sum): -25
+Max (Great Boss Battles): 7,465  (Ranked 41)  
+Sum: 13,245 (Ranked 65)  
+Diff (max vs sum): -24
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 7,423 |
-| This game is Highly Recommended | 854 |
-| This game has Diverse Characters | 840 |
-| This game has Challenging Combat | 831 |
-| This game is Extremely Fun | 814 |
-| This game has Amazing Characters | 813 |
-| This game has Quickly Understood Controls | 812 |
-| This game has Amazing Storytelling | 777 |
+| This game has Great Boss Battles | 7,465 |
+| This game is Highly Recommended | 857 |
+| This game has Diverse Characters | 846 |
+| This game has Challenging Combat | 835 |
+| This game is Extremely Fun | 829 |
+| This game has Amazing Characters | 817 |
+| This game has Quickly Understood Controls | 813 |
+| This game has Amazing Storytelling | 783 |
 | This game has Obsessive Gameplay | 583 |
 | This game has Unique Visuals | 200 |
 | This game has a Creative Community | 151 |
@@ -88,3 +88,20 @@ Diff (max vs sum): -25
 | 2022-09-23 | 4.86 | 8,617 | - |
 | 2022-09-24 | 4.85 | - | - |
 | 2023-03-31 | 4.85 | - | 7,423 |
+| 2023-04-01 | 4.85 | - | 7,425 |
+| 2023-04-02 | 4.85 | - | 7,430 |
+| 2023-04-03 | 4.85 | - | 7,430 |
+| 2023-04-04 | 4.85 | - | 7,432 |
+| 2023-04-05 | 4.85 | - | 7,434 |
+| 2023-04-06 | 4.85 | - | 7,439 |
+| 2023-04-07 | 4.85 | - | 7,439 |
+| 2023-04-08 | 4.85 | - | 7,443 |
+| 2023-04-09 | 4.85 | - | 7,449 |
+| 2023-04-10 | 4.85 | - | 7,449 |
+| 2023-04-11 | 4.85 | - | 7,453 |
+| 2023-04-12 | 4.85 | - | 7,453 |
+| 2023-04-13 | 4.85 | - | 7,453 |
+| 2023-04-14 | 4.85 | - | 7,456 |
+| 2023-04-15 | 4.85 | - | 7,458 |
+| 2023-04-16 | 4.85 | - | 7,461 |
+| 2023-04-17 | 4.85 | - | 7,465 |

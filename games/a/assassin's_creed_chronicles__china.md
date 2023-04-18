@@ -1,8 +1,8 @@
 # Assassin's Creed Chronicles: China
-Rating: 4.67 (Ranked 255)  
+Rating: 4.68 (Ranked 235)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 478)  
-Sum: 0 (Ranked 478)  
+Max (): 0  (Ranked 484)  
+Sum: 0 (Ranked 484)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
@@ -13,3 +13,4 @@ Diff (max vs sum): 0
 | 2023-03-08 | 4.70 | - | - |
 | 2023-03-23 | 4.67 | - | - |
 | 2023-03-31 | 4.67 | - | 0 |
+| 2023-04-09 | 4.68 | - | 0 |

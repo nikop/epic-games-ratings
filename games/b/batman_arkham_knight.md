@@ -1,23 +1,23 @@
 # Batman Arkham Knight
-Rating: 4.82 (Ranked 61)  
+Rating: 4.82 (Ranked 60)  
 Number of Ratings: 7,386  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 5,377  (Ranked 58)  
-Sum: 8,420 (Ranked 84)  
+Max (Great Boss Battles): 5,420  (Ranked 59)  
+Sum: 8,488 (Ranked 85)  
 Diff (max vs sum): -26
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 5,377 |
-| This game is Great for Beginners | 381 |
-| This game has Diverse Characters | 367 |
-| This game is Highly Recommended | 352 |
-| This game is Extremely Fun | 351 |
-| This game has Amazing Storytelling | 346 |
-| This game has Amazing Characters | 336 |
-| This game has Quickly Understood Controls | 335 |
-| This game is Relaxing | 333 |
-| This game has a Creative Community | 242 |
+| This game has Great Boss Battles | 5,420 |
+| This game is Great for Beginners | 384 |
+| This game has Diverse Characters | 370 |
+| This game is Highly Recommended | 356 |
+| This game is Extremely Fun | 353 |
+| This game has Amazing Storytelling | 347 |
+| This game has Amazing Characters | 340 |
+| This game has Quickly Understood Controls | 339 |
+| This game is Relaxing | 336 |
+| This game has a Creative Community | 243 |
 | This game has Obsessive Gameplay | 190 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -86,3 +86,19 @@ Diff (max vs sum): -26
 | 2022-09-21 | 4.82 | 7,325 | - |
 | 2022-09-22 | 4.82 | 7,368 | - |
 | 2022-09-23 | 4.82 | 7,386 | - |
+| 2023-03-31 | 4.82 | - | 5,381 |
+| 2023-04-02 | 4.82 | - | 5,383 |
+| 2023-04-03 | 4.82 | - | 5,387 |
+| 2023-04-04 | 4.82 | - | 5,390 |
+| 2023-04-05 | 4.82 | - | 5,390 |
+| 2023-04-06 | 4.82 | - | 5,392 |
+| 2023-04-07 | 4.82 | - | 5,398 |
+| 2023-04-08 | 4.82 | - | 5,398 |
+| 2023-04-09 | 4.82 | - | 5,402 |
+| 2023-04-11 | 4.82 | - | 5,404 |
+| 2023-04-12 | 4.82 | - | 5,406 |
+| 2023-04-13 | 4.82 | - | 5,410 |
+| 2023-04-14 | 4.82 | - | 5,412 |
+| 2023-04-15 | 4.82 | - | 5,417 |
+| 2023-04-16 | 4.82 | - | 5,417 |
+| 2023-04-17 | 4.82 | - | 5,420 |

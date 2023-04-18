@@ -1,15 +1,15 @@
 {
   "ID": "19078740fbcc4eada59a5a4ae7b3724c",
   "Name": "GNOG",
-  "Rating": 4.68,
-  "Ranking_Rating": 235,
-  "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 478,
+  "Rating": 4.69,
+  "Ranking_Rating": 213,
+  "Ranking_Popularity": 484,
+  "Ranking_PopularitySum": 484,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:23:24.0704964+00:00",
   "FirstSeenRating": "2022-11-16T04:59:22.0834451+00:00",
-  "LastChanged": "2023-03-31T05:57:40.8774842+00:00",
+  "LastChanged": "2023-04-15T21:57:53.0187525+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-16T04:59:22.0834457+00:00",
@@ -38,6 +38,12 @@
     {
       "Time": "2023-03-31T05:57:40.8774843+00:00",
       "Rating": 4.68,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-15T21:57:53.0187528+00:00",
+      "Rating": 4.69,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

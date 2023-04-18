@@ -1,20 +1,20 @@
 # Borderlands: The Pre-Sequel
-Rating: 4.50 (Ranked 524)  
+Rating: 4.49 (Ranked 541)  
 Number of Ratings: 2,939  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 391  (Ranked 192)  
-Sum: 2,700 (Ranked 154)  
-Diff (max vs sum): 38
+Max (Diverse Characters): 391  (Ranked 196)  
+Sum: 2,709 (Ranked 156)  
+Diff (max vs sum): 40
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Diverse Characters | 391 |
-| This game is Great for Beginners | 345 |
-| This game is Highly Recommended | 341 |
-| This game has Amazing Storytelling | 336 |
-| This game is Extremely Fun | 331 |
-| This game has Quickly Understood Controls | 326 |
-| This game has Amazing Characters | 316 |
+| This game is Great for Beginners | 347 |
+| This game is Highly Recommended | 342 |
+| This game has Amazing Storytelling | 338 |
+| This game is Extremely Fun | 332 |
+| This game has Quickly Understood Controls | 327 |
+| This game has Amazing Characters | 318 |
 | This game is Relaxing | 314 |
 | This game has Obsessive Gameplay | 154 |
 | This game has Unique Visuals | 119 |
@@ -113,3 +113,11 @@ Diff (max vs sum): 38
 | 2023-03-18 | 4.50 | - | - |
 | 2023-03-22 | 4.49 | - | - |
 | 2023-03-25 | 4.50 | - | - |
+| 2023-04-02 | 4.49 | - | 391 |
+| 2023-04-05 | 4.49 | - | 391 |
+| 2023-04-06 | 4.49 | - | 391 |
+| 2023-04-08 | 4.49 | - | 391 |
+| 2023-04-11 | 4.49 | - | 391 |
+| 2023-04-13 | 4.49 | - | 391 |
+| 2023-04-14 | 4.49 | - | 391 |
+| 2023-04-16 | 4.49 | - | 391 |

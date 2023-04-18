@@ -1,20 +1,20 @@
 # Predator: Hunting Grounds Standard Edition
-Rating: 4.45 (Ranked 592)  
+Rating: 4.45 (Ranked 595)  
 Number of Ratings: 1,373  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 844  (Ranked 142)  
-Sum: 2,294 (Ranked 165)  
-Diff (max vs sum): -23
+Max (Great Boss Battles): 846  (Ranked 143)  
+Sum: 2,301 (Ranked 169)  
+Diff (max vs sum): -26
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 844 |
+| This game has Great Boss Battles | 846 |
 | This game has Quickly Understood Controls | 179 |
-| This game is Great for Quick Sessions | 172 |
+| This game is Great for Quick Sessions | 173 |
 | This game is Extremely Fun | 170 |
-| This game is Highly Recommended | 169 |
+| This game is Highly Recommended | 170 |
 | This game has Diverse Characters | 166 |
-| This game has Amazing Characters | 157 |
+| This game has Amazing Characters | 160 |
 | This game has Competitive Players | 153 |
 | This game has Amazing Storytelling | 152 |
 | This game is Relaxing | 148 |
@@ -105,3 +105,9 @@ Diff (max vs sum): -23
 | 2023-01-10 | 4.45 | - | - |
 | 2023-01-12 | 4.44 | - | - |
 | 2023-01-14 | 4.45 | - | - |
+| 2023-04-01 | 4.45 | - | 844 |
+| 2023-04-09 | 4.45 | - | 844 |
+| 2023-04-11 | 4.45 | - | 844 |
+| 2023-04-12 | 4.45 | - | 845 |
+| 2023-04-13 | 4.45 | - | 846 |
+| 2023-04-14 | 4.45 | - | 846 |

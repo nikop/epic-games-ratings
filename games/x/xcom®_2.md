@@ -1,23 +1,23 @@
 # XCOM® 2
-Rating: 4.54 (Ranked 468)  
+Rating: 4.54 (Ranked 474)  
 Number of Ratings: 7,396  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Relaxing): 1,093  (Ranked 123)  
-Sum: 8,868 (Ranked 80)  
+Max (Relaxing): 1,113  (Ranked 123)  
+Sum: 9,047 (Ranked 80)  
 Diff (max vs sum): 43
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Relaxing | 1,093 |
-| This game is Highly Recommended | 1,079 |
-| This game has Challenging Combat | 1,073 |
-| This game has Amazing Storytelling | 1,058 |
-| This game has Diverse Characters | 1,046 |
-| This game has Quickly Understood Controls | 1,046 |
-| This game is Extremely Fun | 1,041 |
-| This game has Amazing Characters | 993 |
+| This game is Relaxing | 1,113 |
+| This game is Highly Recommended | 1,104 |
+| This game has Challenging Combat | 1,094 |
+| This game has Diverse Characters | 1,073 |
+| This game has Amazing Storytelling | 1,071 |
+| This game has Quickly Understood Controls | 1,064 |
+| This game is Extremely Fun | 1,063 |
+| This game has Amazing Characters | 1,010 |
 | This game has Obsessive Gameplay | 561 |
-| This game has a Creative Community | 439 |
+| This game has a Creative Community | 455 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -88,3 +88,20 @@ Diff (max vs sum): 43
 | 2022-12-06 | 4.53 | - | - |
 | 2023-02-17 | 4.54 | - | - |
 | 2023-03-31 | 4.54 | - | 1,093 |
+| 2023-04-01 | 4.54 | - | 1,093 |
+| 2023-04-02 | 4.54 | - | 1,097 |
+| 2023-04-03 | 4.54 | - | 1,097 |
+| 2023-04-04 | 4.54 | - | 1,102 |
+| 2023-04-05 | 4.54 | - | 1,106 |
+| 2023-04-06 | 4.54 | - | 1,106 |
+| 2023-04-07 | 4.54 | - | 1,106 |
+| 2023-04-08 | 4.54 | - | 1,107 |
+| 2023-04-09 | 4.54 | - | 1,107 |
+| 2023-04-10 | 4.54 | - | 1,107 |
+| 2023-04-11 | 4.54 | - | 1,109 |
+| 2023-04-12 | 4.54 | - | 1,111 |
+| 2023-04-13 | 4.54 | - | 1,111 |
+| 2023-04-14 | 4.54 | - | 1,112 |
+| 2023-04-15 | 4.54 | - | 1,113 |
+| 2023-04-16 | 4.54 | - | 1,113 |
+| 2023-04-17 | 4.54 | - | 1,113 |

@@ -1,23 +1,23 @@
 # Bloons TD 6
-Rating: 4.76 (Ranked 113)  
+Rating: 4.76 (Ranked 112)  
 Number of Ratings: 136  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 1,936  (Ranked 102)  
-Sum: 11,752 (Ranked 70)  
-Diff (max vs sum): 32
+Max (Great for Beginners): 2,336  (Ranked 92)  
+Sum: 13,997 (Ranked 61)  
+Diff (max vs sum): 31
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 1,936 |
-| This game has Diverse Characters | 1,574 |
-| This game has Playful Visuals | 1,222 |
-| This game is Highly Recommended | 1,188 |
-| This game has a Creative Community | 1,049 |
-| This game has Amazing Characters | 1,023 |
-| This game is Extremely Fun | 1,017 |
-| This game has Amazing Storytelling | 924 |
-| This game has Quickly Understood Controls | 915 |
-| This game is Relaxing | 904 |
+| This game is Great for Beginners | 2,336 |
+| This game has Diverse Characters | 1,871 |
+| This game has Playful Visuals | 1,463 |
+| This game is Highly Recommended | 1,424 |
+| This game has a Creative Community | 1,235 |
+| This game has Amazing Characters | 1,231 |
+| This game is Extremely Fun | 1,208 |
+| This game has Amazing Storytelling | 1,091 |
+| This game has Quickly Understood Controls | 1,085 |
+| This game is Relaxing | 1,053 |
 | This game is Great for Quick Sessions | 64 |
 | This game has Competitive Players | 40 |
 | This game has Obsessive Gameplay | 33 |
@@ -90,4 +90,22 @@ Diff (max vs sum): 32
 | 2022-12-18 | 4.77 | - | - |
 | 2022-12-19 | 4.76 | - | - |
 | 2022-12-23 | 4.76 | - | - |
-| 2023-03-31 | 4.76 | - | 1,936 |
+| 2023-03-31 | 4.76 | - | 1,962 |
+| 2023-04-01 | 4.76 | - | 1,979 |
+| 2023-04-02 | 4.76 | - | 1,996 |
+| 2023-04-03 | 4.76 | - | 1,996 |
+| 2023-04-04 | 4.76 | - | 2,003 |
+| 2023-04-05 | 4.76 | - | 2,033 |
+| 2023-04-06 | 4.76 | - | 2,063 |
+| 2023-04-07 | 4.76 | - | 2,104 |
+| 2023-04-08 | 4.76 | - | 2,150 |
+| 2023-04-09 | 4.76 | - | 2,170 |
+| 2023-04-10 | 4.76 | - | 2,191 |
+| 2023-04-11 | 4.76 | - | 2,205 |
+| 2023-04-12 | 4.76 | - | 2,224 |
+| 2023-04-13 | 4.76 | - | 2,240 |
+| 2023-04-14 | 4.76 | - | 2,261 |
+| 2023-04-15 | 4.76 | - | 2,289 |
+| 2023-04-16 | 4.76 | - | 2,318 |
+| 2023-04-17 | 4.76 | - | 2,336 |
+| 2023-04-18 | 4.76 | - | 2,336 |

@@ -1,21 +1,21 @@
 # Tom Clancy’s Rainbow Six® Extraction Standard Edition
-Rating: 4.52 (Ranked 495)  
+Rating: 4.52 (Ranked 498)  
 Number of Ratings: 635  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 135  (Ranked 284)  
-Sum: 956 (Ranked 226)  
-Diff (max vs sum): 58
+Max (Diverse Characters): 142  (Ranked 281)  
+Sum: 987 (Ranked 226)  
+Diff (max vs sum): 55
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Diverse Characters | 135 |
-| This game has Quickly Understood Controls | 131 |
-| This game is Relaxing | 125 |
-| This game is Highly Recommended | 125 |
-| This game has Amazing Characters | 119 |
-| This game has Challenging Combat | 111 |
-| This game is Extremely Fun | 110 |
-| This game has Amazing Storytelling | 100 |
+| This game has Diverse Characters | 142 |
+| This game has Quickly Understood Controls | 133 |
+| This game is Relaxing | 128 |
+| This game is Highly Recommended | 127 |
+| This game has Amazing Characters | 125 |
+| This game has Challenging Combat | 114 |
+| This game is Extremely Fun | 113 |
+| This game has Amazing Storytelling | 105 |
 | This game has a Competitive Community | 28 |
 | This game has Realistic Visuals | 20 |
 ## Ratings History
@@ -109,3 +109,17 @@ Diff (max vs sum): 58
 | 2023-02-20 | 4.52 | - | - |
 | 2023-02-21 | 4.53 | - | - |
 | 2023-03-13 | 4.52 | - | - |
+| 2023-04-01 | 4.52 | - | 135 |
+| 2023-04-03 | 4.52 | - | 135 |
+| 2023-04-04 | 4.52 | - | 135 |
+| 2023-04-05 | 4.52 | - | 136 |
+| 2023-04-06 | 4.52 | - | 136 |
+| 2023-04-07 | 4.52 | - | 138 |
+| 2023-04-08 | 4.52 | - | 140 |
+| 2023-04-10 | 4.52 | - | 140 |
+| 2023-04-11 | 4.52 | - | 140 |
+| 2023-04-14 | 4.52 | - | 141 |
+| 2023-04-15 | 4.52 | - | 141 |
+| 2023-04-16 | 4.52 | - | 141 |
+| 2023-04-17 | 4.52 | - | 142 |
+| 2023-04-18 | 4.52 | - | 142 |

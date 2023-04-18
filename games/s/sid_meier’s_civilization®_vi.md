@@ -1,23 +1,23 @@
 # Sid Meier’s Civilization® VI
-Rating: 4.73 (Ranked 155)  
+Rating: 4.74 (Ranked 141)  
 Number of Ratings: 57,866  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 28,284  (Ranked 13)  
-Sum: 235,619 (Ranked 10)  
-Diff (max vs sum): 3
+Max (Diverse Characters): 29,449  (Ranked 13)  
+Sum: 244,380 (Ranked 11)  
+Diff (max vs sum): 2
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Diverse Characters | 28,284 |
-| This game is Educational | 26,114 |
-| This game is Relaxing | 25,027 |
-| This game is Highly Recommended | 24,947 |
-| This game is Extremely Fun | 24,437 |
-| This game has Quickly Understood Controls | 24,268 |
-| This game has Competitive Players | 23,379 |
-| This game has Amazing Characters | 21,569 |
-| This game has Amazing Storytelling | 20,834 |
-| This game has a Creative Community | 16,760 |
+| This game has Diverse Characters | 29,449 |
+| This game is Educational | 27,106 |
+| This game is Relaxing | 26,017 |
+| This game is Highly Recommended | 25,831 |
+| This game is Extremely Fun | 25,305 |
+| This game has Quickly Understood Controls | 25,152 |
+| This game has Competitive Players | 24,254 |
+| This game has Amazing Characters | 22,336 |
+| This game has Amazing Storytelling | 21,567 |
+| This game has a Creative Community | 17,363 |
 | This game has Obsessive Gameplay | 15,734 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -91,3 +91,21 @@ Diff (max vs sum): 3
 | 2022-09-28 | 4.74 | - | - |
 | 2022-09-30 | 4.73 | - | - |
 | 2023-03-31 | 4.73 | - | 28,284 |
+| 2023-04-01 | 4.73 | - | 28,360 |
+| 2023-04-02 | 4.73 | - | 28,435 |
+| 2023-04-03 | 4.73 | - | 28,522 |
+| 2023-04-04 | 4.73 | - | 28,582 |
+| 2023-04-05 | 4.73 | - | 28,639 |
+| 2023-04-06 | 4.74 | - | 28,692 |
+| 2023-04-07 | 4.74 | - | 28,774 |
+| 2023-04-08 | 4.74 | - | 28,844 |
+| 2023-04-09 | 4.74 | - | 28,931 |
+| 2023-04-10 | 4.74 | - | 29,001 |
+| 2023-04-11 | 4.74 | - | 29,064 |
+| 2023-04-12 | 4.74 | - | 29,134 |
+| 2023-04-13 | 4.74 | - | 29,181 |
+| 2023-04-14 | 4.74 | - | 29,232 |
+| 2023-04-15 | 4.74 | - | 29,298 |
+| 2023-04-16 | 4.74 | - | 29,380 |
+| 2023-04-17 | 4.74 | - | 29,449 |
+| 2023-04-18 | 4.74 | - | 29,449 |

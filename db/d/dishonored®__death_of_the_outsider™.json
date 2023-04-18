@@ -2,15 +2,15 @@
   "ID": "87c84bc5f43d4fe69ad8f3ccde0594b0",
   "Name": "Dishonored\u00AE: Death of the Outsider\u2122",
   "Rating": 4.43,
-  "Ranking_Rating": 622,
-  "Ranking_Popularity": 473,
-  "Ranking_PopularitySum": 473,
-  "NumberOfAwards": 20,
-  "NumberOfAwardsMax": 20,
+  "Ranking_Rating": 629,
+  "Ranking_Popularity": 465,
+  "Ranking_PopularitySum": 373,
+  "NumberOfAwards": 147,
+  "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-12-15T22:58:09.2323476+00:00",
   "FirstSeenRating": "2022-12-26T17:58:45.352902+00:00",
-  "LastChanged": "2023-03-14T19:00:33.5342123+00:00",
+  "LastChanged": "2023-04-17T17:58:31.338113+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-26T17:58:45.3529025+00:00",
@@ -155,6 +155,90 @@
     {
       "Time": "2023-03-14T19:00:33.5342125+00:00",
       "Rating": 4.43
+    },
+    {
+      "Time": "2023-04-03T17:59:07.5294436+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 21,
+      "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2023-04-03T21:58:30.0326888+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 41,
+      "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2023-04-05T01:41:06.8835413+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 41,
+      "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2023-04-05T09:58:42.4254767+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 41,
+      "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2023-04-06T05:58:09.0998214+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 42,
+      "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-04-08T14:58:29.352396+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 62,
+      "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-04-09T20:58:16.7424303+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 83,
+      "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-04-10T13:03:50.1667926+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 103,
+      "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-04-10T17:59:31.2813025+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 123,
+      "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-04-12T21:59:26.0813301+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 124,
+      "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-04-14T20:58:17.7280284+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 144,
+      "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-04-16T09:59:16.6019361+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 145,
+      "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-04-16T20:59:39.1955328+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 146,
+      "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-04-17T17:58:31.3381131+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 147,
+      "NumberOfAwardsMax": 22
     }
   ],
   "Tags": [
@@ -168,7 +252,43 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
+      "Count": 22
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 21
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
       "Count": 20
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 22
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 21
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 20
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 21
     }
   ]
 }

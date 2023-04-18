@@ -1,15 +1,15 @@
 {
   "ID": "fa234e40c4d44dfa84fbcb302fef0233",
   "Name": "City of Brass",
-  "Rating": 4.23,
-  "Ranking_Rating": 777,
-  "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 478,
+  "Rating": 4.22,
+  "Ranking_Rating": 787,
+  "Ranking_Popularity": 484,
+  "Ranking_PopularitySum": 484,
   "NumberOfRatings": 227,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:29:59.0353728+00:00",
-  "LastChanged": "2023-03-31T05:58:25.5447521+00:00",
+  "LastChanged": "2023-04-14T20:57:59.1564808+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:59.0353731+00:00",
@@ -384,6 +384,12 @@
     {
       "Time": "2023-03-31T05:58:25.5447523+00:00",
       "Rating": 4.23,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-14T20:57:59.1564839+00:00",
+      "Rating": 4.22,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

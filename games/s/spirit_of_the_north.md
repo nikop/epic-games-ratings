@@ -1,9 +1,9 @@
 # Spirit of the North
-Rating: 4.36 (Ranked 691)  
+Rating: 4.36 (Ranked 699)  
 Number of Ratings: 1,175  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Extremely Fun): 25  (Ranked 454)  
-Sum: 72 (Ranked 404)  
+Max (Extremely Fun): 25  (Ranked 457)  
+Sum: 72 (Ranked 407)  
 Diff (max vs sum): 50
 ## Awards
 | Award | Number of Ratings |

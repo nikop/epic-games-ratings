@@ -1,22 +1,22 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
-Rating: 4.58 (Ranked 400)  
+Rating: 4.58 (Ranked 406)  
 Number of Ratings: 371  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 199  (Ranked 253)  
-Sum: 402 (Ranked 292)  
-Diff (max vs sum): -39
+Max (Character Customization): 201  (Ranked 252)  
+Sum: 408 (Ranked 293)  
+Diff (max vs sum): -41
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 199 |
+| This game has Inclusive Character Customization | 201 |
 | This game has Amazing Storytelling | 29 |
 | This game is Extremely Fun | 28 |
 | This game is Highly Recommended | 28 |
-| This game has Amazing Characters | 25 |
+| This game has Amazing Characters | 27 |
+| This game has Competitive Players | 25 |
 | This game has Challenging Combat | 25 |
-| This game has Competitive Players | 24 |
 | This game has Diverse Characters | 23 |
-| This game is Relaxing | 21 |
+| This game is Relaxing | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -80,3 +80,8 @@ Diff (max vs sum): -39
 | 2022-12-17 | 4.58 | - | - |
 | 2022-12-20 | 4.59 | - | - |
 | 2023-03-06 | 4.58 | - | - |
+| 2023-04-01 | 4.58 | - | 199 |
+| 2023-04-06 | 4.58 | - | 200 |
+| 2023-04-12 | 4.58 | - | 201 |
+| 2023-04-15 | 4.58 | - | 201 |
+| 2023-04-16 | 4.58 | - | 201 |

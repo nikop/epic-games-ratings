@@ -2,15 +2,15 @@
   "ID": "f698d5d792654ac99f47d67e93916bef",
   "Name": "Century: Age of Ashes",
   "Rating": 4.42,
-  "Ranking_Rating": 630,
-  "Ranking_Popularity": 369,
-  "Ranking_PopularitySum": 277,
+  "Ranking_Rating": 635,
+  "Ranking_Popularity": 371,
+  "Ranking_PopularitySum": 280,
   "NumberOfRatings": 1747,
-  "NumberOfAwards": 562,
-  "NumberOfAwardsMax": 58,
+  "NumberOfAwards": 569,
+  "NumberOfAwardsMax": 59,
   "MaxAwardTitle": "Competitive Players",
   "FirstSeen": "2022-07-22T20:17:28.564577+00:00",
-  "LastChanged": "2023-01-28T22:57:03.6583837+00:00",
+  "LastChanged": "2023-04-14T14:57:03.1638691+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:28.5645774+00:00",
@@ -1085,6 +1085,42 @@
     {
       "Time": "2023-01-28T22:57:03.6583887+00:00",
       "Rating": 4.42
+    },
+    {
+      "Time": "2023-04-02T01:57:39.144927+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 563,
+      "NumberOfAwardsMax": 58
+    },
+    {
+      "Time": "2023-04-02T06:57:10.7942569+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 564,
+      "NumberOfAwardsMax": 58
+    },
+    {
+      "Time": "2023-04-04T22:56:58.3936263+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 565,
+      "NumberOfAwardsMax": 58
+    },
+    {
+      "Time": "2023-04-06T07:57:11.951935+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 566,
+      "NumberOfAwardsMax": 58
+    },
+    {
+      "Time": "2023-04-08T14:57:06.330295+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 567,
+      "NumberOfAwardsMax": 59
+    },
+    {
+      "Time": "2023-04-14T14:57:03.1638813+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 569,
+      "NumberOfAwardsMax": 59
     }
   ],
   "Tags": [
@@ -1092,7 +1128,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game is Relaxing",
@@ -1104,13 +1140,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 51
+      "Count": 52
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1134,25 +1170,25 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 58
+      "Count": 59
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 49
+      "Count": 50
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 53
+      "Count": 54
     }
   ]
 }

@@ -1,26 +1,26 @@
 # FINAL FANTASY VII REMAKE INTERGRADE
-Rating: 4.85 (Ranked 38)  
+Rating: 4.85 (Ranked 37)  
 Number of Ratings: 15,120  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 5,430  (Ranked 57)  
-Sum: 11,910 (Ranked 68)  
-Diff (max vs sum): -11
+Max (Character Customization): 5,442  (Ranked 58)  
+Sum: 11,939 (Ranked 70)  
+Diff (max vs sum): -12
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 5,430 |
-| This game has Great Boss Battles | 3,660 |
-| This game has Amazing Storytelling | 315 |
-| This game is Extremely Fun | 307 |
-| This game has Amazing Characters | 306 |
+| This game has Inclusive Character Customization | 5,442 |
+| This game has Great Boss Battles | 3,664 |
+| This game has Amazing Storytelling | 317 |
+| This game is Extremely Fun | 310 |
+| This game has Amazing Characters | 308 |
 | This game is Relaxing | 300 |
 | This game is Highly Recommended | 296 |
-| This game has Quickly Understood Controls | 295 |
-| This game is Great for Beginners | 292 |
+| This game has Quickly Understood Controls | 296 |
+| This game is Great for Beginners | 294 |
 | This game has Obsessive Gameplay | 284 |
 | This game has Diverse Characters | 284 |
-| This game has Beautiful Visuals | 273 |
-| This game has a Creative Community | 152 |
+| This game has Beautiful Visuals | 274 |
+| This game has a Creative Community | 154 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -88,3 +88,17 @@ Diff (max vs sum): -11
 | 2022-09-21 | 4.85 | 15,075 | - |
 | 2022-09-22 | 4.85 | 15,096 | - |
 | 2022-09-23 | 4.85 | 15,120 | - |
+| 2023-04-01 | 4.85 | - | 5,430 |
+| 2023-04-03 | 4.85 | - | 5,430 |
+| 2023-04-04 | 4.85 | - | 5,432 |
+| 2023-04-05 | 4.85 | - | 5,433 |
+| 2023-04-06 | 4.85 | - | 5,435 |
+| 2023-04-07 | 4.85 | - | 5,435 |
+| 2023-04-08 | 4.85 | - | 5,435 |
+| 2023-04-09 | 4.85 | - | 5,435 |
+| 2023-04-10 | 4.85 | - | 5,438 |
+| 2023-04-11 | 4.85 | - | 5,440 |
+| 2023-04-13 | 4.85 | - | 5,440 |
+| 2023-04-14 | 4.85 | - | 5,440 |
+| 2023-04-15 | 4.85 | - | 5,442 |
+| 2023-04-16 | 4.85 | - | 5,442 |

@@ -1,22 +1,22 @@
 # Tom Clancy's Rainbow Six® Siege
-Rating: 4.57 (Ranked 419)  
+Rating: 4.57 (Ranked 422)  
 Number of Ratings: 8,669  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 1,677  (Ranked 108)  
-Sum: 13,690 (Ranked 61)  
-Diff (max vs sum): 47
+Max (Diverse Characters): 1,682  (Ranked 108)  
+Sum: 13,726 (Ranked 64)  
+Diff (max vs sum): 44
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Diverse Characters | 1,677 |
-| This game has Competitive Players | 1,610 |
-| This game has Amazing Characters | 1,576 |
-| This game is Extremely Fun | 1,545 |
-| This game is Highly Recommended | 1,540 |
-| This game has Challenging Combat | 1,511 |
-| This game has Quickly Understood Controls | 1,497 |
-| This game has Amazing Storytelling | 1,411 |
-| This game has a Competitive Community | 1,323 |
+| This game has Diverse Characters | 1,682 |
+| This game has Competitive Players | 1,615 |
+| This game has Amazing Characters | 1,578 |
+| This game is Extremely Fun | 1,553 |
+| This game is Highly Recommended | 1,546 |
+| This game has Challenging Combat | 1,513 |
+| This game has Quickly Understood Controls | 1,502 |
+| This game has Amazing Storytelling | 1,413 |
+| This game has a Competitive Community | 1,324 |
 | This game has Obsessive Gameplay | 1,220 |
 | This game has Realistic Visuals | 695 |
 ## Ratings History
@@ -93,3 +93,18 @@ Diff (max vs sum): 47
 | 2023-03-10 | 4.58 | - | - |
 | 2023-03-14 | 4.58 | - | - |
 | 2023-03-15 | 4.57 | - | - |
+| 2023-03-31 | 4.57 | - | 1,678 |
+| 2023-04-01 | 4.57 | - | 1,678 |
+| 2023-04-02 | 4.57 | - | 1,678 |
+| 2023-04-03 | 4.57 | - | 1,678 |
+| 2023-04-05 | 4.57 | - | 1,679 |
+| 2023-04-06 | 4.57 | - | 1,680 |
+| 2023-04-07 | 4.57 | - | 1,680 |
+| 2023-04-08 | 4.57 | - | 1,680 |
+| 2023-04-09 | 4.57 | - | 1,680 |
+| 2023-04-10 | 4.57 | - | 1,680 |
+| 2023-04-11 | 4.57 | - | 1,680 |
+| 2023-04-12 | 4.57 | - | 1,680 |
+| 2023-04-13 | 4.57 | - | 1,680 |
+| 2023-04-14 | 4.57 | - | 1,681 |
+| 2023-04-16 | 4.57 | - | 1,682 |

@@ -1,23 +1,23 @@
 # The Sims™ 4
-Rating: 4.58 (Ranked 400)  
+Rating: 4.59 (Ranked 389)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 63  (Ranked 361)  
-Sum: 413 (Ranked 288)  
-Diff (max vs sum): 73
+Max (Diverse Characters): 91  (Ranked 328)  
+Sum: 616 (Ranked 272)  
+Diff (max vs sum): 56
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 63 |
-| This game has Diverse Characters | 61 |
-| This game has a Creative Community | 40 |
-| This game is Highly Recommended | 37 |
-| This game has Amazing Characters | 36 |
-| This game has Quickly Understood Controls | 35 |
-| This game is Educational | 34 |
-| This game is Extremely Fun | 33 |
-| This game has Amazing Storytelling | 28 |
-| This game is Relaxing | 26 |
-| This game has Easy Combat | 20 |
+| This game has Diverse Characters | 91 |
+| This game is Great for Beginners | 89 |
+| This game has a Creative Community | 56 |
+| This game is Educational | 55 |
+| This game has Quickly Understood Controls | 53 |
+| This game is Extremely Fun | 52 |
+| This game is Highly Recommended | 47 |
+| This game has Amazing Storytelling | 45 |
+| This game is Relaxing | 45 |
+| This game has Amazing Characters | 44 |
+| This game has Easy Combat | 39 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -55,3 +55,21 @@ Diff (max vs sum): 73
 | 2023-03-19 | 4.56 | - | - |
 | 2023-03-23 | 4.57 | - | - |
 | 2023-03-25 | 4.58 | - | - |
+| 2023-03-31 | 4.58 | - | 63 |
+| 2023-04-01 | 4.58 | - | 65 |
+| 2023-04-02 | 4.58 | - | 67 |
+| 2023-04-03 | 4.58 | - | 70 |
+| 2023-04-04 | 4.58 | - | 70 |
+| 2023-04-05 | 4.58 | - | 70 |
+| 2023-04-06 | 4.58 | - | 71 |
+| 2023-04-07 | 4.58 | - | 71 |
+| 2023-04-08 | 4.58 | - | 73 |
+| 2023-04-09 | 4.58 | - | 78 |
+| 2023-04-10 | 4.58 | - | 78 |
+| 2023-04-11 | 4.59 | - | 81 |
+| 2023-04-12 | 4.59 | - | 84 |
+| 2023-04-13 | 4.59 | - | 85 |
+| 2023-04-14 | 4.59 | - | 85 |
+| 2023-04-15 | 4.59 | - | 89 |
+| 2023-04-16 | 4.59 | - | 89 |
+| 2023-04-17 | 4.59 | - | 91 |

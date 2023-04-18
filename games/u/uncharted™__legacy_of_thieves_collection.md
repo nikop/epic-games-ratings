@@ -1,22 +1,22 @@
 # UNCHARTED™: Legacy of Thieves Collection
 Rating: 4.74 (Ranked 141)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 568  (Ranked 164)  
-Sum: 830 (Ranked 237)  
+Max (Great Boss Battles): 575  (Ranked 164)  
+Sum: 845 (Ranked 237)  
 Diff (max vs sum): -73
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 568 |
-| This game has Diverse Characters | 36 |
-| This game has Amazing Characters | 33 |
+| This game has Great Boss Battles | 575 |
+| This game has Diverse Characters | 37 |
+| This game has Amazing Characters | 34 |
+| This game is Extremely Fun | 33 |
+| This game is Relaxing | 33 |
 | This game is Highly Recommended | 32 |
-| This game is Extremely Fun | 32 |
-| This game is Relaxing | 32 |
-| This game is Great for Beginners | 27 |
+| This game is Great for Beginners | 29 |
 | This game has Quickly Understood Controls | 25 |
 | This game has Amazing Storytelling | 25 |
-| This game has a Creative Community | 20 |
+| This game has a Creative Community | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -57,3 +57,14 @@ Diff (max vs sum): -73
 | 2023-02-10 | 4.74 | - | - |
 | 2023-03-04 | 4.75 | - | - |
 | 2023-03-26 | 4.74 | - | - |
+| 2023-04-01 | 4.74 | - | 568 |
+| 2023-04-02 | 4.74 | - | 568 |
+| 2023-04-04 | 4.74 | - | 569 |
+| 2023-04-07 | 4.74 | - | 570 |
+| 2023-04-08 | 4.74 | - | 570 |
+| 2023-04-09 | 4.74 | - | 571 |
+| 2023-04-12 | 4.74 | - | 572 |
+| 2023-04-13 | 4.74 | - | 573 |
+| 2023-04-14 | 4.74 | - | 575 |
+| 2023-04-16 | 4.74 | - | 575 |
+| 2023-04-17 | 4.74 | - | 575 |

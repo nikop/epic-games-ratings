@@ -1,10 +1,10 @@
 # Ghostbusters: The Video Game Remastered
-Rating: 4.46 (Ranked 578)  
+Rating: 4.46 (Ranked 582)  
 Number of Ratings: 418  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 105  (Ranked 307)  
-Sum: 105 (Ranked 387)  
-Diff (max vs sum): -80
+Max (Great Boss Battles): 105  (Ranked 308)  
+Sum: 105 (Ranked 389)  
+Diff (max vs sum): -81
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

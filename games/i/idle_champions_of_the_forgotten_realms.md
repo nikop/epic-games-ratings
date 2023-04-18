@@ -1,20 +1,20 @@
 # Idle Champions of the Forgotten Realms
-Rating: 4.05 (Ranked 853)  
+Rating: 4.06 (Ranked 858)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 4,800  (Ranked 60)  
-Sum: 29,473 (Ranked 34)  
-Diff (max vs sum): 26
+Max (Diverse Characters): 4,837  (Ranked 61)  
+Sum: 29,657 (Ranked 37)  
+Diff (max vs sum): 24
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Diverse Characters | 4,800 |
-| This game is Great for Beginners | 4,720 |
-| This game has Quickly Understood Controls | 4,543 |
-| This game is Relaxing | 4,440 |
-| This game has Amazing Characters | 3,895 |
-| This game is Highly Recommended | 3,887 |
-| This game has Playful Visuals | 3,188 |
+| This game has Diverse Characters | 4,837 |
+| This game is Great for Beginners | 4,762 |
+| This game has Quickly Understood Controls | 4,565 |
+| This game is Relaxing | 4,462 |
+| This game has Amazing Characters | 3,914 |
+| This game is Highly Recommended | 3,908 |
+| This game has Playful Visuals | 3,209 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -83,3 +83,21 @@ Diff (max vs sum): 26
 | 2022-09-22 | 4.04 | 9,028 | - |
 | 2022-09-23 | 4.04 | 9,041 | - |
 | 2022-09-30 | 4.05 | - | - |
+| 2023-03-31 | 4.05 | - | 4,803 |
+| 2023-04-01 | 4.06 | - | 4,803 |
+| 2023-04-02 | 4.06 | - | 4,806 |
+| 2023-04-03 | 4.06 | - | 4,807 |
+| 2023-04-04 | 4.06 | - | 4,807 |
+| 2023-04-05 | 4.06 | - | 4,811 |
+| 2023-04-06 | 4.06 | - | 4,814 |
+| 2023-04-07 | 4.06 | - | 4,814 |
+| 2023-04-08 | 4.06 | - | 4,820 |
+| 2023-04-09 | 4.06 | - | 4,821 |
+| 2023-04-10 | 4.06 | - | 4,823 |
+| 2023-04-11 | 4.06 | - | 4,826 |
+| 2023-04-12 | 4.06 | - | 4,828 |
+| 2023-04-13 | 4.06 | - | 4,828 |
+| 2023-04-14 | 4.06 | - | 4,834 |
+| 2023-04-15 | 4.06 | - | 4,837 |
+| 2023-04-16 | 4.06 | - | 4,837 |
+| 2023-04-18 | 4.06 | - | 4,837 |

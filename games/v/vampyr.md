@@ -1,10 +1,10 @@
 # Vampyr
-Rating: 4.32 (Ranked 726)  
+Rating: 4.32 (Ranked 731)  
 Number of Ratings: 5,106  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 545  (Ranked 169)  
-Sum: 733 (Ranked 248)  
-Diff (max vs sum): -79
+Max (Great Boss Battles): 545  (Ranked 171)  
+Sum: 733 (Ranked 249)  
+Diff (max vs sum): -78
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

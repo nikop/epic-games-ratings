@@ -1,9 +1,9 @@
 # Submerged: Hidden Depths
-Rating: 4.24 (Ranked 770)  
+Rating: 4.24 (Ranked 776)  
 Number of Ratings: 2,582  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 45  (Ranked 387)  
-Sum: 319 (Ranked 311)  
+Max (Great for Beginners): 45  (Ranked 391)  
+Sum: 321 (Ranked 315)  
 Diff (max vs sum): 76
 ## Awards
 | Award | Number of Ratings |
@@ -13,9 +13,9 @@ Diff (max vs sum): 76
 | This game has Beautiful Visuals | 37 |
 | This game is Highly Recommended | 36 |
 | This game has Quickly Understood Controls | 35 |
-| This game is Extremely Fun | 33 |
+| This game is Extremely Fun | 34 |
+| This game has Amazing Storytelling | 33 |
 | This game has Amazing Characters | 33 |
-| This game has Amazing Storytelling | 32 |
 | This game has Easy Combat | 27 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -44,3 +44,5 @@ Diff (max vs sum): 76
 | 2022-09-23 | 4.26 | 2,582 | - |
 | 2022-09-24 | 4.25 | - | - |
 | 2022-11-06 | 4.24 | - | - |
+| 2023-04-03 | 4.24 | - | 45 |
+| 2023-04-13 | 4.24 | - | 45 |

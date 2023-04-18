@@ -1,22 +1,22 @@
 # Cities: Skylines
-Rating: 4.65 (Ranked 290)  
+Rating: 4.65 (Ranked 286)  
 Number of Ratings: 25,248  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 4,167  (Ranked 67)  
-Sum: 31,963 (Ranked 31)  
+Max (Great for Beginners): 4,295  (Ranked 68)  
+Sum: 32,793 (Ranked 32)  
 Diff (max vs sum): 36
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 4,167 |
-| This game is Relaxing | 4,154 |
-| This game has Quickly Understood Controls | 3,923 |
-| This game is Educational | 3,905 |
-| This game is Extremely Fun | 3,709 |
-| This game is Highly Recommended | 3,575 |
-| This game has Amazing Storytelling | 3,038 |
-| This game has a Creative Community | 2,866 |
-| This game has Amazing Characters | 2,626 |
+| This game is Great for Beginners | 4,295 |
+| This game is Relaxing | 4,285 |
+| This game has Quickly Understood Controls | 4,013 |
+| This game is Educational | 4,011 |
+| This game is Extremely Fun | 3,788 |
+| This game is Highly Recommended | 3,659 |
+| This game has Amazing Storytelling | 3,121 |
+| This game has a Creative Community | 2,940 |
+| This game has Amazing Characters | 2,681 |
 | This game has Obsessive Gameplay | 2,497 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -85,4 +85,21 @@ Diff (max vs sum): 36
 | 2022-09-21 | 4.65 | 24,962 | - |
 | 2022-09-22 | 4.65 | 25,139 | - |
 | 2022-09-23 | 4.65 | 25,248 | - |
-| 2023-03-31 | 4.65 | - | 4,167 |
+| 2023-03-31 | 4.65 | - | 4,172 |
+| 2023-04-01 | 4.65 | - | 4,185 |
+| 2023-04-02 | 4.65 | - | 4,195 |
+| 2023-04-03 | 4.65 | - | 4,195 |
+| 2023-04-04 | 4.65 | - | 4,201 |
+| 2023-04-05 | 4.65 | - | 4,210 |
+| 2023-04-06 | 4.65 | - | 4,219 |
+| 2023-04-07 | 4.65 | - | 4,229 |
+| 2023-04-08 | 4.65 | - | 4,238 |
+| 2023-04-09 | 4.65 | - | 4,238 |
+| 2023-04-10 | 4.65 | - | 4,245 |
+| 2023-04-11 | 4.65 | - | 4,251 |
+| 2023-04-12 | 4.65 | - | 4,259 |
+| 2023-04-13 | 4.65 | - | 4,268 |
+| 2023-04-14 | 4.65 | - | 4,268 |
+| 2023-04-15 | 4.65 | - | 4,277 |
+| 2023-04-16 | 4.65 | - | 4,283 |
+| 2023-04-17 | 4.65 | - | 4,295 |

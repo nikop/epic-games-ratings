@@ -2,16 +2,16 @@
   "ID": "3b54815f8aed41bda7b2c4a97ef0a762",
   "Name": "Blankos Block Party",
   "Rating": 4.21,
-  "Ranking_Rating": 786,
-  "Ranking_Popularity": 441,
-  "Ranking_PopularitySum": 370,
+  "Ranking_Rating": 790,
+  "Ranking_Popularity": 442,
+  "Ranking_PopularitySum": 359,
   "NumberOfRatings": 27,
-  "NumberOfAwards": 147,
-  "NumberOfAwardsMax": 28,
+  "NumberOfAwards": 171,
+  "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-09-15T18:02:36.8331612+00:00",
   "FirstSeenRating": "2022-09-21T21:02:42.6156669+00:00",
-  "LastChanged": "2023-03-25T20:57:38.3836518+00:00",
+  "LastChanged": "2023-04-09T23:58:35.4142439+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-21T21:02:42.6156673+00:00",
@@ -327,6 +327,24 @@
     {
       "Time": "2023-03-25T20:57:38.383652+00:00",
       "Rating": 4.21
+    },
+    {
+      "Time": "2023-04-03T05:58:46.3634653+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 148,
+      "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2023-04-08T16:58:01.0220709+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 150,
+      "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2023-04-09T23:58:35.414244+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 171,
+      "NumberOfAwardsMax": 29
     }
   ],
   "Tags": [
@@ -334,7 +352,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Highly Recommended",
@@ -346,7 +364,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Competitive Players",
@@ -364,7 +382,13 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 22
+      "Count": 24
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 20
     }
   ]
 }

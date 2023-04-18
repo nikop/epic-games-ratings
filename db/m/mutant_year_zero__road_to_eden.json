@@ -2,15 +2,15 @@
   "ID": "4756b80eb0f74d45b77922e54052cfed",
   "Name": "Mutant Year Zero: Road to Eden",
   "Rating": 4.49,
-  "Ranking_Rating": 537,
-  "Ranking_Popularity": 162,
+  "Ranking_Rating": 541,
+  "Ranking_Popularity": 161,
   "Ranking_PopularitySum": 234,
   "NumberOfRatings": 2052,
-  "NumberOfAwards": 853,
-  "NumberOfAwardsMax": 600,
+  "NumberOfAwards": 860,
+  "NumberOfAwardsMax": 607,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:27:31.3944406+00:00",
-  "LastChanged": "2022-11-28T13:58:09.2210694+00:00",
+  "LastChanged": "2023-04-16T11:58:11.9415266+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:31.3944409+00:00",
@@ -994,6 +994,42 @@
     {
       "Time": "2022-11-28T13:58:09.2210698+00:00",
       "Rating": 4.49
+    },
+    {
+      "Time": "2023-04-01T08:58:09.5805206+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 855,
+      "NumberOfAwardsMax": 602
+    },
+    {
+      "Time": "2023-04-02T19:58:17.3255757+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 856,
+      "NumberOfAwardsMax": 603
+    },
+    {
+      "Time": "2023-04-04T16:58:30.534203+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 857,
+      "NumberOfAwardsMax": 604
+    },
+    {
+      "Time": "2023-04-12T01:57:23.4502172+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 858,
+      "NumberOfAwardsMax": 605
+    },
+    {
+      "Time": "2023-04-13T04:57:48.9840997+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 859,
+      "NumberOfAwardsMax": 606
+    },
+    {
+      "Time": "2023-04-16T11:58:11.9415268+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 860,
+      "NumberOfAwardsMax": 607
     }
   ],
   "Tags": [
@@ -1001,7 +1037,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 600
+      "Count": 607
     },
     {
       "Text": "This game has Amazing Characters",

@@ -1,24 +1,24 @@
 # Sifu
-Rating: 4.81 (Ranked 67)  
+Rating: 4.82 (Ranked 60)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 5,764  (Ranked 52)  
-Sum: 9,655 (Ranked 78)  
-Diff (max vs sum): -26
+Max (Great Boss Battles): 5,940  (Ranked 53)  
+Sum: 10,010 (Ranked 77)  
+Diff (max vs sum): -24
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 5,764 |
-| This game has Quickly Understood Controls | 465 |
-| This game is Extremely Fun | 462 |
-| This game has Challenging Combat | 461 |
-| This game has Diverse Characters | 458 |
-| This game has Amazing Storytelling | 447 |
-| This game is Highly Recommended | 444 |
-| This game has Amazing Characters | 425 |
-| This game has Unique Visuals | 419 |
+| This game has Great Boss Battles | 5,940 |
+| This game has Challenging Combat | 486 |
+| This game has Diverse Characters | 485 |
+| This game has Quickly Understood Controls | 484 |
+| This game is Extremely Fun | 475 |
+| This game has Amazing Storytelling | 474 |
+| This game is Highly Recommended | 456 |
+| This game has Amazing Characters | 446 |
+| This game has Unique Visuals | 435 |
 | This game is Relaxing | 401 |
-| This game has a Creative Community | 310 |
+| This game has a Creative Community | 329 |
 | This game has Obsessive Gameplay | 293 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -98,3 +98,21 @@ Diff (max vs sum): -26
 | 2022-12-15 | 4.80 | - | - |
 | 2022-12-16 | 4.81 | - | - |
 | 2023-03-31 | 4.81 | - | 5,764 |
+| 2023-04-01 | 4.81 | - | 5,779 |
+| 2023-04-02 | 4.81 | - | 5,793 |
+| 2023-04-03 | 4.81 | - | 5,802 |
+| 2023-04-04 | 4.81 | - | 5,802 |
+| 2023-04-05 | 4.81 | - | 5,816 |
+| 2023-04-06 | 4.81 | - | 5,829 |
+| 2023-04-07 | 4.82 | - | 5,838 |
+| 2023-04-08 | 4.82 | - | 5,854 |
+| 2023-04-09 | 4.82 | - | 5,868 |
+| 2023-04-10 | 4.82 | - | 5,876 |
+| 2023-04-11 | 4.82 | - | 5,886 |
+| 2023-04-12 | 4.82 | - | 5,890 |
+| 2023-04-13 | 4.82 | - | 5,898 |
+| 2023-04-14 | 4.82 | - | 5,909 |
+| 2023-04-15 | 4.82 | - | 5,920 |
+| 2023-04-16 | 4.82 | - | 5,920 |
+| 2023-04-17 | 4.82 | - | 5,933 |
+| 2023-04-18 | 4.82 | - | 5,940 |

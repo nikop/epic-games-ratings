@@ -1,20 +1,20 @@
 # Rogue Company
-Rating: 4.35 (Ranked 701)  
+Rating: 4.34 (Ranked 715)  
 Number of Ratings: 21,107  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 4,732  (Ranked 61)  
-Sum: 30,101 (Ranked 33)  
-Diff (max vs sum): 28
+Max (Diverse Characters): 4,797  (Ranked 62)  
+Sum: 30,425 (Ranked 36)  
+Diff (max vs sum): 26
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Diverse Characters | 4,732 |
-| This game has Competitive Players | 4,552 |
-| This game is Extremely Fun | 4,405 |
-| This game has Quickly Understood Controls | 4,397 |
-| This game is Highly Recommended | 4,291 |
-| This game has Amazing Characters | 4,276 |
-| This game has a Competitive Community | 3,448 |
+| This game has Diverse Characters | 4,797 |
+| This game has Competitive Players | 4,592 |
+| This game is Extremely Fun | 4,449 |
+| This game has Quickly Understood Controls | 4,438 |
+| This game is Highly Recommended | 4,336 |
+| This game has Amazing Characters | 4,318 |
+| This game has a Competitive Community | 3,495 |
 | This game is Great for Quick Sessions | 2,812 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -84,3 +84,21 @@ Diff (max vs sum): 28
 | 2022-09-22 | 4.36 | 21,048 | - |
 | 2022-09-23 | 4.36 | 21,107 | - |
 | 2023-01-10 | 4.35 | - | - |
+| 2023-03-31 | 4.35 | - | 4,732 |
+| 2023-04-01 | 4.35 | - | 4,736 |
+| 2023-04-02 | 4.35 | - | 4,740 |
+| 2023-04-03 | 4.35 | - | 4,745 |
+| 2023-04-04 | 4.35 | - | 4,745 |
+| 2023-04-05 | 4.35 | - | 4,750 |
+| 2023-04-06 | 4.35 | - | 4,753 |
+| 2023-04-07 | 4.35 | - | 4,760 |
+| 2023-04-08 | 4.34 | - | 4,764 |
+| 2023-04-09 | 4.34 | - | 4,767 |
+| 2023-04-10 | 4.34 | - | 4,774 |
+| 2023-04-11 | 4.34 | - | 4,774 |
+| 2023-04-12 | 4.34 | - | 4,781 |
+| 2023-04-13 | 4.34 | - | 4,785 |
+| 2023-04-14 | 4.34 | - | 4,788 |
+| 2023-04-15 | 4.34 | - | 4,788 |
+| 2023-04-16 | 4.34 | - | 4,794 |
+| 2023-04-17 | 4.34 | - | 4,797 |

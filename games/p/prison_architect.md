@@ -1,22 +1,22 @@
 # Prison Architect
-Rating: 4.61 (Ranked 349)  
+Rating: 4.61 (Ranked 350)  
 Number of Ratings: 4,491  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Extremely Fun): 389  (Ranked 194)  
-Sum: 3,073 (Ranked 143)  
-Diff (max vs sum): 51
+Max (Extremely Fun): 401  (Ranked 192)  
+Sum: 3,148 (Ranked 143)  
+Diff (max vs sum): 49
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Extremely Fun | 389 |
-| This game is Highly Recommended | 379 |
-| This game is Great for Beginners | 368 |
-| This game has Quickly Understood Controls | 364 |
-| This game is Relaxing | 346 |
-| This game has Amazing Storytelling | 336 |
-| This game has Diverse Characters | 334 |
-| This game has Amazing Characters | 309 |
-| This game has a Creative Community | 248 |
+| This game is Extremely Fun | 401 |
+| This game is Highly Recommended | 387 |
+| This game is Great for Beginners | 382 |
+| This game has Quickly Understood Controls | 374 |
+| This game is Relaxing | 351 |
+| This game has Amazing Storytelling | 344 |
+| This game has Diverse Characters | 341 |
+| This game has Amazing Characters | 316 |
+| This game has a Creative Community | 252 |
 | This game has Obsessive Gameplay | 234 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -92,3 +92,21 @@ Diff (max vs sum): 51
 | 2023-03-01 | 4.60 | - | - |
 | 2023-03-11 | 4.60 | - | - |
 | 2023-03-16 | 4.61 | - | - |
+| 2023-03-31 | 4.61 | - | 392 |
+| 2023-04-01 | 4.61 | - | 392 |
+| 2023-04-02 | 4.61 | - | 393 |
+| 2023-04-03 | 4.61 | - | 393 |
+| 2023-04-04 | 4.61 | - | 393 |
+| 2023-04-05 | 4.61 | - | 396 |
+| 2023-04-06 | 4.61 | - | 396 |
+| 2023-04-07 | 4.61 | - | 397 |
+| 2023-04-08 | 4.61 | - | 397 |
+| 2023-04-09 | 4.61 | - | 397 |
+| 2023-04-10 | 4.61 | - | 397 |
+| 2023-04-11 | 4.61 | - | 397 |
+| 2023-04-12 | 4.61 | - | 397 |
+| 2023-04-13 | 4.61 | - | 397 |
+| 2023-04-14 | 4.61 | - | 397 |
+| 2023-04-15 | 4.61 | - | 398 |
+| 2023-04-16 | 4.61 | - | 401 |
+| 2023-04-17 | 4.61 | - | 401 |

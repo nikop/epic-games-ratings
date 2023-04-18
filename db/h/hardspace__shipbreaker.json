@@ -1,16 +1,16 @@
 {
   "ID": "0208da63c74542c99e8a0837e4e688c3",
   "Name": "Hardspace: Shipbreaker",
-  "Rating": 4.64,
-  "Ranking_Rating": 306,
-  "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 478,
+  "Rating": 4.65,
+  "Ranking_Rating": 286,
+  "Ranking_Popularity": 484,
+  "Ranking_PopularitySum": 484,
   "NumberOfRatings": 36,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:30:23.1372862+00:00",
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
-  "LastChanged": "2023-03-31T05:58:20.4673812+00:00",
+  "LastChanged": "2023-04-03T02:58:25.0664634+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-27T18:32:02.5218042+00:00",
@@ -242,6 +242,12 @@
     {
       "Time": "2023-03-31T05:58:20.4673816+00:00",
       "Rating": 4.64,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-03T02:58:25.0664636+00:00",
+      "Rating": 4.65,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

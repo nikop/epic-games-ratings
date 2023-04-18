@@ -2,22 +2,22 @@
 Rating: 4.74 (Ranked 141)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 6,297  (Ranked 45)  
-Sum: 12,402 (Ranked 65)  
-Diff (max vs sum): -20
+Max (Character Customization): 6,398  (Ranked 49)  
+Sum: 12,676 (Ranked 67)  
+Diff (max vs sum): -18
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 6,297 |
-| This game is Great for Beginners | 746 |
-| This game has Diverse Characters | 745 |
-| This game is Highly Recommended | 731 |
-| This game is Extremely Fun | 689 |
-| This game has Amazing Storytelling | 686 |
-| This game is Relaxing | 683 |
-| This game has Quickly Understood Controls | 677 |
-| This game has Amazing Characters | 671 |
-| This game has a Creative Community | 477 |
+| This game has Inclusive Character Customization | 6,398 |
+| This game has Diverse Characters | 774 |
+| This game is Great for Beginners | 773 |
+| This game is Highly Recommended | 744 |
+| This game has Amazing Storytelling | 708 |
+| This game is Extremely Fun | 704 |
+| This game has Quickly Understood Controls | 700 |
+| This game is Relaxing | 694 |
+| This game has Amazing Characters | 688 |
+| This game has a Creative Community | 493 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
 ## Ratings History
@@ -99,3 +99,20 @@ Diff (max vs sum): -20
 | 2023-03-14 | 4.75 | - | - |
 | 2023-03-20 | 4.74 | - | - |
 | 2023-03-31 | 4.74 | - | 6,297 |
+| 2023-04-01 | 4.74 | - | 6,300 |
+| 2023-04-02 | 4.74 | - | 6,308 |
+| 2023-04-03 | 4.74 | - | 6,308 |
+| 2023-04-04 | 4.74 | - | 6,313 |
+| 2023-04-05 | 4.74 | - | 6,317 |
+| 2023-04-06 | 4.74 | - | 6,324 |
+| 2023-04-07 | 4.74 | - | 6,330 |
+| 2023-04-08 | 4.74 | - | 6,338 |
+| 2023-04-09 | 4.74 | - | 6,350 |
+| 2023-04-10 | 4.74 | - | 6,355 |
+| 2023-04-11 | 4.74 | - | 6,362 |
+| 2023-04-12 | 4.74 | - | 6,362 |
+| 2023-04-13 | 4.74 | - | 6,370 |
+| 2023-04-14 | 4.74 | - | 6,377 |
+| 2023-04-15 | 4.74 | - | 6,380 |
+| 2023-04-16 | 4.74 | - | 6,387 |
+| 2023-04-17 | 4.74 | - | 6,398 |

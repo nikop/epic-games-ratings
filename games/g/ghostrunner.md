@@ -1,20 +1,20 @@
 # Ghostrunner
-Rating: 4.72 (Ranked 167)  
+Rating: 4.72 (Ranked 164)  
 Number of Ratings: 1,047  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 445  (Ranked 184)  
-Sum: 575 (Ranked 274)  
-Diff (max vs sum): -90
+Max (Great Boss Battles): 450  (Ranked 186)  
+Sum: 582 (Ranked 278)  
+Diff (max vs sum): -92
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 445 |
+| This game has Great Boss Battles | 450 |
 | This game has Diverse Characters | 24 |
-| This game has Amazing Characters | 23 |
+| This game has Amazing Characters | 24 |
 | This game has a Creative Community | 22 |
 | This game is Relaxing | 21 |
+| This game has Challenging Combat | 21 |
 | This game is Extremely Fun | 20 |
-| This game has Challenging Combat | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -105,3 +105,8 @@ Diff (max vs sum): -90
 | 2022-11-13 | 4.71 | - | - |
 | 2022-11-24 | 4.71 | - | - |
 | 2022-11-28 | 4.72 | - | - |
+| 2023-04-01 | 4.72 | - | 446 |
+| 2023-04-07 | 4.72 | - | 447 |
+| 2023-04-09 | 4.72 | - | 448 |
+| 2023-04-12 | 4.72 | - | 449 |
+| 2023-04-15 | 4.72 | - | 450 |

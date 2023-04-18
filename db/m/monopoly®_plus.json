@@ -1,15 +1,15 @@
 {
   "ID": "7061cd389bdc4c068910da67cd8e154c",
   "Name": "MONOPOLY\u00AE PLUS",
-  "Rating": 3.92,
-  "Ranking_Rating": 875,
-  "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 478,
+  "Rating": 3.93,
+  "Ranking_Rating": 880,
+  "Ranking_Popularity": 484,
+  "Ranking_PopularitySum": 484,
   "NumberOfRatings": 142,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:30:40.4652835+00:00",
-  "LastChanged": "2023-03-31T05:58:30.6797096+00:00",
+  "LastChanged": "2023-04-07T11:58:01.2317912+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:40.4652838+00:00",
@@ -372,6 +372,12 @@
     {
       "Time": "2023-03-31T05:58:30.6797097+00:00",
       "Rating": 3.92,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-07T11:58:01.2317916+00:00",
+      "Rating": 3.93,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

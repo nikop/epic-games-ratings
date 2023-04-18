@@ -1,15 +1,15 @@
 {
   "ID": "2c8de17b8e2d4d908b63eaf751b639a3",
   "Name": "Deponia Doomsday",
-  "Rating": 4.58,
-  "Ranking_Rating": 400,
-  "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 478,
+  "Rating": 4.56,
+  "Ranking_Rating": 439,
+  "Ranking_Popularity": 484,
+  "Ranking_PopularitySum": 484,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-30T17:02:29.7644171+00:00",
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
-  "LastChanged": "2023-03-31T05:58:38.73541+00:00",
+  "LastChanged": "2023-04-17T16:58:11.036869+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-15T13:33:12.9761112+00:00",
@@ -42,6 +42,12 @@
     {
       "Time": "2023-03-31T05:58:38.7354103+00:00",
       "Rating": 4.58,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-17T16:58:11.0368692+00:00",
+      "Rating": 4.56,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

@@ -2,15 +2,15 @@
   "ID": "ae373893881044d2bf26d6f8363a120e",
   "Name": "Supraland",
   "Rating": 4.61,
-  "Ranking_Rating": 349,
-  "Ranking_Popularity": 37,
-  "Ranking_PopularitySum": 77,
+  "Ranking_Rating": 350,
+  "Ranking_Popularity": 39,
+  "Ranking_PopularitySum": 78,
   "NumberOfRatings": 25175,
-  "NumberOfAwards": 9855,
-  "NumberOfAwardsMax": 7591,
+  "NumberOfAwards": 9872,
+  "NumberOfAwardsMax": 7597,
   "MaxAwardTitle": "Challenging Puzzles",
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
-  "LastChanged": "2022-09-23T14:30:42.6986681+00:00",
+  "LastChanged": "2023-04-17T18:57:18.3000357+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:49.3012081+00:00",
@@ -2106,6 +2106,102 @@
       "Time": "2022-09-23T14:30:42.6986682+00:00",
       "Rating": 4.61,
       "NumberOfRatings": 25175
+    },
+    {
+      "Time": "2023-03-31T14:57:09.5450398+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 9856,
+      "NumberOfAwardsMax": 7591
+    },
+    {
+      "Time": "2023-04-01T05:57:20.4960325+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 9857,
+      "NumberOfAwardsMax": 7592
+    },
+    {
+      "Time": "2023-04-02T14:57:05.2056025+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 9859,
+      "NumberOfAwardsMax": 7594
+    },
+    {
+      "Time": "2023-04-02T16:57:07.1515251+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 9860,
+      "NumberOfAwardsMax": 7594
+    },
+    {
+      "Time": "2023-04-04T17:57:24.3449463+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 9861,
+      "NumberOfAwardsMax": 7595
+    },
+    {
+      "Time": "2023-04-06T10:57:17.8965342+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 9862,
+      "NumberOfAwardsMax": 7595
+    },
+    {
+      "Time": "2023-04-07T15:57:23.2124486+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 9863,
+      "NumberOfAwardsMax": 7595
+    },
+    {
+      "Time": "2023-04-08T13:00:19.0139073+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 9864,
+      "NumberOfAwardsMax": 7595
+    },
+    {
+      "Time": "2023-04-08T18:57:15.2625526+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 9865,
+      "NumberOfAwardsMax": 7596
+    },
+    {
+      "Time": "2023-04-08T19:57:12.2211959+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 9866,
+      "NumberOfAwardsMax": 7596
+    },
+    {
+      "Time": "2023-04-11T09:57:29.2352875+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 9867,
+      "NumberOfAwardsMax": 7596
+    },
+    {
+      "Time": "2023-04-11T15:57:19.0253572+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 9868,
+      "NumberOfAwardsMax": 7596
+    },
+    {
+      "Time": "2023-04-14T18:57:07.2567209+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 9869,
+      "NumberOfAwardsMax": 7596
+    },
+    {
+      "Time": "2023-04-15T13:00:33.1167375+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 9870,
+      "NumberOfAwardsMax": 7596
+    },
+    {
+      "Time": "2023-04-15T15:57:23.5505137+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 9871,
+      "NumberOfAwardsMax": 7596
+    },
+    {
+      "Time": "2023-04-17T18:57:18.3000357+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 9872,
+      "NumberOfAwardsMax": 7597
     }
   ],
   "Tags": [
@@ -2113,13 +2209,13 @@
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 7591
+      "Count": 7597
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 268
+      "Count": 271
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2131,7 +2227,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 272
+      "Count": 273
     },
     {
       "Text": "This game is Educational",
@@ -2143,13 +2239,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 250
+      "Count": 252
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 263
+      "Count": 265
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2161,13 +2257,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 260
+      "Count": 261
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 229
+      "Count": 231
     },
     {
       "Text": "This game has a Creative Community",

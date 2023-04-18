@@ -1,24 +1,24 @@
 # Honkai Impact 3rd
-Rating: 4.49 (Ranked 537)  
+Rating: 4.49 (Ranked 541)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 1,995  (Ranked 100)  
-Sum: 6,325 (Ranked 108)  
-Diff (max vs sum): -8
+Max (Character Customization): 2,165  (Ranked 97)  
+Sum: 7,059 (Ranked 100)  
+Diff (max vs sum): -3
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 1,995 |
-| This game has Great Boss Battles | 1,436 |
-| This game is Great for Quick Sessions | 330 |
-| This game has Diverse Characters | 318 |
-| This game is Great for Beginners | 308 |
-| This game is Highly Recommended | 296 |
-| This game has Amazing Characters | 291 |
-| This game has Beautiful Visuals | 290 |
-| This game is Extremely Fun | 275 |
-| This game has Quickly Understood Controls | 271 |
-| This game has Amazing Storytelling | 261 |
-| This game is Relaxing | 254 |
+| This game has Inclusive Character Customization | 2,165 |
+| This game has Great Boss Battles | 1,579 |
+| This game is Great for Quick Sessions | 379 |
+| This game has Diverse Characters | 365 |
+| This game is Great for Beginners | 348 |
+| This game is Highly Recommended | 339 |
+| This game has Amazing Characters | 336 |
+| This game has Beautiful Visuals | 329 |
+| This game has Quickly Understood Controls | 324 |
+| This game is Extremely Fun | 310 |
+| This game has Amazing Storytelling | 309 |
+| This game is Relaxing | 276 |
 | This game has Challenging Combat | 28 |
 | This game has a Kind Community | 22 |
 ## Ratings History
@@ -63,4 +63,21 @@ Diff (max vs sum): -8
 | 2023-03-01 | 4.48 | - | - |
 | 2023-03-22 | 4.49 | - | - |
 | 2023-03-23 | 4.49 | - | - |
-| 2023-03-31 | 4.49 | - | 1,995 |
+| 2023-03-31 | 4.49 | - | 2,009 |
+| 2023-04-01 | 4.49 | - | 2,016 |
+| 2023-04-02 | 4.49 | - | 2,016 |
+| 2023-04-03 | 4.49 | - | 2,027 |
+| 2023-04-04 | 4.49 | - | 2,035 |
+| 2023-04-05 | 4.49 | - | 2,044 |
+| 2023-04-06 | 4.49 | - | 2,058 |
+| 2023-04-07 | 4.49 | - | 2,078 |
+| 2023-04-08 | 4.49 | - | 2,082 |
+| 2023-04-09 | 4.49 | - | 2,090 |
+| 2023-04-10 | 4.49 | - | 2,097 |
+| 2023-04-11 | 4.49 | - | 2,110 |
+| 2023-04-12 | 4.49 | - | 2,110 |
+| 2023-04-13 | 4.49 | - | 2,125 |
+| 2023-04-14 | 4.49 | - | 2,135 |
+| 2023-04-15 | 4.49 | - | 2,146 |
+| 2023-04-16 | 4.49 | - | 2,155 |
+| 2023-04-17 | 4.49 | - | 2,165 |

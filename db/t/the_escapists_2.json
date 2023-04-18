@@ -2,15 +2,15 @@
   "ID": "115577f4ef1e4055aaf0da534fdfe81e",
   "Name": "The Escapists 2",
   "Rating": 4.58,
-  "Ranking_Rating": 400,
-  "Ranking_Popularity": 376,
-  "Ranking_PopularitySum": 294,
+  "Ranking_Rating": 406,
+  "Ranking_Popularity": 378,
+  "Ranking_PopularitySum": 295,
   "NumberOfRatings": 1941,
-  "NumberOfAwards": 389,
+  "NumberOfAwards": 393,
   "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:22:06.6335859+00:00",
-  "LastChanged": "2023-01-28T19:57:39.2010539+00:00",
+  "LastChanged": "2023-04-16T09:57:38.2022143+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:06.6335861+00:00",
@@ -879,6 +879,30 @@
     {
       "Time": "2023-01-28T19:57:39.201054+00:00",
       "Rating": 4.58
+    },
+    {
+      "Time": "2023-03-31T17:58:21.1401421+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 390,
+      "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-04-03T14:57:44.2495142+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 391,
+      "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-04-13T17:57:40.593173+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 392,
+      "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-04-16T09:57:38.2022145+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 393,
+      "NumberOfAwardsMax": 50
     }
   ],
   "Tags": [
@@ -904,7 +928,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game is Relaxing",
@@ -928,13 +952,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 31
+      "Count": 33
     },
     {
       "Text": "This game is Great for Quick Sessions",

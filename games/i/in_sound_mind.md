@@ -1,9 +1,9 @@
 # In Sound Mind
-Rating: 4.60 (Ranked 374)  
+Rating: 4.60 (Ranked 375)  
 Number of Ratings: 1,937  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Extremely Fun): 62  (Ranked 363)  
-Sum: 336 (Ranked 306)  
+Max (Extremely Fun): 62  (Ranked 367)  
+Sum: 337 (Ranked 310)  
 Diff (max vs sum): 57
 ## Awards
 | Award | Number of Ratings |
@@ -11,7 +11,7 @@ Diff (max vs sum): 57
 | This game is Extremely Fun | 62 |
 | This game has Amazing Characters | 59 |
 | This game is Highly Recommended | 53 |
-| This game has Quickly Understood Controls | 50 |
+| This game has Quickly Understood Controls | 51 |
 | This game has Amazing Storytelling | 44 |
 | This game has Unique Visuals | 43 |
 | This game has Obsessive Gameplay | 36 |
@@ -93,3 +93,4 @@ Diff (max vs sum): 57
 | 2022-12-05 | 4.60 | - | - |
 | 2022-12-06 | 4.59 | - | - |
 | 2022-12-07 | 4.60 | - | - |
+| 2023-04-12 | 4.60 | - | 62 |

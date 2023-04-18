@@ -1,16 +1,16 @@
 # The Walking Dead : The Definitive Series
-Rating: 4.86 (Ranked 32)  
+Rating: 4.86 (Ranked 29)  
 Number of Ratings: 663  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Impact the Story): 445  (Ranked 184)  
-Sum: 606 (Ranked 269)  
-Diff (max vs sum): -85
+Max (Impact the Story): 451  (Ranked 185)  
+Sum: 613 (Ranked 273)  
+Diff (max vs sum): -88
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| In this game, your choices Impact the Story | 445 |
+| In this game, your choices Impact the Story | 451 |
 | This game has Amazing Storytelling | 33 |
-| This game has Diverse Characters | 30 |
+| This game has Diverse Characters | 31 |
 | This game is Extremely Fun | 28 |
 | This game is Highly Recommended | 25 |
 | This game is Great for Beginners | 25 |
@@ -90,3 +90,9 @@ Diff (max vs sum): -85
 | 2022-11-29 | 4.87 | - | - |
 | 2022-12-01 | 4.86 | - | - |
 | 2023-03-31 | 4.86 | - | 445 |
+| 2023-04-06 | 4.86 | - | 446 |
+| 2023-04-09 | 4.86 | - | 448 |
+| 2023-04-10 | 4.86 | - | 448 |
+| 2023-04-12 | 4.86 | - | 449 |
+| 2023-04-15 | 4.86 | - | 450 |
+| 2023-04-16 | 4.86 | - | 451 |

@@ -1,21 +1,21 @@
 # World War Z Aftermath
-Rating: 4.56 (Ranked 436)  
+Rating: 4.56 (Ranked 439)  
 Number of Ratings: 17,073  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 3,561  (Ranked 76)  
-Sum: 24,709 (Ranked 46)  
+Max (Great for Beginners): 3,716  (Ranked 76)  
+Sum: 25,335 (Ranked 46)  
 Diff (max vs sum): 30
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 3,561 |
-| This game has Diverse Characters | 3,214 |
-| This game is Relaxing | 3,142 |
-| This game is Highly Recommended | 3,065 |
-| This game has Quickly Understood Controls | 3,047 |
-| This game is Extremely Fun | 3,006 |
-| This game has Amazing Storytelling | 2,862 |
-| This game has Amazing Characters | 2,812 |
+| This game is Great for Beginners | 3,716 |
+| This game has Diverse Characters | 3,312 |
+| This game is Relaxing | 3,196 |
+| This game is Highly Recommended | 3,136 |
+| This game has Quickly Understood Controls | 3,097 |
+| This game is Extremely Fun | 3,066 |
+| This game has Amazing Storytelling | 2,934 |
+| This game has Amazing Characters | 2,878 |
 | This game has Obsessive Gameplay | 552 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -95,4 +95,22 @@ Diff (max vs sum): 30
 | 2022-11-10 | 4.56 | - | - |
 | 2022-11-11 | 4.56 | - | - |
 | 2022-11-12 | 4.56 | - | - |
-| 2023-03-31 | 4.56 | - | 3,561 |
+| 2023-03-31 | 4.56 | - | 3,573 |
+| 2023-04-01 | 4.56 | - | 3,583 |
+| 2023-04-02 | 4.56 | - | 3,583 |
+| 2023-04-03 | 4.56 | - | 3,598 |
+| 2023-04-04 | 4.56 | - | 3,606 |
+| 2023-04-05 | 4.56 | - | 3,614 |
+| 2023-04-06 | 4.56 | - | 3,625 |
+| 2023-04-07 | 4.56 | - | 3,636 |
+| 2023-04-08 | 4.56 | - | 3,649 |
+| 2023-04-09 | 4.56 | - | 3,655 |
+| 2023-04-10 | 4.56 | - | 3,655 |
+| 2023-04-11 | 4.56 | - | 3,668 |
+| 2023-04-12 | 4.56 | - | 3,681 |
+| 2023-04-13 | 4.56 | - | 3,690 |
+| 2023-04-14 | 4.56 | - | 3,695 |
+| 2023-04-15 | 4.56 | - | 3,701 |
+| 2023-04-16 | 4.56 | - | 3,712 |
+| 2023-04-17 | 4.56 | - | 3,716 |
+| 2023-04-18 | 4.56 | - | 3,716 |

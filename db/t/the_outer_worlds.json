@@ -2,15 +2,15 @@
   "ID": "rosemallow",
   "Name": "The Outer Worlds",
   "Rating": 4.63,
-  "Ranking_Rating": 320,
+  "Ranking_Rating": 326,
   "Ranking_Popularity": 107,
-  "Ranking_PopularitySum": 137,
+  "Ranking_PopularitySum": 138,
   "NumberOfRatings": 2487,
-  "NumberOfAwards": 3498,
-  "NumberOfAwardsMax": 1717,
+  "NumberOfAwards": 3522,
+  "NumberOfAwardsMax": 1725,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:25:45.1874412+00:00",
-  "LastChanged": "2022-10-02T05:01:56.7427194+00:00",
+  "LastChanged": "2023-04-15T14:58:18.6610107+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:45.1874414+00:00",
@@ -1730,6 +1730,132 @@
     {
       "Time": "2022-10-02T05:01:56.7427197+00:00",
       "Rating": 4.63
+    },
+    {
+      "Time": "2023-03-31T22:58:02.7675632+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3499,
+      "NumberOfAwardsMax": 1717
+    },
+    {
+      "Time": "2023-03-31T23:58:07.1022731+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3500,
+      "NumberOfAwardsMax": 1717
+    },
+    {
+      "Time": "2023-04-01T10:58:24.4539096+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3501,
+      "NumberOfAwardsMax": 1717
+    },
+    {
+      "Time": "2023-04-02T18:58:06.718093+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3502,
+      "NumberOfAwardsMax": 1718
+    },
+    {
+      "Time": "2023-04-03T01:53:26.4698049+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3503,
+      "NumberOfAwardsMax": 1718
+    },
+    {
+      "Time": "2023-04-03T18:58:41.5266001+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3505,
+      "NumberOfAwardsMax": 1720
+    },
+    {
+      "Time": "2023-04-03T23:58:03.7356196+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3506,
+      "NumberOfAwardsMax": 1720
+    },
+    {
+      "Time": "2023-04-04T03:57:58.7619077+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3507,
+      "NumberOfAwardsMax": 1720
+    },
+    {
+      "Time": "2023-04-04T22:58:01.8971448+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3508,
+      "NumberOfAwardsMax": 1720
+    },
+    {
+      "Time": "2023-04-05T17:57:37.1776298+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3509,
+      "NumberOfAwardsMax": 1720
+    },
+    {
+      "Time": "2023-04-07T02:23:31.847509+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3510,
+      "NumberOfAwardsMax": 1720
+    },
+    {
+      "Time": "2023-04-07T10:57:34.5781683+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3511,
+      "NumberOfAwardsMax": 1720
+    },
+    {
+      "Time": "2023-04-08T16:57:48.0352824+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3513,
+      "NumberOfAwardsMax": 1721
+    },
+    {
+      "Time": "2023-04-09T01:58:01.9501909+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3514,
+      "NumberOfAwardsMax": 1721
+    },
+    {
+      "Time": "2023-04-09T18:58:15.0323437+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3515,
+      "NumberOfAwardsMax": 1721
+    },
+    {
+      "Time": "2023-04-10T08:58:47.9796832+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3516,
+      "NumberOfAwardsMax": 1722
+    },
+    {
+      "Time": "2023-04-12T01:57:09.6931276+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3518,
+      "NumberOfAwardsMax": 1724
+    },
+    {
+      "Time": "2023-04-12T17:57:59.8579406+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3519,
+      "NumberOfAwardsMax": 1724
+    },
+    {
+      "Time": "2023-04-13T01:55:05.1526575+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3520,
+      "NumberOfAwardsMax": 1725
+    },
+    {
+      "Time": "2023-04-14T07:58:05.5200471+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3521,
+      "NumberOfAwardsMax": 1725
+    },
+    {
+      "Time": "2023-04-15T14:58:18.6610108+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3522,
+      "NumberOfAwardsMax": 1725
     }
   ],
   "Tags": [
@@ -1737,7 +1863,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1717
+      "Count": 1725
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1749,37 +1875,37 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 222
+      "Count": 224
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 226
+      "Count": 228
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 193
+      "Count": 194
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 199
+      "Count": 200
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 208
+      "Count": 213
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 205
+      "Count": 206
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1791,13 +1917,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 202
+      "Count": 205
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 107
+      "Count": 108
     },
     {
       "Text": "This game has Easy Combat",

@@ -2,15 +2,15 @@
   "ID": "413361d2d5db4912ac2dfbcf27a38141",
   "Name": "Ooblets",
   "Rating": 4.87,
-  "Ranking_Rating": 24,
-  "Ranking_Popularity": 131,
+  "Ranking_Rating": 25,
+  "Ranking_Popularity": 132,
   "Ranking_PopularitySum": 194,
   "NumberOfRatings": 1446,
-  "NumberOfAwards": 1772,
-  "NumberOfAwardsMax": 991,
+  "NumberOfAwards": 1777,
+  "NumberOfAwardsMax": 995,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:27:49.4319987+00:00",
-  "LastChanged": "2022-10-13T18:31:56.498218+00:00",
+  "LastChanged": "2023-04-14T16:57:50.5063555+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:49.4319989+00:00",
@@ -1119,6 +1119,36 @@
     {
       "Time": "2022-10-13T18:31:56.4982183+00:00",
       "Rating": 4.87
+    },
+    {
+      "Time": "2023-04-03T22:57:51.7113878+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1773,
+      "NumberOfAwardsMax": 992
+    },
+    {
+      "Time": "2023-04-07T17:57:57.6149963+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1774,
+      "NumberOfAwardsMax": 993
+    },
+    {
+      "Time": "2023-04-09T20:57:47.6465027+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1775,
+      "NumberOfAwardsMax": 994
+    },
+    {
+      "Time": "2023-04-13T20:57:49.7530738+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1776,
+      "NumberOfAwardsMax": 994
+    },
+    {
+      "Time": "2023-04-14T16:57:50.5063556+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1777,
+      "NumberOfAwardsMax": 995
     }
   ],
   "Tags": [
@@ -1126,7 +1156,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 991
+      "Count": 995
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1192,7 +1222,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 69
+      "Count": 70
     },
     {
       "Text": "This game has a Kind Community",

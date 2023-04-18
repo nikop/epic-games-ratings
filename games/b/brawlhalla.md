@@ -1,24 +1,24 @@
 # Brawlhalla
-Rating: 4.55 (Ranked 456)  
+Rating: 4.56 (Ranked 439)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 53  (Ranked 374)  
-Sum: 509 (Ranked 283)  
-Diff (max vs sum): 91
+Max (Great for Beginners): 73  (Ranked 346)  
+Sum: 711 (Ranked 254)  
+Diff (max vs sum): 92
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Diverse Characters | 53 |
-| This game has Competitive Players | 52 |
-| This game is Great for Beginners | 51 |
-| This game is Great for Quick Sessions | 47 |
-| This game is Extremely Fun | 46 |
-| This game is Relaxing | 42 |
-| This game has Challenging Combat | 40 |
-| This game has Amazing Storytelling | 40 |
-| This game has Quickly Understood Controls | 38 |
-| This game is Highly Recommended | 37 |
-| This game has Amazing Characters | 34 |
-| This game has a Competitive Community | 29 |
+| This game is Great for Beginners | 73 |
+| This game has Diverse Characters | 72 |
+| This game is Great for Quick Sessions | 67 |
+| This game has Competitive Players | 64 |
+| This game has Quickly Understood Controls | 64 |
+| This game is Relaxing | 59 |
+| This game is Highly Recommended | 58 |
+| This game is Extremely Fun | 57 |
+| This game has Amazing Characters | 55 |
+| This game has Challenging Combat | 53 |
+| This game has Amazing Storytelling | 49 |
+| This game has a Competitive Community | 40 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -89,3 +89,21 @@ Diff (max vs sum): 91
 | 2023-03-27 | 4.56 | - | - |
 | 2023-03-30 | 4.55 | - | - |
 | 2023-03-31 | 4.55 | - | 53 |
+| 2023-04-01 | 4.56 | - | 57 |
+| 2023-04-02 | 4.56 | - | 60 |
+| 2023-04-03 | 4.56 | - | 62 |
+| 2023-04-04 | 4.56 | - | 62 |
+| 2023-04-05 | 4.55 | - | 63 |
+| 2023-04-06 | 4.55 | - | 63 |
+| 2023-04-07 | 4.55 | - | 63 |
+| 2023-04-08 | 4.55 | - | 64 |
+| 2023-04-09 | 4.55 | - | 64 |
+| 2023-04-10 | 4.55 | - | 65 |
+| 2023-04-11 | 4.55 | - | 67 |
+| 2023-04-12 | 4.56 | - | 67 |
+| 2023-04-13 | 4.56 | - | 68 |
+| 2023-04-14 | 4.56 | - | 71 |
+| 2023-04-15 | 4.56 | - | 72 |
+| 2023-04-16 | 4.56 | - | 73 |
+| 2023-04-17 | 4.56 | - | 73 |
+| 2023-04-18 | 4.56 | - | 73 |

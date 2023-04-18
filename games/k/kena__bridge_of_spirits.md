@@ -1,23 +1,23 @@
 # Kena: Bridge of Spirits
-Rating: 4.70 (Ranked 194)  
+Rating: 4.70 (Ranked 191)  
 Number of Ratings: 3,313  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 1,284  (Ranked 116)  
-Sum: 1,652 (Ranked 199)  
-Diff (max vs sum): -83
+Max (Great Boss Battles): 1,294  (Ranked 117)  
+Sum: 1,664 (Ranked 198)  
+Diff (max vs sum): -81
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 1,284 |
+| This game has Great Boss Battles | 1,294 |
 | This game is Relaxing | 53 |
 | This game is Highly Recommended | 44 |
 | This game has Amazing Storytelling | 41 |
 | This game is Extremely Fun | 39 |
-| This game has Amazing Characters | 37 |
+| This game has Amazing Characters | 38 |
 | This game has Quickly Understood Controls | 35 |
 | This game has Diverse Characters | 34 |
+| This game has Challenging Combat | 34 |
 | This game has Beautiful Visuals | 33 |
-| This game has Challenging Combat | 33 |
 | This game is Great for Beginners | 29 |
 | This game is Educational | 29 |
 | This game has a Kind Community | 24 |
@@ -101,3 +101,11 @@ Diff (max vs sum): -83
 | 2023-03-16 | 4.70 | - | - |
 | 2023-03-17 | 4.69 | - | - |
 | 2023-03-20 | 4.70 | - | - |
+| 2023-04-02 | 4.70 | - | 1,285 |
+| 2023-04-05 | 4.70 | - | 1,289 |
+| 2023-04-06 | 4.70 | - | 1,290 |
+| 2023-04-08 | 4.70 | - | 1,291 |
+| 2023-04-09 | 4.70 | - | 1,291 |
+| 2023-04-10 | 4.70 | - | 1,291 |
+| 2023-04-12 | 4.70 | - | 1,293 |
+| 2023-04-14 | 4.70 | - | 1,294 |

@@ -1,10 +1,10 @@
 # Kingdoms of Amalur: Re-Reckoning
-Rating: 4.55 (Ranked 456)  
+Rating: 4.56 (Ranked 439)  
 Number of Ratings: 137  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 69  (Ranked 350)  
-Sum: 113 (Ranked 383)  
-Diff (max vs sum): -33
+Max (Character Customization): 69  (Ranked 355)  
+Sum: 113 (Ranked 386)  
+Diff (max vs sum): -31
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
@@ -74,3 +74,4 @@ Diff (max vs sum): -33
 | 2023-01-29 | 4.57 | - | - |
 | 2023-02-11 | 4.56 | - | - |
 | 2023-02-22 | 4.55 | - | - |
+| 2023-04-03 | 4.56 | - | 69 |

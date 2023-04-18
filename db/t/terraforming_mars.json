@@ -2,15 +2,15 @@
   "ID": "25d726130e6c4fe68f88e71933bda955",
   "Name": "Terraforming Mars",
   "Rating": 4.54,
-  "Ranking_Rating": 468,
+  "Ranking_Rating": 474,
   "Ranking_Popularity": 180,
   "Ranking_PopularitySum": 144,
   "NumberOfRatings": 2731,
-  "NumberOfAwards": 3016,
-  "NumberOfAwardsMax": 486,
+  "NumberOfAwards": 3031,
+  "NumberOfAwardsMax": 490,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
-  "LastChanged": "2023-03-31T13:10:14.7561957+00:00",
+  "LastChanged": "2023-04-16T20:59:08.3799253+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:50.3990272+00:00",
@@ -1877,6 +1877,84 @@
       "Rating": 4.54,
       "NumberOfAwards": 3016,
       "NumberOfAwardsMax": 486
+    },
+    {
+      "Time": "2023-04-01T06:58:22.2292846+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3017,
+      "NumberOfAwardsMax": 486
+    },
+    {
+      "Time": "2023-04-03T16:58:35.1761708+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3018,
+      "NumberOfAwardsMax": 486
+    },
+    {
+      "Time": "2023-04-03T21:58:08.6150065+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3019,
+      "NumberOfAwardsMax": 487
+    },
+    {
+      "Time": "2023-04-05T18:58:08.4989584+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3021,
+      "NumberOfAwardsMax": 488
+    },
+    {
+      "Time": "2023-04-08T08:58:21.827549+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3022,
+      "NumberOfAwardsMax": 489
+    },
+    {
+      "Time": "2023-04-11T23:58:02.3776339+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3023,
+      "NumberOfAwardsMax": 489
+    },
+    {
+      "Time": "2023-04-12T05:58:07.3457508+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3024,
+      "NumberOfAwardsMax": 489
+    },
+    {
+      "Time": "2023-04-13T06:58:48.2714919+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3025,
+      "NumberOfAwardsMax": 489
+    },
+    {
+      "Time": "2023-04-13T07:58:23.0216257+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3026,
+      "NumberOfAwardsMax": 489
+    },
+    {
+      "Time": "2023-04-14T09:58:32.037806+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3027,
+      "NumberOfAwardsMax": 489
+    },
+    {
+      "Time": "2023-04-15T14:58:46.2532779+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3028,
+      "NumberOfAwardsMax": 489
+    },
+    {
+      "Time": "2023-04-15T15:58:34.3683119+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3029,
+      "NumberOfAwardsMax": 490
+    },
+    {
+      "Time": "2023-04-16T20:59:08.3799258+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3031,
+      "NumberOfAwardsMax": 490
     }
   ],
   "Tags": [
@@ -1884,31 +1962,31 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 473
+      "Count": 476
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 434
+      "Count": 435
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 486
+      "Count": 490
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 432
+      "Count": 436
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 428
+      "Count": 429
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1932,7 +2010,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 226
+      "Count": 228
     }
   ]
 }

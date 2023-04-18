@@ -2,15 +2,15 @@
   "ID": "5fd8f5ae809f46d4b33741cc80d3aef8",
   "Name": "Stranded Deep",
   "Rating": 4.22,
-  "Ranking_Rating": 784,
-  "Ranking_Popularity": 253,
+  "Ranking_Rating": 787,
+  "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 225,
   "NumberOfRatings": 3300,
-  "NumberOfAwards": 995,
-  "NumberOfAwardsMax": 199,
+  "NumberOfAwards": 1006,
+  "NumberOfAwardsMax": 200,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
-  "LastChanged": "2023-03-19T23:58:41.463028+00:00",
+  "LastChanged": "2023-04-17T10:58:44.3346996+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:37.8027765+00:00",
@@ -1838,6 +1838,60 @@
     {
       "Time": "2023-03-19T23:58:41.4630282+00:00",
       "Rating": 4.22
+    },
+    {
+      "Time": "2023-04-01T11:58:33.0327492+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 998,
+      "NumberOfAwardsMax": 199
+    },
+    {
+      "Time": "2023-04-01T19:58:02.0713452+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 999,
+      "NumberOfAwardsMax": 199
+    },
+    {
+      "Time": "2023-04-06T20:58:28.9849911+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1000,
+      "NumberOfAwardsMax": 200
+    },
+    {
+      "Time": "2023-04-07T01:51:51.2085712+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1001,
+      "NumberOfAwardsMax": 200
+    },
+    {
+      "Time": "2023-04-07T03:57:59.6474977+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1002,
+      "NumberOfAwardsMax": 200
+    },
+    {
+      "Time": "2023-04-10T13:03:31.9541311+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1003,
+      "NumberOfAwardsMax": 200
+    },
+    {
+      "Time": "2023-04-14T14:58:57.1395812+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1004,
+      "NumberOfAwardsMax": 200
+    },
+    {
+      "Time": "2023-04-15T19:58:30.5147965+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1005,
+      "NumberOfAwardsMax": 200
+    },
+    {
+      "Time": "2023-04-17T10:58:44.3346998+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1006,
+      "NumberOfAwardsMax": 200
     }
   ],
   "Tags": [
@@ -1845,31 +1899,31 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 199
+      "Count": 200
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 181
+      "Count": 182
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 172
+      "Count": 175
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 187
+      "Count": 190
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 183
+      "Count": 185
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1893,7 +1947,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 73
+      "Count": 74
     },
     {
       "Text": "This game has Obsessive Gameplay",

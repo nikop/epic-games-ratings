@@ -2,15 +2,15 @@
   "ID": "d469e82d91fe4516a00d6566c3d2f8f7",
   "Name": "Going Medieval",
   "Rating": 4.6,
-  "Ranking_Rating": 374,
-  "Ranking_Popularity": 296,
+  "Ranking_Rating": 375,
+  "Ranking_Popularity": 297,
   "Ranking_PopularitySum": 230,
   "NumberOfRatings": 706,
-  "NumberOfAwards": 897,
-  "NumberOfAwardsMax": 116,
+  "NumberOfAwards": 910,
+  "NumberOfAwardsMax": 117,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
-  "LastChanged": "2023-01-23T02:07:00.3529498+00:00",
+  "LastChanged": "2023-04-17T15:58:11.9013876+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:43.3022236+00:00",
@@ -726,6 +726,78 @@
     {
       "Time": "2023-01-23T02:07:00.35295+00:00",
       "Rating": 4.6
+    },
+    {
+      "Time": "2023-04-01T19:57:49.928156+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 898,
+      "NumberOfAwardsMax": 116
+    },
+    {
+      "Time": "2023-04-02T14:57:54.701728+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 899,
+      "NumberOfAwardsMax": 116
+    },
+    {
+      "Time": "2023-04-05T01:40:41.0952775+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 900,
+      "NumberOfAwardsMax": 116
+    },
+    {
+      "Time": "2023-04-06T17:58:07.9902074+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 902,
+      "NumberOfAwardsMax": 116
+    },
+    {
+      "Time": "2023-04-06T20:58:13.7311373+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 903,
+      "NumberOfAwardsMax": 116
+    },
+    {
+      "Time": "2023-04-07T02:58:20.9918718+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 904,
+      "NumberOfAwardsMax": 116
+    },
+    {
+      "Time": "2023-04-08T13:58:08.3704719+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 905,
+      "NumberOfAwardsMax": 116
+    },
+    {
+      "Time": "2023-04-12T05:57:59.1287529+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 906,
+      "NumberOfAwardsMax": 116
+    },
+    {
+      "Time": "2023-04-13T09:57:47.5152005+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 907,
+      "NumberOfAwardsMax": 116
+    },
+    {
+      "Time": "2023-04-13T23:57:52.1927662+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 908,
+      "NumberOfAwardsMax": 117
+    },
+    {
+      "Time": "2023-04-15T13:01:18.8016944+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 909,
+      "NumberOfAwardsMax": 117
+    },
+    {
+      "Time": "2023-04-17T15:58:11.9013878+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 910,
+      "NumberOfAwardsMax": 117
     }
   ],
   "Tags": [
@@ -733,7 +805,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 116
+      "Count": 117
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -751,25 +823,25 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 96
+      "Count": 98
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 88
+      "Count": 89
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 102
+      "Count": 105
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 79
+      "Count": 81
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -793,7 +865,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 94
+      "Count": 98
     },
     {
       "Text": "This game has a Creative Community",

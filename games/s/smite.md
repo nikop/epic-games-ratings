@@ -1,22 +1,22 @@
 # SMITE
-Rating: 4.45 (Ranked 592)  
+Rating: 4.45 (Ranked 595)  
 Number of Ratings: 6,749  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 3,550  (Ranked 77)  
-Sum: 22,277 (Ranked 48)  
+Max (Diverse Characters): 3,638  (Ranked 77)  
+Sum: 22,666 (Ranked 48)  
 Diff (max vs sum): 29
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Diverse Characters | 3,550 |
-| This game has Competitive Players | 3,176 |
-| This game has Quickly Understood Controls | 2,934 |
-| This game is Highly Recommended | 2,762 |
-| This game is Extremely Fun | 2,709 |
-| This game has Amazing Characters | 2,649 |
+| This game has Diverse Characters | 3,638 |
+| This game has Competitive Players | 3,221 |
+| This game has Quickly Understood Controls | 2,977 |
+| This game is Highly Recommended | 2,799 |
+| This game is Extremely Fun | 2,754 |
+| This game has Amazing Characters | 2,697 |
 | This game has Obsessive Gameplay | 2,413 |
-| This game has Amazing Storytelling | 2,356 |
-| This game has a Competitive Community | 2,141 |
+| This game has Amazing Storytelling | 2,401 |
+| This game has a Competitive Community | 2,179 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -95,3 +95,21 @@ Diff (max vs sum): 29
 | 2022-11-22 | 4.45 | - | - |
 | 2022-11-23 | 4.45 | - | - |
 | 2023-03-31 | 4.45 | - | 3,550 |
+| 2023-04-01 | 4.45 | - | 3,554 |
+| 2023-04-02 | 4.45 | - | 3,560 |
+| 2023-04-03 | 4.45 | - | 3,568 |
+| 2023-04-04 | 4.45 | - | 3,574 |
+| 2023-04-05 | 4.45 | - | 3,574 |
+| 2023-04-06 | 4.45 | - | 3,582 |
+| 2023-04-07 | 4.45 | - | 3,587 |
+| 2023-04-08 | 4.45 | - | 3,587 |
+| 2023-04-09 | 4.45 | - | 3,592 |
+| 2023-04-10 | 4.45 | - | 3,599 |
+| 2023-04-11 | 4.45 | - | 3,605 |
+| 2023-04-12 | 4.45 | - | 3,607 |
+| 2023-04-13 | 4.45 | - | 3,617 |
+| 2023-04-14 | 4.45 | - | 3,622 |
+| 2023-04-15 | 4.45 | - | 3,629 |
+| 2023-04-16 | 4.45 | - | 3,634 |
+| 2023-04-17 | 4.45 | - | 3,634 |
+| 2023-04-18 | 4.45 | - | 3,638 |

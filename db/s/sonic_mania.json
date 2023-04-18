@@ -2,15 +2,15 @@
   "ID": "45e7cf3c49054f2fb20b673d9b0ae69e",
   "Name": "Sonic Mania",
   "Rating": 4.78,
-  "Ranking_Rating": 99,
+  "Ranking_Rating": 100,
   "Ranking_Popularity": 140,
   "Ranking_PopularitySum": 205,
   "NumberOfRatings": 2185,
-  "NumberOfAwards": 1526,
-  "NumberOfAwardsMax": 901,
+  "NumberOfAwards": 1531,
+  "NumberOfAwardsMax": 903,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:24:14.1875943+00:00",
-  "LastChanged": "2023-03-16T22:57:51.8367113+00:00",
+  "LastChanged": "2023-04-14T16:57:31.6266924+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:14.1875945+00:00",
@@ -1109,6 +1109,36 @@
     {
       "Time": "2023-03-16T22:57:51.8367114+00:00",
       "Rating": 4.78
+    },
+    {
+      "Time": "2023-04-03T16:57:52.0757691+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 1527,
+      "NumberOfAwardsMax": 901
+    },
+    {
+      "Time": "2023-04-07T13:57:46.2214996+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 1528,
+      "NumberOfAwardsMax": 901
+    },
+    {
+      "Time": "2023-04-08T05:58:02.8247869+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 1529,
+      "NumberOfAwardsMax": 902
+    },
+    {
+      "Time": "2023-04-09T11:58:07.0544081+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 1530,
+      "NumberOfAwardsMax": 903
+    },
+    {
+      "Time": "2023-04-14T16:57:31.6266925+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 1531,
+      "NumberOfAwardsMax": 903
     }
   ],
   "Tags": [
@@ -1116,7 +1146,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 901
+      "Count": 903
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1152,7 +1182,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 63
+      "Count": 64
     },
     {
       "Text": "This game has Competitive Players",
@@ -1164,7 +1194,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 68
+      "Count": 69
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1188,7 +1218,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game has a Creative Community",

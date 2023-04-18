@@ -1,21 +1,21 @@
 # theHunter: Call of the Wild™
-Rating: 4.59 (Ranked 388)  
+Rating: 4.59 (Ranked 389)  
 Number of Ratings: 14,635  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 3,062  (Ranked 84)  
-Sum: 22,574 (Ranked 47)  
+Max (Great for Beginners): 3,130  (Ranked 84)  
+Sum: 22,824 (Ranked 47)  
 Diff (max vs sum): 37
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 3,062 |
-| This game is Relaxing | 3,016 |
-| This game is Extremely Fun | 2,852 |
-| This game has Quickly Understood Controls | 2,842 |
-| This game is Educational | 2,819 |
-| This game is Highly Recommended | 2,791 |
-| This game has Amazing Storytelling | 2,768 |
-| This game has Amazing Characters | 2,424 |
+| This game is Great for Beginners | 3,130 |
+| This game is Relaxing | 3,037 |
+| This game is Extremely Fun | 2,875 |
+| This game has Quickly Understood Controls | 2,868 |
+| This game is Educational | 2,850 |
+| This game is Highly Recommended | 2,823 |
+| This game has Amazing Storytelling | 2,792 |
+| This game has Amazing Characters | 2,449 |
 | This game has Obsessive Gameplay | 1,806 |
 | This game has Realistic Visuals | 1,765 |
 ## Ratings History
@@ -96,3 +96,21 @@ Diff (max vs sum): 37
 | 2022-11-09 | 4.58 | - | - |
 | 2022-11-17 | 4.59 | - | - |
 | 2023-03-31 | 4.59 | - | 3,062 |
+| 2023-04-01 | 4.59 | - | 3,063 |
+| 2023-04-02 | 4.59 | - | 3,065 |
+| 2023-04-03 | 4.59 | - | 3,068 |
+| 2023-04-04 | 4.59 | - | 3,073 |
+| 2023-04-05 | 4.59 | - | 3,080 |
+| 2023-04-06 | 4.59 | - | 3,080 |
+| 2023-04-07 | 4.59 | - | 3,092 |
+| 2023-04-08 | 4.59 | - | 3,100 |
+| 2023-04-09 | 4.59 | - | 3,108 |
+| 2023-04-10 | 4.59 | - | 3,110 |
+| 2023-04-11 | 4.59 | - | 3,113 |
+| 2023-04-12 | 4.59 | - | 3,113 |
+| 2023-04-13 | 4.59 | - | 3,119 |
+| 2023-04-14 | 4.59 | - | 3,121 |
+| 2023-04-15 | 4.59 | - | 3,124 |
+| 2023-04-16 | 4.59 | - | 3,126 |
+| 2023-04-17 | 4.59 | - | 3,130 |
+| 2023-04-18 | 4.59 | - | 3,130 |

@@ -1,23 +1,23 @@
 # Borderlands 2
-Rating: 4.76 (Ranked 113)  
+Rating: 4.76 (Ranked 112)  
 Number of Ratings: 13,386  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 13,755  (Ranked 22)  
-Sum: 34,572 (Ranked 29)  
-Diff (max vs sum): -7
+Max (Great Boss Battles): 13,927  (Ranked 23)  
+Sum: 35,016 (Ranked 31)  
+Diff (max vs sum): -8
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 13,755 |
-| This game is Great for Beginners | 2,395 |
-| This game is Extremely Fun | 2,363 |
-| This game has Diverse Characters | 2,350 |
-| This game has Amazing Characters | 2,345 |
-| This game has Amazing Storytelling | 2,331 |
-| This game is Highly Recommended | 2,311 |
-| This game has Quickly Understood Controls | 2,293 |
-| This game is Relaxing | 2,237 |
-| This game has Unique Visuals | 2,192 |
+| This game has Great Boss Battles | 13,927 |
+| This game is Great for Beginners | 2,444 |
+| This game has Diverse Characters | 2,390 |
+| This game is Extremely Fun | 2,386 |
+| This game has Amazing Characters | 2,369 |
+| This game has Amazing Storytelling | 2,368 |
+| This game is Highly Recommended | 2,337 |
+| This game has Quickly Understood Controls | 2,316 |
+| This game is Relaxing | 2,253 |
+| This game has Unique Visuals | 2,226 |
 | This game has Obsessive Gameplay | 1,707 |
 | This game has Challenging Combat | 1,019 |
 ## Ratings History
@@ -110,3 +110,22 @@ Diff (max vs sum): -7
 | 2022-11-30 | 4.76 | - | - |
 | 2022-12-02 | 4.77 | - | - |
 | 2022-12-07 | 4.76 | - | - |
+| 2023-03-31 | 4.76 | - | 13,765 |
+| 2023-04-01 | 4.76 | - | 13,777 |
+| 2023-04-02 | 4.76 | - | 13,777 |
+| 2023-04-03 | 4.76 | - | 13,791 |
+| 2023-04-04 | 4.76 | - | 13,798 |
+| 2023-04-05 | 4.76 | - | 13,806 |
+| 2023-04-06 | 4.76 | - | 13,811 |
+| 2023-04-07 | 4.76 | - | 13,826 |
+| 2023-04-08 | 4.76 | - | 13,841 |
+| 2023-04-09 | 4.76 | - | 13,850 |
+| 2023-04-10 | 4.76 | - | 13,862 |
+| 2023-04-11 | 4.76 | - | 13,862 |
+| 2023-04-12 | 4.76 | - | 13,875 |
+| 2023-04-13 | 4.76 | - | 13,883 |
+| 2023-04-14 | 4.76 | - | 13,899 |
+| 2023-04-15 | 4.76 | - | 13,910 |
+| 2023-04-16 | 4.76 | - | 13,917 |
+| 2023-04-17 | 4.76 | - | 13,927 |
+| 2023-04-18 | 4.76 | - | 13,927 |

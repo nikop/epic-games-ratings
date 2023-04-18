@@ -1,16 +1,16 @@
 {
   "ID": "131e306949034972959ca401ca27837e",
   "Name": "Yooka-Laylee",
-  "Rating": 4.23,
-  "Ranking_Rating": 777,
-  "Ranking_Popularity": 461,
-  "Ranking_PopularitySum": 462,
+  "Rating": 4.24,
+  "Ranking_Rating": 776,
+  "Ranking_Popularity": 465,
+  "Ranking_PopularitySum": 468,
   "NumberOfRatings": 366,
   "NumberOfAwards": 22,
   "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:17:33.9300447+00:00",
-  "LastChanged": "2023-01-11T13:14:50.1767058+00:00",
+  "LastChanged": "2023-04-15T18:57:20.6482769+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:33.930045+00:00",
@@ -495,6 +495,12 @@
     {
       "Time": "2023-01-11T13:14:50.1767058+00:00",
       "Rating": 4.23
+    },
+    {
+      "Time": "2023-04-15T18:57:20.6482771+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 22,
+      "NumberOfAwardsMax": 22
     }
   ],
   "Tags": [

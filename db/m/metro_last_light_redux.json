@@ -2,15 +2,15 @@
   "ID": "c5e786eddfd041caa9984213e3f9621d",
   "Name": "Metro Last Light Redux",
   "Rating": 4.7,
-  "Ranking_Rating": 194,
+  "Ranking_Rating": 191,
   "Ranking_Popularity": 104,
-  "Ranking_PopularitySum": 180,
+  "Ranking_PopularitySum": 181,
   "NumberOfRatings": 6367,
-  "NumberOfAwards": 2069,
-  "NumberOfAwardsMax": 1791,
+  "NumberOfAwards": 2085,
+  "NumberOfAwardsMax": 1805,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:23:11.2145128+00:00",
-  "LastChanged": "2023-03-31T10:57:36.5459706+00:00",
+  "LastChanged": "2023-04-17T18:57:37.8879553+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:11.2145131+00:00",
@@ -1019,6 +1019,60 @@
       "Rating": 4.7,
       "NumberOfAwards": 2069,
       "NumberOfAwardsMax": 1791
+    },
+    {
+      "Time": "2023-03-31T17:58:28.5733406+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2070,
+      "NumberOfAwardsMax": 1792
+    },
+    {
+      "Time": "2023-04-03T15:57:29.8579293+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2072,
+      "NumberOfAwardsMax": 1794
+    },
+    {
+      "Time": "2023-04-05T13:57:44.8503992+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2073,
+      "NumberOfAwardsMax": 1795
+    },
+    {
+      "Time": "2023-04-07T08:58:01.1606725+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2074,
+      "NumberOfAwardsMax": 1796
+    },
+    {
+      "Time": "2023-04-08T09:57:22.8033137+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2077,
+      "NumberOfAwardsMax": 1799
+    },
+    {
+      "Time": "2023-04-10T11:57:33.2118118+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2082,
+      "NumberOfAwardsMax": 1804
+    },
+    {
+      "Time": "2023-04-14T03:57:46.097086+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2083,
+      "NumberOfAwardsMax": 1805
+    },
+    {
+      "Time": "2023-04-15T21:57:51.3281757+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2084,
+      "NumberOfAwardsMax": 1805
+    },
+    {
+      "Time": "2023-04-17T18:57:37.8879554+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2085,
+      "NumberOfAwardsMax": 1805
     }
   ],
   "Tags": [
@@ -1026,7 +1080,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1791
+      "Count": 1805
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1044,7 +1098,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 43
+      "Count": 45
     },
     {
       "Text": "This game has Amazing Storytelling",

@@ -1,23 +1,23 @@
 # Oxygen Not Included
-Rating: 4.84 (Ranked 47)  
+Rating: 4.84 (Ranked 49)  
 Number of Ratings: 897  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Extremely Fun): 244  (Ranked 233)  
-Sum: 2,112 (Ranked 175)  
-Diff (max vs sum): 58
+Max (Extremely Fun): 246  (Ranked 236)  
+Sum: 2,136 (Ranked 177)  
+Diff (max vs sum): 59
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Extremely Fun | 244 |
+| This game is Extremely Fun | 246 |
 | This game has Quickly Understood Controls | 227 |
-| This game is Relaxing | 225 |
-| This game has Diverse Characters | 220 |
-| This game is Educational | 217 |
-| This game has Unique Visuals | 205 |
-| This game is Highly Recommended | 202 |
-| This game has Amazing Characters | 201 |
-| This game has Amazing Storytelling | 192 |
-| This game has a Creative Community | 179 |
+| This game is Relaxing | 227 |
+| This game has Diverse Characters | 224 |
+| This game is Educational | 221 |
+| This game has Unique Visuals | 208 |
+| This game is Highly Recommended | 203 |
+| This game has Amazing Characters | 202 |
+| This game has Amazing Storytelling | 196 |
+| This game has a Creative Community | 182 |
 | This game has Obsessive Gameplay | 156 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -98,3 +98,16 @@ Diff (max vs sum): 58
 | 2023-01-06 | 4.84 | - | - |
 | 2023-03-22 | 4.83 | - | - |
 | 2023-03-26 | 4.84 | - | - |
+| 2023-04-01 | 4.84 | - | 245 |
+| 2023-04-02 | 4.84 | - | 245 |
+| 2023-04-03 | 4.84 | - | 246 |
+| 2023-04-05 | 4.84 | - | 246 |
+| 2023-04-06 | 4.84 | - | 246 |
+| 2023-04-07 | 4.84 | - | 246 |
+| 2023-04-08 | 4.84 | - | 246 |
+| 2023-04-10 | 4.84 | - | 246 |
+| 2023-04-11 | 4.84 | - | 246 |
+| 2023-04-12 | 4.84 | - | 246 |
+| 2023-04-14 | 4.84 | - | 246 |
+| 2023-04-15 | 4.84 | - | 246 |
+| 2023-04-16 | 4.84 | - | 246 |

@@ -1,22 +1,22 @@
 # KINGDOM HEARTS III + Re Mind
-Rating: 4.78 (Ranked 99)  
+Rating: 4.79 (Ranked 91)  
 Number of Ratings: 2,011  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 873  (Ranked 141)  
-Sum: 2,241 (Ranked 168)  
-Diff (max vs sum): -27
+Max (Character Customization): 879  (Ranked 141)  
+Sum: 2,260 (Ranked 171)  
+Diff (max vs sum): -30
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 873 |
-| This game has Great Boss Battles | 704 |
-| This game is Great for Beginners | 90 |
+| This game has Inclusive Character Customization | 879 |
+| This game has Great Boss Battles | 713 |
+| This game is Great for Beginners | 91 |
 | This game has Amazing Storytelling | 89 |
 | This game is Extremely Fun | 83 |
 | This game has Amazing Characters | 81 |
-| This game has Quickly Understood Controls | 73 |
-| This game is Highly Recommended | 68 |
-| This game has Diverse Characters | 63 |
+| This game has Quickly Understood Controls | 74 |
+| This game is Highly Recommended | 69 |
+| This game has Diverse Characters | 64 |
 | This game is Relaxing | 60 |
 | This game has a Creative Community | 57 |
 | This game has Obsessive Gameplay | 46 |
@@ -90,3 +90,15 @@ Diff (max vs sum): -27
 | 2022-10-22 | 4.78 | - | - |
 | 2022-10-24 | 4.79 | - | - |
 | 2023-03-27 | 4.78 | - | - |
+| 2023-04-01 | 4.78 | - | 873 |
+| 2023-04-02 | 4.78 | - | 874 |
+| 2023-04-03 | 4.79 | - | 874 |
+| 2023-04-04 | 4.79 | - | 876 |
+| 2023-04-05 | 4.79 | - | 876 |
+| 2023-04-07 | 4.79 | - | 877 |
+| 2023-04-11 | 4.79 | - | 878 |
+| 2023-04-12 | 4.79 | - | 879 |
+| 2023-04-13 | 4.79 | - | 879 |
+| 2023-04-14 | 4.79 | - | 879 |
+| 2023-04-15 | 4.79 | - | 879 |
+| 2023-04-17 | 4.79 | - | 879 |

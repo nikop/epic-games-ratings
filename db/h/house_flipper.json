@@ -2,15 +2,15 @@
   "ID": "d5cbd232ad304c91aacc20f31849435c",
   "Name": "House Flipper",
   "Rating": 4.7,
-  "Ranking_Rating": 194,
-  "Ranking_Popularity": 222,
-  "Ranking_PopularitySum": 178,
+  "Ranking_Rating": 191,
+  "Ranking_Popularity": 223,
+  "Ranking_PopularitySum": 180,
   "NumberOfRatings": 1023,
-  "NumberOfAwards": 2085,
-  "NumberOfAwardsMax": 277,
+  "NumberOfAwards": 2096,
+  "NumberOfAwardsMax": 279,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
-  "LastChanged": "2022-12-25T18:57:36.4854313+00:00",
+  "LastChanged": "2023-04-17T19:57:55.3006583+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:51.6478795+00:00",
@@ -1148,6 +1148,66 @@
     {
       "Time": "2022-12-25T18:57:36.4854313+00:00",
       "Rating": 4.7
+    },
+    {
+      "Time": "2023-04-01T01:57:24.6829374+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2087,
+      "NumberOfAwardsMax": 277
+    },
+    {
+      "Time": "2023-04-02T10:57:26.4532853+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2088,
+      "NumberOfAwardsMax": 277
+    },
+    {
+      "Time": "2023-04-02T11:57:42.5804311+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2089,
+      "NumberOfAwardsMax": 277
+    },
+    {
+      "Time": "2023-04-02T21:57:40.9350188+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2090,
+      "NumberOfAwardsMax": 277
+    },
+    {
+      "Time": "2023-04-06T10:57:38.6770478+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2091,
+      "NumberOfAwardsMax": 277
+    },
+    {
+      "Time": "2023-04-07T14:57:44.9989336+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2092,
+      "NumberOfAwardsMax": 278
+    },
+    {
+      "Time": "2023-04-09T14:57:48.7022434+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2093,
+      "NumberOfAwardsMax": 278
+    },
+    {
+      "Time": "2023-04-09T19:57:22.7361782+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2094,
+      "NumberOfAwardsMax": 278
+    },
+    {
+      "Time": "2023-04-17T16:57:19.8901279+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2095,
+      "NumberOfAwardsMax": 278
+    },
+    {
+      "Time": "2023-04-17T19:57:55.3006586+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2096,
+      "NumberOfAwardsMax": 279
     }
   ],
   "Tags": [
@@ -1155,19 +1215,19 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 277
+      "Count": 279
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 217
+      "Count": 218
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 201
+      "Count": 204
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1197,25 +1257,25 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 228
+      "Count": 230
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 180
+      "Count": 181
     },
     {
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 153
+      "Count": 154
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 200
+      "Count": 201
     }
   ]
 }

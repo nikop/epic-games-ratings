@@ -1,15 +1,16 @@
 {
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
-  "Rating": 4.24,
-  "Ranking_Rating": 770,
-  "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 478,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
+  "Rating": 4.25,
+  "Ranking_Rating": 772,
+  "Ranking_Popularity": 472,
+  "Ranking_PopularitySum": 436,
+  "NumberOfAwards": 41,
+  "NumberOfAwardsMax": 21,
+  "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-08-11T21:00:23.9390359+00:00",
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
-  "LastChanged": "2023-03-31T05:57:03.0988787+00:00",
+  "LastChanged": "2023-04-13T17:57:12.0513798+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-04T02:04:08.6033841+00:00",
@@ -212,7 +213,44 @@
       "Rating": 4.24,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-03-31T15:56:50.3888293+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-08T21:57:21.1207506+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2023-04-12T05:57:01.8592705+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 40,
+      "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2023-04-13T17:57:12.05138+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 41,
+      "NumberOfAwardsMax": 21
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 20
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 21
+    }
+  ]
 }

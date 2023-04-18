@@ -1,23 +1,23 @@
 # Anno 1800 Standard Edition
-Rating: 4.82 (Ranked 61)  
+Rating: 4.82 (Ranked 60)  
 Number of Ratings: 4,392  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Relaxing): 1,135  (Ranked 121)  
-Sum: 8,779 (Ranked 81)  
+Max (Relaxing): 1,199  (Ranked 119)  
+Sum: 9,285 (Ranked 79)  
 Diff (max vs sum): 40
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Relaxing | 1,135 |
-| This game is Extremely Fun | 1,110 |
-| This game has Quickly Understood Controls | 1,077 |
-| This game is Highly Recommended | 1,052 |
-| This game is Educational | 1,016 |
-| This game has Amazing Storytelling | 998 |
-| This game has Diverse Characters | 935 |
-| This game has Amazing Characters | 865 |
+| This game is Relaxing | 1,199 |
+| This game is Extremely Fun | 1,173 |
+| This game has Quickly Understood Controls | 1,135 |
+| This game is Highly Recommended | 1,110 |
+| This game is Educational | 1,071 |
+| This game has Amazing Storytelling | 1,061 |
+| This game has Diverse Characters | 985 |
+| This game has Amazing Characters | 922 |
 | This game has Beautiful Visuals | 654 |
-| This game has a Creative Community | 591 |
+| This game has a Creative Community | 629 |
 | This game has Obsessive Gameplay | 518 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -107,3 +107,21 @@ Diff (max vs sum): 40
 | 2022-12-22 | 4.83 | - | - |
 | 2022-12-27 | 4.82 | - | - |
 | 2023-03-31 | 4.82 | - | 1,135 |
+| 2023-04-01 | 4.82 | - | 1,137 |
+| 2023-04-02 | 4.82 | - | 1,146 |
+| 2023-04-03 | 4.82 | - | 1,146 |
+| 2023-04-04 | 4.82 | - | 1,151 |
+| 2023-04-05 | 4.82 | - | 1,157 |
+| 2023-04-06 | 4.82 | - | 1,157 |
+| 2023-04-07 | 4.82 | - | 1,161 |
+| 2023-04-08 | 4.82 | - | 1,163 |
+| 2023-04-09 | 4.82 | - | 1,167 |
+| 2023-04-10 | 4.82 | - | 1,173 |
+| 2023-04-11 | 4.82 | - | 1,179 |
+| 2023-04-12 | 4.82 | - | 1,179 |
+| 2023-04-13 | 4.82 | - | 1,181 |
+| 2023-04-14 | 4.82 | - | 1,187 |
+| 2023-04-15 | 4.82 | - | 1,194 |
+| 2023-04-16 | 4.82 | - | 1,197 |
+| 2023-04-17 | 4.82 | - | 1,199 |
+| 2023-04-18 | 4.82 | - | 1,199 |

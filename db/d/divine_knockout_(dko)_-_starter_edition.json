@@ -2,15 +2,15 @@
   "ID": "1200aeb2f87c48349594d96554e2833d",
   "Name": "Divine Knockout (DKO) - Starter Edition",
   "Rating": 4.36,
-  "Ranking_Rating": 691,
-  "Ranking_Popularity": 391,
-  "Ranking_PopularitySum": 302,
+  "Ranking_Rating": 699,
+  "Ranking_Popularity": 387,
+  "Ranking_PopularitySum": 301,
   "NumberOfRatings": 60,
-  "NumberOfAwards": 348,
-  "NumberOfAwardsMax": 44,
+  "NumberOfAwards": 368,
+  "NumberOfAwardsMax": 46,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
-  "LastChanged": "2023-03-31T11:57:47.8432443+00:00",
+  "LastChanged": "2023-04-15T03:57:41.2396392+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:52.9902409+00:00",
@@ -444,6 +444,102 @@
       "Rating": 4.36,
       "NumberOfAwards": 348,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-04-01T14:57:30.1267814+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 349,
+      "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-04-02T17:57:36.2296142+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 352,
+      "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-04-02T18:57:46.0661601+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 353,
+      "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-04-04T13:06:21.2666568+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 354,
+      "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-04-04T17:57:58.8173265+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 355,
+      "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-04-05T03:57:17.4447947+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 356,
+      "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-04-06T18:57:51.7979445+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 357,
+      "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-04-06T23:58:02.3889814+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 358,
+      "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-04-07T18:57:37.4070535+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 359,
+      "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-04-11T18:57:25.210379+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 361,
+      "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-04-13T08:57:55.4090267+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 363,
+      "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2023-04-13T09:57:22.1148575+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 364,
+      "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2023-04-13T18:57:20.355128+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 365,
+      "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2023-04-13T20:57:28.4104455+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 366,
+      "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2023-04-14T01:53:33.5893197+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 367,
+      "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2023-04-15T03:57:41.2396394+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 368,
+      "NumberOfAwardsMax": 46
     }
   ],
   "Tags": [
@@ -451,37 +547,37 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 44
+      "Count": 46
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 35
+      "Count": 38
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 34
+      "Count": 36
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 43
+      "Count": 46
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 37
+      "Count": 39
     },
     {
       "Text": "This game has Playful Visuals",
@@ -493,7 +589,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 29
+      "Count": 32
     },
     {
       "Text": "This game is Relaxing",
@@ -511,7 +607,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 31
+      "Count": 34
     },
     {
       "Text": "This game has Unique Visuals",
@@ -523,7 +619,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 25
+      "Count": 26
     }
   ]
 }

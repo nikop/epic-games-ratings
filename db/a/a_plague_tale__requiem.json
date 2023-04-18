@@ -3,14 +3,14 @@
   "Name": "A Plague Tale: Requiem",
   "Rating": 4.74,
   "Ranking_Rating": 141,
-  "Ranking_Popularity": 191,
-  "Ranking_PopularitySum": 278,
-  "NumberOfAwards": 548,
-  "NumberOfAwardsMax": 395,
+  "Ranking_Popularity": 193,
+  "Ranking_PopularitySum": 283,
+  "NumberOfAwards": 553,
+  "NumberOfAwardsMax": 398,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
-  "LastChanged": "2023-01-06T10:57:19.9889261+00:00",
+  "LastChanged": "2023-04-17T14:57:28.9115583+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-19T08:31:07.2693345+00:00",
@@ -143,6 +143,36 @@
     {
       "Time": "2023-01-06T10:57:19.9889262+00:00",
       "Rating": 4.74
+    },
+    {
+      "Time": "2023-04-01T04:57:27.5989144+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 549,
+      "NumberOfAwardsMax": 396
+    },
+    {
+      "Time": "2023-04-06T17:57:34.0429164+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 550,
+      "NumberOfAwardsMax": 397
+    },
+    {
+      "Time": "2023-04-08T11:57:34.1612032+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 551,
+      "NumberOfAwardsMax": 397
+    },
+    {
+      "Time": "2023-04-17T08:57:47.3455976+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 552,
+      "NumberOfAwardsMax": 398
+    },
+    {
+      "Time": "2023-04-17T14:57:28.9115585+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 553,
+      "NumberOfAwardsMax": 398
     }
   ],
   "Tags": [
@@ -150,13 +180,13 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 395
+      "Count": 398
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game is Highly Recommended",
@@ -174,7 +204,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Amazing Storytelling",

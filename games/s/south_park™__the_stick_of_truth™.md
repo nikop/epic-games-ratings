@@ -1,14 +1,14 @@
 # South Park™: The Stick of Truth™
-Rating: 4.81 (Ranked 67)  
+Rating: 4.81 (Ranked 70)  
 Number of Ratings: 115  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 28  (Ranked 441)  
-Sum: 28 (Ranked 449)  
-Diff (max vs sum): -8
+Max (Character Customization): 32  (Ranked 428)  
+Sum: 32 (Ranked 447)  
+Diff (max vs sum): -19
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 28 |
+| This game has Inclusive Character Customization | 32 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -63,3 +63,6 @@ Diff (max vs sum): -8
 | 2023-03-18 | 4.81 | - | - |
 | 2023-03-19 | 4.80 | - | - |
 | 2023-03-29 | 4.81 | - | - |
+| 2023-04-02 | 4.81 | - | 29 |
+| 2023-04-04 | 4.81 | - | 31 |
+| 2023-04-17 | 4.81 | - | 32 |

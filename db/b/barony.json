@@ -3,14 +3,14 @@
   "Name": "Barony",
   "Rating": 4.71,
   "Ranking_Rating": 177,
-  "Ranking_Popularity": 350,
-  "Ranking_PopularitySum": 282,
+  "Ranking_Popularity": 355,
+  "Ranking_PopularitySum": 286,
   "NumberOfRatings": 763,
-  "NumberOfAwards": 526,
+  "NumberOfAwards": 528,
   "NumberOfAwardsMax": 69,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:23:54.5508638+00:00",
-  "LastChanged": "2023-01-10T04:57:42.8434537+00:00",
+  "LastChanged": "2023-04-12T16:57:31.1865121+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:54.550864+00:00",
@@ -775,6 +775,30 @@
     {
       "Time": "2023-01-10T04:57:42.8434538+00:00",
       "Rating": 4.71
+    },
+    {
+      "Time": "2023-04-02T18:57:50.3174736+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 526,
+      "NumberOfAwardsMax": 69
+    },
+    {
+      "Time": "2023-04-06T18:57:53.8928699+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 526,
+      "NumberOfAwardsMax": 69
+    },
+    {
+      "Time": "2023-04-12T11:58:01.3021978+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 527,
+      "NumberOfAwardsMax": 69
+    },
+    {
+      "Time": "2023-04-12T16:57:31.1865123+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 528,
+      "NumberOfAwardsMax": 69
     }
   ],
   "Tags": [
@@ -800,7 +824,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 60
+      "Count": 61
     },
     {
       "Text": "This game is Extremely Fun",
@@ -824,7 +848,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 47
+      "Count": 48
     },
     {
       "Text": "This game has a Creative Community",

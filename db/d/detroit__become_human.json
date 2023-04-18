@@ -2,15 +2,15 @@
   "ID": "columbine",
   "Name": "Detroit: Become Human",
   "Rating": 4.87,
-  "Ranking_Rating": 24,
-  "Ranking_Popularity": 114,
-  "Ranking_PopularitySum": 208,
+  "Ranking_Rating": 25,
+  "Ranking_Popularity": 116,
+  "Ranking_PopularitySum": 209,
   "NumberOfRatings": 3910,
-  "NumberOfAwards": 1441,
-  "NumberOfAwardsMax": 1357,
+  "NumberOfAwards": 1447,
+  "NumberOfAwardsMax": 1363,
   "MaxAwardTitle": "Impact the Story",
   "FirstSeen": "2022-07-22T20:18:06.5181893+00:00",
-  "LastChanged": "2022-09-23T14:01:01.9718918+00:00",
+  "LastChanged": "2023-04-16T03:57:09.0334141+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:06.5181896+00:00",
@@ -941,6 +941,36 @@
       "Time": "2022-09-23T14:01:01.9718978+00:00",
       "Rating": 4.87,
       "NumberOfRatings": 3910
+    },
+    {
+      "Time": "2023-04-05T06:57:01.5879333+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1442,
+      "NumberOfAwardsMax": 1358
+    },
+    {
+      "Time": "2023-04-06T22:57:02.5675535+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1443,
+      "NumberOfAwardsMax": 1359
+    },
+    {
+      "Time": "2023-04-09T20:56:55.8545176+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1445,
+      "NumberOfAwardsMax": 1361
+    },
+    {
+      "Time": "2023-04-12T01:56:06.7197423+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1446,
+      "NumberOfAwardsMax": 1362
+    },
+    {
+      "Time": "2023-04-16T03:57:09.0334143+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1447,
+      "NumberOfAwardsMax": 1363
     }
   ],
   "Tags": [
@@ -948,7 +978,7 @@
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 1357
+      "Count": 1363
     },
     {
       "Text": "This game has Amazing Characters",

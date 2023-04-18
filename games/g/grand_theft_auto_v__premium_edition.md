@@ -1,22 +1,22 @@
 # Grand Theft Auto V: Premium Edition
-Rating: 4.69 (Ranked 215)  
+Rating: 4.69 (Ranked 213)  
 Number of Ratings: 573,831  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 150,706  (Ranked 5)  
-Sum: 1,210,833 (Ranked 5)  
+Max (Great for Beginners): 158,653  (Ranked 5)  
+Sum: 1,266,488 (Ranked 5)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 150,706 |
-| This game has Diverse Characters | 139,783 |
-| This game is Relaxing | 138,168 |
-| This game has Quickly Understood Controls | 133,554 |
-| This game is Extremely Fun | 131,932 |
-| This game has Amazing Storytelling | 130,240 |
-| This game is Highly Recommended | 130,150 |
-| This game has Competitive Players | 129,883 |
-| This game has Amazing Characters | 126,417 |
+| This game is Great for Beginners | 158,653 |
+| This game has Diverse Characters | 146,499 |
+| This game is Relaxing | 144,542 |
+| This game has Quickly Understood Controls | 139,629 |
+| This game is Extremely Fun | 137,722 |
+| This game is Highly Recommended | 136,142 |
+| This game has Amazing Storytelling | 135,808 |
+| This game has Competitive Players | 135,603 |
+| This game has Amazing Characters | 131,890 |
 | This game has Obsessive Gameplay | 78,155 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -87,4 +87,22 @@ Diff (max vs sum): 0
 | 2022-09-23 | 4.69 | 573,831 | - |
 | 2022-09-27 | 4.70 | - | - |
 | 2023-02-01 | 4.69 | - | - |
-| 2023-03-31 | 4.69 | - | 150,706 |
+| 2023-03-31 | 4.69 | - | 151,086 |
+| 2023-04-01 | 4.69 | - | 151,576 |
+| 2023-04-02 | 4.69 | - | 152,070 |
+| 2023-04-03 | 4.69 | - | 152,418 |
+| 2023-04-04 | 4.69 | - | 153,200 |
+| 2023-04-05 | 4.69 | - | 153,740 |
+| 2023-04-06 | 4.69 | - | 154,210 |
+| 2023-04-07 | 4.69 | - | 154,694 |
+| 2023-04-08 | 4.69 | - | 155,195 |
+| 2023-04-09 | 4.69 | - | 155,657 |
+| 2023-04-10 | 4.69 | - | 156,027 |
+| 2023-04-11 | 4.69 | - | 156,388 |
+| 2023-04-12 | 4.69 | - | 156,766 |
+| 2023-04-13 | 4.69 | - | 157,138 |
+| 2023-04-14 | 4.69 | - | 157,511 |
+| 2023-04-15 | 4.69 | - | 157,928 |
+| 2023-04-16 | 4.69 | - | 158,381 |
+| 2023-04-17 | 4.69 | - | 158,653 |
+| 2023-04-18 | 4.69 | - | 158,653 |

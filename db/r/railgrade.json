@@ -2,15 +2,15 @@
   "ID": "7277899e0d3241ea81ee56943fd31567",
   "Name": "RAILGRADE",
   "Rating": 4.54,
-  "Ranking_Rating": 468,
-  "Ranking_Popularity": 330,
-  "Ranking_PopularitySum": 265,
-  "NumberOfAwards": 634,
+  "Ranking_Rating": 474,
+  "Ranking_Popularity": 333,
+  "Ranking_PopularitySum": 267,
+  "NumberOfAwards": 640,
   "NumberOfAwardsMax": 86,
-  "MaxAwardTitle": "Highly Recommended",
+  "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-09-29T18:01:57.1676877+00:00",
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
-  "LastChanged": "2023-03-03T19:57:30.8094479+00:00",
+  "LastChanged": "2023-04-12T21:57:56.0002984+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-30T20:32:34.1590884+00:00",
@@ -275,6 +275,36 @@
     {
       "Time": "2023-03-03T19:57:30.8094482+00:00",
       "Rating": 4.54
+    },
+    {
+      "Time": "2023-04-01T01:57:25.9014062+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 636,
+      "NumberOfAwardsMax": 86
+    },
+    {
+      "Time": "2023-04-03T19:57:42.1330611+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 637,
+      "NumberOfAwardsMax": 86
+    },
+    {
+      "Time": "2023-04-05T13:57:43.2738727+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 638,
+      "NumberOfAwardsMax": 86
+    },
+    {
+      "Time": "2023-04-08T07:57:56.2193767+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 639,
+      "NumberOfAwardsMax": 86
+    },
+    {
+      "Time": "2023-04-12T21:57:56.0002987+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 640,
+      "NumberOfAwardsMax": 86
     }
   ],
   "Tags": [
@@ -282,7 +312,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 82
+      "Count": 83
     },
     {
       "Text": "This game is Relaxing",
@@ -294,13 +324,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 84
+      "Count": 86
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 84
+      "Count": 85
     },
     {
       "Text": "This game is Highly Recommended",
@@ -324,7 +354,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game has Challenging Combat",
@@ -336,7 +366,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 42
+      "Count": 43
     }
   ]
 }

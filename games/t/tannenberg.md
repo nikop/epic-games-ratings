@@ -1,24 +1,24 @@
 # Tannenberg
-Rating: 4.39 (Ranked 664)  
+Rating: 4.39 (Ranked 670)  
 Number of Ratings: 13,393  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Competitive Players): 319  (Ranked 208)  
-Sum: 2,794 (Ranked 150)  
+Max (Competitive Players): 321  (Ranked 209)  
+Sum: 2,816 (Ranked 151)  
 Diff (max vs sum): 58
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Competitive Players | 319 |
-| This game is Relaxing | 301 |
-| This game has Diverse Characters | 300 |
-| This game is Extremely Fun | 299 |
-| This game has Quickly Understood Controls | 299 |
+| This game has Competitive Players | 321 |
+| This game has Quickly Understood Controls | 304 |
+| This game is Relaxing | 302 |
+| This game is Extremely Fun | 301 |
+| This game has Diverse Characters | 301 |
 | This game has Challenging Combat | 274 |
-| This game is Highly Recommended | 268 |
-| This game has Amazing Characters | 265 |
-| This game has a Competitive Community | 252 |
-| This game has Realistic Visuals | 249 |
-| This game has Amazing Storytelling | 242 |
+| This game is Highly Recommended | 270 |
+| This game has Amazing Characters | 267 |
+| This game has a Competitive Community | 254 |
+| This game has Realistic Visuals | 252 |
+| This game has Amazing Storytelling | 244 |
 | This game is Educational | 99 |
 | This game has Obsessive Gameplay | 29 |
 ## Ratings History
@@ -99,3 +99,15 @@ Diff (max vs sum): 58
 | 2022-11-03 | 4.39 | - | - |
 | 2022-11-04 | 4.38 | - | - |
 | 2022-11-07 | 4.39 | - | - |
+| 2023-04-01 | 4.39 | - | 319 |
+| 2023-04-03 | 4.39 | - | 319 |
+| 2023-04-05 | 4.39 | - | 320 |
+| 2023-04-06 | 4.39 | - | 320 |
+| 2023-04-07 | 4.39 | - | 321 |
+| 2023-04-08 | 4.39 | - | 321 |
+| 2023-04-09 | 4.39 | - | 321 |
+| 2023-04-10 | 4.39 | - | 321 |
+| 2023-04-11 | 4.39 | - | 321 |
+| 2023-04-13 | 4.39 | - | 321 |
+| 2023-04-14 | 4.39 | - | 321 |
+| 2023-04-15 | 4.39 | - | 321 |

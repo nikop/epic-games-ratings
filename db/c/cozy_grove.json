@@ -1,15 +1,15 @@
 {
   "ID": "768ec2d3b5114ac4a800631b12ee3f31",
   "Name": "Cozy Grove",
-  "Rating": 4.81,
-  "Ranking_Rating": 67,
-  "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 478,
+  "Rating": 4.82,
+  "Ranking_Rating": 60,
+  "Ranking_Popularity": 484,
+  "Ranking_PopularitySum": 484,
   "NumberOfRatings": 43,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:30:43.8185339+00:00",
-  "LastChanged": "2023-03-31T05:58:31.1400633+00:00",
+  "LastChanged": "2023-04-08T09:58:01.1508585+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:43.8185343+00:00",
@@ -127,6 +127,12 @@
     {
       "Time": "2023-03-31T05:58:31.1400635+00:00",
       "Rating": 4.81,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-08T09:58:01.1508588+00:00",
+      "Rating": 4.82,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

@@ -1,22 +1,22 @@
 # Tiny Tina's Wonderlands
-Rating: 4.57 (Ranked 419)  
+Rating: 4.57 (Ranked 422)  
 Number of Ratings: 20,753  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 17,542  (Ranked 17)  
-Sum: 30,804 (Ranked 32)  
-Diff (max vs sum): -15
+Max (Great Boss Battles): 17,786  (Ranked 17)  
+Sum: 31,249 (Ranked 34)  
+Diff (max vs sum): -17
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 17,542 |
-| This game has Amazing Storytelling | 1,727 |
-| This game has Diverse Characters | 1,710 |
-| This game has Quickly Understood Controls | 1,689 |
-| This game is Extremely Fun | 1,663 |
-| This game is Great for Beginners | 1,652 |
-| This game is Relaxing | 1,643 |
-| This game is Highly Recommended | 1,602 |
-| This game has Amazing Characters | 1,576 |
+| This game has Great Boss Battles | 17,786 |
+| This game has Amazing Storytelling | 1,751 |
+| This game has Diverse Characters | 1,737 |
+| This game has Quickly Understood Controls | 1,708 |
+| This game is Extremely Fun | 1,692 |
+| This game is Great for Beginners | 1,679 |
+| This game is Relaxing | 1,661 |
+| This game is Highly Recommended | 1,633 |
+| This game has Amazing Characters | 1,602 |
 | This game has Obsessive Gameplay | 1,206 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -88,3 +88,22 @@ Diff (max vs sum): -15
 | 2023-01-16 | 4.58 | - | - |
 | 2023-01-18 | 4.58 | - | - |
 | 2023-01-19 | 4.57 | - | - |
+| 2023-03-31 | 4.57 | - | 17,542 |
+| 2023-04-01 | 4.57 | - | 17,553 |
+| 2023-04-02 | 4.57 | - | 17,571 |
+| 2023-04-03 | 4.57 | - | 17,596 |
+| 2023-04-04 | 4.57 | - | 17,607 |
+| 2023-04-05 | 4.57 | - | 17,614 |
+| 2023-04-06 | 4.57 | - | 17,630 |
+| 2023-04-07 | 4.57 | - | 17,647 |
+| 2023-04-08 | 4.57 | - | 17,658 |
+| 2023-04-09 | 4.57 | - | 17,670 |
+| 2023-04-10 | 4.57 | - | 17,688 |
+| 2023-04-11 | 4.57 | - | 17,704 |
+| 2023-04-12 | 4.57 | - | 17,716 |
+| 2023-04-13 | 4.57 | - | 17,725 |
+| 2023-04-14 | 4.57 | - | 17,725 |
+| 2023-04-15 | 4.57 | - | 17,731 |
+| 2023-04-16 | 4.57 | - | 17,751 |
+| 2023-04-17 | 4.57 | - | 17,770 |
+| 2023-04-18 | 4.57 | - | 17,786 |

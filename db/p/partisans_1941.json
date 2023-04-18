@@ -1,15 +1,15 @@
 {
   "ID": "aa102e1c575d42868a11ac8e79af2126",
   "Name": "Partisans 1941",
-  "Rating": 4.6,
-  "Ranking_Rating": 374,
-  "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 478,
+  "Rating": 4.61,
+  "Ranking_Rating": 350,
+  "Ranking_Popularity": 484,
+  "Ranking_PopularitySum": 484,
   "NumberOfRatings": 98,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
-  "LastChanged": "2023-03-31T05:57:27.9115145+00:00",
+  "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:38.7033824+00:00",
@@ -272,6 +272,12 @@
     {
       "Time": "2023-03-31T05:57:27.9115147+00:00",
       "Rating": 4.6,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-14T18:57:17.077477+00:00",
+      "Rating": 4.61,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

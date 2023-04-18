@@ -2,15 +2,15 @@
   "ID": "2462202651534bf7b4b4e0ea960be8ac",
   "Name": "Tyranny - Gold Edition",
   "Rating": 4.59,
-  "Ranking_Rating": 388,
+  "Ranking_Rating": 389,
   "Ranking_Popularity": 153,
   "Ranking_PopularitySum": 211,
   "NumberOfRatings": 1278,
-  "NumberOfAwards": 1346,
-  "NumberOfAwardsMax": 686,
+  "NumberOfAwards": 1352,
+  "NumberOfAwardsMax": 690,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:28:41.6168651+00:00",
-  "LastChanged": "2022-11-09T19:57:51.7228664+00:00",
+  "LastChanged": "2023-04-16T13:02:22.8018316+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:41.6168654+00:00",
@@ -1098,6 +1098,36 @@
     {
       "Time": "2022-11-09T19:57:51.7228665+00:00",
       "Rating": 4.59
+    },
+    {
+      "Time": "2023-04-07T13:58:09.0375587+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1347,
+      "NumberOfAwardsMax": 687
+    },
+    {
+      "Time": "2023-04-11T09:58:16.9658273+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1348,
+      "NumberOfAwardsMax": 688
+    },
+    {
+      "Time": "2023-04-14T18:57:53.7491471+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1350,
+      "NumberOfAwardsMax": 690
+    },
+    {
+      "Time": "2023-04-15T07:58:32.8111852+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1351,
+      "NumberOfAwardsMax": 690
+    },
+    {
+      "Time": "2023-04-16T13:02:22.8018317+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1352,
+      "NumberOfAwardsMax": 690
     }
   ],
   "Tags": [
@@ -1105,13 +1135,13 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 686
+      "Count": 690
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 347
+      "Count": 348
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1135,7 +1165,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has Quickly Understood Controls",

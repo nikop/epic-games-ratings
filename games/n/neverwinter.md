@@ -1,22 +1,22 @@
 # Neverwinter
-Rating: 4.29 (Ranked 746)  
+Rating: 4.29 (Ranked 752)  
 Number of Ratings: 1,084  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 661  (Ranked 155)  
-Sum: 1,996 (Ranked 182)  
-Diff (max vs sum): -27
+Max (Character Customization): 669  (Ranked 155)  
+Sum: 2,039 (Ranked 183)  
+Diff (max vs sum): -28
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 661 |
-| This game is Great for Beginners | 190 |
-| This game has Diverse Characters | 177 |
-| This game is Relaxing | 176 |
-| This game is Extremely Fun | 165 |
-| This game is Highly Recommended | 162 |
-| This game has Quickly Understood Controls | 159 |
-| This game has Amazing Storytelling | 157 |
-| This game has Amazing Characters | 149 |
+| This game has Inclusive Character Customization | 669 |
+| This game is Great for Beginners | 194 |
+| This game has Diverse Characters | 186 |
+| This game is Relaxing | 179 |
+| This game is Extremely Fun | 168 |
+| This game is Highly Recommended | 166 |
+| This game has Amazing Storytelling | 164 |
+| This game has Quickly Understood Controls | 161 |
+| This game has Amazing Characters | 152 |
 | This game has Obsessive Gameplay | 57 |
 | This game has Playful Visuals | 24 |
 ## Ratings History
@@ -98,3 +98,17 @@ Diff (max vs sum): -27
 | 2022-11-02 | 4.29 | - | - |
 | 2022-12-02 | 4.30 | - | - |
 | 2022-12-03 | 4.29 | - | - |
+| 2023-04-01 | 4.29 | - | 661 |
+| 2023-04-02 | 4.29 | - | 662 |
+| 2023-04-04 | 4.29 | - | 662 |
+| 2023-04-05 | 4.29 | - | 664 |
+| 2023-04-06 | 4.29 | - | 667 |
+| 2023-04-07 | 4.29 | - | 667 |
+| 2023-04-08 | 4.30 | - | 667 |
+| 2023-04-09 | 4.29 | - | 667 |
+| 2023-04-11 | 4.29 | - | 667 |
+| 2023-04-12 | 4.29 | - | 667 |
+| 2023-04-13 | 4.29 | - | 669 |
+| 2023-04-14 | 4.29 | - | 669 |
+| 2023-04-15 | 4.29 | - | 669 |
+| 2023-04-16 | 4.29 | - | 669 |

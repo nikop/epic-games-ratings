@@ -2,15 +2,15 @@
   "ID": "40c34bea9cd0460589c867f6a7246342",
   "Name": "Batman Arkham City Game of the Year Edition",
   "Rating": 4.79,
-  "Ranking_Rating": 93,
-  "Ranking_Popularity": 112,
+  "Ranking_Rating": 91,
+  "Ranking_Popularity": 113,
   "Ranking_PopularitySum": 185,
   "NumberOfRatings": 2832,
-  "NumberOfAwards": 1934,
-  "NumberOfAwardsMax": 1428,
+  "NumberOfAwards": 1942,
+  "NumberOfAwardsMax": 1434,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:21:15.6256322+00:00",
-  "LastChanged": "2022-11-27T09:57:40.082886+00:00",
+  "LastChanged": "2023-04-14T23:57:44.4570195+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:15.6256325+00:00",
@@ -1199,6 +1199,42 @@
     {
       "Time": "2022-11-27T09:57:40.0828865+00:00",
       "Rating": 4.79
+    },
+    {
+      "Time": "2023-04-03T21:57:17.8677458+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1936,
+      "NumberOfAwardsMax": 1430
+    },
+    {
+      "Time": "2023-04-07T14:57:31.2824641+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1937,
+      "NumberOfAwardsMax": 1431
+    },
+    {
+      "Time": "2023-04-07T15:57:29.9156841+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1938,
+      "NumberOfAwardsMax": 1431
+    },
+    {
+      "Time": "2023-04-08T22:57:43.1737089+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1940,
+      "NumberOfAwardsMax": 1433
+    },
+    {
+      "Time": "2023-04-12T05:57:18.4046254+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1941,
+      "NumberOfAwardsMax": 1434
+    },
+    {
+      "Time": "2023-04-14T23:57:44.4570198+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1942,
+      "NumberOfAwardsMax": 1434
     }
   ],
   "Tags": [
@@ -1206,7 +1242,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1428
+      "Count": 1434
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1242,7 +1278,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 52
+      "Count": 53
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1254,7 +1290,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 64
+      "Count": 65
     }
   ]
 }

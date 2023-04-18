@@ -1,25 +1,25 @@
 # Horizon Chase Turbo
-Rating: 4.56 (Ranked 436)  
+Rating: 4.56 (Ranked 439)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 126  (Ranked 287)  
-Sum: 1,032 (Ranked 223)  
+Max (Great for Beginners): 132  (Ranked 287)  
+Sum: 1,055 (Ranked 223)  
 Diff (max vs sum): 64
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 126 |
-| This game has Quickly Understood Controls | 110 |
-| This game is Relaxing | 107 |
-| This game is Highly Recommended | 100 |
-| This game has Competitive Players | 95 |
-| This game is Great for Quick Sessions | 94 |
-| This game has Playful Visuals | 92 |
-| This game is Extremely Fun | 86 |
-| This game has Amazing Characters | 81 |
-| This game has Amazing Storytelling | 76 |
+| This game is Great for Beginners | 132 |
+| This game has Quickly Understood Controls | 112 |
+| This game is Relaxing | 109 |
+| This game is Highly Recommended | 101 |
+| This game has Competitive Players | 97 |
+| This game is Great for Quick Sessions | 95 |
+| This game has Playful Visuals | 93 |
+| This game is Extremely Fun | 90 |
+| This game has Amazing Characters | 82 |
+| This game has Amazing Storytelling | 78 |
 | This game has Diverse Characters | 75 |
-| This game has a Competitive Community | 65 |
+| This game has a Competitive Community | 66 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -105,3 +105,15 @@ Diff (max vs sum): 64
 | 2022-12-30 | 4.58 | - | - |
 | 2023-01-18 | 4.57 | - | - |
 | 2023-02-17 | 4.56 | - | - |
+| 2023-03-31 | 4.56 | - | 127 |
+| 2023-04-01 | 4.56 | - | 127 |
+| 2023-04-03 | 4.56 | - | 127 |
+| 2023-04-04 | 4.56 | - | 129 |
+| 2023-04-05 | 4.56 | - | 129 |
+| 2023-04-06 | 4.56 | - | 129 |
+| 2023-04-07 | 4.56 | - | 129 |
+| 2023-04-08 | 4.56 | - | 129 |
+| 2023-04-09 | 4.56 | - | 129 |
+| 2023-04-11 | 4.56 | - | 129 |
+| 2023-04-12 | 4.56 | - | 130 |
+| 2023-04-17 | 4.56 | - | 132 |

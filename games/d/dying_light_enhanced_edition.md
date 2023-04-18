@@ -1,24 +1,24 @@
 # Dying Light Enhanced Edition
-Rating: 4.68 (Ranked 235)  
+Rating: 4.56 (Ranked 439)  
 Number of Ratings: 3,181  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 3,868  (Ranked 73)  
-Sum: 11,859 (Ranked 69)  
-Diff (max vs sum): 4
+Max (Character Customization): 16,981  (Ranked 19)  
+Sum: 30,537 (Ranked 35)  
+Diff (max vs sum): -16
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 3,868 |
-| This game has Great Boss Battles | 2,819 |
-| This game is Great for Beginners | 646 |
-| This game has Diverse Characters | 627 |
-| This game is Highly Recommended | 609 |
-| This game is Extremely Fun | 593 |
-| This game is Relaxing | 580 |
-| This game has Quickly Understood Controls | 567 |
-| This game has Amazing Characters | 560 |
-| This game has Amazing Storytelling | 553 |
-| This game has a Creative Community | 437 |
+| This game has Inclusive Character Customization | 16,981 |
+| This game has Great Boss Battles | 6,502 |
+| This game is Great for Beginners | 943 |
+| This game has Diverse Characters | 876 |
+| This game is Highly Recommended | 817 |
+| This game is Extremely Fun | 795 |
+| This game is Relaxing | 771 |
+| This game has Quickly Understood Controls | 758 |
+| This game has Amazing Storytelling | 752 |
+| This game has Amazing Characters | 750 |
+| This game has a Creative Community | 592 |
 | This game has Obsessive Gameplay | 355 |
 | This game has Unique Visuals | 122 |
 ## Ratings History
@@ -110,3 +110,21 @@ Diff (max vs sum): 4
 | 2023-03-08 | 4.69 | - | - |
 | 2023-03-11 | 4.68 | - | - |
 | 2023-03-31 | 4.68 | - | 3,868 |
+| 2023-04-01 | 4.68 | - | 3,871 |
+| 2023-04-02 | 4.68 | - | 3,877 |
+| 2023-04-03 | 4.68 | - | 3,880 |
+| 2023-04-04 | 4.68 | - | 3,882 |
+| 2023-04-05 | 4.68 | - | 3,882 |
+| 2023-04-06 | 4.68 | - | 3,885 |
+| 2023-04-07 | 4.28 | - | 4,050 |
+| 2023-04-08 | 4.39 | - | 4,939 |
+| 2023-04-09 | 4.45 | - | 6,092 |
+| 2023-04-10 | 4.48 | - | 7,286 |
+| 2023-04-11 | 4.50 | - | 8,631 |
+| 2023-04-12 | 4.52 | - | 10,018 |
+| 2023-04-13 | 4.53 | - | 11,287 |
+| 2023-04-14 | 4.54 | - | 12,679 |
+| 2023-04-15 | 4.54 | - | 14,349 |
+| 2023-04-16 | 4.55 | - | 15,885 |
+| 2023-04-17 | 4.56 | - | 16,981 |
+| 2023-04-18 | 4.56 | - | 16,981 |

@@ -3,14 +3,14 @@
   "Name": "HUMANKIND\u2122 Digital Deluxe Edition",
   "Rating": 4.51,
   "Ranking_Rating": 509,
-  "Ranking_Popularity": 310,
-  "Ranking_PopularitySum": 233,
+  "Ranking_Popularity": 309,
+  "Ranking_PopularitySum": 232,
   "NumberOfRatings": 609,
-  "NumberOfAwards": 861,
-  "NumberOfAwardsMax": 102,
+  "NumberOfAwards": 870,
+  "NumberOfAwardsMax": 104,
   "MaxAwardTitle": "Amazing Storytelling",
   "FirstSeen": "2022-07-22T20:18:22.8287391+00:00",
-  "LastChanged": "2023-03-22T20:57:06.3113867+00:00",
+  "LastChanged": "2023-04-13T11:57:24.9238848+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:22.8287393+00:00",
@@ -936,6 +936,48 @@
     {
       "Time": "2023-03-22T20:57:06.3113871+00:00",
       "Rating": 4.51
+    },
+    {
+      "Time": "2023-03-31T21:57:09.1397195+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 862,
+      "NumberOfAwardsMax": 102
+    },
+    {
+      "Time": "2023-03-31T23:57:17.0325442+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 864,
+      "NumberOfAwardsMax": 102
+    },
+    {
+      "Time": "2023-04-04T13:05:36.1035516+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 866,
+      "NumberOfAwardsMax": 104
+    },
+    {
+      "Time": "2023-04-04T15:57:11.6123721+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 867,
+      "NumberOfAwardsMax": 104
+    },
+    {
+      "Time": "2023-04-05T13:15:13.2954149+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 868,
+      "NumberOfAwardsMax": 104
+    },
+    {
+      "Time": "2023-04-10T11:57:08.3316577+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 869,
+      "NumberOfAwardsMax": 104
+    },
+    {
+      "Time": "2023-04-13T11:57:24.923885+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 870,
+      "NumberOfAwardsMax": 104
     }
   ],
   "Tags": [
@@ -943,13 +985,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 97
+      "Count": 99
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 102
+      "Count": 104
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -961,7 +1003,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 92
+      "Count": 93
     },
     {
       "Text": "This game has Competitive Players",
@@ -973,7 +1015,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 91
+      "Count": 92
     },
     {
       "Text": "This game is Educational",
@@ -991,7 +1033,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 85
+      "Count": 86
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -1003,13 +1045,13 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 45
+      "Count": 46
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 81
+      "Count": 82
     }
   ]
 }

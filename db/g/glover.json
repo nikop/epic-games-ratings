@@ -1,12 +1,18 @@
 {
   "ID": "6e17d0182efc4a789dfe4d463b562a84",
   "Name": "Glover",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
-  "DailyRatings": 0,
-  "FirstSeen": null,
-  "LastChanged": null,
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-08T16:57:50.2921586+00:00",
+  "FirstSeenRating": "2023-04-08T16:57:50.292162+00:00",
+  "LastChanged": "2023-04-08T16:57:50.292162+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-08T16:57:50.2921622+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

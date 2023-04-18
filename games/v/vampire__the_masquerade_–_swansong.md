@@ -1,14 +1,14 @@
 # Vampire: The Masquerade – Swansong
-Rating: 4.20 (Ranked 792)  
+Rating: 4.20 (Ranked 797)  
 Number of Ratings: 736  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Impact the Story): 75  (Ranked 339)  
-Sum: 75 (Ranked 399)  
-Diff (max vs sum): -60
+Max (Impact the Story): 77  (Ranked 341)  
+Sum: 77 (Ranked 402)  
+Diff (max vs sum): -61
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| In this game, your choices Impact the Story | 75 |
+| In this game, your choices Impact the Story | 77 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -83,3 +83,5 @@ Diff (max vs sum): -60
 | 2022-12-05 | 4.20 | - | - |
 | 2022-12-22 | 4.19 | - | - |
 | 2022-12-29 | 4.20 | - | - |
+| 2023-04-03 | 4.20 | - | 76 |
+| 2023-04-05 | 4.20 | - | 77 |

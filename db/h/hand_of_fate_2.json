@@ -2,15 +2,15 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "Rating": 4.57,
-  "Ranking_Rating": 419,
-  "Ranking_Popularity": 414,
-  "Ranking_PopularitySum": 352,
+  "Ranking_Rating": 422,
+  "Ranking_Popularity": 419,
+  "Ranking_PopularitySum": 355,
   "NumberOfRatings": 780,
   "NumberOfAwards": 179,
   "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Amazing Storytelling",
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
-  "LastChanged": "2023-03-30T22:57:34.2403839+00:00",
+  "LastChanged": "2023-04-15T14:57:53.1965752+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:25.6908042+00:00",
@@ -726,6 +726,30 @@
     {
       "Time": "2023-03-30T22:57:34.2403841+00:00",
       "Rating": 4.57
+    },
+    {
+      "Time": "2023-04-08T22:57:52.8626421+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 179,
+      "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-04-11T23:57:23.6638201+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 179,
+      "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-04-13T23:57:20.0441187+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 179,
+      "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-04-15T14:57:53.1965753+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 179,
+      "NumberOfAwardsMax": 35
     }
   ],
   "Tags": [

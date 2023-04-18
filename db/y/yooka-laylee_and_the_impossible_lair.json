@@ -2,15 +2,15 @@
   "ID": "fa11862b1cfd42e3b3c6395af46efe3e",
   "Name": "Yooka-Laylee and the Impossible Lair",
   "Rating": 4.38,
-  "Ranking_Rating": 673,
-  "Ranking_Popularity": 429,
-  "Ranking_PopularitySum": 367,
+  "Ranking_Rating": 680,
+  "Ranking_Popularity": 435,
+  "Ranking_PopularitySum": 370,
   "NumberOfRatings": 346,
-  "NumberOfAwards": 155,
+  "NumberOfAwards": 156,
   "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:26:15.7946917+00:00",
-  "LastChanged": "2023-03-16T18:58:56.1266657+00:00",
+  "LastChanged": "2023-04-02T23:57:33.0316735+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:15.7946919+00:00",
@@ -538,6 +538,12 @@
     {
       "Time": "2023-03-16T18:58:56.126666+00:00",
       "Rating": 4.38
+    },
+    {
+      "Time": "2023-04-02T23:57:33.0316737+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 156,
+      "NumberOfAwardsMax": 31
     }
   ],
   "Tags": [
@@ -563,7 +569,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game is Extremely Fun",

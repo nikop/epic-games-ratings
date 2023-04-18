@@ -1,24 +1,24 @@
 # Marvel's Spider-Man Remastered
-Rating: 4.87 (Ranked 24)  
+Rating: 4.87 (Ranked 25)  
 Number of Ratings: 14,015  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 11,234  (Ranked 29)  
-Sum: 18,851 (Ranked 52)  
-Diff (max vs sum): -23
+Max (Great Boss Battles): 11,295  (Ranked 31)  
+Sum: 18,958 (Ranked 53)  
+Diff (max vs sum): -22
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 11,234 |
-| This game has Quickly Understood Controls | 925 |
-| This game is Extremely Fun | 898 |
-| This game is Relaxing | 884 |
-| This game is Highly Recommended | 881 |
-| This game has Amazing Characters | 863 |
-| This game has Amazing Storytelling | 862 |
-| This game is Great for Beginners | 856 |
-| This game has Diverse Characters | 829 |
+| This game has Great Boss Battles | 11,295 |
+| This game has Quickly Understood Controls | 926 |
+| This game is Extremely Fun | 904 |
+| This game is Highly Recommended | 890 |
+| This game is Relaxing | 889 |
+| This game has Amazing Characters | 870 |
+| This game has Amazing Storytelling | 865 |
+| This game is Great for Beginners | 863 |
+| This game has Diverse Characters | 830 |
 | This game has Obsessive Gameplay | 678 |
-| This game has a Creative Community | 619 |
+| This game has a Creative Community | 626 |
 | This game is Educational | 150 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -75,3 +75,19 @@ Diff (max vs sum): -23
 | 2023-01-10 | 4.88 | - | - |
 | 2023-01-11 | 4.88 | - | - |
 | 2023-01-13 | 4.87 | - | - |
+| 2023-04-01 | 4.87 | - | 11,239 |
+| 2023-04-02 | 4.87 | - | 11,246 |
+| 2023-04-03 | 4.87 | - | 11,252 |
+| 2023-04-04 | 4.87 | - | 11,252 |
+| 2023-04-05 | 4.87 | - | 11,256 |
+| 2023-04-06 | 4.87 | - | 11,260 |
+| 2023-04-07 | 4.87 | - | 11,264 |
+| 2023-04-08 | 4.87 | - | 11,268 |
+| 2023-04-10 | 4.87 | - | 11,271 |
+| 2023-04-11 | 4.87 | - | 11,276 |
+| 2023-04-12 | 4.87 | - | 11,277 |
+| 2023-04-13 | 4.87 | - | 11,277 |
+| 2023-04-14 | 4.87 | - | 11,283 |
+| 2023-04-15 | 4.87 | - | 11,286 |
+| 2023-04-16 | 4.87 | - | 11,292 |
+| 2023-04-18 | 4.87 | - | 11,295 |

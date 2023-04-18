@@ -1,8 +1,8 @@
 # Forspoken
-Rating: 4.12 (Ranked 833)  
+Rating: 4.11 (Ranked 841)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 478)  
-Sum: 0 (Ranked 478)  
+Max (): 0  (Ranked 484)  
+Sum: 0 (Ranked 484)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
@@ -41,3 +41,10 @@ Diff (max vs sum): 0
 | 2023-03-25 | 4.09 | - | - |
 | 2023-03-29 | 4.12 | - | - |
 | 2023-03-31 | 4.12 | - | 0 |
+| 2023-04-03 | 4.13 | - | 0 |
+| 2023-04-04 | 4.12 | - | 0 |
+| 2023-04-06 | 4.13 | - | 0 |
+| 2023-04-08 | 4.12 | - | 0 |
+| 2023-04-10 | 4.13 | - | 0 |
+| 2023-04-13 | 4.12 | - | 0 |
+| 2023-04-14 | 4.11 | - | 0 |

@@ -1,9 +1,9 @@
 # The Wolf Among Us
-Rating: 4.81 (Ranked 67)  
+Rating: 4.80 (Ranked 79)  
 Number of Ratings: 511  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 478)  
-Sum: 0 (Ranked 478)  
+Max (): 0  (Ranked 484)  
+Sum: 0 (Ranked 484)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
@@ -85,3 +85,4 @@ Diff (max vs sum): 0
 | 2023-02-02 | 4.82 | - | - |
 | 2023-02-23 | 4.81 | - | - |
 | 2023-03-31 | 4.81 | - | 0 |
+| 2023-04-05 | 4.80 | - | 0 |

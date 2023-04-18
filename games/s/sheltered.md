@@ -1,14 +1,14 @@
 # Sheltered
-Rating: 4.42 (Ranked 630)  
+Rating: 4.42 (Ranked 635)  
 Number of Ratings: 877  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 261  (Ranked 229)  
-Sum: 261 (Ranked 328)  
-Diff (max vs sum): -99
+Max (Character Customization): 264  (Ranked 230)  
+Sum: 264 (Ranked 331)  
+Diff (max vs sum): -101
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 261 |
+| This game has Inclusive Character Customization | 264 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -93,3 +93,5 @@ Diff (max vs sum): -99
 | 2023-03-11 | 4.42 | - | - |
 | 2023-03-12 | 4.43 | - | - |
 | 2023-03-23 | 4.42 | - | - |
+| 2023-04-05 | 4.42 | - | 263 |
+| 2023-04-07 | 4.42 | - | 264 |

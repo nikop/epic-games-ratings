@@ -1,25 +1,25 @@
 # Trackmania
-Rating: 4.67 (Ranked 255)  
+Rating: 4.67 (Ranked 256)  
 Number of Ratings: 6,825  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 2,245  (Ranked 92)  
-Sum: 18,903 (Ranked 51)  
-Diff (max vs sum): 41
+Max (Great for Quick Sessions): 2,400  (Ranked 90)  
+Sum: 20,577 (Ranked 52)  
+Diff (max vs sum): 38
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 2,245 |
-| This game is Great for Quick Sessions | 2,238 |
-| This game has Competitive Players | 1,956 |
-| This game is Extremely Fun | 1,915 |
-| This game has Quickly Understood Controls | 1,909 |
-| This game is Relaxing | 1,856 |
-| This game is Highly Recommended | 1,797 |
-| This game has a Competitive Community | 1,586 |
-| This game has Challenging Combat | 1,214 |
-| This game has Amazing Storytelling | 1,204 |
+| This game is Great for Quick Sessions | 2,400 |
+| This game is Great for Beginners | 2,383 |
+| This game has Competitive Players | 2,154 |
+| This game has Quickly Understood Controls | 2,143 |
+| This game is Relaxing | 2,104 |
+| This game is Extremely Fun | 2,066 |
+| This game is Highly Recommended | 1,943 |
+| This game has a Competitive Community | 1,703 |
+| This game has Challenging Combat | 1,311 |
+| This game has Amazing Storytelling | 1,300 |
 | This game has Obsessive Gameplay | 1,144 |
-| This game has Amazing Characters | 983 |
+| This game has Amazing Characters | 1,070 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -91,3 +91,21 @@ Diff (max vs sum): 41
 | 2023-01-01 | 4.66 | - | - |
 | 2023-03-25 | 4.67 | - | - |
 | 2023-03-31 | 4.67 | - | 2,245 |
+| 2023-04-01 | 4.67 | - | 2,251 |
+| 2023-04-02 | 4.67 | - | 2,266 |
+| 2023-04-03 | 4.67 | - | 2,283 |
+| 2023-04-04 | 4.67 | - | 2,292 |
+| 2023-04-05 | 4.67 | - | 2,300 |
+| 2023-04-06 | 4.67 | - | 2,311 |
+| 2023-04-07 | 4.67 | - | 2,322 |
+| 2023-04-08 | 4.67 | - | 2,326 |
+| 2023-04-09 | 4.67 | - | 2,326 |
+| 2023-04-10 | 4.67 | - | 2,335 |
+| 2023-04-11 | 4.67 | - | 2,344 |
+| 2023-04-12 | 4.67 | - | 2,350 |
+| 2023-04-13 | 4.67 | - | 2,362 |
+| 2023-04-14 | 4.67 | - | 2,374 |
+| 2023-04-15 | 4.67 | - | 2,386 |
+| 2023-04-16 | 4.67 | - | 2,394 |
+| 2023-04-17 | 4.67 | - | 2,394 |
+| 2023-04-18 | 4.67 | - | 2,400 |

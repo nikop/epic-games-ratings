@@ -1,23 +1,23 @@
 # Surviving Mars
-Rating: 4.60 (Ranked 374)  
+Rating: 4.60 (Ranked 375)  
 Number of Ratings: 3,483  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 425  (Ranked 187)  
-Sum: 2,960 (Ranked 147)  
-Diff (max vs sum): 40
+Max (Great for Beginners): 429  (Ranked 187)  
+Sum: 2,997 (Ranked 146)  
+Diff (max vs sum): 41
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 425 |
-| This game has Quickly Understood Controls | 386 |
-| This game is Relaxing | 372 |
-| This game is Extremely Fun | 354 |
-| This game is Highly Recommended | 349 |
-| This game is Educational | 321 |
-| This game has Amazing Storytelling | 319 |
-| This game has Amazing Characters | 230 |
+| This game is Great for Beginners | 429 |
+| This game has Quickly Understood Controls | 393 |
+| This game is Relaxing | 377 |
+| This game is Extremely Fun | 356 |
+| This game is Highly Recommended | 354 |
+| This game is Educational | 325 |
+| This game has Amazing Storytelling | 324 |
+| This game has Amazing Characters | 232 |
 | This game has Obsessive Gameplay | 229 |
-| This game has a Creative Community | 204 |
+| This game has a Creative Community | 207 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -88,3 +88,16 @@ Diff (max vs sum): 40
 | 2022-09-24 | 4.60 | - | - |
 | 2022-11-21 | 4.61 | - | - |
 | 2022-11-22 | 4.60 | - | - |
+| 2023-04-02 | 4.60 | - | 425 |
+| 2023-04-03 | 4.60 | - | 426 |
+| 2023-04-05 | 4.60 | - | 426 |
+| 2023-04-06 | 4.60 | - | 427 |
+| 2023-04-07 | 4.60 | - | 427 |
+| 2023-04-08 | 4.60 | - | 427 |
+| 2023-04-09 | 4.60 | - | 427 |
+| 2023-04-10 | 4.60 | - | 427 |
+| 2023-04-12 | 4.60 | - | 427 |
+| 2023-04-13 | 4.60 | - | 427 |
+| 2023-04-14 | 4.60 | - | 427 |
+| 2023-04-15 | 4.60 | - | 427 |
+| 2023-04-16 | 4.60 | - | 429 |

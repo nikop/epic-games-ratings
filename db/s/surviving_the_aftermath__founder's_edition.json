@@ -2,15 +2,15 @@
   "ID": "95b4d5a753d042678f775d5e1eb5ab25",
   "Name": "Surviving the Aftermath: Founder\u0027s Edition",
   "Rating": 4.47,
-  "Ranking_Rating": 566,
-  "Ranking_Popularity": 316,
-  "Ranking_PopularitySum": 264,
+  "Ranking_Rating": 570,
+  "Ranking_Popularity": 319,
+  "Ranking_PopularitySum": 266,
   "NumberOfRatings": 836,
-  "NumberOfAwards": 638,
+  "NumberOfAwards": 644,
   "NumberOfAwardsMax": 96,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
-  "LastChanged": "2022-11-28T21:57:19.5107602+00:00",
+  "LastChanged": "2023-04-10T20:57:21.1082849+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:34.0304073+00:00",
@@ -827,6 +827,42 @@
     {
       "Time": "2022-11-28T21:57:19.5107605+00:00",
       "Rating": 4.47
+    },
+    {
+      "Time": "2023-03-31T19:57:02.8686038+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 639,
+      "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2023-04-01T15:56:58.4412687+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 640,
+      "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2023-04-06T15:57:10.8744182+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 641,
+      "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2023-04-06T20:57:09.1917065+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 642,
+      "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2023-04-09T11:57:22.8184142+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 643,
+      "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2023-04-10T20:57:21.1082853+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 644,
+      "NumberOfAwardsMax": 96
     }
   ],
   "Tags": [
@@ -840,7 +876,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 78
+      "Count": 80
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -876,19 +912,19 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 80
+      "Count": 81
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 61
+      "Count": 63
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 37
+      "Count": 38
     }
   ]
 }

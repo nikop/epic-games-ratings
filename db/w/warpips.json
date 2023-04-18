@@ -2,15 +2,16 @@
   "ID": "277788d421e748e580ca0972c339f1a6",
   "Name": "Warpips",
   "Rating": 4.4,
-  "Ranking_Rating": 653,
-  "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 478,
+  "Ranking_Rating": 661,
+  "Ranking_Popularity": 477,
+  "Ranking_PopularitySum": 477,
   "NumberOfRatings": 31,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 20,
+  "NumberOfAwardsMax": 20,
+  "MaxAwardTitle": "Playful Visuals",
   "FirstSeen": "2022-07-22T20:30:43.3276462+00:00",
   "FirstSeenRating": "2022-08-17T17:32:36.298975+00:00",
-  "LastChanged": "2023-03-31T05:58:31.1046974+00:00",
+  "LastChanged": "2023-04-15T16:58:18.1648236+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-17T17:32:36.2989753+00:00",
@@ -283,7 +284,32 @@
       "Rating": 4.4,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-02T18:58:43.892627+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-13T18:57:59.389319+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2023-04-15T16:58:18.1648237+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game has Playful Visuals",
+      "Prefix": "This game has",
+      "Type": "Playful Visuals",
+      "Count": 20
+    }
+  ]
 }

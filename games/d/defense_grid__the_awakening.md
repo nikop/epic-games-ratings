@@ -1,22 +1,22 @@
 # Defense Grid: The Awakening
-Rating: 4.45 (Ranked 592)  
+Rating: 4.45 (Ranked 595)  
 Number of Ratings: 1,225  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 226  (Ranked 239)  
-Sum: 1,615 (Ranked 201)  
-Diff (max vs sum): 38
+Max (Great for Beginners): 228  (Ranked 241)  
+Sum: 1,624 (Ranked 200)  
+Diff (max vs sum): 41
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 226 |
+| This game is Great for Beginners | 228 |
 | This game has Quickly Understood Controls | 218 |
 | This game is Relaxing | 207 |
-| This game is Extremely Fun | 199 |
+| This game is Extremely Fun | 200 |
 | This game is Highly Recommended | 185 |
-| This game has Challenging Combat | 175 |
-| This game has Amazing Storytelling | 172 |
-| This game has Amazing Characters | 164 |
-| This game has a Creative Community | 69 |
+| This game has Challenging Combat | 176 |
+| This game has Amazing Storytelling | 173 |
+| This game has Amazing Characters | 167 |
+| This game has a Creative Community | 70 |
 | This game has Playful Visuals | 38 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -92,3 +92,7 @@ Diff (max vs sum): 38
 | 2023-03-05 | 4.45 | - | - |
 | 2023-03-12 | 4.44 | - | - |
 | 2023-03-13 | 4.45 | - | - |
+| 2023-04-01 | 4.45 | - | 227 |
+| 2023-04-02 | 4.45 | - | 227 |
+| 2023-04-11 | 4.45 | - | 227 |
+| 2023-04-15 | 4.45 | - | 228 |

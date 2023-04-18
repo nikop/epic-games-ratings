@@ -1,24 +1,24 @@
 # The Outer Worlds
-Rating: 4.63 (Ranked 320)  
+Rating: 4.63 (Ranked 326)  
 Number of Ratings: 2,487  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 1,717  (Ranked 107)  
-Sum: 3,498 (Ranked 137)  
-Diff (max vs sum): -30
+Max (Character Customization): 1,725  (Ranked 107)  
+Sum: 3,522 (Ranked 138)  
+Diff (max vs sum): -31
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 1,717 |
-| This game is Highly Recommended | 226 |
-| This game has Amazing Storytelling | 222 |
+| This game has Inclusive Character Customization | 1,725 |
+| This game is Highly Recommended | 228 |
+| This game has Amazing Storytelling | 224 |
 | This game is Extremely Fun | 219 |
-| This game has Diverse Characters | 208 |
-| This game has Quickly Understood Controls | 205 |
-| This game is Relaxing | 202 |
-| This game is Great for Beginners | 199 |
-| This game has Amazing Characters | 193 |
+| This game has Diverse Characters | 213 |
+| This game has Quickly Understood Controls | 206 |
+| This game is Relaxing | 205 |
+| This game is Great for Beginners | 200 |
+| This game has Amazing Characters | 194 |
 | This game has Easy Combat | 161 |
-| This game has a Creative Community | 107 |
+| This game has a Creative Community | 108 |
 | This game has Unique Visuals | 45 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -91,3 +91,17 @@ Diff (max vs sum): -30
 | 2022-09-30 | 4.62 | - | - |
 | 2022-10-01 | 4.62 | - | - |
 | 2022-10-02 | 4.63 | - | - |
+| 2023-03-31 | 4.63 | - | 1,717 |
+| 2023-04-01 | 4.63 | - | 1,717 |
+| 2023-04-02 | 4.63 | - | 1,718 |
+| 2023-04-03 | 4.63 | - | 1,720 |
+| 2023-04-04 | 4.63 | - | 1,720 |
+| 2023-04-05 | 4.63 | - | 1,720 |
+| 2023-04-07 | 4.63 | - | 1,720 |
+| 2023-04-08 | 4.63 | - | 1,721 |
+| 2023-04-09 | 4.63 | - | 1,721 |
+| 2023-04-10 | 4.63 | - | 1,722 |
+| 2023-04-12 | 4.63 | - | 1,724 |
+| 2023-04-13 | 4.63 | - | 1,725 |
+| 2023-04-14 | 4.63 | - | 1,725 |
+| 2023-04-15 | 4.63 | - | 1,725 |

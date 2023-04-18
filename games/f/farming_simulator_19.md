@@ -2,21 +2,21 @@
 Rating: 4.71 (Ranked 177)  
 Number of Ratings: 16,706  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 6,009  (Ranked 49)  
-Sum: 46,232 (Ranked 23)  
-Diff (max vs sum): 26
+Max (Great for Beginners): 6,116  (Ranked 51)  
+Sum: 46,687 (Ranked 23)  
+Diff (max vs sum): 28
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 6,009 |
-| This game is Relaxing | 5,694 |
-| This game is Educational | 5,577 |
-| This game has Quickly Understood Controls | 5,484 |
-| This game is Extremely Fun | 5,144 |
-| This game has Amazing Storytelling | 5,012 |
-| This game is Highly Recommended | 4,997 |
-| This game has Amazing Characters | 4,570 |
-| This game has a Creative Community | 3,745 |
+| This game is Great for Beginners | 6,116 |
+| This game is Relaxing | 5,728 |
+| This game is Educational | 5,617 |
+| This game has Quickly Understood Controls | 5,524 |
+| This game is Extremely Fun | 5,188 |
+| This game has Amazing Storytelling | 5,055 |
+| This game is Highly Recommended | 5,045 |
+| This game has Amazing Characters | 4,619 |
+| This game has a Creative Community | 3,795 |
 | This game has Obsessive Gameplay | 3,740 |
 | This game has Easy Combat | 3,347 |
 ## Ratings History
@@ -97,4 +97,21 @@ Diff (max vs sum): 26
 | 2022-11-20 | 4.72 | - | - |
 | 2022-11-22 | 4.72 | - | - |
 | 2023-01-19 | 4.71 | - | - |
-| 2023-03-31 | 4.71 | - | 6,009 |
+| 2023-03-31 | 4.71 | - | 6,012 |
+| 2023-04-01 | 4.71 | - | 6,020 |
+| 2023-04-02 | 4.71 | - | 6,020 |
+| 2023-04-03 | 4.71 | - | 6,025 |
+| 2023-04-04 | 4.71 | - | 6,032 |
+| 2023-04-05 | 4.71 | - | 6,042 |
+| 2023-04-06 | 4.71 | - | 6,047 |
+| 2023-04-07 | 4.71 | - | 6,053 |
+| 2023-04-08 | 4.71 | - | 6,061 |
+| 2023-04-09 | 4.71 | - | 6,067 |
+| 2023-04-10 | 4.71 | - | 6,078 |
+| 2023-04-11 | 4.71 | - | 6,084 |
+| 2023-04-12 | 4.71 | - | 6,090 |
+| 2023-04-13 | 4.71 | - | 6,097 |
+| 2023-04-14 | 4.71 | - | 6,099 |
+| 2023-04-15 | 4.71 | - | 6,104 |
+| 2023-04-16 | 4.71 | - | 6,104 |
+| 2023-04-17 | 4.71 | - | 6,116 |

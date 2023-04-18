@@ -1,23 +1,23 @@
 # Total War: WARHAMMER
-Rating: 4.58 (Ranked 400)  
+Rating: 4.58 (Ranked 406)  
 Number of Ratings: 8,439  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 5,908  (Ranked 50)  
-Sum: 13,582 (Ranked 62)  
-Diff (max vs sum): -12
+Max (Great Boss Battles): 5,975  (Ranked 52)  
+Sum: 13,737 (Ranked 63)  
+Diff (max vs sum): -11
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 5,908 |
-| This game is Highly Recommended | 936 |
-| This game has Diverse Characters | 929 |
-| This game is Extremely Fun | 889 |
-| This game has Amazing Storytelling | 858 |
-| This game has Challenging Combat | 829 |
-| This game is Relaxing | 828 |
-| This game has Amazing Characters | 811 |
-| This game has Quickly Understood Controls | 800 |
-| This game has Competitive Players | 794 |
+| This game has Great Boss Battles | 5,975 |
+| This game is Highly Recommended | 952 |
+| This game has Diverse Characters | 941 |
+| This game is Extremely Fun | 897 |
+| This game has Amazing Storytelling | 866 |
+| This game has Challenging Combat | 837 |
+| This game is Relaxing | 836 |
+| This game has Amazing Characters | 822 |
+| This game has Quickly Understood Controls | 812 |
+| This game has Competitive Players | 799 |
 | This game has Obsessive Gameplay | 631 |
 | This game has Unique Visuals | 226 |
 | This game has a Creative Community | 119 |
@@ -91,3 +91,20 @@ Diff (max vs sum): -12
 | 2022-10-08 | 4.58 | - | - |
 | 2022-10-09 | 4.58 | - | - |
 | 2023-03-31 | 4.58 | - | 5,908 |
+| 2023-04-01 | 4.58 | - | 5,911 |
+| 2023-04-02 | 4.58 | - | 5,912 |
+| 2023-04-03 | 4.58 | - | 5,919 |
+| 2023-04-04 | 4.58 | - | 5,919 |
+| 2023-04-05 | 4.58 | - | 5,923 |
+| 2023-04-06 | 4.58 | - | 5,927 |
+| 2023-04-07 | 4.58 | - | 5,934 |
+| 2023-04-08 | 4.58 | - | 5,934 |
+| 2023-04-09 | 4.58 | - | 5,937 |
+| 2023-04-10 | 4.58 | - | 5,945 |
+| 2023-04-11 | 4.58 | - | 5,950 |
+| 2023-04-12 | 4.58 | - | 5,954 |
+| 2023-04-13 | 4.58 | - | 5,956 |
+| 2023-04-14 | 4.58 | - | 5,961 |
+| 2023-04-15 | 4.58 | - | 5,966 |
+| 2023-04-16 | 4.58 | - | 5,975 |
+| 2023-04-17 | 4.58 | - | 5,975 |

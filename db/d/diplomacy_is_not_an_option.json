@@ -1,15 +1,15 @@
 {
   "ID": "9a66c93dabb74d3aaf910fa7f23c64fd",
   "Name": "Diplomacy is Not an Option",
-  "Rating": 4.46,
-  "Ranking_Rating": 578,
-  "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 478,
+  "Rating": 4.47,
+  "Ranking_Rating": 570,
+  "Ranking_Popularity": 484,
+  "Ranking_PopularitySum": 484,
   "NumberOfRatings": 51,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:30:41.4347718+00:00",
-  "LastChanged": "2023-03-31T05:58:30.9637381+00:00",
+  "LastChanged": "2023-04-17T04:58:18.0631233+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:41.434772+00:00",
@@ -219,6 +219,12 @@
     {
       "Time": "2023-03-31T05:58:30.9637384+00:00",
       "Rating": 4.46,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-17T04:58:18.0631236+00:00",
+      "Rating": 4.47,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

@@ -2,15 +2,15 @@
   "ID": "91b9a3ac7cda40718addd961fddfadca",
   "Name": "Vampire: The Masquerade \u2013 Swansong",
   "Rating": 4.2,
-  "Ranking_Rating": 792,
-  "Ranking_Popularity": 339,
-  "Ranking_PopularitySum": 399,
+  "Ranking_Rating": 797,
+  "Ranking_Popularity": 341,
+  "Ranking_PopularitySum": 402,
   "NumberOfRatings": 736,
-  "NumberOfAwards": 75,
-  "NumberOfAwardsMax": 75,
+  "NumberOfAwards": 77,
+  "NumberOfAwardsMax": 77,
   "MaxAwardTitle": "Impact the Story",
   "FirstSeen": "2022-07-22T20:19:36.8410904+00:00",
-  "LastChanged": "2022-12-29T08:57:07.39216+00:00",
+  "LastChanged": "2023-04-05T16:57:16.3742728+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:36.8410906+00:00",
@@ -419,6 +419,18 @@
     {
       "Time": "2022-12-29T08:57:07.3921602+00:00",
       "Rating": 4.2
+    },
+    {
+      "Time": "2023-04-03T01:52:54.2503036+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 76,
+      "NumberOfAwardsMax": 76
+    },
+    {
+      "Time": "2023-04-05T16:57:16.3742729+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 77,
+      "NumberOfAwardsMax": 77
     }
   ],
   "Tags": [
@@ -426,7 +438,7 @@
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 75
+      "Count": 77
     }
   ]
 }

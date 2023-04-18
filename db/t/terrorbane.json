@@ -1,6 +1,18 @@
 {
   "ID": "8bacb9319c4b44d689aa6920a1044010",
   "Name": "tERRORbane",
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-02T01:58:31.1782458+00:00",
+  "FirstSeenRating": "2023-04-02T01:58:31.1782551+00:00",
+  "LastChanged": "2023-04-02T01:58:31.1782553+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-02T01:58:31.1782556+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

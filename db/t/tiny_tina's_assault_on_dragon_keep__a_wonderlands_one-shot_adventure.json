@@ -2,15 +2,15 @@
   "ID": "d98b6c292e224a59b359372f4f5152df",
   "Name": "Tiny Tina\u0027s Assault on Dragon Keep: A Wonderlands One-shot Adventure",
   "Rating": 4.46,
-  "Ranking_Rating": 578,
+  "Ranking_Rating": 582,
   "Ranking_Popularity": 224,
-  "Ranking_PopularitySum": 321,
+  "Ranking_PopularitySum": 323,
   "NumberOfRatings": 1211,
-  "NumberOfAwards": 273,
-  "NumberOfAwardsMax": 273,
+  "NumberOfAwards": 276,
+  "NumberOfAwardsMax": 276,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:32:16.2350109+00:00",
-  "LastChanged": "2022-12-19T08:58:57.3994891+00:00",
+  "LastChanged": "2023-04-06T14:58:10.867771+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:16.2350112+00:00",
@@ -587,6 +587,24 @@
     {
       "Time": "2022-12-19T08:58:57.3994894+00:00",
       "Rating": 4.46
+    },
+    {
+      "Time": "2023-03-31T20:58:49.8317491+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 274,
+      "NumberOfAwardsMax": 274
+    },
+    {
+      "Time": "2023-04-02T19:58:46.4633076+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 275,
+      "NumberOfAwardsMax": 275
+    },
+    {
+      "Time": "2023-04-06T14:58:10.8677711+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 276,
+      "NumberOfAwardsMax": 276
     }
   ],
   "Tags": [
@@ -594,7 +612,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 273
+      "Count": 276
     }
   ]
 }

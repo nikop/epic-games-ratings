@@ -1,25 +1,25 @@
 # Risk of Rain 2
-Rating: 4.85 (Ranked 38)  
+Rating: 4.85 (Ranked 37)  
 Number of Ratings: 1,310  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 223  (Ranked 242)  
-Sum: 2,160 (Ranked 172)  
-Diff (max vs sum): 70
+Sum: 2,186 (Ranked 173)  
+Diff (max vs sum): 69
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Relaxing | 223 |
-| This game is Extremely Fun | 220 |
-| This game has Diverse Characters | 211 |
-| This game is Great for Beginners | 207 |
-| This game has Amazing Characters | 206 |
-| This game has Quickly Understood Controls | 205 |
-| This game is Highly Recommended | 198 |
-| This game has Challenging Combat | 194 |
+| This game is Extremely Fun | 221 |
+| This game has Diverse Characters | 212 |
+| This game is Great for Beginners | 211 |
+| This game has Amazing Characters | 211 |
+| This game has Quickly Understood Controls | 207 |
+| This game is Highly Recommended | 200 |
+| This game has Challenging Combat | 197 |
 | This game has Amazing Storytelling | 180 |
-| This game has Unique Visuals | 173 |
+| This game has Unique Visuals | 179 |
 | This game has Obsessive Gameplay | 154 |
-| This game has a Creative Community | 143 |
+| This game has a Creative Community | 145 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -89,3 +89,15 @@ Diff (max vs sum): 70
 | 2022-11-03 | 4.87 | - | - |
 | 2022-11-07 | 4.86 | - | - |
 | 2022-11-26 | 4.85 | - | - |
+| 2023-03-31 | 4.85 | - | 223 |
+| 2023-04-01 | 4.85 | - | 223 |
+| 2023-04-02 | 4.85 | - | 223 |
+| 2023-04-05 | 4.85 | - | 223 |
+| 2023-04-08 | 4.85 | - | 223 |
+| 2023-04-09 | 4.85 | - | 223 |
+| 2023-04-10 | 4.85 | - | 223 |
+| 2023-04-12 | 4.85 | - | 223 |
+| 2023-04-13 | 4.85 | - | 223 |
+| 2023-04-14 | 4.85 | - | 223 |
+| 2023-04-15 | 4.85 | - | 223 |
+| 2023-04-17 | 4.85 | - | 223 |

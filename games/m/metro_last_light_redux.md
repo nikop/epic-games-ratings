@@ -1,15 +1,15 @@
 # Metro Last Light Redux
-Rating: 4.70 (Ranked 194)  
+Rating: 4.70 (Ranked 191)  
 Number of Ratings: 6,367  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 1,791  (Ranked 104)  
-Sum: 2,069 (Ranked 180)  
-Diff (max vs sum): -76
+Max (Great Boss Battles): 1,805  (Ranked 104)  
+Sum: 2,085 (Ranked 181)  
+Diff (max vs sum): -77
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 1,791 |
-| This game has Diverse Characters | 43 |
+| This game has Great Boss Battles | 1,805 |
+| This game has Diverse Characters | 45 |
 | This game has Quickly Understood Controls | 39 |
 | This game is Relaxing | 39 |
 | This game is Extremely Fun | 36 |
@@ -97,4 +97,12 @@ Diff (max vs sum): -76
 | 2023-03-25 | 4.70 | - | - |
 | 2023-03-26 | 4.71 | - | - |
 | 2023-03-30 | 4.70 | - | - |
-| 2023-03-31 | 4.70 | - | 1,791 |
+| 2023-03-31 | 4.70 | - | 1,792 |
+| 2023-04-03 | 4.70 | - | 1,794 |
+| 2023-04-05 | 4.70 | - | 1,795 |
+| 2023-04-07 | 4.70 | - | 1,796 |
+| 2023-04-08 | 4.70 | - | 1,799 |
+| 2023-04-10 | 4.70 | - | 1,804 |
+| 2023-04-14 | 4.70 | - | 1,805 |
+| 2023-04-15 | 4.70 | - | 1,805 |
+| 2023-04-17 | 4.70 | - | 1,805 |

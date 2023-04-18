@@ -2,15 +2,15 @@
   "ID": "226306adde104c9092247dcd4bfa1499",
   "Name": "Car Mechanic Simulator 2018",
   "Rating": 4.49,
-  "Ranking_Rating": 537,
-  "Ranking_Popularity": 101,
-  "Ranking_PopularitySum": 57,
+  "Ranking_Rating": 541,
+  "Ranking_Popularity": 102,
+  "Ranking_PopularitySum": 58,
   "NumberOfRatings": 38343,
-  "NumberOfAwards": 15272,
-  "NumberOfAwardsMax": 1962,
+  "NumberOfAwards": 15314,
+  "NumberOfAwardsMax": 1967,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:26:04.6520015+00:00",
-  "LastChanged": "2023-03-31T09:18:55.6540641+00:00",
+  "LastChanged": "2023-04-17T19:58:24.4163623+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:04.6520017+00:00",
@@ -2932,6 +2932,198 @@
       "Rating": 4.49,
       "NumberOfAwards": 15272,
       "NumberOfAwardsMax": 1962
+    },
+    {
+      "Time": "2023-03-31T16:58:11.1740951+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15273,
+      "NumberOfAwardsMax": 1962
+    },
+    {
+      "Time": "2023-03-31T17:58:48.6755001+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15274,
+      "NumberOfAwardsMax": 1963
+    },
+    {
+      "Time": "2023-04-01T08:57:58.860983+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15275,
+      "NumberOfAwardsMax": 1963
+    },
+    {
+      "Time": "2023-04-01T13:58:50.0218052+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15276,
+      "NumberOfAwardsMax": 1963
+    },
+    {
+      "Time": "2023-04-01T16:58:14.8726907+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15277,
+      "NumberOfAwardsMax": 1963
+    },
+    {
+      "Time": "2023-04-01T19:57:37.0768728+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15278,
+      "NumberOfAwardsMax": 1964
+    },
+    {
+      "Time": "2023-04-02T03:57:41.8673135+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15279,
+      "NumberOfAwardsMax": 1964
+    },
+    {
+      "Time": "2023-04-03T04:58:11.1164518+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15280,
+      "NumberOfAwardsMax": 1965
+    },
+    {
+      "Time": "2023-04-03T13:06:23.6334497+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15281,
+      "NumberOfAwardsMax": 1965
+    },
+    {
+      "Time": "2023-04-04T01:59:14.549823+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15282,
+      "NumberOfAwardsMax": 1965
+    },
+    {
+      "Time": "2023-04-04T17:58:19.8278028+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15283,
+      "NumberOfAwardsMax": 1965
+    },
+    {
+      "Time": "2023-04-05T13:58:05.3962632+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15284,
+      "NumberOfAwardsMax": 1965
+    },
+    {
+      "Time": "2023-04-05T18:57:50.0832113+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15285,
+      "NumberOfAwardsMax": 1966
+    },
+    {
+      "Time": "2023-04-05T20:58:02.4955309+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15286,
+      "NumberOfAwardsMax": 1966
+    },
+    {
+      "Time": "2023-04-06T10:58:01.5051973+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15288,
+      "NumberOfAwardsMax": 1966
+    },
+    {
+      "Time": "2023-04-08T06:58:11.58236+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15289,
+      "NumberOfAwardsMax": 1966
+    },
+    {
+      "Time": "2023-04-08T09:57:38.047697+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15290,
+      "NumberOfAwardsMax": 1966
+    },
+    {
+      "Time": "2023-04-08T22:58:24.8242593+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15291,
+      "NumberOfAwardsMax": 1966
+    },
+    {
+      "Time": "2023-04-09T06:57:59.8099312+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15294,
+      "NumberOfAwardsMax": 1966
+    },
+    {
+      "Time": "2023-04-09T13:58:32.7037687+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15295,
+      "NumberOfAwardsMax": 1966
+    },
+    {
+      "Time": "2023-04-10T09:58:04.4839984+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15297,
+      "NumberOfAwardsMax": 1966
+    },
+    {
+      "Time": "2023-04-10T11:57:48.5041146+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15298,
+      "NumberOfAwardsMax": 1966
+    },
+    {
+      "Time": "2023-04-10T23:57:36.9527159+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15299,
+      "NumberOfAwardsMax": 1966
+    },
+    {
+      "Time": "2023-04-11T15:58:00.9319037+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15302,
+      "NumberOfAwardsMax": 1966
+    },
+    {
+      "Time": "2023-04-12T11:58:20.6910399+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15303,
+      "NumberOfAwardsMax": 1966
+    },
+    {
+      "Time": "2023-04-14T07:58:07.8025248+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15304,
+      "NumberOfAwardsMax": 1966
+    },
+    {
+      "Time": "2023-04-14T20:57:38.5989939+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15305,
+      "NumberOfAwardsMax": 1967
+    },
+    {
+      "Time": "2023-04-15T09:57:58.4600939+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15306,
+      "NumberOfAwardsMax": 1967
+    },
+    {
+      "Time": "2023-04-15T13:01:06.942253+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15308,
+      "NumberOfAwardsMax": 1967
+    },
+    {
+      "Time": "2023-04-15T18:58:07.2451526+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15310,
+      "NumberOfAwardsMax": 1967
+    },
+    {
+      "Time": "2023-04-16T13:02:02.2999707+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15312,
+      "NumberOfAwardsMax": 1967
+    },
+    {
+      "Time": "2023-04-17T19:58:24.4163624+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15314,
+      "NumberOfAwardsMax": 1967
     }
   ],
   "Tags": [
@@ -2939,37 +3131,37 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1942
+      "Count": 1948
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1962
+      "Count": 1967
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 1943
+      "Count": 1944
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1899
+      "Count": 1904
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1791
+      "Count": 1798
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1739
+      "Count": 1747
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2981,19 +3173,19 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1677
+      "Count": 1683
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1250
+      "Count": 1252
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1069
+      "Count": 1071
     }
   ]
 }

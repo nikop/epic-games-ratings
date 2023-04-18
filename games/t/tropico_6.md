@@ -1,22 +1,22 @@
 # Tropico 6
-Rating: 4.67 (Ranked 255)  
+Rating: 4.67 (Ranked 256)  
 Number of Ratings: 398  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 95  (Ranked 319)  
-Sum: 723 (Ranked 251)  
-Diff (max vs sum): 68
+Max (Great for Beginners): 102  (Ranked 313)  
+Sum: 738 (Ranked 248)  
+Diff (max vs sum): 65
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 95 |
-| This game has Quickly Understood Controls | 90 |
-| This game is Relaxing | 87 |
-| This game has Amazing Storytelling | 81 |
+| This game is Great for Beginners | 102 |
+| This game has Quickly Understood Controls | 91 |
+| This game is Relaxing | 88 |
+| This game is Highly Recommended | 83 |
+| This game has Amazing Storytelling | 82 |
 | This game is Educational | 81 |
-| This game is Highly Recommended | 79 |
 | This game has Amazing Characters | 78 |
 | This game is Extremely Fun | 75 |
-| This game has a Creative Community | 57 |
+| This game has a Creative Community | 58 |
 | This game has Obsessive Gameplay | 52 |
 | This game has Diverse Characters | 46 |
 ## Ratings History
@@ -97,3 +97,11 @@ Diff (max vs sum): 68
 | 2022-12-09 | 4.67 | - | - |
 | 2023-02-26 | 4.68 | - | - |
 | 2023-03-04 | 4.67 | - | - |
+| 2023-04-01 | 4.67 | - | 90 |
+| 2023-04-04 | 4.67 | - | 90 |
+| 2023-04-06 | 4.67 | - | 91 |
+| 2023-04-08 | 4.66 | - | 91 |
+| 2023-04-10 | 4.66 | - | 91 |
+| 2023-04-13 | 4.66 | - | 91 |
+| 2023-04-16 | 4.66 | - | 102 |
+| 2023-04-17 | 4.67 | - | 102 |

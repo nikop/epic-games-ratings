@@ -2,15 +2,15 @@
   "ID": "iris",
   "Name": "Phoenix Point: Complete Edition",
   "Rating": 4.56,
-  "Ranking_Rating": 436,
+  "Ranking_Rating": 439,
   "Ranking_Popularity": 106,
   "Ranking_PopularitySum": 98,
   "NumberOfRatings": 2121,
-  "NumberOfAwards": 7061,
-  "NumberOfAwardsMax": 1756,
+  "NumberOfAwards": 7078,
+  "NumberOfAwardsMax": 1762,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:17:48.4306383+00:00",
-  "LastChanged": "2022-12-09T21:56:49.5633+00:00",
+  "LastChanged": "2023-04-17T11:57:00.0677446+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:48.4306385+00:00",
@@ -2150,6 +2150,78 @@
     {
       "Time": "2022-12-09T21:56:49.5633002+00:00",
       "Rating": 4.56
+    },
+    {
+      "Time": "2023-04-05T08:57:19.1779202+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 7063,
+      "NumberOfAwardsMax": 1758
+    },
+    {
+      "Time": "2023-04-07T19:56:59.9321179+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 7064,
+      "NumberOfAwardsMax": 1759
+    },
+    {
+      "Time": "2023-04-08T02:56:56.1503443+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 7065,
+      "NumberOfAwardsMax": 1759
+    },
+    {
+      "Time": "2023-04-08T15:56:50.9282108+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 7066,
+      "NumberOfAwardsMax": 1759
+    },
+    {
+      "Time": "2023-04-09T14:57:15.2820251+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 7068,
+      "NumberOfAwardsMax": 1759
+    },
+    {
+      "Time": "2023-04-10T13:57:02.6922282+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 7069,
+      "NumberOfAwardsMax": 1760
+    },
+    {
+      "Time": "2023-04-13T13:04:25.4850785+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 7070,
+      "NumberOfAwardsMax": 1760
+    },
+    {
+      "Time": "2023-04-14T17:56:59.3696386+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 7071,
+      "NumberOfAwardsMax": 1760
+    },
+    {
+      "Time": "2023-04-14T21:56:56.4419305+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 7072,
+      "NumberOfAwardsMax": 1760
+    },
+    {
+      "Time": "2023-04-15T13:00:24.3047488+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 7073,
+      "NumberOfAwardsMax": 1760
+    },
+    {
+      "Time": "2023-04-15T14:57:21.8634281+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 7075,
+      "NumberOfAwardsMax": 1762
+    },
+    {
+      "Time": "2023-04-17T11:57:00.0677448+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 7078,
+      "NumberOfAwardsMax": 1762
     }
   ],
   "Tags": [
@@ -2157,19 +2229,19 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1756
+      "Count": 1762
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 671
+      "Count": 673
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 628
+      "Count": 629
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2181,19 +2253,19 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 672
+      "Count": 673
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 641
+      "Count": 644
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 615
+      "Count": 616
     },
     {
       "Text": "This game is Relaxing",
@@ -2205,13 +2277,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 565
+      "Count": 566
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 263
+      "Count": 265
     }
   ]
 }

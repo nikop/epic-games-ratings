@@ -1,25 +1,25 @@
 # Watch Dogs Standard Edition
-Rating: 4.56 (Ranked 436)  
+Rating: 4.56 (Ranked 439)  
 Number of Ratings: 1,912  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Quickly Understood Controls): 44  (Ranked 391)  
-Sum: 321 (Ranked 309)  
-Diff (max vs sum): 82
+Max (Quickly Understood Controls): 46  (Ranked 387)  
+Sum: 335 (Ranked 311)  
+Diff (max vs sum): 76
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Quickly Understood Controls | 44 |
-| This game is Great for Beginners | 41 |
-| This game has Amazing Characters | 40 |
-| This game has Amazing Storytelling | 40 |
-| This game is Great for Quick Sessions | 38 |
+| This game has Quickly Understood Controls | 46 |
+| This game is Great for Beginners | 43 |
+| This game has Amazing Characters | 43 |
+| This game has Amazing Storytelling | 41 |
+| This game is Great for Quick Sessions | 39 |
 | This game is Relaxing | 36 |
+| This game is Extremely Fun | 34 |
 | This game has Competitive Players | 32 |
-| This game is Extremely Fun | 31 |
 | This game has Obsessive Gameplay | 30 |
-| This game is Highly Recommended | 28 |
+| This game is Highly Recommended | 29 |
 | This game has Realistic Visuals | 26 |
-| This game has a Competitive Community | 23 |
+| This game has a Competitive Community | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -101,3 +101,13 @@ Diff (max vs sum): 82
 | 2022-12-28 | 4.55 | - | - |
 | 2022-12-31 | 4.55 | - | - |
 | 2023-03-24 | 4.56 | - | - |
+| 2023-04-01 | 4.56 | - | 44 |
+| 2023-04-02 | 4.56 | - | 44 |
+| 2023-04-03 | 4.56 | - | 45 |
+| 2023-04-04 | 4.56 | - | 45 |
+| 2023-04-05 | 4.56 | - | 45 |
+| 2023-04-07 | 4.56 | - | 45 |
+| 2023-04-08 | 4.56 | - | 45 |
+| 2023-04-10 | 4.56 | - | 46 |
+| 2023-04-13 | 4.55 | - | 46 |
+| 2023-04-15 | 4.56 | - | 46 |

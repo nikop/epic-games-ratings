@@ -1,23 +1,23 @@
 # Farming Simulator 22
-Rating: 4.70 (Ranked 194)  
+Rating: 4.70 (Ranked 191)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 3,996  (Ranked 70)  
-Sum: 35,269 (Ranked 28)  
-Diff (max vs sum): 42
+Max (Great for Beginners): 4,079  (Ranked 70)  
+Sum: 35,717 (Ranked 29)  
+Diff (max vs sum): 41
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 3,996 |
-| This game is Relaxing | 3,821 |
-| This game is Educational | 3,754 |
-| This game has Quickly Understood Controls | 3,743 |
-| This game is Extremely Fun | 3,595 |
-| This game is Highly Recommended | 3,526 |
-| This game has Amazing Storytelling | 3,465 |
-| This game has Diverse Characters | 3,429 |
-| This game has Amazing Characters | 3,073 |
-| This game has a Creative Community | 2,867 |
+| This game is Great for Beginners | 4,079 |
+| This game is Relaxing | 3,842 |
+| This game is Educational | 3,789 |
+| This game has Quickly Understood Controls | 3,776 |
+| This game is Extremely Fun | 3,634 |
+| This game is Highly Recommended | 3,579 |
+| This game has Amazing Storytelling | 3,499 |
+| This game has Diverse Characters | 3,497 |
+| This game has Amazing Characters | 3,113 |
+| This game has a Creative Community | 2,909 |
 | This game has Obsessive Gameplay | 2,386 |
 | This game has Easy Combat | 1,816 |
 ## Ratings History
@@ -97,3 +97,21 @@ Diff (max vs sum): 42
 | 2023-02-03 | 4.70 | - | - |
 | 2023-02-04 | 4.70 | - | - |
 | 2023-03-31 | 4.70 | - | 3,996 |
+| 2023-04-01 | 4.70 | - | 4,002 |
+| 2023-04-02 | 4.70 | - | 4,010 |
+| 2023-04-03 | 4.70 | - | 4,017 |
+| 2023-04-04 | 4.70 | - | 4,017 |
+| 2023-04-05 | 4.70 | - | 4,020 |
+| 2023-04-06 | 4.70 | - | 4,020 |
+| 2023-04-07 | 4.70 | - | 4,027 |
+| 2023-04-08 | 4.70 | - | 4,031 |
+| 2023-04-09 | 4.70 | - | 4,042 |
+| 2023-04-10 | 4.70 | - | 4,042 |
+| 2023-04-11 | 4.70 | - | 4,048 |
+| 2023-04-12 | 4.70 | - | 4,052 |
+| 2023-04-13 | 4.70 | - | 4,056 |
+| 2023-04-14 | 4.70 | - | 4,061 |
+| 2023-04-15 | 4.70 | - | 4,061 |
+| 2023-04-16 | 4.70 | - | 4,068 |
+| 2023-04-17 | 4.70 | - | 4,079 |
+| 2023-04-18 | 4.70 | - | 4,079 |

@@ -1,22 +1,22 @@
 # VALORANT
-Rating: 4.54 (Ranked 468)  
+Rating: 4.54 (Ranked 474)  
 Number of Ratings: 157,172  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 46,986  (Ranked 11)  
-Sum: 360,361 (Ranked 7)  
+Max (Diverse Characters): 49,015  (Ranked 11)  
+Sum: 372,684 (Ranked 7)  
 Diff (max vs sum): 4
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Diverse Characters | 46,986 |
-| This game has Challenging Combat | 41,337 |
-| This game is Highly Recommended | 40,434 |
-| This game has Amazing Characters | 40,094 |
-| This game has Competitive Players | 39,717 |
-| This game is Extremely Fun | 39,520 |
-| This game has Quickly Understood Controls | 37,552 |
-| This game has a Competitive Community | 37,512 |
-| This game has Amazing Storytelling | 37,209 |
+| This game has Diverse Characters | 49,015 |
+| This game has Challenging Combat | 42,781 |
+| This game is Highly Recommended | 41,862 |
+| This game has Amazing Characters | 41,412 |
+| This game has Competitive Players | 40,921 |
+| This game is Extremely Fun | 40,760 |
+| This game has a Competitive Community | 38,832 |
+| This game has Quickly Understood Controls | 38,696 |
+| This game has Amazing Storytelling | 38,405 |
 | This game has Obsessive Gameplay | 20,916 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -86,4 +86,22 @@ Diff (max vs sum): 4
 | 2022-09-22 | 4.55 | 156,745 | - |
 | 2022-09-23 | 4.55 | 157,172 | - |
 | 2022-12-26 | 4.54 | - | - |
-| 2023-03-31 | 4.54 | - | 46,986 |
+| 2023-03-31 | 4.54 | - | 47,082 |
+| 2023-04-01 | 4.54 | - | 47,215 |
+| 2023-04-02 | 4.54 | - | 47,361 |
+| 2023-04-03 | 4.54 | - | 47,449 |
+| 2023-04-04 | 4.54 | - | 47,550 |
+| 2023-04-05 | 4.54 | - | 47,653 |
+| 2023-04-06 | 4.54 | - | 47,752 |
+| 2023-04-07 | 4.54 | - | 47,898 |
+| 2023-04-08 | 4.54 | - | 48,030 |
+| 2023-04-09 | 4.54 | - | 48,139 |
+| 2023-04-10 | 4.54 | - | 48,229 |
+| 2023-04-11 | 4.54 | - | 48,355 |
+| 2023-04-12 | 4.54 | - | 48,479 |
+| 2023-04-13 | 4.54 | - | 48,584 |
+| 2023-04-14 | 4.54 | - | 48,692 |
+| 2023-04-15 | 4.54 | - | 48,803 |
+| 2023-04-16 | 4.54 | - | 48,927 |
+| 2023-04-17 | 4.54 | - | 49,015 |
+| 2023-04-18 | 4.54 | - | 49,015 |

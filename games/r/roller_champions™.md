@@ -1,22 +1,22 @@
 # Roller Champions™
-Rating: 4.34 (Ranked 709)  
+Rating: 4.34 (Ranked 715)  
 Number of Ratings: 5,693  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 232  (Ranked 237)  
-Sum: 1,761 (Ranked 195)  
-Diff (max vs sum): 42
+Max (Great for Beginners): 233  (Ranked 238)  
+Sum: 1,784 (Ranked 193)  
+Diff (max vs sum): 45
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 232 |
+| This game is Great for Beginners | 233 |
 | This game is Great for Quick Sessions | 219 |
-| This game is Highly Recommended | 203 |
-| This game is Extremely Fun | 199 |
-| This game has Competitive Players | 194 |
-| This game has Quickly Understood Controls | 194 |
-| This game has Amazing Storytelling | 191 |
-| This game has Amazing Characters | 168 |
-| This game has a Competitive Community | 161 |
+| This game is Highly Recommended | 205 |
+| This game is Extremely Fun | 203 |
+| This game has Quickly Understood Controls | 197 |
+| This game has Competitive Players | 196 |
+| This game has Amazing Storytelling | 195 |
+| This game has Amazing Characters | 172 |
+| This game has a Competitive Community | 164 |
 | This game is Relaxing | 114 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -85,3 +85,14 @@ Diff (max vs sum): 42
 | 2022-09-21 | 4.34 | 5,669 | - |
 | 2022-09-22 | 4.34 | 5,683 | - |
 | 2022-09-23 | 4.34 | 5,693 | - |
+| 2023-03-31 | 4.34 | - | 232 |
+| 2023-04-01 | 4.34 | - | 232 |
+| 2023-04-05 | 4.34 | - | 232 |
+| 2023-04-06 | 4.34 | - | 232 |
+| 2023-04-08 | 4.34 | - | 232 |
+| 2023-04-09 | 4.34 | - | 232 |
+| 2023-04-10 | 4.34 | - | 232 |
+| 2023-04-12 | 4.34 | - | 232 |
+| 2023-04-14 | 4.34 | - | 233 |
+| 2023-04-15 | 4.34 | - | 233 |
+| 2023-04-17 | 4.34 | - | 233 |

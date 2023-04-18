@@ -2,22 +2,22 @@
 Rating: 4.89 (Ranked 13)  
 Number of Ratings: 870  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 391  (Ranked 192)  
-Sum: 3,563 (Ranked 136)  
-Diff (max vs sum): 56
+Max (Diverse Characters): 398  (Ranked 193)  
+Sum: 3,594 (Ranked 136)  
+Diff (max vs sum): 57
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Diverse Characters | 391 |
-| This game is Extremely Fun | 385 |
-| This game is Highly Recommended | 380 |
-| This game has Quickly Understood Controls | 371 |
-| This game is Relaxing | 364 |
-| This game has Challenging Combat | 344 |
-| This game has Amazing Storytelling | 341 |
-| This game has Unique Visuals | 332 |
-| This game has a Creative Community | 329 |
-| This game has Amazing Characters | 326 |
+| This game has Diverse Characters | 398 |
+| This game is Extremely Fun | 388 |
+| This game is Highly Recommended | 382 |
+| This game has Quickly Understood Controls | 373 |
+| This game is Relaxing | 366 |
+| This game has Challenging Combat | 349 |
+| This game has Amazing Storytelling | 343 |
+| This game has Unique Visuals | 335 |
+| This game has a Creative Community | 331 |
+| This game has Amazing Characters | 329 |
 | This game has Obsessive Gameplay | 219 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -86,3 +86,12 @@ Diff (max vs sum): 56
 | 2022-09-21 | 4.89 | 868 | - |
 | 2022-09-22 | 4.89 | 870 | - |
 | 2022-10-08 | 4.89 | - | - |
+| 2023-04-02 | 4.89 | - | 391 |
+| 2023-04-03 | 4.89 | - | 393 |
+| 2023-04-06 | 4.89 | - | 393 |
+| 2023-04-08 | 4.89 | - | 394 |
+| 2023-04-10 | 4.89 | - | 394 |
+| 2023-04-11 | 4.89 | - | 394 |
+| 2023-04-13 | 4.89 | - | 397 |
+| 2023-04-15 | 4.89 | - | 398 |
+| 2023-04-16 | 4.89 | - | 398 |

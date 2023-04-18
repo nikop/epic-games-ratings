@@ -1,24 +1,24 @@
 # Magic: The Gathering Arena
-Rating: 4.45 (Ranked 592)  
+Rating: 4.45 (Ranked 595)  
 Number of Ratings: 14,652  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Quick Sessions): 9,596  (Ranked 32)  
-Sum: 79,615 (Ranked 15)  
-Diff (max vs sum): 17
+Max (Great for Quick Sessions): 9,855  (Ranked 33)  
+Sum: 81,242 (Ranked 15)  
+Diff (max vs sum): 18
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Quick Sessions | 9,596 |
-| This game is Relaxing | 8,509 |
-| This game has Competitive Players | 8,454 |
-| This game has Quickly Understood Controls | 8,026 |
-| This game has Diverse Characters | 7,652 |
-| This game is Extremely Fun | 7,480 |
-| This game is Highly Recommended | 7,258 |
-| This game has Challenging Combat | 6,300 |
-| This game has Amazing Characters | 5,768 |
-| This game has Amazing Storytelling | 5,380 |
-| This game has a Competitive Community | 5,192 |
+| This game is Great for Quick Sessions | 9,855 |
+| This game is Relaxing | 8,674 |
+| This game has Competitive Players | 8,620 |
+| This game has Quickly Understood Controls | 8,153 |
+| This game has Diverse Characters | 7,851 |
+| This game is Extremely Fun | 7,624 |
+| This game is Highly Recommended | 7,372 |
+| This game has Challenging Combat | 6,419 |
+| This game has Amazing Characters | 5,887 |
+| This game has Amazing Storytelling | 5,479 |
+| This game has a Competitive Community | 5,308 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -90,4 +90,22 @@ Diff (max vs sum): 17
 | 2023-03-02 | 4.46 | - | - |
 | 2023-03-18 | 4.45 | - | - |
 | 2023-03-21 | 4.45 | - | - |
-| 2023-03-31 | 4.45 | - | 9,596 |
+| 2023-03-31 | 4.45 | - | 9,611 |
+| 2023-04-01 | 4.45 | - | 9,624 |
+| 2023-04-02 | 4.45 | - | 9,644 |
+| 2023-04-03 | 4.45 | - | 9,662 |
+| 2023-04-04 | 4.45 | - | 9,662 |
+| 2023-04-05 | 4.45 | - | 9,676 |
+| 2023-04-06 | 4.45 | - | 9,691 |
+| 2023-04-07 | 4.45 | - | 9,706 |
+| 2023-04-08 | 4.45 | - | 9,720 |
+| 2023-04-09 | 4.45 | - | 9,733 |
+| 2023-04-10 | 4.45 | - | 9,747 |
+| 2023-04-11 | 4.45 | - | 9,758 |
+| 2023-04-12 | 4.45 | - | 9,772 |
+| 2023-04-13 | 4.45 | - | 9,787 |
+| 2023-04-14 | 4.45 | - | 9,807 |
+| 2023-04-15 | 4.45 | - | 9,825 |
+| 2023-04-16 | 4.45 | - | 9,843 |
+| 2023-04-17 | 4.45 | - | 9,855 |
+| 2023-04-18 | 4.45 | - | 9,855 |

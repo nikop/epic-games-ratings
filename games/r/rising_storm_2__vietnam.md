@@ -1,23 +1,23 @@
 # Rising Storm 2: Vietnam
-Rating: 4.50 (Ranked 524)  
+Rating: 4.50 (Ranked 525)  
 Number of Ratings: 2,871  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Quickly Understood Controls): 622  (Ranked 160)  
-Sum: 5,695 (Ranked 112)  
+Max (Quickly Understood Controls): 636  (Ranked 160)  
+Sum: 5,877 (Ranked 112)  
 Diff (max vs sum): 48
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Quickly Understood Controls | 622 |
-| This game is Extremely Fun | 611 |
-| This game has Challenging Combat | 604 |
-| This game is Highly Recommended | 596 |
-| This game has Diverse Characters | 592 |
-| This game has Competitive Players | 582 |
-| This game has Realistic Visuals | 555 |
-| This game has Amazing Storytelling | 546 |
-| This game has Amazing Characters | 507 |
-| This game has a Competitive Community | 480 |
+| This game has Quickly Understood Controls | 636 |
+| This game has Diverse Characters | 624 |
+| This game is Extremely Fun | 624 |
+| This game is Highly Recommended | 620 |
+| This game has Challenging Combat | 617 |
+| This game has Competitive Players | 602 |
+| This game has Realistic Visuals | 568 |
+| This game has Amazing Storytelling | 564 |
+| This game has Amazing Characters | 522 |
+| This game has a Competitive Community | 500 |
 | This game has Obsessive Gameplay | 149 |
 | This game is Educational | 28 |
 ## Ratings History
@@ -97,4 +97,22 @@ Diff (max vs sum): 48
 | 2022-11-14 | 4.50 | - | - |
 | 2022-11-15 | 4.50 | - | - |
 | 2022-11-16 | 4.50 | - | - |
-| 2023-03-31 | 4.50 | - | 622 |
+| 2023-03-31 | 4.50 | - | 623 |
+| 2023-04-01 | 4.50 | - | 623 |
+| 2023-04-02 | 4.50 | - | 625 |
+| 2023-04-03 | 4.50 | - | 625 |
+| 2023-04-04 | 4.50 | - | 625 |
+| 2023-04-05 | 4.50 | - | 625 |
+| 2023-04-06 | 4.50 | - | 627 |
+| 2023-04-07 | 4.50 | - | 627 |
+| 2023-04-08 | 4.50 | - | 629 |
+| 2023-04-09 | 4.50 | - | 629 |
+| 2023-04-10 | 4.50 | - | 631 |
+| 2023-04-11 | 4.50 | - | 632 |
+| 2023-04-12 | 4.50 | - | 632 |
+| 2023-04-13 | 4.50 | - | 632 |
+| 2023-04-14 | 4.50 | - | 634 |
+| 2023-04-15 | 4.50 | - | 635 |
+| 2023-04-16 | 4.50 | - | 635 |
+| 2023-04-17 | 4.50 | - | 636 |
+| 2023-04-18 | 4.50 | - | 636 |

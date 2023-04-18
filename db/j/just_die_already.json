@@ -2,15 +2,15 @@
   "ID": "8c7ed85dae4341d385919ee4d832eb1a",
   "Name": "Just Die Already",
   "Rating": 4.52,
-  "Ranking_Rating": 495,
-  "Ranking_Popularity": 313,
+  "Ranking_Rating": 498,
+  "Ranking_Popularity": 316,
   "Ranking_PopularitySum": 243,
   "NumberOfRatings": 2280,
-  "NumberOfAwards": 783,
-  "NumberOfAwardsMax": 97,
+  "NumberOfAwards": 786,
+  "NumberOfAwardsMax": 98,
   "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2022-07-22T20:22:50.679277+00:00",
-  "LastChanged": "2023-02-24T15:57:41.4981616+00:00",
+  "LastChanged": "2023-04-15T22:57:57.9303166+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:50.6792772+00:00",
@@ -1237,6 +1237,24 @@
     {
       "Time": "2023-02-24T15:57:41.4981621+00:00",
       "Rating": 4.52
+    },
+    {
+      "Time": "2023-04-06T02:57:56.3840261+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 784,
+      "NumberOfAwardsMax": 97
+    },
+    {
+      "Time": "2023-04-09T09:57:40.7302891+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 785,
+      "NumberOfAwardsMax": 98
+    },
+    {
+      "Time": "2023-04-15T22:57:57.9303167+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 786,
+      "NumberOfAwardsMax": 98
     }
   ],
   "Tags": [
@@ -1250,7 +1268,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 97
+      "Count": 98
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1268,7 +1286,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 72
+      "Count": 74
     },
     {
       "Text": "This game is Extremely Fun",

@@ -1,22 +1,22 @@
 # Subnautica
-Rating: 4.84 (Ranked 47)  
+Rating: 4.84 (Ranked 49)  
 Number of Ratings: 7,928  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Amazing Storytelling): 636  (Ranked 158)  
-Sum: 5,100 (Ranked 118)  
-Diff (max vs sum): 40
+Max (Amazing Storytelling): 644  (Ranked 158)  
+Sum: 5,147 (Ranked 119)  
+Diff (max vs sum): 39
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Amazing Storytelling | 636 |
-| This game is Great for Beginners | 621 |
-| This game has Quickly Understood Controls | 612 |
-| This game is Highly Recommended | 611 |
-| This game is Relaxing | 607 |
-| This game is Extremely Fun | 586 |
-| This game is Educational | 516 |
-| This game has Amazing Characters | 503 |
-| This game has a Creative Community | 408 |
+| This game has Amazing Storytelling | 644 |
+| This game is Great for Beginners | 629 |
+| This game is Highly Recommended | 617 |
+| This game has Quickly Understood Controls | 615 |
+| This game is Relaxing | 610 |
+| This game is Extremely Fun | 591 |
+| This game is Educational | 519 |
+| This game has Amazing Characters | 508 |
+| This game has a Creative Community | 414 |
 | This game has Obsessive Gameplay | 399 |
 | This game has Beautiful Visuals | 149 |
 ## Ratings History
@@ -103,3 +103,19 @@ Diff (max vs sum): 40
 | 2023-01-28 | 4.85 | - | - |
 | 2023-02-04 | 4.85 | - | - |
 | 2023-02-07 | 4.84 | - | - |
+| 2023-03-31 | 4.84 | - | 636 |
+| 2023-04-01 | 4.84 | - | 639 |
+| 2023-04-02 | 4.84 | - | 639 |
+| 2023-04-03 | 4.84 | - | 639 |
+| 2023-04-04 | 4.84 | - | 639 |
+| 2023-04-06 | 4.84 | - | 639 |
+| 2023-04-07 | 4.84 | - | 639 |
+| 2023-04-08 | 4.84 | - | 641 |
+| 2023-04-09 | 4.84 | - | 641 |
+| 2023-04-10 | 4.84 | - | 641 |
+| 2023-04-11 | 4.84 | - | 642 |
+| 2023-04-13 | 4.84 | - | 643 |
+| 2023-04-14 | 4.84 | - | 644 |
+| 2023-04-15 | 4.84 | - | 644 |
+| 2023-04-16 | 4.84 | - | 644 |
+| 2023-04-17 | 4.84 | - | 644 |

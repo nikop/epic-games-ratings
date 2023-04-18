@@ -3,14 +3,14 @@
   "Name": "Shadow Tactics: Blades of the Shogun",
   "Rating": 4.66,
   "Ranking_Rating": 272,
-  "Ranking_Popularity": 172,
-  "Ranking_PopularitySum": 124,
+  "Ranking_Popularity": 171,
+  "Ranking_PopularitySum": 125,
   "NumberOfRatings": 495,
-  "NumberOfAwards": 4602,
-  "NumberOfAwardsMax": 539,
+  "NumberOfAwards": 4621,
+  "NumberOfAwardsMax": 545,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
-  "LastChanged": "2023-03-31T11:57:35.1401422+00:00",
+  "LastChanged": "2023-04-16T18:57:33.7879486+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:59.8684255+00:00",
@@ -729,6 +729,102 @@
       "Rating": 4.66,
       "NumberOfAwards": 4602,
       "NumberOfAwardsMax": 539
+    },
+    {
+      "Time": "2023-04-01T02:57:33.6917374+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4603,
+      "NumberOfAwardsMax": 539
+    },
+    {
+      "Time": "2023-04-01T11:57:22.5658048+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4604,
+      "NumberOfAwardsMax": 539
+    },
+    {
+      "Time": "2023-04-04T04:57:34.2046147+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4606,
+      "NumberOfAwardsMax": 541
+    },
+    {
+      "Time": "2023-04-05T06:57:29.82538+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4607,
+      "NumberOfAwardsMax": 541
+    },
+    {
+      "Time": "2023-04-05T23:57:22.9808382+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4609,
+      "NumberOfAwardsMax": 542
+    },
+    {
+      "Time": "2023-04-08T03:57:36.6541209+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4610,
+      "NumberOfAwardsMax": 542
+    },
+    {
+      "Time": "2023-04-09T13:00:44.9262343+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4611,
+      "NumberOfAwardsMax": 542
+    },
+    {
+      "Time": "2023-04-09T15:57:09.0351289+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4612,
+      "NumberOfAwardsMax": 542
+    },
+    {
+      "Time": "2023-04-10T05:57:37.5052989+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4613,
+      "NumberOfAwardsMax": 543
+    },
+    {
+      "Time": "2023-04-12T01:56:37.1824045+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4614,
+      "NumberOfAwardsMax": 544
+    },
+    {
+      "Time": "2023-04-13T06:57:42.0274126+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4615,
+      "NumberOfAwardsMax": 544
+    },
+    {
+      "Time": "2023-04-14T13:03:43.401743+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4616,
+      "NumberOfAwardsMax": 544
+    },
+    {
+      "Time": "2023-04-15T13:00:44.6104066+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4617,
+      "NumberOfAwardsMax": 544
+    },
+    {
+      "Time": "2023-04-15T16:57:28.8900696+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4618,
+      "NumberOfAwardsMax": 545
+    },
+    {
+      "Time": "2023-04-16T16:57:14.3064266+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4619,
+      "NumberOfAwardsMax": 545
+    },
+    {
+      "Time": "2023-04-16T18:57:33.7879486+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4621,
+      "NumberOfAwardsMax": 545
     }
   ],
   "Tags": [
@@ -736,13 +832,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 506
+      "Count": 508
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 470
+      "Count": 471
     },
     {
       "Text": "This game is Relaxing",
@@ -754,7 +850,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 493
+      "Count": 494
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -766,13 +862,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 539
+      "Count": 545
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 511
+      "Count": 517
     },
     {
       "Text": "This game has Unique Visuals",
@@ -784,13 +880,13 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 465
+      "Count": 466
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 476
+      "Count": 478
     },
     {
       "Text": "This game has a Creative Community",

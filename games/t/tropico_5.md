@@ -1,23 +1,23 @@
 # Tropico 5
-Rating: 4.45 (Ranked 592)  
+Rating: 4.45 (Ranked 595)  
 Number of Ratings: 2,008  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Extremely Fun): 113  (Ranked 299)  
-Sum: 873 (Ranked 231)  
-Diff (max vs sum): 68
+Max (Extremely Fun): 113  (Ranked 301)  
+Sum: 878 (Ranked 231)  
+Diff (max vs sum): 70
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Extremely Fun | 113 |
 | This game is Great for Beginners | 109 |
-| This game has Amazing Storytelling | 104 |
+| This game has Amazing Storytelling | 105 |
 | This game is Educational | 104 |
+| This game has Quickly Understood Controls | 99 |
 | This game is Relaxing | 99 |
-| This game has Quickly Understood Controls | 98 |
-| This game is Highly Recommended | 96 |
+| This game is Highly Recommended | 97 |
+| This game has Amazing Characters | 84 |
 | This game has Diverse Characters | 83 |
-| This game has Amazing Characters | 83 |
-| This game has a Creative Community | 67 |
+| This game has a Creative Community | 68 |
 | This game has Playful Visuals | 26 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -103,3 +103,7 @@ Diff (max vs sum): 68
 | 2022-12-29 | 4.45 | - | - |
 | 2022-12-30 | 4.44 | - | - |
 | 2022-12-31 | 4.45 | - | - |
+| 2023-04-04 | 4.45 | - | 113 |
+| 2023-04-09 | 4.45 | - | 113 |
+| 2023-04-17 | 4.45 | - | 113 |
+| 2023-04-18 | 4.45 | - | 113 |

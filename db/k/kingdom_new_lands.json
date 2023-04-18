@@ -1,16 +1,16 @@
 {
   "ID": "0e87bed2a83c4cf6a68a7aeb43f25cf0",
   "Name": "Kingdom New Lands",
-  "Rating": 4.52,
-  "Ranking_Rating": 495,
-  "Ranking_Popularity": 297,
-  "Ranking_PopularitySum": 256,
+  "Rating": 4.53,
+  "Ranking_Rating": 485,
+  "Ranking_Popularity": 298,
+  "Ranking_PopularitySum": 257,
   "NumberOfRatings": 1793,
-  "NumberOfAwards": 689,
-  "NumberOfAwardsMax": 115,
+  "NumberOfAwards": 693,
+  "NumberOfAwardsMax": 116,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:26:48.0590918+00:00",
-  "LastChanged": "2023-02-16T02:13:41.0701474+00:00",
+  "LastChanged": "2023-04-09T22:58:00.8342593+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:48.0590922+00:00",
@@ -1261,6 +1261,42 @@
     {
       "Time": "2023-02-16T02:13:41.0701476+00:00",
       "Rating": 4.52
+    },
+    {
+      "Time": "2023-04-02T13:58:29.8526472+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 690,
+      "NumberOfAwardsMax": 115
+    },
+    {
+      "Time": "2023-04-07T16:57:46.0943918+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 690,
+      "NumberOfAwardsMax": 115
+    },
+    {
+      "Time": "2023-04-08T03:58:17.298728+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 691,
+      "NumberOfAwardsMax": 115
+    },
+    {
+      "Time": "2023-04-08T20:58:03.8078811+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 692,
+      "NumberOfAwardsMax": 116
+    },
+    {
+      "Time": "2023-04-09T20:57:42.0671186+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 692,
+      "NumberOfAwardsMax": 116
+    },
+    {
+      "Time": "2023-04-09T22:58:00.8342594+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 693,
+      "NumberOfAwardsMax": 116
     }
   ],
   "Tags": [
@@ -1268,7 +1304,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 115
+      "Count": 116
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1280,13 +1316,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 93
+      "Count": 94
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 86
+      "Count": 87
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1304,7 +1340,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 75
+      "Count": 76
     },
     {
       "Text": "This game has Unique Visuals",

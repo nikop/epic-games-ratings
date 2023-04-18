@@ -1,24 +1,24 @@
 # Phantasy Star Online 2 New Genesis
-Rating: 4.54 (Ranked 468)  
+Rating: 4.55 (Ranked 463)  
 Number of Ratings: 692  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 779  (Ranked 145)  
-Sum: 3,371 (Ranked 141)  
+Max (Character Customization): 812  (Ranked 144)  
+Sum: 3,490 (Ranked 140)  
 Diff (max vs sum): 4
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 779 |
-| This game has Great Boss Battles | 602 |
-| This game is Great for Beginners | 240 |
-| This game is Extremely Fun | 234 |
-| This game has Amazing Characters | 233 |
-| This game is Highly Recommended | 227 |
-| This game has Diverse Characters | 221 |
-| This game is Relaxing | 220 |
-| This game has Quickly Understood Controls | 218 |
-| This game has Beautiful Visuals | 206 |
-| This game has a Creative Community | 191 |
+| This game has Inclusive Character Customization | 812 |
+| This game has Great Boss Battles | 625 |
+| This game is Great for Beginners | 251 |
+| This game is Extremely Fun | 241 |
+| This game has Amazing Characters | 240 |
+| This game is Highly Recommended | 235 |
+| This game has Diverse Characters | 229 |
+| This game has Quickly Understood Controls | 227 |
+| This game is Relaxing | 223 |
+| This game has Beautiful Visuals | 211 |
+| This game has a Creative Community | 196 |
 | This game has Obsessive Gameplay | 150 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -105,3 +105,21 @@ Diff (max vs sum): 4
 | 2023-03-08 | 4.53 | - | - |
 | 2023-03-18 | 4.54 | - | - |
 | 2023-03-31 | 4.54 | - | 779 |
+| 2023-04-01 | 4.54 | - | 780 |
+| 2023-04-02 | 4.54 | - | 785 |
+| 2023-04-03 | 4.54 | - | 789 |
+| 2023-04-04 | 4.54 | - | 790 |
+| 2023-04-05 | 4.54 | - | 792 |
+| 2023-04-06 | 4.54 | - | 792 |
+| 2023-04-07 | 4.54 | - | 794 |
+| 2023-04-08 | 4.55 | - | 794 |
+| 2023-04-09 | 4.55 | - | 796 |
+| 2023-04-10 | 4.55 | - | 798 |
+| 2023-04-11 | 4.55 | - | 799 |
+| 2023-04-12 | 4.55 | - | 803 |
+| 2023-04-13 | 4.55 | - | 807 |
+| 2023-04-14 | 4.55 | - | 807 |
+| 2023-04-15 | 4.55 | - | 809 |
+| 2023-04-16 | 4.55 | - | 812 |
+| 2023-04-17 | 4.55 | - | 812 |
+| 2023-04-18 | 4.55 | - | 812 |

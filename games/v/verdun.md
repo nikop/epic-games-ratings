@@ -1,23 +1,23 @@
 # Verdun
-Rating: 4.53 (Ranked 481)  
+Rating: 4.53 (Ranked 485)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Highly Recommended): 92  (Ranked 322)  
-Sum: 719 (Ranked 252)  
-Diff (max vs sum): 70
+Max (Highly Recommended): 93  (Ranked 325)  
+Sum: 725 (Ranked 252)  
+Diff (max vs sum): 73
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Highly Recommended | 92 |
+| This game is Highly Recommended | 93 |
 | This game is Great for Beginners | 88 |
 | This game is Extremely Fun | 86 |
-| This game has Quickly Understood Controls | 80 |
-| This game has Diverse Characters | 78 |
+| This game has Quickly Understood Controls | 81 |
+| This game has Diverse Characters | 80 |
 | This game is Educational | 76 |
 | This game is Relaxing | 73 |
 | This game has Competitive Players | 68 |
-| This game has Amazing Characters | 64 |
-| This game has Realistic Visuals | 63 |
+| This game has Amazing Characters | 65 |
+| This game has Realistic Visuals | 64 |
 | This game has a Competitive Community | 60 |
 | This game has Challenging Combat | 55 |
 | This game has Amazing Storytelling | 55 |
@@ -112,3 +112,8 @@ Diff (max vs sum): 70
 | 2023-01-19 | 4.53 | - | - |
 | 2023-01-26 | 4.52 | - | - |
 | 2023-01-27 | 4.53 | - | - |
+| 2023-04-01 | 4.53 | - | 93 |
+| 2023-04-02 | 4.53 | - | 93 |
+| 2023-04-05 | 4.53 | - | 93 |
+| 2023-04-07 | 4.53 | - | 93 |
+| 2023-04-08 | 4.53 | - | 93 |

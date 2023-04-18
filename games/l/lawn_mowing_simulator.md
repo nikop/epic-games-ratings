@@ -1,16 +1,16 @@
 # Lawn Mowing Simulator
-Rating: 4.08 (Ranked 848)  
+Rating: 4.08 (Ranked 852)  
 Number of Ratings: 5,086  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Quickly Understood Controls): 178  (Ranked 263)  
-Sum: 953 (Ranked 227)  
-Diff (max vs sum): 36
+Max (Quickly Understood Controls): 179  (Ranked 262)  
+Sum: 955 (Ranked 227)  
+Diff (max vs sum): 35
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Quickly Understood Controls | 178 |
+| This game has Quickly Understood Controls | 179 |
 | This game is Extremely Fun | 166 |
-| This game is Relaxing | 160 |
+| This game is Relaxing | 161 |
 | This game is Great for Beginners | 158 |
 | This game is Highly Recommended | 153 |
 | This game has Amazing Storytelling | 138 |
@@ -79,3 +79,5 @@ Diff (max vs sum): 36
 | 2022-09-22 | 4.08 | 5,084 | - |
 | 2022-09-23 | 4.08 | 5,086 | - |
 | 2023-03-31 | 4.08 | - | 178 |
+| 2023-04-02 | 4.08 | - | 179 |
+| 2023-04-16 | 4.08 | - | 179 |

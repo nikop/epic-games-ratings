@@ -1,22 +1,22 @@
 # Dungeons 3
-Rating: 4.65 (Ranked 290)  
+Rating: 4.65 (Ranked 286)  
 Number of Ratings: 1,635  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 313  (Ranked 211)  
-Sum: 2,471 (Ranked 160)  
-Diff (max vs sum): 51
+Max (Great for Beginners): 316  (Ranked 213)  
+Sum: 2,489 (Ranked 163)  
+Diff (max vs sum): 50
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 313 |
-| This game is Extremely Fun | 302 |
-| This game has Quickly Understood Controls | 290 |
-| This game is Highly Recommended | 276 |
-| This game has Amazing Storytelling | 276 |
-| This game has Amazing Characters | 272 |
-| This game is Relaxing | 255 |
-| This game has Diverse Characters | 253 |
-| This game has Playful Visuals | 234 |
+| This game is Great for Beginners | 316 |
+| This game is Extremely Fun | 304 |
+| This game has Quickly Understood Controls | 294 |
+| This game has Amazing Storytelling | 278 |
+| This game is Highly Recommended | 277 |
+| This game has Amazing Characters | 273 |
+| This game is Relaxing | 256 |
+| This game has Diverse Characters | 254 |
+| This game has Playful Visuals | 237 |
 | This game has Obsessive Gameplay | 189 |
 | This game has a Silly Community | 24 |
 ## Ratings History
@@ -94,3 +94,13 @@ Diff (max vs sum): 51
 | 2022-11-25 | 4.64 | - | - |
 | 2022-11-26 | 4.64 | - | - |
 | 2022-12-24 | 4.65 | - | - |
+| 2023-03-31 | 4.65 | - | 313 |
+| 2023-04-08 | 4.65 | - | 314 |
+| 2023-04-09 | 4.65 | - | 314 |
+| 2023-04-11 | 4.65 | - | 314 |
+| 2023-04-12 | 4.65 | - | 314 |
+| 2023-04-13 | 4.65 | - | 315 |
+| 2023-04-14 | 4.65 | - | 315 |
+| 2023-04-15 | 4.65 | - | 316 |
+| 2023-04-17 | 4.65 | - | 316 |
+| 2023-04-18 | 4.65 | - | 316 |

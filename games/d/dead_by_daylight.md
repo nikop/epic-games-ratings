@@ -1,22 +1,22 @@
 # Dead by Daylight
-Rating: 4.53 (Ranked 481)  
+Rating: 4.52 (Ranked 498)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 25,897  (Ranked 15)  
-Sum: 210,677 (Ranked 12)  
+Max (Diverse Characters): 26,504  (Ranked 15)  
+Sum: 215,053 (Ranked 12)  
 Diff (max vs sum): 3
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Diverse Characters | 25,897 |
-| This game has Competitive Players | 24,502 |
-| This game is Extremely Fun | 23,948 |
-| This game is Highly Recommended | 23,933 |
-| This game has Quickly Understood Controls | 23,891 |
-| This game has Amazing Characters | 23,826 |
-| This game has Challenging Combat | 23,001 |
-| This game has Amazing Storytelling | 21,708 |
-| This game has a Competitive Community | 19,971 |
+| This game has Diverse Characters | 26,504 |
+| This game has Competitive Players | 24,933 |
+| This game is Highly Recommended | 24,478 |
+| This game is Extremely Fun | 24,419 |
+| This game has Quickly Understood Controls | 24,345 |
+| This game has Amazing Characters | 24,298 |
+| This game has Challenging Combat | 23,511 |
+| This game has Amazing Storytelling | 22,165 |
+| This game has a Competitive Community | 20,400 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
 ## Ratings History
@@ -88,4 +88,22 @@ Diff (max vs sum): 3
 | 2022-09-23 | 4.53 | 70,340 | - |
 | 2022-09-25 | 4.52 | - | - |
 | 2022-10-16 | 4.53 | - | - |
-| 2023-03-31 | 4.53 | - | 25,897 |
+| 2023-03-31 | 4.53 | - | 25,926 |
+| 2023-04-01 | 4.53 | - | 25,961 |
+| 2023-04-02 | 4.53 | - | 26,006 |
+| 2023-04-03 | 4.53 | - | 26,037 |
+| 2023-04-04 | 4.53 | - | 26,061 |
+| 2023-04-05 | 4.53 | - | 26,089 |
+| 2023-04-06 | 4.53 | - | 26,132 |
+| 2023-04-07 | 4.53 | - | 26,193 |
+| 2023-04-08 | 4.52 | - | 26,225 |
+| 2023-04-09 | 4.52 | - | 26,270 |
+| 2023-04-10 | 4.53 | - | 26,297 |
+| 2023-04-11 | 4.52 | - | 26,297 |
+| 2023-04-12 | 4.52 | - | 26,332 |
+| 2023-04-13 | 4.52 | - | 26,362 |
+| 2023-04-14 | 4.52 | - | 26,394 |
+| 2023-04-15 | 4.52 | - | 26,427 |
+| 2023-04-16 | 4.52 | - | 26,472 |
+| 2023-04-17 | 4.52 | - | 26,504 |
+| 2023-04-18 | 4.52 | - | 26,504 |

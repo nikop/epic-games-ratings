@@ -2,15 +2,15 @@
   "ID": "03ecca4e19a9483aa05b3d99948c43ce",
   "Name": "Tom Clancy\u0027s The Division",
   "Rating": 4.58,
-  "Ranking_Rating": 400,
+  "Ranking_Rating": 406,
   "Ranking_Popularity": 234,
-  "Ranking_PopularitySum": 275,
+  "Ranking_PopularitySum": 277,
   "NumberOfRatings": 247,
-  "NumberOfAwards": 573,
-  "NumberOfAwardsMax": 242,
+  "NumberOfAwards": 583,
+  "NumberOfAwardsMax": 247,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2023-03-24T21:56:57.7282858+00:00",
+  "LastChanged": "2023-04-12T23:56:54.5898014+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:11.4605073+00:00",
@@ -504,6 +504,60 @@
     {
       "Time": "2023-03-24T21:56:57.7282859+00:00",
       "Rating": 4.58
+    },
+    {
+      "Time": "2023-04-02T01:57:44.5216671+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 574,
+      "NumberOfAwardsMax": 243
+    },
+    {
+      "Time": "2023-04-04T20:57:26.5646429+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 575,
+      "NumberOfAwardsMax": 243
+    },
+    {
+      "Time": "2023-04-04T23:57:06.0733625+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 576,
+      "NumberOfAwardsMax": 243
+    },
+    {
+      "Time": "2023-04-05T06:57:02.1246893+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 577,
+      "NumberOfAwardsMax": 244
+    },
+    {
+      "Time": "2023-04-05T08:57:20.7933366+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 578,
+      "NumberOfAwardsMax": 244
+    },
+    {
+      "Time": "2023-04-06T02:57:20.3857464+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 579,
+      "NumberOfAwardsMax": 244
+    },
+    {
+      "Time": "2023-04-07T16:57:03.6678285+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 580,
+      "NumberOfAwardsMax": 245
+    },
+    {
+      "Time": "2023-04-09T15:56:50.5522411+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 581,
+      "NumberOfAwardsMax": 245
+    },
+    {
+      "Time": "2023-04-12T23:56:54.5898015+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 583,
+      "NumberOfAwardsMax": 247
     }
   ],
   "Tags": [
@@ -511,19 +565,19 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 242
+      "Count": 247
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 150
+      "Count": 152
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 22
+      "Count": 24
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -541,7 +595,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Great for Beginners",

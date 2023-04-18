@@ -1,9 +1,9 @@
 # Road 96
-Rating: 4.62 (Ranked 333)  
+Rating: 4.61 (Ranked 350)  
 Number of Ratings: 86  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 478)  
-Sum: 0 (Ranked 478)  
+Max (): 0  (Ranked 484)  
+Sum: 0 (Ranked 484)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
@@ -60,3 +60,4 @@ Diff (max vs sum): 0
 | 2023-01-04 | 4.60 | - | - |
 | 2023-02-19 | 4.61 | - | - |
 | 2023-03-31 | 4.62 | - | 0 |
+| 2023-04-11 | 4.61 | - | 0 |

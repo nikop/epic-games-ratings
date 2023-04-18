@@ -1,15 +1,15 @@
 # Crysis Remastered
-Rating: 4.40 (Ranked 653)  
+Rating: 4.40 (Ranked 661)  
 Number of Ratings: 697  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 242  (Ranked 234)  
-Sum: 262 (Ranked 327)  
-Diff (max vs sum): -93
+Max (Great Boss Battles): 243  (Ranked 237)  
+Sum: 264 (Ranked 331)  
+Diff (max vs sum): -94
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 242 |
-| This game is Great for Beginners | 20 |
+| This game has Great Boss Battles | 243 |
+| This game is Great for Beginners | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -98,3 +98,5 @@ Diff (max vs sum): -93
 | 2023-02-28 | 4.40 | - | - |
 | 2023-03-08 | 4.41 | - | - |
 | 2023-03-14 | 4.40 | - | - |
+| 2023-04-04 | 4.40 | - | 242 |
+| 2023-04-13 | 4.40 | - | 243 |

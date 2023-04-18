@@ -1,22 +1,22 @@
 # Rogue Legacy 2
-Rating: 4.85 (Ranked 38)  
+Rating: 4.85 (Ranked 37)  
 Number of Ratings: 1,331  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Extremely Fun): 214  (Ranked 244)  
-Sum: 1,615 (Ranked 201)  
+Max (Extremely Fun): 215  (Ranked 244)  
+Sum: 1,619 (Ranked 201)  
 Diff (max vs sum): 43
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Extremely Fun | 214 |
+| This game is Extremely Fun | 215 |
 | This game has Quickly Understood Controls | 198 |
-| This game has Diverse Characters | 189 |
+| This game has Diverse Characters | 190 |
 | This game has Challenging Combat | 189 |
 | This game is Highly Recommended | 185 |
 | This game is Relaxing | 179 |
-| This game has Amazing Characters | 159 |
+| This game has Amazing Characters | 160 |
 | This game has Amazing Storytelling | 157 |
-| This game has Playful Visuals | 145 |
+| This game has Playful Visuals | 146 |
 | This game has Obsessive Gameplay | 123 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -85,3 +85,6 @@ Diff (max vs sum): 43
 | 2022-09-22 | 4.86 | 1,330 | - |
 | 2022-09-23 | 4.86 | 1,331 | - |
 | 2022-10-15 | 4.85 | - | - |
+| 2023-04-11 | 4.85 | - | 214 |
+| 2023-04-12 | 4.85 | - | 214 |
+| 2023-04-17 | 4.85 | - | 215 |

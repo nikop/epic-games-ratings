@@ -1,24 +1,24 @@
 # Among Us
-Rating: 4.58 (Ranked 400)  
+Rating: 4.58 (Ranked 406)  
 Number of Ratings: 26,171  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 2,316  (Ranked 90)  
-Sum: 21,390 (Ranked 49)  
+Max (Great for Beginners): 2,364  (Ranked 91)  
+Sum: 21,680 (Ranked 50)  
 Diff (max vs sum): 41
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 2,316 |
-| This game is Great for Quick Sessions | 2,172 |
-| This game has Quickly Understood Controls | 2,023 |
-| This game is Relaxing | 1,971 |
-| This game has Diverse Characters | 1,957 |
-| This game has Competitive Players | 1,938 |
-| This game is Extremely Fun | 1,885 |
-| This game is Highly Recommended | 1,865 |
-| This game has Amazing Storytelling | 1,838 |
-| This game has Amazing Characters | 1,784 |
-| This game has Playful Visuals | 1,641 |
+| This game is Great for Beginners | 2,364 |
+| This game is Great for Quick Sessions | 2,209 |
+| This game has Quickly Understood Controls | 2,042 |
+| This game is Relaxing | 1,988 |
+| This game has Diverse Characters | 1,986 |
+| This game has Competitive Players | 1,958 |
+| This game is Extremely Fun | 1,909 |
+| This game is Highly Recommended | 1,896 |
+| This game has Amazing Storytelling | 1,859 |
+| This game has Amazing Characters | 1,811 |
+| This game has Playful Visuals | 1,658 |
 | This game has Obsessive Gameplay | 1,477 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -88,3 +88,21 @@ Diff (max vs sum): 41
 | 2022-09-22 | 4.58 | 26,099 | - |
 | 2022-09-23 | 4.58 | 26,171 | - |
 | 2023-03-31 | 4.58 | - | 2,316 |
+| 2023-04-01 | 4.58 | - | 2,319 |
+| 2023-04-02 | 4.58 | - | 2,325 |
+| 2023-04-03 | 4.58 | - | 2,328 |
+| 2023-04-04 | 4.58 | - | 2,329 |
+| 2023-04-05 | 4.58 | - | 2,330 |
+| 2023-04-06 | 4.58 | - | 2,330 |
+| 2023-04-07 | 4.58 | - | 2,335 |
+| 2023-04-08 | 4.58 | - | 2,338 |
+| 2023-04-09 | 4.58 | - | 2,338 |
+| 2023-04-10 | 4.58 | - | 2,341 |
+| 2023-04-11 | 4.58 | - | 2,343 |
+| 2023-04-12 | 4.58 | - | 2,347 |
+| 2023-04-13 | 4.58 | - | 2,349 |
+| 2023-04-14 | 4.58 | - | 2,353 |
+| 2023-04-15 | 4.58 | - | 2,353 |
+| 2023-04-16 | 4.58 | - | 2,360 |
+| 2023-04-17 | 4.58 | - | 2,364 |
+| 2023-04-18 | 4.58 | - | 2,364 |

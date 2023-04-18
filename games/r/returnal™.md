@@ -1,12 +1,13 @@
 # Returnal™
-Rating: 4.69 (Ranked 215)  
+Rating: 4.66 (Ranked 272)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 478)  
-Sum: 0 (Ranked 478)  
+Max (Great Boss Battles): 20  (Ranked 477)  
+Sum: 20 (Ranked 477)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
+| This game has Great Boss Battles | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -26,3 +27,6 @@ Diff (max vs sum): 0
 | 2023-03-22 | 4.67 | - | - |
 | 2023-03-24 | 4.68 | - | - |
 | 2023-03-31 | 4.69 | - | 0 |
+| 2023-04-05 | 4.65 | - | 0 |
+| 2023-04-07 | 4.66 | - | 0 |
+| 2023-04-11 | 4.66 | - | 20 |

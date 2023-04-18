@@ -1,22 +1,22 @@
 # First Class Trouble
-Rating: 4.52 (Ranked 495)  
+Rating: 4.51 (Ranked 509)  
 ## Popularity (Based on Awards)
-Max (Great for Quick Sessions): 67  (Ranked 355)  
-Sum: 500 (Ranked 284)  
-Diff (max vs sum): 71
+Max (Great for Quick Sessions): 77  (Ranked 341)  
+Sum: 620 (Ranked 271)  
+Diff (max vs sum): 70
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Quick Sessions | 67 |
-| This game is Great for Beginners | 64 |
-| This game is Highly Recommended | 62 |
-| This game has Playful Visuals | 59 |
-| This game has Diverse Characters | 56 |
-| This game has Amazing Storytelling | 54 |
-| This game is Extremely Fun | 50 |
-| This game has Quickly Understood Controls | 48 |
-| This game has Amazing Characters | 40 |
-| This game is Relaxing | 32 |
+| This game is Great for Quick Sessions | 77 |
+| This game is Great for Beginners | 72 |
+| This game is Highly Recommended | 67 |
+| This game has Playful Visuals | 66 |
+| This game has Diverse Characters | 64 |
+| This game is Extremely Fun | 62 |
+| This game has Amazing Storytelling | 61 |
+| This game has Quickly Understood Controls | 55 |
+| This game has Amazing Characters | 51 |
+| This game is Relaxing | 45 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -43,3 +43,21 @@ Diff (max vs sum): 71
 | 2023-03-01 | 4.54 | - | - |
 | 2023-03-02 | 4.53 | - | - |
 | 2023-03-09 | 4.52 | - | - |
+| 2023-03-31 | 4.52 | - | 67 |
+| 2023-04-01 | 4.52 | - | 67 |
+| 2023-04-02 | 4.52 | - | 69 |
+| 2023-04-03 | 4.52 | - | 70 |
+| 2023-04-04 | 4.52 | - | 70 |
+| 2023-04-05 | 4.52 | - | 70 |
+| 2023-04-06 | 4.51 | - | 71 |
+| 2023-04-07 | 4.51 | - | 71 |
+| 2023-04-08 | 4.51 | - | 71 |
+| 2023-04-09 | 4.51 | - | 72 |
+| 2023-04-10 | 4.51 | - | 72 |
+| 2023-04-11 | 4.51 | - | 75 |
+| 2023-04-12 | 4.51 | - | 75 |
+| 2023-04-13 | 4.51 | - | 76 |
+| 2023-04-14 | 4.51 | - | 76 |
+| 2023-04-15 | 4.51 | - | 77 |
+| 2023-04-16 | 4.51 | - | 77 |
+| 2023-04-17 | 4.51 | - | 77 |

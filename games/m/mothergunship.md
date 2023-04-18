@@ -1,14 +1,14 @@
 # Mothergunship
-Rating: 4.38 (Ranked 673)  
+Rating: 4.39 (Ranked 670)  
 Number of Ratings: 436  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 158  (Ranked 274)  
-Sum: 158 (Ranked 363)  
-Diff (max vs sum): -89
+Max (Great Boss Battles): 161  (Ranked 275)  
+Sum: 161 (Ranked 366)  
+Diff (max vs sum): -91
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 158 |
+| This game has Great Boss Battles | 161 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -94,3 +94,7 @@ Diff (max vs sum): -89
 | 2023-01-19 | 4.38 | - | - |
 | 2023-01-25 | 4.39 | - | - |
 | 2023-01-29 | 4.38 | - | - |
+| 2023-04-06 | 4.38 | - | 159 |
+| 2023-04-08 | 4.38 | - | 160 |
+| 2023-04-13 | 4.38 | - | 161 |
+| 2023-04-15 | 4.39 | - | 161 |

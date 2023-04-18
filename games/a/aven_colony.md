@@ -1,19 +1,19 @@
 # Aven Colony
-Rating: 4.20 (Ranked 792)  
+Rating: 4.20 (Ranked 797)  
 Number of Ratings: 2,200  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Amazing Storytelling): 119  (Ranked 293)  
-Sum: 700 (Ranked 254)  
-Diff (max vs sum): 39
+Max (Amazing Storytelling): 119  (Ranked 296)  
+Sum: 705 (Ranked 255)  
+Diff (max vs sum): 41
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game has Amazing Storytelling | 119 |
+| This game is Relaxing | 115 |
 | This game has Quickly Understood Controls | 114 |
-| This game is Relaxing | 114 |
-| This game is Great for Beginners | 111 |
+| This game is Great for Beginners | 113 |
+| This game is Extremely Fun | 97 |
 | This game is Highly Recommended | 96 |
-| This game is Extremely Fun | 95 |
 | This game has Easy Combat | 84 |
 | This game has Amazing Characters | 67 |
 | This game has a Creative Community | 51 |
@@ -94,3 +94,7 @@ Diff (max vs sum): 39
 | 2022-10-25 | 4.20 | - | - |
 | 2022-11-26 | 4.21 | - | - |
 | 2022-11-29 | 4.20 | - | - |
+| 2023-04-04 | 4.20 | - | 119 |
+| 2023-04-07 | 4.20 | - | 119 |
+| 2023-04-12 | 4.20 | - | 119 |
+| 2023-04-13 | 4.20 | - | 119 |

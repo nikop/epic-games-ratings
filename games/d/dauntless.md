@@ -1,21 +1,21 @@
 # Dauntless
-Rating: 4.53 (Ranked 481)  
+Rating: 4.53 (Ranked 485)  
 Number of Ratings: 23,656  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 19,154  (Ranked 16)  
-Sum: 47,794 (Ranked 22)  
+Max (Character Customization): 19,458  (Ranked 16)  
+Sum: 48,521 (Ranked 22)  
 Diff (max vs sum): -6
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 19,154 |
-| This game has Great Boss Battles | 12,911 |
-| This game is Great for Beginners | 2,871 |
-| This game is Extremely Fun | 2,606 |
-| This game has Quickly Understood Controls | 2,588 |
-| This game is Highly Recommended | 2,588 |
-| This game is Relaxing | 2,586 |
-| This game has Amazing Characters | 2,490 |
+| This game has Inclusive Character Customization | 19,458 |
+| This game has Great Boss Battles | 13,075 |
+| This game is Great for Beginners | 2,942 |
+| This game is Extremely Fun | 2,657 |
+| This game is Relaxing | 2,621 |
+| This game is Highly Recommended | 2,620 |
+| This game has Quickly Understood Controls | 2,616 |
+| This game has Amazing Characters | 2,532 |
 | This game is Great for Quick Sessions | 1,548 |
 | This game has Diverse Characters | 915 |
 | This game has Obsessive Gameplay | 420 |
@@ -87,3 +87,21 @@ Diff (max vs sum): -6
 | 2022-09-22 | 4.53 | 23,542 | - |
 | 2022-09-23 | 4.53 | 23,656 | - |
 | 2023-03-31 | 4.53 | - | 19,154 |
+| 2023-04-01 | 4.53 | - | 19,169 |
+| 2023-04-02 | 4.53 | - | 19,184 |
+| 2023-04-03 | 4.53 | - | 19,205 |
+| 2023-04-04 | 4.53 | - | 19,221 |
+| 2023-04-05 | 4.53 | - | 19,240 |
+| 2023-04-06 | 4.53 | - | 19,259 |
+| 2023-04-07 | 4.53 | - | 19,277 |
+| 2023-04-08 | 4.53 | - | 19,305 |
+| 2023-04-09 | 4.53 | - | 19,322 |
+| 2023-04-10 | 4.53 | - | 19,346 |
+| 2023-04-11 | 4.53 | - | 19,363 |
+| 2023-04-12 | 4.53 | - | 19,363 |
+| 2023-04-13 | 4.53 | - | 19,383 |
+| 2023-04-14 | 4.53 | - | 19,401 |
+| 2023-04-15 | 4.53 | - | 19,419 |
+| 2023-04-16 | 4.53 | - | 19,436 |
+| 2023-04-17 | 4.53 | - | 19,458 |
+| 2023-04-18 | 4.53 | - | 19,458 |

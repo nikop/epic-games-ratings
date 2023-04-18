@@ -2,16 +2,16 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "Rating": 4.56,
-  "Ranking_Rating": 436,
-  "Ranking_Popularity": 437,
-  "Ranking_PopularitySum": 339,
+  "Ranking_Rating": 439,
+  "Ranking_Popularity": 438,
+  "Ranking_PopularitySum": 340,
   "NumberOfRatings": 98,
-  "NumberOfAwards": 222,
-  "NumberOfAwardsMax": 29,
+  "NumberOfAwards": 227,
+  "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
-  "LastChanged": "2023-03-21T21:57:19.284942+00:00",
+  "LastChanged": "2023-04-15T17:57:05.0417348+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-15T19:30:41.9786444+00:00",
@@ -351,6 +351,66 @@
     {
       "Time": "2023-03-21T21:57:19.2849422+00:00",
       "Rating": 4.56
+    },
+    {
+      "Time": "2023-04-02T04:56:54.9943896+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 222,
+      "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2023-04-03T04:57:11.2013467+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 222,
+      "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2023-04-06T13:03:18.324991+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 223,
+      "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2023-04-06T14:57:03.1768828+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 224,
+      "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2023-04-07T14:57:12.1590105+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 224,
+      "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2023-04-09T07:57:25.9918785+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 224,
+      "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2023-04-09T08:56:55.9912896+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 224,
+      "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2023-04-09T17:57:10.3188132+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 225,
+      "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2023-04-14T18:57:01.2245587+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 226,
+      "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2023-04-15T17:57:05.0417558+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 227,
+      "NumberOfAwardsMax": 30
     }
   ],
   "Tags": [
@@ -358,13 +418,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 25
+      "Count": 27
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -382,7 +442,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Amazing Characters",
@@ -406,7 +466,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 21
+      "Count": 22
     }
   ]
 }

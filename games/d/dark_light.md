@@ -1,8 +1,8 @@
 # Dark Light
-Rating: 4.31 (Ranked 734)  
+Rating: 4.33 (Ranked 723)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 478)  
-Sum: 0 (Ranked 478)  
+Max (): 0  (Ranked 484)  
+Sum: 0 (Ranked 484)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
@@ -17,3 +17,4 @@ Diff (max vs sum): 0
 | 2022-11-27 | 4.28 | - | - |
 | 2023-03-19 | 4.31 | - | - |
 | 2023-03-31 | 4.31 | - | 0 |
+| 2023-04-02 | 4.33 | - | 0 |

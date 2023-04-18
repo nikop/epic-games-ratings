@@ -1,15 +1,15 @@
 {
   "ID": "bafe9fd9f4f24ebea94a70a1fb3043fe",
   "Name": "Freedom Fighters",
-  "Rating": 4.71,
-  "Ranking_Rating": 177,
-  "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 478,
+  "Rating": 4.72,
+  "Ranking_Rating": 164,
+  "Ranking_Popularity": 484,
+  "Ranking_PopularitySum": 484,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:19:41.5852306+00:00",
   "FirstSeenRating": "2022-12-09T23:57:05.1665752+00:00",
-  "LastChanged": "2023-03-31T05:57:15.1041692+00:00",
+  "LastChanged": "2023-04-07T20:57:11.274892+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-09T23:57:05.1665755+00:00",
@@ -34,6 +34,12 @@
     {
       "Time": "2023-03-31T05:57:15.1041693+00:00",
       "Rating": 4.71,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-07T20:57:11.2748924+00:00",
+      "Rating": 4.72,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

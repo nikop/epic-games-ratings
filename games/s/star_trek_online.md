@@ -1,22 +1,22 @@
 # Star Trek Online
-Rating: 4.44 (Ranked 606)  
+Rating: 4.44 (Ranked 614)  
 Number of Ratings: 565  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 501  (Ranked 177)  
-Sum: 2,049 (Ranked 181)  
-Diff (max vs sum): -4
+Max (Character Customization): 517  (Ranked 177)  
+Sum: 2,109 (Ranked 178)  
+Diff (max vs sum): -1
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 501 |
-| This game is Great for Beginners | 208 |
-| This game is Relaxing | 202 |
-| This game has Diverse Characters | 197 |
-| This game is Extremely Fun | 196 |
-| This game has Amazing Storytelling | 187 |
-| This game is Highly Recommended | 187 |
-| This game has Amazing Characters | 186 |
-| This game has Quickly Understood Controls | 185 |
+| This game has Inclusive Character Customization | 517 |
+| This game is Great for Beginners | 212 |
+| This game is Relaxing | 208 |
+| This game has Diverse Characters | 207 |
+| This game is Extremely Fun | 199 |
+| This game has Amazing Characters | 193 |
+| This game is Highly Recommended | 192 |
+| This game has Amazing Storytelling | 191 |
+| This game has Quickly Understood Controls | 190 |
 | This game has Obsessive Gameplay | 73 |
 | This game has a Creative Community | 26 |
 ## Ratings History
@@ -105,3 +105,18 @@ Diff (max vs sum): -4
 | 2023-01-19 | 4.45 | - | - |
 | 2023-02-14 | 4.45 | - | - |
 | 2023-02-15 | 4.44 | - | - |
+| 2023-04-01 | 4.44 | - | 501 |
+| 2023-04-02 | 4.44 | - | 501 |
+| 2023-04-03 | 4.44 | - | 502 |
+| 2023-04-05 | 4.44 | - | 504 |
+| 2023-04-06 | 4.44 | - | 509 |
+| 2023-04-07 | 4.44 | - | 509 |
+| 2023-04-08 | 4.44 | - | 509 |
+| 2023-04-09 | 4.44 | - | 509 |
+| 2023-04-10 | 4.44 | - | 509 |
+| 2023-04-12 | 4.44 | - | 513 |
+| 2023-04-13 | 4.44 | - | 513 |
+| 2023-04-14 | 4.44 | - | 514 |
+| 2023-04-15 | 4.44 | - | 514 |
+| 2023-04-16 | 4.44 | - | 514 |
+| 2023-04-17 | 4.44 | - | 517 |

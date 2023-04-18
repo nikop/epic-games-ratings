@@ -1,14 +1,14 @@
 # Inscryption
-Rating: 4.86 (Ranked 32)  
+Rating: 4.86 (Ranked 29)  
 Number of Ratings: 771  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Challenging Puzzles): 327  (Ranked 206)  
-Sum: 351 (Ranked 301)  
-Diff (max vs sum): -95
+Max (Challenging Puzzles): 328  (Ranked 208)  
+Sum: 352 (Ranked 304)  
+Diff (max vs sum): -96
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game features Challenging Puzzles | 327 |
+| This game features Challenging Puzzles | 328 |
 | This game has Amazing Storytelling | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -82,3 +82,4 @@ Diff (max vs sum): -95
 | 2022-11-19 | 4.86 | - | - |
 | 2023-01-08 | 4.85 | - | - |
 | 2023-01-17 | 4.86 | - | - |
+| 2023-04-14 | 4.86 | - | 328 |

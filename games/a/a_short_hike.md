@@ -1,9 +1,9 @@
 # A Short Hike
-Rating: 4.83 (Ranked 55)  
+Rating: 4.82 (Ranked 60)  
 Number of Ratings: 184  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 478)  
-Sum: 0 (Ranked 478)  
+Max (): 0  (Ranked 484)  
+Sum: 0 (Ranked 484)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
@@ -77,3 +77,4 @@ Diff (max vs sum): 0
 | 2022-12-25 | 4.82 | - | - |
 | 2023-01-09 | 4.83 | - | - |
 | 2023-03-31 | 4.83 | - | 0 |
+| 2023-04-11 | 4.82 | - | 0 |

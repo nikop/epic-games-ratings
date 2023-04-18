@@ -1,23 +1,23 @@
 # Disney Dreamlight Valley
-Rating: 4.76 (Ranked 113)  
+Rating: 4.76 (Ranked 112)  
 Number of Ratings: 1,396  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 789  (Ranked 144)  
-Sum: 6,796 (Ranked 102)  
-Diff (max vs sum): 42
+Max (Great for Beginners): 811  (Ranked 145)  
+Sum: 6,907 (Ranked 102)  
+Diff (max vs sum): 43
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 789 |
-| This game is Relaxing | 746 |
-| This game has Amazing Characters | 729 |
-| This game is Highly Recommended | 724 |
-| This game has Diverse Characters | 707 |
-| This game has Amazing Storytelling | 704 |
-| This game has Quickly Understood Controls | 698 |
-| This game is Extremely Fun | 693 |
-| This game has a Creative Community | 555 |
-| This game has Easy Combat | 451 |
+| This game is Great for Beginners | 811 |
+| This game is Relaxing | 759 |
+| This game is Highly Recommended | 740 |
+| This game has Amazing Characters | 739 |
+| This game has Diverse Characters | 721 |
+| This game has Amazing Storytelling | 710 |
+| This game has Quickly Understood Controls | 706 |
+| This game is Extremely Fun | 700 |
+| This game has a Creative Community | 564 |
+| This game has Easy Combat | 457 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -53,3 +53,22 @@ Diff (max vs sum): 42
 | 2023-02-12 | 4.76 | - | - |
 | 2023-02-19 | 4.75 | - | - |
 | 2023-02-21 | 4.76 | - | - |
+| 2023-03-31 | 4.76 | - | 789 |
+| 2023-04-01 | 4.76 | - | 789 |
+| 2023-04-02 | 4.76 | - | 789 |
+| 2023-04-03 | 4.76 | - | 792 |
+| 2023-04-04 | 4.76 | - | 792 |
+| 2023-04-05 | 4.76 | - | 794 |
+| 2023-04-06 | 4.76 | - | 799 |
+| 2023-04-07 | 4.76 | - | 799 |
+| 2023-04-08 | 4.76 | - | 804 |
+| 2023-04-09 | 4.76 | - | 806 |
+| 2023-04-10 | 4.76 | - | 806 |
+| 2023-04-11 | 4.76 | - | 807 |
+| 2023-04-12 | 4.76 | - | 807 |
+| 2023-04-13 | 4.76 | - | 807 |
+| 2023-04-14 | 4.76 | - | 807 |
+| 2023-04-15 | 4.76 | - | 810 |
+| 2023-04-16 | 4.76 | - | 811 |
+| 2023-04-17 | 4.76 | - | 811 |
+| 2023-04-18 | 4.76 | - | 811 |

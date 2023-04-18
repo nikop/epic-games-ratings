@@ -1,8 +1,8 @@
 # NORCO
-Rating: 4.62 (Ranked 333)  
+Rating: 4.62 (Ranked 334)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 478)  
-Sum: 0 (Ranked 478)  
+Max (): 0  (Ranked 484)  
+Sum: 0 (Ranked 484)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |

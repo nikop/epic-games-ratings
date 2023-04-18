@@ -3,15 +3,15 @@
   "Name": "The Drone Racing League\u00AE",
   "Rating": 4.51,
   "Ranking_Rating": 509,
-  "Ranking_Popularity": 365,
-  "Ranking_PopularitySum": 291,
+  "Ranking_Popularity": 366,
+  "Ranking_PopularitySum": 290,
   "NumberOfRatings": 36,
-  "NumberOfAwards": 405,
-  "NumberOfAwardsMax": 61,
+  "NumberOfAwards": 412,
+  "NumberOfAwardsMax": 63,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:20:23.4862856+00:00",
   "FirstSeenRating": "2022-07-30T13:30:57.2183097+00:00",
-  "LastChanged": "2023-03-18T11:57:29.1201104+00:00",
+  "LastChanged": "2023-04-16T19:57:12.5167057+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-30T13:30:57.2183099+00:00",
@@ -332,6 +332,48 @@
     {
       "Time": "2023-03-18T11:57:29.1201107+00:00",
       "Rating": 4.51
+    },
+    {
+      "Time": "2023-03-31T18:57:22.7252452+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 406,
+      "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2023-03-31T20:57:24.8948576+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 407,
+      "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2023-04-04T14:57:32.0956575+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 408,
+      "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2023-04-06T15:57:18.0521191+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 409,
+      "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2023-04-07T01:50:41.6705354+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 410,
+      "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2023-04-14T22:57:24.6137991+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 411,
+      "NumberOfAwardsMax": 63
+    },
+    {
+      "Time": "2023-04-16T19:57:12.5167059+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 412,
+      "NumberOfAwardsMax": 63
     }
   ],
   "Tags": [
@@ -339,13 +381,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 61
+      "Count": 63
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 50
+      "Count": 54
     },
     {
       "Text": "This game is Relaxing",
@@ -381,7 +423,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game is Great for Beginners",

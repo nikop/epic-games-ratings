@@ -1,22 +1,22 @@
 # Marvel's Midnight Suns
-Rating: 4.54 (Ranked 468)  
+Rating: 4.52 (Ranked 498)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 979  (Ranked 132)  
-Sum: 1,940 (Ranked 184)  
-Diff (max vs sum): -52
+Max (Character Customization): 1,054  (Ranked 128)  
+Sum: 2,176 (Ranked 174)  
+Diff (max vs sum): -46
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 979 |
-| This game is Highly Recommended | 120 |
-| This game has Quickly Understood Controls | 118 |
-| This game is Relaxing | 117 |
-| This game has Amazing Storytelling | 115 |
-| This game has Diverse Characters | 114 |
-| This game is Great for Beginners | 109 |
-| This game has Amazing Characters | 105 |
-| This game is Extremely Fun | 102 |
-| This game has a Creative Community | 61 |
+| This game has Inclusive Character Customization | 1,054 |
+| This game is Highly Recommended | 143 |
+| This game has Quickly Understood Controls | 140 |
+| This game is Relaxing | 135 |
+| This game has Amazing Storytelling | 132 |
+| This game has Diverse Characters | 132 |
+| This game is Great for Beginners | 131 |
+| This game has Amazing Characters | 124 |
+| This game is Extremely Fun | 120 |
+| This game has a Creative Community | 65 |
 | This game has Challenging Combat | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -63,3 +63,21 @@ Diff (max vs sum): -52
 | 2023-03-12 | 4.55 | - | - |
 | 2023-03-25 | 4.54 | - | - |
 | 2023-03-31 | 4.54 | - | 979 |
+| 2023-04-01 | 4.54 | - | 981 |
+| 2023-04-02 | 4.54 | - | 989 |
+| 2023-04-03 | 4.54 | - | 998 |
+| 2023-04-04 | 4.54 | - | 1,003 |
+| 2023-04-05 | 4.54 | - | 1,008 |
+| 2023-04-06 | 4.54 | - | 1,015 |
+| 2023-04-07 | 4.54 | - | 1,015 |
+| 2023-04-08 | 4.53 | - | 1,021 |
+| 2023-04-09 | 4.53 | - | 1,023 |
+| 2023-04-10 | 4.53 | - | 1,027 |
+| 2023-04-11 | 4.53 | - | 1,032 |
+| 2023-04-12 | 4.53 | - | 1,032 |
+| 2023-04-13 | 4.53 | - | 1,033 |
+| 2023-04-14 | 4.53 | - | 1,038 |
+| 2023-04-15 | 4.53 | - | 1,041 |
+| 2023-04-16 | 4.52 | - | 1,047 |
+| 2023-04-17 | 4.52 | - | 1,047 |
+| 2023-04-18 | 4.52 | - | 1,054 |

@@ -1,22 +1,22 @@
 # Zombie Army 4: Dead War
-Rating: 4.69 (Ranked 215)  
+Rating: 4.69 (Ranked 213)  
 Number of Ratings: 743  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 750  (Ranked 147)  
-Sum: 2,306 (Ranked 164)  
-Diff (max vs sum): -17
+Max (Great Boss Battles): 764  (Ranked 147)  
+Sum: 2,337 (Ranked 168)  
+Diff (max vs sum): -21
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 750 |
-| This game is Great for Beginners | 225 |
-| This game is Extremely Fun | 202 |
-| This game has Amazing Storytelling | 201 |
-| This game is Highly Recommended | 198 |
-| This game has Quickly Understood Controls | 190 |
-| This game has Diverse Characters | 189 |
-| This game is Relaxing | 179 |
-| This game has Amazing Characters | 172 |
+| This game has Great Boss Battles | 764 |
+| This game is Great for Beginners | 232 |
+| This game is Extremely Fun | 203 |
+| This game has Amazing Storytelling | 202 |
+| This game is Highly Recommended | 201 |
+| This game has Quickly Understood Controls | 191 |
+| This game has Diverse Characters | 191 |
+| This game is Relaxing | 180 |
+| This game has Amazing Characters | 173 |
 | This game has Obsessive Gameplay | 165 |
 | This game has Challenging Combat | 84 |
 | This game has a Creative Community | 40 |
@@ -101,3 +101,20 @@ Diff (max vs sum): -17
 | 2023-03-25 | 4.69 | - | - |
 | 2023-03-27 | 4.69 | - | - |
 | 2023-03-31 | 4.69 | - | 750 |
+| 2023-04-01 | 4.69 | - | 750 |
+| 2023-04-02 | 4.69 | - | 750 |
+| 2023-04-03 | 4.69 | - | 751 |
+| 2023-04-04 | 4.69 | - | 751 |
+| 2023-04-05 | 4.69 | - | 752 |
+| 2023-04-07 | 4.69 | - | 754 |
+| 2023-04-08 | 4.69 | - | 754 |
+| 2023-04-09 | 4.69 | - | 756 |
+| 2023-04-10 | 4.69 | - | 757 |
+| 2023-04-11 | 4.69 | - | 757 |
+| 2023-04-12 | 4.69 | - | 758 |
+| 2023-04-13 | 4.69 | - | 760 |
+| 2023-04-14 | 4.69 | - | 760 |
+| 2023-04-15 | 4.69 | - | 761 |
+| 2023-04-16 | 4.69 | - | 764 |
+| 2023-04-17 | 4.69 | - | 764 |
+| 2023-04-18 | 4.69 | - | 764 |

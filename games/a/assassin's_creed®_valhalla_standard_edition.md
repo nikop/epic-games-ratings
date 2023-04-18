@@ -1,24 +1,24 @@
 # Assassin's Creed® Valhalla Standard Edition
-Rating: 4.60 (Ranked 374)  
+Rating: 4.60 (Ranked 375)  
 Number of Ratings: 12,317  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 11,118  (Ranked 30)  
-Sum: 25,669 (Ranked 41)  
-Diff (max vs sum): -11
+Max (Character Customization): 11,376  (Ranked 30)  
+Sum: 26,324 (Ranked 42)  
+Diff (max vs sum): -12
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 11,118 |
-| This game has Great Boss Battles | 6,938 |
-| This game has Quickly Understood Controls | 909 |
-| This game is Relaxing | 902 |
-| This game is Highly Recommended | 899 |
-| This game has Amazing Characters | 890 |
-| This game is Extremely Fun | 888 |
-| This game has Amazing Storytelling | 887 |
-| This game has Diverse Characters | 879 |
-| This game is Great for Beginners | 868 |
-| This game has a Creative Community | 491 |
+| This game has Inclusive Character Customization | 11,376 |
+| This game has Great Boss Battles | 7,124 |
+| This game has Quickly Understood Controls | 942 |
+| This game is Relaxing | 925 |
+| This game has Amazing Characters | 920 |
+| This game is Highly Recommended | 919 |
+| This game has Amazing Storytelling | 907 |
+| This game is Extremely Fun | 906 |
+| This game has Diverse Characters | 905 |
+| This game is Great for Beginners | 898 |
+| This game has a Creative Community | 502 |
 | This game has Obsessive Gameplay | 334 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -95,4 +95,22 @@ Diff (max vs sum): -11
 | 2022-12-22 | 4.59 | - | - |
 | 2022-12-26 | 4.60 | - | - |
 | 2022-12-27 | 4.60 | - | - |
-| 2023-03-31 | 4.60 | - | 11,118 |
+| 2023-03-31 | 4.60 | - | 11,126 |
+| 2023-04-01 | 4.60 | - | 11,143 |
+| 2023-04-02 | 4.60 | - | 11,164 |
+| 2023-04-03 | 4.60 | - | 11,181 |
+| 2023-04-04 | 4.60 | - | 11,193 |
+| 2023-04-05 | 4.60 | - | 11,206 |
+| 2023-04-06 | 4.60 | - | 11,218 |
+| 2023-04-07 | 4.60 | - | 11,239 |
+| 2023-04-08 | 4.60 | - | 11,239 |
+| 2023-04-09 | 4.60 | - | 11,262 |
+| 2023-04-10 | 4.60 | - | 11,273 |
+| 2023-04-11 | 4.60 | - | 11,286 |
+| 2023-04-12 | 4.60 | - | 11,300 |
+| 2023-04-13 | 4.60 | - | 11,307 |
+| 2023-04-14 | 4.60 | - | 11,324 |
+| 2023-04-15 | 4.60 | - | 11,344 |
+| 2023-04-16 | 4.60 | - | 11,362 |
+| 2023-04-17 | 4.60 | - | 11,376 |
+| 2023-04-18 | 4.60 | - | 11,376 |

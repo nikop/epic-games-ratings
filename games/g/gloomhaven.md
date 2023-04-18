@@ -1,24 +1,24 @@
 # Gloomhaven
-Rating: 4.47 (Ranked 566)  
+Rating: 4.47 (Ranked 570)  
 Number of Ratings: 68  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 3,411  (Ranked 79)  
-Sum: 7,839 (Ranked 89)  
+Max (Character Customization): 3,426  (Ranked 79)  
+Sum: 7,895 (Ranked 89)  
 Diff (max vs sum): -10
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 3,411 |
-| This game has Diverse Characters | 532 |
-| This game has Challenging Combat | 509 |
-| This game is Extremely Fun | 504 |
-| This game is Highly Recommended | 504 |
-| This game has Quickly Understood Controls | 463 |
-| This game is Relaxing | 460 |
-| This game has Amazing Storytelling | 457 |
-| This game has Amazing Characters | 450 |
-| This game has Unique Visuals | 350 |
-| This game has a Creative Community | 199 |
+| This game has Inclusive Character Customization | 3,426 |
+| This game has Diverse Characters | 542 |
+| This game has Challenging Combat | 515 |
+| This game is Highly Recommended | 508 |
+| This game is Extremely Fun | 507 |
+| This game has Quickly Understood Controls | 467 |
+| This game is Relaxing | 463 |
+| This game has Amazing Storytelling | 459 |
+| This game has Amazing Characters | 455 |
+| This game has Unique Visuals | 352 |
+| This game has a Creative Community | 201 |
 | This game has Obsessive Gameplay | 152 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -53,3 +53,19 @@ Diff (max vs sum): -10
 | 2023-01-06 | 4.46 | - | - |
 | 2023-01-08 | 4.47 | - | - |
 | 2023-03-31 | 4.47 | - | 3,411 |
+| 2023-04-01 | 4.47 | - | 3,411 |
+| 2023-04-02 | 4.47 | - | 3,412 |
+| 2023-04-03 | 4.47 | - | 3,414 |
+| 2023-04-04 | 4.47 | - | 3,414 |
+| 2023-04-05 | 4.47 | - | 3,415 |
+| 2023-04-06 | 4.47 | - | 3,415 |
+| 2023-04-07 | 4.47 | - | 3,415 |
+| 2023-04-08 | 4.47 | - | 3,416 |
+| 2023-04-09 | 4.47 | - | 3,422 |
+| 2023-04-10 | 4.47 | - | 3,422 |
+| 2023-04-11 | 4.47 | - | 3,422 |
+| 2023-04-12 | 4.47 | - | 3,423 |
+| 2023-04-13 | 4.47 | - | 3,423 |
+| 2023-04-14 | 4.47 | - | 3,425 |
+| 2023-04-15 | 4.47 | - | 3,425 |
+| 2023-04-17 | 4.47 | - | 3,426 |

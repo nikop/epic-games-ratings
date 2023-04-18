@@ -1,20 +1,20 @@
 # Medieval Dynasty
-Rating: 4.65 (Ranked 290)  
+Rating: 4.65 (Ranked 286)  
 Number of Ratings: 722  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Amazing Storytelling): 47  (Ranked 382)  
-Sum: 376 (Ranked 296)  
+Max (Amazing Storytelling): 48  (Ranked 384)  
+Sum: 380 (Ranked 298)  
 Diff (max vs sum): 86
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Amazing Storytelling | 47 |
+| This game has Amazing Storytelling | 48 |
 | This game is Highly Recommended | 45 |
 | This game has Easy Combat | 43 |
 | This game is Extremely Fun | 42 |
-| This game has Amazing Characters | 39 |
+| This game has Amazing Characters | 40 |
 | This game is Great for Beginners | 36 |
-| This game is Relaxing | 33 |
+| This game is Relaxing | 35 |
 | This game is Educational | 32 |
 | This game has Quickly Understood Controls | 31 |
 | This game has Obsessive Gameplay | 30 |
@@ -94,3 +94,8 @@ Diff (max vs sum): 86
 | 2022-10-20 | 4.63 | - | - |
 | 2022-10-21 | 4.64 | - | - |
 | 2022-11-19 | 4.65 | - | - |
+| 2023-04-02 | 4.65 | - | 48 |
+| 2023-04-04 | 4.65 | - | 48 |
+| 2023-04-06 | 4.65 | - | 48 |
+| 2023-04-08 | 4.66 | - | 48 |
+| 2023-04-10 | 4.65 | - | 48 |

@@ -1,6 +1,18 @@
 {
   "ID": "51800ea98e3848ff9fb9994397684901",
   "Name": "Skotos",
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-03-31T16:58:31.8527682+00:00",
+  "FirstSeenRating": "2023-03-31T16:58:31.8527727+00:00",
+  "LastChanged": "2023-03-31T16:58:31.8527728+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-03-31T16:58:31.8527731+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

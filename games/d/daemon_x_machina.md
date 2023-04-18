@@ -1,21 +1,21 @@
 # DAEMON X MACHINA
-Rating: 4.40 (Ranked 653)  
+Rating: 4.40 (Ranked 661)  
 Number of Ratings: 2,096  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 967  (Ranked 134)  
-Sum: 1,406 (Ranked 210)  
-Diff (max vs sum): -76
+Max (Great Boss Battles): 974  (Ranked 137)  
+Sum: 1,414 (Ranked 210)  
+Diff (max vs sum): -73
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 967 |
+| This game has Great Boss Battles | 974 |
 | This game is Great for Beginners | 67 |
 | This game is Great for Quick Sessions | 58 |
 | This game has Quickly Understood Controls | 56 |
 | This game has Diverse Characters | 56 |
 | This game is Extremely Fun | 52 |
+| This game is Highly Recommended | 52 |
 | This game has Amazing Characters | 51 |
-| This game is Highly Recommended | 51 |
 | This game has Unique Visuals | 48 |
 | This game has Obsessive Gameplay | 42 |
 ## Ratings History
@@ -103,3 +103,11 @@ Diff (max vs sum): -76
 | 2022-12-20 | 4.40 | - | - |
 | 2022-12-21 | 4.39 | - | - |
 | 2022-12-23 | 4.40 | - | - |
+| 2023-03-31 | 4.40 | - | 967 |
+| 2023-04-03 | 4.40 | - | 969 |
+| 2023-04-08 | 4.39 | - | 969 |
+| 2023-04-09 | 4.39 | - | 970 |
+| 2023-04-11 | 4.40 | - | 970 |
+| 2023-04-12 | 4.40 | - | 972 |
+| 2023-04-13 | 4.40 | - | 973 |
+| 2023-04-17 | 4.40 | - | 974 |

@@ -1,16 +1,16 @@
 {
   "ID": "0712176b5e3e49bfa8866c0ee1359f2d",
   "Name": "KINGDOM HEARTS III \u002B Re Mind",
-  "Rating": 4.78,
-  "Ranking_Rating": 99,
+  "Rating": 4.79,
+  "Ranking_Rating": 91,
   "Ranking_Popularity": 141,
-  "Ranking_PopularitySum": 168,
+  "Ranking_PopularitySum": 171,
   "NumberOfRatings": 2011,
-  "NumberOfAwards": 2241,
-  "NumberOfAwardsMax": 873,
+  "NumberOfAwards": 2260,
+  "NumberOfAwardsMax": 879,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:21:33.6381012+00:00",
-  "LastChanged": "2023-03-27T16:57:54.6691945+00:00",
+  "LastChanged": "2023-04-17T02:57:31.578442+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:33.6381014+00:00",
@@ -1413,6 +1413,108 @@
     {
       "Time": "2023-03-27T16:57:54.6691947+00:00",
       "Rating": 4.78
+    },
+    {
+      "Time": "2023-04-01T04:57:24.3092965+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 2242,
+      "NumberOfAwardsMax": 873
+    },
+    {
+      "Time": "2023-04-02T16:57:19.452634+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 2243,
+      "NumberOfAwardsMax": 874
+    },
+    {
+      "Time": "2023-04-03T16:57:32.189807+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2243,
+      "NumberOfAwardsMax": 874
+    },
+    {
+      "Time": "2023-04-03T22:57:19.9281663+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2244,
+      "NumberOfAwardsMax": 874
+    },
+    {
+      "Time": "2023-04-04T22:57:26.9077946+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2246,
+      "NumberOfAwardsMax": 876
+    },
+    {
+      "Time": "2023-04-05T21:57:10.6892038+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2247,
+      "NumberOfAwardsMax": 876
+    },
+    {
+      "Time": "2023-04-07T07:57:39.8922762+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2248,
+      "NumberOfAwardsMax": 876
+    },
+    {
+      "Time": "2023-04-07T13:57:31.6255794+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2249,
+      "NumberOfAwardsMax": 876
+    },
+    {
+      "Time": "2023-04-07T18:57:23.6617051+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2250,
+      "NumberOfAwardsMax": 876
+    },
+    {
+      "Time": "2023-04-07T19:57:28.0969006+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2251,
+      "NumberOfAwardsMax": 877
+    },
+    {
+      "Time": "2023-04-07T23:57:14.5038863+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2252,
+      "NumberOfAwardsMax": 877
+    },
+    {
+      "Time": "2023-04-11T04:57:35.3686235+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2253,
+      "NumberOfAwardsMax": 878
+    },
+    {
+      "Time": "2023-04-12T06:57:24.3071841+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2254,
+      "NumberOfAwardsMax": 879
+    },
+    {
+      "Time": "2023-04-13T19:57:41.4930802+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2255,
+      "NumberOfAwardsMax": 879
+    },
+    {
+      "Time": "2023-04-14T23:57:47.1707494+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2257,
+      "NumberOfAwardsMax": 879
+    },
+    {
+      "Time": "2023-04-15T23:57:48.2339067+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2258,
+      "NumberOfAwardsMax": 879
+    },
+    {
+      "Time": "2023-04-17T02:57:31.5784421+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2260,
+      "NumberOfAwardsMax": 879
     }
   ],
   "Tags": [
@@ -1420,13 +1522,13 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 873
+      "Count": 879
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 704
+      "Count": 713
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1438,7 +1540,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 90
+      "Count": 91
     },
     {
       "Text": "This game has a Creative Community",
@@ -1456,7 +1558,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 68
+      "Count": 69
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1468,7 +1570,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 73
+      "Count": 74
     },
     {
       "Text": "This game is Relaxing",
@@ -1486,7 +1588,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 63
+      "Count": 64
     }
   ]
 }

@@ -1,22 +1,22 @@
 # DEATH STRANDING
-Rating: 4.78 (Ranked 99)  
+Rating: 4.78 (Ranked 100)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 4,243  (Ranked 66)  
-Sum: 5,796 (Ranked 111)  
-Diff (max vs sum): -45
+Max (Great Boss Battles): 4,529  (Ranked 65)  
+Sum: 6,174 (Ranked 111)  
+Diff (max vs sum): -46
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 4,243 |
-| This game is Great for Beginners | 199 |
-| This game is Highly Recommended | 183 |
-| This game is Relaxing | 181 |
-| This game has Diverse Characters | 179 |
-| This game has Amazing Characters | 178 |
-| This game has Quickly Understood Controls | 178 |
-| This game has Amazing Storytelling | 170 |
-| This game is Extremely Fun | 152 |
-| This game has a Creative Community | 133 |
+| This game has Great Boss Battles | 4,529 |
+| This game is Great for Beginners | 213 |
+| This game is Highly Recommended | 197 |
+| This game has Diverse Characters | 195 |
+| This game is Relaxing | 189 |
+| This game has Quickly Understood Controls | 188 |
+| This game has Amazing Characters | 186 |
+| This game has Amazing Storytelling | 178 |
+| This game is Extremely Fun | 160 |
+| This game has a Creative Community | 139 |
 | This game has Easy Combat | 28 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -31,4 +31,22 @@ Diff (max vs sum): -45
 | 2023-01-07 | 4.77 | - | - |
 | 2023-01-13 | 4.78 | - | - |
 | 2023-01-14 | 4.78 | - | - |
-| 2023-03-31 | 4.78 | - | 4,243 |
+| 2023-03-31 | 4.78 | - | 4,255 |
+| 2023-04-01 | 4.78 | - | 4,268 |
+| 2023-04-02 | 4.78 | - | 4,295 |
+| 2023-04-03 | 4.78 | - | 4,306 |
+| 2023-04-04 | 4.78 | - | 4,328 |
+| 2023-04-05 | 4.78 | - | 4,350 |
+| 2023-04-06 | 4.78 | - | 4,369 |
+| 2023-04-07 | 4.78 | - | 4,395 |
+| 2023-04-08 | 4.78 | - | 4,415 |
+| 2023-04-09 | 4.78 | - | 4,430 |
+| 2023-04-10 | 4.78 | - | 4,448 |
+| 2023-04-11 | 4.78 | - | 4,448 |
+| 2023-04-12 | 4.78 | - | 4,459 |
+| 2023-04-13 | 4.78 | - | 4,467 |
+| 2023-04-14 | 4.78 | - | 4,478 |
+| 2023-04-15 | 4.78 | - | 4,496 |
+| 2023-04-16 | 4.78 | - | 4,516 |
+| 2023-04-17 | 4.78 | - | 4,529 |
+| 2023-04-18 | 4.78 | - | 4,529 |

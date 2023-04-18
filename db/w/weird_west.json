@@ -1,16 +1,16 @@
 {
   "ID": "73ce3d09e1d949e8b80f66c78c1cda50",
   "Name": "Weird West",
-  "Rating": 4.46,
-  "Ranking_Rating": 578,
-  "Ranking_Popularity": 468,
+  "Rating": 4.45,
+  "Ranking_Rating": 595,
+  "Ranking_Popularity": 465,
   "Ranking_PopularitySum": 468,
   "NumberOfRatings": 125,
-  "NumberOfAwards": 21,
-  "NumberOfAwardsMax": 21,
+  "NumberOfAwards": 22,
+  "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Impact the Story",
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
-  "LastChanged": "2023-03-24T18:58:50.344845+00:00",
+  "LastChanged": "2023-04-04T08:58:21.0392328+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:17.206459+00:00",
@@ -273,6 +273,18 @@
     {
       "Time": "2023-03-24T18:58:50.3448451+00:00",
       "Rating": 4.46
+    },
+    {
+      "Time": "2023-04-03T07:59:09.9435507+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 22,
+      "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-04-04T08:58:21.0392329+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 22,
+      "NumberOfAwardsMax": 22
     }
   ],
   "Tags": [
@@ -286,7 +298,7 @@
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 21
+      "Count": 22
     }
   ]
 }

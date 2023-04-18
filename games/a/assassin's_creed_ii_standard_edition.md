@@ -1,16 +1,17 @@
 # Assassin's Creed II Standard Edition
-Rating: 4.74 (Ranked 141)  
+Rating: 4.75 (Ranked 126)  
 Number of Ratings: 315  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Amazing Storytelling): 22  (Ranked 461)  
-Sum: 63 (Ranked 414)  
-Diff (max vs sum): 47
+Max (Amazing Storytelling): 23  (Ranked 461)  
+Sum: 84 (Ranked 398)  
+Diff (max vs sum): 63
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Amazing Storytelling | 22 |
+| This game has Amazing Storytelling | 23 |
 | This game is Extremely Fun | 21 |
 | This game has Quickly Understood Controls | 20 |
+| This game is Relaxing | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -87,3 +88,5 @@ Diff (max vs sum): 47
 | 2023-01-07 | 4.74 | - | - |
 | 2023-03-01 | 4.75 | - | - |
 | 2023-03-27 | 4.74 | - | - |
+| 2023-04-03 | 4.75 | - | 22 |
+| 2023-04-09 | 4.75 | - | 23 |

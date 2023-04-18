@@ -1,23 +1,23 @@
 # Saints Row
-Rating: 3.78 (Ranked 885)  
+Rating: 3.78 (Ranked 893)  
 Number of Ratings: 22,103  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Extremely Fun): 1,017  (Ranked 129)  
-Sum: 8,988 (Ranked 79)  
-Diff (max vs sum): 50
+Max (Extremely Fun): 1,019  (Ranked 130)  
+Sum: 9,018 (Ranked 81)  
+Diff (max vs sum): 49
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Extremely Fun | 1,017 |
-| This game has Quickly Understood Controls | 984 |
-| This game is Highly Recommended | 960 |
-| This game has Amazing Characters | 945 |
-| This game is Relaxing | 944 |
-| This game is Great for Beginners | 942 |
-| This game has Amazing Storytelling | 934 |
-| This game has Diverse Characters | 931 |
-| This game has Playful Visuals | 766 |
-| This game has a Silly Community | 565 |
+| This game is Extremely Fun | 1,019 |
+| This game has Quickly Understood Controls | 988 |
+| This game is Highly Recommended | 964 |
+| This game has Amazing Characters | 948 |
+| This game is Relaxing | 946 |
+| This game is Great for Beginners | 946 |
+| This game has Amazing Storytelling | 936 |
+| This game has Diverse Characters | 934 |
+| This game has Playful Visuals | 769 |
+| This game has a Silly Community | 568 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -54,3 +54,17 @@ Diff (max vs sum): 50
 | 2022-09-22 | 3.77 | 22,016 | - |
 | 2022-09-23 | 3.77 | 22,103 | - |
 | 2022-11-05 | 3.78 | - | - |
+| 2023-04-03 | 3.78 | - | 1,017 |
+| 2023-04-04 | 3.78 | - | 1,017 |
+| 2023-04-05 | 3.78 | - | 1,017 |
+| 2023-04-06 | 3.78 | - | 1,017 |
+| 2023-04-07 | 3.78 | - | 1,017 |
+| 2023-04-08 | 3.78 | - | 1,018 |
+| 2023-04-09 | 3.78 | - | 1,018 |
+| 2023-04-10 | 3.78 | - | 1,018 |
+| 2023-04-12 | 3.78 | - | 1,018 |
+| 2023-04-13 | 3.78 | - | 1,018 |
+| 2023-04-14 | 3.78 | - | 1,018 |
+| 2023-04-15 | 3.78 | - | 1,019 |
+| 2023-04-16 | 3.78 | - | 1,019 |
+| 2023-04-17 | 3.78 | - | 1,019 |

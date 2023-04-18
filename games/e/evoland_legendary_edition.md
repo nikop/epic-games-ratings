@@ -1,13 +1,13 @@
 # Evoland Legendary Edition
-Rating: 4.49 (Ranked 537)  
+Rating: 4.49 (Ranked 541)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 270  (Ranked 226)  
-Sum: 270 (Ranked 324)  
-Diff (max vs sum): -98
+Max (Great Boss Battles): 271  (Ranked 227)  
+Sum: 271 (Ranked 328)  
+Diff (max vs sum): -101
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 270 |
+| This game has Great Boss Battles | 271 |
 | This game has Inclusive Character Customization | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -20,3 +20,4 @@ Diff (max vs sum): -98
 | 2022-10-29 | 4.47 | - | - |
 | 2022-11-03 | 4.48 | - | - |
 | 2022-11-09 | 4.49 | - | - |
+| 2023-04-13 | 4.49 | - | 271 |

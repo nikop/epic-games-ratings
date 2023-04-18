@@ -1,8 +1,18 @@
 {
   "ID": "19428f80ed53434f91e89f69ce7767d3",
   "Name": "Troublemaker",
-  "Names": [],
-  "DailyRatings": 0,
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-02T06:59:01.0065166+00:00",
+  "FirstSeenRating": "2023-04-02T06:59:01.0065194+00:00",
+  "LastChanged": "2023-04-02T06:59:01.0065195+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-02T06:59:01.0065196+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

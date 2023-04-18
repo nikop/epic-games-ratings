@@ -1,21 +1,21 @@
 # PC Building Simulator 2
-Rating: 4.62 (Ranked 333)  
+Rating: 4.62 (Ranked 334)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 576  (Ranked 163)  
-Sum: 4,392 (Ranked 126)  
-Diff (max vs sum): 37
+Max (Great for Beginners): 585  (Ranked 163)  
+Sum: 4,457 (Ranked 127)  
+Diff (max vs sum): 36
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 576 |
-| This game is Educational | 561 |
-| This game is Relaxing | 558 |
-| This game is Extremely Fun | 531 |
-| This game has Quickly Understood Controls | 527 |
-| This game is Highly Recommended | 492 |
-| This game has Amazing Storytelling | 453 |
-| This game has a Creative Community | 366 |
-| This game has Amazing Characters | 328 |
+| This game is Great for Beginners | 585 |
+| This game is Educational | 569 |
+| This game is Relaxing | 565 |
+| This game is Extremely Fun | 540 |
+| This game has Quickly Understood Controls | 531 |
+| This game is Highly Recommended | 501 |
+| This game has Amazing Storytelling | 460 |
+| This game has a Creative Community | 374 |
+| This game has Amazing Characters | 332 |
 | This game has Obsessive Gameplay | 171 |
 | This game has Easy Combat | 96 |
 ## Ratings History
@@ -37,3 +37,19 @@ Diff (max vs sum): 37
 | 2022-11-12 | 4.62 | - | - |
 | 2022-11-13 | 4.62 | - | - |
 | 2023-03-31 | 4.62 | - | 576 |
+| 2023-04-01 | 4.62 | - | 576 |
+| 2023-04-02 | 4.62 | - | 577 |
+| 2023-04-03 | 4.62 | - | 577 |
+| 2023-04-04 | 4.62 | - | 578 |
+| 2023-04-05 | 4.62 | - | 578 |
+| 2023-04-06 | 4.62 | - | 579 |
+| 2023-04-08 | 4.62 | - | 579 |
+| 2023-04-09 | 4.62 | - | 579 |
+| 2023-04-10 | 4.62 | - | 579 |
+| 2023-04-11 | 4.62 | - | 580 |
+| 2023-04-12 | 4.62 | - | 582 |
+| 2023-04-13 | 4.62 | - | 585 |
+| 2023-04-14 | 4.62 | - | 585 |
+| 2023-04-15 | 4.62 | - | 585 |
+| 2023-04-16 | 4.62 | - | 585 |
+| 2023-04-17 | 4.62 | - | 585 |

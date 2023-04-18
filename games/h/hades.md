@@ -1,26 +1,26 @@
 # Hades
-Rating: 4.92 (Ranked 3)  
+Rating: 4.92 (Ranked 4)  
 Number of Ratings: 6,336  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 2,960  (Ranked 86)  
-Sum: 7,251 (Ranked 94)  
-Diff (max vs sum): -8
+Max (Character Customization): 2,997  (Ranked 86)  
+Sum: 7,328 (Ranked 95)  
+Diff (max vs sum): -9
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 2,960 |
-| This game has Great Boss Battles | 2,112 |
-| This game is Highly Recommended | 248 |
-| This game is Extremely Fun | 232 |
-| This game is Great for Beginners | 229 |
-| This game has Amazing Storytelling | 228 |
-| This game has Amazing Characters | 222 |
-| This game has Diverse Characters | 222 |
-| This game has Quickly Understood Controls | 221 |
-| This game is Relaxing | 219 |
-| This game has Unique Visuals | 212 |
+| This game has Inclusive Character Customization | 2,997 |
+| This game has Great Boss Battles | 2,134 |
+| This game is Highly Recommended | 250 |
+| This game is Extremely Fun | 233 |
+| This game is Great for Beginners | 231 |
+| This game has Amazing Storytelling | 229 |
+| This game has Diverse Characters | 225 |
+| This game has Amazing Characters | 224 |
+| This game has Quickly Understood Controls | 224 |
+| This game is Relaxing | 221 |
+| This game has Unique Visuals | 213 |
 | This game has Challenging Combat | 170 |
-| This game has a Creative Community | 146 |
+| This game has a Creative Community | 147 |
 | This game has Obsessive Gameplay | 144 |
 | This game is Educational | 51 |
 ## Ratings History
@@ -90,3 +90,22 @@ Diff (max vs sum): -8
 | 2022-09-21 | 4.92 | 6,263 | - |
 | 2022-09-22 | 4.92 | 6,315 | - |
 | 2022-09-23 | 4.92 | 6,336 | - |
+| 2023-03-31 | 4.92 | - | 2,965 |
+| 2023-04-01 | 4.92 | - | 2,965 |
+| 2023-04-02 | 4.92 | - | 2,967 |
+| 2023-04-03 | 4.92 | - | 2,970 |
+| 2023-04-04 | 4.92 | - | 2,970 |
+| 2023-04-05 | 4.92 | - | 2,973 |
+| 2023-04-06 | 4.92 | - | 2,973 |
+| 2023-04-07 | 4.92 | - | 2,977 |
+| 2023-04-08 | 4.92 | - | 2,980 |
+| 2023-04-09 | 4.92 | - | 2,982 |
+| 2023-04-10 | 4.92 | - | 2,982 |
+| 2023-04-11 | 4.92 | - | 2,986 |
+| 2023-04-12 | 4.92 | - | 2,988 |
+| 2023-04-13 | 4.92 | - | 2,988 |
+| 2023-04-14 | 4.92 | - | 2,989 |
+| 2023-04-15 | 4.92 | - | 2,993 |
+| 2023-04-16 | 4.92 | - | 2,993 |
+| 2023-04-17 | 4.92 | - | 2,994 |
+| 2023-04-18 | 4.92 | - | 2,997 |

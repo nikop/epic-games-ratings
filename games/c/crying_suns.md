@@ -1,14 +1,14 @@
 # Crying Suns
-Rating: 4.49 (Ranked 537)  
+Rating: 4.50 (Ranked 525)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 208  (Ranked 249)  
-Sum: 208 (Ranked 342)  
-Diff (max vs sum): -93
+Max (Character Customization): 209  (Ranked 249)  
+Sum: 209 (Ranked 344)  
+Diff (max vs sum): -95
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 208 |
+| This game has Inclusive Character Customization | 209 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -80,3 +80,5 @@ Diff (max vs sum): -93
 | 2022-10-19 | 4.49 | - | - |
 | 2022-10-20 | 4.50 | - | - |
 | 2022-11-10 | 4.49 | - | - |
+| 2023-04-10 | 4.50 | - | 208 |
+| 2023-04-18 | 4.50 | - | 209 |

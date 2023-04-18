@@ -1,23 +1,23 @@
 # World of Warships
-Rating: 4.46 (Ranked 578)  
+Rating: 4.44 (Ranked 614)  
 Number of Ratings: 4,733  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Quickly Understood Controls): 960  (Ranked 135)  
-Sum: 8,518 (Ranked 83)  
-Diff (max vs sum): 52
+Max (Relaxing): 992  (Ranked 133)  
+Sum: 8,738 (Ranked 82)  
+Diff (max vs sum): 51
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Quickly Understood Controls | 960 |
-| This game is Relaxing | 960 |
-| This game is Extremely Fun | 930 |
-| This game has Competitive Players | 910 |
-| This game has Challenging Combat | 907 |
-| This game is Highly Recommended | 888 |
-| This game has Realistic Visuals | 810 |
-| This game has Amazing Storytelling | 786 |
-| This game has Amazing Characters | 689 |
-| This game has a Competitive Community | 678 |
+| This game is Relaxing | 992 |
+| This game has Quickly Understood Controls | 979 |
+| This game is Extremely Fun | 950 |
+| This game has Challenging Combat | 932 |
+| This game has Competitive Players | 931 |
+| This game is Highly Recommended | 913 |
+| This game has Realistic Visuals | 828 |
+| This game has Amazing Storytelling | 802 |
+| This game has Amazing Characters | 709 |
+| This game has a Competitive Community | 702 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -99,4 +99,22 @@ Diff (max vs sum): 52
 | 2023-03-08 | 4.46 | - | - |
 | 2023-03-10 | 4.47 | - | - |
 | 2023-03-12 | 4.46 | - | - |
-| 2023-03-31 | 4.46 | - | 960 |
+| 2023-03-31 | 4.46 | - | 963 |
+| 2023-04-01 | 4.45 | - | 963 |
+| 2023-04-02 | 4.45 | - | 966 |
+| 2023-04-03 | 4.45 | - | 966 |
+| 2023-04-04 | 4.45 | - | 968 |
+| 2023-04-05 | 4.45 | - | 968 |
+| 2023-04-06 | 4.45 | - | 972 |
+| 2023-04-07 | 4.45 | - | 974 |
+| 2023-04-08 | 4.44 | - | 977 |
+| 2023-04-09 | 4.44 | - | 977 |
+| 2023-04-10 | 4.44 | - | 978 |
+| 2023-04-11 | 4.44 | - | 980 |
+| 2023-04-12 | 4.44 | - | 981 |
+| 2023-04-13 | 4.44 | - | 984 |
+| 2023-04-14 | 4.44 | - | 984 |
+| 2023-04-15 | 4.44 | - | 987 |
+| 2023-04-16 | 4.44 | - | 987 |
+| 2023-04-17 | 4.44 | - | 992 |
+| 2023-04-18 | 4.44 | - | 992 |

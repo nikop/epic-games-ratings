@@ -1,21 +1,21 @@
 # Terraforming Mars
-Rating: 4.54 (Ranked 468)  
+Rating: 4.54 (Ranked 474)  
 Number of Ratings: 2,731  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Relaxing): 486  (Ranked 180)  
-Sum: 3,016 (Ranked 144)  
+Max (Relaxing): 490  (Ranked 180)  
+Sum: 3,031 (Ranked 144)  
 Diff (max vs sum): 36
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Relaxing | 486 |
-| This game is Highly Recommended | 473 |
-| This game is Extremely Fun | 434 |
-| This game has Quickly Understood Controls | 432 |
-| This game has Competitive Players | 428 |
+| This game is Relaxing | 490 |
+| This game is Highly Recommended | 476 |
+| This game has Quickly Understood Controls | 436 |
+| This game is Extremely Fun | 435 |
+| This game has Competitive Players | 429 |
 | This game has Amazing Storytelling | 349 |
 | This game has Obsessive Gameplay | 334 |
-| This game has a Competitive Community | 226 |
+| This game has a Competitive Community | 228 |
 | This game has Amazing Characters | 188 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -91,3 +91,13 @@ Diff (max vs sum): 36
 | 2023-03-23 | 4.55 | - | - |
 | 2023-03-24 | 4.54 | - | - |
 | 2023-03-31 | 4.54 | - | 486 |
+| 2023-04-01 | 4.54 | - | 486 |
+| 2023-04-03 | 4.54 | - | 487 |
+| 2023-04-05 | 4.54 | - | 488 |
+| 2023-04-08 | 4.54 | - | 489 |
+| 2023-04-11 | 4.54 | - | 489 |
+| 2023-04-12 | 4.54 | - | 489 |
+| 2023-04-13 | 4.54 | - | 489 |
+| 2023-04-14 | 4.54 | - | 489 |
+| 2023-04-15 | 4.54 | - | 490 |
+| 2023-04-16 | 4.54 | - | 490 |

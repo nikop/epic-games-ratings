@@ -1,15 +1,15 @@
 {
   "ID": "anise",
   "Name": "Assassin\u0027s Creed\u00AE III: Remastered",
-  "Rating": 4.47,
-  "Ranking_Rating": 566,
-  "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 478,
+  "Rating": 4.48,
+  "Ranking_Rating": 558,
+  "Ranking_Popularity": 484,
+  "Ranking_PopularitySum": 484,
   "NumberOfRatings": 257,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:26:27.0025149+00:00",
-  "LastChanged": "2023-03-31T05:58:02.2320703+00:00",
+  "LastChanged": "2023-04-16T14:58:07.8243696+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:27.0025151+00:00",
@@ -446,6 +446,24 @@
     {
       "Time": "2023-03-31T05:58:02.2320705+00:00",
       "Rating": 4.47,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-10T18:58:20.4479462+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-14T14:58:20.7279459+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-16T14:58:07.8243697+00:00",
+      "Rating": 4.48,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

@@ -1,20 +1,20 @@
 # Shop Titans
-Rating: 3.98 (Ranked 863)  
+Rating: 3.98 (Ranked 872)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 4,479  (Ranked 64)  
-Sum: 26,260 (Ranked 40)  
-Diff (max vs sum): 24
+Max (Great for Beginners): 4,517  (Ranked 66)  
+Sum: 26,392 (Ranked 41)  
+Diff (max vs sum): 25
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 4,479 |
-| This game is Relaxing | 3,925 |
-| This game has Quickly Understood Controls | 3,903 |
-| This game has Diverse Characters | 3,692 |
-| This game is Highly Recommended | 3,636 |
-| This game has Easy Combat | 3,578 |
-| This game has Playful Visuals | 3,047 |
+| This game is Great for Beginners | 4,517 |
+| This game is Relaxing | 3,932 |
+| This game has Quickly Understood Controls | 3,916 |
+| This game has Diverse Characters | 3,719 |
+| This game is Highly Recommended | 3,653 |
+| This game has Easy Combat | 3,590 |
+| This game has Playful Visuals | 3,065 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -86,3 +86,20 @@ Diff (max vs sum): 24
 | 2022-11-07 | 3.98 | - | - |
 | 2022-11-10 | 3.98 | - | - |
 | 2023-03-31 | 3.98 | - | 4,479 |
+| 2023-04-01 | 3.98 | - | 4,479 |
+| 2023-04-02 | 3.98 | - | 4,483 |
+| 2023-04-03 | 3.98 | - | 4,483 |
+| 2023-04-04 | 3.98 | - | 4,484 |
+| 2023-04-05 | 3.98 | - | 4,484 |
+| 2023-04-06 | 3.98 | - | 4,485 |
+| 2023-04-07 | 3.98 | - | 4,490 |
+| 2023-04-08 | 3.98 | - | 4,496 |
+| 2023-04-09 | 3.98 | - | 4,500 |
+| 2023-04-10 | 3.98 | - | 4,503 |
+| 2023-04-11 | 3.98 | - | 4,504 |
+| 2023-04-12 | 3.98 | - | 4,504 |
+| 2023-04-13 | 3.98 | - | 4,507 |
+| 2023-04-14 | 3.98 | - | 4,511 |
+| 2023-04-15 | 3.98 | - | 4,514 |
+| 2023-04-16 | 3.98 | - | 4,514 |
+| 2023-04-17 | 3.98 | - | 4,517 |

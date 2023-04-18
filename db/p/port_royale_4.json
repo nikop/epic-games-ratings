@@ -1,15 +1,15 @@
 {
   "ID": "e89efaeec0cd408abee8bd4dd02c8d32",
   "Name": "Port Royale 4",
-  "Rating": 3.98,
-  "Ranking_Rating": 863,
-  "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 478,
+  "Rating": 3.99,
+  "Ranking_Rating": 869,
+  "Ranking_Popularity": 484,
+  "Ranking_PopularitySum": 484,
   "NumberOfRatings": 53,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
-  "LastChanged": "2023-03-31T05:57:25.1784976+00:00",
+  "LastChanged": "2023-04-16T13:57:11.7782921+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-24T16:01:41.0420803+00:00",
@@ -193,6 +193,12 @@
     {
       "Time": "2023-03-31T05:57:25.1784979+00:00",
       "Rating": 3.98,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-16T13:57:11.7782924+00:00",
+      "Rating": 3.99,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

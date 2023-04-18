@@ -1,22 +1,22 @@
 # NBA 2K21
-Rating: 4.39 (Ranked 664)  
+Rating: 4.39 (Ranked 670)  
 Number of Ratings: 43,722  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Relaxing): 11,618  (Ranked 28)  
-Sum: 87,868 (Ranked 14)  
-Diff (max vs sum): 14
+Max (Relaxing): 11,636  (Ranked 29)  
+Sum: 88,028 (Ranked 14)  
+Diff (max vs sum): 15
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Relaxing | 11,618 |
-| This game has Quickly Understood Controls | 10,737 |
-| This game has Competitive Players | 10,365 |
-| This game has Diverse Characters | 10,361 |
-| This game is Extremely Fun | 10,154 |
-| This game has Amazing Storytelling | 9,457 |
-| This game is Highly Recommended | 9,452 |
-| This game has Amazing Characters | 9,058 |
-| This game has a Competitive Community | 6,666 |
+| This game is Relaxing | 11,636 |
+| This game has Quickly Understood Controls | 10,747 |
+| This game has Diverse Characters | 10,402 |
+| This game has Competitive Players | 10,392 |
+| This game is Extremely Fun | 10,166 |
+| This game has Amazing Storytelling | 9,467 |
+| This game is Highly Recommended | 9,464 |
+| This game has Amazing Characters | 9,075 |
+| This game has a Competitive Community | 6,679 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -101,3 +101,21 @@ Diff (max vs sum): 14
 | 2022-11-21 | 4.40 | - | - |
 | 2022-12-16 | 4.39 | - | - |
 | 2023-03-31 | 4.39 | - | 11,618 |
+| 2023-04-01 | 4.39 | - | 11,618 |
+| 2023-04-02 | 4.39 | - | 11,620 |
+| 2023-04-03 | 4.39 | - | 11,620 |
+| 2023-04-04 | 4.39 | - | 11,620 |
+| 2023-04-05 | 4.39 | - | 11,623 |
+| 2023-04-06 | 4.39 | - | 11,625 |
+| 2023-04-07 | 4.39 | - | 11,625 |
+| 2023-04-08 | 4.39 | - | 11,628 |
+| 2023-04-09 | 4.39 | - | 11,628 |
+| 2023-04-10 | 4.39 | - | 11,628 |
+| 2023-04-11 | 4.39 | - | 11,631 |
+| 2023-04-12 | 4.39 | - | 11,631 |
+| 2023-04-13 | 4.39 | - | 11,631 |
+| 2023-04-14 | 4.39 | - | 11,634 |
+| 2023-04-15 | 4.39 | - | 11,635 |
+| 2023-04-16 | 4.39 | - | 11,636 |
+| 2023-04-17 | 4.39 | - | 11,636 |
+| 2023-04-18 | 4.39 | - | 11,636 |

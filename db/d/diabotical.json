@@ -1,16 +1,16 @@
 {
   "ID": "36336ee97ec543bbae85abaca618182b",
   "Name": "Diabotical",
-  "Rating": 4.76,
-  "Ranking_Rating": 113,
-  "Ranking_Popularity": 231,
-  "Ranking_PopularitySum": 167,
+  "Rating": 4.75,
+  "Ranking_Rating": 126,
+  "Ranking_Popularity": 230,
+  "Ranking_PopularitySum": 161,
   "NumberOfRatings": 572,
-  "NumberOfAwards": 2285,
-  "NumberOfAwardsMax": 259,
+  "NumberOfAwards": 2539,
+  "NumberOfAwardsMax": 264,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:22:10.7191906+00:00",
-  "LastChanged": "2022-11-30T21:57:34.4670766+00:00",
+  "LastChanged": "2023-04-16T20:58:04.2129163+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:10.7191909+00:00",
@@ -832,38 +832,116 @@
     {
       "Time": "2022-11-30T21:57:34.4670768+00:00",
       "Rating": 4.76
+    },
+    {
+      "Time": "2023-04-04T13:57:38.8409851+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 2286,
+      "NumberOfAwardsMax": 259
+    },
+    {
+      "Time": "2023-04-04T16:57:38.9406539+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 2287,
+      "NumberOfAwardsMax": 259
+    },
+    {
+      "Time": "2023-04-04T18:57:39.0691583+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 2289,
+      "NumberOfAwardsMax": 261
+    },
+    {
+      "Time": "2023-04-04T22:57:31.8726154+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 2290,
+      "NumberOfAwardsMax": 261
+    },
+    {
+      "Time": "2023-04-06T22:57:23.131433+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 2290,
+      "NumberOfAwardsMax": 261
+    },
+    {
+      "Time": "2023-04-08T18:57:31.126502+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 2291,
+      "NumberOfAwardsMax": 261
+    },
+    {
+      "Time": "2023-04-08T22:57:51.2075421+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 2293,
+      "NumberOfAwardsMax": 262
+    },
+    {
+      "Time": "2023-04-12T09:57:50.2402891+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 2533,
+      "NumberOfAwardsMax": 262
+    },
+    {
+      "Time": "2023-04-15T01:56:49.0642838+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 2534,
+      "NumberOfAwardsMax": 263
+    },
+    {
+      "Time": "2023-04-15T03:57:33.9728559+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 2536,
+      "NumberOfAwardsMax": 263
+    },
+    {
+      "Time": "2023-04-15T04:57:30.6750377+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 2537,
+      "NumberOfAwardsMax": 263
+    },
+    {
+      "Time": "2023-04-15T20:57:45.349509+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 2538,
+      "NumberOfAwardsMax": 263
+    },
+    {
+      "Time": "2023-04-16T20:58:04.2129167+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 2539,
+      "NumberOfAwardsMax": 264
     }
   ],
   "Tags": [
     {
       "Text": "This game is Relaxing",
-      "Prefix": "",
-      "Type": "",
-      "Count": 187
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 240
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 252
+      "Count": 253
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 259
+      "Count": 264
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 219
+      "Count": 220
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 235
+      "Count": 236
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -875,13 +953,13 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 233
+      "Count": 234
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 182
+      "Count": 183
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -899,13 +977,13 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 201
+      "Count": 204
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 217
+      "Count": 218
     }
   ]
 }

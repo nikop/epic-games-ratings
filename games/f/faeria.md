@@ -1,14 +1,14 @@
 # Faeria
-Rating: 4.45 (Ranked 592)  
+Rating: 4.45 (Ranked 595)  
 Number of Ratings: 194  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 102  (Ranked 310)  
-Sum: 312 (Ranked 313)  
-Diff (max vs sum): -3
+Max (Character Customization): 103  (Ranked 311)  
+Sum: 313 (Ranked 316)  
+Diff (max vs sum): -5
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 102 |
+| This game has Inclusive Character Customization | 103 |
 | This game is Great for Quick Sessions | 38 |
 | This game has Quickly Understood Controls | 34 |
 | This game is Great for Beginners | 32 |
@@ -89,3 +89,4 @@ Diff (max vs sum): -3
 | 2023-01-03 | 4.43 | - | - |
 | 2023-01-04 | 4.44 | - | - |
 | 2023-02-27 | 4.45 | - | - |
+| 2023-04-12 | 4.45 | - | 103 |

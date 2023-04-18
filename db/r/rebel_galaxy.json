@@ -2,15 +2,15 @@
   "ID": "weaver",
   "Name": "Rebel Galaxy",
   "Rating": 4.42,
-  "Ranking_Rating": 630,
-  "Ranking_Popularity": 433,
-  "Ranking_PopularitySum": 368,
+  "Ranking_Rating": 635,
+  "Ranking_Popularity": 438,
+  "Ranking_PopularitySum": 372,
   "NumberOfRatings": 774,
-  "NumberOfAwards": 152,
+  "NumberOfAwards": 154,
   "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:27:15.7165478+00:00",
-  "LastChanged": "2023-03-21T17:57:52.1674099+00:00",
+  "LastChanged": "2023-04-15T01:57:24.2893121+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:15.7165482+00:00",
@@ -663,6 +663,30 @@
     {
       "Time": "2023-03-21T17:57:52.1674103+00:00",
       "Rating": 4.42
+    },
+    {
+      "Time": "2023-04-03T16:58:17.0483532+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 152,
+      "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2023-04-04T22:58:11.7493969+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 153,
+      "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2023-04-09T06:58:08.3844129+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 153,
+      "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2023-04-15T01:57:24.2893122+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 154,
+      "NumberOfAwardsMax": 30
     }
   ],
   "Tags": [
@@ -688,7 +712,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -700,7 +724,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game is Great for Quick Sessions",

@@ -1,10 +1,10 @@
 # The Walking Dead: Season One
-Rating: 4.80 (Ranked 79)  
+Rating: 4.81 (Ranked 70)  
 Number of Ratings: 70  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Impact the Story): 26  (Ranked 450)  
-Sum: 26 (Ranked 452)  
-Diff (max vs sum): -2
+Max (Impact the Story): 26  (Ranked 452)  
+Sum: 26 (Ranked 458)  
+Diff (max vs sum): -6
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
@@ -50,3 +50,4 @@ Diff (max vs sum): -2
 | 2022-12-09 | 4.82 | - | - |
 | 2022-12-26 | 4.83 | - | - |
 | 2023-02-13 | 4.80 | - | - |
+| 2023-04-13 | 4.81 | - | 26 |

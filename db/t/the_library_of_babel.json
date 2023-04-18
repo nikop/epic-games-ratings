@@ -1,6 +1,18 @@
 {
   "ID": "24d1afd359944b9b8bba6ca383675514",
   "Name": "The Library of Babel",
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-08T15:56:55.3694371+00:00",
+  "FirstSeenRating": "2023-04-08T15:56:55.3694388+00:00",
+  "LastChanged": "2023-04-08T15:56:55.3694389+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-08T15:56:55.369439+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -1,6 +1,18 @@
 {
   "ID": "162c788ef5924c688fa0d0663c15a763",
   "Name": "Get Together: A Coop Adventure",
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-16T21:58:05.2747167+00:00",
+  "FirstSeenRating": "2023-04-16T21:58:05.2747204+00:00",
+  "LastChanged": "2023-04-16T21:58:05.2747204+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-16T21:58:05.2747206+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

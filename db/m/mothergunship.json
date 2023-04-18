@@ -1,16 +1,16 @@
 {
   "ID": "7dc02eac2fe347368b5f72a02bb5bc5e",
   "Name": "Mothergunship",
-  "Rating": 4.38,
-  "Ranking_Rating": 673,
-  "Ranking_Popularity": 274,
-  "Ranking_PopularitySum": 363,
+  "Rating": 4.39,
+  "Ranking_Rating": 670,
+  "Ranking_Popularity": 275,
+  "Ranking_PopularitySum": 366,
   "NumberOfRatings": 436,
-  "NumberOfAwards": 158,
-  "NumberOfAwardsMax": 158,
+  "NumberOfAwards": 161,
+  "NumberOfAwardsMax": 161,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:25:55.041007+00:00",
-  "LastChanged": "2023-01-29T04:58:07.6611604+00:00",
+  "LastChanged": "2023-04-15T20:58:07.7537184+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:55.0410072+00:00",
@@ -524,6 +524,30 @@
     {
       "Time": "2023-01-29T04:58:07.6611605+00:00",
       "Rating": 4.38
+    },
+    {
+      "Time": "2023-04-06T01:56:10.583562+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 159,
+      "NumberOfAwardsMax": 159
+    },
+    {
+      "Time": "2023-04-08T15:57:32.5291444+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 160,
+      "NumberOfAwardsMax": 160
+    },
+    {
+      "Time": "2023-04-13T03:57:48.6181057+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 161,
+      "NumberOfAwardsMax": 161
+    },
+    {
+      "Time": "2023-04-15T20:58:07.7537186+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 161,
+      "NumberOfAwardsMax": 161
     }
   ],
   "Tags": [
@@ -531,7 +555,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 158
+      "Count": 161
     }
   ]
 }

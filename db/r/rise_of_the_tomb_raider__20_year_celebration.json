@@ -2,15 +2,15 @@
   "ID": "48ffecf4a89f4fd496817b0451384f39",
   "Name": "Rise of the Tomb Raider: 20 Year Celebration",
   "Rating": 4.69,
-  "Ranking_Rating": 215,
-  "Ranking_Popularity": 31,
-  "Ranking_PopularitySum": 59,
+  "Ranking_Rating": 213,
+  "Ranking_Popularity": 32,
+  "Ranking_PopularitySum": 60,
   "NumberOfRatings": 28216,
-  "NumberOfAwards": 14046,
-  "NumberOfAwardsMax": 11115,
+  "NumberOfAwards": 14102,
+  "NumberOfAwardsMax": 11158,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:21:10.6439255+00:00",
-  "LastChanged": "2022-10-16T17:00:59.4894243+00:00",
+  "LastChanged": "2023-04-17T13:57:38.9778311+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:10.6439258+00:00",
@@ -2655,6 +2655,132 @@
     {
       "Time": "2022-10-16T17:00:59.4894247+00:00",
       "Rating": 4.69
+    },
+    {
+      "Time": "2023-04-01T01:57:09.5481479+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 14051,
+      "NumberOfAwardsMax": 11120
+    },
+    {
+      "Time": "2023-04-02T02:57:23.2434653+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 14052,
+      "NumberOfAwardsMax": 11121
+    },
+    {
+      "Time": "2023-04-02T05:57:14.3554473+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 14054,
+      "NumberOfAwardsMax": 11121
+    },
+    {
+      "Time": "2023-04-03T13:05:39.4161097+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 14056,
+      "NumberOfAwardsMax": 11123
+    },
+    {
+      "Time": "2023-04-04T15:57:27.6027751+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 14061,
+      "NumberOfAwardsMax": 11127
+    },
+    {
+      "Time": "2023-04-04T23:57:25.2348245+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 14064,
+      "NumberOfAwardsMax": 11127
+    },
+    {
+      "Time": "2023-04-05T18:57:24.0162862+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 14067,
+      "NumberOfAwardsMax": 11130
+    },
+    {
+      "Time": "2023-04-06T07:57:37.1753469+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 14068,
+      "NumberOfAwardsMax": 11130
+    },
+    {
+      "Time": "2023-04-07T15:57:29.5155904+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 14074,
+      "NumberOfAwardsMax": 11136
+    },
+    {
+      "Time": "2023-04-08T16:57:17.0325902+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 14076,
+      "NumberOfAwardsMax": 11138
+    },
+    {
+      "Time": "2023-04-09T09:57:28.8334022+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 14077,
+      "NumberOfAwardsMax": 11138
+    },
+    {
+      "Time": "2023-04-10T04:57:25.7457671+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 14080,
+      "NumberOfAwardsMax": 11141
+    },
+    {
+      "Time": "2023-04-11T06:57:53.1644039+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 14084,
+      "NumberOfAwardsMax": 11145
+    },
+    {
+      "Time": "2023-04-12T16:57:16.8763259+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 14085,
+      "NumberOfAwardsMax": 11145
+    },
+    {
+      "Time": "2023-04-12T17:57:27.7295512+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 14087,
+      "NumberOfAwardsMax": 11145
+    },
+    {
+      "Time": "2023-04-13T01:54:32.7543626+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 14090,
+      "NumberOfAwardsMax": 11148
+    },
+    {
+      "Time": "2023-04-14T03:57:28.620714+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 14093,
+      "NumberOfAwardsMax": 11151
+    },
+    {
+      "Time": "2023-04-15T07:57:30.0249027+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 14097,
+      "NumberOfAwardsMax": 11155
+    },
+    {
+      "Time": "2023-04-16T13:01:16.9489415+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 14100,
+      "NumberOfAwardsMax": 11158
+    },
+    {
+      "Time": "2023-04-16T13:57:11.1982538+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 14101,
+      "NumberOfAwardsMax": 11158
+    },
+    {
+      "Time": "2023-04-17T13:57:38.9778312+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 14102,
+      "NumberOfAwardsMax": 11158
     }
   ],
   "Tags": [
@@ -2662,49 +2788,49 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 11115
+      "Count": 11158
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 342
+      "Count": 344
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 347
+      "Count": 350
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 357
+      "Count": 358
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 361
+      "Count": 362
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 351
+      "Count": 353
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 342
+      "Count": 344
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 314
+      "Count": 316
     },
     {
       "Text": "This game has Amazing Characters",

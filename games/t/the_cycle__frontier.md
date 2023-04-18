@@ -1,20 +1,20 @@
 # The Cycle: Frontier
-Rating: 4.10 (Ranked 839)  
+Rating: 4.10 (Ranked 844)  
 Number of Ratings: 15,671  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Competitive Players): 2,120  (Ranked 97)  
-Sum: 12,085 (Ranked 67)  
-Diff (max vs sum): 30
+Max (Competitive Players): 2,193  (Ranked 96)  
+Sum: 12,477 (Ranked 68)  
+Diff (max vs sum): 28
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Competitive Players | 2,120 |
-| This game has Challenging Combat | 2,103 |
-| This game is Highly Recommended | 2,084 |
-| This game has Quickly Understood Controls | 2,065 |
-| This game is Extremely Fun | 2,026 |
-| This game has Amazing Storytelling | 1,865 |
-| This game has a Competitive Community | 1,687 |
+| This game has Competitive Players | 2,193 |
+| This game has Challenging Combat | 2,181 |
+| This game is Highly Recommended | 2,148 |
+| This game has Quickly Understood Controls | 2,116 |
+| This game is Extremely Fun | 2,083 |
+| This game has Amazing Storytelling | 1,958 |
+| This game has a Competitive Community | 1,756 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -90,3 +90,22 @@ Diff (max vs sum): 30
 | 2023-01-28 | 4.10 | - | - |
 | 2023-01-30 | 4.11 | - | - |
 | 2023-02-14 | 4.10 | - | - |
+| 2023-03-31 | 4.10 | - | 2,120 |
+| 2023-04-01 | 4.10 | - | 2,126 |
+| 2023-04-02 | 4.10 | - | 2,133 |
+| 2023-04-03 | 4.10 | - | 2,140 |
+| 2023-04-04 | 4.10 | - | 2,146 |
+| 2023-04-05 | 4.10 | - | 2,150 |
+| 2023-04-06 | 4.10 | - | 2,154 |
+| 2023-04-07 | 4.10 | - | 2,154 |
+| 2023-04-08 | 4.10 | - | 2,158 |
+| 2023-04-09 | 4.10 | - | 2,158 |
+| 2023-04-10 | 4.10 | - | 2,161 |
+| 2023-04-11 | 4.10 | - | 2,165 |
+| 2023-04-12 | 4.10 | - | 2,171 |
+| 2023-04-13 | 4.10 | - | 2,176 |
+| 2023-04-14 | 4.10 | - | 2,176 |
+| 2023-04-15 | 4.10 | - | 2,180 |
+| 2023-04-16 | 4.10 | - | 2,186 |
+| 2023-04-17 | 4.10 | - | 2,193 |
+| 2023-04-18 | 4.10 | - | 2,193 |

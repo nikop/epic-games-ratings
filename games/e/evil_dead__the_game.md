@@ -1,23 +1,23 @@
 # Evil Dead: The Game
-Rating: 4.36 (Ranked 691)  
+Rating: 4.37 (Ranked 691)  
 Number of Ratings: 9,131  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 12,159  (Ranked 26)  
-Sum: 28,303 (Ranked 36)  
-Diff (max vs sum): -10
+Max (Great Boss Battles): 12,221  (Ranked 27)  
+Sum: 28,517 (Ranked 38)  
+Diff (max vs sum): -11
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 12,159 |
-| This game has Diverse Characters | 1,943 |
-| This game is Extremely Fun | 1,890 |
-| This game has Competitive Players | 1,888 |
-| This game has Quickly Understood Controls | 1,861 |
-| This game is Highly Recommended | 1,837 |
-| This game has Amazing Characters | 1,828 |
-| This game has Challenging Combat | 1,771 |
-| This game has Amazing Storytelling | 1,685 |
-| This game has a Competitive Community | 1,441 |
+| This game has Great Boss Battles | 12,221 |
+| This game has Diverse Characters | 1,965 |
+| This game has Competitive Players | 1,906 |
+| This game is Extremely Fun | 1,900 |
+| This game has Quickly Understood Controls | 1,880 |
+| This game is Highly Recommended | 1,851 |
+| This game has Amazing Characters | 1,845 |
+| This game has Challenging Combat | 1,794 |
+| This game has Amazing Storytelling | 1,700 |
+| This game has a Competitive Community | 1,455 |
 | This game has Obsessive Gameplay | 1,275 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -106,3 +106,21 @@ Diff (max vs sum): -10
 | 2023-03-06 | 4.36 | - | - |
 | 2023-03-18 | 4.36 | - | - |
 | 2023-03-31 | 4.36 | - | 12,159 |
+| 2023-04-01 | 4.36 | - | 12,163 |
+| 2023-04-02 | 4.36 | - | 12,166 |
+| 2023-04-03 | 4.36 | - | 12,166 |
+| 2023-04-04 | 4.36 | - | 12,171 |
+| 2023-04-05 | 4.36 | - | 12,172 |
+| 2023-04-06 | 4.37 | - | 12,177 |
+| 2023-04-07 | 4.37 | - | 12,177 |
+| 2023-04-08 | 4.37 | - | 12,180 |
+| 2023-04-09 | 4.37 | - | 12,191 |
+| 2023-04-10 | 4.37 | - | 12,200 |
+| 2023-04-11 | 4.37 | - | 12,203 |
+| 2023-04-12 | 4.37 | - | 12,203 |
+| 2023-04-13 | 4.37 | - | 12,205 |
+| 2023-04-14 | 4.37 | - | 12,210 |
+| 2023-04-15 | 4.37 | - | 12,212 |
+| 2023-04-16 | 4.37 | - | 12,216 |
+| 2023-04-17 | 4.37 | - | 12,221 |
+| 2023-04-18 | 4.37 | - | 12,221 |

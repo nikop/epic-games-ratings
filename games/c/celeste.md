@@ -1,22 +1,22 @@
 # Celeste
-Rating: 4.92 (Ranked 3)  
+Rating: 4.92 (Ranked 4)  
 Number of Ratings: 2,543  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 1,389  (Ranked 113)  
-Sum: 2,659 (Ranked 156)  
-Diff (max vs sum): -43
+Max (Great Boss Battles): 1,419  (Ranked 115)  
+Sum: 2,716 (Ranked 155)  
+Diff (max vs sum): -40
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 1,389 |
-| This game is Highly Recommended | 176 |
-| This game has Amazing Storytelling | 171 |
-| This game has Beautiful Visuals | 169 |
-| This game is Extremely Fun | 164 |
-| This game has Quickly Understood Controls | 155 |
-| This game is Relaxing | 154 |
-| This game has Amazing Characters | 150 |
-| This game has Challenging Combat | 131 |
+| This game has Great Boss Battles | 1,419 |
+| This game is Highly Recommended | 182 |
+| This game has Beautiful Visuals | 174 |
+| This game has Amazing Storytelling | 172 |
+| This game is Extremely Fun | 170 |
+| This game has Quickly Understood Controls | 159 |
+| This game is Relaxing | 157 |
+| This game has Amazing Characters | 151 |
+| This game has Challenging Combat | 132 |
 | This game has Obsessive Gameplay | 92 |
 | This game has a Creative Community | 32 |
 ## Ratings History
@@ -86,4 +86,19 @@ Diff (max vs sum): -43
 | 2022-09-21 | 4.92 | 2,514 | - |
 | 2022-09-22 | 4.92 | 2,530 | - |
 | 2022-09-23 | 4.92 | 2,543 | - |
-| 2023-03-31 | 4.92 | - | 1,389 |
+| 2023-03-31 | 4.92 | - | 1,392 |
+| 2023-04-01 | 4.92 | - | 1,392 |
+| 2023-04-02 | 4.92 | - | 1,396 |
+| 2023-04-03 | 4.92 | - | 1,399 |
+| 2023-04-05 | 4.92 | - | 1,400 |
+| 2023-04-06 | 4.92 | - | 1,400 |
+| 2023-04-07 | 4.92 | - | 1,404 |
+| 2023-04-08 | 4.92 | - | 1,406 |
+| 2023-04-10 | 4.92 | - | 1,408 |
+| 2023-04-11 | 4.92 | - | 1,409 |
+| 2023-04-12 | 4.92 | - | 1,409 |
+| 2023-04-13 | 4.92 | - | 1,410 |
+| 2023-04-14 | 4.92 | - | 1,415 |
+| 2023-04-15 | 4.92 | - | 1,417 |
+| 2023-04-17 | 4.92 | - | 1,417 |
+| 2023-04-18 | 4.92 | - | 1,419 |

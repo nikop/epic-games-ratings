@@ -2,15 +2,15 @@
   "ID": "48ee23bbc7c34ac09604253e74d17b49",
   "Name": "Encased",
   "Rating": 4.36,
-  "Ranking_Rating": 691,
+  "Ranking_Rating": 699,
   "Ranking_Popularity": 293,
-  "Ranking_PopularitySum": 380,
+  "Ranking_PopularitySum": 383,
   "NumberOfRatings": 49,
-  "NumberOfAwards": 119,
-  "NumberOfAwardsMax": 119,
+  "NumberOfAwards": 123,
+  "NumberOfAwardsMax": 123,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:20:17.8710965+00:00",
-  "LastChanged": "2023-03-28T11:57:47.2657086+00:00",
+  "LastChanged": "2023-04-16T04:57:21.5549087+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:17.8710967+00:00",
@@ -291,6 +291,30 @@
     {
       "Time": "2023-03-28T11:57:47.265709+00:00",
       "Rating": 4.36
+    },
+    {
+      "Time": "2023-04-09T03:57:07.5140819+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 120,
+      "NumberOfAwardsMax": 120
+    },
+    {
+      "Time": "2023-04-13T17:57:27.9026154+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 121,
+      "NumberOfAwardsMax": 121
+    },
+    {
+      "Time": "2023-04-15T01:56:36.0987774+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 122,
+      "NumberOfAwardsMax": 122
+    },
+    {
+      "Time": "2023-04-16T04:57:21.5549091+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 123,
+      "NumberOfAwardsMax": 123
     }
   ],
   "Tags": [
@@ -298,7 +322,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 119
+      "Count": 123
     }
   ]
 }

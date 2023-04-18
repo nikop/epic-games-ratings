@@ -2,15 +2,15 @@
   "ID": "c8ff067c1c984cd7ab1998e8a9afc8b6",
   "Name": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
   "Rating": 4.75,
-  "Ranking_Rating": 127,
-  "Ranking_Popularity": 322,
-  "Ranking_PopularitySum": 376,
+  "Ranking_Rating": 126,
+  "Ranking_Popularity": 319,
+  "Ranking_PopularitySum": 374,
   "NumberOfRatings": 213,
-  "NumberOfAwards": 134,
-  "NumberOfAwardsMax": 92,
+  "NumberOfAwards": 140,
+  "NumberOfAwardsMax": 96,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:18:38.0851075+00:00",
-  "LastChanged": "2023-03-20T21:57:06.5985284+00:00",
+  "LastChanged": "2023-04-14T23:57:24.4243354+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:38.0851077+00:00",
@@ -428,6 +428,42 @@
     {
       "Time": "2023-03-20T21:57:06.5985285+00:00",
       "Rating": 4.75
+    },
+    {
+      "Time": "2023-04-04T04:57:12.7239165+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 135,
+      "NumberOfAwardsMax": 93
+    },
+    {
+      "Time": "2023-04-08T22:57:22.9678624+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 136,
+      "NumberOfAwardsMax": 94
+    },
+    {
+      "Time": "2023-04-12T02:57:12.1532874+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 137,
+      "NumberOfAwardsMax": 94
+    },
+    {
+      "Time": "2023-04-12T06:57:10.634833+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 138,
+      "NumberOfAwardsMax": 95
+    },
+    {
+      "Time": "2023-04-14T05:57:15.0907141+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 139,
+      "NumberOfAwardsMax": 95
+    },
+    {
+      "Time": "2023-04-14T23:57:24.4243356+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 140,
+      "NumberOfAwardsMax": 96
     }
   ],
   "Tags": [
@@ -435,13 +471,13 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 92
+      "Count": 96
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 42
+      "Count": 44
     }
   ]
 }

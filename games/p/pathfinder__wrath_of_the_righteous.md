@@ -1,24 +1,24 @@
 # Pathfinder: Wrath of the Righteous
-Rating: 4.76 (Ranked 113)  
+Rating: 4.76 (Ranked 112)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 1,600  (Ranked 109)  
-Sum: 6,427 (Ranked 107)  
-Diff (max vs sum): 2
+Max (Character Customization): 1,609  (Ranked 109)  
+Sum: 6,506 (Ranked 108)  
+Diff (max vs sum): 1
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 1,600 |
-| This game is Extremely Fun | 600 |
-| This game is Highly Recommended | 586 |
-| This game has Amazing Characters | 584 |
-| This game has Amazing Storytelling | 569 |
-| This game has Diverse Characters | 567 |
-| This game has Quickly Understood Controls | 532 |
-| This game has Challenging Combat | 528 |
-| This game is Relaxing | 510 |
+| This game has Inclusive Character Customization | 1,609 |
+| This game is Extremely Fun | 605 |
+| This game is Highly Recommended | 594 |
+| This game has Amazing Characters | 592 |
+| This game has Diverse Characters | 579 |
+| This game has Amazing Storytelling | 577 |
+| This game has Quickly Understood Controls | 539 |
+| This game has Challenging Combat | 537 |
+| This game is Relaxing | 517 |
 | This game has Obsessive Gameplay | 364 |
-| This game has a Creative Community | 351 |
+| This game has a Creative Community | 357 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -88,3 +88,21 @@ Diff (max vs sum): 2
 | 2022-09-23 | 4.76 | 1,354 | - |
 | 2022-10-12 | 4.75 | - | - |
 | 2022-10-22 | 4.76 | - | - |
+| 2023-03-31 | 4.76 | - | 1,600 |
+| 2023-04-01 | 4.76 | - | 1,600 |
+| 2023-04-02 | 4.76 | - | 1,600 |
+| 2023-04-03 | 4.76 | - | 1,600 |
+| 2023-04-04 | 4.76 | - | 1,602 |
+| 2023-04-05 | 4.76 | - | 1,602 |
+| 2023-04-06 | 4.76 | - | 1,604 |
+| 2023-04-07 | 4.76 | - | 1,604 |
+| 2023-04-08 | 4.76 | - | 1,605 |
+| 2023-04-09 | 4.76 | - | 1,605 |
+| 2023-04-10 | 4.76 | - | 1,605 |
+| 2023-04-11 | 4.76 | - | 1,607 |
+| 2023-04-12 | 4.76 | - | 1,607 |
+| 2023-04-13 | 4.76 | - | 1,607 |
+| 2023-04-14 | 4.76 | - | 1,608 |
+| 2023-04-15 | 4.76 | - | 1,608 |
+| 2023-04-16 | 4.76 | - | 1,609 |
+| 2023-04-17 | 4.76 | - | 1,609 |

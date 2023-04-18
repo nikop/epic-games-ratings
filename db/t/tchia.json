@@ -1,15 +1,15 @@
 {
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
-  "Rating": 4.78,
-  "Ranking_Rating": 99,
-  "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 478,
+  "Rating": 4.76,
+  "Ranking_Rating": 112,
+  "Ranking_Popularity": 484,
+  "Ranking_PopularitySum": 484,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-21T09:57:30.0588208+00:00",
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
-  "LastChanged": "2023-03-31T13:09:27.9174079+00:00",
+  "LastChanged": "2023-04-17T22:57:22.5710362+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-27T01:58:07.9260384+00:00",
@@ -36,6 +36,66 @@
     {
       "Time": "2023-03-31T13:09:27.917408+00:00",
       "Rating": 4.78,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-03-31T16:57:46.9952866+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-01T16:57:50.5250674+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-02T16:57:29.1615139+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-04T16:57:45.1580531+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-05T16:57:32.0734161+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-06T16:57:26.2439963+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-08T13:00:33.4226249+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-10T04:57:34.2025458+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-14T22:57:44.0491356+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-17T22:57:22.5710363+00:00",
+      "Rating": 4.76,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

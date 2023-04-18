@@ -1,6 +1,18 @@
 {
   "ID": "506976eed6054a4aad5646197adc5c8d",
   "Name": "Filthy Animals | Heist Simulator",
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-05T14:58:37.795313+00:00",
+  "FirstSeenRating": "2023-04-05T14:58:37.7953176+00:00",
+  "LastChanged": "2023-04-05T14:58:37.7953178+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-05T14:58:37.795318+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -1,16 +1,16 @@
 {
   "ID": "6feac7e685174dd698e90ca9536e1299",
   "Name": "Skul: The Hero Slayer",
-  "Rating": 4.7,
-  "Ranking_Rating": 194,
-  "Ranking_Popularity": 303,
-  "Ranking_PopularitySum": 238,
+  "Rating": 4.71,
+  "Ranking_Rating": 177,
+  "Ranking_Popularity": 307,
+  "Ranking_PopularitySum": 250,
   "NumberOfRatings": 546,
-  "NumberOfAwards": 829,
-  "NumberOfAwardsMax": 110,
-  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwards": 728,
+  "NumberOfAwardsMax": 108,
+  "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
-  "LastChanged": "2023-01-20T14:58:42.9995916+00:00",
+  "LastChanged": "2023-04-17T18:58:22.7720553+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:36.7483718+00:00",
@@ -492,6 +492,72 @@
     {
       "Time": "2023-01-20T14:58:42.9995917+00:00",
       "Rating": 4.7
+    },
+    {
+      "Time": "2023-03-31T14:58:12.0638376+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 830,
+      "NumberOfAwardsMax": 110
+    },
+    {
+      "Time": "2023-04-01T19:58:06.5859704+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 831,
+      "NumberOfAwardsMax": 110
+    },
+    {
+      "Time": "2023-04-03T03:58:11.6996666+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 832,
+      "NumberOfAwardsMax": 110
+    },
+    {
+      "Time": "2023-04-03T14:59:08.1838528+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 833,
+      "NumberOfAwardsMax": 111
+    },
+    {
+      "Time": "2023-04-06T15:58:19.3048472+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 834,
+      "NumberOfAwardsMax": 112
+    },
+    {
+      "Time": "2023-04-07T04:58:50.4334264+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 835,
+      "NumberOfAwardsMax": 112
+    },
+    {
+      "Time": "2023-04-11T05:58:23.4172878+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 836,
+      "NumberOfAwardsMax": 112
+    },
+    {
+      "Time": "2023-04-13T10:58:37.182666+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 838,
+      "NumberOfAwardsMax": 112
+    },
+    {
+      "Time": "2023-04-13T16:58:25.3874213+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 839,
+      "NumberOfAwardsMax": 112
+    },
+    {
+      "Time": "2023-04-17T02:59:02.3333549+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 840,
+      "NumberOfAwardsMax": 112
+    },
+    {
+      "Time": "2023-04-17T18:58:22.7720555+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 728,
+      "NumberOfAwardsMax": 108
     }
   ],
   "Tags": [
@@ -499,7 +565,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 103
+      "Count": 106
     },
     {
       "Text": "This game has Challenging Combat",
@@ -511,7 +577,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 107
+      "Count": 108
     },
     {
       "Text": "This game is Highly Recommended",
@@ -523,7 +589,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 93
+      "Count": 94
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -535,7 +601,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 74
+      "Count": 77
     },
     {
       "Text": "This game is Relaxing",
@@ -553,13 +619,13 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 110
+      "Count": 112
     }
   ]
 }

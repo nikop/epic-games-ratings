@@ -1,22 +1,22 @@
 # Animation Throwdown: The Quest for Cards
-Rating: 4.32 (Ranked 726)  
+Rating: 4.33 (Ranked 723)  
 Number of Ratings: 874  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Quick Sessions): 332  (Ranked 205)  
-Sum: 2,582 (Ranked 158)  
-Diff (max vs sum): 47
+Max (Great for Quick Sessions): 336  (Ranked 207)  
+Sum: 2,609 (Ranked 159)  
+Diff (max vs sum): 48
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Quick Sessions | 332 |
-| This game is Great for Beginners | 308 |
-| This game has Diverse Characters | 307 |
-| This game has Quickly Understood Controls | 296 |
+| This game is Great for Quick Sessions | 336 |
+| This game is Great for Beginners | 318 |
+| This game has Diverse Characters | 312 |
+| This game has Quickly Understood Controls | 298 |
 | This game is Relaxing | 291 |
-| This game is Extremely Fun | 288 |
-| This game has Amazing Characters | 270 |
-| This game is Highly Recommended | 269 |
-| This game has Playful Visuals | 221 |
+| This game is Extremely Fun | 289 |
+| This game is Highly Recommended | 272 |
+| This game has Amazing Characters | 271 |
+| This game has Playful Visuals | 222 |
 | This game has Amazing Storytelling | 118 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -100,3 +100,17 @@ Diff (max vs sum): 47
 | 2023-03-22 | 4.32 | - | - |
 | 2023-03-24 | 4.33 | - | - |
 | 2023-03-28 | 4.32 | - | - |
+| 2023-04-01 | 4.33 | - | 332 |
+| 2023-04-02 | 4.33 | - | 332 |
+| 2023-04-03 | 4.33 | - | 332 |
+| 2023-04-04 | 4.32 | - | 332 |
+| 2023-04-06 | 4.33 | - | 333 |
+| 2023-04-07 | 4.32 | - | 334 |
+| 2023-04-08 | 4.32 | - | 334 |
+| 2023-04-10 | 4.33 | - | 335 |
+| 2023-04-11 | 4.32 | - | 336 |
+| 2023-04-12 | 4.32 | - | 336 |
+| 2023-04-13 | 4.33 | - | 336 |
+| 2023-04-14 | 4.33 | - | 336 |
+| 2023-04-16 | 4.33 | - | 336 |
+| 2023-04-17 | 4.33 | - | 336 |

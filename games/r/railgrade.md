@@ -1,21 +1,21 @@
 # RAILGRADE
-Rating: 4.54 (Ranked 468)  
+Rating: 4.54 (Ranked 474)  
 ## Popularity (Based on Awards)
-Max (Highly Recommended): 86  (Ranked 330)  
-Sum: 634 (Ranked 265)  
-Diff (max vs sum): 65
+Max (Great for Beginners): 86  (Ranked 333)  
+Sum: 640 (Ranked 267)  
+Diff (max vs sum): 66
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
+| This game is Great for Beginners | 86 |
 | This game is Highly Recommended | 86 |
+| This game has Quickly Understood Controls | 85 |
 | This game is Relaxing | 84 |
-| This game is Great for Beginners | 84 |
-| This game has Quickly Understood Controls | 84 |
-| This game is Extremely Fun | 82 |
+| This game is Extremely Fun | 83 |
 | This game has Amazing Storytelling | 77 |
 | This game has Unique Visuals | 56 |
-| This game has Amazing Characters | 42 |
-| This game has a Creative Community | 39 |
+| This game has Amazing Characters | 43 |
+| This game has a Creative Community | 40 |
 | This game has Challenging Combat | 29 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -50,3 +50,8 @@ Diff (max vs sum): 65
 | 2022-11-18 | 4.54 | - | - |
 | 2023-02-20 | 4.55 | - | - |
 | 2023-03-03 | 4.54 | - | - |
+| 2023-04-01 | 4.54 | - | 86 |
+| 2023-04-03 | 4.54 | - | 86 |
+| 2023-04-05 | 4.54 | - | 86 |
+| 2023-04-08 | 4.54 | - | 86 |
+| 2023-04-12 | 4.54 | - | 86 |

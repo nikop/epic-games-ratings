@@ -1,21 +1,21 @@
 # Galactic Civilizations III
-Rating: 4.21 (Ranked 786)  
+Rating: 4.21 (Ranked 790)  
 Number of Ratings: 1,085  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Extremely Fun): 169  (Ranked 265)  
-Sum: 1,075 (Ranked 221)  
+Max (Extremely Fun): 173  (Ranked 265)  
+Sum: 1,093 (Ranked 221)  
 Diff (max vs sum): 44
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Extremely Fun | 169 |
-| This game is Relaxing | 154 |
-| This game has Quickly Understood Controls | 152 |
-| This game has Diverse Characters | 145 |
-| This game has Amazing Storytelling | 144 |
-| This game is Highly Recommended | 144 |
-| This game has Amazing Characters | 107 |
-| This game has a Creative Community | 60 |
+| This game is Extremely Fun | 173 |
+| This game is Relaxing | 156 |
+| This game has Quickly Understood Controls | 153 |
+| This game has Diverse Characters | 147 |
+| This game is Highly Recommended | 147 |
+| This game has Amazing Storytelling | 146 |
+| This game has Amazing Characters | 110 |
+| This game has a Creative Community | 61 |
 | This game has Unique Visuals | 34 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -109,3 +109,14 @@ Diff (max vs sum): 44
 | 2022-12-23 | 4.19 | - | - |
 | 2022-12-30 | 4.20 | - | - |
 | 2023-03-16 | 4.21 | - | - |
+| 2023-03-31 | 4.21 | - | 169 |
+| 2023-04-01 | 4.21 | - | 170 |
+| 2023-04-03 | 4.21 | - | 170 |
+| 2023-04-04 | 4.21 | - | 170 |
+| 2023-04-06 | 4.21 | - | 170 |
+| 2023-04-08 | 4.21 | - | 172 |
+| 2023-04-09 | 4.21 | - | 172 |
+| 2023-04-11 | 4.21 | - | 172 |
+| 2023-04-12 | 4.21 | - | 172 |
+| 2023-04-14 | 4.21 | - | 173 |
+| 2023-04-16 | 4.21 | - | 173 |

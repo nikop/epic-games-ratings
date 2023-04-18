@@ -2,21 +2,21 @@
 Rating: 4.80 (Ranked 79)  
 Number of Ratings: 2,526  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 2,311  (Ranked 91)  
-Sum: 6,628 (Ranked 105)  
-Diff (max vs sum): -14
+Max (Character Customization): 2,330  (Ranked 93)  
+Sum: 6,695 (Ranked 106)  
+Diff (max vs sum): -13
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 2,311 |
-| This game has Great Boss Battles | 1,720 |
-| This game is Extremely Fun | 408 |
-| This game has Diverse Characters | 406 |
-| This game is Highly Recommended | 399 |
-| This game has Amazing Storytelling | 393 |
-| This game has Amazing Characters | 371 |
-| This game has Unique Visuals | 325 |
-| This game has a Creative Community | 295 |
+| This game has Inclusive Character Customization | 2,330 |
+| This game has Great Boss Battles | 1,735 |
+| This game is Extremely Fun | 413 |
+| This game has Diverse Characters | 411 |
+| This game is Highly Recommended | 402 |
+| This game has Amazing Storytelling | 398 |
+| This game has Amazing Characters | 374 |
+| This game has Unique Visuals | 334 |
+| This game has a Creative Community | 298 |
 | This game has Obsessive Gameplay | 291 |
 | This game has Challenging Combat | 185 |
 | This game is Relaxing | 107 |
@@ -89,3 +89,20 @@ Diff (max vs sum): -14
 | 2022-09-23 | 4.79 | 2,526 | - |
 | 2022-09-26 | 4.80 | - | - |
 | 2023-03-31 | 4.80 | - | 2,311 |
+| 2023-04-01 | 4.80 | - | 2,311 |
+| 2023-04-02 | 4.80 | - | 2,314 |
+| 2023-04-03 | 4.80 | - | 2,314 |
+| 2023-04-04 | 4.80 | - | 2,316 |
+| 2023-04-05 | 4.80 | - | 2,318 |
+| 2023-04-06 | 4.80 | - | 2,318 |
+| 2023-04-07 | 4.80 | - | 2,320 |
+| 2023-04-08 | 4.80 | - | 2,323 |
+| 2023-04-09 | 4.80 | - | 2,323 |
+| 2023-04-10 | 4.80 | - | 2,327 |
+| 2023-04-11 | 4.80 | - | 2,327 |
+| 2023-04-12 | 4.80 | - | 2,327 |
+| 2023-04-13 | 4.80 | - | 2,328 |
+| 2023-04-14 | 4.80 | - | 2,329 |
+| 2023-04-15 | 4.80 | - | 2,329 |
+| 2023-04-16 | 4.80 | - | 2,330 |
+| 2023-04-17 | 4.80 | - | 2,330 |

@@ -1,23 +1,23 @@
 # Jurassic World Evolution 2
-Rating: 4.73 (Ranked 155)  
+Rating: 4.74 (Ranked 141)  
 Number of Ratings: 3,746  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Amazing Storytelling): 558  (Ranked 166)  
-Sum: 5,212 (Ranked 117)  
-Diff (max vs sum): 49
+Max (Great for Beginners): 574  (Ranked 166)  
+Sum: 5,341 (Ranked 115)  
+Diff (max vs sum): 51
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Amazing Storytelling | 558 |
-| This game is Great for Beginners | 551 |
-| This game is Extremely Fun | 547 |
-| This game is Relaxing | 542 |
-| This game is Educational | 523 |
-| This game is Highly Recommended | 520 |
-| This game has Quickly Understood Controls | 511 |
-| This game has Amazing Characters | 509 |
-| This game has Diverse Characters | 495 |
-| This game has a Creative Community | 456 |
+| This game is Great for Beginners | 574 |
+| This game has Amazing Storytelling | 565 |
+| This game is Extremely Fun | 558 |
+| This game is Relaxing | 549 |
+| This game is Educational | 533 |
+| This game is Highly Recommended | 530 |
+| This game has Quickly Understood Controls | 523 |
+| This game has Amazing Characters | 523 |
+| This game has Diverse Characters | 514 |
+| This game has a Creative Community | 472 |
 | This game has Obsessive Gameplay | 374 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -100,3 +100,20 @@ Diff (max vs sum): 49
 | 2022-12-17 | 4.73 | - | - |
 | 2022-12-19 | 4.73 | - | - |
 | 2023-03-31 | 4.73 | - | 558 |
+| 2023-04-01 | 4.73 | - | 561 |
+| 2023-04-02 | 4.73 | - | 561 |
+| 2023-04-03 | 4.73 | - | 562 |
+| 2023-04-04 | 4.73 | - | 562 |
+| 2023-04-05 | 4.73 | - | 562 |
+| 2023-04-06 | 4.73 | - | 562 |
+| 2023-04-07 | 4.74 | - | 564 |
+| 2023-04-08 | 4.74 | - | 565 |
+| 2023-04-09 | 4.74 | - | 565 |
+| 2023-04-10 | 4.74 | - | 567 |
+| 2023-04-11 | 4.74 | - | 567 |
+| 2023-04-12 | 4.74 | - | 568 |
+| 2023-04-13 | 4.74 | - | 569 |
+| 2023-04-14 | 4.74 | - | 571 |
+| 2023-04-15 | 4.74 | - | 574 |
+| 2023-04-16 | 4.74 | - | 574 |
+| 2023-04-17 | 4.74 | - | 574 |

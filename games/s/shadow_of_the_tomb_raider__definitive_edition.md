@@ -1,23 +1,23 @@
 # Shadow of the Tomb Raider: Definitive Edition
-Rating: 4.65 (Ranked 290)  
+Rating: 4.65 (Ranked 286)  
 Number of Ratings: 77,497  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 28,284  (Ranked 13)  
-Sum: 37,084 (Ranked 26)  
-Diff (max vs sum): -13
+Max (Great Boss Battles): 28,359  (Ranked 14)  
+Sum: 37,202 (Ranked 26)  
+Diff (max vs sum): -12
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 28,284 |
-| This game is Great for Beginners | 1,009 |
-| This game has Quickly Understood Controls | 969 |
-| This game is Extremely Fun | 949 |
-| This game is Highly Recommended | 937 |
-| This game has Diverse Characters | 920 |
-| This game is Educational | 906 |
-| This game has Amazing Storytelling | 893 |
-| This game has Amazing Characters | 879 |
-| This game is Relaxing | 843 |
+| This game has Great Boss Battles | 28,359 |
+| This game is Great for Beginners | 1,012 |
+| This game has Quickly Understood Controls | 973 |
+| This game is Extremely Fun | 951 |
+| This game is Highly Recommended | 941 |
+| This game has Diverse Characters | 930 |
+| This game is Educational | 911 |
+| This game has Amazing Storytelling | 898 |
+| This game has Amazing Characters | 884 |
+| This game is Relaxing | 848 |
 | This game has a Creative Community | 495 |
 | This game has Obsessive Gameplay | 284 |
 ## Ratings History
@@ -88,3 +88,21 @@ Diff (max vs sum): -13
 | 2022-09-22 | 4.65 | 76,852 | - |
 | 2022-09-23 | 4.65 | 77,497 | - |
 | 2023-03-31 | 4.65 | - | 28,284 |
+| 2023-04-01 | 4.65 | - | 28,286 |
+| 2023-04-02 | 4.65 | - | 28,290 |
+| 2023-04-03 | 4.65 | - | 28,295 |
+| 2023-04-04 | 4.65 | - | 28,295 |
+| 2023-04-05 | 4.65 | - | 28,301 |
+| 2023-04-06 | 4.65 | - | 28,312 |
+| 2023-04-07 | 4.65 | - | 28,316 |
+| 2023-04-08 | 4.65 | - | 28,316 |
+| 2023-04-09 | 4.65 | - | 28,326 |
+| 2023-04-10 | 4.65 | - | 28,328 |
+| 2023-04-11 | 4.65 | - | 28,333 |
+| 2023-04-12 | 4.65 | - | 28,333 |
+| 2023-04-13 | 4.65 | - | 28,336 |
+| 2023-04-14 | 4.65 | - | 28,337 |
+| 2023-04-15 | 4.65 | - | 28,341 |
+| 2023-04-16 | 4.65 | - | 28,348 |
+| 2023-04-17 | 4.65 | - | 28,354 |
+| 2023-04-18 | 4.65 | - | 28,359 |

@@ -1,14 +1,14 @@
 # Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure
-Rating: 4.46 (Ranked 578)  
+Rating: 4.46 (Ranked 582)  
 Number of Ratings: 1,211  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 273  (Ranked 224)  
-Sum: 273 (Ranked 321)  
-Diff (max vs sum): -97
+Max (Character Customization): 276  (Ranked 224)  
+Sum: 276 (Ranked 323)  
+Diff (max vs sum): -99
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 273 |
+| This game has Inclusive Character Customization | 276 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -85,3 +85,6 @@ Diff (max vs sum): -97
 | 2022-11-28 | 4.44 | - | - |
 | 2022-11-29 | 4.45 | - | - |
 | 2022-12-19 | 4.46 | - | - |
+| 2023-03-31 | 4.46 | - | 274 |
+| 2023-04-02 | 4.46 | - | 275 |
+| 2023-04-06 | 4.46 | - | 276 |

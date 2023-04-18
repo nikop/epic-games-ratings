@@ -1,12 +1,14 @@
 # City of Gangsters
-Rating: 4.24 (Ranked 770)  
+Rating: 4.25 (Ranked 772)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 478)  
-Sum: 0 (Ranked 478)  
-Diff (max vs sum): 0
+Max (Relaxing): 21  (Ranked 472)  
+Sum: 41 (Ranked 436)  
+Diff (max vs sum): 36
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
+| This game is Relaxing | 21 |
+| This game is Highly Recommended | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -36,4 +38,7 @@ Diff (max vs sum): 0
 | 2023-03-05 | 4.23 | - | - |
 | 2023-03-08 | 4.23 | - | - |
 | 2023-03-12 | 4.24 | - | - |
-| 2023-03-31 | 4.24 | - | 0 |
+| 2023-03-31 | 4.25 | - | 0 |
+| 2023-04-08 | 4.25 | - | 20 |
+| 2023-04-12 | 4.25 | - | 20 |
+| 2023-04-13 | 4.25 | - | 21 |

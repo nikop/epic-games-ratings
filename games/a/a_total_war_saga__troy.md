@@ -2,20 +2,20 @@
 Rating: 4.51 (Ranked 509)  
 Number of Ratings: 6,316  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 1,523  (Ranked 110)  
-Sum: 11,079 (Ranked 74)  
-Diff (max vs sum): 36
+Max (Diverse Characters): 1,542  (Ranked 110)  
+Sum: 11,150 (Ranked 75)  
+Diff (max vs sum): 35
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Diverse Characters | 1,523 |
-| This game is Educational | 1,428 |
-| This game is Highly Recommended | 1,420 |
-| This game is Extremely Fun | 1,397 |
-| This game is Relaxing | 1,340 |
-| This game has Amazing Characters | 1,336 |
-| This game has Quickly Understood Controls | 1,333 |
-| This game has Amazing Storytelling | 1,302 |
+| This game has Diverse Characters | 1,542 |
+| This game is Educational | 1,436 |
+| This game is Highly Recommended | 1,426 |
+| This game is Extremely Fun | 1,404 |
+| This game is Relaxing | 1,347 |
+| This game has Amazing Characters | 1,345 |
+| This game has Quickly Understood Controls | 1,339 |
+| This game has Amazing Storytelling | 1,311 |
 | This game has Obsessive Gameplay | 1,004 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
@@ -85,4 +85,19 @@ Diff (max vs sum): 36
 | 2022-09-22 | 4.50 | 6,294 | - |
 | 2022-09-23 | 4.50 | 6,316 | - |
 | 2023-03-30 | 4.51 | - | - |
-| 2023-03-31 | 4.51 | - | 1,523 |
+| 2023-03-31 | 4.51 | - | 1,524 |
+| 2023-04-01 | 4.50 | - | 1,526 |
+| 2023-04-02 | 4.50 | - | 1,526 |
+| 2023-04-03 | 4.50 | - | 1,529 |
+| 2023-04-04 | 4.50 | - | 1,529 |
+| 2023-04-05 | 4.51 | - | 1,529 |
+| 2023-04-06 | 4.51 | - | 1,529 |
+| 2023-04-07 | 4.51 | - | 1,530 |
+| 2023-04-08 | 4.51 | - | 1,531 |
+| 2023-04-09 | 4.51 | - | 1,533 |
+| 2023-04-10 | 4.51 | - | 1,533 |
+| 2023-04-11 | 4.51 | - | 1,535 |
+| 2023-04-12 | 4.51 | - | 1,535 |
+| 2023-04-14 | 4.51 | - | 1,541 |
+| 2023-04-15 | 4.51 | - | 1,541 |
+| 2023-04-16 | 4.51 | - | 1,542 |

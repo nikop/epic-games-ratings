@@ -1,22 +1,22 @@
 # Insurgency: Sandstorm
-Rating: 4.62 (Ranked 333)  
+Rating: 4.61 (Ranked 350)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Quickly Understood Controls): 336  (Ranked 204)  
-Sum: 2,517 (Ranked 159)  
-Diff (max vs sum): 45
+Max (Quickly Understood Controls): 343  (Ranked 206)  
+Sum: 2,565 (Ranked 160)  
+Diff (max vs sum): 46
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Quickly Understood Controls | 336 |
-| This game has Challenging Combat | 303 |
-| This game is Extremely Fun | 300 |
-| This game has Competitive Players | 295 |
-| This game has Amazing Storytelling | 272 |
-| This game is Highly Recommended | 266 |
-| This game has Realistic Visuals | 266 |
-| This game has Amazing Characters | 260 |
-| This game has a Competitive Community | 219 |
+| This game has Quickly Understood Controls | 343 |
+| This game has Challenging Combat | 307 |
+| This game is Extremely Fun | 307 |
+| This game has Competitive Players | 302 |
+| This game has Amazing Storytelling | 277 |
+| This game has Realistic Visuals | 274 |
+| This game is Highly Recommended | 268 |
+| This game has Amazing Characters | 265 |
+| This game has a Competitive Community | 222 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
 ## Ratings History
@@ -106,3 +106,19 @@ Diff (max vs sum): 45
 | 2023-03-03 | 4.62 | - | - |
 | 2023-03-05 | 4.61 | - | - |
 | 2023-03-20 | 4.62 | - | - |
+| 2023-03-31 | 4.62 | - | 338 |
+| 2023-04-01 | 4.62 | - | 338 |
+| 2023-04-02 | 4.62 | - | 339 |
+| 2023-04-03 | 4.62 | - | 339 |
+| 2023-04-04 | 4.62 | - | 339 |
+| 2023-04-05 | 4.62 | - | 339 |
+| 2023-04-06 | 4.62 | - | 339 |
+| 2023-04-07 | 4.62 | - | 340 |
+| 2023-04-08 | 4.62 | - | 341 |
+| 2023-04-09 | 4.62 | - | 341 |
+| 2023-04-11 | 4.62 | - | 341 |
+| 2023-04-13 | 4.62 | - | 341 |
+| 2023-04-14 | 4.62 | - | 341 |
+| 2023-04-15 | 4.62 | - | 342 |
+| 2023-04-16 | 4.61 | - | 343 |
+| 2023-04-17 | 4.61 | - | 343 |

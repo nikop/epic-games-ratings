@@ -1,9 +1,9 @@
 # The Bridge
-Rating: - (Ranked -)  
+Rating: 4.20 (Ranked 797)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked -)  
-Sum: 0 (Ranked -)  
-Diff (max vs sum): -
+Max (): 0  (Ranked 484)  
+Sum: 0 (Ranked 484)  
+Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
@@ -11,3 +11,4 @@ Diff (max vs sum): -
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
 | 2023-03-31 | - | - | 0 |
+| 2023-04-02 | 4.20 | - | 0 |

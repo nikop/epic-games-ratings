@@ -3,14 +3,14 @@
   "Name": "This War of Mine",
   "Rating": 4.74,
   "Ranking_Rating": 141,
-  "Ranking_Popularity": 338,
-  "Ranking_PopularitySum": 270,
+  "Ranking_Popularity": 340,
+  "Ranking_PopularitySum": 274,
   "NumberOfRatings": 1090,
-  "NumberOfAwards": 604,
-  "NumberOfAwardsMax": 76,
+  "NumberOfAwards": 610,
+  "NumberOfAwardsMax": 78,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:20:40.68032+00:00",
-  "LastChanged": "2023-03-20T14:57:28.6179514+00:00",
+  "LastChanged": "2023-04-16T13:01:12.6154042+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:40.6803203+00:00",
@@ -1054,6 +1054,42 @@
     {
       "Time": "2023-03-20T14:57:28.6179518+00:00",
       "Rating": 4.74
+    },
+    {
+      "Time": "2023-04-02T10:57:14.0120894+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 605,
+      "NumberOfAwardsMax": 76
+    },
+    {
+      "Time": "2023-04-06T03:57:26.9383876+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 606,
+      "NumberOfAwardsMax": 76
+    },
+    {
+      "Time": "2023-04-09T19:57:11.2092516+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 607,
+      "NumberOfAwardsMax": 76
+    },
+    {
+      "Time": "2023-04-12T01:56:25.8961655+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 608,
+      "NumberOfAwardsMax": 76
+    },
+    {
+      "Time": "2023-04-14T06:57:28.2925839+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 609,
+      "NumberOfAwardsMax": 77
+    },
+    {
+      "Time": "2023-04-16T13:01:12.6154043+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 610,
+      "NumberOfAwardsMax": 78
     }
   ],
   "Tags": [
@@ -1061,7 +1097,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 76
+      "Count": 78
     },
     {
       "Text": "This game is Educational",
@@ -1073,7 +1109,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 65
+      "Count": 66
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1085,7 +1121,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 56
+      "Count": 57
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1103,7 +1139,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 56
+      "Count": 58
     },
     {
       "Text": "This game has a Creative Community",

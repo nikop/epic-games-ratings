@@ -1,10 +1,10 @@
 # HOT WHEELS UNLEASHED™
-Rating: 4.60 (Ranked 374)  
+Rating: 4.60 (Ranked 375)  
 Number of Ratings: 312  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Extremely Fun): 36  (Ranked 409)  
-Sum: 338 (Ranked 304)  
-Diff (max vs sum): 105
+Max (Extremely Fun): 36  (Ranked 414)  
+Sum: 339 (Ranked 308)  
+Diff (max vs sum): 106
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
@@ -13,7 +13,7 @@ Diff (max vs sum): 105
 | This game has Quickly Understood Controls | 35 |
 | This game is Great for Quick Sessions | 33 |
 | This game is Relaxing | 33 |
-| This game has Amazing Storytelling | 30 |
+| This game has Amazing Storytelling | 31 |
 | This game has Diverse Characters | 29 |
 | This game has Competitive Players | 29 |
 | This game has Amazing Characters | 28 |
@@ -86,3 +86,4 @@ Diff (max vs sum): 105
 | 2022-11-30 | 4.60 | - | - |
 | 2023-02-14 | 4.61 | - | - |
 | 2023-02-19 | 4.60 | - | - |
+| 2023-04-06 | 4.60 | - | 36 |

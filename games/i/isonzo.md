@@ -1,22 +1,22 @@
 # Isonzo
-Rating: 4.56 (Ranked 436)  
+Rating: 4.56 (Ranked 439)  
 Number of Ratings: 98  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Highly Recommended): 29  (Ranked 437)  
-Sum: 222 (Ranked 339)  
+Max (Highly Recommended): 30  (Ranked 438)  
+Sum: 227 (Ranked 340)  
 Diff (max vs sum): 98
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Highly Recommended | 29 |
+| This game is Highly Recommended | 30 |
+| This game is Extremely Fun | 27 |
 | This game has Quickly Understood Controls | 26 |
 | This game is Educational | 26 |
-| This game is Extremely Fun | 25 |
+| This game has Diverse Characters | 25 |
 | This game has Challenging Combat | 24 |
-| This game has Diverse Characters | 24 |
 | This game has Realistic Visuals | 24 |
 | This game has Amazing Characters | 23 |
-| This game has Competitive Players | 21 |
+| This game has Competitive Players | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -71,3 +71,10 @@ Diff (max vs sum): 98
 | 2023-03-05 | 4.57 | - | - |
 | 2023-03-14 | 4.55 | - | - |
 | 2023-03-21 | 4.56 | - | - |
+| 2023-04-02 | 4.55 | - | 29 |
+| 2023-04-03 | 4.56 | - | 29 |
+| 2023-04-06 | 4.56 | - | 29 |
+| 2023-04-07 | 4.55 | - | 29 |
+| 2023-04-09 | 4.56 | - | 29 |
+| 2023-04-14 | 4.56 | - | 30 |
+| 2023-04-15 | 4.56 | - | 30 |

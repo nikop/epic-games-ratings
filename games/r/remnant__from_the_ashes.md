@@ -1,22 +1,22 @@
 # Remnant: From the Ashes
-Rating: 4.60 (Ranked 374)  
+Rating: 4.60 (Ranked 375)  
 Number of Ratings: 12,107  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 8,804  (Ranked 34)  
-Sum: 13,750 (Ranked 60)  
-Diff (max vs sum): -26
+Max (Great Boss Battles): 8,932  (Ranked 35)  
+Sum: 13,956 (Ranked 62)  
+Diff (max vs sum): -27
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 8,804 |
-| This game has Quickly Understood Controls | 658 |
-| This game is Extremely Fun | 648 |
-| This game has Amazing Storytelling | 641 |
-| This game is Highly Recommended | 633 |
-| This game has Challenging Combat | 631 |
-| This game is Relaxing | 600 |
-| This game has Diverse Characters | 575 |
-| This game has Amazing Characters | 560 |
+| This game has Great Boss Battles | 8,932 |
+| This game has Quickly Understood Controls | 665 |
+| This game is Extremely Fun | 657 |
+| This game has Amazing Storytelling | 649 |
+| This game has Challenging Combat | 646 |
+| This game is Highly Recommended | 646 |
+| This game is Relaxing | 608 |
+| This game has Diverse Characters | 586 |
+| This game has Amazing Characters | 567 |
 | This game has Obsessive Gameplay | 419 |
 | This game has Unique Visuals | 305 |
 | This game is Great for Beginners | 111 |
@@ -92,3 +92,20 @@ Diff (max vs sum): -26
 | 2022-12-21 | 4.60 | - | - |
 | 2022-12-22 | 4.60 | - | - |
 | 2023-03-31 | 4.60 | - | 8,804 |
+| 2023-04-01 | 4.60 | - | 8,817 |
+| 2023-04-02 | 4.60 | - | 8,825 |
+| 2023-04-03 | 4.60 | - | 8,836 |
+| 2023-04-04 | 4.60 | - | 8,842 |
+| 2023-04-05 | 4.60 | - | 8,845 |
+| 2023-04-06 | 4.60 | - | 8,857 |
+| 2023-04-07 | 4.60 | - | 8,857 |
+| 2023-04-08 | 4.60 | - | 8,866 |
+| 2023-04-09 | 4.60 | - | 8,876 |
+| 2023-04-10 | 4.60 | - | 8,888 |
+| 2023-04-11 | 4.60 | - | 8,896 |
+| 2023-04-12 | 4.60 | - | 8,896 |
+| 2023-04-13 | 4.60 | - | 8,906 |
+| 2023-04-14 | 4.60 | - | 8,916 |
+| 2023-04-15 | 4.60 | - | 8,920 |
+| 2023-04-16 | 4.60 | - | 8,927 |
+| 2023-04-17 | 4.60 | - | 8,932 |

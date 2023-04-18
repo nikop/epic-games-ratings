@@ -1,9 +1,9 @@
 # Ashen
-Rating: 4.34 (Ranked 709)  
+Rating: 4.34 (Ranked 715)  
 Number of Ratings: 111  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 478)  
-Sum: 0 (Ranked 478)  
+Max (): 0  (Ranked 484)  
+Sum: 0 (Ranked 484)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |

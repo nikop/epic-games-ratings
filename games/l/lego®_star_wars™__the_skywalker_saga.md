@@ -1,22 +1,22 @@
 # LEGO® Star Wars™: The Skywalker Saga
-Rating: 4.79 (Ranked 93)  
+Rating: 4.79 (Ranked 91)  
 Number of Ratings: 2,536  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 2,211  (Ranked 93)  
-Sum: 6,217 (Ranked 110)  
-Diff (max vs sum): -17
+Max (Great Boss Battles): 2,228  (Ranked 94)  
+Sum: 6,250 (Ranked 110)  
+Diff (max vs sum): -16
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 2,211 |
-| This game has Diverse Characters | 467 |
-| This game has Amazing Characters | 461 |
-| This game is Great for Beginners | 459 |
-| This game has Amazing Storytelling | 449 |
-| This game is Highly Recommended | 445 |
-| This game has Easy Combat | 439 |
-| This game is Extremely Fun | 431 |
-| This game has Quickly Understood Controls | 429 |
+| This game has Great Boss Battles | 2,228 |
+| This game has Diverse Characters | 472 |
+| This game has Amazing Characters | 462 |
+| This game is Great for Beginners | 461 |
+| This game has Amazing Storytelling | 450 |
+| This game is Highly Recommended | 448 |
+| This game has Easy Combat | 440 |
+| This game is Extremely Fun | 433 |
+| This game has Quickly Understood Controls | 430 |
 | This game is Relaxing | 426 |
 | This game has Obsessive Gameplay | 341 |
 | This game has a Creative Community | 307 |
@@ -91,3 +91,16 @@ Diff (max vs sum): -17
 | 2022-11-07 | 4.80 | - | - |
 | 2022-11-17 | 4.80 | - | - |
 | 2022-11-18 | 4.79 | - | - |
+| 2023-03-31 | 4.79 | - | 2,215 |
+| 2023-04-02 | 4.79 | - | 2,215 |
+| 2023-04-03 | 4.79 | - | 2,215 |
+| 2023-04-04 | 4.79 | - | 2,218 |
+| 2023-04-06 | 4.79 | - | 2,218 |
+| 2023-04-07 | 4.79 | - | 2,220 |
+| 2023-04-08 | 4.79 | - | 2,220 |
+| 2023-04-10 | 4.79 | - | 2,222 |
+| 2023-04-11 | 4.79 | - | 2,222 |
+| 2023-04-13 | 4.79 | - | 2,223 |
+| 2023-04-14 | 4.79 | - | 2,224 |
+| 2023-04-15 | 4.79 | - | 2,224 |
+| 2023-04-16 | 4.79 | - | 2,228 |

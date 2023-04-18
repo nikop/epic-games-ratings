@@ -2,24 +2,24 @@
 Rating: 4.51 (Ranked 509)  
 Number of Ratings: 609  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Amazing Storytelling): 102  (Ranked 310)  
-Sum: 861 (Ranked 233)  
+Max (Amazing Storytelling): 104  (Ranked 309)  
+Sum: 870 (Ranked 232)  
 Diff (max vs sum): 77
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Amazing Storytelling | 102 |
+| This game has Amazing Storytelling | 104 |
 | This game has Competitive Players | 100 |
-| This game is Extremely Fun | 97 |
-| This game is Relaxing | 92 |
-| This game is Highly Recommended | 91 |
+| This game is Extremely Fun | 99 |
+| This game is Relaxing | 93 |
+| This game is Highly Recommended | 92 |
 | This game is Educational | 88 |
-| This game has Quickly Understood Controls | 85 |
-| This game has Diverse Characters | 81 |
+| This game has Quickly Understood Controls | 86 |
+| This game has Diverse Characters | 82 |
 | This game has Amazing Characters | 80 |
 | This game has Obsessive Gameplay | 59 |
 | This game has Beautiful Visuals | 50 |
-| This game has a Creative Community | 45 |
+| This game has a Creative Community | 46 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards |
 | ---- | ------ | ----------------- | ---------------- |
@@ -104,3 +104,8 @@ Diff (max vs sum): 77
 | 2023-02-16 | 4.51 | - | - |
 | 2023-03-08 | 4.50 | - | - |
 | 2023-03-22 | 4.51 | - | - |
+| 2023-03-31 | 4.51 | - | 102 |
+| 2023-04-04 | 4.51 | - | 104 |
+| 2023-04-05 | 4.51 | - | 104 |
+| 2023-04-10 | 4.51 | - | 104 |
+| 2023-04-13 | 4.51 | - | 104 |

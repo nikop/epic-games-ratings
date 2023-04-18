@@ -1,20 +1,20 @@
 # Prey
-Rating: 4.62 (Ranked 333)  
+Rating: 4.62 (Ranked 334)  
 Number of Ratings: 13,217  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 5,475  (Ranked 56)  
-Sum: 7,406 (Ranked 92)  
-Diff (max vs sum): -36
+Max (Great Boss Battles): 5,502  (Ranked 57)  
+Sum: 7,442 (Ranked 94)  
+Diff (max vs sum): -37
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 5,475 |
-| This game is Highly Recommended | 316 |
-| This game has Amazing Storytelling | 305 |
-| This game has Diverse Characters | 296 |
-| This game is Extremely Fun | 290 |
-| This game has Amazing Characters | 282 |
-| This game has Quickly Understood Controls | 281 |
+| This game has Great Boss Battles | 5,502 |
+| This game is Highly Recommended | 318 |
+| This game has Amazing Storytelling | 307 |
+| This game has Diverse Characters | 298 |
+| This game is Extremely Fun | 291 |
+| This game has Amazing Characters | 283 |
+| This game has Quickly Understood Controls | 282 |
 | This game has Obsessive Gameplay | 204 |
 | This game has Challenging Combat | 201 |
 | This game has a Creative Community | 161 |
@@ -91,3 +91,17 @@ Diff (max vs sum): -36
 | 2022-12-27 | 4.61 | - | - |
 | 2022-12-29 | 4.62 | - | - |
 | 2023-03-31 | 4.62 | - | 5,475 |
+| 2023-04-01 | 4.62 | - | 5,478 |
+| 2023-04-03 | 4.62 | - | 5,483 |
+| 2023-04-04 | 4.62 | - | 5,483 |
+| 2023-04-05 | 4.62 | - | 5,487 |
+| 2023-04-06 | 4.62 | - | 5,489 |
+| 2023-04-07 | 4.62 | - | 5,490 |
+| 2023-04-08 | 4.62 | - | 5,490 |
+| 2023-04-09 | 4.62 | - | 5,492 |
+| 2023-04-10 | 4.62 | - | 5,495 |
+| 2023-04-12 | 4.62 | - | 5,496 |
+| 2023-04-13 | 4.62 | - | 5,498 |
+| 2023-04-14 | 4.62 | - | 5,501 |
+| 2023-04-16 | 4.62 | - | 5,502 |
+| 2023-04-17 | 4.62 | - | 5,502 |

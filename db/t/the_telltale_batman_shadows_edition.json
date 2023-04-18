@@ -1,16 +1,16 @@
 {
   "ID": "f2bfff793b224f6190a394f461c9a4b8",
   "Name": "The Telltale Batman Shadows Edition",
-  "Rating": 4.74,
-  "Ranking_Rating": 141,
-  "Ranking_Popularity": 400,
-  "Ranking_PopularitySum": 431,
+  "Rating": 4.75,
+  "Ranking_Rating": 126,
+  "Ranking_Popularity": 404,
+  "Ranking_PopularitySum": 436,
   "NumberOfRatings": 135,
   "NumberOfAwards": 41,
   "NumberOfAwardsMax": 41,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:24:13.2126101+00:00",
-  "LastChanged": "2023-02-13T17:57:46.5363813+00:00",
+  "LastChanged": "2023-04-10T21:57:40.8455786+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:13.2126103+00:00",
@@ -292,6 +292,12 @@
     {
       "Time": "2023-02-13T17:57:46.5363815+00:00",
       "Rating": 4.74
+    },
+    {
+      "Time": "2023-04-10T21:57:40.8455789+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 41,
+      "NumberOfAwardsMax": 41
     }
   ],
   "Tags": [

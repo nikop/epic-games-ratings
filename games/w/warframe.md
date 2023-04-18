@@ -1,22 +1,22 @@
 # Warframe
-Rating: 4.61 (Ranked 349)  
+Rating: 4.61 (Ranked 350)  
 Number of Ratings: 12,660  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 13,837  (Ranked 21)  
-Sum: 36,352 (Ranked 27)  
-Diff (max vs sum): -6
+Max (Great Boss Battles): 14,102  (Ranked 22)  
+Sum: 37,167 (Ranked 27)  
+Diff (max vs sum): -5
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Great Boss Battles | 13,837 |
-| This game has Diverse Characters | 3,004 |
-| This game has Quickly Understood Controls | 2,877 |
-| This game is Highly Recommended | 2,869 |
-| This game is Relaxing | 2,830 |
-| This game has Amazing Storytelling | 2,803 |
-| This game is Extremely Fun | 2,780 |
-| This game has Amazing Characters | 2,744 |
-| This game has Unique Visuals | 2,608 |
+| This game has Great Boss Battles | 14,102 |
+| This game has Diverse Characters | 3,092 |
+| This game is Highly Recommended | 2,944 |
+| This game has Quickly Understood Controls | 2,930 |
+| This game is Relaxing | 2,896 |
+| This game has Amazing Storytelling | 2,865 |
+| This game is Extremely Fun | 2,853 |
+| This game has Amazing Characters | 2,804 |
+| This game has Unique Visuals | 2,681 |
 | This game has Obsessive Gameplay | 1,774 |
 | This game has a Kind Community | 1,679 |
 ## Ratings History
@@ -92,3 +92,22 @@ Diff (max vs sum): -6
 | 2022-11-03 | 4.62 | - | - |
 | 2022-11-04 | 4.62 | - | - |
 | 2022-11-05 | 4.61 | - | - |
+| 2023-03-31 | 4.61 | - | 13,854 |
+| 2023-04-01 | 4.61 | - | 13,874 |
+| 2023-04-02 | 4.61 | - | 13,887 |
+| 2023-04-03 | 4.61 | - | 13,907 |
+| 2023-04-04 | 4.61 | - | 13,925 |
+| 2023-04-05 | 4.61 | - | 13,937 |
+| 2023-04-06 | 4.61 | - | 13,937 |
+| 2023-04-07 | 4.61 | - | 13,954 |
+| 2023-04-08 | 4.61 | - | 13,964 |
+| 2023-04-09 | 4.61 | - | 13,986 |
+| 2023-04-10 | 4.61 | - | 14,001 |
+| 2023-04-11 | 4.61 | - | 14,010 |
+| 2023-04-12 | 4.61 | - | 14,028 |
+| 2023-04-13 | 4.61 | - | 14,040 |
+| 2023-04-14 | 4.61 | - | 14,057 |
+| 2023-04-15 | 4.61 | - | 14,067 |
+| 2023-04-16 | 4.61 | - | 14,085 |
+| 2023-04-17 | 4.61 | - | 14,102 |
+| 2023-04-18 | 4.61 | - | 14,102 |

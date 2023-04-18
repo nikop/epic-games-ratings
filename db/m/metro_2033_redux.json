@@ -2,15 +2,15 @@
   "ID": "petunia",
   "Name": "Metro 2033 Redux",
   "Rating": 4.69,
-  "Ranking_Rating": 215,
-  "Ranking_Popularity": 119,
-  "Ranking_PopularitySum": 213,
+  "Ranking_Rating": 213,
+  "Ranking_Popularity": 121,
+  "Ranking_PopularitySum": 214,
   "NumberOfRatings": 5684,
-  "NumberOfAwards": 1275,
-  "NumberOfAwardsMax": 1166,
+  "NumberOfAwards": 1277,
+  "NumberOfAwardsMax": 1168,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:19:16.3934902+00:00",
-  "LastChanged": "2023-01-29T04:57:18.7268863+00:00",
+  "LastChanged": "2023-04-07T17:57:14.1343311+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:16.3934904+00:00",
@@ -752,6 +752,18 @@
     {
       "Time": "2023-01-29T04:57:18.7268865+00:00",
       "Rating": 4.69
+    },
+    {
+      "Time": "2023-04-04T15:57:17.7983829+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1276,
+      "NumberOfAwardsMax": 1167
+    },
+    {
+      "Time": "2023-04-07T17:57:14.1343314+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1277,
+      "NumberOfAwardsMax": 1168
     }
   ],
   "Tags": [
@@ -759,7 +771,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1166
+      "Count": 1168
     },
     {
       "Text": "This game is Highly Recommended",

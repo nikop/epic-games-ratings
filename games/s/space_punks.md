@@ -1,18 +1,18 @@
 # Space Punks
-Rating: 4.16 (Ranked 816)  
+Rating: 4.16 (Ranked 823)  
 Number of Ratings: 1,927  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 166  (Ranked 269)  
-Sum: 936 (Ranked 228)  
-Diff (max vs sum): 41
+Max (Great for Beginners): 169  (Ranked 268)  
+Sum: 941 (Ranked 228)  
+Diff (max vs sum): 40
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game is Great for Beginners | 166 |
+| This game is Great for Beginners | 169 |
 | This game is Great for Quick Sessions | 163 |
+| This game is Relaxing | 159 |
 | This game has Quickly Understood Controls | 159 |
-| This game is Relaxing | 158 |
-| This game is Highly Recommended | 148 |
+| This game is Highly Recommended | 149 |
 | This game has Amazing Characters | 142 |
 | This game is Extremely Fun | 79 |
 ## Ratings History
@@ -98,3 +98,8 @@ Diff (max vs sum): 41
 | 2023-01-14 | 4.18 | - | - |
 | 2023-02-02 | 4.17 | - | - |
 | 2023-03-06 | 4.16 | - | - |
+| 2023-04-01 | 4.16 | - | 166 |
+| 2023-04-09 | 4.16 | - | 167 |
+| 2023-04-11 | 4.16 | - | 168 |
+| 2023-04-12 | 4.16 | - | 168 |
+| 2023-04-15 | 4.16 | - | 169 |

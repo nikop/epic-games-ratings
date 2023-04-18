@@ -1,10 +1,10 @@
 # Shadowrun Hong Kong - Extended Edition
-Rating: 4.53 (Ranked 481)  
+Rating: 4.53 (Ranked 485)  
 Number of Ratings: 241  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 92  (Ranked 322)  
-Sum: 92 (Ranked 392)  
-Diff (max vs sum): -70
+Max (Character Customization): 92  (Ranked 326)  
+Sum: 92 (Ranked 394)  
+Diff (max vs sum): -68
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

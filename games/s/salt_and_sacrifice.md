@@ -1,21 +1,22 @@
 # Salt and Sacrifice
-Rating: 4.31 (Ranked 734)  
+Rating: 4.31 (Ranked 741)  
 Number of Ratings: 2,205  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 916  (Ranked 139)  
-Sum: 1,822 (Ranked 192)  
-Diff (max vs sum): -53
+Max (Character Customization): 920  (Ranked 139)  
+Sum: 1,884 (Ranked 187)  
+Diff (max vs sum): -48
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 916 |
-| This game has Great Boss Battles | 531 |
-| This game is Extremely Fun | 61 |
+| This game has Inclusive Character Customization | 920 |
+| This game has Great Boss Battles | 535 |
+| This game is Extremely Fun | 63 |
 | This game has Challenging Combat | 60 |
 | This game has Diverse Characters | 52 |
 | This game is Highly Recommended | 52 |
+| This game has Quickly Understood Controls | 52 |
 | This game has Unique Visuals | 51 |
-| This game has Quickly Understood Controls | 51 |
+| This game has Amazing Characters | 51 |
 | This game has Amazing Storytelling | 48 |
 | This game has Obsessive Gameplay | 39 |
 ## Ratings History
@@ -86,3 +87,12 @@ Diff (max vs sum): -53
 | 2022-09-22 | 4.31 | 2,202 | - |
 | 2022-09-23 | 4.31 | 2,205 | - |
 | 2022-12-03 | 4.31 | - | - |
+| 2023-04-02 | 4.31 | - | 918 |
+| 2023-04-03 | 4.31 | - | 918 |
+| 2023-04-08 | 4.31 | - | 918 |
+| 2023-04-09 | 4.31 | - | 918 |
+| 2023-04-11 | 4.31 | - | 919 |
+| 2023-04-12 | 4.31 | - | 919 |
+| 2023-04-13 | 4.31 | - | 919 |
+| 2023-04-15 | 4.31 | - | 920 |
+| 2023-04-16 | 4.31 | - | 920 |

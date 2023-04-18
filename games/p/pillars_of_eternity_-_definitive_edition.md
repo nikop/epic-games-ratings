@@ -1,21 +1,21 @@
 # Pillars of Eternity - Definitive Edition
-Rating: 4.66 (Ranked 272)  
+Rating: 4.65 (Ranked 286)  
 Number of Ratings: 2,847  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 1,853  (Ranked 103)  
-Sum: 4,564 (Ranked 125)  
-Diff (max vs sum): -22
+Max (Character Customization): 1,861  (Ranked 103)  
+Sum: 4,577 (Ranked 126)  
+Diff (max vs sum): -23
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 1,853 |
-| This game is Extremely Fun | 332 |
-| This game has Amazing Storytelling | 331 |
+| This game has Inclusive Character Customization | 1,861 |
+| This game is Extremely Fun | 333 |
+| This game has Amazing Storytelling | 332 |
 | This game has Amazing Characters | 324 |
 | This game has Diverse Characters | 324 |
 | This game is Highly Recommended | 311 |
-| This game has Challenging Combat | 305 |
-| This game is Relaxing | 303 |
+| This game has Challenging Combat | 306 |
+| This game is Relaxing | 305 |
 | This game has Quickly Understood Controls | 298 |
 | This game has a Creative Community | 183 |
 | This game has Unique Visuals | 141 |
@@ -95,3 +95,13 @@ Diff (max vs sum): -22
 | 2022-11-17 | 4.66 | - | - |
 | 2022-11-18 | 4.65 | - | - |
 | 2022-12-03 | 4.66 | - | - |
+| 2023-04-01 | 4.66 | - | 1,855 |
+| 2023-04-02 | 4.66 | - | 1,858 |
+| 2023-04-05 | 4.65 | - | 1,858 |
+| 2023-04-07 | 4.66 | - | 1,858 |
+| 2023-04-09 | 4.65 | - | 1,858 |
+| 2023-04-11 | 4.65 | - | 1,858 |
+| 2023-04-12 | 4.65 | - | 1,859 |
+| 2023-04-13 | 4.65 | - | 1,859 |
+| 2023-04-15 | 4.65 | - | 1,860 |
+| 2023-04-17 | 4.65 | - | 1,861 |

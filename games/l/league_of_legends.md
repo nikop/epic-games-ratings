@@ -1,20 +1,20 @@
 # League of Legends
-Rating: 4.21 (Ranked 786)  
+Rating: 4.21 (Ranked 790)  
 Number of Ratings: 10,796  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 12,171  (Ranked 25)  
-Sum: 24,917 (Ranked 44)  
-Diff (max vs sum): -19
+Max (Character Customization): 12,540  (Ranked 26)  
+Sum: 25,764 (Ranked 44)  
+Diff (max vs sum): -18
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
-| This game has Inclusive Character Customization | 12,171 |
-| This game has Diverse Characters | 2,532 |
-| This game has Challenging Combat | 2,265 |
-| This game has Competitive Players | 2,072 |
-| This game has Amazing Characters | 2,064 |
-| This game has Amazing Storytelling | 1,932 |
-| This game has a Competitive Community | 1,881 |
+| This game has Inclusive Character Customization | 12,540 |
+| This game has Diverse Characters | 2,663 |
+| This game has Challenging Combat | 2,338 |
+| This game has Amazing Characters | 2,147 |
+| This game has Competitive Players | 2,122 |
+| This game has Amazing Storytelling | 2,003 |
+| This game has a Competitive Community | 1,951 |
 | This game has Obsessive Gameplay | 403 |
 | This game has Quickly Understood Controls | 260 |
 ## Ratings History
@@ -105,3 +105,21 @@ Diff (max vs sum): -19
 | 2023-03-05 | 4.22 | - | - |
 | 2023-03-06 | 4.21 | - | - |
 | 2023-03-31 | 4.21 | - | 12,171 |
+| 2023-04-01 | 4.21 | - | 12,182 |
+| 2023-04-02 | 4.21 | - | 12,204 |
+| 2023-04-03 | 4.21 | - | 12,223 |
+| 2023-04-04 | 4.21 | - | 12,241 |
+| 2023-04-05 | 4.21 | - | 12,262 |
+| 2023-04-06 | 4.21 | - | 12,280 |
+| 2023-04-07 | 4.21 | - | 12,324 |
+| 2023-04-08 | 4.21 | - | 12,346 |
+| 2023-04-09 | 4.21 | - | 12,370 |
+| 2023-04-10 | 4.21 | - | 12,382 |
+| 2023-04-11 | 4.21 | - | 12,409 |
+| 2023-04-12 | 4.21 | - | 12,434 |
+| 2023-04-13 | 4.21 | - | 12,456 |
+| 2023-04-14 | 4.21 | - | 12,482 |
+| 2023-04-15 | 4.21 | - | 12,503 |
+| 2023-04-16 | 4.21 | - | 12,518 |
+| 2023-04-17 | 4.21 | - | 12,540 |
+| 2023-04-18 | 4.21 | - | 12,540 |

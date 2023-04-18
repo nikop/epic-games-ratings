@@ -1,10 +1,10 @@
 # Train Valley 2
-Rating: 4.14 (Ranked 830)  
+Rating: 4.14 (Ranked 833)  
 Number of Ratings: 87  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Challenging Puzzles): 69  (Ranked 350)  
-Sum: 69 (Ranked 407)  
-Diff (max vs sum): -57
+Max (Challenging Puzzles): 69  (Ranked 355)  
+Sum: 69 (Ranked 410)  
+Diff (max vs sum): -55
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |

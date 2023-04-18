@@ -1,9 +1,9 @@
 # Warhammer 40000: Battlesector
-Rating: 4.58 (Ranked 400)  
+Rating: 4.59 (Ranked 389)  
 Number of Ratings: 40  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 478)  
-Sum: 0 (Ranked 478)  
+Max (): 0  (Ranked 484)  
+Sum: 0 (Ranked 484)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Number of Ratings |
@@ -34,4 +34,4 @@ Diff (max vs sum): 0
 | 2022-11-02 | 4.56 | - | - |
 | 2022-11-20 | 4.57 | - | - |
 | 2022-12-05 | 4.58 | - | - |
-| 2023-03-31 | 4.58 | - | 0 |
+| 2023-03-31 | 4.59 | - | 0 |

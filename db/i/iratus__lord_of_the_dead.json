@@ -2,15 +2,15 @@
   "ID": "d250bdf072934b70ab080c6fcee77734",
   "Name": "Iratus: Lord of the Dead",
   "Rating": 4.37,
-  "Ranking_Rating": 685,
-  "Ranking_Popularity": 96,
+  "Ranking_Rating": 691,
+  "Ranking_Popularity": 100,
   "Ranking_PopularitySum": 130,
   "NumberOfRatings": 10109,
-  "NumberOfAwards": 4110,
-  "NumberOfAwardsMax": 2121,
+  "NumberOfAwards": 4122,
+  "NumberOfAwardsMax": 2128,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
-  "LastChanged": "2022-09-23T11:00:57.2070437+00:00",
+  "LastChanged": "2023-04-18T01:54:39.6056419+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:38.7739807+00:00",
@@ -1751,6 +1751,60 @@
       "Time": "2022-09-23T11:00:57.2070438+00:00",
       "Rating": 4.37,
       "NumberOfRatings": 10109
+    },
+    {
+      "Time": "2023-04-01T07:57:16.6365835+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 4112,
+      "NumberOfAwardsMax": 2123
+    },
+    {
+      "Time": "2023-04-05T13:15:20.775813+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 4113,
+      "NumberOfAwardsMax": 2123
+    },
+    {
+      "Time": "2023-04-05T18:57:16.7187792+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 4115,
+      "NumberOfAwardsMax": 2125
+    },
+    {
+      "Time": "2023-04-11T01:54:47.1509153+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 4116,
+      "NumberOfAwardsMax": 2125
+    },
+    {
+      "Time": "2023-04-12T13:57:07.8427702+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 4117,
+      "NumberOfAwardsMax": 2125
+    },
+    {
+      "Time": "2023-04-15T01:56:32.0700807+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 4118,
+      "NumberOfAwardsMax": 2125
+    },
+    {
+      "Time": "2023-04-15T14:57:32.831944+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 4120,
+      "NumberOfAwardsMax": 2127
+    },
+    {
+      "Time": "2023-04-17T15:57:21.439975+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 4121,
+      "NumberOfAwardsMax": 2128
+    },
+    {
+      "Time": "2023-04-18T01:54:39.6056422+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 4122,
+      "NumberOfAwardsMax": 2128
     }
   ],
   "Tags": [
@@ -1758,7 +1812,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 2121
+      "Count": 2128
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1770,7 +1824,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 211
+      "Count": 212
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1782,7 +1836,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 224
+      "Count": 225
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1794,13 +1848,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 197
+      "Count": 198
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 207
+      "Count": 208
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1812,7 +1866,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 187
+      "Count": 188
     },
     {
       "Text": "This game has a Creative Community",
