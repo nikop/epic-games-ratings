@@ -4,13 +4,13 @@
   "Rating": 3.91,
   "Ranking_Rating": 884,
   "Ranking_Popularity": 281,
-  "Ranking_PopularitySum": 261,
-  "NumberOfAwards": 666,
+  "Ranking_PopularitySum": 259,
+  "NumberOfAwards": 673,
   "NumberOfAwardsMax": 142,
   "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
-  "LastChanged": "2023-04-18T13:57:02.9960845+00:00",
+  "LastChanged": "2023-04-18T15:56:57.0869889+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-29T02:58:45.3340124+00:00",
@@ -725,6 +725,12 @@
       "Rating": 3.91,
       "NumberOfAwards": 666,
       "NumberOfAwardsMax": 142
+    },
+    {
+      "Time": "2023-04-18T15:56:57.086989+00:00",
+      "Rating": 3.91,
+      "NumberOfAwards": 673,
+      "NumberOfAwardsMax": 142
     }
   ],
   "Tags": [
@@ -750,7 +756,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 127
+      "Count": 134
     },
     {
       "Text": "This game has Challenging Combat",
