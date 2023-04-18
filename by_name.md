@@ -115,7 +115,7 @@
 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 708 | 0 | 484 |
 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 326 | 0 | 484 |
 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 112 | 84 | 335 |
-| [Celeste](games/c/celeste.md) | 4.92 | 4 | 1,417 | 115 |
+| [Celeste](games/c/celeste.md) | 4.92 | 4 | 1,419 | 115 |
 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 731 | 0 | 484 |
 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 635 | 59 | 371 |
 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 835 | 0 | 484 |
@@ -123,7 +123,7 @@
 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.74 | 141 | 0 | 484 |
 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 54 | 0 | 484 |
 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 884 | 0 | 484 |
-| [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 350 | 3,962 | 72 |
+| [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 350 | 3,965 | 72 |
 | [Chorus](games/c/chorus.md) | 4.47 | 570 | 32 | 428 |
 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 844 | 0 | 484 |
 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 823 | 0 | 484 |
@@ -203,7 +203,7 @@
 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.47 | 570 | 0 | 484 |
 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 691 | 0 | 484 |
 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 29 | 683 | 154 |
-| [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 141 | 482 | 182 |
+| [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 141 | 485 | 182 |
 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 79 | 302 | 219 |
 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 629 | 22 | 465 |
 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 112 | 811 | 145 |
@@ -229,7 +229,7 @@
 | [Encased](games/e/encased.md) | 4.36 | 699 | 123 | 293 |
 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 37 | 7,465 | 41 |
 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 541 | 0 | 484 |
-| [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 235 | 5,012 | 60 |
+| [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 235 | 5,017 | 60 |
 | [EVE Online](games/e/eve_online.md) | 4.26 | 767 | 1,005 | 131 |
 | [Everything](games/e/everything.md) | 4.57 | 422 | 0 | 484 |
 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 691 | 12,221 | 27 |
@@ -251,10 +251,10 @@
 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 772 | 0 | 484 |
 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 350 | 0 | 484 |
 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 271 | 488 | 181 |
-| [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 334 | 1,164 | 122 |
+| [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 334 | 1,166 | 122 |
 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 614 | 667 | 156 |
 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 646 | 173 | 265 |
-| [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 191 | 300 | 220 |
+| [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 191 | 302 | 219 |
 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 213 | 317 | 212 |
 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 213 | 0 | 484 |
 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 177 | 0 | 484 |
@@ -442,7 +442,7 @@
 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 525 | 0 | 484 |
 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.03 | 864 | 0 | 484 |
 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 155 | 542 | 173 |
-| [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 498 | 1,047 | 128 |
+| [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 498 | 1,054 | 128 |
 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 25 | 11,292 | 31 |
 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 91 | 981 | 135 |
 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 350 | 1,061 | 125 |
@@ -634,7 +634,7 @@
 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.26 | 767 | 0 | 484 |
 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 141 | 29,449 | 13 |
 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.05 | 860 | 0 | 484 |
-| [Sifu](games/s/sifu.md) | 4.82 | 60 | 5,933 | 53 |
+| [Sifu](games/s/sifu.md) | 4.82 | 60 | 5,940 | 53 |
 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.50 | 525 | 0 | 484 |
 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.71 | 177 | 108 | 307 |
 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 752 | 124 | 292 |
@@ -643,7 +643,7 @@
 | [Slipways](games/s/slipways.md) | 4.73 | 155 | 0 | 484 |
 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 112 | 0 | 484 |
 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.46 | 582 | 0 | 484 |
-| [SMITE](games/s/smite.md) | 4.45 | 595 | 3,634 | 77 |
+| [SMITE](games/s/smite.md) | 4.45 | 595 | 3,638 | 77 |
 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.40 | 661 | 0 | 484 |
 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 112 | 7,578 | 40 |
 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 271 | 24 | 460 |

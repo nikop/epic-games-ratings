@@ -6,11 +6,11 @@
   "Ranking_Popularity": 100,
   "Ranking_PopularitySum": 130,
   "NumberOfRatings": 10109,
-  "NumberOfAwards": 4121,
+  "NumberOfAwards": 4122,
   "NumberOfAwardsMax": 2128,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
-  "LastChanged": "2023-04-17T15:57:21.4399749+00:00",
+  "LastChanged": "2023-04-18T01:54:39.6056419+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:38.7739807+00:00",
@@ -1799,6 +1799,12 @@
       "Rating": 4.37,
       "NumberOfAwards": 4121,
       "NumberOfAwardsMax": 2128
+    },
+    {
+      "Time": "2023-04-18T01:54:39.6056422+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 4122,
+      "NumberOfAwardsMax": 2128
     }
   ],
   "Tags": [
@@ -1818,7 +1824,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 211
+      "Count": 212
     },
     {
       "Text": "This game has Amazing Storytelling",

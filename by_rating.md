@@ -3,7 +3,7 @@
 | 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 0 | 484 |
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 484 |
 | 3 | [Flatout 2](games/f/flatout_2.md) | 4.93 | 0 | 484 |
-| 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,417 | 115 |
+| 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,419 | 115 |
 | 4 | [Hades](games/h/hades.md) | 4.92 | 2,994 | 86 |
 | 4 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.92 | 0 | 484 |
 | 7 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.91 | 0 | 484 |
@@ -67,7 +67,7 @@
 | 60 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 0 | 484 |
 | 60 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 474 | 183 |
 | 60 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 111 | 306 |
-| 60 | [Sifu](games/s/sifu.md) | 4.82 | 5,933 | 53 |
+| 60 | [Sifu](games/s/sifu.md) | 4.82 | 5,940 | 53 |
 | 60 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 0 | 484 |
 | 70 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 416 | 188 |
 | 70 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 0 | 484 |
@@ -143,7 +143,7 @@
 | 141 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 398 | 193 |
 | 141 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 484 |
 | 141 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.74 | 0 | 484 |
-| 141 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 482 | 182 |
+| 141 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 485 | 182 |
 | 141 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 765 | 146 |
 | 141 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 574 | 166 |
 | 141 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,398 | 48 |
@@ -193,7 +193,7 @@
 | 191 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 0 | 484 |
 | 191 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,482 | 67 |
 | 191 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 0 | 484 |
-| 191 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 300 | 220 |
+| 191 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 302 | 219 |
 | 191 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,079 | 70 |
 | 191 | [For The King](games/f/for_the_king.md) | 4.70 | 357 | 205 |
 | 191 | [House Flipper](games/h/house_flipper.md) | 4.70 | 279 | 223 |
@@ -241,7 +241,7 @@
 | 235 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 355 |
 | 235 | [Card Shark](games/c/card_shark.md) | 4.68 | 0 | 484 |
 | 235 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 484 |
-| 235 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,012 | 60 |
+| 235 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,017 | 60 |
 | 235 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 287,063 | 3 |
 | 235 | [High On Life](games/h/high_on_life.md) | 4.68 | 0 | 484 |
 | 235 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 484 |
@@ -335,7 +335,7 @@
 | 326 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 0 | 484 |
 | 334 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 61,864 | 9 |
 | 334 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 272 | 226 |
-| 334 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,164 | 122 |
+| 334 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,166 | 122 |
 | 334 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 527 | 176 |
 | 334 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 484 |
 | 334 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 575 | 164 |
@@ -352,7 +352,7 @@
 | 350 | [20XX](games/2/20xx.md) | 4.61 | 36 | 414 |
 | 350 | [ABZU](games/a/abzu.md) | 4.61 | 0 | 484 |
 | 350 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 127 | 289 |
-| 350 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 3,962 | 72 |
+| 350 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 3,965 | 72 |
 | 350 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 484 |
 | 350 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 209 | 249 |
 | 350 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 374 | 201 |
@@ -503,7 +503,7 @@
 | 498 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 98 | 316 |
 | 498 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 147 | 280 |
 | 498 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 182 | 261 |
-| 498 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,047 | 128 |
+| 498 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,054 | 128 |
 | 498 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 484 |
 | 498 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 484 |
 | 498 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 142 | 281 |
@@ -608,7 +608,7 @@
 | 595 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 484 |
 | 595 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 846 | 143 |
 | 595 | [Predecessor](games/p/predecessor.md) | 4.45 | 53 | 376 |
-| 595 | [SMITE](games/s/smite.md) | 4.45 | 3,634 | 77 |
+| 595 | [SMITE](games/s/smite.md) | 4.45 | 3,638 | 77 |
 | 595 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.45 | 0 | 484 |
 | 595 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 113 | 301 |
 | 595 | [Weird West](games/w/weird_west.md) | 4.45 | 22 | 465 |
