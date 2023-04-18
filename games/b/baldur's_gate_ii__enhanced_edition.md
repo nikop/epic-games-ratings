@@ -1,5 +1,5 @@
 # Baldur's Gate II: Enhanced Edition
-Rating: 4.91 (Ranked 7)  
+Rating: 4.91 (Ranked 6)  
 Number of Ratings: 29  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  

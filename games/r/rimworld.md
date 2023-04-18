@@ -1,5 +1,5 @@
 # RimWorld
-Rating: 4.89 (Ranked 13)  
+Rating: 4.89 (Ranked 12)  
 Number of Ratings: 870  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 398  (Ranked 193)  

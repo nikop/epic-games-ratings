@@ -1,5 +1,5 @@
 # Firework
-Rating: 4.89 (Ranked 13)  
+Rating: 4.89 (Ranked 12)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  

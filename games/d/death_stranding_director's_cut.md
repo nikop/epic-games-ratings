@@ -1,16 +1,16 @@
 # DEATH STRANDING DIRECTOR'S CUT
-Rating: 4.89 (Ranked 13)  
+Rating: 4.89 (Ranked 12)  
 Number of Ratings: 3,099  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 6,713  (Ranked 44)  
-Sum: 11,462 (Ranked 72)  
+Max (Great Boss Battles): 6,720  (Ranked 44)  
+Sum: 11,472 (Ranked 72)  
 Diff (max vs sum): -28
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,713 |
+| This game has Great Boss Battles | 6,720 |
 | This game has Amazing Storytelling | 477 |
-| This game has Diverse Characters | 455 |
+| This game has Diverse Characters | 457 |
 | This game has Amazing Characters | 447 |
 | This game is Great for Beginners | 447 |
 | This game is Highly Recommended | 442 |
@@ -19,7 +19,7 @@ Diff (max vs sum): -28
 | This game is Educational | 426 |
 | This game has Quickly Understood Controls | 422 |
 | This game is Relaxing | 413 |
-| This game has a Creative Community | 360 |
+| This game has a Creative Community | 361 |
 | This game has Obsessive Gameplay | 158 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -116,4 +116,4 @@ Diff (max vs sum): -28
 | 2023-04-15 | 4.89 | - | 6,692 | 11,422 |
 | 2023-04-16 | 4.89 | - | 6,703 | 11,443 |
 | 2023-04-17 | 4.89 | - | 6,713 | 11,459 |
-| 2023-04-18 | 4.89 | - | 6,713 | 11,462 |
+| 2023-04-18 | 4.89 | - | 6,720 | 11,472 |

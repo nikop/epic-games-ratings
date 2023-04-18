@@ -1,5 +1,5 @@
 # Outer Wilds
-Rating: 4.90 (Ranked 8)  
+Rating: 4.90 (Ranked 7)  
 Number of Ratings: 726  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  

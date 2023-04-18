@@ -1,5 +1,5 @@
 # Marvel's Spider-Man Remastered
-Rating: 4.87 (Ranked 25)  
+Rating: 4.87 (Ranked 24)  
 Number of Ratings: 14,015  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 11,295  (Ranked 31)  

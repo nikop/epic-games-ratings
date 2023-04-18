@@ -1,5 +1,5 @@
 # Disco Elysium
-Rating: 4.86 (Ranked 29)  
+Rating: 4.86 (Ranked 28)  
 Number of Ratings: 1,611  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 683  (Ranked 154)  

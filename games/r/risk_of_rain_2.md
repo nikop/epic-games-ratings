@@ -1,5 +1,5 @@
 # Risk of Rain 2
-Rating: 4.85 (Ranked 37)  
+Rating: 4.85 (Ranked 36)  
 Number of Ratings: 1,310  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 223  (Ranked 242)  

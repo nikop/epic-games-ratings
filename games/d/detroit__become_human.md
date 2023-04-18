@@ -1,5 +1,5 @@
 # Detroit: Become Human
-Rating: 4.87 (Ranked 25)  
+Rating: 4.87 (Ranked 24)  
 Number of Ratings: 3,910  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Impact the Story): 1,363  (Ranked 116)  

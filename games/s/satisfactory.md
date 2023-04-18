@@ -1,5 +1,5 @@
 # Satisfactory
-Rating: 4.88 (Ranked 19)  
+Rating: 4.88 (Ranked 18)  
 Number of Ratings: 29,401  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 9,062  (Ranked 34)  

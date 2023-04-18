@@ -1,5 +1,5 @@
 # The Jackbox Party Pack 7
-Rating: 4.85 (Ranked 37)  
+Rating: 4.85 (Ranked 36)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  

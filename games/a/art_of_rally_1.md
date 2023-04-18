@@ -1,5 +1,5 @@
 # Art of Rally
-Rating: 4.86 (Ranked 29)  
+Rating: 4.86 (Ranked 28)  
 Number of Ratings: 56  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  

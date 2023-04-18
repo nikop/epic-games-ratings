@@ -1,5 +1,5 @@
 # The Binding of Isaac: Repentance
-Rating: 4.90 (Ranked 8)  
+Rating: 4.90 (Ranked 7)  
 Number of Ratings: 1,859  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 1,785  (Ranked 105)  

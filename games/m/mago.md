@@ -1,5 +1,5 @@
 # Mago
-Rating: 4.90 (Ranked 8)  
+Rating: 4.90 (Ranked 7)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  
