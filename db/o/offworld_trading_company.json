@@ -1,8 +1,8 @@
 {
   "ID": "e8882546f28e4832af823c646aed232e",
   "Name": "Offworld Trading Company",
-  "Rating": 4.28,
-  "Ranking_Rating": 760,
+  "Rating": 4.29,
+  "Ranking_Rating": 752,
   "Ranking_Popularity": 401,
   "Ranking_PopularitySum": 333,
   "NumberOfRatings": 432,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:20:30.0277807+00:00",
-  "LastChanged": "2023-04-17T13:06:42.3866445+00:00",
+  "LastChanged": "2023-04-18T13:07:14.5660921+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:30.0277811+00:00",
@@ -600,6 +600,12 @@
     {
       "Time": "2023-04-17T13:06:42.3866446+00:00",
       "Rating": 4.28,
+      "NumberOfAwards": 260,
+      "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2023-04-18T13:07:14.5660922+00:00",
+      "Rating": 4.29,
       "NumberOfAwards": 260,
       "NumberOfAwardsMax": 43
     }
