@@ -1,4 +1,6 @@
-﻿using System.Globalization;
+﻿using EpicRatingsUpdater.Markdown;
+
+using System.Globalization;
 using System.Text;
 
 namespace EpicRatingsUpdater
@@ -145,8 +147,8 @@ namespace EpicRatingsUpdater
 
             sb.AppendLine("## Awards");
 
-            sb.AppendLine("| Award | Number of Ratings |");
-            sb.AppendLine("| ----- | ----------------- |");
+            sb.AppendLine("| Award | Count |");
+            sb.AppendLine("| ----- | ----- |");
 
             foreach (var tag in item.Tags.OrderByDescending(x => x.Count))
             {
@@ -155,16 +157,29 @@ namespace EpicRatingsUpdater
 
             sb.AppendLine("## Ratings History");
 
-            sb.AppendLine("| Date | Rating | Number of Ratings | Number of Awards |");
-            sb.AppendLine("| ---- | ------ | ----------------- | ---------------- |");
+            var ratingsTable = new MarkdownTable<GameDbItemRatingHistory>();
 
-            foreach (var h in item.RatingHistory.GroupBy(x => x.Time.Date))
+            ratingsTable.AddColumn("Date", x => x.Time.ToString("yyyy-MM-dd"));
+            ratingsTable.AddColumn("Rating", x => FormatRating(x.Rating));
+
+            if (item.RatingHistory.Any(x => x.NumberOfRatings != null))
             {
-                var sub = h.MaxBy(x => x.NumberOfRatings)!;
-                var sub2 = h.MaxBy(x => x.NumberOfAwardsMax);
-
-                sb.AppendLine($"| {sub.Time.ToString("yyyy-MM-dd")} | {FormatRating(sub.Rating)} | {FormatVotes(sub?.NumberOfRatings)} | {FormatVotes(sub2?.NumberOfAwardsMax)} |");
+                ratingsTable.AddColumn("Number of Ratings", x => FormatVotes(x?.NumberOfRatings));
             }
+
+            ratingsTable.AddColumn("Number of Awards (Max)", x => FormatVotes(x?.NumberOfAwardsMax));
+            ratingsTable.AddColumn("Number of Awards (Sum)", x => FormatVotes(x?.NumberOfAwards));
+
+            var itemsToShow = item.RatingHistory.GroupBy(x => x.Time.Date).Select(x => new GameDbItemRatingHistory
+            {
+                Time = x.Key,
+                NumberOfAwards = x.MaxBy(x => x.NumberOfAwards)?.NumberOfAwards,
+                NumberOfAwardsMax = x.MaxBy(x => x.NumberOfAwardsMax)?.NumberOfAwardsMax,
+                NumberOfRatings = x.MaxBy(x => x.NumberOfRatings)?.NumberOfRatings,
+                Rating = x.MaxBy(x =>x.Rating)?.Rating,
+            }).ToList();
+
+            sb.Append(ratingsTable.FormatTable(itemsToShow));
 
             return sb.ToString();
         }
