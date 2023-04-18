@@ -1,8 +1,8 @@
 {
   "ID": "0a84818055e740a7be21a2e5b6162703",
   "Name": "Watch Dogs: Legion Standard Edition",
-  "Rating": 4.35,
-  "Ranking_Rating": 708,
+  "Rating": 4.36,
+  "Ranking_Rating": 699,
   "Ranking_Popularity": 346,
   "Ranking_PopularitySum": 281,
   "NumberOfRatings": 1361,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 73,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:17:59.5198477+00:00",
-  "LastChanged": "2023-04-17T18:57:10.0348358+00:00",
+  "LastChanged": "2023-04-18T18:57:22.7557219+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:59.519848+00:00",
@@ -1162,6 +1162,12 @@
     {
       "Time": "2023-04-17T18:57:10.0348359+00:00",
       "Rating": 4.35,
+      "NumberOfAwards": 563,
+      "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2023-04-18T18:57:22.755722+00:00",
+      "Rating": 4.36,
       "NumberOfAwards": 563,
       "NumberOfAwardsMax": 73
     }

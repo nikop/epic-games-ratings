@@ -1,5 +1,5 @@
 # Watch Dogs: Legion Standard Edition
-Rating: 4.35 (Ranked 708)  
+Rating: 4.36 (Ranked 699)  
 Number of Ratings: 1,361  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 73  (Ranked 346)  
@@ -109,3 +109,4 @@ Diff (max vs sum): 65
 | 2023-04-14 | 4.36 | - | 73 | 561 |
 | 2023-04-16 | 4.35 | - | 73 | 561 |
 | 2023-04-17 | 4.35 | - | 73 | 563 |
+| 2023-04-18 | 4.36 | - | 73 | 563 |

@@ -1,5 +1,5 @@
 # ABZU
-Rating: 4.61 (Ranked 350)  
+Rating: 4.61 (Ranked 349)  
 Number of Ratings: 148  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  

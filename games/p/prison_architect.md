@@ -1,14 +1,14 @@
 # Prison Architect
-Rating: 4.61 (Ranked 350)  
+Rating: 4.61 (Ranked 349)  
 Number of Ratings: 4,491  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Extremely Fun): 401  (Ranked 192)  
-Sum: 3,149 (Ranked 143)  
+Max (Extremely Fun): 402  (Ranked 192)  
+Sum: 3,150 (Ranked 143)  
 Diff (max vs sum): 49
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Extremely Fun | 401 |
+| This game is Extremely Fun | 402 |
 | This game is Highly Recommended | 387 |
 | This game is Great for Beginners | 382 |
 | This game has Quickly Understood Controls | 374 |
@@ -110,4 +110,4 @@ Diff (max vs sum): 49
 | 2023-04-15 | 4.61 | - | 398 | 3,133 |
 | 2023-04-16 | 4.61 | - | 401 | 3,144 |
 | 2023-04-17 | 4.61 | - | 401 | 3,148 |
-| 2023-04-18 | 4.61 | - | 401 | 3,149 |
+| 2023-04-18 | 4.61 | - | 402 | 3,150 |
