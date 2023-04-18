@@ -2,14 +2,14 @@
 Rating: 4.45 (Ranked 595)  
 Number of Ratings: 125  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Impact the Story): 22  (Ranked 465)  
-Sum: 22 (Ranked 468)  
-Diff (max vs sum): -3
+Max (Impact the Story): 23  (Ranked 461)  
+Sum: 23 (Ranked 465)  
+Diff (max vs sum): -4
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 24 |
-| In this game, your choices Impact the Story | 22 |
+| In this game, your choices Impact the Story | 23 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -69,3 +69,4 @@ Diff (max vs sum): -3
 | 2023-03-24 | 4.46 | - | - | - |
 | 2023-04-03 | 4.46 | - | 22 | 22 |
 | 2023-04-04 | 4.45 | - | 22 | 22 |
+| 2023-04-18 | 4.45 | - | 23 | 23 |

@@ -3,14 +3,14 @@
   "Name": "Dying Light Enhanced Edition",
   "Rating": 4.56,
   "Ranking_Rating": 439,
-  "Ranking_Popularity": 19,
-  "Ranking_PopularitySum": 35,
+  "Ranking_Popularity": 17,
+  "Ranking_PopularitySum": 33,
   "NumberOfRatings": 3181,
-  "NumberOfAwards": 30951,
-  "NumberOfAwardsMax": 16981,
+  "NumberOfAwards": 32028,
+  "NumberOfAwardsMax": 18014,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:18:05.0678131+00:00",
-  "LastChanged": "2023-04-18T09:57:36.3414468+00:00",
+  "LastChanged": "2023-04-18T11:57:38.2500805+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:05.0678134+00:00",
@@ -3141,6 +3141,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 30951,
       "NumberOfAwardsMax": 16981
+    },
+    {
+      "Time": "2023-04-18T11:57:38.2500806+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 32028,
+      "NumberOfAwardsMax": 18014
     }
   ],
   "Tags": [
@@ -3148,7 +3154,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 16981
+      "Count": 18014
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -3160,7 +3166,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 943
+      "Count": 987
     },
     {
       "Text": "This game has Diverse Characters",
