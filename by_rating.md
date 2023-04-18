@@ -275,6 +275,7 @@
 | 272 | [Death's Door](games/d/death's_door.md) | 4.66 | 0 | 484 |
 | 272 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,284 | 118 |
 | 272 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 488 | 181 |
+| 272 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.66 | 0 | 484 |
 | 272 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 0 | 484 |
 | 272 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 0 | 484 |
 | 272 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,029 | 129 |
@@ -285,33 +286,32 @@
 | 272 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 397 | 195 |
 | 272 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,737 | 56 |
 | 272 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 457 | 184 |
-| 286 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 484 |
-| 286 | [APE OUT](games/a/ape_out.md) | 4.65 | 0 | 484 |
-| 286 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,300 | 68 |
-| 286 | [Coromon](games/c/coromon.md) | 4.65 | 40 | 405 |
-| 286 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 163 | 273 |
-| 286 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 112 | 304 |
-| 286 | [Deceive Inc.](games/d/deceive_inc..md) | 4.65 | 0 | 484 |
-| 286 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 0 | 484 |
-| 286 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 316 | 213 |
-| 286 | [GigaBash](games/g/gigabash.md) | 4.65 | 0 | 484 |
-| 286 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.65 | 0 | 484 |
-| 286 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.65 | 0 | 484 |
-| 286 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 0 | 484 |
-| 286 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 148 | 278 |
-| 286 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 48 | 384 |
-| 286 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.65 | 0 | 484 |
-| 286 | [Old World](games/o/old_world.md) | 4.65 | 212 | 245 |
-| 286 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1,861 | 103 |
-| 286 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 0 | 484 |
-| 286 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 484 |
-| 286 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.65 | 48 | 384 |
-| 286 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,359 | 14 |
-| 286 | [SOMA](games/s/soma.md) | 4.65 | 0 | 484 |
-| 286 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.65 | 0 | 484 |
-| 286 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.65 | 0 | 484 |
-| 286 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 0 | 484 |
-| 286 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 0 | 484 |
+| 287 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 484 |
+| 287 | [APE OUT](games/a/ape_out.md) | 4.65 | 0 | 484 |
+| 287 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,300 | 68 |
+| 287 | [Coromon](games/c/coromon.md) | 4.65 | 40 | 405 |
+| 287 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 163 | 273 |
+| 287 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 112 | 304 |
+| 287 | [Deceive Inc.](games/d/deceive_inc..md) | 4.65 | 0 | 484 |
+| 287 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 0 | 484 |
+| 287 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 316 | 213 |
+| 287 | [GigaBash](games/g/gigabash.md) | 4.65 | 0 | 484 |
+| 287 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.65 | 0 | 484 |
+| 287 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 0 | 484 |
+| 287 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 148 | 278 |
+| 287 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 48 | 384 |
+| 287 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.65 | 0 | 484 |
+| 287 | [Old World](games/o/old_world.md) | 4.65 | 212 | 245 |
+| 287 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1,861 | 103 |
+| 287 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 0 | 484 |
+| 287 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 484 |
+| 287 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.65 | 48 | 384 |
+| 287 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,359 | 14 |
+| 287 | [SOMA](games/s/soma.md) | 4.65 | 0 | 484 |
+| 287 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.65 | 0 | 484 |
+| 287 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.65 | 0 | 484 |
+| 287 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 0 | 484 |
+| 287 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 0 | 484 |
 | 313 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 0 | 484 |
 | 313 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 484 |
 | 313 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,877 | 54 |
@@ -518,7 +518,7 @@
 | 509 | [Knockout City™](games/k/knockout_city™.md) | 4.51 | 0 | 484 |
 | 509 | [MythForce](games/m/mythforce.md) | 4.51 | 32 | 428 |
 | 509 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 271 | 227 |
-| 509 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 384,606 | 2 |
+| 509 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 385,474 | 2 |
 | 509 | [Sable](games/s/sable.md) | 4.51 | 0 | 484 |
 | 509 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 0 | 484 |
 | 509 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 63 | 366 |
