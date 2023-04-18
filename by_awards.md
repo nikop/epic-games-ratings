@@ -77,7 +77,7 @@
 | 75 | [Days Gone](games/d/days_gone.md) | 3,719 | 4.69 | 213 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 3,716 | 4.56 | 439 |
 | 77 | [SMITE](games/s/smite.md) | 3,638 | 4.45 | 595 |
-| 78 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,564 | 4.30 | 743 |
+| 78 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,564 | 4.30 | 744 |
 | 79 | [Gloomhaven](games/g/gloomhaven.md) | 3,426 | 4.47 | 570 |
 | 80 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,315 | 4.68 | 235 |
 | 81 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,210 | 4.46 | 582 |
@@ -89,7 +89,7 @@
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 2,949 | 4.68 | 235 |
 | 88 | [Path of Exile](games/p/path_of_exile.md) | 2,419 | 4.61 | 350 |
 | 88 | [Rage 2](games/r/rage_2.md) | 2,419 | 4.28 | 760 |
-| 90 | [Trackmania](games/t/trackmania.md) | 2,394 | 4.67 | 256 |
+| 90 | [Trackmania](games/t/trackmania.md) | 2,400 | 4.67 | 256 |
 | 91 | [Among Us](games/a/among_us.md) | 2,364 | 4.58 | 406 |
 | 92 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,336 | 4.76 | 112 |
 | 93 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,330 | 4.80 | 79 |
@@ -269,7 +269,7 @@
 | 267 | [Cris Tales](games/c/cris_tales.md) | 170 | 4.36 | 699 |
 | 268 | [Space Punks](games/s/space_punks.md) | 169 | 4.16 | 823 |
 | 269 | [Pinball FX](games/p/pinball_fx.md) | 168 | 4.03 | 864 |
-| 269 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 168 | 4.30 | 743 |
+| 269 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 168 | 4.30 | 744 |
 | 269 | [The Witness](games/t/the_witness.md) | 168 | 4.69 | 213 |
 | 272 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 167 | 4.58 | 406 |
 | 273 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 163 | 4.65 | 286 |
@@ -402,7 +402,7 @@
 | 397 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 44 | 4.18 | 815 |
 | 401 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 43 | 4.28 | 760 |
 | 401 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 43 | 3.73 | 899 |
-| 403 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 42 | 4.30 | 743 |
+| 401 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 43 | 4.31 | 741 |
 | 404 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 41 | 4.75 | 126 |
 | 405 | [Coromon](games/c/coromon.md) | 40 | 4.65 | 286 |
 | 406 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 39 | 4.76 | 112 |
@@ -420,11 +420,11 @@
 | 414 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 36 | 4.48 | 558 |
 | 419 | [FUSER™](games/f/fuser™.md) | 35 | 4.71 | 177 |
 | 419 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 35 | 4.57 | 422 |
-| 421 | [Dead Space](games/d/dead_space.md) | 34 | 4.75 | 126 |
-| 421 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 34 | 4.61 | 350 |
-| 421 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 34 | 4.56 | 439 |
-| 421 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 34 | 4.77 | 105 |
-| 421 | [STG Football](games/s/stg_football.md) | 34 | 4.44 | 614 |
+| 419 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 35 | 4.77 | 105 |
+| 422 | [Dead Space](games/d/dead_space.md) | 34 | 4.75 | 126 |
+| 422 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 34 | 4.61 | 350 |
+| 422 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 34 | 4.56 | 439 |
+| 422 | [STG Football](games/s/stg_football.md) | 34 | 4.44 | 614 |
 | 426 | [DEATHLOOP](games/d/deathloop.md) | 33 | 4.54 | 473 |
 | 426 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 33 | 4.20 | 797 |
 | 428 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 32 | 4.12 | 837 |

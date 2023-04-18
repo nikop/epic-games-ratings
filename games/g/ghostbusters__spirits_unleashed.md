@@ -2,13 +2,13 @@
 Rating: 4.49 (Ranked 541)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 210  (Ranked 248)  
-Sum: 1,911 (Ranked 186)  
+Sum: 1,912 (Ranked 186)  
 Diff (max vs sum): 62
 ## Awards
 | Award | Number of Ratings |
 | ----- | ----------------- |
 | This game is Great for Beginners | 210 |
-| This game is Great for Quick Sessions | 208 |
+| This game is Great for Quick Sessions | 209 |
 | This game has Diverse Characters | 200 |
 | This game is Extremely Fun | 193 |
 | This game has Competitive Players | 193 |

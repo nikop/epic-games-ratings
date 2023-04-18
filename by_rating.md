@@ -106,7 +106,7 @@
 | 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 141 | 282 |
 | 105 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,876 | 74 |
 | 105 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.77 | 0 | 484 |
-| 105 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 34 | 421 |
+| 105 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 35 | 419 |
 | 105 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 96 | 319 |
 | 105 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.77 | 315 | 214 |
 | 105 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 484 |
@@ -128,7 +128,7 @@
 | 126 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 23 | 461 |
 | 126 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,695 | 64 |
 | 126 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,146 | 83 |
-| 126 | [Dead Space](games/d/dead_space.md) | 4.75 | 34 | 421 |
+| 126 | [Dead Space](games/d/dead_space.md) | 4.75 | 34 | 422 |
 | 126 | [Diabotical](games/d/diabotical.md) | 4.75 | 264 | 230 |
 | 126 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 364 | 203 |
 | 126 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 96 | 319 |
@@ -268,7 +268,7 @@
 | 256 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 484 |
 | 256 | [The Machines Arena](games/t/the_machines_arena.md) | 4.67 | 0 | 484 |
 | 256 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 484 |
-| 256 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,394 | 90 |
+| 256 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,400 | 90 |
 | 256 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 102 | 313 |
 | 256 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 21 | 472 |
 | 272 | [Crashlands](games/c/crashlands.md) | 4.66 | 186 | 258 |
@@ -357,7 +357,7 @@
 | 350 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 209 | 249 |
 | 350 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 374 | 201 |
 | 350 | [Darkwood](games/d/darkwood.md) | 4.61 | 319 | 210 |
-| 350 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 34 | 421 |
+| 350 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 34 | 422 |
 | 350 | [DOOM 3](games/d/doom_3.md) | 4.61 | 65 | 364 |
 | 350 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 0 | 484 |
 | 350 | [GRIME](games/g/grime.md) | 4.61 | 0 | 484 |
@@ -445,7 +445,7 @@
 | 439 | [Brawlhalla](games/b/brawlhalla.md) | 4.56 | 73 | 346 |
 | 439 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 50 | 378 |
 | 439 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 0 | 484 |
-| 439 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.56 | 34 | 421 |
+| 439 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.56 | 34 | 422 |
 | 439 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.56 | 16,981 | 19 |
 | 439 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 715 | 152 |
 | 439 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 27 | 446 |
@@ -622,7 +622,7 @@
 | 614 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 0 | 484 |
 | 614 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.44 | 0 | 484 |
 | 614 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 517 | 177 |
-| 614 | [STG Football](games/s/stg_football.md) | 4.44 | 34 | 421 |
+| 614 | [STG Football](games/s/stg_football.md) | 4.44 | 34 | 422 |
 | 614 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 484 |
 | 614 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 318 |
 | 614 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 0 | 484 |
@@ -742,15 +742,15 @@
 | 731 | [Vampyr](games/v/vampyr.md) | 4.32 | 545 | 171 |
 | 741 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 484 |
 | 741 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 920 | 139 |
-| 743 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 484 |
-| 743 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 0 | 484 |
-| 743 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 484 |
-| 743 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 3,564 | 78 |
-| 743 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.30 | 0 | 484 |
-| 743 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 0 | 484 |
-| 743 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 168 | 269 |
-| 743 | [War Mongrels](games/w/war_mongrels.md) | 4.30 | 0 | 484 |
-| 743 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.30 | 42 | 403 |
+| 741 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.31 | 43 | 401 |
+| 744 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 484 |
+| 744 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.30 | 0 | 484 |
+| 744 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 484 |
+| 744 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 3,564 | 78 |
+| 744 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.30 | 0 | 484 |
+| 744 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 0 | 484 |
+| 744 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 168 | 269 |
+| 744 | [War Mongrels](games/w/war_mongrels.md) | 4.30 | 0 | 484 |
 | 752 | [Chess Ultra](games/c/chess_ultra.md) | 4.29 | 0 | 484 |
 | 752 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 0 | 484 |
 | 752 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,232,900 | 1 |
