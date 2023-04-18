@@ -146,7 +146,7 @@
 | 141 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 485 | 182 |
 | 141 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 765 | 146 |
 | 141 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 574 | 166 |
-| 141 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,398 | 48 |
+| 141 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,398 | 49 |
 | 141 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 222 | 243 |
 | 141 | [Quake](games/q/quake.md) | 4.74 | 45 | 391 |
 | 141 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 29,449 | 13 |
@@ -425,7 +425,7 @@
 | 422 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 0 | 484 |
 | 422 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 0 | 484 |
 | 422 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 148 | 278 |
-| 422 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 6,396 | 49 |
+| 422 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 6,412 | 48 |
 | 422 | [Everything](games/e/everything.md) | 4.57 | 0 | 484 |
 | 422 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 25 | 457 |
 | 422 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.57 | 0 | 484 |
@@ -464,6 +464,7 @@
 | 439 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 3,716 | 76 |
 | 463 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 0 | 484 |
 | 463 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 0 | 484 |
+| 463 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,060 | 126 |
 | 463 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 21 | 472 |
 | 463 | [Hue](games/h/hue.md) | 4.55 | 0 | 484 |
 | 463 | [Outward](games/o/outward.md) | 4.55 | 31 | 435 |
@@ -472,18 +473,17 @@
 | 463 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.55 | 32 | 428 |
 | 463 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 484 |
 | 463 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.55 | 0 | 484 |
-| 473 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,060 | 126 |
-| 473 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 426 |
-| 473 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 984 | 134 |
-| 473 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 191 | 257 |
-| 473 | [IXION](games/i/ixion.md) | 4.54 | 0 | 484 |
-| 473 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 86 | 333 |
-| 473 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 88 | 331 |
-| 473 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 484 |
-| 473 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 490 | 180 |
-| 473 | [VALORANT](games/v/valorant.md) | 4.54 | 49,015 | 11 |
-| 473 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 28 | 445 |
-| 473 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 1,113 | 123 |
+| 474 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 426 |
+| 474 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 984 | 134 |
+| 474 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 191 | 257 |
+| 474 | [IXION](games/i/ixion.md) | 4.54 | 0 | 484 |
+| 474 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 86 | 333 |
+| 474 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 88 | 331 |
+| 474 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 484 |
+| 474 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 490 | 180 |
+| 474 | [VALORANT](games/v/valorant.md) | 4.54 | 49,015 | 11 |
+| 474 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 28 | 445 |
+| 474 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 1,113 | 123 |
 | 485 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 484 |
 | 485 | [Aztez](games/a/aztez.md) | 4.53 | 0 | 484 |
 | 485 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 484 |
@@ -686,18 +686,18 @@
 | 680 | [Hammerting](games/h/hammerting.md) | 4.38 | 0 | 484 |
 | 680 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 539 | 174 |
 | 680 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 162 | 274 |
+| 680 | [MORDHAU](games/m/mordhau.md) | 4.38 | 0 | 484 |
 | 680 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 0 | 484 |
 | 680 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 484 |
 | 680 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 31 | 435 |
-| 690 | [Core](games/c/core.md) | 4.37 | 724 | 151 |
-| 690 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 484 |
-| 690 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 12,221 | 27 |
-| 690 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 0 | 484 |
-| 690 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.37 | 0 | 484 |
-| 690 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,128 | 100 |
-| 690 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 484 |
-| 690 | [MORDHAU](games/m/mordhau.md) | 4.37 | 0 | 484 |
-| 690 | [Tunche](games/t/tunche.md) | 4.37 | 0 | 484 |
+| 691 | [Core](games/c/core.md) | 4.37 | 724 | 151 |
+| 691 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 484 |
+| 691 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 12,221 | 27 |
+| 691 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 0 | 484 |
+| 691 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.37 | 0 | 484 |
+| 691 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,128 | 100 |
+| 691 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 484 |
+| 691 | [Tunche](games/t/tunche.md) | 4.37 | 0 | 484 |
 | 699 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 267 |
 | 699 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 46 | 387 |
 | 699 | [Encased](games/e/encased.md) | 4.36 | 123 | 293 |
