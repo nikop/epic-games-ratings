@@ -1,8 +1,8 @@
 {
   "ID": "5d582c08e31a43128a61093a2c3ff7f0",
   "Name": "Shenmue III - Standard Edition",
-  "Rating": 4.2,
-  "Ranking_Rating": 797,
+  "Rating": 4.19,
+  "Ranking_Rating": 807,
   "Ranking_Popularity": 453,
   "Ranking_PopularitySum": 458,
   "NumberOfRatings": 172,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:17:11.0965349+00:00",
-  "LastChanged": "2023-04-11T15:57:02.8347765+00:00",
+  "LastChanged": "2023-04-18T16:57:17.7241603+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:11.0965352+00:00",
@@ -403,6 +403,12 @@
     {
       "Time": "2023-04-11T15:57:02.8347766+00:00",
       "Rating": 4.2,
+      "NumberOfAwards": 26,
+      "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2023-04-18T16:57:17.7241604+00:00",
+      "Rating": 4.19,
       "NumberOfAwards": 26,
       "NumberOfAwardsMax": 26
     }

@@ -1,5 +1,5 @@
 # Lumberjack's Dynasty
-Rating: 4.07 (Ranked 855)  
+Rating: 4.07 (Ranked 854)  
 Number of Ratings: 61  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  

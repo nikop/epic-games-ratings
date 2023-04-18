@@ -3,14 +3,14 @@
   "Name": "Jurassic World Evolution 2",
   "Rating": 4.74,
   "Ranking_Rating": 141,
-  "Ranking_Popularity": 166,
+  "Ranking_Popularity": 164,
   "Ranking_PopularitySum": 115,
   "NumberOfRatings": 3746,
-  "NumberOfAwards": 5341,
-  "NumberOfAwardsMax": 574,
+  "NumberOfAwards": 5343,
+  "NumberOfAwardsMax": 576,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:20:10.4170435+00:00",
-  "LastChanged": "2023-04-17T19:57:30.3169197+00:00",
+  "LastChanged": "2023-04-18T16:57:34.8138447+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:10.4170437+00:00",
@@ -2526,6 +2526,12 @@
       "Rating": 4.74,
       "NumberOfAwards": 5341,
       "NumberOfAwardsMax": 574
+    },
+    {
+      "Time": "2023-04-18T16:57:34.8138449+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 5343,
+      "NumberOfAwardsMax": 576
     }
   ],
   "Tags": [
@@ -2563,7 +2569,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 574
+      "Count": 576
     },
     {
       "Text": "This game is Highly Recommended",
