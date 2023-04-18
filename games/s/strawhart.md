@@ -1,15 +1,12 @@
-# Monster Jam Steel Titans 2
-Rating: 4.71 (Ranked 178)  
+# Strawhart
+Rating: - (Ranked -)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 484)  
-Sum: 0 (Ranked 484)  
-Diff (max vs sum): 0
+Max (): -  (Ranked -)  
+Sum: - (Ranked -)  
+Diff (max vs sum): -
 ## Awards
 | Award | Count |
 | ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
-| 2023-03-02 | 4.75 | - | - |
-| 2023-03-25 | 4.71 | - | - |
-| 2023-03-31 | 4.71 | 0 | 0 |

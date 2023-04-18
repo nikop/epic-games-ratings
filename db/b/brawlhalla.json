@@ -5,12 +5,12 @@
   "Ranking_Rating": 439,
   "Ranking_Popularity": 346,
   "Ranking_PopularitySum": 253,
-  "NumberOfAwards": 719,
+  "NumberOfAwards": 722,
   "NumberOfAwardsMax": 73,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-04-18T13:56:58.5979241+00:00",
+  "LastChanged": "2023-04-18T17:57:06.4518062+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-21T06:57:02.0735411+00:00",
@@ -953,6 +953,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 719,
       "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2023-04-18T17:57:06.4518065+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 722,
+      "NumberOfAwardsMax": 73
     }
   ],
   "Tags": [
@@ -990,7 +996,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 58
+      "Count": 61
     },
     {
       "Text": "This game has Challenging Combat",
