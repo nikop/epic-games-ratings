@@ -2,15 +2,15 @@
   "ID": "4492ce99b4124b74a0bb83f78b3d70b8",
   "Name": "For The King",
   "Rating": 4.7,
-  "Ranking_Rating": 191,
+  "Ranking_Rating": 190,
   "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 154,
   "NumberOfRatings": 5563,
-  "NumberOfAwards": 2753,
-  "NumberOfAwardsMax": 357,
+  "NumberOfAwards": 2756,
+  "NumberOfAwardsMax": 359,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:26:13.7495529+00:00",
-  "LastChanged": "2023-04-16T02:02:52.2074738+00:00",
+  "LastChanged": "2023-04-18T19:57:46.604346+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:13.7495532+00:00",
@@ -2324,6 +2324,12 @@
       "Rating": 4.7,
       "NumberOfAwards": 2753,
       "NumberOfAwardsMax": 357
+    },
+    {
+      "Time": "2023-04-18T19:57:46.6043461+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2756,
+      "NumberOfAwardsMax": 359
     }
   ],
   "Tags": [
@@ -2331,7 +2337,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 357
+      "Count": 359
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2379,7 +2385,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 301
+      "Count": 302
     },
     {
       "Text": "This game has Obsessive Gameplay",

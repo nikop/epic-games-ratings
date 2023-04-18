@@ -4,13 +4,13 @@
   "Rating": 3.98,
   "Ranking_Rating": 872,
   "Ranking_Popularity": 111,
-  "Ranking_PopularitySum": 122,
-  "NumberOfAwards": 4926,
+  "Ranking_PopularitySum": 110,
+  "NumberOfAwards": 6328,
   "NumberOfAwardsMax": 1521,
   "MaxAwardTitle": "Competitive Players",
   "FirstSeen": "2022-12-06T17:57:24.6501738+00:00",
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
-  "LastChanged": "2023-04-18T17:57:37.4345948+00:00",
+  "LastChanged": "2023-04-18T19:57:10.2631892+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-08T10:57:21.6139883+00:00",
@@ -749,6 +749,12 @@
       "Rating": 3.98,
       "NumberOfAwards": 4926,
       "NumberOfAwardsMax": 1521
+    },
+    {
+      "Time": "2023-04-18T19:57:10.2631893+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 6328,
+      "NumberOfAwardsMax": 1521
     }
   ],
   "Tags": [
@@ -756,7 +762,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1199
+      "Count": 1211
     },
     {
       "Text": "This game is Extremely Fun",
@@ -784,9 +790,9 @@
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Prefix": "",
-      "Type": "",
-      "Count": 1115
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 1390
     },
     {
       "Text": "This game has a Competitive Community",

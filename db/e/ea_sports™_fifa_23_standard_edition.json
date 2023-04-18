@@ -1,16 +1,16 @@
 {
   "ID": "f5deacee017b4b109476933f7dd2edbd",
   "Name": "EA SPORTS\u2122 FIFA 23 Standard Edition",
-  "Rating": 4.24,
-  "Ranking_Rating": 775,
+  "Rating": 4.23,
+  "Ranking_Rating": 784,
   "Ranking_Popularity": 38,
   "Ranking_PopularitySum": 28,
-  "NumberOfAwards": 36216,
+  "NumberOfAwards": 36301,
   "NumberOfAwardsMax": 7667,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-09-30T07:01:34.8859438+00:00",
   "FirstSeenRating": "2022-10-06T07:01:15.4932538+00:00",
-  "LastChanged": "2023-04-18T18:57:41.411603+00:00",
+  "LastChanged": "2023-04-18T19:57:09.3112598+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-06T07:01:15.4932542+00:00",
@@ -1213,6 +1213,12 @@
       "Rating": 4.24,
       "NumberOfAwards": 36216,
       "NumberOfAwardsMax": 7667
+    },
+    {
+      "Time": "2023-04-18T19:57:09.31126+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 36301,
+      "NumberOfAwardsMax": 7667
     }
   ],
   "Tags": [
@@ -1226,7 +1232,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 5083
+      "Count": 5123
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1262,7 +1268,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 5571
+      "Count": 5616
     }
   ]
 }

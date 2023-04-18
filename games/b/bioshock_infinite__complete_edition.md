@@ -1,10 +1,10 @@
 # BioShock Infinite: Complete Edition
-Rating: 4.70 (Ranked 191)  
+Rating: 4.70 (Ranked 190)  
 Number of Ratings: 18,329  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 4,482  (Ranked 67)  
-Sum: 5,504 (Ranked 114)  
-Diff (max vs sum): -47
+Sum: 5,504 (Ranked 115)  
+Diff (max vs sum): -48
 ## Awards
 | Award | Count |
 | ----- | ----- |
