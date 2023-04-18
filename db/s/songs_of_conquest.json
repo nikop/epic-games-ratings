@@ -1,8 +1,8 @@
 {
   "ID": "3a18db06dff0465b8a58308aa29020a0",
   "Name": "Songs of Conquest",
-  "Rating": 4.7,
-  "Ranking_Rating": 190,
+  "Rating": 4.69,
+  "Ranking_Rating": 212,
   "Ranking_Popularity": 446,
   "Ranking_PopularitySum": 349,
   "NumberOfRatings": 292,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
-  "LastChanged": "2023-03-23T20:57:56.5643776+00:00",
+  "LastChanged": "2023-04-18T21:57:50.1344801+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:48.2470944+00:00",
@@ -307,6 +307,12 @@
     {
       "Time": "2023-03-23T20:57:56.5643778+00:00",
       "Rating": 4.7
+    },
+    {
+      "Time": "2023-04-18T21:57:50.1344805+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 191,
+      "NumberOfAwardsMax": 27
     }
   ],
   "Tags": [
