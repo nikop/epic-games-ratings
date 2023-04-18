@@ -4,7 +4,7 @@
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 484 |
 | 3 | [Flatout 2](games/f/flatout_2.md) | 4.93 | 0 | 484 |
 | 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,419 | 115 |
-| 4 | [Hades](games/h/hades.md) | 4.92 | 2,994 | 86 |
+| 4 | [Hades](games/h/hades.md) | 4.92 | 2,997 | 86 |
 | 4 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.92 | 0 | 484 |
 | 7 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.91 | 0 | 484 |
 | 8 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 0 | 484 |
@@ -26,7 +26,7 @@
 | 19 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 484 |
 | 25 | [Black Book](games/b/black_book.md) | 4.87 | 21 | 472 |
 | 25 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,363 | 116 |
-| 25 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,292 | 31 |
+| 25 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,295 | 31 |
 | 25 | [Ooblets](games/o/ooblets.md) | 4.87 | 995 | 132 |
 | 29 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 484 |
 | 29 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 136 | 284 |
@@ -277,7 +277,7 @@
 | 272 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 488 | 181 |
 | 272 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 0 | 484 |
 | 272 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 0 | 484 |
-| 272 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,028 | 129 |
+| 272 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,029 | 129 |
 | 272 | [Returnal™](games/r/returnal™.md) | 4.66 | 20 | 477 |
 | 272 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 50 | 378 |
 | 272 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 545 | 171 |
@@ -305,7 +305,7 @@
 | 286 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 0 | 484 |
 | 286 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 484 |
 | 286 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.65 | 48 | 384 |
-| 286 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,354 | 14 |
+| 286 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,359 | 14 |
 | 286 | [SOMA](games/s/soma.md) | 4.65 | 0 | 484 |
 | 286 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.65 | 0 | 484 |
 | 286 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.65 | 0 | 484 |
@@ -777,7 +777,7 @@
 | 772 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 0 | 484 |
 | 776 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 484 |
 | 776 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 435 |
-| 776 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 7,602 | 38 |
+| 776 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 7,667 | 38 |
 | 776 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 319 | 210 |
 | 776 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 0 | 484 |
 | 776 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.24 | 0 | 484 |
@@ -799,7 +799,6 @@
 | 797 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 122 | 294 |
 | 797 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 119 | 296 |
 | 797 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 484 |
-| 797 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.20 | 0 | 484 |
 | 797 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 33 | 426 |
 | 797 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 465 |
 | 797 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 0 | 484 |
@@ -808,15 +807,16 @@
 | 797 | [Somerville](games/s/somerville.md) | 4.20 | 0 | 484 |
 | 797 | [The Bridge](games/t/the_bridge.md) | 4.20 | 0 | 484 |
 | 797 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 77 | 341 |
-| 809 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 378 |
-| 809 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 0 | 484 |
-| 809 | [Flatout](games/f/flatout.md) | 4.19 | 0 | 484 |
-| 809 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 86 | 333 |
-| 809 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 180,181 | 4 |
-| 809 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 484 |
-| 815 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 319 |
-| 815 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 44 | 397 |
-| 815 | [Windbound](games/w/windbound.md) | 4.18 | 0 | 484 |
+| 808 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 378 |
+| 808 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 0 | 484 |
+| 808 | [Flatout](games/f/flatout.md) | 4.19 | 0 | 484 |
+| 808 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 86 | 333 |
+| 808 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 180,181 | 4 |
+| 808 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 484 |
+| 814 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 0 | 484 |
+| 814 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 319 |
+| 814 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 44 | 397 |
+| 814 | [Windbound](games/w/windbound.md) | 4.18 | 0 | 484 |
 | 818 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 26 | 452 |
 | 818 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 2,133 | 99 |
 | 818 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 0 | 484 |

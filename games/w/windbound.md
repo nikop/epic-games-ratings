@@ -1,5 +1,5 @@
 # Windbound
-Rating: 4.18 (Ranked 815)  
+Rating: 4.18 (Ranked 814)  
 Number of Ratings: 2,109  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
