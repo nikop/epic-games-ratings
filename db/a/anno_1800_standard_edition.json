@@ -6,11 +6,11 @@
   "Ranking_Popularity": 119,
   "Ranking_PopularitySum": 79,
   "NumberOfRatings": 4392,
-  "NumberOfAwards": 9285,
+  "NumberOfAwards": 9288,
   "NumberOfAwardsMax": 1199,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2023-04-18T06:57:09.9563622+00:00",
+  "LastChanged": "2023-04-18T10:57:30.306599+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:47.4504915+00:00",
@@ -3352,6 +3352,12 @@
       "Rating": 4.82,
       "NumberOfAwards": 9285,
       "NumberOfAwardsMax": 1199
+    },
+    {
+      "Time": "2023-04-18T10:57:30.3065992+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 9288,
+      "NumberOfAwardsMax": 1199
     }
   ],
   "Tags": [
@@ -3419,7 +3425,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 629
+      "Count": 632
     }
   ]
 }

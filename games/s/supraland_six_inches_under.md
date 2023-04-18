@@ -1,5 +1,5 @@
 # Supraland Six Inches Under
-Rating: 4.77 (Ranked 105)  
+Rating: 4.78 (Ranked 100)  
 Number of Ratings: 209  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Challenging Puzzles): 96  (Ranked 319)  
@@ -61,3 +61,4 @@ Diff (max vs sum): -74
 | 2023-01-06 | 4.77 | - | - | - |
 | 2023-01-09 | 4.78 | - | - | - |
 | 2023-02-20 | 4.77 | - | - | - |
+| 2023-04-18 | 4.78 | - | 96 | 96 |
