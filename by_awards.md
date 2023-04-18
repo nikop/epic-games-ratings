@@ -17,7 +17,7 @@
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 26,504 | 4.52 | 498 |
 | 16 | [Dauntless](games/d/dauntless.md) | 19,458 | 4.53 | 485 |
 | 17 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 17,786 | 4.57 | 422 |
-| 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 17,545 | 4.78 | 100 |
+| 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 17,602 | 4.78 | 100 |
 | 19 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 16,981 | 4.56 | 439 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 14,513 | 4.89 | 13 |
 | 21 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,315 | 4.58 | 406 |
@@ -151,7 +151,7 @@
 | 149 | [The Long Dark](games/t/the_long_dark.md) | 741 | 4.74 | 141 |
 | 150 | [Auto Chess](games/a/auto_chess.md) | 727 | 4.52 | 498 |
 | 151 | [Core](games/c/core.md) | 724 | 4.37 | 690 |
-| 152 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 715 | 4.56 | 439 |
+| 152 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 716 | 4.56 | 439 |
 | 153 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 690 | 4.59 | 389 |
 | 154 | [Disco Elysium](games/d/disco_elysium.md) | 683 | 4.86 | 29 |
 | 155 | [Neverwinter](games/n/neverwinter.md) | 669 | 4.29 | 752 |
@@ -248,8 +248,8 @@
 | 245 | [Old World](games/o/old_world.md) | 212 | 4.65 | 286 |
 | 247 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 211 | 4.84 | 49 |
 | 248 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 210 | 4.49 | 541 |
+| 249 | [Crying Suns](games/c/crying_suns.md) | 209 | 4.50 | 525 |
 | 249 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 209 | 4.61 | 350 |
-| 250 | [Crying Suns](games/c/crying_suns.md) | 208 | 4.50 | 525 |
 | 251 | [Sunless Sea](games/s/sunless_sea.md) | 202 | 4.58 | 406 |
 | 252 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 201 | 4.35 | 708 |
 | 252 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 201 | 4.58 | 406 |
@@ -285,7 +285,7 @@
 | 283 | [Night in the Woods](games/n/night_in_the_woods.md) | 139 | 4.73 | 155 |
 | 284 | [Blasphemous](games/b/blasphemous.md) | 136 | 4.86 | 29 |
 | 284 | [Fort Triumph](games/f/fort_triumph.md) | 136 | 4.08 | 852 |
-| 286 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 134 | 3.91 | 884 |
+| 286 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 134 | 3.92 | 881 |
 | 287 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 132 | 4.56 | 439 |
 | 288 | [while True: learn()](games/w/while_true__learn().md) | 131 | 4.51 | 509 |
 | 289 | [Alien: Isolation ](games/a/alien__isolation.md) | 127 | 4.61 | 350 |
@@ -311,7 +311,7 @@
 | 309 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 104 | 4.49 | 541 |
 | 309 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 104 | 4.51 | 509 |
 | 311 | [Faeria](games/f/faeria.md) | 103 | 4.45 | 595 |
-| 311 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 103 | 3.91 | 884 |
+| 311 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 103 | 3.91 | 885 |
 | 313 | [Tropico 6](games/t/tropico_6.md) | 102 | 4.67 | 256 |
 | 314 | [Phantom Brigade](games/p/phantom_brigade.md) | 101 | 4.62 | 334 |
 | 315 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 100 | 4.80 | 79 |

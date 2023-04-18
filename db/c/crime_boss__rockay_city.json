@@ -1,8 +1,8 @@
 {
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
-  "Rating": 3.91,
-  "Ranking_Rating": 884,
+  "Rating": 3.92,
+  "Ranking_Rating": 881,
   "Ranking_Popularity": 286,
   "Ranking_PopularitySum": 269,
   "NumberOfAwards": 629,
@@ -10,7 +10,7 @@
   "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
-  "LastChanged": "2023-04-17T15:57:08.3526545+00:00",
+  "LastChanged": "2023-04-18T05:56:53.9530831+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-29T02:58:45.3340124+00:00",
@@ -693,6 +693,12 @@
     {
       "Time": "2023-04-17T15:57:08.3526549+00:00",
       "Rating": 3.91,
+      "NumberOfAwards": 629,
+      "NumberOfAwardsMax": 134
+    },
+    {
+      "Time": "2023-04-18T05:56:53.9530832+00:00",
+      "Rating": 3.92,
       "NumberOfAwards": 629,
       "NumberOfAwardsMax": 134
     }

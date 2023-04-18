@@ -122,7 +122,7 @@
 | [Chess Ultra](games/c/chess_ultra.md) | 4.29 | 752 | 0 | 484 |
 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.74 | 141 | 0 | 484 |
 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 54 | 0 | 484 |
-| [Chimeraland](games/c/chimeraland.md) | 3.91 | 884 | 0 | 484 |
+| [Chimeraland](games/c/chimeraland.md) | 3.91 | 885 | 0 | 484 |
 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 350 | 3,965 | 72 |
 | [Chorus](games/c/chorus.md) | 4.47 | 570 | 32 | 428 |
 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 844 | 0 | 484 |
@@ -134,7 +134,7 @@
 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 872 | 0 | 484 |
 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 350 | 0 | 484 |
 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 473 | 1,060 | 126 |
-| [Conarium](games/c/conarium.md) | 3.91 | 884 | 0 | 484 |
+| [Conarium](games/c/conarium.md) | 3.91 | 885 | 0 | 484 |
 | [Control](games/c/control.md) | 4.60 | 375 | 8,225 | 37 |
 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 60 | 0 | 484 |
 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 541 | 104 | 309 |
@@ -147,10 +147,10 @@
 | [Crashlands](games/c/crashlands.md) | 4.66 | 272 | 186 | 258 |
 | [Crayta](games/c/crayta.md) | 4.19 | 809 | 50 | 378 |
 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 764 | 22 | 465 |
-| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.91 | 884 | 134 | 286 |
+| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.92 | 881 | 134 | 286 |
 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 699 | 170 | 267 |
 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 708 | 90 | 330 |
-| [Crying Suns](games/c/crying_suns.md) | 4.50 | 525 | 208 | 250 |
+| [Crying Suns](games/c/crying_suns.md) | 4.50 | 525 | 209 | 249 |
 | [CryoFall](games/c/cryofall.md) | 4.50 | 525 | 0 | 484 |
 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 350 | 209 | 249 |
 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 286 | 163 | 273 |
@@ -237,7 +237,7 @@
 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 541 | 271 | 227 |
 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 809 | 0 | 484 |
 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 312 | 45 | 391 |
-| [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 439 | 715 | 152 |
+| [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 439 | 716 | 152 |
 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.59 | 389 | 233 | 238 |
 | [Faeria](games/f/faeria.md) | 4.45 | 595 | 103 | 311 |
 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 485 | 137,603 | 6 |
@@ -261,7 +261,7 @@
 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.20 | 797 | 0 | 484 |
 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 177 | 6,116 | 51 |
 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 191 | 4,079 | 70 |
-| [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 884 | 103 | 311 |
+| [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 885 | 103 | 311 |
 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 439 | 27 | 446 |
 | [Fez](games/f/fez.md) | 4.71 | 177 | 23 | 461 |
 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 256 | 0 | 484 |
@@ -342,7 +342,7 @@
 | [HITMAN](games/h/hitman.md) | 4.64 | 312 | 195 | 255 |
 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 100 | 8,653 | 36 |
 | [Hob](games/h/hob.md) | 4.57 | 422 | 0 | 484 |
-| [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 100 | 17,545 | 18 |
+| [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 100 | 17,602 | 18 |
 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 541 | 2,165 | 97 |
 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 869 | 367 | 202 |
 | [Horace](games/h/horace.md) | 4.50 | 525 | 0 | 484 |

@@ -101,7 +101,7 @@
 | 91 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 484 |
 | 100 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,529 | 65 |
 | 100 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,653 | 36 |
-| 100 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 17,545 | 18 |
+| 100 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 17,602 | 18 |
 | 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 903 | 140 |
 | 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 141 | 282 |
 | 105 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,876 | 74 |
@@ -447,7 +447,7 @@
 | 439 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 0 | 484 |
 | 439 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.56 | 34 | 422 |
 | 439 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.56 | 16,981 | 19 |
-| 439 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 715 | 152 |
+| 439 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 716 | 152 |
 | 439 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 27 | 446 |
 | 439 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 0 | 484 |
 | 439 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 132 | 287 |
@@ -524,7 +524,7 @@
 | 509 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 63 | 366 |
 | 509 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 131 | 288 |
 | 509 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 0 | 484 |
-| 525 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 208 | 250 |
+| 525 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 209 | 249 |
 | 525 | [CryoFall](games/c/cryofall.md) | 4.50 | 0 | 484 |
 | 525 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 0 | 484 |
 | 525 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 484 |
@@ -881,12 +881,12 @@
 | 879 | [Patron](games/p/patron.md) | 3.94 | 0 | 484 |
 | 880 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 0 | 484 |
 | 881 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 442 |
+| 881 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.92 | 134 | 286 |
 | 881 | [Ironcast](games/i/ironcast.md) | 3.92 | 0 | 484 |
 | 881 | [Warface](games/w/warface.md) | 3.92 | 378 | 200 |
-| 884 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 0 | 484 |
-| 884 | [Conarium](games/c/conarium.md) | 3.91 | 0 | 484 |
-| 884 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.91 | 134 | 286 |
-| 884 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 311 |
+| 885 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 0 | 484 |
+| 885 | [Conarium](games/c/conarium.md) | 3.91 | 0 | 484 |
+| 885 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 311 |
 | 888 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.88 | 0 | 484 |
 | 889 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.87 | 0 | 484 |
 | 890 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 484 |

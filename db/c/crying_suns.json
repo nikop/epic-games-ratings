@@ -3,14 +3,14 @@
   "Name": "Crying Suns",
   "Rating": 4.5,
   "Ranking_Rating": 525,
-  "Ranking_Popularity": 250,
-  "Ranking_PopularitySum": 345,
+  "Ranking_Popularity": 249,
+  "Ranking_PopularitySum": 344,
   "NumberOfRatings": 1003,
-  "NumberOfAwards": 208,
-  "NumberOfAwardsMax": 208,
+  "NumberOfAwards": 209,
+  "NumberOfAwardsMax": 209,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
-  "LastChanged": "2023-04-10T19:57:56.6673791+00:00",
+  "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:25.9606457+00:00",
@@ -510,6 +510,12 @@
       "Rating": 4.5,
       "NumberOfAwards": 208,
       "NumberOfAwardsMax": 208
+    },
+    {
+      "Time": "2023-04-18T05:57:41.4584943+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 209,
+      "NumberOfAwardsMax": 209
     }
   ],
   "Tags": [
@@ -517,7 +523,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 208
+      "Count": 209
     }
   ]
 }
