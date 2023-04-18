@@ -5,14 +5,14 @@ Max (): 0  (Ranked 484)
 Sum: 0 (Ranked 484)  
 Diff (max vs sum): 0
 ## Awards
-| Award | Number of Ratings |
-| ----- | ----------------- |
+| Award | Count |
+| ----- | ----- |
 ## Ratings History
-| Date | Rating | Number of Ratings | Number of Awards |
-| ---- | ------ | ----------------- | ---------------- |
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
 | 2022-11-20 | 4.75 | - | - |
 | 2022-12-02 | 4.71 | - | - |
 | 2022-12-30 | 4.73 | - | - |
 | 2023-01-19 | 4.74 | - | - |
 | 2023-03-11 | 4.67 | - | - |
-| 2023-03-31 | 4.67 | - | 0 |
+| 2023-03-31 | 4.67 | 0 | 0 |

@@ -66,18 +66,18 @@
 | 60 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 484 |
 | 60 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 0 | 484 |
 | 60 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 474 | 183 |
-| 60 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 111 | 306 |
 | 60 | [Sifu](games/s/sifu.md) | 4.82 | 5,940 | 53 |
 | 60 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 0 | 484 |
-| 70 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 416 | 188 |
-| 70 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 0 | 484 |
-| 70 | [DOOM (1993)](games/d/doom_(1993).md) | 4.81 | 32 | 428 |
-| 70 | [Griftlands](games/g/griftlands.md) | 4.81 | 0 | 484 |
-| 70 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 0 | 484 |
-| 70 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 0 | 484 |
-| 70 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.81 | 32 | 428 |
-| 70 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 26 | 452 |
-| 70 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 0 | 484 |
+| 69 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 416 | 188 |
+| 69 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 0 | 484 |
+| 69 | [DOOM (1993)](games/d/doom_(1993).md) | 4.81 | 32 | 428 |
+| 69 | [Griftlands](games/g/griftlands.md) | 4.81 | 0 | 484 |
+| 69 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 0 | 484 |
+| 69 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 111 | 306 |
+| 69 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 0 | 484 |
+| 69 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.81 | 32 | 428 |
+| 69 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 26 | 452 |
+| 69 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 0 | 484 |
 | 79 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 302 | 219 |
 | 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,227 | 50 |
 | 79 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 158 | 276 |
@@ -858,7 +858,7 @@
 | 855 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 0 | 484 |
 | 855 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 0 | 484 |
 | 858 | [Godfall](games/g/godfall.md) | 4.06 | 503 | 178 |
-| 858 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 4,837 | 61 |
+| 858 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 4,842 | 61 |
 | 860 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 0 | 484 |
 | 860 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.05 | 0 | 484 |
 | 860 | [Tharsis](games/t/tharsis.md) | 4.05 | 0 | 484 |
