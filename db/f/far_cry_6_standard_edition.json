@@ -6,11 +6,11 @@
   "Ranking_Popularity": 155,
   "Ranking_PopularitySum": 119,
   "NumberOfRatings": 12290,
-  "NumberOfAwards": 5167,
+  "NumberOfAwards": 5170,
   "NumberOfAwardsMax": 670,
   "MaxAwardTitle": "Amazing Storytelling",
   "FirstSeen": "2022-07-22T20:18:07.3905482+00:00",
-  "LastChanged": "2023-04-18T19:56:57.5056616+00:00",
+  "LastChanged": "2023-04-18T20:56:56.6909624+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:07.3905485+00:00",
@@ -3300,6 +3300,12 @@
       "Rating": 4.44,
       "NumberOfAwards": 5167,
       "NumberOfAwardsMax": 670
+    },
+    {
+      "Time": "2023-04-18T20:56:56.6909625+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5170,
+      "NumberOfAwardsMax": 670
     }
   ],
   "Tags": [
@@ -3331,7 +3337,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 631
+      "Count": 634
     },
     {
       "Text": "This game is Relaxing",

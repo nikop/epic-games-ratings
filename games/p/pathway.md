@@ -1,5 +1,5 @@
 # Pathway
-Rating: 4.45 (Ranked 595)  
+Rating: 4.45 (Ranked 596)  
 Number of Ratings: 425  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
