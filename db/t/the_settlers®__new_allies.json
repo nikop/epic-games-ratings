@@ -1,7 +1,7 @@
 {
   "ID": "84f45b7676af47d9adecd3b636466f89",
   "Name": "The Settlers\u00AE: New Allies",
-  "Rating": 3.73,
+  "Rating": 3.72,
   "Ranking_Rating": 899,
   "Ranking_Popularity": 401,
   "Ranking_PopularitySum": 383,
@@ -10,7 +10,7 @@
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2023-02-17T13:12:44.8398615+00:00",
   "FirstSeenRating": "2023-02-19T13:09:54.8324207+00:00",
-  "LastChanged": "2023-04-18T16:57:43.8194422+00:00",
+  "LastChanged": "2023-04-19T16:57:19.3831924+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-19T13:09:54.8324224+00:00",
@@ -411,6 +411,12 @@
     {
       "Time": "2023-04-18T16:57:43.8194424+00:00",
       "Rating": 3.73,
+      "NumberOfAwards": 123,
+      "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2023-04-19T16:57:19.3831925+00:00",
+      "Rating": 3.72,
       "NumberOfAwards": 123,
       "NumberOfAwardsMax": 43
     }
