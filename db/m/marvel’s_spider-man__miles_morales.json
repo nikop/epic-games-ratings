@@ -3,14 +3,14 @@
   "Name": "Marvel\u2019s Spider-Man: Miles Morales",
   "Rating": 4.79,
   "Ranking_Rating": 90,
-  "Ranking_Popularity": 135,
+  "Ranking_Popularity": 134,
   "Ranking_PopularitySum": 213,
-  "NumberOfAwards": 1302,
-  "NumberOfAwardsMax": 983,
+  "NumberOfAwards": 1304,
+  "NumberOfAwardsMax": 985,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-11-18T19:57:18.4413349+00:00",
   "FirstSeenRating": "2022-11-19T02:30:31.0923375+00:00",
-  "LastChanged": "2023-04-19T18:57:12.9253913+00:00",
+  "LastChanged": "2023-04-19T23:57:20.0705+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-19T02:30:31.0923377+00:00",
@@ -213,6 +213,12 @@
       "Rating": 4.79,
       "NumberOfAwards": 1302,
       "NumberOfAwardsMax": 983
+    },
+    {
+      "Time": "2023-04-19T23:57:20.0705002+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1304,
+      "NumberOfAwardsMax": 985
     }
   ],
   "Tags": [
@@ -220,7 +226,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 983
+      "Count": 985
     },
     {
       "Text": "This game has Diverse Characters",

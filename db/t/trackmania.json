@@ -4,13 +4,13 @@
   "Rating": 4.67,
   "Ranking_Rating": 257,
   "Ranking_Popularity": 90,
-  "Ranking_PopularitySum": 52,
+  "Ranking_PopularitySum": 51,
   "NumberOfRatings": 6825,
-  "NumberOfAwards": 20730,
+  "NumberOfAwards": 20738,
   "NumberOfAwardsMax": 2414,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-04-19T22:57:33.7174413+00:00",
+  "LastChanged": "2023-04-19T23:57:45.5267395+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:57.8589287+00:00",
@@ -3787,6 +3787,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 20730,
       "NumberOfAwardsMax": 2414
+    },
+    {
+      "Time": "2023-04-19T23:57:45.5267396+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 20738,
+      "NumberOfAwardsMax": 2414
     }
   ],
   "Tags": [
@@ -3842,7 +3848,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 1712
+      "Count": 1719
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3860,7 +3866,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1073
+      "Count": 1074
     }
   ]
 }

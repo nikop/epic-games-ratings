@@ -3,14 +3,14 @@
   "Name": "Back 4 Blood: Standard Edition",
   "Rating": 4.46,
   "Ranking_Rating": 583,
-  "Ranking_Popularity": 82,
+  "Ranking_Popularity": 81,
   "Ranking_PopularitySum": 100,
   "NumberOfRatings": 2790,
-  "NumberOfAwards": 7074,
+  "NumberOfAwards": 7075,
   "NumberOfAwardsMax": 3214,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:23:46.310125+00:00",
-  "LastChanged": "2023-04-19T20:57:40.6558931+00:00",
+  "LastChanged": "2023-04-19T23:57:17.8752211+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:46.3101252+00:00",
@@ -2551,6 +2551,12 @@
       "Rating": 4.46,
       "NumberOfAwards": 7074,
       "NumberOfAwardsMax": 3214
+    },
+    {
+      "Time": "2023-04-19T23:57:17.8752214+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 7075,
+      "NumberOfAwardsMax": 3214
     }
   ],
   "Tags": [
@@ -2570,7 +2576,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 529
+      "Count": 530
     },
     {
       "Text": "This game has Diverse Characters",

@@ -6,11 +6,11 @@
   "Ranking_Popularity": 195,
   "Ranking_PopularitySum": 152,
   "NumberOfRatings": 2083,
-  "NumberOfAwards": 2779,
+  "NumberOfAwards": 2781,
   "NumberOfAwardsMax": 397,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:24:02.2131047+00:00",
-  "LastChanged": "2023-04-19T16:57:32.510509+00:00",
+  "LastChanged": "2023-04-19T23:57:53.862027+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:02.2131055+00:00",
@@ -2309,6 +2309,12 @@
       "Rating": 4.66,
       "NumberOfAwards": 2779,
       "NumberOfAwardsMax": 397
+    },
+    {
+      "Time": "2023-04-19T23:57:53.8620272+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 2781,
+      "NumberOfAwardsMax": 397
     }
   ],
   "Tags": [
@@ -2352,7 +2358,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 339
+      "Count": 341
     },
     {
       "Text": "This game has Amazing Characters",

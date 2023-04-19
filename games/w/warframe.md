@@ -1,5 +1,5 @@
 # Warframe
-Rating: 4.61 (Ranked 349)  
+Rating: 4.61 (Ranked 348)  
 Number of Ratings: 12,660  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 14,136  (Ranked 22)  

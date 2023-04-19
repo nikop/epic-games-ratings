@@ -1,5 +1,5 @@
 # Darkwood
-Rating: 4.61 (Ranked 349)  
+Rating: 4.61 (Ranked 348)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 319  (Ranked 210)  
 Sum: 2,353 (Ranked 167)  

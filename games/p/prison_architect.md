@@ -1,9 +1,9 @@
 # Prison Architect
-Rating: 4.61 (Ranked 349)  
+Rating: 4.61 (Ranked 348)  
 Number of Ratings: 4,491  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 402  (Ranked 192)  
-Sum: 3,152 (Ranked 143)  
+Sum: 3,153 (Ranked 143)  
 Diff (max vs sum): 49
 ## Awards
 | Award | Count |
@@ -16,7 +16,7 @@ Diff (max vs sum): 49
 | This game has Amazing Storytelling | 344 |
 | This game has Diverse Characters | 341 |
 | This game has Amazing Characters | 316 |
-| This game has a Creative Community | 252 |
+| This game has a Creative Community | 253 |
 | This game has Obsessive Gameplay | 234 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -111,4 +111,4 @@ Diff (max vs sum): 49
 | 2023-04-16 | 4.61 | - | 401 | 3,144 |
 | 2023-04-17 | 4.61 | - | 401 | 3,148 |
 | 2023-04-18 | 4.61 | - | 402 | 3,150 |
-| 2023-04-19 | 4.61 | - | 402 | 3,152 |
+| 2023-04-19 | 4.61 | - | 402 | 3,153 |
