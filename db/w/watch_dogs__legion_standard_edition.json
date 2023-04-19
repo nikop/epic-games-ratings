@@ -3,14 +3,14 @@
   "Name": "Watch Dogs: Legion Standard Edition",
   "Rating": 4.36,
   "Ranking_Rating": 699,
-  "Ranking_Popularity": 347,
+  "Ranking_Popularity": 343,
   "Ranking_PopularitySum": 281,
   "NumberOfRatings": 1361,
-  "NumberOfAwards": 564,
-  "NumberOfAwardsMax": 73,
-  "MaxAwardTitle": "Diverse Characters",
+  "NumberOfAwards": 566,
+  "NumberOfAwardsMax": 75,
+  "MaxAwardTitle": "Amazing Characters",
   "FirstSeen": "2022-07-22T20:17:59.5198477+00:00",
-  "LastChanged": "2023-04-19T06:57:19.2032899+00:00",
+  "LastChanged": "2023-04-19T09:57:09.5215143+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:59.519848+00:00",
@@ -1176,6 +1176,12 @@
       "Rating": 4.36,
       "NumberOfAwards": 564,
       "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2023-04-19T09:57:09.5215145+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 566,
+      "NumberOfAwardsMax": 75
     }
   ],
   "Tags": [
@@ -1189,7 +1195,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 73
+      "Count": 75
     },
     {
       "Text": "This game has Diverse Characters",
