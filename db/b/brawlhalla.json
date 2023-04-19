@@ -3,14 +3,14 @@
   "Name": "Brawlhalla",
   "Rating": 4.57,
   "Ranking_Rating": 423,
-  "Ranking_Popularity": 341,
+  "Ranking_Popularity": 340,
   "Ranking_PopularitySum": 249,
-  "NumberOfAwards": 735,
-  "NumberOfAwardsMax": 77,
+  "NumberOfAwards": 736,
+  "NumberOfAwardsMax": 78,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-04-19T20:57:17.8438278+00:00",
+  "LastChanged": "2023-04-19T22:56:53.1839646+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-21T06:57:02.0735411+00:00",
@@ -1001,6 +1001,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 735,
       "NumberOfAwardsMax": 77
+    },
+    {
+      "Time": "2023-04-19T22:56:53.1839649+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 736,
+      "NumberOfAwardsMax": 78
     }
   ],
   "Tags": [
@@ -1074,7 +1080,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 77
+      "Count": 78
     }
   ]
 }

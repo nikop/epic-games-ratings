@@ -4,13 +4,13 @@
   "Rating": 4.68,
   "Ranking_Rating": 236,
   "Ranking_Popularity": 169,
-  "Ranking_PopularitySum": 220,
+  "Ranking_PopularitySum": 218,
   "NumberOfRatings": 892,
-  "NumberOfAwards": 1135,
+  "NumberOfAwards": 1177,
   "NumberOfAwardsMax": 549,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
-  "LastChanged": "2023-04-19T20:06:15.1833757+00:00",
+  "LastChanged": "2023-04-19T22:58:34.4284847+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:47.6872012+00:00",
@@ -643,6 +643,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 1135,
       "NumberOfAwardsMax": 549
+    },
+    {
+      "Time": "2023-04-19T22:58:34.4284849+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1177,
+      "NumberOfAwardsMax": 549
     }
   ],
   "Tags": [
@@ -708,9 +714,9 @@
     },
     {
       "Text": "This game has a Kind Community",
-      "Prefix": "",
-      "Type": "",
-      "Count": 40
+      "Prefix": "This game has a",
+      "Type": "Kind Community",
+      "Count": 42
     },
     {
       "Text": "This game has Easy Combat",
