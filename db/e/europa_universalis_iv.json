@@ -6,11 +6,11 @@
   "Ranking_Popularity": 60,
   "Ranking_PopularitySum": 25,
   "NumberOfRatings": 8414,
-  "NumberOfAwards": 41768,
-  "NumberOfAwardsMax": 5034,
+  "NumberOfAwards": 41781,
+  "NumberOfAwardsMax": 5045,
   "MaxAwardTitle": "Educational",
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
-  "LastChanged": "2023-04-19T20:57:19.6737467+00:00",
+  "LastChanged": "2023-04-19T21:57:00.5212441+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:24.709272+00:00",
@@ -3782,6 +3782,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 41768,
       "NumberOfAwardsMax": 5034
+    },
+    {
+      "Time": "2023-04-19T21:57:00.5212443+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 41781,
+      "NumberOfAwardsMax": 5045
     }
   ],
   "Tags": [
@@ -3789,7 +3795,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4827
+      "Count": 4828
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3813,7 +3819,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 5034
+      "Count": 5045
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3825,7 +3831,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 4541
+      "Count": 4542
     },
     {
       "Text": "This game is Relaxing",

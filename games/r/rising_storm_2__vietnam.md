@@ -2,13 +2,13 @@
 Rating: 4.50 (Ranked 522)  
 Number of Ratings: 2,871  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Quickly Understood Controls): 636  (Ranked 160)  
-Sum: 5,888 (Ranked 112)  
-Diff (max vs sum): 48
+Max (Quickly Understood Controls): 638  (Ranked 159)  
+Sum: 5,890 (Ranked 112)  
+Diff (max vs sum): 47
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 636 |
+| This game has Quickly Understood Controls | 638 |
 | This game has Diverse Characters | 624 |
 | This game is Extremely Fun | 624 |
 | This game is Highly Recommended | 622 |
@@ -116,4 +116,4 @@ Diff (max vs sum): 48
 | 2023-04-16 | 4.50 | - | 635 | 5,866 |
 | 2023-04-17 | 4.50 | - | 636 | 5,873 |
 | 2023-04-18 | 4.50 | - | 636 | 5,882 |
-| 2023-04-19 | 4.50 | - | 636 | 5,888 |
+| 2023-04-19 | 4.50 | - | 638 | 5,890 |
