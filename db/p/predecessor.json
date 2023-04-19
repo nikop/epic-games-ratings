@@ -1,8 +1,8 @@
 {
   "ID": "85f0435aa88347d185dbcb147716609b",
   "Name": "Predecessor",
-  "Rating": 4.45,
-  "Ranking_Rating": 596,
+  "Rating": 4.46,
+  "Ranking_Rating": 583,
   "Ranking_Popularity": 376,
   "Ranking_PopularitySum": 303,
   "NumberOfAwards": 362,
@@ -10,7 +10,7 @@
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-12-01T08:57:03.8695537+00:00",
   "FirstSeenRating": "2022-12-02T07:57:13.3206902+00:00",
-  "LastChanged": "2023-04-19T13:57:22.6362545+00:00",
+  "LastChanged": "2023-04-19T15:57:23.7167034+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-02T07:57:13.3206905+00:00",
@@ -523,6 +523,12 @@
     {
       "Time": "2023-04-19T13:57:22.6362547+00:00",
       "Rating": 4.45,
+      "NumberOfAwards": 362,
+      "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2023-04-19T15:57:23.7167035+00:00",
+      "Rating": 4.46,
       "NumberOfAwards": 362,
       "NumberOfAwardsMax": 56
     }

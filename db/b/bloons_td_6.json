@@ -3,15 +3,15 @@
   "Name": "Bloons TD 6",
   "Rating": 4.76,
   "Ranking_Rating": 112,
-  "Ranking_Popularity": 92,
+  "Ranking_Popularity": 91,
   "Ranking_PopularitySum": 61,
   "NumberOfRatings": 136,
-  "NumberOfAwards": 14122,
-  "NumberOfAwardsMax": 2353,
+  "NumberOfAwards": 14143,
+  "NumberOfAwardsMax": 2368,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-23T14:00:48.5667099+00:00",
   "FirstSeenRating": "2022-08-21T19:00:52.0889932+00:00",
-  "LastChanged": "2023-04-19T13:04:55.3987249+00:00",
+  "LastChanged": "2023-04-19T15:57:13.5817216+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-21T19:00:52.0889936+00:00",
@@ -1490,6 +1490,12 @@
       "Rating": 4.76,
       "NumberOfAwards": 14122,
       "NumberOfAwardsMax": 2353
+    },
+    {
+      "Time": "2023-04-19T15:57:13.5817217+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 14143,
+      "NumberOfAwardsMax": 2368
     }
   ],
   "Tags": [
@@ -1515,7 +1521,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1098
+      "Count": 1104
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1533,7 +1539,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 2353
+      "Count": 2368
     },
     {
       "Text": "This game is Great for Quick Sessions",

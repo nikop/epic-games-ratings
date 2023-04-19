@@ -1,5 +1,5 @@
 # Predecessor
-Rating: 4.45 (Ranked 596)  
+Rating: 4.46 (Ranked 583)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 56  (Ranked 376)  
 Sum: 362 (Ranked 303)  
@@ -73,4 +73,4 @@ Diff (max vs sum): 73
 | 2023-04-16 | 4.45 | 52 | 343 |
 | 2023-04-17 | 4.45 | 53 | 349 |
 | 2023-04-18 | 4.45 | 55 | 358 |
-| 2023-04-19 | 4.45 | 56 | 362 |
+| 2023-04-19 | 4.46 | 56 | 362 |
