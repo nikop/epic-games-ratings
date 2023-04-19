@@ -102,7 +102,7 @@
 | 91 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 903 | 140 |
 | 101 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,539 | 65 |
 | 101 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,662 | 36 |
-| 101 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 17,602 | 19 |
+| 101 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 17,642 | 19 |
 | 101 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 141 | 283 |
 | 101 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 97 | 318 |
 | 106 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,876 | 74 |
@@ -255,7 +255,7 @@
 | 235 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 83 | 337 |
 | 235 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.68 | 1,429 | 114 |
 | 235 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 0 | 484 |
-| 256 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 637 | 159 |
+| 256 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 638 | 159 |
 | 256 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 71 | 352 |
 | 256 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,455 | 47 |
 | 256 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 484 |
@@ -794,18 +794,18 @@
 | 791 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 174 | 265 |
 | 791 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 12,564 | 26 |
 | 791 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 0 | 484 |
-| 791 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.21 | 0 | 484 |
 | 791 | [Starsand](games/s/starsand.md) | 4.21 | 0 | 484 |
-| 797 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 122 | 294 |
-| 797 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 119 | 296 |
-| 797 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 484 |
-| 797 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 33 | 426 |
-| 797 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 465 |
-| 797 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 0 | 484 |
-| 797 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 72 | 350 |
-| 797 | [Somerville](games/s/somerville.md) | 4.20 | 0 | 484 |
-| 797 | [The Bridge](games/t/the_bridge.md) | 4.20 | 0 | 484 |
-| 797 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 77 | 341 |
+| 796 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 122 | 294 |
+| 796 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 119 | 296 |
+| 796 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 484 |
+| 796 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 33 | 426 |
+| 796 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 465 |
+| 796 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 0 | 484 |
+| 796 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 72 | 350 |
+| 796 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.20 | 0 | 484 |
+| 796 | [Somerville](games/s/somerville.md) | 4.20 | 0 | 484 |
+| 796 | [The Bridge](games/t/the_bridge.md) | 4.20 | 0 | 484 |
+| 796 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 77 | 341 |
 | 807 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 378 |
 | 807 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 0 | 484 |
 | 807 | [Flatout](games/f/flatout.md) | 4.19 | 0 | 484 |

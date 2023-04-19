@@ -1,15 +1,15 @@
 {
   "ID": "615a4dc5c85c4c28a390dda4298acd80",
   "Name": "Recipe for Disaster",
-  "Rating": 4.21,
-  "Ranking_Rating": 791,
+  "Rating": 4.2,
+  "Ranking_Rating": 796,
   "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 484,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-08-15T21:31:09.5308139+00:00",
   "FirstSeenRating": "2023-02-11T02:06:38.6725347+00:00",
-  "LastChanged": "2023-04-17T05:57:58.3840451+00:00",
+  "LastChanged": "2023-04-19T05:57:48.2116128+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-11T02:06:38.672535+00:00",
@@ -194,6 +194,12 @@
     {
       "Time": "2023-04-17T05:57:58.3840454+00:00",
       "Rating": 4.21,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-19T05:57:48.2116133+00:00",
+      "Rating": 4.2,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
