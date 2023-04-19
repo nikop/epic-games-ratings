@@ -2,16 +2,16 @@
   "ID": "428115def4ca4deea9d69c99c5a5a99e",
   "Name": "Destiny 2",
   "Rating": 4.5,
-  "Ranking_Rating": 525,
+  "Ranking_Rating": 524,
   "Ranking_Popularity": 12,
   "Ranking_PopularitySum": 16,
   "NumberOfRatings": 32207,
-  "NumberOfAwards": 79472,
+  "NumberOfAwards": 79481,
   "NumberOfAwardsMax": 33006,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-08-23T20:00:58.6908762+00:00",
   "FirstSeenRating": "2022-08-24T03:30:20.9735605+00:00",
-  "LastChanged": "2023-04-19T16:56:54.9970746+00:00",
+  "LastChanged": "2023-04-19T17:56:58.9137152+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-24T03:30:20.973561+00:00",
@@ -2660,6 +2660,12 @@
       "Rating": 4.5,
       "NumberOfAwards": 79472,
       "NumberOfAwardsMax": 33006
+    },
+    {
+      "Time": "2023-04-19T17:56:58.9137154+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 79481,
+      "NumberOfAwardsMax": 33006
     }
   ],
   "Tags": [
@@ -2715,7 +2721,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 5545
+      "Count": 5554
     },
     {
       "Text": "This game has Obsessive Gameplay",

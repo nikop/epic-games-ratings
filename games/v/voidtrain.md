@@ -1,14 +1,14 @@
 # Voidtrain
-Rating: 4.50 (Ranked 525)  
+Rating: 4.50 (Ranked 524)  
 Number of Ratings: 1,305  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Easy Combat): 27  (Ranked 446)  
-Sum: 101 (Ranked 391)  
-Diff (max vs sum): 55
+Max (Great for Beginners): 28  (Ranked 445)  
+Sum: 102 (Ranked 391)  
+Diff (max vs sum): 54
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 27 |
+| This game is Great for Beginners | 28 |
 | This game has Easy Combat | 27 |
 | This game is Relaxing | 26 |
 | This game has Quickly Understood Controls | 21 |
@@ -92,3 +92,4 @@ Diff (max vs sum): 55
 | 2023-02-21 | 4.50 | - | - | - |
 | 2023-04-08 | 4.50 | - | 27 | 99 |
 | 2023-04-16 | 4.50 | - | 27 | 101 |
+| 2023-04-19 | 4.50 | - | 28 | 102 |

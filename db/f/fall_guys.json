@@ -2,15 +2,15 @@
   "ID": "50118b7f954e450f8823df1614b24e80",
   "Name": "Fall Guys",
   "Rating": 4.53,
-  "Ranking_Rating": 485,
+  "Ranking_Rating": 484,
   "Ranking_Popularity": 6,
   "Ranking_PopularitySum": 3,
   "NumberOfRatings": 1046587,
-  "NumberOfAwards": 1290604,
+  "NumberOfAwards": 1290633,
   "NumberOfAwardsMax": 137627,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:18:16.49776+00:00",
-  "LastChanged": "2023-04-19T15:57:12.4072342+00:00",
+  "LastChanged": "2023-04-19T17:56:55.2611992+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:16.4977602+00:00",
@@ -3907,6 +3907,12 @@
       "Rating": 4.53,
       "NumberOfAwards": 1290604,
       "NumberOfAwardsMax": 137627
+    },
+    {
+      "Time": "2023-04-19T17:56:55.2611993+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 1290633,
+      "NumberOfAwardsMax": 137627
     }
   ],
   "Tags": [
@@ -3938,7 +3944,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 121375
+      "Count": 121404
     },
     {
       "Text": "This game has Diverse Characters",

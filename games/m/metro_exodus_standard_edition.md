@@ -1,5 +1,5 @@
 # Metro Exodus Standard Edition
-Rating: 4.79 (Ranked 91)  
+Rating: 4.79 (Ranked 90)  
 Number of Ratings: 7,529  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 5,796  (Ranked 55)  

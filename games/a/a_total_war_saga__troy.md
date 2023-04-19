@@ -1,16 +1,16 @@
 # A Total War Saga: TROY
-Rating: 4.51 (Ranked 509)  
+Rating: 4.51 (Ranked 508)  
 Number of Ratings: 6,316  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 1,544  (Ranked 110)  
-Sum: 11,155 (Ranked 75)  
+Sum: 11,158 (Ranked 75)  
 Diff (max vs sum): 35
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 1,544 |
 | This game is Educational | 1,437 |
-| This game is Highly Recommended | 1,426 |
+| This game is Highly Recommended | 1,429 |
 | This game is Extremely Fun | 1,405 |
 | This game is Relaxing | 1,348 |
 | This game has Amazing Characters | 1,345 |
@@ -102,3 +102,4 @@ Diff (max vs sum): 35
 | 2023-04-15 | 4.51 | - | 1,541 | 11,147 |
 | 2023-04-16 | 4.51 | - | 1,542 | 11,150 |
 | 2023-04-18 | 4.51 | - | 1,544 | 11,155 |
+| 2023-04-19 | 4.51 | - | 1,544 | 11,158 |

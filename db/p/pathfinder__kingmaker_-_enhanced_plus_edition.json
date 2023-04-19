@@ -2,15 +2,15 @@
   "ID": "6daaf10529e94fccaa8ee43b66adbe4a",
   "Name": "Pathfinder: Kingmaker - Enhanced Plus Edition",
   "Rating": 4.57,
-  "Ranking_Rating": 422,
+  "Ranking_Rating": 423,
   "Ranking_Popularity": 85,
   "Ranking_PopularitySum": 88,
   "NumberOfRatings": 3868,
-  "NumberOfAwards": 8021,
+  "NumberOfAwards": 8022,
   "NumberOfAwardsMax": 3005,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:24:35.6101884+00:00",
-  "LastChanged": "2023-04-19T01:59:24.1051615+00:00",
+  "LastChanged": "2023-04-19T17:57:44.0328673+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:35.6101886+00:00",
@@ -2701,6 +2701,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 8021,
       "NumberOfAwardsMax": 3005
+    },
+    {
+      "Time": "2023-04-19T17:57:44.0328674+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 8022,
+      "NumberOfAwardsMax": 3005
     }
   ],
   "Tags": [
@@ -2756,7 +2762,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 348
+      "Count": 349
     },
     {
       "Text": "This game has Quickly Understood Controls",

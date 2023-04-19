@@ -1,16 +1,16 @@
 {
   "ID": "fn",
   "Name": "Fortnite",
-  "Rating": 4.29,
-  "Ranking_Rating": 752,
+  "Rating": 4.3,
+  "Ranking_Rating": 744,
   "Ranking_Popularity": 1,
   "Ranking_PopularitySum": 1,
   "NumberOfRatings": 2283925,
-  "NumberOfAwards": 8948250,
+  "NumberOfAwards": 8954842,
   "NumberOfAwardsMax": 1235360,
   "MaxAwardTitle": "Competitive Players",
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
-  "LastChanged": "2023-04-19T14:56:59.9957236+00:00",
+  "LastChanged": "2023-04-19T17:56:59.9534223+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:41.6739551+00:00",
@@ -4439,6 +4439,12 @@
       "Rating": 4.29,
       "NumberOfAwards": 8948250,
       "NumberOfAwardsMax": 1235360
+    },
+    {
+      "Time": "2023-04-19T17:56:59.9534225+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 8954842,
+      "NumberOfAwardsMax": 1235360
     }
   ],
   "Tags": [
@@ -4452,13 +4458,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1175664
+      "Count": 1177950
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1187975
+      "Count": 1190422
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4488,7 +4494,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 915256
+      "Count": 917115
     }
   ]
 }

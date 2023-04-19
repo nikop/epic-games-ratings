@@ -2,15 +2,15 @@
   "ID": "304724b675974566b1d7e23af80a1f52",
   "Name": "BioShock 2 Remastered",
   "Rating": 4.51,
-  "Ranking_Rating": 509,
+  "Ranking_Rating": 508,
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 118,
   "NumberOfRatings": 12272,
-  "NumberOfAwards": 5187,
+  "NumberOfAwards": 5188,
   "NumberOfAwardsMax": 4059,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:29:15.5533471+00:00",
-  "LastChanged": "2023-04-19T04:58:20.2453356+00:00",
+  "LastChanged": "2023-04-19T17:58:13.102804+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:15.5533474+00:00",
@@ -1874,6 +1874,12 @@
       "Rating": 4.51,
       "NumberOfAwards": 5187,
       "NumberOfAwardsMax": 4059
+    },
+    {
+      "Time": "2023-04-19T17:58:13.1028041+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 5188,
+      "NumberOfAwardsMax": 4059
     }
   ],
   "Tags": [
@@ -1917,7 +1923,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 122
+      "Count": 123
     },
     {
       "Text": "This game is Great for Beginners",

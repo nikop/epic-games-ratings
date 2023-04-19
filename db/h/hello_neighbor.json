@@ -2,15 +2,15 @@
   "ID": "helloneighbor",
   "Name": "Hello Neighbor",
   "Rating": 4.54,
-  "Ranking_Rating": 474,
+  "Ranking_Rating": 473,
   "Ranking_Popularity": 257,
   "Ranking_PopularitySum": 212,
   "NumberOfRatings": 1166,
-  "NumberOfAwards": 1306,
+  "NumberOfAwards": 1307,
   "NumberOfAwardsMax": 191,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:22:23.0108388+00:00",
-  "LastChanged": "2023-04-18T22:57:57.5602189+00:00",
+  "LastChanged": "2023-04-19T17:57:29.7052818+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:23.0108394+00:00",
@@ -1481,6 +1481,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 1306,
       "NumberOfAwardsMax": 191
+    },
+    {
+      "Time": "2023-04-19T17:57:29.7052819+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 1307,
+      "NumberOfAwardsMax": 191
     }
   ],
   "Tags": [
@@ -1518,7 +1524,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 153
+      "Count": 154
     },
     {
       "Text": "This game has a Creative Community",

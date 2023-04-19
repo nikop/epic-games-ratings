@@ -1,8 +1,8 @@
 {
   "ID": "207b765975664e9db1e29129aafae69c",
   "Name": "Star Stable Online",
-  "Rating": 4.41,
-  "Ranking_Rating": 647,
+  "Rating": 4.42,
+  "Ranking_Rating": 637,
   "Ranking_Popularity": 295,
   "Ranking_PopularitySum": 242,
   "NumberOfRatings": 317,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 121,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
-  "LastChanged": "2023-04-18T17:57:18.6186781+00:00",
+  "LastChanged": "2023-04-19T17:57:02.3635428+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:59.0360313+00:00",
@@ -864,6 +864,12 @@
     {
       "Time": "2023-04-18T17:57:18.6186904+00:00",
       "Rating": 4.41,
+      "NumberOfAwards": 791,
+      "NumberOfAwardsMax": 121
+    },
+    {
+      "Time": "2023-04-19T17:57:02.3635429+00:00",
+      "Rating": 4.42,
       "NumberOfAwards": 791,
       "NumberOfAwardsMax": 121
     }

@@ -3,14 +3,14 @@
   "Name": "World of Warships",
   "Rating": 4.44,
   "Ranking_Rating": 614,
-  "Ranking_Popularity": 133,
+  "Ranking_Popularity": 132,
   "Ranking_PopularitySum": 82,
   "NumberOfRatings": 4733,
-  "NumberOfAwards": 8774,
-  "NumberOfAwardsMax": 995,
+  "NumberOfAwards": 8777,
+  "NumberOfAwardsMax": 998,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
-  "LastChanged": "2023-04-19T15:57:12.7237852+00:00",
+  "LastChanged": "2023-04-19T17:56:55.5536062+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:02.7521929+00:00",
@@ -3434,6 +3434,12 @@
       "Rating": 4.44,
       "NumberOfAwards": 8774,
       "NumberOfAwardsMax": 995
+    },
+    {
+      "Time": "2023-04-19T17:56:55.5536063+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 8777,
+      "NumberOfAwardsMax": 998
     }
   ],
   "Tags": [
@@ -3495,7 +3501,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 995
+      "Count": 998
     }
   ]
 }

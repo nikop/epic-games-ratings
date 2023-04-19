@@ -3,14 +3,14 @@
   "Name": "SnowRunner",
   "Rating": 4.76,
   "Ranking_Rating": 112,
-  "Ranking_Popularity": 40,
+  "Ranking_Popularity": 39,
   "Ranking_PopularitySum": 19,
   "NumberOfRatings": 21349,
-  "NumberOfAwards": 54497,
-  "NumberOfAwardsMax": 7595,
+  "NumberOfAwards": 54508,
+  "NumberOfAwardsMax": 7606,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:17:33.5806012+00:00",
-  "LastChanged": "2023-04-19T14:56:58.7065871+00:00",
+  "LastChanged": "2023-04-19T17:56:58.979083+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:33.5806018+00:00",
@@ -3956,6 +3956,12 @@
       "Rating": 4.76,
       "NumberOfAwards": 54497,
       "NumberOfAwardsMax": 7595
+    },
+    {
+      "Time": "2023-04-19T17:56:58.9790919+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 54508,
+      "NumberOfAwardsMax": 7606
     }
   ],
   "Tags": [
@@ -3981,7 +3987,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 7595
+      "Count": 7606
     },
     {
       "Text": "This game has Quickly Understood Controls",
