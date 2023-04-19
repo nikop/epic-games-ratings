@@ -1,15 +1,15 @@
 {
   "ID": "2a5eb81d6f384099a5259413ee22baa4",
   "Name": "Fights in Tight Spaces",
-  "Rating": 4.67,
-  "Ranking_Rating": 256,
+  "Rating": 4.68,
+  "Ranking_Rating": 236,
   "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 484,
   "NumberOfRatings": 38,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:25:17.7163905+00:00",
-  "LastChanged": "2023-03-31T05:57:53.8832531+00:00",
+  "LastChanged": "2023-04-19T20:01:48.0066652+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:17.7163908+00:00",
@@ -113,6 +113,12 @@
     {
       "Time": "2023-03-31T05:57:53.8832532+00:00",
       "Rating": 4.67,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-19T20:01:48.0066654+00:00",
+      "Rating": 4.68,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

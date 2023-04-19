@@ -1,5 +1,5 @@
 # The Settlers®: New Allies
-Rating: 3.72 (Ranked 899)  
+Rating: 3.73 (Ranked 899)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 43  (Ranked 402)  
 Sum: 123 (Ranked 383)  
@@ -59,4 +59,4 @@ Diff (max vs sum): 19
 | 2023-04-16 | 3.72 | 41 | 80 |
 | 2023-04-17 | 3.73 | 43 | 83 |
 | 2023-04-18 | 3.73 | 43 | 123 |
-| 2023-04-19 | 3.72 | 43 | 123 |
+| 2023-04-19 | 3.73 | 43 | 123 |

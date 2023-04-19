@@ -1,16 +1,16 @@
 {
   "ID": "dda64c2956b54f1ba3cd97f6aaee775f",
   "Name": "Total War: WARHAMMER III",
-  "Rating": 4.68,
-  "Ranking_Rating": 235,
+  "Rating": 4.69,
+  "Ranking_Rating": 212,
   "Ranking_Popularity": 113,
-  "Ranking_PopularitySum": 121,
+  "Ranking_PopularitySum": 120,
   "NumberOfRatings": 882,
-  "NumberOfAwards": 5117,
+  "NumberOfAwards": 5118,
   "NumberOfAwardsMax": 1438,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:20:31.8340221+00:00",
-  "LastChanged": "2023-04-19T18:57:11.1219719+00:00",
+  "LastChanged": "2023-04-19T19:58:30.4114297+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:31.8340223+00:00",
@@ -2081,6 +2081,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 5117,
       "NumberOfAwardsMax": 1438
+    },
+    {
+      "Time": "2023-04-19T19:58:30.4114298+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 5118,
+      "NumberOfAwardsMax": 1438
     }
   ],
   "Tags": [
@@ -2136,7 +2142,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 342
+      "Count": 343
     },
     {
       "Text": "This game has Competitive Players",

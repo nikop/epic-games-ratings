@@ -1,16 +1,16 @@
 # Carcassonne
-Rating: 4.67 (Ranked 256)  
+Rating: 4.67 (Ranked 257)  
 Number of Ratings: 276  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 71  (Ranked 352)  
-Sum: 504 (Ranked 288)  
+Sum: 505 (Ranked 288)  
 Diff (max vs sum): 64
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 71 |
 | This game is Relaxing | 69 |
-| This game is Great for Beginners | 66 |
+| This game is Great for Beginners | 67 |
 | This game is Extremely Fun | 63 |
 | This game has Quickly Understood Controls | 62 |
 | This game has Competitive Players | 60 |
@@ -93,3 +93,4 @@ Diff (max vs sum): 64
 | 2023-04-07 | 4.67 | - | 71 | 501 |
 | 2023-04-15 | 4.67 | - | 71 | 503 |
 | 2023-04-18 | 4.67 | - | 71 | 504 |
+| 2023-04-19 | 4.67 | - | 71 | 505 |

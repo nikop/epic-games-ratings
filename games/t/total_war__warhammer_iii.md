@@ -1,10 +1,10 @@
 # Total War: WARHAMMER III
-Rating: 4.68 (Ranked 235)  
+Rating: 4.69 (Ranked 212)  
 Number of Ratings: 882  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 1,438  (Ranked 113)  
-Sum: 5,117 (Ranked 121)  
-Diff (max vs sum): -8
+Sum: 5,118 (Ranked 120)  
+Diff (max vs sum): -7
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): -8
 | This game is Relaxing | 350 |
 | This game has Amazing Characters | 345 |
 | This game has Amazing Storytelling | 344 |
-| This game is Extremely Fun | 342 |
+| This game is Extremely Fun | 343 |
 | This game has Quickly Understood Controls | 332 |
 | This game has Challenging Combat | 327 |
 | This game has Competitive Players | 325 |
@@ -130,4 +130,4 @@ Diff (max vs sum): -8
 | 2023-04-16 | 4.68 | - | 1,423 | 5,086 |
 | 2023-04-17 | 4.68 | - | 1,426 | 5,092 |
 | 2023-04-18 | 4.68 | - | 1,429 | 5,103 |
-| 2023-04-19 | 4.68 | - | 1,438 | 5,117 |
+| 2023-04-19 | 4.69 | - | 1,438 | 5,118 |

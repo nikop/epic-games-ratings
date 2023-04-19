@@ -1,9 +1,9 @@
 # Europa Universalis IV
-Rating: 4.68 (Ranked 235)  
+Rating: 4.68 (Ranked 236)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Educational): 5,034  (Ranked 60)  
-Sum: 41,715 (Ranked 25)  
+Sum: 41,748 (Ranked 25)  
 Diff (max vs sum): 35
 ## Awards
 | Award | Count |
@@ -11,9 +11,9 @@ Diff (max vs sum): 35
 | This game is Educational | 5,034 |
 | This game has Challenging Combat | 4,839 |
 | This game is Highly Recommended | 4,824 |
-| This game is Extremely Fun | 4,774 |
-| This game has Diverse Characters | 4,739 |
-| This game is Relaxing | 4,680 |
+| This game is Extremely Fun | 4,788 |
+| This game has Diverse Characters | 4,740 |
+| This game is Relaxing | 4,698 |
 | This game has Competitive Players | 4,531 |
 | This game has Amazing Storytelling | 4,301 |
 | This game has Amazing Characters | 3,993 |
@@ -113,4 +113,4 @@ Diff (max vs sum): 35
 | 2023-04-16 | 4.68 | - | 5,004 | 41,502 |
 | 2023-04-17 | 4.68 | - | 5,012 | 41,539 |
 | 2023-04-18 | 4.68 | - | 5,017 | 41,634 |
-| 2023-04-19 | 4.68 | - | 5,034 | 41,715 |
+| 2023-04-19 | 4.68 | - | 5,034 | 41,748 |

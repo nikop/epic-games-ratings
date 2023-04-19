@@ -2,15 +2,15 @@
   "ID": "e65d8864e0e84d6eb7fe228b2041c15f",
   "Name": "My Time at Sandrock",
   "Rating": 4.68,
-  "Ranking_Rating": 235,
+  "Ranking_Rating": 236,
   "Ranking_Popularity": 169,
   "Ranking_PopularitySum": 220,
   "NumberOfRatings": 892,
-  "NumberOfAwards": 1134,
+  "NumberOfAwards": 1135,
   "NumberOfAwardsMax": 549,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
-  "LastChanged": "2023-04-18T20:58:22.4010941+00:00",
+  "LastChanged": "2023-04-19T20:06:15.1833757+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:47.6872012+00:00",
@@ -637,6 +637,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 1134,
       "NumberOfAwardsMax": 549
+    },
+    {
+      "Time": "2023-04-19T20:06:15.1833758+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1135,
+      "NumberOfAwardsMax": 549
     }
   ],
   "Tags": [
@@ -698,7 +704,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 63
+      "Count": 64
     },
     {
       "Text": "This game has a Kind Community",

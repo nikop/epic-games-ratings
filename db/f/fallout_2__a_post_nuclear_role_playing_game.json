@@ -3,14 +3,14 @@
   "Name": "Fallout 2: A Post Nuclear Role Playing Game",
   "Rating": 4.76,
   "Ranking_Rating": 112,
-  "Ranking_Popularity": 370,
+  "Ranking_Popularity": 369,
   "Ranking_PopularitySum": 419,
-  "NumberOfAwards": 60,
-  "NumberOfAwardsMax": 60,
+  "NumberOfAwards": 61,
+  "NumberOfAwardsMax": 61,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-10-22T00:03:23.4324557+00:00",
   "FirstSeenRating": "2022-10-31T14:02:48.9261194+00:00",
-  "LastChanged": "2023-04-15T17:58:24.3627+00:00",
+  "LastChanged": "2023-04-19T20:07:24.7401327+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-31T14:02:48.9261197+00:00",
@@ -225,6 +225,12 @@
       "Rating": 4.76,
       "NumberOfAwards": 60,
       "NumberOfAwardsMax": 60
+    },
+    {
+      "Time": "2023-04-19T20:07:24.7401328+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 61,
+      "NumberOfAwardsMax": 61
     }
   ],
   "Tags": [
@@ -232,7 +238,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 60
+      "Count": 61
     }
   ]
 }

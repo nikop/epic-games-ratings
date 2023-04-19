@@ -1,5 +1,5 @@
 # MORDHAU
-Rating: 4.39 (Ranked 670)  
+Rating: 4.40 (Ranked 662)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  

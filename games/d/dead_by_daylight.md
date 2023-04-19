@@ -1,9 +1,9 @@
 # Dead by Daylight
-Rating: 4.52 (Ranked 497)  
+Rating: 4.52 (Ranked 496)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 26,575  (Ranked 15)  
-Sum: 215,393 (Ranked 12)  
+Sum: 215,453 (Ranked 12)  
 Diff (max vs sum): 3
 ## Awards
 | Award | Count |
@@ -11,9 +11,9 @@ Diff (max vs sum): 3
 | This game has Diverse Characters | 26,575 |
 | This game has Competitive Players | 24,984 |
 | This game is Highly Recommended | 24,511 |
-| This game is Extremely Fun | 24,452 |
-| This game has Quickly Understood Controls | 24,372 |
-| This game has Amazing Characters | 24,327 |
+| This game is Extremely Fun | 24,467 |
+| This game has Quickly Understood Controls | 24,390 |
+| This game has Amazing Characters | 24,354 |
 | This game has Challenging Combat | 23,535 |
 | This game has Amazing Storytelling | 22,186 |
 | This game has a Competitive Community | 20,451 |
@@ -107,4 +107,4 @@ Diff (max vs sum): 3
 | 2023-04-16 | 4.52 | - | 26,472 | 214,775 |
 | 2023-04-17 | 4.52 | - | 26,504 | 214,990 |
 | 2023-04-18 | 4.52 | - | 26,538 | 215,201 |
-| 2023-04-19 | 4.52 | - | 26,575 | 215,393 |
+| 2023-04-19 | 4.52 | - | 26,575 | 215,453 |

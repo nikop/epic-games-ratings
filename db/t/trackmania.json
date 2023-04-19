@@ -2,15 +2,15 @@
   "ID": "b04882669b2e495e9f747c8560488c93",
   "Name": "Trackmania",
   "Rating": 4.67,
-  "Ranking_Rating": 256,
+  "Ranking_Rating": 257,
   "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 52,
   "NumberOfRatings": 6825,
-  "NumberOfAwards": 20692,
+  "NumberOfAwards": 20707,
   "NumberOfAwardsMax": 2407,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-04-19T14:57:40.4609703+00:00",
+  "LastChanged": "2023-04-19T20:00:24.9361584+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:57.8589287+00:00",
@@ -3763,6 +3763,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 20692,
       "NumberOfAwardsMax": 2407
+    },
+    {
+      "Time": "2023-04-19T20:00:24.9361585+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 20707,
+      "NumberOfAwardsMax": 2407
     }
   ],
   "Tags": [
@@ -3794,7 +3800,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 2156
+      "Count": 2165
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3812,7 +3818,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 2109
+      "Count": 2115
     },
     {
       "Text": "This game has a Competitive Community",

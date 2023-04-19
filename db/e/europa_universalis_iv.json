@@ -2,15 +2,15 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "Rating": 4.68,
-  "Ranking_Rating": 235,
+  "Ranking_Rating": 236,
   "Ranking_Popularity": 60,
   "Ranking_PopularitySum": 25,
   "NumberOfRatings": 8414,
-  "NumberOfAwards": 41715,
+  "NumberOfAwards": 41748,
   "NumberOfAwardsMax": 5034,
   "MaxAwardTitle": "Educational",
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
-  "LastChanged": "2023-04-19T17:56:55.6535271+00:00",
+  "LastChanged": "2023-04-19T19:56:58.9264213+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:24.709272+00:00",
@@ -3770,6 +3770,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 41715,
       "NumberOfAwardsMax": 5034
+    },
+    {
+      "Time": "2023-04-19T19:56:58.9264214+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 41748,
+      "NumberOfAwardsMax": 5034
     }
   ],
   "Tags": [
@@ -3789,13 +3795,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4739
+      "Count": 4740
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 4774
+      "Count": 4788
     },
     {
       "Text": "This game is Educational",
@@ -3819,7 +3825,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4680
+      "Count": 4698
     },
     {
       "Text": "This game has Amazing Storytelling",
