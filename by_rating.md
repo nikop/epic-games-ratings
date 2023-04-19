@@ -43,7 +43,7 @@
 | 36 | [Huntdown](games/h/huntdown.md) | 4.85 | 0 | 484 |
 | 36 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 224 | 242 |
 | 36 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 215 | 244 |
-| 36 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 98 | 316 |
+| 36 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 100 | 315 |
 | 36 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 0 | 484 |
 | 36 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 0 | 484 |
 | 36 | [TUNIC](games/t/tunic.md) | 4.85 | 32 | 428 |
@@ -420,7 +420,7 @@
 | 406 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 965 | 138 |
 | 406 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 5,981 | 52 |
 | 406 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 202 | 251 |
-| 406 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,315 | 21 |
+| 406 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,316 | 21 |
 | 422 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.57 | 0 | 484 |
 | 422 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 0 | 484 |
 | 422 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 0 | 484 |
@@ -500,7 +500,7 @@
 | 498 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 731 | 150 |
 | 498 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 26,538 | 15 |
 | 498 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 494 | 179 |
-| 498 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 98 | 316 |
+| 498 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 98 | 317 |
 | 498 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 147 | 280 |
 | 498 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 182 | 261 |
 | 498 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,054 | 128 |
@@ -608,7 +608,7 @@
 | 596 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 484 |
 | 596 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 846 | 143 |
 | 596 | [Predecessor](games/p/predecessor.md) | 4.45 | 55 | 376 |
-| 596 | [SMITE](games/s/smite.md) | 4.45 | 3,638 | 77 |
+| 596 | [SMITE](games/s/smite.md) | 4.45 | 3,644 | 77 |
 | 596 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.45 | 0 | 484 |
 | 596 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 113 | 301 |
 | 596 | [Weird West](games/w/weird_west.md) | 4.45 | 23 | 460 |
@@ -751,7 +751,6 @@
 | 744 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 0 | 484 |
 | 744 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 168 | 270 |
 | 744 | [War Mongrels](games/w/war_mongrels.md) | 4.30 | 0 | 484 |
-| 752 | [Chess Ultra](games/c/chess_ultra.md) | 4.29 | 0 | 484 |
 | 752 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 0 | 484 |
 | 752 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,235,360 | 1 |
 | 752 | [Hellpoint](games/h/hellpoint.md) | 4.29 | 0 | 484 |
@@ -759,14 +758,15 @@
 | 752 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 43 | 401 |
 | 752 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 125 | 291 |
 | 752 | [The Fall](games/t/the_fall.md) | 4.29 | 0 | 484 |
-| 760 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 484 |
-| 760 | [Rage 2](games/r/rage_2.md) | 4.28 | 2,419 | 89 |
-| 760 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 124 | 292 |
-| 760 | [Steelrising](games/s/steelrising.md) | 4.28 | 0 | 484 |
-| 764 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 22 | 465 |
-| 764 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 0 | 484 |
-| 764 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 0 | 484 |
-| 764 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 297 | 221 |
+| 759 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 484 |
+| 759 | [Rage 2](games/r/rage_2.md) | 4.28 | 2,419 | 89 |
+| 759 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 124 | 292 |
+| 759 | [Steelrising](games/s/steelrising.md) | 4.28 | 0 | 484 |
+| 763 | [Chess Ultra](games/c/chess_ultra.md) | 4.27 | 0 | 484 |
+| 763 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 22 | 465 |
+| 763 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 0 | 484 |
+| 763 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 0 | 484 |
+| 763 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 297 | 221 |
 | 768 | [EVE Online](games/e/eve_online.md) | 4.26 | 1,005 | 131 |
 | 768 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.26 | 0 | 484 |
 | 768 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 484 |

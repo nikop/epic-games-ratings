@@ -20,7 +20,7 @@
 | 18 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 17,786 | 4.57 | 422 |
 | 19 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 17,602 | 4.78 | 100 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 14,530 | 4.89 | 12 |
-| 21 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,315 | 4.58 | 406 |
+| 21 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,316 | 4.58 | 406 |
 | 22 | [Warframe](games/w/warframe.md) | 14,118 | 4.61 | 349 |
 | 23 | [Borderlands 2](games/b/borderlands_2.md) | 13,934 | 4.76 | 112 |
 | 24 | [Maneater](games/m/maneater.md) | 13,387 | 4.49 | 541 |
@@ -76,7 +76,7 @@
 | 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 3,876 | 4.77 | 106 |
 | 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 3,721 | 4.56 | 439 |
 | 76 | [Days Gone](games/d/days_gone.md) | 3,719 | 4.69 | 212 |
-| 77 | [SMITE](games/s/smite.md) | 3,638 | 4.45 | 596 |
+| 77 | [SMITE](games/s/smite.md) | 3,644 | 4.45 | 596 |
 | 78 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,565 | 4.30 | 744 |
 | 79 | [Gloomhaven](games/g/gloomhaven.md) | 3,428 | 4.47 | 571 |
 | 80 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,315 | 4.68 | 235 |
@@ -88,7 +88,7 @@
 | 86 | [Hades](games/h/hades.md) | 2,997 | 4.92 | 4 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 2,949 | 4.68 | 235 |
 | 88 | [Path of Exile](games/p/path_of_exile.md) | 2,427 | 4.61 | 349 |
-| 89 | [Rage 2](games/r/rage_2.md) | 2,419 | 4.28 | 760 |
+| 89 | [Rage 2](games/r/rage_2.md) | 2,419 | 4.28 | 759 |
 | 90 | [Trackmania](games/t/trackmania.md) | 2,400 | 4.67 | 256 |
 | 91 | [Among Us](games/a/among_us.md) | 2,364 | 4.58 | 406 |
 | 92 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,353 | 4.76 | 112 |
@@ -220,7 +220,7 @@
 | 218 | [Spellbreak](games/s/spellbreak.md) | 304 | 4.63 | 326 |
 | 219 | [Dishonored 2](games/d/dishonored_2.md) | 302 | 4.80 | 79 |
 | 219 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 302 | 4.70 | 190 |
-| 221 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.27 | 764 |
+| 221 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.27 | 763 |
 | 222 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 292 | 4.85 | 36 |
 | 223 | [House Flipper](games/h/house_flipper.md) | 279 | 4.70 | 190 |
 | 224 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 276 | 4.46 | 584 |
@@ -291,7 +291,7 @@
 | 289 | [Alien: Isolation ](games/a/alien__isolation.md) | 127 | 4.61 | 349 |
 | 289 | [Atomicrops](games/a/atomicrops.md) | 127 | 4.88 | 18 |
 | 291 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 125 | 4.29 | 752 |
-| 292 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 124 | 4.28 | 760 |
+| 292 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 124 | 4.28 | 759 |
 | 293 | [Encased](games/e/encased.md) | 123 | 4.36 | 699 |
 | 294 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 122 | 4.20 | 797 |
 | 295 | [Star Stable Online](games/s/star_stable_online.md) | 121 | 4.41 | 646 |
@@ -315,8 +315,8 @@
 | 313 | [Tropico 6](games/t/tropico_6.md) | 102 | 4.67 | 256 |
 | 314 | [Phantom Brigade](games/p/phantom_brigade.md) | 101 | 4.62 | 334 |
 | 315 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 100 | 4.80 | 79 |
-| 316 | [Just Die Already](games/j/just_die_already.md) | 98 | 4.52 | 498 |
-| 316 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 98 | 4.85 | 36 |
+| 315 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 100 | 4.85 | 36 |
+| 317 | [Just Die Already](games/j/just_die_already.md) | 98 | 4.52 | 498 |
 | 318 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 97 | 4.78 | 100 |
 | 318 | [The Captain](games/t/the_captain.md) | 97 | 4.44 | 614 |
 | 320 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 96 | 4.75 | 126 |
@@ -464,7 +464,7 @@
 | 460 | [Fez](games/f/fez.md) | 23 | 4.71 | 178 |
 | 460 | [RUINER](games/r/ruiner.md) | 23 | 4.53 | 485 |
 | 460 | [Weird West](games/w/weird_west.md) | 23 | 4.45 | 596 |
-| 465 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.27 | 764 |
+| 465 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.27 | 763 |
 | 465 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 22 | 4.43 | 629 |
 | 465 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.20 | 797 |
 | 465 | [MotoGP™21](games/m/motogp™21.md) | 22 | 4.58 | 406 |
