@@ -78,7 +78,7 @@
 | 69 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.81 | 32 | 428 |
 | 69 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 26 | 453 |
 | 69 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 0 | 484 |
-| 79 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 302 | 220 |
+| 79 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 303 | 220 |
 | 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,227 | 50 |
 | 79 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 158 | 276 |
 | 79 | [Journey](games/j/journey.md) | 4.80 | 0 | 484 |
@@ -99,12 +99,12 @@
 | 91 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 363 | 204 |
 | 91 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 116 | 298 |
 | 91 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 484 |
-| 100 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,539 | 65 |
-| 100 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,662 | 36 |
-| 100 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 17,602 | 19 |
-| 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 903 | 140 |
-| 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 141 | 283 |
-| 100 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 97 | 318 |
+| 91 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 903 | 140 |
+| 101 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,539 | 65 |
+| 101 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,662 | 36 |
+| 101 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 17,602 | 19 |
+| 101 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 141 | 283 |
+| 101 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 97 | 318 |
 | 106 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,876 | 74 |
 | 106 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.77 | 0 | 484 |
 | 106 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 35 | 419 |
@@ -369,7 +369,7 @@
 | 349 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 586 | 163 |
 | 349 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 402 | 192 |
 | 349 | [Road 96](games/r/road_96.md) | 4.61 | 0 | 484 |
-| 349 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,057 | 127 |
+| 349 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,057 | 128 |
 | 349 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 266 | 231 |
 | 349 | [Supraland](games/s/supraland.md) | 4.61 | 7,597 | 39 |
 | 349 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 61 | 368 |
@@ -434,7 +434,7 @@
 | 422 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,134 | 42 |
 | 422 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,005 | 85 |
 | 422 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 116 | 298 |
-| 422 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 17,786 | 18 |
+| 422 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 17,804 | 18 |
 | 422 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,682 | 108 |
 | 422 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.57 | 0 | 484 |
 | 422 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 0 | 484 |
@@ -503,14 +503,14 @@
 | 498 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 98 | 317 |
 | 498 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 147 | 280 |
 | 498 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 182 | 261 |
-| 498 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,054 | 128 |
+| 498 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,058 | 127 |
 | 498 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 484 |
 | 498 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 484 |
 | 498 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 142 | 281 |
 | 498 | [UnMetal](games/u/unmetal.md) | 4.52 | 0 | 484 |
 | 509 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,544 | 110 |
 | 509 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 91 | 329 |
-| 509 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,054 | 71 |
+| 509 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,059 | 71 |
 | 509 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.51 | 38 | 409 |
 | 509 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 21 | 471 |
 | 509 | [First Class Trouble](games/f/first_class_trouble.md) | 4.51 | 77 | 341 |

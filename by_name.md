@@ -85,7 +85,7 @@
 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 670 | 0 | 484 |
 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 235 | 69 | 355 |
 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 723 | 113 | 301 |
-| [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 509 | 4,054 | 71 |
+| [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 509 | 4,059 | 71 |
 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 190 | 4,482 | 67 |
 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 313 | 5,877 | 54 |
 | [Black Book](games/b/black_book.md) | 4.87 | 24 | 21 | 471 |
@@ -179,7 +179,7 @@
 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 18 | 247 | 234 |
 | [Dead Space](games/d/dead_space.md) | 4.75 | 126 | 34 | 422 |
 | [Death Coming](games/d/death_coming.md) | 4.42 | 636 | 0 | 484 |
-| [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 100 | 4,539 | 65 |
+| [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 101 | 4,539 | 65 |
 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 12 | 6,720 | 44 |
 | [Death's Door](games/d/death's_door.md) | 4.66 | 272 | 0 | 484 |
 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 474 | 33 | 426 |
@@ -204,7 +204,7 @@
 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 691 | 0 | 484 |
 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 28 | 683 | 154 |
 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 142 | 485 | 182 |
-| [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 79 | 302 | 220 |
+| [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 79 | 303 | 220 |
 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 629 | 22 | 465 |
 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 112 | 814 | 144 |
 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 699 | 46 | 387 |
@@ -340,9 +340,9 @@
 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.84 | 48 | 0 | 484 |
 | [High On Life](games/h/high_on_life.md) | 4.68 | 235 | 0 | 484 |
 | [HITMAN](games/h/hitman.md) | 4.64 | 313 | 195 | 255 |
-| [HITMAN 3](games/h/hitman_3.md) | 4.78 | 100 | 8,662 | 36 |
+| [HITMAN 3](games/h/hitman_3.md) | 4.78 | 101 | 8,662 | 36 |
 | [Hob](games/h/hob.md) | 4.57 | 422 | 0 | 484 |
-| [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 100 | 17,602 | 19 |
+| [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 101 | 17,602 | 19 |
 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 541 | 2,171 | 97 |
 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 869 | 367 | 203 |
 | [Horace](games/h/horace.md) | 4.50 | 525 | 0 | 484 |
@@ -442,7 +442,7 @@
 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 525 | 0 | 484 |
 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.03 | 864 | 0 | 484 |
 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 155 | 543 | 173 |
-| [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 498 | 1,054 | 128 |
+| [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 498 | 1,058 | 127 |
 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 24 | 11,295 | 31 |
 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 91 | 983 | 135 |
 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 349 | 1,061 | 126 |
@@ -587,7 +587,7 @@
 | [Road 96](games/r/road_96.md) | 4.61 | 349 | 0 | 484 |
 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 509 | 385,474 | 2 |
 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 715 | 4,802 | 62 |
-| [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 349 | 1,057 | 127 |
+| [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 349 | 1,057 | 128 |
 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 36 | 215 | 244 |
 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 286 | 0 | 484 |
 | [Roguebook](games/r/roguebook.md) | 4.60 | 375 | 0 | 484 |
@@ -652,7 +652,7 @@
 | [Somerville](games/s/somerville.md) | 4.20 | 797 | 0 | 484 |
 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 212 | 27 | 446 |
 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 646 | 72 | 350 |
-| [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 100 | 903 | 140 |
+| [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 91 | 903 | 140 |
 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 422 | 116 | 298 |
 | [Souldiers](games/s/souldiers.md) | 4.54 | 474 | 0 | 484 |
 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 36 | 100 | 315 |
@@ -691,7 +691,7 @@
 | [Submerged](games/s/submerged.md) | 4.09 | 850 | 0 | 484 |
 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 775 | 45 | 391 |
 | [Subnautica](games/s/subnautica.md) | 4.84 | 48 | 644 | 158 |
-| [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 100 | 141 | 283 |
+| [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 101 | 141 | 283 |
 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 190 | 0 | 484 |
 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 389 | 74 | 345 |
 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 406 | 202 | 251 |
@@ -701,7 +701,7 @@
 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.69 | 212 | 0 | 484 |
 | [Superliminal](games/s/superliminal.md) | 4.80 | 79 | 0 | 484 |
 | [Supraland](games/s/supraland.md) | 4.61 | 349 | 7,597 | 39 |
-| [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 100 | 97 | 318 |
+| [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 101 | 97 | 318 |
 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 571 | 0 | 484 |
 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 375 | 429 | 187 |
 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 571 | 96 | 320 |
@@ -793,7 +793,7 @@
 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 349 | 61 | 368 |
 | [Timberborn](games/t/timberborn.md) | 4.72 | 165 | 113 | 301 |
 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 584 | 276 | 224 |
-| [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 422 | 17,786 | 18 |
+| [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 422 | 17,804 | 18 |
 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 235 | 83 | 337 |
 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 732 | 0 | 484 |
 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 406 | 168 | 270 |

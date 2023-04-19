@@ -1,13 +1,13 @@
 # Marvel's Midnight Suns
 Rating: 4.52 (Ranked 498)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 1,054  (Ranked 128)  
-Sum: 2,179 (Ranked 174)  
-Diff (max vs sum): -46
+Max (Character Customization): 1,058  (Ranked 127)  
+Sum: 2,183 (Ranked 174)  
+Diff (max vs sum): -47
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 1,054 |
+| This game has Inclusive Character Customization | 1,058 |
 | This game is Highly Recommended | 144 |
 | This game has Quickly Understood Controls | 141 |
 | This game is Relaxing | 135 |
@@ -81,4 +81,4 @@ Diff (max vs sum): -46
 | 2023-04-16 | 4.53 | 1,047 | 2,155 |
 | 2023-04-17 | 4.52 | 1,047 | 2,168 |
 | 2023-04-18 | 4.52 | 1,054 | 2,178 |
-| 2023-04-19 | 4.52 | 1,054 | 2,179 |
+| 2023-04-19 | 4.52 | 1,058 | 2,183 |

@@ -1,5 +1,5 @@
 # DEATH STRANDING
-Rating: 4.78 (Ranked 100)  
+Rating: 4.78 (Ranked 101)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 4,539  (Ranked 65)  
 Sum: 6,186 (Ranked 112)  
