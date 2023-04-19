@@ -1,14 +1,14 @@
 # Ticket to Ride
-Rating: 4.61 (Ranked 349)  
+Rating: 4.61 (Ranked 350)  
 Number of Ratings: 167  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Quick Sessions): 61  (Ranked 368)  
-Sum: 322 (Ranked 313)  
-Diff (max vs sum): 55
+Max (Great for Quick Sessions): 62  (Ranked 367)  
+Sum: 323 (Ranked 313)  
+Diff (max vs sum): 54
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 61 |
+| This game is Great for Quick Sessions | 62 |
 | This game is Relaxing | 42 |
 | This game is Great for Beginners | 42 |
 | This game has Competitive Players | 41 |
@@ -89,3 +89,4 @@ Diff (max vs sum): 55
 | 2022-12-23 | 4.61 | - | - | - |
 | 2023-04-05 | 4.61 | - | 61 | 321 |
 | 2023-04-11 | 4.61 | - | 61 | 322 |
+| 2023-04-19 | 4.61 | - | 62 | 323 |
