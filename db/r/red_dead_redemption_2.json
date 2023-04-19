@@ -6,11 +6,11 @@
   "Ranking_Popularity": 7,
   "Ranking_PopularitySum": 8,
   "NumberOfRatings": 102658,
-  "NumberOfAwards": 340967,
-  "NumberOfAwardsMax": 134499,
+  "NumberOfAwards": 341116,
+  "NumberOfAwardsMax": 134501,
   "MaxAwardTitle": "Impact the Story",
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-04-19T20:00:33.2985724+00:00",
+  "LastChanged": "2023-04-19T20:58:11.3231858+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:15.0342453+00:00",
@@ -4656,6 +4656,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 340967,
       "NumberOfAwardsMax": 134499
+    },
+    {
+      "Time": "2023-04-19T20:58:11.323186+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 341116,
+      "NumberOfAwardsMax": 134501
     }
   ],
   "Tags": [
@@ -4663,25 +4669,25 @@
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 134499
+      "Count": 134501
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 73451
+      "Count": 73452
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 12485
+      "Count": 12507
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 12391
+      "Count": 12399
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4699,7 +4705,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 11903
+      "Count": 11924
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4711,19 +4717,19 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 12526
+      "Count": 12547
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 12890
+      "Count": 12926
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 12540
+      "Count": 12561
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4741,7 +4747,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 9069
+      "Count": 9086
     }
   ]
 }

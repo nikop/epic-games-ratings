@@ -2,15 +2,15 @@
   "ID": "2c42520d342a46d7a6e0cfa77b4715de",
   "Name": "Dying Light Enhanced Edition",
   "Rating": 4.56,
-  "Ranking_Rating": 439,
+  "Ranking_Rating": 440,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 32,
   "NumberOfRatings": 3181,
-  "NumberOfAwards": 34195,
-  "NumberOfAwardsMax": 19311,
+  "NumberOfAwards": 34323,
+  "NumberOfAwardsMax": 19316,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:18:05.0678131+00:00",
-  "LastChanged": "2023-04-19T19:57:37.4348376+00:00",
+  "LastChanged": "2023-04-19T20:57:28.8971348+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:05.0678134+00:00",
@@ -3213,6 +3213,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 34195,
       "NumberOfAwardsMax": 19311
+    },
+    {
+      "Time": "2023-04-19T20:57:28.897135+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 34323,
+      "NumberOfAwardsMax": 19316
     }
   ],
   "Tags": [
@@ -3220,31 +3226,31 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 19311
+      "Count": 19316
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 7427
+      "Count": 7431
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1028
+      "Count": 1047
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 918
+      "Count": 940
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 886
+      "Count": 902
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3262,7 +3268,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 826
+      "Count": 850
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3280,7 +3286,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 800
+      "Count": 817
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3292,7 +3298,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 624
+      "Count": 645
     }
   ]
 }

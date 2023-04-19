@@ -5,12 +5,12 @@
   "Ranking_Rating": 784,
   "Ranking_Popularity": 38,
   "Ranking_PopularitySum": 28,
-  "NumberOfAwards": 36582,
-  "NumberOfAwardsMax": 7735,
+  "NumberOfAwards": 36786,
+  "NumberOfAwardsMax": 7793,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-09-30T07:01:34.8859438+00:00",
   "FirstSeenRating": "2022-10-06T07:01:15.4932538+00:00",
-  "LastChanged": "2023-04-19T19:58:40.9703101+00:00",
+  "LastChanged": "2023-04-19T20:57:43.8312329+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-06T07:01:15.4932542+00:00",
@@ -1255,6 +1255,12 @@
       "Rating": 4.23,
       "NumberOfAwards": 36582,
       "NumberOfAwardsMax": 7735
+    },
+    {
+      "Time": "2023-04-19T20:57:43.8312331+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 36786,
+      "NumberOfAwardsMax": 7793
     }
   ],
   "Tags": [
@@ -1262,31 +1268,31 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 7735
+      "Count": 7793
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 5123
+      "Count": 5182
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4336
+      "Count": 4378
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4668
+      "Count": 4679
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 4681
+      "Count": 4691
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1298,13 +1304,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 4378
+      "Count": 4395
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 5661
+      "Count": 5668
     }
   ]
 }

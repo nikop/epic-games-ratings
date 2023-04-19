@@ -6,11 +6,11 @@
   "Ranking_Popularity": 96,
   "Ranking_PopularitySum": 60,
   "NumberOfRatings": 15671,
-  "NumberOfAwards": 14472,
-  "NumberOfAwardsMax": 2196,
+  "NumberOfAwards": 14478,
+  "NumberOfAwardsMax": 2198,
   "MaxAwardTitle": "Competitive Players",
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "LastChanged": "2023-04-19T18:57:06.3869391+00:00",
+  "LastChanged": "2023-04-19T20:57:36.4694842+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:03.6642348+00:00",
@@ -3698,6 +3698,12 @@
       "Rating": 4.1,
       "NumberOfAwards": 14472,
       "NumberOfAwardsMax": 2196
+    },
+    {
+      "Time": "2023-04-19T20:57:36.4694844+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 14478,
+      "NumberOfAwardsMax": 2198
     }
   ],
   "Tags": [
@@ -3705,7 +3711,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 2196
+      "Count": 2198
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3729,13 +3735,13 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 2185
+      "Count": 2188
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 1760
+      "Count": 1761
     },
     {
       "Text": "This game has Amazing Storytelling",

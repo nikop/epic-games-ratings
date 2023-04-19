@@ -6,12 +6,12 @@
   "Ranking_Popularity": 12,
   "Ranking_PopularitySum": 16,
   "NumberOfRatings": 32207,
-  "NumberOfAwards": 79481,
+  "NumberOfAwards": 79517,
   "NumberOfAwardsMax": 33006,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-08-23T20:00:58.6908762+00:00",
   "FirstSeenRating": "2022-08-24T03:30:20.9735605+00:00",
-  "LastChanged": "2023-04-19T17:56:58.9137152+00:00",
+  "LastChanged": "2023-04-19T20:57:24.3237587+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-24T03:30:20.973561+00:00",
@@ -2666,6 +2666,12 @@
       "Rating": 4.5,
       "NumberOfAwards": 79481,
       "NumberOfAwardsMax": 33006
+    },
+    {
+      "Time": "2023-04-19T20:57:24.323759+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 79517,
+      "NumberOfAwardsMax": 33006
     }
   ],
   "Tags": [
@@ -2703,25 +2709,25 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 6365
+      "Count": 6375
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 5567
+      "Count": 5577
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 5795
+      "Count": 5810
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 5554
+      "Count": 5555
     },
     {
       "Text": "This game has Obsessive Gameplay",

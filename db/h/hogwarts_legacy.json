@@ -5,12 +5,12 @@
   "Ranking_Rating": 101,
   "Ranking_Popularity": 19,
   "Ranking_PopularitySum": 34,
-  "NumberOfAwards": 31720,
-  "NumberOfAwardsMax": 17666,
+  "NumberOfAwards": 31739,
+  "NumberOfAwardsMax": 17668,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
-  "LastChanged": "2023-04-19T19:57:43.3405883+00:00",
+  "LastChanged": "2023-04-19T20:57:30.2765634+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-10T20:57:09.6904581+00:00",
@@ -1067,6 +1067,12 @@
       "Rating": 4.78,
       "NumberOfAwards": 31720,
       "NumberOfAwardsMax": 17666
+    },
+    {
+      "Time": "2023-04-19T20:57:30.2765636+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 31739,
+      "NumberOfAwardsMax": 17668
     }
   ],
   "Tags": [
@@ -1074,25 +1080,25 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 17666
+      "Count": 17668
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 8080
+      "Count": 8089
     },
     {
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 535
+      "Count": 537
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 622
+      "Count": 628
     },
     {
       "Text": "This game is Great for Beginners",
