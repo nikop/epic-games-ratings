@@ -3,14 +3,14 @@
   "Name": "Days Gone",
   "Rating": 4.69,
   "Ranking_Rating": 212,
-  "Ranking_Popularity": 76,
+  "Ranking_Popularity": 75,
   "Ranking_PopularitySum": 107,
   "NumberOfRatings": 3949,
-  "NumberOfAwards": 6594,
-  "NumberOfAwardsMax": 3719,
+  "NumberOfAwards": 6596,
+  "NumberOfAwardsMax": 3721,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:29:37.7111961+00:00",
-  "LastChanged": "2023-04-17T20:58:21.6706492+00:00",
+  "LastChanged": "2023-04-19T13:58:45.4553523+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:37.7111964+00:00",
@@ -2216,6 +2216,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 6594,
       "NumberOfAwardsMax": 3719
+    },
+    {
+      "Time": "2023-04-19T13:58:45.4553526+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 6596,
+      "NumberOfAwardsMax": 3721
     }
   ],
   "Tags": [
@@ -2223,7 +2229,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3719
+      "Count": 3721
     },
     {
       "Text": "This game has Amazing Storytelling",
