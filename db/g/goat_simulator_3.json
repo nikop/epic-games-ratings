@@ -5,12 +5,12 @@
   "Ranking_Rating": 36,
   "Ranking_Popularity": 222,
   "Ranking_PopularitySum": 163,
-  "NumberOfAwards": 2498,
+  "NumberOfAwards": 2499,
   "NumberOfAwardsMax": 292,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
-  "LastChanged": "2023-04-19T17:57:23.8668419+00:00",
+  "LastChanged": "2023-04-19T18:57:24.7229034+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-17T20:57:24.0090353+00:00",
@@ -639,6 +639,12 @@
       "Rating": 4.85,
       "NumberOfAwards": 2498,
       "NumberOfAwardsMax": 292
+    },
+    {
+      "Time": "2023-04-19T18:57:24.7229034+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2499,
+      "NumberOfAwardsMax": 292
     }
   ],
   "Tags": [
@@ -664,7 +670,7 @@
       "Text": "This game has a Silly Community",
       "Prefix": "This game has a",
       "Type": "Silly Community",
-      "Count": 216
+      "Count": 217
     },
     {
       "Text": "This game is Great for Beginners",

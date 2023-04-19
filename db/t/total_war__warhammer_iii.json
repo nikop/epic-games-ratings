@@ -3,14 +3,14 @@
   "Name": "Total War: WARHAMMER III",
   "Rating": 4.68,
   "Ranking_Rating": 235,
-  "Ranking_Popularity": 114,
+  "Ranking_Popularity": 113,
   "Ranking_PopularitySum": 121,
   "NumberOfRatings": 882,
-  "NumberOfAwards": 5108,
-  "NumberOfAwardsMax": 1429,
+  "NumberOfAwards": 5117,
+  "NumberOfAwardsMax": 1438,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:20:31.8340221+00:00",
-  "LastChanged": "2023-04-19T14:57:14.3739565+00:00",
+  "LastChanged": "2023-04-19T18:57:11.1219719+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:31.8340223+00:00",
@@ -2075,6 +2075,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 5108,
       "NumberOfAwardsMax": 1429
+    },
+    {
+      "Time": "2023-04-19T18:57:11.1219721+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 5117,
+      "NumberOfAwardsMax": 1438
     }
   ],
   "Tags": [
@@ -2082,7 +2088,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1429
+      "Count": 1438
     },
     {
       "Text": "This game has Diverse Characters",

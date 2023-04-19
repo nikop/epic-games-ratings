@@ -1,9 +1,9 @@
 # The Settlers®: New Allies
 Rating: 3.72 (Ranked 899)  
 ## Popularity (Based on Awards)
-Max (Quickly Understood Controls): 43  (Ranked 401)  
+Max (Quickly Understood Controls): 43  (Ranked 402)  
 Sum: 123 (Ranked 383)  
-Diff (max vs sum): 18
+Diff (max vs sum): 19
 ## Awards
 | Award | Count |
 | ----- | ----- |
