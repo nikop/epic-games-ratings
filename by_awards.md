@@ -89,7 +89,7 @@
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 2,952 | 4.68 | 235 |
 | 88 | [Path of Exile](games/p/path_of_exile.md) | 2,427 | 4.61 | 349 |
 | 89 | [Rage 2](games/r/rage_2.md) | 2,419 | 4.28 | 759 |
-| 90 | [Trackmania](games/t/trackmania.md) | 2,400 | 4.67 | 256 |
+| 90 | [Trackmania](games/t/trackmania.md) | 2,407 | 4.67 | 256 |
 | 91 | [Among Us](games/a/among_us.md) | 2,364 | 4.58 | 406 |
 | 92 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,353 | 4.76 | 112 |
 | 93 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,331 | 4.80 | 79 |
@@ -104,7 +104,7 @@
 | 102 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,967 | 4.49 | 541 |
 | 103 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,861 | 4.65 | 286 |
 | 104 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,806 | 4.70 | 190 |
-| 105 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,785 | 4.90 | 7 |
+| 105 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,786 | 4.90 | 7 |
 | 106 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,762 | 4.56 | 439 |
 | 107 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,726 | 4.63 | 326 |
 | 108 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,682 | 4.57 | 422 |
@@ -180,8 +180,8 @@
 | 178 | [Godfall](games/g/godfall.md) | 504 | 4.06 | 858 |
 | 179 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 494 | 4.52 | 498 |
 | 180 | [Terraforming Mars](games/t/terraforming_mars.md) | 490 | 4.54 | 474 |
+| 181 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 489 | 4.74 | 142 |
 | 181 | [FAR CRY 4](games/f/far_cry_4.md) | 489 | 4.66 | 272 |
-| 182 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 485 | 4.74 | 142 |
 | 183 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 474 | 4.82 | 60 |
 | 184 | [Unreal Tournament](games/u/unreal_tournament.md) | 457 | 4.66 | 272 |
 | 185 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 451 | 4.86 | 28 |
@@ -258,7 +258,7 @@
 | 256 | [Relicta](games/r/relicta.md) | 192 | 4.15 | 829 |
 | 257 | [Hello Neighbor](games/h/hello_neighbor.md) | 191 | 4.54 | 474 |
 | 258 | [Crashlands](games/c/crashlands.md) | 187 | 4.66 | 272 |
-| 259 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 186 | 4.80 | 79 |
+| 258 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 187 | 4.80 | 79 |
 | 260 | [Unrailed!](games/u/unrailed!.md) | 183 | 4.64 | 313 |
 | 261 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 182 | 4.52 | 498 |
 | 262 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 179 | 4.08 | 852 |

@@ -6,11 +6,11 @@
   "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 52,
   "NumberOfRatings": 6825,
-  "NumberOfAwards": 20644,
-  "NumberOfAwardsMax": 2400,
+  "NumberOfAwards": 20651,
+  "NumberOfAwardsMax": 2407,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-04-18T22:58:03.2565446+00:00",
+  "LastChanged": "2023-04-19T08:57:54.3109118+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:57.8589287+00:00",
@@ -3733,6 +3733,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 20644,
       "NumberOfAwardsMax": 2400
+    },
+    {
+      "Time": "2023-04-19T08:57:54.3109119+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 20651,
+      "NumberOfAwardsMax": 2407
     }
   ],
   "Tags": [
@@ -3752,7 +3758,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 2400
+      "Count": 2407
     },
     {
       "Text": "This game is Extremely Fun",

@@ -203,7 +203,7 @@
 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.47 | 571 | 0 | 484 |
 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 691 | 0 | 484 |
 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 28 | 683 | 154 |
-| [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 142 | 485 | 182 |
+| [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 142 | 489 | 181 |
 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 79 | 303 | 220 |
 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 629 | 22 | 465 |
 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 112 | 814 | 145 |
@@ -558,7 +558,7 @@
 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 614 | 45 | 391 |
 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 525 | 0 | 484 |
 | [Rayman Origins](games/r/rayman_origins.md) | 4.81 | 69 | 0 | 484 |
-| [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 79 | 186 | 259 |
+| [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 79 | 187 | 258 |
 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 752 | 125 | 291 |
 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.10 | 844 | 0 | 484 |
 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 498 | 0 | 484 |
@@ -720,7 +720,7 @@
 | [Tharsis](games/t/tharsis.md) | 4.05 | 860 | 0 | 484 |
 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 190 | 44 | 397 |
 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.64 | 313 | 0 | 484 |
-| [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 7 | 1,785 | 105 |
+| [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 7 | 1,786 | 105 |
 | [The Bridge](games/t/the_bridge.md) | 4.20 | 796 | 0 | 484 |
 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 614 | 0 | 484 |
 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 814 | 44 | 397 |
@@ -815,7 +815,7 @@
 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 256 | 0 | 484 |
 | [Townscaper](games/t/townscaper.md) | 4.71 | 178 | 0 | 484 |
 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 732 | 0 | 484 |
-| [Trackmania](games/t/trackmania.md) | 4.67 | 256 | 2,400 | 90 |
+| [Trackmania](games/t/trackmania.md) | 4.67 | 256 | 2,407 | 90 |
 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 69 | 0 | 484 |
 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 869 | 0 | 484 |
 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 637 | 532 | 175 |

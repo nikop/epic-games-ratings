@@ -9,7 +9,7 @@
 | 7 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 0 | 484 |
 | 7 | [Mago](games/m/mago.md) | 4.90 | 0 | 484 |
 | 7 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 484 |
-| 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,785 | 105 |
+| 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,786 | 105 |
 | 7 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 484 |
 | 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,720 | 44 |
 | 12 | [Firework](games/f/firework.md) | 4.89 | 0 | 484 |
@@ -83,7 +83,7 @@
 | 79 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 158 | 276 |
 | 79 | [Journey](games/j/journey.md) | 4.80 | 0 | 484 |
 | 79 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,331 | 93 |
-| 79 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 186 | 259 |
+| 79 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 187 | 258 |
 | 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 100 | 315 |
 | 79 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 484 |
 | 79 | [Superliminal](games/s/superliminal.md) | 4.80 | 0 | 484 |
@@ -144,7 +144,7 @@
 | 142 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 398 | 194 |
 | 142 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 484 |
 | 142 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.74 | 0 | 484 |
-| 142 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 485 | 182 |
+| 142 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 489 | 181 |
 | 142 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 765 | 146 |
 | 142 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 576 | 164 |
 | 142 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,404 | 49 |
@@ -268,7 +268,7 @@
 | 256 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 484 |
 | 256 | [The Machines Arena](games/t/the_machines_arena.md) | 4.67 | 0 | 484 |
 | 256 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 484 |
-| 256 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,400 | 90 |
+| 256 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,407 | 90 |
 | 256 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 102 | 313 |
 | 256 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 21 | 471 |
 | 272 | [Crashlands](games/c/crashlands.md) | 4.66 | 187 | 258 |
