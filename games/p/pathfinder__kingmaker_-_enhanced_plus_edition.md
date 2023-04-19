@@ -2,13 +2,13 @@
 Rating: 4.57 (Ranked 422)  
 Number of Ratings: 3,868  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 3,000  (Ranked 85)  
-Sum: 8,016 (Ranked 88)  
+Max (Character Customization): 3,005  (Ranked 85)  
+Sum: 8,021 (Ranked 88)  
 Diff (max vs sum): -3
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 3,000 |
+| This game has Inclusive Character Customization | 3,005 |
 | This game has Great Boss Battles | 1,999 |
 | This game is Extremely Fun | 367 |
 | This game has Diverse Characters | 367 |
@@ -119,3 +119,4 @@ Diff (max vs sum): -3
 | 2023-04-16 | 4.57 | - | 2,997 | 8,009 |
 | 2023-04-17 | 4.57 | - | 3,000 | 8,015 |
 | 2023-04-18 | 4.57 | - | 3,000 | 8,016 |
+| 2023-04-19 | 4.57 | - | 3,005 | 8,021 |

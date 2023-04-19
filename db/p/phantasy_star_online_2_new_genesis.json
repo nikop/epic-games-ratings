@@ -3,14 +3,14 @@
   "Name": "Phantasy Star Online 2 New Genesis",
   "Rating": 4.55,
   "Ranking_Rating": 463,
-  "Ranking_Popularity": 144,
+  "Ranking_Popularity": 145,
   "Ranking_PopularitySum": 140,
   "NumberOfRatings": 692,
-  "NumberOfAwards": 3491,
+  "NumberOfAwards": 3493,
   "NumberOfAwardsMax": 812,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
-  "LastChanged": "2023-04-18T23:56:58.5012779+00:00",
+  "LastChanged": "2023-04-19T01:58:31.2787504+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:27.1466756+00:00",
@@ -1369,6 +1369,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 3491,
       "NumberOfAwardsMax": 812
+    },
+    {
+      "Time": "2023-04-19T01:58:31.2787507+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 3493,
+      "NumberOfAwardsMax": 812
     }
   ],
   "Tags": [
@@ -1382,7 +1388,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 625
+      "Count": 627
     },
     {
       "Text": "This game is Highly Recommended",

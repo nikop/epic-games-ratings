@@ -1,5 +1,5 @@
 # Mount & Blade II: Bannerlord
-Rating: 4.74 (Ranked 141)  
+Rating: 4.74 (Ranked 142)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 6,404  (Ranked 49)  

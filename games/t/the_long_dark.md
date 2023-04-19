@@ -1,9 +1,9 @@
 # The Long Dark
-Rating: 4.74 (Ranked 141)  
+Rating: 4.74 (Ranked 142)  
 Number of Ratings: 4,814  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 741  (Ranked 149)  
-Sum: 4,461 (Ranked 127)  
+Sum: 4,463 (Ranked 127)  
 Diff (max vs sum): 22
 ## Awards
 | Award | Count |
@@ -13,7 +13,7 @@ Diff (max vs sum): 22
 | This game is Extremely Fun | 678 |
 | This game has Quickly Understood Controls | 674 |
 | This game has Amazing Characters | 623 |
-| This game has Amazing Storytelling | 602 |
+| This game has Amazing Storytelling | 604 |
 | This game has a Creative Community | 463 |
 | This game has Obsessive Gameplay | 359 |
 ## Ratings History
@@ -104,3 +104,4 @@ Diff (max vs sum): 22
 | 2023-04-16 | 4.74 | - | 739 | 4,455 |
 | 2023-04-17 | 4.74 | - | 741 | 4,457 |
 | 2023-04-18 | 4.74 | - | 741 | 4,461 |
+| 2023-04-19 | 4.74 | - | 741 | 4,463 |

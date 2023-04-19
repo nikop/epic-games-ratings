@@ -6,11 +6,11 @@
   "Ranking_Popularity": 60,
   "Ranking_PopularitySum": 25,
   "NumberOfRatings": 8414,
-  "NumberOfAwards": 41634,
-  "NumberOfAwardsMax": 5017,
+  "NumberOfAwards": 41651,
+  "NumberOfAwardsMax": 5034,
   "MaxAwardTitle": "Educational",
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
-  "LastChanged": "2023-04-18T18:57:13.7859064+00:00",
+  "LastChanged": "2023-04-19T01:58:28.1963604+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:24.709272+00:00",
@@ -3740,6 +3740,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 41634,
       "NumberOfAwardsMax": 5017
+    },
+    {
+      "Time": "2023-04-19T01:58:28.1963607+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 41651,
+      "NumberOfAwardsMax": 5034
     }
   ],
   "Tags": [
@@ -3771,7 +3777,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 5017
+      "Count": 5034
     },
     {
       "Text": "This game has Obsessive Gameplay",

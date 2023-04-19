@@ -3,15 +3,14 @@
   "Name": "Ghost Recon Future Soldier: Ultimate Edition",
   "Rating": 4.57,
   "Ranking_Rating": 422,
-  "Ranking_Popularity": 457,
-  "Ranking_PopularitySum": 462,
+  "Ranking_Popularity": 484,
+  "Ranking_PopularitySum": 484,
   "NumberOfRatings": 23,
-  "NumberOfAwards": 25,
-  "NumberOfAwardsMax": 25,
-  "MaxAwardTitle": "Great Boss Battles",
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:29:47.3812032+00:00",
   "FirstSeenRating": "2022-09-10T00:02:01.006784+00:00",
-  "LastChanged": "2023-04-16T05:58:33.2195005+00:00",
+  "LastChanged": "2023-04-19T02:00:02.6993874+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-10T00:02:01.0067842+00:00",
@@ -184,6 +183,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 25,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2023-04-19T02:00:02.6993875+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "Tags": [
