@@ -1,5 +1,5 @@
 # Cities: Skylines
-Rating: 4.65 (Ranked 286)  
+Rating: 4.65 (Ranked 287)  
 Number of Ratings: 25,248  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 4,300  (Ranked 68)  

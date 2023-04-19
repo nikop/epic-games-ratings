@@ -2,8 +2,8 @@
 Rating: 4.54 (Ranked 474)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 86  (Ranked 333)  
-Sum: 640 (Ranked 267)  
-Diff (max vs sum): 66
+Sum: 640 (Ranked 268)  
+Diff (max vs sum): 65
 ## Awards
 | Award | Count |
 | ----- | ----- |

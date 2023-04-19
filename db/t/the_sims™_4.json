@@ -4,13 +4,13 @@
   "Rating": 4.59,
   "Ranking_Rating": 389,
   "Ranking_Popularity": 324,
-  "Ranking_PopularitySum": 270,
-  "NumberOfAwards": 636,
+  "Ranking_PopularitySum": 267,
+  "NumberOfAwards": 642,
   "NumberOfAwardsMax": 94,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-04-19T02:57:00.8120568+00:00",
+  "LastChanged": "2023-04-19T10:57:24.2909559+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-05T14:56:53.5654686+00:00",
@@ -789,6 +789,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 636,
       "NumberOfAwardsMax": 94
+    },
+    {
+      "Time": "2023-04-19T10:57:24.2909561+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 642,
+      "NumberOfAwardsMax": 94
     }
   ],
   "Tags": [
@@ -856,7 +862,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 39
+      "Count": 45
     }
   ]
 }
