@@ -242,7 +242,7 @@
 | 235 | [Card Shark](games/c/card_shark.md) | 4.68 | 0 | 484 |
 | 235 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 484 |
 | 235 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,034 | 60 |
-| 235 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 287,333 | 3 |
+| 235 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 287,626 | 3 |
 | 235 | [High On Life](games/h/high_on_life.md) | 4.68 | 0 | 484 |
 | 235 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 484 |
 | 235 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 410 | 189 |
@@ -371,7 +371,7 @@
 | 349 | [Road 96](games/r/road_96.md) | 4.61 | 0 | 484 |
 | 349 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,057 | 128 |
 | 349 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 266 | 231 |
-| 349 | [Supraland](games/s/supraland.md) | 4.61 | 7,597 | 39 |
+| 349 | [Supraland](games/s/supraland.md) | 4.61 | 7,598 | 39 |
 | 349 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 61 | 368 |
 | 349 | [Warframe](games/w/warframe.md) | 4.61 | 14,118 | 22 |
 | 375 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,393 | 30 |
@@ -576,25 +576,25 @@
 | 571 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.47 | 0 | 484 |
 | 571 | [Duskers](games/d/duskers.md) | 4.47 | 0 | 484 |
 | 571 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,428 | 79 |
-| 571 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.47 | 0 | 484 |
 | 571 | [Riverbond](games/r/riverbond.md) | 4.47 | 0 | 484 |
 | 571 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 0 | 484 |
 | 571 | [Scorn](games/s/scorn.md) | 4.47 | 0 | 484 |
 | 571 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 0 | 484 |
 | 571 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 96 | 320 |
 | 571 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 484 |
-| 584 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 484 |
-| 584 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 0 | 484 |
-| 584 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,210 | 82 |
-| 584 | [Figment](games/f/figment.md) | 4.46 | 20 | 477 |
-| 584 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 105 | 308 |
-| 584 | [Redout 2](games/r/redout_2.md) | 4.46 | 0 | 484 |
-| 584 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 484 |
-| 584 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.46 | 0 | 484 |
-| 584 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 6,464 | 46 |
-| 584 | [The Surge](games/t/the_surge.md) | 4.46 | 26 | 453 |
-| 584 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 276 | 224 |
-| 584 | [WRC Generations](games/w/wrc_generations.md) | 4.46 | 0 | 484 |
+| 583 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 484 |
+| 583 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 0 | 484 |
+| 583 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,210 | 82 |
+| 583 | [Figment](games/f/figment.md) | 4.46 | 20 | 477 |
+| 583 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 105 | 308 |
+| 583 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.46 | 0 | 484 |
+| 583 | [Redout 2](games/r/redout_2.md) | 4.46 | 0 | 484 |
+| 583 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 484 |
+| 583 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.46 | 0 | 484 |
+| 583 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 6,464 | 46 |
+| 583 | [The Surge](games/t/the_surge.md) | 4.46 | 26 | 453 |
+| 583 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 276 | 224 |
+| 583 | [WRC Generations](games/w/wrc_generations.md) | 4.46 | 0 | 484 |
 | 596 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 0 | 484 |
 | 596 | [ATOM RPG](games/a/atom_rpg.md) | 4.45 | 46 | 387 |
 | 596 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.45 | 0 | 484 |
@@ -881,12 +881,12 @@
 | 879 | [Patron](games/p/patron.md) | 3.94 | 0 | 484 |
 | 880 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 0 | 484 |
 | 881 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 442 |
-| 881 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.92 | 142 | 281 |
 | 881 | [Ironcast](games/i/ironcast.md) | 3.92 | 0 | 484 |
 | 881 | [Warface](games/w/warface.md) | 3.92 | 379 | 200 |
-| 885 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 0 | 484 |
-| 885 | [Conarium](games/c/conarium.md) | 3.91 | 0 | 484 |
-| 885 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 311 |
+| 884 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 0 | 484 |
+| 884 | [Conarium](games/c/conarium.md) | 3.91 | 0 | 484 |
+| 884 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.91 | 142 | 281 |
+| 884 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 311 |
 | 888 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.88 | 0 | 484 |
 | 889 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.87 | 0 | 484 |
 | 890 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 484 |
