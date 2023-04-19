@@ -209,7 +209,7 @@
 | 190 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 57 | 373 |
 | 190 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 0 | 484 |
 | 190 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 484 |
-| 190 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,188 | 69 |
+| 190 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,191 | 69 |
 | 190 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 36 | 414 |
 | 212 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 107,525 | 8 |
 | 212 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,719 | 76 |
@@ -218,7 +218,7 @@
 | 212 | [GNOG](games/g/gnog.md) | 4.69 | 0 | 484 |
 | 212 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 158,975 | 5 |
 | 212 | [INSIDE](games/i/inside.md) | 4.69 | 0 | 484 |
-| 212 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,168 | 121 |
+| 212 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,168 | 122 |
 | 212 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 484 |
 | 212 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 484 |
 | 212 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,165 | 32 |
@@ -335,7 +335,7 @@
 | 326 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 0 | 484 |
 | 334 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 61,952 | 9 |
 | 334 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 272 | 226 |
-| 334 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,166 | 122 |
+| 334 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,171 | 121 |
 | 334 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 527 | 176 |
 | 334 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 484 |
 | 334 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 575 | 166 |
@@ -351,7 +351,7 @@
 | 349 | [20XX](games/2/20xx.md) | 4.61 | 36 | 414 |
 | 349 | [ABZU](games/a/abzu.md) | 4.61 | 0 | 484 |
 | 349 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 127 | 289 |
-| 349 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 3,966 | 72 |
+| 349 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 3,969 | 72 |
 | 349 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 484 |
 | 349 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 209 | 249 |
 | 349 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 374 | 201 |
@@ -446,8 +446,8 @@
 | 439 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 50 | 378 |
 | 439 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 0 | 484 |
 | 439 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.56 | 34 | 422 |
-| 439 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.56 | 18,014 | 17 |
-| 439 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 716 | 152 |
+| 439 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.56 | 18,894 | 17 |
+| 439 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 717 | 152 |
 | 439 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 27 | 446 |
 | 439 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 0 | 484 |
 | 439 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 132 | 287 |
@@ -810,7 +810,7 @@
 | 807 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 0 | 484 |
 | 807 | [Flatout](games/f/flatout.md) | 4.19 | 0 | 484 |
 | 807 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.19 | 86 | 333 |
-| 807 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 180,260 | 4 |
+| 807 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 180,335 | 4 |
 | 807 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 484 |
 | 807 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 26 | 453 |
 | 814 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 0 | 484 |

@@ -3,14 +3,14 @@
   "Name": "Far Cry 5 Standard Edition",
   "Rating": 4.62,
   "Ranking_Rating": 334,
-  "Ranking_Popularity": 122,
-  "Ranking_PopularitySum": 195,
+  "Ranking_Popularity": 121,
+  "Ranking_PopularitySum": 194,
   "NumberOfRatings": 1848,
-  "NumberOfAwards": 1775,
-  "NumberOfAwardsMax": 1166,
+  "NumberOfAwards": 1780,
+  "NumberOfAwardsMax": 1171,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
-  "LastChanged": "2023-04-18T19:57:13.3904178+00:00",
+  "LastChanged": "2023-04-19T11:57:14.9036307+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:47.7430661+00:00",
@@ -1352,6 +1352,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 1775,
       "NumberOfAwardsMax": 1166
+    },
+    {
+      "Time": "2023-04-19T11:57:14.9036308+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1780,
+      "NumberOfAwardsMax": 1171
     }
   ],
   "Tags": [
@@ -1359,7 +1365,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1166
+      "Count": 1171
     },
     {
       "Text": "This game is Relaxing",
