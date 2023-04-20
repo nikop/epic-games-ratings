@@ -1,9 +1,9 @@
 # The Division 2 Standard Edition
-Rating: 4.47 (Ranked 570)  
+Rating: 4.46 (Ranked 583)  
 Number of Ratings: 6,675  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 6,475  (Ranked 46)  
-Sum: 20,741 (Ranked 52)  
+Sum: 20,743 (Ranked 52)  
 Diff (max vs sum): -6
 ## Awards
 | Award | Count |
@@ -13,7 +13,7 @@ Diff (max vs sum): -6
 | This game is Great for Beginners | 1,193 |
 | This game has Quickly Understood Controls | 1,073 |
 | This game has Amazing Storytelling | 1,072 |
-| This game has Diverse Characters | 1,065 |
+| This game has Diverse Characters | 1,067 |
 | This game is Relaxing | 1,061 |
 | This game is Extremely Fun | 1,057 |
 | This game is Highly Recommended | 1,047 |
@@ -120,4 +120,4 @@ Diff (max vs sum): -6
 | 2023-04-17 | 4.46 | - | 6,451 | 20,648 |
 | 2023-04-18 | 4.46 | - | 6,464 | 20,694 |
 | 2023-04-19 | 4.47 | - | 6,475 | 20,734 |
-| 2023-04-20 | 4.47 | - | 6,475 | 20,741 |
+| 2023-04-20 | 4.47 | - | 6,475 | 20,743 |

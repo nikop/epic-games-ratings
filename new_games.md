@@ -6,4 +6,3 @@
 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.91 | 884 | 153 | 278 |
 | [Chess Ultra](games/c/chess_ultra.md) | 4.27 | 763 | 0 | 484 |
 | [Deceive Inc.](games/d/deceive_inc..md) | 4.67 | 257 | 0 | 484 |
-| [Tchia](games/t/tchia.md) | 4.76 | 112 | 0 | 484 |

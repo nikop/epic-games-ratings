@@ -119,7 +119,7 @@
 | 112 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 39 | 406 |
 | 112 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 61 | 369 |
 | 112 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 484 |
-| 112 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,611 | 109 |
+| 112 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,612 | 109 |
 | 112 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 0 | 484 |
 | 112 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 0 | 484 |
 | 112 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 7,610 | 39 |
@@ -581,21 +581,21 @@
 | 570 | [Scorn](games/s/scorn.md) | 4.47 | 0 | 484 |
 | 570 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 0 | 484 |
 | 570 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 96 | 321 |
-| 570 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 6,475 | 46 |
 | 570 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 484 |
-| 584 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 484 |
-| 584 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 0 | 484 |
-| 584 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,215 | 81 |
-| 584 | [Figment](games/f/figment.md) | 4.46 | 20 | 477 |
-| 584 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 105 | 308 |
-| 584 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.46 | 0 | 484 |
-| 584 | [Predecessor](games/p/predecessor.md) | 4.46 | 56 | 376 |
-| 584 | [Redout 2](games/r/redout_2.md) | 4.46 | 0 | 484 |
-| 584 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 484 |
-| 584 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.46 | 0 | 484 |
-| 584 | [The Surge](games/t/the_surge.md) | 4.46 | 26 | 453 |
-| 584 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 276 | 225 |
-| 584 | [WRC Generations](games/w/wrc_generations.md) | 4.46 | 0 | 484 |
+| 583 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 484 |
+| 583 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 0 | 484 |
+| 583 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,215 | 81 |
+| 583 | [Figment](games/f/figment.md) | 4.46 | 20 | 477 |
+| 583 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 105 | 308 |
+| 583 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.46 | 0 | 484 |
+| 583 | [Predecessor](games/p/predecessor.md) | 4.46 | 56 | 376 |
+| 583 | [Redout 2](games/r/redout_2.md) | 4.46 | 0 | 484 |
+| 583 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 484 |
+| 583 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.46 | 0 | 484 |
+| 583 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.46 | 6,475 | 46 |
+| 583 | [The Surge](games/t/the_surge.md) | 4.46 | 26 | 453 |
+| 583 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 276 | 225 |
+| 583 | [WRC Generations](games/w/wrc_generations.md) | 4.46 | 0 | 484 |
 | 597 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.45 | 0 | 484 |
 | 597 | [ATOM RPG](games/a/atom_rpg.md) | 4.45 | 46 | 389 |
 | 597 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.45 | 0 | 484 |
@@ -767,7 +767,7 @@
 | 763 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 0 | 484 |
 | 763 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 0 | 484 |
 | 763 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 297 | 221 |
-| 768 | [EVE Online](games/e/eve_online.md) | 4.26 | 1,005 | 131 |
+| 768 | [EVE Online](games/e/eve_online.md) | 4.26 | 1,006 | 131 |
 | 768 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.26 | 0 | 484 |
 | 768 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 484 |
 | 768 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 484 |
