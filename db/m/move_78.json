@@ -1,6 +1,18 @@
 {
   "ID": "e7cdd03a9d6744b1aa9aa7f3f7ab6f01",
   "Name": "Move 78",
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-20T15:58:15.2788459+00:00",
+  "FirstSeenRating": "2023-04-20T15:58:15.2788496+00:00",
+  "LastChanged": "2023-04-20T15:58:15.2788496+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-20T15:58:15.2788498+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

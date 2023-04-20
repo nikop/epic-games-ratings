@@ -6,12 +6,12 @@
   "Ranking_Popularity": 112,
   "Ranking_PopularitySum": 74,
   "NumberOfRatings": 15086,
-  "NumberOfAwards": 11354,
+  "NumberOfAwards": 11355,
   "NumberOfAwardsMax": 1468,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
-  "LastChanged": "2023-04-20T10:57:54.7300398+00:00",
+  "LastChanged": "2023-04-20T15:57:45.4240358+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-26T04:31:33.9561596+00:00",
@@ -1740,6 +1740,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 11354,
       "NumberOfAwardsMax": 1468
+    },
+    {
+      "Time": "2023-04-20T15:57:45.424036+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11355,
+      "NumberOfAwardsMax": 1468
     }
   ],
   "Tags": [
@@ -1801,7 +1807,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1402
+      "Count": 1403
     },
     {
       "Text": "This game has a Creative Community",
