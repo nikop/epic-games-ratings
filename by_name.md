@@ -65,7 +65,7 @@
 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 439 | 46 | 388 |
 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 463 | 0 | 484 |
 | [Aztez](games/a/aztez.md) | 4.53 | 484 | 0 | 484 |
-| [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 584 | 3,214 | 81 |
+| [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 584 | 3,215 | 81 |
 | [Backbone](games/b/backbone.md) | 4.33 | 723 | 0 | 484 |
 | [Bad North](games/b/bad_north.md) | 4.68 | 236 | 0 | 484 |
 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 682 | 0 | 484 |
@@ -203,7 +203,7 @@
 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.47 | 570 | 0 | 484 |
 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 691 | 0 | 484 |
 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 28 | 683 | 154 |
-| [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 142 | 489 | 181 |
+| [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 142 | 489 | 182 |
 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 78 | 303 | 220 |
 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 629 | 22 | 465 |
 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 112 | 817 | 144 |
@@ -244,17 +244,17 @@
 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 112 | 61 | 369 |
 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 374 | 13,167 | 25 |
 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 522 | 65 | 364 |
-| [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 313 | 57 | 373 |
+| [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 313 | 58 | 373 |
 | [Family Man](games/f/family_man.md) | 4.16 | 823 | 0 | 484 |
 | [Fangs](games/f/fangs.md) | 4.09 | 850 | 0 | 484 |
 | [Far Cry](games/f/far_cry.md) | 4.48 | 559 | 0 | 484 |
 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 772 | 0 | 484 |
 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 348 | 0 | 484 |
-| [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 274 | 489 | 181 |
+| [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 274 | 491 | 180 |
 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 335 | 1,175 | 121 |
 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 614 | 671 | 155 |
 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 648 | 174 | 265 |
-| [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 190 | 305 | 217 |
+| [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 190 | 305 | 218 |
 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 212 | 319 | 210 |
 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 212 | 0 | 484 |
 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 178 | 0 | 484 |
@@ -309,7 +309,7 @@
 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 374 | 117 | 297 |
 | [Gone Home](games/g/gone_home.md) | 4.16 | 823 | 0 | 484 |
 | [Good Company](games/g/good_company.md) | 4.42 | 637 | 0 | 484 |
-| [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 818 | 2,136 | 99 |
+| [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 818 | 2,141 | 99 |
 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 829 | 0 | 484 |
 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.10 | 844 | 0 | 484 |
 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 212 | 159,271 | 5 |
@@ -326,7 +326,7 @@
 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 423 | 35 | 419 |
 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 289 | 0 | 484 |
 | [Haven](games/h/haven.md) | 4.72 | 165 | 0 | 484 |
-| [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 389 | 57 | 373 |
+| [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 389 | 57 | 374 |
 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 313 | 0 | 484 |
 | [Hell is Others](games/h/hell_is_others.md) | 4.48 | 559 | 0 | 484 |
 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 473 | 191 | 257 |
@@ -608,7 +608,7 @@
 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 348 | 266 | 231 |
 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 289 | 0 | 484 |
 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 570 | 0 | 484 |
-| [Satisfactory](games/s/satisfactory.md) | 4.88 | 18 | 9,083 | 34 |
+| [Satisfactory](games/s/satisfactory.md) | 4.88 | 18 | 9,084 | 34 |
 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 775 | 0 | 484 |
 | [Scavengers](games/s/scavengers.md) | 4.18 | 814 | 96 | 321 |
 | [Scorn](games/s/scorn.md) | 4.47 | 570 | 0 | 484 |
@@ -715,7 +715,7 @@
 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 463 | 0 | 484 |
 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 671 | 321 | 209 |
 | [Tchia](games/t/tchia.md) | 4.76 | 112 | 0 | 484 |
-| [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 473 | 490 | 180 |
+| [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 473 | 490 | 181 |
 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 28 | 39 | 406 |
 | [Tharsis](games/t/tharsis.md) | 4.05 | 860 | 0 | 484 |
 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 190 | 44 | 398 |
@@ -731,7 +731,7 @@
 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 844 | 2,198 | 96 |
 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 570 | 6,475 | 46 |
 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 508 | 63 | 366 |
-| [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 190 | 57 | 373 |
+| [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 190 | 57 | 374 |
 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 28 | 1,192 | 120 |
 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.75 | 126 | 0 | 484 |
 | [The Escapists](games/t/the_escapists.md) | 4.48 | 559 | 0 | 484 |
@@ -864,7 +864,7 @@
 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.59 | 389 | 0 | 484 |
 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 829 | 0 | 484 |
 | [Warpips](games/w/warpips.md) | 4.40 | 663 | 20 | 477 |
-| [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 389 | 305 | 217 |
+| [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 389 | 306 | 217 |
 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 439 | 46 | 388 |
 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 699 | 75 | 344 |
 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.35 | 709 | 38 | 409 |

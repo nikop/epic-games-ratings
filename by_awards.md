@@ -33,7 +33,7 @@
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,295 | 4.87 | 24 |
 | 32 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,165 | 4.69 | 212 |
 | 33 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 9,907 | 4.45 | 597 |
-| 34 | [Satisfactory](games/s/satisfactory.md) | 9,083 | 4.88 | 18 |
+| 34 | [Satisfactory](games/s/satisfactory.md) | 9,084 | 4.88 | 18 |
 | 35 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 8,942 | 4.60 | 374 |
 | 36 | [HITMAN 3](games/h/hitman_3.md) | 8,668 | 4.78 | 101 |
 | 37 | [Control](games/c/control.md) | 8,230 | 4.60 | 374 |
@@ -80,7 +80,7 @@
 | 78 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,565 | 4.30 | 744 |
 | 79 | [Gloomhaven](games/g/gloomhaven.md) | 3,428 | 4.47 | 570 |
 | 80 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,315 | 4.68 | 236 |
-| 81 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,214 | 4.46 | 584 |
+| 81 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,215 | 4.46 | 584 |
 | 82 | [Paladins](games/p/paladins.md) | 3,170 | 4.35 | 709 |
 | 83 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,150 | 4.75 | 126 |
 | 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,135 | 4.59 | 389 |
@@ -98,7 +98,7 @@
 | 96 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,198 | 4.10 | 844 |
 | 97 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,177 | 4.49 | 540 |
 | 98 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,158 | 4.41 | 648 |
-| 99 | [Gotham Knights](games/g/gotham_knights.md) | 2,136 | 4.17 | 818 |
+| 99 | [Gotham Knights](games/g/gotham_knights.md) | 2,141 | 4.17 | 818 |
 | 100 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,129 | 4.37 | 691 |
 | 101 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,066 | 4.64 | 313 |
 | 102 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,967 | 4.49 | 540 |
@@ -179,9 +179,9 @@
 | 177 | [Star Trek Online](games/s/star_trek_online.md) | 518 | 4.44 | 614 |
 | 178 | [Godfall](games/g/godfall.md) | 504 | 4.06 | 858 |
 | 179 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 494 | 4.52 | 496 |
-| 180 | [Terraforming Mars](games/t/terraforming_mars.md) | 490 | 4.54 | 473 |
-| 181 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 489 | 4.74 | 142 |
-| 181 | [FAR CRY 4](games/f/far_cry_4.md) | 489 | 4.66 | 274 |
+| 180 | [FAR CRY 4](games/f/far_cry_4.md) | 491 | 4.66 | 274 |
+| 181 | [Terraforming Mars](games/t/terraforming_mars.md) | 490 | 4.54 | 473 |
+| 182 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 489 | 4.74 | 142 |
 | 183 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 474 | 4.82 | 60 |
 | 184 | [Unreal Tournament](games/u/unreal_tournament.md) | 457 | 4.66 | 274 |
 | 185 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 451 | 4.86 | 28 |
@@ -216,8 +216,8 @@
 | 214 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 315 | 4.77 | 106 |
 | 215 | [The Messenger](games/t/the_messenger.md) | 311 | 4.80 | 78 |
 | 216 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 309 | 4.73 | 155 |
-| 217 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 305 | 4.70 | 190 |
-| 217 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 305 | 4.59 | 389 |
+| 217 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 306 | 4.59 | 389 |
+| 218 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 305 | 4.70 | 190 |
 | 219 | [Spellbreak](games/s/spellbreak.md) | 304 | 4.63 | 326 |
 | 220 | [Dishonored 2](games/d/dishonored_2.md) | 303 | 4.80 | 78 |
 | 221 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.27 | 763 |
@@ -372,9 +372,9 @@
 | 369 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 61 | 4.76 | 112 |
 | 371 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 59 | 4.42 | 637 |
 | 371 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 614 |
-| 373 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 57 | 4.64 | 313 |
-| 373 | [Heavy Rain](games/h/heavy_rain.md) | 57 | 4.59 | 389 |
-| 373 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 57 | 4.70 | 190 |
+| 373 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 58 | 4.64 | 313 |
+| 374 | [Heavy Rain](games/h/heavy_rain.md) | 57 | 4.59 | 389 |
+| 374 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 57 | 4.70 | 190 |
 | 376 | [Predecessor](games/p/predecessor.md) | 56 | 4.46 | 584 |
 | 377 | [Obduction](games/o/obduction.md) | 52 | 4.10 | 844 |
 | 378 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 50 | 4.83 | 54 |
