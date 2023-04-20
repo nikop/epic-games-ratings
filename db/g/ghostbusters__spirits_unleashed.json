@@ -3,14 +3,14 @@
   "Name": "Ghostbusters: Spirits Unleashed",
   "Rating": 4.49,
   "Ranking_Rating": 539,
-  "Ranking_Popularity": 248,
+  "Ranking_Popularity": 247,
   "Ranking_PopularitySum": 186,
-  "NumberOfAwards": 1920,
-  "NumberOfAwardsMax": 210,
-  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwards": 1921,
+  "NumberOfAwardsMax": 211,
+  "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
-  "LastChanged": "2023-04-20T01:54:36.198339+00:00",
+  "LastChanged": "2023-04-20T08:57:23.9737238+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-19T03:31:00.7496554+00:00",
@@ -419,6 +419,12 @@
       "Rating": 4.49,
       "NumberOfAwards": 1920,
       "NumberOfAwardsMax": 210
+    },
+    {
+      "Time": "2023-04-20T08:57:23.9737239+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 1921,
+      "NumberOfAwardsMax": 211
     }
   ],
   "Tags": [
@@ -444,7 +450,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 210
+      "Count": 211
     },
     {
       "Text": "This game is Extremely Fun",
