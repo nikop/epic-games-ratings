@@ -1,16 +1,16 @@
 {
   "ID": "impala",
   "Name": "The Division 2 Standard Edition",
-  "Rating": 4.46,
-  "Ranking_Rating": 582,
+  "Rating": 4.47,
+  "Ranking_Rating": 569,
   "Ranking_Popularity": 46,
   "Ranking_PopularitySum": 52,
   "NumberOfRatings": 6675,
-  "NumberOfAwards": 20743,
+  "NumberOfAwards": 20746,
   "NumberOfAwardsMax": 6475,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2023-04-20T10:57:39.6530886+00:00",
+  "LastChanged": "2023-04-20T16:57:19.1513754+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:04.4200789+00:00",
@@ -3970,6 +3970,12 @@
       "Rating": 4.46,
       "NumberOfAwards": 20743,
       "NumberOfAwardsMax": 6475
+    },
+    {
+      "Time": "2023-04-20T16:57:19.1513755+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 20746,
+      "NumberOfAwardsMax": 6475
     }
   ],
   "Tags": [
@@ -4043,7 +4049,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1018
+      "Count": 1021
     }
   ]
 }
