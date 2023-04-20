@@ -127,7 +127,7 @@
 | 125 | [Conan Exiles](games/c/conan_exiles.md) | 1,066 | 4.55 | 463 |
 | 126 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,061 | 4.61 | 348 |
 | 127 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,058 | 4.52 | 496 |
-| 128 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,057 | 4.61 | 348 |
+| 127 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,058 | 4.61 | 348 |
 | 129 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,029 | 4.66 | 274 |
 | 130 | [Saints Row](games/s/saints_row.md) | 1,019 | 3.78 | 893 |
 | 131 | [EVE Online](games/e/eve_online.md) | 1,006 | 4.26 | 768 |
@@ -149,7 +149,7 @@
 | 147 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 764 | 4.69 | 212 |
 | 148 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 751 | 4.50 | 522 |
 | 149 | [The Long Dark](games/t/the_long_dark.md) | 742 | 4.74 | 142 |
-| 150 | [Auto Chess](games/a/auto_chess.md) | 731 | 4.52 | 496 |
+| 150 | [Auto Chess](games/a/auto_chess.md) | 732 | 4.52 | 496 |
 | 151 | [Core](games/c/core.md) | 724 | 4.37 | 691 |
 | 152 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 718 | 4.56 | 440 |
 | 153 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 690 | 4.59 | 388 |
@@ -478,6 +478,7 @@
 | 471 | [We Were Here Forever](games/w/we_were_here_forever.md) | 21 | 4.67 | 257 |
 | 477 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 20 | 4.63 | 326 |
 | 477 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 20 | 4.49 | 539 |
+| 477 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 20 | 4.91 | 6 |
 | 477 | [Figment](games/f/figment.md) | 20 | 4.46 | 583 |
 | 477 | [Returnal™](games/r/returnal™.md) | 20 | 4.66 | 274 |
 | 477 | [Torchlight](games/t/torchlight.md) | 20 | 4.32 | 733 |

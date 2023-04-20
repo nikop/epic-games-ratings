@@ -3,14 +3,15 @@
   "Name": "Baldur\u0027s Gate II: Enhanced Edition",
   "Rating": 4.91,
   "Ranking_Rating": 6,
-  "Ranking_Popularity": 484,
-  "Ranking_PopularitySum": 484,
+  "Ranking_Popularity": 477,
+  "Ranking_PopularitySum": 477,
   "NumberOfRatings": 29,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 20,
+  "NumberOfAwardsMax": 20,
+  "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:18:50.9338623+00:00",
   "FirstSeenRating": "2022-08-05T18:01:05.432518+00:00",
-  "LastChanged": "2023-03-31T05:57:09.694201+00:00",
+  "LastChanged": "2023-04-20T13:04:04.7643883+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-05T18:01:05.4325183+00:00",
@@ -103,7 +104,20 @@
       "Rating": 4.91,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-20T13:04:04.7643884+00:00",
+      "Rating": 4.91,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
-  "Tags": []
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 20
+    }
+  ]
 }
