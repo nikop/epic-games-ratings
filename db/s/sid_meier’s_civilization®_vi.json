@@ -6,11 +6,11 @@
   "Ranking_Popularity": 13,
   "Ranking_PopularitySum": 11,
   "NumberOfRatings": 57866,
-  "NumberOfAwards": 245654,
+  "NumberOfAwards": 245836,
   "NumberOfAwardsMax": 29698,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
-  "LastChanged": "2023-04-20T20:57:07.6090741+00:00",
+  "LastChanged": "2023-04-20T21:56:58.1471976+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:50.1564233+00:00",
@@ -4476,6 +4476,12 @@
       "Rating": 4.74,
       "NumberOfAwards": 245654,
       "NumberOfAwardsMax": 29698
+    },
+    {
+      "Time": "2023-04-20T21:56:58.147212+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 245836,
+      "NumberOfAwardsMax": 29698
     }
   ],
   "Tags": [
@@ -4489,7 +4495,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 25937
+      "Count": 25990
     },
     {
       "Text": "This game is Educational",
@@ -4525,13 +4531,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 24349
+      "Count": 24400
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 22429
+      "Count": 22477
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4543,7 +4549,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 17433
+      "Count": 17463
     }
   ]
 }
