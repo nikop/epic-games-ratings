@@ -109,7 +109,7 @@
 | 107 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,726 | 4.63 | 326 |
 | 108 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,682 | 4.57 | 423 |
 | 109 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 1,611 | 4.76 | 112 |
-| 110 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,544 | 4.51 | 508 |
+| 110 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,548 | 4.51 | 508 |
 | 111 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 1,539 | 3.98 | 872 |
 | 112 | [Ring of Pain](games/r/ring_of_pain.md) | 1,468 | 4.58 | 406 |
 | 113 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,439 | 4.69 | 212 |
@@ -208,10 +208,10 @@
 | 206 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 343 | 4.61 | 348 |
 | 207 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 336 | 4.33 | 723 |
 | 208 | [Inscryption](games/i/inscryption.md) | 328 | 4.86 | 28 |
-| 209 | [Tannenberg](games/t/tannenberg.md) | 321 | 4.39 | 671 |
-| 210 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 320 | 4.69 | 212 |
-| 211 | [Darkwood](games/d/darkwood.md) | 319 | 4.61 | 348 |
-| 211 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 319 | 4.24 | 775 |
+| 209 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 322 | 4.24 | 775 |
+| 210 | [Tannenberg](games/t/tannenberg.md) | 321 | 4.39 | 671 |
+| 211 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 320 | 4.69 | 212 |
+| 212 | [Darkwood](games/d/darkwood.md) | 319 | 4.61 | 348 |
 | 213 | [Dungeons 3](games/d/dungeons_3.md) | 317 | 4.65 | 289 |
 | 214 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 315 | 4.77 | 106 |
 | 215 | [The Messenger](games/t/the_messenger.md) | 311 | 4.80 | 78 |
@@ -278,8 +278,8 @@
 | 276 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 158 | 4.80 | 78 |
 | 277 | [Severed Steel](games/s/severed_steel.md) | 157 | 4.68 | 236 |
 | 278 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 153 | 3.91 | 884 |
-| 279 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 148 | 4.57 | 423 |
-| 279 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 148 | 4.65 | 289 |
+| 279 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 149 | 4.57 | 423 |
+| 280 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 148 | 4.65 | 289 |
 | 281 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 147 | 4.52 | 496 |
 | 282 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 142 | 4.52 | 496 |
 | 283 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 141 | 4.78 | 101 |

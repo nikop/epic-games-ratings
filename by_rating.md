@@ -213,7 +213,7 @@
 | 190 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 36 | 414 |
 | 212 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 107,587 | 8 |
 | 212 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,721 | 76 |
-| 212 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 320 | 210 |
+| 212 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 320 | 211 |
 | 212 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 0 | 484 |
 | 212 | [GNOG](games/g/gnog.md) | 4.69 | 0 | 484 |
 | 212 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 159,271 | 5 |
@@ -298,7 +298,7 @@
 | 289 | [GigaBash](games/g/gigabash.md) | 4.65 | 0 | 484 |
 | 289 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.65 | 0 | 484 |
 | 289 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 0 | 484 |
-| 289 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 148 | 279 |
+| 289 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 148 | 280 |
 | 289 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 48 | 385 |
 | 289 | [Old World](games/o/old_world.md) | 4.65 | 212 | 246 |
 | 289 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1,861 | 103 |
@@ -354,7 +354,7 @@
 | 348 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 484 |
 | 348 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 209 | 249 |
 | 348 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 374 | 201 |
-| 348 | [Darkwood](games/d/darkwood.md) | 4.61 | 319 | 211 |
+| 348 | [Darkwood](games/d/darkwood.md) | 4.61 | 319 | 212 |
 | 348 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 34 | 423 |
 | 348 | [DOOM 3](games/d/doom_3.md) | 4.61 | 65 | 364 |
 | 348 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 0 | 484 |
@@ -425,7 +425,7 @@
 | 423 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.57 | 0 | 484 |
 | 423 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 0 | 484 |
 | 423 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 0 | 484 |
-| 423 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 148 | 279 |
+| 423 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 149 | 279 |
 | 423 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 78 | 340 |
 | 423 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 6,435 | 48 |
 | 423 | [Everything](games/e/everything.md) | 4.57 | 0 | 484 |
@@ -507,7 +507,7 @@
 | 496 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 484 |
 | 496 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 142 | 282 |
 | 496 | [UnMetal](games/u/unmetal.md) | 4.52 | 0 | 484 |
-| 508 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,544 | 110 |
+| 508 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,548 | 110 |
 | 508 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 91 | 329 |
 | 508 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,059 | 71 |
 | 508 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 21 | 471 |
@@ -680,7 +680,7 @@
 | 671 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,637 | 29 |
 | 671 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 0 | 484 |
 | 671 | [Tacoma](games/t/tacoma.md) | 4.39 | 0 | 484 |
-| 671 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 321 | 209 |
+| 671 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 321 | 210 |
 | 682 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 484 |
 | 682 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.38 | 0 | 484 |
 | 682 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 0 | 484 |
@@ -776,7 +776,7 @@
 | 772 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 0 | 484 |
 | 775 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 484 |
 | 775 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 435 |
-| 775 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 319 | 211 |
+| 775 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 322 | 209 |
 | 775 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 0 | 484 |
 | 775 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.24 | 0 | 484 |
 | 775 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 392 |
