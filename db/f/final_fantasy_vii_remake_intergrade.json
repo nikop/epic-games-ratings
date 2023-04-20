@@ -6,11 +6,11 @@
   "Ranking_Popularity": 58,
   "Ranking_PopularitySum": 70,
   "NumberOfRatings": 15120,
-  "NumberOfAwards": 11942,
-  "NumberOfAwardsMax": 5444,
+  "NumberOfAwards": 11943,
+  "NumberOfAwardsMax": 5445,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:21:16.7757899+00:00",
-  "LastChanged": "2023-04-18T21:57:38.3602173+00:00",
+  "LastChanged": "2023-04-20T03:57:23.5099669+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:16.7757902+00:00",
@@ -2694,6 +2694,12 @@
       "Rating": 4.85,
       "NumberOfAwards": 11942,
       "NumberOfAwardsMax": 5444
+    },
+    {
+      "Time": "2023-04-20T03:57:23.509967+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 11943,
+      "NumberOfAwardsMax": 5445
     }
   ],
   "Tags": [
@@ -2701,7 +2707,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 5444
+      "Count": 5445
     },
     {
       "Text": "This game has Great Boss Battles",

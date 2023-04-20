@@ -1,5 +1,5 @@
 # Fell Seal: Arbiter's Mark
-Rating: 4.56 (Ranked 439)  
+Rating: 4.56 (Ranked 440)  
 Number of Ratings: 39  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 27  (Ranked 447)  
