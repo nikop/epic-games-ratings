@@ -135,7 +135,7 @@
 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 348 | 0 | 485 |
 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 463 | 1,066 | 125 |
 | [Conarium](games/c/conarium.md) | 3.91 | 884 | 0 | 485 |
-| [Control](games/c/control.md) | 4.60 | 374 | 8,230 | 37 |
+| [Control](games/c/control.md) | 4.60 | 374 | 8,232 | 37 |
 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 60 | 0 | 485 |
 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 539 | 104 | 309 |
 | [Core](games/c/core.md) | 4.37 | 691 | 724 | 151 |
@@ -173,7 +173,7 @@
 | [Darkwood](games/d/darkwood.md) | 4.61 | 348 | 319 | 212 |
 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 614 | 0 | 485 |
 | [Dauntless](games/d/dauntless.md) | 4.53 | 484 | 19,498 | 16 |
-| [Days Gone](games/d/days_gone.md) | 4.69 | 212 | 3,721 | 76 |
+| [Days Gone](games/d/days_gone.md) | 4.69 | 212 | 3,723 | 76 |
 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 823 | 0 | 485 |
 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 496 | 26,596 | 15 |
 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 18 | 247 | 234 |
@@ -238,7 +238,7 @@
 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 807 | 0 | 485 |
 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 313 | 45 | 393 |
 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 440 | 718 | 152 |
-| [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.59 | 388 | 233 | 238 |
+| [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.59 | 388 | 233 | 239 |
 | [Faeria](games/f/faeria.md) | 4.45 | 597 | 103 | 311 |
 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 484 | 137,641 | 6 |
 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 112 | 61 | 369 |
@@ -532,7 +532,7 @@
 | [Pathway](games/p/pathway.md) | 4.45 | 597 | 0 | 485 |
 | [Patron](games/p/patron.md) | 3.94 | 879 | 0 | 485 |
 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 274 | 1,029 | 129 |
-| [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 348 | 586 | 163 |
+| [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 348 | 588 | 163 |
 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 463 | 816 | 145 |
 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 335 | 101 | 315 |
 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 440 | 1,762 | 106 |
@@ -547,7 +547,7 @@
 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 597 | 846 | 143 |
 | [Predecessor](games/p/predecessor.md) | 4.46 | 583 | 56 | 376 |
 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 539 | 0 | 485 |
-| [Prey](games/p/prey.md) | 4.62 | 335 | 5,502 | 57 |
+| [Prey](games/p/prey.md) | 4.62 | 335 | 5,505 | 57 |
 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 348 | 402 | 192 |
 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 872 | 1,539 | 111 |
 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.41 | 648 | 0 | 485 |
@@ -591,7 +591,7 @@
 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 36 | 215 | 244 |
 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 289 | 0 | 485 |
 | [Roguebook](games/r/roguebook.md) | 4.60 | 374 | 0 | 485 |
-| [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 716 | 233 | 238 |
+| [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 716 | 234 | 238 |
 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 289 | 50 | 378 |
 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 326 | 179 | 262 |
 | [RUINER](games/r/ruiner.md) | 4.53 | 484 | 23 | 461 |
@@ -703,7 +703,7 @@
 | [Supraland](games/s/supraland.md) | 4.61 | 348 | 7,598 | 40 |
 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 101 | 97 | 319 |
 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 570 | 0 | 485 |
-| [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 374 | 429 | 187 |
+| [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 374 | 430 | 187 |
 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 570 | 96 | 321 |
 | [Suzerain](games/s/suzerain.md) | 4.73 | 155 | 0 | 485 |
 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 744 | 168 | 270 |
@@ -756,7 +756,7 @@
 | [The Machines Arena](games/t/the_machines_arena.md) | 4.67 | 257 | 0 | 485 |
 | [The Medium](games/t/the_medium.md) | 4.59 | 388 | 0 | 485 |
 | [The Messenger](games/t/the_messenger.md) | 4.80 | 78 | 311 | 215 |
-| [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 326 | 1,726 | 107 |
+| [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 326 | 1,727 | 107 |
 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.43 | 629 | 0 | 485 |
 | [The Pathless](games/t/the_pathless.md) | 4.68 | 236 | 0 | 485 |
 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 190 | 0 | 485 |
