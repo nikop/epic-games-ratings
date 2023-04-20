@@ -92,7 +92,7 @@
 | 90 | [Trackmania](games/t/trackmania.md) | 2,414 | 4.67 | 257 |
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,371 | 4.76 | 112 |
 | 92 | [Among Us](games/a/among_us.md) | 2,367 | 4.58 | 406 |
-| 93 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,331 | 4.80 | 78 |
+| 93 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,333 | 4.80 | 78 |
 | 94 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,228 | 4.79 | 90 |
 | 95 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,208 | 4.67 | 257 |
 | 96 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,198 | 4.10 | 844 |
@@ -114,7 +114,7 @@
 | 112 | [Ring of Pain](games/r/ring_of_pain.md) | 1,468 | 4.58 | 406 |
 | 113 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,439 | 4.69 | 212 |
 | 114 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,434 | 4.79 | 90 |
-| 115 | [Celeste](games/c/celeste.md) | 1,420 | 4.92 | 4 |
+| 115 | [Celeste](games/c/celeste.md) | 1,422 | 4.92 | 4 |
 | 116 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,364 | 4.87 | 24 |
 | 117 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,294 | 4.70 | 190 |
 | 118 | [DOOM 64](games/d/doom_64.md) | 1,284 | 4.66 | 274 |
@@ -216,10 +216,10 @@
 | 214 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 315 | 4.77 | 106 |
 | 215 | [The Messenger](games/t/the_messenger.md) | 311 | 4.80 | 78 |
 | 216 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 309 | 4.73 | 155 |
-| 217 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 306 | 4.59 | 388 |
-| 218 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 305 | 4.70 | 190 |
-| 219 | [Spellbreak](games/s/spellbreak.md) | 304 | 4.63 | 326 |
-| 220 | [Dishonored 2](games/d/dishonored_2.md) | 303 | 4.80 | 78 |
+| 217 | [Dishonored 2](games/d/dishonored_2.md) | 308 | 4.80 | 78 |
+| 218 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 306 | 4.59 | 388 |
+| 219 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 305 | 4.70 | 190 |
+| 220 | [Spellbreak](games/s/spellbreak.md) | 304 | 4.63 | 326 |
 | 221 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.27 | 763 |
 | 222 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 292 | 4.85 | 36 |
 | 223 | [House Flipper](games/h/house_flipper.md) | 279 | 4.70 | 190 |
@@ -300,10 +300,10 @@
 | 298 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 116 | 4.53 | 484 |
 | 298 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 116 | 4.79 | 90 |
 | 298 | [Sonic Origins](games/s/sonic_origins.md) | 116 | 4.57 | 423 |
-| 301 | [BIOMUTANT](games/b/biomutant.md) | 113 | 4.33 | 723 |
-| 301 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 113 | 4.65 | 289 |
-| 301 | [Timberborn](games/t/timberborn.md) | 113 | 4.72 | 165 |
-| 301 | [Tropico 5](games/t/tropico_5.md) | 113 | 4.45 | 597 |
+| 301 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 114 | 4.65 | 289 |
+| 302 | [BIOMUTANT](games/b/biomutant.md) | 113 | 4.33 | 723 |
+| 302 | [Timberborn](games/t/timberborn.md) | 113 | 4.72 | 165 |
+| 302 | [Tropico 5](games/t/tropico_5.md) | 113 | 4.45 | 597 |
 | 305 | [Overcooked](games/o/overcooked.md) | 112 | 4.67 | 257 |
 | 306 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 111 | 4.82 | 60 |
 | 307 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 108 | 4.71 | 178 |

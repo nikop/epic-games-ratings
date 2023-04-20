@@ -3,7 +3,7 @@
 | 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 0 | 485 |
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 485 |
 | 3 | [Flatout 2](games/f/flatout_2.md) | 4.93 | 0 | 485 |
-| 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,420 | 115 |
+| 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,422 | 115 |
 | 4 | [Hades](games/h/hades.md) | 4.92 | 3,001 | 86 |
 | 6 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.91 | 20 | 477 |
 | 7 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 0 | 485 |
@@ -77,11 +77,11 @@
 | 71 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 0 | 485 |
 | 71 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 26 | 453 |
 | 71 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 0 | 485 |
-| 78 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 303 | 220 |
+| 78 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 308 | 217 |
 | 78 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,227 | 50 |
 | 78 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 158 | 276 |
 | 78 | [Journey](games/j/journey.md) | 4.80 | 0 | 485 |
-| 78 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,331 | 93 |
+| 78 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,333 | 93 |
 | 78 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 187 | 258 |
 | 78 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 315 |
 | 78 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 485 |
@@ -176,7 +176,7 @@
 | 165 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 485 |
 | 165 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 0 | 485 |
 | 165 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 0 | 485 |
-| 165 | [Timberborn](games/t/timberborn.md) | 4.72 | 113 | 301 |
+| 165 | [Timberborn](games/t/timberborn.md) | 4.72 | 113 | 302 |
 | 178 | [Barony](games/b/barony.md) | 4.71 | 69 | 355 |
 | 178 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 485 |
 | 178 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,134 | 51 |
@@ -192,7 +192,7 @@
 | 190 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 0 | 485 |
 | 190 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,486 | 67 |
 | 190 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 0 | 485 |
-| 190 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 305 | 218 |
+| 190 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 305 | 219 |
 | 190 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,091 | 70 |
 | 190 | [For The King](games/f/for_the_king.md) | 4.70 | 359 | 205 |
 | 190 | [House Flipper](games/h/house_flipper.md) | 4.70 | 279 | 223 |
@@ -292,7 +292,7 @@
 | 289 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,308 | 68 |
 | 289 | [Coromon](games/c/coromon.md) | 4.65 | 40 | 405 |
 | 289 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 163 | 273 |
-| 289 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 113 | 301 |
+| 289 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 114 | 301 |
 | 289 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 0 | 485 |
 | 289 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 317 | 213 |
 | 289 | [GigaBash](games/g/gigabash.md) | 4.65 | 0 | 485 |
@@ -330,7 +330,7 @@
 | 326 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 0 | 485 |
 | 326 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 485 |
 | 326 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 179 | 262 |
-| 326 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 304 | 219 |
+| 326 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 304 | 220 |
 | 326 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,726 | 107 |
 | 326 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.63 | 0 | 485 |
 | 326 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 0 | 485 |
@@ -404,7 +404,7 @@
 | 388 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 30 | 438 |
 | 388 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 690 | 153 |
 | 388 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.59 | 0 | 485 |
-| 388 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 306 | 217 |
+| 388 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 306 | 218 |
 | 406 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.58 | 0 | 485 |
 | 406 | [Among Us](games/a/among_us.md) | 4.58 | 2,367 | 92 |
 | 406 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.58 | 569 | 167 |
@@ -610,7 +610,7 @@
 | 597 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 846 | 143 |
 | 597 | [SMITE](games/s/smite.md) | 4.45 | 3,647 | 77 |
 | 597 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.45 | 0 | 485 |
-| 597 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 113 | 301 |
+| 597 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 113 | 302 |
 | 597 | [Weird West](games/w/weird_west.md) | 4.45 | 23 | 461 |
 | 597 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 0 | 485 |
 | 614 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 485 |
@@ -726,7 +726,7 @@
 | 723 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 0 | 485 |
 | 723 | [Backbone](games/b/backbone.md) | 4.33 | 0 | 485 |
 | 723 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.33 | 0 | 485 |
-| 723 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 113 | 301 |
+| 723 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 113 | 302 |
 | 723 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 0 | 485 |
 | 723 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.33 | 0 | 485 |
 | 723 | [Dark Light](games/d/dark_light.md) | 4.33 | 0 | 485 |
