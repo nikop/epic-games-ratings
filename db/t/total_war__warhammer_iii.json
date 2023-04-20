@@ -1,8 +1,8 @@
 {
   "ID": "dda64c2956b54f1ba3cd97f6aaee775f",
   "Name": "Total War: WARHAMMER III",
-  "Rating": 4.69,
-  "Ranking_Rating": 212,
+  "Rating": 4.68,
+  "Ranking_Rating": 234,
   "Ranking_Popularity": 113,
   "Ranking_PopularitySum": 120,
   "NumberOfRatings": 882,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 1439,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:20:31.8340221+00:00",
-  "LastChanged": "2023-04-20T18:57:18.3941495+00:00",
+  "LastChanged": "2023-04-20T19:57:05.3100383+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:31.8340223+00:00",
@@ -2121,6 +2121,12 @@
     {
       "Time": "2023-04-20T18:57:18.3941497+00:00",
       "Rating": 4.69,
+      "NumberOfAwards": 5129,
+      "NumberOfAwardsMax": 1439
+    },
+    {
+      "Time": "2023-04-20T19:57:05.3100386+00:00",
+      "Rating": 4.68,
       "NumberOfAwards": 5129,
       "NumberOfAwardsMax": 1439
     }
