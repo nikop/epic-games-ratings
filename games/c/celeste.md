@@ -1,5 +1,5 @@
 # Celeste
-Rating: 4.92 (Ranked 4)  
+Rating: 4.92 (Ranked 3)  
 Number of Ratings: 2,543  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 1,422  (Ranked 115)  

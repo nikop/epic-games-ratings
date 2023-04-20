@@ -1,5 +1,5 @@
 # The Last Stand: Aftermath
-Rating: 4.44 (Ranked 614)  
+Rating: 4.43 (Ranked 629)  
 Number of Ratings: 44  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 485)  
@@ -55,3 +55,4 @@ Diff (max vs sum): 0
 | 2023-02-26 | 4.43 | - | - | - |
 | 2023-03-16 | 4.44 | - | - | - |
 | 2023-03-31 | 4.44 | - | 0 | 0 |
+| 2023-04-20 | 4.43 | - | 0 | 0 |

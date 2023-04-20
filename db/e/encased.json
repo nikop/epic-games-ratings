@@ -1,8 +1,8 @@
 {
   "ID": "48ee23bbc7c34ac09604253e74d17b49",
   "Name": "Encased",
-  "Rating": 4.36,
-  "Ranking_Rating": 699,
+  "Rating": 4.35,
+  "Ranking_Rating": 708,
   "Ranking_Popularity": 293,
   "Ranking_PopularitySum": 383,
   "NumberOfRatings": 49,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 123,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:20:17.8710965+00:00",
-  "LastChanged": "2023-04-16T04:57:21.5549087+00:00",
+  "LastChanged": "2023-04-20T20:57:22.443887+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:17.8710967+00:00",
@@ -313,6 +313,12 @@
     {
       "Time": "2023-04-16T04:57:21.5549091+00:00",
       "Rating": 4.36,
+      "NumberOfAwards": 123,
+      "NumberOfAwardsMax": 123
+    },
+    {
+      "Time": "2023-04-20T20:57:22.4438871+00:00",
+      "Rating": 4.35,
       "NumberOfAwards": 123,
       "NumberOfAwardsMax": 123
     }

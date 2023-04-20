@@ -1,15 +1,15 @@
 # Jurassic World Evolution 2
-Rating: 4.74 (Ranked 142)  
+Rating: 4.74 (Ranked 141)  
 Number of Ratings: 3,746  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 576  (Ranked 164)  
-Sum: 5,352 (Ranked 115)  
+Sum: 5,353 (Ranked 115)  
 Diff (max vs sum): 49
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 576 |
-| This game has Amazing Storytelling | 567 |
+| This game has Amazing Storytelling | 568 |
 | This game is Extremely Fun | 558 |
 | This game is Relaxing | 549 |
 | This game is Educational | 535 |
@@ -119,4 +119,4 @@ Diff (max vs sum): 49
 | 2023-04-17 | 4.74 | - | 574 | 5,341 |
 | 2023-04-18 | 4.74 | - | 576 | 5,343 |
 | 2023-04-19 | 4.74 | - | 576 | 5,349 |
-| 2023-04-20 | 4.74 | - | 576 | 5,352 |
+| 2023-04-20 | 4.74 | - | 576 | 5,353 |

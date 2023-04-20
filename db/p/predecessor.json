@@ -1,16 +1,16 @@
 {
   "ID": "85f0435aa88347d185dbcb147716609b",
   "Name": "Predecessor",
-  "Rating": 4.46,
-  "Ranking_Rating": 583,
-  "Ranking_Popularity": 376,
+  "Rating": 4.45,
+  "Ranking_Rating": 596,
+  "Ranking_Popularity": 374,
   "Ranking_PopularitySum": 302,
-  "NumberOfAwards": 365,
-  "NumberOfAwardsMax": 56,
+  "NumberOfAwards": 367,
+  "NumberOfAwardsMax": 57,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-12-01T08:57:03.8695537+00:00",
   "FirstSeenRating": "2022-12-02T07:57:13.3206902+00:00",
-  "LastChanged": "2023-04-20T05:57:00.4920823+00:00",
+  "LastChanged": "2023-04-20T20:57:13.1851522+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-02T07:57:13.3206905+00:00",
@@ -537,6 +537,12 @@
       "Rating": 4.46,
       "NumberOfAwards": 365,
       "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2023-04-20T20:57:13.1851524+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 367,
+      "NumberOfAwardsMax": 57
     }
   ],
   "Tags": [
@@ -550,13 +556,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 56
+      "Count": 57
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 45
+      "Count": 46
     },
     {
       "Text": "This game has Challenging Combat",

@@ -1,23 +1,23 @@
 # Genshin Impact
-Rating: 4.68 (Ranked 234)  
+Rating: 4.68 (Ranked 235)  
 Number of Ratings: 219,180  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 287,812  (Ranked 3)  
-Sum: 1,278,499 (Ranked 4)  
+Max (Character Customization): 288,339  (Ranked 3)  
+Sum: 1,281,800 (Ranked 4)  
 Diff (max vs sum): -1
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 287,812 |
-| This game is Great for Beginners | 128,874 |
-| This game has Diverse Characters | 122,271 |
-| This game has Amazing Characters | 110,722 |
-| This game has Amazing Storytelling | 107,885 |
-| This game is Highly Recommended | 107,251 |
-| This game is Extremely Fun | 105,722 |
-| This game is Relaxing | 103,079 |
-| This game has Quickly Understood Controls | 102,660 |
-| This game has Beautiful Visuals | 102,223 |
+| This game has Inclusive Character Customization | 288,339 |
+| This game is Great for Beginners | 129,233 |
+| This game has Diverse Characters | 122,649 |
+| This game has Amazing Characters | 111,039 |
+| This game has Amazing Storytelling | 108,191 |
+| This game is Highly Recommended | 107,581 |
+| This game is Extremely Fun | 106,010 |
+| This game is Relaxing | 103,324 |
+| This game has Quickly Understood Controls | 102,916 |
+| This game has Beautiful Visuals | 102,518 |
 | This game has Obsessive Gameplay | 53,865 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -107,3 +107,4 @@ Diff (max vs sum): -1
 | 2023-04-17 | 4.68 | - | 287,063 | 1,273,834 |
 | 2023-04-18 | 4.68 | - | 287,333 | 1,275,580 |
 | 2023-04-19 | 4.68 | - | 287,812 | 1,278,499 |
+| 2023-04-20 | 4.68 | - | 288,339 | 1,281,800 |

@@ -1,5 +1,5 @@
 # Flatout 2
-Rating: 4.93 (Ranked 3)  
+Rating: 4.91 (Ranked 5)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 485)  
 Sum: 0 (Ranked 485)  
@@ -19,3 +19,4 @@ Diff (max vs sum): 0
 | 2023-03-03 | 4.92 | - | - |
 | 2023-03-31 | 4.92 | 0 | 0 |
 | 2023-04-09 | 4.93 | 0 | 0 |
+| 2023-04-20 | 4.91 | 0 | 0 |

@@ -1,5 +1,5 @@
 # What Remains of Edith Finch
-Rating: 4.75 (Ranked 126)  
+Rating: 4.73 (Ranked 154)  
 Number of Ratings: 75  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 485)  
@@ -59,3 +59,4 @@ Diff (max vs sum): 0
 | 2022-12-03 | 4.74 | - | - | - |
 | 2022-12-29 | 4.75 | - | - | - |
 | 2023-03-31 | 4.75 | - | 0 | 0 |
+| 2023-04-20 | 4.73 | - | 0 | 0 |

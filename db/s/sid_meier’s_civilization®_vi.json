@@ -2,15 +2,15 @@
   "ID": "cd14dcaa4f3443f19f7169a980559c62",
   "Name": "Sid Meier\u2019s Civilization\u00AE VI",
   "Rating": 4.74,
-  "Ranking_Rating": 142,
+  "Ranking_Rating": 141,
   "Ranking_Popularity": 13,
   "Ranking_PopularitySum": 11,
   "NumberOfRatings": 57866,
-  "NumberOfAwards": 245390,
-  "NumberOfAwardsMax": 29636,
+  "NumberOfAwards": 245654,
+  "NumberOfAwardsMax": 29698,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
-  "LastChanged": "2023-04-19T21:57:06.3181064+00:00",
+  "LastChanged": "2023-04-20T20:57:07.6090741+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:50.1564233+00:00",
@@ -4470,6 +4470,12 @@
       "Rating": 4.74,
       "NumberOfAwards": 245390,
       "NumberOfAwardsMax": 29636
+    },
+    {
+      "Time": "2023-04-20T20:57:07.6090742+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 245654,
+      "NumberOfAwardsMax": 29698
     }
   ],
   "Tags": [
@@ -4477,7 +4483,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 29636
+      "Count": 29698
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4501,19 +4507,19 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 25403
+      "Count": 25455
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 25249
+      "Count": 25303
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 26092
+      "Count": 26142
     },
     {
       "Text": "This game has Competitive Players",
@@ -4531,7 +4537,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 21637
+      "Count": 21683
     },
     {
       "Text": "This game has a Creative Community",

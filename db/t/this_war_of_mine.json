@@ -2,15 +2,15 @@
   "ID": "91189432bbad4478afd611edff7f0339",
   "Name": "This War of Mine",
   "Rating": 4.74,
-  "Ranking_Rating": 142,
+  "Ranking_Rating": 141,
   "Ranking_Popularity": 340,
   "Ranking_PopularitySum": 274,
   "NumberOfRatings": 1090,
-  "NumberOfAwards": 612,
+  "NumberOfAwards": 613,
   "NumberOfAwardsMax": 78,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:20:40.68032+00:00",
-  "LastChanged": "2023-04-18T20:57:10.9842227+00:00",
+  "LastChanged": "2023-04-20T20:57:24.750113+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:40.6803203+00:00",
@@ -1102,6 +1102,12 @@
       "Rating": 4.74,
       "NumberOfAwards": 612,
       "NumberOfAwardsMax": 78
+    },
+    {
+      "Time": "2023-04-20T20:57:24.7501131+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 613,
+      "NumberOfAwardsMax": 78
     }
   ],
   "Tags": [
@@ -1163,7 +1169,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 68
+      "Count": 69
     }
   ]
 }

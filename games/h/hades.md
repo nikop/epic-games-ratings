@@ -1,5 +1,5 @@
 # Hades
-Rating: 4.92 (Ranked 4)  
+Rating: 4.92 (Ranked 3)  
 Number of Ratings: 6,336  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 3,001  (Ranked 86)  

@@ -1,5 +1,5 @@
 # Sonic Colors: Ultimate
-Rating: 4.41 (Ranked 648)  
+Rating: 4.41 (Ranked 649)  
 Number of Ratings: 179  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 72  (Ranked 350)  

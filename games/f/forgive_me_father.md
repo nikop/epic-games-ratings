@@ -1,5 +1,5 @@
 # Forgive Me Father
-Rating: 4.44 (Ranked 614)  
+Rating: 4.44 (Ranked 615)  
 Number of Ratings: 38  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 485)  

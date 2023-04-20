@@ -1,5 +1,5 @@
 # A Plague Tale: Requiem
-Rating: 4.74 (Ranked 142)  
+Rating: 4.74 (Ranked 141)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 398  (Ranked 195)  
 Sum: 553 (Ranked 283)  

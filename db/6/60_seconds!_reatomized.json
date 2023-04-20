@@ -1,15 +1,15 @@
 {
   "ID": "cc1d104767dc4a2fa22a44d487e2db64",
   "Name": "60 Seconds! Reatomized",
-  "Rating": 4.58,
-  "Ranking_Rating": 406,
+  "Rating": 4.59,
+  "Ranking_Rating": 389,
   "Ranking_Popularity": 485,
   "Ranking_PopularitySum": 485,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-15T05:57:00.0275207+00:00",
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
-  "LastChanged": "2023-04-16T18:57:08.6093495+00:00",
+  "LastChanged": "2023-04-20T20:57:09.4862377+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-12T08:56:56.6667632+00:00",
@@ -66,6 +66,12 @@
     {
       "Time": "2023-04-16T18:57:08.6093496+00:00",
       "Rating": 4.58,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-20T20:57:09.4862381+00:00",
+      "Rating": 4.59,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

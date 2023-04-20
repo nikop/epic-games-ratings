@@ -1,15 +1,15 @@
 {
   "ID": "23aa88cfbedf4dceb1c6a41e2c0eafc0",
   "Name": "Kill It With Fire",
-  "Rating": 4.43,
-  "Ranking_Rating": 629,
+  "Rating": 4.45,
+  "Ranking_Rating": 596,
   "Ranking_Popularity": 485,
   "Ranking_PopularitySum": 485,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:17:57.0618032+00:00",
   "FirstSeenRating": "2022-12-03T21:57:39.7500458+00:00",
-  "LastChanged": "2023-03-31T05:57:04.1845837+00:00",
+  "LastChanged": "2023-04-20T20:57:08.3983048+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-03T21:57:39.7500461+00:00",
@@ -22,6 +22,12 @@
     {
       "Time": "2023-03-31T05:57:04.184584+00:00",
       "Rating": 4.43,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-20T20:57:08.3983051+00:00",
+      "Rating": 4.45,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

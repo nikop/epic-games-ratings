@@ -1,5 +1,5 @@
 # Defense Grid: The Awakening
-Rating: 4.45 (Ranked 597)  
+Rating: 4.45 (Ranked 596)  
 Number of Ratings: 1,225  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 228  (Ranked 241)  

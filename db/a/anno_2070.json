@@ -1,8 +1,8 @@
 {
   "ID": "c9e311e119034b25a02ed1ebfdffc0d1",
   "Name": "Anno 2070",
-  "Rating": 4.46,
-  "Ranking_Rating": 583,
+  "Rating": 4.45,
+  "Ranking_Rating": 596,
   "Ranking_Popularity": 485,
   "Ranking_PopularitySum": 485,
   "NumberOfRatings": 32,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:30:09.4589428+00:00",
   "FirstSeenRating": "2022-08-02T00:31:48.9578062+00:00",
-  "LastChanged": "2023-03-31T05:58:26.78593+00:00",
+  "LastChanged": "2023-04-20T20:58:31.7434213+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-02T00:31:48.9578065+00:00",
@@ -168,6 +168,12 @@
     {
       "Time": "2023-03-31T05:58:26.7859303+00:00",
       "Rating": 4.46,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-20T20:58:31.7434215+00:00",
+      "Rating": 4.45,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

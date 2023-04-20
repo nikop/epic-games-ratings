@@ -1,5 +1,5 @@
 # Tchia
-Rating: 4.76 (Ranked 112)  
+Rating: 4.77 (Ranked 106)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 485)  
 Sum: 0 (Ranked 485)  
@@ -24,3 +24,4 @@ Diff (max vs sum): 0
 | 2023-04-10 | 4.74 | 0 | 0 |
 | 2023-04-14 | 4.75 | 0 | 0 |
 | 2023-04-17 | 4.76 | 0 | 0 |
+| 2023-04-20 | 4.77 | 0 | 0 |
