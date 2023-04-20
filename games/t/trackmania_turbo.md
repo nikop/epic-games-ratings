@@ -1,5 +1,5 @@
 # Trackmania Turbo
-Rating: 4.81 (Ranked 70)  
+Rating: 4.81 (Ranked 71)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 484)  
 Sum: 0 (Ranked 484)  
