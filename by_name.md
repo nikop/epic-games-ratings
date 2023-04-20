@@ -46,7 +46,7 @@
 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 28 | 0 | 484 |
 | [Ashen](games/a/ashen.md) | 4.34 | 716 | 0 | 484 |
 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.68 | 236 | 0 | 484 |
-| [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 126 | 23 | 460 |
+| [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 126 | 24 | 459 |
 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 236 | 2,953 | 87 |
 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 423 | 149 | 279 |
 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 508 | 91 | 329 |
@@ -222,7 +222,7 @@
 | [Eastward](games/e/eastward.md) | 4.67 | 257 | 0 | 484 |
 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.74 | 898 | 0 | 484 |
 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 539 | 0 | 484 |
-| [ELEX](games/e/elex.md) | 4.41 | 648 | 23 | 460 |
+| [ELEX](games/e/elex.md) | 4.41 | 648 | 23 | 461 |
 | [ELEX II](games/e/elex_ii.md) | 4.29 | 752 | 0 | 484 |
 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 313 | 2,067 | 101 |
 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 112 | 39 | 406 |
@@ -263,7 +263,7 @@
 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 190 | 4,091 | 70 |
 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 884 | 103 | 311 |
 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 440 | 27 | 447 |
-| [Fez](games/f/fez.md) | 4.71 | 178 | 23 | 460 |
+| [Fez](games/f/fez.md) | 4.71 | 178 | 23 | 461 |
 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.68 | 236 | 0 | 484 |
 | [Figment](games/f/figment.md) | 4.46 | 583 | 20 | 477 |
 | [Filament](games/f/filament.md) | 4.32 | 733 | 548 | 170 |
@@ -594,7 +594,7 @@
 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 716 | 233 | 238 |
 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 289 | 50 | 378 |
 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 326 | 179 | 262 |
-| [RUINER](games/r/ruiner.md) | 4.53 | 484 | 23 | 460 |
+| [RUINER](games/r/ruiner.md) | 4.53 | 484 | 23 | 461 |
 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 637 | 6,689 | 45 |
 | [Runbow](games/r/runbow.md) | 4.46 | 583 | 0 | 484 |
 | [Sable](games/s/sable.md) | 4.51 | 508 | 0 | 484 |
@@ -870,7 +870,7 @@
 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.35 | 709 | 38 | 409 |
 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 423 | 0 | 484 |
 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 257 | 21 | 471 |
-| [Weird West](games/w/weird_west.md) | 4.45 | 597 | 23 | 460 |
+| [Weird West](games/w/weird_west.md) | 4.45 | 597 | 23 | 461 |
 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 833 | 0 | 484 |
 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.75 | 126 | 0 | 484 |
 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 106 | 0 | 484 |

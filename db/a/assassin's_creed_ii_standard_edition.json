@@ -3,14 +3,14 @@
   "Name": "Assassin\u0027s Creed II Standard Edition",
   "Rating": 4.75,
   "Ranking_Rating": 126,
-  "Ranking_Popularity": 460,
+  "Ranking_Popularity": 459,
   "Ranking_PopularitySum": 399,
   "NumberOfRatings": 315,
-  "NumberOfAwards": 84,
-  "NumberOfAwardsMax": 23,
+  "NumberOfAwards": 85,
+  "NumberOfAwardsMax": 24,
   "MaxAwardTitle": "Amazing Storytelling",
   "FirstSeen": "2022-07-22T20:18:28.9665726+00:00",
-  "LastChanged": "2023-04-09T13:00:22.2510212+00:00",
+  "LastChanged": "2023-04-20T11:57:01.4456318+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:28.9665728+00:00",
@@ -457,6 +457,12 @@
       "Rating": 4.75,
       "NumberOfAwards": 84,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2023-04-20T11:57:01.4456319+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 85,
+      "NumberOfAwardsMax": 24
     }
   ],
   "Tags": [
@@ -464,7 +470,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Quickly Understood Controls",

@@ -125,7 +125,7 @@
 | 112 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 7,610 | 39 |
 | 112 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 484 |
 | 112 | [Tchia](games/t/tchia.md) | 4.76 | 0 | 484 |
-| 126 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 23 | 460 |
+| 126 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 459 |
 | 126 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,716 | 64 |
 | 126 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,150 | 83 |
 | 126 | [Dead Space](games/d/dead_space.md) | 4.75 | 35 | 419 |
@@ -180,7 +180,7 @@
 | 178 | [Barony](games/b/barony.md) | 4.71 | 69 | 355 |
 | 178 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 484 |
 | 178 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,134 | 51 |
-| 178 | [Fez](games/f/fez.md) | 4.71 | 23 | 460 |
+| 178 | [Fez](games/f/fez.md) | 4.71 | 23 | 461 |
 | 178 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 419 |
 | 178 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 0 | 484 |
 | 178 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,095 | 43 |
@@ -490,7 +490,7 @@
 | 484 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 137,641 | 6 |
 | 484 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 116 | 298 |
 | 484 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 484 |
-| 484 | [RUINER](games/r/ruiner.md) | 4.53 | 23 | 460 |
+| 484 | [RUINER](games/r/ruiner.md) | 4.53 | 23 | 461 |
 | 484 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 92 | 327 |
 | 484 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 484 |
 | 484 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 268 | 230 |
@@ -611,7 +611,7 @@
 | 597 | [SMITE](games/s/smite.md) | 4.45 | 3,647 | 77 |
 | 597 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.45 | 0 | 484 |
 | 597 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 113 | 301 |
-| 597 | [Weird West](games/w/weird_west.md) | 4.45 | 23 | 460 |
+| 597 | [Weird West](games/w/weird_west.md) | 4.45 | 23 | 461 |
 | 597 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 0 | 484 |
 | 614 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 484 |
 | 614 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 672 | 155 |
@@ -648,7 +648,7 @@
 | 637 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 121 | 295 |
 | 637 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 532 | 175 |
 | 648 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 0 | 484 |
-| 648 | [ELEX](games/e/elex.md) | 4.41 | 23 | 460 |
+| 648 | [ELEX](games/e/elex.md) | 4.41 | 23 | 461 |
 | 648 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 174 | 265 |
 | 648 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 92 | 327 |
 | 648 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 11,792 | 28 |
