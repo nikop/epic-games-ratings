@@ -359,7 +359,7 @@
 | 348 | [DOOM 3](games/d/doom_3.md) | 4.61 | 65 | 364 |
 | 348 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 0 | 484 |
 | 348 | [GRIME](games/g/grime.md) | 4.61 | 0 | 484 |
-| 348 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 550 | 168 |
+| 348 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 552 | 168 |
 | 348 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 343 | 206 |
 | 348 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 0 | 484 |
 | 348 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,061 | 126 |
@@ -550,7 +550,7 @@
 | 539 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 210 | 248 |
 | 539 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 2,177 | 97 |
 | 539 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 484 |
-| 539 | [Maneater](games/m/maneater.md) | 4.49 | 13,391 | 24 |
+| 539 | [Maneater](games/m/maneater.md) | 4.49 | 13,393 | 24 |
 | 539 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 607 | 161 |
 | 539 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 484 |
 | 539 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.49 | 0 | 484 |

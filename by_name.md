@@ -362,7 +362,7 @@
 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.77 | 106 | 0 | 484 |
 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 858 | 4,842 | 61 |
 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 744 | 0 | 484 |
-| [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 348 | 550 | 168 |
+| [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 348 | 552 | 168 |
 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 374 | 62 | 367 |
 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 539 | 0 | 484 |
 | [Inscryption](games/i/inscryption.md) | 4.86 | 28 | 328 | 208 |
@@ -438,7 +438,7 @@
 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 682 | 162 | 274 |
 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 597 | 9,907 | 33 |
 | [Mago](games/m/mago.md) | 4.90 | 7 | 0 | 484 |
-| [Maneater](games/m/maneater.md) | 4.49 | 539 | 13,391 | 24 |
+| [Maneater](games/m/maneater.md) | 4.49 | 539 | 13,393 | 24 |
 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 522 | 0 | 484 |
 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.03 | 864 | 0 | 484 |
 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 155 | 543 | 173 |

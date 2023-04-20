@@ -23,7 +23,7 @@
 | 21 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,317 | 4.58 | 406 |
 | 22 | [Warframe](games/w/warframe.md) | 14,136 | 4.61 | 348 |
 | 23 | [Borderlands 2](games/b/borderlands_2.md) | 13,948 | 4.76 | 112 |
-| 24 | [Maneater](games/m/maneater.md) | 13,391 | 4.49 | 539 |
+| 24 | [Maneater](games/m/maneater.md) | 13,393 | 4.49 | 539 |
 | 25 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,167 | 4.60 | 374 |
 | 26 | [League of Legends](games/l/league_of_legends.md) | 12,584 | 4.21 | 791 |
 | 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,226 | 4.37 | 691 |
@@ -167,7 +167,7 @@
 | 164 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 576 | 4.74 | 142 |
 | 166 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 575 | 4.62 | 335 |
 | 167 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 569 | 4.58 | 406 |
-| 168 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 550 | 4.61 | 348 |
+| 168 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 552 | 4.61 | 348 |
 | 169 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 549 | 4.68 | 236 |
 | 170 | [Filament](games/f/filament.md) | 548 | 4.32 | 733 |
 | 171 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 545 | 4.66 | 274 |
