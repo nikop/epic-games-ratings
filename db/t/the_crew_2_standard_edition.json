@@ -3,14 +3,14 @@
   "Name": "The Crew 2 Standard Edition",
   "Rating": 4.66,
   "Ranking_Rating": 274,
-  "Ranking_Popularity": 195,
+  "Ranking_Popularity": 194,
   "Ranking_PopularitySum": 152,
   "NumberOfRatings": 2083,
-  "NumberOfAwards": 2786,
-  "NumberOfAwardsMax": 397,
+  "NumberOfAwards": 2789,
+  "NumberOfAwardsMax": 400,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:24:02.2131047+00:00",
-  "LastChanged": "2023-04-20T10:57:50.0048795+00:00",
+  "LastChanged": "2023-04-20T17:57:23.056493+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:02.2131055+00:00",
@@ -2327,6 +2327,12 @@
       "Rating": 4.66,
       "NumberOfAwards": 2786,
       "NumberOfAwardsMax": 397
+    },
+    {
+      "Time": "2023-04-20T17:57:23.0564931+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 2789,
+      "NumberOfAwardsMax": 400
     }
   ],
   "Tags": [
@@ -2334,7 +2340,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 397
+      "Count": 400
     },
     {
       "Text": "This game has Amazing Storytelling",

@@ -1,8 +1,8 @@
 {
   "ID": "2a14cf8a83b149919a2399504e5686a6",
   "Name": "The Sims\u2122 4",
-  "Rating": 4.59,
-  "Ranking_Rating": 388,
+  "Rating": 4.6,
+  "Ranking_Rating": 374,
   "Ranking_Popularity": 313,
   "Ranking_PopularitySum": 258,
   "NumberOfAwards": 694,
@@ -10,7 +10,7 @@
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-04-20T14:57:10.6765449+00:00",
+  "LastChanged": "2023-04-20T17:56:46.6684974+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-05T14:56:53.5654686+00:00",
@@ -847,6 +847,12 @@
     {
       "Time": "2023-04-20T14:57:10.676545+00:00",
       "Rating": 4.59,
+      "NumberOfAwards": 694,
+      "NumberOfAwardsMax": 102
+    },
+    {
+      "Time": "2023-04-20T17:56:46.6684976+00:00",
+      "Rating": 4.6,
       "NumberOfAwards": 694,
       "NumberOfAwardsMax": 102
     }

@@ -1,5 +1,5 @@
 # The Sims™ 4
-Rating: 4.59 (Ranked 388)  
+Rating: 4.60 (Ranked 374)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 102  (Ranked 313)  
 Sum: 694 (Ranked 258)  
@@ -75,4 +75,4 @@ Diff (max vs sum): 55
 | 2023-04-17 | 4.59 | 91 | 616 |
 | 2023-04-18 | 4.59 | 94 | 635 |
 | 2023-04-19 | 4.59 | 101 | 666 |
-| 2023-04-20 | 4.59 | 102 | 694 |
+| 2023-04-20 | 4.60 | 102 | 694 |

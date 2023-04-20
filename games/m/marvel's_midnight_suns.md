@@ -1,9 +1,9 @@
 # Marvel's Midnight Suns
 Rating: 4.52 (Ranked 496)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 1,064  (Ranked 126)  
+Max (Character Customization): 1,064  (Ranked 127)  
 Sum: 2,203 (Ranked 173)  
-Diff (max vs sum): -47
+Diff (max vs sum): -46
 ## Awards
 | Award | Count |
 | ----- | ----- |
