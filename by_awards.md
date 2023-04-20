@@ -115,7 +115,7 @@
 | 113 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,439 | 4.69 | 212 |
 | 114 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,434 | 4.79 | 90 |
 | 115 | [Celeste](games/c/celeste.md) | 1,422 | 4.92 | 4 |
-| 116 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,364 | 4.87 | 24 |
+| 116 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,365 | 4.87 | 24 |
 | 117 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,294 | 4.70 | 190 |
 | 118 | [DOOM 64](games/d/doom_64.md) | 1,284 | 4.66 | 274 |
 | 119 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,207 | 4.82 | 60 |
@@ -153,11 +153,11 @@
 | 151 | [Core](games/c/core.md) | 724 | 4.37 | 691 |
 | 152 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 718 | 4.56 | 440 |
 | 153 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 690 | 4.59 | 389 |
-| 154 | [Disco Elysium](games/d/disco_elysium.md) | 683 | 4.86 | 28 |
+| 154 | [Disco Elysium](games/d/disco_elysium.md) | 684 | 4.86 | 28 |
 | 155 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 672 | 4.44 | 614 |
 | 156 | [Neverwinter](games/n/neverwinter.md) | 669 | 4.29 | 752 |
 | 157 | [Neon Abyss](games/n/neon_abyss.md) | 658 | 4.68 | 235 |
-| 158 | [Subnautica](games/s/subnautica.md) | 644 | 4.84 | 49 |
+| 158 | [Subnautica](games/s/subnautica.md) | 645 | 4.84 | 49 |
 | 159 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 638 | 4.67 | 257 |
 | 159 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 638 | 4.50 | 522 |
 | 161 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 607 | 4.49 | 539 |

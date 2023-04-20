@@ -24,12 +24,12 @@
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 465 |
 | 18 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 485 |
 | 24 | [Black Book](games/b/black_book.md) | 4.87 | 21 | 471 |
-| 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,364 | 116 |
+| 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,365 | 116 |
 | 24 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,295 | 31 |
 | 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 997 | 133 |
 | 28 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 485 |
 | 28 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 137 | 285 |
-| 28 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 683 | 154 |
+| 28 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 684 | 154 |
 | 28 | [Inscryption](games/i/inscryption.md) | 4.86 | 328 | 208 |
 | 28 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 94 | 325 |
 | 28 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 39 | 406 |
@@ -52,7 +52,7 @@
 | 49 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 211 | 247 |
 | 49 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 405 | 191 |
 | 49 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 246 | 236 |
-| 49 | [Subnautica](games/s/subnautica.md) | 4.84 | 644 | 158 |
+| 49 | [Subnautica](games/s/subnautica.md) | 4.84 | 645 | 158 |
 | 54 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 50 | 378 |
 | 54 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 0 | 485 |
 | 54 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 385 | 198 |

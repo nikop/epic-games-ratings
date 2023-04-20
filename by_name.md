@@ -196,13 +196,13 @@
 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 522 | 33,042 | 12 |
 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.61 | 348 | 34 | 423 |
 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.56 | 440 | 34 | 423 |
-| [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 24 | 1,364 | 116 |
+| [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 24 | 1,365 | 116 |
 | [Diabotical](games/d/diabotical.md) | 4.75 | 126 | 264 | 232 |
 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 752 | 0 | 485 |
 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 796 | 0 | 485 |
 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.47 | 569 | 0 | 485 |
 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 691 | 0 | 485 |
-| [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 28 | 683 | 154 |
+| [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 28 | 684 | 154 |
 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 142 | 491 | 180 |
 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 78 | 308 | 217 |
 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 629 | 22 | 465 |
@@ -690,7 +690,7 @@
 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 699 | 47 | 387 |
 | [Submerged](games/s/submerged.md) | 4.09 | 850 | 0 | 485 |
 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 775 | 45 | 393 |
-| [Subnautica](games/s/subnautica.md) | 4.84 | 49 | 644 | 158 |
+| [Subnautica](games/s/subnautica.md) | 4.84 | 49 | 645 | 158 |
 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 101 | 141 | 283 |
 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 190 | 0 | 485 |
 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 389 | 74 | 347 |
