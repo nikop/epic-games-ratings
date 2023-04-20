@@ -3,14 +3,14 @@
   "Name": "The Sims\u2122 4",
   "Rating": 4.59,
   "Ranking_Rating": 389,
-  "Ranking_Popularity": 314,
-  "Ranking_PopularitySum": 262,
-  "NumberOfAwards": 666,
-  "NumberOfAwardsMax": 101,
-  "MaxAwardTitle": "Great for Beginners",
+  "Ranking_Popularity": 313,
+  "Ranking_PopularitySum": 260,
+  "NumberOfAwards": 680,
+  "NumberOfAwardsMax": 102,
+  "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-04-19T23:56:57.3947441+00:00",
+  "LastChanged": "2023-04-20T01:54:35.2644455+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-05T14:56:53.5654686+00:00",
@@ -825,6 +825,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 666,
       "NumberOfAwardsMax": 101
+    },
+    {
+      "Time": "2023-04-20T01:54:35.2644456+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 680,
+      "NumberOfAwardsMax": 102
     }
   ],
   "Tags": [
@@ -844,7 +850,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 94
+      "Count": 102
     },
     {
       "Text": "This game has a Creative Community",
@@ -874,7 +880,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 46
+      "Count": 52
     },
     {
       "Text": "This game has Amazing Storytelling",
