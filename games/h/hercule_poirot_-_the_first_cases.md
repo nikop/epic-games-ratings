@@ -1,5 +1,5 @@
 # Hercule Poirot - The First Cases
-Rating: 4.30 (Ranked 745)  
+Rating: 4.30 (Ranked 746)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 485)  
 Sum: 0 (Ranked 485)  

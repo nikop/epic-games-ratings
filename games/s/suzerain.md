@@ -1,5 +1,5 @@
 # Suzerain
-Rating: 4.73 (Ranked 154)  
+Rating: 4.74 (Ranked 141)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 485)  
 Sum: 0 (Ranked 485)  
@@ -13,3 +13,4 @@ Diff (max vs sum): 0
 | 2022-11-13 | 4.70 | - | - |
 | 2022-11-28 | 4.73 | - | - |
 | 2023-03-31 | 4.73 | 0 | 0 |
+| 2023-04-21 | 4.74 | 0 | 0 |

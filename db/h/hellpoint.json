@@ -1,8 +1,8 @@
 {
   "ID": "97f91a3e4a7449fa9f4505a09efe1645",
   "Name": "Hellpoint",
-  "Rating": 4.29,
-  "Ranking_Rating": 754,
+  "Rating": 4.31,
+  "Ranking_Rating": 743,
   "Ranking_Popularity": 485,
   "Ranking_PopularitySum": 485,
   "NumberOfRatings": 20,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:22:35.2519959+00:00",
   "FirstSeenRating": "2022-09-19T18:31:22.5343042+00:00",
-  "LastChanged": "2023-03-31T05:57:34.3892874+00:00",
+  "LastChanged": "2023-04-21T21:57:41.611579+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-19T18:31:22.5343044+00:00",
@@ -52,6 +52,12 @@
     {
       "Time": "2023-03-31T05:57:34.3892875+00:00",
       "Rating": 4.29,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-21T21:57:41.6115791+00:00",
+      "Rating": 4.31,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
