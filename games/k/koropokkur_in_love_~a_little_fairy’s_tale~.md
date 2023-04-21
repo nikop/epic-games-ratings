@@ -1,14 +1,12 @@
-# Tormentor x Punisher
-Rating: 4.75 (Ranked 127)  
+# Koropokkur in Love ~A Little Fairy’s Tale~
+Rating: - (Ranked -)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 485)  
-Sum: 0 (Ranked 485)  
-Diff (max vs sum): 0
+Max (): -  (Ranked -)  
+Sum: - (Ranked -)  
+Diff (max vs sum): -
 ## Awards
 | Award | Count |
 | ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
-| 2023-02-22 | 4.75 | - | - |
-| 2023-03-31 | 4.75 | 0 | 0 |

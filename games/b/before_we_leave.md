@@ -1,5 +1,5 @@
 # Before We Leave
-Rating: 4.64 (Ranked 313)  
+Rating: 4.64 (Ranked 312)  
 Number of Ratings: 73  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 485)  

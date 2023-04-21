@@ -1,10 +1,10 @@
 # RollerCoaster Tycoon 3 Complete Edition
-Rating: 4.65 (Ranked 289)  
+Rating: 4.65 (Ranked 288)  
 Number of Ratings: 687  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Relaxing): 50  (Ranked 378)  
+Max (Relaxing): 50  (Ranked 379)  
 Sum: 410 (Ranked 291)  
-Diff (max vs sum): 87
+Diff (max vs sum): 88
 ## Awards
 | Award | Count |
 | ----- | ----- |

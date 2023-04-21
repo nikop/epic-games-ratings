@@ -2,8 +2,8 @@
 Rating: 4.51 (Ranked 508)  
 ## Popularity (Based on Awards)
 Max (Great for Quick Sessions): 77  (Ranked 342)  
-Sum: 626 (Ranked 272)  
-Diff (max vs sum): 70
+Sum: 560 (Ranked 281)  
+Diff (max vs sum): 61
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -64,3 +64,4 @@ Diff (max vs sum): 70
 | 2023-04-18 | 4.51 | 77 | 621 |
 | 2023-04-19 | 4.51 | 77 | 622 |
 | 2023-04-20 | 4.51 | 77 | 626 |
+| 2023-04-21 | 4.51 | 77 | 560 |
