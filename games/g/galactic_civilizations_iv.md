@@ -1,14 +1,14 @@
 # Galactic Civilizations IV
-Rating: 4.19 (Ranked 807)  
+Rating: 4.18 (Ranked 813)  
 Number of Ratings: 429  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 86  (Ranked 333)  
-Sum: 646 (Ranked 266)  
+Max (Diverse Characters): 87  (Ranked 333)  
+Sum: 648 (Ranked 266)  
 Diff (max vs sum): 67
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 86 |
+| This game has Diverse Characters | 87 |
 | This game is Relaxing | 85 |
 | This game has Quickly Understood Controls | 81 |
 | This game is Extremely Fun | 80 |
@@ -17,7 +17,7 @@ Diff (max vs sum): 67
 | This game has Competitive Players | 69 |
 | This game has Amazing Characters | 64 |
 | This game has Obsessive Gameplay | 50 |
-| This game has a Creative Community | 26 |
+| This game has a Creative Community | 27 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -100,3 +100,4 @@ Diff (max vs sum): 67
 | 2023-04-13 | 4.19 | - | 86 | 644 |
 | 2023-04-14 | 4.19 | - | 86 | 645 |
 | 2023-04-19 | 4.19 | - | 86 | 646 |
+| 2023-04-21 | 4.18 | - | 87 | 648 |

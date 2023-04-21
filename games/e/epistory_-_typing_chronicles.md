@@ -1,5 +1,5 @@
 # Epistory - Typing Chronicles
-Rating: 4.48 (Ranked 558)  
+Rating: 4.48 (Ranked 559)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 485)  
 Sum: 0 (Ranked 485)  

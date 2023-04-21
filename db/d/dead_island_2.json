@@ -1,8 +1,18 @@
 {
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
-  "Names": [],
-  "DailyRatings": 0,
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
+  "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
+  "LastChanged": "2023-04-21T14:57:30.464162+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-21T14:57:30.4641621+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }
