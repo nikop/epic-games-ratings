@@ -1,9 +1,9 @@
 # Dishonored 2
 Rating: 4.80 (Ranked 78)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 312  (Ranked 215)  
+Max (Great Boss Battles): 312  (Ranked 216)  
 Sum: 338 (Ranked 310)  
-Diff (max vs sum): -95
+Diff (max vs sum): -94
 ## Awards
 | Award | Count |
 | ----- | ----- |

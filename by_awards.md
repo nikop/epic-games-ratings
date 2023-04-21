@@ -22,10 +22,10 @@
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 14,624 | 4.89 | 12 |
 | 21 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,319 | 4.58 | 408 |
 | 22 | [Warframe](games/w/warframe.md) | 14,152 | 4.61 | 351 |
-| 23 | [Borderlands 2](games/b/borderlands_2.md) | 13,960 | 4.76 | 113 |
+| 23 | [Borderlands 2](games/b/borderlands_2.md) | 13,972 | 4.76 | 113 |
 | 24 | [Maneater](games/m/maneater.md) | 13,393 | 4.49 | 540 |
 | 25 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,170 | 4.60 | 375 |
-| 26 | [League of Legends](games/l/league_of_legends.md) | 12,609 | 4.21 | 793 |
+| 26 | [League of Legends](games/l/league_of_legends.md) | 12,628 | 4.21 | 793 |
 | 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,230 | 4.37 | 692 |
 | 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,796 | 4.41 | 651 |
 | 29 | [NBA 2K21](games/n/nba_2k21.md) | 11,637 | 4.39 | 672 |
@@ -134,7 +134,7 @@
 | 132 | [World of Warships](games/w/world_of_warships.md) | 1,003 | 4.44 | 614 |
 | 133 | [Ooblets](games/o/ooblets.md) | 997 | 4.87 | 24 |
 | 134 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 992 | 4.54 | 473 |
-| 135 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 985 | 4.79 | 92 |
+| 135 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 987 | 4.79 | 92 |
 | 136 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 981 | 4.23 | 786 |
 | 137 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 975 | 4.40 | 663 |
 | 138 | [Torchlight II](games/t/torchlight_ii.md) | 967 | 4.58 | 408 |
@@ -214,15 +214,15 @@
 | 212 | [Darkwood](games/d/darkwood.md) | 319 | 4.61 | 351 |
 | 213 | [Dungeons 3](games/d/dungeons_3.md) | 317 | 4.65 | 288 |
 | 214 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 315 | 4.77 | 106 |
-| 215 | [Dishonored 2](games/d/dishonored_2.md) | 312 | 4.80 | 78 |
-| 216 | [The Messenger](games/t/the_messenger.md) | 311 | 4.80 | 78 |
-| 217 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 309 | 4.73 | 155 |
-| 218 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 306 | 4.59 | 390 |
-| 219 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 305 | 4.70 | 192 |
-| 220 | [Spellbreak](games/s/spellbreak.md) | 304 | 4.63 | 326 |
-| 221 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.27 | 764 |
-| 222 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 295 | 4.85 | 36 |
-| 223 | [Second Extinction™](games/s/second_extinction™.md) | 294 | 4.08 | 852 |
+| 215 | [Second Extinction™](games/s/second_extinction™.md) | 314 | 4.08 | 852 |
+| 216 | [Dishonored 2](games/d/dishonored_2.md) | 312 | 4.80 | 78 |
+| 217 | [The Messenger](games/t/the_messenger.md) | 311 | 4.80 | 78 |
+| 218 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 309 | 4.73 | 155 |
+| 219 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 306 | 4.59 | 390 |
+| 220 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 305 | 4.70 | 192 |
+| 221 | [Spellbreak](games/s/spellbreak.md) | 304 | 4.63 | 326 |
+| 222 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.27 | 764 |
+| 223 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 295 | 4.85 | 36 |
 | 224 | [House Flipper](games/h/house_flipper.md) | 280 | 4.70 | 192 |
 | 225 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 276 | 4.46 | 585 |
 | 226 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 275 | 4.43 | 631 |

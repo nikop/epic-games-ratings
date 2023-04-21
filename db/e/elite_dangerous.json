@@ -6,11 +6,11 @@
   "Ranking_Popularity": 101,
   "Ranking_PopularitySum": 71,
   "NumberOfRatings": 6856,
-  "NumberOfAwards": 11880,
+  "NumberOfAwards": 11882,
   "NumberOfAwardsMax": 2070,
   "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
-  "LastChanged": "2023-04-21T17:57:50.7637964+00:00",
+  "LastChanged": "2023-04-21T23:57:08.8189855+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:28.2143306+00:00",
@@ -3504,6 +3504,12 @@
       "Rating": 4.64,
       "NumberOfAwards": 11880,
       "NumberOfAwardsMax": 2070
+    },
+    {
+      "Time": "2023-04-21T23:57:08.8189856+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 11882,
+      "NumberOfAwardsMax": 2070
     }
   ],
   "Tags": [
@@ -3541,7 +3547,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 1970
+      "Count": 1972
     },
     {
       "Text": "This game has Amazing Storytelling",

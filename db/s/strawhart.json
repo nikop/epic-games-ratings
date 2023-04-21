@@ -1,6 +1,18 @@
 {
   "ID": "59c7280154cc4fe1a7c3a4a7d6f74adf",
   "Name": "Strawhart",
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-21T23:57:25.9719494+00:00",
+  "FirstSeenRating": "2023-04-21T23:57:25.9719541+00:00",
+  "LastChanged": "2023-04-21T23:57:25.9719541+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-21T23:57:25.9719547+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }
