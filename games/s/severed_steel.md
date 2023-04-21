@@ -1,13 +1,13 @@
 # Severed Steel
 Rating: 4.68 (Ranked 236)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 158  (Ranked 276)  
-Sum: 158 (Ranked 368)  
-Diff (max vs sum): -92
+Max (Great Boss Battles): 159  (Ranked 276)  
+Sum: 159 (Ranked 367)  
+Diff (max vs sum): -91
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 158 |
+| This game has Great Boss Battles | 159 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -34,3 +34,4 @@ Diff (max vs sum): -92
 | 2023-04-10 | 4.68 | 156 | 156 |
 | 2023-04-14 | 4.68 | 157 | 157 |
 | 2023-04-20 | 4.68 | 158 | 158 |
+| 2023-04-21 | 4.68 | 159 | 159 |

@@ -1,8 +1,8 @@
 {
   "ID": "c12a5687fb024192999b2d22c555d4c6",
   "Name": "Destroy All Humans!",
-  "Rating": 4.61,
-  "Ranking_Rating": 350,
+  "Rating": 4.62,
+  "Ranking_Rating": 336,
   "Ranking_Popularity": 423,
   "Ranking_PopularitySum": 445,
   "NumberOfRatings": 85,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
-  "LastChanged": "2023-04-08T21:58:04.3246035+00:00",
+  "LastChanged": "2023-04-21T20:57:46.983965+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:21.4096774+00:00",
@@ -260,6 +260,12 @@
     {
       "Time": "2023-04-08T21:58:04.3246038+00:00",
       "Rating": 4.61,
+      "NumberOfAwards": 34,
+      "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-04-21T20:57:46.9839652+00:00",
+      "Rating": 4.62,
       "NumberOfAwards": 34,
       "NumberOfAwardsMax": 34
     }

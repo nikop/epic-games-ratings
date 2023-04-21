@@ -1,5 +1,5 @@
 # Chivalry 2
-Rating: 4.61 (Ranked 350)  
+Rating: 4.61 (Ranked 351)  
 Number of Ratings: 18,078  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 3,975  (Ranked 72)  

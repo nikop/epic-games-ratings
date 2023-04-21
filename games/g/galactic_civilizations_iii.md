@@ -1,5 +1,5 @@
 # Galactic Civilizations III
-Rating: 4.21 (Ranked 792)  
+Rating: 4.21 (Ranked 793)  
 Number of Ratings: 1,085  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 175  (Ranked 265)  

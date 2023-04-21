@@ -1,5 +1,5 @@
 # Rayman Origins
-Rating: 4.79 (Ranked 90)  
+Rating: 4.80 (Ranked 78)  
 Number of Ratings: 34  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 485)  
@@ -48,3 +48,4 @@ Diff (max vs sum): 0
 | 2023-04-09 | 4.82 | - | 0 | 0 |
 | 2023-04-11 | 4.81 | - | 0 | 0 |
 | 2023-04-19 | 4.79 | - | 0 | 0 |
+| 2023-04-21 | 4.80 | - | 0 | 0 |

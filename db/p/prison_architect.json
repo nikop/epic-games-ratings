@@ -2,15 +2,15 @@
   "ID": "3ffb410dab2d409aacd39a1abc6fcbba",
   "Name": "Prison Architect",
   "Rating": 4.61,
-  "Ranking_Rating": 350,
+  "Ranking_Rating": 351,
   "Ranking_Popularity": 192,
   "Ranking_PopularitySum": 143,
   "NumberOfRatings": 4491,
-  "NumberOfAwards": 3158,
+  "NumberOfAwards": 3160,
   "NumberOfAwardsMax": 402,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
-  "LastChanged": "2023-04-21T19:56:46.7758845+00:00",
+  "LastChanged": "2023-04-21T20:56:53.9482067+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:08.1221805+00:00",
@@ -2582,6 +2582,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 3158,
       "NumberOfAwardsMax": 402
+    },
+    {
+      "Time": "2023-04-21T20:56:53.948207+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3160,
+      "NumberOfAwardsMax": 402
     }
   ],
   "Tags": [
@@ -2607,7 +2613,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 341
+      "Count": 343
     },
     {
       "Text": "This game has Obsessive Gameplay",

@@ -2,15 +2,15 @@
   "ID": "cbd5b3d310a54b12bf3fe8c41994174f",
   "Name": "VALORANT",
   "Rating": 4.54,
-  "Ranking_Rating": 474,
+  "Ranking_Rating": 473,
   "Ranking_Popularity": 11,
-  "Ranking_PopularitySum": 7,
+  "Ranking_PopularitySum": 6,
   "NumberOfRatings": 157172,
-  "NumberOfAwards": 374964,
-  "NumberOfAwardsMax": 49387,
+  "NumberOfAwards": 375482,
+  "NumberOfAwardsMax": 49514,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2023-04-20T21:58:37.3764541+00:00",
+  "LastChanged": "2023-04-21T20:58:06.2334297+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:57.2451126+00:00",
@@ -4116,6 +4116,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 374964,
       "NumberOfAwardsMax": 49387
+    },
+    {
+      "Time": "2023-04-21T20:58:06.2334298+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 375482,
+      "NumberOfAwardsMax": 49514
     }
   ],
   "Tags": [
@@ -4123,7 +4129,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 49387
+      "Count": 49514
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4135,7 +4141,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 41173
+      "Count": 41252
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4147,13 +4153,13 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 43022
+      "Count": 43101
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 41673
+      "Count": 41756
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4171,13 +4177,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 38619
+      "Count": 38700
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 39102
+      "Count": 39171
     }
   ]
 }

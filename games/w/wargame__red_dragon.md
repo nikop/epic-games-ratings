@@ -1,14 +1,14 @@
 # Wargame: Red Dragon
-Rating: 4.69 (Ranked 213)  
+Rating: 4.69 (Ranked 214)  
 Number of Ratings: 2,918  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Extremely Fun): 848  (Ranked 142)  
-Sum: 7,051 (Ranked 101)  
+Max (Extremely Fun): 849  (Ranked 142)  
+Sum: 7,052 (Ranked 101)  
 Diff (max vs sum): 41
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Extremely Fun | 848 |
+| This game is Extremely Fun | 849 |
 | This game is Highly Recommended | 848 |
 | This game has Diverse Characters | 844 |
 | This game is Educational | 834 |
@@ -109,4 +109,4 @@ Diff (max vs sum): 41
 | 2023-04-17 | 4.69 | - | 848 | 7,041 |
 | 2023-04-18 | 4.69 | - | 848 | 7,044 |
 | 2023-04-20 | 4.69 | - | 848 | 7,045 |
-| 2023-04-21 | 4.69 | - | 848 | 7,051 |
+| 2023-04-21 | 4.69 | - | 849 | 7,052 |

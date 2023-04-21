@@ -1,5 +1,5 @@
 # Tales from the Borderlands
-Rating: 4.69 (Ranked 213)  
+Rating: 4.69 (Ranked 214)  
 Number of Ratings: 31  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 485)  

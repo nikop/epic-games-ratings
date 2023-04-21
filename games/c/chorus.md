@@ -1,5 +1,5 @@
 # Chorus
-Rating: 4.47 (Ranked 570)  
+Rating: 4.47 (Ranked 571)  
 Number of Ratings: 58  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 32  (Ranked 429)  

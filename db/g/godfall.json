@@ -1,16 +1,16 @@
 {
   "ID": "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
   "Name": "Godfall",
-  "Rating": 4.06,
-  "Ranking_Rating": 859,
+  "Rating": 4.07,
+  "Ranking_Rating": 857,
   "Ranking_Popularity": 178,
   "Ranking_PopularitySum": 240,
   "NumberOfRatings": 818,
-  "NumberOfAwards": 808,
+  "NumberOfAwards": 809,
   "NumberOfAwardsMax": 504,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:17:29.0337311+00:00",
-  "LastChanged": "2023-04-18T16:57:19.5893019+00:00",
+  "LastChanged": "2023-04-21T20:56:56.0351398+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:29.0337314+00:00",
@@ -847,6 +847,12 @@
       "Rating": 4.06,
       "NumberOfAwards": 808,
       "NumberOfAwardsMax": 504
+    },
+    {
+      "Time": "2023-04-21T20:56:56.03514+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 809,
+      "NumberOfAwardsMax": 504
     }
   ],
   "Tags": [
@@ -896,7 +902,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game is Extremely Fun",

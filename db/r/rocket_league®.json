@@ -6,11 +6,11 @@
   "Ranking_Popularity": 2,
   "Ranking_PopularitySum": 2,
   "NumberOfRatings": 366020,
-  "NumberOfAwards": 2647152,
-  "NumberOfAwardsMax": 387255,
+  "NumberOfAwards": 2653138,
+  "NumberOfAwardsMax": 388384,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:17:22.1538752+00:00",
-  "LastChanged": "2023-04-20T20:57:03.4455542+00:00",
+  "LastChanged": "2023-04-21T20:56:54.849572+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:22.1538754+00:00",
@@ -4143,6 +4143,12 @@
       "Rating": 4.51,
       "NumberOfAwards": 2647152,
       "NumberOfAwardsMax": 387255
+    },
+    {
+      "Time": "2023-04-21T20:56:54.8495721+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 2653138,
+      "NumberOfAwardsMax": 388384
     }
   ],
   "Tags": [
@@ -4150,7 +4156,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 387255
+      "Count": 388384
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4162,49 +4168,49 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 337546
+      "Count": 338167
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 308106
+      "Count": 308707
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 302307
+      "Count": 302855
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 290345
+      "Count": 291009
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 252581
+      "Count": 253126
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 249925
+      "Count": 250571
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 238048
+      "Count": 238598
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 281039
+      "Count": 281721
     }
   ]
 }

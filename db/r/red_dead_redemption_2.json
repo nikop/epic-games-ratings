@@ -6,11 +6,11 @@
   "Ranking_Popularity": 7,
   "Ranking_PopularitySum": 8,
   "NumberOfRatings": 102658,
-  "NumberOfAwards": 341874,
-  "NumberOfAwardsMax": 134724,
+  "NumberOfAwards": 342217,
+  "NumberOfAwardsMax": 135033,
   "MaxAwardTitle": "Impact the Story",
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-04-21T01:56:37.55111+00:00",
+  "LastChanged": "2023-04-21T20:57:27.6275202+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:15.0342453+00:00",
@@ -4704,6 +4704,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 341874,
       "NumberOfAwardsMax": 134724
+    },
+    {
+      "Time": "2023-04-21T20:57:27.6275203+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 342217,
+      "NumberOfAwardsMax": 135033
     }
   ],
   "Tags": [
@@ -4711,7 +4717,7 @@
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 134724
+      "Count": 135033
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -4729,7 +4735,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 12425
+      "Count": 12459
     },
     {
       "Text": "This game has Amazing Storytelling",

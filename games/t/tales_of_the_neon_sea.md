@@ -1,5 +1,5 @@
 # Tales of the Neon Sea
-Rating: 4.55 (Ranked 464)  
+Rating: 4.54 (Ranked 473)  
 Number of Ratings: 251  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 485)  
@@ -79,3 +79,4 @@ Diff (max vs sum): 0
 | 2022-12-30 | 4.54 | - | - | - |
 | 2023-01-05 | 4.55 | - | - | - |
 | 2023-03-31 | 4.55 | - | 0 | 0 |
+| 2023-04-21 | 4.54 | - | 0 | 0 |

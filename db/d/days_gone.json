@@ -2,15 +2,15 @@
   "ID": "9f4875c1b0cf4cf19b28e203fc7aff07",
   "Name": "Days Gone",
   "Rating": 4.69,
-  "Ranking_Rating": 213,
+  "Ranking_Rating": 214,
   "Ranking_Popularity": 76,
   "Ranking_PopularitySum": 107,
   "NumberOfRatings": 3949,
-  "NumberOfAwards": 6600,
+  "NumberOfAwards": 6601,
   "NumberOfAwardsMax": 3723,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:29:37.7111961+00:00",
-  "LastChanged": "2023-04-20T20:58:27.3479672+00:00",
+  "LastChanged": "2023-04-21T20:58:03.9042006+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:37.7111964+00:00",
@@ -2240,6 +2240,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 6600,
       "NumberOfAwardsMax": 3723
+    },
+    {
+      "Time": "2023-04-21T20:58:03.9042007+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 6601,
+      "NumberOfAwardsMax": 3723
     }
   ],
   "Tags": [
@@ -2253,7 +2259,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 353
+      "Count": 354
     },
     {
       "Text": "This game is Relaxing",

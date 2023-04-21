@@ -1,5 +1,5 @@
 # Nuclear Throne
-Rating: 4.79 (Ranked 90)  
+Rating: 4.79 (Ranked 92)  
 Number of Ratings: 631  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 364  (Ranked 204)  

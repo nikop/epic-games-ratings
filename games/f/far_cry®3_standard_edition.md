@@ -1,5 +1,5 @@
 # Far Cry®3 Standard Edition
-Rating: 4.69 (Ranked 213)  
+Rating: 4.69 (Ranked 214)  
 Number of Ratings: 504  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 322  (Ranked 210)  

@@ -3,14 +3,14 @@
   "Name": "Ghostwire: Tokyo",
   "Rating": 4.52,
   "Ranking_Rating": 497,
-  "Ranking_Popularity": 180,
+  "Ranking_Popularity": 179,
   "Ranking_PopularitySum": 271,
   "NumberOfRatings": 1100,
-  "NumberOfAwards": 627,
-  "NumberOfAwardsMax": 494,
+  "NumberOfAwards": 628,
+  "NumberOfAwardsMax": 495,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:20:08.0109801+00:00",
-  "LastChanged": "2023-04-19T01:58:52.1188976+00:00",
+  "LastChanged": "2023-04-21T20:57:09.9078726+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:08.0109804+00:00",
@@ -553,6 +553,12 @@
       "Rating": 4.52,
       "NumberOfAwards": 627,
       "NumberOfAwardsMax": 494
+    },
+    {
+      "Time": "2023-04-21T20:57:09.9078728+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 628,
+      "NumberOfAwardsMax": 495
     }
   ],
   "Tags": [
@@ -560,7 +566,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 494
+      "Count": 495
     },
     {
       "Text": "This game has Amazing Characters",

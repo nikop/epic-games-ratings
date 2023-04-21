@@ -1,9 +1,9 @@
 # Godfall
-Rating: 4.06 (Ranked 859)  
+Rating: 4.07 (Ranked 857)  
 Number of Ratings: 818  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 504  (Ranked 178)  
-Sum: 808 (Ranked 240)  
+Sum: 809 (Ranked 240)  
 Diff (max vs sum): -62
 ## Awards
 | Award | Count |
@@ -13,8 +13,8 @@ Diff (max vs sum): -62
 | This game is Highly Recommended | 45 |
 | This game has Diverse Characters | 44 |
 | This game has Amazing Characters | 44 |
+| This game has Quickly Understood Controls | 42 |
 | This game is Relaxing | 41 |
-| This game has Quickly Understood Controls | 41 |
 | This game is Extremely Fun | 40 |
 | This game has Amazing Storytelling | 32 |
 | This game has Obsessive Gameplay | 31 |
@@ -111,3 +111,4 @@ Diff (max vs sum): -62
 | 2023-04-11 | 4.06 | - | 502 | 806 |
 | 2023-04-13 | 4.06 | - | 503 | 807 |
 | 2023-04-18 | 4.06 | - | 504 | 808 |
+| 2023-04-21 | 4.07 | - | 504 | 809 |

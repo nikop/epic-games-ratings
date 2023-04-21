@@ -1,17 +1,17 @@
 # Ghost Recon Breakpoint Standard Edition
-Rating: 4.54 (Ranked 474)  
+Rating: 4.54 (Ranked 473)  
 Number of Ratings: 4,870  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 992  (Ranked 134)  
-Sum: 7,635 (Ranked 92)  
+Sum: 7,637 (Ranked 92)  
 Diff (max vs sum): 42
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 992 |
 | This game has Quickly Understood Controls | 908 |
+| This game has Amazing Storytelling | 868 |
 | This game is Relaxing | 867 |
-| This game has Amazing Storytelling | 866 |
 | This game is Extremely Fun | 862 |
 | This game is Highly Recommended | 853 |
 | This game has Diverse Characters | 839 |
@@ -117,4 +117,4 @@ Diff (max vs sum): 42
 | 2023-04-18 | 4.54 | - | 984 | 7,589 |
 | 2023-04-19 | 4.54 | - | 984 | 7,596 |
 | 2023-04-20 | 4.54 | - | 987 | 7,617 |
-| 2023-04-21 | 4.54 | - | 992 | 7,635 |
+| 2023-04-21 | 4.54 | - | 992 | 7,637 |
