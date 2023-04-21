@@ -2,13 +2,13 @@
 Rating: 4.61 (Ranked 349)  
 Number of Ratings: 25,175  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Challenging Puzzles): 7,598  (Ranked 40)  
-Sum: 9,873 (Ranked 78)  
+Max (Challenging Puzzles): 7,599  (Ranked 40)  
+Sum: 9,874 (Ranked 78)  
 Diff (max vs sum): -38
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 7,598 |
+| This game features Challenging Puzzles | 7,599 |
 | This game is Educational | 277 |
 | This game is Relaxing | 273 |
 | This game has Amazing Characters | 271 |
@@ -98,3 +98,4 @@ Diff (max vs sum): -38
 | 2023-04-15 | 4.61 | - | 7,596 | 9,871 |
 | 2023-04-17 | 4.61 | - | 7,597 | 9,872 |
 | 2023-04-19 | 4.61 | - | 7,598 | 9,873 |
+| 2023-04-21 | 4.61 | - | 7,599 | 9,874 |

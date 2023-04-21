@@ -1,8 +1,8 @@
 {
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
-  "Rating": 4.64,
-  "Ranking_Rating": 312,
+  "Rating": 4.65,
+  "Ranking_Rating": 288,
   "Ranking_Popularity": 465,
   "Ranking_PopularitySum": 468,
   "NumberOfAwards": 22,
@@ -10,7 +10,7 @@
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
-  "LastChanged": "2023-04-21T03:57:42.8633933+00:00",
+  "LastChanged": "2023-04-21T10:57:04.2016172+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-21T16:57:02.7003964+00:00",
@@ -199,6 +199,12 @@
     {
       "Time": "2023-04-21T03:57:42.8633935+00:00",
       "Rating": 4.64,
+      "NumberOfAwards": 22,
+      "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-04-21T10:57:04.2016174+00:00",
+      "Rating": 4.65,
       "NumberOfAwards": 22,
       "NumberOfAwardsMax": 22
     }
