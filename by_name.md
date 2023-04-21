@@ -166,7 +166,7 @@
 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 823 | 605 | 162 |
 | [Dark Light](games/d/dark_light.md) | 4.33 | 723 | 0 | 485 |
 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 257 | 6,465 | 47 |
-| [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 127 | 3,150 | 83 |
+| [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 127 | 3,151 | 83 |
 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 496 | 38 | 409 |
 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 349 | 374 | 202 |
 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 539 | 88 | 331 |
@@ -296,7 +296,7 @@
 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 423 | 0 | 485 |
 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 539 | 211 | 247 |
 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 584 | 106 | 309 |
-| [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 165 | 450 | 186 |
+| [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 165 | 451 | 186 |
 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 496 | 494 | 179 |
 | [GigaBash](games/g/gigabash.md) | 4.65 | 288 | 0 | 485 |
 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 569 | 3,428 | 79 |
@@ -442,7 +442,7 @@
 | [Maneater](games/m/maneater.md) | 4.49 | 539 | 13,393 | 24 |
 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 522 | 0 | 485 |
 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.03 | 864 | 0 | 485 |
-| [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 154 | 543 | 173 |
+| [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 154 | 545 | 172 |
 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 496 | 1,064 | 127 |
 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 24 | 11,295 | 31 |
 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 90 | 985 | 135 |

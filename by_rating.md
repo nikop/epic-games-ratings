@@ -128,7 +128,7 @@
 | 113 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 485 |
 | 127 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 459 |
 | 127 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,728 | 64 |
-| 127 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,150 | 83 |
+| 127 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,151 | 83 |
 | 127 | [Diabotical](games/d/diabotical.md) | 4.75 | 264 | 232 |
 | 127 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 375 | 201 |
 | 127 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 96 | 321 |
@@ -155,7 +155,7 @@
 | 141 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 576 | 164 |
 | 154 | [BLACKTAIL](games/b/blacktail.md) | 4.73 | 0 | 485 |
 | 154 | [DOOM II](games/d/doom_ii.md) | 4.73 | 25 | 457 |
-| 154 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 543 | 173 |
+| 154 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 545 | 172 |
 | 154 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 139 | 284 |
 | 154 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.73 | 0 | 485 |
 | 154 | [Outlast](games/o/outlast.md) | 4.73 | 0 | 485 |
@@ -165,7 +165,7 @@
 | 154 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 0 | 485 |
 | 154 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 0 | 485 |
 | 165 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.72 | 0 | 485 |
-| 165 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 450 | 186 |
+| 165 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 451 | 186 |
 | 165 | [Haven](games/h/haven.md) | 4.72 | 0 | 485 |
 | 165 | [Northgard](games/n/northgard.md) | 4.72 | 27 | 447 |
 | 165 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 406 |

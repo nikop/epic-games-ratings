@@ -82,7 +82,7 @@
 | 80 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,315 | 4.68 | 236 |
 | 81 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,219 | 4.46 | 584 |
 | 82 | [Paladins](games/p/paladins.md) | 3,172 | 4.35 | 707 |
-| 83 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,150 | 4.75 | 127 |
+| 83 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,151 | 4.75 | 127 |
 | 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,139 | 4.59 | 389 |
 | 85 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,006 | 4.57 | 423 |
 | 86 | [Hades](games/h/hades.md) | 3,003 | 4.92 | 3 |
@@ -171,8 +171,8 @@
 | 169 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 549 | 4.68 | 236 |
 | 170 | [Filament](games/f/filament.md) | 548 | 4.32 | 732 |
 | 171 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 546 | 4.66 | 274 |
+| 172 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 545 | 4.73 | 154 |
 | 172 | [Vampyr](games/v/vampyr.md) | 545 | 4.32 | 732 |
-| 173 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 543 | 4.73 | 154 |
 | 174 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 540 | 4.39 | 671 |
 | 175 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 532 | 4.42 | 637 |
 | 176 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 527 | 4.62 | 335 |
@@ -185,7 +185,7 @@
 | 183 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 476 | 4.82 | 60 |
 | 184 | [Unreal Tournament](games/u/unreal_tournament.md) | 457 | 4.66 | 274 |
 | 185 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 452 | 4.86 | 28 |
-| 186 | [Ghostrunner](games/g/ghostrunner.md) | 450 | 4.72 | 165 |
+| 186 | [Ghostrunner](games/g/ghostrunner.md) | 451 | 4.72 | 165 |
 | 187 | [Surviving Mars](games/s/surviving_mars.md) | 430 | 4.60 | 374 |
 | 188 | [Against the Storm](games/a/against_the_storm.md) | 416 | 4.81 | 71 |
 | 189 | [Riders Republic](games/r/riders_republic.md) | 414 | 4.75 | 127 |
