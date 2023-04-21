@@ -336,7 +336,7 @@
 | 326 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 0 | 485 |
 | 335 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 62,213 | 9 |
 | 335 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 272 | 227 |
-| 335 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,175 | 121 |
+| 335 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,179 | 121 |
 | 335 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 527 | 176 |
 | 335 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 485 |
 | 335 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 575 | 166 |
@@ -455,7 +455,7 @@
 | 441 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 69 | 356 |
 | 441 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 485 |
 | 441 | [Minit](games/m/minit.md) | 4.56 | 0 | 485 |
-| 441 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,733 | 63 |
+| 441 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,734 | 63 |
 | 441 | [Observation](games/o/observation.md) | 4.56 | 0 | 485 |
 | 441 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,762 | 106 |
 | 441 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 0 | 485 |
@@ -881,11 +881,11 @@
 | 879 | [Patron](games/p/patron.md) | 3.94 | 0 | 485 |
 | 880 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 0 | 485 |
 | 881 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 442 |
+| 881 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.92 | 156 | 278 |
 | 881 | [Ironcast](games/i/ironcast.md) | 3.92 | 0 | 485 |
 | 881 | [Warface](games/w/warface.md) | 3.92 | 380 | 200 |
-| 884 | [Conarium](games/c/conarium.md) | 3.91 | 0 | 485 |
-| 884 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.91 | 156 | 278 |
-| 884 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 311 |
+| 885 | [Conarium](games/c/conarium.md) | 3.91 | 0 | 485 |
+| 885 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 311 |
 | 887 | [Chimeraland](games/c/chimeraland.md) | 3.89 | 0 | 485 |
 | 888 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.88 | 0 | 485 |
 | 889 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.87 | 0 | 485 |

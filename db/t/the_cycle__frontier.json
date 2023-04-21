@@ -4,13 +4,13 @@
   "Rating": 4.1,
   "Ranking_Rating": 843,
   "Ranking_Popularity": 96,
-  "Ranking_PopularitySum": 60,
+  "Ranking_PopularitySum": 68,
   "NumberOfRatings": 15671,
-  "NumberOfAwards": 14510,
+  "NumberOfAwards": 12533,
   "NumberOfAwardsMax": 2204,
   "MaxAwardTitle": "Competitive Players",
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "LastChanged": "2023-04-21T01:56:03.2834044+00:00",
+  "LastChanged": "2023-04-21T05:57:19.0582795+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:03.6642348+00:00",
@@ -3745,6 +3745,12 @@
       "Time": "2023-04-21T01:56:03.2834045+00:00",
       "Rating": 4.1,
       "NumberOfAwards": 14510,
+      "NumberOfAwardsMax": 2204
+    },
+    {
+      "Time": "2023-04-21T05:57:19.0582798+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 12533,
       "NumberOfAwardsMax": 2204
     }
   ],
