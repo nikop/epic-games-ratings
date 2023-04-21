@@ -26,7 +26,7 @@
 | 24 | [Maneater](games/m/maneater.md) | 13,393 | 4.49 | 539 |
 | 25 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,170 | 4.60 | 374 |
 | 26 | [League of Legends](games/l/league_of_legends.md) | 12,609 | 4.21 | 791 |
-| 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,226 | 4.37 | 692 |
+| 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,230 | 4.37 | 692 |
 | 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,796 | 4.41 | 649 |
 | 29 | [NBA 2K21](games/n/nba_2k21.md) | 11,637 | 4.39 | 671 |
 | 30 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 11,428 | 4.60 | 374 |
@@ -46,7 +46,7 @@
 | 44 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,748 | 4.89 | 12 |
 | 45 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 637 |
 | 46 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,488 | 4.47 | 569 |
-| 47 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 6,460 | 4.67 | 257 |
+| 47 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 6,465 | 4.67 | 257 |
 | 48 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 6,457 | 4.57 | 423 |
 | 49 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,405 | 4.74 | 141 |
 | 50 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,230 | 4.80 | 78 |
@@ -88,7 +88,7 @@
 | 86 | [Hades](games/h/hades.md) | 3,001 | 4.92 | 3 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 2,957 | 4.68 | 236 |
 | 88 | [Path of Exile](games/p/path_of_exile.md) | 2,431 | 4.61 | 349 |
-| 89 | [Trackmania](games/t/trackmania.md) | 2,424 | 4.67 | 257 |
+| 89 | [Trackmania](games/t/trackmania.md) | 2,425 | 4.67 | 257 |
 | 90 | [Rage 2](games/r/rage_2.md) | 2,419 | 4.28 | 760 |
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,392 | 4.76 | 113 |
 | 92 | [Among Us](games/a/among_us.md) | 2,367 | 4.58 | 407 |
@@ -98,7 +98,7 @@
 | 96 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,204 | 4.10 | 843 |
 | 97 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,192 | 4.49 | 539 |
 | 98 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,158 | 4.41 | 649 |
-| 99 | [Gotham Knights](games/g/gotham_knights.md) | 2,141 | 4.17 | 818 |
+| 99 | [Gotham Knights](games/g/gotham_knights.md) | 2,144 | 4.17 | 818 |
 | 100 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,129 | 4.37 | 692 |
 | 101 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,067 | 4.64 | 312 |
 | 102 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,967 | 4.49 | 539 |
@@ -128,7 +128,7 @@
 | 126 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,065 | 4.61 | 349 |
 | 127 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,064 | 4.52 | 496 |
 | 128 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,058 | 4.61 | 349 |
-| 129 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,029 | 4.66 | 274 |
+| 129 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,030 | 4.66 | 274 |
 | 130 | [Saints Row](games/s/saints_row.md) | 1,019 | 3.78 | 894 |
 | 131 | [EVE Online](games/e/eve_online.md) | 1,006 | 4.26 | 768 |
 | 132 | [World of Warships](games/w/world_of_warships.md) | 1,003 | 4.44 | 615 |
@@ -199,7 +199,7 @@
 | 197 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 391 | 4.49 | 539 |
 | 198 | [Slime Rancher](games/s/slime_rancher.md) | 385 | 4.83 | 54 |
 | 199 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 381 | 4.40 | 663 |
-| 200 | [Warface](games/w/warface.md) | 380 | 3.92 | 881 |
+| 200 | [Warface](games/w/warface.md) | 380 | 3.91 | 884 |
 | 201 | [Football Manager 2023](games/f/football_manager_2023.md) | 375 | 4.75 | 127 |
 | 202 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 374 | 4.61 | 349 |
 | 203 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 367 | 3.99 | 869 |
@@ -306,14 +306,14 @@
 | 303 | [Tropico 5](games/t/tropico_5.md) | 113 | 4.45 | 596 |
 | 305 | [Overcooked](games/o/overcooked.md) | 112 | 4.67 | 257 |
 | 306 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 111 | 4.82 | 60 |
-| 307 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 108 | 4.71 | 178 |
-| 308 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 106 | 4.46 | 583 |
-| 309 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 104 | 4.49 | 539 |
-| 309 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 104 | 4.51 | 508 |
-| 311 | [Faeria](games/f/faeria.md) | 103 | 4.45 | 596 |
-| 311 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 103 | 3.91 | 885 |
-| 313 | [The Sims™ 4](games/t/the_sims™_4.md) | 102 | 4.60 | 374 |
-| 313 | [Tropico 6](games/t/tropico_6.md) | 102 | 4.67 | 257 |
+| 307 | [The Sims™ 4](games/t/the_sims™_4.md) | 110 | 4.60 | 374 |
+| 308 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 108 | 4.71 | 178 |
+| 309 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 106 | 4.46 | 583 |
+| 310 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 104 | 4.49 | 539 |
+| 310 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 104 | 4.51 | 508 |
+| 312 | [Faeria](games/f/faeria.md) | 103 | 4.45 | 596 |
+| 312 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 103 | 3.91 | 884 |
+| 314 | [Tropico 6](games/t/tropico_6.md) | 102 | 4.67 | 257 |
 | 315 | [Phantom Brigade](games/p/phantom_brigade.md) | 101 | 4.62 | 335 |
 | 315 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 101 | 4.80 | 78 |
 | 315 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 101 | 4.85 | 36 |

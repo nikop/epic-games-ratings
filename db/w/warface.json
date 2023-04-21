@@ -1,16 +1,16 @@
 {
   "ID": "80e804312c2149c69a75aee703e85a9a",
   "Name": "Warface",
-  "Rating": 3.92,
-  "Ranking_Rating": 881,
+  "Rating": 3.91,
+  "Ranking_Rating": 884,
   "Ranking_Popularity": 200,
   "Ranking_PopularitySum": 149,
   "NumberOfRatings": 3179,
-  "NumberOfAwards": 2995,
+  "NumberOfAwards": 2996,
   "NumberOfAwardsMax": 380,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2023-04-20T15:58:21.4115681+00:00",
+  "LastChanged": "2023-04-21T07:58:50.2799946+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:34.3823286+00:00",
@@ -2363,6 +2363,12 @@
       "Rating": 3.92,
       "NumberOfAwards": 2995,
       "NumberOfAwardsMax": 380
+    },
+    {
+      "Time": "2023-04-21T07:58:50.279995+00:00",
+      "Rating": 3.91,
+      "NumberOfAwards": 2996,
+      "NumberOfAwardsMax": 380
     }
   ],
   "Tags": [
@@ -2406,7 +2412,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 365
+      "Count": 366
     },
     {
       "Text": "This game is Highly Recommended",
