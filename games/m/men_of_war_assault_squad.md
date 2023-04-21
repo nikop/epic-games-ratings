@@ -1,5 +1,5 @@
 # Men of War Assault Squad
-Rating: 4.67 (Ranked 257)  
+Rating: 4.67 (Ranked 256)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 485)  
 Sum: 0 (Ranked 485)  
