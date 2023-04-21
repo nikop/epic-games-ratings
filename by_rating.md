@@ -100,7 +100,7 @@
 | 90 | [Rayman Origins](games/r/rayman_origins.md) | 4.79 | 0 | 485 |
 | 90 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 485 |
 | 90 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 903 | 140 |
-| 101 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,550 | 65 |
+| 101 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,563 | 65 |
 | 101 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,671 | 36 |
 | 101 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 17,712 | 19 |
 | 101 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 141 | 283 |
@@ -401,7 +401,7 @@
 | 389 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 74 | 347 |
 | 389 | [The Colonists](games/t/the_colonists.md) | 4.59 | 0 | 485 |
 | 389 | [The Medium](games/t/the_medium.md) | 4.59 | 0 | 485 |
-| 389 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,135 | 84 |
+| 389 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,139 | 84 |
 | 389 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 30 | 438 |
 | 389 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 690 | 153 |
 | 389 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.59 | 0 | 485 |
@@ -469,7 +469,7 @@
 | 463 | [Hue](games/h/hue.md) | 4.55 | 0 | 485 |
 | 463 | [Outward](games/o/outward.md) | 4.55 | 31 | 435 |
 | 463 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 485 |
-| 463 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 816 | 145 |
+| 463 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 817 | 144 |
 | 463 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.55 | 32 | 429 |
 | 463 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 485 |
 | 473 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 426 |
@@ -881,11 +881,11 @@
 | 879 | [Patron](games/p/patron.md) | 3.94 | 0 | 485 |
 | 880 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 0 | 485 |
 | 881 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 442 |
-| 881 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.92 | 156 | 278 |
 | 881 | [Ironcast](games/i/ironcast.md) | 3.92 | 0 | 485 |
 | 881 | [Warface](games/w/warface.md) | 3.92 | 380 | 200 |
-| 885 | [Conarium](games/c/conarium.md) | 3.91 | 0 | 485 |
-| 885 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 311 |
+| 884 | [Conarium](games/c/conarium.md) | 3.91 | 0 | 485 |
+| 884 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.91 | 156 | 278 |
+| 884 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 311 |
 | 887 | [Chimeraland](games/c/chimeraland.md) | 3.89 | 0 | 485 |
 | 888 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.88 | 0 | 485 |
 | 889 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.87 | 0 | 485 |

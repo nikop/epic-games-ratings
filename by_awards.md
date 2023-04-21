@@ -64,7 +64,7 @@
 | 62 | [Rogue Company](games/r/rogue_company.md) | 4,815 | 4.34 | 716 |
 | 63 | [MultiVersus](games/m/multiversus.md) | 4,733 | 4.56 | 441 |
 | 64 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4,728 | 4.75 | 127 |
-| 65 | [DEATH STRANDING](games/d/death_stranding.md) | 4,550 | 4.78 | 101 |
+| 65 | [DEATH STRANDING](games/d/death_stranding.md) | 4,563 | 4.78 | 101 |
 | 66 | [Shop Titans](games/s/shop_titans.md) | 4,527 | 3.98 | 872 |
 | 67 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,486 | 4.70 | 190 |
 | 68 | [Cities: Skylines](games/c/cities__skylines.md) | 4,308 | 4.65 | 288 |
@@ -83,7 +83,7 @@
 | 81 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,215 | 4.46 | 583 |
 | 82 | [Paladins](games/p/paladins.md) | 3,172 | 4.35 | 707 |
 | 83 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,150 | 4.75 | 127 |
-| 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,135 | 4.59 | 389 |
+| 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,139 | 4.59 | 389 |
 | 85 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,006 | 4.57 | 423 |
 | 86 | [Hades](games/h/hades.md) | 3,001 | 4.92 | 3 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 2,957 | 4.68 | 236 |
@@ -144,7 +144,7 @@
 | 142 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 848 | 4.69 | 212 |
 | 143 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 846 | 4.45 | 596 |
 | 144 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 817 | 4.76 | 113 |
-| 145 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 816 | 4.55 | 463 |
+| 144 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 817 | 4.55 | 463 |
 | 146 | [Frostpunk](games/f/frostpunk.md) | 765 | 4.74 | 141 |
 | 147 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 764 | 4.69 | 212 |
 | 148 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 751 | 4.50 | 522 |
@@ -277,7 +277,7 @@
 | 275 | [Mothergunship](games/m/mothergunship.md) | 161 | 4.39 | 671 |
 | 276 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 158 | 4.80 | 78 |
 | 276 | [Severed Steel](games/s/severed_steel.md) | 158 | 4.68 | 236 |
-| 278 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 156 | 3.92 | 881 |
+| 278 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 156 | 3.91 | 884 |
 | 279 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 149 | 4.57 | 423 |
 | 280 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 148 | 4.65 | 288 |
 | 281 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 147 | 4.52 | 496 |
@@ -311,7 +311,7 @@
 | 309 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 104 | 4.49 | 539 |
 | 309 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 104 | 4.51 | 508 |
 | 311 | [Faeria](games/f/faeria.md) | 103 | 4.45 | 596 |
-| 311 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 103 | 3.91 | 885 |
+| 311 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 103 | 3.91 | 884 |
 | 313 | [The Sims™ 4](games/t/the_sims™_4.md) | 102 | 4.60 | 374 |
 | 313 | [Tropico 6](games/t/tropico_6.md) | 102 | 4.67 | 257 |
 | 315 | [Phantom Brigade](games/p/phantom_brigade.md) | 101 | 4.62 | 335 |

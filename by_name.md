@@ -135,7 +135,7 @@
 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 872 | 0 | 485 |
 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 348 | 0 | 485 |
 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 463 | 1,066 | 125 |
-| [Conarium](games/c/conarium.md) | 3.91 | 885 | 0 | 485 |
+| [Conarium](games/c/conarium.md) | 3.91 | 884 | 0 | 485 |
 | [Control](games/c/control.md) | 4.60 | 374 | 8,232 | 37 |
 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 60 | 0 | 485 |
 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 539 | 104 | 309 |
@@ -148,7 +148,7 @@
 | [Crashlands](games/c/crashlands.md) | 4.66 | 274 | 187 | 258 |
 | [Crayta](games/c/crayta.md) | 4.19 | 807 | 50 | 379 |
 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 763 | 22 | 465 |
-| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.92 | 881 | 156 | 278 |
+| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.91 | 884 | 156 | 278 |
 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 699 | 170 | 267 |
 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 707 | 90 | 330 |
 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 522 | 209 | 249 |
@@ -180,7 +180,7 @@
 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 18 | 247 | 234 |
 | [Dead Space](games/d/dead_space.md) | 4.76 | 113 | 35 | 419 |
 | [Death Coming](games/d/death_coming.md) | 4.43 | 629 | 0 | 485 |
-| [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 101 | 4,550 | 65 |
+| [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 101 | 4,563 | 65 |
 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 12 | 6,748 | 44 |
 | [Death's Door](games/d/death's_door.md) | 4.66 | 274 | 0 | 485 |
 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 473 | 33 | 426 |
@@ -262,7 +262,7 @@
 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 814 | 0 | 485 |
 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 178 | 6,139 | 51 |
 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 190 | 4,091 | 70 |
-| [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 885 | 103 | 311 |
+| [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 884 | 103 | 311 |
 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 441 | 27 | 447 |
 | [Fez](games/f/fez.md) | 4.71 | 178 | 23 | 461 |
 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.68 | 236 | 0 | 485 |
@@ -534,7 +534,7 @@
 | [Patron](games/p/patron.md) | 3.94 | 879 | 0 | 485 |
 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 274 | 1,029 | 129 |
 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 348 | 588 | 163 |
-| [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 463 | 816 | 145 |
+| [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 463 | 817 | 144 |
 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 335 | 101 | 315 |
 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 441 | 1,762 | 106 |
 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 165 | 0 | 485 |
@@ -785,7 +785,7 @@
 | [The Witness](games/t/the_witness.md) | 4.69 | 212 | 168 | 270 |
 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.80 | 78 | 0 | 485 |
 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 855 | 0 | 485 |
-| [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 389 | 3,135 | 84 |
+| [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 389 | 3,139 | 84 |
 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.63 | 326 | 0 | 485 |
 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 389 | 30 | 438 |
 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 165 | 0 | 485 |
