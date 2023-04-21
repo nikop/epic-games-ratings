@@ -1,5 +1,5 @@
 # Warhammer 40,000: Gladius - Relics of War
-Rating: 4.31 (Ranked 742)  
+Rating: 4.32 (Ranked 733)  
 Number of Ratings: 39  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 48  (Ranked 385)  
@@ -81,4 +81,4 @@ Diff (max vs sum): 67
 | 2023-04-18 | 4.31 | - | 43 | 295 |
 | 2023-04-19 | 4.31 | - | 45 | 299 |
 | 2023-04-20 | 4.31 | - | 46 | 307 |
-| 2023-04-21 | 4.31 | - | 48 | 311 |
+| 2023-04-21 | 4.32 | - | 48 | 311 |

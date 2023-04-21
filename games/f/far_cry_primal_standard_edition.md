@@ -1,5 +1,5 @@
 # Far Cry Primal Standard Edition
-Rating: 4.70 (Ranked 190)  
+Rating: 4.70 (Ranked 191)  
 Number of Ratings: 463  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 305  (Ranked 219)  

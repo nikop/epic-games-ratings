@@ -1,9 +1,9 @@
 # My Time at Sandrock
-Rating: 4.68 (Ranked 236)  
+Rating: 4.68 (Ranked 235)  
 Number of Ratings: 892  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 549  (Ranked 169)  
-Sum: 1,177 (Ranked 218)  
+Sum: 1,178 (Ranked 218)  
 Diff (max vs sum): -49
 ## Awards
 | Award | Count |
@@ -16,7 +16,7 @@ Diff (max vs sum): -49
 | This game has Diverse Characters | 64 |
 | This game has Amazing Characters | 61 |
 | This game has Amazing Storytelling | 61 |
-| This game is Relaxing | 60 |
+| This game is Relaxing | 61 |
 | This game has Easy Combat | 56 |
 | This game has a Kind Community | 42 |
 | This game has Obsessive Gameplay | 40 |
@@ -100,3 +100,4 @@ Diff (max vs sum): -49
 | 2023-04-17 | 4.68 | - | 549 | 1,133 |
 | 2023-04-18 | 4.68 | - | 549 | 1,134 |
 | 2023-04-19 | 4.68 | - | 549 | 1,177 |
+| 2023-04-21 | 4.68 | - | 549 | 1,178 |

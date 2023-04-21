@@ -1,8 +1,8 @@
 {
   "ID": "0d89655f53884b09b241b60c07e684af",
   "Name": "Warhammer 40,000: Gladius - Relics of War",
-  "Rating": 4.31,
-  "Ranking_Rating": 742,
+  "Rating": 4.32,
+  "Ranking_Rating": 733,
   "Ranking_Popularity": 385,
   "Ranking_PopularitySum": 318,
   "NumberOfRatings": 39,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 48,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:19:36.3681248+00:00",
-  "LastChanged": "2023-04-21T15:57:40.9862831+00:00",
+  "LastChanged": "2023-04-21T17:57:46.7788415+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:36.3681251+00:00",
@@ -653,6 +653,12 @@
     {
       "Time": "2023-04-21T15:57:40.9862833+00:00",
       "Rating": 4.31,
+      "NumberOfAwards": 311,
+      "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-04-21T17:57:46.7788416+00:00",
+      "Rating": 4.32,
       "NumberOfAwards": 311,
       "NumberOfAwardsMax": 48
     }
