@@ -1,5 +1,5 @@
 # Pinball FX
-Rating: 4.03 (Ranked 864)  
+Rating: 4.03 (Ranked 865)  
 Number of Ratings: 756  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 169  (Ranked 268)  

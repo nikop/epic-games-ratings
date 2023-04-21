@@ -1,10 +1,10 @@
 # ATOM RPG
-Rating: 4.45 (Ranked 596)  
+Rating: 4.45 (Ranked 597)  
 Number of Ratings: 54  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 46  (Ranked 389)  
+Max (Character Customization): 46  (Ranked 390)  
 Sum: 46 (Ranked 431)  
-Diff (max vs sum): -42
+Diff (max vs sum): -41
 ## Awards
 | Award | Count |
 | ----- | ----- |

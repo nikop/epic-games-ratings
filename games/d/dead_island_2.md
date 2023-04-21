@@ -1,13 +1,13 @@
 # Dead Island 2
-Rating: - (Ranked -)  
+Rating: 4.48 (Ranked 559)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked -)  
-Sum: 0 (Ranked -)  
-Diff (max vs sum): -
+Max (): 0  (Ranked 485)  
+Sum: 0 (Ranked 485)  
+Diff (max vs sum): 0
 ## Awards
 | Award | Count |
 | ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
-| 2023-04-21 | - | 0 | 0 |
+| 2023-04-21 | 4.48 | 0 | 0 |

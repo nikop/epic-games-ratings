@@ -1,5 +1,5 @@
 # Martha Is Dead
-Rating: 4.03 (Ranked 864)  
+Rating: 4.03 (Ranked 865)  
 Number of Ratings: 39  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 485)  

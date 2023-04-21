@@ -1,5 +1,5 @@
 # Galactic Civilizations IV
-Rating: 4.18 (Ranked 813)  
+Rating: 4.18 (Ranked 814)  
 Number of Ratings: 429  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 87  (Ranked 333)  

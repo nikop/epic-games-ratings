@@ -1,5 +1,5 @@
 # Ranch Simulator
-Rating: 4.44 (Ranked 615)  
+Rating: 4.44 (Ranked 616)  
 Number of Ratings: 338  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 45  (Ranked 393)  

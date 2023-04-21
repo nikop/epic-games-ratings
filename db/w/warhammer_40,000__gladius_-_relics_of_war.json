@@ -2,15 +2,15 @@
   "ID": "0d89655f53884b09b241b60c07e684af",
   "Name": "Warhammer 40,000: Gladius - Relics of War",
   "Rating": 4.31,
-  "Ranking_Rating": 741,
-  "Ranking_Popularity": 389,
+  "Ranking_Rating": 742,
+  "Ranking_Popularity": 385,
   "Ranking_PopularitySum": 318,
   "NumberOfRatings": 39,
-  "NumberOfAwards": 309,
-  "NumberOfAwardsMax": 46,
-  "MaxAwardTitle": "Highly Recommended",
+  "NumberOfAwards": 311,
+  "NumberOfAwardsMax": 48,
+  "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:19:36.3681248+00:00",
-  "LastChanged": "2023-04-21T03:57:51.5919345+00:00",
+  "LastChanged": "2023-04-21T15:57:40.9862831+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:36.3681251+00:00",
@@ -649,6 +649,12 @@
       "Rating": 4.31,
       "NumberOfAwards": 309,
       "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2023-04-21T15:57:40.9862833+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 311,
+      "NumberOfAwardsMax": 48
     }
   ],
   "Tags": [
@@ -668,7 +674,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 46
+      "Count": 48
     },
     {
       "Text": "This game has Quickly Understood Controls",

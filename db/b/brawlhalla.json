@@ -4,13 +4,13 @@
   "Rating": 4.57,
   "Ranking_Rating": 423,
   "Ranking_Popularity": 339,
-  "Ranking_PopularitySum": 246,
-  "NumberOfAwards": 761,
+  "Ranking_PopularitySum": 245,
+  "NumberOfAwards": 762,
   "NumberOfAwardsMax": 80,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-04-21T13:02:26.5807246+00:00",
+  "LastChanged": "2023-04-21T15:57:18.6141774+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-21T06:57:02.0735411+00:00",
@@ -1067,6 +1067,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 761,
       "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2023-04-21T15:57:18.6141775+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 762,
+      "NumberOfAwardsMax": 80
     }
   ],
   "Tags": [
@@ -1080,7 +1086,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 71
+      "Count": 72
     },
     {
       "Text": "This game has Diverse Characters",

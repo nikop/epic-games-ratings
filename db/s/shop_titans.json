@@ -2,15 +2,15 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "Rating": 3.98,
-  "Ranking_Rating": 872,
+  "Ranking_Rating": 873,
   "Ranking_Popularity": 66,
   "Ranking_PopularitySum": 42,
   "NumberOfRatings": 12664,
-  "NumberOfAwards": 26427,
-  "NumberOfAwardsMax": 4527,
+  "NumberOfAwards": 26429,
+  "NumberOfAwardsMax": 4529,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
-  "LastChanged": "2023-04-21T02:56:57.5515257+00:00",
+  "LastChanged": "2023-04-21T15:57:30.129615+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:09.8321218+00:00",
@@ -3599,6 +3599,12 @@
       "Rating": 3.98,
       "NumberOfAwards": 26427,
       "NumberOfAwardsMax": 4527
+    },
+    {
+      "Time": "2023-04-21T15:57:30.1296152+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 26429,
+      "NumberOfAwardsMax": 4529
     }
   ],
   "Tags": [
@@ -3618,7 +3624,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4527
+      "Count": 4529
     },
     {
       "Text": "This game has Easy Combat",

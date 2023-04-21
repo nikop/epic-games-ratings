@@ -1,5 +1,5 @@
 # True Fear: Forsaken Souls Part 1
-Rating: 4.38 (Ranked 682)  
+Rating: 4.38 (Ranked 683)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 485)  
 Sum: 0 (Ranked 485)  

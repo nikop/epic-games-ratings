@@ -1,14 +1,14 @@
 # Shop Titans
-Rating: 3.98 (Ranked 872)  
+Rating: 3.98 (Ranked 873)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 4,527  (Ranked 66)  
-Sum: 26,427 (Ranked 42)  
+Max (Great for Beginners): 4,529  (Ranked 66)  
+Sum: 26,429 (Ranked 42)  
 Diff (max vs sum): 24
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,527 |
+| This game is Great for Beginners | 4,529 |
 | This game is Relaxing | 3,935 |
 | This game has Quickly Understood Controls | 3,920 |
 | This game has Diverse Characters | 3,727 |
@@ -106,4 +106,4 @@ Diff (max vs sum): 24
 | 2023-04-18 | 3.98 | - | 4,522 | 26,408 |
 | 2023-04-19 | 3.98 | - | 4,527 | 26,418 |
 | 2023-04-20 | 3.98 | - | 4,527 | 26,425 |
-| 2023-04-21 | 3.98 | - | 4,527 | 26,427 |
+| 2023-04-21 | 3.98 | - | 4,529 | 26,429 |

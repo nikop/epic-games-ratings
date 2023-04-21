@@ -1,5 +1,5 @@
 # Trek to Yomi
-Rating: 4.22 (Ranked 787)  
+Rating: 4.22 (Ranked 788)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 485)  
 Sum: 0 (Ranked 485)  

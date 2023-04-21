@@ -1,5 +1,5 @@
 # City of Gangsters
-Rating: 4.25 (Ranked 772)  
+Rating: 4.25 (Ranked 773)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 21  (Ranked 472)  
 Sum: 41 (Ranked 436)  

@@ -1,5 +1,5 @@
 # Paladins
-Rating: 4.35 (Ranked 707)  
+Rating: 4.35 (Ranked 708)  
 Number of Ratings: 11,687  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 3,172  (Ranked 82)  

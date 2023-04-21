@@ -1,5 +1,5 @@
 # Banners of Ruin
-Rating: 4.41 (Ranked 649)  
+Rating: 4.41 (Ranked 650)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 485)  
 Sum: 0 (Ranked 485)  

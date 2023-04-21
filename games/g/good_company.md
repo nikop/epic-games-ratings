@@ -1,5 +1,5 @@
 # Good Company
-Rating: 4.42 (Ranked 637)  
+Rating: 4.42 (Ranked 638)  
 Number of Ratings: 75  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 485)  
