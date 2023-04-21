@@ -1,5 +1,5 @@
 # Insurgency: Sandstorm
-Rating: 4.61 (Ranked 348)  
+Rating: 4.62 (Ranked 335)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 343  (Ranked 206)  
@@ -124,3 +124,4 @@ Diff (max vs sum): 46
 | 2023-04-17 | 4.61 | - | 343 | 2,565 |
 | 2023-04-18 | 4.61 | - | 343 | 2,566 |
 | 2023-04-19 | 4.62 | - | 343 | 2,571 |
+| 2023-04-21 | 4.62 | - | 343 | 2,571 |

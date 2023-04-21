@@ -1,8 +1,8 @@
 {
   "ID": "94cec4802e954a6c9579e29e8b817f3a",
   "Name": "Insurgency: Sandstorm",
-  "Rating": 4.61,
-  "Ranking_Rating": 348,
+  "Rating": 4.62,
+  "Ranking_Rating": 335,
   "Ranking_Popularity": 206,
   "Ranking_PopularitySum": 160,
   "NumberOfRatings": 1316,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 343,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
-  "LastChanged": "2023-04-19T23:57:07.5550124+00:00",
+  "LastChanged": "2023-04-21T06:57:18.8872763+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:15.5604869+00:00",
@@ -1563,6 +1563,12 @@
     {
       "Time": "2023-04-19T23:57:07.555013+00:00",
       "Rating": 4.61,
+      "NumberOfAwards": 2571,
+      "NumberOfAwardsMax": 343
+    },
+    {
+      "Time": "2023-04-21T06:57:18.8872765+00:00",
+      "Rating": 4.62,
       "NumberOfAwards": 2571,
       "NumberOfAwardsMax": 343
     }

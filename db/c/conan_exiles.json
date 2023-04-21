@@ -6,11 +6,11 @@
   "Ranking_Popularity": 125,
   "Ranking_PopularitySum": 90,
   "NumberOfRatings": 1374,
-  "NumberOfAwards": 7715,
-  "NumberOfAwardsMax": 1066,
+  "NumberOfAwards": 7722,
+  "NumberOfAwardsMax": 1073,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:16:49.0940249+00:00",
-  "LastChanged": "2023-04-21T04:56:49.3465321+00:00",
+  "LastChanged": "2023-04-21T06:57:11.4498719+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:49.0940252+00:00",
@@ -2393,6 +2393,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 7715,
       "NumberOfAwardsMax": 1066
+    },
+    {
+      "Time": "2023-04-21T06:57:11.4498721+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 7722,
+      "NumberOfAwardsMax": 1073
     }
   ],
   "Tags": [
@@ -2400,7 +2406,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1066
+      "Count": 1073
     },
     {
       "Text": "This game has Obsessive Gameplay",
