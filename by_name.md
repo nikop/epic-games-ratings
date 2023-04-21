@@ -14,7 +14,7 @@
 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.00 | 867 | 0 | 485 |
 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 584 | 0 | 485 |
 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 441 | 0 | 485 |
-| [Against the Storm](games/a/against_the_storm.md) | 4.81 | 71 | 416 | 188 |
+| [Against the Storm](games/a/against_the_storm.md) | 4.81 | 71 | 417 | 188 |
 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 288 | 0 | 485 |
 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 484 | 0 | 485 |
 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 441 | 0 | 485 |
@@ -225,10 +225,10 @@
 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 539 | 0 | 485 |
 | [ELEX](games/e/elex.md) | 4.42 | 637 | 23 | 461 |
 | [ELEX II](games/e/elex_ii.md) | 4.29 | 752 | 0 | 485 |
-| [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 313 | 2,067 | 101 |
+| [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 313 | 2,070 | 101 |
 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 113 | 39 | 406 |
 | [Encased](games/e/encased.md) | 4.35 | 707 | 123 | 293 |
-| [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 36 | 7,473 | 41 |
+| [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 36 | 7,479 | 41 |
 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 558 | 0 | 485 |
 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 236 | 5,057 | 60 |
 | [EVE Online](games/e/eve_online.md) | 4.26 | 768 | 1,006 | 131 |
@@ -399,7 +399,7 @@
 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 178 | 0 | 485 |
 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 707 | 0 | 485 |
 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 113 | 0 | 485 |
-| [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 178 | 7,095 | 43 |
+| [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 178 | 7,102 | 43 |
 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 60 | 476 | 183 |
 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 127 | 96 | 321 |
 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 90 | 881 | 141 |
@@ -450,9 +450,9 @@
 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 288 | 48 | 385 |
 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.67 | 257 | 0 | 485 |
 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 213 | 1,169 | 122 |
-| [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 90 | 5,797 | 55 |
+| [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 90 | 5,802 | 55 |
 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 190 | 1,806 | 104 |
-| [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 60 | 111 | 306 |
+| [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 60 | 112 | 305 |
 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 522 | 96 | 321 |
 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 596 | 27 | 447 |
 | [Minit](games/m/minit.md) | 4.56 | 441 | 0 | 485 |
@@ -519,7 +519,7 @@
 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 141 | 222 | 243 |
 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 791 | 0 | 485 |
 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 463 | 0 | 485 |
-| [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 49 | 246 | 236 |
+| [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 49 | 247 | 234 |
 | [Paladins](games/p/paladins.md) | 4.35 | 707 | 3,172 | 82 |
 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 389 | 0 | 485 |
 | [Paradigm](games/p/paradigm.md) | 4.48 | 558 | 0 | 485 |
@@ -527,7 +527,7 @@
 | [Parkitect](games/p/parkitect.md) | 4.34 | 716 | 0 | 485 |
 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 349 | 0 | 485 |
 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 723 | 0 | 485 |
-| [Path of Exile](games/p/path_of_exile.md) | 4.61 | 349 | 2,431 | 88 |
+| [Path of Exile](games/p/path_of_exile.md) | 4.61 | 349 | 2,436 | 88 |
 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 423 | 3,006 | 85 |
 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 113 | 1,612 | 109 |
 | [Pathway](games/p/pathway.md) | 4.45 | 596 | 0 | 485 |
@@ -570,7 +570,7 @@
 | [Redout 2](games/r/redout_2.md) | 4.46 | 584 | 0 | 485 |
 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 522 | 0 | 485 |
 | [Relicta](games/r/relicta.md) | 4.15 | 829 | 192 | 256 |
-| [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 374 | 8,942 | 35 |
+| [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 374 | 8,953 | 35 |
 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 890 | 0 | 485 |
 | [Returnal™](games/r/returnal™.md) | 4.66 | 274 | 20 | 477 |
 | [Revita](games/r/revita.md) | 4.67 | 257 | 0 | 485 |
@@ -602,7 +602,7 @@
 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 113 | 0 | 485 |
 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 90 | 0 | 485 |
 | [Saints Row](games/s/saints_row.md) | 3.78 | 894 | 1,019 | 130 |
-| [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 663 | 381 | 199 |
+| [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 663 | 382 | 199 |
 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 649 | 2,158 | 98 |
 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.72 | 165 | 0 | 485 |
 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 741 | 920 | 139 |

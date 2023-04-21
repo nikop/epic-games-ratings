@@ -3,14 +3,14 @@
   "Name": "Oxygen Not Included",
   "Rating": 4.84,
   "Ranking_Rating": 49,
-  "Ranking_Popularity": 236,
+  "Ranking_Popularity": 234,
   "Ranking_PopularitySum": 177,
   "NumberOfRatings": 897,
-  "NumberOfAwards": 2140,
-  "NumberOfAwardsMax": 246,
+  "NumberOfAwards": 2141,
+  "NumberOfAwardsMax": 247,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
-  "LastChanged": "2023-04-20T20:57:25.2313619+00:00",
+  "LastChanged": "2023-04-21T13:02:51.7146276+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:44.1555171+00:00",
@@ -1297,6 +1297,12 @@
       "Rating": 4.84,
       "NumberOfAwards": 2140,
       "NumberOfAwardsMax": 246
+    },
+    {
+      "Time": "2023-04-21T13:02:51.7146279+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2141,
+      "NumberOfAwardsMax": 247
     }
   ],
   "Tags": [
@@ -1310,7 +1316,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 246
+      "Count": 247
     },
     {
       "Text": "This game has Diverse Characters",
