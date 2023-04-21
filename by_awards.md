@@ -33,7 +33,7 @@
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,295 | 4.87 | 24 |
 | 32 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,169 | 4.69 | 212 |
 | 33 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 9,920 | 4.45 | 596 |
-| 34 | [Satisfactory](games/s/satisfactory.md) | 9,084 | 4.88 | 18 |
+| 34 | [Satisfactory](games/s/satisfactory.md) | 9,098 | 4.88 | 18 |
 | 35 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 8,942 | 4.60 | 374 |
 | 36 | [HITMAN 3](games/h/hitman_3.md) | 8,671 | 4.78 | 101 |
 | 37 | [Control](games/c/control.md) | 8,232 | 4.60 | 374 |
@@ -67,7 +67,7 @@
 | 65 | [DEATH STRANDING](games/d/death_stranding.md) | 4,563 | 4.78 | 101 |
 | 66 | [Shop Titans](games/s/shop_titans.md) | 4,527 | 3.98 | 872 |
 | 67 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,486 | 4.70 | 190 |
-| 68 | [Cities: Skylines](games/c/cities__skylines.md) | 4,308 | 4.65 | 288 |
+| 68 | [Cities: Skylines](games/c/cities__skylines.md) | 4,313 | 4.65 | 288 |
 | 69 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,194 | 4.70 | 190 |
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,091 | 4.70 | 190 |
 | 71 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,060 | 4.51 | 508 |
@@ -85,7 +85,7 @@
 | 83 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,150 | 4.75 | 127 |
 | 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,139 | 4.59 | 389 |
 | 85 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,006 | 4.57 | 423 |
-| 86 | [Hades](games/h/hades.md) | 3,001 | 4.92 | 3 |
+| 86 | [Hades](games/h/hades.md) | 3,003 | 4.92 | 3 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 2,957 | 4.68 | 236 |
 | 88 | [Path of Exile](games/p/path_of_exile.md) | 2,431 | 4.61 | 349 |
 | 89 | [Trackmania](games/t/trackmania.md) | 2,425 | 4.67 | 257 |

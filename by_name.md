@@ -128,7 +128,7 @@
 | [Chorus](games/c/chorus.md) | 4.47 | 569 | 32 | 429 |
 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 843 | 0 | 485 |
 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 823 | 0 | 485 |
-| [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 288 | 4,308 | 68 |
+| [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 288 | 4,313 | 68 |
 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 71 | 0 | 485 |
 | [City of Brass](games/c/city_of_brass.md) | 4.22 | 787 | 0 | 485 |
 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.25 | 772 | 21 | 472 |
@@ -321,7 +321,7 @@
 | [GRIME](games/g/grime.md) | 4.61 | 349 | 0 | 485 |
 | [Grindstone](games/g/grindstone.md) | 4.85 | 36 | 0 | 485 |
 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.65 | 288 | 0 | 485 |
-| [Hades](games/h/hades.md) | 4.92 | 3 | 3,001 | 86 |
+| [Hades](games/h/hades.md) | 4.92 | 3 | 3,003 | 86 |
 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 596 | 0 | 485 |
 | [Hammerting](games/h/hammerting.md) | 4.38 | 682 | 0 | 485 |
 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 423 | 35 | 419 |
@@ -609,7 +609,7 @@
 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 349 | 266 | 231 |
 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 288 | 0 | 485 |
 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 569 | 0 | 485 |
-| [Satisfactory](games/s/satisfactory.md) | 4.88 | 18 | 9,084 | 34 |
+| [Satisfactory](games/s/satisfactory.md) | 4.88 | 18 | 9,098 | 34 |
 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 775 | 0 | 485 |
 | [Scavengers](games/s/scavengers.md) | 4.18 | 814 | 96 | 321 |
 | [Scorn](games/s/scorn.md) | 4.47 | 569 | 0 | 485 |

@@ -3,7 +3,7 @@
 | 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 0 | 485 |
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 485 |
 | 3 | [Celeste](games/c/celeste.md) | 4.92 | 1,422 | 115 |
-| 3 | [Hades](games/h/hades.md) | 4.92 | 3,001 | 86 |
+| 3 | [Hades](games/h/hades.md) | 4.92 | 3,003 | 86 |
 | 5 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.91 | 20 | 477 |
 | 5 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 0 | 485 |
 | 7 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 0 | 485 |
@@ -20,7 +20,7 @@
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 128 | 289 |
 | 18 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 247 | 234 |
 | 18 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 0 | 485 |
-| 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 9,084 | 34 |
+| 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 9,098 | 34 |
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 465 |
 | 18 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 485 |
 | 24 | [Black Book](games/b/black_book.md) | 4.87 | 21 | 472 |
@@ -288,7 +288,7 @@
 | 274 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,740 | 56 |
 | 274 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 457 | 184 |
 | 288 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 485 |
-| 288 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,308 | 68 |
+| 288 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,313 | 68 |
 | 288 | [Coromon](games/c/coromon.md) | 4.65 | 40 | 405 |
 | 288 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 163 | 273 |
 | 288 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 114 | 301 |
