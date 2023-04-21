@@ -88,8 +88,8 @@
 | 86 | [Hades](games/h/hades.md) | 3,001 | 4.92 | 3 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 2,957 | 4.68 | 235 |
 | 88 | [Path of Exile](games/p/path_of_exile.md) | 2,431 | 4.61 | 348 |
-| 89 | [Rage 2](games/r/rage_2.md) | 2,419 | 4.28 | 760 |
-| 90 | [Trackmania](games/t/trackmania.md) | 2,414 | 4.67 | 257 |
+| 89 | [Trackmania](games/t/trackmania.md) | 2,424 | 4.67 | 257 |
+| 90 | [Rage 2](games/r/rage_2.md) | 2,419 | 4.28 | 760 |
 | 91 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,392 | 4.76 | 113 |
 | 92 | [Among Us](games/a/among_us.md) | 2,367 | 4.58 | 407 |
 | 93 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,333 | 4.80 | 78 |

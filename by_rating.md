@@ -270,7 +270,7 @@
 | 257 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 485 |
 | 257 | [The Machines Arena](games/t/the_machines_arena.md) | 4.67 | 0 | 485 |
 | 257 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 485 |
-| 257 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,414 | 90 |
+| 257 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,424 | 89 |
 | 257 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 102 | 313 |
 | 257 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 21 | 471 |
 | 274 | [APE OUT](games/a/ape_out.md) | 4.66 | 0 | 485 |
@@ -759,7 +759,7 @@
 | 752 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 43 | 402 |
 | 752 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 125 | 291 |
 | 752 | [The Fall](games/t/the_fall.md) | 4.29 | 0 | 485 |
-| 760 | [Rage 2](games/r/rage_2.md) | 4.28 | 2,419 | 89 |
+| 760 | [Rage 2](games/r/rage_2.md) | 4.28 | 2,419 | 90 |
 | 760 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 124 | 292 |
 | 760 | [Steelrising](games/s/steelrising.md) | 4.28 | 0 | 485 |
 | 763 | [Chess Ultra](games/c/chess_ultra.md) | 4.27 | 0 | 485 |

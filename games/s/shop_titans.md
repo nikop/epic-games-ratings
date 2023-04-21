@@ -3,7 +3,7 @@ Rating: 3.98 (Ranked 872)
 Number of Ratings: 12,664  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 4,527  (Ranked 66)  
-Sum: 26,425 (Ranked 42)  
+Sum: 26,427 (Ranked 42)  
 Diff (max vs sum): 24
 ## Awards
 | Award | Count |
@@ -14,7 +14,7 @@ Diff (max vs sum): 24
 | This game has Diverse Characters | 3,727 |
 | This game is Highly Recommended | 3,656 |
 | This game has Easy Combat | 3,592 |
-| This game has Playful Visuals | 3,068 |
+| This game has Playful Visuals | 3,070 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -106,3 +106,4 @@ Diff (max vs sum): 24
 | 2023-04-18 | 3.98 | - | 4,522 | 26,408 |
 | 2023-04-19 | 3.98 | - | 4,527 | 26,418 |
 | 2023-04-20 | 3.98 | - | 4,527 | 26,425 |
+| 2023-04-21 | 3.98 | - | 4,527 | 26,427 |

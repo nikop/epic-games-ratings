@@ -553,7 +553,7 @@
 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 872 | 1,557 | 110 |
 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.41 | 649 | 0 | 485 |
 | [Quake](games/q/quake.md) | 4.75 | 126 | 45 | 393 |
-| [Rage 2](games/r/rage_2.md) | 4.28 | 760 | 2,419 | 89 |
+| [Rage 2](games/r/rage_2.md) | 4.28 | 760 | 2,419 | 90 |
 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 473 | 86 | 333 |
 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 508 | 271 | 228 |
 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 615 | 45 | 393 |
@@ -816,7 +816,7 @@
 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 257 | 0 | 485 |
 | [Townscaper](games/t/townscaper.md) | 4.71 | 178 | 0 | 485 |
 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 732 | 0 | 485 |
-| [Trackmania](games/t/trackmania.md) | 4.67 | 257 | 2,414 | 90 |
+| [Trackmania](games/t/trackmania.md) | 4.67 | 257 | 2,424 | 89 |
 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 71 | 0 | 485 |
 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 869 | 0 | 485 |
 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 637 | 532 | 175 |

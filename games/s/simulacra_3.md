@@ -1,8 +1,8 @@
-# League Manager 2023
+# SIMULACRA 3
 Rating: - (Ranked -)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked -)  
-Sum: 0 (Ranked -)  
+Max (): -  (Ranked -)  
+Sum: - (Ranked -)  
 Diff (max vs sum): -
 ## Awards
 | Award | Count |
@@ -10,4 +10,3 @@ Diff (max vs sum): -
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
-| 2023-04-21 | - | 0 | 0 |
