@@ -55,7 +55,7 @@
 | 53 | [Sifu](games/s/sifu.md) | 5,960 | 4.82 | 60 |
 | 54 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,880 | 4.64 | 313 |
 | 55 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,802 | 4.79 | 90 |
-| 56 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,740 | 4.66 | 274 |
+| 56 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,742 | 4.66 | 274 |
 | 57 | [Prey](games/p/prey.md) | 5,505 | 4.62 | 335 |
 | 58 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,445 | 4.85 | 36 |
 | 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,428 | 4.82 | 60 |
@@ -130,12 +130,12 @@
 | 128 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,058 | 4.61 | 349 |
 | 129 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,030 | 4.66 | 274 |
 | 130 | [Saints Row](games/s/saints_row.md) | 1,019 | 3.78 | 894 |
-| 131 | [EVE Online](games/e/eve_online.md) | 1,006 | 4.26 | 768 |
+| 131 | [EVE Online](games/e/eve_online.md) | 1,006 | 4.26 | 767 |
 | 132 | [World of Warships](games/w/world_of_warships.md) | 1,003 | 4.44 | 615 |
 | 133 | [Ooblets](games/o/ooblets.md) | 997 | 4.87 | 24 |
 | 134 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 987 | 4.54 | 473 |
 | 135 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 985 | 4.79 | 90 |
-| 136 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 980 | 4.23 | 785 |
+| 136 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 981 | 4.23 | 785 |
 | 137 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 975 | 4.40 | 663 |
 | 138 | [Torchlight II](games/t/torchlight_ii.md) | 967 | 4.58 | 407 |
 | 139 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 920 | 4.31 | 741 |
@@ -428,7 +428,7 @@
 | 426 | [DEATHLOOP](games/d/deathloop.md) | 33 | 4.54 | 473 |
 | 426 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 33 | 4.20 | 796 |
 | 426 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 33 | 4.82 | 60 |
-| 429 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 32 | 4.12 | 837 |
+| 429 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 32 | 4.12 | 838 |
 | 429 | [Chorus](games/c/chorus.md) | 32 | 4.47 | 569 |
 | 429 | [DOOM (1993)](games/d/doom_(1993).md) | 32 | 4.81 | 71 |
 | 429 | [MythForce](games/m/mythforce.md) | 32 | 4.51 | 508 |

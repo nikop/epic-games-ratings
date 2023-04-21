@@ -285,7 +285,7 @@
 | 274 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 546 | 171 |
 | 274 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 24 | 459 |
 | 274 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 400 | 195 |
-| 274 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,740 | 56 |
+| 274 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,742 | 56 |
 | 274 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 457 | 184 |
 | 288 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 485 |
 | 288 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,313 | 68 |
@@ -762,15 +762,15 @@
 | 760 | [Rage 2](games/r/rage_2.md) | 4.28 | 2,419 | 90 |
 | 760 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 124 | 292 |
 | 760 | [Steelrising](games/s/steelrising.md) | 4.28 | 0 | 485 |
-| 763 | [Chess Ultra](games/c/chess_ultra.md) | 4.27 | 0 | 485 |
 | 763 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 22 | 465 |
 | 763 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 0 | 485 |
 | 763 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 0 | 485 |
 | 763 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 297 | 221 |
-| 768 | [EVE Online](games/e/eve_online.md) | 4.26 | 1,006 | 131 |
-| 768 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.26 | 0 | 485 |
-| 768 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 485 |
-| 768 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 485 |
+| 767 | [Chess Ultra](games/c/chess_ultra.md) | 4.26 | 0 | 485 |
+| 767 | [EVE Online](games/e/eve_online.md) | 4.26 | 1,006 | 131 |
+| 767 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.26 | 0 | 485 |
+| 767 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 485 |
+| 767 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 485 |
 | 772 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 0 | 485 |
 | 772 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.25 | 21 | 472 |
 | 772 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.25 | 0 | 485 |
@@ -785,7 +785,7 @@
 | 775 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 0 | 485 |
 | 775 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 22 | 465 |
 | 785 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 0 | 485 |
-| 785 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 980 | 136 |
+| 785 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 981 | 136 |
 | 787 | [City of Brass](games/c/city_of_brass.md) | 4.22 | 0 | 485 |
 | 787 | [Rise of Industry](games/r/rise_of_industry.md) | 4.22 | 0 | 485 |
 | 787 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 200 | 254 |
@@ -836,10 +836,10 @@
 | 833 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 0 | 485 |
 | 835 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 485 |
 | 835 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 0 | 485 |
-| 837 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 0 | 485 |
-| 837 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.12 | 32 | 429 |
-| 837 | [Forspoken](games/f/forspoken.md) | 4.12 | 0 | 485 |
-| 837 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.12 | 0 | 485 |
+| 835 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.13 | 0 | 485 |
+| 838 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 0 | 485 |
+| 838 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.12 | 32 | 429 |
+| 838 | [Forspoken](games/f/forspoken.md) | 4.12 | 0 | 485 |
 | 841 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 71 | 352 |
 | 841 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.11 | 0 | 485 |
 | 843 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 0 | 485 |
