@@ -1,5 +1,5 @@
 # Deceive Inc.
-Rating: 4.69 (Ranked 212)  
+Rating: 4.70 (Ranked 190)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 485)  
 Sum: 0 (Ranked 485)  
@@ -16,3 +16,4 @@ Diff (max vs sum): 0
 | 2023-04-18 | 4.65 | 0 | 0 |
 | 2023-04-19 | 4.67 | 0 | 0 |
 | 2023-04-20 | 4.69 | 0 | 0 |
+| 2023-04-21 | 4.70 | 0 | 0 |
