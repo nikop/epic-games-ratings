@@ -2,15 +2,15 @@
   "ID": "camellia",
   "Name": "Assassin\u0027s Creed Origins Standard Edition",
   "Rating": 4.68,
-  "Ranking_Rating": 235,
+  "Ranking_Rating": 236,
   "Ranking_Popularity": 87,
   "Ranking_PopularitySum": 122,
   "NumberOfRatings": 3843,
-  "NumberOfAwards": 4965,
+  "NumberOfAwards": 4966,
   "NumberOfAwardsMax": 2957,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:17:42.6567846+00:00",
-  "LastChanged": "2023-04-21T14:57:08.0150058+00:00",
+  "LastChanged": "2023-04-21T18:57:10.787561+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:42.6567849+00:00",
@@ -2161,6 +2161,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 4965,
       "NumberOfAwardsMax": 2957
+    },
+    {
+      "Time": "2023-04-21T18:57:10.7875612+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 4966,
+      "NumberOfAwardsMax": 2957
     }
   ],
   "Tags": [
@@ -2198,7 +2204,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 213
+      "Count": 214
     },
     {
       "Text": "This game has Obsessive Gameplay",

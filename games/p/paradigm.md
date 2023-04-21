@@ -1,5 +1,5 @@
 # Paradigm
-Rating: 4.48 (Ranked 559)  
+Rating: 4.48 (Ranked 560)  
 Number of Ratings: 247  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 485)  

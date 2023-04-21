@@ -1,9 +1,9 @@
 # Warframe
-Rating: 4.61 (Ranked 349)  
+Rating: 4.61 (Ranked 350)  
 Number of Ratings: 12,660  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 14,152  (Ranked 22)  
-Sum: 37,301 (Ranked 26)  
+Sum: 37,309 (Ranked 26)  
 Diff (max vs sum): -4
 ## Awards
 | Award | Count |
@@ -13,7 +13,7 @@ Diff (max vs sum): -4
 | This game is Highly Recommended | 2,951 |
 | This game has Quickly Understood Controls | 2,937 |
 | This game is Relaxing | 2,904 |
-| This game has Amazing Storytelling | 2,870 |
+| This game has Amazing Storytelling | 2,878 |
 | This game is Extremely Fun | 2,867 |
 | This game has Amazing Characters | 2,820 |
 | This game has Unique Visuals | 2,693 |
@@ -113,4 +113,4 @@ Diff (max vs sum): -4
 | 2023-04-18 | 4.61 | - | 14,118 | 37,202 |
 | 2023-04-19 | 4.61 | - | 14,136 | 37,250 |
 | 2023-04-20 | 4.61 | - | 14,152 | 37,276 |
-| 2023-04-21 | 4.61 | - | 14,152 | 37,301 |
+| 2023-04-21 | 4.61 | - | 14,152 | 37,309 |

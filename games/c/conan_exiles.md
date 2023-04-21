@@ -1,5 +1,5 @@
 # Conan Exiles
-Rating: 4.55 (Ranked 463)  
+Rating: 4.55 (Ranked 464)  
 Number of Ratings: 1,374  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 1,073  (Ranked 126)  

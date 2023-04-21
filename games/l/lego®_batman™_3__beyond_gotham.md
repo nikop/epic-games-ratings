@@ -1,10 +1,10 @@
 # LEGO® Batman™ 3: Beyond Gotham
-Rating: 4.58 (Ranked 407)  
+Rating: 4.58 (Ranked 408)  
 Number of Ratings: 513  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 213  (Ranked 245)  
+Max (Great Boss Battles): 213  (Ranked 246)  
 Sum: 213 (Ranked 342)  
-Diff (max vs sum): -97
+Diff (max vs sum): -96
 ## Awards
 | Award | Count |
 | ----- | ----- |

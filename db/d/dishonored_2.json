@@ -3,14 +3,14 @@
   "Name": "Dishonored 2",
   "Rating": 4.8,
   "Ranking_Rating": 78,
-  "Ranking_Popularity": 217,
-  "Ranking_PopularitySum": 311,
-  "NumberOfAwards": 334,
-  "NumberOfAwardsMax": 308,
+  "Ranking_Popularity": 215,
+  "Ranking_PopularitySum": 310,
+  "NumberOfAwards": 338,
+  "NumberOfAwardsMax": 312,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-11-05T14:01:17.2849219+00:00",
   "FirstSeenRating": "2022-11-24T20:57:28.2064365+00:00",
-  "LastChanged": "2023-04-20T13:57:34.036654+00:00",
+  "LastChanged": "2023-04-21T18:57:30.7495504+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-24T20:57:28.2064368+00:00",
@@ -295,6 +295,12 @@
       "Rating": 4.8,
       "NumberOfAwards": 334,
       "NumberOfAwardsMax": 308
+    },
+    {
+      "Time": "2023-04-21T18:57:30.7495505+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 338,
+      "NumberOfAwardsMax": 312
     }
   ],
   "Tags": [
@@ -302,7 +308,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 308
+      "Count": 312
     },
     {
       "Text": "This game has Diverse Characters",

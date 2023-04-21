@@ -1,5 +1,5 @@
 # Deponia: The Complete Journey
-Rating: 4.62 (Ranked 335)  
+Rating: 4.62 (Ranked 336)  
 Number of Ratings: 777  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Challenging Puzzles): 272  (Ranked 227)  
