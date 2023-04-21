@@ -6,11 +6,11 @@
   "Ranking_Popularity": 44,
   "Ranking_PopularitySum": 72,
   "NumberOfRatings": 3099,
-  "NumberOfAwards": 11498,
-  "NumberOfAwardsMax": 6734,
+  "NumberOfAwards": 11512,
+  "NumberOfAwardsMax": 6748,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:27:07.1002044+00:00",
-  "LastChanged": "2023-04-20T23:57:46.3499132+00:00",
+  "LastChanged": "2023-04-21T01:57:11.5078693+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:07.1002046+00:00",
@@ -2556,6 +2556,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 11498,
       "NumberOfAwardsMax": 6734
+    },
+    {
+      "Time": "2023-04-21T01:57:11.5078694+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 11512,
+      "NumberOfAwardsMax": 6748
     }
   ],
   "Tags": [
@@ -2563,7 +2569,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6734
+      "Count": 6748
     },
     {
       "Text": "This game has Amazing Storytelling",
