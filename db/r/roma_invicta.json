@@ -1,6 +1,18 @@
 {
   "ID": "33827a8e495e48da87b0d13edaa3b006",
   "Name": "Roma Invicta",
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-21T22:58:38.3866352+00:00",
+  "FirstSeenRating": "2023-04-21T22:58:38.3866365+00:00",
+  "LastChanged": "2023-04-21T22:58:38.3866366+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-21T22:58:38.3866367+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

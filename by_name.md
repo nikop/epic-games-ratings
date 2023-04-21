@@ -173,11 +173,11 @@
 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 375 | 74 | 347 |
 | [Darkwood](games/d/darkwood.md) | 4.61 | 351 | 319 | 212 |
 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 614 | 0 | 485 |
-| [Dauntless](games/d/dauntless.md) | 4.53 | 485 | 19,517 | 17 |
+| [Dauntless](games/d/dauntless.md) | 4.53 | 485 | 19,525 | 17 |
 | [Days Gone](games/d/days_gone.md) | 4.69 | 214 | 3,723 | 76 |
 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 824 | 0 | 485 |
 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 497 | 26,664 | 15 |
-| [Dead Cells](games/d/dead_cells.md) | 4.88 | 18 | 247 | 234 |
+| [Dead Cells](games/d/dead_cells.md) | 4.88 | 18 | 247 | 235 |
 | [Dead Island 2](games/d/dead_island_2.md) | 4.63 | 326 | 0 | 485 |
 | [Dead Space](games/d/dead_space.md) | 4.76 | 113 | 35 | 419 |
 | [Death Coming](games/d/death_coming.md) | 4.43 | 631 | 0 | 485 |
@@ -242,7 +242,7 @@
 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 442 | 720 | 152 |
 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.59 | 390 | 234 | 238 |
 | [Faeria](games/f/faeria.md) | 4.45 | 596 | 103 | 312 |
-| [Fall Guys](games/f/fall_guys.md) | 4.53 | 485 | 137,678 | 6 |
+| [Fall Guys](games/f/fall_guys.md) | 4.53 | 485 | 137,705 | 6 |
 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 113 | 61 | 369 |
 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 375 | 13,170 | 25 |
 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 523 | 65 | 364 |
@@ -520,7 +520,7 @@
 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 141 | 222 | 243 |
 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 793 | 0 | 485 |
 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 464 | 0 | 485 |
-| [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 49 | 247 | 234 |
+| [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 49 | 247 | 235 |
 | [Paladins](games/p/paladins.md) | 4.35 | 709 | 3,172 | 82 |
 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.59 | 390 | 0 | 485 |
 | [Paradigm](games/p/paradigm.md) | 4.48 | 560 | 0 | 485 |
@@ -549,7 +549,7 @@
 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 596 | 846 | 143 |
 | [Predecessor](games/p/predecessor.md) | 4.45 | 596 | 57 | 374 |
 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 540 | 0 | 485 |
-| [Prey](games/p/prey.md) | 4.62 | 336 | 5,505 | 57 |
+| [Prey](games/p/prey.md) | 4.62 | 336 | 5,506 | 57 |
 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 351 | 402 | 192 |
 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 873 | 1,557 | 110 |
 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 663 | 0 | 485 |
@@ -801,7 +801,7 @@
 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 408 | 168 | 270 |
 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 424 | 1,683 | 108 |
 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.34 | 717 | 0 | 485 |
-| [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 408 | 247 | 234 |
+| [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 408 | 249 | 234 |
 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 497 | 143 | 282 |
 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 273 | 5,742 | 56 |
 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 54 | 80 | 339 |

@@ -18,7 +18,7 @@
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 401 | 193 |
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 14,624 | 20 |
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 128 | 289 |
-| 18 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 247 | 234 |
+| 18 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 247 | 235 |
 | 18 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 0 | 485 |
 | 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 9,098 | 34 |
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 465 |
@@ -51,7 +51,7 @@
 | 49 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 44 | 398 |
 | 49 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 211 | 248 |
 | 49 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 405 | 191 |
-| 49 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 247 | 234 |
+| 49 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 247 | 235 |
 | 49 | [Subnautica](games/s/subnautica.md) | 4.84 | 645 | 158 |
 | 54 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 50 | 379 |
 | 54 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 0 | 485 |
@@ -347,7 +347,7 @@
 | 336 | [NORCO](games/n/norco.md) | 4.62 | 0 | 485 |
 | 336 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 485 |
 | 336 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 101 | 315 |
-| 336 | [Prey](games/p/prey.md) | 4.62 | 5,505 | 57 |
+| 336 | [Prey](games/p/prey.md) | 4.62 | 5,506 | 57 |
 | 336 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 71 | 352 |
 | 336 | [Transistor](games/t/transistor.md) | 4.62 | 0 | 485 |
 | 351 | [20XX](games/2/20xx.md) | 4.61 | 36 | 414 |
@@ -418,7 +418,7 @@
 | 408 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 202 | 252 |
 | 408 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 50 | 379 |
 | 408 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 168 | 270 |
-| 408 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 247 | 234 |
+| 408 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 249 | 234 |
 | 408 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 967 | 138 |
 | 408 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 5,992 | 52 |
 | 408 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 203 | 251 |
@@ -487,8 +487,8 @@
 | 485 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 485 |
 | 485 | [Aztez](games/a/aztez.md) | 4.53 | 0 | 485 |
 | 485 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 485 |
-| 485 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,517 | 17 |
-| 485 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 137,678 | 6 |
+| 485 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,525 | 17 |
+| 485 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 137,705 | 6 |
 | 485 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 116 | 298 |
 | 485 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 485 |
 | 485 | [RUINER](games/r/ruiner.md) | 4.53 | 23 | 461 |

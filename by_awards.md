@@ -5,7 +5,7 @@
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 288,905 | 4.68 | 236 |
 | 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 180,469 | 4.19 | 808 |
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 160,126 | 4.69 | 214 |
-| 6 | [Fall Guys](games/f/fall_guys.md) | 137,678 | 4.53 | 485 |
+| 6 | [Fall Guys](games/f/fall_guys.md) | 137,705 | 4.53 | 485 |
 | 7 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 135,033 | 4.89 | 12 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 107,743 | 4.69 | 214 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 62,348 | 4.62 | 336 |
@@ -16,7 +16,7 @@
 | 14 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,373 | 4.65 | 288 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 26,664 | 4.52 | 497 |
 | 16 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 21,160 | 4.57 | 424 |
-| 17 | [Dauntless](games/d/dauntless.md) | 19,517 | 4.53 | 485 |
+| 17 | [Dauntless](games/d/dauntless.md) | 19,525 | 4.53 | 485 |
 | 18 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 17,878 | 4.57 | 424 |
 | 19 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 17,758 | 4.78 | 101 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 14,624 | 4.89 | 12 |
@@ -56,7 +56,7 @@
 | 54 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,886 | 4.64 | 313 |
 | 55 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,802 | 4.79 | 92 |
 | 56 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,742 | 4.66 | 273 |
-| 57 | [Prey](games/p/prey.md) | 5,505 | 4.62 | 336 |
+| 57 | [Prey](games/p/prey.md) | 5,506 | 4.62 | 336 |
 | 58 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,445 | 4.85 | 36 |
 | 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,428 | 4.82 | 60 |
 | 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,071 | 4.68 | 236 |
@@ -233,9 +233,9 @@
 | 231 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 266 | 4.61 | 351 |
 | 232 | [Diabotical](games/d/diabotical.md) | 265 | 4.75 | 127 |
 | 233 | [Sheltered](games/s/sheltered.md) | 264 | 4.42 | 638 |
-| 234 | [Dead Cells](games/d/dead_cells.md) | 247 | 4.88 | 18 |
-| 234 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 247 | 4.84 | 49 |
-| 234 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 247 | 4.58 | 408 |
+| 234 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 249 | 4.58 | 408 |
+| 235 | [Dead Cells](games/d/dead_cells.md) | 247 | 4.88 | 18 |
+| 235 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 247 | 4.84 | 49 |
 | 237 | [Crysis Remastered](games/c/crysis_remastered.md) | 243 | 4.40 | 663 |
 | 238 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 234 | 4.59 | 390 |
 | 238 | [Roller Champions™](games/r/roller_champions™.md) | 234 | 4.34 | 717 |
