@@ -1,9 +1,9 @@
 # Kingdom Come: Deliverance
-Rating: 4.71 (Ranked 178)  
+Rating: 4.71 (Ranked 179)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 7,102  (Ranked 43)  
-Sum: 26,559 (Ranked 40)  
+Sum: 26,560 (Ranked 40)  
 Diff (max vs sum): 3
 ## Awards
 | Award | Count |
@@ -14,7 +14,7 @@ Diff (max vs sum): 3
 | This game has Amazing Storytelling | 1,629 |
 | This game has Diverse Characters | 1,601 |
 | This game is Extremely Fun | 1,599 |
-| This game is Highly Recommended | 1,592 |
+| This game is Highly Recommended | 1,593 |
 | This game has Amazing Characters | 1,580 |
 | This game has Realistic Visuals | 1,568 |
 | This game is Educational | 1,518 |
@@ -110,3 +110,4 @@ Diff (max vs sum): 3
 | 2023-04-19 | 4.71 | - | 7,094 | 26,533 |
 | 2023-04-20 | 4.71 | - | 7,095 | 26,544 |
 | 2023-04-21 | 4.71 | - | 7,102 | 26,559 |
+| 2023-04-22 | 4.71 | - | 7,102 | 26,560 |

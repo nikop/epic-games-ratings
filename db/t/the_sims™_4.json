@@ -3,14 +3,14 @@
   "Name": "The Sims\u2122 4",
   "Rating": 4.6,
   "Ranking_Rating": 373,
-  "Ranking_Popularity": 307,
-  "Ranking_PopularitySum": 256,
-  "NumberOfAwards": 725,
-  "NumberOfAwardsMax": 110,
-  "MaxAwardTitle": "Great for Beginners",
+  "Ranking_Popularity": 303,
+  "Ranking_PopularitySum": 253,
+  "NumberOfAwards": 730,
+  "NumberOfAwardsMax": 113,
+  "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-04-21T21:57:04.2083103+00:00",
+  "LastChanged": "2023-04-22T09:57:00.5448831+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-05T14:56:53.5654686+00:00",
@@ -891,6 +891,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 725,
       "NumberOfAwardsMax": 110
+    },
+    {
+      "Time": "2023-04-22T09:57:00.5448832+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 730,
+      "NumberOfAwardsMax": 113
     }
   ],
   "Tags": [
@@ -910,7 +916,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 108
+      "Count": 113
     },
     {
       "Text": "This game has a Creative Community",

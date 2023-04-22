@@ -1,5 +1,5 @@
 # Monster Jam Steel Titans 2
-Rating: 4.71 (Ranked 178)  
+Rating: 4.71 (Ranked 179)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 485)  
 Sum: 0 (Ranked 485)  
