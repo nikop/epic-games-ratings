@@ -4,13 +4,13 @@
   "Rating": 4.44,
   "Ranking_Rating": 614,
   "Ranking_Popularity": 448,
-  "Ranking_PopularitySum": 429,
+  "Ranking_PopularitySum": 411,
   "NumberOfRatings": 96,
-  "NumberOfAwards": 49,
+  "NumberOfAwards": 69,
   "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:25:09.0043612+00:00",
-  "LastChanged": "2023-04-21T20:57:39.5052211+00:00",
+  "LastChanged": "2023-04-22T19:57:41.7269748+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:09.0043615+00:00",
@@ -389,6 +389,12 @@
       "Rating": 4.44,
       "NumberOfAwards": 49,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2023-04-22T19:57:41.7269749+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 69,
+      "NumberOfAwardsMax": 27
     }
   ],
   "Tags": [
@@ -403,6 +409,12 @@
       "Prefix": "This game is",
       "Type": "Extremely Fun",
       "Count": 22
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 20
     }
   ]
 }

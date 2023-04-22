@@ -65,7 +65,7 @@
 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 441 | 46 | 391 |
 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 463 | 0 | 486 |
 | [Aztez](games/a/aztez.md) | 4.53 | 484 | 0 | 486 |
-| [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 585 | 3,219 | 81 |
+| [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 585 | 3,223 | 81 |
 | [Backbone](games/b/backbone.md) | 4.33 | 724 | 0 | 486 |
 | [Bad North](games/b/bad_north.md) | 4.68 | 236 | 0 | 486 |
 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 683 | 0 | 486 |
@@ -115,7 +115,7 @@
 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 708 | 0 | 486 |
 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 325 | 0 | 486 |
 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 114 | 84 | 335 |
-| [Celeste](games/c/celeste.md) | 4.92 | 3 | 1,425 | 115 |
+| [Celeste](games/c/celeste.md) | 4.92 | 3 | 1,427 | 115 |
 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 733 | 0 | 486 |
 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 638 | 60 | 371 |
 | [Chainmonsters](games/c/chainmonsters.md) | 3.80 | 894 | 0 | 486 |
@@ -206,7 +206,7 @@
 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 693 | 0 | 486 |
 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 28 | 684 | 154 |
 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 141 | 493 | 181 |
-| [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 78 | 312 | 216 |
+| [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 78 | 313 | 216 |
 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 631 | 22 | 467 |
 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 114 | 820 | 144 |
 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 700 | 48 | 386 |
@@ -226,7 +226,7 @@
 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 540 | 0 | 486 |
 | [ELEX](games/e/elex.md) | 4.42 | 638 | 23 | 463 |
 | [ELEX II](games/e/elex_ii.md) | 4.29 | 755 | 0 | 486 |
-| [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 325 | 2,070 | 101 |
+| [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 325 | 2,073 | 101 |
 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 114 | 39 | 406 |
 | [Encased](games/e/encased.md) | 4.35 | 708 | 123 | 293 |
 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 37 | 7,479 | 41 |
@@ -277,7 +277,7 @@
 | [Flatout](games/f/flatout.md) | 4.19 | 808 | 0 | 486 |
 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 5 | 0 | 486 |
 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 78 | 6,233 | 50 |
-| [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 126 | 375 | 201 |
+| [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 126 | 379 | 201 |
 | [For The King](games/f/for_the_king.md) | 4.70 | 192 | 359 | 205 |
 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 614 | 0 | 486 |
 | [Forspoken](games/f/forspoken.md) | 4.12 | 839 | 0 | 486 |
@@ -757,7 +757,7 @@
 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 141 | 743 | 149 |
 | [The Machines Arena](games/t/the_machines_arena.md) | 4.67 | 256 | 0 | 486 |
 | [The Medium](games/t/the_medium.md) | 4.59 | 389 | 0 | 486 |
-| [The Messenger](games/t/the_messenger.md) | 4.80 | 78 | 312 | 216 |
+| [The Messenger](games/t/the_messenger.md) | 4.80 | 78 | 312 | 217 |
 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 325 | 1,727 | 107 |
 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.45 | 596 | 0 | 486 |
 | [The Pathless](games/t/the_pathless.md) | 4.68 | 236 | 0 | 486 |
@@ -893,7 +893,7 @@
 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 374 | 0 | 486 |
 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 472 | 28 | 446 |
 | [WRC Generations](games/w/wrc_generations.md) | 4.46 | 585 | 0 | 486 |
-| [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 472 | 1,121 | 123 |
+| [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 472 | 1,122 | 123 |
 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.51 | 509 | 0 | 486 |
 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 213 | 0 | 486 |
 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 776 | 22 | 467 |

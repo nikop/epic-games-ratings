@@ -80,7 +80,7 @@
 | 78 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,568 | 4.30 | 746 |
 | 79 | [Gloomhaven](games/g/gloomhaven.md) | 3,428 | 4.47 | 571 |
 | 80 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,315 | 4.68 | 236 |
-| 81 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,219 | 4.46 | 585 |
+| 81 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,223 | 4.46 | 585 |
 | 82 | [Paladins](games/p/paladins.md) | 3,177 | 4.35 | 708 |
 | 83 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,157 | 4.75 | 126 |
 | 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,139 | 4.59 | 389 |
@@ -100,7 +100,7 @@
 | 98 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,158 | 4.41 | 652 |
 | 99 | [Gotham Knights](games/g/gotham_knights.md) | 2,148 | 4.17 | 819 |
 | 100 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,129 | 4.37 | 693 |
-| 101 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,070 | 4.63 | 325 |
+| 101 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,073 | 4.63 | 325 |
 | 102 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,967 | 4.49 | 540 |
 | 103 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,864 | 4.65 | 288 |
 | 104 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,807 | 4.70 | 192 |
@@ -114,7 +114,7 @@
 | 112 | [Ring of Pain](games/r/ring_of_pain.md) | 1,468 | 4.58 | 407 |
 | 113 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,445 | 4.69 | 213 |
 | 114 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,436 | 4.79 | 92 |
-| 115 | [Celeste](games/c/celeste.md) | 1,425 | 4.92 | 3 |
+| 115 | [Celeste](games/c/celeste.md) | 1,427 | 4.92 | 3 |
 | 116 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,365 | 4.87 | 24 |
 | 117 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,294 | 4.70 | 192 |
 | 118 | [DOOM 64](games/d/doom_64.md) | 1,285 | 4.66 | 273 |
@@ -122,7 +122,7 @@
 | 120 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,194 | 4.86 | 28 |
 | 121 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,187 | 4.62 | 335 |
 | 122 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,170 | 4.69 | 213 |
-| 123 | [XCOM® 2](games/x/xcom®_2.md) | 1,121 | 4.54 | 472 |
+| 123 | [XCOM® 2](games/x/xcom®_2.md) | 1,122 | 4.54 | 472 |
 | 124 | [OUTRIDERS](games/o/outriders.md) | 1,098 | 4.42 | 638 |
 | 125 | [Conan Exiles](games/c/conan_exiles.md) | 1,077 | 4.55 | 463 |
 | 126 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,075 | 4.52 | 497 |
@@ -200,7 +200,7 @@
 | 198 | [Slime Rancher](games/s/slime_rancher.md) | 385 | 4.83 | 54 |
 | 199 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 382 | 4.40 | 663 |
 | 199 | [Warface](games/w/warface.md) | 382 | 3.91 | 885 |
-| 201 | [Football Manager 2023](games/f/football_manager_2023.md) | 375 | 4.75 | 126 |
+| 201 | [Football Manager 2023](games/f/football_manager_2023.md) | 379 | 4.75 | 126 |
 | 202 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 374 | 4.61 | 350 |
 | 203 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 367 | 3.99 | 870 |
 | 204 | [Nuclear Throne](games/n/nuclear_throne.md) | 364 | 4.79 | 92 |
@@ -215,8 +215,8 @@
 | 213 | [Dungeons 3](games/d/dungeons_3.md) | 317 | 4.65 | 288 |
 | 213 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 317 | 4.77 | 106 |
 | 215 | [Second Extinction™](games/s/second_extinction™.md) | 314 | 4.08 | 852 |
-| 216 | [Dishonored 2](games/d/dishonored_2.md) | 312 | 4.80 | 78 |
-| 216 | [The Messenger](games/t/the_messenger.md) | 312 | 4.80 | 78 |
+| 216 | [Dishonored 2](games/d/dishonored_2.md) | 313 | 4.80 | 78 |
+| 217 | [The Messenger](games/t/the_messenger.md) | 312 | 4.80 | 78 |
 | 218 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 309 | 4.73 | 155 |
 | 219 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 306 | 4.59 | 389 |
 | 220 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 305 | 4.70 | 192 |

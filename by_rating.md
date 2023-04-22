@@ -2,7 +2,7 @@
 | - | ---- | ------ | ------ | ------------------ |
 | 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 0 | 486 |
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 486 |
-| 3 | [Celeste](games/c/celeste.md) | 4.92 | 1,425 | 115 |
+| 3 | [Celeste](games/c/celeste.md) | 4.92 | 1,427 | 115 |
 | 3 | [Hades](games/h/hades.md) | 4.92 | 3,006 | 86 |
 | 5 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.91 | 20 | 478 |
 | 5 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 0 | 486 |
@@ -77,7 +77,7 @@
 | 71 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 0 | 486 |
 | 71 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 26 | 454 |
 | 71 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 0 | 486 |
-| 78 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 312 | 216 |
+| 78 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 313 | 216 |
 | 78 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,233 | 50 |
 | 78 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 158 | 278 |
 | 78 | [Journey](games/j/journey.md) | 4.80 | 0 | 486 |
@@ -88,7 +88,7 @@
 | 78 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 315 |
 | 78 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 486 |
 | 78 | [Superliminal](games/s/superliminal.md) | 4.80 | 0 | 486 |
-| 78 | [The Messenger](games/t/the_messenger.md) | 4.80 | 312 | 216 |
+| 78 | [The Messenger](games/t/the_messenger.md) | 4.80 | 312 | 217 |
 | 78 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 0 | 486 |
 | 78 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.80 | 0 | 486 |
 | 92 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,436 | 114 |
@@ -129,7 +129,7 @@
 | 126 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,739 | 63 |
 | 126 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,157 | 83 |
 | 126 | [Diabotical](games/d/diabotical.md) | 4.75 | 265 | 232 |
-| 126 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 375 | 201 |
+| 126 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 379 | 201 |
 | 126 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 97 | 319 |
 | 126 | [Quake](games/q/quake.md) | 4.75 | 45 | 393 |
 | 126 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 416 | 189 |
@@ -326,7 +326,7 @@
 | 313 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 183 | 260 |
 | 325 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 20 | 478 |
 | 325 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 0 | 486 |
-| 325 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,070 | 101 |
+| 325 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,073 | 101 |
 | 325 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 0 | 486 |
 | 325 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 486 |
 | 325 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 179 | 262 |
@@ -482,7 +482,7 @@
 | 472 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 490 | 182 |
 | 472 | [VALORANT](games/v/valorant.md) | 4.54 | 49,514 | 11 |
 | 472 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 28 | 446 |
-| 472 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 1,121 | 123 |
+| 472 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 1,122 | 123 |
 | 484 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 486 |
 | 484 | [Aztez](games/a/aztez.md) | 4.53 | 0 | 486 |
 | 484 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 486 |
@@ -585,7 +585,7 @@
 | 571 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 6,502 | 46 |
 | 571 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 486 |
 | 585 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 486 |
-| 585 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,219 | 81 |
+| 585 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,223 | 81 |
 | 585 | [Figment](games/f/figment.md) | 4.46 | 20 | 478 |
 | 585 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 106 | 309 |
 | 585 | [Knockout City™](games/k/knockout_city™.md) | 4.46 | 0 | 486 |
