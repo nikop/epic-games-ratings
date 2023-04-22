@@ -3,14 +3,14 @@
   "Name": "Dead Space",
   "Rating": 4.76,
   "Ranking_Rating": 114,
-  "Ranking_Popularity": 419,
-  "Ranking_PopularitySum": 443,
-  "NumberOfAwards": 35,
-  "NumberOfAwardsMax": 35,
+  "Ranking_Popularity": 414,
+  "Ranking_PopularitySum": 442,
+  "NumberOfAwards": 36,
+  "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2023-01-27T17:57:20.5533157+00:00",
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
-  "LastChanged": "2023-04-21T03:58:04.5077389+00:00",
+  "LastChanged": "2023-04-22T14:57:19.46363+00:00",
   "RatingHistory": [
     {
       "Time": "2023-01-31T17:57:54.7682729+00:00",
@@ -169,6 +169,12 @@
       "Rating": 4.76,
       "NumberOfAwards": 35,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-04-22T14:57:19.4636301+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 36,
+      "NumberOfAwardsMax": 36
     }
   ],
   "Tags": [
@@ -176,7 +182,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 35
+      "Count": 36
     }
   ]
 }

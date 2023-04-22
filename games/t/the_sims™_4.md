@@ -1,14 +1,14 @@
 # The Sims™ 4
 Rating: 4.60 (Ranked 373)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 113  (Ranked 303)  
-Sum: 735 (Ranked 251)  
-Diff (max vs sum): 52
+Max (Great for Beginners): 114  (Ranked 301)  
+Sum: 739 (Ranked 250)  
+Diff (max vs sum): 51
 ## Awards
 | Award | Count |
 | ----- | ----- |
+| This game is Great for Beginners | 114 |
 | This game has Diverse Characters | 113 |
-| This game is Great for Beginners | 110 |
 | This game has a Creative Community | 72 |
 | This game is Educational | 60 |
 | This game is Extremely Fun | 58 |
@@ -77,4 +77,4 @@ Diff (max vs sum): 52
 | 2023-04-19 | 4.59 | 101 | 666 |
 | 2023-04-20 | 4.60 | 102 | 694 |
 | 2023-04-21 | 4.60 | 110 | 725 |
-| 2023-04-22 | 4.60 | 113 | 735 |
+| 2023-04-22 | 4.60 | 114 | 739 |

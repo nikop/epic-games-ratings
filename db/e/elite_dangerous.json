@@ -1,8 +1,8 @@
 {
   "ID": "3db17abfd650423f993291624b1b2ac1",
   "Name": "Elite Dangerous",
-  "Rating": 4.64,
-  "Ranking_Rating": 313,
+  "Rating": 4.63,
+  "Ranking_Rating": 325,
   "Ranking_Popularity": 101,
   "Ranking_PopularitySum": 71,
   "NumberOfRatings": 6856,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 2070,
   "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
-  "LastChanged": "2023-04-21T23:57:08.8189855+00:00",
+  "LastChanged": "2023-04-22T14:57:13.4950743+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:28.2143306+00:00",
@@ -3508,6 +3508,12 @@
     {
       "Time": "2023-04-21T23:57:08.8189856+00:00",
       "Rating": 4.64,
+      "NumberOfAwards": 11882,
+      "NumberOfAwardsMax": 2070
+    },
+    {
+      "Time": "2023-04-22T14:57:13.4950745+00:00",
+      "Rating": 4.63,
       "NumberOfAwards": 11882,
       "NumberOfAwardsMax": 2070
     }

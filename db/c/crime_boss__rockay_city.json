@@ -3,14 +3,14 @@
   "Name": "Crime Boss: Rockay City",
   "Rating": 3.92,
   "Ranking_Rating": 882,
-  "Ranking_Popularity": 276,
-  "Ranking_PopularitySum": 245,
-  "NumberOfAwards": 777,
-  "NumberOfAwardsMax": 159,
-  "MaxAwardTitle": "Quickly Understood Controls",
+  "Ranking_Popularity": 269,
+  "Ranking_PopularitySum": 243,
+  "NumberOfAwards": 795,
+  "NumberOfAwardsMax": 169,
+  "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
-  "LastChanged": "2023-04-22T06:56:57.2499241+00:00",
+  "LastChanged": "2023-04-22T14:56:51.4118244+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-29T02:58:45.3340124+00:00",
@@ -839,6 +839,12 @@
       "Rating": 3.92,
       "NumberOfAwards": 777,
       "NumberOfAwardsMax": 159
+    },
+    {
+      "Time": "2023-04-22T14:56:51.4118245+00:00",
+      "Rating": 3.92,
+      "NumberOfAwards": 795,
+      "NumberOfAwardsMax": 169
     }
   ],
   "Tags": [
@@ -858,7 +864,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 155
+      "Count": 162
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -882,7 +888,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 158
+      "Count": 169
     },
     {
       "Text": "This game has a Silly Community",
