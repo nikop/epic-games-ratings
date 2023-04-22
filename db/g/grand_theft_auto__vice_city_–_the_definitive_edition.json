@@ -3,14 +3,14 @@
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "Rating": 4.65,
   "Ranking_Rating": 288,
-  "Ranking_Popularity": 465,
-  "Ranking_PopularitySum": 468,
-  "NumberOfAwards": 22,
-  "NumberOfAwardsMax": 22,
+  "Ranking_Popularity": 457,
+  "Ranking_PopularitySum": 462,
+  "NumberOfAwards": 25,
+  "NumberOfAwardsMax": 25,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
-  "LastChanged": "2023-04-21T10:57:04.2016172+00:00",
+  "LastChanged": "2023-04-22T06:57:05.2605232+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-21T16:57:02.7003964+00:00",
@@ -207,6 +207,12 @@
       "Rating": 4.65,
       "NumberOfAwards": 22,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-04-22T06:57:05.2605235+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 25,
+      "NumberOfAwardsMax": 25
     }
   ],
   "Tags": [
@@ -214,7 +220,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 22
+      "Count": 25
     }
   ]
 }

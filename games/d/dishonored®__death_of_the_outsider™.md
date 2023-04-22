@@ -1,18 +1,18 @@
 # Dishonored®: Death of the Outsider™
 Rating: 4.43 (Ranked 631)  
 ## Popularity (Based on Awards)
-Max (Extremely Fun): 22  (Ranked 465)  
-Sum: 147 (Ranked 373)  
-Diff (max vs sum): 92
+Max (Extremely Fun): 22  (Ranked 466)  
+Sum: 148 (Ranked 373)  
+Diff (max vs sum): 93
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 27 |
 | This game is Extremely Fun | 22 |
 | This game has Amazing Storytelling | 22 |
+| This game is Highly Recommended | 22 |
 | This game is Relaxing | 21 |
 | This game has Diverse Characters | 21 |
-| This game is Highly Recommended | 21 |
 | This game has Amazing Characters | 20 |
 | This game is Great for Beginners | 20 |
 ## Ratings History
@@ -59,3 +59,4 @@ Diff (max vs sum): 92
 | 2023-04-14 | 4.43 | 22 | 144 |
 | 2023-04-16 | 4.43 | 22 | 146 |
 | 2023-04-17 | 4.43 | 22 | 147 |
+| 2023-04-22 | 4.43 | 22 | 148 |
