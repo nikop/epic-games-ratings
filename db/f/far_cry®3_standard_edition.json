@@ -2,15 +2,15 @@
   "ID": "hellebore",
   "Name": "Far Cry\u00AE3 Standard Edition",
   "Rating": 4.69,
-  "Ranking_Rating": 214,
+  "Ranking_Rating": 213,
   "Ranking_Popularity": 210,
-  "Ranking_PopularitySum": 304,
+  "Ranking_PopularitySum": 303,
   "NumberOfRatings": 504,
-  "NumberOfAwards": 364,
-  "NumberOfAwardsMax": 322,
+  "NumberOfAwards": 365,
+  "NumberOfAwardsMax": 323,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:24:43.0306746+00:00",
-  "LastChanged": "2023-04-21T06:57:51.4709391+00:00",
+  "LastChanged": "2023-04-22T18:58:21.4953172+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:43.0306749+00:00",
@@ -655,6 +655,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 364,
       "NumberOfAwardsMax": 322
+    },
+    {
+      "Time": "2023-04-22T18:58:21.4953174+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 365,
+      "NumberOfAwardsMax": 323
     }
   ],
   "Tags": [
@@ -662,7 +668,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 322
+      "Count": 323
     },
     {
       "Text": "This game is Extremely Fun",

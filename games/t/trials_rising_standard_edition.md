@@ -1,5 +1,5 @@
 # Trials Rising Standard Edition
-Rating: 4.69 (Ranked 214)  
+Rating: 4.69 (Ranked 213)  
 Number of Ratings: 81  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  

@@ -1,14 +1,14 @@
 # Far Cry®3 Standard Edition
-Rating: 4.69 (Ranked 214)  
+Rating: 4.69 (Ranked 213)  
 Number of Ratings: 504  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 322  (Ranked 210)  
-Sum: 364 (Ranked 304)  
-Diff (max vs sum): -94
+Max (Great Boss Battles): 323  (Ranked 210)  
+Sum: 365 (Ranked 303)  
+Diff (max vs sum): -93
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 322 |
+| This game has Great Boss Battles | 323 |
 | This game has Amazing Storytelling | 22 |
 | This game is Extremely Fun | 20 |
 ## Ratings History
@@ -105,3 +105,4 @@ Diff (max vs sum): -94
 | 2023-04-19 | 4.69 | - | 319 | 361 |
 | 2023-04-20 | 4.69 | - | 320 | 362 |
 | 2023-04-21 | 4.69 | - | 322 | 364 |
+| 2023-04-22 | 4.69 | - | 323 | 365 |

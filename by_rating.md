@@ -184,7 +184,7 @@
 | 179 | [Fez](games/f/fez.md) | 4.71 | 23 | 463 |
 | 179 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 420 |
 | 179 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.71 | 0 | 486 |
-| 179 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,102 | 43 |
+| 179 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,105 | 43 |
 | 179 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 0 | 486 |
 | 179 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 0 | 486 |
 | 179 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.71 | 109 | 308 |
@@ -211,30 +211,30 @@
 | 192 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 57 | 375 |
 | 192 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 0 | 486 |
 | 192 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 486 |
-| 192 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,196 | 69 |
 | 192 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 36 | 414 |
-| 214 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 107,743 | 8 |
-| 214 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,726 | 76 |
-| 214 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 322 | 210 |
-| 214 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 0 | 486 |
-| 214 | [GNOG](games/g/gnog.md) | 4.69 | 0 | 486 |
-| 214 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 160,126 | 5 |
-| 214 | [INSIDE](games/i/inside.md) | 4.69 | 0 | 486 |
-| 214 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,170 | 122 |
-| 214 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 486 |
-| 214 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 486 |
-| 214 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,173 | 32 |
-| 214 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 448 |
-| 214 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.69 | 0 | 486 |
-| 214 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 0 | 486 |
-| 214 | [The Witness](games/t/the_witness.md) | 4.69 | 168 | 271 |
-| 214 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.69 | 1,445 | 113 |
-| 214 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 0 | 486 |
-| 214 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 849 | 142 |
-| 214 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 0 | 486 |
-| 214 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 486 |
-| 214 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 0 | 486 |
-| 214 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 764 | 147 |
+| 213 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 107,743 | 8 |
+| 213 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,726 | 76 |
+| 213 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 323 | 210 |
+| 213 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 0 | 486 |
+| 213 | [GNOG](games/g/gnog.md) | 4.69 | 0 | 486 |
+| 213 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.69 | 160,126 | 5 |
+| 213 | [INSIDE](games/i/inside.md) | 4.69 | 0 | 486 |
+| 213 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,170 | 122 |
+| 213 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 486 |
+| 213 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 486 |
+| 213 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,173 | 32 |
+| 213 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 448 |
+| 213 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.69 | 0 | 486 |
+| 213 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 0 | 486 |
+| 213 | [The Witness](games/t/the_witness.md) | 4.69 | 168 | 271 |
+| 213 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.69 | 4,196 | 69 |
+| 213 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.69 | 1,445 | 113 |
+| 213 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 0 | 486 |
+| 213 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 849 | 142 |
+| 213 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 0 | 486 |
+| 213 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 486 |
+| 213 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 0 | 486 |
+| 213 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 764 | 147 |
 | 236 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,315 | 80 |
 | 236 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.68 | 0 | 486 |
 | 236 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 2,961 | 87 |
@@ -380,7 +380,7 @@
 | 374 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 36 | 414 |
 | 374 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 552 | 168 |
 | 374 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 62 | 367 |
-| 374 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 8,953 | 35 |
+| 374 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 8,967 | 35 |
 | 374 | [Roguebook](games/r/roguebook.md) | 4.60 | 0 | 486 |
 | 374 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.60 | 0 | 486 |
 | 374 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 433 | 187 |
