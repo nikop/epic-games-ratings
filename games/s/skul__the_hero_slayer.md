@@ -1,10 +1,10 @@
 # Skul: The Hero Slayer
-Rating: 4.71 (Ranked 179)  
+Rating: 4.70 (Ranked 191)  
 Number of Ratings: 546  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 109  (Ranked 308)  
-Sum: 732 (Ranked 253)  
-Diff (max vs sum): 55
+Sum: 733 (Ranked 252)  
+Diff (max vs sum): 56
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -12,7 +12,7 @@ Diff (max vs sum): 55
 | This game has Diverse Characters | 109 |
 | This game is Extremely Fun | 106 |
 | This game is Relaxing | 103 |
-| This game is Highly Recommended | 100 |
+| This game is Highly Recommended | 101 |
 | This game has Quickly Understood Controls | 95 |
 | This game has Amazing Storytelling | 84 |
 | This game has Amazing Characters | 77 |
@@ -97,4 +97,4 @@ Diff (max vs sum): 55
 | 2023-04-17 | 4.71 | - | 112 | 840 |
 | 2023-04-20 | 4.71 | - | 108 | 729 |
 | 2023-04-21 | 4.71 | - | 109 | 731 |
-| 2023-04-22 | 4.71 | - | 109 | 732 |
+| 2023-04-22 | 4.71 | - | 109 | 733 |

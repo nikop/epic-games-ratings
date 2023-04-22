@@ -6,11 +6,11 @@
   "Ranking_Popularity": 116,
   "Ranking_PopularitySum": 209,
   "NumberOfRatings": 3910,
-  "NumberOfAwards": 1449,
-  "NumberOfAwardsMax": 1365,
+  "NumberOfAwards": 1450,
+  "NumberOfAwardsMax": 1366,
   "MaxAwardTitle": "Impact the Story",
   "FirstSeen": "2022-07-22T20:18:06.5181893+00:00",
-  "LastChanged": "2023-04-20T18:57:06.3438751+00:00",
+  "LastChanged": "2023-04-22T22:57:00.7390291+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:06.5181896+00:00",
@@ -983,6 +983,12 @@
       "Rating": 4.87,
       "NumberOfAwards": 1449,
       "NumberOfAwardsMax": 1365
+    },
+    {
+      "Time": "2023-04-22T22:57:00.7390292+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1450,
+      "NumberOfAwardsMax": 1366
     }
   ],
   "Tags": [
@@ -990,7 +996,7 @@
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 1365
+      "Count": 1366
     },
     {
       "Text": "This game has Amazing Characters",

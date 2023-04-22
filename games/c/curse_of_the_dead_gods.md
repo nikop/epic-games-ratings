@@ -1,5 +1,5 @@
 # Curse of the Dead Gods
-Rating: 4.65 (Ranked 287)  
+Rating: 4.64 (Ranked 311)  
 Number of Ratings: 140  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 114  (Ranked 302)  
@@ -81,3 +81,4 @@ Diff (max vs sum): -85
 | 2023-04-15 | 4.65 | - | 112 | 112 |
 | 2023-04-19 | 4.65 | - | 113 | 113 |
 | 2023-04-20 | 4.65 | - | 114 | 114 |
+| 2023-04-22 | 4.64 | - | 114 | 114 |

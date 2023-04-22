@@ -1,8 +1,8 @@
 {
   "ID": "c1e33e7e700f42429ea2b8a7459bb55b",
   "Name": "Curse of the Dead Gods",
-  "Rating": 4.65,
-  "Ranking_Rating": 287,
+  "Rating": 4.64,
+  "Ranking_Rating": 311,
   "Ranking_Popularity": 302,
   "Ranking_PopularitySum": 387,
   "NumberOfRatings": 140,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 114,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:25:59.8576233+00:00",
-  "LastChanged": "2023-04-20T13:58:09.957171+00:00",
+  "LastChanged": "2023-04-22T22:58:01.8822843+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:59.8576238+00:00",
@@ -368,6 +368,12 @@
     {
       "Time": "2023-04-20T13:58:09.9571712+00:00",
       "Rating": 4.65,
+      "NumberOfAwards": 114,
+      "NumberOfAwardsMax": 114
+    },
+    {
+      "Time": "2023-04-22T22:58:01.8822843+00:00",
+      "Rating": 4.64,
       "NumberOfAwards": 114,
       "NumberOfAwardsMax": 114
     }

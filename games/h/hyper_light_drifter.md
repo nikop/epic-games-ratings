@@ -1,5 +1,5 @@
 # Hyper Light Drifter
-Rating: 4.70 (Ranked 192)  
+Rating: 4.70 (Ranked 191)  
 Number of Ratings: 364  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 50  (Ranked 379)  
