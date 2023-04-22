@@ -1,6 +1,18 @@
 {
   "ID": "67086faf5dc74b94a46c4f3e9e7867e3",
   "Name": "Everything is going to be OK",
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-22T07:57:48.3794787+00:00",
+  "FirstSeenRating": "2023-04-22T07:57:48.3794827+00:00",
+  "LastChanged": "2023-04-22T07:57:48.3794828+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-22T07:57:48.3794828+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }
