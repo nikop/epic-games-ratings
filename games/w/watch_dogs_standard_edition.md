@@ -3,7 +3,7 @@ Rating: 4.56 (Ranked 441)
 Number of Ratings: 1,912  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 47  (Ranked 388)  
-Sum: 314 (Ranked 317)  
+Sum: 315 (Ranked 317)  
 Diff (max vs sum): 71
 ## Awards
 | Award | Count |
@@ -17,7 +17,7 @@ Diff (max vs sum): 71
 | This game is Extremely Fun | 36 |
 | This game has Competitive Players | 32 |
 | This game has Obsessive Gameplay | 30 |
-| This game is Highly Recommended | 29 |
+| This game is Highly Recommended | 30 |
 | This game has Realistic Visuals | 26 |
 | This game has a Competitive Community | 24 |
 ## Ratings History
@@ -114,3 +114,4 @@ Diff (max vs sum): 71
 | 2023-04-18 | 4.56 | - | 46 | 311 |
 | 2023-04-20 | 4.56 | - | 47 | 312 |
 | 2023-04-21 | 4.56 | - | 47 | 314 |
+| 2023-04-22 | 4.56 | - | 47 | 315 |
