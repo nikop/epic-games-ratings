@@ -1,10 +1,10 @@
 # Verdun
-Rating: 4.53 (Ranked 485)  
+Rating: 4.53 (Ranked 484)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 93  (Ranked 326)  
-Sum: 727 (Ranked 255)  
-Diff (max vs sum): 71
+Sum: 728 (Ranked 254)  
+Diff (max vs sum): 72
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -19,8 +19,8 @@ Diff (max vs sum): 71
 | This game has Amazing Characters | 65 |
 | This game has Realistic Visuals | 64 |
 | This game has a Competitive Community | 60 |
+| This game has Amazing Storytelling | 56 |
 | This game has Challenging Combat | 55 |
-| This game has Amazing Storytelling | 55 |
 | This game has Obsessive Gameplay | 46 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -119,3 +119,4 @@ Diff (max vs sum): 71
 | 2023-04-08 | 4.53 | - | 93 | 725 |
 | 2023-04-19 | 4.53 | - | 93 | 726 |
 | 2023-04-20 | 4.53 | - | 93 | 727 |
+| 2023-04-22 | 4.53 | - | 93 | 728 |

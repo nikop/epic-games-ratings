@@ -3,7 +3,7 @@ Rating: 4.44 (Ranked 614)
 Number of Ratings: 4,733  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 1,008  (Ranked 131)  
-Sum: 8,823 (Ranked 82)  
+Sum: 8,827 (Ranked 82)  
 Diff (max vs sum): 49
 ## Awards
 | Award | Count |
@@ -11,8 +11,8 @@ Diff (max vs sum): 49
 | This game is Relaxing | 1,008 |
 | This game has Quickly Understood Controls | 992 |
 | This game is Extremely Fun | 954 |
+| This game has Competitive Players | 942 |
 | This game has Challenging Combat | 941 |
-| This game has Competitive Players | 938 |
 | This game is Highly Recommended | 927 |
 | This game has Realistic Visuals | 835 |
 | This game has Amazing Storytelling | 806 |
@@ -121,4 +121,4 @@ Diff (max vs sum): 49
 | 2023-04-19 | 4.44 | - | 999 | 8,785 |
 | 2023-04-20 | 4.44 | - | 999 | 8,795 |
 | 2023-04-21 | 4.44 | - | 1,003 | 8,818 |
-| 2023-04-22 | 4.44 | - | 1,008 | 8,823 |
+| 2023-04-22 | 4.44 | - | 1,008 | 8,827 |

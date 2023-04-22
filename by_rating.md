@@ -3,7 +3,7 @@
 | 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 0 | 485 |
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 485 |
 | 3 | [Celeste](games/c/celeste.md) | 4.92 | 1,425 | 115 |
-| 3 | [Hades](games/h/hades.md) | 4.92 | 3,003 | 86 |
+| 3 | [Hades](games/h/hades.md) | 4.92 | 3,006 | 85 |
 | 5 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.91 | 20 | 477 |
 | 5 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 0 | 485 |
 | 7 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 0 | 485 |
@@ -471,10 +471,9 @@
 | 463 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 485 |
 | 463 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 817 | 145 |
 | 463 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.55 | 32 | 429 |
-| 472 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 0 | 485 |
 | 472 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 426 |
 | 472 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 992 | 134 |
-| 472 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 191 | 257 |
+| 472 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 192 | 257 |
 | 472 | [IXION](games/i/ixion.md) | 4.54 | 0 | 485 |
 | 472 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 86 | 334 |
 | 472 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 88 | 331 |
@@ -484,18 +483,19 @@
 | 472 | [VALORANT](games/v/valorant.md) | 4.54 | 49,514 | 11 |
 | 472 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 28 | 445 |
 | 472 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 1,121 | 123 |
-| 485 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 485 |
-| 485 | [Aztez](games/a/aztez.md) | 4.53 | 0 | 485 |
-| 485 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 485 |
-| 485 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,525 | 17 |
-| 485 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 137,705 | 6 |
-| 485 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 117 | 297 |
-| 485 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 485 |
-| 485 | [RUINER](games/r/ruiner.md) | 4.53 | 23 | 462 |
-| 485 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 92 | 327 |
-| 485 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 485 |
-| 485 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 268 | 230 |
-| 485 | [Verdun](games/v/verdun.md) | 4.53 | 93 | 326 |
+| 484 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 485 |
+| 484 | [Aztez](games/a/aztez.md) | 4.53 | 0 | 485 |
+| 484 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 485 |
+| 484 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,525 | 17 |
+| 484 | [Dead Island 2](games/d/dead_island_2.md) | 4.53 | 0 | 485 |
+| 484 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 137,705 | 6 |
+| 484 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 117 | 297 |
+| 484 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 485 |
+| 484 | [RUINER](games/r/ruiner.md) | 4.53 | 23 | 462 |
+| 484 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 92 | 327 |
+| 484 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 485 |
+| 484 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 268 | 230 |
+| 484 | [Verdun](games/v/verdun.md) | 4.53 | 93 | 326 |
 | 497 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 733 | 150 |
 | 497 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 38 | 409 |
 | 497 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 26,664 | 15 |
@@ -694,7 +694,7 @@
 | 683 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 31 | 435 |
 | 693 | [Core](games/c/core.md) | 4.37 | 724 | 151 |
 | 693 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 485 |
-| 693 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 12,230 | 27 |
+| 693 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 12,235 | 27 |
 | 693 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 0 | 485 |
 | 693 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,129 | 100 |
 | 693 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 485 |

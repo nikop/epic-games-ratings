@@ -5,7 +5,7 @@
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 288,905 | 4.68 | 236 |
 | 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 180,577 | 4.19 | 808 |
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 160,126 | 4.69 | 214 |
-| 6 | [Fall Guys](games/f/fall_guys.md) | 137,705 | 4.53 | 485 |
+| 6 | [Fall Guys](games/f/fall_guys.md) | 137,705 | 4.53 | 484 |
 | 7 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 135,033 | 4.89 | 12 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 107,743 | 4.69 | 214 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 62,348 | 4.62 | 335 |
@@ -16,7 +16,7 @@
 | 14 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,377 | 4.65 | 288 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 26,664 | 4.52 | 497 |
 | 16 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 21,160 | 4.57 | 423 |
-| 17 | [Dauntless](games/d/dauntless.md) | 19,525 | 4.53 | 485 |
+| 17 | [Dauntless](games/d/dauntless.md) | 19,525 | 4.53 | 484 |
 | 18 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 17,878 | 4.57 | 423 |
 | 19 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 17,758 | 4.78 | 101 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 14,624 | 4.89 | 12 |
@@ -26,7 +26,7 @@
 | 24 | [Maneater](games/m/maneater.md) | 13,396 | 4.49 | 540 |
 | 25 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,177 | 4.60 | 373 |
 | 26 | [League of Legends](games/l/league_of_legends.md) | 12,628 | 4.21 | 793 |
-| 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,230 | 4.37 | 693 |
+| 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,235 | 4.37 | 693 |
 | 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,800 | 4.41 | 652 |
 | 29 | [NBA 2K21](games/n/nba_2k21.md) | 11,639 | 4.39 | 671 |
 | 30 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 11,442 | 4.60 | 373 |
@@ -84,8 +84,8 @@
 | 82 | [Paladins](games/p/paladins.md) | 3,177 | 4.35 | 708 |
 | 83 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,151 | 4.75 | 127 |
 | 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,139 | 4.59 | 389 |
+| 85 | [Hades](games/h/hades.md) | 3,006 | 4.92 | 3 |
 | 85 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,006 | 4.57 | 423 |
-| 86 | [Hades](games/h/hades.md) | 3,003 | 4.92 | 3 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 2,961 | 4.68 | 236 |
 | 88 | [Path of Exile](games/p/path_of_exile.md) | 2,436 | 4.61 | 350 |
 | 89 | [Trackmania](games/t/trackmania.md) | 2,435 | 4.67 | 256 |
@@ -229,7 +229,7 @@
 | 227 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 272 | 4.62 | 335 |
 | 228 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 271 | 4.49 | 540 |
 | 228 | [Railway Empire](games/r/railway_empire.md) | 271 | 4.51 | 509 |
-| 230 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 268 | 4.53 | 485 |
+| 230 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 268 | 4.53 | 484 |
 | 231 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 266 | 4.61 | 350 |
 | 232 | [Diabotical](games/d/diabotical.md) | 265 | 4.75 | 127 |
 | 233 | [Sheltered](games/s/sheltered.md) | 264 | 4.42 | 638 |
@@ -256,7 +256,7 @@
 | 254 | [Stranded Deep](games/s/stranded_deep.md) | 200 | 4.22 | 788 |
 | 255 | [HITMAN](games/h/hitman.md) | 195 | 4.64 | 313 |
 | 256 | [Relicta](games/r/relicta.md) | 193 | 4.15 | 830 |
-| 257 | [Hello Neighbor](games/h/hello_neighbor.md) | 191 | 4.54 | 472 |
+| 257 | [Hello Neighbor](games/h/hello_neighbor.md) | 192 | 4.54 | 472 |
 | 258 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 189 | 4.80 | 78 |
 | 259 | [Crashlands](games/c/crashlands.md) | 188 | 4.66 | 273 |
 | 260 | [Unrailed!](games/u/unrailed!.md) | 183 | 4.64 | 313 |
@@ -297,7 +297,7 @@
 | 295 | [Star Stable Online](games/s/star_stable_online.md) | 121 | 4.42 | 638 |
 | 296 | [Aven Colony](games/a/aven_colony.md) | 119 | 4.20 | 797 |
 | 297 | [Going Medieval](games/g/going_medieval.md) | 117 | 4.60 | 373 |
-| 297 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 117 | 4.53 | 485 |
+| 297 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 117 | 4.53 | 484 |
 | 299 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 116 | 4.79 | 92 |
 | 299 | [Sonic Origins](games/s/sonic_origins.md) | 116 | 4.57 | 423 |
 | 301 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 114 | 4.65 | 288 |
@@ -325,9 +325,9 @@
 | 321 | [Scavengers](games/s/scavengers.md) | 96 | 4.18 | 814 |
 | 321 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 96 | 4.47 | 571 |
 | 325 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 94 | 4.86 | 28 |
-| 326 | [Verdun](games/v/verdun.md) | 93 | 4.53 | 485 |
+| 326 | [Verdun](games/v/verdun.md) | 93 | 4.53 | 484 |
 | 327 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 92 | 4.41 | 652 |
-| 327 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 92 | 4.53 | 485 |
+| 327 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 92 | 4.53 | 484 |
 | 329 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 91 | 4.51 | 509 |
 | 330 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 90 | 4.35 | 708 |
 | 331 | [Darksiders III](games/d/darksiders_iii.md) | 88 | 4.49 | 540 |
@@ -463,7 +463,7 @@
 | 460 | [Solar Ash](games/s/solar_ash.md) | 24 | 4.66 | 273 |
 | 462 | [ELEX](games/e/elex.md) | 23 | 4.42 | 638 |
 | 462 | [Fez](games/f/fez.md) | 23 | 4.71 | 179 |
-| 462 | [RUINER](games/r/ruiner.md) | 23 | 4.53 | 485 |
+| 462 | [RUINER](games/r/ruiner.md) | 23 | 4.53 | 484 |
 | 462 | [Weird West](games/w/weird_west.md) | 23 | 4.45 | 596 |
 | 466 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.27 | 764 |
 | 466 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 22 | 4.43 | 631 |
