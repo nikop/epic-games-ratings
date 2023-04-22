@@ -1,5 +1,5 @@
 # Them's Fightin' Herds
-Rating: 4.63 (Ranked 325)  
+Rating: 4.63 (Ranked 323)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  
 Sum: 0 (Ranked 486)  

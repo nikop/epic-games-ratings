@@ -1,15 +1,15 @@
 {
   "ID": "e4ef0c8c500a41eaa57c53d32410595d",
   "Name": "Citizen Sleeper",
-  "Rating": 4.81,
-  "Ranking_Rating": 71,
+  "Rating": 4.82,
+  "Ranking_Rating": 60,
   "Ranking_Popularity": 486,
   "Ranking_PopularitySum": 486,
   "NumberOfRatings": 34,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:29:38.6644605+00:00",
-  "LastChanged": "2023-03-31T05:58:22.5176883+00:00",
+  "LastChanged": "2023-04-22T20:58:30.5147665+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-24T12:01:52.5792342+00:00",
@@ -127,6 +127,12 @@
     {
       "Time": "2023-03-31T05:58:22.5176888+00:00",
       "Rating": 4.81,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-22T20:58:30.5147667+00:00",
+      "Rating": 4.82,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

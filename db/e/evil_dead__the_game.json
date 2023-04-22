@@ -1,16 +1,16 @@
 {
   "ID": "95e09a8c24c44684bca1a6f25aea920c",
   "Name": "Evil Dead: The Game",
-  "Rating": 4.37,
-  "Ranking_Rating": 693,
+  "Rating": 4.36,
+  "Ranking_Rating": 699,
   "Ranking_Popularity": 27,
   "Ranking_PopularitySum": 38,
   "NumberOfRatings": 9131,
-  "NumberOfAwards": 28552,
+  "NumberOfAwards": 28553,
   "NumberOfAwardsMax": 12235,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:18:51.4090236+00:00",
-  "LastChanged": "2023-04-22T14:56:47.154266+00:00",
+  "LastChanged": "2023-04-22T20:57:02.1847902+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:51.4090239+00:00",
@@ -3029,6 +3029,12 @@
       "Rating": 4.37,
       "NumberOfAwards": 28552,
       "NumberOfAwardsMax": 12235
+    },
+    {
+      "Time": "2023-04-22T20:57:02.1847904+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 28553,
+      "NumberOfAwardsMax": 12235
     }
   ],
   "Tags": [
@@ -3084,7 +3090,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1796
+      "Count": 1797
     },
     {
       "Text": "This game has Amazing Storytelling",

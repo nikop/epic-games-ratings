@@ -1,15 +1,15 @@
 {
   "ID": "196202dd9d8f453bb50ceea83a759840",
   "Name": "Banished",
-  "Rating": 3.96,
-  "Ranking_Rating": 878,
+  "Rating": 4,
+  "Ranking_Rating": 868,
   "Ranking_Popularity": 486,
   "Ranking_PopularitySum": 486,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-09-16T23:33:03.3482571+00:00",
   "FirstSeenRating": "2023-02-04T23:58:43.0680409+00:00",
-  "LastChanged": "2023-03-31T05:58:46.2671188+00:00",
+  "LastChanged": "2023-04-22T20:58:57.144354+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-04T23:58:43.0680411+00:00",
@@ -26,6 +26,12 @@
     {
       "Time": "2023-03-31T05:58:46.2671191+00:00",
       "Rating": 3.96,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-22T20:58:57.1443541+00:00",
+      "Rating": 4,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

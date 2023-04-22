@@ -1,5 +1,5 @@
 # Fights in Tight Spaces
-Rating: 4.68 (Ranked 236)  
+Rating: 4.67 (Ranked 254)  
 Number of Ratings: 38  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  
@@ -35,3 +35,4 @@ Diff (max vs sum): 0
 | 2022-12-17 | 4.67 | - | - | - |
 | 2023-03-31 | 4.67 | - | 0 | 0 |
 | 2023-04-19 | 4.68 | - | 0 | 0 |
+| 2023-04-22 | 4.67 | - | 0 | 0 |

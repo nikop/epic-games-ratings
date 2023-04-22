@@ -2,15 +2,15 @@
   "ID": "244aaaa06bfa49d088205b13b9d2d115",
   "Name": "Warframe",
   "Rating": 4.61,
-  "Ranking_Rating": 350,
+  "Ranking_Rating": 349,
   "Ranking_Popularity": 22,
   "Ranking_PopularitySum": 28,
   "NumberOfRatings": 12660,
-  "NumberOfAwards": 37363,
+  "NumberOfAwards": 37369,
   "NumberOfAwardsMax": 14164,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
-  "LastChanged": "2023-04-22T16:57:08.7609548+00:00",
+  "LastChanged": "2023-04-22T20:57:06.2409284+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:28.1019024+00:00",
@@ -4065,6 +4065,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 37363,
       "NumberOfAwardsMax": 14164
+    },
+    {
+      "Time": "2023-04-22T20:57:06.2409286+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 37369,
+      "NumberOfAwardsMax": 14164
     }
   ],
   "Tags": [
@@ -4108,7 +4114,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2878
+      "Count": 2884
     },
     {
       "Text": "This game is Extremely Fun",

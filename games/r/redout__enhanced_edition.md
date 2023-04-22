@@ -1,5 +1,5 @@
 # Redout: Enhanced Edition
-Rating: 4.50 (Ranked 523)  
+Rating: 4.51 (Ranked 509)  
 Number of Ratings: 274  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  
@@ -67,3 +67,4 @@ Diff (max vs sum): 0
 | 2022-11-21 | 4.49 | - | - | - |
 | 2022-12-05 | 4.50 | - | - | - |
 | 2023-03-31 | 4.50 | - | 0 | 0 |
+| 2023-04-22 | 4.51 | - | 0 | 0 |

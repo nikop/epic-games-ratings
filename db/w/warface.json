@@ -3,14 +3,14 @@
   "Name": "Warface",
   "Rating": 3.91,
   "Ranking_Rating": 885,
-  "Ranking_Popularity": 199,
+  "Ranking_Popularity": 200,
   "Ranking_PopularitySum": 148,
   "NumberOfRatings": 3179,
-  "NumberOfAwards": 3001,
-  "NumberOfAwardsMax": 382,
+  "NumberOfAwards": 3002,
+  "NumberOfAwardsMax": 383,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2023-04-22T14:58:42.4631377+00:00",
+  "LastChanged": "2023-04-22T20:58:45.9298372+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:34.3823286+00:00",
@@ -2393,6 +2393,12 @@
       "Rating": 3.91,
       "NumberOfAwards": 3001,
       "NumberOfAwardsMax": 382
+    },
+    {
+      "Time": "2023-04-22T20:58:45.9298373+00:00",
+      "Rating": 3.91,
+      "NumberOfAwards": 3002,
+      "NumberOfAwardsMax": 383
     }
   ],
   "Tags": [
@@ -2418,7 +2424,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 382
+      "Count": 383
     },
     {
       "Text": "This game is Great for Beginners",

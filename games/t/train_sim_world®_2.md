@@ -1,5 +1,5 @@
 # Train Sim World® 2
-Rating: 4.42 (Ranked 638)  
+Rating: 4.42 (Ranked 637)  
 Number of Ratings: 2,541  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 532  (Ranked 175)  

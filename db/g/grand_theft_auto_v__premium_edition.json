@@ -2,15 +2,15 @@
   "ID": "0584d2013f0149a791e7b9bad0eec102",
   "Name": "Grand Theft Auto V: Premium Edition",
   "Rating": 4.69,
-  "Ranking_Rating": 213,
+  "Ranking_Rating": 212,
   "Ranking_Popularity": 5,
   "Ranking_PopularitySum": 5,
   "NumberOfRatings": 573831,
-  "NumberOfAwards": 1277188,
-  "NumberOfAwardsMax": 160126,
+  "NumberOfAwards": 1280595,
+  "NumberOfAwardsMax": 160649,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2023-04-21T20:57:03.1669045+00:00",
+  "LastChanged": "2023-04-22T20:57:15.054316+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:49.5868983+00:00",
@@ -4494,6 +4494,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 1277188,
       "NumberOfAwardsMax": 160126
+    },
+    {
+      "Time": "2023-04-22T20:57:15.0543162+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1280595,
+      "NumberOfAwardsMax": 160649
     }
   ],
   "Tags": [
@@ -4501,31 +4507,31 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 145688
+      "Count": 146070
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 137104
+      "Count": 137441
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 148013
+      "Count": 148474
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 136916
+      "Count": 137273
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 138779
+      "Count": 139108
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4537,25 +4543,25 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 140733
+      "Count": 141107
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 133073
+      "Count": 133375
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 136756
+      "Count": 137098
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 160126
+      "Count": 160649
     }
   ]
 }

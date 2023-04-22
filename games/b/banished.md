@@ -1,5 +1,5 @@
 # Banished
-Rating: 3.96 (Ranked 878)  
+Rating: 4.00 (Ranked 868)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  
 Sum: 0 (Ranked 486)  
@@ -14,3 +14,4 @@ Diff (max vs sum): 0
 | 2023-02-28 | 3.95 | - | - |
 | 2023-03-26 | 3.96 | - | - |
 | 2023-03-31 | 3.96 | 0 | 0 |
+| 2023-04-22 | 4.00 | 0 | 0 |

@@ -1,5 +1,5 @@
 # Rebel Galaxy Outlaw
-Rating: 4.43 (Ranked 631)  
+Rating: 4.43 (Ranked 630)  
 Number of Ratings: 145  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  

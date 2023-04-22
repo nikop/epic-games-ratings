@@ -1,5 +1,5 @@
 # Sherlock Holmes: The Devil's Daughter
-Rating: 4.44 (Ranked 614)  
+Rating: 4.42 (Ranked 637)  
 Number of Ratings: 56  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  
@@ -60,3 +60,4 @@ Diff (max vs sum): 0
 | 2023-01-06 | 4.43 | - | - | - |
 | 2023-03-31 | 4.43 | - | 0 | 0 |
 | 2023-04-14 | 4.44 | - | 0 | 0 |
+| 2023-04-22 | 4.42 | - | 0 | 0 |

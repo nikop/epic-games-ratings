@@ -1,5 +1,5 @@
 # Warhammer 40,000: Mechanicus - Standard Edition
-Rating: 4.43 (Ranked 631)  
+Rating: 4.43 (Ranked 630)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 276  (Ranked 225)  
 Sum: 2,085 (Ranked 182)  
