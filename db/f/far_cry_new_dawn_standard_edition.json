@@ -3,14 +3,14 @@
   "Name": "Far Cry New Dawn Standard Edition",
   "Rating": 4.41,
   "Ranking_Rating": 652,
-  "Ranking_Popularity": 266,
+  "Ranking_Popularity": 265,
   "Ranking_PopularitySum": 357,
   "NumberOfRatings": 338,
-  "NumberOfAwards": 174,
-  "NumberOfAwardsMax": 174,
+  "NumberOfAwards": 176,
+  "NumberOfAwardsMax": 176,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:19:24.3746385+00:00",
-  "LastChanged": "2023-04-19T21:57:15.4836106+00:00",
+  "LastChanged": "2023-04-22T16:57:21.1920349+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:24.3746388+00:00",
@@ -539,6 +539,12 @@
       "Rating": 4.41,
       "NumberOfAwards": 174,
       "NumberOfAwardsMax": 174
+    },
+    {
+      "Time": "2023-04-22T16:57:21.1920352+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 176,
+      "NumberOfAwardsMax": 176
     }
   ],
   "Tags": [
@@ -546,7 +552,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 174
+      "Count": 176
     }
   ]
 }

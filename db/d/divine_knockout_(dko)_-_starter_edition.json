@@ -3,14 +3,14 @@
   "Name": "Divine Knockout (DKO) - Starter Edition",
   "Rating": 4.36,
   "Ranking_Rating": 700,
-  "Ranking_Popularity": 390,
+  "Ranking_Popularity": 386,
   "Ranking_PopularitySum": 301,
   "NumberOfRatings": 60,
-  "NumberOfAwards": 372,
-  "NumberOfAwardsMax": 46,
-  "MaxAwardTitle": "Quickly Understood Controls",
+  "NumberOfAwards": 374,
+  "NumberOfAwardsMax": 48,
+  "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
-  "LastChanged": "2023-04-21T23:57:25.7330426+00:00",
+  "LastChanged": "2023-04-22T16:57:50.2420713+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:52.9902409+00:00",
@@ -558,6 +558,12 @@
       "Rating": 4.36,
       "NumberOfAwards": 372,
       "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2023-04-22T16:57:50.2420714+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 374,
+      "NumberOfAwardsMax": 48
     }
   ],
   "Tags": [
@@ -583,7 +589,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 46
+      "Count": 48
     },
     {
       "Text": "This game has Competitive Players",

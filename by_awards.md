@@ -57,7 +57,7 @@
 | 55 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,805 | 4.79 | 92 |
 | 56 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,742 | 4.66 | 273 |
 | 57 | [Prey](games/p/prey.md) | 5,506 | 4.62 | 335 |
-| 58 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,445 | 4.85 | 37 |
+| 58 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,446 | 4.85 | 37 |
 | 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,432 | 4.82 | 60 |
 | 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,071 | 4.68 | 236 |
 | 61 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,846 | 4.06 | 860 |
@@ -188,7 +188,7 @@
 | 186 | [Ghostrunner](games/g/ghostrunner.md) | 451 | 4.72 | 165 |
 | 187 | [Surviving Mars](games/s/surviving_mars.md) | 433 | 4.60 | 373 |
 | 188 | [Against the Storm](games/a/against_the_storm.md) | 417 | 4.81 | 71 |
-| 189 | [Riders Republic](games/r/riders_republic.md) | 414 | 4.75 | 126 |
+| 189 | [Riders Republic](games/r/riders_republic.md) | 416 | 4.75 | 126 |
 | 190 | [Loop Hero](games/l/loop_hero.md) | 410 | 4.68 | 236 |
 | 191 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 409 | 4.79 | 92 |
 | 192 | [Into the Breach](games/i/into_the_breach.md) | 405 | 4.84 | 49 |
@@ -225,7 +225,7 @@
 | 223 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 295 | 4.85 | 37 |
 | 224 | [House Flipper](games/h/house_flipper.md) | 280 | 4.70 | 192 |
 | 225 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 276 | 4.46 | 585 |
-| 226 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 275 | 4.43 | 631 |
+| 225 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 276 | 4.43 | 631 |
 | 227 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 272 | 4.62 | 335 |
 | 228 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 271 | 4.49 | 540 |
 | 228 | [Railway Empire](games/r/railway_empire.md) | 271 | 4.51 | 509 |
@@ -239,8 +239,8 @@
 | 237 | [Crysis Remastered](games/c/crysis_remastered.md) | 243 | 4.40 | 663 |
 | 238 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 234 | 4.59 | 389 |
 | 238 | [Roller Champions™](games/r/roller_champions™.md) | 234 | 4.34 | 717 |
+| 240 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 229 | 4.45 | 596 |
 | 240 | [MudRunner](games/m/mudrunner.md) | 229 | 4.62 | 335 |
-| 241 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 228 | 4.45 | 596 |
 | 242 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 224 | 4.85 | 37 |
 | 243 | [Overcooked! 2](games/o/overcooked!_2.md) | 222 | 4.74 | 141 |
 | 244 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 215 | 4.49 | 540 |
@@ -264,8 +264,8 @@
 | 262 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 179 | 4.08 | 852 |
 | 262 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 179 | 4.64 | 313 |
 | 262 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 179 | 4.63 | 325 |
-| 265 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 175 | 4.21 | 793 |
-| 266 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 174 | 4.41 | 652 |
+| 265 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 176 | 4.41 | 652 |
+| 266 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 175 | 4.21 | 793 |
 | 267 | [Cris Tales](games/c/cris_tales.md) | 170 | 4.36 | 700 |
 | 267 | [Space Punks](games/s/space_punks.md) | 170 | 4.16 | 824 |
 | 269 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 169 | 3.92 | 882 |
@@ -385,13 +385,13 @@
 | 379 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 50 | 4.65 | 288 |
 | 379 | [The Escapists 2](games/t/the_escapists_2.md) | 50 | 4.58 | 407 |
 | 385 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 49 | 4.32 | 733 |
+| 386 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 48 | 4.36 | 700 |
 | 386 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 48 | 4.65 | 288 |
 | 386 | [Session: Skate Sim](games/s/session__skate_sim.md) | 48 | 4.65 | 288 |
-| 388 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 47 | 4.36 | 700 |
-| 388 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 47 | 4.56 | 441 |
-| 390 | [ATOM RPG](games/a/atom_rpg.md) | 46 | 4.44 | 614 |
-| 390 | [AXIOM VERGE](games/a/axiom_verge.md) | 46 | 4.56 | 441 |
-| 390 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 46 | 4.36 | 700 |
+| 389 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 47 | 4.36 | 700 |
+| 389 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 47 | 4.56 | 441 |
+| 391 | [ATOM RPG](games/a/atom_rpg.md) | 46 | 4.44 | 614 |
+| 391 | [AXIOM VERGE](games/a/axiom_verge.md) | 46 | 4.56 | 441 |
 | 393 | [Ancient Enemy](games/a/ancient_enemy.md) | 45 | 3.95 | 879 |
 | 393 | [Expeditions: Rome](games/e/expeditions__rome.md) | 45 | 4.64 | 313 |
 | 393 | [Quake](games/q/quake.md) | 45 | 4.75 | 126 |

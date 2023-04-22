@@ -2,8 +2,8 @@
 Rating: 4.18 (Ranked 814)  
 ## Popularity (Based on Awards)
 Max (Amazing Storytelling): 44  (Ranked 398)  
-Sum: 237 (Ranked 339)  
-Diff (max vs sum): 59
+Sum: 238 (Ranked 338)  
+Diff (max vs sum): 60
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -11,7 +11,7 @@ Diff (max vs sum): 59
 | This game has Amazing Storytelling | 44 |
 | This game is Extremely Fun | 41 |
 | This game has Amazing Characters | 41 |
-| This game has Quickly Understood Controls | 38 |
+| This game has Quickly Understood Controls | 39 |
 | This game has Challenging Combat | 29 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -54,4 +54,4 @@ Diff (max vs sum): 59
 | 2023-04-15 | 4.18 | 44 | 234 |
 | 2023-04-18 | 4.18 | 44 | 235 |
 | 2023-04-19 | 4.18 | 44 | 236 |
-| 2023-04-22 | 4.18 | 44 | 237 |
+| 2023-04-22 | 4.18 | 44 | 238 |

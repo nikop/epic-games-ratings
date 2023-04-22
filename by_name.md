@@ -56,13 +56,13 @@
 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 373 | 11,442 | 30 |
 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 126 | 4,739 | 63 |
 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 638 | 0 | 486 |
-| [ATOM RPG](games/a/atom_rpg.md) | 4.44 | 614 | 46 | 390 |
+| [ATOM RPG](games/a/atom_rpg.md) | 4.44 | 614 | 46 | 391 |
 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.49 | 540 | 20 | 478 |
 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 18 | 128 | 289 |
 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 497 | 733 | 150 |
 | [Automachef](games/a/automachef.md) | 4.34 | 717 | 27 | 448 |
 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 797 | 119 | 296 |
-| [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 441 | 46 | 390 |
+| [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 441 | 46 | 391 |
 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.55 | 463 | 0 | 486 |
 | [Aztez](games/a/aztez.md) | 4.53 | 484 | 0 | 486 |
 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 585 | 3,219 | 81 |
@@ -187,7 +187,7 @@
 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 472 | 33 | 427 |
 | [Deceive Inc.](games/d/deceive_inc..md) | 4.72 | 165 | 0 | 486 |
 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 683 | 0 | 486 |
-| [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 596 | 228 | 241 |
+| [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 596 | 229 | 240 |
 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 288 | 0 | 486 |
 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 683 | 0 | 486 |
 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 509 | 21 | 473 |
@@ -209,7 +209,7 @@
 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 78 | 312 | 216 |
 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 631 | 22 | 467 |
 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 114 | 820 | 144 |
-| [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 700 | 46 | 390 |
+| [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 700 | 48 | 386 |
 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 18 | 0 | 486 |
 | [DOOM (1993)](games/d/doom_(1993).md) | 4.81 | 71 | 32 | 430 |
 | [DOOM 3](games/d/doom_3.md) | 4.61 | 350 | 65 | 365 |
@@ -255,7 +255,7 @@
 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 273 | 495 | 179 |
 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 335 | 1,187 | 121 |
 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 614 | 672 | 155 |
-| [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 652 | 174 | 266 |
+| [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 652 | 176 | 265 |
 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 192 | 305 | 220 |
 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 214 | 322 | 210 |
 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 214 | 0 | 486 |
@@ -269,7 +269,7 @@
 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.68 | 236 | 0 | 486 |
 | [Figment](games/f/figment.md) | 4.46 | 585 | 20 | 478 |
 | [Filament](games/f/filament.md) | 4.32 | 733 | 548 | 170 |
-| [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 37 | 5,445 | 58 |
+| [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 37 | 5,446 | 58 |
 | [Firework](games/f/firework.md) | 4.89 | 12 | 0 | 486 |
 | [First Class Trouble](games/f/first_class_trouble.md) | 4.51 | 509 | 78 | 342 |
 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 693 | 0 | 486 |
@@ -287,7 +287,7 @@
 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 141 | 765 | 146 |
 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 78 | 158 | 278 |
 | [FUSER™](games/f/fuser™.md) | 4.71 | 179 | 35 | 420 |
-| [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 793 | 175 | 265 |
+| [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 793 | 175 | 266 |
 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 814 | 87 | 333 |
 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 733 | 70 | 355 |
 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 797 | 33 | 427 |
@@ -575,7 +575,7 @@
 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 891 | 0 | 486 |
 | [Returnal™](games/r/returnal™.md) | 4.66 | 273 | 20 | 478 |
 | [Revita](games/r/revita.md) | 4.67 | 256 | 0 | 486 |
-| [Riders Republic](games/r/riders_republic.md) | 4.75 | 126 | 414 | 189 |
+| [Riders Republic](games/r/riders_republic.md) | 4.75 | 126 | 416 | 189 |
 | [RiME](games/r/rime.md) | 4.59 | 389 | 0 | 486 |
 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 614 | 0 | 486 |
 | [RimWorld](games/r/rimworld.md) | 4.89 | 12 | 401 | 195 |
@@ -689,7 +689,7 @@
 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 788 | 200 | 254 |
 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 179 | 0 | 486 |
 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 523 | 751 | 148 |
-| [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 700 | 47 | 388 |
+| [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 700 | 47 | 389 |
 | [Submerged](games/s/submerged.md) | 4.09 | 850 | 0 | 486 |
 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 776 | 45 | 393 |
 | [Subnautica](games/s/subnautica.md) | 4.84 | 49 | 645 | 158 |
@@ -862,12 +862,12 @@
 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 214 | 849 | 142 |
 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 407 | 204 | 251 |
 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.32 | 733 | 49 | 385 |
-| [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 631 | 275 | 226 |
+| [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 631 | 276 | 225 |
 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.59 | 389 | 0 | 486 |
 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 830 | 0 | 486 |
 | [Warpips](games/w/warpips.md) | 4.39 | 671 | 20 | 478 |
 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 389 | 306 | 219 |
-| [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 441 | 47 | 388 |
+| [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 441 | 47 | 389 |
 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.35 | 708 | 80 | 340 |
 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.35 | 708 | 38 | 409 |
 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 423 | 0 | 486 |
