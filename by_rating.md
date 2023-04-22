@@ -16,7 +16,7 @@
 | 12 | [God of War](games/g/god_of_war.md) | 4.89 | 3,942 | 73 |
 | 12 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 135,329 | 7 |
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 401 | 195 |
-| 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 14,624 | 20 |
+| 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 14,650 | 20 |
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 128 | 289 |
 | 18 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 247 | 235 |
 | 18 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 0 | 486 |
@@ -115,7 +115,7 @@
 | 106 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 27 | 448 |
 | 114 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 0 | 486 |
 | 114 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 13,972 | 23 |
-| 114 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 84 | 335 |
+| 114 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 85 | 335 |
 | 114 | [Dead Space](games/d/dead_space.md) | 4.76 | 36 | 414 |
 | 114 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 820 | 144 |
 | 114 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 39 | 406 |
@@ -251,7 +251,7 @@
 | 235 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 30 | 439 |
 | 235 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.68 | 0 | 486 |
 | 235 | [The Pathless](games/t/the_pathless.md) | 4.68 | 0 | 486 |
-| 235 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 84 | 335 |
+| 235 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 84 | 336 |
 | 235 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 0 | 486 |
 | 254 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 638 | 160 |
 | 254 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 71 | 352 |
@@ -386,7 +386,7 @@
 | 374 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 433 | 187 |
 | 374 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.60 | 114 | 302 |
 | 374 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 20 | 478 |
-| 374 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 84 | 335 |
+| 374 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 84 | 336 |
 | 374 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 0 | 486 |
 | 389 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.59 | 0 | 486 |
 | 389 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 44 | 398 |
@@ -790,11 +790,11 @@
 | 788 | [City of Brass](games/c/city_of_brass.md) | 4.22 | 0 | 486 |
 | 788 | [Rise of Industry](games/r/rise_of_industry.md) | 4.22 | 0 | 486 |
 | 788 | [Starsand](games/s/starsand.md) | 4.22 | 0 | 486 |
-| 788 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 200 | 254 |
+| 788 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 201 | 253 |
 | 788 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.22 | 0 | 486 |
 | 793 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 29 | 443 |
 | 793 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 175 | 266 |
-| 793 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 12,628 | 26 |
+| 793 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 12,651 | 26 |
 | 793 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 0 | 486 |
 | 797 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 122 | 294 |
 | 797 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 119 | 296 |

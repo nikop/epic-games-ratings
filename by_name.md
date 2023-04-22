@@ -114,7 +114,7 @@
 | [CARRION](games/c/carrion.md) | 4.68 | 235 | 0 | 486 |
 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 709 | 0 | 486 |
 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 323 | 0 | 486 |
-| [Cave Story+](games/c/cave_story+.md) | 4.76 | 114 | 84 | 335 |
+| [Cave Story+](games/c/cave_story+.md) | 4.76 | 114 | 85 | 335 |
 | [Celeste](games/c/celeste.md) | 4.92 | 3 | 1,427 | 115 |
 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 733 | 0 | 486 |
 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 637 | 60 | 371 |
@@ -416,7 +416,7 @@
 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 852 | 179 | 262 |
 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 797 | 0 | 486 |
 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 596 | 0 | 486 |
-| [League of Legends](games/l/league_of_legends.md) | 4.21 | 793 | 12,628 | 26 |
+| [League of Legends](games/l/league_of_legends.md) | 4.21 | 793 | 12,651 | 26 |
 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 441 | 0 | 486 |
 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 287 | 148 | 280 |
 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 311 | 179 | 262 |
@@ -686,7 +686,7 @@
 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.49 | 540 | 0 | 486 |
 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 509 | 0 | 486 |
 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 78 | 0 | 486 |
-| [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 788 | 200 | 254 |
+| [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 788 | 201 | 253 |
 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 179 | 0 | 486 |
 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 524 | 751 | 148 |
 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 699 | 47 | 389 |
@@ -782,7 +782,7 @@
 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 126 | 0 | 486 |
 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 72 | 26 | 454 |
 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 37 | 0 | 486 |
-| [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 12 | 14,624 | 20 |
+| [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 12 | 14,650 | 20 |
 | [The Witness](games/t/the_witness.md) | 4.69 | 212 | 168 | 271 |
 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.80 | 78 | 0 | 486 |
 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 857 | 0 | 486 |
@@ -796,7 +796,7 @@
 | [Timberborn](games/t/timberborn.md) | 4.72 | 165 | 115 | 301 |
 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 583 | 276 | 225 |
 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 423 | 17,907 | 18 |
-| [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 235 | 84 | 335 |
+| [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 235 | 84 | 336 |
 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 733 | 0 | 486 |
 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 407 | 168 | 271 |
 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 423 | 1,685 | 108 |
@@ -884,7 +884,7 @@
 | [Windbound](games/w/windbound.md) | 4.18 | 814 | 0 | 486 |
 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.08 | 852 | 0 | 486 |
 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 407 | 14,319 | 21 |
-| [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 374 | 84 | 335 |
+| [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 374 | 84 | 336 |
 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 615 | 59 | 372 |
 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 212 | 0 | 486 |
 | [World of Warships](games/w/world_of_warships.md) | 4.44 | 615 | 1,008 | 131 |
