@@ -1,12 +1,18 @@
 {
   "ID": "e9ab5f3a0f524fdf800f324800acda60",
   "Name": "Biped",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
-  "DailyRatings": 0,
-  "FirstSeen": null,
-  "LastChanged": null,
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-22T05:57:51.3460102+00:00",
+  "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
+  "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-22T05:57:51.3460148+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

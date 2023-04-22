@@ -1,9 +1,9 @@
 # Bloons TD 6
-Rating: 4.76 (Ranked 113)  
+Rating: 4.77 (Ranked 106)  
 Number of Ratings: 136  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 2,404  (Ranked 91)  
-Sum: 14,339 (Ranked 60)  
+Sum: 14,354 (Ranked 60)  
 Diff (max vs sum): 31
 ## Awards
 | Award | Count |
@@ -12,12 +12,12 @@ Diff (max vs sum): 31
 | This game has Diverse Characters | 1,928 |
 | This game has Playful Visuals | 1,493 |
 | This game is Highly Recommended | 1,459 |
-| This game has a Creative Community | 1,267 |
+| This game has a Creative Community | 1,274 |
 | This game has Amazing Characters | 1,260 |
 | This game is Extremely Fun | 1,233 |
 | This game has Amazing Storytelling | 1,111 |
 | This game has Quickly Understood Controls | 1,109 |
-| This game is Relaxing | 1,075 |
+| This game is Relaxing | 1,083 |
 | This game is Great for Quick Sessions | 64 |
 | This game has Competitive Players | 40 |
 | This game has Obsessive Gameplay | 33 |
@@ -112,4 +112,4 @@ Diff (max vs sum): 31
 | 2023-04-19 | 4.76 | - | 2,371 | 14,192 |
 | 2023-04-20 | 4.76 | - | 2,392 | 14,222 |
 | 2023-04-21 | 4.76 | - | 2,392 | 14,310 |
-| 2023-04-22 | 4.76 | - | 2,404 | 14,339 |
+| 2023-04-22 | 4.77 | - | 2,404 | 14,354 |

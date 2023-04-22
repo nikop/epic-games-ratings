@@ -1,15 +1,15 @@
 {
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
-  "Rating": 4.1,
-  "Ranking_Rating": 845,
+  "Rating": 4.11,
+  "Ranking_Rating": 842,
   "Ranking_Popularity": 485,
   "Ranking_PopularitySum": 485,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
-  "LastChanged": "2023-04-19T20:04:36.1046564+00:00",
+  "LastChanged": "2023-04-22T05:58:30.157758+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-24T19:57:59.6714906+00:00",
@@ -170,6 +170,12 @@
     {
       "Time": "2023-04-19T20:04:36.1046565+00:00",
       "Rating": 4.1,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-22T05:58:30.1577581+00:00",
+      "Rating": 4.11,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
