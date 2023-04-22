@@ -1,5 +1,5 @@
 # ANNO Mutationem
-Rating: 4.55 (Ranked 464)  
+Rating: 4.55 (Ranked 463)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 485)  
 Sum: 0 (Ranked 485)  

@@ -2,15 +2,15 @@
   "ID": "angelonia",
   "Name": "Watch Dogs 2 Standard Edition",
   "Rating": 4.59,
-  "Ranking_Rating": 390,
+  "Ranking_Rating": 389,
   "Ranking_Popularity": 219,
   "Ranking_PopularitySum": 172,
   "NumberOfRatings": 6460,
-  "NumberOfAwards": 2264,
+  "NumberOfAwards": 2265,
   "NumberOfAwardsMax": 306,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2023-04-22T01:57:27.5435905+00:00",
+  "LastChanged": "2023-04-22T04:57:17.4863017+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:47.2553497+00:00",
@@ -2708,6 +2708,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 2264,
       "NumberOfAwardsMax": 306
+    },
+    {
+      "Time": "2023-04-22T04:57:17.4863018+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 2265,
+      "NumberOfAwardsMax": 306
     }
   ],
   "Tags": [
@@ -2727,7 +2733,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 266
+      "Count": 267
     },
     {
       "Text": "This game has Quickly Understood Controls",

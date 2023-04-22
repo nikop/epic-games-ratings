@@ -2,15 +2,15 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "Rating": 4.62,
-  "Ranking_Rating": 336,
+  "Ranking_Rating": 335,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 13,
   "NumberOfRatings": 32700,
-  "NumberOfAwards": 162510,
+  "NumberOfAwards": 162540,
   "NumberOfAwardsMax": 62348,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
-  "LastChanged": "2023-04-22T03:56:49.0539717+00:00",
+  "LastChanged": "2023-04-22T04:56:53.7971107+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:03.6420176+00:00",
@@ -4639,6 +4639,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 162510,
       "NumberOfAwardsMax": 62348
+    },
+    {
+      "Time": "2023-04-22T04:56:53.7971109+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 162540,
+      "NumberOfAwardsMax": 62348
     }
   ],
   "Tags": [
@@ -4664,7 +4670,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 6942
+      "Count": 6956
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4706,7 +4712,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 6998
+      "Count": 7014
     },
     {
       "Text": "This game has a Creative Community",

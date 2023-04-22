@@ -1,10 +1,10 @@
 # Prison Architect
-Rating: 4.61 (Ranked 351)  
+Rating: 4.61 (Ranked 350)  
 Number of Ratings: 4,491  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Extremely Fun): 402  (Ranked 193)  
+Max (Extremely Fun): 402  (Ranked 194)  
 Sum: 3,161 (Ranked 143)  
-Diff (max vs sum): 50
+Diff (max vs sum): 51
 ## Awards
 | Award | Count |
 | ----- | ----- |

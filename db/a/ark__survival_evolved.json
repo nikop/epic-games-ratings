@@ -2,15 +2,15 @@
   "ID": "ark",
   "Name": "ARK: Survival Evolved",
   "Rating": 4.59,
-  "Ranking_Rating": 390,
+  "Ranking_Rating": 389,
   "Ranking_Popularity": 10,
   "Ranking_PopularitySum": 10,
   "NumberOfRatings": 35570,
-  "NumberOfAwards": 248445,
+  "NumberOfAwards": 248456,
   "NumberOfAwardsMax": 55977,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2023-04-22T02:57:25.9826208+00:00",
+  "LastChanged": "2023-04-22T04:57:05.6683666+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:31.1262323+00:00",
@@ -4531,6 +4531,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 248445,
       "NumberOfAwardsMax": 55977
+    },
+    {
+      "Time": "2023-04-22T04:57:05.6683667+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 248456,
+      "NumberOfAwardsMax": 55977
     }
   ],
   "Tags": [
@@ -4562,7 +4568,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 19748
+      "Count": 19759
     },
     {
       "Text": "This game has Obsessive Gameplay",

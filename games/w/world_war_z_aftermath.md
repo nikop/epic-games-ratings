@@ -1,14 +1,14 @@
 # World War Z Aftermath
-Rating: 4.56 (Ranked 442)  
+Rating: 4.56 (Ranked 441)  
 Number of Ratings: 17,073  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 3,740  (Ranked 75)  
-Sum: 25,433 (Ranked 45)  
+Max (Great for Beginners): 3,745  (Ranked 75)  
+Sum: 25,438 (Ranked 45)  
 Diff (max vs sum): 30
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 3,740 |
+| This game is Great for Beginners | 3,745 |
 | This game has Diverse Characters | 3,330 |
 | This game is Relaxing | 3,214 |
 | This game is Highly Recommended | 3,143 |
@@ -117,3 +117,4 @@ Diff (max vs sum): 30
 | 2023-04-19 | 4.56 | - | 3,730 | 25,384 |
 | 2023-04-20 | 4.56 | - | 3,740 | 25,405 |
 | 2023-04-21 | 4.56 | - | 3,740 | 25,433 |
+| 2023-04-22 | 4.56 | - | 3,745 | 25,438 |

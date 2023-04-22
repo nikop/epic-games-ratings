@@ -3,14 +3,14 @@
   "Name": "Kingdom New Lands",
   "Rating": 4.53,
   "Ranking_Rating": 485,
-  "Ranking_Popularity": 298,
+  "Ranking_Popularity": 297,
   "Ranking_PopularitySum": 259,
   "NumberOfRatings": 1793,
-  "NumberOfAwards": 693,
-  "NumberOfAwardsMax": 116,
+  "NumberOfAwards": 694,
+  "NumberOfAwardsMax": 117,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:26:48.0590918+00:00",
-  "LastChanged": "2023-04-09T22:58:00.8342593+00:00",
+  "LastChanged": "2023-04-22T04:57:44.0209885+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:48.0590922+00:00",
@@ -1297,6 +1297,12 @@
       "Rating": 4.53,
       "NumberOfAwards": 693,
       "NumberOfAwardsMax": 116
+    },
+    {
+      "Time": "2023-04-22T04:57:44.0209886+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 694,
+      "NumberOfAwardsMax": 117
     }
   ],
   "Tags": [
@@ -1304,7 +1310,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 116
+      "Count": 117
     },
     {
       "Text": "This game is Great for Beginners",
