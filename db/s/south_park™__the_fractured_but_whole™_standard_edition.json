@@ -1,8 +1,8 @@
 {
   "ID": "764eb429792649e4a606413cd649de2c",
   "Name": "South Park\u2122: The Fractured But Whole\u2122 Standard Edition",
-  "Rating": 4.85,
-  "Ranking_Rating": 36,
+  "Rating": 4.86,
+  "Ranking_Rating": 28,
   "Ranking_Popularity": 315,
   "Ranking_PopularitySum": 392,
   "NumberOfRatings": 162,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 101,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:17:01.7638488+00:00",
-  "LastChanged": "2023-04-20T15:57:05.0672566+00:00",
+  "LastChanged": "2023-04-22T15:56:49.5067867+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:01.7638491+00:00",
@@ -393,6 +393,12 @@
     {
       "Time": "2023-04-20T15:57:05.0672567+00:00",
       "Rating": 4.85,
+      "NumberOfAwards": 101,
+      "NumberOfAwardsMax": 101
+    },
+    {
+      "Time": "2023-04-22T15:56:49.5067868+00:00",
+      "Rating": 4.86,
       "NumberOfAwards": 101,
       "NumberOfAwardsMax": 101
     }

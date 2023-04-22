@@ -1,5 +1,5 @@
 # Goat Simulator 3
-Rating: 4.85 (Ranked 36)  
+Rating: 4.85 (Ranked 37)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 295  (Ranked 223)  
 Sum: 2,524 (Ranked 163)  

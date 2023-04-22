@@ -1,8 +1,8 @@
 # Tormentor x Punisher
 Rating: 4.75 (Ranked 126)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 485)  
-Sum: 0 (Ranked 485)  
+Max (): 0  (Ranked 486)  
+Sum: 0 (Ranked 486)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Count |

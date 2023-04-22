@@ -1,5 +1,5 @@
 # South Park™: The Fractured But Whole™ Standard Edition
-Rating: 4.85 (Ranked 36)  
+Rating: 4.86 (Ranked 28)  
 Number of Ratings: 162  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 101  (Ranked 315)  
@@ -85,3 +85,4 @@ Diff (max vs sum): -77
 | 2023-04-18 | 4.85 | - | 98 | 98 |
 | 2023-04-19 | 4.85 | - | 100 | 100 |
 | 2023-04-20 | 4.85 | - | 101 | 101 |
+| 2023-04-22 | 4.86 | - | 101 | 101 |
