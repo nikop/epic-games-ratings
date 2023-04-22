@@ -6,11 +6,11 @@
   "Ranking_Popularity": 123,
   "Ranking_PopularitySum": 80,
   "NumberOfRatings": 7396,
-  "NumberOfAwards": 9127,
+  "NumberOfAwards": 9130,
   "NumberOfAwardsMax": 1121,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:17:40.7075482+00:00",
-  "LastChanged": "2023-04-22T16:57:10.340948+00:00",
+  "LastChanged": "2023-04-22T17:57:02.3576103+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:40.7075487+00:00",
@@ -3448,6 +3448,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 9127,
       "NumberOfAwardsMax": 1121
+    },
+    {
+      "Time": "2023-04-22T17:57:02.3576105+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9130,
+      "NumberOfAwardsMax": 1121
     }
   ],
   "Tags": [
@@ -3491,7 +3497,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1076
+      "Count": 1079
     },
     {
       "Text": "This game has Amazing Characters",

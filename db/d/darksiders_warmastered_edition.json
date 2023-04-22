@@ -1,8 +1,8 @@
 {
   "ID": "2bc23fc2438c47ec8acb0641980f50c1",
   "Name": "Darksiders Warmastered Edition",
-  "Rating": 4.6,
-  "Ranking_Rating": 373,
+  "Rating": 4.61,
+  "Ranking_Rating": 350,
   "Ranking_Popularity": 347,
   "Ranking_PopularitySum": 405,
   "NumberOfRatings": 721,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 74,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:24:18.0300294+00:00",
-  "LastChanged": "2023-04-21T17:58:11.4428048+00:00",
+  "LastChanged": "2023-04-22T17:57:47.0263801+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:18.0300296+00:00",
@@ -570,6 +570,12 @@
     {
       "Time": "2023-04-21T17:58:11.4428049+00:00",
       "Rating": 4.6,
+      "NumberOfAwards": 74,
+      "NumberOfAwardsMax": 74
+    },
+    {
+      "Time": "2023-04-22T17:57:47.0263803+00:00",
+      "Rating": 4.61,
       "NumberOfAwards": 74,
       "NumberOfAwardsMax": 74
     }

@@ -3,14 +3,14 @@
   "Name": "Might \u0026 Magic: Chess Royale",
   "Rating": 4.5,
   "Ranking_Rating": 523,
-  "Ranking_Popularity": 321,
+  "Ranking_Popularity": 322,
   "Ranking_PopularitySum": 248,
   "NumberOfRatings": 238,
-  "NumberOfAwards": 757,
+  "NumberOfAwards": 758,
   "NumberOfAwardsMax": 96,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:27:16.1959446+00:00",
-  "LastChanged": "2023-04-20T22:58:58.563306+00:00",
+  "LastChanged": "2023-04-22T17:58:08.2086744+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:16.1959449+00:00",
@@ -611,6 +611,12 @@
       "Rating": 4.5,
       "NumberOfAwards": 757,
       "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2023-04-22T17:58:08.2086745+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 758,
+      "NumberOfAwardsMax": 96
     }
   ],
   "Tags": [
@@ -648,7 +654,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 77
+      "Count": 78
     },
     {
       "Text": "This game has Amazing Characters",
