@@ -1,9 +1,9 @@
 # Core
-Rating: 4.37 (Ranked 692)  
+Rating: 4.37 (Ranked 693)  
 Number of Ratings: 1,439  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 724  (Ranked 151)  
-Sum: 1,882 (Ranked 188)  
+Sum: 1,883 (Ranked 188)  
 Diff (max vs sum): -37
 ## Awards
 | Award | Count |
@@ -16,7 +16,7 @@ Diff (max vs sum): -37
 | This game is Extremely Fun | 118 |
 | This game is Great for Quick Sessions | 114 |
 | This game has Amazing Characters | 112 |
-| This game is Relaxing | 110 |
+| This game is Relaxing | 111 |
 | This game has a Creative Community | 108 |
 | This game has Easy Combat | 97 |
 | This game has Obsessive Gameplay | 77 |
@@ -116,3 +116,4 @@ Diff (max vs sum): -37
 | 2023-04-17 | 4.37 | - | 724 | 1,880 |
 | 2023-04-19 | 4.37 | - | 724 | 1,881 |
 | 2023-04-20 | 4.37 | - | 724 | 1,882 |
+| 2023-04-22 | 4.37 | - | 724 | 1,883 |
