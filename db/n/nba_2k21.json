@@ -2,15 +2,15 @@
   "ID": "6b3b9698082c43cd9dcd7f68e3365e79",
   "Name": "NBA 2K21",
   "Rating": 4.39,
-  "Ranking_Rating": 672,
+  "Ranking_Rating": 671,
   "Ranking_Popularity": 29,
   "Ranking_PopularitySum": 14,
   "NumberOfRatings": 43722,
-  "NumberOfAwards": 88052,
-  "NumberOfAwardsMax": 11637,
+  "NumberOfAwards": 88054,
+  "NumberOfAwardsMax": 11639,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:26:01.1099601+00:00",
-  "LastChanged": "2023-04-22T01:58:05.029022+00:00",
+  "LastChanged": "2023-04-22T02:58:22.8478708+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:01.1099603+00:00",
@@ -3892,6 +3892,12 @@
       "Rating": 4.39,
       "NumberOfAwards": 88052,
       "NumberOfAwardsMax": 11637
+    },
+    {
+      "Time": "2023-04-22T02:58:22.8478711+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 88054,
+      "NumberOfAwardsMax": 11639
     }
   ],
   "Tags": [
@@ -3899,7 +3905,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 11637
+      "Count": 11639
     },
     {
       "Text": "This game has Competitive Players",
