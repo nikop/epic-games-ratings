@@ -5,12 +5,12 @@
   "Ranking_Rating": 873,
   "Ranking_Popularity": 110,
   "Ranking_PopularitySum": 121,
-  "NumberOfAwards": 5071,
+  "NumberOfAwards": 5088,
   "NumberOfAwardsMax": 1567,
   "MaxAwardTitle": "Competitive Players",
   "FirstSeen": "2022-12-06T17:57:24.6501738+00:00",
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
-  "LastChanged": "2023-04-22T02:57:31.8588213+00:00",
+  "LastChanged": "2023-04-22T03:57:11.8244126+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-08T10:57:21.6139883+00:00",
@@ -821,6 +821,12 @@
       "Rating": 3.98,
       "NumberOfAwards": 5071,
       "NumberOfAwardsMax": 1567
+    },
+    {
+      "Time": "2023-04-22T03:57:11.8244127+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 5088,
+      "NumberOfAwardsMax": 1567
     }
   ],
   "Tags": [
@@ -828,7 +834,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1233
+      "Count": 1250
     },
     {
       "Text": "This game is Extremely Fun",
