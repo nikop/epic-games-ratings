@@ -35,7 +35,7 @@
 | 33 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 9,936 | 4.45 | 596 |
 | 34 | [Satisfactory](games/s/satisfactory.md) | 9,109 | 4.88 | 18 |
 | 35 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 8,953 | 4.60 | 373 |
-| 36 | [HITMAN 3](games/h/hitman_3.md) | 8,680 | 4.78 | 101 |
+| 36 | [HITMAN 3](games/h/hitman_3.md) | 8,690 | 4.78 | 101 |
 | 37 | [Control](games/c/control.md) | 8,234 | 4.60 | 373 |
 | 38 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 7,956 | 4.24 | 776 |
 | 39 | [SnowRunner](games/s/snowrunner.md) | 7,638 | 4.76 | 114 |
@@ -205,7 +205,7 @@
 | 203 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 367 | 3.99 | 870 |
 | 204 | [Nuclear Throne](games/n/nuclear_throne.md) | 364 | 4.79 | 92 |
 | 205 | [For The King](games/f/for_the_king.md) | 359 | 4.70 | 192 |
-| 206 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 343 | 4.62 | 335 |
+| 206 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 344 | 4.62 | 335 |
 | 207 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 336 | 4.33 | 724 |
 | 208 | [Inscryption](games/i/inscryption.md) | 328 | 4.86 | 28 |
 | 209 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 325 | 4.24 | 776 |
@@ -341,9 +341,9 @@
 | 339 | [Solitairica](games/s/solitairica.md) | 81 | 4.49 | 540 |
 | 340 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 80 | 4.83 | 54 |
 | 340 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 80 | 4.35 | 708 |
+| 342 | [First Class Trouble](games/f/first_class_trouble.md) | 78 | 4.51 | 509 |
 | 342 | [This War of Mine](games/t/this_war_of_mine.md) | 78 | 4.74 | 141 |
-| 343 | [First Class Trouble](games/f/first_class_trouble.md) | 77 | 4.51 | 509 |
-| 343 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 77 | 4.20 | 797 |
+| 344 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 77 | 4.20 | 797 |
 | 345 | [Super Meat Boy](games/s/super_meat_boy.md) | 75 | 4.71 | 179 |
 | 345 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 75 | 4.56 | 441 |
 | 347 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 74 | 4.60 | 373 |
@@ -371,11 +371,11 @@
 | 369 | [Arcadegeddon](games/a/arcadegeddon.md) | 61 | 4.49 | 540 |
 | 369 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 61 | 4.76 | 114 |
 | 371 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 60 | 4.42 | 638 |
+| 372 | [Predecessor](games/p/predecessor.md) | 59 | 4.45 | 596 |
 | 372 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 614 |
-| 373 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 58 | 4.64 | 313 |
-| 374 | [Heavy Rain](games/h/heavy_rain.md) | 57 | 4.59 | 389 |
-| 374 | [Predecessor](games/p/predecessor.md) | 57 | 4.45 | 596 |
-| 374 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 57 | 4.70 | 192 |
+| 374 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 58 | 4.64 | 313 |
+| 375 | [Heavy Rain](games/h/heavy_rain.md) | 57 | 4.59 | 389 |
+| 375 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 57 | 4.70 | 192 |
 | 377 | [Obduction](games/o/obduction.md) | 52 | 4.10 | 846 |
 | 378 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 51 | 3.85 | 892 |
 | 379 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 50 | 4.83 | 54 |

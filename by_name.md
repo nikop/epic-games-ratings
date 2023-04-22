@@ -246,7 +246,7 @@
 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 114 | 61 | 369 |
 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 373 | 13,177 | 25 |
 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 523 | 66 | 361 |
-| [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 313 | 58 | 373 |
+| [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 313 | 58 | 374 |
 | [Family Man](games/f/family_man.md) | 4.16 | 824 | 0 | 485 |
 | [Fangs](games/f/fangs.md) | 4.09 | 850 | 0 | 485 |
 | [Far Cry](games/f/far_cry.md) | 4.49 | 540 | 0 | 485 |
@@ -271,7 +271,7 @@
 | [Filament](games/f/filament.md) | 4.32 | 733 | 548 | 170 |
 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 36 | 5,445 | 58 |
 | [Firework](games/f/firework.md) | 4.89 | 12 | 0 | 485 |
-| [First Class Trouble](games/f/first_class_trouble.md) | 4.51 | 509 | 77 | 343 |
+| [First Class Trouble](games/f/first_class_trouble.md) | 4.51 | 509 | 78 | 342 |
 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 693 | 0 | 485 |
 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 463 | 21 | 472 |
 | [Flatout](games/f/flatout.md) | 4.19 | 808 | 0 | 485 |
@@ -328,7 +328,7 @@
 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 423 | 35 | 419 |
 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 288 | 0 | 485 |
 | [Haven](games/h/haven.md) | 4.72 | 165 | 0 | 485 |
-| [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 389 | 57 | 374 |
+| [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 389 | 57 | 375 |
 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 313 | 0 | 485 |
 | [Hell is Others](games/h/hell_is_others.md) | 4.49 | 540 | 0 | 485 |
 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 472 | 192 | 257 |
@@ -342,7 +342,7 @@
 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.85 | 36 | 0 | 485 |
 | [High On Life](games/h/high_on_life.md) | 4.67 | 256 | 0 | 485 |
 | [HITMAN](games/h/hitman.md) | 4.64 | 313 | 195 | 255 |
-| [HITMAN 3](games/h/hitman_3.md) | 4.78 | 101 | 8,680 | 36 |
+| [HITMAN 3](games/h/hitman_3.md) | 4.78 | 101 | 8,690 | 36 |
 | [Hob](games/h/hob.md) | 4.57 | 423 | 0 | 485 |
 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 101 | 17,758 | 19 |
 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 540 | 2,201 | 97 |
@@ -369,7 +369,7 @@
 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 540 | 0 | 485 |
 | [Inscryption](games/i/inscryption.md) | 4.86 | 28 | 328 | 208 |
 | [INSIDE](games/i/inside.md) | 4.69 | 214 | 0 | 485 |
-| [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 335 | 343 | 206 |
+| [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 335 | 344 | 206 |
 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 797 | 22 | 466 |
 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 49 | 405 | 192 |
 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 693 | 2,129 | 100 |
@@ -547,7 +547,7 @@
 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.59 | 389 | 0 | 485 |
 | [Potion Permit](games/p/potion_permit.md) | 3.77 | 896 | 66 | 361 |
 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 596 | 846 | 143 |
-| [Predecessor](games/p/predecessor.md) | 4.45 | 596 | 57 | 374 |
+| [Predecessor](games/p/predecessor.md) | 4.45 | 596 | 59 | 372 |
 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 540 | 0 | 485 |
 | [Prey](games/p/prey.md) | 4.62 | 335 | 5,506 | 57 |
 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 350 | 403 | 194 |
@@ -733,7 +733,7 @@
 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 846 | 2,204 | 96 |
 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 571 | 6,502 | 46 |
 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 509 | 63 | 366 |
-| [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 192 | 57 | 374 |
+| [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 192 | 57 | 375 |
 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 28 | 1,194 | 120 |
 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.75 | 127 | 0 | 485 |
 | [The Escapists](games/t/the_escapists.md) | 4.48 | 560 | 0 | 485 |
@@ -850,7 +850,7 @@
 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 60 | 0 | 485 |
 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.83 | 54 | 0 | 485 |
 | [VALORANT](games/v/valorant.md) | 4.54 | 472 | 49,514 | 11 |
-| [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 797 | 77 | 343 |
+| [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 797 | 77 | 344 |
 | [Vampyr](games/v/vampyr.md) | 4.32 | 733 | 545 | 172 |
 | [Verdun](games/v/verdun.md) | 4.53 | 484 | 93 | 326 |
 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 764 | 297 | 222 |

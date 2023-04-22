@@ -1,13 +1,13 @@
 # Predecessor
 Rating: 4.45 (Ranked 596)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 57  (Ranked 374)  
-Sum: 372 (Ranked 300)  
-Diff (max vs sum): 74
+Max (Diverse Characters): 59  (Ranked 372)  
+Sum: 374 (Ranked 300)  
+Diff (max vs sum): 72
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 57 |
+| This game has Diverse Characters | 59 |
 | This game is Highly Recommended | 55 |
 | This game has Challenging Combat | 48 |
 | This game has a Competitive Community | 47 |
@@ -76,4 +76,4 @@ Diff (max vs sum): 74
 | 2023-04-19 | 4.46 | 56 | 362 |
 | 2023-04-20 | 4.46 | 57 | 367 |
 | 2023-04-21 | 4.45 | 57 | 371 |
-| 2023-04-22 | 4.45 | 57 | 372 |
+| 2023-04-22 | 4.45 | 59 | 374 |
