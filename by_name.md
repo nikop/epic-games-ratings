@@ -440,7 +440,7 @@
 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 683 | 162 | 274 |
 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 596 | 9,936 | 33 |
 | [Mago](games/m/mago.md) | 4.90 | 7 | 0 | 485 |
-| [Maneater](games/m/maneater.md) | 4.49 | 540 | 13,393 | 24 |
+| [Maneater](games/m/maneater.md) | 4.49 | 540 | 13,396 | 24 |
 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 523 | 0 | 485 |
 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.03 | 865 | 0 | 485 |
 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 155 | 545 | 172 |
@@ -550,7 +550,7 @@
 | [Predecessor](games/p/predecessor.md) | 4.45 | 596 | 57 | 374 |
 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 540 | 0 | 485 |
 | [Prey](games/p/prey.md) | 4.62 | 335 | 5,506 | 57 |
-| [Prison Architect](games/p/prison_architect.md) | 4.61 | 350 | 402 | 194 |
+| [Prison Architect](games/p/prison_architect.md) | 4.61 | 350 | 403 | 194 |
 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 873 | 1,567 | 110 |
 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 663 | 0 | 485 |
 | [Quake](games/q/quake.md) | 4.75 | 127 | 45 | 393 |
@@ -636,7 +636,7 @@
 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.26 | 769 | 0 | 485 |
 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 141 | 29,777 | 13 |
 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.05 | 861 | 0 | 485 |
-| [Sifu](games/s/sifu.md) | 4.82 | 60 | 5,960 | 53 |
+| [Sifu](games/s/sifu.md) | 4.82 | 60 | 5,970 | 53 |
 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.50 | 523 | 0 | 485 |
 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.71 | 178 | 109 | 308 |
 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 761 | 124 | 292 |
@@ -754,7 +754,7 @@
 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 18 | 0 | 485 |
 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 141 | 0 | 485 |
 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 652 | 0 | 485 |
-| [The Long Dark](games/t/the_long_dark.md) | 4.74 | 141 | 742 | 149 |
+| [The Long Dark](games/t/the_long_dark.md) | 4.74 | 141 | 743 | 149 |
 | [The Machines Arena](games/t/the_machines_arena.md) | 4.67 | 256 | 0 | 485 |
 | [The Medium](games/t/the_medium.md) | 4.59 | 389 | 0 | 485 |
 | [The Messenger](games/t/the_messenger.md) | 4.80 | 78 | 312 | 216 |

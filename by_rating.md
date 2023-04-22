@@ -67,7 +67,7 @@
 | 60 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 0 | 485 |
 | 60 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 476 | 183 |
 | 60 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 112 | 305 |
-| 60 | [Sifu](games/s/sifu.md) | 4.82 | 5,960 | 53 |
+| 60 | [Sifu](games/s/sifu.md) | 4.82 | 5,970 | 53 |
 | 60 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 33 | 426 |
 | 60 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 0 | 485 |
 | 71 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 417 | 188 |
@@ -151,7 +151,7 @@
 | 141 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 29,777 | 13 |
 | 141 | [Suzerain](games/s/suzerain.md) | 4.74 | 0 | 485 |
 | 141 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 485 |
-| 141 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 742 | 149 |
+| 141 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 743 | 149 |
 | 141 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 78 | 341 |
 | 141 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 576 | 165 |
 | 155 | [BLACKTAIL](games/b/blacktail.md) | 4.73 | 0 | 485 |
@@ -365,7 +365,7 @@
 | 350 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 485 |
 | 350 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,436 | 88 |
 | 350 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 588 | 163 |
-| 350 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 402 | 194 |
+| 350 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 403 | 194 |
 | 350 | [Road 96](games/r/road_96.md) | 4.61 | 0 | 485 |
 | 350 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,058 | 128 |
 | 350 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 266 | 231 |
@@ -552,7 +552,7 @@
 | 540 | [Hell is Others](games/h/hell_is_others.md) | 4.49 | 0 | 485 |
 | 540 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 2,201 | 97 |
 | 540 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 485 |
-| 540 | [Maneater](games/m/maneater.md) | 4.49 | 13,393 | 24 |
+| 540 | [Maneater](games/m/maneater.md) | 4.49 | 13,396 | 24 |
 | 540 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 607 | 161 |
 | 540 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 485 |
 | 540 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.49 | 0 | 485 |

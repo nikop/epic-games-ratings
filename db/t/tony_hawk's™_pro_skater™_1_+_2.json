@@ -4,13 +4,13 @@
   "Rating": 4.83,
   "Ranking_Rating": 54,
   "Ranking_Popularity": 340,
-  "Ranking_PopularitySum": 269,
+  "Ranking_PopularitySum": 268,
   "NumberOfRatings": 1298,
-  "NumberOfAwards": 639,
+  "NumberOfAwards": 640,
   "NumberOfAwardsMax": 80,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:20:55.4170175+00:00",
-  "LastChanged": "2023-04-18T13:57:24.5532418+00:00",
+  "LastChanged": "2023-04-22T08:57:33.9583924+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:55.4170178+00:00",
@@ -1167,6 +1167,12 @@
       "Rating": 4.83,
       "NumberOfAwards": 639,
       "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2023-04-22T08:57:33.9583928+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 640,
+      "NumberOfAwardsMax": 80
     }
   ],
   "Tags": [
@@ -1180,7 +1186,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 66
+      "Count": 67
     },
     {
       "Text": "This game has Quickly Understood Controls",

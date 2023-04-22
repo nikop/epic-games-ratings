@@ -23,7 +23,7 @@
 | 21 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,319 | 4.58 | 407 |
 | 22 | [Warframe](games/w/warframe.md) | 14,164 | 4.61 | 350 |
 | 23 | [Borderlands 2](games/b/borderlands_2.md) | 13,972 | 4.76 | 114 |
-| 24 | [Maneater](games/m/maneater.md) | 13,393 | 4.49 | 540 |
+| 24 | [Maneater](games/m/maneater.md) | 13,396 | 4.49 | 540 |
 | 25 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,177 | 4.60 | 373 |
 | 26 | [League of Legends](games/l/league_of_legends.md) | 12,628 | 4.21 | 793 |
 | 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,230 | 4.37 | 692 |
@@ -52,7 +52,7 @@
 | 50 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,233 | 4.80 | 78 |
 | 51 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,152 | 4.71 | 178 |
 | 52 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 5,992 | 4.58 | 407 |
-| 53 | [Sifu](games/s/sifu.md) | 5,960 | 4.82 | 60 |
+| 53 | [Sifu](games/s/sifu.md) | 5,970 | 4.82 | 60 |
 | 54 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,886 | 4.64 | 313 |
 | 55 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,802 | 4.79 | 92 |
 | 56 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,742 | 4.66 | 273 |
@@ -148,7 +148,7 @@
 | 146 | [Frostpunk](games/f/frostpunk.md) | 765 | 4.74 | 141 |
 | 147 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 764 | 4.69 | 214 |
 | 148 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 751 | 4.50 | 523 |
-| 149 | [The Long Dark](games/t/the_long_dark.md) | 742 | 4.74 | 141 |
+| 149 | [The Long Dark](games/t/the_long_dark.md) | 743 | 4.74 | 141 |
 | 150 | [Auto Chess](games/a/auto_chess.md) | 732 | 4.52 | 497 |
 | 151 | [Core](games/c/core.md) | 724 | 4.37 | 692 |
 | 152 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 720 | 4.56 | 441 |
@@ -193,7 +193,7 @@
 | 191 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 409 | 4.79 | 92 |
 | 192 | [Into the Breach](games/i/into_the_breach.md) | 405 | 4.84 | 49 |
 | 193 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 404 | 4.66 | 273 |
-| 194 | [Prison Architect](games/p/prison_architect.md) | 402 | 4.61 | 350 |
+| 194 | [Prison Architect](games/p/prison_architect.md) | 403 | 4.61 | 350 |
 | 195 | [RimWorld](games/r/rimworld.md) | 401 | 4.89 | 12 |
 | 196 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 398 | 4.74 | 141 |
 | 197 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 391 | 4.49 | 540 |
