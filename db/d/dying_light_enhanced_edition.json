@@ -6,11 +6,11 @@
   "Ranking_Popularity": 16,
   "Ranking_PopularitySum": 27,
   "NumberOfRatings": 3181,
-  "NumberOfAwards": 37449,
+  "NumberOfAwards": 37587,
   "NumberOfAwardsMax": 21160,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:18:05.0678131+00:00",
-  "LastChanged": "2023-04-21T23:56:57.9026948+00:00",
+  "LastChanged": "2023-04-22T01:56:57.850085+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:05.0678134+00:00",
@@ -3291,6 +3291,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 37449,
       "NumberOfAwardsMax": 21160
+    },
+    {
+      "Time": "2023-04-22T01:56:57.8500852+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 37587,
+      "NumberOfAwardsMax": 21160
     }
   ],
   "Tags": [
@@ -3316,7 +3322,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 976
+      "Count": 1015
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3334,7 +3340,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 833
+      "Count": 870
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3358,7 +3364,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 856
+      "Count": 887
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3370,7 +3376,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 668
+      "Count": 699
     }
   ]
 }
