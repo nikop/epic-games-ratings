@@ -2,15 +2,15 @@
   "ID": "879b0d8776ab46a59a129983ba78f0ce",
   "Name": "Genshin Impact",
   "Rating": 4.68,
-  "Ranking_Rating": 233,
+  "Ranking_Rating": 232,
   "Ranking_Popularity": 3,
-  "Ranking_PopularitySum": 4,
+  "Ranking_PopularitySum": 3,
   "NumberOfRatings": 219180,
-  "NumberOfAwards": 1289967,
-  "NumberOfAwardsMax": 289525,
+  "NumberOfAwards": 1294267,
+  "NumberOfAwardsMax": 290157,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2023-04-22T21:57:47.8781078+00:00",
+  "LastChanged": "2023-04-23T20:57:55.6274816+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:42.3518765+00:00",
@@ -4654,6 +4654,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 1289967,
       "NumberOfAwardsMax": 289525
+    },
+    {
+      "Time": "2023-04-23T20:57:55.6274817+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1294267,
+      "NumberOfAwardsMax": 290157
     }
   ],
   "Tags": [
@@ -4661,43 +4667,43 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 289525
+      "Count": 290157
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 129977
+      "Count": 130340
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 123463
+      "Count": 123919
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 111913
+      "Count": 112444
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 106819
+      "Count": 107350
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 108396
+      "Count": 108872
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 109024
+      "Count": 109540
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4709,7 +4715,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 103614
+      "Count": 104040
     },
     {
       "Text": "This game is Relaxing",
@@ -4721,7 +4727,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 103187
+      "Count": 103556
     }
   ]
 }

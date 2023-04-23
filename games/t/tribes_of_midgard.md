@@ -1,5 +1,5 @@
 # Tribes of Midgard
-Rating: 4.56 (Ranked 441)  
+Rating: 4.57 (Ranked 424)  
 Number of Ratings: 120  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 75  (Ranked 346)  
@@ -71,3 +71,4 @@ Diff (max vs sum): -58
 | 2023-03-18 | 4.56 | - | - | - |
 | 2023-04-03 | 4.55 | - | 75 | 75 |
 | 2023-04-09 | 4.56 | - | 75 | 75 |
+| 2023-04-23 | 4.57 | - | 75 | 75 |

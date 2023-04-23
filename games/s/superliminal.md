@@ -1,5 +1,5 @@
 # Superliminal
-Rating: 4.80 (Ranked 78)  
+Rating: 4.79 (Ranked 91)  
 Number of Ratings: 37  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  
@@ -44,3 +44,4 @@ Diff (max vs sum): 0
 | 2022-12-05 | 4.81 | - | - | - |
 | 2023-02-28 | 4.80 | - | - | - |
 | 2023-03-31 | 4.80 | - | 0 | 0 |
+| 2023-04-23 | 4.79 | - | 0 | 0 |

@@ -2,15 +2,15 @@
   "ID": "244aaaa06bfa49d088205b13b9d2d115",
   "Name": "Warframe",
   "Rating": 4.61,
-  "Ranking_Rating": 348,
+  "Ranking_Rating": 349,
   "Ranking_Popularity": 22,
   "Ranking_PopularitySum": 28,
   "NumberOfRatings": 12660,
-  "NumberOfAwards": 37426,
+  "NumberOfAwards": 37431,
   "NumberOfAwardsMax": 14185,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
-  "LastChanged": "2023-04-23T17:56:59.6025127+00:00",
+  "LastChanged": "2023-04-23T20:57:08.9146808+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:28.1019024+00:00",
@@ -4095,6 +4095,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 37426,
       "NumberOfAwardsMax": 14185
+    },
+    {
+      "Time": "2023-04-23T20:57:08.9146809+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 37431,
+      "NumberOfAwardsMax": 14185
     }
   ],
   "Tags": [
@@ -4162,7 +4168,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 2825
+      "Count": 2830
     }
   ]
 }

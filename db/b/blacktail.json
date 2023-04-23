@@ -1,15 +1,15 @@
 {
   "ID": "a17cc66c3a3c4d75875febf281c73fd2",
   "Name": "BLACKTAIL",
-  "Rating": 4.73,
-  "Ranking_Rating": 155,
+  "Rating": 4.65,
+  "Ranking_Rating": 287,
   "Ranking_Popularity": 486,
   "Ranking_PopularitySum": 486,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-12-15T13:13:21.730409+00:00",
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
-  "LastChanged": "2023-03-31T05:57:32.0224884+00:00",
+  "LastChanged": "2023-04-23T20:57:43.8622509+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-16T16:57:44.5958536+00:00",
@@ -26,6 +26,12 @@
     {
       "Time": "2023-03-31T05:57:32.0224886+00:00",
       "Rating": 4.73,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-23T20:57:43.862251+00:00",
+      "Rating": 4.65,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

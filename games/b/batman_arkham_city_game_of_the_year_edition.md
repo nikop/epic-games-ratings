@@ -1,5 +1,5 @@
 # Batman Arkham City Game of the Year Edition
-Rating: 4.79 (Ranked 92)  
+Rating: 4.79 (Ranked 91)  
 Number of Ratings: 2,832  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 1,436  (Ranked 114)  

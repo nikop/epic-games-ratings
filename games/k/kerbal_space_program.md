@@ -1,5 +1,5 @@
 # Kerbal Space Program
-Rating: 4.79 (Ranked 92)  
+Rating: 4.79 (Ranked 91)  
 ## Popularity (Based on Awards)
 Max (Educational): 416  (Ranked 189)  
 Sum: 2,834 (Ranked 151)  

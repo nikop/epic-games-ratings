@@ -1,5 +1,5 @@
 # BLACKTAIL
-Rating: 4.73 (Ranked 155)  
+Rating: 4.65 (Ranked 287)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  
 Sum: 0 (Ranked 486)  
@@ -14,3 +14,4 @@ Diff (max vs sum): 0
 | 2023-03-13 | 4.71 | - | - |
 | 2023-03-15 | 4.73 | - | - |
 | 2023-03-31 | 4.73 | 0 | 0 |
+| 2023-04-23 | 4.65 | 0 | 0 |

@@ -1,5 +1,5 @@
 # King's Bounty: Crossworlds
-Rating: 4.71 (Ranked 178)  
+Rating: 4.72 (Ranked 164)  
 Number of Ratings: 24  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  
@@ -21,3 +21,4 @@ Diff (max vs sum): 0
 | 2022-11-23 | 4.70 | - | - | - |
 | 2023-01-01 | 4.71 | - | - | - |
 | 2023-03-31 | 4.71 | - | 0 | 0 |
+| 2023-04-23 | 4.72 | - | 0 | 0 |
