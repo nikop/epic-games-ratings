@@ -3,14 +3,14 @@
   "Name": "KINGDOM HEARTS III \u002B Re Mind",
   "Rating": 4.79,
   "Ranking_Rating": 92,
-  "Ranking_Popularity": 141,
-  "Ranking_PopularitySum": 172,
+  "Ranking_Popularity": 152,
+  "Ranking_PopularitySum": 210,
   "NumberOfRatings": 2011,
-  "NumberOfAwards": 2267,
-  "NumberOfAwardsMax": 882,
-  "MaxAwardTitle": "Character Customization",
+  "NumberOfAwards": 1385,
+  "NumberOfAwardsMax": 715,
+  "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:21:33.6381012+00:00",
-  "LastChanged": "2023-04-21T17:57:56.5054796+00:00",
+  "LastChanged": "2023-04-23T06:57:32.9893259+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:33.6381014+00:00",
@@ -1545,6 +1545,12 @@
       "Rating": 4.79,
       "NumberOfAwards": 2267,
       "NumberOfAwardsMax": 882
+    },
+    {
+      "Time": "2023-04-23T06:57:32.989326+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1385,
+      "NumberOfAwardsMax": 715
     }
   ],
   "Tags": [

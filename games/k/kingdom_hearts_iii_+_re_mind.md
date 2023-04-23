@@ -2,9 +2,9 @@
 Rating: 4.79 (Ranked 92)  
 Number of Ratings: 2,011  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 882  (Ranked 141)  
-Sum: 2,267 (Ranked 172)  
-Diff (max vs sum): -31
+Max (Great Boss Battles): 715  (Ranked 152)  
+Sum: 1,385 (Ranked 210)  
+Diff (max vs sum): -58
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -105,3 +105,4 @@ Diff (max vs sum): -31
 | 2023-04-19 | 4.79 | - | 880 | 2,261 |
 | 2023-04-20 | 4.79 | - | 881 | 2,264 |
 | 2023-04-21 | 4.79 | - | 882 | 2,267 |
+| 2023-04-23 | 4.79 | - | 715 | 1,385 |
