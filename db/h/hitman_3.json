@@ -6,11 +6,11 @@
   "Ranking_Popularity": 36,
   "Ranking_PopularitySum": 18,
   "NumberOfRatings": 21082,
-  "NumberOfAwards": 64637,
+  "NumberOfAwards": 64642,
   "NumberOfAwardsMax": 8690,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:17:51.8099598+00:00",
-  "LastChanged": "2023-04-22T13:56:58.6183252+00:00",
+  "LastChanged": "2023-04-23T04:57:02.8931422+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:51.80996+00:00",
@@ -4523,6 +4523,12 @@
       "Rating": 4.78,
       "NumberOfAwards": 64637,
       "NumberOfAwardsMax": 8690
+    },
+    {
+      "Time": "2023-04-23T04:57:02.8931423+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 64642,
+      "NumberOfAwardsMax": 8690
     }
   ],
   "Tags": [
@@ -4566,7 +4572,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 7866
+      "Count": 7871
     },
     {
       "Text": "This game is Relaxing",
