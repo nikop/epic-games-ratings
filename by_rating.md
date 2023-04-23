@@ -268,7 +268,7 @@
 | 254 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 486 |
 | 254 | [The Machines Arena](games/t/the_machines_arena.md) | 4.67 | 0 | 486 |
 | 254 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 486 |
-| 254 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,435 | 89 |
+| 254 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,449 | 88 |
 | 254 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 102 | 314 |
 | 254 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 21 | 473 |
 | 272 | [APE OUT](games/a/ape_out.md) | 4.66 | 0 | 486 |
@@ -364,7 +364,7 @@
 | 349 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 0 | 486 |
 | 349 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,068 | 127 |
 | 349 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 486 |
-| 349 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,439 | 88 |
+| 349 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,439 | 89 |
 | 349 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 588 | 163 |
 | 349 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 403 | 194 |
 | 349 | [Road 96](games/r/road_96.md) | 4.61 | 0 | 486 |
@@ -425,7 +425,7 @@
 | 423 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.57 | 0 | 486 |
 | 423 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 0 | 486 |
 | 423 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 0 | 486 |
-| 423 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 149 | 279 |
+| 423 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 150 | 279 |
 | 423 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 82 | 338 |
 | 423 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 6,535 | 46 |
 | 423 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.57 | 22,288 | 16 |
@@ -437,7 +437,7 @@
 | 423 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,008 | 85 |
 | 423 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 116 | 299 |
 | 423 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 17,907 | 18 |
-| 423 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,685 | 108 |
+| 423 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,686 | 108 |
 | 423 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.57 | 0 | 486 |
 | 423 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 0 | 486 |
 | 441 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 0 | 486 |
@@ -508,7 +508,7 @@
 | 497 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 486 |
 | 497 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 143 | 282 |
 | 497 | [UnMetal](games/u/unmetal.md) | 4.52 | 0 | 486 |
-| 509 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,549 | 111 |
+| 509 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,550 | 111 |
 | 509 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 91 | 329 |
 | 509 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,064 | 71 |
 | 509 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 21 | 473 |
@@ -542,7 +542,7 @@
 | 540 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 61 | 369 |
 | 540 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.49 | 20 | 478 |
 | 540 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 391 | 197 |
-| 540 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,967 | 102 |
+| 540 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,968 | 102 |
 | 540 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 104 | 310 |
 | 540 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 88 | 331 |
 | 540 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 0 | 486 |
@@ -573,7 +573,7 @@
 | 570 | [Chorus](games/c/chorus.md) | 4.47 | 32 | 430 |
 | 570 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.47 | 0 | 486 |
 | 570 | [Duskers](games/d/duskers.md) | 4.47 | 0 | 486 |
-| 570 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,428 | 79 |
+| 570 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,429 | 79 |
 | 570 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.47 | 0 | 486 |
 | 570 | [Riverbond](games/r/riverbond.md) | 4.47 | 0 | 486 |
 | 570 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 0 | 486 |
@@ -866,7 +866,7 @@
 | 864 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 0 | 486 |
 | 865 | [Lake](games/l/lake.md) | 4.03 | 0 | 486 |
 | 865 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.03 | 0 | 486 |
-| 865 | [Pinball FX](games/p/pinball_fx.md) | 4.03 | 169 | 269 |
+| 865 | [Pinball FX](games/p/pinball_fx.md) | 4.03 | 169 | 270 |
 | 868 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.00 | 0 | 486 |
 | 868 | [Banished](games/b/banished.md) | 4.00 | 0 | 486 |
 | 868 | [Gravewood High](games/g/gravewood_high.md) | 4.00 | 0 | 486 |
@@ -882,7 +882,7 @@
 | 880 | [Patron](games/p/patron.md) | 3.94 | 0 | 486 |
 | 881 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 0 | 486 |
 | 882 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 443 |
-| 882 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.92 | 169 | 269 |
+| 882 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.92 | 170 | 267 |
 | 882 | [Ironcast](games/i/ironcast.md) | 3.92 | 0 | 486 |
 | 885 | [Conarium](games/c/conarium.md) | 3.91 | 0 | 486 |
 | 885 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 312 |

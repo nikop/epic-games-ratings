@@ -8,7 +8,7 @@
 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 235 | 3,315 | 80 |
 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 141 | 398 | 196 |
 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 60 | 0 | 486 |
-| [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 509 | 1,549 | 111 |
+| [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 509 | 1,550 | 111 |
 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 637 | 0 | 486 |
 | [ABZU](games/a/abzu.md) | 4.61 | 349 | 0 | 486 |
 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.00 | 868 | 0 | 486 |
@@ -48,7 +48,7 @@
 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.68 | 235 | 0 | 486 |
 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 126 | 24 | 461 |
 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 235 | 2,961 | 87 |
-| [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 423 | 149 | 279 |
+| [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 423 | 150 | 279 |
 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 509 | 91 | 329 |
 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.58 | 407 | 574 | 167 |
 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 583 | 0 | 486 |
@@ -108,7 +108,7 @@
 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.33 | 724 | 0 | 486 |
 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.38 | 683 | 0 | 486 |
 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.12 | 840 | 32 | 430 |
-| [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 540 | 1,967 | 102 |
+| [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 540 | 1,968 | 102 |
 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 254 | 71 | 352 |
 | [Card Shark](games/c/card_shark.md) | 4.68 | 235 | 0 | 486 |
 | [CARRION](games/c/carrion.md) | 4.68 | 235 | 0 | 486 |
@@ -148,7 +148,7 @@
 | [Crashlands](games/c/crashlands.md) | 4.66 | 272 | 188 | 259 |
 | [Crayta](games/c/crayta.md) | 4.19 | 808 | 50 | 379 |
 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 764 | 22 | 467 |
-| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.92 | 882 | 169 | 269 |
+| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.92 | 882 | 170 | 267 |
 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 699 | 170 | 267 |
 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 708 | 90 | 330 |
 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 524 | 209 | 250 |
@@ -300,7 +300,7 @@
 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 165 | 451 | 186 |
 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 497 | 497 | 179 |
 | [GigaBash](games/g/gigabash.md) | 4.65 | 288 | 0 | 486 |
-| [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 570 | 3,428 | 79 |
+| [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 570 | 3,429 | 79 |
 | [GNOG](games/g/gnog.md) | 4.69 | 212 | 0 | 486 |
 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 37 | 298 | 222 |
 | [God of War](games/g/god_of_war.md) | 4.89 | 12 | 3,942 | 73 |
@@ -528,7 +528,7 @@
 | [Parkitect](games/p/parkitect.md) | 4.34 | 717 | 0 | 486 |
 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 349 | 0 | 486 |
 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 724 | 0 | 486 |
-| [Path of Exile](games/p/path_of_exile.md) | 4.61 | 349 | 2,439 | 88 |
+| [Path of Exile](games/p/path_of_exile.md) | 4.61 | 349 | 2,439 | 89 |
 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 423 | 3,008 | 85 |
 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 114 | 1,614 | 109 |
 | [Pathway](games/p/pathway.md) | 4.45 | 596 | 0 | 486 |
@@ -540,7 +540,7 @@
 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 441 | 1,762 | 106 |
 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 165 | 0 | 486 |
 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 288 | 1,864 | 103 |
-| [Pinball FX](games/p/pinball_fx.md) | 4.03 | 865 | 169 | 269 |
+| [Pinball FX](games/p/pinball_fx.md) | 4.03 | 865 | 169 | 270 |
 | [Pine](games/p/pine.md) | 4.15 | 830 | 0 | 486 |
 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.55 | 463 | 32 | 430 |
 | [Port Royale 4](games/p/port_royale_4.md) | 3.99 | 871 | 0 | 486 |
@@ -799,7 +799,7 @@
 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 235 | 84 | 336 |
 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 733 | 0 | 486 |
 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 407 | 168 | 271 |
-| [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 423 | 1,685 | 108 |
+| [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 423 | 1,686 | 108 |
 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.34 | 717 | 0 | 486 |
 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 407 | 249 | 234 |
 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 497 | 143 | 282 |
@@ -817,7 +817,7 @@
 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 254 | 0 | 486 |
 | [Townscaper](games/t/townscaper.md) | 4.71 | 179 | 0 | 486 |
 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.32 | 733 | 0 | 486 |
-| [Trackmania](games/t/trackmania.md) | 4.67 | 254 | 2,435 | 89 |
+| [Trackmania](games/t/trackmania.md) | 4.67 | 254 | 2,449 | 88 |
 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 72 | 0 | 486 |
 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 871 | 0 | 486 |
 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 637 | 532 | 175 |
