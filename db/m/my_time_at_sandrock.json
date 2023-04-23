@@ -2,15 +2,15 @@
   "ID": "e65d8864e0e84d6eb7fe228b2041c15f",
   "Name": "My Time at Sandrock",
   "Rating": 4.68,
-  "Ranking_Rating": 234,
+  "Ranking_Rating": 233,
   "Ranking_Popularity": 169,
   "Ranking_PopularitySum": 218,
   "NumberOfRatings": 892,
-  "NumberOfAwards": 1180,
+  "NumberOfAwards": 1182,
   "NumberOfAwardsMax": 550,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
-  "LastChanged": "2023-04-22T18:59:23.6271567+00:00",
+  "LastChanged": "2023-04-23T15:59:12.3144431+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:47.6872012+00:00",
@@ -667,6 +667,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 1180,
       "NumberOfAwardsMax": 550
+    },
+    {
+      "Time": "2023-04-23T15:59:12.3144434+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1182,
+      "NumberOfAwardsMax": 550
     }
   ],
   "Tags": [
@@ -698,7 +704,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 67
+      "Count": 69
     },
     {
       "Text": "This game has Amazing Characters",

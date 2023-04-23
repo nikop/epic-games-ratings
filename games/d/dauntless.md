@@ -3,7 +3,7 @@ Rating: 4.53 (Ranked 484)
 Number of Ratings: 23,656  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 19,538  (Ranked 17)  
-Sum: 48,708 (Ranked 22)  
+Sum: 48,713 (Ranked 22)  
 Diff (max vs sum): -5
 ## Awards
 | Award | Count |
@@ -12,7 +12,7 @@ Diff (max vs sum): -5
 | This game has Great Boss Battles | 13,125 |
 | This game is Great for Beginners | 2,955 |
 | This game is Extremely Fun | 2,670 |
-| This game is Highly Recommended | 2,632 |
+| This game is Highly Recommended | 2,637 |
 | This game is Relaxing | 2,628 |
 | This game has Quickly Understood Controls | 2,623 |
 | This game has Amazing Characters | 2,537 |
@@ -109,4 +109,4 @@ Diff (max vs sum): -5
 | 2023-04-20 | 4.53 | - | 19,517 | 48,615 |
 | 2023-04-21 | 4.53 | - | 19,525 | 48,657 |
 | 2023-04-22 | 4.53 | - | 19,538 | 48,692 |
-| 2023-04-23 | 4.53 | - | 19,538 | 48,708 |
+| 2023-04-23 | 4.53 | - | 19,538 | 48,713 |

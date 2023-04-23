@@ -2,15 +2,15 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "Rating": 4.68,
-  "Ranking_Rating": 234,
+  "Ranking_Rating": 233,
   "Ranking_Popularity": 60,
   "Ranking_PopularitySum": 25,
   "NumberOfRatings": 8414,
-  "NumberOfAwards": 42066,
+  "NumberOfAwards": 42074,
   "NumberOfAwardsMax": 5079,
   "MaxAwardTitle": "Educational",
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
-  "LastChanged": "2023-04-23T13:56:45.4276317+00:00",
+  "LastChanged": "2023-04-23T15:57:03.8828642+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:24.709272+00:00",
@@ -3938,6 +3938,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 42066,
       "NumberOfAwardsMax": 5079
+    },
+    {
+      "Time": "2023-04-23T15:57:03.8828645+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 42074,
+      "NumberOfAwardsMax": 5079
     }
   ],
   "Tags": [
@@ -3999,7 +4005,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4015
+      "Count": 4023
     },
     {
       "Text": "This game has Unique Visuals",

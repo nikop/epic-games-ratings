@@ -1,9 +1,9 @@
 # Journey to the Savage Planet
-Rating: 4.58 (Ranked 408)  
+Rating: 4.58 (Ranked 407)  
 Number of Ratings: 114  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 36  (Ranked 414)  
-Sum: 36 (Ranked 442)  
+Max (Great Boss Battles): 36  (Ranked 415)  
+Sum: 36 (Ranked 443)  
 Diff (max vs sum): -28
 ## Awards
 | Award | Count |

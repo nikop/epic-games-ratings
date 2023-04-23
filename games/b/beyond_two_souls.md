@@ -1,9 +1,9 @@
 # Beyond Two Souls
-Rating: 4.68 (Ranked 234)  
+Rating: 4.68 (Ranked 233)  
 Number of Ratings: 348  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Impact the Story): 69  (Ranked 356)  
-Sum: 69 (Ranked 411)  
+Max (Impact the Story): 69  (Ranked 357)  
+Sum: 69 (Ranked 412)  
 Diff (max vs sum): -55
 ## Awards
 | Award | Count |

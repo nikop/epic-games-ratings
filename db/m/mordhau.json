@@ -1,15 +1,15 @@
 {
   "ID": "2bda08f9230144a19e98373cc4a6ac2d",
   "Name": "MORDHAU",
-  "Rating": 4.43,
-  "Ranking_Rating": 630,
+  "Rating": 4.42,
+  "Ranking_Rating": 637,
   "Ranking_Popularity": 486,
   "Ranking_PopularitySum": 486,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-04-13T15:58:07.4170825+00:00",
   "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
-  "LastChanged": "2023-04-23T08:57:44.7641462+00:00",
+  "LastChanged": "2023-04-23T15:58:20.9526845+00:00",
   "RatingHistory": [
     {
       "Time": "2023-04-13T15:58:07.4170884+00:00",
@@ -128,6 +128,12 @@
     {
       "Time": "2023-04-23T08:57:44.7641463+00:00",
       "Rating": 4.43,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-23T15:58:20.9526848+00:00",
+      "Rating": 4.42,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

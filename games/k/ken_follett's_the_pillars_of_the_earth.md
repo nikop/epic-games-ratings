@@ -1,10 +1,10 @@
 # Ken Follett's The Pillars of the Earth
-Rating: 4.52 (Ranked 497)  
+Rating: 4.52 (Ranked 496)  
 Number of Ratings: 368  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Easy Puzzles): 147  (Ranked 281)  
+Max (Easy Puzzles): 147  (Ranked 282)  
 Sum: 186 (Ranked 351)  
-Diff (max vs sum): -70
+Diff (max vs sum): -69
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -2,8 +2,8 @@
 Rating: 4.25 (Ranked 773)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 21  (Ranked 473)  
-Sum: 41 (Ranked 436)  
-Diff (max vs sum): 37
+Sum: 41 (Ranked 437)  
+Diff (max vs sum): 36
 ## Awards
 | Award | Count |
 | ----- | ----- |
