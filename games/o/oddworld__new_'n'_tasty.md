@@ -1,5 +1,5 @@
 # Oddworld: New 'n' Tasty
-Rating: 4.45 (Ranked 596)  
+Rating: 4.45 (Ranked 597)  
 Number of Ratings: 112  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Challenging Puzzles): 37  (Ranked 412)  
