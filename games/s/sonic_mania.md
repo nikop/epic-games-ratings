@@ -1,14 +1,14 @@
 # Sonic Mania
-Rating: 4.79 (Ranked 92)  
+Rating: 4.78 (Ranked 100)  
 Number of Ratings: 2,185  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 903  (Ranked 140)  
-Sum: 1,532 (Ranked 204)  
+Max (Great Boss Battles): 904  (Ranked 140)  
+Sum: 1,533 (Ranked 204)  
 Diff (max vs sum): -64
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 903 |
+| This game has Great Boss Battles | 904 |
 | This game is Highly Recommended | 72 |
 | This game is Extremely Fun | 69 |
 | This game is Great for Quick Sessions | 69 |
@@ -108,4 +108,4 @@ Diff (max vs sum): -64
 | 2023-04-09 | 4.78 | - | 903 | 1,530 |
 | 2023-04-14 | 4.78 | - | 903 | 1,531 |
 | 2023-04-19 | 4.79 | - | 903 | 1,531 |
-| 2023-04-23 | 4.79 | - | 903 | 1,532 |
+| 2023-04-23 | 4.79 | - | 904 | 1,533 |

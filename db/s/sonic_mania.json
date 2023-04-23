@@ -1,16 +1,16 @@
 {
   "ID": "45e7cf3c49054f2fb20b673d9b0ae69e",
   "Name": "Sonic Mania",
-  "Rating": 4.79,
-  "Ranking_Rating": 92,
+  "Rating": 4.78,
+  "Ranking_Rating": 100,
   "Ranking_Popularity": 140,
   "Ranking_PopularitySum": 204,
   "NumberOfRatings": 2185,
-  "NumberOfAwards": 1532,
-  "NumberOfAwardsMax": 903,
+  "NumberOfAwards": 1533,
+  "NumberOfAwardsMax": 904,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:24:14.1875943+00:00",
-  "LastChanged": "2023-04-23T05:57:35.0410137+00:00",
+  "LastChanged": "2023-04-23T17:57:45.7250186+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:14.1875945+00:00",
@@ -1151,6 +1151,12 @@
       "Rating": 4.79,
       "NumberOfAwards": 1532,
       "NumberOfAwardsMax": 903
+    },
+    {
+      "Time": "2023-04-23T17:57:45.7250192+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 1533,
+      "NumberOfAwardsMax": 904
     }
   ],
   "Tags": [
@@ -1158,7 +1164,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 903
+      "Count": 904
     },
     {
       "Text": "This game has Obsessive Gameplay",

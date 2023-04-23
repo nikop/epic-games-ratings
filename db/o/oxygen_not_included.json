@@ -6,11 +6,11 @@
   "Ranking_Popularity": 235,
   "Ranking_PopularitySum": 176,
   "NumberOfRatings": 897,
-  "NumberOfAwards": 2144,
+  "NumberOfAwards": 2146,
   "NumberOfAwardsMax": 247,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
-  "LastChanged": "2023-04-23T14:57:23.5570341+00:00",
+  "LastChanged": "2023-04-23T17:57:20.0088334+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:44.1555171+00:00",
@@ -1321,6 +1321,12 @@
       "Rating": 4.84,
       "NumberOfAwards": 2144,
       "NumberOfAwardsMax": 247
+    },
+    {
+      "Time": "2023-04-23T17:57:20.0088335+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2146,
+      "NumberOfAwardsMax": 247
     }
   ],
   "Tags": [
@@ -1388,7 +1394,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 209
+      "Count": 211
     }
   ]
 }

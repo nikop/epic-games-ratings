@@ -96,15 +96,15 @@
 | 92 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 715 | 152 |
 | 92 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 2,230 | 94 |
 | 92 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 988 | 135 |
-| 92 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,805 | 55 |
+| 92 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,809 | 55 |
 | 92 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 364 | 204 |
 | 92 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 116 | 301 |
-| 92 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 903 | 140 |
-| 101 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,585 | 65 |
-| 101 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,708 | 36 |
-| 101 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 17,826 | 19 |
-| 101 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 141 | 284 |
-| 101 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 97 | 320 |
+| 100 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,585 | 65 |
+| 100 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,708 | 36 |
+| 100 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 17,826 | 19 |
+| 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 904 | 140 |
+| 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 141 | 284 |
+| 100 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 97 | 320 |
 | 106 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 2,422 | 90 |
 | 106 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,897 | 74 |
 | 106 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.77 | 0 | 486 |
@@ -211,7 +211,7 @@
 | 192 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 486 |
 | 192 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 36 | 415 |
 | 211 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 107,830 | 8 |
-| 211 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,726 | 76 |
+| 211 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,728 | 76 |
 | 211 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 323 | 211 |
 | 211 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 0 | 486 |
 | 211 | [GNOG](games/g/gnog.md) | 4.69 | 0 | 486 |
@@ -253,7 +253,7 @@
 | 233 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.68 | 1,453 | 113 |
 | 233 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 0 | 486 |
 | 253 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 638 | 160 |
-| 253 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 71 | 353 |
+| 253 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 72 | 352 |
 | 253 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,470 | 48 |
 | 253 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 486 |
 | 253 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 0 | 486 |
@@ -298,7 +298,7 @@
 | 287 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 148 | 281 |
 | 287 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 48 | 387 |
 | 287 | [Old World](games/o/old_world.md) | 4.65 | 212 | 247 |
-| 287 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1,864 | 103 |
+| 287 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1,866 | 103 |
 | 287 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 0 | 486 |
 | 287 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 50 | 380 |
 | 287 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 486 |
@@ -345,12 +345,12 @@
 | 335 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 486 |
 | 335 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 101 | 316 |
 | 335 | [Prey](games/p/prey.md) | 4.62 | 5,509 | 57 |
-| 335 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 71 | 353 |
+| 335 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 71 | 354 |
 | 335 | [Transistor](games/t/transistor.md) | 4.62 | 0 | 486 |
 | 348 | [20XX](games/2/20xx.md) | 4.61 | 36 | 415 |
 | 348 | [ABZU](games/a/abzu.md) | 4.61 | 0 | 486 |
 | 348 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 127 | 291 |
-| 348 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 3,975 | 72 |
+| 348 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 3,978 | 72 |
 | 348 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 486 |
 | 348 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 210 | 249 |
 | 348 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 374 | 202 |
@@ -364,7 +364,7 @@
 | 348 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 0 | 486 |
 | 348 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,068 | 127 |
 | 348 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 486 |
-| 348 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,439 | 89 |
+| 348 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,441 | 89 |
 | 348 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 588 | 163 |
 | 348 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 403 | 194 |
 | 348 | [Road 96](games/r/road_96.md) | 4.61 | 0 | 486 |
@@ -843,7 +843,7 @@
 | 840 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.12 | 32 | 430 |
 | 840 | [Forspoken](games/f/forspoken.md) | 4.12 | 0 | 486 |
 | 840 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.12 | 0 | 486 |
-| 844 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 71 | 353 |
+| 844 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 71 | 354 |
 | 844 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.11 | 0 | 486 |
 | 846 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 0 | 486 |
 | 846 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 486 |
