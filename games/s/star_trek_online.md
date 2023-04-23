@@ -1,5 +1,5 @@
 # Star Trek Online
-Rating: 4.44 (Ranked 615)  
+Rating: 4.45 (Ranked 596)  
 Number of Ratings: 565  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 518  (Ranked 177)  
@@ -124,3 +124,4 @@ Diff (max vs sum): 0
 | 2023-04-19 | 4.44 | - | 518 | 2,114 |
 | 2023-04-21 | 4.44 | - | 518 | 2,115 |
 | 2023-04-22 | 4.44 | - | 518 | 2,116 |
+| 2023-04-23 | 4.45 | - | 518 | 2,116 |

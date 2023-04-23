@@ -3,8 +3,8 @@ Rating: 4.87 (Ranked 24)
 Number of Ratings: 3,910  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Impact the Story): 1,366  (Ranked 116)  
-Sum: 1,450 (Ranked 208)  
-Diff (max vs sum): -92
+Sum: 1,470 (Ranked 207)  
+Diff (max vs sum): -91
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -13,6 +13,7 @@ Diff (max vs sum): -92
 | This game has Quickly Understood Controls | 21 |
 | This game has Diverse Characters | 21 |
 | This game has Amazing Characters | 20 |
+| This game is Highly Recommended | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -88,3 +89,4 @@ Diff (max vs sum): -92
 | 2023-04-18 | 4.87 | - | 1,364 | 1,448 |
 | 2023-04-20 | 4.87 | - | 1,365 | 1,449 |
 | 2023-04-22 | 4.87 | - | 1,366 | 1,450 |
+| 2023-04-23 | 4.87 | - | 1,366 | 1,470 |

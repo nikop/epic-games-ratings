@@ -1,8 +1,8 @@
 {
   "ID": "06a97980aac14fdfb914ef603a113792",
   "Name": "Star Trek Online",
-  "Rating": 4.44,
-  "Ranking_Rating": 615,
+  "Rating": 4.45,
+  "Ranking_Rating": 596,
   "Ranking_Popularity": 177,
   "Ranking_PopularitySum": 177,
   "NumberOfRatings": 565,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 518,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:17:13.4550293+00:00",
-  "LastChanged": "2023-04-22T15:56:50.5704842+00:00",
+  "LastChanged": "2023-04-23T16:57:03.4594509+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:13.4550296+00:00",
@@ -1056,6 +1056,12 @@
     {
       "Time": "2023-04-22T15:56:50.5704844+00:00",
       "Rating": 4.44,
+      "NumberOfAwards": 2116,
+      "NumberOfAwardsMax": 518
+    },
+    {
+      "Time": "2023-04-23T16:57:03.4594511+00:00",
+      "Rating": 4.45,
       "NumberOfAwards": 2116,
       "NumberOfAwardsMax": 518
     }

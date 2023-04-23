@@ -37,7 +37,7 @@
 | 28 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,194 | 120 |
 | 28 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 452 | 185 |
 | 37 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 37 | 412 |
-| 37 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,479 | 41 |
+| 37 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,483 | 41 |
 | 37 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,446 | 58 |
 | 37 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 298 | 222 |
 | 37 | [Grindstone](games/g/grindstone.md) | 4.85 | 0 | 486 |
@@ -610,24 +610,24 @@
 | 596 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 846 | 142 |
 | 596 | [Predecessor](games/p/predecessor.md) | 4.45 | 59 | 373 |
 | 596 | [SMITE](games/s/smite.md) | 4.45 | 3,664 | 77 |
+| 596 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 518 | 177 |
 | 596 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.45 | 0 | 486 |
 | 596 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 113 | 305 |
 | 596 | [Weird West](games/w/weird_west.md) | 4.45 | 23 | 463 |
 | 596 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 0 | 486 |
-| 615 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 486 |
-| 615 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 672 | 155 |
-| 615 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 486 |
-| 615 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.44 | 0 | 486 |
-| 615 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.44 | 27 | 448 |
-| 615 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 45 | 394 |
-| 615 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 0 | 486 |
-| 615 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 0 | 486 |
-| 615 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 518 | 177 |
-| 615 | [STG Football](games/s/stg_football.md) | 4.44 | 35 | 421 |
-| 615 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 486 |
-| 615 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 320 |
-| 615 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 0 | 486 |
-| 615 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 373 |
+| 616 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 486 |
+| 616 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 672 | 155 |
+| 616 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 486 |
+| 616 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.44 | 0 | 486 |
+| 616 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.44 | 27 | 448 |
+| 616 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 45 | 394 |
+| 616 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 0 | 486 |
+| 616 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 0 | 486 |
+| 616 | [STG Football](games/s/stg_football.md) | 4.44 | 35 | 421 |
+| 616 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 486 |
+| 616 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 320 |
+| 616 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 0 | 486 |
+| 616 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 373 |
 | 629 | [Death Coming](games/d/death_coming.md) | 4.43 | 0 | 486 |
 | 629 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 22 | 467 |
 | 629 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 0 | 486 |
@@ -653,7 +653,7 @@
 | 651 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 0 | 486 |
 | 651 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 176 | 265 |
 | 651 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 92 | 328 |
-| 651 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 11,800 | 28 |
+| 651 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 11,812 | 28 |
 | 651 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 0 | 486 |
 | 651 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.41 | 0 | 486 |
 | 651 | [Othercide](games/o/othercide.md) | 4.41 | 0 | 486 |
