@@ -1,5 +1,5 @@
 # Skul: The Hero Slayer
-Rating: 4.70 (Ranked 191)  
+Rating: 4.70 (Ranked 192)  
 Number of Ratings: 546  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 109  (Ranked 308)  

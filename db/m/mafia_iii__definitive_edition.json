@@ -3,14 +3,14 @@
   "Name": "Mafia III: Definitive Edition",
   "Rating": 4.2,
   "Ranking_Rating": 797,
-  "Ranking_Popularity": 350,
+  "Ranking_Popularity": 349,
   "Ranking_PopularitySum": 289,
   "NumberOfRatings": 1289,
-  "NumberOfAwards": 472,
-  "NumberOfAwardsMax": 72,
+  "NumberOfAwards": 473,
+  "NumberOfAwardsMax": 73,
   "MaxAwardTitle": "Amazing Characters",
   "FirstSeen": "2022-07-22T20:19:34.9657602+00:00",
-  "LastChanged": "2023-04-22T13:57:08.9879305+00:00",
+  "LastChanged": "2023-04-23T13:01:19.5539407+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:34.9657605+00:00",
@@ -980,6 +980,12 @@
       "Rating": 4.2,
       "NumberOfAwards": 472,
       "NumberOfAwardsMax": 72
+    },
+    {
+      "Time": "2023-04-23T13:01:19.5539408+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 473,
+      "NumberOfAwardsMax": 73
     }
   ],
   "Tags": [
@@ -999,7 +1005,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 72
+      "Count": 73
     },
     {
       "Text": "This game is Relaxing",

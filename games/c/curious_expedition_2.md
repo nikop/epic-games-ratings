@@ -1,5 +1,5 @@
 # Curious Expedition 2
-Rating: 4.70 (Ranked 191)  
+Rating: 4.70 (Ranked 192)  
 Number of Ratings: 20  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  
