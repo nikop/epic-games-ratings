@@ -3,14 +3,14 @@
   "Name": "Might \u0026 Magic Heroes 3",
   "Rating": 4.82,
   "Ranking_Rating": 60,
-  "Ranking_Popularity": 306,
+  "Ranking_Popularity": 304,
   "Ranking_PopularitySum": 321,
   "NumberOfRatings": 165,
-  "NumberOfAwards": 292,
-  "NumberOfAwardsMax": 112,
+  "NumberOfAwards": 293,
+  "NumberOfAwardsMax": 113,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:27:33.8101196+00:00",
-  "LastChanged": "2023-04-21T19:57:41.399697+00:00",
+  "LastChanged": "2023-04-23T10:57:48.5484456+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:33.8101199+00:00",
@@ -501,6 +501,12 @@
       "Rating": 4.82,
       "NumberOfAwards": 292,
       "NumberOfAwardsMax": 112
+    },
+    {
+      "Time": "2023-04-23T10:57:48.5484459+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 293,
+      "NumberOfAwardsMax": 113
     }
   ],
   "Tags": [
@@ -508,7 +514,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 112
+      "Count": 113
     },
     {
       "Text": "This game is Great for Beginners",
