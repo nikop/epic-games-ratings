@@ -3,14 +3,14 @@
   "Name": "STG Football",
   "Rating": 4.44,
   "Ranking_Rating": 615,
-  "Ranking_Popularity": 424,
+  "Ranking_Popularity": 420,
   "Ranking_PopularitySum": 335,
-  "NumberOfAwards": 258,
-  "NumberOfAwardsMax": 34,
+  "NumberOfAwards": 259,
+  "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-10-25T20:04:22.7982366+00:00",
   "FirstSeenRating": "2022-10-28T23:02:10.4160395+00:00",
-  "LastChanged": "2023-04-22T02:58:28.7842128+00:00",
+  "LastChanged": "2023-04-23T02:06:34.7153616+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-28T23:02:10.4160399+00:00",
@@ -281,6 +281,12 @@
       "Rating": 4.44,
       "NumberOfAwards": 258,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-04-23T02:06:34.7153622+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 259,
+      "NumberOfAwardsMax": 35
     }
   ],
   "Tags": [
@@ -288,7 +294,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game is Great for Quick Sessions",

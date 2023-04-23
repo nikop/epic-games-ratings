@@ -2,15 +2,15 @@
   "ID": "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
   "Name": "Godfall",
   "Rating": 4.07,
-  "Ranking_Rating": 857,
+  "Ranking_Rating": 856,
   "Ranking_Popularity": 178,
   "Ranking_PopularitySum": 240,
   "NumberOfRatings": 818,
-  "NumberOfAwards": 809,
+  "NumberOfAwards": 810,
   "NumberOfAwardsMax": 504,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:17:29.0337311+00:00",
-  "LastChanged": "2023-04-21T20:56:56.0351398+00:00",
+  "LastChanged": "2023-04-23T02:05:46.6377137+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:29.0337314+00:00",
@@ -853,6 +853,12 @@
       "Rating": 4.07,
       "NumberOfAwards": 809,
       "NumberOfAwardsMax": 504
+    },
+    {
+      "Time": "2023-04-23T02:05:46.6377138+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 810,
+      "NumberOfAwardsMax": 504
     }
   ],
   "Tags": [
@@ -872,7 +878,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 45
+      "Count": 46
     },
     {
       "Text": "This game has Diverse Characters",

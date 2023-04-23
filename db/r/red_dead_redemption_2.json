@@ -6,11 +6,11 @@
   "Ranking_Popularity": 7,
   "Ranking_PopularitySum": 8,
   "NumberOfRatings": 102658,
-  "NumberOfAwards": 343271,
+  "NumberOfAwards": 343513,
   "NumberOfAwardsMax": 135329,
   "MaxAwardTitle": "Impact the Story",
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-04-22T23:57:44.2012395+00:00",
+  "LastChanged": "2023-04-23T02:06:16.0384474+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:15.0342453+00:00",
@@ -4758,6 +4758,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 343271,
       "NumberOfAwardsMax": 135329
+    },
+    {
+      "Time": "2023-04-23T02:06:16.038448+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 343513,
+      "NumberOfAwardsMax": 135329
     }
   ],
   "Tags": [
@@ -4783,19 +4789,19 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 12459
+      "Count": 12498
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 12519
+      "Count": 12554
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 12237
+      "Count": 12277
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -4807,13 +4813,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 12719
+      "Count": 12753
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 12636
+      "Count": 12682
     },
     {
       "Text": "This game is Great for Beginners",
@@ -4837,7 +4843,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 12062
+      "Count": 12110
     },
     {
       "Text": "This game has a Creative Community",

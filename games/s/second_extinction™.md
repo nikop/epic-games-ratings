@@ -1,14 +1,14 @@
 # Second Extinction™
-Rating: 4.08 (Ranked 852)  
+Rating: 4.07 (Ranked 856)  
 Number of Ratings: 617  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 314  (Ranked 215)  
-Sum: 354 (Ranked 305)  
-Diff (max vs sum): -90
+Max (Great Boss Battles): 329  (Ranked 208)  
+Sum: 369 (Ranked 303)  
+Diff (max vs sum): -95
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 314 |
+| This game has Great Boss Battles | 329 |
 | This game is Highly Recommended | 20 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
@@ -113,3 +113,4 @@ Diff (max vs sum): -90
 | 2023-04-20 | 4.08 | - | 294 | 314 |
 | 2023-04-21 | 4.08 | - | 314 | 334 |
 | 2023-04-22 | 4.09 | - | 314 | 354 |
+| 2023-04-23 | 4.07 | - | 329 | 369 |
