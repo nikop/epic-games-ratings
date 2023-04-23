@@ -1,14 +1,14 @@
 # The Dungeon of Naheulbeuk
-Rating: 4.70 (Ranked 191)  
+Rating: 4.69 (Ranked 209)  
 Number of Ratings: 118  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 57  (Ranked 376)  
-Sum: 57 (Ranked 423)  
+Max (Character Customization): 58  (Ranked 376)  
+Sum: 58 (Ranked 423)  
 Diff (max vs sum): -47
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 57 |
+| This game has Inclusive Character Customization | 58 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -77,3 +77,4 @@ Diff (max vs sum): -47
 | 2023-03-24 | 4.69 | - | - | - |
 | 2023-04-02 | 4.70 | - | 56 | 56 |
 | 2023-04-07 | 4.70 | - | 57 | 57 |
+| 2023-04-23 | 4.69 | - | 58 | 58 |

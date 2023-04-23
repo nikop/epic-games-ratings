@@ -1,5 +1,5 @@
 # Chainmonsters
-Rating: 3.80 (Ranked 894)  
+Rating: 3.80 (Ranked 895)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  
 Sum: 0 (Ranked 486)  

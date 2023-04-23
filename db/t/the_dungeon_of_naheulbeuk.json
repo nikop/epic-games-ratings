@@ -1,16 +1,16 @@
 {
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
-  "Rating": 4.7,
-  "Ranking_Rating": 191,
+  "Rating": 4.69,
+  "Ranking_Rating": 209,
   "Ranking_Popularity": 376,
   "Ranking_PopularitySum": 423,
   "NumberOfRatings": 118,
-  "NumberOfAwards": 57,
-  "NumberOfAwardsMax": 57,
+  "NumberOfAwards": 58,
+  "NumberOfAwardsMax": 58,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
-  "LastChanged": "2023-04-07T09:57:14.763588+00:00",
+  "LastChanged": "2023-04-23T21:56:52.8792351+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:10.3058595+00:00",
@@ -326,6 +326,12 @@
       "Rating": 4.7,
       "NumberOfAwards": 57,
       "NumberOfAwardsMax": 57
+    },
+    {
+      "Time": "2023-04-23T21:56:52.8792458+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 58,
+      "NumberOfAwardsMax": 58
     }
   ],
   "Tags": [
@@ -333,7 +339,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 57
+      "Count": 58
     }
   ]
 }

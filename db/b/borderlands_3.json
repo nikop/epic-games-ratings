@@ -2,15 +2,15 @@
   "ID": "catnip",
   "Name": "Borderlands 3",
   "Rating": 4.69,
-  "Ranking_Rating": 210,
+  "Ranking_Rating": 209,
   "Ranking_Popularity": 8,
   "Ranking_PopularitySum": 9,
   "NumberOfRatings": 151211,
-  "NumberOfAwards": 337668,
-  "NumberOfAwardsMax": 107830,
+  "NumberOfAwards": 337774,
+  "NumberOfAwardsMax": 107936,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
-  "LastChanged": "2023-04-23T05:56:58.3091578+00:00",
+  "LastChanged": "2023-04-23T21:56:49.3364678+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:32.2549883+00:00",
@@ -4583,6 +4583,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 337668,
       "NumberOfAwardsMax": 107830
+    },
+    {
+      "Time": "2023-04-23T21:56:49.3364679+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 337774,
+      "NumberOfAwardsMax": 107936
     }
   ],
   "Tags": [
@@ -4590,7 +4596,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 107830
+      "Count": 107936
     },
     {
       "Text": "This game is Great for Beginners",

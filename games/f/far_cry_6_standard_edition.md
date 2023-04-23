@@ -1,5 +1,5 @@
 # Far Cry 6 Standard Edition
-Rating: 4.44 (Ranked 616)  
+Rating: 4.44 (Ranked 615)  
 Number of Ratings: 12,290  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Amazing Storytelling): 672  (Ranked 155)  

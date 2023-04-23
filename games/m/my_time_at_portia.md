@@ -1,5 +1,5 @@
 # My Time At Portia
-Rating: 4.67 (Ranked 253)  
+Rating: 4.67 (Ranked 254)  
 Number of Ratings: 3,894  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 2,209  (Ranked 96)  
