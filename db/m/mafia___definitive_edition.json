@@ -3,14 +3,14 @@
   "Name": "Mafia : Definitive Edition",
   "Rating": 4.62,
   "Ranking_Rating": 335,
-  "Ranking_Popularity": 166,
+  "Ranking_Popularity": 165,
   "Ranking_PopularitySum": 260,
   "NumberOfRatings": 2035,
-  "NumberOfAwards": 690,
-  "NumberOfAwardsMax": 576,
+  "NumberOfAwards": 691,
+  "NumberOfAwardsMax": 577,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:22:45.942623+00:00",
-  "LastChanged": "2023-04-22T10:57:41.5005854+00:00",
+  "LastChanged": "2023-04-23T14:57:35.1285251+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:45.9426234+00:00",
@@ -751,6 +751,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 690,
       "NumberOfAwardsMax": 576
+    },
+    {
+      "Time": "2023-04-23T14:57:35.1285253+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 691,
+      "NumberOfAwardsMax": 577
     }
   ],
   "Tags": [
@@ -758,7 +764,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 576
+      "Count": 577
     },
     {
       "Text": "This game is Highly Recommended",

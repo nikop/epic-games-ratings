@@ -5,12 +5,12 @@
   "Ranking_Rating": 882,
   "Ranking_Popularity": 267,
   "Ranking_PopularitySum": 239,
-  "NumberOfAwards": 825,
-  "NumberOfAwardsMax": 170,
-  "MaxAwardTitle": "Quickly Understood Controls",
+  "NumberOfAwards": 830,
+  "NumberOfAwardsMax": 174,
+  "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
-  "LastChanged": "2023-04-23T07:57:22.6530169+00:00",
+  "LastChanged": "2023-04-23T14:57:07.6688395+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-29T02:58:45.3340124+00:00",
@@ -863,6 +863,12 @@
       "Rating": 3.92,
       "NumberOfAwards": 825,
       "NumberOfAwardsMax": 170
+    },
+    {
+      "Time": "2023-04-23T14:57:07.6688397+00:00",
+      "Rating": 3.92,
+      "NumberOfAwards": 830,
+      "NumberOfAwardsMax": 174
     }
   ],
   "Tags": [
@@ -906,7 +912,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 169
+      "Count": 174
     },
     {
       "Text": "This game has a Silly Community",
