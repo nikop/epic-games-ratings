@@ -2,15 +2,15 @@
   "ID": "1093790870b043cdbae03d91d76d9ae6",
   "Name": "Tom Clancy\u2019s Rainbow Six\u00AE Extraction Standard Edition",
   "Rating": 4.52,
-  "Ranking_Rating": 496,
+  "Ranking_Rating": 497,
   "Ranking_Popularity": 282,
   "Ranking_PopularitySum": 226,
   "NumberOfRatings": 635,
-  "NumberOfAwards": 996,
+  "NumberOfAwards": 997,
   "NumberOfAwardsMax": 143,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:22:18.7941234+00:00",
-  "LastChanged": "2023-04-22T22:57:31.5562673+00:00",
+  "LastChanged": "2023-04-23T02:57:26.5268573+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:18.7941236+00:00",
@@ -1166,6 +1166,12 @@
       "Rating": 4.52,
       "NumberOfAwards": 996,
       "NumberOfAwardsMax": 143
+    },
+    {
+      "Time": "2023-04-23T02:57:26.5268575+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 997,
+      "NumberOfAwardsMax": 143
     }
   ],
   "Tags": [
@@ -1209,7 +1215,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 105
+      "Count": 106
     },
     {
       "Text": "This game is Highly Recommended",

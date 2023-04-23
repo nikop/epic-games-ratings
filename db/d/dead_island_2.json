@@ -1,8 +1,8 @@
 {
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
-  "Rating": 4.52,
-  "Ranking_Rating": 496,
+  "Rating": 4.53,
+  "Ranking_Rating": 484,
   "Ranking_Popularity": 420,
   "Ranking_PopularitySum": 444,
   "NumberOfAwards": 35,
@@ -10,7 +10,7 @@
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
-  "LastChanged": "2023-04-22T21:57:37.5495248+00:00",
+  "LastChanged": "2023-04-23T02:57:25.9673177+00:00",
   "RatingHistory": [
     {
       "Time": "2023-04-21T14:57:30.4641621+00:00",
@@ -51,6 +51,12 @@
     {
       "Time": "2023-04-22T21:57:37.549525+00:00",
       "Rating": 4.52,
+      "NumberOfAwards": 35,
+      "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-04-23T02:57:25.9673179+00:00",
+      "Rating": 4.53,
       "NumberOfAwards": 35,
       "NumberOfAwardsMax": 35
     }
