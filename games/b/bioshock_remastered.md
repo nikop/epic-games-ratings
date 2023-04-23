@@ -1,5 +1,5 @@
 # BioShock Remastered
-Rating: 4.64 (Ranked 309)  
+Rating: 4.64 (Ranked 310)  
 Number of Ratings: 24,195  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 5,893  (Ranked 54)  
