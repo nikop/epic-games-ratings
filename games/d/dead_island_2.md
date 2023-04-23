@@ -1,5 +1,5 @@
 # Dead Island 2
-Rating: 4.54 (Ranked 472)  
+Rating: 4.53 (Ranked 484)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 35  (Ranked 420)  
 Sum: 35 (Ranked 444)  

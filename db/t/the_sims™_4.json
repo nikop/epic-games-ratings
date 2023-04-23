@@ -5,12 +5,12 @@
   "Ranking_Rating": 374,
   "Ranking_Popularity": 302,
   "Ranking_PopularitySum": 249,
-  "NumberOfAwards": 750,
+  "NumberOfAwards": 752,
   "NumberOfAwardsMax": 114,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-04-22T20:57:03.1499057+00:00",
+  "LastChanged": "2023-04-23T08:56:55.0666497+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-05T14:56:53.5654686+00:00",
@@ -927,6 +927,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 750,
       "NumberOfAwardsMax": 114
+    },
+    {
+      "Time": "2023-04-23T08:56:55.0666499+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 752,
+      "NumberOfAwardsMax": 114
     }
   ],
   "Tags": [
@@ -994,7 +1000,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 47
+      "Count": 49
     }
   ]
 }
