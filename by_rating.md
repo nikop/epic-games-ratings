@@ -194,7 +194,7 @@
 | 192 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 0 | 486 |
 | 192 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,488 | 67 |
 | 192 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 0 | 486 |
-| 192 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,098 | 70 |
+| 192 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,103 | 70 |
 | 192 | [For The King](games/f/for_the_king.md) | 4.70 | 359 | 205 |
 | 192 | [House Flipper](games/h/house_flipper.md) | 4.70 | 280 | 224 |
 | 192 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 50 | 379 |
@@ -553,7 +553,7 @@
 | 540 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 2,205 | 97 |
 | 540 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 486 |
 | 540 | [Maneater](games/m/maneater.md) | 4.49 | 13,396 | 24 |
-| 540 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 607 | 161 |
+| 540 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 608 | 161 |
 | 540 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 486 |
 | 540 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.49 | 0 | 486 |
 | 540 | [Solitairica](games/s/solitairica.md) | 4.49 | 81 | 339 |
@@ -693,20 +693,20 @@
 | 691 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.37 | 0 | 486 |
 | 691 | [Core](games/c/core.md) | 4.37 | 724 | 150 |
 | 691 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 486 |
+| 691 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 12,241 | 27 |
 | 691 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 0 | 486 |
 | 691 | [Hammerting](games/h/hammerting.md) | 4.37 | 0 | 486 |
-| 691 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,129 | 100 |
+| 691 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,130 | 100 |
 | 691 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 486 |
 | 691 | [Tunche](games/t/tunche.md) | 4.37 | 0 | 486 |
-| 699 | [Among Trees](games/a/among_trees.md) | 4.36 | 0 | 486 |
-| 699 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 267 |
-| 699 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 48 | 386 |
-| 699 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,235 | 27 |
-| 699 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 486 |
-| 699 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 459 |
-| 699 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 47 | 389 |
-| 699 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 0 | 486 |
-| 699 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 486 |
+| 700 | [Among Trees](games/a/among_trees.md) | 4.36 | 0 | 486 |
+| 700 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 267 |
+| 700 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 48 | 386 |
+| 700 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 486 |
+| 700 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 459 |
+| 700 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 47 | 389 |
+| 700 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 0 | 486 |
+| 700 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 486 |
 | 708 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 486 |
 | 708 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 90 | 330 |
 | 708 | [Encased](games/e/encased.md) | 4.35 | 123 | 293 |
@@ -768,7 +768,7 @@
 | 764 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 0 | 486 |
 | 764 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 0 | 486 |
 | 764 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 297 | 223 |
-| 769 | [EVE Online](games/e/eve_online.md) | 4.26 | 1,007 | 132 |
+| 769 | [EVE Online](games/e/eve_online.md) | 4.26 | 1,009 | 132 |
 | 769 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.26 | 0 | 486 |
 | 769 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 486 |
 | 769 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 486 |

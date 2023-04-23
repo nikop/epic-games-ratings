@@ -4,13 +4,13 @@
   "Rating": 4.52,
   "Ranking_Rating": 497,
   "Ranking_Popularity": 282,
-  "Ranking_PopularitySum": 226,
+  "Ranking_PopularitySum": 232,
   "NumberOfRatings": 635,
-  "NumberOfAwards": 999,
+  "NumberOfAwards": 871,
   "NumberOfAwardsMax": 143,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:22:18.7941234+00:00",
-  "LastChanged": "2023-04-23T11:57:43.2388294+00:00",
+  "LastChanged": "2023-04-23T13:57:11.8651657+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:18.7941236+00:00",
@@ -1183,6 +1183,12 @@
       "Time": "2023-04-23T11:57:43.2388296+00:00",
       "Rating": 4.52,
       "NumberOfAwards": 999,
+      "NumberOfAwardsMax": 143
+    },
+    {
+      "Time": "2023-04-23T13:57:11.8651658+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 871,
       "NumberOfAwardsMax": 143
     }
   ],

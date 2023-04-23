@@ -1,16 +1,12 @@
-# ZOMBI
-Rating: 4.36 (Ranked 700)  
+# Painting Werther
+Rating: - (Ranked -)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 486)  
-Sum: 0 (Ranked 486)  
-Diff (max vs sum): 0
+Max (): -  (Ranked -)  
+Sum: - (Ranked -)  
+Diff (max vs sum): -
 ## Awards
 | Award | Count |
 | ----- | ----- |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
-| 2022-11-04 | 4.35 | - | - |
-| 2023-03-08 | 4.38 | - | - |
-| 2023-03-18 | 4.36 | - | - |
-| 2023-03-31 | 4.36 | 0 | 0 |

@@ -25,7 +25,7 @@
 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 776 | 31 | 436 |
 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 441 | 0 | 486 |
 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 746 | 0 | 486 |
-| [Among Trees](games/a/among_trees.md) | 4.36 | 699 | 0 | 486 |
+| [Among Trees](games/a/among_trees.md) | 4.36 | 700 | 0 | 486 |
 | [Among Us](games/a/among_us.md) | 4.58 | 408 | 2,373 | 92 |
 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 389 | 44 | 398 |
 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 879 | 45 | 393 |
@@ -149,7 +149,7 @@
 | [Crayta](games/c/crayta.md) | 4.19 | 808 | 50 | 379 |
 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.27 | 764 | 22 | 467 |
 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.92 | 882 | 170 | 267 |
-| [Cris Tales](games/c/cris_tales.md) | 4.36 | 699 | 170 | 267 |
+| [Cris Tales](games/c/cris_tales.md) | 4.36 | 700 | 170 | 267 |
 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 708 | 90 | 330 |
 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 524 | 209 | 250 |
 | [CryoFall](games/c/cryofall.md) | 4.50 | 524 | 0 | 486 |
@@ -209,7 +209,7 @@
 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 78 | 313 | 216 |
 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 630 | 22 | 467 |
 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 114 | 820 | 144 |
-| [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 699 | 48 | 386 |
+| [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 700 | 48 | 386 |
 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 18 | 0 | 486 |
 | [DOOM (1993)](games/d/doom_(1993).md) | 4.81 | 72 | 32 | 430 |
 | [DOOM 3](games/d/doom_3.md) | 4.61 | 348 | 65 | 365 |
@@ -232,9 +232,9 @@
 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 37 | 7,479 | 41 |
 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 560 | 0 | 486 |
 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 234 | 5,079 | 60 |
-| [EVE Online](games/e/eve_online.md) | 4.26 | 769 | 1,007 | 132 |
+| [EVE Online](games/e/eve_online.md) | 4.26 | 769 | 1,009 | 132 |
 | [Everything](games/e/everything.md) | 4.57 | 423 | 0 | 486 |
-| [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 699 | 12,235 | 27 |
+| [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 691 | 12,241 | 27 |
 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 7 | 0 | 486 |
 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 540 | 271 | 228 |
 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.19 | 808 | 0 | 486 |
@@ -262,7 +262,7 @@
 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 178 | 0 | 486 |
 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.18 | 814 | 0 | 486 |
 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 178 | 6,160 | 51 |
-| [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 192 | 4,098 | 70 |
+| [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 192 | 4,103 | 70 |
 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 885 | 103 | 312 |
 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 441 | 27 | 448 |
 | [Fez](games/f/fez.md) | 4.71 | 178 | 23 | 463 |
@@ -372,7 +372,7 @@
 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 348 | 344 | 206 |
 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 797 | 22 | 467 |
 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 49 | 405 | 193 |
-| [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 691 | 2,129 | 100 |
+| [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 691 | 2,130 | 100 |
 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 671 | 0 | 486 |
 | [Ironcast](games/i/ironcast.md) | 3.92 | 882 | 0 | 486 |
 | [Isonzo](games/i/isonzo.md) | 4.56 | 441 | 30 | 439 |
@@ -468,9 +468,9 @@
 | [Moving Out](games/m/moving_out.md) | 4.59 | 389 | 0 | 486 |
 | [MudRunner](games/m/mudrunner.md) | 4.62 | 335 | 229 | 240 |
 | [MultiVersus](games/m/multiversus.md) | 4.56 | 441 | 4,734 | 64 |
-| [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 540 | 607 | 161 |
+| [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 540 | 608 | 161 |
 | [Mutazione](games/m/mutazione.md) | 4.64 | 310 | 0 | 486 |
-| [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 699 | 0 | 486 |
+| [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 700 | 0 | 486 |
 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 253 | 2,209 | 95 |
 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 234 | 550 | 169 |
 | [MythForce](games/m/mythforce.md) | 4.51 | 509 | 32 | 430 |
@@ -668,7 +668,7 @@
 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 896 | 0 | 486 |
 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 114 | 0 | 486 |
 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 663 | 0 | 486 |
-| [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 699 | 25 | 459 |
+| [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 700 | 25 | 459 |
 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 18 | 22 | 467 |
 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.60 | 374 | 0 | 486 |
 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 234 | 30 | 439 |
@@ -689,7 +689,7 @@
 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 788 | 201 | 253 |
 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 178 | 0 | 486 |
 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 524 | 751 | 147 |
-| [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 699 | 47 | 389 |
+| [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 700 | 47 | 389 |
 | [Submerged](games/s/submerged.md) | 4.09 | 850 | 0 | 486 |
 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 776 | 45 | 393 |
 | [Subnautica](games/s/subnautica.md) | 4.84 | 49 | 645 | 158 |
@@ -841,7 +841,7 @@
 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 769 | 0 | 486 |
 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 389 | 690 | 153 |
 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 141 | 576 | 166 |
-| [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 699 | 0 | 486 |
+| [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 700 | 0 | 486 |
 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 323 | 0 | 486 |
 | [UnMetal](games/u/unmetal.md) | 4.52 | 497 | 0 | 486 |
 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 540 | 0 | 486 |
@@ -900,5 +900,5 @@
 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 683 | 31 | 436 |
 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 211 | 0 | 486 |
 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 234 | 0 | 486 |
-| [ZOMBI](games/z/zombi.md) | 4.36 | 699 | 0 | 486 |
+| [ZOMBI](games/z/zombi.md) | 4.36 | 700 | 0 | 486 |
 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 211 | 764 | 146 |

@@ -26,7 +26,7 @@
 | 24 | [Maneater](games/m/maneater.md) | 13,396 | 4.49 | 540 |
 | 25 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,184 | 4.60 | 374 |
 | 26 | [League of Legends](games/l/league_of_legends.md) | 12,651 | 4.21 | 793 |
-| 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,235 | 4.36 | 699 |
+| 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,241 | 4.37 | 691 |
 | 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,800 | 4.41 | 651 |
 | 29 | [NBA 2K21](games/n/nba_2k21.md) | 11,639 | 4.39 | 671 |
 | 30 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 11,466 | 4.60 | 374 |
@@ -69,7 +69,7 @@
 | 67 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,488 | 4.70 | 192 |
 | 68 | [Cities: Skylines](games/c/cities__skylines.md) | 4,324 | 4.65 | 287 |
 | 69 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,196 | 4.69 | 211 |
-| 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,098 | 4.70 | 192 |
+| 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,103 | 4.70 | 192 |
 | 71 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,064 | 4.51 | 509 |
 | 72 | [Chivalry 2](games/c/chivalry_2.md) | 3,975 | 4.61 | 348 |
 | 73 | [God of War](games/g/god_of_war.md) | 3,942 | 4.89 | 12 |
@@ -99,7 +99,7 @@
 | 97 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,205 | 4.49 | 540 |
 | 98 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,158 | 4.41 | 651 |
 | 99 | [Gotham Knights](games/g/gotham_knights.md) | 2,148 | 4.17 | 819 |
-| 100 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,129 | 4.37 | 691 |
+| 100 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,130 | 4.37 | 691 |
 | 101 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,073 | 4.63 | 323 |
 | 102 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,968 | 4.49 | 540 |
 | 103 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,864 | 4.65 | 287 |
@@ -131,7 +131,7 @@
 | 129 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,030 | 4.66 | 271 |
 | 130 | [Saints Row](games/s/saints_row.md) | 1,019 | 3.78 | 895 |
 | 131 | [World of Warships](games/w/world_of_warships.md) | 1,010 | 4.44 | 615 |
-| 132 | [EVE Online](games/e/eve_online.md) | 1,007 | 4.26 | 769 |
+| 132 | [EVE Online](games/e/eve_online.md) | 1,009 | 4.26 | 769 |
 | 133 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,000 | 4.54 | 472 |
 | 134 | [Ooblets](games/o/ooblets.md) | 997 | 4.87 | 24 |
 | 135 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 987 | 4.79 | 92 |
@@ -160,7 +160,7 @@
 | 158 | [Subnautica](games/s/subnautica.md) | 645 | 4.84 | 49 |
 | 159 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 639 | 4.50 | 524 |
 | 160 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 638 | 4.67 | 253 |
-| 161 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 607 | 4.49 | 540 |
+| 161 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 608 | 4.49 | 540 |
 | 162 | [Dark Deity](games/d/dark_deity.md) | 605 | 4.16 | 824 |
 | 163 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 588 | 4.61 | 348 |
 | 164 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 581 | 4.74 | 141 |
@@ -267,7 +267,7 @@
 | 265 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 176 | 4.41 | 651 |
 | 266 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 175 | 4.21 | 793 |
 | 267 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 170 | 3.92 | 882 |
-| 267 | [Cris Tales](games/c/cris_tales.md) | 170 | 4.36 | 699 |
+| 267 | [Cris Tales](games/c/cris_tales.md) | 170 | 4.36 | 700 |
 | 267 | [Space Punks](games/s/space_punks.md) | 170 | 4.16 | 824 |
 | 270 | [Pinball FX](games/p/pinball_fx.md) | 169 | 4.03 | 865 |
 | 271 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 168 | 4.30 | 746 |
@@ -385,10 +385,10 @@
 | 379 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 50 | 4.65 | 287 |
 | 379 | [The Escapists 2](games/t/the_escapists_2.md) | 50 | 4.58 | 408 |
 | 385 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 49 | 4.33 | 724 |
-| 386 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 48 | 4.36 | 699 |
+| 386 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 48 | 4.36 | 700 |
 | 386 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 48 | 4.65 | 287 |
 | 386 | [Session: Skate Sim](games/s/session__skate_sim.md) | 48 | 4.65 | 287 |
-| 389 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 47 | 4.36 | 699 |
+| 389 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 47 | 4.36 | 700 |
 | 389 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 47 | 4.56 | 441 |
 | 391 | [ATOM RPG](games/a/atom_rpg.md) | 46 | 4.45 | 596 |
 | 391 | [AXIOM VERGE](games/a/axiom_verge.md) | 46 | 4.56 | 441 |
@@ -459,7 +459,7 @@
 | 454 | [The Surge](games/t/the_surge.md) | 26 | 4.46 | 583 |
 | 454 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 26 | 4.81 | 72 |
 | 459 | [DOOM II](games/d/doom_ii.md) | 25 | 4.73 | 155 |
-| 459 | [Spirit of the North](games/s/spirit_of_the_north.md) | 25 | 4.36 | 699 |
+| 459 | [Spirit of the North](games/s/spirit_of_the_north.md) | 25 | 4.36 | 700 |
 | 461 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 24 | 4.75 | 126 |
 | 461 | [Solar Ash](games/s/solar_ash.md) | 24 | 4.66 | 271 |
 | 463 | [ELEX](games/e/elex.md) | 23 | 4.42 | 638 |
