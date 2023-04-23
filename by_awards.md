@@ -62,7 +62,7 @@
 | 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,079 | 4.68 | 235 |
 | 61 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,846 | 4.06 | 860 |
 | 62 | [Rogue Company](games/r/rogue_company.md) | 4,823 | 4.34 | 717 |
-| 63 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4,739 | 4.75 | 126 |
+| 63 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4,749 | 4.75 | 126 |
 | 64 | [MultiVersus](games/m/multiversus.md) | 4,734 | 4.56 | 441 |
 | 65 | [DEATH STRANDING](games/d/death_stranding.md) | 4,575 | 4.78 | 101 |
 | 66 | [Shop Titans](games/s/shop_titans.md) | 4,533 | 3.98 | 874 |
@@ -130,7 +130,7 @@
 | 128 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,058 | 4.61 | 349 |
 | 129 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,030 | 4.66 | 272 |
 | 130 | [Saints Row](games/s/saints_row.md) | 1,019 | 3.78 | 895 |
-| 131 | [World of Warships](games/w/world_of_warships.md) | 1,008 | 4.44 | 615 |
+| 131 | [World of Warships](games/w/world_of_warships.md) | 1,010 | 4.44 | 615 |
 | 132 | [EVE Online](games/e/eve_online.md) | 1,007 | 4.26 | 769 |
 | 133 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,000 | 4.54 | 472 |
 | 134 | [Ooblets](games/o/ooblets.md) | 997 | 4.87 | 24 |
@@ -151,7 +151,7 @@
 | 149 | [The Long Dark](games/t/the_long_dark.md) | 743 | 4.74 | 141 |
 | 150 | [Auto Chess](games/a/auto_chess.md) | 733 | 4.52 | 497 |
 | 151 | [Core](games/c/core.md) | 724 | 4.37 | 692 |
-| 152 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 720 | 4.56 | 441 |
+| 152 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 721 | 4.56 | 441 |
 | 153 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 690 | 4.59 | 389 |
 | 154 | [Disco Elysium](games/d/disco_elysium.md) | 684 | 4.86 | 28 |
 | 155 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 672 | 4.44 | 615 |
@@ -182,7 +182,7 @@
 | 180 | [FAR CRY 4](games/f/far_cry_4.md) | 495 | 4.66 | 272 |
 | 181 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 493 | 4.74 | 141 |
 | 182 | [Terraforming Mars](games/t/terraforming_mars.md) | 490 | 4.54 | 472 |
-| 183 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 476 | 4.82 | 60 |
+| 183 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 478 | 4.82 | 60 |
 | 184 | [Unreal Tournament](games/u/unreal_tournament.md) | 457 | 4.66 | 272 |
 | 185 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 452 | 4.86 | 28 |
 | 186 | [Ghostrunner](games/g/ghostrunner.md) | 451 | 4.72 | 165 |
@@ -351,7 +351,7 @@
 | 349 | [Rising Hell](games/r/rising_hell.md) | 73 | 4.40 | 663 |
 | 350 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 72 | 4.20 | 797 |
 | 350 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 72 | 4.41 | 652 |
-| 352 | [Armored Warfare](games/a/armored_warfare.md) | 71 | 4.11 | 843 |
+| 352 | [Armored Warfare](games/a/armored_warfare.md) | 71 | 4.11 | 844 |
 | 352 | [Carcassonne](games/c/carcassonne.md) | 71 | 4.67 | 254 |
 | 352 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 71 | 4.62 | 335 |
 | 355 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 70 | 4.32 | 733 |
@@ -429,7 +429,7 @@
 | 427 | [DEATHLOOP](games/d/deathloop.md) | 33 | 4.54 | 472 |
 | 427 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 33 | 4.20 | 797 |
 | 427 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 33 | 4.82 | 60 |
-| 430 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 32 | 4.12 | 839 |
+| 430 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 32 | 4.12 | 840 |
 | 430 | [Chorus](games/c/chorus.md) | 32 | 4.47 | 570 |
 | 430 | [DOOM (1993)](games/d/doom_(1993).md) | 32 | 4.81 | 72 |
 | 430 | [MythForce](games/m/mythforce.md) | 32 | 4.51 | 509 |

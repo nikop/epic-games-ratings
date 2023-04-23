@@ -66,7 +66,7 @@
 | 60 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 486 |
 | 60 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 486 |
 | 60 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 0 | 486 |
-| 60 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 476 | 183 |
+| 60 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 478 | 183 |
 | 60 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 112 | 306 |
 | 60 | [Sifu](games/s/sifu.md) | 4.82 | 5,970 | 53 |
 | 60 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 33 | 427 |
@@ -126,7 +126,7 @@
 | 114 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 7,666 | 39 |
 | 114 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 486 |
 | 126 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 461 |
-| 126 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,739 | 63 |
+| 126 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,749 | 63 |
 | 126 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,157 | 83 |
 | 126 | [Diabotical](games/d/diabotical.md) | 4.75 | 265 | 232 |
 | 126 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 379 | 201 |
@@ -447,7 +447,7 @@
 | 441 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 50 | 379 |
 | 441 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 0 | 486 |
 | 441 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.56 | 34 | 425 |
-| 441 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 720 | 152 |
+| 441 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 721 | 152 |
 | 441 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 27 | 448 |
 | 441 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 0 | 486 |
 | 441 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 132 | 287 |
@@ -628,7 +628,7 @@
 | 615 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 319 |
 | 615 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 0 | 486 |
 | 615 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 372 |
-| 615 | [World of Warships](games/w/world_of_warships.md) | 4.44 | 1,008 | 131 |
+| 615 | [World of Warships](games/w/world_of_warships.md) | 4.44 | 1,010 | 131 |
 | 630 | [Death Coming](games/d/death_coming.md) | 4.43 | 0 | 486 |
 | 630 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 22 | 467 |
 | 630 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 0 | 486 |
@@ -833,18 +833,18 @@
 | 830 | [Pine](games/p/pine.md) | 4.15 | 0 | 486 |
 | 830 | [Relicta](games/r/relicta.md) | 4.15 | 193 | 256 |
 | 830 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 486 |
+| 834 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.14 | 0 | 486 |
 | 834 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 486 |
 | 834 | [Train Valley 2](games/t/train_valley_2.md) | 4.14 | 69 | 356 |
 | 834 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 0 | 486 |
-| 837 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 486 |
-| 837 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 0 | 486 |
-| 839 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 0 | 486 |
-| 839 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.12 | 32 | 430 |
-| 839 | [Forspoken](games/f/forspoken.md) | 4.12 | 0 | 486 |
-| 839 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.12 | 0 | 486 |
-| 843 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 71 | 352 |
-| 843 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.11 | 0 | 486 |
-| 843 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.11 | 0 | 486 |
+| 838 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 486 |
+| 838 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 0 | 486 |
+| 840 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 0 | 486 |
+| 840 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.12 | 32 | 430 |
+| 840 | [Forspoken](games/f/forspoken.md) | 4.12 | 0 | 486 |
+| 840 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.12 | 0 | 486 |
+| 844 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 71 | 352 |
+| 844 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.11 | 0 | 486 |
 | 846 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 0 | 486 |
 | 846 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 486 |
 | 846 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 377 |
