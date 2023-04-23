@@ -13,7 +13,7 @@
 | 11 | [VALORANT](games/v/valorant.md) | 49,655 | 4.54 | 472 |
 | 12 | [Destiny 2](games/d/destiny_2.md) | 33,147 | 4.50 | 524 |
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 29,864 | 4.74 | 141 |
-| 14 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,377 | 4.65 | 287 |
+| 14 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,383 | 4.65 | 287 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 26,703 | 4.52 | 497 |
 | 16 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 22,288 | 4.57 | 423 |
 | 17 | [Dauntless](games/d/dauntless.md) | 19,538 | 4.53 | 484 |
@@ -24,15 +24,15 @@
 | 22 | [Warframe](games/w/warframe.md) | 14,185 | 4.61 | 349 |
 | 23 | [Borderlands 2](games/b/borderlands_2.md) | 13,981 | 4.76 | 114 |
 | 24 | [Maneater](games/m/maneater.md) | 13,396 | 4.49 | 540 |
-| 25 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,177 | 4.60 | 374 |
+| 25 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,184 | 4.60 | 374 |
 | 26 | [League of Legends](games/l/league_of_legends.md) | 12,651 | 4.21 | 793 |
 | 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,235 | 4.36 | 699 |
 | 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,800 | 4.41 | 652 |
 | 29 | [NBA 2K21](games/n/nba_2k21.md) | 11,639 | 4.39 | 671 |
 | 30 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 11,466 | 4.60 | 374 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,305 | 4.87 | 24 |
-| 32 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,173 | 4.69 | 212 |
-| 33 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 9,936 | 4.45 | 596 |
+| 32 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,176 | 4.69 | 212 |
+| 33 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 9,945 | 4.45 | 596 |
 | 34 | [Satisfactory](games/s/satisfactory.md) | 9,109 | 4.88 | 18 |
 | 35 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 8,967 | 4.60 | 374 |
 | 36 | [HITMAN 3](games/h/hitman_3.md) | 8,690 | 4.78 | 101 |
@@ -55,7 +55,7 @@
 | 53 | [Sifu](games/s/sifu.md) | 5,970 | 4.82 | 60 |
 | 54 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,889 | 4.64 | 311 |
 | 55 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,805 | 4.79 | 92 |
-| 56 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,742 | 4.66 | 272 |
+| 56 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,743 | 4.66 | 272 |
 | 57 | [Prey](games/p/prey.md) | 5,506 | 4.62 | 335 |
 | 58 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,446 | 4.85 | 37 |
 | 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,432 | 4.82 | 60 |
@@ -132,8 +132,8 @@
 | 130 | [Saints Row](games/s/saints_row.md) | 1,019 | 3.78 | 895 |
 | 131 | [World of Warships](games/w/world_of_warships.md) | 1,008 | 4.44 | 615 |
 | 132 | [EVE Online](games/e/eve_online.md) | 1,007 | 4.26 | 769 |
-| 133 | [Ooblets](games/o/ooblets.md) | 997 | 4.87 | 24 |
-| 134 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 992 | 4.54 | 472 |
+| 133 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,000 | 4.54 | 472 |
+| 134 | [Ooblets](games/o/ooblets.md) | 997 | 4.87 | 24 |
 | 135 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 987 | 4.79 | 92 |
 | 136 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 981 | 4.23 | 786 |
 | 137 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 975 | 4.40 | 663 |
@@ -229,7 +229,7 @@
 | 227 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 272 | 4.61 | 349 |
 | 228 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 271 | 4.49 | 540 |
 | 228 | [Railway Empire](games/r/railway_empire.md) | 271 | 4.51 | 509 |
-| 230 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 268 | 4.53 | 484 |
+| 230 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 269 | 4.53 | 484 |
 | 231 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 266 | 4.61 | 349 |
 | 232 | [Diabotical](games/d/diabotical.md) | 265 | 4.75 | 126 |
 | 233 | [Sheltered](games/s/sheltered.md) | 264 | 4.42 | 637 |

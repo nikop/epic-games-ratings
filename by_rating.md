@@ -26,7 +26,7 @@
 | 24 | [Black Book](games/b/black_book.md) | 4.87 | 21 | 473 |
 | 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,366 | 116 |
 | 24 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,305 | 31 |
-| 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 997 | 133 |
+| 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 997 | 134 |
 | 28 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 486 |
 | 28 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 138 | 285 |
 | 28 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 684 | 154 |
@@ -221,7 +221,7 @@
 | 212 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,170 | 122 |
 | 212 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 486 |
 | 212 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 486 |
-| 212 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,173 | 32 |
+| 212 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,176 | 32 |
 | 212 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 448 |
 | 212 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.69 | 0 | 486 |
 | 212 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 0 | 486 |
@@ -284,7 +284,7 @@
 | 272 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 24 | 461 |
 | 272 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 404 | 193 |
 | 272 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.66 | 0 | 486 |
-| 272 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,742 | 56 |
+| 272 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,743 | 56 |
 | 272 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 457 | 184 |
 | 287 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 486 |
 | 287 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,318 | 68 |
@@ -304,7 +304,7 @@
 | 287 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 50 | 379 |
 | 287 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 486 |
 | 287 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.65 | 48 | 386 |
-| 287 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,377 | 14 |
+| 287 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,383 | 14 |
 | 287 | [SOMA](games/s/soma.md) | 4.65 | 0 | 486 |
 | 287 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.65 | 0 | 486 |
 | 287 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.65 | 0 | 486 |
@@ -375,7 +375,7 @@
 | 349 | [Warframe](games/w/warframe.md) | 4.61 | 14,185 | 22 |
 | 374 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,466 | 30 |
 | 374 | [Control](games/c/control.md) | 4.60 | 8,234 | 37 |
-| 374 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,177 | 25 |
+| 374 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,184 | 25 |
 | 374 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 117 | 297 |
 | 374 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 36 | 414 |
 | 374 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 552 | 168 |
@@ -472,7 +472,7 @@
 | 463 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 821 | 144 |
 | 463 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.55 | 32 | 430 |
 | 472 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 427 |
-| 472 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 992 | 134 |
+| 472 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,000 | 133 |
 | 472 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 192 | 257 |
 | 472 | [IXION](games/i/ixion.md) | 4.54 | 0 | 486 |
 | 472 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 86 | 334 |
@@ -494,7 +494,7 @@
 | 484 | [RUINER](games/r/ruiner.md) | 4.53 | 23 | 463 |
 | 484 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 92 | 327 |
 | 484 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 486 |
-| 484 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 268 | 230 |
+| 484 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 269 | 230 |
 | 484 | [Verdun](games/v/verdun.md) | 4.53 | 93 | 326 |
 | 497 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 733 | 150 |
 | 497 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 38 | 409 |
@@ -604,7 +604,7 @@
 | 596 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 0 | 486 |
 | 596 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.45 | 0 | 486 |
 | 596 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 0 | 486 |
-| 596 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 9,936 | 33 |
+| 596 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 9,945 | 33 |
 | 596 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 37 | 411 |
 | 596 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 486 |
 | 596 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 846 | 143 |
