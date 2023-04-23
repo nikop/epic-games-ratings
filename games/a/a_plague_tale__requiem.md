@@ -2,7 +2,7 @@
 Rating: 4.74 (Ranked 141)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 398  (Ranked 196)  
-Sum: 553 (Ranked 283)  
+Sum: 554 (Ranked 283)  
 Diff (max vs sum): -87
 ## Awards
 | Award | Count |
@@ -13,7 +13,7 @@ Diff (max vs sum): -87
 | This game is Great for Beginners | 27 |
 | This game is Relaxing | 24 |
 | This game has Amazing Storytelling | 24 |
-| This game is Extremely Fun | 23 |
+| This game is Extremely Fun | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -43,3 +43,4 @@ Diff (max vs sum): -87
 | 2023-04-06 | 4.74 | 397 | 550 |
 | 2023-04-08 | 4.74 | 397 | 551 |
 | 2023-04-17 | 4.74 | 398 | 553 |
+| 2023-04-23 | 4.74 | 398 | 554 |
