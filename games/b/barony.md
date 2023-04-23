@@ -1,5 +1,5 @@
 # Barony
-Rating: 4.71 (Ranked 179)  
+Rating: 4.71 (Ranked 178)  
 Number of Ratings: 763  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 69  (Ranked 356)  

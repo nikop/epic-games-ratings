@@ -2,15 +2,15 @@
   "ID": "cf87285950ba492bbdc370b9d265ea36",
   "Name": "FAR CRY 4",
   "Rating": 4.66,
-  "Ranking_Rating": 272,
+  "Ranking_Rating": 271,
   "Ranking_Popularity": 180,
   "Ranking_PopularitySum": 256,
   "NumberOfRatings": 639,
-  "NumberOfAwards": 726,
+  "NumberOfAwards": 727,
   "NumberOfAwardsMax": 495,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:26:30.966572+00:00",
-  "LastChanged": "2023-04-21T14:57:53.8193616+00:00",
+  "LastChanged": "2023-04-23T09:57:49.2011508+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:30.9665724+00:00",
@@ -758,6 +758,12 @@
       "Rating": 4.66,
       "NumberOfAwards": 726,
       "NumberOfAwardsMax": 495
+    },
+    {
+      "Time": "2023-04-23T09:57:49.2011509+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 727,
+      "NumberOfAwardsMax": 495
     }
   ],
   "Tags": [
@@ -777,7 +783,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 38
+      "Count": 39
     },
     {
       "Text": "This game is Extremely Fun",

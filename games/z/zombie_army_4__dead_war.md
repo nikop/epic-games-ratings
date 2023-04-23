@@ -1,9 +1,9 @@
 # Zombie Army 4: Dead War
-Rating: 4.69 (Ranked 212)  
+Rating: 4.69 (Ranked 211)  
 Number of Ratings: 743  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 764  (Ranked 146)  
-Sum: 2,338 (Ranked 168)  
+Sum: 2,339 (Ranked 168)  
 Diff (max vs sum): -22
 ## Awards
 | Award | Count |
@@ -11,7 +11,7 @@ Diff (max vs sum): -22
 | This game has Great Boss Battles | 764 |
 | This game is Great for Beginners | 233 |
 | This game is Extremely Fun | 203 |
-| This game has Amazing Storytelling | 202 |
+| This game has Amazing Storytelling | 203 |
 | This game is Highly Recommended | 201 |
 | This game has Quickly Understood Controls | 191 |
 | This game has Diverse Characters | 191 |
@@ -119,3 +119,4 @@ Diff (max vs sum): -22
 | 2023-04-17 | 4.69 | - | 764 | 2,336 |
 | 2023-04-18 | 4.69 | - | 764 | 2,337 |
 | 2023-04-19 | 4.69 | - | 764 | 2,338 |
+| 2023-04-23 | 4.69 | - | 764 | 2,339 |

@@ -1,15 +1,15 @@
 # FAR CRY 4
-Rating: 4.66 (Ranked 272)  
+Rating: 4.66 (Ranked 271)  
 Number of Ratings: 639  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 495  (Ranked 180)  
-Sum: 726 (Ranked 256)  
+Sum: 727 (Ranked 256)  
 Diff (max vs sum): -76
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 495 |
-| This game is Great for Beginners | 38 |
+| This game is Great for Beginners | 39 |
 | This game has Quickly Understood Controls | 33 |
 | This game has Challenging Combat | 29 |
 | This game is Extremely Fun | 27 |
@@ -115,3 +115,4 @@ Diff (max vs sum): -76
 | 2023-04-19 | 4.66 | - | 489 | 718 |
 | 2023-04-20 | 4.66 | - | 491 | 721 |
 | 2023-04-21 | 4.66 | - | 495 | 726 |
+| 2023-04-23 | 4.66 | - | 495 | 727 |

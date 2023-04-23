@@ -1,5 +1,5 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
-Rating: 4.66 (Ranked 272)  
+Rating: 4.66 (Ranked 271)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 25  (Ranked 458)  
 Sum: 25 (Ranked 463)  

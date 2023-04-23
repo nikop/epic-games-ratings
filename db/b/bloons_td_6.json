@@ -3,15 +3,15 @@
   "Name": "Bloons TD 6",
   "Rating": 4.77,
   "Ranking_Rating": 106,
-  "Ranking_Popularity": 91,
+  "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 61,
   "NumberOfRatings": 136,
-  "NumberOfAwards": 14445,
-  "NumberOfAwardsMax": 2404,
+  "NumberOfAwards": 14468,
+  "NumberOfAwardsMax": 2422,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-23T14:00:48.5667099+00:00",
   "FirstSeenRating": "2022-08-21T19:00:52.0889932+00:00",
-  "LastChanged": "2023-04-23T07:57:20.2625783+00:00",
+  "LastChanged": "2023-04-23T09:56:58.1687794+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-21T19:00:52.0889936+00:00",
@@ -1640,6 +1640,12 @@
       "Rating": 4.77,
       "NumberOfAwards": 14445,
       "NumberOfAwardsMax": 2404
+    },
+    {
+      "Time": "2023-04-23T09:56:58.1687795+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 14468,
+      "NumberOfAwardsMax": 2422
     }
   ],
   "Tags": [
@@ -1683,7 +1689,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 2404
+      "Count": 2422
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1707,7 +1713,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1083
+      "Count": 1088
     },
     {
       "Text": "This game has a Creative Community",

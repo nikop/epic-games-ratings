@@ -1,5 +1,5 @@
 # Dungeons 3
-Rating: 4.65 (Ranked 288)  
+Rating: 4.65 (Ranked 287)  
 Number of Ratings: 1,635  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 317  (Ranked 214)  
