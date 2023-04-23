@@ -3,14 +3,14 @@
   "Name": "Jotun: Valhalla Edition",
   "Rating": 4.41,
   "Ranking_Rating": 651,
-  "Ranking_Popularity": 328,
+  "Ranking_Popularity": 326,
   "Ranking_PopularitySum": 396,
   "NumberOfRatings": 758,
-  "NumberOfAwards": 92,
-  "NumberOfAwardsMax": 92,
+  "NumberOfAwards": 94,
+  "NumberOfAwardsMax": 94,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:29:06.202912+00:00",
-  "LastChanged": "2022-12-21T22:58:05.3609854+00:00",
+  "LastChanged": "2023-04-23T18:58:39.9785321+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:06.2029125+00:00",
@@ -437,6 +437,12 @@
     {
       "Time": "2022-12-21T22:58:05.3609855+00:00",
       "Rating": 4.41
+    },
+    {
+      "Time": "2023-04-23T18:58:39.9785322+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 94,
+      "NumberOfAwardsMax": 94
     }
   ],
   "Tags": [
@@ -444,7 +450,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 92
+      "Count": 94
     }
   ]
 }
