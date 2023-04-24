@@ -3,14 +3,14 @@
   "Name": "The Cycle: Frontier",
   "Rating": 4.1,
   "Ranking_Rating": 846,
-  "Ranking_Popularity": 96,
+  "Ranking_Popularity": 95,
   "Ranking_PopularitySum": 60,
   "NumberOfRatings": 15671,
-  "NumberOfAwards": 14603,
-  "NumberOfAwardsMax": 2212,
-  "MaxAwardTitle": "Competitive Players",
+  "NumberOfAwards": 14617,
+  "NumberOfAwardsMax": 2214,
+  "MaxAwardTitle": "Challenging Combat",
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "LastChanged": "2023-04-23T22:57:22.6409596+00:00",
+  "LastChanged": "2023-04-24T13:04:31.4555346+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:03.6642348+00:00",
@@ -3842,6 +3842,12 @@
       "Rating": 4.1,
       "NumberOfAwards": 14603,
       "NumberOfAwardsMax": 2212
+    },
+    {
+      "Time": "2023-04-24T13:04:31.4555348+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 14617,
+      "NumberOfAwardsMax": 2214
     }
   ],
   "Tags": [
@@ -3873,13 +3879,13 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 2207
+      "Count": 2214
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 1780
+      "Count": 1787
     },
     {
       "Text": "This game has Amazing Storytelling",

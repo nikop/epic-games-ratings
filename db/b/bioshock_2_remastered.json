@@ -6,11 +6,11 @@
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 118,
   "NumberOfRatings": 12272,
-  "NumberOfAwards": 5196,
-  "NumberOfAwardsMax": 4064,
+  "NumberOfAwards": 5200,
+  "NumberOfAwardsMax": 4068,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:29:15.5533471+00:00",
-  "LastChanged": "2023-04-22T17:58:21.4082267+00:00",
+  "LastChanged": "2023-04-24T13:06:00.7276646+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:15.5533474+00:00",
@@ -1916,6 +1916,12 @@
       "Rating": 4.51,
       "NumberOfAwards": 5196,
       "NumberOfAwardsMax": 4064
+    },
+    {
+      "Time": "2023-04-24T13:06:00.7276647+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 5200,
+      "NumberOfAwardsMax": 4068
     }
   ],
   "Tags": [
@@ -1923,7 +1929,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 4064
+      "Count": 4068
     },
     {
       "Text": "This game is Highly Recommended",

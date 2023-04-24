@@ -49,7 +49,7 @@
 | 47 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,544 | 4.47 | 571 |
 | 48 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 6,475 | 4.67 | 254 |
 | 49 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,420 | 4.74 | 141 |
-| 50 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,240 | 4.80 | 78 |
+| 50 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,242 | 4.80 | 78 |
 | 51 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,160 | 4.71 | 178 |
 | 52 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 5,993 | 4.58 | 408 |
 | 53 | [Sifu](games/s/sifu.md) | 5,982 | 4.82 | 60 |
@@ -63,14 +63,14 @@
 | 61 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,848 | 4.06 | 859 |
 | 62 | [Rogue Company](games/r/rogue_company.md) | 4,828 | 4.34 | 717 |
 | 63 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4,766 | 4.75 | 126 |
-| 64 | [MultiVersus](games/m/multiversus.md) | 4,734 | 4.56 | 442 |
-| 65 | [DEATH STRANDING](games/d/death_stranding.md) | 4,585 | 4.78 | 100 |
+| 64 | [MultiVersus](games/m/multiversus.md) | 4,736 | 4.56 | 442 |
+| 65 | [DEATH STRANDING](games/d/death_stranding.md) | 4,597 | 4.78 | 100 |
 | 66 | [Shop Titans](games/s/shop_titans.md) | 4,535 | 3.98 | 874 |
 | 67 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,494 | 4.70 | 191 |
-| 68 | [Cities: Skylines](games/c/cities__skylines.md) | 4,324 | 4.65 | 287 |
+| 68 | [Cities: Skylines](games/c/cities__skylines.md) | 4,336 | 4.65 | 287 |
 | 69 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,200 | 4.69 | 209 |
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,103 | 4.70 | 191 |
-| 71 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,064 | 4.51 | 509 |
+| 71 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,068 | 4.51 | 509 |
 | 72 | [Chivalry 2](games/c/chivalry_2.md) | 3,980 | 4.61 | 349 |
 | 73 | [God of War](games/g/god_of_war.md) | 3,949 | 4.89 | 12 |
 | 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 3,906 | 4.77 | 106 |
@@ -87,7 +87,7 @@
 | 85 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,009 | 4.57 | 424 |
 | 86 | [Hades](games/h/hades.md) | 3,008 | 4.92 | 3 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 2,970 | 4.68 | 232 |
-| 88 | [Trackmania](games/t/trackmania.md) | 2,449 | 4.67 | 254 |
+| 88 | [Trackmania](games/t/trackmania.md) | 2,455 | 4.67 | 254 |
 | 89 | [Path of Exile](games/p/path_of_exile.md) | 2,441 | 4.61 | 349 |
 | 90 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,422 | 4.77 | 106 |
 | 90 | [Rage 2](games/r/rage_2.md) | 2,422 | 4.28 | 761 |
@@ -95,7 +95,7 @@
 | 93 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,334 | 4.80 | 78 |
 | 94 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,230 | 4.79 | 91 |
 | 95 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,214 | 4.49 | 540 |
-| 96 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,212 | 4.10 | 846 |
+| 95 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,214 | 4.10 | 846 |
 | 97 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,209 | 4.67 | 254 |
 | 98 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,158 | 4.41 | 652 |
 | 99 | [Gotham Knights](games/g/gotham_knights.md) | 2,153 | 4.17 | 819 |
@@ -265,8 +265,8 @@
 | 262 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 179 | 4.64 | 310 |
 | 262 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 179 | 4.63 | 323 |
 | 265 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 177 | 4.41 | 652 |
-| 266 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 175 | 4.21 | 793 |
-| 267 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 174 | 3.92 | 882 |
+| 266 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 176 | 3.92 | 882 |
+| 267 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 175 | 4.21 | 793 |
 | 268 | [Cris Tales](games/c/cris_tales.md) | 170 | 4.36 | 700 |
 | 268 | [Space Punks](games/s/space_punks.md) | 170 | 4.16 | 824 |
 | 268 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 170 | 4.58 | 408 |

@@ -3,13 +3,13 @@ Rating: 4.45 (Ranked 597)
 Number of Ratings: 14,652  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Quick Sessions): 9,950  (Ranked 33)  
-Sum: 81,955 (Ranked 15)  
+Sum: 81,967 (Ranked 15)  
 Diff (max vs sum): 18
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 9,950 |
-| This game is Relaxing | 8,735 |
+| This game is Relaxing | 8,747 |
 | This game has Competitive Players | 8,686 |
 | This game has Quickly Understood Controls | 8,245 |
 | This game has Diverse Characters | 7,932 |
@@ -114,4 +114,4 @@ Diff (max vs sum): 18
 | 2023-04-21 | 4.45 | - | 9,920 | 81,716 |
 | 2023-04-22 | 4.45 | - | 9,936 | 81,797 |
 | 2023-04-23 | 4.45 | - | 9,945 | 81,908 |
-| 2023-04-24 | 4.45 | - | 9,950 | 81,955 |
+| 2023-04-24 | 4.45 | - | 9,950 | 81,967 |
