@@ -129,7 +129,7 @@
 | 126 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,749 | 63 |
 | 126 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,157 | 83 |
 | 126 | [Diabotical](games/d/diabotical.md) | 4.75 | 265 | 232 |
-| 126 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 379 | 201 |
+| 126 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 382 | 201 |
 | 126 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 97 | 320 |
 | 126 | [Quake](games/q/quake.md) | 4.75 | 45 | 394 |
 | 126 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 416 | 189 |
@@ -351,7 +351,7 @@
 | 349 | [20XX](games/2/20xx.md) | 4.61 | 36 | 415 |
 | 349 | [ABZU](games/a/abzu.md) | 4.61 | 0 | 486 |
 | 349 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 127 | 291 |
-| 349 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 3,978 | 72 |
+| 349 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 3,980 | 72 |
 | 349 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 486 |
 | 349 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 210 | 249 |
 | 349 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 374 | 202 |
@@ -373,7 +373,7 @@
 | 349 | [Supraland](games/s/supraland.md) | 4.61 | 7,599 | 40 |
 | 349 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 62 | 368 |
 | 349 | [Warframe](games/w/warframe.md) | 4.61 | 14,185 | 22 |
-| 374 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,466 | 30 |
+| 374 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,487 | 30 |
 | 374 | [Control](games/c/control.md) | 4.60 | 8,234 | 37 |
 | 374 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,184 | 25 |
 | 374 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 117 | 299 |
@@ -497,7 +497,7 @@
 | 484 | [Verdun](games/v/verdun.md) | 4.53 | 93 | 328 |
 | 496 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 733 | 149 |
 | 496 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 38 | 410 |
-| 496 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 26,703 | 15 |
+| 496 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 26,742 | 15 |
 | 496 | [Dead Island 2](games/d/dead_island_2.md) | 4.52 | 160 | 277 |
 | 496 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 497 | 179 |
 | 496 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 99 | 319 |
@@ -585,7 +585,7 @@
 | 570 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 486 |
 | 584 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 486 |
 | 584 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 0 | 486 |
-| 584 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,223 | 81 |
+| 584 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,229 | 81 |
 | 584 | [Figment](games/f/figment.md) | 4.46 | 20 | 478 |
 | 584 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 106 | 310 |
 | 584 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.46 | 0 | 486 |
@@ -794,7 +794,7 @@
 | 788 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.22 | 0 | 486 |
 | 793 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 29 | 443 |
 | 793 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 175 | 266 |
-| 793 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 12,651 | 26 |
+| 793 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 12,670 | 26 |
 | 793 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 0 | 486 |
 | 797 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 122 | 295 |
 | 797 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 119 | 297 |

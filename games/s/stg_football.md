@@ -2,8 +2,8 @@
 Rating: 4.44 (Ranked 615)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 35  (Ranked 421)  
-Sum: 259 (Ranked 335)  
-Diff (max vs sum): 86
+Sum: 279 (Ranked 324)  
+Diff (max vs sum): 97
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -17,6 +17,7 @@ Diff (max vs sum): 86
 | This game has Competitive Players | 22 |
 | This game has Amazing Characters | 22 |
 | This game has Amazing Storytelling | 20 |
+| This game is Educational | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -72,3 +73,4 @@ Diff (max vs sum): 86
 | 2023-04-21 | 4.44 | 34 | 238 |
 | 2023-04-22 | 4.44 | 34 | 258 |
 | 2023-04-23 | 4.44 | 35 | 259 |
+| 2023-04-24 | 4.44 | 35 | 279 |

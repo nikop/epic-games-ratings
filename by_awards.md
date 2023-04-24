@@ -14,7 +14,7 @@
 | 12 | [Destiny 2](games/d/destiny_2.md) | 33,191 | 4.50 | 525 |
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 29,961 | 4.74 | 141 |
 | 14 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,383 | 4.65 | 287 |
-| 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 26,703 | 4.52 | 496 |
+| 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 26,742 | 4.52 | 496 |
 | 16 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 23,152 | 4.57 | 424 |
 | 17 | [Dauntless](games/d/dauntless.md) | 19,559 | 4.53 | 484 |
 | 18 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 17,944 | 4.57 | 424 |
@@ -25,11 +25,11 @@
 | 23 | [Borderlands 2](games/b/borderlands_2.md) | 13,981 | 4.76 | 114 |
 | 24 | [Maneater](games/m/maneater.md) | 13,396 | 4.49 | 540 |
 | 25 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,184 | 4.60 | 374 |
-| 26 | [League of Legends](games/l/league_of_legends.md) | 12,651 | 4.21 | 793 |
+| 26 | [League of Legends](games/l/league_of_legends.md) | 12,670 | 4.21 | 793 |
 | 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,241 | 4.37 | 692 |
 | 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,812 | 4.41 | 651 |
 | 29 | [NBA 2K21](games/n/nba_2k21.md) | 11,639 | 4.39 | 672 |
-| 30 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 11,466 | 4.60 | 374 |
+| 30 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 11,487 | 4.60 | 374 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,305 | 4.87 | 24 |
 | 32 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,176 | 4.69 | 209 |
 | 33 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 9,945 | 4.45 | 597 |
@@ -71,7 +71,7 @@
 | 69 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,200 | 4.69 | 209 |
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,103 | 4.70 | 191 |
 | 71 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,064 | 4.51 | 509 |
-| 72 | [Chivalry 2](games/c/chivalry_2.md) | 3,978 | 4.61 | 349 |
+| 72 | [Chivalry 2](games/c/chivalry_2.md) | 3,980 | 4.61 | 349 |
 | 73 | [God of War](games/g/god_of_war.md) | 3,942 | 4.89 | 12 |
 | 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 3,897 | 4.77 | 106 |
 | 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 3,750 | 4.56 | 442 |
@@ -80,7 +80,7 @@
 | 78 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,570 | 4.30 | 747 |
 | 79 | [Gloomhaven](games/g/gloomhaven.md) | 3,429 | 4.47 | 570 |
 | 80 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,315 | 4.68 | 232 |
-| 81 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,223 | 4.46 | 584 |
+| 81 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,229 | 4.46 | 584 |
 | 82 | [Paladins](games/p/paladins.md) | 3,179 | 4.35 | 709 |
 | 83 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,157 | 4.75 | 126 |
 | 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,140 | 4.59 | 389 |
@@ -200,7 +200,7 @@
 | 198 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 387 | 4.40 | 663 |
 | 199 | [Slime Rancher](games/s/slime_rancher.md) | 385 | 4.83 | 54 |
 | 200 | [Warface](games/w/warface.md) | 383 | 3.91 | 885 |
-| 201 | [Football Manager 2023](games/f/football_manager_2023.md) | 379 | 4.75 | 126 |
+| 201 | [Football Manager 2023](games/f/football_manager_2023.md) | 382 | 4.75 | 126 |
 | 202 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 374 | 4.61 | 349 |
 | 203 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 367 | 3.99 | 871 |
 | 204 | [Nuclear Throne](games/n/nuclear_throne.md) | 364 | 4.79 | 91 |

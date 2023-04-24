@@ -53,7 +53,7 @@
 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.58 | 407 | 577 | 165 |
 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 584 | 0 | 486 |
 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 560 | 0 | 486 |
-| [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 374 | 11,466 | 30 |
+| [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 374 | 11,487 | 30 |
 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 126 | 4,749 | 63 |
 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 637 | 0 | 486 |
 | [ATOM RPG](games/a/atom_rpg.md) | 4.45 | 597 | 46 | 392 |
@@ -65,7 +65,7 @@
 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 442 | 46 | 392 |
 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.56 | 442 | 0 | 486 |
 | [Aztez](games/a/aztez.md) | 4.53 | 484 | 0 | 486 |
-| [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 584 | 3,223 | 81 |
+| [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 584 | 3,229 | 81 |
 | [Backbone](games/b/backbone.md) | 4.33 | 725 | 0 | 486 |
 | [Bad North](games/b/bad_north.md) | 4.68 | 232 | 0 | 486 |
 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 682 | 0 | 486 |
@@ -124,7 +124,7 @@
 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.74 | 141 | 0 | 486 |
 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 54 | 0 | 486 |
 | [Chimeraland](games/c/chimeraland.md) | 3.89 | 889 | 0 | 486 |
-| [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 349 | 3,978 | 72 |
+| [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 349 | 3,980 | 72 |
 | [Chorus](games/c/chorus.md) | 4.47 | 570 | 32 | 430 |
 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 846 | 0 | 486 |
 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 824 | 0 | 486 |
@@ -176,7 +176,7 @@
 | [Dauntless](games/d/dauntless.md) | 4.53 | 484 | 19,559 | 17 |
 | [Days Gone](games/d/days_gone.md) | 4.69 | 209 | 3,728 | 76 |
 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 824 | 0 | 486 |
-| [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 496 | 26,703 | 15 |
+| [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 496 | 26,742 | 15 |
 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 18 | 247 | 235 |
 | [Dead Island 2](games/d/dead_island_2.md) | 4.52 | 496 | 160 | 277 |
 | [Dead Space](games/d/dead_space.md) | 4.76 | 114 | 36 | 415 |
@@ -277,7 +277,7 @@
 | [Flatout](games/f/flatout.md) | 4.19 | 809 | 0 | 486 |
 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 5 | 0 | 486 |
 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 78 | 6,240 | 50 |
-| [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 126 | 379 | 201 |
+| [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 126 | 382 | 201 |
 | [For The King](games/f/for_the_king.md) | 4.70 | 191 | 359 | 205 |
 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 615 | 0 | 486 |
 | [Forspoken](games/f/forspoken.md) | 4.12 | 840 | 0 | 486 |
@@ -416,7 +416,7 @@
 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 852 | 179 | 262 |
 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 797 | 0 | 486 |
 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 597 | 0 | 486 |
-| [League of Legends](games/l/league_of_legends.md) | 4.21 | 793 | 12,651 | 26 |
+| [League of Legends](games/l/league_of_legends.md) | 4.21 | 793 | 12,670 | 26 |
 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 442 | 0 | 486 |
 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 287 | 148 | 281 |
 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 310 | 179 | 262 |
