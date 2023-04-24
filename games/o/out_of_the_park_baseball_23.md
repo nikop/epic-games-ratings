@@ -1,5 +1,5 @@
 # Out of the Park Baseball 23
-Rating: 4.62 (Ranked 334)  
+Rating: 4.62 (Ranked 333)  
 Number of Ratings: 46  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  

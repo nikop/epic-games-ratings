@@ -1,5 +1,5 @@
 # Dying Light 2 Stay Human
-Rating: 4.58 (Ranked 408)  
+Rating: 4.58 (Ranked 407)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 6,571  (Ranked 46)  

@@ -3,14 +3,14 @@
   "Name": "FAR CRY 4",
   "Rating": 4.66,
   "Ranking_Rating": 270,
-  "Ranking_Popularity": 181,
-  "Ranking_PopularitySum": 251,
+  "Ranking_Popularity": 179,
+  "Ranking_PopularitySum": 250,
   "NumberOfRatings": 639,
-  "NumberOfAwards": 748,
-  "NumberOfAwardsMax": 495,
+  "NumberOfAwards": 752,
+  "NumberOfAwardsMax": 499,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:26:30.966572+00:00",
-  "LastChanged": "2023-04-23T23:57:38.9415714+00:00",
+  "LastChanged": "2023-04-24T18:58:12.1281616+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:30.9665724+00:00",
@@ -776,6 +776,12 @@
       "Rating": 4.66,
       "NumberOfAwards": 748,
       "NumberOfAwardsMax": 495
+    },
+    {
+      "Time": "2023-04-24T18:58:12.1281617+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 752,
+      "NumberOfAwardsMax": 499
     }
   ],
   "Tags": [
@@ -783,7 +789,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 495
+      "Count": 499
     },
     {
       "Text": "This game has Quickly Understood Controls",

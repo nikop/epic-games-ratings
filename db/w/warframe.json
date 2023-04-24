@@ -2,15 +2,15 @@
   "ID": "244aaaa06bfa49d088205b13b9d2d115",
   "Name": "Warframe",
   "Rating": 4.61,
-  "Ranking_Rating": 349,
+  "Ranking_Rating": 348,
   "Ranking_Popularity": 22,
   "Ranking_PopularitySum": 28,
   "NumberOfRatings": 12660,
-  "NumberOfAwards": 37493,
+  "NumberOfAwards": 37501,
   "NumberOfAwardsMax": 14215,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
-  "LastChanged": "2023-04-24T15:57:07.2108642+00:00",
+  "LastChanged": "2023-04-24T18:57:09.6336849+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:28.1019024+00:00",
@@ -4131,6 +4131,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 37493,
       "NumberOfAwardsMax": 14215
+    },
+    {
+      "Time": "2023-04-24T18:57:09.6336851+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 37501,
+      "NumberOfAwardsMax": 14215
     }
   ],
   "Tags": [
@@ -4144,7 +4150,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3124
+      "Count": 3132
     },
     {
       "Text": "This game is Relaxing",

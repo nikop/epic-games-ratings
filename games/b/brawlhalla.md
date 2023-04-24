@@ -1,5 +1,5 @@
 # Brawlhalla
-Rating: 4.57 (Ranked 425)  
+Rating: 4.57 (Ranked 424)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 85  (Ranked 336)  
 Sum: 792 (Ranked 244)  

@@ -1,5 +1,5 @@
 # Tom Clancy's The Division
-Rating: 4.59 (Ranked 389)  
+Rating: 4.59 (Ranked 388)  
 Number of Ratings: 247  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 249  (Ranked 235)  
