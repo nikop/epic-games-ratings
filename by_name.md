@@ -1,7 +1,7 @@
 | Game | Rating | Ranking | Awards | Ranking |
 | ---- | ------ | ------- | ------ | ------- |
 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 775 | 0 | 486 |
-| [20XX](games/2/20xx.md) | 4.61 | 349 | 36 | 415 |
+| [20XX](games/2/20xx.md) | 4.61 | 349 | 36 | 416 |
 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 744 | 0 | 486 |
 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.59 | 389 | 0 | 486 |
 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 797 | 122 | 295 |
@@ -41,7 +41,7 @@
 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 424 | 0 | 486 |
 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 424 | 0 | 486 |
 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 540 | 61 | 370 |
-| [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 389 | 56,015 | 10 |
+| [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 389 | 56,058 | 10 |
 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 844 | 71 | 354 |
 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 28 | 0 | 486 |
 | [Ashen](games/a/ashen.md) | 4.34 | 717 | 0 | 486 |
@@ -179,7 +179,7 @@
 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 496 | 26,742 | 15 |
 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 18 | 247 | 235 |
 | [Dead Island 2](games/d/dead_island_2.md) | 4.52 | 496 | 160 | 277 |
-| [Dead Space](games/d/dead_space.md) | 4.76 | 114 | 36 | 415 |
+| [Dead Space](games/d/dead_space.md) | 4.76 | 114 | 37 | 412 |
 | [Death Coming](games/d/death_coming.md) | 4.43 | 629 | 0 | 486 |
 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 100 | 4,585 | 65 |
 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 12 | 6,778 | 44 |
@@ -218,7 +218,7 @@
 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 49 | 211 | 248 |
 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 287 | 317 | 214 |
 | [Duskers](games/d/duskers.md) | 4.47 | 570 | 0 | 486 |
-| [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 424 | 6,535 | 46 |
+| [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 424 | 6,571 | 46 |
 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.57 | 424 | 23,152 | 16 |
 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 775 | 8,099 | 38 |
 | [Eastward](games/e/eastward.md) | 4.67 | 254 | 0 | 486 |
@@ -350,7 +350,7 @@
 | [Horace](games/h/horace.md) | 4.50 | 525 | 0 | 486 |
 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 442 | 132 | 288 |
 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 106 | 3,897 | 74 |
-| [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 374 | 36 | 415 |
+| [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 374 | 36 | 416 |
 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.48 | 560 | 0 | 486 |
 | [House Flipper](games/h/house_flipper.md) | 4.70 | 191 | 280 | 224 |
 | [House Party](games/h/house_party.md) | 4.32 | 735 | 0 | 486 |
@@ -380,7 +380,7 @@
 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 1 | 0 | 486 |
 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 651 | 94 | 326 |
 | [Journey](games/j/journey.md) | 4.80 | 78 | 0 | 486 |
-| [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 407 | 36 | 415 |
+| [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 407 | 36 | 416 |
 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 334 | 527 | 176 |
 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 141 | 581 | 164 |
 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 747 | 3,570 | 78 |
@@ -474,7 +474,7 @@
 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 254 | 2,209 | 96 |
 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 232 | 550 | 169 |
 | [MythForce](games/m/mythforce.md) | 4.51 | 509 | 32 | 430 |
-| [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 809 | 180,687 | 4 |
+| [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 809 | 180,813 | 4 |
 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 672 | 11,639 | 29 |
 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 846 | 0 | 486 |
 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 672 | 0 | 486 |
@@ -504,7 +504,7 @@
 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 597 | 37 | 412 |
 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 754 | 43 | 403 |
 | [Old World](games/o/old_world.md) | 4.65 | 287 | 212 | 247 |
-| [Ooblets](games/o/ooblets.md) | 4.87 | 24 | 997 | 134 |
+| [Ooblets](games/o/ooblets.md) | 4.87 | 24 | 998 | 134 |
 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 270 | 0 | 486 |
 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.41 | 651 | 0 | 486 |
 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 899 | 0 | 486 |
@@ -825,7 +825,7 @@
 | [Train Valley](games/t/train_valley.md) | 4.47 | 570 | 0 | 486 |
 | [Train Valley 2](games/t/train_valley_2.md) | 4.14 | 834 | 69 | 357 |
 | [Transistor](games/t/transistor.md) | 4.62 | 334 | 0 | 486 |
-| [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 191 | 36 | 415 |
+| [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 191 | 36 | 416 |
 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 442 | 0 | 486 |
 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.22 | 788 | 0 | 486 |
 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.50 | 525 | 0 | 486 |
@@ -889,7 +889,7 @@
 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 209 | 0 | 486 |
 | [World of Warships](games/w/world_of_warships.md) | 4.43 | 629 | 1,010 | 131 |
 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 442 | 3,750 | 75 |
-| [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 560 | 36 | 415 |
+| [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 560 | 36 | 416 |
 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 374 | 0 | 486 |
 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 472 | 28 | 446 |
 | [WRC Generations](games/w/wrc_generations.md) | 4.46 | 584 | 0 | 486 |

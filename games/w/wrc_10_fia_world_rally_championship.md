@@ -2,9 +2,9 @@
 Rating: 4.48 (Ranked 560)  
 Number of Ratings: 248  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Realistic Visuals): 36  (Ranked 415)  
+Max (Realistic Visuals): 36  (Ranked 416)  
 Sum: 284 (Ranked 323)  
-Diff (max vs sum): 92
+Diff (max vs sum): 93
 ## Awards
 | Award | Count |
 | ----- | ----- |
