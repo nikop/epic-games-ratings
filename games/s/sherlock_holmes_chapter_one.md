@@ -1,5 +1,5 @@
 # Sherlock Holmes Chapter One
-Rating: 4.47 (Ranked 572)  
+Rating: 4.47 (Ranked 573)  
 Number of Ratings: 179  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  

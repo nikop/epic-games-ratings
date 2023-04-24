@@ -1,5 +1,5 @@
 # Watch Dogs 2 Standard Edition
-Rating: 4.59 (Ranked 388)  
+Rating: 4.59 (Ranked 387)  
 Number of Ratings: 6,460  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 307  (Ranked 220)  

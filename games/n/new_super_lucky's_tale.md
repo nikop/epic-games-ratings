@@ -1,5 +1,5 @@
 # New Super Lucky's Tale
-Rating: 4.59 (Ranked 388)  
+Rating: 4.59 (Ranked 387)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  
 Sum: 0 (Ranked 486)  
