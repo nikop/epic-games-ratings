@@ -1,9 +1,9 @@
 # Crime Boss: Rockay City
 Rating: 3.92 (Ranked 882)  
 ## Popularity (Based on Awards)
-Max (Quickly Understood Controls): 176  (Ranked 266)  
+Max (Quickly Understood Controls): 176  (Ranked 267)  
 Sum: 854 (Ranked 236)  
-Diff (max vs sum): 30
+Diff (max vs sum): 31
 ## Awards
 | Award | Count |
 | ----- | ----- |

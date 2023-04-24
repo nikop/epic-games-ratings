@@ -1,10 +1,10 @@
 # Assassin's Creed Rogue Standard Edition
-Rating: 4.57 (Ranked 424)  
+Rating: 4.57 (Ranked 425)  
 Number of Ratings: 305  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 150  (Ranked 280)  
-Sum: 197 (Ranked 346)  
-Diff (max vs sum): -66
+Sum: 197 (Ranked 347)  
+Diff (max vs sum): -67
 ## Awards
 | Award | Count |
 | ----- | ----- |

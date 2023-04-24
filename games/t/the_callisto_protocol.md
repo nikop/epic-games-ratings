@@ -2,8 +2,8 @@
 Rating: 4.18 (Ranked 815)  
 ## Popularity (Based on Awards)
 Max (Amazing Storytelling): 44  (Ranked 400)  
-Sum: 239 (Ranked 338)  
-Diff (max vs sum): 62
+Sum: 239 (Ranked 339)  
+Diff (max vs sum): 61
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -3,8 +3,8 @@ Rating: 4.76 (Ranked 114)
 Number of Ratings: 212  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Competitive Players): 39  (Ranked 407)  
-Sum: 366 (Ranked 305)  
-Diff (max vs sum): 102
+Sum: 366 (Ranked 306)  
+Diff (max vs sum): 101
 ## Awards
 | Award | Count |
 | ----- | ----- |

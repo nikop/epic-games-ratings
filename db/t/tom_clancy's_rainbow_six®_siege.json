@@ -1,16 +1,16 @@
 {
   "ID": "carnation",
   "Name": "Tom Clancy\u0027s Rainbow Six\u00AE Siege",
-  "Rating": 4.57,
-  "Ranking_Rating": 424,
+  "Rating": 4.58,
+  "Ranking_Rating": 408,
   "Ranking_Popularity": 108,
   "Ranking_PopularitySum": 64,
   "NumberOfRatings": 8669,
-  "NumberOfAwards": 13790,
+  "NumberOfAwards": 13793,
   "NumberOfAwardsMax": 1686,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:19:50.9592707+00:00",
-  "LastChanged": "2023-04-24T10:56:53.839824+00:00",
+  "LastChanged": "2023-04-24T15:57:04.815323+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:50.9592709+00:00",
@@ -3520,6 +3520,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 13790,
       "NumberOfAwardsMax": 1686
+    },
+    {
+      "Time": "2023-04-24T15:57:04.8153231+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13793,
+      "NumberOfAwardsMax": 1686
     }
   ],
   "Tags": [
@@ -3533,7 +3539,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1552
+      "Count": 1555
     },
     {
       "Text": "This game has Amazing Characters",

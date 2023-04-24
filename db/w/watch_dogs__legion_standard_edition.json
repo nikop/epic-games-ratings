@@ -6,11 +6,11 @@
   "Ranking_Popularity": 341,
   "Ranking_PopularitySum": 278,
   "NumberOfRatings": 1361,
-  "NumberOfAwards": 575,
+  "NumberOfAwards": 576,
   "NumberOfAwardsMax": 80,
   "MaxAwardTitle": "Amazing Characters",
   "FirstSeen": "2022-07-22T20:17:59.5198477+00:00",
-  "LastChanged": "2023-04-23T23:56:52.5405622+00:00",
+  "LastChanged": "2023-04-24T15:57:12.1165488+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:59.519848+00:00",
@@ -1248,6 +1248,12 @@
       "Rating": 4.36,
       "NumberOfAwards": 575,
       "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2023-04-24T15:57:12.1165491+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 576,
+      "NumberOfAwardsMax": 80
     }
   ],
   "Tags": [
@@ -1309,7 +1315,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 37
+      "Count": 38
     }
   ]
 }

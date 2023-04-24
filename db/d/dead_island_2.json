@@ -3,14 +3,14 @@
   "Name": "Dead Island 2",
   "Rating": 4.52,
   "Ranking_Rating": 496,
-  "Ranking_Popularity": 277,
-  "Ranking_PopularitySum": 367,
-  "NumberOfAwards": 160,
-  "NumberOfAwardsMax": 160,
+  "Ranking_Popularity": 201,
+  "Ranking_PopularitySum": 303,
+  "NumberOfAwards": 382,
+  "NumberOfAwardsMax": 382,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
-  "LastChanged": "2023-04-23T15:57:47.0901892+00:00",
+  "LastChanged": "2023-04-24T15:57:46.9798843+00:00",
   "RatingHistory": [
     {
       "Time": "2023-04-21T14:57:30.4641621+00:00",
@@ -77,6 +77,12 @@
       "Rating": 4.52,
       "NumberOfAwards": 160,
       "NumberOfAwardsMax": 160
+    },
+    {
+      "Time": "2023-04-24T15:57:46.9798846+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 382,
+      "NumberOfAwardsMax": 382
     }
   ],
   "Tags": [
@@ -84,7 +90,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 160
+      "Count": 382
     }
   ]
 }
