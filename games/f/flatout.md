@@ -1,5 +1,5 @@
 # Flatout
-Rating: 4.19 (Ranked 810)  
+Rating: 4.21 (Ranked 794)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  
 Sum: 0 (Ranked 486)  
@@ -18,3 +18,4 @@ Diff (max vs sum): 0
 | 2023-02-05 | 4.16 | - | - |
 | 2023-02-24 | 4.19 | - | - |
 | 2023-03-31 | 4.19 | 0 | 0 |
+| 2023-04-24 | 4.21 | 0 | 0 |

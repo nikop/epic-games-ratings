@@ -2,15 +2,15 @@
   "ID": "0584d2013f0149a791e7b9bad0eec102",
   "Name": "Grand Theft Auto V: Premium Edition",
   "Rating": 4.69,
-  "Ranking_Rating": 209,
+  "Ranking_Rating": 208,
   "Ranking_Popularity": 5,
   "Ranking_PopularitySum": 5,
   "NumberOfRatings": 573831,
-  "NumberOfAwards": 1286481,
+  "NumberOfAwards": 1286758,
   "NumberOfAwardsMax": 161512,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2023-04-24T20:57:11.9531557+00:00",
+  "LastChanged": "2023-04-24T21:57:16.4206147+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:49.5868983+00:00",
@@ -4512,6 +4512,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 1286481,
       "NumberOfAwardsMax": 161512
+    },
+    {
+      "Time": "2023-04-24T21:57:16.420615+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1286758,
+      "NumberOfAwardsMax": 161512
     }
   ],
   "Tags": [
@@ -4561,7 +4567,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 133748
+      "Count": 134025
     },
     {
       "Text": "This game has Competitive Players",

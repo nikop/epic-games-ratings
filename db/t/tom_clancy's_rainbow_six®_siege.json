@@ -1,16 +1,16 @@
 {
   "ID": "carnation",
   "Name": "Tom Clancy\u0027s Rainbow Six\u00AE Siege",
-  "Rating": 4.57,
-  "Ranking_Rating": 424,
+  "Rating": 4.58,
+  "Ranking_Rating": 407,
   "Ranking_Popularity": 108,
   "Ranking_PopularitySum": 64,
   "NumberOfRatings": 8669,
-  "NumberOfAwards": 13798,
+  "NumberOfAwards": 13802,
   "NumberOfAwardsMax": 1691,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:19:50.9592707+00:00",
-  "LastChanged": "2023-04-24T19:57:01.1823864+00:00",
+  "LastChanged": "2023-04-24T21:57:03.0354387+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:50.9592709+00:00",
@@ -3538,6 +3538,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 13798,
       "NumberOfAwardsMax": 1691
+    },
+    {
+      "Time": "2023-04-24T21:57:03.035439+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13802,
+      "NumberOfAwardsMax": 1691
     }
   ],
   "Tags": [
@@ -3587,7 +3593,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1512
+      "Count": 1516
     },
     {
       "Text": "This game has a Competitive Community",

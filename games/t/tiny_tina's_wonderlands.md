@@ -1,14 +1,14 @@
 # Tiny Tina's Wonderlands
-Rating: 4.57 (Ranked 424)  
+Rating: 4.57 (Ranked 425)  
 Number of Ratings: 20,753  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 17,944  (Ranked 18)  
-Sum: 31,572 (Ranked 35)  
+Max (Great Boss Battles): 17,969  (Ranked 18)  
+Sum: 31,597 (Ranked 35)  
 Diff (max vs sum): -17
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 17,944 |
+| This game has Great Boss Battles | 17,969 |
 | This game has Amazing Storytelling | 1,776 |
 | This game has Diverse Characters | 1,753 |
 | This game has Quickly Understood Controls | 1,731 |
@@ -112,4 +112,4 @@ Diff (max vs sum): -17
 | 2023-04-21 | 4.57 | - | 17,878 | 31,418 |
 | 2023-04-22 | 4.57 | - | 17,907 | 31,474 |
 | 2023-04-23 | 4.57 | - | 17,944 | 31,548 |
-| 2023-04-24 | 4.57 | - | 17,944 | 31,572 |
+| 2023-04-24 | 4.57 | - | 17,969 | 31,597 |

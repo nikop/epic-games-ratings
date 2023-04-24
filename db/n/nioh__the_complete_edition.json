@@ -2,15 +2,15 @@
   "ID": "3622b6ddc5c849b1826085d5fe492eae",
   "Name": "Nioh: The Complete Edition",
   "Rating": 4.57,
-  "Ranking_Rating": 424,
+  "Ranking_Rating": 425,
   "Ranking_Popularity": 42,
   "Ranking_PopularitySum": 56,
   "NumberOfRatings": 10807,
-  "NumberOfAwards": 16645,
+  "NumberOfAwards": 16647,
   "NumberOfAwardsMax": 7177,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:23:37.2904323+00:00",
-  "LastChanged": "2023-04-24T16:57:37.1778767+00:00",
+  "LastChanged": "2023-04-24T21:57:55.2732044+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:37.2904326+00:00",
@@ -3738,6 +3738,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 16645,
       "NumberOfAwardsMax": 7177
+    },
+    {
+      "Time": "2023-04-24T21:57:55.2732046+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 16647,
+      "NumberOfAwardsMax": 7177
     }
   ],
   "Tags": [
@@ -3781,7 +3787,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 742
+      "Count": 744
     },
     {
       "Text": "This game has Amazing Characters",

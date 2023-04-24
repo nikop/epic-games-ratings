@@ -6,11 +6,11 @@
   "Ranking_Popularity": 11,
   "Ranking_PopularitySum": 6,
   "NumberOfRatings": 157172,
-  "NumberOfAwards": 377548,
-  "NumberOfAwardsMax": 49784,
+  "NumberOfAwards": 377972,
+  "NumberOfAwardsMax": 49873,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2023-04-23T22:58:40.1486508+00:00",
+  "LastChanged": "2023-04-24T21:58:51.7100351+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:57.2451126+00:00",
@@ -4152,6 +4152,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 377548,
       "NumberOfAwardsMax": 49784
+    },
+    {
+      "Time": "2023-04-24T21:58:51.7100358+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 377972,
+      "NumberOfAwardsMax": 49873
     }
   ],
   "Tags": [
@@ -4159,19 +4165,19 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 49784
+      "Count": 49873
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 42391
+      "Count": 42470
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 41428
+      "Count": 41507
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4189,7 +4195,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 41980
+      "Count": 42043
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4201,7 +4207,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 39151
+      "Count": 39200
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4213,7 +4219,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 39369
+      "Count": 39434
     }
   ]
 }
