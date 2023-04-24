@@ -1,5 +1,5 @@
 # Call of the Sea
-Rating: 4.37 (Ranked 692)  
+Rating: 4.37 (Ranked 693)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  
 Sum: 0 (Ranked 486)  

@@ -1,16 +1,16 @@
 {
   "ID": "b4565296c22549e4830c13bc7506642d",
   "Name": "Far Cry 6 Standard Edition",
-  "Rating": 4.45,
-  "Ranking_Rating": 597,
+  "Rating": 4.44,
+  "Ranking_Rating": 616,
   "Ranking_Popularity": 155,
   "Ranking_PopularitySum": 117,
   "NumberOfRatings": 12290,
-  "NumberOfAwards": 5216,
+  "NumberOfAwards": 5218,
   "NumberOfAwardsMax": 673,
   "MaxAwardTitle": "Amazing Storytelling",
   "FirstSeen": "2022-07-22T20:18:07.3905482+00:00",
-  "LastChanged": "2023-04-24T14:57:21.2427297+00:00",
+  "LastChanged": "2023-04-24T17:57:08.5810623+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:07.3905485+00:00",
@@ -3444,6 +3444,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 5216,
       "NumberOfAwardsMax": 673
+    },
+    {
+      "Time": "2023-04-24T17:57:08.5810624+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5218,
+      "NumberOfAwardsMax": 673
     }
   ],
   "Tags": [
@@ -3463,7 +3469,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 660
+      "Count": 662
     },
     {
       "Text": "This game has Diverse Characters",

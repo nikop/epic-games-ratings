@@ -1,5 +1,5 @@
 # The Caligula Effect 2
-Rating: 4.44 (Ranked 617)  
+Rating: 4.44 (Ranked 616)  
 Number of Ratings: 32  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  

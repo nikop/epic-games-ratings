@@ -5,12 +5,12 @@
   "Ranking_Rating": 374,
   "Ranking_Popularity": 297,
   "Ranking_PopularitySum": 247,
-  "NumberOfAwards": 770,
+  "NumberOfAwards": 774,
   "NumberOfAwardsMax": 119,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-04-24T13:04:14.5014216+00:00",
+  "LastChanged": "2023-04-24T17:57:04.4024361+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-05T14:56:53.5654686+00:00",
@@ -975,6 +975,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 770,
       "NumberOfAwardsMax": 119
+    },
+    {
+      "Time": "2023-04-24T17:57:04.4024362+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 774,
+      "NumberOfAwardsMax": 119
     }
   ],
   "Tags": [
@@ -1006,7 +1012,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 60
+      "Count": 61
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1018,7 +1024,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 58
+      "Count": 60
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1030,7 +1036,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 60
+      "Count": 61
     },
     {
       "Text": "This game is Relaxing",
