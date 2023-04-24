@@ -35,7 +35,7 @@
 | 28 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.86 | 103 | 313 |
 | 28 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 39 | 407 |
 | 28 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,195 | 120 |
-| 28 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 452 | 185 |
+| 28 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 453 | 185 |
 | 37 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 37 | 412 |
 | 37 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,483 | 41 |
 | 37 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,446 | 58 |
@@ -121,7 +121,7 @@
 | 114 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 39 | 407 |
 | 114 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 61 | 370 |
 | 114 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 486 |
-| 114 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,614 | 109 |
+| 114 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,615 | 109 |
 | 114 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 0 | 486 |
 | 114 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 7,684 | 39 |
 | 114 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 486 |
@@ -143,7 +143,7 @@
 | 141 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 398 | 196 |
 | 141 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 486 |
 | 141 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.74 | 0 | 486 |
-| 141 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 493 | 181 |
+| 141 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 496 | 180 |
 | 141 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 766 | 145 |
 | 141 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 581 | 164 |
 | 141 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,420 | 49 |
@@ -191,7 +191,7 @@
 | 178 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 75 | 346 |
 | 178 | [Townscaper](games/t/townscaper.md) | 4.71 | 0 | 486 |
 | 191 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 0 | 486 |
-| 191 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,488 | 67 |
+| 191 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,494 | 67 |
 | 191 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 0 | 486 |
 | 191 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,103 | 70 |
 | 191 | [For The King](games/f/for_the_king.md) | 4.70 | 359 | 205 |
@@ -273,7 +273,7 @@
 | 270 | [Crashlands](games/c/crashlands.md) | 4.66 | 188 | 259 |
 | 270 | [Death's Door](games/d/death's_door.md) | 4.66 | 0 | 486 |
 | 270 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,285 | 118 |
-| 270 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 495 | 180 |
+| 270 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 495 | 181 |
 | 270 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.66 | 26 | 454 |
 | 270 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 0 | 486 |
 | 270 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 0 | 486 |
@@ -513,7 +513,7 @@
 | 509 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,064 | 71 |
 | 509 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 0 | 486 |
 | 509 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 21 | 473 |
-| 509 | [First Class Trouble](games/f/first_class_trouble.md) | 4.51 | 79 | 343 |
+| 509 | [First Class Trouble](games/f/first_class_trouble.md) | 4.51 | 80 | 341 |
 | 509 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 104 | 311 |
 | 509 | [MythForce](games/m/mythforce.md) | 4.51 | 32 | 430 |
 | 509 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 271 | 228 |
@@ -884,9 +884,9 @@
 | 882 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 443 |
 | 882 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.92 | 174 | 267 |
 | 882 | [Ironcast](games/i/ironcast.md) | 3.92 | 0 | 486 |
-| 885 | [Conarium](games/c/conarium.md) | 3.91 | 0 | 486 |
-| 885 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 313 |
-| 885 | [Warface](games/w/warface.md) | 3.91 | 383 | 200 |
+| 882 | [Warface](games/w/warface.md) | 3.92 | 383 | 200 |
+| 886 | [Conarium](games/c/conarium.md) | 3.91 | 0 | 486 |
+| 886 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 313 |
 | 888 | [Wreckfest](games/w/wreckfest.md) | 3.90 | 0 | 486 |
 | 889 | [Chimeraland](games/c/chimeraland.md) | 3.89 | 0 | 486 |
 | 890 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.88 | 0 | 486 |

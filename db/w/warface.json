@@ -1,16 +1,16 @@
 {
   "ID": "80e804312c2149c69a75aee703e85a9a",
   "Name": "Warface",
-  "Rating": 3.91,
-  "Ranking_Rating": 885,
+  "Rating": 3.92,
+  "Ranking_Rating": 882,
   "Ranking_Popularity": 200,
   "Ranking_PopularitySum": 148,
   "NumberOfRatings": 3179,
-  "NumberOfAwards": 3004,
+  "NumberOfAwards": 3005,
   "NumberOfAwardsMax": 383,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2023-04-23T02:07:00.8715722+00:00",
+  "LastChanged": "2023-04-24T06:58:15.4922049+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:34.3823286+00:00",
@@ -2411,6 +2411,12 @@
       "Rating": 3.91,
       "NumberOfAwards": 3004,
       "NumberOfAwardsMax": 383
+    },
+    {
+      "Time": "2023-04-24T06:58:15.4922051+00:00",
+      "Rating": 3.92,
+      "NumberOfAwards": 3005,
+      "NumberOfAwardsMax": 383
     }
   ],
   "Tags": [
@@ -2472,7 +2478,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 314
+      "Count": 315
     },
     {
       "Text": "This game is Great for Quick Sessions",

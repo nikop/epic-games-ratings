@@ -1,9 +1,9 @@
 # Warface
-Rating: 3.91 (Ranked 885)  
+Rating: 3.92 (Ranked 882)  
 Number of Ratings: 3,179  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 383  (Ranked 200)  
-Sum: 3,004 (Ranked 148)  
+Sum: 3,005 (Ranked 148)  
 Diff (max vs sum): 52
 ## Awards
 | Award | Count |
@@ -15,7 +15,7 @@ Diff (max vs sum): 52
 | This game has Quickly Understood Controls | 334 |
 | This game has Amazing Storytelling | 331 |
 | This game has Amazing Characters | 317 |
-| This game is Extremely Fun | 314 |
+| This game is Extremely Fun | 315 |
 | This game is Great for Quick Sessions | 277 |
 | This game has a Competitive Community | 261 |
 | This game is Great for Beginners | 146 |
@@ -127,3 +127,4 @@ Diff (max vs sum): 52
 | 2023-04-21 | 3.91 | - | 382 | 2,999 |
 | 2023-04-22 | 3.91 | - | 383 | 3,003 |
 | 2023-04-23 | 3.91 | - | 383 | 3,004 |
+| 2023-04-24 | 3.92 | - | 383 | 3,005 |

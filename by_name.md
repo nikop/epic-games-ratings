@@ -86,7 +86,7 @@
 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 232 | 69 | 357 |
 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 725 | 113 | 305 |
 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 509 | 4,064 | 71 |
-| [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 191 | 4,488 | 67 |
+| [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 191 | 4,494 | 67 |
 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 310 | 5,893 | 54 |
 | [Black Book](games/b/black_book.md) | 4.87 | 24 | 21 | 473 |
 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 773 | 0 | 486 |
@@ -135,7 +135,7 @@
 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 874 | 0 | 486 |
 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 349 | 0 | 486 |
 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 464 | 1,082 | 126 |
-| [Conarium](games/c/conarium.md) | 3.91 | 885 | 0 | 486 |
+| [Conarium](games/c/conarium.md) | 3.91 | 886 | 0 | 486 |
 | [Control](games/c/control.md) | 4.60 | 374 | 8,234 | 37 |
 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 60 | 0 | 486 |
 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 540 | 104 | 311 |
@@ -205,7 +205,7 @@
 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.47 | 570 | 0 | 486 |
 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 692 | 0 | 486 |
 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 28 | 684 | 154 |
-| [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 141 | 493 | 181 |
+| [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 141 | 496 | 180 |
 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 78 | 317 | 214 |
 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 629 | 23 | 463 |
 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 114 | 820 | 144 |
@@ -252,7 +252,7 @@
 | [Far Cry](games/f/far_cry.md) | 4.49 | 540 | 0 | 486 |
 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 775 | 0 | 486 |
 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 349 | 0 | 486 |
-| [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 270 | 495 | 180 |
+| [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 270 | 495 | 181 |
 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 334 | 1,189 | 121 |
 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 616 | 672 | 155 |
 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 651 | 177 | 265 |
@@ -263,7 +263,7 @@
 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 809 | 0 | 486 |
 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 178 | 6,160 | 51 |
 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 191 | 4,103 | 70 |
-| [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 885 | 103 | 313 |
+| [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 886 | 103 | 313 |
 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 442 | 27 | 448 |
 | [Fez](games/f/fez.md) | 4.71 | 178 | 23 | 463 |
 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 254 | 0 | 486 |
@@ -271,7 +271,7 @@
 | [Filament](games/f/filament.md) | 4.32 | 735 | 550 | 169 |
 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 37 | 5,446 | 58 |
 | [Firework](games/f/firework.md) | 4.89 | 12 | 0 | 486 |
-| [First Class Trouble](games/f/first_class_trouble.md) | 4.51 | 509 | 79 | 343 |
+| [First Class Trouble](games/f/first_class_trouble.md) | 4.51 | 509 | 80 | 341 |
 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 692 | 0 | 486 |
 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 464 | 21 | 473 |
 | [Flatout](games/f/flatout.md) | 4.19 | 809 | 0 | 486 |
@@ -530,7 +530,7 @@
 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 725 | 0 | 486 |
 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 349 | 2,441 | 89 |
 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 424 | 3,009 | 85 |
-| [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 114 | 1,614 | 109 |
+| [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 114 | 1,615 | 109 |
 | [Pathway](games/p/pathway.md) | 4.45 | 597 | 0 | 486 |
 | [Patron](games/p/patron.md) | 3.94 | 880 | 0 | 486 |
 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 270 | 1,030 | 129 |
@@ -777,7 +777,7 @@
 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.65 | 287 | 0 | 486 |
 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.88 | 890 | 0 | 486 |
 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 769 | 0 | 486 |
-| [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 28 | 452 | 185 |
+| [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 28 | 453 | 185 |
 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 78 | 0 | 486 |
 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 126 | 0 | 486 |
 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 72 | 26 | 454 |
@@ -857,7 +857,7 @@
 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 374 | 20 | 478 |
 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 525 | 28 | 446 |
 | [War Mongrels](games/w/war_mongrels.md) | 4.30 | 747 | 0 | 486 |
-| [Warface](games/w/warface.md) | 3.91 | 885 | 383 | 200 |
+| [Warface](games/w/warface.md) | 3.92 | 882 | 383 | 200 |
 | [Warframe](games/w/warframe.md) | 4.61 | 349 | 14,215 | 22 |
 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 209 | 851 | 141 |
 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 407 | 204 | 251 |
