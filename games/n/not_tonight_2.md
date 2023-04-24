@@ -1,5 +1,5 @@
 # Not Tonight 2
-Rating: 4.19 (Ranked 809)  
+Rating: 4.19 (Ranked 810)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  
 Sum: 0 (Ranked 486)  

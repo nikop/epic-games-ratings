@@ -1,5 +1,5 @@
 # Anno 2205 - Standard Edition
-Rating: 4.45 (Ranked 597)  
+Rating: 4.45 (Ranked 598)  
 Number of Ratings: 76  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  

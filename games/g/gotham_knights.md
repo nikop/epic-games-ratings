@@ -1,5 +1,5 @@
 # Gotham Knights
-Rating: 4.17 (Ranked 819)  
+Rating: 4.17 (Ranked 820)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 2,153  (Ranked 99)  
 Sum: 3,559 (Ranked 138)  

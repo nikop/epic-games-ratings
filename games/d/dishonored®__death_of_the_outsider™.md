@@ -1,5 +1,5 @@
 # Dishonored®: Death of the Outsider™
-Rating: 4.43 (Ranked 629)  
+Rating: 4.43 (Ranked 630)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 23  (Ranked 463)  
 Sum: 150 (Ranked 374)  

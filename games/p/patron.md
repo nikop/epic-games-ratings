@@ -1,5 +1,5 @@
 # Patron
-Rating: 3.94 (Ranked 880)  
+Rating: 3.94 (Ranked 881)  
 Number of Ratings: 38  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  

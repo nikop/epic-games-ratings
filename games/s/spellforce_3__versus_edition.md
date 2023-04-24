@@ -1,5 +1,5 @@
 # SpellForce 3: Versus Edition
-Rating: 3.77 (Ranked 898)  
+Rating: 3.77 (Ranked 899)  
 Number of Ratings: 66  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  

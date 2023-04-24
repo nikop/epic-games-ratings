@@ -1,5 +1,5 @@
 # Siege Survival - Gloria Victis
-Rating: 4.05 (Ranked 861)  
+Rating: 4.05 (Ranked 862)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  
 Sum: 0 (Ranked 486)  

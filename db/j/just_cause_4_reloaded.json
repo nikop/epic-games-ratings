@@ -2,15 +2,15 @@
   "ID": "ba8062bdcc1342c0b78743e3c6242575",
   "Name": "Just Cause 4 Reloaded",
   "Rating": 4.3,
-  "Ranking_Rating": 747,
+  "Ranking_Rating": 748,
   "Ranking_Popularity": 78,
   "Ranking_PopularitySum": 104,
   "NumberOfRatings": 5442,
-  "NumberOfAwards": 6812,
-  "NumberOfAwardsMax": 3570,
+  "NumberOfAwards": 6815,
+  "NumberOfAwardsMax": 3573,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:18:31.4925823+00:00",
-  "LastChanged": "2023-04-23T16:57:12.0749189+00:00",
+  "LastChanged": "2023-04-24T20:57:10.1264905+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:31.4925825+00:00",
@@ -2850,6 +2850,12 @@
       "Rating": 4.3,
       "NumberOfAwards": 6812,
       "NumberOfAwardsMax": 3570
+    },
+    {
+      "Time": "2023-04-24T20:57:10.1264994+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 6815,
+      "NumberOfAwardsMax": 3573
     }
   ],
   "Tags": [
@@ -2857,7 +2863,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3570
+      "Count": 3573
     },
     {
       "Text": "This game is Great for Beginners",

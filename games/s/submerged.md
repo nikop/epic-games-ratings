@@ -1,5 +1,5 @@
 # Submerged
-Rating: 4.09 (Ranked 850)  
+Rating: 4.09 (Ranked 851)  
 Number of Ratings: 27  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  

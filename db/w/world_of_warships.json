@@ -2,15 +2,15 @@
   "ID": "84c76746bce94effb8e1047fabfd7eb7",
   "Name": "World of Warships",
   "Rating": 4.43,
-  "Ranking_Rating": 629,
+  "Ranking_Rating": 630,
   "Ranking_Popularity": 131,
   "Ranking_PopularitySum": 82,
   "NumberOfRatings": 4733,
-  "NumberOfAwards": 8884,
+  "NumberOfAwards": 8889,
   "NumberOfAwardsMax": 1014,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
-  "LastChanged": "2023-04-24T14:57:15.2230761+00:00",
+  "LastChanged": "2023-04-24T20:57:01.9499269+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:02.7521929+00:00",
@@ -3650,6 +3650,12 @@
       "Rating": 4.43,
       "NumberOfAwards": 8884,
       "NumberOfAwardsMax": 1014
+    },
+    {
+      "Time": "2023-04-24T20:57:01.949927+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 8889,
+      "NumberOfAwardsMax": 1014
     }
   ],
   "Tags": [
@@ -3675,7 +3681,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 996
+      "Count": 1001
     },
     {
       "Text": "This game has Realistic Visuals",

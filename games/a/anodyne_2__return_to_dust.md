@@ -1,5 +1,5 @@
 # Anodyne 2: Return To Dust
-Rating: 4.33 (Ranked 725)  
+Rating: 4.33 (Ranked 726)  
 Number of Ratings: 20  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  

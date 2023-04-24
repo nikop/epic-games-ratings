@@ -1,21 +1,21 @@
 # Fortnite
-Rating: 4.29 (Ranked 754)  
+Rating: 4.29 (Ranked 755)  
 Number of Ratings: 2,283,925  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Competitive Players): 1,249,818  (Ranked 1)  
-Sum: 9,046,668 (Ranked 1)  
+Max (Competitive Players): 1,252,283  (Ranked 1)  
+Sum: 9,063,788 (Ranked 1)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Competitive Players | 1,249,818 |
-| This game has Quickly Understood Controls | 1,201,967 |
-| This game is Extremely Fun | 1,189,369 |
-| This game has Diverse Characters | 1,164,800 |
-| This game has Amazing Storytelling | 1,119,069 |
-| This game has Amazing Characters | 1,103,647 |
-| This game is Highly Recommended | 1,092,378 |
-| This game has a Competitive Community | 925,620 |
+| This game has Competitive Players | 1,252,283 |
+| This game has Quickly Understood Controls | 1,204,363 |
+| This game is Extremely Fun | 1,191,641 |
+| This game has Diverse Characters | 1,166,939 |
+| This game has Amazing Storytelling | 1,121,189 |
+| This game has Amazing Characters | 1,105,721 |
+| This game is Highly Recommended | 1,094,354 |
+| This game has a Competitive Community | 927,298 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -107,3 +107,4 @@ Diff (max vs sum): 0
 | 2023-04-21 | 4.30 | - | 1,243,119 | 9,000,043 |
 | 2023-04-22 | 4.30 | - | 1,246,354 | 9,023,078 |
 | 2023-04-23 | 4.29 | - | 1,249,818 | 9,046,668 |
+| 2023-04-24 | 4.29 | - | 1,252,283 | 9,063,788 |

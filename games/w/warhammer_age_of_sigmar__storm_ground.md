@@ -1,5 +1,5 @@
 # Warhammer Age of Sigmar: Storm Ground
-Rating: 4.15 (Ranked 830)  
+Rating: 4.15 (Ranked 831)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  
 Sum: 0 (Ranked 486)  

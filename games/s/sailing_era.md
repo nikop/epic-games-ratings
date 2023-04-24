@@ -1,5 +1,5 @@
 # Sailing Era
-Rating: 4.80 (Ranked 78)  
+Rating: 4.81 (Ranked 72)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  
 Sum: 0 (Ranked 486)  
@@ -16,3 +16,4 @@ Diff (max vs sum): 0
 | 2023-03-29 | 4.78 | - | - |
 | 2023-03-31 | 4.79 | 0 | 0 |
 | 2023-04-21 | 4.80 | 0 | 0 |
+| 2023-04-24 | 4.81 | 0 | 0 |

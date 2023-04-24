@@ -1,5 +1,5 @@
 # The Lion's Song
-Rating: 4.41 (Ranked 652)  
+Rating: 4.40 (Ranked 663)  
 Number of Ratings: 67  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  
@@ -64,3 +64,4 @@ Diff (max vs sum): 0
 | 2022-12-09 | 4.42 | - | - | - |
 | 2022-12-15 | 4.41 | - | - | - |
 | 2023-03-31 | 4.41 | - | 0 | 0 |
+| 2023-04-24 | 4.40 | - | 0 | 0 |

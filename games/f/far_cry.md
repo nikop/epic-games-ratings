@@ -1,5 +1,5 @@
 # Far Cry
-Rating: 4.49 (Ranked 540)  
+Rating: 4.50 (Ranked 525)  
 Number of Ratings: 46  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  
@@ -69,3 +69,4 @@ Diff (max vs sum): 0
 | 2023-03-21 | 4.48 | - | - | - |
 | 2023-03-31 | 4.48 | - | 0 | 0 |
 | 2023-04-20 | 4.49 | - | 0 | 0 |
+| 2023-04-24 | 4.50 | - | 0 | 0 |

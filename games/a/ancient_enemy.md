@@ -1,5 +1,5 @@
 # Ancient Enemy
-Rating: 3.95 (Ranked 879)  
+Rating: 3.95 (Ranked 880)  
 Number of Ratings: 2,089  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 45  (Ranked 394)  

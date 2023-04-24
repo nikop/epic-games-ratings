@@ -1,5 +1,5 @@
 # Chernobylite
-Rating: 4.13 (Ranked 838)  
+Rating: 4.13 (Ranked 839)  
 Number of Ratings: 149  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  

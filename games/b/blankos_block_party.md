@@ -1,5 +1,5 @@
 # Blankos Block Party
-Rating: 4.21 (Ranked 793)  
+Rating: 4.20 (Ranked 797)  
 Number of Ratings: 27  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 29  (Ranked 443)  
@@ -78,3 +78,4 @@ Diff (max vs sum): 84
 | 2023-04-03 | 4.21 | - | 28 | 148 |
 | 2023-04-08 | 4.21 | - | 29 | 150 |
 | 2023-04-09 | 4.21 | - | 29 | 171 |
+| 2023-04-24 | 4.20 | - | 29 | 171 |
