@@ -174,7 +174,7 @@
 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.61 | 348 | 74 | 348 |
 | [Darkwood](games/d/darkwood.md) | 4.61 | 348 | 319 | 214 |
 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 617 | 0 | 486 |
-| [Dauntless](games/d/dauntless.md) | 4.53 | 484 | 19,559 | 17 |
+| [Dauntless](games/d/dauntless.md) | 4.53 | 484 | 19,566 | 17 |
 | [Days Gone](games/d/days_gone.md) | 4.69 | 208 | 3,729 | 76 |
 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 825 | 0 | 486 |
 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 496 | 26,742 | 15 |
@@ -196,7 +196,7 @@
 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 333 | 272 | 228 |
 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 49 | 45 | 394 |
 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 525 | 0 | 486 |
-| [Destiny 2](games/d/destiny_2.md) | 4.50 | 525 | 33,191 | 12 |
+| [Destiny 2](games/d/destiny_2.md) | 4.50 | 525 | 33,226 | 12 |
 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 333 | 34 | 425 |
 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.56 | 441 | 34 | 425 |
 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 24 | 1,366 | 116 |
@@ -240,7 +240,7 @@
 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 541 | 271 | 229 |
 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.20 | 798 | 0 | 486 |
 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.64 | 310 | 45 | 394 |
-| [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 441 | 721 | 151 |
+| [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 441 | 724 | 150 |
 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.59 | 387 | 235 | 239 |
 | [Faeria](games/f/faeria.md) | 4.45 | 599 | 103 | 313 |
 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 484 | 137,754 | 6 |
@@ -503,7 +503,7 @@
 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 91 | 116 | 301 |
 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 164 | 39 | 407 |
 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 599 | 37 | 412 |
-| [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 755 | 43 | 403 |
+| [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 755 | 43 | 404 |
 | [Old World](games/o/old_world.md) | 4.65 | 287 | 212 | 248 |
 | [Ooblets](games/o/ooblets.md) | 4.87 | 24 | 998 | 134 |
 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 270 | 0 | 486 |
@@ -764,7 +764,7 @@
 | [The Pathless](games/t/the_pathless.md) | 4.68 | 232 | 0 | 486 |
 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 190 | 0 | 486 |
 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 126 | 37 | 412 |
-| [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.74 | 903 | 43 | 403 |
+| [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.74 | 903 | 44 | 401 |
 | [The Silent Age](games/t/the_silent_age.md) | 4.35 | 710 | 0 | 486 |
 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.59 | 387 | 120 | 297 |
 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.24 | 776 | 0 | 486 |

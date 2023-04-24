@@ -5,12 +5,12 @@
   "Ranking_Rating": 816,
   "Ranking_Popularity": 394,
   "Ranking_PopularitySum": 339,
-  "NumberOfAwards": 240,
+  "NumberOfAwards": 241,
   "NumberOfAwardsMax": 45,
-  "MaxAwardTitle": "Highly Recommended",
+  "MaxAwardTitle": "Amazing Storytelling",
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
-  "LastChanged": "2023-04-24T19:57:17.0441845+00:00",
+  "LastChanged": "2023-04-24T23:57:05.8956465+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-03T10:57:24.5094082+00:00",
@@ -325,6 +325,12 @@
       "Rating": 4.18,
       "NumberOfAwards": 240,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-04-24T23:57:05.8956467+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 241,
+      "NumberOfAwardsMax": 45
     }
   ],
   "Tags": [
@@ -356,7 +362,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 44
+      "Count": 45
     },
     {
       "Text": "This game has Challenging Combat",

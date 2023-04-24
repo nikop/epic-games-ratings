@@ -448,7 +448,7 @@
 | 441 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 50 | 381 |
 | 441 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 0 | 486 |
 | 441 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.56 | 34 | 425 |
-| 441 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 721 | 151 |
+| 441 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 724 | 150 |
 | 441 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 27 | 448 |
 | 441 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 0 | 486 |
 | 441 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 132 | 288 |
@@ -486,7 +486,7 @@
 | 484 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 486 |
 | 484 | [Aztez](games/a/aztez.md) | 4.53 | 0 | 486 |
 | 484 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 486 |
-| 484 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,559 | 17 |
+| 484 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,566 | 17 |
 | 484 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 137,754 | 6 |
 | 484 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 117 | 299 |
 | 484 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 486 |
@@ -527,7 +527,7 @@
 | 525 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 209 | 251 |
 | 525 | [CryoFall](games/c/cryofall.md) | 4.50 | 0 | 486 |
 | 525 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 486 |
-| 525 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 33,191 | 12 |
+| 525 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 33,226 | 12 |
 | 525 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 66 | 362 |
 | 525 | [Far Cry](games/f/far_cry.md) | 4.50 | 0 | 486 |
 | 525 | [Horace](games/h/horace.md) | 4.50 | 0 | 486 |
@@ -758,7 +758,7 @@
 | 755 | [ELEX II](games/e/elex_ii.md) | 4.29 | 0 | 486 |
 | 755 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,252,283 | 1 |
 | 755 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 671 | 156 |
-| 755 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 43 | 403 |
+| 755 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 43 | 404 |
 | 755 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 125 | 292 |
 | 755 | [The Fall](games/t/the_fall.md) | 4.29 | 0 | 486 |
 | 762 | [Rage 2](games/r/rage_2.md) | 4.28 | 2,422 | 91 |
@@ -902,5 +902,5 @@
 | 900 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 0 | 486 |
 | 900 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.75 | 0 | 486 |
 | 900 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 486 |
-| 903 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.74 | 43 | 403 |
+| 903 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.74 | 44 | 401 |
 | 904 | [Blood of Steel](games/b/blood_of_steel.md) | 3.67 | 0 | 486 |

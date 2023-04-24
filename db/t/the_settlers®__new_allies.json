@@ -3,14 +3,14 @@
   "Name": "The Settlers\u00AE: New Allies",
   "Rating": 3.74,
   "Ranking_Rating": 903,
-  "Ranking_Popularity": 403,
+  "Ranking_Popularity": 401,
   "Ranking_PopularitySum": 383,
-  "NumberOfAwards": 125,
-  "NumberOfAwardsMax": 43,
+  "NumberOfAwards": 126,
+  "NumberOfAwardsMax": 44,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2023-02-17T13:12:44.8398615+00:00",
   "FirstSeenRating": "2023-02-19T13:09:54.8324207+00:00",
-  "LastChanged": "2023-04-24T19:57:38.4526674+00:00",
+  "LastChanged": "2023-04-24T23:57:23.1022635+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-19T13:09:54.8324224+00:00",
@@ -437,6 +437,12 @@
       "Rating": 3.74,
       "NumberOfAwards": 125,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2023-04-24T23:57:23.1022637+00:00",
+      "Rating": 3.74,
+      "NumberOfAwards": 126,
+      "NumberOfAwardsMax": 44
     }
   ],
   "Tags": [
@@ -456,7 +462,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 43
+      "Count": 44
     }
   ]
 }
