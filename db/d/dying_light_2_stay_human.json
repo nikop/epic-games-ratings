@@ -1,16 +1,16 @@
 {
   "ID": "87b7846d2eba4bc49eead0854323aba8",
   "Name": "Dying Light 2 Stay Human",
-  "Rating": 4.57,
-  "Ranking_Rating": 423,
+  "Rating": 4.58,
+  "Ranking_Rating": 408,
   "Ranking_Popularity": 46,
   "Ranking_PopularitySum": 59,
   "NumberOfRatings": 7305,
-  "NumberOfAwards": 15120,
+  "NumberOfAwards": 15125,
   "NumberOfAwardsMax": 6571,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
-  "LastChanged": "2023-04-24T08:57:10.1863927+00:00",
+  "LastChanged": "2023-04-24T11:57:06.9105433+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:57.6151267+00:00",
@@ -3615,6 +3615,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 15120,
       "NumberOfAwardsMax": 6571
+    },
+    {
+      "Time": "2023-04-24T11:57:06.9105435+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 15125,
+      "NumberOfAwardsMax": 6571
     }
   ],
   "Tags": [
@@ -3688,7 +3694,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 408
+      "Count": 413
     }
   ]
 }
