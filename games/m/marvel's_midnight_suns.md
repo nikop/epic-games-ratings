@@ -2,7 +2,7 @@
 Rating: 4.52 (Ranked 496)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 1,093  (Ranked 125)  
-Sum: 2,256 (Ranked 172)  
+Sum: 2,257 (Ranked 172)  
 Diff (max vs sum): -47
 ## Awards
 | Award | Count |
@@ -16,7 +16,7 @@ Diff (max vs sum): -47
 | This game is Great for Beginners | 133 |
 | This game has Amazing Characters | 129 |
 | This game is Extremely Fun | 123 |
-| This game has a Creative Community | 68 |
+| This game has a Creative Community | 69 |
 | This game has Challenging Combat | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -86,4 +86,4 @@ Diff (max vs sum): -47
 | 2023-04-21 | 4.52 | 1,075 | 2,218 |
 | 2023-04-22 | 4.52 | 1,087 | 2,234 |
 | 2023-04-23 | 4.52 | 1,093 | 2,248 |
-| 2023-04-24 | 4.52 | 1,093 | 2,256 |
+| 2023-04-24 | 4.52 | 1,093 | 2,257 |

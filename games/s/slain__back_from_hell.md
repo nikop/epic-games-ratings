@@ -2,8 +2,8 @@
 Rating: 4.28 (Ranked 761)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 124  (Ranked 293)  
-Sum: 124 (Ranked 383)  
-Diff (max vs sum): -90
+Sum: 124 (Ranked 384)  
+Diff (max vs sum): -91
 ## Awards
 | Award | Count |
 | ----- | ----- |

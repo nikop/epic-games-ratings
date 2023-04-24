@@ -2,15 +2,15 @@
   "ID": "c37115918ccc4969a57b6b1bdc28af4a",
   "Name": "Tiny Tina\u0027s Wonderlands",
   "Rating": 4.57,
-  "Ranking_Rating": 424,
+  "Ranking_Rating": 423,
   "Ranking_Popularity": 18,
   "Ranking_PopularitySum": 35,
   "NumberOfRatings": 20753,
-  "NumberOfAwards": 31570,
+  "NumberOfAwards": 31572,
   "NumberOfAwardsMax": 17944,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:20:26.2976401+00:00",
-  "LastChanged": "2023-04-24T16:57:19.9570855+00:00",
+  "LastChanged": "2023-04-24T19:57:25.5609423+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:26.2976404+00:00",
@@ -4070,6 +4070,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 31570,
       "NumberOfAwardsMax": 17944
+    },
+    {
+      "Time": "2023-04-24T19:57:25.5609425+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 31572,
+      "NumberOfAwardsMax": 17944
     }
   ],
   "Tags": [
@@ -4095,7 +4101,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1729
+      "Count": 1731
     },
     {
       "Text": "This game has Diverse Characters",

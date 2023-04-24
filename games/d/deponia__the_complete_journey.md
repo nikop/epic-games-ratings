@@ -3,8 +3,8 @@ Rating: 4.62 (Ranked 333)
 Number of Ratings: 777  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Challenging Puzzles): 272  (Ranked 228)  
-Sum: 272 (Ranked 330)  
-Diff (max vs sum): -102
+Sum: 272 (Ranked 329)  
+Diff (max vs sum): -101
 ## Awards
 | Award | Count |
 | ----- | ----- |

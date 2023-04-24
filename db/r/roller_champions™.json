@@ -3,14 +3,14 @@
   "Name": "Roller Champions\u2122",
   "Rating": 4.34,
   "Ranking_Rating": 717,
-  "Ranking_Popularity": 239,
+  "Ranking_Popularity": 240,
   "Ranking_PopularitySum": 193,
   "NumberOfRatings": 5693,
-  "NumberOfAwards": 1788,
+  "NumberOfAwards": 1789,
   "NumberOfAwardsMax": 234,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:21:37.6973739+00:00",
-  "LastChanged": "2023-04-22T11:57:34.1274022+00:00",
+  "LastChanged": "2023-04-24T19:57:36.7030831+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:37.6973742+00:00",
@@ -1764,6 +1764,12 @@
       "Rating": 4.34,
       "NumberOfAwards": 1788,
       "NumberOfAwardsMax": 234
+    },
+    {
+      "Time": "2023-04-24T19:57:36.7030834+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 1789,
+      "NumberOfAwardsMax": 234
     }
   ],
   "Tags": [
@@ -1825,7 +1831,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 164
+      "Count": 165
     }
   ]
 }
