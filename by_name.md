@@ -8,7 +8,7 @@
 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 232 | 3,315 | 80 |
 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 141 | 398 | 196 |
 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 60 | 0 | 486 |
-| [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 509 | 1,550 | 111 |
+| [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 509 | 1,552 | 111 |
 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 637 | 0 | 486 |
 | [ABZU](games/a/abzu.md) | 4.61 | 349 | 0 | 486 |
 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.00 | 868 | 0 | 486 |
@@ -97,7 +97,7 @@
 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 558 | 0 | 486 |
 | [Blood of Steel](games/b/blood_of_steel.md) | 3.67 | 903 | 0 | 486 |
 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 106 | 2,422 | 90 |
-| [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 114 | 13,981 | 23 |
+| [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 114 | 13,989 | 23 |
 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 209 | 107,936 | 8 |
 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 540 | 392 | 197 |
 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 424 | 85 | 336 |
@@ -262,7 +262,7 @@
 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 178 | 0 | 486 |
 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 809 | 0 | 486 |
 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 178 | 6,160 | 51 |
-| [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 191 | 4,103 | 70 |
+| [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 191 | 4,108 | 70 |
 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 886 | 103 | 313 |
 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 442 | 27 | 448 |
 | [Fez](games/f/fez.md) | 4.71 | 178 | 23 | 463 |
@@ -488,7 +488,7 @@
 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 484 | 0 | 486 |
 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 155 | 139 | 285 |
 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 78 | 2,334 | 93 |
-| [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 424 | 7,171 | 42 |
+| [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 424 | 7,177 | 42 |
 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 209 | 0 | 486 |
 | [NORCO](games/n/norco.md) | 4.62 | 334 | 0 | 486 |
 | [Northgard](games/n/northgard.md) | 4.72 | 164 | 27 | 448 |
@@ -575,7 +575,7 @@
 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 892 | 0 | 486 |
 | [Returnal™](games/r/returnal™.md) | 4.66 | 270 | 20 | 478 |
 | [Revita](games/r/revita.md) | 4.68 | 232 | 0 | 486 |
-| [Riders Republic](games/r/riders_republic.md) | 4.75 | 126 | 416 | 190 |
+| [Riders Republic](games/r/riders_republic.md) | 4.75 | 126 | 417 | 189 |
 | [RiME](games/r/rime.md) | 4.59 | 389 | 0 | 486 |
 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 617 | 0 | 486 |
 | [RimWorld](games/r/rimworld.md) | 4.89 | 12 | 401 | 195 |
@@ -610,7 +610,7 @@
 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 349 | 266 | 231 |
 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 287 | 0 | 486 |
 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 571 | 0 | 486 |
-| [Satisfactory](games/s/satisfactory.md) | 4.88 | 18 | 9,128 | 34 |
+| [Satisfactory](games/s/satisfactory.md) | 4.88 | 18 | 9,139 | 34 |
 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 775 | 0 | 486 |
 | [Scavengers](games/s/scavengers.md) | 4.18 | 815 | 96 | 323 |
 | [Scorn](games/s/scorn.md) | 4.47 | 571 | 0 | 486 |
@@ -722,7 +722,7 @@
 | [Tharsis](games/t/tharsis.md) | 4.05 | 861 | 0 | 486 |
 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 191 | 44 | 400 |
 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.64 | 310 | 0 | 486 |
-| [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 7 | 1,788 | 105 |
+| [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 7 | 1,790 | 105 |
 | [The Bridge](games/t/the_bridge.md) | 4.20 | 797 | 0 | 486 |
 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 617 | 0 | 486 |
 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 815 | 44 | 400 |

@@ -3,14 +3,14 @@
   "Name": "Riders Republic",
   "Rating": 4.75,
   "Ranking_Rating": 126,
-  "Ranking_Popularity": 190,
+  "Ranking_Popularity": 189,
   "Ranking_PopularitySum": 134,
   "NumberOfRatings": 4120,
-  "NumberOfAwards": 3751,
-  "NumberOfAwardsMax": 416,
+  "NumberOfAwards": 3752,
+  "NumberOfAwardsMax": 417,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:20:50.8722129+00:00",
-  "LastChanged": "2023-04-24T10:57:13.4979132+00:00",
+  "LastChanged": "2023-04-24T13:57:16.3773026+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:50.8722132+00:00",
@@ -2828,6 +2828,12 @@
       "Rating": 4.75,
       "NumberOfAwards": 3751,
       "NumberOfAwardsMax": 416
+    },
+    {
+      "Time": "2023-04-24T13:57:16.3773028+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 3752,
+      "NumberOfAwardsMax": 417
     }
   ],
   "Tags": [
@@ -2883,7 +2889,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 416
+      "Count": 417
     },
     {
       "Text": "This game is Educational",

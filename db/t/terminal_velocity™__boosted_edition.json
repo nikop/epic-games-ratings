@@ -1,6 +1,18 @@
 {
   "ID": "b1a0fc6a469347c8834c90f39c1f071c",
   "Name": "Terminal Velocity\u2122: Boosted Edition",
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-24T13:57:47.5499338+00:00",
+  "FirstSeenRating": "2023-04-24T13:57:47.5499376+00:00",
+  "LastChanged": "2023-04-24T13:57:47.5499377+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-24T13:57:47.549938+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }
