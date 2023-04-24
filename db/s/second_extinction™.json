@@ -1,8 +1,8 @@
 {
   "ID": "fcd3387b58864614b66952d0430d2b9a",
   "Name": "Second Extinction\u2122",
-  "Rating": 4.07,
-  "Ranking_Rating": 856,
+  "Rating": 4.06,
+  "Ranking_Rating": 859,
   "Ranking_Popularity": 206,
   "Ranking_PopularitySum": 300,
   "NumberOfRatings": 617,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 345,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:33:01.3104454+00:00",
-  "LastChanged": "2023-04-24T04:58:35.2409739+00:00",
+  "LastChanged": "2023-04-24T10:58:21.9903664+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:33:01.3104463+00:00",
@@ -756,6 +756,12 @@
     {
       "Time": "2023-04-24T04:58:35.2409741+00:00",
       "Rating": 4.07,
+      "NumberOfAwards": 386,
+      "NumberOfAwardsMax": 345
+    },
+    {
+      "Time": "2023-04-24T10:58:21.9903666+00:00",
+      "Rating": 4.06,
       "NumberOfAwards": 386,
       "NumberOfAwardsMax": 345
     }

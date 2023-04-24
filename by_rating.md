@@ -183,7 +183,7 @@
 | 178 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,160 | 51 |
 | 178 | [Fez](games/f/fez.md) | 4.71 | 23 | 463 |
 | 178 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 421 |
-| 178 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,105 | 43 |
+| 178 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,111 | 43 |
 | 178 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 0 | 486 |
 | 178 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 0 | 486 |
 | 178 | [shapez](games/s/shapez.md) | 4.71 | 0 | 486 |
@@ -375,7 +375,7 @@
 | 349 | [Warframe](games/w/warframe.md) | 4.61 | 14,215 | 22 |
 | 374 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,487 | 30 |
 | 374 | [Control](games/c/control.md) | 4.60 | 8,234 | 37 |
-| 374 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,184 | 25 |
+| 374 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,187 | 25 |
 | 374 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 117 | 299 |
 | 374 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 36 | 416 |
 | 374 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 552 | 168 |
@@ -412,7 +412,7 @@
 | 408 | [Breathedge](games/b/breathedge.md) | 4.58 | 0 | 486 |
 | 408 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.58 | 0 | 486 |
 | 408 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 36 | 416 |
-| 408 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 213 | 246 |
+| 408 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 214 | 246 |
 | 408 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 22 | 468 |
 | 408 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,469 | 112 |
 | 408 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 202 | 252 |
@@ -554,21 +554,21 @@
 | 540 | [Maneater](games/m/maneater.md) | 4.49 | 13,402 | 24 |
 | 540 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 608 | 161 |
 | 540 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 486 |
-| 540 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.49 | 0 | 486 |
 | 540 | [Solitairica](games/s/solitairica.md) | 4.49 | 81 | 340 |
 | 540 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.49 | 0 | 486 |
 | 540 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 0 | 486 |
-| 559 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 0 | 486 |
-| 559 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 486 |
-| 559 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 0 | 486 |
-| 559 | [Hell is Others](games/h/hell_is_others.md) | 4.48 | 0 | 486 |
-| 559 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.48 | 0 | 486 |
-| 559 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 0 | 486 |
-| 559 | [Paradigm](games/p/paradigm.md) | 4.48 | 0 | 486 |
-| 559 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 0 | 486 |
-| 559 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.48 | 0 | 486 |
-| 559 | [The Escapists](games/t/the_escapists.md) | 4.48 | 0 | 486 |
-| 559 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 36 | 416 |
+| 558 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 0 | 486 |
+| 558 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 486 |
+| 558 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 0 | 486 |
+| 558 | [Hell is Others](games/h/hell_is_others.md) | 4.48 | 0 | 486 |
+| 558 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.48 | 0 | 486 |
+| 558 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 0 | 486 |
+| 558 | [Paradigm](games/p/paradigm.md) | 4.48 | 0 | 486 |
+| 558 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.48 | 0 | 486 |
+| 558 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 0 | 486 |
+| 558 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.48 | 0 | 486 |
+| 558 | [The Escapists](games/t/the_escapists.md) | 4.48 | 0 | 486 |
+| 558 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 36 | 416 |
 | 570 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 486 |
 | 570 | [Chorus](games/c/chorus.md) | 4.47 | 32 | 430 |
 | 570 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.47 | 0 | 486 |
@@ -857,9 +857,9 @@
 | 852 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.08 | 0 | 486 |
 | 856 | [Godfall](games/g/godfall.md) | 4.07 | 504 | 178 |
 | 856 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 0 | 486 |
-| 856 | [Second Extinction™](games/s/second_extinction™.md) | 4.07 | 345 | 206 |
 | 856 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 0 | 486 |
-| 860 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 4,848 | 61 |
+| 859 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 4,848 | 61 |
+| 859 | [Second Extinction™](games/s/second_extinction™.md) | 4.06 | 345 | 206 |
 | 861 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 0 | 486 |
 | 861 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.05 | 0 | 486 |
 | 861 | [Tharsis](games/t/tharsis.md) | 4.05 | 0 | 486 |
@@ -893,8 +893,8 @@
 | 891 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 3.87 | 54 | 378 |
 | 892 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 486 |
 | 892 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.86 | 0 | 486 |
+| 894 | [Chainmonsters](games/c/chainmonsters.md) | 3.81 | 0 | 486 |
 | 894 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.81 | 0 | 486 |
-| 895 | [Chainmonsters](games/c/chainmonsters.md) | 3.80 | 0 | 486 |
 | 896 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 66 | 362 |
 | 896 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,019 | 130 |
 | 898 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 486 |

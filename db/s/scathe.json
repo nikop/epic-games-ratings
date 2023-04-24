@@ -1,12 +1,18 @@
 {
   "ID": "8dcfcaf1aa72402fa2e84897f6cccc50",
   "Name": "Scathe",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
-  "DailyRatings": 0,
-  "FirstSeen": null,
-  "LastChanged": null,
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-24T10:58:16.8028395+00:00",
+  "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
+  "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-24T10:58:16.8028422+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }
