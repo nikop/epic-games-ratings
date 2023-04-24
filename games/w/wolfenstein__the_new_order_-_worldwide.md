@@ -1,5 +1,5 @@
 # Wolfenstein: The New Order - Worldwide
-Rating: 4.58 (Ranked 407)  
+Rating: 4.58 (Ranked 408)  
 Number of Ratings: 61,135  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 14,322  (Ranked 21)  
