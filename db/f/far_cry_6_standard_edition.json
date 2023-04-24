@@ -1,16 +1,16 @@
 {
   "ID": "b4565296c22549e4830c13bc7506642d",
   "Name": "Far Cry 6 Standard Edition",
-  "Rating": 4.44,
-  "Ranking_Rating": 616,
+  "Rating": 4.45,
+  "Ranking_Rating": 597,
   "Ranking_Popularity": 155,
   "Ranking_PopularitySum": 117,
   "NumberOfRatings": 12290,
-  "NumberOfAwards": 5214,
+  "NumberOfAwards": 5215,
   "NumberOfAwardsMax": 672,
   "MaxAwardTitle": "Amazing Storytelling",
   "FirstSeen": "2022-07-22T20:18:07.3905482+00:00",
-  "LastChanged": "2023-04-23T16:57:08.1783362+00:00",
+  "LastChanged": "2023-04-24T08:57:03.9134625+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:07.3905485+00:00",
@@ -3432,6 +3432,12 @@
       "Rating": 4.44,
       "NumberOfAwards": 5214,
       "NumberOfAwardsMax": 672
+    },
+    {
+      "Time": "2023-04-24T08:57:03.9134627+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 5215,
+      "NumberOfAwardsMax": 672
     }
   ],
   "Tags": [
@@ -3469,7 +3475,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 651
+      "Count": 652
     },
     {
       "Text": "This game has Amazing Storytelling",

@@ -1,8 +1,8 @@
 {
   "ID": "carnation",
   "Name": "Tom Clancy\u0027s Rainbow Six\u00AE Siege",
-  "Rating": 4.58,
-  "Ranking_Rating": 407,
+  "Rating": 4.57,
+  "Ranking_Rating": 423,
   "Ranking_Popularity": 108,
   "Ranking_PopularitySum": 65,
   "NumberOfRatings": 8669,
@@ -10,7 +10,7 @@
   "NumberOfAwardsMax": 1686,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:19:50.9592707+00:00",
-  "LastChanged": "2023-04-24T01:58:41.2899167+00:00",
+  "LastChanged": "2023-04-24T08:57:00.3380505+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:50.9592709+00:00",
@@ -3500,6 +3500,12 @@
     {
       "Time": "2023-04-24T01:58:41.289917+00:00",
       "Rating": 4.58,
+      "NumberOfAwards": 13784,
+      "NumberOfAwardsMax": 1686
+    },
+    {
+      "Time": "2023-04-24T08:57:00.3380506+00:00",
+      "Rating": 4.57,
       "NumberOfAwards": 13784,
       "NumberOfAwardsMax": 1686
     }
