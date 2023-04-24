@@ -6,11 +6,11 @@
   "Ranking_Popularity": 100,
   "Ranking_PopularitySum": 130,
   "NumberOfRatings": 10109,
-  "NumberOfAwards": 4126,
+  "NumberOfAwards": 4127,
   "NumberOfAwardsMax": 2130,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
-  "LastChanged": "2023-04-23T13:56:58.298713+00:00",
+  "LastChanged": "2023-04-24T05:57:27.0030257+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:38.7739807+00:00",
@@ -1829,6 +1829,12 @@
       "Rating": 4.37,
       "NumberOfAwards": 4126,
       "NumberOfAwardsMax": 2130
+    },
+    {
+      "Time": "2023-04-24T05:57:27.0030258+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 4127,
+      "NumberOfAwardsMax": 2130
     }
   ],
   "Tags": [
@@ -1896,7 +1902,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 99
+      "Count": 100
     }
   ]
 }

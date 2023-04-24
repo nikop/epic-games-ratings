@@ -23,7 +23,7 @@
 | 21 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,322 | 4.58 | 407 |
 | 22 | [Warframe](games/w/warframe.md) | 14,215 | 4.61 | 349 |
 | 23 | [Borderlands 2](games/b/borderlands_2.md) | 13,981 | 4.76 | 114 |
-| 24 | [Maneater](games/m/maneater.md) | 13,396 | 4.49 | 540 |
+| 24 | [Maneater](games/m/maneater.md) | 13,402 | 4.49 | 540 |
 | 25 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,184 | 4.60 | 374 |
 | 26 | [League of Legends](games/l/league_of_legends.md) | 12,670 | 4.21 | 793 |
 | 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,241 | 4.37 | 692 |
@@ -72,7 +72,7 @@
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,103 | 4.70 | 191 |
 | 71 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,064 | 4.51 | 509 |
 | 72 | [Chivalry 2](games/c/chivalry_2.md) | 3,980 | 4.61 | 349 |
-| 73 | [God of War](games/g/god_of_war.md) | 3,942 | 4.89 | 12 |
+| 73 | [God of War](games/g/god_of_war.md) | 3,949 | 4.89 | 12 |
 | 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 3,906 | 4.77 | 106 |
 | 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 3,750 | 4.56 | 442 |
 | 76 | [Days Gone](games/d/days_gone.md) | 3,728 | 4.69 | 209 |

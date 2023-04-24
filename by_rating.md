@@ -13,7 +13,7 @@
 | 7 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 486 |
 | 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,778 | 44 |
 | 12 | [Firework](games/f/firework.md) | 4.89 | 0 | 486 |
-| 12 | [God of War](games/g/god_of_war.md) | 4.89 | 3,942 | 73 |
+| 12 | [God of War](games/g/god_of_war.md) | 4.89 | 3,949 | 73 |
 | 12 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 135,644 | 7 |
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 401 | 195 |
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 14,678 | 20 |
@@ -552,7 +552,7 @@
 | 540 | [Hell is Others](games/h/hell_is_others.md) | 4.49 | 0 | 486 |
 | 540 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 2,205 | 97 |
 | 540 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 486 |
-| 540 | [Maneater](games/m/maneater.md) | 4.49 | 13,396 | 24 |
+| 540 | [Maneater](games/m/maneater.md) | 4.49 | 13,402 | 24 |
 | 540 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 608 | 161 |
 | 540 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 486 |
 | 540 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.49 | 0 | 486 |

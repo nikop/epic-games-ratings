@@ -303,7 +303,7 @@
 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 570 | 3,429 | 79 |
 | [GNOG](games/g/gnog.md) | 4.69 | 209 | 0 | 486 |
 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 37 | 298 | 222 |
-| [God of War](games/g/god_of_war.md) | 4.89 | 12 | 3,942 | 73 |
+| [God of War](games/g/god_of_war.md) | 4.89 | 12 | 3,949 | 73 |
 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 819 | 26 | 454 |
 | [Godfall](games/g/godfall.md) | 4.07 | 856 | 504 | 178 |
 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 786 | 0 | 486 |
@@ -440,7 +440,7 @@
 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 682 | 162 | 275 |
 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 597 | 9,950 | 33 |
 | [Mago](games/m/mago.md) | 4.90 | 7 | 0 | 486 |
-| [Maneater](games/m/maneater.md) | 4.49 | 540 | 13,396 | 24 |
+| [Maneater](games/m/maneater.md) | 4.49 | 540 | 13,402 | 24 |
 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 525 | 0 | 486 |
 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.03 | 865 | 0 | 486 |
 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 155 | 546 | 171 |
