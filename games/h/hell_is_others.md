@@ -1,5 +1,5 @@
 # Hell is Others
-Rating: 4.49 (Ranked 540)  
+Rating: 4.48 (Ranked 559)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  
 Sum: 0 (Ranked 486)  
@@ -59,3 +59,4 @@ Diff (max vs sum): 0
 | 2023-04-15 | 4.47 | 0 | 0 |
 | 2023-04-17 | 4.48 | 0 | 0 |
 | 2023-04-21 | 4.49 | 0 | 0 |
+| 2023-04-24 | 4.48 | 0 | 0 |

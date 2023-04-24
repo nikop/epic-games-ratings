@@ -126,7 +126,7 @@
 | 114 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 7,684 | 39 |
 | 114 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 486 |
 | 126 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 461 |
-| 126 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,749 | 63 |
+| 126 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,766 | 63 |
 | 126 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,160 | 83 |
 | 126 | [Diabotical](games/d/diabotical.md) | 4.75 | 265 | 232 |
 | 126 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 382 | 201 |
@@ -549,7 +549,6 @@
 | 540 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 271 | 228 |
 | 540 | [Far Cry](games/f/far_cry.md) | 4.49 | 0 | 486 |
 | 540 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 217 | 244 |
-| 540 | [Hell is Others](games/h/hell_is_others.md) | 4.49 | 0 | 486 |
 | 540 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 2,205 | 97 |
 | 540 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 486 |
 | 540 | [Maneater](games/m/maneater.md) | 4.49 | 13,402 | 24 |
@@ -559,16 +558,17 @@
 | 540 | [Solitairica](games/s/solitairica.md) | 4.49 | 81 | 340 |
 | 540 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.49 | 0 | 486 |
 | 540 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 0 | 486 |
-| 560 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 0 | 486 |
-| 560 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 486 |
-| 560 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 0 | 486 |
-| 560 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.48 | 0 | 486 |
-| 560 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 0 | 486 |
-| 560 | [Paradigm](games/p/paradigm.md) | 4.48 | 0 | 486 |
-| 560 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 0 | 486 |
-| 560 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.48 | 0 | 486 |
-| 560 | [The Escapists](games/t/the_escapists.md) | 4.48 | 0 | 486 |
-| 560 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 36 | 416 |
+| 559 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 0 | 486 |
+| 559 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 486 |
+| 559 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 0 | 486 |
+| 559 | [Hell is Others](games/h/hell_is_others.md) | 4.48 | 0 | 486 |
+| 559 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.48 | 0 | 486 |
+| 559 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 0 | 486 |
+| 559 | [Paradigm](games/p/paradigm.md) | 4.48 | 0 | 486 |
+| 559 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 0 | 486 |
+| 559 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.48 | 0 | 486 |
+| 559 | [The Escapists](games/t/the_escapists.md) | 4.48 | 0 | 486 |
+| 559 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 36 | 416 |
 | 570 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 486 |
 | 570 | [Chorus](games/c/chorus.md) | 4.47 | 32 | 430 |
 | 570 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.47 | 0 | 486 |
@@ -635,7 +635,7 @@
 | 629 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.43 | 0 | 486 |
 | 629 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 0 | 486 |
 | 629 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 276 | 225 |
-| 629 | [World of Warships](games/w/world_of_warships.md) | 4.43 | 1,010 | 131 |
+| 629 | [World of Warships](games/w/world_of_warships.md) | 4.43 | 1,014 | 131 |
 | 637 | [Absolute Drift](games/a/absolute_drift.md) | 4.42 | 0 | 486 |
 | 637 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 0 | 486 |
 | 637 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 60 | 373 |

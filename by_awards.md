@@ -62,7 +62,7 @@
 | 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,088 | 4.68 | 232 |
 | 61 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,848 | 4.06 | 860 |
 | 62 | [Rogue Company](games/r/rogue_company.md) | 4,828 | 4.34 | 717 |
-| 63 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4,749 | 4.75 | 126 |
+| 63 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4,766 | 4.75 | 126 |
 | 64 | [MultiVersus](games/m/multiversus.md) | 4,734 | 4.56 | 442 |
 | 65 | [DEATH STRANDING](games/d/death_stranding.md) | 4,585 | 4.78 | 100 |
 | 66 | [Shop Titans](games/s/shop_titans.md) | 4,535 | 3.98 | 874 |
@@ -130,7 +130,7 @@
 | 128 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,059 | 4.61 | 349 |
 | 129 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,030 | 4.66 | 270 |
 | 130 | [Saints Row](games/s/saints_row.md) | 1,019 | 3.78 | 896 |
-| 131 | [World of Warships](games/w/world_of_warships.md) | 1,010 | 4.43 | 629 |
+| 131 | [World of Warships](games/w/world_of_warships.md) | 1,014 | 4.43 | 629 |
 | 132 | [EVE Online](games/e/eve_online.md) | 1,009 | 4.26 | 769 |
 | 133 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,000 | 4.54 | 472 |
 | 134 | [Ooblets](games/o/ooblets.md) | 998 | 4.87 | 24 |
@@ -419,7 +419,7 @@
 | 416 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 36 | 4.60 | 374 |
 | 416 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 36 | 4.58 | 407 |
 | 416 | [Transport Fever 2](games/t/transport_fever_2.md) | 36 | 4.70 | 191 |
-| 416 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 36 | 4.48 | 560 |
+| 416 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 36 | 4.48 | 559 |
 | 421 | [FUSER™](games/f/fuser™.md) | 35 | 4.71 | 178 |
 | 421 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 35 | 4.57 | 424 |
 | 421 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 35 | 4.77 | 106 |
