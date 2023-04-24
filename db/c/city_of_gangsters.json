@@ -3,14 +3,14 @@
   "Name": "City of Gangsters",
   "Rating": 4.25,
   "Ranking_Rating": 773,
-  "Ranking_Popularity": 473,
-  "Ranking_PopularitySum": 437,
-  "NumberOfAwards": 41,
-  "NumberOfAwardsMax": 21,
+  "Ranking_Popularity": 468,
+  "Ranking_PopularitySum": 436,
+  "NumberOfAwards": 42,
+  "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-08-11T21:00:23.9390359+00:00",
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
-  "LastChanged": "2023-04-13T17:57:12.0513798+00:00",
+  "LastChanged": "2023-04-24T16:57:07.0761548+00:00",
   "RatingHistory": [
     {
       "Time": "2023-02-04T02:04:08.6033841+00:00",
@@ -237,6 +237,12 @@
       "Rating": 4.25,
       "NumberOfAwards": 41,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2023-04-24T16:57:07.076155+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 42,
+      "NumberOfAwardsMax": 22
     }
   ],
   "Tags": [
@@ -250,7 +256,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 21
+      "Count": 22
     }
   ]
 }
