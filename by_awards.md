@@ -13,7 +13,7 @@
 | 11 | [VALORANT](games/v/valorant.md) | 49,784 | 4.54 | 472 |
 | 12 | [Destiny 2](games/d/destiny_2.md) | 33,191 | 4.50 | 525 |
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 29,961 | 4.74 | 141 |
-| 14 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,383 | 4.65 | 287 |
+| 14 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,390 | 4.65 | 287 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 26,742 | 4.52 | 496 |
 | 16 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 23,152 | 4.57 | 424 |
 | 17 | [Dauntless](games/d/dauntless.md) | 19,559 | 4.53 | 484 |
@@ -32,7 +32,7 @@
 | 30 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 11,487 | 4.60 | 374 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,305 | 4.87 | 24 |
 | 32 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,176 | 4.69 | 209 |
-| 33 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 9,945 | 4.45 | 597 |
+| 33 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 9,950 | 4.45 | 597 |
 | 34 | [Satisfactory](games/s/satisfactory.md) | 9,128 | 4.88 | 18 |
 | 35 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 8,975 | 4.60 | 374 |
 | 36 | [HITMAN 3](games/h/hitman_3.md) | 8,708 | 4.78 | 100 |
@@ -59,7 +59,7 @@
 | 57 | [Prey](games/p/prey.md) | 5,509 | 4.62 | 334 |
 | 58 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,446 | 4.85 | 37 |
 | 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,439 | 4.82 | 60 |
-| 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,079 | 4.68 | 232 |
+| 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,088 | 4.68 | 232 |
 | 61 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,848 | 4.06 | 860 |
 | 62 | [Rogue Company](games/r/rogue_company.md) | 4,828 | 4.34 | 717 |
 | 63 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4,749 | 4.75 | 126 |
@@ -187,9 +187,9 @@
 | 185 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 452 | 4.86 | 28 |
 | 186 | [Ghostrunner](games/g/ghostrunner.md) | 451 | 4.72 | 164 |
 | 187 | [Surviving Mars](games/s/surviving_mars.md) | 433 | 4.60 | 374 |
-| 188 | [Against the Storm](games/a/against_the_storm.md) | 417 | 4.81 | 72 |
-| 189 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 416 | 4.79 | 91 |
-| 189 | [Riders Republic](games/r/riders_republic.md) | 416 | 4.75 | 126 |
+| 188 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 429 | 4.79 | 91 |
+| 189 | [Against the Storm](games/a/against_the_storm.md) | 417 | 4.81 | 72 |
+| 190 | [Riders Republic](games/r/riders_republic.md) | 416 | 4.75 | 126 |
 | 191 | [Loop Hero](games/l/loop_hero.md) | 410 | 4.68 | 232 |
 | 192 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 406 | 4.66 | 270 |
 | 193 | [Into the Breach](games/i/into_the_breach.md) | 405 | 4.84 | 49 |
@@ -205,11 +205,11 @@
 | 203 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 367 | 3.99 | 871 |
 | 204 | [Nuclear Throne](games/n/nuclear_throne.md) | 364 | 4.79 | 91 |
 | 205 | [For The King](games/f/for_the_king.md) | 359 | 4.70 | 191 |
-| 206 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 344 | 4.61 | 349 |
-| 207 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 336 | 4.33 | 725 |
-| 208 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 332 | 4.24 | 775 |
-| 209 | [Inscryption](games/i/inscryption.md) | 329 | 4.86 | 28 |
-| 209 | [Second Extinction™](games/s/second_extinction™.md) | 329 | 4.07 | 856 |
+| 206 | [Second Extinction™](games/s/second_extinction™.md) | 345 | 4.07 | 856 |
+| 207 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 344 | 4.61 | 349 |
+| 208 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 336 | 4.33 | 725 |
+| 209 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 332 | 4.24 | 775 |
+| 210 | [Inscryption](games/i/inscryption.md) | 329 | 4.86 | 28 |
 | 211 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 326 | 4.69 | 209 |
 | 212 | [Tannenberg](games/t/tannenberg.md) | 321 | 4.39 | 672 |
 | 213 | [Darkwood](games/d/darkwood.md) | 319 | 4.61 | 349 |
@@ -462,16 +462,16 @@
 | 459 | [Spirit of the North](games/s/spirit_of_the_north.md) | 25 | 4.36 | 700 |
 | 461 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 24 | 4.75 | 126 |
 | 461 | [Solar Ash](games/s/solar_ash.md) | 24 | 4.66 | 270 |
+| 463 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 23 | 4.43 | 629 |
 | 463 | [ELEX](games/e/elex.md) | 23 | 4.42 | 637 |
 | 463 | [Fez](games/f/fez.md) | 23 | 4.71 | 178 |
 | 463 | [RUINER](games/r/ruiner.md) | 23 | 4.53 | 484 |
 | 463 | [Weird West](games/w/weird_west.md) | 23 | 4.45 | 597 |
-| 467 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.27 | 764 |
-| 467 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 22 | 4.43 | 629 |
-| 467 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.20 | 797 |
-| 467 | [MotoGP™21](games/m/motogp™21.md) | 22 | 4.58 | 407 |
-| 467 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 22 | 4.88 | 18 |
-| 467 | [Yooka-Laylee](games/y/yooka-laylee.md) | 22 | 4.24 | 775 |
+| 468 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.27 | 764 |
+| 468 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.20 | 797 |
+| 468 | [MotoGP™21](games/m/motogp™21.md) | 22 | 4.58 | 407 |
+| 468 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 22 | 4.88 | 18 |
+| 468 | [Yooka-Laylee](games/y/yooka-laylee.md) | 22 | 4.24 | 775 |
 | 473 | [Black Book](games/b/black_book.md) | 21 | 4.87 | 24 |
 | 473 | [City of Gangsters](games/c/city_of_gangsters.md) | 21 | 4.25 | 773 |
 | 473 | [DEMON'S TILT](games/d/demon's_tilt.md) | 21 | 4.51 | 509 |
