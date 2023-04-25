@@ -1,10 +1,10 @@
 # Warface
-Rating: 3.92 (Ranked 883)  
+Rating: 3.92 (Ranked 884)  
 Number of Ratings: 3,179  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Relaxing): 383  (Ranked 201)  
+Max (Relaxing): 383  (Ranked 202)  
 Sum: 3,008 (Ranked 147)  
-Diff (max vs sum): 54
+Diff (max vs sum): 55
 ## Awards
 | Award | Count |
 | ----- | ----- |

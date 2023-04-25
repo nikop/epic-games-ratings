@@ -1,9 +1,9 @@
 # Football Manager 2023
 Rating: 4.75 (Ranked 126)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 385  (Ranked 199)  
+Max (Diverse Characters): 385  (Ranked 200)  
 Sum: 3,122 (Ranked 144)  
-Diff (max vs sum): 55
+Diff (max vs sum): 56
 ## Awards
 | Award | Count |
 | ----- | ----- |

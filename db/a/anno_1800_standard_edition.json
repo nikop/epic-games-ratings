@@ -6,11 +6,11 @@
   "Ranking_Popularity": 119,
   "Ranking_PopularitySum": 79,
   "NumberOfRatings": 4392,
-  "NumberOfAwards": 9491,
+  "NumberOfAwards": 9496,
   "NumberOfAwardsMax": 1218,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2023-04-25T14:57:33.1905863+00:00",
+  "LastChanged": "2023-04-25T15:57:02.4355681+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:47.4504915+00:00",
@@ -3622,6 +3622,12 @@
       "Rating": 4.82,
       "NumberOfAwards": 9491,
       "NumberOfAwardsMax": 1218
+    },
+    {
+      "Time": "2023-04-25T15:57:02.4355683+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 9496,
+      "NumberOfAwardsMax": 1218
     }
   ],
   "Tags": [
@@ -3683,7 +3689,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 946
+      "Count": 951
     },
     {
       "Text": "This game has a Creative Community",

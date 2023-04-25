@@ -3,14 +3,14 @@
   "Name": "Terraforming Mars",
   "Rating": 4.54,
   "Ranking_Rating": 472,
-  "Ranking_Popularity": 182,
+  "Ranking_Popularity": 183,
   "Ranking_PopularitySum": 145,
   "NumberOfRatings": 2731,
-  "NumberOfAwards": 3037,
-  "NumberOfAwardsMax": 490,
+  "NumberOfAwards": 3039,
+  "NumberOfAwardsMax": 491,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
-  "LastChanged": "2023-04-23T08:58:06.296734+00:00",
+  "LastChanged": "2023-04-25T15:58:07.7473478+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:50.3990272+00:00",
@@ -1991,6 +1991,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 3037,
       "NumberOfAwardsMax": 490
+    },
+    {
+      "Time": "2023-04-25T15:58:07.747348+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3039,
+      "NumberOfAwardsMax": 491
     }
   ],
   "Tags": [
@@ -2004,13 +2010,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 435
+      "Count": 436
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 490
+      "Count": 491
     },
     {
       "Text": "This game has Quickly Understood Controls",
