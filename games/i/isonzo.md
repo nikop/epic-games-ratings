@@ -3,15 +3,15 @@ Rating: 4.56 (Ranked 441)
 Number of Ratings: 98  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 30  (Ranked 439)  
-Sum: 231 (Ranked 341)  
+Sum: 232 (Ranked 341)  
 Diff (max vs sum): 98
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 30 |
 | This game is Extremely Fun | 27 |
+| This game has Quickly Understood Controls | 27 |
 | This game is Educational | 27 |
-| This game has Quickly Understood Controls | 26 |
 | This game has Diverse Characters | 25 |
 | This game has Amazing Characters | 25 |
 | This game has Realistic Visuals | 25 |
@@ -80,3 +80,4 @@ Diff (max vs sum): 98
 | 2023-04-15 | 4.56 | - | 30 | 227 |
 | 2023-04-23 | 4.56 | - | 30 | 230 |
 | 2023-04-24 | 4.56 | - | 30 | 231 |
+| 2023-04-25 | 4.56 | - | 30 | 232 |

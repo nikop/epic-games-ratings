@@ -4,4 +4,4 @@
 | [MORDHAU](games/m/mordhau.md) | 4.42 | 638 | 0 | 486 |
 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.49 | 541 | 0 | 486 |
 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 3.87 | 892 | 54 | 378 |
-| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.92 | 883 | 177 | 266 |
+| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.92 | 883 | 181 | 263 |

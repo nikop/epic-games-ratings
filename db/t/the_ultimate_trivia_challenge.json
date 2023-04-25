@@ -1,6 +1,18 @@
 {
   "ID": "9ace0bae889f45cc97fd30dac8e9321f",
   "Name": "The Ultimate Trivia Challenge",
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-25T13:04:39.1914822+00:00",
+  "FirstSeenRating": "2023-04-25T13:04:39.1914861+00:00",
+  "LastChanged": "2023-04-25T13:04:39.1914862+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-25T13:04:39.1914866+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }
