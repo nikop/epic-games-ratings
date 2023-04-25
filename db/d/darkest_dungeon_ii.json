@@ -6,11 +6,11 @@
   "Ranking_Popularity": 48,
   "Ranking_PopularitySum": 57,
   "NumberOfRatings": 7767,
-  "NumberOfAwards": 16488,
-  "NumberOfAwardsMax": 6475,
+  "NumberOfAwards": 16492,
+  "NumberOfAwardsMax": 6479,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
-  "LastChanged": "2023-04-25T04:57:45.4648397+00:00",
+  "LastChanged": "2023-04-25T08:57:31.6822901+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:45.4172839+00:00",
@@ -3587,6 +3587,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 16488,
       "NumberOfAwardsMax": 6475
+    },
+    {
+      "Time": "2023-04-25T08:57:31.6822902+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 16492,
+      "NumberOfAwardsMax": 6479
     }
   ],
   "Tags": [
@@ -3594,7 +3600,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 6475
+      "Count": 6479
     },
     {
       "Text": "This game has Obsessive Gameplay",

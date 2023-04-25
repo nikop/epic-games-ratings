@@ -47,7 +47,7 @@
 | 45 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 638 |
 | 46 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 6,604 | 4.58 | 407 |
 | 47 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,544 | 4.47 | 574 |
-| 48 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 6,475 | 4.67 | 254 |
+| 48 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 6,479 | 4.67 | 254 |
 | 49 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,423 | 4.74 | 141 |
 | 50 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,242 | 4.80 | 78 |
 | 51 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,168 | 4.71 | 178 |
@@ -62,7 +62,7 @@
 | 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,093 | 4.68 | 232 |
 | 61 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,849 | 4.06 | 860 |
 | 62 | [Rogue Company](games/r/rogue_company.md) | 4,832 | 4.34 | 718 |
-| 63 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4,766 | 4.75 | 126 |
+| 63 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4,773 | 4.75 | 126 |
 | 64 | [MultiVersus](games/m/multiversus.md) | 4,736 | 4.56 | 441 |
 | 65 | [DEATH STRANDING](games/d/death_stranding.md) | 4,597 | 4.78 | 100 |
 | 66 | [Shop Titans](games/s/shop_titans.md) | 4,537 | 3.98 | 875 |
@@ -178,9 +178,9 @@
 | 176 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 527 | 4.62 | 333 |
 | 177 | [Star Trek Online](games/s/star_trek_online.md) | 518 | 4.45 | 599 |
 | 178 | [Godfall](games/g/godfall.md) | 504 | 4.07 | 857 |
-| 179 | [FAR CRY 4](games/f/far_cry_4.md) | 499 | 4.66 | 271 |
-| 180 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 497 | 4.52 | 497 |
-| 181 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 496 | 4.74 | 141 |
+| 179 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 500 | 4.74 | 141 |
+| 180 | [FAR CRY 4](games/f/far_cry_4.md) | 499 | 4.66 | 271 |
+| 181 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 497 | 4.52 | 497 |
 | 182 | [Terraforming Mars](games/t/terraforming_mars.md) | 490 | 4.54 | 472 |
 | 183 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 479 | 4.82 | 60 |
 | 184 | [Unreal Tournament](games/u/unreal_tournament.md) | 457 | 4.66 | 271 |

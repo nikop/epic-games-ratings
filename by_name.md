@@ -54,7 +54,7 @@
 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 587 | 0 | 486 |
 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 560 | 0 | 486 |
 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 373 | 11,509 | 30 |
-| [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 126 | 4,766 | 63 |
+| [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 126 | 4,773 | 63 |
 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.42 | 638 | 0 | 486 |
 | [ATOM RPG](games/a/atom_rpg.md) | 4.45 | 599 | 46 | 392 |
 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.49 | 541 | 20 | 478 |
@@ -124,7 +124,7 @@
 | [Chess Ultra](games/c/chess_ultra.md) | 4.25 | 773 | 0 | 486 |
 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.74 | 141 | 0 | 486 |
 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 54 | 0 | 486 |
-| [Chimeraland](games/c/chimeraland.md) | 3.89 | 890 | 0 | 486 |
+| [Chimeraland](games/c/chimeraland.md) | 3.90 | 889 | 0 | 486 |
 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 348 | 3,980 | 72 |
 | [Chorus](games/c/chorus.md) | 4.47 | 574 | 32 | 430 |
 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 847 | 0 | 486 |
@@ -166,7 +166,7 @@
 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 509 | 0 | 486 |
 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 825 | 605 | 162 |
 | [Dark Light](games/d/dark_light.md) | 4.33 | 726 | 0 | 486 |
-| [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 254 | 6,475 | 48 |
+| [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 254 | 6,479 | 48 |
 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 126 | 3,163 | 83 |
 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 497 | 38 | 410 |
 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 348 | 374 | 203 |
@@ -206,7 +206,7 @@
 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.47 | 574 | 0 | 486 |
 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 693 | 0 | 486 |
 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 28 | 684 | 154 |
-| [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 141 | 496 | 181 |
+| [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 141 | 500 | 179 |
 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 78 | 317 | 216 |
 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 630 | 23 | 463 |
 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 114 | 820 | 144 |
@@ -253,7 +253,7 @@
 | [Far Cry](games/f/far_cry.md) | 4.50 | 526 | 0 | 486 |
 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.24 | 776 | 0 | 486 |
 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 348 | 0 | 486 |
-| [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 271 | 499 | 179 |
+| [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 271 | 499 | 180 |
 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 333 | 1,191 | 121 |
 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 617 | 673 | 155 |
 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 653 | 177 | 266 |
@@ -299,7 +299,7 @@
 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 541 | 219 | 245 |
 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 587 | 106 | 310 |
 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 164 | 451 | 186 |
-| [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 497 | 497 | 180 |
+| [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 497 | 497 | 181 |
 | [GigaBash](games/g/gigabash.md) | 4.65 | 287 | 0 | 486 |
 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 574 | 3,429 | 79 |
 | [GNOG](games/g/gnog.md) | 4.69 | 208 | 0 | 486 |

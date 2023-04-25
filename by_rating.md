@@ -126,7 +126,7 @@
 | 114 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 7,703 | 39 |
 | 114 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 486 |
 | 126 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 461 |
-| 126 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,766 | 63 |
+| 126 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,773 | 63 |
 | 126 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,163 | 83 |
 | 126 | [Diabotical](games/d/diabotical.md) | 4.75 | 265 | 233 |
 | 126 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 382 | 201 |
@@ -143,7 +143,7 @@
 | 141 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 398 | 196 |
 | 141 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 486 |
 | 141 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.74 | 0 | 486 |
-| 141 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 496 | 181 |
+| 141 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 500 | 179 |
 | 141 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 766 | 145 |
 | 141 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 581 | 164 |
 | 141 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,423 | 49 |
@@ -255,7 +255,7 @@
 | 232 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 0 | 486 |
 | 254 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 639 | 159 |
 | 254 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 72 | 352 |
-| 254 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,475 | 48 |
+| 254 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,479 | 48 |
 | 254 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 486 |
 | 254 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 0 | 486 |
 | 254 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.67 | 26 | 454 |
@@ -274,7 +274,7 @@
 | 271 | [Crashlands](games/c/crashlands.md) | 4.66 | 188 | 260 |
 | 271 | [Death's Door](games/d/death's_door.md) | 4.66 | 0 | 486 |
 | 271 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,285 | 118 |
-| 271 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 499 | 179 |
+| 271 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 499 | 180 |
 | 271 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 0 | 486 |
 | 271 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 0 | 486 |
 | 271 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,030 | 129 |
@@ -499,7 +499,7 @@
 | 497 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 733 | 149 |
 | 497 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 38 | 410 |
 | 497 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 26,770 | 15 |
-| 497 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 497 | 180 |
+| 497 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 497 | 181 |
 | 497 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 99 | 319 |
 | 497 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 147 | 282 |
 | 497 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 182 | 262 |
@@ -888,8 +888,8 @@
 | 883 | [Warface](games/w/warface.md) | 3.92 | 383 | 200 |
 | 887 | [Conarium](games/c/conarium.md) | 3.91 | 0 | 486 |
 | 887 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 314 |
+| 889 | [Chimeraland](games/c/chimeraland.md) | 3.90 | 0 | 486 |
 | 889 | [Wreckfest](games/w/wreckfest.md) | 3.90 | 0 | 486 |
-| 890 | [Chimeraland](games/c/chimeraland.md) | 3.89 | 0 | 486 |
 | 891 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.88 | 0 | 486 |
 | 892 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 3.87 | 54 | 378 |
 | 893 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 486 |
