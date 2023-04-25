@@ -136,7 +136,6 @@ namespace EpicRatingsUpdater
             if (item.NumberOfRatings != null)
             {
                 sb.AppendLine($"Number of Ratings: {FormatVotes(item.NumberOfRatings)}  (23.09.2022)  ");
-
             }
 
             sb.AppendLine("## Popularity (Based on Awards)");
@@ -144,6 +143,14 @@ namespace EpicRatingsUpdater
             sb.AppendLine($"Max ({item.MaxAwardTitle}): {FormatVotes(item.NumberOfAwardsMax)}  (Ranked {FormatRanking(item.Ranking_Popularity)})  ");
             sb.AppendLine($"Sum: {FormatVotes(item.NumberOfAwards)} (Ranked {FormatRanking(item.Ranking_PopularitySum)})  ");
             sb.AppendLine($"Diff (max vs sum): {FormatRanking(item.Ranking_Popularity - item.Ranking_PopularitySum)}");
+
+            if (item.EOS_Progressed > 0)
+            {
+                sb.AppendLine("## Popularity (Based on EOS Achievements)");
+
+                sb.AppendLine($"Progressed: {FormatVotes(item.EOS_Progressed)} (Ranked {FormatRanking(item.Ranking_EOS_Progress)})");
+                sb.AppendLine($"Completed: {FormatVotes(item.EOS_Completed)} ({FormatRating(item.EOS_Completed_Percentage)}%) (Ranked {FormatRanking(item.Ranking_EOS_Completed)})");
+            }
 
             sb.AppendLine("## Awards");
 

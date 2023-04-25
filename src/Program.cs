@@ -421,6 +421,11 @@ var eosTable = new MarkdownTable<GameDbItem>()
     .AddColumn("Progressed", x => MarkdownHelpers.FormatVotes(x.EOS_Progressed))
     .AddColumn("Completed", x => MarkdownHelpers.FormatVotes(x.EOS_Completed));
 
+var eosCompletersTable = new MarkdownTable<GameDbItem>()
+    .AddColumn("#", x => MarkdownHelpers.FormatRanking(x.Ranking_EOS_Completed))
+    .AddColumn("Game", x => $"[{x.Name}]({GamesLink(x)})")
+    .AddColumn("Completed", x => $"{MarkdownHelpers.FormatRating(x.EOS_Completed_Percentage)}%");
+
 // Markdown
 await File.WriteAllTextAsync(
     Path.Combine(path, "by_name.md"),
@@ -445,7 +450,12 @@ await File.WriteAllTextAsync(
 
 await File.WriteAllTextAsync(
     Path.Combine(path, "eos_achievers.md"),
-    eosTable.FormatTable(filteredList.OrderByDescending(x => x.EOS_Progressed).ThenBy(x => x.Name))
+    eosTable.FormatTable(filteredList.Where(x => x.EOS_Progressed > 0).OrderByDescending(x => x.EOS_Progressed).ThenBy(x => x.Name))
+);
+
+await File.WriteAllTextAsync(
+    Path.Combine(path, "eos_completers.md"),
+    eosCompletersTable.FormatTable(filteredList.Where(x => x.EOS_Progressed > 0).OrderByDescending(x => x.EOS_Completed_Percentage).ThenBy(x => x.Name))
 );
 
 // Stats
