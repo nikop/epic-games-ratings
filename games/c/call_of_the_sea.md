@@ -1,12 +1,12 @@
 # Call of the Sea
 Rating: 4.37 (Ranked 693)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 486)  
-Sum: 0 (Ranked 486)  
+Max (): 0  (Ranked 487)  
+Sum: 0 (Ranked 487)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,880 (Ranked 61)
-Completed: 418 (0.63%) (Ranked 30)
+Progressed: 65,921 (Ranked 61)
+Completed: 419 (0.64%) (Ranked 30)
 ## Awards
 | Award | Count |
 | ----- | ----- |

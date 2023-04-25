@@ -1,11 +1,11 @@
 # ANNO Mutationem
 Rating: 4.55 (Ranked 464)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 486)  
-Sum: 0 (Ranked 486)  
+Max (): 0  (Ranked 487)  
+Sum: 0 (Ranked 487)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 590 (Ranked 160)
+Progressed: 591 (Ranked 160)
 Completed: 0 (0.00%) (Ranked 122)
 ## Awards
 | Award | Count |

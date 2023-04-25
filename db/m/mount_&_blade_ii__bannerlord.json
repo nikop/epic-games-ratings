@@ -66,7 +66,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 501
+      "Count": 502
     },
     {
       "Text": "This game has Competitive Players",
@@ -84,6 +84,11 @@
     {
       "Time": "2023-04-25T16:58:12.6675541+00:00",
       "NumProgressed": 48045,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-25T17:57:30.334599+00:00",
+      "NumProgressed": 48051,
       "NumCompleted": 0
     }
   ],
@@ -3549,16 +3554,22 @@
       "Rating": 4.74,
       "NumberOfAwards": 12768,
       "NumberOfAwardsMax": 6423
+    },
+    {
+      "Time": "2023-04-25T17:57:30.2042494+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 12769,
+      "NumberOfAwardsMax": 6423
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
-  "EOS_Progressed": 48045,
-  "LastChanged": "2023-04-25T13:57:42.8263983+00:00",
+  "EOS_Progressed": 48051,
+  "LastChanged": "2023-04-25T17:57:30.204249+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "NumberOfAwardsMax": 6423,
-  "NumberOfAwards": 12768,
+  "NumberOfAwards": 12769,
   "NumberOfRatings": 5603,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_Progress": 71,

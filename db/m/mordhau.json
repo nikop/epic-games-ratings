@@ -1,7 +1,14 @@
 {
   "ID": "2bda08f9230144a19e98373cc4a6ac2d",
   "Name": "MORDHAU",
-  "Tags": [],
+  "Tags": [
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 23
+    }
+  ],
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:33.1084396+00:00",
@@ -16,6 +23,11 @@
     {
       "Time": "2023-04-25T16:59:25.1940103+00:00",
       "NumProgressed": 1208234,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-04-25T17:58:12.432991+00:00",
+      "NumProgressed": 1209066,
       "NumCompleted": 4
     }
   ],
@@ -151,21 +163,28 @@
       "Rating": 4.41,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-25T17:58:12.3443164+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 23,
+      "NumberOfAwardsMax": 23
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 4,
-  "EOS_Progressed": 1208234,
-  "LastChanged": "2023-04-25T16:38:34.9324401+00:00",
+  "EOS_Progressed": 1209066,
+  "LastChanged": "2023-04-25T17:58:12.3443157+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:33.1084407+00:00",
   "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
   "FirstSeen": "2023-04-13T15:58:07.4170825+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 23,
+  "NumberOfAwards": 23,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_Progress": 8,
-  "Ranking_PopularitySum": 486,
-  "Ranking_Popularity": 486,
-  "Ranking_Rating": 651,
-  "Rating": 4.41
+  "Ranking_PopularitySum": 466,
+  "Ranking_Popularity": 463,
+  "Ranking_Rating": 638,
+  "Rating": 4.42,
+  "MaxAwardTitle": "Highly Recommended"
 }

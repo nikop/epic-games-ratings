@@ -1,9 +1,9 @@
 # House Party
-Rating: 4.32 (Ranked 736)  
+Rating: 4.32 (Ranked 735)  
 Number of Ratings: 177  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 486)  
-Sum: 0 (Ranked 486)  
+Max (): 0  (Ranked 487)  
+Sum: 0 (Ranked 487)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,899 (Ranked 116)

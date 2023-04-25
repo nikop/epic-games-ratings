@@ -54,7 +54,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 18126
+      "Count": 18136
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4782,15 +4782,21 @@
       "Rating": 4.59,
       "NumberOfAwards": 248886,
       "NumberOfAwardsMax": 56092
+    },
+    {
+      "Time": "2023-04-25T17:57:14.6868941+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 248896,
+      "NumberOfAwardsMax": 56092
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T16:36:56.9107571+00:00",
+  "LastChanged": "2023-04-25T17:57:14.6868938+00:00",
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
   "NumberOfAwardsMax": 56092,
-  "NumberOfAwards": 248886,
+  "NumberOfAwards": 248896,
   "NumberOfRatings": 35570,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_Progress": 183,

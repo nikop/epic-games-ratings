@@ -54,13 +54,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 452
+      "Count": 453
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 438
+      "Count": 440
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3015,15 +3015,21 @@
       "Rating": 4.82,
       "NumberOfAwards": 3605,
       "NumberOfAwardsMax": 479
+    },
+    {
+      "Time": "2023-04-25T17:57:53.5467203+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3608,
+      "NumberOfAwardsMax": 479
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T13:05:10.547674+00:00",
+  "LastChanged": "2023-04-25T17:57:53.5467198+00:00",
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
   "NumberOfAwardsMax": 479,
-  "NumberOfAwards": 3605,
+  "NumberOfAwards": 3608,
   "NumberOfRatings": 4283,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_Progress": 183,

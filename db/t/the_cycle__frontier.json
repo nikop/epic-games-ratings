@@ -30,7 +30,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 2214
+      "Count": 2216
     },
     {
       "Text": "This game has a Competitive Community",
@@ -3913,15 +3913,21 @@
       "Rating": 4.1,
       "NumberOfAwards": 14645,
       "NumberOfAwardsMax": 2214
+    },
+    {
+      "Time": "2023-04-25T17:57:11.5634266+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 14647,
+      "NumberOfAwardsMax": 2216
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T16:36:51.4151455+00:00",
+  "LastChanged": "2023-04-25T17:57:11.5634263+00:00",
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "NumberOfAwardsMax": 2214,
-  "NumberOfAwards": 14645,
+  "NumberOfAwardsMax": 2216,
+  "NumberOfAwards": 14647,
   "NumberOfRatings": 15671,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_Progress": 183,
@@ -3929,5 +3935,5 @@
   "Ranking_Popularity": 96,
   "Ranking_Rating": 847,
   "Rating": 4.1,
-  "MaxAwardTitle": "Competitive Players"
+  "MaxAwardTitle": "Challenging Combat"
 }

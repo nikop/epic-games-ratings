@@ -1,12 +1,12 @@
 # Townsmen - A Kingdom Rebuilt
-Rating: 4.32 (Ranked 736)  
+Rating: 4.32 (Ranked 735)  
 Number of Ratings: 37  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 486)  
-Sum: 0 (Ranked 486)  
+Max (): 0  (Ranked 487)  
+Sum: 0 (Ranked 487)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,048 (Ranked 122)
+Progressed: 4,051 (Ranked 122)
 Completed: 3 (0.07%) (Ranked 90)
 ## Awards
 | Award | Count |

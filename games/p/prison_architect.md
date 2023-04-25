@@ -3,10 +3,10 @@ Rating: 4.61 (Ranked 348)
 Number of Ratings: 4,491  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 404  (Ranked 195)  
-Sum: 3,178 (Ranked 143)  
+Sum: 3,179 (Ranked 143)  
 Diff (max vs sum): 52
 ## Popularity (Based on EOS Achievements)
-Progressed: 111,895 (Ranked 55)
+Progressed: 111,922 (Ranked 55)
 Completed: 4 (0.00%) (Ranked 122)
 ## Awards
 | Award | Count |
@@ -18,7 +18,7 @@ Completed: 4 (0.00%) (Ranked 122)
 | This game is Relaxing | 356 |
 | This game has Amazing Storytelling | 346 |
 | This game has Diverse Characters | 345 |
-| This game has Amazing Characters | 319 |
+| This game has Amazing Characters | 320 |
 | This game has a Creative Community | 253 |
 | This game has Obsessive Gameplay | 234 |
 ## Ratings History
@@ -120,4 +120,4 @@ Completed: 4 (0.00%) (Ranked 122)
 | 2023-04-22 | 4.61 | - | 403 | 3,164 |
 | 2023-04-23 | 4.61 | - | 403 | 3,171 |
 | 2023-04-24 | 4.61 | - | 404 | 3,176 |
-| 2023-04-25 | 4.61 | - | 404 | 3,178 |
+| 2023-04-25 | 4.61 | - | 404 | 3,179 |

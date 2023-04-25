@@ -2,17 +2,17 @@
 Rating: 4.75 (Ranked 126)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 385  (Ranked 200)  
-Sum: 3,122 (Ranked 144)  
+Sum: 3,123 (Ranked 144)  
 Diff (max vs sum): 56
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,178 (Ranked 65)
+Progressed: 60,188 (Ranked 65)
 Completed: 14 (0.02%) (Ranked 105)
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 385 |
 | This game is Highly Recommended | 348 |
-| This game is Extremely Fun | 342 |
+| This game is Extremely Fun | 343 |
 | This game is Educational | 342 |
 | This game is Relaxing | 330 |
 | This game has Competitive Players | 293 |
@@ -81,4 +81,4 @@ Completed: 14 (0.02%) (Ranked 105)
 | 2023-04-22 | 4.75 | 379 | 3,087 |
 | 2023-04-23 | 4.75 | 379 | 3,101 |
 | 2023-04-24 | 4.75 | 382 | 3,119 |
-| 2023-04-25 | 4.75 | 385 | 3,122 |
+| 2023-04-25 | 4.75 | 385 | 3,123 |

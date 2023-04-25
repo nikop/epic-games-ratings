@@ -1,11 +1,11 @@
 # City of Gangsters
 Rating: 4.25 (Ranked 773)  
 ## Popularity (Based on Awards)
-Max (Relaxing): 22  (Ranked 468)  
+Max (Relaxing): 22  (Ranked 469)  
 Sum: 42 (Ranked 436)  
-Diff (max vs sum): 32
+Diff (max vs sum): 33
 ## Popularity (Based on EOS Achievements)
-Progressed: 305,202 (Ranked 36)
+Progressed: 305,223 (Ranked 36)
 Completed: 3 (0.00%) (Ranked 122)
 ## Awards
 | Award | Count |

@@ -6,7 +6,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 988
+      "Count": 989
     },
     {
       "Text": "This game has Diverse Characters",
@@ -314,16 +314,22 @@
       "Rating": 4.79,
       "NumberOfAwards": 1310,
       "NumberOfAwardsMax": 988
+    },
+    {
+      "Time": "2023-04-25T17:57:18.4700686+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1311,
+      "NumberOfAwardsMax": 989
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T02:57:00.2208533+00:00",
+  "LastChanged": "2023-04-25T17:57:18.4700685+00:00",
   "FirstSeenRating": "2022-11-19T02:30:31.0923375+00:00",
   "FirstSeen": "2022-11-18T19:57:18.4413349+00:00",
-  "NumberOfAwardsMax": 988,
-  "NumberOfAwards": 1310,
+  "NumberOfAwardsMax": 989,
+  "NumberOfAwards": 1311,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_Progress": 183,
   "Ranking_PopularitySum": 213,

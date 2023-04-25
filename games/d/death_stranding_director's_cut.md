@@ -3,10 +3,10 @@ Rating: 4.89 (Ranked 12)
 Number of Ratings: 3,099  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 6,804  (Ranked 44)  
-Sum: 11,600 (Ranked 72)  
+Sum: 11,603 (Ranked 72)  
 Diff (max vs sum): -28
 ## Popularity (Based on EOS Achievements)
-Progressed: 449,607 (Ranked 28)
+Progressed: 449,616 (Ranked 28)
 Completed: 1,456 (0.32%) (Ranked 46)
 ## Awards
 | Award | Count |
@@ -17,8 +17,8 @@ Completed: 1,456 (0.32%) (Ranked 46)
 | This game is Great for Beginners | 453 |
 | This game has Amazing Characters | 449 |
 | This game is Highly Recommended | 443 |
+| This game is Extremely Fun | 436 |
 | This game has Unique Visuals | 435 |
-| This game is Extremely Fun | 433 |
 | This game is Educational | 433 |
 | This game is Relaxing | 425 |
 | This game has Quickly Understood Controls | 422 |
@@ -126,4 +126,4 @@ Completed: 1,456 (0.32%) (Ranked 46)
 | 2023-04-22 | 4.89 | - | 6,765 | 11,537 |
 | 2023-04-23 | 4.89 | - | 6,778 | 11,561 |
 | 2023-04-24 | 4.89 | - | 6,789 | 11,578 |
-| 2023-04-25 | 4.89 | - | 6,804 | 11,600 |
+| 2023-04-25 | 4.89 | - | 6,804 | 11,603 |

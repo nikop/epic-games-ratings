@@ -1,8 +1,8 @@
 # The Uncertain: Light at the End
 Rating: 3.88 (Ranked 891)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 486)  
-Sum: 0 (Ranked 486)  
+Max (): 0  (Ranked 487)  
+Sum: 0 (Ranked 487)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
 Progressed: 401 (Ranked 165)

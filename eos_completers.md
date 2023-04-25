@@ -24,12 +24,12 @@
 | 22 | [Sable](games/s/sable.md) | 0.90% |
 | 23 | [Hades](games/h/hades.md) | 0.89% |
 | 24 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.88% |
-| 25 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
+| 25 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
 | 26 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 27 | [Train Valley](games/t/train_valley.md) | 0.74% |
 | 28 | [Haven](games/h/haven.md) | 0.73% |
 | 29 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
-| 30 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.63% |
+| 30 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.64% |
 | 31 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 32 | [Ghostrunner](games/g/ghostrunner.md) | 0.54% |
 | 33 | [Grindstone](games/g/grindstone.md) | 0.52% |

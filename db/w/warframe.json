@@ -54,7 +54,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 2712
+      "Count": 2716
     },
     {
       "Text": "This game has a Kind Community",
@@ -4232,15 +4232,21 @@
       "Rating": 4.61,
       "NumberOfAwards": 37561,
       "NumberOfAwardsMax": 14240
+    },
+    {
+      "Time": "2023-04-25T17:56:58.2268217+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 37565,
+      "NumberOfAwardsMax": 14240
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T15:57:00.576695+00:00",
+  "LastChanged": "2023-04-25T17:56:58.2268215+00:00",
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
   "NumberOfAwardsMax": 14240,
-  "NumberOfAwards": 37561,
+  "NumberOfAwards": 37565,
   "NumberOfRatings": 12660,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_Progress": 183,

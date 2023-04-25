@@ -12,7 +12,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 2054
+      "Count": 2057
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3617,15 +3617,21 @@
       "Rating": 4.63,
       "NumberOfAwards": 11907,
       "NumberOfAwardsMax": 2076
+    },
+    {
+      "Time": "2023-04-25T17:57:22.3010469+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 11910,
+      "NumberOfAwardsMax": 2076
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T02:57:02.3355912+00:00",
+  "LastChanged": "2023-04-25T17:57:22.3010465+00:00",
   "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
   "NumberOfAwardsMax": 2076,
-  "NumberOfAwards": 11907,
+  "NumberOfAwards": 11910,
   "NumberOfRatings": 6856,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_Progress": 183,

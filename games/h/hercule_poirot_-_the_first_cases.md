@@ -1,8 +1,8 @@
 # Hercule Poirot - The First Cases
 Rating: 4.33 (Ranked 726)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 486)  
-Sum: 0 (Ranked 486)  
+Max (): 0  (Ranked 487)  
+Sum: 0 (Ranked 487)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
 Progressed: 336 (Ranked 170)
