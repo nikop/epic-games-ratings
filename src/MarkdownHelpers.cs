@@ -148,8 +148,18 @@ namespace EpicRatingsUpdater
             {
                 sb.AppendLine("## Popularity (Based on EOS Achievements)");
 
-                sb.AppendLine($"Progressed: {FormatVotes(item.EOS_Progressed)} (Ranked {FormatRanking(item.Ranking_EOS_Progress)})");
-                sb.AppendLine($"Completed: {FormatVotes(item.EOS_Completed)} ({FormatRating(item.EOS_Completed_Percentage)}%) (Ranked {FormatRanking(item.Ranking_EOS_Completed)})");
+                sb.AppendLine($"Progressed: {FormatVotes(item.EOS_Progressed)} (Ranked {FormatRanking(item.Ranking_EOS_Progress)})  ");
+                sb.AppendLine($"Completed: {FormatVotes(item.EOS_Completed)} ({FormatRating(item.EOS_Completed_Percentage)}%) (Ranked {FormatRanking(item.Ranking_EOS_Completed)})  ");
+
+                sb.AppendLine("## EOS Players History");
+
+                sb.AppendLine("| Progressed | Completed |");
+                sb.AppendLine("| ---------- | --------- |");
+
+                foreach (var i in item.EosHistory)
+                {
+                    sb.AppendLine($"| {FormatVotes(i.NumProgressed)} | {FormatVotes(i.NumCompleted)} |");
+                }
             }
 
             sb.AppendLine("## Awards");

@@ -320,7 +320,7 @@ if (!skipRatingsUpdate)
 
     await Parallel.ForEachAsync(
         namespaces.Values, 
-        new ParallelOptions {  MaxDegreeOfParallelism = forceUpdateNames ? 2 : 3 },
+        new ParallelOptions { MaxDegreeOfParallelism = 2 },
         (ns, ct) => UpdateRating(gameIndex, ns, ct)
     );
 }
@@ -353,13 +353,13 @@ MarkdownHelpers.RankItems(
 
 // EOS Achievements
 MarkdownHelpers.RankItems(
-    filteredList.OrderByDescending(x => x.EOS_Progressed),
+    output.OrderByDescending(x => x.EOS_Progressed),
     x => x.EOS_Progressed,
     (x, rank) => x.Ranking_EOS_Progress = rank
 );
 
 MarkdownHelpers.RankItems(
-    filteredList.OrderByDescending(x => x.EOS_Completed_Percentage),
+    output.OrderByDescending(x => x.EOS_Completed_Percentage),
     x => x.EOS_Completed_Percentage,
     (x, rank) => x.Ranking_EOS_Completed = rank
 );
@@ -367,10 +367,7 @@ MarkdownHelpers.RankItems(
 foreach (var item in filteredList)
 {
     await gameIndex.SaveItem(item).ConfigureAwait(false);
-}
 
-foreach (var item in output)
-{
     var name = gameIndex.Files[item.ID] + ".md";
     var fullName = Path.Combine(dirGames, name);
 
