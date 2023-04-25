@@ -1,11 +1,14 @@
 {
   "ID": "7d8459956d774d788532fd472b437df8",
   "Name": "Bunny Park",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-09-30T19:33:06.0814746+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:48.5432443+00:00",
-  "LastChanged": "2023-03-31T05:58:48.5432443+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:49.4240429+00:00",
+      "NumProgressed": 275,
+      "NumCompleted": 8
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:48.5432446+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 2.91,
+  "EOS_Completed": 8,
+  "EOS_Progressed": 275,
+  "LastChanged": "2023-03-31T05:58:48.5432443+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:49.424044+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:48.5432443+00:00",
+  "FirstSeen": "2022-09-30T19:33:06.0814746+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

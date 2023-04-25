@@ -1,16 +1,15 @@
 {
   "ID": "bd12fd574df14846ad24703ca7b1a12b",
   "Name": "Mages of Mystralia",
-  "Rating": 4.38,
-  "Ranking_Rating": 684,
-  "Ranking_Popularity": 276,
-  "Ranking_PopularitySum": 366,
-  "NumberOfRatings": 693,
-  "NumberOfAwards": 162,
-  "NumberOfAwardsMax": 162,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-07-22T20:24:26.4536752+00:00",
-  "LastChanged": "2023-03-14T20:57:43.0123617+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 162
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:26.4536754+00:00",
@@ -517,12 +516,19 @@
       "Rating": 4.38
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 162
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-14T20:57:43.0123617+00:00",
+  "FirstSeen": "2022-07-22T20:24:26.4536752+00:00",
+  "NumberOfAwardsMax": 162,
+  "NumberOfAwards": 162,
+  "NumberOfRatings": 693,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 366,
+  "Ranking_Popularity": 276,
+  "Ranking_Rating": 684,
+  "Rating": 4.38,
+  "MaxAwardTitle": "Great Boss Battles"
 }

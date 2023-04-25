@@ -1,11 +1,14 @@
 {
   "ID": "c5730ad3d7004a65a472a7699b88008a",
   "Name": "Foretales",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-09-15T22:31:51.1934709+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
-  "LastChanged": "2023-03-31T05:57:28.024543+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:39.9795206+00:00",
+      "NumProgressed": 250,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:28.0245432+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 250,
+  "LastChanged": "2023-03-31T05:57:28.024543+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
+  "FirstSeen": "2022-09-15T22:31:51.1934709+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

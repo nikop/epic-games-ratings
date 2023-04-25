@@ -1,15 +1,8 @@
 {
   "ID": "f61b77d79ac34dc08ac9649b225168dd",
   "Name": "Mago",
-  "Rating": 4.9,
-  "Ranking_Rating": 7,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-24T02:02:00.1291984+00:00",
-  "FirstSeenRating": "2022-10-09T22:02:14.1425861+00:00",
-  "LastChanged": "2023-03-31T05:58:37.7263784+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-10-09T22:02:14.1425865+00:00",
@@ -42,5 +35,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:37.7263784+00:00",
+  "FirstSeenRating": "2022-10-09T22:02:14.1425861+00:00",
+  "FirstSeen": "2022-07-24T02:02:00.1291984+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 7,
+  "Rating": 4.9
 }

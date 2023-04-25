@@ -1,11 +1,8 @@
 {
   "ID": "154f1c07994047baacd05f40a6672c02",
   "Name": "Hitchhiker - A Mystery Game",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:29:30.5507743+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:21.4568183+00:00",
-  "LastChanged": "2023-03-31T05:58:21.4568185+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:21.4568186+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:21.4568185+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:21.4568183+00:00",
+  "FirstSeen": "2022-07-22T20:29:30.5507743+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

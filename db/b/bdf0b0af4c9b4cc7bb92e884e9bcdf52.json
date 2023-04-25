@@ -1,11 +1,8 @@
 {
   "ID": "bdf0b0af4c9b4cc7bb92e884e9bcdf52",
   "Name": null,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-02-25T16:57:54.2213486+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:56.1259717+00:00",
-  "LastChanged": "2023-03-31T05:57:56.1259718+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:56.1259719+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:56.1259718+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:56.1259717+00:00",
+  "FirstSeen": "2023-02-25T16:57:54.2213486+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

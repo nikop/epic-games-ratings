@@ -1,16 +1,21 @@
 {
   "ID": "c8ff067c1c984cd7ab1998e8a9afc8b6",
   "Name": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
-  "Rating": 4.75,
-  "Ranking_Rating": 126,
-  "Ranking_Popularity": 320,
-  "Ranking_PopularitySum": 375,
-  "NumberOfRatings": 213,
-  "NumberOfAwards": 142,
-  "NumberOfAwardsMax": 97,
-  "MaxAwardTitle": "Character Customization",
-  "FirstSeen": "2022-07-22T20:18:38.0851075+00:00",
-  "LastChanged": "2023-04-24T05:57:19.3188801+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 97
+    },
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 45
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:38.0851077+00:00",
@@ -478,18 +483,19 @@
       "NumberOfAwardsMax": 97
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "This game has Inclusive",
-      "Type": "Character Customization",
-      "Count": 97
-    },
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 45
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-24T05:57:19.3188801+00:00",
+  "FirstSeen": "2022-07-22T20:18:38.0851075+00:00",
+  "NumberOfAwardsMax": 97,
+  "NumberOfAwards": 142,
+  "NumberOfRatings": 213,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 375,
+  "Ranking_Popularity": 320,
+  "Ranking_Rating": 126,
+  "Rating": 4.75,
+  "MaxAwardTitle": "Character Customization"
 }

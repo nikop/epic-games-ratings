@@ -1,11 +1,14 @@
 {
   "ID": "53ec6d9f552241549c4d8aa1a42bcb3b",
   "Name": "Deliver Us Mars",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-02-02T14:58:20.9144782+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:02.5059025+00:00",
-  "LastChanged": "2023-03-31T05:57:02.5059026+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:08:54.8750615+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:02.5059028+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 5,
+  "LastChanged": "2023-03-31T05:57:02.5059026+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:08:54.8750622+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:02.5059025+00:00",
+  "FirstSeen": "2023-02-02T14:58:20.9144782+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

@@ -1,11 +1,8 @@
 {
   "ID": "2006dc40bd22412d8c0167f8f738a17d",
   "Name": "Boyfriend Dungeon",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:29:26.1309518+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:21.1103556+00:00",
-  "LastChanged": "2023-03-31T05:58:21.1103558+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:21.110356+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:21.1103558+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:21.1103556+00:00",
+  "FirstSeen": "2022-07-22T20:29:26.1309518+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

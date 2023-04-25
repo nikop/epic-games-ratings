@@ -1,15 +1,14 @@
 {
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
-  "Rating": 4.38,
-  "Ranking_Rating": 684,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-12-06T19:57:03.5315641+00:00",
-  "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
-  "LastChanged": "2023-04-20T20:57:11.5498942+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:02.7979813+00:00",
+      "NumProgressed": 2251,
+      "NumCompleted": 88
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-12-13T19:57:02.6250274+00:00",
@@ -258,5 +257,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 3.91,
+  "EOS_Completed": 88,
+  "EOS_Progressed": 2251,
+  "LastChanged": "2023-04-20T20:57:11.5498942+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
+  "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
+  "FirstSeen": "2022-12-06T19:57:03.5315641+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 6,
+  "Ranking_EOS_Progress": 128,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 684,
+  "Rating": 4.38
 }

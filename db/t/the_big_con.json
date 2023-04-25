@@ -1,11 +1,8 @@
 {
   "ID": "a1f2a672b08f45d28bb6b65eef6ffe41",
   "Name": "The Big Con",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:31:17.9343088+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:35.1494977+00:00",
-  "LastChanged": "2023-03-31T05:58:35.1494978+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:35.1494979+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:35.1494978+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:35.1494977+00:00",
+  "FirstSeen": "2022-07-22T20:31:17.9343088+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

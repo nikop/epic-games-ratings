@@ -1,15 +1,8 @@
 {
   "ID": "9e7e8e8f6a324e1183e9aa63cc901b9a",
   "Name": "Call of Cthulhu",
-  "Rating": 4.33,
-  "Ranking_Rating": 726,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-09-24T13:06:25.3949128+00:00",
-  "FirstSeenRating": "2022-10-03T16:01:44.7804784+00:00",
-  "LastChanged": "2023-03-31T05:57:26.3061313+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-10-03T16:01:44.7804788+00:00",
@@ -106,5 +99,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:26.3061313+00:00",
+  "FirstSeenRating": "2022-10-03T16:01:44.7804784+00:00",
+  "FirstSeen": "2022-09-24T13:06:25.3949128+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 726,
+  "Rating": 4.33
 }

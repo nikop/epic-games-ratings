@@ -1,11 +1,8 @@
 {
   "ID": "bbcd11616d134be6a60f1c6df457dab1",
   "Name": "Where The Heart Leads",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:22:43.5700511+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:35.4044217+00:00",
-  "LastChanged": "2023-03-31T05:57:35.4044218+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:35.4044219+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:35.4044218+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:35.4044217+00:00",
+  "FirstSeen": "2022-07-22T20:22:43.5700511+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

@@ -1,15 +1,14 @@
 {
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
-  "Rating": 4.58,
-  "Ranking_Rating": 407,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
-  "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
-  "LastChanged": "2023-04-23T15:58:49.5660097+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:14:18.653518+00:00",
+      "NumProgressed": 7306,
+      "NumCompleted": 13
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-02-21T07:58:25.3551608+00:00",
@@ -256,5 +255,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0.18,
+  "EOS_Completed": 13,
+  "EOS_Progressed": 7306,
+  "LastChanged": "2023-04-23T15:58:49.5660097+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
+  "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
+  "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 64,
+  "Ranking_EOS_Progress": 105,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 407,
+  "Rating": 4.58
 }

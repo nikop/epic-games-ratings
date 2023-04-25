@@ -1,11 +1,14 @@
 {
   "ID": "28885ec3cd4d49808b65636c95ee28c1",
   "Name": "Silence",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-08-04T10:32:09.0887096+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
-  "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:06.5644289+00:00",
+      "NumProgressed": 89,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:44.1033928+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 89,
+  "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
+  "FirstSeen": "2022-08-04T10:32:09.0887096+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

@@ -1,16 +1,8 @@
 {
   "ID": "b196813a49d5409f9bda8eb872111ecf",
   "Name": "Kitaria Fables",
-  "Rating": 4.39,
-  "Ranking_Rating": 672,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 20,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:17:15.0715704+00:00",
-  "FirstSeenRating": "2022-09-21T23:00:48.4332122+00:00",
-  "LastChanged": "2023-03-31T05:56:59.0513544+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-09-21T23:00:48.4332124+00:00",
@@ -52,5 +44,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:56:59.0513544+00:00",
+  "FirstSeenRating": "2022-09-21T23:00:48.4332122+00:00",
+  "FirstSeen": "2022-07-22T20:17:15.0715704+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 20,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 672,
+  "Rating": 4.39
 }

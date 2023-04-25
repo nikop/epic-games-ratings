@@ -1,16 +1,51 @@
 {
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
-  "Rating": 4.18,
-  "Ranking_Rating": 816,
-  "Ranking_Popularity": 394,
-  "Ranking_PopularitySum": 339,
-  "NumberOfAwards": 241,
-  "NumberOfAwardsMax": 45,
-  "MaxAwardTitle": "Amazing Storytelling",
-  "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
-  "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
-  "LastChanged": "2023-04-24T23:57:05.8956465+00:00",
+  "Tags": [
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 45
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 41
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 39
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 41
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 45
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 30
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:11.0112544+00:00",
+      "NumProgressed": 12498,
+      "NumCompleted": 46
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-12-03T10:57:24.5094082+00:00",
@@ -333,42 +368,20 @@
       "NumberOfAwardsMax": 45
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 45
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 41
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 39
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 41
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 45
-    },
-    {
-      "Text": "This game has Challenging Combat",
-      "Prefix": "This game has",
-      "Type": "Challenging Combat",
-      "Count": 30
-    }
-  ]
+  "EOS_Completed_Percentage": 0.37,
+  "EOS_Completed": 46,
+  "EOS_Progressed": 12498,
+  "LastChanged": "2023-04-24T23:57:05.8956465+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
+  "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
+  "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
+  "NumberOfAwardsMax": 45,
+  "NumberOfAwards": 241,
+  "Ranking_EOS_Completed": 42,
+  "Ranking_EOS_Progress": 97,
+  "Ranking_PopularitySum": 339,
+  "Ranking_Popularity": 394,
+  "Ranking_Rating": 816,
+  "Rating": 4.18,
+  "MaxAwardTitle": "Amazing Storytelling"
 }

@@ -1,11 +1,8 @@
 {
   "ID": "d9090f3f39f64d5bb827c6e44b95cff0",
   "Name": "3 out of 10, EP 1: Welcome To Shovelworks",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:32:23.4037107+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:42.6710051+00:00",
-  "LastChanged": "2023-03-31T05:58:42.6710052+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:42.6710055+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:42.6710052+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:42.6710051+00:00",
+  "FirstSeen": "2022-07-22T20:32:23.4037107+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

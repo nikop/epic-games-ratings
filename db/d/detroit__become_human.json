@@ -1,16 +1,45 @@
 {
   "ID": "columbine",
   "Name": "Detroit: Become Human",
-  "Rating": 4.87,
-  "Ranking_Rating": 24,
-  "Ranking_Popularity": 116,
-  "Ranking_PopularitySum": 208,
-  "NumberOfRatings": 3910,
-  "NumberOfAwards": 1470,
-  "NumberOfAwardsMax": 1366,
-  "MaxAwardTitle": "Impact the Story",
-  "FirstSeen": "2022-07-22T20:18:06.5181893+00:00",
-  "LastChanged": "2023-04-23T16:57:09.9062064+00:00",
+  "Tags": [
+    {
+      "Text": "In this game, your choices Impact the Story",
+      "Prefix": "In this game, your choices",
+      "Type": "Impact the Story",
+      "Count": 1366
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 20
+    },
+    {
+      "Text": "This game is Educational",
+      "Prefix": "This game is",
+      "Type": "Educational",
+      "Count": 22
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 21
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 21
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 20
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:06.5181896+00:00",
@@ -997,42 +1026,19 @@
       "NumberOfAwardsMax": 1366
     }
   ],
-  "Tags": [
-    {
-      "Text": "In this game, your choices Impact the Story",
-      "Prefix": "In this game, your choices",
-      "Type": "Impact the Story",
-      "Count": 1366
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 20
-    },
-    {
-      "Text": "This game is Educational",
-      "Prefix": "This game is",
-      "Type": "Educational",
-      "Count": 22
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 21
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 21
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 20
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-23T16:57:09.9062064+00:00",
+  "FirstSeen": "2022-07-22T20:18:06.5181893+00:00",
+  "NumberOfAwardsMax": 1366,
+  "NumberOfAwards": 1470,
+  "NumberOfRatings": 3910,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 208,
+  "Ranking_Popularity": 116,
+  "Ranking_Rating": 24,
+  "Rating": 4.87,
+  "MaxAwardTitle": "Impact the Story"
 }

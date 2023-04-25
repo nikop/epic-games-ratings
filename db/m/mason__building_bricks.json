@@ -1,11 +1,14 @@
 {
   "ID": "6840592dd7994a8ebfaac93d7515b187",
   "Name": "Mason: Building Bricks",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-04-19T03:58:31.2715258+00:00",
-  "FirstSeenRating": "2023-04-19T03:58:31.2715304+00:00",
-  "LastChanged": "2023-04-19T03:58:31.2715304+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:22.155756+00:00",
+      "NumProgressed": 12,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-04-19T03:58:31.2715308+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 12,
+  "LastChanged": "2023-04-19T03:58:31.2715304+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:22.1557568+00:00",
+  "FirstSeenRating": "2023-04-19T03:58:31.2715304+00:00",
+  "FirstSeen": "2023-04-19T03:58:31.2715258+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

@@ -1,11 +1,8 @@
 {
   "ID": "7c7e1c220ce74bd8b5df4190ca7c3098",
   "Name": "Antstream Arcade",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-10-19T05:01:08.4132901+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:37.0431277+00:00",
-  "LastChanged": "2023-03-31T05:57:37.0431278+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:37.043128+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:37.0431278+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:37.0431277+00:00",
+  "FirstSeen": "2022-10-19T05:01:08.4132901+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

@@ -1,16 +1,8 @@
 {
   "ID": "5b325322a4c04b9e9e780b9a1e9b2d70",
   "Name": "Aztez",
-  "Rating": 4.53,
-  "Ranking_Rating": 484,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 43,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:28:45.0438732+00:00",
-  "FirstSeenRating": "2022-08-01T19:31:46.0667461+00:00",
-  "LastChanged": "2023-03-31T05:58:15.3997435+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-08-01T19:31:46.0667464+00:00",
@@ -205,5 +197,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:15.3997435+00:00",
+  "FirstSeenRating": "2022-08-01T19:31:46.0667461+00:00",
+  "FirstSeen": "2022-07-22T20:28:45.0438732+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 43,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 484,
+  "Rating": 4.53
 }

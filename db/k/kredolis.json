@@ -1,11 +1,8 @@
 {
   "ID": "88cd0bb7736b4e7a9a11083f48f94ee4",
   "Name": "Kredolis",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-09-30T10:30:50.1361657+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:23.5817971+00:00",
-  "LastChanged": "2023-03-31T05:57:23.5817972+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:23.5817973+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:23.5817972+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:23.5817971+00:00",
+  "FirstSeen": "2022-09-30T10:30:50.1361657+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

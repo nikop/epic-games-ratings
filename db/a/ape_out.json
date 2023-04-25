@@ -1,16 +1,8 @@
 {
   "ID": "6c77bc1b5faa4ac98441ec75cca0d320",
   "Name": "APE OUT",
-  "Rating": 4.66,
-  "Ranking_Rating": 271,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 33,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:29:21.656394+00:00",
-  "FirstSeenRating": "2022-08-11T22:01:52.3350114+00:00",
-  "LastChanged": "2023-04-19T20:04:17.1770801+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-08-11T22:01:52.3350116+00:00",
@@ -145,5 +137,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-19T20:04:17.1770801+00:00",
+  "FirstSeenRating": "2022-08-11T22:01:52.3350114+00:00",
+  "FirstSeen": "2022-07-22T20:29:21.656394+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 33,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 271,
+  "Rating": 4.66
 }

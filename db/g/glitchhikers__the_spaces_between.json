@@ -1,11 +1,8 @@
 {
   "ID": "721c7f9b5f0b4c2f8258babc21e3bef8",
   "Name": "Glitchhikers: The Spaces Between",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:17:16.0109303+00:00",
-  "FirstSeenRating": "2023-03-31T05:56:59.1194075+00:00",
-  "LastChanged": "2023-03-31T05:56:59.1194076+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:56:59.1194078+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:56:59.1194076+00:00",
+  "FirstSeenRating": "2023-03-31T05:56:59.1194075+00:00",
+  "FirstSeen": "2022-07-22T20:17:16.0109303+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

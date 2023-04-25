@@ -1,11 +1,14 @@
 {
   "ID": "9b89b68d8751414db0991007bdc4766c",
   "Name": "JARS",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:26:25.1355207+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
-  "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:38.9338531+00:00",
+      "NumProgressed": 37,
+      "NumCompleted": 1
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:01.9914292+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 2.7,
+  "EOS_Completed": 1,
+  "EOS_Progressed": 37,
+  "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
+  "FirstSeen": "2022-07-22T20:26:25.1355207+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

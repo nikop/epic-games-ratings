@@ -1,16 +1,14 @@
 {
   "ID": "0208da63c74542c99e8a0837e4e688c3",
   "Name": "Hardspace: Shipbreaker",
-  "Rating": 4.65,
-  "Ranking_Rating": 287,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 36,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:30:23.1372862+00:00",
-  "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
-  "LastChanged": "2023-04-03T02:58:25.0664634+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:14:19.6504519+00:00",
+      "NumProgressed": 595,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-08-27T18:32:02.5218042+00:00",
@@ -252,5 +250,20 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 595,
+  "LastChanged": "2023-04-03T02:58:25.0664634+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
+  "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
+  "FirstSeen": "2022-07-22T20:30:23.1372862+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 36,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 156,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 287,
+  "Rating": 4.65
 }

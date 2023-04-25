@@ -1,16 +1,8 @@
 {
   "ID": "395be8a9aed24142b30b6abb2778e995",
   "Name": "Anodyne 2: Return To Dust",
-  "Rating": 4.33,
-  "Ranking_Rating": 726,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 20,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:21:11.6078191+00:00",
-  "FirstSeenRating": "2022-09-16T04:00:52.6824492+00:00",
-  "LastChanged": "2023-04-11T07:57:09.9888492+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-09-16T04:00:52.6824495+00:00",
@@ -74,5 +66,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-11T07:57:09.9888492+00:00",
+  "FirstSeenRating": "2022-09-16T04:00:52.6824492+00:00",
+  "FirstSeen": "2022-07-22T20:21:11.6078191+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 20,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 726,
+  "Rating": 4.33
 }

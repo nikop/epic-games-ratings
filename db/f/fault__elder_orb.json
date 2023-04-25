@@ -1,16 +1,75 @@
 {
   "ID": "644221d9c96142f9b149c983362c5074",
   "Name": "Fault: Elder Orb",
-  "Rating": 3.91,
-  "Ranking_Rating": 888,
-  "Ranking_Popularity": 314,
-  "Ranking_PopularitySum": 256,
-  "NumberOfRatings": 723,
-  "NumberOfAwards": 728,
-  "NumberOfAwardsMax": 103,
-  "MaxAwardTitle": "Extremely Fun",
-  "FirstSeen": "2022-07-22T20:21:40.2503475+00:00",
-  "LastChanged": "2022-12-03T23:07:52.062399+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 102
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 103
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 89
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 92
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
+      "Count": 99
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 80
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 101
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 95
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "",
+      "Type": "",
+      "Count": 40
+    },
+    {
+      "Text": "This game has a Competitive Community",
+      "Prefix": "This game has a",
+      "Type": "Competitive Community",
+      "Count": 62
+    },
+    {
+      "Text": "This game has Beautiful Visuals",
+      "Prefix": "",
+      "Type": "",
+      "Count": 22
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:40.2503477+00:00",
@@ -1342,72 +1401,19 @@
       "Rating": 3.91
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 102
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 103
-    },
-    {
-      "Text": "This game has Challenging Combat",
-      "Prefix": "This game has",
-      "Type": "Challenging Combat",
-      "Count": 89
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 92
-    },
-    {
-      "Text": "This game has Competitive Players",
-      "Prefix": "This game has",
-      "Type": "Competitive Players",
-      "Count": 99
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 80
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 101
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 95
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "",
-      "Type": "",
-      "Count": 40
-    },
-    {
-      "Text": "This game has a Competitive Community",
-      "Prefix": "This game has a",
-      "Type": "Competitive Community",
-      "Count": 62
-    },
-    {
-      "Text": "This game has Beautiful Visuals",
-      "Prefix": "",
-      "Type": "",
-      "Count": 22
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2022-12-03T23:07:52.062399+00:00",
+  "FirstSeen": "2022-07-22T20:21:40.2503475+00:00",
+  "NumberOfAwardsMax": 103,
+  "NumberOfAwards": 728,
+  "NumberOfRatings": 723,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 256,
+  "Ranking_Popularity": 314,
+  "Ranking_Rating": 888,
+  "Rating": 3.91,
+  "MaxAwardTitle": "Extremely Fun"
 }

@@ -1,11 +1,8 @@
 {
   "ID": "1be39e503e234386a7d4456d33b197fc",
   "Name": "No Longer Home",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:19:28.1406554+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:13.5829267+00:00",
-  "LastChanged": "2023-03-31T05:57:13.5829268+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:13.5829271+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:13.5829268+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:13.5829267+00:00",
+  "FirstSeen": "2022-07-22T20:19:28.1406554+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

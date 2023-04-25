@@ -1,16 +1,8 @@
 {
   "ID": "allium",
   "Name": "Observation",
-  "Rating": 4.56,
-  "Ranking_Rating": 441,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 23,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:19:43.1233001+00:00",
-  "FirstSeenRating": "2022-09-02T12:00:46.9628353+00:00",
-  "LastChanged": "2023-03-31T05:57:15.3012788+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-09-02T12:00:46.9628356+00:00",
@@ -87,5 +79,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:15.3012788+00:00",
+  "FirstSeenRating": "2022-09-02T12:00:46.9628353+00:00",
+  "FirstSeen": "2022-07-22T20:19:43.1233001+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 23,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 441,
+  "Rating": 4.56
 }

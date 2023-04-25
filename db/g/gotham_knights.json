@@ -1,16 +1,75 @@
 {
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
-  "Rating": 4.17,
-  "Ranking_Rating": 820,
-  "Ranking_Popularity": 99,
-  "Ranking_PopularitySum": 138,
-  "NumberOfAwards": 3559,
-  "NumberOfAwardsMax": 2153,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
-  "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
-  "LastChanged": "2023-04-24T09:57:07.4742208+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 2153
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 179
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 172
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 169
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 168
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 174
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 185
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 183
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 176
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Prefix": "",
+      "Type": "",
+      "Count": 60
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:08.5702298+00:00",
+      "NumProgressed": 60348,
+      "NumCompleted": 85
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-10-22T01:00:47.4981426+00:00",
@@ -753,66 +812,20 @@
       "NumberOfAwardsMax": 2153
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 2153
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 179
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 172
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 169
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 168
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 174
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 185
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 183
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 176
-    },
-    {
-      "Text": "This game is Great for Quick Sessions",
-      "Prefix": "",
-      "Type": "",
-      "Count": 60
-    }
-  ]
+  "EOS_Completed_Percentage": 0.14,
+  "EOS_Completed": 85,
+  "EOS_Progressed": 60348,
+  "LastChanged": "2023-04-24T09:57:07.4742208+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
+  "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
+  "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
+  "NumberOfAwardsMax": 2153,
+  "NumberOfAwards": 3559,
+  "Ranking_EOS_Completed": 69,
+  "Ranking_EOS_Progress": 64,
+  "Ranking_PopularitySum": 138,
+  "Ranking_Popularity": 99,
+  "Ranking_Rating": 820,
+  "Rating": 4.17,
+  "MaxAwardTitle": "Great Boss Battles"
 }

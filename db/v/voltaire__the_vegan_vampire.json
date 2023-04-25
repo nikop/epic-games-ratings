@@ -1,11 +1,14 @@
 {
   "ID": "8f25cbefde7d4e7c8537aa860415d0b5",
   "Name": "Voltaire: The Vegan Vampire",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-03-04T18:58:29.4782077+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
-  "LastChanged": "2023-03-31T05:58:46.11228+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:45.0090682+00:00",
+      "NumProgressed": 73,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:46.1122802+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 73,
+  "LastChanged": "2023-03-31T05:58:46.11228+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
+  "FirstSeen": "2023-03-04T18:58:29.4782077+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

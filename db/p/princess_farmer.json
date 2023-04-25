@@ -1,11 +1,8 @@
 {
   "ID": "286af74903fa418d931df4916c59779d",
   "Name": "Princess Farmer",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:29:09.7006134+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:18.6591396+00:00",
-  "LastChanged": "2023-03-31T05:58:18.6591397+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:18.6591398+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:18.6591397+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:18.6591396+00:00",
+  "FirstSeen": "2022-07-22T20:29:09.7006134+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

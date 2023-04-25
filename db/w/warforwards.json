@@ -1,11 +1,8 @@
 {
   "ID": "0d9c3853256243f5b7bc08e2ec6afb44",
   "Name": "WarForwards",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-01-24T10:57:39.2312578+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:36.9299627+00:00",
-  "LastChanged": "2023-03-31T05:57:36.9299628+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:36.929963+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:36.9299628+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:36.9299627+00:00",
+  "FirstSeen": "2023-01-24T10:57:39.2312578+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

@@ -1,16 +1,8 @@
 {
   "ID": "0cdc1f2bb18a4384a96ddac4c5c84886",
   "Name": "Operation: Tango",
-  "Rating": 4.66,
-  "Ranking_Rating": 271,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 43,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:24:35.1547145+00:00",
-  "FirstSeenRating": "2022-08-07T15:01:29.3377422+00:00",
-  "LastChanged": "2023-03-31T05:57:48.8189278+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-08-07T15:01:29.3377425+00:00",
@@ -138,5 +130,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:48.8189278+00:00",
+  "FirstSeenRating": "2022-08-07T15:01:29.3377422+00:00",
+  "FirstSeen": "2022-07-22T20:24:35.1547145+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 43,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 271,
+  "Rating": 4.66
 }

@@ -1,17 +1,15 @@
 {
   "ID": "149849cfbf324cc2a3d42fc4e5c19f91",
   "Name": "DOOM (1993)",
-  "Rating": 4.81,
-  "Ranking_Rating": 72,
-  "Ranking_Popularity": 430,
-  "Ranking_PopularitySum": 449,
-  "NumberOfRatings": 96,
-  "NumberOfAwards": 32,
-  "NumberOfAwardsMax": 32,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-08-19T14:31:30.8251329+00:00",
-  "FirstSeenRating": "2022-08-26T00:30:55.8306783+00:00",
-  "LastChanged": "2023-04-02T17:57:22.6774817+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 32
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-08-26T00:30:55.830679+00:00",
@@ -219,12 +217,20 @@
       "NumberOfAwardsMax": 32
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 32
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-02T17:57:22.6774817+00:00",
+  "FirstSeenRating": "2022-08-26T00:30:55.8306783+00:00",
+  "FirstSeen": "2022-08-19T14:31:30.8251329+00:00",
+  "NumberOfAwardsMax": 32,
+  "NumberOfAwards": 32,
+  "NumberOfRatings": 96,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 449,
+  "Ranking_Popularity": 430,
+  "Ranking_Rating": 72,
+  "Rating": 4.81,
+  "MaxAwardTitle": "Great Boss Battles"
 }

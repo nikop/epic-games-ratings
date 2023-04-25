@@ -1,16 +1,21 @@
 {
   "ID": "151e56468b5049628653dedab7c88007",
   "Name": "Saints Row IV Re-Elected",
-  "Rating": 4.4,
-  "Ranking_Rating": 662,
-  "Ranking_Popularity": 199,
-  "Ranking_PopularitySum": 300,
-  "NumberOfAwards": 387,
-  "NumberOfAwardsMax": 387,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-12-08T19:57:27.2562206+00:00",
-  "FirstSeenRating": "2022-12-09T02:11:05.5025317+00:00",
-  "LastChanged": "2023-04-22T20:57:34.9741375+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 387
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:41.5716998+00:00",
+      "NumProgressed": 139772,
+      "NumCompleted": 6
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-12-09T02:11:05.5025321+00:00",
@@ -161,12 +166,20 @@
       "NumberOfAwardsMax": 387
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 387
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 6,
+  "EOS_Progressed": 139772,
+  "LastChanged": "2023-04-22T20:57:34.9741375+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:41.5717008+00:00",
+  "FirstSeenRating": "2022-12-09T02:11:05.5025317+00:00",
+  "FirstSeen": "2022-12-08T19:57:27.2562206+00:00",
+  "NumberOfAwardsMax": 387,
+  "NumberOfAwards": 387,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 52,
+  "Ranking_PopularitySum": 300,
+  "Ranking_Popularity": 199,
+  "Ranking_Rating": 662,
+  "Rating": 4.4,
+  "MaxAwardTitle": "Great Boss Battles"
 }

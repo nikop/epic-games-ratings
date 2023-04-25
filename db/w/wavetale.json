@@ -1,11 +1,8 @@
 {
   "ID": "747963936b3e4a0fa3c1bb714436cf8d",
   "Name": "Wavetale",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-12-14T18:59:01.1786872+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:41.7104738+00:00",
-  "LastChanged": "2023-03-31T05:58:41.7104739+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:41.710474+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:41.7104739+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:41.7104738+00:00",
+  "FirstSeen": "2022-12-14T18:59:01.1786872+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

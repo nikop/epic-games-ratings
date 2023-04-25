@@ -1,11 +1,8 @@
 {
   "ID": "a3e88a88898243cb94c125baf5917bc8",
   "Name": "Curse of the Sea Rats",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-04-12T16:57:24.0236301+00:00",
-  "FirstSeenRating": "2023-04-12T16:57:24.0236342+00:00",
-  "LastChanged": "2023-04-12T16:57:24.0236342+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-04-12T16:57:24.0236349+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-12T16:57:24.0236342+00:00",
+  "FirstSeenRating": "2023-04-12T16:57:24.0236342+00:00",
+  "FirstSeen": "2023-04-12T16:57:24.0236301+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

@@ -1,11 +1,8 @@
 {
   "ID": "09d0e2d34c3a4788907bdea8b5c895c1",
   "Name": "Unicorns on Unicycles",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:26:58.9010636+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:05.1039644+00:00",
-  "LastChanged": "2023-03-31T05:58:05.1039645+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:05.1039646+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:05.1039645+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:05.1039644+00:00",
+  "FirstSeen": "2022-07-22T20:26:58.9010636+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

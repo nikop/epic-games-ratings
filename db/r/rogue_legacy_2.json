@@ -1,16 +1,75 @@
 {
   "ID": "4966d5da285c4f2c876937844b0e23ee",
   "Name": "Rogue Legacy 2",
-  "Rating": 4.85,
-  "Ranking_Rating": 37,
-  "Ranking_Popularity": 246,
-  "Ranking_PopularitySum": 200,
-  "NumberOfRatings": 1331,
-  "NumberOfAwards": 1619,
-  "NumberOfAwardsMax": 215,
-  "MaxAwardTitle": "Extremely Fun",
-  "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
-  "LastChanged": "2023-04-17T02:59:07.9793442+00:00",
+  "Tags": [
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 215
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 179
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 198
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 190
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 189
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 185
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 157
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 160
+    },
+    {
+      "Text": "This game has Playful Visuals",
+      "Prefix": "This game has",
+      "Type": "Playful Visuals",
+      "Count": 146
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 123
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:34.4921+00:00",
+      "NumProgressed": 21253,
+      "NumCompleted": 35
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:06.6124895+00:00",
@@ -960,66 +1019,20 @@
       "NumberOfAwardsMax": 215
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 215
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 179
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 198
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 190
-    },
-    {
-      "Text": "This game has Challenging Combat",
-      "Prefix": "This game has",
-      "Type": "Challenging Combat",
-      "Count": 189
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 185
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 157
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 160
-    },
-    {
-      "Text": "This game has Playful Visuals",
-      "Prefix": "This game has",
-      "Type": "Playful Visuals",
-      "Count": 146
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 123
-    }
-  ]
+  "EOS_Completed_Percentage": 0.16,
+  "EOS_Completed": 35,
+  "EOS_Progressed": 21253,
+  "LastChanged": "2023-04-17T02:59:07.9793442+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
+  "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
+  "NumberOfAwardsMax": 215,
+  "NumberOfAwards": 1619,
+  "NumberOfRatings": 1331,
+  "Ranking_EOS_Completed": 66,
+  "Ranking_EOS_Progress": 83,
+  "Ranking_PopularitySum": 200,
+  "Ranking_Popularity": 246,
+  "Ranking_Rating": 37,
+  "Rating": 4.85,
+  "MaxAwardTitle": "Extremely Fun"
 }

@@ -1,16 +1,15 @@
 {
   "ID": "c1e33e7e700f42429ea2b8a7459bb55b",
   "Name": "Curse of the Dead Gods",
-  "Rating": 4.65,
-  "Ranking_Rating": 287,
-  "Ranking_Popularity": 305,
-  "Ranking_PopularitySum": 388,
-  "NumberOfRatings": 140,
-  "NumberOfAwards": 114,
-  "NumberOfAwardsMax": 114,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-07-22T20:25:59.8576233+00:00",
-  "LastChanged": "2023-04-23T22:58:12.3048298+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 114
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:59.8576238+00:00",
@@ -384,12 +383,19 @@
       "NumberOfAwardsMax": 114
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 114
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-23T22:58:12.3048298+00:00",
+  "FirstSeen": "2022-07-22T20:25:59.8576233+00:00",
+  "NumberOfAwardsMax": 114,
+  "NumberOfAwards": 114,
+  "NumberOfRatings": 140,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 388,
+  "Ranking_Popularity": 305,
+  "Ranking_Rating": 287,
+  "Rating": 4.65,
+  "MaxAwardTitle": "Great Boss Battles"
 }

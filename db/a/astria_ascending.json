@@ -1,11 +1,8 @@
 {
   "ID": "3000405a9f864d848824e6f6022fb86c",
   "Name": "Astria Ascending",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:17:43.1419961+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:02.6538123+00:00",
-  "LastChanged": "2023-03-31T05:57:02.6538124+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:02.6538126+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:02.6538124+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:02.6538123+00:00",
+  "FirstSeen": "2022-07-22T20:17:43.1419961+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

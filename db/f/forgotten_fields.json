@@ -1,11 +1,8 @@
 {
   "ID": "17c516e1d160458f8af37cf453b96f6d",
   "Name": "Forgotten Fields",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:27:53.5574015+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:10.6634006+00:00",
-  "LastChanged": "2023-03-31T05:58:10.6634007+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:10.6634007+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:10.6634007+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:10.6634006+00:00",
+  "FirstSeen": "2022-07-22T20:27:53.5574015+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

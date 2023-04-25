@@ -1,11 +1,8 @@
 {
   "ID": "f82989cf20a747289a0dfa4987ef8fbd",
   "Name": "Nira",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-11-12T02:45:37.0323437+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:17.0970534+00:00",
-  "LastChanged": "2023-03-31T05:58:17.0970535+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:17.0970536+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:17.0970535+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:17.0970534+00:00",
+  "FirstSeen": "2022-11-12T02:45:37.0323437+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

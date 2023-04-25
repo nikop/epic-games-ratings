@@ -1,11 +1,14 @@
 {
   "ID": "a4b5203877a04321bd1989cef6ba51dc",
   "Name": "One Hand Clapping",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:31:54.1905255+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
-  "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:30.9622529+00:00",
+      "NumProgressed": 734,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:38.3848841+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 734,
+  "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
+  "FirstSeen": "2022-07-22T20:31:54.1905255+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

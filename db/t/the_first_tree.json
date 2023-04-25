@@ -1,15 +1,8 @@
 {
   "ID": "489c2ca47aaa4190b694184b979d3b23",
   "Name": "The First Tree",
-  "Rating": 3.98,
-  "Ranking_Rating": 875,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 56,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
-  "LastChanged": "2023-03-31T05:58:12.4512506+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:16.3923771+00:00",
@@ -213,5 +206,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:12.4512506+00:00",
+  "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 56,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 875,
+  "Rating": 3.98
 }

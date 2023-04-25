@@ -1,11 +1,8 @@
 {
   "ID": "05b0f1dcc0a74cb9824fdd45a1b57703",
   "Name": "The Signifier: Director\u0027s Cut",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:23:43.4780375+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:42.8899791+00:00",
-  "LastChanged": "2023-03-31T05:57:42.8899792+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:42.8899796+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:42.8899792+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:42.8899791+00:00",
+  "FirstSeen": "2022-07-22T20:23:43.4780375+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

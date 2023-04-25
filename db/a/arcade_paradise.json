@@ -1,15 +1,14 @@
 {
   "ID": "89b9c510e8d74b9da34c447915b1ffb1",
   "Name": "Arcade Paradise",
-  "Rating": 4.57,
-  "Ranking_Rating": 424,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-08-12T15:02:48.2909171+00:00",
-  "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
-  "LastChanged": "2023-03-31T05:57:16.243609+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:17.5720233+00:00",
+      "NumProgressed": 574,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-10-03T03:02:52.8117429+00:00",
@@ -62,5 +61,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 574,
+  "LastChanged": "2023-03-31T05:57:16.243609+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
+  "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
+  "FirstSeen": "2022-08-12T15:02:48.2909171+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 158,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 424,
+  "Rating": 4.57
 }

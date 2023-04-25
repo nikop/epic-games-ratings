@@ -1,16 +1,27 @@
 {
   "ID": "752368fdba244e9386023cfb2b9d6ceb",
   "Name": "The Messenger",
-  "Rating": 4.8,
-  "Ranking_Rating": 78,
-  "Ranking_Popularity": 218,
-  "Ranking_PopularitySum": 308,
-  "NumberOfRatings": 561,
-  "NumberOfAwards": 354,
-  "NumberOfAwardsMax": 312,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-07-22T20:18:54.3850647+00:00",
-  "LastChanged": "2023-04-22T07:57:09.2013079+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 312
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 22
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 20
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:54.3850649+00:00",
@@ -562,24 +573,19 @@
       "NumberOfAwardsMax": 312
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 312
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 22
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 20
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-22T07:57:09.2013079+00:00",
+  "FirstSeen": "2022-07-22T20:18:54.3850647+00:00",
+  "NumberOfAwardsMax": 312,
+  "NumberOfAwards": 354,
+  "NumberOfRatings": 561,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 308,
+  "Ranking_Popularity": 218,
+  "Ranking_Rating": 78,
+  "Rating": 4.8,
+  "MaxAwardTitle": "Great Boss Battles"
 }

@@ -1,16 +1,21 @@
 {
   "ID": "78546100323d461dbda0306d6af277e3",
   "Name": "Inscryption",
-  "Rating": 4.86,
-  "Ranking_Rating": 28,
-  "Ranking_Popularity": 211,
-  "Ranking_PopularitySum": 309,
-  "NumberOfRatings": 771,
-  "NumberOfAwards": 353,
-  "NumberOfAwardsMax": 329,
-  "MaxAwardTitle": "Challenging Puzzles",
-  "FirstSeen": "2022-07-22T20:27:28.221027+00:00",
-  "LastChanged": "2023-04-23T10:57:48.1211329+00:00",
+  "Tags": [
+    {
+      "Text": "This game features Challenging Puzzles",
+      "Prefix": "This game features",
+      "Type": "Challenging Puzzles",
+      "Count": 329
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 24
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:28.2210273+00:00",
@@ -581,18 +586,19 @@
       "NumberOfAwardsMax": 329
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game features Challenging Puzzles",
-      "Prefix": "This game features",
-      "Type": "Challenging Puzzles",
-      "Count": 329
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 24
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-23T10:57:48.1211329+00:00",
+  "FirstSeen": "2022-07-22T20:27:28.221027+00:00",
+  "NumberOfAwardsMax": 329,
+  "NumberOfAwards": 353,
+  "NumberOfRatings": 771,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 309,
+  "Ranking_Popularity": 211,
+  "Ranking_Rating": 28,
+  "Rating": 4.86,
+  "MaxAwardTitle": "Challenging Puzzles"
 }

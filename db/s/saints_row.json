@@ -1,17 +1,75 @@
 {
   "ID": "0d23bb77ee2f45b7a571bde68caddb09",
   "Name": "Saints Row",
-  "Rating": 3.78,
-  "Ranking_Rating": 897,
-  "Ranking_Popularity": 130,
-  "Ranking_PopularitySum": 81,
-  "NumberOfRatings": 22103,
-  "NumberOfAwards": 9033,
-  "NumberOfAwardsMax": 1021,
-  "MaxAwardTitle": "Extremely Fun",
-  "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
-  "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
-  "LastChanged": "2023-04-25T13:57:28.9823116+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 936
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 990
+    },
+    {
+      "Text": "This game has Playful Visuals",
+      "Prefix": "This game has",
+      "Type": "Playful Visuals",
+      "Count": 774
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 947
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 947
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 964
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 938
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 948
+    },
+    {
+      "Text": "This game has a Silly Community",
+      "Prefix": "This game has a",
+      "Type": "Silly Community",
+      "Count": 568
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 1021
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:15.6648879+00:00",
+      "NumProgressed": 18418,
+      "NumCompleted": 1
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-08-23T10:30:45.3809934+00:00",
@@ -1957,66 +2015,21 @@
       "NumberOfAwardsMax": 1021
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 936
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 990
-    },
-    {
-      "Text": "This game has Playful Visuals",
-      "Prefix": "This game has",
-      "Type": "Playful Visuals",
-      "Count": 774
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 947
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 947
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 964
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 938
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 948
-    },
-    {
-      "Text": "This game has a Silly Community",
-      "Prefix": "This game has a",
-      "Type": "Silly Community",
-      "Count": 568
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 1021
-    }
-  ]
+  "EOS_Completed_Percentage": 0.01,
+  "EOS_Completed": 1,
+  "EOS_Progressed": 18418,
+  "LastChanged": "2023-04-25T13:57:28.9823116+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
+  "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
+  "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
+  "NumberOfAwardsMax": 1021,
+  "NumberOfAwards": 9033,
+  "NumberOfRatings": 22103,
+  "Ranking_EOS_Completed": 111,
+  "Ranking_EOS_Progress": 87,
+  "Ranking_PopularitySum": 81,
+  "Ranking_Popularity": 130,
+  "Ranking_Rating": 897,
+  "Rating": 3.78,
+  "MaxAwardTitle": "Extremely Fun"
 }

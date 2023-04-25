@@ -1,11 +1,8 @@
 {
   "ID": "de5dba249c30453f86061fe2dcbd5e82",
   "Name": "Niche - a genetics survival game",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:30:20.6406326+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:28.3183995+00:00",
-  "LastChanged": "2023-03-31T05:58:28.3183996+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:28.3183997+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:28.3183996+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:28.3183995+00:00",
+  "FirstSeen": "2022-07-22T20:30:20.6406326+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

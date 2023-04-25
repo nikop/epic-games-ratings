@@ -1,16 +1,75 @@
 {
   "ID": "9773aa1aa54f4f7b80e44bef04986cea",
   "Name": "Rocket League\u00AE",
-  "Rating": 4.51,
-  "Ranking_Rating": 509,
-  "Ranking_Popularity": 2,
-  "Ranking_PopularitySum": 2,
-  "NumberOfRatings": 366020,
-  "NumberOfAwards": 2673942,
-  "NumberOfAwardsMax": 392168,
-  "MaxAwardTitle": "Great for Quick Sessions",
-  "FirstSeen": "2022-07-22T20:17:22.1538752+00:00",
-  "LastChanged": "2023-04-24T20:57:03.7396156+00:00",
+  "Tags": [
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Prefix": "This game is",
+      "Type": "Great for Quick Sessions",
+      "Count": 392168
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 167946
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
+      "Count": 340336
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 310664
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 304955
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 293352
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 255022
+    },
+    {
+      "Text": "This game has a Competitive Community",
+      "Prefix": "This game has a",
+      "Type": "Competitive Community",
+      "Count": 252901
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 240478
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 284066
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:08:48.1822512+00:00",
+      "NumProgressed": 23404815,
+      "NumCompleted": 1233
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:22.1538754+00:00",
@@ -4169,66 +4228,20 @@
       "NumberOfAwardsMax": 392168
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game is Great for Quick Sessions",
-      "Prefix": "This game is",
-      "Type": "Great for Quick Sessions",
-      "Count": 392168
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 167946
-    },
-    {
-      "Text": "This game has Competitive Players",
-      "Prefix": "This game has",
-      "Type": "Competitive Players",
-      "Count": 340336
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 310664
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 304955
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 293352
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 255022
-    },
-    {
-      "Text": "This game has a Competitive Community",
-      "Prefix": "This game has a",
-      "Type": "Competitive Community",
-      "Count": 252901
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 240478
-    },
-    {
-      "Text": "This game has Challenging Combat",
-      "Prefix": "This game has",
-      "Type": "Challenging Combat",
-      "Count": 284066
-    }
-  ]
+  "EOS_Completed_Percentage": 0.01,
+  "EOS_Completed": 1233,
+  "EOS_Progressed": 23404815,
+  "LastChanged": "2023-04-24T20:57:03.7396156+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:08:48.1822521+00:00",
+  "FirstSeen": "2022-07-22T20:17:22.1538752+00:00",
+  "NumberOfAwardsMax": 392168,
+  "NumberOfAwards": 2673942,
+  "NumberOfRatings": 366020,
+  "Ranking_EOS_Completed": 111,
+  "Ranking_EOS_Progress": 2,
+  "Ranking_PopularitySum": 2,
+  "Ranking_Popularity": 2,
+  "Ranking_Rating": 509,
+  "Rating": 4.51,
+  "MaxAwardTitle": "Great for Quick Sessions"
 }

@@ -1,11 +1,14 @@
 {
   "ID": "23499f64e5304139b514c3e674c5c0d6",
   "Name": "Model Builder",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-01-29T08:58:42.9349994+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:36.1160749+00:00",
-  "LastChanged": "2023-03-31T05:58:36.1160751+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:26.6201529+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:36.1160753+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 1,
+  "LastChanged": "2023-03-31T05:58:36.1160751+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:26.6201537+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:36.1160749+00:00",
+  "FirstSeen": "2023-01-29T08:58:42.9349994+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

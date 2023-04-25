@@ -1,15 +1,8 @@
 {
   "ID": "259368d69ebe47089e5debe23619cf92",
   "Name": "Siege Survival - Gloria Victis",
-  "Rating": 4.05,
-  "Ranking_Rating": 862,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:28:46.6291043+00:00",
-  "FirstSeenRating": "2023-03-25T19:58:23.4994247+00:00",
-  "LastChanged": "2023-04-08T19:57:55.9077567+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-25T19:58:23.4994249+00:00",
@@ -28,5 +21,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-08T19:57:55.9077567+00:00",
+  "FirstSeenRating": "2023-03-25T19:58:23.4994247+00:00",
+  "FirstSeen": "2022-07-22T20:28:46.6291043+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 862,
+  "Rating": 4.05
 }

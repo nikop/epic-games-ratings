@@ -1,15 +1,14 @@
 {
   "ID": "76355dbd22b249d9a6f77790aba9547b",
   "Name": "Grindstone",
-  "Rating": 4.85,
-  "Ranking_Rating": 37,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 63,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
-  "LastChanged": "2023-04-17T23:58:07.4922283+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:14:21.0391131+00:00",
+      "NumProgressed": 5042,
+      "NumCompleted": 26
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:27.1113518+00:00",
@@ -191,5 +190,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0.52,
+  "EOS_Completed": 26,
+  "EOS_Progressed": 5042,
+  "LastChanged": "2023-04-17T23:58:07.4922283+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
+  "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 63,
+  "Ranking_EOS_Completed": 33,
+  "Ranking_EOS_Progress": 112,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 37,
+  "Rating": 4.85
 }

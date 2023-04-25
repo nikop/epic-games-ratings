@@ -23,7 +23,7 @@
 | 21 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,322 | 4.58 | 407 |
 | 22 | [Warframe](games/w/warframe.md) | 14,240 | 4.61 | 348 |
 | 23 | [Borderlands 2](games/b/borderlands_2.md) | 14,000 | 4.76 | 114 |
-| 24 | [Maneater](games/m/maneater.md) | 13,402 | 4.49 | 541 |
+| 24 | [Maneater](games/m/maneater.md) | 13,407 | 4.49 | 541 |
 | 25 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,192 | 4.60 | 373 |
 | 26 | [League of Legends](games/l/league_of_legends.md) | 12,694 | 4.21 | 794 |
 | 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,244 | 4.37 | 693 |
@@ -33,7 +33,7 @@
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,309 | 4.87 | 24 |
 | 32 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,179 | 4.69 | 208 |
 | 33 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 9,963 | 4.45 | 599 |
-| 34 | [Satisfactory](games/s/satisfactory.md) | 9,139 | 4.88 | 18 |
+| 34 | [Satisfactory](games/s/satisfactory.md) | 9,152 | 4.88 | 18 |
 | 35 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 8,985 | 4.60 | 373 |
 | 36 | [HITMAN 3](games/h/hitman_3.md) | 8,721 | 4.78 | 100 |
 | 37 | [Control](games/c/control.md) | 8,239 | 4.60 | 373 |

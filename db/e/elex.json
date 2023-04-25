@@ -1,16 +1,15 @@
 {
   "ID": "f93166410da745b58b1613db66141c02",
   "Name": "ELEX",
-  "Rating": 4.42,
-  "Ranking_Rating": 638,
-  "Ranking_Popularity": 463,
-  "Ranking_PopularitySum": 466,
-  "NumberOfRatings": 58,
-  "NumberOfAwards": 23,
-  "NumberOfAwardsMax": 23,
-  "MaxAwardTitle": "Character Customization",
-  "FirstSeen": "2022-07-22T20:26:49.7646389+00:00",
-  "LastChanged": "2023-04-20T20:58:08.8298587+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 23
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-25T10:01:57.4129818+00:00",
@@ -257,12 +256,19 @@
       "NumberOfAwardsMax": 23
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "This game has Inclusive",
-      "Type": "Character Customization",
-      "Count": 23
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-20T20:58:08.8298587+00:00",
+  "FirstSeen": "2022-07-22T20:26:49.7646389+00:00",
+  "NumberOfAwardsMax": 23,
+  "NumberOfAwards": 23,
+  "NumberOfRatings": 58,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 466,
+  "Ranking_Popularity": 463,
+  "Ranking_Rating": 638,
+  "Rating": 4.42,
+  "MaxAwardTitle": "Character Customization"
 }

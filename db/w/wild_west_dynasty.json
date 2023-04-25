@@ -1,11 +1,8 @@
 {
   "ID": "2e953f5d56f44248ab500be341e54a65",
   "Name": "Wild West Dynasty",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-02-16T21:58:35.3622066+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:39.0792307+00:00",
-  "LastChanged": "2023-03-31T05:58:39.0792308+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:39.0792312+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:39.0792308+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:39.0792307+00:00",
+  "FirstSeen": "2023-02-16T21:58:35.3622066+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

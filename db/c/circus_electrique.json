@@ -1,16 +1,14 @@
 {
   "ID": "396a808f269241aba0fe2ad322ebd6d5",
   "Name": "Circus Electrique",
-  "Rating": 4.16,
-  "Ranking_Rating": 825,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 22,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-09-06T19:02:05.1337324+00:00",
-  "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
-  "LastChanged": "2023-03-31T05:57:59.411581+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:34.1721869+00:00",
+      "NumProgressed": 390,
+      "NumCompleted": 1
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-09-16T21:31:49.7476012+00:00",
@@ -62,5 +60,20 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0.26,
+  "EOS_Completed": 1,
+  "EOS_Progressed": 390,
+  "LastChanged": "2023-03-31T05:57:59.411581+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
+  "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
+  "FirstSeen": "2022-09-06T19:02:05.1337324+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 22,
+  "Ranking_EOS_Completed": 58,
+  "Ranking_EOS_Progress": 163,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 825,
+  "Rating": 4.16
 }

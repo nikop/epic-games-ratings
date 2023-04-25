@@ -1,11 +1,8 @@
 {
   "ID": "d93cf08971eb4920862a95870a051f81",
   "Name": "Sail Forth",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-12-22T16:58:05.6186581+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:32.4374953+00:00",
-  "LastChanged": "2023-03-31T05:58:32.4374954+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:32.4374956+00:00",
@@ -14,5 +11,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:32.4374954+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:20.5284182+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:32.4374953+00:00",
+  "FirstSeen": "2022-12-22T16:58:05.6186581+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

@@ -1,11 +1,8 @@
 {
   "ID": "dac7703b33934c838e8e7c0423fe0322",
   "Name": "The King\u0027s Bird",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:22:33.5200387+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:34.249333+00:00",
-  "LastChanged": "2023-03-31T05:57:34.2493331+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:34.2493333+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:34.2493331+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:34.249333+00:00",
+  "FirstSeen": "2022-07-22T20:22:33.5200387+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

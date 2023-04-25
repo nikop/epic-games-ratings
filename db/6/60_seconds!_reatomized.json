@@ -1,15 +1,14 @@
 {
   "ID": "cc1d104767dc4a2fa22a44d487e2db64",
   "Name": "60 Seconds! Reatomized",
-  "Rating": 4.59,
-  "Ranking_Rating": 388,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-12-15T05:57:00.0275207+00:00",
-  "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
-  "LastChanged": "2023-04-20T20:57:09.4862377+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:08:59.2341183+00:00",
+      "NumProgressed": 3871,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-12T08:56:56.6667632+00:00",
@@ -76,5 +75,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 3871,
+  "LastChanged": "2023-04-20T20:57:09.4862377+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
+  "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
+  "FirstSeen": "2022-12-15T05:57:00.0275207+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 120,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 388,
+  "Rating": 4.59
 }

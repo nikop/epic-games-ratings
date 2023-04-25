@@ -1,11 +1,14 @@
 {
   "ID": "15cb739316ba44ed87878349d10b3ffc",
   "Name": "Crash Drive 3",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:30:53.1024543+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
-  "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:19.8064239+00:00",
+      "NumProgressed": 293,
+      "NumCompleted": 2
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:32.121362+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0.68,
+  "EOS_Completed": 2,
+  "EOS_Progressed": 293,
+  "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
+  "FirstSeen": "2022-07-22T20:30:53.1024543+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

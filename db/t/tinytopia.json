@@ -1,11 +1,8 @@
 {
   "ID": "5f3d58af886e4cf98a8f9e87ad9d2e2b",
   "Name": "Tinytopia",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:24:01.5764989+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:45.0651025+00:00",
-  "LastChanged": "2023-03-31T05:57:45.0651026+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:45.0651027+00:00",
@@ -14,5 +11,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:45.0651026+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:08.2228983+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:45.0651025+00:00",
+  "FirstSeen": "2022-07-22T20:24:01.5764989+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

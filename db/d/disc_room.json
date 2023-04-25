@@ -1,11 +1,8 @@
 {
   "ID": "ca16315212fe486b96969e8fc6d6faf6",
   "Name": "DISC ROOM",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:26:06.505754+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:00.0201004+00:00",
-  "LastChanged": "2023-03-31T05:58:00.0201005+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:00.0201007+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:00.0201005+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:00.0201004+00:00",
+  "FirstSeen": "2022-07-22T20:26:06.505754+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

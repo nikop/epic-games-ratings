@@ -1,11 +1,8 @@
 {
   "ID": "d7c183ff820c457ba95d8d3f006399b0",
   "Name": "Titus the Fox: To Marrakech and Back",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-01-02T19:59:30.963128+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:02.3284714+00:00",
-  "LastChanged": "2023-03-31T05:58:02.3284715+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:02.3284717+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:02.3284715+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:02.3284714+00:00",
+  "FirstSeen": "2023-01-02T19:59:30.963128+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

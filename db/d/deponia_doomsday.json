@@ -1,15 +1,14 @@
 {
   "ID": "2c8de17b8e2d4d908b63eaf751b639a3",
   "Name": "Deponia Doomsday",
-  "Rating": 4.56,
-  "Ranking_Rating": 441,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-30T17:02:29.7644171+00:00",
-  "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
-  "LastChanged": "2023-04-17T16:58:11.036869+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:31.6449061+00:00",
+      "NumProgressed": 354,
+      "NumCompleted": 6
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-10-15T13:33:12.9761112+00:00",
@@ -52,5 +51,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 1.69,
+  "EOS_Completed": 6,
+  "EOS_Progressed": 354,
+  "LastChanged": "2023-04-17T16:58:11.036869+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
+  "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
+  "FirstSeen": "2022-07-30T17:02:29.7644171+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 15,
+  "Ranking_EOS_Progress": 164,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 441,
+  "Rating": 4.56
 }

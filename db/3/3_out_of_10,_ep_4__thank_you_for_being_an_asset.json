@@ -1,11 +1,8 @@
 {
   "ID": "d6a3cae34c5d4562832610b5b8664576",
   "Name": "3 out of 10, EP 4: Thank You For Being An Asset",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:16:53.7011889+00:00",
-  "FirstSeenRating": "2023-03-31T05:56:56.5437937+00:00",
-  "LastChanged": "2023-03-31T05:56:56.5437938+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:56:56.543794+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:56:56.5437938+00:00",
+  "FirstSeenRating": "2023-03-31T05:56:56.5437937+00:00",
+  "FirstSeen": "2022-07-22T20:16:53.7011889+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

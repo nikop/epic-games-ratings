@@ -1,16 +1,15 @@
 {
   "ID": "f541519f3d21457ba7dcf5b57f1014b2",
   "Name": "Crysis 3 Remastered",
-  "Rating": 4.65,
-  "Ranking_Rating": 287,
-  "Ranking_Popularity": 275,
-  "Ranking_PopularitySum": 364,
-  "NumberOfRatings": 494,
-  "NumberOfAwards": 164,
-  "NumberOfAwardsMax": 164,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-07-22T20:32:55.830928+00:00",
-  "LastChanged": "2023-04-22T06:59:12.0714975+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 164
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:55.8309283+00:00",
@@ -460,12 +459,19 @@
       "NumberOfAwardsMax": 164
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 164
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-22T06:59:12.0714975+00:00",
+  "FirstSeen": "2022-07-22T20:32:55.830928+00:00",
+  "NumberOfAwardsMax": 164,
+  "NumberOfAwards": 164,
+  "NumberOfRatings": 494,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 364,
+  "Ranking_Popularity": 275,
+  "Ranking_Rating": 287,
+  "Rating": 4.65,
+  "MaxAwardTitle": "Great Boss Battles"
 }

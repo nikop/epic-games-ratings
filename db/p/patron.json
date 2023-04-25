@@ -1,16 +1,8 @@
 {
   "ID": "27d0a607d01545038e7c3ba1b9ad8c80",
   "Name": "Patron",
-  "Rating": 3.94,
-  "Ranking_Rating": 882,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 38,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:25:15.1770761+00:00",
-  "FirstSeenRating": "2022-08-04T14:01:33.7640592+00:00",
-  "LastChanged": "2023-03-31T05:57:53.7264319+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-08-04T14:01:33.7640598+00:00",
@@ -141,5 +133,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:53.7264319+00:00",
+  "FirstSeenRating": "2022-08-04T14:01:33.7640592+00:00",
+  "FirstSeen": "2022-07-22T20:25:15.1770761+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 38,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 882,
+  "Rating": 3.94
 }

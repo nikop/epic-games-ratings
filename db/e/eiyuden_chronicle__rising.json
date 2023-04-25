@@ -1,15 +1,14 @@
 {
   "ID": "a4824407d9ec4f6a8c13919e732f9400",
   "Name": "Eiyuden Chronicle: Rising",
-  "Rating": 4.49,
-  "Ranking_Rating": 541,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 48,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
-  "LastChanged": "2023-03-31T05:58:46.4032746+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:45.6416158+00:00",
+      "NumProgressed": 664,
+      "NumCompleted": 56
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:53.8130913+00:00",
@@ -147,5 +146,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 8.43,
+  "EOS_Completed": 56,
+  "EOS_Progressed": 664,
+  "LastChanged": "2023-03-31T05:58:46.4032746+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
+  "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 48,
+  "Ranking_EOS_Completed": 2,
+  "Ranking_EOS_Progress": 154,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 541,
+  "Rating": 4.49
 }

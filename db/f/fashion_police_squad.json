@@ -1,11 +1,8 @@
 {
   "ID": "65d31d60510a49629a0b52e93da8416a",
   "Name": "Fashion Police Squad",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-08-19T10:32:30.9541029+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:38.1198041+00:00",
-  "LastChanged": "2023-03-31T05:58:38.1198042+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:38.1198045+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:38.1198042+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:38.1198041+00:00",
+  "FirstSeen": "2022-08-19T10:32:30.9541029+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

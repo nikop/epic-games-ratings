@@ -1,11 +1,8 @@
 {
   "ID": "763d4984a2334a5abe6464a1745d30f9",
   "Name": "Ankh 3: Battle of the Gods",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-09-09T17:32:56.2952054+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:34.806435+00:00",
-  "LastChanged": "2023-03-31T05:57:34.8064351+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:34.8064354+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:34.8064351+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:34.806435+00:00",
+  "FirstSeen": "2022-09-09T17:32:56.2952054+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

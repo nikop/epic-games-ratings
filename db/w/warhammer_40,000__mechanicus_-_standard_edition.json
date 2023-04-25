@@ -1,16 +1,75 @@
 {
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
-  "Rating": 4.43,
-  "Ranking_Rating": 631,
-  "Ranking_Popularity": 226,
-  "Ranking_PopularitySum": 180,
-  "NumberOfAwards": 2087,
-  "NumberOfAwardsMax": 276,
-  "MaxAwardTitle": "Highly Recommended",
-  "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
-  "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
-  "LastChanged": "2023-04-24T03:58:02.217135+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 239
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 233
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 266
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 276
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 254
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 251
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Prefix": "This game has",
+      "Type": "Unique Visuals",
+      "Count": 203
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 269
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "",
+      "Type": "",
+      "Count": 63
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 96
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:03.5386691+00:00",
+      "NumProgressed": 207204,
+      "NumCompleted": 2
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-10-28T06:01:26.9039057+00:00",
@@ -265,66 +324,20 @@
       "NumberOfAwardsMax": 276
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 239
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 233
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 266
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 276
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 254
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 251
-    },
-    {
-      "Text": "This game has Unique Visuals",
-      "Prefix": "This game has",
-      "Type": "Unique Visuals",
-      "Count": 203
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 269
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "",
-      "Type": "",
-      "Count": 63
-    },
-    {
-      "Text": "This game has a Creative Community",
-      "Prefix": "This game has a",
-      "Type": "Creative Community",
-      "Count": 96
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 2,
+  "EOS_Progressed": 207204,
+  "LastChanged": "2023-04-24T03:58:02.217135+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
+  "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
+  "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
+  "NumberOfAwardsMax": 276,
+  "NumberOfAwards": 2087,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 46,
+  "Ranking_PopularitySum": 180,
+  "Ranking_Popularity": 226,
+  "Ranking_Rating": 631,
+  "Rating": 4.43,
+  "MaxAwardTitle": "Highly Recommended"
 }

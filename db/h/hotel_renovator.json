@@ -1,15 +1,14 @@
 {
   "ID": "3348e3d8eae449ecbcf9fe354d4fe8a0",
   "Name": "Hotel Renovator",
-  "Rating": 4.48,
-  "Ranking_Rating": 561,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-03-07T20:57:17.7123218+00:00",
-  "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
-  "LastChanged": "2023-04-17T21:57:16.8800544+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:47.1560439+00:00",
+      "NumProgressed": 687,
+      "NumCompleted": 11
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-30T21:57:33.3986384+00:00",
@@ -52,5 +51,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 1.6,
+  "EOS_Completed": 11,
+  "EOS_Progressed": 687,
+  "LastChanged": "2023-04-17T21:57:16.8800544+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
+  "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
+  "FirstSeen": "2023-03-07T20:57:17.7123218+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 17,
+  "Ranking_EOS_Progress": 153,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 561,
+  "Rating": 4.48
 }

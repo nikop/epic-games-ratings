@@ -1,16 +1,21 @@
 {
   "ID": "5db7394e65044dd1bb083ee983e2b3a5",
   "Name": "Severed Steel",
-  "Rating": 4.68,
-  "Ranking_Rating": 232,
-  "Ranking_Popularity": 278,
-  "Ranking_PopularitySum": 368,
-  "NumberOfAwards": 159,
-  "NumberOfAwardsMax": 159,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-07-22T20:21:24.7272687+00:00",
-  "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
-  "LastChanged": "2023-04-21T20:57:16.6016316+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 159
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:37.6943042+00:00",
+      "NumProgressed": 396619,
+      "NumCompleted": 28
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-12-28T18:57:32.9042651+00:00",
@@ -141,12 +146,20 @@
       "NumberOfAwardsMax": 159
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 159
-    }
-  ]
+  "EOS_Completed_Percentage": 0.01,
+  "EOS_Completed": 28,
+  "EOS_Progressed": 396619,
+  "LastChanged": "2023-04-21T20:57:16.6016316+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
+  "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
+  "FirstSeen": "2022-07-22T20:21:24.7272687+00:00",
+  "NumberOfAwardsMax": 159,
+  "NumberOfAwards": 159,
+  "Ranking_EOS_Completed": 111,
+  "Ranking_EOS_Progress": 30,
+  "Ranking_PopularitySum": 368,
+  "Ranking_Popularity": 278,
+  "Ranking_Rating": 232,
+  "Rating": 4.68,
+  "MaxAwardTitle": "Great Boss Battles"
 }

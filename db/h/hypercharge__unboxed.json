@@ -1,16 +1,8 @@
 {
   "ID": "a8e307d10c8c4940886205582b00a17a",
   "Name": "HYPERCHARGE: Unboxed",
-  "Rating": 4.63,
-  "Ranking_Rating": 323,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 20,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:25:35.1619996+00:00",
-  "FirstSeenRating": "2022-09-09T22:01:31.3463712+00:00",
-  "LastChanged": "2023-03-31T05:57:55.6670916+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-09-09T22:01:31.3463715+00:00",
@@ -52,5 +44,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:55.6670916+00:00",
+  "FirstSeenRating": "2022-09-09T22:01:31.3463712+00:00",
+  "FirstSeen": "2022-07-22T20:25:35.1619996+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 20,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 323,
+  "Rating": 4.63
 }

@@ -1,16 +1,81 @@
 {
   "ID": "5a6d34ba28bc45d081d9311c3885feef",
   "Name": "Unrailed!",
-  "Rating": 4.64,
-  "Ranking_Rating": 310,
-  "Ranking_Popularity": 261,
-  "Ranking_PopularitySum": 206,
-  "NumberOfRatings": 21990,
-  "NumberOfAwards": 1495,
-  "NumberOfAwardsMax": 183,
-  "MaxAwardTitle": "Diverse Characters",
-  "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
-  "LastChanged": "2023-04-25T08:57:06.9796449+00:00",
+  "Tags": [
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 180
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 138
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 183
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 183
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 179
+    },
+    {
+      "Text": "This game has Playful Visuals",
+      "Prefix": "This game has",
+      "Type": "Playful Visuals",
+      "Count": 145
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 156
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Prefix": "",
+      "Type": "",
+      "Count": 37
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 151
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 177
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 141
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:04.2595224+00:00",
+      "NumProgressed": 580696,
+      "NumCompleted": 6
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-23T20:01:02.5294037+00:00",
@@ -2171,72 +2236,20 @@
       "NumberOfAwardsMax": 183
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 180
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 138
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 183
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 183
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 179
-    },
-    {
-      "Text": "This game has Playful Visuals",
-      "Prefix": "This game has",
-      "Type": "Playful Visuals",
-      "Count": 145
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 156
-    },
-    {
-      "Text": "This game has Competitive Players",
-      "Prefix": "",
-      "Type": "",
-      "Count": 37
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 151
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 177
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 141
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 6,
+  "EOS_Progressed": 580696,
+  "LastChanged": "2023-04-25T08:57:06.9796449+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
+  "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
+  "NumberOfAwardsMax": 183,
+  "NumberOfAwards": 1495,
+  "NumberOfRatings": 21990,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 21,
+  "Ranking_PopularitySum": 206,
+  "Ranking_Popularity": 261,
+  "Ranking_Rating": 310,
+  "Rating": 4.64,
+  "MaxAwardTitle": "Diverse Characters"
 }

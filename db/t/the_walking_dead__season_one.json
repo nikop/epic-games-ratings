@@ -1,16 +1,15 @@
 {
   "ID": "bloodroot",
   "Name": "The Walking Dead: Season One",
-  "Rating": 4.8,
-  "Ranking_Rating": 78,
-  "Ranking_Popularity": 454,
-  "Ranking_PopularitySum": 459,
-  "NumberOfRatings": 70,
-  "NumberOfAwards": 26,
-  "NumberOfAwardsMax": 26,
-  "MaxAwardTitle": "Impact the Story",
-  "FirstSeen": "2022-07-22T20:18:47.8231949+00:00",
-  "LastChanged": "2023-04-24T21:57:16.244392+00:00",
+  "Tags": [
+    {
+      "Text": "In this game, your choices Impact the Story",
+      "Prefix": "In this game, your choices",
+      "Type": "Impact the Story",
+      "Count": 26
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:47.8231951+00:00",
@@ -209,12 +208,19 @@
       "NumberOfAwardsMax": 26
     }
   ],
-  "Tags": [
-    {
-      "Text": "In this game, your choices Impact the Story",
-      "Prefix": "In this game, your choices",
-      "Type": "Impact the Story",
-      "Count": 26
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-24T21:57:16.244392+00:00",
+  "FirstSeen": "2022-07-22T20:18:47.8231949+00:00",
+  "NumberOfAwardsMax": 26,
+  "NumberOfAwards": 26,
+  "NumberOfRatings": 70,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 459,
+  "Ranking_Popularity": 454,
+  "Ranking_Rating": 78,
+  "Rating": 4.8,
+  "MaxAwardTitle": "Impact the Story"
 }

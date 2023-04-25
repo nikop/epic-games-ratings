@@ -1,11 +1,8 @@
 {
   "ID": "ca4e19c9ebc542e58a116a2271e326ae",
   "Name": "Vegas Make It Big",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-11-04T23:33:17.3665633+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:44.2568526+00:00",
-  "LastChanged": "2023-03-31T05:58:44.2568527+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:44.2568528+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:44.2568527+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:44.2568526+00:00",
+  "FirstSeen": "2022-11-04T23:33:17.3665633+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

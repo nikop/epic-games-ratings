@@ -1,16 +1,15 @@
 {
   "ID": "b6faa05b8b594ec39944ff71dbdfdfc1",
   "Name": "TUNIC",
-  "Rating": 4.85,
-  "Ranking_Rating": 37,
-  "Ranking_Popularity": 430,
-  "Ranking_PopularitySum": 449,
-  "NumberOfRatings": 100,
-  "NumberOfAwards": 32,
-  "NumberOfAwardsMax": 32,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-07-22T20:27:39.6224803+00:00",
-  "LastChanged": "2023-02-21T15:57:33.5517922+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 32
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:39.6224806+00:00",
@@ -167,12 +166,19 @@
       "Rating": 4.85
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 32
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-02-21T15:57:33.5517922+00:00",
+  "FirstSeen": "2022-07-22T20:27:39.6224803+00:00",
+  "NumberOfAwardsMax": 32,
+  "NumberOfAwards": 32,
+  "NumberOfRatings": 100,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 449,
+  "Ranking_Popularity": 430,
+  "Ranking_Rating": 37,
+  "Rating": 4.85,
+  "MaxAwardTitle": "Great Boss Battles"
 }

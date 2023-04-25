@@ -1,16 +1,57 @@
 {
   "ID": "89fb09a222a54e53b692e9c36e68d0a1",
   "Name": "Filament",
-  "Rating": 4.32,
-  "Ranking_Rating": 736,
-  "Ranking_Popularity": 171,
-  "Ranking_PopularitySum": 263,
-  "NumberOfAwards": 664,
-  "NumberOfAwardsMax": 550,
-  "MaxAwardTitle": "Challenging Puzzles",
-  "FirstSeen": "2022-08-17T12:30:54.1950593+00:00",
-  "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
-  "LastChanged": "2023-04-22T21:57:37.2992758+00:00",
+  "Tags": [
+    {
+      "Text": "This game features Challenging Puzzles",
+      "Prefix": "This game features",
+      "Type": "Challenging Puzzles",
+      "Count": 550
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 24
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 23
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 25
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 21
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Prefix": "",
+      "Type": "",
+      "Count": 20
+    },
+    {
+      "Text": "This game is Educational",
+      "Prefix": "This game is",
+      "Type": "Educational",
+      "Count": 21
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:46.6220527+00:00",
+      "NumProgressed": 187768,
+      "NumCompleted": 395
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-11-04T12:32:28.2806396+00:00",
@@ -127,48 +168,20 @@
       "NumberOfAwardsMax": 550
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game features Challenging Puzzles",
-      "Prefix": "This game features",
-      "Type": "Challenging Puzzles",
-      "Count": 550
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 24
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 23
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 25
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 21
-    },
-    {
-      "Text": "This game is Great for Quick Sessions",
-      "Prefix": "",
-      "Type": "",
-      "Count": 20
-    },
-    {
-      "Text": "This game is Educational",
-      "Prefix": "This game is",
-      "Type": "Educational",
-      "Count": 21
-    }
-  ]
+  "EOS_Completed_Percentage": 0.21,
+  "EOS_Completed": 395,
+  "EOS_Progressed": 187768,
+  "LastChanged": "2023-04-22T21:57:37.2992758+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
+  "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
+  "FirstSeen": "2022-08-17T12:30:54.1950593+00:00",
+  "NumberOfAwardsMax": 550,
+  "NumberOfAwards": 664,
+  "Ranking_EOS_Completed": 60,
+  "Ranking_EOS_Progress": 47,
+  "Ranking_PopularitySum": 263,
+  "Ranking_Popularity": 171,
+  "Ranking_Rating": 736,
+  "Rating": 4.32,
+  "MaxAwardTitle": "Challenging Puzzles"
 }

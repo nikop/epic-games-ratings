@@ -1,16 +1,8 @@
 {
   "ID": "fdd71e435e8d46faa9c46d33e694cb65",
   "Name": "WE ARE FOOTBALL",
-  "Rating": 4.57,
-  "Ranking_Rating": 424,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 24,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:21:52.6599178+00:00",
-  "FirstSeenRating": "2022-09-05T19:30:54.6319305+00:00",
-  "LastChanged": "2023-03-31T05:57:29.9948875+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-09-05T19:30:54.6319307+00:00",
@@ -88,5 +80,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:29.9948875+00:00",
+  "FirstSeenRating": "2022-09-05T19:30:54.6319305+00:00",
+  "FirstSeen": "2022-07-22T20:21:52.6599178+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 24,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 424,
+  "Rating": 4.57
 }

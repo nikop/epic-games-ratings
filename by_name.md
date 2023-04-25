@@ -441,7 +441,7 @@
 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 684 | 162 | 276 |
 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 599 | 9,963 | 33 |
 | [Mago](games/m/mago.md) | 4.90 | 7 | 0 | 486 |
-| [Maneater](games/m/maneater.md) | 4.49 | 541 | 13,402 | 24 |
+| [Maneater](games/m/maneater.md) | 4.49 | 541 | 13,407 | 24 |
 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 526 | 0 | 486 |
 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.03 | 866 | 0 | 486 |
 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 155 | 546 | 173 |
@@ -611,7 +611,7 @@
 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 348 | 266 | 232 |
 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 287 | 0 | 486 |
 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 574 | 0 | 486 |
-| [Satisfactory](games/s/satisfactory.md) | 4.88 | 18 | 9,139 | 34 |
+| [Satisfactory](games/s/satisfactory.md) | 4.88 | 18 | 9,152 | 34 |
 | [Saturnalia](games/s/saturnalia.md) | 4.24 | 776 | 0 | 486 |
 | [Scavengers](games/s/scavengers.md) | 4.18 | 816 | 96 | 323 |
 | [Scorn](games/s/scorn.md) | 4.47 | 574 | 0 | 486 |

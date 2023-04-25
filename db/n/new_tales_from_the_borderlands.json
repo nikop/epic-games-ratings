@@ -1,15 +1,14 @@
 {
   "ID": "28ed8f56800c4bcc9eaa0c5264ec6917",
   "Name": "New Tales from the Borderlands",
-  "Rating": 4.07,
-  "Ranking_Rating": 857,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-10-21T09:01:49.541257+00:00",
-  "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
-  "LastChanged": "2023-03-31T05:58:00.5646039+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:36.4059968+00:00",
+      "NumProgressed": 3357,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-10-25T21:05:10.6531952+00:00",
@@ -146,5 +145,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 3357,
+  "LastChanged": "2023-03-31T05:58:00.5646039+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
+  "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
+  "FirstSeen": "2022-10-21T09:01:49.541257+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 121,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 857,
+  "Rating": 4.07
 }

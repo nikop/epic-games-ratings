@@ -1,11 +1,8 @@
 {
   "ID": "e77abc76f8774d2084feb5e535a7863c",
   "Name": "Hypnospace Outlaw",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:30:15.2673817+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:27.4762469+00:00",
-  "LastChanged": "2023-03-31T05:58:27.476247+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:27.4762472+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:27.476247+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:27.4762469+00:00",
+  "FirstSeen": "2022-07-22T20:30:15.2673817+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

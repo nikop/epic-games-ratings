@@ -1,15 +1,8 @@
 {
   "ID": "78de1f402ddf486ebcbf9ba3009d6198",
   "Name": "Huntdown",
-  "Rating": 4.85,
-  "Ranking_Rating": 37,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:22:30.407463+00:00",
-  "FirstSeenRating": "2022-11-04T14:31:43.7194036+00:00",
-  "LastChanged": "2023-03-31T05:57:33.8208681+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-11-04T14:31:43.7194039+00:00",
@@ -42,5 +35,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:33.8208681+00:00",
+  "FirstSeenRating": "2022-11-04T14:31:43.7194036+00:00",
+  "FirstSeen": "2022-07-22T20:22:30.407463+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 37,
+  "Rating": 4.85
 }

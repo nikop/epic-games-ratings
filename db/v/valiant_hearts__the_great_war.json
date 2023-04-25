@@ -1,16 +1,8 @@
 {
   "ID": "8767c1c91fc847cbafbfa232c695276f",
   "Name": "Valiant Hearts: The Great War",
-  "Rating": 4.83,
-  "Ranking_Rating": 54,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 30,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:32:07.3987444+00:00",
-  "FirstSeenRating": "2022-09-02T13:33:41.2971392+00:00",
-  "LastChanged": "2023-03-31T05:58:40.4986158+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-09-02T13:33:41.2971394+00:00",
@@ -121,5 +113,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:40.4986158+00:00",
+  "FirstSeenRating": "2022-09-02T13:33:41.2971392+00:00",
+  "FirstSeen": "2022-07-22T20:32:07.3987444+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 30,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 54,
+  "Rating": 4.83
 }

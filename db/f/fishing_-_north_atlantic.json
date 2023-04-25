@@ -1,15 +1,8 @@
 {
   "ID": "db9e3a16b41442c5a35bca0e42db363e",
   "Name": "Fishing - North Atlantic",
-  "Rating": 4.37,
-  "Ranking_Rating": 693,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 33,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:24:51.8726986+00:00",
-  "LastChanged": "2023-04-17T03:57:34.5373315+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:51.8726988+00:00",
@@ -108,5 +101,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-17T03:57:34.5373315+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:18.3737934+00:00",
+  "FirstSeen": "2022-07-22T20:24:51.8726986+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 33,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 693,
+  "Rating": 4.37
 }

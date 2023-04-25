@@ -1,15 +1,14 @@
 {
   "ID": "2bda08f9230144a19e98373cc4a6ac2d",
   "Name": "MORDHAU",
-  "Rating": 4.42,
-  "Ranking_Rating": 638,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-04-13T15:58:07.4170825+00:00",
-  "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
-  "LastChanged": "2023-04-23T15:58:20.9526845+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:33.1084396+00:00",
+      "NumProgressed": 1207552,
+      "NumCompleted": 4
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-04-13T15:58:07.4170884+00:00",
@@ -138,5 +137,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 4,
+  "EOS_Progressed": 1207552,
+  "LastChanged": "2023-04-23T15:58:20.9526845+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:33.1084407+00:00",
+  "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
+  "FirstSeen": "2023-04-13T15:58:07.4170825+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 8,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 638,
+  "Rating": 4.42
 }

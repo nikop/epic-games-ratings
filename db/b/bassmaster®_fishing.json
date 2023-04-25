@@ -1,16 +1,8 @@
 {
   "ID": "b90c4b2fdc754c65847280d39db428fc",
   "Name": "Bassmaster\u00AE Fishing",
-  "Rating": 4.34,
-  "Ranking_Rating": 718,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 30,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:17:30.7872518+00:00",
-  "FirstSeenRating": "2022-09-01T21:31:08.6586814+00:00",
-  "LastChanged": "2023-04-23T21:56:49.2236799+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-09-01T21:31:08.6586818+00:00",
@@ -102,5 +94,20 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-23T21:56:49.2236799+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:08:52.2907913+00:00",
+  "FirstSeenRating": "2022-09-01T21:31:08.6586814+00:00",
+  "FirstSeen": "2022-07-22T20:17:30.7872518+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 30,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 718,
+  "Rating": 4.34
 }

@@ -1,16 +1,21 @@
 {
   "ID": "766e1b59c32c447093add5efbc1a4858",
   "Name": "Dishonored - Definitive Edition",
-  "Rating": 4.74,
-  "Ranking_Rating": 141,
-  "Ranking_Popularity": 180,
-  "Ranking_PopularitySum": 288,
-  "NumberOfRatings": 234,
-  "NumberOfAwards": 523,
-  "NumberOfAwardsMax": 500,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-07-22T20:32:28.893212+00:00",
-  "LastChanged": "2023-04-25T08:59:02.1333848+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 500
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 23
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:28.8932125+00:00",
@@ -577,18 +582,19 @@
       "NumberOfAwardsMax": 500
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 500
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 23
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-25T08:59:02.1333848+00:00",
+  "FirstSeen": "2022-07-22T20:32:28.893212+00:00",
+  "NumberOfAwardsMax": 500,
+  "NumberOfAwards": 523,
+  "NumberOfRatings": 234,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 288,
+  "Ranking_Popularity": 180,
+  "Ranking_Rating": 141,
+  "Rating": 4.74,
+  "MaxAwardTitle": "Great Boss Battles"
 }

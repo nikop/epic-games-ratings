@@ -1,16 +1,8 @@
 {
   "ID": "45bd0f6fc2704e22a3c1933f7bb972bf",
   "Name": "The Life and Suffering of Sir Brante",
-  "Rating": 4.74,
-  "Ranking_Rating": 141,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 31,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:21:20.7872128+00:00",
-  "FirstSeenRating": "2022-08-01T11:01:07.2774148+00:00",
-  "LastChanged": "2023-03-31T05:57:25.583841+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-08-01T11:01:07.277415+00:00",
@@ -102,5 +94,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:25.583841+00:00",
+  "FirstSeenRating": "2022-08-01T11:01:07.2774148+00:00",
+  "FirstSeen": "2022-07-22T20:21:20.7872128+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 31,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 141,
+  "Rating": 4.74
 }

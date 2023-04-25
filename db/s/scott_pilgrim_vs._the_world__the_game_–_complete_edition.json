@@ -1,16 +1,15 @@
 {
   "ID": "a443faa3d6304a7dacd7456e0f6b0fa6",
   "Name": "Scott Pilgrim vs. The World: The Game \u2013 Complete Edition",
-  "Rating": 4.77,
-  "Ranking_Rating": 106,
-  "Ranking_Popularity": 421,
-  "Ranking_PopularitySum": 445,
-  "NumberOfRatings": 99,
-  "NumberOfAwards": 35,
-  "NumberOfAwardsMax": 35,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-07-22T20:29:24.6298445+00:00",
-  "LastChanged": "2023-04-18T04:58:47.5595935+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 35
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:24.6298447+00:00",
@@ -282,12 +281,19 @@
       "NumberOfAwardsMax": 35
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 35
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-18T04:58:47.5595935+00:00",
+  "FirstSeen": "2022-07-22T20:29:24.6298445+00:00",
+  "NumberOfAwardsMax": 35,
+  "NumberOfAwards": 35,
+  "NumberOfRatings": 99,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 445,
+  "Ranking_Popularity": 421,
+  "Ranking_Rating": 106,
+  "Rating": 4.77,
+  "MaxAwardTitle": "Great Boss Battles"
 }

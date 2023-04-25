@@ -1,11 +1,14 @@
 {
   "ID": "5d2eeb5e52a54324a8246eb39ee72d4b",
   "Name": "Children of Silentown",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-01-11T22:57:22.4743186+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
-  "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:00.0385776+00:00",
+      "NumProgressed": 142,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:05.8679998+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 142,
+  "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
+  "FirstSeen": "2023-01-11T22:57:22.4743186+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

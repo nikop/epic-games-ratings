@@ -1,11 +1,14 @@
 {
   "ID": "1bb409739a2a48cc97a8779a76e933f1",
   "Name": "MY LITTLE PONY A Maretime Bay Adventure",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-01-24T20:58:52.6858094+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:26.3358258+00:00",
-  "LastChanged": "2023-03-31T05:58:26.335826+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:14:29.3073693+00:00",
+      "NumProgressed": 35,
+      "NumCompleted": 9
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:26.3358261+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 25.71,
+  "EOS_Completed": 9,
+  "EOS_Progressed": 35,
+  "LastChanged": "2023-03-31T05:58:26.335826+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:14:29.30737+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:26.3358258+00:00",
+  "FirstSeen": "2023-01-24T20:58:52.6858094+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

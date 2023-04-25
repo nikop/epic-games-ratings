@@ -1,16 +1,15 @@
 {
   "ID": "83022e1b4c304addb2aadee1db854f8d",
   "Name": "LEGO\u00AE Batman\u2122 3: Beyond Gotham",
-  "Rating": 4.58,
-  "Ranking_Rating": 407,
-  "Ranking_Popularity": 247,
-  "Ranking_PopularitySum": 343,
-  "NumberOfRatings": 513,
-  "NumberOfAwards": 214,
-  "NumberOfAwardsMax": 214,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-07-22T20:28:16.9494589+00:00",
-  "LastChanged": "2023-04-24T10:57:53.6269192+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 214
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:16.9494591+00:00",
@@ -528,12 +527,19 @@
       "NumberOfAwardsMax": 214
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 214
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-24T10:57:53.6269192+00:00",
+  "FirstSeen": "2022-07-22T20:28:16.9494589+00:00",
+  "NumberOfAwardsMax": 214,
+  "NumberOfAwards": 214,
+  "NumberOfRatings": 513,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 343,
+  "Ranking_Popularity": 247,
+  "Ranking_Rating": 407,
+  "Rating": 4.58,
+  "MaxAwardTitle": "Great Boss Battles"
 }

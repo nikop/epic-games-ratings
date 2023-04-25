@@ -1,16 +1,81 @@
 {
   "ID": "97071dce4a98441d9c0b7f0df92f7b31",
   "Name": "Football Manager 2022",
-  "Rating": 4.8,
-  "Ranking_Rating": 78,
-  "Ranking_Popularity": 50,
-  "Ranking_PopularitySum": 21,
-  "NumberOfRatings": 19160,
-  "NumberOfAwards": 49174,
-  "NumberOfAwardsMax": 6243,
-  "MaxAwardTitle": "Relaxing",
-  "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
-  "LastChanged": "2023-04-25T15:57:29.3898305+00:00",
+  "Tags": [
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 5891
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 6243
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 4416
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 5655
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 5703
+    },
+    {
+      "Text": "This game is Educational",
+      "Prefix": "This game is",
+      "Type": "Educational",
+      "Count": 5669
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
+      "Count": 5703
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 4803
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 5229
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 4278
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "",
+      "Type": "",
+      "Count": 1495
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:56.5953671+00:00",
+      "NumProgressed": 458059,
+      "NumCompleted": 18
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:56.4642724+00:00",
@@ -3761,72 +3826,20 @@
       "NumberOfAwardsMax": 6243
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 5891
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 6243
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 4416
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 5655
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 5703
-    },
-    {
-      "Text": "This game is Educational",
-      "Prefix": "This game is",
-      "Type": "Educational",
-      "Count": 5669
-    },
-    {
-      "Text": "This game has Competitive Players",
-      "Prefix": "This game has",
-      "Type": "Competitive Players",
-      "Count": 5703
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 4803
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 5229
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 4278
-    },
-    {
-      "Text": "This game has a Creative Community",
-      "Prefix": "",
-      "Type": "",
-      "Count": 1495
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 18,
+  "EOS_Progressed": 458059,
+  "LastChanged": "2023-04-25T15:57:29.3898305+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
+  "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
+  "NumberOfAwardsMax": 6243,
+  "NumberOfAwards": 49174,
+  "NumberOfRatings": 19160,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 26,
+  "Ranking_PopularitySum": 21,
+  "Ranking_Popularity": 50,
+  "Ranking_Rating": 78,
+  "Rating": 4.8,
+  "MaxAwardTitle": "Relaxing"
 }

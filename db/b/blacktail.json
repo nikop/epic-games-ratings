@@ -1,15 +1,14 @@
 {
   "ID": "a17cc66c3a3c4d75875febf281c73fd2",
   "Name": "BLACKTAIL",
-  "Rating": 4.65,
-  "Ranking_Rating": 287,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-12-15T13:13:21.730409+00:00",
-  "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
-  "LastChanged": "2023-04-23T20:57:43.8622509+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:47.2871763+00:00",
+      "NumProgressed": 291,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-02-16T16:57:44.5958536+00:00",
@@ -36,5 +35,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 291,
+  "LastChanged": "2023-04-23T20:57:43.8622509+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
+  "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
+  "FirstSeen": "2022-12-15T13:13:21.730409+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 167,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 287,
+  "Rating": 4.65
 }

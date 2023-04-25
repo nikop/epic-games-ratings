@@ -1,16 +1,39 @@
 {
   "ID": "newt",
   "Name": "Spellbreak",
-  "Rating": 4.63,
-  "Ranking_Rating": 323,
-  "Ranking_Popularity": 222,
-  "Ranking_PopularitySum": 296,
-  "NumberOfRatings": 1020,
-  "NumberOfAwards": 400,
-  "NumberOfAwardsMax": 304,
-  "MaxAwardTitle": "Character Customization",
-  "FirstSeen": "2022-07-22T20:17:52.3619822+00:00",
-  "LastChanged": "2022-11-28T20:57:02.2175915+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 304
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 28
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 25
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 21
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 22
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:52.3619825+00:00",
@@ -692,36 +715,19 @@
       "Rating": 4.63
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "This game has Inclusive",
-      "Type": "Character Customization",
-      "Count": 304
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 28
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 25
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 21
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 22
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2022-11-28T20:57:02.2175915+00:00",
+  "FirstSeen": "2022-07-22T20:17:52.3619822+00:00",
+  "NumberOfAwardsMax": 304,
+  "NumberOfAwards": 400,
+  "NumberOfRatings": 1020,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 296,
+  "Ranking_Popularity": 222,
+  "Ranking_Rating": 323,
+  "Rating": 4.63,
+  "MaxAwardTitle": "Character Customization"
 }

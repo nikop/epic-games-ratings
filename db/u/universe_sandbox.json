@@ -1,15 +1,8 @@
 {
   "ID": "b42434df8847448c93022ce9c46feec1",
   "Name": "Universe Sandbox",
-  "Rating": 4.62,
-  "Ranking_Rating": 333,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 63,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:23:26.3960335+00:00",
-  "LastChanged": "2023-04-23T20:57:53.5719843+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:26.3960337+00:00",
@@ -244,5 +237,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-23T20:57:53.5719843+00:00",
+  "FirstSeen": "2022-07-22T20:23:26.3960335+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 63,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 333,
+  "Rating": 4.62
 }

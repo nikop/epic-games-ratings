@@ -1,15 +1,14 @@
 {
   "ID": "e89efaeec0cd408abee8bd4dd02c8d32",
   "Name": "Port Royale 4",
-  "Rating": 3.99,
-  "Ranking_Rating": 872,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 53,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
-  "LastChanged": "2023-04-16T13:57:11.7782921+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:34.2898816+00:00",
+      "NumProgressed": 490,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-24T16:01:41.0420803+00:00",
@@ -203,5 +202,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 490,
+  "LastChanged": "2023-04-16T13:57:11.7782921+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
+  "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 53,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 161,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 872,
+  "Rating": 3.99
 }

@@ -1,16 +1,14 @@
 {
   "ID": "2ba34162e36a4caf860fd00f934c8af1",
   "Name": "Curious Expedition 2",
-  "Rating": 4.7,
-  "Ranking_Rating": 190,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 20,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:24:56.4682953+00:00",
-  "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
-  "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:50.9590463+00:00",
+      "NumProgressed": 287,
+      "NumCompleted": 1
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-09-21T17:31:43.7401171+00:00",
@@ -36,5 +34,20 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0.35,
+  "EOS_Completed": 1,
+  "EOS_Progressed": 287,
+  "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
+  "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
+  "FirstSeen": "2022-07-22T20:24:56.4682953+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 20,
+  "Ranking_EOS_Completed": 45,
+  "Ranking_EOS_Progress": 168,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 190,
+  "Rating": 4.7
 }

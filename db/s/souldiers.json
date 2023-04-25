@@ -1,15 +1,8 @@
 {
   "ID": "7c7b5037b98e45289ebb3583cd8809a2",
   "Name": "Souldiers",
-  "Rating": 4.54,
-  "Ranking_Rating": 472,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 63,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:19:33.8920547+00:00",
-  "LastChanged": "2023-03-31T05:57:14.2299078+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:33.8920549+00:00",
@@ -64,5 +57,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:14.2299078+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:14.2723039+00:00",
+  "FirstSeen": "2022-07-22T20:19:33.8920547+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 63,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 472,
+  "Rating": 4.54
 }

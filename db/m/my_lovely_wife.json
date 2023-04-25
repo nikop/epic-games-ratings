@@ -1,15 +1,14 @@
 {
   "ID": "07d364bde45c48d3bbced941b474c8a6",
   "Name": "My Lovely Wife",
-  "Rating": 4.36,
-  "Ranking_Rating": 701,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 25,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
-  "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:55.1712204+00:00",
+      "NumProgressed": 545,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:06.1147594+00:00",
@@ -45,5 +44,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 545,
+  "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
+  "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 25,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 159,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 701,
+  "Rating": 4.36
 }

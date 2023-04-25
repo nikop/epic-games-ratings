@@ -1,16 +1,15 @@
 {
   "ID": "c12a5687fb024192999b2d22c555d4c6",
   "Name": "Destroy All Humans!",
-  "Rating": 4.62,
-  "Ranking_Rating": 333,
-  "Ranking_Popularity": 425,
-  "Ranking_PopularitySum": 446,
-  "NumberOfRatings": 85,
-  "NumberOfAwards": 34,
-  "NumberOfAwardsMax": 34,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
-  "LastChanged": "2023-04-21T20:57:46.983965+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 34
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:21.4096774+00:00",
@@ -270,12 +269,19 @@
       "NumberOfAwardsMax": 34
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 34
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-21T20:57:46.983965+00:00",
+  "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
+  "NumberOfAwardsMax": 34,
+  "NumberOfAwards": 34,
+  "NumberOfRatings": 85,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 446,
+  "Ranking_Popularity": 425,
+  "Ranking_Rating": 333,
+  "Rating": 4.62,
+  "MaxAwardTitle": "Great Boss Battles"
 }

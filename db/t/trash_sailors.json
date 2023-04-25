@@ -1,11 +1,8 @@
 {
   "ID": "ccef3880cb344fcaa224832a0c8a63a0",
   "Name": "Trash Sailors",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:29:11.371827+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:18.8740703+00:00",
-  "LastChanged": "2023-03-31T05:58:18.8740704+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:18.8740705+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:18.8740704+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:18.8740703+00:00",
+  "FirstSeen": "2022-07-22T20:29:11.371827+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

@@ -1,11 +1,8 @@
 {
   "ID": "9c4d0f80d0fc4cd48760ad7355cd3cac",
   "Name": "Void Tyrant",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:16:53.2042945+00:00",
-  "FirstSeenRating": "2023-03-31T05:56:56.5200456+00:00",
-  "LastChanged": "2023-03-31T05:56:56.5200457+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:56:56.5200459+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:56:56.5200457+00:00",
+  "FirstSeenRating": "2023-03-31T05:56:56.5200456+00:00",
+  "FirstSeen": "2022-07-22T20:16:53.2042945+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

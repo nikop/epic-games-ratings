@@ -1,11 +1,14 @@
 {
   "ID": "a5c7f255d82b45c29d9ae3e3d2e5563a",
   "Name": "The Case of the Golden Idol",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-03-24T17:57:36.1252473+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
-  "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:11.7250837+00:00",
+      "NumProgressed": 48,
+      "NumCompleted": 2
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:12.5416793+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 4.17,
+  "EOS_Completed": 2,
+  "EOS_Progressed": 48,
+  "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
+  "FirstSeen": "2023-03-24T17:57:36.1252473+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

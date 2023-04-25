@@ -1,15 +1,14 @@
 {
   "ID": "fc224bc11259446ab10c942201eb5926",
   "Name": "Dice Legacy",
-  "Rating": 4.29,
-  "Ranking_Rating": 755,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:22:02.0247279+00:00",
-  "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
-  "LastChanged": "2023-03-31T05:57:30.891724+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:44.711754+00:00",
+      "NumProgressed": 715,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-01-10T11:57:19.8134476+00:00",
@@ -26,5 +25,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 715,
+  "LastChanged": "2023-03-31T05:57:30.891724+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
+  "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
+  "FirstSeen": "2022-07-22T20:22:02.0247279+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 151,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 755,
+  "Rating": 4.29
 }

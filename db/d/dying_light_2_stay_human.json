@@ -1,16 +1,87 @@
 {
   "ID": "87b7846d2eba4bc49eead0854323aba8",
   "Name": "Dying Light 2 Stay Human",
-  "Rating": 4.58,
-  "Ranking_Rating": 407,
-  "Ranking_Popularity": 46,
-  "Ranking_PopularitySum": 59,
-  "NumberOfRatings": 7305,
-  "NumberOfAwards": 15215,
-  "NumberOfAwardsMax": 6604,
-  "MaxAwardTitle": "Character Customization",
-  "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
-  "LastChanged": "2023-04-25T11:57:03.4179207+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 6604
+    },
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 3868
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 543
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 555
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 574
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 534
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 564
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 533
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 517
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 230
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 520
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 413
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:08.1190564+00:00",
+      "NumProgressed": 529061,
+      "NumCompleted": 44
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:57.6151267+00:00",
@@ -3657,80 +3728,28 @@
       "Rating": 4.58,
       "NumberOfAwards": 15215,
       "NumberOfAwardsMax": 6604
+    },
+    {
+      "Time": "2023-04-25T16:09:07.9996148+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 15225,
+      "NumberOfAwardsMax": 6604
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "This game has Inclusive",
-      "Type": "Character Customization",
-      "Count": 6604
-    },
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 3868
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 543
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 555
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 564
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 534
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 564
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 533
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 517
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 230
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 520
-    },
-    {
-      "Text": "This game has a Creative Community",
-      "Prefix": "This game has a",
-      "Type": "Creative Community",
-      "Count": 413
-    }
-  ]
+  "EOS_Completed_Percentage": 0.01,
+  "EOS_Completed": 44,
+  "EOS_Progressed": 529061,
+  "LastChanged": "2023-04-25T16:09:07.9996146+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
+  "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
+  "NumberOfAwardsMax": 6604,
+  "NumberOfAwards": 15225,
+  "NumberOfRatings": 7305,
+  "Ranking_EOS_Completed": 111,
+  "Ranking_EOS_Progress": 22,
+  "Ranking_PopularitySum": 59,
+  "Ranking_Popularity": 46,
+  "Ranking_Rating": 407,
+  "Rating": 4.58,
+  "MaxAwardTitle": "Character Customization"
 }

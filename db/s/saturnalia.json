@@ -1,15 +1,14 @@
 {
   "ID": "c749cd78da34408d8434a46271f4bb79",
   "Name": "Saturnalia",
-  "Rating": 4.24,
-  "Ranking_Rating": 776,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-10-27T20:01:05.7341953+00:00",
-  "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
-  "LastChanged": "2023-04-14T01:53:25.2992682+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:44.9607815+00:00",
+      "NumProgressed": 62720,
+      "NumCompleted": 10
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-10-29T18:31:38.4403653+00:00",
@@ -224,5 +223,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0.02,
+  "EOS_Completed": 10,
+  "EOS_Progressed": 62720,
+  "LastChanged": "2023-04-14T01:53:25.2992682+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
+  "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
+  "FirstSeen": "2022-10-27T20:01:05.7341953+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 103,
+  "Ranking_EOS_Progress": 63,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 776,
+  "Rating": 4.24
 }

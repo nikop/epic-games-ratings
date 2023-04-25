@@ -1,11 +1,8 @@
 {
   "ID": "0ee0178f383b4d5498beb7985f7b5860",
   "Name": "Wildfire - Ticket to Rock",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:29:41.0983158+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:22.8862672+00:00",
-  "LastChanged": "2023-03-31T05:58:22.8862673+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:22.8862676+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:22.8862673+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:22.8862672+00:00",
+  "FirstSeen": "2022-07-22T20:29:41.0983158+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

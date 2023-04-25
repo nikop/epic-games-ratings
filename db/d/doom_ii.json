@@ -1,17 +1,15 @@
 {
   "ID": "5bfa503eec24408ba1723b81117520e5",
   "Name": "DOOM II",
-  "Rating": 4.73,
-  "Ranking_Rating": 155,
-  "Ranking_Popularity": 459,
-  "Ranking_PopularitySum": 464,
-  "NumberOfRatings": 48,
-  "NumberOfAwards": 25,
-  "NumberOfAwardsMax": 25,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-08-18T20:02:33.9663963+00:00",
-  "FirstSeenRating": "2022-09-01T17:32:34.6447237+00:00",
-  "LastChanged": "2023-03-19T15:58:05.3585776+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 25
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-09-01T17:32:34.644724+00:00",
@@ -177,12 +175,20 @@
       "Rating": 4.73
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 25
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-19T15:58:05.3585776+00:00",
+  "FirstSeenRating": "2022-09-01T17:32:34.6447237+00:00",
+  "FirstSeen": "2022-08-18T20:02:33.9663963+00:00",
+  "NumberOfAwardsMax": 25,
+  "NumberOfAwards": 25,
+  "NumberOfRatings": 48,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 464,
+  "Ranking_Popularity": 459,
+  "Ranking_Rating": 155,
+  "Rating": 4.73,
+  "MaxAwardTitle": "Great Boss Battles"
 }

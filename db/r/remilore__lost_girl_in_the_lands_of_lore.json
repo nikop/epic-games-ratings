@@ -1,11 +1,8 @@
 {
   "ID": "3fbe0be2f0a44febb56dc080c3a53775",
   "Name": "RemiLore: Lost Girl in the Lands of Lore",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:31:15.7743227+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:34.9177629+00:00",
-  "LastChanged": "2023-03-31T05:58:34.917763+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:34.9177633+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:34.917763+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:34.9177629+00:00",
+  "FirstSeen": "2022-07-22T20:31:15.7743227+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

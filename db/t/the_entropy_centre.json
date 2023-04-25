@@ -1,11 +1,14 @@
 {
   "ID": "3658d3b2ab274e47baf9da3225ad128e",
   "Name": "The Entropy Centre",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-03-31T13:57:59.7998545+00:00",
-  "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
-  "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:41.5023748+00:00",
+      "NumProgressed": 75,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T13:57:59.7998559+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 75,
+  "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
+  "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
+  "FirstSeen": "2023-03-31T13:57:59.7998545+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

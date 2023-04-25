@@ -1,11 +1,8 @@
 {
   "ID": "1b7be718900a412696034cbffdc27820",
   "Name": "Kholat",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-02-24T16:58:26.7953234+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:29.5789887+00:00",
-  "LastChanged": "2023-03-31T05:58:29.5789888+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:29.5789891+00:00",
@@ -14,5 +11,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:29.5789888+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:14:35.3022208+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:29.5789887+00:00",
+  "FirstSeen": "2023-02-24T16:58:26.7953234+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

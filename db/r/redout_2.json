@@ -1,15 +1,14 @@
 {
   "ID": "05ae696a3c5f49af91a7433547460c21",
   "Name": "Redout 2",
-  "Rating": 4.46,
-  "Ranking_Rating": 588,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:21:48.0586054+00:00",
-  "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
-  "LastChanged": "2023-04-12T03:57:16.5877568+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:41.7016514+00:00",
+      "NumProgressed": 953,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-10-24T23:31:30.797446+00:00",
@@ -52,5 +51,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 953,
+  "LastChanged": "2023-04-12T03:57:16.5877568+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
+  "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
+  "FirstSeen": "2022-07-22T20:21:48.0586054+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 145,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 588,
+  "Rating": 4.46
 }

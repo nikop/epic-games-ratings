@@ -1,11 +1,14 @@
 {
   "ID": "935f1f4777c84a1c8c9d8cd995deb6e7",
   "Name": "Arkanoid - Eternal Battle",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-10-27T09:30:39.1234104+00:00",
-  "FirstSeenRating": "2023-03-31T06:57:05.6220405+00:00",
-  "LastChanged": "2023-03-31T06:57:05.6220407+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:00.4658511+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T06:57:05.6220408+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 5,
+  "LastChanged": "2023-03-31T06:57:05.6220407+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:00.465852+00:00",
+  "FirstSeenRating": "2023-03-31T06:57:05.6220405+00:00",
+  "FirstSeen": "2022-10-27T09:30:39.1234104+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

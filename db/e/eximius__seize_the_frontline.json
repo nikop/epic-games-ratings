@@ -1,15 +1,14 @@
 {
   "ID": "1c943de0163f4f0982f34dc0fc37dce9",
   "Name": "Eximius: Seize the Frontline",
-  "Rating": 4.2,
-  "Ranking_Rating": 798,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:26:39.4598269+00:00",
-  "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
-  "LastChanged": "2023-04-23T20:58:18.8879033+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:42.4732279+00:00",
+      "NumProgressed": 181568,
+      "NumCompleted": 4
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-12-31T16:58:21.8302488+00:00",
@@ -194,5 +193,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 4,
+  "EOS_Progressed": 181568,
+  "LastChanged": "2023-04-23T20:58:18.8879033+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
+  "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
+  "FirstSeen": "2022-07-22T20:26:39.4598269+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 48,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 798,
+  "Rating": 4.2
 }

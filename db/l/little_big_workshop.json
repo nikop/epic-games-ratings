@@ -1,15 +1,8 @@
 {
   "ID": "402982723c79438bab7bfe346c34b5b6",
   "Name": "Little Big Workshop",
-  "Rating": 4.3,
-  "Ranking_Rating": 748,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:22:20.9578996+00:00",
-  "FirstSeenRating": "2022-10-23T19:31:08.0358175+00:00",
-  "LastChanged": "2023-03-31T05:57:32.7408744+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-10-23T19:31:08.0358179+00:00",
@@ -50,5 +43,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:32.7408744+00:00",
+  "FirstSeenRating": "2022-10-23T19:31:08.0358175+00:00",
+  "FirstSeen": "2022-07-22T20:22:20.9578996+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 748,
+  "Rating": 4.3
 }

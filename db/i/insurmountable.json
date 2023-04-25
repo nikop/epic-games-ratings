@@ -1,16 +1,15 @@
 {
   "ID": "e25eba2210804006a61763a4108322de",
   "Name": "Insurmountable",
-  "Rating": 4.2,
-  "Ranking_Rating": 798,
-  "Ranking_Popularity": 468,
-  "Ranking_PopularitySum": 470,
-  "NumberOfRatings": 711,
-  "NumberOfAwards": 22,
-  "NumberOfAwardsMax": 22,
-  "MaxAwardTitle": "Relaxing",
-  "FirstSeen": "2022-07-22T20:16:54.1539465+00:00",
-  "LastChanged": "2022-12-31T14:56:59.7606412+00:00",
+  "Tags": [
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 22
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:54.1539467+00:00",
@@ -557,12 +556,19 @@
       "Rating": 4.2
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 22
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2022-12-31T14:56:59.7606412+00:00",
+  "FirstSeen": "2022-07-22T20:16:54.1539465+00:00",
+  "NumberOfAwardsMax": 22,
+  "NumberOfAwards": 22,
+  "NumberOfRatings": 711,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 470,
+  "Ranking_Popularity": 468,
+  "Ranking_Rating": 798,
+  "Rating": 4.2,
+  "MaxAwardTitle": "Relaxing"
 }

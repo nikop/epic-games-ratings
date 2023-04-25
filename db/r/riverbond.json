@@ -1,15 +1,14 @@
 {
   "ID": "100f8957d16d4d2d89716775b5767779",
   "Name": "Riverbond",
-  "Rating": 4.47,
-  "Ranking_Rating": 574,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 617,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
-  "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:28.3793468+00:00",
+      "NumProgressed": 514607,
+      "NumCompleted": 394
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:42.544323+00:00",
@@ -466,5 +465,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0.08,
+  "EOS_Completed": 394,
+  "EOS_Progressed": 514607,
+  "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
+  "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 617,
+  "Ranking_EOS_Completed": 85,
+  "Ranking_EOS_Progress": 24,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 574,
+  "Rating": 4.47
 }

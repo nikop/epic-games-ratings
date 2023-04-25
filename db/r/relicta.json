@@ -1,16 +1,21 @@
 {
   "ID": "d79920221de24b448e24516a7810804e",
   "Name": "Relicta",
-  "Rating": 4.15,
-  "Ranking_Rating": 831,
-  "Ranking_Popularity": 257,
-  "Ranking_PopularitySum": 334,
-  "NumberOfRatings": 429,
-  "NumberOfAwards": 261,
-  "NumberOfAwardsMax": 193,
-  "MaxAwardTitle": "Challenging Puzzles",
-  "FirstSeen": "2022-07-22T20:28:55.5563049+00:00",
-  "LastChanged": "2023-04-21T21:58:25.1634046+00:00",
+  "Tags": [
+    {
+      "Text": "This game features Challenging Puzzles",
+      "Prefix": "This game features",
+      "Type": "Challenging Puzzles",
+      "Count": 193
+    },
+    {
+      "Text": "In this game, your choices Don\u0027t Impact the Story",
+      "Prefix": "In this game, your choices",
+      "Type": "Don\u0027t Impact the Story",
+      "Count": 68
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:55.5563052+00:00",
@@ -517,18 +522,19 @@
       "NumberOfAwardsMax": 193
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game features Challenging Puzzles",
-      "Prefix": "This game features",
-      "Type": "Challenging Puzzles",
-      "Count": 193
-    },
-    {
-      "Text": "In this game, your choices Don\u0027t Impact the Story",
-      "Prefix": "In this game, your choices",
-      "Type": "Don\u0027t Impact the Story",
-      "Count": 68
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-21T21:58:25.1634046+00:00",
+  "FirstSeen": "2022-07-22T20:28:55.5563049+00:00",
+  "NumberOfAwardsMax": 193,
+  "NumberOfAwards": 261,
+  "NumberOfRatings": 429,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 334,
+  "Ranking_Popularity": 257,
+  "Ranking_Rating": 831,
+  "Rating": 4.15,
+  "MaxAwardTitle": "Challenging Puzzles"
 }

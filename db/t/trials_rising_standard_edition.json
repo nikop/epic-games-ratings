@@ -1,16 +1,8 @@
 {
   "ID": "argyle",
   "Name": "Trials Rising Standard Edition",
-  "Rating": 4.69,
-  "Ranking_Rating": 208,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 81,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:21:00.7497016+00:00",
-  "FirstSeenRating": "2022-08-06T00:01:51.7192819+00:00",
-  "LastChanged": "2023-03-31T22:57:22.1750465+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-08-06T00:01:51.7192822+00:00",
@@ -240,5 +232,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T22:57:22.1750465+00:00",
+  "FirstSeenRating": "2022-08-06T00:01:51.7192819+00:00",
+  "FirstSeen": "2022-07-22T20:21:00.7497016+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 81,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 208,
+  "Rating": 4.69
 }

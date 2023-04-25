@@ -1,11 +1,8 @@
 {
   "ID": "b0558db0e2c741a69e83c0106b62ac85",
   "Name": "Expeditions: Viking",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:30:22.6849763+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:28.7031259+00:00",
-  "LastChanged": "2023-03-31T05:58:28.703126+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:28.7031263+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:28.703126+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:28.7031259+00:00",
+  "FirstSeen": "2022-07-22T20:30:22.6849763+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

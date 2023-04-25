@@ -1,16 +1,15 @@
 {
   "ID": "ff1cd8b38bda4f6281879c9bdb228ff1",
   "Name": "Atomicrops",
-  "Rating": 4.88,
-  "Ranking_Rating": 18,
-  "Ranking_Popularity": 290,
-  "Ranking_PopularitySum": 382,
-  "NumberOfRatings": 157,
-  "NumberOfAwards": 128,
-  "NumberOfAwardsMax": 128,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-07-22T20:22:16.7457184+00:00",
-  "LastChanged": "2023-04-19T13:57:41.930692+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 128
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:16.7457187+00:00",
@@ -312,12 +311,19 @@
       "NumberOfAwardsMax": 128
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 128
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-19T13:57:41.930692+00:00",
+  "FirstSeen": "2022-07-22T20:22:16.7457184+00:00",
+  "NumberOfAwardsMax": 128,
+  "NumberOfAwards": 128,
+  "NumberOfRatings": 157,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 382,
+  "Ranking_Popularity": 290,
+  "Ranking_Rating": 18,
+  "Rating": 4.88,
+  "MaxAwardTitle": "Great Boss Battles"
 }

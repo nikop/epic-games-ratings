@@ -1,11 +1,14 @@
 {
   "ID": "7029f6353d7f468eb6940bbe6041474e",
   "Name": "Touch Type Tale",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-03-28T17:57:30.7246301+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
-  "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:09.3745824+00:00",
+      "NumProgressed": 2416,
+      "NumCompleted": 8
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:45.7559867+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0.33,
+  "EOS_Completed": 8,
+  "EOS_Progressed": 2416,
+  "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
+  "FirstSeen": "2023-03-28T17:57:30.7246301+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

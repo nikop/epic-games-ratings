@@ -1,11 +1,8 @@
 {
   "ID": "be535f6873c14906a6c2dc25170b4c46",
   "Name": "Murder Is Game Over",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-11-10T14:19:47.7625277+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:16.6272223+00:00",
-  "LastChanged": "2023-03-31T05:58:16.6272224+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:16.6272224+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:16.6272224+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:16.6272223+00:00",
+  "FirstSeen": "2022-11-10T14:19:47.7625277+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

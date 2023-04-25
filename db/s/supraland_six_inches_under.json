@@ -1,16 +1,21 @@
 {
   "ID": "ffa7b0821b4142d5873ecb0528715003",
   "Name": "Supraland Six Inches Under",
-  "Rating": 4.78,
-  "Ranking_Rating": 100,
-  "Ranking_Popularity": 320,
-  "Ranking_PopularitySum": 395,
-  "NumberOfRatings": 209,
-  "NumberOfAwards": 97,
-  "NumberOfAwardsMax": 97,
-  "MaxAwardTitle": "Challenging Puzzles",
-  "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
-  "LastChanged": "2023-04-18T14:57:33.639765+00:00",
+  "Tags": [
+    {
+      "Text": "This game features Challenging Puzzles",
+      "Prefix": "This game features",
+      "Type": "Challenging Puzzles",
+      "Count": 97
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:47.4001279+00:00",
+      "NumProgressed": 1973,
+      "NumCompleted": 236
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:12.2531946+00:00",
@@ -310,12 +315,20 @@
       "NumberOfAwardsMax": 97
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game features Challenging Puzzles",
-      "Prefix": "This game features",
-      "Type": "Challenging Puzzles",
-      "Count": 97
-    }
-  ]
+  "EOS_Completed_Percentage": 11.96,
+  "EOS_Completed": 236,
+  "EOS_Progressed": 1973,
+  "LastChanged": "2023-04-18T14:57:33.639765+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
+  "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
+  "NumberOfAwardsMax": 97,
+  "NumberOfAwards": 97,
+  "NumberOfRatings": 209,
+  "Ranking_EOS_Completed": 1,
+  "Ranking_EOS_Progress": 129,
+  "Ranking_PopularitySum": 395,
+  "Ranking_Popularity": 320,
+  "Ranking_Rating": 100,
+  "Rating": 4.78,
+  "MaxAwardTitle": "Challenging Puzzles"
 }

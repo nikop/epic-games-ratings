@@ -1,15 +1,14 @@
 {
   "ID": "03fd634dc7f24662ac5545277b89a826",
   "Name": "The Uncertain: Light at the End",
-  "Rating": 3.88,
-  "Ranking_Rating": 891,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:32:49.9129709+00:00",
-  "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
-  "LastChanged": "2023-04-14T16:58:18.4820759+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:44.5175392+00:00",
+      "NumProgressed": 401,
+      "NumCompleted": 5
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-10-10T07:33:50.0588665+00:00",
@@ -56,5 +55,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 1.25,
+  "EOS_Completed": 5,
+  "EOS_Progressed": 401,
+  "LastChanged": "2023-04-14T16:58:18.4820759+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
+  "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
+  "FirstSeen": "2022-07-22T20:32:49.9129709+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 19,
+  "Ranking_EOS_Progress": 162,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 891,
+  "Rating": 3.88
 }

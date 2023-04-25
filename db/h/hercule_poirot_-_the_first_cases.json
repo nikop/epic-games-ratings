@@ -1,15 +1,14 @@
 {
   "ID": "711c559363934d6eb17c6ff3f0539b2b",
   "Name": "Hercule Poirot - The First Cases",
-  "Rating": 4.33,
-  "Ranking_Rating": 726,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:32:42.6542114+00:00",
-  "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
-  "LastChanged": "2023-04-23T20:59:05.6364727+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:42.6464552+00:00",
+      "NumProgressed": 336,
+      "NumCompleted": 4
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-01-28T08:58:06.9323921+00:00",
@@ -28,5 +27,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 1.19,
+  "EOS_Completed": 4,
+  "EOS_Progressed": 336,
+  "LastChanged": "2023-04-23T20:59:05.6364727+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
+  "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
+  "FirstSeen": "2022-07-22T20:32:42.6542114+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 20,
+  "Ranking_EOS_Progress": 166,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 726,
+  "Rating": 4.33
 }

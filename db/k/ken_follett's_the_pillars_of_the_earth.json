@@ -1,16 +1,27 @@
 {
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
-  "Rating": 4.52,
-  "Ranking_Rating": 496,
-  "Ranking_Popularity": 282,
-  "Ranking_PopularitySum": 352,
-  "NumberOfRatings": 368,
-  "NumberOfAwards": 186,
-  "NumberOfAwardsMax": 147,
-  "MaxAwardTitle": "Easy Puzzles",
-  "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
-  "LastChanged": "2022-12-18T07:58:24.625193+00:00",
+  "Tags": [
+    {
+      "Text": "This game features Easy Puzzles",
+      "Prefix": "This game features",
+      "Type": "Easy Puzzles",
+      "Count": 147
+    },
+    {
+      "Text": "In this game, your choices Impact the Story",
+      "Prefix": "In this game, your choices",
+      "Type": "Impact the Story",
+      "Count": 39
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:32.3721818+00:00",
+      "NumProgressed": 11964,
+      "NumCompleted": 91
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:00.1804664+00:00",
@@ -439,18 +450,20 @@
       "Rating": 4.52
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game features Easy Puzzles",
-      "Prefix": "This game features",
-      "Type": "Easy Puzzles",
-      "Count": 147
-    },
-    {
-      "Text": "In this game, your choices Impact the Story",
-      "Prefix": "In this game, your choices",
-      "Type": "Impact the Story",
-      "Count": 39
-    }
-  ]
+  "EOS_Completed_Percentage": 0.76,
+  "EOS_Completed": 91,
+  "EOS_Progressed": 11964,
+  "LastChanged": "2022-12-18T07:58:24.625193+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
+  "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
+  "NumberOfAwardsMax": 147,
+  "NumberOfAwards": 186,
+  "NumberOfRatings": 368,
+  "Ranking_EOS_Completed": 26,
+  "Ranking_EOS_Progress": 98,
+  "Ranking_PopularitySum": 352,
+  "Ranking_Popularity": 282,
+  "Ranking_Rating": 496,
+  "Rating": 4.52,
+  "MaxAwardTitle": "Easy Puzzles"
 }

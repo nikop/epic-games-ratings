@@ -1,11 +1,14 @@
 {
   "ID": "0f1f172642b5432eb0652d70c5fa8c2c",
   "Name": "Nickelodeon All-Star Brawl",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-03-03T20:57:13.4390501+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:20.1447352+00:00",
-  "LastChanged": "2023-03-31T05:57:20.1447353+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:24.7601178+00:00",
+      "NumProgressed": 543,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:20.1447355+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 543,
+  "LastChanged": "2023-03-31T05:57:20.1447353+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:24.7601185+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:20.1447352+00:00",
+  "FirstSeen": "2023-03-03T20:57:13.4390501+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

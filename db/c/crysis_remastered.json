@@ -1,16 +1,21 @@
 {
   "ID": "17a1f8585f9246808597b30780aaf4fb",
   "Name": "Crysis Remastered",
-  "Rating": 4.4,
-  "Ranking_Rating": 662,
-  "Ranking_Popularity": 238,
-  "Ranking_PopularitySum": 332,
-  "NumberOfRatings": 697,
-  "NumberOfAwards": 264,
-  "NumberOfAwardsMax": 243,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-07-22T20:33:04.7204895+00:00",
-  "LastChanged": "2023-04-13T04:58:20.3027846+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 243
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 21
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:33:04.7204897+00:00",
@@ -657,18 +662,19 @@
       "NumberOfAwardsMax": 243
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 243
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 21
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-13T04:58:20.3027846+00:00",
+  "FirstSeen": "2022-07-22T20:33:04.7204895+00:00",
+  "NumberOfAwardsMax": 243,
+  "NumberOfAwards": 264,
+  "NumberOfRatings": 697,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 332,
+  "Ranking_Popularity": 238,
+  "Ranking_Rating": 662,
+  "Rating": 4.4,
+  "MaxAwardTitle": "Great Boss Battles"
 }

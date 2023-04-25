@@ -1,11 +1,14 @@
 {
   "ID": "42c9d119160c4631b5916a7e33bd4bc3",
   "Name": "BloodRayne: Terminal Cut",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-11-08T03:50:42.9174156+00:00",
-  "FirstSeenRating": "2023-03-31T06:58:23.5211548+00:00",
-  "LastChanged": "2023-03-31T06:58:23.5211549+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:14:25.6495135+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T06:58:23.5211551+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 6,
+  "LastChanged": "2023-03-31T06:58:23.5211549+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:14:25.6495145+00:00",
+  "FirstSeenRating": "2023-03-31T06:58:23.5211548+00:00",
+  "FirstSeen": "2022-11-08T03:50:42.9174156+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

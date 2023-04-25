@@ -1,11 +1,14 @@
 {
   "ID": "300bfcc4364d49e7808ea4d02d6a9c5d",
   "Name": "Bug Fables -The Everlasting Sapling-",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:27:02.4416913+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
-  "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:45.7911432+00:00",
+      "NumProgressed": 65,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:05.5070217+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 65,
+  "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
+  "FirstSeen": "2022-07-22T20:27:02.4416913+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

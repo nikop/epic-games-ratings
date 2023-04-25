@@ -1,15 +1,14 @@
 {
   "ID": "e04dd85a41d740ac972df346afd913a6",
   "Name": "Guild of Dungeoneering Ultimate Edition",
-  "Rating": 4.65,
-  "Ranking_Rating": 287,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:33:05.1793726+00:00",
-  "FirstSeenRating": "2022-10-01T01:33:21.6676401+00:00",
-  "LastChanged": "2023-03-31T05:58:48.1280562+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:48.4032179+00:00",
+      "NumProgressed": 3,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-10-01T01:33:21.6676405+00:00",
@@ -74,5 +73,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 3,
+  "LastChanged": "2023-03-31T05:58:48.1280562+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:48.4032187+00:00",
+  "FirstSeenRating": "2022-10-01T01:33:21.6676401+00:00",
+  "FirstSeen": "2022-07-22T20:33:05.1793726+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 177,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 287,
+  "Rating": 4.65
 }

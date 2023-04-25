@@ -1,16 +1,8 @@
 {
   "ID": "b36ca8a7314444e6a6b513729790582d",
   "Name": "Lake",
-  "Rating": 4.03,
-  "Ranking_Rating": 866,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 22,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:21:48.5356941+00:00",
-  "FirstSeenRating": "2022-09-12T17:01:06.2568783+00:00",
-  "LastChanged": "2023-03-31T05:57:28.9953802+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-09-12T17:01:06.2568786+00:00",
@@ -54,5 +46,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:28.9953802+00:00",
+  "FirstSeenRating": "2022-09-12T17:01:06.2568783+00:00",
+  "FirstSeen": "2022-07-22T20:21:48.5356941+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 22,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 866,
+  "Rating": 4.03
 }

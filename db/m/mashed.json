@@ -1,11 +1,8 @@
 {
   "ID": "ca2939a60db9448ebe1187451112604a",
   "Name": "Mashed",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-04-09T13:59:29.9901516+00:00",
-  "FirstSeenRating": "2023-04-09T13:59:29.9901532+00:00",
-  "LastChanged": "2023-04-09T13:59:29.9901533+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-04-09T13:59:29.9901534+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-09T13:59:29.9901533+00:00",
+  "FirstSeenRating": "2023-04-09T13:59:29.9901532+00:00",
+  "FirstSeen": "2023-04-09T13:59:29.9901516+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

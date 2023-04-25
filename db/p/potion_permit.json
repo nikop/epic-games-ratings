@@ -1,16 +1,21 @@
 {
   "ID": "c4395ba88061417a8ac6bd3fdc7fba79",
   "Name": "Potion Permit",
-  "Rating": 3.78,
-  "Ranking_Rating": 897,
-  "Ranking_Popularity": 362,
-  "Ranking_PopularitySum": 416,
-  "NumberOfAwards": 66,
-  "NumberOfAwardsMax": 66,
-  "MaxAwardTitle": "Character Customization",
-  "FirstSeen": "2022-09-23T04:00:21.3687329+00:00",
-  "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
-  "LastChanged": "2023-04-23T20:57:07.1104633+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 66
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:08:48.6875554+00:00",
+      "NumProgressed": 1221,
+      "NumCompleted": 5
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-09-26T13:31:30.2639771+00:00",
@@ -279,12 +284,20 @@
       "NumberOfAwardsMax": 66
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "This game has Inclusive",
-      "Type": "Character Customization",
-      "Count": 66
-    }
-  ]
+  "EOS_Completed_Percentage": 0.41,
+  "EOS_Completed": 5,
+  "EOS_Progressed": 1221,
+  "LastChanged": "2023-04-23T20:57:07.1104633+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
+  "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
+  "FirstSeen": "2022-09-23T04:00:21.3687329+00:00",
+  "NumberOfAwardsMax": 66,
+  "NumberOfAwards": 66,
+  "Ranking_EOS_Completed": 39,
+  "Ranking_EOS_Progress": 139,
+  "Ranking_PopularitySum": 416,
+  "Ranking_Popularity": 362,
+  "Ranking_Rating": 897,
+  "Rating": 3.78,
+  "MaxAwardTitle": "Character Customization"
 }

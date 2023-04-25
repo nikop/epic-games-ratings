@@ -1,11 +1,8 @@
 {
   "ID": "470e78f71f7a4b8eb05f1ec1422553e6",
   "Name": "Claire de Lune",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:27:45.8957999+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:09.9539561+00:00",
-  "LastChanged": "2023-03-31T05:58:09.9539562+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:09.9539564+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:09.9539562+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:09.9539561+00:00",
+  "FirstSeen": "2022-07-22T20:27:45.8957999+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

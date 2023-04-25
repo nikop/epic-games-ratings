@@ -1,16 +1,15 @@
 {
   "ID": "0d66818e2304485f8dc3ae90c8b622b4",
   "Name": "Shadowrun Hong Kong - Extended Edition",
-  "Rating": 4.53,
-  "Ranking_Rating": 484,
-  "Ranking_Popularity": 329,
-  "Ranking_PopularitySum": 397,
-  "NumberOfRatings": 241,
-  "NumberOfAwards": 92,
-  "NumberOfAwardsMax": 92,
-  "MaxAwardTitle": "Character Customization",
-  "FirstSeen": "2022-07-22T20:23:38.1146486+00:00",
-  "LastChanged": "2023-03-14T01:54:40.3884035+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 92
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:38.1146489+00:00",
@@ -368,12 +367,19 @@
       "Rating": 4.53
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "This game has Inclusive",
-      "Type": "Character Customization",
-      "Count": 92
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-14T01:54:40.3884035+00:00",
+  "FirstSeen": "2022-07-22T20:23:38.1146486+00:00",
+  "NumberOfAwardsMax": 92,
+  "NumberOfAwards": 92,
+  "NumberOfRatings": 241,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 397,
+  "Ranking_Popularity": 329,
+  "Ranking_Rating": 484,
+  "Rating": 4.53,
+  "MaxAwardTitle": "Character Customization"
 }

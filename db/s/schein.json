@@ -1,11 +1,8 @@
 {
   "ID": "af153251033d4cc79d2fc375d882fb88",
   "Name": "Schein",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:23:34.1686253+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:41.7496161+00:00",
-  "LastChanged": "2023-03-31T05:57:41.7496161+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:41.7496163+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:41.7496161+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:41.7496161+00:00",
+  "FirstSeen": "2022-07-22T20:23:34.1686253+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

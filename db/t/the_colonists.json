@@ -1,15 +1,8 @@
 {
   "ID": "efeffab890e0438abe36f643f5da5ca2",
   "Name": "The Colonists",
-  "Rating": 4.59,
-  "Ranking_Rating": 388,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:26:16.736578+00:00",
-  "FirstSeenRating": "2022-11-30T17:01:14.9184871+00:00",
-  "LastChanged": "2023-03-31T05:58:01.1435593+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-11-30T17:01:14.9184876+00:00",
@@ -26,5 +19,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:01.1435593+00:00",
+  "FirstSeenRating": "2022-11-30T17:01:14.9184871+00:00",
+  "FirstSeen": "2022-07-22T20:26:16.736578+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 388,
+  "Rating": 4.59
 }

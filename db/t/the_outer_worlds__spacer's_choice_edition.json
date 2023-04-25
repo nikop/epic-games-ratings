@@ -1,15 +1,8 @@
 {
   "ID": "dc61166eea95474e912953b163791d42",
   "Name": "The Outer Worlds: Spacer\u0027s Choice Edition",
-  "Rating": 4.48,
-  "Ranking_Rating": 561,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-03-07T20:56:52.9843527+00:00",
-  "FirstSeenRating": "2023-03-24T21:56:57.663882+00:00",
-  "LastChanged": "2023-04-25T05:57:10.2478157+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-24T21:56:57.6638821+00:00",
@@ -114,5 +107,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-25T05:57:10.2478157+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:08:59.5081268+00:00",
+  "FirstSeenRating": "2023-03-24T21:56:57.663882+00:00",
+  "FirstSeen": "2023-03-07T20:56:52.9843527+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 561,
+  "Rating": 4.48
 }

@@ -1,11 +1,8 @@
 {
   "ID": "21b227238de14dc181de7eb4633b117f",
   "Name": "I See Red",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-04-14T13:04:18.0087066+00:00",
-  "FirstSeenRating": "2023-04-14T13:04:18.0087101+00:00",
-  "LastChanged": "2023-04-14T13:04:18.0087102+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-04-14T13:04:18.0087105+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-14T13:04:18.0087102+00:00",
+  "FirstSeenRating": "2023-04-14T13:04:18.0087101+00:00",
+  "FirstSeen": "2023-04-14T13:04:18.0087066+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

@@ -1,15 +1,8 @@
 {
   "ID": "facc5c8822a8413aab0af205f555c8ce",
   "Name": "Chicory: A Colorful Tale",
-  "Rating": 4.74,
-  "Ranking_Rating": 141,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:27:34.3357709+00:00",
-  "FirstSeenRating": "2022-12-10T22:57:38.5891209+00:00",
-  "LastChanged": "2023-03-31T05:58:09.0309404+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-12-10T22:57:38.5891213+00:00",
@@ -34,5 +27,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:09.0309404+00:00",
+  "FirstSeenRating": "2022-12-10T22:57:38.5891209+00:00",
+  "FirstSeen": "2022-07-22T20:27:34.3357709+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 141,
+  "Rating": 4.74
 }

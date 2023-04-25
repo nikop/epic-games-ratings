@@ -1,15 +1,8 @@
 {
   "ID": "3102f48ad7bd409ab6e34f2ad697e961",
   "Name": "CORRUPTION 2029",
-  "Rating": 3.75,
-  "Ranking_Rating": 900,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:20:05.407172+00:00",
-  "FirstSeenRating": "2022-10-10T12:30:41.7210732+00:00",
-  "LastChanged": "2023-03-31T05:57:17.7024781+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-10-10T12:30:41.721074+00:00",
@@ -66,5 +59,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:17.7024781+00:00",
+  "FirstSeenRating": "2022-10-10T12:30:41.7210732+00:00",
+  "FirstSeen": "2022-07-22T20:20:05.407172+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 900,
+  "Rating": 3.75
 }

@@ -1,11 +1,8 @@
 {
   "ID": "7604bec709b141d0a0da90a687ce11d4",
   "Name": "Big Mutha Truckers 2",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-12-06T17:57:44.3108643+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:49.9853006+00:00",
-  "LastChanged": "2023-03-31T05:57:49.9853006+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:49.9853008+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:49.9853006+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:49.9853006+00:00",
+  "FirstSeen": "2022-12-06T17:57:44.3108643+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

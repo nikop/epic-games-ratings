@@ -1,15 +1,14 @@
 {
   "ID": "9f101e25b1a9427a9e6971d2b21c5f82",
   "Name": "Rise of Industry",
-  "Rating": 4.22,
-  "Ranking_Rating": 789,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-08-13T00:31:45.0285821+00:00",
-  "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
-  "LastChanged": "2023-04-18T18:59:01.7062169+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:14:09.1437724+00:00",
+      "NumProgressed": 650426,
+      "NumCompleted": 1
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-03T20:57:50.7322234+00:00",
@@ -146,5 +145,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 1,
+  "EOS_Progressed": 650426,
+  "LastChanged": "2023-04-18T18:59:01.7062169+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
+  "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
+  "FirstSeen": "2022-08-13T00:31:45.0285821+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 18,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 789,
+  "Rating": 4.22
 }

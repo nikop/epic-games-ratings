@@ -1,16 +1,8 @@
 {
   "ID": "a63ab7da00fe46ecb7714998234c14a0",
   "Name": "Blazing Beaks",
-  "Rating": 4.48,
-  "Ranking_Rating": 561,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 31,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:24:48.7089035+00:00",
-  "FirstSeenRating": "2022-08-05T05:31:11.9314661+00:00",
-  "LastChanged": "2023-03-31T05:57:50.2477401+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-08-05T05:31:11.9314663+00:00",
@@ -134,5 +126,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:50.2477401+00:00",
+  "FirstSeenRating": "2022-08-05T05:31:11.9314661+00:00",
+  "FirstSeen": "2022-07-22T20:24:48.7089035+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 31,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 561,
+  "Rating": 4.48
 }

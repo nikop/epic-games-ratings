@@ -1,11 +1,8 @@
 {
   "ID": "5897959368ac4350989ed0bdef86e78d",
   "Name": "The Hong Kong Massacre",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-04-22T18:58:36.4241556+00:00",
-  "FirstSeenRating": "2023-04-22T18:58:36.4241611+00:00",
-  "LastChanged": "2023-04-22T18:58:36.4241611+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-04-22T18:58:36.4241615+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-22T18:58:36.4241611+00:00",
+  "FirstSeenRating": "2023-04-22T18:58:36.4241611+00:00",
+  "FirstSeen": "2023-04-22T18:58:36.4241556+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

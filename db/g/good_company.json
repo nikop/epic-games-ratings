@@ -1,15 +1,14 @@
 {
   "ID": "b595ab13a93a4be8b6857cc14d2d6e8b",
   "Name": "Good Company",
-  "Rating": 4.42,
-  "Ranking_Rating": 638,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 75,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
-  "LastChanged": "2023-03-31T05:58:10.6862452+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:55.1219226+00:00",
+      "NumProgressed": 4660,
+      "NumCompleted": 1
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:54.0503206+00:00",
@@ -162,5 +161,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0.02,
+  "EOS_Completed": 1,
+  "EOS_Progressed": 4660,
+  "LastChanged": "2023-03-31T05:58:10.6862452+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
+  "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 75,
+  "Ranking_EOS_Completed": 103,
+  "Ranking_EOS_Progress": 115,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 638,
+  "Rating": 4.42
 }

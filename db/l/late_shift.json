@@ -1,11 +1,14 @@
 {
   "ID": "537156dc975644649b905ec6e958506e",
   "Name": "Late Shift",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-10-26T23:03:57.7405896+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
-  "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:43.1533073+00:00",
+      "NumProgressed": 327,
+      "NumCompleted": 4
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:45.2761689+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 1.22,
+  "EOS_Completed": 4,
+  "EOS_Progressed": 327,
+  "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
+  "FirstSeen": "2022-10-26T23:03:57.7405896+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

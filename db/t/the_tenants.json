@@ -1,15 +1,14 @@
 {
   "ID": "edaebe133189475c9fd853858b7fa9ac",
   "Name": "The Tenants",
-  "Rating": 4.53,
-  "Ranking_Rating": 484,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 82,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:28:48.0535215+00:00",
-  "LastChanged": "2023-03-31T05:58:15.6657628+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:14:11.1531525+00:00",
+      "NumProgressed": 9635,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:48.0535217+00:00",
@@ -275,5 +274,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 9635,
+  "LastChanged": "2023-03-31T05:58:15.6657628+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:14:11.1531533+00:00",
+  "FirstSeen": "2022-07-22T20:28:48.0535215+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 82,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 103,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 484,
+  "Rating": 4.53
 }

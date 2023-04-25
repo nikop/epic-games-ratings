@@ -1,16 +1,8 @@
 {
   "ID": "buttercup",
   "Name": "The Walking Dead: Season Two",
-  "Rating": 4.85,
-  "Ranking_Rating": 37,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 24,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:22:19.5722563+00:00",
-  "FirstSeenRating": "2022-08-07T16:31:05.1986599+00:00",
-  "LastChanged": "2023-04-13T14:57:49.969224+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-08-07T16:31:05.1986602+00:00",
@@ -106,5 +98,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-13T14:57:49.969224+00:00",
+  "FirstSeenRating": "2022-08-07T16:31:05.1986599+00:00",
+  "FirstSeen": "2022-07-22T20:22:19.5722563+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 24,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 37,
+  "Rating": 4.85
 }

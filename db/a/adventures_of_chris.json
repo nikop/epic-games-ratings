@@ -1,11 +1,8 @@
 {
   "ID": "8c689d262be143168e69fdd60d0615cb",
   "Name": "Adventures of Chris",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:29:48.8567447+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:23.7727992+00:00",
-  "LastChanged": "2023-03-31T05:58:23.7727993+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:23.7727995+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:23.7727993+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:23.7727992+00:00",
+  "FirstSeen": "2022-07-22T20:29:48.8567447+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

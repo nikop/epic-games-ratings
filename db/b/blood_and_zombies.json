@@ -1,11 +1,8 @@
 {
   "ID": "5798ab7fa43c4b42bf1ab29f73592c69",
   "Name": "Blood and Zombies",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:24:16.9840627+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:35.8315657+00:00",
-  "LastChanged": "2023-03-31T05:57:35.8315658+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:35.8315659+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:35.8315658+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:35.8315657+00:00",
+  "FirstSeen": "2022-07-22T20:24:16.9840627+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

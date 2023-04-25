@@ -1,11 +1,8 @@
 {
   "ID": "3e6684b430674b2aab4db7c778ed3263",
   "Name": "Hell Pie",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-23T22:01:50.0348802+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:22.1752723+00:00",
-  "LastChanged": "2023-03-31T05:57:22.1752724+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:22.1752726+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:22.1752724+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:22.1752723+00:00",
+  "FirstSeen": "2022-07-23T22:01:50.0348802+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

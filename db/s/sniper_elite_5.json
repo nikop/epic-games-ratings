@@ -1,15 +1,14 @@
 {
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
-  "Rating": 4.39,
-  "Ranking_Rating": 672,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-03-07T14:57:33.0234716+00:00",
-  "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
-  "LastChanged": "2023-04-25T11:57:11.8270011+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:23.1376838+00:00",
+      "NumProgressed": 643,
+      "NumCompleted": 2
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-27T02:57:24.3255682+00:00",
@@ -118,5 +117,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0.31,
+  "EOS_Completed": 2,
+  "EOS_Progressed": 643,
+  "LastChanged": "2023-04-25T11:57:11.8270011+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
+  "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
+  "FirstSeen": "2023-03-07T14:57:33.0234716+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 48,
+  "Ranking_EOS_Progress": 155,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 672,
+  "Rating": 4.39
 }

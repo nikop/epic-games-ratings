@@ -1,11 +1,8 @@
 {
   "ID": "9dd57a83fbae44f5b0fee00cf941be7d",
   "Name": "LOVE 3",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:32:22.9485407+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:42.4140956+00:00",
-  "LastChanged": "2023-03-31T05:58:42.4140957+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:42.4140958+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:42.4140957+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:42.4140956+00:00",
+  "FirstSeen": "2022-07-22T20:32:22.9485407+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

@@ -1,16 +1,15 @@
 {
   "ID": "8f8bddb3ff464536984ce8e945cb5f8c",
   "Name": "South Park\u2122: The Stick of Truth\u2122",
-  "Rating": 4.82,
-  "Ranking_Rating": 60,
-  "Ranking_Popularity": 425,
-  "Ranking_PopularitySum": 446,
-  "NumberOfRatings": 115,
-  "NumberOfAwards": 34,
-  "NumberOfAwardsMax": 34,
-  "MaxAwardTitle": "Character Customization",
-  "FirstSeen": "2022-07-22T20:25:01.6762384+00:00",
-  "LastChanged": "2023-04-23T11:57:58.1184629+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 34
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:01.6762388+00:00",
@@ -286,12 +285,19 @@
       "NumberOfAwardsMax": 34
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "This game has Inclusive",
-      "Type": "Character Customization",
-      "Count": 34
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-23T11:57:58.1184629+00:00",
+  "FirstSeen": "2022-07-22T20:25:01.6762384+00:00",
+  "NumberOfAwardsMax": 34,
+  "NumberOfAwards": 34,
+  "NumberOfRatings": 115,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 446,
+  "Ranking_Popularity": 425,
+  "Ranking_Rating": 60,
+  "Rating": 4.82,
+  "MaxAwardTitle": "Character Customization"
 }

@@ -1,16 +1,57 @@
 {
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
-  "Rating": 4.06,
-  "Ranking_Rating": 860,
-  "Ranking_Popularity": 61,
-  "Ranking_PopularitySum": 37,
-  "NumberOfRatings": 9041,
-  "NumberOfAwards": 29719,
-  "NumberOfAwardsMax": 4849,
-  "MaxAwardTitle": "Diverse Characters",
-  "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
-  "LastChanged": "2023-04-25T01:57:15.1358379+00:00",
+  "Tags": [
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 4777
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 4849
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 4572
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 4471
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 3915
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 3921
+    },
+    {
+      "Text": "This game has Playful Visuals",
+      "Prefix": "This game has",
+      "Type": "Playful Visuals",
+      "Count": 3214
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:08:41.9871817+00:00",
+      "NumProgressed": 85413,
+      "NumCompleted": 1774
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:45.6649584+00:00",
@@ -3266,48 +3307,20 @@
       "NumberOfAwardsMax": 4849
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 4777
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 4849
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 4572
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 4471
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 3915
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 3921
-    },
-    {
-      "Text": "This game has Playful Visuals",
-      "Prefix": "This game has",
-      "Type": "Playful Visuals",
-      "Count": 3214
-    }
-  ]
+  "EOS_Completed_Percentage": 2.08,
+  "EOS_Completed": 1774,
+  "EOS_Progressed": 85413,
+  "LastChanged": "2023-04-25T01:57:15.1358379+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
+  "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
+  "NumberOfAwardsMax": 4849,
+  "NumberOfAwards": 29719,
+  "NumberOfRatings": 9041,
+  "Ranking_EOS_Completed": 12,
+  "Ranking_EOS_Progress": 58,
+  "Ranking_PopularitySum": 37,
+  "Ranking_Popularity": 61,
+  "Ranking_Rating": 860,
+  "Rating": 4.06,
+  "MaxAwardTitle": "Diverse Characters"
 }

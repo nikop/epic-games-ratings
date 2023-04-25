@@ -1,16 +1,15 @@
 {
   "ID": "7dc02eac2fe347368b5f72a02bb5bc5e",
   "Name": "Mothergunship",
-  "Rating": 4.38,
-  "Ranking_Rating": 684,
-  "Ranking_Popularity": 277,
-  "Ranking_PopularitySum": 367,
-  "NumberOfRatings": 436,
-  "NumberOfAwards": 161,
-  "NumberOfAwardsMax": 161,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-07-22T20:25:55.041007+00:00",
-  "LastChanged": "2023-04-23T20:58:13.481837+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 161
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:55.0410072+00:00",
@@ -556,12 +555,19 @@
       "NumberOfAwardsMax": 161
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 161
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-23T20:58:13.481837+00:00",
+  "FirstSeen": "2022-07-22T20:25:55.041007+00:00",
+  "NumberOfAwardsMax": 161,
+  "NumberOfAwards": 161,
+  "NumberOfRatings": 436,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 367,
+  "Ranking_Popularity": 277,
+  "Ranking_Rating": 684,
+  "Rating": 4.38,
+  "MaxAwardTitle": "Great Boss Battles"
 }

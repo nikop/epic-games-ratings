@@ -1,16 +1,15 @@
 {
   "ID": "39697c68e46b48d2b75e17bdc417d859",
   "Name": "Bridge Constructor The Walking Dead",
-  "Rating": 3.92,
-  "Ranking_Rating": 884,
-  "Ranking_Popularity": 443,
-  "Ranking_PopularitySum": 455,
-  "NumberOfRatings": 104,
-  "NumberOfAwards": 29,
-  "NumberOfAwardsMax": 29,
-  "MaxAwardTitle": "Challenging Puzzles",
-  "FirstSeen": "2022-07-22T20:28:51.0308349+00:00",
-  "LastChanged": "2023-04-05T06:58:20.468964+00:00",
+  "Tags": [
+    {
+      "Text": "This game features Challenging Puzzles",
+      "Prefix": "This game features",
+      "Type": "Challenging Puzzles",
+      "Count": 29
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:51.0308351+00:00",
@@ -296,12 +295,19 @@
       "NumberOfAwardsMax": 29
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game features Challenging Puzzles",
-      "Prefix": "This game features",
-      "Type": "Challenging Puzzles",
-      "Count": 29
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-05T06:58:20.468964+00:00",
+  "FirstSeen": "2022-07-22T20:28:51.0308349+00:00",
+  "NumberOfAwardsMax": 29,
+  "NumberOfAwards": 29,
+  "NumberOfRatings": 104,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 455,
+  "Ranking_Popularity": 443,
+  "Ranking_Rating": 884,
+  "Rating": 3.92,
+  "MaxAwardTitle": "Challenging Puzzles"
 }

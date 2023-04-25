@@ -1,16 +1,69 @@
 {
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
-  "Rating": 4.2,
-  "Ranking_Rating": 798,
-  "Ranking_Popularity": 295,
-  "Ranking_PopularitySum": 248,
-  "NumberOfRatings": 2500,
-  "NumberOfAwards": 778,
-  "NumberOfAwardsMax": 122,
-  "MaxAwardTitle": "Quickly Understood Controls",
-  "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
-  "LastChanged": "2023-04-15T17:57:52.8898023+00:00",
+  "Tags": [
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 110
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 108
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
+      "Count": 98
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 90
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 82
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 122
+    },
+    {
+      "Text": "This game has a Competitive Community",
+      "Prefix": "This game has a",
+      "Type": "Competitive Community",
+      "Count": 73
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 95
+    },
+    {
+      "Text": "This game has Playful Visuals",
+      "Prefix": "",
+      "Type": "",
+      "Count": 20
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:51.5611313+00:00",
+      "NumProgressed": 9841,
+      "NumCompleted": 20
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:31.9241682+00:00",
@@ -1164,60 +1217,20 @@
       "NumberOfAwardsMax": 122
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 110
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 108
-    },
-    {
-      "Text": "This game has Competitive Players",
-      "Prefix": "This game has",
-      "Type": "Competitive Players",
-      "Count": 98
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 90
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 82
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 122
-    },
-    {
-      "Text": "This game has a Competitive Community",
-      "Prefix": "This game has a",
-      "Type": "Competitive Community",
-      "Count": 73
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 95
-    },
-    {
-      "Text": "This game has Playful Visuals",
-      "Prefix": "",
-      "Type": "",
-      "Count": 20
-    }
-  ]
+  "EOS_Completed_Percentage": 0.2,
+  "EOS_Completed": 20,
+  "EOS_Progressed": 9841,
+  "LastChanged": "2023-04-15T17:57:52.8898023+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
+  "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
+  "NumberOfAwardsMax": 122,
+  "NumberOfAwards": 778,
+  "NumberOfRatings": 2500,
+  "Ranking_EOS_Completed": 62,
+  "Ranking_EOS_Progress": 102,
+  "Ranking_PopularitySum": 248,
+  "Ranking_Popularity": 295,
+  "Ranking_Rating": 798,
+  "Rating": 4.2,
+  "MaxAwardTitle": "Quickly Understood Controls"
 }

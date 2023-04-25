@@ -1,11 +1,8 @@
 {
   "ID": "7f498fbf0a4e43239d58eee6615ae806",
   "Name": "ReadySet Heroes",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:19:35.9003358+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:14.5213157+00:00",
-  "LastChanged": "2023-03-31T05:57:14.5213158+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:14.521316+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:14.5213158+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:14.5213157+00:00",
+  "FirstSeen": "2022-07-22T20:19:35.9003358+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

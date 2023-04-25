@@ -1,16 +1,75 @@
 {
   "ID": "ed55aa5edc5941de92fd7f64de415793",
   "Name": "HITMAN 3",
-  "Rating": 4.78,
-  "Ranking_Rating": 100,
-  "Ranking_Popularity": 36,
-  "Ranking_PopularitySum": 18,
-  "NumberOfRatings": 21082,
-  "NumberOfAwards": 64814,
-  "NumberOfAwardsMax": 8721,
-  "MaxAwardTitle": "Diverse Characters",
-  "FirstSeen": "2022-07-22T20:17:51.8099598+00:00",
-  "LastChanged": "2023-04-25T14:57:33.8122825+00:00",
+  "Tags": [
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 8438
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 8497
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 8721
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 8226
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 8010
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 5956
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 7889
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 7847
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 7186
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "",
+      "Type": "",
+      "Count": 8394
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:08:56.7371366+00:00",
+      "NumProgressed": 1265578,
+      "NumCompleted": 2050
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:51.80996+00:00",
@@ -4633,66 +4692,20 @@
       "NumberOfAwardsMax": 8721
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 8438
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 8497
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 8721
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 8226
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 8010
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 5956
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 7889
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 7847
-    },
-    {
-      "Text": "This game has a Creative Community",
-      "Prefix": "This game has a",
-      "Type": "Creative Community",
-      "Count": 7186
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "",
-      "Type": "",
-      "Count": 8394
-    }
-  ]
+  "EOS_Completed_Percentage": 0.16,
+  "EOS_Completed": 2050,
+  "EOS_Progressed": 1265578,
+  "LastChanged": "2023-04-25T14:57:33.8122825+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:08:56.7371376+00:00",
+  "FirstSeen": "2022-07-22T20:17:51.8099598+00:00",
+  "NumberOfAwardsMax": 8721,
+  "NumberOfAwards": 64814,
+  "NumberOfRatings": 21082,
+  "Ranking_EOS_Completed": 66,
+  "Ranking_EOS_Progress": 7,
+  "Ranking_PopularitySum": 18,
+  "Ranking_Popularity": 36,
+  "Ranking_Rating": 100,
+  "Rating": 4.78,
+  "MaxAwardTitle": "Diverse Characters"
 }

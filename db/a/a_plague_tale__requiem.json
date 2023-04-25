@@ -1,16 +1,57 @@
 {
   "ID": "64ae027afbd145d9b6e62bd96967fe66",
   "Name": "A Plague Tale: Requiem",
-  "Rating": 4.74,
-  "Ranking_Rating": 141,
-  "Ranking_Popularity": 197,
-  "Ranking_PopularitySum": 284,
-  "NumberOfAwards": 554,
-  "NumberOfAwardsMax": 398,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
-  "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
-  "LastChanged": "2023-04-23T11:57:42.0624643+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 398
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 27
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 29
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 24
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 28
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 24
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 24
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:45.6707556+00:00",
+      "NumProgressed": 10105,
+      "NumCompleted": 29
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-10-19T08:31:07.2693345+00:00",
@@ -181,48 +222,20 @@
       "NumberOfAwardsMax": 398
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 398
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 27
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 29
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 24
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 28
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 24
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 24
-    }
-  ]
+  "EOS_Completed_Percentage": 0.29,
+  "EOS_Completed": 29,
+  "EOS_Progressed": 10105,
+  "LastChanged": "2023-04-23T11:57:42.0624643+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
+  "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
+  "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
+  "NumberOfAwardsMax": 398,
+  "NumberOfAwards": 554,
+  "Ranking_EOS_Completed": 52,
+  "Ranking_EOS_Progress": 100,
+  "Ranking_PopularitySum": 284,
+  "Ranking_Popularity": 197,
+  "Ranking_Rating": 141,
+  "Rating": 4.74,
+  "MaxAwardTitle": "Great Boss Battles"
 }

@@ -1,11 +1,8 @@
 {
   "ID": "c9c5dc2e8d9842558c142ba9ba614bc9",
   "Name": "Bonfire Peaks",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:23:05.3333822+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:38.6198164+00:00",
-  "LastChanged": "2023-03-31T05:57:38.6198165+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:38.6198167+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:38.6198165+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:38.6198164+00:00",
+  "FirstSeen": "2022-07-22T20:23:05.3333822+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

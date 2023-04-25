@@ -1,16 +1,14 @@
 {
   "ID": "e8bab5eae849405890fca0cd2d1f808e",
   "Name": "Aragami 2",
-  "Rating": 4.57,
-  "Ranking_Rating": 424,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 88,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-08-13T01:31:43.4157574+00:00",
-  "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
-  "LastChanged": "2023-03-31T05:58:07.8538504+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:50.0141589+00:00",
+      "NumProgressed": 31009,
+      "NumCompleted": 141
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-08-18T20:02:23.7159826+00:00",
@@ -200,5 +198,20 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0.45,
+  "EOS_Completed": 141,
+  "EOS_Progressed": 31009,
+  "LastChanged": "2023-03-31T05:58:07.8538504+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
+  "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
+  "FirstSeen": "2022-08-13T01:31:43.4157574+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 88,
+  "Ranking_EOS_Completed": 36,
+  "Ranking_EOS_Progress": 78,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 424,
+  "Rating": 4.57
 }

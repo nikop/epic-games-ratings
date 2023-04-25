@@ -1,15 +1,14 @@
 {
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
-  "Rating": 4.57,
-  "Ranking_Rating": 424,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-03-21T22:57:01.0375788+00:00",
-  "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
-  "LastChanged": "2023-04-24T18:57:06.7255231+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:08:44.9363338+00:00",
+      "NumProgressed": 4592,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:56:57.8348963+00:00",
@@ -78,5 +77,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 4592,
+  "LastChanged": "2023-04-24T18:57:06.7255231+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
+  "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
+  "FirstSeen": "2023-03-21T22:57:01.0375788+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 116,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 424,
+  "Rating": 4.57
 }

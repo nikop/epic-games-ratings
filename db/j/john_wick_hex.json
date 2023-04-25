@@ -1,11 +1,8 @@
 {
   "ID": "a9cb15d3362d43d585b8a5b13b8a4513",
   "Name": "John Wick Hex",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:17:11.5680704+00:00",
-  "FirstSeenRating": "2023-03-31T05:56:58.5458842+00:00",
-  "LastChanged": "2023-03-31T05:56:58.5458843+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:56:58.5458845+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:56:58.5458843+00:00",
+  "FirstSeenRating": "2023-03-31T05:56:58.5458842+00:00",
+  "FirstSeen": "2022-07-22T20:17:11.5680704+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

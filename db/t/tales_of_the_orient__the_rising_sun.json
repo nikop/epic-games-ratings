@@ -1,11 +1,14 @@
 {
   "ID": "abb92d3abb7a40e7b05b473759947382",
   "Name": "Tales of the Orient: The Rising Sun",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-04-15T20:58:43.6104353+00:00",
-  "FirstSeenRating": "2023-04-15T20:58:43.6104414+00:00",
-  "LastChanged": "2023-04-15T20:58:43.6104415+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:36.8460839+00:00",
+      "NumProgressed": 11,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-04-15T20:58:43.6104418+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 11,
+  "LastChanged": "2023-04-15T20:58:43.6104415+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:36.8460847+00:00",
+  "FirstSeenRating": "2023-04-15T20:58:43.6104414+00:00",
+  "FirstSeen": "2023-04-15T20:58:43.6104353+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }
