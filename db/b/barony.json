@@ -863,16 +863,18 @@
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
+  "LastUpdate_Achievements": "2023-04-25T20:45:11.3572765+00:00",
+  "LastUpdate_Ratings": "2023-04-25T20:36:59.4754098+00:00",
   "LastChanged": "2023-04-22T06:57:50.2707474+00:00",
-  "FirstSeen": "2022-07-22T20:23:54.5508638+00:00",
+  "MaxAwardTitle": "Extremely Fun",
   "NumberOfAwardsMax": 69,
   "NumberOfAwards": 530,
   "NumberOfRatings": 763,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Completed": 187,
+  "Ranking_EOS_Progress": 353,
   "Ranking_PopularitySum": 287,
   "Ranking_Popularity": 357,
   "Ranking_Rating": 178,
   "Rating": 4.71,
-  "MaxAwardTitle": "Extremely Fun"
+  "FirstSeen": "2022-07-22T20:23:54.5508638+00:00"
 }

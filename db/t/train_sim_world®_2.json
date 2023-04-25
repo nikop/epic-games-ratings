@@ -2166,16 +2166,18 @@
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
+  "LastUpdate_Achievements": "2023-04-25T20:45:08.3246732+00:00",
+  "LastUpdate_Ratings": "2023-04-25T20:36:56.9418227+00:00",
   "LastChanged": "2023-04-24T22:56:50.1883056+00:00",
-  "FirstSeen": "2022-07-22T20:17:00.3136154+00:00",
+  "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 533,
   "NumberOfAwards": 4139,
   "NumberOfRatings": 2541,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Completed": 187,
+  "Ranking_EOS_Progress": 353,
   "Ranking_PopularitySum": 129,
   "Ranking_Popularity": 176,
-  "Ranking_Rating": 638,
+  "Ranking_Rating": 637,
   "Rating": 4.42,
-  "MaxAwardTitle": "Great for Beginners"
+  "FirstSeen": "2022-07-22T20:17:00.3136154+00:00"
 }

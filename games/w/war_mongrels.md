@@ -1,13 +1,13 @@
 # War Mongrels
-Rating: 4.30 (Ranked 748)  
+Rating: 4.30 (Ranked 747)  
 Number of Ratings: 34  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 227 (Ranked 211)  
-Completed: 0 (0.00%) (Ranked 184)  
+Progressed: 227 (Ranked 212)  
+Completed: 0 (0.00%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

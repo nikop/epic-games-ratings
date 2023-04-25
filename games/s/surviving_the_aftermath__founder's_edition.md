@@ -1,17 +1,17 @@
 # Surviving the Aftermath: Founder's Edition
-Rating: 4.47 (Ranked 574)  
+Rating: 4.47 (Ranked 573)  
 Number of Ratings: 836  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 96  (Ranked 323)  
 Sum: 646 (Ranked 267)  
 Diff (max vs sum): 56
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,479 (Ranked 122)  
-Completed: 0 (0.00%) (Ranked 184)  
+Progressed: 4,481 (Ranked 122)  
+Completed: 0 (0.00%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-04-25 | 4,479 | 0 |
+| 2023-04-25 | 4,481 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

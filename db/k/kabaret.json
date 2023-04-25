@@ -2,11 +2,21 @@
   "ID": "2b94ba4a1f1f4d8aa5b85ecdeef1f33e",
   "Name": "Kabaret",
   "Tags": [],
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T20:47:15.0612292+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_Progress": 321
+  "EOS_Progressed": 6,
+  "LastUpdate_Achievements": "2023-04-25T20:47:15.06123+00:00",
+  "LastUpdate_Ratings": "2023-04-25T20:38:51.0306013+00:00",
+  "LastChanged_Achievements": "2023-04-25T20:47:15.0612286+00:00",
+  "FirstSeenAchievements": "2023-04-25T20:47:15.0612299+00:00",
+  "Ranking_EOS_Completed": 187,
+  "Ranking_EOS_Progress": 296
 }

@@ -1,5 +1,5 @@
 # Good Company
-Rating: 4.42 (Ranked 638)  
+Rating: 4.42 (Ranked 637)  
 Number of Ratings: 75  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
@@ -7,7 +7,7 @@ Sum: 0 (Ranked 488)
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,661 (Ranked 120)  
-Completed: 1 (0.02%) (Ranked 167)  
+Completed: 1 (0.02%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

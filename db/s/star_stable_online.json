@@ -36,7 +36,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 102
+      "Count": 103
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -979,21 +979,29 @@
       "Rating": 4.42,
       "NumberOfAwards": 899,
       "NumberOfAwardsMax": 122
+    },
+    {
+      "Time": "2023-04-25T20:38:46.1986612+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 900,
+      "NumberOfAwardsMax": 122
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-24T15:57:12.0545855+00:00",
-  "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
+  "LastUpdate_Achievements": "2023-04-25T20:47:08.3973593+00:00",
+  "LastUpdate_Ratings": "2023-04-25T20:38:46.1986616+00:00",
+  "LastChanged": "2023-04-25T20:38:46.198661+00:00",
+  "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 122,
-  "NumberOfAwards": 899,
+  "NumberOfAwards": 900,
   "NumberOfRatings": 317,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Completed": 187,
+  "Ranking_EOS_Progress": 353,
   "Ranking_PopularitySum": 230,
   "Ranking_Popularity": 295,
-  "Ranking_Rating": 638,
+  "Ranking_Rating": 637,
   "Rating": 4.42,
-  "MaxAwardTitle": "Great for Beginners"
+  "FirstSeen": "2022-07-22T20:17:59.036031+00:00"
 }

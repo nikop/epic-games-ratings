@@ -1,5 +1,5 @@
 # Tacoma
-Rating: 4.39 (Ranked 672)  
+Rating: 4.39 (Ranked 671)  
 Number of Ratings: 60  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  

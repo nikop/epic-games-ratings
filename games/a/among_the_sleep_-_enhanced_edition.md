@@ -1,17 +1,17 @@
 # Among the Sleep - Enhanced Edition
-Rating: 4.30 (Ranked 748)  
+Rating: 4.30 (Ranked 747)  
 Number of Ratings: 368  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,564 (Ranked 60)  
-Completed: 323 (0.47%) (Ranked 91)  
+Progressed: 68,570 (Ranked 60)  
+Completed: 323 (0.47%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-04-25 | 68,564 | 323 |
+| 2023-04-25 | 68,570 | 323 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

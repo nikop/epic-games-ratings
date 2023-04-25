@@ -1054,16 +1054,18 @@
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
+  "LastUpdate_Achievements": "2023-04-25T20:47:28.0581793+00:00",
+  "LastUpdate_Ratings": "2023-04-25T20:39:02.5861105+00:00",
   "LastChanged": "2023-04-19T11:57:02.0862703+00:00",
-  "FirstSeen": "2022-07-22T20:18:22.8287391+00:00",
+  "MaxAwardTitle": "Amazing Storytelling",
   "NumberOfAwardsMax": 104,
   "NumberOfAwards": 871,
   "NumberOfRatings": 609,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Completed": 187,
+  "Ranking_EOS_Progress": 353,
   "Ranking_PopularitySum": 234,
   "Ranking_Popularity": 311,
   "Ranking_Rating": 509,
   "Rating": 4.51,
-  "MaxAwardTitle": "Amazing Storytelling"
+  "FirstSeen": "2022-07-22T20:18:22.8287391+00:00"
 }

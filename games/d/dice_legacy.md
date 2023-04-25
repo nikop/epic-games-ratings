@@ -1,12 +1,12 @@
 # Dice Legacy
-Rating: 4.29 (Ranked 755)  
+Rating: 4.29 (Ranked 754)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 716 (Ranked 166)  
-Completed: 0 (0.00%) (Ranked 184)  
+Progressed: 716 (Ranked 167)  
+Completed: 0 (0.00%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

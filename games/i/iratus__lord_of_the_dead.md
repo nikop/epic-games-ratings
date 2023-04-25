@@ -1,17 +1,17 @@
 # Iratus: Lord of the Dead
-Rating: 4.37 (Ranked 693)  
+Rating: 4.37 (Ranked 692)  
 Number of Ratings: 10,109  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 2,130  (Ranked 100)  
 Sum: 4,127 (Ranked 130)  
 Diff (max vs sum): -30
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,092 (Ranked 83)  
-Completed: 13 (0.05%) (Ranked 156)  
+Progressed: 26,096 (Ranked 83)  
+Completed: 13 (0.05%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-04-25 | 26,092 | 13 |
+| 2023-04-25 | 26,096 | 13 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

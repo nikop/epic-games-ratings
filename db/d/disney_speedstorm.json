@@ -2,11 +2,21 @@
   "ID": "47bf168a2214456fb7bd4c217e2a4fd6",
   "Name": "Disney Speedstorm",
   "Tags": [],
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T20:49:22.8918022+00:00",
+      "NumProgressed": 1760,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_Progress": 321
+  "EOS_Progressed": 1760,
+  "LastUpdate_Achievements": "2023-04-25T20:49:22.891803+00:00",
+  "LastUpdate_Ratings": "2023-04-25T20:40:43.4175742+00:00",
+  "LastChanged_Achievements": "2023-04-25T20:49:22.8918018+00:00",
+  "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
+  "Ranking_EOS_Completed": 187,
+  "Ranking_EOS_Progress": 144
 }

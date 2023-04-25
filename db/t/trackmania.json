@@ -24,7 +24,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2110
+      "Count": 2116
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4116,21 +4116,29 @@
       "Rating": 4.67,
       "NumberOfAwards": 21127,
       "NumberOfAwardsMax": 2466
+    },
+    {
+      "Time": "2023-04-25T20:39:15.5701664+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 21133,
+      "NumberOfAwardsMax": 2466
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T18:57:42.7802162+00:00",
-  "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
+  "LastUpdate_Achievements": "2023-04-25T20:47:42.695303+00:00",
+  "LastUpdate_Ratings": "2023-04-25T20:39:15.570167+00:00",
+  "LastChanged": "2023-04-25T20:39:15.5701662+00:00",
+  "MaxAwardTitle": "Great for Quick Sessions",
   "NumberOfAwardsMax": 2466,
-  "NumberOfAwards": 21127,
+  "NumberOfAwards": 21133,
   "NumberOfRatings": 6825,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Completed": 187,
+  "Ranking_EOS_Progress": 353,
   "Ranking_PopularitySum": 51,
   "Ranking_Popularity": 88,
   "Ranking_Rating": 254,
   "Rating": 4.67,
-  "MaxAwardTitle": "Great for Quick Sessions"
+  "FirstSeen": "2022-07-22T20:22:57.8589284+00:00"
 }

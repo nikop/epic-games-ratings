@@ -20,13 +20,15 @@
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1,
-  "LastChanged_Achievements": "2023-04-25T20:03:58.6837257+00:00",
+  "LastUpdate_Achievements": "2023-04-25T20:50:24.675251+00:00",
+  "LastUpdate_Ratings": "2023-04-25T20:41:40.5874879+00:00",
+  "LastChanged_Achievements": "2023-04-25T20:50:24.6752507+00:00",
   "LastChanged": "2023-04-02T06:59:01.0065195+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:18.1745052+00:00",
   "FirstSeenRating": "2023-04-02T06:59:01.0065194+00:00",
-  "FirstSeen": "2023-04-02T06:59:01.0065166+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_Progress": 311
+  "Ranking_EOS_Completed": 187,
+  "Ranking_EOS_Progress": 333,
+  "FirstSeen": "2023-04-02T06:59:01.0065166+00:00"
 }

@@ -1,17 +1,17 @@
 # Europa Universalis IV
-Rating: 4.68 (Ranked 232)  
+Rating: 4.68 (Ranked 231)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Educational): 5,093  (Ranked 60)  
-Sum: 42,211 (Ranked 26)  
+Sum: 42,215 (Ranked 26)  
 Diff (max vs sum): 34
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,033 (Ranked 86)  
-Completed: 0 (0.00%) (Ranked 184)  
+Progressed: 21,076 (Ranked 86)  
+Completed: 0 (0.00%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-04-25 | 21,033 | 0 |
+| 2023-04-25 | 21,076 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -23,7 +23,7 @@ Completed: 0 (0.00%) (Ranked 184)
 | This game is Relaxing | 4,749 |
 | This game has Competitive Players | 4,588 |
 | This game has Amazing Storytelling | 4,348 |
-| This game has Amazing Characters | 4,031 |
+| This game has Amazing Characters | 4,035 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -126,4 +126,4 @@ Completed: 0 (0.00%) (Ranked 184)
 | 2023-04-22 | 4.68 | - | 5,071 | 41,989 |
 | 2023-04-23 | 4.68 | - | 5,079 | 42,074 |
 | 2023-04-24 | 4.68 | - | 5,088 | 42,156 |
-| 2023-04-25 | 4.68 | - | 5,093 | 42,211 |
+| 2023-04-25 | 4.68 | - | 5,093 | 42,215 |

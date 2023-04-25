@@ -1,17 +1,17 @@
 # Black Widow: Recharged
-Rating: 4.25 (Ranked 773)  
+Rating: 4.25 (Ranked 772)  
 Number of Ratings: 34  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,360 (Ranked 97)  
-Completed: 41 (0.31%) (Ranked 106)  
+Progressed: 13,362 (Ranked 97)  
+Completed: 41 (0.31%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-04-25 | 13,360 | 41 |
+| 2023-04-25 | 13,362 | 41 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -2,28 +2,28 @@
 Rating: 4.51 (Ranked 509)  
 Number of Ratings: 366,020  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Quick Sessions): 392,168  (Ranked 2)  
-Sum: 2,673,942 (Ranked 2)  
+Max (Great for Quick Sessions): 393,257  (Ranked 2)  
+Sum: 2,679,630 (Ranked 2)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,408,353 (Ranked 2)  
-Completed: 1,234 (0.01%) (Ranked 175)  
+Progressed: 23,409,110 (Ranked 2)  
+Completed: 1,234 (0.01%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-04-25 | 23,408,353 | 1,234 |
+| 2023-04-25 | 23,409,110 | 1,234 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 392,168 |
-| This game has Competitive Players | 340,336 |
-| This game has Quickly Understood Controls | 310,664 |
-| This game is Extremely Fun | 304,955 |
-| This game is Highly Recommended | 293,352 |
-| This game has Challenging Combat | 284,066 |
-| This game has Amazing Storytelling | 255,022 |
-| This game has a Competitive Community | 252,901 |
-| This game has Amazing Characters | 240,478 |
+| This game is Great for Quick Sessions | 393,257 |
+| This game has Competitive Players | 340,964 |
+| This game has Quickly Understood Controls | 311,166 |
+| This game is Extremely Fun | 305,507 |
+| This game is Highly Recommended | 293,940 |
+| This game has Challenging Combat | 284,719 |
+| This game has Amazing Storytelling | 255,560 |
+| This game has a Competitive Community | 253,520 |
+| This game has Amazing Characters | 240,997 |
 | This game has Obsessive Gameplay | 167,946 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -120,3 +120,4 @@ Completed: 1,234 (0.01%) (Ranked 175)
 | 2023-04-22 | 4.51 | - | 389,715 | 2,660,364 |
 | 2023-04-23 | 4.51 | - | 391,076 | 2,668,189 |
 | 2023-04-24 | 4.51 | - | 392,168 | 2,673,942 |
+| 2023-04-25 | 4.51 | - | 393,257 | 2,679,630 |

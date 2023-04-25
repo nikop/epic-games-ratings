@@ -7,7 +7,7 @@ Sum: 306 (Ranked 321)
 Diff (max vs sum): 91
 ## Popularity (Based on EOS Achievements)
 Progressed: 27,285 (Ranked 82)  
-Completed: 1,250 (4.58%) (Ranked 21)  
+Completed: 1,250 (4.58%) (Ranked 23)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

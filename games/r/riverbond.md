@@ -1,17 +1,17 @@
 # Riverbond
-Rating: 4.47 (Ranked 574)  
+Rating: 4.47 (Ranked 573)  
 Number of Ratings: 617  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 514,629 (Ranked 24)  
-Completed: 394 (0.08%) (Ranked 148)  
+Progressed: 514,630 (Ranked 24)  
+Completed: 394 (0.08%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-04-25 | 514,629 | 394 |
+| 2023-04-25 | 514,630 | 394 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

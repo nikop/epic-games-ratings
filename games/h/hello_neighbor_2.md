@@ -1,12 +1,12 @@
 # Hello Neighbor 2
-Rating: 4.38 (Ranked 684)  
+Rating: 4.38 (Ranked 683)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,252 (Ranked 136)  
-Completed: 88 (3.91%) (Ranked 25)  
+Completed: 88 (3.91%) (Ranked 28)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,11 +2,21 @@
   "ID": "a32fec328323428da84e902b3d3f98fb",
   "Name": "Poosh XL",
   "Tags": [],
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T20:46:01.034139+00:00",
+      "NumProgressed": 4,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_Progress": 321
+  "EOS_Progressed": 4,
+  "LastUpdate_Achievements": "2023-04-25T20:46:01.0341399+00:00",
+  "LastUpdate_Ratings": "2023-04-25T20:37:43.9643377+00:00",
+  "LastChanged_Achievements": "2023-04-25T20:46:01.0341385+00:00",
+  "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
+  "Ranking_EOS_Completed": 187,
+  "Ranking_EOS_Progress": 310
 }

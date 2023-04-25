@@ -1,12 +1,12 @@
 # Hercule Poirot - The First Cases
-Rating: 4.33 (Ranked 726)  
+Rating: 4.33 (Ranked 725)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 336 (Ranked 192)  
-Completed: 4 (1.19%) (Ranked 68)  
+Progressed: 336 (Ranked 193)  
+Completed: 4 (1.19%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

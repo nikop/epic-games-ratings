@@ -1,16 +1,16 @@
 # Filament
-Rating: 4.32 (Ranked 735)  
+Rating: 4.32 (Ranked 734)  
 ## Popularity (Based on Awards)
 Max (Challenging Puzzles): 550  (Ranked 171)  
 Sum: 664 (Ranked 263)  
 Diff (max vs sum): -92
 ## Popularity (Based on EOS Achievements)
-Progressed: 187,792 (Ranked 47)  
-Completed: 395 (0.21%) (Ranked 121)  
+Progressed: 187,796 (Ranked 47)  
+Completed: 395 (0.21%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-04-25 | 187,792 | 395 |
+| 2023-04-25 | 187,796 | 395 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
