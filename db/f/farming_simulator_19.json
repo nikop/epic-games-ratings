@@ -12,7 +12,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 6168
+      "Count": 6174
     },
     {
       "Text": "This game is Educational",
@@ -3837,18 +3837,24 @@
       "Rating": 4.71,
       "NumberOfAwards": 46868,
       "NumberOfAwardsMax": 6168
+    },
+    {
+      "Time": "2023-04-25T19:14:05.6022109+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 46874,
+      "NumberOfAwardsMax": 6174
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T13:04:56.8502422+00:00",
+  "LastChanged": "2023-04-25T19:14:05.6022106+00:00",
   "FirstSeen": "2022-07-22T20:21:56.7737014+00:00",
-  "NumberOfAwardsMax": 6168,
-  "NumberOfAwards": 46868,
+  "NumberOfAwardsMax": 6174,
+  "NumberOfAwards": 46874,
   "NumberOfRatings": 16706,
-  "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_Progress": 183,
+  "Ranking_EOS_Completed": 183,
+  "Ranking_EOS_Progress": 321,
   "Ranking_PopularitySum": 23,
   "Ranking_Popularity": 51,
   "Ranking_Rating": 178,
