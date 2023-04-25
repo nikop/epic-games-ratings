@@ -1,11 +1,8 @@
 {
   "ID": "55ac8e9b72be4f7881f740de2fb80ce9",
   "Name": "Atrio: The Dark Wild",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:30:38.7814272+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:30.57182+00:00",
-  "LastChanged": "2023-03-31T05:58:30.5718201+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:30.5718203+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:30.5718201+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:30.57182+00:00",
+  "FirstSeen": "2022-07-22T20:30:38.7814272+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

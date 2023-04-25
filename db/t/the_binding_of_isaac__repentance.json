@@ -66,7 +66,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 540
+      "Count": 542
     },
     {
       "Text": "This game is Relaxing",
@@ -2224,18 +2224,24 @@
       "Rating": 4.9,
       "NumberOfAwards": 8313,
       "NumberOfAwardsMax": 1790
+    },
+    {
+      "Time": "2023-04-25T17:57:07.491505+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8315,
+      "NumberOfAwardsMax": 1790
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-24T23:57:01.7586784+00:00",
+  "LastChanged": "2023-04-25T17:57:07.4915047+00:00",
   "FirstSeen": "2022-07-22T20:18:34.9311333+00:00",
   "NumberOfAwardsMax": 1790,
-  "NumberOfAwards": 8313,
+  "NumberOfAwards": 8315,
   "NumberOfRatings": 1859,
-  "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_Progress": 179,
+  "Ranking_EOS_Completed": 122,
+  "Ranking_EOS_Progress": 183,
   "Ranking_PopularitySum": 86,
   "Ranking_Popularity": 105,
   "Ranking_Rating": 7,

@@ -5,6 +5,9 @@ Number of Ratings: 98  (23.09.2022)
 Max (Highly Recommended): 30  (Ranked 439)  
 Sum: 232 (Ranked 341)  
 Diff (max vs sum): 98
+## Popularity (Based on EOS Achievements)
+Progressed: 5,539 (Ranked 112)
+Completed: 7 (0.13%) (Ranked 74)
 ## Awards
 | Award | Count |
 | ----- | ----- |

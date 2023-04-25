@@ -2,9 +2,12 @@
 Rating: 4.47 (Ranked 574)  
 Number of Ratings: 617  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 486)  
-Sum: 0 (Ranked 486)  
+Max (): 0  (Ranked 487)  
+Sum: 0 (Ranked 487)  
 Diff (max vs sum): 0
+## Popularity (Based on EOS Achievements)
+Progressed: 514,626 (Ranked 24)
+Completed: 394 (0.08%) (Ranked 87)
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,11 +1,14 @@
 {
   "ID": "c281373e4f7f45d2981dc4072c571173",
   "Name": "Pirates Outlaws",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-12-12T14:58:21.7862512+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:13.2996269+00:00",
-  "LastChanged": "2023-03-31T05:58:13.299627+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:42:15.3224883+00:00",
+      "NumProgressed": 78,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:13.2996271+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 78,
+  "LastChanged": "2023-03-31T05:58:13.299627+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:42:15.3224895+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:13.2996269+00:00",
+  "FirstSeen": "2022-12-12T14:58:21.7862512+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

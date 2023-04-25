@@ -1,9 +1,12 @@
 # Godlike Burger
 Rating: 4.23 (Ranked 787)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 486)  
-Sum: 0 (Ranked 486)  
+Max (): 0  (Ranked 487)  
+Sum: 0 (Ranked 487)  
 Diff (max vs sum): 0
+## Popularity (Based on EOS Achievements)
+Progressed: 259 (Ranked 176)
+Completed: 1 (0.39%) (Ranked 41)
 ## Awards
 | Award | Count |
 | ----- | ----- |

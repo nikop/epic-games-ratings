@@ -1,9 +1,12 @@
 # Grand Theft Auto III – The Definitive Edition
 Rating: 4.15 (Ranked 831)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 486)  
-Sum: 0 (Ranked 486)  
+Max (): 0  (Ranked 487)  
+Sum: 0 (Ranked 487)  
 Diff (max vs sum): 0
+## Popularity (Based on EOS Achievements)
+Progressed: 4,706 (Ranked 117)
+Completed: 22 (0.47%) (Ranked 34)
 ## Awards
 | Award | Count |
 | ----- | ----- |

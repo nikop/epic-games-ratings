@@ -2,7 +2,28 @@
   "ID": "489c2ca47aaa4190b694184b979d3b23",
   "Name": "The First Tree",
   "Tags": [],
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:42:12.9453937+00:00",
+      "NumProgressed": 29788,
+      "NumCompleted": 92
+    },
+    {
+      "Time": "2023-04-25T17:02:14.6482079+00:00",
+      "NumProgressed": 29791,
+      "NumCompleted": 92
+    },
+    {
+      "Time": "2023-04-25T17:58:30.4520861+00:00",
+      "NumProgressed": 29793,
+      "NumCompleted": 92
+    },
+    {
+      "Time": "2023-04-25T18:58:26.5134647+00:00",
+      "NumProgressed": 29797,
+      "NumCompleted": 92
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:16.3923771+00:00",
@@ -206,18 +227,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
+  "EOS_Completed_Percentage": 0.31,
+  "EOS_Completed": 92,
+  "EOS_Progressed": 29797,
   "LastChanged": "2023-03-31T05:58:12.4512506+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 56,
-  "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_Progress": 179,
-  "Ranking_PopularitySum": 486,
-  "Ranking_Popularity": 486,
+  "Ranking_EOS_Completed": 48,
+  "Ranking_EOS_Progress": 79,
+  "Ranking_PopularitySum": 487,
+  "Ranking_Popularity": 487,
   "Ranking_Rating": 875,
   "Rating": 3.98
 }

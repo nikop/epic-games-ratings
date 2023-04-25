@@ -4,6 +4,9 @@ Rating: - (Ranked -)
 Max (): 0  (Ranked -)  
 Sum: 0 (Ranked -)  
 Diff (max vs sum): -
+## Popularity (Based on EOS Achievements)
+Progressed: 115 (Ranked -)
+Completed: 1 (0.87%) (Ranked -)
 ## Awards
 | Award | Count |
 | ----- | ----- |

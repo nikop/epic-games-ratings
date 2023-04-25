@@ -1,10 +1,13 @@
 # AER Memories of Old
-Rating: 4.46 (Ranked 588)  
+Rating: 4.46 (Ranked 589)  
 Number of Ratings: 170  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 486)  
-Sum: 0 (Ranked 486)  
+Max (): 0  (Ranked 487)  
+Sum: 0 (Ranked 487)  
 Diff (max vs sum): 0
+## Popularity (Based on EOS Achievements)
+Progressed: 7,747 (Ranked 106)
+Completed: 174 (2.25%) (Ranked 11)
 ## Awards
 | Award | Count |
 | ----- | ----- |

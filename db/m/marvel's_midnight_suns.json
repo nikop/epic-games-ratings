@@ -54,7 +54,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 123
+      "Count": 125
     },
     {
       "Text": "This game has a Creative Community",
@@ -1104,18 +1104,24 @@
       "Rating": 4.52,
       "NumberOfAwards": 2273,
       "NumberOfAwardsMax": 1104
+    },
+    {
+      "Time": "2023-04-25T16:57:46.7872989+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 2275,
+      "NumberOfAwardsMax": 1104
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T14:57:43.9058604+00:00",
+  "LastChanged": "2023-04-25T16:57:46.7872987+00:00",
   "FirstSeenRating": "2022-12-03T17:57:10.4344427+00:00",
   "FirstSeen": "2022-12-02T09:57:07.4463087+00:00",
   "NumberOfAwardsMax": 1104,
-  "NumberOfAwards": 2273,
-  "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_Progress": 179,
+  "NumberOfAwards": 2275,
+  "Ranking_EOS_Completed": 122,
+  "Ranking_EOS_Progress": 183,
   "Ranking_PopularitySum": 172,
   "Ranking_Popularity": 124,
   "Ranking_Rating": 496,

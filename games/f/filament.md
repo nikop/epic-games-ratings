@@ -1,9 +1,12 @@
 # Filament
-Rating: 4.32 (Ranked 736)  
+Rating: 4.32 (Ranked 735)  
 ## Popularity (Based on Awards)
 Max (Challenging Puzzles): 550  (Ranked 171)  
 Sum: 664 (Ranked 263)  
 Diff (max vs sum): -92
+## Popularity (Based on EOS Achievements)
+Progressed: 187,784 (Ranked 47)
+Completed: 395 (0.21%) (Ranked 61)
 ## Awards
 | Award | Count |
 | ----- | ----- |

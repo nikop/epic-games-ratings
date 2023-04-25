@@ -18,7 +18,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 4611
+      "Count": 4613
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4063,18 +4063,24 @@
       "Rating": 4.34,
       "NumberOfAwards": 30590,
       "NumberOfAwardsMax": 4832
+    },
+    {
+      "Time": "2023-04-25T18:56:50.3099213+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 30592,
+      "NumberOfAwardsMax": 4832
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T14:57:26.7223428+00:00",
+  "LastChanged": "2023-04-25T18:56:50.3099212+00:00",
   "FirstSeen": "2022-07-22T20:16:58.1519565+00:00",
   "NumberOfAwardsMax": 4832,
-  "NumberOfAwards": 30590,
+  "NumberOfAwards": 30592,
   "NumberOfRatings": 21107,
-  "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_Progress": 179,
+  "Ranking_EOS_Completed": 122,
+  "Ranking_EOS_Progress": 183,
   "Ranking_PopularitySum": 36,
   "Ranking_Popularity": 62,
   "Ranking_Rating": 718,

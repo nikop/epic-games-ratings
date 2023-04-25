@@ -4,6 +4,9 @@ Rating: 4.54 (Ranked 472)
 Max (Great for Beginners): 86  (Ranked 336)  
 Sum: 641 (Ranked 269)  
 Diff (max vs sum): 67
+## Popularity (Based on EOS Achievements)
+Progressed: 18,124 (Ranked 90)
+Completed: 27 (0.15%) (Ranked 69)
 ## Awards
 | Award | Count |
 | ----- | ----- |

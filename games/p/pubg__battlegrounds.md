@@ -4,6 +4,9 @@ Rating: 3.98 (Ranked 875)
 Max (Competitive Players): 1,620  (Ranked 109)  
 Sum: 5,253 (Ranked 117)  
 Diff (max vs sum): -8
+## Popularity (Based on EOS Achievements)
+Progressed: 336,382 (Ranked 34)
+Completed: 7 (0.00%) (Ranked 122)
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,9 +1,12 @@
 # Tails of Iron
 Rating: 4.50 (Ranked 526)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 486)  
-Sum: 0 (Ranked 486)  
+Max (): 0  (Ranked 487)  
+Sum: 0 (Ranked 487)  
 Diff (max vs sum): 0
+## Popularity (Based on EOS Achievements)
+Progressed: 1,345 (Ranked 141)
+Completed: 6 (0.45%) (Ranked 36)
 ## Awards
 | Award | Count |
 | ----- | ----- |

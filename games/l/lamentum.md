@@ -1,9 +1,12 @@
 # Lamentum
 Rating: 4.37 (Ranked 693)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 486)  
-Sum: 0 (Ranked 486)  
+Max (): 0  (Ranked 487)  
+Sum: 0 (Ranked 487)  
 Diff (max vs sum): 0
+## Popularity (Based on EOS Achievements)
+Progressed: 265 (Ranked 175)
+Completed: 8 (3.02%) (Ranked 7)
 ## Awards
 | Award | Count |
 | ----- | ----- |

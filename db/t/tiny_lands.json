@@ -1,11 +1,8 @@
 {
   "ID": "69bd64c3214e49899754554175bb17f1",
   "Name": "Tiny Lands",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:28:12.2946887+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:12.0825331+00:00",
-  "LastChanged": "2023-03-31T05:58:12.0825332+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:12.0825333+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:12.0825332+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:12.0825331+00:00",
+  "FirstSeen": "2022-07-22T20:28:12.2946887+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

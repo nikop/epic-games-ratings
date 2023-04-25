@@ -5,6 +5,9 @@ Number of Ratings: 22,103  (23.09.2022)
 Max (Extremely Fun): 1,021  (Ranked 130)  
 Sum: 9,033 (Ranked 81)  
 Diff (max vs sum): 49
+## Popularity (Based on EOS Achievements)
+Progressed: 18,475 (Ranked 88)
+Completed: 1 (0.01%) (Ranked 113)
 ## Awards
 | Award | Count |
 | ----- | ----- |

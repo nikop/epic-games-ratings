@@ -4,6 +4,9 @@ Rating: 4.74 (Ranked 141)
 Max (Great Boss Battles): 398  (Ranked 197)  
 Sum: 554 (Ranked 284)  
 Diff (max vs sum): -87
+## Popularity (Based on EOS Achievements)
+Progressed: 10,106 (Ranked 101)
+Completed: 29 (0.29%) (Ranked 53)
 ## Awards
 | Award | Count |
 | ----- | ----- |

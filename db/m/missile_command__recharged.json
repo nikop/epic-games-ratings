@@ -1,11 +1,8 @@
 {
   "ID": "1e58a1653e6846d3a05cccb2ae5b7385",
   "Name": "Missile Command: Recharged",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:28:36.7585535+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:13.9834109+00:00",
-  "LastChanged": "2023-03-31T05:58:13.983411+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:13.9834111+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:13.983411+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:13.9834109+00:00",
+  "FirstSeen": "2022-07-22T20:28:36.7585535+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

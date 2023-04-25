@@ -1,11 +1,8 @@
 {
   "ID": "21e3ba8638c14c6480b076b8eebf95ce",
   "Name": "Ageless",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:28:34.5517836+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:13.8345372+00:00",
-  "LastChanged": "2023-03-31T05:58:13.8345373+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:13.8345374+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:13.8345373+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:13.8345372+00:00",
+  "FirstSeen": "2022-07-22T20:28:34.5517836+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

@@ -12,7 +12,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 2214
+      "Count": 2222
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -42,7 +42,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1989
+      "Count": 1994
     },
     {
       "Text": "This game is Relaxing",
@@ -54,7 +54,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 1735
+      "Count": 1741
     },
     {
       "Text": "This game has Challenging Combat",
@@ -4104,18 +4104,30 @@
       "Rating": 4.67,
       "NumberOfAwards": 21108,
       "NumberOfAwardsMax": 2466
+    },
+    {
+      "Time": "2023-04-25T16:37:48.5272464+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 21116,
+      "NumberOfAwardsMax": 2466
+    },
+    {
+      "Time": "2023-04-25T18:57:42.7802164+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 21127,
+      "NumberOfAwardsMax": 2466
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T14:58:08.5773955+00:00",
+  "LastChanged": "2023-04-25T18:57:42.7802162+00:00",
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
   "NumberOfAwardsMax": 2466,
-  "NumberOfAwards": 21108,
+  "NumberOfAwards": 21127,
   "NumberOfRatings": 6825,
-  "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_Progress": 179,
+  "Ranking_EOS_Completed": 122,
+  "Ranking_EOS_Progress": 183,
   "Ranking_PopularitySum": 51,
   "Ranking_Popularity": 88,
   "Ranking_Rating": 254,

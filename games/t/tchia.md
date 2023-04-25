@@ -1,9 +1,12 @@
 # Tchia
 Rating: 4.77 (Ranked 106)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 486)  
-Sum: 0 (Ranked 486)  
+Max (): 0  (Ranked 487)  
+Sum: 0 (Ranked 487)  
 Diff (max vs sum): 0
+## Popularity (Based on EOS Achievements)
+Progressed: 5,300 (Ranked 113)
+Completed: 15 (0.28%) (Ranked 54)
 ## Awards
 | Award | Count |
 | ----- | ----- |

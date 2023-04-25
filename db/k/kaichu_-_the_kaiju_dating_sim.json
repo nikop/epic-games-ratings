@@ -1,11 +1,14 @@
 {
   "ID": "5cadfb94efd74932b97805c2a78f4150",
   "Name": "Kaichu - The Kaiju Dating Sim",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-01-14T19:57:38.3223462+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:12.7586093+00:00",
-  "LastChanged": "2023-03-31T05:58:12.7586094+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:42:13.8187686+00:00",
+      "NumProgressed": 21,
+      "NumCompleted": 3
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:12.7586095+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 14.29,
+  "EOS_Completed": 3,
+  "EOS_Progressed": 21,
+  "LastChanged": "2023-03-31T05:58:12.7586094+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:42:13.8187697+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:12.7586093+00:00",
+  "FirstSeen": "2023-01-14T19:57:38.3223462+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

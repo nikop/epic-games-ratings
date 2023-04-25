@@ -1,9 +1,12 @@
 # Shoulders of Giants
 Rating: 4.26 (Ranked 768)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 486)  
-Sum: 0 (Ranked 486)  
+Max (): 0  (Ranked 487)  
+Sum: 0 (Ranked 487)  
 Diff (max vs sum): 0
+## Popularity (Based on EOS Achievements)
+Progressed: 1,845 (Ranked 135)
+Completed: 5 (0.27%) (Ranked 56)
 ## Awards
 | Award | Count |
 | ----- | ----- |

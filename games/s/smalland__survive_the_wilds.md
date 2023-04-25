@@ -1,9 +1,12 @@
 # Smalland: Survive the Wilds
 Rating: 4.49 (Ranked 541)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 486)  
-Sum: 0 (Ranked 486)  
+Max (): 0  (Ranked 487)  
+Sum: 0 (Ranked 487)  
 Diff (max vs sum): 0
+## Popularity (Based on EOS Achievements)
+Progressed: 17,307 (Ranked 92)
+Completed: 18 (0.10%) (Ranked 80)
 ## Awards
 | Award | Count |
 | ----- | ----- |

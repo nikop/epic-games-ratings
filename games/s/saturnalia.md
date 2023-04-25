@@ -1,9 +1,12 @@
 # Saturnalia
 Rating: 4.24 (Ranked 776)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 486)  
-Sum: 0 (Ranked 486)  
+Max (): 0  (Ranked 487)  
+Sum: 0 (Ranked 487)  
 Diff (max vs sum): 0
+## Popularity (Based on EOS Achievements)
+Progressed: 62,726 (Ranked 63)
+Completed: 10 (0.02%) (Ranked 105)
 ## Awards
 | Award | Count |
 | ----- | ----- |
