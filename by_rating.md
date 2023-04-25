@@ -180,7 +180,7 @@
 | 178 | [Barony](games/b/barony.md) | 4.71 | 69 | 357 |
 | 178 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 309 | 219 |
 | 178 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 487 |
-| 178 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,168 | 51 |
+| 178 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,174 | 51 |
 | 178 | [Fez](games/f/fez.md) | 4.71 | 23 | 463 |
 | 178 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 421 |
 | 178 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,116 | 43 |

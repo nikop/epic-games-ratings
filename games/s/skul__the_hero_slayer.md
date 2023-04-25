@@ -6,8 +6,12 @@ Max (Great for Beginners): 114  (Ranked 305)
 Sum: 850 (Ranked 240)  
 Diff (max vs sum): 65
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,152 (Ranked 108)
-Completed: 10 (0.14%) (Ranked 70)
+Progressed: 7,152 (Ranked 109)  
+Completed: 10 (0.14%) (Ranked 130)  
+## EOS Players History
+| Progressed | Completed |
+| ---------- | --------- |
+| 7,152 | 10 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

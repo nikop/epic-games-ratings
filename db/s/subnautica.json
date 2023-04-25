@@ -54,7 +54,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 522
+      "Count": 523
     },
     {
       "Text": "This game has a Creative Community",
@@ -3141,18 +3141,24 @@
       "Rating": 4.84,
       "NumberOfAwards": 5169,
       "NumberOfAwardsMax": 646
+    },
+    {
+      "Time": "2023-04-25T19:18:46.7532028+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 5170,
+      "NumberOfAwardsMax": 646
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T10:57:59.0648977+00:00",
+  "LastChanged": "2023-04-25T19:18:46.7532026+00:00",
   "FirstSeen": "2022-07-22T20:29:19.8641148+00:00",
   "NumberOfAwardsMax": 646,
-  "NumberOfAwards": 5169,
+  "NumberOfAwards": 5170,
   "NumberOfRatings": 7928,
-  "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_Progress": 183,
+  "Ranking_EOS_Completed": 183,
+  "Ranking_EOS_Progress": 321,
   "Ranking_PopularitySum": 121,
   "Ranking_Popularity": 158,
   "Ranking_Rating": 49,
