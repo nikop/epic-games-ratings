@@ -11,7 +11,7 @@
 | 7 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 486 |
 | 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,790 | 105 |
 | 7 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 486 |
-| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,789 | 44 |
+| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,804 | 44 |
 | 12 | [Firework](games/f/firework.md) | 4.89 | 0 | 486 |
 | 12 | [God of War](games/g/god_of_war.md) | 4.89 | 3,949 | 73 |
 | 12 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 135,896 | 7 |
@@ -304,7 +304,7 @@
 | 287 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 51 | 380 |
 | 287 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 486 |
 | 287 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.65 | 48 | 387 |
-| 287 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,390 | 14 |
+| 287 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,393 | 14 |
 | 287 | [SOMA](games/s/soma.md) | 4.65 | 0 | 486 |
 | 287 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.65 | 0 | 486 |
 | 287 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 0 | 486 |
@@ -550,29 +550,29 @@
 | 541 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 271 | 229 |
 | 541 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 219 | 245 |
 | 541 | [Hell is Others](games/h/hell_is_others.md) | 4.49 | 0 | 486 |
-| 541 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 2,214 | 95 |
+| 541 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 2,226 | 95 |
 | 541 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 486 |
 | 541 | [Maneater](games/m/maneater.md) | 4.49 | 13,402 | 24 |
 | 541 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 608 | 161 |
 | 541 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 486 |
+| 541 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.49 | 0 | 486 |
 | 541 | [Solitairica](games/s/solitairica.md) | 4.49 | 81 | 340 |
 | 541 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 486 |
 | 541 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.49 | 0 | 486 |
 | 541 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 0 | 486 |
-| 560 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 0 | 486 |
-| 560 | [Beyond Blue](games/b/beyond_blue.md) | 4.48 | 0 | 486 |
-| 560 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 486 |
-| 560 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 0 | 486 |
-| 560 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.48 | 0 | 486 |
-| 560 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.48 | 0 | 486 |
-| 560 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.48 | 0 | 486 |
-| 560 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 0 | 486 |
-| 560 | [Paradigm](games/p/paradigm.md) | 4.48 | 0 | 486 |
-| 560 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.48 | 0 | 486 |
-| 560 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.48 | 0 | 486 |
-| 560 | [The Escapists](games/t/the_escapists.md) | 4.48 | 0 | 486 |
-| 560 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.48 | 0 | 486 |
-| 560 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 36 | 416 |
+| 561 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 0 | 486 |
+| 561 | [Beyond Blue](games/b/beyond_blue.md) | 4.48 | 0 | 486 |
+| 561 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 486 |
+| 561 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 0 | 486 |
+| 561 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.48 | 0 | 486 |
+| 561 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.48 | 0 | 486 |
+| 561 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.48 | 0 | 486 |
+| 561 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 0 | 486 |
+| 561 | [Paradigm](games/p/paradigm.md) | 4.48 | 0 | 486 |
+| 561 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.48 | 0 | 486 |
+| 561 | [The Escapists](games/t/the_escapists.md) | 4.48 | 0 | 486 |
+| 561 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.48 | 0 | 486 |
+| 561 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 36 | 416 |
 | 574 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 486 |
 | 574 | [Chorus](games/c/chorus.md) | 4.47 | 32 | 430 |
 | 574 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.47 | 0 | 486 |
@@ -584,7 +584,7 @@
 | 574 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.47 | 0 | 486 |
 | 574 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 0 | 486 |
 | 574 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 96 | 323 |
-| 574 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 6,544 | 47 |
+| 574 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 6,561 | 47 |
 | 574 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 486 |
 | 574 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 0 | 486 |
 | 588 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 486 |
@@ -849,7 +849,7 @@
 | 847 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 0 | 486 |
 | 847 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 486 |
 | 847 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 379 |
-| 847 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,214 | 95 |
+| 847 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,214 | 96 |
 | 851 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 486 |
 | 851 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 486 |
 | 853 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 136 | 287 |

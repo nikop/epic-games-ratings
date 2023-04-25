@@ -1,5 +1,5 @@
 # Hotel Renovator
-Rating: 4.48 (Ranked 560)  
+Rating: 4.48 (Ranked 561)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  
 Sum: 0 (Ranked 486)  
