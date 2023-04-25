@@ -1,17 +1,16 @@
 # Redout 2
 Rating: 4.46 (Ranked 589)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 487)  
-Sum: 0 (Ranked 487)  
+Max (): 0  (Ranked 488)  
+Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 954 (Ranked 157)  
-Completed: 0 (0.00%) (Ranked 183)  
+Progressed: 955 (Ranked 157)  
+Completed: 0 (0.00%) (Ranked 184)  
 ## EOS Players History
-| Progressed | Completed |
-| ---------- | --------- |
-| 953 | 0 |
-| 954 | 0 |
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-04-25 | 955 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

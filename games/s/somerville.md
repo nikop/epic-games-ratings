@@ -1,16 +1,16 @@
 # Somerville
 Rating: 4.20 (Ranked 798)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 487)  
-Sum: 0 (Ranked 487)  
+Max (): 0  (Ranked 488)  
+Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,538 (Ranked 145)  
 Completed: 25 (1.63%) (Ranked 55)  
 ## EOS Players History
-| Progressed | Completed |
-| ---------- | --------- |
-| 1,538 | 25 |
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-04-25 | 1,538 | 25 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

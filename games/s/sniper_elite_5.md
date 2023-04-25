@@ -1,17 +1,16 @@
 # Sniper Elite 5
 Rating: 4.39 (Ranked 672)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 487)  
-Sum: 0 (Ranked 487)  
+Max (): 0  (Ranked 488)  
+Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 644 (Ranked 172)  
-Completed: 2 (0.31%) (Ranked 105)  
+Progressed: 645 (Ranked 172)  
+Completed: 2 (0.31%) (Ranked 106)  
 ## EOS Players History
-| Progressed | Completed |
-| ---------- | --------- |
-| 643 | 2 |
-| 644 | 2 |
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-04-25 | 645 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

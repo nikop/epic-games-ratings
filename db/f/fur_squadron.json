@@ -1,6 +1,12 @@
 {
   "ID": "1f48927b60c5460dbca66555584a80cf",
   "Name": "FUR Squadron",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_Progress": 321
 }

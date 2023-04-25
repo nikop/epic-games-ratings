@@ -1,8 +1,8 @@
 # Child of Light: Ultimate Edition
 Rating: 4.83 (Ranked 54)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 487)  
-Sum: 0 (Ranked 487)  
+Max (): 0  (Ranked 488)  
+Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Count |

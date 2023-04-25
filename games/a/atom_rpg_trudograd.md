@@ -1,16 +1,16 @@
 # ATOM RPG Trudograd
 Rating: 4.49 (Ranked 541)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 20  (Ranked 479)  
-Sum: 20 (Ranked 479)  
+Max (Character Customization): 20  (Ranked 480)  
+Sum: 20 (Ranked 480)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 988 (Ranked 154)  
-Completed: 0 (0.00%) (Ranked 183)  
+Progressed: 989 (Ranked 154)  
+Completed: 0 (0.00%) (Ranked 184)  
 ## EOS Players History
-| Progressed | Completed |
-| ---------- | --------- |
-| 988 | 0 |
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-04-25 | 989 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

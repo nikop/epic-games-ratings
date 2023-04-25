@@ -1,21 +1,16 @@
 # Eximius: Seize the Frontline
 Rating: 4.20 (Ranked 798)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 487)  
-Sum: 0 (Ranked 487)  
+Max (): 0  (Ranked 488)  
+Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 181,589 (Ranked 48)  
-Completed: 4 (0.00%) (Ranked 183)  
+Progressed: 181,591 (Ranked 48)  
+Completed: 4 (0.00%) (Ranked 184)  
 ## EOS Players History
-| Progressed | Completed |
-| ---------- | --------- |
-| 181,568 | 4 |
-| 181,573 | 4 |
-| 181,574 | 4 |
-| 181,579 | 4 |
-| 181,587 | 4 |
-| 181,589 | 4 |
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-04-25 | 181,591 | 4 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

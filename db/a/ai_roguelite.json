@@ -1,6 +1,12 @@
 {
   "ID": "4c251ad9fdd846ad9138250e360539f6",
   "Name": "AI Roguelite",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_Progress": 321
 }

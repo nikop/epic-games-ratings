@@ -1,6 +1,12 @@
 {
   "ID": "e65306b6830641a68e3b76e5b1bc2dfd",
   "Name": "Strange House",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_Progress": 321
 }

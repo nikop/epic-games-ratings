@@ -1,6 +1,12 @@
 {
   "ID": "5970be73979247c2a3c6f258d4f64af1",
   "Name": "The Last Photon",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_Progress": 321
 }

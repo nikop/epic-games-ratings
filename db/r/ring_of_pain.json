@@ -42,7 +42,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1334
+      "Count": 1335
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -98,6 +98,11 @@
     {
       "Time": "2023-04-25T19:15:10.8563356+00:00",
       "NumProgressed": 227125,
+      "NumCompleted": 220
+    },
+    {
+      "Time": "2023-04-25T19:59:25.4154027+00:00",
+      "NumProgressed": 227127,
       "NumCompleted": 220
     }
   ],
@@ -1865,19 +1870,26 @@
       "Rating": 4.58,
       "NumberOfAwards": 11361,
       "NumberOfAwardsMax": 1469
+    },
+    {
+      "Time": "2023-04-25T19:59:25.1211312+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11362,
+      "NumberOfAwardsMax": 1469
     }
   ],
   "EOS_Completed_Percentage": 0.1,
   "EOS_Completed": 220,
-  "EOS_Progressed": 227125,
-  "LastChanged": "2023-04-24T03:58:13.2871363+00:00",
+  "EOS_Progressed": 227127,
+  "LastChanged_Achievements": "2023-04-25T19:59:25.4154021+00:00",
+  "LastChanged": "2023-04-25T19:59:25.1211311+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "NumberOfAwardsMax": 1469,
-  "NumberOfAwards": 11361,
+  "NumberOfAwards": 11362,
   "NumberOfRatings": 15086,
-  "Ranking_EOS_Completed": 140,
+  "Ranking_EOS_Completed": 141,
   "Ranking_EOS_Progress": 40,
   "Ranking_PopularitySum": 74,
   "Ranking_Popularity": 112,

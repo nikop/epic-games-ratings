@@ -1,16 +1,16 @@
 # High On Life
 Rating: 4.67 (Ranked 254)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 487)  
-Sum: 0 (Ranked 487)  
+Max (): 0  (Ranked 488)  
+Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
 Progressed: 22,557 (Ranked 84)  
-Completed: 8 (0.04%) (Ranked 157)  
+Completed: 8 (0.04%) (Ranked 158)  
 ## EOS Players History
-| Progressed | Completed |
-| ---------- | --------- |
-| 22,557 | 8 |
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-04-25 | 22,557 | 8 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

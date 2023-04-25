@@ -20,10 +20,13 @@
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 2,
+  "LastChanged_Achievements": "2023-04-25T19:59:45.5265672+00:00",
   "LastChanged": "2023-03-31T05:57:59.026621+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:33.6192809+00:00",
   "FirstSeenRating": "2023-03-31T05:57:59.0266209+00:00",
   "FirstSeen": "2022-07-31T23:31:27.8477915+00:00",
   "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_Progress": 305
 }

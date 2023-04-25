@@ -1,21 +1,16 @@
 # Call of the Sea
 Rating: 4.37 (Ranked 693)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 487)  
-Sum: 0 (Ranked 487)  
+Max (): 0  (Ranked 488)  
+Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,982 (Ranked 61)  
+Progressed: 66,007 (Ranked 61)  
 Completed: 420 (0.64%) (Ranked 85)  
 ## EOS Players History
-| Progressed | Completed |
-| ---------- | --------- |
-| 65,847 | 418 |
-| 65,862 | 418 |
-| 65,880 | 418 |
-| 65,921 | 419 |
-| 65,964 | 420 |
-| 65,982 | 420 |
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-04-25 | 66,007 | 420 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

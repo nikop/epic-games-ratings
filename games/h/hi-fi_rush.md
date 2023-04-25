@@ -1,17 +1,16 @@
 # Hi-Fi RUSH
 Rating: 4.85 (Ranked 37)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 487)  
-Sum: 0 (Ranked 487)  
+Max (): 0  (Ranked 488)  
+Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,421 (Ranked 148)  
-Completed: 2 (0.14%) (Ranked 130)  
+Progressed: 1,422 (Ranked 148)  
+Completed: 2 (0.14%) (Ranked 131)  
 ## EOS Players History
-| Progressed | Completed |
-| ---------- | --------- |
-| 1,420 | 2 |
-| 1,421 | 2 |
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-04-25 | 1,422 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

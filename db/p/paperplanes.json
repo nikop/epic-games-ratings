@@ -1,6 +1,12 @@
 {
   "ID": "f183540c1c2141c6a3d01208022eb1b7",
   "Name": "Paperplanes",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_Progress": 321
 }
