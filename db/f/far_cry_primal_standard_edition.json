@@ -3,14 +3,14 @@
   "Name": "Far Cry Primal Standard Edition",
   "Rating": 4.71,
   "Ranking_Rating": 178,
-  "Ranking_Popularity": 221,
-  "Ranking_PopularitySum": 321,
+  "Ranking_Popularity": 219,
+  "Ranking_PopularitySum": 320,
   "NumberOfRatings": 463,
-  "NumberOfAwards": 305,
-  "NumberOfAwardsMax": 305,
+  "NumberOfAwards": 309,
+  "NumberOfAwardsMax": 309,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:23:55.0433269+00:00",
-  "LastChanged": "2023-04-23T08:57:32.7534465+00:00",
+  "LastChanged": "2023-04-25T01:57:52.2634307+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:55.0433272+00:00",
@@ -588,6 +588,12 @@
       "Rating": 4.71,
       "NumberOfAwards": 305,
       "NumberOfAwardsMax": 305
+    },
+    {
+      "Time": "2023-04-25T01:57:52.2634309+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 309,
+      "NumberOfAwardsMax": 309
     }
   ],
   "Tags": [
@@ -595,7 +601,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 305
+      "Count": 309
     }
   ]
 }

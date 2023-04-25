@@ -2,15 +2,15 @@
   "ID": "03ecca4e19a9483aa05b3d99948c43ce",
   "Name": "Tom Clancy\u0027s The Division",
   "Rating": 4.59,
-  "Ranking_Rating": 387,
+  "Ranking_Rating": 388,
   "Ranking_Popularity": 235,
-  "Ranking_PopularitySum": 276,
+  "Ranking_PopularitySum": 281,
   "NumberOfRatings": 247,
-  "NumberOfAwards": 591,
+  "NumberOfAwards": 571,
   "NumberOfAwardsMax": 250,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2023-04-24T21:57:11.6468492+00:00",
+  "LastChanged": "2023-04-25T01:57:22.8875151+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:11.4605073+00:00",
@@ -605,6 +605,12 @@
       "Time": "2023-04-24T21:57:11.6468494+00:00",
       "Rating": 4.59,
       "NumberOfAwards": 591,
+      "NumberOfAwardsMax": 250
+    },
+    {
+      "Time": "2023-04-25T01:57:22.8875152+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 571,
       "NumberOfAwardsMax": 250
     }
   ],

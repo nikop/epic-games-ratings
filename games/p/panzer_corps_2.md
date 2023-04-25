@@ -1,5 +1,5 @@
 # Panzer Corps 2
-Rating: 4.59 (Ranked 387)  
+Rating: 4.59 (Ranked 388)  
 Number of Ratings: 37  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  

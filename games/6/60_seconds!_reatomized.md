@@ -1,5 +1,5 @@
 # 60 Seconds! Reatomized
-Rating: 4.59 (Ranked 387)  
+Rating: 4.59 (Ranked 388)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  
 Sum: 0 (Ranked 486)  
