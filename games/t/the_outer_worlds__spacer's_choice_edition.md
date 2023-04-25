@@ -1,5 +1,5 @@
 # The Outer Worlds: Spacer's Choice Edition
-Rating: 4.46 (Ranked 586)  
+Rating: 4.48 (Ranked 560)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  
 Sum: 0 (Ranked 486)  
@@ -27,3 +27,4 @@ Diff (max vs sum): 0
 | 2023-04-18 | 4.43 | 0 | 0 |
 | 2023-04-21 | 4.45 | 0 | 0 |
 | 2023-04-23 | 4.46 | 0 | 0 |
+| 2023-04-25 | 4.48 | 0 | 0 |

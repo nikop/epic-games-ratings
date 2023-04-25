@@ -1,5 +1,5 @@
 # Gloomhaven
-Rating: 4.47 (Ranked 573)  
+Rating: 4.47 (Ranked 574)  
 Number of Ratings: 68  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 3,429  (Ranked 79)  

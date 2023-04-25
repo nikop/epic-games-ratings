@@ -3,14 +3,14 @@
   "Name": "Far Cry\u00AE3 Standard Edition",
   "Rating": 4.69,
   "Ranking_Rating": 208,
-  "Ranking_Popularity": 212,
-  "Ranking_PopularitySum": 305,
+  "Ranking_Popularity": 211,
+  "Ranking_PopularitySum": 304,
   "NumberOfRatings": 504,
-  "NumberOfAwards": 369,
-  "NumberOfAwardsMax": 326,
+  "NumberOfAwards": 372,
+  "NumberOfAwardsMax": 329,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:24:43.0306746+00:00",
-  "LastChanged": "2023-04-23T20:58:03.9299663+00:00",
+  "LastChanged": "2023-04-25T05:57:54.7415427+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:43.0306749+00:00",
@@ -673,6 +673,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 369,
       "NumberOfAwardsMax": 326
+    },
+    {
+      "Time": "2023-04-25T05:57:54.7415427+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 372,
+      "NumberOfAwardsMax": 329
     }
   ],
   "Tags": [
@@ -680,7 +686,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 326
+      "Count": 329
     },
     {
       "Text": "This game is Extremely Fun",

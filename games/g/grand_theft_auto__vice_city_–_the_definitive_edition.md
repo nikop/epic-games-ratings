@@ -1,5 +1,5 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
-Rating: 4.66 (Ranked 270)  
+Rating: 4.67 (Ranked 254)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 26  (Ranked 454)  
 Sum: 26 (Ranked 459)  
@@ -51,3 +51,4 @@ Diff (max vs sum): -5
 | 2023-04-21 | 4.65 | 22 | 22 |
 | 2023-04-22 | 4.65 | 25 | 25 |
 | 2023-04-23 | 4.66 | 26 | 26 |
+| 2023-04-25 | 4.67 | 26 | 26 |
