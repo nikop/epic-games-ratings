@@ -390,7 +390,7 @@
 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 673 | 540 | 174 |
 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 497 | 147 | 282 |
 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 190 | 1,294 | 117 |
-| [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 91 | 429 | 188 |
+| [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 91 | 440 | 187 |
 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.12 | 842 | 0 | 486 |
 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 72 | 0 | 486 |
 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.48 | 560 | 0 | 486 |
@@ -706,7 +706,7 @@
 | [Supraland](games/s/supraland.md) | 4.61 | 348 | 7,599 | 40 |
 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 100 | 97 | 320 |
 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 574 | 0 | 486 |
-| [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 373 | 433 | 187 |
+| [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 373 | 433 | 188 |
 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 574 | 96 | 323 |
 | [Suzerain](games/s/suzerain.md) | 4.74 | 141 | 0 | 486 |
 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 748 | 168 | 273 |

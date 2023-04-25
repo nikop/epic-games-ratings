@@ -186,8 +186,8 @@
 | 184 | [Unreal Tournament](games/u/unreal_tournament.md) | 457 | 4.66 | 271 |
 | 185 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 453 | 4.86 | 28 |
 | 186 | [Ghostrunner](games/g/ghostrunner.md) | 451 | 4.72 | 164 |
-| 187 | [Surviving Mars](games/s/surviving_mars.md) | 433 | 4.60 | 373 |
-| 188 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 429 | 4.79 | 91 |
+| 187 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 440 | 4.79 | 91 |
+| 188 | [Surviving Mars](games/s/surviving_mars.md) | 433 | 4.60 | 373 |
 | 189 | [Against the Storm](games/a/against_the_storm.md) | 417 | 4.81 | 72 |
 | 189 | [Riders Republic](games/r/riders_republic.md) | 417 | 4.75 | 126 |
 | 191 | [Loop Hero](games/l/loop_hero.md) | 410 | 4.68 | 232 |

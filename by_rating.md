@@ -91,7 +91,7 @@
 | 78 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 26 | 454 |
 | 78 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.80 | 0 | 486 |
 | 91 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,436 | 114 |
-| 91 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 429 | 188 |
+| 91 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 440 | 187 |
 | 91 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 715 | 152 |
 | 91 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 2,230 | 94 |
 | 91 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 988 | 135 |
@@ -382,7 +382,7 @@
 | 373 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 8,985 | 35 |
 | 373 | [Roguebook](games/r/roguebook.md) | 4.60 | 0 | 486 |
 | 373 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.60 | 0 | 486 |
-| 373 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 433 | 187 |
+| 373 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 433 | 188 |
 | 373 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.60 | 120 | 297 |
 | 373 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 20 | 478 |
 | 373 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 84 | 338 |
