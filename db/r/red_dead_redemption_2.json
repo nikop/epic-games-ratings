@@ -6,11 +6,11 @@
   "Ranking_Popularity": 7,
   "Ranking_PopularitySum": 8,
   "NumberOfRatings": 102658,
-  "NumberOfAwards": 345120,
+  "NumberOfAwards": 345156,
   "NumberOfAwardsMax": 135896,
   "MaxAwardTitle": "Impact the Story",
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-04-25T03:57:52.8786102+00:00",
+  "LastChanged": "2023-04-25T04:57:53.9500797+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:15.0342453+00:00",
@@ -4836,6 +4836,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 345120,
       "NumberOfAwardsMax": 135896
+    },
+    {
+      "Time": "2023-04-25T04:57:53.9500798+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 345156,
+      "NumberOfAwardsMax": 135896
     }
   ],
   "Tags": [
@@ -4879,7 +4885,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 12040
+      "Count": 12076
     },
     {
       "Text": "This game has Diverse Characters",
