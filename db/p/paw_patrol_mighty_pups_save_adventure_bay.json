@@ -1,11 +1,14 @@
 {
   "ID": "44c4d41627104968a7df87b8e33aa481",
   "Name": "PAW Patrol Mighty Pups Save Adventure Bay",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-01-05T14:58:28.7131253+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
-  "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:34.1994685+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:40.0840513+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 2,
+  "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
+  "FirstSeen": "2023-01-05T14:58:28.7131253+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

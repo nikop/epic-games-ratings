@@ -1,16 +1,15 @@
 {
   "ID": "5d582c08e31a43128a61093a2c3ff7f0",
   "Name": "Shenmue III - Standard Edition",
-  "Rating": 4.19,
-  "Ranking_Rating": 811,
-  "Ranking_Popularity": 454,
-  "Ranking_PopularitySum": 459,
-  "NumberOfRatings": 172,
-  "NumberOfAwards": 26,
-  "NumberOfAwardsMax": 26,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-07-22T20:17:11.0965349+00:00",
-  "LastChanged": "2023-04-18T16:57:17.7241603+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 26
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:11.0965352+00:00",
@@ -413,12 +412,19 @@
       "NumberOfAwardsMax": 26
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 26
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-18T16:57:17.7241603+00:00",
+  "FirstSeen": "2022-07-22T20:17:11.0965349+00:00",
+  "NumberOfAwardsMax": 26,
+  "NumberOfAwards": 26,
+  "NumberOfRatings": 172,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 459,
+  "Ranking_Popularity": 454,
+  "Ranking_Rating": 811,
+  "Rating": 4.19,
+  "MaxAwardTitle": "Great Boss Battles"
 }

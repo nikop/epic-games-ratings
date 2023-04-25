@@ -1,11 +1,8 @@
 {
   "ID": "03f7951c81af45e48a1caf6f8e24dba9",
   "Name": "Production Line",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:25:02.2686653+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:52.1070267+00:00",
-  "LastChanged": "2023-03-31T05:57:52.1070269+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:52.107027+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:52.1070269+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:52.1070267+00:00",
+  "FirstSeen": "2022-07-22T20:25:02.2686653+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

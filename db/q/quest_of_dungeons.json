@@ -1,11 +1,14 @@
 {
   "ID": "3bb8a6671a8540fda09479156601b3c0",
   "Name": "Quest of Dungeons",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-03-24T19:57:52.2568081+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:05.3767866+00:00",
-  "LastChanged": "2023-03-31T05:58:05.3767867+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:45.5363647+00:00",
+      "NumProgressed": 37,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:05.3767868+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 37,
+  "LastChanged": "2023-03-31T05:58:05.3767867+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:45.5363654+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:05.3767866+00:00",
+  "FirstSeen": "2023-03-24T19:57:52.2568081+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

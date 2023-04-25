@@ -1,11 +1,8 @@
 {
   "ID": "d3ec9db2529b4b6bb350789d32959112",
   "Name": "Submarine Titans",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-12-12T17:57:00.6631266+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:04.3257133+00:00",
-  "LastChanged": "2023-03-31T05:57:04.3257134+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:04.3257137+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:04.3257134+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:04.3257133+00:00",
+  "FirstSeen": "2022-12-12T17:57:00.6631266+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

@@ -1,11 +1,14 @@
 {
   "ID": "8bacb9319c4b44d689aa6920a1044010",
   "Name": "tERRORbane",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-04-02T01:58:31.1782458+00:00",
-  "FirstSeenRating": "2023-04-02T01:58:31.1782551+00:00",
-  "LastChanged": "2023-04-02T01:58:31.1782553+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:15.1891473+00:00",
+      "NumProgressed": 31,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-04-02T01:58:31.1782556+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 31,
+  "LastChanged": "2023-04-02T01:58:31.1782553+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:15.1891477+00:00",
+  "FirstSeenRating": "2023-04-02T01:58:31.1782551+00:00",
+  "FirstSeen": "2023-04-02T01:58:31.1782458+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

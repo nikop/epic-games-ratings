@@ -1,16 +1,81 @@
 {
   "ID": "f01b3e0178d448f0b93911e292d8e614",
   "Name": "RollerCoaster Tycoon 3 Complete Edition",
-  "Rating": 4.65,
-  "Ranking_Rating": 287,
-  "Ranking_Popularity": 380,
-  "Ranking_PopularitySum": 292,
-  "NumberOfRatings": 687,
-  "NumberOfAwards": 413,
-  "NumberOfAwardsMax": 51,
-  "MaxAwardTitle": "Relaxing",
-  "FirstSeen": "2022-07-22T20:25:06.1047421+00:00",
-  "LastChanged": "2023-04-23T22:58:05.405654+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 48
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 37
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 45
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 42
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 51
+    },
+    {
+      "Text": "This game has Playful Visuals",
+      "Prefix": "This game has",
+      "Type": "Playful Visuals",
+      "Count": 43
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 41
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 39
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 44
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "",
+      "Type": "",
+      "Count": 28
+    },
+    {
+      "Text": "This game has Easy Combat",
+      "Prefix": "This game has",
+      "Type": "Easy Combat",
+      "Count": 34
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 31
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:06.1047426+00:00",
@@ -827,78 +892,19 @@
       "NumberOfAwardsMax": 51
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 48
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 37
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 45
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 42
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 51
-    },
-    {
-      "Text": "This game has Playful Visuals",
-      "Prefix": "This game has",
-      "Type": "Playful Visuals",
-      "Count": 43
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 41
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 39
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 44
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "",
-      "Type": "",
-      "Count": 28
-    },
-    {
-      "Text": "This game has Easy Combat",
-      "Prefix": "This game has",
-      "Type": "Easy Combat",
-      "Count": 34
-    },
-    {
-      "Text": "This game has a Creative Community",
-      "Prefix": "This game has a",
-      "Type": "Creative Community",
-      "Count": 31
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-23T22:58:05.405654+00:00",
+  "FirstSeen": "2022-07-22T20:25:06.1047421+00:00",
+  "NumberOfAwardsMax": 51,
+  "NumberOfAwards": 413,
+  "NumberOfRatings": 687,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 292,
+  "Ranking_Popularity": 380,
+  "Ranking_Rating": 287,
+  "Rating": 4.65,
+  "MaxAwardTitle": "Relaxing"
 }

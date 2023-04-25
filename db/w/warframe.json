@@ -1,16 +1,75 @@
 {
   "ID": "244aaaa06bfa49d088205b13b9d2d115",
   "Name": "Warframe",
-  "Rating": 4.61,
-  "Ranking_Rating": 348,
-  "Ranking_Popularity": 22,
-  "Ranking_PopularitySum": 28,
-  "NumberOfRatings": 12660,
-  "NumberOfAwards": 37561,
-  "NumberOfAwardsMax": 14240,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
-  "LastChanged": "2023-04-25T15:57:00.576695+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 14240
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 3132
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 2922
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 2961
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 2983
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 1774
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 2894
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 2882
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Prefix": "This game has",
+      "Type": "Unique Visuals",
+      "Count": 2712
+    },
+    {
+      "Text": "This game has a Kind Community",
+      "Prefix": "",
+      "Type": "",
+      "Count": 1679
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 2835
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:28.1019024+00:00",
@@ -4175,72 +4234,19 @@
       "NumberOfAwardsMax": 14240
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 14240
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 3132
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 2922
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 2961
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 2983
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 1774
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 2894
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 2882
-    },
-    {
-      "Text": "This game has Unique Visuals",
-      "Prefix": "This game has",
-      "Type": "Unique Visuals",
-      "Count": 2712
-    },
-    {
-      "Text": "This game has a Kind Community",
-      "Prefix": "",
-      "Type": "",
-      "Count": 1679
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 2835
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-25T15:57:00.576695+00:00",
+  "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
+  "NumberOfAwardsMax": 14240,
+  "NumberOfAwards": 37561,
+  "NumberOfRatings": 12660,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 28,
+  "Ranking_Popularity": 22,
+  "Ranking_Rating": 348,
+  "Rating": 4.61,
+  "MaxAwardTitle": "Great Boss Battles"
 }

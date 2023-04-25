@@ -1,16 +1,69 @@
 {
   "ID": "cf87285950ba492bbdc370b9d265ea36",
   "Name": "FAR CRY 4",
-  "Rating": 4.66,
-  "Ranking_Rating": 271,
-  "Ranking_Popularity": 181,
-  "Ranking_PopularitySum": 251,
-  "NumberOfRatings": 639,
-  "NumberOfAwards": 752,
-  "NumberOfAwardsMax": 499,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-07-22T20:26:30.966572+00:00",
-  "LastChanged": "2023-04-24T18:58:12.1281616+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 499
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 33
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 39
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 27
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 29
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 25
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 27
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 27
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 26
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 20
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:30.9665724+00:00",
@@ -784,66 +837,19 @@
       "NumberOfAwardsMax": 499
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 499
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 33
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 39
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 27
-    },
-    {
-      "Text": "This game has Challenging Combat",
-      "Prefix": "This game has",
-      "Type": "Challenging Combat",
-      "Count": 29
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 25
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 27
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 27
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 26
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 20
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-24T18:58:12.1281616+00:00",
+  "FirstSeen": "2022-07-22T20:26:30.966572+00:00",
+  "NumberOfAwardsMax": 499,
+  "NumberOfAwards": 752,
+  "NumberOfRatings": 639,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 251,
+  "Ranking_Popularity": 181,
+  "Ranking_Rating": 271,
+  "Rating": 4.66,
+  "MaxAwardTitle": "Great Boss Battles"
 }

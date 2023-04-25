@@ -1,15 +1,8 @@
 {
   "ID": "1b5e25ef034f497fbea17e9d3af3d7ba",
   "Name": "Trigon: Space Story",
-  "Rating": 4.27,
-  "Ranking_Rating": 765,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 38,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:18:03.1653519+00:00",
-  "LastChanged": "2023-03-31T05:57:04.8239927+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:03.1653522+00:00",
@@ -126,5 +119,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:04.8239927+00:00",
+  "FirstSeen": "2022-07-22T20:18:03.1653519+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 38,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 765,
+  "Rating": 4.27
 }

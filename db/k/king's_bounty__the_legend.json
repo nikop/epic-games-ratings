@@ -1,15 +1,8 @@
 {
   "ID": "3eaafa8c26094cb483cba27d360a443b",
   "Name": "King\u0027s Bounty: The Legend",
-  "Rating": 4.76,
-  "Ranking_Rating": 114,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 48,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:23:22.2011944+00:00",
-  "LastChanged": "2023-03-31T05:57:40.7506435+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:22.2011946+00:00",
@@ -180,5 +173,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:40.7506435+00:00",
+  "FirstSeen": "2022-07-22T20:23:22.2011944+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 48,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 114,
+  "Rating": 4.76
 }

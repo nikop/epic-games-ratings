@@ -1,11 +1,14 @@
 {
   "ID": "f0757a2ab13941d89476cfa09df9a545",
   "Name": "Endling - Extinction is Forever",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:30:57.6723398+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
-  "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:20.8598224+00:00",
+      "NumProgressed": 359,
+      "NumCompleted": 2
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:32.6657403+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0.56,
+  "EOS_Completed": 2,
+  "EOS_Progressed": 359,
+  "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
+  "FirstSeen": "2022-07-22T20:30:57.6723398+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

@@ -1,11 +1,14 @@
 {
   "ID": "6515ed58d6ef4981b0055e04e9abd204",
   "Name": "NHRA Championship Drag Racing - Speed For All",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-01-04T05:56:51.2215756+00:00",
-  "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
-  "LastChanged": "2023-03-31T05:56:56.401708+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:08:42.4655913+00:00",
+      "NumProgressed": 661,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:56:56.4017082+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 661,
+  "LastChanged": "2023-03-31T05:56:56.401708+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
+  "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
+  "FirstSeen": "2023-01-04T05:56:51.2215756+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

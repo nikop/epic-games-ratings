@@ -1,16 +1,15 @@
 {
   "ID": "d118f9a27e514d98aa25534afd2f35c7",
   "Name": "Sonic Colors: Ultimate",
-  "Rating": 4.41,
-  "Ranking_Rating": 652,
-  "Ranking_Popularity": 352,
-  "Ranking_PopularitySum": 409,
-  "NumberOfRatings": 179,
-  "NumberOfAwards": 72,
-  "NumberOfAwardsMax": 72,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-07-22T20:21:26.673333+00:00",
-  "LastChanged": "2023-02-16T05:57:24.9355249+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 72
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:26.6733332+00:00",
@@ -316,12 +315,19 @@
       "Rating": 4.41
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 72
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-02-16T05:57:24.9355249+00:00",
+  "FirstSeen": "2022-07-22T20:21:26.673333+00:00",
+  "NumberOfAwardsMax": 72,
+  "NumberOfAwards": 72,
+  "NumberOfRatings": 179,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 409,
+  "Ranking_Popularity": 352,
+  "Ranking_Rating": 652,
+  "Rating": 4.41,
+  "MaxAwardTitle": "Great Boss Battles"
 }

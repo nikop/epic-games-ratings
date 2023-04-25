@@ -1,11 +1,8 @@
 {
   "ID": "4b52b9409a1743da8c00e3a22c48b40b",
   "Name": "Summum Aeterna",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-08-24T14:03:09.1614689+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:21.4341368+00:00",
-  "LastChanged": "2023-03-31T05:58:21.4341369+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:21.4341371+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:21.4341369+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:21.4341368+00:00",
+  "FirstSeen": "2022-08-24T14:03:09.1614689+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

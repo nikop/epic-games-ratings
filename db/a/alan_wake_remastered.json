@@ -1,15 +1,21 @@
 {
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
-  "Rating": 4.56,
-  "Ranking_Rating": 441,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 524,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
-  "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "",
+      "Type": "",
+      "Count": 153
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:55.036072+00:00",
+      "NumProgressed": 45817,
+      "NumCompleted": 43
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:49.7160328+00:00",
@@ -486,12 +492,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "",
-      "Type": "",
-      "Count": 153
-    }
-  ]
+  "EOS_Completed_Percentage": 0.09,
+  "EOS_Completed": 43,
+  "EOS_Progressed": 45817,
+  "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
+  "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 524,
+  "Ranking_EOS_Completed": 81,
+  "Ranking_EOS_Progress": 72,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 441,
+  "Rating": 4.56
 }

@@ -1,15 +1,8 @@
 {
   "ID": "52d9c5885cb54c9280d4b9b8cf32a7b9",
   "Name": "True Fear: Forsaken Souls Part 1",
-  "Rating": 4.38,
-  "Ranking_Rating": 684,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:24:33.0006243+00:00",
-  "FirstSeenRating": "2022-10-23T18:01:32.6537838+00:00",
-  "LastChanged": "2023-03-31T05:57:48.6162071+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-10-23T18:01:32.6537842+00:00",
@@ -50,5 +43,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:48.6162071+00:00",
+  "FirstSeenRating": "2022-10-23T18:01:32.6537838+00:00",
+  "FirstSeen": "2022-07-22T20:24:33.0006243+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 684,
+  "Rating": 4.38
 }

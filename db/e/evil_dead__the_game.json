@@ -1,16 +1,75 @@
 {
   "ID": "95e09a8c24c44684bca1a6f25aea920c",
   "Name": "Evil Dead: The Game",
-  "Rating": 4.37,
-  "Ranking_Rating": 693,
-  "Ranking_Popularity": 27,
-  "Ranking_PopularitySum": 38,
-  "NumberOfRatings": 9131,
-  "NumberOfAwards": 28581,
-  "NumberOfAwardsMax": 12244,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-07-22T20:18:51.4090236+00:00",
-  "LastChanged": "2023-04-25T01:57:15.9928496+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 12244
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 1907
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 1275
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 1972
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 1886
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 1849
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
+      "Count": 1912
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 1854
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 1798
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 1703
+    },
+    {
+      "Text": "This game has a Competitive Community",
+      "Prefix": "This game has a",
+      "Type": "Competitive Community",
+      "Count": 1456
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:51.4090239+00:00",
@@ -3109,72 +3168,19 @@
       "NumberOfAwardsMax": 12244
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 12244
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 1907
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 1275
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 1972
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 1886
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 1849
-    },
-    {
-      "Text": "This game has Competitive Players",
-      "Prefix": "This game has",
-      "Type": "Competitive Players",
-      "Count": 1912
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 1854
-    },
-    {
-      "Text": "This game has Challenging Combat",
-      "Prefix": "This game has",
-      "Type": "Challenging Combat",
-      "Count": 1798
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 1703
-    },
-    {
-      "Text": "This game has a Competitive Community",
-      "Prefix": "This game has a",
-      "Type": "Competitive Community",
-      "Count": 1456
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-25T01:57:15.9928496+00:00",
+  "FirstSeen": "2022-07-22T20:18:51.4090236+00:00",
+  "NumberOfAwardsMax": 12244,
+  "NumberOfAwards": 28581,
+  "NumberOfRatings": 9131,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 38,
+  "Ranking_Popularity": 27,
+  "Ranking_Rating": 693,
+  "Rating": 4.37,
+  "MaxAwardTitle": "Great Boss Battles"
 }

@@ -1,11 +1,8 @@
 {
   "ID": "c0c1086e89f84494ba1c1da9c9500280",
   "Name": "Franchise Hockey Manager 8",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:23:33.2488782+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:41.6110243+00:00",
-  "LastChanged": "2023-03-31T05:57:41.6110244+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:41.6110245+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:41.6110244+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:41.6110243+00:00",
+  "FirstSeen": "2022-07-22T20:23:33.2488782+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

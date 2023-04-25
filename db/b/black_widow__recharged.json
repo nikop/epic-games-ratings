@@ -1,15 +1,14 @@
 {
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
-  "Rating": 4.25,
-  "Ranking_Rating": 773,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 34,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
-  "LastChanged": "2023-03-31T05:57:34.1224511+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:51.3852974+00:00",
+      "NumProgressed": 13353,
+      "NumCompleted": 41
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:32.7044805+00:00",
@@ -121,5 +120,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0.31,
+  "EOS_Completed": 41,
+  "EOS_Progressed": 13353,
+  "LastChanged": "2023-03-31T05:57:34.1224511+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
+  "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 34,
+  "Ranking_EOS_Completed": 48,
+  "Ranking_EOS_Progress": 95,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 773,
+  "Rating": 4.25
 }

@@ -1,11 +1,14 @@
 {
   "ID": "d8a4cd05d72d437aa3f3091bae2add52",
   "Name": "Shin-chan Me and the Professor on Summer Vacation",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-04-14T13:04:33.1915303+00:00",
-  "FirstSeenRating": "2023-04-14T13:04:33.1915334+00:00",
-  "LastChanged": "2023-04-14T13:04:33.1915334+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:56.3452219+00:00",
+      "NumProgressed": 22,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-04-14T13:04:33.1915338+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 22,
+  "LastChanged": "2023-04-14T13:04:33.1915334+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:56.3452226+00:00",
+  "FirstSeenRating": "2023-04-14T13:04:33.1915334+00:00",
+  "FirstSeen": "2023-04-14T13:04:33.1915303+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

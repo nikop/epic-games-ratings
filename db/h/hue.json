@@ -1,15 +1,15 @@
 {
   "ID": "cd88d9edc5a748cfa138e467205adcac",
   "Name": "Hue",
-  "Rating": 4.55,
-  "Ranking_Rating": 464,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 426,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:18:29.4748598+00:00",
-  "LastChanged": "2023-04-03T01:52:48.5981772+00:00",
+  "Tags": [
+    {
+      "Text": "This game features Challenging Puzzles",
+      "Prefix": "",
+      "Type": "",
+      "Count": 49
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:29.47486+00:00",
@@ -404,12 +404,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game features Challenging Puzzles",
-      "Prefix": "",
-      "Type": "",
-      "Count": 49
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-03T01:52:48.5981772+00:00",
+  "FirstSeen": "2022-07-22T20:18:29.4748598+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 426,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 464,
+  "Rating": 4.55
 }

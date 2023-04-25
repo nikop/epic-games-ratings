@@ -1,11 +1,14 @@
 {
   "ID": "3eae9135a71f43a288f3b683fe83bc11",
   "Name": "Lemon Cake",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-10-01T04:31:59.3146976+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
-  "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:14:16.6062056+00:00",
+      "NumProgressed": 115,
+      "NumCompleted": 1
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:18.6780258+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0.87,
+  "EOS_Completed": 1,
+  "EOS_Progressed": 115,
+  "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
+  "FirstSeen": "2022-10-01T04:31:59.3146976+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

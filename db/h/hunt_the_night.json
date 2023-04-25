@@ -1,11 +1,14 @@
 {
   "ID": "edecc2d8282c4dc39823e3319d1b8bc1",
   "Name": "Hunt the Night",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-04-14T09:57:55.2658874+00:00",
-  "FirstSeenRating": "2023-04-14T09:57:55.2658892+00:00",
-  "LastChanged": "2023-04-14T09:57:55.2658892+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:14.1963215+00:00",
+      "NumProgressed": 17,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-04-14T09:57:55.2658893+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 17,
+  "LastChanged": "2023-04-14T09:57:55.2658892+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:14.1963225+00:00",
+  "FirstSeenRating": "2023-04-14T09:57:55.2658892+00:00",
+  "FirstSeen": "2023-04-14T09:57:55.2658874+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

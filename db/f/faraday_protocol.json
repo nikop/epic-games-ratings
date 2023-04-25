@@ -1,11 +1,14 @@
 {
   "ID": "12e586edb35c452280f22ffabda0038c",
   "Name": "Faraday Protocol",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-10-22T00:32:51.4896379+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:35.4805099+00:00",
-  "LastChanged": "2023-03-31T05:58:35.48051+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:25.4261701+00:00",
+      "NumProgressed": 4,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:35.4805102+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 4,
+  "LastChanged": "2023-03-31T05:58:35.48051+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:25.4261709+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:35.4805099+00:00",
+  "FirstSeen": "2022-10-22T00:32:51.4896379+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

@@ -1,11 +1,14 @@
 {
   "ID": "49c0ed7b0cc94825a13c3c2ca21ed265",
   "Name": "Doodle God",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:31:33.9017854+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
-  "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:26.6583072+00:00",
+      "NumProgressed": 193,
+      "NumCompleted": 8
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:36.1213417+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 4.15,
+  "EOS_Completed": 8,
+  "EOS_Progressed": 193,
+  "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
+  "FirstSeen": "2022-07-22T20:31:33.9017854+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

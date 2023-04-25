@@ -1,16 +1,8 @@
 {
   "ID": "656bd7c2e76b46d2a1b9b4f247e813f5",
   "Name": "Eastward",
-  "Rating": 4.67,
-  "Ranking_Rating": 254,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 33,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:29:13.9885092+00:00",
-  "FirstSeenRating": "2022-07-31T06:31:42.9533956+00:00",
-  "LastChanged": "2023-03-31T05:58:19.5067631+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-31T06:31:42.9533958+00:00",
@@ -123,5 +115,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:19.5067631+00:00",
+  "FirstSeenRating": "2022-07-31T06:31:42.9533956+00:00",
+  "FirstSeen": "2022-07-22T20:29:13.9885092+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 33,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 254,
+  "Rating": 4.67
 }

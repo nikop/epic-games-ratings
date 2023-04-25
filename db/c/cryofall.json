@@ -1,16 +1,8 @@
 {
   "ID": "705b9b37d3e747e7b02e835e5ace5c81",
   "Name": "CryoFall",
-  "Rating": 4.5,
-  "Ranking_Rating": 526,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 46,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:30:02.2265434+00:00",
-  "FirstSeenRating": "2022-08-07T18:02:06.4816935+00:00",
-  "LastChanged": "2023-04-09T10:58:08.9694332+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-08-07T18:02:06.4816937+00:00",
@@ -270,5 +262,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-09T10:58:08.9694332+00:00",
+  "FirstSeenRating": "2022-08-07T18:02:06.4816935+00:00",
+  "FirstSeen": "2022-07-22T20:30:02.2265434+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 46,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 526,
+  "Rating": 4.5
 }

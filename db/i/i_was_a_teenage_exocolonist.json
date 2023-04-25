@@ -1,15 +1,8 @@
 {
   "ID": "445e63b8ddfc4411b6e6b5e71f00b2ce",
   "Name": "I Was a Teenage Exocolonist",
-  "Rating": 4.68,
-  "Ranking_Rating": 232,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-08-26T10:02:52.7146762+00:00",
-  "FirstSeenRating": "2022-10-26T05:33:05.8564133+00:00",
-  "LastChanged": "2023-03-31T05:58:32.0333378+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-10-26T05:33:05.8564138+00:00",
@@ -42,5 +35,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:32.0333378+00:00",
+  "FirstSeenRating": "2022-10-26T05:33:05.8564133+00:00",
+  "FirstSeen": "2022-08-26T10:02:52.7146762+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 232,
+  "Rating": 4.68
 }

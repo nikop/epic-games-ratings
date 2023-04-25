@@ -1,16 +1,63 @@
 {
   "ID": "b79cdb6e07ea4ce9a82c00a0fb079ca5",
   "Name": "Barony",
-  "Rating": 4.71,
-  "Ranking_Rating": 178,
-  "Ranking_Popularity": 357,
-  "Ranking_PopularitySum": 287,
-  "NumberOfRatings": 763,
-  "NumberOfAwards": 530,
-  "NumberOfAwardsMax": 69,
-  "MaxAwardTitle": "Extremely Fun",
-  "FirstSeen": "2022-07-22T20:23:54.5508638+00:00",
-  "LastChanged": "2023-04-22T06:57:50.2707474+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 69
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 69
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 61
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 61
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 69
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 66
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Prefix": "This game has",
+      "Type": "Unique Visuals",
+      "Count": 50
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 49
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 36
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:54.550864+00:00",
@@ -813,60 +860,19 @@
       "NumberOfAwardsMax": 69
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 69
-    },
-    {
-      "Text": "This game has Challenging Combat",
-      "Prefix": "This game has",
-      "Type": "Challenging Combat",
-      "Count": 69
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 61
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 61
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 69
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 66
-    },
-    {
-      "Text": "This game has Unique Visuals",
-      "Prefix": "This game has",
-      "Type": "Unique Visuals",
-      "Count": 50
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 49
-    },
-    {
-      "Text": "This game has a Creative Community",
-      "Prefix": "This game has a",
-      "Type": "Creative Community",
-      "Count": 36
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-22T06:57:50.2707474+00:00",
+  "FirstSeen": "2022-07-22T20:23:54.5508638+00:00",
+  "NumberOfAwardsMax": 69,
+  "NumberOfAwards": 530,
+  "NumberOfRatings": 763,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 287,
+  "Ranking_Popularity": 357,
+  "Ranking_Rating": 178,
+  "Rating": 4.71,
+  "MaxAwardTitle": "Extremely Fun"
 }

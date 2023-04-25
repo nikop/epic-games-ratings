@@ -1,15 +1,14 @@
 {
   "ID": "effee7c2775148e9a99f5685d29751d2",
   "Name": "The Surge 2",
-  "Rating": 4.24,
-  "Ranking_Rating": 776,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-08-21T23:30:56.8075479+00:00",
-  "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
-  "LastChanged": "2023-04-08T17:57:24.126657+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:46.0038697+00:00",
+      "NumProgressed": 1531,
+      "NumCompleted": 10
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-09-28T12:01:34.458697+00:00",
@@ -212,5 +211,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0.65,
+  "EOS_Completed": 10,
+  "EOS_Progressed": 1531,
+  "LastChanged": "2023-04-08T17:57:24.126657+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
+  "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
+  "FirstSeen": "2022-08-21T23:30:56.8075479+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 29,
+  "Ranking_EOS_Progress": 135,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 776,
+  "Rating": 4.24
 }

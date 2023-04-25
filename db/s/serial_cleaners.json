@@ -1,11 +1,14 @@
 {
   "ID": "96f4ce259e1b4845848399fc29c718fe",
   "Name": "Serial Cleaners",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-09-24T13:06:20.5748875+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
-  "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:28.6580163+00:00",
+      "NumProgressed": 152,
+      "NumCompleted": 5
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:22.2068053+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 3.29,
+  "EOS_Completed": 5,
+  "EOS_Progressed": 152,
+  "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
+  "FirstSeen": "2022-09-24T13:06:20.5748875+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

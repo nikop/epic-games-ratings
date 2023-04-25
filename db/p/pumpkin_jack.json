@@ -1,11 +1,8 @@
 {
   "ID": "43cff3223381422ca04404a811784296",
   "Name": "Pumpkin Jack",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:19:31.9335174+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:13.9710962+00:00",
-  "LastChanged": "2023-03-31T05:57:13.9710963+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:13.9710965+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:13.9710963+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:13.9710962+00:00",
+  "FirstSeen": "2022-07-22T20:19:31.9335174+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

@@ -1,16 +1,81 @@
 {
   "ID": "3542a1df211e492bb2abecb7c734f7f9",
   "Name": "Rising Storm 2: Vietnam",
-  "Rating": 4.5,
-  "Ranking_Rating": 526,
-  "Ranking_Popularity": 159,
-  "Ranking_PopularitySum": 112,
-  "NumberOfRatings": 2871,
-  "NumberOfAwards": 5950,
-  "NumberOfAwardsMax": 639,
-  "MaxAwardTitle": "Quickly Understood Controls",
-  "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
-  "LastChanged": "2023-04-25T09:57:45.2236228+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 632
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 628
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 639
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
+      "Count": 612
+    },
+    {
+      "Text": "This game has Realistic Visuals",
+      "Prefix": "This game has",
+      "Type": "Realistic Visuals",
+      "Count": 570
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 633
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 571
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 529
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 630
+    },
+    {
+      "Text": "This game is Educational",
+      "Prefix": "",
+      "Type": "",
+      "Count": 28
+    },
+    {
+      "Text": "This game has a Competitive Community",
+      "Prefix": "This game has a",
+      "Type": "Competitive Community",
+      "Count": 506
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 149
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:01.9832027+00:00",
@@ -2515,78 +2580,19 @@
       "NumberOfAwardsMax": 639
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 632
-    },
-    {
-      "Text": "This game has Challenging Combat",
-      "Prefix": "This game has",
-      "Type": "Challenging Combat",
-      "Count": 628
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 639
-    },
-    {
-      "Text": "This game has Competitive Players",
-      "Prefix": "This game has",
-      "Type": "Competitive Players",
-      "Count": 612
-    },
-    {
-      "Text": "This game has Realistic Visuals",
-      "Prefix": "This game has",
-      "Type": "Realistic Visuals",
-      "Count": 570
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 633
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 571
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 529
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 630
-    },
-    {
-      "Text": "This game is Educational",
-      "Prefix": "",
-      "Type": "",
-      "Count": 28
-    },
-    {
-      "Text": "This game has a Competitive Community",
-      "Prefix": "This game has a",
-      "Type": "Competitive Community",
-      "Count": 506
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 149
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-25T09:57:45.2236228+00:00",
+  "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
+  "NumberOfAwardsMax": 639,
+  "NumberOfAwards": 5950,
+  "NumberOfRatings": 2871,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 112,
+  "Ranking_Popularity": 159,
+  "Ranking_Rating": 526,
+  "Rating": 4.5,
+  "MaxAwardTitle": "Quickly Understood Controls"
 }

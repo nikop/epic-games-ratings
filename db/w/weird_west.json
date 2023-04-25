@@ -1,16 +1,27 @@
 {
   "ID": "73ce3d09e1d949e8b80f66c78c1cda50",
   "Name": "Weird West",
-  "Rating": 4.45,
-  "Ranking_Rating": 599,
-  "Ranking_Popularity": 463,
-  "Ranking_PopularitySum": 466,
-  "NumberOfRatings": 125,
-  "NumberOfAwards": 23,
-  "NumberOfAwardsMax": 23,
-  "MaxAwardTitle": "Impact the Story",
-  "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
-  "LastChanged": "2023-04-18T11:59:25.595754+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "",
+      "Type": "",
+      "Count": 24
+    },
+    {
+      "Text": "In this game, your choices Impact the Story",
+      "Prefix": "In this game, your choices",
+      "Type": "Impact the Story",
+      "Count": 23
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:14:31.998977+00:00",
+      "NumProgressed": 1482,
+      "NumCompleted": 2
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:17.206459+00:00",
@@ -293,18 +304,20 @@
       "NumberOfAwardsMax": 23
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "",
-      "Type": "",
-      "Count": 24
-    },
-    {
-      "Text": "In this game, your choices Impact the Story",
-      "Prefix": "In this game, your choices",
-      "Type": "Impact the Story",
-      "Count": 23
-    }
-  ]
+  "EOS_Completed_Percentage": 0.13,
+  "EOS_Completed": 2,
+  "EOS_Progressed": 1482,
+  "LastChanged": "2023-04-18T11:59:25.595754+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
+  "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
+  "NumberOfAwardsMax": 23,
+  "NumberOfAwards": 23,
+  "NumberOfRatings": 125,
+  "Ranking_EOS_Completed": 73,
+  "Ranking_EOS_Progress": 136,
+  "Ranking_PopularitySum": 466,
+  "Ranking_Popularity": 463,
+  "Ranking_Rating": 599,
+  "Rating": 4.45,
+  "MaxAwardTitle": "Impact the Story"
 }

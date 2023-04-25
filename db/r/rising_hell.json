@@ -1,16 +1,87 @@
 {
   "ID": "8d123dcc4b5c4d168f7de7b3e1ed7d47",
   "Name": "Rising Hell",
-  "Rating": 4.4,
-  "Ranking_Rating": 662,
-  "Ranking_Popularity": 350,
-  "Ranking_PopularitySum": 265,
-  "NumberOfAwards": 657,
-  "NumberOfAwardsMax": 73,
-  "MaxAwardTitle": "Quickly Understood Controls",
-  "FirstSeen": "2022-07-22T20:25:41.1401015+00:00",
-  "FirstSeenRating": "2022-10-07T17:01:28.5689964+00:00",
-  "LastChanged": "2023-03-20T15:58:38.1150606+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 66
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 73
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 65
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "",
+      "Type": "",
+      "Count": 20
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 26
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 61
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 56
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 57
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 58
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Prefix": "This game is",
+      "Type": "Great for Quick Sessions",
+      "Count": 56
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Prefix": "This game has",
+      "Type": "Unique Visuals",
+      "Count": 63
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 62
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 40
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-10-07T17:01:28.5689969+00:00",
@@ -217,84 +288,19 @@
       "Rating": 4.4
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 66
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 73
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 65
-    },
-    {
-      "Text": "This game has Challenging Combat",
-      "Prefix": "",
-      "Type": "",
-      "Count": 20
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 26
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 61
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 56
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 57
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 58
-    },
-    {
-      "Text": "This game is Great for Quick Sessions",
-      "Prefix": "This game is",
-      "Type": "Great for Quick Sessions",
-      "Count": 56
-    },
-    {
-      "Text": "This game has Unique Visuals",
-      "Prefix": "This game has",
-      "Type": "Unique Visuals",
-      "Count": 63
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 62
-    },
-    {
-      "Text": "This game has a Creative Community",
-      "Prefix": "This game has a",
-      "Type": "Creative Community",
-      "Count": 40
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-20T15:58:38.1150606+00:00",
+  "FirstSeenRating": "2022-10-07T17:01:28.5689964+00:00",
+  "FirstSeen": "2022-07-22T20:25:41.1401015+00:00",
+  "NumberOfAwardsMax": 73,
+  "NumberOfAwards": 657,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 265,
+  "Ranking_Popularity": 350,
+  "Ranking_Rating": 662,
+  "Rating": 4.4,
+  "MaxAwardTitle": "Quickly Understood Controls"
 }

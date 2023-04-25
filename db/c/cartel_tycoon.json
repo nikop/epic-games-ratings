@@ -1,15 +1,14 @@
 {
   "ID": "1696ef78f67c411ea67d2c2b8e9bc5a6",
   "Name": "Cartel Tycoon",
-  "Rating": 4.35,
-  "Ranking_Rating": 710,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 101,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
-  "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:02.4589703+00:00",
+      "NumProgressed": 275,
+      "NumCompleted": 1
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-29T17:30:50.1172997+00:00",
@@ -267,5 +266,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0.36,
+  "EOS_Completed": 1,
+  "EOS_Progressed": 275,
+  "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
+  "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 101,
+  "Ranking_EOS_Completed": 44,
+  "Ranking_EOS_Progress": 169,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 710,
+  "Rating": 4.35
 }

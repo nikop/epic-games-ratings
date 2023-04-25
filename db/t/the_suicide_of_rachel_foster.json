@@ -1,15 +1,14 @@
 {
   "ID": "67eb392889234b4d99a6562c5e60c825",
   "Name": "The Suicide of Rachel Foster",
-  "Rating": 4.17,
-  "Ranking_Rating": 820,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 71,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
-  "LastChanged": "2023-03-31T05:57:04.3464123+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:08:57.7032048+00:00",
+      "NumProgressed": 974,
+      "NumCompleted": 48
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:58.0342445+00:00",
@@ -222,5 +221,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 4.93,
+  "EOS_Completed": 48,
+  "EOS_Progressed": 974,
+  "LastChanged": "2023-03-31T05:57:04.3464123+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
+  "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 71,
+  "Ranking_EOS_Completed": 4,
+  "Ranking_EOS_Progress": 144,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 820,
+  "Rating": 4.17
 }

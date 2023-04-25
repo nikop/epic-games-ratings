@@ -1,16 +1,75 @@
 {
   "ID": "3ffb410dab2d409aacd39a1abc6fcbba",
   "Name": "Prison Architect",
-  "Rating": 4.61,
-  "Ranking_Rating": 348,
-  "Ranking_Popularity": 195,
-  "Ranking_PopularitySum": 143,
-  "NumberOfRatings": 4491,
-  "NumberOfAwards": 3178,
-  "NumberOfAwardsMax": 404,
-  "MaxAwardTitle": "Extremely Fun",
-  "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
-  "LastChanged": "2023-04-25T01:57:17.0905604+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 346
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 386
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 404
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 345
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 234
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 390
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 379
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 356
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 319
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 253
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:08:45.6163077+00:00",
+      "NumProgressed": 111877,
+      "NumCompleted": 4
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:08.1221805+00:00",
@@ -2650,66 +2709,20 @@
       "NumberOfAwardsMax": 404
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 346
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 386
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 404
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 345
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 234
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 390
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 379
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 356
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 319
-    },
-    {
-      "Text": "This game has a Creative Community",
-      "Prefix": "This game has a",
-      "Type": "Creative Community",
-      "Count": 253
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 4,
+  "EOS_Progressed": 111877,
+  "LastChanged": "2023-04-25T01:57:17.0905604+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
+  "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
+  "NumberOfAwardsMax": 404,
+  "NumberOfAwards": 3178,
+  "NumberOfRatings": 4491,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 55,
+  "Ranking_PopularitySum": 143,
+  "Ranking_Popularity": 195,
+  "Ranking_Rating": 348,
+  "Rating": 4.61,
+  "MaxAwardTitle": "Extremely Fun"
 }

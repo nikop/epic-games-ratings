@@ -1,11 +1,14 @@
 {
   "ID": "ba2b8f9cfb9344b6b76f87d3fc5f8b80",
   "Name": "Colossal Cave",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-01-20T02:11:39.0765361+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:02.114987+00:00",
-  "LastChanged": "2023-03-31T05:57:02.1149872+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:08:54.136982+00:00",
+      "NumProgressed": 76,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:02.1149874+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 76,
+  "LastChanged": "2023-03-31T05:57:02.1149872+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:08:54.1369826+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:02.114987+00:00",
+  "FirstSeen": "2023-01-20T02:11:39.0765361+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

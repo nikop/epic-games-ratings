@@ -1,17 +1,51 @@
 {
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
-  "Rating": 4.12,
-  "Ranking_Rating": 843,
-  "Ranking_Popularity": 430,
-  "Ranking_PopularitySum": 370,
-  "NumberOfRatings": 281,
-  "NumberOfAwards": 158,
-  "NumberOfAwardsMax": 32,
-  "MaxAwardTitle": "Relaxing",
-  "FirstSeen": "2022-08-31T13:30:37.244386+00:00",
-  "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
-  "LastChanged": "2023-04-14T21:57:01.4034756+00:00",
+  "Tags": [
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 32
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 30
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 28
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 24
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 24
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 20
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:06.9545354+00:00",
+      "NumProgressed": 3343,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-09-02T02:01:46.3061228+00:00",
@@ -501,42 +535,21 @@
       "NumberOfAwardsMax": 32
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 32
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 30
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 28
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 24
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 24
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 20
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 3343,
+  "LastChanged": "2023-04-14T21:57:01.4034756+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
+  "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
+  "FirstSeen": "2022-08-31T13:30:37.244386+00:00",
+  "NumberOfAwardsMax": 32,
+  "NumberOfAwards": 158,
+  "NumberOfRatings": 281,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 122,
+  "Ranking_PopularitySum": 370,
+  "Ranking_Popularity": 430,
+  "Ranking_Rating": 843,
+  "Rating": 4.12,
+  "MaxAwardTitle": "Relaxing"
 }

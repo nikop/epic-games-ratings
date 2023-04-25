@@ -1,15 +1,14 @@
 {
   "ID": "fb76c816bb054fc8be57dc49f1600843",
   "Name": "Tails of Iron",
-  "Rating": 4.5,
-  "Ranking_Rating": 526,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
-  "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
-  "LastChanged": "2023-04-02T20:59:05.8070796+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:46.139377+00:00",
+      "NumProgressed": 1345,
+      "NumCompleted": 6
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-09-24T13:07:58.3730391+00:00",
@@ -172,5 +171,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0.45,
+  "EOS_Completed": 6,
+  "EOS_Progressed": 1345,
+  "LastChanged": "2023-04-02T20:59:05.8070796+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
+  "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
+  "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 36,
+  "Ranking_EOS_Progress": 138,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 526,
+  "Rating": 4.5
 }

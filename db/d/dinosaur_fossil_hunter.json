@@ -1,15 +1,8 @@
 {
   "ID": "60e3b72c80a24bc2acefa354e4b71d9f",
   "Name": "Dinosaur Fossil Hunter",
-  "Rating": 4.2,
-  "Ranking_Rating": 798,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:29:45.1723147+00:00",
-  "FirstSeenRating": "2022-11-23T10:58:52.2589903+00:00",
-  "LastChanged": "2023-03-31T05:58:23.376659+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-11-23T10:58:52.2589904+00:00",
@@ -22,5 +15,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:23.376659+00:00",
+  "FirstSeenRating": "2022-11-23T10:58:52.2589903+00:00",
+  "FirstSeen": "2022-07-22T20:29:45.1723147+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 798,
+  "Rating": 4.2
 }

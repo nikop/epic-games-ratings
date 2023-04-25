@@ -1,16 +1,81 @@
 {
   "ID": "8c7ed85dae4341d385919ee4d832eb1a",
   "Name": "Just Die Already",
-  "Rating": 4.52,
-  "Ranking_Rating": 496,
-  "Ranking_Popularity": 319,
-  "Ranking_PopularitySum": 246,
-  "NumberOfRatings": 2280,
-  "NumberOfAwards": 788,
-  "NumberOfAwardsMax": 99,
-  "MaxAwardTitle": "Highly Recommended",
-  "FirstSeen": "2022-07-22T20:22:50.679277+00:00",
-  "LastChanged": "2023-04-25T13:05:03.5961858+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 96
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 99
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 74
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Prefix": "This game is",
+      "Type": "Great for Quick Sessions",
+      "Count": 76
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 74
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 79
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 72
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 74
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 83
+    },
+    {
+      "Text": "This game has Easy Combat",
+      "Prefix": "This game has",
+      "Type": "Easy Combat",
+      "Count": 61
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 58
+    },
+    {
+      "Text": "This game has a Silly Community",
+      "Prefix": "",
+      "Type": "",
+      "Count": 66
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:50.6792772+00:00",
@@ -1269,78 +1334,19 @@
       "NumberOfAwardsMax": 99
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 96
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 99
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 74
-    },
-    {
-      "Text": "This game is Great for Quick Sessions",
-      "Prefix": "This game is",
-      "Type": "Great for Quick Sessions",
-      "Count": 76
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 74
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 79
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 72
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 74
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 83
-    },
-    {
-      "Text": "This game has Easy Combat",
-      "Prefix": "This game has",
-      "Type": "Easy Combat",
-      "Count": 61
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 58
-    },
-    {
-      "Text": "This game has a Silly Community",
-      "Prefix": "",
-      "Type": "",
-      "Count": 66
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-25T13:05:03.5961858+00:00",
+  "FirstSeen": "2022-07-22T20:22:50.679277+00:00",
+  "NumberOfAwardsMax": 99,
+  "NumberOfAwards": 788,
+  "NumberOfRatings": 2280,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 246,
+  "Ranking_Popularity": 319,
+  "Ranking_Rating": 496,
+  "Rating": 4.52,
+  "MaxAwardTitle": "Highly Recommended"
 }

@@ -1,11 +1,8 @@
 {
   "ID": "a44efc703f1845c685975b5f0c251dba",
   "Name": "REZ PLZ",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-08-27T14:02:21.9384589+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:49.8010329+00:00",
-  "LastChanged": "2023-03-31T05:57:49.801033+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:49.8010331+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:49.801033+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:49.8010329+00:00",
+  "FirstSeen": "2022-08-27T14:02:21.9384589+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

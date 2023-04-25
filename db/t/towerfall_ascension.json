@@ -1,16 +1,8 @@
 {
   "ID": "8e66d3f552b448afb1889c32ac855fc9",
   "Name": "TowerFall Ascension",
-  "Rating": 4.67,
-  "Ranking_Rating": 254,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 32,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:20:19.2112419+00:00",
-  "FirstSeenRating": "2022-08-10T22:30:46.7475035+00:00",
-  "LastChanged": "2023-03-31T05:57:19.1740826+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-08-10T22:30:46.7475038+00:00",
@@ -130,5 +122,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:19.1740826+00:00",
+  "FirstSeenRating": "2022-08-10T22:30:46.7475035+00:00",
+  "FirstSeen": "2022-07-22T20:20:19.2112419+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 32,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 254,
+  "Rating": 4.67
 }

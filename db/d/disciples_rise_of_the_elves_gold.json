@@ -1,11 +1,8 @@
 {
   "ID": "ecf42e27d0e6495c8da84059efd039ab",
   "Name": "Disciples Rise of the Elves Gold",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:26:01.6067734+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:59.3138831+00:00",
-  "LastChanged": "2023-03-31T05:57:59.3138832+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:59.3138834+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:59.3138832+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:59.3138831+00:00",
+  "FirstSeen": "2022-07-22T20:26:01.6067734+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

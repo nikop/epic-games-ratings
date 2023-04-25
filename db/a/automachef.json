@@ -1,16 +1,27 @@
 {
   "ID": "75ec0c7498894d1a99a5c8f02f3e4c55",
   "Name": "Automachef",
-  "Rating": 4.34,
-  "Ranking_Rating": 718,
-  "Ranking_Popularity": 448,
-  "Ranking_PopularitySum": 410,
-  "NumberOfRatings": 543,
-  "NumberOfAwards": 70,
-  "NumberOfAwardsMax": 27,
-  "MaxAwardTitle": "Extremely Fun",
-  "FirstSeen": "2022-07-22T20:30:48.5612754+00:00",
-  "LastChanged": "2023-02-01T22:58:29.8286576+00:00",
+  "Tags": [
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 27
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 21
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 22
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:48.5612756+00:00",
@@ -593,24 +604,19 @@
       "Rating": 4.34
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 27
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 21
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 22
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-02-01T22:58:29.8286576+00:00",
+  "FirstSeen": "2022-07-22T20:30:48.5612754+00:00",
+  "NumberOfAwardsMax": 27,
+  "NumberOfAwards": 70,
+  "NumberOfRatings": 543,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 410,
+  "Ranking_Popularity": 448,
+  "Ranking_Rating": 718,
+  "Rating": 4.34,
+  "MaxAwardTitle": "Extremely Fun"
 }

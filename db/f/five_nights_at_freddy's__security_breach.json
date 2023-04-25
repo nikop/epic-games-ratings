@@ -1,16 +1,15 @@
 {
   "ID": "324dc1d18ca942d5852d677fb8710ad6",
   "Name": "Five Nights at Freddy\u0027s: Security Breach",
-  "Rating": 4.55,
-  "Ranking_Rating": 464,
-  "Ranking_Popularity": 474,
-  "Ranking_PopularitySum": 474,
-  "NumberOfRatings": 169,
-  "NumberOfAwards": 21,
-  "NumberOfAwardsMax": 21,
-  "MaxAwardTitle": "Amazing Storytelling",
-  "FirstSeen": "2022-07-22T20:19:10.1176223+00:00",
-  "LastChanged": "2023-04-16T09:57:13.85214+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 21
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:10.1176225+00:00",
@@ -461,12 +460,19 @@
       "NumberOfAwardsMax": 21
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 21
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-16T09:57:13.85214+00:00",
+  "FirstSeen": "2022-07-22T20:19:10.1176223+00:00",
+  "NumberOfAwardsMax": 21,
+  "NumberOfAwards": 21,
+  "NumberOfRatings": 169,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 474,
+  "Ranking_Popularity": 474,
+  "Ranking_Rating": 464,
+  "Rating": 4.55,
+  "MaxAwardTitle": "Amazing Storytelling"
 }

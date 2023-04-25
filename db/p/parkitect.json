@@ -1,16 +1,8 @@
 {
   "ID": "7d0c3bf3b31e4ff5b27eab81fb255ca0",
   "Name": "Parkitect",
-  "Rating": 4.34,
-  "Ranking_Rating": 718,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 21,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:20:38.7062522+00:00",
-  "FirstSeenRating": "2022-09-10T02:30:45.9660634+00:00",
-  "LastChanged": "2023-03-31T05:57:21.1183995+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-09-10T02:30:45.9660638+00:00",
@@ -61,5 +53,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:21.1183995+00:00",
+  "FirstSeenRating": "2022-09-10T02:30:45.9660634+00:00",
+  "FirstSeen": "2022-07-22T20:20:38.7062522+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 21,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 718,
+  "Rating": 4.34
 }

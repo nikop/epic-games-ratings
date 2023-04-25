@@ -1,11 +1,8 @@
 {
   "ID": "cd6e72a7a51143c9b1cad0f36940dadc",
   "Name": "Recursive Ruin",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:26:17.9587085+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:01.2667039+00:00",
-  "LastChanged": "2023-03-31T05:58:01.266704+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:01.2667042+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:01.266704+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:01.2667039+00:00",
+  "FirstSeen": "2022-07-22T20:26:17.9587085+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

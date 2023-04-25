@@ -1,15 +1,8 @@
 {
   "ID": "78f42129096d4233bccc527733debfbd",
   "Name": "Outlast",
-  "Rating": 4.73,
-  "Ranking_Rating": 155,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-10-05T05:31:44.4184122+00:00",
-  "FirstSeenRating": "2022-10-20T15:31:49.6878408+00:00",
-  "LastChanged": "2023-03-31T05:58:06.9669289+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-10-20T15:31:49.6878413+00:00",
@@ -162,5 +155,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:06.9669289+00:00",
+  "FirstSeenRating": "2022-10-20T15:31:49.6878408+00:00",
+  "FirstSeen": "2022-10-05T05:31:44.4184122+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 155,
+  "Rating": 4.73
 }

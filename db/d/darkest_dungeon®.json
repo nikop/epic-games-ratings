@@ -1,16 +1,75 @@
 {
   "ID": "21916c391ae4425d8f6cce2382aebd0c",
   "Name": "Darkest Dungeon\u00AE",
-  "Rating": 4.75,
-  "Ranking_Rating": 126,
-  "Ranking_Popularity": 83,
-  "Ranking_PopularitySum": 84,
-  "NumberOfRatings": 5428,
-  "NumberOfAwards": 8646,
-  "NumberOfAwardsMax": 3163,
-  "MaxAwardTitle": "Character Customization",
-  "FirstSeen": "2022-07-22T20:19:59.2764084+00:00",
-  "LastChanged": "2023-04-25T04:57:35.9521622+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 3163
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Prefix": "This game has",
+      "Type": "Unique Visuals",
+      "Count": 604
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 661
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 672
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 634
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 647
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 631
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 590
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 641
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 403
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 434
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:59.2764087+00:00",
@@ -3126,72 +3185,19 @@
       "NumberOfAwardsMax": 3163
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "This game has Inclusive",
-      "Type": "Character Customization",
-      "Count": 3163
-    },
-    {
-      "Text": "This game has Unique Visuals",
-      "Prefix": "This game has",
-      "Type": "Unique Visuals",
-      "Count": 604
-    },
-    {
-      "Text": "This game has Challenging Combat",
-      "Prefix": "This game has",
-      "Type": "Challenging Combat",
-      "Count": 661
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 672
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 634
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 647
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 631
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 590
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 641
-    },
-    {
-      "Text": "This game has a Creative Community",
-      "Prefix": "This game has a",
-      "Type": "Creative Community",
-      "Count": 403
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 434
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-25T04:57:35.9521622+00:00",
+  "FirstSeen": "2022-07-22T20:19:59.2764084+00:00",
+  "NumberOfAwardsMax": 3163,
+  "NumberOfAwards": 8646,
+  "NumberOfRatings": 5428,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 84,
+  "Ranking_Popularity": 83,
+  "Ranking_Rating": 126,
+  "Rating": 4.75,
+  "MaxAwardTitle": "Character Customization"
 }

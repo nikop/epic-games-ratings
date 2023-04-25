@@ -1,11 +1,8 @@
 {
   "ID": "30f78a567f514a568604e852f5ded591",
   "Name": "True Fear: Forsaken Souls Part 2",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:26:35.0369683+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:03.0310997+00:00",
-  "LastChanged": "2023-03-31T05:58:03.0310999+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:03.0311+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:03.0310999+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:03.0310997+00:00",
+  "FirstSeen": "2022-07-22T20:26:35.0369683+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

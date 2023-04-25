@@ -1,11 +1,14 @@
 {
   "ID": "dae5ac373ed9475a8edd99f3c7f5b010",
   "Name": "Frogun",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-08-04T23:30:59.5265336+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:36.5225978+00:00",
-  "LastChanged": "2023-03-31T05:57:36.5225979+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:55.639606+00:00",
+      "NumProgressed": 192,
+      "NumCompleted": 3
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:36.5225985+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 1.56,
+  "EOS_Completed": 3,
+  "EOS_Progressed": 192,
+  "LastChanged": "2023-03-31T05:57:36.5225979+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:55.6396069+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:36.5225978+00:00",
+  "FirstSeen": "2022-08-04T23:30:59.5265336+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

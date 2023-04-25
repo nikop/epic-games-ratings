@@ -1,16 +1,21 @@
 {
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
-  "Rating": 4.28,
-  "Ranking_Rating": 762,
-  "Ranking_Popularity": 293,
-  "Ranking_PopularitySum": 384,
-  "NumberOfAwards": 124,
-  "NumberOfAwardsMax": 124,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-10-06T18:03:31.3585803+00:00",
-  "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
-  "LastChanged": "2023-04-18T21:59:01.5730242+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 124
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:35.4373052+00:00",
+      "NumProgressed": 17316,
+      "NumCompleted": 14
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-10-08T20:32:24.8625513+00:00",
@@ -155,12 +160,20 @@
       "NumberOfAwardsMax": 124
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 124
-    }
-  ]
+  "EOS_Completed_Percentage": 0.08,
+  "EOS_Completed": 14,
+  "EOS_Progressed": 17316,
+  "LastChanged": "2023-04-18T21:59:01.5730242+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
+  "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
+  "FirstSeen": "2022-10-06T18:03:31.3585803+00:00",
+  "NumberOfAwardsMax": 124,
+  "NumberOfAwards": 124,
+  "Ranking_EOS_Completed": 85,
+  "Ranking_EOS_Progress": 90,
+  "Ranking_PopularitySum": 384,
+  "Ranking_Popularity": 293,
+  "Ranking_Rating": 762,
+  "Rating": 4.28,
+  "MaxAwardTitle": "Great Boss Battles"
 }

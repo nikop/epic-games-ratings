@@ -1,11 +1,8 @@
 {
   "ID": "2ccd3d825eff465393503a7a8ef7b5a0",
   "Name": "Aground",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:19:54.6046773+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:16.51526+00:00",
-  "LastChanged": "2023-03-31T05:57:16.5152601+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:16.5152603+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:16.5152601+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:16.51526+00:00",
+  "FirstSeen": "2022-07-22T20:19:54.6046773+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

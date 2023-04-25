@@ -1,11 +1,8 @@
 {
   "ID": "2395d558dcb140c69c1bfac0bd2fa28b",
   "Name": "Lovecraft\u0027s Untold Stories",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:25:33.1034973+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:55.5323225+00:00",
-  "LastChanged": "2023-03-31T05:57:55.5323226+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:55.5323227+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:55.5323226+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:55.5323225+00:00",
+  "FirstSeen": "2022-07-22T20:25:33.1034973+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

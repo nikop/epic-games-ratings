@@ -1,11 +1,14 @@
 {
   "ID": "0610384879594dd0b42c73e2d8af88ae",
   "Name": "Moonglow Bay",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:25:09.4929662+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:52.9355782+00:00",
-  "LastChanged": "2023-03-31T05:57:52.9355783+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:22.851725+00:00",
+      "NumProgressed": 377,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:52.9355784+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 377,
+  "LastChanged": "2023-03-31T05:57:52.9355783+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:22.8517258+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:52.9355782+00:00",
+  "FirstSeen": "2022-07-22T20:25:09.4929662+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

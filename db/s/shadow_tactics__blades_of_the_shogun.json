@@ -1,16 +1,81 @@
 {
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
-  "Rating": 4.66,
-  "Ranking_Rating": 271,
-  "Ranking_Popularity": 172,
-  "Ranking_PopularitySum": 125,
-  "NumberOfRatings": 495,
-  "NumberOfAwards": 4628,
-  "NumberOfAwardsMax": 547,
-  "MaxAwardTitle": "Great for Beginners",
-  "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
-  "LastChanged": "2023-04-25T04:57:46.8247851+00:00",
+  "Tags": [
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 508
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 471
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 463
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 495
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 442
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 547
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 517
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Prefix": "",
+      "Type": "",
+      "Count": 20
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 467
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 478
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 240
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:45.1019566+00:00",
+      "NumProgressed": 161527,
+      "NumCompleted": 39
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:59.8684255+00:00",
@@ -863,72 +928,20 @@
       "NumberOfAwardsMax": 547
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 508
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 471
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 463
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 495
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 442
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 547
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 517
-    },
-    {
-      "Text": "This game has Unique Visuals",
-      "Prefix": "",
-      "Type": "",
-      "Count": 20
-    },
-    {
-      "Text": "This game has Challenging Combat",
-      "Prefix": "This game has",
-      "Type": "Challenging Combat",
-      "Count": 467
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 478
-    },
-    {
-      "Text": "This game has a Creative Community",
-      "Prefix": "This game has a",
-      "Type": "Creative Community",
-      "Count": 240
-    }
-  ]
+  "EOS_Completed_Percentage": 0.02,
+  "EOS_Completed": 39,
+  "EOS_Progressed": 161527,
+  "LastChanged": "2023-04-25T04:57:46.8247851+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
+  "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
+  "NumberOfAwardsMax": 547,
+  "NumberOfAwards": 4628,
+  "NumberOfRatings": 495,
+  "Ranking_EOS_Completed": 103,
+  "Ranking_EOS_Progress": 49,
+  "Ranking_PopularitySum": 125,
+  "Ranking_Popularity": 172,
+  "Ranking_Rating": 271,
+  "Rating": 4.66,
+  "MaxAwardTitle": "Great for Beginners"
 }

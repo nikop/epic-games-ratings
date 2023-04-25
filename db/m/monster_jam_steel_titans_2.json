@@ -1,15 +1,8 @@
 {
   "ID": "e65e11fc4aee4bb28c3bddf0b6d490bd",
   "Name": "Monster Jam Steel Titans 2",
-  "Rating": 4.71,
-  "Ranking_Rating": 178,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:24:48.184736+00:00",
-  "FirstSeenRating": "2023-03-02T13:57:28.8342245+00:00",
-  "LastChanged": "2023-03-31T05:57:50.2062818+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-02T13:57:28.8342254+00:00",
@@ -26,5 +19,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:50.2062818+00:00",
+  "FirstSeenRating": "2023-03-02T13:57:28.8342245+00:00",
+  "FirstSeen": "2022-07-22T20:24:48.184736+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 178,
+  "Rating": 4.71
 }

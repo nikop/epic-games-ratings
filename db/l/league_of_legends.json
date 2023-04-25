@@ -1,16 +1,63 @@
 {
   "ID": "24b9b5e323bc40eea252a10cdd3b2f10",
   "Name": "League of Legends",
-  "Rating": 4.21,
-  "Ranking_Rating": 794,
-  "Ranking_Popularity": 26,
-  "Ranking_PopularitySum": 43,
-  "NumberOfRatings": 10796,
-  "NumberOfAwards": 26132,
-  "NumberOfAwardsMax": 12694,
-  "MaxAwardTitle": "Character Customization",
-  "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
-  "LastChanged": "2023-04-25T01:58:39.2619807+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 12694
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 2706
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 2383
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 2173
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
+      "Count": 2153
+    },
+    {
+      "Text": "This game has a Competitive Community",
+      "Prefix": "This game has a",
+      "Type": "Competitive Community",
+      "Count": 1986
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 2037
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "",
+      "Type": "",
+      "Count": 260
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 403
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:19.1268614+00:00",
@@ -4216,60 +4263,19 @@
       "NumberOfAwardsMax": 12694
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "This game has Inclusive",
-      "Type": "Character Customization",
-      "Count": 12694
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 2706
-    },
-    {
-      "Text": "This game has Challenging Combat",
-      "Prefix": "This game has",
-      "Type": "Challenging Combat",
-      "Count": 2383
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 2173
-    },
-    {
-      "Text": "This game has Competitive Players",
-      "Prefix": "This game has",
-      "Type": "Competitive Players",
-      "Count": 2153
-    },
-    {
-      "Text": "This game has a Competitive Community",
-      "Prefix": "This game has a",
-      "Type": "Competitive Community",
-      "Count": 1986
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 2037
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "",
-      "Type": "",
-      "Count": 260
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 403
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-25T01:58:39.2619807+00:00",
+  "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
+  "NumberOfAwardsMax": 12694,
+  "NumberOfAwards": 26132,
+  "NumberOfRatings": 10796,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 43,
+  "Ranking_Popularity": 26,
+  "Ranking_Rating": 794,
+  "Rating": 4.21,
+  "MaxAwardTitle": "Character Customization"
 }

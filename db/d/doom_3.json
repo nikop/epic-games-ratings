@@ -1,17 +1,15 @@
 {
   "ID": "7f1853beef0a4b40827038d0f47606f3",
   "Name": "DOOM 3",
-  "Rating": 4.61,
-  "Ranking_Rating": 348,
-  "Ranking_Popularity": 366,
-  "Ranking_PopularitySum": 420,
-  "NumberOfRatings": 105,
-  "NumberOfAwards": 65,
-  "NumberOfAwardsMax": 65,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-08-18T16:02:43.6550747+00:00",
-  "FirstSeenRating": "2022-08-25T17:32:08.5034693+00:00",
-  "LastChanged": "2023-04-17T11:58:24.6147683+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 65
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-08-25T17:32:08.5034697+00:00",
@@ -327,12 +325,20 @@
       "NumberOfAwardsMax": 65
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 65
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-17T11:58:24.6147683+00:00",
+  "FirstSeenRating": "2022-08-25T17:32:08.5034693+00:00",
+  "FirstSeen": "2022-08-18T16:02:43.6550747+00:00",
+  "NumberOfAwardsMax": 65,
+  "NumberOfAwards": 65,
+  "NumberOfRatings": 105,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 420,
+  "Ranking_Popularity": 366,
+  "Ranking_Rating": 348,
+  "Rating": 4.61,
+  "MaxAwardTitle": "Great Boss Battles"
 }

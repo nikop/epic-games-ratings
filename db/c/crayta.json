@@ -1,16 +1,93 @@
 {
   "ID": "bb9f87bb3d0042258bb1c97397bc60f2",
   "Name": "Crayta",
-  "Rating": 4.19,
-  "Ranking_Rating": 811,
-  "Ranking_Popularity": 381,
-  "Ranking_PopularitySum": 305,
-  "NumberOfRatings": 94,
-  "NumberOfAwards": 370,
-  "NumberOfAwardsMax": 50,
-  "MaxAwardTitle": "Diverse Characters",
-  "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
-  "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
+  "Tags": [
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Prefix": "This game is",
+      "Type": "Great for Quick Sessions",
+      "Count": 41
+    },
+    {
+      "Text": "This game is Educational",
+      "Prefix": "This game is",
+      "Type": "Educational",
+      "Count": 36
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 50
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 42
+    },
+    {
+      "Text": "This game has Playful Visuals",
+      "Prefix": "",
+      "Type": "",
+      "Count": 34
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 28
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 35
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 35
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "",
+      "Type": "",
+      "Count": 30
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 36
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 41
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 30
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 24
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:02.983522+00:00",
+      "NumProgressed": 109206,
+      "NumCompleted": 5
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:35.7329732+00:00",
@@ -239,84 +316,20 @@
       "Rating": 4.19
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game is Great for Quick Sessions",
-      "Prefix": "This game is",
-      "Type": "Great for Quick Sessions",
-      "Count": 41
-    },
-    {
-      "Text": "This game is Educational",
-      "Prefix": "This game is",
-      "Type": "Educational",
-      "Count": 36
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 50
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 42
-    },
-    {
-      "Text": "This game has Playful Visuals",
-      "Prefix": "",
-      "Type": "",
-      "Count": 34
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 28
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 35
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 35
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "",
-      "Type": "",
-      "Count": 30
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 36
-    },
-    {
-      "Text": "This game has a Creative Community",
-      "Prefix": "This game has a",
-      "Type": "Creative Community",
-      "Count": 41
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 30
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 24
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 5,
+  "EOS_Progressed": 109206,
+  "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
+  "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
+  "NumberOfAwardsMax": 50,
+  "NumberOfAwards": 370,
+  "NumberOfRatings": 94,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 56,
+  "Ranking_PopularitySum": 305,
+  "Ranking_Popularity": 381,
+  "Ranking_Rating": 811,
+  "Rating": 4.19,
+  "MaxAwardTitle": "Diverse Characters"
 }

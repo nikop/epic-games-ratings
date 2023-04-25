@@ -1,16 +1,27 @@
 {
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
-  "Rating": 4.25,
-  "Ranking_Rating": 773,
-  "Ranking_Popularity": 468,
-  "Ranking_PopularitySum": 436,
-  "NumberOfAwards": 42,
-  "NumberOfAwardsMax": 22,
-  "MaxAwardTitle": "Relaxing",
-  "FirstSeen": "2022-08-11T21:00:23.9390359+00:00",
-  "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
-  "LastChanged": "2023-04-24T16:57:07.0761548+00:00",
+  "Tags": [
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 20
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 22
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:08:55.8180368+00:00",
+      "NumProgressed": 305193,
+      "NumCompleted": 3
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-02-04T02:04:08.6033841+00:00",
@@ -245,18 +256,20 @@
       "NumberOfAwardsMax": 22
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 20
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 22
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 3,
+  "EOS_Progressed": 305193,
+  "LastChanged": "2023-04-24T16:57:07.0761548+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
+  "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
+  "FirstSeen": "2022-08-11T21:00:23.9390359+00:00",
+  "NumberOfAwardsMax": 22,
+  "NumberOfAwards": 42,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 36,
+  "Ranking_PopularitySum": 436,
+  "Ranking_Popularity": 468,
+  "Ranking_Rating": 773,
+  "Rating": 4.25,
+  "MaxAwardTitle": "Relaxing"
 }

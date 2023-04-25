@@ -1,16 +1,51 @@
 {
   "ID": "3db17abfd650423f993291624b1b2ac1",
   "Name": "Elite Dangerous",
-  "Rating": 4.63,
-  "Ranking_Rating": 323,
-  "Ranking_Popularity": 101,
-  "Ranking_PopularitySum": 71,
-  "NumberOfRatings": 6856,
-  "NumberOfAwards": 11907,
-  "NumberOfAwardsMax": 2076,
-  "MaxAwardTitle": "Highly Recommended",
-  "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
-  "LastChanged": "2023-04-25T02:57:02.3355912+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 1244
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 2054
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 2018
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 2004
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 2076
+    },
+    {
+      "Text": "This game is Educational",
+      "Prefix": "This game is",
+      "Type": "Educational",
+      "Count": 1974
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 1781
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:28.2143306+00:00",
@@ -3584,48 +3619,19 @@
       "NumberOfAwardsMax": 2076
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 1244
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 2054
-    },
-    {
-      "Text": "This game has Challenging Combat",
-      "Prefix": "This game has",
-      "Type": "Challenging Combat",
-      "Count": 2018
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 2004
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 2076
-    },
-    {
-      "Text": "This game is Educational",
-      "Prefix": "This game is",
-      "Type": "Educational",
-      "Count": 1974
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 1781
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-25T02:57:02.3355912+00:00",
+  "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
+  "NumberOfAwardsMax": 2076,
+  "NumberOfAwards": 11907,
+  "NumberOfRatings": 6856,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 71,
+  "Ranking_Popularity": 101,
+  "Ranking_Rating": 323,
+  "Rating": 4.63,
+  "MaxAwardTitle": "Highly Recommended"
 }

@@ -1,11 +1,14 @@
 {
   "ID": "0f607d2997b04e7384c786708ee2c67a",
   "Name": "Tower Princess",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-09-11T02:32:40.0498387+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:39.3470193+00:00",
-  "LastChanged": "2023-03-31T05:58:39.3470194+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:32.729737+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:39.3470196+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 1,
+  "LastChanged": "2023-03-31T05:58:39.3470194+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:32.729738+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:39.3470193+00:00",
+  "FirstSeen": "2022-09-11T02:32:40.0498387+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

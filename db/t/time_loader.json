@@ -1,11 +1,14 @@
 {
   "ID": "38d778eab1134c7f9bc4e0e5747b3ea4",
   "Name": "Time Loader",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:29:44.1877091+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:14:23.4088376+00:00",
+      "NumProgressed": 94,
+      "NumCompleted": 8
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:23.027263+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 8.51,
+  "EOS_Completed": 8,
+  "EOS_Progressed": 94,
+  "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
+  "FirstSeen": "2022-07-22T20:29:44.1877091+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

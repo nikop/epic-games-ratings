@@ -1,16 +1,8 @@
 {
   "ID": "530eeeaffca14275a451d7cff61ee6bb",
   "Name": "The End is Nigh",
-  "Rating": 4.75,
-  "Ranking_Rating": 126,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 38,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:24:42.5852877+00:00",
-  "FirstSeenRating": "2022-08-04T20:31:15.3945222+00:00",
-  "LastChanged": "2023-03-31T05:57:49.7085535+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-08-04T20:31:15.3945227+00:00",
@@ -131,5 +123,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:49.7085535+00:00",
+  "FirstSeenRating": "2022-08-04T20:31:15.3945222+00:00",
+  "FirstSeen": "2022-07-22T20:24:42.5852877+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 38,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 126,
+  "Rating": 4.75
 }

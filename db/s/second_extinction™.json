@@ -1,16 +1,27 @@
 {
   "ID": "fcd3387b58864614b66952d0430d2b9a",
   "Name": "Second Extinction\u2122",
-  "Rating": 4.06,
-  "Ranking_Rating": 860,
-  "Ranking_Popularity": 207,
-  "Ranking_PopularitySum": 301,
-  "NumberOfRatings": 617,
-  "NumberOfAwards": 386,
-  "NumberOfAwardsMax": 345,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-07-22T20:33:01.3104454+00:00",
-  "LastChanged": "2023-04-24T10:58:21.9903664+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 345
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 21
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 20
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:33:01.3104463+00:00",
@@ -766,24 +777,20 @@
       "NumberOfAwardsMax": 345
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 345
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 21
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 20
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-24T10:58:21.9903664+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:47.2596991+00:00",
+  "FirstSeen": "2022-07-22T20:33:01.3104454+00:00",
+  "NumberOfAwardsMax": 345,
+  "NumberOfAwards": 386,
+  "NumberOfRatings": 617,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 301,
+  "Ranking_Popularity": 207,
+  "Ranking_Rating": 860,
+  "Rating": 4.06,
+  "MaxAwardTitle": "Great Boss Battles"
 }

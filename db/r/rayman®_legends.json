@@ -1,16 +1,15 @@
 {
   "ID": "fc8d1547232045f6a23257cfd04ef3e8",
   "Name": "RAYMAN\u00AE LEGENDS",
-  "Rating": 4.8,
-  "Ranking_Rating": 78,
-  "Ranking_Popularity": 259,
-  "Ranking_PopularitySum": 350,
-  "NumberOfRatings": 351,
-  "NumberOfAwards": 189,
-  "NumberOfAwardsMax": 189,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-07-22T20:31:21.8622945+00:00",
-  "LastChanged": "2023-04-21T14:58:19.5185563+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 189
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:21.8622947+00:00",
@@ -475,12 +474,19 @@
       "NumberOfAwardsMax": 189
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 189
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-21T14:58:19.5185563+00:00",
+  "FirstSeen": "2022-07-22T20:31:21.8622945+00:00",
+  "NumberOfAwardsMax": 189,
+  "NumberOfAwards": 189,
+  "NumberOfRatings": 351,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 350,
+  "Ranking_Popularity": 259,
+  "Ranking_Rating": 78,
+  "Rating": 4.8,
+  "MaxAwardTitle": "Great Boss Battles"
 }

@@ -1,11 +1,14 @@
 {
   "ID": "a4b249bd941143158a5f428d2b98d2e9",
   "Name": "Clash - Artifacts of Chaos",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-03-10T07:58:06.6553546+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
-  "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:21.1984631+00:00",
+      "NumProgressed": 58,
+      "NumCompleted": 1
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:52.0599733+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 1.72,
+  "EOS_Completed": 1,
+  "EOS_Progressed": 58,
+  "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
+  "FirstSeen": "2023-03-10T07:58:06.6553546+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

@@ -20,7 +20,7 @@
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 128 | 290 |
 | 18 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 248 | 236 |
 | 18 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 0 | 486 |
-| 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 9,139 | 34 |
+| 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 9,152 | 34 |
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 468 |
 | 18 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 486 |
 | 24 | [Black Book](games/b/black_book.md) | 4.87 | 21 | 474 |
@@ -552,7 +552,7 @@
 | 541 | [Hell is Others](games/h/hell_is_others.md) | 4.49 | 0 | 486 |
 | 541 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 2,226 | 95 |
 | 541 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 486 |
-| 541 | [Maneater](games/m/maneater.md) | 4.49 | 13,402 | 24 |
+| 541 | [Maneater](games/m/maneater.md) | 4.49 | 13,407 | 24 |
 | 541 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 608 | 162 |
 | 541 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 486 |
 | 541 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.49 | 0 | 486 |

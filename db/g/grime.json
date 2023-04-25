@@ -1,15 +1,14 @@
 {
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
-  "Rating": 4.61,
-  "Ranking_Rating": 348,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 46,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
-  "LastChanged": "2023-04-14T01:53:34.9283202+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:06.2765882+00:00",
+      "NumProgressed": 526,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:52.5995033+00:00",
@@ -174,5 +173,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 526,
+  "LastChanged": "2023-04-14T01:53:34.9283202+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
+  "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 46,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 160,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 348,
+  "Rating": 4.61
 }

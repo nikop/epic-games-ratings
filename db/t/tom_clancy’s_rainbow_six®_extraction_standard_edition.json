@@ -1,16 +1,69 @@
 {
   "ID": "1093790870b043cdbae03d91d76d9ae6",
   "Name": "Tom Clancy\u2019s Rainbow Six\u00AE Extraction Standard Edition",
-  "Rating": 4.52,
-  "Ranking_Rating": 496,
-  "Ranking_Popularity": 283,
-  "Ranking_PopularitySum": 233,
-  "NumberOfRatings": 635,
-  "NumberOfAwards": 874,
-  "NumberOfAwardsMax": 144,
-  "MaxAwardTitle": "Diverse Characters",
-  "FirstSeen": "2022-07-22T20:22:18.7941234+00:00",
-  "LastChanged": "2023-04-24T14:57:51.5458282+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 144
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 128
+    },
+    {
+      "Text": "This game has a Competitive Community",
+      "Prefix": "",
+      "Type": "",
+      "Count": 28
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 115
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 135
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 127
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 106
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 133
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 114
+    },
+    {
+      "Text": "This game has Realistic Visuals",
+      "Prefix": "",
+      "Type": "",
+      "Count": 20
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:18.7941236+00:00",
@@ -1204,66 +1257,19 @@
       "NumberOfAwardsMax": 144
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 144
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 128
-    },
-    {
-      "Text": "This game has a Competitive Community",
-      "Prefix": "",
-      "Type": "",
-      "Count": 28
-    },
-    {
-      "Text": "This game has Challenging Combat",
-      "Prefix": "This game has",
-      "Type": "Challenging Combat",
-      "Count": 115
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 135
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 127
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 106
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 133
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 114
-    },
-    {
-      "Text": "This game has Realistic Visuals",
-      "Prefix": "",
-      "Type": "",
-      "Count": 20
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-24T14:57:51.5458282+00:00",
+  "FirstSeen": "2022-07-22T20:22:18.7941234+00:00",
+  "NumberOfAwardsMax": 144,
+  "NumberOfAwards": 874,
+  "NumberOfRatings": 635,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 233,
+  "Ranking_Popularity": 283,
+  "Ranking_Rating": 496,
+  "Rating": 4.52,
+  "MaxAwardTitle": "Diverse Characters"
 }

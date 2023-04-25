@@ -1,11 +1,8 @@
 {
   "ID": "f0e736561b7d42d0bbd18c7ce039a151",
   "Name": "Cyanide \u0026 Happiness - Freakpocalypse",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:21:35.7507038+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:27.6124809+00:00",
-  "LastChanged": "2023-03-31T05:57:27.6124811+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:27.6124812+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:27.6124811+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:27.6124809+00:00",
+  "FirstSeen": "2022-07-22T20:21:35.7507038+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

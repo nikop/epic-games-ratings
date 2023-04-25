@@ -1,11 +1,14 @@
 {
   "ID": "0baeb519c8894d96bf89324a121e2437",
   "Name": "The Tale of Bistun",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:27:54.7928237+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:10.7723222+00:00",
-  "LastChanged": "2023-03-31T05:58:10.7723223+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:55.121207+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 1
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:10.7723224+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 10,
+  "EOS_Completed": 1,
+  "EOS_Progressed": 10,
+  "LastChanged": "2023-03-31T05:58:10.7723223+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:55.1212078+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:10.7723222+00:00",
+  "FirstSeen": "2022-07-22T20:27:54.7928237+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

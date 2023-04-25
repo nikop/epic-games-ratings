@@ -1,11 +1,14 @@
 {
   "ID": "e4da11298fd3481daf61f46187082074",
   "Name": "Aeon Must Die!",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:24:22.7181663+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
-  "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:12.6590744+00:00",
+      "NumProgressed": 3459,
+      "NumCompleted": -29
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:47.6282554+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": -0.84,
+  "EOS_Completed": -29,
+  "EOS_Progressed": 3459,
+  "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
+  "FirstSeen": "2022-07-22T20:24:22.7181663+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

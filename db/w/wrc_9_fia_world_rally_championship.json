@@ -1,16 +1,75 @@
 {
   "ID": "9cf250606722448887fa1447b1d9da06",
   "Name": "WRC 9 FIA World Rally Championship",
-  "Rating": 4.54,
-  "Ranking_Rating": 472,
-  "Ranking_Popularity": 446,
-  "Ranking_PopularitySum": 344,
-  "NumberOfRatings": 233,
-  "NumberOfAwards": 211,
-  "NumberOfAwardsMax": 28,
-  "MaxAwardTitle": "Competitive Players",
-  "FirstSeen": "2022-07-22T20:19:01.098445+00:00",
-  "LastChanged": "2023-04-14T13:57:22.7628644+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 20
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "",
+      "Type": "",
+      "Count": 29
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 27
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 24
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
+      "Count": 28
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Prefix": "This game is",
+      "Type": "Great for Quick Sessions",
+      "Count": 25
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 23
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 22
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 21
+    },
+    {
+      "Text": "This game has Realistic Visuals",
+      "Prefix": "This game has",
+      "Type": "Realistic Visuals",
+      "Count": 21
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 20
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:01.0984452+00:00",
@@ -477,72 +536,19 @@
       "NumberOfAwardsMax": 28
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 20
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "",
-      "Type": "",
-      "Count": 29
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 27
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 24
-    },
-    {
-      "Text": "This game has Competitive Players",
-      "Prefix": "This game has",
-      "Type": "Competitive Players",
-      "Count": 28
-    },
-    {
-      "Text": "This game is Great for Quick Sessions",
-      "Prefix": "This game is",
-      "Type": "Great for Quick Sessions",
-      "Count": 25
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 23
-    },
-    {
-      "Text": "This game has Challenging Combat",
-      "Prefix": "This game has",
-      "Type": "Challenging Combat",
-      "Count": 22
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 21
-    },
-    {
-      "Text": "This game has Realistic Visuals",
-      "Prefix": "This game has",
-      "Type": "Realistic Visuals",
-      "Count": 21
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 20
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-14T13:57:22.7628644+00:00",
+  "FirstSeen": "2022-07-22T20:19:01.098445+00:00",
+  "NumberOfAwardsMax": 28,
+  "NumberOfAwards": 211,
+  "NumberOfRatings": 233,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 344,
+  "Ranking_Popularity": 446,
+  "Ranking_Rating": 472,
+  "Rating": 4.54,
+  "MaxAwardTitle": "Competitive Players"
 }

@@ -1,11 +1,14 @@
 {
   "ID": "094d313bbeb84db69dd7bee1bd885c4d",
   "Name": "Fire: Ungh\u2019s Quest",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-12-16T21:58:34.8167877+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
-  "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:14:26.5588507+00:00",
+      "NumProgressed": 152,
+      "NumCompleted": 7
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:24.8540331+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 4.61,
+  "EOS_Completed": 7,
+  "EOS_Progressed": 152,
+  "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
+  "FirstSeen": "2022-12-16T21:58:34.8167877+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

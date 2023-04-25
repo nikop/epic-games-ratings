@@ -1,11 +1,14 @@
 {
   "ID": "5d2e14c5f6ac427b8a8466508cf81f6d",
   "Name": "Urbek City Builder",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-10-20T21:02:49.6692411+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
-  "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:14:30.7844375+00:00",
+      "NumProgressed": 125,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:27.0656459+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 125,
+  "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
+  "FirstSeen": "2022-10-20T21:02:49.6692411+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

@@ -1,11 +1,8 @@
 {
   "ID": "880ca265d5914adf9a4c9cedf5f1fa89",
   "Name": "Horror Story: Hallowseed",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:21:05.2352494+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:23.9317583+00:00",
-  "LastChanged": "2023-03-31T05:57:23.9317584+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:23.9317586+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:23.9317584+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:23.9317583+00:00",
+  "FirstSeen": "2022-07-22T20:21:05.2352494+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

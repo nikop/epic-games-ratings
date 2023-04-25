@@ -1,16 +1,69 @@
 {
   "ID": "76339caf9e8e4d24b62761c736e82b42",
   "Name": "Tetris\u00AE Effect: Connected",
-  "Rating": 4.86,
-  "Ranking_Rating": 28,
-  "Ranking_Popularity": 407,
-  "Ranking_PopularitySum": 338,
-  "NumberOfRatings": 272,
-  "NumberOfAwards": 245,
-  "NumberOfAwardsMax": 39,
-  "MaxAwardTitle": "Extremely Fun",
-  "FirstSeen": "2022-07-22T20:17:49.195013+00:00",
-  "LastChanged": "2023-04-12T23:56:52.8646207+00:00",
+  "Tags": [
+    {
+      "Text": "This game features Challenging Puzzles",
+      "Prefix": "",
+      "Type": "",
+      "Count": 91
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 39
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Prefix": "This game is",
+      "Type": "Great for Quick Sessions",
+      "Count": 38
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 35
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 24
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 33
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
+      "Count": 29
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 29
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 22
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 20
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:49.1950133+00:00",
@@ -408,66 +461,19 @@
       "NumberOfAwardsMax": 39
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game features Challenging Puzzles",
-      "Prefix": "",
-      "Type": "",
-      "Count": 91
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 39
-    },
-    {
-      "Text": "This game is Great for Quick Sessions",
-      "Prefix": "This game is",
-      "Type": "Great for Quick Sessions",
-      "Count": 38
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 35
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 24
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 33
-    },
-    {
-      "Text": "This game has Competitive Players",
-      "Prefix": "This game has",
-      "Type": "Competitive Players",
-      "Count": 29
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 29
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 22
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 20
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-12T23:56:52.8646207+00:00",
+  "FirstSeen": "2022-07-22T20:17:49.195013+00:00",
+  "NumberOfAwardsMax": 39,
+  "NumberOfAwards": 245,
+  "NumberOfRatings": 272,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 338,
+  "Ranking_Popularity": 407,
+  "Ranking_Rating": 28,
+  "Rating": 4.86,
+  "MaxAwardTitle": "Extremely Fun"
 }

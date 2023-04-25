@@ -1,11 +1,14 @@
 {
   "ID": "aafa05b8be6a44019e376f516640f173",
   "Name": "Fabular: Once Upon a Spacetime",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-11-12T14:57:44.1410083+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:05.2361398+00:00",
-  "LastChanged": "2023-03-31T05:58:05.2361399+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:45.2048568+00:00",
+      "NumProgressed": 9,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:05.2361401+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 9,
+  "LastChanged": "2023-03-31T05:58:05.2361399+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:45.2048579+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:05.2361398+00:00",
+  "FirstSeen": "2022-11-12T14:57:44.1410083+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

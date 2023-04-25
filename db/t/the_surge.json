@@ -1,16 +1,21 @@
 {
   "ID": "08f38e25e11f4c1e977cb75aae5e4535",
   "Name": "The Surge",
-  "Rating": 4.46,
-  "Ranking_Rating": 588,
-  "Ranking_Popularity": 454,
-  "Ranking_PopularitySum": 459,
-  "NumberOfRatings": 62,
-  "NumberOfAwards": 26,
-  "NumberOfAwardsMax": 26,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
-  "LastChanged": "2023-03-23T13:57:08.5597671+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 26
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:08:51.6283216+00:00",
+      "NumProgressed": 4186,
+      "NumCompleted": 13
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:27.6192131+00:00",
@@ -257,12 +262,20 @@
       "Rating": 4.46
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 26
-    }
-  ]
+  "EOS_Completed_Percentage": 0.31,
+  "EOS_Completed": 13,
+  "EOS_Progressed": 4186,
+  "LastChanged": "2023-03-23T13:57:08.5597671+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
+  "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
+  "NumberOfAwardsMax": 26,
+  "NumberOfAwards": 26,
+  "NumberOfRatings": 62,
+  "Ranking_EOS_Completed": 48,
+  "Ranking_EOS_Progress": 118,
+  "Ranking_PopularitySum": 459,
+  "Ranking_Popularity": 454,
+  "Ranking_Rating": 588,
+  "Rating": 4.46,
+  "MaxAwardTitle": "Great Boss Battles"
 }

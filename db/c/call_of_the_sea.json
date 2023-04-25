@@ -1,15 +1,14 @@
 {
   "ID": "5e427319eea1401ab20c6cd78a4163c4",
   "Name": "Call of the Sea",
-  "Rating": 4.37,
-  "Ranking_Rating": 693,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:19:57.3408897+00:00",
-  "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
-  "LastChanged": "2023-04-23T11:57:29.9202605+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:18.2456024+00:00",
+      "NumProgressed": 65847,
+      "NumCompleted": 418
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-10-02T01:30:49.749465+00:00",
@@ -174,5 +173,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0.63,
+  "EOS_Completed": 418,
+  "EOS_Progressed": 65847,
+  "LastChanged": "2023-04-23T11:57:29.9202605+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
+  "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
+  "FirstSeen": "2022-07-22T20:19:57.3408897+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 30,
+  "Ranking_EOS_Progress": 61,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 693,
+  "Rating": 4.37
 }

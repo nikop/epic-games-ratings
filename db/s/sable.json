@@ -1,15 +1,14 @@
 {
   "ID": "66a0893b7b9a42a695f0a387d64dfcc6",
   "Name": "Sable",
-  "Rating": 4.51,
-  "Ranking_Rating": 509,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 43,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
-  "LastChanged": "2023-03-31T05:58:35.415626+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:25.309734+00:00",
+      "NumProgressed": 52848,
+      "NumCompleted": 474
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:24.3265083+00:00",
@@ -281,5 +280,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0.9,
+  "EOS_Completed": 474,
+  "EOS_Progressed": 52848,
+  "LastChanged": "2023-03-31T05:58:35.415626+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
+  "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 43,
+  "Ranking_EOS_Completed": 22,
+  "Ranking_EOS_Progress": 69,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 509,
+  "Rating": 4.51
 }

@@ -1,16 +1,15 @@
 {
   "ID": "cb23c857ec0d42d89b4be34d11302959",
   "Name": "LEGO\u00AE Batman\u2122 2: DC Super Heroes",
-  "Rating": 4.64,
-  "Ranking_Rating": 310,
-  "Ranking_Popularity": 264,
-  "Ranking_PopularitySum": 356,
-  "NumberOfRatings": 489,
-  "NumberOfAwards": 179,
-  "NumberOfAwardsMax": 179,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-07-22T20:24:32.502574+00:00",
-  "LastChanged": "2023-03-24T07:57:57.5752665+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 179
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:32.5025742+00:00",
@@ -444,12 +443,19 @@
       "Rating": 4.64
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 179
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-24T07:57:57.5752665+00:00",
+  "FirstSeen": "2022-07-22T20:24:32.502574+00:00",
+  "NumberOfAwardsMax": 179,
+  "NumberOfAwards": 179,
+  "NumberOfRatings": 489,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 356,
+  "Ranking_Popularity": 264,
+  "Ranking_Rating": 310,
+  "Rating": 4.64,
+  "MaxAwardTitle": "Great Boss Battles"
 }

@@ -1,16 +1,21 @@
 {
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
-  "Rating": 4.52,
-  "Ranking_Rating": 496,
-  "Ranking_Popularity": 161,
-  "Ranking_PopularitySum": 274,
-  "NumberOfAwards": 610,
-  "NumberOfAwardsMax": 610,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
-  "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
-  "LastChanged": "2023-04-25T15:57:25.2745696+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 610
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:46.991885+00:00",
+      "NumProgressed": 316324,
+      "NumCompleted": 82
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-04-21T14:57:30.4641621+00:00",
@@ -103,12 +108,20 @@
       "NumberOfAwardsMax": 610
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 610
-    }
-  ]
+  "EOS_Completed_Percentage": 0.03,
+  "EOS_Completed": 82,
+  "EOS_Progressed": 316324,
+  "LastChanged": "2023-04-25T15:57:25.2745696+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
+  "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
+  "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
+  "NumberOfAwardsMax": 610,
+  "NumberOfAwards": 610,
+  "Ranking_EOS_Completed": 99,
+  "Ranking_EOS_Progress": 35,
+  "Ranking_PopularitySum": 274,
+  "Ranking_Popularity": 161,
+  "Ranking_Rating": 496,
+  "Rating": 4.52,
+  "MaxAwardTitle": "Great Boss Battles"
 }

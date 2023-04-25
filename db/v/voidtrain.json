@@ -1,16 +1,33 @@
 {
   "ID": "301ec0fdbcaf46b3af9322e436ac87bd",
   "Name": "Voidtrain",
-  "Rating": 4.5,
-  "Ranking_Rating": 526,
-  "Ranking_Popularity": 446,
-  "Ranking_PopularitySum": 393,
-  "NumberOfRatings": 1305,
-  "NumberOfAwards": 102,
-  "NumberOfAwardsMax": 28,
-  "MaxAwardTitle": "Great for Beginners",
-  "FirstSeen": "2022-07-22T20:25:41.7165355+00:00",
-  "LastChanged": "2023-04-19T17:57:52.6061945+00:00",
+  "Tags": [
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 28
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 26
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 21
+    },
+    {
+      "Text": "This game has Easy Combat",
+      "Prefix": "This game has",
+      "Type": "Easy Combat",
+      "Count": 27
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:41.7165358+00:00",
@@ -705,30 +722,19 @@
       "NumberOfAwardsMax": 28
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 28
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 26
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 21
-    },
-    {
-      "Text": "This game has Easy Combat",
-      "Prefix": "This game has",
-      "Type": "Easy Combat",
-      "Count": 27
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-19T17:57:52.6061945+00:00",
+  "FirstSeen": "2022-07-22T20:25:41.7165355+00:00",
+  "NumberOfAwardsMax": 28,
+  "NumberOfAwards": 102,
+  "NumberOfRatings": 1305,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 393,
+  "Ranking_Popularity": 446,
+  "Ranking_Rating": 526,
+  "Rating": 4.5,
+  "MaxAwardTitle": "Great for Beginners"
 }

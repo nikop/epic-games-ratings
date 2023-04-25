@@ -1,16 +1,63 @@
 {
   "ID": "53310576ce1d4446b20dbbdac4f09f2d",
   "Name": "A Total War Saga: TROY",
-  "Rating": 4.51,
-  "Ranking_Rating": 509,
-  "Ranking_Popularity": 111,
-  "Ranking_PopularitySum": 75,
-  "NumberOfRatings": 6316,
-  "NumberOfAwards": 11200,
-  "NumberOfAwardsMax": 1552,
-  "MaxAwardTitle": "Diverse Characters",
-  "FirstSeen": "2022-07-22T20:20:30.5035149+00:00",
-  "LastChanged": "2023-04-24T19:57:26.2839827+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 1552
+    },
+    {
+      "Text": "This game is Educational",
+      "Prefix": "This game is",
+      "Type": "Educational",
+      "Count": 1444
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 1434
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 1353
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 1410
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 1340
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 1317
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 1004
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 1350
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:30.5035153+00:00",
@@ -3304,60 +3351,19 @@
       "NumberOfAwardsMax": 1552
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 1552
-    },
-    {
-      "Text": "This game is Educational",
-      "Prefix": "This game is",
-      "Type": "Educational",
-      "Count": 1444
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 1434
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 1353
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 1410
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 1340
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 1317
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 1004
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 1350
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-24T19:57:26.2839827+00:00",
+  "FirstSeen": "2022-07-22T20:20:30.5035149+00:00",
+  "NumberOfAwardsMax": 1552,
+  "NumberOfAwards": 11200,
+  "NumberOfRatings": 6316,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 75,
+  "Ranking_Popularity": 111,
+  "Ranking_Rating": 509,
+  "Rating": 4.51,
+  "MaxAwardTitle": "Diverse Characters"
 }

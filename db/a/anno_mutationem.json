@@ -1,15 +1,14 @@
 {
   "ID": "52a92e2c71b54d58a249946982a0a379",
   "Name": "ANNO Mutationem",
-  "Rating": 4.55,
-  "Ranking_Rating": 464,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-09-25T10:31:45.2250496+00:00",
-  "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
-  "LastChanged": "2023-03-31T05:57:44.802254+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:07.7470221+00:00",
+      "NumProgressed": 590,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-11-06T22:57:11.9823156+00:00",
@@ -66,5 +65,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 590,
+  "LastChanged": "2023-03-31T05:57:44.802254+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
+  "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
+  "FirstSeen": "2022-09-25T10:31:45.2250496+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 157,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 464,
+  "Rating": 4.55
 }

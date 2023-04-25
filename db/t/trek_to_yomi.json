@@ -1,15 +1,8 @@
 {
   "ID": "2d2a077b8b7f450299ecd7068256aec4",
   "Name": "Trek to Yomi",
-  "Rating": 4.22,
-  "Ranking_Rating": 789,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:32:48.9516719+00:00",
-  "FirstSeenRating": "2022-11-05T21:02:46.105009+00:00",
-  "LastChanged": "2023-04-16T15:59:29.585454+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-11-05T21:02:46.1050093+00:00",
@@ -36,5 +29,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-16T15:59:29.585454+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:44.0276808+00:00",
+  "FirstSeenRating": "2022-11-05T21:02:46.105009+00:00",
+  "FirstSeen": "2022-07-22T20:32:48.9516719+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 789,
+  "Rating": 4.22
 }

@@ -1,16 +1,69 @@
 {
   "ID": "84c76746bce94effb8e1047fabfd7eb7",
   "Name": "World of Warships",
-  "Rating": 4.43,
-  "Ranking_Rating": 631,
-  "Ranking_Popularity": 131,
-  "Ranking_PopularitySum": 82,
-  "NumberOfRatings": 4733,
-  "NumberOfAwards": 8896,
-  "NumberOfAwardsMax": 1014,
-  "MaxAwardTitle": "Relaxing",
-  "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
-  "LastChanged": "2023-04-25T14:57:27.2243259+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 949
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
+      "Count": 948
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 933
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 1001
+    },
+    {
+      "Text": "This game has Realistic Visuals",
+      "Prefix": "This game has",
+      "Type": "Realistic Visuals",
+      "Count": 844
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 961
+    },
+    {
+      "Text": "This game has a Competitive Community",
+      "Prefix": "This game has a",
+      "Type": "Competitive Community",
+      "Count": 713
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 814
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 719
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 1014
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:02.7521929+00:00",
@@ -3682,66 +3735,19 @@
       "NumberOfAwardsMax": 1014
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Challenging Combat",
-      "Prefix": "This game has",
-      "Type": "Challenging Combat",
-      "Count": 949
-    },
-    {
-      "Text": "This game has Competitive Players",
-      "Prefix": "This game has",
-      "Type": "Competitive Players",
-      "Count": 948
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 933
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 1001
-    },
-    {
-      "Text": "This game has Realistic Visuals",
-      "Prefix": "This game has",
-      "Type": "Realistic Visuals",
-      "Count": 844
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 961
-    },
-    {
-      "Text": "This game has a Competitive Community",
-      "Prefix": "This game has a",
-      "Type": "Competitive Community",
-      "Count": 713
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 814
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 719
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 1014
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-25T14:57:27.2243259+00:00",
+  "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
+  "NumberOfAwardsMax": 1014,
+  "NumberOfAwards": 8896,
+  "NumberOfRatings": 4733,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 82,
+  "Ranking_Popularity": 131,
+  "Ranking_Rating": 631,
+  "Rating": 4.43,
+  "MaxAwardTitle": "Relaxing"
 }

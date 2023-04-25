@@ -1,11 +1,8 @@
 {
   "ID": "8dcfcaf1aa72402fa2e84897f6cccc50",
   "Name": "Scathe",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-04-24T10:58:16.8028395+00:00",
-  "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
-  "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-04-24T10:58:16.8028422+00:00",
@@ -14,5 +11,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
+  "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
+  "FirstSeen": "2023-04-24T10:58:16.8028395+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

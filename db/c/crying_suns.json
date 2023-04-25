@@ -1,16 +1,21 @@
 {
   "ID": "0a4fc789eb0143c29296de79df5387ab",
   "Name": "Crying Suns",
-  "Rating": 4.5,
-  "Ranking_Rating": 526,
-  "Ranking_Popularity": 251,
-  "Ranking_PopularitySum": 346,
-  "NumberOfRatings": 1003,
-  "NumberOfAwards": 209,
-  "NumberOfAwardsMax": 209,
-  "MaxAwardTitle": "Character Customization",
-  "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
-  "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 209
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:13.4102446+00:00",
+      "NumProgressed": 456583,
+      "NumCompleted": 14
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:25.9606457+00:00",
@@ -518,12 +523,20 @@
       "NumberOfAwardsMax": 209
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "This game has Inclusive",
-      "Type": "Character Customization",
-      "Count": 209
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 14,
+  "EOS_Progressed": 456583,
+  "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
+  "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
+  "NumberOfAwardsMax": 209,
+  "NumberOfAwards": 209,
+  "NumberOfRatings": 1003,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 27,
+  "Ranking_PopularitySum": 346,
+  "Ranking_Popularity": 251,
+  "Ranking_Rating": 526,
+  "Rating": 4.5,
+  "MaxAwardTitle": "Character Customization"
 }

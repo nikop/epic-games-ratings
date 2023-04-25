@@ -1,15 +1,14 @@
 {
   "ID": "ba50f06379bd4ae18bad48d1b2f950ac",
   "Name": "Lamentum",
-  "Rating": 4.37,
-  "Ranking_Rating": 693,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:26:03.7136517+00:00",
-  "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
-  "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:34.4947976+00:00",
+      "NumProgressed": 265,
+      "NumCompleted": 8
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-10-04T02:32:44.3620859+00:00",
@@ -50,5 +49,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 3.02,
+  "EOS_Completed": 8,
+  "EOS_Progressed": 265,
+  "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
+  "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
+  "FirstSeen": "2022-07-22T20:26:03.7136517+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 7,
+  "Ranking_EOS_Progress": 171,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 693,
+  "Rating": 4.37
 }

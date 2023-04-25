@@ -1,11 +1,8 @@
 {
   "ID": "7c78d5735cc847aba154093ca9a5e112",
   "Name": "Project Warlock II",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:32:02.9588509+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:39.6938407+00:00",
-  "LastChanged": "2023-03-31T05:58:39.6938408+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:39.693841+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:39.6938408+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:39.6938407+00:00",
+  "FirstSeen": "2022-07-22T20:32:02.9588509+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

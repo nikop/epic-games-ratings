@@ -1,11 +1,8 @@
 {
   "ID": "308e3d687093412598ea6a52c5acfa20",
   "Name": "Asterix and Obelix XXXL - The Ram of Hibernia",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-11-10T19:57:18.0487096+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:24.3004282+00:00",
-  "LastChanged": "2023-03-31T05:57:24.3004283+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:24.3004285+00:00",
@@ -14,5 +11,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:24.3004283+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:32.4185327+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:24.3004282+00:00",
+  "FirstSeen": "2022-11-10T19:57:18.0487096+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

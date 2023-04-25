@@ -1,11 +1,14 @@
 {
   "ID": "09f00180b25347bdb65ac0b7378756b7",
   "Name": "Gigapocalypse",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-03-23T21:57:50.7101108+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
-  "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:25.0690428+00:00",
+      "NumProgressed": 112,
+      "NumCompleted": 1
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:53.858389+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0.89,
+  "EOS_Completed": 1,
+  "EOS_Progressed": 112,
+  "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
+  "FirstSeen": "2023-03-23T21:57:50.7101108+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

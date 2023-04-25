@@ -1,16 +1,81 @@
 {
   "ID": "e1e92771f6774072bb1b8d0a0a6197f7",
   "Name": "Wonder Boy The Dragons Trap",
-  "Rating": 4.44,
-  "Ranking_Rating": 618,
-  "Ranking_Popularity": 374,
-  "Ranking_PopularitySum": 302,
-  "NumberOfRatings": 3047,
-  "NumberOfAwards": 385,
-  "NumberOfAwardsMax": 59,
-  "MaxAwardTitle": "Relaxing",
-  "FirstSeen": "2022-07-22T20:30:29.5801015+00:00",
-  "LastChanged": "2022-11-27T23:57:52.0102091+00:00",
+  "Tags": [
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 59
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 51
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 45
+    },
+    {
+      "Text": "This game is Educational",
+      "Prefix": "",
+      "Type": "",
+      "Count": 24
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "",
+      "Type": "",
+      "Count": 32
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Prefix": "",
+      "Type": "",
+      "Count": 33
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 43
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 53
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 38
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 42
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 32
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 22
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:29.5801017+00:00",
@@ -995,78 +1060,20 @@
       "Rating": 4.44
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 59
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 51
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 45
-    },
-    {
-      "Text": "This game is Educational",
-      "Prefix": "",
-      "Type": "",
-      "Count": 24
-    },
-    {
-      "Text": "This game has Challenging Combat",
-      "Prefix": "",
-      "Type": "",
-      "Count": 32
-    },
-    {
-      "Text": "This game is Great for Quick Sessions",
-      "Prefix": "",
-      "Type": "",
-      "Count": 33
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 43
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 53
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 38
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 42
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 32
-    },
-    {
-      "Text": "This game has a Creative Community",
-      "Prefix": "This game has a",
-      "Type": "Creative Community",
-      "Count": 22
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2022-11-27T23:57:52.0102091+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:14:35.8235457+00:00",
+  "FirstSeen": "2022-07-22T20:30:29.5801015+00:00",
+  "NumberOfAwardsMax": 59,
+  "NumberOfAwards": 385,
+  "NumberOfRatings": 3047,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 302,
+  "Ranking_Popularity": 374,
+  "Ranking_Rating": 618,
+  "Rating": 4.44,
+  "MaxAwardTitle": "Relaxing"
 }

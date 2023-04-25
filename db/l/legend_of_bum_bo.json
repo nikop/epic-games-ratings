@@ -1,11 +1,8 @@
 {
   "ID": "ae7464ff84d042a1903ba0b8063e4b52",
   "Name": "Legend of Bum bo",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:30:49.0354008+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:31.6881816+00:00",
-  "LastChanged": "2023-03-31T05:58:31.6881818+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:31.688182+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:31.6881818+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:31.6881816+00:00",
+  "FirstSeen": "2022-07-22T20:30:49.0354008+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

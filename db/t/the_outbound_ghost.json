@@ -1,11 +1,8 @@
 {
   "ID": "057d6f9b0cd24dc188dd81193c02837b",
   "Name": "The Outbound Ghost",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-09-27T15:02:49.6831581+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:15.4326938+00:00",
-  "LastChanged": "2023-03-31T05:58:15.4326939+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:15.4326941+00:00",
@@ -14,5 +11,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:15.4326939+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:14:09.5003214+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:15.4326938+00:00",
+  "FirstSeen": "2022-09-27T15:02:49.6831581+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

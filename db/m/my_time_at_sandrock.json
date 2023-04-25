@@ -1,16 +1,81 @@
 {
   "ID": "e65d8864e0e84d6eb7fe228b2041c15f",
   "Name": "My Time at Sandrock",
-  "Rating": 4.68,
-  "Ranking_Rating": 232,
-  "Ranking_Popularity": 170,
-  "Ranking_PopularitySum": 218,
-  "NumberOfRatings": 892,
-  "NumberOfAwards": 1183,
-  "NumberOfAwardsMax": 551,
-  "MaxAwardTitle": "Character Customization",
-  "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
-  "LastChanged": "2023-04-25T13:59:16.5417311+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 551
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 75
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 40
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 72
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 69
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 61
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 70
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 61
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 62
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 64
+    },
+    {
+      "Text": "This game has a Kind Community",
+      "Prefix": "This game has a",
+      "Type": "Kind Community",
+      "Count": 42
+    },
+    {
+      "Text": "This game has Easy Combat",
+      "Prefix": "This game has",
+      "Type": "Easy Combat",
+      "Count": 56
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:47.6872012+00:00",
@@ -681,78 +746,20 @@
       "NumberOfAwardsMax": 551
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "This game has Inclusive",
-      "Type": "Character Customization",
-      "Count": 551
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 75
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 40
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 72
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 69
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 61
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 70
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 61
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 62
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 64
-    },
-    {
-      "Text": "This game has a Kind Community",
-      "Prefix": "This game has a",
-      "Type": "Kind Community",
-      "Count": 42
-    },
-    {
-      "Text": "This game has Easy Combat",
-      "Prefix": "This game has",
-      "Type": "Easy Combat",
-      "Count": 56
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-25T13:59:16.5417311+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
+  "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
+  "NumberOfAwardsMax": 551,
+  "NumberOfAwards": 1183,
+  "NumberOfRatings": 892,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 218,
+  "Ranking_Popularity": 170,
+  "Ranking_Rating": 232,
+  "Rating": 4.68,
+  "MaxAwardTitle": "Character Customization"
 }

@@ -1,11 +1,8 @@
 {
   "ID": "c7972c422a454601a7d5a52ca3d878da",
   "Name": "Ghost Master",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-09-16T15:01:12.2114171+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:10.1197386+00:00",
-  "LastChanged": "2023-03-31T05:57:10.1197387+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:10.1197389+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:10.1197387+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:10.1197386+00:00",
+  "FirstSeen": "2022-09-16T15:01:12.2114171+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

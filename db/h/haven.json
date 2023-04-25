@@ -1,15 +1,14 @@
 {
   "ID": "2d831f372e6343cc85cceda5c9c808cf",
   "Name": "Haven",
-  "Rating": 4.72,
-  "Ranking_Rating": 164,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 38,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
-  "LastChanged": "2023-04-14T04:56:59.9858894+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:19.3415137+00:00",
+      "NumProgressed": 1094,
+      "NumCompleted": 8
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:00.7905866+00:00",
@@ -149,5 +148,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0.73,
+  "EOS_Completed": 8,
+  "EOS_Progressed": 1094,
+  "LastChanged": "2023-04-14T04:56:59.9858894+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
+  "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 38,
+  "Ranking_EOS_Completed": 28,
+  "Ranking_EOS_Progress": 141,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 164,
+  "Rating": 4.72
 }

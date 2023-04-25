@@ -1,16 +1,21 @@
 {
   "ID": "9359fa123dbf4b89b7d70be316d7810c",
   "Name": "while True: learn()",
-  "Rating": 4.51,
-  "Ranking_Rating": 509,
-  "Ranking_Popularity": 289,
-  "Ranking_PopularitySum": 381,
-  "NumberOfRatings": 896,
-  "NumberOfAwards": 131,
-  "NumberOfAwardsMax": 131,
-  "MaxAwardTitle": "Challenging Puzzles",
-  "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
-  "LastChanged": "2023-01-16T15:57:42.1375211+00:00",
+  "Tags": [
+    {
+      "Text": "This game features Challenging Puzzles",
+      "Prefix": "This game features",
+      "Type": "Challenging Puzzles",
+      "Count": 131
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:23.0744987+00:00",
+      "NumProgressed": 585683,
+      "NumCompleted": 473
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:21.2313835+00:00",
@@ -454,12 +459,20 @@
       "Rating": 4.51
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game features Challenging Puzzles",
-      "Prefix": "This game features",
-      "Type": "Challenging Puzzles",
-      "Count": 131
-    }
-  ]
+  "EOS_Completed_Percentage": 0.08,
+  "EOS_Completed": 473,
+  "EOS_Progressed": 585683,
+  "LastChanged": "2023-01-16T15:57:42.1375211+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
+  "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
+  "NumberOfAwardsMax": 131,
+  "NumberOfAwards": 131,
+  "NumberOfRatings": 896,
+  "Ranking_EOS_Completed": 85,
+  "Ranking_EOS_Progress": 20,
+  "Ranking_PopularitySum": 381,
+  "Ranking_Popularity": 289,
+  "Ranking_Rating": 509,
+  "Rating": 4.51,
+  "MaxAwardTitle": "Challenging Puzzles"
 }

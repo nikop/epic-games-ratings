@@ -1,16 +1,69 @@
 {
   "ID": "eb99ee4694474e8da0b05a8ab391825c",
   "Name": "PUBG: BATTLEGROUNDS",
-  "Rating": 3.98,
-  "Ranking_Rating": 875,
-  "Ranking_Popularity": 109,
-  "Ranking_PopularitySum": 117,
-  "NumberOfAwards": 5253,
-  "NumberOfAwardsMax": 1620,
-  "MaxAwardTitle": "Competitive Players",
-  "FirstSeen": "2022-12-06T17:57:24.6501738+00:00",
-  "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
-  "LastChanged": "2023-04-25T15:57:14.781627+00:00",
+  "Tags": [
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 1287
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "",
+      "Type": "",
+      "Count": 122
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 1416
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "",
+      "Type": "",
+      "Count": 53
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
+      "Count": 1620
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 1390
+    },
+    {
+      "Text": "This game has a Competitive Community",
+      "Prefix": "This game has a",
+      "Type": "Competitive Community",
+      "Count": 930
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "",
+      "Type": "",
+      "Count": 57
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "",
+      "Type": "",
+      "Count": 76
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:22.6020274+00:00",
+      "NumProgressed": 336204,
+      "NumCompleted": 7
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-12-08T10:57:21.6139883+00:00",
@@ -901,60 +954,20 @@
       "NumberOfAwardsMax": 1620
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 1287
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "",
-      "Type": "",
-      "Count": 122
-    },
-    {
-      "Text": "This game has Challenging Combat",
-      "Prefix": "This game has",
-      "Type": "Challenging Combat",
-      "Count": 1416
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "",
-      "Type": "",
-      "Count": 53
-    },
-    {
-      "Text": "This game has Competitive Players",
-      "Prefix": "This game has",
-      "Type": "Competitive Players",
-      "Count": 1620
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 1390
-    },
-    {
-      "Text": "This game has a Competitive Community",
-      "Prefix": "This game has a",
-      "Type": "Competitive Community",
-      "Count": 930
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "",
-      "Type": "",
-      "Count": 57
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "",
-      "Type": "",
-      "Count": 76
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 7,
+  "EOS_Progressed": 336204,
+  "LastChanged": "2023-04-25T15:57:14.781627+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
+  "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
+  "FirstSeen": "2022-12-06T17:57:24.6501738+00:00",
+  "NumberOfAwardsMax": 1620,
+  "NumberOfAwards": 5253,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 34,
+  "Ranking_PopularitySum": 117,
+  "Ranking_Popularity": 109,
+  "Ranking_Rating": 875,
+  "Rating": 3.98,
+  "MaxAwardTitle": "Competitive Players"
 }

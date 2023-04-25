@@ -1,11 +1,14 @@
 {
   "ID": "0702e42d70eb4d8fbb9293e332047474",
   "Name": "Charon\u0027s Staircase",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-10-28T17:03:13.9470339+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:38.6125588+00:00",
-  "LastChanged": "2023-03-31T05:58:38.6125589+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:31.3534175+00:00",
+      "NumProgressed": 68,
+      "NumCompleted": 2
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:38.612559+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 2.94,
+  "EOS_Completed": 2,
+  "EOS_Progressed": 68,
+  "LastChanged": "2023-03-31T05:58:38.6125589+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:31.3534182+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:38.6125588+00:00",
+  "FirstSeen": "2022-10-28T17:03:13.9470339+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

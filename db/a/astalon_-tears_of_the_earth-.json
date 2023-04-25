@@ -1,11 +1,14 @@
 {
   "ID": "5e09944aaced4155ac9463196b5deada",
   "Name": "Astalon -Tears of the Earth-",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:18:20.7821607+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
-  "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:01.3708206+00:00",
+      "NumProgressed": 52,
+      "NumCompleted": 2
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:06.6585969+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 3.85,
+  "EOS_Completed": 2,
+  "EOS_Progressed": 52,
+  "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
+  "FirstSeen": "2022-07-22T20:18:20.7821607+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

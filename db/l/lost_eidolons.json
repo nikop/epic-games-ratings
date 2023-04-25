@@ -1,15 +1,14 @@
 {
   "ID": "de3677b7bac547128656ac18c5b2f298",
   "Name": "Lost Eidolons",
-  "Rating": 4.3,
-  "Ranking_Rating": 748,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-10-14T09:31:01.0806081+00:00",
-  "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
-  "LastChanged": "2023-03-31T05:57:09.8238561+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:06.7777663+00:00",
+      "NumProgressed": 840,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-10-20T13:00:36.1264313+00:00",
@@ -142,5 +141,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 840,
+  "LastChanged": "2023-03-31T05:57:09.8238561+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
+  "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
+  "FirstSeen": "2022-10-14T09:31:01.0806081+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 148,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 748,
+  "Rating": 4.3
 }

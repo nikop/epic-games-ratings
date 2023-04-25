@@ -1,11 +1,8 @@
 {
   "ID": "d049bcea95934599a0ed1b44204c85a7",
   "Name": "Franchise Hockey Manager 9",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-11-14T23:58:25.8055902+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:16.2162055+00:00",
-  "LastChanged": "2023-03-31T05:58:16.2162056+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:16.2162057+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:16.2162056+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:16.2162055+00:00",
+  "FirstSeen": "2022-11-14T23:58:25.8055902+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

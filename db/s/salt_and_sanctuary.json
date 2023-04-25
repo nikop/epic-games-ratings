@@ -1,16 +1,75 @@
 {
   "ID": "79d9bff700bb46a790b21e8c73b34899",
   "Name": "Salt and Sanctuary",
-  "Rating": 4.61,
-  "Ranking_Rating": 348,
-  "Ranking_Popularity": 232,
-  "Ranking_PopularitySum": 190,
-  "NumberOfRatings": 3114,
-  "NumberOfAwards": 1864,
-  "NumberOfAwardsMax": 266,
-  "MaxAwardTitle": "Challenging Combat",
-  "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
-  "LastChanged": "2023-04-23T23:58:01.0057834+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 248
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 224
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 266
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 246
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 226
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 218
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Prefix": "This game has",
+      "Type": "Unique Visuals",
+      "Count": 213
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 223
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 164
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "",
+      "Type": "",
+      "Count": 94
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:14:33.5826302+00:00",
+      "NumProgressed": 518688,
+      "NumCompleted": 1387
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:22.098302+00:00",
@@ -2037,66 +2096,20 @@
       "NumberOfAwardsMax": 266
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 248
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 224
-    },
-    {
-      "Text": "This game has Challenging Combat",
-      "Prefix": "This game has",
-      "Type": "Challenging Combat",
-      "Count": 266
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 246
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 226
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 218
-    },
-    {
-      "Text": "This game has Unique Visuals",
-      "Prefix": "This game has",
-      "Type": "Unique Visuals",
-      "Count": 213
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 223
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 164
-    },
-    {
-      "Text": "This game has a Creative Community",
-      "Prefix": "",
-      "Type": "",
-      "Count": 94
-    }
-  ]
+  "EOS_Completed_Percentage": 0.27,
+  "EOS_Completed": 1387,
+  "EOS_Progressed": 518688,
+  "LastChanged": "2023-04-23T23:58:01.0057834+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
+  "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
+  "NumberOfAwardsMax": 266,
+  "NumberOfAwards": 1864,
+  "NumberOfRatings": 3114,
+  "Ranking_EOS_Completed": 55,
+  "Ranking_EOS_Progress": 23,
+  "Ranking_PopularitySum": 190,
+  "Ranking_Popularity": 232,
+  "Ranking_Rating": 348,
+  "Rating": 4.61,
+  "MaxAwardTitle": "Challenging Combat"
 }

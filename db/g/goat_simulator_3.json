@@ -1,16 +1,81 @@
 {
   "ID": "50bbaf85f4454b1c88786efeede5b302",
   "Name": "Goat Simulator 3",
-  "Rating": 4.85,
-  "Ranking_Rating": 37,
-  "Ranking_Popularity": 223,
-  "Ranking_PopularitySum": 163,
-  "NumberOfAwards": 2544,
-  "NumberOfAwardsMax": 300,
-  "MaxAwardTitle": "Great for Beginners",
-  "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
-  "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
-  "LastChanged": "2023-04-25T13:57:44.3682345+00:00",
+  "Tags": [
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 245
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 251
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 251
+    },
+    {
+      "Text": "This game has a Silly Community",
+      "Prefix": "This game has a",
+      "Type": "Silly Community",
+      "Count": 221
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 300
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 275
+    },
+    {
+      "Text": "This game is Educational",
+      "Prefix": "",
+      "Type": "",
+      "Count": 158
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 267
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 245
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 278
+    },
+    {
+      "Text": "This game has Easy Combat",
+      "Prefix": "This game has",
+      "Type": "Easy Combat",
+      "Count": 211
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:37.2764639+00:00",
+      "NumProgressed": 214030,
+      "NumCompleted": 684
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-11-17T20:57:24.0090353+00:00",
@@ -785,72 +850,20 @@
       "NumberOfAwardsMax": 300
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 245
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 251
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 251
-    },
-    {
-      "Text": "This game has a Silly Community",
-      "Prefix": "This game has a",
-      "Type": "Silly Community",
-      "Count": 221
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 300
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 275
-    },
-    {
-      "Text": "This game is Educational",
-      "Prefix": "",
-      "Type": "",
-      "Count": 158
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 267
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 245
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 278
-    },
-    {
-      "Text": "This game has Easy Combat",
-      "Prefix": "This game has",
-      "Type": "Easy Combat",
-      "Count": 211
-    }
-  ]
+  "EOS_Completed_Percentage": 0.32,
+  "EOS_Completed": 684,
+  "EOS_Progressed": 214030,
+  "LastChanged": "2023-04-25T13:57:44.3682345+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
+  "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
+  "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
+  "NumberOfAwardsMax": 300,
+  "NumberOfAwards": 2544,
+  "Ranking_EOS_Completed": 46,
+  "Ranking_EOS_Progress": 44,
+  "Ranking_PopularitySum": 163,
+  "Ranking_Popularity": 223,
+  "Ranking_Rating": 37,
+  "Rating": 4.85,
+  "MaxAwardTitle": "Great for Beginners"
 }

@@ -1,11 +1,8 @@
 {
   "ID": "ea533c2d54754167a9392a2ffa61bb87",
   "Name": "LEGO\u00AE Builder\u0027s Journey",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:30:30.3297176+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:30.0001664+00:00",
-  "LastChanged": "2023-03-31T05:58:30.0001665+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:30.0001666+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:30.0001665+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:30.0001664+00:00",
+  "FirstSeen": "2022-07-22T20:30:30.3297176+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

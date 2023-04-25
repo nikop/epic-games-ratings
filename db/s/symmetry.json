@@ -1,11 +1,8 @@
 {
   "ID": "9a85a766e38c4013b9e33b225f83ae98",
   "Name": "SYMMETRY",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:29:22.6577878+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:20.6109921+00:00",
-  "LastChanged": "2023-03-31T05:58:20.6109922+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:20.6109924+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:20.6109922+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:20.6109921+00:00",
+  "FirstSeen": "2022-07-22T20:29:22.6577878+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

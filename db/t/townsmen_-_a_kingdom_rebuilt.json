@@ -1,15 +1,14 @@
 {
   "ID": "45a3134e24b3470dbd9ea94d17b3507b",
   "Name": "Townsmen - A Kingdom Rebuilt",
-  "Rating": 4.32,
-  "Ranking_Rating": 736,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 37,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
-  "LastChanged": "2023-03-31T05:56:58.5207479+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:08:46.2656162+00:00",
+      "NumProgressed": 4046,
+      "NumCompleted": 3
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:10.6515248+00:00",
@@ -172,5 +171,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0.07,
+  "EOS_Completed": 3,
+  "EOS_Progressed": 4046,
+  "LastChanged": "2023-03-31T05:56:58.5207479+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
+  "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 37,
+  "Ranking_EOS_Completed": 88,
+  "Ranking_EOS_Progress": 119,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 736,
+  "Rating": 4.32
 }

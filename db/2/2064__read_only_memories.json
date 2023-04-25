@@ -1,15 +1,8 @@
 {
   "ID": "5b08e4db33c54e518c2a1360cc2c7f18",
   "Name": "2064: Read Only Memories",
-  "Rating": 4.24,
-  "Ranking_Rating": 776,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:29:03.6056272+00:00",
-  "FirstSeenRating": "2022-10-09T09:33:27.3361075+00:00",
-  "LastChanged": "2023-03-31T05:58:17.7609638+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-10-09T09:33:27.3361077+00:00",
@@ -42,5 +35,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:17.7609638+00:00",
+  "FirstSeenRating": "2022-10-09T09:33:27.3361075+00:00",
+  "FirstSeen": "2022-07-22T20:29:03.6056272+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 776,
+  "Rating": 4.24
 }

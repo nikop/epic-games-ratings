@@ -1,16 +1,75 @@
 {
   "ID": "6009be9994c2409099588cde6f3a5ed0",
   "Name": "Cities: Skylines",
-  "Rating": 4.65,
-  "Ranking_Rating": 287,
-  "Ranking_Popularity": 68,
-  "Ranking_PopularitySum": 33,
-  "NumberOfRatings": 25248,
-  "NumberOfAwards": 33132,
-  "NumberOfAwardsMax": 4341,
-  "MaxAwardTitle": "Relaxing",
-  "FirstSeen": "2022-07-22T20:19:44.6167524+00:00",
-  "LastChanged": "2023-04-25T15:57:10.0724799+00:00",
+  "Tags": [
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 4328
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 4341
+    },
+    {
+      "Text": "This game is Educational",
+      "Prefix": "This game is",
+      "Type": "Educational",
+      "Count": 4055
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 4056
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 3708
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 2497
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 3816
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 3148
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 2972
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 2708
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:11.6011702+00:00",
+      "NumProgressed": 683066,
+      "NumCompleted": 4
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:44.6167527+00:00",
@@ -4154,66 +4213,20 @@
       "NumberOfAwardsMax": 4341
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 4328
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 4341
-    },
-    {
-      "Text": "This game is Educational",
-      "Prefix": "This game is",
-      "Type": "Educational",
-      "Count": 4055
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 4056
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 3708
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 2497
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 3816
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 3148
-    },
-    {
-      "Text": "This game has a Creative Community",
-      "Prefix": "This game has a",
-      "Type": "Creative Community",
-      "Count": 2972
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 2708
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 4,
+  "EOS_Progressed": 683066,
+  "LastChanged": "2023-04-25T15:57:10.0724799+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:11.6011712+00:00",
+  "FirstSeen": "2022-07-22T20:19:44.6167524+00:00",
+  "NumberOfAwardsMax": 4341,
+  "NumberOfAwards": 33132,
+  "NumberOfRatings": 25248,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 15,
+  "Ranking_PopularitySum": 33,
+  "Ranking_Popularity": 68,
+  "Ranking_Rating": 287,
+  "Rating": 4.65,
+  "MaxAwardTitle": "Relaxing"
 }

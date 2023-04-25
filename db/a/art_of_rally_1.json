@@ -1,15 +1,14 @@
 {
   "ID": "4751c4f6a96547209a33831d847d2810",
   "Name": "Art of Rally",
-  "Rating": 4.86,
-  "Ranking_Rating": 28,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 56,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
-  "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:17.9428922+00:00",
+      "NumProgressed": 9958,
+      "NumCompleted": 9
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:53.7171964+00:00",
@@ -183,5 +182,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0.09,
+  "EOS_Completed": 9,
+  "EOS_Progressed": 9958,
+  "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
+  "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 56,
+  "Ranking_EOS_Completed": 81,
+  "Ranking_EOS_Progress": 101,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 28,
+  "Rating": 4.86
 }

@@ -1,15 +1,8 @@
 {
   "ID": "3819de76dedf4cd2aebbcf9279e23e43",
   "Name": "DARQ: Complete Edition",
-  "Rating": 4.44,
-  "Ranking_Rating": 618,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 388,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:18:45.2388208+00:00",
-  "LastChanged": "2023-03-31T05:57:09.289102+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:45.2388211+00:00",
@@ -396,5 +389,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:09.289102+00:00",
+  "FirstSeen": "2022-07-22T20:18:45.2388208+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 388,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 618,
+  "Rating": 4.44
 }

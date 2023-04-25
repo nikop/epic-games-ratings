@@ -1,17 +1,75 @@
 {
   "ID": "428115def4ca4deea9d69c99c5a5a99e",
   "Name": "Destiny 2",
-  "Rating": 4.5,
-  "Ranking_Rating": 526,
-  "Ranking_Popularity": 12,
-  "Ranking_PopularitySum": 16,
-  "NumberOfRatings": 32207,
-  "NumberOfAwards": 80230,
-  "NumberOfAwardsMax": 33226,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-08-23T20:00:58.6908762+00:00",
-  "FirstSeenRating": "2022-08-24T03:30:20.9735605+00:00",
-  "LastChanged": "2023-04-25T15:57:01.0436602+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 33226
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 5939
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 5921
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 5914
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 5673
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 6459
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 5631
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 5860
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
+      "Count": 5607
+    },
+    {
+      "Text": "This game has Obsessive Gameplay",
+      "Prefix": "",
+      "Type": "",
+      "Count": 3329
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:08:52.6483721+00:00",
+      "NumProgressed": 381047,
+      "NumCompleted": 11126
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-08-24T03:30:20.973561+00:00",
@@ -2884,66 +2942,21 @@
       "NumberOfAwardsMax": 33226
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 33226
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 5939
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 5921
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 5914
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 5673
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 6459
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 5631
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 5860
-    },
-    {
-      "Text": "This game has Competitive Players",
-      "Prefix": "This game has",
-      "Type": "Competitive Players",
-      "Count": 5607
-    },
-    {
-      "Text": "This game has Obsessive Gameplay",
-      "Prefix": "",
-      "Type": "",
-      "Count": 3329
-    }
-  ]
+  "EOS_Completed_Percentage": 2.92,
+  "EOS_Completed": 11126,
+  "EOS_Progressed": 381047,
+  "LastChanged": "2023-04-25T15:57:01.0436602+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:08:52.6483728+00:00",
+  "FirstSeenRating": "2022-08-24T03:30:20.9735605+00:00",
+  "FirstSeen": "2022-08-23T20:00:58.6908762+00:00",
+  "NumberOfAwardsMax": 33226,
+  "NumberOfAwards": 80230,
+  "NumberOfRatings": 32207,
+  "Ranking_EOS_Completed": 9,
+  "Ranking_EOS_Progress": 31,
+  "Ranking_PopularitySum": 16,
+  "Ranking_Popularity": 12,
+  "Ranking_Rating": 526,
+  "Rating": 4.5,
+  "MaxAwardTitle": "Great Boss Battles"
 }

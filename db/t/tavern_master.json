@@ -1,11 +1,8 @@
 {
   "ID": "5d98959c6b8e43ed9a856a2f7518f548",
   "Name": "Tavern Master",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-03-14T06:58:25.9911629+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:23.2935408+00:00",
-  "LastChanged": "2023-03-31T05:58:23.2935409+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:23.2935411+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:23.2935409+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:23.2935408+00:00",
+  "FirstSeen": "2023-03-14T06:58:25.9911629+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

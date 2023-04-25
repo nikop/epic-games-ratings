@@ -1,11 +1,8 @@
 {
   "ID": "cb27e4a1c1a345208e0c152df39f0b54",
   "Name": "Funtasia",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-10-29T15:02:10.1801053+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:08.6152542+00:00",
-  "LastChanged": "2023-03-31T05:58:08.6152543+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:08.6152546+00:00",
@@ -14,5 +11,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:08.6152543+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:51.2013126+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:08.6152542+00:00",
+  "FirstSeen": "2022-10-29T15:02:10.1801053+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

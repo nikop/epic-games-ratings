@@ -1,16 +1,63 @@
 {
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
-  "Rating": 3.92,
-  "Ranking_Rating": 884,
-  "Ranking_Popularity": 263,
-  "Ranking_PopularitySum": 232,
-  "NumberOfAwards": 876,
-  "NumberOfAwardsMax": 181,
-  "MaxAwardTitle": "Quickly Understood Controls",
-  "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
-  "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
-  "LastChanged": "2023-04-25T13:57:09.4151137+00:00",
+  "Tags": [
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Prefix": "This game is",
+      "Type": "Great for Quick Sessions",
+      "Count": 70
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 180
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 173
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 181
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 165
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 52
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 177
+    },
+    {
+      "Text": "This game has a Silly Community",
+      "Prefix": "This game has a",
+      "Type": "Silly Community",
+      "Count": 33
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:08:51.3341254+00:00",
+      "NumProgressed": 55541,
+      "NumCompleted": 19
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-29T02:58:45.3340124+00:00",
@@ -907,54 +954,20 @@
       "NumberOfAwardsMax": 181
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game is Great for Quick Sessions",
-      "Prefix": "This game is",
-      "Type": "Great for Quick Sessions",
-      "Count": 70
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 180
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 173
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 181
-    },
-    {
-      "Text": "This game has Challenging Combat",
-      "Prefix": "This game has",
-      "Type": "Challenging Combat",
-      "Count": 165
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 52
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 177
-    },
-    {
-      "Text": "This game has a Silly Community",
-      "Prefix": "This game has a",
-      "Type": "Silly Community",
-      "Count": 33
-    }
-  ]
+  "EOS_Completed_Percentage": 0.03,
+  "EOS_Completed": 19,
+  "EOS_Progressed": 55541,
+  "LastChanged": "2023-04-25T13:57:09.4151137+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
+  "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
+  "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
+  "NumberOfAwardsMax": 181,
+  "NumberOfAwards": 876,
+  "Ranking_EOS_Completed": 99,
+  "Ranking_EOS_Progress": 66,
+  "Ranking_PopularitySum": 232,
+  "Ranking_Popularity": 263,
+  "Ranking_Rating": 884,
+  "Rating": 3.92,
+  "MaxAwardTitle": "Quickly Understood Controls"
 }

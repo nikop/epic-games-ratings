@@ -1,16 +1,8 @@
 {
   "ID": "08142466e4104a018e149441d35dbabc",
   "Name": "The Legend of Heroes: Trails of Cold Steel IV",
-  "Rating": 4.88,
-  "Ranking_Rating": 18,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 26,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:20:41.6572311+00:00",
-  "FirstSeenRating": "2022-08-06T05:30:42.8443438+00:00",
-  "LastChanged": "2023-03-31T05:57:21.3833776+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-08-06T05:30:42.8444158+00:00",
@@ -65,5 +57,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:21.3833776+00:00",
+  "FirstSeenRating": "2022-08-06T05:30:42.8443438+00:00",
+  "FirstSeen": "2022-07-22T20:20:41.6572311+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 26,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 18,
+  "Rating": 4.88
 }

@@ -1,15 +1,8 @@
 {
   "ID": "4fece418b513465d9416a700db869585",
   "Name": "The Jackbox Party Pack 6",
-  "Rating": 4.7,
-  "Ranking_Rating": 190,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:19:37.8207588+00:00",
-  "FirstSeenRating": "2022-12-26T09:57:27.2250177+00:00",
-  "LastChanged": "2023-03-31T05:57:14.7244714+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-12-26T09:57:27.2250181+00:00",
@@ -22,5 +15,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:14.7244714+00:00",
+  "FirstSeenRating": "2022-12-26T09:57:27.2250177+00:00",
+  "FirstSeen": "2022-07-22T20:19:37.8207588+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 190,
+  "Rating": 4.7
 }

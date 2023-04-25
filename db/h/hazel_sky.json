@@ -1,11 +1,14 @@
 {
   "ID": "f3ad35f2d71a4369ad0f42741dbab5e8",
   "Name": "Hazel Sky",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-25T16:02:01.0466594+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:54.9235309+00:00",
-  "LastChanged": "2023-03-31T05:57:54.9235311+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:27.0387257+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:54.9235311+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 6,
+  "LastChanged": "2023-03-31T05:57:54.9235311+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:27.0387263+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:54.9235309+00:00",
+  "FirstSeen": "2022-07-25T16:02:01.0466594+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

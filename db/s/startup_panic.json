@@ -1,16 +1,8 @@
 {
   "ID": "92546d82a1d043ad8cff2c6c2cd78bb9",
   "Name": "Startup Panic",
-  "Rating": 4.38,
-  "Ranking_Rating": 684,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 28,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:23:21.1548714+00:00",
-  "FirstSeenRating": "2022-07-31T11:01:04.2055558+00:00",
-  "LastChanged": "2023-03-31T05:57:40.6669984+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-31T11:01:04.205556+00:00",
@@ -122,5 +114,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:40.6669984+00:00",
+  "FirstSeenRating": "2022-07-31T11:01:04.2055558+00:00",
+  "FirstSeen": "2022-07-22T20:23:21.1548714+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 28,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 684,
+  "Rating": 4.38
 }

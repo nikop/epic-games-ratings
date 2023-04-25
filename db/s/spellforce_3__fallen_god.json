@@ -1,15 +1,8 @@
 {
   "ID": "6ad92d14cc544743831d4f70c964d39d",
   "Name": "SpellForce 3: Fallen God",
-  "Rating": 4.48,
-  "Ranking_Rating": 561,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:22:03.4681811+00:00",
-  "FirstSeenRating": "2022-11-09T02:57:52.8290852+00:00",
-  "LastChanged": "2023-04-23T20:57:42.5127185+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-11-09T02:57:52.8290854+00:00",
@@ -48,5 +41,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-23T20:57:42.5127185+00:00",
+  "FirstSeenRating": "2022-11-09T02:57:52.8290852+00:00",
+  "FirstSeen": "2022-07-22T20:22:03.4681811+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 561,
+  "Rating": 4.48
 }

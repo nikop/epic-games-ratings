@@ -1,15 +1,14 @@
 {
   "ID": "1efd3d783b814b8b8548fb60c5983825",
   "Name": "IXION",
-  "Rating": 4.54,
-  "Ranking_Rating": 472,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-12-07T21:57:33.3706141+00:00",
-  "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
-  "LastChanged": "2023-04-15T23:57:44.9069514+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:33.1975701+00:00",
+      "NumProgressed": 1790,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-12-11T21:57:21.9707652+00:00",
@@ -162,5 +161,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 1790,
+  "LastChanged": "2023-04-15T23:57:44.9069514+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
+  "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
+  "FirstSeen": "2022-12-07T21:57:33.3706141+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 133,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 472,
+  "Rating": 4.54
 }

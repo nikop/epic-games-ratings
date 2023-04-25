@@ -1,16 +1,8 @@
 {
   "ID": "c61c00b965d9424b955ca4bd570b5b2d",
   "Name": "Lords and Villeins",
-  "Rating": 4.41,
-  "Ranking_Rating": 652,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 21,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:28:09.8590739+00:00",
-  "FirstSeenRating": "2022-09-13T22:32:26.3381653+00:00",
-  "LastChanged": "2023-03-31T05:57:58.5841169+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-09-13T22:32:26.3381656+00:00",
@@ -48,5 +40,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:58.5841169+00:00",
+  "FirstSeenRating": "2022-09-13T22:32:26.3381653+00:00",
+  "FirstSeen": "2022-07-22T20:28:09.8590739+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 21,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 652,
+  "Rating": 4.41
 }

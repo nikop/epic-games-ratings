@@ -1,11 +1,14 @@
 {
   "ID": "e966687f61fa4c40b1e53b45b6e4eb75",
   "Name": "Five Dates",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-10-18T05:01:58.3974344+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
-  "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:14:09.144074+00:00",
+      "NumProgressed": 329,
+      "NumCompleted": 3
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:14.2521097+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0.91,
+  "EOS_Completed": 3,
+  "EOS_Progressed": 329,
+  "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
+  "FirstSeen": "2022-10-18T05:01:58.3974344+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

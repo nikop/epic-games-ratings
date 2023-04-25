@@ -1,11 +1,14 @@
 {
   "ID": "be9b4a568a934573b2204f3fb97f8042",
   "Name": "Luna\u0027s Fishing Garden",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:24:08.9356043+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:45.8897635+00:00",
-  "LastChanged": "2023-03-31T05:57:45.8897637+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:09.7835451+00:00",
+      "NumProgressed": 665,
+      "NumCompleted": 42
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:45.8897638+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 6.32,
+  "EOS_Completed": 42,
+  "EOS_Progressed": 665,
+  "LastChanged": "2023-03-31T05:57:45.8897637+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:09.7835458+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:45.8897635+00:00",
+  "FirstSeen": "2022-07-22T20:24:08.9356043+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

@@ -1,11 +1,14 @@
 {
   "ID": "1293d5a9bfc84e7e8574d02b6ee5a3af",
   "Name": "Are You Smarter Than A 5th Grader",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-08-27T22:01:48.6975114+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
-  "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:14:16.3990512+00:00",
+      "NumProgressed": 264,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:18.5619773+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 264,
+  "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
+  "FirstSeen": "2022-08-27T22:01:48.6975114+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

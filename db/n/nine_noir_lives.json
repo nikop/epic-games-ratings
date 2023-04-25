@@ -1,11 +1,8 @@
 {
   "ID": "3fbf0de441534808846c545ddf42252c",
   "Name": "Nine Noir Lives",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-09-11T00:01:45.8738672+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:10.5511112+00:00",
-  "LastChanged": "2023-03-31T05:58:10.5511113+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:10.5511115+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:10.5511113+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:10.5511112+00:00",
+  "FirstSeen": "2022-09-11T00:01:45.8738672+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

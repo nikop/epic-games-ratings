@@ -1,16 +1,15 @@
 {
   "ID": "843c8ce683474448bb104a9651e8f325",
   "Name": "LEGO\u00AE Batman\u2122: The Videogame",
-  "Rating": 4.52,
-  "Ranking_Rating": 496,
-  "Ranking_Popularity": 262,
-  "Ranking_PopularitySum": 353,
-  "NumberOfRatings": 523,
-  "NumberOfAwards": 182,
-  "NumberOfAwardsMax": 182,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-07-22T20:23:55.8648477+00:00",
-  "LastChanged": "2023-02-20T20:57:19.4098944+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 182
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:55.8648479+00:00",
@@ -526,12 +525,19 @@
       "Rating": 4.52
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 182
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-02-20T20:57:19.4098944+00:00",
+  "FirstSeen": "2022-07-22T20:23:55.8648477+00:00",
+  "NumberOfAwardsMax": 182,
+  "NumberOfAwards": 182,
+  "NumberOfRatings": 523,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 353,
+  "Ranking_Popularity": 262,
+  "Ranking_Rating": 496,
+  "Rating": 4.52,
+  "MaxAwardTitle": "Great Boss Battles"
 }

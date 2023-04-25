@@ -1,15 +1,14 @@
 {
   "ID": "7b57136ac766477eb1e687dcd0310da5",
   "Name": "War Mongrels",
-  "Rating": 4.3,
-  "Ranking_Rating": 748,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 34,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
-  "LastChanged": "2023-03-31T05:57:33.4298842+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:50.3418238+00:00",
+      "NumProgressed": 226,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-29T11:01:05.8328656+00:00",
@@ -183,5 +182,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 226,
+  "LastChanged": "2023-03-31T05:57:33.4298842+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
+  "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 34,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 174,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 748,
+  "Rating": 4.3
 }

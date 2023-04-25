@@ -1,11 +1,14 @@
 {
   "ID": "77b68249bf3a4088bbbb54dd35341718",
   "Name": "Anna\u0027s Quest",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-02-08T21:58:17.1248944+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
-  "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:14:32.5540849+00:00",
+      "NumProgressed": 21,
+      "NumCompleted": 4
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:28.0099944+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 19.05,
+  "EOS_Completed": 4,
+  "EOS_Progressed": 21,
+  "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
+  "FirstSeen": "2023-02-08T21:58:17.1248944+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

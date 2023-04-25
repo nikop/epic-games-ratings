@@ -1,11 +1,8 @@
 {
   "ID": "f3522c43250443d7b5a6150fb0beee71",
   "Name": "Sky Fleet",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:30:03.2863139+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:25.8211024+00:00",
-  "LastChanged": "2023-03-31T05:58:25.8211025+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:25.8211027+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:25.8211025+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:25.8211024+00:00",
+  "FirstSeen": "2022-07-22T20:30:03.2863139+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

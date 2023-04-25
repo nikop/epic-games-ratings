@@ -1,15 +1,14 @@
 {
   "ID": "135201128d4f428699a891fc501a5097",
   "Name": "Scorn",
-  "Rating": 4.47,
-  "Ranking_Rating": 574,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-10-14T14:31:02.6493654+00:00",
-  "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
-  "LastChanged": "2023-04-11T01:54:45.1189189+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:11.2661107+00:00",
+      "NumProgressed": 1850,
+      "NumCompleted": 131
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-10-15T14:30:48.7901662+00:00",
@@ -172,5 +171,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 7.08,
+  "EOS_Completed": 131,
+  "EOS_Progressed": 1850,
+  "LastChanged": "2023-04-11T01:54:45.1189189+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
+  "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
+  "FirstSeen": "2022-10-14T14:31:02.6493654+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 3,
+  "Ranking_EOS_Progress": 131,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 574,
+  "Rating": 4.47
 }

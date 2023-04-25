@@ -1,11 +1,8 @@
 {
   "ID": "45fff92d81c44f3794d959387670ab1c",
   "Name": "Wolfstride",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:21:52.1682398+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:29.8600312+00:00",
-  "LastChanged": "2023-03-31T05:57:29.8600313+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:29.8600315+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:29.8600313+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:29.8600312+00:00",
+  "FirstSeen": "2022-07-22T20:21:52.1682398+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

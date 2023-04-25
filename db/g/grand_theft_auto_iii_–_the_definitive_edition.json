@@ -1,15 +1,14 @@
 {
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
-  "Rating": 4.15,
-  "Ranking_Rating": 831,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
-  "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
-  "LastChanged": "2023-04-25T01:58:24.1832393+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:14:24.6451257+00:00",
+      "NumProgressed": 4705,
+      "NumCompleted": 22
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-02-24T19:57:59.6714906+00:00",
@@ -192,5 +191,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0.47,
+  "EOS_Completed": 22,
+  "EOS_Progressed": 4705,
+  "LastChanged": "2023-04-25T01:58:24.1832393+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
+  "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
+  "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 34,
+  "Ranking_EOS_Progress": 114,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 831,
+  "Rating": 4.15
 }

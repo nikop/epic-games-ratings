@@ -1,17 +1,15 @@
 {
   "ID": "f57987ad149c43b3a7a66a7f10828f92",
   "Name": "Quake",
-  "Rating": 4.75,
-  "Ranking_Rating": 126,
-  "Ranking_Popularity": 394,
-  "Ranking_PopularitySum": 434,
-  "NumberOfRatings": 53,
-  "NumberOfAwards": 45,
-  "NumberOfAwardsMax": 45,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-07-22T20:23:41.8153102+00:00",
-  "FirstSeenRating": "2022-08-05T13:31:10.1842866+00:00",
-  "LastChanged": "2023-04-19T01:59:17.20438+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 45
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-08-05T13:31:10.1842868+00:00",
@@ -284,12 +282,20 @@
       "NumberOfAwardsMax": 45
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 45
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-19T01:59:17.20438+00:00",
+  "FirstSeenRating": "2022-08-05T13:31:10.1842866+00:00",
+  "FirstSeen": "2022-07-22T20:23:41.8153102+00:00",
+  "NumberOfAwardsMax": 45,
+  "NumberOfAwards": 45,
+  "NumberOfRatings": 53,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 434,
+  "Ranking_Popularity": 394,
+  "Ranking_Rating": 126,
+  "Rating": 4.75,
+  "MaxAwardTitle": "Great Boss Battles"
 }

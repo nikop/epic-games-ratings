@@ -1,15 +1,15 @@
 {
   "ID": "640854c119af44d39a5bcf98edb6cd60",
   "Name": "Chernobylite",
-  "Rating": 4.13,
-  "Ranking_Rating": 839,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 149,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:19:09.6414614+00:00",
-  "LastChanged": "2023-03-31T05:57:11.9868009+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "",
+      "Type": "",
+      "Count": 24
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:09.6414616+00:00",
@@ -402,12 +402,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "",
-      "Type": "",
-      "Count": 24
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:11.9868009+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:10.7523636+00:00",
+  "FirstSeen": "2022-07-22T20:19:09.6414614+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 149,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 839,
+  "Rating": 4.13
 }

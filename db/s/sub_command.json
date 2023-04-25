@@ -1,11 +1,8 @@
 {
   "ID": "0aa39ad6e7894fd4a7ade541a4dafaaa",
   "Name": "Sub Command",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-12-17T20:58:13.2447307+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:17.1807222+00:00",
-  "LastChanged": "2023-03-31T05:58:17.1807223+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:17.1807224+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:17.1807223+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:17.1807222+00:00",
+  "FirstSeen": "2022-12-17T20:58:13.2447307+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

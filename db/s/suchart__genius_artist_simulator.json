@@ -1,15 +1,8 @@
 {
   "ID": "8618da9904ad41ad951fcc470d1873cb",
   "Name": "SuchArt: Genius Artist Simulator",
-  "Rating": 4.7,
-  "Ranking_Rating": 190,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 125,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:26:12.7959951+00:00",
-  "LastChanged": "2023-03-31T05:58:00.8668032+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:12.7959954+00:00",
@@ -386,5 +379,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:00.8668032+00:00",
+  "FirstSeen": "2022-07-22T20:26:12.7959951+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 125,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 190,
+  "Rating": 4.7
 }

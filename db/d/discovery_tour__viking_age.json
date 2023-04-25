@@ -1,11 +1,8 @@
 {
   "ID": "e5e398f1f7ca42aaa6cb7b6c7b4d1029",
   "Name": "Discovery Tour: Viking Age",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:19:38.3144773+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:14.7987738+00:00",
-  "LastChanged": "2023-03-31T05:57:14.7987739+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:14.7987741+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:14.7987739+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:14.7987738+00:00",
+  "FirstSeen": "2022-07-22T20:19:38.3144773+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

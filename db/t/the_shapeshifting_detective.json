@@ -1,11 +1,14 @@
 {
   "ID": "7509a5c8feb744ae866d9e3326d52d3b",
   "Name": "The Shapeshifting Detective",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-10-31T15:31:54.8525902+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
-  "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:57.7196507+00:00",
+      "NumProgressed": 157,
+      "NumCompleted": 2
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:37.9107564+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 1.27,
+  "EOS_Completed": 2,
+  "EOS_Progressed": 157,
+  "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
+  "FirstSeen": "2022-10-31T15:31:54.8525902+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

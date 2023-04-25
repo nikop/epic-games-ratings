@@ -1,16 +1,15 @@
 {
   "ID": "tulip",
   "Name": "Thimbleweed Park",
-  "Rating": 4.59,
-  "Ranking_Rating": 388,
-  "Ranking_Popularity": 439,
-  "Ranking_PopularitySum": 453,
-  "NumberOfRatings": 115,
-  "NumberOfAwards": 30,
-  "NumberOfAwardsMax": 30,
-  "MaxAwardTitle": "Challenging Puzzles",
-  "FirstSeen": "2022-07-22T20:27:09.288426+00:00",
-  "LastChanged": "2023-04-02T03:57:47.2232067+00:00",
+  "Tags": [
+    {
+      "Text": "This game features Challenging Puzzles",
+      "Prefix": "This game features",
+      "Type": "Challenging Puzzles",
+      "Count": 30
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:09.2884263+00:00",
@@ -309,12 +308,19 @@
       "NumberOfAwardsMax": 30
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game features Challenging Puzzles",
-      "Prefix": "This game features",
-      "Type": "Challenging Puzzles",
-      "Count": 30
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-02T03:57:47.2232067+00:00",
+  "FirstSeen": "2022-07-22T20:27:09.288426+00:00",
+  "NumberOfAwardsMax": 30,
+  "NumberOfAwards": 30,
+  "NumberOfRatings": 115,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 453,
+  "Ranking_Popularity": 439,
+  "Ranking_Rating": 388,
+  "Rating": 4.59,
+  "MaxAwardTitle": "Challenging Puzzles"
 }

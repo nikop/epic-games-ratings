@@ -1,16 +1,8 @@
 {
   "ID": "36d3389b16b14deeb527754f6393469b",
   "Name": "Gravewood High",
-  "Rating": 4,
-  "Ranking_Rating": 869,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 32,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:23:07.1625329+00:00",
-  "FirstSeenRating": "2022-08-20T03:01:10.1611704+00:00",
-  "LastChanged": "2023-04-03T01:53:06.0730579+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-08-20T03:01:10.1611706+00:00",
@@ -199,5 +191,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-03T01:53:06.0730579+00:00",
+  "FirstSeenRating": "2022-08-20T03:01:10.1611704+00:00",
+  "FirstSeen": "2022-07-22T20:23:07.1625329+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 32,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 869,
+  "Rating": 4
 }

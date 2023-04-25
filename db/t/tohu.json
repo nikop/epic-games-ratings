@@ -1,11 +1,8 @@
 {
   "ID": "2227f922da854b38a15f44dfb4daba20",
   "Name": "TOHU",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:26:14.8300031+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:00.9857755+00:00",
-  "LastChanged": "2023-03-31T05:58:00.9857756+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:00.9857758+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:00.9857756+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:00.9857755+00:00",
+  "FirstSeen": "2022-07-22T20:26:14.8300031+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

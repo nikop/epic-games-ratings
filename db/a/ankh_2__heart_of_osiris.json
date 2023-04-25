@@ -1,11 +1,8 @@
 {
   "ID": "2adc9c886d42496c864c60f2b67704db",
   "Name": "Ankh 2: Heart of Osiris",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-09-10T11:02:46.5120986+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:18.2850687+00:00",
-  "LastChanged": "2023-03-31T05:58:18.2850689+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:18.285069+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:18.2850689+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:18.2850687+00:00",
+  "FirstSeen": "2022-09-10T11:02:46.5120986+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

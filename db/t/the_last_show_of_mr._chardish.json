@@ -1,11 +1,8 @@
 {
   "ID": "2e3f985557c146e0a23886b35e19f72f",
   "Name": "The Last Show of Mr. Chardish",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:32:52.7413461+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:46.2513359+00:00",
-  "LastChanged": "2023-03-31T05:58:46.251336+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:46.2513361+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:46.251336+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:46.2513359+00:00",
+  "FirstSeen": "2022-07-22T20:32:52.7413461+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

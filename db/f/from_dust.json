@@ -1,11 +1,8 @@
 {
   "ID": "2bcf2fdc85594071846aa803926b8681",
   "Name": "From Dust",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-02-19T16:58:32.7059569+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:46.915713+00:00",
-  "LastChanged": "2023-03-31T05:58:46.9157132+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:46.9157134+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:46.9157132+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:46.915713+00:00",
+  "FirstSeen": "2023-02-19T16:58:32.7059569+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

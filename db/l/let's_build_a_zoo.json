@@ -1,16 +1,8 @@
 {
   "ID": "d74efb08c7f449928fcdfdba1dcbda48",
   "Name": "Let\u0027s Build A Zoo",
-  "Rating": 4.4,
-  "Ranking_Rating": 662,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 39,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:28:30.4243035+00:00",
-  "FirstSeenRating": "2022-08-08T07:31:42.1612375+00:00",
-  "LastChanged": "2023-03-31T05:58:13.0235971+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-08-08T07:31:42.1612377+00:00",
@@ -141,5 +133,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:13.0235971+00:00",
+  "FirstSeenRating": "2022-08-08T07:31:42.1612375+00:00",
+  "FirstSeen": "2022-07-22T20:28:30.4243035+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 39,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 662,
+  "Rating": 4.4
 }

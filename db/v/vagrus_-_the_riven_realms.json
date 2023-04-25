@@ -1,11 +1,14 @@
 {
   "ID": "9de65f6db18c4757a84e639d9a3e5a97",
   "Name": "Vagrus - The Riven Realms",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-04-05T05:57:43.4826649+00:00",
-  "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
-  "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:05.338807+00:00",
+      "NumProgressed": 50,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-04-05T05:57:43.4826687+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 50,
+  "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
+  "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
+  "FirstSeen": "2023-04-05T05:57:43.4826649+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

@@ -1,15 +1,8 @@
 {
   "ID": "14de166bd26f49e2a13e18e1d386777b",
   "Name": "Evil Nun: The Broken Mask",
-  "Rating": 4.9,
-  "Ranking_Rating": 7,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-10-31T20:02:47.3273278+00:00",
-  "FirstSeenRating": "2022-12-30T14:58:38.470983+00:00",
-  "LastChanged": "2023-03-31T05:58:45.8457403+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-12-30T14:58:38.4709834+00:00",
@@ -42,5 +35,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:45.8457403+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:44.5589424+00:00",
+  "FirstSeenRating": "2022-12-30T14:58:38.470983+00:00",
+  "FirstSeen": "2022-10-31T20:02:47.3273278+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 7,
+  "Rating": 4.9
 }

@@ -1,15 +1,8 @@
 {
   "ID": "315e6807f6684c279fc286d0fc36a44f",
   "Name": "shapez",
-  "Rating": 4.71,
-  "Ranking_Rating": 178,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-11-01T20:01:20.018196+00:00",
-  "FirstSeenRating": "2022-11-10T15:57:35.7088081+00:00",
-  "LastChanged": "2023-04-23T13:01:44.450454+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-11-10T15:57:35.7088088+00:00",
@@ -138,5 +131,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-23T13:01:44.450454+00:00",
+  "FirstSeenRating": "2022-11-10T15:57:35.7088081+00:00",
+  "FirstSeen": "2022-11-01T20:01:20.018196+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 178,
+  "Rating": 4.71
 }

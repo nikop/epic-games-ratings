@@ -1,16 +1,15 @@
 {
   "ID": "9bcf72043732431397782f3a32efbbd5",
   "Name": "Darksiders Genesis",
-  "Rating": 4.52,
-  "Ranking_Rating": 496,
-  "Ranking_Popularity": 410,
-  "Ranking_PopularitySum": 441,
-  "NumberOfRatings": 67,
-  "NumberOfAwards": 38,
-  "NumberOfAwardsMax": 38,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
-  "LastChanged": "2023-04-19T19:58:27.5344993+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 38
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:40.918021+00:00",
@@ -290,12 +289,19 @@
       "NumberOfAwardsMax": 38
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 38
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-19T19:58:27.5344993+00:00",
+  "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
+  "NumberOfAwardsMax": 38,
+  "NumberOfAwards": 38,
+  "NumberOfRatings": 67,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 441,
+  "Ranking_Popularity": 410,
+  "Ranking_Rating": 496,
+  "Rating": 4.52,
+  "MaxAwardTitle": "Great Boss Battles"
 }

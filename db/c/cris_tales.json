@@ -1,16 +1,15 @@
 {
   "ID": "ef361cdf19514595a8cb0945fb66962e",
   "Name": "Cris Tales",
-  "Rating": 4.36,
-  "Ranking_Rating": 701,
-  "Ranking_Popularity": 269,
-  "Ranking_PopularitySum": 360,
-  "NumberOfRatings": 758,
-  "NumberOfAwards": 170,
-  "NumberOfAwardsMax": 170,
-  "MaxAwardTitle": "Character Customization",
-  "FirstSeen": "2022-07-22T20:17:17.9085392+00:00",
-  "LastChanged": "2023-04-05T20:57:06.3729217+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 170
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:17.9085397+00:00",
@@ -527,12 +526,19 @@
       "NumberOfAwardsMax": 170
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "This game has Inclusive",
-      "Type": "Character Customization",
-      "Count": 170
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-05T20:57:06.3729217+00:00",
+  "FirstSeen": "2022-07-22T20:17:17.9085392+00:00",
+  "NumberOfAwardsMax": 170,
+  "NumberOfAwards": 170,
+  "NumberOfRatings": 758,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 360,
+  "Ranking_Popularity": 269,
+  "Ranking_Rating": 701,
+  "Rating": 4.36,
+  "MaxAwardTitle": "Character Customization"
 }

@@ -1,16 +1,15 @@
 {
   "ID": "cumin",
   "Name": "Far Cry New Dawn Standard Edition",
-  "Rating": 4.41,
-  "Ranking_Rating": 652,
-  "Ranking_Popularity": 267,
-  "Ranking_PopularitySum": 358,
-  "NumberOfRatings": 338,
-  "NumberOfAwards": 177,
-  "NumberOfAwardsMax": 177,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-07-22T20:19:24.3746385+00:00",
-  "LastChanged": "2023-04-23T18:57:18.5877742+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 177
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:24.3746388+00:00",
@@ -553,12 +552,19 @@
       "NumberOfAwardsMax": 177
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 177
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-23T18:57:18.5877742+00:00",
+  "FirstSeen": "2022-07-22T20:19:24.3746385+00:00",
+  "NumberOfAwardsMax": 177,
+  "NumberOfAwards": 177,
+  "NumberOfRatings": 338,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 358,
+  "Ranking_Popularity": 267,
+  "Ranking_Rating": 652,
+  "Rating": 4.41,
+  "MaxAwardTitle": "Great Boss Battles"
 }

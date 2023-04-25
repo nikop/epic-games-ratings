@@ -1,16 +1,15 @@
 {
   "ID": "41f47fd0d3e248bc938a5815d6d64daa",
   "Name": "Fez",
-  "Rating": 4.71,
-  "Ranking_Rating": 178,
-  "Ranking_Popularity": 463,
-  "Ranking_PopularitySum": 466,
-  "NumberOfRatings": 103,
-  "NumberOfAwards": 23,
-  "NumberOfAwardsMax": 23,
-  "MaxAwardTitle": "Challenging Puzzles",
-  "FirstSeen": "2022-07-22T20:21:13.418664+00:00",
-  "LastChanged": "2023-03-21T22:57:30.8924995+00:00",
+  "Tags": [
+    {
+      "Text": "This game features Challenging Puzzles",
+      "Prefix": "This game features",
+      "Type": "Challenging Puzzles",
+      "Count": 23
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:13.4186643+00:00",
@@ -291,12 +290,19 @@
       "Rating": 4.71
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game features Challenging Puzzles",
-      "Prefix": "This game features",
-      "Type": "Challenging Puzzles",
-      "Count": 23
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-21T22:57:30.8924995+00:00",
+  "FirstSeen": "2022-07-22T20:21:13.418664+00:00",
+  "NumberOfAwardsMax": 23,
+  "NumberOfAwards": 23,
+  "NumberOfRatings": 103,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 466,
+  "Ranking_Popularity": 463,
+  "Ranking_Rating": 178,
+  "Rating": 4.71,
+  "MaxAwardTitle": "Challenging Puzzles"
 }

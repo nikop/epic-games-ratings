@@ -1,15 +1,8 @@
 {
   "ID": "315f40c8c7ae4f95ad7426f364a39194",
   "Name": "Fangs",
-  "Rating": 4.09,
-  "Ranking_Rating": 851,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-11-30T22:56:56.3802137+00:00",
-  "FirstSeenRating": "2022-12-07T16:57:36.8831309+00:00",
-  "LastChanged": "2023-03-31T05:56:58.2400165+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-12-07T16:57:36.8831311+00:00",
@@ -90,5 +83,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:56:58.2400165+00:00",
+  "FirstSeenRating": "2022-12-07T16:57:36.8831309+00:00",
+  "FirstSeen": "2022-11-30T22:56:56.3802137+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 851,
+  "Rating": 4.09
 }

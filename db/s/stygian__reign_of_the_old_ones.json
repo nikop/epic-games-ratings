@@ -1,11 +1,8 @@
 {
   "ID": "a80b932e696e43e09ffbc8e01de1f90b",
   "Name": "Stygian: Reign of the Old Ones",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:17:34.8920365+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:01.557654+00:00",
-  "LastChanged": "2023-03-31T05:57:01.5576541+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:01.5576545+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:01.5576541+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:01.557654+00:00",
+  "FirstSeen": "2022-07-22T20:17:34.8920365+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

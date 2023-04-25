@@ -1,16 +1,33 @@
 {
   "ID": "50648c4c6f7f47e98a1b3756ed06cc4a",
   "Name": "Assassin\u0027s Creed II Standard Edition",
-  "Rating": 4.75,
-  "Ranking_Rating": 126,
-  "Ranking_Popularity": 461,
-  "Ranking_PopularitySum": 400,
-  "NumberOfRatings": 315,
-  "NumberOfAwards": 85,
-  "NumberOfAwardsMax": 24,
-  "MaxAwardTitle": "Amazing Storytelling",
-  "FirstSeen": "2022-07-22T20:18:28.9665726+00:00",
-  "LastChanged": "2023-04-20T11:57:01.4456318+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 24
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 20
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 21
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 20
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:28.9665728+00:00",
@@ -465,30 +482,19 @@
       "NumberOfAwardsMax": 24
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 24
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 20
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 21
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 20
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-20T11:57:01.4456318+00:00",
+  "FirstSeen": "2022-07-22T20:18:28.9665726+00:00",
+  "NumberOfAwardsMax": 24,
+  "NumberOfAwards": 85,
+  "NumberOfRatings": 315,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 400,
+  "Ranking_Popularity": 461,
+  "Ranking_Rating": 126,
+  "Rating": 4.75,
+  "MaxAwardTitle": "Amazing Storytelling"
 }

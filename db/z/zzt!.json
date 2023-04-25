@@ -1,11 +1,14 @@
 {
   "ID": "dba7dabb038f40209c6075de144754de",
   "Name": "ZZT!",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-03-31T21:57:04.3858731+00:00",
-  "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
-  "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:08:54.6096492+00:00",
+      "NumProgressed": 2082,
+      "NumCompleted": 49
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T21:57:04.3858766+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 2.35,
+  "EOS_Completed": 49,
+  "EOS_Progressed": 2082,
+  "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
+  "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
+  "FirstSeen": "2023-03-31T21:57:04.3858731+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

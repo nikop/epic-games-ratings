@@ -1,11 +1,8 @@
 {
   "ID": "ab4dbb7ed03c4ee49d810b7c018cd894",
   "Name": "Time on Frog Island",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:28:53.4377966+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
-  "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:16.4143106+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
+  "FirstSeen": "2022-07-22T20:28:53.4377966+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

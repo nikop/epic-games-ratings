@@ -1,11 +1,14 @@
 {
   "ID": "acc5980b138144229ceaacdebb4cb054",
   "Name": "Smelter",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:27:06.5888334+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:06.0584882+00:00",
-  "LastChanged": "2023-03-31T05:58:06.0584883+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:46.9022204+00:00",
+      "NumProgressed": 29,
+      "NumCompleted": 3
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:06.0584884+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 10.34,
+  "EOS_Completed": 3,
+  "EOS_Progressed": 29,
+  "LastChanged": "2023-03-31T05:58:06.0584883+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:46.9022214+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:06.0584882+00:00",
+  "FirstSeen": "2022-07-22T20:27:06.5888334+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

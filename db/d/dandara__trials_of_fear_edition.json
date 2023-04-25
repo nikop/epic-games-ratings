@@ -1,16 +1,15 @@
 {
   "ID": "73b62f4875a248d8acc95966ce94c80f",
   "Name": "Dandara: Trials of Fear Edition",
-  "Rating": 4.56,
-  "Ranking_Rating": 441,
-  "Ranking_Popularity": 381,
-  "Ranking_PopularitySum": 428,
-  "NumberOfRatings": 164,
-  "NumberOfAwards": 50,
-  "NumberOfAwardsMax": 50,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-07-22T20:18:00.133463+00:00",
-  "LastChanged": "2022-12-09T13:11:07.9319321+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 50
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:00.1334632+00:00",
@@ -327,12 +326,19 @@
       "Rating": 4.56
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 50
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2022-12-09T13:11:07.9319321+00:00",
+  "FirstSeen": "2022-07-22T20:18:00.133463+00:00",
+  "NumberOfAwardsMax": 50,
+  "NumberOfAwards": 50,
+  "NumberOfRatings": 164,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 428,
+  "Ranking_Popularity": 381,
+  "Ranking_Rating": 441,
+  "Rating": 4.56,
+  "MaxAwardTitle": "Great Boss Battles"
 }

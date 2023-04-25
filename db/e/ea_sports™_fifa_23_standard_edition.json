@@ -1,16 +1,57 @@
 {
   "ID": "f5deacee017b4b109476933f7dd2edbd",
   "Name": "EA SPORTS\u2122 FIFA 23 Standard Edition",
-  "Rating": 4.24,
-  "Ranking_Rating": 776,
-  "Ranking_Popularity": 38,
-  "Ranking_PopularitySum": 27,
-  "NumberOfAwards": 38618,
-  "NumberOfAwardsMax": 8151,
-  "MaxAwardTitle": "Diverse Characters",
-  "FirstSeen": "2022-09-30T07:01:34.8859438+00:00",
-  "FirstSeenRating": "2022-10-06T07:01:15.4932538+00:00",
-  "LastChanged": "2023-04-25T02:57:00.7711779+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 8151
+    },
+    {
+      "Text": "This game has a Competitive Community",
+      "Prefix": "This game has a",
+      "Type": "Competitive Community",
+      "Count": 5439
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 4607
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 4908
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
+      "Count": 4942
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "",
+      "Type": "",
+      "Count": 2318
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 4651
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 5920
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-10-06T07:01:15.4932542+00:00",
@@ -1359,54 +1400,19 @@
       "NumberOfAwardsMax": 8151
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 8151
-    },
-    {
-      "Text": "This game has a Competitive Community",
-      "Prefix": "This game has a",
-      "Type": "Competitive Community",
-      "Count": 5439
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 4607
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 4908
-    },
-    {
-      "Text": "This game has Competitive Players",
-      "Prefix": "This game has",
-      "Type": "Competitive Players",
-      "Count": 4942
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "",
-      "Type": "",
-      "Count": 2318
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 4651
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 5920
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-25T02:57:00.7711779+00:00",
+  "FirstSeenRating": "2022-10-06T07:01:15.4932538+00:00",
+  "FirstSeen": "2022-09-30T07:01:34.8859438+00:00",
+  "NumberOfAwardsMax": 8151,
+  "NumberOfAwards": 38618,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 27,
+  "Ranking_Popularity": 38,
+  "Ranking_Rating": 776,
+  "Rating": 4.24,
+  "MaxAwardTitle": "Diverse Characters"
 }

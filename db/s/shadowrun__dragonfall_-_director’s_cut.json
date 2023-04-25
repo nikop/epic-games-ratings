@@ -1,16 +1,15 @@
 {
   "ID": "805a1b31b65f4c3db221ab242f894482",
   "Name": "Shadowrun: Dragonfall - Director\u2019s Cut",
-  "Rating": 4.54,
-  "Ranking_Rating": 472,
-  "Ranking_Popularity": 332,
-  "Ranking_PopularitySum": 398,
-  "NumberOfRatings": 236,
-  "NumberOfAwards": 88,
-  "NumberOfAwardsMax": 88,
-  "MaxAwardTitle": "Character Customization",
-  "FirstSeen": "2022-07-22T20:27:02.9464373+00:00",
-  "LastChanged": "2023-04-10T15:58:03.8915099+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 88
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:02.9464376+00:00",
@@ -416,12 +415,19 @@
       "NumberOfAwardsMax": 88
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Inclusive Character Customization",
-      "Prefix": "This game has Inclusive",
-      "Type": "Character Customization",
-      "Count": 88
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-10T15:58:03.8915099+00:00",
+  "FirstSeen": "2022-07-22T20:27:02.9464373+00:00",
+  "NumberOfAwardsMax": 88,
+  "NumberOfAwards": 88,
+  "NumberOfRatings": 236,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 398,
+  "Ranking_Popularity": 332,
+  "Ranking_Rating": 472,
+  "Rating": 4.54,
+  "MaxAwardTitle": "Character Customization"
 }

@@ -1,16 +1,75 @@
 {
   "ID": "80e804312c2149c69a75aee703e85a9a",
   "Name": "Warface",
-  "Rating": 3.92,
-  "Ranking_Rating": 884,
-  "Ranking_Popularity": 202,
-  "Ranking_PopularitySum": 147,
-  "NumberOfRatings": 3179,
-  "NumberOfAwards": 3008,
-  "NumberOfAwardsMax": 383,
-  "MaxAwardTitle": "Relaxing",
-  "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2023-04-25T01:58:34.8590892+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 317
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 331
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 335
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 383
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "",
+      "Type": "",
+      "Count": 146
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
+      "Count": 360
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 367
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 339
+    },
+    {
+      "Text": "This game has a Competitive Community",
+      "Prefix": "This game has a",
+      "Type": "Competitive Community",
+      "Count": 262
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 315
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Prefix": "",
+      "Type": "",
+      "Count": 277
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:34.3823286+00:00",
@@ -2429,74 +2488,27 @@
       "Rating": 3.92,
       "NumberOfAwards": 3008,
       "NumberOfAwardsMax": 383
+    },
+    {
+      "Time": "2023-04-25T16:15:26.9084778+00:00",
+      "Rating": 3.92,
+      "NumberOfAwards": 3009,
+      "NumberOfAwardsMax": 383
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 317
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 331
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 335
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 383
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "",
-      "Type": "",
-      "Count": 146
-    },
-    {
-      "Text": "This game has Competitive Players",
-      "Prefix": "This game has",
-      "Type": "Competitive Players",
-      "Count": 360
-    },
-    {
-      "Text": "This game has Diverse Characters",
-      "Prefix": "This game has",
-      "Type": "Diverse Characters",
-      "Count": 367
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 339
-    },
-    {
-      "Text": "This game has a Competitive Community",
-      "Prefix": "This game has a",
-      "Type": "Competitive Community",
-      "Count": 261
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 315
-    },
-    {
-      "Text": "This game is Great for Quick Sessions",
-      "Prefix": "",
-      "Type": "",
-      "Count": 277
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-25T16:15:26.9084775+00:00",
+  "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
+  "NumberOfAwardsMax": 383,
+  "NumberOfAwards": 3009,
+  "NumberOfRatings": 3179,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 147,
+  "Ranking_Popularity": 202,
+  "Ranking_Rating": 884,
+  "Rating": 3.92,
+  "MaxAwardTitle": "Relaxing"
 }

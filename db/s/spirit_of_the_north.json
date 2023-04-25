@@ -1,17 +1,33 @@
 {
   "ID": "6098a8c7375c43458a22163a637c0c2f",
   "Name": "Spirit of the North",
-  "Rating": 4.36,
-  "Ranking_Rating": 701,
-  "Ranking_Popularity": 459,
-  "Ranking_PopularitySum": 408,
-  "NumberOfRatings": 1175,
-  "NumberOfAwards": 73,
-  "NumberOfAwardsMax": 25,
-  "MaxAwardTitle": "Extremely Fun",
-  "FirstSeen": "2022-07-22T20:24:16.4673584+00:00",
-  "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
-  "LastChanged": "2023-04-18T13:57:49.0674817+00:00",
+  "Tags": [
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 25
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 24
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 24
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:11.74292+00:00",
+      "NumProgressed": 51202,
+      "NumCompleted": 228
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-09-16T15:31:24.9636046+00:00",
@@ -262,24 +278,21 @@
       "NumberOfAwardsMax": 25
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 25
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 24
-    },
-    {
-      "Text": "This game is Relaxing",
-      "Prefix": "This game is",
-      "Type": "Relaxing",
-      "Count": 24
-    }
-  ]
+  "EOS_Completed_Percentage": 0.45,
+  "EOS_Completed": 228,
+  "EOS_Progressed": 51202,
+  "LastChanged": "2023-04-18T13:57:49.0674817+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
+  "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
+  "FirstSeen": "2022-07-22T20:24:16.4673584+00:00",
+  "NumberOfAwardsMax": 25,
+  "NumberOfAwards": 73,
+  "NumberOfRatings": 1175,
+  "Ranking_EOS_Completed": 36,
+  "Ranking_EOS_Progress": 70,
+  "Ranking_PopularitySum": 408,
+  "Ranking_Popularity": 459,
+  "Ranking_Rating": 701,
+  "Rating": 4.36,
+  "MaxAwardTitle": "Extremely Fun"
 }

@@ -1,11 +1,14 @@
 {
   "ID": "3f4d5dd30ff94239bb5eb2aff38bb8f2",
   "Name": "Undead Horde",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-04-24T19:59:13.9669486+00:00",
-  "FirstSeenRating": "2023-04-24T19:59:13.9669535+00:00",
-  "LastChanged": "2023-04-24T19:59:13.9669536+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:15:41.0780509+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-04-24T19:59:13.9669539+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 2,
+  "LastChanged": "2023-04-24T19:59:13.9669536+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:41.0780517+00:00",
+  "FirstSeenRating": "2023-04-24T19:59:13.9669535+00:00",
+  "FirstSeen": "2023-04-24T19:59:13.9669486+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

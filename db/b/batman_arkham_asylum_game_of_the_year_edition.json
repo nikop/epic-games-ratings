@@ -1,16 +1,15 @@
 {
   "ID": "5f7c811695f14b8fa3a8e1ea35713d23",
   "Name": "Batman Arkham Asylum Game of the Year Edition",
-  "Rating": 4.67,
-  "Ranking_Rating": 254,
-  "Ranking_Popularity": 159,
-  "Ranking_PopularitySum": 270,
-  "NumberOfRatings": 2164,
-  "NumberOfAwards": 639,
-  "NumberOfAwardsMax": 639,
-  "MaxAwardTitle": "Great Boss Battles",
-  "FirstSeen": "2022-07-22T20:19:33.3768867+00:00",
-  "LastChanged": "2023-04-23T20:57:22.6560476+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 639
+    }
+  ],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:33.3768871+00:00",
@@ -715,12 +714,19 @@
       "NumberOfAwardsMax": 639
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "This game has",
-      "Type": "Great Boss Battles",
-      "Count": 639
-    }
-  ]
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-23T20:57:22.6560476+00:00",
+  "FirstSeen": "2022-07-22T20:19:33.3768867+00:00",
+  "NumberOfAwardsMax": 639,
+  "NumberOfAwards": 639,
+  "NumberOfRatings": 2164,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 179,
+  "Ranking_PopularitySum": 270,
+  "Ranking_Popularity": 159,
+  "Ranking_Rating": 254,
+  "Rating": 4.67,
+  "MaxAwardTitle": "Great Boss Battles"
 }

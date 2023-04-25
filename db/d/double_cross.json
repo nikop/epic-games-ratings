@@ -1,11 +1,8 @@
 {
   "ID": "edab9835e0424c83a7ee4a99c1e5e637",
   "Name": "Double Cross",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-08-28T23:02:09.0962641+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:36.1960116+00:00",
-  "LastChanged": "2023-03-31T05:58:36.1960117+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:36.1960119+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:36.1960117+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:36.1960116+00:00",
+  "FirstSeen": "2022-08-28T23:02:09.0962641+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

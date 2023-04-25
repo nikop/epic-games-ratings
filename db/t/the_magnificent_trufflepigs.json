@@ -1,11 +1,8 @@
 {
   "ID": "4d913aeb07a14a5a9214c6e4f8c5b4ff",
   "Name": "The Magnificent Trufflepigs",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:29:53.2413193+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:24.9092357+00:00",
-  "LastChanged": "2023-03-31T05:58:24.9092358+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:24.909236+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:24.9092358+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:24.9092357+00:00",
+  "FirstSeen": "2022-07-22T20:29:53.2413193+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

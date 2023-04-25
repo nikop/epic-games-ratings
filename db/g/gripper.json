@@ -1,11 +1,14 @@
 {
   "ID": "4acc3c00b76e48dca196601dfe1940fc",
   "Name": "Gripper",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-04-12T09:57:52.0824759+00:00",
-  "FirstSeenRating": "2023-04-12T09:57:52.0824797+00:00",
-  "LastChanged": "2023-04-12T09:57:52.0824798+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:49.9769718+00:00",
+      "NumProgressed": 21,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-04-12T09:57:52.0824801+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 21,
+  "LastChanged": "2023-04-12T09:57:52.0824798+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:49.9769729+00:00",
+  "FirstSeenRating": "2023-04-12T09:57:52.0824797+00:00",
+  "FirstSeen": "2023-04-12T09:57:52.0824759+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

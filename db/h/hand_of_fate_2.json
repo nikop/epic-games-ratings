@@ -1,16 +1,63 @@
 {
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
-  "Rating": 4.57,
-  "Ranking_Rating": 424,
-  "Ranking_Popularity": 421,
-  "Ranking_PopularitySum": 355,
-  "NumberOfRatings": 780,
-  "NumberOfAwards": 180,
-  "NumberOfAwardsMax": 35,
-  "MaxAwardTitle": "Amazing Storytelling",
-  "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
-  "LastChanged": "2023-04-20T18:57:40.4739067+00:00",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "",
+      "Type": "",
+      "Count": 118
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 35
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 26
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 30
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 21
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 26
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Prefix": "This game has",
+      "Type": "Unique Visuals",
+      "Count": 20
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 22
+    }
+  ],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:49.6405347+00:00",
+      "NumProgressed": 655102,
+      "NumCompleted": 164
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:25.6908042+00:00",
@@ -758,54 +805,20 @@
       "NumberOfAwardsMax": 35
     }
   ],
-  "Tags": [
-    {
-      "Text": "This game has Great Boss Battles",
-      "Prefix": "",
-      "Type": "",
-      "Count": 118
-    },
-    {
-      "Text": "This game has Amazing Storytelling",
-      "Prefix": "This game has",
-      "Type": "Amazing Storytelling",
-      "Count": 35
-    },
-    {
-      "Text": "This game has Amazing Characters",
-      "Prefix": "This game has",
-      "Type": "Amazing Characters",
-      "Count": 26
-    },
-    {
-      "Text": "This game is Highly Recommended",
-      "Prefix": "This game is",
-      "Type": "Highly Recommended",
-      "Count": 30
-    },
-    {
-      "Text": "This game is Extremely Fun",
-      "Prefix": "This game is",
-      "Type": "Extremely Fun",
-      "Count": 21
-    },
-    {
-      "Text": "This game is Great for Beginners",
-      "Prefix": "This game is",
-      "Type": "Great for Beginners",
-      "Count": 26
-    },
-    {
-      "Text": "This game has Unique Visuals",
-      "Prefix": "This game has",
-      "Type": "Unique Visuals",
-      "Count": 20
-    },
-    {
-      "Text": "This game has Quickly Understood Controls",
-      "Prefix": "This game has",
-      "Type": "Quickly Understood Controls",
-      "Count": 22
-    }
-  ]
+  "EOS_Completed_Percentage": 0.03,
+  "EOS_Completed": 164,
+  "EOS_Progressed": 655102,
+  "LastChanged": "2023-04-20T18:57:40.4739067+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
+  "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
+  "NumberOfAwardsMax": 35,
+  "NumberOfAwards": 180,
+  "NumberOfRatings": 780,
+  "Ranking_EOS_Completed": 99,
+  "Ranking_EOS_Progress": 17,
+  "Ranking_PopularitySum": 355,
+  "Ranking_Popularity": 421,
+  "Ranking_Rating": 424,
+  "Rating": 4.57,
+  "MaxAwardTitle": "Amazing Storytelling"
 }

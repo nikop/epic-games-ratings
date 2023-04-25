@@ -1,11 +1,8 @@
 {
   "ID": "533f90787a8c41db9800dc2affaf3924",
   "Name": "Blind Fate: Edo no Yami",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-12-16T17:58:05.6998914+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:27.0390419+00:00",
-  "LastChanged": "2023-03-31T05:58:27.039042+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:27.0390425+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:27.039042+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:27.0390419+00:00",
+  "FirstSeen": "2022-12-16T17:58:05.6998914+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

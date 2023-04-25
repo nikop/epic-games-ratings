@@ -1,11 +1,14 @@
 {
   "ID": "aac5ef68f6ce4c20aea4c3e722873070",
   "Name": "A Musical Story",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:20:38.213412+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
-  "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:26.5327185+00:00",
+      "NumProgressed": 50,
+      "NumCompleted": 1
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:21.0267679+00:00",
@@ -14,5 +17,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 2,
+  "EOS_Completed": 1,
+  "EOS_Progressed": 50,
+  "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
+  "FirstSeen": "2022-07-22T20:20:38.213412+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

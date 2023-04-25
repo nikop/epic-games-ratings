@@ -1,15 +1,14 @@
 {
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
-  "Rating": 4.51,
-  "Ranking_Rating": 509,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 274,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
-  "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:25.3275545+00:00",
+      "NumProgressed": 220041,
+      "NumCompleted": 41
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:34.1583386+00:00",
@@ -315,5 +314,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0.02,
+  "EOS_Completed": 41,
+  "EOS_Progressed": 220041,
+  "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
+  "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 274,
+  "Ranking_EOS_Completed": 103,
+  "Ranking_EOS_Progress": 42,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 509,
+  "Rating": 4.51
 }

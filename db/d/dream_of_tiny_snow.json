@@ -1,11 +1,8 @@
 {
   "ID": "ba4b5cef8c374fcab8b4a7f31b1b8e60",
   "Name": "Dream of Tiny Snow",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-04-22T15:58:14.174074+00:00",
-  "FirstSeenRating": "2023-04-22T15:58:14.1740796+00:00",
-  "LastChanged": "2023-04-22T15:58:14.1740796+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-04-22T15:58:14.1740799+00:00",
@@ -14,5 +11,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-04-22T15:58:14.1740796+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:15:36.2096296+00:00",
+  "FirstSeenRating": "2023-04-22T15:58:14.1740796+00:00",
+  "FirstSeen": "2023-04-22T15:58:14.174074+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

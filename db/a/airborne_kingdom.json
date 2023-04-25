@@ -1,15 +1,14 @@
 {
   "ID": "e1809e1742cb498080d8849b11a99c5a",
   "Name": "Airborne Kingdom",
-  "Rating": 4.65,
-  "Ranking_Rating": 287,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfRatings": 74,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
-  "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:09:43.6429949+00:00",
+      "NumProgressed": 6227,
+      "NumCompleted": 49
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:55.4916405+00:00",
@@ -299,5 +298,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0.79,
+  "EOS_Completed": 49,
+  "EOS_Progressed": 6227,
+  "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
+  "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "NumberOfRatings": 74,
+  "Ranking_EOS_Completed": 25,
+  "Ranking_EOS_Progress": 107,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 287,
+  "Rating": 4.65
 }

@@ -1,11 +1,8 @@
 {
   "ID": "6dc590b632ec4786b5c698145758d75c",
   "Name": "Lost Eden",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-08-09T19:02:05.9827578+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:32.1616091+00:00",
-  "LastChanged": "2023-03-31T05:58:32.1616092+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:32.1616093+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:32.1616092+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:32.1616091+00:00",
+  "FirstSeen": "2022-08-09T19:02:05.9827578+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

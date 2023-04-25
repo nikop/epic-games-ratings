@@ -1,15 +1,14 @@
 {
   "ID": "7a0f0e0bef6a45249e9d476d08bc9739",
   "Name": "Despot\u0027s Game",
-  "Rating": 4.5,
-  "Ranking_Rating": 526,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 486,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-09-30T18:31:44.3056888+00:00",
-  "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
-  "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:10:35.8924559+00:00",
+      "NumProgressed": 351,
+      "NumCompleted": 1
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-02-13T17:57:58.7557324+00:00",
@@ -22,5 +21,19 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0.28,
+  "EOS_Completed": 1,
+  "EOS_Progressed": 351,
+  "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
+  "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
+  "FirstSeen": "2022-09-30T18:31:44.3056888+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 53,
+  "Ranking_EOS_Progress": 165,
+  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 486,
+  "Ranking_Rating": 526,
+  "Rating": 4.5
 }

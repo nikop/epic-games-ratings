@@ -1,11 +1,8 @@
 {
   "ID": "d84e1be6c7764408b3d0f610c84cb8ea",
   "Name": "The Great War: Western Front\u2122",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-03-30T22:57:31.8125553+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
-  "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:31.1456661+00:00",
@@ -14,5 +11,13 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
+  "FirstSeen": "2023-03-30T22:57:31.8125553+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

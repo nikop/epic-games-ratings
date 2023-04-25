@@ -1,11 +1,8 @@
 {
   "ID": "bde5c96f4d5d4a199275f367f2fe4bae",
   "Name": "Truck Driver",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:24:23.2055065+00:00",
-  "FirstSeenRating": "2023-03-31T05:57:47.639357+00:00",
-  "LastChanged": "2023-03-31T05:57:47.6393571+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:47.6393572+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:57:47.6393571+00:00",
+  "FirstSeenRating": "2023-03-31T05:57:47.639357+00:00",
+  "FirstSeen": "2022-07-22T20:24:23.2055065+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }
