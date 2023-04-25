@@ -3,14 +3,14 @@
   "Name": "Dead Cells",
   "Rating": 4.88,
   "Ranking_Rating": 18,
-  "Ranking_Popularity": 237,
+  "Ranking_Popularity": 236,
   "Ranking_PopularitySum": 175,
   "NumberOfRatings": 1319,
-  "NumberOfAwards": 2162,
-  "NumberOfAwardsMax": 247,
+  "NumberOfAwards": 2163,
+  "NumberOfAwardsMax": 248,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2023-04-24T19:57:03.3666947+00:00",
+  "LastChanged": "2023-04-25T02:56:47.9708094+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:26.6981295+00:00",
@@ -1554,6 +1554,12 @@
       "Rating": 4.88,
       "NumberOfAwards": 2162,
       "NumberOfAwardsMax": 247
+    },
+    {
+      "Time": "2023-04-25T02:56:47.9708095+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 2163,
+      "NumberOfAwardsMax": 248
     }
   ],
   "Tags": [
@@ -1621,7 +1627,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 247
+      "Count": 248
     },
     {
       "Text": "This game has Challenging Combat",
