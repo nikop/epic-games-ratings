@@ -153,13 +153,20 @@ namespace EpicRatingsUpdater.Markdown
 
                 sb.AppendLine("## EOS Players History");
 
-                sb.AppendLine("| Progressed | Completed |");
-                sb.AppendLine("| ---------- | --------- |");
+                var eosHistoryTable = new MarkdownTable<GameDbItemEOSHistory>();
 
-                foreach (var i in item.EosHistory)
+                eosHistoryTable.AddColumn("Date", x => x.Time.ToString("yyyy-MM-dd"));
+                eosHistoryTable.AddColumn("Progressed", x => FormatVotes(x.NumProgressed));
+                eosHistoryTable.AddColumn("Completed", x => FormatVotes(x.NumCompleted));
+
+                var itemsToShow = item.EosHistory.GroupBy(x => x.Time.Date).Select(x => new GameDbItemEOSHistory
                 {
-                    sb.AppendLine($"| {FormatVotes(i.NumProgressed)} | {FormatVotes(i.NumCompleted)} |");
-                }
+                    Time = x.Key,
+                    NumProgressed = x.MaxBy(x => x.NumProgressed)?.NumProgressed ?? 0,
+                    NumCompleted = x.MaxBy(x => x.NumCompleted)?.NumCompleted ?? 0,
+                }).ToList();
+
+                sb.Append(eosHistoryTable.FormatTable(itemsToShow));
             }
 
             sb.AppendLine("## Awards");
@@ -172,31 +179,34 @@ namespace EpicRatingsUpdater.Markdown
                 sb.AppendLine($"| {tag.Text} | {FormatVotes(tag.Count)} |");
             }
 
-            sb.AppendLine("## Ratings History");
-
-            var ratingsTable = new MarkdownTable<GameDbItemRatingHistory>();
-
-            ratingsTable.AddColumn("Date", x => x.Time.ToString("yyyy-MM-dd"));
-            ratingsTable.AddColumn("Rating", x => FormatRating(x.Rating));
-
-            if (item.RatingHistory.Any(x => x.NumberOfRatings != null))
+            if (item.RatingHistory.Count > 0)
             {
-                ratingsTable.AddColumn("Number of Ratings", x => FormatVotes(x?.NumberOfRatings));
+                sb.AppendLine("## Ratings History");
+
+                var ratingsTable = new MarkdownTable<GameDbItemRatingHistory>();
+
+                ratingsTable.AddColumn("Date", x => x.Time.ToString("yyyy-MM-dd"));
+                ratingsTable.AddColumn("Rating", x => FormatRating(x.Rating));
+
+                if (item.RatingHistory.Any(x => x.NumberOfRatings != null))
+                {
+                    ratingsTable.AddColumn("Number of Ratings", x => FormatVotes(x?.NumberOfRatings));
+                }
+
+                ratingsTable.AddColumn("Number of Awards (Max)", x => FormatVotes(x?.NumberOfAwardsMax));
+                ratingsTable.AddColumn("Number of Awards (Sum)", x => FormatVotes(x?.NumberOfAwards));
+
+                var itemsToShow = item.RatingHistory.GroupBy(x => x.Time.Date).Select(x => new GameDbItemRatingHistory
+                {
+                    Time = x.Key,
+                    NumberOfAwards = x.MaxBy(x => x.NumberOfAwards)?.NumberOfAwards,
+                    NumberOfAwardsMax = x.MaxBy(x => x.NumberOfAwardsMax)?.NumberOfAwardsMax,
+                    NumberOfRatings = x.MaxBy(x => x.NumberOfRatings)?.NumberOfRatings,
+                    Rating = x.MaxBy(x => x.Rating)?.Rating,
+                }).ToList();
+
+                sb.Append(ratingsTable.FormatTable(itemsToShow));
             }
-
-            ratingsTable.AddColumn("Number of Awards (Max)", x => FormatVotes(x?.NumberOfAwardsMax));
-            ratingsTable.AddColumn("Number of Awards (Sum)", x => FormatVotes(x?.NumberOfAwards));
-
-            var itemsToShow = item.RatingHistory.GroupBy(x => x.Time.Date).Select(x => new GameDbItemRatingHistory
-            {
-                Time = x.Key,
-                NumberOfAwards = x.MaxBy(x => x.NumberOfAwards)?.NumberOfAwards,
-                NumberOfAwardsMax = x.MaxBy(x => x.NumberOfAwardsMax)?.NumberOfAwardsMax,
-                NumberOfRatings = x.MaxBy(x => x.NumberOfRatings)?.NumberOfRatings,
-                Rating = x.MaxBy(x => x.Rating)?.Rating,
-            }).ToList();
-
-            sb.Append(ratingsTable.FormatTable(itemsToShow));
 
             return sb.ToString();
         }
