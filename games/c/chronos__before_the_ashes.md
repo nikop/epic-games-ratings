@@ -1,5 +1,5 @@
 # Chronos: Before the Ashes
-Rating: 4.10 (Ranked 847)  
+Rating: 4.10 (Ranked 848)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  

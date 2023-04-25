@@ -1,10 +1,10 @@
 # F.I.S.T.: Forged In Shadow Torch
-Rating: 4.56 (Ranked 441)  
+Rating: 4.56 (Ranked 442)  
 Number of Ratings: 572  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 724  (Ranked 150)  
+Max (Great Boss Battles): 724  (Ranked 151)  
 Sum: 764 (Ranked 250)  
-Diff (max vs sum): -100
+Diff (max vs sum): -99
 ## Awards
 | Award | Count |
 | ----- | ----- |

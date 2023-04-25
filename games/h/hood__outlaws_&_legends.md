@@ -1,5 +1,5 @@
 # Hood: Outlaws & Legends
-Rating: 3.99 (Ranked 872)  
+Rating: 3.99 (Ranked 873)  
 Number of Ratings: 12,539  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 367  (Ranked 204)  

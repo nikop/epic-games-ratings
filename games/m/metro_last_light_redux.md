@@ -1,5 +1,5 @@
 # Metro Last Light Redux
-Rating: 4.70 (Ranked 190)  
+Rating: 4.70 (Ranked 189)  
 Number of Ratings: 6,367  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 1,807  (Ranked 104)  

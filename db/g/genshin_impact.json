@@ -12,31 +12,31 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 130633
+      "Count": 130904
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 124241
+      "Count": 124571
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 112847
+      "Count": 113200
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 107768
+      "Count": 108102
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 109240
+      "Count": 109545
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -54,7 +54,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 104465
+      "Count": 104826
     },
     {
       "Text": "This game is Relaxing",
@@ -4743,23 +4743,29 @@
       "Rating": 4.68,
       "NumberOfAwards": 1299622,
       "NumberOfAwardsMax": 291065
+    },
+    {
+      "Time": "2023-04-25T21:00:10.5086705+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1301576,
+      "NumberOfAwardsMax": 291065
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-25T20:49:08.3394975+00:00",
-  "LastUpdate_Ratings": "2023-04-25T20:40:30.8918035+00:00",
-  "LastChanged": "2023-04-25T20:40:30.8918027+00:00",
+  "LastUpdate_Achievements": "2023-04-25T21:07:31.0096557+00:00",
+  "LastUpdate_Ratings": "2023-04-25T21:00:10.5086712+00:00",
+  "LastChanged": "2023-04-25T21:00:10.5086697+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 291065,
-  "NumberOfAwards": 1299622,
+  "NumberOfAwards": 1301576,
   "NumberOfRatings": 219180,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_Progress": 353,
+  "Ranking_EOS_Progress": 354,
   "Ranking_PopularitySum": 3,
   "Ranking_Popularity": 3,
-  "Ranking_Rating": 231,
+  "Ranking_Rating": 230,
   "Rating": 4.68,
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00"
 }

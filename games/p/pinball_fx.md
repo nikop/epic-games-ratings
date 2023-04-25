@@ -1,17 +1,17 @@
 # Pinball FX
-Rating: 4.03 (Ranked 866)  
+Rating: 4.03 (Ranked 867)  
 Number of Ratings: 756  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 169  (Ranked 272)  
 Sum: 1,474 (Ranked 207)  
 Diff (max vs sum): 65
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,918 (Ranked 45)  
+Progressed: 207,923 (Ranked 45)  
 Completed: 0 (0.00%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-04-25 | 207,918 | 0 |
+| 2023-04-25 | 207,923 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,10 +1,10 @@
 # Crayta
-Rating: 4.19 (Ranked 811)  
+Rating: 4.19 (Ranked 812)  
 Number of Ratings: 94  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 50  (Ranked 381)  
+Max (Diverse Characters): 50  (Ranked 382)  
 Sum: 370 (Ranked 305)  
-Diff (max vs sum): 76
+Diff (max vs sum): 77
 ## Popularity (Based on EOS Achievements)
 Progressed: 109,206 (Ranked 56)  
 Completed: 5 (0.00%) (Ranked 187)  

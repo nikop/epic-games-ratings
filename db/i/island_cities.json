@@ -2,15 +2,21 @@
   "ID": "405a48516fba4540bd8cc17c53085ab2",
   "Name": "Island Cities",
   "Tags": [],
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T21:05:49.3766192+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-25T20:47:06.7364352+00:00",
-  "LastUpdate_Ratings": "2023-04-25T20:38:44.6530444+00:00",
-  "LastChanged_Achievements": "2023-04-25T20:47:06.736435+00:00",
+  "EOS_Progressed": 1,
+  "LastUpdate_Achievements": "2023-04-25T21:05:49.3766203+00:00",
+  "LastUpdate_Ratings": "2023-04-25T20:58:36.6388106+00:00",
+  "LastChanged_Achievements": "2023-04-25T21:05:49.3766186+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_Progress": 353
+  "Ranking_EOS_Progress": 333
 }

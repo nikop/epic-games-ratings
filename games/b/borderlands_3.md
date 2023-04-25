@@ -1,5 +1,5 @@
 # Borderlands 3
-Rating: 4.69 (Ranked 208)  
+Rating: 4.69 (Ranked 207)  
 Number of Ratings: 151,211  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 108,009  (Ranked 8)  

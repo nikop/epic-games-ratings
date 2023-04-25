@@ -1,5 +1,5 @@
 # House Flipper
-Rating: 4.70 (Ranked 190)  
+Rating: 4.70 (Ranked 189)  
 Number of Ratings: 1,023  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 280  (Ranked 225)  

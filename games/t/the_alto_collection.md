@@ -1,17 +1,17 @@
 # The Alto Collection
-Rating: 4.70 (Ranked 190)  
+Rating: 4.70 (Ranked 189)  
 Number of Ratings: 332  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Quick Sessions): 44  (Ranked 401)  
 Sum: 341 (Ranked 312)  
 Diff (max vs sum): 89
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,188 (Ranked 90)  
+Progressed: 18,189 (Ranked 90)  
 Completed: 3 (0.02%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-04-25 | 18,188 | 3 |
+| 2023-04-25 | 18,189 | 3 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

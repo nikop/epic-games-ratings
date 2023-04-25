@@ -30,7 +30,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 61
+      "Count": 64
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1076,21 +1076,27 @@
       "Rating": 4.6,
       "NumberOfAwards": 786,
       "NumberOfAwardsMax": 120
+    },
+    {
+      "Time": "2023-04-25T20:57:29.3508495+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 789,
+      "NumberOfAwardsMax": 120
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-25T20:45:40.2591793+00:00",
-  "LastUpdate_Ratings": "2023-04-25T20:37:26.0094591+00:00",
-  "LastChanged": "2023-04-25T17:56:53.7695054+00:00",
+  "LastUpdate_Achievements": "2023-04-25T21:04:35.0325583+00:00",
+  "LastUpdate_Ratings": "2023-04-25T20:57:29.3508498+00:00",
+  "LastChanged": "2023-04-25T20:57:29.3508493+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 120,
-  "NumberOfAwards": 786,
+  "NumberOfAwards": 789,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_Progress": 353,
-  "Ranking_PopularitySum": 247,
+  "Ranking_EOS_Progress": 354,
+  "Ranking_PopularitySum": 246,
   "Ranking_Popularity": 297,
   "Ranking_Rating": 373,
   "Rating": 4.6,

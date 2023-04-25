@@ -1,5 +1,5 @@
 # The Callisto Protocol
-Rating: 4.18 (Ranked 816)  
+Rating: 4.18 (Ranked 817)  
 ## Popularity (Based on Awards)
 Max (Amazing Storytelling): 45  (Ranked 394)  
 Sum: 241 (Ranked 339)  

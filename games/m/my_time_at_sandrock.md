@@ -1,5 +1,5 @@
 # My Time at Sandrock
-Rating: 4.68 (Ranked 231)  
+Rating: 4.68 (Ranked 230)  
 Number of Ratings: 892  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 551  (Ranked 170)  

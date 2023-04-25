@@ -1,5 +1,5 @@
 # Alan Wake’s American Nightmare
-Rating: 4.12 (Ranked 843)  
+Rating: 4.12 (Ranked 844)  
 Number of Ratings: 82  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  

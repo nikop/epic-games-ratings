@@ -1,5 +1,5 @@
 # The Jackbox Party Pack 6
-Rating: 4.70 (Ranked 190)  
+Rating: 4.70 (Ranked 189)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  

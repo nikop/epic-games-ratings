@@ -1,5 +1,5 @@
 # Loop Hero
-Rating: 4.68 (Ranked 231)  
+Rating: 4.68 (Ranked 230)  
 Number of Ratings: 6,301  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 410  (Ranked 192)  

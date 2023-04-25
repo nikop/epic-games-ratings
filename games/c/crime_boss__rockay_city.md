@@ -1,16 +1,16 @@
 # Crime Boss: Rockay City
-Rating: 3.92 (Ranked 884)  
+Rating: 3.92 (Ranked 885)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 182  (Ranked 262)  
 Sum: 897 (Ranked 231)  
 Diff (max vs sum): 31
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,610 (Ranked 66)  
+Progressed: 55,613 (Ranked 66)  
 Completed: 20 (0.04%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-04-25 | 55,610 | 20 |
+| 2023-04-25 | 55,613 | 20 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
