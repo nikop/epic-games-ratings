@@ -1,16 +1,16 @@
 # IXION
 Rating: 4.54 (Ranked 472)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 487)  
-Sum: 0 (Ranked 487)  
+Max (): 0  (Ranked 488)  
+Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,790 (Ranked 142)  
-Completed: 0 (0.00%) (Ranked 183)  
+Completed: 0 (0.00%) (Ranked 184)  
 ## EOS Players History
-| Progressed | Completed |
-| ---------- | --------- |
-| 1,790 | 0 |
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-04-25 | 1,790 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

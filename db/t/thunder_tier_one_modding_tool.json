@@ -1,12 +1,12 @@
 {
   "ID": "e6a192f4403748fd9b0dd5af44c513ed",
   "Name": "Thunder Tier One Modding Tool",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
-  "DailyRatings": 0,
-  "FirstSeen": null,
-  "LastChanged": null,
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_Progress": 321
 }

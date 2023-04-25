@@ -1,6 +1,12 @@
 {
   "ID": "71a122f0495c4a27b671d5eb6e65daa8",
   "Name": "ANIMO Stars Arena",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_Progress": 321
 }

@@ -1,6 +1,12 @@
 {
   "ID": "e1b25c47966441e2971f57523a29756e",
   "Name": "The Abbey",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_Progress": 321
 }

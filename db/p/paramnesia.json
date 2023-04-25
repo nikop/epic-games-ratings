@@ -1,6 +1,12 @@
 {
   "ID": "6406959f53304f2f81a58dde8a6538ee",
   "Name": "Paramnesia",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_Progress": 321
 }

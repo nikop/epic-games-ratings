@@ -1,6 +1,12 @@
 {
   "ID": "962312b846a343f486a7d630d8e4107c",
   "Name": "Sons of Valhalla",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_Progress": 321
 }

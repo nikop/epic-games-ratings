@@ -1,21 +1,16 @@
 # Smalland: Survive the Wilds
 Rating: 4.49 (Ranked 541)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 487)  
-Sum: 0 (Ranked 487)  
+Max (): 0  (Ranked 488)  
+Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,309 (Ranked 93)  
-Completed: 18 (0.10%) (Ranked 140)  
+Progressed: 17,312 (Ranked 93)  
+Completed: 18 (0.10%) (Ranked 141)  
 ## EOS Players History
-| Progressed | Completed |
-| ---------- | --------- |
-| 17,291 | 18 |
-| 17,293 | 18 |
-| 17,300 | 18 |
-| 17,302 | 18 |
-| 17,307 | 18 |
-| 17,309 | 18 |
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-04-25 | 17,312 | 18 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

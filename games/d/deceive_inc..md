@@ -1,20 +1,16 @@
 # Deceive Inc.
 Rating: 4.58 (Ranked 407)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 487)  
-Sum: 0 (Ranked 487)  
+Max (): 0  (Ranked 488)  
+Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,606 (Ranked 121)  
-Completed: 0 (0.00%) (Ranked 183)  
+Progressed: 4,609 (Ranked 121)  
+Completed: 0 (0.00%) (Ranked 184)  
 ## EOS Players History
-| Progressed | Completed |
-| ---------- | --------- |
-| 4,592 | 0 |
-| 4,593 | 0 |
-| 4,599 | 0 |
-| 4,605 | 0 |
-| 4,606 | 0 |
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-04-25 | 4,609 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

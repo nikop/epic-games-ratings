@@ -1,12 +1,12 @@
 {
   "ID": "f850c52f4f3d4c14b5bbb78b65ea9162",
   "Name": "One Lonely Outpost",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
-  "DailyRatings": 0,
-  "FirstSeen": null,
-  "LastChanged": null,
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_Progress": 321
 }

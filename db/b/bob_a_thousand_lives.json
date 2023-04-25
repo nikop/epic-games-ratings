@@ -1,6 +1,12 @@
 {
   "ID": "3b9093ee951843e883027f4310f9cbcd",
   "Name": "Bob A thousand lives",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_Progress": 321
 }

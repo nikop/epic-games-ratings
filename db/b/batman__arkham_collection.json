@@ -1,12 +1,12 @@
 {
   "ID": "86ce9e7a94704e8eb1f9dbe16310e701",
   "Name": "Batman: Arkham Collection",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
-  "DailyRatings": 0,
-  "FirstSeen": null,
-  "LastChanged": null,
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_Progress": 321
 }

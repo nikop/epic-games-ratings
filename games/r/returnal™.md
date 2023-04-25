@@ -1,8 +1,8 @@
 # Returnal™
 Rating: 4.66 (Ranked 271)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 20  (Ranked 479)  
-Sum: 20 (Ranked 479)  
+Max (Great Boss Battles): 20  (Ranked 480)  
+Sum: 20 (Ranked 480)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Count |

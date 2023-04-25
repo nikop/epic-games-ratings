@@ -1,12 +1,12 @@
 {
   "ID": "f72e3a292a54412f97d41e069a88d0e0",
   "Name": "The Legend of Nayuta: Boundless Trails",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
-  "DailyRatings": 0,
-  "FirstSeen": null,
-  "LastChanged": null,
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_Progress": 321
 }

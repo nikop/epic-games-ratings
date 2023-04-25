@@ -30,7 +30,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 81
+      "Count": 82
     },
     {
       "Text": "This game has Diverse Characters",
@@ -751,17 +751,23 @@
       "Rating": 4.49,
       "NumberOfAwards": 592,
       "NumberOfAwardsMax": 81
+    },
+    {
+      "Time": "2023-04-25T19:58:15.1646472+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 593,
+      "NumberOfAwardsMax": 82
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-24T14:57:40.9919537+00:00",
+  "LastChanged": "2023-04-25T19:58:15.164647+00:00",
   "FirstSeen": "2022-07-22T20:20:54.4785127+00:00",
-  "NumberOfAwardsMax": 81,
-  "NumberOfAwards": 592,
+  "NumberOfAwardsMax": 82,
+  "NumberOfAwards": 593,
   "NumberOfRatings": 474,
-  "Ranking_EOS_Completed": 183,
+  "Ranking_EOS_Completed": 184,
   "Ranking_EOS_Progress": 321,
   "Ranking_PopularitySum": 276,
   "Ranking_Popularity": 340,

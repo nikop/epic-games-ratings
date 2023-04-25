@@ -1,12 +1,12 @@
 {
   "ID": "602a0ef0aceb46cca62445439661d712",
   "Name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-  "ProductSlug": null,
-  "Rating": null,
-  "NumberOfRatings": null,
-  "DailyRatings": 0,
-  "FirstSeen": null,
-  "LastChanged": null,
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_Progress": 321
 }

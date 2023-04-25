@@ -9,13 +9,9 @@ Diff (max vs sum): -47
 Progressed: 63,541 (Ranked 62)  
 Completed: 1,138 (1.79%) (Ranked 50)  
 ## EOS Players History
-| Progressed | Completed |
-| ---------- | --------- |
-| 63,534 | 1,138 |
-| 63,537 | 1,138 |
-| 63,538 | 1,138 |
-| 63,540 | 1,138 |
-| 63,541 | 1,138 |
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-04-25 | 63,541 | 1,138 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

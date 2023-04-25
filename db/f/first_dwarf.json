@@ -1,8 +1,12 @@
 {
   "ID": "7f433d1af90a41ec9696835014249e7a",
   "Name": "First Dwarf",
-  "Names": [],
-  "DailyRatings": 0,
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_Progress": 321
 }

@@ -1,6 +1,12 @@
 {
   "ID": "713b2cabb53446a780d078f7af74d27b",
   "Name": "IncrediMarble",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_Progress": 321
 }

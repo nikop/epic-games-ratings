@@ -1,8 +1,12 @@
 {
   "ID": "1ac625112dc34ca290328915e0933b7a",
   "Name": "Kingdom - The Far Reaches",
-  "Names": [],
-  "DailyRatings": 0,
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_Progress": 321
 }
