@@ -288,6 +288,73 @@ query getProductResult($sandboxId: String!, $locale: String!) {
             return r.Data.RatingsPolls?.getProductResult;
         }
 
+        public static async Task<AchievementData?> QueryAchievements(string ns)
+        {
+            var ratingRequest = new GraphQLRequest
+            {
+                Query = @"
+query Achievement($sandboxId: String!, $locale: String!) {
+  Achievement {
+    productAchievementsRecordBySandbox(sandboxId: $sandboxId, locale: $locale) {
+      productId
+      sandboxId
+      totalAchievements
+      totalProductXP
+      achievementSets {
+        achievementSetId
+        isBase
+        numProgressed
+        numCompleted
+        totalAchievements
+        totalXP
+      }
+      platinumRarity {
+        percent
+      }
+      achievements {
+        achievement {
+          sandboxId
+          deploymentId
+          name
+          hidden
+          isBase
+          achievementSetId
+          unlockedDisplayName
+          lockedDisplayName
+          unlockedDescription
+          lockedDescription
+          unlockedIconId
+          lockedIconId
+          XP
+          flavorText
+          unlockedIconLink
+          lockedIconLink
+          tier {
+            name
+            hexColor
+            min
+            max
+          }
+          rarity {
+            percent
+          }
+        }
+      }
+    }
+  }
+}",
+                Variables = new
+                {
+                    sandboxId = ns,
+                    locale = "en-US",
+                }
+            };
+
+            var r = await graphQLClient.SendQueryAsync<ProductAchievementsRecordBySandboxResponse>(ratingRequest);
+
+            return r.Data?.Achievement?.productAchievementsRecordBySandbox;
+        }
+
         public static async Task<string?> ResolveNameForNamespace(string ns)
         {
             string? name = null;

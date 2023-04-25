@@ -20,6 +20,12 @@ namespace EpicRatingsUpdater
         public int? Ranking_PopularitySum { get; set; }
 
         [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
+        public int? Ranking_EOS_Progress { get; set; }
+
+        [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
+        public int? Ranking_EOS_Completed { get; set; }
+
+        [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
         public int? NumberOfRatings { get; set; }
 
         [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
@@ -38,9 +44,20 @@ namespace EpicRatingsUpdater
         public DateTimeOffset? FirstSeenRating { get; set; }
 
         [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
+        public DateTimeOffset? FirstSeenAchievements { get; set; }
+
+        [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
         public DateTimeOffset? LastChanged { get; set; }
 
+        public int EOS_Progressed { get; set; }
+
+        public int EOS_Completed { get; set; }
+
+        public double EOS_Completed_Percentage { get; set; }
+
         public List<GameDbItemRatingHistory> RatingHistory { get; set; } = new();
+
+        public List<GameDbItemEOSHistory> EosHistory { get; set; } = new();
 
         public List<GameDbItemTag> Tags { get; set; } = new();
     }

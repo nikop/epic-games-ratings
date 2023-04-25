@@ -262,14 +262,46 @@ async ValueTask UpdateRating(JsonIndexDb<GameDbItem> gameIndex, NamespaceDef ns,
                 });
             }
         }
+
+        var ach = await EpicApi.QueryAchievements(ns.Namespace);
+
+        if (ach?.productId != null)
+        {
+            var baseSet = ach?.achievementSets?.FirstOrDefault(x => x.isBase);
+
+            if (baseSet != null)
+            {
+                var isChanged = dbItem.EOS_Progressed != baseSet.numProgressed || dbItem.EOS_Completed != baseSet.numCompleted;
+
+                dbItem.EOS_Progressed = baseSet.numProgressed;
+                dbItem.EOS_Completed = baseSet.numCompleted;
+                dbItem.EOS_Completed_Percentage = baseSet.numProgressed > 0 ? Math.Round((double) baseSet.numCompleted / baseSet.numProgressed * 100, 2) : 0;
+
+                if (isChanged)
+                {
+                    dbItem.EosHistory.Add(new GameDbItemEOSHistory
+                    {
+                        Time = DateTimeOffset.UtcNow,
+                        NumProgressed = baseSet.numProgressed,
+                        NumCompleted = baseSet.numCompleted,
+                    });
+                }
+
+                if (dbItem.FirstSeenAchievements == null)
+                {
+                    dbItem.FirstSeenAchievements = DateTimeOffset.UtcNow;
+                }
+            }
+        }
     }
     catch (GraphQLHttpRequestException)
     {
         Console.WriteLine("Ratelimited...?");
         await Task.Delay(10000, ct);
     }
-    catch (Exception)
+    catch (Exception ex)
     {
+        Console.WriteLine($"[ERROR] {ex}");
         // ??
     }
 
@@ -317,6 +349,19 @@ MarkdownHelpers.RankItems(
     filteredList.OrderByDescending(x => x.NumberOfAwards),
     x => x.NumberOfAwards ?? 0,
     (x, rank) => x.Ranking_PopularitySum = rank
+);
+
+// EOS Achievements
+MarkdownHelpers.RankItems(
+    filteredList.OrderByDescending(x => x.EOS_Progressed),
+    x => x.EOS_Progressed,
+    (x, rank) => x.Ranking_EOS_Progress = rank
+);
+
+MarkdownHelpers.RankItems(
+    filteredList.OrderByDescending(x => x.EOS_Completed_Percentage),
+    x => x.EOS_Completed_Percentage,
+    (x, rank) => x.Ranking_EOS_Completed = rank
 );
 
 foreach (var item in filteredList)
@@ -370,6 +415,12 @@ var awardsSumTable = new MarkdownTable<GameDbItem>()
     .AddColumn("Rating", x => MarkdownHelpers.FormatRating(x.Rating))
     .AddColumn("Rating Ranking", x => MarkdownHelpers.FormatRanking(x.Ranking_Rating));
 
+var eosTable = new MarkdownTable<GameDbItem>()
+    .AddColumn("#", x => MarkdownHelpers.FormatRanking(x.Ranking_EOS_Progress))
+    .AddColumn("Game", x => $"[{x.Name}]({GamesLink(x)})")
+    .AddColumn("Progressed", x => MarkdownHelpers.FormatVotes(x.EOS_Progressed))
+    .AddColumn("Completed", x => MarkdownHelpers.FormatVotes(x.EOS_Completed));
+
 // Markdown
 await File.WriteAllTextAsync(
     Path.Combine(path, "by_name.md"),
@@ -392,6 +443,12 @@ await File.WriteAllTextAsync(
     nameTable.FormatTable(filteredList.Where(x => x.FirstSeen != null && ratingsCutOffNew < x.FirstSeen).OrderByDescending(x => x.FirstSeen).ThenBy(x => x.Name))
 );
 
+await File.WriteAllTextAsync(
+    Path.Combine(path, "eos_achievers.md"),
+    eosTable.FormatTable(filteredList.OrderByDescending(x => x.EOS_Progressed).ThenBy(x => x.Name))
+);
+
+// Stats
 await File.WriteAllTextAsync(
     Path.Combine(path, "stats.md"),
     MarkdownHelpers.BuildMarkdownStats(filteredList, output)
