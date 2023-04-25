@@ -5,7 +5,7 @@ using System.Text;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
-namespace EpicRatingsUpdater
+namespace EpicRatingsUpdater.GameDatabase
 {
     public class GameDbItemEOSHistory
     {

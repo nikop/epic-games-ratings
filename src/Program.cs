@@ -1,4 +1,5 @@
-﻿using EpicRatingsUpdater;
+﻿using EpicRatingsUpdater.EGSApi;
+using EpicRatingsUpdater.GameDatabase;
 using EpicRatingsUpdater.Markdown;
 
 using GraphQL.Client.Http;
@@ -273,6 +274,7 @@ async ValueTask UpdateRating(JsonIndexDb<GameDbItem> gameIndex, NamespaceDef ns,
             {
                 var isChanged = dbItem.EOS_Progressed != baseSet.numProgressed || dbItem.EOS_Completed != baseSet.numCompleted;
 
+                dbItem.LastChanged_Achievements = DateTimeOffset.UtcNow;
                 dbItem.EOS_Progressed = baseSet.numProgressed;
                 dbItem.EOS_Completed = baseSet.numCompleted;
                 dbItem.EOS_Completed_Percentage = baseSet.numProgressed > 0 ? Math.Round((double) baseSet.numCompleted / baseSet.numProgressed * 100, 2) : 0;
@@ -364,7 +366,7 @@ MarkdownHelpers.RankItems(
     (x, rank) => x.Ranking_EOS_Completed = rank
 );
 
-foreach (var item in filteredList)
+foreach (var item in output)
 {
     await gameIndex.SaveItem(item).ConfigureAwait(false);
 

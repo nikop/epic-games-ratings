@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace EpicRatingsUpdater
+namespace EpicRatingsUpdater.GameDatabase
 {
     public class GameDbItem : JsonIndexDbItem
     {
@@ -48,6 +48,9 @@ namespace EpicRatingsUpdater
 
         [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
         public DateTimeOffset? LastChanged { get; set; }
+
+        [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
+        public DateTimeOffset? LastChanged_Achievements { get; set; }
 
         public int EOS_Progressed { get; set; }
 

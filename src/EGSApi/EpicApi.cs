@@ -4,7 +4,7 @@ using GraphQL.Client.Serializer.SystemTextJson;
 
 using System.Text.Json;
 
-namespace EpicRatingsUpdater
+namespace EpicRatingsUpdater.EGSApi
 {
     public class EpicApi
     {
@@ -193,7 +193,7 @@ query getCatalogOffer($sandboxId: String!, $offerId: String!, $locale: String, $
                 Variables = new
                 {
                     sandboxId = ns,
-                    offerId = offerId,
+                    offerId,
                     locale = "en-US",
                     country = "FI",
                 }
@@ -361,7 +361,7 @@ query Achievement($sandboxId: String!, $locale: String!) {
 
             try
             {
-                var res = await EpicApi.GetCatalogNamespace(ns).ConfigureAwait(false);
+                var res = await GetCatalogNamespace(ns).ConfigureAwait(false);
 
                 if (res != null)
                 {
@@ -378,7 +378,7 @@ query Achievement($sandboxId: String!, $locale: String!) {
                         {
                             try
                             {
-                                var req = await EpicApi.httpClient.GetStringAsync($"https://store-content-ipv4.ak.epicgames.com/api/en-US/content/products/{mapping.pageSlug}");
+                                var req = await httpClient.GetStringAsync($"https://store-content-ipv4.ak.epicgames.com/api/en-US/content/products/{mapping.pageSlug}");
 
                                 var rr = JsonSerializer.Deserialize<ProductsPage>(req);
 
@@ -413,7 +413,7 @@ query Achievement($sandboxId: String!, $locale: String!) {
                         {
                             try
                             {
-                                var catalogOffer = await EpicApi.GetCatalogOffer(ns, offerId).ConfigureAwait(false);
+                                var catalogOffer = await GetCatalogOffer(ns, offerId).ConfigureAwait(false);
 
                                 if (catalogOffer != null)
                                 {

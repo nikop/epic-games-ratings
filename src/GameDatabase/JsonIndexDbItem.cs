@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace EpicRatingsUpdater
+namespace EpicRatingsUpdater.GameDatabase
 {
     public abstract class JsonIndexDbItem
     {

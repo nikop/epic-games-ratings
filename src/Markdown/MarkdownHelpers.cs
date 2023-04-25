@@ -1,9 +1,9 @@
-﻿using EpicRatingsUpdater.Markdown;
+﻿using EpicRatingsUpdater.GameDatabase;
 
 using System.Globalization;
 using System.Text;
 
-namespace EpicRatingsUpdater
+namespace EpicRatingsUpdater.Markdown
 {
     internal static class MarkdownHelpers
     {
@@ -58,7 +58,7 @@ namespace EpicRatingsUpdater
         }
 
         static public void RankItems<TItem, TRanking>(
-            IEnumerable<TItem> rankedItems, 
+            IEnumerable<TItem> rankedItems,
             Func<TItem, TRanking> ratingRead,
             Action<TItem, int> rankWrite) where TRanking : IEquatable<TRanking>
         {
@@ -87,7 +87,7 @@ namespace EpicRatingsUpdater
 
             foreach (var item in filteredList)
             {
-                var decRating = Math.Round((decimal?) item.Rating ?? 0m, 1);
+                var decRating = Math.Round((decimal?)item.Rating ?? 0m, 1);
 
                 if (!decRatings.ContainsKey(decRating))
                 {
@@ -193,7 +193,7 @@ namespace EpicRatingsUpdater
                 NumberOfAwards = x.MaxBy(x => x.NumberOfAwards)?.NumberOfAwards,
                 NumberOfAwardsMax = x.MaxBy(x => x.NumberOfAwardsMax)?.NumberOfAwardsMax,
                 NumberOfRatings = x.MaxBy(x => x.NumberOfRatings)?.NumberOfRatings,
-                Rating = x.MaxBy(x =>x.Rating)?.Rating,
+                Rating = x.MaxBy(x => x.Rating)?.Rating,
             }).ToList();
 
             sb.Append(ratingsTable.FormatTable(itemsToShow));

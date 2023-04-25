@@ -1,4 +1,4 @@
-﻿namespace EpicRatingsUpdater
+﻿namespace EpicRatingsUpdater.EGSApi
 {
     public class GetCatalogOfferResult
     {

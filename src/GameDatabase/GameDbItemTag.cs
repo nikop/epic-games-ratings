@@ -1,4 +1,4 @@
-﻿namespace EpicRatingsUpdater
+﻿namespace EpicRatingsUpdater.GameDatabase
 {
     public class GameDbItemTag
     {
