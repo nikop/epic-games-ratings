@@ -6,12 +6,12 @@ Max (Diverse Characters): 88  (Ranked 332)
 Sum: 652 (Ranked 266)  
 Diff (max vs sum): 66
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,157 (Ranked 116)  
+Progressed: 5,158 (Ranked 116)  
 Completed: 0 (0.00%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-04-25 | 5,157 | 0 |
+| 2023-04-25 | 5,158 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

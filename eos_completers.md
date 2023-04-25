@@ -10,7 +10,7 @@
 | 38 | [MultiVersus](games/m/multiversus.md) | 2.97% |
 | 40 | [Destiny 2](games/d/destiny_2.md) | 2.92% |
 | 44 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 49 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.24% |
+| 49 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.25% |
 | 50 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 52 | [Sifu](games/s/sifu.md) | 1.81% |
 | 53 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.79% |
@@ -31,10 +31,10 @@
 | 87 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
 | 88 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.64% |
 | 89 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
-| 92 | [Ghostrunner](games/g/ghostrunner.md) | 0.54% |
+| 91 | [Ghostrunner](games/g/ghostrunner.md) | 0.54% |
 | 93 | [Grindstone](games/g/grindstone.md) | 0.52% |
-| 94 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
-| 94 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.47% |
+| 94 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.49% |
+| 95 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 96 | [Aragami 2](games/a/aragami_2.md) | 0.45% |
 | 96 | [Tails of Iron](games/t/tails_of_iron.md) | 0.45% |
 | 98 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.44% |

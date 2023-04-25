@@ -1,9 +1,9 @@
 # Going Medieval
-Rating: 4.60 (Ranked 373)  
+Rating: 4.60 (Ranked 374)  
 Number of Ratings: 706  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 117  (Ranked 299)  
-Sum: 915 (Ranked 229)  
+Sum: 916 (Ranked 229)  
 Diff (max vs sum): 70
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,633 (Ranked 130)  
@@ -17,8 +17,8 @@ Completed: 6 (0.23%) (Ranked 122)
 | ----- | ----- |
 | This game is Relaxing | 117 |
 | This game is Great for Beginners | 107 |
+| This game has Quickly Understood Controls | 99 |
 | This game is Extremely Fun | 99 |
-| This game has Quickly Understood Controls | 98 |
 | This game has Diverse Characters | 98 |
 | This game is Highly Recommended | 94 |
 | This game has Amazing Characters | 90 |
@@ -112,3 +112,4 @@ Completed: 6 (0.23%) (Ranked 122)
 | 2023-04-20 | 4.60 | - | 117 | 912 |
 | 2023-04-21 | 4.60 | - | 117 | 913 |
 | 2023-04-23 | 4.60 | - | 117 | 915 |
+| 2023-04-25 | 4.60 | - | 117 | 916 |
