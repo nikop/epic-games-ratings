@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 7 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
+| 6 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 15 | [Scorn](games/s/scorn.md) | 7.08% |
 | 20 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
@@ -32,7 +32,7 @@
 | 88 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.64% |
 | 89 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 91 | [Ghostrunner](games/g/ghostrunner.md) | 0.54% |
-| 93 | [Grindstone](games/g/grindstone.md) | 0.52% |
+| 92 | [Grindstone](games/g/grindstone.md) | 0.52% |
 | 94 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.49% |
 | 95 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 96 | [Aragami 2](games/a/aragami_2.md) | 0.45% |

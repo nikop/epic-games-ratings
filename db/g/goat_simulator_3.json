@@ -12,7 +12,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 251
+      "Count": 252
     },
     {
       "Text": "This game is Extremely Fun",
@@ -118,6 +118,11 @@
     {
       "Time": "2023-04-25T22:12:29.5206104+00:00",
       "NumProgressed": 214068,
+      "NumCompleted": 684
+    },
+    {
+      "Time": "2023-04-25T23:09:01.7217432+00:00",
+      "NumProgressed": 214070,
       "NumCompleted": 684
     }
   ],
@@ -905,20 +910,26 @@
       "Rating": 4.85,
       "NumberOfAwards": 2550,
       "NumberOfAwardsMax": 300
+    },
+    {
+      "Time": "2023-04-25T23:02:31.220017+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2551,
+      "NumberOfAwardsMax": 300
     }
   ],
   "EOS_Completed_Percentage": 0.32,
   "EOS_Completed": 684,
-  "EOS_Progressed": 214068,
-  "LastUpdate_Achievements": "2023-04-25T22:12:29.5206108+00:00",
-  "LastUpdate_Ratings": "2023-04-25T22:04:01.8690576+00:00",
-  "LastChanged_Achievements": "2023-04-25T22:12:29.52061+00:00",
-  "LastChanged": "2023-04-25T22:04:01.8690572+00:00",
+  "EOS_Progressed": 214070,
+  "LastUpdate_Achievements": "2023-04-25T23:09:01.7217439+00:00",
+  "LastUpdate_Ratings": "2023-04-25T23:02:31.2200173+00:00",
+  "LastChanged_Achievements": "2023-04-25T23:09:01.7217428+00:00",
+  "LastChanged": "2023-04-25T23:02:31.2200168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 300,
-  "NumberOfAwards": 2550,
+  "NumberOfAwards": 2551,
   "Ranking_EOS_Completed": 107,
   "Ranking_EOS_Progress": 44,
   "Ranking_PopularitySum": 162,
