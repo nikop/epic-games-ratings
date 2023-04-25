@@ -106,7 +106,7 @@
 | 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 141 | 284 |
 | 100 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 97 | 320 |
 | 106 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 2,440 | 90 |
-| 106 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,906 | 74 |
+| 106 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,914 | 74 |
 | 106 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.77 | 0 | 486 |
 | 106 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 35 | 421 |
 | 106 | [Tchia](games/t/tchia.md) | 4.77 | 0 | 486 |

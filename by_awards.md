@@ -73,7 +73,7 @@
 | 71 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,068 | 4.51 | 509 |
 | 72 | [Chivalry 2](games/c/chivalry_2.md) | 3,980 | 4.61 | 348 |
 | 73 | [God of War](games/g/god_of_war.md) | 3,949 | 4.89 | 12 |
-| 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 3,906 | 4.77 | 106 |
+| 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 3,914 | 4.77 | 106 |
 | 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 3,763 | 4.56 | 441 |
 | 76 | [Days Gone](games/d/days_gone.md) | 3,729 | 4.69 | 208 |
 | 77 | [SMITE](games/s/smite.md) | 3,672 | 4.45 | 599 |
