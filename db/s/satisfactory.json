@@ -48,7 +48,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 7819
+      "Count": 7834
     },
     {
       "Text": "This game has a Creative Community",
@@ -4265,15 +4265,21 @@
       "Rating": 4.88,
       "NumberOfAwards": 78725,
       "NumberOfAwardsMax": 9152
+    },
+    {
+      "Time": "2023-04-25T18:57:35.7981577+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 78740,
+      "NumberOfAwardsMax": 9152
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T17:57:38.7459148+00:00",
+  "LastChanged": "2023-04-25T18:57:35.7981575+00:00",
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
   "NumberOfAwardsMax": 9152,
-  "NumberOfAwards": 78725,
+  "NumberOfAwards": 78740,
   "NumberOfRatings": 29401,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_Progress": 183,

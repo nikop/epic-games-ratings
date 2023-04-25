@@ -18,7 +18,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 4055
+      "Count": 4059
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -82,6 +82,11 @@
     {
       "Time": "2023-04-25T17:57:13.2135377+00:00",
       "NumProgressed": 683271,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-04-25T18:57:10.6956431+00:00",
+      "NumProgressed": 683383,
       "NumCompleted": 4
     }
   ],
@@ -4232,16 +4237,22 @@
       "Rating": 4.65,
       "NumberOfAwards": 33133,
       "NumberOfAwardsMax": 4341
+    },
+    {
+      "Time": "2023-04-25T18:57:10.386698+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 33137,
+      "NumberOfAwardsMax": 4341
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 4,
-  "EOS_Progressed": 683271,
-  "LastChanged": "2023-04-25T17:57:12.9751161+00:00",
+  "EOS_Progressed": 683383,
+  "LastChanged": "2023-04-25T18:57:10.3866978+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.6011712+00:00",
   "FirstSeen": "2022-07-22T20:19:44.6167524+00:00",
   "NumberOfAwardsMax": 4341,
-  "NumberOfAwards": 33133,
+  "NumberOfAwards": 33137,
   "NumberOfRatings": 25248,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_Progress": 15,

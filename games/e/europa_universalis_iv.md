@@ -3,16 +3,16 @@ Rating: 4.68 (Ranked 232)
 Number of Ratings: 8,414  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Educational): 5,093  (Ranked 60)  
-Sum: 42,201 (Ranked 26)  
+Sum: 42,211 (Ranked 26)  
 Diff (max vs sum): 34
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,880 (Ranked 86)
+Progressed: 20,954 (Ranked 85)
 Completed: 0 (0.00%) (Ranked 122)
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,093 |
-| This game has Challenging Combat | 4,883 |
+| This game has Challenging Combat | 4,893 |
 | This game is Highly Recommended | 4,881 |
 | This game is Extremely Fun | 4,836 |
 | This game has Diverse Characters | 4,792 |
@@ -122,4 +122,4 @@ Completed: 0 (0.00%) (Ranked 122)
 | 2023-04-22 | 4.68 | - | 5,071 | 41,989 |
 | 2023-04-23 | 4.68 | - | 5,079 | 42,074 |
 | 2023-04-24 | 4.68 | - | 5,088 | 42,156 |
-| 2023-04-25 | 4.68 | - | 5,093 | 42,201 |
+| 2023-04-25 | 4.68 | - | 5,093 | 42,211 |

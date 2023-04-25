@@ -36,7 +36,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 201
+      "Count": 202
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2666,15 +2666,21 @@
       "Rating": 4.77,
       "NumberOfAwards": 8241,
       "NumberOfAwardsMax": 3914
+    },
+    {
+      "Time": "2023-04-25T18:58:09.0383798+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 8242,
+      "NumberOfAwardsMax": 3914
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T06:58:39.7331125+00:00",
+  "LastChanged": "2023-04-25T18:58:09.0383796+00:00",
   "FirstSeen": "2022-07-22T20:25:54.5867721+00:00",
   "NumberOfAwardsMax": 3914,
-  "NumberOfAwards": 8241,
+  "NumberOfAwards": 8242,
   "NumberOfRatings": 7175,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_Progress": 183,

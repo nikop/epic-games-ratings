@@ -6,7 +6,7 @@
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 1366
+      "Count": 1367
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1024,15 +1024,21 @@
       "Rating": 4.87,
       "NumberOfAwards": 1470,
       "NumberOfAwardsMax": 1366
+    },
+    {
+      "Time": "2023-04-25T18:57:01.5243544+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1471,
+      "NumberOfAwardsMax": 1367
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-23T16:57:09.9062064+00:00",
+  "LastChanged": "2023-04-25T18:57:01.5243542+00:00",
   "FirstSeen": "2022-07-22T20:18:06.5181893+00:00",
-  "NumberOfAwardsMax": 1366,
-  "NumberOfAwards": 1470,
+  "NumberOfAwardsMax": 1367,
+  "NumberOfAwards": 1471,
   "NumberOfRatings": 3910,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_Progress": 183,

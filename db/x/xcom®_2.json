@@ -30,7 +30,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1114
+      "Count": 1115
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3597,15 +3597,21 @@
       "Rating": 4.54,
       "NumberOfAwards": 9167,
       "NumberOfAwardsMax": 1126
+    },
+    {
+      "Time": "2023-04-25T18:56:58.274219+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9168,
+      "NumberOfAwardsMax": 1126
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T14:57:32.3916029+00:00",
+  "LastChanged": "2023-04-25T18:56:58.2742188+00:00",
   "FirstSeen": "2022-07-22T20:17:40.7075482+00:00",
   "NumberOfAwardsMax": 1126,
-  "NumberOfAwards": 9167,
+  "NumberOfAwards": 9168,
   "NumberOfRatings": 7396,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_Progress": 183,

@@ -12,7 +12,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3181
+      "Count": 3183
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3867,15 +3867,21 @@
       "Rating": 4.35,
       "NumberOfAwards": 22012,
       "NumberOfAwardsMax": 3181
+    },
+    {
+      "Time": "2023-04-25T18:56:51.4457272+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 22014,
+      "NumberOfAwardsMax": 3183
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T11:56:50.1046004+00:00",
+  "LastChanged": "2023-04-25T18:56:51.445727+00:00",
   "FirstSeen": "2022-07-22T20:17:05.5508389+00:00",
-  "NumberOfAwardsMax": 3181,
-  "NumberOfAwards": 22012,
+  "NumberOfAwardsMax": 3183,
+  "NumberOfAwards": 22014,
   "NumberOfRatings": 11687,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_Progress": 183,

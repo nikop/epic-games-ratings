@@ -96,14 +96,14 @@
 | 94 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
 | 94 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.05% |
 | 96 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
+| 96 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.04% |
 | 96 | [High On Life](games/h/high_on_life.md) | 0.04% |
 | 96 | [House Party](games/h/house_party.md) | 0.04% |
 | 96 | [Outward](games/o/outward.md) | 0.04% |
 | 96 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
-| 101 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.03% |
-| 101 | [Dead Island 2](games/d/dead_island_2.md) | 0.03% |
-| 101 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
-| 101 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
+| 102 | [Dead Island 2](games/d/dead_island_2.md) | 0.03% |
+| 102 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
+| 102 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
 | 105 | [Disco Elysium](games/d/disco_elysium.md) | 0.02% |
 | 105 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.02% |
 | 105 | [Good Company](games/g/good_company.md) | 0.02% |

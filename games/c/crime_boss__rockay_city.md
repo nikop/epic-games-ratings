@@ -5,8 +5,8 @@ Max (Highly Recommended): 182  (Ranked 262)
 Sum: 881 (Ranked 232)  
 Diff (max vs sum): 30
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,573 (Ranked 66)
-Completed: 19 (0.03%) (Ranked 101)
+Progressed: 55,585 (Ranked 66)
+Completed: 20 (0.04%) (Ranked 96)
 ## Awards
 | Award | Count |
 | ----- | ----- |

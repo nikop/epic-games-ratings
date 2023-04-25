@@ -6,7 +6,7 @@ Max (Diverse Characters): 8,737  (Ranked 36)
 Sum: 64,835 (Ranked 18)  
 Diff (max vs sum): 18
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,265,616 (Ranked 7)
+Progressed: 1,265,640 (Ranked 7)
 Completed: 2,050 (0.16%) (Ranked 67)
 ## Awards
 | Award | Count |

@@ -12,7 +12,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 545
+      "Count": 546
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -36,7 +36,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 569
+      "Count": 570
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2682,15 +2682,21 @@
       "Rating": 4.46,
       "NumberOfAwards": 7109,
       "NumberOfAwardsMax": 3232
+    },
+    {
+      "Time": "2023-04-25T18:57:13.4257495+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 7111,
+      "NumberOfAwardsMax": 3232
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T11:57:07.7212499+00:00",
+  "LastChanged": "2023-04-25T18:57:13.4257494+00:00",
   "FirstSeen": "2022-07-22T20:23:46.310125+00:00",
   "NumberOfAwardsMax": 3232,
-  "NumberOfAwards": 7109,
+  "NumberOfAwards": 7111,
   "NumberOfRatings": 2790,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_Progress": 183,

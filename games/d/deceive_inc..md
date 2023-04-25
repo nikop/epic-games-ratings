@@ -1,11 +1,11 @@
 # Deceive Inc.
-Rating: 4.57 (Ranked 424)  
+Rating: 4.58 (Ranked 407)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 487)  
 Sum: 0 (Ranked 487)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,599 (Ranked 119)
+Progressed: 4,605 (Ranked 119)
 Completed: 0 (0.00%) (Ranked 122)
 ## Awards
 | Award | Count |
@@ -23,3 +23,4 @@ Completed: 0 (0.00%) (Ranked 122)
 | 2023-04-22 | 4.72 | 0 | 0 |
 | 2023-04-23 | 4.64 | 0 | 0 |
 | 2023-04-24 | 4.57 | 0 | 0 |
+| 2023-04-25 | 4.58 | 0 | 0 |

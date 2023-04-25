@@ -1,5 +1,5 @@
 # Trials Fusion: Standard Edition
-Rating: 4.57 (Ranked 424)  
+Rating: 4.57 (Ranked 425)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 487)  
 Sum: 0 (Ranked 487)  

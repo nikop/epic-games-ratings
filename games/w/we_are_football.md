@@ -1,5 +1,5 @@
 # WE ARE FOOTBALL
-Rating: 4.57 (Ranked 424)  
+Rating: 4.57 (Ranked 425)  
 Number of Ratings: 24  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 487)  

@@ -2,10 +2,10 @@
 Rating: 4.85 (Ranked 37)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 300  (Ranked 223)  
-Sum: 2,544 (Ranked 163)  
-Diff (max vs sum): 60
+Sum: 2,547 (Ranked 162)  
+Diff (max vs sum): 61
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,039 (Ranked 44)
+Progressed: 214,045 (Ranked 44)
 Completed: 684 (0.32%) (Ranked 46)
 ## Awards
 | Award | Count |
@@ -16,8 +16,8 @@ Completed: 684 (0.32%) (Ranked 46)
 | This game has Amazing Characters | 267 |
 | This game has Quickly Understood Controls | 251 |
 | This game is Extremely Fun | 251 |
+| This game has Amazing Storytelling | 248 |
 | This game is Relaxing | 245 |
-| This game has Amazing Storytelling | 245 |
 | This game has a Silly Community | 221 |
 | This game has Easy Combat | 211 |
 | This game is Educational | 158 |
@@ -59,4 +59,4 @@ Completed: 684 (0.32%) (Ranked 46)
 | 2023-04-22 | 4.85 | 295 | 2,526 |
 | 2023-04-23 | 4.85 | 298 | 2,536 |
 | 2023-04-24 | 4.85 | 298 | 2,542 |
-| 2023-04-25 | 4.85 | 300 | 2,544 |
+| 2023-04-25 | 4.85 | 300 | 2,547 |
