@@ -1,16 +1,16 @@
 # Fallout 2: A Post Nuclear Role Playing Game
-Rating: 4.76 (Ranked 112)  
+Rating: 4.76 (Ranked 114)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 60  (Ranked 370)  
-Sum: 60 (Ranked 419)  
-Diff (max vs sum): -49
+Max (Character Customization): 61  (Ranked 371)  
+Sum: 61 (Ranked 421)  
+Diff (max vs sum): -50
 ## Awards
-| Award | Number of Ratings |
-| ----- | ----------------- |
-| This game has Inclusive Character Customization | 60 |
+| Award | Count |
+| ----- | ----- |
+| This game has Inclusive Character Customization | 61 |
 ## Ratings History
-| Date | Rating | Number of Ratings | Number of Awards |
-| ---- | ------ | ----------------- | ---------------- |
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
 | 2022-10-31 | 4.70 | - | - |
 | 2022-11-01 | 4.77 | - | - |
 | 2022-11-02 | 4.79 | - | - |
@@ -38,7 +38,7 @@ Diff (max vs sum): -49
 | 2023-01-08 | 4.77 | - | - |
 | 2023-01-09 | 4.75 | - | - |
 | 2023-01-11 | 4.76 | - | - |
-| 2023-01-15 | 4.76 | - | - |
+| 2023-01-15 | 4.77 | - | - |
 | 2023-01-22 | 4.77 | - | - |
 | 2023-01-27 | 4.75 | - | - |
 | 2023-01-28 | 4.76 | - | - |
@@ -55,8 +55,9 @@ Diff (max vs sum): -49
 | 2023-03-27 | 4.77 | - | - |
 | 2023-03-29 | 4.75 | - | - |
 | 2023-03-30 | 4.76 | - | - |
-| 2023-04-02 | 4.76 | - | 55 |
-| 2023-04-04 | 4.76 | - | 56 |
-| 2023-04-05 | 4.76 | - | 58 |
-| 2023-04-14 | 4.76 | - | 59 |
-| 2023-04-15 | 4.76 | - | 60 |
+| 2023-04-02 | 4.76 | 55 | 55 |
+| 2023-04-04 | 4.76 | 56 | 56 |
+| 2023-04-05 | 4.76 | 58 | 58 |
+| 2023-04-14 | 4.76 | 59 | 59 |
+| 2023-04-15 | 4.76 | 60 | 60 |
+| 2023-04-19 | 4.76 | 61 | 61 |

@@ -4,13 +4,13 @@
   "Rating": 4.51,
   "Ranking_Rating": 509,
   "Ranking_Popularity": 71,
-  "Ranking_PopularitySum": 117,
+  "Ranking_PopularitySum": 120,
   "NumberOfRatings": 12272,
-  "NumberOfAwards": 5182,
-  "NumberOfAwardsMax": 4054,
+  "NumberOfAwards": 5204,
+  "NumberOfAwardsMax": 4072,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:29:15.5533471+00:00",
-  "LastChanged": "2023-04-17T19:58:50.6215614+00:00",
+  "LastChanged": "2023-04-25T14:58:52.6372108+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:15.5533474+00:00",
@@ -1868,6 +1868,66 @@
       "Rating": 4.51,
       "NumberOfAwards": 5182,
       "NumberOfAwardsMax": 4054
+    },
+    {
+      "Time": "2023-04-19T04:58:20.2453357+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 5187,
+      "NumberOfAwardsMax": 4059
+    },
+    {
+      "Time": "2023-04-19T17:58:13.1028041+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 5188,
+      "NumberOfAwardsMax": 4059
+    },
+    {
+      "Time": "2023-04-19T20:04:13.0855327+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 5189,
+      "NumberOfAwardsMax": 4059
+    },
+    {
+      "Time": "2023-04-19T21:58:21.3664669+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 5190,
+      "NumberOfAwardsMax": 4059
+    },
+    {
+      "Time": "2023-04-20T09:58:35.4753075+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 5191,
+      "NumberOfAwardsMax": 4060
+    },
+    {
+      "Time": "2023-04-21T03:59:13.8719121+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 5192,
+      "NumberOfAwardsMax": 4060
+    },
+    {
+      "Time": "2023-04-21T15:59:04.3855978+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 5195,
+      "NumberOfAwardsMax": 4063
+    },
+    {
+      "Time": "2023-04-22T17:58:21.4082269+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 5196,
+      "NumberOfAwardsMax": 4064
+    },
+    {
+      "Time": "2023-04-24T13:06:00.7276647+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 5200,
+      "NumberOfAwardsMax": 4068
+    },
+    {
+      "Time": "2023-04-25T14:58:52.6372111+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 5204,
+      "NumberOfAwardsMax": 4072
     }
   ],
   "Tags": [
@@ -1875,7 +1935,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 4054
+      "Count": 4072
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1887,7 +1947,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 147
+      "Count": 148
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1911,19 +1971,19 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 122
+      "Count": 123
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 107
+      "Count": 108
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 125
+      "Count": 126
     },
     {
       "Text": "This game has a Creative Community",

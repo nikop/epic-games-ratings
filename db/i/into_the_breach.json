@@ -3,14 +3,14 @@
   "Name": "Into the Breach",
   "Rating": 4.84,
   "Ranking_Rating": 49,
-  "Ranking_Popularity": 191,
+  "Ranking_Popularity": 194,
   "Ranking_PopularitySum": 132,
   "NumberOfRatings": 4082,
-  "NumberOfAwards": 3842,
+  "NumberOfAwards": 3853,
   "NumberOfAwardsMax": 405,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00",
-  "LastChanged": "2023-04-18T04:58:28.464424+00:00",
+  "LastChanged": "2023-04-25T13:58:32.4353136+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:50.8479512+00:00",
@@ -2561,6 +2561,72 @@
       "Rating": 4.84,
       "NumberOfAwards": 3842,
       "NumberOfAwardsMax": 405
+    },
+    {
+      "Time": "2023-04-18T20:57:49.1620899+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3843,
+      "NumberOfAwardsMax": 405
+    },
+    {
+      "Time": "2023-04-19T10:58:38.2413976+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3844,
+      "NumberOfAwardsMax": 405
+    },
+    {
+      "Time": "2023-04-19T13:06:31.4343654+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3845,
+      "NumberOfAwardsMax": 405
+    },
+    {
+      "Time": "2023-04-20T07:58:43.0608404+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3846,
+      "NumberOfAwardsMax": 405
+    },
+    {
+      "Time": "2023-04-20T15:57:55.8844571+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3847,
+      "NumberOfAwardsMax": 405
+    },
+    {
+      "Time": "2023-04-20T20:58:08.9654468+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3848,
+      "NumberOfAwardsMax": 405
+    },
+    {
+      "Time": "2023-04-21T22:58:28.1064043+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3849,
+      "NumberOfAwardsMax": 405
+    },
+    {
+      "Time": "2023-04-21T23:57:42.7795827+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3850,
+      "NumberOfAwardsMax": 405
+    },
+    {
+      "Time": "2023-04-24T01:59:51.1369993+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3851,
+      "NumberOfAwardsMax": 405
+    },
+    {
+      "Time": "2023-04-25T01:58:09.3288832+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3852,
+      "NumberOfAwardsMax": 405
+    },
+    {
+      "Time": "2023-04-25T13:58:32.4353138+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3853,
+      "NumberOfAwardsMax": 405
     }
   ],
   "Tags": [
@@ -2574,7 +2640,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 394
+      "Count": 395
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2586,7 +2652,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 397
+      "Count": 399
     },
     {
       "Text": "This game is Relaxing",
@@ -2598,25 +2664,25 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 400
+      "Count": 402
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 392
+      "Count": 393
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 372
+      "Count": 373
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 310
+      "Count": 311
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2640,7 +2706,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 183
+      "Count": 186
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "ID": "0d89655f53884b09b241b60c07e684af",
   "Name": "Warhammer 40,000: Gladius - Relics of War",
-  "Rating": 4.31,
-  "Ranking_Rating": 741,
-  "Ranking_Popularity": 401,
-  "Ranking_PopularitySum": 319,
+  "Rating": 4.33,
+  "Ranking_Rating": 726,
+  "Ranking_Popularity": 381,
+  "Ranking_PopularitySum": 315,
   "NumberOfRatings": 39,
-  "NumberOfAwards": 294,
-  "NumberOfAwardsMax": 43,
+  "NumberOfAwards": 327,
+  "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2022-07-22T20:19:36.3681248+00:00",
-  "LastChanged": "2023-04-18T04:57:36.3256612+00:00",
+  "LastChanged": "2023-04-25T15:57:11.4827527+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:36.3681251+00:00",
@@ -601,6 +601,138 @@
       "Rating": 4.31,
       "NumberOfAwards": 294,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2023-04-18T09:57:47.7948951+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 295,
+      "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2023-04-19T13:05:18.476359+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 296,
+      "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2023-04-19T17:57:11.8043923+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 297,
+      "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2023-04-19T18:57:10.1241021+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 299,
+      "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-04-20T08:57:35.9558282+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 301,
+      "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2023-04-20T13:57:25.7602295+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 305,
+      "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2023-04-20T22:57:53.2265501+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 307,
+      "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2023-04-21T03:57:51.5919346+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 309,
+      "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2023-04-21T15:57:40.9862833+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 311,
+      "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-04-21T17:57:46.7788416+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 311,
+      "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-04-21T18:57:22.3470783+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 312,
+      "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-04-22T02:57:26.577367+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 315,
+      "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2023-04-22T09:57:13.591506+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 316,
+      "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2023-04-22T16:57:22.2057778+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 317,
+      "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2023-04-22T20:57:19.9152362+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 318,
+      "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2023-04-22T21:57:20.1102487+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 320,
+      "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2023-04-23T09:57:10.6647485+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 321,
+      "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2023-04-24T18:57:23.2196676+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 322,
+      "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-04-25T02:56:58.5185768+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 323,
+      "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-04-25T07:57:15.8939258+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 325,
+      "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-04-25T11:57:07.1524067+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 326,
+      "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-04-25T15:57:11.4827529+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 327,
+      "NumberOfAwardsMax": 50
     }
   ],
   "Tags": [
@@ -608,49 +740,49 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 43
+      "Count": 50
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 42
+      "Count": 49
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 29
+      "Count": 32
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 28
+      "Count": 32
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 34
+      "Count": 37
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 27
+      "Count": 29
     },
     {
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 26
+      "Count": 30
     },
     {
       "Text": "This game has Challenging Combat",
@@ -662,7 +794,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 24
+      "Count": 26
     }
   ]
 }

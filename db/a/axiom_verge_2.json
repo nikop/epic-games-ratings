@@ -1,15 +1,15 @@
 {
   "ID": "5e834b926aa547029903e0ae4f649a70",
   "Name": "Axiom Verge 2",
-  "Rating": 4.55,
-  "Ranking_Rating": 463,
-  "Ranking_Popularity": 484,
-  "Ranking_PopularitySum": 484,
+  "Rating": 4.56,
+  "Ranking_Rating": 441,
+  "Ranking_Popularity": 486,
+  "Ranking_PopularitySum": 486,
   "NumberOfRatings": 40,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:25:37.6251124+00:00",
-  "LastChanged": "2023-03-31T05:57:56.1072268+00:00",
+  "LastChanged": "2023-04-23T20:58:11.2083989+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-27T16:01:44.7427819+00:00",
@@ -199,6 +199,12 @@
     {
       "Time": "2023-03-31T05:57:56.107227+00:00",
       "Rating": 4.55,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-23T20:58:11.2083991+00:00",
+      "Rating": 4.56,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

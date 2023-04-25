@@ -2,15 +2,15 @@
   "ID": "8f5f5eff22f3468fa5551771406fc868",
   "Name": "PC Building Simulator",
   "Rating": 4.66,
-  "Ranking_Rating": 272,
+  "Ranking_Rating": 271,
   "Ranking_Popularity": 129,
-  "Ranking_PopularitySum": 90,
+  "Ranking_PopularitySum": 92,
   "NumberOfRatings": 12155,
-  "NumberOfAwards": 7700,
-  "NumberOfAwardsMax": 1029,
+  "NumberOfAwards": 7709,
+  "NumberOfAwardsMax": 1030,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:21:06.3204437+00:00",
-  "LastChanged": "2023-04-18T07:57:38.7141369+00:00",
+  "LastChanged": "2023-04-24T21:57:33.7184451+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:06.3204439+00:00",
@@ -3126,6 +3126,48 @@
       "Rating": 4.66,
       "NumberOfAwards": 7700,
       "NumberOfAwardsMax": 1029
+    },
+    {
+      "Time": "2023-04-19T18:57:21.9921031+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 7701,
+      "NumberOfAwardsMax": 1029
+    },
+    {
+      "Time": "2023-04-19T20:57:51.9172048+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 7703,
+      "NumberOfAwardsMax": 1029
+    },
+    {
+      "Time": "2023-04-19T21:57:25.7719865+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 7704,
+      "NumberOfAwardsMax": 1029
+    },
+    {
+      "Time": "2023-04-20T17:57:07.0331526+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 7706,
+      "NumberOfAwardsMax": 1029
+    },
+    {
+      "Time": "2023-04-21T07:57:26.5166899+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 7707,
+      "NumberOfAwardsMax": 1030
+    },
+    {
+      "Time": "2023-04-24T05:57:38.897403+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 7708,
+      "NumberOfAwardsMax": 1030
+    },
+    {
+      "Time": "2023-04-24T21:57:33.7184454+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 7709,
+      "NumberOfAwardsMax": 1030
     }
   ],
   "Tags": [
@@ -3133,31 +3175,31 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1029
+      "Count": 1030
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 957
+      "Count": 959
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 919
+      "Count": 920
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 953
+      "Count": 955
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 952
+      "Count": 954
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3175,7 +3217,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 783
+      "Count": 784
     },
     {
       "Text": "This game has a Creative Community",

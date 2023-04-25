@@ -2,15 +2,15 @@
   "ID": "df2da503f2074f078f8090da3c27ec47",
   "Name": "BioShock Infinite: Complete Edition",
   "Rating": 4.7,
-  "Ranking_Rating": 191,
+  "Ranking_Rating": 190,
   "Ranking_Popularity": 67,
   "Ranking_PopularitySum": 114,
   "NumberOfRatings": 18329,
-  "NumberOfAwards": 5504,
-  "NumberOfAwardsMax": 4482,
+  "NumberOfAwards": 5521,
+  "NumberOfAwardsMax": 4499,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:20:42.6159254+00:00",
-  "LastChanged": "2023-04-17T03:57:11.8505509+00:00",
+  "LastChanged": "2023-04-25T09:57:27.4701995+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:42.6159256+00:00",
@@ -1772,6 +1772,30 @@
       "Rating": 4.7,
       "NumberOfAwards": 5504,
       "NumberOfAwardsMax": 4482
+    },
+    {
+      "Time": "2023-04-19T23:57:25.6715113+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 5508,
+      "NumberOfAwardsMax": 4486
+    },
+    {
+      "Time": "2023-04-22T09:57:19.3679437+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 5510,
+      "NumberOfAwardsMax": 4488
+    },
+    {
+      "Time": "2023-04-24T06:57:11.44111+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 5516,
+      "NumberOfAwardsMax": 4494
+    },
+    {
+      "Time": "2023-04-25T09:57:27.4701996+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 5521,
+      "NumberOfAwardsMax": 4499
     }
   ],
   "Tags": [
@@ -1779,7 +1803,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 4482
+      "Count": 4499
     },
     {
       "Text": "This game is Great for Beginners",

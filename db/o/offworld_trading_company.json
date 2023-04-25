@@ -1,16 +1,16 @@
 {
   "ID": "e8882546f28e4832af823c646aed232e",
   "Name": "Offworld Trading Company",
-  "Rating": 4.28,
-  "Ranking_Rating": 760,
-  "Ranking_Popularity": 401,
-  "Ranking_PopularitySum": 333,
+  "Rating": 4.29,
+  "Ranking_Rating": 755,
+  "Ranking_Popularity": 404,
+  "Ranking_PopularitySum": 334,
   "NumberOfRatings": 432,
-  "NumberOfAwards": 260,
+  "NumberOfAwards": 261,
   "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:20:30.0277807+00:00",
-  "LastChanged": "2023-04-17T13:06:42.3866445+00:00",
+  "LastChanged": "2023-04-24T18:57:28.9076455+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:30.0277811+00:00",
@@ -602,6 +602,18 @@
       "Rating": 4.28,
       "NumberOfAwards": 260,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2023-04-18T13:07:14.5660922+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 260,
+      "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2023-04-24T18:57:28.9076489+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 261,
+      "NumberOfAwardsMax": 43
     }
   ],
   "Tags": [
@@ -645,7 +657,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has Amazing Storytelling",

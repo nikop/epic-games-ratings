@@ -1,16 +1,16 @@
 {
   "ID": "fa11862b1cfd42e3b3c6395af46efe3e",
   "Name": "Yooka-Laylee and the Impossible Lair",
-  "Rating": 4.38,
-  "Ranking_Rating": 680,
-  "Ranking_Popularity": 435,
-  "Ranking_PopularitySum": 370,
+  "Rating": 4.37,
+  "Ranking_Rating": 693,
+  "Ranking_Popularity": 436,
+  "Ranking_PopularitySum": 371,
   "NumberOfRatings": 346,
   "NumberOfAwards": 156,
   "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:26:15.7946917+00:00",
-  "LastChanged": "2023-04-02T23:57:33.0316735+00:00",
+  "LastChanged": "2023-04-24T20:57:54.0666337+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:15.7946919+00:00",
@@ -542,6 +542,12 @@
     {
       "Time": "2023-04-02T23:57:33.0316737+00:00",
       "Rating": 4.38,
+      "NumberOfAwards": 156,
+      "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2023-04-24T20:57:54.0666339+00:00",
+      "Rating": 4.37,
       "NumberOfAwards": 156,
       "NumberOfAwardsMax": 31
     }

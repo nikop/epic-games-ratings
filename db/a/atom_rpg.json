@@ -2,15 +2,15 @@
   "ID": "cb62701a29834de6a91e5f634a72b6f8",
   "Name": "ATOM RPG",
   "Rating": 4.45,
-  "Ranking_Rating": 595,
-  "Ranking_Popularity": 387,
-  "Ranking_PopularitySum": 430,
+  "Ranking_Rating": 599,
+  "Ranking_Popularity": 392,
+  "Ranking_PopularitySum": 432,
   "NumberOfRatings": 54,
   "NumberOfAwards": 46,
   "NumberOfAwardsMax": 46,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
-  "LastChanged": "2023-03-30T03:58:17.0660844+00:00",
+  "LastChanged": "2023-04-22T20:58:02.069628+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:27.3928407+00:00",
@@ -300,6 +300,18 @@
     {
       "Time": "2023-03-30T03:58:17.0660845+00:00",
       "Rating": 4.45
+    },
+    {
+      "Time": "2023-04-21T20:57:41.3064549+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 46,
+      "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2023-04-22T20:58:02.0696282+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 46,
+      "NumberOfAwardsMax": 46
     }
   ],
   "Tags": [

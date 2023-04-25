@@ -2,15 +2,15 @@
   "ID": "1dcddbcc334945c48353b75a8fce5e5e",
   "Name": "Dishonored 2",
   "Rating": 4.8,
-  "Ranking_Rating": 79,
-  "Ranking_Popularity": 219,
-  "Ranking_PopularitySum": 306,
+  "Ranking_Rating": 78,
+  "Ranking_Popularity": 213,
+  "Ranking_PopularitySum": 310,
   "NumberOfAwards": 348,
-  "NumberOfAwardsMax": 302,
+  "NumberOfAwardsMax": 321,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-11-05T14:01:17.2849219+00:00",
   "FirstSeenRating": "2022-11-24T20:57:28.2064365+00:00",
-  "LastChanged": "2023-04-16T22:57:11.7380204+00:00",
+  "LastChanged": "2023-04-25T09:57:28.8127856+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-24T20:57:28.2064368+00:00",
@@ -277,6 +277,54 @@
       "Rating": 4.8,
       "NumberOfAwards": 348,
       "NumberOfAwardsMax": 302
+    },
+    {
+      "Time": "2023-04-19T04:57:16.1483013+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 349,
+      "NumberOfAwardsMax": 303
+    },
+    {
+      "Time": "2023-04-19T08:57:35.1362548+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 329,
+      "NumberOfAwardsMax": 303
+    },
+    {
+      "Time": "2023-04-20T13:57:34.0366542+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 334,
+      "NumberOfAwardsMax": 308
+    },
+    {
+      "Time": "2023-04-21T18:57:30.7495505+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 338,
+      "NumberOfAwardsMax": 312
+    },
+    {
+      "Time": "2023-04-22T19:57:18.4639905+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 339,
+      "NumberOfAwardsMax": 313
+    },
+    {
+      "Time": "2023-04-23T16:57:27.2621924+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 340,
+      "NumberOfAwardsMax": 313
+    },
+    {
+      "Time": "2023-04-24T03:57:37.8975832+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 344,
+      "NumberOfAwardsMax": 317
+    },
+    {
+      "Time": "2023-04-25T09:57:28.8127964+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 348,
+      "NumberOfAwardsMax": 321
     }
   ],
   "Tags": [
@@ -284,13 +332,13 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 302
+      "Count": 321
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game is Relaxing",

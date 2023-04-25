@@ -1,15 +1,15 @@
 # Not Tonight 2
-Rating: 4.19 (Ranked 808)  
+Rating: 4.19 (Ranked 811)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 484)  
-Sum: 0 (Ranked 484)  
+Max (): 0  (Ranked 486)  
+Sum: 0 (Ranked 486)  
 Diff (max vs sum): 0
 ## Awards
-| Award | Number of Ratings |
-| ----- | ----------------- |
+| Award | Count |
+| ----- | ----- |
 ## Ratings History
-| Date | Rating | Number of Ratings | Number of Awards |
-| ---- | ------ | ----------------- | ---------------- |
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
 | 2022-11-27 | 4.35 | - | - |
 | 2022-12-03 | 4.19 | - | - |
-| 2023-03-31 | 4.19 | - | 0 |
+| 2023-03-31 | 4.19 | 0 | 0 |

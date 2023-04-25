@@ -2,15 +2,15 @@
   "ID": "5e0e5678caaa469baf3a8627c3d1dee4",
   "Name": "Salt and Sacrifice",
   "Rating": 4.31,
-  "Ranking_Rating": 741,
+  "Ranking_Rating": 745,
   "Ranking_Popularity": 139,
-  "Ranking_PopularitySum": 187,
+  "Ranking_PopularitySum": 186,
   "NumberOfRatings": 2205,
-  "NumberOfAwards": 1884,
-  "NumberOfAwardsMax": 920,
+  "NumberOfAwards": 1893,
+  "NumberOfAwardsMax": 924,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
-  "LastChanged": "2023-04-16T14:57:45.3527744+00:00",
+  "LastChanged": "2023-04-25T10:57:27.808821+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:45.0965929+00:00",
@@ -1064,6 +1064,48 @@
       "Rating": 4.31,
       "NumberOfAwards": 1884,
       "NumberOfAwardsMax": 920
+    },
+    {
+      "Time": "2023-04-19T01:59:17.5790069+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 1885,
+      "NumberOfAwardsMax": 920
+    },
+    {
+      "Time": "2023-04-20T20:57:46.374216+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 1886,
+      "NumberOfAwardsMax": 920
+    },
+    {
+      "Time": "2023-04-22T01:57:44.0770955+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 1889,
+      "NumberOfAwardsMax": 923
+    },
+    {
+      "Time": "2023-04-22T06:57:48.9087214+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 1890,
+      "NumberOfAwardsMax": 923
+    },
+    {
+      "Time": "2023-04-22T20:57:49.2320367+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 1891,
+      "NumberOfAwardsMax": 923
+    },
+    {
+      "Time": "2023-04-23T20:57:55.9056113+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 1892,
+      "NumberOfAwardsMax": 924
+    },
+    {
+      "Time": "2023-04-25T10:57:27.8088212+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 1893,
+      "NumberOfAwardsMax": 924
     }
   ],
   "Tags": [
@@ -1071,31 +1113,31 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 920
+      "Count": 924
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 535
+      "Count": 536
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 52
+      "Count": 53
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 63
+      "Count": 64
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 60
+      "Count": 61
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1125,7 +1167,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 48
+      "Count": 49
     },
     {
       "Text": "This game has Amazing Characters",

@@ -1,16 +1,16 @@
 {
   "ID": "8ff186a4415d4ce6b5a287ccfd11cf04",
   "Name": "Core",
-  "Rating": 4.37,
-  "Ranking_Rating": 691,
-  "Ranking_Popularity": 151,
+  "Rating": 4.38,
+  "Ranking_Rating": 684,
+  "Ranking_Popularity": 150,
   "Ranking_PopularitySum": 188,
   "NumberOfRatings": 1439,
-  "NumberOfAwards": 1880,
+  "NumberOfAwards": 1885,
   "NumberOfAwardsMax": 724,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
-  "LastChanged": "2023-04-17T15:57:47.0429407+00:00",
+  "LastChanged": "2023-04-25T14:58:17.4308903+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:10.3468581+00:00",
@@ -1495,6 +1495,42 @@
       "Rating": 4.37,
       "NumberOfAwards": 1880,
       "NumberOfAwardsMax": 724
+    },
+    {
+      "Time": "2023-04-19T23:57:55.2519042+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 1881,
+      "NumberOfAwardsMax": 724
+    },
+    {
+      "Time": "2023-04-20T13:57:56.516756+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 1882,
+      "NumberOfAwardsMax": 724
+    },
+    {
+      "Time": "2023-04-22T11:57:51.9076669+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 1883,
+      "NumberOfAwardsMax": 724
+    },
+    {
+      "Time": "2023-04-23T17:57:45.215134+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 1884,
+      "NumberOfAwardsMax": 724
+    },
+    {
+      "Time": "2023-04-24T17:57:41.5203639+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 1884,
+      "NumberOfAwardsMax": 724
+    },
+    {
+      "Time": "2023-04-25T14:58:17.4308905+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 1885,
+      "NumberOfAwardsMax": 724
     }
   ],
   "Tags": [
@@ -1514,7 +1550,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 128
+      "Count": 129
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1526,13 +1562,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 117
+      "Count": 118
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 109
+      "Count": 111
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1562,7 +1598,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 112
+      "Count": 113
     },
     {
       "Text": "This game has Obsessive Gameplay",

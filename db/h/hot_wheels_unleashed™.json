@@ -2,15 +2,15 @@
   "ID": "71e6bd85af1841f598526da595f22a62",
   "Name": "HOT WHEELS UNLEASHED\u2122",
   "Rating": 4.6,
-  "Ranking_Rating": 375,
-  "Ranking_Popularity": 414,
-  "Ranking_PopularitySum": 308,
+  "Ranking_Rating": 373,
+  "Ranking_Popularity": 416,
+  "Ranking_PopularitySum": 313,
   "NumberOfRatings": 312,
-  "NumberOfAwards": 339,
+  "NumberOfAwards": 340,
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:18:07.8982996+00:00",
-  "LastChanged": "2023-04-06T15:57:04.3982957+00:00",
+  "LastChanged": "2023-04-21T04:56:56.1173841+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:07.8982998+00:00",
@@ -424,6 +424,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 339,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-04-21T04:56:56.1173842+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 340,
+      "NumberOfAwardsMax": 36
     }
   ],
   "Tags": [
@@ -431,7 +437,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game is Great for Quick Sessions",

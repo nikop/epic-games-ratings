@@ -1,27 +1,27 @@
 # Predecessor
-Rating: 4.45 (Ranked 595)  
+Rating: 4.45 (Ranked 599)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 53  (Ranked 376)  
-Sum: 349 (Ranked 305)  
-Diff (max vs sum): 71
+Max (Diverse Characters): 62  (Ranked 368)  
+Sum: 394 (Ranked 298)  
+Diff (max vs sum): 70
 ## Awards
-| Award | Number of Ratings |
-| ----- | ----------------- |
-| This game has Diverse Characters | 53 |
-| This game is Highly Recommended | 51 |
-| This game has Challenging Combat | 45 |
-| This game has Amazing Characters | 44 |
-| This game has a Competitive Community | 43 |
-| This game has Competitive Players | 41 |
-| This game has Quickly Understood Controls | 39 |
-| This game is Extremely Fun | 33 |
+| Award | Count |
+| ----- | ----- |
+| This game has Diverse Characters | 62 |
+| This game is Highly Recommended | 58 |
+| This game has Amazing Characters | 50 |
+| This game has a Competitive Community | 49 |
+| This game has Challenging Combat | 49 |
+| This game has Competitive Players | 47 |
+| This game has Quickly Understood Controls | 43 |
+| This game is Extremely Fun | 36 |
 | This game has Beautiful Visuals | 22 |
 ## Ratings History
-| Date | Rating | Number of Ratings | Number of Awards |
-| ---- | ------ | ----------------- | ---------------- |
-| 2022-12-02 | 4.15 | - | - |
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
+| 2022-12-02 | 4.20 | - | - |
 | 2022-12-03 | 4.18 | - | - |
-| 2022-12-04 | 4.22 | - | - |
+| 2022-12-04 | 4.24 | - | - |
 | 2022-12-05 | 4.26 | - | - |
 | 2022-12-06 | 4.27 | - | - |
 | 2022-12-07 | 4.30 | - | - |
@@ -55,20 +55,28 @@ Diff (max vs sum): 71
 | 2023-03-21 | 4.44 | - | - |
 | 2023-03-23 | 4.45 | - | - |
 | 2023-03-25 | 4.44 | - | - |
-| 2023-03-31 | 4.44 | - | 43 |
-| 2023-04-02 | 4.44 | - | 44 |
-| 2023-04-03 | 4.44 | - | 44 |
-| 2023-04-04 | 4.44 | - | 45 |
-| 2023-04-05 | 4.45 | - | 46 |
-| 2023-04-06 | 4.45 | - | 49 |
-| 2023-04-07 | 4.45 | - | 49 |
-| 2023-04-08 | 4.45 | - | 49 |
-| 2023-04-09 | 4.45 | - | 51 |
-| 2023-04-10 | 4.45 | - | 51 |
-| 2023-04-11 | 4.45 | - | 51 |
-| 2023-04-12 | 4.45 | - | 51 |
-| 2023-04-13 | 4.45 | - | 51 |
-| 2023-04-14 | 4.45 | - | 51 |
-| 2023-04-15 | 4.45 | - | 52 |
-| 2023-04-16 | 4.45 | - | 52 |
-| 2023-04-17 | 4.45 | - | 53 |
+| 2023-03-31 | 4.44 | 43 | 281 |
+| 2023-04-02 | 4.44 | 44 | 284 |
+| 2023-04-03 | 4.44 | 44 | 288 |
+| 2023-04-04 | 4.44 | 45 | 293 |
+| 2023-04-05 | 4.45 | 46 | 297 |
+| 2023-04-06 | 4.45 | 49 | 302 |
+| 2023-04-07 | 4.45 | 49 | 310 |
+| 2023-04-08 | 4.45 | 49 | 314 |
+| 2023-04-09 | 4.45 | 51 | 316 |
+| 2023-04-10 | 4.45 | 51 | 323 |
+| 2023-04-11 | 4.45 | 51 | 325 |
+| 2023-04-12 | 4.45 | 51 | 328 |
+| 2023-04-13 | 4.45 | 51 | 332 |
+| 2023-04-14 | 4.45 | 51 | 337 |
+| 2023-04-15 | 4.45 | 52 | 340 |
+| 2023-04-16 | 4.45 | 52 | 343 |
+| 2023-04-17 | 4.45 | 53 | 349 |
+| 2023-04-18 | 4.45 | 55 | 358 |
+| 2023-04-19 | 4.46 | 56 | 362 |
+| 2023-04-20 | 4.46 | 57 | 367 |
+| 2023-04-21 | 4.45 | 57 | 371 |
+| 2023-04-22 | 4.45 | 59 | 380 |
+| 2023-04-23 | 4.45 | 59 | 388 |
+| 2023-04-24 | 4.45 | 61 | 392 |
+| 2023-04-25 | 4.45 | 62 | 394 |

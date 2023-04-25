@@ -2,15 +2,15 @@
   "ID": "f698d5d792654ac99f47d67e93916bef",
   "Name": "Century: Age of Ashes",
   "Rating": 4.42,
-  "Ranking_Rating": 635,
-  "Ranking_Popularity": 371,
-  "Ranking_PopularitySum": 280,
+  "Ranking_Rating": 638,
+  "Ranking_Popularity": 373,
+  "Ranking_PopularitySum": 278,
   "NumberOfRatings": 1747,
-  "NumberOfAwards": 569,
-  "NumberOfAwardsMax": 59,
+  "NumberOfAwards": 576,
+  "NumberOfAwardsMax": 60,
   "MaxAwardTitle": "Competitive Players",
   "FirstSeen": "2022-07-22T20:17:28.564577+00:00",
-  "LastChanged": "2023-04-14T14:57:03.1638691+00:00",
+  "LastChanged": "2023-04-25T01:57:19.1796322+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:28.5645774+00:00",
@@ -1121,6 +1121,42 @@
       "Rating": 4.42,
       "NumberOfAwards": 569,
       "NumberOfAwardsMax": 59
+    },
+    {
+      "Time": "2023-04-18T15:56:57.2864598+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 570,
+      "NumberOfAwardsMax": 59
+    },
+    {
+      "Time": "2023-04-20T15:57:07.7157889+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 571,
+      "NumberOfAwardsMax": 60
+    },
+    {
+      "Time": "2023-04-20T18:57:01.0085082+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 573,
+      "NumberOfAwardsMax": 60
+    },
+    {
+      "Time": "2023-04-21T01:55:50.3403834+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 574,
+      "NumberOfAwardsMax": 60
+    },
+    {
+      "Time": "2023-04-24T01:58:43.5099058+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 575,
+      "NumberOfAwardsMax": 60
+    },
+    {
+      "Time": "2023-04-25T01:57:19.1796323+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 576,
+      "NumberOfAwardsMax": 60
     }
   ],
   "Tags": [
@@ -1146,31 +1182,31 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 52
+      "Count": 53
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 48
+      "Count": 50
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 43
+      "Count": 44
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 55
+      "Count": 57
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 59
+      "Count": 60
     },
     {
       "Text": "This game has Challenging Combat",

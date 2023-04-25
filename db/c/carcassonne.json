@@ -2,15 +2,15 @@
   "ID": "0aaf0617ee0d47df87c0dc93509159dd",
   "Name": "Carcassonne",
   "Rating": 4.67,
-  "Ranking_Rating": 256,
+  "Ranking_Rating": 254,
   "Ranking_Popularity": 352,
-  "Ranking_PopularitySum": 288,
+  "Ranking_PopularitySum": 289,
   "NumberOfRatings": 276,
-  "NumberOfAwards": 503,
-  "NumberOfAwardsMax": 71,
+  "NumberOfAwards": 507,
+  "NumberOfAwardsMax": 72,
   "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2022-07-22T20:18:17.016066+00:00",
-  "LastChanged": "2023-04-15T01:56:23.7959181+00:00",
+  "LastChanged": "2023-04-23T17:57:04.6429869+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:17.0160662+00:00",
@@ -523,6 +523,30 @@
       "Rating": 4.67,
       "NumberOfAwards": 503,
       "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2023-04-18T17:57:21.1564913+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 504,
+      "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2023-04-19T19:57:42.5187976+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 505,
+      "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2023-04-22T10:57:04.3711061+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 506,
+      "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2023-04-23T17:57:04.6429991+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 507,
+      "NumberOfAwardsMax": 72
     }
   ],
   "Tags": [
@@ -548,13 +572,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 71
+      "Count": 72
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 66
+      "Count": 68
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -566,7 +590,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 59
+      "Count": 60
     },
     {
       "Text": "This game has Challenging Combat",

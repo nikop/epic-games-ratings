@@ -2,15 +2,15 @@
   "ID": "b4e95103463b491ab34b29e616404325",
   "Name": "The Alto Collection",
   "Rating": 4.7,
-  "Ranking_Rating": 191,
-  "Ranking_Popularity": 397,
-  "Ranking_PopularitySum": 308,
+  "Ranking_Rating": 190,
+  "Ranking_Popularity": 401,
+  "Ranking_PopularitySum": 312,
   "NumberOfRatings": 332,
-  "NumberOfAwards": 339,
+  "NumberOfAwards": 341,
   "NumberOfAwardsMax": 44,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
-  "LastChanged": "2023-04-10T23:57:43.6546518+00:00",
+  "LastChanged": "2023-04-25T13:58:36.5559853+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:20.90716+00:00",
@@ -543,6 +543,18 @@
       "Rating": 4.7,
       "NumberOfAwards": 339,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-04-20T19:57:57.8917055+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 340,
+      "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-04-25T13:58:36.5559855+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 341,
+      "NumberOfAwardsMax": 44
     }
   ],
   "Tags": [
@@ -580,7 +592,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game is Relaxing",
@@ -598,7 +610,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Amazing Storytelling",

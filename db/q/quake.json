@@ -1,17 +1,17 @@
 {
   "ID": "f57987ad149c43b3a7a66a7f10828f92",
   "Name": "Quake",
-  "Rating": 4.74,
-  "Ranking_Rating": 141,
-  "Ranking_Popularity": 391,
-  "Ranking_PopularitySum": 432,
+  "Rating": 4.75,
+  "Ranking_Rating": 126,
+  "Ranking_Popularity": 394,
+  "Ranking_PopularitySum": 434,
   "NumberOfRatings": 53,
   "NumberOfAwards": 45,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:23:41.8153102+00:00",
   "FirstSeenRating": "2022-08-05T13:31:10.1842866+00:00",
-  "LastChanged": "2023-04-13T01:54:49.9340845+00:00",
+  "LastChanged": "2023-04-19T01:59:17.20438+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-05T13:31:10.1842868+00:00",
@@ -274,6 +274,12 @@
     {
       "Time": "2023-04-13T01:54:49.9340847+00:00",
       "Rating": 4.74,
+      "NumberOfAwards": 45,
+      "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-04-19T01:59:17.2043802+00:00",
+      "Rating": 4.75,
       "NumberOfAwards": 45,
       "NumberOfAwardsMax": 45
     }

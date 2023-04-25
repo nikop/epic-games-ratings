@@ -2,15 +2,15 @@
   "ID": "752368fdba244e9386023cfb2b9d6ceb",
   "Name": "The Messenger",
   "Rating": 4.8,
-  "Ranking_Rating": 79,
-  "Ranking_Popularity": 215,
-  "Ranking_PopularitySum": 312,
+  "Ranking_Rating": 78,
+  "Ranking_Popularity": 218,
+  "Ranking_PopularitySum": 308,
   "NumberOfRatings": 561,
-  "NumberOfAwards": 333,
-  "NumberOfAwardsMax": 311,
+  "NumberOfAwards": 354,
+  "NumberOfAwardsMax": 312,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:18:54.3850647+00:00",
-  "LastChanged": "2023-04-10T17:57:27.8106644+00:00",
+  "LastChanged": "2023-04-22T07:57:09.2013079+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:54.3850649+00:00",
@@ -548,6 +548,18 @@
       "Rating": 4.8,
       "NumberOfAwards": 333,
       "NumberOfAwardsMax": 311
+    },
+    {
+      "Time": "2023-04-18T15:57:08.4409974+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 353,
+      "NumberOfAwardsMax": 311
+    },
+    {
+      "Time": "2023-04-22T07:57:09.201308+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 354,
+      "NumberOfAwardsMax": 312
     }
   ],
   "Tags": [
@@ -555,13 +567,19 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 311
+      "Count": 312
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
       "Count": 22
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 20
     }
   ]
 }

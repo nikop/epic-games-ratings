@@ -1,16 +1,16 @@
 {
   "ID": "a8a489c0a58646ec88aec778d015fc73",
   "Name": "Edge Of Eternity",
-  "Rating": 3.74,
-  "Ranking_Rating": 898,
-  "Ranking_Popularity": 484,
-  "Ranking_PopularitySum": 484,
+  "Rating": 3.75,
+  "Ranking_Rating": 900,
+  "Ranking_Popularity": 486,
+  "Ranking_PopularitySum": 486,
   "NumberOfRatings": 22,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:20:46.9216243+00:00",
   "FirstSeenRating": "2022-09-05T18:00:46.7188152+00:00",
-  "LastChanged": "2023-03-31T05:57:22.0441101+00:00",
+  "LastChanged": "2023-04-24T20:57:21.8674396+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-05T18:00:46.7188155+00:00",
@@ -66,6 +66,12 @@
     {
       "Time": "2023-03-31T05:57:22.0441104+00:00",
       "Rating": 3.74,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-24T20:57:21.8674403+00:00",
+      "Rating": 3.75,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

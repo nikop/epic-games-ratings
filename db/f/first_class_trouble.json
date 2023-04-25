@@ -3,14 +3,14 @@
   "Name": "First Class Trouble",
   "Rating": 4.51,
   "Ranking_Rating": 509,
-  "Ranking_Popularity": 341,
-  "Ranking_PopularitySum": 271,
-  "NumberOfAwards": 620,
-  "NumberOfAwardsMax": 77,
-  "MaxAwardTitle": "Great for Quick Sessions",
+  "Ranking_Popularity": 342,
+  "Ranking_PopularitySum": 281,
+  "NumberOfAwards": 574,
+  "NumberOfAwardsMax": 80,
+  "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-09-22T22:01:01.54229+00:00",
   "FirstSeenRating": "2023-01-13T07:56:45.2170746+00:00",
-  "LastChanged": "2023-04-17T22:56:51.9340746+00:00",
+  "LastChanged": "2023-04-25T11:56:48.1860138+00:00",
   "RatingHistory": [
     {
       "Time": "2023-01-13T07:56:45.2170748+00:00",
@@ -489,6 +489,90 @@
       "Rating": 4.51,
       "NumberOfAwards": 620,
       "NumberOfAwardsMax": 77
+    },
+    {
+      "Time": "2023-04-18T23:56:53.941876+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 621,
+      "NumberOfAwardsMax": 77
+    },
+    {
+      "Time": "2023-04-19T03:57:19.1124414+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 622,
+      "NumberOfAwardsMax": 77
+    },
+    {
+      "Time": "2023-04-20T03:56:54.9077965+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 625,
+      "NumberOfAwardsMax": 77
+    },
+    {
+      "Time": "2023-04-20T13:03:50.8821997+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 626,
+      "NumberOfAwardsMax": 77
+    },
+    {
+      "Time": "2023-04-21T03:57:29.354062+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 560,
+      "NumberOfAwardsMax": 77
+    },
+    {
+      "Time": "2023-04-21T21:57:02.5425552+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 562,
+      "NumberOfAwardsMax": 77
+    },
+    {
+      "Time": "2023-04-22T13:00:43.9513463+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 563,
+      "NumberOfAwardsMax": 77
+    },
+    {
+      "Time": "2023-04-22T13:56:51.0053829+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 564,
+      "NumberOfAwardsMax": 78
+    },
+    {
+      "Time": "2023-04-22T20:57:01.4018823+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 566,
+      "NumberOfAwardsMax": 78
+    },
+    {
+      "Time": "2023-04-23T15:57:01.9197611+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 567,
+      "NumberOfAwardsMax": 79
+    },
+    {
+      "Time": "2023-04-24T06:56:51.1939245+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 570,
+      "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2023-04-24T19:56:57.3770153+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 572,
+      "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2023-04-25T10:56:48.5574632+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 573,
+      "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2023-04-25T11:56:48.1860139+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 574,
+      "NumberOfAwardsMax": 80
     }
   ],
   "Tags": [
@@ -496,31 +580,31 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 55
+      "Count": 58
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 62
+      "Count": 65
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 77
+      "Count": 79
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 72
+      "Count": 80
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 64
+      "Count": 65
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -532,7 +616,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 67
+      "Count": 69
     },
     {
       "Text": "This game has Playful Visuals",
@@ -550,7 +634,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 45
+      "Count": 46
     }
   ]
 }

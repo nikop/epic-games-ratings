@@ -2,15 +2,15 @@
   "ID": "8ad9396e01f046aaa784a33f7e60dfbe",
   "Name": "Mafia III: Definitive Edition",
   "Rating": 4.2,
-  "Ranking_Rating": 797,
+  "Ranking_Rating": 798,
   "Ranking_Popularity": 350,
-  "Ranking_PopularitySum": 289,
+  "Ranking_PopularitySum": 290,
   "NumberOfRatings": 1289,
-  "NumberOfAwards": 467,
-  "NumberOfAwardsMax": 72,
+  "NumberOfAwards": 473,
+  "NumberOfAwardsMax": 73,
   "MaxAwardTitle": "Amazing Characters",
   "FirstSeen": "2022-07-22T20:19:34.9657602+00:00",
-  "LastChanged": "2023-04-17T01:57:03.8714525+00:00",
+  "LastChanged": "2023-04-23T13:01:19.5539407+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:34.9657605+00:00",
@@ -950,6 +950,42 @@
       "Rating": 4.2,
       "NumberOfAwards": 467,
       "NumberOfAwardsMax": 72
+    },
+    {
+      "Time": "2023-04-19T05:57:16.5984433+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 468,
+      "NumberOfAwardsMax": 72
+    },
+    {
+      "Time": "2023-04-20T11:57:06.5832433+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 469,
+      "NumberOfAwardsMax": 72
+    },
+    {
+      "Time": "2023-04-20T13:04:08.959579+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 470,
+      "NumberOfAwardsMax": 72
+    },
+    {
+      "Time": "2023-04-20T22:57:53.0580061+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 471,
+      "NumberOfAwardsMax": 72
+    },
+    {
+      "Time": "2023-04-22T13:57:08.9879408+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 472,
+      "NumberOfAwardsMax": 72
+    },
+    {
+      "Time": "2023-04-23T13:01:19.5539408+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 473,
+      "NumberOfAwardsMax": 73
     }
   ],
   "Tags": [
@@ -957,7 +993,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 68
+      "Count": 69
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -969,7 +1005,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 72
+      "Count": 73
     },
     {
       "Text": "This game is Relaxing",
@@ -981,7 +1017,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 55
+      "Count": 56
     },
     {
       "Text": "This game has Diverse Characters",
@@ -999,7 +1035,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 56
+      "Count": 57
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1011,7 +1047,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 58
+      "Count": 60
     },
     {
       "Text": "This game has Realistic Visuals",

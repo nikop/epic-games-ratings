@@ -3,14 +3,14 @@
   "Name": "Railway Empire",
   "Rating": 4.51,
   "Ranking_Rating": 509,
-  "Ranking_Popularity": 227,
-  "Ranking_PopularitySum": 190,
+  "Ranking_Popularity": 229,
+  "Ranking_PopularitySum": 189,
   "NumberOfRatings": 2155,
-  "NumberOfAwards": 1865,
+  "NumberOfAwards": 1877,
   "NumberOfAwardsMax": 271,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:18:36.383576+00:00",
-  "LastChanged": "2023-04-17T04:57:10.3524054+00:00",
+  "LastChanged": "2023-04-25T07:57:10.2689545+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:36.3835762+00:00",
@@ -2014,6 +2014,60 @@
       "Rating": 4.51,
       "NumberOfAwards": 1865,
       "NumberOfAwardsMax": 271
+    },
+    {
+      "Time": "2023-04-18T20:57:00.4328773+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 1866,
+      "NumberOfAwardsMax": 271
+    },
+    {
+      "Time": "2023-04-19T15:57:22.7549122+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 1867,
+      "NumberOfAwardsMax": 271
+    },
+    {
+      "Time": "2023-04-20T14:57:23.1829512+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 1868,
+      "NumberOfAwardsMax": 271
+    },
+    {
+      "Time": "2023-04-21T04:57:03.4037046+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 1869,
+      "NumberOfAwardsMax": 271
+    },
+    {
+      "Time": "2023-04-22T01:57:01.5893823+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 1870,
+      "NumberOfAwardsMax": 271
+    },
+    {
+      "Time": "2023-04-22T14:56:59.8830228+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 1871,
+      "NumberOfAwardsMax": 271
+    },
+    {
+      "Time": "2023-04-23T14:57:13.3627234+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 1873,
+      "NumberOfAwardsMax": 271
+    },
+    {
+      "Time": "2023-04-24T10:57:01.8198387+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 1874,
+      "NumberOfAwardsMax": 271
+    },
+    {
+      "Time": "2023-04-25T07:57:10.2689547+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 1877,
+      "NumberOfAwardsMax": 271
     }
   ],
   "Tags": [
@@ -2021,7 +2075,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 263
+      "Count": 266
     },
     {
       "Text": "This game is Relaxing",
@@ -2033,13 +2087,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 252
+      "Count": 254
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 267
+      "Count": 269
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2051,7 +2105,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 259
+      "Count": 262
     },
     {
       "Text": "This game is Educational",
@@ -2063,13 +2117,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 225
+      "Count": 226
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 109
+      "Count": 110
     },
     {
       "Text": "This game has Amazing Characters",

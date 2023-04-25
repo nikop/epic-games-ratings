@@ -3,15 +3,15 @@
   "Name": "The Drone Racing League\u00AE",
   "Rating": 4.51,
   "Ranking_Rating": 509,
-  "Ranking_Popularity": 366,
-  "Ranking_PopularitySum": 290,
+  "Ranking_Popularity": 367,
+  "Ranking_PopularitySum": 291,
   "NumberOfRatings": 36,
-  "NumberOfAwards": 412,
+  "NumberOfAwards": 439,
   "NumberOfAwardsMax": 63,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:20:23.4862856+00:00",
   "FirstSeenRating": "2022-07-30T13:30:57.2183097+00:00",
-  "LastChanged": "2023-04-16T19:57:12.5167057+00:00",
+  "LastChanged": "2023-04-23T08:57:12.1368618+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-30T13:30:57.2183099+00:00",
@@ -374,6 +374,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 412,
       "NumberOfAwardsMax": 63
+    },
+    {
+      "Time": "2023-04-18T15:57:17.6944559+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 436,
+      "NumberOfAwardsMax": 63
+    },
+    {
+      "Time": "2023-04-20T17:57:03.2535735+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 438,
+      "NumberOfAwardsMax": 63
+    },
+    {
+      "Time": "2023-04-23T08:57:12.1368619+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 439,
+      "NumberOfAwardsMax": 63
     }
   ],
   "Tags": [
@@ -399,19 +417,19 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 47
+      "Count": 48
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 45
+      "Count": 46
     },
     {
       "Text": "This game has Competitive Players",
@@ -436,6 +454,12 @@
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
       "Count": 35
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 24
     }
   ]
 }

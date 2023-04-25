@@ -2,15 +2,15 @@
   "ID": "3ffb410dab2d409aacd39a1abc6fcbba",
   "Name": "Prison Architect",
   "Rating": 4.61,
-  "Ranking_Rating": 350,
-  "Ranking_Popularity": 192,
+  "Ranking_Rating": 348,
+  "Ranking_Popularity": 195,
   "Ranking_PopularitySum": 143,
   "NumberOfRatings": 4491,
-  "NumberOfAwards": 3148,
-  "NumberOfAwardsMax": 401,
+  "NumberOfAwards": 3178,
+  "NumberOfAwardsMax": 404,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
-  "LastChanged": "2023-04-17T14:57:01.3581447+00:00",
+  "LastChanged": "2023-04-25T01:57:17.0905604+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:08.1221805+00:00",
@@ -2522,6 +2522,132 @@
       "Rating": 4.61,
       "NumberOfAwards": 3148,
       "NumberOfAwardsMax": 401
+    },
+    {
+      "Time": "2023-04-18T10:57:24.1601704+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3149,
+      "NumberOfAwardsMax": 401
+    },
+    {
+      "Time": "2023-04-18T18:57:14.6514132+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3150,
+      "NumberOfAwardsMax": 402
+    },
+    {
+      "Time": "2023-04-19T13:04:55.2202118+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3151,
+      "NumberOfAwardsMax": 402
+    },
+    {
+      "Time": "2023-04-19T19:57:01.9522014+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3152,
+      "NumberOfAwardsMax": 402
+    },
+    {
+      "Time": "2023-04-19T23:56:58.0132056+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3153,
+      "NumberOfAwardsMax": 402
+    },
+    {
+      "Time": "2023-04-20T10:57:14.342666+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3154,
+      "NumberOfAwardsMax": 402
+    },
+    {
+      "Time": "2023-04-20T18:56:57.6733576+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3155,
+      "NumberOfAwardsMax": 402
+    },
+    {
+      "Time": "2023-04-21T10:56:56.9738544+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3156,
+      "NumberOfAwardsMax": 402
+    },
+    {
+      "Time": "2023-04-21T13:56:51.8126376+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3157,
+      "NumberOfAwardsMax": 402
+    },
+    {
+      "Time": "2023-04-21T19:56:46.7758846+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3158,
+      "NumberOfAwardsMax": 402
+    },
+    {
+      "Time": "2023-04-21T20:56:53.948207+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3160,
+      "NumberOfAwardsMax": 402
+    },
+    {
+      "Time": "2023-04-22T01:56:49.519151+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3161,
+      "NumberOfAwardsMax": 402
+    },
+    {
+      "Time": "2023-04-22T08:57:09.1917709+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3162,
+      "NumberOfAwardsMax": 403
+    },
+    {
+      "Time": "2023-04-22T21:57:03.8990091+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3164,
+      "NumberOfAwardsMax": 403
+    },
+    {
+      "Time": "2023-04-23T07:57:20.1149249+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3165,
+      "NumberOfAwardsMax": 403
+    },
+    {
+      "Time": "2023-04-23T10:56:51.7693197+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3167,
+      "NumberOfAwardsMax": 403
+    },
+    {
+      "Time": "2023-04-23T14:57:05.9161578+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3169,
+      "NumberOfAwardsMax": 403
+    },
+    {
+      "Time": "2023-04-23T21:56:47.0422998+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3171,
+      "NumberOfAwardsMax": 403
+    },
+    {
+      "Time": "2023-04-24T13:04:15.0382335+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3173,
+      "NumberOfAwardsMax": 403
+    },
+    {
+      "Time": "2023-04-24T17:57:04.7905011+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3176,
+      "NumberOfAwardsMax": 404
+    },
+    {
+      "Time": "2023-04-25T01:57:17.0905606+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3178,
+      "NumberOfAwardsMax": 404
     }
   ],
   "Tags": [
@@ -2529,25 +2655,25 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 344
+      "Count": 346
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 382
+      "Count": 386
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 401
+      "Count": 404
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 341
+      "Count": 345
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2559,31 +2685,31 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 387
+      "Count": 390
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 374
+      "Count": 379
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 351
+      "Count": 356
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 316
+      "Count": 319
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 252
+      "Count": 253
     }
   ]
 }

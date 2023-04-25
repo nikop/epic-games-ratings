@@ -2,15 +2,15 @@
   "ID": "d469e82d91fe4516a00d6566c3d2f8f7",
   "Name": "Going Medieval",
   "Rating": 4.6,
-  "Ranking_Rating": 375,
-  "Ranking_Popularity": 297,
-  "Ranking_PopularitySum": 230,
+  "Ranking_Rating": 373,
+  "Ranking_Popularity": 299,
+  "Ranking_PopularitySum": 229,
   "NumberOfRatings": 706,
-  "NumberOfAwards": 910,
+  "NumberOfAwards": 915,
   "NumberOfAwardsMax": 117,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
-  "LastChanged": "2023-04-17T15:58:11.9013876+00:00",
+  "LastChanged": "2023-04-23T17:58:15.1735738+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:28:43.3022236+00:00",
@@ -798,6 +798,36 @@
       "Rating": 4.6,
       "NumberOfAwards": 910,
       "NumberOfAwardsMax": 117
+    },
+    {
+      "Time": "2023-04-18T14:58:19.4752213+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 911,
+      "NumberOfAwardsMax": 117
+    },
+    {
+      "Time": "2023-04-20T07:58:57.1235867+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 912,
+      "NumberOfAwardsMax": 117
+    },
+    {
+      "Time": "2023-04-21T19:57:45.8359025+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 913,
+      "NumberOfAwardsMax": 117
+    },
+    {
+      "Time": "2023-04-23T13:57:44.0981836+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 914,
+      "NumberOfAwardsMax": 117
+    },
+    {
+      "Time": "2023-04-23T17:58:15.1735739+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 915,
+      "NumberOfAwardsMax": 117
     }
   ],
   "Tags": [
@@ -817,25 +847,25 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 93
+      "Count": 94
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 98
+      "Count": 99
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 89
+      "Count": 90
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 105
+      "Count": 107
     },
     {
       "Text": "This game has Amazing Storytelling",

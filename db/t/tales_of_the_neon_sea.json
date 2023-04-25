@@ -1,15 +1,15 @@
 {
   "ID": "37e6d41ce91e44988190c2f10108d4e9",
   "Name": "Tales of the Neon Sea",
-  "Rating": 4.55,
-  "Ranking_Rating": 463,
-  "Ranking_Popularity": 484,
-  "Ranking_PopularitySum": 484,
+  "Rating": 4.54,
+  "Ranking_Rating": 472,
+  "Ranking_Popularity": 486,
+  "Ranking_PopularitySum": 486,
   "NumberOfRatings": 251,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:18:14.4267103+00:00",
-  "LastChanged": "2023-03-31T05:57:05.9478955+00:00",
+  "LastChanged": "2023-04-21T20:57:00.0358866+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:14.4267106+00:00",
@@ -352,6 +352,12 @@
     {
       "Time": "2023-03-31T05:57:05.9478957+00:00",
       "Rating": 4.55,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-21T20:57:00.0358869+00:00",
+      "Rating": 4.54,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

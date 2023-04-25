@@ -1,15 +1,15 @@
 # Little Big Workshop
-Rating: 4.30 (Ranked 744)  
+Rating: 4.30 (Ranked 748)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 484)  
-Sum: 0 (Ranked 484)  
+Max (): 0  (Ranked 486)  
+Sum: 0 (Ranked 486)  
 Diff (max vs sum): 0
 ## Awards
-| Award | Number of Ratings |
-| ----- | ----------------- |
+| Award | Count |
+| ----- | ----- |
 ## Ratings History
-| Date | Rating | Number of Ratings | Number of Awards |
-| ---- | ------ | ----------------- | ---------------- |
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
 | 2022-10-23 | 4.40 | - | - |
 | 2022-11-01 | 4.38 | - | - |
 | 2022-11-07 | 4.27 | - | - |
@@ -18,4 +18,4 @@ Diff (max vs sum): 0
 | 2022-12-29 | 4.28 | - | - |
 | 2023-01-01 | 4.27 | - | - |
 | 2023-02-25 | 4.30 | - | - |
-| 2023-03-31 | 4.30 | - | 0 |
+| 2023-03-31 | 4.30 | 0 | 0 |

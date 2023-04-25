@@ -2,15 +2,15 @@
   "ID": "538de058a6d9490ea151c4cd111cc01b",
   "Name": "Tannenberg",
   "Rating": 4.39,
-  "Ranking_Rating": 670,
-  "Ranking_Popularity": 209,
-  "Ranking_PopularitySum": 151,
+  "Ranking_Rating": 672,
+  "Ranking_Popularity": 213,
+  "Ranking_PopularitySum": 153,
   "NumberOfRatings": 13393,
-  "NumberOfAwards": 2816,
+  "NumberOfAwards": 2820,
   "NumberOfAwardsMax": 321,
   "MaxAwardTitle": "Competitive Players",
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
-  "LastChanged": "2023-04-15T17:57:38.3483148+00:00",
+  "LastChanged": "2023-04-25T14:58:22.9298322+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:54.24863+00:00",
@@ -2878,6 +2878,30 @@
       "Rating": 4.39,
       "NumberOfAwards": 2816,
       "NumberOfAwardsMax": 321
+    },
+    {
+      "Time": "2023-04-18T15:57:52.7165122+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 2817,
+      "NumberOfAwardsMax": 321
+    },
+    {
+      "Time": "2023-04-20T13:04:46.3967568+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 2818,
+      "NumberOfAwardsMax": 321
+    },
+    {
+      "Time": "2023-04-25T13:58:15.361263+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 2819,
+      "NumberOfAwardsMax": 321
+    },
+    {
+      "Time": "2023-04-25T14:58:22.9298324+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 2820,
+      "NumberOfAwardsMax": 321
     }
   ],
   "Tags": [
@@ -2885,19 +2909,19 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 301
+      "Count": 302
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 244
+      "Count": 245
     },
     {
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 252
+      "Count": 253
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2939,7 +2963,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 301
+      "Count": 302
     },
     {
       "Text": "This game is Relaxing",

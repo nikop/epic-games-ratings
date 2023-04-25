@@ -2,15 +2,15 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "Rating": 4.18,
-  "Ranking_Rating": 814,
-  "Ranking_Popularity": 397,
+  "Ranking_Rating": 816,
+  "Ranking_Popularity": 394,
   "Ranking_PopularitySum": 339,
-  "NumberOfAwards": 234,
-  "NumberOfAwardsMax": 44,
-  "MaxAwardTitle": "Highly Recommended",
+  "NumberOfAwards": 241,
+  "NumberOfAwardsMax": 45,
+  "MaxAwardTitle": "Amazing Storytelling",
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
-  "LastChanged": "2023-04-15T01:56:29.6953986+00:00",
+  "LastChanged": "2023-04-24T23:57:05.8956465+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-03T10:57:24.5094082+00:00",
@@ -289,6 +289,48 @@
       "Rating": 4.18,
       "NumberOfAwards": 234,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-04-18T19:57:05.269785+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 235,
+      "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-04-19T14:57:11.0738827+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 236,
+      "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-04-22T13:01:02.3707727+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 237,
+      "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-04-22T16:57:20.2268042+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 238,
+      "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-04-23T18:57:17.4062962+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 239,
+      "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-04-24T19:57:17.0441913+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 240,
+      "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-04-24T23:57:05.8956467+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 241,
+      "NumberOfAwardsMax": 45
     }
   ],
   "Tags": [
@@ -296,7 +338,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 44
+      "Count": 45
     },
     {
       "Text": "This game is Extremely Fun",
@@ -308,25 +350,25 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 38
+      "Count": 39
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 42
+      "Count": 45
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 29
+      "Count": 30
     }
   ]
 }

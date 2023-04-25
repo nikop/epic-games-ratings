@@ -2,15 +2,15 @@
   "ID": "2736ab9fec9c4a93a7a2872ed5154d4b",
   "Name": "Rage 2",
   "Rating": 4.28,
-  "Ranking_Rating": 760,
-  "Ranking_Popularity": 88,
+  "Ranking_Rating": 762,
+  "Ranking_Popularity": 91,
   "Ranking_PopularitySum": 142,
   "NumberOfRatings": 4311,
-  "NumberOfAwards": 3226,
-  "NumberOfAwardsMax": 2419,
+  "NumberOfAwards": 3229,
+  "NumberOfAwardsMax": 2422,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:21:59.0256751+00:00",
-  "LastChanged": "2023-04-17T10:57:39.891697+00:00",
+  "LastChanged": "2023-04-22T09:57:26.6705868+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:59.0256753+00:00",
@@ -1844,6 +1844,12 @@
       "Rating": 4.28,
       "NumberOfAwards": 3226,
       "NumberOfAwardsMax": 2419
+    },
+    {
+      "Time": "2023-04-22T09:57:26.670587+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 3229,
+      "NumberOfAwardsMax": 2422
     }
   ],
   "Tags": [
@@ -1851,7 +1857,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2419
+      "Count": 2422
     },
     {
       "Text": "This game has Amazing Characters",

@@ -2,15 +2,15 @@
   "ID": "935fa66c485e4c988eb939f86dc458b5",
   "Name": "Phantom Brigade",
   "Rating": 4.62,
-  "Ranking_Rating": 334,
-  "Ranking_Popularity": 314,
-  "Ranking_PopularitySum": 390,
+  "Ranking_Rating": 333,
+  "Ranking_Popularity": 316,
+  "Ranking_PopularitySum": 393,
   "NumberOfRatings": 239,
-  "NumberOfAwards": 101,
-  "NumberOfAwardsMax": 101,
+  "NumberOfAwards": 102,
+  "NumberOfAwardsMax": 102,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:23:24.542788+00:00",
-  "LastChanged": "2023-04-13T23:57:25.340253+00:00",
+  "LastChanged": "2023-04-23T18:57:52.6937688+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:24.5427882+00:00",
@@ -425,6 +425,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 101,
       "NumberOfAwardsMax": 101
+    },
+    {
+      "Time": "2023-04-23T18:57:52.6937692+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 102,
+      "NumberOfAwardsMax": 102
     }
   ],
   "Tags": [
@@ -432,7 +438,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 101
+      "Count": 102
     }
   ]
 }

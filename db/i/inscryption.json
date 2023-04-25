@@ -2,15 +2,15 @@
   "ID": "78546100323d461dbda0306d6af277e3",
   "Name": "Inscryption",
   "Rating": 4.86,
-  "Ranking_Rating": 29,
-  "Ranking_Popularity": 208,
-  "Ranking_PopularitySum": 304,
+  "Ranking_Rating": 28,
+  "Ranking_Popularity": 211,
+  "Ranking_PopularitySum": 309,
   "NumberOfRatings": 771,
-  "NumberOfAwards": 352,
-  "NumberOfAwardsMax": 328,
+  "NumberOfAwards": 353,
+  "NumberOfAwardsMax": 329,
   "MaxAwardTitle": "Challenging Puzzles",
   "FirstSeen": "2022-07-22T20:27:28.221027+00:00",
-  "LastChanged": "2023-04-14T15:58:03.9289117+00:00",
+  "LastChanged": "2023-04-23T10:57:48.1211329+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:28.2210273+00:00",
@@ -573,6 +573,12 @@
       "Rating": 4.86,
       "NumberOfAwards": 352,
       "NumberOfAwardsMax": 328
+    },
+    {
+      "Time": "2023-04-23T10:57:48.1211331+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 353,
+      "NumberOfAwardsMax": 329
     }
   ],
   "Tags": [
@@ -580,7 +586,7 @@
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 328
+      "Count": 329
     },
     {
       "Text": "This game has Amazing Storytelling",

@@ -1,8 +1,114 @@
 {
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
-  "Names": [],
-  "DailyRatings": 0,
-  "RatingHistory": [],
-  "Tags": []
+  "Rating": 4.52,
+  "Ranking_Rating": 496,
+  "Ranking_Popularity": 161,
+  "Ranking_PopularitySum": 274,
+  "NumberOfAwards": 610,
+  "NumberOfAwardsMax": 610,
+  "MaxAwardTitle": "Great Boss Battles",
+  "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
+  "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
+  "LastChanged": "2023-04-25T15:57:25.2745696+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-21T14:57:30.4641621+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-21T15:58:03.5021361+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-21T18:57:40.8142715+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-22T04:57:19.6936435+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-22T13:01:24.7456335+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-22T15:57:18.2916274+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 35,
+      "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-04-22T21:57:37.549525+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 35,
+      "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-04-23T02:57:25.9673179+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 35,
+      "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-04-23T04:57:32.1497722+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 35,
+      "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-04-23T08:57:23.6529926+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 35,
+      "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-04-23T15:57:47.0901895+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 160,
+      "NumberOfAwardsMax": 160
+    },
+    {
+      "Time": "2023-04-24T15:57:46.9798846+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 382,
+      "NumberOfAwardsMax": 382
+    },
+    {
+      "Time": "2023-04-25T03:57:43.4979189+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 382,
+      "NumberOfAwardsMax": 382
+    },
+    {
+      "Time": "2023-04-25T14:58:02.6684287+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 382,
+      "NumberOfAwardsMax": 382
+    },
+    {
+      "Time": "2023-04-25T15:57:25.2745698+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 610,
+      "NumberOfAwardsMax": 610
+    }
+  ],
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 610
+    }
+  ]
 }

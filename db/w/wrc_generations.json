@@ -1,15 +1,15 @@
 {
   "ID": "a30d60ca7a8d4fd2ad6e531c59854e5e",
   "Name": "WRC Generations",
-  "Rating": 4.46,
-  "Ranking_Rating": 582,
-  "Ranking_Popularity": 484,
-  "Ranking_PopularitySum": 484,
+  "Rating": 4.47,
+  "Ranking_Rating": 574,
+  "Ranking_Popularity": 486,
+  "Ranking_PopularitySum": 486,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-11-03T15:34:05.2921082+00:00",
   "FirstSeenRating": "2022-11-09T14:57:20.1169919+00:00",
-  "LastChanged": "2023-04-11T07:57:07.9038043+00:00",
+  "LastChanged": "2023-04-24T20:57:21.8498828+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-09T14:57:20.1169923+00:00",
@@ -228,6 +228,12 @@
     {
       "Time": "2023-04-11T07:57:07.9040252+00:00",
       "Rating": 4.46,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-24T20:57:21.849883+00:00",
+      "Rating": 4.47,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

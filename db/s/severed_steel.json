@@ -2,15 +2,15 @@
   "ID": "5db7394e65044dd1bb083ee983e2b3a5",
   "Name": "Severed Steel",
   "Rating": 4.68,
-  "Ranking_Rating": 235,
-  "Ranking_Popularity": 277,
-  "Ranking_PopularitySum": 369,
-  "NumberOfAwards": 157,
-  "NumberOfAwardsMax": 157,
+  "Ranking_Rating": 232,
+  "Ranking_Popularity": 278,
+  "Ranking_PopularitySum": 368,
+  "NumberOfAwards": 159,
+  "NumberOfAwardsMax": 159,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:21:24.7272687+00:00",
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
-  "LastChanged": "2023-04-14T22:57:33.002425+00:00",
+  "LastChanged": "2023-04-21T20:57:16.6016316+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-28T18:57:32.9042651+00:00",
@@ -127,6 +127,18 @@
       "Rating": 4.68,
       "NumberOfAwards": 157,
       "NumberOfAwardsMax": 157
+    },
+    {
+      "Time": "2023-04-20T16:57:15.024313+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 158,
+      "NumberOfAwardsMax": 158
+    },
+    {
+      "Time": "2023-04-21T20:57:16.6016317+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 159,
+      "NumberOfAwardsMax": 159
     }
   ],
   "Tags": [
@@ -134,7 +146,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 157
+      "Count": 159
     }
   ]
 }

@@ -1,14 +1,14 @@
 # Dinosaur Fossil Hunter
-Rating: 4.20 (Ranked 797)  
+Rating: 4.20 (Ranked 798)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 484)  
-Sum: 0 (Ranked 484)  
+Max (): 0  (Ranked 486)  
+Sum: 0 (Ranked 486)  
 Diff (max vs sum): 0
 ## Awards
-| Award | Number of Ratings |
-| ----- | ----------------- |
+| Award | Count |
+| ----- | ----- |
 ## Ratings History
-| Date | Rating | Number of Ratings | Number of Awards |
-| ---- | ------ | ----------------- | ---------------- |
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
 | 2022-11-23 | 4.20 | - | - |
-| 2023-03-31 | 4.20 | - | 0 |
+| 2023-03-31 | 4.20 | 0 | 0 |

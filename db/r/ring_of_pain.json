@@ -2,16 +2,16 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "Rating": 4.58,
-  "Ranking_Rating": 406,
+  "Ranking_Rating": 407,
   "Ranking_Popularity": 112,
   "Ranking_PopularitySum": 74,
   "NumberOfRatings": 15086,
-  "NumberOfAwards": 11350,
-  "NumberOfAwardsMax": 1468,
+  "NumberOfAwards": 11361,
+  "NumberOfAwardsMax": 1469,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
-  "LastChanged": "2023-04-18T02:58:08.8117861+00:00",
+  "LastChanged": "2023-04-24T03:58:13.2871363+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-26T04:31:33.9561596+00:00",
@@ -1716,6 +1716,66 @@
       "Rating": 4.58,
       "NumberOfAwards": 11350,
       "NumberOfAwardsMax": 1468
+    },
+    {
+      "Time": "2023-04-19T17:57:45.8593737+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11351,
+      "NumberOfAwardsMax": 1468
+    },
+    {
+      "Time": "2023-04-19T18:57:50.7935733+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11352,
+      "NumberOfAwardsMax": 1468
+    },
+    {
+      "Time": "2023-04-19T20:58:25.7680701+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11353,
+      "NumberOfAwardsMax": 1468
+    },
+    {
+      "Time": "2023-04-20T10:57:54.7300401+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11354,
+      "NumberOfAwardsMax": 1468
+    },
+    {
+      "Time": "2023-04-20T15:57:45.424036+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11355,
+      "NumberOfAwardsMax": 1468
+    },
+    {
+      "Time": "2023-04-21T14:57:44.4274037+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11356,
+      "NumberOfAwardsMax": 1468
+    },
+    {
+      "Time": "2023-04-22T03:57:46.8884896+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11358,
+      "NumberOfAwardsMax": 1468
+    },
+    {
+      "Time": "2023-04-23T06:58:03.1570095+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11359,
+      "NumberOfAwardsMax": 1468
+    },
+    {
+      "Time": "2023-04-23T18:58:05.3908325+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11360,
+      "NumberOfAwardsMax": 1469
+    },
+    {
+      "Time": "2023-04-24T03:58:13.2871365+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11361,
+      "NumberOfAwardsMax": 1469
     }
   ],
   "Tags": [
@@ -1723,7 +1783,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1376
+      "Count": 1377
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1735,19 +1795,19 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1386
+      "Count": 1389
     },
     {
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1178
+      "Count": 1179
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1468
+      "Count": 1469
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1771,19 +1831,19 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1292
+      "Count": 1293
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1402
+      "Count": 1404
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 720
+      "Count": 722
     }
   ]
 }

@@ -2,15 +2,15 @@
   "ID": "hellebore",
   "Name": "Far Cry\u00AE3 Standard Edition",
   "Rating": 4.69,
-  "Ranking_Rating": 213,
-  "Ranking_Popularity": 212,
-  "Ranking_PopularitySum": 303,
+  "Ranking_Rating": 208,
+  "Ranking_Popularity": 211,
+  "Ranking_PopularitySum": 304,
   "NumberOfRatings": 504,
-  "NumberOfAwards": 358,
-  "NumberOfAwardsMax": 317,
+  "NumberOfAwards": 372,
+  "NumberOfAwardsMax": 329,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:24:43.0306746+00:00",
-  "LastChanged": "2023-04-17T21:57:31.2435064+00:00",
+  "LastChanged": "2023-04-25T05:57:54.7415427+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:43.0306749+00:00",
@@ -631,6 +631,54 @@
       "Rating": 4.69,
       "NumberOfAwards": 358,
       "NumberOfAwardsMax": 317
+    },
+    {
+      "Time": "2023-04-18T19:57:36.7022735+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 360,
+      "NumberOfAwardsMax": 319
+    },
+    {
+      "Time": "2023-04-19T08:58:10.4171004+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 361,
+      "NumberOfAwardsMax": 319
+    },
+    {
+      "Time": "2023-04-20T03:57:47.2803163+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 362,
+      "NumberOfAwardsMax": 320
+    },
+    {
+      "Time": "2023-04-21T06:57:51.4709393+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 364,
+      "NumberOfAwardsMax": 322
+    },
+    {
+      "Time": "2023-04-22T18:58:21.4953174+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 365,
+      "NumberOfAwardsMax": 323
+    },
+    {
+      "Time": "2023-04-23T04:57:50.2510974+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 366,
+      "NumberOfAwardsMax": 323
+    },
+    {
+      "Time": "2023-04-23T20:58:03.9299664+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 369,
+      "NumberOfAwardsMax": 326
+    },
+    {
+      "Time": "2023-04-25T05:57:54.7415427+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 372,
+      "NumberOfAwardsMax": 329
     }
   ],
   "Tags": [
@@ -638,19 +686,19 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 317
+      "Count": 329
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 21
+      "Count": 22
     }
   ]
 }

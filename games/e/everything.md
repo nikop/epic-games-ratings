@@ -1,15 +1,15 @@
 # Everything
-Rating: 4.57 (Ranked 422)  
+Rating: 4.57 (Ranked 424)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 484)  
-Sum: 0 (Ranked 484)  
+Max (): 0  (Ranked 486)  
+Sum: 0 (Ranked 486)  
 Diff (max vs sum): 0
 ## Awards
-| Award | Number of Ratings |
-| ----- | ----------------- |
+| Award | Count |
+| ----- | ----- |
 ## Ratings History
-| Date | Rating | Number of Ratings | Number of Awards |
-| ---- | ------ | ----------------- | ---------------- |
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
 | 2022-10-18 | 4.70 | - | - |
 | 2022-10-27 | 4.71 | - | - |
 | 2022-11-10 | 4.64 | - | - |
@@ -21,4 +21,4 @@ Diff (max vs sum): 0
 | 2022-12-05 | 4.64 | - | - |
 | 2022-12-09 | 4.62 | - | - |
 | 2023-02-16 | 4.57 | - | - |
-| 2023-03-31 | 4.57 | - | 0 |
+| 2023-03-31 | 4.57 | 0 | 0 |

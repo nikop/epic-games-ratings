@@ -1,15 +1,15 @@
 {
   "ID": "a83aedcdb7304b51802d41c5ca308ef2",
   "Name": "Farmer\u0027s Dynasty",
-  "Rating": 4.18,
-  "Ranking_Rating": 814,
-  "Ranking_Popularity": 484,
-  "Ranking_PopularitySum": 484,
+  "Rating": 4.19,
+  "Ranking_Rating": 811,
+  "Ranking_Popularity": 486,
+  "Ranking_PopularitySum": 486,
   "NumberOfRatings": 64,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:23:48.9867279+00:00",
-  "LastChanged": "2023-04-18T07:58:02.8029994+00:00",
+  "LastChanged": "2023-04-23T20:57:56.3634227+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:48.9867282+00:00",
@@ -258,6 +258,12 @@
     {
       "Time": "2023-04-18T07:58:02.8029998+00:00",
       "Rating": 4.18,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-23T20:57:56.3634229+00:00",
+      "Rating": 4.19,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

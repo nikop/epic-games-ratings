@@ -2,16 +2,16 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "Rating": 4.35,
-  "Ranking_Rating": 708,
-  "Ranking_Popularity": 252,
-  "Ranking_PopularitySum": 202,
+  "Ranking_Rating": 710,
+  "Ranking_Popularity": 254,
+  "Ranking_PopularitySum": 201,
   "NumberOfRatings": 7669,
-  "NumberOfAwards": 1568,
+  "NumberOfAwards": 1570,
   "NumberOfAwardsMax": 201,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:20:15.0097479+00:00",
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
-  "LastChanged": "2023-04-17T10:57:26.6785948+00:00",
+  "LastChanged": "2023-04-22T04:57:09.2208222+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-09T05:31:36.2629345+00:00",
@@ -775,6 +775,18 @@
       "Rating": 4.35,
       "NumberOfAwards": 1568,
       "NumberOfAwardsMax": 201
+    },
+    {
+      "Time": "2023-04-20T05:57:07.098757+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 1569,
+      "NumberOfAwardsMax": 201
+    },
+    {
+      "Time": "2023-04-22T04:57:09.2208223+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 1570,
+      "NumberOfAwardsMax": 201
     }
   ],
   "Tags": [
@@ -788,7 +800,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 194
+      "Count": 195
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -800,7 +812,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 196
+      "Count": 197
     },
     {
       "Text": "This game is Extremely Fun",

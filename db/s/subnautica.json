@@ -4,13 +4,13 @@
   "Rating": 4.84,
   "Ranking_Rating": 49,
   "Ranking_Popularity": 158,
-  "Ranking_PopularitySum": 119,
+  "Ranking_PopularitySum": 121,
   "NumberOfRatings": 7928,
-  "NumberOfAwards": 5147,
-  "NumberOfAwardsMax": 644,
+  "NumberOfAwards": 5169,
+  "NumberOfAwardsMax": 646,
   "MaxAwardTitle": "Amazing Storytelling",
   "FirstSeen": "2022-07-22T20:29:19.8641148+00:00",
-  "LastChanged": "2023-04-17T17:58:08.1528236+00:00",
+  "LastChanged": "2023-04-25T10:57:59.0648977+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:19.864115+00:00",
@@ -2980,6 +2980,108 @@
       "Rating": 4.84,
       "NumberOfAwards": 5147,
       "NumberOfAwardsMax": 644
+    },
+    {
+      "Time": "2023-04-18T13:58:26.016984+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 5148,
+      "NumberOfAwardsMax": 644
+    },
+    {
+      "Time": "2023-04-18T16:58:28.875517+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 5149,
+      "NumberOfAwardsMax": 644
+    },
+    {
+      "Time": "2023-04-19T14:58:30.5602873+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 5151,
+      "NumberOfAwardsMax": 644
+    },
+    {
+      "Time": "2023-04-19T23:58:38.6309882+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 5152,
+      "NumberOfAwardsMax": 644
+    },
+    {
+      "Time": "2023-04-20T01:55:57.0565507+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 5154,
+      "NumberOfAwardsMax": 644
+    },
+    {
+      "Time": "2023-04-20T18:58:39.4258188+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 5155,
+      "NumberOfAwardsMax": 645
+    },
+    {
+      "Time": "2023-04-21T13:03:50.6806271+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 5156,
+      "NumberOfAwardsMax": 645
+    },
+    {
+      "Time": "2023-04-21T13:57:56.3033393+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 5157,
+      "NumberOfAwardsMax": 645
+    },
+    {
+      "Time": "2023-04-22T15:57:57.1733977+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 5160,
+      "NumberOfAwardsMax": 645
+    },
+    {
+      "Time": "2023-04-22T19:58:02.4982148+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 5161,
+      "NumberOfAwardsMax": 645
+    },
+    {
+      "Time": "2023-04-22T20:58:28.4118169+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 5162,
+      "NumberOfAwardsMax": 645
+    },
+    {
+      "Time": "2023-04-23T15:58:50.141713+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 5163,
+      "NumberOfAwardsMax": 646
+    },
+    {
+      "Time": "2023-04-23T16:58:26.096956+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 5164,
+      "NumberOfAwardsMax": 646
+    },
+    {
+      "Time": "2023-04-23T19:58:56.5550555+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 5165,
+      "NumberOfAwardsMax": 646
+    },
+    {
+      "Time": "2023-04-24T14:58:43.2789291+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 5166,
+      "NumberOfAwardsMax": 646
+    },
+    {
+      "Time": "2023-04-25T04:58:26.7796416+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 5168,
+      "NumberOfAwardsMax": 646
+    },
+    {
+      "Time": "2023-04-25T10:57:59.0648979+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 5169,
+      "NumberOfAwardsMax": 646
     }
   ],
   "Tags": [
@@ -2987,19 +3089,19 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 644
+      "Count": 646
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 617
+      "Count": 619
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 629
+      "Count": 632
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3011,13 +3113,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 615
+      "Count": 620
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 591
+      "Count": 593
     },
     {
       "Text": "This game is Relaxing",
@@ -3029,13 +3131,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 508
+      "Count": 513
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 519
+      "Count": 522
     },
     {
       "Text": "This game has a Creative Community",

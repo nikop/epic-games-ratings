@@ -1,16 +1,16 @@
 {
   "ID": "c4395ba88061417a8ac6bd3fdc7fba79",
   "Name": "Potion Permit",
-  "Rating": 3.76,
-  "Ranking_Rating": 895,
-  "Ranking_Popularity": 361,
-  "Ranking_PopularitySum": 414,
+  "Rating": 3.78,
+  "Ranking_Rating": 897,
+  "Ranking_Popularity": 362,
+  "Ranking_PopularitySum": 416,
   "NumberOfAwards": 66,
   "NumberOfAwardsMax": 66,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-09-23T04:00:21.3687329+00:00",
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
-  "LastChanged": "2023-04-12T06:57:03.9310974+00:00",
+  "LastChanged": "2023-04-23T20:57:07.1104633+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-26T13:31:30.2639771+00:00",
@@ -263,6 +263,18 @@
     {
       "Time": "2023-04-12T06:57:03.9310975+00:00",
       "Rating": 3.76,
+      "NumberOfAwards": 66,
+      "NumberOfAwardsMax": 66
+    },
+    {
+      "Time": "2023-04-20T20:57:03.7105033+00:00",
+      "Rating": 3.77,
+      "NumberOfAwards": 66,
+      "NumberOfAwardsMax": 66
+    },
+    {
+      "Time": "2023-04-23T20:57:07.1104634+00:00",
+      "Rating": 3.78,
       "NumberOfAwards": 66,
       "NumberOfAwardsMax": 66
     }

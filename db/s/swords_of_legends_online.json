@@ -2,15 +2,15 @@
   "ID": "025f0740981e4902a0cc7e1f1d92dd13",
   "Name": "Swords of Legends Online",
   "Rating": 4.3,
-  "Ranking_Rating": 744,
-  "Ranking_Popularity": 269,
-  "Ranking_PopularitySum": 313,
+  "Ranking_Rating": 748,
+  "Ranking_Popularity": 273,
+  "Ranking_PopularitySum": 307,
   "NumberOfRatings": 262,
-  "NumberOfAwards": 325,
+  "NumberOfAwards": 365,
   "NumberOfAwardsMax": 168,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:23:20.3020946+00:00",
-  "LastChanged": "2023-04-15T09:57:42.9509202+00:00",
+  "LastChanged": "2023-04-25T15:57:31.4573705+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:20.3020948+00:00",
@@ -506,6 +506,18 @@
       "Rating": 4.3,
       "NumberOfAwards": 325,
       "NumberOfAwardsMax": 168
+    },
+    {
+      "Time": "2023-04-23T16:57:44.4579812+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 345,
+      "NumberOfAwardsMax": 168
+    },
+    {
+      "Time": "2023-04-25T15:57:31.4573706+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 365,
+      "NumberOfAwardsMax": 168
     }
   ],
   "Tags": [
@@ -537,6 +549,18 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
+      "Count": 20
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 20
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
       "Count": 20
     }
   ]

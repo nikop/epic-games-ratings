@@ -1,16 +1,16 @@
 {
   "ID": "207b765975664e9db1e29129aafae69c",
   "Name": "Star Stable Online",
-  "Rating": 4.41,
-  "Ranking_Rating": 646,
+  "Rating": 4.42,
+  "Ranking_Rating": 638,
   "Ranking_Popularity": 295,
-  "Ranking_PopularitySum": 242,
+  "Ranking_PopularitySum": 230,
   "NumberOfRatings": 317,
-  "NumberOfAwards": 789,
-  "NumberOfAwardsMax": 121,
+  "NumberOfAwards": 899,
+  "NumberOfAwardsMax": 122,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
-  "LastChanged": "2023-04-17T15:57:11.4342853+00:00",
+  "LastChanged": "2023-04-24T15:57:12.0545855+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:59.0360313+00:00",
@@ -860,6 +860,60 @@
       "Rating": 4.41,
       "NumberOfAwards": 789,
       "NumberOfAwardsMax": 121
+    },
+    {
+      "Time": "2023-04-18T17:57:18.6186904+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 791,
+      "NumberOfAwardsMax": 121
+    },
+    {
+      "Time": "2023-04-19T17:57:02.3635429+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 791,
+      "NumberOfAwardsMax": 121
+    },
+    {
+      "Time": "2023-04-21T17:57:39.575489+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 893,
+      "NumberOfAwardsMax": 121
+    },
+    {
+      "Time": "2023-04-22T14:56:55.7942757+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 894,
+      "NumberOfAwardsMax": 121
+    },
+    {
+      "Time": "2023-04-22T21:57:10.7750997+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 895,
+      "NumberOfAwardsMax": 121
+    },
+    {
+      "Time": "2023-04-23T11:57:20.1741531+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 896,
+      "NumberOfAwardsMax": 122
+    },
+    {
+      "Time": "2023-04-23T14:57:10.7222725+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 897,
+      "NumberOfAwardsMax": 122
+    },
+    {
+      "Time": "2023-04-24T14:57:22.3533942+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 898,
+      "NumberOfAwardsMax": 122
+    },
+    {
+      "Time": "2023-04-24T15:57:12.0545856+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 899,
+      "NumberOfAwardsMax": 122
     }
   ],
   "Tags": [
@@ -867,7 +921,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 95
+      "Count": 97
     },
     {
       "Text": "This game has Amazing Characters",
@@ -879,19 +933,19 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 102
+      "Count": 104
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 94
+      "Count": 95
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 121
+      "Count": 122
     },
     {
       "Text": "This game is Highly Recommended",
@@ -903,7 +957,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 96
+      "Count": 97
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -921,13 +975,13 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 75
+      "Count": 76
     },
     {
       "Text": "This game has Diverse Characters",
-      "Prefix": "",
-      "Type": "",
-      "Count": 80
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 102
     },
     {
       "Text": "This game is Educational",

@@ -2,15 +2,15 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "Rating": 4.81,
-  "Ranking_Rating": 70,
-  "Ranking_Popularity": 188,
+  "Ranking_Rating": 72,
+  "Ranking_Popularity": 190,
   "Ranking_PopularitySum": 150,
   "NumberOfRatings": 1845,
-  "NumberOfAwards": 2983,
-  "NumberOfAwardsMax": 416,
+  "NumberOfAwards": 2995,
+  "NumberOfAwardsMax": 417,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
-  "LastChanged": "2023-04-17T18:57:57.1737506+00:00",
+  "LastChanged": "2023-04-25T13:05:32.7905472+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:52.7561903+00:00",
@@ -1990,6 +1990,72 @@
       "Rating": 4.81,
       "NumberOfAwards": 2983,
       "NumberOfAwardsMax": 416
+    },
+    {
+      "Time": "2023-04-18T13:58:09.4365016+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 2984,
+      "NumberOfAwardsMax": 416
+    },
+    {
+      "Time": "2023-04-19T11:57:52.5623907+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 2985,
+      "NumberOfAwardsMax": 416
+    },
+    {
+      "Time": "2023-04-19T16:57:49.2959921+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 2986,
+      "NumberOfAwardsMax": 416
+    },
+    {
+      "Time": "2023-04-20T01:55:41.1539801+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 2988,
+      "NumberOfAwardsMax": 416
+    },
+    {
+      "Time": "2023-04-20T11:57:46.1023506+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 2989,
+      "NumberOfAwardsMax": 416
+    },
+    {
+      "Time": "2023-04-20T15:57:55.9844514+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 2990,
+      "NumberOfAwardsMax": 416
+    },
+    {
+      "Time": "2023-04-21T13:03:34.7440879+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 2991,
+      "NumberOfAwardsMax": 417
+    },
+    {
+      "Time": "2023-04-21T13:57:43.8836698+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 2992,
+      "NumberOfAwardsMax": 417
+    },
+    {
+      "Time": "2023-04-23T19:58:36.916091+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 2993,
+      "NumberOfAwardsMax": 417
+    },
+    {
+      "Time": "2023-04-24T21:58:24.7599099+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 2994,
+      "NumberOfAwardsMax": 417
+    },
+    {
+      "Time": "2023-04-25T13:05:32.7905474+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 2995,
+      "NumberOfAwardsMax": 417
     }
   ],
   "Tags": [
@@ -1997,25 +2063,25 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 416
+      "Count": 417
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 407
+      "Count": 408
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 366
+      "Count": 368
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 385
+      "Count": 386
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2027,7 +2093,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 364
+      "Count": 366
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2045,13 +2111,13 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 186
+      "Count": 190
     },
     {
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 295
+      "Count": 296
     }
   ]
 }

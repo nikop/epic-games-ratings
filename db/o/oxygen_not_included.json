@@ -4,13 +4,13 @@
   "Rating": 4.84,
   "Ranking_Rating": 49,
   "Ranking_Popularity": 236,
-  "Ranking_PopularitySum": 177,
+  "Ranking_PopularitySum": 176,
   "NumberOfRatings": 897,
-  "NumberOfAwards": 2136,
-  "NumberOfAwardsMax": 246,
+  "NumberOfAwards": 2148,
+  "NumberOfAwardsMax": 248,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
-  "LastChanged": "2023-04-16T19:57:14.3556873+00:00",
+  "LastChanged": "2023-04-24T22:57:08.6421506+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:44.1555171+00:00",
@@ -1273,6 +1273,72 @@
       "Rating": 4.84,
       "NumberOfAwards": 2136,
       "NumberOfAwardsMax": 246
+    },
+    {
+      "Time": "2023-04-18T15:57:20.3527413+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2137,
+      "NumberOfAwardsMax": 246
+    },
+    {
+      "Time": "2023-04-18T19:57:13.1139131+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2138,
+      "NumberOfAwardsMax": 246
+    },
+    {
+      "Time": "2023-04-19T21:57:23.4184138+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2139,
+      "NumberOfAwardsMax": 246
+    },
+    {
+      "Time": "2023-04-20T20:57:25.231362+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2140,
+      "NumberOfAwardsMax": 246
+    },
+    {
+      "Time": "2023-04-21T13:02:51.7146279+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2141,
+      "NumberOfAwardsMax": 247
+    },
+    {
+      "Time": "2023-04-21T18:57:29.6381378+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2142,
+      "NumberOfAwardsMax": 247
+    },
+    {
+      "Time": "2023-04-22T13:01:12.8760292+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2143,
+      "NumberOfAwardsMax": 247
+    },
+    {
+      "Time": "2023-04-23T14:57:23.5570343+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2144,
+      "NumberOfAwardsMax": 247
+    },
+    {
+      "Time": "2023-04-23T17:57:20.0088335+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2146,
+      "NumberOfAwardsMax": 247
+    },
+    {
+      "Time": "2023-04-24T16:57:21.60728+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2147,
+      "NumberOfAwardsMax": 247
+    },
+    {
+      "Time": "2023-04-24T22:57:08.6421508+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2148,
+      "NumberOfAwardsMax": 248
     }
   ],
   "Tags": [
@@ -1286,25 +1352,25 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 246
+      "Count": 248
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 224
+      "Count": 225
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 202
+      "Count": 205
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 227
+      "Count": 228
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1322,13 +1388,13 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 221
+      "Count": 222
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 196
+      "Count": 197
     },
     {
       "Text": "This game has a Creative Community",
@@ -1340,7 +1406,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 208
+      "Count": 211
     }
   ]
 }

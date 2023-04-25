@@ -2,15 +2,15 @@
   "ID": "dbf5337d024e457bac68f2059112da86",
   "Name": "The Binding of Isaac: Repentance",
   "Rating": 4.9,
-  "Ranking_Rating": 8,
+  "Ranking_Rating": 7,
   "Ranking_Popularity": 105,
   "Ranking_PopularitySum": 86,
   "NumberOfRatings": 1859,
-  "NumberOfAwards": 8284,
-  "NumberOfAwardsMax": 1785,
+  "NumberOfAwards": 8313,
+  "NumberOfAwardsMax": 1790,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:18:34.9311333+00:00",
-  "LastChanged": "2023-04-17T22:57:02.2856328+00:00",
+  "LastChanged": "2023-04-24T23:57:01.7586784+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:34.9311335+00:00",
@@ -2033,6 +2033,126 @@
       "Rating": 4.9,
       "NumberOfAwards": 8284,
       "NumberOfAwardsMax": 1785
+    },
+    {
+      "Time": "2023-04-18T20:57:00.2154704+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8286,
+      "NumberOfAwardsMax": 1785
+    },
+    {
+      "Time": "2023-04-19T08:57:16.3289215+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8287,
+      "NumberOfAwardsMax": 1786
+    },
+    {
+      "Time": "2023-04-19T16:57:00.2392017+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8288,
+      "NumberOfAwardsMax": 1786
+    },
+    {
+      "Time": "2023-04-19T19:57:53.0032228+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8289,
+      "NumberOfAwardsMax": 1786
+    },
+    {
+      "Time": "2023-04-19T21:57:10.6671611+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8290,
+      "NumberOfAwardsMax": 1786
+    },
+    {
+      "Time": "2023-04-20T19:56:58.2224552+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8292,
+      "NumberOfAwardsMax": 1786
+    },
+    {
+      "Time": "2023-04-20T20:57:12.0137276+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8293,
+      "NumberOfAwardsMax": 1786
+    },
+    {
+      "Time": "2023-04-21T10:57:04.9810557+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8294,
+      "NumberOfAwardsMax": 1787
+    },
+    {
+      "Time": "2023-04-21T13:56:59.5421899+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8295,
+      "NumberOfAwardsMax": 1787
+    },
+    {
+      "Time": "2023-04-21T18:57:16.0174072+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8297,
+      "NumberOfAwardsMax": 1787
+    },
+    {
+      "Time": "2023-04-22T07:57:06.6145087+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8300,
+      "NumberOfAwardsMax": 1787
+    },
+    {
+      "Time": "2023-04-22T11:57:14.3868298+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8302,
+      "NumberOfAwardsMax": 1787
+    },
+    {
+      "Time": "2023-04-22T13:57:02.7511788+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8303,
+      "NumberOfAwardsMax": 1787
+    },
+    {
+      "Time": "2023-04-22T16:57:15.8473508+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8304,
+      "NumberOfAwardsMax": 1787
+    },
+    {
+      "Time": "2023-04-22T18:57:30.6597449+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8306,
+      "NumberOfAwardsMax": 1787
+    },
+    {
+      "Time": "2023-04-23T08:57:03.0276567+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8307,
+      "NumberOfAwardsMax": 1788
+    },
+    {
+      "Time": "2023-04-23T09:57:05.8335147+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8308,
+      "NumberOfAwardsMax": 1788
+    },
+    {
+      "Time": "2023-04-23T15:57:16.609977+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8309,
+      "NumberOfAwardsMax": 1788
+    },
+    {
+      "Time": "2023-04-24T13:57:00.7448989+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8311,
+      "NumberOfAwardsMax": 1790
+    },
+    {
+      "Time": "2023-04-24T23:57:01.7586785+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8313,
+      "NumberOfAwardsMax": 1790
     }
   ],
   "Tags": [
@@ -2040,19 +2160,19 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1527
+      "Count": 1536
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1785
+      "Count": 1790
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 579
+      "Count": 581
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2064,7 +2184,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 571
+      "Count": 572
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2076,31 +2196,31 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 572
+      "Count": 574
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 534
+      "Count": 536
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 530
+      "Count": 534
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 618
+      "Count": 619
     },
     {
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 539
+      "Count": 540
     },
     {
       "Text": "This game is Relaxing",
@@ -2112,7 +2232,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 489
+      "Count": 491
     }
   ]
 }

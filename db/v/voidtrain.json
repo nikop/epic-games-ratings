@@ -2,15 +2,15 @@
   "ID": "301ec0fdbcaf46b3af9322e436ac87bd",
   "Name": "Voidtrain",
   "Rating": 4.5,
-  "Ranking_Rating": 525,
+  "Ranking_Rating": 526,
   "Ranking_Popularity": 446,
-  "Ranking_PopularitySum": 390,
+  "Ranking_PopularitySum": 393,
   "NumberOfRatings": 1305,
-  "NumberOfAwards": 101,
-  "NumberOfAwardsMax": 27,
-  "MaxAwardTitle": "Easy Combat",
+  "NumberOfAwards": 102,
+  "NumberOfAwardsMax": 28,
+  "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:25:41.7165355+00:00",
-  "LastChanged": "2023-04-16T05:58:01.1624509+00:00",
+  "LastChanged": "2023-04-19T17:57:52.6061945+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:41.7165358+00:00",
@@ -697,6 +697,12 @@
       "Rating": 4.5,
       "NumberOfAwards": 101,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2023-04-19T17:57:52.6061946+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 102,
+      "NumberOfAwardsMax": 28
     }
   ],
   "Tags": [
@@ -704,7 +710,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game is Relaxing",

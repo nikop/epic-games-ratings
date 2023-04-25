@@ -2,15 +2,15 @@
   "ID": "fn",
   "Name": "Fortnite",
   "Rating": 4.29,
-  "Ranking_Rating": 752,
+  "Ranking_Rating": 755,
   "Ranking_Popularity": 1,
   "Ranking_PopularitySum": 1,
   "NumberOfRatings": 2283925,
-  "NumberOfAwards": 8928533,
-  "NumberOfAwardsMax": 1232900,
+  "NumberOfAwards": 9063788,
+  "NumberOfAwardsMax": 1252283,
   "MaxAwardTitle": "Competitive Players",
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
-  "LastChanged": "2023-04-18T04:57:24.4456761+00:00",
+  "LastChanged": "2023-04-24T20:57:06.0933027+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:41.6739551+00:00",
@@ -4385,6 +4385,114 @@
       "Rating": 4.29,
       "NumberOfAwards": 8928533,
       "NumberOfAwardsMax": 1232900
+    },
+    {
+      "Time": "2023-04-18T10:57:29.5467884+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 8930259,
+      "NumberOfAwardsMax": 1232900
+    },
+    {
+      "Time": "2023-04-18T14:57:02.609572+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 8932009,
+      "NumberOfAwardsMax": 1232900
+    },
+    {
+      "Time": "2023-04-18T15:56:59.111498+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 8933745,
+      "NumberOfAwardsMax": 1232900
+    },
+    {
+      "Time": "2023-04-18T17:57:16.2791137+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 8936840,
+      "NumberOfAwardsMax": 1232900
+    },
+    {
+      "Time": "2023-04-18T18:57:20.1884455+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 8939300,
+      "NumberOfAwardsMax": 1235360
+    },
+    {
+      "Time": "2023-04-18T19:56:56.84456+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 8941342,
+      "NumberOfAwardsMax": 1235360
+    },
+    {
+      "Time": "2023-04-19T04:56:55.0104417+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 8943716,
+      "NumberOfAwardsMax": 1235360
+    },
+    {
+      "Time": "2023-04-19T10:57:29.207886+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 8945977,
+      "NumberOfAwardsMax": 1235360
+    },
+    {
+      "Time": "2023-04-19T14:56:59.9957237+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 8948250,
+      "NumberOfAwardsMax": 1235360
+    },
+    {
+      "Time": "2023-04-19T17:56:59.9534225+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 8954842,
+      "NumberOfAwardsMax": 1235360
+    },
+    {
+      "Time": "2023-04-19T18:56:55.3182207+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 8957318,
+      "NumberOfAwardsMax": 1237836
+    },
+    {
+      "Time": "2023-04-19T19:57:23.1537936+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 8963924,
+      "NumberOfAwardsMax": 1237995
+    },
+    {
+      "Time": "2023-04-19T20:57:25.7398099+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 8964112,
+      "NumberOfAwardsMax": 1238023
+    },
+    {
+      "Time": "2023-04-20T20:57:06.6389849+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 8981164,
+      "NumberOfAwardsMax": 1240505
+    },
+    {
+      "Time": "2023-04-21T20:56:57.2910008+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 9000043,
+      "NumberOfAwardsMax": 1243119
+    },
+    {
+      "Time": "2023-04-22T20:57:08.0722424+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 9023078,
+      "NumberOfAwardsMax": 1246354
+    },
+    {
+      "Time": "2023-04-23T20:57:10.9539979+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 9046668,
+      "NumberOfAwardsMax": 1249818
+    },
+    {
+      "Time": "2023-04-24T20:57:06.0933029+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 9063788,
+      "NumberOfAwardsMax": 1252283
     }
   ],
   "Tags": [
@@ -4392,49 +4500,49 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 1232900
+      "Count": 1252283
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1173573
+      "Count": 1191641
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1186824
+      "Count": 1204363
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1150408
+      "Count": 1166939
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1104176
+      "Count": 1121189
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1078393
+      "Count": 1094354
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1088592
+      "Count": 1105721
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 913667
+      "Count": 927298
     }
   ]
 }

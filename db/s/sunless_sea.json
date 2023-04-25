@@ -2,15 +2,15 @@
   "ID": "f672c20984f04f69936e6057feefe3d1",
   "Name": "Sunless Sea",
   "Rating": 4.58,
-  "Ranking_Rating": 406,
-  "Ranking_Popularity": 251,
-  "Ranking_PopularitySum": 329,
+  "Ranking_Rating": 407,
+  "Ranking_Popularity": 253,
+  "Ranking_PopularitySum": 330,
   "NumberOfRatings": 401,
-  "NumberOfAwards": 270,
+  "NumberOfAwards": 271,
   "NumberOfAwardsMax": 202,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
-  "LastChanged": "2023-04-16T11:57:20.5672353+00:00",
+  "LastChanged": "2023-04-20T11:57:11.622374+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:36.9352359+00:00",
@@ -569,6 +569,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 270,
       "NumberOfAwardsMax": 202
+    },
+    {
+      "Time": "2023-04-20T11:57:11.6223842+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 271,
+      "NumberOfAwardsMax": 202
     }
   ],
   "Tags": [
@@ -594,7 +600,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 20
+      "Count": 21
     }
   ]
 }

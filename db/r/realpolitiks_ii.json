@@ -1,15 +1,15 @@
 {
   "ID": "be69d05166bd49f3b649f6103c2324d0",
   "Name": "Realpolitiks II",
-  "Rating": 4.1,
-  "Ranking_Rating": 844,
-  "Ranking_Popularity": 484,
-  "Ranking_PopularitySum": 484,
+  "Rating": 4.14,
+  "Ranking_Rating": 836,
+  "Ranking_Popularity": 486,
+  "Ranking_PopularitySum": 486,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:18:15.0752581+00:00",
   "FirstSeenRating": "2022-12-01T03:29:27.0060799+00:00",
-  "LastChanged": "2023-03-31T05:57:05.9628357+00:00",
+  "LastChanged": "2023-04-21T20:57:00.165661+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-01T03:29:27.0060801+00:00",
@@ -18,6 +18,12 @@
     {
       "Time": "2023-03-31T05:57:05.9628361+00:00",
       "Rating": 4.1,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-21T20:57:00.1656612+00:00",
+      "Rating": 4.14,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

@@ -2,15 +2,15 @@
   "ID": "78473822f724474d8e436f6bde735623",
   "Name": "Cave Story\u002B",
   "Rating": 4.76,
-  "Ranking_Rating": 112,
-  "Ranking_Popularity": 335,
-  "Ranking_PopularitySum": 398,
+  "Ranking_Rating": 114,
+  "Ranking_Popularity": 337,
+  "Ranking_PopularitySum": 400,
   "NumberOfRatings": 278,
-  "NumberOfAwards": 84,
-  "NumberOfAwardsMax": 84,
+  "NumberOfAwards": 85,
+  "NumberOfAwardsMax": 85,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:30:31.2539727+00:00",
-  "LastChanged": "2023-04-09T13:01:44.4339057+00:00",
+  "LastChanged": "2023-04-22T23:58:43.3241132+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:30:31.253973+00:00",
@@ -416,6 +416,12 @@
       "Rating": 4.76,
       "NumberOfAwards": 84,
       "NumberOfAwardsMax": 84
+    },
+    {
+      "Time": "2023-04-22T23:58:43.3241134+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 85,
+      "NumberOfAwardsMax": 85
     }
   ],
   "Tags": [
@@ -423,7 +429,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 84
+      "Count": 85
     }
   ]
 }

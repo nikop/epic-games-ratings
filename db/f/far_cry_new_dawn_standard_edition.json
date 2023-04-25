@@ -2,15 +2,15 @@
   "ID": "cumin",
   "Name": "Far Cry New Dawn Standard Edition",
   "Rating": 4.41,
-  "Ranking_Rating": 646,
-  "Ranking_Popularity": 265,
+  "Ranking_Rating": 652,
+  "Ranking_Popularity": 267,
   "Ranking_PopularitySum": 358,
   "NumberOfRatings": 338,
-  "NumberOfAwards": 173,
-  "NumberOfAwardsMax": 173,
+  "NumberOfAwards": 177,
+  "NumberOfAwardsMax": 177,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:19:24.3746385+00:00",
-  "LastChanged": "2023-04-17T17:57:12.567219+00:00",
+  "LastChanged": "2023-04-23T18:57:18.5877742+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:24.3746388+00:00",
@@ -533,6 +533,24 @@
       "Rating": 4.41,
       "NumberOfAwards": 173,
       "NumberOfAwardsMax": 173
+    },
+    {
+      "Time": "2023-04-19T21:57:15.4836107+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 174,
+      "NumberOfAwardsMax": 174
+    },
+    {
+      "Time": "2023-04-22T16:57:21.1920352+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 176,
+      "NumberOfAwardsMax": 176
+    },
+    {
+      "Time": "2023-04-23T18:57:18.5877743+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 177,
+      "NumberOfAwardsMax": 177
     }
   ],
   "Tags": [
@@ -540,7 +558,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 173
+      "Count": 177
     }
   ]
 }

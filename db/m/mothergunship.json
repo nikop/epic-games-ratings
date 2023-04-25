@@ -1,16 +1,16 @@
 {
   "ID": "7dc02eac2fe347368b5f72a02bb5bc5e",
   "Name": "Mothergunship",
-  "Rating": 4.39,
-  "Ranking_Rating": 670,
-  "Ranking_Popularity": 275,
-  "Ranking_PopularitySum": 366,
+  "Rating": 4.38,
+  "Ranking_Rating": 684,
+  "Ranking_Popularity": 277,
+  "Ranking_PopularitySum": 367,
   "NumberOfRatings": 436,
   "NumberOfAwards": 161,
   "NumberOfAwardsMax": 161,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:25:55.041007+00:00",
-  "LastChanged": "2023-04-15T20:58:07.7537184+00:00",
+  "LastChanged": "2023-04-23T20:58:13.481837+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:55.0410072+00:00",
@@ -546,6 +546,12 @@
     {
       "Time": "2023-04-15T20:58:07.7537186+00:00",
       "Rating": 4.39,
+      "NumberOfAwards": 161,
+      "NumberOfAwardsMax": 161
+    },
+    {
+      "Time": "2023-04-23T20:58:13.4818371+00:00",
+      "Rating": 4.38,
       "NumberOfAwards": 161,
       "NumberOfAwardsMax": 161
     }

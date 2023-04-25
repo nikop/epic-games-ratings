@@ -2,16 +2,16 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "Rating": 4.32,
-  "Ranking_Rating": 731,
-  "Ranking_Popularity": 359,
-  "Ranking_PopularitySum": 412,
+  "Ranking_Rating": 736,
+  "Ranking_Popularity": 356,
+  "Ranking_PopularitySum": 410,
   "NumberOfRatings": 33,
-  "NumberOfAwards": 68,
-  "NumberOfAwardsMax": 68,
+  "NumberOfAwards": 70,
+  "NumberOfAwardsMax": 70,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:19:30.52798+00:00",
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
-  "LastChanged": "2023-04-16T13:01:03.4601965+00:00",
+  "LastChanged": "2023-04-20T23:57:05.360662+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-13T10:30:34.4977327+00:00",
@@ -249,6 +249,18 @@
       "Rating": 4.32,
       "NumberOfAwards": 68,
       "NumberOfAwardsMax": 68
+    },
+    {
+      "Time": "2023-04-18T19:57:06.5270753+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 68,
+      "NumberOfAwardsMax": 68
+    },
+    {
+      "Time": "2023-04-20T23:57:05.3606622+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 70,
+      "NumberOfAwardsMax": 70
     }
   ],
   "Tags": [
@@ -256,7 +268,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 68
+      "Count": 70
     }
   ]
 }

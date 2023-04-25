@@ -2,15 +2,15 @@
   "ID": "5a82d5954a1943d79dc6b49cde2fe972",
   "Name": "Predator: Hunting Grounds Standard Edition",
   "Rating": 4.45,
-  "Ranking_Rating": 595,
-  "Ranking_Popularity": 143,
+  "Ranking_Rating": 599,
+  "Ranking_Popularity": 142,
   "Ranking_PopularitySum": 169,
   "NumberOfRatings": 1373,
-  "NumberOfAwards": 2301,
+  "NumberOfAwards": 2302,
   "NumberOfAwardsMax": 846,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:19:15.8732166+00:00",
-  "LastChanged": "2023-04-14T07:57:13.8205546+00:00",
+  "LastChanged": "2023-04-21T13:02:43.1233627+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:15.8732169+00:00",
@@ -1778,6 +1778,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 2301,
       "NumberOfAwardsMax": 846
+    },
+    {
+      "Time": "2023-04-21T13:02:43.1233629+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 2302,
+      "NumberOfAwardsMax": 846
     }
   ],
   "Tags": [
@@ -1833,7 +1839,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 173
+      "Count": 174
     },
     {
       "Text": "This game has a Competitive Community",

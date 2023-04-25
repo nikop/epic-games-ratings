@@ -2,15 +2,15 @@
   "ID": "6acf92329bc449068201ee9a3f399a13",
   "Name": "Nioh 2 \u2013 The Complete Edition",
   "Rating": 4.8,
-  "Ranking_Rating": 79,
+  "Ranking_Rating": 78,
   "Ranking_Popularity": 93,
   "Ranking_PopularitySum": 106,
   "NumberOfRatings": 2526,
-  "NumberOfAwards": 6695,
-  "NumberOfAwardsMax": 2330,
+  "NumberOfAwards": 6714,
+  "NumberOfAwardsMax": 2336,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:27:13.8820605+00:00",
-  "LastChanged": "2023-04-17T04:57:57.7810913+00:00",
+  "LastChanged": "2023-04-25T08:58:16.4804219+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:13.8820607+00:00",
@@ -2031,6 +2031,66 @@
       "Rating": 4.8,
       "NumberOfAwards": 6695,
       "NumberOfAwardsMax": 2330
+    },
+    {
+      "Time": "2023-04-19T03:58:50.3091024+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 6698,
+      "NumberOfAwardsMax": 2331
+    },
+    {
+      "Time": "2023-04-20T05:57:43.1622474+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 6699,
+      "NumberOfAwardsMax": 2331
+    },
+    {
+      "Time": "2023-04-20T13:58:17.7418225+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 6701,
+      "NumberOfAwardsMax": 2333
+    },
+    {
+      "Time": "2023-04-21T17:58:27.0365984+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 6702,
+      "NumberOfAwardsMax": 2334
+    },
+    {
+      "Time": "2023-04-22T08:58:19.266021+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 6705,
+      "NumberOfAwardsMax": 2334
+    },
+    {
+      "Time": "2023-04-22T11:58:13.6359319+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 6706,
+      "NumberOfAwardsMax": 2334
+    },
+    {
+      "Time": "2023-04-23T10:57:46.6787938+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 6709,
+      "NumberOfAwardsMax": 2334
+    },
+    {
+      "Time": "2023-04-23T17:58:06.4935026+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 6711,
+      "NumberOfAwardsMax": 2334
+    },
+    {
+      "Time": "2023-04-24T18:58:16.6026407+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 6713,
+      "NumberOfAwardsMax": 2336
+    },
+    {
+      "Time": "2023-04-25T08:58:16.4804221+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 6714,
+      "NumberOfAwardsMax": 2336
     }
   ],
   "Tags": [
@@ -2038,25 +2098,25 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 2330
+      "Count": 2336
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1735
+      "Count": 1743
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 402
+      "Count": 404
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 413
+      "Count": 415
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2068,7 +2128,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 411
+      "Count": 412
     },
     {
       "Text": "This game has Obsessive Gameplay",

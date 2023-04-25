@@ -2,15 +2,15 @@
   "ID": "95b4d5a753d042678f775d5e1eb5ab25",
   "Name": "Surviving the Aftermath: Founder\u0027s Edition",
   "Rating": 4.47,
-  "Ranking_Rating": 570,
-  "Ranking_Popularity": 319,
-  "Ranking_PopularitySum": 266,
+  "Ranking_Rating": 574,
+  "Ranking_Popularity": 323,
+  "Ranking_PopularitySum": 267,
   "NumberOfRatings": 836,
-  "NumberOfAwards": 644,
+  "NumberOfAwards": 646,
   "NumberOfAwardsMax": 96,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
-  "LastChanged": "2023-04-10T20:57:21.1082849+00:00",
+  "LastChanged": "2023-04-24T01:58:52.7840061+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:34.0304073+00:00",
@@ -863,6 +863,18 @@
       "Rating": 4.47,
       "NumberOfAwards": 644,
       "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2023-04-23T07:57:32.2295587+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 645,
+      "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2023-04-24T01:58:52.7840064+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 646,
+      "NumberOfAwardsMax": 96
     }
   ],
   "Tags": [
@@ -894,7 +906,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 65
+      "Count": 66
     },
     {
       "Text": "This game has Amazing Characters",
@@ -924,7 +936,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 38
+      "Count": 39
     }
   ]
 }

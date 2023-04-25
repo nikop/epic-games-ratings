@@ -2,15 +2,15 @@
   "ID": "de554cff12704db4a900032bbd194d7e",
   "Name": "EVE Online",
   "Rating": 4.26,
-  "Ranking_Rating": 767,
-  "Ranking_Popularity": 131,
-  "Ranking_PopularitySum": 175,
+  "Ranking_Rating": 768,
+  "Ranking_Popularity": 132,
+  "Ranking_PopularitySum": 174,
   "NumberOfRatings": 1408,
-  "NumberOfAwards": 2165,
-  "NumberOfAwardsMax": 1005,
+  "NumberOfAwards": 2177,
+  "NumberOfAwardsMax": 1011,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:17:38.4001765+00:00",
-  "LastChanged": "2023-04-17T23:57:02.7851157+00:00",
+  "LastChanged": "2023-04-24T20:57:05.5719975+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:38.4001768+00:00",
@@ -1601,6 +1601,54 @@
       "Rating": 4.26,
       "NumberOfAwards": 2165,
       "NumberOfAwardsMax": 1005
+    },
+    {
+      "Time": "2023-04-19T23:57:02.6694788+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 2166,
+      "NumberOfAwardsMax": 1005
+    },
+    {
+      "Time": "2023-04-20T05:56:54.8923814+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 2167,
+      "NumberOfAwardsMax": 1005
+    },
+    {
+      "Time": "2023-04-20T10:57:17.2656217+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 2168,
+      "NumberOfAwardsMax": 1006
+    },
+    {
+      "Time": "2023-04-20T14:57:15.812868+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 2170,
+      "NumberOfAwardsMax": 1006
+    },
+    {
+      "Time": "2023-04-21T21:57:08.5550051+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 2172,
+      "NumberOfAwardsMax": 1006
+    },
+    {
+      "Time": "2023-04-22T01:56:54.1741386+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 2173,
+      "NumberOfAwardsMax": 1007
+    },
+    {
+      "Time": "2023-04-23T13:56:48.544486+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 2175,
+      "NumberOfAwardsMax": 1009
+    },
+    {
+      "Time": "2023-04-24T20:57:05.5719977+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 2177,
+      "NumberOfAwardsMax": 1011
     }
   ],
   "Tags": [
@@ -1608,7 +1656,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1005
+      "Count": 1011
     },
     {
       "Text": "This game is Relaxing",
@@ -1626,7 +1674,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 180
+      "Count": 181
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1644,7 +1692,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 159
+      "Count": 160
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1656,7 +1704,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 177
+      "Count": 178
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1668,7 +1716,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 133
+      "Count": 136
     }
   ]
 }

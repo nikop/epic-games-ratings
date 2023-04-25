@@ -2,15 +2,15 @@
   "ID": "2e412cfcbd954e7180930e9784a47e18",
   "Name": "Fallout: A Post Nuclear Role Playing Game",
   "Rating": 4.64,
-  "Ranking_Rating": 312,
-  "Ranking_Popularity": 373,
-  "Ranking_PopularitySum": 420,
-  "NumberOfAwards": 57,
-  "NumberOfAwardsMax": 57,
+  "Ranking_Rating": 310,
+  "Ranking_Popularity": 374,
+  "Ranking_PopularitySum": 422,
+  "NumberOfAwards": 59,
+  "NumberOfAwardsMax": 59,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-10-20T22:02:33.2875741+00:00",
   "FirstSeenRating": "2022-10-28T01:33:28.7432563+00:00",
-  "LastChanged": "2023-04-17T19:59:21.7745427+00:00",
+  "LastChanged": "2023-04-24T21:59:15.3226306+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-28T01:33:28.7432566+00:00",
@@ -223,6 +223,24 @@
       "Rating": 4.64,
       "NumberOfAwards": 57,
       "NumberOfAwardsMax": 57
+    },
+    {
+      "Time": "2023-04-20T02:58:44.954324+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 58,
+      "NumberOfAwardsMax": 58
+    },
+    {
+      "Time": "2023-04-22T20:58:53.6209522+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 59,
+      "NumberOfAwardsMax": 59
+    },
+    {
+      "Time": "2023-04-24T21:59:15.3226308+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 59,
+      "NumberOfAwardsMax": 59
     }
   ],
   "Tags": [
@@ -230,7 +248,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 57
+      "Count": 59
     }
   ]
 }

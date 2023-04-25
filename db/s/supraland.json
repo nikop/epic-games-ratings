@@ -2,15 +2,15 @@
   "ID": "ae373893881044d2bf26d6f8363a120e",
   "Name": "Supraland",
   "Rating": 4.61,
-  "Ranking_Rating": 350,
-  "Ranking_Popularity": 39,
+  "Ranking_Rating": 348,
+  "Ranking_Popularity": 40,
   "Ranking_PopularitySum": 78,
   "NumberOfRatings": 25175,
-  "NumberOfAwards": 9872,
-  "NumberOfAwardsMax": 7597,
+  "NumberOfAwards": 9875,
+  "NumberOfAwardsMax": 7599,
   "MaxAwardTitle": "Challenging Puzzles",
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
-  "LastChanged": "2023-04-17T18:57:18.3000357+00:00",
+  "LastChanged": "2023-04-22T11:57:21.9901855+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:49.3012081+00:00",
@@ -2202,6 +2202,24 @@
       "Rating": 4.61,
       "NumberOfAwards": 9872,
       "NumberOfAwardsMax": 7597
+    },
+    {
+      "Time": "2023-04-19T13:05:20.617875+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 9873,
+      "NumberOfAwardsMax": 7598
+    },
+    {
+      "Time": "2023-04-21T10:57:11.0161057+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 9874,
+      "NumberOfAwardsMax": 7599
+    },
+    {
+      "Time": "2023-04-22T11:57:21.9901856+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 9875,
+      "NumberOfAwardsMax": 7599
     }
   ],
   "Tags": [
@@ -2209,7 +2227,7 @@
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 7597
+      "Count": 7599
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2263,7 +2281,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 231
+      "Count": 232
     },
     {
       "Text": "This game has a Creative Community",

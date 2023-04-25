@@ -2,15 +2,15 @@
   "ID": "1fe9a1a33a8b4df8bd8dd3b9269f8153",
   "Name": "Animation Throwdown: The Quest for Cards",
   "Rating": 4.33,
-  "Ranking_Rating": 723,
-  "Ranking_Popularity": 207,
-  "Ranking_PopularitySum": 159,
+  "Ranking_Rating": 726,
+  "Ranking_Popularity": 209,
+  "Ranking_PopularitySum": 160,
   "NumberOfRatings": 874,
-  "NumberOfAwards": 2609,
+  "NumberOfAwards": 2613,
   "NumberOfAwardsMax": 336,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:16:50.5721144+00:00",
-  "LastChanged": "2023-04-17T07:56:59.1574853+00:00",
+  "LastChanged": "2023-04-23T16:57:00.8127342+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:50.5721147+00:00",
@@ -1143,6 +1143,24 @@
       "Rating": 4.33,
       "NumberOfAwards": 2609,
       "NumberOfAwardsMax": 336
+    },
+    {
+      "Time": "2023-04-22T09:56:59.1284727+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 2610,
+      "NumberOfAwardsMax": 336
+    },
+    {
+      "Time": "2023-04-22T11:57:02.3262517+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 2612,
+      "NumberOfAwardsMax": 336
+    },
+    {
+      "Time": "2023-04-23T16:57:00.8127346+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 2613,
+      "NumberOfAwardsMax": 336
     }
   ],
   "Tags": [
@@ -1168,7 +1186,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 318
+      "Count": 319
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1180,7 +1198,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 272
+      "Count": 273
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1192,7 +1210,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 271
+      "Count": 273
     },
     {
       "Text": "This game has Amazing Storytelling",

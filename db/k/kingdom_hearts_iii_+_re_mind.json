@@ -3,14 +3,14 @@
   "Name": "KINGDOM HEARTS III \u002B Re Mind",
   "Rating": 4.79,
   "Ranking_Rating": 91,
-  "Ranking_Popularity": 141,
-  "Ranking_PopularitySum": 171,
+  "Ranking_Popularity": 152,
+  "Ranking_PopularitySum": 210,
   "NumberOfRatings": 2011,
-  "NumberOfAwards": 2260,
-  "NumberOfAwardsMax": 879,
-  "MaxAwardTitle": "Character Customization",
+  "NumberOfAwards": 1385,
+  "NumberOfAwardsMax": 715,
+  "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:21:33.6381012+00:00",
-  "LastChanged": "2023-04-17T02:57:31.578442+00:00",
+  "LastChanged": "2023-04-23T06:57:32.9893259+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:33.6381014+00:00",
@@ -1515,6 +1515,42 @@
       "Rating": 4.79,
       "NumberOfAwards": 2260,
       "NumberOfAwardsMax": 879
+    },
+    {
+      "Time": "2023-04-19T01:59:02.1157876+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2261,
+      "NumberOfAwardsMax": 880
+    },
+    {
+      "Time": "2023-04-20T02:57:28.9270153+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2262,
+      "NumberOfAwardsMax": 880
+    },
+    {
+      "Time": "2023-04-20T04:57:33.9633031+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2263,
+      "NumberOfAwardsMax": 881
+    },
+    {
+      "Time": "2023-04-20T19:57:17.2299629+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2264,
+      "NumberOfAwardsMax": 881
+    },
+    {
+      "Time": "2023-04-21T17:57:56.5054797+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2267,
+      "NumberOfAwardsMax": 882
+    },
+    {
+      "Time": "2023-04-23T06:57:32.989326+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1385,
+      "NumberOfAwardsMax": 715
     }
   ],
   "Tags": [
@@ -1522,13 +1558,13 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 879
+      "Count": 882
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 713
+      "Count": 715
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1540,13 +1576,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 91
+      "Count": 92
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game has Amazing Storytelling",

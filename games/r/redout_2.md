@@ -1,15 +1,15 @@
 # Redout 2
-Rating: 4.46 (Ranked 582)  
+Rating: 4.46 (Ranked 588)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 484)  
-Sum: 0 (Ranked 484)  
+Max (): 0  (Ranked 486)  
+Sum: 0 (Ranked 486)  
 Diff (max vs sum): 0
 ## Awards
-| Award | Number of Ratings |
-| ----- | ----------------- |
+| Award | Count |
+| ----- | ----- |
 ## Ratings History
-| Date | Rating | Number of Ratings | Number of Awards |
-| ---- | ------ | ----------------- | ---------------- |
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
 | 2022-10-24 | 4.48 | - | - |
 | 2022-11-02 | 4.50 | - | - |
 | 2022-11-05 | 4.52 | - | - |
@@ -17,5 +17,5 @@ Diff (max vs sum): 0
 | 2023-01-07 | 4.56 | - | - |
 | 2023-01-26 | 4.58 | - | - |
 | 2023-02-09 | 4.44 | - | - |
-| 2023-03-31 | 4.44 | - | 0 |
-| 2023-04-12 | 4.46 | - | 0 |
+| 2023-03-31 | 4.44 | 0 | 0 |
+| 2023-04-12 | 4.46 | 0 | 0 |

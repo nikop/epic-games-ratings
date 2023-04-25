@@ -1,16 +1,16 @@
 {
   "ID": "4ec958d5e4b6429aadbc116cee0b6ea0",
   "Name": "Dead Space",
-  "Rating": 4.75,
-  "Ranking_Rating": 126,
-  "Ranking_Popularity": 422,
-  "Ranking_PopularitySum": 444,
-  "NumberOfAwards": 34,
-  "NumberOfAwardsMax": 34,
+  "Rating": 4.76,
+  "Ranking_Rating": 114,
+  "Ranking_Popularity": 412,
+  "Ranking_PopularitySum": 442,
+  "NumberOfAwards": 37,
+  "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2023-01-27T17:57:20.5533157+00:00",
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
-  "LastChanged": "2023-04-16T11:57:24.7875608+00:00",
+  "LastChanged": "2023-04-24T02:57:26.2064591+00:00",
   "RatingHistory": [
     {
       "Time": "2023-01-31T17:57:54.7682729+00:00",
@@ -157,6 +157,30 @@
       "Rating": 4.75,
       "NumberOfAwards": 34,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-04-20T04:57:31.4219654+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 35,
+      "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-04-21T03:58:04.507739+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 35,
+      "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-04-22T14:57:19.4636301+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 36,
+      "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-04-24T02:57:26.2064701+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 37,
+      "NumberOfAwardsMax": 37
     }
   ],
   "Tags": [
@@ -164,7 +188,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 34
+      "Count": 37
     }
   ]
 }

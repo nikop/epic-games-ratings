@@ -2,15 +2,15 @@
   "ID": "4b5461ca8d1c488787b5200b420de066",
   "Name": "Shadow of the Tomb Raider: Definitive Edition",
   "Rating": 4.65,
-  "Ranking_Rating": 286,
+  "Ranking_Rating": 287,
   "Ranking_Popularity": 14,
-  "Ranking_PopularitySum": 26,
+  "Ranking_PopularitySum": 29,
   "NumberOfRatings": 77497,
-  "NumberOfAwards": 37202,
-  "NumberOfAwardsMax": 28359,
+  "NumberOfAwards": 37254,
+  "NumberOfAwardsMax": 28393,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:32:36.072499+00:00",
-  "LastChanged": "2023-04-18T07:59:25.6622263+00:00",
+  "LastChanged": "2023-04-25T14:59:19.2234237+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:36.0724993+00:00",
@@ -3278,6 +3278,126 @@
       "Rating": 4.65,
       "NumberOfAwards": 37202,
       "NumberOfAwardsMax": 28359
+    },
+    {
+      "Time": "2023-04-18T14:58:51.4370886+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 37203,
+      "NumberOfAwardsMax": 28359
+    },
+    {
+      "Time": "2023-04-18T23:58:26.4626353+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 37204,
+      "NumberOfAwardsMax": 28359
+    },
+    {
+      "Time": "2023-04-19T11:58:30.062857+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 37206,
+      "NumberOfAwardsMax": 28359
+    },
+    {
+      "Time": "2023-04-19T16:58:27.5365211+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 37207,
+      "NumberOfAwardsMax": 28359
+    },
+    {
+      "Time": "2023-04-19T23:59:08.9602738+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 37213,
+      "NumberOfAwardsMax": 28365
+    },
+    {
+      "Time": "2023-04-20T22:59:46.1827295+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 37215,
+      "NumberOfAwardsMax": 28365
+    },
+    {
+      "Time": "2023-04-20T23:58:15.6090348+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 37223,
+      "NumberOfAwardsMax": 28373
+    },
+    {
+      "Time": "2023-04-21T01:57:59.857044+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 37224,
+      "NumberOfAwardsMax": 28373
+    },
+    {
+      "Time": "2023-04-21T13:04:15.1613087+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 37225,
+      "NumberOfAwardsMax": 28373
+    },
+    {
+      "Time": "2023-04-21T18:58:54.1764846+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 37227,
+      "NumberOfAwardsMax": 28373
+    },
+    {
+      "Time": "2023-04-21T19:58:08.4392085+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 37228,
+      "NumberOfAwardsMax": 28373
+    },
+    {
+      "Time": "2023-04-22T01:59:02.3517979+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 37233,
+      "NumberOfAwardsMax": 28377
+    },
+    {
+      "Time": "2023-04-23T02:07:06.7675655+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 37234,
+      "NumberOfAwardsMax": 28377
+    },
+    {
+      "Time": "2023-04-23T03:59:22.7844322+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 37240,
+      "NumberOfAwardsMax": 28383
+    },
+    {
+      "Time": "2023-04-23T07:59:11.9250479+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 37241,
+      "NumberOfAwardsMax": 28383
+    },
+    {
+      "Time": "2023-04-24T04:58:32.5425096+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 37248,
+      "NumberOfAwardsMax": 28390
+    },
+    {
+      "Time": "2023-04-24T17:58:26.6368205+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 37249,
+      "NumberOfAwardsMax": 28390
+    },
+    {
+      "Time": "2023-04-24T20:58:30.0341419+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 37250,
+      "NumberOfAwardsMax": 28390
+    },
+    {
+      "Time": "2023-04-25T10:58:18.4942664+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 37253,
+      "NumberOfAwardsMax": 28393
+    },
+    {
+      "Time": "2023-04-25T14:59:19.223424+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 37254,
+      "NumberOfAwardsMax": 28393
     }
   ],
   "Tags": [
@@ -3285,25 +3405,25 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 28359
+      "Count": 28393
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 884
+      "Count": 886
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 898
+      "Count": 900
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 951
+      "Count": 952
     },
     {
       "Text": "This game is Relaxing",
@@ -3315,7 +3435,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 930
+      "Count": 933
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3327,19 +3447,19 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 941
+      "Count": 945
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 495
+      "Count": 498
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1012
+      "Count": 1015
     },
     {
       "Text": "This game has Obsessive Gameplay",

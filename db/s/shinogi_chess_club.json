@@ -1,6 +1,18 @@
 {
   "ID": "86bea31a21594ea3859c3cb3563a9b80",
   "Name": "Shinogi Chess Club",
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-18T22:59:17.8138938+00:00",
+  "FirstSeenRating": "2023-04-18T22:59:17.8138997+00:00",
+  "LastChanged": "2023-04-18T22:59:17.8138997+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-18T22:59:17.8138999+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

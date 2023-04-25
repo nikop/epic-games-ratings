@@ -1,15 +1,15 @@
 # The Medium
-Rating: 4.59 (Ranked 389)  
+Rating: 4.59 (Ranked 388)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 484)  
-Sum: 0 (Ranked 484)  
+Max (): 0  (Ranked 486)  
+Sum: 0 (Ranked 486)  
 Diff (max vs sum): 0
 ## Awards
-| Award | Number of Ratings |
-| ----- | ----------------- |
+| Award | Count |
+| ----- | ----- |
 ## Ratings History
-| Date | Rating | Number of Ratings | Number of Awards |
-| ---- | ------ | ----------------- | ---------------- |
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
 | 2022-10-24 | 4.43 | - | - |
 | 2022-10-27 | 4.45 | - | - |
 | 2022-10-30 | 4.48 | - | - |
@@ -22,5 +22,5 @@ Diff (max vs sum): 0
 | 2023-01-18 | 4.55 | - | - |
 | 2023-01-21 | 4.56 | - | - |
 | 2023-03-15 | 4.58 | - | - |
-| 2023-03-31 | 4.58 | - | 0 |
-| 2023-04-12 | 4.59 | - | 0 |
+| 2023-03-31 | 4.58 | 0 | 0 |
+| 2023-04-12 | 4.59 | 0 | 0 |

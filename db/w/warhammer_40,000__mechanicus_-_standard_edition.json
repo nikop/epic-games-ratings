@@ -2,15 +2,15 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "Rating": 4.43,
-  "Ranking_Rating": 629,
-  "Ranking_Popularity": 225,
-  "Ranking_PopularitySum": 182,
-  "NumberOfAwards": 2081,
-  "NumberOfAwardsMax": 275,
+  "Ranking_Rating": 631,
+  "Ranking_Popularity": 226,
+  "Ranking_PopularitySum": 180,
+  "NumberOfAwards": 2087,
+  "NumberOfAwardsMax": 276,
   "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
-  "LastChanged": "2023-04-16T03:57:45.4144416+00:00",
+  "LastChanged": "2023-04-24T03:58:02.217135+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-28T06:01:26.9039057+00:00",
@@ -233,6 +233,36 @@
       "Rating": 4.43,
       "NumberOfAwards": 2081,
       "NumberOfAwardsMax": 275
+    },
+    {
+      "Time": "2023-04-19T13:05:58.9795694+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2082,
+      "NumberOfAwardsMax": 275
+    },
+    {
+      "Time": "2023-04-22T10:57:48.6959402+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2083,
+      "NumberOfAwardsMax": 275
+    },
+    {
+      "Time": "2023-04-22T13:57:36.8260934+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2084,
+      "NumberOfAwardsMax": 275
+    },
+    {
+      "Time": "2023-04-22T16:57:50.2647343+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2085,
+      "NumberOfAwardsMax": 276
+    },
+    {
+      "Time": "2023-04-24T03:58:02.2171352+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2087,
+      "NumberOfAwardsMax": 276
     }
   ],
   "Tags": [
@@ -240,7 +270,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 238
+      "Count": 239
     },
     {
       "Text": "This game is Relaxing",
@@ -258,25 +288,25 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 275
+      "Count": 276
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 252
+      "Count": 254
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 250
+      "Count": 251
     },
     {
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 202
+      "Count": 203
     },
     {
       "Text": "This game has Quickly Understood Controls",

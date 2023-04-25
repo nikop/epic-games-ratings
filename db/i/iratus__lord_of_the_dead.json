@@ -2,15 +2,15 @@
   "ID": "d250bdf072934b70ab080c6fcee77734",
   "Name": "Iratus: Lord of the Dead",
   "Rating": 4.37,
-  "Ranking_Rating": 691,
+  "Ranking_Rating": 693,
   "Ranking_Popularity": 100,
   "Ranking_PopularitySum": 130,
   "NumberOfRatings": 10109,
-  "NumberOfAwards": 4122,
-  "NumberOfAwardsMax": 2128,
+  "NumberOfAwards": 4127,
+  "NumberOfAwardsMax": 2130,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
-  "LastChanged": "2023-04-18T01:54:39.6056419+00:00",
+  "LastChanged": "2023-04-24T05:57:27.0030257+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:38.7739807+00:00",
@@ -1805,6 +1805,36 @@
       "Rating": 4.37,
       "NumberOfAwards": 4122,
       "NumberOfAwardsMax": 2128
+    },
+    {
+      "Time": "2023-04-18T15:57:12.7664507+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 4123,
+      "NumberOfAwardsMax": 2129
+    },
+    {
+      "Time": "2023-04-19T13:05:18.8273431+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 4124,
+      "NumberOfAwardsMax": 2129
+    },
+    {
+      "Time": "2023-04-21T10:57:10.1117302+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 4125,
+      "NumberOfAwardsMax": 2129
+    },
+    {
+      "Time": "2023-04-23T13:56:58.2987132+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 4126,
+      "NumberOfAwardsMax": 2130
+    },
+    {
+      "Time": "2023-04-24T05:57:27.0030258+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 4127,
+      "NumberOfAwardsMax": 2130
     }
   ],
   "Tags": [
@@ -1812,7 +1842,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 2128
+      "Count": 2130
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1842,13 +1872,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 207
+      "Count": 208
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 198
+      "Count": 199
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1872,7 +1902,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 99
+      "Count": 100
     }
   ]
 }

@@ -4,13 +4,13 @@
   "Rating": 4.79,
   "Ranking_Rating": 91,
   "Ranking_Popularity": 94,
-  "Ranking_PopularitySum": 110,
+  "Ranking_PopularitySum": 111,
   "NumberOfRatings": 2536,
-  "NumberOfAwards": 6250,
-  "NumberOfAwardsMax": 2228,
+  "NumberOfAwards": 6255,
+  "NumberOfAwardsMax": 2231,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
-  "LastChanged": "2023-04-16T20:57:20.7533454+00:00",
+  "LastChanged": "2023-04-25T13:04:22.4081698+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:57.6637815+00:00",
@@ -1770,6 +1770,36 @@
       "Rating": 4.79,
       "NumberOfAwards": 6250,
       "NumberOfAwardsMax": 2228
+    },
+    {
+      "Time": "2023-04-19T15:57:12.1345931+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 6251,
+      "NumberOfAwardsMax": 2228
+    },
+    {
+      "Time": "2023-04-20T20:57:01.0569243+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 6252,
+      "NumberOfAwardsMax": 2229
+    },
+    {
+      "Time": "2023-04-21T21:57:03.3471457+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 6253,
+      "NumberOfAwardsMax": 2229
+    },
+    {
+      "Time": "2023-04-23T09:56:56.7392719+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 6254,
+      "NumberOfAwardsMax": 2230
+    },
+    {
+      "Time": "2023-04-25T13:04:22.4081699+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 6255,
+      "NumberOfAwardsMax": 2231
     }
   ],
   "Tags": [
@@ -1777,13 +1807,13 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2228
+      "Count": 2231
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 448
+      "Count": 449
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1795,7 +1825,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 462
+      "Count": 463
     },
     {
       "Text": "This game has Amazing Storytelling",

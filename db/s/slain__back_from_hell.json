@@ -1,16 +1,16 @@
 {
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
-  "Rating": 4.29,
-  "Ranking_Rating": 752,
-  "Ranking_Popularity": 292,
-  "Ranking_PopularitySum": 382,
+  "Rating": 4.28,
+  "Ranking_Rating": 762,
+  "Ranking_Popularity": 293,
+  "Ranking_PopularitySum": 384,
   "NumberOfAwards": 124,
   "NumberOfAwardsMax": 124,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-10-06T18:03:31.3585803+00:00",
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
-  "LastChanged": "2023-01-26T02:08:28.5747982+00:00",
+  "LastChanged": "2023-04-18T21:59:01.5730242+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-08T20:32:24.8625513+00:00",
@@ -147,6 +147,12 @@
     {
       "Time": "2023-01-26T02:08:28.5747983+00:00",
       "Rating": 4.29
+    },
+    {
+      "Time": "2023-04-18T21:59:01.5730243+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 124,
+      "NumberOfAwardsMax": 124
     }
   ],
   "Tags": [

@@ -2,15 +2,15 @@
   "ID": "e9e3ee13329f434f94105e6ec63435e0",
   "Name": "BioShock Remastered",
   "Rating": 4.64,
-  "Ranking_Rating": 312,
+  "Ranking_Rating": 310,
   "Ranking_Popularity": 54,
-  "Ranking_PopularitySum": 97,
+  "Ranking_PopularitySum": 98,
   "NumberOfRatings": 24195,
-  "NumberOfAwards": 7145,
-  "NumberOfAwardsMax": 5876,
+  "NumberOfAwards": 7172,
+  "NumberOfAwardsMax": 5898,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:33:07.4798792+00:00",
-  "LastChanged": "2023-04-18T06:59:27.5937151+00:00",
+  "LastChanged": "2023-04-24T20:58:33.7213247+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:33:07.4798795+00:00",
@@ -2005,6 +2005,66 @@
       "Rating": 4.64,
       "NumberOfAwards": 7145,
       "NumberOfAwardsMax": 5876
+    },
+    {
+      "Time": "2023-04-18T10:59:49.7258783+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 7146,
+      "NumberOfAwardsMax": 5877
+    },
+    {
+      "Time": "2023-04-19T13:59:18.5468738+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 7147,
+      "NumberOfAwardsMax": 5877
+    },
+    {
+      "Time": "2023-04-19T22:58:45.6461845+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 7150,
+      "NumberOfAwardsMax": 5880
+    },
+    {
+      "Time": "2023-04-21T14:58:29.9381019+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 7156,
+      "NumberOfAwardsMax": 5886
+    },
+    {
+      "Time": "2023-04-22T08:59:03.5889864+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 7157,
+      "NumberOfAwardsMax": 5886
+    },
+    {
+      "Time": "2023-04-22T17:58:51.9708997+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 7160,
+      "NumberOfAwardsMax": 5889
+    },
+    {
+      "Time": "2023-04-22T18:59:37.2248747+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 7162,
+      "NumberOfAwardsMax": 5889
+    },
+    {
+      "Time": "2023-04-23T19:59:33.8529488+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 7166,
+      "NumberOfAwardsMax": 5893
+    },
+    {
+      "Time": "2023-04-23T23:58:18.0087781+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 7167,
+      "NumberOfAwardsMax": 5893
+    },
+    {
+      "Time": "2023-04-24T20:58:33.7213248+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 7172,
+      "NumberOfAwardsMax": 5898
     }
   ],
   "Tags": [
@@ -2012,7 +2072,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5876
+      "Count": 5898
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2030,7 +2090,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 114
+      "Count": 115
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2054,13 +2114,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 146
+      "Count": 147
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 140
+      "Count": 143
     },
     {
       "Text": "This game has Unique Visuals",

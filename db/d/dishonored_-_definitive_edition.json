@@ -3,14 +3,14 @@
   "Name": "Dishonored - Definitive Edition",
   "Rating": 4.74,
   "Ranking_Rating": 141,
-  "Ranking_Popularity": 182,
-  "Ranking_PopularitySum": 287,
+  "Ranking_Popularity": 180,
+  "Ranking_PopularitySum": 288,
   "NumberOfRatings": 234,
-  "NumberOfAwards": 507,
-  "NumberOfAwardsMax": 485,
+  "NumberOfAwards": 523,
+  "NumberOfAwardsMax": 500,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:32:28.893212+00:00",
-  "LastChanged": "2023-04-18T01:56:14.9170959+00:00",
+  "LastChanged": "2023-04-25T08:59:02.1333848+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:28.8932125+00:00",
@@ -539,6 +539,42 @@
       "Rating": 4.74,
       "NumberOfAwards": 507,
       "NumberOfAwardsMax": 485
+    },
+    {
+      "Time": "2023-04-19T08:59:24.3079941+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 511,
+      "NumberOfAwardsMax": 489
+    },
+    {
+      "Time": "2023-04-20T05:58:11.1726356+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 513,
+      "NumberOfAwardsMax": 491
+    },
+    {
+      "Time": "2023-04-21T10:58:22.1424192+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 514,
+      "NumberOfAwardsMax": 491
+    },
+    {
+      "Time": "2023-04-22T06:59:07.1134877+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 516,
+      "NumberOfAwardsMax": 493
+    },
+    {
+      "Time": "2023-04-24T06:58:21.2077932+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 519,
+      "NumberOfAwardsMax": 496
+    },
+    {
+      "Time": "2023-04-25T08:59:02.1333849+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 523,
+      "NumberOfAwardsMax": 500
     }
   ],
   "Tags": [
@@ -546,13 +582,13 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 485
+      "Count": 500
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 22
+      "Count": 23
     }
   ]
 }

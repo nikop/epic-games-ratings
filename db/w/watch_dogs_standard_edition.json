@@ -2,15 +2,15 @@
   "ID": "ecebf45065bc4993abfe0e84c40ff18e",
   "Name": "Watch Dogs Standard Edition",
   "Rating": 4.56,
-  "Ranking_Rating": 439,
-  "Ranking_Popularity": 387,
-  "Ranking_PopularitySum": 311,
+  "Ranking_Rating": 441,
+  "Ranking_Popularity": 390,
+  "Ranking_PopularitySum": 318,
   "NumberOfRatings": 1912,
-  "NumberOfAwards": 335,
-  "NumberOfAwardsMax": 46,
+  "NumberOfAwards": 319,
+  "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:20:01.9847852+00:00",
-  "LastChanged": "2023-04-15T19:57:13.5884904+00:00",
+  "LastChanged": "2023-04-25T13:04:42.9009255+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:01.9847855+00:00",
@@ -1022,6 +1022,48 @@
       "Rating": 4.56,
       "NumberOfAwards": 335,
       "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2023-04-18T09:01:37.9872353+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 311,
+      "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2023-04-20T09:57:32.3320588+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 312,
+      "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2023-04-21T23:57:06.8350631+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 314,
+      "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2023-04-22T10:57:17.9171186+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 315,
+      "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2023-04-23T15:57:27.8752465+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 317,
+      "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2023-04-24T13:04:38.5241819+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 318,
+      "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2023-04-25T13:04:42.9009256+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 319,
+      "NumberOfAwardsMax": 47
     }
   ],
   "Tags": [
@@ -1035,7 +1077,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1047,13 +1089,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 43
+      "Count": 44
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 36
+      "Count": 38
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1071,13 +1113,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 34
+      "Count": 37
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game is Great for Quick Sessions",

@@ -2,15 +2,15 @@
   "ID": "c1e33e7e700f42429ea2b8a7459bb55b",
   "Name": "Curse of the Dead Gods",
   "Rating": 4.65,
-  "Ranking_Rating": 286,
-  "Ranking_Popularity": 304,
-  "Ranking_PopularitySum": 387,
+  "Ranking_Rating": 287,
+  "Ranking_Popularity": 305,
+  "Ranking_PopularitySum": 388,
   "NumberOfRatings": 140,
-  "NumberOfAwards": 112,
-  "NumberOfAwardsMax": 112,
+  "NumberOfAwards": 114,
+  "NumberOfAwardsMax": 114,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:25:59.8576233+00:00",
-  "LastChanged": "2023-04-15T16:57:51.8206934+00:00",
+  "LastChanged": "2023-04-23T22:58:12.3048298+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:59.8576238+00:00",
@@ -358,6 +358,30 @@
       "Rating": 4.65,
       "NumberOfAwards": 112,
       "NumberOfAwardsMax": 112
+    },
+    {
+      "Time": "2023-04-19T20:02:13.5373224+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 113,
+      "NumberOfAwardsMax": 113
+    },
+    {
+      "Time": "2023-04-20T13:58:09.9571712+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 114,
+      "NumberOfAwardsMax": 114
+    },
+    {
+      "Time": "2023-04-22T22:58:01.8822843+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 114,
+      "NumberOfAwardsMax": 114
+    },
+    {
+      "Time": "2023-04-23T22:58:12.30483+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 114,
+      "NumberOfAwardsMax": 114
     }
   ],
   "Tags": [
@@ -365,7 +389,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 112
+      "Count": 114
     }
   ]
 }

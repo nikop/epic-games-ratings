@@ -2,15 +2,15 @@
   "ID": "4492ce99b4124b74a0bb83f78b3d70b8",
   "Name": "For The King",
   "Rating": 4.7,
-  "Ranking_Rating": 191,
-  "Ranking_Popularity": 205,
-  "Ranking_PopularitySum": 154,
+  "Ranking_Rating": 190,
+  "Ranking_Popularity": 206,
+  "Ranking_PopularitySum": 155,
   "NumberOfRatings": 5563,
-  "NumberOfAwards": 2753,
-  "NumberOfAwardsMax": 357,
+  "NumberOfAwards": 2765,
+  "NumberOfAwardsMax": 359,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:26:13.7495529+00:00",
-  "LastChanged": "2023-04-16T02:02:52.2074738+00:00",
+  "LastChanged": "2023-04-25T13:58:27.8573764+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:13.7495532+00:00",
@@ -2324,6 +2324,60 @@
       "Rating": 4.7,
       "NumberOfAwards": 2753,
       "NumberOfAwardsMax": 357
+    },
+    {
+      "Time": "2023-04-18T19:57:46.6043461+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2756,
+      "NumberOfAwardsMax": 359
+    },
+    {
+      "Time": "2023-04-19T06:58:25.9060801+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2757,
+      "NumberOfAwardsMax": 359
+    },
+    {
+      "Time": "2023-04-20T02:58:01.689957+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2758,
+      "NumberOfAwardsMax": 359
+    },
+    {
+      "Time": "2023-04-20T15:57:53.1701647+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2759,
+      "NumberOfAwardsMax": 359
+    },
+    {
+      "Time": "2023-04-22T19:57:47.9362601+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2760,
+      "NumberOfAwardsMax": 359
+    },
+    {
+      "Time": "2023-04-24T02:57:55.2971931+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2762,
+      "NumberOfAwardsMax": 359
+    },
+    {
+      "Time": "2023-04-24T22:57:39.9564625+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2763,
+      "NumberOfAwardsMax": 359
+    },
+    {
+      "Time": "2023-04-25T11:57:57.9718802+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2764,
+      "NumberOfAwardsMax": 359
+    },
+    {
+      "Time": "2023-04-25T13:58:27.8573766+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2765,
+      "NumberOfAwardsMax": 359
     }
   ],
   "Tags": [
@@ -2331,19 +2385,19 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 357
+      "Count": 359
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 336
+      "Count": 337
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 266
+      "Count": 267
     },
     {
       "Text": "This game is Relaxing",
@@ -2367,19 +2421,19 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 281
+      "Count": 284
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 317
+      "Count": 320
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 301
+      "Count": 303
     },
     {
       "Text": "This game has Obsessive Gameplay",

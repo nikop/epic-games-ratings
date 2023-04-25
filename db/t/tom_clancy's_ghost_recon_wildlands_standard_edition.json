@@ -2,15 +2,15 @@
   "ID": "hyacinth",
   "Name": "Tom Clancy\u0027s Ghost Recon Wildlands Standard Edition",
   "Rating": 4.58,
-  "Ranking_Rating": 406,
-  "Ranking_Popularity": 272,
+  "Ranking_Rating": 407,
+  "Ranking_Popularity": 269,
   "Ranking_PopularitySum": 217,
   "NumberOfRatings": 871,
-  "NumberOfAwards": 1196,
-  "NumberOfAwardsMax": 167,
+  "NumberOfAwards": 1225,
+  "NumberOfAwardsMax": 170,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:20:43.6796979+00:00",
-  "LastChanged": "2023-04-18T07:57:34.9800555+00:00",
+  "LastChanged": "2023-04-25T14:57:52.1388144+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:43.6796982+00:00",
@@ -1210,6 +1210,114 @@
       "Rating": 4.58,
       "NumberOfAwards": 1196,
       "NumberOfAwardsMax": 167
+    },
+    {
+      "Time": "2023-04-18T14:57:21.9584043+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1197,
+      "NumberOfAwardsMax": 167
+    },
+    {
+      "Time": "2023-04-18T18:57:47.8810115+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1198,
+      "NumberOfAwardsMax": 168
+    },
+    {
+      "Time": "2023-04-19T13:57:36.5249957+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1200,
+      "NumberOfAwardsMax": 168
+    },
+    {
+      "Time": "2023-04-19T19:59:01.1668944+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1201,
+      "NumberOfAwardsMax": 168
+    },
+    {
+      "Time": "2023-04-20T10:57:32.0462371+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1203,
+      "NumberOfAwardsMax": 168
+    },
+    {
+      "Time": "2023-04-20T11:57:12.2057765+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1207,
+      "NumberOfAwardsMax": 168
+    },
+    {
+      "Time": "2023-04-21T07:57:23.676225+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1208,
+      "NumberOfAwardsMax": 168
+    },
+    {
+      "Time": "2023-04-21T13:57:10.2708794+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1210,
+      "NumberOfAwardsMax": 168
+    },
+    {
+      "Time": "2023-04-21T21:57:28.210383+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1211,
+      "NumberOfAwardsMax": 168
+    },
+    {
+      "Time": "2023-04-22T08:57:32.6051349+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1212,
+      "NumberOfAwardsMax": 168
+    },
+    {
+      "Time": "2023-04-23T02:57:17.6317932+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1214,
+      "NumberOfAwardsMax": 168
+    },
+    {
+      "Time": "2023-04-23T03:57:36.8176637+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1218,
+      "NumberOfAwardsMax": 168
+    },
+    {
+      "Time": "2023-04-23T08:57:14.2539522+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1219,
+      "NumberOfAwardsMax": 168
+    },
+    {
+      "Time": "2023-04-23T13:01:26.6606617+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1220,
+      "NumberOfAwardsMax": 168
+    },
+    {
+      "Time": "2023-04-23T18:57:28.9544247+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1222,
+      "NumberOfAwardsMax": 170
+    },
+    {
+      "Time": "2023-04-24T14:57:39.7284878+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1223,
+      "NumberOfAwardsMax": 170
+    },
+    {
+      "Time": "2023-04-24T22:57:08.5775639+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1224,
+      "NumberOfAwardsMax": 170
+    },
+    {
+      "Time": "2023-04-25T14:57:52.1388147+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1225,
+      "NumberOfAwardsMax": 170
     }
   ],
   "Tags": [
@@ -1229,49 +1337,49 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 148
+      "Count": 154
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 151
+      "Count": 155
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 145
+      "Count": 146
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 158
+      "Count": 162
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 161
+      "Count": 165
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 128
+      "Count": 132
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 138
+      "Count": 141
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 167
+      "Count": 170
     }
   ]
 }

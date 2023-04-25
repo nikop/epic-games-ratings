@@ -1,15 +1,15 @@
 {
   "ID": "e901b6ea77454b0e9d944976a975165c",
   "Name": "Rogue Lords",
-  "Rating": 4.65,
-  "Ranking_Rating": 286,
-  "Ranking_Popularity": 484,
-  "Ranking_PopularitySum": 484,
+  "Rating": 4.64,
+  "Ranking_Rating": 310,
+  "Ranking_Popularity": 486,
+  "Ranking_PopularitySum": 486,
   "NumberOfRatings": 38,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:17:30.3189892+00:00",
-  "LastChanged": "2023-04-15T20:57:19.6941892+00:00",
+  "LastChanged": "2023-04-23T20:57:09.5407548+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:30.3189894+00:00",
@@ -140,6 +140,12 @@
     {
       "Time": "2023-04-15T20:57:19.6941895+00:00",
       "Rating": 4.65,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-23T20:57:09.540755+00:00",
+      "Rating": 4.64,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

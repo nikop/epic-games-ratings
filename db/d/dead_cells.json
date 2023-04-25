@@ -2,15 +2,15 @@
   "ID": "1368a7f14c3344bbaededbae528fafed",
   "Name": "Dead Cells",
   "Rating": 4.88,
-  "Ranking_Rating": 19,
-  "Ranking_Popularity": 234,
-  "Ranking_PopularitySum": 176,
+  "Ranking_Rating": 18,
+  "Ranking_Popularity": 236,
+  "Ranking_PopularitySum": 175,
   "NumberOfRatings": 1319,
-  "NumberOfAwards": 2157,
-  "NumberOfAwardsMax": 247,
+  "NumberOfAwards": 2165,
+  "NumberOfAwardsMax": 248,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2023-04-17T11:56:57.3656835+00:00",
+  "LastChanged": "2023-04-25T14:57:30.7503844+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:26.6981295+00:00",
@@ -1524,6 +1524,54 @@
       "Rating": 4.88,
       "NumberOfAwards": 2157,
       "NumberOfAwardsMax": 247
+    },
+    {
+      "Time": "2023-04-21T08:56:57.9304284+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 2158,
+      "NumberOfAwardsMax": 247
+    },
+    {
+      "Time": "2023-04-23T02:05:46.5074173+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 2159,
+      "NumberOfAwardsMax": 247
+    },
+    {
+      "Time": "2023-04-23T13:56:47.5448673+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 2160,
+      "NumberOfAwardsMax": 247
+    },
+    {
+      "Time": "2023-04-24T16:57:05.1742166+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 2161,
+      "NumberOfAwardsMax": 247
+    },
+    {
+      "Time": "2023-04-24T19:57:03.3666949+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 2162,
+      "NumberOfAwardsMax": 247
+    },
+    {
+      "Time": "2023-04-25T02:56:47.9708095+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 2163,
+      "NumberOfAwardsMax": 248
+    },
+    {
+      "Time": "2023-04-25T07:57:03.9634817+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 2164,
+      "NumberOfAwardsMax": 248
+    },
+    {
+      "Time": "2023-04-25T14:57:30.7503847+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 2165,
+      "NumberOfAwardsMax": 248
     }
   ],
   "Tags": [
@@ -1531,7 +1579,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 217
+      "Count": 218
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1543,13 +1591,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 235
+      "Count": 237
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 222
+      "Count": 223
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1573,7 +1621,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 208
+      "Count": 209
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1585,19 +1633,19 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 167
+      "Count": 168
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 247
+      "Count": 248
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 215
+      "Count": 216
     }
   ]
 }

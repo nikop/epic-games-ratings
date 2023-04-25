@@ -2,15 +2,15 @@
   "ID": "9a4a6536096c4307bfb235d811f754ce",
   "Name": "Neverwinter",
   "Rating": 4.29,
-  "Ranking_Rating": 752,
-  "Ranking_Popularity": 155,
-  "Ranking_PopularitySum": 183,
+  "Ranking_Rating": 755,
+  "Ranking_Popularity": 156,
+  "Ranking_PopularitySum": 182,
   "NumberOfRatings": 1084,
-  "NumberOfAwards": 2039,
-  "NumberOfAwardsMax": 669,
+  "NumberOfAwards": 2055,
+  "NumberOfAwardsMax": 671,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:17:12.0635613+00:00",
-  "LastChanged": "2023-04-16T18:57:02.0029045+00:00",
+  "LastChanged": "2023-04-25T02:56:46.2863222+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:12.0635618+00:00",
@@ -1436,6 +1436,72 @@
       "Rating": 4.29,
       "NumberOfAwards": 2039,
       "NumberOfAwardsMax": 669
+    },
+    {
+      "Time": "2023-04-19T16:56:52.7244923+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 2041,
+      "NumberOfAwardsMax": 669
+    },
+    {
+      "Time": "2023-04-19T18:56:50.3311446+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 2043,
+      "NumberOfAwardsMax": 669
+    },
+    {
+      "Time": "2023-04-20T03:56:57.4502187+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 2044,
+      "NumberOfAwardsMax": 669
+    },
+    {
+      "Time": "2023-04-20T16:56:53.8067533+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 2045,
+      "NumberOfAwardsMax": 669
+    },
+    {
+      "Time": "2023-04-20T22:57:34.3228797+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 2047,
+      "NumberOfAwardsMax": 671
+    },
+    {
+      "Time": "2023-04-21T02:56:52.0955853+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 2048,
+      "NumberOfAwardsMax": 671
+    },
+    {
+      "Time": "2023-04-22T05:56:54.1409609+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 2050,
+      "NumberOfAwardsMax": 671
+    },
+    {
+      "Time": "2023-04-23T13:01:03.585947+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 2051,
+      "NumberOfAwardsMax": 671
+    },
+    {
+      "Time": "2023-04-23T17:56:57.5168001+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 2052,
+      "NumberOfAwardsMax": 671
+    },
+    {
+      "Time": "2023-04-24T23:56:52.4621713+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 2054,
+      "NumberOfAwardsMax": 671
+    },
+    {
+      "Time": "2023-04-25T02:56:46.2863223+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 2055,
+      "NumberOfAwardsMax": 671
     }
   ],
   "Tags": [
@@ -1443,43 +1509,43 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 669
+      "Count": 671
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 194
+      "Count": 197
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 161
+      "Count": 162
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 186
+      "Count": 188
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 179
+      "Count": 182
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 168
+      "Count": 171
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 164
+      "Count": 165
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1491,7 +1557,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 166
+      "Count": 167
     },
     {
       "Text": "This game has Playful Visuals",

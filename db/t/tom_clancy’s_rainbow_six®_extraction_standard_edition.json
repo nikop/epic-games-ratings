@@ -2,15 +2,15 @@
   "ID": "1093790870b043cdbae03d91d76d9ae6",
   "Name": "Tom Clancy\u2019s Rainbow Six\u00AE Extraction Standard Edition",
   "Rating": 4.52,
-  "Ranking_Rating": 498,
-  "Ranking_Popularity": 281,
-  "Ranking_PopularitySum": 226,
+  "Ranking_Rating": 496,
+  "Ranking_Popularity": 283,
+  "Ranking_PopularitySum": 233,
   "NumberOfRatings": 635,
-  "NumberOfAwards": 987,
-  "NumberOfAwardsMax": 142,
+  "NumberOfAwards": 874,
+  "NumberOfAwardsMax": 144,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:22:18.7941234+00:00",
-  "LastChanged": "2023-04-18T01:54:58.1829955+00:00",
+  "LastChanged": "2023-04-24T14:57:51.5458282+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:18.7941236+00:00",
@@ -1124,6 +1124,84 @@
       "Rating": 4.52,
       "NumberOfAwards": 987,
       "NumberOfAwardsMax": 142
+    },
+    {
+      "Time": "2023-04-18T09:58:12.3224428+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 988,
+      "NumberOfAwardsMax": 142
+    },
+    {
+      "Time": "2023-04-20T19:57:22.8980341+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 989,
+      "NumberOfAwardsMax": 143
+    },
+    {
+      "Time": "2023-04-21T15:58:04.4549269+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 990,
+      "NumberOfAwardsMax": 143
+    },
+    {
+      "Time": "2023-04-21T17:58:00.8468308+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 993,
+      "NumberOfAwardsMax": 143
+    },
+    {
+      "Time": "2023-04-22T10:57:37.6032036+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 994,
+      "NumberOfAwardsMax": 143
+    },
+    {
+      "Time": "2023-04-22T11:57:38.8904006+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 995,
+      "NumberOfAwardsMax": 143
+    },
+    {
+      "Time": "2023-04-22T22:57:31.5562674+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 996,
+      "NumberOfAwardsMax": 143
+    },
+    {
+      "Time": "2023-04-23T02:57:26.5268575+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 997,
+      "NumberOfAwardsMax": 143
+    },
+    {
+      "Time": "2023-04-23T10:57:19.2424404+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 998,
+      "NumberOfAwardsMax": 143
+    },
+    {
+      "Time": "2023-04-23T11:57:43.2388296+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 999,
+      "NumberOfAwardsMax": 143
+    },
+    {
+      "Time": "2023-04-23T13:57:11.8651658+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 871,
+      "NumberOfAwardsMax": 143
+    },
+    {
+      "Time": "2023-04-24T02:57:32.9873152+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 873,
+      "NumberOfAwardsMax": 143
+    },
+    {
+      "Time": "2023-04-24T14:57:51.5458287+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 874,
+      "NumberOfAwardsMax": 144
     }
   ],
   "Tags": [
@@ -1131,7 +1209,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 142
+      "Count": 144
     },
     {
       "Text": "This game is Relaxing",
@@ -1149,37 +1227,37 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 114
+      "Count": 115
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 133
+      "Count": 135
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 125
+      "Count": 127
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 105
+      "Count": 106
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 127
+      "Count": 133
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 113
+      "Count": 114
     },
     {
       "Text": "This game has Realistic Visuals",

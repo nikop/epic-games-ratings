@@ -2,15 +2,15 @@
   "ID": "3a212c0da4f1438e840c21565df4b6fe",
   "Name": "MultiVersus",
   "Rating": 4.56,
-  "Ranking_Rating": 439,
-  "Ranking_Popularity": 63,
+  "Ranking_Rating": 441,
+  "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 24,
   "NumberOfRatings": 55748,
-  "NumberOfAwards": 45622,
-  "NumberOfAwardsMax": 4730,
+  "NumberOfAwards": 45642,
+  "NumberOfAwardsMax": 4736,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-26T18:01:28.8669143+00:00",
-  "LastChanged": "2023-04-18T04:57:50.7901327+00:00",
+  "LastChanged": "2023-04-24T21:57:39.9646469+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-27T00:00:54.22041+00:00",
@@ -3249,6 +3249,96 @@
       "Rating": 4.56,
       "NumberOfAwards": 45622,
       "NumberOfAwardsMax": 4730
+    },
+    {
+      "Time": "2023-04-18T13:07:22.2568787+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 45623,
+      "NumberOfAwardsMax": 4730
+    },
+    {
+      "Time": "2023-04-19T15:57:43.4740569+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 45625,
+      "NumberOfAwardsMax": 4732
+    },
+    {
+      "Time": "2023-04-19T21:57:30.6541244+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 45627,
+      "NumberOfAwardsMax": 4733
+    },
+    {
+      "Time": "2023-04-21T05:57:40.668602+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 45628,
+      "NumberOfAwardsMax": 4734
+    },
+    {
+      "Time": "2023-04-21T14:57:28.146627+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 45629,
+      "NumberOfAwardsMax": 4734
+    },
+    {
+      "Time": "2023-04-21T20:57:18.89097+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 45630,
+      "NumberOfAwardsMax": 4734
+    },
+    {
+      "Time": "2023-04-22T01:57:27.5888079+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 45632,
+      "NumberOfAwardsMax": 4734
+    },
+    {
+      "Time": "2023-04-23T03:57:45.9811639+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 45633,
+      "NumberOfAwardsMax": 4734
+    },
+    {
+      "Time": "2023-04-23T04:57:28.6256145+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 45634,
+      "NumberOfAwardsMax": 4734
+    },
+    {
+      "Time": "2023-04-23T07:57:52.2587529+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 45636,
+      "NumberOfAwardsMax": 4734
+    },
+    {
+      "Time": "2023-04-23T18:57:38.8457119+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 45637,
+      "NumberOfAwardsMax": 4734
+    },
+    {
+      "Time": "2023-04-23T23:57:12.0978431+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 45638,
+      "NumberOfAwardsMax": 4734
+    },
+    {
+      "Time": "2023-04-24T07:57:10.481562+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 45639,
+      "NumberOfAwardsMax": 4734
+    },
+    {
+      "Time": "2023-04-24T13:04:54.6976566+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 45641,
+      "NumberOfAwardsMax": 4736
+    },
+    {
+      "Time": "2023-04-24T21:57:39.964647+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 45642,
+      "NumberOfAwardsMax": 4736
     }
   ],
   "Tags": [
@@ -3262,31 +3352,31 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 4501
+      "Count": 4505
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4730
+      "Count": 4736
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 4221
+      "Count": 4224
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4517
+      "Count": 4519
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3937
+      "Count": 3938
     },
     {
       "Text": "This game has Playful Visuals",
@@ -3298,13 +3388,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4142
+      "Count": 4144
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 3603
+      "Count": 3605
     },
     {
       "Text": "This game has Obsessive Gameplay",

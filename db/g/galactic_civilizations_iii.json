@@ -2,15 +2,15 @@
   "ID": "3c52fbac843d4375803187739db84801",
   "Name": "Galactic Civilizations III",
   "Rating": 4.21,
-  "Ranking_Rating": 790,
-  "Ranking_Popularity": 265,
+  "Ranking_Rating": 794,
+  "Ranking_Popularity": 268,
   "Ranking_PopularitySum": 221,
   "NumberOfRatings": 1085,
-  "NumberOfAwards": 1093,
-  "NumberOfAwardsMax": 173,
+  "NumberOfAwards": 1098,
+  "NumberOfAwardsMax": 175,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:17:25.7061184+00:00",
-  "LastChanged": "2023-04-16T02:01:36.595279+00:00",
+  "LastChanged": "2023-04-24T01:58:43.1447249+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:25.7061186+00:00",
@@ -1307,6 +1307,36 @@
       "Rating": 4.21,
       "NumberOfAwards": 1093,
       "NumberOfAwardsMax": 173
+    },
+    {
+      "Time": "2023-04-18T23:56:58.280137+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 1094,
+      "NumberOfAwardsMax": 174
+    },
+    {
+      "Time": "2023-04-21T06:57:14.7346383+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 1095,
+      "NumberOfAwardsMax": 175
+    },
+    {
+      "Time": "2023-04-21T08:56:57.6470372+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 1096,
+      "NumberOfAwardsMax": 175
+    },
+    {
+      "Time": "2023-04-23T18:57:03.1949899+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 1097,
+      "NumberOfAwardsMax": 175
+    },
+    {
+      "Time": "2023-04-24T01:58:43.1447252+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 1098,
+      "NumberOfAwardsMax": 175
     }
   ],
   "Tags": [
@@ -1314,19 +1344,19 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 173
+      "Count": 175
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 147
+      "Count": 148
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 153
+      "Count": 154
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1344,7 +1374,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 156
+      "Count": 157
     },
     {
       "Text": "This game has Amazing Characters",

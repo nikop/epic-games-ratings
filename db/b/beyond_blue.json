@@ -1,15 +1,25 @@
 {
   "ID": "bd9fd28ca1214868922f2ab41d6d3b65",
   "Name": "Beyond Blue",
+  "Rating": 4.48,
+  "Ranking_Rating": 561,
+  "Ranking_Popularity": 486,
+  "Ranking_PopularitySum": 486,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:30:42.8790244+00:00",
   "FirstSeenRating": "2023-03-31T05:58:31.0323242+00:00",
-  "LastChanged": "2023-03-31T05:58:31.0323243+00:00",
+  "LastChanged": "2023-04-24T20:58:18.7135756+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:31.0323245+00:00",
       "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-24T20:58:18.7135759+00:00",
+      "Rating": 4.48,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

@@ -2,15 +2,15 @@
   "ID": "c556d22537ed4a14a454813c9faedd3a",
   "Name": "Medieval Dynasty",
   "Rating": 4.65,
-  "Ranking_Rating": 286,
-  "Ranking_Popularity": 384,
-  "Ranking_PopularitySum": 298,
+  "Ranking_Rating": 287,
+  "Ranking_Popularity": 387,
+  "Ranking_PopularitySum": 303,
   "NumberOfRatings": 722,
-  "NumberOfAwards": 380,
+  "NumberOfAwards": 384,
   "NumberOfAwardsMax": 48,
   "MaxAwardTitle": "Amazing Storytelling",
   "FirstSeen": "2022-07-22T20:20:29.0491506+00:00",
-  "LastChanged": "2023-04-10T19:57:28.8512441+00:00",
+  "LastChanged": "2023-04-24T01:59:02.8457589+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:29.049151+00:00",
@@ -811,6 +811,24 @@
       "Rating": 4.65,
       "NumberOfAwards": 380,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-04-20T16:57:10.1977383+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 381,
+      "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-04-20T18:57:23.6434709+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 383,
+      "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-04-24T01:59:02.8457593+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 384,
+      "NumberOfAwardsMax": 48
     }
   ],
   "Tags": [
@@ -842,7 +860,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 45
+      "Count": 46
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -854,7 +872,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game has Diverse Characters",
@@ -866,13 +884,13 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 43
+      "Count": 44
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game is Educational",

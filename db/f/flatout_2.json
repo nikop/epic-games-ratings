@@ -1,15 +1,15 @@
 {
   "ID": "04aa210636b34e4181d617e015cb82b4",
   "Name": "Flatout 2",
-  "Rating": 4.93,
-  "Ranking_Rating": 3,
-  "Ranking_Popularity": 484,
-  "Ranking_PopularitySum": 484,
+  "Rating": 4.91,
+  "Ranking_Rating": 5,
+  "Ranking_Popularity": 486,
+  "Ranking_PopularitySum": 486,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-08-08T18:31:47.8686118+00:00",
   "FirstSeenRating": "2022-11-11T17:57:55.7315738+00:00",
-  "LastChanged": "2023-04-09T08:57:48.1002309+00:00",
+  "LastChanged": "2023-04-20T20:58:23.9861623+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-11T17:57:55.731574+00:00",
@@ -48,6 +48,12 @@
     {
       "Time": "2023-04-09T08:57:48.1002312+00:00",
       "Rating": 4.93,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-20T20:58:23.9861626+00:00",
+      "Rating": 4.91,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

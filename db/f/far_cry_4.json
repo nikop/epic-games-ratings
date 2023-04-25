@@ -2,15 +2,15 @@
   "ID": "cf87285950ba492bbdc370b9d265ea36",
   "Name": "FAR CRY 4",
   "Rating": 4.66,
-  "Ranking_Rating": 272,
+  "Ranking_Rating": 271,
   "Ranking_Popularity": 181,
-  "Ranking_PopularitySum": 253,
+  "Ranking_PopularitySum": 251,
   "NumberOfRatings": 639,
-  "NumberOfAwards": 717,
-  "NumberOfAwardsMax": 488,
+  "NumberOfAwards": 752,
+  "NumberOfAwardsMax": 499,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:26:30.966572+00:00",
-  "LastChanged": "2023-04-17T17:57:52.5926948+00:00",
+  "LastChanged": "2023-04-24T18:58:12.1281616+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:30.9665724+00:00",
@@ -728,6 +728,60 @@
       "Rating": 4.66,
       "NumberOfAwards": 717,
       "NumberOfAwardsMax": 488
+    },
+    {
+      "Time": "2023-04-19T01:59:38.9959556+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 718,
+      "NumberOfAwardsMax": 489
+    },
+    {
+      "Time": "2023-04-20T02:58:03.3088928+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 720,
+      "NumberOfAwardsMax": 491
+    },
+    {
+      "Time": "2023-04-20T11:57:44.2298947+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 721,
+      "NumberOfAwardsMax": 491
+    },
+    {
+      "Time": "2023-04-21T11:57:36.7085051+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 722,
+      "NumberOfAwardsMax": 491
+    },
+    {
+      "Time": "2023-04-21T14:57:53.8193619+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 726,
+      "NumberOfAwardsMax": 495
+    },
+    {
+      "Time": "2023-04-23T09:57:49.2011509+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 727,
+      "NumberOfAwardsMax": 495
+    },
+    {
+      "Time": "2023-04-23T17:58:01.9130629+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 747,
+      "NumberOfAwardsMax": 495
+    },
+    {
+      "Time": "2023-04-23T23:57:38.9415715+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 748,
+      "NumberOfAwardsMax": 495
+    },
+    {
+      "Time": "2023-04-24T18:58:12.1281617+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 752,
+      "NumberOfAwardsMax": 499
     }
   ],
   "Tags": [
@@ -735,25 +789,25 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 488
+      "Count": 499
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 38
+      "Count": 39
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has Challenging Combat",
@@ -783,7 +837,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 25
+      "Count": 26
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 20
     }
   ]
 }

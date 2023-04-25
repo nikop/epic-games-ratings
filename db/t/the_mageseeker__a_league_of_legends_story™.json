@@ -1,6 +1,18 @@
 {
   "ID": "1e1d639f7fa045f08a1378885ec7080c",
   "Name": "The Mageseeker: A League of Legends Story\u2122",
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-18T18:57:53.9681419+00:00",
+  "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
+  "LastChanged": "2023-04-18T18:57:53.9681456+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-18T18:57:53.9681459+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

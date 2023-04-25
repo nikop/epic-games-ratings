@@ -1,16 +1,16 @@
 {
   "ID": "2bc23fc2438c47ec8acb0641980f50c1",
   "Name": "Darksiders Warmastered Edition",
-  "Rating": 4.6,
-  "Ranking_Rating": 375,
-  "Ranking_Popularity": 346,
+  "Rating": 4.61,
+  "Ranking_Rating": 348,
+  "Ranking_Popularity": 348,
   "Ranking_PopularitySum": 406,
   "NumberOfRatings": 721,
-  "NumberOfAwards": 73,
-  "NumberOfAwardsMax": 73,
+  "NumberOfAwards": 74,
+  "NumberOfAwardsMax": 74,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:24:18.0300294+00:00",
-  "LastChanged": "2023-04-09T10:57:39.1972126+00:00",
+  "LastChanged": "2023-04-22T17:57:47.0263801+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:24:18.0300296+00:00",
@@ -566,6 +566,18 @@
       "Rating": 4.6,
       "NumberOfAwards": 73,
       "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2023-04-21T17:58:11.4428049+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 74,
+      "NumberOfAwardsMax": 74
+    },
+    {
+      "Time": "2023-04-22T17:57:47.0263803+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 74,
+      "NumberOfAwardsMax": 74
     }
   ],
   "Tags": [
@@ -579,7 +591,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 73
+      "Count": 74
     }
   ]
 }

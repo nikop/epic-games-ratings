@@ -1,15 +1,15 @@
 # Fangs
-Rating: 4.09 (Ranked 850)  
+Rating: 4.09 (Ranked 851)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 484)  
-Sum: 0 (Ranked 484)  
+Max (): 0  (Ranked 486)  
+Sum: 0 (Ranked 486)  
 Diff (max vs sum): 0
 ## Awards
-| Award | Number of Ratings |
-| ----- | ----------------- |
+| Award | Count |
+| ----- | ----- |
 ## Ratings History
-| Date | Rating | Number of Ratings | Number of Awards |
-| ---- | ------ | ----------------- | ---------------- |
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
 | 2022-12-07 | 4.04 | - | - |
 | 2022-12-08 | 4.15 | - | - |
 | 2022-12-09 | 4.18 | - | - |
@@ -26,4 +26,4 @@ Diff (max vs sum): 0
 | 2023-01-17 | 4.07 | - | - |
 | 2023-01-28 | 4.10 | - | - |
 | 2023-01-30 | 4.09 | - | - |
-| 2023-03-31 | 4.09 | - | 0 |
+| 2023-03-31 | 4.09 | 0 | 0 |

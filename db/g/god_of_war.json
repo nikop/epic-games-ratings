@@ -2,15 +2,15 @@
   "ID": "3ddd6a590da64e3686042d108968a6b2",
   "Name": "God of War",
   "Rating": 4.89,
-  "Ranking_Rating": 13,
+  "Ranking_Rating": 12,
   "Ranking_Popularity": 73,
-  "Ranking_PopularitySum": 92,
+  "Ranking_PopularitySum": 93,
   "NumberOfRatings": 4943,
-  "NumberOfAwards": 7627,
-  "NumberOfAwardsMax": 3938,
+  "NumberOfAwards": 7649,
+  "NumberOfAwardsMax": 3949,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:26:02.7260883+00:00",
-  "LastChanged": "2023-04-17T18:57:53.1774613+00:00",
+  "LastChanged": "2023-04-25T14:58:31.3070414+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:02.7260885+00:00",
@@ -1918,6 +1918,84 @@
       "Rating": 4.89,
       "NumberOfAwards": 7627,
       "NumberOfAwardsMax": 3938
+    },
+    {
+      "Time": "2023-04-18T11:58:47.4396087+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 7628,
+      "NumberOfAwardsMax": 3938
+    },
+    {
+      "Time": "2023-04-19T14:58:03.7459809+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 7629,
+      "NumberOfAwardsMax": 3939
+    },
+    {
+      "Time": "2023-04-20T03:57:57.0261943+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 7630,
+      "NumberOfAwardsMax": 3940
+    },
+    {
+      "Time": "2023-04-20T14:58:26.3791587+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 7631,
+      "NumberOfAwardsMax": 3940
+    },
+    {
+      "Time": "2023-04-21T18:58:08.0602393+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 7632,
+      "NumberOfAwardsMax": 3940
+    },
+    {
+      "Time": "2023-04-22T03:57:56.4477282+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 7634,
+      "NumberOfAwardsMax": 3942
+    },
+    {
+      "Time": "2023-04-22T07:58:04.8518814+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 7635,
+      "NumberOfAwardsMax": 3942
+    },
+    {
+      "Time": "2023-04-22T14:57:58.9081845+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 7636,
+      "NumberOfAwardsMax": 3942
+    },
+    {
+      "Time": "2023-04-23T14:57:53.4459747+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 7637,
+      "NumberOfAwardsMax": 3942
+    },
+    {
+      "Time": "2023-04-23T21:57:36.7633704+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 7638,
+      "NumberOfAwardsMax": 3942
+    },
+    {
+      "Time": "2023-04-24T05:58:25.1541137+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 7645,
+      "NumberOfAwardsMax": 3949
+    },
+    {
+      "Time": "2023-04-24T23:57:55.7689625+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 7648,
+      "NumberOfAwardsMax": 3949
+    },
+    {
+      "Time": "2023-04-25T14:58:31.3070415+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 7649,
+      "NumberOfAwardsMax": 3949
     }
   ],
   "Tags": [
@@ -1925,13 +2003,13 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 3938
+      "Count": 3949
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2108
+      "Count": 2114
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1943,13 +2021,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 149
+      "Count": 150
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 158
+      "Count": 160
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1967,13 +2045,13 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 133
+      "Count": 134
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 148
+      "Count": 149
     },
     {
       "Text": "This game has Competitive Players",

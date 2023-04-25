@@ -2,15 +2,15 @@
   "ID": "87c84bc5f43d4fe69ad8f3ccde0594b0",
   "Name": "Dishonored\u00AE: Death of the Outsider\u2122",
   "Rating": 4.43,
-  "Ranking_Rating": 629,
-  "Ranking_Popularity": 465,
-  "Ranking_PopularitySum": 373,
-  "NumberOfAwards": 147,
-  "NumberOfAwardsMax": 22,
-  "MaxAwardTitle": "Extremely Fun",
+  "Ranking_Rating": 631,
+  "Ranking_Popularity": 463,
+  "Ranking_PopularitySum": 374,
+  "NumberOfAwards": 150,
+  "NumberOfAwardsMax": 23,
+  "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2022-12-15T22:58:09.2323476+00:00",
   "FirstSeenRating": "2022-12-26T17:58:45.352902+00:00",
-  "LastChanged": "2023-04-17T17:58:31.338113+00:00",
+  "LastChanged": "2023-04-24T13:58:46.1366741+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-26T17:58:45.3529025+00:00",
@@ -239,6 +239,24 @@
       "Rating": 4.43,
       "NumberOfAwards": 147,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-04-22T06:59:13.1248401+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 148,
+      "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-04-24T04:58:35.5826336+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 149,
+      "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2023-04-24T13:58:46.1366743+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 150,
+      "NumberOfAwardsMax": 23
     }
   ],
   "Tags": [
@@ -270,7 +288,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game has Diverse Characters",
@@ -288,7 +306,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 21
+      "Count": 23
     }
   ]
 }

@@ -2,15 +2,15 @@
   "ID": "eddb735dde6b47cda8193f2643cff886",
   "Name": "Blasphemous",
   "Rating": 4.86,
-  "Ranking_Rating": 29,
-  "Ranking_Popularity": 284,
-  "Ranking_PopularitySum": 377,
+  "Ranking_Rating": 28,
+  "Ranking_Popularity": 286,
+  "Ranking_PopularitySum": 378,
   "NumberOfRatings": 205,
-  "NumberOfAwards": 136,
-  "NumberOfAwardsMax": 136,
+  "NumberOfAwards": 138,
+  "NumberOfAwardsMax": 138,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:20:14.5456165+00:00",
-  "LastChanged": "2023-04-17T17:57:16.7902425+00:00",
+  "LastChanged": "2023-04-22T07:57:18.3279533+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:14.5456168+00:00",
@@ -387,6 +387,18 @@
       "Rating": 4.86,
       "NumberOfAwards": 136,
       "NumberOfAwardsMax": 136
+    },
+    {
+      "Time": "2023-04-18T16:57:35.0397932+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 137,
+      "NumberOfAwardsMax": 137
+    },
+    {
+      "Time": "2023-04-22T07:57:18.3279534+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 138,
+      "NumberOfAwardsMax": 138
     }
   ],
   "Tags": [
@@ -394,7 +406,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 136
+      "Count": 138
     }
   ]
 }

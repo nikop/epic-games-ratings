@@ -2,15 +2,15 @@
   "ID": "94cec4802e954a6c9579e29e8b817f3a",
   "Name": "Insurgency: Sandstorm",
   "Rating": 4.61,
-  "Ranking_Rating": 350,
-  "Ranking_Popularity": 206,
-  "Ranking_PopularitySum": 160,
+  "Ranking_Rating": 348,
+  "Ranking_Popularity": 208,
+  "Ranking_PopularitySum": 161,
   "NumberOfRatings": 1316,
-  "NumberOfAwards": 2565,
-  "NumberOfAwardsMax": 343,
+  "NumberOfAwards": 2579,
+  "NumberOfAwardsMax": 344,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
-  "LastChanged": "2023-04-17T14:57:08.6606301+00:00",
+  "LastChanged": "2023-04-24T15:57:13.8250216+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:15.5604869+00:00",
@@ -1535,6 +1535,84 @@
       "Rating": 4.61,
       "NumberOfAwards": 2565,
       "NumberOfAwardsMax": 343
+    },
+    {
+      "Time": "2023-04-18T14:57:06.1309041+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2566,
+      "NumberOfAwardsMax": 343
+    },
+    {
+      "Time": "2023-04-19T14:57:03.5255999+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2566,
+      "NumberOfAwardsMax": 343
+    },
+    {
+      "Time": "2023-04-19T17:57:03.5891549+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2568,
+      "NumberOfAwardsMax": 343
+    },
+    {
+      "Time": "2023-04-19T21:57:08.6765122+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2571,
+      "NumberOfAwardsMax": 343
+    },
+    {
+      "Time": "2023-04-19T23:57:07.555013+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2571,
+      "NumberOfAwardsMax": 343
+    },
+    {
+      "Time": "2023-04-21T06:57:18.8872765+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2571,
+      "NumberOfAwardsMax": 343
+    },
+    {
+      "Time": "2023-04-21T13:02:36.6582827+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2573,
+      "NumberOfAwardsMax": 343
+    },
+    {
+      "Time": "2023-04-21T20:57:00.0870222+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2574,
+      "NumberOfAwardsMax": 343
+    },
+    {
+      "Time": "2023-04-22T03:56:58.1087109+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2575,
+      "NumberOfAwardsMax": 343
+    },
+    {
+      "Time": "2023-04-22T13:57:00.8341412+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2576,
+      "NumberOfAwardsMax": 344
+    },
+    {
+      "Time": "2023-04-22T23:57:06.8484857+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2578,
+      "NumberOfAwardsMax": 344
+    },
+    {
+      "Time": "2023-04-23T08:57:01.502279+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2578,
+      "NumberOfAwardsMax": 344
+    },
+    {
+      "Time": "2023-04-24T15:57:13.8250217+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2579,
+      "NumberOfAwardsMax": 344
     }
   ],
   "Tags": [
@@ -1542,43 +1620,43 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 343
+      "Count": 344
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 265
+      "Count": 268
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 302
+      "Count": 304
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 277
+      "Count": 278
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 307
+      "Count": 310
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 268
+      "Count": 271
     },
     {
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 274
+      "Count": 275
     },
     {
       "Text": "This game is Extremely Fun",

@@ -2,15 +2,15 @@
   "ID": "55d082ca99b64bd9bdb25754eb56a135",
   "Name": "Might and Magic: Heroes VII - Ultimate Edition",
   "Rating": 4.45,
-  "Ranking_Rating": 595,
-  "Ranking_Popularity": 452,
-  "Ranking_PopularitySum": 428,
+  "Ranking_Rating": 599,
+  "Ranking_Popularity": 448,
+  "Ranking_PopularitySum": 412,
   "NumberOfRatings": 96,
-  "NumberOfAwards": 48,
-  "NumberOfAwardsMax": 26,
+  "NumberOfAwards": 69,
+  "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:25:09.0043612+00:00",
-  "LastChanged": "2023-04-16T02:02:42.0063468+00:00",
+  "LastChanged": "2023-04-25T14:58:24.8191987+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:09.0043615+00:00",
@@ -377,6 +377,30 @@
       "Rating": 4.45,
       "NumberOfAwards": 48,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2023-04-18T15:57:54.4388105+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 49,
+      "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2023-04-21T20:57:39.5052212+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 49,
+      "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2023-04-22T19:57:41.7269749+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 69,
+      "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2023-04-25T14:58:24.8191988+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 69,
+      "NumberOfAwardsMax": 27
     }
   ],
   "Tags": [
@@ -384,13 +408,19 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
       "Count": 22
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 20
     }
   ]
 }

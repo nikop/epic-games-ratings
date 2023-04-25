@@ -2,15 +2,15 @@
   "ID": "a93cd6111251461c953776a0c4ea4d80",
   "Name": "Ghostwire: Tokyo",
   "Rating": 4.52,
-  "Ranking_Rating": 498,
-  "Ranking_Popularity": 179,
-  "Ranking_PopularitySum": 270,
+  "Ranking_Rating": 496,
+  "Ranking_Popularity": 182,
+  "Ranking_PopularitySum": 271,
   "NumberOfRatings": 1100,
-  "NumberOfAwards": 626,
-  "NumberOfAwardsMax": 493,
+  "NumberOfAwards": 631,
+  "NumberOfAwardsMax": 497,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:20:08.0109801+00:00",
-  "LastChanged": "2023-04-14T17:57:10.2937086+00:00",
+  "LastChanged": "2023-04-23T08:57:11.0294514+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:08.0109804+00:00",
@@ -547,6 +547,30 @@
       "Rating": 4.52,
       "NumberOfAwards": 626,
       "NumberOfAwardsMax": 493
+    },
+    {
+      "Time": "2023-04-19T01:58:52.1188978+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 627,
+      "NumberOfAwardsMax": 494
+    },
+    {
+      "Time": "2023-04-21T20:57:09.9078728+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 628,
+      "NumberOfAwardsMax": 495
+    },
+    {
+      "Time": "2023-04-23T04:57:17.193291+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 630,
+      "NumberOfAwardsMax": 497
+    },
+    {
+      "Time": "2023-04-23T08:57:11.0294515+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 631,
+      "NumberOfAwardsMax": 497
     }
   ],
   "Tags": [
@@ -554,7 +578,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 493
+      "Count": 497
     },
     {
       "Text": "This game has Amazing Characters",
@@ -572,7 +596,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game has Quickly Understood Controls",

@@ -3,14 +3,14 @@
   "Name": "Slime Rancher",
   "Rating": 4.83,
   "Ranking_Rating": 54,
-  "Ranking_Popularity": 198,
-  "Ranking_PopularitySum": 146,
+  "Ranking_Popularity": 200,
+  "Ranking_PopularitySum": 148,
   "NumberOfRatings": 5898,
-  "NumberOfAwards": 2997,
+  "NumberOfAwards": 3007,
   "NumberOfAwardsMax": 385,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:22:59.345324+00:00",
-  "LastChanged": "2023-04-15T06:58:08.0539551+00:00",
+  "LastChanged": "2023-04-25T01:57:48.0160615+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:59.3453245+00:00",
@@ -2298,6 +2298,60 @@
       "Rating": 4.83,
       "NumberOfAwards": 2997,
       "NumberOfAwardsMax": 385
+    },
+    {
+      "Time": "2023-04-18T14:57:39.6356815+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 2998,
+      "NumberOfAwardsMax": 385
+    },
+    {
+      "Time": "2023-04-18T17:58:03.5505419+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 2999,
+      "NumberOfAwardsMax": 385
+    },
+    {
+      "Time": "2023-04-18T18:58:09.9341933+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 3000,
+      "NumberOfAwardsMax": 385
+    },
+    {
+      "Time": "2023-04-20T16:57:24.344225+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 3002,
+      "NumberOfAwardsMax": 385
+    },
+    {
+      "Time": "2023-04-20T20:57:41.4392026+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 3003,
+      "NumberOfAwardsMax": 385
+    },
+    {
+      "Time": "2023-04-21T13:57:22.8280392+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 3004,
+      "NumberOfAwardsMax": 385
+    },
+    {
+      "Time": "2023-04-22T18:58:06.6568055+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 3005,
+      "NumberOfAwardsMax": 385
+    },
+    {
+      "Time": "2023-04-23T22:57:49.4294414+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 3006,
+      "NumberOfAwardsMax": 385
+    },
+    {
+      "Time": "2023-04-25T01:57:48.0160617+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 3007,
+      "NumberOfAwardsMax": 385
     }
   ],
   "Tags": [
@@ -2305,13 +2359,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 360
+      "Count": 362
     },
     {
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 335
+      "Count": 336
     },
     {
       "Text": "This game is Relaxing",
@@ -2329,19 +2383,19 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 333
+      "Count": 335
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 354
+      "Count": 355
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 296
+      "Count": 299
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2353,7 +2407,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 310
+      "Count": 311
     },
     {
       "Text": "This game has Diverse Characters",

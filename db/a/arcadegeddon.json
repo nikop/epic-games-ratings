@@ -3,14 +3,14 @@
   "Name": "Arcadegeddon",
   "Rating": 4.49,
   "Ranking_Rating": 541,
-  "Ranking_Popularity": 368,
-  "Ranking_PopularitySum": 285,
+  "Ranking_Popularity": 371,
+  "Ranking_PopularitySum": 286,
   "NumberOfRatings": 801,
-  "NumberOfAwards": 530,
+  "NumberOfAwards": 532,
   "NumberOfAwardsMax": 61,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
-  "LastChanged": "2023-04-14T02:57:06.8469078+00:00",
+  "LastChanged": "2023-04-20T10:57:29.6103947+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:13.3727466+00:00",
@@ -609,6 +609,18 @@
       "Rating": 4.49,
       "NumberOfAwards": 530,
       "NumberOfAwardsMax": 61
+    },
+    {
+      "Time": "2023-04-20T08:57:39.0371188+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 531,
+      "NumberOfAwardsMax": 61
+    },
+    {
+      "Time": "2023-04-20T10:57:29.6103948+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 532,
+      "NumberOfAwardsMax": 61
     }
   ],
   "Tags": [
@@ -616,7 +628,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 60
+      "Count": 61
     },
     {
       "Text": "This game has Amazing Characters",
@@ -652,7 +664,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 47
+      "Count": 48
     },
     {
       "Text": "This game has Diverse Characters",

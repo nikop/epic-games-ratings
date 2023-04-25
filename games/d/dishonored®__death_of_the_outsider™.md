@@ -1,23 +1,23 @@
 # Dishonored®: Death of the Outsider™
-Rating: 4.43 (Ranked 629)  
+Rating: 4.43 (Ranked 631)  
 ## Popularity (Based on Awards)
-Max (Extremely Fun): 22  (Ranked 465)  
-Sum: 147 (Ranked 373)  
-Diff (max vs sum): 92
+Max (Highly Recommended): 23  (Ranked 463)  
+Sum: 150 (Ranked 374)  
+Diff (max vs sum): 89
 ## Awards
-| Award | Number of Ratings |
-| ----- | ----------------- |
+| Award | Count |
+| ----- | ----- |
 | This game has Great Boss Battles | 27 |
+| This game has Amazing Storytelling | 23 |
+| This game is Highly Recommended | 23 |
 | This game is Extremely Fun | 22 |
-| This game has Amazing Storytelling | 22 |
 | This game is Relaxing | 21 |
 | This game has Diverse Characters | 21 |
-| This game is Highly Recommended | 21 |
 | This game has Amazing Characters | 20 |
 | This game is Great for Beginners | 20 |
 ## Ratings History
-| Date | Rating | Number of Ratings | Number of Awards |
-| ---- | ------ | ----------------- | ---------------- |
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
 | 2022-12-26 | 4.50 | - | - |
 | 2022-12-27 | 4.52 | - | - |
 | 2022-12-28 | 4.46 | - | - |
@@ -38,8 +38,8 @@ Diff (max vs sum): 92
 | 2023-01-25 | 4.56 | - | - |
 | 2023-01-29 | 4.57 | - | - |
 | 2023-02-03 | 4.43 | - | - |
-| 2023-02-04 | 4.40 | - | - |
-| 2023-02-05 | 4.41 | - | - |
+| 2023-02-04 | 4.41 | - | - |
+| 2023-02-05 | 4.42 | - | - |
 | 2023-02-06 | 4.40 | - | - |
 | 2023-02-07 | 4.42 | - | - |
 | 2023-02-08 | 4.43 | - | - |
@@ -49,13 +49,15 @@ Diff (max vs sum): 92
 | 2023-02-14 | 4.43 | - | - |
 | 2023-03-13 | 4.44 | - | - |
 | 2023-03-14 | 4.43 | - | - |
-| 2023-04-03 | 4.43 | - | 21 |
-| 2023-04-05 | 4.43 | - | 21 |
-| 2023-04-06 | 4.43 | - | 22 |
-| 2023-04-08 | 4.43 | - | 22 |
-| 2023-04-09 | 4.43 | - | 22 |
-| 2023-04-10 | 4.43 | - | 22 |
-| 2023-04-12 | 4.43 | - | 22 |
-| 2023-04-14 | 4.43 | - | 22 |
-| 2023-04-16 | 4.43 | - | 22 |
-| 2023-04-17 | 4.43 | - | 22 |
+| 2023-04-03 | 4.43 | 21 | 41 |
+| 2023-04-05 | 4.44 | 21 | 41 |
+| 2023-04-06 | 4.43 | 22 | 42 |
+| 2023-04-08 | 4.43 | 22 | 62 |
+| 2023-04-09 | 4.43 | 22 | 83 |
+| 2023-04-10 | 4.43 | 22 | 123 |
+| 2023-04-12 | 4.43 | 22 | 124 |
+| 2023-04-14 | 4.43 | 22 | 144 |
+| 2023-04-16 | 4.43 | 22 | 146 |
+| 2023-04-17 | 4.43 | 22 | 147 |
+| 2023-04-22 | 4.43 | 22 | 148 |
+| 2023-04-24 | 4.43 | 23 | 150 |

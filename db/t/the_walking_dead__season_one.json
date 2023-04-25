@@ -1,16 +1,16 @@
 {
   "ID": "bloodroot",
   "Name": "The Walking Dead: Season One",
-  "Rating": 4.81,
-  "Ranking_Rating": 70,
-  "Ranking_Popularity": 452,
-  "Ranking_PopularitySum": 458,
+  "Rating": 4.8,
+  "Ranking_Rating": 78,
+  "Ranking_Popularity": 454,
+  "Ranking_PopularitySum": 459,
   "NumberOfRatings": 70,
   "NumberOfAwards": 26,
   "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Impact the Story",
   "FirstSeen": "2022-07-22T20:18:47.8231949+00:00",
-  "LastChanged": "2023-04-13T20:57:03.9298366+00:00",
+  "LastChanged": "2023-04-24T21:57:16.244392+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:47.8231951+00:00",
@@ -199,6 +199,12 @@
     {
       "Time": "2023-04-13T20:57:03.9298367+00:00",
       "Rating": 4.81,
+      "NumberOfAwards": 26,
+      "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2023-04-24T21:57:16.2449335+00:00",
+      "Rating": 4.8,
       "NumberOfAwards": 26,
       "NumberOfAwardsMax": 26
     }

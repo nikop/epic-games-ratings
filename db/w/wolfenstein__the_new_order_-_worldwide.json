@@ -2,15 +2,15 @@
   "ID": "0bd3e505924240adb702295fa08c1eff",
   "Name": "Wolfenstein: The New Order - Worldwide",
   "Rating": 4.58,
-  "Ranking_Rating": 406,
+  "Ranking_Rating": 407,
   "Ranking_Popularity": 21,
   "Ranking_PopularitySum": 55,
   "NumberOfRatings": 61135,
-  "NumberOfAwards": 16962,
-  "NumberOfAwardsMax": 14315,
+  "NumberOfAwards": 16971,
+  "NumberOfAwardsMax": 14322,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:25:17.2471647+00:00",
-  "LastChanged": "2023-04-17T15:57:53.6744478+00:00",
+  "LastChanged": "2023-04-24T11:57:43.0431795+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:17.2471649+00:00",
@@ -2458,6 +2458,42 @@
       "Rating": 4.58,
       "NumberOfAwards": 16962,
       "NumberOfAwardsMax": 14315
+    },
+    {
+      "Time": "2023-04-19T02:57:59.8959649+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 16963,
+      "NumberOfAwardsMax": 14316
+    },
+    {
+      "Time": "2023-04-19T23:58:05.2441345+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 16964,
+      "NumberOfAwardsMax": 14317
+    },
+    {
+      "Time": "2023-04-21T15:58:30.9527142+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 16966,
+      "NumberOfAwardsMax": 14319
+    },
+    {
+      "Time": "2023-04-21T20:57:40.1535811+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 16967,
+      "NumberOfAwardsMax": 14319
+    },
+    {
+      "Time": "2023-04-23T18:58:09.335855+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 16970,
+      "NumberOfAwardsMax": 14322
+    },
+    {
+      "Time": "2023-04-24T11:57:43.0431797+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 16971,
+      "NumberOfAwardsMax": 14322
     }
   ],
   "Tags": [
@@ -2465,7 +2501,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 14315
+      "Count": 14322
     },
     {
       "Text": "This game is Relaxing",
@@ -2489,7 +2525,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 314
+      "Count": 315
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2513,7 +2549,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 322
+      "Count": 323
     },
     {
       "Text": "This game has Obsessive Gameplay",

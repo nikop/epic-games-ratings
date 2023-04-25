@@ -1,15 +1,15 @@
 # New Tales from the Borderlands
-Rating: 4.07 (Ranked 855)  
+Rating: 4.07 (Ranked 857)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 484)  
-Sum: 0 (Ranked 484)  
+Max (): 0  (Ranked 486)  
+Sum: 0 (Ranked 486)  
 Diff (max vs sum): 0
 ## Awards
-| Award | Number of Ratings |
-| ----- | ----------------- |
+| Award | Count |
+| ----- | ----- |
 ## Ratings History
-| Date | Rating | Number of Ratings | Number of Awards |
-| ---- | ------ | ----------------- | ---------------- |
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
 | 2022-10-25 | 4.00 | - | - |
 | 2022-10-26 | 4.03 | - | - |
 | 2022-10-27 | 4.06 | - | - |
@@ -40,4 +40,4 @@ Diff (max vs sum): 0
 | 2022-12-31 | 4.08 | - | - |
 | 2023-01-05 | 4.09 | - | - |
 | 2023-01-28 | 4.07 | - | - |
-| 2023-03-31 | 4.07 | - | 0 |
+| 2023-03-31 | 4.07 | 0 | 0 |

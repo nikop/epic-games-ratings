@@ -2,15 +2,15 @@
   "ID": "c3e63401d6ba410493de31ed69a798a1",
   "Name": "Heroes \u0026 Generals WWII",
   "Rating": 4.23,
-  "Ranking_Rating": 785,
+  "Ranking_Rating": 787,
   "Ranking_Popularity": 136,
   "Ranking_PopularitySum": 103,
   "NumberOfRatings": 4634,
-  "NumberOfAwards": 6858,
-  "NumberOfAwardsMax": 980,
+  "NumberOfAwards": 6871,
+  "NumberOfAwardsMax": 983,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:17:51.2948147+00:00",
-  "LastChanged": "2023-04-17T21:56:55.6449+00:00",
+  "LastChanged": "2023-04-25T13:04:29.545552+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:51.2948149+00:00",
@@ -2993,6 +2993,54 @@
       "Rating": 4.23,
       "NumberOfAwards": 6858,
       "NumberOfAwardsMax": 980
+    },
+    {
+      "Time": "2023-04-18T13:07:01.2797221+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 6860,
+      "NumberOfAwardsMax": 980
+    },
+    {
+      "Time": "2023-04-19T14:57:01.197746+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 6861,
+      "NumberOfAwardsMax": 980
+    },
+    {
+      "Time": "2023-04-20T14:57:17.8800244+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 6862,
+      "NumberOfAwardsMax": 980
+    },
+    {
+      "Time": "2023-04-21T13:56:56.0972073+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 6863,
+      "NumberOfAwardsMax": 981
+    },
+    {
+      "Time": "2023-04-22T19:57:04.7198999+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 6866,
+      "NumberOfAwardsMax": 981
+    },
+    {
+      "Time": "2023-04-23T08:56:59.7382875+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 6867,
+      "NumberOfAwardsMax": 982
+    },
+    {
+      "Time": "2023-04-24T19:57:07.006652+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 6868,
+      "NumberOfAwardsMax": 982
+    },
+    {
+      "Time": "2023-04-25T13:04:29.5455521+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 6871,
+      "NumberOfAwardsMax": 983
     }
   ],
   "Tags": [
@@ -3000,25 +3048,25 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 980
+      "Count": 983
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 883
+      "Count": 884
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 882
+      "Count": 884
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 859
+      "Count": 861
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3036,7 +3084,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 813
+      "Count": 818
     },
     {
       "Text": "This game has Amazing Storytelling",

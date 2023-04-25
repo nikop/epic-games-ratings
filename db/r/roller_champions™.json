@@ -2,15 +2,15 @@
   "ID": "03208f1f61764f5a8f6b7ea24c56edf1",
   "Name": "Roller Champions\u2122",
   "Rating": 4.34,
-  "Ranking_Rating": 715,
-  "Ranking_Popularity": 238,
+  "Ranking_Rating": 718,
+  "Ranking_Popularity": 240,
   "Ranking_PopularitySum": 193,
   "NumberOfRatings": 5693,
-  "NumberOfAwards": 1784,
-  "NumberOfAwardsMax": 233,
+  "NumberOfAwards": 1789,
+  "NumberOfAwardsMax": 234,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:21:37.6973739+00:00",
-  "LastChanged": "2023-04-17T18:57:27.9494081+00:00",
+  "LastChanged": "2023-04-24T19:57:36.7030831+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:37.6973742+00:00",
@@ -1752,6 +1752,24 @@
       "Rating": 4.34,
       "NumberOfAwards": 1784,
       "NumberOfAwardsMax": 233
+    },
+    {
+      "Time": "2023-04-20T14:57:47.1320905+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 1787,
+      "NumberOfAwardsMax": 234
+    },
+    {
+      "Time": "2023-04-22T11:57:34.1274024+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 1788,
+      "NumberOfAwardsMax": 234
+    },
+    {
+      "Time": "2023-04-24T19:57:36.7030834+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 1789,
+      "NumberOfAwardsMax": 234
     }
   ],
   "Tags": [
@@ -1759,19 +1777,19 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 233
+      "Count": 234
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 205
+      "Count": 206
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 195
+      "Count": 197
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1813,7 +1831,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 164
+      "Count": 165
     }
   ]
 }

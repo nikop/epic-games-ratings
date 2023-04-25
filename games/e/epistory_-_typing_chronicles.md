@@ -1,15 +1,15 @@
 # Epistory - Typing Chronicles
-Rating: 4.49 (Ranked 541)  
+Rating: 4.48 (Ranked 561)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 484)  
-Sum: 0 (Ranked 484)  
+Max (): 0  (Ranked 486)  
+Sum: 0 (Ranked 486)  
 Diff (max vs sum): 0
 ## Awards
-| Award | Number of Ratings |
-| ----- | ----------------- |
+| Award | Count |
+| ----- | ----- |
 ## Ratings History
-| Date | Rating | Number of Ratings | Number of Awards |
-| ---- | ------ | ----------------- | ---------------- |
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
 | 2023-01-21 | 4.22 | - | - |
 | 2023-01-22 | 4.44 | - | - |
 | 2023-01-23 | 4.39 | - | - |
@@ -37,7 +37,8 @@ Diff (max vs sum): 0
 | 2023-03-15 | 4.48 | - | - |
 | 2023-03-22 | 4.49 | - | - |
 | 2023-03-24 | 4.48 | - | - |
-| 2023-03-31 | 4.48 | - | 0 |
-| 2023-04-03 | 4.49 | - | 0 |
-| 2023-04-10 | 4.50 | - | 0 |
-| 2023-04-12 | 4.49 | - | 0 |
+| 2023-03-31 | 4.48 | 0 | 0 |
+| 2023-04-03 | 4.49 | 0 | 0 |
+| 2023-04-10 | 4.50 | 0 | 0 |
+| 2023-04-12 | 4.49 | 0 | 0 |
+| 2023-04-20 | 4.48 | 0 | 0 |

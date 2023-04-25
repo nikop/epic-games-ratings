@@ -1,16 +1,16 @@
 {
   "ID": "f01b3e0178d448f0b93911e292d8e614",
   "Name": "RollerCoaster Tycoon 3 Complete Edition",
-  "Rating": 4.66,
-  "Ranking_Rating": 272,
-  "Ranking_Popularity": 378,
-  "Ranking_PopularitySum": 291,
+  "Rating": 4.65,
+  "Ranking_Rating": 287,
+  "Ranking_Popularity": 380,
+  "Ranking_PopularitySum": 292,
   "NumberOfRatings": 687,
-  "NumberOfAwards": 410,
-  "NumberOfAwardsMax": 50,
+  "NumberOfAwards": 413,
+  "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:25:06.1047421+00:00",
-  "LastChanged": "2023-04-03T01:53:22.5927548+00:00",
+  "LastChanged": "2023-04-23T22:58:05.405654+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:06.1047426+00:00",
@@ -801,6 +801,30 @@
       "Rating": 4.66,
       "NumberOfAwards": 410,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-04-19T01:59:27.7547595+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 410,
+      "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-04-22T05:57:54.8373316+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 411,
+      "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-04-22T16:58:01.3322401+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 412,
+      "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-04-23T22:58:05.4056542+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 413,
+      "NumberOfAwardsMax": 51
     }
   ],
   "Tags": [
@@ -820,7 +844,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 44
+      "Count": 45
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -832,7 +856,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 50
+      "Count": 51
     },
     {
       "Text": "This game has Playful Visuals",
@@ -856,7 +880,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 43
+      "Count": 44
     },
     {
       "Text": "This game has Diverse Characters",

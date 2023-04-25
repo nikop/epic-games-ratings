@@ -2,15 +2,15 @@
   "ID": "b4565296c22549e4830c13bc7506642d",
   "Name": "Far Cry 6 Standard Edition",
   "Rating": 4.44,
-  "Ranking_Rating": 614,
-  "Ranking_Popularity": 156,
+  "Ranking_Rating": 618,
+  "Ranking_Popularity": 155,
   "Ranking_PopularitySum": 118,
   "NumberOfRatings": 12290,
-  "NumberOfAwards": 5157,
-  "NumberOfAwardsMax": 667,
+  "NumberOfAwards": 5232,
+  "NumberOfAwardsMax": 673,
   "MaxAwardTitle": "Amazing Storytelling",
   "FirstSeen": "2022-07-22T20:18:07.3905482+00:00",
-  "LastChanged": "2023-04-17T16:56:52.9496352+00:00",
+  "LastChanged": "2023-04-25T13:04:29.2626827+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:07.3905485+00:00",
@@ -3282,6 +3282,204 @@
       "Rating": 4.44,
       "NumberOfAwards": 5157,
       "NumberOfAwardsMax": 667
+    },
+    {
+      "Time": "2023-04-18T13:57:05.8246667+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5162,
+      "NumberOfAwardsMax": 670
+    },
+    {
+      "Time": "2023-04-18T14:57:03.5035524+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5163,
+      "NumberOfAwardsMax": 670
+    },
+    {
+      "Time": "2023-04-18T19:56:57.5056617+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5167,
+      "NumberOfAwardsMax": 670
+    },
+    {
+      "Time": "2023-04-18T20:56:56.6909625+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5170,
+      "NumberOfAwardsMax": 670
+    },
+    {
+      "Time": "2023-04-19T01:58:34.3417411+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5171,
+      "NumberOfAwardsMax": 670
+    },
+    {
+      "Time": "2023-04-19T13:57:16.3041336+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5174,
+      "NumberOfAwardsMax": 670
+    },
+    {
+      "Time": "2023-04-19T14:57:00.9183674+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5176,
+      "NumberOfAwardsMax": 670
+    },
+    {
+      "Time": "2023-04-19T16:56:56.5747034+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5177,
+      "NumberOfAwardsMax": 671
+    },
+    {
+      "Time": "2023-04-19T23:57:04.4051098+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5179,
+      "NumberOfAwardsMax": 671
+    },
+    {
+      "Time": "2023-04-20T01:54:41.1081397+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5181,
+      "NumberOfAwardsMax": 671
+    },
+    {
+      "Time": "2023-04-20T03:57:02.2513298+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5185,
+      "NumberOfAwardsMax": 671
+    },
+    {
+      "Time": "2023-04-20T04:57:10.4271777+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5186,
+      "NumberOfAwardsMax": 671
+    },
+    {
+      "Time": "2023-04-20T05:56:56.1825297+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5187,
+      "NumberOfAwardsMax": 672
+    },
+    {
+      "Time": "2023-04-20T14:57:17.5492964+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5188,
+      "NumberOfAwardsMax": 672
+    },
+    {
+      "Time": "2023-04-20T23:56:57.7841476+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5190,
+      "NumberOfAwardsMax": 672
+    },
+    {
+      "Time": "2023-04-21T13:02:33.6929004+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5192,
+      "NumberOfAwardsMax": 672
+    },
+    {
+      "Time": "2023-04-21T14:57:08.5397343+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5195,
+      "NumberOfAwardsMax": 672
+    },
+    {
+      "Time": "2023-04-21T17:57:38.7694334+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5197,
+      "NumberOfAwardsMax": 672
+    },
+    {
+      "Time": "2023-04-22T06:57:00.7510097+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5198,
+      "NumberOfAwardsMax": 672
+    },
+    {
+      "Time": "2023-04-22T10:57:01.0984108+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5203,
+      "NumberOfAwardsMax": 672
+    },
+    {
+      "Time": "2023-04-22T22:56:58.6396527+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5206,
+      "NumberOfAwardsMax": 672
+    },
+    {
+      "Time": "2023-04-23T06:57:02.4063903+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5208,
+      "NumberOfAwardsMax": 672
+    },
+    {
+      "Time": "2023-04-23T08:56:59.5108331+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5209,
+      "NumberOfAwardsMax": 672
+    },
+    {
+      "Time": "2023-04-23T10:56:55.8785447+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5210,
+      "NumberOfAwardsMax": 672
+    },
+    {
+      "Time": "2023-04-23T16:57:08.1783363+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5214,
+      "NumberOfAwardsMax": 672
+    },
+    {
+      "Time": "2023-04-24T08:57:03.9134627+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 5215,
+      "NumberOfAwardsMax": 672
+    },
+    {
+      "Time": "2023-04-24T14:57:21.2427299+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 5216,
+      "NumberOfAwardsMax": 673
+    },
+    {
+      "Time": "2023-04-24T17:57:08.5810624+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5218,
+      "NumberOfAwardsMax": 673
+    },
+    {
+      "Time": "2023-04-24T19:57:06.6702495+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5223,
+      "NumberOfAwardsMax": 673
+    },
+    {
+      "Time": "2023-04-24T20:57:06.9733262+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5225,
+      "NumberOfAwardsMax": 673
+    },
+    {
+      "Time": "2023-04-24T22:56:54.8490495+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5228,
+      "NumberOfAwardsMax": 673
+    },
+    {
+      "Time": "2023-04-24T23:56:57.3358733+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5230,
+      "NumberOfAwardsMax": 673
+    },
+    {
+      "Time": "2023-04-25T13:04:29.262694+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5232,
+      "NumberOfAwardsMax": 673
     }
   ],
   "Tags": [
@@ -3289,49 +3487,49 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 650
+      "Count": 661
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 629
+      "Count": 637
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 651
+      "Count": 662
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 642
+      "Count": 653
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 631
+      "Count": 641
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 646
+      "Count": 652
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 667
+      "Count": 673
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 641
+      "Count": 653
     },
     {
       "Text": "This game has Obsessive Gameplay",

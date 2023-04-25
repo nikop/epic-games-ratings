@@ -2,16 +2,16 @@
   "ID": "4bc43145bb8245a5b5cc9ea262ffbe0e",
   "Name": "Marvel\u0027s Spider-Man Remastered",
   "Rating": 4.87,
-  "Ranking_Rating": 25,
+  "Ranking_Rating": 24,
   "Ranking_Popularity": 31,
   "Ranking_PopularitySum": 53,
   "NumberOfRatings": 14015,
-  "NumberOfAwards": 18958,
-  "NumberOfAwardsMax": 11295,
+  "NumberOfAwards": 18995,
+  "NumberOfAwardsMax": 11309,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-08-12T18:01:31.1852692+00:00",
   "FirstSeenRating": "2022-08-12T21:01:33.6251933+00:00",
-  "LastChanged": "2023-04-18T07:57:47.6315581+00:00",
+  "LastChanged": "2023-04-25T02:57:11.922819+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-12T21:01:33.6251935+00:00",
@@ -2547,6 +2547,102 @@
       "Rating": 4.87,
       "NumberOfAwards": 18958,
       "NumberOfAwardsMax": 11295
+    },
+    {
+      "Time": "2023-04-18T23:57:22.8101701+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 18959,
+      "NumberOfAwardsMax": 11295
+    },
+    {
+      "Time": "2023-04-19T01:59:05.3826303+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 18960,
+      "NumberOfAwardsMax": 11295
+    },
+    {
+      "Time": "2023-04-20T15:57:29.9486167+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 18961,
+      "NumberOfAwardsMax": 11295
+    },
+    {
+      "Time": "2023-04-21T01:56:26.8478722+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 18964,
+      "NumberOfAwardsMax": 11295
+    },
+    {
+      "Time": "2023-04-21T03:58:12.0364553+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 18965,
+      "NumberOfAwardsMax": 11295
+    },
+    {
+      "Time": "2023-04-21T19:57:11.5531414+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 18966,
+      "NumberOfAwardsMax": 11295
+    },
+    {
+      "Time": "2023-04-22T01:57:29.4350198+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 18972,
+      "NumberOfAwardsMax": 11301
+    },
+    {
+      "Time": "2023-04-22T15:57:16.8850325+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 18977,
+      "NumberOfAwardsMax": 11301
+    },
+    {
+      "Time": "2023-04-22T16:57:38.9622107+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 18978,
+      "NumberOfAwardsMax": 11301
+    },
+    {
+      "Time": "2023-04-23T02:57:24.8526613+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 18982,
+      "NumberOfAwardsMax": 11305
+    },
+    {
+      "Time": "2023-04-23T05:57:22.6231624+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 18983,
+      "NumberOfAwardsMax": 11305
+    },
+    {
+      "Time": "2023-04-23T08:57:22.4824077+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 18985,
+      "NumberOfAwardsMax": 11305
+    },
+    {
+      "Time": "2023-04-24T06:57:19.3420539+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 18987,
+      "NumberOfAwardsMax": 11305
+    },
+    {
+      "Time": "2023-04-24T09:57:23.0318589+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 18988,
+      "NumberOfAwardsMax": 11305
+    },
+    {
+      "Time": "2023-04-24T20:57:28.7289602+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 18992,
+      "NumberOfAwardsMax": 11309
+    },
+    {
+      "Time": "2023-04-25T02:57:11.9228191+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 18995,
+      "NumberOfAwardsMax": 11309
     }
   ],
   "Tags": [
@@ -2554,13 +2650,13 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 11295
+      "Count": 11309
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 890
+      "Count": 895
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2572,37 +2668,37 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 863
+      "Count": 868
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 865
+      "Count": 868
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 926
+      "Count": 928
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 889
+      "Count": 890
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 904
+      "Count": 905
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 830
+      "Count": 833
     },
     {
       "Text": "This game has a Creative Community",
@@ -2614,7 +2710,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 870
+      "Count": 873
     },
     {
       "Text": "This game is Educational",

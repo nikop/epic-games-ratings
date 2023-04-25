@@ -1,6 +1,18 @@
 {
   "ID": "0e65d8e6338943e68169f928702c4706",
   "Name": "Bosorka",
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-21T21:58:16.6767695+00:00",
+  "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
+  "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-21T21:58:16.6767729+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

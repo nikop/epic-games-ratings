@@ -1,30 +1,30 @@
 # Marvel’s Spider-Man: Miles Morales
 Rating: 4.79 (Ranked 91)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 981  (Ranked 135)  
-Sum: 1,299 (Ranked 213)  
+Max (Great Boss Battles): 988  (Ranked 135)  
+Sum: 1,310 (Ranked 213)  
 Diff (max vs sum): -78
 ## Awards
-| Award | Number of Ratings |
-| ----- | ----------------- |
-| This game has Great Boss Battles | 981 |
-| This game has Diverse Characters | 41 |
-| This game has Amazing Storytelling | 40 |
+| Award | Count |
+| ----- | ----- |
+| This game has Great Boss Battles | 988 |
+| This game has Diverse Characters | 42 |
+| This game has Amazing Storytelling | 42 |
 | This game is Great for Beginners | 35 |
 | This game is Relaxing | 33 |
 | This game is Highly Recommended | 32 |
 | This game is Great for Quick Sessions | 32 |
-| This game is Extremely Fun | 29 |
+| This game is Extremely Fun | 30 |
 | This game has Beautiful Visuals | 26 |
 | This game has Quickly Understood Controls | 26 |
 | This game has Amazing Characters | 26 |
 | This game has a Creative Community | 24 |
 ## Ratings History
-| Date | Rating | Number of Ratings | Number of Awards |
-| ---- | ------ | ----------------- | ---------------- |
-| 2022-11-19 | 4.82 | - | - |
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
+| 2022-11-19 | 4.94 | - | - |
 | 2022-11-20 | 4.83 | - | - |
-| 2022-11-21 | 4.81 | - | - |
+| 2022-11-21 | 4.84 | - | - |
 | 2022-11-22 | 4.82 | - | - |
 | 2022-11-23 | 4.83 | - | - |
 | 2022-11-24 | 4.84 | - | - |
@@ -34,18 +34,22 @@ Diff (max vs sum): -78
 | 2022-12-03 | 4.82 | - | - |
 | 2022-12-29 | 4.81 | - | - |
 | 2023-01-07 | 4.80 | - | - |
-| 2023-01-09 | 4.80 | - | - |
-| 2023-03-31 | 4.80 | - | 957 |
-| 2023-04-01 | 4.79 | - | 958 |
-| 2023-04-02 | 4.79 | - | 958 |
-| 2023-04-03 | 4.79 | - | 959 |
-| 2023-04-06 | 4.79 | - | 961 |
-| 2023-04-07 | 4.79 | - | 964 |
-| 2023-04-09 | 4.79 | - | 968 |
-| 2023-04-11 | 4.79 | - | 971 |
-| 2023-04-12 | 4.79 | - | 973 |
-| 2023-04-13 | 4.79 | - | 974 |
-| 2023-04-14 | 4.79 | - | 974 |
-| 2023-04-15 | 4.79 | - | 975 |
-| 2023-04-16 | 4.79 | - | 978 |
-| 2023-04-17 | 4.79 | - | 981 |
+| 2023-01-09 | 4.81 | - | - |
+| 2023-03-31 | 4.80 | 957 | 1,269 |
+| 2023-04-01 | 4.79 | 958 | 1,270 |
+| 2023-04-02 | 4.79 | 958 | 1,271 |
+| 2023-04-03 | 4.79 | 959 | 1,272 |
+| 2023-04-06 | 4.79 | 961 | 1,274 |
+| 2023-04-07 | 4.79 | 964 | 1,279 |
+| 2023-04-09 | 4.79 | 968 | 1,284 |
+| 2023-04-11 | 4.79 | 971 | 1,287 |
+| 2023-04-12 | 4.79 | 973 | 1,289 |
+| 2023-04-13 | 4.79 | 974 | 1,291 |
+| 2023-04-14 | 4.79 | 974 | 1,292 |
+| 2023-04-15 | 4.79 | 975 | 1,293 |
+| 2023-04-16 | 4.79 | 978 | 1,296 |
+| 2023-04-17 | 4.79 | 981 | 1,299 |
+| 2023-04-19 | 4.79 | 985 | 1,304 |
+| 2023-04-21 | 4.79 | 987 | 1,307 |
+| 2023-04-23 | 4.79 | 988 | 1,309 |
+| 2023-04-25 | 4.79 | 988 | 1,310 |

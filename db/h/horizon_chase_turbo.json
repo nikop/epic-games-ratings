@@ -2,15 +2,15 @@
   "ID": "253d451b16364a22907dd01b7e928fb6",
   "Name": "Horizon Chase Turbo",
   "Rating": 4.56,
-  "Ranking_Rating": 439,
-  "Ranking_Popularity": 287,
+  "Ranking_Rating": 441,
+  "Ranking_Popularity": 288,
   "Ranking_PopularitySum": 223,
   "NumberOfRatings": 1343,
-  "NumberOfAwards": 1055,
+  "NumberOfAwards": 1060,
   "NumberOfAwardsMax": 132,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
-  "LastChanged": "2023-04-17T14:57:13.9265672+00:00",
+  "LastChanged": "2023-04-25T07:57:14.7285184+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:20.5347353+00:00",
@@ -1248,6 +1248,36 @@
       "Rating": 4.56,
       "NumberOfAwards": 1055,
       "NumberOfAwardsMax": 132
+    },
+    {
+      "Time": "2023-04-21T05:57:21.1551207+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1056,
+      "NumberOfAwardsMax": 132
+    },
+    {
+      "Time": "2023-04-21T20:57:05.974993+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1057,
+      "NumberOfAwardsMax": 132
+    },
+    {
+      "Time": "2023-04-22T09:57:12.5452333+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1058,
+      "NumberOfAwardsMax": 132
+    },
+    {
+      "Time": "2023-04-22T10:57:13.3378266+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1059,
+      "NumberOfAwardsMax": 132
+    },
+    {
+      "Time": "2023-04-25T07:57:14.7285189+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1060,
+      "NumberOfAwardsMax": 132
     }
   ],
   "Tags": [
@@ -1261,7 +1291,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 112
+      "Count": 113
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1279,25 +1309,25 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 97
+      "Count": 98
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 95
+      "Count": 96
     },
     {
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 93
+      "Count": 94
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 109
+      "Count": 110
     },
     {
       "Text": "This game has Diverse Characters",

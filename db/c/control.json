@@ -2,15 +2,15 @@
   "ID": "calluna",
   "Name": "Control",
   "Rating": 4.6,
-  "Ranking_Rating": 375,
+  "Ranking_Rating": 373,
   "Ranking_Popularity": 37,
   "Ranking_PopularitySum": 69,
   "NumberOfRatings": 16122,
-  "NumberOfAwards": 12268,
-  "NumberOfAwardsMax": 8225,
+  "NumberOfAwards": 12290,
+  "NumberOfAwardsMax": 8239,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:16:45.0678604+00:00",
-  "LastChanged": "2023-04-17T17:56:57.4316378+00:00",
+  "LastChanged": "2023-04-24T22:56:48.8182245+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:45.0678606+00:00",
@@ -2979,6 +2979,72 @@
       "Rating": 4.6,
       "NumberOfAwards": 12268,
       "NumberOfAwardsMax": 8225
+    },
+    {
+      "Time": "2023-04-18T16:57:15.2748187+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 12273,
+      "NumberOfAwardsMax": 8230
+    },
+    {
+      "Time": "2023-04-19T08:56:59.9295186+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 12274,
+      "NumberOfAwardsMax": 8230
+    },
+    {
+      "Time": "2023-04-19T20:57:17.1010532+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 12275,
+      "NumberOfAwardsMax": 8230
+    },
+    {
+      "Time": "2023-04-20T13:03:50.3973505+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 12276,
+      "NumberOfAwardsMax": 8230
+    },
+    {
+      "Time": "2023-04-20T14:57:08.0732052+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 12278,
+      "NumberOfAwardsMax": 8232
+    },
+    {
+      "Time": "2023-04-21T15:57:17.7886771+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 12279,
+      "NumberOfAwardsMax": 8232
+    },
+    {
+      "Time": "2023-04-22T03:56:46.7010366+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 12280,
+      "NumberOfAwardsMax": 8232
+    },
+    {
+      "Time": "2023-04-22T09:56:58.817557+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 12282,
+      "NumberOfAwardsMax": 8234
+    },
+    {
+      "Time": "2023-04-23T23:56:45.5488936+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 12283,
+      "NumberOfAwardsMax": 8234
+    },
+    {
+      "Time": "2023-04-24T11:56:54.0820539+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 12288,
+      "NumberOfAwardsMax": 8239
+    },
+    {
+      "Time": "2023-04-24T22:56:48.8182246+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 12290,
+      "NumberOfAwardsMax": 8239
     }
   ],
   "Tags": [
@@ -2986,37 +3052,37 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 8225
+      "Count": 8239
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 487
+      "Count": 488
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 472
+      "Count": 473
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 495
+      "Count": 497
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 477
+      "Count": 478
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 452
+      "Count": 453
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3040,7 +3106,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 481
+      "Count": 483
     }
   ]
 }

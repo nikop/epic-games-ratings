@@ -2,16 +2,16 @@
   "ID": "4f09ede568514ca6ad487f9c22a66b81",
   "Name": "Slime Rancher 2",
   "Rating": 4.8,
-  "Ranking_Rating": 79,
-  "Ranking_Popularity": 315,
-  "Ranking_PopularitySum": 240,
+  "Ranking_Rating": 78,
+  "Ranking_Popularity": 318,
+  "Ranking_PopularitySum": 244,
   "NumberOfRatings": 36,
-  "NumberOfAwards": 804,
-  "NumberOfAwardsMax": 100,
+  "NumberOfAwards": 805,
+  "NumberOfAwardsMax": 101,
   "MaxAwardTitle": "Amazing Storytelling",
   "FirstSeen": "2022-09-22T20:03:01.7820576+00:00",
   "FirstSeenRating": "2022-09-23T13:02:43.6402723+00:00",
-  "LastChanged": "2023-04-17T15:58:16.4588137+00:00",
+  "LastChanged": "2023-04-19T23:58:38.1271952+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-23T13:02:43.6402725+00:00",
@@ -179,6 +179,12 @@
       "Rating": 4.8,
       "NumberOfAwards": 804,
       "NumberOfAwardsMax": 100
+    },
+    {
+      "Time": "2023-04-19T23:58:38.1271956+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 805,
+      "NumberOfAwardsMax": 101
     }
   ],
   "Tags": [
@@ -246,7 +252,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 100
+      "Count": 101
     },
     {
       "Text": "This game has a Creative Community",

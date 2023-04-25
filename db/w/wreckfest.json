@@ -1,15 +1,31 @@
 {
   "ID": "8a574ca3cbfc46c69ea8d3491932e973",
   "Name": "Wreckfest",
+  "Rating": 3.95,
+  "Ranking_Rating": 880,
+  "Ranking_Popularity": 486,
+  "Ranking_PopularitySum": 486,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2023-03-11T06:58:06.4643937+00:00",
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
-  "LastChanged": "2023-03-31T05:58:07.2367647+00:00",
+  "LastChanged": "2023-04-25T15:57:53.9600161+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:07.236765+00:00",
       "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-23T21:57:43.312096+00:00",
+      "Rating": 3.9,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-25T15:57:53.9600162+00:00",
+      "Rating": 3.95,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

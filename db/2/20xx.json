@@ -2,15 +2,15 @@
   "ID": "4c7117cadb714722950338f02850fd8d",
   "Name": "20XX",
   "Rating": 4.61,
-  "Ranking_Rating": 350,
-  "Ranking_Popularity": 414,
-  "Ranking_PopularitySum": 326,
+  "Ranking_Rating": 348,
+  "Ranking_Popularity": 416,
+  "Ranking_PopularitySum": 337,
   "NumberOfRatings": 392,
-  "NumberOfAwards": 272,
+  "NumberOfAwards": 248,
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:20:18.3366391+00:00",
-  "LastChanged": "2022-12-07T19:57:21.5529637+00:00",
+  "LastChanged": "2023-04-24T19:57:24.8998045+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:18.3366397+00:00",
@@ -551,6 +551,36 @@
     {
       "Time": "2022-12-07T19:57:21.5529639+00:00",
       "Rating": 4.61
+    },
+    {
+      "Time": "2023-04-19T16:57:10.1475317+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 273,
+      "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-04-22T08:57:29.8851575+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 274,
+      "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-04-23T17:57:17.1694152+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 275,
+      "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-04-24T01:59:01.7972336+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 276,
+      "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-04-24T19:57:24.8998047+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 248,
+      "NumberOfAwardsMax": 36
     }
   ],
   "Tags": [
@@ -576,13 +606,13 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Relaxing",
@@ -594,7 +624,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 23
+      "Count": 25
     },
     {
       "Text": "This game is Highly Recommended",

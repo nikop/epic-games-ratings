@@ -2,15 +2,15 @@
   "ID": "7015c51a49be4592b5ba3ae2577723c5",
   "Name": "Tropico 5",
   "Rating": 4.45,
-  "Ranking_Rating": 595,
-  "Ranking_Popularity": 301,
+  "Ranking_Rating": 599,
+  "Ranking_Popularity": 307,
   "Ranking_PopularitySum": 231,
   "NumberOfRatings": 2008,
-  "NumberOfAwards": 878,
+  "NumberOfAwards": 882,
   "NumberOfAwardsMax": 113,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-07-22T20:18:35.4138302+00:00",
-  "LastChanged": "2023-04-18T02:57:24.5608467+00:00",
+  "LastChanged": "2023-04-22T19:57:07.7958888+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:35.4138307+00:00",
@@ -1585,6 +1585,30 @@
       "Rating": 4.45,
       "NumberOfAwards": 878,
       "NumberOfAwardsMax": 113
+    },
+    {
+      "Time": "2023-04-18T23:57:04.8929647+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 879,
+      "NumberOfAwardsMax": 113
+    },
+    {
+      "Time": "2023-04-20T09:57:23.1985506+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 880,
+      "NumberOfAwardsMax": 113
+    },
+    {
+      "Time": "2023-04-21T21:57:14.8003219+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 881,
+      "NumberOfAwardsMax": 113
+    },
+    {
+      "Time": "2023-04-22T19:57:07.7958888+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 882,
+      "NumberOfAwardsMax": 113
     }
   ],
   "Tags": [
@@ -1592,7 +1616,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 99
+      "Count": 100
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1616,7 +1640,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 97
+      "Count": 98
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1628,7 +1652,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 104
+      "Count": 105
     },
     {
       "Text": "This game is Relaxing",
@@ -1646,7 +1670,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 109
+      "Count": 110
     },
     {
       "Text": "This game has Playful Visuals",

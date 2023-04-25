@@ -3,14 +3,14 @@
   "Name": "Might \u0026 Magic Heroes 3",
   "Rating": 4.82,
   "Ranking_Rating": 60,
-  "Ranking_Popularity": 306,
-  "Ranking_PopularitySum": 330,
+  "Ranking_Popularity": 304,
+  "Ranking_PopularitySum": 322,
   "NumberOfRatings": 165,
-  "NumberOfAwards": 267,
-  "NumberOfAwardsMax": 111,
+  "NumberOfAwards": 296,
+  "NumberOfAwardsMax": 115,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:27:33.8101196+00:00",
-  "LastChanged": "2023-04-17T06:58:22.925325+00:00",
+  "LastChanged": "2023-04-25T13:05:37.6022895+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:33.8101199+00:00",
@@ -465,6 +465,60 @@
       "Rating": 4.82,
       "NumberOfAwards": 267,
       "NumberOfAwardsMax": 111
+    },
+    {
+      "Time": "2023-04-18T09:02:34.1047302+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 269,
+      "NumberOfAwardsMax": 111
+    },
+    {
+      "Time": "2023-04-18T14:58:13.5011986+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 270,
+      "NumberOfAwardsMax": 111
+    },
+    {
+      "Time": "2023-04-19T20:03:08.1977643+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 270,
+      "NumberOfAwardsMax": 111
+    },
+    {
+      "Time": "2023-04-21T13:03:39.2958866+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 271,
+      "NumberOfAwardsMax": 112
+    },
+    {
+      "Time": "2023-04-21T16:58:26.0253663+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 272,
+      "NumberOfAwardsMax": 112
+    },
+    {
+      "Time": "2023-04-21T19:57:41.3996972+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 292,
+      "NumberOfAwardsMax": 112
+    },
+    {
+      "Time": "2023-04-23T10:57:48.5484459+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 293,
+      "NumberOfAwardsMax": 113
+    },
+    {
+      "Time": "2023-04-23T14:58:00.9590574+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 294,
+      "NumberOfAwardsMax": 113
+    },
+    {
+      "Time": "2023-04-25T13:05:37.6022896+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 296,
+      "NumberOfAwardsMax": 115
     }
   ],
   "Tags": [
@@ -472,7 +526,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 111
+      "Count": 115
     },
     {
       "Text": "This game is Great for Beginners",
@@ -484,7 +538,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game is Relaxing",
@@ -496,18 +550,24 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 25
+      "Count": 27
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
+      "Count": 21
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
       "Count": 21
     }
   ]

@@ -2,15 +2,15 @@
   "ID": "879b0d8776ab46a59a129983ba78f0ce",
   "Name": "Genshin Impact",
   "Rating": 4.68,
-  "Ranking_Rating": 235,
+  "Ranking_Rating": 232,
   "Ranking_Popularity": 3,
-  "Ranking_PopularitySum": 4,
+  "Ranking_PopularitySum": 3,
   "NumberOfRatings": 219180,
-  "NumberOfAwards": 1274709,
-  "NumberOfAwardsMax": 287063,
+  "NumberOfAwards": 1298597,
+  "NumberOfAwardsMax": 290631,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2023-04-18T07:58:02.0452399+00:00",
+  "LastChanged": "2023-04-24T21:57:56.3218697+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:23:42.3518765+00:00",
@@ -4558,6 +4558,126 @@
       "Rating": 4.68,
       "NumberOfAwards": 1274709,
       "NumberOfAwardsMax": 287063
+    },
+    {
+      "Time": "2023-04-18T10:58:19.689432+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1274853,
+      "NumberOfAwardsMax": 287063
+    },
+    {
+      "Time": "2023-04-18T13:07:34.5780683+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1275277,
+      "NumberOfAwardsMax": 287333
+    },
+    {
+      "Time": "2023-04-18T22:58:09.1773266+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1275580,
+      "NumberOfAwardsMax": 287333
+    },
+    {
+      "Time": "2023-04-19T01:59:17.293574+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1275955,
+      "NumberOfAwardsMax": 287333
+    },
+    {
+      "Time": "2023-04-19T04:57:39.0929256+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1276148,
+      "NumberOfAwardsMax": 287333
+    },
+    {
+      "Time": "2023-04-19T07:57:27.4685551+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1276484,
+      "NumberOfAwardsMax": 287333
+    },
+    {
+      "Time": "2023-04-19T10:58:12.5817048+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1276689,
+      "NumberOfAwardsMax": 287333
+    },
+    {
+      "Time": "2023-04-19T13:05:59.5907334+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1276982,
+      "NumberOfAwardsMax": 287626
+    },
+    {
+      "Time": "2023-04-19T13:57:59.711057+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1277149,
+      "NumberOfAwardsMax": 287626
+    },
+    {
+      "Time": "2023-04-19T20:00:48.3439544+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1278319,
+      "NumberOfAwardsMax": 287808
+    },
+    {
+      "Time": "2023-04-19T20:58:15.2080275+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1278499,
+      "NumberOfAwardsMax": 287812
+    },
+    {
+      "Time": "2023-04-20T20:57:46.1115688+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1281800,
+      "NumberOfAwardsMax": 288339
+    },
+    {
+      "Time": "2023-04-21T20:57:30.134696+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1285228,
+      "NumberOfAwardsMax": 288905
+    },
+    {
+      "Time": "2023-04-21T21:57:49.4840015+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1285565,
+      "NumberOfAwardsMax": 288905
+    },
+    {
+      "Time": "2023-04-22T20:57:48.972588+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1289579,
+      "NumberOfAwardsMax": 289525
+    },
+    {
+      "Time": "2023-04-22T21:57:47.8781082+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1289967,
+      "NumberOfAwardsMax": 289525
+    },
+    {
+      "Time": "2023-04-23T20:57:55.6274817+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1294267,
+      "NumberOfAwardsMax": 290157
+    },
+    {
+      "Time": "2023-04-23T21:57:23.00566+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1294748,
+      "NumberOfAwardsMax": 290157
+    },
+    {
+      "Time": "2023-04-24T20:57:38.6893917+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1298166,
+      "NumberOfAwardsMax": 290631
+    },
+    {
+      "Time": "2023-04-24T21:57:56.32187+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1298597,
+      "NumberOfAwardsMax": 290631
     }
   ],
   "Tags": [
@@ -4565,43 +4685,43 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 287063
+      "Count": 290631
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 128553
+      "Count": 130633
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 121908
+      "Count": 124241
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 110427
+      "Count": 112847
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 105447
+      "Count": 107768
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 106962
+      "Count": 109240
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 107585
+      "Count": 109981
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4613,19 +4733,19 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 102248
+      "Count": 104465
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 102749
+      "Count": 104961
     },
     {
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 101767
+      "Count": 103830
     }
   ]
 }

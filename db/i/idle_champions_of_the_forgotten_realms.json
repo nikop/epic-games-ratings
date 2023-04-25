@@ -2,15 +2,15 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "Rating": 4.06,
-  "Ranking_Rating": 858,
+  "Ranking_Rating": 860,
   "Ranking_Popularity": 61,
   "Ranking_PopularitySum": 37,
   "NumberOfRatings": 9041,
-  "NumberOfAwards": 29657,
-  "NumberOfAwardsMax": 4837,
+  "NumberOfAwards": 29719,
+  "NumberOfAwardsMax": 4849,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
-  "LastChanged": "2023-04-18T01:54:20.0292717+00:00",
+  "LastChanged": "2023-04-25T01:57:15.1358379+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:45.6649584+00:00",
@@ -3102,6 +3102,168 @@
       "Rating": 4.06,
       "NumberOfAwards": 29657,
       "NumberOfAwardsMax": 4837
+    },
+    {
+      "Time": "2023-04-18T09:01:15.825926+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29666,
+      "NumberOfAwardsMax": 4842
+    },
+    {
+      "Time": "2023-04-18T16:57:15.2787414+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29667,
+      "NumberOfAwardsMax": 4842
+    },
+    {
+      "Time": "2023-04-19T05:56:57.5770183+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29668,
+      "NumberOfAwardsMax": 4842
+    },
+    {
+      "Time": "2023-04-19T13:04:51.8301277+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29669,
+      "NumberOfAwardsMax": 4842
+    },
+    {
+      "Time": "2023-04-19T18:56:47.0868108+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29670,
+      "NumberOfAwardsMax": 4842
+    },
+    {
+      "Time": "2023-04-19T21:56:58.2592592+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29671,
+      "NumberOfAwardsMax": 4842
+    },
+    {
+      "Time": "2023-04-19T22:56:52.6157412+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29672,
+      "NumberOfAwardsMax": 4842
+    },
+    {
+      "Time": "2023-04-20T05:56:50.1969696+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29673,
+      "NumberOfAwardsMax": 4842
+    },
+    {
+      "Time": "2023-04-20T19:56:46.1183204+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29676,
+      "NumberOfAwardsMax": 4842
+    },
+    {
+      "Time": "2023-04-20T20:56:59.6885164+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29677,
+      "NumberOfAwardsMax": 4843
+    },
+    {
+      "Time": "2023-04-21T05:56:59.8933173+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29680,
+      "NumberOfAwardsMax": 4843
+    },
+    {
+      "Time": "2023-04-21T11:56:46.0882725+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29682,
+      "NumberOfAwardsMax": 4843
+    },
+    {
+      "Time": "2023-04-21T17:57:32.969406+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29685,
+      "NumberOfAwardsMax": 4843
+    },
+    {
+      "Time": "2023-04-21T21:57:02.0612394+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29687,
+      "NumberOfAwardsMax": 4843
+    },
+    {
+      "Time": "2023-04-22T01:56:46.3292392+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29690,
+      "NumberOfAwardsMax": 4846
+    },
+    {
+      "Time": "2023-04-22T06:56:51.2573559+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29693,
+      "NumberOfAwardsMax": 4846
+    },
+    {
+      "Time": "2023-04-22T08:57:06.5344451+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29694,
+      "NumberOfAwardsMax": 4846
+    },
+    {
+      "Time": "2023-04-22T14:56:45.7961474+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29697,
+      "NumberOfAwardsMax": 4846
+    },
+    {
+      "Time": "2023-04-23T02:05:42.5858209+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29698,
+      "NumberOfAwardsMax": 4846
+    },
+    {
+      "Time": "2023-04-23T10:56:49.7345581+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29700,
+      "NumberOfAwardsMax": 4846
+    },
+    {
+      "Time": "2023-04-23T15:57:01.3232787+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29703,
+      "NumberOfAwardsMax": 4848
+    },
+    {
+      "Time": "2023-04-23T16:57:00.42023+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29707,
+      "NumberOfAwardsMax": 4848
+    },
+    {
+      "Time": "2023-04-24T15:57:00.3854291+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29709,
+      "NumberOfAwardsMax": 4848
+    },
+    {
+      "Time": "2023-04-24T17:57:02.845813+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29714,
+      "NumberOfAwardsMax": 4848
+    },
+    {
+      "Time": "2023-04-24T22:56:48.8476243+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29715,
+      "NumberOfAwardsMax": 4849
+    },
+    {
+      "Time": "2023-04-24T23:56:49.5046944+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29718,
+      "NumberOfAwardsMax": 4849
+    },
+    {
+      "Time": "2023-04-25T01:57:15.135838+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29719,
+      "NumberOfAwardsMax": 4849
     }
   ],
   "Tags": [
@@ -3109,43 +3271,43 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4762
+      "Count": 4777
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4837
+      "Count": 4849
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4565
+      "Count": 4572
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4462
+      "Count": 4471
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3908
+      "Count": 3915
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3914
+      "Count": 3921
     },
     {
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3209
+      "Count": 3214
     }
   ]
 }

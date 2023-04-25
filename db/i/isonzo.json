@@ -2,16 +2,16 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "Rating": 4.56,
-  "Ranking_Rating": 439,
-  "Ranking_Popularity": 438,
-  "Ranking_PopularitySum": 340,
+  "Ranking_Rating": 441,
+  "Ranking_Popularity": 439,
+  "Ranking_PopularitySum": 341,
   "NumberOfRatings": 98,
-  "NumberOfAwards": 227,
+  "NumberOfAwards": 232,
   "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
-  "LastChanged": "2023-04-15T17:57:05.0417348+00:00",
+  "LastChanged": "2023-04-25T13:04:35.1476764+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-15T19:30:41.9786444+00:00",
@@ -411,6 +411,30 @@
       "Rating": 4.56,
       "NumberOfAwards": 227,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2023-04-23T14:57:14.1417735+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 229,
+      "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2023-04-23T16:57:13.6751209+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 230,
+      "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2023-04-24T23:57:02.8851829+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 231,
+      "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2023-04-25T13:04:35.1476765+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 232,
+      "NumberOfAwardsMax": 30
     }
   ],
   "Tags": [
@@ -430,7 +454,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has Challenging Combat",
@@ -448,19 +472,19 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 23
+      "Count": 25
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Competitive Players",

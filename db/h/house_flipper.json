@@ -2,15 +2,15 @@
   "ID": "d5cbd232ad304c91aacc20f31849435c",
   "Name": "House Flipper",
   "Rating": 4.7,
-  "Ranking_Rating": 191,
-  "Ranking_Popularity": 223,
-  "Ranking_PopularitySum": 180,
+  "Ranking_Rating": 190,
+  "Ranking_Popularity": 225,
+  "Ranking_PopularitySum": 179,
   "NumberOfRatings": 1023,
-  "NumberOfAwards": 2096,
-  "NumberOfAwardsMax": 279,
+  "NumberOfAwards": 2102,
+  "NumberOfAwardsMax": 280,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
-  "LastChanged": "2023-04-17T19:57:55.3006583+00:00",
+  "LastChanged": "2023-04-25T13:57:57.8272363+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:51.6478795+00:00",
@@ -1208,6 +1208,30 @@
       "Rating": 4.7,
       "NumberOfAwards": 2096,
       "NumberOfAwardsMax": 279
+    },
+    {
+      "Time": "2023-04-19T06:57:58.5198354+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2097,
+      "NumberOfAwardsMax": 279
+    },
+    {
+      "Time": "2023-04-21T09:57:38.7754788+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2099,
+      "NumberOfAwardsMax": 280
+    },
+    {
+      "Time": "2023-04-24T18:57:45.921098+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2100,
+      "NumberOfAwardsMax": 280
+    },
+    {
+      "Time": "2023-04-25T13:57:57.8272365+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2102,
+      "NumberOfAwardsMax": 280
     }
   ],
   "Tags": [
@@ -1215,7 +1239,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 279
+      "Count": 280
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1227,7 +1251,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 204
+      "Count": 206
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1257,7 +1281,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 230
+      "Count": 232
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1275,7 +1299,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 201
+      "Count": 202
     }
   ]
 }

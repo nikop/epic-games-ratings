@@ -2,16 +2,16 @@
   "ID": "7e2ec8a47b8d41528eb6dd2efd2b1abc",
   "Name": "Disney Dreamlight Valley",
   "Rating": 4.76,
-  "Ranking_Rating": 112,
-  "Ranking_Popularity": 145,
+  "Ranking_Rating": 114,
+  "Ranking_Popularity": 144,
   "Ranking_PopularitySum": 102,
   "NumberOfRatings": 1396,
-  "NumberOfAwards": 6907,
-  "NumberOfAwardsMax": 811,
+  "NumberOfAwards": 6949,
+  "NumberOfAwardsMax": 820,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
-  "LastChanged": "2023-04-18T03:56:59.9468855+00:00",
+  "LastChanged": "2023-04-25T04:57:22.1302717+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-06T23:00:48.1100288+00:00",
@@ -1259,6 +1259,138 @@
       "Rating": 4.76,
       "NumberOfAwards": 6907,
       "NumberOfAwardsMax": 811
+    },
+    {
+      "Time": "2023-04-18T13:57:01.3287247+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6908,
+      "NumberOfAwardsMax": 811
+    },
+    {
+      "Time": "2023-04-18T14:56:57.9360505+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6911,
+      "NumberOfAwardsMax": 811
+    },
+    {
+      "Time": "2023-04-18T16:57:17.8446729+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6912,
+      "NumberOfAwardsMax": 811
+    },
+    {
+      "Time": "2023-04-18T18:57:15.4098065+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6914,
+      "NumberOfAwardsMax": 811
+    },
+    {
+      "Time": "2023-04-18T21:57:11.0713226+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6916,
+      "NumberOfAwardsMax": 811
+    },
+    {
+      "Time": "2023-04-19T01:58:29.335746+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6919,
+      "NumberOfAwardsMax": 814
+    },
+    {
+      "Time": "2023-04-19T09:57:02.4765203+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6921,
+      "NumberOfAwardsMax": 814
+    },
+    {
+      "Time": "2023-04-19T19:57:04.9766232+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6923,
+      "NumberOfAwardsMax": 816
+    },
+    {
+      "Time": "2023-04-19T23:56:58.7966192+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6927,
+      "NumberOfAwardsMax": 816
+    },
+    {
+      "Time": "2023-04-20T01:54:37.0847399+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6929,
+      "NumberOfAwardsMax": 817
+    },
+    {
+      "Time": "2023-04-20T09:57:14.2164928+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6930,
+      "NumberOfAwardsMax": 817
+    },
+    {
+      "Time": "2023-04-20T11:56:54.9208218+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6931,
+      "NumberOfAwardsMax": 817
+    },
+    {
+      "Time": "2023-04-21T01:55:47.93951+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6932,
+      "NumberOfAwardsMax": 817
+    },
+    {
+      "Time": "2023-04-21T13:02:29.2240241+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6933,
+      "NumberOfAwardsMax": 817
+    },
+    {
+      "Time": "2023-04-21T21:57:05.3745337+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6934,
+      "NumberOfAwardsMax": 817
+    },
+    {
+      "Time": "2023-04-22T06:56:55.1773122+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6937,
+      "NumberOfAwardsMax": 820
+    },
+    {
+      "Time": "2023-04-22T18:57:19.6655281+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6938,
+      "NumberOfAwardsMax": 820
+    },
+    {
+      "Time": "2023-04-22T19:57:01.0202911+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6939,
+      "NumberOfAwardsMax": 820
+    },
+    {
+      "Time": "2023-04-24T01:58:41.0339286+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6942,
+      "NumberOfAwardsMax": 820
+    },
+    {
+      "Time": "2023-04-24T16:57:03.5214889+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6945,
+      "NumberOfAwardsMax": 820
+    },
+    {
+      "Time": "2023-04-25T01:57:17.6996072+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6948,
+      "NumberOfAwardsMax": 820
+    },
+    {
+      "Time": "2023-04-25T04:57:22.1302719+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6949,
+      "NumberOfAwardsMax": 820
     }
   ],
   "Tags": [
@@ -1272,7 +1404,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 811
+      "Count": 820
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1284,49 +1416,49 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 740
+      "Count": 743
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 706
+      "Count": 707
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 739
+      "Count": 743
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 721
+      "Count": 726
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 759
+      "Count": 762
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 710
+      "Count": 717
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 564
+      "Count": 571
     },
     {
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 457
+      "Count": 460
     }
   ]
 }

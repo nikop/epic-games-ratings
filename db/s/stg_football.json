@@ -2,15 +2,15 @@
   "ID": "5c30028c7a144f91b4a6ee4011bea27b",
   "Name": "STG Football",
   "Rating": 4.44,
-  "Ranking_Rating": 614,
-  "Ranking_Popularity": 422,
-  "Ranking_PopularitySum": 338,
-  "NumberOfAwards": 237,
-  "NumberOfAwardsMax": 34,
+  "Ranking_Rating": 618,
+  "Ranking_Popularity": 421,
+  "Ranking_PopularitySum": 325,
+  "NumberOfAwards": 279,
+  "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-10-25T20:04:22.7982366+00:00",
   "FirstSeenRating": "2022-10-28T23:02:10.4160395+00:00",
-  "LastChanged": "2023-04-14T03:58:16.7076973+00:00",
+  "LastChanged": "2023-04-24T01:59:50.4457035+00:00",
   "RatingHistory": [
     {
       "Time": "2022-10-28T23:02:10.4160399+00:00",
@@ -269,6 +269,30 @@
       "Rating": 4.44,
       "NumberOfAwards": 237,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-04-21T22:58:27.2622865+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 238,
+      "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-04-22T02:58:28.7842131+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 258,
+      "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-04-23T02:06:34.7153622+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 259,
+      "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-04-24T01:59:50.4457037+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 279,
+      "NumberOfAwardsMax": 35
     }
   ],
   "Tags": [
@@ -276,7 +300,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -318,13 +342,25 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
       "Count": 22
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 20
+    },
+    {
+      "Text": "This game is Educational",
+      "Prefix": "This game is",
+      "Type": "Educational",
+      "Count": 20
     }
   ]
 }

@@ -2,15 +2,15 @@
   "ID": "ff52981b1d9947978153c7a7f8bc6d90",
   "Name": "Disco Elysium",
   "Rating": 4.86,
-  "Ranking_Rating": 29,
+  "Ranking_Rating": 28,
   "Ranking_Popularity": 154,
   "Ranking_PopularitySum": 224,
   "NumberOfRatings": 1611,
-  "NumberOfAwards": 1038,
-  "NumberOfAwardsMax": 683,
+  "NumberOfAwards": 1039,
+  "NumberOfAwardsMax": 684,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
-  "LastChanged": "2023-04-16T22:57:05.1655939+00:00",
+  "LastChanged": "2023-04-20T18:57:18.5675805+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:46.370963+00:00",
@@ -949,6 +949,12 @@
       "Rating": 4.86,
       "NumberOfAwards": 1038,
       "NumberOfAwardsMax": 683
+    },
+    {
+      "Time": "2023-04-20T18:57:18.5675808+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 1039,
+      "NumberOfAwardsMax": 684
     }
   ],
   "Tags": [
@@ -956,7 +962,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 683
+      "Count": 684
     },
     {
       "Text": "This game has Quickly Understood Controls",

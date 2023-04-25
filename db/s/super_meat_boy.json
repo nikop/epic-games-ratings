@@ -1,16 +1,16 @@
 {
   "ID": "buffalo",
   "Name": "Super Meat Boy",
-  "Rating": 4.7,
-  "Ranking_Rating": 191,
-  "Ranking_Popularity": 343,
-  "Ranking_PopularitySum": 403,
+  "Rating": 4.69,
+  "Ranking_Rating": 208,
+  "Ranking_Popularity": 346,
+  "Ranking_PopularitySum": 404,
   "NumberOfRatings": 155,
   "NumberOfAwards": 75,
   "NumberOfAwardsMax": 75,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:25:39.3039474+00:00",
-  "LastChanged": "2023-04-14T21:57:36.6174406+00:00",
+  "LastChanged": "2023-04-24T21:58:14.6939733+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:39.3039476+00:00",
@@ -347,6 +347,18 @@
     {
       "Time": "2023-04-14T21:57:36.6174412+00:00",
       "Rating": 4.7,
+      "NumberOfAwards": 75,
+      "NumberOfAwardsMax": 75
+    },
+    {
+      "Time": "2023-04-21T20:57:42.6729504+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 75,
+      "NumberOfAwardsMax": 75
+    },
+    {
+      "Time": "2023-04-24T21:58:14.6939735+00:00",
+      "Rating": 4.69,
       "NumberOfAwards": 75,
       "NumberOfAwardsMax": 75
     }

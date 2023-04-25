@@ -2,15 +2,15 @@
   "ID": "coriander",
   "Name": "Far Cry 5 Standard Edition",
   "Rating": 4.62,
-  "Ranking_Rating": 334,
-  "Ranking_Popularity": 122,
-  "Ranking_PopularitySum": 195,
+  "Ranking_Rating": 333,
+  "Ranking_Popularity": 121,
+  "Ranking_PopularitySum": 192,
   "NumberOfRatings": 1848,
-  "NumberOfAwards": 1772,
-  "NumberOfAwardsMax": 1166,
+  "NumberOfAwards": 1810,
+  "NumberOfAwardsMax": 1192,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
-  "LastChanged": "2023-04-18T01:54:47.172666+00:00",
+  "LastChanged": "2023-04-25T11:57:15.1937881+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:47.7430661+00:00",
@@ -1334,6 +1334,114 @@
       "Rating": 4.62,
       "NumberOfAwards": 1772,
       "NumberOfAwardsMax": 1166
+    },
+    {
+      "Time": "2023-04-18T11:57:59.2168804+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1773,
+      "NumberOfAwardsMax": 1166
+    },
+    {
+      "Time": "2023-04-18T15:57:20.7142962+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1774,
+      "NumberOfAwardsMax": 1166
+    },
+    {
+      "Time": "2023-04-18T19:57:13.3904179+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1775,
+      "NumberOfAwardsMax": 1166
+    },
+    {
+      "Time": "2023-04-19T11:57:14.9036308+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1780,
+      "NumberOfAwardsMax": 1171
+    },
+    {
+      "Time": "2023-04-19T16:57:12.5339228+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1781,
+      "NumberOfAwardsMax": 1171
+    },
+    {
+      "Time": "2023-04-19T20:57:49.3184334+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1785,
+      "NumberOfAwardsMax": 1175
+    },
+    {
+      "Time": "2023-04-21T05:57:31.7795367+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1789,
+      "NumberOfAwardsMax": 1179
+    },
+    {
+      "Time": "2023-04-21T13:57:10.6553924+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1790,
+      "NumberOfAwardsMax": 1179
+    },
+    {
+      "Time": "2023-04-22T07:57:22.2078731+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1798,
+      "NumberOfAwardsMax": 1187
+    },
+    {
+      "Time": "2023-04-22T08:57:33.0671803+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1800,
+      "NumberOfAwardsMax": 1187
+    },
+    {
+      "Time": "2023-04-22T13:57:17.234798+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1801,
+      "NumberOfAwardsMax": 1187
+    },
+    {
+      "Time": "2023-04-22T14:57:16.3507108+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1802,
+      "NumberOfAwardsMax": 1187
+    },
+    {
+      "Time": "2023-04-22T15:57:09.7886315+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1803,
+      "NumberOfAwardsMax": 1187
+    },
+    {
+      "Time": "2023-04-23T09:57:16.4592334+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1805,
+      "NumberOfAwardsMax": 1189
+    },
+    {
+      "Time": "2023-04-23T21:57:06.2127641+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1806,
+      "NumberOfAwardsMax": 1189
+    },
+    {
+      "Time": "2023-04-24T09:57:16.1820398+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1808,
+      "NumberOfAwardsMax": 1191
+    },
+    {
+      "Time": "2023-04-24T21:57:31.1519673+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1809,
+      "NumberOfAwardsMax": 1191
+    },
+    {
+      "Time": "2023-04-25T11:57:15.1937882+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1810,
+      "NumberOfAwardsMax": 1192
     }
   ],
   "Tags": [
@@ -1341,13 +1449,13 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1166
+      "Count": 1192
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 75
+      "Count": 76
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1359,43 +1467,43 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 68
+      "Count": 70
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 73
+      "Count": 75
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 59
+      "Count": 60
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 60
+      "Count": 61
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 47
+      "Count": 48
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 59
+      "Count": 62
     },
     {
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 55
+      "Count": 56
     },
     {
       "Text": "This game has a Creative Community",

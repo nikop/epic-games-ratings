@@ -2,15 +2,15 @@
   "ID": "ff50f85ed609454e80ac46d9496da34d",
   "Name": "Loop Hero",
   "Rating": 4.68,
-  "Ranking_Rating": 235,
-  "Ranking_Popularity": 189,
+  "Ranking_Rating": 232,
+  "Ranking_Popularity": 192,
   "Ranking_PopularitySum": 141,
   "NumberOfRatings": 6301,
-  "NumberOfAwards": 3468,
+  "NumberOfAwards": 3473,
   "NumberOfAwardsMax": 410,
   "MaxAwardTitle": "Quickly Understood Controls",
   "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
-  "LastChanged": "2023-04-17T08:59:08.9690523+00:00",
+  "LastChanged": "2023-04-24T20:58:24.8019818+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:31:49.2794884+00:00",
@@ -2539,6 +2539,30 @@
       "Rating": 4.68,
       "NumberOfAwards": 3468,
       "NumberOfAwardsMax": 410
+    },
+    {
+      "Time": "2023-04-18T16:58:44.1490571+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 3469,
+      "NumberOfAwardsMax": 410
+    },
+    {
+      "Time": "2023-04-19T16:58:22.1294804+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 3470,
+      "NumberOfAwardsMax": 410
+    },
+    {
+      "Time": "2023-04-24T17:58:21.987732+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 3472,
+      "NumberOfAwardsMax": 410
+    },
+    {
+      "Time": "2023-04-24T20:58:24.8019819+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 3473,
+      "NumberOfAwardsMax": 410
     }
   ],
   "Tags": [
@@ -2558,7 +2582,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 397
+      "Count": 398
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2570,7 +2594,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 347
+      "Count": 349
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2582,7 +2606,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 342
+      "Count": 344
     },
     {
       "Text": "This game has Diverse Characters",

@@ -2,15 +2,15 @@
   "ID": "b4d9169e1b8548f2babec33107253309",
   "Name": "Ticket to Ride",
   "Rating": 4.61,
-  "Ranking_Rating": 350,
+  "Ranking_Rating": 348,
   "Ranking_Popularity": 368,
-  "Ranking_PopularitySum": 314,
+  "Ranking_PopularitySum": 315,
   "NumberOfRatings": 167,
-  "NumberOfAwards": 322,
-  "NumberOfAwardsMax": 61,
+  "NumberOfAwards": 327,
+  "NumberOfAwardsMax": 62,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:20:53.9949813+00:00",
-  "LastChanged": "2023-04-11T06:57:51.0437057+00:00",
+  "LastChanged": "2023-04-23T16:57:27.293205+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:53.9949816+00:00",
@@ -399,6 +399,36 @@
       "Rating": 4.61,
       "NumberOfAwards": 322,
       "NumberOfAwardsMax": 61
+    },
+    {
+      "Time": "2023-04-19T14:57:22.9203718+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 323,
+      "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2023-04-20T17:57:06.0107746+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 324,
+      "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2023-04-22T10:57:24.9340292+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 325,
+      "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2023-04-23T11:57:34.953174+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 326,
+      "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2023-04-23T16:57:27.2932051+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 327,
+      "NumberOfAwardsMax": 62
     }
   ],
   "Tags": [
@@ -406,7 +436,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 61
+      "Count": 62
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -418,7 +448,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -430,7 +460,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 35
+      "Count": 37
     },
     {
       "Text": "This game is Great for Beginners",
@@ -442,7 +472,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game is Highly Recommended",

@@ -1,20 +1,20 @@
 # Alba - A Wildlife Adventure
-Rating: 4.63 (Ranked 326)  
+Rating: 4.63 (Ranked 323)  
 ## Popularity (Based on Awards)
-Max (Extremely Fun): 20  (Ranked 477)  
-Sum: 20 (Ranked 477)  
+Max (Extremely Fun): 20  (Ranked 478)  
+Sum: 20 (Ranked 478)  
 Diff (max vs sum): 0
 ## Awards
-| Award | Number of Ratings |
-| ----- | ----------------- |
+| Award | Count |
+| ----- | ----- |
 | This game is Extremely Fun | 20 |
 ## Ratings History
-| Date | Rating | Number of Ratings | Number of Awards |
-| ---- | ------ | ----------------- | ---------------- |
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
 | 2022-11-11 | 4.67 | - | - |
-| 2022-11-12 | 4.65 | - | - |
+| 2022-11-12 | 4.68 | - | - |
 | 2022-11-13 | 4.65 | - | - |
-| 2022-11-15 | 4.63 | - | - |
+| 2022-11-15 | 4.64 | - | - |
 | 2022-11-18 | 4.62 | - | - |
 | 2022-11-19 | 4.62 | - | - |
 | 2022-11-21 | 4.61 | - | - |

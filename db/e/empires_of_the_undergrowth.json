@@ -2,15 +2,15 @@
   "ID": "4c436646d6f0400da483546a70e3a6e0",
   "Name": "Empires of the Undergrowth",
   "Rating": 4.76,
-  "Ranking_Rating": 112,
-  "Ranking_Popularity": 406,
-  "Ranking_PopularitySum": 302,
+  "Ranking_Rating": 114,
+  "Ranking_Popularity": 407,
+  "Ranking_PopularitySum": 306,
   "NumberOfRatings": 212,
-  "NumberOfAwards": 363,
+  "NumberOfAwards": 367,
   "NumberOfAwardsMax": 39,
-  "MaxAwardTitle": "Great for Beginners",
+  "MaxAwardTitle": "Competitive Players",
   "FirstSeen": "2022-07-22T20:32:38.799219+00:00",
-  "LastChanged": "2023-04-15T10:59:39.7286573+00:00",
+  "LastChanged": "2023-04-25T14:59:19.6342745+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:32:38.7992192+00:00",
@@ -519,6 +519,30 @@
       "Rating": 4.76,
       "NumberOfAwards": 363,
       "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2023-04-19T14:59:00.5199005+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 364,
+      "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2023-04-22T08:58:59.2907446+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 365,
+      "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2023-04-23T13:02:54.8914448+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 366,
+      "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2023-04-25T14:59:19.6342748+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 367,
+      "NumberOfAwardsMax": 39
     }
   ],
   "Tags": [
@@ -538,7 +562,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game has Competitive Players",
@@ -550,7 +574,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -586,7 +610,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has Challenging Combat",
@@ -598,7 +622,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 24
+      "Count": 25
     }
   ]
 }

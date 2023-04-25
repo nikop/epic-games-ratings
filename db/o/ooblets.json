@@ -2,15 +2,15 @@
   "ID": "413361d2d5db4912ac2dfbcf27a38141",
   "Name": "Ooblets",
   "Rating": 4.87,
-  "Ranking_Rating": 25,
-  "Ranking_Popularity": 132,
+  "Ranking_Rating": 24,
+  "Ranking_Popularity": 134,
   "Ranking_PopularitySum": 194,
   "NumberOfRatings": 1446,
-  "NumberOfAwards": 1777,
-  "NumberOfAwardsMax": 995,
+  "NumberOfAwards": 1783,
+  "NumberOfAwardsMax": 998,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:27:49.4319987+00:00",
-  "LastChanged": "2023-04-14T16:57:50.5063555+00:00",
+  "LastChanged": "2023-04-24T23:58:07.7844788+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:49.4319989+00:00",
@@ -1149,6 +1149,42 @@
       "Rating": 4.87,
       "NumberOfAwards": 1777,
       "NumberOfAwardsMax": 995
+    },
+    {
+      "Time": "2023-04-19T01:59:48.9677954+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1778,
+      "NumberOfAwardsMax": 996
+    },
+    {
+      "Time": "2023-04-20T15:58:00.6369074+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1779,
+      "NumberOfAwardsMax": 997
+    },
+    {
+      "Time": "2023-04-21T01:57:17.0213863+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1780,
+      "NumberOfAwardsMax": 997
+    },
+    {
+      "Time": "2023-04-21T14:58:00.2599477+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1781,
+      "NumberOfAwardsMax": 997
+    },
+    {
+      "Time": "2023-04-24T02:58:04.053586+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1782,
+      "NumberOfAwardsMax": 998
+    },
+    {
+      "Time": "2023-04-24T23:58:07.784479+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1783,
+      "NumberOfAwardsMax": 998
     }
   ],
   "Tags": [
@@ -1156,7 +1192,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 995
+      "Count": 998
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1180,7 +1216,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 70
+      "Count": 71
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1198,7 +1234,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 72
+      "Count": 73
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1222,7 +1258,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 70
+      "Count": 71
     },
     {
       "Text": "This game has a Kind Community",

@@ -3,14 +3,14 @@
   "Name": "Risk of Rain 2",
   "Rating": 4.85,
   "Ranking_Rating": 37,
-  "Ranking_Popularity": 242,
+  "Ranking_Popularity": 243,
   "Ranking_PopularitySum": 173,
   "NumberOfRatings": 1310,
-  "NumberOfAwards": 2186,
-  "NumberOfAwardsMax": 223,
+  "NumberOfAwards": 2201,
+  "NumberOfAwardsMax": 224,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:26:31.4387684+00:00",
-  "LastChanged": "2023-04-17T16:57:40.9254894+00:00",
+  "LastChanged": "2023-04-25T11:57:59.6632695+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:26:31.4387687+00:00",
@@ -1150,6 +1150,72 @@
       "Rating": 4.85,
       "NumberOfAwards": 2186,
       "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-04-18T10:58:46.0136066+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2187,
+      "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-04-18T11:58:51.9521972+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2189,
+      "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-04-19T20:02:32.0944108+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2191,
+      "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-04-21T17:58:23.5486963+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2192,
+      "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-04-22T02:58:27.2104795+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2193,
+      "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-04-22T07:58:08.7507063+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2194,
+      "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-04-22T11:58:09.2427221+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2197,
+      "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-04-22T20:58:10.0751743+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2198,
+      "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-04-23T05:57:48.1366856+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2199,
+      "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-04-24T17:57:54.3409879+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2200,
+      "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-04-25T11:57:59.6632704+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2201,
+      "NumberOfAwardsMax": 224
     }
   ],
   "Tags": [
@@ -1157,19 +1223,19 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 211
+      "Count": 212
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 223
+      "Count": 224
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 207
+      "Count": 210
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1181,7 +1247,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 200
+      "Count": 201
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1193,37 +1259,37 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 211
+      "Count": 214
     },
     {
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 179
+      "Count": 180
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 197
+      "Count": 199
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 180
+      "Count": 181
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 221
+      "Count": 222
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 145
+      "Count": 146
     }
   ]
 }

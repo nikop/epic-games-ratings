@@ -2,16 +2,16 @@
   "ID": "d14dcbe6b15b4fe191ff00880b9927f2",
   "Name": "F1\u00AE Manager 2022",
   "Rating": 4.59,
-  "Ranking_Rating": 389,
-  "Ranking_Popularity": 238,
-  "Ranking_PopularitySum": 196,
+  "Ranking_Rating": 388,
+  "Ranking_Popularity": 239,
+  "Ranking_PopularitySum": 195,
   "NumberOfRatings": 810,
-  "NumberOfAwards": 1767,
-  "NumberOfAwardsMax": 233,
+  "NumberOfAwards": 1773,
+  "NumberOfAwardsMax": 235,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-08-30T14:01:37.4479981+00:00",
   "FirstSeenRating": "2022-08-30T21:30:24.1805179+00:00",
-  "LastChanged": "2023-04-17T10:57:08.3075641+00:00",
+  "LastChanged": "2023-04-24T19:57:03.1290952+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-30T21:30:24.1805182+00:00",
@@ -1083,6 +1083,36 @@
       "Rating": 4.59,
       "NumberOfAwards": 1767,
       "NumberOfAwardsMax": 233
+    },
+    {
+      "Time": "2023-04-18T19:56:55.1690979+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1768,
+      "NumberOfAwardsMax": 233
+    },
+    {
+      "Time": "2023-04-19T18:56:52.5190352+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1770,
+      "NumberOfAwardsMax": 233
+    },
+    {
+      "Time": "2023-04-20T18:57:00.5134652+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1771,
+      "NumberOfAwardsMax": 233
+    },
+    {
+      "Time": "2023-04-21T17:57:36.5541269+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1772,
+      "NumberOfAwardsMax": 234
+    },
+    {
+      "Time": "2023-04-24T19:57:03.1290954+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1773,
+      "NumberOfAwardsMax": 235
     }
   ],
   "Tags": [
@@ -1090,13 +1120,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 192
+      "Count": 194
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 233
+      "Count": 235
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1138,13 +1168,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 194
+      "Count": 195
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 154
+      "Count": 155
     },
     {
       "Text": "This game has a Competitive Community",

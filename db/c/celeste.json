@@ -2,15 +2,15 @@
   "ID": "b671fbc7be424e888c9346a9a6d3d9db",
   "Name": "Celeste",
   "Rating": 4.92,
-  "Ranking_Rating": 4,
+  "Ranking_Rating": 3,
   "Ranking_Popularity": 115,
-  "Ranking_PopularitySum": 155,
+  "Ranking_PopularitySum": 156,
   "NumberOfRatings": 2543,
-  "NumberOfAwards": 2716,
-  "NumberOfAwardsMax": 1419,
+  "NumberOfAwards": 2738,
+  "NumberOfAwardsMax": 1427,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:25:26.412797+00:00",
-  "LastChanged": "2023-04-18T01:55:21.5504208+00:00",
+  "LastChanged": "2023-04-24T16:57:48.0059901+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:26.4127972+00:00",
@@ -1886,6 +1886,78 @@
       "Rating": 4.92,
       "NumberOfAwards": 2716,
       "NumberOfAwardsMax": 1419
+    },
+    {
+      "Time": "2023-04-18T13:57:59.5363912+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2718,
+      "NumberOfAwardsMax": 1419
+    },
+    {
+      "Time": "2023-04-19T05:57:59.046034+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2719,
+      "NumberOfAwardsMax": 1419
+    },
+    {
+      "Time": "2023-04-19T08:58:16.8933609+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2721,
+      "NumberOfAwardsMax": 1419
+    },
+    {
+      "Time": "2023-04-19T15:58:07.5444553+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2722,
+      "NumberOfAwardsMax": 1420
+    },
+    {
+      "Time": "2023-04-20T13:58:05.9741991+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2724,
+      "NumberOfAwardsMax": 1422
+    },
+    {
+      "Time": "2023-04-20T19:57:45.101749+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2725,
+      "NumberOfAwardsMax": 1422
+    },
+    {
+      "Time": "2023-04-21T04:57:57.6083692+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2727,
+      "NumberOfAwardsMax": 1422
+    },
+    {
+      "Time": "2023-04-21T13:03:25.0766488+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2728,
+      "NumberOfAwardsMax": 1422
+    },
+    {
+      "Time": "2023-04-21T14:57:48.1595123+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2731,
+      "NumberOfAwardsMax": 1425
+    },
+    {
+      "Time": "2023-04-22T18:58:28.1704513+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2735,
+      "NumberOfAwardsMax": 1425
+    },
+    {
+      "Time": "2023-04-22T19:57:43.3576025+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2737,
+      "NumberOfAwardsMax": 1427
+    },
+    {
+      "Time": "2023-04-24T16:57:48.0059902+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 2738,
+      "NumberOfAwardsMax": 1427
     }
   ],
   "Tags": [
@@ -1893,19 +1965,19 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1419
+      "Count": 1427
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 159
+      "Count": 164
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 132
+      "Count": 133
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1929,31 +2001,31 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 182
+      "Count": 185
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 170
+      "Count": 171
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 151
+      "Count": 153
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 157
+      "Count": 158
     },
     {
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 174
+      "Count": 175
     }
   ]
 }

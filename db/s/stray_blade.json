@@ -1,8 +1,18 @@
 {
   "ID": "8b8d2e16c20b4300ae0dc66db4d630ba",
   "Name": "Stray Blade",
-  "Names": [],
-  "DailyRatings": 0,
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-20T22:59:51.7384582+00:00",
+  "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
+  "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-20T22:59:51.73846+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

@@ -1,15 +1,15 @@
 {
   "ID": "e45dd95b2504456b90bf56ff55231668",
   "Name": "The Machines Arena",
-  "Rating": 4.67,
-  "Ranking_Rating": 256,
-  "Ranking_Popularity": 484,
-  "Ranking_PopularitySum": 484,
+  "Rating": 4.68,
+  "Ranking_Rating": 232,
+  "Ranking_Popularity": 486,
+  "Ranking_PopularitySum": 486,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:29:03.1302851+00:00",
   "FirstSeenRating": "2023-03-31T05:58:17.7202815+00:00",
-  "LastChanged": "2023-04-18T03:58:43.3577428+00:00",
+  "LastChanged": "2023-04-23T20:58:34.1887506+00:00",
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:17.7202819+00:00",
@@ -26,6 +26,12 @@
     {
       "Time": "2023-04-18T03:58:43.3577429+00:00",
       "Rating": 4.67,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-23T20:58:34.1887508+00:00",
+      "Rating": 4.68,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

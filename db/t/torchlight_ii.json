@@ -2,15 +2,15 @@
   "ID": "8432511ef63b489b843d21ff486a0355",
   "Name": "Torchlight II",
   "Rating": 4.58,
-  "Ranking_Rating": 406,
+  "Ranking_Rating": 407,
   "Ranking_Popularity": 138,
-  "Ranking_PopularitySum": 189,
+  "Ranking_PopularitySum": 187,
   "NumberOfRatings": 2280,
-  "NumberOfAwards": 1878,
-  "NumberOfAwardsMax": 965,
+  "NumberOfAwards": 1887,
+  "NumberOfAwardsMax": 967,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:29:22.1423084+00:00",
-  "LastChanged": "2023-04-17T23:58:07.0696208+00:00",
+  "LastChanged": "2023-04-25T03:58:46.1633783+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:22.1423087+00:00",
@@ -1265,6 +1265,54 @@
       "Rating": 4.58,
       "NumberOfAwards": 1878,
       "NumberOfAwardsMax": 965
+    },
+    {
+      "Time": "2023-04-19T11:58:07.3958509+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1879,
+      "NumberOfAwardsMax": 965
+    },
+    {
+      "Time": "2023-04-20T07:59:04.3387019+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1880,
+      "NumberOfAwardsMax": 965
+    },
+    {
+      "Time": "2023-04-20T08:58:27.5906053+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1882,
+      "NumberOfAwardsMax": 967
+    },
+    {
+      "Time": "2023-04-22T13:58:17.6509206+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1883,
+      "NumberOfAwardsMax": 967
+    },
+    {
+      "Time": "2023-04-22T15:57:57.4823854+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1884,
+      "NumberOfAwardsMax": 967
+    },
+    {
+      "Time": "2023-04-23T02:58:04.7024001+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1885,
+      "NumberOfAwardsMax": 967
+    },
+    {
+      "Time": "2023-04-23T06:58:43.3155697+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1886,
+      "NumberOfAwardsMax": 967
+    },
+    {
+      "Time": "2023-04-25T03:58:46.1633786+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1887,
+      "NumberOfAwardsMax": 967
     }
   ],
   "Tags": [
@@ -1272,13 +1320,13 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 965
+      "Count": 967
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 470
+      "Count": 473
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1290,7 +1338,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 54
+      "Count": 55
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1302,7 +1350,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 53
+      "Count": 54
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1314,7 +1362,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 48
+      "Count": 49
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1326,7 +1374,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 49
+      "Count": 50
     },
     {
       "Text": "This game has a Creative Community",

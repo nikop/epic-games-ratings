@@ -1,14 +1,15 @@
 # Realpolitiks II
-Rating: 4.10 (Ranked 844)  
+Rating: 4.14 (Ranked 836)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 484)  
-Sum: 0 (Ranked 484)  
+Max (): 0  (Ranked 486)  
+Sum: 0 (Ranked 486)  
 Diff (max vs sum): 0
 ## Awards
-| Award | Number of Ratings |
-| ----- | ----------------- |
+| Award | Count |
+| ----- | ----- |
 ## Ratings History
-| Date | Rating | Number of Ratings | Number of Awards |
-| ---- | ------ | ----------------- | ---------------- |
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
 | 2022-12-01 | 4.10 | - | - |
-| 2023-03-31 | 4.10 | - | 0 |
+| 2023-03-31 | 4.10 | 0 | 0 |
+| 2023-04-21 | 4.14 | 0 | 0 |

@@ -2,15 +2,15 @@
   "ID": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "Name": "Kingdom Come: Deliverance",
   "Rating": 4.71,
-  "Ranking_Rating": 177,
+  "Ranking_Rating": 178,
   "Ranking_Popularity": 43,
-  "Ranking_PopularitySum": 40,
+  "Ranking_PopularitySum": 41,
   "NumberOfRatings": 9133,
-  "NumberOfAwards": 26516,
-  "NumberOfAwardsMax": 7087,
+  "NumberOfAwards": 26602,
+  "NumberOfAwardsMax": 7116,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
-  "LastChanged": "2023-04-17T21:56:52.8469293+00:00",
+  "LastChanged": "2023-04-25T15:57:00.083869+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:24.2310156+00:00",
@@ -3782,6 +3782,204 @@
       "Rating": 4.71,
       "NumberOfAwards": 26516,
       "NumberOfAwardsMax": 7087
+    },
+    {
+      "Time": "2023-04-18T10:57:26.6204926+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26520,
+      "NumberOfAwardsMax": 7091
+    },
+    {
+      "Time": "2023-04-18T20:56:54.1873681+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26522,
+      "NumberOfAwardsMax": 7091
+    },
+    {
+      "Time": "2023-04-19T13:57:12.8194286+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26525,
+      "NumberOfAwardsMax": 7094
+    },
+    {
+      "Time": "2023-04-19T17:56:57.9503768+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26526,
+      "NumberOfAwardsMax": 7094
+    },
+    {
+      "Time": "2023-04-19T18:56:52.3902529+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26529,
+      "NumberOfAwardsMax": 7094
+    },
+    {
+      "Time": "2023-04-19T19:57:11.658098+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26532,
+      "NumberOfAwardsMax": 7094
+    },
+    {
+      "Time": "2023-04-19T23:57:00.5029008+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26533,
+      "NumberOfAwardsMax": 7094
+    },
+    {
+      "Time": "2023-04-20T04:57:07.2559948+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26534,
+      "NumberOfAwardsMax": 7095
+    },
+    {
+      "Time": "2023-04-20T10:57:15.9036318+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26536,
+      "NumberOfAwardsMax": 7095
+    },
+    {
+      "Time": "2023-04-20T13:57:12.3223216+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26540,
+      "NumberOfAwardsMax": 7095
+    },
+    {
+      "Time": "2023-04-20T19:56:50.6973007+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26541,
+      "NumberOfAwardsMax": 7095
+    },
+    {
+      "Time": "2023-04-20T20:57:04.2569673+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26542,
+      "NumberOfAwardsMax": 7095
+    },
+    {
+      "Time": "2023-04-20T21:56:54.0467334+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26544,
+      "NumberOfAwardsMax": 7095
+    },
+    {
+      "Time": "2023-04-21T02:56:53.5178402+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26547,
+      "NumberOfAwardsMax": 7095
+    },
+    {
+      "Time": "2023-04-21T13:02:30.5750188+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26554,
+      "NumberOfAwardsMax": 7102
+    },
+    {
+      "Time": "2023-04-21T17:57:36.4385727+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26555,
+      "NumberOfAwardsMax": 7102
+    },
+    {
+      "Time": "2023-04-21T23:56:54.3214698+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26559,
+      "NumberOfAwardsMax": 7102
+    },
+    {
+      "Time": "2023-04-22T09:57:02.4784146+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26560,
+      "NumberOfAwardsMax": 7102
+    },
+    {
+      "Time": "2023-04-22T14:56:50.9304895+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26561,
+      "NumberOfAwardsMax": 7102
+    },
+    {
+      "Time": "2023-04-22T18:57:21.3553159+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26564,
+      "NumberOfAwardsMax": 7105
+    },
+    {
+      "Time": "2023-04-23T02:05:46.1597043+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26566,
+      "NumberOfAwardsMax": 7105
+    },
+    {
+      "Time": "2023-04-23T05:56:57.3058519+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26568,
+      "NumberOfAwardsMax": 7105
+    },
+    {
+      "Time": "2023-04-23T07:57:22.2486023+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26570,
+      "NumberOfAwardsMax": 7105
+    },
+    {
+      "Time": "2023-04-23T13:56:47.2356864+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26573,
+      "NumberOfAwardsMax": 7105
+    },
+    {
+      "Time": "2023-04-23T15:57:06.8922381+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26574,
+      "NumberOfAwardsMax": 7105
+    },
+    {
+      "Time": "2023-04-24T02:57:07.2070566+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26576,
+      "NumberOfAwardsMax": 7105
+    },
+    {
+      "Time": "2023-04-24T04:57:09.8819782+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26577,
+      "NumberOfAwardsMax": 7105
+    },
+    {
+      "Time": "2023-04-24T10:56:55.0589093+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26583,
+      "NumberOfAwardsMax": 7111
+    },
+    {
+      "Time": "2023-04-24T11:56:57.7499556+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26587,
+      "NumberOfAwardsMax": 7111
+    },
+    {
+      "Time": "2023-04-24T13:56:52.5225749+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26590,
+      "NumberOfAwardsMax": 7111
+    },
+    {
+      "Time": "2023-04-24T17:57:06.2483252+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26593,
+      "NumberOfAwardsMax": 7111
+    },
+    {
+      "Time": "2023-04-25T13:04:25.83901+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26598,
+      "NumberOfAwardsMax": 7116
+    },
+    {
+      "Time": "2023-04-25T15:57:00.0838692+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26602,
+      "NumberOfAwardsMax": 7116
     }
   ],
   "Tags": [
@@ -3789,67 +3987,67 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7087
+      "Count": 7116
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5232
+      "Count": 5245
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1588
+      "Count": 1595
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1598
+      "Count": 1600
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1599
+      "Count": 1602
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1662
+      "Count": 1669
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 1518
+      "Count": 1519
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1577
+      "Count": 1585
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1629
+      "Count": 1633
     },
     {
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 1565
+      "Count": 1572
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1461
+      "Count": 1466
     },
     {
       "Text": "This game has Obsessive Gameplay",

@@ -2,15 +2,15 @@
   "ID": "ffe512fa1e594ee6a75d4643d1e21b43",
   "Name": "Totally Accurate Battle Simulator",
   "Rating": 4.77,
-  "Ranking_Rating": 105,
-  "Ranking_Popularity": 214,
-  "Ranking_PopularitySum": 153,
+  "Ranking_Rating": 106,
+  "Ranking_Popularity": 215,
+  "Ranking_PopularitySum": 154,
   "NumberOfRatings": 2102,
-  "NumberOfAwards": 2771,
-  "NumberOfAwardsMax": 315,
+  "NumberOfAwards": 2792,
+  "NumberOfAwardsMax": 320,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:25:14.6922177+00:00",
-  "LastChanged": "2023-04-17T19:58:17.1512674+00:00",
+  "LastChanged": "2023-04-25T01:58:00.6033527+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:25:14.6922179+00:00",
@@ -1975,6 +1975,108 @@
       "Rating": 4.77,
       "NumberOfAwards": 2771,
       "NumberOfAwardsMax": 315
+    },
+    {
+      "Time": "2023-04-18T15:57:55.4204984+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 2773,
+      "NumberOfAwardsMax": 315
+    },
+    {
+      "Time": "2023-04-19T03:58:33.1075942+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 2774,
+      "NumberOfAwardsMax": 315
+    },
+    {
+      "Time": "2023-04-20T02:57:54.7881852+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 2775,
+      "NumberOfAwardsMax": 315
+    },
+    {
+      "Time": "2023-04-20T19:57:43.9476728+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 2776,
+      "NumberOfAwardsMax": 315
+    },
+    {
+      "Time": "2023-04-20T20:57:57.9837094+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 2777,
+      "NumberOfAwardsMax": 315
+    },
+    {
+      "Time": "2023-04-21T01:56:55.6299102+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 2778,
+      "NumberOfAwardsMax": 315
+    },
+    {
+      "Time": "2023-04-22T14:57:52.540969+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 2780,
+      "NumberOfAwardsMax": 317
+    },
+    {
+      "Time": "2023-04-23T02:57:43.0837386+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 2781,
+      "NumberOfAwardsMax": 317
+    },
+    {
+      "Time": "2023-04-23T04:57:54.418339+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 2782,
+      "NumberOfAwardsMax": 317
+    },
+    {
+      "Time": "2023-04-23T10:57:35.950047+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 2783,
+      "NumberOfAwardsMax": 317
+    },
+    {
+      "Time": "2023-04-23T14:57:49.3952254+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 2784,
+      "NumberOfAwardsMax": 317
+    },
+    {
+      "Time": "2023-04-23T16:57:58.9369821+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 2785,
+      "NumberOfAwardsMax": 317
+    },
+    {
+      "Time": "2023-04-24T02:57:49.7338011+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 2786,
+      "NumberOfAwardsMax": 317
+    },
+    {
+      "Time": "2023-04-24T20:57:48.3520447+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 2787,
+      "NumberOfAwardsMax": 317
+    },
+    {
+      "Time": "2023-04-24T21:58:11.5170994+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 2788,
+      "NumberOfAwardsMax": 317
+    },
+    {
+      "Time": "2023-04-24T23:57:50.0015182+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 2789,
+      "NumberOfAwardsMax": 317
+    },
+    {
+      "Time": "2023-04-25T01:58:00.6033529+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 2792,
+      "NumberOfAwardsMax": 320
     }
   ],
   "Tags": [
@@ -1988,31 +2090,31 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 315
+      "Count": 320
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 306
+      "Count": 308
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 288
+      "Count": 290
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 264
+      "Count": 265
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 245
+      "Count": 247
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2024,13 +2126,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 307
+      "Count": 309
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 261
+      "Count": 265
     },
     {
       "Text": "This game has a Creative Community",
@@ -2042,7 +2144,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 258
+      "Count": 261
     },
     {
       "Text": "This game has Playful Visuals",

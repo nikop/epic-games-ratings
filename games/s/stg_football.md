@@ -1,24 +1,26 @@
 # STG Football
-Rating: 4.44 (Ranked 614)  
+Rating: 4.44 (Ranked 618)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 34  (Ranked 422)  
-Sum: 237 (Ranked 338)  
-Diff (max vs sum): 84
+Max (Great for Beginners): 35  (Ranked 421)  
+Sum: 279 (Ranked 325)  
+Diff (max vs sum): 96
 ## Awards
-| Award | Number of Ratings |
-| ----- | ----------------- |
-| This game is Great for Beginners | 34 |
+| Award | Count |
+| ----- | ----- |
+| This game is Great for Beginners | 35 |
 | This game is Great for Quick Sessions | 29 |
 | This game is Highly Recommended | 28 |
 | This game has Diverse Characters | 28 |
 | This game is Extremely Fun | 27 |
 | This game has Quickly Understood Controls | 26 |
 | This game has a Competitive Community | 22 |
+| This game has Competitive Players | 22 |
 | This game has Amazing Characters | 22 |
-| This game has Competitive Players | 21 |
+| This game has Amazing Storytelling | 20 |
+| This game is Educational | 20 |
 ## Ratings History
-| Date | Rating | Number of Ratings | Number of Awards |
-| ---- | ------ | ----------------- | ---------------- |
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
 | 2022-10-28 | 4.80 | - | - |
 | 2022-10-30 | 4.81 | - | - |
 | 2022-10-31 | 4.62 | - | - |
@@ -29,9 +31,9 @@ Diff (max vs sum): 84
 | 2022-11-06 | 4.58 | - | - |
 | 2022-11-07 | 4.58 | - | - |
 | 2022-11-09 | 4.60 | - | - |
-| 2022-11-11 | 4.59 | - | - |
+| 2022-11-11 | 4.61 | - | - |
 | 2022-11-12 | 4.63 | - | - |
-| 2022-11-13 | 4.60 | - | - |
+| 2022-11-13 | 4.61 | - | - |
 | 2022-11-14 | 4.61 | - | - |
 | 2022-11-17 | 4.59 | - | - |
 | 2022-11-18 | 4.58 | - | - |
@@ -63,8 +65,12 @@ Diff (max vs sum): 84
 | 2023-03-18 | 4.46 | - | - |
 | 2023-03-25 | 4.44 | - | - |
 | 2023-03-27 | 4.43 | - | - |
-| 2023-04-03 | 4.44 | - | 33 |
-| 2023-04-06 | 4.44 | - | 33 |
-| 2023-04-08 | 4.44 | - | 33 |
-| 2023-04-11 | 4.44 | - | 34 |
-| 2023-04-14 | 4.44 | - | 34 |
+| 2023-04-03 | 4.44 | 33 | 233 |
+| 2023-04-06 | 4.44 | 33 | 234 |
+| 2023-04-08 | 4.44 | 33 | 235 |
+| 2023-04-11 | 4.44 | 34 | 236 |
+| 2023-04-14 | 4.44 | 34 | 237 |
+| 2023-04-21 | 4.44 | 34 | 238 |
+| 2023-04-22 | 4.44 | 34 | 258 |
+| 2023-04-23 | 4.44 | 35 | 259 |
+| 2023-04-24 | 4.44 | 35 | 279 |

@@ -2,15 +2,15 @@
   "ID": "82225e5cb4714006b335a50d840208c6",
   "Name": "Might \u0026 Magic: Chess Royale",
   "Rating": 4.5,
-  "Ranking_Rating": 525,
-  "Ranking_Popularity": 319,
-  "Ranking_PopularitySum": 246,
+  "Ranking_Rating": 526,
+  "Ranking_Popularity": 323,
+  "Ranking_PopularitySum": 249,
   "NumberOfRatings": 238,
-  "NumberOfAwards": 753,
+  "NumberOfAwards": 765,
   "NumberOfAwardsMax": 96,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:27:16.1959446+00:00",
-  "LastChanged": "2023-04-14T23:58:38.0649212+00:00",
+  "LastChanged": "2023-04-25T15:57:53.8189057+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:16.1959449+00:00",
@@ -593,6 +593,66 @@
       "Rating": 4.5,
       "NumberOfAwards": 753,
       "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2023-04-18T13:07:55.3779021+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 754,
+      "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2023-04-20T01:55:43.7201223+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 756,
+      "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2023-04-20T22:58:58.5633062+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 757,
+      "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2023-04-22T17:58:08.2086745+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 758,
+      "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2023-04-23T15:58:32.418503+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 760,
+      "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2023-04-24T01:59:54.1806121+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 761,
+      "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2023-04-24T05:58:36.8226757+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 762,
+      "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2023-04-24T14:58:29.4566553+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 763,
+      "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2023-04-25T10:57:48.2679702+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 764,
+      "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2023-04-25T15:57:53.8189059+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 765,
+      "NumberOfAwardsMax": 96
     }
   ],
   "Tags": [
@@ -606,13 +666,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 80
+      "Count": 83
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 77
+      "Count": 78
     },
     {
       "Text": "This game is Relaxing",
@@ -624,31 +684,31 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 75
+      "Count": 77
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 77
+      "Count": 78
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 77
+      "Count": 78
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 54
+      "Count": 57
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 85
+      "Count": 86
     },
     {
       "Text": "This game has Easy Combat",

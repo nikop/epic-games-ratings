@@ -5,12 +5,12 @@
   "Ranking_Rating": 91,
   "Ranking_Popularity": 135,
   "Ranking_PopularitySum": 213,
-  "NumberOfAwards": 1299,
-  "NumberOfAwardsMax": 981,
+  "NumberOfAwards": 1310,
+  "NumberOfAwardsMax": 988,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-11-18T19:57:18.4413349+00:00",
   "FirstSeenRating": "2022-11-19T02:30:31.0923375+00:00",
-  "LastChanged": "2023-04-17T22:57:08.9138465+00:00",
+  "LastChanged": "2023-04-25T02:57:00.2208533+00:00",
   "RatingHistory": [
     {
       "Time": "2022-11-19T02:30:31.0923377+00:00",
@@ -201,6 +201,54 @@
       "Rating": 4.79,
       "NumberOfAwards": 1299,
       "NumberOfAwardsMax": 981
+    },
+    {
+      "Time": "2023-04-19T01:58:50.4548027+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1301,
+      "NumberOfAwardsMax": 983
+    },
+    {
+      "Time": "2023-04-19T18:57:12.9253914+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1302,
+      "NumberOfAwardsMax": 983
+    },
+    {
+      "Time": "2023-04-19T23:57:20.0705002+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1304,
+      "NumberOfAwardsMax": 985
+    },
+    {
+      "Time": "2023-04-21T15:57:43.949755+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1305,
+      "NumberOfAwardsMax": 985
+    },
+    {
+      "Time": "2023-04-21T23:57:06.5617078+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1307,
+      "NumberOfAwardsMax": 987
+    },
+    {
+      "Time": "2023-04-23T09:57:12.3995198+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1308,
+      "NumberOfAwardsMax": 987
+    },
+    {
+      "Time": "2023-04-23T15:57:27.5175831+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1309,
+      "NumberOfAwardsMax": 988
+    },
+    {
+      "Time": "2023-04-25T02:57:00.2208534+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1310,
+      "NumberOfAwardsMax": 988
     }
   ],
   "Tags": [
@@ -208,13 +256,13 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 981
+      "Count": 988
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game is Great for Beginners",
@@ -226,7 +274,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 40
+      "Count": 42
     },
     {
       "Text": "This game is Highly Recommended",
@@ -256,7 +304,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game is Great for Quick Sessions",

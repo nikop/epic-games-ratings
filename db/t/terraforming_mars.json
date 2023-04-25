@@ -2,15 +2,15 @@
   "ID": "25d726130e6c4fe68f88e71933bda955",
   "Name": "Terraforming Mars",
   "Rating": 4.54,
-  "Ranking_Rating": 474,
-  "Ranking_Popularity": 180,
-  "Ranking_PopularitySum": 144,
+  "Ranking_Rating": 472,
+  "Ranking_Popularity": 183,
+  "Ranking_PopularitySum": 145,
   "NumberOfRatings": 2731,
-  "NumberOfAwards": 3031,
-  "NumberOfAwardsMax": 490,
+  "NumberOfAwards": 3039,
+  "NumberOfAwardsMax": 491,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
-  "LastChanged": "2023-04-16T20:59:08.3799253+00:00",
+  "LastChanged": "2023-04-25T15:58:07.7473478+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:50.3990272+00:00",
@@ -1955,6 +1955,48 @@
       "Rating": 4.54,
       "NumberOfAwards": 3031,
       "NumberOfAwardsMax": 490
+    },
+    {
+      "Time": "2023-04-19T02:58:32.4986388+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3032,
+      "NumberOfAwardsMax": 490
+    },
+    {
+      "Time": "2023-04-19T16:58:07.2898172+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3033,
+      "NumberOfAwardsMax": 490
+    },
+    {
+      "Time": "2023-04-20T01:56:00.4794334+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3034,
+      "NumberOfAwardsMax": 490
+    },
+    {
+      "Time": "2023-04-21T09:58:15.9440463+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3035,
+      "NumberOfAwardsMax": 490
+    },
+    {
+      "Time": "2023-04-22T08:58:37.3577817+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3036,
+      "NumberOfAwardsMax": 490
+    },
+    {
+      "Time": "2023-04-23T08:58:06.2967343+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3037,
+      "NumberOfAwardsMax": 490
+    },
+    {
+      "Time": "2023-04-25T15:58:07.747348+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3039,
+      "NumberOfAwardsMax": 491
     }
   ],
   "Tags": [
@@ -1962,31 +2004,31 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 476
+      "Count": 478
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 435
+      "Count": 436
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 490
+      "Count": 491
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 436
+      "Count": 439
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 429
+      "Count": 430
     },
     {
       "Text": "This game has Obsessive Gameplay",

@@ -2,15 +2,15 @@
   "ID": "df37f065c3f14eadbf011177396e2966",
   "Name": "Alien: Isolation ",
   "Rating": 4.61,
-  "Ranking_Rating": 350,
-  "Ranking_Popularity": 289,
-  "Ranking_PopularitySum": 229,
+  "Ranking_Rating": 348,
+  "Ranking_Popularity": 291,
+  "Ranking_PopularitySum": 228,
   "NumberOfRatings": 5222,
-  "NumberOfAwards": 923,
+  "NumberOfAwards": 926,
   "NumberOfAwardsMax": 127,
-  "MaxAwardTitle": "Challenging Combat",
+  "MaxAwardTitle": "Highly Recommended",
   "FirstSeen": "2022-07-22T20:18:09.3145857+00:00",
-  "LastChanged": "2023-04-16T02:01:43.2446903+00:00",
+  "LastChanged": "2023-04-24T04:57:13.7376945+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:09.3145859+00:00",
@@ -1869,6 +1869,18 @@
       "Rating": 4.61,
       "NumberOfAwards": 923,
       "NumberOfAwardsMax": 127
+    },
+    {
+      "Time": "2023-04-22T02:57:15.5976585+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 925,
+      "NumberOfAwardsMax": 127
+    },
+    {
+      "Time": "2023-04-24T04:57:13.7376947+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 926,
+      "NumberOfAwardsMax": 127
     }
   ],
   "Tags": [
@@ -1906,7 +1918,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 124
+      "Count": 125
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -1918,7 +1930,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 118
+      "Count": 120
     },
     {
       "Text": "This game has a Creative Community",

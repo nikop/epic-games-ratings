@@ -2,15 +2,15 @@
   "ID": "d8d8b399f3d14ac2b9b75870329a68dd",
   "Name": "Train Sim World\u00AE 2",
   "Rating": 4.42,
-  "Ranking_Rating": 635,
-  "Ranking_Popularity": 175,
+  "Ranking_Rating": 638,
+  "Ranking_Popularity": 176,
   "Ranking_PopularitySum": 129,
   "NumberOfRatings": 2541,
-  "NumberOfAwards": 4134,
-  "NumberOfAwardsMax": 532,
+  "NumberOfAwards": 4139,
+  "NumberOfAwardsMax": 533,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:17:00.3136154+00:00",
-  "LastChanged": "2023-04-15T10:57:23.959111+00:00",
+  "LastChanged": "2023-04-24T22:56:50.1883056+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:17:00.3136156+00:00",
@@ -2072,6 +2072,36 @@
       "Rating": 4.42,
       "NumberOfAwards": 4134,
       "NumberOfAwardsMax": 532
+    },
+    {
+      "Time": "2023-04-18T09:01:17.4737636+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 4135,
+      "NumberOfAwardsMax": 532
+    },
+    {
+      "Time": "2023-04-20T10:57:13.5863509+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 4136,
+      "NumberOfAwardsMax": 532
+    },
+    {
+      "Time": "2023-04-20T18:56:56.4902358+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 4137,
+      "NumberOfAwardsMax": 532
+    },
+    {
+      "Time": "2023-04-23T14:57:05.2036644+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 4138,
+      "NumberOfAwardsMax": 533
+    },
+    {
+      "Time": "2023-04-24T22:56:50.1883058+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 4139,
+      "NumberOfAwardsMax": 533
     }
   ],
   "Tags": [
@@ -2079,13 +2109,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 532
+      "Count": 533
     },
     {
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 442
+      "Count": 443
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2097,19 +2127,19 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 410
+      "Count": 411
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 457
+      "Count": 458
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 460
+      "Count": 461
     },
     {
       "Text": "This game is Educational",

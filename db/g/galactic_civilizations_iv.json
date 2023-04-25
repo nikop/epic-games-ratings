@@ -1,16 +1,16 @@
 {
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
-  "Rating": 4.19,
-  "Ranking_Rating": 808,
-  "Ranking_Popularity": 333,
-  "Ranking_PopularitySum": 265,
+  "Rating": 4.18,
+  "Ranking_Rating": 816,
+  "Ranking_Popularity": 334,
+  "Ranking_PopularitySum": 266,
   "NumberOfRatings": 429,
-  "NumberOfAwards": 645,
-  "NumberOfAwardsMax": 86,
+  "NumberOfAwards": 651,
+  "NumberOfAwardsMax": 87,
   "MaxAwardTitle": "Diverse Characters",
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
-  "LastChanged": "2023-04-14T09:57:28.6884446+00:00",
+  "LastChanged": "2023-04-25T11:57:14.8234357+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:20:44.6509479+00:00",
@@ -616,6 +616,30 @@
       "Rating": 4.19,
       "NumberOfAwards": 645,
       "NumberOfAwardsMax": 86
+    },
+    {
+      "Time": "2023-04-19T01:58:56.1809931+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 646,
+      "NumberOfAwardsMax": 86
+    },
+    {
+      "Time": "2023-04-21T14:57:22.4768752+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 648,
+      "NumberOfAwardsMax": 87
+    },
+    {
+      "Time": "2023-04-23T02:06:02.2624952+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 649,
+      "NumberOfAwardsMax": 87
+    },
+    {
+      "Time": "2023-04-25T11:57:14.8234358+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 651,
+      "NumberOfAwardsMax": 87
     }
   ],
   "Tags": [
@@ -623,7 +647,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 76
+      "Count": 77
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -635,7 +659,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 81
+      "Count": 82
     },
     {
       "Text": "This game is Extremely Fun",
@@ -653,7 +677,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 86
+      "Count": 87
     },
     {
       "Text": "This game is Relaxing",
@@ -671,13 +695,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 68
+      "Count": 70
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 26
+      "Count": 27
     }
   ]
 }

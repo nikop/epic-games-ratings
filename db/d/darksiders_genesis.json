@@ -1,16 +1,16 @@
 {
   "ID": "9bcf72043732431397782f3a32efbbd5",
   "Name": "Darksiders Genesis",
-  "Rating": 4.51,
-  "Ranking_Rating": 509,
-  "Ranking_Popularity": 409,
-  "Ranking_PopularitySum": 440,
+  "Rating": 4.52,
+  "Ranking_Rating": 496,
+  "Ranking_Popularity": 410,
+  "Ranking_PopularitySum": 441,
   "NumberOfRatings": 67,
   "NumberOfAwards": 38,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
-  "LastChanged": "2023-03-27T15:57:36.7712002+00:00",
+  "LastChanged": "2023-04-19T19:58:27.5344993+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:19:40.918021+00:00",
@@ -282,6 +282,12 @@
     {
       "Time": "2023-03-27T15:57:36.7712004+00:00",
       "Rating": 4.51
+    },
+    {
+      "Time": "2023-04-19T19:58:27.5344995+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 38,
+      "NumberOfAwardsMax": 38
     }
   ],
   "Tags": [

@@ -1,8 +1,18 @@
 {
   "ID": "90849a826d3c40cc9ba96e011f0006a5",
   "Name": "Doomed Lands",
-  "Names": [],
-  "DailyRatings": 0,
-  "RatingHistory": [],
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
+  "FirstSeen": "2023-04-21T05:59:20.8834779+00:00",
+  "FirstSeenRating": "2023-04-21T05:59:20.8834796+00:00",
+  "LastChanged": "2023-04-21T05:59:20.8834796+00:00",
+  "RatingHistory": [
+    {
+      "Time": "2023-04-21T05:59:20.8834797+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "Tags": []
 }

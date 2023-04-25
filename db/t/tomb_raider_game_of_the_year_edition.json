@@ -2,15 +2,15 @@
   "ID": "caca23a0954f4c1aba1fdd7e277b81e2",
   "Name": "Tomb Raider GAME OF THE YEAR EDITION",
   "Rating": 4.66,
-  "Ranking_Rating": 272,
+  "Ranking_Rating": 271,
   "Ranking_Popularity": 56,
   "Ranking_PopularitySum": 105,
   "NumberOfRatings": 20961,
-  "NumberOfAwards": 6750,
-  "NumberOfAwardsMax": 5737,
+  "NumberOfAwards": 6761,
+  "NumberOfAwardsMax": 5745,
   "MaxAwardTitle": "Great Boss Battles",
   "FirstSeen": "2022-07-22T20:21:04.7609195+00:00",
-  "LastChanged": "2023-04-17T08:57:37.6890757+00:00",
+  "LastChanged": "2023-04-25T14:57:54.4842107+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:21:04.7609199+00:00",
@@ -1973,6 +1973,54 @@
       "Rating": 4.66,
       "NumberOfAwards": 6750,
       "NumberOfAwardsMax": 5737
+    },
+    {
+      "Time": "2023-04-19T09:57:31.7679871+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 6752,
+      "NumberOfAwardsMax": 5739
+    },
+    {
+      "Time": "2023-04-19T22:57:20.2217975+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 6753,
+      "NumberOfAwardsMax": 5740
+    },
+    {
+      "Time": "2023-04-20T19:57:13.7752249+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 6754,
+      "NumberOfAwardsMax": 5740
+    },
+    {
+      "Time": "2023-04-21T13:57:12.1552776+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 6756,
+      "NumberOfAwardsMax": 5742
+    },
+    {
+      "Time": "2023-04-21T20:57:14.7764142+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 6757,
+      "NumberOfAwardsMax": 5742
+    },
+    {
+      "Time": "2023-04-22T19:57:19.3467692+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 6758,
+      "NumberOfAwardsMax": 5742
+    },
+    {
+      "Time": "2023-04-23T03:57:39.7751057+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 6759,
+      "NumberOfAwardsMax": 5743
+    },
+    {
+      "Time": "2023-04-25T14:57:54.4842109+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 6761,
+      "NumberOfAwardsMax": 5745
     }
   ],
   "Tags": [
@@ -1980,7 +2028,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5737
+      "Count": 5745
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2004,7 +2052,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 115
+      "Count": 117
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2022,7 +2070,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 116
+      "Count": 117
     },
     {
       "Text": "This game has Amazing Storytelling",

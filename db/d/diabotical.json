@@ -3,14 +3,14 @@
   "Name": "Diabotical",
   "Rating": 4.75,
   "Ranking_Rating": 126,
-  "Ranking_Popularity": 230,
-  "Ranking_PopularitySum": 161,
+  "Ranking_Popularity": 233,
+  "Ranking_PopularitySum": 162,
   "NumberOfRatings": 572,
-  "NumberOfAwards": 2539,
-  "NumberOfAwardsMax": 264,
+  "NumberOfAwards": 2545,
+  "NumberOfAwardsMax": 265,
   "MaxAwardTitle": "Great for Quick Sessions",
   "FirstSeen": "2022-07-22T20:22:10.7191906+00:00",
-  "LastChanged": "2023-04-16T20:58:04.2129163+00:00",
+  "LastChanged": "2023-04-23T17:57:31.9193617+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:10.7191909+00:00",
@@ -910,6 +910,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 2539,
       "NumberOfAwardsMax": 264
+    },
+    {
+      "Time": "2023-04-19T16:57:21.4263412+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 2540,
+      "NumberOfAwardsMax": 264
+    },
+    {
+      "Time": "2023-04-21T18:57:40.6775636+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 2541,
+      "NumberOfAwardsMax": 265
+    },
+    {
+      "Time": "2023-04-23T17:57:31.9193619+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 2545,
+      "NumberOfAwardsMax": 265
     }
   ],
   "Tags": [
@@ -929,19 +947,19 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 264
+      "Count": 265
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 220
+      "Count": 223
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 236
+      "Count": 237
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -953,7 +971,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 234
+      "Count": 235
     },
     {
       "Text": "This game has Amazing Storytelling",

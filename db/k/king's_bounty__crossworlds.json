@@ -1,16 +1,16 @@
 {
   "ID": "6a8afa765c0e4ebe970db11a0a67c883",
   "Name": "King\u0027s Bounty: Crossworlds",
-  "Rating": 4.71,
-  "Ranking_Rating": 177,
-  "Ranking_Popularity": 484,
-  "Ranking_PopularitySum": 484,
+  "Rating": 4.72,
+  "Ranking_Rating": 164,
+  "Ranking_Popularity": 486,
+  "Ranking_PopularitySum": 486,
   "NumberOfRatings": 24,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "FirstSeen": "2022-07-22T20:30:25.0110312+00:00",
   "FirstSeenRating": "2022-09-05T14:31:59.289908+00:00",
-  "LastChanged": "2023-03-31T05:58:28.9866945+00:00",
+  "LastChanged": "2023-04-23T20:58:46.4611311+00:00",
   "RatingHistory": [
     {
       "Time": "2022-09-05T14:31:59.2899082+00:00",
@@ -56,6 +56,12 @@
     {
       "Time": "2023-03-31T05:58:28.9866948+00:00",
       "Rating": 4.71,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-23T20:58:46.4611312+00:00",
+      "Rating": 4.72,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }

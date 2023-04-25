@@ -2,15 +2,15 @@
   "ID": "eb99ee4694474e8da0b05a8ab391825c",
   "Name": "PUBG: BATTLEGROUNDS",
   "Rating": 3.98,
-  "Ranking_Rating": 872,
-  "Ranking_Popularity": 111,
-  "Ranking_PopularitySum": 122,
-  "NumberOfAwards": 4879,
-  "NumberOfAwardsMax": 1502,
+  "Ranking_Rating": 875,
+  "Ranking_Popularity": 109,
+  "Ranking_PopularitySum": 117,
+  "NumberOfAwards": 5253,
+  "NumberOfAwardsMax": 1620,
   "MaxAwardTitle": "Competitive Players",
   "FirstSeen": "2022-12-06T17:57:24.6501738+00:00",
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
-  "LastChanged": "2023-04-17T17:57:17.0428493+00:00",
+  "LastChanged": "2023-04-25T15:57:14.781627+00:00",
   "RatingHistory": [
     {
       "Time": "2022-12-08T10:57:21.6139883+00:00",
@@ -731,6 +731,174 @@
       "Rating": 3.98,
       "NumberOfAwards": 4879,
       "NumberOfAwardsMax": 1502
+    },
+    {
+      "Time": "2023-04-18T10:57:49.9824123+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 4900,
+      "NumberOfAwardsMax": 1502
+    },
+    {
+      "Time": "2023-04-18T13:07:13.5310106+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 4919,
+      "NumberOfAwardsMax": 1521
+    },
+    {
+      "Time": "2023-04-18T17:57:37.4345949+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 4926,
+      "NumberOfAwardsMax": 1521
+    },
+    {
+      "Time": "2023-04-18T19:57:10.2631893+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 6328,
+      "NumberOfAwardsMax": 1521
+    },
+    {
+      "Time": "2023-04-19T11:57:11.7481245+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 6342,
+      "NumberOfAwardsMax": 1521
+    },
+    {
+      "Time": "2023-04-19T15:57:33.2585742+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 6357,
+      "NumberOfAwardsMax": 1536
+    },
+    {
+      "Time": "2023-04-19T19:58:46.9701745+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 4976,
+      "NumberOfAwardsMax": 1536
+    },
+    {
+      "Time": "2023-04-19T20:57:45.2481066+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 4988,
+      "NumberOfAwardsMax": 1536
+    },
+    {
+      "Time": "2023-04-19T21:57:20.59643+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 4993,
+      "NumberOfAwardsMax": 1536
+    },
+    {
+      "Time": "2023-04-20T01:54:55.4234108+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 4996,
+      "NumberOfAwardsMax": 1539
+    },
+    {
+      "Time": "2023-04-20T04:57:25.4025191+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 4997,
+      "NumberOfAwardsMax": 1539
+    },
+    {
+      "Time": "2023-04-20T23:57:09.1724567+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 5007,
+      "NumberOfAwardsMax": 1539
+    },
+    {
+      "Time": "2023-04-21T01:56:12.0540143+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 5035,
+      "NumberOfAwardsMax": 1557
+    },
+    {
+      "Time": "2023-04-21T04:57:15.013275+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 5043,
+      "NumberOfAwardsMax": 1557
+    },
+    {
+      "Time": "2023-04-22T02:57:31.8588215+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 5071,
+      "NumberOfAwardsMax": 1567
+    },
+    {
+      "Time": "2023-04-22T03:57:11.8244127+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 5088,
+      "NumberOfAwardsMax": 1567
+    },
+    {
+      "Time": "2023-04-22T08:57:29.741163+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 5095,
+      "NumberOfAwardsMax": 1567
+    },
+    {
+      "Time": "2023-04-23T02:57:15.4301442+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 5115,
+      "NumberOfAwardsMax": 1587
+    },
+    {
+      "Time": "2023-04-23T05:57:12.4909288+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 5130,
+      "NumberOfAwardsMax": 1587
+    },
+    {
+      "Time": "2023-04-23T06:57:22.1044567+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 5146,
+      "NumberOfAwardsMax": 1587
+    },
+    {
+      "Time": "2023-04-23T08:57:11.7024608+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 5152,
+      "NumberOfAwardsMax": 1587
+    },
+    {
+      "Time": "2023-04-24T03:57:32.8262249+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 5165,
+      "NumberOfAwardsMax": 1600
+    },
+    {
+      "Time": "2023-04-24T06:57:09.2922603+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 5177,
+      "NumberOfAwardsMax": 1600
+    },
+    {
+      "Time": "2023-04-24T07:57:02.5854389+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 5185,
+      "NumberOfAwardsMax": 1600
+    },
+    {
+      "Time": "2023-04-24T13:04:40.751302+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 5198,
+      "NumberOfAwardsMax": 1600
+    },
+    {
+      "Time": "2023-04-25T04:57:37.4769724+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 5218,
+      "NumberOfAwardsMax": 1620
+    },
+    {
+      "Time": "2023-04-25T08:57:18.4885008+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 5245,
+      "NumberOfAwardsMax": 1620
+    },
+    {
+      "Time": "2023-04-25T15:57:14.7816301+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 5253,
+      "NumberOfAwardsMax": 1620
     }
   ],
   "Tags": [
@@ -738,7 +906,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1199
+      "Count": 1287
     },
     {
       "Text": "This game is Extremely Fun",
@@ -750,7 +918,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1307
+      "Count": 1416
     },
     {
       "Text": "This game has Amazing Characters",
@@ -762,19 +930,19 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 1502
+      "Count": 1620
     },
     {
       "Text": "This game has Quickly Understood Controls",
-      "Prefix": "",
-      "Type": "",
-      "Count": 1115
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 1390
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 871
+      "Count": 930
     },
     {
       "Text": "This game is Relaxing",

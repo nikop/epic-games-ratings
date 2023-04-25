@@ -3,14 +3,14 @@
   "Name": "Overcooked! 2",
   "Rating": 4.74,
   "Ranking_Rating": 141,
-  "Ranking_Popularity": 243,
-  "Ranking_PopularitySum": 179,
+  "Ranking_Popularity": 244,
+  "Ranking_PopularitySum": 177,
   "NumberOfRatings": 5157,
-  "NumberOfAwards": 2107,
+  "NumberOfAwards": 2118,
   "NumberOfAwardsMax": 222,
   "MaxAwardTitle": "Relaxing",
   "FirstSeen": "2022-07-22T20:16:55.1110041+00:00",
-  "LastChanged": "2023-04-17T13:06:22.0005862+00:00",
+  "LastChanged": "2023-04-24T14:57:14.1422165+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:16:55.1110044+00:00",
@@ -1909,6 +1909,60 @@
       "Rating": 4.74,
       "NumberOfAwards": 2107,
       "NumberOfAwardsMax": 222
+    },
+    {
+      "Time": "2023-04-19T15:57:12.0283605+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 2108,
+      "NumberOfAwardsMax": 222
+    },
+    {
+      "Time": "2023-04-20T15:57:04.4762252+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 2110,
+      "NumberOfAwardsMax": 222
+    },
+    {
+      "Time": "2023-04-20T23:56:52.3901169+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 2111,
+      "NumberOfAwardsMax": 222
+    },
+    {
+      "Time": "2023-04-21T20:56:52.5978415+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 2112,
+      "NumberOfAwardsMax": 222
+    },
+    {
+      "Time": "2023-04-21T23:56:51.6873894+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 2114,
+      "NumberOfAwardsMax": 222
+    },
+    {
+      "Time": "2023-04-22T14:56:46.8681728+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 2115,
+      "NumberOfAwardsMax": 222
+    },
+    {
+      "Time": "2023-04-23T14:57:04.7581862+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 2116,
+      "NumberOfAwardsMax": 222
+    },
+    {
+      "Time": "2023-04-23T18:56:58.2169569+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 2117,
+      "NumberOfAwardsMax": 222
+    },
+    {
+      "Time": "2023-04-24T14:57:14.1422171+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 2118,
+      "NumberOfAwardsMax": 222
     }
   ],
   "Tags": [
@@ -1928,7 +1982,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 191
+      "Count": 192
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1952,7 +2006,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 175
+      "Count": 176
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1970,19 +2024,19 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 169
+      "Count": 172
     },
     {
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 145
+      "Count": 147
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 105
+      "Count": 109
     },
     {
       "Text": "This game is Great for Quick Sessions",

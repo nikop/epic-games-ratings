@@ -2,15 +2,15 @@
   "ID": "0584d2013f0149a791e7b9bad0eec102",
   "Name": "Grand Theft Auto V: Premium Edition",
   "Rating": 4.69,
-  "Ranking_Rating": 213,
+  "Ranking_Rating": 208,
   "Ranking_Popularity": 5,
   "Ranking_PopularitySum": 5,
   "NumberOfRatings": 573831,
-  "NumberOfAwards": 1266488,
-  "NumberOfAwardsMax": 158653,
+  "NumberOfAwards": 1286758,
+  "NumberOfAwardsMax": 161512,
   "MaxAwardTitle": "Great for Beginners",
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2023-04-18T07:57:20.2657043+00:00",
+  "LastChanged": "2023-04-24T21:57:16.4206147+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:18:49.5868983+00:00",
@@ -4392,6 +4392,132 @@
       "Rating": 4.69,
       "NumberOfAwards": 1266488,
       "NumberOfAwardsMax": 158653
+    },
+    {
+      "Time": "2023-04-18T09:01:30.2543658+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1266792,
+      "NumberOfAwardsMax": 158653
+    },
+    {
+      "Time": "2023-04-18T10:57:38.2358254+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1267008,
+      "NumberOfAwardsMax": 158653
+    },
+    {
+      "Time": "2023-04-18T13:07:05.8914338+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1267237,
+      "NumberOfAwardsMax": 158653
+    },
+    {
+      "Time": "2023-04-18T13:57:11.6775227+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1267469,
+      "NumberOfAwardsMax": 158653
+    },
+    {
+      "Time": "2023-04-18T15:57:07.6653385+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1267726,
+      "NumberOfAwardsMax": 158653
+    },
+    {
+      "Time": "2023-04-18T18:57:30.5034574+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1268194,
+      "NumberOfAwardsMax": 158653
+    },
+    {
+      "Time": "2023-04-18T23:57:06.1509613+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1268516,
+      "NumberOfAwardsMax": 158975
+    },
+    {
+      "Time": "2023-04-19T07:56:58.7107912+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1268758,
+      "NumberOfAwardsMax": 158975
+    },
+    {
+      "Time": "2023-04-19T08:57:18.341949+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1269048,
+      "NumberOfAwardsMax": 158975
+    },
+    {
+      "Time": "2023-04-19T10:57:36.4807282+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1269271,
+      "NumberOfAwardsMax": 158975
+    },
+    {
+      "Time": "2023-04-19T13:57:23.0387511+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1269711,
+      "NumberOfAwardsMax": 158975
+    },
+    {
+      "Time": "2023-04-19T15:57:24.0366509+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1269933,
+      "NumberOfAwardsMax": 158975
+    },
+    {
+      "Time": "2023-04-19T18:57:04.8141434+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1270411,
+      "NumberOfAwardsMax": 158975
+    },
+    {
+      "Time": "2023-04-19T19:58:01.0441691+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1271526,
+      "NumberOfAwardsMax": 159266
+    },
+    {
+      "Time": "2023-04-19T20:57:34.3794694+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1271561,
+      "NumberOfAwardsMax": 159271
+    },
+    {
+      "Time": "2023-04-20T20:57:13.6144692+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1274243,
+      "NumberOfAwardsMax": 159681
+    },
+    {
+      "Time": "2023-04-21T20:57:03.1669047+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1277188,
+      "NumberOfAwardsMax": 160126
+    },
+    {
+      "Time": "2023-04-22T20:57:15.0543162+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1280595,
+      "NumberOfAwardsMax": 160649
+    },
+    {
+      "Time": "2023-04-23T20:57:18.1541215+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1284097,
+      "NumberOfAwardsMax": 161127
+    },
+    {
+      "Time": "2023-04-24T20:57:11.9531559+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1286481,
+      "NumberOfAwardsMax": 161512
+    },
+    {
+      "Time": "2023-04-24T21:57:16.420615+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1286758,
+      "NumberOfAwardsMax": 161512
     }
   ],
   "Tags": [
@@ -4399,31 +4525,31 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 144542
+      "Count": 146761
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 136142
+      "Count": 138119
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 146499
+      "Count": 149261
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 135808
+      "Count": 137912
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 137722
+      "Count": 139720
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4435,25 +4561,25 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 139629
+      "Count": 141746
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 131890
+      "Count": 134025
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 135603
+      "Count": 137702
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 158653
+      "Count": 161512
     }
   ]
 }

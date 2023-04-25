@@ -2,15 +2,15 @@
   "ID": "e5decf71f325458b92653616ee98682a",
   "Name": "Deponia: The Complete Journey",
   "Rating": 4.62,
-  "Ranking_Rating": 334,
-  "Ranking_Popularity": 226,
-  "Ranking_PopularitySum": 326,
+  "Ranking_Rating": 333,
+  "Ranking_Popularity": 228,
+  "Ranking_PopularitySum": 329,
   "NumberOfRatings": 777,
   "NumberOfAwards": 272,
   "NumberOfAwardsMax": 272,
   "MaxAwardTitle": "Challenging Puzzles",
   "FirstSeen": "2022-07-22T20:29:58.1804178+00:00",
-  "LastChanged": "2023-04-12T19:58:05.4103319+00:00",
+  "LastChanged": "2023-04-23T20:58:42.1282019+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:29:58.180418+00:00",
@@ -557,6 +557,18 @@
     },
     {
       "Time": "2023-04-12T19:58:05.410332+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 272,
+      "NumberOfAwardsMax": 272
+    },
+    {
+      "Time": "2023-04-22T20:58:33.6278085+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 272,
+      "NumberOfAwardsMax": 272
+    },
+    {
+      "Time": "2023-04-23T20:58:42.1282021+00:00",
       "Rating": 4.62,
       "NumberOfAwards": 272,
       "NumberOfAwardsMax": 272

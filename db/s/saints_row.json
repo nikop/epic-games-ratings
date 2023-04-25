@@ -2,16 +2,16 @@
   "ID": "0d23bb77ee2f45b7a571bde68caddb09",
   "Name": "Saints Row",
   "Rating": 3.78,
-  "Ranking_Rating": 893,
+  "Ranking_Rating": 897,
   "Ranking_Popularity": 130,
   "Ranking_PopularitySum": 81,
   "NumberOfRatings": 22103,
-  "NumberOfAwards": 9018,
-  "NumberOfAwardsMax": 1019,
+  "NumberOfAwards": 9033,
+  "NumberOfAwardsMax": 1021,
   "MaxAwardTitle": "Extremely Fun",
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
-  "LastChanged": "2023-04-17T11:57:12.3970231+00:00",
+  "LastChanged": "2023-04-25T13:57:28.9823116+00:00",
   "RatingHistory": [
     {
       "Time": "2022-08-23T10:30:45.3809934+00:00",
@@ -1895,6 +1895,66 @@
       "Rating": 3.78,
       "NumberOfAwards": 9018,
       "NumberOfAwardsMax": 1019
+    },
+    {
+      "Time": "2023-04-18T17:57:32.721149+00:00",
+      "Rating": 3.78,
+      "NumberOfAwards": 9019,
+      "NumberOfAwardsMax": 1019
+    },
+    {
+      "Time": "2023-04-20T11:57:07.1297497+00:00",
+      "Rating": 3.78,
+      "NumberOfAwards": 9020,
+      "NumberOfAwardsMax": 1019
+    },
+    {
+      "Time": "2023-04-20T16:57:06.496401+00:00",
+      "Rating": 3.78,
+      "NumberOfAwards": 9021,
+      "NumberOfAwardsMax": 1019
+    },
+    {
+      "Time": "2023-04-22T05:57:12.0062283+00:00",
+      "Rating": 3.78,
+      "NumberOfAwards": 9022,
+      "NumberOfAwardsMax": 1019
+    },
+    {
+      "Time": "2023-04-22T08:57:26.1117789+00:00",
+      "Rating": 3.78,
+      "NumberOfAwards": 9023,
+      "NumberOfAwardsMax": 1019
+    },
+    {
+      "Time": "2023-04-22T17:57:14.9538737+00:00",
+      "Rating": 3.78,
+      "NumberOfAwards": 9025,
+      "NumberOfAwardsMax": 1019
+    },
+    {
+      "Time": "2023-04-23T19:57:34.9966288+00:00",
+      "Rating": 3.78,
+      "NumberOfAwards": 9026,
+      "NumberOfAwardsMax": 1019
+    },
+    {
+      "Time": "2023-04-24T09:57:10.5582165+00:00",
+      "Rating": 3.78,
+      "NumberOfAwards": 9027,
+      "NumberOfAwardsMax": 1019
+    },
+    {
+      "Time": "2023-04-25T02:56:58.9488817+00:00",
+      "Rating": 3.78,
+      "NumberOfAwards": 9031,
+      "NumberOfAwardsMax": 1019
+    },
+    {
+      "Time": "2023-04-25T13:57:28.9823119+00:00",
+      "Rating": 3.78,
+      "NumberOfAwards": 9033,
+      "NumberOfAwardsMax": 1021
     }
   ],
   "Tags": [
@@ -1902,31 +1962,31 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 934
+      "Count": 936
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 988
+      "Count": 990
     },
     {
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 769
+      "Count": 774
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 946
+      "Count": 947
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 946
+      "Count": 947
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1938,7 +1998,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 936
+      "Count": 938
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1956,7 +2016,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1019
+      "Count": 1021
     }
   ]
 }

@@ -2,15 +2,15 @@
   "ID": "b534830f4c524447bfd2266ce70cf8ab",
   "Name": "The Walking Dead : The Definitive Series",
   "Rating": 4.86,
-  "Ranking_Rating": 29,
-  "Ranking_Popularity": 185,
-  "Ranking_PopularitySum": 273,
+  "Ranking_Rating": 28,
+  "Ranking_Popularity": 186,
+  "Ranking_PopularitySum": 272,
   "NumberOfRatings": 663,
-  "NumberOfAwards": 613,
-  "NumberOfAwardsMax": 451,
+  "NumberOfAwards": 616,
+  "NumberOfAwardsMax": 453,
   "MaxAwardTitle": "Impact the Story",
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2023-04-16T19:57:22.5920135+00:00",
+  "LastChanged": "2023-04-25T06:58:06.0274367+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:22:07.8066793+00:00",
@@ -677,6 +677,24 @@
       "Rating": 4.86,
       "NumberOfAwards": 613,
       "NumberOfAwardsMax": 451
+    },
+    {
+      "Time": "2023-04-20T15:57:30.8143617+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 614,
+      "NumberOfAwardsMax": 452
+    },
+    {
+      "Time": "2023-04-24T06:57:20.2223668+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 615,
+      "NumberOfAwardsMax": 453
+    },
+    {
+      "Time": "2023-04-25T06:58:06.0274369+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 616,
+      "NumberOfAwardsMax": 453
     }
   ],
   "Tags": [
@@ -684,7 +702,7 @@
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 451
+      "Count": 453
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -702,7 +720,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has Diverse Characters",

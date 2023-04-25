@@ -3,14 +3,14 @@
   "Name": "Nuclear Throne",
   "Rating": 4.79,
   "Ranking_Rating": 91,
-  "Ranking_Popularity": 204,
-  "Ranking_PopularitySum": 218,
+  "Ranking_Popularity": 205,
+  "Ranking_PopularitySum": 219,
   "NumberOfRatings": 631,
-  "NumberOfAwards": 1171,
-  "NumberOfAwardsMax": 363,
+  "NumberOfAwards": 1178,
+  "NumberOfAwardsMax": 366,
   "MaxAwardTitle": "Character Customization",
   "FirstSeen": "2022-07-22T20:27:27.5332052+00:00",
-  "LastChanged": "2023-04-16T20:58:49.1142095+00:00",
+  "LastChanged": "2023-04-24T18:58:18.3793031+00:00",
   "RatingHistory": [
     {
       "Time": "2022-07-22T20:27:27.5332055+00:00",
@@ -884,6 +884,36 @@
       "Rating": 4.79,
       "NumberOfAwards": 1171,
       "NumberOfAwardsMax": 363
+    },
+    {
+      "Time": "2023-04-19T05:58:14.0256963+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1172,
+      "NumberOfAwardsMax": 363
+    },
+    {
+      "Time": "2023-04-20T15:57:59.0655517+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1173,
+      "NumberOfAwardsMax": 364
+    },
+    {
+      "Time": "2023-04-22T15:57:47.9324134+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1174,
+      "NumberOfAwardsMax": 364
+    },
+    {
+      "Time": "2023-04-23T23:57:44.0221915+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1176,
+      "NumberOfAwardsMax": 364
+    },
+    {
+      "Time": "2023-04-24T18:58:18.3793033+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1178,
+      "NumberOfAwardsMax": 366
     }
   ],
   "Tags": [
@@ -891,13 +921,13 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 363
+      "Count": 366
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 289
+      "Count": 292
     },
     {
       "Text": "This game has Unique Visuals",
@@ -915,7 +945,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 59
+      "Count": 60
     },
     {
       "Text": "This game has Diverse Characters",
