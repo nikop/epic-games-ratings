@@ -1,5 +1,5 @@
 # Necrosmith
-Rating: 4.39 (Ranked 673)  
+Rating: 4.39 (Ranked 672)  
 Number of Ratings: 131  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  
