@@ -97,7 +97,7 @@
 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 28 | 138 | 286 |
 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 561 | 0 | 486 |
 | [Blood of Steel](games/b/blood_of_steel.md) | 3.67 | 904 | 0 | 486 |
-| [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 106 | 2,440 | 90 |
+| [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 106 | 2,459 | 89 |
 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 114 | 14,000 | 23 |
 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 208 | 108,009 | 8 |
 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 541 | 392 | 198 |
@@ -529,7 +529,7 @@
 | [Parkitect](games/p/parkitect.md) | 4.34 | 718 | 0 | 486 |
 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 348 | 0 | 486 |
 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 726 | 0 | 486 |
-| [Path of Exile](games/p/path_of_exile.md) | 4.61 | 348 | 2,446 | 89 |
+| [Path of Exile](games/p/path_of_exile.md) | 4.61 | 348 | 2,446 | 90 |
 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 424 | 3,009 | 86 |
 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 114 | 1,615 | 110 |
 | [Pathway](games/p/pathway.md) | 4.45 | 599 | 0 | 486 |

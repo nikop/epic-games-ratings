@@ -54,7 +54,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 2028
+      "Count": 2035
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4294,15 +4294,21 @@
       "Rating": 4.89,
       "NumberOfAwards": 35546,
       "NumberOfAwardsMax": 14696
+    },
+    {
+      "Time": "2023-04-25T16:59:03.5869138+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 35553,
+      "NumberOfAwardsMax": 14696
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T16:38:13.8732491+00:00",
+  "LastChanged": "2023-04-25T16:59:03.5869137+00:00",
   "FirstSeen": "2022-07-22T20:24:37.9019948+00:00",
   "NumberOfAwardsMax": 14696,
-  "NumberOfAwards": 35546,
+  "NumberOfAwards": 35553,
   "NumberOfRatings": 14665,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_Progress": 183,

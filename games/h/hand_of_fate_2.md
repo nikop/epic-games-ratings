@@ -6,7 +6,7 @@ Max (Amazing Storytelling): 35  (Ranked 421)
 Sum: 180 (Ranked 355)  
 Diff (max vs sum): 66
 ## Popularity (Based on EOS Achievements)
-Progressed: 655,102 (Ranked 17)
+Progressed: 655,103 (Ranked 17)
 Completed: 164 (0.03%) (Ranked 101)
 ## Awards
 | Award | Count |

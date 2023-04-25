@@ -105,7 +105,7 @@
 | 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 904 | 140 |
 | 100 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.78 | 141 | 284 |
 | 100 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 97 | 320 |
-| 106 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 2,440 | 90 |
+| 106 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 2,459 | 89 |
 | 106 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,914 | 74 |
 | 106 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.77 | 0 | 486 |
 | 106 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 35 | 421 |
@@ -363,7 +363,7 @@
 | 348 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 0 | 486 |
 | 348 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,071 | 127 |
 | 348 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 486 |
-| 348 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,446 | 89 |
+| 348 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,446 | 90 |
 | 348 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 589 | 164 |
 | 348 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 404 | 195 |
 | 348 | [Road 96](games/r/road_96.md) | 4.61 | 0 | 486 |

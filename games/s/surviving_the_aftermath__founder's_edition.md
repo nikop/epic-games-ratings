@@ -6,7 +6,7 @@ Max (Extremely Fun): 96  (Ranked 323)
 Sum: 646 (Ranked 267)  
 Diff (max vs sum): 56
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,468 (Ranked 120)
+Progressed: 4,470 (Ranked 120)
 Completed: 0 (0.00%) (Ranked 122)
 ## Awards
 | Award | Count |

@@ -18,7 +18,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 2383
+      "Count": 2386
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4267,15 +4267,21 @@
       "Rating": 4.21,
       "NumberOfAwards": 26134,
       "NumberOfAwardsMax": 12694
+    },
+    {
+      "Time": "2023-04-25T17:04:08.3750353+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 26137,
+      "NumberOfAwardsMax": 12694
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T16:43:23.0247814+00:00",
+  "LastChanged": "2023-04-25T17:04:08.3750351+00:00",
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
   "NumberOfAwardsMax": 12694,
-  "NumberOfAwards": 26134,
+  "NumberOfAwards": 26137,
   "NumberOfRatings": 10796,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_Progress": 183,

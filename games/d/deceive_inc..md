@@ -5,7 +5,7 @@ Max (): 0  (Ranked 486)
 Sum: 0 (Ranked 486)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,592 (Ranked 119)
+Progressed: 4,593 (Ranked 119)
 Completed: 0 (0.00%) (Ranked 122)
 ## Awards
 | Award | Count |

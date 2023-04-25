@@ -54,7 +54,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 874
+      "Count": 878
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -3352,15 +3352,21 @@
       "Rating": 4.54,
       "NumberOfAwards": 7725,
       "NumberOfAwardsMax": 1004
+    },
+    {
+      "Time": "2023-04-25T16:57:28.0869712+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 7729,
+      "NumberOfAwardsMax": 1004
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T14:57:34.616261+00:00",
+  "LastChanged": "2023-04-25T16:57:28.086971+00:00",
   "FirstSeen": "2022-07-22T20:18:01.6049154+00:00",
   "NumberOfAwardsMax": 1004,
-  "NumberOfAwards": 7725,
+  "NumberOfAwards": 7729,
   "NumberOfRatings": 4870,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_Progress": 183,

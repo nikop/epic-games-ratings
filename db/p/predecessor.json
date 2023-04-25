@@ -30,7 +30,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 58
+      "Count": 61
     },
     {
       "Text": "This game is Extremely Fun",
@@ -686,19 +686,25 @@
       "Rating": 4.45,
       "NumberOfAwards": 394,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2023-04-25T16:57:37.559924+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 397,
+      "NumberOfAwardsMax": 62
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T13:57:21.3462257+00:00",
+  "LastChanged": "2023-04-25T16:57:37.5599239+00:00",
   "FirstSeenRating": "2022-12-02T07:57:13.3206902+00:00",
   "FirstSeen": "2022-12-01T08:57:03.8695537+00:00",
   "NumberOfAwardsMax": 62,
-  "NumberOfAwards": 394,
+  "NumberOfAwards": 397,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_Progress": 183,
-  "Ranking_PopularitySum": 298,
+  "Ranking_PopularitySum": 297,
   "Ranking_Popularity": 368,
   "Ranking_Rating": 599,
   "Rating": 4.45,

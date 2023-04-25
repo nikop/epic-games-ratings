@@ -88,8 +88,8 @@
 | 86 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,009 | 4.57 | 424 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 2,973 | 4.68 | 232 |
 | 88 | [Trackmania](games/t/trackmania.md) | 2,466 | 4.67 | 254 |
-| 89 | [Path of Exile](games/p/path_of_exile.md) | 2,446 | 4.61 | 348 |
-| 90 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,440 | 4.77 | 106 |
+| 89 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,459 | 4.77 | 106 |
+| 90 | [Path of Exile](games/p/path_of_exile.md) | 2,446 | 4.61 | 348 |
 | 91 | [Rage 2](games/r/rage_2.md) | 2,422 | 4.28 | 762 |
 | 92 | [Among Us](games/a/among_us.md) | 2,375 | 4.58 | 407 |
 | 93 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,336 | 4.80 | 78 |

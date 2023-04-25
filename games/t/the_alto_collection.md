@@ -6,7 +6,7 @@ Max (Great for Quick Sessions): 44  (Ranked 401)
 Sum: 341 (Ranked 312)  
 Diff (max vs sum): 89
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,149 (Ranked 89)
+Progressed: 18,155 (Ranked 89)
 Completed: 3 (0.02%) (Ranked 105)
 ## Awards
 | Award | Count |
