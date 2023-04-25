@@ -68,6 +68,11 @@
       "Time": "2023-04-25T16:08:52.6483721+00:00",
       "NumProgressed": 381047,
       "NumCompleted": 11126
+    },
+    {
+      "Time": "2023-04-25T16:36:30.2886384+00:00",
+      "NumProgressed": 381067,
+      "NumCompleted": 11126
     }
   ],
   "RatingHistory": [
@@ -2944,7 +2949,7 @@
   ],
   "EOS_Completed_Percentage": 2.92,
   "EOS_Completed": 11126,
-  "EOS_Progressed": 381047,
+  "EOS_Progressed": 381067,
   "LastChanged": "2023-04-25T15:57:01.0436602+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:52.6483728+00:00",
   "FirstSeenRating": "2022-08-24T03:30:20.9735605+00:00",

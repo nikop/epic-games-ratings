@@ -73,7 +73,7 @@
 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 190 | 0 | 486 |
 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 54 | 50 | 381 |
 | [Banished](games/b/banished.md) | 4.00 | 869 | 0 | 486 |
-| [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 652 | 0 | 486 |
+| [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 651 | 0 | 486 |
 | [Barony](games/b/barony.md) | 4.71 | 178 | 69 | 357 |
 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.34 | 718 | 0 | 486 |
 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 254 | 639 | 159 |
@@ -101,7 +101,7 @@
 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 114 | 14,000 | 23 |
 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 208 | 108,009 | 8 |
 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 541 | 392 | 198 |
-| [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 424 | 87 | 334 |
+| [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 424 | 87 | 335 |
 | [Breathedge](games/b/breathedge.md) | 4.58 | 407 | 0 | 486 |
 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 884 | 29 | 443 |
 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 574 | 0 | 486 |
@@ -137,7 +137,7 @@
 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 348 | 0 | 486 |
 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 464 | 1,090 | 126 |
 | [Conarium](games/c/conarium.md) | 3.91 | 888 | 0 | 486 |
-| [Control](games/c/control.md) | 4.60 | 373 | 8,239 | 37 |
+| [Control](games/c/control.md) | 4.60 | 373 | 8,240 | 37 |
 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 60 | 0 | 486 |
 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 541 | 104 | 311 |
 | [Core](games/c/core.md) | 4.38 | 684 | 724 | 150 |
@@ -256,7 +256,7 @@
 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 271 | 499 | 181 |
 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 333 | 1,192 | 121 |
 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.44 | 618 | 673 | 155 |
-| [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 652 | 177 | 267 |
+| [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 651 | 177 | 267 |
 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 178 | 309 | 219 |
 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.69 | 208 | 329 | 211 |
 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 208 | 0 | 486 |
@@ -289,7 +289,7 @@
 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 78 | 158 | 279 |
 | [FUSER™](games/f/fuser™.md) | 4.71 | 178 | 35 | 421 |
 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 794 | 175 | 268 |
-| [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 816 | 87 | 334 |
+| [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 816 | 88 | 332 |
 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 736 | 70 | 356 |
 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 798 | 33 | 428 |
 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 672 | 0 | 486 |
@@ -379,7 +379,7 @@
 | [Isonzo](games/i/isonzo.md) | 4.56 | 441 | 30 | 439 |
 | [IXION](games/i/ixion.md) | 4.54 | 472 | 0 | 486 |
 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 1 | 0 | 486 |
-| [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 652 | 94 | 326 |
+| [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 651 | 94 | 326 |
 | [Journey](games/j/journey.md) | 4.80 | 78 | 0 | 486 |
 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 407 | 36 | 416 |
 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 333 | 527 | 177 |
@@ -394,7 +394,7 @@
 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.13 | 839 | 0 | 486 |
 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 72 | 0 | 486 |
 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.48 | 561 | 0 | 486 |
-| [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 652 | 11,820 | 28 |
+| [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 651 | 11,820 | 28 |
 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 254 | 0 | 486 |
 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 820 | 0 | 486 |
 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 60 | 0 | 486 |
@@ -431,7 +431,7 @@
 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.30 | 748 | 0 | 486 |
 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 348 | 0 | 486 |
 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 232 | 410 | 192 |
-| [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 652 | 0 | 486 |
+| [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 651 | 0 | 486 |
 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.30 | 748 | 0 | 486 |
 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 853 | 0 | 486 |
 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.48 | 561 | 0 | 486 |
@@ -461,7 +461,7 @@
 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 883 | 0 | 486 |
 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 178 | 0 | 486 |
 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 208 | 0 | 486 |
-| [MORDHAU](games/m/mordhau.md) | 4.42 | 638 | 0 | 486 |
+| [MORDHAU](games/m/mordhau.md) | 4.41 | 651 | 0 | 486 |
 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 768 | 0 | 486 |
 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 684 | 161 | 277 |
 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 407 | 22 | 468 |
@@ -507,10 +507,10 @@
 | [Old World](games/o/old_world.md) | 4.65 | 287 | 213 | 248 |
 | [Ooblets](games/o/ooblets.md) | 4.87 | 24 | 998 | 134 |
 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 271 | 0 | 486 |
-| [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.41 | 652 | 0 | 486 |
+| [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.41 | 651 | 0 | 486 |
 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 900 | 0 | 486 |
-| [Othercide](games/o/othercide.md) | 4.41 | 652 | 0 | 486 |
-| [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 652 | 0 | 486 |
+| [Othercide](games/o/othercide.md) | 4.41 | 651 | 0 | 486 |
+| [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 651 | 0 | 486 |
 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 333 | 0 | 486 |
 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 7 | 0 | 486 |
 | [Outlast](games/o/outlast.md) | 4.73 | 155 | 0 | 486 |
@@ -605,7 +605,7 @@
 | [Sailing Era](games/s/sailing_era.md) | 4.81 | 72 | 0 | 486 |
 | [Saints Row](games/s/saints_row.md) | 3.78 | 897 | 1,021 | 130 |
 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 662 | 387 | 199 |
-| [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 652 | 2,158 | 98 |
+| [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 651 | 2,158 | 98 |
 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.72 | 164 | 0 | 486 |
 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 745 | 924 | 139 |
 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 348 | 266 | 232 |
@@ -654,7 +654,7 @@
 | [SOMA](games/s/soma.md) | 4.65 | 287 | 0 | 486 |
 | [Somerville](games/s/somerville.md) | 4.20 | 798 | 0 | 486 |
 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 208 | 27 | 448 |
-| [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 652 | 72 | 352 |
+| [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 651 | 72 | 352 |
 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 100 | 904 | 140 |
 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 424 | 116 | 301 |
 | [Souldiers](games/s/souldiers.md) | 4.54 | 472 | 0 | 486 |

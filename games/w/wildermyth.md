@@ -5,6 +5,9 @@ Number of Ratings: 45  (23.09.2022)
 Max (Character Customization): 27  (Ranked 448)  
 Sum: 27 (Ranked 457)  
 Diff (max vs sum): -9
+## Popularity (Based on EOS Achievements)
+Progressed: 1,114 (Ranked 143)
+Completed: 3 (0.27%) (Ranked 56)
 ## Awards
 | Award | Count |
 | ----- | ----- |

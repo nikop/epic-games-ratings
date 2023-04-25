@@ -1,11 +1,8 @@
 {
   "ID": "333f455592a24f7db42ac87a1d7227c4",
   "Name": "Guardians of Hyelore",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-07-22T20:28:14.3257673+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:12.2179239+00:00",
-  "LastChanged": "2023-03-31T05:58:12.217924+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:12.2179241+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:12.217924+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:12.2179239+00:00",
+  "FirstSeen": "2022-07-22T20:28:14.3257673+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

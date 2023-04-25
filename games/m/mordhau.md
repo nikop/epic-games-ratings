@@ -1,9 +1,12 @@
 # MORDHAU
-Rating: 4.42 (Ranked 638)  
+Rating: 4.41 (Ranked 651)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  
 Sum: 0 (Ranked 486)  
 Diff (max vs sum): 0
+## Popularity (Based on EOS Achievements)
+Progressed: 1,207,950 (Ranked 8)
+Completed: 4 (0.00%) (Ranked 122)
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -20,3 +23,4 @@ Diff (max vs sum): 0
 | 2023-04-20 | 4.41 | 0 | 0 |
 | 2023-04-21 | 4.42 | 0 | 0 |
 | 2023-04-23 | 4.43 | 0 | 0 |
+| 2023-04-25 | 4.41 | 0 | 0 |

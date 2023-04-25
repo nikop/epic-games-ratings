@@ -2,7 +2,13 @@
   "ID": "95cda0d0b9124cc790f3893ac41cc29a",
   "Name": "Imagine Earth",
   "Tags": [],
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T16:42:11.8112689+00:00",
+      "NumProgressed": 363,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2022-08-14T20:31:45.7096729+00:00",
@@ -56,15 +62,16 @@
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 363,
   "LastChanged": "2023-03-31T05:58:11.9489163+00:00",
+  "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeen": "2022-07-22T20:28:11.2364544+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "NumberOfRatings": 22,
-  "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_Progress": 179,
+  "Ranking_EOS_Completed": 122,
+  "Ranking_EOS_Progress": 167,
   "Ranking_PopularitySum": 486,
   "Ranking_Popularity": 486,
   "Ranking_Rating": 748,

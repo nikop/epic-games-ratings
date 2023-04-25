@@ -4,6 +4,9 @@ Rating: 4.49 (Ranked 541)
 Max (Great for Quick Sessions): 219  (Ranked 245)  
 Sum: 1,980 (Ranked 184)  
 Diff (max vs sum): 61
+## Popularity (Based on EOS Achievements)
+Progressed: 20,942 (Ranked 85)
+Completed: 37 (0.18%) (Ranked 65)
 ## Awards
 | Award | Count |
 | ----- | ----- |

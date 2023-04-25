@@ -5,6 +5,9 @@ Number of Ratings: 266  (23.09.2022)
 Max (Amazing Characters): 31  (Ranked 436)  
 Sum: 238 (Ranked 340)  
 Diff (max vs sum): 96
+## Popularity (Based on EOS Achievements)
+Progressed: 2,267 (Ranked 130)
+Completed: 1 (0.04%) (Ranked 96)
 ## Awards
 | Award | Count |
 | ----- | ----- |

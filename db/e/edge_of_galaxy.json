@@ -1,11 +1,8 @@
 {
   "ID": "d796ccf7413e4c1495805168e77002a6",
   "Name": "Edge Of Galaxy",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2023-01-14T09:58:17.1478535+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:13.8352229+00:00",
-  "LastChanged": "2023-03-31T05:58:13.835223+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:13.8352231+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:13.835223+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:13.8352229+00:00",
+  "FirstSeen": "2023-01-14T09:58:17.1478535+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

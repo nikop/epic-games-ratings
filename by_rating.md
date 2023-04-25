@@ -373,7 +373,7 @@
 | 348 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 62 | 368 |
 | 348 | [Warframe](games/w/warframe.md) | 4.61 | 14,240 | 22 |
 | 373 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,509 | 30 |
-| 373 | [Control](games/c/control.md) | 4.60 | 8,239 | 37 |
+| 373 | [Control](games/c/control.md) | 4.60 | 8,240 | 37 |
 | 373 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,192 | 25 |
 | 373 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 117 | 299 |
 | 373 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 36 | 416 |
@@ -427,7 +427,7 @@
 | 424 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 0 | 486 |
 | 424 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 0 | 486 |
 | 424 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 150 | 280 |
-| 424 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 87 | 334 |
+| 424 | [Brawlhalla](games/b/brawlhalla.md) | 4.57 | 87 | 335 |
 | 424 | [Deceive Inc.](games/d/deceive_inc..md) | 4.57 | 0 | 486 |
 | 424 | [Everything](games/e/everything.md) | 4.57 | 0 | 486 |
 | 424 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 0 | 486 |
@@ -643,7 +643,6 @@
 | 638 | [ELEX](games/e/elex.md) | 4.42 | 23 | 463 |
 | 638 | [Good Company](games/g/good_company.md) | 4.42 | 0 | 486 |
 | 638 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 486 |
-| 638 | [MORDHAU](games/m/mordhau.md) | 4.42 | 0 | 486 |
 | 638 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,099 | 125 |
 | 638 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 30 | 439 |
 | 638 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 45 |
@@ -651,16 +650,17 @@
 | 638 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 0 | 486 |
 | 638 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 122 | 295 |
 | 638 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 533 | 176 |
-| 652 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 0 | 486 |
-| 652 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 177 | 267 |
-| 652 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 94 | 326 |
-| 652 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 11,820 | 28 |
-| 652 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 0 | 486 |
-| 652 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.41 | 0 | 486 |
-| 652 | [Othercide](games/o/othercide.md) | 4.41 | 0 | 486 |
-| 652 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 0 | 486 |
-| 652 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,158 | 98 |
-| 652 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 72 | 352 |
+| 651 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 0 | 486 |
+| 651 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 177 | 267 |
+| 651 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 94 | 326 |
+| 651 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 11,820 | 28 |
+| 651 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 0 | 486 |
+| 651 | [MORDHAU](games/m/mordhau.md) | 4.41 | 0 | 486 |
+| 651 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.41 | 0 | 486 |
+| 651 | [Othercide](games/o/othercide.md) | 4.41 | 0 | 486 |
+| 651 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 0 | 486 |
+| 651 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,158 | 98 |
+| 651 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 72 | 352 |
 | 662 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 243 | 238 |
 | 662 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 975 | 137 |
 | 662 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 0 | 486 |
@@ -815,7 +815,7 @@
 | 811 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 180,906 | 4 |
 | 811 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 486 |
 | 811 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 26 | 454 |
-| 816 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 87 | 334 |
+| 816 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 88 | 332 |
 | 816 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 323 |
 | 816 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.18 | 45 | 394 |
 | 816 | [Windbound](games/w/windbound.md) | 4.18 | 0 | 486 |

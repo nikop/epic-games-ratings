@@ -5,6 +5,9 @@ Number of Ratings: 366,020  (23.09.2022)
 Max (Great for Quick Sessions): 392,168  (Ranked 2)  
 Sum: 2,673,942 (Ranked 2)  
 Diff (max vs sum): 0
+## Popularity (Based on EOS Achievements)
+Progressed: 23,405,228 (Ranked 2)
+Completed: 1,233 (0.01%) (Ranked 113)
 ## Awards
 | Award | Count |
 | ----- | ----- |

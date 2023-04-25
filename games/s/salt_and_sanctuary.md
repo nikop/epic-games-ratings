@@ -5,6 +5,9 @@ Number of Ratings: 3,114  (23.09.2022)
 Max (Challenging Combat): 266  (Ranked 232)  
 Sum: 1,864 (Ranked 190)  
 Diff (max vs sum): 42
+## Popularity (Based on EOS Achievements)
+Progressed: 518,688 (Ranked 23)
+Completed: 1,387 (0.27%) (Ranked 56)
 ## Awards
 | Award | Count |
 | ----- | ----- |

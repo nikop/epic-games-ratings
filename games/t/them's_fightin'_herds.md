@@ -4,6 +4,9 @@ Rating: 4.63 (Ranked 323)
 Max (): 0  (Ranked 486)  
 Sum: 0 (Ranked 486)  
 Diff (max vs sum): 0
+## Popularity (Based on EOS Achievements)
+Progressed: 219,365 (Ranked 43)
+Completed: 2 (0.00%) (Ranked 122)
 ## Awards
 | Award | Count |
 | ----- | ----- |

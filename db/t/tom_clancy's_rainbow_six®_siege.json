@@ -12,7 +12,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1555
+      "Count": 1561
     },
     {
       "Text": "This game has Amazing Characters",
@@ -42,7 +42,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1561
+      "Count": 1565
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3621,18 +3621,24 @@
       "Rating": 4.57,
       "NumberOfAwards": 13820,
       "NumberOfAwardsMax": 1691
+    },
+    {
+      "Time": "2023-04-25T16:36:24.6908913+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 13830,
+      "NumberOfAwardsMax": 1691
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T16:08:47.4469417+00:00",
+  "LastChanged": "2023-04-25T16:36:24.6908911+00:00",
   "FirstSeen": "2022-07-22T20:19:50.9592707+00:00",
   "NumberOfAwardsMax": 1691,
-  "NumberOfAwards": 13820,
+  "NumberOfAwards": 13830,
   "NumberOfRatings": 8669,
-  "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_Progress": 179,
+  "Ranking_EOS_Completed": 122,
+  "Ranking_EOS_Progress": 183,
   "Ranking_PopularitySum": 64,
   "Ranking_Popularity": 108,
   "Ranking_Rating": 424,

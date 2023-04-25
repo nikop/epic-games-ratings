@@ -1,11 +1,8 @@
 {
   "ID": "15d28244bc5f498bb296b51055b7e786",
   "Name": "M.A.X. - Mechanized Assault and Exploration",
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "FirstSeen": "2022-09-03T23:02:29.7111007+00:00",
-  "FirstSeenRating": "2023-03-31T05:58:30.713941+00:00",
-  "LastChanged": "2023-03-31T05:58:30.7139411+00:00",
+  "Tags": [],
+  "EosHistory": [],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:30.7139414+00:00",
@@ -14,5 +11,12 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "Tags": []
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 0,
+  "LastChanged": "2023-03-31T05:58:30.7139411+00:00",
+  "FirstSeenRating": "2023-03-31T05:58:30.713941+00:00",
+  "FirstSeen": "2022-09-03T23:02:29.7111007+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0
 }

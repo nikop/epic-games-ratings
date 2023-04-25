@@ -3,8 +3,11 @@ Rating: 4.62 (Ranked 333)
 Number of Ratings: 32,700  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 62,750  (Ranked 9)  
-Sum: 163,667 (Ranked 13)  
+Sum: 163,675 (Ranked 13)  
 Diff (max vs sum): -4
+## Popularity (Based on EOS Achievements)
+Progressed: 795,588 (Ranked 10)
+Completed: 1,535 (0.19%) (Ranked 64)
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +21,7 @@ Diff (max vs sum): -4
 | This game is Highly Recommended | 6,990 |
 | This game has Quickly Understood Controls | 6,887 |
 | This game has Amazing Characters | 6,837 |
-| This game has a Creative Community | 4,548 |
+| This game has a Creative Community | 4,556 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -118,4 +121,4 @@ Diff (max vs sum): -4
 | 2023-04-22 | 4.62 | - | 62,477 | 162,768 |
 | 2023-04-23 | 4.62 | - | 62,640 | 163,217 |
 | 2023-04-24 | 4.62 | - | 62,750 | 163,575 |
-| 2023-04-25 | 4.62 | - | 62,750 | 163,667 |
+| 2023-04-25 | 4.62 | - | 62,750 | 163,675 |

@@ -2,13 +2,16 @@
 Rating: 4.18 (Ranked 816)  
 Number of Ratings: 429  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 87  (Ranked 334)  
-Sum: 651 (Ranked 266)  
-Diff (max vs sum): 68
+Max (Diverse Characters): 88  (Ranked 332)  
+Sum: 652 (Ranked 266)  
+Diff (max vs sum): 66
+## Popularity (Based on EOS Achievements)
+Progressed: 5,151 (Ranked 114)
+Completed: 0 (0.00%) (Ranked 122)
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 87 |
+| This game has Diverse Characters | 88 |
 | This game is Relaxing | 85 |
 | This game has Quickly Understood Controls | 82 |
 | This game is Extremely Fun | 80 |
@@ -102,4 +105,4 @@ Diff (max vs sum): 68
 | 2023-04-19 | 4.19 | - | 86 | 646 |
 | 2023-04-21 | 4.18 | - | 87 | 648 |
 | 2023-04-23 | 4.18 | - | 87 | 649 |
-| 2023-04-25 | 4.18 | - | 87 | 651 |
+| 2023-04-25 | 4.18 | - | 88 | 652 |
