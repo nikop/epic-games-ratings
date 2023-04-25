@@ -52,6 +52,12 @@ namespace EpicRatingsUpdater.GameDatabase
         [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
         public DateTimeOffset? LastChanged_Achievements { get; set; }
 
+        [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
+        public DateTimeOffset? LastUpdate_Ratings { get; set; }
+
+        [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
+        public DateTimeOffset? LastUpdate_Achievements { get; set; }
+
         public int EOS_Progressed { get; set; }
 
         public int EOS_Completed { get; set; }

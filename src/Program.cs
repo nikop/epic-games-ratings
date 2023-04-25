@@ -1,10 +1,7 @@
-﻿using EpicRatingsUpdater.EGSApi;
+﻿using EpicRatingsUpdater;
 using EpicRatingsUpdater.GameDatabase;
 using EpicRatingsUpdater.Markdown;
 
-using GraphQL.Client.Http;
-
-using System.Text;
 using System.Text.Json;
 
 // Configs
@@ -12,7 +9,8 @@ var path = new DirectoryInfo(".").FullName;
 var index = new Dictionary<string, string>();
 
 var forceUpdateNames = args.Any(x => x == "--update-names");
-var skipRatingsUpdate = args.Any(x => x == "--skip-update");
+var skipRatingsUpdate = args.Any(x => x == "--skip-ratings");
+var skipAchievementsUpdate = args.Any(x => x == "--skip-achievement");
 var skipOffers = args.Any(x => x == "--skip-offers");
 var skipItems = args.Any(x => x == "--skip-items");
 
@@ -125,34 +123,30 @@ if (!skipItems)
     foreach (var i in typeItems!)
     {
         AddNamespace(i.Key);
-
         var item = await GetOrCreate(gameIndex, i.Key).ConfigureAwait(false);
 
-        List<EpicItem> items = new();
+        //List<EpicItem> items = new();
 
-        foreach (var v in i.Value)
-        {
-            var fileName = Path.Combine(dirItems, "items", $"{v}.json");
+        //foreach (var v in i.Value)
+        //{
+        //    var fileName = Path.Combine(dirItems, "items", $"{v}.json");
 
-            try
-            {
-                var fileContent = await File.ReadAllTextAsync(fileName);
-                var epicItem = JsonSerializer.Deserialize<EpicItem>(fileContent);
+        //    try
+        //    {
+        //        var fileContent = await File.ReadAllTextAsync(fileName);
+        //        var epicItem = JsonSerializer.Deserialize<EpicItem>(fileContent);
 
-                if (epicItem == null)
-                    continue;
+        //        if (epicItem == null)
+        //            continue;
 
-                items.Add(epicItem);
-            }
-            catch (Exception)
-            {
-            }
-        }
+        //        items.Add(epicItem);
+        //    }
+        //    catch (Exception)
+        //    {
+        //    }
+        //}
     }
 }
-
-var c = 0;
-var total = namespaces.Count;
 
 async ValueTask<GameDbItem> GetOrCreate(JsonIndexDb<GameDbItem> gameIndex, string ns, string? name = null)
 {
@@ -172,166 +166,24 @@ async ValueTask<GameDbItem> GetOrCreate(JsonIndexDb<GameDbItem> gameIndex, strin
     return item;
 }
 
-/**
- * Update rating by namespace
- */
-async ValueTask UpdateRating(JsonIndexDb<GameDbItem> gameIndex, NamespaceDef ns, CancellationToken ct)
-{
-    Interlocked.Increment(ref c);
-    Console.Write($"\rUpdating {c} / {total}");
-
-    var dbItem = await GetOrCreate(gameIndex, ns.Namespace).ConfigureAwait(false);
-    var requiresSave = false;
-
-    try
-    {
-        var pi = await EpicApi.GetProductResult(ns.Namespace).ConfigureAwait(false);
-
-        if (pi != null)
-        {
-            requiresSave = true;
-
-            if (dbItem.FirstSeen == null)
-            {
-                dbItem.FirstSeen = DateTimeOffset.UtcNow;
-            }
-
-            var ratingChanged = dbItem.Rating != pi.averageRating;
-
-            dbItem.ProductSlug = ns.ProductSlug;
-            dbItem.Rating = pi.averageRating;
-
-            if (pi.pollResult != null)
-            {
-                var topAward = pi.pollResult.MaxBy(x => x.total ?? 0);
-
-                var NumberOfAwards = pi.pollResult.Sum(x => x.total ?? 0);
-                var NumberOfAwardsMax = topAward?.total ?? 0;
-
-                if (NumberOfAwards != dbItem.NumberOfAwards || NumberOfAwardsMax != dbItem.NumberOfAwardsMax)
-                {
-                    ratingChanged = true;
-                }
-
-                dbItem.NumberOfAwards = NumberOfAwards;
-                dbItem.NumberOfAwardsMax = NumberOfAwardsMax;
-                dbItem.MaxAwardTitle = topAward?.localizations.resultTitle;
-
-                foreach (var pr in pi.pollResult.OrderByDescending(x => x.total))
-                {
-                    var text = $"{pr.localizations.resultText} {pr.localizations.resultTitle}";
-                    var current = dbItem.Tags.FirstOrDefault(x => x.Text == text);
-
-                    if (current != null)
-                    {
-                        current.Prefix = pr.localizations.resultText;
-                        current.Type = pr.localizations.resultTitle;
-                        current.Count = pr.total ?? 0;
-                    }
-                    else
-                    {
-                        dbItem.Tags.Add(new GameDbItemTag
-                        {
-                            Text = text,
-                            Prefix = pr.localizations.resultText,
-                            Type = pr.localizations.resultTitle,
-                            Count = pr.total ?? 0,
-                        });
-                    }
-                }
-            }
-            else if (dbItem.NumberOfAwards != null)
-            {
-                dbItem.NumberOfAwards = 0;
-                dbItem.NumberOfAwardsMax = 0;
-            }
-
-            if (ratingChanged)
-            {
-                if (dbItem.RatingHistory.Count == 0)
-                {
-                    dbItem.FirstSeenRating = DateTimeOffset.UtcNow;
-                }
-
-                dbItem.LastChanged = DateTimeOffset.UtcNow;
-                dbItem.RatingHistory.Add(new GameDbItemRatingHistory
-                {
-                    Time = DateTimeOffset.UtcNow,
-                    Rating = pi.averageRating,
-                    NumberOfAwards = dbItem.NumberOfAwards,
-                    NumberOfAwardsMax = dbItem.NumberOfAwardsMax,
-                });
-            }
-        }
-
-        var ach = await EpicApi.QueryAchievements(ns.Namespace);
-
-        if (ach?.productId != null)
-        {
-            var baseSet = ach?.achievementSets?.FirstOrDefault(x => x.isBase);
-
-            if (baseSet != null)
-            {
-                var isChanged = dbItem.EOS_Progressed != baseSet.numProgressed || dbItem.EOS_Completed != baseSet.numCompleted;
-
-                dbItem.LastChanged_Achievements = DateTimeOffset.UtcNow;
-                dbItem.EOS_Progressed = baseSet.numProgressed;
-                dbItem.EOS_Completed = baseSet.numCompleted;
-                dbItem.EOS_Completed_Percentage = baseSet.numProgressed > 0 ? Math.Round((double) baseSet.numCompleted / baseSet.numProgressed * 100, 2) : 0;
-
-                if (isChanged)
-                {
-                    dbItem.EosHistory.Add(new GameDbItemEOSHistory
-                    {
-                        Time = DateTimeOffset.UtcNow,
-                        NumProgressed = baseSet.numProgressed,
-                        NumCompleted = baseSet.numCompleted,
-                    });
-                }
-
-                if (dbItem.FirstSeenAchievements == null)
-                {
-                    dbItem.FirstSeenAchievements = DateTimeOffset.UtcNow;
-                }
-            }
-        }
-    }
-    catch (GraphQLHttpRequestException)
-    {
-        Console.WriteLine("Ratelimited...?");
-        await Task.Delay(10000, ct);
-    }
-    catch (Exception ex)
-    {
-        Console.WriteLine($"[ERROR] {ex}");
-        // ??
-    }
-
-    if (requiresSave)
-    {
-        await gameIndex.SaveItem(dbItem).ConfigureAwait(false);
-    }
-
-    await Task.Delay(forceUpdateNames ? 200 : 75, ct);
-}
+var items = await gameIndex.GetAllItems().ConfigureAwait(false);
 
 // Fetch ratings
 if (!skipRatingsUpdate)
 {
-    Console.WriteLine("Updating rating");
-
-    await Parallel.ForEachAsync(
-        namespaces.Values, 
-        new ParallelOptions { MaxDegreeOfParallelism = 2 },
-        (ns, ct) => UpdateRating(gameIndex, ns, ct)
-    );
+    var action = new UpdateRatings();
+    await action.Run(items);
 }
 
-// Create combined files
-var output = await gameIndex.GetAllItems().ConfigureAwait(false);
+// Fetch achievements
+if (!skipAchievementsUpdate)
+{
+    var action = new UpdateAchievements();
+    await action.Run(items);
+}
 
 // Only games with rating
-var filteredList = output.Where(x => x.Rating != null).ToList();
+var filteredList = items.Where(x => x.Rating != null).ToList();
 
 // Rating Ranking
 MarkdownHelpers.RankItems(
@@ -355,18 +207,18 @@ MarkdownHelpers.RankItems(
 
 // EOS Achievements
 MarkdownHelpers.RankItems(
-    output.OrderByDescending(x => x.EOS_Progressed),
+    items.OrderByDescending(x => x.EOS_Progressed),
     x => x.EOS_Progressed,
     (x, rank) => x.Ranking_EOS_Progress = rank
 );
 
 MarkdownHelpers.RankItems(
-    output.OrderByDescending(x => x.EOS_Completed_Percentage),
+    items.OrderByDescending(x => x.EOS_Completed_Percentage),
     x => x.EOS_Completed_Percentage,
     (x, rank) => x.Ranking_EOS_Completed = rank
 );
 
-foreach (var item in output)
+foreach (var item in items)
 {
     await gameIndex.SaveItem(item).ConfigureAwait(false);
 
@@ -384,7 +236,6 @@ string GamesLink(GameDbItem item)
 {
     return "games/" + gameIndex?.Files[item.ID].Replace(@"\", "/") + ".md";
 }
-
 
 var nameTable = new MarkdownTable<GameDbItem>()
     .AddColumn("Game", x => $"[{x.Name}]({GamesLink(x)})")
@@ -460,5 +311,5 @@ await File.WriteAllTextAsync(
 // Stats
 await File.WriteAllTextAsync(
     Path.Combine(path, "stats.md"),
-    MarkdownHelpers.BuildMarkdownStats(filteredList, output)
+    MarkdownHelpers.BuildMarkdownStats(filteredList, items)
 );
