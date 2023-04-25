@@ -409,7 +409,7 @@
 | 407 | [Among Us](games/a/among_us.md) | 4.58 | 2,375 | 92 |
 | 407 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.58 | 580 | 165 |
 | 407 | [Breathedge](games/b/breathedge.md) | 4.58 | 0 | 486 |
-| 407 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 6,571 | 46 |
+| 407 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 6,604 | 46 |
 | 407 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.58 | 23,774 | 16 |
 | 407 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.58 | 0 | 486 |
 | 407 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 36 | 416 |
@@ -487,6 +487,7 @@
 | 484 | [Aztez](games/a/aztez.md) | 4.53 | 0 | 486 |
 | 484 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 486 |
 | 484 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,566 | 17 |
+| 484 | [Dead Island 2](games/d/dead_island_2.md) | 4.53 | 382 | 201 |
 | 484 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 137,773 | 6 |
 | 484 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 117 | 299 |
 | 484 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 486 |
@@ -495,19 +496,18 @@
 | 484 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 486 |
 | 484 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 269 | 231 |
 | 484 | [Verdun](games/v/verdun.md) | 4.53 | 93 | 328 |
-| 496 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 733 | 149 |
-| 496 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 38 | 410 |
-| 496 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 26,742 | 15 |
-| 496 | [Dead Island 2](games/d/dead_island_2.md) | 4.52 | 382 | 201 |
-| 496 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 497 | 180 |
-| 496 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 99 | 319 |
-| 496 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 147 | 282 |
-| 496 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 182 | 262 |
-| 496 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,093 | 125 |
-| 496 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 486 |
-| 496 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 486 |
-| 496 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 144 | 283 |
-| 496 | [UnMetal](games/u/unmetal.md) | 4.52 | 0 | 486 |
+| 497 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 733 | 149 |
+| 497 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 38 | 410 |
+| 497 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 26,742 | 15 |
+| 497 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 497 | 180 |
+| 497 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 99 | 319 |
+| 497 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 147 | 282 |
+| 497 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 182 | 262 |
+| 497 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,093 | 125 |
+| 497 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 486 |
+| 497 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 486 |
+| 497 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 144 | 283 |
+| 497 | [UnMetal](games/u/unmetal.md) | 4.52 | 0 | 486 |
 | 509 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,552 | 111 |
 | 509 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 91 | 330 |
 | 509 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,068 | 71 |
@@ -812,7 +812,7 @@
 | 798 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 77 | 345 |
 | 811 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 381 |
 | 811 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 0 | 486 |
-| 811 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 180,813 | 4 |
+| 811 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 180,906 | 4 |
 | 811 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 486 |
 | 811 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 26 | 454 |
 | 816 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 87 | 334 |
