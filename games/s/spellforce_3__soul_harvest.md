@@ -1,5 +1,5 @@
 # SpellForce 3: Soul Harvest
-Rating: 4.43 (Ranked 630)  
+Rating: 4.44 (Ranked 617)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 486)  
 Sum: 0 (Ranked 486)  
@@ -33,3 +33,4 @@ Diff (max vs sum): 0
 | 2023-02-27 | 4.41 | - | - |
 | 2023-03-31 | 4.41 | 0 | 0 |
 | 2023-04-15 | 4.43 | 0 | 0 |
+| 2023-04-25 | 4.44 | 0 | 0 |

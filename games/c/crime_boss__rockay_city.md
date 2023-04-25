@@ -2,15 +2,15 @@
 Rating: 3.92 (Ranked 883)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 181  (Ranked 263)  
-Sum: 868 (Ranked 235)  
-Diff (max vs sum): 28
+Sum: 876 (Ranked 232)  
+Diff (max vs sum): 31
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 181 |
+| This game has Diverse Characters | 180 |
 | This game is Highly Recommended | 177 |
 | This game has Amazing Characters | 173 |
-| This game has Diverse Characters | 172 |
 | This game has Challenging Combat | 165 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
@@ -45,4 +45,4 @@ Diff (max vs sum): 28
 | 2023-04-22 | 3.92 | 169 | 795 |
 | 2023-04-23 | 3.92 | 174 | 835 |
 | 2023-04-24 | 3.92 | 177 | 863 |
-| 2023-04-25 | 3.92 | 181 | 868 |
+| 2023-04-25 | 3.92 | 181 | 876 |
