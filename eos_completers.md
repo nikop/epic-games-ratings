@@ -13,7 +13,7 @@
 | 11 | [Time Loader](games/t/time_loader.md) | 8.51% |
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
-| 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.56% |
+| 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.55% |
 | 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.43% |
 | 16 | [Scorn](games/s/scorn.md) | 7.08% |
 | 17 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 7.02% |
@@ -26,7 +26,7 @@
 | 24 | [Bugsnax](games/b/bugsnax.md) | 4.59% |
 | 25 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
 | 26 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.17% |
-| 27 | [Doodle God](games/d/doodle_god.md) | 4.15% |
+| 27 | [Doodle God](games/d/doodle_god.md) | 4.12% |
 | 28 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.03% |
 | 29 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 30 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
@@ -48,7 +48,7 @@
 | 46 | [JARS](games/j/jars.md) | 2.70% |
 | 47 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 48 | [Iron Danger](games/i/iron_danger.md) | 2.48% |
-| 49 | [ZZT!](games/z/zzt!.md) | 2.32% |
+| 49 | [ZZT!](games/z/zzt!.md) | 2.31% |
 | 50 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.24% |
 | 51 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 52 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
@@ -58,7 +58,7 @@
 | 56 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.69% |
 | 56 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
 | 56 | [Night Book](games/n/night_book.md) | 1.69% |
-| 59 | [Somerville](games/s/somerville.md) | 1.63% |
+| 59 | [Somerville](games/s/somerville.md) | 1.62% |
 | 60 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.60% |
 | 61 | [Frogun](games/f/frogun.md) | 1.56% |
 | 62 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.52% |
@@ -109,14 +109,14 @@
 | 107 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.32% |
 | 107 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
 | 109 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
-| 109 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.31% |
 | 109 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.31% |
 | 109 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.31% |
 | 109 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 109 | [The Surge](games/t/the_surge.md) | 0.31% |
-| 115 | [Tchia](games/t/tchia.md) | 0.30% |
-| 116 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
-| 116 | [Aegis Descent](games/a/aegis_descent.md) | 0.29% |
+| 114 | [Tchia](games/t/tchia.md) | 0.30% |
+| 115 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
+| 115 | [Aegis Descent](games/a/aegis_descent.md) | 0.29% |
+| 115 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.29% |
 | 118 | [Despot's Game](games/d/despot's_game.md) | 0.28% |
 | 119 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
 | 119 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.27% |
@@ -265,6 +265,7 @@
 | 188 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 0.00% |
 | 188 | [Island Cities](games/i/island_cities.md) | 0.00% |
 | 188 | [IXION](games/i/ixion.md) | 0.00% |
+| 188 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 0.00% |
 | 188 | [Kabaret](games/k/kabaret.md) | 0.00% |
 | 188 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 0.00% |
 | 188 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 0.00% |
@@ -354,4 +355,4 @@
 | 188 | [We Are OFK](games/w/we_are_ofk.md) | 0.00% |
 | 188 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 188 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,504 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,505 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

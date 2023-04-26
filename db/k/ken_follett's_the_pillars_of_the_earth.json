@@ -80,6 +80,11 @@
       "Time": "2023-04-26T15:05:07.655032+00:00",
       "NumProgressed": 11983,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-04-26T16:04:41.9058661+00:00",
+      "NumProgressed": 11984,
+      "NumCompleted": 91
     }
   ],
   "RatingHistory": [
@@ -512,10 +517,10 @@
   ],
   "EOS_Completed_Percentage": 0.76,
   "EOS_Completed": 91,
-  "EOS_Progressed": 11983,
-  "LastUpdate_Achievements": "2023-04-26T15:05:07.6550325+00:00",
-  "LastUpdate_Ratings": "2023-04-26T14:59:53.4665686+00:00",
-  "LastChanged_Achievements": "2023-04-26T15:05:07.6550299+00:00",
+  "EOS_Progressed": 11984,
+  "LastUpdate_Achievements": "2023-04-26T16:04:41.9058665+00:00",
+  "LastUpdate_Ratings": "2023-04-26T15:59:19.7736272+00:00",
+  "LastChanged_Achievements": "2023-04-26T16:04:41.9058655+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "MaxAwardTitle": "Easy Puzzles",
