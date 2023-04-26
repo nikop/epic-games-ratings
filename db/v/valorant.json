@@ -36,7 +36,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 42112
+      "Count": 42189
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -48,7 +48,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 39274
+      "Count": 39355
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -60,7 +60,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 39520
+      "Count": 39616
     }
   ],
   "EosHistory": [],
@@ -4241,19 +4241,25 @@
       "Rating": 4.54,
       "NumberOfAwards": 378906,
       "NumberOfAwardsMax": 49989
+    },
+    {
+      "Time": "2023-04-26T21:57:54.823403+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 379160,
+      "NumberOfAwardsMax": 49989
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T21:01:02.2696507+00:00",
-  "LastUpdate_Ratings": "2023-04-26T20:58:07.9901729+00:00",
-  "LastChanged": "2023-04-25T23:58:16.6761843+00:00",
+  "LastUpdate_Achievements": "2023-04-26T22:00:24.8583643+00:00",
+  "LastUpdate_Ratings": "2023-04-26T21:57:54.8234035+00:00",
+  "LastChanged": "2023-04-26T21:57:54.8234029+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 49989,
-  "NumberOfAwards": 378906,
+  "NumberOfAwards": 379160,
   "NumberOfRatings": 157172,
-  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_Completed": 189,
   "Ranking_EOS_Progress": 357,
   "Ranking_PopularitySum": 6,
   "Ranking_Popularity": 11,

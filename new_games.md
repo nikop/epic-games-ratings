@@ -79,4 +79,3 @@
 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 3.88 | 894 | 57 | 377 |
 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.92 | 887 | 187 | 261 |
 | [9 Years of Shadows](games/9/9_years_of_shadows.md) | - | - | 0 | - |
-| [Barrett Foster Prologue](games/b/barrett_foster_prologue.md) | - | - | 0 | - |

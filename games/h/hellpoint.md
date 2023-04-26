@@ -1,5 +1,5 @@
 # Hellpoint
-Rating: 4.31 (Ranked 746)  
+Rating: 4.30 (Ranked 748)  
 Number of Ratings: 20  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
@@ -22,3 +22,4 @@ Diff (max vs sum): 0
 | 2023-01-12 | 4.29 | - | - | - |
 | 2023-03-31 | 4.29 | - | 0 | 0 |
 | 2023-04-21 | 4.31 | - | 0 | 0 |
+| 2023-04-26 | 4.30 | - | 0 | 0 |
