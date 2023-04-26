@@ -1,18 +1,18 @@
 # Ken Follett's The Pillars of the Earth
-Rating: 4.52 (Ranked 498)  
+Rating: 4.52 (Ranked 497)  
 Number of Ratings: 368  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Easy Puzzles): 147  (Ranked 282)  
 Sum: 186 (Ranked 352)  
 Diff (max vs sum): -70
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,981 (Ranked 100)  
+Progressed: 11,983 (Ranked 100)  
 Completed: 91 (0.76%) (Ranked 84)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 11,974 | 91 |
-| 2023-04-26 | 11,981 | 91 |
+| 2023-04-26 | 11,983 | 91 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

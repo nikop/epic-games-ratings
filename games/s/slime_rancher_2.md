@@ -1,16 +1,16 @@
 # Slime Rancher 2
-Rating: 4.80 (Ranked 78)  
+Rating: 4.80 (Ranked 79)  
 Number of Ratings: 36  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Amazing Storytelling): 101  (Ranked 318)  
-Sum: 805 (Ranked 245)  
-Diff (max vs sum): 73
+Sum: 806 (Ranked 244)  
+Diff (max vs sum): 74
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 101 |
 | This game has Quickly Understood Controls | 91 |
-| This game is Great for Beginners | 89 |
+| This game is Great for Beginners | 90 |
 | This game is Relaxing | 86 |
 | This game is Educational | 80 |
 | This game has Amazing Characters | 80 |
@@ -44,3 +44,4 @@ Diff (max vs sum): 73
 | 2023-04-13 | 4.80 | - | 99 | 803 |
 | 2023-04-17 | 4.80 | - | 100 | 804 |
 | 2023-04-19 | 4.80 | - | 101 | 805 |
+| 2023-04-26 | 4.80 | - | 101 | 806 |

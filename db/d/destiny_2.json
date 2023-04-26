@@ -24,7 +24,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 5914
+      "Count": 5925
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -54,7 +54,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 5607
+      "Count": 5619
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -187,6 +187,11 @@
     {
       "Time": "2023-04-26T14:06:42.9214172+00:00",
       "NumProgressed": 381701,
+      "NumCompleted": 11153
+    },
+    {
+      "Time": "2023-04-26T15:04:22.0919638+00:00",
+      "NumProgressed": 381747,
       "NumCompleted": 11153
     }
   ],
@@ -3090,20 +3095,26 @@
       "Rating": 4.5,
       "NumberOfAwards": 80318,
       "NumberOfAwardsMax": 33253
+    },
+    {
+      "Time": "2023-04-26T14:59:14.1063508+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 80341,
+      "NumberOfAwardsMax": 33253
     }
   ],
   "EOS_Completed_Percentage": 2.92,
   "EOS_Completed": 11153,
-  "EOS_Progressed": 381701,
-  "LastUpdate_Achievements": "2023-04-26T14:06:42.9214178+00:00",
-  "LastUpdate_Ratings": "2023-04-26T14:00:17.4148463+00:00",
-  "LastChanged_Achievements": "2023-04-26T14:06:42.9214166+00:00",
-  "LastChanged": "2023-04-26T14:00:17.4148457+00:00",
+  "EOS_Progressed": 381747,
+  "LastUpdate_Achievements": "2023-04-26T15:04:22.0919644+00:00",
+  "LastUpdate_Ratings": "2023-04-26T14:59:14.1063513+00:00",
+  "LastChanged_Achievements": "2023-04-26T15:04:22.0919617+00:00",
+  "LastChanged": "2023-04-26T14:59:14.1063506+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:52.6483728+00:00",
   "FirstSeenRating": "2022-08-24T03:30:20.9735605+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 33253,
-  "NumberOfAwards": 80318,
+  "NumberOfAwards": 80341,
   "NumberOfRatings": 32207,
   "Ranking_EOS_Completed": 41,
   "Ranking_EOS_Progress": 31,

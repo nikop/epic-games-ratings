@@ -1,10 +1,10 @@
 # The Captain
-Rating: 4.44 (Ranked 620)  
+Rating: 4.44 (Ranked 619)  
 Number of Ratings: 2,117  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 97  (Ranked 320)  
-Sum: 661 (Ranked 264)  
-Diff (max vs sum): 56
+Sum: 661 (Ranked 265)  
+Diff (max vs sum): 55
 ## Awards
 | Award | Count |
 | ----- | ----- |

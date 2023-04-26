@@ -19,6 +19,12 @@
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
       "Count": 22
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 23
     }
   ],
   "EosHistory": [
@@ -146,6 +152,11 @@
       "Time": "2023-04-26T14:05:01.0031697+00:00",
       "NumProgressed": 335011,
       "NumCompleted": 134
+    },
+    {
+      "Time": "2023-04-26T15:03:22.0669549+00:00",
+      "NumProgressed": 335813,
+      "NumCompleted": 135
     }
   ],
   "RatingHistory": [
@@ -262,25 +273,31 @@
       "Rating": 4.53,
       "NumberOfAwards": 655,
       "NumberOfAwardsMax": 610
+    },
+    {
+      "Time": "2023-04-26T14:58:27.9529387+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 678,
+      "NumberOfAwardsMax": 610
     }
   ],
   "EOS_Completed_Percentage": 0.04,
-  "EOS_Completed": 134,
-  "EOS_Progressed": 335011,
-  "LastUpdate_Achievements": "2023-04-26T14:05:01.0031702+00:00",
-  "LastUpdate_Ratings": "2023-04-26T13:58:43.9469171+00:00",
-  "LastChanged_Achievements": "2023-04-26T14:05:01.0031688+00:00",
-  "LastChanged": "2023-04-26T10:59:10.6532216+00:00",
+  "EOS_Completed": 135,
+  "EOS_Progressed": 335813,
+  "LastUpdate_Achievements": "2023-04-26T15:03:22.0669555+00:00",
+  "LastUpdate_Ratings": "2023-04-26T14:58:27.9529399+00:00",
+  "LastChanged_Achievements": "2023-04-26T15:03:22.0669541+00:00",
+  "LastChanged": "2023-04-26T14:58:27.9529386+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 610,
-  "NumberOfAwards": 655,
+  "NumberOfAwards": 678,
   "Ranking_EOS_Completed": 162,
   "Ranking_EOS_Progress": 35,
-  "Ranking_PopularitySum": 266,
+  "Ranking_PopularitySum": 261,
   "Ranking_Popularity": 161,
-  "Ranking_Rating": 486,
-  "Rating": 4.53,
+  "Ranking_Rating": 497,
+  "Rating": 4.52,
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00"
 }

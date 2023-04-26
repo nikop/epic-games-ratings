@@ -42,7 +42,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 7445
+      "Count": 7461
     },
     {
       "Text": "This game has Challenging Combat",
@@ -4448,23 +4448,29 @@
       "Rating": 4.45,
       "NumberOfAwards": 82189,
       "NumberOfAwardsMax": 9982
+    },
+    {
+      "Time": "2023-04-26T14:58:15.7628292+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 82205,
+      "NumberOfAwardsMax": 9982
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T14:04:32.6391256+00:00",
-  "LastUpdate_Ratings": "2023-04-26T13:58:19.2239913+00:00",
-  "LastChanged": "2023-04-26T13:58:19.2239908+00:00",
+  "LastUpdate_Achievements": "2023-04-26T15:03:08.4846935+00:00",
+  "LastUpdate_Ratings": "2023-04-26T14:58:15.7628305+00:00",
+  "LastChanged": "2023-04-26T14:58:15.762829+00:00",
   "MaxAwardTitle": "Great for Quick Sessions",
   "NumberOfAwardsMax": 9982,
-  "NumberOfAwards": 82189,
+  "NumberOfAwards": 82205,
   "NumberOfRatings": 14652,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_Progress": 356,
   "Ranking_PopularitySum": 15,
   "Ranking_Popularity": 33,
-  "Ranking_Rating": 598,
+  "Ranking_Rating": 597,
   "Rating": 4.45,
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00"
 }
