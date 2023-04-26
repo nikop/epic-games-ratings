@@ -15,25 +15,29 @@ namespace EpicRatingsUpdater
         {
             Console.WriteLine("Updating Ratings");
 
-            foreach (var item in items.OrderBy(x => x.LastUpdate_Ratings ?? DateTimeOffset.MinValue))
-            {
-                try
-                {
-                    await UpdateItem(item);
+            var orderedItems = items.OrderBy(x => x.LastUpdate_Ratings ?? DateTimeOffset.MinValue).ToList();
 
-                }
-                catch (GraphQLHttpRequestException)
+            await Parallel.ForEachAsync(orderedItems, new ParallelOptions { MaxDegreeOfParallelism = 2 },
+                async (item, ct) =>
                 {
-                    Console.WriteLine("Ratelimited...");
-                    await Task.Delay(10000);
-                }
-                catch (Exception ex)
-                {
-                    Console.WriteLine($"Error: {ex}");
-                }
+                    try
+                    {
+                        await UpdateItem(item);
 
-                await Task.Delay(100);
-            }
+                    }
+                    catch (GraphQLHttpRequestException)
+                    {
+                        Console.WriteLine("Ratelimited...");
+                        await Task.Delay(10000);
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine($"Error: {ex}");
+                    }
+
+                    await Task.Delay(100);
+                }
+            );
         }
 
         public async Task UpdateItem(GameDbItem item)
