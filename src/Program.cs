@@ -279,7 +279,7 @@ var eosCompletersTable = new MarkdownTable<GameDbItem>()
 // Markdown
 await File.WriteAllTextAsync(
     Path.Combine(path, "by_name.md"),
-    nameTable.FormatTable(filteredList.OrderBy(x => x.Name))
+    nameTable.FormatTable(items.Where(x => x.Name != null).OrderBy(x => x.Name))
 );
 await File.WriteAllTextAsync(
     Path.Combine(path, "by_rating.md"), 
@@ -287,25 +287,25 @@ await File.WriteAllTextAsync(
 );
 await File.WriteAllTextAsync(
     Path.Combine(path, "by_awards.md"),
-    awardsTable.FormatTable(filteredList.Where(x => x.NumberOfAwardsMax > 0).OrderByDescending(x => x.NumberOfAwardsMax).ThenBy(x => x.Name))
+    awardsTable.FormatTable(items.Where(x => x.NumberOfAwardsMax > 0).OrderByDescending(x => x.NumberOfAwardsMax).ThenBy(x => x.Name))
 );
 await File.WriteAllTextAsync(
     Path.Combine(path, "by_awards_sum.md"),
-    awardsSumTable.FormatTable(filteredList.Where(x => x.NumberOfAwards > 0).OrderByDescending(x => x.NumberOfAwards).ThenBy(x => x.Name))
+    awardsSumTable.FormatTable(items.Where(x => x.NumberOfAwards > 0).OrderByDescending(x => x.NumberOfAwards).ThenBy(x => x.Name))
 );
 await File.WriteAllTextAsync(
     Path.Combine(path, "new_games.md"),
-    nameTable.FormatTable(filteredList.Where(x => x.FirstSeen != null && ratingsCutOffNew < x.FirstSeen).OrderByDescending(x => x.FirstSeen).ThenBy(x => x.Name))
+    nameTable.FormatTable(items.Where(x => x.FirstSeen != null && ratingsCutOffNew < x.FirstSeen).OrderByDescending(x => x.FirstSeen).ThenBy(x => x.Name))
 );
 
 await File.WriteAllTextAsync(
     Path.Combine(path, "eos_achievers.md"),
-    eosTable.FormatTable(filteredList.Where(x => x.EOS_Progressed > 0).OrderByDescending(x => x.EOS_Progressed).ThenBy(x => x.Name))
+    eosTable.FormatTable(items.Where(x => x.EOS_Progressed > 0).OrderByDescending(x => x.EOS_Progressed).ThenBy(x => x.Name))
 );
 
 await File.WriteAllTextAsync(
     Path.Combine(path, "eos_completers.md"),
-    eosCompletersTable.FormatTable(filteredList.Where(x => x.EOS_Progressed > 0).OrderByDescending(x => x.EOS_Completed_Percentage).ThenBy(x => x.Name))
+    eosCompletersTable.FormatTable(items.Where(x => x.EOS_Progressed > 0).OrderByDescending(x => x.EOS_Completed_Percentage).ThenBy(x => x.Name))
 );
 
 // Stats
