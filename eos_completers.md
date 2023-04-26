@@ -41,8 +41,8 @@
 | 99 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.41% |
 | 99 | [Potion Permit](games/p/potion_permit.md) | 0.41% |
 | 101 | [Godlike Burger](games/g/godlike_burger.md) | 0.38% |
-| 103 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
-| 103 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
+| 102 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
+| 102 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
 | 105 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.36% |
 | 106 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.35% |
 | 108 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.32% |
