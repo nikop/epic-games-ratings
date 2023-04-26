@@ -1,5 +1,5 @@
 # Aven Colony
-Rating: 4.20 (Ranked 799)  
+Rating: 4.20 (Ranked 800)  
 Number of Ratings: 2,200  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Amazing Storytelling): 119  (Ranked 298)  

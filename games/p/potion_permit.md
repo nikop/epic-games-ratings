@@ -1,5 +1,5 @@
 # Potion Permit
-Rating: 3.78 (Ranked 899)  
+Rating: 3.78 (Ranked 900)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 66  (Ranked 363)  
 Sum: 66 (Ranked 417)  

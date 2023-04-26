@@ -1,18 +1,18 @@
 # Salt and Sacrifice
-Rating: 4.31 (Ranked 745)  
+Rating: 4.31 (Ranked 746)  
 Number of Ratings: 2,205  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 925  (Ranked 139)  
 Sum: 1,895 (Ranked 186)  
 Diff (max vs sum): -47
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,561 (Ranked 62)  
+Progressed: 63,563 (Ranked 62)  
 Completed: 1,139 (1.79%) (Ranked 54)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 63,547 | 1,138 |
-| 2023-04-26 | 63,561 | 1,139 |
+| 2023-04-26 | 63,563 | 1,139 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

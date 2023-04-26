@@ -1,17 +1,17 @@
 # NBA 2K21
-Rating: 4.39 (Ranked 673)  
+Rating: 4.39 (Ranked 674)  
 Number of Ratings: 43,722  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 11,639  (Ranked 29)  
-Sum: 88,089 (Ranked 14)  
+Sum: 88,092 (Ranked 14)  
 Diff (max vs sum): 15
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 11,639 |
 | This game has Quickly Understood Controls | 10,756 |
-| This game has Diverse Characters | 10,412 |
-| This game has Competitive Players | 10,403 |
+| This game has Diverse Characters | 10,414 |
+| This game has Competitive Players | 10,404 |
 | This game is Extremely Fun | 10,169 |
 | This game is Highly Recommended | 9,473 |
 | This game has Amazing Storytelling | 9,470 |
@@ -126,4 +126,4 @@ Diff (max vs sum): 15
 | 2023-04-23 | 4.39 | - | 11,639 | 88,067 |
 | 2023-04-24 | 4.39 | - | 11,639 | 88,070 |
 | 2023-04-25 | 4.39 | - | 11,639 | 88,085 |
-| 2023-04-26 | 4.39 | - | 11,639 | 88,089 |
+| 2023-04-26 | 4.39 | - | 11,639 | 88,092 |

@@ -24,7 +24,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 173
+      "Count": 174
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -192,6 +192,11 @@
     {
       "Time": "2023-04-26T18:03:17.997633+00:00",
       "NumProgressed": 474978,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-04-26T19:03:18.63502+00:00",
+      "NumProgressed": 474984,
       "NumCompleted": 4
     }
   ],
@@ -1609,19 +1614,25 @@
       "Rating": 4.45,
       "NumberOfAwards": 1627,
       "NumberOfAwardsMax": 229
+    },
+    {
+      "Time": "2023-04-26T18:58:35.711333+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 1628,
+      "NumberOfAwardsMax": 229
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 4,
-  "EOS_Progressed": 474978,
-  "LastUpdate_Achievements": "2023-04-26T18:03:17.9976337+00:00",
-  "LastUpdate_Ratings": "2023-04-26T17:58:31.6581662+00:00",
-  "LastChanged_Achievements": "2023-04-26T18:03:17.9976325+00:00",
-  "LastChanged": "2023-04-25T19:58:29.4129386+00:00",
+  "EOS_Progressed": 474984,
+  "LastUpdate_Achievements": "2023-04-26T19:03:18.6350207+00:00",
+  "LastUpdate_Ratings": "2023-04-26T18:58:35.7113335+00:00",
+  "LastChanged_Achievements": "2023-04-26T19:03:18.6350192+00:00",
+  "LastChanged": "2023-04-26T18:58:35.7113327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 229,
-  "NumberOfAwards": 1627,
+  "NumberOfAwards": 1628,
   "NumberOfRatings": 1225,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_Progress": 25,

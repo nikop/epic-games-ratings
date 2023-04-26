@@ -1,5 +1,5 @@
 # Mortal Shell
-Rating: 4.26 (Ranked 768)  
+Rating: 4.26 (Ranked 769)  
 Number of Ratings: 213  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  

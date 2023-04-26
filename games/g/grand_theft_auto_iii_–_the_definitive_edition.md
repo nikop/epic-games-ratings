@@ -1,17 +1,17 @@
 # Grand Theft Auto III – The Definitive Edition
-Rating: 4.15 (Ranked 833)  
+Rating: 4.15 (Ranked 834)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,720 (Ranked 119)  
+Progressed: 4,721 (Ranked 119)  
 Completed: 24 (0.51%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 4,711 | 23 |
-| 2023-04-26 | 4,720 | 24 |
+| 2023-04-26 | 4,721 | 24 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -20,7 +20,7 @@
 | 18 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.32% |
 | 19 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.15% |
 | 20 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 6.06% |
-| 21 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
+| 21 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.92% |
 | 22 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
 | 23 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.61% |
 | 24 | [Bugsnax](games/b/bugsnax.md) | 4.59% |
@@ -72,8 +72,8 @@
 | 70 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.24% |
 | 71 | [Late Shift](games/l/late_shift.md) | 1.22% |
 | 72 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.19% |
-| 73 | [Ten Dates](games/t/ten_dates.md) | 1.07% |
-| 74 | [Dungeons 3](games/d/dungeons_3.md) | 0.96% |
+| 73 | [Ten Dates](games/t/ten_dates.md) | 1.06% |
+| 74 | [Dungeons 3](games/d/dungeons_3.md) | 0.97% |
 | 75 | [Five Dates](games/f/five_dates.md) | 0.91% |
 | 76 | [Sable](games/s/sable.md) | 0.90% |
 | 77 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
@@ -117,11 +117,11 @@
 | 115 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
 | 115 | [Aegis Descent](games/a/aegis_descent.md) | 0.29% |
 | 117 | [Despot's Game](games/d/despot's_game.md) | 0.28% |
-| 118 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.27% |
 | 118 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
 | 118 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.27% |
 | 118 | [Wildermyth](games/w/wildermyth.md) | 0.27% |
-| 122 | [Circus Electrique](games/c/circus_electrique.md) | 0.26% |
+| 121 | [Circus Electrique](games/c/circus_electrique.md) | 0.26% |
+| 121 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.26% |
 | 123 | [Blanc](games/b/blanc.md) | 0.23% |
 | 123 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
 | 125 | [Against the Storm](games/a/against_the_storm.md) | 0.21% |

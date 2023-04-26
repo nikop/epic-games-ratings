@@ -1,15 +1,15 @@
 # Core
-Rating: 4.38 (Ranked 684)  
+Rating: 4.37 (Ranked 693)  
 Number of Ratings: 1,439  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 725  (Ranked 152)  
-Sum: 1,886 (Ranked 188)  
+Sum: 1,887 (Ranked 188)  
 Diff (max vs sum): -36
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 725 |
-| This game is Great for Beginners | 132 |
+| This game is Great for Beginners | 133 |
 | This game has Diverse Characters | 129 |
 | This game is Highly Recommended | 120 |
 | This game has Quickly Understood Controls | 119 |
@@ -120,3 +120,4 @@ Diff (max vs sum): -36
 | 2023-04-23 | 4.37 | - | 724 | 1,884 |
 | 2023-04-24 | 4.38 | - | 724 | 1,884 |
 | 2023-04-25 | 4.38 | - | 725 | 1,886 |
+| 2023-04-26 | 4.37 | - | 725 | 1,887 |

@@ -1,5 +1,5 @@
 # Wreckfest
-Rating: 3.95 (Ranked 882)  
+Rating: 3.95 (Ranked 883)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  

@@ -1,5 +1,5 @@
 # Parkitect
-Rating: 4.34 (Ranked 719)  
+Rating: 4.34 (Ranked 720)  
 Number of Ratings: 21  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  

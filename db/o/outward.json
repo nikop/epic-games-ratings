@@ -89,6 +89,11 @@
       "Time": "2023-04-26T16:00:22.6437245+00:00",
       "NumProgressed": 2270,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-26T19:02:17.5953523+00:00",
+      "NumProgressed": 2271,
+      "NumCompleted": 1
     }
   ],
   "RatingHistory": [
@@ -486,10 +491,10 @@
   ],
   "EOS_Completed_Percentage": 0.04,
   "EOS_Completed": 1,
-  "EOS_Progressed": 2270,
-  "LastUpdate_Achievements": "2023-04-26T18:02:16.2290058+00:00",
-  "LastUpdate_Ratings": "2023-04-26T17:57:46.2584252+00:00",
-  "LastChanged_Achievements": "2023-04-26T18:02:16.2290052+00:00",
+  "EOS_Progressed": 2271,
+  "LastUpdate_Achievements": "2023-04-26T19:02:17.5953542+00:00",
+  "LastUpdate_Ratings": "2023-04-26T18:57:50.8830087+00:00",
+  "LastChanged_Achievements": "2023-04-26T19:02:17.5953515+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "MaxAwardTitle": "Amazing Characters",

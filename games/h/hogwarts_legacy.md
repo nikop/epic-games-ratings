@@ -2,7 +2,7 @@
 Rating: 4.78 (Ranked 100)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 17,993  (Ranked 19)  
-Sum: 32,558 (Ranked 34)  
+Sum: 32,563 (Ranked 34)  
 Diff (max vs sum): -15
 ## Popularity (Based on EOS Achievements)
 Progressed: 264,117 (Ranked 37)  
@@ -18,7 +18,7 @@ Completed: 333 (0.13%) (Ranked 139)
 | This game has Inclusive Character Customization | 17,993 |
 | This game has Great Boss Battles | 8,326 |
 | This game is Extremely Fun | 699 |
-| This game is Great for Beginners | 682 |
+| This game is Great for Beginners | 687 |
 | This game has Diverse Characters | 672 |
 | This game is Relaxing | 665 |
 | This game has Amazing Storytelling | 659 |
@@ -63,4 +63,4 @@ Completed: 333 (0.13%) (Ranked 139)
 | 2023-04-23 | 4.78 | 17,904 | 32,300 |
 | 2023-04-24 | 4.78 | 17,949 | 32,423 |
 | 2023-04-25 | 4.78 | 17,993 | 32,527 |
-| 2023-04-26 | 4.78 | 17,993 | 32,558 |
+| 2023-04-26 | 4.78 | 17,993 | 32,563 |
