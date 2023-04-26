@@ -5,7 +5,7 @@
 | 16 | [Scorn](games/s/scorn.md) | 7.08% |
 | 21 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
 | 24 | [Bugsnax](games/b/bugsnax.md) | 4.58% |
-| 29 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
+| 29 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 37 | [Lamentum](games/l/lamentum.md) | 3.02% |
 | 39 | [MultiVersus](games/m/multiversus.md) | 2.97% |
 | 41 | [Destiny 2](games/d/destiny_2.md) | 2.92% |
