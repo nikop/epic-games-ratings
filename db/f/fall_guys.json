@@ -6,7 +6,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 137773
+      "Count": 137799
     },
     {
       "Text": "This game is Relaxing",
@@ -48,7 +48,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 109128
+      "Count": 109143
     },
     {
       "Text": "This game has Amazing Characters",
@@ -129,6 +129,11 @@
       "Time": "2023-04-26T00:05:50.8432643+00:00",
       "NumProgressed": 32208275,
       "NumCompleted": 28566
+    },
+    {
+      "Time": "2023-04-26T02:08:01.4763622+00:00",
+      "NumProgressed": 32209403,
+      "NumCompleted": 28569
     }
   ],
   "RatingHistory": [
@@ -4273,19 +4278,25 @@
       "Rating": 4.53,
       "NumberOfAwards": 1291630,
       "NumberOfAwardsMax": 137773
+    },
+    {
+      "Time": "2023-04-26T02:00:29.8424529+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 1291671,
+      "NumberOfAwardsMax": 137799
     }
   ],
   "EOS_Completed_Percentage": 0.09,
-  "EOS_Completed": 28566,
-  "EOS_Progressed": 32208275,
-  "LastUpdate_Achievements": "2023-04-26T00:05:50.8432647+00:00",
-  "LastUpdate_Ratings": "2023-04-25T23:59:45.4819352+00:00",
-  "LastChanged_Achievements": "2023-04-26T00:05:50.8432637+00:00",
-  "LastChanged": "2023-04-25T14:57:26.8417401+00:00",
+  "EOS_Completed": 28569,
+  "EOS_Progressed": 32209403,
+  "LastUpdate_Achievements": "2023-04-26T02:08:01.476363+00:00",
+  "LastUpdate_Ratings": "2023-04-26T02:00:29.8424538+00:00",
+  "LastChanged_Achievements": "2023-04-26T02:08:01.4763614+00:00",
+  "LastChanged": "2023-04-26T02:00:29.8424526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.7143696+00:00",
   "MaxAwardTitle": "Great for Beginners",
-  "NumberOfAwardsMax": 137773,
-  "NumberOfAwards": 1291630,
+  "NumberOfAwardsMax": 137799,
+  "NumberOfAwards": 1291671,
   "NumberOfRatings": 1046587,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_Progress": 1,

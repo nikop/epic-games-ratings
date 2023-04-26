@@ -34,7 +34,7 @@
 | 91 | [Ghostrunner](games/g/ghostrunner.md) | 0.54% |
 | 92 | [Grindstone](games/g/grindstone.md) | 0.52% |
 | 93 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.49% |
-| 95 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
+| 94 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 96 | [Aragami 2](games/a/aragami_2.md) | 0.45% |
 | 96 | [Tails of Iron](games/t/tails_of_iron.md) | 0.45% |
 | 98 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.44% |
@@ -97,13 +97,13 @@
 | 159 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.05% |
 | 161 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
 | 161 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.04% |
+| 161 | [Dead Island 2](games/d/dead_island_2.md) | 0.04% |
 | 161 | [High On Life](games/h/high_on_life.md) | 0.04% |
 | 161 | [House Party](games/h/house_party.md) | 0.04% |
 | 161 | [Outward](games/o/outward.md) | 0.04% |
 | 161 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
-| 167 | [Dead Island 2](games/d/dead_island_2.md) | 0.03% |
-| 167 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
-| 167 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
+| 168 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
+| 168 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
 | 170 | [Disco Elysium](games/d/disco_elysium.md) | 0.02% |
 | 170 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.02% |
 | 170 | [Good Company](games/g/good_company.md) | 0.02% |

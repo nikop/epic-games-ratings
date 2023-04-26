@@ -900,14 +900,20 @@
       "Rating": 4.65,
       "NumberOfAwards": 384,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-04-26T01:57:22.3930555+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 384,
+      "NumberOfAwardsMax": 48
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T00:03:02.5913926+00:00",
-  "LastUpdate_Ratings": "2023-04-25T23:57:19.943529+00:00",
-  "LastChanged": "2023-04-24T01:59:02.8457589+00:00",
+  "LastUpdate_Achievements": "2023-04-26T02:04:30.2994381+00:00",
+  "LastUpdate_Ratings": "2023-04-26T01:57:22.3930562+00:00",
+  "LastChanged": "2023-04-26T01:57:22.3930554+00:00",
   "MaxAwardTitle": "Amazing Storytelling",
   "NumberOfAwardsMax": 48,
   "NumberOfAwards": 384,
@@ -916,7 +922,7 @@
   "Ranking_EOS_Progress": 354,
   "Ranking_PopularitySum": 303,
   "Ranking_Popularity": 387,
-  "Ranking_Rating": 286,
-  "Rating": 4.65,
+  "Ranking_Rating": 270,
+  "Rating": 4.66,
   "FirstSeen": "2022-07-22T20:20:29.0491506+00:00"
 }

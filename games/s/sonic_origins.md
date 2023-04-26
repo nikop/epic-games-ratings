@@ -1,5 +1,5 @@
 # Sonic Origins
-Rating: 4.57 (Ranked 425)  
+Rating: 4.57 (Ranked 426)  
 Number of Ratings: 154  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 116  (Ranked 301)  

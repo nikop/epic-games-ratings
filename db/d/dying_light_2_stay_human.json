@@ -72,7 +72,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 413
+      "Count": 415
     }
   ],
   "EosHistory": [
@@ -134,6 +134,11 @@
     {
       "Time": "2023-04-26T00:07:41.928669+00:00",
       "NumProgressed": 529585,
+      "NumCompleted": 45
+    },
+    {
+      "Time": "2023-04-26T02:10:19.5781787+00:00",
+      "NumProgressed": 529664,
       "NumCompleted": 45
     }
   ],
@@ -3789,19 +3794,25 @@
       "Rating": 4.58,
       "NumberOfAwards": 15225,
       "NumberOfAwardsMax": 6604
+    },
+    {
+      "Time": "2023-04-26T02:02:32.6541151+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 15227,
+      "NumberOfAwardsMax": 6604
     }
   ],
   "EOS_Completed_Percentage": 0.01,
   "EOS_Completed": 45,
-  "EOS_Progressed": 529585,
-  "LastUpdate_Achievements": "2023-04-26T00:07:41.9286694+00:00",
-  "LastUpdate_Ratings": "2023-04-26T00:01:27.6471326+00:00",
-  "LastChanged_Achievements": "2023-04-26T00:07:41.9286683+00:00",
-  "LastChanged": "2023-04-25T16:09:07.9996146+00:00",
+  "EOS_Progressed": 529664,
+  "LastUpdate_Achievements": "2023-04-26T02:10:19.5781795+00:00",
+  "LastUpdate_Ratings": "2023-04-26T02:02:32.6541157+00:00",
+  "LastChanged_Achievements": "2023-04-26T02:10:19.578178+00:00",
+  "LastChanged": "2023-04-26T02:02:32.6541149+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 6604,
-  "NumberOfAwards": 15225,
+  "NumberOfAwards": 15227,
   "NumberOfRatings": 7305,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_Progress": 22,
