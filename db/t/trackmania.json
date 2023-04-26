@@ -72,7 +72,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1096
+      "Count": 1097
     }
   ],
   "EosHistory": [],
@@ -4134,17 +4134,23 @@
       "Rating": 4.67,
       "NumberOfAwards": 21150,
       "NumberOfAwardsMax": 2466
+    },
+    {
+      "Time": "2023-04-26T09:58:46.4107767+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 21151,
+      "NumberOfAwardsMax": 2466
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T09:04:53.6053893+00:00",
-  "LastUpdate_Ratings": "2023-04-26T08:58:41.2060655+00:00",
-  "LastChanged": "2023-04-25T23:58:36.9687292+00:00",
+  "LastUpdate_Achievements": "2023-04-26T10:05:03.4302958+00:00",
+  "LastUpdate_Ratings": "2023-04-26T09:58:46.4107773+00:00",
+  "LastChanged": "2023-04-26T09:58:46.4107766+00:00",
   "MaxAwardTitle": "Great for Quick Sessions",
   "NumberOfAwardsMax": 2466,
-  "NumberOfAwards": 21150,
+  "NumberOfAwards": 21151,
   "NumberOfRatings": 6825,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_Progress": 356,

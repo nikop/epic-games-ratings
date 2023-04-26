@@ -31,7 +31,7 @@
 | 88 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
 | 89 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.64% |
 | 90 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
-| 92 | [Ghostrunner](games/g/ghostrunner.md) | 0.54% |
+| 92 | [Ghostrunner](games/g/ghostrunner.md) | 0.53% |
 | 93 | [Grindstone](games/g/grindstone.md) | 0.52% |
 | 94 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.49% |
 | 95 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
@@ -43,7 +43,7 @@
 | 101 | [Godlike Burger](games/g/godlike_burger.md) | 0.38% |
 | 102 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 102 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
-| 105 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.36% |
+| 104 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.36% |
 | 106 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.35% |
 | 108 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.32% |
 | 108 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |

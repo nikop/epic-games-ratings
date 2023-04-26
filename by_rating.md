@@ -126,7 +126,7 @@
 | 114 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 7,714 | 39 |
 | 114 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 488 |
 | 126 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 462 |
-| 126 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,773 | 63 |
+| 126 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,779 | 63 |
 | 126 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,163 | 83 |
 | 126 | [Diabotical](games/d/diabotical.md) | 4.75 | 265 | 233 |
 | 126 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 385 | 200 |
@@ -252,7 +252,7 @@
 | 230 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 84 | 338 |
 | 230 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.68 | 1,461 | 113 |
 | 230 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 0 | 488 |
-| 253 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 639 | 159 |
+| 253 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 639 | 160 |
 | 253 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 72 | 352 |
 | 253 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,479 | 48 |
 | 253 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 488 |
@@ -412,7 +412,6 @@
 | 408 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 87 | 335 |
 | 408 | [Breathedge](games/b/breathedge.md) | 4.58 | 0 | 488 |
 | 408 | [Deceive Inc.](games/d/deceive_inc..md) | 4.58 | 0 | 488 |
-| 408 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 6,633 | 46 |
 | 408 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.58 | 24,345 | 16 |
 | 408 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.58 | 0 | 488 |
 | 408 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 36 | 416 |
@@ -426,22 +425,23 @@
 | 408 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,002 | 52 |
 | 408 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 204 | 252 |
 | 408 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,323 | 21 |
-| 427 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.57 | 0 | 488 |
-| 427 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 0 | 488 |
-| 427 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 0 | 488 |
-| 427 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 150 | 280 |
-| 427 | [Everything](games/e/everything.md) | 4.57 | 0 | 488 |
-| 427 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 0 | 488 |
-| 427 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 35 | 423 |
-| 427 | [Hob](games/h/hob.md) | 4.57 | 0 | 488 |
-| 427 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,181 | 42 |
-| 427 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,009 | 86 |
-| 427 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 116 | 301 |
-| 427 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,001 | 18 |
-| 427 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,695 | 108 |
-| 427 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.57 | 0 | 488 |
-| 427 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 75 | 346 |
-| 427 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 0 | 488 |
+| 426 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.57 | 0 | 488 |
+| 426 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 0 | 488 |
+| 426 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 0 | 488 |
+| 426 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 150 | 280 |
+| 426 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 6,633 | 46 |
+| 426 | [Everything](games/e/everything.md) | 4.57 | 0 | 488 |
+| 426 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 0 | 488 |
+| 426 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 35 | 423 |
+| 426 | [Hob](games/h/hob.md) | 4.57 | 0 | 488 |
+| 426 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,181 | 42 |
+| 426 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,009 | 86 |
+| 426 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 116 | 301 |
+| 426 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,001 | 18 |
+| 426 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,695 | 108 |
+| 426 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.57 | 0 | 488 |
+| 426 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 75 | 346 |
+| 426 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 0 | 488 |
 | 443 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 0 | 488 |
 | 443 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 0 | 488 |
 | 443 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 0 | 488 |
@@ -535,7 +535,7 @@
 | 527 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 0 | 488 |
 | 527 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 96 | 323 |
 | 527 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 0 | 488 |
-| 527 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 639 | 159 |
+| 527 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 640 | 159 |
 | 527 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.50 | 0 | 488 |
 | 527 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 751 | 147 |
 | 527 | [Tails of Iron](games/t/tails_of_iron.md) | 4.50 | 0 | 488 |
