@@ -13,13 +13,13 @@
 | 11 | [Time Loader](games/t/time_loader.md) | 8.51% |
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
-| 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.53% |
+| 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.52% |
 | 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.43% |
 | 16 | [Scorn](games/s/scorn.md) | 7.07% |
 | 17 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.96% |
 | 18 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.32% |
 | 19 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.15% |
-| 20 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 6.06% |
+| 20 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.88% |
 | 21 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.92% |
 | 22 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
 | 23 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.61% |
@@ -70,10 +70,10 @@
 | 68 | [Trifox](games/t/trifox.md) | 1.28% |
 | 69 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.27% |
 | 70 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.24% |
-| 71 | [Late Shift](games/l/late_shift.md) | 1.22% |
+| 71 | [Late Shift](games/l/late_shift.md) | 1.21% |
 | 72 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.19% |
 | 73 | [Ten Dates](games/t/ten_dates.md) | 1.06% |
-| 74 | [Dungeons 3](games/d/dungeons_3.md) | 0.96% |
+| 74 | [Dungeons 3](games/d/dungeons_3.md) | 0.97% |
 | 75 | [Five Dates](games/f/five_dates.md) | 0.91% |
 | 76 | [Sable](games/s/sable.md) | 0.90% |
 | 77 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
@@ -108,11 +108,11 @@
 | 106 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
 | 107 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.32% |
 | 107 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
-| 109 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
-| 109 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.31% |
-| 109 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.31% |
-| 109 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 109 | [The Surge](games/t/the_surge.md) | 0.31% |
+| 107 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.32% |
+| 110 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
+| 110 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.31% |
+| 110 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 110 | [The Surge](games/t/the_surge.md) | 0.31% |
 | 114 | [Tchia](games/t/tchia.md) | 0.30% |
 | 115 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
 | 115 | [Aegis Descent](games/a/aegis_descent.md) | 0.29% |

@@ -6,7 +6,7 @@
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 453
+      "Count": 456
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -730,17 +730,23 @@
       "Rating": 4.86,
       "NumberOfAwards": 616,
       "NumberOfAwardsMax": 453
+    },
+    {
+      "Time": "2023-04-26T20:59:48.1943932+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 619,
+      "NumberOfAwardsMax": 456
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T20:04:15.8180494+00:00",
-  "LastUpdate_Ratings": "2023-04-26T19:59:01.5414524+00:00",
-  "LastChanged": "2023-04-25T06:58:06.0274367+00:00",
+  "LastUpdate_Achievements": "2023-04-26T21:04:57.5075279+00:00",
+  "LastUpdate_Ratings": "2023-04-26T20:59:48.1943938+00:00",
+  "LastChanged": "2023-04-26T20:59:48.194393+00:00",
   "MaxAwardTitle": "Impact the Story",
-  "NumberOfAwardsMax": 453,
-  "NumberOfAwards": 616,
+  "NumberOfAwardsMax": 456,
+  "NumberOfAwards": 619,
   "NumberOfRatings": 663,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_Progress": 357,

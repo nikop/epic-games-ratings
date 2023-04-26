@@ -1,5 +1,6 @@
 | Game | Rating | Ranking | Awards | Ranking |
 | ---- | ------ | ------- | ------ | ------- |
+| [Spaceman Defender](games/s/spaceman_defender.md) | - | - | 0 | - |
 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.40 | 662 | 0 | 488 |
 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | - | - | 0 | - |
 | [The Ultimate Trivia Challenge](games/t/the_ultimate_trivia_challenge.md) | - | - | 0 | - |

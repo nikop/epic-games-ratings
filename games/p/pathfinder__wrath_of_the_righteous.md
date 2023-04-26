@@ -1,25 +1,25 @@
 # Pathfinder: Wrath of the Righteous
-Rating: 4.76 (Ranked 114)  
+Rating: 4.76 (Ranked 115)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 1,616  (Ranked 110)  
-Sum: 6,540 (Ranked 108)  
+Sum: 6,541 (Ranked 108)  
 Diff (max vs sum): 2
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,467 (Ranked 106)  
+Progressed: 8,468 (Ranked 106)  
 Completed: 0 (0.00%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 8,450 | 0 |
-| 2023-04-26 | 8,467 | 0 |
+| 2023-04-26 | 8,468 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,616 |
 | This game is Extremely Fun | 608 |
 | This game is Highly Recommended | 599 |
-| This game has Amazing Characters | 595 |
+| This game has Amazing Characters | 596 |
 | This game has Diverse Characters | 582 |
 | This game has Amazing Storytelling | 580 |
 | This game has Quickly Understood Controls | 543 |
@@ -121,3 +121,4 @@ Completed: 0 (0.00%) (Ranked 188)
 | 2023-04-23 | 4.76 | - | 1,614 | 6,526 |
 | 2023-04-24 | 4.76 | - | 1,615 | 6,537 |
 | 2023-04-25 | 4.76 | - | 1,616 | 6,540 |
+| 2023-04-26 | 4.76 | - | 1,616 | 6,541 |

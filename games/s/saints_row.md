@@ -1,18 +1,18 @@
 # Saints Row
-Rating: 3.78 (Ranked 900)  
+Rating: 3.78 (Ranked 901)  
 Number of Ratings: 22,103  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 1,021  (Ranked 130)  
 Sum: 9,033 (Ranked 81)  
 Diff (max vs sum): 49
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,816 (Ranked 88)  
+Progressed: 18,834 (Ranked 88)  
 Completed: 1 (0.01%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 18,550 | 1 |
-| 2023-04-26 | 18,816 | 1 |
+| 2023-04-26 | 18,834 | 1 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

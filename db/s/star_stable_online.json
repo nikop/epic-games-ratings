@@ -60,7 +60,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 76
+      "Count": 77
     },
     {
       "Text": "This game has Diverse Characters",
@@ -991,17 +991,23 @@
       "Rating": 4.42,
       "NumberOfAwards": 901,
       "NumberOfAwardsMax": 122
+    },
+    {
+      "Time": "2023-04-26T20:58:07.1226038+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 902,
+      "NumberOfAwardsMax": 122
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T20:02:07.6519493+00:00",
-  "LastUpdate_Ratings": "2023-04-26T19:57:40.5886339+00:00",
-  "LastChanged": "2023-04-26T06:58:29.0314372+00:00",
+  "LastUpdate_Achievements": "2023-04-26T21:03:13.3041262+00:00",
+  "LastUpdate_Ratings": "2023-04-26T20:58:07.1226043+00:00",
+  "LastChanged": "2023-04-26T20:58:07.1226036+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 122,
-  "NumberOfAwards": 901,
+  "NumberOfAwards": 902,
   "NumberOfRatings": 317,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_Progress": 357,
