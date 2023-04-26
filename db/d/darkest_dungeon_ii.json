@@ -6,7 +6,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 6479
+      "Count": 6483
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -18,7 +18,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1207
+      "Count": 1209
     },
     {
       "Text": "This game is Extremely Fun",
@@ -36,7 +36,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1112
+      "Count": 1114
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3670,23 +3670,43 @@
       "Rating": 4.67,
       "NumberOfAwards": 16500,
       "NumberOfAwardsMax": 6479
+    },
+    {
+      "Time": "2023-04-26T08:02:24.9486898+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 16502,
+      "NumberOfAwardsMax": 6479
+    },
+    {
+      "Time": "2023-04-26T09:01:30.5895219+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 16504,
+      "NumberOfAwardsMax": 6479
+    },
+    {
+      "Time": "2023-04-26T12:02:58.9430402+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 16508,
+      "NumberOfAwardsMax": 6483
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged_Achievements": "2023-04-25T19:58:30.566594+00:00",
-  "LastChanged": "2023-04-25T14:57:59.668812+00:00",
+  "LastUpdate_Achievements": "2023-04-26T14:08:00.9695763+00:00",
+  "LastUpdate_Ratings": "2023-04-26T14:01:27.3813974+00:00",
+  "LastChanged_Achievements": "2023-04-26T14:08:00.9695762+00:00",
+  "LastChanged": "2023-04-26T12:02:58.9430401+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
-  "NumberOfAwardsMax": 6479,
-  "NumberOfAwards": 16500,
+  "MaxAwardTitle": "Character Customization",
+  "NumberOfAwardsMax": 6483,
+  "NumberOfAwards": 16508,
   "NumberOfRatings": 7767,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_Progress": 356,
   "Ranking_PopularitySum": 57,
   "Ranking_Popularity": 48,
-  "Ranking_Rating": 254,
+  "Ranking_Rating": 253,
   "Rating": 4.67,
-  "MaxAwardTitle": "Character Customization"
+  "FirstSeen": "2022-07-22T20:21:45.4172836+00:00"
 }

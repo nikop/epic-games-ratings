@@ -24,7 +24,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 495
+      "Count": 496
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -104,6 +104,96 @@
       "Time": "2023-04-25T19:58:34.8646196+00:00",
       "NumProgressed": 161588,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-04-25T20:49:37.3004732+00:00",
+      "NumProgressed": 161596,
+      "NumCompleted": 39
+    },
+    {
+      "Time": "2023-04-25T21:07:55.4922657+00:00",
+      "NumProgressed": 161600,
+      "NumCompleted": 39
+    },
+    {
+      "Time": "2023-04-25T22:08:49.1917326+00:00",
+      "NumProgressed": 161614,
+      "NumCompleted": 39
+    },
+    {
+      "Time": "2023-04-25T23:06:13.6715016+00:00",
+      "NumProgressed": 161627,
+      "NumCompleted": 39
+    },
+    {
+      "Time": "2023-04-26T00:05:49.1507634+00:00",
+      "NumProgressed": 161633,
+      "NumCompleted": 39
+    },
+    {
+      "Time": "2023-04-26T02:07:59.4898155+00:00",
+      "NumProgressed": 161646,
+      "NumCompleted": 39
+    },
+    {
+      "Time": "2023-04-26T03:08:23.0761538+00:00",
+      "NumProgressed": 161656,
+      "NumCompleted": 39
+    },
+    {
+      "Time": "2023-04-26T04:05:51.8595263+00:00",
+      "NumProgressed": 161669,
+      "NumCompleted": 39
+    },
+    {
+      "Time": "2023-04-26T05:09:00.5090874+00:00",
+      "NumProgressed": 161679,
+      "NumCompleted": 39
+    },
+    {
+      "Time": "2023-04-26T06:10:03.20764+00:00",
+      "NumProgressed": 161691,
+      "NumCompleted": 39
+    },
+    {
+      "Time": "2023-04-26T07:07:55.7315541+00:00",
+      "NumProgressed": 161699,
+      "NumCompleted": 39
+    },
+    {
+      "Time": "2023-04-26T08:07:58.3904478+00:00",
+      "NumProgressed": 161705,
+      "NumCompleted": 39
+    },
+    {
+      "Time": "2023-04-26T09:06:15.5897625+00:00",
+      "NumProgressed": 161716,
+      "NumCompleted": 39
+    },
+    {
+      "Time": "2023-04-26T10:06:24.5855445+00:00",
+      "NumProgressed": 161730,
+      "NumCompleted": 39
+    },
+    {
+      "Time": "2023-04-26T11:07:56.7525182+00:00",
+      "NumProgressed": 161742,
+      "NumCompleted": 39
+    },
+    {
+      "Time": "2023-04-26T12:09:05.3986431+00:00",
+      "NumProgressed": 161753,
+      "NumCompleted": 40
+    },
+    {
+      "Time": "2023-04-26T13:16:18.1875713+00:00",
+      "NumProgressed": 161775,
+      "NumCompleted": 40
+    },
+    {
+      "Time": "2023-04-26T14:06:14.548632+00:00",
+      "NumProgressed": 161789,
+      "NumCompleted": 40
     }
   ],
   "RatingHistory": [
@@ -962,23 +1052,31 @@
       "Rating": 4.66,
       "NumberOfAwards": 4630,
       "NumberOfAwardsMax": 547
+    },
+    {
+      "Time": "2023-04-26T08:59:55.7534116+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4631,
+      "NumberOfAwardsMax": 547
     }
   ],
   "EOS_Completed_Percentage": 0.02,
-  "EOS_Completed": 39,
-  "EOS_Progressed": 161588,
-  "LastChanged_Achievements": "2023-04-25T19:58:34.864619+00:00",
-  "LastChanged": "2023-04-25T17:57:37.0052709+00:00",
+  "EOS_Completed": 40,
+  "EOS_Progressed": 161789,
+  "LastUpdate_Achievements": "2023-04-26T14:06:14.5486324+00:00",
+  "LastUpdate_Ratings": "2023-04-26T13:59:51.797644+00:00",
+  "LastChanged_Achievements": "2023-04-26T14:06:14.5486315+00:00",
+  "LastChanged": "2023-04-26T08:59:55.7534114+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
+  "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 547,
-  "NumberOfAwards": 4630,
+  "NumberOfAwards": 4631,
   "NumberOfRatings": 495,
-  "Ranking_EOS_Completed": 167,
+  "Ranking_EOS_Completed": 171,
   "Ranking_EOS_Progress": 49,
   "Ranking_PopularitySum": 125,
   "Ranking_Popularity": 172,
-  "Ranking_Rating": 271,
+  "Ranking_Rating": 270,
   "Rating": 4.66,
-  "MaxAwardTitle": "Great for Beginners"
+  "FirstSeen": "2022-07-22T20:21:59.8684253+00:00"
 }

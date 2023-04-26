@@ -1,10 +1,10 @@
 # Dandara: Trials of Fear Edition
-Rating: 4.56 (Ranked 441)  
+Rating: 4.56 (Ranked 443)  
 Number of Ratings: 164  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 50  (Ranked 381)  
+Max (Great Boss Battles): 50  (Ranked 382)  
 Sum: 50 (Ranked 428)  
-Diff (max vs sum): -47
+Diff (max vs sum): -46
 ## Awards
 | Award | Count |
 | ----- | ----- |

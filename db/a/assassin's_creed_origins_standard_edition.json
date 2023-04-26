@@ -6,7 +6,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2973
+      "Count": 2975
     },
     {
       "Text": "This game is Relaxing",
@@ -30,13 +30,13 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 200
+      "Count": 201
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 215
+      "Count": 216
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2292,21 +2292,41 @@
       "Rating": 4.68,
       "NumberOfAwards": 4992,
       "NumberOfAwardsMax": 2973
+    },
+    {
+      "Time": "2023-04-25T21:57:50.4557203+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 4994,
+      "NumberOfAwardsMax": 2975
+    },
+    {
+      "Time": "2023-04-26T09:57:49.8570905+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 4995,
+      "NumberOfAwardsMax": 2975
+    },
+    {
+      "Time": "2023-04-26T13:57:38.0836229+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 4996,
+      "NumberOfAwardsMax": 2975
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T09:57:06.6158522+00:00",
-  "FirstSeen": "2022-07-22T20:17:42.6567846+00:00",
-  "NumberOfAwardsMax": 2973,
-  "NumberOfAwards": 4992,
+  "LastUpdate_Achievements": "2023-04-26T14:03:44.88715+00:00",
+  "LastUpdate_Ratings": "2023-04-26T13:57:38.0836232+00:00",
+  "LastChanged": "2023-04-26T13:57:38.0836227+00:00",
+  "MaxAwardTitle": "Great Boss Battles",
+  "NumberOfAwardsMax": 2975,
+  "NumberOfAwards": 4996,
   "NumberOfRatings": 3843,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_Progress": 356,
   "Ranking_PopularitySum": 122,
   "Ranking_Popularity": 87,
-  "Ranking_Rating": 232,
+  "Ranking_Rating": 230,
   "Rating": 4.68,
-  "MaxAwardTitle": "Great Boss Battles"
+  "FirstSeen": "2022-07-22T20:17:42.6567846+00:00"
 }

@@ -1,16 +1,17 @@
 # Potion Permit
-Rating: 3.78 (Ranked 897)  
+Rating: 3.78 (Ranked 899)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 66  (Ranked 362)  
-Sum: 66 (Ranked 416)  
+Max (Character Customization): 66  (Ranked 363)  
+Sum: 66 (Ranked 417)  
 Diff (max vs sum): -54
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,221 (Ranked 150)  
-Completed: 5 (0.41%) (Ranked 96)  
+Progressed: 1,222 (Ranked 151)  
+Completed: 5 (0.41%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 1,221 | 5 |
+| 2023-04-26 | 1,222 | 5 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

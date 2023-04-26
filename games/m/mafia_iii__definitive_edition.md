@@ -1,15 +1,15 @@
 # Mafia III: Definitive Edition
-Rating: 4.20 (Ranked 798)  
+Rating: 4.20 (Ranked 799)  
 Number of Ratings: 1,289  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Amazing Characters): 73  (Ranked 350)  
-Sum: 473 (Ranked 290)  
-Diff (max vs sum): 60
+Max (Amazing Characters): 74  (Ranked 348)  
+Sum: 474 (Ranked 290)  
+Diff (max vs sum): 58
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 307 |
-| This game has Amazing Characters | 73 |
+| This game has Amazing Characters | 74 |
 | This game has Amazing Storytelling | 69 |
 | This game is Relaxing | 60 |
 | This game is Extremely Fun | 60 |
@@ -122,3 +122,4 @@ Diff (max vs sum): 60
 | 2023-04-20 | 4.20 | - | 72 | 471 |
 | 2023-04-22 | 4.20 | - | 72 | 472 |
 | 2023-04-23 | 4.20 | - | 73 | 473 |
+| 2023-04-26 | 4.20 | - | 74 | 474 |

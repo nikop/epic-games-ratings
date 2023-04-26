@@ -1,5 +1,5 @@
 # Metro 2033 Redux
-Rating: 4.69 (Ranked 208)  
+Rating: 4.69 (Ranked 207)  
 Number of Ratings: 5,684  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 1,171  (Ranked 122)  

@@ -1,9 +1,9 @@
 # Control
-Rating: 4.60 (Ranked 373)  
+Rating: 4.60 (Ranked 376)  
 Number of Ratings: 16,122  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 8,240  (Ranked 37)  
-Sum: 12,291 (Ranked 69)  
+Sum: 12,292 (Ranked 69)  
 Diff (max vs sum): -32
 ## Awards
 | Award | Count |
@@ -14,7 +14,7 @@ Diff (max vs sum): -32
 | This game has Challenging Combat | 483 |
 | This game is Extremely Fun | 478 |
 | This game has Diverse Characters | 473 |
-| This game has Quickly Understood Controls | 466 |
+| This game has Quickly Understood Controls | 467 |
 | This game has Amazing Characters | 453 |
 | This game has Unique Visuals | 453 |
 | This game has a Creative Community | 260 |
@@ -111,3 +111,4 @@ Diff (max vs sum): -32
 | 2023-04-23 | 4.60 | - | 8,234 | 12,283 |
 | 2023-04-24 | 4.60 | - | 8,239 | 12,290 |
 | 2023-04-25 | 4.60 | - | 8,240 | 12,291 |
+| 2023-04-26 | 4.60 | - | 8,240 | 12,292 |

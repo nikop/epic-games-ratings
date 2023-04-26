@@ -1,31 +1,32 @@
 # Dying Light Enhanced Edition
-Rating: 4.58 (Ranked 407)  
+Rating: 4.58 (Ranked 408)  
 Number of Ratings: 3,181  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 23,774  (Ranked 16)  
-Sum: 42,262 (Ranked 25)  
+Max (Character Customization): 24,345  (Ranked 16)  
+Sum: 43,439 (Ranked 25)  
 Diff (max vs sum): -9
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,294,202 (Ranked 4)  
-Completed: 6 (0.00%) (Ranked 184)  
+Progressed: 3,305,248 (Ranked 4)  
+Completed: 6 (0.00%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-04-25 | 3,294,202 | 6 |
+| 2023-04-25 | 3,296,074 | 6 |
+| 2023-04-26 | 3,305,248 | 6 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 23,774 |
-| This game has Great Boss Battles | 9,333 |
-| This game is Great for Beginners | 1,268 |
-| This game has Diverse Characters | 1,140 |
-| This game is Highly Recommended | 1,085 |
-| This game is Extremely Fun | 1,007 |
-| This game is Relaxing | 984 |
-| This game has Amazing Storytelling | 980 |
-| This game has Amazing Characters | 961 |
-| This game has Quickly Understood Controls | 936 |
-| This game has a Creative Community | 794 |
+| This game has Inclusive Character Customization | 24,345 |
+| This game has Great Boss Battles | 9,644 |
+| This game is Great for Beginners | 1,314 |
+| This game has Diverse Characters | 1,175 |
+| This game is Highly Recommended | 1,109 |
+| This game is Extremely Fun | 1,044 |
+| This game is Relaxing | 1,020 |
+| This game has Amazing Storytelling | 1,012 |
+| This game has Amazing Characters | 996 |
+| This game has Quickly Understood Controls | 966 |
+| This game has a Creative Community | 814 |
 | This game has Obsessive Gameplay | 355 |
 | This game has Unique Visuals | 122 |
 ## Ratings History
@@ -141,4 +142,5 @@ Completed: 6 (0.00%) (Ranked 184)
 | 2023-04-22 | 4.57 | - | 22,288 | 39,340 |
 | 2023-04-23 | 4.57 | - | 23,152 | 40,840 |
 | 2023-04-24 | 4.58 | - | 23,774 | 42,031 |
-| 2023-04-25 | 4.58 | - | 23,774 | 42,262 |
+| 2023-04-25 | 4.58 | - | 24,345 | 43,144 |
+| 2023-04-26 | 4.58 | - | 24,345 | 43,439 |

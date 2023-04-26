@@ -12,6 +12,46 @@
       "Time": "2023-04-25T18:57:45.2996082+00:00",
       "NumProgressed": 968,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-04-25T20:51:26.8555333+00:00",
+      "NumProgressed": 972,
+      "NumCompleted": 73
+    },
+    {
+      "Time": "2023-04-25T23:07:31.6054501+00:00",
+      "NumProgressed": 973,
+      "NumCompleted": 73
+    },
+    {
+      "Time": "2023-04-26T02:09:35.0344432+00:00",
+      "NumProgressed": 973,
+      "NumCompleted": 74
+    },
+    {
+      "Time": "2023-04-26T06:11:53.4535668+00:00",
+      "NumProgressed": 974,
+      "NumCompleted": 74
+    },
+    {
+      "Time": "2023-04-26T08:09:31.0995598+00:00",
+      "NumProgressed": 975,
+      "NumCompleted": 74
+    },
+    {
+      "Time": "2023-04-26T11:09:29.8515676+00:00",
+      "NumProgressed": 976,
+      "NumCompleted": 74
+    },
+    {
+      "Time": "2023-04-26T13:18:01.5709835+00:00",
+      "NumProgressed": 977,
+      "NumCompleted": 74
+    },
+    {
+      "Time": "2023-04-26T14:07:35.1887313+00:00",
+      "NumProgressed": 978,
+      "NumCompleted": 74
     }
   ],
   "RatingHistory": [
@@ -22,16 +62,18 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 7.54,
-  "EOS_Completed": 73,
-  "EOS_Progressed": 968,
-  "LastChanged_Achievements": "2023-04-25T19:58:56.956449+00:00",
+  "EOS_Completed_Percentage": 7.57,
+  "EOS_Completed": 74,
+  "EOS_Progressed": 978,
+  "LastUpdate_Achievements": "2023-04-26T14:07:35.1887316+00:00",
+  "LastUpdate_Ratings": "2023-04-26T14:01:05.0979318+00:00",
+  "LastChanged_Achievements": "2023-04-26T14:07:35.1887307+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
-  "FirstSeen": "2023-02-19T22:57:55.1416262+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_Progress": 156
+  "Ranking_EOS_Completed": 14,
+  "Ranking_EOS_Progress": 156,
+  "FirstSeen": "2023-02-19T22:57:55.1416262+00:00"
 }

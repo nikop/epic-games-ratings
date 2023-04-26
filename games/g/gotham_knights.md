@@ -1,24 +1,25 @@
 # Gotham Knights
-Rating: 4.17 (Ranked 820)  
+Rating: 4.17 (Ranked 822)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 2,153  (Ranked 99)  
-Sum: 3,559 (Ranked 138)  
-Diff (max vs sum): -39
+Sum: 3,561 (Ranked 139)  
+Diff (max vs sum): -40
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,353 (Ranked 64)  
-Completed: 85 (0.14%) (Ranked 131)  
+Progressed: 60,365 (Ranked 64)  
+Completed: 85 (0.14%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-04-25 | 60,353 | 85 |
+| 2023-04-25 | 60,355 | 85 |
+| 2023-04-26 | 60,365 | 85 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,153 |
 | This game is Relaxing | 185 |
-| This game is Extremely Fun | 183 |
+| This game is Extremely Fun | 184 |
 | This game has Quickly Understood Controls | 179 |
-| This game has Diverse Characters | 176 |
+| This game has Diverse Characters | 177 |
 | This game is Highly Recommended | 174 |
 | This game has Amazing Characters | 172 |
 | This game is Great for Beginners | 169 |
@@ -93,3 +94,4 @@ Completed: 85 (0.14%) (Ranked 131)
 | 2023-04-22 | 4.17 | 2,148 | 3,545 |
 | 2023-04-23 | 4.17 | 2,148 | 3,554 |
 | 2023-04-24 | 4.17 | 2,153 | 3,559 |
+| 2023-04-26 | 4.17 | 2,153 | 3,561 |

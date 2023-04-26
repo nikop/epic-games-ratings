@@ -1,5 +1,5 @@
 # Heroes & Generals WWII
-Rating: 4.23 (Ranked 787)  
+Rating: 4.23 (Ranked 788)  
 Number of Ratings: 4,634  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 983  (Ranked 136)  

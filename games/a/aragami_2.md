@@ -1,17 +1,18 @@
 # Aragami 2
-Rating: 4.57 (Ranked 425)  
+Rating: 4.57 (Ranked 427)  
 Number of Ratings: 88  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,033 (Ranked 79)  
-Completed: 141 (0.45%) (Ranked 93)  
+Progressed: 31,071 (Ranked 79)  
+Completed: 141 (0.45%) (Ranked 96)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-04-25 | 31,033 | 141 |
+| 2023-04-25 | 31,044 | 141 |
+| 2023-04-26 | 31,071 | 141 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

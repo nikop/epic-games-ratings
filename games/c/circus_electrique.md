@@ -1,13 +1,13 @@
 # Circus Electrique
-Rating: 4.16 (Ranked 825)  
+Rating: 4.16 (Ranked 827)  
 Number of Ratings: 22  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 390 (Ranked 185)  
-Completed: 1 (0.26%) (Ranked 118)  
+Progressed: 390 (Ranked 186)  
+Completed: 1 (0.26%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

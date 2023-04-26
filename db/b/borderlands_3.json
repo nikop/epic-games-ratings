@@ -6,67 +6,67 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 108009
+      "Count": 108077
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 26242
+      "Count": 26266
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 24279
+      "Count": 24294
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 24101
+      "Count": 24117
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 24358
+      "Count": 24381
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 23457
+      "Count": 23475
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 23049
+      "Count": 23065
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 23340
+      "Count": 23353
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 22718
+      "Count": 22733
     },
     {
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 22353
+      "Count": 22367
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 16330
+      "Count": 16343
     }
   ],
   "EosHistory": [],
@@ -4738,21 +4738,77 @@
       "Rating": 4.69,
       "NumberOfAwards": 338236,
       "NumberOfAwardsMax": 108009
+    },
+    {
+      "Time": "2023-04-25T23:01:07.7056612+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 338304,
+      "NumberOfAwardsMax": 108077
+    },
+    {
+      "Time": "2023-04-26T00:00:51.5646947+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 338319,
+      "NumberOfAwardsMax": 108077
+    },
+    {
+      "Time": "2023-04-26T03:02:11.6038413+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 338357,
+      "NumberOfAwardsMax": 108077
+    },
+    {
+      "Time": "2023-04-26T05:02:19.5586093+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 338380,
+      "NumberOfAwardsMax": 108077
+    },
+    {
+      "Time": "2023-04-26T07:01:46.0319711+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 338396,
+      "NumberOfAwardsMax": 108077
+    },
+    {
+      "Time": "2023-04-26T09:01:05.6326448+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 338414,
+      "NumberOfAwardsMax": 108077
+    },
+    {
+      "Time": "2023-04-26T10:01:09.9037548+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 338429,
+      "NumberOfAwardsMax": 108077
+    },
+    {
+      "Time": "2023-04-26T12:02:25.4409679+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 338458,
+      "NumberOfAwardsMax": 108077
+    },
+    {
+      "Time": "2023-04-26T13:09:33.4189193+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 338471,
+      "NumberOfAwardsMax": 108077
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T10:56:52.7925932+00:00",
-  "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
-  "NumberOfAwardsMax": 108009,
-  "NumberOfAwards": 338236,
+  "LastUpdate_Achievements": "2023-04-26T14:07:34.1061174+00:00",
+  "LastUpdate_Ratings": "2023-04-26T14:01:04.1487177+00:00",
+  "LastChanged": "2023-04-26T13:09:33.4189192+00:00",
+  "MaxAwardTitle": "Character Customization",
+  "NumberOfAwardsMax": 108077,
+  "NumberOfAwards": 338471,
   "NumberOfRatings": 151211,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_Progress": 356,
   "Ranking_PopularitySum": 9,
   "Ranking_Popularity": 8,
-  "Ranking_Rating": 208,
+  "Ranking_Rating": 207,
   "Rating": 4.69,
-  "MaxAwardTitle": "Character Customization"
+  "FirstSeen": "2022-07-22T20:17:32.2549878+00:00"
 }

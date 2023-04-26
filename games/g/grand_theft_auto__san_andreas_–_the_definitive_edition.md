@@ -1,16 +1,17 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
-Rating: 4.58 (Ranked 407)  
+Rating: 4.58 (Ranked 408)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,314 (Ranked 108)  
-Completed: 13 (0.18%) (Ranked 125)  
+Progressed: 7,330 (Ranked 108)  
+Completed: 13 (0.18%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-04-25 | 7,314 | 13 |
+| 2023-04-25 | 7,317 | 13 |
+| 2023-04-26 | 7,330 | 13 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

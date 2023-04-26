@@ -1,9 +1,9 @@
 # The Escapists 2
-Rating: 4.58 (Ranked 407)  
+Rating: 4.58 (Ranked 408)  
 Number of Ratings: 1,941  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Extremely Fun): 50  (Ranked 381)  
-Sum: 395 (Ranked 299)  
+Max (Extremely Fun): 50  (Ranked 382)  
+Sum: 395 (Ranked 300)  
 Diff (max vs sum): 82
 ## Awards
 | Award | Count |

@@ -6,7 +6,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 4773
+      "Count": 4779
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -42,7 +42,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 420
+      "Count": 422
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -72,7 +72,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 379
+      "Count": 380
     },
     {
       "Text": "This game has a Creative Community",
@@ -3444,21 +3444,41 @@
       "Rating": 4.75,
       "NumberOfAwards": 11576,
       "NumberOfAwardsMax": 4773
+    },
+    {
+      "Time": "2023-04-26T09:00:51.0095132+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 11577,
+      "NumberOfAwardsMax": 4773
+    },
+    {
+      "Time": "2023-04-26T10:00:55.2447692+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 11583,
+      "NumberOfAwardsMax": 4779
+    },
+    {
+      "Time": "2023-04-26T13:09:14.0113612+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 11585,
+      "NumberOfAwardsMax": 4779
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T18:57:37.4166377+00:00",
-  "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "NumberOfAwardsMax": 4773,
-  "NumberOfAwards": 11576,
+  "LastUpdate_Achievements": "2023-04-26T14:07:17.014472+00:00",
+  "LastUpdate_Ratings": "2023-04-26T14:00:50.3127293+00:00",
+  "LastChanged": "2023-04-26T13:09:14.0113611+00:00",
+  "MaxAwardTitle": "Character Customization",
+  "NumberOfAwardsMax": 4779,
+  "NumberOfAwards": 11585,
   "NumberOfRatings": 5481,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_Progress": 356,
   "Ranking_PopularitySum": 73,
   "Ranking_Popularity": 63,
   "Ranking_Rating": 126,
   "Rating": 4.75,
-  "MaxAwardTitle": "Character Customization"
+  "FirstSeen": "2022-07-22T20:22:24.693286+00:00"
 }

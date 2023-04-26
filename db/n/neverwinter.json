@@ -18,7 +18,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 162
+      "Count": 163
     },
     {
       "Text": "This game has Diverse Characters",
@@ -36,7 +36,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 171
+      "Count": 172
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1567,21 +1567,35 @@
       "Rating": 4.29,
       "NumberOfAwards": 2057,
       "NumberOfAwardsMax": 671
+    },
+    {
+      "Time": "2023-04-26T03:58:55.3325382+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 2058,
+      "NumberOfAwardsMax": 671
+    },
+    {
+      "Time": "2023-04-26T09:59:10.5889491+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 2059,
+      "NumberOfAwardsMax": 671
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T19:57:14.7013796+00:00",
-  "FirstSeen": "2022-07-22T20:17:12.0635613+00:00",
+  "LastUpdate_Achievements": "2023-04-26T14:05:21.3903115+00:00",
+  "LastUpdate_Ratings": "2023-04-26T13:59:02.7533172+00:00",
+  "LastChanged": "2023-04-26T09:59:10.5889489+00:00",
+  "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 671,
-  "NumberOfAwards": 2057,
+  "NumberOfAwards": 2059,
   "NumberOfRatings": 1084,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_Progress": 356,
   "Ranking_PopularitySum": 182,
   "Ranking_Popularity": 156,
   "Ranking_Rating": 755,
   "Rating": 4.29,
-  "MaxAwardTitle": "Character Customization"
+  "FirstSeen": "2022-07-22T20:17:12.0635613+00:00"
 }

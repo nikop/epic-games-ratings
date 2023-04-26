@@ -1,16 +1,17 @@
 # PC Building Simulator 2
-Rating: 4.61 (Ranked 348)  
+Rating: 4.61 (Ranked 349)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 589  (Ranked 164)  
-Sum: 4,482 (Ranked 127)  
+Sum: 4,484 (Ranked 127)  
 Diff (max vs sum): 37
 ## Popularity (Based on EOS Achievements)
-Progressed: 156,927 (Ranked 50)  
-Completed: 100 (0.06%) (Ranked 152)  
+Progressed: 157,022 (Ranked 50)  
+Completed: 100 (0.06%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-04-25 | 156,927 | 100 |
+| 2023-04-25 | 156,953 | 100 |
+| 2023-04-26 | 157,022 | 100 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -20,7 +21,7 @@ Completed: 100 (0.06%) (Ranked 152)
 | This game is Extremely Fun | 541 |
 | This game has Quickly Understood Controls | 534 |
 | This game is Highly Recommended | 504 |
-| This game has Amazing Storytelling | 465 |
+| This game has Amazing Storytelling | 467 |
 | This game has a Creative Community | 375 |
 | This game has Amazing Characters | 334 |
 | This game has Obsessive Gameplay | 171 |
@@ -67,3 +68,4 @@ Completed: 100 (0.06%) (Ranked 152)
 | 2023-04-22 | 4.61 | 588 | 4,477 |
 | 2023-04-23 | 4.61 | 588 | 4,480 |
 | 2023-04-25 | 4.61 | 589 | 4,482 |
+| 2023-04-26 | 4.61 | 589 | 4,484 |

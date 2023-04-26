@@ -1,16 +1,17 @@
 # ANNO Mutationem
-Rating: 4.55 (Ranked 464)  
+Rating: 4.55 (Ranked 465)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 591 (Ranked 175)  
-Completed: 0 (0.00%) (Ranked 184)  
+Progressed: 593 (Ranked 176)  
+Completed: 0 (0.00%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 591 | 0 |
+| 2023-04-26 | 593 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

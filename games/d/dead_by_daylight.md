@@ -1,29 +1,30 @@
 # Dead by Daylight
-Rating: 4.52 (Ranked 496)  
+Rating: 4.52 (Ranked 498)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 26,770  (Ranked 15)  
-Sum: 216,601 (Ranked 12)  
+Max (Diverse Characters): 26,787  (Ranked 15)  
+Sum: 216,768 (Ranked 12)  
 Diff (max vs sum): 3
 ## Popularity (Based on EOS Achievements)
-Progressed: 362,157 (Ranked 32)  
-Completed: 34 (0.01%) (Ranked 175)  
+Progressed: 364,117 (Ranked 32)  
+Completed: 34 (0.01%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-04-25 | 362,157 | 34 |
+| 2023-04-25 | 362,649 | 34 |
+| 2023-04-26 | 364,117 | 34 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 26,770 |
-| This game has Competitive Players | 25,082 |
-| This game is Highly Recommended | 24,652 |
-| This game is Extremely Fun | 24,573 |
-| This game has Amazing Characters | 24,490 |
-| This game has Quickly Understood Controls | 24,483 |
-| This game has Challenging Combat | 23,680 |
-| This game has Amazing Storytelling | 22,317 |
-| This game has a Competitive Community | 20,554 |
+| This game has Diverse Characters | 26,787 |
+| This game has Competitive Players | 25,096 |
+| This game is Highly Recommended | 24,674 |
+| This game is Extremely Fun | 24,593 |
+| This game has Amazing Characters | 24,512 |
+| This game has Quickly Understood Controls | 24,500 |
+| This game has Challenging Combat | 23,699 |
+| This game has Amazing Storytelling | 22,329 |
+| This game has a Competitive Community | 20,578 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
 ## Ratings History
@@ -121,3 +122,4 @@ Completed: 34 (0.01%) (Ranked 175)
 | 2023-04-23 | 4.52 | - | 26,703 | 216,247 |
 | 2023-04-24 | 4.52 | - | 26,742 | 216,454 |
 | 2023-04-25 | 4.52 | - | 26,770 | 216,601 |
+| 2023-04-26 | 4.52 | - | 26,787 | 216,768 |

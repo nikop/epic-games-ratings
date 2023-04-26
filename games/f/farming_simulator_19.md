@@ -1,9 +1,9 @@
 # Farming Simulator 19
-Rating: 4.71 (Ranked 178)  
+Rating: 4.71 (Ranked 177)  
 Number of Ratings: 16,706  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 6,174  (Ranked 51)  
-Sum: 46,877 (Ranked 23)  
+Sum: 46,887 (Ranked 23)  
 Diff (max vs sum): 28
 ## Awards
 | Award | Count |
@@ -13,9 +13,9 @@ Diff (max vs sum): 28
 | This game is Educational | 5,631 |
 | This game has Quickly Understood Controls | 5,539 |
 | This game is Extremely Fun | 5,205 |
-| This game has Amazing Storytelling | 5,070 |
-| This game is Highly Recommended | 5,064 |
-| This game has Amazing Characters | 4,637 |
+| This game has Amazing Storytelling | 5,073 |
+| This game is Highly Recommended | 5,067 |
+| This game has Amazing Characters | 4,641 |
 | This game has a Creative Community | 3,817 |
 | This game has Obsessive Gameplay | 3,740 |
 | This game has Easy Combat | 3,347 |
@@ -122,4 +122,5 @@ Diff (max vs sum): 28
 | 2023-04-22 | 4.71 | - | 6,152 | 46,811 |
 | 2023-04-23 | 4.71 | - | 6,160 | 46,828 |
 | 2023-04-24 | 4.71 | - | 6,168 | 46,853 |
-| 2023-04-25 | 4.71 | - | 6,174 | 46,877 |
+| 2023-04-25 | 4.71 | - | 6,174 | 46,880 |
+| 2023-04-26 | 4.71 | - | 6,174 | 46,887 |

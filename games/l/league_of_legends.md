@@ -1,19 +1,19 @@
 # League of Legends
-Rating: 4.21 (Ranked 794)  
+Rating: 4.21 (Ranked 795)  
 Number of Ratings: 10,796  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 12,694  (Ranked 26)  
-Sum: 26,147 (Ranked 43)  
+Max (Character Customization): 12,714  (Ranked 26)  
+Sum: 26,179 (Ranked 43)  
 Diff (max vs sum): -17
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 12,694 |
-| This game has Diverse Characters | 2,706 |
+| This game has Inclusive Character Customization | 12,714 |
+| This game has Diverse Characters | 2,715 |
 | This game has Challenging Combat | 2,386 |
 | This game has Amazing Characters | 2,175 |
 | This game has Competitive Players | 2,157 |
-| This game has Amazing Storytelling | 2,037 |
+| This game has Amazing Storytelling | 2,040 |
 | This game has a Competitive Community | 1,992 |
 | This game has Obsessive Gameplay | 403 |
 | This game has Quickly Understood Controls | 260 |
@@ -129,4 +129,5 @@ Diff (max vs sum): -17
 | 2023-04-22 | 4.21 | - | 12,651 | 26,012 |
 | 2023-04-23 | 4.21 | - | 12,651 | 26,053 |
 | 2023-04-24 | 4.21 | - | 12,670 | 26,108 |
-| 2023-04-25 | 4.21 | - | 12,694 | 26,147 |
+| 2023-04-25 | 4.21 | - | 12,694 | 26,156 |
+| 2023-04-26 | 4.21 | - | 12,714 | 26,179 |

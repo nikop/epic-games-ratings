@@ -24,7 +24,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 421
+      "Count": 423
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2903,21 +2903,29 @@
       "Rating": 4.3,
       "NumberOfAwards": 6815,
       "NumberOfAwardsMax": 3573
+    },
+    {
+      "Time": "2023-04-26T10:02:59.3543853+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 6817,
+      "NumberOfAwardsMax": 3573
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-24T20:57:10.1264905+00:00",
-  "FirstSeen": "2022-07-22T20:18:31.4925823+00:00",
+  "LastUpdate_Achievements": "2023-04-26T14:09:27.3841499+00:00",
+  "LastUpdate_Ratings": "2023-04-26T14:02:47.1135231+00:00",
+  "LastChanged": "2023-04-26T10:02:59.3543852+00:00",
+  "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 3573,
-  "NumberOfAwards": 6815,
+  "NumberOfAwards": 6817,
   "NumberOfRatings": 5442,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_Progress": 356,
   "Ranking_PopularitySum": 104,
   "Ranking_Popularity": 78,
   "Ranking_Rating": 748,
   "Rating": 4.3,
-  "MaxAwardTitle": "Great Boss Battles"
+  "FirstSeen": "2022-07-22T20:18:31.4925823+00:00"
 }

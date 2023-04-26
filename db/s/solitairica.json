@@ -762,16 +762,18 @@
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
+  "LastUpdate_Achievements": "2023-04-26T14:07:12.4459557+00:00",
+  "LastUpdate_Ratings": "2023-04-26T14:00:46.1215156+00:00",
   "LastChanged": "2023-04-25T19:58:15.164647+00:00",
-  "FirstSeen": "2022-07-22T20:20:54.4785127+00:00",
+  "MaxAwardTitle": "Quickly Understood Controls",
   "NumberOfAwardsMax": 82,
   "NumberOfAwards": 593,
   "NumberOfRatings": 474,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_Progress": 356,
   "Ranking_PopularitySum": 276,
   "Ranking_Popularity": 340,
-  "Ranking_Rating": 541,
+  "Ranking_Rating": 542,
   "Rating": 4.49,
-  "MaxAwardTitle": "Quickly Understood Controls"
+  "FirstSeen": "2022-07-22T20:20:54.4785127+00:00"
 }

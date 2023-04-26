@@ -6,67 +6,67 @@
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 135896
+      "Count": 136163
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 74241
+      "Count": 74377
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 12698
+      "Count": 12720
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 12562
+      "Count": 12583
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 12628
+      "Count": 12657
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 12336
+      "Count": 12364
     },
     {
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 12076
+      "Count": 12099
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 12831
+      "Count": 12852
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 12754
+      "Count": 12782
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 13138
+      "Count": 13170
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 12735
+      "Count": 12763
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -78,13 +78,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 12171
+      "Count": 12204
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 9225
+      "Count": 9250
     }
   ],
   "EosHistory": [],
@@ -4937,21 +4937,71 @@
       "Rating": 4.89,
       "NumberOfAwards": 345291,
       "NumberOfAwardsMax": 135896
+    },
+    {
+      "Time": "2023-04-25T22:00:53.2106603+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 345558,
+      "NumberOfAwardsMax": 136163
+    },
+    {
+      "Time": "2023-04-25T23:00:09.1579696+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 345694,
+      "NumberOfAwardsMax": 136163
+    },
+    {
+      "Time": "2023-04-26T02:00:40.611554+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 345751,
+      "NumberOfAwardsMax": 136163
+    },
+    {
+      "Time": "2023-04-26T03:00:54.6912807+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 345804,
+      "NumberOfAwardsMax": 136163
+    },
+    {
+      "Time": "2023-04-26T05:01:02.2853456+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 345825,
+      "NumberOfAwardsMax": 136163
+    },
+    {
+      "Time": "2023-04-26T06:01:32.2406165+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 345850,
+      "NumberOfAwardsMax": 136163
+    },
+    {
+      "Time": "2023-04-26T07:00:34.2800653+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 345895,
+      "NumberOfAwardsMax": 136163
+    },
+    {
+      "Time": "2023-04-26T08:00:45.5023478+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 345984,
+      "NumberOfAwardsMax": 136163
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T07:57:36.8684134+00:00",
-  "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "NumberOfAwardsMax": 135896,
-  "NumberOfAwards": 345291,
+  "LastUpdate_Achievements": "2023-04-26T14:06:26.2799638+00:00",
+  "LastUpdate_Ratings": "2023-04-26T14:00:02.9815988+00:00",
+  "LastChanged": "2023-04-26T08:00:45.5023477+00:00",
+  "MaxAwardTitle": "Impact the Story",
+  "NumberOfAwardsMax": 136163,
+  "NumberOfAwards": 345984,
   "NumberOfRatings": 102658,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_Progress": 356,
   "Ranking_PopularitySum": 8,
   "Ranking_Popularity": 7,
   "Ranking_Rating": 12,
   "Rating": 4.89,
-  "MaxAwardTitle": "Impact the Story"
+  "FirstSeen": "2022-07-22T20:23:15.0342451+00:00"
 }

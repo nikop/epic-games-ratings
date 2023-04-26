@@ -1,31 +1,32 @@
 # Dying Light 2 Stay Human
-Rating: 4.58 (Ranked 407)  
+Rating: 4.58 (Ranked 408)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 6,604  (Ranked 46)  
-Sum: 15,225 (Ranked 59)  
+Max (Character Customization): 6,633  (Ranked 46)  
+Sum: 15,286 (Ranked 59)  
 Diff (max vs sum): -13
 ## Popularity (Based on EOS Achievements)
-Progressed: 529,359 (Ranked 22)  
-Completed: 44 (0.01%) (Ranked 175)  
+Progressed: 530,118 (Ranked 22)  
+Completed: 45 (0.01%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-04-25 | 529,359 | 44 |
+| 2023-04-25 | 529,550 | 45 |
+| 2023-04-26 | 530,118 | 45 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 6,604 |
-| This game has Great Boss Battles | 3,868 |
+| This game has Inclusive Character Customization | 6,633 |
+| This game has Great Boss Battles | 3,885 |
 | This game is Great for Beginners | 574 |
-| This game is Highly Recommended | 564 |
+| This game is Highly Recommended | 568 |
 | This game has Amazing Characters | 555 |
 | This game is Extremely Fun | 543 |
-| This game has Quickly Understood Controls | 534 |
+| This game has Quickly Understood Controls | 538 |
 | This game has Diverse Characters | 533 |
-| This game is Relaxing | 520 |
-| This game has Amazing Storytelling | 517 |
-| This game has a Creative Community | 413 |
+| This game is Relaxing | 523 |
+| This game has Amazing Storytelling | 519 |
+| This game has a Creative Community | 415 |
 | This game has Obsessive Gameplay | 230 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -134,3 +135,4 @@ Completed: 44 (0.01%) (Ranked 175)
 | 2023-04-23 | 4.57 | - | 6,535 | 15,063 |
 | 2023-04-24 | 4.58 | - | 6,571 | 15,130 |
 | 2023-04-25 | 4.58 | - | 6,604 | 15,225 |
+| 2023-04-26 | 4.58 | - | 6,633 | 15,286 |

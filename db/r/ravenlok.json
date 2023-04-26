@@ -2,11 +2,26 @@
   "ID": "8c32c11719374c049cac0b07d2a338a0",
   "Name": "Ravenlok",
   "Tags": [],
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T20:45:40.9336133+00:00",
+      "NumProgressed": 50,
+      "NumCompleted": 6
+    },
+    {
+      "Time": "2023-04-25T23:03:24.4362779+00:00",
+      "NumProgressed": 51,
+      "NumCompleted": 6
+    }
+  ],
   "RatingHistory": [],
-  "EOS_Completed_Percentage": 0,
-  "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_Progress": 321
+  "EOS_Completed_Percentage": 11.76,
+  "EOS_Completed": 6,
+  "EOS_Progressed": 51,
+  "LastUpdate_Achievements": "2023-04-26T14:03:22.3512415+00:00",
+  "LastUpdate_Ratings": "2023-04-26T13:57:17.1241971+00:00",
+  "LastChanged_Achievements": "2023-04-26T14:03:22.35124+00:00",
+  "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
+  "Ranking_EOS_Completed": 7,
+  "Ranking_EOS_Progress": 260
 }

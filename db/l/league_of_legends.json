@@ -6,13 +6,13 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 12694
+      "Count": 12714
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 2706
+      "Count": 2715
     },
     {
       "Text": "This game has Challenging Combat",
@@ -42,7 +42,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2037
+      "Count": 2040
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4279,21 +4279,41 @@
       "Rating": 4.21,
       "NumberOfAwards": 26147,
       "NumberOfAwardsMax": 12694
+    },
+    {
+      "Time": "2023-04-25T23:02:07.9179374+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 26156,
+      "NumberOfAwardsMax": 12694
+    },
+    {
+      "Time": "2023-04-26T02:03:01.5860536+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 26176,
+      "NumberOfAwardsMax": 12714
+    },
+    {
+      "Time": "2023-04-26T06:04:21.8175261+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 26179,
+      "NumberOfAwardsMax": 12714
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T20:04:26.8271464+00:00",
-  "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
-  "NumberOfAwardsMax": 12694,
-  "NumberOfAwards": 26147,
+  "LastUpdate_Achievements": "2023-04-26T14:08:40.1752319+00:00",
+  "LastUpdate_Ratings": "2023-04-26T14:02:02.6600701+00:00",
+  "LastChanged": "2023-04-26T06:04:21.8175259+00:00",
+  "MaxAwardTitle": "Character Customization",
+  "NumberOfAwardsMax": 12714,
+  "NumberOfAwards": 26179,
   "NumberOfRatings": 10796,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_Progress": 356,
   "Ranking_PopularitySum": 43,
   "Ranking_Popularity": 26,
-  "Ranking_Rating": 794,
+  "Ranking_Rating": 795,
   "Rating": 4.21,
-  "MaxAwardTitle": "Character Customization"
+  "FirstSeen": "2022-07-22T20:32:19.1268612+00:00"
 }

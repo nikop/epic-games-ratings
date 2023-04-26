@@ -18,13 +18,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 662
+      "Count": 663
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 653
+      "Count": 655
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -42,13 +42,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 673
+      "Count": 675
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 653
+      "Count": 654
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3527,21 +3527,47 @@
       "Rating": 4.44,
       "NumberOfAwards": 5232,
       "NumberOfAwardsMax": 673
+    },
+    {
+      "Time": "2023-04-25T20:42:12.6916359+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5234,
+      "NumberOfAwardsMax": 675
+    },
+    {
+      "Time": "2023-04-25T23:00:52.3106831+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 5236,
+      "NumberOfAwardsMax": 675
+    },
+    {
+      "Time": "2023-04-26T04:00:38.9239455+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 5237,
+      "NumberOfAwardsMax": 675
+    },
+    {
+      "Time": "2023-04-26T05:01:59.3702884+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 5238,
+      "NumberOfAwardsMax": 675
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T13:04:29.2626827+00:00",
-  "FirstSeen": "2022-07-22T20:18:07.3905482+00:00",
-  "NumberOfAwardsMax": 673,
-  "NumberOfAwards": 5232,
+  "LastUpdate_Achievements": "2023-04-26T14:07:16.2434459+00:00",
+  "LastUpdate_Ratings": "2023-04-26T14:00:49.6448495+00:00",
+  "LastChanged": "2023-04-26T05:01:59.3702882+00:00",
+  "MaxAwardTitle": "Amazing Storytelling",
+  "NumberOfAwardsMax": 675,
+  "NumberOfAwards": 5238,
   "NumberOfRatings": 12290,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_Progress": 356,
   "Ranking_PopularitySum": 118,
   "Ranking_Popularity": 155,
-  "Ranking_Rating": 618,
-  "Rating": 4.44,
-  "MaxAwardTitle": "Amazing Storytelling"
+  "Ranking_Rating": 598,
+  "Rating": 4.45,
+  "FirstSeen": "2022-07-22T20:18:07.3905482+00:00"
 }

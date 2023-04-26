@@ -1,17 +1,18 @@
 # Isonzo
-Rating: 4.56 (Ranked 441)  
+Rating: 4.56 (Ranked 443)  
 Number of Ratings: 98  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 30  (Ranked 440)  
 Sum: 232 (Ranked 341)  
 Diff (max vs sum): 99
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,539 (Ranked 114)  
-Completed: 7 (0.13%) (Ranked 135)  
+Progressed: 5,541 (Ranked 114)  
+Completed: 7 (0.13%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 5,539 | 7 |
+| 2023-04-26 | 5,541 | 7 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

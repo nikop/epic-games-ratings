@@ -6,7 +6,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 632
+      "Count": 637
     },
     {
       "Text": "This game has Challenging Combat",
@@ -18,7 +18,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 639
+      "Count": 640
     },
     {
       "Text": "This game has Competitive Players",
@@ -30,7 +30,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 570
+      "Count": 572
     },
     {
       "Text": "This game is Extremely Fun",
@@ -54,7 +54,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 630
+      "Count": 632
     },
     {
       "Text": "This game is Educational",
@@ -2578,21 +2578,47 @@
       "Rating": 4.5,
       "NumberOfAwards": 5950,
       "NumberOfAwardsMax": 639
+    },
+    {
+      "Time": "2023-04-25T23:01:10.902419+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 5952,
+      "NumberOfAwardsMax": 639
+    },
+    {
+      "Time": "2023-04-26T03:02:16.5751876+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 5954,
+      "NumberOfAwardsMax": 639
+    },
+    {
+      "Time": "2023-04-26T10:01:13.1837526+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 5955,
+      "NumberOfAwardsMax": 640
+    },
+    {
+      "Time": "2023-04-26T14:01:07.4793031+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 5960,
+      "NumberOfAwardsMax": 640
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T09:57:45.2236228+00:00",
-  "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
-  "NumberOfAwardsMax": 639,
-  "NumberOfAwards": 5950,
+  "LastUpdate_Achievements": "2023-04-26T14:07:37.8630408+00:00",
+  "LastUpdate_Ratings": "2023-04-26T14:01:07.4793034+00:00",
+  "LastChanged": "2023-04-26T14:01:07.479303+00:00",
+  "MaxAwardTitle": "Quickly Understood Controls",
+  "NumberOfAwardsMax": 640,
+  "NumberOfAwards": 5960,
   "NumberOfRatings": 2871,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_Progress": 356,
   "Ranking_PopularitySum": 112,
   "Ranking_Popularity": 159,
-  "Ranking_Rating": 526,
+  "Ranking_Rating": 527,
   "Rating": 4.5,
-  "MaxAwardTitle": "Quickly Understood Controls"
+  "FirstSeen": "2022-07-22T20:23:01.9832025+00:00"
 }

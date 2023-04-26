@@ -60,7 +60,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 3143
+      "Count": 3147
     }
   ],
   "EosHistory": [],
@@ -3909,21 +3909,29 @@
       "Rating": 4.59,
       "NumberOfAwards": 22890,
       "NumberOfAwardsMax": 3143
+    },
+    {
+      "Time": "2023-04-26T06:05:25.0402397+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 22894,
+      "NumberOfAwardsMax": 3147
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T17:56:53.0306159+00:00",
-  "FirstSeen": "2022-07-22T20:19:14.0161067+00:00",
-  "NumberOfAwardsMax": 3143,
-  "NumberOfAwards": 22890,
+  "LastUpdate_Achievements": "2023-04-26T14:09:30.8922881+00:00",
+  "LastUpdate_Ratings": "2023-04-26T14:02:50.0910867+00:00",
+  "LastChanged": "2023-04-26T06:05:25.0402395+00:00",
+  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwardsMax": 3147,
+  "NumberOfAwards": 22894,
   "NumberOfRatings": 14635,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_Progress": 356,
   "Ranking_PopularitySum": 47,
   "Ranking_Popularity": 84,
-  "Ranking_Rating": 388,
+  "Ranking_Rating": 390,
   "Rating": 4.59,
-  "MaxAwardTitle": "Great for Beginners"
+  "FirstSeen": "2022-07-22T20:19:14.0161067+00:00"
 }

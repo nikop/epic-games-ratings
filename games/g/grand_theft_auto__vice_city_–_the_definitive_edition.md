@@ -1,16 +1,17 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
-Rating: 4.67 (Ranked 254)  
+Rating: 4.67 (Ranked 253)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 26  (Ranked 455)  
 Sum: 26 (Ranked 460)  
 Diff (max vs sum): -5
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,848 (Ranked 113)  
-Completed: 18 (0.31%) (Ranked 106)  
+Progressed: 5,859 (Ranked 113)  
+Completed: 18 (0.31%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-04-25 | 5,848 | 18 |
+| 2023-04-25 | 5,850 | 18 |
+| 2023-04-26 | 5,859 | 18 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

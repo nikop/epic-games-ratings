@@ -1,17 +1,18 @@
 # Insurgency: Sandstorm
-Rating: 4.61 (Ranked 348)  
+Rating: 4.61 (Ranked 349)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 344  (Ranked 208)  
-Sum: 2,579 (Ranked 161)  
+Sum: 2,580 (Ranked 161)  
 Diff (max vs sum): 47
 ## Popularity (Based on EOS Achievements)
-Progressed: 356,967 (Ranked 33)  
-Completed: 2 (0.00%) (Ranked 184)  
+Progressed: 357,289 (Ranked 33)  
+Completed: 2 (0.00%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-04-25 | 356,967 | 2 |
+| 2023-04-25 | 357,042 | 2 |
+| 2023-04-26 | 357,289 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -22,7 +23,7 @@ Completed: 2 (0.00%) (Ranked 184)
 | This game has Amazing Storytelling | 278 |
 | This game has Realistic Visuals | 275 |
 | This game is Highly Recommended | 271 |
-| This game has Amazing Characters | 268 |
+| This game has Amazing Characters | 269 |
 | This game has a Competitive Community | 222 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
@@ -135,3 +136,4 @@ Completed: 2 (0.00%) (Ranked 184)
 | 2023-04-22 | 4.62 | - | 344 | 2,578 |
 | 2023-04-23 | 4.61 | - | 344 | 2,578 |
 | 2023-04-24 | 4.61 | - | 344 | 2,579 |
+| 2023-04-26 | 4.61 | - | 344 | 2,580 |

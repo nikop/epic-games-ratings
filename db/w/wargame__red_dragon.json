@@ -24,7 +24,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 851
+      "Count": 853
     },
     {
       "Text": "This game is Highly Recommended",
@@ -36,13 +36,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 844
+      "Count": 845
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 835
+      "Count": 836
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -54,7 +54,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 632
+      "Count": 633
     },
     {
       "Text": "This game has a Competitive Community",
@@ -2703,21 +2703,41 @@
       "Rating": 4.69,
       "NumberOfAwards": 7062,
       "NumberOfAwardsMax": 851
+    },
+    {
+      "Time": "2023-04-26T02:58:00.4656302+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 7064,
+      "NumberOfAwardsMax": 851
+    },
+    {
+      "Time": "2023-04-26T11:57:53.0957321+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 7065,
+      "NumberOfAwardsMax": 851
+    },
+    {
+      "Time": "2023-04-26T13:05:01.4244213+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 7067,
+      "NumberOfAwardsMax": 853
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastChanged": "2023-04-25T05:57:11.1082168+00:00",
-  "FirstSeen": "2022-07-22T20:18:18.8189699+00:00",
-  "NumberOfAwardsMax": 851,
-  "NumberOfAwards": 7062,
+  "LastUpdate_Achievements": "2023-04-26T14:03:42.7557245+00:00",
+  "LastUpdate_Ratings": "2023-04-26T13:57:36.2142503+00:00",
+  "LastChanged": "2023-04-26T13:05:01.4244212+00:00",
+  "MaxAwardTitle": "Extremely Fun",
+  "NumberOfAwardsMax": 853,
+  "NumberOfAwards": 7067,
   "NumberOfRatings": 2918,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_Progress": 356,
   "Ranking_PopularitySum": 101,
   "Ranking_Popularity": 141,
-  "Ranking_Rating": 208,
+  "Ranking_Rating": 207,
   "Rating": 4.69,
-  "MaxAwardTitle": "Extremely Fun"
+  "FirstSeen": "2022-07-22T20:18:18.8189699+00:00"
 }

@@ -1,17 +1,17 @@
 # Port Royale 4
-Rating: 3.99 (Ranked 872)  
+Rating: 3.99 (Ranked 874)  
 Number of Ratings: 53  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 490 (Ranked 181)  
-Completed: 0 (0.00%) (Ranked 184)  
+Progressed: 492 (Ranked 182)  
+Completed: 0 (0.00%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-04-25 | 490 | 0 |
+| 2023-04-25 | 492 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,13 +1,13 @@
 # The Suicide of Rachel Foster
-Rating: 4.17 (Ranked 820)  
+Rating: 4.17 (Ranked 822)  
 Number of Ratings: 71  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 974 (Ranked 155)  
-Completed: 48 (4.93%) (Ranked 18)  
+Progressed: 974 (Ranked 157)  
+Completed: 48 (4.93%) (Ranked 21)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

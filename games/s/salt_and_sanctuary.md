@@ -1,17 +1,18 @@
 # Salt and Sanctuary
-Rating: 4.61 (Ranked 348)  
+Rating: 4.61 (Ranked 349)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Challenging Combat): 266  (Ranked 232)  
-Sum: 1,864 (Ranked 190)  
+Sum: 1,865 (Ranked 190)  
 Diff (max vs sum): 42
 ## Popularity (Based on EOS Achievements)
-Progressed: 518,707 (Ranked 23)  
-Completed: 1,387 (0.27%) (Ranked 115)  
+Progressed: 518,774 (Ranked 23)  
+Completed: 1,387 (0.27%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-04-25 | 518,707 | 1,387 |
+| 2023-04-25 | 518,720 | 1,387 |
+| 2023-04-26 | 518,774 | 1,387 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -20,7 +21,7 @@ Completed: 1,387 (0.27%) (Ranked 115)
 | This game is Highly Recommended | 246 |
 | This game has Diverse Characters | 226 |
 | This game has Amazing Storytelling | 224 |
-| This game is Extremely Fun | 223 |
+| This game is Extremely Fun | 224 |
 | This game has Amazing Characters | 218 |
 | This game has Unique Visuals | 213 |
 | This game has Obsessive Gameplay | 164 |
@@ -122,3 +123,4 @@ Completed: 1,387 (0.27%) (Ranked 115)
 | 2023-04-13 | 4.61 | - | 266 | 1,862 |
 | 2023-04-21 | 4.61 | - | 266 | 1,863 |
 | 2023-04-23 | 4.61 | - | 266 | 1,864 |
+| 2023-04-26 | 4.61 | - | 266 | 1,865 |

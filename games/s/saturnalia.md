@@ -1,16 +1,17 @@
 # Saturnalia
-Rating: 4.24 (Ranked 776)  
+Rating: 4.24 (Ranked 777)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,727 (Ranked 63)  
-Completed: 10 (0.02%) (Ranked 167)  
+Progressed: 62,753 (Ranked 63)  
+Completed: 10 (0.02%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-04-25 | 62,727 | 10 |
+| 2023-04-25 | 62,736 | 10 |
+| 2023-04-26 | 62,753 | 10 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

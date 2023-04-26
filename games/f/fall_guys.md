@@ -1,31 +1,32 @@
 # Fall Guys
-Rating: 4.53 (Ranked 484)  
+Rating: 4.53 (Ranked 486)  
 Number of Ratings: 1,046,587  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 137,773  (Ranked 6)  
-Sum: 1,291,630 (Ranked 4)  
+Max (Great for Beginners): 137,799  (Ranked 6)  
+Sum: 1,291,765 (Ranked 4)  
 Diff (max vs sum): 2
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,205,510 (Ranked 1)  
-Completed: 28,559 (0.09%) (Ranked 144)  
+Progressed: 32,215,283 (Ranked 1)  
+Completed: 28,577 (0.09%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-04-25 | 32,205,510 | 28,559 |
+| 2023-04-25 | 32,207,683 | 28,564 |
+| 2023-04-26 | 32,215,283 | 28,578 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 137,773 |
+| This game is Great for Beginners | 137,799 |
 | This game is Relaxing | 129,416 |
-| This game has Competitive Players | 126,686 |
+| This game has Competitive Players | 126,700 |
 | This game has Quickly Understood Controls | 126,668 |
-| This game is Great for Quick Sessions | 121,528 |
-| This game has Diverse Characters | 119,094 |
-| This game is Extremely Fun | 115,961 |
-| This game is Highly Recommended | 109,128 |
-| This game has Amazing Characters | 106,468 |
+| This game is Great for Quick Sessions | 121,544 |
+| This game has Diverse Characters | 119,120 |
+| This game is Extremely Fun | 115,972 |
+| This game is Highly Recommended | 109,143 |
+| This game has Amazing Characters | 106,486 |
 | This game has Amazing Storytelling | 101,525 |
-| This game has Playful Visuals | 97,383 |
+| This game has Playful Visuals | 97,392 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -120,3 +121,4 @@ Completed: 28,559 (0.09%) (Ranked 144)
 | 2023-04-23 | 4.53 | - | 137,754 | 1,291,348 |
 | 2023-04-24 | 4.53 | - | 137,754 | 1,291,489 |
 | 2023-04-25 | 4.53 | - | 137,773 | 1,291,630 |
+| 2023-04-26 | 4.53 | - | 137,799 | 1,291,765 |

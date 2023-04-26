@@ -1,9 +1,9 @@
 # Hood: Outlaws & Legends
-Rating: 3.99 (Ranked 872)  
+Rating: 3.99 (Ranked 874)  
 Number of Ratings: 12,539  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 367  (Ranked 204)  
-Sum: 2,356 (Ranked 166)  
+Sum: 2,357 (Ranked 166)  
 Diff (max vs sum): 38
 ## Awards
 | Award | Count |
@@ -11,7 +11,7 @@ Diff (max vs sum): 38
 | This game has Diverse Characters | 367 |
 | This game has Quickly Understood Controls | 366 |
 | This game is Relaxing | 361 |
-| This game has Competitive Players | 343 |
+| This game has Competitive Players | 344 |
 | This game is Highly Recommended | 340 |
 | This game is Extremely Fun | 323 |
 | This game has Amazing Characters | 320 |
@@ -92,3 +92,4 @@ Diff (max vs sum): 38
 | 2023-04-06 | 3.99 | - | 367 | 2,354 |
 | 2023-04-12 | 3.99 | - | 367 | 2,355 |
 | 2023-04-13 | 3.99 | - | 367 | 2,356 |
+| 2023-04-26 | 3.99 | - | 367 | 2,357 |

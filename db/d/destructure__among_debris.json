@@ -2,11 +2,21 @@
   "ID": "654424d5bf5d4687bd06b0354eccf38e",
   "Name": "DESTRUCTURE: Among Debris",
   "Tags": [],
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-25T20:52:27.5419142+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_Progress": 321
+  "EOS_Progressed": 6,
+  "LastUpdate_Achievements": "2023-04-26T14:08:18.5889509+00:00",
+  "LastUpdate_Ratings": "2023-04-26T14:01:44.2415195+00:00",
+  "LastChanged_Achievements": "2023-04-26T14:08:18.5889503+00:00",
+  "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
+  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_Progress": 297
 }

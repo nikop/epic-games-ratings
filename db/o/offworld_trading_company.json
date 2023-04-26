@@ -660,16 +660,18 @@
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
+  "LastUpdate_Achievements": "2023-04-26T14:06:24.5480999+00:00",
+  "LastUpdate_Ratings": "2023-04-26T14:00:00.9952193+00:00",
   "LastChanged": "2023-04-24T18:57:28.9076455+00:00",
-  "FirstSeen": "2022-07-22T20:20:30.0277807+00:00",
+  "MaxAwardTitle": "Relaxing",
   "NumberOfAwardsMax": 43,
   "NumberOfAwards": 261,
   "NumberOfRatings": 432,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_Progress": 356,
   "Ranking_PopularitySum": 334,
   "Ranking_Popularity": 404,
   "Ranking_Rating": 755,
   "Rating": 4.29,
-  "MaxAwardTitle": "Relaxing"
+  "FirstSeen": "2022-07-22T20:20:30.0277807+00:00"
 }

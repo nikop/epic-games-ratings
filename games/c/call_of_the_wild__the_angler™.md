@@ -1,17 +1,18 @@
 # Call of the Wild: The Angler™
-Rating: 4.12 (Ranked 843)  
+Rating: 4.12 (Ranked 845)  
 Number of Ratings: 281  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 32  (Ranked 431)  
 Sum: 158 (Ranked 370)  
 Diff (max vs sum): 61
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,344 (Ranked 128)  
-Completed: 0 (0.00%) (Ranked 184)  
+Progressed: 3,346 (Ranked 128)  
+Completed: 0 (0.00%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 3,344 | 0 |
+| 2023-04-26 | 3,346 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

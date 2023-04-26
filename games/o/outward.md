@@ -1,17 +1,18 @@
 # Outward
-Rating: 4.55 (Ranked 464)  
+Rating: 4.55 (Ranked 465)  
 Number of Ratings: 266  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Amazing Characters): 31  (Ranked 437)  
 Sum: 238 (Ranked 340)  
 Diff (max vs sum): 97
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,267 (Ranked 135)  
-Completed: 1 (0.04%) (Ranked 158)  
+Progressed: 2,269 (Ranked 135)  
+Completed: 1 (0.04%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-04-25 | 2,267 | 1 |
+| 2023-04-25 | 2,268 | 1 |
+| 2023-04-26 | 2,269 | 1 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
