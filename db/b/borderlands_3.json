@@ -24,7 +24,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 24101
+      "Count": 24117
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4762,20 +4762,26 @@
       "Rating": 4.69,
       "NumberOfAwards": 338380,
       "NumberOfAwardsMax": 108077
+    },
+    {
+      "Time": "2023-04-26T07:01:46.0319711+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 338396,
+      "NumberOfAwardsMax": 108077
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T06:11:51.9990652+00:00",
-  "LastUpdate_Ratings": "2023-04-26T06:02:56.9674861+00:00",
-  "LastChanged": "2023-04-26T05:02:19.5586091+00:00",
+  "LastUpdate_Achievements": "2023-04-26T07:09:27.8990554+00:00",
+  "LastUpdate_Ratings": "2023-04-26T07:01:46.0319716+00:00",
+  "LastChanged": "2023-04-26T07:01:46.0319709+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 108077,
-  "NumberOfAwards": 338380,
+  "NumberOfAwards": 338396,
   "NumberOfRatings": 151211,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_Progress": 355,
+  "Ranking_EOS_Progress": 356,
   "Ranking_PopularitySum": 9,
   "Ranking_Popularity": 8,
   "Ranking_Rating": 207,

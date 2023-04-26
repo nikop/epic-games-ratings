@@ -24,7 +24,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 7703
+      "Count": 7714
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4255,20 +4255,26 @@
       "Rating": 4.76,
       "NumberOfAwards": 55109,
       "NumberOfAwardsMax": 7703
+    },
+    {
+      "Time": "2023-04-26T07:02:47.6199295+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 55120,
+      "NumberOfAwardsMax": 7714
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T06:13:09.9236423+00:00",
-  "LastUpdate_Ratings": "2023-04-26T06:04:09.2811911+00:00",
-  "LastChanged": "2023-04-26T04:01:44.5992617+00:00",
+  "LastUpdate_Achievements": "2023-04-26T07:10:34.1379143+00:00",
+  "LastUpdate_Ratings": "2023-04-26T07:02:47.6199301+00:00",
+  "LastChanged": "2023-04-26T07:02:47.6199291+00:00",
   "MaxAwardTitle": "Great for Beginners",
-  "NumberOfAwardsMax": 7703,
-  "NumberOfAwards": 55109,
+  "NumberOfAwardsMax": 7714,
+  "NumberOfAwards": 55120,
   "NumberOfRatings": 21349,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_Progress": 355,
+  "Ranking_EOS_Progress": 356,
   "Ranking_PopularitySum": 19,
   "Ranking_Popularity": 39,
   "Ranking_Rating": 114,

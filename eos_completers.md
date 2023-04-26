@@ -25,7 +25,7 @@
 | 77 | [Hades](games/h/hades.md) | 0.89% |
 | 79 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.88% |
 | 82 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
-| 84 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
+| 83 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 85 | [Train Valley](games/t/train_valley.md) | 0.74% |
 | 86 | [Haven](games/h/haven.md) | 0.73% |
 | 88 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
@@ -40,7 +40,7 @@
 | 96 | [Tails of Iron](games/t/tails_of_iron.md) | 0.45% |
 | 99 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.41% |
 | 99 | [Potion Permit](games/p/potion_permit.md) | 0.41% |
-| 102 | [Godlike Burger](games/g/godlike_burger.md) | 0.38% |
+| 101 | [Godlike Burger](games/g/godlike_burger.md) | 0.38% |
 | 103 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 103 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
 | 105 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.36% |
