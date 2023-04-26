@@ -66,7 +66,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 5367
+      "Count": 5373
     }
   ],
   "EosHistory": [],
@@ -4466,17 +4466,23 @@
       "Rating": 4.45,
       "NumberOfAwards": 82243,
       "NumberOfAwardsMax": 9982
+    },
+    {
+      "Time": "2023-04-26T22:58:00.4052878+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 82249,
+      "NumberOfAwardsMax": 9982
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T21:03:14.3099625+00:00",
-  "LastUpdate_Ratings": "2023-04-26T21:57:56.3204342+00:00",
-  "LastChanged": "2023-04-26T17:58:15.0754509+00:00",
+  "LastUpdate_Achievements": "2023-04-26T23:01:04.4826146+00:00",
+  "LastUpdate_Ratings": "2023-04-26T22:58:00.4052881+00:00",
+  "LastChanged": "2023-04-26T22:58:00.4052876+00:00",
   "MaxAwardTitle": "Great for Quick Sessions",
   "NumberOfAwardsMax": 9982,
-  "NumberOfAwards": 82243,
+  "NumberOfAwards": 82249,
   "NumberOfRatings": 14652,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_Progress": 357,

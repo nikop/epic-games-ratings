@@ -30,7 +30,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 948
+      "Count": 949
     },
     {
       "Text": "This game is Relaxing",
@@ -3517,17 +3517,23 @@
       "Rating": 4.58,
       "NumberOfAwards": 13801,
       "NumberOfAwardsMax": 6002
+    },
+    {
+      "Time": "2023-04-26T22:59:00.676954+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13802,
+      "NumberOfAwardsMax": 6002
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T22:03:36.3476073+00:00",
-  "LastUpdate_Ratings": "2023-04-26T21:58:43.7939913+00:00",
-  "LastChanged": "2023-04-26T12:00:55.8621601+00:00",
+  "LastUpdate_Achievements": "2023-04-26T23:03:54.4790685+00:00",
+  "LastUpdate_Ratings": "2023-04-26T22:59:00.6769543+00:00",
+  "LastChanged": "2023-04-26T22:59:00.6769538+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 6002,
-  "NumberOfAwards": 13801,
+  "NumberOfAwards": 13802,
   "NumberOfRatings": 8439,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_Progress": 357,

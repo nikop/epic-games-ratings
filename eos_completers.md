@@ -7,18 +7,18 @@
 | 5 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 14.29% |
 | 6 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
 | 7 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 11.72% |
-| 8 | [Ravenlok](games/r/ravenlok.md) | 11.54% |
+| 8 | [Ravenlok](games/r/ravenlok.md) | 11.32% |
 | 9 | [Smelter](games/s/smelter.md) | 10.34% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 9.09% |
 | 11 | [Time Loader](games/t/time_loader.md) | 8.51% |
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
-| 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.52% |
+| 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.51% |
 | 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.43% |
 | 16 | [Scorn](games/s/scorn.md) | 7.07% |
 | 17 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.96% |
 | 18 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.32% |
-| 19 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.15% |
+| 19 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 20 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.88% |
 | 21 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.92% |
 | 22 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
@@ -49,9 +49,9 @@
 | 47 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 48 | [Iron Danger](games/i/iron_danger.md) | 2.48% |
 | 49 | [ZZT!](games/z/zzt!.md) | 2.31% |
-| 50 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 2.27% |
-| 51 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.25% |
-| 52 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
+| 50 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.25% |
+| 51 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
+| 52 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 2.04% |
 | 53 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
 | 54 | [Sifu](games/s/sifu.md) | 1.81% |
 | 55 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.79% |
