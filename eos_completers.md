@@ -4,13 +4,13 @@
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 16 | [Scorn](games/s/scorn.md) | 7.08% |
 | 21 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
-| 24 | [Bugsnax](games/b/bugsnax.md) | 4.58% |
+| 24 | [Bugsnax](games/b/bugsnax.md) | 4.59% |
 | 29 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 37 | [Lamentum](games/l/lamentum.md) | 3.02% |
 | 39 | [MultiVersus](games/m/multiversus.md) | 2.97% |
 | 41 | [Destiny 2](games/d/destiny_2.md) | 2.92% |
 | 45 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 50 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.25% |
+| 50 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.24% |
 | 51 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 53 | [Sifu](games/s/sifu.md) | 1.81% |
 | 54 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.79% |

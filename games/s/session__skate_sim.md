@@ -3,7 +3,7 @@ Rating: 4.65 (Ranked 287)
 Number of Ratings: 111  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 48  (Ranked 387)  
-Sum: 395 (Ranked 299)  
+Sum: 396 (Ranked 299)  
 Diff (max vs sum): 88
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,897 (Ranked 139)  
@@ -22,8 +22,8 @@ Completed: 0 (0.00%) (Ranked 188)
 | This game is Relaxing | 37 |
 | This game is Great for Quick Sessions | 37 |
 | This game has Amazing Characters | 36 |
+| This game has Diverse Characters | 36 |
 | This game has Realistic Visuals | 35 |
-| This game has Diverse Characters | 35 |
 | This game is Extremely Fun | 33 |
 | This game has Quickly Understood Controls | 32 |
 | This game has Challenging Combat | 24 |
@@ -114,4 +114,4 @@ Completed: 0 (0.00%) (Ranked 188)
 | 2023-04-13 | 4.65 | - | 48 | 392 |
 | 2023-04-17 | 4.65 | - | 48 | 393 |
 | 2023-04-18 | 4.65 | - | 48 | 394 |
-| 2023-04-26 | 4.65 | - | 48 | 395 |
+| 2023-04-26 | 4.65 | - | 48 | 396 |

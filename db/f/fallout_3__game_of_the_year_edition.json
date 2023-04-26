@@ -6,7 +6,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 13192
+      "Count": 13198
     },
     {
       "Text": "This game is Extremely Fun",
@@ -762,18 +762,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 26944,
       "NumberOfAwardsMax": 13192
+    },
+    {
+      "Time": "2023-04-26T13:05:59.3658529+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 26950,
+      "NumberOfAwardsMax": 13198
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T12:06:55.4091018+00:00",
-  "LastUpdate_Ratings": "2023-04-26T11:58:49.0216257+00:00",
-  "LastChanged": "2023-04-25T23:58:21.0000925+00:00",
+  "LastUpdate_Achievements": "2023-04-26T13:14:08.7010546+00:00",
+  "LastUpdate_Ratings": "2023-04-26T13:05:59.3658533+00:00",
+  "LastChanged": "2023-04-26T13:05:59.3658528+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
   "MaxAwardTitle": "Character Customization",
-  "NumberOfAwardsMax": 13192,
-  "NumberOfAwards": 26944,
+  "NumberOfAwardsMax": 13198,
+  "NumberOfAwards": 26950,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_Progress": 356,
   "Ranking_PopularitySum": 39,

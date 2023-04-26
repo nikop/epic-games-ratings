@@ -42,7 +42,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 7958
+      "Count": 7960
     },
     {
       "Text": "This game has Easy Combat",
@@ -4271,17 +4271,23 @@
       "Rating": 4.88,
       "NumberOfAwards": 78740,
       "NumberOfAwardsMax": 9152
+    },
+    {
+      "Time": "2023-04-26T13:09:47.9581967+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 78742,
+      "NumberOfAwardsMax": 9152
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T12:11:03.2127416+00:00",
-  "LastUpdate_Ratings": "2023-04-26T12:02:41.4277758+00:00",
-  "LastChanged": "2023-04-25T18:57:35.7981575+00:00",
+  "LastUpdate_Achievements": "2023-04-26T13:18:17.1159975+00:00",
+  "LastUpdate_Ratings": "2023-04-26T13:09:47.9581971+00:00",
+  "LastChanged": "2023-04-26T13:09:47.9581966+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 9152,
-  "NumberOfAwards": 78740,
+  "NumberOfAwards": 78742,
   "NumberOfRatings": 29401,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_Progress": 356,

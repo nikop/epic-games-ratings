@@ -100,6 +100,11 @@
       "Time": "2023-04-26T06:12:14.8160566+00:00",
       "NumProgressed": 27288,
       "NumCompleted": 1251
+    },
+    {
+      "Time": "2023-04-26T13:18:21.7922041+00:00",
+      "NumProgressed": 27288,
+      "NumCompleted": 1252
     }
   ],
   "RatingHistory": [
@@ -592,12 +597,12 @@
       "NumberOfAwardsMax": 37
     }
   ],
-  "EOS_Completed_Percentage": 4.58,
-  "EOS_Completed": 1251,
+  "EOS_Completed_Percentage": 4.59,
+  "EOS_Completed": 1252,
   "EOS_Progressed": 27288,
-  "LastUpdate_Achievements": "2023-04-26T12:11:08.4157607+00:00",
-  "LastUpdate_Ratings": "2023-04-26T12:02:45.5156652+00:00",
-  "LastChanged_Achievements": "2023-04-26T12:11:08.4157604+00:00",
+  "LastUpdate_Achievements": "2023-04-26T13:18:21.7922045+00:00",
+  "LastUpdate_Ratings": "2023-04-26T13:09:52.2845833+00:00",
+  "LastChanged_Achievements": "2023-04-26T13:18:21.7922038+00:00",
   "LastChanged": "2023-04-06T19:58:38.8409578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "MaxAwardTitle": "Amazing Storytelling",
