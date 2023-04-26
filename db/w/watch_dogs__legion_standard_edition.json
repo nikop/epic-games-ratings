@@ -30,7 +30,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 66
+      "Count": 67
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1307,17 +1307,23 @@
       "Rating": 4.36,
       "NumberOfAwards": 576,
       "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2023-04-25T23:58:51.5944737+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 577,
+      "NumberOfAwardsMax": 80
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-25T23:05:11.5201329+00:00",
-  "LastUpdate_Ratings": "2023-04-25T22:59:01.1061492+00:00",
-  "LastChanged": "2023-04-24T15:57:12.1165488+00:00",
+  "LastUpdate_Achievements": "2023-04-26T00:04:48.6572898+00:00",
+  "LastUpdate_Ratings": "2023-04-25T23:58:51.5944741+00:00",
+  "LastChanged": "2023-04-25T23:58:51.5944735+00:00",
   "MaxAwardTitle": "Amazing Characters",
   "NumberOfAwardsMax": 80,
-  "NumberOfAwards": 576,
+  "NumberOfAwards": 577,
   "NumberOfRatings": 1361,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_Progress": 354,

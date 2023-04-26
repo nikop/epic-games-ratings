@@ -18,7 +18,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 27563
+      "Count": 27617
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -54,7 +54,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 22715
+      "Count": 22753
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4643,17 +4643,23 @@
       "Rating": 4.74,
       "NumberOfAwards": 248548,
       "NumberOfAwardsMax": 30102
+    },
+    {
+      "Time": "2023-04-25T23:58:13.3890388+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 248640,
+      "NumberOfAwardsMax": 30102
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-25T23:04:25.272375+00:00",
-  "LastUpdate_Ratings": "2023-04-25T22:58:21.8562271+00:00",
-  "LastChanged": "2023-04-25T22:58:21.8562265+00:00",
+  "LastUpdate_Achievements": "2023-04-26T00:04:04.3909507+00:00",
+  "LastUpdate_Ratings": "2023-04-25T23:58:13.3890397+00:00",
+  "LastChanged": "2023-04-25T23:58:13.3890385+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 30102,
-  "NumberOfAwards": 248548,
+  "NumberOfAwards": 248640,
   "NumberOfRatings": 57866,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_Progress": 354,

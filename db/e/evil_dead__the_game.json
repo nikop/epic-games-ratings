@@ -54,7 +54,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1798
+      "Count": 1799
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3178,17 +3178,23 @@
       "Rating": 4.37,
       "NumberOfAwards": 28586,
       "NumberOfAwardsMax": 12248
+    },
+    {
+      "Time": "2023-04-25T23:57:44.2120957+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 28587,
+      "NumberOfAwardsMax": 12248
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-25T23:03:51.089766+00:00",
-  "LastUpdate_Ratings": "2023-04-25T22:57:52.0998767+00:00",
-  "LastChanged": "2023-04-25T22:57:52.0998762+00:00",
+  "LastUpdate_Achievements": "2023-04-26T00:03:31.6457454+00:00",
+  "LastUpdate_Ratings": "2023-04-25T23:57:44.2120961+00:00",
+  "LastChanged": "2023-04-25T23:57:44.2120955+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 12248,
-  "NumberOfAwards": 28586,
+  "NumberOfAwards": 28587,
   "NumberOfRatings": 9131,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_Progress": 354,

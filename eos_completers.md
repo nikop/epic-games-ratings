@@ -25,7 +25,7 @@
 | 76 | [Hades](games/h/hades.md) | 0.89% |
 | 78 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.88% |
 | 81 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
-| 82 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
+| 83 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 84 | [Train Valley](games/t/train_valley.md) | 0.74% |
 | 85 | [Haven](games/h/haven.md) | 0.73% |
 | 87 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
@@ -33,7 +33,7 @@
 | 89 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 91 | [Ghostrunner](games/g/ghostrunner.md) | 0.54% |
 | 92 | [Grindstone](games/g/grindstone.md) | 0.52% |
-| 94 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.49% |
+| 93 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.49% |
 | 95 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 96 | [Aragami 2](games/a/aragami_2.md) | 0.45% |
 | 96 | [Tails of Iron](games/t/tails_of_iron.md) | 0.45% |

@@ -1,6 +1,6 @@
 | Game | Rating | Ranking | Awards | Ranking |
 | ---- | ------ | ------- | ------ | ------- |
-| [Dead Island 2](games/d/dead_island_2.md) | 4.52 | 496 | 610 | 161 |
+| [Dead Island 2](games/d/dead_island_2.md) | 4.53 | 485 | 610 | 161 |
 | [MORDHAU](games/m/mordhau.md) | 4.41 | 650 | 23 | 464 |
 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.49 | 541 | 0 | 488 |
 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 3.87 | 893 | 54 | 378 |

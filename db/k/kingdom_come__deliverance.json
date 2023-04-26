@@ -66,7 +66,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1466
+      "Count": 1467
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -135,6 +135,11 @@
     {
       "Time": "2023-04-25T23:05:02.0656525+00:00",
       "NumProgressed": 777976,
+      "NumCompleted": 37
+    },
+    {
+      "Time": "2023-04-26T00:04:39.7013769+00:00",
+      "NumProgressed": 777985,
       "NumCompleted": 37
     }
   ],
@@ -4131,19 +4136,25 @@
       "Rating": 4.71,
       "NumberOfAwards": 26611,
       "NumberOfAwardsMax": 7116
+    },
+    {
+      "Time": "2023-04-25T23:58:44.3653986+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26612,
+      "NumberOfAwardsMax": 7116
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 37,
-  "EOS_Progressed": 777976,
-  "LastUpdate_Achievements": "2023-04-25T23:05:02.0656529+00:00",
-  "LastUpdate_Ratings": "2023-04-25T22:58:53.5702373+00:00",
-  "LastChanged_Achievements": "2023-04-25T23:05:02.0656521+00:00",
-  "LastChanged": "2023-04-25T22:58:53.5702367+00:00",
+  "EOS_Progressed": 777985,
+  "LastUpdate_Achievements": "2023-04-26T00:04:39.7013778+00:00",
+  "LastUpdate_Ratings": "2023-04-25T23:58:44.3653991+00:00",
+  "LastChanged_Achievements": "2023-04-26T00:04:39.7013764+00:00",
+  "LastChanged": "2023-04-25T23:58:44.3653984+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 7116,
-  "NumberOfAwards": 26611,
+  "NumberOfAwards": 26612,
   "NumberOfRatings": 9133,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_Progress": 11,
