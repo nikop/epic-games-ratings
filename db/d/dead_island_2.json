@@ -13,6 +13,12 @@
       "Prefix": "This game has",
       "Type": "Diverse Characters",
       "Count": 23
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 22
     }
   ],
   "EosHistory": [
@@ -120,6 +126,11 @@
       "Time": "2023-04-26T10:05:12.0022103+00:00",
       "NumProgressed": 332551,
       "NumCompleted": 130
+    },
+    {
+      "Time": "2023-04-26T11:06:30.8022413+00:00",
+      "NumProgressed": 333091,
+      "NumCompleted": 129
     }
   ],
   "RatingHistory": [
@@ -230,25 +241,31 @@
       "Rating": 4.52,
       "NumberOfAwards": 633,
       "NumberOfAwardsMax": 610
+    },
+    {
+      "Time": "2023-04-26T10:59:10.6532218+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 655,
+      "NumberOfAwardsMax": 610
     }
   ],
   "EOS_Completed_Percentage": 0.04,
-  "EOS_Completed": 130,
-  "EOS_Progressed": 332551,
-  "LastUpdate_Achievements": "2023-04-26T10:05:12.0022108+00:00",
-  "LastUpdate_Ratings": "2023-04-26T09:58:53.3648706+00:00",
-  "LastChanged_Achievements": "2023-04-26T10:05:12.0022096+00:00",
-  "LastChanged": "2023-04-26T03:58:39.0644498+00:00",
+  "EOS_Completed": 129,
+  "EOS_Progressed": 333091,
+  "LastUpdate_Achievements": "2023-04-26T11:06:30.8022418+00:00",
+  "LastUpdate_Ratings": "2023-04-26T10:59:10.653222+00:00",
+  "LastChanged_Achievements": "2023-04-26T11:06:30.8022409+00:00",
+  "LastChanged": "2023-04-26T10:59:10.6532216+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 610,
-  "NumberOfAwards": 633,
+  "NumberOfAwards": 655,
   "Ranking_EOS_Completed": 162,
   "Ranking_EOS_Progress": 35,
-  "Ranking_PopularitySum": 271,
+  "Ranking_PopularitySum": 266,
   "Ranking_Popularity": 161,
-  "Ranking_Rating": 497,
-  "Rating": 4.52,
+  "Ranking_Rating": 486,
+  "Rating": 4.53,
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00"
 }

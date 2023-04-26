@@ -44,7 +44,7 @@
 | 102 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 102 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
 | 104 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.36% |
-| 106 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.35% |
+| 105 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.35% |
 | 108 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.32% |
 | 108 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
 | 110 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
