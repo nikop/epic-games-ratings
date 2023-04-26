@@ -31,7 +31,7 @@
 | 88 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
 | 89 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.64% |
 | 90 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
-| 92 | [Ghostrunner](games/g/ghostrunner.md) | 0.53% |
+| 91 | [Ghostrunner](games/g/ghostrunner.md) | 0.56% |
 | 93 | [Grindstone](games/g/grindstone.md) | 0.52% |
 | 94 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.49% |
 | 95 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
@@ -45,8 +45,8 @@
 | 102 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
 | 104 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.36% |
 | 105 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.35% |
-| 108 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.32% |
-| 108 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
+| 107 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.32% |
+| 107 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
 | 110 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
 | 110 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.31% |
 | 110 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.31% |

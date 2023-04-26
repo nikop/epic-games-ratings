@@ -18,7 +18,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 933
+      "Count": 935
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3775,17 +3775,23 @@
       "Rating": 4.43,
       "NumberOfAwards": 8919,
       "NumberOfAwardsMax": 1016
+    },
+    {
+      "Time": "2023-04-26T13:59:26.2828823+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 8921,
+      "NumberOfAwardsMax": 1016
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T13:15:44.2200382+00:00",
-  "LastUpdate_Ratings": "2023-04-26T13:07:28.648872+00:00",
-  "LastChanged": "2023-04-26T13:07:28.6488712+00:00",
+  "LastUpdate_Achievements": "2023-04-26T14:05:47.5755076+00:00",
+  "LastUpdate_Ratings": "2023-04-26T13:59:26.2828827+00:00",
+  "LastChanged": "2023-04-26T13:59:26.2828822+00:00",
   "MaxAwardTitle": "Relaxing",
   "NumberOfAwardsMax": 1016,
-  "NumberOfAwards": 8919,
+  "NumberOfAwards": 8921,
   "NumberOfRatings": 4733,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_Progress": 356,

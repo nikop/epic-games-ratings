@@ -1,5 +1,5 @@
 # Skul: The Hero Slayer
-Rating: 4.70 (Ranked 189)  
+Rating: 4.71 (Ranked 177)  
 Number of Ratings: 546  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 114  (Ranked 305)  
@@ -107,3 +107,4 @@ Completed: 10 (0.14%) (Ranked 135)
 | 2023-04-22 | 4.71 | - | 109 | 733 |
 | 2023-04-23 | 4.70 | - | 109 | 734 |
 | 2023-04-25 | 4.70 | - | 114 | 850 |
+| 2023-04-26 | 4.71 | - | 114 | 850 |

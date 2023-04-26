@@ -1,18 +1,18 @@
 # Dying Light 2 Stay Human
-Rating: 4.57 (Ranked 426)  
+Rating: 4.58 (Ranked 408)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 6,633  (Ranked 46)  
 Sum: 15,286 (Ranked 59)  
 Diff (max vs sum): -13
 ## Popularity (Based on EOS Achievements)
-Progressed: 530,072 (Ranked 22)  
+Progressed: 530,118 (Ranked 22)  
 Completed: 45 (0.01%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 529,550 | 45 |
-| 2023-04-26 | 530,072 | 45 |
+| 2023-04-26 | 530,118 | 45 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

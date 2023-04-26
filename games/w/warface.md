@@ -1,14 +1,14 @@
 # Warface
-Rating: 3.91 (Ranked 889)  
+Rating: 3.92 (Ranked 886)  
 Number of Ratings: 3,179  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Relaxing): 383  (Ranked 202)  
-Sum: 3,010 (Ranked 147)  
+Max (Relaxing): 384  (Ranked 202)  
+Sum: 3,011 (Ranked 147)  
 Diff (max vs sum): 55
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 383 |
+| This game is Relaxing | 384 |
 | This game has Diverse Characters | 368 |
 | This game has Competitive Players | 360 |
 | This game is Highly Recommended | 339 |
@@ -129,3 +129,4 @@ Diff (max vs sum): 55
 | 2023-04-23 | 3.91 | - | 383 | 3,004 |
 | 2023-04-24 | 3.92 | - | 383 | 3,007 |
 | 2023-04-25 | 3.92 | - | 383 | 3,010 |
+| 2023-04-26 | 3.92 | - | 384 | 3,011 |

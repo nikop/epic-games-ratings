@@ -2,7 +2,7 @@
 Rating: 4.40 (Ranked 662)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 73  (Ranked 351)  
-Sum: 657 (Ranked 265)  
+Sum: 658 (Ranked 265)  
 Diff (max vs sum): 86
 ## Awards
 | Award | Count |
@@ -17,7 +17,7 @@ Diff (max vs sum): 86
 | This game is Great for Beginners | 57 |
 | This game is Highly Recommended | 56 |
 | This game is Great for Quick Sessions | 56 |
-| This game has a Creative Community | 40 |
+| This game has a Creative Community | 41 |
 | This game has Obsessive Gameplay | 26 |
 | This game has Challenging Combat | 20 |
 ## Ratings History
@@ -44,3 +44,4 @@ Diff (max vs sum): 86
 | 2023-02-23 | 4.40 | - | - |
 | 2023-03-10 | 4.41 | - | - |
 | 2023-03-20 | 4.40 | - | - |
+| 2023-04-26 | 4.40 | 73 | 658 |

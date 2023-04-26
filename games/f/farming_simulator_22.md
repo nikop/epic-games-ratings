@@ -1,5 +1,5 @@
 # Farming Simulator 22
-Rating: 4.70 (Ranked 189)  
+Rating: 4.70 (Ranked 190)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 4,111  (Ranked 70)  
