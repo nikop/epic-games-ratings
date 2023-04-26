@@ -1,5 +1,5 @@
 # Fallout 3: Game of the Year Edition
-Rating: 4.60 (Ranked 375)  
+Rating: 4.60 (Ranked 376)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 13,192  (Ranked 25)  
 Sum: 26,944 (Ranked 39)  

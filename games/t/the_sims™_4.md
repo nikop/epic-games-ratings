@@ -1,5 +1,5 @@
 # The Sims™ 4
-Rating: 4.60 (Ranked 375)  
+Rating: 4.60 (Ranked 376)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 125  (Ranked 293)  
 Sum: 798 (Ranked 246)  

@@ -6,7 +6,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 14322
+      "Count": 14323
     },
     {
       "Text": "This game is Relaxing",
@@ -2553,17 +2553,23 @@
       "Rating": 4.58,
       "NumberOfAwards": 16972,
       "NumberOfAwardsMax": 14322
+    },
+    {
+      "Time": "2023-04-26T09:00:03.1328257+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 16973,
+      "NumberOfAwardsMax": 14323
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T08:08:07.0821395+00:00",
-  "LastUpdate_Ratings": "2023-04-26T08:00:39.8611828+00:00",
-  "LastChanged": "2023-04-25T23:00:05.0344182+00:00",
+  "LastUpdate_Achievements": "2023-04-26T09:06:22.6150638+00:00",
+  "LastUpdate_Ratings": "2023-04-26T09:00:03.1328261+00:00",
+  "LastChanged": "2023-04-26T09:00:03.1328255+00:00",
   "MaxAwardTitle": "Great Boss Battles",
-  "NumberOfAwardsMax": 14322,
-  "NumberOfAwards": 16972,
+  "NumberOfAwardsMax": 14323,
+  "NumberOfAwards": 16973,
   "NumberOfRatings": 61135,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_Progress": 356,

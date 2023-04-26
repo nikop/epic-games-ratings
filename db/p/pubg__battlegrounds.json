@@ -6,7 +6,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1287
+      "Count": 1296
     },
     {
       "Text": "This game is Extremely Fun",
@@ -18,7 +18,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1416
+      "Count": 1430
     },
     {
       "Text": "This game has Amazing Characters",
@@ -151,6 +151,11 @@
     {
       "Time": "2023-04-26T08:07:09.9016846+00:00",
       "NumProgressed": 336714,
+      "NumCompleted": 7
+    },
+    {
+      "Time": "2023-04-26T09:05:33.8481328+00:00",
+      "NumProgressed": 336784,
       "NumCompleted": 7
     }
   ],
@@ -1048,23 +1053,29 @@
       "Rating": 3.98,
       "NumberOfAwards": 5269,
       "NumberOfAwardsMax": 1636
+    },
+    {
+      "Time": "2023-04-26T08:59:18.9155222+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 5292,
+      "NumberOfAwardsMax": 1636
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 7,
-  "EOS_Progressed": 336714,
-  "LastUpdate_Achievements": "2023-04-26T08:07:09.9016851+00:00",
-  "LastUpdate_Ratings": "2023-04-26T07:59:46.3098464+00:00",
-  "LastChanged_Achievements": "2023-04-26T08:07:09.9016841+00:00",
-  "LastChanged": "2023-04-26T06:00:21.0454437+00:00",
+  "EOS_Progressed": 336784,
+  "LastUpdate_Achievements": "2023-04-26T09:05:33.8481333+00:00",
+  "LastUpdate_Ratings": "2023-04-26T08:59:18.9155228+00:00",
+  "LastChanged_Achievements": "2023-04-26T09:05:33.8481322+00:00",
+  "LastChanged": "2023-04-26T08:59:18.915522+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "MaxAwardTitle": "Competitive Players",
   "NumberOfAwardsMax": 1636,
-  "NumberOfAwards": 5269,
+  "NumberOfAwards": 5292,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_Progress": 34,
-  "Ranking_PopularitySum": 117,
+  "Ranking_PopularitySum": 116,
   "Ranking_Popularity": 109,
   "Ranking_Rating": 877,
   "Rating": 3.98,

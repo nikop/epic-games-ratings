@@ -60,7 +60,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3521
+      "Count": 3527
     },
     {
       "Text": "This game has a Creative Community",
@@ -3894,19 +3894,25 @@
       "Rating": 4.7,
       "NumberOfAwards": 35902,
       "NumberOfAwardsMax": 4111
+    },
+    {
+      "Time": "2023-04-26T09:01:11.4221299+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 35908,
+      "NumberOfAwardsMax": 4111
     }
   ],
   "EOS_Completed_Percentage": 0.01,
   "EOS_Completed": 5,
   "EOS_Progressed": 41393,
-  "LastUpdate_Achievements": "2023-04-26T08:09:35.6740092+00:00",
-  "LastUpdate_Ratings": "2023-04-26T08:02:02.2932855+00:00",
-  "LastChanged_Achievements": "2023-04-26T08:09:35.6740078+00:00",
-  "LastChanged": "2023-04-25T22:02:18.7845573+00:00",
+  "LastUpdate_Achievements": "2023-04-26T09:07:38.66515+00:00",
+  "LastUpdate_Ratings": "2023-04-26T09:01:11.4221305+00:00",
+  "LastChanged_Achievements": "2023-04-26T09:07:38.6651491+00:00",
+  "LastChanged": "2023-04-26T09:01:11.4221297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 4111,
-  "NumberOfAwards": 35902,
+  "NumberOfAwards": 35908,
   "NumberOfRatings": 7683,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_Progress": 76,

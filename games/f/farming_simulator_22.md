@@ -3,7 +3,7 @@ Rating: 4.70 (Ranked 189)
 Number of Ratings: 7,683  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 4,111  (Ranked 70)  
-Sum: 35,902 (Ranked 30)  
+Sum: 35,908 (Ranked 30)  
 Diff (max vs sum): 40
 ## Popularity (Based on EOS Achievements)
 Progressed: 41,393 (Ranked 76)  
@@ -22,7 +22,7 @@ Completed: 5 (0.01%) (Ranked 179)
 | This game has Quickly Understood Controls | 3,787 |
 | This game is Extremely Fun | 3,645 |
 | This game is Highly Recommended | 3,602 |
-| This game has Diverse Characters | 3,521 |
+| This game has Diverse Characters | 3,527 |
 | This game has Amazing Storytelling | 3,513 |
 | This game has Amazing Characters | 3,128 |
 | This game has a Creative Community | 2,931 |
@@ -130,3 +130,4 @@ Completed: 5 (0.01%) (Ranked 179)
 | 2023-04-23 | 4.70 | - | 4,103 | 35,851 |
 | 2023-04-24 | 4.70 | - | 4,108 | 35,881 |
 | 2023-04-25 | 4.70 | - | 4,111 | 35,902 |
+| 2023-04-26 | 4.70 | - | 4,111 | 35,908 |

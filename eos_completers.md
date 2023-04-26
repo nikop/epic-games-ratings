@@ -25,7 +25,7 @@
 | 77 | [Hades](games/h/hades.md) | 0.89% |
 | 79 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.88% |
 | 82 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
-| 83 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
+| 84 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 85 | [Train Valley](games/t/train_valley.md) | 0.74% |
 | 86 | [Haven](games/h/haven.md) | 0.73% |
 | 88 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
