@@ -6,7 +6,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1552
+      "Count": 1554
     },
     {
       "Text": "This game is Educational",
@@ -3367,17 +3367,23 @@
       "Rating": 4.51,
       "NumberOfAwards": 11203,
       "NumberOfAwardsMax": 1552
+    },
+    {
+      "Time": "2023-04-26T16:57:47.1925956+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 11205,
+      "NumberOfAwardsMax": 1554
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T16:02:15.247733+00:00",
-  "LastUpdate_Ratings": "2023-04-26T15:57:46.2472004+00:00",
-  "LastChanged": "2023-04-26T14:58:17.1191209+00:00",
+  "LastUpdate_Achievements": "2023-04-26T17:03:12.4952144+00:00",
+  "LastUpdate_Ratings": "2023-04-26T16:57:47.192596+00:00",
+  "LastChanged": "2023-04-26T16:57:47.1925955+00:00",
   "MaxAwardTitle": "Diverse Characters",
-  "NumberOfAwardsMax": 1552,
-  "NumberOfAwards": 11203,
+  "NumberOfAwardsMax": 1554,
+  "NumberOfAwards": 11205,
   "NumberOfRatings": 6316,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_Progress": 357,

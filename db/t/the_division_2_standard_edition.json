@@ -60,7 +60,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1088
+      "Count": 1090
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4311,17 +4311,23 @@
       "Rating": 4.47,
       "NumberOfAwards": 21073,
       "NumberOfAwardsMax": 6575
+    },
+    {
+      "Time": "2023-04-26T16:59:50.9718008+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 21075,
+      "NumberOfAwardsMax": 6575
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T16:05:10.7293826+00:00",
-  "LastUpdate_Ratings": "2023-04-26T15:59:44.8949961+00:00",
-  "LastChanged": "2023-04-26T15:59:44.8949956+00:00",
+  "LastUpdate_Achievements": "2023-04-26T17:05:28.5806228+00:00",
+  "LastUpdate_Ratings": "2023-04-26T16:59:50.9718012+00:00",
+  "LastChanged": "2023-04-26T16:59:50.9718006+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 6575,
-  "NumberOfAwards": 21073,
+  "NumberOfAwards": 21075,
   "NumberOfRatings": 6675,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_Progress": 357,

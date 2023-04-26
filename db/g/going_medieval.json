@@ -6,7 +6,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 117
+      "Count": 118
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -905,19 +905,25 @@
       "Rating": 4.6,
       "NumberOfAwards": 916,
       "NumberOfAwardsMax": 117
+    },
+    {
+      "Time": "2023-04-26T16:59:16.6633558+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 917,
+      "NumberOfAwardsMax": 118
     }
   ],
   "EOS_Completed_Percentage": 0.23,
   "EOS_Completed": 6,
   "EOS_Progressed": 2633,
-  "LastUpdate_Achievements": "2023-04-26T16:04:32.609014+00:00",
-  "LastUpdate_Ratings": "2023-04-26T15:59:11.801398+00:00",
-  "LastChanged_Achievements": "2023-04-26T16:04:32.6090136+00:00",
-  "LastChanged": "2023-04-25T22:02:38.52107+00:00",
+  "LastUpdate_Achievements": "2023-04-26T17:04:50.0860486+00:00",
+  "LastUpdate_Ratings": "2023-04-26T16:59:16.6633561+00:00",
+  "LastChanged_Achievements": "2023-04-26T17:04:50.0860481+00:00",
+  "LastChanged": "2023-04-26T16:59:16.6633556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "MaxAwardTitle": "Relaxing",
-  "NumberOfAwardsMax": 117,
-  "NumberOfAwards": 916,
+  "NumberOfAwardsMax": 118,
+  "NumberOfAwards": 917,
   "NumberOfRatings": 706,
   "Ranking_EOS_Completed": 123,
   "Ranking_EOS_Progress": 130,

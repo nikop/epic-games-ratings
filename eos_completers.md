@@ -6,14 +6,14 @@
 | 4 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 5 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 14.29% |
 | 6 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
-| 7 | [Ravenlok](games/r/ravenlok.md) | 11.76% |
-| 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 11.72% |
+| 7 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 11.72% |
+| 8 | [Ravenlok](games/r/ravenlok.md) | 11.54% |
 | 9 | [Smelter](games/s/smelter.md) | 10.34% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 9.09% |
 | 11 | [Time Loader](games/t/time_loader.md) | 8.51% |
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
-| 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.55% |
+| 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.54% |
 | 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.43% |
 | 16 | [Scorn](games/s/scorn.md) | 7.08% |
 | 17 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 7.02% |
@@ -93,7 +93,7 @@
 | 91 | [Ghostrunner](games/g/ghostrunner.md) | 0.56% |
 | 92 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.55% |
 | 93 | [Grindstone](games/g/grindstone.md) | 0.52% |
-| 94 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.49% |
+| 94 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.51% |
 | 95 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 96 | [Aragami 2](games/a/aragami_2.md) | 0.45% |
 | 96 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.45% |
