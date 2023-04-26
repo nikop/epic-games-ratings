@@ -42,7 +42,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 182
+      "Count": 187
     },
     {
       "Text": "This game has a Silly Community",
@@ -200,6 +200,11 @@
     {
       "Time": "2023-04-26T19:05:45.9969706+00:00",
       "NumProgressed": 55950,
+      "NumCompleted": 20
+    },
+    {
+      "Time": "2023-04-26T20:04:39.5966458+00:00",
+      "NumProgressed": 55962,
       "NumCompleted": 20
     }
   ],
@@ -1121,20 +1126,26 @@
       "Rating": 3.92,
       "NumberOfAwards": 902,
       "NumberOfAwardsMax": 186
+    },
+    {
+      "Time": "2023-04-26T19:59:23.6395821+00:00",
+      "Rating": 3.92,
+      "NumberOfAwards": 907,
+      "NumberOfAwardsMax": 187
     }
   ],
   "EOS_Completed_Percentage": 0.04,
   "EOS_Completed": 20,
-  "EOS_Progressed": 55950,
-  "LastUpdate_Achievements": "2023-04-26T19:05:45.9969711+00:00",
-  "LastUpdate_Ratings": "2023-04-26T19:00:45.1731547+00:00",
-  "LastChanged_Achievements": "2023-04-26T19:05:45.9969699+00:00",
-  "LastChanged": "2023-04-26T15:59:22.3964448+00:00",
+  "EOS_Progressed": 55962,
+  "LastUpdate_Achievements": "2023-04-26T20:04:39.5966461+00:00",
+  "LastUpdate_Ratings": "2023-04-26T19:59:23.6395824+00:00",
+  "LastChanged_Achievements": "2023-04-26T20:04:39.5966452+00:00",
+  "LastChanged": "2023-04-26T19:59:23.639582+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
-  "MaxAwardTitle": "Quickly Understood Controls",
-  "NumberOfAwardsMax": 186,
-  "NumberOfAwards": 902,
+  "MaxAwardTitle": "Highly Recommended",
+  "NumberOfAwardsMax": 187,
+  "NumberOfAwards": 907,
   "Ranking_EOS_Completed": 162,
   "Ranking_EOS_Progress": 66,
   "Ranking_PopularitySum": 230,

@@ -13,10 +13,10 @@
 | 11 | [Time Loader](games/t/time_loader.md) | 8.51% |
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
-| 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.54% |
+| 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.53% |
 | 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.43% |
 | 16 | [Scorn](games/s/scorn.md) | 7.07% |
-| 17 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 7.02% |
+| 17 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.96% |
 | 18 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.32% |
 | 19 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.15% |
 | 20 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 6.06% |
@@ -30,7 +30,7 @@
 | 28 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.03% |
 | 29 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 30 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
-| 31 | [The Complex](games/t/the_complex.md) | 3.60% |
+| 31 | [The Complex](games/t/the_complex.md) | 3.59% |
 | 32 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.54% |
 | 33 | [The Bunker](games/t/the_bunker.md) | 3.37% |
 | 34 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
@@ -49,7 +49,7 @@
 | 47 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 48 | [Iron Danger](games/i/iron_danger.md) | 2.48% |
 | 49 | [ZZT!](games/z/zzt!.md) | 2.31% |
-| 50 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.24% |
+| 50 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.25% |
 | 51 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 52 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
 | 53 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -62,7 +62,7 @@
 | 60 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.60% |
 | 61 | [Frogun](games/f/frogun.md) | 1.56% |
 | 62 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.52% |
-| 63 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.50% |
+| 63 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.49% |
 | 64 | [Bloodshore](games/b/bloodshore.md) | 1.45% |
 | 65 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.33% |
 | 65 | [Chorus](games/c/chorus.md) | 1.33% |
@@ -73,7 +73,7 @@
 | 71 | [Late Shift](games/l/late_shift.md) | 1.22% |
 | 72 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.19% |
 | 73 | [Ten Dates](games/t/ten_dates.md) | 1.06% |
-| 74 | [Dungeons 3](games/d/dungeons_3.md) | 0.97% |
+| 74 | [Dungeons 3](games/d/dungeons_3.md) | 0.96% |
 | 75 | [Five Dates](games/f/five_dates.md) | 0.91% |
 | 76 | [Sable](games/s/sable.md) | 0.90% |
 | 77 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
@@ -121,7 +121,7 @@
 | 118 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.27% |
 | 118 | [Wildermyth](games/w/wildermyth.md) | 0.27% |
 | 121 | [Circus Electrique](games/c/circus_electrique.md) | 0.26% |
-| 121 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.26% |
+| 122 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.25% |
 | 123 | [Blanc](games/b/blanc.md) | 0.23% |
 | 123 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
 | 125 | [Against the Storm](games/a/against_the_storm.md) | 0.21% |
