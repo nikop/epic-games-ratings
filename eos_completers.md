@@ -36,8 +36,8 @@
 | 94 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.49% |
 | 95 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 96 | [Aragami 2](games/a/aragami_2.md) | 0.45% |
+| 96 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.45% |
 | 96 | [Tails of Iron](games/t/tails_of_iron.md) | 0.45% |
-| 98 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.44% |
 | 99 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.41% |
 | 99 | [Potion Permit](games/p/potion_permit.md) | 0.41% |
 | 102 | [Godlike Burger](games/g/godlike_burger.md) | 0.38% |
