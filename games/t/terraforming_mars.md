@@ -3,21 +3,21 @@ Rating: 4.54 (Ranked 473)
 Number of Ratings: 2,731  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 491  (Ranked 183)  
-Sum: 3,039 (Ranked 145)  
+Sum: 3,041 (Ranked 145)  
 Diff (max vs sum): 38
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,455 (Ranked 68)  
+Progressed: 53,464 (Ranked 68)  
 Completed: 60 (0.11%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 53,435 | 60 |
-| 2023-04-26 | 53,455 | 60 |
+| 2023-04-26 | 53,464 | 60 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 491 |
-| This game is Highly Recommended | 478 |
+| This game is Highly Recommended | 480 |
 | This game has Quickly Understood Controls | 439 |
 | This game is Extremely Fun | 436 |
 | This game has Competitive Players | 430 |
@@ -115,3 +115,4 @@ Completed: 60 (0.11%) (Ranked 144)
 | 2023-04-22 | 4.54 | - | 490 | 3,036 |
 | 2023-04-23 | 4.54 | - | 490 | 3,037 |
 | 2023-04-25 | 4.54 | - | 491 | 3,039 |
+| 2023-04-26 | 4.54 | - | 491 | 3,041 |

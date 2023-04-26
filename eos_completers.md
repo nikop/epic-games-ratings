@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 6 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
+| 6 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 16 | [Scorn](games/s/scorn.md) | 7.08% |
 | 21 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
@@ -38,9 +38,9 @@
 | 96 | [Aragami 2](games/a/aragami_2.md) | 0.45% |
 | 96 | [Tails of Iron](games/t/tails_of_iron.md) | 0.45% |
 | 98 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.44% |
-| 100 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.41% |
-| 100 | [Potion Permit](games/p/potion_permit.md) | 0.41% |
-| 102 | [Godlike Burger](games/g/godlike_burger.md) | 0.39% |
+| 99 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.41% |
+| 99 | [Potion Permit](games/p/potion_permit.md) | 0.41% |
+| 102 | [Godlike Burger](games/g/godlike_burger.md) | 0.38% |
 | 103 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 103 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
 | 105 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.36% |

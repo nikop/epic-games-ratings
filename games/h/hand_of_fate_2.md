@@ -6,13 +6,13 @@ Max (Amazing Storytelling): 35  (Ranked 423)
 Sum: 180 (Ranked 355)  
 Diff (max vs sum): 68
 ## Popularity (Based on EOS Achievements)
-Progressed: 655,124 (Ranked 17)  
+Progressed: 655,126 (Ranked 17)  
 Completed: 164 (0.03%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 655,117 | 164 |
-| 2023-04-26 | 655,124 | 164 |
+| 2023-04-26 | 655,126 | 164 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

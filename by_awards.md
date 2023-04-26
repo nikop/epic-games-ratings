@@ -45,7 +45,7 @@
 | 43 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,116 | 4.71 | 177 |
 | 44 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,804 | 4.89 | 12 |
 | 45 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 638 |
-| 46 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 6,604 | 4.58 | 408 |
+| 46 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 6,633 | 4.58 | 408 |
 | 47 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,561 | 4.47 | 574 |
 | 48 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 6,479 | 4.67 | 253 |
 | 49 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,423 | 4.74 | 141 |
@@ -103,7 +103,7 @@
 | 101 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,076 | 4.63 | 324 |
 | 102 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,968 | 4.49 | 542 |
 | 103 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,867 | 4.65 | 287 |
-| 104 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,807 | 4.70 | 189 |
+| 104 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,809 | 4.70 | 189 |
 | 105 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,790 | 4.90 | 7 |
 | 106 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,765 | 4.56 | 443 |
 | 107 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,727 | 4.63 | 324 |

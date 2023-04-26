@@ -197,7 +197,7 @@
 | 189 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 50 | 382 |
 | 189 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,294 | 117 |
 | 189 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 0 | 488 |
-| 189 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,807 | 104 |
+| 189 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,809 | 104 |
 | 189 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.70 | 0 | 488 |
 | 189 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.70 | 0 | 488 |
 | 189 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.70 | 114 | 305 |
@@ -412,7 +412,7 @@
 | 408 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 87 | 335 |
 | 408 | [Breathedge](games/b/breathedge.md) | 4.58 | 0 | 488 |
 | 408 | [Deceive Inc.](games/d/deceive_inc..md) | 4.58 | 0 | 488 |
-| 408 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 6,604 | 46 |
+| 408 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 6,633 | 46 |
 | 408 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.58 | 24,345 | 16 |
 | 408 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.58 | 0 | 488 |
 | 408 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 36 | 416 |
