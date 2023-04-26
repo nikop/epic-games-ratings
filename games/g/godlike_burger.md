@@ -1,12 +1,12 @@
 # Godlike Burger
-Rating: 4.23 (Ranked 787)  
+Rating: 4.23 (Ranked 788)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
 Progressed: 259 (Ranked 208)  
-Completed: 1 (0.39%) (Ranked 101)  
+Completed: 1 (0.39%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

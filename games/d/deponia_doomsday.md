@@ -1,12 +1,12 @@
 # Deponia Doomsday
-Rating: 4.56 (Ranked 442)  
+Rating: 4.56 (Ranked 443)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
 Progressed: 354 (Ranked 190)  
-Completed: 6 (1.69%) (Ranked 55)  
+Completed: 6 (1.69%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

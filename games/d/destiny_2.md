@@ -1,18 +1,18 @@
 # Destiny 2
-Rating: 4.50 (Ranked 526)  
+Rating: 4.50 (Ranked 527)  
 Number of Ratings: 32,207  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 33,253  (Ranked 12)  
 Sum: 80,275 (Ranked 16)  
 Diff (max vs sum): -4
 ## Popularity (Based on EOS Achievements)
-Progressed: 381,400 (Ranked 31)  
-Completed: 11,142 (2.92%) (Ranked 40)  
+Progressed: 381,426 (Ranked 31)  
+Completed: 11,142 (2.92%) (Ranked 41)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 381,307 | 11,139 |
-| 2023-04-26 | 381,400 | 11,142 |
+| 2023-04-26 | 381,426 | 11,142 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,18 +1,18 @@
 # Idle Champions of the Forgotten Realms
-Rating: 4.06 (Ranked 861)  
+Rating: 4.06 (Ranked 862)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 4,849  (Ranked 61)  
 Sum: 29,730 (Ranked 37)  
 Diff (max vs sum): 24
 ## Popularity (Based on EOS Achievements)
-Progressed: 85,461 (Ranked 58)  
-Completed: 1,775 (2.08%) (Ranked 50)  
+Progressed: 85,463 (Ranked 58)  
+Completed: 1,775 (2.08%) (Ranked 51)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 85,449 | 1,775 |
-| 2023-04-26 | 85,461 | 1,775 |
+| 2023-04-26 | 85,463 | 1,775 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

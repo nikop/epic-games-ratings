@@ -1,5 +1,5 @@
 # Splinter Cell Chaos Theory
-Rating: 4.60 (Ranked 374)  
+Rating: 4.60 (Ranked 375)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  

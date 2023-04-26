@@ -1,18 +1,18 @@
 # Salt and Sanctuary
-Rating: 4.61 (Ranked 348)  
+Rating: 4.61 (Ranked 349)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Challenging Combat): 266  (Ranked 232)  
 Sum: 1,864 (Ranked 190)  
 Diff (max vs sum): 42
 ## Popularity (Based on EOS Achievements)
-Progressed: 518,730 (Ranked 23)  
-Completed: 1,387 (0.27%) (Ranked 118)  
+Progressed: 518,731 (Ranked 23)  
+Completed: 1,387 (0.27%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 518,720 | 1,387 |
-| 2023-04-26 | 518,730 | 1,387 |
+| 2023-04-26 | 518,731 | 1,387 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

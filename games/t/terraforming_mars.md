@@ -1,18 +1,18 @@
 # Terraforming Mars
-Rating: 4.54 (Ranked 472)  
+Rating: 4.54 (Ranked 473)  
 Number of Ratings: 2,731  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 491  (Ranked 183)  
 Sum: 3,039 (Ranked 145)  
 Diff (max vs sum): 38
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,450 (Ranked 68)  
-Completed: 60 (0.11%) (Ranked 143)  
+Progressed: 53,454 (Ranked 68)  
+Completed: 60 (0.11%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 53,435 | 60 |
-| 2023-04-26 | 53,450 | 60 |
+| 2023-04-26 | 53,454 | 60 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

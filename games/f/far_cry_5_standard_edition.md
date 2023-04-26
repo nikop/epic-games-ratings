@@ -1,5 +1,5 @@
 # Far Cry 5 Standard Edition
-Rating: 4.62 (Ranked 333)  
+Rating: 4.62 (Ranked 334)  
 Number of Ratings: 1,848  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 1,192  (Ranked 121)  

@@ -1,18 +1,18 @@
 # Prison Architect
-Rating: 4.61 (Ranked 348)  
+Rating: 4.61 (Ranked 349)  
 Number of Ratings: 4,491  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 404  (Ranked 195)  
 Sum: 3,179 (Ranked 143)  
 Diff (max vs sum): 52
 ## Popularity (Based on EOS Achievements)
-Progressed: 112,063 (Ranked 55)  
-Completed: 4 (0.00%) (Ranked 187)  
+Progressed: 112,078 (Ranked 55)  
+Completed: 4 (0.00%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 112,043 | 4 |
-| 2023-04-26 | 112,063 | 4 |
+| 2023-04-26 | 112,078 | 4 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

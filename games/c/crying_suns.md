@@ -1,18 +1,18 @@
 # Crying Suns
-Rating: 4.50 (Ranked 526)  
+Rating: 4.50 (Ranked 527)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 209  (Ranked 251)  
 Sum: 209 (Ranked 346)  
 Diff (max vs sum): -95
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,604 (Ranked 27)  
-Completed: 14 (0.00%) (Ranked 187)  
+Progressed: 456,607 (Ranked 27)  
+Completed: 14 (0.00%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 456,598 | 14 |
-| 2023-04-26 | 456,604 | 14 |
+| 2023-04-26 | 456,607 | 14 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,18 +1,18 @@
 # Shop Titans
-Rating: 3.98 (Ranked 876)  
+Rating: 3.98 (Ranked 877)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 4,537  (Ranked 66)  
 Sum: 26,457 (Ranked 42)  
 Diff (max vs sum): 24
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,902 (Ranked 53)  
-Completed: 73 (0.06%) (Ranked 155)  
+Progressed: 126,904 (Ranked 53)  
+Completed: 73 (0.06%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 126,897 | 73 |
-| 2023-04-26 | 126,902 | 73 |
+| 2023-04-26 | 126,904 | 73 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

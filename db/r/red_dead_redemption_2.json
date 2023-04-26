@@ -24,7 +24,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 12562
+      "Count": 12583
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -60,7 +60,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 13138
+      "Count": 13170
     },
     {
       "Text": "This game is Relaxing",
@@ -4955,19 +4955,25 @@
       "Rating": 4.89,
       "NumberOfAwards": 345751,
       "NumberOfAwardsMax": 136163
+    },
+    {
+      "Time": "2023-04-26T03:00:54.6912807+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 345804,
+      "NumberOfAwardsMax": 136163
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T02:08:13.6498866+00:00",
-  "LastUpdate_Ratings": "2023-04-26T02:00:40.6115546+00:00",
-  "LastChanged": "2023-04-26T02:00:40.6115538+00:00",
+  "LastUpdate_Achievements": "2023-04-26T03:08:37.3771412+00:00",
+  "LastUpdate_Ratings": "2023-04-26T03:00:54.6912814+00:00",
+  "LastChanged": "2023-04-26T03:00:54.6912805+00:00",
   "MaxAwardTitle": "Impact the Story",
   "NumberOfAwardsMax": 136163,
-  "NumberOfAwards": 345751,
+  "NumberOfAwards": 345804,
   "NumberOfRatings": 102658,
-  "Ranking_EOS_Completed": 187,
+  "Ranking_EOS_Completed": 188,
   "Ranking_EOS_Progress": 354,
   "Ranking_PopularitySum": 8,
   "Ranking_Popularity": 7,

@@ -1,5 +1,5 @@
 # Gravewood High
-Rating: 4.00 (Ranked 870)  
+Rating: 4.00 (Ranked 871)  
 Number of Ratings: 32  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  

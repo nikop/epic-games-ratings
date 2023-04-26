@@ -1,18 +1,18 @@
 # Gamedec - Definitive Edition
-Rating: 4.32 (Ranked 734)  
+Rating: 4.32 (Ranked 735)  
 Number of Ratings: 33  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 70  (Ranked 356)  
 Sum: 70 (Ranked 410)  
 Diff (max vs sum): -54
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,624 (Ranked 41)  
-Completed: 5 (0.00%) (Ranked 187)  
+Progressed: 220,635 (Ranked 41)  
+Completed: 5 (0.00%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 220,611 | 5 |
-| 2023-04-26 | 220,624 | 5 |
+| 2023-04-26 | 220,635 | 5 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,5 +1,5 @@
 # Star Renegades
-Rating: 4.40 (Ranked 661)  
+Rating: 4.40 (Ranked 662)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  

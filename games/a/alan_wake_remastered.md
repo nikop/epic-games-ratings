@@ -1,5 +1,5 @@
 # Alan Wake Remastered
-Rating: 4.56 (Ranked 442)  
+Rating: 4.56 (Ranked 443)  
 Number of Ratings: 524  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
@@ -7,7 +7,7 @@ Sum: 0 (Ranked 488)
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
 Progressed: 45,828 (Ranked 73)  
-Completed: 43 (0.09%) (Ranked 147)  
+Completed: 43 (0.09%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

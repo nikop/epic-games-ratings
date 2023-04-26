@@ -54,7 +54,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 630
+      "Count": 632
     },
     {
       "Text": "This game is Educational",
@@ -2584,23 +2584,29 @@
       "Rating": 4.5,
       "NumberOfAwards": 5952,
       "NumberOfAwardsMax": 639
+    },
+    {
+      "Time": "2023-04-26T03:02:16.5751876+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 5954,
+      "NumberOfAwardsMax": 639
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T02:09:38.2692053+00:00",
-  "LastUpdate_Ratings": "2023-04-26T02:01:54.5710421+00:00",
-  "LastChanged": "2023-04-25T23:01:10.9024189+00:00",
+  "LastUpdate_Achievements": "2023-04-26T03:10:00.4461354+00:00",
+  "LastUpdate_Ratings": "2023-04-26T03:02:16.5751882+00:00",
+  "LastChanged": "2023-04-26T03:02:16.5751872+00:00",
   "MaxAwardTitle": "Quickly Understood Controls",
   "NumberOfAwardsMax": 639,
-  "NumberOfAwards": 5952,
+  "NumberOfAwards": 5954,
   "NumberOfRatings": 2871,
-  "Ranking_EOS_Completed": 187,
+  "Ranking_EOS_Completed": 188,
   "Ranking_EOS_Progress": 354,
   "Ranking_PopularitySum": 112,
   "Ranking_Popularity": 159,
-  "Ranking_Rating": 526,
+  "Ranking_Rating": 527,
   "Rating": 4.5,
   "FirstSeen": "2022-07-22T20:23:01.9832025+00:00"
 }

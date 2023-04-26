@@ -6,7 +6,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 821
+      "Count": 824
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -1638,23 +1638,29 @@
       "Rating": 4.55,
       "NumberOfAwards": 3558,
       "NumberOfAwardsMax": 821
+    },
+    {
+      "Time": "2023-04-26T02:59:13.2004859+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 3561,
+      "NumberOfAwardsMax": 824
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T02:06:19.5968297+00:00",
-  "LastUpdate_Ratings": "2023-04-26T01:58:59.8466048+00:00",
-  "LastChanged": "2023-04-26T01:58:59.8466041+00:00",
+  "LastUpdate_Achievements": "2023-04-26T03:06:45.4531525+00:00",
+  "LastUpdate_Ratings": "2023-04-26T02:59:13.2004865+00:00",
+  "LastChanged": "2023-04-26T02:59:13.2004856+00:00",
   "MaxAwardTitle": "Character Customization",
-  "NumberOfAwardsMax": 821,
-  "NumberOfAwards": 3558,
+  "NumberOfAwardsMax": 824,
+  "NumberOfAwards": 3561,
   "NumberOfRatings": 692,
-  "Ranking_EOS_Completed": 187,
+  "Ranking_EOS_Completed": 188,
   "Ranking_EOS_Progress": 354,
-  "Ranking_PopularitySum": 139,
+  "Ranking_PopularitySum": 138,
   "Ranking_Popularity": 144,
-  "Ranking_Rating": 464,
+  "Ranking_Rating": 465,
   "Rating": 4.55,
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00"
 }

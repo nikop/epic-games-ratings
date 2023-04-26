@@ -1,5 +1,5 @@
 # The First Tree
-Rating: 3.98 (Ranked 876)  
+Rating: 3.98 (Ranked 877)  
 Number of Ratings: 56  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
@@ -7,7 +7,7 @@ Sum: 0 (Ranked 488)
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
 Progressed: 29,811 (Ranked 80)  
-Completed: 92 (0.31%) (Ranked 109)  
+Completed: 92 (0.31%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

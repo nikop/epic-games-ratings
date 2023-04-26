@@ -1,5 +1,5 @@
 # Galactic Civilizations IV
-Rating: 4.18 (Ranked 817)  
+Rating: 4.18 (Ranked 818)  
 Number of Ratings: 429  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 88  (Ranked 332)  
@@ -7,7 +7,7 @@ Sum: 652 (Ranked 266)
 Diff (max vs sum): 66
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,162 (Ranked 116)  
-Completed: 0 (0.00%) (Ranked 187)  
+Completed: 0 (0.00%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

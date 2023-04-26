@@ -66,7 +66,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 52
+      "Count": 56
     }
   ],
   "EosHistory": [],
@@ -1082,23 +1082,29 @@
       "Rating": 4.6,
       "NumberOfAwards": 789,
       "NumberOfAwardsMax": 120
+    },
+    {
+      "Time": "2023-04-26T02:57:35.4674336+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 793,
+      "NumberOfAwardsMax": 120
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T02:04:32.5939839+00:00",
-  "LastUpdate_Ratings": "2023-04-26T01:57:24.407944+00:00",
-  "LastChanged": "2023-04-25T20:57:29.3508493+00:00",
+  "LastUpdate_Achievements": "2023-04-26T03:04:58.5834489+00:00",
+  "LastUpdate_Ratings": "2023-04-26T02:57:35.4674342+00:00",
+  "LastChanged": "2023-04-26T02:57:35.4674333+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 120,
-  "NumberOfAwards": 789,
-  "Ranking_EOS_Completed": 187,
+  "NumberOfAwards": 793,
+  "Ranking_EOS_Completed": 188,
   "Ranking_EOS_Progress": 354,
   "Ranking_PopularitySum": 246,
   "Ranking_Popularity": 297,
-  "Ranking_Rating": 374,
+  "Ranking_Rating": 375,
   "Rating": 4.6,
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00"
 }

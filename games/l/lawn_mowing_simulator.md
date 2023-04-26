@@ -1,18 +1,18 @@
 # Lawn Mowing Simulator
-Rating: 4.08 (Ranked 854)  
+Rating: 4.08 (Ranked 855)  
 Number of Ratings: 5,086  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 179  (Ranked 264)  
 Sum: 957 (Ranked 226)  
 Diff (max vs sum): 38
 ## Popularity (Based on EOS Achievements)
-Progressed: 605,504 (Ranked 19)  
-Completed: 8 (0.00%) (Ranked 187)  
+Progressed: 605,512 (Ranked 19)  
+Completed: 8 (0.00%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 605,454 | 8 |
-| 2023-04-26 | 605,504 | 8 |
+| 2023-04-26 | 605,512 | 8 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

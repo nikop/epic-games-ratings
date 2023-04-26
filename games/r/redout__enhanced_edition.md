@@ -1,18 +1,18 @@
 # Redout: Enhanced Edition
-Rating: 4.51 (Ranked 509)  
+Rating: 4.51 (Ranked 510)  
 Number of Ratings: 274  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,092 (Ranked 42)  
-Completed: 41 (0.02%) (Ranked 170)  
+Progressed: 220,094 (Ranked 42)  
+Completed: 41 (0.02%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 220,079 | 41 |
-| 2023-04-26 | 220,092 | 41 |
+| 2023-04-26 | 220,094 | 41 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

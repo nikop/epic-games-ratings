@@ -1,5 +1,5 @@
 # Going Medieval
-Rating: 4.60 (Ranked 374)  
+Rating: 4.60 (Ranked 375)  
 Number of Ratings: 706  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 117  (Ranked 299)  
@@ -7,7 +7,7 @@ Sum: 916 (Ranked 229)
 Diff (max vs sum): 70
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,633 (Ranked 130)  
-Completed: 6 (0.23%) (Ranked 122)  
+Completed: 6 (0.23%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

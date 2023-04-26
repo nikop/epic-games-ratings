@@ -6,13 +6,13 @@ Max (Educational): 5,093  (Ranked 60)
 Sum: 42,215 (Ranked 26)  
 Diff (max vs sum): 34
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,229 (Ranked 86)  
-Completed: 0 (0.00%) (Ranked 187)  
+Progressed: 21,250 (Ranked 86)  
+Completed: 0 (0.00%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 21,176 | 0 |
-| 2023-04-26 | 21,229 | 0 |
+| 2023-04-26 | 21,250 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

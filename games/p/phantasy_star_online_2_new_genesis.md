@@ -1,14 +1,14 @@
 # Phantasy Star Online 2 New Genesis
-Rating: 4.55 (Ranked 464)  
+Rating: 4.55 (Ranked 465)  
 Number of Ratings: 692  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 821  (Ranked 144)  
-Sum: 3,558 (Ranked 139)  
-Diff (max vs sum): 5
+Max (Character Customization): 824  (Ranked 144)  
+Sum: 3,561 (Ranked 138)  
+Diff (max vs sum): 6
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 821 |
+| This game has Inclusive Character Customization | 824 |
 | This game has Great Boss Battles | 636 |
 | This game is Great for Beginners | 258 |
 | This game has Amazing Characters | 245 |
@@ -130,4 +130,4 @@ Diff (max vs sum): 5
 | 2023-04-23 | 4.55 | - | 821 | 3,538 |
 | 2023-04-24 | 4.55 | - | 821 | 3,549 |
 | 2023-04-25 | 4.55 | - | 821 | 3,554 |
-| 2023-04-26 | 4.55 | - | 821 | 3,558 |
+| 2023-04-26 | 4.55 | - | 824 | 3,561 |

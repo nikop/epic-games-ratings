@@ -1,9 +1,9 @@
 # SMITE
-Rating: 4.45 (Ranked 598)  
+Rating: 4.45 (Ranked 599)  
 Number of Ratings: 6,749  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 3,677  (Ranked 77)  
-Sum: 22,848 (Ranked 48)  
+Sum: 22,853 (Ranked 48)  
 Diff (max vs sum): 29
 ## Awards
 | Award | Count |
@@ -13,10 +13,10 @@ Diff (max vs sum): 29
 | This game has Quickly Understood Controls | 2,994 |
 | This game is Highly Recommended | 2,821 |
 | This game is Extremely Fun | 2,774 |
-| This game has Amazing Characters | 2,725 |
+| This game has Amazing Characters | 2,727 |
 | This game has Amazing Storytelling | 2,416 |
 | This game has Obsessive Gameplay | 2,413 |
-| This game has a Competitive Community | 2,200 |
+| This game has a Competitive Community | 2,203 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -120,4 +120,4 @@ Diff (max vs sum): 29
 | 2023-04-23 | 4.45 | - | 3,664 | 22,803 |
 | 2023-04-24 | 4.45 | - | 3,672 | 22,829 |
 | 2023-04-25 | 4.45 | - | 3,677 | 22,837 |
-| 2023-04-26 | 4.45 | - | 3,677 | 22,848 |
+| 2023-04-26 | 4.45 | - | 3,677 | 22,853 |

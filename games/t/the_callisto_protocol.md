@@ -1,12 +1,12 @@
 # The Callisto Protocol
-Rating: 4.18 (Ranked 817)  
+Rating: 4.18 (Ranked 818)  
 ## Popularity (Based on Awards)
 Max (Amazing Storytelling): 45  (Ranked 394)  
 Sum: 241 (Ranked 339)  
 Diff (max vs sum): 55
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,499 (Ranked 99)  
-Completed: 46 (0.37%) (Ranked 102)  
+Completed: 46 (0.37%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

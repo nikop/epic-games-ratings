@@ -1,12 +1,12 @@
 # Hotel Renovator
-Rating: 4.48 (Ranked 561)  
+Rating: 4.48 (Ranked 562)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
 Progressed: 687 (Ranked 169)  
-Completed: 11 (1.60%) (Ranked 59)  
+Completed: 11 (1.60%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

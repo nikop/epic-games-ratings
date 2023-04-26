@@ -1,17 +1,17 @@
 # Warhammer 40,000: Mechanicus - Standard Edition
-Rating: 4.43 (Ranked 630)  
+Rating: 4.43 (Ranked 631)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 276  (Ranked 226)  
 Sum: 2,087 (Ranked 180)  
 Diff (max vs sum): 46
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,277 (Ranked 46)  
-Completed: 2 (0.00%) (Ranked 187)  
+Progressed: 207,281 (Ranked 46)  
+Completed: 2 (0.00%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 207,254 | 2 |
-| 2023-04-26 | 207,277 | 2 |
+| 2023-04-26 | 207,281 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

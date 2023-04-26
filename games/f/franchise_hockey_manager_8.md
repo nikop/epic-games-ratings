@@ -1,5 +1,5 @@
 # Franchise Hockey Manager 8
-Rating: 4.20 (Ranked 798)  
+Rating: 4.20 (Ranked 799)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
