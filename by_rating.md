@@ -465,7 +465,7 @@
 | 443 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 47 | 390 |
 | 443 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 3,768 | 75 |
 | 465 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 0 | 488 |
-| 465 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,090 | 126 |
+| 465 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,092 | 126 |
 | 465 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 21 | 476 |
 | 465 | [Hue](games/h/hue.md) | 4.55 | 0 | 488 |
 | 465 | [Outward](games/o/outward.md) | 4.55 | 31 | 437 |
@@ -814,7 +814,7 @@
 | 799 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 77 | 345 |
 | 813 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 382 |
 | 813 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 0 | 488 |
-| 813 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 180,906 | 4 |
+| 813 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 181,004 | 4 |
 | 813 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 488 |
 | 813 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 26 | 455 |
 | 818 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 88 | 332 |

@@ -3,7 +3,7 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 1,255,000 | 4.29 | 755 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 393,257 | 4.51 | 510 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 291,065 | 4.68 | 230 |
-| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 180,906 | 4.19 | 813 |
+| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 181,004 | 4.19 | 813 |
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 161,895 | 4.68 | 230 |
 | 6 | [Fall Guys](games/f/fall_guys.md) | 137,799 | 4.53 | 486 |
 | 7 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 136,163 | 4.89 | 12 |
@@ -125,7 +125,7 @@
 | 123 | [XCOM® 2](games/x/xcom®_2.md) | 1,126 | 4.54 | 473 |
 | 124 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,104 | 4.52 | 497 |
 | 125 | [OUTRIDERS](games/o/outriders.md) | 1,099 | 4.42 | 638 |
-| 126 | [Conan Exiles](games/c/conan_exiles.md) | 1,090 | 4.55 | 465 |
+| 126 | [Conan Exiles](games/c/conan_exiles.md) | 1,092 | 4.55 | 465 |
 | 127 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,072 | 4.61 | 349 |
 | 128 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,059 | 4.61 | 349 |
 | 129 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,030 | 4.66 | 270 |

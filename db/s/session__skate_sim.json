@@ -48,7 +48,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game has Diverse Characters",
@@ -539,23 +539,29 @@
       "Rating": 4.65,
       "NumberOfAwards": 394,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-04-26T03:59:56.7425796+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 395,
+      "NumberOfAwardsMax": 48
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1896,
-  "LastUpdate_Achievements": "2023-04-26T03:08:42.8328084+00:00",
-  "LastUpdate_Ratings": "2023-04-26T03:00:59.4752652+00:00",
-  "LastChanged_Achievements": "2023-04-26T03:08:42.8328074+00:00",
-  "LastChanged": "2023-04-18T13:07:46.5680463+00:00",
+  "LastUpdate_Achievements": "2023-04-26T04:06:08.632088+00:00",
+  "LastUpdate_Ratings": "2023-04-26T03:59:56.7425801+00:00",
+  "LastChanged_Achievements": "2023-04-26T04:06:08.6320874+00:00",
+  "LastChanged": "2023-04-26T03:59:56.7425792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "MaxAwardTitle": "Highly Recommended",
   "NumberOfAwardsMax": 48,
-  "NumberOfAwards": 394,
+  "NumberOfAwards": 395,
   "NumberOfRatings": 111,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_Progress": 139,
-  "Ranking_PopularitySum": 300,
+  "Ranking_PopularitySum": 299,
   "Ranking_Popularity": 387,
   "Ranking_Rating": 287,
   "Rating": 4.65,

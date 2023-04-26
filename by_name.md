@@ -136,7 +136,7 @@
 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.25 | 773 | 22 | 470 |
 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 877 | 0 | 488 |
 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 349 | 0 | 488 |
-| [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 465 | 1,090 | 126 |
+| [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 465 | 1,092 | 126 |
 | [Conarium](games/c/conarium.md) | 3.91 | 889 | 0 | 488 |
 | [Control](games/c/control.md) | 4.60 | 375 | 8,240 | 37 |
 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 60 | 0 | 488 |
@@ -477,7 +477,7 @@
 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 253 | 2,209 | 97 |
 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 230 | 551 | 170 |
 | [MythForce](games/m/mythforce.md) | 4.51 | 510 | 32 | 431 |
-| [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 813 | 180,906 | 4 |
+| [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 813 | 181,004 | 4 |
 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 673 | 11,639 | 29 |
 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 849 | 0 | 488 |
 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 673 | 0 | 488 |

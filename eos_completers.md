@@ -5,7 +5,7 @@
 | 16 | [Scorn](games/s/scorn.md) | 7.08% |
 | 21 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
 | 24 | [Bugsnax](games/b/bugsnax.md) | 4.58% |
-| 29 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
+| 29 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
 | 37 | [Lamentum](games/l/lamentum.md) | 3.02% |
 | 39 | [MultiVersus](games/m/multiversus.md) | 2.97% |
 | 41 | [Destiny 2](games/d/destiny_2.md) | 2.92% |
@@ -18,7 +18,7 @@
 | 59 | [Somerville](games/s/somerville.md) | 1.63% |
 | 60 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.60% |
 | 65 | [Chorus](games/c/chorus.md) | 1.33% |
-| 70 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.25% |
+| 70 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.24% |
 | 72 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.19% |
 | 74 | [Dungeons 3](games/d/dungeons_3.md) | 0.96% |
 | 76 | [Sable](games/s/sable.md) | 0.90% |
