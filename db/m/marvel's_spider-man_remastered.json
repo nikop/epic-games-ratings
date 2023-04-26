@@ -30,7 +30,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 868
+      "Count": 869
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2731,18 +2731,24 @@
       "Rating": 4.87,
       "NumberOfAwards": 19005,
       "NumberOfAwardsMax": 11313
+    },
+    {
+      "Time": "2023-04-26T17:58:30.3212274+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 19006,
+      "NumberOfAwardsMax": 11313
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T17:03:22.0854903+00:00",
-  "LastUpdate_Ratings": "2023-04-26T16:57:56.8196475+00:00",
-  "LastChanged": "2023-04-26T13:06:29.1949781+00:00",
+  "LastUpdate_Achievements": "2023-04-26T18:03:16.2364651+00:00",
+  "LastUpdate_Ratings": "2023-04-26T17:58:30.3212279+00:00",
+  "LastChanged": "2023-04-26T17:58:30.3212272+00:00",
   "FirstSeenRating": "2022-08-12T21:01:33.6251933+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 11313,
-  "NumberOfAwards": 19005,
+  "NumberOfAwards": 19006,
   "NumberOfRatings": 14015,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_Progress": 357,

@@ -5,7 +5,7 @@
 | 3 | [Doodle Devil](games/d/doodle_devil.md) | 19.72% |
 | 4 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 5 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 14.29% |
-| 6 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
+| 6 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
 | 7 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 11.72% |
 | 8 | [Ravenlok](games/r/ravenlok.md) | 11.54% |
 | 9 | [Smelter](games/s/smelter.md) | 10.34% |
@@ -15,7 +15,7 @@
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.54% |
 | 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.43% |
-| 16 | [Scorn](games/s/scorn.md) | 7.08% |
+| 16 | [Scorn](games/s/scorn.md) | 7.07% |
 | 17 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 7.02% |
 | 18 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.32% |
 | 19 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.15% |
@@ -31,7 +31,7 @@
 | 29 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 30 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 31 | [The Complex](games/t/the_complex.md) | 3.60% |
-| 32 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.55% |
+| 32 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.54% |
 | 33 | [The Bunker](games/t/the_bunker.md) | 3.37% |
 | 34 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 35 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.27% |
@@ -97,7 +97,7 @@
 | 95 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 96 | [Aragami 2](games/a/aragami_2.md) | 0.45% |
 | 96 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.45% |
-| 96 | [Tails of Iron](games/t/tails_of_iron.md) | 0.45% |
+| 98 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
 | 99 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.41% |
 | 99 | [Potion Permit](games/p/potion_permit.md) | 0.41% |
 | 101 | [Godlike Burger](games/g/godlike_burger.md) | 0.38% |
@@ -116,11 +116,11 @@
 | 114 | [Tchia](games/t/tchia.md) | 0.30% |
 | 115 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
 | 115 | [Aegis Descent](games/a/aegis_descent.md) | 0.29% |
-| 115 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.29% |
-| 118 | [Despot's Game](games/d/despot's_game.md) | 0.28% |
-| 119 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
-| 119 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.27% |
-| 119 | [Wildermyth](games/w/wildermyth.md) | 0.27% |
+| 117 | [Despot's Game](games/d/despot's_game.md) | 0.28% |
+| 118 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.27% |
+| 118 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
+| 118 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.27% |
+| 118 | [Wildermyth](games/w/wildermyth.md) | 0.27% |
 | 122 | [Circus Electrique](games/c/circus_electrique.md) | 0.26% |
 | 123 | [Blanc](games/b/blanc.md) | 0.23% |
 | 123 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
@@ -355,4 +355,4 @@
 | 188 | [We Are OFK](games/w/we_are_ofk.md) | 0.00% |
 | 188 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 188 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,505 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,506 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

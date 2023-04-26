@@ -18,7 +18,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4792
+      "Count": 4797
     },
     {
       "Text": "This game is Extremely Fun",
@@ -208,6 +208,11 @@
     {
       "Time": "2023-04-26T17:00:07.7027208+00:00",
       "NumProgressed": 21751,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T18:01:42.6395661+00:00",
+      "NumProgressed": 21827,
       "NumCompleted": 0
     }
   ],
@@ -4252,19 +4257,25 @@
       "Rating": 4.68,
       "NumberOfAwards": 42250,
       "NumberOfAwardsMax": 5102
+    },
+    {
+      "Time": "2023-04-26T17:57:14.84051+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 42255,
+      "NumberOfAwardsMax": 5102
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
-  "EOS_Progressed": 21751,
-  "LastUpdate_Achievements": "2023-04-26T17:00:07.7027212+00:00",
-  "LastUpdate_Ratings": "2023-04-26T16:57:03.7222098+00:00",
-  "LastChanged_Achievements": "2023-04-26T17:00:07.7027198+00:00",
-  "LastChanged": "2023-04-26T13:56:52.4441395+00:00",
+  "EOS_Progressed": 21827,
+  "LastUpdate_Achievements": "2023-04-26T18:01:42.6395668+00:00",
+  "LastUpdate_Ratings": "2023-04-26T17:57:14.8405104+00:00",
+  "LastChanged_Achievements": "2023-04-26T18:01:42.6395645+00:00",
+  "LastChanged": "2023-04-26T17:57:14.8405098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "MaxAwardTitle": "Educational",
   "NumberOfAwardsMax": 5102,
-  "NumberOfAwards": 42250,
+  "NumberOfAwards": 42255,
   "NumberOfRatings": 8414,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_Progress": 85,

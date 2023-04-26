@@ -1,10 +1,10 @@
 # Solar Ash
-Rating: 4.66 (Ranked 270)  
+Rating: 4.66 (Ranked 269)  
 Number of Ratings: 106  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 24  (Ranked 462)  
+Max (Great Boss Battles): 24  (Ranked 463)  
 Sum: 24 (Ranked 467)  
-Diff (max vs sum): -5
+Diff (max vs sum): -4
 ## Awards
 | Award | Count |
 | ----- | ----- |
