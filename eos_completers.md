@@ -13,7 +13,7 @@
 | 11 | [Time Loader](games/t/time_loader.md) | 8.51% |
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
-| 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.50% |
+| 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.48% |
 | 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.43% |
 | 16 | [Scorn](games/s/scorn.md) | 7.07% |
 | 17 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.90% |
@@ -54,10 +54,10 @@
 | 52 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
 | 53 | [Sifu](games/s/sifu.md) | 1.81% |
 | 54 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.79% |
-| 55 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.72% |
-| 56 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.69% |
-| 56 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
-| 56 | [Night Book](games/n/night_book.md) | 1.69% |
+| 55 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.69% |
+| 55 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.69% |
+| 55 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
+| 55 | [Night Book](games/n/night_book.md) | 1.69% |
 | 59 | [Somerville](games/s/somerville.md) | 1.62% |
 | 60 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.60% |
 | 61 | [Frogun](games/f/frogun.md) | 1.56% |
@@ -70,9 +70,9 @@
 | 68 | [Trifox](games/t/trifox.md) | 1.28% |
 | 69 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.27% |
 | 70 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.24% |
-| 71 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 1.22% |
-| 72 | [Late Shift](games/l/late_shift.md) | 1.21% |
-| 73 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.19% |
+| 71 | [Late Shift](games/l/late_shift.md) | 1.21% |
+| 72 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.19% |
+| 73 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 1.18% |
 | 74 | [Ten Dates](games/t/ten_dates.md) | 1.06% |
 | 75 | [Dungeons 3](games/d/dungeons_3.md) | 0.97% |
 | 76 | [Five Dates](games/f/five_dates.md) | 0.91% |

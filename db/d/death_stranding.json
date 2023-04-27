@@ -18,7 +18,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 179
+      "Count": 180
     },
     {
       "Text": "This game is Relaxing",
@@ -253,6 +253,11 @@
     {
       "Time": "2023-04-27T03:05:06.1609824+00:00",
       "NumProgressed": 2489088,
+      "NumCompleted": 1198
+    },
+    {
+      "Time": "2023-04-27T04:04:28.904276+00:00",
+      "NumProgressed": 2489148,
       "NumCompleted": 1198
     }
   ],
@@ -906,20 +911,26 @@
       "Rating": 4.78,
       "NumberOfAwards": 6295,
       "NumberOfAwardsMax": 4624
+    },
+    {
+      "Time": "2023-04-27T03:59:13.972228+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6296,
+      "NumberOfAwardsMax": 4624
     }
   ],
   "EOS_Completed_Percentage": 0.05,
   "EOS_Completed": 1198,
-  "EOS_Progressed": 2489088,
-  "LastUpdate_Achievements": "2023-04-27T03:05:06.160983+00:00",
-  "LastUpdate_Ratings": "2023-04-27T03:00:08.3016331+00:00",
-  "LastChanged_Achievements": "2023-04-27T03:05:06.1609818+00:00",
-  "LastChanged": "2023-04-26T20:59:44.7093788+00:00",
+  "EOS_Progressed": 2489148,
+  "LastUpdate_Achievements": "2023-04-27T04:04:28.9042766+00:00",
+  "LastUpdate_Ratings": "2023-04-27T03:59:13.9722283+00:00",
+  "LastChanged_Achievements": "2023-04-27T04:04:28.9042755+00:00",
+  "LastChanged": "2023-04-27T03:59:13.9722277+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4568425+00:00",
   "FirstSeenRating": "2022-12-26T09:58:07.1196688+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 4624,
-  "NumberOfAwards": 6295,
+  "NumberOfAwards": 6296,
   "Ranking_EOS_Completed": 161,
   "Ranking_EOS_Progress": 5,
   "Ranking_PopularitySum": 110,
