@@ -48,7 +48,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 665
+      "Count": 671
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1681,20 +1681,26 @@
       "Rating": 4.78,
       "NumberOfAwards": 32642,
       "NumberOfAwardsMax": 18040
+    },
+    {
+      "Time": "2023-04-27T07:57:08.4466449+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 32648,
+      "NumberOfAwardsMax": 18040
     }
   ],
   "EOS_Completed_Percentage": 0.13,
   "EOS_Completed": 333,
   "EOS_Progressed": 264180,
-  "LastUpdate_Achievements": "2023-04-27T07:00:28.237233+00:00",
-  "LastUpdate_Ratings": "2023-04-27T06:57:12.2870395+00:00",
-  "LastChanged_Achievements": "2023-04-27T07:00:28.2372319+00:00",
-  "LastChanged": "2023-04-27T02:57:19.1204527+00:00",
+  "LastUpdate_Achievements": "2023-04-27T08:00:26.1203288+00:00",
+  "LastUpdate_Ratings": "2023-04-27T07:57:08.4466454+00:00",
+  "LastChanged_Achievements": "2023-04-27T08:00:26.1203281+00:00",
+  "LastChanged": "2023-04-27T07:57:08.4466448+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 18040,
-  "NumberOfAwards": 32642,
+  "NumberOfAwards": 32648,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_Progress": 37,
   "Ranking_PopularitySum": 34,

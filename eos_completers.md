@@ -48,10 +48,10 @@
 | 46 | [JARS](games/j/jars.md) | 2.70% |
 | 47 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 48 | [Iron Danger](games/i/iron_danger.md) | 2.48% |
-| 49 | [ZZT!](games/z/zzt!.md) | 2.30% |
+| 49 | [ZZT!](games/z/zzt!.md) | 2.34% |
 | 50 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.24% |
 | 51 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
-| 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 2.08% |
+| 52 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 2.02% |
 | 53 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
 | 54 | [Sifu](games/s/sifu.md) | 1.81% |
 | 55 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.79% |
@@ -355,4 +355,4 @@
 | 189 | [We Are OFK](games/w/we_are_ofk.md) | 0.00% |
 | 189 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 189 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,509 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,510 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

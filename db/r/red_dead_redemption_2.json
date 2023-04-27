@@ -18,7 +18,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 12720
+      "Count": 12750
     },
     {
       "Text": "This game has Amazing Characters",
@@ -54,7 +54,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 12782
+      "Count": 12801
     },
     {
       "Text": "This game is Great for Beginners",
@@ -66,7 +66,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 12763
+      "Count": 12796
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -78,7 +78,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 12204
+      "Count": 12237
     },
     {
       "Text": "This game has a Creative Community",
@@ -5009,17 +5009,23 @@
       "Rating": 4.89,
       "NumberOfAwards": 346474,
       "NumberOfAwardsMax": 136374
+    },
+    {
+      "Time": "2023-04-27T07:58:37.6170962+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 346589,
+      "NumberOfAwardsMax": 136374
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-27T07:03:49.2883784+00:00",
-  "LastUpdate_Ratings": "2023-04-27T06:58:42.8279141+00:00",
-  "LastChanged": "2023-04-27T05:58:35.2347719+00:00",
+  "LastUpdate_Achievements": "2023-04-27T08:03:53.3671055+00:00",
+  "LastUpdate_Ratings": "2023-04-27T07:58:37.6170967+00:00",
+  "LastChanged": "2023-04-27T07:58:37.6170961+00:00",
   "MaxAwardTitle": "Impact the Story",
   "NumberOfAwardsMax": 136374,
-  "NumberOfAwards": 346474,
+  "NumberOfAwards": 346589,
   "NumberOfRatings": 102658,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_Progress": 357,

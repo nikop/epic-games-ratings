@@ -55,7 +55,7 @@
 | 49 | [Subnautica](games/s/subnautica.md) | 4.84 | 647 | 159 |
 | 54 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 50 | 382 |
 | 54 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 0 | 488 |
-| 54 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 385 | 200 |
+| 54 | [Slime Rancher](games/s/slime_rancher.md) | 4.83 | 385 | 201 |
 | 54 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 0 | 488 |
 | 54 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 81 | 342 |
 | 54 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.83 | 0 | 488 |
@@ -129,7 +129,7 @@
 | 126 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,779 | 63 |
 | 126 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,165 | 83 |
 | 126 | [Diabotical](games/d/diabotical.md) | 4.75 | 265 | 233 |
-| 126 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 385 | 200 |
+| 126 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 389 | 199 |
 | 126 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 97 | 320 |
 | 126 | [Quake](games/q/quake.md) | 4.75 | 45 | 395 |
 | 126 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 420 | 190 |
@@ -408,7 +408,7 @@
 | 391 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.59 | 0 | 488 |
 | 391 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 307 | 221 |
 | 408 | [Among Us](games/a/among_us.md) | 4.58 | 2,379 | 92 |
-| 408 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.58 | 584 | 165 |
+| 408 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.58 | 586 | 165 |
 | 408 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 88 | 332 |
 | 408 | [Breathedge](games/b/breathedge.md) | 4.58 | 0 | 488 |
 | 408 | [Deceive Inc.](games/d/deceive_inc..md) | 4.58 | 0 | 488 |
@@ -669,7 +669,7 @@
 | 664 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.40 | 0 | 488 |
 | 664 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 0 | 488 |
 | 664 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 73 | 351 |
-| 664 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 388 | 199 |
+| 664 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 388 | 200 |
 | 664 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 0 | 488 |
 | 664 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 0 | 488 |
 | 664 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 488 |
