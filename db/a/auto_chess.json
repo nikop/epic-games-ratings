@@ -36,7 +36,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 715
+      "Count": 716
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2533,17 +2533,23 @@
       "Rating": 4.52,
       "NumberOfAwards": 5782,
       "NumberOfAwardsMax": 733
+    },
+    {
+      "Time": "2023-04-27T19:58:52.1971488+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 5783,
+      "NumberOfAwardsMax": 733
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-27T19:03:52.3483204+00:00",
-  "LastUpdate_Ratings": "2023-04-27T18:58:37.0349811+00:00",
-  "LastChanged": "2023-04-27T06:58:26.798214+00:00",
+  "LastUpdate_Achievements": "2023-04-27T20:03:48.8428299+00:00",
+  "LastUpdate_Ratings": "2023-04-27T19:58:52.1971491+00:00",
+  "LastChanged": "2023-04-27T19:58:52.1971486+00:00",
   "MaxAwardTitle": "Competitive Players",
   "NumberOfAwardsMax": 733,
-  "NumberOfAwards": 5782,
+  "NumberOfAwards": 5783,
   "NumberOfRatings": 2249,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 361,

@@ -60,7 +60,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 62
+      "Count": 65
     },
     {
       "Text": "This game has Easy Combat",
@@ -1166,18 +1166,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 846,
       "NumberOfAwardsMax": 132
+    },
+    {
+      "Time": "2023-04-27T19:57:28.5216483+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 849,
+      "NumberOfAwardsMax": 132
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-27T19:02:34.6106991+00:00",
-  "LastUpdate_Ratings": "2023-04-27T18:57:14.9714423+00:00",
-  "LastChanged": "2023-04-27T17:57:19.2461651+00:00",
+  "LastUpdate_Achievements": "2023-04-27T20:02:21.2181886+00:00",
+  "LastUpdate_Ratings": "2023-04-27T19:57:28.5216486+00:00",
+  "LastChanged": "2023-04-27T19:57:28.5216481+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 132,
-  "NumberOfAwards": 846,
+  "NumberOfAwards": 849,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 361,
   "Ranking_PopularitySum": 242,

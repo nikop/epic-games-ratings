@@ -12,7 +12,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 76
+      "Count": 79
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1336,18 +1336,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 837,
       "NumberOfAwardsMax": 91
+    },
+    {
+      "Time": "2023-04-27T19:59:49.4661064+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 840,
+      "NumberOfAwardsMax": 91
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-27T19:04:50.8296655+00:00",
-  "LastUpdate_Ratings": "2023-04-27T18:59:33.9173426+00:00",
-  "LastChanged": "2023-04-27T18:59:33.9173421+00:00",
+  "LastUpdate_Achievements": "2023-04-27T20:04:57.7776572+00:00",
+  "LastUpdate_Ratings": "2023-04-27T19:59:49.4661067+00:00",
+  "LastChanged": "2023-04-27T19:59:49.466106+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 91,
-  "NumberOfAwards": 837,
+  "NumberOfAwards": 840,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 361,
   "Ranking_PopularitySum": 243,

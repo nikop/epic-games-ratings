@@ -9,19 +9,19 @@
 | 7 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 11.72% |
 | 8 | [Ravenlok](games/r/ravenlok.md) | 11.32% |
 | 9 | [Smelter](games/s/smelter.md) | 10.34% |
-| 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 9.09% |
-| 11 | [Time Loader](games/t/time_loader.md) | 8.51% |
-| 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
-| 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
+| 10 | [Time Loader](games/t/time_loader.md) | 8.51% |
+| 11 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
+| 12 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
+| 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.58% |
 | 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.43% |
-| 16 | [Island Cities](games/i/island_cities.md) | 7.14% |
-| 17 | [Scorn](games/s/scorn.md) | 7.07% |
-| 18 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.67% |
-| 19 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
+| 16 | [Scorn](games/s/scorn.md) | 7.07% |
+| 17 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.67% |
+| 18 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
+| 19 | [Island Cities](games/i/island_cities.md) | 6.25% |
 | 20 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 21 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.88% |
-| 22 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.91% |
+| 22 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.01% |
 | 23 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
 | 24 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.61% |
 | 25 | [Bugsnax](games/b/bugsnax.md) | 4.59% |
@@ -30,8 +30,8 @@
 | 28 | [Doodle God](games/d/doodle_god.md) | 4.10% |
 | 29 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.02% |
 | 30 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
-| 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 3.90% |
-| 32 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
+| 31 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
+| 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 3.85% |
 | 33 | [The Complex](games/t/the_complex.md) | 3.59% |
 | 34 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.54% |
 | 35 | [The Bunker](games/t/the_bunker.md) | 3.37% |
@@ -51,7 +51,7 @@
 | 49 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 50 | [Iron Danger](games/i/iron_danger.md) | 2.48% |
 | 51 | [ZZT!](games/z/zzt!.md) | 2.38% |
-| 52 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.25% |
+| 52 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.24% |
 | 53 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 54 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
 | 55 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -85,7 +85,7 @@
 | 83 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.84% |
 | 84 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
 | 85 | [Adios](games/a/adios.md) | 0.77% |
-| 86 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
+| 86 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 87 | [Train Valley](games/t/train_valley.md) | 0.74% |
 | 88 | [Haven](games/h/haven.md) | 0.73% |
 | 89 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.68% |
@@ -359,4 +359,4 @@
 | 190 | [We Are OFK](games/w/we_are_ofk.md) | 0.00% |
 | 190 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 190 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,517 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,518 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

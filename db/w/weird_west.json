@@ -35,6 +35,11 @@
       "Time": "2023-04-27T18:03:31.3518+00:00",
       "NumProgressed": 1485,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-04-27T20:03:35.7732802+00:00",
+      "NumProgressed": 1486,
+      "NumCompleted": 2
     }
   ],
   "RatingHistory": [
@@ -321,10 +326,10 @@
   ],
   "EOS_Completed_Percentage": 0.13,
   "EOS_Completed": 2,
-  "EOS_Progressed": 1485,
-  "LastUpdate_Achievements": "2023-04-27T19:03:39.6523676+00:00",
-  "LastUpdate_Ratings": "2023-04-27T18:58:20.855088+00:00",
-  "LastChanged_Achievements": "2023-04-27T19:03:39.6523672+00:00",
+  "EOS_Progressed": 1486,
+  "LastUpdate_Achievements": "2023-04-27T20:03:35.7732813+00:00",
+  "LastUpdate_Ratings": "2023-04-27T19:58:34.238223+00:00",
+  "LastChanged_Achievements": "2023-04-27T20:03:35.7732798+00:00",
   "LastChanged": "2023-04-18T11:59:25.595754+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "MaxAwardTitle": "Impact the Story",
