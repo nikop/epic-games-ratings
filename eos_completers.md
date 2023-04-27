@@ -13,7 +13,7 @@
 | 11 | [Time Loader](games/t/time_loader.md) | 8.51% |
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
-| 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.60% |
+| 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.59% |
 | 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.43% |
 | 16 | [Scorn](games/s/scorn.md) | 7.07% |
 | 17 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.78% |
@@ -22,9 +22,9 @@
 | 20 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.88% |
 | 21 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.91% |
 | 22 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 4.62% |
-| 24 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.61% |
-| 25 | [Bugsnax](games/b/bugsnax.md) | 4.59% |
+| 23 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.61% |
+| 24 | [Bugsnax](games/b/bugsnax.md) | 4.59% |
+| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 4.48% |
 | 26 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
 | 27 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.17% |
 | 28 | [Doodle God](games/d/doodle_god.md) | 4.10% |
@@ -49,8 +49,8 @@
 | 47 | [JARS](games/j/jars.md) | 2.70% |
 | 48 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 49 | [Iron Danger](games/i/iron_danger.md) | 2.48% |
-| 50 | [ZZT!](games/z/zzt!.md) | 2.34% |
-| 51 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.24% |
+| 50 | [ZZT!](games/z/zzt!.md) | 2.33% |
+| 51 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.25% |
 | 52 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 53 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
 | 54 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -144,23 +144,23 @@
 | 140 | [Weird West](games/w/weird_west.md) | 0.13% |
 | 143 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 143 | [Partisans 1941](games/p/partisans_1941.md) | 0.12% |
-| 143 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.12% |
-| 146 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
-| 147 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 147 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |
-| 147 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.10% |
-| 150 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.09% |
-| 150 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 150 | [Fall Guys](games/f/fall_guys.md) | 0.09% |
-| 150 | [Supraland](games/s/supraland.md) | 0.09% |
-| 154 | [Riverbond](games/r/riverbond.md) | 0.08% |
-| 154 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.08% |
-| 154 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
-| 157 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
-| 158 | [Dead Island 2](games/d/dead_island_2.md) | 0.06% |
-| 158 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
-| 158 | [Shop Titans](games/s/shop_titans.md) | 0.06% |
-| 158 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
+| 145 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
+| 146 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 146 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |
+| 146 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.10% |
+| 149 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.09% |
+| 149 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 149 | [Fall Guys](games/f/fall_guys.md) | 0.09% |
+| 149 | [Supraland](games/s/supraland.md) | 0.09% |
+| 153 | [Riverbond](games/r/riverbond.md) | 0.08% |
+| 153 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.08% |
+| 153 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
+| 156 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
+| 157 | [Dead Island 2](games/d/dead_island_2.md) | 0.06% |
+| 157 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
+| 157 | [Shop Titans](games/s/shop_titans.md) | 0.06% |
+| 157 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.06% |
+| 157 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 162 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
 | 162 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.05% |
 | 164 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
@@ -188,7 +188,6 @@
 | 180 | [Severed Steel](games/s/severed_steel.md) | 0.01% |
 | 180 | [Sunless Sea](games/s/sunless_sea.md) | 0.01% |
 | 180 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
-| 189 | [](games/c/c9e2559572f64192b1e37049eee27783.md) | 0.00% |
 | 189 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 0.00% |
 | 189 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.00% |
 | 189 | [A Tale of Paper: Refolded](games/a/a_tale_of_paper__refolded.md) | 0.00% |
@@ -250,6 +249,7 @@
 | 189 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.00% |
 | 189 | [FUR Squadron](games/f/fur_squadron.md) | 0.00% |
 | 189 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 0.00% |
+| 189 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 0.00% |
 | 189 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 0.00% |
 | 189 | [Garden In](games/g/garden_in.md) | 0.00% |
 | 189 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 0.00% |
@@ -358,4 +358,4 @@
 | 189 | [We Are OFK](games/w/we_are_ofk.md) | 0.00% |
 | 189 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 189 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,515 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,516 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

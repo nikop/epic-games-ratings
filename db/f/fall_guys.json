@@ -12,13 +12,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 129429
+      "Count": 129441
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 126686
+      "Count": 126702
     },
     {
       "Text": "This game has Competitive Players",
@@ -314,6 +314,11 @@
       "Time": "2023-04-27T15:05:28.1916234+00:00",
       "NumProgressed": 32230517,
       "NumCompleted": 28607
+    },
+    {
+      "Time": "2023-04-27T16:04:25.5151714+00:00",
+      "NumProgressed": 32231300,
+      "NumCompleted": 28610
     }
   ],
   "RatingHistory": [
@@ -4554,21 +4559,27 @@
       "Rating": 4.53,
       "NumberOfAwards": 1291928,
       "NumberOfAwardsMax": 137817
+    },
+    {
+      "Time": "2023-04-27T15:59:20.9473559+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 1291956,
+      "NumberOfAwardsMax": 137817
     }
   ],
   "EOS_Completed_Percentage": 0.09,
-  "EOS_Completed": 28607,
-  "EOS_Progressed": 32230517,
-  "LastUpdate_Achievements": "2023-04-27T15:05:28.1916241+00:00",
-  "LastUpdate_Ratings": "2023-04-27T15:00:22.0566795+00:00",
-  "LastChanged_Achievements": "2023-04-27T15:05:28.1916227+00:00",
-  "LastChanged": "2023-04-27T15:00:22.0566784+00:00",
+  "EOS_Completed": 28610,
+  "EOS_Progressed": 32231300,
+  "LastUpdate_Achievements": "2023-04-27T16:04:25.5151722+00:00",
+  "LastUpdate_Ratings": "2023-04-27T15:59:20.9473564+00:00",
+  "LastChanged_Achievements": "2023-04-27T16:04:25.5151706+00:00",
+  "LastChanged": "2023-04-27T15:59:20.9473556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.7143696+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 137817,
-  "NumberOfAwards": 1291928,
+  "NumberOfAwards": 1291956,
   "NumberOfRatings": 1046587,
-  "Ranking_EOS_Completed": 150,
+  "Ranking_EOS_Completed": 149,
   "Ranking_EOS_Progress": 1,
   "Ranking_PopularitySum": 4,
   "Ranking_Popularity": 6,

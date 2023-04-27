@@ -24,7 +24,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2008
+      "Count": 2010
     },
     {
       "Text": "This game is Highly Recommended",
@@ -36,7 +36,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 1974
+      "Count": 1975
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3647,17 +3647,23 @@
       "Rating": 4.63,
       "NumberOfAwards": 11922,
       "NumberOfAwardsMax": 2076
+    },
+    {
+      "Time": "2023-04-27T15:57:24.564599+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 11925,
+      "NumberOfAwardsMax": 2076
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-27T15:03:38.1450288+00:00",
-  "LastUpdate_Ratings": "2023-04-27T14:58:26.0284266+00:00",
-  "LastChanged": "2023-04-27T13:02:27.4136044+00:00",
+  "LastUpdate_Achievements": "2023-04-27T16:02:35.0247833+00:00",
+  "LastUpdate_Ratings": "2023-04-27T15:57:24.5645999+00:00",
+  "LastChanged": "2023-04-27T15:57:24.5645988+00:00",
   "MaxAwardTitle": "Highly Recommended",
   "NumberOfAwardsMax": 2076,
-  "NumberOfAwards": 11922,
+  "NumberOfAwards": 11925,
   "NumberOfRatings": 6856,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_Progress": 360,

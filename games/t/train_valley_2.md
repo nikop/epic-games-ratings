@@ -2,11 +2,11 @@
 Rating: 4.15 (Ranked 834)  
 Number of Ratings: 87  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Challenging Puzzles): 69  (Ranked 357)  
+Max (Challenging Puzzles): 69  (Ranked 358)  
 Sum: 69 (Ranked 414)  
-Diff (max vs sum): -57
+Diff (max vs sum): -56
 ## Popularity (Based on EOS Achievements)
-Progressed: 696 (Ranked 169)  
+Progressed: 696 (Ranked 170)  
 Completed: 1 (0.14%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |

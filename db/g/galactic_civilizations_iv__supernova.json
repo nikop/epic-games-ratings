@@ -1,0 +1,27 @@
+{
+  "ID": "c9e2559572f64192b1e37049eee27783",
+  "Name": "Galactic Civilizations IV: Supernova",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-27T15:02:34.619983+00:00",
+      "NumProgressed": 9,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T16:01:32.8289345+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 0
+    }
+  ],
+  "RatingHistory": [],
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 10,
+  "LastUpdate_Achievements": "2023-04-27T16:01:32.8290484+00:00",
+  "LastUpdate_Ratings": "2023-04-27T15:57:09.3080226+00:00",
+  "LastChanged_Achievements": "2023-04-27T16:01:32.828726+00:00",
+  "FirstSeenAchievements": "2023-04-27T15:02:34.6199843+00:00",
+  "Ranking_EOS_Completed": 189,
+  "Ranking_EOS_Progress": 295
+}

@@ -6,7 +6,7 @@ Max (Impact the Story): 23  (Ranked 465)
 Sum: 23 (Ranked 468)  
 Diff (max vs sum): -3
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,484 (Ranked 148)  
+Progressed: 1,484 (Ranked 149)  
 Completed: 2 (0.13%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |

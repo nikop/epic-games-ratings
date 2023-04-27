@@ -6,7 +6,7 @@ Max (Amazing Characters): 31  (Ranked 437)
 Sum: 238 (Ranked 340)  
 Diff (max vs sum): 97
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,273 (Ranked 135)  
+Progressed: 2,273 (Ranked 136)  
 Completed: 1 (0.04%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
