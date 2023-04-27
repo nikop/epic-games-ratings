@@ -13,7 +13,7 @@
 | 11 | [Time Loader](games/t/time_loader.md) | 8.51% |
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
-| 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.46% |
+| 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.44% |
 | 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.43% |
 | 16 | [Scorn](games/s/scorn.md) | 7.07% |
 | 17 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.90% |
@@ -30,18 +30,18 @@
 | 28 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.03% |
 | 29 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
 | 30 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
-| 31 | [The Complex](games/t/the_complex.md) | 3.59% |
-| 32 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.54% |
-| 33 | [The Bunker](games/t/the_bunker.md) | 3.37% |
-| 34 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
-| 35 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.27% |
-| 36 | [HordeCore](games/h/hordecore.md) | 3.08% |
-| 37 | [Lamentum](games/l/lamentum.md) | 3.02% |
-| 38 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.99% |
-| 39 | [MultiVersus](games/m/multiversus.md) | 2.97% |
-| 40 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.94% |
-| 41 | [Destiny 2](games/d/destiny_2.md) | 2.92% |
-| 42 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 2.91% |
+| 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 3.81% |
+| 32 | [The Complex](games/t/the_complex.md) | 3.59% |
+| 33 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.54% |
+| 34 | [The Bunker](games/t/the_bunker.md) | 3.37% |
+| 35 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
+| 36 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.27% |
+| 37 | [HordeCore](games/h/hordecore.md) | 3.08% |
+| 38 | [Lamentum](games/l/lamentum.md) | 3.02% |
+| 39 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.99% |
+| 40 | [MultiVersus](games/m/multiversus.md) | 2.97% |
+| 41 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.94% |
+| 42 | [Destiny 2](games/d/destiny_2.md) | 2.92% |
 | 43 | [Bunny Park](games/b/bunny_park.md) | 2.90% |
 | 44 | [FORECLOSED](games/f/foreclosed.md) | 2.82% |
 | 45 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |

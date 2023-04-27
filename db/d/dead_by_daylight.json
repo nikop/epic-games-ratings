@@ -42,7 +42,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 24674
+      "Count": 24692
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -288,6 +288,11 @@
     {
       "Time": "2023-04-27T10:04:58.1145061+00:00",
       "NumProgressed": 366919,
+      "NumCompleted": 34
+    },
+    {
+      "Time": "2023-04-27T11:04:47.0426555+00:00",
+      "NumProgressed": 367024,
       "NumCompleted": 34
     }
   ],
@@ -4691,19 +4696,25 @@
       "Rating": 4.52,
       "NumberOfAwards": 216923,
       "NumberOfAwardsMax": 26817
+    },
+    {
+      "Time": "2023-04-27T10:59:35.2110135+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 216941,
+      "NumberOfAwardsMax": 26817
     }
   ],
   "EOS_Completed_Percentage": 0.01,
   "EOS_Completed": 34,
-  "EOS_Progressed": 366919,
-  "LastUpdate_Achievements": "2023-04-27T10:04:58.1145065+00:00",
-  "LastUpdate_Ratings": "2023-04-27T09:59:43.2447665+00:00",
-  "LastChanged_Achievements": "2023-04-27T10:04:58.1145054+00:00",
-  "LastChanged": "2023-04-27T09:01:30.0027311+00:00",
+  "EOS_Progressed": 367024,
+  "LastUpdate_Achievements": "2023-04-27T11:04:47.0426566+00:00",
+  "LastUpdate_Ratings": "2023-04-27T10:59:35.2110141+00:00",
+  "LastChanged_Achievements": "2023-04-27T11:04:47.0426548+00:00",
+  "LastChanged": "2023-04-27T10:59:35.2110133+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 26817,
-  "NumberOfAwards": 216923,
+  "NumberOfAwards": 216941,
   "NumberOfRatings": 70340,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_Progress": 32,

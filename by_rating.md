@@ -68,7 +68,7 @@
 | 60 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 0 | 488 |
 | 60 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 479 | 184 |
 | 60 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 115 | 304 |
-| 60 | [Sifu](games/s/sifu.md) | 4.82 | 6,002 | 52 |
+| 60 | [Sifu](games/s/sifu.md) | 4.82 | 6,002 | 53 |
 | 60 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 34 | 426 |
 | 60 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 0 | 488 |
 | 72 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 417 | 191 |
@@ -346,7 +346,7 @@
 | 334 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 488 |
 | 334 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 102 | 317 |
 | 334 | [Prey](games/p/prey.md) | 4.62 | 5,517 | 57 |
-| 334 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 71 | 354 |
+| 334 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 71 | 355 |
 | 334 | [Transistor](games/t/transistor.md) | 4.62 | 0 | 488 |
 | 334 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.62 | 0 | 488 |
 | 350 | [20XX](games/2/20xx.md) | 4.61 | 36 | 417 |
@@ -423,7 +423,7 @@
 | 408 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 50 | 382 |
 | 408 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 171 | 269 |
 | 408 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 967 | 138 |
-| 408 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,002 | 52 |
+| 408 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,007 | 52 |
 | 408 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 204 | 252 |
 | 408 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,323 | 21 |
 | 427 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.57 | 0 | 488 |
@@ -848,7 +848,7 @@
 | 845 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.12 | 32 | 431 |
 | 845 | [Forspoken](games/f/forspoken.md) | 4.12 | 0 | 488 |
 | 845 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.12 | 0 | 488 |
-| 849 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 71 | 354 |
+| 849 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 72 | 352 |
 | 850 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 0 | 488 |
 | 850 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 488 |
 | 850 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 380 |

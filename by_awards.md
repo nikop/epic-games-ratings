@@ -51,8 +51,8 @@
 | 49 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,431 | 4.74 | 141 |
 | 50 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,245 | 4.80 | 79 |
 | 51 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,179 | 4.71 | 177 |
-| 52 | [Sifu](games/s/sifu.md) | 6,002 | 4.82 | 60 |
-| 52 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,002 | 4.58 | 408 |
+| 52 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,007 | 4.58 | 408 |
+| 53 | [Sifu](games/s/sifu.md) | 6,002 | 4.82 | 60 |
 | 54 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,904 | 4.64 | 310 |
 | 55 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,813 | 4.79 | 91 |
 | 56 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,745 | 4.66 | 271 |
@@ -351,10 +351,10 @@
 | 349 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 74 | 4.61 | 350 |
 | 349 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 74 | 4.59 | 391 |
 | 351 | [Rising Hell](games/r/rising_hell.md) | 73 | 4.40 | 664 |
+| 352 | [Armored Warfare](games/a/armored_warfare.md) | 72 | 4.11 | 849 |
 | 352 | [Carcassonne](games/c/carcassonne.md) | 72 | 4.66 | 271 |
 | 352 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 72 | 4.41 | 653 |
-| 354 | [Armored Warfare](games/a/armored_warfare.md) | 71 | 4.11 | 849 |
-| 354 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 71 | 4.62 | 334 |
+| 355 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 71 | 4.62 | 334 |
 | 356 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 70 | 4.32 | 736 |
 | 357 | [Barony](games/b/barony.md) | 69 | 4.71 | 177 |
 | 357 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 69 | 4.68 | 230 |

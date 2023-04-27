@@ -80,4 +80,3 @@
 | [Touch Type Tale](games/t/touch_type_tale.md) | - | - | 0 | - |
 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 3.90 | 894 | 57 | 377 |
 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.92 | 888 | 190 | 259 |
-| [9 Years of Shadows](games/9/9_years_of_shadows.md) | - | - | 0 | - |
