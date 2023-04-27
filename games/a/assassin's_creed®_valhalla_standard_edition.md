@@ -1,5 +1,5 @@
 # Assassin's Creed® Valhalla Standard Edition
-Rating: 4.60 (Ranked 376)  
+Rating: 4.60 (Ranked 377)  
 Number of Ratings: 12,317  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 11,541  (Ranked 30)  

@@ -16,7 +16,7 @@
 | 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.59% |
 | 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.43% |
 | 16 | [Scorn](games/s/scorn.md) | 7.07% |
-| 17 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.78% |
+| 17 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.72% |
 | 18 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.32% |
 | 19 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 20 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.88% |
@@ -24,8 +24,8 @@
 | 22 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
 | 23 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.61% |
 | 24 | [Bugsnax](games/b/bugsnax.md) | 4.59% |
-| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 4.48% |
-| 26 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
+| 25 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
+| 26 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 4.29% |
 | 27 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.17% |
 | 28 | [Doodle God](games/d/doodle_god.md) | 4.10% |
 | 29 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.02% |
@@ -49,7 +49,7 @@
 | 47 | [JARS](games/j/jars.md) | 2.70% |
 | 48 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 49 | [Iron Danger](games/i/iron_danger.md) | 2.48% |
-| 50 | [ZZT!](games/z/zzt!.md) | 2.33% |
+| 50 | [ZZT!](games/z/zzt!.md) | 2.38% |
 | 51 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.25% |
 | 52 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 53 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
@@ -106,10 +106,10 @@
 | 103 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
 | 105 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.36% |
 | 106 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.35% |
-| 107 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
-| 107 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
-| 109 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
-| 109 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.32% |
+| 107 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.34% |
+| 108 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
+| 108 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
+| 110 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
 | 111 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
 | 111 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.31% |
 | 111 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
@@ -358,4 +358,4 @@
 | 189 | [We Are OFK](games/w/we_are_ofk.md) | 0.00% |
 | 189 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 189 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,516 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,517 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

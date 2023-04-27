@@ -36,7 +36,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 336
+      "Count": 339
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1526,18 +1526,24 @@
       "Rating": 4.49,
       "NumberOfAwards": 7458,
       "NumberOfAwardsMax": 2241
+    },
+    {
+      "Time": "2023-04-27T16:58:36.1034864+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7461,
+      "NumberOfAwardsMax": 2241
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-27T16:03:45.2863427+00:00",
-  "LastUpdate_Ratings": "2023-04-27T15:58:37.9814299+00:00",
-  "LastChanged": "2023-04-27T13:58:07.6956475+00:00",
+  "LastUpdate_Achievements": "2023-04-27T17:03:37.955625+00:00",
+  "LastUpdate_Ratings": "2023-04-27T16:58:36.1034869+00:00",
+  "LastChanged": "2023-04-27T16:58:36.1034862+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 2241,
-  "NumberOfAwards": 7458,
+  "NumberOfAwards": 7461,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_Progress": 360,
   "Ranking_PopularitySum": 95,

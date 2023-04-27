@@ -42,13 +42,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 7895
+      "Count": 7900
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 7853
+      "Count": 7861
     },
     {
       "Text": "This game has a Creative Community",
@@ -312,6 +312,11 @@
     {
       "Time": "2023-04-27T16:05:09.6823502+00:00",
       "NumProgressed": 1266365,
+      "NumCompleted": 2051
+    },
+    {
+      "Time": "2023-04-27T17:05:14.5973114+00:00",
+      "NumProgressed": 1266385,
       "NumCompleted": 2051
     }
   ],
@@ -4983,19 +4988,25 @@
       "Rating": 4.78,
       "NumberOfAwards": 64890,
       "NumberOfAwardsMax": 8746
+    },
+    {
+      "Time": "2023-04-27T17:00:04.8197787+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 64903,
+      "NumberOfAwardsMax": 8746
     }
   ],
   "EOS_Completed_Percentage": 0.16,
   "EOS_Completed": 2051,
-  "EOS_Progressed": 1266365,
-  "LastUpdate_Achievements": "2023-04-27T16:05:09.6823506+00:00",
-  "LastUpdate_Ratings": "2023-04-27T16:00:04.8579752+00:00",
-  "LastChanged_Achievements": "2023-04-27T16:05:09.6823494+00:00",
-  "LastChanged": "2023-04-27T04:58:48.8582615+00:00",
+  "EOS_Progressed": 1266385,
+  "LastUpdate_Achievements": "2023-04-27T17:05:14.5973119+00:00",
+  "LastUpdate_Ratings": "2023-04-27T17:00:04.8197795+00:00",
+  "LastChanged_Achievements": "2023-04-27T17:05:14.5973107+00:00",
+  "LastChanged": "2023-04-27T17:00:04.8197784+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:56.7371376+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 8746,
-  "NumberOfAwards": 64890,
+  "NumberOfAwards": 64903,
   "NumberOfRatings": 21082,
   "Ranking_EOS_Completed": 133,
   "Ranking_EOS_Progress": 7,
