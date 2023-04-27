@@ -16,11 +16,11 @@
 | 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.44% |
 | 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.43% |
 | 16 | [Scorn](games/s/scorn.md) | 7.07% |
-| 17 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.90% |
+| 17 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.84% |
 | 18 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.32% |
 | 19 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 20 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.88% |
-| 21 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.92% |
+| 21 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.91% |
 | 22 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
 | 23 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.61% |
 | 24 | [Bugsnax](games/b/bugsnax.md) | 4.59% |
@@ -30,8 +30,8 @@
 | 28 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.03% |
 | 29 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
 | 30 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
-| 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 3.81% |
-| 32 | [The Complex](games/t/the_complex.md) | 3.59% |
+| 31 | [The Complex](games/t/the_complex.md) | 3.59% |
+| 32 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 3.57% |
 | 33 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.54% |
 | 34 | [The Bunker](games/t/the_bunker.md) | 3.37% |
 | 35 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
@@ -198,6 +198,7 @@
 | 189 | [ArcRunner](games/a/arcrunner.md) | 0.00% |
 | 189 | [Are You Smarter Than A 5th Grader](games/a/are_you_smarter_than_a_5th_grader.md) | 0.00% |
 | 189 | [Arkanoid - Eternal Battle](games/a/arkanoid_-_eternal_battle.md) | 0.00% |
+| 189 | [Ash of Gods: The Way](games/a/ash_of_gods__the_way.md) | 0.00% |
 | 189 | [Atari Mania](games/a/atari_mania.md) | 0.00% |
 | 189 | [ATOM RPG](games/a/atom_rpg.md) | 0.00% |
 | 189 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 0.00% |
