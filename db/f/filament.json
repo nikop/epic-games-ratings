@@ -6,7 +6,7 @@
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 550
+      "Count": 551
     },
     {
       "Text": "This game is Highly Recommended",
@@ -280,6 +280,11 @@
       "Time": "2023-04-27T13:08:48.1691934+00:00",
       "NumProgressed": 187956,
       "NumCompleted": 396
+    },
+    {
+      "Time": "2023-04-27T14:03:37.9796256+00:00",
+      "NumProgressed": 187961,
+      "NumCompleted": 397
     }
   ],
   "RatingHistory": [
@@ -396,24 +401,30 @@
       "Rating": 4.32,
       "NumberOfAwards": 664,
       "NumberOfAwardsMax": 550
+    },
+    {
+      "Time": "2023-04-27T13:58:35.184961+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 665,
+      "NumberOfAwardsMax": 551
     }
   ],
   "EOS_Completed_Percentage": 0.21,
-  "EOS_Completed": 396,
-  "EOS_Progressed": 187956,
-  "LastUpdate_Achievements": "2023-04-27T13:08:48.1691942+00:00",
-  "LastUpdate_Ratings": "2023-04-27T13:04:15.7315868+00:00",
-  "LastChanged_Achievements": "2023-04-27T13:08:48.1691925+00:00",
-  "LastChanged": "2023-04-22T21:57:37.2992758+00:00",
+  "EOS_Completed": 397,
+  "EOS_Progressed": 187961,
+  "LastUpdate_Achievements": "2023-04-27T14:03:37.9796261+00:00",
+  "LastUpdate_Ratings": "2023-04-27T13:58:35.1849616+00:00",
+  "LastChanged_Achievements": "2023-04-27T14:03:37.9796248+00:00",
+  "LastChanged": "2023-04-27T13:58:35.1849608+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "MaxAwardTitle": "Challenging Puzzles",
-  "NumberOfAwardsMax": 550,
-  "NumberOfAwards": 664,
+  "NumberOfAwardsMax": 551,
+  "NumberOfAwards": 665,
   "Ranking_EOS_Completed": 125,
   "Ranking_EOS_Progress": 47,
   "Ranking_PopularitySum": 264,
-  "Ranking_Popularity": 171,
+  "Ranking_Popularity": 170,
   "Ranking_Rating": 736,
   "Rating": 4.32,
   "FirstSeen": "2022-08-17T12:30:54.1950593+00:00"

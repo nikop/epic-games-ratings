@@ -25,9 +25,9 @@
 | 23 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.61% |
 | 24 | [Bugsnax](games/b/bugsnax.md) | 4.59% |
 | 25 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
-| 26 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 4.24% |
-| 27 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.17% |
-| 28 | [Doodle God](games/d/doodle_god.md) | 4.10% |
+| 26 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.17% |
+| 27 | [Doodle God](games/d/doodle_god.md) | 4.10% |
+| 28 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 4.03% |
 | 29 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.02% |
 | 30 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
 | 31 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
@@ -91,8 +91,8 @@
 | 89 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
 | 90 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.64% |
 | 91 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
-| 92 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.55% |
 | 92 | [Ghostrunner](games/g/ghostrunner.md) | 0.55% |
+| 93 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.54% |
 | 94 | [Grindstone](games/g/grindstone.md) | 0.52% |
 | 95 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.51% |
 | 96 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
@@ -106,10 +106,10 @@
 | 103 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
 | 105 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.36% |
 | 106 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.35% |
+| 107 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
 | 107 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
-| 108 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.32% |
-| 108 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
-| 108 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.32% |
+| 109 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
+| 109 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.32% |
 | 111 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
 | 111 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.31% |
 | 111 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
@@ -127,8 +127,8 @@
 | 125 | [Against the Storm](games/a/against_the_storm.md) | 0.21% |
 | 125 | [Filament](games/f/filament.md) | 0.21% |
 | 127 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
-| 127 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.20% |
-| 129 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.19% |
+| 128 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.19% |
+| 128 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.19% |
 | 130 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.18% |
 | 130 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.18% |
 | 132 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
@@ -156,13 +156,13 @@
 | 153 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.08% |
 | 153 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
 | 156 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
+| 157 | [Dead Island 2](games/d/dead_island_2.md) | 0.06% |
 | 157 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
 | 157 | [Shop Titans](games/s/shop_titans.md) | 0.06% |
 | 157 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.06% |
 | 157 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
-| 161 | [Dead Island 2](games/d/dead_island_2.md) | 0.05% |
-| 161 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
-| 161 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.05% |
+| 162 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
+| 162 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.05% |
 | 164 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
 | 164 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.04% |
 | 164 | [High On Life](games/h/high_on_life.md) | 0.04% |
@@ -356,4 +356,4 @@
 | 189 | [We Are OFK](games/w/we_are_ofk.md) | 0.00% |
 | 189 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 189 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,511 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,513 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

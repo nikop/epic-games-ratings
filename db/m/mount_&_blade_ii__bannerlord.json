@@ -6,7 +6,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 6431
+      "Count": 6440
     },
     {
       "Text": "This game is Highly Recommended",
@@ -66,7 +66,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 502
+      "Count": 504
     },
     {
       "Text": "This game has Competitive Players",
@@ -279,6 +279,11 @@
     {
       "Time": "2023-04-27T13:10:14.5277343+00:00",
       "NumProgressed": 48139,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T14:04:41.8131761+00:00",
+      "NumProgressed": 48143,
       "NumCompleted": 0
     }
   ],
@@ -3792,19 +3797,25 @@
       "Rating": 4.74,
       "NumberOfAwards": 12789,
       "NumberOfAwardsMax": 6431
+    },
+    {
+      "Time": "2023-04-27T13:59:32.6520943+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 12800,
+      "NumberOfAwardsMax": 6440
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
-  "EOS_Progressed": 48139,
-  "LastUpdate_Achievements": "2023-04-27T13:10:14.5277353+00:00",
-  "LastUpdate_Ratings": "2023-04-27T13:05:24.5265901+00:00",
-  "LastChanged_Achievements": "2023-04-27T13:10:14.5277334+00:00",
-  "LastChanged": "2023-04-26T19:00:22.2059057+00:00",
+  "EOS_Progressed": 48143,
+  "LastUpdate_Achievements": "2023-04-27T14:04:41.8131765+00:00",
+  "LastUpdate_Ratings": "2023-04-27T13:59:32.6520948+00:00",
+  "LastChanged_Achievements": "2023-04-27T14:04:41.8131754+00:00",
+  "LastChanged": "2023-04-27T13:59:32.6520941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "MaxAwardTitle": "Character Customization",
-  "NumberOfAwardsMax": 6431,
-  "NumberOfAwards": 12789,
+  "NumberOfAwardsMax": 6440,
+  "NumberOfAwards": 12800,
   "NumberOfRatings": 5603,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_Progress": 72,

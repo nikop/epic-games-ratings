@@ -78,7 +78,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 352
+      "Count": 355
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1520,18 +1520,24 @@
       "Rating": 4.49,
       "NumberOfAwards": 7455,
       "NumberOfAwardsMax": 2241
+    },
+    {
+      "Time": "2023-04-27T13:58:07.6956478+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7458,
+      "NumberOfAwardsMax": 2241
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-27T13:08:19.3515789+00:00",
-  "LastUpdate_Ratings": "2023-04-27T13:03:41.3404564+00:00",
-  "LastChanged": "2023-04-27T13:03:41.3404551+00:00",
+  "LastUpdate_Achievements": "2023-04-27T14:03:13.5521144+00:00",
+  "LastUpdate_Ratings": "2023-04-27T13:58:07.6956485+00:00",
+  "LastChanged": "2023-04-27T13:58:07.6956475+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 2241,
-  "NumberOfAwards": 7455,
+  "NumberOfAwards": 7458,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_Progress": 358,
   "Ranking_PopularitySum": 95,

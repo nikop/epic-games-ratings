@@ -60,7 +60,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 696
+      "Count": 698
     }
   ],
   "EosHistory": [],
@@ -3406,17 +3406,23 @@
       "Rating": 4.54,
       "NumberOfAwards": 7761,
       "NumberOfAwardsMax": 1010
+    },
+    {
+      "Time": "2023-04-27T13:57:11.2695327+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 7763,
+      "NumberOfAwardsMax": 1010
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-27T13:07:43.7159252+00:00",
-  "LastUpdate_Ratings": "2023-04-27T13:02:32.4020381+00:00",
-  "LastChanged": "2023-04-26T23:57:13.0468557+00:00",
+  "LastUpdate_Achievements": "2023-04-27T14:02:13.3103576+00:00",
+  "LastUpdate_Ratings": "2023-04-27T13:57:11.2695332+00:00",
+  "LastChanged": "2023-04-27T13:57:11.2695324+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 1010,
-  "NumberOfAwards": 7761,
+  "NumberOfAwards": 7763,
   "NumberOfRatings": 4870,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_Progress": 358,
