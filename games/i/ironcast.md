@@ -1,5 +1,5 @@
 # Ironcast
-Rating: 3.92 (Ranked 888)  
+Rating: 3.93 (Ranked 886)  
 Number of Ratings: 238  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
@@ -87,3 +87,4 @@ Diff (max vs sum): 0
 | 2023-01-16 | 3.91 | - | - | - |
 | 2023-02-25 | 3.92 | - | - | - |
 | 2023-03-31 | 3.92 | - | 0 | 0 |
+| 2023-04-27 | 3.93 | - | 0 | 0 |

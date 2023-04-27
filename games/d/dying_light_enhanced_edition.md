@@ -2,22 +2,22 @@
 Rating: 4.58 (Ranked 408)  
 Number of Ratings: 3,181  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 24,862  (Ranked 16)  
-Sum: 44,434 (Ranked 25)  
+Max (Character Customization): 25,375  (Ranked 16)  
+Sum: 44,947 (Ranked 25)  
 Diff (max vs sum): -9
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,325,173 (Ranked 4)  
+Progressed: 3,325,744 (Ranked 4)  
 Completed: 6 (0.00%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 3,296,074 | 6 |
 | 2023-04-26 | 3,311,627 | 6 |
-| 2023-04-27 | 3,325,173 | 6 |
+| 2023-04-27 | 3,325,744 | 6 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 24,862 |
+| This game has Inclusive Character Customization | 25,375 |
 | This game has Great Boss Battles | 9,885 |
 | This game is Great for Beginners | 1,352 |
 | This game has Diverse Characters | 1,209 |
@@ -145,4 +145,4 @@ Completed: 6 (0.00%) (Ranked 190)
 | 2023-04-24 | 4.58 | - | 23,774 | 42,031 |
 | 2023-04-25 | 4.58 | - | 24,345 | 43,144 |
 | 2023-04-26 | 4.58 | - | 24,862 | 44,197 |
-| 2023-04-27 | 4.58 | - | 24,862 | 44,434 |
+| 2023-04-27 | 4.58 | - | 25,375 | 44,947 |

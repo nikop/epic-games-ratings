@@ -6,13 +6,13 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 291532
+      "Count": 291988
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 131232
+      "Count": 131486
     },
     {
       "Text": "This game has Diverse Characters",
@@ -30,19 +30,19 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 108374
+      "Count": 108659
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 109825
+      "Count": 110087
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 110570
+      "Count": 110853
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -66,7 +66,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 104325
+      "Count": 104538
     }
   ],
   "EosHistory": [],
@@ -4767,17 +4767,23 @@
       "Rating": 4.68,
       "NumberOfAwards": 1304934,
       "NumberOfAwardsMax": 291532
+    },
+    {
+      "Time": "2023-04-27T20:58:18.1016167+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1306687,
+      "NumberOfAwardsMax": 291988
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-27T20:03:51.9106549+00:00",
-  "LastUpdate_Ratings": "2023-04-27T19:58:54.9428354+00:00",
-  "LastChanged": "2023-04-26T21:58:33.6094414+00:00",
+  "LastUpdate_Achievements": "2023-04-27T21:03:23.1178662+00:00",
+  "LastUpdate_Ratings": "2023-04-27T20:58:18.1016172+00:00",
+  "LastChanged": "2023-04-27T20:58:18.1016166+00:00",
   "MaxAwardTitle": "Character Customization",
-  "NumberOfAwardsMax": 291532,
-  "NumberOfAwards": 1304934,
+  "NumberOfAwardsMax": 291988,
+  "NumberOfAwards": 1306687,
   "NumberOfRatings": 219180,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 361,

@@ -36,7 +36,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 136
+      "Count": 139
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1146,21 +1146,27 @@
       "Rating": 4.52,
       "NumberOfAwards": 2293,
       "NumberOfAwardsMax": 1111
+    },
+    {
+      "Time": "2023-04-27T20:59:42.4466751+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 2296,
+      "NumberOfAwardsMax": 1111
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-27T20:05:56.7921203+00:00",
-  "LastUpdate_Ratings": "2023-04-27T20:00:43.5981047+00:00",
-  "LastChanged": "2023-04-27T18:00:51.4859134+00:00",
+  "LastUpdate_Achievements": "2023-04-27T21:04:54.9511767+00:00",
+  "LastUpdate_Ratings": "2023-04-27T20:59:42.4466758+00:00",
+  "LastChanged": "2023-04-27T20:59:42.4466749+00:00",
   "FirstSeenRating": "2022-12-03T17:57:10.4344427+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 1111,
-  "NumberOfAwards": 2293,
+  "NumberOfAwards": 2296,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 361,
-  "Ranking_PopularitySum": 171,
+  "Ranking_PopularitySum": 170,
   "Ranking_Popularity": 124,
   "Ranking_Rating": 498,
   "Rating": 4.52,

@@ -54,7 +54,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 801
+      "Count": 802
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3541,17 +3541,23 @@
       "Rating": 4.58,
       "NumberOfAwards": 13809,
       "NumberOfAwardsMax": 6007
+    },
+    {
+      "Time": "2023-04-27T20:58:29.4027923+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13810,
+      "NumberOfAwardsMax": 6007
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-27T20:04:15.3572291+00:00",
-  "LastUpdate_Ratings": "2023-04-27T19:59:07.8467512+00:00",
-  "LastChanged": "2023-04-27T13:58:45.5655117+00:00",
+  "LastUpdate_Achievements": "2023-04-27T21:03:33.8851378+00:00",
+  "LastUpdate_Ratings": "2023-04-27T20:58:29.402793+00:00",
+  "LastChanged": "2023-04-27T20:58:29.4027919+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 6007,
-  "NumberOfAwards": 13809,
+  "NumberOfAwards": 13810,
   "NumberOfRatings": 8439,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 361,

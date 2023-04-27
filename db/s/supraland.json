@@ -60,7 +60,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 232
+      "Count": 233
     },
     {
       "Text": "This game has a Creative Community",
@@ -333,6 +333,11 @@
     {
       "Time": "2023-04-27T20:01:34.4132914+00:00",
       "NumProgressed": 701689,
+      "NumCompleted": 661
+    },
+    {
+      "Time": "2023-04-27T21:00:22.960866+00:00",
+      "NumProgressed": 701698,
       "NumCompleted": 661
     }
   ],
@@ -2545,19 +2550,25 @@
       "Rating": 4.61,
       "NumberOfAwards": 9875,
       "NumberOfAwardsMax": 7599
+    },
+    {
+      "Time": "2023-04-27T20:57:40.4923444+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 9876,
+      "NumberOfAwardsMax": 7599
     }
   ],
   "EOS_Completed_Percentage": 0.09,
   "EOS_Completed": 661,
-  "EOS_Progressed": 701689,
-  "LastUpdate_Achievements": "2023-04-27T20:01:34.4132918+00:00",
-  "LastUpdate_Ratings": "2023-04-27T19:58:08.8263052+00:00",
-  "LastChanged_Achievements": "2023-04-27T20:01:34.4132909+00:00",
-  "LastChanged": "2023-04-22T11:57:21.9901855+00:00",
+  "EOS_Progressed": 701698,
+  "LastUpdate_Achievements": "2023-04-27T21:00:22.9608666+00:00",
+  "LastUpdate_Ratings": "2023-04-27T20:57:40.4923447+00:00",
+  "LastChanged_Achievements": "2023-04-27T21:00:22.9608655+00:00",
+  "LastChanged": "2023-04-27T20:57:40.4923442+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "MaxAwardTitle": "Challenging Puzzles",
   "NumberOfAwardsMax": 7599,
-  "NumberOfAwards": 9875,
+  "NumberOfAwards": 9876,
   "NumberOfRatings": 25175,
   "Ranking_EOS_Completed": 150,
   "Ranking_EOS_Progress": 14,

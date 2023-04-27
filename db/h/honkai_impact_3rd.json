@@ -30,7 +30,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 339
+      "Count": 343
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1538,18 +1538,24 @@
       "Rating": 4.49,
       "NumberOfAwards": 7463,
       "NumberOfAwardsMax": 2241
+    },
+    {
+      "Time": "2023-04-27T20:57:57.4003615+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7467,
+      "NumberOfAwardsMax": 2241
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-27T20:03:30.6466985+00:00",
-  "LastUpdate_Ratings": "2023-04-27T19:58:30.0668835+00:00",
-  "LastChanged": "2023-04-27T19:58:30.0668831+00:00",
+  "LastUpdate_Achievements": "2023-04-27T21:02:36.5028146+00:00",
+  "LastUpdate_Ratings": "2023-04-27T20:57:57.400362+00:00",
+  "LastChanged": "2023-04-27T20:57:57.4003614+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 2241,
-  "NumberOfAwards": 7463,
+  "NumberOfAwards": 7467,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 361,
   "Ranking_PopularitySum": 94,
