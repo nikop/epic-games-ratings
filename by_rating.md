@@ -3,7 +3,7 @@
 | 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 0 | 488 |
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 488 |
 | 3 | [Celeste](games/c/celeste.md) | 4.92 | 1,428 | 115 |
-| 3 | [Hades](games/h/hades.md) | 4.92 | 3,014 | 85 |
+| 3 | [Hades](games/h/hades.md) | 4.92 | 3,015 | 85 |
 | 5 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.91 | 20 | 480 |
 | 5 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 0 | 488 |
 | 7 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 0 | 488 |
@@ -147,7 +147,7 @@
 | 141 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 768 | 146 |
 | 141 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 581 | 166 |
 | 141 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,431 | 49 |
-| 141 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 222 | 244 |
+| 141 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 222 | 245 |
 | 141 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 30,160 | 13 |
 | 141 | [Suzerain](games/s/suzerain.md) | 4.74 | 0 | 488 |
 | 141 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 488 |
@@ -435,7 +435,7 @@
 | 427 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 35 | 423 |
 | 427 | [Hob](games/h/hob.md) | 4.57 | 0 | 488 |
 | 427 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,189 | 42 |
-| 427 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,014 | 85 |
+| 427 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,014 | 86 |
 | 427 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 116 | 301 |
 | 427 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,022 | 19 |
 | 427 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,695 | 108 |
@@ -465,7 +465,7 @@
 | 443 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 47 | 390 |
 | 443 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 3,778 | 75 |
 | 465 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 0 | 488 |
-| 465 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,092 | 126 |
+| 465 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,097 | 126 |
 | 465 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 21 | 476 |
 | 465 | [Hue](games/h/hue.md) | 4.55 | 0 | 488 |
 | 465 | [Outward](games/o/outward.md) | 4.55 | 31 | 437 |
@@ -490,7 +490,7 @@
 | 486 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 488 |
 | 486 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,587 | 17 |
 | 486 | [Dead Island 2](games/d/dead_island_2.md) | 4.53 | 800 | 145 |
-| 486 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 137,799 | 6 |
+| 486 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 137,817 | 6 |
 | 486 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 117 | 300 |
 | 486 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 488 |
 | 486 | [RUINER](games/r/ruiner.md) | 4.53 | 23 | 465 |
@@ -549,7 +549,7 @@
 | 542 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 88 | 332 |
 | 542 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 0 | 488 |
 | 542 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 271 | 229 |
-| 542 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 220 | 245 |
+| 542 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 223 | 244 |
 | 542 | [Hell is Others](games/h/hell_is_others.md) | 4.49 | 0 | 488 |
 | 542 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 2,231 | 94 |
 | 542 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 488 |
@@ -815,7 +815,7 @@
 | 800 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 77 | 345 |
 | 814 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 382 |
 | 814 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 0 | 488 |
-| 814 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 181,004 | 4 |
+| 814 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 181,070 | 4 |
 | 814 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 488 |
 | 814 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 26 | 457 |
 | 819 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 88 | 332 |

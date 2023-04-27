@@ -84,7 +84,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 403
+      "Count": 407
     }
   ],
   "EosHistory": [],
@@ -1508,18 +1508,24 @@
       "Rating": 4.49,
       "NumberOfAwards": 7441,
       "NumberOfAwardsMax": 2231
+    },
+    {
+      "Time": "2023-04-27T04:57:51.7297894+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7445,
+      "NumberOfAwardsMax": 2231
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-27T04:03:26.4146078+00:00",
-  "LastUpdate_Ratings": "2023-04-27T03:58:15.6312616+00:00",
-  "LastChanged": "2023-04-27T01:58:06.002907+00:00",
+  "LastUpdate_Achievements": "2023-04-27T05:02:26.130293+00:00",
+  "LastUpdate_Ratings": "2023-04-27T04:57:51.72979+00:00",
+  "LastChanged": "2023-04-27T04:57:51.7297892+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 2231,
-  "NumberOfAwards": 7441,
+  "NumberOfAwards": 7445,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_Progress": 357,
   "Ranking_PopularitySum": 95,

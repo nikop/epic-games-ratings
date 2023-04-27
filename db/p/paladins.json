@@ -54,7 +54,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2539
+      "Count": 2543
     },
     {
       "Text": "This game has a Competitive Community",
@@ -3897,17 +3897,23 @@
       "Rating": 4.35,
       "NumberOfAwards": 22027,
       "NumberOfAwardsMax": 3185
+    },
+    {
+      "Time": "2023-04-27T04:59:41.8130793+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 22031,
+      "NumberOfAwardsMax": 3185
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-27T04:05:23.0319856+00:00",
-  "LastUpdate_Ratings": "2023-04-27T04:00:01.4468957+00:00",
-  "LastChanged": "2023-04-27T04:00:01.4468949+00:00",
+  "LastUpdate_Achievements": "2023-04-27T05:05:04.1415056+00:00",
+  "LastUpdate_Ratings": "2023-04-27T04:59:41.8130798+00:00",
+  "LastChanged": "2023-04-27T04:59:41.813079+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 3185,
-  "NumberOfAwards": 22027,
+  "NumberOfAwards": 22031,
   "NumberOfRatings": 11687,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_Progress": 357,

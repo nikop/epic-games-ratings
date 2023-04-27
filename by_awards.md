@@ -3,9 +3,9 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 1,257,590 | 4.29 | 756 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 395,079 | 4.51 | 510 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 291,532 | 4.68 | 230 |
-| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 181,004 | 4.19 | 814 |
+| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 181,070 | 4.19 | 814 |
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 162,237 | 4.68 | 230 |
-| 6 | [Fall Guys](games/f/fall_guys.md) | 137,799 | 4.53 | 486 |
+| 6 | [Fall Guys](games/f/fall_guys.md) | 137,817 | 4.53 | 486 |
 | 7 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 136,374 | 4.89 | 12 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 108,138 | 4.69 | 208 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 62,921 | 4.62 | 334 |
@@ -84,8 +84,8 @@
 | 82 | [Paladins](games/p/paladins.md) | 3,185 | 4.35 | 711 |
 | 83 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,165 | 4.75 | 126 |
 | 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,147 | 4.59 | 391 |
-| 85 | [Hades](games/h/hades.md) | 3,014 | 4.92 | 3 |
-| 85 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,014 | 4.57 | 427 |
+| 85 | [Hades](games/h/hades.md) | 3,015 | 4.92 | 3 |
+| 86 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,014 | 4.57 | 427 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 2,979 | 4.68 | 230 |
 | 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,479 | 4.77 | 105 |
 | 89 | [Trackmania](games/t/trackmania.md) | 2,474 | 4.67 | 253 |
@@ -125,7 +125,7 @@
 | 123 | [XCOM® 2](games/x/xcom®_2.md) | 1,128 | 4.54 | 473 |
 | 124 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,108 | 4.52 | 498 |
 | 125 | [OUTRIDERS](games/o/outriders.md) | 1,099 | 4.42 | 639 |
-| 126 | [Conan Exiles](games/c/conan_exiles.md) | 1,092 | 4.55 | 465 |
+| 126 | [Conan Exiles](games/c/conan_exiles.md) | 1,097 | 4.55 | 465 |
 | 127 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,072 | 4.61 | 349 |
 | 128 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,059 | 4.61 | 349 |
 | 129 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,030 | 4.66 | 270 |
@@ -243,8 +243,8 @@
 | 241 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 229 | 4.45 | 598 |
 | 241 | [MudRunner](games/m/mudrunner.md) | 229 | 4.62 | 334 |
 | 243 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 224 | 4.85 | 37 |
-| 244 | [Overcooked! 2](games/o/overcooked!_2.md) | 222 | 4.74 | 141 |
-| 245 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 220 | 4.49 | 542 |
+| 244 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 223 | 4.49 | 542 |
+| 245 | [Overcooked! 2](games/o/overcooked!_2.md) | 222 | 4.74 | 141 |
 | 246 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 215 | 4.85 | 37 |
 | 247 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 214 | 4.58 | 408 |
 | 248 | [Old World](games/o/old_world.md) | 213 | 4.65 | 288 |
