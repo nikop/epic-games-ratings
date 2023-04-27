@@ -1,5 +1,6 @@
 | Game | Rating | Ranking | Awards | Ranking |
 | ---- | ------ | ------- | ------ | ------- |
+| [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | - | - | 0 | - |
 | [Bramble The Mountain King](games/b/bramble_the_mountain_king.md) | - | - | 0 | - |
 | [EBOLA 3](games/e/ebola_3.md) | - | - | 0 | - |
 | [Poker Club](games/p/poker_club.md) | - | - | 0 | - |
@@ -7,7 +8,7 @@
 | [Aftertime](games/a/aftertime.md) | - | - | 0 | - |
 | [Cards of Ethernity](games/c/cards_of_ethernity.md) | - | - | 0 | - |
 | [Spaceman Defender](games/s/spaceman_defender.md) | - | - | 0 | - |
-| [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.46 | 587 | 0 | 488 |
+| [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.47 | 575 | 0 | 488 |
 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | - | - | 0 | - |
 | [The Ultimate Trivia Challenge](games/t/the_ultimate_trivia_challenge.md) | - | - | 0 | - |
 | [Undead Horde](games/u/undead_horde.md) | - | - | 0 | - |

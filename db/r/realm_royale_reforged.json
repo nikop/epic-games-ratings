@@ -36,7 +36,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 91
+      "Count": 93
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1060,18 +1060,24 @@
       "Rating": 4.29,
       "NumberOfAwards": 1230,
       "NumberOfAwardsMax": 127
+    },
+    {
+      "Time": "2023-04-27T21:58:34.9539047+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1232,
+      "NumberOfAwardsMax": 127
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-27T21:03:26.1802444+00:00",
-  "LastUpdate_Ratings": "2023-04-27T20:58:21.2579315+00:00",
-  "LastChanged": "2023-04-27T18:58:44.0739091+00:00",
+  "LastUpdate_Achievements": "2023-04-27T22:03:30.7799265+00:00",
+  "LastUpdate_Ratings": "2023-04-27T21:58:34.9539054+00:00",
+  "LastChanged": "2023-04-27T21:58:34.9539045+00:00",
   "FirstSeenRating": "2022-08-24T22:31:27.0262733+00:00",
   "MaxAwardTitle": "Relaxing",
   "NumberOfAwardsMax": 127,
-  "NumberOfAwards": 1230,
+  "NumberOfAwards": 1232,
   "NumberOfRatings": 841,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 361,

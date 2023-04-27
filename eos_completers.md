@@ -4,7 +4,7 @@
 | 2 | [Overloop](games/o/overloop.md) | 25.00% |
 | 3 | [Doodle Devil](games/d/doodle_devil.md) | 19.72% |
 | 4 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 5 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 14.29% |
+| 5 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 6 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
 | 7 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 11.72% |
 | 8 | [Ravenlok](games/r/ravenlok.md) | 11.32% |
@@ -13,16 +13,16 @@
 | 11 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 12 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.58% |
+| 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.57% |
 | 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.43% |
-| 16 | [Scorn](games/s/scorn.md) | 7.07% |
+| 16 | [Scorn](games/s/scorn.md) | 7.12% |
 | 17 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.67% |
 | 18 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
-| 19 | [Island Cities](games/i/island_cities.md) | 6.25% |
-| 20 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
-| 21 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.88% |
+| 19 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
+| 20 | [Island Cities](games/i/island_cities.md) | 5.88% |
+| 20 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.88% |
 | 22 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.01% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 4.85% |
+| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 4.76% |
 | 24 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
 | 25 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.61% |
 | 26 | [Bugsnax](games/b/bugsnax.md) | 4.59% |
@@ -129,9 +129,9 @@
 | 126 | [Filament](games/f/filament.md) | 0.21% |
 | 128 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
 | 129 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.19% |
-| 129 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.19% |
 | 129 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
-| 132 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.18% |
+| 131 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.18% |
+| 131 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.18% |
 | 133 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
 | 134 | [HITMAN 3](games/h/hitman_3.md) | 0.16% |
 | 134 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |

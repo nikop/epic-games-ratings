@@ -6,7 +6,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 4209
+      "Count": 4216
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2188,17 +2188,23 @@
       "Rating": 4.69,
       "NumberOfAwards": 13138,
       "NumberOfAwardsMax": 4209
+    },
+    {
+      "Time": "2023-04-27T21:57:23.2308667+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 13145,
+      "NumberOfAwardsMax": 4216
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-27T21:02:13.7105915+00:00",
-  "LastUpdate_Ratings": "2023-04-27T20:57:11.4537704+00:00",
-  "LastChanged": "2023-04-27T16:57:27.6797884+00:00",
+  "LastUpdate_Achievements": "2023-04-27T22:02:08.6230234+00:00",
+  "LastUpdate_Ratings": "2023-04-27T21:57:23.2308671+00:00",
+  "LastChanged": "2023-04-27T21:57:23.2308665+00:00",
   "MaxAwardTitle": "Great Boss Battles",
-  "NumberOfAwardsMax": 4209,
-  "NumberOfAwards": 13138,
+  "NumberOfAwardsMax": 4216,
+  "NumberOfAwards": 13145,
   "NumberOfRatings": 1169,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 361,
