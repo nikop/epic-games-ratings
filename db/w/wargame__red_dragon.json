@@ -60,7 +60,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 654
+      "Count": 656
     },
     {
       "Text": "This game is Relaxing",
@@ -2733,19 +2733,25 @@
       "Rating": 4.69,
       "NumberOfAwards": 7072,
       "NumberOfAwardsMax": 853
+    },
+    {
+      "Time": "2023-04-27T18:57:28.3294053+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 7074,
+      "NumberOfAwardsMax": 853
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-27T18:02:32.5926944+00:00",
-  "LastUpdate_Ratings": "2023-04-27T17:57:31.4386937+00:00",
-  "LastChanged": "2023-04-27T17:57:31.4386932+00:00",
+  "LastUpdate_Achievements": "2023-04-27T19:03:13.5189409+00:00",
+  "LastUpdate_Ratings": "2023-04-27T18:57:28.3294058+00:00",
+  "LastChanged": "2023-04-27T18:57:28.3294052+00:00",
   "MaxAwardTitle": "Extremely Fun",
   "NumberOfAwardsMax": 853,
-  "NumberOfAwards": 7072,
+  "NumberOfAwards": 7074,
   "NumberOfRatings": 2918,
-  "Ranking_EOS_Completed": 189,
+  "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 361,
   "Ranking_PopularitySum": 101,
   "Ranking_Popularity": 142,

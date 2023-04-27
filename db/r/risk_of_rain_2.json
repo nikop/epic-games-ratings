@@ -54,7 +54,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 199
+      "Count": 201
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1281,19 +1281,25 @@
       "Rating": 4.85,
       "NumberOfAwards": 2201,
       "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-04-27T18:59:08.5529579+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2203,
+      "NumberOfAwardsMax": 224
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-27T18:04:23.5839437+00:00",
-  "LastUpdate_Ratings": "2023-04-27T17:59:23.5224297+00:00",
-  "LastChanged": "2023-04-25T11:57:59.6632695+00:00",
+  "LastUpdate_Achievements": "2023-04-27T19:04:26.1059322+00:00",
+  "LastUpdate_Ratings": "2023-04-27T18:59:08.5529582+00:00",
+  "LastChanged": "2023-04-27T18:59:08.5529577+00:00",
   "MaxAwardTitle": "Relaxing",
   "NumberOfAwardsMax": 224,
-  "NumberOfAwards": 2201,
+  "NumberOfAwards": 2203,
   "NumberOfRatings": 1310,
-  "Ranking_EOS_Completed": 189,
+  "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 361,
   "Ranking_PopularitySum": 173,
   "Ranking_Popularity": 243,
