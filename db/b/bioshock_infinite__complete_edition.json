@@ -12,7 +12,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 119
+      "Count": 120
     },
     {
       "Text": "This game is Relaxing",
@@ -1879,20 +1879,26 @@
       "Rating": 4.7,
       "NumberOfAwards": 5523,
       "NumberOfAwardsMax": 4500
+    },
+    {
+      "Time": "2023-04-27T15:01:21.0130095+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 5524,
+      "NumberOfAwardsMax": 4500
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-27T14:04:40.1924249+00:00",
-  "LastUpdate_Ratings": "2023-04-27T13:59:33.1430205+00:00",
-  "LastChanged": "2023-04-27T13:05:25.5645098+00:00",
+  "LastUpdate_Achievements": "2023-04-27T15:06:27.520534+00:00",
+  "LastUpdate_Ratings": "2023-04-27T15:01:21.0130098+00:00",
+  "LastChanged": "2023-04-27T15:01:21.0130092+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 4500,
-  "NumberOfAwards": 5523,
+  "NumberOfAwards": 5524,
   "NumberOfRatings": 18329,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_Progress": 358,
+  "Ranking_EOS_Progress": 360,
   "Ranking_PopularitySum": 114,
   "Ranking_Popularity": 67,
   "Ranking_Rating": 190,
