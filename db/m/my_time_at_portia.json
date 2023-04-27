@@ -6,7 +6,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 2209
+      "Count": 2210
     },
     {
       "Text": "This game is Relaxing",
@@ -2251,17 +2251,23 @@
       "Rating": 4.67,
       "NumberOfAwards": 4700,
       "NumberOfAwardsMax": 2209
+    },
+    {
+      "Time": "2023-04-26T23:59:37.634639+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4701,
+      "NumberOfAwardsMax": 2210
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T23:05:23.5308688+00:00",
-  "LastUpdate_Ratings": "2023-04-26T23:00:29.1258753+00:00",
-  "LastChanged": "2023-04-21T14:57:31.8602121+00:00",
+  "LastUpdate_Achievements": "2023-04-27T00:04:46.9119523+00:00",
+  "LastUpdate_Ratings": "2023-04-26T23:59:37.6346397+00:00",
+  "LastChanged": "2023-04-26T23:59:37.6346389+00:00",
   "MaxAwardTitle": "Character Customization",
-  "NumberOfAwardsMax": 2209,
-  "NumberOfAwards": 4700,
+  "NumberOfAwardsMax": 2210,
+  "NumberOfAwards": 4701,
   "NumberOfRatings": 3894,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_Progress": 357,

@@ -18,7 +18,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 27617
+      "Count": 27668
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -42,7 +42,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 26449
+      "Count": 26491
     },
     {
       "Text": "This game has Competitive Players",
@@ -60,7 +60,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 21930
+      "Count": 21959
     },
     {
       "Text": "This game has a Creative Community",
@@ -4667,21 +4667,27 @@
       "Rating": 4.74,
       "NumberOfAwards": 248914,
       "NumberOfAwardsMax": 30160
+    },
+    {
+      "Time": "2023-04-26T23:57:41.0746988+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 249036,
+      "NumberOfAwardsMax": 30160
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T23:01:07.9770467+00:00",
-  "LastUpdate_Ratings": "2023-04-26T22:57:55.8558096+00:00",
-  "LastChanged": "2023-04-26T22:57:55.8558088+00:00",
+  "LastUpdate_Achievements": "2023-04-27T00:00:10.8258976+00:00",
+  "LastUpdate_Ratings": "2023-04-26T23:57:41.0746995+00:00",
+  "LastChanged": "2023-04-26T23:57:41.0746986+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 30160,
-  "NumberOfAwards": 248914,
+  "NumberOfAwards": 249036,
   "NumberOfRatings": 57866,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_Progress": 357,
-  "Ranking_PopularitySum": 11,
+  "Ranking_PopularitySum": 10,
   "Ranking_Popularity": 13,
   "Ranking_Rating": 141,
   "Rating": 4.74,

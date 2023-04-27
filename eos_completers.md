@@ -51,14 +51,14 @@
 | 49 | [ZZT!](games/z/zzt!.md) | 2.31% |
 | 50 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.25% |
 | 51 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
-| 52 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 2.04% |
-| 53 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
-| 54 | [Sifu](games/s/sifu.md) | 1.81% |
-| 55 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.79% |
-| 56 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.72% |
-| 57 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.69% |
-| 57 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
-| 57 | [Night Book](games/n/night_book.md) | 1.69% |
+| 52 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
+| 53 | [Sifu](games/s/sifu.md) | 1.81% |
+| 54 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.79% |
+| 55 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.72% |
+| 56 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.69% |
+| 56 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
+| 56 | [Night Book](games/n/night_book.md) | 1.69% |
+| 59 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 1.67% |
 | 60 | [Somerville](games/s/somerville.md) | 1.62% |
 | 61 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.60% |
 | 62 | [Frogun](games/f/frogun.md) | 1.56% |
@@ -122,9 +122,9 @@
 | 119 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.27% |
 | 119 | [Wildermyth](games/w/wildermyth.md) | 0.27% |
 | 122 | [Circus Electrique](games/c/circus_electrique.md) | 0.26% |
-| 123 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.24% |
-| 124 | [Blanc](games/b/blanc.md) | 0.23% |
-| 124 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
+| 123 | [Blanc](games/b/blanc.md) | 0.23% |
+| 123 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.23% |
+| 123 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
 | 126 | [Against the Storm](games/a/against_the_storm.md) | 0.21% |
 | 126 | [Filament](games/f/filament.md) | 0.21% |
 | 128 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |

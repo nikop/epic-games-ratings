@@ -1,5 +1,6 @@
 | Game | Rating | Ranking | Awards | Ranking |
 | ---- | ------ | ------- | ------ | ------- |
+| [Cards of Ethernity](games/c/cards_of_ethernity.md) | - | - | 0 | - |
 | [Spaceman Defender](games/s/spaceman_defender.md) | - | - | 0 | - |
 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.40 | 662 | 0 | 488 |
 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | - | - | 0 | - |
@@ -76,6 +77,6 @@
 | [Home Wars](games/h/home_wars.md) | - | - | 0 | - |
 | [Terra Nil](games/t/terra_nil.md) | - | - | 0 | - |
 | [Touch Type Tale](games/t/touch_type_tale.md) | - | - | 0 | - |
-| [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 3.88 | 894 | 57 | 377 |
+| [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 3.90 | 894 | 57 | 377 |
 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.92 | 887 | 187 | 261 |
 | [9 Years of Shadows](games/9/9_years_of_shadows.md) | - | - | 0 | - |
