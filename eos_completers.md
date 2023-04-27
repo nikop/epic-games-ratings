@@ -16,7 +16,7 @@
 | 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.50% |
 | 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.43% |
 | 16 | [Scorn](games/s/scorn.md) | 7.07% |
-| 17 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.96% |
+| 17 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.90% |
 | 18 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.32% |
 | 19 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 20 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.88% |
@@ -68,9 +68,9 @@
 | 65 | [Chorus](games/c/chorus.md) | 1.33% |
 | 67 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.29% |
 | 68 | [Trifox](games/t/trifox.md) | 1.28% |
-| 69 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 1.27% |
 | 69 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.27% |
-| 71 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.24% |
+| 70 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.24% |
+| 71 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 1.22% |
 | 72 | [Late Shift](games/l/late_shift.md) | 1.21% |
 | 73 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.19% |
 | 74 | [Ten Dates](games/t/ten_dates.md) | 1.06% |
@@ -123,8 +123,8 @@
 | 119 | [Wildermyth](games/w/wildermyth.md) | 0.27% |
 | 122 | [Circus Electrique](games/c/circus_electrique.md) | 0.26% |
 | 123 | [Blanc](games/b/blanc.md) | 0.23% |
-| 123 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.23% |
 | 123 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
+| 125 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.22% |
 | 126 | [Against the Storm](games/a/against_the_storm.md) | 0.21% |
 | 126 | [Filament](games/f/filament.md) | 0.21% |
 | 128 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |

@@ -1,5 +1,5 @@
 # Death's Door
-Rating: 4.66 (Ranked 269)  
+Rating: 4.66 (Ranked 270)  
 Number of Ratings: 120  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
