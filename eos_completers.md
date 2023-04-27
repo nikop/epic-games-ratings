@@ -13,11 +13,11 @@
 | 11 | [Time Loader](games/t/time_loader.md) | 8.51% |
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
-| 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.59% |
+| 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.58% |
 | 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.43% |
 | 16 | [Scorn](games/s/scorn.md) | 7.07% |
-| 17 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.72% |
-| 18 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.32% |
+| 17 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.67% |
+| 18 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 19 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 20 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.88% |
 | 21 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.91% |
@@ -25,8 +25,8 @@
 | 23 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.61% |
 | 24 | [Bugsnax](games/b/bugsnax.md) | 4.59% |
 | 25 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
-| 26 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 4.29% |
-| 27 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.17% |
+| 26 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.17% |
+| 27 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 4.14% |
 | 28 | [Doodle God](games/d/doodle_god.md) | 4.10% |
 | 29 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.02% |
 | 30 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
@@ -63,7 +63,7 @@
 | 61 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.59% |
 | 62 | [Frogun](games/f/frogun.md) | 1.56% |
 | 63 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.52% |
-| 64 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.49% |
+| 64 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.48% |
 | 65 | [Bloodshore](games/b/bloodshore.md) | 1.45% |
 | 66 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.33% |
 | 66 | [Chorus](games/c/chorus.md) | 1.33% |
@@ -74,7 +74,7 @@
 | 72 | [Late Shift](games/l/late_shift.md) | 1.21% |
 | 73 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.19% |
 | 74 | [Ten Dates](games/t/ten_dates.md) | 1.06% |
-| 75 | [Dungeons 3](games/d/dungeons_3.md) | 0.97% |
+| 75 | [Dungeons 3](games/d/dungeons_3.md) | 0.98% |
 | 76 | [Five Dates](games/f/five_dates.md) | 0.91% |
 | 77 | [Sable](games/s/sable.md) | 0.90% |
 | 78 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
@@ -91,8 +91,8 @@
 | 89 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
 | 90 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.64% |
 | 91 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
-| 92 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.54% |
-| 92 | [Ghostrunner](games/g/ghostrunner.md) | 0.54% |
+| 92 | [Ghostrunner](games/g/ghostrunner.md) | 0.57% |
+| 93 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.54% |
 | 94 | [Grindstone](games/g/grindstone.md) | 0.52% |
 | 95 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.51% |
 | 96 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
@@ -129,8 +129,8 @@
 | 127 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
 | 128 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.19% |
 | 128 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.19% |
-| 130 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.18% |
-| 130 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.18% |
+| 128 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
+| 131 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.18% |
 | 132 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
 | 133 | [HITMAN 3](games/h/hitman_3.md) | 0.16% |
 | 133 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
@@ -323,6 +323,7 @@
 | 189 | [Shame Legacy](games/s/shame_legacy.md) | 0.00% |
 | 189 | [Shin-chan Me and the Professor on Summer Vacation](games/s/shin-chan_me_and_the_professor_on_summer_vacation.md) | 0.00% |
 | 189 | [Shinogi Chess Club](games/s/shinogi_chess_club.md) | 0.00% |
+| 189 | [Shotgun Farmers](games/s/shotgun_farmers.md) | 0.00% |
 | 189 | [Silence](games/s/silence.md) | 0.00% |
 | 189 | [Spacebase Startopia](games/s/spacebase_startopia.md) | 0.00% |
 | 189 | [Star Trek Prodigy: Supernova](games/s/star_trek_prodigy__supernova.md) | 0.00% |

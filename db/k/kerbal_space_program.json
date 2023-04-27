@@ -24,7 +24,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 446
+      "Count": 452
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1028,22 +1028,28 @@
       "Rating": 4.79,
       "NumberOfAwards": 2964,
       "NumberOfAwardsMax": 446
+    },
+    {
+      "Time": "2023-04-27T17:57:05.759124+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2970,
+      "NumberOfAwardsMax": 452
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-27T17:02:28.5147841+00:00",
-  "LastUpdate_Ratings": "2023-04-27T16:57:12.1283536+00:00",
-  "LastChanged": "2023-04-27T13:56:59.5004923+00:00",
+  "LastUpdate_Achievements": "2023-04-27T18:02:10.0972312+00:00",
+  "LastUpdate_Ratings": "2023-04-27T17:57:05.7591243+00:00",
+  "LastChanged": "2023-04-27T17:57:05.7591239+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
   "MaxAwardTitle": "Educational",
-  "NumberOfAwardsMax": 446,
-  "NumberOfAwards": 2964,
+  "NumberOfAwardsMax": 452,
+  "NumberOfAwards": 2970,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_Progress": 360,
+  "Ranking_EOS_Progress": 361,
   "Ranking_PopularitySum": 151,
-  "Ranking_Popularity": 188,
+  "Ranking_Popularity": 187,
   "Ranking_Rating": 91,
   "Rating": 4.79,
   "FirstSeen": "2023-01-05T18:57:29.6336645+00:00"

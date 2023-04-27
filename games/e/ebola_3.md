@@ -1,11 +1,11 @@
 # EBOLA 3
 Rating: - (Ranked -)  
 ## Popularity (Based on Awards)
-Max (): -  (Ranked -)  
-Sum: - (Ranked -)  
+Max (): 0  (Ranked -)  
+Sum: 0 (Ranked -)  
 Diff (max vs sum): -
 ## Popularity (Based on EOS Achievements)
-Progressed: 19 (Ranked 285)  
+Progressed: 19 (Ranked 286)  
 Completed: 0 (0.00%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -16,3 +16,7 @@ Completed: 0 (0.00%) (Ranked 189)
 ## Awards
 | Award | Count |
 | ----- | ----- |
+## Ratings History
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
+| 2023-04-27 | - | 0 | 0 |

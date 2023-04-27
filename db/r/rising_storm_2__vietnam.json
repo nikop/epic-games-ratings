@@ -12,7 +12,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 630
+      "Count": 633
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -36,7 +36,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 633
+      "Count": 636
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2626,20 +2626,26 @@
       "Rating": 4.5,
       "NumberOfAwards": 5969,
       "NumberOfAwardsMax": 642
+    },
+    {
+      "Time": "2023-04-27T17:59:55.0983067+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 5975,
+      "NumberOfAwardsMax": 642
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-27T17:05:25.2592267+00:00",
-  "LastUpdate_Ratings": "2023-04-27T17:00:13.577108+00:00",
-  "LastChanged": "2023-04-27T17:00:13.5771068+00:00",
+  "LastUpdate_Achievements": "2023-04-27T18:04:55.7908353+00:00",
+  "LastUpdate_Ratings": "2023-04-27T17:59:55.0983071+00:00",
+  "LastChanged": "2023-04-27T17:59:55.0983066+00:00",
   "MaxAwardTitle": "Quickly Understood Controls",
   "NumberOfAwardsMax": 642,
-  "NumberOfAwards": 5969,
+  "NumberOfAwards": 5975,
   "NumberOfRatings": 2871,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_Progress": 360,
+  "Ranking_EOS_Progress": 361,
   "Ranking_PopularitySum": 112,
   "Ranking_Popularity": 160,
   "Ranking_Rating": 527,

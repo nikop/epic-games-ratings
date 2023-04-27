@@ -36,7 +36,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3921
+      "Count": 3923
     },
     {
       "Text": "This game has Playful Visuals",
@@ -294,6 +294,11 @@
     {
       "Time": "2023-04-27T17:02:35.5895592+00:00",
       "NumProgressed": 85643,
+      "NumCompleted": 1781
+    },
+    {
+      "Time": "2023-04-27T18:02:16.9728146+00:00",
+      "NumProgressed": 85652,
       "NumCompleted": 1781
     }
   ],
@@ -3598,19 +3603,25 @@
       "Rating": 4.06,
       "NumberOfAwards": 29739,
       "NumberOfAwardsMax": 4851
+    },
+    {
+      "Time": "2023-04-27T17:57:59.3786917+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29741,
+      "NumberOfAwardsMax": 4851
     }
   ],
   "EOS_Completed_Percentage": 2.08,
   "EOS_Completed": 1781,
-  "EOS_Progressed": 85643,
-  "LastUpdate_Achievements": "2023-04-27T17:02:35.5895597+00:00",
-  "LastUpdate_Ratings": "2023-04-27T16:58:09.6004043+00:00",
-  "LastChanged_Achievements": "2023-04-27T17:02:35.5895587+00:00",
-  "LastChanged": "2023-04-27T03:57:57.6503708+00:00",
+  "EOS_Progressed": 85652,
+  "LastUpdate_Achievements": "2023-04-27T18:02:16.972815+00:00",
+  "LastUpdate_Ratings": "2023-04-27T17:57:59.3786921+00:00",
+  "LastChanged_Achievements": "2023-04-27T18:02:16.9728141+00:00",
+  "LastChanged": "2023-04-27T17:57:59.3786914+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 4851,
-  "NumberOfAwards": 29739,
+  "NumberOfAwards": 29741,
   "NumberOfRatings": 9041,
   "Ranking_EOS_Completed": 52,
   "Ranking_EOS_Progress": 58,
