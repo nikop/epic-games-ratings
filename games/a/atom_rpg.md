@@ -1,18 +1,19 @@
 # ATOM RPG
-Rating: 4.45 (Ranked 598)  
+Rating: 4.45 (Ranked 599)  
 Number of Ratings: 54  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 46  (Ranked 392)  
 Sum: 46 (Ranked 433)  
 Diff (max vs sum): -41
 ## Popularity (Based on EOS Achievements)
-Progressed: 739 (Ranked 164)  
+Progressed: 740 (Ranked 164)  
 Completed: 0 (0.00%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 737 | 0 |
 | 2023-04-26 | 739 | 0 |
+| 2023-04-27 | 740 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -18,7 +18,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 640
+      "Count": 642
     },
     {
       "Text": "This game has Competitive Players",
@@ -2614,17 +2614,23 @@
       "Rating": 4.5,
       "NumberOfAwards": 5963,
       "NumberOfAwardsMax": 640
+    },
+    {
+      "Time": "2023-04-27T13:05:20.2401136+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 5965,
+      "NumberOfAwardsMax": 642
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-27T12:04:01.326548+00:00",
-  "LastUpdate_Ratings": "2023-04-27T11:58:54.7169433+00:00",
-  "LastChanged": "2023-04-27T09:00:40.0067728+00:00",
+  "LastUpdate_Achievements": "2023-04-27T13:10:07.7568497+00:00",
+  "LastUpdate_Ratings": "2023-04-27T13:05:20.2401144+00:00",
+  "LastChanged": "2023-04-27T13:05:20.2401132+00:00",
   "MaxAwardTitle": "Quickly Understood Controls",
-  "NumberOfAwardsMax": 640,
-  "NumberOfAwards": 5963,
+  "NumberOfAwardsMax": 642,
+  "NumberOfAwards": 5965,
   "NumberOfRatings": 2871,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_Progress": 358,

@@ -24,7 +24,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4063
+      "Count": 4070
     },
     {
       "Text": "This game is Highly Recommended",
@@ -42,7 +42,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 3822
+      "Count": 3827
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -292,6 +292,11 @@
     {
       "Time": "2023-04-27T12:04:57.332806+00:00",
       "NumProgressed": 686355,
+      "NumCompleted": 5
+    },
+    {
+      "Time": "2023-04-27T13:11:31.0907206+00:00",
+      "NumProgressed": 686458,
       "NumCompleted": 5
     }
   ],
@@ -4514,19 +4519,25 @@
       "Rating": 4.65,
       "NumberOfAwards": 33194,
       "NumberOfAwardsMax": 4348
+    },
+    {
+      "Time": "2023-04-27T13:06:31.537058+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 33206,
+      "NumberOfAwardsMax": 4348
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 5,
-  "EOS_Progressed": 686355,
-  "LastUpdate_Achievements": "2023-04-27T12:04:57.3328065+00:00",
-  "LastUpdate_Ratings": "2023-04-27T11:59:42.8251913+00:00",
-  "LastChanged_Achievements": "2023-04-27T12:04:57.3328056+00:00",
-  "LastChanged": "2023-04-27T07:59:58.6427276+00:00",
+  "EOS_Progressed": 686458,
+  "LastUpdate_Achievements": "2023-04-27T13:11:31.0907214+00:00",
+  "LastUpdate_Ratings": "2023-04-27T13:06:31.537059+00:00",
+  "LastChanged_Achievements": "2023-04-27T13:11:31.0907198+00:00",
+  "LastChanged": "2023-04-27T13:06:31.5370577+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.6011712+00:00",
   "MaxAwardTitle": "Relaxing",
   "NumberOfAwardsMax": 4348,
-  "NumberOfAwards": 33194,
+  "NumberOfAwards": 33206,
   "NumberOfRatings": 25248,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_Progress": 15,
