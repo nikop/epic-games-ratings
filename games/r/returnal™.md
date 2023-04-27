@@ -1,5 +1,5 @@
 # Returnal™
-Rating: 4.66 (Ranked 270)  
+Rating: 4.67 (Ranked 254)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 20  (Ranked 480)  
 Sum: 20 (Ranked 480)  
@@ -30,3 +30,4 @@ Diff (max vs sum): 0
 | 2023-04-05 | 4.65 | 0 | 0 |
 | 2023-04-07 | 4.66 | 0 | 0 |
 | 2023-04-11 | 4.66 | 20 | 20 |
+| 2023-04-27 | 4.67 | 20 | 20 |

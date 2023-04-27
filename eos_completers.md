@@ -38,20 +38,20 @@
 | 36 | [HordeCore](games/h/hordecore.md) | 3.08% |
 | 37 | [Lamentum](games/l/lamentum.md) | 3.02% |
 | 38 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.99% |
+| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 2.97% |
 | 39 | [MultiVersus](games/m/multiversus.md) | 2.97% |
-| 40 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.94% |
-| 41 | [Destiny 2](games/d/destiny_2.md) | 2.92% |
-| 42 | [Bunny Park](games/b/bunny_park.md) | 2.90% |
-| 43 | [FORECLOSED](games/f/foreclosed.md) | 2.82% |
-| 44 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
-| 45 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 46 | [JARS](games/j/jars.md) | 2.70% |
-| 47 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 48 | [Iron Danger](games/i/iron_danger.md) | 2.48% |
-| 49 | [ZZT!](games/z/zzt!.md) | 2.34% |
-| 50 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.24% |
-| 51 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
-| 52 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 2.02% |
+| 41 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.94% |
+| 42 | [Destiny 2](games/d/destiny_2.md) | 2.92% |
+| 43 | [Bunny Park](games/b/bunny_park.md) | 2.90% |
+| 44 | [FORECLOSED](games/f/foreclosed.md) | 2.82% |
+| 45 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
+| 46 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
+| 47 | [JARS](games/j/jars.md) | 2.70% |
+| 48 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 49 | [Iron Danger](games/i/iron_danger.md) | 2.48% |
+| 50 | [ZZT!](games/z/zzt!.md) | 2.34% |
+| 51 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.24% |
+| 52 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 53 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
 | 54 | [Sifu](games/s/sifu.md) | 1.81% |
 | 55 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.79% |
@@ -355,4 +355,4 @@
 | 189 | [We Are OFK](games/w/we_are_ofk.md) | 0.00% |
 | 189 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 189 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,510 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,511 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

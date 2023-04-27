@@ -42,7 +42,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 12099
+      "Count": 12120
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5015,17 +5015,23 @@
       "Rating": 4.89,
       "NumberOfAwards": 346589,
       "NumberOfAwardsMax": 136374
+    },
+    {
+      "Time": "2023-04-27T08:59:47.9681961+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 346610,
+      "NumberOfAwardsMax": 136374
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-27T08:03:53.3671055+00:00",
-  "LastUpdate_Ratings": "2023-04-27T07:58:37.6170967+00:00",
-  "LastChanged": "2023-04-27T07:58:37.6170961+00:00",
+  "LastUpdate_Achievements": "2023-04-27T09:04:48.2668677+00:00",
+  "LastUpdate_Ratings": "2023-04-27T08:59:47.9681966+00:00",
+  "LastChanged": "2023-04-27T08:59:47.9681956+00:00",
   "MaxAwardTitle": "Impact the Story",
   "NumberOfAwardsMax": 136374,
-  "NumberOfAwards": 346589,
+  "NumberOfAwards": 346610,
   "NumberOfRatings": 102658,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_Progress": 357,
