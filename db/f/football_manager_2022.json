@@ -42,7 +42,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 5706
+      "Count": 5708
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -243,6 +243,11 @@
     {
       "Time": "2023-04-27T00:04:38.5331837+00:00",
       "NumProgressed": 458226,
+      "NumCompleted": 18
+    },
+    {
+      "Time": "2023-04-27T02:04:59.6548198+00:00",
+      "NumProgressed": 458231,
       "NumCompleted": 18
     }
   ],
@@ -4024,19 +4029,25 @@
       "Rating": 4.8,
       "NumberOfAwards": 49186,
       "NumberOfAwardsMax": 6243
+    },
+    {
+      "Time": "2023-04-27T01:59:46.6989141+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 49188,
+      "NumberOfAwardsMax": 6243
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 18,
-  "EOS_Progressed": 458226,
-  "LastUpdate_Achievements": "2023-04-27T00:04:38.5331841+00:00",
-  "LastUpdate_Ratings": "2023-04-26T23:59:30.2738463+00:00",
-  "LastChanged_Achievements": "2023-04-27T00:04:38.5331834+00:00",
-  "LastChanged": "2023-04-26T21:00:12.9493538+00:00",
+  "EOS_Progressed": 458231,
+  "LastUpdate_Achievements": "2023-04-27T02:04:59.6548203+00:00",
+  "LastUpdate_Ratings": "2023-04-27T01:59:46.6989148+00:00",
+  "LastChanged_Achievements": "2023-04-27T02:04:59.6548192+00:00",
+  "LastChanged": "2023-04-27T01:59:46.6989134+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "MaxAwardTitle": "Relaxing",
   "NumberOfAwardsMax": 6243,
-  "NumberOfAwards": 49186,
+  "NumberOfAwards": 49188,
   "NumberOfRatings": 19160,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_Progress": 26,

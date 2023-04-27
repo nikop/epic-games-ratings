@@ -18,7 +18,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 402
+      "Count": 405
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3480,17 +3480,23 @@
       "Rating": 4.75,
       "NumberOfAwards": 11593,
       "NumberOfAwardsMax": 4779
+    },
+    {
+      "Time": "2023-04-27T01:59:14.4702935+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 11596,
+      "NumberOfAwardsMax": 4779
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-27T00:04:06.8165161+00:00",
-  "LastUpdate_Ratings": "2023-04-26T23:59:02.4259939+00:00",
-  "LastChanged": "2023-04-26T23:59:02.4259934+00:00",
+  "LastUpdate_Achievements": "2023-04-27T02:04:21.6913717+00:00",
+  "LastUpdate_Ratings": "2023-04-27T01:59:14.4702942+00:00",
+  "LastChanged": "2023-04-27T01:59:14.4702933+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 4779,
-  "NumberOfAwards": 11593,
+  "NumberOfAwards": 11596,
   "NumberOfRatings": 5481,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_Progress": 357,

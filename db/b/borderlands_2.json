@@ -24,13 +24,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 2379
+      "Count": 2382
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 2471
+      "Count": 2475
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4305,17 +4305,23 @@
       "Rating": 4.76,
       "NumberOfAwards": 35219,
       "NumberOfAwardsMax": 14009
+    },
+    {
+      "Time": "2023-04-27T02:00:08.6133613+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 35226,
+      "NumberOfAwardsMax": 14009
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-27T00:04:58.4639552+00:00",
-  "LastUpdate_Ratings": "2023-04-26T23:59:49.1245355+00:00",
-  "LastChanged": "2023-04-26T23:59:49.124535+00:00",
+  "LastUpdate_Achievements": "2023-04-27T02:05:23.3724209+00:00",
+  "LastUpdate_Ratings": "2023-04-27T02:00:08.6133619+00:00",
+  "LastChanged": "2023-04-27T02:00:08.6133611+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 14009,
-  "NumberOfAwards": 35219,
+  "NumberOfAwards": 35226,
   "NumberOfRatings": 13386,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_Progress": 357,

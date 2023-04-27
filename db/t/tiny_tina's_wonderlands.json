@@ -12,7 +12,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1779
+      "Count": 1782
     },
     {
       "Text": "This game is Highly Recommended",
@@ -30,7 +30,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1763
+      "Count": 1769
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -42,7 +42,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1687
+      "Count": 1692
     },
     {
       "Text": "This game is Great for Beginners",
@@ -4213,17 +4213,23 @@
       "Rating": 4.57,
       "NumberOfAwards": 31698,
       "NumberOfAwardsMax": 18022
+    },
+    {
+      "Time": "2023-04-27T01:58:18.4512788+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 31712,
+      "NumberOfAwardsMax": 18022
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-27T00:03:10.3600922+00:00",
-  "LastUpdate_Ratings": "2023-04-26T23:58:12.5202761+00:00",
-  "LastChanged": "2023-04-26T22:58:35.2543549+00:00",
+  "LastUpdate_Achievements": "2023-04-27T02:03:20.9236818+00:00",
+  "LastUpdate_Ratings": "2023-04-27T01:58:18.4512794+00:00",
+  "LastChanged": "2023-04-27T01:58:18.4512782+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 18022,
-  "NumberOfAwards": 31698,
+  "NumberOfAwards": 31712,
   "NumberOfRatings": 20753,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_Progress": 357,

@@ -2,7 +2,7 @@
 Rating: 4.24 (Ranked 778)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 335  (Ranked 210)  
-Sum: 2,670 (Ranked 159)  
+Sum: 2,673 (Ranked 159)  
 Diff (max vs sum): 51
 ## Awards
 | Award | Count |
@@ -11,7 +11,7 @@ Diff (max vs sum): 51
 | This game is Highly Recommended | 335 |
 | This game has Competitive Players | 334 |
 | This game is Extremely Fun | 314 |
-| This game has Amazing Characters | 310 |
+| This game has Amazing Characters | 313 |
 | This game has Quickly Understood Controls | 306 |
 | This game has Challenging Combat | 297 |
 | This game has Amazing Storytelling | 234 |
@@ -87,3 +87,4 @@ Diff (max vs sum): 51
 | 2023-04-24 | 4.24 | 332 | 2,625 |
 | 2023-04-25 | 4.24 | 335 | 2,641 |
 | 2023-04-26 | 4.24 | 335 | 2,670 |
+| 2023-04-27 | 4.24 | 335 | 2,673 |
