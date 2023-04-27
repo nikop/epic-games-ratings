@@ -54,7 +54,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 23699
+      "Count": 23722
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -66,7 +66,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 20578
+      "Count": 20598
     }
   ],
   "EosHistory": [
@@ -268,6 +268,11 @@
     {
       "Time": "2023-04-27T06:05:02.3903948+00:00",
       "NumProgressed": 366608,
+      "NumCompleted": 34
+    },
+    {
+      "Time": "2023-04-27T07:05:15.9203351+00:00",
+      "NumProgressed": 366675,
       "NumCompleted": 34
     }
   ],
@@ -4659,19 +4664,25 @@
       "Rating": 4.52,
       "NumberOfAwards": 216858,
       "NumberOfAwardsMax": 26817
+    },
+    {
+      "Time": "2023-04-27T06:59:46.6330552+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 216901,
+      "NumberOfAwardsMax": 26817
     }
   ],
   "EOS_Completed_Percentage": 0.01,
   "EOS_Completed": 34,
-  "EOS_Progressed": 366608,
-  "LastUpdate_Achievements": "2023-04-27T06:05:02.3903955+00:00",
-  "LastUpdate_Ratings": "2023-04-27T05:59:42.5171124+00:00",
-  "LastChanged_Achievements": "2023-04-27T06:05:02.3903942+00:00",
-  "LastChanged": "2023-04-27T05:59:42.5171118+00:00",
+  "EOS_Progressed": 366675,
+  "LastUpdate_Achievements": "2023-04-27T07:05:15.9203356+00:00",
+  "LastUpdate_Ratings": "2023-04-27T06:59:46.6330557+00:00",
+  "LastChanged_Achievements": "2023-04-27T07:05:15.9203345+00:00",
+  "LastChanged": "2023-04-27T06:59:46.633055+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 26817,
-  "NumberOfAwards": 216858,
+  "NumberOfAwards": 216901,
   "NumberOfRatings": 70340,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_Progress": 32,

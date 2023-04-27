@@ -1,5 +1,5 @@
 # Among Trees
-Rating: 4.36 (Ranked 701)  
+Rating: 4.36 (Ranked 702)  
 Number of Ratings: 122  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  

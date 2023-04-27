@@ -202,6 +202,11 @@
       "Time": "2023-04-27T06:04:12.4772279+00:00",
       "NumProgressed": 66886,
       "NumCompleted": 426
+    },
+    {
+      "Time": "2023-04-27T07:04:25.3214928+00:00",
+      "NumProgressed": 66899,
+      "NumCompleted": 426
     }
   ],
   "RatingHistory": [
@@ -370,10 +375,10 @@
   ],
   "EOS_Completed_Percentage": 0.64,
   "EOS_Completed": 426,
-  "EOS_Progressed": 66886,
-  "LastUpdate_Achievements": "2023-04-27T06:04:12.4772283+00:00",
-  "LastUpdate_Ratings": "2023-04-27T05:59:01.3052433+00:00",
-  "LastChanged_Achievements": "2023-04-27T06:04:12.4772274+00:00",
+  "EOS_Progressed": 66899,
+  "LastUpdate_Achievements": "2023-04-27T07:04:25.3214932+00:00",
+  "LastUpdate_Ratings": "2023-04-27T06:59:05.6808618+00:00",
+  "LastChanged_Achievements": "2023-04-27T07:04:25.3214922+00:00",
   "LastChanged": "2023-04-23T11:57:29.9202605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
@@ -383,7 +388,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_PopularitySum": 488,
   "Ranking_Popularity": 488,
-  "Ranking_Rating": 693,
+  "Ranking_Rating": 694,
   "Rating": 4.37,
   "FirstSeen": "2022-07-22T20:19:57.3408897+00:00"
 }

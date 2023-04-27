@@ -50,8 +50,8 @@
 | 48 | [Iron Danger](games/i/iron_danger.md) | 2.48% |
 | 49 | [ZZT!](games/z/zzt!.md) | 2.30% |
 | 50 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.24% |
-| 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 2.20% |
-| 52 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
+| 51 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
+| 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 2.08% |
 | 53 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
 | 54 | [Sifu](games/s/sifu.md) | 1.81% |
 | 55 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.79% |
@@ -124,9 +124,9 @@
 | 122 | [Circus Electrique](games/c/circus_electrique.md) | 0.26% |
 | 123 | [Blanc](games/b/blanc.md) | 0.23% |
 | 123 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
-| 125 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.22% |
-| 126 | [Against the Storm](games/a/against_the_storm.md) | 0.21% |
-| 126 | [Filament](games/f/filament.md) | 0.21% |
+| 125 | [Against the Storm](games/a/against_the_storm.md) | 0.21% |
+| 125 | [Filament](games/f/filament.md) | 0.21% |
+| 125 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.21% |
 | 128 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
 | 129 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.19% |
 | 130 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.18% |
@@ -355,4 +355,4 @@
 | 189 | [We Are OFK](games/w/we_are_ofk.md) | 0.00% |
 | 189 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 189 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,507 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,509 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

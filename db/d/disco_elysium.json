@@ -48,7 +48,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -235,6 +235,11 @@
     {
       "Time": "2023-04-27T05:03:39.2096215+00:00",
       "NumProgressed": 117543,
+      "NumCompleted": 24
+    },
+    {
+      "Time": "2023-04-27T07:03:47.7884468+00:00",
+      "NumProgressed": 117545,
       "NumCompleted": 24
     }
   ],
@@ -1182,19 +1187,25 @@
       "Rating": 4.86,
       "NumberOfAwards": 1039,
       "NumberOfAwardsMax": 684
+    },
+    {
+      "Time": "2023-04-27T06:58:41.1242375+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 1040,
+      "NumberOfAwardsMax": 684
     }
   ],
   "EOS_Completed_Percentage": 0.02,
   "EOS_Completed": 24,
-  "EOS_Progressed": 117543,
-  "LastUpdate_Achievements": "2023-04-27T06:03:45.1210376+00:00",
-  "LastUpdate_Ratings": "2023-04-27T05:58:33.3969361+00:00",
-  "LastChanged_Achievements": "2023-04-27T06:03:45.1210371+00:00",
-  "LastChanged": "2023-04-20T18:57:18.5675805+00:00",
+  "EOS_Progressed": 117545,
+  "LastUpdate_Achievements": "2023-04-27T07:03:47.7884475+00:00",
+  "LastUpdate_Ratings": "2023-04-27T06:58:41.1242379+00:00",
+  "LastChanged_Achievements": "2023-04-27T07:03:47.7884463+00:00",
+  "LastChanged": "2023-04-27T06:58:41.1242373+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 684,
-  "NumberOfAwards": 1039,
+  "NumberOfAwards": 1040,
   "NumberOfRatings": 1611,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_Progress": 54,
