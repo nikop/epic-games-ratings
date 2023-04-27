@@ -49,8 +49,8 @@
 | 47 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 48 | [Iron Danger](games/i/iron_danger.md) | 2.48% |
 | 49 | [ZZT!](games/z/zzt!.md) | 2.30% |
-| 50 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 2.25% |
-| 51 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.24% |
+| 50 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.24% |
+| 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 2.20% |
 | 52 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 53 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
 | 54 | [Sifu](games/s/sifu.md) | 1.81% |

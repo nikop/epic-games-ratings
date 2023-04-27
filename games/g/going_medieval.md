@@ -3,7 +3,7 @@ Rating: 4.60 (Ranked 376)
 Number of Ratings: 706  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 118  (Ranked 299)  
-Sum: 918 (Ranked 230)  
+Sum: 919 (Ranked 230)  
 Diff (max vs sum): 69
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,633 (Ranked 131)  
@@ -23,7 +23,7 @@ Completed: 6 (0.23%) (Ranked 123)
 | This game is Highly Recommended | 94 |
 | This game has Amazing Characters | 90 |
 | This game has Amazing Storytelling | 81 |
-| This game has Unique Visuals | 74 |
+| This game has Unique Visuals | 75 |
 | This game has a Creative Community | 58 |
 | This game has Obsessive Gameplay | 56 |
 | This game is Educational | 21 |
@@ -114,3 +114,4 @@ Completed: 6 (0.23%) (Ranked 123)
 | 2023-04-23 | 4.60 | - | 117 | 915 |
 | 2023-04-25 | 4.60 | - | 117 | 916 |
 | 2023-04-26 | 4.60 | - | 118 | 918 |
+| 2023-04-27 | 4.60 | - | 118 | 919 |
