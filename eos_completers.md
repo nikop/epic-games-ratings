@@ -13,7 +13,7 @@
 | 11 | [Time Loader](games/t/time_loader.md) | 8.51% |
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
-| 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.47% |
+| 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.46% |
 | 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.43% |
 | 16 | [Scorn](games/s/scorn.md) | 7.07% |
 | 17 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.90% |
@@ -38,10 +38,10 @@
 | 36 | [HordeCore](games/h/hordecore.md) | 3.08% |
 | 37 | [Lamentum](games/l/lamentum.md) | 3.02% |
 | 38 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.99% |
-| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 2.97% |
 | 39 | [MultiVersus](games/m/multiversus.md) | 2.97% |
-| 41 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.94% |
-| 42 | [Destiny 2](games/d/destiny_2.md) | 2.92% |
+| 40 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.94% |
+| 41 | [Destiny 2](games/d/destiny_2.md) | 2.92% |
+| 42 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 2.91% |
 | 43 | [Bunny Park](games/b/bunny_park.md) | 2.90% |
 | 44 | [FORECLOSED](games/f/foreclosed.md) | 2.82% |
 | 45 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
@@ -126,8 +126,8 @@
 | 123 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
 | 125 | [Against the Storm](games/a/against_the_storm.md) | 0.21% |
 | 125 | [Filament](games/f/filament.md) | 0.21% |
-| 125 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.21% |
-| 128 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
+| 127 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
+| 127 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.20% |
 | 129 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.19% |
 | 130 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.18% |
 | 130 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.18% |

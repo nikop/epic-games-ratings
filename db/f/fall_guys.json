@@ -284,6 +284,11 @@
       "Time": "2023-04-27T09:04:41.3481619+00:00",
       "NumProgressed": 32226662,
       "NumCompleted": 28596
+    },
+    {
+      "Time": "2023-04-27T10:03:29.9180536+00:00",
+      "NumProgressed": 32227109,
+      "NumCompleted": 28598
     }
   ],
   "RatingHistory": [
@@ -4509,11 +4514,11 @@
     }
   ],
   "EOS_Completed_Percentage": 0.09,
-  "EOS_Completed": 28596,
-  "EOS_Progressed": 32226662,
-  "LastUpdate_Achievements": "2023-04-27T09:04:41.3481623+00:00",
-  "LastUpdate_Ratings": "2023-04-27T08:59:41.3327081+00:00",
-  "LastChanged_Achievements": "2023-04-27T09:04:41.3481609+00:00",
+  "EOS_Completed": 28598,
+  "EOS_Progressed": 32227109,
+  "LastUpdate_Achievements": "2023-04-27T10:03:29.918054+00:00",
+  "LastUpdate_Ratings": "2023-04-27T09:58:34.6836545+00:00",
+  "LastChanged_Achievements": "2023-04-27T10:03:29.9180525+00:00",
   "LastChanged": "2023-04-27T08:59:41.3327073+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.7143696+00:00",
   "MaxAwardTitle": "Great for Beginners",

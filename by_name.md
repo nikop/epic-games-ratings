@@ -85,7 +85,7 @@
 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | - | - | 0 | - |
 | [Alfred Hitchcock - Vertigo](games/a/alfred_hitchcock_-_vertigo.md) | - | - | 0 | - |
 | [Alien Marauder](games/a/alien_marauder.md) | - | - | 0 | - |
-| [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 350 | 127 | 291 |
+| [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 350 | 127 | 292 |
 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | - | - | - | - |
 | [Alliance of the Sacred Suns](games/a/alliance_of_the_sacred_suns.md) | - | - | - | - |
 | [Alluris](games/a/alluris.md) | - | - | 0 | - |
@@ -178,7 +178,7 @@
 | [Atmosphere](games/a/atmosphere.md) | - | - | - | - |
 | [ATOM RPG](games/a/atom_rpg.md) | 4.45 | 598 | 46 | 392 |
 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.49 | 542 | 20 | 480 |
-| [Atomicrops](games/a/atomicrops.md) | 4.88 | 18 | 128 | 290 |
+| [Atomicrops](games/a/atomicrops.md) | 4.88 | 18 | 128 | 291 |
 | [ATONE: Heart of the Elder Tree](games/a/atone__heart_of_the_elder_tree.md) | - | - | 0 | - |
 | [Atrio: The Dark Wild](games/a/atrio__the_dark_wild.md) | - | - | 0 | - |
 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 498 | 733 | 150 |
@@ -618,7 +618,7 @@
 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | - | - | 0 | - |
 | [Duck Life 8 - Adventure](games/d/duck_life_8_-_adventure.md) | - | - | - | - |
 | [Dumpy and Bumpy](games/d/dumpy_and_bumpy.md) | - | - | 0 | - |
-| [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 287 | 317 | 217 |
+| [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 287 | 318 | 217 |
 | [Dungeons and Bombs](games/d/dungeons_and_bombs.md) | - | - | - | - |
 | [Duskers](games/d/duskers.md) | 4.45 | 598 | 0 | 488 |
 | [Dust and Neon](games/d/dust_and_neon.md) | - | - | 0 | - |
@@ -1164,8 +1164,8 @@
 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.30 | 748 | 0 | 488 |
 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 350 | 0 | 488 |
 | [Little Orpheus](games/l/little_orpheus.md) | - | - | 0 | - |
-| [Live](games/l/live_79.md) | - | - | - | - |
 | [Live](games/l/live_130.md) | - | - | - | - |
+| [Live](games/l/live_79.md) | - | - | - | - |
 | [Locks Quest](games/l/locks_quest.md) | - | - | 0 | - |
 | [Lonesome Village](games/l/lonesome_village.md) | - | - | - | - |
 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 230 | 410 | 192 |
@@ -1380,7 +1380,7 @@
 | [Nova Lands](games/n/nova_lands.md) | - | - | - | - |
 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 498 | 0 | 488 |
 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 91 | 366 | 205 |
-| [Obduction](games/o/obduction.md) | 4.10 | 850 | 52 | 379 |
+| [Obduction](games/o/obduction.md) | 4.10 | 850 | 52 | 380 |
 | [Observation](games/o/observation.md) | 4.56 | 443 | 0 | 488 |
 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 562 | 0 | 488 |
 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | - | - | - | - |
@@ -1511,7 +1511,7 @@
 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 542 | 0 | 488 |
 | [Prehistorik](games/p/prehistorik.md) | - | - | - | - |
 | [Prehistorik 2](games/p/prehistorik_2.md) | - | - | 0 | - |
-| [Prey](games/p/prey.md) | 4.62 | 334 | 5,516 | 57 |
+| [Prey](games/p/prey.md) | 4.62 | 334 | 5,517 | 57 |
 | [Primordials of Amyrion](games/p/primordials_of_amyrion.md) | - | - | 0 | - |
 | [Prince of Persia: The Sands of Time Remake](games/p/prince_of_persia__the_sands_of_time_remake.md) | - | - | - | - |
 | [Prince of Qin](games/p/prince_of_qin.md) | - | - | 0 | - |
@@ -1563,7 +1563,7 @@
 | [Read Only Memories: NEURODIVER](games/r/read_only_memories__neurodiver.md) | - | - | - | - |
 | [ReadySet Heroes](games/r/readyset_heroes.md) | - | - | 0 | - |
 | [Real Farm - Gold Edition](games/r/real_farm_-_gold_edition.md) | - | - | 0 | - |
-| [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 756 | 126 | 292 |
+| [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 756 | 126 | 293 |
 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 840 | 0 | 488 |
 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 498 | 0 | 488 |
 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 641 | 30 | 440 |
@@ -1786,7 +1786,7 @@
 | [SMITE](games/s/smite.md) | 4.45 | 598 | 3,682 | 77 |
 | [Snake Pass](games/s/snake_pass.md) | - | - | 0 | - |
 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.39 | 675 | 0 | 488 |
-| [SnowRunner](games/s/snowrunner.md) | 4.76 | 115 | 7,714 | 39 |
+| [SnowRunner](games/s/snowrunner.md) | 4.76 | 115 | 7,727 | 39 |
 | [Snowtopia - Ski Resort Builder](games/s/snowtopia_-_ski_resort_builder.md) | - | - | 0 | - |
 | [Soar](games/s/soar.md) | - | - | - | - |
 | [Soccer Story](games/s/soccer_story.md) | - | - | 0 | - |
@@ -2131,7 +2131,7 @@
 | [The Siege and the Sandfox](games/t/the_siege_and_the_sandfox.md) | - | - | - | - |
 | [The Signifier: Director's Cut](games/t/the_signifier__director's_cut.md) | - | - | 0 | - |
 | [The Silent Age](games/t/the_silent_age.md) | 4.34 | 719 | 0 | 488 |
-| [The Sims™ 4](games/t/the_sims™_4.md) | 4.60 | 376 | 125 | 293 |
+| [The Sims™ 4](games/t/the_sims™_4.md) | 4.60 | 376 | 130 | 290 |
 | [The Sinking City](games/t/the_sinking_city.md) | - | - | - | - |
 | [The Smurfs Mission Vileaf](games/t/the_smurfs_mission_vileaf.md) | - | - | 0 | - |
 | [The Sojourn](games/t/the_sojourn.md) | - | - | 0 | - |
@@ -2172,7 +2172,7 @@
 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.80 | 79 | 0 | 488 |
 | [The Wolf Among Us 2](games/t/the_wolf_among_us_2.md) | - | - | - | - |
 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 860 | 0 | 488 |
-| [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 391 | 3,147 | 84 |
+| [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 391 | 3,150 | 84 |
 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.63 | 323 | 0 | 488 |
 | [There Is No Light](games/t/there_is_no_light.md) | - | - | 0 | - |
 | [Thermonuclear](games/t/thermonuclear.md) | - | - | 0 | - |
@@ -2369,7 +2369,7 @@
 | [Warframe](games/w/warframe.md) | 4.61 | 350 | 14,304 | 22 |
 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 208 | 853 | 141 |
 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 408 | 204 | 252 |
-| [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.33 | 728 | 52 | 379 |
+| [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.33 | 728 | 54 | 379 |
 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 632 | 276 | 226 |
 | [Warhammer 40,000: Shootas Blood & Teef](games/w/warhammer_40,000__shootas_blood_&_teef.md) | - | - | 0 | - |
 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.59 | 391 | 0 | 488 |

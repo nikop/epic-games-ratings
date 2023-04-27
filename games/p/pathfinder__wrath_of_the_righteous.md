@@ -3,7 +3,7 @@ Rating: 4.76 (Ranked 115)
 Number of Ratings: 1,354  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 1,619  (Ranked 110)  
-Sum: 6,547 (Ranked 108)  
+Sum: 6,548 (Ranked 108)  
 Diff (max vs sum): 2
 ## Popularity (Based on EOS Achievements)
 Progressed: 8,473 (Ranked 106)  
@@ -25,7 +25,7 @@ Completed: 0 (0.00%) (Ranked 189)
 | This game has Amazing Storytelling | 580 |
 | This game has Quickly Understood Controls | 543 |
 | This game has Challenging Combat | 538 |
-| This game is Relaxing | 519 |
+| This game is Relaxing | 520 |
 | This game has Obsessive Gameplay | 364 |
 | This game has a Creative Community | 360 |
 ## Ratings History
@@ -123,4 +123,4 @@ Completed: 0 (0.00%) (Ranked 189)
 | 2023-04-24 | 4.76 | - | 1,615 | 6,537 |
 | 2023-04-25 | 4.76 | - | 1,616 | 6,540 |
 | 2023-04-26 | 4.76 | - | 1,616 | 6,544 |
-| 2023-04-27 | 4.76 | - | 1,619 | 6,547 |
+| 2023-04-27 | 4.76 | - | 1,619 | 6,548 |

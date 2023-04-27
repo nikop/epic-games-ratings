@@ -42,7 +42,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 88
+      "Count": 89
     },
     {
       "Text": "This game has Amazing Characters",
@@ -54,7 +54,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 86
+      "Count": 87
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -1061,17 +1061,23 @@
       "Rating": 4.51,
       "NumberOfAwards": 876,
       "NumberOfAwardsMax": 104
+    },
+    {
+      "Time": "2023-04-27T09:57:53.5998246+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 878,
+      "NumberOfAwardsMax": 104
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-27T09:03:31.8325132+00:00",
-  "LastUpdate_Ratings": "2023-04-27T08:58:35.4467679+00:00",
-  "LastChanged": "2023-04-26T18:58:25.1372189+00:00",
+  "LastUpdate_Achievements": "2023-04-27T10:02:21.1580492+00:00",
+  "LastUpdate_Ratings": "2023-04-27T09:57:53.5998249+00:00",
+  "LastChanged": "2023-04-27T09:57:53.5998243+00:00",
   "MaxAwardTitle": "Amazing Storytelling",
   "NumberOfAwardsMax": 104,
-  "NumberOfAwards": 876,
+  "NumberOfAwards": 878,
   "NumberOfRatings": 609,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_Progress": 357,

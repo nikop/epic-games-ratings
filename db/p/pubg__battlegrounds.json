@@ -18,7 +18,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1430
+      "Count": 1449
     },
     {
       "Text": "This game has Amazing Characters",
@@ -271,6 +271,11 @@
     {
       "Time": "2023-04-27T09:04:10.3163575+00:00",
       "NumProgressed": 337890,
+      "NumCompleted": 7
+    },
+    {
+      "Time": "2023-04-27T10:03:09.5365345+00:00",
+      "NumProgressed": 337924,
       "NumCompleted": 7
     }
   ],
@@ -1186,20 +1191,26 @@
       "Rating": 3.98,
       "NumberOfAwards": 5314,
       "NumberOfAwardsMax": 1649
+    },
+    {
+      "Time": "2023-04-27T09:58:15.7780443+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 5333,
+      "NumberOfAwardsMax": 1649
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 7,
-  "EOS_Progressed": 337890,
-  "LastUpdate_Achievements": "2023-04-27T09:04:10.3163581+00:00",
-  "LastUpdate_Ratings": "2023-04-27T08:59:11.4440707+00:00",
-  "LastChanged_Achievements": "2023-04-27T09:04:10.3163569+00:00",
-  "LastChanged": "2023-04-27T05:58:12.6880434+00:00",
+  "EOS_Progressed": 337924,
+  "LastUpdate_Achievements": "2023-04-27T10:03:09.5365353+00:00",
+  "LastUpdate_Ratings": "2023-04-27T09:58:15.7780447+00:00",
+  "LastChanged_Achievements": "2023-04-27T10:03:09.5365338+00:00",
+  "LastChanged": "2023-04-27T09:58:15.778044+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "MaxAwardTitle": "Competitive Players",
   "NumberOfAwardsMax": 1649,
-  "NumberOfAwards": 5314,
+  "NumberOfAwards": 5333,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_Progress": 35,
   "Ranking_PopularitySum": 116,

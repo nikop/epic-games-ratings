@@ -17,7 +17,7 @@
 | 12 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 136,374 | 7 |
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 401 | 196 |
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 14,750 | 20 |
-| 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 128 | 290 |
+| 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 128 | 291 |
 | 18 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 248 | 236 |
 | 18 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 0 | 488 |
 | 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 9,162 | 34 |
@@ -123,7 +123,7 @@
 | 115 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 61 | 371 |
 | 115 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 488 |
 | 115 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,619 | 110 |
-| 115 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 7,714 | 39 |
+| 115 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 7,727 | 39 |
 | 115 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 488 |
 | 126 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 463 |
 | 126 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,779 | 63 |
@@ -293,7 +293,7 @@
 | 287 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 164 | 275 |
 | 287 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 114 | 305 |
 | 287 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 0 | 488 |
-| 287 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 317 | 217 |
+| 287 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 318 | 217 |
 | 287 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.65 | 0 | 488 |
 | 287 | [GigaBash](games/g/gigabash.md) | 4.65 | 0 | 488 |
 | 287 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.65 | 0 | 488 |
@@ -345,13 +345,13 @@
 | 334 | [NORCO](games/n/norco.md) | 4.62 | 0 | 488 |
 | 334 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 488 |
 | 334 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 102 | 317 |
-| 334 | [Prey](games/p/prey.md) | 4.62 | 5,516 | 57 |
+| 334 | [Prey](games/p/prey.md) | 4.62 | 5,517 | 57 |
 | 334 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 71 | 354 |
 | 334 | [Transistor](games/t/transistor.md) | 4.62 | 0 | 488 |
 | 334 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.62 | 0 | 488 |
 | 350 | [20XX](games/2/20xx.md) | 4.61 | 36 | 417 |
 | 350 | [ABZU](games/a/abzu.md) | 4.61 | 0 | 488 |
-| 350 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 127 | 291 |
+| 350 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 127 | 292 |
 | 350 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 3,985 | 72 |
 | 350 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 488 |
 | 350 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 210 | 250 |
@@ -387,7 +387,7 @@
 | 376 | [Roguebook](games/r/roguebook.md) | 4.60 | 0 | 488 |
 | 376 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.60 | 0 | 488 |
 | 376 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 436 | 189 |
-| 376 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.60 | 125 | 293 |
+| 376 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.60 | 130 | 290 |
 | 376 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 20 | 480 |
 | 376 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 84 | 338 |
 | 391 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 44 | 401 |
@@ -401,7 +401,7 @@
 | 391 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 74 | 349 |
 | 391 | [The Colonists](games/t/the_colonists.md) | 4.59 | 0 | 488 |
 | 391 | [The Medium](games/t/the_medium.md) | 4.59 | 0 | 488 |
-| 391 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,147 | 84 |
+| 391 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,150 | 84 |
 | 391 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 30 | 440 |
 | 391 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 251 | 235 |
 | 391 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 691 | 154 |
@@ -734,7 +734,7 @@
 | 728 | [Dark Light](games/d/dark_light.md) | 4.33 | 0 | 488 |
 | 728 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.33 | 0 | 488 |
 | 728 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 488 |
-| 728 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.33 | 52 | 379 |
+| 728 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.33 | 54 | 379 |
 | 736 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 0 | 488 |
 | 736 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.32 | 0 | 488 |
 | 736 | [Filament](games/f/filament.md) | 4.32 | 550 | 171 |
@@ -761,7 +761,7 @@
 | 756 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,257,590 | 1 |
 | 756 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 672 | 157 |
 | 756 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 43 | 404 |
-| 756 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 126 | 292 |
+| 756 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 126 | 293 |
 | 756 | [The Fall](games/t/the_fall.md) | 4.29 | 0 | 488 |
 | 764 | [Rage 2](games/r/rage_2.md) | 4.28 | 2,426 | 91 |
 | 764 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 124 | 294 |
@@ -851,7 +851,7 @@
 | 849 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 71 | 354 |
 | 850 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 0 | 488 |
 | 850 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 488 |
-| 850 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 379 |
+| 850 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 380 |
 | 850 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,225 | 96 |
 | 854 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 488 |
 | 854 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 488 |
