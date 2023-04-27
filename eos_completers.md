@@ -13,9 +13,9 @@
 | 11 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 12 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.57% |
+| 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.56% |
 | 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.43% |
-| 16 | [Scorn](games/s/scorn.md) | 7.12% |
+| 16 | [Scorn](games/s/scorn.md) | 7.18% |
 | 17 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.67% |
 | 18 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 19 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
@@ -51,7 +51,7 @@
 | 49 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 50 | [Iron Danger](games/i/iron_danger.md) | 2.48% |
 | 51 | [ZZT!](games/z/zzt!.md) | 2.42% |
-| 52 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.24% |
+| 52 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.25% |
 | 53 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 54 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
 | 55 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -269,6 +269,7 @@
 | 190 | [Infindustry](games/i/infindustry.md) | 0.00% |
 | 190 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 0.00% |
 | 190 | [IXION](games/i/ixion.md) | 0.00% |
+| 190 | [JYDGE](games/j/jydge.md) | 0.00% |
 | 190 | [Kabaret](games/k/kabaret.md) | 0.00% |
 | 190 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 0.00% |
 | 190 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 0.00% |
@@ -359,4 +360,4 @@
 | 190 | [We Are OFK](games/w/we_are_ofk.md) | 0.00% |
 | 190 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 190 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,518 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,519 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

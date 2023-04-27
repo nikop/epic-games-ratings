@@ -1,5 +1,5 @@
 # Going Medieval
-Rating: 4.60 (Ranked 376)  
+Rating: 4.60 (Ranked 377)  
 Number of Ratings: 706  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 118  (Ranked 299)  

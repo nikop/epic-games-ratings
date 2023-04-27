@@ -2,15 +2,21 @@
   "ID": "18567c7914ad48f594fd4b6e4c710b9f",
   "Name": "JYDGE",
   "Tags": [],
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-27T23:02:09.1861917+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-27T22:00:47.6428951+00:00",
-  "LastUpdate_Ratings": "2023-04-27T21:57:07.2778619+00:00",
-  "LastChanged_Achievements": "2023-04-27T22:00:47.6428949+00:00",
+  "EOS_Progressed": 1,
+  "LastUpdate_Achievements": "2023-04-27T23:02:09.1861923+00:00",
+  "LastUpdate_Ratings": "2023-04-27T22:56:58.0703645+00:00",
+  "LastChanged_Achievements": "2023-04-27T23:02:09.1861912+00:00",
   "FirstSeenAchievements": "2023-04-26T13:12:00.0872815+00:00",
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_Progress": 361
+  "Ranking_EOS_Progress": 340
 }

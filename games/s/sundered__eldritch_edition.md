@@ -1,5 +1,5 @@
 # Sundered: Eldritch Edition
-Rating: 4.59 (Ranked 391)  
+Rating: 4.59 (Ranked 392)  
 Number of Ratings: 181  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 74  (Ranked 349)  

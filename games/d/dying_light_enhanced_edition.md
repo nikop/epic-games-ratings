@@ -1,19 +1,19 @@
 # Dying Light Enhanced Edition
-Rating: 4.58 (Ranked 408)  
+Rating: 4.58 (Ranked 409)  
 Number of Ratings: 3,181  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 25,375  (Ranked 16)  
 Sum: 45,198 (Ranked 25)  
 Diff (max vs sum): -9
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,326,261 (Ranked 4)  
+Progressed: 3,326,746 (Ranked 4)  
 Completed: 6 (0.00%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 3,296,074 | 6 |
 | 2023-04-26 | 3,311,627 | 6 |
-| 2023-04-27 | 3,326,261 | 6 |
+| 2023-04-27 | 3,326,746 | 6 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

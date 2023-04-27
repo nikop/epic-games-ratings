@@ -1,9 +1,9 @@
 # theHunter: Call of the Wild™
-Rating: 4.59 (Ranked 391)  
+Rating: 4.59 (Ranked 392)  
 Number of Ratings: 14,635  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 3,150  (Ranked 84)  
-Sum: 22,901 (Ranked 47)  
+Sum: 22,904 (Ranked 47)  
 Diff (max vs sum): 37
 ## Awards
 | Award | Count |
@@ -14,7 +14,7 @@ Diff (max vs sum): 37
 | This game has Quickly Understood Controls | 2,880 |
 | This game is Educational | 2,854 |
 | This game is Highly Recommended | 2,830 |
-| This game has Amazing Storytelling | 2,800 |
+| This game has Amazing Storytelling | 2,803 |
 | This game has Amazing Characters | 2,455 |
 | This game has Obsessive Gameplay | 1,806 |
 | This game has Realistic Visuals | 1,765 |
@@ -122,4 +122,4 @@ Diff (max vs sum): 37
 | 2023-04-24 | 4.59 | - | 3,143 | 22,886 |
 | 2023-04-25 | 4.59 | - | 3,143 | 22,890 |
 | 2023-04-26 | 4.59 | - | 3,147 | 22,897 |
-| 2023-04-27 | 4.59 | - | 3,150 | 22,901 |
+| 2023-04-27 | 4.59 | - | 3,150 | 22,904 |
