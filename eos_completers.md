@@ -21,10 +21,10 @@
 | 19 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 20 | [Island Cities](games/i/island_cities.md) | 5.88% |
 | 20 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.88% |
-| 22 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.01% |
-| 23 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 4.76% |
-| 24 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
-| 25 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.61% |
+| 22 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
+| 23 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
+| 24 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.61% |
+| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 4.60% |
 | 26 | [Bugsnax](games/b/bugsnax.md) | 4.59% |
 | 27 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
 | 28 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.17% |

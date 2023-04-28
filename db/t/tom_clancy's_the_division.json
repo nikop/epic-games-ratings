@@ -42,7 +42,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -683,23 +683,29 @@
       "Rating": 4.59,
       "NumberOfAwards": 574,
       "NumberOfAwardsMax": 251
+    },
+    {
+      "Time": "2023-04-27T23:59:28.0600481+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 575,
+      "NumberOfAwardsMax": 251
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-27T23:05:02.0842578+00:00",
-  "LastUpdate_Ratings": "2023-04-27T22:59:54.9442248+00:00",
-  "LastChanged": "2023-04-27T04:59:12.7771333+00:00",
+  "LastUpdate_Achievements": "2023-04-28T00:04:40.7285355+00:00",
+  "LastUpdate_Ratings": "2023-04-27T23:59:28.0600483+00:00",
+  "LastChanged": "2023-04-27T23:59:28.0600479+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 251,
-  "NumberOfAwards": 574,
+  "NumberOfAwards": 575,
   "NumberOfRatings": 247,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 362,
-  "Ranking_PopularitySum": 282,
+  "Ranking_PopularitySum": 281,
   "Ranking_Popularity": 235,
-  "Ranking_Rating": 392,
-  "Rating": 4.59,
+  "Ranking_Rating": 408,
+  "Rating": 4.58,
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00"
 }

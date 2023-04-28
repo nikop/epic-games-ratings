@@ -234,6 +234,11 @@
       "Time": "2023-04-27T23:04:13.0224958+00:00",
       "NumProgressed": 456718,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-04-28T00:04:00.3040703+00:00",
+      "NumProgressed": 456721,
+      "NumCompleted": 14
     }
   ],
   "RatingHistory": [
@@ -745,10 +750,10 @@
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 14,
-  "EOS_Progressed": 456718,
-  "LastUpdate_Achievements": "2023-04-27T23:04:13.022496+00:00",
-  "LastUpdate_Ratings": "2023-04-27T22:59:07.0039172+00:00",
-  "LastChanged_Achievements": "2023-04-27T23:04:13.0224954+00:00",
+  "EOS_Progressed": 456721,
+  "LastUpdate_Achievements": "2023-04-28T00:04:00.3040706+00:00",
+  "LastUpdate_Ratings": "2023-04-27T23:58:49.0235179+00:00",
+  "LastChanged_Achievements": "2023-04-28T00:04:00.3040699+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "MaxAwardTitle": "Character Customization",

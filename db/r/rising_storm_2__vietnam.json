@@ -30,7 +30,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 572
+      "Count": 573
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2632,17 +2632,23 @@
       "Rating": 4.5,
       "NumberOfAwards": 5975,
       "NumberOfAwardsMax": 642
+    },
+    {
+      "Time": "2023-04-27T23:59:10.1455158+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 5976,
+      "NumberOfAwardsMax": 642
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-27T23:04:38.8783779+00:00",
-  "LastUpdate_Ratings": "2023-04-27T22:59:33.7071791+00:00",
-  "LastChanged": "2023-04-27T17:59:55.0983066+00:00",
+  "LastUpdate_Achievements": "2023-04-28T00:04:21.782148+00:00",
+  "LastUpdate_Ratings": "2023-04-27T23:59:10.1455162+00:00",
+  "LastChanged": "2023-04-27T23:59:10.1455156+00:00",
   "MaxAwardTitle": "Quickly Understood Controls",
   "NumberOfAwardsMax": 642,
-  "NumberOfAwards": 5975,
+  "NumberOfAwards": 5976,
   "NumberOfRatings": 2871,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 362,
