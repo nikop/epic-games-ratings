@@ -1,5 +1,5 @@
 # Elite Dangerous
-Rating: 4.63 (Ranked 323)  
+Rating: 4.64 (Ranked 309)  
 Number of Ratings: 6,856  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 2,076  (Ranked 101)  
@@ -112,4 +112,4 @@ Diff (max vs sum): 30
 | 2023-04-25 | 4.63 | - | 2,076 | 11,910 |
 | 2023-04-26 | 4.63 | - | 2,076 | 11,918 |
 | 2023-04-27 | 4.63 | - | 2,076 | 11,926 |
-| 2023-04-28 | 4.63 | - | 2,076 | 11,927 |
+| 2023-04-28 | 4.64 | - | 2,076 | 11,927 |

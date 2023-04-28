@@ -24,7 +24,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 169
+      "Count": 170
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1588,6 +1588,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 1320,
       "NumberOfAwardsMax": 192
+    },
+    {
+      "Time": "2023-04-28T18:58:30.7254726+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 1321,
+      "NumberOfAwardsMax": 192
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -1595,15 +1601,15 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T18:03:27.1459548+00:00",
-  "LastUpdate_Ratings": "2023-04-28T17:58:21.0891166+00:00",
-  "LastChanged": "2023-04-25T22:59:03.6423216+00:00",
+  "LastUpdate_Achievements": "2023-04-28T19:03:47.679567+00:00",
+  "LastUpdate_Ratings": "2023-04-28T18:58:30.7254729+00:00",
+  "LastChanged": "2023-04-28T18:58:30.7254724+00:00",
   "MaxAwardTitle": "Relaxing",
   "NumberOfAwardsMax": 192,
-  "NumberOfAwards": 1320,
+  "NumberOfAwards": 1321,
   "NumberOfRatings": 1166,
-  "Ranking_EOS_NewCompleters": 61,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 364,
   "Ranking_PopularitySum": 213,

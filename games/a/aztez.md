@@ -1,5 +1,5 @@
 # Aztez
-Rating: 4.53 (Ranked 486)  
+Rating: 4.53 (Ranked 487)  
 Number of Ratings: 43  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  

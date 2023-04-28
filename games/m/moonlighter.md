@@ -1,5 +1,5 @@
 # Moonlighter
-Rating: 4.69 (Ranked 207)  
+Rating: 4.69 (Ranked 208)  
 Number of Ratings: 1,098  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  

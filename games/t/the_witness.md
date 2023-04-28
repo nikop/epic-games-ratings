@@ -1,5 +1,5 @@
 # The Witness
-Rating: 4.69 (Ranked 207)  
+Rating: 4.70 (Ranked 190)  
 Number of Ratings: 503  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Challenging Puzzles): 169  (Ranked 273)  
@@ -90,3 +90,4 @@ Diff (max vs sum): -89
 | 2023-04-02 | 4.69 | - | 167 | 167 |
 | 2023-04-15 | 4.69 | - | 168 | 168 |
 | 2023-04-26 | 4.69 | - | 169 | 169 |
+| 2023-04-28 | 4.70 | - | 169 | 169 |

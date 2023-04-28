@@ -1,12 +1,12 @@
 # The Tenants
-Rating: 4.53 (Ranked 486)  
+Rating: 4.53 (Ranked 487)  
 Number of Ratings: 82  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,639 (Ranked 106)  
+Progressed: 9,640 (Ranked 106)  
 Completed: 0 (0.00%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -14,6 +14,7 @@ Completed: 0 (0.00%) (Ranked 190)
 | 2023-04-25 | 9,636 | 0 |
 | 2023-04-26 | 9,637 | 0 |
 | 2023-04-27 | 9,639 | 0 |
+| 2023-04-28 | 9,640 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

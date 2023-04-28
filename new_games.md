@@ -30,7 +30,7 @@
 | [Roma Invicta](games/r/roma_invicta.md) | - | - | 0 | - |
 | [Fortune Follow: The Mansion](games/f/fortune_follow__the_mansion.md) | - | - | 0 | - |
 | [Bosorka](games/b/bosorka.md) | - | - | 0 | - |
-| [Dead Island 2](games/d/dead_island_2.md) | 4.53 | 486 | 1,200 | 120 |
+| [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 474 | 1,200 | 120 |
 | [Doomed Lands](games/d/doomed_lands.md) | - | - | 0 | - |
 | [League Manager 2023](games/l/league_manager_2023.md) | - | - | 0 | - |
 | [Stray Blade](games/s/stray_blade.md) | - | - | 0 | - |

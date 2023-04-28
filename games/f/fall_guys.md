@@ -1,20 +1,20 @@
 # Fall Guys
-Rating: 4.53 (Ranked 486)  
+Rating: 4.53 (Ranked 487)  
 Number of Ratings: 1,046,587  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 137,839  (Ranked 6)  
 Sum: 1,292,114 (Ranked 5)  
 Diff (max vs sum): 1
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,248,787 (Ranked 1)  
-Completed: 28,647 (0.09%) (Ranked 150)  
+Progressed: 32,249,877 (Ranked 1)  
+Completed: 28,652 (0.09%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 32,207,683 | 28,564 |
 | 2023-04-26 | 32,221,891 | 28,588 |
 | 2023-04-27 | 32,236,211 | 28,621 |
-| 2023-04-28 | 32,248,787 | 28,647 |
+| 2023-04-28 | 32,249,877 | 28,652 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
