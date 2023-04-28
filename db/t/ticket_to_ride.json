@@ -18,7 +18,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 43
+      "Count": 44
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -42,7 +42,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game is Highly Recommended",
@@ -482,25 +482,37 @@
       "Rating": 4.61,
       "NumberOfAwards": 327,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2023-04-26T20:59:48.5412898+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 328,
+      "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2023-04-26T23:59:09.6262649+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 329,
+      "NumberOfAwardsMax": 62
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T14:07:33.8371064+00:00",
-  "LastUpdate_Ratings": "2023-04-26T14:01:03.8824946+00:00",
-  "LastChanged_Achievements": "2023-04-26T14:07:33.8371062+00:00",
-  "LastChanged": "2023-04-23T16:57:27.293205+00:00",
+  "LastUpdate_Achievements": "2023-04-28T09:04:47.8196846+00:00",
+  "LastUpdate_Ratings": "2023-04-28T08:59:47.7948419+00:00",
+  "LastChanged_Achievements": "2023-04-28T09:04:47.8196844+00:00",
+  "LastChanged": "2023-04-26T23:59:09.6262648+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.6058604+00:00",
   "MaxAwardTitle": "Great for Quick Sessions",
   "NumberOfAwardsMax": 62,
-  "NumberOfAwards": 327,
+  "NumberOfAwards": 329,
   "NumberOfRatings": 167,
-  "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_Progress": 356,
+  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_Progress": 362,
   "Ranking_PopularitySum": 316,
-  "Ranking_Popularity": 368,
-  "Ranking_Rating": 349,
+  "Ranking_Popularity": 369,
+  "Ranking_Rating": 351,
   "Rating": 4.61,
   "FirstSeen": "2022-07-22T20:20:53.9949813+00:00"
 }

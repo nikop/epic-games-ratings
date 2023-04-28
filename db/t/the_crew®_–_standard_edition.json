@@ -121,22 +121,28 @@
       "Rating": 4.66,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-27T05:58:03.0324619+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T14:05:12.7486752+00:00",
-  "LastUpdate_Ratings": "2023-04-26T13:58:53.9322875+00:00",
-  "LastChanged": "2023-04-21T16:58:07.0467155+00:00",
+  "LastUpdate_Achievements": "2023-04-28T09:01:43.5058689+00:00",
+  "LastUpdate_Ratings": "2023-04-28T08:58:27.2394967+00:00",
+  "LastChanged": "2023-04-27T05:58:03.0324616+00:00",
   "FirstSeenRating": "2023-01-08T06:57:23.9480644+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_Progress": 356,
+  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_Progress": 362,
   "Ranking_PopularitySum": 488,
   "Ranking_Popularity": 488,
-  "Ranking_Rating": 270,
-  "Rating": 4.66,
+  "Ranking_Rating": 323,
+  "Rating": 4.63,
   "FirstSeen": "2022-11-17T02:32:48.2032844+00:00"
 }

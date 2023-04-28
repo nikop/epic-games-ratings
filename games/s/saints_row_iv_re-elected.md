@@ -1,17 +1,19 @@
 # Saints Row IV Re-Elected
-Rating: 4.40 (Ranked 662)  
+Rating: 4.40 (Ranked 663)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 388  (Ranked 199)  
+Max (Great Boss Battles): 388  (Ranked 200)  
 Sum: 388 (Ranked 301)  
-Diff (max vs sum): -102
+Diff (max vs sum): -101
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,616 (Ranked 52)  
-Completed: 6 (0.00%) (Ranked 188)  
+Progressed: 142,288 (Ranked 52)  
+Completed: 6 (0.00%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 140,125 | 6 |
-| 2023-04-26 | 140,616 | 6 |
+| 2023-04-26 | 141,058 | 6 |
+| 2023-04-27 | 141,972 | 6 |
+| 2023-04-28 | 142,288 | 6 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

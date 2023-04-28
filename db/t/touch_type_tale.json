@@ -37,6 +37,51 @@
       "Time": "2023-04-26T12:12:18.5818143+00:00",
       "NumProgressed": 2423,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-26T15:05:21.9764633+00:00",
+      "NumProgressed": 2425,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-26T22:04:58.4315806+00:00",
+      "NumProgressed": 2426,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-27T10:04:50.1492835+00:00",
+      "NumProgressed": 2428,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-27T20:05:44.6906419+00:00",
+      "NumProgressed": 2429,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-27T21:04:45.2140416+00:00",
+      "NumProgressed": 2430,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-27T22:05:00.4561998+00:00",
+      "NumProgressed": 2431,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-28T02:06:45.3665361+00:00",
+      "NumProgressed": 2432,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-28T06:05:38.3683995+00:00",
+      "NumProgressed": 2433,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-28T07:05:47.9624917+00:00",
+      "NumProgressed": 2434,
+      "NumCompleted": 8
     }
   ],
   "RatingHistory": [
@@ -49,16 +94,16 @@
   ],
   "EOS_Completed_Percentage": 0.33,
   "EOS_Completed": 8,
-  "EOS_Progressed": 2423,
-  "LastUpdate_Achievements": "2023-04-26T14:08:43.3023972+00:00",
-  "LastUpdate_Ratings": "2023-04-26T14:02:06.738453+00:00",
-  "LastChanged_Achievements": "2023-04-26T14:08:43.3023967+00:00",
+  "EOS_Progressed": 2434,
+  "LastUpdate_Achievements": "2023-04-28T09:05:30.1434392+00:00",
+  "LastUpdate_Ratings": "2023-04-28T09:00:24.1675005+00:00",
+  "LastChanged_Achievements": "2023-04-28T09:05:30.1434381+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_Progress": 134,
+  "Ranking_EOS_Completed": 109,
+  "Ranking_EOS_Progress": 135,
   "FirstSeen": "2023-03-28T17:57:30.7246301+00:00"
 }

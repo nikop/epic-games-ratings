@@ -2,31 +2,33 @@
 Rating: 4.82 (Ranked 60)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 5,993  (Ranked 53)  
-Sum: 10,116 (Ranked 77)  
+Max (Great Boss Battles): 6,003  (Ranked 53)  
+Sum: 10,132 (Ranked 77)  
 Diff (max vs sum): -24
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,175 (Ranked 13)  
-Completed: 12,690 (1.81%) (Ranked 53)  
+Progressed: 702,252 (Ranked 13)  
+Completed: 12,694 (1.81%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 702,157 | 12,690 |
-| 2023-04-26 | 702,175 | 12,690 |
+| 2023-04-26 | 702,191 | 12,691 |
+| 2023-04-27 | 702,235 | 12,692 |
+| 2023-04-28 | 702,252 | 12,694 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 5,993 |
-| This game has Diverse Characters | 493 |
+| This game has Great Boss Battles | 6,003 |
+| This game has Diverse Characters | 495 |
 | This game has Quickly Understood Controls | 490 |
 | This game has Challenging Combat | 490 |
-| This game is Extremely Fun | 480 |
+| This game is Extremely Fun | 481 |
 | This game has Amazing Storytelling | 475 |
-| This game is Highly Recommended | 463 |
+| This game is Highly Recommended | 465 |
 | This game has Amazing Characters | 454 |
 | This game has Unique Visuals | 443 |
 | This game is Relaxing | 401 |
-| This game has a Creative Community | 335 |
+| This game has a Creative Community | 336 |
 | This game has Obsessive Gameplay | 293 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -131,4 +133,6 @@ Completed: 12,690 (1.81%) (Ranked 53)
 | 2023-04-23 | 4.82 | - | 5,982 | 10,091 |
 | 2023-04-24 | 4.82 | - | 5,987 | 10,101 |
 | 2023-04-25 | 4.82 | - | 5,993 | 10,112 |
-| 2023-04-26 | 4.82 | - | 5,993 | 10,116 |
+| 2023-04-26 | 4.82 | - | 6,002 | 10,128 |
+| 2023-04-27 | 4.82 | - | 6,002 | 10,131 |
+| 2023-04-28 | 4.82 | - | 6,003 | 10,132 |

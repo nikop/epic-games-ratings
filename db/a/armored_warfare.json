@@ -18,7 +18,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 71
+      "Count": 72
     },
     {
       "Text": "This game is Highly Recommended",
@@ -42,13 +42,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 51
+      "Count": 52
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 60
+      "Count": 61
     },
     {
       "Text": "This game has a Competitive Community",
@@ -957,23 +957,35 @@
       "Rating": 4.11,
       "NumberOfAwards": 562,
       "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2023-04-26T19:00:39.758885+00:00",
+      "Rating": 4.11,
+      "NumberOfAwards": 563,
+      "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2023-04-27T10:59:17.896616+00:00",
+      "Rating": 4.11,
+      "NumberOfAwards": 565,
+      "NumberOfAwardsMax": 72
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T14:08:12.0176535+00:00",
-  "LastUpdate_Ratings": "2023-04-26T14:01:38.4367519+00:00",
-  "LastChanged": "2023-04-26T04:01:28.7658132+00:00",
+  "LastUpdate_Achievements": "2023-04-28T09:05:10.3798923+00:00",
+  "LastUpdate_Ratings": "2023-04-28T09:00:08.5550325+00:00",
+  "LastChanged": "2023-04-27T10:59:17.8966158+00:00",
   "MaxAwardTitle": "Great for Beginners",
-  "NumberOfAwardsMax": 71,
-  "NumberOfAwards": 562,
+  "NumberOfAwardsMax": 72,
+  "NumberOfAwards": 565,
   "NumberOfRatings": 458,
-  "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_Progress": 356,
+  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_Progress": 362,
   "Ranking_PopularitySum": 283,
-  "Ranking_Popularity": 354,
-  "Ranking_Rating": 848,
+  "Ranking_Popularity": 352,
+  "Ranking_Rating": 849,
   "Rating": 4.11,
   "FirstSeen": "2022-07-22T20:16:52.6557809+00:00"
 }

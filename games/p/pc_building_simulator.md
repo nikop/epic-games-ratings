@@ -1,30 +1,32 @@
 # PC Building Simulator
-Rating: 4.66 (Ranked 270)  
+Rating: 4.66 (Ranked 271)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 1,030  (Ranked 129)  
-Sum: 7,710 (Ranked 92)  
+Sum: 7,714 (Ranked 92)  
 Diff (max vs sum): 37
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,489,951 (Ranked 3)  
-Completed: 21 (0.00%) (Ranked 188)  
+Progressed: 3,490,611 (Ranked 3)  
+Completed: 21 (0.00%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 3,489,754 | 21 |
-| 2023-04-26 | 3,489,951 | 21 |
+| 2023-04-26 | 3,490,121 | 21 |
+| 2023-04-27 | 3,490,490 | 21 |
+| 2023-04-28 | 3,490,611 | 21 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,030 |
-| This game is Relaxing | 959 |
+| This game is Relaxing | 960 |
+| This game is Extremely Fun | 956 |
 | This game is Educational | 955 |
-| This game is Extremely Fun | 954 |
 | This game has Quickly Understood Controls | 920 |
 | This game is Highly Recommended | 860 |
 | This game has Amazing Storytelling | 784 |
 | This game has Obsessive Gameplay | 664 |
-| This game has Amazing Characters | 631 |
+| This game has Amazing Characters | 632 |
 | This game has a Creative Community | 617 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -114,4 +116,4 @@ Completed: 21 (0.00%) (Ranked 188)
 | 2023-04-20 | 4.66 | - | 1,029 | 7,706 |
 | 2023-04-21 | 4.66 | - | 1,030 | 7,707 |
 | 2023-04-24 | 4.66 | - | 1,030 | 7,709 |
-| 2023-04-26 | 4.66 | - | 1,030 | 7,710 |
+| 2023-04-26 | 4.66 | - | 1,030 | 7,714 |

@@ -1,18 +1,20 @@
 # Arcadegeddon
-Rating: 4.49 (Ranked 542)  
+Rating: 4.49 (Ranked 543)  
 Number of Ratings: 801  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 61  (Ranked 371)  
 Sum: 532 (Ranked 286)  
 Diff (max vs sum): 85
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,032 (Ranked 112)  
-Completed: 0 (0.00%) (Ranked 188)  
+Progressed: 6,061 (Ranked 113)  
+Completed: 0 (0.00%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 6,024 | 0 |
-| 2023-04-26 | 6,032 | 0 |
+| 2023-04-26 | 6,036 | 0 |
+| 2023-04-27 | 6,058 | 0 |
+| 2023-04-28 | 6,061 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,0 +1,214 @@
+{
+  "ID": "0e14884122774ea28f1d33f751d241e6",
+  "Name": "Jill of the Jungle: The Complete Trilogy",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-26T15:59:54.0238725+00:00",
+      "NumProgressed": 11,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T17:00:03.3398447+00:00",
+      "NumProgressed": 18,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T18:01:36.1474022+00:00",
+      "NumProgressed": 26,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T19:01:37.4936687+00:00",
+      "NumProgressed": 33,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T20:00:02.6820319+00:00",
+      "NumProgressed": 40,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T21:01:01.5018633+00:00",
+      "NumProgressed": 42,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-26T22:00:24.2707086+00:00",
+      "NumProgressed": 44,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-26T23:01:16.80366+00:00",
+      "NumProgressed": 49,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-27T00:00:17.4348289+00:00",
+      "NumProgressed": 60,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-27T02:00:41.1756372+00:00",
+      "NumProgressed": 79,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-27T03:01:47.5273454+00:00",
+      "NumProgressed": 82,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-27T04:00:22.2649197+00:00",
+      "NumProgressed": 85,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-27T05:00:03.6678581+00:00",
+      "NumProgressed": 89,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-04-27T06:00:19.5064768+00:00",
+      "NumProgressed": 91,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-04-27T07:00:24.8006104+00:00",
+      "NumProgressed": 96,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-04-27T08:00:22.911729+00:00",
+      "NumProgressed": 99,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-04-27T09:02:37.2713952+00:00",
+      "NumProgressed": 101,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-04-27T10:00:25.3497927+00:00",
+      "NumProgressed": 103,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-04-27T11:00:20.9688511+00:00",
+      "NumProgressed": 105,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-04-27T12:00:12.522171+00:00",
+      "NumProgressed": 112,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-04-27T13:07:18.9524528+00:00",
+      "NumProgressed": 118,
+      "NumCompleted": 5
+    },
+    {
+      "Time": "2023-04-27T14:01:12.2428337+00:00",
+      "NumProgressed": 124,
+      "NumCompleted": 5
+    },
+    {
+      "Time": "2023-04-27T15:03:20.6175639+00:00",
+      "NumProgressed": 130,
+      "NumCompleted": 6
+    },
+    {
+      "Time": "2023-04-27T16:02:17.3483994+00:00",
+      "NumProgressed": 134,
+      "NumCompleted": 6
+    },
+    {
+      "Time": "2023-04-27T17:02:20.1791668+00:00",
+      "NumProgressed": 140,
+      "NumCompleted": 6
+    },
+    {
+      "Time": "2023-04-27T18:01:52.5374754+00:00",
+      "NumProgressed": 145,
+      "NumCompleted": 6
+    },
+    {
+      "Time": "2023-04-27T19:02:12.331383+00:00",
+      "NumProgressed": 154,
+      "NumCompleted": 6
+    },
+    {
+      "Time": "2023-04-27T20:01:42.9001417+00:00",
+      "NumProgressed": 156,
+      "NumCompleted": 6
+    },
+    {
+      "Time": "2023-04-27T21:00:29.5734308+00:00",
+      "NumProgressed": 165,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-27T22:00:45.6564223+00:00",
+      "NumProgressed": 168,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-28T00:00:02.8371775+00:00",
+      "NumProgressed": 174,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-28T02:02:05.7614343+00:00",
+      "NumProgressed": 178,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-28T04:01:29.5654382+00:00",
+      "NumProgressed": 182,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-28T04:59:50.6789694+00:00",
+      "NumProgressed": 186,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-28T06:01:00.2513154+00:00",
+      "NumProgressed": 189,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-28T07:01:21.8699495+00:00",
+      "NumProgressed": 190,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-04-28T09:01:03.1676332+00:00",
+      "NumProgressed": 191,
+      "NumCompleted": 11
+    }
+  ],
+  "RatingHistory": [
+    {
+      "Time": "2023-04-27T14:58:11.428016+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
+  "EOS_Completed_Percentage": 5.76,
+  "EOS_Completed": 11,
+  "EOS_Progressed": 191,
+  "LastUpdate_Achievements": "2023-04-28T09:01:03.1676338+00:00",
+  "LastUpdate_Ratings": "2023-04-28T08:57:10.9283809+00:00",
+  "LastChanged_Achievements": "2023-04-28T09:01:03.1676316+00:00",
+  "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
+  "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
+  "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 22,
+  "Ranking_EOS_Progress": 220,
+  "FirstSeen": "2023-04-27T14:58:11.4259359+00:00"
+}

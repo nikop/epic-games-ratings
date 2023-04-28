@@ -1,5 +1,5 @@
 # Osiris: New Dawn
-Rating: 3.75 (Ranked 902)  
+Rating: 3.75 (Ranked 904)  
 Number of Ratings: 106  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  

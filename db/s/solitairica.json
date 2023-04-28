@@ -30,7 +30,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 82
+      "Count": 83
     },
     {
       "Text": "This game has Diverse Characters",
@@ -757,23 +757,29 @@
       "Rating": 4.49,
       "NumberOfAwards": 593,
       "NumberOfAwardsMax": 82
+    },
+    {
+      "Time": "2023-04-28T04:58:44.4705651+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 594,
+      "NumberOfAwardsMax": 83
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T14:07:12.4459557+00:00",
-  "LastUpdate_Ratings": "2023-04-26T14:00:46.1215156+00:00",
-  "LastChanged": "2023-04-25T19:58:15.164647+00:00",
+  "LastUpdate_Achievements": "2023-04-28T09:04:35.0106553+00:00",
+  "LastUpdate_Ratings": "2023-04-28T08:59:34.2749069+00:00",
+  "LastChanged": "2023-04-28T04:58:44.4705649+00:00",
   "MaxAwardTitle": "Quickly Understood Controls",
-  "NumberOfAwardsMax": 82,
-  "NumberOfAwards": 593,
+  "NumberOfAwardsMax": 83,
+  "NumberOfAwards": 594,
   "NumberOfRatings": 474,
-  "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_Progress": 356,
+  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_Progress": 362,
   "Ranking_PopularitySum": 276,
   "Ranking_Popularity": 340,
-  "Ranking_Rating": 542,
+  "Ranking_Rating": 543,
   "Rating": 4.49,
   "FirstSeen": "2022-07-22T20:20:54.4785127+00:00"
 }

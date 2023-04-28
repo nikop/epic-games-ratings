@@ -1,13 +1,13 @@
 # Train Valley
-Rating: 4.47 (Ranked 574)  
+Rating: 4.47 (Ranked 576)  
 Number of Ratings: 28  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 271 (Ranked 206)  
-Completed: 2 (0.74%) (Ranked 85)  
+Progressed: 271 (Ranked 207)  
+Completed: 2 (0.74%) (Ranked 87)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

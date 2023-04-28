@@ -1,5 +1,5 @@
 # Lake
-Rating: 4.03 (Ranked 868)  
+Rating: 4.03 (Ranked 869)  
 Number of Ratings: 22  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  

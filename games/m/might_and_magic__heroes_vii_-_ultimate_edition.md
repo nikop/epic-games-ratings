@@ -1,16 +1,16 @@
 # Might and Magic: Heroes VII - Ultimate Edition
-Rating: 4.45 (Ranked 598)  
+Rating: 4.45 (Ranked 599)  
 Number of Ratings: 96  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Quickly Understood Controls): 27  (Ranked 449)  
-Sum: 69 (Ranked 412)  
-Diff (max vs sum): 37
+Max (Quickly Understood Controls): 27  (Ranked 450)  
+Sum: 70 (Ranked 411)  
+Diff (max vs sum): 39
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 27 |
 | This game is Extremely Fun | 22 |
-| This game has Diverse Characters | 20 |
+| This game has Diverse Characters | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -92,3 +92,4 @@ Diff (max vs sum): 37
 | 2023-04-21 | 4.44 | - | 27 | 49 |
 | 2023-04-22 | 4.44 | - | 27 | 69 |
 | 2023-04-25 | 4.45 | - | 27 | 69 |
+| 2023-04-26 | 4.45 | - | 27 | 70 |

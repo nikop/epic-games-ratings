@@ -1,10 +1,10 @@
 # EVE Online
-Rating: 4.25 (Ranked 772)  
+Rating: 4.26 (Ranked 770)  
 Number of Ratings: 1,408  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 1,011  (Ranked 132)  
-Sum: 2,178 (Ranked 174)  
-Diff (max vs sum): -42
+Sum: 2,001 (Ranked 184)  
+Diff (max vs sum): -52
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -12,7 +12,7 @@ Diff (max vs sum): -42
 | This game is Extremely Fun | 181 |
 | This game has Challenging Combat | 178 |
 | This game has Diverse Characters | 178 |
-| This game is Relaxing | 167 |
+| This game is Relaxing | 168 |
 | This game is Highly Recommended | 167 |
 | This game has Competitive Players | 160 |
 | This game has a Competitive Community | 136 |
@@ -136,3 +136,5 @@ Diff (max vs sum): -42
 | 2023-04-23 | 4.26 | - | 1,009 | 2,175 |
 | 2023-04-24 | 4.26 | - | 1,011 | 2,177 |
 | 2023-04-26 | 4.25 | - | 1,011 | 2,178 |
+| 2023-04-27 | 4.25 | - | 1,011 | 2,179 |
+| 2023-04-28 | 4.26 | - | 1,011 | 2,001 |

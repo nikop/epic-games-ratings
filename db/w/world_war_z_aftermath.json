@@ -6,43 +6,43 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 3768
+      "Count": 3784
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 3228
+      "Count": 3229
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3120
+      "Count": 3121
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3154
+      "Count": 3157
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 3080
+      "Count": 3086
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3356
+      "Count": 3369
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2955
+      "Count": 2960
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -54,7 +54,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 2902
+      "Count": 2908
     }
   ],
   "EosHistory": [],
@@ -4412,22 +4412,76 @@
       "Rating": 4.56,
       "NumberOfAwards": 25563,
       "NumberOfAwardsMax": 3768
+    },
+    {
+      "Time": "2023-04-26T18:57:29.7612131+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 25567,
+      "NumberOfAwardsMax": 3768
+    },
+    {
+      "Time": "2023-04-26T19:57:04.5813367+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 25568,
+      "NumberOfAwardsMax": 3768
+    },
+    {
+      "Time": "2023-04-26T20:57:21.6953567+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 25575,
+      "NumberOfAwardsMax": 3768
+    },
+    {
+      "Time": "2023-04-26T21:57:17.9176569+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 25585,
+      "NumberOfAwardsMax": 3778
+    },
+    {
+      "Time": "2023-04-27T05:57:11.4751549+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 25591,
+      "NumberOfAwardsMax": 3778
+    },
+    {
+      "Time": "2023-04-27T09:57:15.2430233+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 25592,
+      "NumberOfAwardsMax": 3778
+    },
+    {
+      "Time": "2023-04-27T22:57:07.7376033+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 25598,
+      "NumberOfAwardsMax": 3778
+    },
+    {
+      "Time": "2023-04-27T23:57:13.0629982+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 25603,
+      "NumberOfAwardsMax": 3778
+    },
+    {
+      "Time": "2023-04-28T01:57:55.899184+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 25614,
+      "NumberOfAwardsMax": 3784
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T14:03:12.5839516+00:00",
-  "LastUpdate_Ratings": "2023-04-26T13:57:07.6757391+00:00",
-  "LastChanged_Achievements": "2023-04-26T14:03:12.5839514+00:00",
-  "LastChanged": "2023-04-26T02:57:24.5646185+00:00",
+  "LastUpdate_Achievements": "2023-04-28T09:01:14.5279978+00:00",
+  "LastUpdate_Ratings": "2023-04-28T08:57:20.7659339+00:00",
+  "LastChanged_Achievements": "2023-04-28T09:01:14.5279976+00:00",
+  "LastChanged": "2023-04-28T01:57:55.8991836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.7901405+00:00",
   "MaxAwardTitle": "Great for Beginners",
-  "NumberOfAwardsMax": 3768,
-  "NumberOfAwards": 25563,
+  "NumberOfAwardsMax": 3784,
+  "NumberOfAwards": 25614,
   "NumberOfRatings": 17073,
-  "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_Progress": 356,
+  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_Progress": 362,
   "Ranking_PopularitySum": 45,
   "Ranking_Popularity": 75,
   "Ranking_Rating": 443,

@@ -12,7 +12,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1968
+      "Count": 1970
     },
     {
       "Text": "This game is Educational",
@@ -24,13 +24,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1907
+      "Count": 1908
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1802
+      "Count": 1803
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3267,23 +3267,41 @@
       "Rating": 4.49,
       "NumberOfAwards": 15333,
       "NumberOfAwardsMax": 1968
+    },
+    {
+      "Time": "2023-04-26T14:58:26.4172994+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15334,
+      "NumberOfAwardsMax": 1968
+    },
+    {
+      "Time": "2023-04-26T20:58:23.9763923+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15336,
+      "NumberOfAwardsMax": 1970
+    },
+    {
+      "Time": "2023-04-27T18:58:09.3252962+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15337,
+      "NumberOfAwardsMax": 1970
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T14:04:56.6381577+00:00",
-  "LastUpdate_Ratings": "2023-04-26T13:58:40.7221245+00:00",
-  "LastChanged": "2023-04-26T03:58:35.5999131+00:00",
+  "LastUpdate_Achievements": "2023-04-28T09:03:16.7588323+00:00",
+  "LastUpdate_Ratings": "2023-04-28T08:58:17.2274547+00:00",
+  "LastChanged": "2023-04-27T18:58:09.325296+00:00",
   "MaxAwardTitle": "Relaxing",
-  "NumberOfAwardsMax": 1968,
-  "NumberOfAwards": 15333,
+  "NumberOfAwardsMax": 1970,
+  "NumberOfAwards": 15337,
   "NumberOfRatings": 38343,
-  "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_Progress": 356,
-  "Ranking_PopularitySum": 58,
+  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_Progress": 362,
+  "Ranking_PopularitySum": 59,
   "Ranking_Popularity": 102,
-  "Ranking_Rating": 542,
+  "Ranking_Rating": 543,
   "Rating": 4.49,
   "FirstSeen": "2022-07-22T20:26:04.6520015+00:00"
 }

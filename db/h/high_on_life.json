@@ -27,6 +27,36 @@
       "Time": "2023-04-26T11:05:40.5804098+00:00",
       "NumProgressed": 22562,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-26T22:01:06.2830708+00:00",
+      "NumProgressed": 22563,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-27T07:02:21.1667645+00:00",
+      "NumProgressed": 22564,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-27T13:06:44.6338283+00:00",
+      "NumProgressed": 22565,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-27T20:01:14.7457423+00:00",
+      "NumProgressed": 22566,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-27T22:00:23.3593828+00:00",
+      "NumProgressed": 22568,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-28T03:01:17.3434466+00:00",
+      "NumProgressed": 22569,
+      "NumCompleted": 8
     }
   ],
   "RatingHistory": [
@@ -187,24 +217,36 @@
       "Rating": 4.67,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-27T05:57:40.0912136+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-28T05:57:41.6897147+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "EOS_Completed_Percentage": 0.04,
   "EOS_Completed": 8,
-  "EOS_Progressed": 22562,
-  "LastUpdate_Achievements": "2023-04-26T14:04:18.3587278+00:00",
-  "LastUpdate_Ratings": "2023-04-26T13:58:06.8018673+00:00",
-  "LastChanged_Achievements": "2023-04-26T14:04:18.3587272+00:00",
-  "LastChanged": "2023-04-20T20:57:19.6772346+00:00",
+  "EOS_Progressed": 22569,
+  "LastUpdate_Achievements": "2023-04-28T09:01:24.9712504+00:00",
+  "LastUpdate_Ratings": "2023-04-28T08:57:57.0360472+00:00",
+  "LastChanged_Achievements": "2023-04-28T09:01:24.9712494+00:00",
+  "LastChanged": "2023-04-28T05:57:41.6897144+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_Progress": 84,
+  "Ranking_EOS_Completed": 165,
+  "Ranking_EOS_Progress": 86,
   "Ranking_PopularitySum": 488,
   "Ranking_Popularity": 488,
-  "Ranking_Rating": 253,
+  "Ranking_Rating": 254,
   "Rating": 4.67,
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00"
 }

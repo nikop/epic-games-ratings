@@ -1,18 +1,20 @@
 # Tannenberg
-Rating: 4.39 (Ranked 673)  
+Rating: 4.39 (Ranked 674)  
 Number of Ratings: 13,393  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Competitive Players): 321  (Ranked 213)  
+Max (Competitive Players): 321  (Ranked 214)  
 Sum: 2,820 (Ranked 153)  
-Diff (max vs sum): 60
+Diff (max vs sum): 61
 ## Popularity (Based on EOS Achievements)
-Progressed: 105,675 (Ranked 57)  
-Completed: 19 (0.02%) (Ranked 171)  
+Progressed: 105,930 (Ranked 57)  
+Completed: 19 (0.02%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 105,598 | 19 |
-| 2023-04-26 | 105,675 | 19 |
+| 2023-04-26 | 105,751 | 19 |
+| 2023-04-27 | 105,880 | 19 |
+| 2023-04-28 | 105,930 | 19 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

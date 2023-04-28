@@ -1,23 +1,25 @@
 # Pinball FX
-Rating: 4.03 (Ranked 868)  
+Rating: 4.03 (Ranked 869)  
 Number of Ratings: 756  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 169  (Ranked 272)  
-Sum: 1,475 (Ranked 207)  
-Diff (max vs sum): 65
+Max (Great for Beginners): 171  (Ranked 270)  
+Sum: 1,478 (Ranked 207)  
+Diff (max vs sum): 63
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,106 (Ranked 45)  
-Completed: 0 (0.00%) (Ranked 188)  
+Progressed: 208,663 (Ranked 45)  
+Completed: 0 (0.00%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 207,957 | 0 |
-| 2023-04-26 | 208,106 | 0 |
+| 2023-04-26 | 208,244 | 0 |
+| 2023-04-27 | 208,544 | 0 |
+| 2023-04-28 | 208,663 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 169 |
-| This game is Great for Quick Sessions | 166 |
+| This game is Great for Beginners | 171 |
+| This game is Great for Quick Sessions | 167 |
 | This game has Quickly Understood Controls | 160 |
 | This game is Relaxing | 154 |
 | This game is Extremely Fun | 151 |
@@ -140,3 +142,4 @@ Completed: 0 (0.00%) (Ranked 188)
 | 2023-04-23 | 4.03 | - | 169 | 1,470 |
 | 2023-04-24 | 4.03 | - | 169 | 1,472 |
 | 2023-04-25 | 4.03 | - | 169 | 1,475 |
+| 2023-04-27 | 4.03 | - | 171 | 1,478 |

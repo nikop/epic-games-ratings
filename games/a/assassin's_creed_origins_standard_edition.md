@@ -1,21 +1,21 @@
 # Assassin's Creed Origins Standard Edition
-Rating: 4.68 (Ranked 230)  
+Rating: 4.68 (Ranked 231)  
 Number of Ratings: 3,843  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 2,975  (Ranked 87)  
-Sum: 4,996 (Ranked 122)  
+Max (Great Boss Battles): 2,983  (Ranked 87)  
+Sum: 5,011 (Ranked 122)  
 Diff (max vs sum): -35
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,975 |
-| This game is Great for Beginners | 227 |
+| This game has Great Boss Battles | 2,983 |
+| This game is Great for Beginners | 229 |
 | This game has Amazing Storytelling | 226 |
-| This game is Relaxing | 222 |
-| This game has Amazing Characters | 218 |
+| This game is Relaxing | 223 |
+| This game has Amazing Characters | 221 |
 | This game is Extremely Fun | 217 |
+| This game has Quickly Understood Controls | 217 |
 | This game is Highly Recommended | 216 |
-| This game has Quickly Understood Controls | 216 |
 | This game is Educational | 201 |
 | This game has Diverse Characters | 181 |
 | This game has Obsessive Gameplay | 114 |
@@ -115,4 +115,6 @@ Diff (max vs sum): -35
 | 2023-04-23 | 4.68 | - | 2,970 | 4,986 |
 | 2023-04-24 | 4.68 | - | 2,973 | 4,991 |
 | 2023-04-25 | 4.68 | - | 2,975 | 4,994 |
-| 2023-04-26 | 4.68 | - | 2,975 | 4,996 |
+| 2023-04-26 | 4.68 | - | 2,975 | 5,000 |
+| 2023-04-27 | 4.68 | - | 2,979 | 5,005 |
+| 2023-04-28 | 4.68 | - | 2,983 | 5,011 |

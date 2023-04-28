@@ -2,31 +2,33 @@
 Rating: 4.58 (Ranked 408)  
 Number of Ratings: 3,181  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 24,345  (Ranked 16)  
-Sum: 43,439 (Ranked 25)  
+Max (Character Customization): 25,375  (Ranked 16)  
+Sum: 45,313 (Ranked 25)  
 Diff (max vs sum): -9
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,305,248 (Ranked 4)  
-Completed: 6 (0.00%) (Ranked 188)  
+Progressed: 3,331,958 (Ranked 4)  
+Completed: 6 (0.00%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 3,296,074 | 6 |
-| 2023-04-26 | 3,305,248 | 6 |
+| 2023-04-26 | 3,311,627 | 6 |
+| 2023-04-27 | 3,326,746 | 6 |
+| 2023-04-28 | 3,331,958 | 6 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 24,345 |
-| This game has Great Boss Battles | 9,644 |
-| This game is Great for Beginners | 1,314 |
-| This game has Diverse Characters | 1,175 |
-| This game is Highly Recommended | 1,109 |
-| This game is Extremely Fun | 1,044 |
-| This game is Relaxing | 1,020 |
-| This game has Amazing Storytelling | 1,012 |
-| This game has Amazing Characters | 996 |
-| This game has Quickly Understood Controls | 966 |
-| This game has a Creative Community | 814 |
+| This game has Inclusive Character Customization | 25,375 |
+| This game has Great Boss Battles | 10,136 |
+| This game is Great for Beginners | 1,383 |
+| This game has Diverse Characters | 1,230 |
+| This game is Highly Recommended | 1,137 |
+| This game is Extremely Fun | 1,071 |
+| This game is Relaxing | 1,043 |
+| This game has Amazing Storytelling | 1,040 |
+| This game has Amazing Characters | 1,040 |
+| This game has Quickly Understood Controls | 1,012 |
+| This game has a Creative Community | 846 |
 | This game has Obsessive Gameplay | 355 |
 | This game has Unique Visuals | 122 |
 ## Ratings History
@@ -143,4 +145,6 @@ Completed: 6 (0.00%) (Ranked 188)
 | 2023-04-23 | 4.57 | - | 23,152 | 40,840 |
 | 2023-04-24 | 4.58 | - | 23,774 | 42,031 |
 | 2023-04-25 | 4.58 | - | 24,345 | 43,144 |
-| 2023-04-26 | 4.58 | - | 24,345 | 43,439 |
+| 2023-04-26 | 4.58 | - | 24,862 | 44,197 |
+| 2023-04-27 | 4.58 | - | 25,375 | 45,198 |
+| 2023-04-28 | 4.58 | - | 25,375 | 45,313 |

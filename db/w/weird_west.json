@@ -20,6 +20,26 @@
       "Time": "2023-04-25T16:14:31.998977+00:00",
       "NumProgressed": 1482,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-04-26T21:03:39.7120174+00:00",
+      "NumProgressed": 1483,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-04-27T14:03:18.2454689+00:00",
+      "NumProgressed": 1484,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-04-27T18:03:31.3518+00:00",
+      "NumProgressed": 1485,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-04-27T20:03:35.7732802+00:00",
+      "NumProgressed": 1486,
+      "NumCompleted": 2
     }
   ],
   "RatingHistory": [
@@ -306,21 +326,21 @@
   ],
   "EOS_Completed_Percentage": 0.13,
   "EOS_Completed": 2,
-  "EOS_Progressed": 1482,
-  "LastUpdate_Achievements": "2023-04-26T14:05:19.5509012+00:00",
-  "LastUpdate_Ratings": "2023-04-26T13:59:00.1550482+00:00",
-  "LastChanged_Achievements": "2023-04-26T14:05:19.5509006+00:00",
+  "EOS_Progressed": 1486,
+  "LastUpdate_Achievements": "2023-04-28T09:03:26.307907+00:00",
+  "LastUpdate_Ratings": "2023-04-28T08:58:30.4599695+00:00",
+  "LastChanged_Achievements": "2023-04-28T09:03:26.3079065+00:00",
   "LastChanged": "2023-04-18T11:59:25.595754+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "MaxAwardTitle": "Impact the Story",
   "NumberOfAwardsMax": 23,
   "NumberOfAwards": 23,
   "NumberOfRatings": 125,
-  "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_Progress": 148,
-  "Ranking_PopularitySum": 467,
-  "Ranking_Popularity": 464,
-  "Ranking_Rating": 598,
+  "Ranking_EOS_Completed": 141,
+  "Ranking_EOS_Progress": 149,
+  "Ranking_PopularitySum": 468,
+  "Ranking_Popularity": 465,
+  "Ranking_Rating": 599,
   "Rating": 4.45,
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00"
 }

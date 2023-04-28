@@ -2,31 +2,33 @@
 Rating: 4.62 (Ranked 334)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 62,841  (Ranked 9)  
-Sum: 163,917 (Ranked 13)  
+Max (Character Customization): 63,000  (Ranked 9)  
+Sum: 164,336 (Ranked 13)  
 Diff (max vs sum): -4
 ## Popularity (Based on EOS Achievements)
-Progressed: 795,798 (Ranked 10)  
-Completed: 1,538 (0.19%) (Ranked 128)  
+Progressed: 796,221 (Ranked 10)  
+Completed: 1,542 (0.19%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 795,673 | 1,537 |
-| 2023-04-26 | 795,798 | 1,538 |
+| 2023-04-26 | 795,929 | 1,540 |
+| 2023-04-27 | 796,157 | 1,542 |
+| 2023-04-28 | 796,221 | 1,542 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 62,841 |
-| This game has Great Boss Battles | 40,263 |
-| This game has Amazing Storytelling | 7,195 |
-| This game is Great for Beginners | 7,105 |
-| This game has Diverse Characters | 7,089 |
-| This game is Extremely Fun | 7,084 |
-| This game is Relaxing | 7,036 |
-| This game is Highly Recommended | 7,006 |
-| This game has Quickly Understood Controls | 6,898 |
-| This game has Amazing Characters | 6,844 |
-| This game has a Creative Community | 4,556 |
+| This game has Inclusive Character Customization | 63,000 |
+| This game has Great Boss Battles | 40,391 |
+| This game has Amazing Storytelling | 7,207 |
+| This game is Great for Beginners | 7,140 |
+| This game has Diverse Characters | 7,104 |
+| This game is Extremely Fun | 7,094 |
+| This game is Relaxing | 7,049 |
+| This game is Highly Recommended | 7,014 |
+| This game has Quickly Understood Controls | 6,911 |
+| This game has Amazing Characters | 6,852 |
+| This game has a Creative Community | 4,574 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -127,4 +129,5 @@ Completed: 1,538 (0.19%) (Ranked 128)
 | 2023-04-23 | 4.62 | - | 62,640 | 163,217 |
 | 2023-04-24 | 4.62 | - | 62,750 | 163,575 |
 | 2023-04-25 | 4.62 | - | 62,841 | 163,836 |
-| 2023-04-26 | 4.62 | - | 62,841 | 163,917 |
+| 2023-04-26 | 4.62 | - | 62,921 | 164,074 |
+| 2023-04-27 | 4.62 | - | 63,000 | 164,336 |

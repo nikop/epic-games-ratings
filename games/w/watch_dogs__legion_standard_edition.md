@@ -1,21 +1,21 @@
 # Watch Dogs: Legion Standard Edition
-Rating: 4.36 (Ranked 701)  
+Rating: 4.36 (Ranked 702)  
 Number of Ratings: 1,361  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Amazing Characters): 80  (Ranked 342)  
-Sum: 577 (Ranked 279)  
+Max (Amazing Characters): 81  (Ranked 342)  
+Sum: 581 (Ranked 279)  
 Diff (max vs sum): 63
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Amazing Characters | 80 |
+| This game has Amazing Characters | 81 |
 | This game has Diverse Characters | 73 |
 | This game is Extremely Fun | 69 |
 | This game is Highly Recommended | 67 |
 | This game is Great for Beginners | 66 |
-| This game has Amazing Storytelling | 64 |
-| This game has Quickly Understood Controls | 62 |
-| This game is Relaxing | 58 |
+| This game has Amazing Storytelling | 65 |
+| This game has Quickly Understood Controls | 63 |
+| This game is Relaxing | 59 |
 | This game has a Creative Community | 38 |
 | This game has Obsessive Gameplay | 33 |
 ## Ratings History
@@ -117,3 +117,5 @@ Diff (max vs sum): 63
 | 2023-04-23 | 4.36 | - | 80 | 575 |
 | 2023-04-24 | 4.36 | - | 80 | 576 |
 | 2023-04-25 | 4.36 | - | 80 | 577 |
+| 2023-04-26 | 4.36 | - | 81 | 579 |
+| 2023-04-27 | 4.36 | - | 81 | 581 |

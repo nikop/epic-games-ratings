@@ -6,7 +6,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 7492
+      "Count": 7498
     },
     {
       "Text": "This game is Extremely Fun",
@@ -18,7 +18,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 852
+      "Count": 853
     },
     {
       "Text": "This game has Challenging Combat",
@@ -54,7 +54,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 817
+      "Count": 818
     },
     {
       "Text": "This game has a Creative Community",
@@ -3395,20 +3395,44 @@
       "Rating": 4.85,
       "NumberOfAwards": 13295,
       "NumberOfAwardsMax": 7492
+    },
+    {
+      "Time": "2023-04-26T19:58:13.8663732+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 13298,
+      "NumberOfAwardsMax": 7495
+    },
+    {
+      "Time": "2023-04-27T15:58:58.675105+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 13299,
+      "NumberOfAwardsMax": 7495
+    },
+    {
+      "Time": "2023-04-27T22:58:28.8212895+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 13300,
+      "NumberOfAwardsMax": 7495
+    },
+    {
+      "Time": "2023-04-28T02:58:45.8066639+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 13303,
+      "NumberOfAwardsMax": 7498
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T14:05:42.425267+00:00",
-  "LastUpdate_Ratings": "2023-04-26T13:59:21.2390655+00:00",
-  "LastChanged": "2023-04-26T09:59:29.5447325+00:00",
+  "LastUpdate_Achievements": "2023-04-28T09:03:35.304801+00:00",
+  "LastUpdate_Ratings": "2023-04-28T08:58:43.7248309+00:00",
+  "LastChanged": "2023-04-28T02:58:45.8066636+00:00",
   "MaxAwardTitle": "Great Boss Battles",
-  "NumberOfAwardsMax": 7492,
-  "NumberOfAwards": 13295,
+  "NumberOfAwardsMax": 7498,
+  "NumberOfAwards": 13303,
   "NumberOfRatings": 8617,
-  "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_Progress": 356,
+  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_Progress": 362,
   "Ranking_PopularitySum": 66,
   "Ranking_Popularity": 41,
   "Ranking_Rating": 37,

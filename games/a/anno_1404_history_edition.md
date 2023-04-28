@@ -1,5 +1,5 @@
 # Anno 1404 History Edition
-Rating: 4.76 (Ranked 114)  
+Rating: 4.76 (Ranked 116)  
 Number of Ratings: 69  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  

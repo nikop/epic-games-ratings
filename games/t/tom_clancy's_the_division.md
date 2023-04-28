@@ -1,22 +1,22 @@
 # Tom Clancy's The Division
-Rating: 4.59 (Ranked 390)  
+Rating: 4.58 (Ranked 408)  
 Number of Ratings: 247  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 250  (Ranked 235)  
-Sum: 571 (Ranked 282)  
-Diff (max vs sum): -47
+Max (Character Customization): 252  (Ranked 235)  
+Sum: 576 (Ranked 280)  
+Diff (max vs sum): -45
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 250 |
-| This game has Great Boss Battles | 153 |
-| This game has Amazing Storytelling | 27 |
+| This game has Inclusive Character Customization | 252 |
+| This game has Great Boss Battles | 154 |
+| This game has Amazing Storytelling | 28 |
 | This game is Highly Recommended | 26 |
 | This game has Challenging Combat | 25 |
 | This game has Competitive Players | 24 |
 | This game is Relaxing | 23 |
+| This game is Great for Beginners | 22 |
 | This game has Amazing Characters | 22 |
-| This game is Great for Beginners | 21 |
 | This game has Realistic Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -115,3 +115,6 @@ Diff (max vs sum): -47
 | 2023-04-22 | 4.58 | - | 249 | 589 |
 | 2023-04-24 | 4.59 | - | 250 | 591 |
 | 2023-04-25 | 4.59 | - | 250 | 571 |
+| 2023-04-26 | 4.59 | - | 251 | 572 |
+| 2023-04-27 | 4.59 | - | 251 | 575 |
+| 2023-04-28 | 4.58 | - | 252 | 576 |

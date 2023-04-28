@@ -2,22 +2,22 @@
 Rating: 4.75 (Ranked 126)  
 Number of Ratings: 4,120  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Extremely Fun): 418  (Ranked 190)  
-Sum: 3,775 (Ranked 133)  
+Max (Extremely Fun): 420  (Ranked 190)  
+Sum: 3,796 (Ranked 133)  
 Diff (max vs sum): 57
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Extremely Fun | 418 |
-| This game is Relaxing | 394 |
-| This game is Highly Recommended | 386 |
-| This game has Competitive Players | 383 |
-| This game has Quickly Understood Controls | 378 |
-| This game is Great for Quick Sessions | 376 |
-| This game is Great for Beginners | 375 |
+| This game is Extremely Fun | 420 |
+| This game is Relaxing | 395 |
+| This game is Highly Recommended | 388 |
+| This game has Competitive Players | 386 |
+| This game has Quickly Understood Controls | 380 |
+| This game is Great for Quick Sessions | 379 |
+| This game is Great for Beginners | 379 |
 | This game has Diverse Characters | 366 |
-| This game has Amazing Characters | 355 |
-| This game has Amazing Storytelling | 344 |
+| This game has Amazing Characters | 357 |
+| This game has Amazing Storytelling | 346 |
 | This game is Educational | 336 |
 | This game has Obsessive Gameplay | 164 |
 ## Ratings History
@@ -124,4 +124,6 @@ Diff (max vs sum): 57
 | 2023-04-23 | 4.75 | - | 416 | 3,742 |
 | 2023-04-24 | 4.75 | - | 417 | 3,754 |
 | 2023-04-25 | 4.75 | - | 418 | 3,770 |
-| 2023-04-26 | 4.75 | - | 418 | 3,775 |
+| 2023-04-26 | 4.75 | - | 420 | 3,778 |
+| 2023-04-27 | 4.75 | - | 420 | 3,791 |
+| 2023-04-28 | 4.75 | - | 420 | 3,796 |

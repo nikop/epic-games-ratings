@@ -1,10 +1,10 @@
 # Darksiders II Deathinitive Edition
-Rating: 4.61 (Ranked 349)  
+Rating: 4.61 (Ranked 351)  
 Number of Ratings: 827  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 374  (Ranked 203)  
-Sum: 575 (Ranked 281)  
-Diff (max vs sum): -78
+Sum: 575 (Ranked 282)  
+Diff (max vs sum): -79
 ## Awards
 | Award | Count |
 | ----- | ----- |

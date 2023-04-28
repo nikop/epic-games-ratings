@@ -1,9 +1,9 @@
 # God's Trigger
-Rating: 4.17 (Ranked 822)  
+Rating: 4.17 (Ranked 823)  
 Number of Ratings: 114  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 26  (Ranked 455)  
-Sum: 26 (Ranked 460)  
+Max (Great Boss Battles): 26  (Ranked 457)  
+Sum: 26 (Ranked 462)  
 Diff (max vs sum): -5
 ## Awards
 | Award | Count |

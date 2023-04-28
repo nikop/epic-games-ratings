@@ -3,12 +3,24 @@
   "Name": "Aftertime",
   "Tags": [],
   "EosHistory": [],
-  "RatingHistory": [],
+  "RatingHistory": [
+    {
+      "Time": "2023-04-27T04:56:55.1615857+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T14:02:56.9707666+00:00",
-  "LastUpdate_Ratings": "2023-04-26T13:56:53.5150263+00:00",
-  "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_Progress": 356
+  "LastUpdate_Achievements": "2023-04-28T09:01:11.9452395+00:00",
+  "LastUpdate_Ratings": "2023-04-28T08:57:12.3503506+00:00",
+  "LastChanged": "2023-04-27T04:56:55.1615854+00:00",
+  "FirstSeenRating": "2023-04-27T04:56:55.1615837+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
+  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_Progress": 362,
+  "FirstSeen": "2023-04-27T04:56:55.1615595+00:00"
 }

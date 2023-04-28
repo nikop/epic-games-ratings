@@ -3,22 +3,24 @@ Rating: 4.56 (Ranked 443)
 Number of Ratings: 55,748  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 4,736  (Ranked 64)  
-Sum: 45,643 (Ranked 24)  
+Sum: 45,645 (Ranked 24)  
 Diff (max vs sum): 40
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,065,786 (Ranked 9)  
-Completed: 31,609 (2.97%) (Ranked 39)  
+Progressed: 1,066,162 (Ranked 9)  
+Completed: 31,613 (2.97%) (Ranked 41)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 1,065,696 | 31,609 |
-| 2023-04-26 | 1,065,786 | 31,609 |
+| 2023-04-26 | 1,065,905 | 31,609 |
+| 2023-04-27 | 1,066,092 | 31,612 |
+| 2023-04-28 | 1,066,162 | 31,613 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,736 |
 | This game has Competitive Players | 4,554 |
-| This game has Diverse Characters | 4,519 |
+| This game has Diverse Characters | 4,520 |
 | This game is Great for Quick Sessions | 4,506 |
 | This game has Quickly Understood Controls | 4,415 |
 | This game is Extremely Fun | 4,224 |
@@ -26,7 +28,7 @@ Completed: 31,609 (2.97%) (Ranked 39)
 | This game is Highly Recommended | 3,938 |
 | This game has Amazing Storytelling | 3,605 |
 | This game has Playful Visuals | 3,601 |
-| This game has a Competitive Community | 3,401 |
+| This game has a Competitive Community | 3,402 |
 | This game has Obsessive Gameplay | 3,030 |
 | This game is Relaxing | 86 |
 ## Ratings History
@@ -112,4 +114,5 @@ Completed: 31,609 (2.97%) (Ranked 39)
 | 2023-04-22 | 4.56 | - | 4,734 | 45,632 |
 | 2023-04-23 | 4.56 | - | 4,734 | 45,638 |
 | 2023-04-24 | 4.56 | - | 4,736 | 45,642 |
-| 2023-04-26 | 4.56 | - | 4,736 | 45,643 |
+| 2023-04-26 | 4.56 | - | 4,736 | 45,644 |
+| 2023-04-27 | 4.56 | - | 4,736 | 45,645 |

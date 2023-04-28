@@ -1,14 +1,14 @@
 # Control
-Rating: 4.60 (Ranked 376)  
+Rating: 4.60 (Ranked 377)  
 Number of Ratings: 16,122  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 8,240  (Ranked 37)  
-Sum: 12,292 (Ranked 69)  
-Diff (max vs sum): -32
+Max (Great Boss Battles): 8,244  (Ranked 38)  
+Sum: 12,296 (Ranked 69)  
+Diff (max vs sum): -31
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 8,240 |
+| This game has Great Boss Battles | 8,244 |
 | This game is Highly Recommended | 497 |
 | This game has Amazing Storytelling | 488 |
 | This game has Challenging Combat | 483 |
@@ -111,4 +111,5 @@ Diff (max vs sum): -32
 | 2023-04-23 | 4.60 | - | 8,234 | 12,283 |
 | 2023-04-24 | 4.60 | - | 8,239 | 12,290 |
 | 2023-04-25 | 4.60 | - | 8,240 | 12,291 |
-| 2023-04-26 | 4.60 | - | 8,240 | 12,292 |
+| 2023-04-26 | 4.60 | - | 8,242 | 12,294 |
+| 2023-04-27 | 4.60 | - | 8,244 | 12,296 |

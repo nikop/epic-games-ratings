@@ -1,10 +1,10 @@
 # Video Horror Society
-Rating: 4.27 (Ranked 766)  
+Rating: 4.27 (Ranked 767)  
 Number of Ratings: 559  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 297  (Ranked 224)  
-Sum: 870 (Ranked 235)  
-Diff (max vs sum): -11
+Sum: 871 (Ranked 236)  
+Diff (max vs sum): -12
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): -11
 | This game is Extremely Fun | 61 |
 | This game has Amazing Characters | 60 |
 | This game has Amazing Storytelling | 59 |
-| This game is Highly Recommended | 57 |
+| This game is Highly Recommended | 58 |
 | This game has Obsessive Gameplay | 56 |
 | This game has Unique Visuals | 45 |
 | This game is Relaxing | 24 |
@@ -91,3 +91,4 @@ Diff (max vs sum): -11
 | 2023-04-05 | 4.27 | - | 297 | 868 |
 | 2023-04-07 | 4.27 | - | 297 | 869 |
 | 2023-04-15 | 4.27 | - | 297 | 870 |
+| 2023-04-27 | 4.27 | - | 297 | 871 |

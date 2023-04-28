@@ -1,28 +1,30 @@
 # Idle Champions of the Forgotten Realms
-Rating: 4.06 (Ranked 862)  
+Rating: 4.06 (Ranked 864)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 4,851  (Ranked 61)  
-Sum: 29,732 (Ranked 37)  
+Max (Diverse Characters): 4,853  (Ranked 61)  
+Sum: 29,748 (Ranked 37)  
 Diff (max vs sum): 24
 ## Popularity (Based on EOS Achievements)
-Progressed: 85,500 (Ranked 58)  
-Completed: 1,779 (2.08%) (Ranked 51)  
+Progressed: 85,714 (Ranked 58)  
+Completed: 1,783 (2.08%) (Ranked 53)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 85,449 | 1,775 |
-| 2023-04-26 | 85,500 | 1,779 |
+| 2023-04-26 | 85,555 | 1,780 |
+| 2023-04-27 | 85,674 | 1,782 |
+| 2023-04-28 | 85,714 | 1,783 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 4,851 |
-| This game is Great for Beginners | 4,781 |
-| This game has Quickly Understood Controls | 4,574 |
+| This game has Diverse Characters | 4,853 |
+| This game is Great for Beginners | 4,789 |
+| This game has Quickly Understood Controls | 4,575 |
 | This game is Relaxing | 4,471 |
-| This game has Amazing Characters | 3,921 |
-| This game is Highly Recommended | 3,916 |
-| This game has Playful Visuals | 3,218 |
+| This game has Amazing Characters | 3,923 |
+| This game is Highly Recommended | 3,918 |
+| This game has Playful Visuals | 3,219 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -117,3 +119,5 @@ Completed: 1,779 (2.08%) (Ranked 51)
 | 2023-04-24 | 4.06 | - | 4,849 | 29,718 |
 | 2023-04-25 | 4.06 | - | 4,849 | 29,726 |
 | 2023-04-26 | 4.06 | - | 4,851 | 29,732 |
+| 2023-04-27 | 4.06 | - | 4,851 | 29,741 |
+| 2023-04-28 | 4.06 | - | 4,853 | 29,748 |

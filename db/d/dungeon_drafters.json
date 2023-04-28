@@ -1,0 +1,37 @@
+{
+  "ID": "4570fd48bd25472b87e028bbab19c6e8",
+  "Name": "Dungeon Drafters",
+  "Tags": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-27T15:02:34.561475+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-27T17:01:34.7176422+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T05:00:00.3440097+00:00",
+      "NumProgressed": 7,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-28T09:01:15.3978586+00:00",
+      "NumProgressed": 8,
+      "NumCompleted": 0
+    }
+  ],
+  "RatingHistory": [],
+  "EOS_Completed_Percentage": 0,
+  "EOS_Completed": 0,
+  "EOS_Progressed": 8,
+  "LastUpdate_Achievements": "2023-04-28T09:01:15.3978591+00:00",
+  "LastUpdate_Ratings": "2023-04-28T08:57:09.467083+00:00",
+  "LastChanged_Achievements": "2023-04-28T09:01:15.3978578+00:00",
+  "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
+  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_Progress": 299
+}

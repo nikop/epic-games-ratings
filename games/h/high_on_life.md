@@ -1,17 +1,19 @@
 # High On Life
-Rating: 4.67 (Ranked 253)  
+Rating: 4.67 (Ranked 254)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,562 (Ranked 84)  
-Completed: 8 (0.04%) (Ranked 162)  
+Progressed: 22,569 (Ranked 86)  
+Completed: 8 (0.04%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 22,558 | 8 |
-| 2023-04-26 | 22,562 | 8 |
+| 2023-04-26 | 22,563 | 8 |
+| 2023-04-27 | 22,568 | 8 |
+| 2023-04-28 | 22,569 | 8 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -55,3 +57,5 @@ Completed: 8 (0.04%) (Ranked 162)
 | 2023-03-31 | 4.69 | 0 | 0 |
 | 2023-04-12 | 4.68 | 0 | 0 |
 | 2023-04-20 | 4.67 | 0 | 0 |
+| 2023-04-27 | 4.68 | 0 | 0 |
+| 2023-04-28 | 4.67 | 0 | 0 |

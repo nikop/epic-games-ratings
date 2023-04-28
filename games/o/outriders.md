@@ -1,22 +1,22 @@
 # OUTRIDERS
-Rating: 4.42 (Ranked 638)  
+Rating: 4.42 (Ranked 640)  
 Number of Ratings: 1,201  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 1,099  (Ranked 125)  
-Sum: 2,292 (Ranked 170)  
-Diff (max vs sum): -45
+Max (Great Boss Battles): 1,100  (Ranked 125)  
+Sum: 2,296 (Ranked 171)  
+Diff (max vs sum): -46
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 1,099 |
+| This game has Great Boss Battles | 1,100 |
 | This game has Amazing Characters | 162 |
 | This game is Extremely Fun | 158 |
 | This game is Relaxing | 155 |
-| This game has Diverse Characters | 149 |
+| This game has Diverse Characters | 150 |
 | This game has Amazing Storytelling | 149 |
 | This game has Quickly Understood Controls | 147 |
 | This game is Great for Beginners | 146 |
-| This game has Challenging Combat | 139 |
+| This game has Challenging Combat | 141 |
 | This game is Highly Recommended | 134 |
 | This game has Obsessive Gameplay | 99 |
 ## Ratings History
@@ -131,4 +131,6 @@ Diff (max vs sum): -45
 | 2023-04-23 | 4.42 | - | 1,099 | 2,289 |
 | 2023-04-24 | 4.42 | - | 1,099 | 2,290 |
 | 2023-04-25 | 4.42 | - | 1,099 | 2,291 |
-| 2023-04-26 | 4.42 | - | 1,099 | 2,292 |
+| 2023-04-26 | 4.42 | - | 1,099 | 2,293 |
+| 2023-04-27 | 4.42 | - | 1,100 | 2,295 |
+| 2023-04-28 | 4.42 | - | 1,100 | 2,296 |

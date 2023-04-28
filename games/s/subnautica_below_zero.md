@@ -1,15 +1,15 @@
 # Subnautica Below Zero
-Rating: 4.78 (Ranked 100)  
+Rating: 4.77 (Ranked 105)  
 Number of Ratings: 1,844  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 142  (Ranked 284)  
-Sum: 1,071 (Ranked 222)  
-Diff (max vs sum): 62
+Sum: 1,072 (Ranked 223)  
+Diff (max vs sum): 61
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 142 |
-| This game has Quickly Understood Controls | 130 |
+| This game has Quickly Understood Controls | 131 |
 | This game has Beautiful Visuals | 125 |
 | This game is Relaxing | 123 |
 | This game has Amazing Characters | 120 |
@@ -91,3 +91,5 @@ Diff (max vs sum): 62
 | 2023-04-11 | 4.78 | - | 141 | 1,069 |
 | 2023-04-22 | 4.78 | - | 141 | 1,070 |
 | 2023-04-26 | 4.78 | - | 142 | 1,071 |
+| 2023-04-27 | 4.77 | - | 142 | 1,071 |
+| 2023-04-28 | 4.77 | - | 142 | 1,072 |

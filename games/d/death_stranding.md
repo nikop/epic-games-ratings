@@ -1,28 +1,30 @@
 # DEATH STRANDING
 Rating: 4.78 (Ranked 100)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 4,624  (Ranked 65)  
-Sum: 6,294 (Ranked 110)  
+Max (Great Boss Battles): 4,633  (Ranked 65)  
+Sum: 6,307 (Ranked 110)  
 Diff (max vs sum): -45
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,488,045 (Ranked 5)  
-Completed: 1,196 (0.05%) (Ranked 160)  
+Progressed: 2,491,683 (Ranked 5)  
+Completed: 1,201 (0.05%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 2,486,843 | 1,193 |
-| 2023-04-26 | 2,488,045 | 1,196 |
+| 2023-04-26 | 2,488,871 | 1,198 |
+| 2023-04-27 | 2,490,968 | 1,201 |
+| 2023-04-28 | 2,491,683 | 1,201 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 4,624 |
+| This game has Great Boss Battles | 4,633 |
 | This game is Great for Beginners | 218 |
 | This game is Highly Recommended | 201 |
-| This game has Diverse Characters | 197 |
-| This game is Relaxing | 194 |
-| This game has Quickly Understood Controls | 192 |
+| This game has Diverse Characters | 198 |
+| This game is Relaxing | 195 |
+| This game has Quickly Understood Controls | 193 |
 | This game has Amazing Characters | 187 |
-| This game has Amazing Storytelling | 179 |
+| This game has Amazing Storytelling | 180 |
 | This game is Extremely Fun | 162 |
 | This game has a Creative Community | 140 |
 | This game has Easy Combat | 28 |
@@ -65,4 +67,6 @@ Completed: 1,196 (0.05%) (Ranked 160)
 | 2023-04-23 | 4.78 | 4,585 | 6,243 |
 | 2023-04-24 | 4.78 | 4,597 | 6,259 |
 | 2023-04-25 | 4.78 | 4,613 | 6,279 |
-| 2023-04-26 | 4.78 | 4,624 | 6,294 |
+| 2023-04-26 | 4.78 | 4,624 | 6,295 |
+| 2023-04-27 | 4.78 | 4,624 | 6,298 |
+| 2023-04-28 | 4.78 | 4,633 | 6,307 |

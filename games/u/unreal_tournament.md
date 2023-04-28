@@ -1,14 +1,14 @@
 # Unreal Tournament
-Rating: 4.66 (Ranked 270)  
+Rating: 4.66 (Ranked 271)  
 Number of Ratings: 1,070  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Quick Sessions): 457  (Ranked 185)  
-Sum: 3,955 (Ranked 131)  
+Max (Great for Quick Sessions): 458  (Ranked 185)  
+Sum: 3,956 (Ranked 131)  
 Diff (max vs sum): 54
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 457 |
+| This game is Great for Quick Sessions | 458 |
 | This game has Competitive Players | 395 |
 | This game is Relaxing | 389 |
 | This game is Extremely Fun | 383 |
@@ -102,3 +102,4 @@ Diff (max vs sum): 54
 | 2023-04-09 | 4.66 | - | 457 | 3,952 |
 | 2023-04-11 | 4.66 | - | 457 | 3,953 |
 | 2023-04-20 | 4.66 | - | 457 | 3,955 |
+| 2023-04-26 | 4.66 | - | 458 | 3,956 |

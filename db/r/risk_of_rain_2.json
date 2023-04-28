@@ -30,7 +30,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 201
+      "Count": 202
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -48,13 +48,13 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 180
+      "Count": 181
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 199
+      "Count": 201
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -66,7 +66,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 222
+      "Count": 224
     },
     {
       "Text": "This game has a Creative Community",
@@ -1281,20 +1281,44 @@
       "Rating": 4.85,
       "NumberOfAwards": 2201,
       "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-04-27T18:59:08.5529579+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2203,
+      "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-04-27T19:59:23.7400085+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2205,
+      "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-04-27T21:58:55.3570051+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2206,
+      "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-04-28T03:59:33.3265441+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2207,
+      "NumberOfAwardsMax": 224
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T14:06:47.1164075+00:00",
-  "LastUpdate_Ratings": "2023-04-26T14:00:21.7073385+00:00",
-  "LastChanged": "2023-04-25T11:57:59.6632695+00:00",
+  "LastUpdate_Achievements": "2023-04-28T09:04:21.2886382+00:00",
+  "LastUpdate_Ratings": "2023-04-28T08:59:20.4640015+00:00",
+  "LastChanged": "2023-04-28T03:59:33.3265439+00:00",
   "MaxAwardTitle": "Relaxing",
   "NumberOfAwardsMax": 224,
-  "NumberOfAwards": 2201,
+  "NumberOfAwards": 2207,
   "NumberOfRatings": 1310,
-  "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_Progress": 356,
+  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_Progress": 362,
   "Ranking_PopularitySum": 173,
   "Ranking_Popularity": 243,
   "Ranking_Rating": 37,

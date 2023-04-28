@@ -6,7 +6,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 376
+      "Count": 379
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -18,13 +18,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 383
+      "Count": 386
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 386
+      "Count": 388
     },
     {
       "Text": "This game has Diverse Characters",
@@ -36,25 +36,25 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 355
+      "Count": 357
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 375
+      "Count": 379
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 378
+      "Count": 380
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 418
+      "Count": 420
     },
     {
       "Text": "This game is Educational",
@@ -66,13 +66,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 394
+      "Count": 395
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 344
+      "Count": 346
     }
   ],
   "EosHistory": [],
@@ -2953,20 +2953,74 @@
       "Rating": 4.75,
       "NumberOfAwards": 3775,
       "NumberOfAwardsMax": 418
+    },
+    {
+      "Time": "2023-04-26T18:59:05.8255798+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 3776,
+      "NumberOfAwardsMax": 418
+    },
+    {
+      "Time": "2023-04-26T21:58:29.7805545+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 3778,
+      "NumberOfAwardsMax": 420
+    },
+    {
+      "Time": "2023-04-27T01:58:24.8513919+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 3779,
+      "NumberOfAwardsMax": 420
+    },
+    {
+      "Time": "2023-04-27T13:04:06.3845597+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 3783,
+      "NumberOfAwardsMax": 420
+    },
+    {
+      "Time": "2023-04-27T17:58:44.0449586+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 3789,
+      "NumberOfAwardsMax": 420
+    },
+    {
+      "Time": "2023-04-27T23:58:21.8986113+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 3791,
+      "NumberOfAwardsMax": 420
+    },
+    {
+      "Time": "2023-04-28T01:59:34.1662282+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 3793,
+      "NumberOfAwardsMax": 420
+    },
+    {
+      "Time": "2023-04-28T06:58:52.8437392+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 3794,
+      "NumberOfAwardsMax": 420
+    },
+    {
+      "Time": "2023-04-28T07:58:38.0014749+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 3796,
+      "NumberOfAwardsMax": 420
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T14:05:44.618592+00:00",
-  "LastUpdate_Ratings": "2023-04-26T13:59:23.7040587+00:00",
-  "LastChanged": "2023-04-26T13:07:25.1444791+00:00",
+  "LastUpdate_Achievements": "2023-04-28T09:03:36.4328254+00:00",
+  "LastUpdate_Ratings": "2023-04-28T08:58:45.8874837+00:00",
+  "LastChanged": "2023-04-28T07:58:38.0014748+00:00",
   "MaxAwardTitle": "Extremely Fun",
-  "NumberOfAwardsMax": 418,
-  "NumberOfAwards": 3775,
+  "NumberOfAwardsMax": 420,
+  "NumberOfAwards": 3796,
   "NumberOfRatings": 4120,
-  "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_Progress": 356,
+  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_Progress": 362,
   "Ranking_PopularitySum": 133,
   "Ranking_Popularity": 190,
   "Ranking_Rating": 126,

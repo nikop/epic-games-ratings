@@ -12,7 +12,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 80
+      "Count": 81
     },
     {
       "Text": "This game has Diverse Characters",
@@ -36,13 +36,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 62
+      "Count": 63
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 64
+      "Count": 65
     },
     {
       "Text": "This game is Great for Beginners",
@@ -54,7 +54,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 58
+      "Count": 59
     },
     {
       "Text": "This game has a Creative Community",
@@ -1313,23 +1313,47 @@
       "Rating": 4.36,
       "NumberOfAwards": 577,
       "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2023-04-26T18:58:43.3624115+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 578,
+      "NumberOfAwardsMax": 81
+    },
+    {
+      "Time": "2023-04-26T19:57:59.2620504+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 579,
+      "NumberOfAwardsMax": 81
+    },
+    {
+      "Time": "2023-04-27T15:58:38.3534493+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 580,
+      "NumberOfAwardsMax": 81
+    },
+    {
+      "Time": "2023-04-27T20:57:57.6477526+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 581,
+      "NumberOfAwardsMax": 81
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T14:05:11.6879475+00:00",
-  "LastUpdate_Ratings": "2023-04-26T13:58:52.5438885+00:00",
-  "LastChanged": "2023-04-25T23:58:51.5944735+00:00",
+  "LastUpdate_Achievements": "2023-04-28T09:01:32.4708785+00:00",
+  "LastUpdate_Ratings": "2023-04-28T08:58:26.7481757+00:00",
+  "LastChanged": "2023-04-27T20:57:57.6477524+00:00",
   "MaxAwardTitle": "Amazing Characters",
-  "NumberOfAwardsMax": 80,
-  "NumberOfAwards": 577,
+  "NumberOfAwardsMax": 81,
+  "NumberOfAwards": 581,
   "NumberOfRatings": 1361,
-  "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_Progress": 356,
+  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_Progress": 362,
   "Ranking_PopularitySum": 279,
   "Ranking_Popularity": 342,
-  "Ranking_Rating": 701,
+  "Ranking_Rating": 702,
   "Rating": 4.36,
   "FirstSeen": "2022-07-22T20:17:59.5198477+00:00"
 }

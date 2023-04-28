@@ -1,5 +1,5 @@
 # Rogue Lords
-Rating: 4.64 (Ranked 311)  
+Rating: 4.64 (Ranked 309)  
 Number of Ratings: 38  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  

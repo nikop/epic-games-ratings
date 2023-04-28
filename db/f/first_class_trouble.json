@@ -6,13 +6,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 58
+      "Count": 59
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 65
+      "Count": 67
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -24,7 +24,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 80
+      "Count": 82
     },
     {
       "Text": "This game has Diverse Characters",
@@ -632,22 +632,40 @@
       "Rating": 4.51,
       "NumberOfAwards": 578,
       "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2023-04-26T16:57:14.7320811+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 579,
+      "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2023-04-26T21:57:21.6987118+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 581,
+      "NumberOfAwardsMax": 82
+    },
+    {
+      "Time": "2023-04-27T01:57:07.2158472+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 583,
+      "NumberOfAwardsMax": 82
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T14:03:20.7375054+00:00",
-  "LastUpdate_Ratings": "2023-04-26T13:57:15.7806656+00:00",
-  "LastChanged": "2023-04-25T22:57:27.9723226+00:00",
+  "LastUpdate_Achievements": "2023-04-28T09:02:17.3409867+00:00",
+  "LastUpdate_Ratings": "2023-04-28T08:57:25.201794+00:00",
+  "LastChanged": "2023-04-27T01:57:07.215847+00:00",
   "FirstSeenRating": "2023-01-13T07:56:45.2170746+00:00",
   "MaxAwardTitle": "Great for Beginners",
-  "NumberOfAwardsMax": 80,
-  "NumberOfAwards": 578,
-  "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_Progress": 356,
-  "Ranking_PopularitySum": 278,
-  "Ranking_Popularity": 342,
+  "NumberOfAwardsMax": 82,
+  "NumberOfAwards": 583,
+  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_Progress": 362,
+  "Ranking_PopularitySum": 277,
+  "Ranking_Popularity": 341,
   "Ranking_Rating": 510,
   "Rating": 4.51,
   "FirstSeen": "2022-09-22T22:01:01.54229+00:00"

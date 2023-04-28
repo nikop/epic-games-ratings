@@ -6,7 +6,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 551
+      "Count": 554
     },
     {
       "Text": "This game is Great for Beginners",
@@ -60,7 +60,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 64
+      "Count": 65
     },
     {
       "Text": "This game has a Kind Community",
@@ -744,25 +744,37 @@
       "Rating": 4.68,
       "NumberOfAwards": 1183,
       "NumberOfAwardsMax": 551
+    },
+    {
+      "Time": "2023-04-28T01:58:44.1317647+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1184,
+      "NumberOfAwardsMax": 551
+    },
+    {
+      "Time": "2023-04-28T07:57:55.8938836+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1187,
+      "NumberOfAwardsMax": 554
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T14:04:25.6146947+00:00",
-  "LastUpdate_Ratings": "2023-04-26T13:58:13.5158538+00:00",
-  "LastChanged_Achievements": "2023-04-26T14:04:25.6146945+00:00",
-  "LastChanged": "2023-04-25T13:59:16.5417311+00:00",
+  "LastUpdate_Achievements": "2023-04-28T09:01:43.0666061+00:00",
+  "LastUpdate_Ratings": "2023-04-28T08:58:01.2480537+00:00",
+  "LastChanged_Achievements": "2023-04-28T09:01:43.0666059+00:00",
+  "LastChanged": "2023-04-28T07:57:55.8938834+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "MaxAwardTitle": "Character Customization",
-  "NumberOfAwardsMax": 551,
-  "NumberOfAwards": 1183,
+  "NumberOfAwardsMax": 554,
+  "NumberOfAwards": 1187,
   "NumberOfRatings": 892,
-  "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_Progress": 356,
+  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_Progress": 362,
   "Ranking_PopularitySum": 218,
-  "Ranking_Popularity": 170,
-  "Ranking_Rating": 230,
+  "Ranking_Popularity": 169,
+  "Ranking_Rating": 231,
   "Rating": 4.68,
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00"
 }

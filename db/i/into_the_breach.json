@@ -12,7 +12,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 395
+      "Count": 396
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -36,7 +36,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 402
+      "Count": 403
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2698,22 +2698,34 @@
       "Rating": 4.84,
       "NumberOfAwards": 3853,
       "NumberOfAwardsMax": 405
+    },
+    {
+      "Time": "2023-04-27T13:05:10.4775112+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3854,
+      "NumberOfAwardsMax": 405
+    },
+    {
+      "Time": "2023-04-27T17:00:05.3696004+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3855,
+      "NumberOfAwardsMax": 405
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T14:07:24.6328336+00:00",
-  "LastUpdate_Ratings": "2023-04-26T14:00:56.314152+00:00",
-  "LastChanged": "2023-04-25T13:58:32.4353136+00:00",
+  "LastUpdate_Achievements": "2023-04-28T09:04:41.6089015+00:00",
+  "LastUpdate_Ratings": "2023-04-28T08:59:42.5917774+00:00",
+  "LastChanged": "2023-04-27T17:00:05.3696001+00:00",
   "MaxAwardTitle": "Extremely Fun",
   "NumberOfAwardsMax": 405,
-  "NumberOfAwards": 3853,
+  "NumberOfAwards": 3855,
   "NumberOfRatings": 4082,
-  "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_Progress": 356,
+  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_Progress": 362,
   "Ranking_PopularitySum": 132,
-  "Ranking_Popularity": 194,
+  "Ranking_Popularity": 195,
   "Ranking_Rating": 49,
   "Rating": 4.84,
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00"

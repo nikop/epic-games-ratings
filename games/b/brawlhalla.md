@@ -1,24 +1,24 @@
 # Brawlhalla
 Rating: 4.58 (Ranked 408)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 88  (Ranked 332)  
-Sum: 816 (Ranked 242)  
-Diff (max vs sum): 90
+Max (Great for Beginners): 91  (Ranked 330)  
+Sum: 850 (Ranked 242)  
+Diff (max vs sum): 88
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 88 |
+| This game is Great for Beginners | 91 |
+| This game has Competitive Players | 79 |
 | This game has Diverse Characters | 79 |
-| This game has Competitive Players | 76 |
-| This game is Great for Quick Sessions | 74 |
-| This game has Quickly Understood Controls | 72 |
-| This game is Relaxing | 67 |
-| This game has Amazing Characters | 66 |
-| This game is Highly Recommended | 64 |
-| This game is Extremely Fun | 62 |
-| This game has Challenging Combat | 61 |
-| This game has Amazing Storytelling | 56 |
-| This game has a Competitive Community | 51 |
+| This game is Great for Quick Sessions | 76 |
+| This game has Quickly Understood Controls | 75 |
+| This game is Relaxing | 74 |
+| This game has Amazing Characters | 70 |
+| This game is Extremely Fun | 66 |
+| This game is Highly Recommended | 66 |
+| This game has Challenging Combat | 63 |
+| This game has Amazing Storytelling | 57 |
+| This game has a Competitive Community | 54 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -114,4 +114,6 @@ Diff (max vs sum): 90
 | 2023-04-23 | 4.57 | 85 | 788 |
 | 2023-04-24 | 4.57 | 85 | 796 |
 | 2023-04-25 | 4.57 | 87 | 807 |
-| 2023-04-26 | 4.58 | 88 | 816 |
+| 2023-04-26 | 4.58 | 88 | 826 |
+| 2023-04-27 | 4.58 | 91 | 844 |
+| 2023-04-28 | 4.58 | 91 | 850 |

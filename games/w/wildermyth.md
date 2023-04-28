@@ -1,18 +1,19 @@
 # Wildermyth
-Rating: 4.77 (Ranked 106)  
+Rating: 4.77 (Ranked 105)  
 Number of Ratings: 45  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 27  (Ranked 449)  
-Sum: 27 (Ranked 458)  
+Max (Character Customization): 27  (Ranked 450)  
+Sum: 27 (Ranked 459)  
 Diff (max vs sum): -9
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,115 (Ranked 152)  
-Completed: 3 (0.27%) (Ranked 119)  
+Progressed: 1,116 (Ranked 153)  
+Completed: 3 (0.27%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 1,114 | 3 |
 | 2023-04-26 | 1,115 | 3 |
+| 2023-04-27 | 1,116 | 3 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

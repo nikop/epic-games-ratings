@@ -1,30 +1,32 @@
 # Goat Simulator 3
 Rating: 4.85 (Ranked 37)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 300  (Ranked 223)  
-Sum: 2,552 (Ranked 162)  
+Max (Great for Beginners): 301  (Ranked 223)  
+Sum: 2,568 (Ranked 162)  
 Diff (max vs sum): 61
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,123 (Ranked 44)  
-Completed: 684 (0.32%) (Ranked 107)  
+Progressed: 214,364 (Ranked 44)  
+Completed: 686 (0.32%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 214,070 | 684 |
-| 2023-04-26 | 214,123 | 684 |
+| 2023-04-26 | 214,184 | 684 |
+| 2023-04-27 | 214,320 | 686 |
+| 2023-04-28 | 214,364 | 686 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 300 |
-| This game has Diverse Characters | 279 |
-| This game is Highly Recommended | 275 |
+| This game is Great for Beginners | 301 |
+| This game has Diverse Characters | 282 |
+| This game is Highly Recommended | 276 |
 | This game has Amazing Characters | 267 |
+| This game is Extremely Fun | 253 |
 | This game has Quickly Understood Controls | 252 |
-| This game is Extremely Fun | 252 |
-| This game has Amazing Storytelling | 248 |
-| This game is Relaxing | 247 |
-| This game has a Silly Community | 221 |
-| This game has Easy Combat | 211 |
+| This game has Amazing Storytelling | 251 |
+| This game is Relaxing | 250 |
+| This game has a Silly Community | 222 |
+| This game has Easy Combat | 214 |
 | This game is Educational | 158 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -65,4 +67,5 @@ Completed: 684 (0.32%) (Ranked 107)
 | 2023-04-23 | 4.85 | 298 | 2,536 |
 | 2023-04-24 | 4.85 | 298 | 2,542 |
 | 2023-04-25 | 4.85 | 300 | 2,551 |
-| 2023-04-26 | 4.85 | 300 | 2,552 |
+| 2023-04-26 | 4.85 | 300 | 2,557 |
+| 2023-04-27 | 4.85 | 301 | 2,568 |

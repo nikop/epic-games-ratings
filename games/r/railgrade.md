@@ -1,23 +1,25 @@
 # RAILGRADE
-Rating: 4.54 (Ranked 473)  
+Rating: 4.54 (Ranked 474)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 86  (Ranked 336)  
-Sum: 641 (Ranked 270)  
-Diff (max vs sum): 66
+Sum: 642 (Ranked 269)  
+Diff (max vs sum): 67
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,126 (Ranked 91)  
-Completed: 27 (0.15%) (Ranked 134)  
+Progressed: 18,135 (Ranked 92)  
+Completed: 27 (0.15%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 18,125 | 27 |
-| 2023-04-26 | 18,126 | 27 |
+| 2023-04-26 | 18,127 | 27 |
+| 2023-04-27 | 18,134 | 27 |
+| 2023-04-28 | 18,135 | 27 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 86 |
+| This game has Quickly Understood Controls | 86 |
 | This game is Highly Recommended | 86 |
-| This game has Quickly Understood Controls | 85 |
 | This game is Relaxing | 84 |
 | This game is Extremely Fun | 83 |
 | This game has Amazing Storytelling | 77 |
@@ -64,3 +66,4 @@ Completed: 27 (0.15%) (Ranked 134)
 | 2023-04-08 | 4.54 | 86 | 639 |
 | 2023-04-12 | 4.54 | 86 | 640 |
 | 2023-04-24 | 4.54 | 86 | 641 |
+| 2023-04-28 | 4.54 | 86 | 642 |

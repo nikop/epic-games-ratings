@@ -66,7 +66,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 211
+      "Count": 212
     }
   ],
   "EosHistory": [],
@@ -1404,21 +1404,27 @@
       "Rating": 4.84,
       "NumberOfAwards": 2149,
       "NumberOfAwardsMax": 248
+    },
+    {
+      "Time": "2023-04-27T16:58:24.4630894+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2150,
+      "NumberOfAwardsMax": 248
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T14:04:53.5728325+00:00",
-  "LastUpdate_Ratings": "2023-04-26T13:58:38.0989842+00:00",
-  "LastChanged": "2023-04-26T11:59:16.0451035+00:00",
+  "LastUpdate_Achievements": "2023-04-28T09:01:15.2560978+00:00",
+  "LastUpdate_Ratings": "2023-04-28T08:58:15.1160556+00:00",
+  "LastChanged": "2023-04-27T16:58:24.4630892+00:00",
   "MaxAwardTitle": "Extremely Fun",
   "NumberOfAwardsMax": 248,
-  "NumberOfAwards": 2149,
+  "NumberOfAwards": 2150,
   "NumberOfRatings": 897,
-  "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_Progress": 356,
-  "Ranking_PopularitySum": 176,
+  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_Progress": 362,
+  "Ranking_PopularitySum": 175,
   "Ranking_Popularity": 236,
   "Ranking_Rating": 49,
   "Rating": 4.84,

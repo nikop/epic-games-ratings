@@ -1,17 +1,19 @@
 # Rise of Industry
-Rating: 4.22 (Ranked 790)  
+Rating: 4.22 (Ranked 791)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 651,114 (Ranked 18)  
-Completed: 1 (0.00%) (Ranked 188)  
+Progressed: 652,531 (Ranked 18)  
+Completed: 1 (0.00%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 650,714 | 1 |
-| 2023-04-26 | 651,114 | 1 |
+| 2023-04-26 | 651,465 | 1 |
+| 2023-04-27 | 652,270 | 1 |
+| 2023-04-28 | 652,531 | 1 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

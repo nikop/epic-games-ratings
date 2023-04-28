@@ -1,5 +1,5 @@
 # Blair Witch
-Rating: 4.13 (Ranked 841)  
+Rating: 4.13 (Ranked 842)  
 Number of Ratings: 635  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  

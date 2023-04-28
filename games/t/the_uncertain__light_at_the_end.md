@@ -1,17 +1,18 @@
 # The Uncertain: Light at the End
-Rating: 3.88 (Ranked 893)  
+Rating: 3.88 (Ranked 895)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 403 (Ranked 185)  
-Completed: 5 (1.24%) (Ranked 70)  
+Progressed: 404 (Ranked 187)  
+Completed: 5 (1.24%) (Ranked 72)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 401 | 5 |
 | 2023-04-26 | 403 | 5 |
+| 2023-04-27 | 404 | 5 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

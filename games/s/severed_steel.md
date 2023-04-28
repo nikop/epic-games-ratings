@@ -1,17 +1,19 @@
 # Severed Steel
-Rating: 4.68 (Ranked 230)  
+Rating: 4.68 (Ranked 231)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 161  (Ranked 277)  
-Sum: 161 (Ranked 367)  
-Diff (max vs sum): -90
+Sum: 161 (Ranked 368)  
+Diff (max vs sum): -91
 ## Popularity (Based on EOS Achievements)
-Progressed: 396,917 (Ranked 30)  
-Completed: 28 (0.01%) (Ranked 179)  
+Progressed: 397,506 (Ranked 30)  
+Completed: 28 (0.01%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 396,727 | 28 |
-| 2023-04-26 | 396,917 | 28 |
+| 2023-04-26 | 397,082 | 28 |
+| 2023-04-27 | 397,393 | 28 |
+| 2023-04-28 | 397,506 | 28 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

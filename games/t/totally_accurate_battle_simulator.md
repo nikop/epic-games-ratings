@@ -1,21 +1,21 @@
 # Totally Accurate Battle Simulator
-Rating: 4.77 (Ranked 106)  
+Rating: 4.77 (Ranked 105)  
 Number of Ratings: 2,102  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 320  (Ranked 215)  
-Sum: 2,793 (Ranked 154)  
-Diff (max vs sum): 61
+Max (Great for Beginners): 321  (Ranked 214)  
+Sum: 2,796 (Ranked 154)  
+Diff (max vs sum): 60
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 320 |
+| This game is Great for Beginners | 321 |
 | This game has Diverse Characters | 309 |
 | This game has Amazing Characters | 308 |
 | This game is Extremely Fun | 290 |
 | This game has Amazing Storytelling | 269 |
 | This game is Highly Recommended | 266 |
 | This game is Relaxing | 265 |
-| This game has Quickly Understood Controls | 261 |
+| This game has Quickly Understood Controls | 263 |
 | This game has a Creative Community | 258 |
 | This game is Great for Quick Sessions | 247 |
 | This game has Unique Visuals | 232 |
@@ -123,4 +123,5 @@ Diff (max vs sum): 61
 | 2023-04-23 | 4.77 | - | 317 | 2,785 |
 | 2023-04-24 | 4.77 | - | 317 | 2,789 |
 | 2023-04-25 | 4.77 | - | 320 | 2,792 |
-| 2023-04-26 | 4.77 | - | 320 | 2,793 |
+| 2023-04-26 | 4.77 | - | 320 | 2,795 |
+| 2023-04-27 | 4.77 | - | 321 | 2,796 |

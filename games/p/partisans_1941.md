@@ -1,18 +1,19 @@
 # Partisans 1941
-Rating: 4.61 (Ranked 349)  
+Rating: 4.61 (Ranked 351)  
 Number of Ratings: 98  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 849 (Ranked 161)  
-Completed: 1 (0.12%) (Ranked 142)  
+Progressed: 850 (Ranked 162)  
+Completed: 1 (0.12%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 848 | 1 |
 | 2023-04-26 | 849 | 1 |
+| 2023-04-27 | 850 | 1 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

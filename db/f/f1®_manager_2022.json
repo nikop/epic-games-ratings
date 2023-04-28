@@ -18,7 +18,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 201
+      "Count": 202
     },
     {
       "Text": "This game is Relaxing",
@@ -48,7 +48,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 207
+      "Count": 208
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1171,26 +1171,38 @@
       "Rating": 4.59,
       "NumberOfAwards": 1773,
       "NumberOfAwardsMax": 235
+    },
+    {
+      "Time": "2023-04-26T19:57:55.2493116+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1774,
+      "NumberOfAwardsMax": 235
+    },
+    {
+      "Time": "2023-04-26T22:58:17.3562784+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1775,
+      "NumberOfAwardsMax": 235
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T14:05:02.5989169+00:00",
-  "LastUpdate_Ratings": "2023-04-26T13:58:45.1807684+00:00",
-  "LastChanged_Achievements": "2023-04-26T14:05:02.5989167+00:00",
-  "LastChanged": "2023-04-24T19:57:03.1290952+00:00",
+  "LastUpdate_Achievements": "2023-04-28T09:03:18.6460234+00:00",
+  "LastUpdate_Ratings": "2023-04-28T08:58:20.0034649+00:00",
+  "LastChanged_Achievements": "2023-04-28T09:03:18.6460232+00:00",
+  "LastChanged": "2023-04-26T22:58:17.3562783+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.9629777+00:00",
   "FirstSeenRating": "2022-08-30T21:30:24.1805179+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 235,
-  "NumberOfAwards": 1773,
+  "NumberOfAwards": 1775,
   "NumberOfRatings": 810,
-  "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_Progress": 356,
+  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_Progress": 362,
   "Ranking_PopularitySum": 195,
   "Ranking_Popularity": 239,
-  "Ranking_Rating": 390,
+  "Ranking_Rating": 392,
   "Rating": 4.59,
   "FirstSeen": "2022-08-30T14:01:37.4479981+00:00"
 }

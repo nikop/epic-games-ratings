@@ -2,30 +2,32 @@
 Rating: 4.74 (Ranked 141)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 6,431  (Ranked 49)  
-Sum: 12,781 (Ranked 68)  
+Max (Character Customization): 6,440  (Ranked 49)  
+Sum: 12,806 (Ranked 68)  
 Diff (max vs sum): -19
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,093 (Ranked 72)  
-Completed: 0 (0.00%) (Ranked 188)  
+Progressed: 48,200 (Ranked 73)  
+Completed: 0 (0.00%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 48,072 | 0 |
-| 2023-04-26 | 48,093 | 0 |
+| 2023-04-26 | 48,120 | 0 |
+| 2023-04-27 | 48,184 | 0 |
+| 2023-04-28 | 48,200 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 6,431 |
-| This game has Diverse Characters | 783 |
-| This game is Great for Beginners | 781 |
+| This game has Inclusive Character Customization | 6,440 |
+| This game has Diverse Characters | 785 |
+| This game is Great for Beginners | 783 |
 | This game is Highly Recommended | 755 |
-| This game is Extremely Fun | 715 |
-| This game has Amazing Storytelling | 712 |
-| This game has Quickly Understood Controls | 705 |
+| This game is Extremely Fun | 716 |
+| This game has Amazing Storytelling | 714 |
+| This game has Quickly Understood Controls | 708 |
 | This game is Relaxing | 701 |
-| This game has Amazing Characters | 696 |
-| This game has a Creative Community | 502 |
+| This game has Amazing Characters | 700 |
+| This game has a Creative Community | 504 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
 ## Ratings History
@@ -132,4 +134,6 @@ Completed: 0 (0.00%) (Ranked 188)
 | 2023-04-23 | 4.74 | - | 6,420 | 12,754 |
 | 2023-04-24 | 4.74 | - | 6,420 | 12,760 |
 | 2023-04-25 | 4.74 | - | 6,423 | 12,770 |
-| 2023-04-26 | 4.74 | - | 6,431 | 12,781 |
+| 2023-04-26 | 4.74 | - | 6,431 | 12,789 |
+| 2023-04-27 | 4.74 | - | 6,440 | 12,805 |
+| 2023-04-28 | 4.74 | - | 6,440 | 12,806 |

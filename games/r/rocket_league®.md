@@ -2,29 +2,31 @@
 Rating: 4.51 (Ranked 510)  
 Number of Ratings: 366,020  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Quick Sessions): 393,257  (Ranked 2)  
-Sum: 2,679,630 (Ranked 2)  
+Max (Great for Quick Sessions): 396,236  (Ranked 2)  
+Sum: 2,695,088 (Ranked 2)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,417,318 (Ranked 2)  
-Completed: 1,235 (0.01%) (Ranked 179)  
+Progressed: 23,442,650 (Ranked 2)  
+Completed: 1,239 (0.01%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 23,410,806 | 1,234 |
-| 2023-04-26 | 23,417,318 | 1,235 |
+| 2023-04-26 | 23,424,378 | 1,236 |
+| 2023-04-27 | 23,438,051 | 1,239 |
+| 2023-04-28 | 23,442,650 | 1,239 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 393,257 |
-| This game has Competitive Players | 340,964 |
-| This game has Quickly Understood Controls | 311,166 |
-| This game is Extremely Fun | 305,507 |
-| This game is Highly Recommended | 293,940 |
-| This game has Challenging Combat | 284,719 |
-| This game has Amazing Storytelling | 255,560 |
-| This game has a Competitive Community | 253,520 |
-| This game has Amazing Characters | 240,997 |
+| This game is Great for Quick Sessions | 396,236 |
+| This game has Competitive Players | 342,525 |
+| This game has Quickly Understood Controls | 312,614 |
+| This game is Extremely Fun | 307,098 |
+| This game is Highly Recommended | 295,656 |
+| This game has Challenging Combat | 286,404 |
+| This game has Amazing Storytelling | 257,028 |
+| This game has a Competitive Community | 255,172 |
+| This game has Amazing Characters | 242,355 |
 | This game has Obsessive Gameplay | 167,946 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -122,3 +124,5 @@ Completed: 1,235 (0.01%) (Ranked 179)
 | 2023-04-23 | 4.51 | - | 391,076 | 2,668,189 |
 | 2023-04-24 | 4.51 | - | 392,168 | 2,673,942 |
 | 2023-04-25 | 4.51 | - | 393,257 | 2,679,630 |
+| 2023-04-26 | 4.51 | - | 395,079 | 2,688,649 |
+| 2023-04-27 | 4.51 | - | 396,236 | 2,695,088 |

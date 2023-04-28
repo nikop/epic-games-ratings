@@ -48,7 +48,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -724,21 +724,27 @@
       "Rating": 4.5,
       "NumberOfAwards": 767,
       "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2023-04-27T20:59:02.4790589+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 768,
+      "NumberOfAwardsMax": 96
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-26T14:07:31.1018858+00:00",
-  "LastUpdate_Ratings": "2023-04-26T14:01:01.5231958+00:00",
-  "LastChanged": "2023-04-25T23:01:05.1161366+00:00",
+  "LastUpdate_Achievements": "2023-04-28T09:04:45.6723141+00:00",
+  "LastUpdate_Ratings": "2023-04-28T08:59:46.6779699+00:00",
+  "LastChanged": "2023-04-27T20:59:02.4790587+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 96,
-  "NumberOfAwards": 767,
+  "NumberOfAwards": 768,
   "NumberOfRatings": 238,
-  "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_Progress": 356,
-  "Ranking_PopularitySum": 248,
+  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_Progress": 362,
+  "Ranking_PopularitySum": 250,
   "Ranking_Popularity": 323,
   "Ranking_Rating": 527,
   "Rating": 4.5,

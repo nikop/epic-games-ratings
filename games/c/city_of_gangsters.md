@@ -1,17 +1,19 @@
 # City of Gangsters
-Rating: 4.25 (Ranked 772)  
+Rating: 4.25 (Ranked 774)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 22  (Ranked 470)  
-Sum: 42 (Ranked 436)  
-Diff (max vs sum): 34
+Sum: 42 (Ranked 437)  
+Diff (max vs sum): 33
 ## Popularity (Based on EOS Achievements)
-Progressed: 305,488 (Ranked 36)  
-Completed: 3 (0.00%) (Ranked 188)  
+Progressed: 306,135 (Ranked 36)  
+Completed: 3 (0.00%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 305,316 | 3 |
-| 2023-04-26 | 305,488 | 3 |
+| 2023-04-26 | 305,662 | 3 |
+| 2023-04-27 | 306,020 | 3 |
+| 2023-04-28 | 306,135 | 3 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
