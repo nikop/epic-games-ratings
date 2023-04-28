@@ -19,13 +19,13 @@
 | 17 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.61% |
 | 18 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 19 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
-| 20 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.88% |
-| 21 | [Island Cities](games/i/island_cities.md) | 5.56% |
-| 22 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.99% |
-| 23 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
-| 24 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.61% |
-| 25 | [Bugsnax](games/b/bugsnax.md) | 4.59% |
-| 26 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 4.49% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.04% |
+| 21 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.88% |
+| 22 | [Island Cities](games/i/island_cities.md) | 5.56% |
+| 23 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.99% |
+| 24 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
+| 25 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.61% |
+| 26 | [Bugsnax](games/b/bugsnax.md) | 4.59% |
 | 27 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
 | 28 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.17% |
 | 29 | [Doodle God](games/d/doodle_god.md) | 4.10% |
@@ -360,4 +360,4 @@
 | 190 | [We Are OFK](games/w/we_are_ofk.md) | 0.00% |
 | 190 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 190 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,519 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,520 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

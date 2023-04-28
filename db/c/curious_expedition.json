@@ -3,12 +3,24 @@
   "Name": "Curious Expedition",
   "Tags": [],
   "EosHistory": [],
-  "RatingHistory": [],
+  "RatingHistory": [
+    {
+      "Time": "2023-04-28T03:58:48.9258046+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T03:03:42.5503745+00:00",
-  "LastUpdate_Ratings": "2023-04-28T02:58:44.0567167+00:00",
+  "LastUpdate_Achievements": "2023-04-28T04:03:33.3382325+00:00",
+  "LastUpdate_Ratings": "2023-04-28T03:58:48.9258059+00:00",
+  "LastChanged": "2023-04-28T03:58:48.9258043+00:00",
+  "FirstSeenRating": "2023-04-28T03:58:48.9258042+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_Progress": 362
+  "Ranking_EOS_Progress": 362,
+  "FirstSeen": "2023-04-28T03:58:48.9258008+00:00"
 }

@@ -6,7 +6,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 961
+      "Count": 963
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -24,7 +24,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 934
+      "Count": 935
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2875,17 +2875,23 @@
       "Rating": 4.61,
       "NumberOfAwards": 7198,
       "NumberOfAwardsMax": 1073
+    },
+    {
+      "Time": "2023-04-28T03:57:09.5479544+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 7201,
+      "NumberOfAwardsMax": 1073
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T03:00:59.7564739+00:00",
-  "LastUpdate_Ratings": "2023-04-28T02:57:22.2506981+00:00",
-  "LastChanged": "2023-04-27T23:57:10.3801193+00:00",
+  "LastUpdate_Achievements": "2023-04-28T04:01:33.7408637+00:00",
+  "LastUpdate_Ratings": "2023-04-28T03:57:09.547955+00:00",
+  "LastChanged": "2023-04-28T03:57:09.5479543+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 1073,
-  "NumberOfAwards": 7198,
+  "NumberOfAwards": 7201,
   "NumberOfRatings": 4280,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 362,

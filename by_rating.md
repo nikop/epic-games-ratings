@@ -16,7 +16,7 @@
 | 12 | [God of War](games/g/god_of_war.md) | 4.89 | 3,956 | 73 |
 | 12 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 136,613 | 7 |
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 401 | 196 |
-| 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 14,750 | 20 |
+| 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 14,781 | 20 |
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 128 | 291 |
 | 18 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 248 | 236 |
 | 18 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 0 | 488 |
@@ -68,7 +68,7 @@
 | 60 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 0 | 488 |
 | 60 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 482 | 184 |
 | 60 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.82 | 115 | 304 |
-| 60 | [Sifu](games/s/sifu.md) | 4.82 | 6,002 | 53 |
+| 60 | [Sifu](games/s/sifu.md) | 4.82 | 6,003 | 53 |
 | 60 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 34 | 426 |
 | 60 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.82 | 0 | 488 |
 | 72 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 417 | 191 |
@@ -127,7 +127,7 @@
 | 116 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 488 |
 | 126 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 463 |
 | 126 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 4,793 | 63 |
-| 126 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,165 | 83 |
+| 126 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,167 | 83 |
 | 126 | [Diabotical](games/d/diabotical.md) | 4.75 | 265 | 233 |
 | 126 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 39 | 407 |
 | 126 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 389 | 199 |
@@ -769,13 +769,13 @@
 | 767 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 0 | 488 |
 | 767 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 0 | 488 |
 | 767 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 297 | 224 |
+| 770 | [EVE Online](games/e/eve_online.md) | 4.26 | 1,011 | 132 |
 | 770 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.26 | 0 | 488 |
 | 770 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 488 |
 | 770 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 488 |
-| 773 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 0 | 488 |
-| 773 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.25 | 22 | 470 |
-| 773 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 470 |
-| 773 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,011 | 132 |
+| 774 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 0 | 488 |
+| 774 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.25 | 22 | 470 |
+| 774 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 470 |
 | 777 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 488 |
 | 777 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 437 |
 | 777 | [Chess Ultra](games/c/chess_ultra.md) | 4.24 | 0 | 488 |
@@ -857,12 +857,12 @@
 | 854 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 488 |
 | 854 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 488 |
 | 857 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 136 | 287 |
-| 857 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 179 | 265 |
 | 857 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.08 | 0 | 488 |
-| 860 | [Godfall](games/g/godfall.md) | 4.07 | 504 | 179 |
-| 860 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 0 | 488 |
-| 860 | [Second Extinction™](games/s/second_extinction™.md) | 4.07 | 367 | 204 |
-| 860 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 0 | 488 |
+| 859 | [Godfall](games/g/godfall.md) | 4.07 | 504 | 179 |
+| 859 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 179 | 265 |
+| 859 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.07 | 0 | 488 |
+| 859 | [Second Extinction™](games/s/second_extinction™.md) | 4.07 | 367 | 204 |
+| 859 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 0 | 488 |
 | 864 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 4,851 | 61 |
 | 865 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 0 | 488 |
 | 865 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.05 | 0 | 488 |

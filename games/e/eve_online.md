@@ -1,10 +1,10 @@
 # EVE Online
-Rating: 4.25 (Ranked 773)  
+Rating: 4.26 (Ranked 770)  
 Number of Ratings: 1,408  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 1,011  (Ranked 132)  
-Sum: 2,179 (Ranked 174)  
-Diff (max vs sum): -42
+Sum: 2,001 (Ranked 183)  
+Diff (max vs sum): -51
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -137,3 +137,4 @@ Diff (max vs sum): -42
 | 2023-04-24 | 4.26 | - | 1,011 | 2,177 |
 | 2023-04-26 | 4.25 | - | 1,011 | 2,178 |
 | 2023-04-27 | 4.25 | - | 1,011 | 2,179 |
+| 2023-04-28 | 4.26 | - | 1,011 | 2,001 |

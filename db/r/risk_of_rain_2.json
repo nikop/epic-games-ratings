@@ -48,7 +48,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 180
+      "Count": 181
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1299,17 +1299,23 @@
       "Rating": 4.85,
       "NumberOfAwards": 2206,
       "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-04-28T03:59:33.3265441+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2207,
+      "NumberOfAwardsMax": 224
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T03:04:19.8367736+00:00",
-  "LastUpdate_Ratings": "2023-04-28T02:59:21.2077494+00:00",
-  "LastChanged": "2023-04-27T21:58:55.3570047+00:00",
-  "MaxAwardTitle": "Extremely Fun",
+  "LastUpdate_Achievements": "2023-04-28T04:04:18.2076161+00:00",
+  "LastUpdate_Ratings": "2023-04-28T03:59:33.3265446+00:00",
+  "LastChanged": "2023-04-28T03:59:33.3265439+00:00",
+  "MaxAwardTitle": "Relaxing",
   "NumberOfAwardsMax": 224,
-  "NumberOfAwards": 2206,
+  "NumberOfAwards": 2207,
   "NumberOfRatings": 1310,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 362,

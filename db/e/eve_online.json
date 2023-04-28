@@ -1720,23 +1720,29 @@
       "Rating": 4.25,
       "NumberOfAwards": 2179,
       "NumberOfAwardsMax": 1011
+    },
+    {
+      "Time": "2023-04-28T03:57:26.227007+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 2001,
+      "NumberOfAwardsMax": 1011
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T03:01:05.7717223+00:00",
-  "LastUpdate_Ratings": "2023-04-28T02:57:34.8599641+00:00",
-  "LastChanged": "2023-04-27T13:57:14.646276+00:00",
+  "LastUpdate_Achievements": "2023-04-28T04:01:40.871764+00:00",
+  "LastUpdate_Ratings": "2023-04-28T03:57:26.2270075+00:00",
+  "LastChanged": "2023-04-28T03:57:26.2270067+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 1011,
-  "NumberOfAwards": 2179,
+  "NumberOfAwards": 2001,
   "NumberOfRatings": 1408,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 362,
-  "Ranking_PopularitySum": 174,
+  "Ranking_PopularitySum": 183,
   "Ranking_Popularity": 132,
-  "Ranking_Rating": 773,
-  "Rating": 4.25,
+  "Ranking_Rating": 770,
+  "Rating": 4.26,
   "FirstSeen": "2022-07-22T20:17:38.4001765+00:00"
 }
