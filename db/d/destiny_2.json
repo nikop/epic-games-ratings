@@ -6,7 +6,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 33283
+      "Count": 33311
     },
     {
       "Text": "This game is Extremely Fun",
@@ -36,7 +36,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 6493
+      "Count": 6512
     },
     {
       "Text": "This game has Amazing Characters",
@@ -357,6 +357,11 @@
     {
       "Time": "2023-04-28T02:05:22.9816763+00:00",
       "NumProgressed": 383067,
+      "NumCompleted": 11200
+    },
+    {
+      "Time": "2023-04-28T03:04:18.0590107+00:00",
+      "NumProgressed": 383096,
       "NumCompleted": 11200
     }
   ],
@@ -3308,20 +3313,26 @@
       "Rating": 4.5,
       "NumberOfAwards": 80464,
       "NumberOfAwardsMax": 33283
+    },
+    {
+      "Time": "2023-04-28T02:59:19.4916111+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 80511,
+      "NumberOfAwardsMax": 33311
     }
   ],
   "EOS_Completed_Percentage": 2.92,
   "EOS_Completed": 11200,
-  "EOS_Progressed": 383067,
-  "LastUpdate_Achievements": "2023-04-28T02:05:22.981677+00:00",
-  "LastUpdate_Ratings": "2023-04-28T02:00:12.3710614+00:00",
-  "LastChanged_Achievements": "2023-04-28T02:05:22.9816754+00:00",
-  "LastChanged": "2023-04-27T17:59:21.1621503+00:00",
+  "EOS_Progressed": 383096,
+  "LastUpdate_Achievements": "2023-04-28T03:04:18.0590113+00:00",
+  "LastUpdate_Ratings": "2023-04-28T02:59:19.4916116+00:00",
+  "LastChanged_Achievements": "2023-04-28T03:04:18.05901+00:00",
+  "LastChanged": "2023-04-28T02:59:19.4916108+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:52.6483728+00:00",
   "FirstSeenRating": "2022-08-24T03:30:20.9735605+00:00",
   "MaxAwardTitle": "Great Boss Battles",
-  "NumberOfAwardsMax": 33283,
-  "NumberOfAwards": 80464,
+  "NumberOfAwardsMax": 33311,
+  "NumberOfAwards": 80511,
   "NumberOfRatings": 32207,
   "Ranking_EOS_Completed": 43,
   "Ranking_EOS_Progress": 31,
