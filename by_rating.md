@@ -78,7 +78,7 @@
 | 71 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.81 | 189 | 260 |
 | 71 | [Sailing Era](games/s/sailing_era.md) | 4.81 | 0 | 488 |
 | 71 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 0 | 488 |
-| 79 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 324 | 213 |
+| 79 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 328 | 213 |
 | 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,245 | 50 |
 | 79 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 158 | 279 |
 | 79 | [Journey](games/j/journey.md) | 4.80 | 0 | 488 |
@@ -676,9 +676,9 @@
 | 674 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 0 | 488 |
 | 674 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.39 | 0 | 488 |
 | 674 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 488 |
-| 674 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 540 | 175 |
+| 674 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 541 | 175 |
 | 674 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 0 | 488 |
-| 674 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,641 | 29 |
+| 674 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,642 | 29 |
 | 674 | [Necrosmith](games/n/necrosmith.md) | 4.39 | 0 | 488 |
 | 674 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.39 | 0 | 488 |
 | 674 | [Tacoma](games/t/tacoma.md) | 4.39 | 0 | 488 |
@@ -893,7 +893,7 @@
 | 889 | [Warface](games/w/warface.md) | 3.92 | 384 | 202 |
 | 892 | [Conarium](games/c/conarium.md) | 3.91 | 0 | 488 |
 | 892 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 314 |
-| 894 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 3.90 | 59 | 374 |
+| 892 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 3.91 | 59 | 374 |
 | 895 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.88 | 0 | 488 |
 | 896 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.87 | 0 | 488 |
 | 897 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 488 |
