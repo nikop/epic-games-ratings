@@ -1,5 +1,6 @@
 | Game | Rating | Ranking | Awards | Ranking |
 | ---- | ------ | ------- | ------ | ------- |
+| [Grim Nights](games/g/grim_nights.md) | - | - | 0 | - |
 | [Ash of Gods: The Way](games/a/ash_of_gods__the_way.md) | - | - | 0 | - |
 | [Island Cities](games/i/island_cities.md) | - | - | 0 | - |
 | [Curious Expedition](games/c/curious_expedition.md) | - | - | 0 | - |
@@ -83,5 +84,5 @@
 | [The Entropy Centre](games/t/the_entropy_centre.md) | - | - | 0 | - |
 | [The Great War: Western Front™](games/t/the_great_war__western_front™.md) | - | - | 0 | - |
 | [Undetected](games/u/undetected.md) | - | - | 0 | - |
-| [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.49 | 543 | 0 | 488 |
+| [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.46 | 587 | 0 | 488 |
 | [Home Wars](games/h/home_wars.md) | - | - | 0 | - |

@@ -21,7 +21,7 @@
 | 19 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 20 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 21 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.88% |
-| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 5.70% |
+| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 5.61% |
 | 23 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.99% |
 | 24 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
 | 25 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.61% |
@@ -112,10 +112,10 @@
 | 109 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
 | 111 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
 | 112 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
-| 112 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.31% |
 | 112 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 112 | [The Surge](games/t/the_surge.md) | 0.31% |
-| 116 | [Tchia](games/t/tchia.md) | 0.30% |
+| 115 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
+| 115 | [Tchia](games/t/tchia.md) | 0.30% |
 | 117 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
 | 117 | [Aegis Descent](games/a/aegis_descent.md) | 0.29% |
 | 119 | [Despot's Game](games/d/despot's_game.md) | 0.28% |
