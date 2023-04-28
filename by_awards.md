@@ -131,7 +131,7 @@
 | 129 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,030 | 4.66 | 271 |
 | 130 | [Saints Row](games/s/saints_row.md) | 1,022 | 3.78 | 901 |
 | 131 | [World of Warships](games/w/world_of_warships.md) | 1,018 | 4.43 | 633 |
-| 132 | [EVE Online](games/e/eve_online.md) | 1,011 | 4.26 | 770 |
+| 132 | [EVE Online](games/e/eve_online.md) | 1,011 | 4.25 | 773 |
 | 133 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,010 | 4.54 | 474 |
 | 134 | [Ooblets](games/o/ooblets.md) | 1,001 | 4.87 | 24 |
 | 135 | [Dead Island 2](games/d/dead_island_2.md) | 992 | 4.53 | 486 |
@@ -469,8 +469,8 @@
 | 465 | [Fez](games/f/fez.md) | 23 | 4.71 | 177 |
 | 465 | [RUINER](games/r/ruiner.md) | 23 | 4.53 | 486 |
 | 465 | [Weird West](games/w/weird_west.md) | 23 | 4.45 | 599 |
-| 470 | [City of Gangsters](games/c/city_of_gangsters.md) | 22 | 4.25 | 774 |
-| 470 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.25 | 774 |
+| 470 | [City of Gangsters](games/c/city_of_gangsters.md) | 22 | 4.25 | 773 |
+| 470 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.25 | 773 |
 | 470 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.20 | 800 |
 | 470 | [MotoGP™21](games/m/motogp™21.md) | 22 | 4.58 | 408 |
 | 470 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 22 | 4.88 | 18 |

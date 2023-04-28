@@ -66,7 +66,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1043
+      "Count": 1073
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -415,6 +415,11 @@
     {
       "Time": "2023-04-28T09:40:13.4707301+00:00",
       "NumProgressed": 3332410,
+      "NumCompleted": 6
+    },
+    {
+      "Time": "2023-04-28T10:05:25.867411+00:00",
+      "NumProgressed": 3332773,
       "NumCompleted": 6
     }
   ],
@@ -3944,19 +3949,25 @@
       "Rating": 4.58,
       "NumberOfAwards": 45342,
       "NumberOfAwardsMax": 25375
+    },
+    {
+      "Time": "2023-04-28T10:00:16.4590799+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 45372,
+      "NumberOfAwardsMax": 25375
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 6,
-  "EOS_Progressed": 3332410,
-  "LastUpdate_Achievements": "2023-04-28T09:40:13.4707306+00:00",
-  "LastUpdate_Ratings": "2023-04-28T09:34:52.2350011+00:00",
-  "LastChanged_Achievements": "2023-04-28T09:40:13.4707294+00:00",
-  "LastChanged": "2023-04-28T09:34:52.2350003+00:00",
+  "EOS_Progressed": 3332773,
+  "LastUpdate_Achievements": "2023-04-28T10:05:25.8674118+00:00",
+  "LastUpdate_Ratings": "2023-04-28T10:00:16.4590806+00:00",
+  "LastChanged_Achievements": "2023-04-28T10:05:25.8674103+00:00",
+  "LastChanged": "2023-04-28T10:00:16.4590797+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:58.6045663+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 25375,
-  "NumberOfAwards": 45342,
+  "NumberOfAwards": 45372,
   "NumberOfRatings": 3181,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 4,

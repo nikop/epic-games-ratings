@@ -769,13 +769,13 @@
 | 767 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 0 | 488 |
 | 767 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 0 | 488 |
 | 767 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 297 | 224 |
-| 770 | [EVE Online](games/e/eve_online.md) | 4.26 | 1,011 | 132 |
 | 770 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.26 | 0 | 488 |
 | 770 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 488 |
 | 770 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 488 |
-| 774 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 0 | 488 |
-| 774 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.25 | 22 | 470 |
-| 774 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 470 |
+| 773 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 0 | 488 |
+| 773 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.25 | 22 | 470 |
+| 773 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 470 |
+| 773 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,011 | 132 |
 | 777 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 488 |
 | 777 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 437 |
 | 777 | [Chess Ultra](games/c/chess_ultra.md) | 4.24 | 0 | 488 |
