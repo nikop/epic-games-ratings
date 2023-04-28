@@ -36,7 +36,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 392
+      "Count": 394
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -447,6 +447,11 @@
     {
       "Time": "2023-04-28T19:01:33.3731326+00:00",
       "NumProgressed": 113135,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-04-28T20:02:13.9061301+00:00",
+      "NumProgressed": 113161,
       "NumCompleted": 4
     }
   ],
@@ -3147,26 +3152,32 @@
       "Rating": 4.61,
       "NumberOfAwards": 3191,
       "NumberOfAwardsMax": 406
+    },
+    {
+      "Time": "2023-04-28T19:58:33.9794321+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3193,
+      "NumberOfAwardsMax": 406
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1258,
+  "EOS_NewPlayers": 1284,
   "EOS_Completed": 4,
-  "EOS_Progressed": 113135,
-  "LastUpdate_Achievements": "2023-04-28T19:01:33.3731369+00:00",
-  "LastUpdate_Ratings": "2023-04-28T18:58:29.0576365+00:00",
-  "LastChanged_Achievements": "2023-04-28T19:01:33.3731317+00:00",
-  "LastChanged": "2023-04-28T15:58:05.727871+00:00",
+  "EOS_Progressed": 113161,
+  "LastUpdate_Achievements": "2023-04-28T20:02:13.9061394+00:00",
+  "LastUpdate_Ratings": "2023-04-28T19:58:33.9794331+00:00",
+  "LastChanged_Achievements": "2023-04-28T20:02:13.906129+00:00",
+  "LastChanged": "2023-04-28T19:58:33.9794317+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "MaxAwardTitle": "Extremely Fun",
   "NumberOfAwardsMax": 406,
-  "NumberOfAwards": 3191,
+  "NumberOfAwards": 3193,
   "NumberOfRatings": 4491,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Ranking_EOS_NewPlayers": 20,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_Progress": 55,
+  "Ranking_EOS_Progress": 56,
   "Ranking_PopularitySum": 143,
   "Ranking_Popularity": 194,
   "Ranking_Rating": 351,

@@ -14,7 +14,7 @@
 | [Aftertime](games/a/aftertime.md) | - | - | 0 | - |
 | [Cards of Ethernity](games/c/cards_of_ethernity.md) | - | - | 0 | - |
 | [Spaceman Defender](games/s/spaceman_defender.md) | - | - | 0 | - |
-| [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.51 | 510 | 0 | 488 |
+| [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.56 | 443 | 0 | 488 |
 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | - | - | 0 | - |
 | [The Ultimate Trivia Challenge](games/t/the_ultimate_trivia_challenge.md) | - | - | 0 | - |
 | [Undead Horde](games/u/undead_horde.md) | - | - | 0 | - |
@@ -30,7 +30,7 @@
 | [Roma Invicta](games/r/roma_invicta.md) | - | - | 0 | - |
 | [Fortune Follow: The Mansion](games/f/fortune_follow__the_mansion.md) | - | - | 0 | - |
 | [Bosorka](games/b/bosorka.md) | - | - | 0 | - |
-| [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 474 | 1,200 | 120 |
+| [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 475 | 1,200 | 120 |
 | [Doomed Lands](games/d/doomed_lands.md) | - | - | 0 | - |
 | [League Manager 2023](games/l/league_manager_2023.md) | - | - | 0 | - |
 | [Stray Blade](games/s/stray_blade.md) | - | - | 0 | - |
@@ -86,4 +86,3 @@
 | [The Great War: Western Front™](games/t/the_great_war__western_front™.md) | - | - | 0 | - |
 | [Undetected](games/u/undetected.md) | - | - | 0 | - |
 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.46 | 587 | 0 | 488 |
-| [Home Wars](games/h/home_wars.md) | - | - | 0 | - |

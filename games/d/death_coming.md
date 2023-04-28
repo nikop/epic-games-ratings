@@ -1,5 +1,5 @@
 # Death Coming
-Rating: 4.44 (Ranked 621)  
+Rating: 4.44 (Ranked 622)  
 Number of Ratings: 91  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  

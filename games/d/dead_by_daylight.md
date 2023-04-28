@@ -1,12 +1,12 @@
 # Dead by Daylight
-Rating: 4.52 (Ranked 498)  
+Rating: 4.52 (Ranked 499)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 26,841  (Ranked 15)  
 Sum: 217,114 (Ranked 12)  
 Diff (max vs sum): 3
 ## Popularity (Based on EOS Achievements)
-Progressed: 372,181 (Ranked 33)  
+Progressed: 372,431 (Ranked 33)  
 Completed: 34 (0.01%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -14,7 +14,7 @@ Completed: 34 (0.01%) (Ranked 181)
 | 2023-04-25 | 362,649 | 34 |
 | 2023-04-26 | 365,828 | 34 |
 | 2023-04-27 | 369,319 | 34 |
-| 2023-04-28 | 372,181 | 34 |
+| 2023-04-28 | 372,431 | 34 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

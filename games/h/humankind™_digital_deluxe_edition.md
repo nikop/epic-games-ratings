@@ -1,10 +1,10 @@
 # HUMANKIND™ Digital Deluxe Edition
-Rating: 4.51 (Ranked 510)  
+Rating: 4.51 (Ranked 511)  
 Number of Ratings: 609  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Amazing Storytelling): 104  (Ranked 311)  
+Max (Amazing Storytelling): 104  (Ranked 312)  
 Sum: 878 (Ranked 235)  
-Diff (max vs sum): 76
+Diff (max vs sum): 77
 ## Awards
 | Award | Count |
 | ----- | ----- |

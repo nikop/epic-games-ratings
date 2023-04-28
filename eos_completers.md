@@ -18,7 +18,7 @@
 | 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.43% |
 | 17 | [Scorn](games/s/scorn.md) | 7.17% |
 | 18 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.50% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.48% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.39% |
 | 20 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 21 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 22 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.88% |
@@ -51,7 +51,7 @@
 | 49 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 50 | [Iron Danger](games/i/iron_danger.md) | 2.48% |
 | 51 | [ZZT!](games/z/zzt!.md) | 2.44% |
-| 52 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.26% |
+| 52 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.27% |
 | 53 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 54 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
 | 55 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -75,7 +75,7 @@
 | 73 | [Late Shift](games/l/late_shift.md) | 1.21% |
 | 74 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.19% |
 | 75 | [Ten Dates](games/t/ten_dates.md) | 1.06% |
-| 76 | [Dungeons 3](games/d/dungeons_3.md) | 0.98% |
+| 76 | [Dungeons 3](games/d/dungeons_3.md) | 0.99% |
 | 77 | [Five Dates](games/f/five_dates.md) | 0.90% |
 | 77 | [Sable](games/s/sable.md) | 0.90% |
 | 79 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
