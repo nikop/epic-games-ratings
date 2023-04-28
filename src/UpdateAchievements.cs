@@ -7,6 +7,8 @@ namespace EpicRatingsUpdater
 {
     internal class UpdateAchievements
     {
+        DateTimeOffset newPlayersCutOff = DateTimeOffset.UtcNow.AddDays(-7);
+
         internal UpdateAchievements()
         {
         }
@@ -39,6 +41,11 @@ namespace EpicRatingsUpdater
             );
         }
 
+        GameDbItemEOSHistory? GetComparisonPoint(IEnumerable<GameDbItemEOSHistory> items)
+        {
+            return items.OrderBy(x => x.Time.Subtract(newPlayersCutOff).Duration()).FirstOrDefault();
+        }
+
         public async Task UpdateItem(GameDbItem item)
         {
             var ach = await EpicApi.QueryAchievements(item.ID);
@@ -64,6 +71,19 @@ namespace EpicRatingsUpdater
                             NumProgressed = baseSet.numProgressed,
                             NumCompleted = baseSet.numCompleted,
                         });
+                    }
+
+                    var recent = GetComparisonPoint(item.EosHistory);
+
+                    if (recent != null)
+                    {
+                        item.EOS_NewPlayers = item.EOS_Progressed - recent.NumProgressed;
+                        item.EOS_NewCompleters = item.EOS_Completed - recent.NumCompleted;
+                    }
+                    else
+                    {
+                        item.EOS_NewPlayers = 0;
+                        item.EOS_NewCompleters = 0;
                     }
 
                     if (item.FirstSeenAchievements == null)

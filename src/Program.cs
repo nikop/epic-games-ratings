@@ -218,6 +218,18 @@ MarkdownHelpers.RankItems(
     (x, rank) => x.Ranking_EOS_Completed = rank
 );
 
+MarkdownHelpers.RankItems(
+    items.OrderByDescending(x => x.EOS_NewPlayers),
+    x => x.EOS_NewPlayers,
+    (x, rank) => x.Ranking_EOS_NewPlayers = rank
+);
+
+MarkdownHelpers.RankItems(
+    items.OrderByDescending(x => x.EOS_NewCompleters),
+    x => x.EOS_NewCompleters,
+    (x, rank) => x.Ranking_EOS_NewCompleters = rank
+);
+
 foreach (var item in items)
 {
     await gameIndex.SaveItem(item).ConfigureAwait(false);
@@ -271,6 +283,12 @@ var eosTable = new MarkdownTable<GameDbItem>()
     .AddColumn("Progressed", x => MarkdownHelpers.FormatVotes(x.EOS_Progressed))
     .AddColumn("Completed", x => MarkdownHelpers.FormatVotes(x.EOS_Completed));
 
+var eosNewPlayersTable = new MarkdownTable<GameDbItem>()
+    .AddColumn("#", x => MarkdownHelpers.FormatRanking(x.Ranking_EOS_NewPlayers))
+    .AddColumn("Game", x => $"[{x.Name}]({GamesLink(x)})")
+    .AddColumn("New Players", x => MarkdownHelpers.FormatVotes(x.Ranking_EOS_NewPlayers))
+    .AddColumn("Total", x => MarkdownHelpers.FormatVotes(x.EOS_Progressed));
+
 var eosCompletersTable = new MarkdownTable<GameDbItem>()
     .AddColumn("#", x => MarkdownHelpers.FormatRanking(x.Ranking_EOS_Completed))
     .AddColumn("Game", x => $"[{x.Name}]({GamesLink(x)})")
@@ -301,6 +319,11 @@ await File.WriteAllTextAsync(
 await File.WriteAllTextAsync(
     Path.Combine(path, "eos_achievers.md"),
     eosTable.FormatTable(items.Where(x => x.EOS_Progressed > 0).OrderByDescending(x => x.EOS_Progressed).ThenBy(x => x.Name))
+);
+
+await File.WriteAllTextAsync(
+    Path.Combine(path, "eos_new_players.md"),
+    eosNewPlayersTable.FormatTable(items.Where(x => x.EOS_NewPlayers > 0).OrderByDescending(x => x.EOS_NewPlayers).ThenBy(x => x.Name))
 );
 
 await File.WriteAllTextAsync(

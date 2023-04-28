@@ -26,6 +26,12 @@ namespace EpicRatingsUpdater.GameDatabase
         public int? Ranking_EOS_Completed { get; set; }
 
         [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
+        public int? Ranking_EOS_NewPlayers { get; set; }
+
+        [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
+        public int? Ranking_EOS_NewCompleters { get; set; }
+
+        [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
         public int? NumberOfRatings { get; set; }
 
         [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
@@ -61,6 +67,10 @@ namespace EpicRatingsUpdater.GameDatabase
         public int EOS_Progressed { get; set; }
 
         public int EOS_Completed { get; set; }
+
+        public int EOS_NewPlayers { get; set; }
+
+        public int EOS_NewCompleters { get; set; }
 
         public double EOS_Completed_Percentage { get; set; }
 
