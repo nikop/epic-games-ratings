@@ -190,7 +190,7 @@
 | 177 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 0 | 488 |
 | 177 | [Townscaper](games/t/townscaper.md) | 4.71 | 0 | 488 |
 | 190 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.70 | 0 | 488 |
-| 190 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,500 | 67 |
+| 190 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,502 | 67 |
 | 190 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 0 | 488 |
 | 190 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,125 | 70 |
 | 190 | [For The King](games/f/for_the_king.md) | 4.70 | 359 | 207 |
@@ -241,7 +241,6 @@
 | 231 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 291,988 | 3 |
 | 231 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 162,585 | 5 |
 | 231 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.68 | 27 | 450 |
-| 231 | [High On Life](games/h/high_on_life.md) | 4.68 | 0 | 488 |
 | 231 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 488 |
 | 231 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 410 | 192 |
 | 231 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 551 | 170 |
@@ -254,22 +253,23 @@
 | 231 | [The Pathless](games/t/the_pathless.md) | 4.68 | 0 | 488 |
 | 231 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 84 | 338 |
 | 231 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 0 | 488 |
-| 255 | [Aimlabs](games/a/aimlabs.md) | 4.67 | 0 | 488 |
-| 255 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 639 | 161 |
-| 255 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,484 | 48 |
-| 255 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 488 |
-| 255 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 0 | 488 |
-| 255 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.67 | 0 | 488 |
-| 255 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 0 | 488 |
-| 255 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.67 | 0 | 488 |
-| 255 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,210 | 97 |
-| 255 | [Overcooked](games/o/overcooked.md) | 4.67 | 112 | 309 |
-| 255 | [Returnal™](games/r/returnal™.md) | 4.67 | 20 | 480 |
-| 255 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 488 |
-| 255 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 488 |
-| 255 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,486 | 89 |
-| 255 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 103 | 314 |
-| 255 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 21 | 476 |
+| 254 | [Aimlabs](games/a/aimlabs.md) | 4.67 | 0 | 488 |
+| 254 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 639 | 161 |
+| 254 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,484 | 48 |
+| 254 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 488 |
+| 254 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 0 | 488 |
+| 254 | [High On Life](games/h/high_on_life.md) | 4.67 | 0 | 488 |
+| 254 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.67 | 0 | 488 |
+| 254 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 0 | 488 |
+| 254 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.67 | 0 | 488 |
+| 254 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,210 | 97 |
+| 254 | [Overcooked](games/o/overcooked.md) | 4.67 | 112 | 309 |
+| 254 | [Returnal™](games/r/returnal™.md) | 4.67 | 20 | 480 |
+| 254 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 488 |
+| 254 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 488 |
+| 254 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,486 | 89 |
+| 254 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 103 | 314 |
+| 254 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 21 | 476 |
 | 271 | [APE OUT](games/a/ape_out.md) | 4.66 | 0 | 488 |
 | 271 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 72 | 352 |
 | 271 | [Crashlands](games/c/crashlands.md) | 4.66 | 188 | 261 |
@@ -430,7 +430,7 @@
 | 427 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 0 | 488 |
 | 427 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 0 | 488 |
 | 427 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 150 | 280 |
-| 427 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 6,664 | 46 |
+| 427 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 6,693 | 45 |
 | 427 | [Everything](games/e/everything.md) | 4.57 | 0 | 488 |
 | 427 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 0 | 488 |
 | 427 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 35 | 423 |
@@ -490,7 +490,7 @@
 | 486 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 488 |
 | 486 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,601 | 17 |
 | 486 | [Dead Island 2](games/d/dead_island_2.md) | 4.53 | 992 | 135 |
-| 486 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 137,817 | 6 |
+| 486 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 137,839 | 6 |
 | 486 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 117 | 300 |
 | 486 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 488 |
 | 486 | [RUINER](games/r/ruiner.md) | 4.53 | 23 | 465 |
@@ -648,7 +648,7 @@
 | 641 | [MORDHAU](games/m/mordhau.md) | 4.42 | 30 | 440 |
 | 641 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,100 | 125 |
 | 641 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 30 | 440 |
-| 641 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 45 |
+| 641 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 46 |
 | 641 | [Sheltered](games/s/sheltered.md) | 4.42 | 264 | 234 |
 | 641 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 0 | 488 |
 | 641 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 122 | 296 |
@@ -886,11 +886,11 @@
 | 883 | [Wreckfest](games/w/wreckfest.md) | 3.95 | 0 | 488 |
 | 885 | [Patron](games/p/patron.md) | 3.94 | 0 | 488 |
 | 886 | [Chimeraland](games/c/chimeraland.md) | 3.93 | 0 | 488 |
-| 886 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 193 | 257 |
 | 886 | [Ironcast](games/i/ironcast.md) | 3.93 | 0 | 488 |
 | 886 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 0 | 488 |
-| 890 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 445 |
-| 890 | [Warface](games/w/warface.md) | 3.92 | 384 | 202 |
+| 889 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 445 |
+| 889 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.92 | 193 | 257 |
+| 889 | [Warface](games/w/warface.md) | 3.92 | 384 | 202 |
 | 892 | [Conarium](games/c/conarium.md) | 3.91 | 0 | 488 |
 | 892 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 314 |
 | 894 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 3.90 | 59 | 374 |

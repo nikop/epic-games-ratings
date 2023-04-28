@@ -60,7 +60,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 626
+      "Count": 627
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2749,18 +2749,24 @@
       "Rating": 4.87,
       "NumberOfAwards": 19010,
       "NumberOfAwardsMax": 11316
+    },
+    {
+      "Time": "2023-04-28T05:58:05.3396398+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 19011,
+      "NumberOfAwardsMax": 11316
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T05:00:13.0568189+00:00",
-  "LastUpdate_Ratings": "2023-04-28T04:57:47.6931476+00:00",
-  "LastChanged": "2023-04-27T13:58:00.4907034+00:00",
+  "LastUpdate_Achievements": "2023-04-28T06:01:30.8218963+00:00",
+  "LastUpdate_Ratings": "2023-04-28T05:58:05.3396402+00:00",
+  "LastChanged": "2023-04-28T05:58:05.3396396+00:00",
   "FirstSeenRating": "2022-08-12T21:01:33.6251933+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 11316,
-  "NumberOfAwards": 19010,
+  "NumberOfAwards": 19011,
   "NumberOfRatings": 14015,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 362,
