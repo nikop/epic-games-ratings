@@ -3,7 +3,7 @@
 | 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 0 | 488 |
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 488 |
 | 3 | [Celeste](games/c/celeste.md) | 4.92 | 1,429 | 115 |
-| 3 | [Hades](games/h/hades.md) | 4.92 | 3,015 | 86 |
+| 3 | [Hades](games/h/hades.md) | 4.92 | 3,017 | 86 |
 | 5 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.91 | 20 | 480 |
 | 5 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 0 | 488 |
 | 7 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 0 | 488 |
@@ -347,7 +347,7 @@
 | 334 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 488 |
 | 334 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 102 | 317 |
 | 334 | [Prey](games/p/prey.md) | 4.62 | 5,517 | 57 |
-| 334 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 71 | 355 |
+| 334 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 72 | 352 |
 | 334 | [Transistor](games/t/transistor.md) | 4.62 | 0 | 488 |
 | 334 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.62 | 0 | 488 |
 | 351 | [20XX](games/2/20xx.md) | 4.61 | 36 | 417 |
@@ -545,7 +545,7 @@
 | 528 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 28 | 448 |
 | 544 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 61 | 371 |
 | 544 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.49 | 20 | 480 |
-| 544 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 392 | 198 |
+| 544 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 393 | 198 |
 | 544 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,970 | 102 |
 | 544 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 104 | 311 |
 | 544 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 88 | 333 |

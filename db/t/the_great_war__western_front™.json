@@ -2,7 +2,13 @@
   "ID": "d84e1be6c7764408b3d0f610c84cb8ea",
   "Name": "The Great War: Western Front\u2122",
   "Tags": [],
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-28T17:19:18.7620293+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:31.1456661+00:00",
@@ -15,10 +21,10 @@
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T17:04:10.5307244+00:00",
-  "LastUpdate_Ratings": "2023-04-28T16:58:54.2225791+00:00",
-  "LastChanged_Achievements": "2023-04-28T17:04:10.5307224+00:00",
+  "EOS_Progressed": 2,
+  "LastUpdate_Achievements": "2023-04-28T17:19:18.7620329+00:00",
+  "LastUpdate_Ratings": "2023-04-28T17:14:37.5732412+00:00",
+  "LastChanged_Achievements": "2023-04-28T17:19:18.7620285+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
@@ -27,6 +33,6 @@
   "Ranking_EOS_NewCompleters": 60,
   "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_Progress": 363,
+  "Ranking_EOS_Progress": 328,
   "FirstSeen": "2023-03-30T22:57:31.8125553+00:00"
 }

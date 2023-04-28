@@ -85,7 +85,7 @@
 | 83 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,167 | 4.75 | 126 |
 | 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,152 | 4.59 | 392 |
 | 85 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,018 | 4.57 | 426 |
-| 86 | [Hades](games/h/hades.md) | 3,015 | 4.92 | 3 |
+| 86 | [Hades](games/h/hades.md) | 3,017 | 4.92 | 3 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 2,983 | 4.68 | 231 |
 | 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,491 | 4.77 | 105 |
 | 89 | [Trackmania](games/t/trackmania.md) | 2,490 | 4.67 | 254 |
@@ -197,7 +197,7 @@
 | 195 | [Into the Breach](games/i/into_the_breach.md) | 405 | 4.84 | 49 |
 | 196 | [RimWorld](games/r/rimworld.md) | 402 | 4.89 | 12 |
 | 197 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 398 | 4.74 | 141 |
-| 198 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 392 | 4.49 | 544 |
+| 198 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 393 | 4.49 | 544 |
 | 199 | [Football Manager 2023](games/f/football_manager_2023.md) | 389 | 4.75 | 126 |
 | 199 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 389 | 4.40 | 663 |
 | 201 | [Slime Rancher](games/s/slime_rancher.md) | 385 | 4.83 | 55 |
@@ -354,7 +354,7 @@
 | 352 | [Armored Warfare](games/a/armored_warfare.md) | 72 | 4.11 | 848 |
 | 352 | [Carcassonne](games/c/carcassonne.md) | 72 | 4.66 | 271 |
 | 352 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 72 | 4.41 | 653 |
-| 355 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 71 | 4.62 | 334 |
+| 352 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 72 | 4.62 | 334 |
 | 356 | [Barony](games/b/barony.md) | 70 | 4.71 | 177 |
 | 356 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 70 | 4.32 | 736 |
 | 358 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 69 | 4.68 | 231 |

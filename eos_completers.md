@@ -18,8 +18,8 @@
 | 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.43% |
 | 17 | [Scorn](games/s/scorn.md) | 7.17% |
 | 18 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.50% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.31% |
 | 19 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.28% |
 | 21 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 22 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.88% |
 | 23 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.98% |
@@ -341,6 +341,7 @@
 | 190 | [The Entropy Centre](games/t/the_entropy_centre.md) | 0.00% |
 | 190 | [The Galactic Junkers](games/t/the_galactic_junkers.md) | 0.00% |
 | 190 | [The Gardener and the Wild Vines](games/t/the_gardener_and_the_wild_vines.md) | 0.00% |
+| 190 | [The Great War: Western Front™](games/t/the_great_war__western_front™.md) | 0.00% |
 | 190 | [The Spirit and the Mouse](games/t/the_spirit_and_the_mouse.md) | 0.00% |
 | 190 | [The Tenants](games/t/the_tenants.md) | 0.00% |
 | 190 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 0.00% |
