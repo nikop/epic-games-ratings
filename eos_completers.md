@@ -13,24 +13,24 @@
 | 11 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 12 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.56% |
+| 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.64% |
 | 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.43% |
 | 16 | [Scorn](games/s/scorn.md) | 7.18% |
-| 17 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.67% |
+| 17 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.61% |
 | 18 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 19 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
-| 20 | [Island Cities](games/i/island_cities.md) | 5.88% |
 | 20 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.88% |
-| 22 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
+| 21 | [Island Cities](games/i/island_cities.md) | 5.56% |
+| 22 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.99% |
 | 23 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
 | 24 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.61% |
-| 25 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 4.60% |
-| 26 | [Bugsnax](games/b/bugsnax.md) | 4.59% |
+| 25 | [Bugsnax](games/b/bugsnax.md) | 4.59% |
+| 26 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 4.49% |
 | 27 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
 | 28 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.17% |
 | 29 | [Doodle God](games/d/doodle_god.md) | 4.10% |
 | 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.02% |
-| 31 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
+| 31 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
 | 32 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 33 | [The Complex](games/t/the_complex.md) | 3.59% |
 | 34 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.54% |
@@ -51,7 +51,7 @@
 | 49 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 50 | [Iron Danger](games/i/iron_danger.md) | 2.48% |
 | 51 | [ZZT!](games/z/zzt!.md) | 2.42% |
-| 52 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.25% |
+| 52 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.26% |
 | 53 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 54 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
 | 55 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -105,8 +105,8 @@
 | 103 | [Godlike Burger](games/g/godlike_burger.md) | 0.38% |
 | 104 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 104 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
-| 106 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.36% |
-| 107 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.35% |
+| 106 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.35% |
+| 106 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.35% |
 | 108 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.34% |
 | 109 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
 | 109 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |

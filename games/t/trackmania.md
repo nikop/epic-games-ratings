@@ -1,9 +1,9 @@
 # Trackmania
-Rating: 4.67 (Ranked 254)  
+Rating: 4.67 (Ranked 255)  
 Number of Ratings: 6,825  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Quick Sessions): 2,486  (Ranked 89)  
-Sum: 21,270 (Ranked 51)  
+Sum: 21,275 (Ranked 51)  
 Diff (max vs sum): 38
 ## Awards
 | Award | Count |
@@ -16,8 +16,8 @@ Diff (max vs sum): 38
 | This game is Extremely Fun | 2,129 |
 | This game is Highly Recommended | 2,007 |
 | This game has a Competitive Community | 1,752 |
+| This game has Challenging Combat | 1,344 |
 | This game has Amazing Storytelling | 1,342 |
-| This game has Challenging Combat | 1,339 |
 | This game has Obsessive Gameplay | 1,144 |
 | This game has Amazing Characters | 1,101 |
 ## Ratings History
@@ -118,3 +118,4 @@ Diff (max vs sum): 38
 | 2023-04-25 | 4.67 | - | 2,466 | 21,150 |
 | 2023-04-26 | 4.67 | - | 2,474 | 21,189 |
 | 2023-04-27 | 4.67 | - | 2,486 | 21,270 |
+| 2023-04-28 | 4.67 | - | 2,486 | 21,275 |

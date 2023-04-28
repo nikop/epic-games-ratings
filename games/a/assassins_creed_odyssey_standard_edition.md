@@ -1,15 +1,15 @@
 # Assassins Creed Odyssey Standard Edition
-Rating: 4.75 (Ranked 127)  
+Rating: 4.75 (Ranked 126)  
 Number of Ratings: 5,481  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 4,793  (Ranked 63)  
-Sum: 11,614 (Ranked 73)  
+Sum: 11,619 (Ranked 73)  
 Diff (max vs sum): -10
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 4,793 |
-| This game has Great Boss Battles | 3,046 |
+| This game has Great Boss Battles | 3,051 |
 | This game has Amazing Characters | 422 |
 | This game is Great for Beginners | 410 |
 | This game is Educational | 405 |
@@ -123,3 +123,4 @@ Diff (max vs sum): -10
 | 2023-04-25 | 4.75 | - | 4,773 | 11,576 |
 | 2023-04-26 | 4.75 | - | 4,779 | 11,593 |
 | 2023-04-27 | 4.75 | - | 4,793 | 11,614 |
+| 2023-04-28 | 4.75 | - | 4,793 | 11,619 |

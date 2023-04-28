@@ -485,8 +485,8 @@
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T00:03:57.5183802+00:00",
-  "LastUpdate_Ratings": "2023-04-27T23:58:47.2970213+00:00",
+  "LastUpdate_Achievements": "2023-04-28T02:05:24.9263941+00:00",
+  "LastUpdate_Ratings": "2023-04-28T02:00:14.1192965+00:00",
   "LastChanged": "2023-04-20T11:57:01.4456318+00:00",
   "MaxAwardTitle": "Amazing Storytelling",
   "NumberOfAwardsMax": 24,
@@ -496,7 +496,7 @@
   "Ranking_EOS_Progress": 362,
   "Ranking_PopularitySum": 401,
   "Ranking_Popularity": 463,
-  "Ranking_Rating": 127,
+  "Ranking_Rating": 126,
   "Rating": 4.75,
   "FirstSeen": "2022-07-22T20:18:28.9665726+00:00"
 }

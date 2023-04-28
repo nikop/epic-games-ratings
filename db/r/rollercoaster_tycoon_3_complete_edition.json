@@ -54,7 +54,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 44
+      "Count": 45
     },
     {
       "Text": "This game has Diverse Characters",
@@ -890,17 +890,23 @@
       "Rating": 4.65,
       "NumberOfAwards": 413,
       "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2023-04-28T02:01:09.6068607+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 414,
+      "NumberOfAwardsMax": 51
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T00:04:39.2653876+00:00",
-  "LastUpdate_Ratings": "2023-04-27T23:59:27.2067729+00:00",
-  "LastChanged": "2023-04-23T22:58:05.405654+00:00",
+  "LastUpdate_Achievements": "2023-04-28T02:06:23.1976354+00:00",
+  "LastUpdate_Ratings": "2023-04-28T02:01:09.6068611+00:00",
+  "LastChanged": "2023-04-28T02:01:09.6068604+00:00",
   "MaxAwardTitle": "Relaxing",
   "NumberOfAwardsMax": 51,
-  "NumberOfAwards": 413,
+  "NumberOfAwards": 414,
   "NumberOfRatings": 687,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 362,
