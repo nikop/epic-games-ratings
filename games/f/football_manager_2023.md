@@ -1,11 +1,11 @@
 # Football Manager 2023
 Rating: 4.75 (Ranked 126)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 389  (Ranked 199)  
-Sum: 3,161 (Ranked 144)  
-Diff (max vs sum): 55
+Max (Diverse Characters): 393  (Ranked 198)  
+Sum: 3,165 (Ranked 144)  
+Diff (max vs sum): 54
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,636 (Ranked 65)  
+Progressed: 60,645 (Ranked 65)  
 Completed: 14 (0.02%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -13,11 +13,11 @@ Completed: 14 (0.02%) (Ranked 173)
 | 2023-04-25 | 60,236 | 14 |
 | 2023-04-26 | 60,362 | 14 |
 | 2023-04-27 | 60,506 | 14 |
-| 2023-04-28 | 60,636 | 14 |
+| 2023-04-28 | 60,645 | 14 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 389 |
+| This game has Diverse Characters | 393 |
 | This game is Highly Recommended | 353 |
 | This game is Extremely Fun | 347 |
 | This game is Educational | 346 |
@@ -91,4 +91,4 @@ Completed: 14 (0.02%) (Ranked 173)
 | 2023-04-25 | 4.75 | 385 | 3,123 |
 | 2023-04-26 | 4.75 | 385 | 3,138 |
 | 2023-04-27 | 4.75 | 389 | 3,150 |
-| 2023-04-28 | 4.75 | 389 | 3,161 |
+| 2023-04-28 | 4.75 | 393 | 3,165 |

@@ -1,12 +1,12 @@
 # PC Building Simulator
-Rating: 4.66 (Ranked 271)  
+Rating: 4.66 (Ranked 272)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 1,030  (Ranked 130)  
 Sum: 7,714 (Ranked 92)  
 Diff (max vs sum): 38
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,490,828 (Ranked 3)  
+Progressed: 3,490,848 (Ranked 3)  
 Completed: 21 (0.00%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -14,7 +14,7 @@ Completed: 21 (0.00%) (Ranked 190)
 | 2023-04-25 | 3,489,754 | 21 |
 | 2023-04-26 | 3,490,121 | 21 |
 | 2023-04-27 | 3,490,490 | 21 |
-| 2023-04-28 | 3,490,828 | 21 |
+| 2023-04-28 | 3,490,848 | 21 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

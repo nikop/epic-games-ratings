@@ -1,12 +1,12 @@
 # AER Memories of Old
-Rating: 4.46 (Ranked 587)  
+Rating: 4.46 (Ranked 588)  
 Number of Ratings: 170  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,964 (Ranked 108)  
+Progressed: 7,973 (Ranked 108)  
 Completed: 181 (2.27%) (Ranked 52)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -14,7 +14,7 @@ Completed: 181 (2.27%) (Ranked 52)
 | 2023-04-25 | 7,765 | 175 |
 | 2023-04-26 | 7,830 | 176 |
 | 2023-04-27 | 7,894 | 178 |
-| 2023-04-28 | 7,964 | 181 |
+| 2023-04-28 | 7,973 | 181 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
