@@ -66,7 +66,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 12796
+      "Count": 12826
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -5057,17 +5057,23 @@
       "Rating": 4.89,
       "NumberOfAwards": 347197,
       "NumberOfAwardsMax": 136613
+    },
+    {
+      "Time": "2023-04-28T09:34:05.261597+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 347227,
+      "NumberOfAwardsMax": 136613
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T09:04:09.6400356+00:00",
-  "LastUpdate_Ratings": "2023-04-28T08:59:09.1099023+00:00",
-  "LastChanged": "2023-04-28T08:59:09.1099014+00:00",
+  "LastUpdate_Achievements": "2023-04-28T09:39:22.5921242+00:00",
+  "LastUpdate_Ratings": "2023-04-28T09:34:05.2615978+00:00",
+  "LastChanged": "2023-04-28T09:34:05.2615968+00:00",
   "MaxAwardTitle": "Impact the Story",
   "NumberOfAwardsMax": 136613,
-  "NumberOfAwards": 347197,
+  "NumberOfAwards": 347227,
   "NumberOfRatings": 102658,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 362,

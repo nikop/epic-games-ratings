@@ -20,13 +20,13 @@
 | 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 18,079 | 4.78 | 100 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,043 | 4.57 | 427 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 14,781 | 4.89 | 12 |
-| 21 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,324 | 4.58 | 408 |
-| 22 | [Warframe](games/w/warframe.md) | 14,304 | 4.61 | 351 |
+| 21 | [Warframe](games/w/warframe.md) | 14,343 | 4.61 | 351 |
+| 22 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,324 | 4.58 | 408 |
 | 23 | [Borderlands 2](games/b/borderlands_2.md) | 14,014 | 4.76 | 116 |
 | 24 | [Maneater](games/m/maneater.md) | 13,411 | 4.49 | 543 |
 | 25 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,203 | 4.60 | 377 |
 | 26 | [League of Legends](games/l/league_of_legends.md) | 12,759 | 4.21 | 796 |
-| 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,270 | 4.37 | 694 |
+| 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,278 | 4.37 | 694 |
 | 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,832 | 4.41 | 653 |
 | 29 | [NBA 2K21](games/n/nba_2k21.md) | 11,642 | 4.39 | 674 |
 | 30 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 11,559 | 4.60 | 377 |
@@ -276,8 +276,8 @@
 | 274 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 168 | 4.30 | 748 |
 | 275 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 164 | 4.65 | 287 |
 | 276 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 162 | 4.38 | 685 |
-| 277 | [Mothergunship](games/m/mothergunship.md) | 161 | 4.38 | 685 |
-| 277 | [Severed Steel](games/s/severed_steel.md) | 161 | 4.68 | 231 |
+| 276 | [Severed Steel](games/s/severed_steel.md) | 162 | 4.68 | 231 |
+| 278 | [Mothergunship](games/m/mothergunship.md) | 161 | 4.38 | 685 |
 | 279 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 158 | 4.80 | 79 |
 | 280 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 150 | 4.57 | 427 |
 | 281 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 149 | 4.65 | 287 |

@@ -246,7 +246,7 @@
 | 231 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 554 | 169 |
 | 231 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 660 | 158 |
 | 231 | [Revita](games/r/revita.md) | 4.68 | 0 | 488 |
-| 231 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 161 | 277 |
+| 231 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 162 | 276 |
 | 231 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 30 | 440 |
 | 231 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.68 | 0 | 488 |
 | 231 | [The Machines Arena](games/t/the_machines_arena.md) | 4.68 | 0 | 488 |
@@ -374,7 +374,7 @@
 | 351 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 266 | 232 |
 | 351 | [Supraland](games/s/supraland.md) | 4.61 | 7,599 | 40 |
 | 351 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 62 | 369 |
-| 351 | [Warframe](games/w/warframe.md) | 4.61 | 14,304 | 22 |
+| 351 | [Warframe](games/w/warframe.md) | 4.61 | 14,343 | 21 |
 | 351 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 0 | 488 |
 | 377 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,559 | 30 |
 | 377 | [Control](games/c/control.md) | 4.60 | 8,244 | 38 |
@@ -425,7 +425,7 @@
 | 408 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 967 | 139 |
 | 408 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,007 | 52 |
 | 408 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 204 | 252 |
-| 408 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,324 | 21 |
+| 408 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,324 | 22 |
 | 427 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.57 | 0 | 488 |
 | 427 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 0 | 488 |
 | 427 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 0 | 488 |
@@ -690,12 +690,12 @@
 | 685 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 0 | 488 |
 | 685 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.38 | 0 | 488 |
 | 685 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 162 | 276 |
-| 685 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 161 | 277 |
+| 685 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 161 | 278 |
 | 685 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 0 | 488 |
 | 685 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 488 |
 | 694 | [Beyond Blue](games/b/beyond_blue.md) | 4.37 | 0 | 488 |
 | 694 | [Core](games/c/core.md) | 4.37 | 726 | 152 |
-| 694 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 12,270 | 27 |
+| 694 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 12,278 | 27 |
 | 694 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.37 | 0 | 488 |
 | 694 | [Hammerting](games/h/hammerting.md) | 4.37 | 0 | 488 |
 | 694 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,130 | 100 |

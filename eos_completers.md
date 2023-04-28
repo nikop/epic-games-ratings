@@ -21,7 +21,7 @@
 | 19 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 20 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 21 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.88% |
-| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 5.76% |
+| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 5.73% |
 | 23 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.99% |
 | 24 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
 | 25 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.61% |
@@ -241,7 +241,7 @@
 | 190 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 0.00% |
 | 190 | [Fabular: Once Upon a Spacetime](games/f/fabular__once_upon_a_spacetime.md) | 0.00% |
 | 190 | [Faraday Protocol](games/f/faraday_protocol.md) | 0.00% |
-| 190 | [Filthy Animals | Heist Simulator](games/f/filthy_animals___heist_simulator.md) | 0.00% |
+| 190 | [Filthy Animals \| Heist Simulator](games/f/filthy_animals___heist_simulator.md) | 0.00% |
 | 190 | [Flat Heroes](games/f/flat_heroes.md) | 0.00% |
 | 190 | [Football Manager 2022](games/f/football_manager_2022.md) | 0.00% |
 | 190 | [Foretales](games/f/foretales.md) | 0.00% |

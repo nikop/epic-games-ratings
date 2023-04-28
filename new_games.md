@@ -66,7 +66,7 @@
 | [Book of Demons](games/b/book_of_demons.md) | - | - | 0 | - |
 | [Tear of Time - Lost memory](games/t/tear_of_time_-_lost_memory.md) | - | - | 0 | - |
 | [Wall World](games/w/wall_world.md) | - | - | 0 | - |
-| [Filthy Animals | Heist Simulator](games/f/filthy_animals___heist_simulator.md) | - | - | 0 | - |
+| [Filthy Animals \| Heist Simulator](games/f/filthy_animals___heist_simulator.md) | - | - | 0 | - |
 | [Vagrus - The Riven Realms](games/v/vagrus_-_the_riven_realms.md) | - | - | 0 | - |
 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | - | - | 0 | - |
 | [Farm Day 2023](games/f/farm_day_2023.md) | - | - | 0 | - |
