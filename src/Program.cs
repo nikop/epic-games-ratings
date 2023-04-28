@@ -286,7 +286,7 @@ var eosTable = new MarkdownTable<GameDbItem>()
 var eosNewPlayersTable = new MarkdownTable<GameDbItem>()
     .AddColumn("#", x => MarkdownHelpers.FormatRanking(x.Ranking_EOS_NewPlayers))
     .AddColumn("Game", x => $"[{x.Name}]({GamesLink(x)})")
-    .AddColumn("New Players", x => MarkdownHelpers.FormatVotes(x.Ranking_EOS_NewPlayers))
+    .AddColumn("New Players", x => MarkdownHelpers.FormatVotes(x.EOS_NewPlayers))
     .AddColumn("Total", x => MarkdownHelpers.FormatVotes(x.EOS_Progressed));
 
 var eosCompletersTable = new MarkdownTable<GameDbItem>()
