@@ -54,7 +54,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 194
+      "Count": 195
     },
     {
       "Text": "This game is Relaxing",
@@ -399,6 +399,11 @@
     {
       "Time": "2023-04-28T22:03:44.0438045+00:00",
       "NumProgressed": 21136,
+      "NumCompleted": 40
+    },
+    {
+      "Time": "2023-04-28T23:05:24.3552779+00:00",
+      "NumProgressed": 21139,
       "NumCompleted": 40
     }
   ],
@@ -1050,22 +1055,28 @@
       "Rating": 4.49,
       "NumberOfAwards": 2003,
       "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-04-28T22:59:57.8991463+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2004,
+      "NumberOfAwardsMax": 223
     }
   ],
   "EOS_Completed_Percentage": 0.19,
   "EOS_NewCompleters": 3,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 197,
   "EOS_Completed": 40,
-  "EOS_Progressed": 21136,
-  "LastUpdate_Achievements": "2023-04-28T22:03:44.0438097+00:00",
-  "LastUpdate_Ratings": "2023-04-28T21:58:59.0278249+00:00",
-  "LastChanged_Achievements": "2023-04-28T22:03:44.0438039+00:00",
-  "LastChanged": "2023-04-28T17:58:55.9122057+00:00",
+  "EOS_Progressed": 21139,
+  "LastUpdate_Achievements": "2023-04-28T23:05:24.3552843+00:00",
+  "LastUpdate_Ratings": "2023-04-28T22:59:57.8991467+00:00",
+  "LastChanged_Achievements": "2023-04-28T23:05:24.3552773+00:00",
+  "LastChanged": "2023-04-28T22:59:57.899146+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "MaxAwardTitle": "Great for Quick Sessions",
   "NumberOfAwardsMax": 223,
-  "NumberOfAwards": 2003,
+  "NumberOfAwards": 2004,
   "Ranking_EOS_NewCompleters": 23,
   "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_Completed": 129,

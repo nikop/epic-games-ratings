@@ -7,7 +7,7 @@
 | 5 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 6 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
 | 7 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 11.72% |
-| 8 | [Ravenlok](games/r/ravenlok.md) | 11.11% |
+| 8 | [Ravenlok](games/r/ravenlok.md) | 10.91% |
 | 9 | [Smelter](games/s/smelter.md) | 10.34% |
 | 10 | [Time Loader](games/t/time_loader.md) | 8.51% |
 | 11 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
@@ -16,10 +16,10 @@
 | 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.56% |
 | 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.43% |
 | 16 | [Scorn](games/s/scorn.md) | 7.17% |
-| 17 | [Island Cities](games/i/island_cities.md) | 7.14% |
-| 18 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.50% |
+| 17 | [Island Cities](games/i/island_cities.md) | 6.90% |
+| 18 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.45% |
 | 19 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.25% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.17% |
 | 21 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 22 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.88% |
 | 23 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.97% |
@@ -81,8 +81,8 @@
 | 79 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
 | 79 | [Hades](games/h/hades.md) | 0.89% |
 | 81 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.88% |
-| 82 | [Lemon Cake](games/l/lemon_cake.md) | 0.87% |
-| 83 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.84% |
+| 82 | [Lemon Cake](games/l/lemon_cake.md) | 0.86% |
+| 83 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.83% |
 | 84 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
 | 85 | [Adios](games/a/adios.md) | 0.77% |
 | 86 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
@@ -92,7 +92,7 @@
 | 90 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
 | 91 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.64% |
 | 92 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
-| 93 | [Ghostrunner](games/g/ghostrunner.md) | 0.59% |
+| 93 | [Ghostrunner](games/g/ghostrunner.md) | 0.58% |
 | 94 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.53% |
 | 95 | [Grindstone](games/g/grindstone.md) | 0.52% |
 | 96 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.51% |
@@ -132,9 +132,9 @@
 | 129 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
 | 131 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.18% |
 | 132 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
-| 132 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.17% |
-| 134 | [HITMAN 3](games/h/hitman_3.md) | 0.16% |
-| 134 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
+| 133 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.16% |
+| 133 | [HITMAN 3](games/h/hitman_3.md) | 0.16% |
+| 133 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
 | 136 | [RAILGRADE](games/r/railgrade.md) | 0.15% |
 | 137 | [Gotham Knights](games/g/gotham_knights.md) | 0.14% |
 | 137 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.14% |
