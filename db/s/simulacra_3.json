@@ -2,15 +2,25 @@
   "ID": "19de88bcf4d34a1789cd72c87e3dd4ad",
   "Name": "SIMULACRA 3",
   "Tags": [],
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-28T17:06:22.8365332+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [],
   "EOS_Completed_Percentage": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T16:04:55.0310591+00:00",
-  "LastUpdate_Ratings": "2023-04-28T15:59:55.5736098+00:00",
-  "LastChanged_Achievements": "2023-04-28T16:04:55.0310589+00:00",
+  "EOS_Progressed": 1,
+  "LastUpdate_Achievements": "2023-04-28T17:06:22.8365364+00:00",
+  "LastUpdate_Ratings": "2023-04-28T17:01:29.3967732+00:00",
+  "LastChanged_Achievements": "2023-04-28T17:06:22.8365325+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:54.4298666+00:00",
+  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_Progress": 362
+  "Ranking_EOS_Progress": 341
 }
