@@ -340,6 +340,46 @@
       "Time": "2023-04-28T09:01:00.5425279+00:00",
       "NumProgressed": 306135,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-04-28T09:36:03.5408167+00:00",
+      "NumProgressed": 306150,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-04-28T10:01:39.0396661+00:00",
+      "NumProgressed": 306158,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-04-28T11:01:47.8948402+00:00",
+      "NumProgressed": 306173,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-04-28T12:01:56.0211876+00:00",
+      "NumProgressed": 306192,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-04-28T13:05:35.2883782+00:00",
+      "NumProgressed": 306214,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-04-28T14:01:04.8137598+00:00",
+      "NumProgressed": 306235,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-04-28T15:00:50.1261104+00:00",
+      "NumProgressed": 306266,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-04-28T16:00:39.3872449+00:00",
+      "NumProgressed": 306289,
+      "NumCompleted": 3
     }
   ],
   "RatingHistory": [
@@ -578,10 +618,10 @@
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 3,
-  "EOS_Progressed": 306135,
-  "LastUpdate_Achievements": "2023-04-28T09:01:00.5425295+00:00",
-  "LastUpdate_Ratings": "2023-04-28T08:57:42.5444221+00:00",
-  "LastChanged_Achievements": "2023-04-28T09:01:00.5425265+00:00",
+  "EOS_Progressed": 306289,
+  "LastUpdate_Achievements": "2023-04-28T16:00:39.3872453+00:00",
+  "LastUpdate_Ratings": "2023-04-28T15:57:24.372219+00:00",
+  "LastChanged_Achievements": "2023-04-28T16:00:39.3872433+00:00",
   "LastChanged": "2023-04-24T16:57:07.0761548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
@@ -592,7 +632,7 @@
   "Ranking_EOS_Progress": 36,
   "Ranking_PopularitySum": 437,
   "Ranking_Popularity": 470,
-  "Ranking_Rating": 774,
+  "Ranking_Rating": 773,
   "Rating": 4.25,
   "FirstSeen": "2022-08-11T21:00:23.9390359+00:00"
 }

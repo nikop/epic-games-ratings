@@ -60,7 +60,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 294
+      "Count": 297
     },
     {
       "Text": "This game has Amazing Characters",
@@ -84,7 +84,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 407
+      "Count": 412
     }
   ],
   "EosHistory": [],
@@ -1568,23 +1568,35 @@
       "Rating": 4.5,
       "NumberOfAwards": 7483,
       "NumberOfAwardsMax": 2241
+    },
+    {
+      "Time": "2023-04-28T14:58:20.4882116+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 7486,
+      "NumberOfAwardsMax": 2241
+    },
+    {
+      "Time": "2023-04-28T15:58:05.8539025+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 7491,
+      "NumberOfAwardsMax": 2241
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T09:03:21.3233822+00:00",
-  "LastUpdate_Ratings": "2023-04-28T08:58:26.4020328+00:00",
-  "LastChanged": "2023-04-28T07:58:19.826885+00:00",
+  "LastUpdate_Achievements": "2023-04-28T16:03:10.8165033+00:00",
+  "LastUpdate_Ratings": "2023-04-28T15:58:05.8539029+00:00",
+  "LastChanged": "2023-04-28T15:58:05.8539024+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 2241,
-  "NumberOfAwards": 7483,
+  "NumberOfAwards": 7491,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 362,
   "Ranking_PopularitySum": 94,
   "Ranking_Popularity": 94,
-  "Ranking_Rating": 527,
+  "Ranking_Rating": 528,
   "Rating": 4.5,
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00"
 }

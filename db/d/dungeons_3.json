@@ -36,7 +36,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 276
+      "Count": 278
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -399,6 +399,46 @@
       "Time": "2023-04-28T09:04:18.2234756+00:00",
       "NumProgressed": 13733,
       "NumCompleted": 134
+    },
+    {
+      "Time": "2023-04-28T09:39:31.2187862+00:00",
+      "NumProgressed": 13736,
+      "NumCompleted": 134
+    },
+    {
+      "Time": "2023-04-28T10:04:37.4963584+00:00",
+      "NumProgressed": 13737,
+      "NumCompleted": 134
+    },
+    {
+      "Time": "2023-04-28T11:04:26.105252+00:00",
+      "NumProgressed": 13742,
+      "NumCompleted": 135
+    },
+    {
+      "Time": "2023-04-28T12:04:35.5984703+00:00",
+      "NumProgressed": 13744,
+      "NumCompleted": 135
+    },
+    {
+      "Time": "2023-04-28T13:08:41.7054617+00:00",
+      "NumProgressed": 13748,
+      "NumCompleted": 135
+    },
+    {
+      "Time": "2023-04-28T14:03:48.4047905+00:00",
+      "NumProgressed": 13760,
+      "NumCompleted": 135
+    },
+    {
+      "Time": "2023-04-28T15:04:19.3734413+00:00",
+      "NumProgressed": 13771,
+      "NumCompleted": 135
+    },
+    {
+      "Time": "2023-04-28T16:03:48.559146+00:00",
+      "NumProgressed": 13779,
+      "NumCompleted": 135
     }
   ],
   "RatingHistory": [
@@ -2214,19 +2254,25 @@
       "Rating": 4.65,
       "NumberOfAwards": 2506,
       "NumberOfAwardsMax": 318
+    },
+    {
+      "Time": "2023-04-28T14:59:06.9579919+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 2508,
+      "NumberOfAwardsMax": 318
     }
   ],
   "EOS_Completed_Percentage": 0.98,
-  "EOS_Completed": 134,
-  "EOS_Progressed": 13733,
-  "LastUpdate_Achievements": "2023-04-28T09:04:18.2234763+00:00",
-  "LastUpdate_Ratings": "2023-04-28T08:59:16.4139345+00:00",
-  "LastChanged_Achievements": "2023-04-28T09:04:18.2234749+00:00",
-  "LastChanged": "2023-04-27T15:00:38.1408672+00:00",
+  "EOS_Completed": 135,
+  "EOS_Progressed": 13779,
+  "LastUpdate_Achievements": "2023-04-28T16:03:48.5591466+00:00",
+  "LastUpdate_Ratings": "2023-04-28T15:58:53.6718544+00:00",
+  "LastChanged_Achievements": "2023-04-28T16:03:48.5591455+00:00",
+  "LastChanged": "2023-04-28T14:59:06.9579917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 318,
-  "NumberOfAwards": 2506,
+  "NumberOfAwards": 2508,
   "NumberOfRatings": 1635,
   "Ranking_EOS_Completed": 76,
   "Ranking_EOS_Progress": 97,

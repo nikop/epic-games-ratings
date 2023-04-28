@@ -1,12 +1,12 @@
 # Chorus
-Rating: 4.47 (Ranked 576)  
+Rating: 4.47 (Ranked 575)  
 Number of Ratings: 58  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 32  (Ranked 431)  
 Sum: 32 (Ranked 451)  
 Diff (max vs sum): -20
 ## Popularity (Based on EOS Achievements)
-Progressed: 831 (Ranked 164)  
+Progressed: 832 (Ranked 164)  
 Completed: 11 (1.32%) (Ranked 68)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -14,6 +14,7 @@ Completed: 11 (1.32%) (Ranked 68)
 | 2023-04-25 | 826 | 11 |
 | 2023-04-26 | 829 | 11 |
 | 2023-04-27 | 831 | 11 |
+| 2023-04-28 | 832 | 11 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

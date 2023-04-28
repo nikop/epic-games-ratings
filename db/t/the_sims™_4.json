@@ -12,7 +12,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 130
+      "Count": 136
     },
     {
       "Text": "This game has Diverse Characters",
@@ -30,7 +30,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 66
+      "Count": 71
     },
     {
       "Text": "This game is Highly Recommended",
@@ -42,7 +42,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 62
+      "Count": 66
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1184,22 +1184,34 @@
       "Rating": 4.6,
       "NumberOfAwards": 856,
       "NumberOfAwardsMax": 132
+    },
+    {
+      "Time": "2023-04-28T11:57:19.4368671+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 862,
+      "NumberOfAwardsMax": 136
+    },
+    {
+      "Time": "2023-04-28T13:57:08.1458743+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 871,
+      "NumberOfAwardsMax": 136
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T09:02:18.9226003+00:00",
-  "LastUpdate_Ratings": "2023-04-28T08:57:26.5501487+00:00",
-  "LastChanged": "2023-04-28T02:57:31.4817179+00:00",
+  "LastUpdate_Achievements": "2023-04-28T16:02:12.7780731+00:00",
+  "LastUpdate_Ratings": "2023-04-28T15:57:09.039394+00:00",
+  "LastChanged": "2023-04-28T13:57:08.1458741+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "MaxAwardTitle": "Diverse Characters",
-  "NumberOfAwardsMax": 132,
-  "NumberOfAwards": 856,
+  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwardsMax": 136,
+  "NumberOfAwards": 871,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 362,
-  "Ranking_PopularitySum": 238,
-  "Ranking_Popularity": 289,
+  "Ranking_PopularitySum": 236,
+  "Ranking_Popularity": 287,
   "Ranking_Rating": 377,
   "Rating": 4.6,
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00"

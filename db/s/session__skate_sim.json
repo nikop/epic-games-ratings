@@ -48,7 +48,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game has Diverse Characters",
@@ -60,7 +60,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game has Challenging Combat",
@@ -612,23 +612,35 @@
       "Rating": 4.65,
       "NumberOfAwards": 398,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-04-28T11:59:30.2915436+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 399,
+      "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-04-28T13:03:30.9160481+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 400,
+      "NumberOfAwardsMax": 48
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 1910,
-  "LastUpdate_Achievements": "2023-04-28T09:00:53.5966883+00:00",
-  "LastUpdate_Ratings": "2023-04-28T08:59:11.753889+00:00",
-  "LastChanged_Achievements": "2023-04-28T09:00:53.5966867+00:00",
-  "LastChanged": "2023-04-26T14:59:09.3569953+00:00",
+  "LastUpdate_Achievements": "2023-04-28T16:00:33.7246184+00:00",
+  "LastUpdate_Ratings": "2023-04-28T15:58:46.9221678+00:00",
+  "LastChanged_Achievements": "2023-04-28T16:00:33.7246173+00:00",
+  "LastChanged": "2023-04-28T13:03:30.9160479+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "MaxAwardTitle": "Highly Recommended",
   "NumberOfAwardsMax": 48,
-  "NumberOfAwards": 398,
+  "NumberOfAwards": 400,
   "NumberOfRatings": 111,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 140,
-  "Ranking_PopularitySum": 299,
+  "Ranking_PopularitySum": 298,
   "Ranking_Popularity": 387,
   "Ranking_Rating": 287,
   "Rating": 4.65,

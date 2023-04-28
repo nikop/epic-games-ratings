@@ -1,17 +1,17 @@
 # Armored Warfare
-Rating: 4.11 (Ranked 849)  
+Rating: 4.11 (Ranked 848)  
 Number of Ratings: 458  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 72  (Ranked 352)  
-Sum: 565 (Ranked 283)  
+Max (Relaxing): 72  (Ranked 352)  
+Sum: 568 (Ranked 283)  
 Diff (max vs sum): 69
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 72 |
-| This game is Relaxing | 71 |
+| This game is Relaxing | 72 |
+| This game has Diverse Characters | 65 |
 | This game has Amazing Storytelling | 64 |
-| This game has Diverse Characters | 63 |
 | This game is Highly Recommended | 62 |
 | This game has Quickly Understood Controls | 61 |
 | This game is Great for Quick Sessions | 61 |
@@ -131,3 +131,4 @@ Diff (max vs sum): 69
 | 2023-04-25 | 4.11 | - | 71 | 561 |
 | 2023-04-26 | 4.11 | - | 71 | 563 |
 | 2023-04-27 | 4.11 | - | 72 | 565 |
+| 2023-04-28 | 4.11 | - | 72 | 568 |

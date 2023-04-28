@@ -12,7 +12,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3901
+      "Count": 3918
     },
     {
       "Text": "This game is Extremely Fun",
@@ -36,7 +36,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 542
+      "Count": 545
     },
     {
       "Text": "This game is Highly Recommended",
@@ -48,13 +48,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 533
+      "Count": 538
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 523
+      "Count": 525
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -72,7 +72,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 420
+      "Count": 424
     }
   ],
   "EosHistory": [
@@ -404,6 +404,46 @@
     {
       "Time": "2023-04-28T09:05:13.2157238+00:00",
       "NumProgressed": 532110,
+      "NumCompleted": 45
+    },
+    {
+      "Time": "2023-04-28T09:40:27.2059022+00:00",
+      "NumProgressed": 532128,
+      "NumCompleted": 45
+    },
+    {
+      "Time": "2023-04-28T10:05:42.0604658+00:00",
+      "NumProgressed": 532137,
+      "NumCompleted": 45
+    },
+    {
+      "Time": "2023-04-28T11:05:31.0580699+00:00",
+      "NumProgressed": 532167,
+      "NumCompleted": 45
+    },
+    {
+      "Time": "2023-04-28T12:05:40.8513099+00:00",
+      "NumProgressed": 532208,
+      "NumCompleted": 45
+    },
+    {
+      "Time": "2023-04-28T13:09:38.0104497+00:00",
+      "NumProgressed": 532260,
+      "NumCompleted": 45
+    },
+    {
+      "Time": "2023-04-28T14:04:54.0986775+00:00",
+      "NumProgressed": 532317,
+      "NumCompleted": 45
+    },
+    {
+      "Time": "2023-04-28T15:05:04.4664644+00:00",
+      "NumProgressed": 532369,
+      "NumCompleted": 45
+    },
+    {
+      "Time": "2023-04-28T16:04:44.1235179+00:00",
+      "NumProgressed": 532443,
       "NumCompleted": 45
     }
   ],
@@ -4173,25 +4213,43 @@
       "Rating": 4.57,
       "NumberOfAwards": 15407,
       "NumberOfAwardsMax": 6693
+    },
+    {
+      "Time": "2023-04-28T13:04:35.9141393+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 15433,
+      "NumberOfAwardsMax": 6693
+    },
+    {
+      "Time": "2023-04-28T14:59:57.6092349+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 15435,
+      "NumberOfAwardsMax": 6693
+    },
+    {
+      "Time": "2023-04-28T15:59:42.6148188+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 15438,
+      "NumberOfAwardsMax": 6693
     }
   ],
   "EOS_Completed_Percentage": 0.01,
   "EOS_Completed": 45,
-  "EOS_Progressed": 532110,
-  "LastUpdate_Achievements": "2023-04-28T09:05:13.2157244+00:00",
-  "LastUpdate_Ratings": "2023-04-28T09:00:08.7189595+00:00",
-  "LastChanged_Achievements": "2023-04-28T09:05:13.215723+00:00",
-  "LastChanged": "2023-04-28T06:00:03.8287632+00:00",
+  "EOS_Progressed": 532443,
+  "LastUpdate_Achievements": "2023-04-28T16:04:44.1235184+00:00",
+  "LastUpdate_Ratings": "2023-04-28T15:59:42.6148193+00:00",
+  "LastChanged_Achievements": "2023-04-28T16:04:44.1235175+00:00",
+  "LastChanged": "2023-04-28T15:59:42.6148186+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 6693,
-  "NumberOfAwards": 15407,
+  "NumberOfAwards": 15438,
   "NumberOfRatings": 7305,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_Progress": 22,
   "Ranking_PopularitySum": 58,
   "Ranking_Popularity": 45,
-  "Ranking_Rating": 427,
+  "Ranking_Rating": 426,
   "Rating": 4.57,
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00"
 }

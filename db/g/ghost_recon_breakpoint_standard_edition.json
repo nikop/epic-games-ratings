@@ -12,7 +12,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1010
+      "Count": 1012
     },
     {
       "Text": "This game has Amazing Characters",
@@ -60,7 +60,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 698
+      "Count": 699
     }
   ],
   "EosHistory": [],
@@ -3442,17 +3442,29 @@
       "Rating": 4.54,
       "NumberOfAwards": 7794,
       "NumberOfAwardsMax": 1010
+    },
+    {
+      "Time": "2023-04-28T13:57:07.9751786+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 7796,
+      "NumberOfAwardsMax": 1012
+    },
+    {
+      "Time": "2023-04-28T14:57:23.657631+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 7797,
+      "NumberOfAwardsMax": 1012
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T09:02:19.69311+00:00",
-  "LastUpdate_Ratings": "2023-04-28T08:57:26.356873+00:00",
-  "LastChanged": "2023-04-28T07:57:20.8769141+00:00",
+  "LastUpdate_Achievements": "2023-04-28T16:02:13.4458905+00:00",
+  "LastUpdate_Ratings": "2023-04-28T15:57:08.8882884+00:00",
+  "LastChanged": "2023-04-28T14:57:23.6576308+00:00",
   "MaxAwardTitle": "Great for Beginners",
-  "NumberOfAwardsMax": 1010,
-  "NumberOfAwards": 7794,
+  "NumberOfAwardsMax": 1012,
+  "NumberOfAwards": 7797,
   "NumberOfRatings": 4870,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 362,

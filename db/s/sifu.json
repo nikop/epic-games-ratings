@@ -48,7 +48,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 490
+      "Count": 491
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -345,6 +345,41 @@
       "Time": "2023-04-28T09:04:08.7199985+00:00",
       "NumProgressed": 702252,
       "NumCompleted": 12694
+    },
+    {
+      "Time": "2023-04-28T09:39:21.6671784+00:00",
+      "NumProgressed": 702253,
+      "NumCompleted": 12695
+    },
+    {
+      "Time": "2023-04-28T11:04:14.865124+00:00",
+      "NumProgressed": 702257,
+      "NumCompleted": 12695
+    },
+    {
+      "Time": "2023-04-28T12:04:24.1729517+00:00",
+      "NumProgressed": 702261,
+      "NumCompleted": 12695
+    },
+    {
+      "Time": "2023-04-28T13:08:32.0902067+00:00",
+      "NumProgressed": 702263,
+      "NumCompleted": 12695
+    },
+    {
+      "Time": "2023-04-28T14:03:38.9686945+00:00",
+      "NumProgressed": 702265,
+      "NumCompleted": 12695
+    },
+    {
+      "Time": "2023-04-28T15:04:11.716115+00:00",
+      "NumProgressed": 702267,
+      "NumCompleted": 12695
+    },
+    {
+      "Time": "2023-04-28T16:03:40.9917032+00:00",
+      "NumProgressed": 702269,
+      "NumCompleted": 12695
     }
   ],
   "RatingHistory": [
@@ -3832,19 +3867,25 @@
       "Rating": 4.82,
       "NumberOfAwards": 10132,
       "NumberOfAwardsMax": 6003
+    },
+    {
+      "Time": "2023-04-28T09:34:02.3822266+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10133,
+      "NumberOfAwardsMax": 6003
     }
   ],
   "EOS_Completed_Percentage": 1.81,
-  "EOS_Completed": 12694,
-  "EOS_Progressed": 702252,
-  "LastUpdate_Achievements": "2023-04-28T09:04:08.7199991+00:00",
-  "LastUpdate_Ratings": "2023-04-28T08:59:06.177885+00:00",
-  "LastChanged_Achievements": "2023-04-28T09:04:08.7199977+00:00",
-  "LastChanged": "2023-04-28T03:59:16.4432058+00:00",
+  "EOS_Completed": 12695,
+  "EOS_Progressed": 702269,
+  "LastUpdate_Achievements": "2023-04-28T16:03:40.9917037+00:00",
+  "LastUpdate_Ratings": "2023-04-28T15:58:41.8143285+00:00",
+  "LastChanged_Achievements": "2023-04-28T16:03:40.9917026+00:00",
+  "LastChanged": "2023-04-28T09:34:02.3822264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 6003,
-  "NumberOfAwards": 10132,
+  "NumberOfAwards": 10133,
   "NumberOfRatings": 9492,
   "Ranking_EOS_Completed": 55,
   "Ranking_EOS_Progress": 13,

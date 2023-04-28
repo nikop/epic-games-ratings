@@ -370,6 +370,46 @@
       "Time": "2023-04-28T09:02:22.1341881+00:00",
       "NumProgressed": 85714,
       "NumCompleted": 1783
+    },
+    {
+      "Time": "2023-04-28T09:38:25.9257473+00:00",
+      "NumProgressed": 85720,
+      "NumCompleted": 1783
+    },
+    {
+      "Time": "2023-04-28T10:03:20.6685308+00:00",
+      "NumProgressed": 85722,
+      "NumCompleted": 1784
+    },
+    {
+      "Time": "2023-04-28T11:03:00.2108036+00:00",
+      "NumProgressed": 85726,
+      "NumCompleted": 1784
+    },
+    {
+      "Time": "2023-04-28T12:03:10.5315136+00:00",
+      "NumProgressed": 85729,
+      "NumCompleted": 1784
+    },
+    {
+      "Time": "2023-04-28T13:07:27.2489933+00:00",
+      "NumProgressed": 85736,
+      "NumCompleted": 1784
+    },
+    {
+      "Time": "2023-04-28T14:02:25.8586357+00:00",
+      "NumProgressed": 85739,
+      "NumCompleted": 1784
+    },
+    {
+      "Time": "2023-04-28T15:03:29.5756431+00:00",
+      "NumProgressed": 85743,
+      "NumCompleted": 1784
+    },
+    {
+      "Time": "2023-04-28T16:02:19.2225123+00:00",
+      "NumProgressed": 85747,
+      "NumCompleted": 1785
     }
   ],
   "RatingHistory": [
@@ -3694,11 +3734,11 @@
     }
   ],
   "EOS_Completed_Percentage": 2.08,
-  "EOS_Completed": 1783,
-  "EOS_Progressed": 85714,
-  "LastUpdate_Achievements": "2023-04-28T09:02:22.1341943+00:00",
-  "LastUpdate_Ratings": "2023-04-28T08:58:02.5418944+00:00",
-  "LastChanged_Achievements": "2023-04-28T09:02:22.1341874+00:00",
+  "EOS_Completed": 1785,
+  "EOS_Progressed": 85747,
+  "LastUpdate_Achievements": "2023-04-28T16:02:19.2225128+00:00",
+  "LastUpdate_Ratings": "2023-04-28T15:57:43.6442891+00:00",
+  "LastChanged_Achievements": "2023-04-28T16:02:19.2225117+00:00",
   "LastChanged": "2023-04-28T06:58:07.8470697+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "MaxAwardTitle": "Diverse Characters",
@@ -3706,7 +3746,7 @@
   "NumberOfAwards": 29748,
   "NumberOfRatings": 9041,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_Progress": 58,
+  "Ranking_EOS_Progress": 59,
   "Ranking_PopularitySum": 37,
   "Ranking_Popularity": 61,
   "Ranking_Rating": 864,

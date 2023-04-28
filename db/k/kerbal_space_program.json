@@ -6,7 +6,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 402
+      "Count": 409
     },
     {
       "Text": "This game is Extremely Fun",
@@ -30,7 +30,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 387
+      "Count": 395
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -48,7 +48,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 279
+      "Count": 283
     }
   ],
   "EosHistory": [],
@@ -1052,21 +1052,33 @@
       "Rating": 4.79,
       "NumberOfAwards": 2980,
       "NumberOfAwardsMax": 452
+    },
+    {
+      "Time": "2023-04-28T09:32:09.6400006+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2987,
+      "NumberOfAwardsMax": 452
+    },
+    {
+      "Time": "2023-04-28T13:01:25.8778741+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2999,
+      "NumberOfAwardsMax": 452
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T09:02:11.6186861+00:00",
-  "LastUpdate_Ratings": "2023-04-28T08:57:14.8303533+00:00",
-  "LastChanged": "2023-04-28T07:57:09.1632073+00:00",
+  "LastUpdate_Achievements": "2023-04-28T16:02:07.241942+00:00",
+  "LastUpdate_Ratings": "2023-04-28T15:56:57.326958+00:00",
+  "LastChanged": "2023-04-28T13:01:25.8778739+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
   "MaxAwardTitle": "Educational",
   "NumberOfAwardsMax": 452,
-  "NumberOfAwards": 2980,
+  "NumberOfAwards": 2999,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 362,
-  "Ranking_PopularitySum": 151,
+  "Ranking_PopularitySum": 150,
   "Ranking_Popularity": 187,
   "Ranking_Rating": 91,
   "Rating": 4.79,
