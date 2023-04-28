@@ -12,7 +12,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 396
+      "Count": 397
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2710,6 +2710,12 @@
       "Rating": 4.84,
       "NumberOfAwards": 3855,
       "NumberOfAwardsMax": 405
+    },
+    {
+      "Time": "2023-04-28T21:59:42.6763465+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3856,
+      "NumberOfAwardsMax": 405
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -2717,12 +2723,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T21:05:46.0221164+00:00",
-  "LastUpdate_Ratings": "2023-04-28T21:00:44.672243+00:00",
-  "LastChanged": "2023-04-27T17:00:05.3696001+00:00",
+  "LastUpdate_Achievements": "2023-04-28T22:04:24.7264072+00:00",
+  "LastUpdate_Ratings": "2023-04-28T21:59:42.6763469+00:00",
+  "LastChanged": "2023-04-28T21:59:42.6763463+00:00",
   "MaxAwardTitle": "Extremely Fun",
   "NumberOfAwardsMax": 405,
-  "NumberOfAwards": 3855,
+  "NumberOfAwards": 3856,
   "NumberOfRatings": 4082,
   "Ranking_EOS_NewCompleters": 64,
   "Ranking_EOS_NewPlayers": 230,

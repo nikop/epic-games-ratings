@@ -30,7 +30,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3918
+      "Count": 3919
     },
     {
       "Text": "This game has Amazing Characters",
@@ -434,6 +434,11 @@
     {
       "Time": "2023-04-28T21:04:10.8488608+00:00",
       "NumProgressed": 85778,
+      "NumCompleted": 1785
+    },
+    {
+      "Time": "2023-04-28T22:03:09.0427947+00:00",
+      "NumProgressed": 85781,
       "NumCompleted": 1785
     }
   ],
@@ -3756,21 +3761,27 @@
       "Rating": 4.06,
       "NumberOfAwards": 29748,
       "NumberOfAwardsMax": 4853
+    },
+    {
+      "Time": "2023-04-28T21:57:51.4531163+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29749,
+      "NumberOfAwardsMax": 4853
     }
   ],
   "EOS_Completed_Percentage": 2.08,
   "EOS_NewCompleters": 11,
-  "EOS_NewPlayers": 365,
+  "EOS_NewPlayers": 368,
   "EOS_Completed": 1785,
-  "EOS_Progressed": 85778,
-  "LastUpdate_Achievements": "2023-04-28T21:04:10.8488664+00:00",
-  "LastUpdate_Ratings": "2023-04-28T20:58:18.5427689+00:00",
-  "LastChanged_Achievements": "2023-04-28T21:04:10.84886+00:00",
-  "LastChanged": "2023-04-28T06:58:07.8470697+00:00",
+  "EOS_Progressed": 85781,
+  "LastUpdate_Achievements": "2023-04-28T22:03:09.0427994+00:00",
+  "LastUpdate_Ratings": "2023-04-28T21:57:51.4531168+00:00",
+  "LastChanged_Achievements": "2023-04-28T22:03:09.0427944+00:00",
+  "LastChanged": "2023-04-28T21:57:51.4531161+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 4853,
-  "NumberOfAwards": 29748,
+  "NumberOfAwards": 29749,
   "NumberOfRatings": 9041,
   "Ranking_EOS_NewCompleters": 7,
   "Ranking_EOS_NewPlayers": 55,
