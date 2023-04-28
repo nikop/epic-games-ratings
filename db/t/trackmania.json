@@ -18,7 +18,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 2486
+      "Count": 2490
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4254,17 +4254,23 @@
       "Rating": 4.67,
       "NumberOfAwards": 21296,
       "NumberOfAwardsMax": 2486
+    },
+    {
+      "Time": "2023-04-28T15:57:58.1044958+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 21300,
+      "NumberOfAwardsMax": 2490
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
   "LastUpdate_Achievements": "2023-04-28T15:03:37.2587758+00:00",
-  "LastUpdate_Ratings": "2023-04-28T14:58:12.4226044+00:00",
-  "LastChanged": "2023-04-28T11:58:22.1827003+00:00",
+  "LastUpdate_Ratings": "2023-04-28T15:57:58.1044962+00:00",
+  "LastChanged": "2023-04-28T15:57:58.1044956+00:00",
   "MaxAwardTitle": "Great for Quick Sessions",
-  "NumberOfAwardsMax": 2486,
-  "NumberOfAwards": 21296,
+  "NumberOfAwardsMax": 2490,
+  "NumberOfAwards": 21300,
   "NumberOfRatings": 6825,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 362,

@@ -24,7 +24,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 127
+      "Count": 128
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1078,23 +1078,29 @@
       "Rating": 4.29,
       "NumberOfAwards": 1234,
       "NumberOfAwardsMax": 127
+    },
+    {
+      "Time": "2023-04-28T15:58:31.8393271+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1235,
+      "NumberOfAwardsMax": 128
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T15:04:00.1955427+00:00",
-  "LastUpdate_Ratings": "2023-04-28T14:58:46.2352705+00:00",
-  "LastChanged": "2023-04-28T13:58:39.110877+00:00",
+  "LastUpdate_Achievements": "2023-04-28T16:03:29.2584248+00:00",
+  "LastUpdate_Ratings": "2023-04-28T15:58:31.8393275+00:00",
+  "LastChanged": "2023-04-28T15:58:31.8393269+00:00",
   "FirstSeenRating": "2022-08-24T22:31:27.0262733+00:00",
   "MaxAwardTitle": "Relaxing",
-  "NumberOfAwardsMax": 127,
-  "NumberOfAwards": 1234,
+  "NumberOfAwardsMax": 128,
+  "NumberOfAwards": 1235,
   "NumberOfRatings": 841,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 362,
-  "Ranking_PopularitySum": 217,
-  "Ranking_Popularity": 292,
+  "Ranking_PopularitySum": 218,
+  "Ranking_Popularity": 291,
   "Ranking_Rating": 755,
   "Rating": 4.29,
   "FirstSeen": "2022-08-22T12:01:28.8825715+00:00"

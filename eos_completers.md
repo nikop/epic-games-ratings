@@ -5,20 +5,20 @@
 | 3 | [Doodle Devil](games/d/doodle_devil.md) | 19.72% |
 | 4 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 5 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
-| 6 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
+| 6 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
 | 7 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 11.72% |
-| 8 | [Ravenlok](games/r/ravenlok.md) | 11.32% |
+| 8 | [Ravenlok](games/r/ravenlok.md) | 11.11% |
 | 9 | [Smelter](games/s/smelter.md) | 10.34% |
 | 10 | [Time Loader](games/t/time_loader.md) | 8.51% |
 | 11 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 12 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 14 | [Island Cities](games/i/island_cities.md) | 8.00% |
-| 15 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.59% |
+| 15 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.58% |
 | 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.43% |
 | 17 | [Scorn](games/s/scorn.md) | 7.17% |
 | 18 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.50% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.47% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.40% |
 | 20 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 21 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 22 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.88% |
@@ -40,14 +40,14 @@
 | 38 | [HordeCore](games/h/hordecore.md) | 3.08% |
 | 39 | [Lamentum](games/l/lamentum.md) | 3.02% |
 | 40 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.99% |
-| 41 | [MultiVersus](games/m/multiversus.md) | 2.97% |
+| 41 | [MultiVersus](games/m/multiversus.md) | 2.96% |
 | 42 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.94% |
 | 43 | [Destiny 2](games/d/destiny_2.md) | 2.92% |
 | 44 | [Bunny Park](games/b/bunny_park.md) | 2.89% |
 | 45 | [FORECLOSED](games/f/foreclosed.md) | 2.78% |
 | 46 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 47 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 48 | [JARS](games/j/jars.md) | 2.70% |
+| 48 | [JARS](games/j/jars.md) | 2.63% |
 | 49 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 50 | [Iron Danger](games/i/iron_danger.md) | 2.48% |
 | 51 | [ZZT!](games/z/zzt!.md) | 2.40% |
