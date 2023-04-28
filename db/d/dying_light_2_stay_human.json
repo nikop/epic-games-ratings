@@ -54,7 +54,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 523
+      "Count": 525
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -434,6 +434,11 @@
     {
       "Time": "2023-04-28T14:04:54.0986775+00:00",
       "NumProgressed": 532317,
+      "NumCompleted": 45
+    },
+    {
+      "Time": "2023-04-28T15:05:04.4664644+00:00",
+      "NumProgressed": 532369,
       "NumCompleted": 45
     }
   ],
@@ -4209,19 +4214,25 @@
       "Rating": 4.57,
       "NumberOfAwards": 15433,
       "NumberOfAwardsMax": 6693
+    },
+    {
+      "Time": "2023-04-28T14:59:57.6092349+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 15435,
+      "NumberOfAwardsMax": 6693
     }
   ],
   "EOS_Completed_Percentage": 0.01,
   "EOS_Completed": 45,
-  "EOS_Progressed": 532317,
-  "LastUpdate_Achievements": "2023-04-28T14:04:54.0986782+00:00",
-  "LastUpdate_Ratings": "2023-04-28T14:00:00.7958576+00:00",
-  "LastChanged_Achievements": "2023-04-28T14:04:54.098677+00:00",
-  "LastChanged": "2023-04-28T13:04:35.914139+00:00",
+  "EOS_Progressed": 532369,
+  "LastUpdate_Achievements": "2023-04-28T15:05:04.466465+00:00",
+  "LastUpdate_Ratings": "2023-04-28T14:59:57.6092354+00:00",
+  "LastChanged_Achievements": "2023-04-28T15:05:04.4664636+00:00",
+  "LastChanged": "2023-04-28T14:59:57.6092346+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 6693,
-  "NumberOfAwards": 15433,
+  "NumberOfAwards": 15435,
   "NumberOfRatings": 7305,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_Progress": 22,

@@ -14,13 +14,13 @@
 | 12 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 14 | [Island Cities](games/i/island_cities.md) | 8.00% |
-| 15 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.61% |
+| 15 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.59% |
 | 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.43% |
 | 17 | [Scorn](games/s/scorn.md) | 7.17% |
 | 18 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.50% |
-| 19 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
-| 20 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
-| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.03% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.47% |
+| 20 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
+| 21 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 22 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.88% |
 | 23 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.98% |
 | 24 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
@@ -123,8 +123,8 @@
 | 120 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.27% |
 | 120 | [Wildermyth](games/w/wildermyth.md) | 0.27% |
 | 123 | [Circus Electrique](games/c/circus_electrique.md) | 0.26% |
-| 124 | [Blanc](games/b/blanc.md) | 0.23% |
 | 124 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
+| 125 | [Blanc](games/b/blanc.md) | 0.22% |
 | 126 | [Against the Storm](games/a/against_the_storm.md) | 0.21% |
 | 126 | [Filament](games/f/filament.md) | 0.21% |
 | 128 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
@@ -360,4 +360,4 @@
 | 190 | [We Are OFK](games/w/we_are_ofk.md) | 0.00% |
 | 190 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 190 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,521 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,522 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

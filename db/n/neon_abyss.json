@@ -12,7 +12,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 603
+      "Count": 604
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2823,17 +2823,23 @@
       "Rating": 4.68,
       "NumberOfAwards": 5275,
       "NumberOfAwardsMax": 660
+    },
+    {
+      "Time": "2023-04-28T14:57:15.8471936+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 5276,
+      "NumberOfAwardsMax": 660
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T14:00:57.5929507+00:00",
-  "LastUpdate_Ratings": "2023-04-28T13:56:59.1167794+00:00",
-  "LastChanged": "2023-04-28T02:57:22.5601287+00:00",
+  "LastUpdate_Achievements": "2023-04-28T15:00:44.3961296+00:00",
+  "LastUpdate_Ratings": "2023-04-28T14:57:15.8471941+00:00",
+  "LastChanged": "2023-04-28T14:57:15.8471934+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 660,
-  "NumberOfAwards": 5275,
+  "NumberOfAwards": 5276,
   "NumberOfRatings": 8340,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 362,

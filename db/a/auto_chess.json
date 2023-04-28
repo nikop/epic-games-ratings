@@ -48,7 +48,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 530
+      "Count": 532
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2551,17 +2551,23 @@
       "Rating": 4.52,
       "NumberOfAwards": 5785,
       "NumberOfAwardsMax": 733
+    },
+    {
+      "Time": "2023-04-28T14:58:39.3812125+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 5787,
+      "NumberOfAwardsMax": 733
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T14:03:18.7637983+00:00",
-  "LastUpdate_Ratings": "2023-04-28T13:58:32.2303039+00:00",
-  "LastChanged": "2023-04-28T13:03:06.6070435+00:00",
+  "LastUpdate_Achievements": "2023-04-28T15:03:55.2981902+00:00",
+  "LastUpdate_Ratings": "2023-04-28T14:58:39.3812131+00:00",
+  "LastChanged": "2023-04-28T14:58:39.3812122+00:00",
   "MaxAwardTitle": "Competitive Players",
   "NumberOfAwardsMax": 733,
-  "NumberOfAwards": 5785,
+  "NumberOfAwards": 5787,
   "NumberOfRatings": 2249,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 362,

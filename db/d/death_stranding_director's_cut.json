@@ -12,7 +12,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 483
+      "Count": 484
     },
     {
       "Text": "This game is Highly Recommended",
@@ -48,7 +48,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 428
+      "Count": 431
     },
     {
       "Text": "This game has a Creative Community",
@@ -440,6 +440,11 @@
     {
       "Time": "2023-04-28T14:05:34.3618907+00:00",
       "NumProgressed": 450279,
+      "NumCompleted": 1468
+    },
+    {
+      "Time": "2023-04-28T15:05:37.0795997+00:00",
+      "NumProgressed": 450303,
       "NumCompleted": 1468
     }
   ],
@@ -3174,19 +3179,25 @@
       "Rating": 4.89,
       "NumberOfAwards": 11655,
       "NumberOfAwardsMax": 6840
+    },
+    {
+      "Time": "2023-04-28T15:00:32.8742581+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 11659,
+      "NumberOfAwardsMax": 6840
     }
   ],
   "EOS_Completed_Percentage": 0.33,
   "EOS_Completed": 1468,
-  "EOS_Progressed": 450279,
-  "LastUpdate_Achievements": "2023-04-28T14:05:34.3618911+00:00",
-  "LastUpdate_Ratings": "2023-04-28T14:00:43.2846414+00:00",
-  "LastChanged_Achievements": "2023-04-28T14:05:34.36189+00:00",
-  "LastChanged": "2023-04-28T14:00:43.2846404+00:00",
+  "EOS_Progressed": 450303,
+  "LastUpdate_Achievements": "2023-04-28T15:05:37.0796002+00:00",
+  "LastUpdate_Ratings": "2023-04-28T15:00:32.8742587+00:00",
+  "LastChanged_Achievements": "2023-04-28T15:05:37.0795986+00:00",
+  "LastChanged": "2023-04-28T15:00:32.8742579+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.0381621+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 6840,
-  "NumberOfAwards": 11655,
+  "NumberOfAwards": 11659,
   "NumberOfRatings": 3099,
   "Ranking_EOS_Completed": 109,
   "Ranking_EOS_Progress": 28,
