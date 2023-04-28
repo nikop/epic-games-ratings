@@ -9,6 +9,11 @@ namespace EpicRatingsUpdater.Markdown
     {
         static CultureInfo usCulture = CultureInfo.GetCultureInfo("en-US");
 
+        public static string Escape(string str)
+        {
+            return str.Replace("|", @"\|");
+        }
+
         public static string FormatRating(double? rating)
         {
             if (rating == null)

@@ -34,7 +34,9 @@ namespace EpicRatingsUpdater.Markdown
             foreach (var item in items)
             {
                 sb.Append("| ");
-                sb.Append(string.Join(" | ", Columns.Select(x => x.ItemFormatter(item))));
+                sb.Append(string.Join(" | ", Columns.Select(x => 
+                    MarkdownHelpers.Escape(x.ItemFormatter(item))
+                )));
                 sb.AppendLine(" |");
             }
 
