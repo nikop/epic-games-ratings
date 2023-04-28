@@ -1,9 +1,9 @@
 # Pathfinder: Kingmaker - Enhanced Plus Edition
-Rating: 4.57 (Ranked 427)  
+Rating: 4.57 (Ranked 426)  
 Number of Ratings: 3,868  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 3,018  (Ranked 85)  
-Sum: 8,063 (Ranked 88)  
+Sum: 8,064 (Ranked 88)  
 Diff (max vs sum): -3
 ## Awards
 | Award | Count |
@@ -16,7 +16,7 @@ Diff (max vs sum): -3
 | This game has Amazing Characters | 361 |
 | This game has Quickly Understood Controls | 361 |
 | This game has Challenging Combat | 349 |
-| This game has Amazing Storytelling | 342 |
+| This game has Amazing Storytelling | 343 |
 | This game is Relaxing | 330 |
 | This game has a Creative Community | 188 |
 | This game has Obsessive Gameplay | 77 |
@@ -128,4 +128,4 @@ Diff (max vs sum): -3
 | 2023-04-25 | 4.57 | - | 3,009 | 8,045 |
 | 2023-04-26 | 4.57 | - | 3,014 | 8,054 |
 | 2023-04-27 | 4.57 | - | 3,018 | 8,062 |
-| 2023-04-28 | 4.57 | - | 3,018 | 8,063 |
+| 2023-04-28 | 4.57 | - | 3,018 | 8,064 |

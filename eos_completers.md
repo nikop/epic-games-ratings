@@ -9,20 +9,20 @@
 | 7 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 11.72% |
 | 8 | [Ravenlok](games/r/ravenlok.md) | 11.32% |
 | 9 | [Smelter](games/s/smelter.md) | 10.34% |
-| 10 | [Island Cities](games/i/island_cities.md) | 8.70% |
-| 11 | [Time Loader](games/t/time_loader.md) | 8.51% |
-| 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
-| 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
-| 13 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
+| 10 | [Time Loader](games/t/time_loader.md) | 8.51% |
+| 11 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
+| 12 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
+| 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
+| 14 | [Island Cities](games/i/island_cities.md) | 8.00% |
 | 15 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.61% |
 | 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.43% |
 | 17 | [Scorn](games/s/scorn.md) | 7.17% |
 | 18 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.50% |
 | 19 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.09% |
-| 21 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
+| 20 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
+| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.03% |
 | 22 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.88% |
-| 23 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.99% |
+| 23 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.98% |
 | 24 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
 | 25 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.61% |
 | 26 | [Bugsnax](games/b/bugsnax.md) | 4.59% |
@@ -61,7 +61,7 @@
 | 57 | [Night Book](games/n/night_book.md) | 1.69% |
 | 60 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
 | 61 | [Somerville](games/s/somerville.md) | 1.62% |
-| 62 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.59% |
+| 62 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.58% |
 | 63 | [Frogun](games/f/frogun.md) | 1.56% |
 | 64 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.52% |
 | 65 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.48% |
@@ -92,7 +92,7 @@
 | 90 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
 | 91 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.64% |
 | 92 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
-| 93 | [Ghostrunner](games/g/ghostrunner.md) | 0.57% |
+| 93 | [Ghostrunner](games/g/ghostrunner.md) | 0.59% |
 | 94 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.54% |
 | 95 | [Grindstone](games/g/grindstone.md) | 0.52% |
 | 96 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.51% |

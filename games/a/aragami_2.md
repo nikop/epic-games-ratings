@@ -1,5 +1,5 @@
 # Aragami 2
-Rating: 4.57 (Ranked 427)  
+Rating: 4.57 (Ranked 426)  
 Number of Ratings: 88  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  

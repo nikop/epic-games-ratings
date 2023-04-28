@@ -66,7 +66,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game is Educational",
@@ -261,6 +261,11 @@
     {
       "Time": "2023-04-28T13:07:39.7831098+00:00",
       "NumProgressed": 424652,
+      "NumCompleted": 491
+    },
+    {
+      "Time": "2023-04-28T14:02:37.4244598+00:00",
+      "NumProgressed": 424653,
       "NumCompleted": 491
     }
   ],
@@ -1265,19 +1270,25 @@
       "Rating": 4.7,
       "NumberOfAwards": 1664,
       "NumberOfAwardsMax": 1294
+    },
+    {
+      "Time": "2023-04-28T13:57:59.2613422+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 1665,
+      "NumberOfAwardsMax": 1294
     }
   ],
   "EOS_Completed_Percentage": 0.12,
   "EOS_Completed": 491,
-  "EOS_Progressed": 424652,
-  "LastUpdate_Achievements": "2023-04-28T13:07:39.7831103+00:00",
-  "LastUpdate_Ratings": "2023-04-28T13:02:32.5375225+00:00",
-  "LastChanged_Achievements": "2023-04-28T13:07:39.7831093+00:00",
-  "LastChanged": "2023-04-14T20:57:04.8009904+00:00",
+  "EOS_Progressed": 424653,
+  "LastUpdate_Achievements": "2023-04-28T14:02:37.424461+00:00",
+  "LastUpdate_Ratings": "2023-04-28T13:57:59.2613428+00:00",
+  "LastChanged_Achievements": "2023-04-28T14:02:37.4244593+00:00",
+  "LastChanged": "2023-04-28T13:57:59.2613418+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 1294,
-  "NumberOfAwards": 1664,
+  "NumberOfAwards": 1665,
   "NumberOfRatings": 3313,
   "Ranking_EOS_Completed": 144,
   "Ranking_EOS_Progress": 29,

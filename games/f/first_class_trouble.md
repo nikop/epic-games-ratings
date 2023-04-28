@@ -1,5 +1,5 @@
 # First Class Trouble
-Rating: 4.51 (Ranked 511)  
+Rating: 4.51 (Ranked 510)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 82  (Ranked 341)  
 Sum: 583 (Ranked 277)  
