@@ -83,4 +83,3 @@
 | [Undetected](games/u/undetected.md) | - | - | 0 | - |
 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.49 | 542 | 0 | 488 |
 | [Home Wars](games/h/home_wars.md) | - | - | 0 | - |
-| [Terra Nil](games/t/terra_nil.md) | - | - | 0 | - |

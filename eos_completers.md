@@ -16,10 +16,10 @@
 | 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.64% |
 | 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.43% |
 | 16 | [Scorn](games/s/scorn.md) | 7.18% |
-| 17 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.61% |
+| 17 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.56% |
 | 18 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 19 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.04% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 5.91% |
 | 21 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.88% |
 | 22 | [Island Cities](games/i/island_cities.md) | 5.56% |
 | 23 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.99% |
@@ -50,7 +50,7 @@
 | 48 | [JARS](games/j/jars.md) | 2.70% |
 | 49 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 50 | [Iron Danger](games/i/iron_danger.md) | 2.48% |
-| 51 | [ZZT!](games/z/zzt!.md) | 2.42% |
+| 51 | [ZZT!](games/z/zzt!.md) | 2.41% |
 | 52 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.26% |
 | 53 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 54 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |

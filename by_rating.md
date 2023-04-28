@@ -232,7 +232,7 @@
 | 207 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 767 | 147 |
 | 231 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,316 | 80 |
 | 231 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.68 | 0 | 488 |
-| 231 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 2,979 | 87 |
+| 231 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 2,983 | 87 |
 | 231 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 488 |
 | 231 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 358 |
 | 231 | [Card Shark](games/c/card_shark.md) | 4.68 | 0 | 488 |
@@ -472,19 +472,19 @@
 | 465 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 488 |
 | 465 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 826 | 144 |
 | 465 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.55 | 32 | 431 |
-| 473 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 429 |
-| 473 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,010 | 133 |
-| 473 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 192 | 259 |
-| 473 | [IXION](games/i/ixion.md) | 4.54 | 0 | 488 |
-| 473 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 86 | 336 |
-| 473 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 88 | 333 |
-| 473 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 488 |
-| 473 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 0 | 488 |
-| 473 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 492 | 183 |
-| 473 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 271 | 229 |
-| 473 | [VALORANT](games/v/valorant.md) | 4.54 | 50,236 | 11 |
-| 473 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 28 | 448 |
-| 473 | [XCOM® 2](games/x/xcom®_2.md) | 4.54 | 1,128 | 123 |
+| 465 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,129 | 123 |
+| 474 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 429 |
+| 474 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,010 | 133 |
+| 474 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 192 | 259 |
+| 474 | [IXION](games/i/ixion.md) | 4.54 | 0 | 488 |
+| 474 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 86 | 336 |
+| 474 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 88 | 333 |
+| 474 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 488 |
+| 474 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 0 | 488 |
+| 474 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 492 | 183 |
+| 474 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 271 | 229 |
+| 474 | [VALORANT](games/v/valorant.md) | 4.54 | 50,236 | 11 |
+| 474 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 28 | 448 |
 | 486 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 488 |
 | 486 | [Aztez](games/a/aztez.md) | 4.53 | 0 | 488 |
 | 486 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 488 |
@@ -515,7 +515,7 @@
 | 510 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 0 | 488 |
 | 510 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 21 | 476 |
 | 510 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 67 | 362 |
-| 510 | [First Class Trouble](games/f/first_class_trouble.md) | 4.51 | 82 | 340 |
+| 510 | [First Class Trouble](games/f/first_class_trouble.md) | 4.51 | 82 | 341 |
 | 510 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 104 | 311 |
 | 510 | [MythForce](games/m/mythforce.md) | 4.51 | 32 | 431 |
 | 510 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 271 | 229 |
@@ -557,7 +557,7 @@
 | 542 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 608 | 162 |
 | 542 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 488 |
 | 542 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.49 | 0 | 488 |
-| 542 | [Solitairica](games/s/solitairica.md) | 4.49 | 82 | 340 |
+| 542 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 340 |
 | 542 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 488 |
 | 542 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.49 | 0 | 488 |
 | 542 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 0 | 488 |
@@ -815,7 +815,7 @@
 | 800 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.20 | 77 | 345 |
 | 814 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 382 |
 | 814 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 0 | 488 |
-| 814 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 181,070 | 4 |
+| 814 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 181,191 | 4 |
 | 814 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 488 |
 | 814 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 26 | 457 |
 | 819 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 88 | 333 |
@@ -834,13 +834,13 @@
 | 828 | [Gone Home](games/g/gone_home.md) | 4.16 | 0 | 488 |
 | 828 | [Space Punks](games/s/space_punks.md) | 4.16 | 170 | 271 |
 | 834 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 0 | 488 |
-| 834 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.15 | 0 | 488 |
 | 834 | [Pine](games/p/pine.md) | 4.15 | 0 | 488 |
 | 834 | [Relicta](games/r/relicta.md) | 4.15 | 193 | 257 |
 | 834 | [Train Valley 2](games/t/train_valley_2.md) | 4.15 | 69 | 358 |
 | 834 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 488 |
-| 840 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 488 |
-| 840 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 0 | 488 |
+| 839 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.14 | 0 | 488 |
+| 839 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 488 |
+| 839 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 0 | 488 |
 | 842 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 488 |
 | 842 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 0 | 488 |
 | 842 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.13 | 0 | 488 |
