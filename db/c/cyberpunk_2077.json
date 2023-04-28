@@ -30,7 +30,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 7207
+      "Count": 7214
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -54,7 +54,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 6911
+      "Count": 6925
     },
     {
       "Text": "This game has Amazing Characters",
@@ -66,7 +66,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 7094
+      "Count": 7107
     },
     {
       "Text": "This game has a Creative Community",
@@ -419,6 +419,11 @@
     {
       "Time": "2023-04-28T12:02:39.5048419+00:00",
       "NumProgressed": 796258,
+      "NumCompleted": 1542
+    },
+    {
+      "Time": "2023-04-28T13:06:11.061155+00:00",
+      "NumProgressed": 796273,
       "NumCompleted": 1542
     }
   ],
@@ -5320,19 +5325,25 @@
       "Rating": 4.62,
       "NumberOfAwards": 164362,
       "NumberOfAwardsMax": 63000
+    },
+    {
+      "Time": "2023-04-28T13:01:56.0940734+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 164396,
+      "NumberOfAwardsMax": 63000
     }
   ],
   "EOS_Completed_Percentage": 0.19,
   "EOS_Completed": 1542,
-  "EOS_Progressed": 796258,
-  "LastUpdate_Achievements": "2023-04-28T12:02:39.5048423+00:00",
-  "LastUpdate_Ratings": "2023-04-28T11:57:37.1695169+00:00",
-  "LastChanged_Achievements": "2023-04-28T12:02:39.5048414+00:00",
-  "LastChanged": "2023-04-28T11:57:37.1695158+00:00",
+  "EOS_Progressed": 796273,
+  "LastUpdate_Achievements": "2023-04-28T13:06:11.0611558+00:00",
+  "LastUpdate_Ratings": "2023-04-28T13:01:56.0940739+00:00",
+  "LastChanged_Achievements": "2023-04-28T13:06:11.0611542+00:00",
+  "LastChanged": "2023-04-28T13:01:56.0940731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 63000,
-  "NumberOfAwards": 164362,
+  "NumberOfAwards": 164396,
   "NumberOfRatings": 32700,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_Progress": 10,

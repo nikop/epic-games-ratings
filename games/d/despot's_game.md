@@ -1,5 +1,5 @@
 # Despot's Game
-Rating: 4.50 (Ranked 527)  
+Rating: 4.50 (Ranked 528)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  

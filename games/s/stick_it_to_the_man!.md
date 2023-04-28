@@ -1,5 +1,5 @@
 # Stick It To The Man!
-Rating: 4.49 (Ranked 543)  
+Rating: 4.49 (Ranked 544)  
 Number of Ratings: 70  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  

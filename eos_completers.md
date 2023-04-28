@@ -19,7 +19,7 @@
 | 17 | [Scorn](games/s/scorn.md) | 7.17% |
 | 18 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.50% |
 | 19 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.12% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.09% |
 | 21 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 22 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.88% |
 | 23 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.99% |
@@ -130,9 +130,9 @@
 | 128 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
 | 129 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.19% |
 | 129 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
-| 131 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.18% |
 | 131 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.18% |
-| 133 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
+| 132 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
+| 132 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.17% |
 | 134 | [HITMAN 3](games/h/hitman_3.md) | 0.16% |
 | 134 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
 | 136 | [RAILGRADE](games/r/railgrade.md) | 0.15% |

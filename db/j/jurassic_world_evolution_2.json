@@ -30,7 +30,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 570
+      "Count": 571
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2759,17 +2759,23 @@
       "Rating": 4.74,
       "NumberOfAwards": 5388,
       "NumberOfAwardsMax": 581
+    },
+    {
+      "Time": "2023-04-28T13:02:06.1940292+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 5389,
+      "NumberOfAwardsMax": 581
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T12:02:45.9810845+00:00",
-  "LastUpdate_Ratings": "2023-04-28T11:57:51.2564445+00:00",
-  "LastChanged": "2023-04-28T11:57:51.2564435+00:00",
+  "LastUpdate_Achievements": "2023-04-28T13:06:16.3537229+00:00",
+  "LastUpdate_Ratings": "2023-04-28T13:02:06.1940297+00:00",
+  "LastChanged": "2023-04-28T13:02:06.1940289+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 581,
-  "NumberOfAwards": 5388,
+  "NumberOfAwards": 5389,
   "NumberOfRatings": 3746,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 362,

@@ -1,5 +1,5 @@
 # Solitairica
-Rating: 4.49 (Ranked 543)  
+Rating: 4.49 (Ranked 544)  
 Number of Ratings: 474  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 83  (Ranked 340)  

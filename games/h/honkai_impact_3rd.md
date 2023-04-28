@@ -1,5 +1,5 @@
 # Honkai Impact 3rd
-Rating: 4.50 (Ranked 527)  
+Rating: 4.50 (Ranked 528)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 2,241  (Ranked 94)  
 Sum: 7,483 (Ranked 94)  
