@@ -66,7 +66,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 203
+      "Count": 204
     },
     {
       "Text": "This game has Playful Visuals",
@@ -374,6 +374,11 @@
     {
       "Time": "2023-04-28T17:04:43.3904266+00:00",
       "NumProgressed": 21117,
+      "NumCompleted": 40
+    },
+    {
+      "Time": "2023-04-28T18:03:57.9165658+00:00",
+      "NumProgressed": 21119,
       "NumCompleted": 40
     }
   ],
@@ -1019,24 +1024,30 @@
       "Rating": 4.49,
       "NumberOfAwards": 2002,
       "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-04-28T17:58:55.912206+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2003,
+      "NumberOfAwardsMax": 223
     }
   ],
   "EOS_Completed_Percentage": 0.19,
   "EOS_NewCompleters": 3,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 177,
   "EOS_Completed": 40,
-  "EOS_Progressed": 21117,
-  "LastUpdate_Achievements": "2023-04-28T17:19:45.6571111+00:00",
-  "LastUpdate_Ratings": "2023-04-28T17:15:06.8526178+00:00",
-  "LastChanged_Achievements": "2023-04-28T17:19:45.6570999+00:00",
-  "LastChanged": "2023-04-28T06:59:08.2168112+00:00",
+  "EOS_Progressed": 21119,
+  "LastUpdate_Achievements": "2023-04-28T18:03:57.91657+00:00",
+  "LastUpdate_Ratings": "2023-04-28T17:58:55.9122066+00:00",
+  "LastChanged_Achievements": "2023-04-28T18:03:57.9165652+00:00",
+  "LastChanged": "2023-04-28T17:58:55.9122057+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "MaxAwardTitle": "Great for Quick Sessions",
   "NumberOfAwardsMax": 223,
-  "NumberOfAwards": 2002,
+  "NumberOfAwards": 2003,
   "Ranking_EOS_NewCompleters": 23,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_Progress": 88,
   "Ranking_PopularitySum": 183,

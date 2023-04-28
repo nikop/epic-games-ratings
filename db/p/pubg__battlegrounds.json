@@ -42,7 +42,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 948
+      "Count": 951
     },
     {
       "Text": "This game is Relaxing",
@@ -436,6 +436,11 @@
     {
       "Time": "2023-04-28T17:19:25.5836009+00:00",
       "NumProgressed": 339518,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-28T18:03:37.3227859+00:00",
+      "NumProgressed": 339571,
       "NumCompleted": 8
     }
   ],
@@ -1387,27 +1392,33 @@
       "Rating": 3.98,
       "NumberOfAwards": 5388,
       "NumberOfAwardsMax": 1662
+    },
+    {
+      "Time": "2023-04-28T17:58:33.1449431+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 5391,
+      "NumberOfAwardsMax": 1662
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 3314,
+  "EOS_NewPlayers": 3367,
   "EOS_Completed": 8,
-  "EOS_Progressed": 339518,
-  "LastUpdate_Achievements": "2023-04-28T17:19:25.5836079+00:00",
-  "LastUpdate_Ratings": "2023-04-28T17:14:44.9526754+00:00",
-  "LastChanged_Achievements": "2023-04-28T17:19:25.5836002+00:00",
-  "LastChanged": "2023-04-28T11:58:51.283495+00:00",
+  "EOS_Progressed": 339571,
+  "LastUpdate_Achievements": "2023-04-28T18:03:37.3227893+00:00",
+  "LastUpdate_Ratings": "2023-04-28T17:58:33.1449436+00:00",
+  "LastChanged_Achievements": "2023-04-28T18:03:37.3227856+00:00",
+  "LastChanged": "2023-04-28T17:58:33.1449428+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "MaxAwardTitle": "Competitive Players",
   "NumberOfAwardsMax": 1662,
-  "NumberOfAwards": 5388,
+  "NumberOfAwards": 5391,
   "Ranking_EOS_NewCompleters": 37,
   "Ranking_EOS_NewPlayers": 12,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 35,
-  "Ranking_PopularitySum": 116,
+  "Ranking_PopularitySum": 115,
   "Ranking_Popularity": 109,
   "Ranking_Rating": 878,
   "Rating": 3.98,

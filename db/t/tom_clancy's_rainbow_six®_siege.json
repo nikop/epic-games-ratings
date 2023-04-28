@@ -48,7 +48,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1526
+      "Count": 1529
     },
     {
       "Text": "This game has a Competitive Community",
@@ -3717,6 +3717,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 13902,
       "NumberOfAwardsMax": 1697
+    },
+    {
+      "Time": "2023-04-28T18:01:10.3807478+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13905,
+      "NumberOfAwardsMax": 1697
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -3724,15 +3730,15 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T17:21:57.8334376+00:00",
-  "LastUpdate_Ratings": "2023-04-28T17:17:13.1555456+00:00",
-  "LastChanged": "2023-04-28T04:01:22.218939+00:00",
+  "LastUpdate_Achievements": "2023-04-28T18:06:04.9196384+00:00",
+  "LastUpdate_Ratings": "2023-04-28T18:01:10.3807482+00:00",
+  "LastChanged": "2023-04-28T18:01:10.3807476+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 1697,
-  "NumberOfAwards": 13902,
+  "NumberOfAwards": 13905,
   "NumberOfRatings": 8669,
-  "Ranking_EOS_NewCompleters": 60,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 364,
   "Ranking_PopularitySum": 64,

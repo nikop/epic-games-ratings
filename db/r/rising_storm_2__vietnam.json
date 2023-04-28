@@ -42,7 +42,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 572
+      "Count": 573
     },
     {
       "Text": "This game has Amazing Characters",
@@ -54,7 +54,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 632
+      "Count": 634
     },
     {
       "Text": "This game is Educational",
@@ -2638,6 +2638,12 @@
       "Rating": 4.5,
       "NumberOfAwards": 5976,
       "NumberOfAwardsMax": 642
+    },
+    {
+      "Time": "2023-04-28T17:59:54.0005146+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 5979,
+      "NumberOfAwardsMax": 642
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -2645,15 +2651,15 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T17:20:50.7441869+00:00",
-  "LastUpdate_Ratings": "2023-04-28T17:15:59.9534624+00:00",
-  "LastChanged": "2023-04-27T23:59:10.1455156+00:00",
+  "LastUpdate_Achievements": "2023-04-28T18:04:43.021491+00:00",
+  "LastUpdate_Ratings": "2023-04-28T17:59:54.0005151+00:00",
+  "LastChanged": "2023-04-28T17:59:54.0005142+00:00",
   "MaxAwardTitle": "Quickly Understood Controls",
   "NumberOfAwardsMax": 642,
-  "NumberOfAwards": 5976,
+  "NumberOfAwards": 5979,
   "NumberOfRatings": 2871,
-  "Ranking_EOS_NewCompleters": 60,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 364,
   "Ranking_PopularitySum": 112,
