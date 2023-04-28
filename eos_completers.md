@@ -8,8 +8,8 @@
 | 6 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.94% |
 | 7 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 11.72% |
 | 8 | [Ravenlok](games/r/ravenlok.md) | 11.32% |
-| 9 | [Island Cities](games/i/island_cities.md) | 10.53% |
-| 10 | [Smelter](games/s/smelter.md) | 10.34% |
+| 9 | [Smelter](games/s/smelter.md) | 10.34% |
+| 10 | [Island Cities](games/i/island_cities.md) | 10.00% |
 | 11 | [Time Loader](games/t/time_loader.md) | 8.51% |
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
@@ -56,10 +56,10 @@
 | 54 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
 | 55 | [Sifu](games/s/sifu.md) | 1.81% |
 | 56 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.79% |
-| 57 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.69% |
 | 57 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.69% |
 | 57 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
 | 57 | [Night Book](games/n/night_book.md) | 1.69% |
+| 60 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
 | 61 | [Somerville](games/s/somerville.md) | 1.62% |
 | 62 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.59% |
 | 63 | [Frogun](games/f/frogun.md) | 1.56% |
@@ -360,4 +360,4 @@
 | 190 | [We Are OFK](games/w/we_are_ofk.md) | 0.00% |
 | 190 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 190 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,520 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,521 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

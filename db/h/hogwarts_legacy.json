@@ -66,7 +66,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 580
+      "Count": 583
     },
     {
       "Text": "This game has a Creative Community",
@@ -379,6 +379,11 @@
     {
       "Time": "2023-04-28T06:02:22.7634955+00:00",
       "NumProgressed": 264294,
+      "NumCompleted": 334
+    },
+    {
+      "Time": "2023-04-28T08:01:41.9986218+00:00",
+      "NumProgressed": 264298,
       "NumCompleted": 334
     }
   ],
@@ -1846,20 +1851,26 @@
       "Rating": 4.78,
       "NumberOfAwards": 32745,
       "NumberOfAwardsMax": 18079
+    },
+    {
+      "Time": "2023-04-28T07:57:06.030922+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 32748,
+      "NumberOfAwardsMax": 18079
     }
   ],
   "EOS_Completed_Percentage": 0.13,
   "EOS_Completed": 334,
-  "EOS_Progressed": 264294,
-  "LastUpdate_Achievements": "2023-04-28T07:02:23.3566236+00:00",
-  "LastUpdate_Ratings": "2023-04-28T06:57:10.61474+00:00",
-  "LastChanged_Achievements": "2023-04-28T07:02:23.3566228+00:00",
-  "LastChanged": "2023-04-28T06:57:10.6147383+00:00",
+  "EOS_Progressed": 264298,
+  "LastUpdate_Achievements": "2023-04-28T08:01:41.9986224+00:00",
+  "LastUpdate_Ratings": "2023-04-28T07:57:06.0309224+00:00",
+  "LastChanged_Achievements": "2023-04-28T08:01:41.9986211+00:00",
+  "LastChanged": "2023-04-28T07:57:06.0309218+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 18079,
-  "NumberOfAwards": 32745,
+  "NumberOfAwards": 32748,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_Progress": 37,
   "Ranking_PopularitySum": 34,

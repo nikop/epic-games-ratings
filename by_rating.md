@@ -243,7 +243,7 @@
 | 231 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.68 | 27 | 450 |
 | 231 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 488 |
 | 231 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 410 | 192 |
-| 231 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 551 | 170 |
+| 231 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 554 | 169 |
 | 231 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 660 | 158 |
 | 231 | [Revita](games/r/revita.md) | 4.68 | 0 | 488 |
 | 231 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 161 | 277 |
@@ -376,7 +376,7 @@
 | 351 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 62 | 369 |
 | 351 | [Warframe](games/w/warframe.md) | 4.61 | 14,304 | 22 |
 | 351 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 0 | 488 |
-| 377 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,541 | 30 |
+| 377 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,559 | 30 |
 | 377 | [Control](games/c/control.md) | 4.60 | 8,244 | 38 |
 | 377 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 349 |
 | 377 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,203 | 25 |
@@ -737,7 +737,7 @@
 | 728 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.33 | 54 | 379 |
 | 736 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 0 | 488 |
 | 736 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.32 | 0 | 488 |
-| 736 | [Filament](games/f/filament.md) | 4.32 | 551 | 170 |
+| 736 | [Filament](games/f/filament.md) | 4.32 | 551 | 171 |
 | 736 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 70 | 356 |
 | 736 | [House Party](games/h/house_party.md) | 4.32 | 0 | 488 |
 | 736 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.32 | 0 | 488 |
@@ -852,7 +852,7 @@
 | 850 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 0 | 488 |
 | 850 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 488 |
 | 850 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 380 |
-| 850 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,226 | 96 |
+| 850 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,229 | 96 |
 | 854 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 488 |
 | 854 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 488 |
 | 854 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 488 |
