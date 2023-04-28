@@ -1,5 +1,5 @@
 # Car Mechanic Simulator 2018
-Rating: 4.49 (Ranked 542)  
+Rating: 4.49 (Ranked 543)  
 Number of Ratings: 38,343  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 1,970  (Ranked 102)  

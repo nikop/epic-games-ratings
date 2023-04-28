@@ -42,7 +42,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 207
+      "Count": 208
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -324,6 +324,11 @@
     {
       "Time": "2023-04-28T06:04:03.1949108+00:00",
       "NumProgressed": 21097,
+      "NumCompleted": 40
+    },
+    {
+      "Time": "2023-04-28T07:04:12.8362804+00:00",
+      "NumProgressed": 21100,
       "NumCompleted": 40
     }
   ],
@@ -963,25 +968,31 @@
       "Rating": 4.49,
       "NumberOfAwards": 2001,
       "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-04-28T06:59:08.2168115+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2002,
+      "NumberOfAwardsMax": 223
     }
   ],
   "EOS_Completed_Percentage": 0.19,
   "EOS_Completed": 40,
-  "EOS_Progressed": 21097,
-  "LastUpdate_Achievements": "2023-04-28T06:04:03.1949111+00:00",
-  "LastUpdate_Ratings": "2023-04-28T05:58:48.5865228+00:00",
-  "LastChanged_Achievements": "2023-04-28T06:04:03.1949104+00:00",
-  "LastChanged": "2023-04-28T01:59:49.7347677+00:00",
+  "EOS_Progressed": 21100,
+  "LastUpdate_Achievements": "2023-04-28T07:04:12.8362811+00:00",
+  "LastUpdate_Ratings": "2023-04-28T06:59:08.2168119+00:00",
+  "LastChanged_Achievements": "2023-04-28T07:04:12.8362798+00:00",
+  "LastChanged": "2023-04-28T06:59:08.2168112+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "MaxAwardTitle": "Great for Quick Sessions",
   "NumberOfAwardsMax": 223,
-  "NumberOfAwards": 2001,
+  "NumberOfAwards": 2002,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_Progress": 88,
   "Ranking_PopularitySum": 183,
   "Ranking_Popularity": 244,
-  "Ranking_Rating": 542,
+  "Ranking_Rating": 543,
   "Rating": 4.49,
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00"
 }

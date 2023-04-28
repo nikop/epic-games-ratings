@@ -1,15 +1,15 @@
 # Anno 1800 Standard Edition
-Rating: 4.82 (Ranked 60)  
+Rating: 4.81 (Ranked 71)  
 Number of Ratings: 4,392  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 1,233  (Ranked 119)  
-Sum: 9,561 (Ranked 79)  
+Sum: 9,564 (Ranked 79)  
 Diff (max vs sum): 40
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 1,233 |
-| This game is Extremely Fun | 1,210 |
+| This game is Extremely Fun | 1,213 |
 | This game has Quickly Understood Controls | 1,169 |
 | This game is Highly Recommended | 1,143 |
 | This game is Educational | 1,106 |
@@ -134,4 +134,4 @@ Diff (max vs sum): 40
 | 2023-04-25 | 4.82 | - | 1,218 | 9,509 |
 | 2023-04-26 | 4.82 | - | 1,226 | 9,537 |
 | 2023-04-27 | 4.82 | - | 1,233 | 9,558 |
-| 2023-04-28 | 4.82 | - | 1,233 | 9,561 |
+| 2023-04-28 | 4.82 | - | 1,233 | 9,564 |

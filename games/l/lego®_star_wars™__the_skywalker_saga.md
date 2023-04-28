@@ -3,7 +3,7 @@ Rating: 4.79 (Ranked 91)
 Number of Ratings: 2,536  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 2,232  (Ranked 95)  
-Sum: 6,256 (Ranked 111)  
+Sum: 6,257 (Ranked 111)  
 Diff (max vs sum): -16
 ## Popularity (Based on EOS Achievements)
 Progressed: 39,132 (Ranked 78)  
@@ -20,7 +20,7 @@ Completed: 160 (0.41%) (Ranked 101)
 | ----- | ----- |
 | This game has Great Boss Battles | 2,232 |
 | This game has Diverse Characters | 472 |
-| This game has Amazing Characters | 463 |
+| This game has Amazing Characters | 464 |
 | This game is Great for Beginners | 461 |
 | This game has Amazing Storytelling | 450 |
 | This game is Highly Recommended | 449 |
@@ -120,3 +120,4 @@ Completed: 160 (0.41%) (Ranked 101)
 | 2023-04-23 | 4.79 | - | 2,230 | 6,254 |
 | 2023-04-25 | 4.79 | - | 2,231 | 6,255 |
 | 2023-04-27 | 4.79 | - | 2,232 | 6,256 |
+| 2023-04-28 | 4.79 | - | 2,232 | 6,257 |
