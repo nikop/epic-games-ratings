@@ -2,7 +2,7 @@
 | - | ---- | ------ | ------ | ------------------ |
 | 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 0 | 488 |
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 488 |
-| 3 | [Celeste](games/c/celeste.md) | 4.92 | 1,428 | 115 |
+| 3 | [Celeste](games/c/celeste.md) | 4.92 | 1,429 | 115 |
 | 3 | [Hades](games/h/hades.md) | 4.92 | 3,015 | 86 |
 | 5 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.91 | 20 | 480 |
 | 5 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 0 | 488 |
@@ -118,7 +118,7 @@
 | 116 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 0 | 488 |
 | 116 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,014 | 23 |
 | 116 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 85 | 337 |
-| 116 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 825 | 145 |
+| 116 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 828 | 144 |
 | 116 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 61 | 371 |
 | 116 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 488 |
 | 116 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 99 | 319 |
@@ -193,7 +193,7 @@
 | 190 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,502 | 67 |
 | 190 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 0 | 488 |
 | 190 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,125 | 70 |
-| 190 | [For The King](games/f/for_the_king.md) | 4.70 | 359 | 207 |
+| 190 | [For The King](games/f/for_the_king.md) | 4.70 | 360 | 207 |
 | 190 | [House Flipper](games/h/house_flipper.md) | 4.70 | 280 | 225 |
 | 190 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 50 | 382 |
 | 190 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,294 | 117 |
@@ -388,11 +388,11 @@
 | 377 | [Roguebook](games/r/roguebook.md) | 4.60 | 0 | 488 |
 | 377 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.60 | 0 | 488 |
 | 377 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 436 | 189 |
-| 377 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.60 | 132 | 289 |
+| 377 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.60 | 136 | 287 |
 | 377 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 20 | 480 |
 | 377 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 84 | 338 |
 | 392 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 44 | 401 |
-| 392 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 56,157 | 10 |
+| 392 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 56,194 | 10 |
 | 392 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.59 | 235 | 239 |
 | 392 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 57 | 378 |
 | 392 | [Moving Out](games/m/moving_out.md) | 4.59 | 0 | 488 |
@@ -453,7 +453,7 @@
 | 443 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 729 | 151 |
 | 443 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 27 | 450 |
 | 443 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 0 | 488 |
-| 443 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 133 | 288 |
+| 443 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 133 | 289 |
 | 443 | [Isonzo](games/i/isonzo.md) | 4.56 | 30 | 440 |
 | 443 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.56 | 69 | 358 |
 | 443 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 488 |
@@ -470,7 +470,7 @@
 | 465 | [Hue](games/h/hue.md) | 4.55 | 0 | 488 |
 | 465 | [Outward](games/o/outward.md) | 4.55 | 31 | 437 |
 | 465 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 488 |
-| 465 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 826 | 144 |
+| 465 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 826 | 145 |
 | 465 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.55 | 32 | 431 |
 | 465 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,129 | 123 |
 | 474 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 429 |
@@ -905,5 +905,5 @@
 | 903 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 488 |
 | 904 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 0 | 488 |
 | 904 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 488 |
-| 906 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.74 | 44 | 401 |
+| 904 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 44 | 401 |
 | 907 | [Blood of Steel](games/b/blood_of_steel.md) | 3.67 | 0 | 488 |

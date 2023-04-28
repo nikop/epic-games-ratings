@@ -133,7 +133,7 @@
 | [Arctico](games/a/arctico.md) | - | - | 0 | - |
 | [Are You Smarter Than A 5th Grader](games/a/are_you_smarter_than_a_5th_grader.md) | - | - | 0 | - |
 | [Arise: A Simple Story](games/a/arise__a_simple_story.md) | - | - | 0 | - |
-| [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 392 | 56,157 | 10 |
+| [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 392 | 56,194 | 10 |
 | [Arkanoid - Eternal Battle](games/a/arkanoid_-_eternal_battle.md) | - | - | 0 | - |
 | [Armored Warfare](games/a/armored_warfare.md) | 4.11 | 849 | 72 | 352 |
 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 28 | 0 | 488 |
@@ -365,7 +365,7 @@
 | [Cave Story®'s Secret Santa](games/c/cave_story®'s_secret_santa.md) | - | - | - | - |
 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 116 | 85 | 337 |
 | [Caverns of Mars Recharged](games/c/caverns_of_mars_recharged.md) | - | - | 0 | - |
-| [Celeste](games/c/celeste.md) | 4.92 | 3 | 1,428 | 115 |
+| [Celeste](games/c/celeste.md) | 4.92 | 3 | 1,429 | 115 |
 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 736 | 0 | 488 |
 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 640 | 60 | 373 |
 | [Cepheus Protocol](games/c/cepheus_protocol.md) | - | - | - | - |
@@ -572,7 +572,7 @@
 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 79 | 328 | 213 |
 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 633 | 23 | 465 |
 | [Dismay](games/d/dismay.md) | - | - | - | - |
-| [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 116 | 825 | 145 |
+| [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 116 | 828 | 144 |
 | [Disney Speedstorm](games/d/disney_speedstorm.md) | - | - | - | - |
 | [Distant Worlds 2](games/d/distant_worlds_2.md) | - | - | - | - |
 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.35 | 711 | 48 | 387 |
@@ -773,7 +773,7 @@
 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 79 | 6,245 | 50 |
 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 126 | 389 | 199 |
 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | - | - | 0 | - |
-| [For The King](games/f/for_the_king.md) | 4.70 | 190 | 359 | 207 |
+| [For The King](games/f/for_the_king.md) | 4.70 | 190 | 360 | 207 |
 | [FORECLOSED](games/f/foreclosed.md) | - | - | 0 | - |
 | [Foregone](games/f/foregone.md) | - | - | 0 | - |
 | [Foretales](games/f/foretales.md) | - | - | 0 | - |
@@ -948,7 +948,7 @@
 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 875 | 367 | 204 |
 | [Horace](games/h/horace.md) | 4.50 | 527 | 0 | 488 |
 | [HordeCore](games/h/hordecore.md) | - | - | 0 | - |
-| [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 443 | 133 | 288 |
+| [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 443 | 133 | 289 |
 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 105 | 3,921 | 74 |
 | [Horror Story: Hallowseed](games/h/horror_story__hallowseed.md) | - | - | 0 | - |
 | [HORROR TALES The Wine](games/h/horror_tales_the_wine.md) | - | - | 0 | - |
@@ -1049,8 +1049,8 @@
 | [Journey Into Darkness](games/j/journey_into_darkness.md) | - | - | - | - |
 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 408 | 36 | 417 |
 | [Journey to the West](games/j/journey_to_the_west.md) | - | - | - | - |
-| [Judas](games/j/judas.md) | - | - | 0 | - |
 | [Judas](games/j/judas_1.md) | - | - | - | - |
+| [Judas](games/j/judas.md) | - | - | 0 | - |
 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 334 | 529 | 177 |
 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 141 | 581 | 166 |
 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 748 | 3,575 | 78 |
@@ -1168,8 +1168,8 @@
 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.32 | 736 | 0 | 488 |
 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 351 | 0 | 488 |
 | [Little Orpheus](games/l/little_orpheus.md) | - | - | 0 | - |
-| [Live](games/l/live_130.md) | - | - | - | - |
 | [Live](games/l/live_79.md) | - | - | - | - |
+| [Live](games/l/live_130.md) | - | - | - | - |
 | [Locks Quest](games/l/locks_quest.md) | - | - | 0 | - |
 | [Lonesome Village](games/l/lonesome_village.md) | - | - | - | - |
 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 231 | 410 | 192 |
@@ -1482,7 +1482,7 @@
 | [Pepper Grinder](games/p/pepper_grinder.md) | - | - | - | - |
 | [PERISH](games/p/perish.md) | - | - | 0 | - |
 | [PHAGEBORN: Online Card Game](games/p/phageborn__online_card_game.md) | - | - | - | - |
-| [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 465 | 826 | 144 |
+| [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 465 | 826 | 145 |
 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 334 | 102 | 317 |
 | [Phobos](games/p/phobos.md) | - | - | - | - |
 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 443 | 1,765 | 106 |
@@ -1744,8 +1744,8 @@
 | [shapez](games/s/shapez.md) | 4.71 | 177 | 0 | 488 |
 | [Shattered Steel](games/s/shattered_steel.md) | - | - | 0 | - |
 | [Shattered: Tale of the Forgotten King](games/s/shattered__tale_of_the_forgotten_king.md) | - | - | 0 | - |
-| [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
 | [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
+| [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
 | [shaveta32internal Production](games/s/shaveta32internal_production.md) | - | - | - | - |
 | [Sheepo](games/s/sheepo.md) | - | - | 0 | - |
 | [Sheltered](games/s/sheltered.md) | 4.42 | 640 | 264 | 234 |
@@ -2135,12 +2135,12 @@
 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 190 | 0 | 488 |
 | [The Riflemen](games/t/the_riflemen.md) | - | - | - | - |
 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 126 | 37 | 413 |
-| [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.74 | 906 | 44 | 401 |
+| [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 904 | 44 | 401 |
 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | - | - | 0 | - |
 | [The Siege and the Sandfox](games/t/the_siege_and_the_sandfox.md) | - | - | - | - |
 | [The Signifier: Director's Cut](games/t/the_signifier__director's_cut.md) | - | - | 0 | - |
 | [The Silent Age](games/t/the_silent_age.md) | 4.34 | 719 | 0 | 488 |
-| [The Sims™ 4](games/t/the_sims™_4.md) | 4.60 | 377 | 132 | 289 |
+| [The Sims™ 4](games/t/the_sims™_4.md) | 4.60 | 377 | 136 | 287 |
 | [The Sinking City](games/t/the_sinking_city.md) | - | - | - | - |
 | [The Smurfs Mission Vileaf](games/t/the_smurfs_mission_vileaf.md) | - | - | 0 | - |
 | [The Sojourn](games/t/the_sojourn.md) | - | - | 0 | - |

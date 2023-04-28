@@ -48,7 +48,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 2181
+      "Count": 2190
     },
     {
       "Text": "This game has a Competitive Community",
@@ -4248,17 +4248,23 @@
       "Rating": 4.67,
       "NumberOfAwards": 21287,
       "NumberOfAwardsMax": 2486
+    },
+    {
+      "Time": "2023-04-28T11:58:22.1827006+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 21296,
+      "NumberOfAwardsMax": 2486
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T11:03:13.6914679+00:00",
-  "LastUpdate_Ratings": "2023-04-28T10:58:21.9846663+00:00",
-  "LastChanged": "2023-04-28T10:58:21.9846654+00:00",
+  "LastUpdate_Achievements": "2023-04-28T12:03:23.3862612+00:00",
+  "LastUpdate_Ratings": "2023-04-28T11:58:22.1827012+00:00",
+  "LastChanged": "2023-04-28T11:58:22.1827003+00:00",
   "MaxAwardTitle": "Great for Quick Sessions",
   "NumberOfAwardsMax": 2486,
-  "NumberOfAwards": 21287,
+  "NumberOfAwards": 21296,
   "NumberOfRatings": 6825,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 362,

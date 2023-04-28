@@ -9,7 +9,7 @@
 | 7 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 136,613 | 4.89 | 12 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 108,200 | 4.69 | 207 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 63,000 | 4.62 | 334 |
-| 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 56,157 | 4.59 | 392 |
+| 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 56,194 | 4.59 | 392 |
 | 11 | [VALORANT](games/v/valorant.md) | 50,236 | 4.54 | 474 |
 | 12 | [Destiny 2](games/d/destiny_2.md) | 33,311 | 4.50 | 527 |
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 30,213 | 4.74 | 141 |
@@ -114,7 +114,7 @@
 | 112 | [Ring of Pain](games/r/ring_of_pain.md) | 1,469 | 4.58 | 408 |
 | 113 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,462 | 4.69 | 207 |
 | 114 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,437 | 4.79 | 91 |
-| 115 | [Celeste](games/c/celeste.md) | 1,428 | 4.92 | 3 |
+| 115 | [Celeste](games/c/celeste.md) | 1,429 | 4.92 | 3 |
 | 116 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,367 | 4.87 | 24 |
 | 117 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,294 | 4.70 | 190 |
 | 118 | [DOOM 64](games/d/doom_64.md) | 1,285 | 4.66 | 271 |
@@ -143,8 +143,8 @@
 | 141 | [Sonic Mania](games/s/sonic_mania.md) | 904 | 4.78 | 100 |
 | 142 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 853 | 4.69 | 207 |
 | 143 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 846 | 4.45 | 599 |
-| 144 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 826 | 4.55 | 465 |
-| 145 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 825 | 4.76 | 116 |
+| 144 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 828 | 4.76 | 116 |
+| 145 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 826 | 4.55 | 465 |
 | 146 | [Frostpunk](games/f/frostpunk.md) | 768 | 4.74 | 141 |
 | 147 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 767 | 4.69 | 207 |
 | 148 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 752 | 4.50 | 527 |
@@ -206,7 +206,7 @@
 | 204 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 367 | 3.99 | 875 |
 | 204 | [Second Extinction™](games/s/second_extinction™.md) | 367 | 4.07 | 859 |
 | 206 | [Nuclear Throne](games/n/nuclear_throne.md) | 366 | 4.79 | 91 |
-| 207 | [For The King](games/f/for_the_king.md) | 359 | 4.70 | 190 |
+| 207 | [For The King](games/f/for_the_king.md) | 360 | 4.70 | 190 |
 | 208 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 345 | 4.61 | 351 |
 | 209 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 339 | 4.24 | 777 |
 | 210 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 336 | 4.33 | 728 |
@@ -287,8 +287,8 @@
 | 285 | [Night in the Woods](games/n/night_in_the_woods.md) | 139 | 4.73 | 155 |
 | 286 | [Blasphemous](games/b/blasphemous.md) | 138 | 4.86 | 28 |
 | 287 | [Fort Triumph](games/f/fort_triumph.md) | 136 | 4.08 | 857 |
-| 288 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 133 | 4.56 | 443 |
-| 289 | [The Sims™ 4](games/t/the_sims™_4.md) | 132 | 4.60 | 377 |
+| 287 | [The Sims™ 4](games/t/the_sims™_4.md) | 136 | 4.60 | 377 |
+| 289 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 133 | 4.56 | 443 |
 | 290 | [while True: learn()](games/w/while_true__learn().md) | 131 | 4.51 | 510 |
 | 291 | [Atomicrops](games/a/atomicrops.md) | 128 | 4.88 | 18 |
 | 292 | [Alien: Isolation ](games/a/alien__isolation.md) | 127 | 4.61 | 351 |
@@ -402,7 +402,7 @@
 | 395 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 45 | 4.24 | 777 |
 | 401 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 44 | 4.59 | 392 |
 | 401 | [The Alto Collection](games/t/the_alto_collection.md) | 44 | 4.70 | 190 |
-| 401 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 44 | 3.74 | 906 |
+| 401 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 44 | 3.75 | 904 |
 | 404 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 43 | 4.29 | 755 |
 | 405 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 41 | 4.75 | 126 |
 | 406 | [Coromon](games/c/coromon.md) | 40 | 4.65 | 287 |

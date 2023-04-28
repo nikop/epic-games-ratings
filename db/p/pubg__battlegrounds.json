@@ -6,7 +6,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1310
+      "Count": 1319
     },
     {
       "Text": "This game is Extremely Fun",
@@ -401,6 +401,11 @@
     {
       "Time": "2023-04-28T11:03:33.3521496+00:00",
       "NumProgressed": 339074,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-28T12:03:42.7545174+00:00",
+      "NumProgressed": 339133,
       "NumCompleted": 8
     }
   ],
@@ -1346,23 +1351,29 @@
       "Rating": 3.98,
       "NumberOfAwards": 5379,
       "NumberOfAwardsMax": 1662
+    },
+    {
+      "Time": "2023-04-28T11:58:51.2834954+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 5388,
+      "NumberOfAwardsMax": 1662
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_Completed": 8,
-  "EOS_Progressed": 339074,
-  "LastUpdate_Achievements": "2023-04-28T11:03:33.35215+00:00",
-  "LastUpdate_Ratings": "2023-04-28T10:58:50.0534634+00:00",
-  "LastChanged_Achievements": "2023-04-28T11:03:33.3521487+00:00",
-  "LastChanged": "2023-04-28T09:58:46.435999+00:00",
+  "EOS_Progressed": 339133,
+  "LastUpdate_Achievements": "2023-04-28T12:03:42.7545183+00:00",
+  "LastUpdate_Ratings": "2023-04-28T11:58:51.2834958+00:00",
+  "LastChanged_Achievements": "2023-04-28T12:03:42.7545166+00:00",
+  "LastChanged": "2023-04-28T11:58:51.283495+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "MaxAwardTitle": "Competitive Players",
   "NumberOfAwardsMax": 1662,
-  "NumberOfAwards": 5379,
+  "NumberOfAwards": 5388,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 35,
-  "Ranking_PopularitySum": 116,
+  "Ranking_PopularitySum": 115,
   "Ranking_Popularity": 109,
   "Ranking_Rating": 878,
   "Rating": 3.98,
