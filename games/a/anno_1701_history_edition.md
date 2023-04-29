@@ -1,5 +1,5 @@
 # Anno 1701 History Edition
-Rating: 4.57 (Ranked 427)  
+Rating: 4.56 (Ranked 443)  
 Number of Ratings: 37  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
@@ -61,3 +61,4 @@ Diff (max vs sum): 0
 | 2023-04-10 | 4.55 | - | 0 | 0 |
 | 2023-04-13 | 4.56 | - | 0 | 0 |
 | 2023-04-17 | 4.57 | - | 0 | 0 |
+| 2023-04-29 | 4.56 | - | 0 | 0 |

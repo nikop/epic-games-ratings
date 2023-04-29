@@ -1,16 +1,16 @@
 # Paladins
-Rating: 4.35 (Ranked 712)  
+Rating: 4.35 (Ranked 713)  
 Number of Ratings: 11,687  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 3,189  (Ranked 82)  
-Sum: 22,049 (Ranked 49)  
+Sum: 22,053 (Ranked 49)  
 Diff (max vs sum): 33
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 3,226 |
 | This game has Diverse Characters | 3,189 |
-| This game has Competitive Players | 2,926 |
+| This game has Competitive Players | 2,930 |
 | This game has Quickly Understood Controls | 2,897 |
 | This game is Extremely Fun | 2,894 |
 | This game is Highly Recommended | 2,719 |
@@ -115,4 +115,4 @@ Diff (max vs sum): 33
 | 2023-04-26 | 4.35 | - | 3,183 | 22,018 |
 | 2023-04-27 | 4.35 | - | 3,185 | 22,032 |
 | 2023-04-28 | 4.35 | - | 3,186 | 22,035 |
-| 2023-04-29 | 4.35 | - | 3,189 | 22,049 |
+| 2023-04-29 | 4.35 | - | 3,189 | 22,053 |

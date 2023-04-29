@@ -1,12 +1,12 @@
 # Destiny 2
-Rating: 4.50 (Ranked 529)  
+Rating: 4.50 (Ranked 530)  
 Number of Ratings: 32,207  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 33,337  (Ranked 12)  
-Sum: 80,675 (Ranked 16)  
+Sum: 80,680 (Ranked 16)  
 Diff (max vs sum): -4
 ## Popularity (Based on EOS Achievements)
-Progressed: 384,994 (Ranked 32)  
+Progressed: 385,047 (Ranked 32)  
 Completed: 11,255 (2.92%) (Ranked 43)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -15,7 +15,7 @@ Completed: 11,255 (2.92%) (Ranked 43)
 | 2023-04-26 | 382,095 | 11,166 |
 | 2023-04-27 | 382,952 | 11,194 |
 | 2023-04-28 | 383,847 | 11,221 |
-| 2023-04-29 | 384,994 | 11,255 |
+| 2023-04-29 | 385,047 | 11,255 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -27,7 +27,7 @@ Completed: 11,255 (2.92%) (Ranked 43)
 | This game has Quickly Understood Controls | 5,899 |
 | This game has Amazing Storytelling | 5,715 |
 | This game has Amazing Characters | 5,680 |
-| This game has Competitive Players | 5,632 |
+| This game has Competitive Players | 5,637 |
 | This game has Obsessive Gameplay | 3,329 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -113,4 +113,4 @@ Completed: 11,255 (2.92%) (Ranked 43)
 | 2023-04-26 | 4.50 | - | 33,253 | 80,354 |
 | 2023-04-27 | 4.50 | - | 33,283 | 80,464 |
 | 2023-04-28 | 4.50 | - | 33,311 | 80,581 |
-| 2023-04-29 | 4.50 | - | 33,337 | 80,675 |
+| 2023-04-29 | 4.50 | - | 33,337 | 80,680 |

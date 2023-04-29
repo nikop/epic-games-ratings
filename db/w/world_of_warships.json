@@ -6,7 +6,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 956
+      "Count": 958
     },
     {
       "Text": "This game has Competitive Players",
@@ -3901,6 +3901,12 @@
       "Rating": 4.43,
       "NumberOfAwards": 8986,
       "NumberOfAwardsMax": 1021
+    },
+    {
+      "Time": "2023-04-29T21:58:18.9660338+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 8988,
+      "NumberOfAwardsMax": 1021
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -3908,14 +3914,14 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-29T21:03:29.5637273+00:00",
-  "LastUpdate_Ratings": "2023-04-29T20:58:27.4682788+00:00",
-  "LastChanged": "2023-04-29T19:58:00.4332455+00:00",
+  "LastUpdate_Achievements": "2023-04-29T22:03:30.6164135+00:00",
+  "LastUpdate_Ratings": "2023-04-29T21:58:18.9660344+00:00",
+  "LastChanged": "2023-04-29T21:58:18.9660336+00:00",
   "MaxAwardTitle": "Relaxing",
   "NumberOfAwardsMax": 1021,
-  "NumberOfAwards": 8986,
+  "NumberOfAwards": 8988,
   "NumberOfRatings": 4733,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 71,
   "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_Progress": 366,

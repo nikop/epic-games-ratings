@@ -1,5 +1,5 @@
 # Cartel Tycoon
-Rating: 4.35 (Ranked 712)  
+Rating: 4.35 (Ranked 713)  
 Number of Ratings: 101  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  

@@ -6,7 +6,7 @@
 | 4 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 5 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 6 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.33% |
-| 7 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
+| 7 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.91% |
 | 8 | [Ravenlok](games/r/ravenlok.md) | 10.71% |
 | 9 | [Smelter](games/s/smelter.md) | 10.34% |
 | 10 | [Island Cities](games/i/island_cities.md) | 10.26% |
@@ -14,14 +14,14 @@
 | 12 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 13 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 15 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 8.11% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.49% |
+| 15 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.89% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.48% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.38% |
 | 18 | [Scorn](games/s/scorn.md) | 7.17% |
-| 19 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.40% |
+| 19 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.35% |
 | 20 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 21 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
-| 22 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.88% |
+| 22 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.71% |
 | 23 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.97% |
 | 24 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
 | 25 | [Bugsnax](games/b/bugsnax.md) | 4.60% |

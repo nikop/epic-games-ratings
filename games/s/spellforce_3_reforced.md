@@ -1,5 +1,5 @@
 # SpellForce 3 Reforced
-Rating: 4.49 (Ranked 544)  
+Rating: 4.49 (Ranked 545)  
 Number of Ratings: 71  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  

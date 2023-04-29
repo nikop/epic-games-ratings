@@ -36,7 +36,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 2926
+      "Count": 2930
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3945,6 +3945,12 @@
       "Rating": 4.35,
       "NumberOfAwards": 22049,
       "NumberOfAwardsMax": 3189
+    },
+    {
+      "Time": "2023-04-29T22:00:10.1375937+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 22053,
+      "NumberOfAwardsMax": 3189
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -3952,20 +3958,20 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-29T21:05:22.3110487+00:00",
-  "LastUpdate_Ratings": "2023-04-29T21:00:19.3797198+00:00",
-  "LastChanged": "2023-04-29T19:00:00.4893506+00:00",
+  "LastUpdate_Achievements": "2023-04-29T22:05:23.7634708+00:00",
+  "LastUpdate_Ratings": "2023-04-29T22:00:10.1375942+00:00",
+  "LastChanged": "2023-04-29T22:00:10.1375935+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 3189,
-  "NumberOfAwards": 22049,
+  "NumberOfAwards": 22053,
   "NumberOfRatings": 11687,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 71,
   "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_Progress": 366,
   "Ranking_PopularitySum": 49,
   "Ranking_Popularity": 82,
-  "Ranking_Rating": 712,
+  "Ranking_Rating": 713,
   "Rating": 4.35,
   "FirstSeen": "2022-07-22T20:17:05.5508389+00:00"
 }

@@ -1,5 +1,5 @@
 # Kao the Kangaroo - Round 2
-Rating: 4.67 (Ranked 254)  
+Rating: 4.68 (Ranked 233)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
@@ -21,3 +21,4 @@ Diff (max vs sum): 0
 | 2023-02-02 | 4.64 | - | - |
 | 2023-02-03 | 4.66 | - | - |
 | 2023-03-31 | 4.67 | 0 | 0 |
+| 2023-04-29 | 4.68 | 0 | 0 |

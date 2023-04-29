@@ -6,7 +6,7 @@
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 136850
+      "Count": 137139
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -5129,6 +5129,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 347989,
       "NumberOfAwardsMax": 136850
+    },
+    {
+      "Time": "2023-04-29T21:58:38.4839133+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 348278,
+      "NumberOfAwardsMax": 137139
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -5136,14 +5142,14 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-29T21:03:49.1419215+00:00",
-  "LastUpdate_Ratings": "2023-04-29T20:58:46.7531178+00:00",
-  "LastChanged": "2023-04-29T13:01:11.8839834+00:00",
+  "LastUpdate_Achievements": "2023-04-29T22:03:50.5573018+00:00",
+  "LastUpdate_Ratings": "2023-04-29T21:58:38.4839138+00:00",
+  "LastChanged": "2023-04-29T21:58:38.4839131+00:00",
   "MaxAwardTitle": "Impact the Story",
-  "NumberOfAwardsMax": 136850,
-  "NumberOfAwards": 347989,
+  "NumberOfAwardsMax": 137139,
+  "NumberOfAwards": 348278,
   "NumberOfRatings": 102658,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 71,
   "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_Progress": 366,

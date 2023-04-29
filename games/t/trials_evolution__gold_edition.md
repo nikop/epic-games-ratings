@@ -1,5 +1,5 @@
 # Trials Evolution: Gold Edition
-Rating: 4.50 (Ranked 529)  
+Rating: 4.51 (Ranked 512)  
 Number of Ratings: 28  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
@@ -26,3 +26,4 @@ Diff (max vs sum): 0
 | 2023-03-10 | 4.55 | - | - | - |
 | 2023-03-31 | 4.55 | - | 0 | 0 |
 | 2023-04-19 | 4.50 | - | 0 | 0 |
+| 2023-04-29 | 4.51 | - | 0 | 0 |
