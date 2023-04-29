@@ -24,7 +24,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 223
+      "Count": 225
     },
     {
       "Text": "This game is Extremely Fun",
@@ -414,6 +414,11 @@
     {
       "Time": "2023-04-29T02:04:35.2578325+00:00",
       "NumProgressed": 21151,
+      "NumCompleted": 40
+    },
+    {
+      "Time": "2023-04-29T03:04:15.1098544+00:00",
+      "NumProgressed": 21155,
       "NumCompleted": 40
     }
   ],
@@ -1071,28 +1076,34 @@
       "Rating": 4.49,
       "NumberOfAwards": 2004,
       "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-04-29T02:59:26.6642386+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2006,
+      "NumberOfAwardsMax": 225
     }
   ],
   "EOS_Completed_Percentage": 0.19,
   "EOS_NewCompleters": 3,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 213,
   "EOS_Completed": 40,
-  "EOS_Progressed": 21151,
-  "LastUpdate_Achievements": "2023-04-29T02:04:35.2578365+00:00",
-  "LastUpdate_Ratings": "2023-04-29T01:59:13.4358016+00:00",
-  "LastChanged_Achievements": "2023-04-29T02:04:35.2578319+00:00",
-  "LastChanged": "2023-04-28T22:59:57.899146+00:00",
+  "EOS_Progressed": 21155,
+  "LastUpdate_Achievements": "2023-04-29T03:04:15.1098578+00:00",
+  "LastUpdate_Ratings": "2023-04-29T02:59:26.6642391+00:00",
+  "LastChanged_Achievements": "2023-04-29T03:04:15.1098539+00:00",
+  "LastChanged": "2023-04-29T02:59:26.6642382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "MaxAwardTitle": "Great for Quick Sessions",
-  "NumberOfAwardsMax": 223,
-  "NumberOfAwards": 2004,
+  "NumberOfAwardsMax": 225,
+  "NumberOfAwards": 2006,
   "Ranking_EOS_NewCompleters": 24,
   "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_Progress": 88,
   "Ranking_PopularitySum": 183,
-  "Ranking_Popularity": 244,
+  "Ranking_Popularity": 243,
   "Ranking_Rating": 544,
   "Rating": 4.49,
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00"

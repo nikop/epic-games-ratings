@@ -1,11 +1,11 @@
 # DEATH STRANDING
 Rating: 4.78 (Ranked 101)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 4,633  (Ranked 65)  
-Sum: 6,307 (Ranked 110)  
+Max (Great Boss Battles): 4,641  (Ranked 65)  
+Sum: 6,316 (Ranked 110)  
 Diff (max vs sum): -45
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,493,572 (Ranked 5)  
+Progressed: 2,493,698 (Ranked 5)  
 Completed: 1,204 (0.05%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -14,12 +14,12 @@ Completed: 1,204 (0.05%) (Ranked 163)
 | 2023-04-26 | 2,488,871 | 1,198 |
 | 2023-04-27 | 2,490,968 | 1,201 |
 | 2023-04-28 | 2,493,354 | 1,203 |
-| 2023-04-29 | 2,493,572 | 1,204 |
+| 2023-04-29 | 2,493,698 | 1,204 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 4,633 |
-| This game is Great for Beginners | 218 |
+| This game has Great Boss Battles | 4,641 |
+| This game is Great for Beginners | 219 |
 | This game is Highly Recommended | 201 |
 | This game has Diverse Characters | 198 |
 | This game is Relaxing | 195 |
@@ -71,3 +71,4 @@ Completed: 1,204 (0.05%) (Ranked 163)
 | 2023-04-26 | 4.78 | 4,624 | 6,295 |
 | 2023-04-27 | 4.78 | 4,624 | 6,298 |
 | 2023-04-28 | 4.78 | 4,633 | 6,307 |
+| 2023-04-29 | 4.78 | 4,641 | 6,316 |

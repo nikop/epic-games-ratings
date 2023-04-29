@@ -9,16 +9,16 @@
 | 7 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 11.72% |
 | 8 | [Ravenlok](games/r/ravenlok.md) | 10.91% |
 | 9 | [Smelter](games/s/smelter.md) | 10.34% |
-| 10 | [Time Loader](games/t/time_loader.md) | 8.51% |
-| 11 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
-| 12 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
-| 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.53% |
-| 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.43% |
-| 16 | [Scorn](games/s/scorn.md) | 7.17% |
-| 17 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.81% |
-| 18 | [Island Cities](games/i/island_cities.md) | 6.45% |
-| 18 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.45% |
+| 10 | [Island Cities](games/i/island_cities.md) | 9.68% |
+| 11 | [Time Loader](games/t/time_loader.md) | 8.51% |
+| 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
+| 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
+| 13 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
+| 15 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.53% |
+| 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.38% |
+| 17 | [Scorn](games/s/scorn.md) | 7.17% |
+| 18 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.75% |
+| 19 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.45% |
 | 20 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 21 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 22 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.88% |
