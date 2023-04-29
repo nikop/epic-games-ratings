@@ -30,7 +30,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 183
+      "Count": 188
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -500,6 +500,11 @@
     {
       "Time": "2023-04-29T08:04:27.6047611+00:00",
       "NumProgressed": 56756,
+      "NumCompleted": 23
+    },
+    {
+      "Time": "2023-04-29T09:04:50.186439+00:00",
+      "NumProgressed": 56773,
       "NumCompleted": 23
     }
   ],
@@ -1499,22 +1504,28 @@
       "Rating": 3.93,
       "NumberOfAwards": 967,
       "NumberOfAwardsMax": 199
+    },
+    {
+      "Time": "2023-04-29T08:59:21.6909095+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 972,
+      "NumberOfAwardsMax": 199
     }
   ],
   "EOS_Completed_Percentage": 0.04,
   "EOS_NewCompleters": 4,
-  "EOS_NewPlayers": 1215,
+  "EOS_NewPlayers": 1232,
   "EOS_Completed": 23,
-  "EOS_Progressed": 56756,
-  "LastUpdate_Achievements": "2023-04-29T08:04:27.6047682+00:00",
-  "LastUpdate_Ratings": "2023-04-29T07:59:14.11309+00:00",
-  "LastChanged_Achievements": "2023-04-29T08:04:27.6047605+00:00",
-  "LastChanged": "2023-04-29T06:59:56.3942183+00:00",
+  "EOS_Progressed": 56773,
+  "LastUpdate_Achievements": "2023-04-29T09:04:50.1864442+00:00",
+  "LastUpdate_Ratings": "2023-04-29T08:59:21.6909098+00:00",
+  "LastChanged_Achievements": "2023-04-29T09:04:50.1864384+00:00",
+  "LastChanged": "2023-04-29T08:59:21.6909092+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "MaxAwardTitle": "Highly Recommended",
   "NumberOfAwardsMax": 199,
-  "NumberOfAwards": 967,
+  "NumberOfAwards": 972,
   "Ranking_EOS_NewCompleters": 21,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_Completed": 165,

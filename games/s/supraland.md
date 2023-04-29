@@ -1,12 +1,12 @@
 # Supraland
-Rating: 4.61 (Ranked 350)  
+Rating: 4.61 (Ranked 351)  
 Number of Ratings: 25,175  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Challenging Puzzles): 7,599  (Ranked 40)  
 Sum: 9,876 (Ranked 78)  
 Diff (max vs sum): -38
 ## Popularity (Based on EOS Achievements)
-Progressed: 701,949 (Ranked 14)  
+Progressed: 701,963 (Ranked 14)  
 Completed: 664 (0.09%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -15,7 +15,7 @@ Completed: 664 (0.09%) (Ranked 150)
 | 2023-04-26 | 701,577 | 661 |
 | 2023-04-27 | 701,703 | 661 |
 | 2023-04-28 | 701,892 | 664 |
-| 2023-04-29 | 701,949 | 664 |
+| 2023-04-29 | 701,963 | 664 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

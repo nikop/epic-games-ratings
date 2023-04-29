@@ -1,5 +1,5 @@
 # Necromunda: Hired Gun
-Rating: 4.10 (Ranked 850)  
+Rating: 4.10 (Ranked 849)  
 Number of Ratings: 112  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  

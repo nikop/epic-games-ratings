@@ -144,6 +144,11 @@
       "Time": "2023-04-29T04:02:55.4330097+00:00",
       "NumProgressed": 2282,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-04-29T09:02:16.9659863+00:00",
+      "NumProgressed": 2283,
+      "NumCompleted": 1
     }
   ],
   "RatingHistory": [
@@ -541,12 +546,12 @@
   ],
   "EOS_Completed_Percentage": 0.04,
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_Completed": 1,
-  "EOS_Progressed": 2282,
-  "LastUpdate_Achievements": "2023-04-29T08:00:29.6161522+00:00",
-  "LastUpdate_Ratings": "2023-04-29T07:57:18.7151239+00:00",
-  "LastChanged_Achievements": "2023-04-29T08:00:29.6161478+00:00",
+  "EOS_Progressed": 2283,
+  "LastUpdate_Achievements": "2023-04-29T09:02:16.9659892+00:00",
+  "LastUpdate_Ratings": "2023-04-29T08:57:29.4629126+00:00",
+  "LastChanged_Achievements": "2023-04-29T09:02:16.9659857+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "MaxAwardTitle": "Amazing Characters",
@@ -554,7 +559,7 @@
   "NumberOfAwards": 238,
   "NumberOfRatings": 266,
   "Ranking_EOS_NewCompleters": 66,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_Progress": 136,
   "Ranking_PopularitySum": 340,

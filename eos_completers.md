@@ -9,12 +9,12 @@
 | 7 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
 | 8 | [Ravenlok](games/r/ravenlok.md) | 10.91% |
 | 9 | [Smelter](games/s/smelter.md) | 10.34% |
-| 10 | [Island Cities](games/i/island_cities.md) | 9.38% |
+| 10 | [Island Cities](games/i/island_cities.md) | 9.09% |
 | 11 | [Time Loader](games/t/time_loader.md) | 8.51% |
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
+| 13 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 8.33% |
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 13 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 15 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.72% |
 | 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.52% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.38% |
 | 18 | [Scorn](games/s/scorn.md) | 7.17% |
@@ -42,16 +42,16 @@
 | 40 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.99% |
 | 41 | [MultiVersus](games/m/multiversus.md) | 2.96% |
 | 42 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.94% |
-| 43 | [Destiny 2](games/d/destiny_2.md) | 2.92% |
+| 43 | [Destiny 2](games/d/destiny_2.md) | 2.93% |
 | 44 | [Bunny Park](games/b/bunny_park.md) | 2.89% |
 | 45 | [FORECLOSED](games/f/foreclosed.md) | 2.78% |
 | 46 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 47 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 48 | [JARS](games/j/jars.md) | 2.63% |
-| 49 | [ZZT!](games/z/zzt!.md) | 2.52% |
+| 49 | [ZZT!](games/z/zzt!.md) | 2.57% |
 | 50 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 51 | [Iron Danger](games/i/iron_danger.md) | 2.48% |
-| 52 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.26% |
+| 52 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.27% |
 | 53 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 54 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
 | 55 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -172,14 +172,14 @@
 | 165 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
 | 171 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 171 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
-| 173 | [Disco Elysium](games/d/disco_elysium.md) | 0.02% |
-| 173 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.02% |
-| 173 | [Good Company](games/g/good_company.md) | 0.02% |
-| 173 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
-| 173 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
-| 173 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.02% |
-| 173 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
-| 173 | [The Alto Collection](games/t/the_alto_collection.md) | 0.02% |
+| 171 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.03% |
+| 174 | [Disco Elysium](games/d/disco_elysium.md) | 0.02% |
+| 174 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.02% |
+| 174 | [Good Company](games/g/good_company.md) | 0.02% |
+| 174 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
+| 174 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
+| 174 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
+| 174 | [The Alto Collection](games/t/the_alto_collection.md) | 0.02% |
 | 181 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
 | 181 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
 | 181 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |

@@ -36,7 +36,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 319
+      "Count": 320
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2628,6 +2628,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 3475,
       "NumberOfAwardsMax": 410
+    },
+    {
+      "Time": "2023-04-29T08:59:13.1701878+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 3476,
+      "NumberOfAwardsMax": 410
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -2635,15 +2641,15 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-29T08:04:16.3627041+00:00",
-  "LastUpdate_Ratings": "2023-04-29T07:59:05.6773848+00:00",
-  "LastChanged": "2023-04-28T14:59:50.9223715+00:00",
+  "LastUpdate_Achievements": "2023-04-29T09:04:39.1409153+00:00",
+  "LastUpdate_Ratings": "2023-04-29T08:59:13.1701883+00:00",
+  "LastChanged": "2023-04-29T08:59:13.1701876+00:00",
   "MaxAwardTitle": "Quickly Understood Controls",
   "NumberOfAwardsMax": 410,
-  "NumberOfAwards": 3475,
+  "NumberOfAwards": 3476,
   "NumberOfRatings": 6301,
   "Ranking_EOS_NewCompleters": 66,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 364,
   "Ranking_PopularitySum": 141,
