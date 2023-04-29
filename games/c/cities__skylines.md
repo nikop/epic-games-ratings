@@ -1,13 +1,13 @@
 # Cities: Skylines
-Rating: 4.65 (Ranked 287)  
+Rating: 4.65 (Ranked 288)  
 Number of Ratings: 25,248  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 4,362  (Ranked 68)  
 Sum: 33,325 (Ranked 33)  
 Diff (max vs sum): 35
 ## Popularity (Based on EOS Achievements)
-Progressed: 692,025 (Ranked 15)  
-Completed: 5 (0.00%) (Ranked 190)  
+Progressed: 692,156 (Ranked 15)  
+Completed: 5 (0.00%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -15,7 +15,7 @@ Completed: 5 (0.00%) (Ranked 190)
 | 2023-04-26 | 685,638 | 4 |
 | 2023-04-27 | 687,501 | 5 |
 | 2023-04-28 | 689,594 | 5 |
-| 2023-04-29 | 692,025 | 5 |
+| 2023-04-29 | 692,156 | 5 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

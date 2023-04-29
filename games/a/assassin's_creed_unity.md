@@ -1,5 +1,5 @@
 # Assassin's Creed Unity
-Rating: 4.58 (Ranked 410)  
+Rating: 4.58 (Ranked 411)  
 Number of Ratings: 900  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 589  (Ranked 165)  

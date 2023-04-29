@@ -6,7 +6,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 280
+      "Count": 281
     },
     {
       "Text": "This game is Extremely Fun",
@@ -208,6 +208,11 @@
     {
       "Time": "2023-04-29T19:04:18.2976453+00:00",
       "NumProgressed": 18618,
+      "NumCompleted": 19
+    },
+    {
+      "Time": "2023-04-29T21:04:13.38854+00:00",
+      "NumProgressed": 18619,
       "NumCompleted": 19
     }
   ],
@@ -1438,29 +1443,35 @@
       "Rating": 4.7,
       "NumberOfAwards": 2103,
       "NumberOfAwardsMax": 280
+    },
+    {
+      "Time": "2023-04-29T20:59:11.6356961+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2104,
+      "NumberOfAwardsMax": 281
     }
   ],
   "EOS_Completed_Percentage": 0.1,
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_Completed": 19,
-  "EOS_Progressed": 18618,
-  "LastUpdate_Achievements": "2023-04-29T20:03:51.9351381+00:00",
-  "LastUpdate_Ratings": "2023-04-29T19:58:35.6856759+00:00",
-  "LastChanged_Achievements": "2023-04-29T20:03:51.9351338+00:00",
-  "LastChanged": "2023-04-28T21:00:37.3352911+00:00",
+  "EOS_Progressed": 18619,
+  "LastUpdate_Achievements": "2023-04-29T21:04:13.3885448+00:00",
+  "LastUpdate_Ratings": "2023-04-29T20:59:11.6356964+00:00",
+  "LastChanged_Achievements": "2023-04-29T21:04:13.3885397+00:00",
+  "LastChanged": "2023-04-29T20:59:11.6356959+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "MaxAwardTitle": "Great for Beginners",
-  "NumberOfAwardsMax": 280,
-  "NumberOfAwards": 2103,
+  "NumberOfAwardsMax": 281,
+  "NumberOfAwards": 2104,
   "NumberOfRatings": 1023,
   "Ranking_EOS_NewCompleters": 70,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_Progress": 91,
   "Ranking_PopularitySum": 178,
   "Ranking_Popularity": 225,
-  "Ranking_Rating": 190,
+  "Ranking_Rating": 191,
   "Rating": 4.7,
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00"
 }

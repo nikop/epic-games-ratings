@@ -48,7 +48,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 5886
+      "Count": 5899
     },
     {
       "Text": "This game has Competitive Players",
@@ -573,6 +573,11 @@
       "Time": "2023-04-29T20:03:40.0419125+00:00",
       "NumProgressed": 384925,
       "NumCompleted": 11252
+    },
+    {
+      "Time": "2023-04-29T21:03:58.8732611+00:00",
+      "NumProgressed": 384994,
+      "NumCompleted": 11255
     }
   ],
   "RatingHistory": [
@@ -3583,22 +3588,28 @@
       "Rating": 4.5,
       "NumberOfAwards": 80662,
       "NumberOfAwardsMax": 33337
+    },
+    {
+      "Time": "2023-04-29T20:58:55.2208026+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 80675,
+      "NumberOfAwardsMax": 33337
     }
   ],
   "EOS_Completed_Percentage": 2.92,
-  "EOS_NewCompleters": 126,
-  "EOS_NewPlayers": 3878,
-  "EOS_Completed": 11252,
-  "EOS_Progressed": 384925,
-  "LastUpdate_Achievements": "2023-04-29T20:03:40.0419197+00:00",
-  "LastUpdate_Ratings": "2023-04-29T19:58:22.4272807+00:00",
-  "LastChanged_Achievements": "2023-04-29T20:03:40.0419117+00:00",
-  "LastChanged": "2023-04-29T19:58:22.4272798+00:00",
+  "EOS_NewCompleters": 129,
+  "EOS_NewPlayers": 3947,
+  "EOS_Completed": 11255,
+  "EOS_Progressed": 384994,
+  "LastUpdate_Achievements": "2023-04-29T21:03:58.8732677+00:00",
+  "LastUpdate_Ratings": "2023-04-29T20:58:55.2208036+00:00",
+  "LastChanged_Achievements": "2023-04-29T21:03:58.8732606+00:00",
+  "LastChanged": "2023-04-29T20:58:55.2208024+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:52.6483728+00:00",
   "FirstSeenRating": "2022-08-24T03:30:20.9735605+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 33337,
-  "NumberOfAwards": 80662,
+  "NumberOfAwards": 80675,
   "NumberOfRatings": 32207,
   "Ranking_EOS_NewCompleters": 3,
   "Ranking_EOS_NewPlayers": 16,
@@ -3606,7 +3617,7 @@
   "Ranking_EOS_Progress": 32,
   "Ranking_PopularitySum": 16,
   "Ranking_Popularity": 12,
-  "Ranking_Rating": 528,
+  "Ranking_Rating": 529,
   "Rating": 4.5,
   "FirstSeen": "2022-08-23T20:00:58.6908762+00:00"
 }

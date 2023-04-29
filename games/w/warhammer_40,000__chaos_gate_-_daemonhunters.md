@@ -1,13 +1,13 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
-Rating: 4.58 (Ranked 410)  
+Rating: 4.58 (Ranked 411)  
 Number of Ratings: 371  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 204  (Ranked 252)  
-Sum: 412 (Ranked 295)  
+Max (Character Customization): 205  (Ranked 252)  
+Sum: 413 (Ranked 295)  
 Diff (max vs sum): -43
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,560 (Ranked 133)  
-Completed: 0 (0.00%) (Ranked 190)  
+Completed: 0 (0.00%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -18,7 +18,7 @@ Completed: 0 (0.00%) (Ranked 190)
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 204 |
+| This game has Inclusive Character Customization | 205 |
 | This game is Extremely Fun | 29 |
 | This game has Amazing Storytelling | 29 |
 | This game is Highly Recommended | 28 |
@@ -99,3 +99,4 @@ Completed: 0 (0.00%) (Ranked 190)
 | 2023-04-20 | 4.58 | - | 203 | 410 |
 | 2023-04-22 | 4.58 | - | 204 | 411 |
 | 2023-04-23 | 4.58 | - | 204 | 412 |
+| 2023-04-29 | 4.58 | - | 205 | 413 |

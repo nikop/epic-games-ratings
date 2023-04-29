@@ -1,12 +1,12 @@
 # Dying Light 2 Stay Human
-Rating: 4.57 (Ranked 426)  
+Rating: 4.57 (Ranked 427)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 6,722  (Ranked 45)  
-Sum: 15,522 (Ranked 58)  
+Sum: 15,528 (Ranked 58)  
 Diff (max vs sum): -13
 ## Popularity (Based on EOS Achievements)
-Progressed: 534,191 (Ranked 22)  
+Progressed: 534,271 (Ranked 22)  
 Completed: 45 (0.01%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -15,13 +15,13 @@ Completed: 45 (0.01%) (Ranked 181)
 | 2023-04-26 | 530,674 | 45 |
 | 2023-04-27 | 531,749 | 45 |
 | 2023-04-28 | 532,912 | 45 |
-| 2023-04-29 | 534,191 | 45 |
+| 2023-04-29 | 534,271 | 45 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 6,722 |
 | This game has Great Boss Battles | 3,937 |
-| This game is Great for Beginners | 582 |
+| This game is Great for Beginners | 588 |
 | This game is Highly Recommended | 575 |
 | This game has Amazing Characters | 568 |
 | This game is Extremely Fun | 557 |
@@ -141,4 +141,4 @@ Completed: 45 (0.01%) (Ranked 181)
 | 2023-04-26 | 4.58 | - | 6,633 | 15,296 |
 | 2023-04-27 | 4.58 | - | 6,664 | 15,378 |
 | 2023-04-28 | 4.57 | - | 6,693 | 15,444 |
-| 2023-04-29 | 4.57 | - | 6,722 | 15,522 |
+| 2023-04-29 | 4.57 | - | 6,722 | 15,528 |

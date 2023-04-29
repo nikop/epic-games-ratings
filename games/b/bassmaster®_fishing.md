@@ -1,5 +1,5 @@
 # Bassmaster® Fishing
-Rating: 4.34 (Ranked 719)  
+Rating: 4.34 (Ranked 720)  
 Number of Ratings: 30  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  

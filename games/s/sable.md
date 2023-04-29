@@ -1,12 +1,12 @@
 # Sable
-Rating: 4.51 (Ranked 511)  
+Rating: 4.51 (Ranked 512)  
 Number of Ratings: 43  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,202 (Ranked 68)  
+Progressed: 54,212 (Ranked 68)  
 Completed: 491 (0.91%) (Ranked 77)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -15,7 +15,7 @@ Completed: 491 (0.91%) (Ranked 77)
 | 2023-04-26 | 53,185 | 480 |
 | 2023-04-27 | 53,478 | 483 |
 | 2023-04-28 | 53,826 | 483 |
-| 2023-04-29 | 54,202 | 491 |
+| 2023-04-29 | 54,212 | 491 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

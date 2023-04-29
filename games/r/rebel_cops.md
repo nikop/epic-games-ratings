@@ -1,5 +1,5 @@
 # Rebel Cops
-Rating: 4.52 (Ranked 499)  
+Rating: 4.52 (Ranked 500)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  

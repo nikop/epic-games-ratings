@@ -1,5 +1,5 @@
 # Achilles Legends Untold
-Rating: 4.00 (Ranked 872)  
+Rating: 4.00 (Ranked 873)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  

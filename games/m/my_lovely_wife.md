@@ -1,5 +1,5 @@
 # My Lovely Wife
-Rating: 4.36 (Ranked 701)  
+Rating: 4.36 (Ranked 703)  
 Number of Ratings: 25  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
@@ -7,7 +7,7 @@ Sum: 0 (Ranked 488)
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
 Progressed: 547 (Ranked 182)  
-Completed: 0 (0.00%) (Ranked 190)  
+Completed: 0 (0.00%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

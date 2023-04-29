@@ -1,12 +1,12 @@
 # Chess Ultra
-Rating: 4.24 (Ranked 776)  
+Rating: 4.24 (Ranked 777)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 151,291 (Ranked 52)  
-Completed: 0 (0.00%) (Ranked 190)  
+Progressed: 151,387 (Ranked 52)  
+Completed: 0 (0.00%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -14,7 +14,7 @@ Completed: 0 (0.00%) (Ranked 190)
 | 2023-04-26 | 147,567 | 0 |
 | 2023-04-27 | 148,711 | 0 |
 | 2023-04-28 | 150,034 | 0 |
-| 2023-04-29 | 151,291 | 0 |
+| 2023-04-29 | 151,387 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

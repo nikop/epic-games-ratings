@@ -1,12 +1,12 @@
 # Tortuga - A Pirate's Tale
-Rating: 3.81 (Ranked 899)  
+Rating: 3.81 (Ranked 900)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,170 (Ranked 95)  
-Completed: 0 (0.00%) (Ranked 190)  
+Progressed: 15,172 (Ranked 95)  
+Completed: 0 (0.00%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -14,7 +14,7 @@ Completed: 0 (0.00%) (Ranked 190)
 | 2023-04-26 | 15,156 | 0 |
 | 2023-04-27 | 15,161 | 0 |
 | 2023-04-28 | 15,163 | 0 |
-| 2023-04-29 | 15,170 | 0 |
+| 2023-04-29 | 15,172 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

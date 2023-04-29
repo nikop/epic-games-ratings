@@ -1,5 +1,5 @@
 # VALORANT
-Rating: 4.54 (Ranked 475)  
+Rating: 4.54 (Ranked 476)  
 Number of Ratings: 157,172  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 50,380  (Ranked 11)  

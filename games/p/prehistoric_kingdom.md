@@ -1,5 +1,5 @@
 # Prehistoric Kingdom
-Rating: 4.49 (Ranked 543)  
+Rating: 4.49 (Ranked 544)  
 Number of Ratings: 40  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  

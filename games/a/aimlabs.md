@@ -1,5 +1,5 @@
 # Aimlabs
-Rating: 4.67 (Ranked 253)  
+Rating: 4.67 (Ranked 254)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  

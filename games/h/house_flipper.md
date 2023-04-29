@@ -1,12 +1,12 @@
 # House Flipper
-Rating: 4.70 (Ranked 190)  
+Rating: 4.70 (Ranked 191)  
 Number of Ratings: 1,023  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 280  (Ranked 225)  
-Sum: 2,103 (Ranked 178)  
+Max (Great for Beginners): 281  (Ranked 225)  
+Sum: 2,104 (Ranked 178)  
 Diff (max vs sum): 47
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,618 (Ranked 91)  
+Progressed: 18,619 (Ranked 91)  
 Completed: 19 (0.10%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -15,11 +15,11 @@ Completed: 19 (0.10%) (Ranked 147)
 | 2023-04-26 | 18,594 | 19 |
 | 2023-04-27 | 18,598 | 19 |
 | 2023-04-28 | 18,608 | 19 |
-| 2023-04-29 | 18,618 | 19 |
+| 2023-04-29 | 18,619 | 19 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 280 |
+| This game is Great for Beginners | 281 |
 | This game is Educational | 232 |
 | This game is Extremely Fun | 218 |
 | This game is Relaxing | 215 |
@@ -114,3 +114,4 @@ Completed: 19 (0.10%) (Ranked 147)
 | 2023-04-24 | 4.70 | - | 280 | 2,100 |
 | 2023-04-25 | 4.70 | - | 280 | 2,102 |
 | 2023-04-28 | 4.70 | - | 280 | 2,103 |
+| 2023-04-29 | 4.70 | - | 281 | 2,104 |

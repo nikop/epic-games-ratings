@@ -1,5 +1,5 @@
 # Edge Of Eternity
-Rating: 3.79 (Ranked 901)  
+Rating: 3.79 (Ranked 902)  
 Number of Ratings: 22  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  

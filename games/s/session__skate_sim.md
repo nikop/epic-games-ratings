@@ -1,13 +1,13 @@
 # Session: Skate Sim
-Rating: 4.65 (Ranked 287)  
+Rating: 4.65 (Ranked 288)  
 Number of Ratings: 111  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 48  (Ranked 387)  
 Sum: 401 (Ranked 298)  
 Diff (max vs sum): 89
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,913 (Ranked 141)  
-Completed: 0 (0.00%) (Ranked 190)  
+Progressed: 1,914 (Ranked 141)  
+Completed: 0 (0.00%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -15,7 +15,7 @@ Completed: 0 (0.00%) (Ranked 190)
 | 2023-04-26 | 1,900 | 0 |
 | 2023-04-27 | 1,904 | 0 |
 | 2023-04-28 | 1,910 | 0 |
-| 2023-04-29 | 1,913 | 0 |
+| 2023-04-29 | 1,914 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,5 +1,5 @@
 # STG Football
-Rating: 4.45 (Ranked 599)  
+Rating: 4.45 (Ranked 600)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 35  (Ranked 424)  
 Sum: 280 (Ranked 325)  

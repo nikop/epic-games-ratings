@@ -1,12 +1,12 @@
 # Dead Island 2
-Rating: 4.54 (Ranked 475)  
+Rating: 4.54 (Ranked 476)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 1,397  (Ranked 116)  
 Sum: 1,739 (Ranked 197)  
 Diff (max vs sum): -81
 ## Popularity (Based on EOS Achievements)
-Progressed: 399,394 (Ranked 30)  
-Completed: 354 (0.09%) (Ranked 150)  
+Progressed: 400,557 (Ranked 30)  
+Completed: 356 (0.09%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -14,7 +14,7 @@ Completed: 354 (0.09%) (Ranked 150)
 | 2023-04-26 | 343,866 | 162 |
 | 2023-04-27 | 361,898 | 220 |
 | 2023-04-28 | 381,010 | 283 |
-| 2023-04-29 | 399,394 | 354 |
+| 2023-04-29 | 400,557 | 356 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

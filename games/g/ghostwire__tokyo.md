@@ -1,5 +1,5 @@
 # Ghostwire: Tokyo
-Rating: 4.52 (Ranked 499)  
+Rating: 4.52 (Ranked 500)  
 Number of Ratings: 1,100  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 498  (Ranked 182)  

@@ -1,13 +1,13 @@
 # Dying Light Enhanced Edition
-Rating: 4.58 (Ranked 410)  
+Rating: 4.58 (Ranked 411)  
 Number of Ratings: 3,181  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 25,895  (Ranked 16)  
-Sum: 46,497 (Ranked 24)  
-Diff (max vs sum): -8
+Max (Character Customization): 26,513  (Ranked 16)  
+Sum: 47,115 (Ranked 23)  
+Diff (max vs sum): -7
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,366,309 (Ranked 4)  
-Completed: 7 (0.00%) (Ranked 190)  
+Progressed: 3,367,162 (Ranked 4)  
+Completed: 7 (0.00%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -15,11 +15,11 @@ Completed: 7 (0.00%) (Ranked 190)
 | 2023-04-26 | 3,311,627 | 6 |
 | 2023-04-27 | 3,326,746 | 6 |
 | 2023-04-28 | 3,344,627 | 6 |
-| 2023-04-29 | 3,366,309 | 7 |
+| 2023-04-29 | 3,367,162 | 7 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 25,895 |
+| This game has Inclusive Character Customization | 26,513 |
 | This game has Great Boss Battles | 10,402 |
 | This game is Great for Beginners | 1,422 |
 | This game has Diverse Characters | 1,265 |
@@ -149,4 +149,4 @@ Completed: 7 (0.00%) (Ranked 190)
 | 2023-04-26 | 4.58 | - | 24,862 | 44,197 |
 | 2023-04-27 | 4.58 | - | 25,375 | 45,198 |
 | 2023-04-28 | 4.58 | - | 25,895 | 46,215 |
-| 2023-04-29 | 4.58 | - | 25,895 | 46,497 |
+| 2023-04-29 | 4.58 | - | 26,513 | 47,115 |

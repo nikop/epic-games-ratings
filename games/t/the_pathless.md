@@ -1,5 +1,5 @@
 # The Pathless
-Rating: 4.68 (Ranked 232)  
+Rating: 4.68 (Ranked 233)  
 Number of Ratings: 57  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  

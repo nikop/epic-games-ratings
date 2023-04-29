@@ -1,5 +1,5 @@
 # Days Gone
-Rating: 4.69 (Ranked 210)  
+Rating: 4.69 (Ranked 211)  
 Number of Ratings: 3,949  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 3,733  (Ranked 76)  

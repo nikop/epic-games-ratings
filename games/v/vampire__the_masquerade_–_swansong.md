@@ -1,5 +1,5 @@
 # Vampire: The Masquerade – Swansong
-Rating: 4.20 (Ranked 800)  
+Rating: 4.20 (Ranked 801)  
 Number of Ratings: 736  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Impact the Story): 77  (Ranked 345)  
@@ -7,7 +7,7 @@ Sum: 77 (Ranked 404)
 Diff (max vs sum): -59
 ## Popularity (Based on EOS Achievements)
 Progressed: 12 (Ranked 295)  
-Completed: 0 (0.00%) (Ranked 190)  
+Completed: 0 (0.00%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
