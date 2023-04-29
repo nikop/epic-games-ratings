@@ -60,13 +60,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 6865
+      "Count": 6878
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 7107
+      "Count": 7117
     },
     {
       "Text": "This game has a Creative Community",
@@ -534,6 +534,11 @@
     {
       "Time": "2023-04-29T12:00:39.3404746+00:00",
       "NumProgressed": 796550,
+      "NumCompleted": 1545
+    },
+    {
+      "Time": "2023-04-29T13:02:47.8992532+00:00",
+      "NumProgressed": 796572,
       "NumCompleted": 1545
     }
   ],
@@ -5477,23 +5482,29 @@
       "Rating": 4.62,
       "NumberOfAwards": 164628,
       "NumberOfAwardsMax": 63096
+    },
+    {
+      "Time": "2023-04-29T13:00:01.0901035+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 164651,
+      "NumberOfAwardsMax": 63096
     }
   ],
   "EOS_Completed_Percentage": 0.19,
   "EOS_NewCompleters": 10,
-  "EOS_NewPlayers": 971,
+  "EOS_NewPlayers": 993,
   "EOS_Completed": 1545,
-  "EOS_Progressed": 796550,
-  "LastUpdate_Achievements": "2023-04-29T12:00:39.3404998+00:00",
-  "LastUpdate_Ratings": "2023-04-29T11:57:22.9839462+00:00",
-  "LastChanged_Achievements": "2023-04-29T12:00:39.340473+00:00",
-  "LastChanged": "2023-04-29T11:57:22.9839455+00:00",
+  "EOS_Progressed": 796572,
+  "LastUpdate_Achievements": "2023-04-29T13:02:47.899264+00:00",
+  "LastUpdate_Ratings": "2023-04-29T13:00:01.0901039+00:00",
+  "LastChanged_Achievements": "2023-04-29T13:02:47.8992517+00:00",
+  "LastChanged": "2023-04-29T13:00:01.0901032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 63096,
-  "NumberOfAwards": 164628,
+  "NumberOfAwards": 164651,
   "NumberOfRatings": 32700,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 11,
   "Ranking_EOS_NewPlayers": 33,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_Progress": 10,
