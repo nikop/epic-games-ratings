@@ -1,13 +1,13 @@
 # Ring of Pain
-Rating: 4.58 (Ranked 409)  
+Rating: 4.58 (Ranked 410)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 1,469  (Ranked 112)  
 Sum: 11,367 (Ranked 74)  
 Diff (max vs sum): 38
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,327 (Ranked 40)  
-Completed: 221 (0.10%) (Ranked 147)  
+Progressed: 227,332 (Ranked 40)  
+Completed: 222 (0.10%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -15,7 +15,7 @@ Completed: 221 (0.10%) (Ranked 147)
 | 2023-04-26 | 227,191 | 221 |
 | 2023-04-27 | 227,252 | 221 |
 | 2023-04-28 | 227,317 | 221 |
-| 2023-04-29 | 227,327 | 221 |
+| 2023-04-29 | 227,332 | 222 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

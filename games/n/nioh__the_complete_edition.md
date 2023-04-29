@@ -1,5 +1,5 @@
 # Nioh: The Complete Edition
-Rating: 4.57 (Ranked 427)  
+Rating: 4.57 (Ranked 428)  
 Number of Ratings: 10,807  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 7,196  (Ranked 42)  

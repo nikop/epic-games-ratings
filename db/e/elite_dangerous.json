@@ -30,7 +30,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2076
+      "Count": 2079
     },
     {
       "Text": "This game is Educational",
@@ -3671,6 +3671,12 @@
       "Rating": 4.64,
       "NumberOfAwards": 11927,
       "NumberOfAwardsMax": 2076
+    },
+    {
+      "Time": "2023-04-29T04:57:17.8763991+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 11930,
+      "NumberOfAwardsMax": 2079
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -3678,12 +3684,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-29T04:03:18.3648527+00:00",
-  "LastUpdate_Ratings": "2023-04-29T03:57:13.7066072+00:00",
-  "LastChanged": "2023-04-28T18:57:23.3873082+00:00",
+  "LastUpdate_Achievements": "2023-04-29T05:03:14.9298406+00:00",
+  "LastUpdate_Ratings": "2023-04-29T04:57:17.8763998+00:00",
+  "LastChanged": "2023-04-29T04:57:17.8763989+00:00",
   "MaxAwardTitle": "Highly Recommended",
-  "NumberOfAwardsMax": 2076,
-  "NumberOfAwards": 11927,
+  "NumberOfAwardsMax": 2079,
+  "NumberOfAwards": 11930,
   "NumberOfRatings": 6856,
   "Ranking_EOS_NewCompleters": 65,
   "Ranking_EOS_NewPlayers": 233,

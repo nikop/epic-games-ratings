@@ -2,9 +2,9 @@
 Rating: 4.47 (Ranked 573)  
 Number of Ratings: 836  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Extremely Fun): 96  (Ranked 323)  
-Sum: 646 (Ranked 268)  
-Diff (max vs sum): 55
+Max (Extremely Fun): 98  (Ranked 321)  
+Sum: 648 (Ranked 268)  
+Diff (max vs sum): 53
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,606 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 190)  
@@ -19,7 +19,7 @@ Completed: 0 (0.00%) (Ranked 190)
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Extremely Fun | 96 |
+| This game is Extremely Fun | 98 |
 | This game has Amazing Storytelling | 83 |
 | This game is Great for Beginners | 81 |
 | This game is Relaxing | 80 |
@@ -110,3 +110,4 @@ Completed: 0 (0.00%) (Ranked 190)
 | 2023-04-10 | 4.47 | - | 96 | 644 |
 | 2023-04-23 | 4.47 | - | 96 | 645 |
 | 2023-04-24 | 4.47 | - | 96 | 646 |
+| 2023-04-29 | 4.47 | - | 98 | 648 |

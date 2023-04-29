@@ -6,7 +6,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 14781
+      "Count": 14804
     },
     {
       "Text": "This game is Great for Beginners",
@@ -72,7 +72,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1328
+      "Count": 1331
     }
   ],
   "EosHistory": [],
@@ -4420,6 +4420,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 35752,
       "NumberOfAwardsMax": 14781
+    },
+    {
+      "Time": "2023-04-29T04:59:58.8850631+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 35778,
+      "NumberOfAwardsMax": 14804
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -4427,12 +4433,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-29T04:04:29.0911883+00:00",
-  "LastUpdate_Ratings": "2023-04-29T04:00:13.8148178+00:00",
-  "LastChanged": "2023-04-28T15:59:04.5537657+00:00",
+  "LastUpdate_Achievements": "2023-04-29T05:05:25.0608068+00:00",
+  "LastUpdate_Ratings": "2023-04-29T04:59:58.8850637+00:00",
+  "LastChanged": "2023-04-29T04:59:58.8850629+00:00",
   "MaxAwardTitle": "Character Customization",
-  "NumberOfAwardsMax": 14781,
-  "NumberOfAwards": 35752,
+  "NumberOfAwardsMax": 14804,
+  "NumberOfAwards": 35778,
   "NumberOfRatings": 14665,
   "Ranking_EOS_NewCompleters": 65,
   "Ranking_EOS_NewPlayers": 233,
