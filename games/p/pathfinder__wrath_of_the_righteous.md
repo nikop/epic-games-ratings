@@ -1,12 +1,12 @@
 # Pathfinder: Wrath of the Righteous
-Rating: 4.76 (Ranked 116)  
+Rating: 4.76 (Ranked 115)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 1,621  (Ranked 110)  
 Sum: 6,551 (Ranked 108)  
 Diff (max vs sum): 2
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,494 (Ranked 107)  
+Progressed: 8,497 (Ranked 107)  
 Completed: 0 (0.00%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -15,6 +15,7 @@ Completed: 0 (0.00%) (Ranked 190)
 | 2023-04-26 | 8,470 | 0 |
 | 2023-04-27 | 8,480 | 0 |
 | 2023-04-28 | 8,494 | 0 |
+| 2023-04-29 | 8,497 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

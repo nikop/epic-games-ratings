@@ -3,16 +3,28 @@
   "Name": "Cats Yakuza - Online card game",
   "Tags": [],
   "EosHistory": [],
-  "RatingHistory": [],
+  "RatingHistory": [
+    {
+      "Time": "2023-04-28T23:57:16.1629799+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T23:03:39.8659801+00:00",
-  "LastUpdate_Ratings": "2023-04-28T22:57:28.9764597+00:00",
+  "LastUpdate_Achievements": "2023-04-29T00:02:05.8952835+00:00",
+  "LastUpdate_Ratings": "2023-04-28T23:57:16.1629809+00:00",
+  "LastChanged": "2023-04-28T23:57:16.1629797+00:00",
+  "FirstSeenRating": "2023-04-28T23:57:16.1629797+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 64,
   "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_Progress": 364
+  "Ranking_EOS_Progress": 364,
+  "FirstSeen": "2023-04-28T23:57:16.1629755+00:00"
 }

@@ -24,7 +24,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 698
+      "Count": 699
     },
     {
       "Text": "This game is Extremely Fun",
@@ -60,7 +60,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 418
+      "Count": 419
     },
     {
       "Text": "This game has a Competitive Community",
@@ -2557,6 +2557,12 @@
       "Rating": 4.52,
       "NumberOfAwards": 5787,
       "NumberOfAwardsMax": 733
+    },
+    {
+      "Time": "2023-04-28T23:59:02.5045512+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 5789,
+      "NumberOfAwardsMax": 733
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -2564,12 +2570,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T23:05:06.8175576+00:00",
-  "LastUpdate_Ratings": "2023-04-28T22:59:40.3355573+00:00",
-  "LastChanged": "2023-04-28T14:58:39.3812122+00:00",
+  "LastUpdate_Achievements": "2023-04-29T00:03:39.2143315+00:00",
+  "LastUpdate_Ratings": "2023-04-28T23:59:02.5045515+00:00",
+  "LastChanged": "2023-04-28T23:59:02.504551+00:00",
   "MaxAwardTitle": "Competitive Players",
   "NumberOfAwardsMax": 733,
-  "NumberOfAwards": 5787,
+  "NumberOfAwards": 5789,
   "NumberOfRatings": 2249,
   "Ranking_EOS_NewCompleters": 64,
   "Ranking_EOS_NewPlayers": 231,

@@ -19,7 +19,7 @@
 | 17 | [Island Cities](games/i/island_cities.md) | 6.90% |
 | 18 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.45% |
 | 19 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.17% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.09% |
 | 21 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 22 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.88% |
 | 23 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.97% |
@@ -153,11 +153,11 @@
 | 150 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 150 | [Fall Guys](games/f/fall_guys.md) | 0.09% |
 | 150 | [Supraland](games/s/supraland.md) | 0.09% |
+| 154 | [Dead Island 2](games/d/dead_island_2.md) | 0.08% |
 | 154 | [Riverbond](games/r/riverbond.md) | 0.08% |
 | 154 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.08% |
 | 154 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
-| 157 | [Dead Island 2](games/d/dead_island_2.md) | 0.07% |
-| 157 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
+| 158 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 159 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
 | 159 | [Shop Titans](games/s/shop_titans.md) | 0.06% |
 | 159 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.06% |

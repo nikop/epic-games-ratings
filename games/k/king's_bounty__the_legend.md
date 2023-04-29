@@ -1,5 +1,5 @@
 # King's Bounty: The Legend
-Rating: 4.76 (Ranked 116)  
+Rating: 4.76 (Ranked 115)  
 Number of Ratings: 48  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
