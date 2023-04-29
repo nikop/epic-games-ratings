@@ -42,7 +42,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1233
+      "Count": 1240
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -3795,6 +3795,12 @@
       "Rating": 4.81,
       "NumberOfAwards": 9580,
       "NumberOfAwardsMax": 1233
+    },
+    {
+      "Time": "2023-04-29T05:57:20.0864895+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 9587,
+      "NumberOfAwardsMax": 1240
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -3802,12 +3808,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-29T05:02:11.4028752+00:00",
-  "LastUpdate_Ratings": "2023-04-29T04:57:32.0364264+00:00",
-  "LastChanged": "2023-04-28T19:57:19.6390679+00:00",
+  "LastUpdate_Achievements": "2023-04-29T06:00:28.4988386+00:00",
+  "LastUpdate_Ratings": "2023-04-29T05:57:20.08649+00:00",
+  "LastChanged": "2023-04-29T05:57:20.0864893+00:00",
   "MaxAwardTitle": "Relaxing",
-  "NumberOfAwardsMax": 1233,
-  "NumberOfAwards": 9580,
+  "NumberOfAwardsMax": 1240,
+  "NumberOfAwards": 9587,
   "NumberOfRatings": 4392,
   "Ranking_EOS_NewCompleters": 65,
   "Ranking_EOS_NewPlayers": 233,

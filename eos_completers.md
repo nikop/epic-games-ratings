@@ -51,7 +51,7 @@
 | 49 | [ZZT!](games/z/zzt!.md) | 2.53% |
 | 50 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 51 | [Iron Danger](games/i/iron_danger.md) | 2.48% |
-| 52 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.27% |
+| 52 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.26% |
 | 53 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 54 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
 | 55 | [Sifu](games/s/sifu.md) | 1.81% |

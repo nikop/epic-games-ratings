@@ -5,7 +5,7 @@
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 292,402 | 4.68 | 232 |
 | 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 181,294 | 4.19 | 814 |
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 162,946 | 4.68 | 232 |
-| 6 | [Fall Guys](games/f/fall_guys.md) | 137,839 | 4.53 | 488 |
+| 6 | [Fall Guys](games/f/fall_guys.md) | 137,859 | 4.53 | 488 |
 | 7 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 136,850 | 4.89 | 12 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 108,253 | 4.69 | 209 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 63,096 | 4.62 | 334 |
@@ -72,7 +72,7 @@
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,125 | 4.70 | 190 |
 | 71 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,073 | 4.51 | 511 |
 | 72 | [Chivalry 2](games/c/chivalry_2.md) | 3,989 | 4.61 | 350 |
-| 73 | [God of War](games/g/god_of_war.md) | 3,956 | 4.89 | 12 |
+| 73 | [God of War](games/g/god_of_war.md) | 3,959 | 4.89 | 12 |
 | 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 3,924 | 4.77 | 105 |
 | 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 3,794 | 4.56 | 444 |
 | 76 | [Days Gone](games/d/days_gone.md) | 3,732 | 4.69 | 209 |
@@ -112,13 +112,13 @@
 | 110 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 1,621 | 4.76 | 114 |
 | 111 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,555 | 4.51 | 511 |
 | 112 | [Ring of Pain](games/r/ring_of_pain.md) | 1,469 | 4.58 | 410 |
-| 113 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,462 | 4.69 | 209 |
+| 113 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,466 | 4.69 | 209 |
 | 114 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,437 | 4.79 | 91 |
 | 115 | [Celeste](games/c/celeste.md) | 1,429 | 4.92 | 3 |
 | 116 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,367 | 4.87 | 24 |
 | 117 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,294 | 4.70 | 190 |
 | 118 | [DOOM 64](games/d/doom_64.md) | 1,285 | 4.66 | 272 |
-| 119 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,233 | 4.81 | 71 |
+| 119 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,240 | 4.81 | 71 |
 | 120 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,202 | 4.86 | 28 |
 | 121 | [Dead Island 2](games/d/dead_island_2.md) | 1,200 | 4.54 | 475 |
 | 122 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,198 | 4.62 | 334 |
@@ -210,7 +210,7 @@
 | 208 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 345 | 4.61 | 350 |
 | 209 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 339 | 4.24 | 776 |
 | 210 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 338 | 4.33 | 728 |
-| 211 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 331 | 4.70 | 190 |
+| 211 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 333 | 4.70 | 190 |
 | 212 | [Inscryption](games/i/inscryption.md) | 329 | 4.86 | 28 |
 | 213 | [Dishonored 2](games/d/dishonored_2.md) | 328 | 4.80 | 79 |
 | 214 | [Tannenberg](games/t/tannenberg.md) | 321 | 4.39 | 674 |
@@ -255,8 +255,8 @@
 | 253 | [Stranded Deep](games/s/stranded_deep.md) | 202 | 4.22 | 791 |
 | 253 | [Sunless Sea](games/s/sunless_sea.md) | 202 | 4.58 | 410 |
 | 255 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 201 | 4.35 | 712 |
-| 256 | [HITMAN](games/h/hitman.md) | 196 | 4.64 | 309 |
-| 257 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 194 | 3.93 | 886 |
+| 256 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 199 | 3.93 | 886 |
+| 257 | [HITMAN](games/h/hitman.md) | 196 | 4.64 | 309 |
 | 258 | [Relicta](games/r/relicta.md) | 193 | 4.15 | 834 |
 | 259 | [Hello Neighbor](games/h/hello_neighbor.md) | 192 | 4.54 | 475 |
 | 260 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 189 | 4.81 | 71 |
@@ -304,10 +304,10 @@
 | 301 | [Sonic Origins](games/s/sonic_origins.md) | 116 | 4.57 | 428 |
 | 301 | [Timberborn](games/t/timberborn.md) | 116 | 4.72 | 164 |
 | 304 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 115 | 4.82 | 60 |
+| 305 | [BIOMUTANT](games/b/biomutant.md) | 114 | 4.33 | 728 |
 | 305 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 114 | 4.64 | 309 |
 | 305 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 114 | 4.71 | 177 |
-| 307 | [BIOMUTANT](games/b/biomutant.md) | 113 | 4.33 | 728 |
-| 307 | [Tropico 5](games/t/tropico_5.md) | 113 | 4.45 | 599 |
+| 308 | [Tropico 5](games/t/tropico_5.md) | 113 | 4.45 | 599 |
 | 309 | [Overcooked](games/o/overcooked.md) | 112 | 4.67 | 253 |
 | 310 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 106 | 4.46 | 588 |
 | 310 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 106 | 4.86 | 28 |
