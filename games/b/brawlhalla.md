@@ -1,13 +1,13 @@
 # Brawlhalla
 Rating: 4.58 (Ranked 409)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 91  (Ranked 330)  
-Sum: 858 (Ranked 239)  
-Diff (max vs sum): 91
+Max (Great for Beginners): 94  (Ranked 326)  
+Sum: 861 (Ranked 239)  
+Diff (max vs sum): 87
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 91 |
+| This game is Great for Beginners | 94 |
 | This game has Diverse Characters | 81 |
 | This game has Competitive Players | 80 |
 | This game is Great for Quick Sessions | 76 |
@@ -117,4 +117,4 @@ Diff (max vs sum): 91
 | 2023-04-26 | 4.58 | 88 | 826 |
 | 2023-04-27 | 4.58 | 91 | 844 |
 | 2023-04-28 | 4.58 | 91 | 853 |
-| 2023-04-29 | 4.58 | 91 | 858 |
+| 2023-04-29 | 4.58 | 94 | 861 |

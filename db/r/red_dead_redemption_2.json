@@ -30,7 +30,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 12712
+      "Count": 12736
     },
     {
       "Text": "This game is Educational",
@@ -5087,6 +5087,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 347641,
       "NumberOfAwardsMax": 136850
+    },
+    {
+      "Time": "2023-04-29T03:59:44.9381484+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 347665,
+      "NumberOfAwardsMax": 136850
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -5094,15 +5100,15 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-29T03:04:19.5401364+00:00",
-  "LastUpdate_Ratings": "2023-04-29T02:59:37.3129168+00:00",
-  "LastChanged": "2023-04-28T23:00:09.6017457+00:00",
+  "LastUpdate_Achievements": "2023-04-29T04:04:16.4497088+00:00",
+  "LastUpdate_Ratings": "2023-04-29T03:59:44.9381493+00:00",
+  "LastChanged": "2023-04-29T03:59:44.9381482+00:00",
   "MaxAwardTitle": "Impact the Story",
   "NumberOfAwardsMax": 136850,
-  "NumberOfAwards": 347641,
+  "NumberOfAwards": 347665,
   "NumberOfRatings": 102658,
-  "Ranking_EOS_NewCompleters": 64,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 364,
   "Ranking_PopularitySum": 8,

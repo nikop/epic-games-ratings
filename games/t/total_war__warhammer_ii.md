@@ -1,16 +1,16 @@
 # Total War: WARHAMMER II
-Rating: 4.69 (Ranked 208)  
+Rating: 4.69 (Ranked 209)  
 Number of Ratings: 1,169  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 4,221  (Ranked 69)  
-Sum: 13,157 (Ranked 67)  
+Sum: 13,159 (Ranked 67)  
 Diff (max vs sum): 2
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 4,221 |
 | This game has Diverse Characters | 1,056 |
-| This game is Extremely Fun | 959 |
+| This game is Extremely Fun | 961 |
 | This game is Highly Recommended | 933 |
 | This game has Challenging Combat | 924 |
 | This game has Amazing Characters | 905 |
@@ -134,4 +134,4 @@ Diff (max vs sum): 2
 | 2023-04-26 | 4.69 | - | 4,209 | 13,130 |
 | 2023-04-27 | 4.69 | - | 4,216 | 13,145 |
 | 2023-04-28 | 4.69 | - | 4,216 | 13,151 |
-| 2023-04-29 | 4.69 | - | 4,221 | 13,157 |
+| 2023-04-29 | 4.69 | - | 4,221 | 13,159 |

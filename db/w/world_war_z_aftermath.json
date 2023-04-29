@@ -6,7 +6,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 3784
+      "Count": 3794
     },
     {
       "Text": "This game is Relaxing",
@@ -30,7 +30,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 3086
+      "Count": 3093
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4484,6 +4484,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 25630,
       "NumberOfAwardsMax": 3784
+    },
+    {
+      "Time": "2023-04-29T03:57:14.3395662+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 25647,
+      "NumberOfAwardsMax": 3794
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -4491,17 +4497,17 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-29T03:02:33.9905147+00:00",
-  "LastUpdate_Ratings": "2023-04-29T02:57:10.720092+00:00",
-  "LastChanged_Achievements": "2023-04-29T03:02:33.9905131+00:00",
-  "LastChanged": "2023-04-29T01:56:41.948992+00:00",
+  "LastUpdate_Achievements": "2023-04-29T04:02:50.9969421+00:00",
+  "LastUpdate_Ratings": "2023-04-29T03:57:14.3395668+00:00",
+  "LastChanged_Achievements": "2023-04-29T04:02:50.9969401+00:00",
+  "LastChanged": "2023-04-29T03:57:14.339566+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.7901405+00:00",
   "MaxAwardTitle": "Great for Beginners",
-  "NumberOfAwardsMax": 3784,
-  "NumberOfAwards": 25630,
+  "NumberOfAwardsMax": 3794,
+  "NumberOfAwards": 25647,
   "NumberOfRatings": 17073,
-  "Ranking_EOS_NewCompleters": 64,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 364,
   "Ranking_PopularitySum": 45,

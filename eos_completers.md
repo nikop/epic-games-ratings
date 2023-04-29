@@ -5,11 +5,11 @@
 | 3 | [Doodle Devil](games/d/doodle_devil.md) | 19.72% |
 | 4 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 5 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
-| 6 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
-| 7 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 11.72% |
+| 6 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.41% |
+| 7 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
 | 8 | [Ravenlok](games/r/ravenlok.md) | 10.91% |
 | 9 | [Smelter](games/s/smelter.md) | 10.34% |
-| 10 | [Island Cities](games/i/island_cities.md) | 9.68% |
+| 10 | [Island Cities](games/i/island_cities.md) | 9.38% |
 | 11 | [Time Loader](games/t/time_loader.md) | 8.51% |
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
@@ -17,7 +17,7 @@
 | 15 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.53% |
 | 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.38% |
 | 17 | [Scorn](games/s/scorn.md) | 7.17% |
-| 18 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.75% |
+| 18 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.72% |
 | 19 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.45% |
 | 20 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 21 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
@@ -37,7 +37,7 @@
 | 35 | [The Bunker](games/t/the_bunker.md) | 3.37% |
 | 36 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 37 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.27% |
-| 38 | [HordeCore](games/h/hordecore.md) | 3.08% |
+| 38 | [HordeCore](games/h/hordecore.md) | 3.07% |
 | 39 | [Lamentum](games/l/lamentum.md) | 3.02% |
 | 40 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.99% |
 | 41 | [MultiVersus](games/m/multiversus.md) | 2.96% |

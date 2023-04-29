@@ -54,7 +54,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 7204
+      "Count": 7211
     },
     {
       "Text": "This game is Great for Beginners",
@@ -482,6 +482,11 @@
     {
       "Time": "2023-04-29T02:05:19.9842496+00:00",
       "NumProgressed": 1266975,
+      "NumCompleted": 2051
+    },
+    {
+      "Time": "2023-04-29T04:02:17.5971964+00:00",
+      "NumProgressed": 1267002,
       "NumCompleted": 2051
     }
   ],
@@ -5213,24 +5218,30 @@
       "Rating": 4.78,
       "NumberOfAwards": 64977,
       "NumberOfAwardsMax": 8763
+    },
+    {
+      "Time": "2023-04-29T04:00:34.8241223+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 64984,
+      "NumberOfAwardsMax": 8763
     }
   ],
   "EOS_Completed_Percentage": 0.16,
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 1397,
+  "EOS_NewPlayers": 1424,
   "EOS_Completed": 2051,
-  "EOS_Progressed": 1266975,
-  "LastUpdate_Achievements": "2023-04-29T02:05:19.9842549+00:00",
-  "LastUpdate_Ratings": "2023-04-29T03:00:18.4051356+00:00",
-  "LastChanged_Achievements": "2023-04-29T02:05:19.984249+00:00",
-  "LastChanged": "2023-04-29T03:00:18.4051348+00:00",
+  "EOS_Progressed": 1267002,
+  "LastUpdate_Achievements": "2023-04-29T04:02:17.5972847+00:00",
+  "LastUpdate_Ratings": "2023-04-29T04:00:34.8241227+00:00",
+  "LastChanged_Achievements": "2023-04-29T04:02:17.5971544+00:00",
+  "LastChanged": "2023-04-29T04:00:34.824122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:56.7371376+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 8763,
-  "NumberOfAwards": 64977,
+  "NumberOfAwards": 64984,
   "NumberOfRatings": 21082,
   "Ranking_EOS_NewCompleters": 39,
-  "Ranking_EOS_NewPlayers": 21,
+  "Ranking_EOS_NewPlayers": 20,
   "Ranking_EOS_Completed": 133,
   "Ranking_EOS_Progress": 7,
   "Ranking_PopularitySum": 18,

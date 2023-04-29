@@ -66,7 +66,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 424
+      "Count": 425
     },
     {
       "Text": "This game has a Creative Community",
@@ -3069,6 +3069,12 @@
       "Rating": 4.82,
       "NumberOfAwards": 3627,
       "NumberOfAwardsMax": 482
+    },
+    {
+      "Time": "2023-04-29T04:00:17.0820709+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3628,
+      "NumberOfAwardsMax": 482
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -3076,15 +3082,15 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-29T03:04:33.6024662+00:00",
-  "LastUpdate_Ratings": "2023-04-29T02:59:57.939758+00:00",
-  "LastChanged": "2023-04-28T21:59:28.1027704+00:00",
+  "LastUpdate_Achievements": "2023-04-29T04:04:30.3284541+00:00",
+  "LastUpdate_Ratings": "2023-04-29T04:00:17.0820714+00:00",
+  "LastChanged": "2023-04-29T04:00:17.0820706+00:00",
   "MaxAwardTitle": "Amazing Characters",
   "NumberOfAwardsMax": 482,
-  "NumberOfAwards": 3627,
+  "NumberOfAwards": 3628,
   "NumberOfRatings": 4283,
-  "Ranking_EOS_NewCompleters": 64,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 364,
   "Ranking_PopularitySum": 135,
