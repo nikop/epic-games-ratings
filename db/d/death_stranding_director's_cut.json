@@ -60,7 +60,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 434
+      "Count": 436
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -530,6 +530,11 @@
     {
       "Time": "2023-04-29T09:00:07.9872278+00:00",
       "NumProgressed": 450538,
+      "NumCompleted": 1471
+    },
+    {
+      "Time": "2023-04-29T10:00:03.891056+00:00",
+      "NumProgressed": 450551,
       "NumCompleted": 1471
     }
   ],
@@ -3276,21 +3281,27 @@
       "Rating": 4.89,
       "NumberOfAwards": 11660,
       "NumberOfAwardsMax": 6840
+    },
+    {
+      "Time": "2023-04-29T09:59:40.2910084+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 11662,
+      "NumberOfAwardsMax": 6840
     }
   ],
   "EOS_Completed_Percentage": 0.33,
   "EOS_NewCompleters": 15,
-  "EOS_NewPlayers": 940,
+  "EOS_NewPlayers": 953,
   "EOS_Completed": 1471,
-  "EOS_Progressed": 450538,
-  "LastUpdate_Achievements": "2023-04-29T09:00:07.9872335+00:00",
-  "LastUpdate_Ratings": "2023-04-29T08:59:48.2670585+00:00",
-  "LastChanged_Achievements": "2023-04-29T09:00:07.9872265+00:00",
-  "LastChanged": "2023-04-28T16:00:16.7671264+00:00",
+  "EOS_Progressed": 450551,
+  "LastUpdate_Achievements": "2023-04-29T10:00:03.8910627+00:00",
+  "LastUpdate_Ratings": "2023-04-29T09:59:40.2910089+00:00",
+  "LastChanged_Achievements": "2023-04-29T10:00:03.8910543+00:00",
+  "LastChanged": "2023-04-29T09:59:40.2910082+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.0381621+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 6840,
-  "NumberOfAwards": 11660,
+  "NumberOfAwards": 11662,
   "NumberOfRatings": 3099,
   "Ranking_EOS_NewCompleters": 6,
   "Ranking_EOS_NewPlayers": 33,

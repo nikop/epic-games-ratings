@@ -1,13 +1,13 @@
 # Cyberpunk 2077
-Rating: 4.62 (Ranked 334)  
+Rating: 4.62 (Ranked 335)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 63,096  (Ranked 9)  
 Sum: 164,612 (Ranked 13)  
 Diff (max vs sum): -4
 ## Popularity (Based on EOS Achievements)
-Progressed: 796,520 (Ranked 10)  
-Completed: 1,545 (0.19%) (Ranked 129)  
+Progressed: 796,535 (Ranked 10)  
+Completed: 1,545 (0.19%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -15,7 +15,7 @@ Completed: 1,545 (0.19%) (Ranked 129)
 | 2023-04-26 | 795,929 | 1,540 |
 | 2023-04-27 | 796,157 | 1,542 |
 | 2023-04-28 | 796,415 | 1,545 |
-| 2023-04-29 | 796,520 | 1,545 |
+| 2023-04-29 | 796,535 | 1,545 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

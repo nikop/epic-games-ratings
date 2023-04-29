@@ -66,7 +66,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 12826
+      "Count": 12851
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -5111,6 +5111,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 347875,
       "NumberOfAwardsMax": 136850
+    },
+    {
+      "Time": "2023-04-29T09:58:23.4975282+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 347900,
+      "NumberOfAwardsMax": 136850
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -5118,17 +5124,17 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-29T09:03:59.3010466+00:00",
-  "LastUpdate_Ratings": "2023-04-29T08:58:32.9724191+00:00",
-  "LastChanged": "2023-04-29T08:58:32.9724184+00:00",
+  "LastUpdate_Achievements": "2023-04-29T10:03:36.2135663+00:00",
+  "LastUpdate_Ratings": "2023-04-29T09:58:23.4975286+00:00",
+  "LastChanged": "2023-04-29T09:58:23.4975281+00:00",
   "MaxAwardTitle": "Impact the Story",
   "NumberOfAwardsMax": 136850,
-  "NumberOfAwards": 347875,
+  "NumberOfAwards": 347900,
   "NumberOfRatings": 102658,
-  "Ranking_EOS_NewCompleters": 66,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_Progress": 364,
+  "Ranking_EOS_Progress": 365,
   "Ranking_PopularitySum": 8,
   "Ranking_Popularity": 7,
   "Ranking_Rating": 12,

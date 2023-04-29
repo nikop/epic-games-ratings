@@ -30,7 +30,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1166
+      "Count": 1200
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -72,7 +72,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1012
+      "Count": 1039
     },
     {
       "Text": "This game has a Creative Community",
@@ -535,6 +535,11 @@
     {
       "Time": "2023-04-29T09:04:38.3142473+00:00",
       "NumProgressed": 3353573,
+      "NumCompleted": 7
+    },
+    {
+      "Time": "2023-04-29T10:04:15.9440649+00:00",
+      "NumProgressed": 3354641,
       "NumCompleted": 7
     }
   ],
@@ -4118,21 +4123,27 @@
       "Rating": 4.58,
       "NumberOfAwards": 46344,
       "NumberOfAwardsMax": 25895
+    },
+    {
+      "Time": "2023-04-29T09:58:59.0539687+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 46405,
+      "NumberOfAwardsMax": 25895
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 62710,
+  "EOS_NewPlayers": 63778,
   "EOS_Completed": 7,
-  "EOS_Progressed": 3353573,
-  "LastUpdate_Achievements": "2023-04-29T09:04:38.3142532+00:00",
-  "LastUpdate_Ratings": "2023-04-29T08:59:07.9327435+00:00",
-  "LastChanged_Achievements": "2023-04-29T09:04:38.3142469+00:00",
-  "LastChanged": "2023-04-29T07:59:00.2544741+00:00",
+  "EOS_Progressed": 3354641,
+  "LastUpdate_Achievements": "2023-04-29T10:04:15.9440711+00:00",
+  "LastUpdate_Ratings": "2023-04-29T09:58:59.0539691+00:00",
+  "LastChanged_Achievements": "2023-04-29T10:04:15.9440645+00:00",
+  "LastChanged": "2023-04-29T09:58:59.0539683+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:58.6045663+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 25895,
-  "NumberOfAwards": 46344,
+  "NumberOfAwards": 46405,
   "NumberOfRatings": 3181,
   "Ranking_EOS_NewCompleters": 44,
   "Ranking_EOS_NewPlayers": 3,
