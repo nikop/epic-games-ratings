@@ -1,14 +1,14 @@
 # Killing Floor 2
-Rating: 4.41 (Ranked 652)  
+Rating: 4.41 (Ranked 653)  
 Number of Ratings: 18,418  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 11,832  (Ranked 28)  
-Sum: 25,539 (Ranked 46)  
+Max (Great Boss Battles): 11,840  (Ranked 28)  
+Sum: 25,550 (Ranked 46)  
 Diff (max vs sum): -18
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 11,832 |
+| This game has Great Boss Battles | 11,840 |
 | This game is Great for Beginners | 1,664 |
 | This game is Relaxing | 1,579 |
 | This game has Diverse Characters | 1,568 |
@@ -17,7 +17,7 @@ Diff (max vs sum): -18
 | This game has Amazing Characters | 1,511 |
 | This game is Highly Recommended | 1,495 |
 | This game has Challenging Combat | 1,473 |
-| This game has Amazing Storytelling | 1,316 |
+| This game has Amazing Storytelling | 1,319 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -118,4 +118,4 @@ Diff (max vs sum): -18
 | 2023-04-26 | 4.41 | - | 11,827 | 25,514 |
 | 2023-04-27 | 4.41 | - | 11,832 | 25,526 |
 | 2023-04-28 | 4.41 | - | 11,832 | 25,537 |
-| 2023-04-29 | 4.41 | - | 11,832 | 25,539 |
+| 2023-04-29 | 4.41 | - | 11,840 | 25,550 |

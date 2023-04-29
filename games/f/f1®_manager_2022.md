@@ -1,5 +1,5 @@
 # F1® Manager 2022
-Rating: 4.59 (Ranked 392)  
+Rating: 4.59 (Ranked 393)  
 Number of Ratings: 810  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 235  (Ranked 239)  

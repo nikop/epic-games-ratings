@@ -12,7 +12,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1194
+      "Count": 1195
     },
     {
       "Text": "This game has Challenging Combat",
@@ -473,6 +473,11 @@
     {
       "Time": "2023-04-29T11:04:34.9859727+00:00",
       "NumProgressed": 227347,
+      "NumCompleted": 222
+    },
+    {
+      "Time": "2023-04-29T12:04:39.6171851+00:00",
+      "NumProgressed": 227351,
       "NumCompleted": 222
     }
   ],
@@ -2270,22 +2275,28 @@
       "Rating": 4.58,
       "NumberOfAwards": 11367,
       "NumberOfAwardsMax": 1469
+    },
+    {
+      "Time": "2023-04-29T11:59:17.7710357+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11368,
+      "NumberOfAwardsMax": 1469
     }
   ],
   "EOS_Completed_Percentage": 0.1,
   "EOS_NewCompleters": 2,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 240,
   "EOS_Completed": 222,
-  "EOS_Progressed": 227347,
-  "LastUpdate_Achievements": "2023-04-29T11:04:34.9859779+00:00",
-  "LastUpdate_Ratings": "2023-04-29T10:59:30.5483286+00:00",
-  "LastChanged_Achievements": "2023-04-29T11:04:34.9859723+00:00",
-  "LastChanged": "2023-04-28T21:00:44.079648+00:00",
+  "EOS_Progressed": 227351,
+  "LastUpdate_Achievements": "2023-04-29T12:04:39.6171898+00:00",
+  "LastUpdate_Ratings": "2023-04-29T11:59:17.7710361+00:00",
+  "LastChanged_Achievements": "2023-04-29T12:04:39.6171843+00:00",
+  "LastChanged": "2023-04-29T11:59:17.7710354+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "MaxAwardTitle": "Quickly Understood Controls",
   "NumberOfAwardsMax": 1469,
-  "NumberOfAwards": 11367,
+  "NumberOfAwards": 11368,
   "NumberOfRatings": 15086,
   "Ranking_EOS_NewCompleters": 29,
   "Ranking_EOS_NewPlayers": 79,

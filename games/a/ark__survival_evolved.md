@@ -1,5 +1,5 @@
 # ARK: Survival Evolved
-Rating: 4.59 (Ranked 392)  
+Rating: 4.59 (Ranked 393)  
 Number of Ratings: 35,570  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 56,194  (Ranked 10)  

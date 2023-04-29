@@ -9,13 +9,13 @@
 | 7 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
 | 8 | [Ravenlok](games/r/ravenlok.md) | 10.91% |
 | 9 | [Smelter](games/s/smelter.md) | 10.34% |
-| 10 | [Island Cities](games/i/island_cities.md) | 9.09% |
+| 10 | [Island Cities](games/i/island_cities.md) | 8.82% |
 | 11 | [Time Loader](games/t/time_loader.md) | 8.51% |
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 13 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 15 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 8.08% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.52% |
+| 15 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 8.27% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.51% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.38% |
 | 18 | [Scorn](games/s/scorn.md) | 7.17% |
 | 19 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.45% |
