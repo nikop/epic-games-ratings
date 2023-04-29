@@ -43,6 +43,12 @@
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
       "Count": 33
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 22
     }
   ],
   "EosHistory": [
@@ -545,6 +551,11 @@
       "Time": "2023-04-29T18:05:02.1200131+00:00",
       "NumProgressed": 1252988,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-04-29T19:05:03.1458993+00:00",
+      "NumProgressed": 1253785,
+      "NumCompleted": 6
     }
   ],
   "RatingHistory": [
@@ -799,29 +810,35 @@
       "Rating": 4.42,
       "NumberOfAwards": 191,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-04-29T18:59:45.3153035+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 213,
+      "NumberOfAwardsMax": 36
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 2,
-  "EOS_NewPlayers": 45436,
+  "EOS_NewPlayers": 46233,
   "EOS_Completed": 6,
-  "EOS_Progressed": 1252988,
-  "LastUpdate_Achievements": "2023-04-29T18:05:02.1200176+00:00",
-  "LastUpdate_Ratings": "2023-04-29T17:59:54.5481707+00:00",
-  "LastChanged_Achievements": "2023-04-29T18:05:02.1200126+00:00",
-  "LastChanged": "2023-04-29T16:59:59.5235835+00:00",
+  "EOS_Progressed": 1253785,
+  "LastUpdate_Achievements": "2023-04-29T19:05:03.1459056+00:00",
+  "LastUpdate_Ratings": "2023-04-29T18:59:45.3153037+00:00",
+  "LastChanged_Achievements": "2023-04-29T19:05:03.1458979+00:00",
+  "LastChanged": "2023-04-29T18:59:45.3153033+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:33.1084407+00:00",
   "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
   "MaxAwardTitle": "Highly Recommended",
   "NumberOfAwardsMax": 36,
-  "NumberOfAwards": 191,
-  "Ranking_EOS_NewCompleters": 33,
+  "NumberOfAwards": 213,
+  "Ranking_EOS_NewCompleters": 34,
   "Ranking_EOS_NewPlayers": 6,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 8,
-  "Ranking_PopularitySum": 350,
+  "Ranking_PopularitySum": 344,
   "Ranking_Popularity": 417,
-  "Ranking_Rating": 640,
-  "Rating": 4.42,
+  "Ranking_Rating": 652,
+  "Rating": 4.41,
   "FirstSeen": "2023-04-13T15:58:07.4170825+00:00"
 }

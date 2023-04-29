@@ -14,8 +14,8 @@
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 13 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 15 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.83% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.43% |
+| 15 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 8.07% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.51% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.38% |
 | 18 | [Scorn](games/s/scorn.md) | 7.17% |
 | 19 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.45% |
@@ -48,10 +48,10 @@
 | 46 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 47 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 48 | [JARS](games/j/jars.md) | 2.63% |
-| 49 | [ZZT!](games/z/zzt!.md) | 2.60% |
+| 49 | [ZZT!](games/z/zzt!.md) | 2.59% |
 | 50 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 51 | [Iron Danger](games/i/iron_danger.md) | 2.45% |
-| 52 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.28% |
+| 52 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.27% |
 | 53 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 54 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
 | 55 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -64,8 +64,8 @@
 | 62 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.57% |
 | 63 | [Frogun](games/f/frogun.md) | 1.56% |
 | 64 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.52% |
-| 65 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.46% |
-| 66 | [Bloodshore](games/b/bloodshore.md) | 1.45% |
+| 65 | [Bloodshore](games/b/bloodshore.md) | 1.45% |
+| 65 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.45% |
 | 67 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.33% |
 | 68 | [Chorus](games/c/chorus.md) | 1.32% |
 | 69 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.29% |
@@ -364,4 +364,4 @@
 | 190 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 190 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 190 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,524 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,525 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
