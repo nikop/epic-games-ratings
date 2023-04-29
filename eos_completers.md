@@ -14,8 +14,8 @@
 | 12 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 13 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 15 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.89% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.48% |
+| 15 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.74% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.46% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.38% |
 | 18 | [Scorn](games/s/scorn.md) | 7.17% |
 | 19 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.35% |
@@ -24,14 +24,14 @@
 | 22 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.71% |
 | 23 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.97% |
 | 24 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
-| 25 | [Bugsnax](games/b/bugsnax.md) | 4.60% |
+| 25 | [Bugsnax](games/b/bugsnax.md) | 4.59% |
 | 26 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.58% |
 | 27 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
-| 28 | [Doodle God](games/d/doodle_god.md) | 4.10% |
-| 29 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.02% |
-| 30 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.92% |
-| 31 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
-| 32 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
+| 28 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.16% |
+| 29 | [Doodle God](games/d/doodle_god.md) | 4.10% |
+| 30 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
+| 31 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
+| 31 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.85% |
 | 33 | [The Complex](games/t/the_complex.md) | 3.59% |
 | 34 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.51% |
 | 35 | [The Bunker](games/t/the_bunker.md) | 3.37% |
@@ -89,8 +89,8 @@
 | 87 | [Train Valley](games/t/train_valley.md) | 0.74% |
 | 88 | [Haven](games/h/haven.md) | 0.73% |
 | 89 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.67% |
-| 90 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.65% |
 | 90 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
+| 91 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.64% |
 | 92 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 93 | [Ghostrunner](games/g/ghostrunner.md) | 0.56% |
 | 94 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.52% |

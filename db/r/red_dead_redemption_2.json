@@ -12,7 +12,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 74736
+      "Count": 74904
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5135,6 +5135,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 348278,
       "NumberOfAwardsMax": 137139
+    },
+    {
+      "Time": "2023-04-29T22:58:38.0985731+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 348446,
+      "NumberOfAwardsMax": 137139
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -5142,14 +5148,14 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-29T22:03:50.5573018+00:00",
-  "LastUpdate_Ratings": "2023-04-29T21:58:38.4839138+00:00",
-  "LastChanged": "2023-04-29T21:58:38.4839131+00:00",
+  "LastUpdate_Achievements": "2023-04-29T23:04:00.6511525+00:00",
+  "LastUpdate_Ratings": "2023-04-29T22:58:38.0985734+00:00",
+  "LastChanged": "2023-04-29T22:58:38.0985728+00:00",
   "MaxAwardTitle": "Impact the Story",
   "NumberOfAwardsMax": 137139,
-  "NumberOfAwards": 348278,
+  "NumberOfAwards": 348446,
   "NumberOfRatings": 102658,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_Progress": 366,

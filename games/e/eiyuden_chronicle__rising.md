@@ -1,5 +1,5 @@
 # Eiyuden Chronicle: Rising
-Rating: 4.49 (Ranked 545)  
+Rating: 4.49 (Ranked 546)  
 Number of Ratings: 48  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  

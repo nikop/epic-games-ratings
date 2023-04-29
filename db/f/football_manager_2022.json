@@ -36,13 +36,13 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 5671
+      "Count": 5672
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 5710
+      "Count": 5712
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -563,6 +563,11 @@
     {
       "Time": "2023-04-29T22:04:57.8107541+00:00",
       "NumProgressed": 458569,
+      "NumCompleted": 18
+    },
+    {
+      "Time": "2023-04-29T23:04:57.5423702+00:00",
+      "NumProgressed": 458573,
       "NumCompleted": 18
     }
   ],
@@ -4422,24 +4427,30 @@
       "Rating": 4.8,
       "NumberOfAwards": 49214,
       "NumberOfAwardsMax": 6245
+    },
+    {
+      "Time": "2023-04-29T22:59:27.3259304+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 49217,
+      "NumberOfAwardsMax": 6245
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 510,
+  "EOS_NewPlayers": 514,
   "EOS_Completed": 18,
-  "EOS_Progressed": 458569,
-  "LastUpdate_Achievements": "2023-04-29T22:04:57.8107598+00:00",
-  "LastUpdate_Ratings": "2023-04-29T21:59:38.0037597+00:00",
-  "LastChanged_Achievements": "2023-04-29T22:04:57.8107533+00:00",
-  "LastChanged": "2023-04-29T19:59:03.5190208+00:00",
+  "EOS_Progressed": 458573,
+  "LastUpdate_Achievements": "2023-04-29T23:04:57.5423768+00:00",
+  "LastUpdate_Ratings": "2023-04-29T22:59:27.3259308+00:00",
+  "LastChanged_Achievements": "2023-04-29T23:04:57.5423697+00:00",
+  "LastChanged": "2023-04-29T22:59:27.3259302+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "MaxAwardTitle": "Relaxing",
   "NumberOfAwardsMax": 6245,
-  "NumberOfAwards": 49214,
+  "NumberOfAwards": 49217,
   "NumberOfRatings": 19160,
-  "Ranking_EOS_NewCompleters": 71,
-  "Ranking_EOS_NewPlayers": 56,
+  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 57,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_Progress": 26,
   "Ranking_PopularitySum": 21,
