@@ -344,6 +344,11 @@
       "Time": "2023-04-29T15:02:12.3281791+00:00",
       "NumProgressed": 63619,
       "NumCompleted": 1145
+    },
+    {
+      "Time": "2023-04-29T17:02:13.3015579+00:00",
+      "NumProgressed": 63621,
+      "NumCompleted": 1145
     }
   ],
   "RatingHistory": [
@@ -1493,19 +1498,19 @@
   ],
   "EOS_Completed_Percentage": 1.8,
   "EOS_NewCompleters": 7,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 87,
   "EOS_Completed": 1145,
-  "EOS_Progressed": 63619,
-  "LastUpdate_Achievements": "2023-04-29T16:03:16.0785277+00:00",
-  "LastUpdate_Ratings": "2023-04-29T15:58:31.4924125+00:00",
-  "LastChanged_Achievements": "2023-04-29T16:03:16.0785223+00:00",
+  "EOS_Progressed": 63621,
+  "LastUpdate_Achievements": "2023-04-29T17:02:13.3015625+00:00",
+  "LastUpdate_Ratings": "2023-04-29T16:57:48.4710089+00:00",
+  "LastChanged_Achievements": "2023-04-29T17:02:13.3015573+00:00",
   "LastChanged": "2023-04-29T13:00:27.9145354+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 926,
   "NumberOfAwards": 1901,
   "NumberOfRatings": 2205,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 18,
   "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_Completed": 56,
   "Ranking_EOS_Progress": 63,

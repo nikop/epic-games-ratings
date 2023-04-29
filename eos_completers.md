@@ -7,15 +7,15 @@
 | 5 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 6 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.41% |
 | 7 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
-| 8 | [Island Cities](games/i/island_cities.md) | 11.43% |
+| 8 | [Island Cities](games/i/island_cities.md) | 10.81% |
 | 9 | [Ravenlok](games/r/ravenlok.md) | 10.71% |
 | 10 | [Smelter](games/s/smelter.md) | 10.34% |
 | 11 | [Time Loader](games/t/time_loader.md) | 8.51% |
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 13 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 15 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 8.00% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.48% |
+| 15 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.83% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.45% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.38% |
 | 18 | [Scorn](games/s/scorn.md) | 7.17% |
 | 19 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.45% |
@@ -48,7 +48,7 @@
 | 46 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 47 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 48 | [JARS](games/j/jars.md) | 2.63% |
-| 49 | [ZZT!](games/z/zzt!.md) | 2.55% |
+| 49 | [ZZT!](games/z/zzt!.md) | 2.60% |
 | 50 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 51 | [Iron Danger](games/i/iron_danger.md) | 2.45% |
 | 52 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.28% |
@@ -89,8 +89,8 @@
 | 87 | [Train Valley](games/t/train_valley.md) | 0.74% |
 | 88 | [Haven](games/h/haven.md) | 0.73% |
 | 89 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.67% |
-| 90 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.65% |
 | 90 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
+| 91 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.64% |
 | 92 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 93 | [Ghostrunner](games/g/ghostrunner.md) | 0.57% |
 | 94 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.52% |
@@ -364,4 +364,4 @@
 | 190 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 190 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 190 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,523 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,524 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

@@ -60,7 +60,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game has a Creative Community",
@@ -1567,6 +1567,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 1826,
       "NumberOfAwardsMax": 1200
+    },
+    {
+      "Time": "2023-04-29T17:00:02.6487177+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1827,
+      "NumberOfAwardsMax": 1200
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -1574,12 +1580,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-29T16:06:38.1091288+00:00",
-  "LastUpdate_Ratings": "2023-04-29T16:01:20.7199801+00:00",
-  "LastChanged": "2023-04-29T08:59:37.054853+00:00",
+  "LastUpdate_Achievements": "2023-04-29T17:04:56.2150553+00:00",
+  "LastUpdate_Ratings": "2023-04-29T17:00:02.6487182+00:00",
+  "LastChanged": "2023-04-29T17:00:02.6487169+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 1200,
-  "NumberOfAwards": 1826,
+  "NumberOfAwards": 1827,
   "NumberOfRatings": 1848,
   "Ranking_EOS_NewCompleters": 67,
   "Ranking_EOS_NewPlayers": 242,

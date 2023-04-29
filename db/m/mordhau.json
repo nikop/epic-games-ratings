@@ -30,7 +30,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 24
+      "Count": 29
     },
     {
       "Text": "This game has Competitive Players",
@@ -535,6 +535,11 @@
       "Time": "2023-04-29T16:06:36.3553577+00:00",
       "NumProgressed": 1251550,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-04-29T17:04:54.9775644+00:00",
+      "NumProgressed": 1252266,
+      "NumCompleted": 6
     }
   ],
   "RatingHistory": [
@@ -783,29 +788,35 @@
       "Rating": 4.41,
       "NumberOfAwards": 186,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-04-29T16:59:59.5235837+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 191,
+      "NumberOfAwardsMax": 36
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 2,
-  "EOS_NewPlayers": 43998,
+  "EOS_NewPlayers": 44714,
   "EOS_Completed": 6,
-  "EOS_Progressed": 1251550,
-  "LastUpdate_Achievements": "2023-04-29T16:06:36.355365+00:00",
-  "LastUpdate_Ratings": "2023-04-29T16:01:18.2055984+00:00",
-  "LastChanged_Achievements": "2023-04-29T16:06:36.3553573+00:00",
-  "LastChanged": "2023-04-29T16:01:18.2055978+00:00",
+  "EOS_Progressed": 1252266,
+  "LastUpdate_Achievements": "2023-04-29T17:04:54.9775708+00:00",
+  "LastUpdate_Ratings": "2023-04-29T16:59:59.5235841+00:00",
+  "LastChanged_Achievements": "2023-04-29T17:04:54.9775639+00:00",
+  "LastChanged": "2023-04-29T16:59:59.5235835+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:33.1084407+00:00",
   "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
   "MaxAwardTitle": "Highly Recommended",
   "NumberOfAwardsMax": 36,
-  "NumberOfAwards": 186,
-  "Ranking_EOS_NewCompleters": 32,
+  "NumberOfAwards": 191,
+  "Ranking_EOS_NewCompleters": 33,
   "Ranking_EOS_NewPlayers": 6,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 8,
-  "Ranking_PopularitySum": 352,
+  "Ranking_PopularitySum": 350,
   "Ranking_Popularity": 417,
-  "Ranking_Rating": 652,
-  "Rating": 4.41,
+  "Ranking_Rating": 640,
+  "Rating": 4.42,
   "FirstSeen": "2023-04-13T15:58:07.4170825+00:00"
 }

@@ -18,7 +18,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 2950
+      "Count": 2961
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4394,6 +4394,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 37986,
       "NumberOfAwardsMax": 14378
+    },
+    {
+      "Time": "2023-04-29T16:56:52.0659775+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 37997,
+      "NumberOfAwardsMax": 14378
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -4401,12 +4407,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-29T16:03:26.4195954+00:00",
-  "LastUpdate_Ratings": "2023-04-29T15:57:18.4204494+00:00",
-  "LastChanged": "2023-04-29T09:56:53.5948993+00:00",
+  "LastUpdate_Achievements": "2023-04-29T17:02:20.482177+00:00",
+  "LastUpdate_Ratings": "2023-04-29T16:56:52.0659781+00:00",
+  "LastChanged": "2023-04-29T16:56:52.0659773+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 14378,
-  "NumberOfAwards": 37986,
+  "NumberOfAwards": 37997,
   "NumberOfRatings": 12660,
   "Ranking_EOS_NewCompleters": 67,
   "Ranking_EOS_NewPlayers": 242,

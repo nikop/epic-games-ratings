@@ -18,7 +18,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 126713
+      "Count": 126730
     },
     {
       "Text": "This game has Competitive Players",
@@ -42,7 +42,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 116001
+      "Count": 116018
     },
     {
       "Text": "This game is Highly Recommended",
@@ -559,6 +559,11 @@
       "Time": "2023-04-29T16:04:40.0650813+00:00",
       "NumProgressed": 32268847,
       "NumCompleted": 28696
+    },
+    {
+      "Time": "2023-04-29T17:03:36.5334818+00:00",
+      "NumProgressed": 32270138,
+      "NumCompleted": 28700
     }
   ],
   "RatingHistory": [
@@ -4901,21 +4906,27 @@
       "Rating": 4.53,
       "NumberOfAwards": 1292243,
       "NumberOfAwardsMax": 137859
+    },
+    {
+      "Time": "2023-04-29T16:58:39.1294312+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 1292277,
+      "NumberOfAwardsMax": 137859
     }
   ],
   "EOS_Completed_Percentage": 0.09,
-  "EOS_NewCompleters": 144,
-  "EOS_NewPlayers": 66483,
-  "EOS_Completed": 28696,
-  "EOS_Progressed": 32268847,
-  "LastUpdate_Achievements": "2023-04-29T16:04:40.0650871+00:00",
-  "LastUpdate_Ratings": "2023-04-29T15:59:32.3544876+00:00",
-  "LastChanged_Achievements": "2023-04-29T16:04:40.0650803+00:00",
-  "LastChanged": "2023-04-29T15:59:32.354486+00:00",
+  "EOS_NewCompleters": 148,
+  "EOS_NewPlayers": 67774,
+  "EOS_Completed": 28700,
+  "EOS_Progressed": 32270138,
+  "LastUpdate_Achievements": "2023-04-29T17:03:36.5334896+00:00",
+  "LastUpdate_Ratings": "2023-04-29T16:58:39.1294322+00:00",
+  "LastChanged_Achievements": "2023-04-29T17:03:36.533481+00:00",
+  "LastChanged": "2023-04-29T16:58:39.1294309+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.7143696+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 137859,
-  "NumberOfAwards": 1292243,
+  "NumberOfAwards": 1292277,
   "NumberOfRatings": 1046587,
   "Ranking_EOS_NewCompleters": 2,
   "Ranking_EOS_NewPlayers": 4,
