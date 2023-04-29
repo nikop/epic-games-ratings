@@ -5,7 +5,7 @@
 | 3 | [Doodle Devil](games/d/doodle_devil.md) | 19.72% |
 | 4 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 5 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
-| 6 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.41% |
+| 6 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.33% |
 | 7 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
 | 8 | [Island Cities](games/i/island_cities.md) | 10.81% |
 | 9 | [Ravenlok](games/r/ravenlok.md) | 10.71% |
@@ -15,7 +15,7 @@
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 13 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 15 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.83% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.45% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.43% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.38% |
 | 18 | [Scorn](games/s/scorn.md) | 7.17% |
 | 19 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.45% |
@@ -89,10 +89,10 @@
 | 87 | [Train Valley](games/t/train_valley.md) | 0.74% |
 | 88 | [Haven](games/h/haven.md) | 0.73% |
 | 89 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.67% |
+| 90 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.65% |
 | 90 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
-| 91 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.64% |
 | 92 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
-| 93 | [Ghostrunner](games/g/ghostrunner.md) | 0.57% |
+| 93 | [Ghostrunner](games/g/ghostrunner.md) | 0.56% |
 | 94 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.52% |
 | 94 | [Grindstone](games/g/grindstone.md) | 0.52% |
 | 96 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.50% |
@@ -111,11 +111,11 @@
 | 109 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
 | 109 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
 | 111 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
-| 112 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
-| 112 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 112 | [The Surge](games/t/the_surge.md) | 0.31% |
-| 115 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
-| 115 | [Tchia](games/t/tchia.md) | 0.30% |
+| 111 | [Tchia](games/t/tchia.md) | 0.32% |
+| 113 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
+| 113 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 113 | [The Surge](games/t/the_surge.md) | 0.31% |
+| 116 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
 | 117 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
 | 117 | [Aegis Descent](games/a/aegis_descent.md) | 0.29% |
 | 119 | [Despot's Game](games/d/despot's_game.md) | 0.28% |
