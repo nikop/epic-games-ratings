@@ -14,8 +14,8 @@
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 13 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 15 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.53% |
-| 16 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.41% |
+| 15 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.72% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.52% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.38% |
 | 18 | [Scorn](games/s/scorn.md) | 7.17% |
 | 19 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.45% |
@@ -48,7 +48,7 @@
 | 46 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 47 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 48 | [JARS](games/j/jars.md) | 2.63% |
-| 49 | [ZZT!](games/z/zzt!.md) | 2.53% |
+| 49 | [ZZT!](games/z/zzt!.md) | 2.52% |
 | 50 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 51 | [Iron Danger](games/i/iron_danger.md) | 2.48% |
 | 52 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.26% |
@@ -61,7 +61,7 @@
 | 57 | [Night Book](games/n/night_book.md) | 1.69% |
 | 60 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
 | 61 | [Somerville](games/s/somerville.md) | 1.62% |
-| 62 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.58% |
+| 62 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.57% |
 | 63 | [Frogun](games/f/frogun.md) | 1.56% |
 | 64 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.52% |
 | 65 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.47% |

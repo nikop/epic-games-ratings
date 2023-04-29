@@ -193,7 +193,7 @@
 | 190 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,502 | 67 |
 | 190 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 0 | 488 |
 | 190 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 333 | 211 |
-| 190 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,125 | 70 |
+| 190 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,128 | 70 |
 | 190 | [For The King](games/f/for_the_king.md) | 4.70 | 360 | 207 |
 | 190 | [House Flipper](games/h/house_flipper.md) | 4.70 | 280 | 225 |
 | 190 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 50 | 382 |
@@ -303,7 +303,7 @@
 | 287 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 51 | 381 |
 | 287 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 488 |
 | 287 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.65 | 48 | 387 |
-| 287 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,400 | 14 |
+| 287 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,408 | 14 |
 | 287 | [SOMA](games/s/soma.md) | 4.65 | 0 | 488 |
 | 287 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.65 | 0 | 488 |
 | 287 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 0 | 488 |
@@ -430,14 +430,14 @@
 | 428 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.57 | 0 | 488 |
 | 428 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 0 | 488 |
 | 428 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 0 | 488 |
-| 428 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 150 | 280 |
+| 428 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 151 | 280 |
 | 428 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 6,693 | 45 |
 | 428 | [Everything](games/e/everything.md) | 4.57 | 0 | 488 |
 | 428 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 0 | 488 |
 | 428 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 35 | 424 |
 | 428 | [Hob](games/h/hob.md) | 4.57 | 0 | 488 |
 | 428 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,196 | 42 |
-| 428 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,018 | 85 |
+| 428 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,023 | 85 |
 | 428 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 116 | 301 |
 | 428 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,062 | 19 |
 | 428 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.57 | 0 | 488 |
@@ -516,7 +516,7 @@
 | 511 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 0 | 488 |
 | 511 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 21 | 476 |
 | 511 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 67 | 362 |
-| 511 | [First Class Trouble](games/f/first_class_trouble.md) | 4.51 | 82 | 341 |
+| 511 | [First Class Trouble](games/f/first_class_trouble.md) | 4.51 | 84 | 338 |
 | 511 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 104 | 312 |
 | 511 | [MythForce](games/m/mythforce.md) | 4.51 | 32 | 432 |
 | 511 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 271 | 229 |
@@ -556,7 +556,7 @@
 | 544 | [Maneater](games/m/maneater.md) | 4.49 | 13,416 | 24 |
 | 544 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 609 | 162 |
 | 544 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 488 |
-| 544 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 340 |
+| 544 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 341 |
 | 544 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 488 |
 | 544 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.49 | 0 | 488 |
 | 544 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.49 | 0 | 488 |
@@ -746,7 +746,7 @@
 | 737 | [Torchlight](games/t/torchlight.md) | 4.32 | 20 | 480 |
 | 737 | [Vampyr](games/v/vampyr.md) | 4.32 | 545 | 174 |
 | 746 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 488 |
-| 746 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 925 | 140 |
+| 746 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 926 | 140 |
 | 748 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 488 |
 | 748 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 488 |
 | 748 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 488 |

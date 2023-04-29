@@ -30,7 +30,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 121589
+      "Count": 121616
     },
     {
       "Text": "This game has Diverse Characters",
@@ -514,6 +514,11 @@
       "Time": "2023-04-29T07:04:11.7326973+00:00",
       "NumProgressed": 32259838,
       "NumCompleted": 28672
+    },
+    {
+      "Time": "2023-04-29T08:03:32.7334822+00:00",
+      "NumProgressed": 32260596,
+      "NumCompleted": 28674
     }
   ],
   "RatingHistory": [
@@ -4832,21 +4837,27 @@
       "Rating": 4.53,
       "NumberOfAwards": 1292162,
       "NumberOfAwardsMax": 137859
+    },
+    {
+      "Time": "2023-04-29T07:58:20.8838484+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 1292189,
+      "NumberOfAwardsMax": 137859
     }
   ],
   "EOS_Completed_Percentage": 0.09,
-  "EOS_NewCompleters": 120,
-  "EOS_NewPlayers": 57474,
-  "EOS_Completed": 28672,
-  "EOS_Progressed": 32259838,
-  "LastUpdate_Achievements": "2023-04-29T07:04:11.7327036+00:00",
-  "LastUpdate_Ratings": "2023-04-29T06:58:51.538169+00:00",
-  "LastChanged_Achievements": "2023-04-29T07:04:11.7326962+00:00",
-  "LastChanged": "2023-04-29T05:58:36.7988918+00:00",
+  "EOS_NewCompleters": 122,
+  "EOS_NewPlayers": 58232,
+  "EOS_Completed": 28674,
+  "EOS_Progressed": 32260596,
+  "LastUpdate_Achievements": "2023-04-29T08:03:32.7334879+00:00",
+  "LastUpdate_Ratings": "2023-04-29T07:58:20.8838491+00:00",
+  "LastChanged_Achievements": "2023-04-29T08:03:32.7334815+00:00",
+  "LastChanged": "2023-04-29T07:58:20.8838482+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.7143696+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 137859,
-  "NumberOfAwards": 1292162,
+  "NumberOfAwards": 1292189,
   "NumberOfRatings": 1046587,
   "Ranking_EOS_NewCompleters": 2,
   "Ranking_EOS_NewPlayers": 4,
