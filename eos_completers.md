@@ -14,8 +14,8 @@
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 13 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 15 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 8.12% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.49% |
+| 15 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 8.00% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.48% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.38% |
 | 18 | [Scorn](games/s/scorn.md) | 7.17% |
 | 19 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.45% |
@@ -24,13 +24,13 @@
 | 22 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.88% |
 | 23 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.97% |
 | 24 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
-| 25 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.61% |
-| 26 | [Bugsnax](games/b/bugsnax.md) | 4.60% |
+| 25 | [Bugsnax](games/b/bugsnax.md) | 4.60% |
+| 26 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.58% |
 | 27 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
 | 28 | [Doodle God](games/d/doodle_god.md) | 4.10% |
 | 29 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.02% |
-| 30 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
 | 30 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.92% |
+| 31 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
 | 32 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 33 | [The Complex](games/t/the_complex.md) | 3.59% |
 | 34 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.51% |
@@ -51,7 +51,7 @@
 | 49 | [ZZT!](games/z/zzt!.md) | 2.55% |
 | 50 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 51 | [Iron Danger](games/i/iron_danger.md) | 2.45% |
-| 52 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.27% |
+| 52 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.28% |
 | 53 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 54 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
 | 55 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -64,7 +64,7 @@
 | 62 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.57% |
 | 63 | [Frogun](games/f/frogun.md) | 1.56% |
 | 64 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.52% |
-| 65 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.47% |
+| 65 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.46% |
 | 66 | [Bloodshore](games/b/bloodshore.md) | 1.45% |
 | 67 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.33% |
 | 68 | [Chorus](games/c/chorus.md) | 1.32% |

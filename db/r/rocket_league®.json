@@ -42,7 +42,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 257612
+      "Count": 258158
     },
     {
       "Text": "This game has a Competitive Community",
@@ -548,6 +548,11 @@
       "Time": "2023-04-29T15:03:46.1272409+00:00",
       "NumProgressed": 23464486,
       "NumCompleted": 1244
+    },
+    {
+      "Time": "2023-04-29T16:04:27.7119772+00:00",
+      "NumProgressed": 23465494,
+      "NumCompleted": 1245
     }
   ],
   "RatingHistory": [
@@ -4742,21 +4747,27 @@
       "Rating": 4.51,
       "NumberOfAwards": 2701386,
       "NumberOfAwardsMax": 397288
+    },
+    {
+      "Time": "2023-04-29T15:59:14.8044177+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 2701932,
+      "NumberOfAwardsMax": 397288
     }
   ],
   "EOS_Completed_Percentage": 0.01,
-  "EOS_NewCompleters": 11,
-  "EOS_NewPlayers": 59671,
-  "EOS_Completed": 1244,
-  "EOS_Progressed": 23464486,
-  "LastUpdate_Achievements": "2023-04-29T15:03:46.1272449+00:00",
-  "LastUpdate_Ratings": "2023-04-29T14:58:38.8958679+00:00",
-  "LastChanged_Achievements": "2023-04-29T15:03:46.1272405+00:00",
-  "LastChanged": "2023-04-28T21:58:48.4488409+00:00",
+  "EOS_NewCompleters": 12,
+  "EOS_NewPlayers": 60679,
+  "EOS_Completed": 1245,
+  "EOS_Progressed": 23465494,
+  "LastUpdate_Achievements": "2023-04-29T16:04:27.7119844+00:00",
+  "LastUpdate_Ratings": "2023-04-29T15:59:14.8044181+00:00",
+  "LastChanged_Achievements": "2023-04-29T16:04:27.7119767+00:00",
+  "LastChanged": "2023-04-29T15:59:14.8044175+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.1822521+00:00",
   "MaxAwardTitle": "Great for Quick Sessions",
   "NumberOfAwardsMax": 397288,
-  "NumberOfAwards": 2701386,
+  "NumberOfAwards": 2701932,
   "NumberOfRatings": 366020,
   "Ranking_EOS_NewCompleters": 9,
   "Ranking_EOS_NewPlayers": 5,

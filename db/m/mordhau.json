@@ -36,13 +36,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 26
+      "Count": 32
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 24
+      "Count": 33
     }
   ],
   "EosHistory": [
@@ -530,6 +530,11 @@
       "Time": "2023-04-29T15:05:20.7676822+00:00",
       "NumProgressed": 1250838,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-04-29T16:06:36.3553577+00:00",
+      "NumProgressed": 1251550,
+      "NumCompleted": 6
     }
   ],
   "RatingHistory": [
@@ -772,29 +777,35 @@
       "Rating": 4.42,
       "NumberOfAwards": 171,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-04-29T16:01:18.2055979+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 186,
+      "NumberOfAwardsMax": 36
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 2,
-  "EOS_NewPlayers": 43286,
+  "EOS_NewPlayers": 43998,
   "EOS_Completed": 6,
-  "EOS_Progressed": 1250838,
-  "LastUpdate_Achievements": "2023-04-29T15:05:20.7676869+00:00",
-  "LastUpdate_Ratings": "2023-04-29T15:00:20.9268448+00:00",
-  "LastChanged_Achievements": "2023-04-29T15:05:20.7676818+00:00",
-  "LastChanged": "2023-04-29T12:00:05.1924009+00:00",
+  "EOS_Progressed": 1251550,
+  "LastUpdate_Achievements": "2023-04-29T16:06:36.355365+00:00",
+  "LastUpdate_Ratings": "2023-04-29T16:01:18.2055984+00:00",
+  "LastChanged_Achievements": "2023-04-29T16:06:36.3553573+00:00",
+  "LastChanged": "2023-04-29T16:01:18.2055978+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:33.1084407+00:00",
   "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
   "MaxAwardTitle": "Highly Recommended",
   "NumberOfAwardsMax": 36,
-  "NumberOfAwards": 171,
-  "Ranking_EOS_NewCompleters": 30,
+  "NumberOfAwards": 186,
+  "Ranking_EOS_NewCompleters": 32,
   "Ranking_EOS_NewPlayers": 6,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 8,
-  "Ranking_PopularitySum": 361,
+  "Ranking_PopularitySum": 352,
   "Ranking_Popularity": 417,
-  "Ranking_Rating": 640,
-  "Rating": 4.42,
+  "Ranking_Rating": 652,
+  "Rating": 4.41,
   "FirstSeen": "2023-04-13T15:58:07.4170825+00:00"
 }
