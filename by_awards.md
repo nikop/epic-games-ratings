@@ -37,13 +37,13 @@
 | 35 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,005 | 4.60 | 378 |
 | 36 | [HITMAN 3](games/h/hitman_3.md) | 8,763 | 4.78 | 101 |
 | 37 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 8,409 | 4.24 | 776 |
-| 38 | [Control](games/c/control.md) | 8,244 | 4.60 | 378 |
-| 39 | [SnowRunner](games/s/snowrunner.md) | 7,745 | 4.76 | 114 |
+| 38 | [Control](games/c/control.md) | 8,248 | 4.60 | 378 |
+| 39 | [SnowRunner](games/s/snowrunner.md) | 7,762 | 4.76 | 114 |
 | 40 | [Supraland](games/s/supraland.md) | 7,599 | 4.61 | 351 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,500 | 4.85 | 37 |
 | 42 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,196 | 4.57 | 427 |
 | 43 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,121 | 4.71 | 177 |
-| 44 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,840 | 4.89 | 12 |
+| 44 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,850 | 4.89 | 12 |
 | 45 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 6,722 | 4.57 | 427 |
 | 46 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 640 |
 | 47 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,601 | 4.47 | 574 |
@@ -150,7 +150,7 @@
 | 148 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 752 | 4.50 | 528 |
 | 149 | [The Long Dark](games/t/the_long_dark.md) | 746 | 4.74 | 141 |
 | 150 | [Auto Chess](games/a/auto_chess.md) | 733 | 4.52 | 499 |
-| 151 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 729 | 4.56 | 443 |
+| 151 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 730 | 4.56 | 443 |
 | 152 | [Core](games/c/core.md) | 726 | 4.37 | 694 |
 | 153 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 717 | 4.79 | 91 |
 | 154 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 691 | 4.59 | 393 |
@@ -394,15 +394,15 @@
 | 392 | [ATOM RPG](games/a/atom_rpg.md) | 46 | 4.45 | 599 |
 | 392 | [AXIOM VERGE](games/a/axiom_verge.md) | 46 | 4.56 | 443 |
 | 392 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 46 | 4.18 | 819 |
-| 395 | [Ancient Enemy](games/a/ancient_enemy.md) | 45 | 3.95 | 884 |
-| 395 | [Desperados III](games/d/desperados_iii.md) | 45 | 4.84 | 49 |
-| 395 | [Expeditions: Rome](games/e/expeditions__rome.md) | 45 | 4.64 | 309 |
-| 395 | [Quake](games/q/quake.md) | 45 | 4.75 | 126 |
-| 395 | [Ranch Simulator](games/r/ranch_simulator.md) | 45 | 4.44 | 622 |
-| 395 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 45 | 4.24 | 776 |
-| 401 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 44 | 4.59 | 393 |
-| 401 | [The Alto Collection](games/t/the_alto_collection.md) | 44 | 4.70 | 190 |
-| 401 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 44 | 3.75 | 905 |
+| 392 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 46 | 3.75 | 905 |
+| 396 | [Ancient Enemy](games/a/ancient_enemy.md) | 45 | 3.95 | 884 |
+| 396 | [Desperados III](games/d/desperados_iii.md) | 45 | 4.84 | 49 |
+| 396 | [Expeditions: Rome](games/e/expeditions__rome.md) | 45 | 4.64 | 309 |
+| 396 | [Quake](games/q/quake.md) | 45 | 4.75 | 126 |
+| 396 | [Ranch Simulator](games/r/ranch_simulator.md) | 45 | 4.44 | 622 |
+| 396 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 45 | 4.24 | 776 |
+| 402 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 44 | 4.59 | 393 |
+| 402 | [The Alto Collection](games/t/the_alto_collection.md) | 44 | 4.70 | 190 |
 | 404 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 43 | 4.29 | 755 |
 | 405 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 41 | 4.75 | 126 |
 | 406 | [Coromon](games/c/coromon.md) | 40 | 4.65 | 287 |
@@ -463,12 +463,12 @@
 | 461 | [DOOM II](games/d/doom_ii.md) | 25 | 4.73 | 155 |
 | 461 | [Spirit of the North](games/s/spirit_of_the_north.md) | 25 | 4.36 | 701 |
 | 463 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 24 | 4.75 | 126 |
+| 463 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 24 | 4.43 | 633 |
 | 463 | [Solar Ash](games/s/solar_ash.md) | 24 | 4.66 | 272 |
-| 465 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 23 | 4.43 | 633 |
-| 465 | [ELEX](games/e/elex.md) | 23 | 4.42 | 640 |
-| 465 | [Fez](games/f/fez.md) | 23 | 4.71 | 177 |
-| 465 | [RUINER](games/r/ruiner.md) | 23 | 4.53 | 488 |
-| 465 | [Weird West](games/w/weird_west.md) | 23 | 4.45 | 599 |
+| 466 | [ELEX](games/e/elex.md) | 23 | 4.42 | 640 |
+| 466 | [Fez](games/f/fez.md) | 23 | 4.71 | 177 |
+| 466 | [RUINER](games/r/ruiner.md) | 23 | 4.53 | 488 |
+| 466 | [Weird West](games/w/weird_west.md) | 23 | 4.45 | 599 |
 | 470 | [City of Gangsters](games/c/city_of_gangsters.md) | 22 | 4.25 | 773 |
 | 470 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.25 | 773 |
 | 470 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.20 | 800 |

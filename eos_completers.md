@@ -6,16 +6,16 @@
 | 4 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 5 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 6 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.41% |
-| 7 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
-| 8 | [Island Cities](games/i/island_cities.md) | 11.76% |
+| 7 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
+| 8 | [Island Cities](games/i/island_cities.md) | 11.43% |
 | 9 | [Ravenlok](games/r/ravenlok.md) | 10.71% |
 | 10 | [Smelter](games/s/smelter.md) | 10.34% |
 | 11 | [Time Loader](games/t/time_loader.md) | 8.51% |
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 13 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 15 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 8.18% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.50% |
+| 15 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 8.12% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.49% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.38% |
 | 18 | [Scorn](games/s/scorn.md) | 7.17% |
 | 19 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.45% |
@@ -48,7 +48,7 @@
 | 46 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 47 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 48 | [JARS](games/j/jars.md) | 2.63% |
-| 49 | [ZZT!](games/z/zzt!.md) | 2.56% |
+| 49 | [ZZT!](games/z/zzt!.md) | 2.55% |
 | 50 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 51 | [Iron Danger](games/i/iron_danger.md) | 2.45% |
 | 52 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.27% |
@@ -93,8 +93,8 @@
 | 90 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
 | 92 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 93 | [Ghostrunner](games/g/ghostrunner.md) | 0.57% |
-| 94 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.53% |
-| 95 | [Grindstone](games/g/grindstone.md) | 0.52% |
+| 94 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.52% |
+| 94 | [Grindstone](games/g/grindstone.md) | 0.52% |
 | 96 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.50% |
 | 97 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 98 | [Aragami 2](games/a/aragami_2.md) | 0.46% |
@@ -132,10 +132,10 @@
 | 128 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
 | 131 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.18% |
 | 132 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
-| 133 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.16% |
 | 133 | [HITMAN 3](games/h/hitman_3.md) | 0.16% |
 | 133 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
-| 136 | [RAILGRADE](games/r/railgrade.md) | 0.15% |
+| 135 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.15% |
+| 135 | [RAILGRADE](games/r/railgrade.md) | 0.15% |
 | 137 | [Gotham Knights](games/g/gotham_knights.md) | 0.14% |
 | 137 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.14% |
 | 137 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.14% |
@@ -151,12 +151,12 @@
 | 147 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.10% |
 | 150 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.09% |
 | 150 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 150 | [Dead Island 2](games/d/dead_island_2.md) | 0.09% |
 | 150 | [Fall Guys](games/f/fall_guys.md) | 0.09% |
 | 150 | [Supraland](games/s/supraland.md) | 0.09% |
-| 154 | [Dead Island 2](games/d/dead_island_2.md) | 0.08% |
-| 154 | [Riverbond](games/r/riverbond.md) | 0.08% |
-| 154 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.08% |
-| 154 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
+| 155 | [Riverbond](games/r/riverbond.md) | 0.08% |
+| 155 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.08% |
+| 155 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
 | 158 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 159 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
 | 159 | [Shop Titans](games/s/shop_titans.md) | 0.06% |

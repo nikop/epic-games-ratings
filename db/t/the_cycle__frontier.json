@@ -24,7 +24,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2188
+      "Count": 2195
     },
     {
       "Text": "This game has Challenging Combat",
@@ -4039,6 +4039,12 @@
       "Rating": 4.1,
       "NumberOfAwards": 14750,
       "NumberOfAwardsMax": 2234
+    },
+    {
+      "Time": "2023-04-29T14:58:02.9032592+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 14757,
+      "NumberOfAwardsMax": 2234
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -4046,15 +4052,15 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-29T14:03:41.2068737+00:00",
-  "LastUpdate_Ratings": "2023-04-29T13:58:23.0187594+00:00",
-  "LastChanged": "2023-04-29T11:57:56.3896275+00:00",
+  "LastUpdate_Achievements": "2023-04-29T15:03:19.5463023+00:00",
+  "LastUpdate_Ratings": "2023-04-29T14:58:02.9032598+00:00",
+  "LastChanged": "2023-04-29T14:58:02.903259+00:00",
   "MaxAwardTitle": "Competitive Players",
   "NumberOfAwardsMax": 2234,
-  "NumberOfAwards": 14750,
+  "NumberOfAwards": 14757,
   "NumberOfRatings": 15671,
   "Ranking_EOS_NewCompleters": 67,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 366,
   "Ranking_PopularitySum": 61,
