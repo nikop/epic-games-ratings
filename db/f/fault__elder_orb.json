@@ -1406,8 +1406,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-29T00:01:50.9343481+00:00",
-  "LastUpdate_Ratings": "2023-04-28T23:57:03.2316058+00:00",
+  "LastUpdate_Achievements": "2023-04-29T02:02:31.2827622+00:00",
+  "LastUpdate_Ratings": "2023-04-29T01:56:37.8093023+00:00",
   "LastChanged": "2022-12-03T23:07:52.062399+00:00",
   "MaxAwardTitle": "Extremely Fun",
   "NumberOfAwardsMax": 103,
@@ -1419,7 +1419,7 @@
   "Ranking_EOS_Progress": 364,
   "Ranking_PopularitySum": 256,
   "Ranking_Popularity": 314,
-  "Ranking_Rating": 892,
+  "Ranking_Rating": 893,
   "Rating": 3.91,
   "FirstSeen": "2022-07-22T20:21:40.2503475+00:00"
 }

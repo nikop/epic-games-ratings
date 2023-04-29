@@ -12,7 +12,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 5546
+      "Count": 5592
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -42,7 +42,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 4753
+      "Count": 4795
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1494,6 +1494,12 @@
       "Rating": 4.24,
       "NumberOfAwards": 39600,
       "NumberOfAwardsMax": 8409
+    },
+    {
+      "Time": "2023-04-29T02:01:24.947243+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 39688,
+      "NumberOfAwardsMax": 8409
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -1501,13 +1507,13 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-29T00:05:29.4427518+00:00",
-  "LastUpdate_Ratings": "2023-04-29T00:01:01.3305318+00:00",
-  "LastChanged": "2023-04-29T00:01:01.330531+00:00",
+  "LastUpdate_Achievements": "2023-04-29T02:06:18.0657714+00:00",
+  "LastUpdate_Ratings": "2023-04-29T02:01:24.9472433+00:00",
+  "LastChanged": "2023-04-29T02:01:24.9472428+00:00",
   "FirstSeenRating": "2022-10-06T07:01:15.4932538+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 8409,
-  "NumberOfAwards": 39600,
+  "NumberOfAwards": 39688,
   "Ranking_EOS_NewCompleters": 64,
   "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_Completed": 190,

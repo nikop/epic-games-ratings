@@ -36,7 +36,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 38
+      "Count": 42
     },
     {
       "Text": "This game has Competitive Players",
@@ -752,6 +752,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 420,
       "NumberOfAwardsMax": 66
+    },
+    {
+      "Time": "2023-04-29T02:01:50.9882502+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 424,
+      "NumberOfAwardsMax": 66
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -759,13 +765,13 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-29T00:05:44.1319702+00:00",
-  "LastUpdate_Ratings": "2023-04-29T00:01:21.3831268+00:00",
-  "LastChanged": "2023-04-28T16:00:11.4640178+00:00",
+  "LastUpdate_Achievements": "2023-04-29T02:06:38.3965981+00:00",
+  "LastUpdate_Ratings": "2023-04-29T02:01:50.9882508+00:00",
+  "LastChanged": "2023-04-29T02:01:50.9882499+00:00",
   "FirstSeenRating": "2022-12-02T07:57:13.3206902+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 66,
-  "NumberOfAwards": 420,
+  "NumberOfAwards": 424,
   "Ranking_EOS_NewCompleters": 64,
   "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_Completed": 190,

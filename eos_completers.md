@@ -13,13 +13,13 @@
 | 11 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 12 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.56% |
+| 14 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.53% |
 | 15 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.43% |
 | 16 | [Scorn](games/s/scorn.md) | 7.17% |
-| 17 | [Island Cities](games/i/island_cities.md) | 6.90% |
+| 17 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.81% |
+| 18 | [Island Cities](games/i/island_cities.md) | 6.45% |
 | 18 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.45% |
-| 19 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.09% |
+| 20 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 21 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 22 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.88% |
 | 23 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.97% |
@@ -48,14 +48,14 @@
 | 46 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 47 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 48 | [JARS](games/j/jars.md) | 2.63% |
-| 49 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 50 | [Iron Danger](games/i/iron_danger.md) | 2.48% |
-| 50 | [ZZT!](games/z/zzt!.md) | 2.48% |
+| 49 | [ZZT!](games/z/zzt!.md) | 2.53% |
+| 50 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 51 | [Iron Danger](games/i/iron_danger.md) | 2.48% |
 | 52 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.27% |
 | 53 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 54 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
 | 55 | [Sifu](games/s/sifu.md) | 1.81% |
-| 56 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.79% |
+| 56 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
 | 57 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.69% |
 | 57 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
 | 57 | [Night Book](games/n/night_book.md) | 1.69% |

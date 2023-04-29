@@ -3,8 +3,8 @@ Rating: 4.81 (Ranked 71)
 Number of Ratings: 1,845  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 417  (Ranked 191)  
-Sum: 3,000 (Ranked 149)  
-Diff (max vs sum): 42
+Sum: 3,000 (Ranked 150)  
+Diff (max vs sum): 41
 ## Popularity (Based on EOS Achievements)
 Progressed: 14,509 (Ranked 96)  
 Completed: 30 (0.21%) (Ranked 126)  
