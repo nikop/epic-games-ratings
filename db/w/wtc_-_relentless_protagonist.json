@@ -2,19 +2,25 @@
   "ID": "bc79c881398d46359a98d989ee7abb2e",
   "Name": "WTC - Relentless Protagonist",
   "Tags": [],
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-04-29T14:04:20.6564518+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-29T13:06:19.3301139+00:00",
-  "LastUpdate_Ratings": "2023-04-29T13:00:54.471358+00:00",
-  "LastChanged_Achievements": "2023-04-29T13:06:19.3301122+00:00",
+  "EOS_Progressed": 1,
+  "LastUpdate_Achievements": "2023-04-29T14:04:20.6564555+00:00",
+  "LastUpdate_Ratings": "2023-04-29T13:59:00.6653586+00:00",
+  "LastChanged_Achievements": "2023-04-29T14:04:20.6564511+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.3118524+00:00",
   "Ranking_EOS_NewCompleters": 67,
   "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_Progress": 365
+  "Ranking_EOS_Progress": 342
 }

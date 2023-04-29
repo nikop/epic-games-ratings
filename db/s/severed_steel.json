@@ -6,7 +6,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 162
+      "Count": 164
     }
   ],
   "EosHistory": [
@@ -484,6 +484,11 @@
       "Time": "2023-04-29T13:06:59.1152041+00:00",
       "NumProgressed": 398059,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-04-29T14:05:14.9256829+00:00",
+      "NumProgressed": 398091,
+      "NumCompleted": 28
     }
   ],
   "RatingHistory": [
@@ -626,28 +631,34 @@
       "Rating": 4.68,
       "NumberOfAwards": 162,
       "NumberOfAwardsMax": 162
+    },
+    {
+      "Time": "2023-04-29T14:00:00.6743006+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 164,
+      "NumberOfAwardsMax": 164
     }
   ],
   "EOS_Completed_Percentage": 0.01,
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1440,
+  "EOS_NewPlayers": 1472,
   "EOS_Completed": 28,
-  "EOS_Progressed": 398059,
-  "LastUpdate_Achievements": "2023-04-29T13:06:59.1152162+00:00",
-  "LastUpdate_Ratings": "2023-04-29T13:01:35.8819975+00:00",
-  "LastChanged_Achievements": "2023-04-29T13:06:59.1152029+00:00",
-  "LastChanged": "2023-04-28T09:34:35.8807971+00:00",
+  "EOS_Progressed": 398091,
+  "LastUpdate_Achievements": "2023-04-29T14:05:14.9256902+00:00",
+  "LastUpdate_Ratings": "2023-04-29T14:00:00.6743011+00:00",
+  "LastChanged_Achievements": "2023-04-29T14:05:14.9256821+00:00",
+  "LastChanged": "2023-04-29T14:00:00.6743003+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "MaxAwardTitle": "Great Boss Battles",
-  "NumberOfAwardsMax": 162,
-  "NumberOfAwards": 162,
+  "NumberOfAwardsMax": 164,
+  "NumberOfAwards": 164,
   "Ranking_EOS_NewCompleters": 67,
   "Ranking_EOS_NewPlayers": 26,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_Progress": 30,
-  "Ranking_PopularitySum": 368,
-  "Ranking_Popularity": 276,
+  "Ranking_PopularitySum": 366,
+  "Ranking_Popularity": 275,
   "Ranking_Rating": 232,
   "Rating": 4.68,
   "FirstSeen": "2022-07-22T20:21:24.7272687+00:00"

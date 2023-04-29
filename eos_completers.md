@@ -7,15 +7,15 @@
 | 5 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 6 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.41% |
 | 7 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
-| 8 | [Ravenlok](games/r/ravenlok.md) | 10.91% |
-| 9 | [Smelter](games/s/smelter.md) | 10.34% |
-| 10 | [Island Cities](games/i/island_cities.md) | 8.82% |
+| 8 | [Island Cities](games/i/island_cities.md) | 11.76% |
+| 9 | [Ravenlok](games/r/ravenlok.md) | 10.71% |
+| 10 | [Smelter](games/s/smelter.md) | 10.34% |
 | 11 | [Time Loader](games/t/time_loader.md) | 8.51% |
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 13 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 15 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 8.21% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.51% |
+| 15 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 8.18% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.50% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.38% |
 | 18 | [Scorn](games/s/scorn.md) | 7.17% |
 | 19 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.45% |
@@ -50,7 +50,7 @@
 | 48 | [JARS](games/j/jars.md) | 2.63% |
 | 49 | [ZZT!](games/z/zzt!.md) | 2.56% |
 | 50 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 51 | [Iron Danger](games/i/iron_danger.md) | 2.47% |
+| 51 | [Iron Danger](games/i/iron_danger.md) | 2.45% |
 | 52 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.27% |
 | 53 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 54 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
@@ -75,7 +75,7 @@
 | 73 | [Late Shift](games/l/late_shift.md) | 1.21% |
 | 74 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.19% |
 | 75 | [Ten Dates](games/t/ten_dates.md) | 1.06% |
-| 76 | [Dungeons 3](games/d/dungeons_3.md) | 0.99% |
+| 76 | [Dungeons 3](games/d/dungeons_3.md) | 0.98% |
 | 77 | [Five Dates](games/f/five_dates.md) | 0.90% |
 | 77 | [Sable](games/s/sable.md) | 0.90% |
 | 79 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
@@ -362,5 +362,6 @@
 | 190 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 0.00% |
 | 190 | [We Are OFK](games/w/we_are_ofk.md) | 0.00% |
 | 190 | [Without Escape](games/w/without_escape.md) | 0.00% |
+| 190 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 190 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 2,523 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
