@@ -14,7 +14,7 @@
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 13 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 15 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 8.20% |
+| 15 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 8.08% |
 | 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.52% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.38% |
 | 18 | [Scorn](games/s/scorn.md) | 7.17% |
@@ -33,7 +33,7 @@
 | 30 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.92% |
 | 32 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 33 | [The Complex](games/t/the_complex.md) | 3.59% |
-| 34 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.53% |
+| 34 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.51% |
 | 35 | [The Bunker](games/t/the_bunker.md) | 3.37% |
 | 36 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 37 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.27% |
@@ -42,13 +42,13 @@
 | 40 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.99% |
 | 41 | [MultiVersus](games/m/multiversus.md) | 2.96% |
 | 42 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.94% |
-| 43 | [Destiny 2](games/d/destiny_2.md) | 2.93% |
+| 43 | [Destiny 2](games/d/destiny_2.md) | 2.92% |
 | 44 | [Bunny Park](games/b/bunny_park.md) | 2.89% |
 | 45 | [FORECLOSED](games/f/foreclosed.md) | 2.78% |
 | 46 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 47 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 48 | [JARS](games/j/jars.md) | 2.63% |
-| 49 | [ZZT!](games/z/zzt!.md) | 2.57% |
+| 49 | [ZZT!](games/z/zzt!.md) | 2.56% |
 | 50 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 51 | [Iron Danger](games/i/iron_danger.md) | 2.47% |
 | 52 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.27% |
@@ -56,10 +56,10 @@
 | 54 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
 | 55 | [Sifu](games/s/sifu.md) | 1.81% |
 | 56 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
-| 57 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.69% |
 | 57 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
 | 57 | [Night Book](games/n/night_book.md) | 1.69% |
-| 60 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
+| 59 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
+| 59 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.67% |
 | 61 | [Somerville](games/s/somerville.md) | 1.62% |
 | 62 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.57% |
 | 63 | [Frogun](games/f/frogun.md) | 1.56% |

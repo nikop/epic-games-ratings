@@ -518,6 +518,11 @@
       "Time": "2023-04-29T10:00:24.4920284+00:00",
       "NumProgressed": 113403,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-04-29T11:01:43.4122371+00:00",
+      "NumProgressed": 113430,
+      "NumCompleted": 4
     }
   ],
   "RatingHistory": [
@@ -3239,12 +3244,12 @@
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1526,
+  "EOS_NewPlayers": 1553,
   "EOS_Completed": 4,
-  "EOS_Progressed": 113403,
-  "LastUpdate_Achievements": "2023-04-29T10:00:24.4920343+00:00",
-  "LastUpdate_Ratings": "2023-04-29T09:57:49.6509646+00:00",
-  "LastChanged_Achievements": "2023-04-29T10:00:24.4920279+00:00",
+  "EOS_Progressed": 113430,
+  "LastUpdate_Achievements": "2023-04-29T11:01:43.4122419+00:00",
+  "LastUpdate_Ratings": "2023-04-29T10:58:12.8874648+00:00",
+  "LastChanged_Achievements": "2023-04-29T11:01:43.4122366+00:00",
   "LastChanged": "2023-04-29T08:58:01.7661018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "MaxAwardTitle": "Extremely Fun",

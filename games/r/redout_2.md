@@ -1,5 +1,5 @@
 # Redout 2
-Rating: 4.46 (Ranked 588)  
+Rating: 4.46 (Ranked 589)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
