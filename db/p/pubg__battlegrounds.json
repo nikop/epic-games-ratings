@@ -30,7 +30,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 1662
+      "Count": 1680
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -496,6 +496,11 @@
     {
       "Time": "2023-04-29T06:03:35.9924355+00:00",
       "NumProgressed": 340121,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-29T07:03:51.160302+00:00",
+      "NumProgressed": 340180,
       "NumCompleted": 8
     }
   ],
@@ -1453,27 +1458,33 @@
       "Rating": 3.98,
       "NumberOfAwards": 5391,
       "NumberOfAwardsMax": 1662
+    },
+    {
+      "Time": "2023-04-29T06:58:30.0374524+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 5409,
+      "NumberOfAwardsMax": 1680
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 3917,
+  "EOS_NewPlayers": 3976,
   "EOS_Completed": 8,
-  "EOS_Progressed": 340121,
-  "LastUpdate_Achievements": "2023-04-29T06:03:35.992442+00:00",
-  "LastUpdate_Ratings": "2023-04-29T05:58:16.8679654+00:00",
-  "LastChanged_Achievements": "2023-04-29T06:03:35.9924349+00:00",
-  "LastChanged": "2023-04-28T17:58:33.1449428+00:00",
+  "EOS_Progressed": 340180,
+  "LastUpdate_Achievements": "2023-04-29T07:03:51.1603091+00:00",
+  "LastUpdate_Ratings": "2023-04-29T06:58:30.0374528+00:00",
+  "LastChanged_Achievements": "2023-04-29T07:03:51.1603012+00:00",
+  "LastChanged": "2023-04-29T06:58:30.037452+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "MaxAwardTitle": "Competitive Players",
-  "NumberOfAwardsMax": 1662,
-  "NumberOfAwards": 5391,
-  "Ranking_EOS_NewCompleters": 40,
+  "NumberOfAwardsMax": 1680,
+  "NumberOfAwards": 5409,
+  "Ranking_EOS_NewCompleters": 41,
   "Ranking_EOS_NewPlayers": 12,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 35,
-  "Ranking_PopularitySum": 116,
+  "Ranking_PopularitySum": 115,
   "Ranking_Popularity": 109,
   "Ranking_Rating": 878,
   "Rating": 3.98,
