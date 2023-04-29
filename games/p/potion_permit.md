@@ -1,9 +1,9 @@
 # Potion Permit
 Rating: 3.78 (Ranked 902)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 66  (Ranked 363)  
+Max (Character Customization): 66  (Ranked 364)  
 Sum: 66 (Ranked 418)  
-Diff (max vs sum): -55
+Diff (max vs sum): -54
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,225 (Ranked 152)  
 Completed: 5 (0.41%) (Ranked 101)  

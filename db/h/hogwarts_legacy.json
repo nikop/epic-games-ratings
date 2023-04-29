@@ -36,7 +36,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 713
+      "Count": 716
     },
     {
       "Text": "This game has Diverse Characters",
@@ -555,6 +555,11 @@
       "Time": "2023-04-29T18:00:44.2508695+00:00",
       "NumProgressed": 264588,
       "NumCompleted": 336
+    },
+    {
+      "Time": "2023-04-29T19:59:33.6904527+00:00",
+      "NumProgressed": 264616,
+      "NumCompleted": 337
     }
   ],
   "RatingHistory": [
@@ -2093,25 +2098,31 @@
       "Rating": 4.78,
       "NumberOfAwards": 32856,
       "NumberOfAwardsMax": 18116
+    },
+    {
+      "Time": "2023-04-29T19:56:52.032689+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 32859,
+      "NumberOfAwardsMax": 18116
     }
   ],
   "EOS_Completed_Percentage": 0.13,
-  "EOS_NewCompleters": 3,
-  "EOS_NewPlayers": 611,
-  "EOS_Completed": 336,
-  "EOS_Progressed": 264588,
-  "LastUpdate_Achievements": "2023-04-29T18:00:44.250874+00:00",
-  "LastUpdate_Ratings": "2023-04-29T18:56:59.0690349+00:00",
-  "LastChanged_Achievements": "2023-04-29T18:00:44.2508691+00:00",
-  "LastChanged": "2023-04-29T18:56:59.0690341+00:00",
+  "EOS_NewCompleters": 4,
+  "EOS_NewPlayers": 639,
+  "EOS_Completed": 337,
+  "EOS_Progressed": 264616,
+  "LastUpdate_Achievements": "2023-04-29T19:59:33.6904627+00:00",
+  "LastUpdate_Ratings": "2023-04-29T19:56:52.0326893+00:00",
+  "LastChanged_Achievements": "2023-04-29T19:59:33.6904505+00:00",
+  "LastChanged": "2023-04-29T19:56:52.0326887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 18116,
-  "NumberOfAwards": 32856,
-  "Ranking_EOS_NewCompleters": 26,
-  "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_Completed": 141,
+  "NumberOfAwards": 32859,
+  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewPlayers": 47,
+  "Ranking_EOS_Completed": 142,
   "Ranking_EOS_Progress": 37,
   "Ranking_PopularitySum": 34,
   "Ranking_Popularity": 18,

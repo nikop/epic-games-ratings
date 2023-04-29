@@ -6,13 +6,13 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 6601
+      "Count": 6620
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 4730
+      "Count": 4750
     },
     {
       "Text": "This game is Great for Beginners",
@@ -60,7 +60,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1102
+      "Count": 1110
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4455,6 +4455,12 @@
       "Rating": 4.47,
       "NumberOfAwards": 21209,
       "NumberOfAwardsMax": 6601
+    },
+    {
+      "Time": "2023-04-29T19:59:24.2793177+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 21256,
+      "NumberOfAwardsMax": 6620
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -4462,15 +4468,15 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-29T19:05:13.2007317+00:00",
-  "LastUpdate_Ratings": "2023-04-29T18:59:55.8492348+00:00",
-  "LastChanged": "2023-04-29T15:00:32.7021189+00:00",
+  "LastUpdate_Achievements": "2023-04-29T20:04:45.4494371+00:00",
+  "LastUpdate_Ratings": "2023-04-29T19:59:24.2793181+00:00",
+  "LastChanged": "2023-04-29T19:59:24.2793175+00:00",
   "MaxAwardTitle": "Character Customization",
-  "NumberOfAwardsMax": 6601,
-  "NumberOfAwards": 21209,
+  "NumberOfAwardsMax": 6620,
+  "NumberOfAwards": 21256,
   "NumberOfRatings": 6675,
-  "Ranking_EOS_NewCompleters": 69,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 366,
   "Ranking_PopularitySum": 52,

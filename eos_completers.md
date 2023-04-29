@@ -7,18 +7,18 @@
 | 5 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 6 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.33% |
 | 7 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.92% |
-| 8 | [Island Cities](games/i/island_cities.md) | 10.81% |
-| 9 | [Ravenlok](games/r/ravenlok.md) | 10.71% |
+| 8 | [Ravenlok](games/r/ravenlok.md) | 10.71% |
+| 9 | [Island Cities](games/i/island_cities.md) | 10.53% |
 | 10 | [Smelter](games/s/smelter.md) | 10.34% |
 | 11 | [Time Loader](games/t/time_loader.md) | 8.51% |
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 13 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 15 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 8.07% |
+| 15 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.90% |
 | 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.51% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.38% |
 | 18 | [Scorn](games/s/scorn.md) | 7.17% |
-| 19 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.45% |
+| 19 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.40% |
 | 20 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 21 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 22 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.88% |
@@ -61,8 +61,8 @@
 | 59 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
 | 59 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.67% |
 | 61 | [Somerville](games/s/somerville.md) | 1.62% |
-| 62 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.57% |
-| 63 | [Frogun](games/f/frogun.md) | 1.56% |
+| 62 | [Frogun](games/f/frogun.md) | 1.56% |
+| 62 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.56% |
 | 64 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.52% |
 | 65 | [Bloodshore](games/b/bloodshore.md) | 1.45% |
 | 65 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.45% |
@@ -71,13 +71,13 @@
 | 69 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.29% |
 | 70 | [Trifox](games/t/trifox.md) | 1.28% |
 | 71 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.27% |
-| 72 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.24% |
+| 72 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.23% |
 | 73 | [Late Shift](games/l/late_shift.md) | 1.21% |
 | 74 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.19% |
 | 75 | [Ten Dates](games/t/ten_dates.md) | 1.06% |
 | 76 | [Dungeons 3](games/d/dungeons_3.md) | 0.98% |
-| 77 | [Five Dates](games/f/five_dates.md) | 0.90% |
-| 77 | [Sable](games/s/sable.md) | 0.90% |
+| 77 | [Sable](games/s/sable.md) | 0.91% |
+| 78 | [Five Dates](games/f/five_dates.md) | 0.90% |
 | 79 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
 | 79 | [Hades](games/h/hades.md) | 0.89% |
 | 81 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.88% |
@@ -138,11 +138,11 @@
 | 135 | [RAILGRADE](games/r/railgrade.md) | 0.15% |
 | 137 | [Gotham Knights](games/g/gotham_knights.md) | 0.14% |
 | 137 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.14% |
+| 137 | [Isonzo](games/i/isonzo.md) | 0.14% |
 | 137 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.14% |
 | 137 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
-| 141 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.13% |
-| 141 | [Isonzo](games/i/isonzo.md) | 0.13% |
-| 141 | [Weird West](games/w/weird_west.md) | 0.13% |
+| 142 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.13% |
+| 142 | [Weird West](games/w/weird_west.md) | 0.13% |
 | 144 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 144 | [Partisans 1941](games/p/partisans_1941.md) | 0.12% |
 | 146 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
