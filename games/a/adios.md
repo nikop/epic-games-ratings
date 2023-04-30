@@ -1,11 +1,11 @@
 # Adios
-Rating: - (Ranked -)  
+Rating: 3.50 (Ranked 911)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked -)  
-Sum: 0 (Ranked -)  
-Diff (max vs sum): -
+Max (): 0  (Ranked 488)  
+Sum: 0 (Ranked 488)  
+Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,097 (Ranked 71)  
+Progressed: 53,107 (Ranked 71)  
 Completed: 414 (0.78%) (Ranked 87)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -15,7 +15,7 @@ Completed: 414 (0.78%) (Ranked 87)
 | 2023-04-27 | 52,337 | 402 |
 | 2023-04-28 | 52,552 | 406 |
 | 2023-04-29 | 52,850 | 409 |
-| 2023-04-30 | 53,097 | 414 |
+| 2023-04-30 | 53,107 | 414 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -23,3 +23,4 @@ Completed: 414 (0.78%) (Ranked 87)
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-03-31 | - | 0 | 0 |
+| 2023-04-30 | 3.50 | 0 | 0 |

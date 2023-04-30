@@ -1,5 +1,5 @@
 # The Vanishing of Ethan Carter
-Rating: 4.26 (Ranked 771)  
+Rating: 4.25 (Ranked 774)  
 Number of Ratings: 490  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
@@ -91,3 +91,4 @@ Diff (max vs sum): 0
 | 2023-02-09 | 4.25 | - | - | - |
 | 2023-02-22 | 4.26 | - | - | - |
 | 2023-03-31 | 4.26 | - | 0 | 0 |
+| 2023-04-30 | 4.25 | - | 0 | 0 |

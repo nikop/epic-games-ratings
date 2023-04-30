@@ -6,7 +6,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 26513
+      "Count": 27146
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -705,6 +705,11 @@
     {
       "Time": "2023-04-30T20:04:52.1831079+00:00",
       "NumProgressed": 3388750,
+      "NumCompleted": 7
+    },
+    {
+      "Time": "2023-04-30T21:05:03.3847251+00:00",
+      "NumProgressed": 3389538,
       "NumCompleted": 7
     }
   ],
@@ -4354,28 +4359,34 @@
       "Rating": 4.58,
       "NumberOfAwards": 47687,
       "NumberOfAwardsMax": 26513
+    },
+    {
+      "Time": "2023-04-30T20:59:37.4728638+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 48320,
+      "NumberOfAwardsMax": 27146
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 97887,
+  "EOS_NewPlayers": 98675,
   "EOS_Completed": 7,
-  "EOS_Progressed": 3388750,
-  "LastUpdate_Achievements": "2023-04-30T20:04:52.183113+00:00",
-  "LastUpdate_Ratings": "2023-04-30T19:59:18.5404833+00:00",
-  "LastChanged_Achievements": "2023-04-30T20:04:52.183107+00:00",
-  "LastChanged": "2023-04-30T13:58:50.946121+00:00",
+  "EOS_Progressed": 3389538,
+  "LastUpdate_Achievements": "2023-04-30T21:05:03.3847308+00:00",
+  "LastUpdate_Ratings": "2023-04-30T20:59:37.4728641+00:00",
+  "LastChanged_Achievements": "2023-04-30T21:05:03.3847246+00:00",
+  "LastChanged": "2023-04-30T20:59:37.4728637+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:58.6045663+00:00",
   "MaxAwardTitle": "Character Customization",
-  "NumberOfAwardsMax": 26513,
-  "NumberOfAwards": 47687,
+  "NumberOfAwardsMax": 27146,
+  "NumberOfAwards": 48320,
   "NumberOfRatings": 3181,
   "Ranking_EOS_NewCompleters": 49,
-  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewPlayers": 4,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 4,
   "Ranking_PopularitySum": 23,
-  "Ranking_Popularity": 16,
+  "Ranking_Popularity": 15,
   "Ranking_Rating": 412,
   "Rating": 4.58,
   "FirstSeen": "2022-07-22T20:18:05.0678131+00:00"

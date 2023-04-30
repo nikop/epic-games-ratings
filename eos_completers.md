@@ -16,7 +16,7 @@
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 16 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.50% |
-| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.44% |
+| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.42% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
 | 19 | [Scorn](games/s/scorn.md) | 7.16% |
 | 20 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 7.14% |
@@ -67,7 +67,7 @@
 | 65 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.55% |
 | 66 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.52% |
 | 67 | [Bloodshore](games/b/bloodshore.md) | 1.44% |
-| 67 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.44% |
+| 68 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.43% |
 | 69 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.33% |
 | 70 | [Chorus](games/c/chorus.md) | 1.31% |
 | 71 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.29% |

@@ -18,7 +18,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2136
+      "Count": 2140
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4081,6 +4081,12 @@
       "Rating": 4.1,
       "NumberOfAwards": 14785,
       "NumberOfAwardsMax": 2239
+    },
+    {
+      "Time": "2023-04-30T20:58:08.1967981+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 14789,
+      "NumberOfAwardsMax": 2239
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -4088,12 +4094,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-30T20:00:28.1838315+00:00",
-  "LastUpdate_Ratings": "2023-04-30T19:57:47.0486656+00:00",
-  "LastChanged": "2023-04-30T13:57:38.9788263+00:00",
+  "LastUpdate_Achievements": "2023-04-30T21:00:47.0687203+00:00",
+  "LastUpdate_Ratings": "2023-04-30T20:58:08.1967985+00:00",
+  "LastChanged": "2023-04-30T20:58:08.1967979+00:00",
   "MaxAwardTitle": "Competitive Players",
   "NumberOfAwardsMax": 2239,
-  "NumberOfAwards": 14785,
+  "NumberOfAwards": 14789,
   "NumberOfRatings": 15671,
   "Ranking_EOS_NewCompleters": 76,
   "Ranking_EOS_NewPlayers": 258,

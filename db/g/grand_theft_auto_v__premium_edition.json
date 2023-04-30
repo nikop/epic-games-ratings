@@ -60,7 +60,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 163449
+      "Count": 163932
     }
   ],
   "EosHistory": [],
@@ -4643,6 +4643,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 1300263,
       "NumberOfAwardsMax": 163449
+    },
+    {
+      "Time": "2023-04-30T21:00:04.4552624+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1300746,
+      "NumberOfAwardsMax": 163932
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -4650,12 +4656,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-30T20:05:13.5780591+00:00",
-  "LastUpdate_Ratings": "2023-04-30T19:59:45.9763352+00:00",
-  "LastChanged": "2023-04-29T21:59:47.4666066+00:00",
+  "LastUpdate_Achievements": "2023-04-30T21:05:23.4287702+00:00",
+  "LastUpdate_Ratings": "2023-04-30T21:00:04.4552628+00:00",
+  "LastChanged": "2023-04-30T21:00:04.4552622+00:00",
   "MaxAwardTitle": "Great for Beginners",
-  "NumberOfAwardsMax": 163449,
-  "NumberOfAwards": 1300263,
+  "NumberOfAwardsMax": 163932,
+  "NumberOfAwards": 1300746,
   "NumberOfRatings": 573831,
   "Ranking_EOS_NewCompleters": 76,
   "Ranking_EOS_NewPlayers": 258,

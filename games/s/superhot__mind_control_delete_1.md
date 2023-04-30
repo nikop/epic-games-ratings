@@ -1,5 +1,5 @@
 # SUPERHOT: Mind Control Delete
-Rating: 4.63 (Ranked 325)  
+Rating: 4.63 (Ranked 326)  
 Number of Ratings: 34  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  

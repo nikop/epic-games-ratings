@@ -1,9 +1,9 @@
 # Tom Clancy's Rainbow Six® Siege
-Rating: 4.58 (Ranked 412)  
+Rating: 4.57 (Ranked 427)  
 Number of Ratings: 8,669  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 1,709  (Ranked 108)  
-Sum: 14,021 (Ranked 64)  
+Sum: 14,032 (Ranked 64)  
 Diff (max vs sum): 44
 ## Awards
 | Award | Count |
@@ -15,7 +15,7 @@ Diff (max vs sum): 44
 | This game is Extremely Fun | 1,583 |
 | This game has Challenging Combat | 1,554 |
 | This game has Quickly Understood Controls | 1,551 |
-| This game has Amazing Storytelling | 1,441 |
+| This game has Amazing Storytelling | 1,452 |
 | This game has a Competitive Community | 1,348 |
 | This game has Obsessive Gameplay | 1,220 |
 | This game has Realistic Visuals | 695 |
@@ -120,4 +120,4 @@ Diff (max vs sum): 44
 | 2023-04-27 | 4.57 | - | 1,697 | 13,898 |
 | 2023-04-28 | 4.58 | - | 1,701 | 13,926 |
 | 2023-04-29 | 4.58 | - | 1,709 | 13,987 |
-| 2023-04-30 | 4.58 | - | 1,709 | 14,021 |
+| 2023-04-30 | 4.58 | - | 1,709 | 14,032 |

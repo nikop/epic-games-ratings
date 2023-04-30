@@ -18,7 +18,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 29
+      "Count": 33
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -676,6 +676,11 @@
       "Time": "2023-04-30T20:05:20.6772213+00:00",
       "NumProgressed": 1266859,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-04-30T21:05:30.4204213+00:00",
+      "NumProgressed": 1267485,
+      "NumCompleted": 6
     }
   ],
   "RatingHistory": [
@@ -960,27 +965,33 @@
       "Rating": 4.41,
       "NumberOfAwards": 234,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2023-04-30T21:00:09.5068123+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 238,
+      "NumberOfAwardsMax": 40
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 2,
-  "EOS_NewPlayers": 59307,
+  "EOS_NewPlayers": 59933,
   "EOS_Completed": 6,
-  "EOS_Progressed": 1266859,
-  "LastUpdate_Achievements": "2023-04-30T20:05:20.6772262+00:00",
-  "LastUpdate_Ratings": "2023-04-30T19:59:51.1158319+00:00",
-  "LastChanged_Achievements": "2023-04-30T20:05:20.6772207+00:00",
-  "LastChanged": "2023-04-30T19:59:51.1158314+00:00",
+  "EOS_Progressed": 1267485,
+  "LastUpdate_Achievements": "2023-04-30T21:05:30.4204264+00:00",
+  "LastUpdate_Ratings": "2023-04-30T21:00:09.5068126+00:00",
+  "LastChanged_Achievements": "2023-04-30T21:05:30.4204206+00:00",
+  "LastChanged": "2023-04-30T21:00:09.5068122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:33.1084407+00:00",
   "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
   "MaxAwardTitle": "Highly Recommended",
   "NumberOfAwardsMax": 40,
-  "NumberOfAwards": 234,
+  "NumberOfAwards": 238,
   "Ranking_EOS_NewCompleters": 36,
   "Ranking_EOS_NewPlayers": 6,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 8,
-  "Ranking_PopularitySum": 341,
+  "Ranking_PopularitySum": 340,
   "Ranking_Popularity": 406,
   "Ranking_Rating": 654,
   "Rating": 4.41,
