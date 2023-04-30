@@ -11,7 +11,7 @@
 | 7 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 488 |
 | 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,792 | 105 |
 | 7 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 488 |
-| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,850 | 44 |
+| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,861 | 44 |
 | 12 | [Firework](games/f/firework.md) | 4.89 | 0 | 488 |
 | 12 | [God of War](games/g/god_of_war.md) | 4.89 | 3,961 | 73 |
 | 12 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 137,139 | 7 |
@@ -43,7 +43,7 @@
 | 37 | [Grindstone](games/g/grindstone.md) | 4.85 | 0 | 488 |
 | 37 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.85 | 0 | 488 |
 | 37 | [Huntdown](games/h/huntdown.md) | 4.85 | 0 | 488 |
-| 37 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 225 | 244 |
+| 37 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 226 | 243 |
 | 37 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 215 | 246 |
 | 37 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 0 | 488 |
 | 37 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 0 | 488 |
@@ -82,7 +82,7 @@
 | 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,247 | 50 |
 | 79 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 158 | 279 |
 | 79 | [Journey](games/j/journey.md) | 4.80 | 0 | 488 |
-| 79 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,340 | 93 |
+| 79 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,341 | 93 |
 | 79 | [Rayman Origins](games/r/rayman_origins.md) | 4.80 | 0 | 488 |
 | 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 318 |
 | 79 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 488 |
@@ -146,7 +146,7 @@
 | 141 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 514 | 179 |
 | 141 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 768 | 147 |
 | 141 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 582 | 166 |
-| 141 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,452 | 49 |
+| 141 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,461 | 49 |
 | 141 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 222 | 245 |
 | 141 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 30,344 | 13 |
 | 141 | [Suzerain](games/s/suzerain.md) | 4.74 | 0 | 488 |
@@ -208,7 +208,7 @@
 | 192 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 0 | 488 |
 | 192 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 488 |
 | 192 | [The Witness](games/t/the_witness.md) | 4.70 | 169 | 273 |
-| 192 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,221 | 69 |
+| 192 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,228 | 69 |
 | 192 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 37 | 414 |
 | 211 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 108,314 | 8 |
 | 211 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 488 |
@@ -283,7 +283,7 @@
 | 273 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,030 | 130 |
 | 273 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 547 | 172 |
 | 273 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 24 | 463 |
-| 273 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 412 | 192 |
+| 273 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 413 | 192 |
 | 273 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,751 | 56 |
 | 273 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 458 | 186 |
 | 287 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 488 |
@@ -379,7 +379,7 @@
 | 352 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 63 | 368 |
 | 352 | [Warframe](games/w/warframe.md) | 4.61 | 14,419 | 21 |
 | 379 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,608 | 30 |
-| 379 | [Control](games/c/control.md) | 4.60 | 8,248 | 38 |
+| 379 | [Control](games/c/control.md) | 4.60 | 8,253 | 38 |
 | 379 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 349 |
 | 379 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,211 | 25 |
 | 379 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 118 | 299 |
@@ -388,7 +388,7 @@
 | 379 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.60 | 0 | 488 |
 | 379 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 9,009 | 35 |
 | 379 | [Roguebook](games/r/roguebook.md) | 4.60 | 0 | 488 |
-| 379 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 437 | 189 |
+| 379 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 439 | 189 |
 | 379 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.60 | 140 | 285 |
 | 379 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 20 | 480 |
 | 379 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.60 | 0 | 488 |
@@ -656,7 +656,7 @@
 | 654 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 0 | 488 |
 | 654 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 178 | 267 |
 | 654 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 94 | 326 |
-| 654 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 11,840 | 28 |
+| 654 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 11,848 | 28 |
 | 654 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 0 | 488 |
 | 654 | [MORDHAU](games/m/mordhau.md) | 4.41 | 40 | 406 |
 | 654 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.41 | 0 | 488 |

@@ -6,7 +6,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6850
+      "Count": 6861
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -18,7 +18,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 444
+      "Count": 445
     },
     {
       "Text": "This game has Amazing Characters",
@@ -675,6 +675,11 @@
     {
       "Time": "2023-04-30T16:00:41.7384223+00:00",
       "NumProgressed": 451069,
+      "NumCompleted": 1480
+    },
+    {
+      "Time": "2023-04-30T17:00:44.1607369+00:00",
+      "NumProgressed": 451085,
       "NumCompleted": 1480
     }
   ],
@@ -3451,21 +3456,27 @@
       "Rating": 4.89,
       "NumberOfAwards": 11680,
       "NumberOfAwardsMax": 6850
+    },
+    {
+      "Time": "2023-04-30T17:00:13.5979744+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 11692,
+      "NumberOfAwardsMax": 6861
     }
   ],
   "EOS_Completed_Percentage": 0.33,
   "EOS_NewCompleters": 24,
-  "EOS_NewPlayers": 1471,
+  "EOS_NewPlayers": 1487,
   "EOS_Completed": 1480,
-  "EOS_Progressed": 451069,
-  "LastUpdate_Achievements": "2023-04-30T16:00:41.7384294+00:00",
-  "LastUpdate_Ratings": "2023-04-30T16:00:13.7401287+00:00",
-  "LastChanged_Achievements": "2023-04-30T16:00:41.7384217+00:00",
-  "LastChanged": "2023-04-30T15:00:29.6465103+00:00",
+  "EOS_Progressed": 451085,
+  "LastUpdate_Achievements": "2023-04-30T17:00:44.1607443+00:00",
+  "LastUpdate_Ratings": "2023-04-30T17:00:13.597975+00:00",
+  "LastChanged_Achievements": "2023-04-30T17:00:44.1607359+00:00",
+  "LastChanged": "2023-04-30T17:00:13.5979739+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.0381621+00:00",
   "MaxAwardTitle": "Great Boss Battles",
-  "NumberOfAwardsMax": 6850,
-  "NumberOfAwards": 11680,
+  "NumberOfAwardsMax": 6861,
+  "NumberOfAwards": 11692,
   "NumberOfRatings": 3099,
   "Ranking_EOS_NewCompleters": 6,
   "Ranking_EOS_NewPlayers": 32,

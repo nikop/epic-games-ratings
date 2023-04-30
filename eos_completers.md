@@ -15,8 +15,8 @@
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.74% |
-| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.39% |
+| 16 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.71% |
+| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.37% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
 | 19 | [Scorn](games/s/scorn.md) | 7.16% |
 | 20 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
@@ -58,7 +58,7 @@
 | 56 | [Sifu](games/s/sifu.md) | 1.81% |
 | 57 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
 | 58 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.69% |
-| 58 | [Night Book](games/n/night_book.md) | 1.69% |
+| 59 | [Night Book](games/n/night_book.md) | 1.68% |
 | 60 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
 | 60 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.67% |
 | 62 | [Somerville](games/s/somerville.md) | 1.62% |
@@ -135,26 +135,26 @@
 | 133 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
 | 134 | [HITMAN 3](games/h/hitman_3.md) | 0.16% |
 | 134 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
+| 136 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
 | 136 | [RAILGRADE](games/r/railgrade.md) | 0.15% |
-| 137 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.14% |
-| 137 | [Gotham Knights](games/g/gotham_knights.md) | 0.14% |
-| 137 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.14% |
-| 137 | [Isonzo](games/i/isonzo.md) | 0.14% |
-| 137 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.14% |
-| 137 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
+| 138 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.14% |
+| 138 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.14% |
+| 138 | [Isonzo](games/i/isonzo.md) | 0.14% |
+| 138 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.14% |
+| 138 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
 | 143 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.13% |
 | 143 | [Weird West](games/w/weird_west.md) | 0.13% |
 | 145 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 145 | [Partisans 1941](games/p/partisans_1941.md) | 0.12% |
 | 147 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
+| 148 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 148 | [Dead Island 2](games/d/dead_island_2.md) | 0.10% |
 | 148 | [House Flipper](games/h/house_flipper.md) | 0.10% |
 | 148 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |
 | 148 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.10% |
-| 152 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.09% |
-| 152 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 152 | [Fall Guys](games/f/fall_guys.md) | 0.09% |
-| 152 | [Supraland](games/s/supraland.md) | 0.09% |
+| 153 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 153 | [Fall Guys](games/f/fall_guys.md) | 0.09% |
+| 153 | [Supraland](games/s/supraland.md) | 0.09% |
 | 156 | [Riverbond](games/r/riverbond.md) | 0.08% |
 | 156 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.08% |
 | 156 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
@@ -366,4 +366,4 @@
 | 190 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 190 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 190 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,528 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,529 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

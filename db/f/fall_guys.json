@@ -42,7 +42,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 116018
+      "Count": 116035
     },
     {
       "Text": "This game is Highly Recommended",
@@ -674,6 +674,11 @@
       "Time": "2023-04-30T16:04:10.3604895+00:00",
       "NumProgressed": 32294705,
       "NumCompleted": 28740
+    },
+    {
+      "Time": "2023-04-30T17:03:48.8685139+00:00",
+      "NumProgressed": 32296016,
+      "NumCompleted": 28743
     }
   ],
   "RatingHistory": [
@@ -5064,25 +5069,31 @@
       "Rating": 4.53,
       "NumberOfAwards": 1292460,
       "NumberOfAwardsMax": 137889
+    },
+    {
+      "Time": "2023-04-30T16:58:39.4711522+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 1292477,
+      "NumberOfAwardsMax": 137889
     }
   ],
   "EOS_Completed_Percentage": 0.09,
-  "EOS_NewCompleters": 188,
-  "EOS_NewPlayers": 92341,
-  "EOS_Completed": 28740,
-  "EOS_Progressed": 32294705,
-  "LastUpdate_Achievements": "2023-04-30T16:04:10.3604956+00:00",
-  "LastUpdate_Ratings": "2023-04-30T15:58:38.5957844+00:00",
-  "LastChanged_Achievements": "2023-04-30T16:04:10.3604888+00:00",
-  "LastChanged": "2023-04-30T13:58:13.1158455+00:00",
+  "EOS_NewCompleters": 191,
+  "EOS_NewPlayers": 93652,
+  "EOS_Completed": 28743,
+  "EOS_Progressed": 32296016,
+  "LastUpdate_Achievements": "2023-04-30T17:03:48.8685185+00:00",
+  "LastUpdate_Ratings": "2023-04-30T16:58:39.4711526+00:00",
+  "LastChanged_Achievements": "2023-04-30T17:03:48.8685135+00:00",
+  "LastChanged": "2023-04-30T16:58:39.4711519+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.7143696+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 137889,
-  "NumberOfAwards": 1292460,
+  "NumberOfAwards": 1292477,
   "NumberOfRatings": 1046587,
   "Ranking_EOS_NewCompleters": 2,
   "Ranking_EOS_NewPlayers": 4,
-  "Ranking_EOS_Completed": 152,
+  "Ranking_EOS_Completed": 153,
   "Ranking_EOS_Progress": 1,
   "Ranking_PopularitySum": 5,
   "Ranking_Popularity": 6,
