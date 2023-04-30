@@ -1,5 +1,5 @@
 # Magic: The Gathering Arena
-Rating: 4.45 (Ranked 602)  
+Rating: 4.45 (Ranked 601)  
 Number of Ratings: 14,652  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Quick Sessions): 10,039  (Ranked 33)  

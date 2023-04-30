@@ -87,4 +87,3 @@
 | [Troublemaker](games/t/troublemaker.md) | - | - | 0 | - |
 | [Boom Blaster](games/b/boom_blaster.md) | - | - | 0 | - |
 | [tERRORbane](games/t/terrorbane.md) | - | - | 0 | - |
-| [ZZT!](games/z/zzt!.md) | - | - | 0 | - |
