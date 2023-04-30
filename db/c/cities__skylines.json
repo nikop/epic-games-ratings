@@ -653,6 +653,11 @@
       "Time": "2023-04-30T13:08:56.6954645+00:00",
       "NumProgressed": 693751,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-04-30T14:05:17.925342+00:00",
+      "NumProgressed": 693889,
+      "NumCompleted": 5
     }
   ],
   "RatingHistory": [
@@ -4986,12 +4991,12 @@
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 10685,
+  "EOS_NewPlayers": 10823,
   "EOS_Completed": 5,
-  "EOS_Progressed": 693751,
-  "LastUpdate_Achievements": "2023-04-30T13:08:56.6954693+00:00",
-  "LastUpdate_Ratings": "2023-04-30T13:03:15.9723936+00:00",
-  "LastChanged_Achievements": "2023-04-30T13:08:56.6954641+00:00",
+  "EOS_Progressed": 693889,
+  "LastUpdate_Achievements": "2023-04-30T14:05:17.9253485+00:00",
+  "LastUpdate_Ratings": "2023-04-30T13:59:32.1482871+00:00",
+  "LastChanged_Achievements": "2023-04-30T14:05:17.9253412+00:00",
   "LastChanged": "2023-04-30T12:01:14.2870444+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.6011712+00:00",
   "MaxAwardTitle": "Relaxing",
@@ -5000,7 +5005,7 @@
   "NumberOfRatings": 25248,
   "Ranking_EOS_NewCompleters": 48,
   "Ranking_EOS_NewPlayers": 9,
-  "Ranking_EOS_Completed": 189,
+  "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 15,
   "Ranking_PopularitySum": 33,
   "Ranking_Popularity": 68,

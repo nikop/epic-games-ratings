@@ -1,5 +1,5 @@
 # Zombie Army 4: Dead War
-Rating: 4.69 (Ranked 210)  
+Rating: 4.69 (Ranked 211)  
 Number of Ratings: 743  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 769  (Ranked 146)  
@@ -7,7 +7,7 @@ Sum: 2,349 (Ranked 168)
 Diff (max vs sum): -22
 ## Popularity (Based on EOS Achievements)
 Progressed: 42,161 (Ranked 75)  
-Completed: 24 (0.06%) (Ranked 159)  
+Completed: 24 (0.06%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

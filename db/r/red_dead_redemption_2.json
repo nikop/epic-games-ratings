@@ -84,7 +84,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 9310
+      "Count": 9338
     }
   ],
   "EosHistory": [],
@@ -5171,6 +5171,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 348789,
       "NumberOfAwardsMax": 137139
+    },
+    {
+      "Time": "2023-04-30T13:58:16.436712+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 348817,
+      "NumberOfAwardsMax": 137139
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -5178,17 +5184,17 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-30T13:07:05.1635378+00:00",
-  "LastUpdate_Ratings": "2023-04-30T13:01:31.6886798+00:00",
-  "LastChanged": "2023-04-30T10:58:25.7150256+00:00",
+  "LastUpdate_Achievements": "2023-04-30T14:03:54.5937833+00:00",
+  "LastUpdate_Ratings": "2023-04-30T13:58:16.4367124+00:00",
+  "LastChanged": "2023-04-30T13:58:16.4367117+00:00",
   "MaxAwardTitle": "Impact the Story",
   "NumberOfAwardsMax": 137139,
-  "NumberOfAwards": 348789,
+  "NumberOfAwards": 348817,
   "NumberOfRatings": 102658,
   "Ranking_EOS_NewCompleters": 72,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_Progress": 366,
+  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_Progress": 368,
   "Ranking_PopularitySum": 8,
   "Ranking_Popularity": 7,
   "Ranking_Rating": 12,

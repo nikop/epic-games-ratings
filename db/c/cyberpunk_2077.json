@@ -30,7 +30,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 7235
+      "Count": 7247
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -66,7 +66,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 7117
+      "Count": 7132
     },
     {
       "Text": "This game has a Creative Community",
@@ -654,6 +654,11 @@
     {
       "Time": "2023-04-30T13:05:27.6361402+00:00",
       "NumProgressed": 796904,
+      "NumCompleted": 1548
+    },
+    {
+      "Time": "2023-04-30T14:02:18.2825252+00:00",
+      "NumProgressed": 796918,
       "NumCompleted": 1548
     }
   ],
@@ -5645,25 +5650,31 @@
       "Rating": 4.62,
       "NumberOfAwards": 164962,
       "NumberOfAwardsMax": 63211
+    },
+    {
+      "Time": "2023-04-30T13:57:13.4794123+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 164989,
+      "NumberOfAwardsMax": 63211
     }
   ],
   "EOS_Completed_Percentage": 0.19,
   "EOS_NewCompleters": 13,
-  "EOS_NewPlayers": 1325,
+  "EOS_NewPlayers": 1339,
   "EOS_Completed": 1548,
-  "EOS_Progressed": 796904,
-  "LastUpdate_Achievements": "2023-04-30T13:05:27.6361444+00:00",
-  "LastUpdate_Ratings": "2023-04-30T13:00:03.7814912+00:00",
-  "LastChanged_Achievements": "2023-04-30T13:05:27.6361398+00:00",
-  "LastChanged": "2023-04-30T11:57:41.2612366+00:00",
+  "EOS_Progressed": 796918,
+  "LastUpdate_Achievements": "2023-04-30T14:02:18.2825315+00:00",
+  "LastUpdate_Ratings": "2023-04-30T13:57:13.4794129+00:00",
+  "LastChanged_Achievements": "2023-04-30T14:02:18.2825243+00:00",
+  "LastChanged": "2023-04-30T13:57:13.4794119+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 63211,
-  "NumberOfAwards": 164962,
+  "NumberOfAwards": 164989,
   "NumberOfRatings": 32700,
   "Ranking_EOS_NewCompleters": 11,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_Completed": 128,
+  "Ranking_EOS_Completed": 129,
   "Ranking_EOS_Progress": 10,
   "Ranking_PopularitySum": 13,
   "Ranking_Popularity": 9,

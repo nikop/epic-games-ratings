@@ -1,13 +1,13 @@
 # Hand of Fate 2
-Rating: 4.57 (Ranked 427)  
+Rating: 4.57 (Ranked 428)  
 Number of Ratings: 780  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Amazing Storytelling): 35  (Ranked 424)  
 Sum: 180 (Ranked 357)  
 Diff (max vs sum): 67
 ## Popularity (Based on EOS Achievements)
-Progressed: 655,362 (Ranked 17)  
-Completed: 164 (0.03%) (Ranked 171)  
+Progressed: 655,366 (Ranked 17)  
+Completed: 164 (0.03%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -16,7 +16,7 @@ Completed: 164 (0.03%) (Ranked 171)
 | 2023-04-27 | 655,209 | 164 |
 | 2023-04-28 | 655,261 | 164 |
 | 2023-04-29 | 655,325 | 164 |
-| 2023-04-30 | 655,362 | 164 |
+| 2023-04-30 | 655,366 | 164 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

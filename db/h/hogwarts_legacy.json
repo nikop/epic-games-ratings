@@ -66,13 +66,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 588
+      "Count": 593
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 443
+      "Count": 447
     }
   ],
   "EosHistory": [
@@ -639,6 +639,11 @@
     {
       "Time": "2023-04-30T13:03:57.2665919+00:00",
       "NumProgressed": 264772,
+      "NumCompleted": 339
+    },
+    {
+      "Time": "2023-04-30T14:00:04.3078666+00:00",
+      "NumProgressed": 264782,
       "NumCompleted": 339
     }
   ],
@@ -2220,25 +2225,31 @@
       "Rating": 4.78,
       "NumberOfAwards": 32963,
       "NumberOfAwardsMax": 18160
+    },
+    {
+      "Time": "2023-04-30T13:56:51.9439521+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 32972,
+      "NumberOfAwardsMax": 18160
     }
   ],
   "EOS_Completed_Percentage": 0.13,
   "EOS_NewCompleters": 6,
-  "EOS_NewPlayers": 795,
+  "EOS_NewPlayers": 805,
   "EOS_Completed": 339,
-  "EOS_Progressed": 264772,
-  "LastUpdate_Achievements": "2023-04-30T13:03:57.2665967+00:00",
-  "LastUpdate_Ratings": "2023-04-30T12:59:33.4172086+00:00",
-  "LastChanged_Achievements": "2023-04-30T13:03:57.2665916+00:00",
-  "LastChanged": "2023-04-30T07:57:17.6880943+00:00",
+  "EOS_Progressed": 264782,
+  "LastUpdate_Achievements": "2023-04-30T14:00:04.3078731+00:00",
+  "LastUpdate_Ratings": "2023-04-30T13:56:51.9439524+00:00",
+  "LastChanged_Achievements": "2023-04-30T14:00:04.3078659+00:00",
+  "LastChanged": "2023-04-30T13:56:51.9439517+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 18160,
-  "NumberOfAwards": 32963,
-  "Ranking_EOS_NewCompleters": 19,
+  "NumberOfAwards": 32972,
+  "Ranking_EOS_NewCompleters": 20,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_Completed": 142,
+  "Ranking_EOS_Completed": 143,
   "Ranking_EOS_Progress": 37,
   "Ranking_PopularitySum": 34,
   "Ranking_Popularity": 18,
