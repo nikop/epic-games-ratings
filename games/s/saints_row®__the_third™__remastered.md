@@ -1,14 +1,14 @@
 # Saints Row®: The Third™  Remastered
-Rating: 4.41 (Ranked 653)  
+Rating: 4.41 (Ranked 654)  
 Number of Ratings: 6,169  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 2,159  (Ranked 99)  
-Sum: 3,001 (Ranked 150)  
-Diff (max vs sum): -51
+Max (Great Boss Battles): 2,160  (Ranked 99)  
+Sum: 3,002 (Ranked 149)  
+Diff (max vs sum): -50
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,159 |
+| This game has Great Boss Battles | 2,160 |
 | This game is Great for Beginners | 103 |
 | This game is Extremely Fun | 101 |
 | This game has Amazing Characters | 101 |
@@ -97,3 +97,4 @@ Diff (max vs sum): -51
 | 2023-04-21 | 4.41 | - | 2,158 | 2,998 |
 | 2023-04-27 | 4.41 | - | 2,159 | 2,999 |
 | 2023-04-29 | 4.41 | - | 2,159 | 3,001 |
+| 2023-04-30 | 4.41 | - | 2,160 | 3,002 |

@@ -12,7 +12,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 6245
+      "Count": 6247
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -618,6 +618,11 @@
     {
       "Time": "2023-04-30T10:04:32.7376637+00:00",
       "NumProgressed": 458608,
+      "NumCompleted": 18
+    },
+    {
+      "Time": "2023-04-30T11:04:47.9128559+00:00",
+      "NumProgressed": 458614,
       "NumCompleted": 18
     }
   ],
@@ -4489,21 +4494,27 @@
       "Rating": 4.8,
       "NumberOfAwards": 49219,
       "NumberOfAwardsMax": 6245
+    },
+    {
+      "Time": "2023-04-30T10:59:15.594797+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 49221,
+      "NumberOfAwardsMax": 6247
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 549,
+  "EOS_NewPlayers": 555,
   "EOS_Completed": 18,
-  "EOS_Progressed": 458608,
-  "LastUpdate_Achievements": "2023-04-30T10:04:32.7376701+00:00",
-  "LastUpdate_Ratings": "2023-04-30T09:59:04.4238821+00:00",
-  "LastChanged_Achievements": "2023-04-30T10:04:32.737663+00:00",
-  "LastChanged": "2023-04-30T02:59:10.6776693+00:00",
+  "EOS_Progressed": 458614,
+  "LastUpdate_Achievements": "2023-04-30T11:04:47.9128622+00:00",
+  "LastUpdate_Ratings": "2023-04-30T10:59:15.5947978+00:00",
+  "LastChanged_Achievements": "2023-04-30T11:04:47.9128552+00:00",
+  "LastChanged": "2023-04-30T10:59:15.5947968+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "MaxAwardTitle": "Relaxing",
-  "NumberOfAwardsMax": 6245,
-  "NumberOfAwards": 49219,
+  "NumberOfAwardsMax": 6247,
+  "NumberOfAwards": 49221,
   "NumberOfRatings": 19160,
   "Ranking_EOS_NewCompleters": 72,
   "Ranking_EOS_NewPlayers": 59,

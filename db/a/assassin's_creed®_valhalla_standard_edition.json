@@ -6,7 +6,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 11586
+      "Count": 11608
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -66,7 +66,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 513
+      "Count": 515
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4350,6 +4350,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 26841,
       "NumberOfAwardsMax": 11586
+    },
+    {
+      "Time": "2023-04-30T10:57:07.9507729+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 26865,
+      "NumberOfAwardsMax": 11608
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -4357,12 +4363,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-30T09:59:37.2179288+00:00",
-  "LastUpdate_Ratings": "2023-04-30T09:57:00.5527177+00:00",
-  "LastChanged": "2023-04-30T07:57:32.4664849+00:00",
+  "LastUpdate_Achievements": "2023-04-30T10:59:50.462111+00:00",
+  "LastUpdate_Ratings": "2023-04-30T10:57:07.9507735+00:00",
+  "LastChanged": "2023-04-30T10:57:07.9507726+00:00",
   "MaxAwardTitle": "Character Customization",
-  "NumberOfAwardsMax": 11586,
-  "NumberOfAwards": 26841,
+  "NumberOfAwardsMax": 11608,
+  "NumberOfAwards": 26865,
   "NumberOfRatings": 12317,
   "Ranking_EOS_NewCompleters": 72,
   "Ranking_EOS_NewPlayers": 251,

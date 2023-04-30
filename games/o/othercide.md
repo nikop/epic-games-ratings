@@ -1,5 +1,5 @@
 # Othercide
-Rating: 4.41 (Ranked 653)  
+Rating: 4.41 (Ranked 654)  
 Number of Ratings: 40  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  

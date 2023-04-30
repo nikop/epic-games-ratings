@@ -8,21 +8,21 @@
 | 6 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.33% |
 | 7 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.91% |
 | 8 | [Ravenlok](games/r/ravenlok.md) | 10.71% |
-| 9 | [Island Cities](games/i/island_cities.md) | 10.00% |
 | 9 | [Smelter](games/s/smelter.md) | 10.00% |
+| 10 | [Island Cities](games/i/island_cities.md) | 9.76% |
 | 11 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 12 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 13 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 15 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.83% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.43% |
+| 15 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.72% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.42% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
 | 18 | [Scorn](games/s/scorn.md) | 7.16% |
 | 19 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.35% |
 | 20 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 21 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 22 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.71% |
-| 23 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.97% |
+| 23 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.96% |
 | 24 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
 | 25 | [Bugsnax](games/b/bugsnax.md) | 4.59% |
 | 26 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.55% |
@@ -32,7 +32,7 @@
 | 30 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
 | 31 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 31 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.85% |
-| 33 | [The Complex](games/t/the_complex.md) | 3.59% |
+| 33 | [The Complex](games/t/the_complex.md) | 3.58% |
 | 34 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.51% |
 | 35 | [The Bunker](games/t/the_bunker.md) | 3.37% |
 | 36 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
