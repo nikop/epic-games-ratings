@@ -7,16 +7,16 @@
 | 5 | [Them and Us](games/t/them_and_us.md) | 14.29% |
 | 6 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 7 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.33% |
-| 8 | [Island Cities](games/i/island_cities.md) | 11.90% |
 | 8 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.90% |
+| 9 | [Island Cities](games/i/island_cities.md) | 11.63% |
 | 10 | [Ravenlok](games/r/ravenlok.md) | 10.71% |
 | 11 | [Smelter](games/s/smelter.md) | 10.00% |
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.71% |
-| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.37% |
+| 16 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.65% |
+| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.36% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
 | 19 | [Scorn](games/s/scorn.md) | 7.16% |
 | 20 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
@@ -65,8 +65,8 @@
 | 63 | [Frogun](games/f/frogun.md) | 1.56% |
 | 64 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.55% |
 | 65 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.52% |
-| 66 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.45% |
-| 67 | [Bloodshore](games/b/bloodshore.md) | 1.44% |
+| 66 | [Bloodshore](games/b/bloodshore.md) | 1.44% |
+| 66 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.44% |
 | 68 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.33% |
 | 69 | [Chorus](games/c/chorus.md) | 1.31% |
 | 70 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.29% |
@@ -106,9 +106,9 @@
 | 104 | [Godlike Burger](games/g/godlike_burger.md) | 0.38% |
 | 105 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 105 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
-| 107 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.35% |
 | 107 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.35% |
-| 109 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.34% |
+| 108 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.34% |
+| 108 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.34% |
 | 110 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
 | 111 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
 | 111 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |

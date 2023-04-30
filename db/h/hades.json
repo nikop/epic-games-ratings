@@ -36,7 +36,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 216
+      "Count": 217
     },
     {
       "Text": "This game is Extremely Fun",
@@ -678,6 +678,11 @@
       "Time": "2023-04-30T17:00:24.3348947+00:00",
       "NumProgressed": 679439,
       "NumCompleted": 6061
+    },
+    {
+      "Time": "2023-04-30T18:01:05.9502441+00:00",
+      "NumProgressed": 679444,
+      "NumCompleted": 6062
     }
   ],
   "RatingHistory": [
@@ -3402,21 +3407,27 @@
       "Rating": 4.92,
       "NumberOfAwards": 7379,
       "NumberOfAwardsMax": 3021
+    },
+    {
+      "Time": "2023-04-30T17:57:19.9857503+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 7380,
+      "NumberOfAwardsMax": 3021
     }
   ],
   "EOS_Completed_Percentage": 0.89,
-  "EOS_NewCompleters": 15,
-  "EOS_NewPlayers": 459,
-  "EOS_Completed": 6061,
-  "EOS_Progressed": 679439,
-  "LastUpdate_Achievements": "2023-04-30T17:00:24.3349071+00:00",
-  "LastUpdate_Ratings": "2023-04-30T16:57:18.1331558+00:00",
-  "LastChanged_Achievements": "2023-04-30T17:00:24.3348937+00:00",
-  "LastChanged": "2023-04-30T15:57:17.2249603+00:00",
+  "EOS_NewCompleters": 16,
+  "EOS_NewPlayers": 464,
+  "EOS_Completed": 6062,
+  "EOS_Progressed": 679444,
+  "LastUpdate_Achievements": "2023-04-30T18:01:05.9502556+00:00",
+  "LastUpdate_Ratings": "2023-04-30T17:57:19.9857511+00:00",
+  "LastChanged_Achievements": "2023-04-30T18:01:05.9502429+00:00",
+  "LastChanged": "2023-04-30T17:57:19.9857501+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 3021,
-  "NumberOfAwards": 7379,
+  "NumberOfAwards": 7380,
   "NumberOfRatings": 6336,
   "Ranking_EOS_NewCompleters": 11,
   "Ranking_EOS_NewPlayers": 69,

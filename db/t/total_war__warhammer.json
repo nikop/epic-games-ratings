@@ -6,7 +6,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6014
+      "Count": 6022
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3595,6 +3595,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 13826,
       "NumberOfAwardsMax": 6014
+    },
+    {
+      "Time": "2023-04-30T17:58:58.2479388+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13834,
+      "NumberOfAwardsMax": 6022
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -3602,12 +3608,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-30T17:03:46.3015566+00:00",
-  "LastUpdate_Ratings": "2023-04-30T16:58:40.29137+00:00",
-  "LastChanged": "2023-04-30T15:58:39.5391992+00:00",
+  "LastUpdate_Achievements": "2023-04-30T18:04:08.2897232+00:00",
+  "LastUpdate_Ratings": "2023-04-30T17:58:58.2479393+00:00",
+  "LastChanged": "2023-04-30T17:58:58.2479386+00:00",
   "MaxAwardTitle": "Great Boss Battles",
-  "NumberOfAwardsMax": 6014,
-  "NumberOfAwards": 13826,
+  "NumberOfAwardsMax": 6022,
+  "NumberOfAwards": 13834,
   "NumberOfRatings": 8439,
   "Ranking_EOS_NewCompleters": 74,
   "Ranking_EOS_NewPlayers": 258,
@@ -3615,7 +3621,7 @@
   "Ranking_EOS_Progress": 368,
   "Ranking_PopularitySum": 65,
   "Ranking_Popularity": 52,
-  "Ranking_Rating": 411,
+  "Ranking_Rating": 412,
   "Rating": 4.58,
   "FirstSeen": "2022-07-22T20:19:32.4449837+00:00"
 }

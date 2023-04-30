@@ -12,7 +12,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 8811
+      "Count": 8818
     },
     {
       "Text": "This game is Relaxing",
@@ -4415,6 +4415,12 @@
       "Rating": 4.88,
       "NumberOfAwards": 79035,
       "NumberOfAwardsMax": 9202
+    },
+    {
+      "Time": "2023-04-30T17:59:53.0435384+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 79042,
+      "NumberOfAwardsMax": 9202
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -4422,12 +4428,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-30T17:04:33.0268031+00:00",
-  "LastUpdate_Ratings": "2023-04-30T16:59:24.5418156+00:00",
-  "LastChanged": "2023-04-30T12:00:10.1815417+00:00",
+  "LastUpdate_Achievements": "2023-04-30T18:05:03.2867512+00:00",
+  "LastUpdate_Ratings": "2023-04-30T17:59:53.0435394+00:00",
+  "LastChanged": "2023-04-30T17:59:53.0435382+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 9202,
-  "NumberOfAwards": 79035,
+  "NumberOfAwards": 79042,
   "NumberOfRatings": 29401,
   "Ranking_EOS_NewCompleters": 74,
   "Ranking_EOS_NewPlayers": 258,
