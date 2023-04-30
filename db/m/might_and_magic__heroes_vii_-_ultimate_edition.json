@@ -425,8 +425,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-30T00:00:11.1174874+00:00",
-  "LastUpdate_Ratings": "2023-04-29T23:57:58.5677047+00:00",
+  "LastUpdate_Achievements": "2023-04-30T02:01:44.4400764+00:00",
+  "LastUpdate_Ratings": "2023-04-30T01:59:29.6894912+00:00",
   "LastChanged": "2023-04-26T15:58:06.9687597+00:00",
   "MaxAwardTitle": "Quickly Understood Controls",
   "NumberOfAwardsMax": 27,
@@ -438,7 +438,7 @@
   "Ranking_EOS_Progress": 366,
   "Ranking_PopularitySum": 411,
   "Ranking_Popularity": 451,
-  "Ranking_Rating": 600,
+  "Ranking_Rating": 601,
   "Rating": 4.45,
   "FirstSeen": "2022-07-22T20:25:09.0043612+00:00"
 }

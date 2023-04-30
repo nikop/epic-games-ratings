@@ -48,7 +48,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game has Amazing Characters",
@@ -364,6 +364,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 280,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-04-30T02:01:08.7550085+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 281,
+      "NumberOfAwardsMax": 35
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -371,20 +377,20 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-30T00:05:01.5801305+00:00",
-  "LastUpdate_Ratings": "2023-04-29T23:59:37.8354578+00:00",
-  "LastChanged": "2023-04-27T23:00:29.2990463+00:00",
+  "LastUpdate_Achievements": "2023-04-30T02:06:52.8372433+00:00",
+  "LastUpdate_Ratings": "2023-04-30T02:01:08.7550088+00:00",
+  "LastChanged": "2023-04-30T02:01:08.7550083+00:00",
   "FirstSeenRating": "2022-10-28T23:02:10.4160395+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 35,
-  "NumberOfAwards": 280,
+  "NumberOfAwards": 281,
   "Ranking_EOS_NewCompleters": 72,
   "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_Progress": 366,
   "Ranking_PopularitySum": 325,
   "Ranking_Popularity": 424,
-  "Ranking_Rating": 600,
+  "Ranking_Rating": 601,
   "Rating": 4.45,
   "FirstSeen": "2022-10-25T20:04:22.7982366+00:00"
 }

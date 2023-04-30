@@ -235,8 +235,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-30T00:04:09.02742+00:00",
-  "LastUpdate_Ratings": "2023-04-29T23:58:49.7789382+00:00",
+  "LastUpdate_Achievements": "2023-04-30T02:06:00.0743211+00:00",
+  "LastUpdate_Ratings": "2023-04-30T02:00:20.6833348+00:00",
   "LastChanged": "2023-02-26T02:23:40.5372974+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 40,
@@ -248,7 +248,7 @@
   "Ranking_EOS_Progress": 366,
   "Ranking_PopularitySum": 440,
   "Ranking_Popularity": 406,
-  "Ranking_Rating": 288,
+  "Ranking_Rating": 287,
   "Rating": 4.65,
   "FirstSeen": "2022-07-22T20:28:42.7563508+00:00"
 }

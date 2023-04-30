@@ -1,8 +1,8 @@
 # STG Football
-Rating: 4.45 (Ranked 600)  
+Rating: 4.45 (Ranked 601)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 35  (Ranked 424)  
-Sum: 280 (Ranked 325)  
+Sum: 281 (Ranked 325)  
 Diff (max vs sum): 99
 ## Awards
 | Award | Count |
@@ -13,9 +13,9 @@ Diff (max vs sum): 99
 | This game has Diverse Characters | 28 |
 | This game is Extremely Fun | 27 |
 | This game has Quickly Understood Controls | 26 |
+| This game has Competitive Players | 23 |
 | This game has Amazing Characters | 23 |
 | This game has a Competitive Community | 22 |
-| This game has Competitive Players | 22 |
 | This game has Amazing Storytelling | 20 |
 | This game is Educational | 20 |
 ## Ratings History
@@ -76,3 +76,4 @@ Diff (max vs sum): 99
 | 2023-04-24 | 4.44 | 35 | 279 |
 | 2023-04-26 | 4.45 | 35 | 279 |
 | 2023-04-27 | 4.45 | 35 | 280 |
+| 2023-04-30 | 4.45 | 35 | 281 |

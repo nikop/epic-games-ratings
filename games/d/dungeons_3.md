@@ -1,12 +1,12 @@
 # Dungeons 3
-Rating: 4.65 (Ranked 288)  
+Rating: 4.65 (Ranked 287)  
 Number of Ratings: 1,635  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 318  (Ranked 217)  
 Sum: 2,510 (Ranked 164)  
 Diff (max vs sum): 53
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,993 (Ranked 97)  
+Progressed: 13,999 (Ranked 97)  
 Completed: 137 (0.98%) (Ranked 76)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -16,7 +16,7 @@ Completed: 137 (0.98%) (Ranked 76)
 | 2023-04-27 | 13,697 | 134 |
 | 2023-04-28 | 13,836 | 137 |
 | 2023-04-29 | 13,987 | 137 |
-| 2023-04-30 | 13,993 | 137 |
+| 2023-04-30 | 13,999 | 137 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

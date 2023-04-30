@@ -1,5 +1,5 @@
 # Empires of the Undergrowth
-Rating: 4.75 (Ranked 126)  
+Rating: 4.76 (Ranked 114)  
 Number of Ratings: 212  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Competitive Players): 39  (Ranked 407)  
@@ -104,3 +104,4 @@ Diff (max vs sum): 101
 | 2023-04-25 | 4.76 | - | 39 | 367 |
 | 2023-04-27 | 4.76 | - | 39 | 368 |
 | 2023-04-28 | 4.75 | - | 39 | 368 |
+| 2023-04-30 | 4.76 | - | 39 | 368 |
