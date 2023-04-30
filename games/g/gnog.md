@@ -1,5 +1,5 @@
 # GNOG
-Rating: 4.69 (Ranked 211)  
+Rating: 4.69 (Ranked 210)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
