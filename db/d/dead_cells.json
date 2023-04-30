@@ -6,7 +6,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 219
+      "Count": 221
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1679,6 +1679,12 @@
       "Rating": 4.88,
       "NumberOfAwards": 2173,
       "NumberOfAwardsMax": 248
+    },
+    {
+      "Time": "2023-04-30T02:57:44.6427305+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 2175,
+      "NumberOfAwardsMax": 248
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -1686,12 +1692,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-30T02:01:16.2713643+00:00",
-  "LastUpdate_Ratings": "2023-04-30T01:59:17.1214911+00:00",
-  "LastChanged": "2023-04-29T14:58:02.3959011+00:00",
+  "LastUpdate_Achievements": "2023-04-30T02:59:43.6182925+00:00",
+  "LastUpdate_Ratings": "2023-04-30T02:57:44.642731+00:00",
+  "LastChanged": "2023-04-30T02:57:44.6427303+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 248,
-  "NumberOfAwards": 2173,
+  "NumberOfAwards": 2175,
   "NumberOfRatings": 1319,
   "Ranking_EOS_NewCompleters": 72,
   "Ranking_EOS_NewPlayers": 248,

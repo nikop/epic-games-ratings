@@ -1,12 +1,12 @@
 # Scorn
-Rating: 4.47 (Ranked 576)  
+Rating: 4.47 (Ranked 575)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,856 (Ranked 142)  
-Completed: 133 (7.17%) (Ranked 18)  
+Progressed: 1,857 (Ranked 142)  
+Completed: 133 (7.16%) (Ranked 18)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -14,6 +14,7 @@ Completed: 133 (7.17%) (Ranked 18)
 | 2023-04-26 | 1,853 | 131 |
 | 2023-04-27 | 1,853 | 133 |
 | 2023-04-28 | 1,856 | 133 |
+| 2023-04-30 | 1,857 | 133 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
