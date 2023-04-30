@@ -1,12 +1,12 @@
 # Rocket League®
-Rating: 4.51 (Ranked 512)  
+Rating: 4.51 (Ranked 511)  
 Number of Ratings: 366,020  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Quick Sessions): 398,548  (Ranked 2)  
 Sum: 2,710,008 (Ranked 2)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,478,970 (Ranked 2)  
+Progressed: 23,479,449 (Ranked 2)  
 Completed: 1,246 (0.01%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -16,7 +16,7 @@ Completed: 1,246 (0.01%) (Ranked 181)
 | 2023-04-27 | 23,438,051 | 1,239 |
 | 2023-04-28 | 23,453,768 | 1,241 |
 | 2023-04-29 | 23,473,443 | 1,246 |
-| 2023-04-30 | 23,478,970 | 1,246 |
+| 2023-04-30 | 23,479,449 | 1,246 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

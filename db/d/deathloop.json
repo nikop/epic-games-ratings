@@ -706,8 +706,8 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-30T07:02:13.5867793+00:00",
-  "LastUpdate_Ratings": "2023-04-30T06:56:58.5694077+00:00",
+  "LastUpdate_Achievements": "2023-04-30T08:03:42.1049467+00:00",
+  "LastUpdate_Ratings": "2023-04-30T07:57:25.5759325+00:00",
   "LastChanged": "2023-04-15T11:57:51.5897927+00:00",
   "MaxAwardTitle": "Unique Visuals",
   "NumberOfAwardsMax": 33,
@@ -719,7 +719,7 @@
   "Ranking_EOS_Progress": 366,
   "Ranking_PopularitySum": 366,
   "Ranking_Popularity": 430,
-  "Ranking_Rating": 476,
+  "Ranking_Rating": 475,
   "Rating": 4.54,
   "FirstSeen": "2022-07-22T20:23:46.7837121+00:00"
 }

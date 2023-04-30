@@ -24,7 +24,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 1112
+      "Count": 1118
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3849,6 +3849,12 @@
       "Rating": 4.82,
       "NumberOfAwards": 9623,
       "NumberOfAwardsMax": 1240
+    },
+    {
+      "Time": "2023-04-30T07:57:42.0426632+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 9629,
+      "NumberOfAwardsMax": 1240
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -3856,12 +3862,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-30T07:00:23.9908588+00:00",
-  "LastUpdate_Ratings": "2023-04-30T06:57:09.4628947+00:00",
-  "LastChanged": "2023-04-30T05:57:07.1617868+00:00",
+  "LastUpdate_Achievements": "2023-04-30T08:03:15.4187474+00:00",
+  "LastUpdate_Ratings": "2023-04-30T07:57:42.0426637+00:00",
+  "LastChanged": "2023-04-30T07:57:42.042663+00:00",
   "MaxAwardTitle": "Relaxing",
   "NumberOfAwardsMax": 1240,
-  "NumberOfAwards": 9623,
+  "NumberOfAwards": 9629,
   "NumberOfRatings": 4392,
   "Ranking_EOS_NewCompleters": 72,
   "Ranking_EOS_NewPlayers": 251,

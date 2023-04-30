@@ -1,5 +1,5 @@
 # Oxenfree
-Rating: 4.55 (Ranked 467)  
+Rating: 4.55 (Ranked 466)  
 Number of Ratings: 99  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  

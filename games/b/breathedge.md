@@ -1,5 +1,5 @@
 # Breathedge
-Rating: 4.56 (Ranked 443)  
+Rating: 4.46 (Ranked 590)  
 Number of Ratings: 61  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
@@ -56,3 +56,4 @@ Diff (max vs sum): 0
 | 2023-03-31 | 4.59 | - | 0 | 0 |
 | 2023-04-11 | 4.58 | - | 0 | 0 |
 | 2023-04-29 | 4.56 | - | 0 | 0 |
+| 2023-04-30 | 4.46 | - | 0 | 0 |

@@ -14,9 +14,9 @@
 | 12 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 13 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 15 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.44% |
-| 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
-| 17 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.32% |
+| 15 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.83% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.43% |
+| 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
 | 18 | [Scorn](games/s/scorn.md) | 7.16% |
 | 19 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.35% |
 | 20 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
@@ -25,7 +25,7 @@
 | 23 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.97% |
 | 24 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
 | 25 | [Bugsnax](games/b/bugsnax.md) | 4.59% |
-| 26 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.58% |
+| 26 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.55% |
 | 27 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
 | 28 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.15% |
 | 29 | [Doodle God](games/d/doodle_god.md) | 4.08% |
@@ -76,8 +76,8 @@
 | 74 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.19% |
 | 75 | [Ten Dates](games/t/ten_dates.md) | 1.06% |
 | 76 | [Dungeons 3](games/d/dungeons_3.md) | 0.98% |
-| 77 | [Five Dates](games/f/five_dates.md) | 0.90% |
-| 77 | [Sable](games/s/sable.md) | 0.90% |
+| 77 | [Sable](games/s/sable.md) | 0.91% |
+| 78 | [Five Dates](games/f/five_dates.md) | 0.90% |
 | 79 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
 | 79 | [Hades](games/h/hades.md) | 0.89% |
 | 81 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.88% |
@@ -146,14 +146,14 @@
 | 144 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 144 | [Partisans 1941](games/p/partisans_1941.md) | 0.12% |
 | 146 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
+| 147 | [Dead Island 2](games/d/dead_island_2.md) | 0.10% |
 | 147 | [House Flipper](games/h/house_flipper.md) | 0.10% |
 | 147 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |
 | 147 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.10% |
-| 150 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.09% |
-| 150 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 150 | [Dead Island 2](games/d/dead_island_2.md) | 0.09% |
-| 150 | [Fall Guys](games/f/fall_guys.md) | 0.09% |
-| 150 | [Supraland](games/s/supraland.md) | 0.09% |
+| 151 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.09% |
+| 151 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 151 | [Fall Guys](games/f/fall_guys.md) | 0.09% |
+| 151 | [Supraland](games/s/supraland.md) | 0.09% |
 | 155 | [Riverbond](games/r/riverbond.md) | 0.08% |
 | 155 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.08% |
 | 155 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
@@ -364,4 +364,4 @@
 | 189 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 189 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 189 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,525 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,526 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
