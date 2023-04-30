@@ -2,13 +2,13 @@
 Rating: 4.68 (Ranked 233)  
 Number of Ratings: 892  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 554  (Ranked 169)  
-Sum: 1,190 (Ranked 219)  
+Max (Character Customization): 556  (Ranked 169)  
+Sum: 1,192 (Ranked 219)  
 Diff (max vs sum): -50
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 554 |
+| This game has Inclusive Character Customization | 556 |
 | This game is Great for Beginners | 75 |
 | This game is Highly Recommended | 73 |
 | This game is Extremely Fun | 70 |
@@ -106,4 +106,4 @@ Diff (max vs sum): -50
 | 2023-04-25 | 4.68 | - | 551 | 1,183 |
 | 2023-04-28 | 4.68 | - | 554 | 1,187 |
 | 2023-04-29 | 4.68 | - | 554 | 1,189 |
-| 2023-04-30 | 4.68 | - | 554 | 1,190 |
+| 2023-04-30 | 4.68 | - | 556 | 1,192 |

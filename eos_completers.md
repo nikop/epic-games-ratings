@@ -8,8 +8,8 @@
 | 6 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.33% |
 | 7 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.91% |
 | 8 | [Ravenlok](games/r/ravenlok.md) | 10.71% |
-| 9 | [Island Cities](games/i/island_cities.md) | 10.26% |
-| 10 | [Smelter](games/s/smelter.md) | 10.00% |
+| 9 | [Island Cities](games/i/island_cities.md) | 10.00% |
+| 9 | [Smelter](games/s/smelter.md) | 10.00% |
 | 11 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 12 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
@@ -48,7 +48,7 @@
 | 46 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 47 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 48 | [JARS](games/j/jars.md) | 2.63% |
-| 49 | [ZZT!](games/z/zzt!.md) | 2.58% |
+| 49 | [ZZT!](games/z/zzt!.md) | 2.57% |
 | 50 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 51 | [Iron Danger](games/i/iron_danger.md) | 2.45% |
 | 52 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.27% |

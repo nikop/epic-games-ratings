@@ -639,6 +639,11 @@
       "Time": "2023-04-30T09:03:23.2651504+00:00",
       "NumProgressed": 25567,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-04-30T10:02:35.7839049+00:00",
+      "NumProgressed": 25622,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [
@@ -4812,12 +4817,12 @@
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 4829,
+  "EOS_NewPlayers": 4884,
   "EOS_Completed": 0,
-  "EOS_Progressed": 25567,
-  "LastUpdate_Achievements": "2023-04-30T09:03:23.2651574+00:00",
-  "LastUpdate_Ratings": "2023-04-30T08:57:01.7216079+00:00",
-  "LastChanged_Achievements": "2023-04-30T09:03:23.2651498+00:00",
+  "EOS_Progressed": 25622,
+  "LastUpdate_Achievements": "2023-04-30T10:02:35.783912+00:00",
+  "LastUpdate_Ratings": "2023-04-30T09:56:53.0821763+00:00",
+  "LastChanged_Achievements": "2023-04-30T10:02:35.7839044+00:00",
   "LastChanged": "2023-04-29T20:57:04.5427639+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "MaxAwardTitle": "Educational",

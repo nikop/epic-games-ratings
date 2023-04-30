@@ -1,5 +1,5 @@
 # Roguebook
-Rating: 4.60 (Ranked 378)  
+Rating: 4.60 (Ranked 379)  
 Number of Ratings: 64  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
