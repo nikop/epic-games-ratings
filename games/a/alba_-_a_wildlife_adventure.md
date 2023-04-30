@@ -1,5 +1,5 @@
 # Alba - A Wildlife Adventure
-Rating: 4.63 (Ranked 326)  
+Rating: 4.63 (Ranked 327)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 20  (Ranked 480)  
 Sum: 20 (Ranked 480)  

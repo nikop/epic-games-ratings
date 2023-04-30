@@ -66,7 +66,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 460
+      "Count": 461
     }
   ],
   "EosHistory": [],
@@ -1509,6 +1509,12 @@
       "Rating": 4.76,
       "NumberOfAwards": 6969,
       "NumberOfAwardsMax": 828
+    },
+    {
+      "Time": "2023-04-30T21:57:45.8843152+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6970,
+      "NumberOfAwardsMax": 828
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -1516,16 +1522,16 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-30T21:00:44.3166988+00:00",
-  "LastUpdate_Ratings": "2023-04-30T20:57:57.2297136+00:00",
-  "LastChanged": "2023-04-30T15:57:44.3537338+00:00",
+  "LastUpdate_Achievements": "2023-04-30T22:00:37.2665603+00:00",
+  "LastUpdate_Ratings": "2023-04-30T21:57:45.8843155+00:00",
+  "LastChanged": "2023-04-30T21:57:45.8843151+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 828,
-  "NumberOfAwards": 6969,
+  "NumberOfAwards": 6970,
   "NumberOfRatings": 1396,
-  "Ranking_EOS_NewCompleters": 76,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 368,
   "Ranking_PopularitySum": 102,

@@ -1,5 +1,5 @@
 # Gone Home
-Rating: 4.16 (Ranked 830)  
+Rating: 4.17 (Ranked 826)  
 Number of Ratings: 55  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
@@ -62,3 +62,4 @@ Diff (max vs sum): 0
 | 2023-02-15 | 4.15 | - | - | - |
 | 2023-03-27 | 4.16 | - | - | - |
 | 2023-03-31 | 4.16 | - | 0 | 0 |
+| 2023-04-30 | 4.17 | - | 0 | 0 |

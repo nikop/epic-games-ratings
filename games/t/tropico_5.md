@@ -1,10 +1,10 @@
 # Tropico 5
-Rating: 4.45 (Ranked 601)  
+Rating: 4.45 (Ranked 602)  
 Number of Ratings: 2,008  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 113  (Ranked 308)  
-Sum: 885 (Ranked 235)  
-Diff (max vs sum): 73
+Sum: 885 (Ranked 236)  
+Diff (max vs sum): 72
 ## Awards
 | Award | Count |
 | ----- | ----- |

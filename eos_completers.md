@@ -16,7 +16,7 @@
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 16 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.50% |
-| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.42% |
+| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.40% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
 | 19 | [Scorn](games/s/scorn.md) | 7.16% |
 | 20 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 7.14% |
@@ -99,8 +99,8 @@
 | 97 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.51% |
 | 98 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.50% |
 | 99 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
-| 100 | [Aragami 2](games/a/aragami_2.md) | 0.46% |
-| 101 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.45% |
+| 100 | [Aragami 2](games/a/aragami_2.md) | 0.45% |
+| 100 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.45% |
 | 102 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
 | 103 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.41% |
 | 103 | [Potion Permit](games/p/potion_permit.md) | 0.41% |
@@ -147,12 +147,12 @@
 | 144 | [Weird West](games/w/weird_west.md) | 0.13% |
 | 146 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 146 | [Partisans 1941](games/p/partisans_1941.md) | 0.12% |
+| 148 | [Dead Island 2](games/d/dead_island_2.md) | 0.11% |
 | 148 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
-| 149 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
-| 149 | [Dead Island 2](games/d/dead_island_2.md) | 0.10% |
-| 149 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 149 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |
-| 149 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.10% |
+| 150 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 150 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 150 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |
+| 150 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.10% |
 | 154 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 154 | [Fall Guys](games/f/fall_guys.md) | 0.09% |
 | 154 | [Supraland](games/s/supraland.md) | 0.09% |

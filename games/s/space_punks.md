@@ -1,5 +1,5 @@
 # Space Punks
-Rating: 4.16 (Ranked 830)  
+Rating: 4.16 (Ranked 831)  
 Number of Ratings: 1,927  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 170  (Ranked 271)  
