@@ -1,12 +1,12 @@
 # Farming Simulator 22
-Rating: 4.70 (Ranked 191)  
+Rating: 4.70 (Ranked 192)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 4,128  (Ranked 70)  
 Sum: 35,982 (Ranked 30)  
 Diff (max vs sum): 40
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,576 (Ranked 77)  
+Progressed: 41,581 (Ranked 77)  
 Completed: 5 (0.01%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -16,6 +16,7 @@ Completed: 5 (0.01%) (Ranked 181)
 | 2023-04-27 | 41,454 | 5 |
 | 2023-04-28 | 41,501 | 5 |
 | 2023-04-29 | 41,576 | 5 |
+| 2023-04-30 | 41,581 | 5 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

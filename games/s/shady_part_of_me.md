@@ -1,5 +1,5 @@
 # Shady Part of Me
-Rating: 4.70 (Ranked 191)  
+Rating: 4.71 (Ranked 177)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  
@@ -19,3 +19,4 @@ Diff (max vs sum): 0
 | 2023-01-11 | 4.69 | - | - |
 | 2023-03-24 | 4.70 | - | - |
 | 2023-03-31 | 4.70 | 0 | 0 |
+| 2023-04-29 | 4.71 | 0 | 0 |

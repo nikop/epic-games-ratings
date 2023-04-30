@@ -1,5 +1,5 @@
 # Grand Tactician The Civil War 1861-1865
-Rating: 4.15 (Ranked 835)  
+Rating: 4.15 (Ranked 836)  
 Number of Ratings: 29  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  

@@ -1,5 +1,5 @@
 # Godlike Burger
-Rating: 4.23 (Ranked 789)  
+Rating: 4.23 (Ranked 790)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  

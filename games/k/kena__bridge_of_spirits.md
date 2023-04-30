@@ -1,12 +1,12 @@
 # Kena: Bridge of Spirits
-Rating: 4.70 (Ranked 191)  
+Rating: 4.70 (Ranked 192)  
 Number of Ratings: 3,313  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 1,294  (Ranked 118)  
 Sum: 1,665 (Ranked 198)  
 Diff (max vs sum): -80
 ## Popularity (Based on EOS Achievements)
-Progressed: 424,715 (Ranked 29)  
+Progressed: 424,716 (Ranked 29)  
 Completed: 493 (0.12%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -16,6 +16,7 @@ Completed: 493 (0.12%) (Ranked 144)
 | 2023-04-27 | 424,640 | 491 |
 | 2023-04-28 | 424,665 | 491 |
 | 2023-04-29 | 424,715 | 493 |
+| 2023-04-30 | 424,716 | 493 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

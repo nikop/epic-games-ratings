@@ -1,9 +1,9 @@
 # STAR WARS Jedi: Survivor™
-Rating: - (Ranked -)  
+Rating: 4.45 (Ranked 600)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked -)  
-Sum: 0 (Ranked -)  
-Diff (max vs sum): -
+Max (): 0  (Ranked 488)  
+Sum: 0 (Ranked 488)  
+Diff (max vs sum): 0
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -11,3 +11,4 @@ Diff (max vs sum): -
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-04-28 | - | 0 | 0 |
+| 2023-04-29 | 4.45 | 0 | 0 |

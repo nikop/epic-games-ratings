@@ -1,5 +1,5 @@
 # Realpolitiks II
-Rating: 4.14 (Ranked 840)  
+Rating: 4.14 (Ranked 841)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
 Sum: 0 (Ranked 488)  

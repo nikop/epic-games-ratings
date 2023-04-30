@@ -42,7 +42,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 722
+      "Count": 724
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3907,6 +3907,12 @@
       "Rating": 4.43,
       "NumberOfAwards": 8988,
       "NumberOfAwardsMax": 1021
+    },
+    {
+      "Time": "2023-04-29T23:58:09.9504438+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 8990,
+      "NumberOfAwardsMax": 1021
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -3914,20 +3920,20 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-29T23:03:44.1131693+00:00",
-  "LastUpdate_Ratings": "2023-04-29T22:58:22.3292962+00:00",
-  "LastChanged": "2023-04-29T21:58:18.9660336+00:00",
+  "LastUpdate_Achievements": "2023-04-30T00:03:28.9549995+00:00",
+  "LastUpdate_Ratings": "2023-04-29T23:58:09.9504443+00:00",
+  "LastChanged": "2023-04-29T23:58:09.9504436+00:00",
   "MaxAwardTitle": "Relaxing",
   "NumberOfAwardsMax": 1021,
-  "NumberOfAwards": 8988,
+  "NumberOfAwards": 8990,
   "NumberOfRatings": 4733,
   "Ranking_EOS_NewCompleters": 72,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_Progress": 366,
   "Ranking_PopularitySum": 82,
   "Ranking_Popularity": 132,
-  "Ranking_Rating": 634,
+  "Ranking_Rating": 635,
   "Rating": 4.43,
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00"
 }

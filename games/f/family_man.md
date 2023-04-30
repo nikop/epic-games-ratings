@@ -1,5 +1,5 @@
 # Family Man
-Rating: 4.16 (Ranked 829)  
+Rating: 4.16 (Ranked 830)  
 Number of Ratings: 28  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 488)  
