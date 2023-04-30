@@ -3,10 +3,10 @@ Rating: 4.65 (Ranked 287)
 Number of Ratings: 25,248  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 4,373  (Ranked 68)  
-Sum: 33,344 (Ranked 33)  
+Sum: 33,352 (Ranked 33)  
 Diff (max vs sum): 35
 ## Popularity (Based on EOS Achievements)
-Progressed: 693,412 (Ranked 15)  
+Progressed: 693,573 (Ranked 15)  
 Completed: 5 (0.00%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -16,7 +16,7 @@ Completed: 5 (0.00%) (Ranked 189)
 | 2023-04-27 | 687,501 | 5 |
 | 2023-04-28 | 689,594 | 5 |
 | 2023-04-29 | 692,330 | 5 |
-| 2023-04-30 | 693,412 | 5 |
+| 2023-04-30 | 693,573 | 5 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -26,7 +26,7 @@ Completed: 5 (0.00%) (Ranked 189)
 | This game is Educational | 4,084 |
 | This game is Extremely Fun | 3,842 |
 | This game is Highly Recommended | 3,733 |
-| This game has Amazing Storytelling | 3,159 |
+| This game has Amazing Storytelling | 3,167 |
 | This game has a Creative Community | 2,996 |
 | This game has Amazing Characters | 2,716 |
 | This game has Obsessive Gameplay | 2,497 |
@@ -127,4 +127,4 @@ Completed: 5 (0.00%) (Ranked 189)
 | 2023-04-27 | 4.65 | - | 4,353 | 33,224 |
 | 2023-04-28 | 4.65 | - | 4,362 | 33,269 |
 | 2023-04-29 | 4.65 | - | 4,362 | 33,325 |
-| 2023-04-30 | 4.65 | - | 4,373 | 33,344 |
+| 2023-04-30 | 4.65 | - | 4,373 | 33,352 |
