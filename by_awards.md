@@ -3,7 +3,7 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 1,265,101 | 4.29 | 757 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 398,548 | 4.51 | 512 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 292,943 | 4.68 | 233 |
-| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 181,294 | 4.19 | 816 |
+| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 181,394 | 4.19 | 816 |
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 163,449 | 4.68 | 233 |
 | 6 | [Fall Guys](games/f/fall_guys.md) | 137,859 | 4.53 | 489 |
 | 7 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 137,139 | 4.89 | 12 |
@@ -25,7 +25,7 @@
 | 23 | [Borderlands 2](games/b/borderlands_2.md) | 14,036 | 4.76 | 114 |
 | 24 | [Maneater](games/m/maneater.md) | 13,416 | 4.49 | 546 |
 | 25 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,211 | 4.60 | 378 |
-| 26 | [League of Legends](games/l/league_of_legends.md) | 12,783 | 4.21 | 798 |
+| 26 | [League of Legends](games/l/league_of_legends.md) | 12,816 | 4.21 | 798 |
 | 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,287 | 4.37 | 696 |
 | 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,840 | 4.41 | 653 |
 | 29 | [NBA 2K21](games/n/nba_2k21.md) | 11,642 | 4.39 | 678 |
@@ -83,7 +83,7 @@
 | 81 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,241 | 4.46 | 591 |
 | 82 | [Paladins](games/p/paladins.md) | 3,189 | 4.35 | 714 |
 | 83 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,168 | 4.75 | 127 |
-| 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,152 | 4.59 | 395 |
+| 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,154 | 4.59 | 395 |
 | 85 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,023 | 4.57 | 428 |
 | 86 | [Hades](games/h/hades.md) | 3,017 | 4.92 | 3 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 2,986 | 4.68 | 233 |
@@ -178,15 +178,15 @@
 | 176 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 533 | 4.42 | 642 |
 | 177 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 529 | 4.62 | 336 |
 | 178 | [Star Trek Online](games/s/star_trek_online.md) | 519 | 4.45 | 601 |
-| 179 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 508 | 4.74 | 141 |
+| 179 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 514 | 4.74 | 141 |
 | 180 | [FAR CRY 4](games/f/far_cry_4.md) | 507 | 4.66 | 273 |
 | 181 | [Godfall](games/g/godfall.md) | 504 | 4.07 | 861 |
 | 182 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 498 | 4.52 | 500 |
-| 183 | [Terraforming Mars](games/t/terraforming_mars.md) | 492 | 4.54 | 476 |
+| 183 | [Terraforming Mars](games/t/terraforming_mars.md) | 493 | 4.54 | 476 |
 | 184 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 482 | 4.82 | 60 |
-| 185 | [Unreal Tournament](games/u/unreal_tournament.md) | 458 | 4.66 | 273 |
-| 186 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 457 | 4.86 | 28 |
-| 187 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 456 | 4.79 | 91 |
+| 185 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 465 | 4.79 | 91 |
+| 186 | [Unreal Tournament](games/u/unreal_tournament.md) | 458 | 4.66 | 273 |
+| 187 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 457 | 4.86 | 28 |
 | 188 | [Ghostrunner](games/g/ghostrunner.md) | 451 | 4.72 | 165 |
 | 189 | [Surviving Mars](games/s/surviving_mars.md) | 437 | 4.60 | 378 |
 | 190 | [Riders Republic](games/r/riders_republic.md) | 424 | 4.75 | 127 |
