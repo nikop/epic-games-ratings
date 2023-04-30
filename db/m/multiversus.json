@@ -30,7 +30,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4520
+      "Count": 4521
     },
     {
       "Text": "This game is Highly Recommended",
@@ -42,7 +42,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3601
+      "Count": 3602
     },
     {
       "Text": "This game has Amazing Characters",
@@ -625,6 +625,11 @@
     {
       "Time": "2023-04-30T05:05:34.4842062+00:00",
       "NumProgressed": 1066778,
+      "NumCompleted": 31615
+    },
+    {
+      "Time": "2023-04-30T06:05:08.1945875+00:00",
+      "NumProgressed": 1066788,
       "NumCompleted": 31615
     }
   ],
@@ -3980,21 +3985,27 @@
       "Rating": 4.56,
       "NumberOfAwards": 45646,
       "NumberOfAwardsMax": 4736
+    },
+    {
+      "Time": "2023-04-30T05:59:26.4638421+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 45648,
+      "NumberOfAwardsMax": 4736
     }
   ],
   "EOS_Completed_Percentage": 2.96,
   "EOS_NewCompleters": 6,
-  "EOS_NewPlayers": 1148,
+  "EOS_NewPlayers": 1158,
   "EOS_Completed": 31615,
-  "EOS_Progressed": 1066778,
-  "LastUpdate_Achievements": "2023-04-30T05:05:34.4842122+00:00",
-  "LastUpdate_Ratings": "2023-04-30T05:00:22.1187345+00:00",
-  "LastChanged_Achievements": "2023-04-30T05:05:34.4842057+00:00",
-  "LastChanged": "2023-04-29T19:59:27.3279132+00:00",
+  "EOS_Progressed": 1066788,
+  "LastUpdate_Achievements": "2023-04-30T06:05:08.1945933+00:00",
+  "LastUpdate_Ratings": "2023-04-30T05:59:26.463843+00:00",
+  "LastChanged_Achievements": "2023-04-30T06:05:08.1945868+00:00",
+  "LastChanged": "2023-04-30T05:59:26.4638419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.2265474+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 4736,
-  "NumberOfAwards": 45646,
+  "NumberOfAwards": 45648,
   "NumberOfRatings": 55748,
   "Ranking_EOS_NewCompleters": 19,
   "Ranking_EOS_NewPlayers": 35,

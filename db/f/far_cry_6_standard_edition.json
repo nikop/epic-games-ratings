@@ -30,7 +30,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 643
+      "Count": 646
     },
     {
       "Text": "This game is Relaxing",
@@ -3635,6 +3635,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 5278,
       "NumberOfAwardsMax": 680
+    },
+    {
+      "Time": "2023-04-30T05:58:36.2411169+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 5281,
+      "NumberOfAwardsMax": 680
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -3642,12 +3648,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-30T05:04:22.5163494+00:00",
-  "LastUpdate_Ratings": "2023-04-30T04:59:13.1988155+00:00",
-  "LastChanged": "2023-04-30T02:58:43.1309808+00:00",
+  "LastUpdate_Achievements": "2023-04-30T06:04:11.0638696+00:00",
+  "LastUpdate_Ratings": "2023-04-30T05:58:36.2411178+00:00",
+  "LastChanged": "2023-04-30T05:58:36.2411166+00:00",
   "MaxAwardTitle": "Amazing Storytelling",
   "NumberOfAwardsMax": 680,
-  "NumberOfAwards": 5278,
+  "NumberOfAwards": 5281,
   "NumberOfRatings": 12290,
   "Ranking_EOS_NewCompleters": 72,
   "Ranking_EOS_NewPlayers": 251,

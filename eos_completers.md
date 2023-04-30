@@ -28,7 +28,7 @@
 | 26 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.58% |
 | 27 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
 | 28 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.15% |
-| 29 | [Doodle God](games/d/doodle_god.md) | 4.10% |
+| 29 | [Doodle God](games/d/doodle_god.md) | 4.08% |
 | 30 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
 | 31 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 31 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.85% |
@@ -134,13 +134,13 @@
 | 132 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
 | 133 | [HITMAN 3](games/h/hitman_3.md) | 0.16% |
 | 133 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
-| 135 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.15% |
 | 135 | [RAILGRADE](games/r/railgrade.md) | 0.15% |
-| 137 | [Gotham Knights](games/g/gotham_knights.md) | 0.14% |
-| 137 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.14% |
-| 137 | [Isonzo](games/i/isonzo.md) | 0.14% |
-| 137 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.14% |
-| 137 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
+| 136 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.14% |
+| 136 | [Gotham Knights](games/g/gotham_knights.md) | 0.14% |
+| 136 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.14% |
+| 136 | [Isonzo](games/i/isonzo.md) | 0.14% |
+| 136 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.14% |
+| 136 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
 | 142 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.13% |
 | 142 | [Weird West](games/w/weird_west.md) | 0.13% |
 | 144 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |

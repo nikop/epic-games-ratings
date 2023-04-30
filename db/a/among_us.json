@@ -6,7 +6,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 2381
+      "Count": 2383
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -4059,6 +4059,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 21825,
       "NumberOfAwardsMax": 2381
+    },
+    {
+      "Time": "2023-04-30T05:57:48.0906+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 21827,
+      "NumberOfAwardsMax": 2383
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -4066,12 +4072,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-30T05:03:23.060079+00:00",
-  "LastUpdate_Ratings": "2023-04-30T04:58:10.0096865+00:00",
-  "LastChanged": "2023-04-29T16:58:08.4053198+00:00",
+  "LastUpdate_Achievements": "2023-04-30T06:03:23.9999109+00:00",
+  "LastUpdate_Ratings": "2023-04-30T05:57:48.0906005+00:00",
+  "LastChanged": "2023-04-30T05:57:48.0905998+00:00",
   "MaxAwardTitle": "Great for Beginners",
-  "NumberOfAwardsMax": 2381,
-  "NumberOfAwards": 21825,
+  "NumberOfAwardsMax": 2383,
+  "NumberOfAwards": 21827,
   "NumberOfRatings": 26171,
   "Ranking_EOS_NewCompleters": 72,
   "Ranking_EOS_NewPlayers": 251,
