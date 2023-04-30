@@ -12,7 +12,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 580
+      "Count": 581
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2395,6 +2395,12 @@
       "Rating": 4.76,
       "NumberOfAwards": 6555,
       "NumberOfAwardsMax": 1621
+    },
+    {
+      "Time": "2023-04-30T03:57:48.3415908+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6556,
+      "NumberOfAwardsMax": 1621
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -2402,17 +2408,17 @@
   "EOS_NewPlayers": 85,
   "EOS_Completed": 0,
   "EOS_Progressed": 8530,
-  "LastUpdate_Achievements": "2023-04-30T03:03:27.1253386+00:00",
-  "LastUpdate_Ratings": "2023-04-30T02:57:47.8390334+00:00",
-  "LastChanged_Achievements": "2023-04-30T03:03:27.1253338+00:00",
-  "LastChanged": "2023-04-30T01:59:20.3391578+00:00",
+  "LastUpdate_Achievements": "2023-04-30T04:03:19.962572+00:00",
+  "LastUpdate_Ratings": "2023-04-30T03:57:48.3415917+00:00",
+  "LastChanged_Achievements": "2023-04-30T04:03:19.9625683+00:00",
+  "LastChanged": "2023-04-30T03:57:48.3415903+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 1621,
-  "NumberOfAwards": 6555,
+  "NumberOfAwards": 6556,
   "NumberOfRatings": 1354,
   "Ranking_EOS_NewCompleters": 72,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_Progress": 107,
   "Ranking_PopularitySum": 108,

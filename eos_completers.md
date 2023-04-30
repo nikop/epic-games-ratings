@@ -8,14 +8,14 @@
 | 6 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.33% |
 | 7 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.91% |
 | 8 | [Ravenlok](games/r/ravenlok.md) | 10.71% |
-| 9 | [Smelter](games/s/smelter.md) | 10.34% |
-| 10 | [Island Cities](games/i/island_cities.md) | 10.26% |
+| 9 | [Island Cities](games/i/island_cities.md) | 10.26% |
+| 10 | [Smelter](games/s/smelter.md) | 10.00% |
 | 11 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 12 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 13 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 15 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.45% |
-| 15 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.45% |
+| 15 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.44% |
+| 16 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.38% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
 | 18 | [Scorn](games/s/scorn.md) | 7.16% |
 | 19 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.35% |
@@ -27,7 +27,7 @@
 | 25 | [Bugsnax](games/b/bugsnax.md) | 4.59% |
 | 26 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.58% |
 | 27 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
-| 28 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.16% |
+| 28 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.15% |
 | 29 | [Doodle God](games/d/doodle_god.md) | 4.10% |
 | 30 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
 | 31 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
@@ -51,7 +51,7 @@
 | 49 | [ZZT!](games/z/zzt!.md) | 2.58% |
 | 50 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 51 | [Iron Danger](games/i/iron_danger.md) | 2.45% |
-| 52 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.26% |
+| 52 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.27% |
 | 53 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 54 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
 | 55 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -89,8 +89,8 @@
 | 87 | [Train Valley](games/t/train_valley.md) | 0.74% |
 | 88 | [Haven](games/h/haven.md) | 0.73% |
 | 89 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.67% |
+| 90 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.65% |
 | 90 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
-| 91 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.64% |
 | 92 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 93 | [Ghostrunner](games/g/ghostrunner.md) | 0.56% |
 | 94 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.52% |
