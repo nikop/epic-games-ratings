@@ -18,7 +18,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1477
+      "Count": 1494
     },
     {
       "Text": "This game has Amazing Characters",
@@ -651,6 +651,11 @@
     {
       "Time": "2023-04-30T14:03:35.6634209+00:00",
       "NumProgressed": 342515,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-04-30T15:03:48.7943777+00:00",
+      "NumProgressed": 342617,
       "NumCompleted": 8
     }
   ],
@@ -1644,29 +1649,35 @@
       "Rating": 3.99,
       "NumberOfAwards": 5474,
       "NumberOfAwardsMax": 1697
+    },
+    {
+      "Time": "2023-04-30T14:58:17.9888878+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 5491,
+      "NumberOfAwardsMax": 1697
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 6311,
+  "EOS_NewPlayers": 6413,
   "EOS_Completed": 8,
-  "EOS_Progressed": 342515,
-  "LastUpdate_Achievements": "2023-04-30T14:03:35.6634266+00:00",
-  "LastUpdate_Ratings": "2023-04-30T13:57:55.5312382+00:00",
-  "LastChanged_Achievements": "2023-04-30T14:03:35.6634204+00:00",
-  "LastChanged": "2023-04-30T13:57:55.5312374+00:00",
+  "EOS_Progressed": 342617,
+  "LastUpdate_Achievements": "2023-04-30T15:03:48.7943828+00:00",
+  "LastUpdate_Ratings": "2023-04-30T14:58:17.9888881+00:00",
+  "LastChanged_Achievements": "2023-04-30T15:03:48.7943772+00:00",
+  "LastChanged": "2023-04-30T14:58:17.9888877+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "MaxAwardTitle": "Competitive Players",
   "NumberOfAwardsMax": 1697,
-  "NumberOfAwards": 5474,
+  "NumberOfAwards": 5491,
   "Ranking_EOS_NewCompleters": 48,
   "Ranking_EOS_NewPlayers": 10,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_Progress": 35,
   "Ranking_PopularitySum": 115,
   "Ranking_Popularity": 109,
-  "Ranking_Rating": 877,
+  "Ranking_Rating": 878,
   "Rating": 3.99,
   "FirstSeen": "2022-12-06T17:57:24.6501738+00:00"
 }

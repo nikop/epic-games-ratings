@@ -123,7 +123,7 @@
 | 114 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 488 |
 | 114 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 99 | 319 |
 | 114 | [Pathfinder: Wrath of the Righteous](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,623 | 110 |
-| 114 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 7,762 | 39 |
+| 114 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 7,787 | 39 |
 | 114 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 488 |
 | 114 | [Tchia](games/t/tchia.md) | 4.76 | 0 | 488 |
 | 127 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 463 |
@@ -212,7 +212,7 @@
 | 192 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 37 | 414 |
 | 211 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 108,314 | 8 |
 | 211 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 488 |
-| 211 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,733 | 76 |
+| 211 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,738 | 76 |
 | 211 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 0 | 488 |
 | 211 | [GNOG](games/g/gnog.md) | 4.69 | 0 | 488 |
 | 211 | [INSIDE](games/i/inside.md) | 4.69 | 0 | 488 |
@@ -338,7 +338,7 @@
 | 336 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 63,211 | 9 |
 | 336 | [Deceive Inc.](games/d/deceive_inc..md) | 4.62 | 0 | 488 |
 | 336 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 428 |
-| 336 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,200 | 122 |
+| 336 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,203 | 122 |
 | 336 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.62 | 0 | 488 |
 | 336 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 529 | 177 |
 | 336 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 488 |
@@ -498,7 +498,7 @@
 | 488 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 92 | 330 |
 | 488 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 488 |
 | 488 | [Verdun](games/v/verdun.md) | 4.53 | 93 | 329 |
-| 499 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 733 | 150 |
+| 499 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 734 | 150 |
 | 499 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 38 | 411 |
 | 499 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 26,900 | 15 |
 | 499 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 498 | 182 |
@@ -876,24 +876,24 @@
 | 874 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.00 | 0 | 488 |
 | 874 | [Banished](games/b/banished.md) | 4.00 | 0 | 488 |
 | 874 | [Gravewood High](games/g/gravewood_high.md) | 4.00 | 0 | 488 |
-| 877 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 367 | 205 |
-| 877 | [Port Royale 4](games/p/port_royale_4.md) | 3.99 | 0 | 488 |
-| 877 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.99 | 1,697 | 109 |
-| 877 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 0 | 488 |
-| 881 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 488 |
-| 881 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,543 | 66 |
-| 881 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 488 |
-| 884 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 488 |
-| 885 | [Wreckfest](games/w/wreckfest.md) | 3.96 | 0 | 488 |
+| 874 | [Wreckfest](games/w/wreckfest.md) | 4.00 | 0 | 488 |
+| 878 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 367 | 205 |
+| 878 | [Port Royale 4](games/p/port_royale_4.md) | 3.99 | 0 | 488 |
+| 878 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.99 | 1,697 | 109 |
+| 878 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 0 | 488 |
+| 882 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 488 |
+| 882 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,543 | 66 |
+| 882 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 488 |
+| 885 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 488 |
 | 886 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 397 |
 | 887 | [Patron](games/p/patron.md) | 3.94 | 0 | 488 |
 | 888 | [Chimeraland](games/c/chimeraland.md) | 3.93 | 0 | 488 |
 | 888 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 207 | 252 |
 | 888 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 0 | 488 |
-| 891 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 445 |
-| 891 | [Ironcast](games/i/ironcast.md) | 3.92 | 0 | 488 |
-| 891 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 3.92 | 62 | 370 |
-| 891 | [Warface](games/w/warface.md) | 3.92 | 385 | 202 |
+| 888 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 3.93 | 62 | 370 |
+| 892 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 445 |
+| 892 | [Ironcast](games/i/ironcast.md) | 3.92 | 0 | 488 |
+| 892 | [Warface](games/w/warface.md) | 3.92 | 385 | 202 |
 | 895 | [Conarium](games/c/conarium.md) | 3.91 | 0 | 488 |
 | 895 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 314 |
 | 897 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.88 | 0 | 488 |
@@ -906,8 +906,8 @@
 | 904 | [Potion Permit](games/p/potion_permit.md) | 3.78 | 66 | 364 |
 | 904 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,022 | 132 |
 | 906 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 488 |
-| 907 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 0 | 488 |
-| 907 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 488 |
-| 907 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 46 | 392 |
+| 907 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.76 | 46 | 392 |
+| 908 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 0 | 488 |
+| 908 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 488 |
 | 910 | [Blood of Steel](games/b/blood_of_steel.md) | 3.67 | 0 | 488 |
 | 911 | [Poker Club](games/p/poker_club.md) | 3.13 | 0 | 488 |

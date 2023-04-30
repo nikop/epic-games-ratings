@@ -89,4 +89,3 @@
 | [ZZT!](games/z/zzt!.md) | - | - | 0 | - |
 | [Falling Out](games/f/falling_out.md) | - | - | 0 | - |
 | [Skotos](games/s/skotos.md) | - | - | 0 | - |
-| [The Entropy Centre](games/t/the_entropy_centre.md) | - | - | 0 | - |
