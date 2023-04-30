@@ -1,12 +1,12 @@
 # Ghostbusters: Spirits Unleashed
 Rating: 4.49 (Ranked 546)  
 ## Popularity (Based on Awards)
-Max (Great for Quick Sessions): 225  (Ranked 243)  
-Sum: 2,014 (Ranked 183)  
+Max (Great for Quick Sessions): 226  (Ranked 243)  
+Sum: 2,015 (Ranked 183)  
 Diff (max vs sum): 60
 ## Popularity (Based on EOS Achievements)
 Progressed: 21,249 (Ranked 88)  
-Completed: 40 (0.19%) (Ranked 129)  
+Completed: 40 (0.19%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -19,7 +19,7 @@ Completed: 40 (0.19%) (Ranked 129)
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 225 |
+| This game is Great for Quick Sessions | 226 |
 | This game is Great for Beginners | 215 |
 | This game has Diverse Characters | 208 |
 | This game has Competitive Players | 204 |
@@ -81,4 +81,4 @@ Completed: 40 (0.19%) (Ranked 129)
 | 2023-04-27 | 4.49 | 223 | 1,999 |
 | 2023-04-28 | 4.49 | 223 | 2,004 |
 | 2023-04-29 | 4.49 | 225 | 2,013 |
-| 2023-04-30 | 4.49 | 225 | 2,014 |
+| 2023-04-30 | 4.49 | 226 | 2,015 |

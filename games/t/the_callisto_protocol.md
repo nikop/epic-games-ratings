@@ -2,10 +2,10 @@
 Rating: 4.18 (Ranked 821)  
 ## Popularity (Based on Awards)
 Max (Amazing Storytelling): 46  (Ranked 392)  
-Sum: 243 (Ranked 339)  
+Sum: 244 (Ranked 339)  
 Diff (max vs sum): 53
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,516 (Ranked 100)  
+Progressed: 12,517 (Ranked 100)  
 Completed: 46 (0.37%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -15,7 +15,7 @@ Completed: 46 (0.37%) (Ranked 105)
 | 2023-04-27 | 12,505 | 46 |
 | 2023-04-28 | 12,509 | 46 |
 | 2023-04-29 | 12,515 | 46 |
-| 2023-04-30 | 12,516 | 46 |
+| 2023-04-30 | 12,517 | 46 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -23,7 +23,7 @@ Completed: 46 (0.37%) (Ranked 105)
 | This game has Amazing Storytelling | 46 |
 | This game is Extremely Fun | 41 |
 | This game has Amazing Characters | 41 |
-| This game has Quickly Understood Controls | 39 |
+| This game has Quickly Understood Controls | 40 |
 | This game has Challenging Combat | 30 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -71,3 +71,4 @@ Completed: 46 (0.37%) (Ranked 105)
 | 2023-04-24 | 4.18 | 45 | 241 |
 | 2023-04-26 | 4.18 | 46 | 242 |
 | 2023-04-28 | 4.18 | 46 | 243 |
+| 2023-04-30 | 4.18 | 46 | 244 |

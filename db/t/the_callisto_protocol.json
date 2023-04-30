@@ -18,7 +18,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game has Amazing Characters",
@@ -123,6 +123,11 @@
     {
       "Time": "2023-04-30T07:00:30.8787631+00:00",
       "NumProgressed": 12516,
+      "NumCompleted": 46
+    },
+    {
+      "Time": "2023-04-30T16:03:12.2242241+00:00",
+      "NumProgressed": 12517,
       "NumCompleted": 46
     }
   ],
@@ -458,24 +463,30 @@
       "Rating": 4.18,
       "NumberOfAwards": 243,
       "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2023-04-30T15:57:30.2479298+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 244,
+      "NumberOfAwardsMax": 46
     }
   ],
   "EOS_Completed_Percentage": 0.37,
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_Completed": 46,
-  "EOS_Progressed": 12516,
-  "LastUpdate_Achievements": "2023-04-30T15:02:36.2660183+00:00",
-  "LastUpdate_Ratings": "2023-04-30T14:57:26.375446+00:00",
-  "LastChanged_Achievements": "2023-04-30T15:02:36.266015+00:00",
-  "LastChanged": "2023-04-28T03:57:44.1519258+00:00",
+  "EOS_Progressed": 12517,
+  "LastUpdate_Achievements": "2023-04-30T16:03:12.2242273+00:00",
+  "LastUpdate_Ratings": "2023-04-30T15:57:30.2479303+00:00",
+  "LastChanged_Achievements": "2023-04-30T16:03:12.2242234+00:00",
+  "LastChanged": "2023-04-30T15:57:30.2479295+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "MaxAwardTitle": "Amazing Storytelling",
   "NumberOfAwardsMax": 46,
-  "NumberOfAwards": 243,
-  "Ranking_EOS_NewCompleters": 72,
-  "Ranking_EOS_NewPlayers": 149,
+  "NumberOfAwards": 244,
+  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_Completed": 105,
   "Ranking_EOS_Progress": 100,
   "Ranking_PopularitySum": 339,

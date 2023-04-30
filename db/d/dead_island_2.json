@@ -6,7 +6,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1397
+      "Count": 1615
     },
     {
       "Text": "This game has Diverse Characters",
@@ -652,6 +652,11 @@
       "Time": "2023-04-30T15:00:53.7970341+00:00",
       "NumProgressed": 413317,
       "NumCompleted": 415
+    },
+    {
+      "Time": "2023-04-30T16:00:36.628658+00:00",
+      "NumProgressed": 414158,
+      "NumCompleted": 415
     }
   ],
   "RatingHistory": [
@@ -930,28 +935,34 @@
       "Rating": 4.54,
       "NumberOfAwards": 1780,
       "NumberOfAwardsMax": 1397
+    },
+    {
+      "Time": "2023-04-30T15:58:01.779729+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 1998,
+      "NumberOfAwardsMax": 1615
     }
   ],
   "EOS_Completed_Percentage": 0.1,
   "EOS_NewCompleters": 333,
-  "EOS_NewPlayers": 96993,
+  "EOS_NewPlayers": 97834,
   "EOS_Completed": 415,
-  "EOS_Progressed": 413317,
-  "LastUpdate_Achievements": "2023-04-30T15:00:53.7970399+00:00",
-  "LastUpdate_Ratings": "2023-04-30T14:58:01.2839431+00:00",
-  "LastChanged_Achievements": "2023-04-30T15:00:53.7970327+00:00",
-  "LastChanged": "2023-04-30T13:57:43.4331416+00:00",
+  "EOS_Progressed": 414158,
+  "LastUpdate_Achievements": "2023-04-30T16:00:36.6286662+00:00",
+  "LastUpdate_Ratings": "2023-04-30T15:58:01.7797295+00:00",
+  "LastChanged_Achievements": "2023-04-30T16:00:36.6286574+00:00",
+  "LastChanged": "2023-04-30T15:58:01.7797288+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "MaxAwardTitle": "Great Boss Battles",
-  "NumberOfAwardsMax": 1397,
-  "NumberOfAwards": 1780,
+  "NumberOfAwardsMax": 1615,
+  "NumberOfAwards": 1998,
   "Ranking_EOS_NewCompleters": 1,
   "Ranking_EOS_NewPlayers": 2,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_Progress": 30,
-  "Ranking_PopularitySum": 195,
-  "Ranking_Popularity": 116,
+  "Ranking_PopularitySum": 185,
+  "Ranking_Popularity": 111,
   "Ranking_Rating": 475,
   "Rating": 4.54,
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00"

@@ -6,13 +6,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 277
+      "Count": 280
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 335
+      "Count": 337
     },
     {
       "Text": "This game is Extremely Fun",
@@ -659,6 +659,11 @@
     {
       "Time": "2023-04-30T15:04:45.0505928+00:00",
       "NumProgressed": 60938,
+      "NumCompleted": 14
+    },
+    {
+      "Time": "2023-04-30T16:04:42.1496191+00:00",
+      "NumProgressed": 60947,
       "NumCompleted": 14
     }
   ],
@@ -1836,23 +1841,29 @@
       "Rating": 4.75,
       "NumberOfAwards": 2945,
       "NumberOfAwardsMax": 396
+    },
+    {
+      "Time": "2023-04-30T15:59:01.9513642+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 2950,
+      "NumberOfAwardsMax": 396
     }
   ],
   "EOS_Completed_Percentage": 0.02,
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 767,
+  "EOS_NewPlayers": 776,
   "EOS_Completed": 14,
-  "EOS_Progressed": 60938,
-  "LastUpdate_Achievements": "2023-04-30T15:04:45.0505983+00:00",
-  "LastUpdate_Ratings": "2023-04-30T14:59:09.050722+00:00",
-  "LastChanged_Achievements": "2023-04-30T15:04:45.0505919+00:00",
-  "LastChanged": "2023-04-30T13:01:52.9282744+00:00",
+  "EOS_Progressed": 60947,
+  "LastUpdate_Achievements": "2023-04-30T16:04:42.1496257+00:00",
+  "LastUpdate_Ratings": "2023-04-30T15:59:01.9513649+00:00",
+  "LastChanged_Achievements": "2023-04-30T16:04:42.1496184+00:00",
+  "LastChanged": "2023-04-30T15:59:01.9513639+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.5210365+00:00",
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 396,
-  "NumberOfAwards": 2945,
-  "Ranking_EOS_NewCompleters": 72,
+  "NumberOfAwards": 2950,
+  "Ranking_EOS_NewCompleters": 73,
   "Ranking_EOS_NewPlayers": 48,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_Progress": 65,
