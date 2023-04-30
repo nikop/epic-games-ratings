@@ -30,7 +30,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 2168
+      "Count": 2174
     },
     {
       "Text": "This game has a Competitive Community",
@@ -42,7 +42,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2053
+      "Count": 2057
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4435,6 +4435,12 @@
       "Rating": 4.21,
       "NumberOfAwards": 26381,
       "NumberOfAwardsMax": 12816
+    },
+    {
+      "Time": "2023-04-30T19:59:46.1354272+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 26391,
+      "NumberOfAwardsMax": 12816
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -4442,14 +4448,14 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-30T19:06:05.3968711+00:00",
-  "LastUpdate_Ratings": "2023-04-30T19:00:52.2334728+00:00",
-  "LastChanged": "2023-04-30T19:00:52.2334719+00:00",
+  "LastUpdate_Achievements": "2023-04-30T20:05:13.4131217+00:00",
+  "LastUpdate_Ratings": "2023-04-30T19:59:46.1354275+00:00",
+  "LastChanged": "2023-04-30T19:59:46.135427+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 12816,
-  "NumberOfAwards": 26381,
+  "NumberOfAwards": 26391,
   "NumberOfRatings": 10796,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 368,

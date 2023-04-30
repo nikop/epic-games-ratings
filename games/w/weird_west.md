@@ -2,8 +2,8 @@
 Rating: 4.45 (Ranked 601)  
 Number of Ratings: 125  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Impact the Story): 23  (Ranked 466)  
-Sum: 23 (Ranked 468)  
+Max (Impact the Story): 23  (Ranked 467)  
+Sum: 23 (Ranked 469)  
 Diff (max vs sum): -2
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,486 (Ranked 149)  

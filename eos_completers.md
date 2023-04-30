@@ -15,11 +15,11 @@
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 7.69% |
-| 17 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.61% |
-| 18 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.36% |
-| 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
-| 20 | [Scorn](games/s/scorn.md) | 7.16% |
+| 16 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.50% |
+| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.44% |
+| 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
+| 19 | [Scorn](games/s/scorn.md) | 7.16% |
+| 20 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 7.14% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.25% |
 | 23 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
@@ -35,7 +35,7 @@
 | 33 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 33 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.85% |
 | 35 | [The Complex](games/t/the_complex.md) | 3.57% |
-| 36 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.51% |
+| 36 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.50% |
 | 37 | [The Bunker](games/t/the_bunker.md) | 3.37% |
 | 38 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 39 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.27% |
@@ -50,7 +50,7 @@
 | 48 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 49 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 50 | [JARS](games/j/jars.md) | 2.63% |
-| 51 | [ZZT!](games/z/zzt!.md) | 2.61% |
+| 51 | [ZZT!](games/z/zzt!.md) | 2.60% |
 | 52 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 53 | [Iron Danger](games/i/iron_danger.md) | 2.45% |
 | 54 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.26% |
@@ -105,8 +105,8 @@
 | 103 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.41% |
 | 103 | [Potion Permit](games/p/potion_permit.md) | 0.41% |
 | 105 | [Godlike Burger](games/g/godlike_burger.md) | 0.38% |
-| 106 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
-| 106 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
+| 105 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.38% |
+| 107 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 108 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.35% |
 | 109 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.34% |
 | 109 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.34% |
@@ -366,4 +366,4 @@
 | 191 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 191 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 191 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,529 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,530 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

@@ -1,5 +1,5 @@
 # Shenmue III - Standard Edition
-Rating: 4.19 (Ranked 816)  
+Rating: 4.19 (Ranked 815)  
 Number of Ratings: 172  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 26  (Ranked 457)  
