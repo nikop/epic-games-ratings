@@ -14,7 +14,7 @@
 | 12 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 13 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 15 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.65% |
+| 15 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.60% |
 | 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.40% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
 | 18 | [Scorn](games/s/scorn.md) | 7.16% |
@@ -51,7 +51,7 @@
 | 49 | [ZZT!](games/z/zzt!.md) | 2.57% |
 | 50 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 51 | [Iron Danger](games/i/iron_danger.md) | 2.45% |
-| 52 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.26% |
+| 52 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.28% |
 | 53 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 54 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
 | 55 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -62,7 +62,7 @@
 | 59 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.67% |
 | 61 | [Somerville](games/s/somerville.md) | 1.62% |
 | 62 | [Frogun](games/f/frogun.md) | 1.56% |
-| 62 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.56% |
+| 63 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.55% |
 | 64 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.52% |
 | 65 | [Bloodshore](games/b/bloodshore.md) | 1.45% |
 | 65 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.45% |
@@ -109,8 +109,8 @@
 | 106 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.35% |
 | 108 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.34% |
 | 109 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
-| 109 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
-| 111 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
+| 110 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
+| 110 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
 | 112 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
 | 112 | [Tchia](games/t/tchia.md) | 0.31% |
 | 112 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
