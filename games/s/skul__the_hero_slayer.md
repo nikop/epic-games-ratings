@@ -1,5 +1,5 @@
 # Skul: The Hero Slayer
-Rating: 4.71 (Ranked 177)  
+Rating: 4.71 (Ranked 178)  
 Number of Ratings: 546  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 114  (Ranked 305)  
@@ -7,7 +7,7 @@ Sum: 852 (Ranked 242)
 Diff (max vs sum): 63
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,157 (Ranked 110)  
-Completed: 10 (0.14%) (Ranked 138)  
+Completed: 10 (0.14%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
