@@ -18,7 +18,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 354
+      "Count": 356
     },
     {
       "Text": "This game is Relaxing",
@@ -2572,6 +2572,12 @@
       "Rating": 4.66,
       "NumberOfAwards": 2855,
       "NumberOfAwardsMax": 412
+    },
+    {
+      "Time": "2023-04-30T06:58:56.9428973+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 2857,
+      "NumberOfAwardsMax": 412
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -2579,12 +2585,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-30T06:04:30.0834524+00:00",
-  "LastUpdate_Ratings": "2023-04-30T05:58:52.9324494+00:00",
-  "LastChanged": "2023-04-29T21:59:25.7846541+00:00",
+  "LastUpdate_Achievements": "2023-04-30T07:04:14.8391647+00:00",
+  "LastUpdate_Ratings": "2023-04-30T06:58:56.9428978+00:00",
+  "LastChanged": "2023-04-30T06:58:56.9428971+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 412,
-  "NumberOfAwards": 2855,
+  "NumberOfAwards": 2857,
   "NumberOfRatings": 2083,
   "Ranking_EOS_NewCompleters": 72,
   "Ranking_EOS_NewPlayers": 251,

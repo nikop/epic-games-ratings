@@ -15,8 +15,8 @@
 | 13 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 13 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 15 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.44% |
-| 16 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.34% |
-| 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
+| 16 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
+| 17 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.32% |
 | 18 | [Scorn](games/s/scorn.md) | 7.16% |
 | 19 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.35% |
 | 20 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
@@ -76,15 +76,15 @@
 | 74 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.19% |
 | 75 | [Ten Dates](games/t/ten_dates.md) | 1.06% |
 | 76 | [Dungeons 3](games/d/dungeons_3.md) | 0.98% |
-| 77 | [Sable](games/s/sable.md) | 0.91% |
-| 78 | [Five Dates](games/f/five_dates.md) | 0.90% |
+| 77 | [Five Dates](games/f/five_dates.md) | 0.90% |
+| 77 | [Sable](games/s/sable.md) | 0.90% |
 | 79 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
 | 79 | [Hades](games/h/hades.md) | 0.89% |
 | 81 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.88% |
 | 82 | [Lemon Cake](games/l/lemon_cake.md) | 0.86% |
 | 83 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.83% |
 | 84 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
-| 85 | [Adios](games/a/adios.md) | 0.77% |
+| 85 | [Adios](games/a/adios.md) | 0.78% |
 | 86 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 87 | [Train Valley](games/t/train_valley.md) | 0.74% |
 | 88 | [Haven](games/h/haven.md) | 0.73% |
@@ -92,7 +92,7 @@
 | 90 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.65% |
 | 90 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
 | 92 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
-| 93 | [Ghostrunner](games/g/ghostrunner.md) | 0.56% |
+| 93 | [Ghostrunner](games/g/ghostrunner.md) | 0.55% |
 | 94 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.52% |
 | 94 | [Grindstone](games/g/grindstone.md) | 0.52% |
 | 96 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.50% |
