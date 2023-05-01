@@ -1,17 +1,17 @@
 # Divine Knockout (DKO) - Starter Edition
-Rating: 4.36 (Ranked 704)  
+Rating: 4.35 (Ranked 713)  
 Number of Ratings: 60  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 48  (Ranked 387)  
-Sum: 415 (Ranked 294)  
+Sum: 417 (Ranked 294)  
 Diff (max vs sum): 93
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 48 |
 | This game has Quickly Understood Controls | 47 |
+| This game has Competitive Players | 42 |
 | This game has Diverse Characters | 42 |
-| This game has Competitive Players | 40 |
 | This game is Great for Quick Sessions | 38 |
 | This game is Extremely Fun | 36 |
 | This game is Highly Recommended | 36 |
@@ -120,3 +120,4 @@ Diff (max vs sum): 93
 | 2023-04-26 | 4.35 | - | 48 | 411 |
 | 2023-04-29 | 4.36 | - | 48 | 411 |
 | 2023-04-30 | 4.36 | - | 48 | 415 |
+| 2023-05-01 | 4.35 | - | 48 | 417 |

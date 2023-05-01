@@ -36,7 +36,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 934
+      "Count": 935
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3529,6 +3529,12 @@
       "Rating": 4.65,
       "NumberOfAwards": 37281,
       "NumberOfAwardsMax": 28410
+    },
+    {
+      "Time": "2023-05-01T09:57:54.0629672+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 37282,
+      "NumberOfAwardsMax": 28410
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -3536,15 +3542,15 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-01T08:59:40.3915765+00:00",
-  "LastUpdate_Ratings": "2023-05-01T08:57:39.3935025+00:00",
-  "LastChanged": "2023-04-30T09:57:37.2947428+00:00",
+  "LastUpdate_Achievements": "2023-05-01T10:00:27.8753331+00:00",
+  "LastUpdate_Ratings": "2023-05-01T09:57:54.0629679+00:00",
+  "LastChanged": "2023-05-01T09:57:54.0629671+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 28410,
-  "NumberOfAwards": 37281,
+  "NumberOfAwards": 37282,
   "NumberOfRatings": 77497,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 368,
   "Ranking_PopularitySum": 29,

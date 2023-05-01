@@ -249,7 +249,7 @@
 | 233 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 556 | 169 |
 | 233 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 660 | 158 |
 | 233 | [Revita](games/r/revita.md) | 4.68 | 0 | 489 |
-| 233 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 164 | 275 |
+| 233 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 166 | 275 |
 | 233 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 30 | 442 |
 | 233 | [The Machines Arena](games/t/the_machines_arena.md) | 4.68 | 0 | 489 |
 | 233 | [The Pathless](games/t/the_pathless.md) | 4.68 | 0 | 489 |
@@ -290,7 +290,7 @@
 | 287 | [BLACKTAIL](games/b/blacktail.md) | 4.65 | 0 | 489 |
 | 287 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,381 | 68 |
 | 287 | [Coromon](games/c/coromon.md) | 4.65 | 40 | 406 |
-| 287 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 164 | 275 |
+| 287 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 164 | 276 |
 | 287 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 0 | 489 |
 | 287 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 318 | 217 |
 | 287 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.65 | 0 | 489 |
@@ -377,7 +377,7 @@
 | 352 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.61 | 0 | 489 |
 | 352 | [Supraland](games/s/supraland.md) | 4.61 | 7,602 | 40 |
 | 352 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 63 | 368 |
-| 352 | [Warframe](games/w/warframe.md) | 4.61 | 14,419 | 21 |
+| 352 | [Warframe](games/w/warframe.md) | 4.61 | 14,448 | 21 |
 | 379 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,608 | 30 |
 | 379 | [Control](games/c/control.md) | 4.60 | 8,253 | 38 |
 | 379 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 349 |
@@ -500,7 +500,7 @@
 | 488 | [Verdun](games/v/verdun.md) | 4.53 | 93 | 329 |
 | 499 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 734 | 150 |
 | 499 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 38 | 411 |
-| 499 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 26,900 | 16 |
+| 499 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 26,939 | 16 |
 | 499 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 498 | 182 |
 | 499 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 99 | 319 |
 | 499 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 147 | 282 |
@@ -663,7 +663,7 @@
 | 653 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,160 | 99 |
 | 653 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 72 | 352 |
 | 663 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 0 | 489 |
-| 663 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 244 | 238 |
+| 663 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 245 | 238 |
 | 663 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 979 | 138 |
 | 663 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 489 |
 | 663 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.40 | 94 | 326 |
@@ -706,21 +706,21 @@
 | 704 | [Among Trees](games/a/among_trees.md) | 4.36 | 0 | 489 |
 | 704 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 272 |
 | 704 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 0 | 489 |
-| 704 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.36 | 48 | 387 |
 | 704 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 489 |
 | 704 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 462 |
 | 704 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 0 | 489 |
 | 704 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 0 | 489 |
 | 704 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 82 | 342 |
 | 704 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 489 |
-| 714 | [Beyond Blue](games/b/beyond_blue.md) | 4.35 | 0 | 489 |
-| 714 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 489 |
-| 714 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 90 | 332 |
-| 714 | [Encased](games/e/encased.md) | 4.35 | 125 | 294 |
-| 714 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 201 | 256 |
-| 714 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 489 |
-| 714 | [Paladins](games/p/paladins.md) | 4.35 | 3,192 | 82 |
-| 714 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.35 | 38 | 411 |
+| 713 | [Beyond Blue](games/b/beyond_blue.md) | 4.35 | 0 | 489 |
+| 713 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 489 |
+| 713 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 90 | 332 |
+| 713 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.35 | 48 | 387 |
+| 713 | [Encased](games/e/encased.md) | 4.35 | 125 | 294 |
+| 713 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 201 | 256 |
+| 713 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 489 |
+| 713 | [Paladins](games/p/paladins.md) | 4.35 | 3,192 | 82 |
+| 713 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.35 | 38 | 411 |
 | 722 | [Ashen](games/a/ashen.md) | 4.34 | 0 | 489 |
 | 722 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 452 |
 | 722 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.34 | 0 | 489 |
@@ -760,7 +760,7 @@
 | 757 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 0 | 489 |
 | 757 | [ELEX II](games/e/elex_ii.md) | 4.29 | 0 | 489 |
 | 757 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,268,457 | 1 |
-| 757 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 675 | 157 |
+| 757 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 677 | 157 |
 | 757 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 43 | 404 |
 | 757 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 128 | 291 |
 | 757 | [The Fall](games/t/the_fall.md) | 4.29 | 0 | 489 |

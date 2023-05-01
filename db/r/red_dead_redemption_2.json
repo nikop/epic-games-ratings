@@ -18,7 +18,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 12829
+      "Count": 12866
     },
     {
       "Text": "This game has Amazing Characters",
@@ -42,7 +42,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 12218
+      "Count": 12266
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5213,6 +5213,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 349461,
       "NumberOfAwardsMax": 137446
+    },
+    {
+      "Time": "2023-05-01T09:58:42.8036688+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 349546,
+      "NumberOfAwardsMax": 137446
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -5220,15 +5226,15 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-01T09:03:47.831895+00:00",
-  "LastUpdate_Ratings": "2023-05-01T08:58:18.7383095+00:00",
-  "LastChanged": "2023-05-01T07:58:57.8294545+00:00",
+  "LastUpdate_Achievements": "2023-05-01T10:04:05.8515263+00:00",
+  "LastUpdate_Ratings": "2023-05-01T09:58:42.8036694+00:00",
+  "LastChanged": "2023-05-01T09:58:42.8036686+00:00",
   "MaxAwardTitle": "Impact the Story",
   "NumberOfAwardsMax": 137446,
-  "NumberOfAwards": 349461,
+  "NumberOfAwards": 349546,
   "NumberOfRatings": 102658,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 368,
   "Ranking_PopularitySum": 8,
