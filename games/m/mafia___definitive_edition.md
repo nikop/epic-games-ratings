@@ -1,14 +1,14 @@
 # Mafia : Definitive Edition
-Rating: 4.62 (Ranked 336)  
+Rating: 4.62 (Ranked 337)  
 Number of Ratings: 2,035  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 580  (Ranked 167)  
-Sum: 695 (Ranked 261)  
+Max (Great Boss Battles): 581  (Ranked 167)  
+Sum: 696 (Ranked 261)  
 Diff (max vs sum): -94
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 580 |
+| This game has Great Boss Battles | 581 |
 | This game is Highly Recommended | 31 |
 | This game has Diverse Characters | 23 |
 | This game is Extremely Fun | 21 |
@@ -102,3 +102,4 @@ Diff (max vs sum): -94
 | 2023-04-25 | 4.62 | - | 578 | 692 |
 | 2023-04-26 | 4.62 | - | 578 | 693 |
 | 2023-04-29 | 4.62 | - | 580 | 695 |
+| 2023-05-01 | 4.62 | - | 581 | 696 |

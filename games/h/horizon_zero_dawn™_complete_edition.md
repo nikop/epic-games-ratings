@@ -1,15 +1,15 @@
 # Horizon Zero Dawn™ Complete Edition
-Rating: 4.77 (Ranked 105)  
+Rating: 4.77 (Ranked 104)  
 Number of Ratings: 7,175  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 3,933  (Ranked 74)  
-Sum: 8,299 (Ranked 87)  
+Sum: 8,305 (Ranked 87)  
 Diff (max vs sum): -13
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,933 |
-| This game has Great Boss Battles | 2,405 |
+| This game has Great Boss Battles | 2,411 |
 | This game is Extremely Fun | 218 |
 | This game has Amazing Storytelling | 216 |
 | This game has Beautiful Visuals | 212 |
@@ -118,4 +118,4 @@ Diff (max vs sum): -13
 | 2023-04-28 | 4.77 | - | 3,924 | 8,272 |
 | 2023-04-29 | 4.77 | - | 3,929 | 8,284 |
 | 2023-04-30 | 4.77 | - | 3,929 | 8,290 |
-| 2023-05-01 | 4.77 | - | 3,933 | 8,299 |
+| 2023-05-01 | 4.77 | - | 3,933 | 8,305 |

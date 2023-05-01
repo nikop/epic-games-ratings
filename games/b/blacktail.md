@@ -1,11 +1,11 @@
 # BLACKTAIL
-Rating: 4.65 (Ranked 286)  
+Rating: 4.67 (Ranked 256)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 489)  
 Sum: 0 (Ranked 489)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 308 (Ranked 202)  
+Progressed: 309 (Ranked 202)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -16,7 +16,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-04-28 | 298 | 0 |
 | 2023-04-29 | 300 | 0 |
 | 2023-04-30 | 305 | 0 |
-| 2023-05-01 | 308 | 0 |
+| 2023-05-01 | 309 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -28,3 +28,4 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-03-15 | 4.73 | - | - |
 | 2023-03-31 | 4.73 | 0 | 0 |
 | 2023-04-23 | 4.65 | 0 | 0 |
+| 2023-05-01 | 4.67 | 0 | 0 |

@@ -18,7 +18,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 374
+      "Count": 379
     },
     {
       "Text": "This game is Educational",
@@ -1178,6 +1178,12 @@
       "Rating": 4.79,
       "NumberOfAwards": 3120,
       "NumberOfAwardsMax": 469
+    },
+    {
+      "Time": "2023-05-01T22:56:59.3876009+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 3125,
+      "NumberOfAwardsMax": 469
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -1185,14 +1191,14 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-01T21:59:57.3508298+00:00",
-  "LastUpdate_Ratings": "2023-05-01T21:57:10.3720262+00:00",
-  "LastChanged": "2023-05-01T21:57:10.3720257+00:00",
+  "LastUpdate_Achievements": "2023-05-01T22:59:46.9323276+00:00",
+  "LastUpdate_Ratings": "2023-05-01T22:56:59.3876012+00:00",
+  "LastChanged": "2023-05-01T22:56:59.3876007+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
   "MaxAwardTitle": "Educational",
   "NumberOfAwardsMax": 469,
-  "NumberOfAwards": 3120,
-  "Ranking_EOS_NewCompleters": 81,
+  "NumberOfAwards": 3125,
+  "Ranking_EOS_NewCompleters": 82,
   "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 369,

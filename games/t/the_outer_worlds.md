@@ -1,5 +1,5 @@
 # The Outer Worlds
-Rating: 4.63 (Ranked 327)  
+Rating: 4.63 (Ranked 328)  
 Number of Ratings: 2,487  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 1,729  (Ranked 108)  
