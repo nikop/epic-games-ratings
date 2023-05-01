@@ -1,5 +1,5 @@
 # Potion Craft: Alchemist Simulator
-Rating: 4.60 (Ranked 379)  
+Rating: 4.60 (Ranked 378)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 489)  
 Sum: 0 (Ranked 489)  

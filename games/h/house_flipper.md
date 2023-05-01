@@ -3,8 +3,8 @@ Rating: 4.70 (Ranked 192)
 Number of Ratings: 1,023  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 281  (Ranked 225)  
-Sum: 2,105 (Ranked 179)  
-Diff (max vs sum): 46
+Sum: 2,105 (Ranked 178)  
+Diff (max vs sum): 47
 ## Popularity (Based on EOS Achievements)
 Progressed: 18,630 (Ranked 91)  
 Completed: 19 (0.10%) (Ranked 150)  

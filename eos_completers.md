@@ -10,14 +10,14 @@
 | 8 | [Them and Us](games/t/them_and_us.md) | 12.50% |
 | 9 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.33% |
 | 10 | [Ravenlok](games/r/ravenlok.md) | 12.28% |
-| 11 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.90% |
+| 11 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.89% |
 | 12 | [Smelter](games/s/smelter.md) | 10.00% |
 | 13 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 14 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 15 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 17 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.40% |
-| 18 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.39% |
+| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.37% |
+| 18 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.36% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
 | 20 | [Scorn](games/s/scorn.md) | 7.15% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
@@ -30,7 +30,7 @@
 | 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.55% |
 | 29 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
 | 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.14% |
-| 31 | [Doodle God](games/d/doodle_god.md) | 4.08% |
+| 31 | [Doodle God](games/d/doodle_god.md) | 4.06% |
 | 32 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
 | 33 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 33 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.85% |
@@ -50,10 +50,10 @@
 | 48 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 49 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 50 | [JARS](games/j/jars.md) | 2.63% |
-| 51 | [ZZT!](games/z/zzt!.md) | 2.59% |
+| 51 | [ZZT!](games/z/zzt!.md) | 2.58% |
 | 52 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 53 | [Iron Danger](games/i/iron_danger.md) | 2.45% |
-| 54 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.28% |
+| 54 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.27% |
 | 55 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 56 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
 | 57 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -67,7 +67,7 @@
 | 65 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.55% |
 | 66 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.52% |
 | 67 | [Bloodshore](games/b/bloodshore.md) | 1.44% |
-| 68 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.43% |
+| 68 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.42% |
 | 69 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.33% |
 | 70 | [Chorus](games/c/chorus.md) | 1.30% |
 | 71 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.29% |
@@ -91,16 +91,16 @@
 | 88 | [Train Valley](games/t/train_valley.md) | 0.74% |
 | 90 | [Haven](games/h/haven.md) | 0.73% |
 | 91 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.67% |
-| 92 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.65% |
-| 92 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
+| 92 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.66% |
+| 93 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
 | 94 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 95 | [Ghostrunner](games/g/ghostrunner.md) | 0.53% |
 | 96 | [Grindstone](games/g/grindstone.md) | 0.52% |
 | 97 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.51% |
 | 98 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.50% |
 | 99 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
-| 100 | [Aragami 2](games/a/aragami_2.md) | 0.45% |
-| 100 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.45% |
+| 100 | [Aragami 2](games/a/aragami_2.md) | 0.46% |
+| 101 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.45% |
 | 102 | [Tails of Iron](games/t/tails_of_iron.md) | 0.44% |
 | 103 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.41% |
 | 103 | [Potion Permit](games/p/potion_permit.md) | 0.41% |
@@ -366,4 +366,4 @@
 | 191 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 191 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 191 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,532 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,533 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

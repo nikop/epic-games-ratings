@@ -1,5 +1,5 @@
 # Immortals Fenyx Rising Standard Edition
-Rating: 4.61 (Ranked 352)  
+Rating: 4.60 (Ranked 378)  
 Number of Ratings: 791  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 554  (Ranked 170)  
@@ -101,3 +101,4 @@ Diff (max vs sum): -77
 | 2023-04-22 | 4.60 | - | 552 | 803 |
 | 2023-04-25 | 4.60 | - | 554 | 806 |
 | 2023-04-27 | 4.61 | - | 554 | 806 |
+| 2023-05-01 | 4.60 | - | 554 | 806 |
