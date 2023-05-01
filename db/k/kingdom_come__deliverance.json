@@ -60,7 +60,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 1575
+      "Count": 1576
     },
     {
       "Text": "This game is Relaxing",
@@ -760,6 +760,11 @@
     {
       "Time": "2023-05-01T11:03:46.0035565+00:00",
       "NumProgressed": 778961,
+      "NumCompleted": 38
+    },
+    {
+      "Time": "2023-05-01T12:02:37.6786432+00:00",
+      "NumProgressed": 778974,
       "NumCompleted": 38
     }
   ],
@@ -4894,21 +4899,27 @@
       "Rating": 4.71,
       "NumberOfAwards": 26663,
       "NumberOfAwardsMax": 7126
+    },
+    {
+      "Time": "2023-05-01T11:58:08.4570414+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26664,
+      "NumberOfAwardsMax": 7126
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 1048,
+  "EOS_NewPlayers": 1061,
   "EOS_Completed": 38,
-  "EOS_Progressed": 778961,
-  "LastUpdate_Achievements": "2023-05-01T11:03:46.0035623+00:00",
-  "LastUpdate_Ratings": "2023-05-01T10:58:05.9407486+00:00",
-  "LastChanged_Achievements": "2023-05-01T11:03:46.0035561+00:00",
-  "LastChanged": "2023-04-30T17:58:12.3358631+00:00",
+  "EOS_Progressed": 778974,
+  "LastUpdate_Achievements": "2023-05-01T12:02:37.6786494+00:00",
+  "LastUpdate_Ratings": "2023-05-01T11:58:08.4570424+00:00",
+  "LastChanged_Achievements": "2023-05-01T12:02:37.6786424+00:00",
+  "LastChanged": "2023-05-01T11:58:08.4570345+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 7126,
-  "NumberOfAwards": 26663,
+  "NumberOfAwards": 26664,
   "NumberOfRatings": 9133,
   "Ranking_EOS_NewCompleters": 49,
   "Ranking_EOS_NewPlayers": 42,

@@ -15,16 +15,16 @@
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.47% |
-| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.43% |
+| 16 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.43% |
+| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.41% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
 | 19 | [Scorn](games/s/scorn.md) | 7.15% |
 | 20 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 21 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.20% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 23 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.71% |
-| 24 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 5.26% |
-| 25 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.04% |
+| 24 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.04% |
+| 25 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 5.00% |
 | 26 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
 | 27 | [Bugsnax](games/b/bugsnax.md) | 4.59% |
 | 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.55% |
@@ -76,7 +76,7 @@
 | 74 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.23% |
 | 75 | [Late Shift](games/l/late_shift.md) | 1.20% |
 | 76 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.18% |
-| 77 | [Ten Dates](games/t/ten_dates.md) | 1.06% |
+| 77 | [Ten Dates](games/t/ten_dates.md) | 1.05% |
 | 78 | [Dungeons 3](games/d/dungeons_3.md) | 0.96% |
 | 79 | [Sable](games/s/sable.md) | 0.91% |
 | 80 | [Five Dates](games/f/five_dates.md) | 0.89% |

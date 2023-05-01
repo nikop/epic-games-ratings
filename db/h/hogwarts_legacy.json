@@ -18,7 +18,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 574
+      "Count": 578
     },
     {
       "Text": "This game has Amazing Characters",
@@ -744,6 +744,11 @@
     {
       "Time": "2023-05-01T11:02:26.0532646+00:00",
       "NumProgressed": 264970,
+      "NumCompleted": 340
+    },
+    {
+      "Time": "2023-05-01T12:01:32.1069665+00:00",
+      "NumProgressed": 264979,
       "NumCompleted": 340
     }
   ],
@@ -2361,24 +2366,30 @@
       "Rating": 4.78,
       "NumberOfAwards": 33122,
       "NumberOfAwardsMax": 18234
+    },
+    {
+      "Time": "2023-05-01T11:57:04.274003+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 33126,
+      "NumberOfAwardsMax": 18234
     }
   ],
   "EOS_Completed_Percentage": 0.13,
   "EOS_NewCompleters": 7,
-  "EOS_NewPlayers": 993,
+  "EOS_NewPlayers": 1002,
   "EOS_Completed": 340,
-  "EOS_Progressed": 264970,
-  "LastUpdate_Achievements": "2023-05-01T11:02:26.0532701+00:00",
-  "LastUpdate_Ratings": "2023-05-01T10:56:54.1698326+00:00",
-  "LastChanged_Achievements": "2023-05-01T11:02:26.0532641+00:00",
-  "LastChanged": "2023-05-01T06:57:10.0885055+00:00",
+  "EOS_Progressed": 264979,
+  "LastUpdate_Achievements": "2023-05-01T12:01:32.1069722+00:00",
+  "LastUpdate_Ratings": "2023-05-01T11:57:04.2740038+00:00",
+  "LastChanged_Achievements": "2023-05-01T12:01:32.1069658+00:00",
+  "LastChanged": "2023-05-01T11:57:04.2740028+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 18234,
-  "NumberOfAwards": 33122,
+  "NumberOfAwards": 33126,
   "Ranking_EOS_NewCompleters": 20,
-  "Ranking_EOS_NewPlayers": 47,
+  "Ranking_EOS_NewPlayers": 46,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_Progress": 38,
   "Ranking_PopularitySum": 34,

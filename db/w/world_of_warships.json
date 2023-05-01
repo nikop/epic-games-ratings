@@ -12,7 +12,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 965
+      "Count": 970
     },
     {
       "Text": "This game is Highly Recommended",
@@ -30,7 +30,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 855
+      "Count": 859
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3955,6 +3955,12 @@
       "Rating": 4.43,
       "NumberOfAwards": 9023,
       "NumberOfAwardsMax": 1024
+    },
+    {
+      "Time": "2023-05-01T11:58:32.6535228+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 9032,
+      "NumberOfAwardsMax": 1024
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -3962,12 +3968,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-01T11:03:57.1190054+00:00",
-  "LastUpdate_Ratings": "2023-05-01T10:58:32.7396583+00:00",
-  "LastChanged": "2023-04-30T20:58:36.0769942+00:00",
+  "LastUpdate_Achievements": "2023-05-01T12:03:18.1839162+00:00",
+  "LastUpdate_Ratings": "2023-05-01T11:58:32.6535234+00:00",
+  "LastChanged": "2023-05-01T11:58:32.6535224+00:00",
   "MaxAwardTitle": "Relaxing",
   "NumberOfAwardsMax": 1024,
-  "NumberOfAwards": 9023,
+  "NumberOfAwards": 9032,
   "NumberOfRatings": 4733,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 265,
