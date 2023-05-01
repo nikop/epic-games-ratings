@@ -117,9 +117,9 @@
 | 114 | [Tchia](games/t/tchia.md) | 0.31% |
 | 114 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 114 | [The Surge](games/t/the_surge.md) | 0.31% |
+| 118 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.30% |
 | 118 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
-| 119 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
-| 119 | [Aegis Descent](games/a/aegis_descent.md) | 0.29% |
+| 120 | [Aegis Descent](games/a/aegis_descent.md) | 0.29% |
 | 121 | [Despot's Game](games/d/despot's_game.md) | 0.28% |
 | 122 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
 | 122 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.27% |

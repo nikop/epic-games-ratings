@@ -101,8 +101,8 @@
 | 91 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 905 | 141 |
 | 91 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 488 |
 | 101 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,654 | 65 |
-| 101 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,775 | 36 |
-| 101 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 18,160 | 18 |
+| 101 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,787 | 36 |
+| 101 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 18,234 | 18 |
 | 101 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 97 | 322 |
 | 105 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 2,550 | 88 |
 | 105 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,929 | 74 |
@@ -353,7 +353,7 @@
 | 337 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.62 | 0 | 488 |
 | 352 | [20XX](games/2/20xx.md) | 4.61 | 36 | 418 |
 | 352 | [ABZU](games/a/abzu.md) | 4.61 | 0 | 488 |
-| 352 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 127 | 293 |
+| 352 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 128 | 291 |
 | 352 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 3,993 | 72 |
 | 352 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 488 |
 | 352 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 212 | 249 |
@@ -466,7 +466,7 @@
 | 444 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 48 | 387 |
 | 444 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 3,799 | 75 |
 | 466 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 0 | 488 |
-| 466 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,111 | 126 |
+| 466 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,116 | 126 |
 | 466 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 21 | 476 |
 | 466 | [Hue](games/h/hue.md) | 4.55 | 0 | 488 |
 | 466 | [Outward](games/o/outward.md) | 4.55 | 31 | 438 |
@@ -485,7 +485,7 @@
 | 475 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 0 | 488 |
 | 475 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 493 | 183 |
 | 475 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 272 | 228 |
-| 475 | [VALORANT](games/v/valorant.md) | 4.54 | 50,543 | 11 |
+| 475 | [VALORANT](games/v/valorant.md) | 4.54 | 50,673 | 11 |
 | 475 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 28 | 448 |
 | 488 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 488 |
 | 488 | [Aztez](games/a/aztez.md) | 4.53 | 0 | 488 |
@@ -564,7 +564,6 @@
 | 546 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.49 | 0 | 488 |
 | 546 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 0 | 488 |
 | 564 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 488 |
-| 564 | [Breathedge](games/b/breathedge.md) | 4.48 | 0 | 488 |
 | 564 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 0 | 488 |
 | 564 | [Hell is Others](games/h/hell_is_others.md) | 4.48 | 0 | 488 |
 | 564 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.48 | 0 | 488 |
@@ -575,21 +574,22 @@
 | 564 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 0 | 488 |
 | 564 | [The Escapists](games/t/the_escapists.md) | 4.48 | 0 | 488 |
 | 564 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 36 | 418 |
-| 576 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 0 | 488 |
-| 576 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 0 | 488 |
-| 576 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 488 |
-| 576 | [Chorus](games/c/chorus.md) | 4.47 | 32 | 432 |
-| 576 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.47 | 0 | 488 |
-| 576 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,433 | 79 |
-| 576 | [Riverbond](games/r/riverbond.md) | 4.47 | 0 | 488 |
-| 576 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 0 | 488 |
-| 576 | [Scorn](games/s/scorn.md) | 4.47 | 0 | 488 |
-| 576 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.47 | 0 | 488 |
-| 576 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 0 | 488 |
-| 576 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 98 | 321 |
-| 576 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 6,640 | 47 |
-| 576 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 488 |
-| 576 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 0 | 488 |
+| 575 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 0 | 488 |
+| 575 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 0 | 488 |
+| 575 | [Breathedge](games/b/breathedge.md) | 4.47 | 0 | 488 |
+| 575 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 488 |
+| 575 | [Chorus](games/c/chorus.md) | 4.47 | 32 | 432 |
+| 575 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.47 | 0 | 488 |
+| 575 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,433 | 79 |
+| 575 | [Riverbond](games/r/riverbond.md) | 4.47 | 0 | 488 |
+| 575 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 0 | 488 |
+| 575 | [Scorn](games/s/scorn.md) | 4.47 | 0 | 488 |
+| 575 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.47 | 0 | 488 |
+| 575 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 0 | 488 |
+| 575 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 98 | 321 |
+| 575 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 6,640 | 47 |
+| 575 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 488 |
+| 575 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 0 | 488 |
 | 591 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 488 |
 | 591 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,245 | 81 |
 | 591 | [Figment](games/f/figment.md) | 4.46 | 20 | 480 |
