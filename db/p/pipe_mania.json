@@ -3,16 +3,28 @@
   "Name": "Pipe Mania",
   "Tags": [],
   "EosHistory": [],
-  "RatingHistory": [],
+  "RatingHistory": [
+    {
+      "Time": "2023-05-01T16:00:30.2294055+00:00",
+      "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-01T15:05:48.019039+00:00",
-  "LastUpdate_Ratings": "2023-05-01T15:00:24.5588086+00:00",
+  "LastUpdate_Achievements": "2023-05-01T16:05:58.2111029+00:00",
+  "LastUpdate_Ratings": "2023-05-01T16:00:30.2294065+00:00",
+  "LastChanged": "2023-05-01T16:00:30.2294052+00:00",
+  "FirstSeenRating": "2023-05-01T16:00:30.2294051+00:00",
+  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 368
+  "Ranking_EOS_Progress": 368,
+  "FirstSeen": "2023-05-01T16:00:30.2294015+00:00"
 }

@@ -2,9 +2,9 @@
 Rating: 4.33 (Ranked 730)  
 Number of Ratings: 39  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 58  (Ranked 377)  
+Max (Diverse Characters): 58  (Ranked 378)  
 Sum: 352 (Ranked 311)  
-Diff (max vs sum): 66
+Diff (max vs sum): 67
 ## Awards
 | Award | Count |
 | ----- | ----- |

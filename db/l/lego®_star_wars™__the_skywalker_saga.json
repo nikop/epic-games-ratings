@@ -250,6 +250,11 @@
       "Time": "2023-05-01T13:11:04.2218422+00:00",
       "NumProgressed": 39155,
       "NumCompleted": 160
+    },
+    {
+      "Time": "2023-05-01T16:06:03.3908871+00:00",
+      "NumProgressed": 39156,
+      "NumCompleted": 160
     }
   ],
   "RatingHistory": [
@@ -2081,12 +2086,12 @@
   ],
   "EOS_Completed_Percentage": 0.41,
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_Completed": 160,
-  "EOS_Progressed": 39155,
-  "LastUpdate_Achievements": "2023-05-01T15:05:53.1825164+00:00",
-  "LastUpdate_Ratings": "2023-05-01T15:00:24.9786121+00:00",
-  "LastChanged_Achievements": "2023-05-01T15:05:53.1825107+00:00",
+  "EOS_Progressed": 39156,
+  "LastUpdate_Achievements": "2023-05-01T16:06:03.3908928+00:00",
+  "LastUpdate_Ratings": "2023-05-01T16:00:30.547061+00:00",
+  "LastChanged_Achievements": "2023-05-01T16:06:03.3908856+00:00",
   "LastChanged": "2023-04-30T21:00:27.8923492+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "MaxAwardTitle": "Great Boss Battles",

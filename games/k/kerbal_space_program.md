@@ -2,8 +2,8 @@
 Rating: 4.79 (Ranked 91)  
 ## Popularity (Based on Awards)
 Max (Educational): 469  (Ranked 185)  
-Sum: 3,117 (Ranked 144)  
-Diff (max vs sum): 41
+Sum: 3,117 (Ranked 145)  
+Diff (max vs sum): 40
 ## Awards
 | Award | Count |
 | ----- | ----- |
