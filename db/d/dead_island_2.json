@@ -54,7 +54,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 35
+      "Count": 56
     }
   ],
   "EosHistory": [
@@ -797,6 +797,11 @@
       "Time": "2023-05-01T21:02:35.9317278+00:00",
       "NumProgressed": 432229,
       "NumCompleted": 514
+    },
+    {
+      "Time": "2023-05-01T22:02:16.4593056+00:00",
+      "NumProgressed": 432703,
+      "NumCompleted": 517
     }
   ],
   "RatingHistory": [
@@ -1141,27 +1146,33 @@
       "Rating": 4.54,
       "NumberOfAwards": 2293,
       "NumberOfAwardsMax": 1827
+    },
+    {
+      "Time": "2023-05-01T21:57:59.8097997+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2349,
+      "NumberOfAwardsMax": 1827
     }
   ],
   "EOS_Completed_Percentage": 0.12,
-  "EOS_NewCompleters": 432,
-  "EOS_NewPlayers": 115905,
-  "EOS_Completed": 514,
-  "EOS_Progressed": 432229,
-  "LastUpdate_Achievements": "2023-05-01T21:02:35.9317368+00:00",
-  "LastUpdate_Ratings": "2023-05-01T20:58:19.5355737+00:00",
-  "LastChanged_Achievements": "2023-05-01T21:02:35.9317272+00:00",
-  "LastChanged": "2023-05-01T19:58:03.74502+00:00",
+  "EOS_NewCompleters": 435,
+  "EOS_NewPlayers": 116379,
+  "EOS_Completed": 517,
+  "EOS_Progressed": 432703,
+  "LastUpdate_Achievements": "2023-05-01T22:02:16.4593107+00:00",
+  "LastUpdate_Ratings": "2023-05-01T21:57:59.8098+00:00",
+  "LastChanged_Achievements": "2023-05-01T22:02:16.4593049+00:00",
+  "LastChanged": "2023-05-01T21:57:59.8097996+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 1827,
-  "NumberOfAwards": 2293,
+  "NumberOfAwards": 2349,
   "Ranking_EOS_NewCompleters": 1,
   "Ranking_EOS_NewPlayers": 4,
   "Ranking_EOS_Completed": 146,
   "Ranking_EOS_Progress": 29,
-  "Ranking_PopularitySum": 173,
+  "Ranking_PopularitySum": 168,
   "Ranking_Popularity": 104,
   "Ranking_Rating": 475,
   "Rating": 4.54,

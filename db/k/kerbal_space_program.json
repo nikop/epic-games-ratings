@@ -48,7 +48,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 289
+      "Count": 292
     }
   ],
   "EosHistory": [],
@@ -1172,6 +1172,12 @@
       "Rating": 4.79,
       "NumberOfAwards": 3117,
       "NumberOfAwardsMax": 469
+    },
+    {
+      "Time": "2023-05-01T21:57:10.3720259+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 3120,
+      "NumberOfAwardsMax": 469
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -1179,13 +1185,13 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-01T21:01:33.7352679+00:00",
-  "LastUpdate_Ratings": "2023-05-01T20:57:02.7195047+00:00",
-  "LastChanged": "2023-05-01T13:01:51.7333461+00:00",
+  "LastUpdate_Achievements": "2023-05-01T21:59:57.3508298+00:00",
+  "LastUpdate_Ratings": "2023-05-01T21:57:10.3720262+00:00",
+  "LastChanged": "2023-05-01T21:57:10.3720257+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
   "MaxAwardTitle": "Educational",
   "NumberOfAwardsMax": 469,
-  "NumberOfAwards": 3117,
+  "NumberOfAwards": 3120,
   "Ranking_EOS_NewCompleters": 81,
   "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_Completed": 191,

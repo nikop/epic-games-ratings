@@ -1,5 +1,5 @@
 # Axiom Verge 2
-Rating: 4.57 (Ranked 425)  
+Rating: 4.57 (Ranked 426)  
 Number of Ratings: 40  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 489)  

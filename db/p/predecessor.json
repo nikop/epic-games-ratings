@@ -55,6 +55,12 @@
       "Prefix": "",
       "Type": "",
       "Count": 22
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 48
     }
   ],
   "EosHistory": [],
@@ -806,6 +812,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 433,
       "NumberOfAwardsMax": 67
+    },
+    {
+      "Time": "2023-05-01T21:59:45.7927568+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 481,
+      "NumberOfAwardsMax": 67
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -813,18 +825,18 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-01T21:05:55.7792764+00:00",
-  "LastUpdate_Ratings": "2023-05-01T21:01:13.2505458+00:00",
-  "LastChanged": "2023-05-01T19:01:19.7613595+00:00",
+  "LastUpdate_Achievements": "2023-05-01T22:05:09.0158626+00:00",
+  "LastUpdate_Ratings": "2023-05-01T21:59:45.792757+00:00",
+  "LastChanged": "2023-05-01T21:59:45.7927566+00:00",
   "FirstSeenRating": "2022-12-02T07:57:13.3206902+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 67,
-  "NumberOfAwards": 433,
+  "NumberOfAwards": 481,
   "Ranking_EOS_NewCompleters": 81,
   "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 369,
-  "Ranking_PopularitySum": 292,
+  "Ranking_PopularitySum": 290,
   "Ranking_Popularity": 363,
   "Ranking_Rating": 600,
   "Rating": 4.45,

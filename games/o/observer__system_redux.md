@@ -1,5 +1,5 @@
 # Observer: System Redux
-Rating: 4.48 (Ranked 566)  
+Rating: 4.48 (Ranked 565)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 489)  
 Sum: 0 (Ranked 489)  

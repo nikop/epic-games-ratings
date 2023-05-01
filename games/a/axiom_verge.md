@@ -1,5 +1,5 @@
 # AXIOM VERGE
-Rating: 4.56 (Ranked 444)  
+Rating: 4.57 (Ranked 426)  
 Number of Ratings: 132  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 46  (Ranked 394)  
@@ -79,3 +79,4 @@ Diff (max vs sum): -39
 | 2023-02-27 | 4.56 | - | - | - |
 | 2023-03-14 | 4.55 | - | - | - |
 | 2023-03-27 | 4.56 | - | - | - |
+| 2023-05-01 | 4.57 | - | 46 | 46 |

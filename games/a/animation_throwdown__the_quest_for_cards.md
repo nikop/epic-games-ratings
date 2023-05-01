@@ -1,5 +1,5 @@
 # Animation Throwdown: The Quest for Cards
-Rating: 4.33 (Ranked 729)  
+Rating: 4.33 (Ranked 730)  
 Number of Ratings: 874  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Quick Sessions): 341  (Ranked 210)  

@@ -1,11 +1,11 @@
 # Arcade Paradise
-Rating: 4.57 (Ranked 425)  
+Rating: 4.57 (Ranked 426)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 489)  
 Sum: 0 (Ranked 489)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 574 (Ranked 180)  
+Progressed: 574 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |

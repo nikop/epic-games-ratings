@@ -6,7 +6,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 591
+      "Count": 593
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -850,6 +850,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 613,
       "NumberOfAwardsMax": 591
+    },
+    {
+      "Time": "2023-05-01T21:59:39.5623094+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 615,
+      "NumberOfAwardsMax": 593
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -857,12 +863,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-01T21:05:43.9117339+00:00",
-  "LastUpdate_Ratings": "2023-05-01T21:00:59.6002864+00:00",
-  "LastChanged": "2023-04-30T18:00:34.7081098+00:00",
+  "LastUpdate_Achievements": "2023-05-01T22:05:00.4399807+00:00",
+  "LastUpdate_Ratings": "2023-05-01T21:59:39.5623098+00:00",
+  "LastChanged": "2023-05-01T21:59:39.562309+00:00",
   "MaxAwardTitle": "Character Customization",
-  "NumberOfAwardsMax": 591,
-  "NumberOfAwards": 613,
+  "NumberOfAwardsMax": 593,
+  "NumberOfAwards": 615,
   "NumberOfRatings": 900,
   "Ranking_EOS_NewCompleters": 81,
   "Ranking_EOS_NewPlayers": 266,
