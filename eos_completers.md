@@ -5,8 +5,8 @@
 | 3 | [Doodle Devil](games/d/doodle_devil.md) | 19.72% |
 | 4 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 5 | [Island Cities](games/i/island_cities.md) | 18.60% |
-| 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 14.29% |
-| 7 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
+| 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 13.64% |
+| 6 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 8 | [Them and Us](games/t/them_and_us.md) | 12.50% |
 | 9 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.33% |
 | 10 | [Ravenlok](games/r/ravenlok.md) | 12.07% |
@@ -18,7 +18,7 @@
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.45% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.29% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.21% |
 | 20 | [Scorn](games/s/scorn.md) | 7.15% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.11% |
@@ -86,9 +86,9 @@
 | 84 | [Lemon Cake](games/l/lemon_cake.md) | 0.86% |
 | 85 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.83% |
 | 86 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
-| 87 | [Adios](games/a/adios.md) | 0.79% |
-| 88 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
-| 88 | [Train Valley](games/t/train_valley.md) | 0.74% |
+| 87 | [Adios](games/a/adios.md) | 0.78% |
+| 88 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
+| 89 | [Train Valley](games/t/train_valley.md) | 0.74% |
 | 90 | [Haven](games/h/haven.md) | 0.73% |
 | 91 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.67% |
 | 92 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.66% |
@@ -109,8 +109,8 @@
 | 107 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 108 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.35% |
 | 109 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.34% |
-| 109 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.34% |
-| 111 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
+| 110 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
+| 110 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
 | 112 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
 | 112 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
 | 114 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |

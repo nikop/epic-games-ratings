@@ -1,14 +1,14 @@
 # Star Stable Online
-Rating: 4.42 (Ranked 641)  
+Rating: 4.41 (Ranked 652)  
 Number of Ratings: 317  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 123  (Ranked 296)  
-Sum: 911 (Ranked 233)  
-Diff (max vs sum): 63
+Max (Great for Beginners): 124  (Ranked 295)  
+Sum: 912 (Ranked 233)  
+Diff (max vs sum): 62
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 123 |
+| This game is Great for Beginners | 124 |
 | This game is Relaxing | 105 |
 | This game has Amazing Characters | 104 |
 | This game is Highly Recommended | 104 |
@@ -146,4 +146,4 @@ Diff (max vs sum): 63
 | 2023-04-26 | 4.42 | - | 122 | 902 |
 | 2023-04-27 | 4.42 | - | 122 | 906 |
 | 2023-04-30 | 4.42 | - | 123 | 910 |
-| 2023-05-01 | 4.42 | - | 123 | 911 |
+| 2023-05-01 | 4.42 | - | 124 | 912 |

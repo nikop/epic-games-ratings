@@ -1,14 +1,14 @@
 # F.I.S.T.: Forged In Shadow Torch
-Rating: 4.56 (Ranked 444)  
+Rating: 4.56 (Ranked 443)  
 Number of Ratings: 572  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 732  (Ranked 151)  
-Sum: 772 (Ranked 250)  
-Diff (max vs sum): -99
+Max (Great Boss Battles): 733  (Ranked 151)  
+Sum: 773 (Ranked 249)  
+Diff (max vs sum): -98
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 732 |
+| This game has Great Boss Battles | 733 |
 | This game is Extremely Fun | 20 |
 | This game has Quickly Understood Controls | 20 |
 ## Ratings History
@@ -117,3 +117,4 @@ Diff (max vs sum): -99
 | 2023-04-27 | 4.56 | - | 729 | 769 |
 | 2023-04-29 | 4.56 | - | 730 | 770 |
 | 2023-04-30 | 4.56 | - | 732 | 772 |
+| 2023-05-01 | 4.56 | - | 733 | 773 |

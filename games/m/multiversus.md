@@ -1,12 +1,12 @@
 # MultiVersus
-Rating: 4.56 (Ranked 444)  
+Rating: 4.56 (Ranked 443)  
 Number of Ratings: 55,748  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 4,736  (Ranked 64)  
 Sum: 45,648 (Ranked 25)  
 Diff (max vs sum): 39
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,067,291 (Ranked 9)  
+Progressed: 1,067,314 (Ranked 9)  
 Completed: 31,615 (2.96%) (Ranked 43)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -17,7 +17,7 @@ Completed: 31,615 (2.96%) (Ranked 43)
 | 2023-04-28 | 1,066,311 | 31,613 |
 | 2023-04-29 | 1,066,688 | 31,613 |
 | 2023-04-30 | 1,067,058 | 31,615 |
-| 2023-05-01 | 1,067,291 | 31,615 |
+| 2023-05-01 | 1,067,314 | 31,615 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
