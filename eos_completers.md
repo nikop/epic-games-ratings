@@ -6,17 +6,17 @@
 | 4 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 5 | [Island Cities](games/i/island_cities.md) | 13.95% |
 | 6 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
-| 7 | [Ravenlok](games/r/ravenlok.md) | 12.50% |
 | 7 | [Them and Us](games/t/them_and_us.md) | 12.50% |
-| 9 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.33% |
+| 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.33% |
+| 9 | [Ravenlok](games/r/ravenlok.md) | 12.28% |
 | 10 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.90% |
 | 11 | [Smelter](games/s/smelter.md) | 10.00% |
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.43% |
-| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.41% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.41% |
+| 17 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.35% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
 | 19 | [Scorn](games/s/scorn.md) | 7.15% |
 | 20 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
@@ -24,7 +24,7 @@
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 23 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.71% |
 | 24 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.04% |
-| 25 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 5.00% |
+| 25 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 4.76% |
 | 26 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
 | 27 | [Bugsnax](games/b/bugsnax.md) | 4.59% |
 | 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.55% |
@@ -53,7 +53,7 @@
 | 51 | [ZZT!](games/z/zzt!.md) | 2.59% |
 | 52 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 53 | [Iron Danger](games/i/iron_danger.md) | 2.45% |
-| 54 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.26% |
+| 54 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.27% |
 | 55 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 56 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
 | 57 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -138,10 +138,10 @@
 | 135 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
 | 137 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
 | 137 | [RAILGRADE](games/r/railgrade.md) | 0.15% |
-| 139 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.14% |
-| 139 | [Isonzo](games/i/isonzo.md) | 0.14% |
-| 139 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.14% |
-| 139 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
+| 137 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
+| 140 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.14% |
+| 140 | [Isonzo](games/i/isonzo.md) | 0.14% |
+| 140 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
 | 143 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.13% |
 | 143 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.13% |
 | 143 | [Weird West](games/w/weird_west.md) | 0.13% |

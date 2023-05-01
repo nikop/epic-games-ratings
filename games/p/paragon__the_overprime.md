@@ -2,7 +2,7 @@
 Rating: 4.24 (Ranked 778)  
 ## Popularity (Based on Awards)
 Max (Competitive Players): 348  (Ranked 208)  
-Sum: 2,756 (Ranked 155)  
+Sum: 2,758 (Ranked 155)  
 Diff (max vs sum): 53
 ## Awards
 | Award | Count |
@@ -15,7 +15,7 @@ Diff (max vs sum): 53
 | This game has Amazing Characters | 317 |
 | This game has Challenging Combat | 309 |
 | This game has Amazing Storytelling | 240 |
-| This game has a Competitive Community | 210 |
+| This game has a Competitive Community | 212 |
 | This game has Great Boss Battles | 109 |
 | This game has Unique Visuals | 40 |
 | This game is Great for Beginners | 33 |
@@ -91,4 +91,4 @@ Diff (max vs sum): 53
 | 2023-04-28 | 4.24 | 339 | 2,711 |
 | 2023-04-29 | 4.24 | 342 | 2,732 |
 | 2023-04-30 | 4.24 | 348 | 2,754 |
-| 2023-05-01 | 4.24 | 348 | 2,756 |
+| 2023-05-01 | 4.24 | 348 | 2,758 |

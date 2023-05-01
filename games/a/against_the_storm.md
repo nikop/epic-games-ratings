@@ -3,7 +3,7 @@ Rating: 4.81 (Ranked 72)
 Number of Ratings: 1,845  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 417  (Ranked 191)  
-Sum: 3,009 (Ranked 148)  
+Sum: 3,010 (Ranked 148)  
 Diff (max vs sum): 43
 ## Popularity (Based on EOS Achievements)
 Progressed: 14,588 (Ranked 96)  
@@ -26,7 +26,7 @@ Completed: 30 (0.21%) (Ranked 128)
 | This game is Extremely Fun | 389 |
 | This game is Highly Recommended | 369 |
 | This game is Great for Beginners | 369 |
-| This game has Unique Visuals | 298 |
+| This game has Unique Visuals | 299 |
 | This game has Amazing Storytelling | 297 |
 | This game has Amazing Characters | 268 |
 | This game has Obsessive Gameplay | 254 |
@@ -140,4 +140,4 @@ Completed: 30 (0.21%) (Ranked 128)
 | 2023-04-28 | 4.81 | - | 417 | 3,000 |
 | 2023-04-29 | 4.81 | - | 417 | 3,002 |
 | 2023-04-30 | 4.81 | - | 417 | 3,008 |
-| 2023-05-01 | 4.81 | - | 417 | 3,009 |
+| 2023-05-01 | 4.81 | - | 417 | 3,010 |

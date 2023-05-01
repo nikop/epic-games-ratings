@@ -66,7 +66,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 645
+      "Count": 648
     }
   ],
   "EosHistory": [],
@@ -3897,6 +3897,12 @@
       "Rating": 4.82,
       "NumberOfAwards": 9659,
       "NumberOfAwardsMax": 1242
+    },
+    {
+      "Time": "2023-05-01T13:02:12.2625087+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 9662,
+      "NumberOfAwardsMax": 1242
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -3904,14 +3910,14 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-01T12:01:47.3768555+00:00",
-  "LastUpdate_Ratings": "2023-05-01T11:57:24.138332+00:00",
-  "LastChanged": "2023-05-01T08:57:08.09966+00:00",
+  "LastUpdate_Achievements": "2023-05-01T13:07:27.5126415+00:00",
+  "LastUpdate_Ratings": "2023-05-01T13:02:12.2625095+00:00",
+  "LastChanged": "2023-05-01T13:02:12.2625084+00:00",
   "MaxAwardTitle": "Relaxing",
   "NumberOfAwardsMax": 1242,
-  "NumberOfAwards": 9659,
+  "NumberOfAwards": 9662,
   "NumberOfRatings": 4392,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 368,
