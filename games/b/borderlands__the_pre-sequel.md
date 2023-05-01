@@ -1,5 +1,5 @@
 # Borderlands: The Pre-Sequel
-Rating: 4.49 (Ranked 546)  
+Rating: 4.49 (Ranked 547)  
 Number of Ratings: 2,939  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 393  (Ranked 199)  
