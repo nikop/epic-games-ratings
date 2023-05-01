@@ -36,7 +36,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 2641
+      "Count": 2645
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4437,6 +4437,12 @@
       "Rating": 4.53,
       "NumberOfAwards": 48983,
       "NumberOfAwardsMax": 19634
+    },
+    {
+      "Time": "2023-05-01T06:59:02.1333067+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 48987,
+      "NumberOfAwardsMax": 19634
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -4444,12 +4450,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-01T06:03:47.264197+00:00",
-  "LastUpdate_Ratings": "2023-05-01T05:58:29.4001353+00:00",
-  "LastChanged": "2023-04-30T20:58:54.1158066+00:00",
+  "LastUpdate_Achievements": "2023-05-01T07:04:09.6551403+00:00",
+  "LastUpdate_Ratings": "2023-05-01T06:59:02.1333073+00:00",
+  "LastChanged": "2023-05-01T06:59:02.1333065+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 19634,
-  "NumberOfAwards": 48983,
+  "NumberOfAwards": 48987,
   "NumberOfRatings": 23656,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 260,

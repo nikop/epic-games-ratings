@@ -15,9 +15,9 @@
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.46% |
-| 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
-| 18 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.30% |
+| 16 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.57% |
+| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.46% |
+| 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
 | 19 | [Scorn](games/s/scorn.md) | 7.16% |
 | 20 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 21 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.20% |
@@ -50,7 +50,7 @@
 | 48 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 49 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 50 | [JARS](games/j/jars.md) | 2.63% |
-| 51 | [ZZT!](games/z/zzt!.md) | 2.60% |
+| 51 | [ZZT!](games/z/zzt!.md) | 2.59% |
 | 52 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 53 | [Iron Danger](games/i/iron_danger.md) | 2.45% |
 | 54 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.26% |
@@ -138,13 +138,13 @@
 | 135 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
 | 137 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
 | 137 | [RAILGRADE](games/r/railgrade.md) | 0.15% |
-| 139 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.14% |
 | 139 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.14% |
 | 139 | [Isonzo](games/i/isonzo.md) | 0.14% |
 | 139 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.14% |
 | 139 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
-| 144 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.13% |
-| 144 | [Weird West](games/w/weird_west.md) | 0.13% |
+| 143 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.13% |
+| 143 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.13% |
+| 143 | [Weird West](games/w/weird_west.md) | 0.13% |
 | 146 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 146 | [Partisans 1941](games/p/partisans_1941.md) | 0.12% |
 | 148 | [Dead Island 2](games/d/dead_island_2.md) | 0.11% |
@@ -366,4 +366,4 @@
 | 191 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 191 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 191 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,530 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,531 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

@@ -12,7 +12,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 8436
+      "Count": 8485
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -60,7 +60,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 675
+      "Count": 683
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -719,6 +719,11 @@
     {
       "Time": "2023-05-01T06:00:33.604064+00:00",
       "NumProgressed": 264948,
+      "NumCompleted": 340
+    },
+    {
+      "Time": "2023-05-01T07:02:12.3843518+00:00",
+      "NumProgressed": 264952,
       "NumCompleted": 340
     }
   ],
@@ -2330,25 +2335,31 @@
       "Rating": 4.78,
       "NumberOfAwards": 33065,
       "NumberOfAwardsMax": 18234
+    },
+    {
+      "Time": "2023-05-01T06:57:10.0885057+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 33122,
+      "NumberOfAwardsMax": 18234
     }
   ],
   "EOS_Completed_Percentage": 0.13,
   "EOS_NewCompleters": 7,
-  "EOS_NewPlayers": 971,
+  "EOS_NewPlayers": 975,
   "EOS_Completed": 340,
-  "EOS_Progressed": 264948,
-  "LastUpdate_Achievements": "2023-05-01T06:00:33.6040774+00:00",
-  "LastUpdate_Ratings": "2023-05-01T05:57:04.2907998+00:00",
-  "LastChanged_Achievements": "2023-05-01T06:00:33.6040636+00:00",
-  "LastChanged": "2023-04-30T23:57:11.9910639+00:00",
+  "EOS_Progressed": 264952,
+  "LastUpdate_Achievements": "2023-05-01T07:02:12.3843594+00:00",
+  "LastUpdate_Ratings": "2023-05-01T06:57:10.0885063+00:00",
+  "LastChanged_Achievements": "2023-05-01T07:02:12.38435+00:00",
+  "LastChanged": "2023-05-01T06:57:10.0885055+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 18234,
-  "NumberOfAwards": 33065,
+  "NumberOfAwards": 33122,
   "Ranking_EOS_NewCompleters": 20,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_Completed": 144,
+  "Ranking_EOS_Completed": 143,
   "Ranking_EOS_Progress": 38,
   "Ranking_PopularitySum": 34,
   "Ranking_Popularity": 18,

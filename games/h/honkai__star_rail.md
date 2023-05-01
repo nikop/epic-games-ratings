@@ -1,5 +1,5 @@
 # Honkai: Star Rail
-Rating: 4.64 (Ranked 310)  
+Rating: 4.65 (Ranked 287)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 489)  
 Sum: 0 (Ranked 489)  
@@ -15,3 +15,4 @@ Diff (max vs sum): 0
 | 2023-04-28 | 4.57 | 0 | 0 |
 | 2023-04-29 | 4.62 | 0 | 0 |
 | 2023-04-30 | 4.64 | 0 | 0 |
+| 2023-05-01 | 4.65 | 0 | 0 |

@@ -60,7 +60,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 13318
+      "Count": 13365
     },
     {
       "Text": "This game is Relaxing",
@@ -5201,6 +5201,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 349372,
       "NumberOfAwardsMax": 137446
+    },
+    {
+      "Time": "2023-05-01T06:59:03.3096113+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 349419,
+      "NumberOfAwardsMax": 137446
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -5208,12 +5214,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-01T06:03:50.8092113+00:00",
-  "LastUpdate_Ratings": "2023-05-01T05:58:30.3540522+00:00",
-  "LastChanged": "2023-05-01T05:58:30.3540515+00:00",
+  "LastUpdate_Achievements": "2023-05-01T07:04:14.1555324+00:00",
+  "LastUpdate_Ratings": "2023-05-01T06:59:03.3096119+00:00",
+  "LastChanged": "2023-05-01T06:59:03.3096112+00:00",
   "MaxAwardTitle": "Impact the Story",
   "NumberOfAwardsMax": 137446,
-  "NumberOfAwards": 349372,
+  "NumberOfAwards": 349419,
   "NumberOfRatings": 102658,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 260,
