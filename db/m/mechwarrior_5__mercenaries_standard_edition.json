@@ -42,7 +42,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 878
+      "Count": 880
     },
     {
       "Text": "This game has a Creative Community",
@@ -2917,6 +2917,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 7210,
       "NumberOfAwardsMax": 1073
+    },
+    {
+      "Time": "2023-05-01T17:57:16.854657+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 7212,
+      "NumberOfAwardsMax": 1073
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -2924,12 +2930,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-01T17:02:15.995658+00:00",
-  "LastUpdate_Ratings": "2023-05-01T16:57:50.4621472+00:00",
-  "LastChanged": "2023-05-01T02:57:09.3730075+00:00",
+  "LastUpdate_Achievements": "2023-05-01T18:01:46.3089452+00:00",
+  "LastUpdate_Ratings": "2023-05-01T17:57:16.8546575+00:00",
+  "LastChanged": "2023-05-01T17:57:16.8546567+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 1073,
-  "NumberOfAwards": 7210,
+  "NumberOfAwards": 7212,
   "NumberOfRatings": 4280,
   "Ranking_EOS_NewCompleters": 80,
   "Ranking_EOS_NewPlayers": 266,

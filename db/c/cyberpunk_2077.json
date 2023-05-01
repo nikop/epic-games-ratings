@@ -18,7 +18,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 7156
+      "Count": 7175
     },
     {
       "Text": "This game is Relaxing",
@@ -784,6 +784,11 @@
     {
       "Time": "2023-05-01T17:02:00.7802241+00:00",
       "NumProgressed": 797258,
+      "NumCompleted": 1553
+    },
+    {
+      "Time": "2023-05-01T18:01:30.0193963+00:00",
+      "NumProgressed": 797273,
       "NumCompleted": 1553
     }
   ],
@@ -5841,21 +5846,27 @@
       "Rating": 4.62,
       "NumberOfAwards": 165368,
       "NumberOfAwardsMax": 63313
+    },
+    {
+      "Time": "2023-05-01T17:57:43.5283515+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 165387,
+      "NumberOfAwardsMax": 63313
     }
   ],
   "EOS_Completed_Percentage": 0.19,
   "EOS_NewCompleters": 18,
-  "EOS_NewPlayers": 1679,
+  "EOS_NewPlayers": 1694,
   "EOS_Completed": 1553,
-  "EOS_Progressed": 797258,
-  "LastUpdate_Achievements": "2023-05-01T17:02:00.7802507+00:00",
-  "LastUpdate_Ratings": "2023-05-01T16:58:16.9416599+00:00",
-  "LastChanged_Achievements": "2023-05-01T17:02:00.7802228+00:00",
-  "LastChanged": "2023-05-01T16:58:16.9416592+00:00",
+  "EOS_Progressed": 797273,
+  "LastUpdate_Achievements": "2023-05-01T18:01:30.0194608+00:00",
+  "LastUpdate_Ratings": "2023-05-01T17:57:43.5283525+00:00",
+  "LastChanged_Achievements": "2023-05-01T18:01:30.0193953+00:00",
+  "LastChanged": "2023-05-01T17:57:43.5283512+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 63313,
-  "NumberOfAwards": 165368,
+  "NumberOfAwards": 165387,
   "NumberOfRatings": 32700,
   "Ranking_EOS_NewCompleters": 11,
   "Ranking_EOS_NewPlayers": 34,

@@ -60,7 +60,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 538
+      "Count": 539
     },
     {
       "Text": "This game has a Creative Community",
@@ -2546,6 +2546,12 @@
       "Rating": 4.76,
       "NumberOfAwards": 6565,
       "NumberOfAwardsMax": 1623
+    },
+    {
+      "Time": "2023-05-01T17:58:29.406589+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6566,
+      "NumberOfAwardsMax": 1623
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -2553,14 +2559,14 @@
   "EOS_NewPlayers": 127,
   "EOS_Completed": 0,
   "EOS_Progressed": 8572,
-  "LastUpdate_Achievements": "2023-05-01T17:04:44.5690877+00:00",
-  "LastUpdate_Ratings": "2023-05-01T16:59:05.1286785+00:00",
-  "LastChanged_Achievements": "2023-05-01T17:04:44.5690797+00:00",
-  "LastChanged": "2023-05-01T16:59:05.1286778+00:00",
+  "LastUpdate_Achievements": "2023-05-01T18:03:53.8016382+00:00",
+  "LastUpdate_Ratings": "2023-05-01T17:58:29.4065895+00:00",
+  "LastChanged_Achievements": "2023-05-01T18:03:53.8016327+00:00",
+  "LastChanged": "2023-05-01T17:58:29.4065888+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 1623,
-  "NumberOfAwards": 6565,
+  "NumberOfAwards": 6566,
   "NumberOfRatings": 1354,
   "Ranking_EOS_NewCompleters": 80,
   "Ranking_EOS_NewPlayers": 107,
