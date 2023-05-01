@@ -4,27 +4,27 @@
 | 2 | [Overloop](games/o/overloop.md) | 25.00% |
 | 3 | [Doodle Devil](games/d/doodle_devil.md) | 19.72% |
 | 4 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 5 | [Island Cities](games/i/island_cities.md) | 13.95% |
+| 5 | [Island Cities](games/i/island_cities.md) | 16.28% |
 | 6 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 7 | [Them and Us](games/t/them_and_us.md) | 12.50% |
 | 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.33% |
 | 9 | [Ravenlok](games/r/ravenlok.md) | 12.28% |
 | 10 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.90% |
 | 11 | [Smelter](games/s/smelter.md) | 10.00% |
-| 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
-| 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
-| 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
-| 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.41% |
-| 17 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.35% |
+| 12 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 9.52% |
+| 13 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
+| 14 | [Time Loader](games/t/time_loader.md) | 8.42% |
+| 15 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
+| 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
+| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.39% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
-| 19 | [Scorn](games/s/scorn.md) | 7.15% |
-| 20 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
-| 21 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.20% |
-| 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
-| 23 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.71% |
-| 24 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.04% |
-| 25 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 4.76% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.29% |
+| 20 | [Scorn](games/s/scorn.md) | 7.15% |
+| 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
+| 22 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.20% |
+| 23 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
+| 24 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.71% |
+| 25 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.04% |
 | 26 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
 | 27 | [Bugsnax](games/b/bugsnax.md) | 4.59% |
 | 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.55% |
@@ -91,8 +91,8 @@
 | 88 | [Train Valley](games/t/train_valley.md) | 0.74% |
 | 90 | [Haven](games/h/haven.md) | 0.73% |
 | 91 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.67% |
-| 92 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.65% |
-| 92 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
+| 92 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.66% |
+| 93 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
 | 94 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 95 | [Ghostrunner](games/g/ghostrunner.md) | 0.53% |
 | 96 | [Grindstone](games/g/grindstone.md) | 0.52% |
@@ -145,10 +145,10 @@
 | 143 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.13% |
 | 143 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.13% |
 | 143 | [Weird West](games/w/weird_west.md) | 0.13% |
+| 146 | [Dead Island 2](games/d/dead_island_2.md) | 0.12% |
 | 146 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 146 | [Partisans 1941](games/p/partisans_1941.md) | 0.12% |
-| 148 | [Dead Island 2](games/d/dead_island_2.md) | 0.11% |
-| 148 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
+| 149 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
 | 150 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 150 | [House Flipper](games/h/house_flipper.md) | 0.10% |
 | 150 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |

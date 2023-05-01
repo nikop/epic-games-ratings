@@ -395,7 +395,7 @@
 | 379 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 84 | 339 |
 | 379 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 0 | 489 |
 | 395 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 44 | 402 |
-| 395 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 56,269 | 10 |
+| 395 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 56,320 | 10 |
 | 395 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.59 | 591 | 164 |
 | 395 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.59 | 27,146 | 15 |
 | 395 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.59 | 236 | 239 |
@@ -770,7 +770,7 @@
 | 768 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 0 | 489 |
 | 768 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.27 | 0 | 489 |
 | 768 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 297 | 224 |
-| 771 | [EVE Online](games/e/eve_online.md) | 4.26 | 1,014 | 134 |
+| 771 | [EVE Online](games/e/eve_online.md) | 4.26 | 1,015 | 134 |
 | 771 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.26 | 0 | 489 |
 | 771 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 489 |
 | 774 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.25 | 0 | 489 |

@@ -30,7 +30,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 7247
+      "Count": 7267
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -66,7 +66,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 7132
+      "Count": 7156
     },
     {
       "Text": "This game has a Creative Community",
@@ -769,6 +769,11 @@
     {
       "Time": "2023-05-01T13:07:20.7509746+00:00",
       "NumProgressed": 797203,
+      "NumCompleted": 1553
+    },
+    {
+      "Time": "2023-05-01T14:02:25.4395632+00:00",
+      "NumProgressed": 797215,
       "NumCompleted": 1553
     }
   ],
@@ -5808,21 +5813,27 @@
       "Rating": 4.62,
       "NumberOfAwards": 165274,
       "NumberOfAwardsMax": 63313
+    },
+    {
+      "Time": "2023-05-01T13:57:23.390763+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 165318,
+      "NumberOfAwardsMax": 63313
     }
   ],
   "EOS_Completed_Percentage": 0.19,
   "EOS_NewCompleters": 18,
-  "EOS_NewPlayers": 1624,
+  "EOS_NewPlayers": 1636,
   "EOS_Completed": 1553,
-  "EOS_Progressed": 797203,
-  "LastUpdate_Achievements": "2023-05-01T13:07:20.7509822+00:00",
-  "LastUpdate_Ratings": "2023-05-01T13:02:22.0954376+00:00",
-  "LastChanged_Achievements": "2023-05-01T13:07:20.7509739+00:00",
-  "LastChanged": "2023-05-01T11:57:30.9672638+00:00",
+  "EOS_Progressed": 797215,
+  "LastUpdate_Achievements": "2023-05-01T14:02:25.4395713+00:00",
+  "LastUpdate_Ratings": "2023-05-01T13:57:23.3907637+00:00",
+  "LastChanged_Achievements": "2023-05-01T14:02:25.4395628+00:00",
+  "LastChanged": "2023-05-01T13:57:23.3907621+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 63313,
-  "NumberOfAwards": 165274,
+  "NumberOfAwards": 165318,
   "NumberOfRatings": 32700,
   "Ranking_EOS_NewCompleters": 11,
   "Ranking_EOS_NewPlayers": 34,
