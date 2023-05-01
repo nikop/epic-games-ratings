@@ -18,7 +18,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 5988
+      "Count": 6002
     },
     {
       "Text": "This game is Relaxing",
@@ -30,7 +30,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 5722
+      "Count": 5728
     },
     {
       "Text": "This game has Diverse Characters",
@@ -803,6 +803,11 @@
       "Time": "2023-05-01T20:04:07.0580251+00:00",
       "NumProgressed": 387424,
       "NumCompleted": 11319
+    },
+    {
+      "Time": "2023-05-01T21:04:25.7799515+00:00",
+      "NumProgressed": 387476,
+      "NumCompleted": 11321
     }
   ],
   "RatingHistory": [
@@ -3879,22 +3884,28 @@
       "Rating": 4.5,
       "NumberOfAwards": 80846,
       "NumberOfAwardsMax": 33404
+    },
+    {
+      "Time": "2023-05-01T20:59:27.9680853+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 80866,
+      "NumberOfAwardsMax": 33404
     }
   ],
   "EOS_Completed_Percentage": 2.92,
-  "EOS_NewCompleters": 193,
-  "EOS_NewPlayers": 6377,
-  "EOS_Completed": 11319,
-  "EOS_Progressed": 387424,
-  "LastUpdate_Achievements": "2023-05-01T20:04:07.0580344+00:00",
-  "LastUpdate_Ratings": "2023-05-01T19:58:47.0509677+00:00",
-  "LastChanged_Achievements": "2023-05-01T20:04:07.0580242+00:00",
-  "LastChanged": "2023-05-01T11:59:01.7196717+00:00",
+  "EOS_NewCompleters": 195,
+  "EOS_NewPlayers": 6429,
+  "EOS_Completed": 11321,
+  "EOS_Progressed": 387476,
+  "LastUpdate_Achievements": "2023-05-01T21:04:25.7799625+00:00",
+  "LastUpdate_Ratings": "2023-05-01T20:59:27.9680859+00:00",
+  "LastChanged_Achievements": "2023-05-01T21:04:25.7799508+00:00",
+  "LastChanged": "2023-05-01T20:59:27.968085+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:52.6483728+00:00",
   "FirstSeenRating": "2022-08-24T03:30:20.9735605+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 33404,
-  "NumberOfAwards": 80846,
+  "NumberOfAwards": 80866,
   "NumberOfRatings": 32207,
   "Ranking_EOS_NewCompleters": 3,
   "Ranking_EOS_NewPlayers": 16,

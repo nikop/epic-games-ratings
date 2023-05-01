@@ -1,5 +1,5 @@
 # Revita
-Rating: 4.68 (Ranked 233)  
+Rating: 4.68 (Ranked 234)  
 Number of Ratings: 23  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 489)  

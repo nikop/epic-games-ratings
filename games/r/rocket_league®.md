@@ -2,11 +2,11 @@
 Rating: 4.51 (Ranked 511)  
 Number of Ratings: 366,020  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Quick Sessions): 399,423  (Ranked 2)  
-Sum: 2,718,637 (Ranked 2)  
+Max (Great for Quick Sessions): 400,354  (Ranked 2)  
+Sum: 2,727,004 (Ranked 2)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,508,896 (Ranked 2)  
+Progressed: 23,509,875 (Ranked 2)  
 Completed: 1,250 (0.01%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -17,19 +17,19 @@ Completed: 1,250 (0.01%) (Ranked 184)
 | 2023-04-28 | 23,453,768 | 1,241 |
 | 2023-04-29 | 23,473,443 | 1,246 |
 | 2023-04-30 | 23,493,558 | 1,248 |
-| 2023-05-01 | 23,508,896 | 1,250 |
+| 2023-05-01 | 23,509,875 | 1,250 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 399,423 |
-| This game has Competitive Players | 345,688 |
-| This game has Quickly Understood Controls | 315,659 |
-| This game is Extremely Fun | 309,807 |
-| This game is Highly Recommended | 298,169 |
-| This game has Challenging Combat | 288,803 |
-| This game has Amazing Storytelling | 259,330 |
-| This game has a Competitive Community | 257,236 |
-| This game has Amazing Characters | 244,522 |
+| This game is Great for Quick Sessions | 400,354 |
+| This game has Competitive Players | 347,013 |
+| This game has Quickly Understood Controls | 316,909 |
+| This game is Extremely Fun | 310,843 |
+| This game is Highly Recommended | 299,005 |
+| This game has Challenging Combat | 289,604 |
+| This game has Amazing Storytelling | 260,144 |
+| This game has a Competitive Community | 257,862 |
+| This game has Amazing Characters | 245,270 |
 | This game has Obsessive Gameplay | 167,946 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -132,3 +132,4 @@ Completed: 1,250 (0.01%) (Ranked 184)
 | 2023-04-28 | 4.51 | - | 397,288 | 2,701,386 |
 | 2023-04-29 | 4.51 | - | 398,548 | 2,710,008 |
 | 2023-04-30 | 4.51 | - | 399,423 | 2,718,637 |
+| 2023-05-01 | 4.51 | - | 400,354 | 2,727,004 |

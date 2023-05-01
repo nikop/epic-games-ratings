@@ -1,12 +1,12 @@
 # Europa Universalis IV
-Rating: 4.68 (Ranked 233)  
+Rating: 4.68 (Ranked 234)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Educational): 5,138  (Ranked 60)  
 Sum: 42,561 (Ranked 26)  
 Diff (max vs sum): 34
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,300 (Ranked 84)  
+Progressed: 27,351 (Ranked 83)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -17,7 +17,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-04-28 | 23,979 | 0 |
 | 2023-04-29 | 25,274 | 0 |
 | 2023-04-30 | 26,437 | 0 |
-| 2023-05-01 | 27,300 | 0 |
+| 2023-05-01 | 27,351 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

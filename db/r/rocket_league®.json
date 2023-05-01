@@ -6,7 +6,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 399423
+      "Count": 400354
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -18,49 +18,49 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 345688
+      "Count": 347013
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 315659
+      "Count": 316909
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 309807
+      "Count": 310843
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 298169
+      "Count": 299005
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 259330
+      "Count": 260144
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 257236
+      "Count": 257862
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 244522
+      "Count": 245270
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 288803
+      "Count": 289604
     }
   ],
   "EosHistory": [
@@ -802,6 +802,11 @@
     {
       "Time": "2023-05-01T20:03:49.7026806+00:00",
       "NumProgressed": 23508896,
+      "NumCompleted": 1250
+    },
+    {
+      "Time": "2023-05-01T21:04:00.9647422+00:00",
+      "NumProgressed": 23509875,
       "NumCompleted": 1250
     }
   ],
@@ -5021,21 +5026,27 @@
       "Rating": 4.51,
       "NumberOfAwards": 2718637,
       "NumberOfAwardsMax": 399423
+    },
+    {
+      "Time": "2023-05-01T20:58:49.8147027+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 2727004,
+      "NumberOfAwardsMax": 400354
     }
   ],
   "EOS_Completed_Percentage": 0.01,
   "EOS_NewCompleters": 17,
-  "EOS_NewPlayers": 104081,
+  "EOS_NewPlayers": 105060,
   "EOS_Completed": 1250,
-  "EOS_Progressed": 23508896,
-  "LastUpdate_Achievements": "2023-05-01T20:03:49.7026897+00:00",
-  "LastUpdate_Ratings": "2023-05-01T19:58:24.7336464+00:00",
-  "LastChanged_Achievements": "2023-05-01T20:03:49.70268+00:00",
-  "LastChanged": "2023-04-30T20:58:37.9166018+00:00",
+  "EOS_Progressed": 23509875,
+  "LastUpdate_Achievements": "2023-05-01T21:04:00.9647521+00:00",
+  "LastUpdate_Ratings": "2023-05-01T20:58:49.8147035+00:00",
+  "LastChanged_Achievements": "2023-05-01T21:04:00.9647416+00:00",
+  "LastChanged": "2023-05-01T20:58:49.8147025+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.1822521+00:00",
   "MaxAwardTitle": "Great for Quick Sessions",
-  "NumberOfAwardsMax": 399423,
-  "NumberOfAwards": 2718637,
+  "NumberOfAwardsMax": 400354,
+  "NumberOfAwards": 2727004,
   "NumberOfRatings": 366020,
   "Ranking_EOS_NewCompleters": 12,
   "Ranking_EOS_NewPlayers": 5,

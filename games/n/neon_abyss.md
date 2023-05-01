@@ -1,5 +1,5 @@
 # Neon Abyss
-Rating: 4.68 (Ranked 233)  
+Rating: 4.68 (Ranked 234)  
 Number of Ratings: 8,340  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 660  (Ranked 158)  

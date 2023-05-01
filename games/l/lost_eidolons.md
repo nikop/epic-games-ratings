@@ -1,5 +1,5 @@
 # Lost Eidolons
-Rating: 4.30 (Ranked 750)  
+Rating: 4.31 (Ranked 748)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 489)  
 Sum: 0 (Ranked 489)  
@@ -51,3 +51,4 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-02-20 | 4.29 | - | - |
 | 2023-03-15 | 4.30 | - | - |
 | 2023-03-31 | 4.30 | 0 | 0 |
+| 2023-05-01 | 4.31 | 0 | 0 |

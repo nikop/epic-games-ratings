@@ -48,7 +48,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 503
+      "Count": 504
     }
   ],
   "EosHistory": [],
@@ -2778,6 +2778,12 @@
       "Rating": 4.46,
       "NumberOfAwards": 7141,
       "NumberOfAwardsMax": 3245
+    },
+    {
+      "Time": "2023-05-01T20:57:55.2337579+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 7142,
+      "NumberOfAwardsMax": 3245
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -2785,12 +2791,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-01T20:00:25.3297831+00:00",
-  "LastUpdate_Ratings": "2023-05-01T19:57:45.6203182+00:00",
-  "LastChanged": "2023-05-01T13:57:40.701527+00:00",
+  "LastUpdate_Achievements": "2023-05-01T21:02:01.283974+00:00",
+  "LastUpdate_Ratings": "2023-05-01T20:57:55.2337586+00:00",
+  "LastChanged": "2023-05-01T20:57:55.2337576+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 3245,
-  "NumberOfAwards": 7141,
+  "NumberOfAwards": 7142,
   "NumberOfRatings": 2790,
   "Ranking_EOS_NewCompleters": 81,
   "Ranking_EOS_NewPlayers": 266,

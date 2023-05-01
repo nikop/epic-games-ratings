@@ -1,5 +1,5 @@
 # Yooka-Laylee
-Rating: 4.24 (Ranked 778)  
+Rating: 4.23 (Ranked 790)  
 Number of Ratings: 366  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 22  (Ranked 472)  
@@ -93,3 +93,4 @@ Diff (max vs sum): -1
 | 2023-01-08 | 4.24 | - | - | - |
 | 2023-01-11 | 4.23 | - | - | - |
 | 2023-04-15 | 4.24 | - | 22 | 22 |
+| 2023-05-01 | 4.23 | - | 22 | 22 |

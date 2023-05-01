@@ -4,7 +4,7 @@
 | 2 | [Overloop](games/o/overloop.md) | 25.00% |
 | 3 | [Doodle Devil](games/d/doodle_devil.md) | 19.72% |
 | 4 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 5 | [Island Cities](games/i/island_cities.md) | 18.60% |
+| 5 | [Island Cities](games/i/island_cities.md) | 18.18% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 13.64% |
 | 6 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 8 | [Them and Us](games/t/them_and_us.md) | 12.50% |
@@ -18,7 +18,7 @@
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.45% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.21% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.20% |
 | 20 | [Scorn](games/s/scorn.md) | 7.15% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.11% |
@@ -29,7 +29,7 @@
 | 27 | [Bugsnax](games/b/bugsnax.md) | 4.60% |
 | 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.55% |
 | 29 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
-| 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.14% |
+| 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.13% |
 | 31 | [Doodle God](games/d/doodle_god.md) | 4.06% |
 | 32 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
 | 33 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
@@ -86,7 +86,7 @@
 | 84 | [Lemon Cake](games/l/lemon_cake.md) | 0.86% |
 | 85 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.83% |
 | 86 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
-| 87 | [Adios](games/a/adios.md) | 0.78% |
+| 87 | [Adios](games/a/adios.md) | 0.79% |
 | 88 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 89 | [Train Valley](games/t/train_valley.md) | 0.74% |
 | 90 | [Haven](games/h/haven.md) | 0.73% |
