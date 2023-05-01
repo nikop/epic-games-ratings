@@ -15,7 +15,7 @@
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.49% |
+| 16 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.47% |
 | 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.43% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
 | 19 | [Scorn](games/s/scorn.md) | 7.15% |
@@ -23,7 +23,7 @@
 | 21 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.20% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 23 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.71% |
-| 24 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 5.56% |
+| 24 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 5.26% |
 | 25 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.04% |
 | 26 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
 | 27 | [Bugsnax](games/b/bugsnax.md) | 4.59% |
@@ -74,7 +74,7 @@
 | 72 | [Trifox](games/t/trifox.md) | 1.28% |
 | 73 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.27% |
 | 74 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.23% |
-| 75 | [Late Shift](games/l/late_shift.md) | 1.21% |
+| 75 | [Late Shift](games/l/late_shift.md) | 1.20% |
 | 76 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.18% |
 | 77 | [Ten Dates](games/t/ten_dates.md) | 1.06% |
 | 78 | [Dungeons 3](games/d/dungeons_3.md) | 0.96% |
@@ -366,4 +366,4 @@
 | 191 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 191 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 191 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,531 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,532 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

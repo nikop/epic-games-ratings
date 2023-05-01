@@ -1,5 +1,5 @@
 # Totally Accurate Battle Simulator
-Rating: 4.77 (Ranked 105)  
+Rating: 4.76 (Ranked 113)  
 Number of Ratings: 2,102  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 321  (Ranked 214)  
@@ -127,3 +127,4 @@ Diff (max vs sum): 61
 | 2023-04-27 | 4.77 | - | 321 | 2,796 |
 | 2023-04-29 | 4.77 | - | 321 | 2,803 |
 | 2023-04-30 | 4.77 | - | 321 | 2,808 |
+| 2023-05-01 | 4.76 | - | 321 | 2,808 |

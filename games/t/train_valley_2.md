@@ -2,9 +2,9 @@
 Rating: 4.15 (Ranked 836)  
 Number of Ratings: 87  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Challenging Puzzles): 69  (Ranked 358)  
-Sum: 69 (Ranked 414)  
-Diff (max vs sum): -56
+Max (Challenging Puzzles): 70  (Ranked 357)  
+Sum: 70 (Ranked 412)  
+Diff (max vs sum): -55
 ## Popularity (Based on EOS Achievements)
 Progressed: 697 (Ranked 172)  
 Completed: 1 (0.14%) (Ranked 139)  
@@ -16,7 +16,7 @@ Completed: 1 (0.14%) (Ranked 139)
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 69 |
+| This game features Challenging Puzzles | 70 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -68,3 +68,4 @@ Completed: 1 (0.14%) (Ranked 139)
 | 2023-03-10 | 4.13 | - | - | - |
 | 2023-03-12 | 4.14 | - | - | - |
 | 2023-04-25 | 4.15 | - | 69 | 69 |
+| 2023-05-01 | 4.15 | - | 70 | 70 |

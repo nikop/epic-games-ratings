@@ -36,7 +36,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 49
+      "Count": 65
     },
     {
       "Text": "This game is Extremely Fun",
@@ -742,6 +742,11 @@
       "Time": "2023-05-01T10:01:04.8998664+00:00",
       "NumProgressed": 426075,
       "NumCompleted": 484
+    },
+    {
+      "Time": "2023-05-01T11:02:10.7670808+00:00",
+      "NumProgressed": 426552,
+      "NumCompleted": 487
     }
   ],
   "RatingHistory": [
@@ -1050,27 +1055,33 @@
       "Rating": 4.54,
       "NumberOfAwards": 2002,
       "NumberOfAwardsMax": 1615
+    },
+    {
+      "Time": "2023-05-01T10:58:06.1231023+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2018,
+      "NumberOfAwardsMax": 1615
     }
   ],
   "EOS_Completed_Percentage": 0.11,
-  "EOS_NewCompleters": 402,
-  "EOS_NewPlayers": 109751,
-  "EOS_Completed": 484,
-  "EOS_Progressed": 426075,
-  "LastUpdate_Achievements": "2023-05-01T10:01:04.8998739+00:00",
-  "LastUpdate_Ratings": "2023-05-01T09:58:00.2857079+00:00",
-  "LastChanged_Achievements": "2023-05-01T10:01:04.8998654+00:00",
-  "LastChanged": "2023-05-01T02:58:21.02611+00:00",
+  "EOS_NewCompleters": 405,
+  "EOS_NewPlayers": 110228,
+  "EOS_Completed": 487,
+  "EOS_Progressed": 426552,
+  "LastUpdate_Achievements": "2023-05-01T11:02:10.7670867+00:00",
+  "LastUpdate_Ratings": "2023-05-01T10:58:06.1231026+00:00",
+  "LastChanged_Achievements": "2023-05-01T11:02:10.7670805+00:00",
+  "LastChanged": "2023-05-01T10:58:06.1231022+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 1615,
-  "NumberOfAwards": 2002,
+  "NumberOfAwards": 2018,
   "Ranking_EOS_NewCompleters": 1,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_Progress": 29,
-  "Ranking_PopularitySum": 185,
+  "Ranking_PopularitySum": 184,
   "Ranking_Popularity": 111,
   "Ranking_Rating": 475,
   "Rating": 4.54,

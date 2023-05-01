@@ -1,5 +1,5 @@
 # Pathfinder: Wrath of the Righteous
-Rating: 4.76 (Ranked 114)  
+Rating: 4.76 (Ranked 113)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 1,623  (Ranked 110)  
