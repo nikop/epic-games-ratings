@@ -5,25 +5,25 @@
 | 3 | [Doodle Devil](games/d/doodle_devil.md) | 19.72% |
 | 4 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 5 | [Them and Us](games/t/them_and_us.md) | 14.29% |
-| 6 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
-| 7 | [Ravenlok](games/r/ravenlok.md) | 12.50% |
-| 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.33% |
-| 9 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.90% |
-| 10 | [Island Cities](games/i/island_cities.md) | 11.63% |
+| 6 | [Island Cities](games/i/island_cities.md) | 13.95% |
+| 7 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
+| 8 | [Ravenlok](games/r/ravenlok.md) | 12.50% |
+| 9 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.33% |
+| 10 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.90% |
 | 11 | [Smelter](games/s/smelter.md) | 10.00% |
 | 12 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.57% |
-| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.46% |
+| 16 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.55% |
+| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.44% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
 | 19 | [Scorn](games/s/scorn.md) | 7.16% |
 | 20 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 21 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.20% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
-| 23 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 5.88% |
-| 24 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.71% |
+| 23 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.71% |
+| 24 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 5.56% |
 | 25 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.04% |
 | 26 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
 | 27 | [Bugsnax](games/b/bugsnax.md) | 4.59% |

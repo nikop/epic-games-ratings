@@ -36,7 +36,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 12486
+      "Count": 12528
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -5207,6 +5207,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 349419,
       "NumberOfAwardsMax": 137446
+    },
+    {
+      "Time": "2023-05-01T07:58:57.8294547+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 349461,
+      "NumberOfAwardsMax": 137446
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -5214,12 +5220,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-01T07:04:14.1555324+00:00",
-  "LastUpdate_Ratings": "2023-05-01T06:59:03.3096119+00:00",
-  "LastChanged": "2023-05-01T06:59:03.3096112+00:00",
+  "LastUpdate_Achievements": "2023-05-01T08:04:36.6864747+00:00",
+  "LastUpdate_Ratings": "2023-05-01T07:58:57.829455+00:00",
+  "LastChanged": "2023-05-01T07:58:57.8294545+00:00",
   "MaxAwardTitle": "Impact the Story",
   "NumberOfAwardsMax": 137446,
-  "NumberOfAwards": 349419,
+  "NumberOfAwards": 349461,
   "NumberOfRatings": 102658,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 260,

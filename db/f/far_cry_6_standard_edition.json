@@ -48,7 +48,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 659
+      "Count": 662
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3671,6 +3671,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 5300,
       "NumberOfAwardsMax": 680
+    },
+    {
+      "Time": "2023-05-01T07:59:24.9602707+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 5303,
+      "NumberOfAwardsMax": 680
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -3678,12 +3684,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-01T07:04:39.3179489+00:00",
-  "LastUpdate_Ratings": "2023-05-01T06:59:30.2208938+00:00",
-  "LastChanged": "2023-05-01T03:59:31.7413314+00:00",
+  "LastUpdate_Achievements": "2023-05-01T08:05:01.5497703+00:00",
+  "LastUpdate_Ratings": "2023-05-01T07:59:24.9602713+00:00",
+  "LastChanged": "2023-05-01T07:59:24.9602705+00:00",
   "MaxAwardTitle": "Amazing Storytelling",
   "NumberOfAwardsMax": 680,
-  "NumberOfAwards": 5300,
+  "NumberOfAwards": 5303,
   "NumberOfRatings": 12290,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 260,

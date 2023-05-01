@@ -1,5 +1,5 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
-Rating: 4.58 (Ranked 412)  
+Rating: 4.58 (Ranked 413)  
 Number of Ratings: 371  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 205  (Ranked 253)  

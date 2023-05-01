@@ -1,9 +1,9 @@
 # Among Us
-Rating: 4.58 (Ranked 412)  
+Rating: 4.58 (Ranked 413)  
 Number of Ratings: 26,171  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 2,383  (Ranked 92)  
-Sum: 21,845 (Ranked 50)  
+Sum: 21,849 (Ranked 50)  
 Diff (max vs sum): 42
 ## Awards
 | Award | Count |
@@ -11,7 +11,7 @@ Diff (max vs sum): 42
 | This game is Great for Beginners | 2,383 |
 | This game is Great for Quick Sessions | 2,229 |
 | This game has Quickly Understood Controls | 2,050 |
-| This game has Diverse Characters | 2,010 |
+| This game has Diverse Characters | 2,014 |
 | This game is Relaxing | 2,000 |
 | This game has Competitive Players | 1,969 |
 | This game is Extremely Fun | 1,920 |
@@ -118,4 +118,4 @@ Diff (max vs sum): 42
 | 2023-04-28 | 4.58 | - | 2,381 | 21,813 |
 | 2023-04-29 | 4.58 | - | 2,381 | 21,825 |
 | 2023-04-30 | 4.58 | - | 2,383 | 21,843 |
-| 2023-05-01 | 4.58 | - | 2,383 | 21,845 |
+| 2023-05-01 | 4.58 | - | 2,383 | 21,849 |

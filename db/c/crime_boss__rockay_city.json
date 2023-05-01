@@ -42,7 +42,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 207
+      "Count": 210
     },
     {
       "Text": "This game has a Silly Community",
@@ -725,6 +725,11 @@
     {
       "Time": "2023-05-01T07:05:20.8049812+00:00",
       "NumProgressed": 57606,
+      "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-01T08:05:42.3328806+00:00",
+      "NumProgressed": 57614,
       "NumCompleted": 23
     }
   ],
@@ -1772,28 +1777,34 @@
       "Rating": 3.93,
       "NumberOfAwards": 1008,
       "NumberOfAwardsMax": 207
+    },
+    {
+      "Time": "2023-05-01T08:00:00.260461+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 1011,
+      "NumberOfAwardsMax": 210
     }
   ],
   "EOS_Completed_Percentage": 0.04,
   "EOS_NewCompleters": 4,
-  "EOS_NewPlayers": 2065,
+  "EOS_NewPlayers": 2073,
   "EOS_Completed": 23,
-  "EOS_Progressed": 57606,
-  "LastUpdate_Achievements": "2023-05-01T07:05:20.8049896+00:00",
-  "LastUpdate_Ratings": "2023-05-01T07:00:06.4054538+00:00",
-  "LastChanged_Achievements": "2023-05-01T07:05:20.8049803+00:00",
-  "LastChanged": "2023-05-01T05:00:01.0759754+00:00",
+  "EOS_Progressed": 57614,
+  "LastUpdate_Achievements": "2023-05-01T08:05:42.3328859+00:00",
+  "LastUpdate_Ratings": "2023-05-01T08:00:00.2604613+00:00",
+  "LastChanged_Achievements": "2023-05-01T08:05:42.33288+00:00",
+  "LastChanged": "2023-05-01T08:00:00.2604608+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "MaxAwardTitle": "Highly Recommended",
-  "NumberOfAwardsMax": 207,
-  "NumberOfAwards": 1008,
+  "NumberOfAwardsMax": 210,
+  "NumberOfAwards": 1011,
   "Ranking_EOS_NewCompleters": 29,
   "Ranking_EOS_NewPlayers": 29,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_Progress": 67,
   "Ranking_PopularitySum": 227,
-  "Ranking_Popularity": 252,
+  "Ranking_Popularity": 251,
   "Ranking_Rating": 889,
   "Rating": 3.93,
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00"

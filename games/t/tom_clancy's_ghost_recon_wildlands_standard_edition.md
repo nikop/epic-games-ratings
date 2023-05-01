@@ -1,5 +1,5 @@
 # Tom Clancy's Ghost Recon Wildlands Standard Edition
-Rating: 4.58 (Ranked 412)  
+Rating: 4.58 (Ranked 413)  
 Number of Ratings: 871  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 174  (Ranked 269)  

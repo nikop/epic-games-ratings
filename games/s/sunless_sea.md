@@ -1,12 +1,12 @@
 # Sunless Sea
-Rating: 4.58 (Ranked 412)  
+Rating: 4.58 (Ranked 413)  
 Number of Ratings: 401  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 203  (Ranked 254)  
 Sum: 272 (Ranked 329)  
 Diff (max vs sum): -75
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,877 (Ranked 82)  
+Progressed: 27,880 (Ranked 82)  
 Completed: 3 (0.01%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -17,7 +17,7 @@ Completed: 3 (0.01%) (Ranked 183)
 | 2023-04-28 | 27,617 | 3 |
 | 2023-04-29 | 27,738 | 3 |
 | 2023-04-30 | 27,850 | 3 |
-| 2023-05-01 | 27,877 | 3 |
+| 2023-05-01 | 27,880 | 3 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
