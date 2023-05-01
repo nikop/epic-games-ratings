@@ -6,8 +6,8 @@ Max (Great Boss Battles): 33,404  (Ranked 12)
 Sum: 80,836 (Ranked 16)  
 Diff (max vs sum): -4
 ## Popularity (Based on EOS Achievements)
-Progressed: 386,758 (Ranked 32)  
-Completed: 11,301 (2.92%) (Ranked 45)  
+Progressed: 386,798 (Ranked 32)  
+Completed: 11,302 (2.92%) (Ranked 45)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -17,7 +17,7 @@ Completed: 11,301 (2.92%) (Ranked 45)
 | 2023-04-28 | 383,847 | 11,221 |
 | 2023-04-29 | 385,092 | 11,256 |
 | 2023-04-30 | 386,409 | 11,291 |
-| 2023-05-01 | 386,758 | 11,301 |
+| 2023-05-01 | 386,798 | 11,302 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

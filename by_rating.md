@@ -143,7 +143,7 @@
 | 141 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 398 | 197 |
 | 141 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 489 |
 | 141 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.74 | 0 | 489 |
-| 141 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 514 | 179 |
+| 141 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 516 | 179 |
 | 141 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 768 | 147 |
 | 141 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 582 | 166 |
 | 141 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,461 | 49 |
@@ -255,7 +255,7 @@
 | 233 | [The Pathless](games/t/the_pathless.md) | 4.68 | 0 | 489 |
 | 233 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 85 | 337 |
 | 233 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 0 | 489 |
-| 256 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 639 | 161 |
+| 256 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 640 | 161 |
 | 256 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,497 | 48 |
 | 256 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 489 |
 | 256 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 0 | 489 |
@@ -430,7 +430,7 @@
 | 427 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 0 | 489 |
 | 427 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 152 | 280 |
 | 427 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 0 | 489 |
-| 427 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 6,755 | 45 |
+| 427 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 6,791 | 45 |
 | 427 | [Everything](games/e/everything.md) | 4.57 | 0 | 489 |
 | 427 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 0 | 489 |
 | 427 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 35 | 425 |
@@ -464,7 +464,7 @@
 | 444 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,765 | 106 |
 | 444 | [Travellers Rest](games/t/travellers_rest.md) | 4.56 | 0 | 489 |
 | 444 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 48 | 387 |
-| 444 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 3,799 | 75 |
+| 444 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 3,802 | 75 |
 | 466 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 0 | 489 |
 | 466 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,116 | 126 |
 | 466 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.55 | 21 | 477 |
@@ -491,7 +491,7 @@
 | 488 | [Aztez](games/a/aztez.md) | 4.53 | 0 | 489 |
 | 488 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 489 |
 | 488 | [Dauntless](games/d/dauntless.md) | 4.53 | 19,634 | 17 |
-| 488 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 137,889 | 6 |
+| 488 | [Fall Guys](games/f/fall_guys.md) | 4.53 | 137,918 | 6 |
 | 488 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.53 | 118 | 299 |
 | 488 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 489 |
 | 488 | [RUINER](games/r/ruiner.md) | 4.53 | 23 | 468 |
@@ -644,7 +644,7 @@
 | 641 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 60 | 374 |
 | 641 | [ELEX](games/e/elex.md) | 4.42 | 24 | 464 |
 | 641 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 489 |
-| 641 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,101 | 127 |
+| 641 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,103 | 127 |
 | 641 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 30 | 442 |
 | 641 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 46 |
 | 641 | [Sheltered](games/s/sheltered.md) | 4.42 | 264 | 234 |
@@ -791,7 +791,7 @@
 | 778 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 0 | 489 |
 | 778 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 22 | 471 |
 | 791 | [Godlike Burger](games/g/godlike_burger.md) | 4.23 | 0 | 489 |
-| 791 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 983 | 137 |
+| 791 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 984 | 137 |
 | 793 | [City of Brass](games/c/city_of_brass.md) | 4.22 | 0 | 489 |
 | 793 | [Rise of Industry](games/r/rise_of_industry.md) | 4.22 | 0 | 489 |
 | 793 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 202 | 255 |
@@ -836,13 +836,13 @@
 | 831 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 489 |
 | 831 | [Space Punks](games/s/space_punks.md) | 4.16 | 171 | 270 |
 | 836 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 0 | 489 |
+| 836 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.15 | 0 | 489 |
 | 836 | [Pine](games/p/pine.md) | 4.15 | 0 | 489 |
 | 836 | [Relicta](games/r/relicta.md) | 4.15 | 193 | 258 |
 | 836 | [Train Valley 2](games/t/train_valley_2.md) | 4.15 | 69 | 358 |
 | 836 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 489 |
-| 841 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.14 | 0 | 489 |
-| 841 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 489 |
-| 841 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 0 | 489 |
+| 842 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 489 |
+| 842 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 0 | 489 |
 | 844 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 489 |
 | 844 | [Chernobylite](games/c/chernobylite.md) | 4.13 | 0 | 489 |
 | 844 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 489 |

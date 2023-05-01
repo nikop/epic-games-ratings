@@ -12,7 +12,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 26358
+      "Count": 26377
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5014,6 +5014,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 339519,
       "NumberOfAwardsMax": 108387
+    },
+    {
+      "Time": "2023-05-01T08:58:46.4741689+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 339538,
+      "NumberOfAwardsMax": 108387
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -5021,12 +5027,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-01T08:05:10.6512539+00:00",
-  "LastUpdate_Ratings": "2023-05-01T07:59:33.8362169+00:00",
-  "LastChanged": "2023-05-01T04:59:32.4515688+00:00",
+  "LastUpdate_Achievements": "2023-05-01T09:04:15.4931506+00:00",
+  "LastUpdate_Ratings": "2023-05-01T08:58:46.4741693+00:00",
+  "LastChanged": "2023-05-01T08:58:46.4741686+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 108387,
-  "NumberOfAwards": 339519,
+  "NumberOfAwards": 339538,
   "NumberOfRatings": 151211,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 260,
