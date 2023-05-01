@@ -3,7 +3,7 @@ Rating: 4.50 (Ranked 529)
 Number of Ratings: 1,919  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 752  (Ranked 148)  
-Sum: 1,548 (Ranked 204)  
+Sum: 1,549 (Ranked 204)  
 Diff (max vs sum): -56
 ## Popularity (Based on EOS Achievements)
 Progressed: 77,793 (Ranked 60)  
@@ -25,7 +25,7 @@ Completed: 2,117 (2.72%) (Ranked 49)
 | This game has Inclusive Character Customization | 452 |
 | This game is Extremely Fun | 112 |
 | This game is Highly Recommended | 112 |
-| This game has Diverse Characters | 104 |
+| This game has Diverse Characters | 105 |
 | This game has Quickly Understood Controls | 103 |
 | This game has Amazing Storytelling | 102 |
 | This game has Challenging Combat | 92 |
@@ -116,3 +116,4 @@ Completed: 2,117 (2.72%) (Ranked 49)
 | 2023-04-25 | 4.50 | - | 751 | 1,546 |
 | 2023-04-27 | 4.50 | - | 752 | 1,547 |
 | 2023-04-28 | 4.50 | - | 752 | 1,548 |
+| 2023-05-01 | 4.50 | - | 752 | 1,549 |

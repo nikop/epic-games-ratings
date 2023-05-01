@@ -16,15 +16,15 @@
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.46% |
-| 17 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.38% |
-| 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
+| 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
+| 18 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.30% |
 | 19 | [Scorn](games/s/scorn.md) | 7.16% |
 | 20 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
-| 21 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 6.25% |
-| 22 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.20% |
-| 23 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
+| 21 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.20% |
+| 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
+| 23 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 5.88% |
 | 24 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.71% |
-| 25 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.05% |
+| 25 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.04% |
 | 26 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
 | 27 | [Bugsnax](games/b/bugsnax.md) | 4.59% |
 | 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.55% |
@@ -77,7 +77,7 @@
 | 75 | [Late Shift](games/l/late_shift.md) | 1.21% |
 | 76 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.18% |
 | 77 | [Ten Dates](games/t/ten_dates.md) | 1.06% |
-| 78 | [Dungeons 3](games/d/dungeons_3.md) | 0.97% |
+| 78 | [Dungeons 3](games/d/dungeons_3.md) | 0.96% |
 | 79 | [Sable](games/s/sable.md) | 0.91% |
 | 80 | [Five Dates](games/f/five_dates.md) | 0.89% |
 | 80 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |

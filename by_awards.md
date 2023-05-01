@@ -73,7 +73,7 @@
 | 71 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,075 | 4.51 | 511 |
 | 72 | [Chivalry 2](games/c/chivalry_2.md) | 4,001 | 4.61 | 352 |
 | 73 | [God of War](games/g/god_of_war.md) | 3,961 | 4.89 | 12 |
-| 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 3,929 | 4.77 | 105 |
+| 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 3,933 | 4.77 | 105 |
 | 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 3,799 | 4.56 | 444 |
 | 76 | [Days Gone](games/d/days_gone.md) | 3,738 | 4.69 | 211 |
 | 77 | [SMITE](games/s/smite.md) | 3,696 | 4.45 | 600 |
@@ -246,8 +246,8 @@
 | 243 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 226 | 4.85 | 37 |
 | 245 | [Overcooked! 2](games/o/overcooked!_2.md) | 222 | 4.74 | 141 |
 | 246 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 215 | 4.58 | 412 |
+| 246 | [Old World](games/o/old_world.md) | 215 | 4.65 | 287 |
 | 246 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 215 | 4.85 | 37 |
-| 248 | [Old World](games/o/old_world.md) | 214 | 4.65 | 287 |
 | 249 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 212 | 4.61 | 352 |
 | 250 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 211 | 4.84 | 49 |
 | 251 | [Crying Suns](games/c/crying_suns.md) | 209 | 4.50 | 529 |

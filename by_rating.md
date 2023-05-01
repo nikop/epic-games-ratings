@@ -105,7 +105,7 @@
 | 101 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.78 | 18,234 | 18 |
 | 101 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.78 | 97 | 322 |
 | 105 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 2,550 | 88 |
-| 105 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,929 | 74 |
+| 105 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,933 | 74 |
 | 105 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.77 | 0 | 489 |
 | 105 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 36 | 419 |
 | 105 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 0 | 489 |
@@ -299,7 +299,7 @@
 | 287 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 0 | 489 |
 | 287 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 149 | 281 |
 | 287 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 48 | 387 |
-| 287 | [Old World](games/o/old_world.md) | 4.65 | 214 | 248 |
+| 287 | [Old World](games/o/old_world.md) | 4.65 | 215 | 246 |
 | 287 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1,868 | 103 |
 | 287 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 51 | 381 |
 | 287 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 489 |
