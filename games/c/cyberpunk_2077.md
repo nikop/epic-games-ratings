@@ -1,12 +1,12 @@
 # Cyberpunk 2077
-Rating: 4.62 (Ranked 337)  
+Rating: 4.62 (Ranked 336)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 63,313  (Ranked 9)  
-Sum: 165,245 (Ranked 13)  
+Sum: 165,260 (Ranked 13)  
 Diff (max vs sum): -4
 ## Popularity (Based on EOS Achievements)
-Progressed: 797,100 (Ranked 10)  
+Progressed: 797,107 (Ranked 10)  
 Completed: 1,550 (0.19%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -17,7 +17,7 @@ Completed: 1,550 (0.19%) (Ranked 131)
 | 2023-04-28 | 796,415 | 1,545 |
 | 2023-04-29 | 796,749 | 1,545 |
 | 2023-04-30 | 797,072 | 1,550 |
-| 2023-05-01 | 797,100 | 1,550 |
+| 2023-05-01 | 797,107 | 1,550 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -31,7 +31,7 @@ Completed: 1,550 (0.19%) (Ranked 131)
 | This game is Highly Recommended | 7,062 |
 | This game has Quickly Understood Controls | 6,952 |
 | This game has Amazing Characters | 6,893 |
-| This game has a Creative Community | 4,588 |
+| This game has a Creative Community | 4,603 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -137,4 +137,4 @@ Completed: 1,550 (0.19%) (Ranked 131)
 | 2023-04-28 | 4.62 | - | 63,096 | 164,612 |
 | 2023-04-29 | 4.62 | - | 63,211 | 164,943 |
 | 2023-04-30 | 4.62 | - | 63,211 | 165,062 |
-| 2023-05-01 | 4.62 | - | 63,313 | 165,245 |
+| 2023-05-01 | 4.62 | - | 63,313 | 165,260 |

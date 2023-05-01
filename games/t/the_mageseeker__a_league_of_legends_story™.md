@@ -1,8 +1,8 @@
 # The Mageseeker: A League of Legends Story™
 Rating: 4.72 (Ranked 165)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 489)  
+Sum: 0 (Ranked 489)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,766 (Ranked 146)  

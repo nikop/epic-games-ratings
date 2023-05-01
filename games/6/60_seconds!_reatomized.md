@@ -1,8 +1,8 @@
 # 60 Seconds! Reatomized
 Rating: 4.63 (Ranked 327)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 489)  
+Sum: 0 (Ranked 489)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,923 (Ranked 126)  

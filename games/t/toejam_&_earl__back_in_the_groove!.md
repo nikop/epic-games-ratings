@@ -1,8 +1,8 @@
 # ToeJam & Earl: Back in the Groove!
 Rating: 4.32 (Ranked 738)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 489)  
+Sum: 0 (Ranked 489)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
 Progressed: 54,102 (Ranked 70)  

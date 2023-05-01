@@ -1,7 +1,14 @@
 {
   "ID": "5a2ea5980ac147c195775039195a3081",
   "Name": "STAR WARS Jedi: Survivor\u2122",
-  "Tags": [],
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 31
+    }
+  ],
   "EosHistory": [],
   "RatingHistory": [
     {
@@ -33,6 +40,12 @@
       "Rating": 4.38,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-01T04:00:47.3613954+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 31,
+      "NumberOfAwardsMax": 31
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -40,19 +53,20 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-01T03:06:24.1056253+00:00",
-  "LastUpdate_Ratings": "2023-05-01T03:01:05.2677581+00:00",
-  "LastChanged": "2023-05-01T03:01:05.2677568+00:00",
+  "LastUpdate_Achievements": "2023-05-01T04:06:07.9608877+00:00",
+  "LastUpdate_Ratings": "2023-05-01T04:00:47.3613956+00:00",
+  "LastChanged": "2023-05-01T04:00:47.3613953+00:00",
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
+  "MaxAwardTitle": "Great Boss Battles",
+  "NumberOfAwardsMax": 31,
+  "NumberOfAwards": 31,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 368,
-  "Ranking_PopularitySum": 488,
-  "Ranking_Popularity": 488,
-  "Ranking_Rating": 686,
-  "Rating": 4.38,
+  "Ranking_PopularitySum": 455,
+  "Ranking_Popularity": 438,
+  "Ranking_Rating": 694,
+  "Rating": 4.37,
   "FirstSeen": "2023-04-28T17:02:09.2169534+00:00"
 }

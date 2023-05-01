@@ -1,11 +1,11 @@
 # Them's Fightin' Herds
-Rating: 4.63 (Ranked 327)  
+Rating: 4.62 (Ranked 336)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 489)  
+Sum: 0 (Ranked 489)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,918 (Ranked 44)  
+Progressed: 219,925 (Ranked 44)  
 Completed: 2 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -16,7 +16,7 @@ Completed: 2 (0.00%) (Ranked 191)
 | 2023-04-28 | 219,630 | 2 |
 | 2023-04-29 | 219,775 | 2 |
 | 2023-04-30 | 219,904 | 2 |
-| 2023-05-01 | 219,918 | 2 |
+| 2023-05-01 | 219,925 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -56,3 +56,4 @@ Completed: 2 (0.00%) (Ranked 191)
 | 2023-04-14 | 4.63 | 0 | 0 |
 | 2023-04-16 | 4.62 | 0 | 0 |
 | 2023-04-19 | 4.63 | 0 | 0 |
+| 2023-05-01 | 4.62 | 0 | 0 |

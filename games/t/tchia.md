@@ -1,11 +1,11 @@
 # Tchia
 Rating: 4.76 (Ranked 114)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 489)  
+Sum: 0 (Ranked 489)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,416 (Ranked 116)  
+Progressed: 5,417 (Ranked 116)  
 Completed: 17 (0.31%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -16,7 +16,7 @@ Completed: 17 (0.31%) (Ranked 114)
 | 2023-04-28 | 5,366 | 16 |
 | 2023-04-29 | 5,392 | 17 |
 | 2023-04-30 | 5,414 | 17 |
-| 2023-05-01 | 5,416 | 17 |
+| 2023-05-01 | 5,417 | 17 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
