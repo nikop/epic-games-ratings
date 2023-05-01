@@ -16,15 +16,15 @@
 | 14 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 15 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.37% |
-| 18 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.34% |
-| 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
+| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.45% |
+| 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.29% |
 | 20 | [Scorn](games/s/scorn.md) | 7.15% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.11% |
 | 23 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 24 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.71% |
-| 25 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.04% |
+| 25 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.03% |
 | 26 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
 | 27 | [Bugsnax](games/b/bugsnax.md) | 4.60% |
 | 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.55% |
@@ -132,8 +132,8 @@
 | 130 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
 | 131 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.19% |
 | 131 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
-| 133 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.18% |
-| 134 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
+| 133 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
+| 133 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.17% |
 | 135 | [HITMAN 3](games/h/hitman_3.md) | 0.16% |
 | 135 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
 | 137 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
@@ -178,23 +178,24 @@
 | 176 | [Disco Elysium](games/d/disco_elysium.md) | 0.02% |
 | 176 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.02% |
 | 176 | [Good Company](games/g/good_company.md) | 0.02% |
+| 176 | [Old World](games/o/old_world.md) | 0.02% |
 | 176 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
 | 176 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
 | 176 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
 | 176 | [The Alto Collection](games/t/the_alto_collection.md) | 0.02% |
-| 183 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
-| 183 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
-| 183 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
-| 183 | [Old World](games/o/old_world.md) | 0.01% |
-| 183 | [Rocket League®](games/r/rocket_league®.md) | 0.01% |
-| 183 | [Severed Steel](games/s/severed_steel.md) | 0.01% |
-| 183 | [Sunless Sea](games/s/sunless_sea.md) | 0.01% |
-| 183 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
+| 184 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
+| 184 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
+| 184 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
+| 184 | [Rocket League®](games/r/rocket_league®.md) | 0.01% |
+| 184 | [Severed Steel](games/s/severed_steel.md) | 0.01% |
+| 184 | [Sunless Sea](games/s/sunless_sea.md) | 0.01% |
+| 184 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
 | 191 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 0.00% |
 | 191 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.00% |
 | 191 | [A Tale of Paper: Refolded](games/a/a_tale_of_paper__refolded.md) | 0.00% |
 | 191 | [Afterglitch](games/a/afterglitch.md) | 0.00% |
 | 191 | [ANNO Mutationem](games/a/anno_mutationem.md) | 0.00% |
+| 191 | [Apotheorasis • Lab of the Blind Gods](games/a/apotheorasis_•_lab_of_the_blind_gods.md) | 0.00% |
 | 191 | [Arcade Paradise](games/a/arcade_paradise.md) | 0.00% |
 | 191 | [Arcadegeddon](games/a/arcadegeddon.md) | 0.00% |
 | 191 | [ArcRunner](games/a/arcrunner.md) | 0.00% |

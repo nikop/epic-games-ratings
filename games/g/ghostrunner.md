@@ -1,12 +1,12 @@
 # Ghostrunner
-Rating: 4.72 (Ranked 165)  
+Rating: 4.72 (Ranked 166)  
 Number of Ratings: 1,047  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 454  (Ranked 188)  
 Sum: 586 (Ranked 279)  
 Diff (max vs sum): -91
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,621 (Ranked 127)  
+Progressed: 3,623 (Ranked 127)  
 Completed: 19 (0.52%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -17,7 +17,7 @@ Completed: 19 (0.52%) (Ranked 95)
 | 2023-04-28 | 3,248 | 19 |
 | 2023-04-29 | 3,386 | 19 |
 | 2023-04-30 | 3,517 | 19 |
-| 2023-05-01 | 3,621 | 19 |
+| 2023-05-01 | 3,623 | 19 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

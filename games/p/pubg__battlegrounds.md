@@ -1,11 +1,11 @@
 # PUBG: BATTLEGROUNDS
-Rating: 3.98 (Ranked 881)  
+Rating: 3.99 (Ranked 878)  
 ## Popularity (Based on Awards)
 Max (Competitive Players): 1,710  (Ranked 110)  
-Sum: 5,525 (Ranked 115)  
-Diff (max vs sum): -5
+Sum: 5,538 (Ranked 114)  
+Diff (max vs sum): -4
 ## Popularity (Based on EOS Achievements)
-Progressed: 344,580 (Ranked 35)  
+Progressed: 344,662 (Ranked 35)  
 Completed: 8 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -16,12 +16,12 @@ Completed: 8 (0.00%) (Ranked 191)
 | 2023-04-28 | 339,850 | 8 |
 | 2023-04-29 | 341,471 | 8 |
 | 2023-04-30 | 343,237 | 8 |
-| 2023-05-01 | 344,580 | 8 |
+| 2023-05-01 | 344,662 | 8 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Competitive Players | 1,710 |
-| This game has Challenging Combat | 1,494 |
+| This game has Challenging Combat | 1,507 |
 | This game has Quickly Understood Controls | 1,390 |
 | This game is Highly Recommended | 1,351 |
 | This game has a Competitive Community | 970 |
@@ -94,4 +94,4 @@ Completed: 8 (0.00%) (Ranked 191)
 | 2023-04-28 | 3.98 | 1,662 | 5,391 |
 | 2023-04-29 | 3.98 | 1,680 | 5,447 |
 | 2023-04-30 | 3.99 | 1,697 | 5,501 |
-| 2023-05-01 | 3.98 | 1,710 | 5,525 |
+| 2023-05-01 | 3.99 | 1,710 | 5,538 |

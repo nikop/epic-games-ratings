@@ -24,7 +24,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 72
+      "Count": 74
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -916,6 +916,12 @@
       "Rating": 4.35,
       "NumberOfAwards": 677,
       "NumberOfAwardsMax": 90
+    },
+    {
+      "Time": "2023-05-01T19:00:19.2805303+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 679,
+      "NumberOfAwardsMax": 90
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -923,18 +929,18 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-01T18:05:13.325527+00:00",
-  "LastUpdate_Ratings": "2023-05-01T18:00:09.1036868+00:00",
-  "LastChanged": "2023-04-30T02:00:25.5973728+00:00",
+  "LastUpdate_Achievements": "2023-05-01T19:05:36.1237272+00:00",
+  "LastUpdate_Ratings": "2023-05-01T19:00:19.2805308+00:00",
+  "LastChanged": "2023-05-01T19:00:19.2805301+00:00",
   "MaxAwardTitle": "Highly Recommended",
   "NumberOfAwardsMax": 90,
-  "NumberOfAwards": 677,
+  "NumberOfAwards": 679,
   "NumberOfRatings": 464,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 368,
-  "Ranking_PopularitySum": 263,
+  "Ranking_EOS_Progress": 369,
+  "Ranking_PopularitySum": 262,
   "Ranking_Popularity": 332,
   "Ranking_Rating": 712,
   "Rating": 4.35,

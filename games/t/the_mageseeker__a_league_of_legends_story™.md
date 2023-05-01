@@ -1,11 +1,11 @@
 # The Mageseeker: A League of Legends Story™
-Rating: 4.72 (Ranked 165)  
+Rating: 4.74 (Ranked 141)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 489)  
 Sum: 0 (Ranked 489)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,792 (Ranked 145)  
+Progressed: 1,797 (Ranked 145)  
 Completed: 1 (0.06%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -16,7 +16,7 @@ Completed: 1 (0.06%) (Ranked 161)
 | 2023-04-28 | 1,676 | 1 |
 | 2023-04-29 | 1,708 | 1 |
 | 2023-04-30 | 1,756 | 1 |
-| 2023-05-01 | 1,792 | 1 |
+| 2023-05-01 | 1,797 | 1 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -26,3 +26,4 @@ Completed: 1 (0.06%) (Ranked 161)
 | 2023-04-18 | - | 0 | 0 |
 | 2023-04-29 | 4.71 | 0 | 0 |
 | 2023-04-30 | 4.72 | 0 | 0 |
+| 2023-05-01 | 4.74 | 0 | 0 |
