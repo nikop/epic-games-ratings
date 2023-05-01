@@ -6,13 +6,13 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 63211
+      "Count": 63313
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 40547
+      "Count": 40628
     },
     {
       "Text": "This game has Diverse Characters",
@@ -709,6 +709,11 @@
     {
       "Time": "2023-05-01T00:03:26.7092612+00:00",
       "NumProgressed": 797077,
+      "NumCompleted": 1550
+    },
+    {
+      "Time": "2023-05-01T02:03:24.66604+00:00",
+      "NumProgressed": 797095,
       "NumCompleted": 1550
     }
   ],
@@ -5730,21 +5735,27 @@
       "Rating": 4.62,
       "NumberOfAwards": 165062,
       "NumberOfAwardsMax": 63211
+    },
+    {
+      "Time": "2023-05-01T01:58:34.4702651+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 165245,
+      "NumberOfAwardsMax": 63313
     }
   ],
   "EOS_Completed_Percentage": 0.19,
   "EOS_NewCompleters": 15,
-  "EOS_NewPlayers": 1498,
+  "EOS_NewPlayers": 1516,
   "EOS_Completed": 1550,
-  "EOS_Progressed": 797077,
-  "LastUpdate_Achievements": "2023-05-01T00:03:26.7092682+00:00",
-  "LastUpdate_Ratings": "2023-04-30T23:57:39.2215495+00:00",
-  "LastChanged_Achievements": "2023-05-01T00:03:26.7092606+00:00",
-  "LastChanged": "2023-04-30T18:57:51.1520963+00:00",
+  "EOS_Progressed": 797095,
+  "LastUpdate_Achievements": "2023-05-01T02:03:24.6660486+00:00",
+  "LastUpdate_Ratings": "2023-05-01T01:58:34.4702656+00:00",
+  "LastChanged_Achievements": "2023-05-01T02:03:24.6660392+00:00",
+  "LastChanged": "2023-05-01T01:58:34.4702649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "MaxAwardTitle": "Character Customization",
-  "NumberOfAwardsMax": 63211,
-  "NumberOfAwards": 165062,
+  "NumberOfAwardsMax": 63313,
+  "NumberOfAwards": 165245,
   "NumberOfRatings": 32700,
   "Ranking_EOS_NewCompleters": 12,
   "Ranking_EOS_NewPlayers": 34,

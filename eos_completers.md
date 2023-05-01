@@ -15,13 +15,13 @@
 | 13 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 14 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 14 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 16 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.44% |
-| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.40% |
+| 16 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.46% |
+| 17 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.40% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
 | 19 | [Scorn](games/s/scorn.md) | 7.16% |
-| 20 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 7.14% |
+| 20 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 6.67% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
-| 22 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.25% |
+| 22 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.20% |
 | 23 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 24 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.71% |
 | 25 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.05% |
@@ -29,7 +29,7 @@
 | 27 | [Bugsnax](games/b/bugsnax.md) | 4.59% |
 | 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.55% |
 | 29 | [Out of Bounds](games/o/out_of_bounds.md) | 4.35% |
-| 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.15% |
+| 30 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.14% |
 | 31 | [Doodle God](games/d/doodle_god.md) | 4.08% |
 | 32 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
 | 33 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
@@ -53,7 +53,7 @@
 | 51 | [ZZT!](games/z/zzt!.md) | 2.60% |
 | 52 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 53 | [Iron Danger](games/i/iron_danger.md) | 2.45% |
-| 54 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.26% |
+| 54 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.27% |
 | 55 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 56 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
 | 57 | [Sifu](games/s/sifu.md) | 1.81% |

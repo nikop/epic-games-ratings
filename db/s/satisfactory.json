@@ -18,13 +18,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 8801
+      "Count": 8812
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 8543
+      "Count": 8559
     },
     {
       "Text": "This game is Extremely Fun",
@@ -42,7 +42,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 7978
+      "Count": 7983
     },
     {
       "Text": "This game has Easy Combat",
@@ -4439,6 +4439,12 @@
       "Rating": 4.88,
       "NumberOfAwards": 79059,
       "NumberOfAwardsMax": 9202
+    },
+    {
+      "Time": "2023-05-01T02:00:37.1638194+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 79091,
+      "NumberOfAwardsMax": 9202
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -4446,12 +4452,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-01T00:05:20.7532944+00:00",
-  "LastUpdate_Ratings": "2023-04-30T23:59:39.7172192+00:00",
-  "LastChanged": "2023-04-30T23:59:39.7172185+00:00",
+  "LastUpdate_Achievements": "2023-05-01T02:05:59.7280625+00:00",
+  "LastUpdate_Ratings": "2023-05-01T02:00:37.1638199+00:00",
+  "LastChanged": "2023-05-01T02:00:37.1638192+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 9202,
-  "NumberOfAwards": 79059,
+  "NumberOfAwards": 79091,
   "NumberOfRatings": 29401,
   "Ranking_EOS_NewCompleters": 78,
   "Ranking_EOS_NewPlayers": 259,

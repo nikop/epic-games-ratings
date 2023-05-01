@@ -1,14 +1,14 @@
 # Darkest Dungeon®
-Rating: 4.75 (Ranked 128)  
+Rating: 4.75 (Ranked 127)  
 Number of Ratings: 5,428  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 3,168  (Ranked 83)  
-Sum: 8,664 (Ranked 84)  
+Max (Character Customization): 3,170  (Ranked 83)  
+Sum: 8,666 (Ranked 84)  
 Diff (max vs sum): -1
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 3,168 |
+| This game has Inclusive Character Customization | 3,170 |
 | This game has Diverse Characters | 674 |
 | This game has Challenging Combat | 662 |
 | This game is Highly Recommended | 648 |
@@ -119,3 +119,4 @@ Diff (max vs sum): -1
 | 2023-04-28 | 4.75 | - | 3,167 | 8,657 |
 | 2023-04-29 | 4.75 | - | 3,168 | 8,663 |
 | 2023-04-30 | 4.75 | - | 3,168 | 8,664 |
+| 2023-05-01 | 4.75 | - | 3,170 | 8,666 |

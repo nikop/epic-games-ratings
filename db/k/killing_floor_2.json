@@ -30,7 +30,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1544
+      "Count": 1546
     },
     {
       "Text": "This game is Great for Beginners",
@@ -4249,6 +4249,12 @@
       "Rating": 4.41,
       "NumberOfAwards": 25587,
       "NumberOfAwardsMax": 11848
+    },
+    {
+      "Time": "2023-05-01T02:01:15.153508+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 25589,
+      "NumberOfAwardsMax": 11848
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -4256,12 +4262,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-01T00:06:00.4969158+00:00",
-  "LastUpdate_Ratings": "2023-05-01T00:00:18.0660534+00:00",
-  "LastChanged": "2023-05-01T00:00:18.0660526+00:00",
+  "LastUpdate_Achievements": "2023-05-01T02:06:39.6356932+00:00",
+  "LastUpdate_Ratings": "2023-05-01T02:01:15.1535084+00:00",
+  "LastChanged": "2023-05-01T02:01:15.1535079+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 11848,
-  "NumberOfAwards": 25587,
+  "NumberOfAwards": 25589,
   "NumberOfRatings": 18418,
   "Ranking_EOS_NewCompleters": 78,
   "Ranking_EOS_NewPlayers": 259,

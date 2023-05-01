@@ -6,7 +6,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 30344
+      "Count": 30415
     },
     {
       "Text": "This game is Highly Recommended",
@@ -36,7 +36,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 25780
+      "Count": 25847
     },
     {
       "Text": "This game is Relaxing",
@@ -4787,6 +4787,12 @@
       "Rating": 4.74,
       "NumberOfAwards": 250846,
       "NumberOfAwardsMax": 30344
+    },
+    {
+      "Time": "2023-05-01T01:58:53.972888+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 250984,
+      "NumberOfAwardsMax": 30415
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -4794,12 +4800,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-01T00:03:18.295449+00:00",
-  "LastUpdate_Ratings": "2023-04-30T23:57:58.3746582+00:00",
-  "LastChanged": "2023-04-30T23:57:58.3746575+00:00",
+  "LastUpdate_Achievements": "2023-05-01T02:03:16.045735+00:00",
+  "LastUpdate_Ratings": "2023-05-01T01:58:53.9728884+00:00",
+  "LastChanged": "2023-05-01T01:58:53.9728878+00:00",
   "MaxAwardTitle": "Diverse Characters",
-  "NumberOfAwardsMax": 30344,
-  "NumberOfAwards": 250846,
+  "NumberOfAwardsMax": 30415,
+  "NumberOfAwards": 250984,
   "NumberOfRatings": 57866,
   "Ranking_EOS_NewCompleters": 78,
   "Ranking_EOS_NewPlayers": 259,

@@ -1,5 +1,5 @@
 # Riders Republic
-Rating: 4.75 (Ranked 128)  
+Rating: 4.75 (Ranked 127)  
 Number of Ratings: 4,120  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 426  (Ranked 190)  

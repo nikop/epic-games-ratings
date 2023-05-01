@@ -1,5 +1,5 @@
 # The Riftbreaker
-Rating: 4.75 (Ranked 128)  
+Rating: 4.75 (Ranked 127)  
 Number of Ratings: 277  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 37  (Ranked 414)  
