@@ -24,7 +24,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 396
+      "Count": 398
     },
     {
       "Text": "This game is Educational",
@@ -769,6 +769,11 @@
     {
       "Time": "2023-05-01T14:04:31.9040255+00:00",
       "NumProgressed": 61099,
+      "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-01T15:04:44.6853908+00:00",
+      "NumProgressed": 61110,
       "NumCompleted": 14
     }
   ],
@@ -1958,28 +1963,34 @@
       "Rating": 4.75,
       "NumberOfAwards": 2956,
       "NumberOfAwardsMax": 396
+    },
+    {
+      "Time": "2023-05-01T14:59:09.2049957+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 2958,
+      "NumberOfAwardsMax": 398
     }
   ],
   "EOS_Completed_Percentage": 0.02,
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 928,
+  "EOS_NewPlayers": 939,
   "EOS_Completed": 14,
-  "EOS_Progressed": 61099,
-  "LastUpdate_Achievements": "2023-05-01T14:04:31.9040347+00:00",
-  "LastUpdate_Ratings": "2023-05-01T13:59:05.3238786+00:00",
-  "LastChanged_Achievements": "2023-05-01T14:04:31.9040249+00:00",
-  "LastChanged": "2023-04-30T17:59:25.6215574+00:00",
+  "EOS_Progressed": 61110,
+  "LastUpdate_Achievements": "2023-05-01T15:04:44.6854018+00:00",
+  "LastUpdate_Ratings": "2023-05-01T14:59:09.2049963+00:00",
+  "LastChanged_Achievements": "2023-05-01T15:04:44.6853897+00:00",
+  "LastChanged": "2023-05-01T14:59:09.2049954+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.5210365+00:00",
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
   "MaxAwardTitle": "Diverse Characters",
-  "NumberOfAwardsMax": 396,
-  "NumberOfAwards": 2956,
+  "NumberOfAwardsMax": 398,
+  "NumberOfAwards": 2958,
   "Ranking_EOS_NewCompleters": 80,
   "Ranking_EOS_NewPlayers": 48,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_Progress": 65,
   "Ranking_PopularitySum": 150,
-  "Ranking_Popularity": 198,
+  "Ranking_Popularity": 197,
   "Ranking_Rating": 127,
   "Rating": 4.75,
   "FirstSeen": "2022-11-08T02:50:04.1543779+00:00"

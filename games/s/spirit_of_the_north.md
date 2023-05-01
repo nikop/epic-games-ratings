@@ -1,12 +1,12 @@
 # Spirit of the North
-Rating: 4.36 (Ranked 704)  
+Rating: 4.36 (Ranked 703)  
 Number of Ratings: 1,175  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 25  (Ranked 462)  
 Sum: 73 (Ranked 409)  
 Diff (max vs sum): 53
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,096 (Ranked 72)  
+Progressed: 52,111 (Ranked 72)  
 Completed: 236 (0.45%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -17,7 +17,7 @@ Completed: 236 (0.45%) (Ranked 100)
 | 2023-04-28 | 51,614 | 233 |
 | 2023-04-29 | 51,811 | 233 |
 | 2023-04-30 | 52,003 | 235 |
-| 2023-05-01 | 52,096 | 236 |
+| 2023-05-01 | 52,111 | 236 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

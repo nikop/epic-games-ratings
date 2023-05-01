@@ -30,7 +30,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2272
+      "Count": 2277
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -66,7 +66,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 2230
+      "Count": 2234
     },
     {
       "Text": "This game has a Creative Community",
@@ -4552,6 +4552,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 35950,
       "NumberOfAwardsMax": 14869
+    },
+    {
+      "Time": "2023-05-01T14:59:05.6602619+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 35959,
+      "NumberOfAwardsMax": 14869
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -4559,12 +4565,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-01T14:04:14.3799814+00:00",
-  "LastUpdate_Ratings": "2023-05-01T13:59:01.7508766+00:00",
-  "LastChanged": "2023-05-01T13:04:20.143159+00:00",
+  "LastUpdate_Achievements": "2023-05-01T15:04:27.1516578+00:00",
+  "LastUpdate_Ratings": "2023-05-01T14:59:05.6602625+00:00",
+  "LastChanged": "2023-05-01T14:59:05.6602616+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 14869,
-  "NumberOfAwards": 35950,
+  "NumberOfAwards": 35959,
   "NumberOfRatings": 14665,
   "Ranking_EOS_NewCompleters": 80,
   "Ranking_EOS_NewPlayers": 265,

@@ -5,20 +5,20 @@
 | 3 | [Doodle Devil](games/d/doodle_devil.md) | 19.72% |
 | 4 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 5 | [Island Cities](games/i/island_cities.md) | 16.28% |
-| 6 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
-| 7 | [Them and Us](games/t/them_and_us.md) | 12.50% |
-| 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.33% |
-| 9 | [Ravenlok](games/r/ravenlok.md) | 12.28% |
-| 10 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.90% |
-| 11 | [Smelter](games/s/smelter.md) | 10.00% |
-| 12 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 9.52% |
+| 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 14.29% |
+| 7 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
+| 8 | [Them and Us](games/t/them_and_us.md) | 12.50% |
+| 9 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.33% |
+| 10 | [Ravenlok](games/r/ravenlok.md) | 12.28% |
+| 11 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.90% |
+| 12 | [Smelter](games/s/smelter.md) | 10.00% |
 | 13 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 14 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 15 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.39% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.29% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.25% |
 | 20 | [Scorn](games/s/scorn.md) | 7.15% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.20% |

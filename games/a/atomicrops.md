@@ -1,5 +1,5 @@
 # Atomicrops
-Rating: 4.88 (Ranked 18)  
+Rating: 4.88 (Ranked 17)  
 Number of Ratings: 157  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 128  (Ranked 291)  

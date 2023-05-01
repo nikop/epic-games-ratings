@@ -18,7 +18,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 181
+      "Count": 182
     },
     {
       "Text": "This game is Relaxing",
@@ -779,6 +779,11 @@
       "Time": "2023-05-01T14:04:38.4792018+00:00",
       "NumProgressed": 2501913,
       "NumCompleted": 1211
+    },
+    {
+      "Time": "2023-05-01T15:04:51.0530673+00:00",
+      "NumProgressed": 2502089,
+      "NumCompleted": 1211
     }
   ],
   "RatingHistory": [
@@ -1503,22 +1508,28 @@
       "Rating": 4.78,
       "NumberOfAwards": 6353,
       "NumberOfAwardsMax": 4671
+    },
+    {
+      "Time": "2023-05-01T14:59:20.8774033+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6354,
+      "NumberOfAwardsMax": 4671
     }
   ],
   "EOS_Completed_Percentage": 0.05,
   "EOS_NewCompleters": 19,
-  "EOS_NewPlayers": 15631,
+  "EOS_NewPlayers": 15807,
   "EOS_Completed": 1211,
-  "EOS_Progressed": 2501913,
-  "LastUpdate_Achievements": "2023-05-01T14:04:38.4792104+00:00",
-  "LastUpdate_Ratings": "2023-05-01T13:59:17.0014542+00:00",
-  "LastChanged_Achievements": "2023-05-01T14:04:38.4792012+00:00",
-  "LastChanged": "2023-05-01T11:59:24.2517885+00:00",
+  "EOS_Progressed": 2502089,
+  "LastUpdate_Achievements": "2023-05-01T15:04:51.0530865+00:00",
+  "LastUpdate_Ratings": "2023-05-01T14:59:20.8774038+00:00",
+  "LastChanged_Achievements": "2023-05-01T15:04:51.0530659+00:00",
+  "LastChanged": "2023-05-01T14:59:20.877403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4568425+00:00",
   "FirstSeenRating": "2022-12-26T09:58:07.1196688+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 4671,
-  "NumberOfAwards": 6353,
+  "NumberOfAwards": 6354,
   "Ranking_EOS_NewCompleters": 9,
   "Ranking_EOS_NewPlayers": 8,
   "Ranking_EOS_Completed": 165,
