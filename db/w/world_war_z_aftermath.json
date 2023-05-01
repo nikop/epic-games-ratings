@@ -36,7 +36,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3382
+      "Count": 3385
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4550,6 +4550,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 25692,
       "NumberOfAwardsMax": 3799
+    },
+    {
+      "Time": "2023-05-01T05:57:12.1149289+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 25695,
+      "NumberOfAwardsMax": 3799
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -4557,14 +4563,14 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-01T05:02:37.2340658+00:00",
-  "LastUpdate_Ratings": "2023-05-01T04:57:05.6374399+00:00",
-  "LastChanged_Achievements": "2023-05-01T05:02:37.2340634+00:00",
-  "LastChanged": "2023-05-01T04:57:05.6374391+00:00",
+  "LastUpdate_Achievements": "2023-05-01T06:02:22.5024205+00:00",
+  "LastUpdate_Ratings": "2023-05-01T05:57:12.1149294+00:00",
+  "LastChanged_Achievements": "2023-05-01T06:02:22.5024176+00:00",
+  "LastChanged": "2023-05-01T05:57:12.1149288+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.7901405+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 3799,
-  "NumberOfAwards": 25692,
+  "NumberOfAwards": 25695,
   "NumberOfRatings": 17073,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 260,

@@ -42,7 +42,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1014
+      "Count": 1018
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2746,6 +2746,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 7979,
       "NumberOfAwardsMax": 1116
+    },
+    {
+      "Time": "2023-05-01T05:59:27.1221953+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 7983,
+      "NumberOfAwardsMax": 1116
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -2753,12 +2759,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-01T05:05:37.5846515+00:00",
-  "LastUpdate_Ratings": "2023-05-01T05:00:12.8249831+00:00",
-  "LastChanged": "2023-05-01T00:00:08.3777597+00:00",
+  "LastUpdate_Achievements": "2023-05-01T06:04:47.7863962+00:00",
+  "LastUpdate_Ratings": "2023-05-01T05:59:27.1221957+00:00",
+  "LastChanged": "2023-05-01T05:59:27.1221952+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 1116,
-  "NumberOfAwards": 7979,
+  "NumberOfAwards": 7983,
   "NumberOfRatings": 1374,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 260,

@@ -86,7 +86,7 @@
 | 84 | [Lemon Cake](games/l/lemon_cake.md) | 0.86% |
 | 85 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.83% |
 | 86 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
-| 87 | [Adios](games/a/adios.md) | 0.78% |
+| 87 | [Adios](games/a/adios.md) | 0.79% |
 | 88 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
 | 88 | [Train Valley](games/t/train_valley.md) | 0.74% |
 | 90 | [Haven](games/h/haven.md) | 0.73% |
@@ -94,7 +94,7 @@
 | 92 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.65% |
 | 92 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
 | 94 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
-| 95 | [Ghostrunner](games/g/ghostrunner.md) | 0.54% |
+| 95 | [Ghostrunner](games/g/ghostrunner.md) | 0.53% |
 | 96 | [Grindstone](games/g/grindstone.md) | 0.52% |
 | 97 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.51% |
 | 98 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.50% |

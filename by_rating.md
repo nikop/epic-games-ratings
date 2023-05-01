@@ -20,7 +20,7 @@
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 128 | 291 |
 | 18 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 248 | 236 |
 | 18 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 0 | 489 |
-| 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 9,202 | 34 |
+| 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 9,217 | 34 |
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 471 |
 | 18 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 489 |
 | 24 | [Black Book](games/b/black_book.md) | 4.87 | 21 | 477 |
@@ -798,7 +798,7 @@
 | 793 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.22 | 0 | 489 |
 | 797 | [Flatout](games/f/flatout.md) | 4.21 | 0 | 489 |
 | 797 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 175 | 268 |
-| 797 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 12,816 | 26 |
+| 797 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 12,833 | 26 |
 | 797 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 0 | 489 |
 | 801 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 122 | 297 |
 | 801 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 119 | 298 |
@@ -815,7 +815,7 @@
 | 813 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 382 |
 | 813 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 0 | 489 |
 | 813 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 0 | 489 |
-| 813 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 181,394 | 4 |
+| 813 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 181,493 | 4 |
 | 813 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 489 |
 | 813 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 26 | 458 |
 | 819 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 489 |
