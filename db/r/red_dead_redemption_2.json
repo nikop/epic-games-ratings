@@ -54,7 +54,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 12947
+      "Count": 12977
     },
     {
       "Text": "This game is Great for Beginners",
@@ -5267,6 +5267,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 350457,
       "NumberOfAwardsMax": 137782
+    },
+    {
+      "Time": "2023-05-02T10:59:19.8165055+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 350487,
+      "NumberOfAwardsMax": 137782
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -5274,14 +5280,14 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-02T10:03:36.3666329+00:00",
-  "LastUpdate_Ratings": "2023-05-02T09:58:21.8420095+00:00",
-  "LastChanged": "2023-05-02T09:58:21.8420089+00:00",
+  "LastUpdate_Achievements": "2023-05-02T11:04:39.021246+00:00",
+  "LastUpdate_Ratings": "2023-05-02T10:59:19.816506+00:00",
+  "LastChanged": "2023-05-02T10:59:19.8165052+00:00",
   "MaxAwardTitle": "Impact the Story",
   "NumberOfAwardsMax": 137782,
-  "NumberOfAwards": 350457,
+  "NumberOfAwards": 350487,
   "NumberOfRatings": 102658,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 372,

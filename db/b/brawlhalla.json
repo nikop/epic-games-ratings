@@ -30,7 +30,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 80
+      "Count": 82
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1474,6 +1474,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 909,
       "NumberOfAwardsMax": 97
+    },
+    {
+      "Time": "2023-05-02T11:00:02.1215396+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 911,
+      "NumberOfAwardsMax": 97
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -1481,14 +1487,14 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-02T10:04:03.3084008+00:00",
-  "LastUpdate_Ratings": "2023-05-02T09:58:50.9335134+00:00",
-  "LastChanged": "2023-05-02T03:00:00.8174351+00:00",
+  "LastUpdate_Achievements": "2023-05-02T11:05:16.0606468+00:00",
+  "LastUpdate_Ratings": "2023-05-02T11:00:02.1215403+00:00",
+  "LastChanged": "2023-05-02T11:00:02.1215393+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 97,
-  "NumberOfAwards": 909,
-  "Ranking_EOS_NewCompleters": 82,
+  "NumberOfAwards": 911,
+  "Ranking_EOS_NewCompleters": 83,
   "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 372,

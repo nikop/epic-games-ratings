@@ -116,7 +116,7 @@
 | 113 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,067 | 23 |
 | 113 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 85 | 337 |
 | 113 | [Dead Space](games/d/dead_space.md) | 4.76 | 38 | 412 |
-| 113 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 831 | 144 |
+| 113 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 832 | 144 |
 | 113 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 61 | 373 |
 | 113 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 489 |
 | 113 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 99 | 319 |
@@ -346,7 +346,7 @@
 | 337 | [NORCO](games/n/norco.md) | 4.62 | 0 | 489 |
 | 337 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 489 |
 | 337 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 102 | 317 |
-| 337 | [Prey](games/p/prey.md) | 4.62 | 5,524 | 57 |
+| 337 | [Prey](games/p/prey.md) | 4.62 | 5,526 | 57 |
 | 337 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 72 | 353 |
 | 337 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.62 | 0 | 489 |
 | 337 | [Transistor](games/t/transistor.md) | 4.62 | 0 | 489 |
@@ -377,7 +377,7 @@
 | 352 | [Supraland](games/s/supraland.md) | 4.61 | 7,603 | 40 |
 | 352 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.61 | 63 | 370 |
 | 352 | [Warframe](games/w/warframe.md) | 4.61 | 14,477 | 21 |
-| 378 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,632 | 30 |
+| 378 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,644 | 29 |
 | 378 | [Control](games/c/control.md) | 4.60 | 8,254 | 38 |
 | 378 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 350 |
 | 378 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,219 | 25 |
@@ -471,7 +471,7 @@
 | 466 | [Hue](games/h/hue.md) | 4.55 | 0 | 489 |
 | 466 | [Outward](games/o/outward.md) | 4.55 | 31 | 439 |
 | 466 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 489 |
-| 466 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 831 | 144 |
+| 466 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 831 | 145 |
 | 466 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.55 | 32 | 433 |
 | 466 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,130 | 124 |
 | 475 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 1,827 | 104 |
@@ -498,9 +498,9 @@
 | 488 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 92 | 330 |
 | 488 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 489 |
 | 488 | [Verdun](games/v/verdun.md) | 4.53 | 93 | 329 |
-| 499 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 734 | 150 |
+| 499 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 735 | 150 |
 | 499 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 38 | 412 |
-| 499 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 26,939 | 16 |
+| 499 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 26,960 | 16 |
 | 499 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 500 | 182 |
 | 499 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 99 | 319 |
 | 499 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 147 | 282 |
@@ -749,7 +749,7 @@
 | 739 | [Vampyr](games/v/vampyr.md) | 4.32 | 545 | 174 |
 | 748 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 489 |
 | 748 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.31 | 0 | 489 |
-| 748 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 926 | 140 |
+| 748 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 928 | 140 |
 | 751 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 489 |
 | 751 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 489 |
 | 751 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 489 |
@@ -760,7 +760,7 @@
 | 757 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 0 | 489 |
 | 757 | [ELEX II](games/e/elex_ii.md) | 4.29 | 0 | 489 |
 | 757 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,271,372 | 1 |
-| 757 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 677 | 157 |
+| 757 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 679 | 157 |
 | 757 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 43 | 406 |
 | 757 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 128 | 291 |
 | 757 | [The Fall](games/t/the_fall.md) | 4.29 | 0 | 489 |
