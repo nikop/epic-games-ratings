@@ -24,13 +24,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 478
+      "Count": 482
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 458
+      "Count": 459
     },
     {
       "Text": "This game has Diverse Characters",
@@ -809,6 +809,11 @@
     {
       "Time": "2023-05-02T17:04:37.9051281+00:00",
       "NumProgressed": 702513,
+      "NumCompleted": 12707
+    },
+    {
+      "Time": "2023-05-02T19:04:39.26398+00:00",
+      "NumProgressed": 702515,
       "NumCompleted": 12707
     }
   ],
@@ -4429,23 +4434,29 @@
       "Rating": 4.82,
       "NumberOfAwards": 10174,
       "NumberOfAwardsMax": 6014
+    },
+    {
+      "Time": "2023-05-02T18:59:05.6450464+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10179,
+      "NumberOfAwardsMax": 6014
     }
   ],
   "EOS_Completed_Percentage": 1.81,
   "EOS_NewCompleters": 17,
-  "EOS_NewPlayers": 369,
+  "EOS_NewPlayers": 370,
   "EOS_Completed": 12707,
-  "EOS_Progressed": 702513,
-  "LastUpdate_Achievements": "2023-05-02T18:04:39.6919776+00:00",
-  "LastUpdate_Ratings": "2023-05-02T17:59:14.2666261+00:00",
-  "LastChanged_Achievements": "2023-05-02T18:04:39.6919681+00:00",
-  "LastChanged": "2023-05-02T14:58:26.0172984+00:00",
+  "EOS_Progressed": 702515,
+  "LastUpdate_Achievements": "2023-05-02T19:04:39.2639885+00:00",
+  "LastUpdate_Ratings": "2023-05-02T18:59:05.6450474+00:00",
+  "LastChanged_Achievements": "2023-05-02T19:04:39.2639794+00:00",
+  "LastChanged": "2023-05-02T18:59:05.6450462+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 6014,
-  "NumberOfAwards": 10174,
+  "NumberOfAwards": 10179,
   "NumberOfRatings": 9492,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 13,
   "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_Completed": 57,
   "Ranking_EOS_Progress": 14,

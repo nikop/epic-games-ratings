@@ -17,7 +17,7 @@
 | 15 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.48% |
-| 18 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.42% |
+| 18 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.40% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
 | 20 | [Scorn](games/s/scorn.md) | 7.14% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
@@ -41,9 +41,9 @@
 | 39 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.23% |
 | 40 | [HordeCore](games/h/hordecore.md) | 3.06% |
 | 41 | [Lamentum](games/l/lamentum.md) | 3.02% |
-| 42 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.99% |
-| 43 | [MultiVersus](games/m/multiversus.md) | 2.96% |
-| 44 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.94% |
+| 42 | [MultiVersus](games/m/multiversus.md) | 2.96% |
+| 43 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.94% |
+| 43 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.94% |
 | 45 | [Destiny 2](games/d/destiny_2.md) | 2.92% |
 | 46 | [Bunny Park](games/b/bunny_park.md) | 2.88% |
 | 47 | [FORECLOSED](games/f/foreclosed.md) | 2.74% |
@@ -53,7 +53,7 @@
 | 51 | [ZZT!](games/z/zzt!.md) | 2.61% |
 | 52 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 53 | [Iron Danger](games/i/iron_danger.md) | 2.45% |
-| 54 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.28% |
+| 54 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.29% |
 | 55 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 56 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
 | 57 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -85,8 +85,8 @@
 | 82 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.88% |
 | 84 | [Lemon Cake](games/l/lemon_cake.md) | 0.86% |
 | 85 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.83% |
+| 86 | [Adios](games/a/adios.md) | 0.80% |
 | 86 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
-| 87 | [Adios](games/a/adios.md) | 0.79% |
 | 88 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 89 | [Train Valley](games/t/train_valley.md) | 0.74% |
 | 90 | [Haven](games/h/haven.md) | 0.73% |

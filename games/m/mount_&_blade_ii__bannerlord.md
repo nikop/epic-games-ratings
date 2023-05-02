@@ -1,12 +1,12 @@
 # Mount & Blade II: Bannerlord
-Rating: 4.74 (Ranked 141)  
+Rating: 4.74 (Ranked 142)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 6,472  (Ranked 49)  
 Sum: 12,885 (Ranked 68)  
 Diff (max vs sum): -19
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,644 (Ranked 73)  
+Progressed: 48,649 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -18,7 +18,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-04-29 | 48,380 | 0 |
 | 2023-04-30 | 48,489 | 0 |
 | 2023-05-01 | 48,589 | 0 |
-| 2023-05-02 | 48,644 | 0 |
+| 2023-05-02 | 48,649 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

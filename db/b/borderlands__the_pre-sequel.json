@@ -36,7 +36,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 350
+      "Count": 352
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2337,6 +2337,12 @@
       "Rating": 4.49,
       "NumberOfAwards": 2722,
       "NumberOfAwardsMax": 393
+    },
+    {
+      "Time": "2023-05-02T18:58:22.1340665+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2724,
+      "NumberOfAwardsMax": 393
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -2344,15 +2350,15 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-02T18:02:23.9779309+00:00",
-  "LastUpdate_Ratings": "2023-05-02T17:58:22.6714104+00:00",
-  "LastChanged": "2023-04-30T10:57:49.1873458+00:00",
+  "LastUpdate_Achievements": "2023-05-02T19:02:27.6322153+00:00",
+  "LastUpdate_Ratings": "2023-05-02T18:58:22.134067+00:00",
+  "LastChanged": "2023-05-02T18:58:22.1340663+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 393,
-  "NumberOfAwards": 2722,
+  "NumberOfAwards": 2724,
   "NumberOfRatings": 2939,
   "Ranking_EOS_NewCompleters": 84,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 372,
   "Ranking_PopularitySum": 158,

@@ -1,9 +1,9 @@
 # Overcooked! 2
-Rating: 4.74 (Ranked 141)  
+Rating: 4.74 (Ranked 142)  
 Number of Ratings: 5,157  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 222  (Ranked 245)  
-Sum: 2,122 (Ranked 177)  
+Sum: 2,123 (Ranked 177)  
 Diff (max vs sum): 68
 ## Awards
 | Award | Count |
@@ -19,7 +19,7 @@ Diff (max vs sum): 68
 | This game has Diverse Characters | 172 |
 | This game has Amazing Storytelling | 160 |
 | This game has Obsessive Gameplay | 150 |
-| This game has Playful Visuals | 147 |
+| This game has Playful Visuals | 148 |
 | This game has a Creative Community | 109 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -109,3 +109,4 @@ Diff (max vs sum): 68
 | 2023-04-28 | 4.74 | - | 222 | 2,119 |
 | 2023-04-29 | 4.74 | - | 222 | 2,121 |
 | 2023-04-30 | 4.74 | - | 222 | 2,122 |
+| 2023-05-02 | 4.74 | - | 222 | 2,123 |

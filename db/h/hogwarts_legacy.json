@@ -30,7 +30,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 710
+      "Count": 711
     },
     {
       "Text": "This game is Extremely Fun",
@@ -66,7 +66,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 598
+      "Count": 599
     },
     {
       "Text": "This game has a Creative Community",
@@ -894,6 +894,11 @@
     {
       "Time": "2023-05-02T18:03:25.2290334+00:00",
       "NumProgressed": 265205,
+      "NumCompleted": 342
+    },
+    {
+      "Time": "2023-05-02T19:03:25.0662856+00:00",
+      "NumProgressed": 265213,
       "NumCompleted": 342
     }
   ],
@@ -2577,22 +2582,28 @@
       "Rating": 4.77,
       "NumberOfAwards": 33249,
       "NumberOfAwardsMax": 18275
+    },
+    {
+      "Time": "2023-05-02T18:57:19.1809191+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 33251,
+      "NumberOfAwardsMax": 18275
     }
   ],
   "EOS_Completed_Percentage": 0.13,
   "EOS_NewCompleters": 9,
-  "EOS_NewPlayers": 1213,
+  "EOS_NewPlayers": 1209,
   "EOS_Completed": 342,
-  "EOS_Progressed": 265205,
-  "LastUpdate_Achievements": "2023-05-02T18:03:25.2290428+00:00",
-  "LastUpdate_Ratings": "2023-05-02T17:57:06.5749283+00:00",
-  "LastChanged_Achievements": "2023-05-02T18:03:25.2290329+00:00",
-  "LastChanged": "2023-05-02T17:57:06.5749276+00:00",
+  "EOS_Progressed": 265213,
+  "LastUpdate_Achievements": "2023-05-02T19:03:25.0662939+00:00",
+  "LastUpdate_Ratings": "2023-05-02T18:57:19.18092+00:00",
+  "LastChanged_Achievements": "2023-05-02T19:03:25.0662848+00:00",
+  "LastChanged": "2023-05-02T18:57:19.1809189+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 18275,
-  "NumberOfAwards": 33249,
+  "NumberOfAwards": 33251,
   "Ranking_EOS_NewCompleters": 18,
   "Ranking_EOS_NewPlayers": 46,
   "Ranking_EOS_Completed": 143,
