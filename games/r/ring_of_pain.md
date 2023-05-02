@@ -6,7 +6,7 @@ Max (Quickly Understood Controls): 1,469  (Ranked 114)
 Sum: 11,372 (Ranked 74)  
 Diff (max vs sum): 40
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,619 (Ranked 41)  
+Progressed: 227,624 (Ranked 41)  
 Completed: 223 (0.10%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -18,7 +18,7 @@ Completed: 223 (0.10%) (Ranked 150)
 | 2023-04-29 | 227,392 | 222 |
 | 2023-04-30 | 227,485 | 222 |
 | 2023-05-01 | 227,568 | 223 |
-| 2023-05-02 | 227,619 | 223 |
+| 2023-05-02 | 227,624 | 223 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

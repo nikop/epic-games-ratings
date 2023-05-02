@@ -883,6 +883,11 @@
       "Time": "2023-05-02T17:03:31.045851+00:00",
       "NumProgressed": 608503,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-02T18:03:22.9014272+00:00",
+      "NumProgressed": 608520,
+      "NumCompleted": 9
     }
   ],
   "RatingHistory": [
@@ -2800,12 +2805,12 @@
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 3166,
+  "EOS_NewPlayers": 3159,
   "EOS_Completed": 9,
-  "EOS_Progressed": 608503,
-  "LastUpdate_Achievements": "2023-05-02T17:03:31.0458754+00:00",
-  "LastUpdate_Ratings": "2023-05-02T16:58:01.6780308+00:00",
-  "LastChanged_Achievements": "2023-05-02T17:03:31.0458503+00:00",
+  "EOS_Progressed": 608520,
+  "LastUpdate_Achievements": "2023-05-02T18:03:22.9014367+00:00",
+  "LastUpdate_Ratings": "2023-05-02T17:58:00.1385763+00:00",
+  "LastChanged_Achievements": "2023-05-02T18:03:22.9014266+00:00",
   "LastChanged": "2023-04-28T03:57:59.3326638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "MaxAwardTitle": "Quickly Understood Controls",

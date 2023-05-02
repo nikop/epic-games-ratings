@@ -1,11 +1,11 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.71% |
-| 2 | [Overloop](games/o/overloop.md) | 25.00% |
+| 1 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.00% |
+| 1 | [Overloop](games/o/overloop.md) | 25.00% |
 | 3 | [Doodle Devil](games/d/doodle_devil.md) | 19.44% |
 | 4 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 16.67% |
 | 5 | [Island Cities](games/i/island_cities.md) | 16.67% |
+| 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 16.00% |
 | 7 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.01% |
 | 9 | [Them and Us](games/t/them_and_us.md) | 12.50% |
@@ -16,7 +16,7 @@
 | 14 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 15 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.49% |
+| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.48% |
 | 18 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.42% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
 | 20 | [Scorn](games/s/scorn.md) | 7.14% |
@@ -113,17 +113,17 @@
 | 110 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
 | 110 | [Tchia](games/t/tchia.md) | 0.33% |
 | 113 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
+| 113 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.32% |
 | 113 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
-| 115 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
-| 115 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 115 | [The Surge](games/t/the_surge.md) | 0.31% |
-| 118 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.30% |
-| 118 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
-| 120 | [Aegis Descent](games/a/aegis_descent.md) | 0.29% |
-| 121 | [Despot's Game](games/d/despot's_game.md) | 0.28% |
-| 122 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
-| 122 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.27% |
-| 122 | [Wildermyth](games/w/wildermyth.md) | 0.27% |
+| 116 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
+| 116 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 116 | [The Surge](games/t/the_surge.md) | 0.31% |
+| 119 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.30% |
+| 119 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
+| 121 | [Aegis Descent](games/a/aegis_descent.md) | 0.29% |
+| 122 | [Despot's Game](games/d/despot's_game.md) | 0.28% |
+| 123 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
+| 123 | [Wildermyth](games/w/wildermyth.md) | 0.27% |
 | 125 | [Circus Electrique](games/c/circus_electrique.md) | 0.26% |
 | 126 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
 | 127 | [Blanc](games/b/blanc.md) | 0.22% |

@@ -26,7 +26,7 @@
 | 24 | [Maneater](games/m/maneater.md) | 13,424 | 4.49 | 546 |
 | 25 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,219 | 4.60 | 378 |
 | 26 | [League of Legends](games/l/league_of_legends.md) | 12,863 | 4.21 | 797 |
-| 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,307 | 4.37 | 694 |
+| 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,307 | 4.37 | 695 |
 | 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,857 | 4.41 | 651 |
 | 29 | [NBA 2K21](games/n/nba_2k21.md) | 11,645 | 4.39 | 677 |
 | 30 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 11,644 | 4.60 | 378 |
@@ -57,7 +57,7 @@
 | 55 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,820 | 4.79 | 91 |
 | 56 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,755 | 4.66 | 273 |
 | 57 | [Prey](games/p/prey.md) | 5,526 | 4.62 | 336 |
-| 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,455 | 4.82 | 60 |
+| 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,460 | 4.82 | 60 |
 | 59 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,454 | 4.85 | 37 |
 | 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,147 | 4.68 | 234 |
 | 61 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,860 | 4.06 | 866 |
@@ -99,7 +99,7 @@
 | 97 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,211 | 4.67 | 256 |
 | 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,178 | 4.17 | 826 |
 | 99 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,161 | 4.41 | 651 |
-| 100 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,131 | 4.37 | 694 |
+| 100 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,131 | 4.37 | 695 |
 | 101 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,083 | 4.64 | 312 |
 | 102 | [Dead Island 2](games/d/dead_island_2.md) | 1,989 | 4.54 | 475 |
 | 103 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,971 | 4.49 | 546 |
@@ -151,7 +151,7 @@
 | 149 | [The Long Dark](games/t/the_long_dark.md) | 746 | 4.74 | 141 |
 | 150 | [Auto Chess](games/a/auto_chess.md) | 735 | 4.52 | 499 |
 | 151 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 733 | 4.56 | 445 |
-| 152 | [Core](games/c/core.md) | 727 | 4.37 | 694 |
+| 152 | [Core](games/c/core.md) | 727 | 4.37 | 695 |
 | 153 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 717 | 4.79 | 91 |
 | 154 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 692 | 4.59 | 395 |
 | 155 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 688 | 4.44 | 622 |
@@ -392,7 +392,7 @@
 | 389 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 48 | 4.65 | 288 |
 | 389 | [Session: Skate Sim](games/s/session__skate_sim.md) | 48 | 4.65 | 288 |
 | 392 | [MORDHAU](games/m/mordhau.md) | 47 | 4.41 | 651 |
-| 392 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 47 | 4.37 | 694 |
+| 392 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 47 | 4.37 | 695 |
 | 392 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 47 | 3.76 | 907 |
 | 395 | [ATOM RPG](games/a/atom_rpg.md) | 46 | 4.45 | 601 |
 | 395 | [AXIOM VERGE](games/a/axiom_verge.md) | 46 | 4.57 | 426 |
@@ -440,7 +440,7 @@
 | 433 | [TUNIC](games/t/tunic.md) | 32 | 4.85 | 37 |
 | 439 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 31 | 4.24 | 779 |
 | 439 | [Outward](games/o/outward.md) | 31 | 4.55 | 466 |
-| 439 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 31 | 4.37 | 694 |
+| 439 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 31 | 4.37 | 695 |
 | 442 | [Isonzo](games/i/isonzo.md) | 30 | 4.56 | 445 |
 | 442 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 30 | 4.42 | 641 |
 | 442 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 30 | 4.68 | 234 |

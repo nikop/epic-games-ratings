@@ -61,7 +61,7 @@
 | 55 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 81 | 343 |
 | 60 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 489 |
 | 60 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,252 | 120 |
-| 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,455 | 58 |
+| 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,460 | 58 |
 | 60 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.82 | 0 | 489 |
 | 60 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 489 |
 | 60 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 489 |
@@ -688,20 +688,20 @@
 | 677 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 321 | 215 |
 | 677 | [Tunche](games/t/tunche.md) | 4.39 | 0 | 489 |
 | 688 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 489 |
+| 688 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.38 | 0 | 489 |
 | 688 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 0 | 489 |
 | 688 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 162 | 277 |
 | 688 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 162 | 277 |
 | 688 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 0 | 489 |
 | 688 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 489 |
-| 694 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.37 | 0 | 489 |
-| 694 | [Core](games/c/core.md) | 4.37 | 727 | 152 |
-| 694 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 0 | 489 |
-| 694 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 12,307 | 27 |
-| 694 | [Hammerting](games/h/hammerting.md) | 4.37 | 0 | 489 |
-| 694 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,131 | 100 |
-| 694 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 489 |
-| 694 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 47 | 392 |
-| 694 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 31 | 439 |
+| 695 | [Core](games/c/core.md) | 4.37 | 727 | 152 |
+| 695 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 0 | 489 |
+| 695 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 12,307 | 27 |
+| 695 | [Hammerting](games/h/hammerting.md) | 4.37 | 0 | 489 |
+| 695 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,131 | 100 |
+| 695 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 489 |
+| 695 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 47 | 392 |
+| 695 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 31 | 439 |
 | 703 | [Among Trees](games/a/among_trees.md) | 4.36 | 0 | 489 |
 | 703 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 272 |
 | 703 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 0 | 489 |
