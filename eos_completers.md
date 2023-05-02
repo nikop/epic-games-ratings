@@ -17,8 +17,8 @@
 | 15 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.49% |
-| 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.18% |
+| 18 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.42% |
+| 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
 | 20 | [Scorn](games/s/scorn.md) | 7.14% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
@@ -46,8 +46,8 @@
 | 44 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.94% |
 | 45 | [Destiny 2](games/d/destiny_2.md) | 2.92% |
 | 46 | [Bunny Park](games/b/bunny_park.md) | 2.88% |
-| 47 | [FORECLOSED](games/f/foreclosed.md) | 2.78% |
-| 48 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
+| 47 | [FORECLOSED](games/f/foreclosed.md) | 2.74% |
+| 47 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 49 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 50 | [JARS](games/j/jars.md) | 2.63% |
 | 51 | [ZZT!](games/z/zzt!.md) | 2.61% |
@@ -78,7 +78,7 @@
 | 76 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.18% |
 | 77 | [Ten Dates](games/t/ten_dates.md) | 1.05% |
 | 78 | [Dungeons 3](games/d/dungeons_3.md) | 0.96% |
-| 79 | [Sable](games/s/sable.md) | 0.91% |
+| 79 | [Sable](games/s/sable.md) | 0.92% |
 | 80 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
 | 80 | [Hades](games/h/hades.md) | 0.89% |
 | 82 | [Five Dates](games/f/five_dates.md) | 0.88% |
@@ -162,10 +162,10 @@
 | 160 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 161 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
 | 161 | [Shop Titans](games/s/shop_titans.md) | 0.06% |
-| 161 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.06% |
 | 161 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
-| 165 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
-| 165 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.05% |
+| 164 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
+| 164 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.05% |
+| 164 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.05% |
 | 167 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
 | 167 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.04% |
 | 167 | [High On Life](games/h/high_on_life.md) | 0.04% |
@@ -370,4 +370,4 @@
 | 191 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 191 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 191 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,540 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,541 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

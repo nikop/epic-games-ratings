@@ -42,7 +42,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 277
+      "Count": 278
     },
     {
       "Text": "This game is Extremely Fun",
@@ -893,6 +893,11 @@
     {
       "Time": "2023-05-02T15:59:45.0570601+00:00",
       "NumProgressed": 360695,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-02T17:00:51.3291887+00:00",
+      "NumProgressed": 360718,
       "NumCompleted": 2
     }
   ],
@@ -2582,21 +2587,27 @@
       "Rating": 4.61,
       "NumberOfAwards": 2596,
       "NumberOfAwardsMax": 347
+    },
+    {
+      "Time": "2023-05-02T16:57:49.2218854+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2597,
+      "NumberOfAwardsMax": 347
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 3830,
+  "EOS_NewPlayers": 3836,
   "EOS_Completed": 2,
-  "EOS_Progressed": 360695,
-  "LastUpdate_Achievements": "2023-05-02T15:59:45.0577373+00:00",
-  "LastUpdate_Ratings": "2023-05-02T15:57:25.0682931+00:00",
-  "LastChanged_Achievements": "2023-05-02T15:59:45.0570387+00:00",
-  "LastChanged": "2023-05-02T15:57:25.0682924+00:00",
+  "EOS_Progressed": 360718,
+  "LastUpdate_Achievements": "2023-05-02T17:00:51.3292078+00:00",
+  "LastUpdate_Ratings": "2023-05-02T16:57:49.2218857+00:00",
+  "LastChanged_Achievements": "2023-05-02T17:00:51.3291874+00:00",
+  "LastChanged": "2023-05-02T16:57:49.2218851+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "MaxAwardTitle": "Quickly Understood Controls",
   "NumberOfAwardsMax": 347,
-  "NumberOfAwards": 2596,
+  "NumberOfAwards": 2597,
   "NumberOfRatings": 1316,
   "Ranking_EOS_NewCompleters": 84,
   "Ranking_EOS_NewPlayers": 19,

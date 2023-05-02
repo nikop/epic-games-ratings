@@ -153,7 +153,7 @@
 | [Assassin's Creed Chronicles: Russia](games/a/assassin's_creed_chronicles__russia.md) | - | - | 0 | - |
 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 127 | 24 | 465 |
 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 234 | 2,998 | 87 |
-| [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 426 | 152 | 280 |
+| [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 426 | 154 | 280 |
 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 512 | 91 | 331 |
 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.59 | 395 | 593 | 164 |
 | [Assassin's Creed Valhalla + Immortals Fenyx Rising Bundle](games/a/assassin's_creed_valhalla_+_immortals_fenyx_rising_bundle.md) | - | - | - | - |
@@ -342,7 +342,7 @@
 | [canVERSE](games/c/canverse.md) | - | - | - | - |
 | [Capes](games/c/capes.md) | - | - | - | - |
 | [Capital Command](games/c/capital_command.md) | - | - | - | - |
-| [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 546 | 1,971 | 102 |
+| [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 546 | 1,971 | 103 |
 | [Car Tuning Simulator](games/c/car_tuning_simulator.md) | - | - | 0 | - |
 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 273 | 72 | 353 |
 | [Card Shark](games/c/card_shark.md) | 4.69 | 212 | 0 | 489 |
@@ -413,7 +413,7 @@
 | [Comanche](games/c/comanche.md) | - | - | 0 | - |
 | [Commandos 3 - HD Remaster](games/c/commandos_3_-_hd_remaster.md) | - | - | 0 | - |
 | [Company of Crime](games/c/company_of_crime.md) | - | - | 0 | - |
-| [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 466 | 1,116 | 126 |
+| [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 466 | 1,129 | 125 |
 | [Conan The Mighty Pig](games/c/conan_the_mighty_pig.md) | - | - | - | - |
 | [Conarium](games/c/conarium.md) | 3.91 | 895 | 0 | 489 |
 | [Conglomerate 451](games/c/conglomerate_451.md) | - | - | 0 | - |
@@ -511,7 +511,7 @@
 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 831 | 0 | 489 |
 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 499 | 26,960 | 16 |
 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 17 | 249 | 236 |
-| [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 475 | 1,827 | 104 |
+| [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 475 | 1,989 | 102 |
 | [Dead Space](games/d/dead_space.md) | 4.76 | 113 | 38 | 412 |
 | [Deadly Flight](games/d/deadly_flight.md) | - | - | - | - |
 | [Death Coming](games/d/death_coming.md) | 4.44 | 622 | 0 | 489 |
@@ -550,7 +550,7 @@
 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 336 | 34 | 429 |
 | [Destroy All Humans! - Clone Carnage](games/d/destroy_all_humans!_-_clone_carnage.md) | - | - | 0 | - |
 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.56 | 445 | 34 | 429 |
-| [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | - | - | - | - |
+| [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | - | - | 0 | - |
 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 24 | 1,372 | 117 |
 | [DEVOUR](games/d/devour.md) | - | - | - | - |
 | [Diabotical](games/d/diabotical.md) | 4.75 | 127 | 265 | 233 |
@@ -831,7 +831,7 @@
 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | - | - | 0 | - |
 | [Ghost Blood](games/g/ghost_blood.md) | - | - | 0 | - |
 | [Ghost Master](games/g/ghost_master.md) | - | - | 0 | - |
-| [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 475 | 1,023 | 132 |
+| [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 475 | 1,029 | 132 |
 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 426 | 0 | 489 |
 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 546 | 226 | 243 |
 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 589 | 106 | 311 |
@@ -994,7 +994,7 @@
 | [Ikaruga](games/i/ikaruga.md) | - | - | 0 | - |
 | [illusion](games/i/illusion.md) | - | - | - | - |
 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 750 | 0 | 489 |
-| [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 378 | 554 | 170 |
+| [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 378 | 555 | 170 |
 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | - | - | - | - |
 | [Imp of the Sun](games/i/imp_of_the_sun.md) | - | - | 0 | - |
 | [In Other Waters](games/i/in_other_waters.md) | - | - | 0 | - |
@@ -1066,6 +1066,7 @@
 | [Kabaret](games/k/kabaret.md) | - | - | 0 | - |
 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | - | - | 0 | - |
 | [Kainga: Seeds of Civilization](games/k/kainga__seeds_of_civilization.md) | - | - | - | - |
+| [Kakele Online - MMORPG](games/k/kakele_online_-_mmorpg.md) | - | - | - | - |
 | [Kana Quest](games/k/kana_quest.md) | - | - | - | - |
 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | - | - | 0 | - |
 | [Kao the Kangaroo - 2000 re-release](games/k/kao_the_kangaroo_-_2000_re-release.md) | - | - | 0 | - |
@@ -1175,8 +1176,8 @@
 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.32 | 739 | 0 | 489 |
 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 352 | 0 | 489 |
 | [Little Orpheus](games/l/little_orpheus.md) | - | - | 0 | - |
-| [Live](games/l/live_79.md) | - | - | - | - |
 | [Live](games/l/live_130.md) | - | - | - | - |
+| [Live](games/l/live_79.md) | - | - | - | - |
 | [Locks Quest](games/l/locks_quest.md) | - | - | 0 | - |
 | [Lonesome Village](games/l/lonesome_village.md) | - | - | 0 | - |
 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 234 | 410 | 193 |
@@ -1235,7 +1236,7 @@
 | [Mars Tactics](games/m/mars_tactics.md) | - | - | - | - |
 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.03 | 872 | 0 | 489 |
 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 156 | 547 | 172 |
-| [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 499 | 1,127 | 125 |
+| [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 499 | 1,127 | 126 |
 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 24 | 11,329 | 31 |
 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 91 | 995 | 136 |
 | [Mashed](games/m/mashed.md) | - | - | 0 | - |
@@ -1246,7 +1247,7 @@
 | [Mayhem in Single Valley](games/m/mayhem_in_single_valley.md) | - | - | 0 | - |
 | [McPixel 3](games/m/mcpixel_3.md) | - | - | 0 | - |
 | [Mechajammer](games/m/mechajammer.md) | - | - | 0 | - |
-| [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 352 | 1,073 | 128 |
+| [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 352 | 1,077 | 128 |
 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 288 | 48 | 389 |
 | [Mega City Police](games/m/mega_city_police.md) | - | - | - | - |
 | [Melatonin](games/m/melatonin.md) | - | - | 0 | - |
@@ -1498,7 +1499,7 @@
 | [pici BetaTest](games/p/pici_betatest.md) | - | - | - | - |
 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 166 | 0 | 489 |
 | [Pile Up](games/p/pile_up.md) | - | - | 0 | - |
-| [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 288 | 1,868 | 103 |
+| [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 288 | 1,868 | 104 |
 | [Pinball FX](games/p/pinball_fx.md) | 4.03 | 872 | 171 | 270 |
 | [Pine](games/p/pine.md) | 4.15 | 837 | 0 | 489 |
 | [Pipe Mania](games/p/pipe_mania.md) | - | - | 0 | - |
@@ -1805,7 +1806,7 @@
 | [SMITE](games/s/smite.md) | 4.45 | 601 | 3,704 | 77 |
 | [Snake Pass](games/s/snake_pass.md) | - | - | 0 | - |
 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.42 | 641 | 0 | 489 |
-| [SnowRunner](games/s/snowrunner.md) | 4.76 | 113 | 7,817 | 39 |
+| [SnowRunner](games/s/snowrunner.md) | 4.76 | 113 | 7,831 | 39 |
 | [Snowtopia - Ski Resort Builder](games/s/snowtopia_-_ski_resort_builder.md) | - | - | 0 | - |
 | [Soar](games/s/soar.md) | - | - | - | - |
 | [Soccer Story](games/s/soccer_story.md) | - | - | 0 | - |
@@ -2045,7 +2046,7 @@
 | [The Colonists](games/t/the_colonists.md) | 4.59 | 395 | 0 | 489 |
 | [The Complex](games/t/the_complex.md) | - | - | 0 | - |
 | [The Count Lucanor](games/t/the_count_lucanor.md) | - | - | 0 | - |
-| [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 273 | 413 | 192 |
+| [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 273 | 415 | 192 |
 | [The Crew Motorfest](games/t/the_crew_motorfest.md) | - | - | - | - |
 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.62 | 336 | 0 | 489 |
 | [The Crown of Wu](games/t/the_crown_of_wu.md) | - | - | - | - |

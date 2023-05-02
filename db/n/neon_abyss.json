@@ -54,7 +54,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 474
+      "Count": 475
     },
     {
       "Text": "This game has a Creative Community",
@@ -2853,6 +2853,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 5280,
       "NumberOfAwardsMax": 660
+    },
+    {
+      "Time": "2023-05-02T16:57:21.2454967+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 5281,
+      "NumberOfAwardsMax": 660
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -2860,12 +2866,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-02T16:00:09.0328143+00:00",
-  "LastUpdate_Ratings": "2023-05-02T15:57:02.3429912+00:00",
-  "LastChanged": "2023-05-01T02:57:11.1535413+00:00",
+  "LastUpdate_Achievements": "2023-05-02T17:01:19.820652+00:00",
+  "LastUpdate_Ratings": "2023-05-02T16:57:21.2454971+00:00",
+  "LastChanged": "2023-05-02T16:57:21.2454965+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 660,
-  "NumberOfAwards": 5280,
+  "NumberOfAwards": 5281,
   "NumberOfRatings": 8340,
   "Ranking_EOS_NewCompleters": 84,
   "Ranking_EOS_NewPlayers": 272,

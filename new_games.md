@@ -1,5 +1,6 @@
 | Game | Rating | Ranking | Awards | Ranking |
 | ---- | ------ | ------- | ------ | ------- |
+| [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | - | - | 0 | - |
 | [Crimson Dawn](games/c/crimson_dawn.md) | - | - | 0 | - |
 | [Kao the Kangaroo - Mystery of the Volcano](games/k/kao_the_kangaroo_-_mystery_of_the_volcano.md) | - | - | 0 | - |
 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | - | - | 0 | - |
@@ -48,7 +49,7 @@
 | [Roma Invicta](games/r/roma_invicta.md) | - | - | 0 | - |
 | [Fortune Follow: The Mansion](games/f/fortune_follow__the_mansion.md) | - | - | 0 | - |
 | [Bosorka](games/b/bosorka.md) | - | - | 0 | - |
-| [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 475 | 1,827 | 104 |
+| [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 475 | 1,989 | 102 |
 | [Doomed Lands](games/d/doomed_lands.md) | - | - | 0 | - |
 | [League Manager 2023](games/l/league_manager_2023.md) | - | - | 0 | - |
 | [Stray Blade](games/s/stray_blade.md) | - | - | 0 | - |
