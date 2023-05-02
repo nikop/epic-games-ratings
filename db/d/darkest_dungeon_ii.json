@@ -6,7 +6,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 6497
+      "Count": 6502
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3832,6 +3832,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 16562,
       "NumberOfAwardsMax": 6497
+    },
+    {
+      "Time": "2023-05-02T01:57:58.8061253+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 16567,
+      "NumberOfAwardsMax": 6502
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -3839,19 +3845,19 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-02T00:04:24.9420312+00:00",
-  "LastUpdate_Ratings": "2023-05-01T23:59:11.4870968+00:00",
-  "LastChanged_Achievements": "2023-05-02T00:04:24.942029+00:00",
-  "LastChanged": "2023-05-01T18:00:26.6424877+00:00",
+  "LastUpdate_Achievements": "2023-05-02T02:03:22.201678+00:00",
+  "LastUpdate_Ratings": "2023-05-02T01:57:58.8061258+00:00",
+  "LastChanged_Achievements": "2023-05-02T02:03:22.2016758+00:00",
+  "LastChanged": "2023-05-02T01:57:58.8061252+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "MaxAwardTitle": "Character Customization",
-  "NumberOfAwardsMax": 6497,
-  "NumberOfAwards": 16562,
+  "NumberOfAwardsMax": 6502,
+  "NumberOfAwards": 16567,
   "NumberOfRatings": 7767,
   "Ranking_EOS_NewCompleters": 82,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 369,
+  "Ranking_EOS_Progress": 370,
   "Ranking_PopularitySum": 57,
   "Ranking_Popularity": 48,
   "Ranking_Rating": 256,

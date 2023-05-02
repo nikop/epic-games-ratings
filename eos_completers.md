@@ -5,10 +5,10 @@
 | 3 | [Doodle Devil](games/d/doodle_devil.md) | 19.72% |
 | 4 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 5 | [Island Cities](games/i/island_cities.md) | 18.18% |
-| 6 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
-| 7 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 13.04% |
-| 8 | [Them and Us](games/t/them_and_us.md) | 12.50% |
-| 9 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.33% |
+| 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 17.39% |
+| 7 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
+| 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.01% |
+| 9 | [Them and Us](games/t/them_and_us.md) | 12.50% |
 | 10 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.89% |
 | 11 | [Ravenlok](games/r/ravenlok.md) | 11.86% |
 | 12 | [Smelter](games/s/smelter.md) | 10.00% |
@@ -16,10 +16,10 @@
 | 14 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 15 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.44% |
+| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.42% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.16% |
-| 20 | [Scorn](games/s/scorn.md) | 7.14% |
+| 19 | [Scorn](games/s/scorn.md) | 7.14% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.13% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.11% |
 | 23 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
@@ -39,7 +39,7 @@
 | 37 | [The Bunker](games/t/the_bunker.md) | 3.37% |
 | 38 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 39 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.27% |
-| 40 | [HordeCore](games/h/hordecore.md) | 3.07% |
+| 40 | [HordeCore](games/h/hordecore.md) | 3.06% |
 | 41 | [Lamentum](games/l/lamentum.md) | 3.02% |
 | 42 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.99% |
 | 43 | [MultiVersus](games/m/multiversus.md) | 2.96% |
@@ -130,8 +130,8 @@
 | 128 | [Against the Storm](games/a/against_the_storm.md) | 0.21% |
 | 128 | [Filament](games/f/filament.md) | 0.21% |
 | 130 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
-| 131 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.19% |
-| 131 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
+| 130 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
+| 132 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
 | 133 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
 | 133 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.17% |
 | 135 | [HITMAN 3](games/h/hitman_3.md) | 0.16% |
@@ -310,6 +310,7 @@
 | 191 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.00% |
 | 191 | [Quest of Dungeons](games/q/quest_of_dungeons.md) | 0.00% |
 | 191 | [Railway Empire 2](games/r/railway_empire_2.md) | 0.00% |
+| 191 | [Redfall](games/r/redfall.md) | 0.00% |
 | 191 | [Redout 2](games/r/redout_2.md) | 0.00% |
 | 191 | [Remains](games/r/remains.md) | 0.00% |
 | 191 | [Rise of Industry](games/r/rise_of_industry.md) | 0.00% |

@@ -6,7 +6,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 63313
+      "Count": 63418
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -820,6 +820,11 @@
       "Time": "2023-05-02T00:00:00.8828931+00:00",
       "NumProgressed": 797338,
       "NumCompleted": 1554
+    },
+    {
+      "Time": "2023-05-02T01:58:51.1410195+00:00",
+      "NumProgressed": 797350,
+      "NumCompleted": 1555
     }
   ],
   "RatingHistory": [
@@ -5888,25 +5893,31 @@
       "Rating": 4.62,
       "NumberOfAwards": 165402,
       "NumberOfAwardsMax": 63313
+    },
+    {
+      "Time": "2023-05-02T01:56:13.3414312+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 165507,
+      "NumberOfAwardsMax": 63418
     }
   ],
-  "EOS_Completed_Percentage": 0.19,
-  "EOS_NewCompleters": 19,
-  "EOS_NewPlayers": 1759,
-  "EOS_Completed": 1554,
-  "EOS_Progressed": 797338,
-  "LastUpdate_Achievements": "2023-05-02T00:00:00.8829088+00:00",
-  "LastUpdate_Ratings": "2023-05-01T23:57:23.5373059+00:00",
-  "LastChanged_Achievements": "2023-05-02T00:00:00.8828909+00:00",
-  "LastChanged": "2023-05-01T20:57:33.924505+00:00",
+  "EOS_Completed_Percentage": 0.2,
+  "EOS_NewCompleters": 20,
+  "EOS_NewPlayers": 1771,
+  "EOS_Completed": 1555,
+  "EOS_Progressed": 797350,
+  "LastUpdate_Achievements": "2023-05-02T01:58:51.1410293+00:00",
+  "LastUpdate_Ratings": "2023-05-02T01:56:13.3414316+00:00",
+  "LastChanged_Achievements": "2023-05-02T01:58:51.1410188+00:00",
+  "LastChanged": "2023-05-02T01:56:13.3414311+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "MaxAwardTitle": "Character Customization",
-  "NumberOfAwardsMax": 63313,
-  "NumberOfAwards": 165402,
+  "NumberOfAwardsMax": 63418,
+  "NumberOfAwards": 165507,
   "NumberOfRatings": 32700,
   "Ranking_EOS_NewCompleters": 10,
   "Ranking_EOS_NewPlayers": 34,
-  "Ranking_EOS_Completed": 131,
+  "Ranking_EOS_Completed": 130,
   "Ranking_EOS_Progress": 10,
   "Ranking_PopularitySum": 13,
   "Ranking_Popularity": 9,

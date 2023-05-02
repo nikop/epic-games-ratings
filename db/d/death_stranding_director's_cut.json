@@ -6,7 +6,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6861
+      "Count": 6868
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -72,7 +72,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 437
+      "Count": 438
     },
     {
       "Text": "This game is Great for Beginners",
@@ -830,6 +830,11 @@
     {
       "Time": "2023-05-02T00:00:41.7494881+00:00",
       "NumProgressed": 451503,
+      "NumCompleted": 1483
+    },
+    {
+      "Time": "2023-05-02T02:01:11.5208444+00:00",
+      "NumProgressed": 451515,
       "NumCompleted": 1483
     }
   ],
@@ -3624,21 +3629,27 @@
       "Rating": 4.89,
       "NumberOfAwards": 11697,
       "NumberOfAwardsMax": 6861
+    },
+    {
+      "Time": "2023-05-02T01:58:33.7389801+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 11705,
+      "NumberOfAwardsMax": 6868
     }
   ],
   "EOS_Completed_Percentage": 0.33,
   "EOS_NewCompleters": 27,
-  "EOS_NewPlayers": 1905,
+  "EOS_NewPlayers": 1917,
   "EOS_Completed": 1483,
-  "EOS_Progressed": 451503,
-  "LastUpdate_Achievements": "2023-05-02T00:00:41.749499+00:00",
-  "LastUpdate_Ratings": "2023-05-01T23:59:44.6247292+00:00",
-  "LastChanged_Achievements": "2023-05-02T00:00:41.7494876+00:00",
-  "LastChanged": "2023-05-01T14:00:19.3246096+00:00",
+  "EOS_Progressed": 451515,
+  "LastUpdate_Achievements": "2023-05-02T02:01:11.520851+00:00",
+  "LastUpdate_Ratings": "2023-05-02T01:58:33.7389805+00:00",
+  "LastChanged_Achievements": "2023-05-02T02:01:11.5208439+00:00",
+  "LastChanged": "2023-05-02T01:58:33.7389799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.0381621+00:00",
   "MaxAwardTitle": "Great Boss Battles",
-  "NumberOfAwardsMax": 6861,
-  "NumberOfAwards": 11697,
+  "NumberOfAwardsMax": 6868,
+  "NumberOfAwards": 11705,
   "NumberOfRatings": 3099,
   "Ranking_EOS_NewCompleters": 6,
   "Ranking_EOS_NewPlayers": 32,

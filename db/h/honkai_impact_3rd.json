@@ -84,7 +84,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 416
+      "Count": 420
     }
   ],
   "EosHistory": [],
@@ -1736,6 +1736,12 @@
       "Rating": 4.49,
       "NumberOfAwards": 7613,
       "NumberOfAwardsMax": 2277
+    },
+    {
+      "Time": "2023-05-02T01:56:46.4601198+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7617,
+      "NumberOfAwardsMax": 2277
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -1743,17 +1749,17 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-02T00:00:28.0491718+00:00",
-  "LastUpdate_Ratings": "2023-05-01T23:57:57.5093441+00:00",
-  "LastChanged": "2023-05-01T22:57:53.431051+00:00",
+  "LastUpdate_Achievements": "2023-05-02T01:59:18.3823662+00:00",
+  "LastUpdate_Ratings": "2023-05-02T01:56:46.4601201+00:00",
+  "LastChanged": "2023-05-02T01:56:46.4601196+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 2277,
-  "NumberOfAwards": 7613,
+  "NumberOfAwards": 7617,
   "Ranking_EOS_NewCompleters": 82,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 369,
+  "Ranking_EOS_Progress": 370,
   "Ranking_PopularitySum": 94,
   "Ranking_Popularity": 94,
   "Ranking_Rating": 547,
