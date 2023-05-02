@@ -1452,7 +1452,7 @@
 | [Overtop](games/o/overtop.md) | - | - | - | - |
 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 466 | 0 | 489 |
 | [Oxide Room 104](games/o/oxide_room_104.md) | - | - | - | - |
-| [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 49 | 248 | 237 |
+| [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 49 | 249 | 236 |
 | [Pacific Drive](games/p/pacific_drive.md) | - | - | - | - |
 | [Painting Werther](games/p/painting_werther.md) | - | - | - | - |
 | [Paladin Dream](games/p/paladin_dream.md) | - | - | 0 | - |

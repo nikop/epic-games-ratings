@@ -66,7 +66,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 515
+      "Count": 516
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4434,6 +4434,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 26955,
       "NumberOfAwardsMax": 11632
+    },
+    {
+      "Time": "2023-05-02T06:56:59.4400289+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 26956,
+      "NumberOfAwardsMax": 11632
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -4441,12 +4447,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-02T06:00:17.4567808+00:00",
-  "LastUpdate_Ratings": "2023-05-02T05:57:21.6188158+00:00",
-  "LastChanged": "2023-05-02T04:57:02.5499698+00:00",
+  "LastUpdate_Achievements": "2023-05-02T07:00:05.0865971+00:00",
+  "LastUpdate_Ratings": "2023-05-02T06:56:59.4400292+00:00",
+  "LastChanged": "2023-05-02T06:56:59.4400288+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 11632,
-  "NumberOfAwards": 26955,
+  "NumberOfAwards": 26956,
   "NumberOfRatings": 12317,
   "Ranking_EOS_NewCompleters": 82,
   "Ranking_EOS_NewPlayers": 270,

@@ -51,7 +51,7 @@
 | 49 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 45 | 399 |
 | 49 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 211 | 250 |
 | 49 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 405 | 195 |
-| 49 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 248 | 237 |
+| 49 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 249 | 236 |
 | 49 | [Subnautica](games/s/subnautica.md) | 4.84 | 650 | 159 |
 | 49 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.84 | 0 | 489 |
 | 55 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.83 | 50 | 383 |
