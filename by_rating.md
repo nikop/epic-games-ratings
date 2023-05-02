@@ -228,7 +228,7 @@
 | 212 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 59 | 375 |
 | 212 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.69 | 1,477 | 113 |
 | 212 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 0 | 489 |
-| 212 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 855 | 142 |
+| 212 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 856 | 142 |
 | 212 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 0 | 489 |
 | 212 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 489 |
 | 212 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 0 | 489 |
@@ -532,7 +532,7 @@
 | 529 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 209 | 252 |
 | 529 | [CryoFall](games/c/cryofall.md) | 4.50 | 0 | 489 |
 | 529 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 489 |
-| 529 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 33,404 | 12 |
+| 529 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 33,429 | 12 |
 | 529 | [Far Cry](games/f/far_cry.md) | 4.50 | 0 | 489 |
 | 529 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 226 | 243 |
 | 529 | [Horace](games/h/horace.md) | 4.50 | 0 | 489 |
@@ -579,7 +579,7 @@
 | 575 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 489 |
 | 575 | [Chorus](games/c/chorus.md) | 4.47 | 32 | 432 |
 | 575 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.47 | 0 | 489 |
-| 575 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,433 | 79 |
+| 575 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,436 | 79 |
 | 575 | [Riverbond](games/r/riverbond.md) | 4.47 | 0 | 489 |
 | 575 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 0 | 489 |
 | 575 | [Scorn](games/s/scorn.md) | 4.47 | 0 | 489 |
@@ -753,7 +753,7 @@
 | 751 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 489 |
 | 751 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 489 |
 | 751 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 489 |
-| 751 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 3,580 | 78 |
+| 751 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 3,584 | 78 |
 | 751 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 169 | 274 |
 | 751 | [War Mongrels](games/w/war_mongrels.md) | 4.30 | 0 | 489 |
 | 757 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 489 |

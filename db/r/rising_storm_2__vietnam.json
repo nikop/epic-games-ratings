@@ -36,7 +36,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 639
+      "Count": 642
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2728,6 +2728,12 @@
       "Rating": 4.5,
       "NumberOfAwards": 6009,
       "NumberOfAwardsMax": 645
+    },
+    {
+      "Time": "2023-05-02T03:58:55.3785786+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 6012,
+      "NumberOfAwardsMax": 645
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -2735,12 +2741,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-02T03:05:07.9959714+00:00",
-  "LastUpdate_Ratings": "2023-05-02T03:00:06.4853527+00:00",
-  "LastChanged": "2023-05-01T15:59:33.3164418+00:00",
+  "LastUpdate_Achievements": "2023-05-02T04:04:14.3777542+00:00",
+  "LastUpdate_Ratings": "2023-05-02T03:58:55.3785793+00:00",
+  "LastChanged": "2023-05-02T03:58:55.3785784+00:00",
   "MaxAwardTitle": "Quickly Understood Controls",
   "NumberOfAwardsMax": 645,
-  "NumberOfAwards": 6009,
+  "NumberOfAwards": 6012,
   "NumberOfRatings": 2871,
   "Ranking_EOS_NewCompleters": 82,
   "Ranking_EOS_NewPlayers": 268,

@@ -11,7 +11,7 @@
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 63,418 | 4.62 | 337 |
 | 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 56,320 | 4.59 | 395 |
 | 11 | [VALORANT](games/v/valorant.md) | 50,809 | 4.54 | 475 |
-| 12 | [Destiny 2](games/d/destiny_2.md) | 33,404 | 4.50 | 529 |
+| 12 | [Destiny 2](games/d/destiny_2.md) | 33,429 | 4.50 | 529 |
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 30,483 | 4.74 | 141 |
 | 14 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,410 | 4.65 | 287 |
 | 15 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 27,761 | 4.59 | 395 |
@@ -77,8 +77,8 @@
 | 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 3,802 | 4.56 | 445 |
 | 76 | [Days Gone](games/d/days_gone.md) | 3,740 | 4.69 | 212 |
 | 77 | [SMITE](games/s/smite.md) | 3,704 | 4.45 | 600 |
-| 78 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,580 | 4.30 | 751 |
-| 79 | [Gloomhaven](games/g/gloomhaven.md) | 3,433 | 4.47 | 575 |
+| 78 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,584 | 4.30 | 751 |
+| 79 | [Gloomhaven](games/g/gloomhaven.md) | 3,436 | 4.47 | 575 |
 | 80 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,319 | 4.68 | 234 |
 | 81 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,245 | 4.46 | 589 |
 | 82 | [Paladins](games/p/paladins.md) | 3,193 | 4.35 | 712 |
@@ -141,7 +141,7 @@
 | 139 | [Torchlight II](games/t/torchlight_ii.md) | 968 | 4.58 | 414 |
 | 140 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 926 | 4.31 | 748 |
 | 141 | [Sonic Mania](games/s/sonic_mania.md) | 905 | 4.79 | 91 |
-| 142 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 855 | 4.69 | 212 |
+| 142 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 856 | 4.69 | 212 |
 | 143 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 846 | 4.45 | 600 |
 | 144 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 831 | 4.76 | 113 |
 | 144 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 831 | 4.55 | 466 |
