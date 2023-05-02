@@ -1,5 +1,6 @@
 | Game | Rating | Ranking | Awards | Ranking |
 | ---- | ------ | ------- | ------ | ------- |
+| [Crimson Dawn](games/c/crimson_dawn.md) | - | - | 0 | - |
 | [Kao the Kangaroo - Mystery of the Volcano](games/k/kao_the_kangaroo_-_mystery_of_the_volcano.md) | - | - | 0 | - |
 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | - | - | 0 | - |
 | [The Witch of Fern Island](games/t/the_witch_of_fern_island.md) | - | - | 0 | - |
@@ -31,7 +32,7 @@
 | [Aftertime](games/a/aftertime.md) | - | - | 0 | - |
 | [Cards of Ethernity](games/c/cards_of_ethernity.md) | - | - | 0 | - |
 | [Spaceman Defender](games/s/spaceman_defender.md) | - | - | 0 | - |
-| [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.65 | 287 | 0 | 489 |
+| [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.65 | 288 | 0 | 489 |
 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | - | - | 0 | - |
 | [The Ultimate Trivia Challenge](games/t/the_ultimate_trivia_challenge.md) | - | - | 0 | - |
 | [Undead Horde](games/u/undead_horde.md) | - | - | 0 | - |

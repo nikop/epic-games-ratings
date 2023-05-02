@@ -1,5 +1,5 @@
 # Halcyon 6 Starbase Commander
-Rating: 4.45 (Ranked 600)  
+Rating: 4.45 (Ranked 601)  
 Number of Ratings: 146  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 489)  

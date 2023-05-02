@@ -6,7 +6,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 670
+      "Count": 672
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3701,6 +3701,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 5318,
       "NumberOfAwardsMax": 684
+    },
+    {
+      "Time": "2023-05-02T08:59:18.2102678+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 5320,
+      "NumberOfAwardsMax": 684
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -3708,20 +3714,20 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-02T08:04:06.1241401+00:00",
-  "LastUpdate_Ratings": "2023-05-02T07:58:44.4991665+00:00",
-  "LastChanged": "2023-05-01T23:58:51.4447469+00:00",
+  "LastUpdate_Achievements": "2023-05-02T09:04:53.1548883+00:00",
+  "LastUpdate_Ratings": "2023-05-02T08:59:18.2102683+00:00",
+  "LastChanged": "2023-05-02T08:59:18.2102676+00:00",
   "MaxAwardTitle": "Amazing Storytelling",
   "NumberOfAwardsMax": 684,
-  "NumberOfAwards": 5318,
+  "NumberOfAwards": 5320,
   "NumberOfRatings": 12290,
   "Ranking_EOS_NewCompleters": 82,
   "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 371,
+  "Ranking_EOS_Progress": 372,
   "Ranking_PopularitySum": 117,
   "Ranking_Popularity": 155,
-  "Ranking_Rating": 600,
+  "Ranking_Rating": 601,
   "Rating": 4.45,
   "FirstSeen": "2022-07-22T20:18:07.3905482+00:00"
 }

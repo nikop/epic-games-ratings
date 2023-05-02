@@ -4,7 +4,7 @@
 | 2 | [Overloop](games/o/overloop.md) | 25.00% |
 | 3 | [Doodle Devil](games/d/doodle_devil.md) | 19.72% |
 | 4 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 5 | [Island Cities](games/i/island_cities.md) | 18.18% |
+| 5 | [Island Cities](games/i/island_cities.md) | 17.78% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 17.39% |
 | 7 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.01% |
@@ -24,7 +24,7 @@
 | 22 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.11% |
 | 23 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 24 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.71% |
-| 25 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.03% |
+| 25 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.02% |
 | 26 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
 | 27 | [Bugsnax](games/b/bugsnax.md) | 4.60% |
 | 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.55% |
@@ -330,6 +330,7 @@
 | 191 | [Shin-chan Me and the Professor on Summer Vacation](games/s/shin-chan_me_and_the_professor_on_summer_vacation.md) | 0.00% |
 | 191 | [Shinogi Chess Club](games/s/shinogi_chess_club.md) | 0.00% |
 | 191 | [Shotgun Farmers](games/s/shotgun_farmers.md) | 0.00% |
+| 191 | [Showgunners](games/s/showgunners.md) | 0.00% |
 | 191 | [Silence](games/s/silence.md) | 0.00% |
 | 191 | [SIMULACRA 3](games/s/simulacra_3.md) | 0.00% |
 | 191 | [Spacebase Startopia](games/s/spacebase_startopia.md) | 0.00% |
