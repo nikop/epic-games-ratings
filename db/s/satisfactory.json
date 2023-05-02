@@ -48,7 +48,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 7864
+      "Count": 7874
     },
     {
       "Text": "This game has a Creative Community",
@@ -4487,6 +4487,12 @@
       "Rating": 4.88,
       "NumberOfAwards": 79198,
       "NumberOfAwardsMax": 9217
+    },
+    {
+      "Time": "2023-05-02T07:58:56.9329749+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 79208,
+      "NumberOfAwardsMax": 9217
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -4494,17 +4500,17 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-02T07:04:12.7786823+00:00",
-  "LastUpdate_Ratings": "2023-05-02T06:58:52.306814+00:00",
-  "LastChanged": "2023-05-02T03:58:58.0279353+00:00",
+  "LastUpdate_Achievements": "2023-05-02T08:04:19.9437922+00:00",
+  "LastUpdate_Ratings": "2023-05-02T07:58:56.9329753+00:00",
+  "LastChanged": "2023-05-02T07:58:56.9329748+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 9217,
-  "NumberOfAwards": 79198,
+  "NumberOfAwards": 79208,
   "NumberOfRatings": 29401,
   "Ranking_EOS_NewCompleters": 82,
   "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 370,
+  "Ranking_EOS_Progress": 371,
   "Ranking_PopularitySum": 17,
   "Ranking_Popularity": 34,
   "Ranking_Rating": 17,

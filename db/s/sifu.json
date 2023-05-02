@@ -12,7 +12,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 482
+      "Count": 483
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -769,6 +769,11 @@
     {
       "Time": "2023-05-02T07:03:42.7012812+00:00",
       "NumProgressed": 702497,
+      "NumCompleted": 12705
+    },
+    {
+      "Time": "2023-05-02T08:03:49.3058344+00:00",
+      "NumProgressed": 702499,
       "NumCompleted": 12705
     }
   ],
@@ -4377,21 +4382,27 @@
       "Rating": 4.82,
       "NumberOfAwards": 10172,
       "NumberOfAwardsMax": 6014
+    },
+    {
+      "Time": "2023-05-02T07:58:20.3174328+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10173,
+      "NumberOfAwardsMax": 6014
     }
   ],
   "EOS_Completed_Percentage": 1.81,
   "EOS_NewCompleters": 16,
-  "EOS_NewPlayers": 355,
+  "EOS_NewPlayers": 357,
   "EOS_Completed": 12705,
-  "EOS_Progressed": 702497,
-  "LastUpdate_Achievements": "2023-05-02T07:03:42.7012859+00:00",
-  "LastUpdate_Ratings": "2023-05-02T06:58:16.357342+00:00",
-  "LastChanged_Achievements": "2023-05-02T07:03:42.7012809+00:00",
-  "LastChanged": "2023-05-02T05:58:33.5771203+00:00",
+  "EOS_Progressed": 702499,
+  "LastUpdate_Achievements": "2023-05-02T08:03:49.3058394+00:00",
+  "LastUpdate_Ratings": "2023-05-02T07:58:20.3174332+00:00",
+  "LastChanged_Achievements": "2023-05-02T08:03:49.305834+00:00",
+  "LastChanged": "2023-05-02T07:58:20.3174326+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 6014,
-  "NumberOfAwards": 10172,
+  "NumberOfAwards": 10173,
   "NumberOfRatings": 9492,
   "Ranking_EOS_NewCompleters": 14,
   "Ranking_EOS_NewPlayers": 85,

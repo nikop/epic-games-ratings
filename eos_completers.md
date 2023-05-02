@@ -16,7 +16,7 @@
 | 14 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 15 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.42% |
+| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.41% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
 | 19 | [Scorn](games/s/scorn.md) | 7.14% |
 | 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.07% |
@@ -53,7 +53,7 @@
 | 51 | [ZZT!](games/z/zzt!.md) | 2.57% |
 | 52 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 53 | [Iron Danger](games/i/iron_danger.md) | 2.45% |
-| 54 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.27% |
+| 54 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.29% |
 | 55 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 56 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
 | 57 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -142,12 +142,12 @@
 | 140 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.14% |
 | 140 | [Isonzo](games/i/isonzo.md) | 0.14% |
 | 140 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
+| 143 | [Dead Island 2](games/d/dead_island_2.md) | 0.13% |
 | 143 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.13% |
 | 143 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.13% |
 | 143 | [Weird West](games/w/weird_west.md) | 0.13% |
-| 146 | [Dead Island 2](games/d/dead_island_2.md) | 0.12% |
-| 146 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
-| 146 | [Partisans 1941](games/p/partisans_1941.md) | 0.12% |
+| 147 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
+| 147 | [Partisans 1941](games/p/partisans_1941.md) | 0.12% |
 | 149 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
 | 150 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 150 | [House Flipper](games/h/house_flipper.md) | 0.10% |
@@ -349,6 +349,7 @@
 | 191 | [The Great War: Western Front™](games/t/the_great_war__western_front™.md) | 0.00% |
 | 191 | [The Spirit and the Mouse](games/t/the_spirit_and_the_mouse.md) | 0.00% |
 | 191 | [The Tenants](games/t/the_tenants.md) | 0.00% |
+| 191 | [The Unbeatable Path](games/t/the_unbeatable_path.md) | 0.00% |
 | 191 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 0.00% |
 | 191 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 0.00% |
 | 191 | [Tower Princess](games/t/tower_princess.md) | 0.00% |
@@ -368,4 +369,4 @@
 | 191 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 191 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 191 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,533 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,534 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

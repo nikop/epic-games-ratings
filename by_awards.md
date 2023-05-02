@@ -19,7 +19,7 @@
 | 17 | [Dauntless](games/d/dauntless.md) | 19,652 | 4.53 | 488 |
 | 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 18,275 | 4.78 | 101 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,124 | 4.57 | 426 |
-| 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 14,869 | 4.89 | 12 |
+| 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 14,892 | 4.89 | 12 |
 | 21 | [Warframe](games/w/warframe.md) | 14,448 | 4.61 | 352 |
 | 22 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,331 | 4.58 | 414 |
 | 23 | [Borderlands 2](games/b/borderlands_2.md) | 14,067 | 4.76 | 113 |
@@ -94,7 +94,7 @@
 | 92 | [Among Us](games/a/among_us.md) | 2,388 | 4.58 | 414 |
 | 93 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,344 | 4.80 | 79 |
 | 94 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,277 | 4.49 | 546 |
-| 95 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,245 | 4.10 | 851 |
+| 95 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,248 | 4.10 | 851 |
 | 96 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,233 | 4.79 | 91 |
 | 97 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,211 | 4.67 | 256 |
 | 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,178 | 4.17 | 826 |

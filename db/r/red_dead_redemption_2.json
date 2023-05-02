@@ -30,13 +30,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 12813
+      "Count": 12846
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 12528
+      "Count": 12568
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -60,7 +60,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 13365
+      "Count": 13403
     },
     {
       "Text": "This game is Relaxing",
@@ -5255,6 +5255,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 350289,
       "NumberOfAwardsMax": 137782
+    },
+    {
+      "Time": "2023-05-02T07:58:22.3602028+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 350400,
+      "NumberOfAwardsMax": 137782
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -5262,17 +5268,17 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-02T07:03:38.7576869+00:00",
-  "LastUpdate_Ratings": "2023-05-02T06:58:18.3502581+00:00",
-  "LastChanged": "2023-05-02T05:58:35.6037799+00:00",
+  "LastUpdate_Achievements": "2023-05-02T08:03:45.0238635+00:00",
+  "LastUpdate_Ratings": "2023-05-02T07:58:22.3602032+00:00",
+  "LastChanged": "2023-05-02T07:58:22.3602026+00:00",
   "MaxAwardTitle": "Impact the Story",
   "NumberOfAwardsMax": 137782,
-  "NumberOfAwards": 350289,
+  "NumberOfAwards": 350400,
   "NumberOfRatings": 102658,
   "Ranking_EOS_NewCompleters": 82,
   "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 370,
+  "Ranking_EOS_Progress": 371,
   "Ranking_PopularitySum": 8,
   "Ranking_Popularity": 7,
   "Ranking_Rating": 12,

@@ -15,7 +15,7 @@
 | 12 | [Firework](games/f/firework.md) | 4.89 | 0 | 489 |
 | 12 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 137,782 | 7 |
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 404 | 196 |
-| 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 14,869 | 20 |
+| 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 14,892 | 20 |
 | 17 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 128 | 291 |
 | 17 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 249 | 236 |
 | 17 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.88 | 0 | 489 |
@@ -854,7 +854,7 @@
 | 851 | [Forspoken](games/f/forspoken.md) | 4.10 | 0 | 489 |
 | 851 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 489 |
 | 851 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 381 |
-| 851 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,245 | 95 |
+| 851 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,248 | 95 |
 | 851 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.10 | 0 | 489 |
 | 857 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 489 |
 | 857 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 489 |
