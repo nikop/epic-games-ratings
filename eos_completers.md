@@ -18,11 +18,11 @@
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.40% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
-| 19 | [Scorn](games/s/scorn.md) | 7.14% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.95% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.18% |
+| 20 | [Scorn](games/s/scorn.md) | 7.14% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
-| 22 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.11% |
-| 23 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
+| 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
+| 22 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.06% |
 | 24 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.71% |
 | 25 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.02% |
 | 26 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
@@ -50,7 +50,7 @@
 | 48 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 49 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 50 | [JARS](games/j/jars.md) | 2.63% |
-| 51 | [ZZT!](games/z/zzt!.md) | 2.57% |
+| 51 | [ZZT!](games/z/zzt!.md) | 2.61% |
 | 52 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 53 | [Iron Danger](games/i/iron_danger.md) | 2.45% |
 | 54 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.28% |
@@ -129,19 +129,19 @@
 | 127 | [Blanc](games/b/blanc.md) | 0.22% |
 | 128 | [Against the Storm](games/a/against_the_storm.md) | 0.21% |
 | 128 | [Filament](games/f/filament.md) | 0.21% |
-| 130 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
-| 130 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
-| 132 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
-| 133 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
-| 133 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.17% |
-| 135 | [HITMAN 3](games/h/hitman_3.md) | 0.16% |
-| 135 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
-| 137 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
-| 137 | [RAILGRADE](games/r/railgrade.md) | 0.15% |
-| 137 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
-| 140 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.14% |
-| 140 | [Isonzo](games/i/isonzo.md) | 0.14% |
-| 140 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
+| 128 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.21% |
+| 131 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
+| 131 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
+| 133 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
+| 134 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
+| 134 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.17% |
+| 136 | [HITMAN 3](games/h/hitman_3.md) | 0.16% |
+| 136 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
+| 138 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
+| 138 | [RAILGRADE](games/r/railgrade.md) | 0.15% |
+| 138 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
+| 141 | [Isonzo](games/i/isonzo.md) | 0.14% |
+| 141 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
 | 143 | [Dead Island 2](games/d/dead_island_2.md) | 0.13% |
 | 143 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.13% |
 | 143 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.13% |
