@@ -2,14 +2,14 @@
 | - | ---- | --------- |
 | 1 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.71% |
 | 2 | [Overloop](games/o/overloop.md) | 25.00% |
-| 3 | [Doodle Devil](games/d/doodle_devil.md) | 19.72% |
+| 3 | [Doodle Devil](games/d/doodle_devil.md) | 19.44% |
 | 4 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 5 | [Island Cities](games/i/island_cities.md) | 17.78% |
-| 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 17.39% |
+| 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 17.39% |
+| 6 | [Island Cities](games/i/island_cities.md) | 17.02% |
 | 7 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.01% |
 | 9 | [Them and Us](games/t/them_and_us.md) | 12.50% |
-| 10 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.89% |
+| 10 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.88% |
 | 11 | [Ravenlok](games/r/ravenlok.md) | 11.67% |
 | 12 | [Smelter](games/s/smelter.md) | 10.00% |
 | 13 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
@@ -67,7 +67,7 @@
 | 65 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.54% |
 | 66 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.52% |
 | 67 | [Bloodshore](games/b/bloodshore.md) | 1.44% |
-| 68 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.42% |
+| 68 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.41% |
 | 69 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.33% |
 | 70 | [Chorus](games/c/chorus.md) | 1.30% |
 | 71 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.29% |
@@ -78,7 +78,7 @@
 | 76 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.18% |
 | 77 | [Ten Dates](games/t/ten_dates.md) | 1.05% |
 | 78 | [Dungeons 3](games/d/dungeons_3.md) | 0.96% |
-| 79 | [Sable](games/s/sable.md) | 0.92% |
+| 79 | [Sable](games/s/sable.md) | 0.91% |
 | 80 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
 | 80 | [Hades](games/h/hades.md) | 0.89% |
 | 82 | [Five Dates](games/f/five_dates.md) | 0.88% |
@@ -94,9 +94,9 @@
 | 92 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.66% |
 | 93 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
 | 94 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
-| 95 | [Ghostrunner](games/g/ghostrunner.md) | 0.52% |
 | 95 | [Grindstone](games/g/grindstone.md) | 0.52% |
-| 97 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.51% |
+| 96 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.51% |
+| 96 | [Ghostrunner](games/g/ghostrunner.md) | 0.51% |
 | 98 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.50% |
 | 99 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 100 | [Aragami 2](games/a/aragami_2.md) | 0.46% |
@@ -370,4 +370,4 @@
 | 191 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 191 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 191 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,537 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,538 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

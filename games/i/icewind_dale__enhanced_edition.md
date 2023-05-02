@@ -1,5 +1,5 @@
 # Icewind Dale: Enhanced Edition
-Rating: 4.77 (Ranked 104)  
+Rating: 4.77 (Ranked 103)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 489)  
 Sum: 0 (Ranked 489)  
