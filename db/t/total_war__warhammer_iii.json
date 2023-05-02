@@ -18,7 +18,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 354
+      "Count": 355
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -72,7 +72,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 324
+      "Count": 326
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2554,6 +2554,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 5291,
       "NumberOfAwardsMax": 1477
+    },
+    {
+      "Time": "2023-05-02T13:06:23.1040866+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 5294,
+      "NumberOfAwardsMax": 1477
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -2561,12 +2567,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-02T12:05:27.9897407+00:00",
-  "LastUpdate_Ratings": "2023-05-02T12:00:00.4495776+00:00",
-  "LastChanged": "2023-05-02T04:59:19.4952839+00:00",
+  "LastUpdate_Achievements": "2023-05-02T13:11:51.4991341+00:00",
+  "LastUpdate_Ratings": "2023-05-02T13:06:23.1040871+00:00",
+  "LastChanged": "2023-05-02T13:06:23.1040863+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 1477,
-  "NumberOfAwards": 5291,
+  "NumberOfAwards": 5294,
   "NumberOfRatings": 882,
   "Ranking_EOS_NewCompleters": 83,
   "Ranking_EOS_NewPlayers": 270,

@@ -30,7 +30,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 2483
+      "Count": 2487
     },
     {
       "Text": "This game is Extremely Fun",
@@ -60,7 +60,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 2268
+      "Count": 2270
     },
     {
       "Text": "This game has Challenging Combat",
@@ -72,7 +72,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 2248
+      "Count": 2252
     }
   ],
   "EosHistory": [],
@@ -4467,6 +4467,12 @@
       "Rating": 4.76,
       "NumberOfAwards": 35360,
       "NumberOfAwardsMax": 14067
+    },
+    {
+      "Time": "2023-05-02T13:06:29.6066833+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 35370,
+      "NumberOfAwardsMax": 14067
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -4474,12 +4480,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-02T12:05:36.426397+00:00",
-  "LastUpdate_Ratings": "2023-05-02T12:00:08.5580458+00:00",
-  "LastChanged": "2023-05-02T03:00:56.0138407+00:00",
+  "LastUpdate_Achievements": "2023-05-02T13:11:58.9541007+00:00",
+  "LastUpdate_Ratings": "2023-05-02T13:06:29.6066841+00:00",
+  "LastChanged": "2023-05-02T13:06:29.606683+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 14067,
-  "NumberOfAwards": 35360,
+  "NumberOfAwards": 35370,
   "NumberOfRatings": 13386,
   "Ranking_EOS_NewCompleters": 83,
   "Ranking_EOS_NewPlayers": 270,

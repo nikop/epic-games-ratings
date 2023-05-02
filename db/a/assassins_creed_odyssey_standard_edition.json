@@ -12,7 +12,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3071
+      "Count": 3078
     },
     {
       "Text": "This game is Educational",
@@ -3642,6 +3642,12 @@
       "Rating": 4.75,
       "NumberOfAwards": 11714,
       "NumberOfAwardsMax": 4833
+    },
+    {
+      "Time": "2023-05-02T13:05:45.7390287+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 11721,
+      "NumberOfAwardsMax": 4833
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -3649,12 +3655,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-02T12:04:36.9309779+00:00",
-  "LastUpdate_Ratings": "2023-05-02T11:59:15.2415779+00:00",
-  "LastChanged": "2023-05-02T11:59:15.2415772+00:00",
+  "LastUpdate_Achievements": "2023-05-02T13:11:09.3190343+00:00",
+  "LastUpdate_Ratings": "2023-05-02T13:05:45.7390292+00:00",
+  "LastChanged": "2023-05-02T13:05:45.7390284+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 4833,
-  "NumberOfAwards": 11714,
+  "NumberOfAwards": 11721,
   "NumberOfRatings": 5481,
   "Ranking_EOS_NewCompleters": 83,
   "Ranking_EOS_NewPlayers": 270,

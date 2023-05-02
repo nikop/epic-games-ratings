@@ -48,7 +48,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 13040
+      "Count": 13071
     },
     {
       "Text": "This game is Highly Recommended",
@@ -66,7 +66,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 12928
+      "Count": 12962
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -5279,6 +5279,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 350514,
       "NumberOfAwardsMax": 137782
+    },
+    {
+      "Time": "2023-05-02T13:05:23.1054156+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 350579,
+      "NumberOfAwardsMax": 137782
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -5286,12 +5292,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-02T12:04:11.7070316+00:00",
-  "LastUpdate_Ratings": "2023-05-02T11:58:46.8149141+00:00",
-  "LastChanged": "2023-05-02T11:58:46.8149134+00:00",
+  "LastUpdate_Achievements": "2023-05-02T13:10:48.1739073+00:00",
+  "LastUpdate_Ratings": "2023-05-02T13:05:23.1054163+00:00",
+  "LastChanged": "2023-05-02T13:05:23.1054153+00:00",
   "MaxAwardTitle": "Impact the Story",
   "NumberOfAwardsMax": 137782,
-  "NumberOfAwards": 350514,
+  "NumberOfAwards": 350579,
   "NumberOfRatings": 102658,
   "Ranking_EOS_NewCompleters": 83,
   "Ranking_EOS_NewPlayers": 270,

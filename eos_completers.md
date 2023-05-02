@@ -19,7 +19,7 @@
 | 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.40% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
 | 19 | [Scorn](games/s/scorn.md) | 7.14% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.00% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.95% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.11% |
 | 23 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
@@ -78,7 +78,7 @@
 | 76 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.18% |
 | 77 | [Ten Dates](games/t/ten_dates.md) | 1.05% |
 | 78 | [Dungeons 3](games/d/dungeons_3.md) | 0.96% |
-| 79 | [Sable](games/s/sable.md) | 0.91% |
+| 79 | [Sable](games/s/sable.md) | 0.92% |
 | 80 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
 | 80 | [Hades](games/h/hades.md) | 0.89% |
 | 82 | [Five Dates](games/f/five_dates.md) | 0.88% |
@@ -111,12 +111,12 @@
 | 109 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.34% |
 | 110 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
 | 110 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
-| 112 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
-| 112 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
-| 114 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
-| 114 | [Tchia](games/t/tchia.md) | 0.31% |
-| 114 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 114 | [The Surge](games/t/the_surge.md) | 0.31% |
+| 110 | [Tchia](games/t/tchia.md) | 0.33% |
+| 113 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
+| 113 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
+| 115 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
+| 115 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 115 | [The Surge](games/t/the_surge.md) | 0.31% |
 | 118 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.30% |
 | 118 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
 | 120 | [Aegis Descent](games/a/aegis_descent.md) | 0.29% |
@@ -370,4 +370,4 @@
 | 191 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 191 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 191 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,536 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,537 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

@@ -1,5 +1,5 @@
 # EA SPORTS™ FIFA 23 Standard Edition
-Rating: 4.24 (Ranked 778)  
+Rating: 4.24 (Ranked 779)  
 ## Popularity (Based on Awards)
 Max (Diverse Characters): 8,604  (Ranked 37)  
 Sum: 40,998 (Ranked 27)  

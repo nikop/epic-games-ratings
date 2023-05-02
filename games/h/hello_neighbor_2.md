@@ -1,5 +1,5 @@
 # Hello Neighbor 2
-Rating: 4.39 (Ranked 677)  
+Rating: 4.39 (Ranked 676)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 489)  
 Sum: 0 (Ranked 489)  
