@@ -1,12 +1,12 @@
 # Prison Architect
-Rating: 4.61 (Ranked 352)  
+Rating: 4.61 (Ranked 353)  
 Number of Ratings: 4,491  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 408  (Ranked 194)  
-Sum: 3,213 (Ranked 143)  
+Sum: 3,215 (Ranked 143)  
 Diff (max vs sum): 51
 ## Popularity (Based on EOS Achievements)
-Progressed: 115,366 (Ranked 56)  
+Progressed: 115,383 (Ranked 56)  
 Completed: 4 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -18,14 +18,14 @@ Completed: 4 (0.00%) (Ranked 191)
 | 2023-04-29 | 113,825 | 4 |
 | 2023-04-30 | 114,433 | 4 |
 | 2023-05-01 | 114,983 | 4 |
-| 2023-05-02 | 115,366 | 4 |
+| 2023-05-02 | 115,383 | 4 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 408 |
 | This game is Highly Recommended | 395 |
 | This game is Great for Beginners | 393 |
-| This game has Quickly Understood Controls | 383 |
+| This game has Quickly Understood Controls | 385 |
 | This game is Relaxing | 358 |
 | This game has Diverse Characters | 350 |
 | This game has Amazing Storytelling | 347 |
@@ -138,4 +138,4 @@ Completed: 4 (0.00%) (Ranked 191)
 | 2023-04-29 | 4.61 | - | 408 | 3,199 |
 | 2023-04-30 | 4.61 | - | 408 | 3,204 |
 | 2023-05-01 | 4.61 | - | 408 | 3,210 |
-| 2023-05-02 | 4.61 | - | 408 | 3,213 |
+| 2023-05-02 | 4.61 | - | 408 | 3,215 |
