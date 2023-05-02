@@ -54,7 +54,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 364
+      "Count": 367
     },
     {
       "Text": "This game is Educational",
@@ -78,7 +78,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 457
+      "Count": 460
     }
   ],
   "EosHistory": [
@@ -920,6 +920,11 @@
     {
       "Time": "2023-05-02T19:03:22.3473978+00:00",
       "NumProgressed": 451724,
+      "NumCompleted": 1484
+    },
+    {
+      "Time": "2023-05-02T20:02:28.1621186+00:00",
+      "NumProgressed": 451735,
       "NumCompleted": 1484
     }
   ],
@@ -3726,21 +3731,27 @@
       "Rating": 4.89,
       "NumberOfAwards": 11707,
       "NumberOfAwardsMax": 6868
+    },
+    {
+      "Time": "2023-05-02T19:59:51.4498963+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 11713,
+      "NumberOfAwardsMax": 6868
     }
   ],
   "EOS_Completed_Percentage": 0.33,
-  "EOS_NewCompleters": 28,
-  "EOS_NewPlayers": 2101,
+  "EOS_NewCompleters": 27,
+  "EOS_NewPlayers": 2106,
   "EOS_Completed": 1484,
-  "EOS_Progressed": 451724,
-  "LastUpdate_Achievements": "2023-05-02T19:03:22.3474061+00:00",
-  "LastUpdate_Ratings": "2023-05-02T19:00:42.8112099+00:00",
-  "LastChanged_Achievements": "2023-05-02T19:03:22.3473971+00:00",
-  "LastChanged": "2023-05-02T14:59:45.1525789+00:00",
+  "EOS_Progressed": 451735,
+  "LastUpdate_Achievements": "2023-05-02T20:02:28.162127+00:00",
+  "LastUpdate_Ratings": "2023-05-02T19:59:51.449897+00:00",
+  "LastChanged_Achievements": "2023-05-02T20:02:28.1621183+00:00",
+  "LastChanged": "2023-05-02T19:59:51.4498961+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.0381621+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 6868,
-  "NumberOfAwards": 11707,
+  "NumberOfAwards": 11713,
   "NumberOfRatings": 3099,
   "Ranking_EOS_NewCompleters": 8,
   "Ranking_EOS_NewPlayers": 32,

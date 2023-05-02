@@ -1,5 +1,5 @@
 # Mars Horizon
-Rating: 4.50 (Ranked 529)  
+Rating: 4.50 (Ranked 530)  
 Number of Ratings: 23  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 489)  

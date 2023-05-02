@@ -2,9 +2,9 @@
 Rating: 4.85 (Ranked 37)  
 Number of Ratings: 425  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Amazing Storytelling): 38  (Ranked 412)  
+Max (Amazing Storytelling): 38  (Ranked 413)  
 Sum: 309 (Ranked 321)  
-Diff (max vs sum): 91
+Diff (max vs sum): 92
 ## Popularity (Based on EOS Achievements)
 Progressed: 27,331 (Ranked 84)  
 Completed: 1,258 (4.60%) (Ranked 27)  

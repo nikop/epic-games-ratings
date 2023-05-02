@@ -1,12 +1,12 @@
 # STRANGER OF PARADISE FINAL FANTASY ORIGIN
-Rating: 4.50 (Ranked 529)  
+Rating: 4.50 (Ranked 530)  
 Number of Ratings: 1,919  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 752  (Ranked 148)  
 Sum: 1,549 (Ranked 204)  
 Diff (max vs sum): -56
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,811 (Ranked 60)  
+Progressed: 77,812 (Ranked 60)  
 Completed: 2,117 (2.72%) (Ranked 49)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -18,7 +18,7 @@ Completed: 2,117 (2.72%) (Ranked 49)
 | 2023-04-29 | 77,770 | 2,115 |
 | 2023-04-30 | 77,790 | 2,116 |
 | 2023-05-01 | 77,802 | 2,117 |
-| 2023-05-02 | 77,811 | 2,117 |
+| 2023-05-02 | 77,812 | 2,117 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

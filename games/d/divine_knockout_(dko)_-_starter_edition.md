@@ -2,9 +2,9 @@
 Rating: 4.35 (Ranked 713)  
 Number of Ratings: 60  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 48  (Ranked 389)  
-Sum: 420 (Ranked 294)  
-Diff (max vs sum): 95
+Max (Great for Beginners): 48  (Ranked 390)  
+Sum: 422 (Ranked 294)  
+Diff (max vs sum): 96
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -14,8 +14,8 @@ Diff (max vs sum): 95
 | This game has Diverse Characters | 42 |
 | This game is Great for Quick Sessions | 38 |
 | This game is Extremely Fun | 37 |
-| This game is Highly Recommended | 36 |
-| This game has Playful Visuals | 34 |
+| This game is Highly Recommended | 37 |
+| This game has Playful Visuals | 35 |
 | This game has Amazing Characters | 34 |
 | This game has a Competitive Community | 32 |
 | This game is Relaxing | 28 |
@@ -121,4 +121,4 @@ Diff (max vs sum): 95
 | 2023-04-29 | 4.36 | - | 48 | 411 |
 | 2023-04-30 | 4.36 | - | 48 | 415 |
 | 2023-05-01 | 4.35 | - | 48 | 418 |
-| 2023-05-02 | 4.35 | - | 48 | 420 |
+| 2023-05-02 | 4.35 | - | 48 | 422 |

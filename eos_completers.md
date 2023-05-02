@@ -17,7 +17,7 @@
 | 15 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.48% |
-| 18 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.40% |
+| 18 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.36% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
 | 20 | [Scorn](games/s/scorn.md) | 7.14% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
@@ -157,9 +157,9 @@
 | 154 | [Fall Guys](games/f/fall_guys.md) | 0.09% |
 | 154 | [Supraland](games/s/supraland.md) | 0.09% |
 | 157 | [Riverbond](games/r/riverbond.md) | 0.08% |
-| 157 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.08% |
 | 157 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
-| 160 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
+| 159 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
+| 159 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 161 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
 | 161 | [Shop Titans](games/s/shop_titans.md) | 0.06% |
 | 161 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
