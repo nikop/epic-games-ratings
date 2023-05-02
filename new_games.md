@@ -1,5 +1,7 @@
 | Game | Rating | Ranking | Awards | Ranking |
 | ---- | ------ | ------- | ------ | ------- |
+| [The Witch of Fern Island](games/t/the_witch_of_fern_island.md) | - | - | 0 | - |
+| [KITS](games/k/kits.md) | - | - | 0 | - |
 | [Redfall](games/r/redfall.md) | - | - | 0 | - |
 | [Shotgun Farmers](games/s/shotgun_farmers.md) | - | - | 0 | - |
 | [Pipe Mania](games/p/pipe_mania.md) | - | - | 0 | - |
@@ -90,4 +92,3 @@
 | [Eldest Souls](games/e/eldest_souls.md) | - | - | 0 | - |
 | [Gummy Dummy Battles](games/g/gummy_dummy_battles.md) | - | - | 0 | - |
 | [Troublemaker](games/t/troublemaker.md) | - | - | 0 | - |
-| [Boom Blaster](games/b/boom_blaster.md) | - | - | 0 | - |

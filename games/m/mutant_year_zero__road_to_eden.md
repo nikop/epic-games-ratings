@@ -1,9 +1,9 @@
 # Mutant Year Zero: Road to Eden
-Rating: 4.49 (Ranked 547)  
+Rating: 4.49 (Ranked 546)  
 Number of Ratings: 2,052  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 610  (Ranked 162)  
-Sum: 864 (Ranked 239)  
+Sum: 865 (Ranked 239)  
 Diff (max vs sum): -77
 ## Awards
 | Award | Count |
@@ -14,7 +14,7 @@ Diff (max vs sum): -77
 | This game is Relaxing | 36 |
 | This game is Highly Recommended | 36 |
 | This game is Extremely Fun | 36 |
-| This game has Amazing Storytelling | 34 |
+| This game has Amazing Storytelling | 35 |
 | This game has Diverse Characters | 33 |
 | This game has Obsessive Gameplay | 25 |
 ## Ratings History
@@ -107,3 +107,4 @@ Diff (max vs sum): -77
 | 2023-04-28 | 4.49 | - | 609 | 862 |
 | 2023-04-30 | 4.49 | - | 609 | 863 |
 | 2023-05-01 | 4.49 | - | 610 | 864 |
+| 2023-05-02 | 4.49 | - | 610 | 865 |

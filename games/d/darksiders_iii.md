@@ -1,5 +1,5 @@
 # Darksiders III
-Rating: 4.49 (Ranked 547)  
+Rating: 4.49 (Ranked 546)  
 Number of Ratings: 116  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 88  (Ranked 334)  

@@ -316,7 +316,7 @@
 | 312 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,918 | 54 |
 | 312 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 114 | 305 |
 | 312 | [Deceive Inc.](games/d/deceive_inc..md) | 4.64 | 0 | 489 |
-| 312 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 2,081 | 101 |
+| 312 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.64 | 2,083 | 101 |
 | 312 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.64 | 59 | 375 |
 | 312 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 0 | 489 |
 | 312 | [HITMAN](games/h/hitman.md) | 4.64 | 196 | 257 |
@@ -534,7 +534,6 @@
 | 529 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 489 |
 | 529 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 33,429 | 12 |
 | 529 | [Far Cry](games/f/far_cry.md) | 4.50 | 0 | 489 |
-| 529 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 226 | 243 |
 | 529 | [Horace](games/h/horace.md) | 4.50 | 0 | 489 |
 | 529 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 0 | 489 |
 | 529 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 97 | 322 |
@@ -546,24 +545,25 @@
 | 529 | [Tails of Iron](games/t/tails_of_iron.md) | 4.50 | 0 | 489 |
 | 529 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.50 | 0 | 489 |
 | 529 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 28 | 449 |
-| 547 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 61 | 372 |
-| 547 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 393 | 199 |
-| 547 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,971 | 102 |
-| 547 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 104 | 312 |
-| 547 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 88 | 334 |
-| 547 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 0 | 489 |
-| 547 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 271 | 231 |
-| 547 | [Hell is Others](games/h/hell_is_others.md) | 4.49 | 0 | 489 |
-| 547 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 2,277 | 94 |
-| 547 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 489 |
-| 547 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.49 | 0 | 489 |
-| 547 | [Maneater](games/m/maneater.md) | 4.49 | 13,424 | 24 |
-| 547 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 610 | 162 |
-| 547 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 489 |
-| 547 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 341 |
-| 547 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 489 |
-| 547 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.49 | 0 | 489 |
-| 547 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 0 | 489 |
+| 546 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 61 | 372 |
+| 546 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 393 | 199 |
+| 546 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,971 | 102 |
+| 546 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 104 | 312 |
+| 546 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 88 | 334 |
+| 546 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 0 | 489 |
+| 546 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 271 | 231 |
+| 546 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 226 | 243 |
+| 546 | [Hell is Others](games/h/hell_is_others.md) | 4.49 | 0 | 489 |
+| 546 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 2,277 | 94 |
+| 546 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 489 |
+| 546 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.49 | 0 | 489 |
+| 546 | [Maneater](games/m/maneater.md) | 4.49 | 13,424 | 24 |
+| 546 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 610 | 162 |
+| 546 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 489 |
+| 546 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 341 |
+| 546 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 489 |
+| 546 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.49 | 0 | 489 |
+| 546 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.49 | 0 | 489 |
 | 565 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 489 |
 | 565 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 0 | 489 |
 | 565 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.48 | 0 | 489 |
@@ -653,7 +653,7 @@
 | 651 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 0 | 489 |
 | 651 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 0 | 489 |
 | 651 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 178 | 267 |
-| 651 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 11,848 | 28 |
+| 651 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 11,857 | 28 |
 | 651 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 0 | 489 |
 | 651 | [MORDHAU](games/m/mordhau.md) | 4.41 | 47 | 391 |
 | 651 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.41 | 0 | 489 |
@@ -689,7 +689,7 @@
 | 687 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 489 |
 | 687 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 0 | 489 |
 | 687 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 162 | 277 |
-| 687 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 161 | 278 |
+| 687 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 162 | 277 |
 | 687 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 0 | 489 |
 | 687 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 489 |
 | 693 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.37 | 0 | 489 |
