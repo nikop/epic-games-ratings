@@ -18,7 +18,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 5648
+      "Count": 5652
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4071,6 +4071,12 @@
       "Rating": 4.71,
       "NumberOfAwards": 47022,
       "NumberOfAwardsMax": 6208
+    },
+    {
+      "Time": "2023-05-02T11:58:47.5978615+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 47026,
+      "NumberOfAwardsMax": 6208
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -4078,12 +4084,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-02T11:04:37.7550248+00:00",
-  "LastUpdate_Ratings": "2023-05-02T10:59:20.9748542+00:00",
-  "LastChanged": "2023-05-02T01:57:18.5276509+00:00",
+  "LastUpdate_Achievements": "2023-05-02T12:04:10.6656814+00:00",
+  "LastUpdate_Ratings": "2023-05-02T11:58:47.597862+00:00",
+  "LastChanged": "2023-05-02T11:58:47.5978612+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 6208,
-  "NumberOfAwards": 47022,
+  "NumberOfAwards": 47026,
   "NumberOfRatings": 16706,
   "Ranking_EOS_NewCompleters": 83,
   "Ranking_EOS_NewPlayers": 270,

@@ -42,7 +42,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 551
+      "Count": 553
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3233,6 +3233,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 8696,
       "NumberOfAwardsMax": 2457
+    },
+    {
+      "Time": "2023-05-02T12:00:24.8467766+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 8698,
+      "NumberOfAwardsMax": 2457
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -3240,12 +3246,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-02T11:06:35.9585553+00:00",
-  "LastUpdate_Ratings": "2023-05-02T11:01:18.3510685+00:00",
-  "LastChanged": "2023-05-01T21:59:55.1587451+00:00",
+  "LastUpdate_Achievements": "2023-05-02T12:05:52.856237+00:00",
+  "LastUpdate_Ratings": "2023-05-02T12:00:24.8467771+00:00",
+  "LastChanged": "2023-05-02T12:00:24.8467764+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 2457,
-  "NumberOfAwards": 8696,
+  "NumberOfAwards": 8698,
   "NumberOfRatings": 3102,
   "Ranking_EOS_NewCompleters": 83,
   "Ranking_EOS_NewPlayers": 270,

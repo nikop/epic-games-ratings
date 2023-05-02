@@ -19,7 +19,7 @@
 | 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.40% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
 | 19 | [Scorn](games/s/scorn.md) | 7.14% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.02% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.00% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.11% |
 | 23 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
@@ -38,7 +38,7 @@
 | 36 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.50% |
 | 37 | [The Bunker](games/t/the_bunker.md) | 3.37% |
 | 38 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
-| 39 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.27% |
+| 39 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.23% |
 | 40 | [HordeCore](games/h/hordecore.md) | 3.06% |
 | 41 | [Lamentum](games/l/lamentum.md) | 3.02% |
 | 42 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.99% |
@@ -370,4 +370,4 @@
 | 191 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 191 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 191 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,535 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,536 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

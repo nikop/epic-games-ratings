@@ -3,7 +3,7 @@ Rating: 4.84 (Ranked 49)
 Number of Ratings: 7,928  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Amazing Storytelling): 652  (Ranked 159)  
-Sum: 5,199 (Ranked 121)  
+Sum: 5,201 (Ranked 121)  
 Diff (max vs sum): 38
 ## Awards
 | Award | Count |
@@ -16,7 +16,7 @@ Diff (max vs sum): 38
 | This game is Extremely Fun | 598 |
 | This game is Educational | 524 |
 | This game has Amazing Characters | 514 |
-| This game has a Creative Community | 415 |
+| This game has a Creative Community | 417 |
 | This game has Obsessive Gameplay | 399 |
 | This game has Beautiful Visuals | 149 |
 ## Ratings History
@@ -133,4 +133,4 @@ Diff (max vs sum): 38
 | 2023-04-29 | 4.84 | - | 650 | 5,192 |
 | 2023-04-30 | 4.84 | - | 650 | 5,195 |
 | 2023-05-01 | 4.84 | - | 650 | 5,196 |
-| 2023-05-02 | 4.84 | - | 652 | 5,199 |
+| 2023-05-02 | 4.84 | - | 652 | 5,201 |

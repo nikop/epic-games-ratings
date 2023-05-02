@@ -24,7 +24,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 8811
+      "Count": 8821
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4724,6 +4724,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 82745,
       "NumberOfAwardsMax": 10050
+    },
+    {
+      "Time": "2023-05-02T11:57:48.944496+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 82755,
+      "NumberOfAwardsMax": 10050
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -4731,12 +4737,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-02T11:02:08.0846351+00:00",
-  "LastUpdate_Ratings": "2023-05-02T10:58:11.0522148+00:00",
-  "LastChanged": "2023-05-02T09:57:33.4997869+00:00",
+  "LastUpdate_Achievements": "2023-05-02T12:01:08.0844599+00:00",
+  "LastUpdate_Ratings": "2023-05-02T11:57:48.9444966+00:00",
+  "LastChanged": "2023-05-02T11:57:48.9444958+00:00",
   "MaxAwardTitle": "Great for Quick Sessions",
   "NumberOfAwardsMax": 10050,
-  "NumberOfAwards": 82745,
+  "NumberOfAwards": 82755,
   "NumberOfRatings": 14652,
   "Ranking_EOS_NewCompleters": 83,
   "Ranking_EOS_NewPlayers": 270,

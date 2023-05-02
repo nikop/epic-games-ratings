@@ -1,8 +1,8 @@
 # PC Building Simulator 2
 Rating: 4.61 (Ranked 352)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 591  (Ranked 165)  
-Sum: 4,502 (Ranked 128)  
+Max (Great for Beginners): 592  (Ranked 165)  
+Sum: 4,503 (Ranked 128)  
 Diff (max vs sum): 37
 ## Popularity (Based on EOS Achievements)
 Progressed: 158,140 (Ranked 51)  
@@ -21,7 +21,7 @@ Completed: 102 (0.06%) (Ranked 161)
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 591 |
+| This game is Great for Beginners | 592 |
 | This game is Relaxing | 572 |
 | This game is Educational | 570 |
 | This game is Extremely Fun | 542 |
@@ -79,4 +79,4 @@ Completed: 102 (0.06%) (Ranked 161)
 | 2023-04-29 | 4.61 | 591 | 4,495 |
 | 2023-04-30 | 4.61 | 591 | 4,496 |
 | 2023-05-01 | 4.61 | 591 | 4,498 |
-| 2023-05-02 | 4.61 | 591 | 4,502 |
+| 2023-05-02 | 4.61 | 592 | 4,503 |
