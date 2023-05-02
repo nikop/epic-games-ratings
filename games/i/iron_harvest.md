@@ -1,5 +1,5 @@
 # Iron Harvest
-Rating: 4.40 (Ranked 663)  
+Rating: 4.39 (Ranked 677)  
 Number of Ratings: 165  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 489)  
@@ -77,3 +77,4 @@ Diff (max vs sum): 0
 | 2023-03-31 | 4.38 | - | 0 | 0 |
 | 2023-04-15 | 4.39 | - | 0 | 0 |
 | 2023-04-25 | 4.40 | - | 0 | 0 |
+| 2023-05-01 | 4.39 | - | 0 | 0 |
