@@ -26,7 +26,7 @@
 | 24 | [Black Book](games/b/black_book.md) | 4.87 | 21 | 477 |
 | 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,369 | 117 |
 | 24 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.87 | 11,329 | 31 |
-| 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,001 | 135 |
+| 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,002 | 135 |
 | 28 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 489 |
 | 28 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 138 | 287 |
 | 28 | [Disco Elysium](games/d/disco_elysium.md) | 4.86 | 684 | 155 |
@@ -113,7 +113,7 @@
 | 104 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 489 |
 | 104 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 27 | 452 |
 | 113 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 0 | 489 |
-| 113 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,053 | 23 |
+| 113 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,067 | 23 |
 | 113 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 85 | 337 |
 | 113 | [Dead Space](games/d/dead_space.md) | 4.76 | 38 | 411 |
 | 113 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 831 | 144 |
@@ -171,7 +171,7 @@
 | 166 | [Oddworld Soulstorm](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 408 |
 | 166 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 0 | 489 |
 | 166 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.72 | 0 | 489 |
-| 166 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 68 | 361 |
+| 166 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 68 | 362 |
 | 166 | [SUPERHOT](games/s/superhot.md) | 4.72 | 0 | 489 |
 | 166 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 489 |
 | 166 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 0 | 489 |
@@ -388,7 +388,7 @@
 | 378 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.60 | 0 | 489 |
 | 378 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 9,016 | 35 |
 | 378 | [Roguebook](games/r/roguebook.md) | 4.60 | 0 | 489 |
-| 378 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 439 | 189 |
+| 378 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 440 | 189 |
 | 378 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.60 | 145 | 284 |
 | 378 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 20 | 481 |
 | 378 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.60 | 0 | 489 |
@@ -515,7 +515,7 @@
 | 511 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,076 | 71 |
 | 511 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 0 | 489 |
 | 511 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 21 | 477 |
-| 511 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 68 | 361 |
+| 511 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.51 | 68 | 362 |
 | 511 | [First Class Trouble](games/f/first_class_trouble.md) | 4.51 | 84 | 339 |
 | 511 | [HUMANKIND™ Digital Deluxe Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 104 | 312 |
 | 511 | [MythForce](games/m/mythforce.md) | 4.51 | 32 | 432 |
@@ -614,7 +614,7 @@
 | 600 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 37 | 415 |
 | 600 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 489 |
 | 600 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 846 | 143 |
-| 600 | [Predecessor](games/p/predecessor.md) | 4.45 | 67 | 363 |
+| 600 | [Predecessor](games/p/predecessor.md) | 4.45 | 69 | 359 |
 | 600 | [Redout 2](games/r/redout_2.md) | 4.45 | 0 | 489 |
 | 600 | [SMITE](games/s/smite.md) | 4.45 | 3,704 | 77 |
 | 600 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 520 | 178 |
@@ -695,22 +695,22 @@
 | 693 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.37 | 0 | 489 |
 | 693 | [Core](games/c/core.md) | 4.37 | 727 | 152 |
 | 693 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 0 | 489 |
-| 693 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.37 | 12,307 | 27 |
 | 693 | [Hammerting](games/h/hammerting.md) | 4.37 | 0 | 489 |
 | 693 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,131 | 100 |
 | 693 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 489 |
 | 693 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 47 | 391 |
 | 693 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 31 | 438 |
-| 702 | [Among Trees](games/a/among_trees.md) | 4.36 | 0 | 489 |
-| 702 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 272 |
-| 702 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 0 | 489 |
-| 702 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.36 | 0 | 489 |
-| 702 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 489 |
-| 702 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 463 |
-| 702 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 0 | 489 |
-| 702 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 0 | 489 |
-| 702 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 82 | 342 |
-| 702 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 489 |
+| 701 | [Among Trees](games/a/among_trees.md) | 4.36 | 0 | 489 |
+| 701 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 272 |
+| 701 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 0 | 489 |
+| 701 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,307 | 27 |
+| 701 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.36 | 0 | 489 |
+| 701 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 489 |
+| 701 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 463 |
+| 701 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 0 | 489 |
+| 701 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.36 | 0 | 489 |
+| 701 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 82 | 342 |
+| 701 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 489 |
 | 712 | [Beyond Blue](games/b/beyond_blue.md) | 4.35 | 0 | 489 |
 | 712 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 489 |
 | 712 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 90 | 332 |
