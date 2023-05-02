@@ -54,7 +54,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 6752
+      "Count": 6759
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4505,6 +4505,12 @@
       "Rating": 4.88,
       "NumberOfAwards": 79233,
       "NumberOfAwardsMax": 9230
+    },
+    {
+      "Time": "2023-05-02T15:58:58.0552395+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 79240,
+      "NumberOfAwardsMax": 9230
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -4512,15 +4518,15 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-02T15:04:21.8341462+00:00",
-  "LastUpdate_Ratings": "2023-05-02T14:59:03.5537777+00:00",
-  "LastChanged": "2023-05-02T13:05:57.7650764+00:00",
+  "LastUpdate_Achievements": "2023-05-02T16:04:30.6667235+00:00",
+  "LastUpdate_Ratings": "2023-05-02T15:58:58.05524+00:00",
+  "LastChanged": "2023-05-02T15:58:58.0552394+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 9230,
-  "NumberOfAwards": 79233,
+  "NumberOfAwards": 79240,
   "NumberOfRatings": 29401,
   "Ranking_EOS_NewCompleters": 84,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 372,
   "Ranking_PopularitySum": 17,

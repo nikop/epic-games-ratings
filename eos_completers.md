@@ -4,8 +4,8 @@
 | 2 | [Overloop](games/o/overloop.md) | 25.00% |
 | 3 | [Doodle Devil](games/d/doodle_devil.md) | 19.44% |
 | 4 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 17.39% |
-| 6 | [Island Cities](games/i/island_cities.md) | 17.02% |
+| 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 16.67% |
+| 5 | [Island Cities](games/i/island_cities.md) | 16.67% |
 | 7 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.01% |
 | 9 | [Them and Us](games/t/them_and_us.md) | 12.50% |
@@ -16,7 +16,7 @@
 | 14 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 15 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.40% |
+| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.49% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
 | 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.18% |
 | 20 | [Scorn](games/s/scorn.md) | 7.14% |
@@ -45,7 +45,7 @@
 | 43 | [MultiVersus](games/m/multiversus.md) | 2.96% |
 | 44 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.94% |
 | 45 | [Destiny 2](games/d/destiny_2.md) | 2.92% |
-| 46 | [Bunny Park](games/b/bunny_park.md) | 2.89% |
+| 46 | [Bunny Park](games/b/bunny_park.md) | 2.88% |
 | 47 | [FORECLOSED](games/f/foreclosed.md) | 2.78% |
 | 48 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 49 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
@@ -370,4 +370,4 @@
 | 191 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 191 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 191 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,538 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,540 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

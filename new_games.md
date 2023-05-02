@@ -93,4 +93,3 @@
 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | - | - | 0 | - |
 | [Horse Tales - Emerald Valley Ranch](games/h/horse_tales_-_emerald_valley_ranch.md) | - | - | 0 | - |
 | [Eldest Souls](games/e/eldest_souls.md) | - | - | 0 | - |
-| [Gummy Dummy Battles](games/g/gummy_dummy_battles.md) | - | - | 0 | - |

@@ -1,9 +1,9 @@
 # Cyberpunk 2077
-Rating: 4.62 (Ranked 337)  
+Rating: 4.62 (Ranked 336)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 63,418  (Ranked 9)  
-Sum: 165,608 (Ranked 13)  
+Sum: 165,624 (Ranked 13)  
 Diff (max vs sum): -4
 ## Popularity (Based on EOS Achievements)
 Progressed: 797,440 (Ranked 10)  
@@ -24,7 +24,7 @@ Completed: 1,556 (0.20%) (Ranked 131)
 | ----- | ----- |
 | This game has Inclusive Character Customization | 63,418 |
 | This game has Great Boss Battles | 40,697 |
-| This game has Amazing Storytelling | 7,267 |
+| This game has Amazing Storytelling | 7,283 |
 | This game is Great for Beginners | 7,197 |
 | This game has Diverse Characters | 7,175 |
 | This game is Extremely Fun | 7,164 |
@@ -139,4 +139,4 @@ Completed: 1,556 (0.20%) (Ranked 131)
 | 2023-04-29 | 4.62 | - | 63,211 | 164,943 |
 | 2023-04-30 | 4.62 | - | 63,211 | 165,062 |
 | 2023-05-01 | 4.62 | - | 63,313 | 165,402 |
-| 2023-05-02 | 4.62 | - | 63,418 | 165,608 |
+| 2023-05-02 | 4.62 | - | 63,418 | 165,624 |
