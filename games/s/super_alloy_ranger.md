@@ -1,8 +1,8 @@
 # Super Alloy Ranger
 Rating: - (Ranked -)  
 ## Popularity (Based on Awards)
-Max (): -  (Ranked -)  
-Sum: - (Ranked -)  
+Max (): 0  (Ranked -)  
+Sum: 0 (Ranked -)  
 Diff (max vs sum): -
 ## Popularity (Based on EOS Achievements)
 Progressed: 13 (Ranked 296)  
@@ -17,3 +17,7 @@ Completed: 0 (0.00%) (Ranked 191)
 ## Awards
 | Award | Count |
 | ----- | ----- |
+## Ratings History
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
+| 2023-05-02 | - | 0 | 0 |

@@ -142,12 +142,12 @@
 | 140 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.14% |
 | 140 | [Isonzo](games/i/isonzo.md) | 0.14% |
 | 140 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
+| 143 | [Dead Island 2](games/d/dead_island_2.md) | 0.13% |
 | 143 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.13% |
 | 143 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.13% |
 | 143 | [Weird West](games/w/weird_west.md) | 0.13% |
-| 146 | [Dead Island 2](games/d/dead_island_2.md) | 0.12% |
-| 146 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
-| 146 | [Partisans 1941](games/p/partisans_1941.md) | 0.12% |
+| 147 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
+| 147 | [Partisans 1941](games/p/partisans_1941.md) | 0.12% |
 | 149 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
 | 150 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 150 | [House Flipper](games/h/house_flipper.md) | 0.10% |

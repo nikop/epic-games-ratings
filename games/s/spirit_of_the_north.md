@@ -1,10 +1,10 @@
 # Spirit of the North
-Rating: 4.36 (Ranked 701)  
+Rating: 4.36 (Ranked 702)  
 Number of Ratings: 1,175  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 25  (Ranked 463)  
-Sum: 73 (Ranked 409)  
-Diff (max vs sum): 54
+Sum: 73 (Ranked 410)  
+Diff (max vs sum): 53
 ## Popularity (Based on EOS Achievements)
 Progressed: 52,220 (Ranked 72)  
 Completed: 236 (0.45%) (Ranked 101)  

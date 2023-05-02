@@ -2,9 +2,9 @@
 Rating: 4.19 (Ranked 813)  
 Number of Ratings: 94  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 50  (Ranked 382)  
+Max (Diverse Characters): 50  (Ranked 383)  
 Sum: 370 (Ranked 306)  
-Diff (max vs sum): 76
+Diff (max vs sum): 77
 ## Popularity (Based on EOS Achievements)
 Progressed: 109,236 (Ranked 57)  
 Completed: 5 (0.00%) (Ranked 191)  
