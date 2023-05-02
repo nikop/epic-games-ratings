@@ -42,7 +42,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 56
+      "Count": 57
     },
     {
       "Text": "This game is Extremely Fun",
@@ -922,6 +922,12 @@
       "Rating": 4.35,
       "NumberOfAwards": 679,
       "NumberOfAwardsMax": 90
+    },
+    {
+      "Time": "2023-05-02T09:58:52.2677642+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 680,
+      "NumberOfAwardsMax": 90
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -929,12 +935,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-02T09:05:02.0892413+00:00",
-  "LastUpdate_Ratings": "2023-05-02T08:59:28.1213507+00:00",
-  "LastChanged": "2023-05-01T19:00:19.2805301+00:00",
+  "LastUpdate_Achievements": "2023-05-02T10:04:05.0872312+00:00",
+  "LastUpdate_Ratings": "2023-05-02T09:58:52.2677645+00:00",
+  "LastChanged": "2023-05-02T09:58:52.267764+00:00",
   "MaxAwardTitle": "Highly Recommended",
   "NumberOfAwardsMax": 90,
-  "NumberOfAwards": 679,
+  "NumberOfAwards": 680,
   "NumberOfRatings": 464,
   "Ranking_EOS_NewCompleters": 82,
   "Ranking_EOS_NewPlayers": 270,

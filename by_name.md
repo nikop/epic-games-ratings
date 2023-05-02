@@ -152,7 +152,7 @@
 | [Assassin's Creed Chronicles: India](games/a/assassin's_creed_chronicles__india.md) | - | - | 0 | - |
 | [Assassin's Creed Chronicles: Russia](games/a/assassin's_creed_chronicles__russia.md) | - | - | 0 | - |
 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 127 | 24 | 465 |
-| [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 234 | 2,990 | 87 |
+| [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 234 | 2,998 | 87 |
 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 426 | 152 | 280 |
 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 511 | 91 | 331 |
 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.59 | 395 | 593 | 164 |
@@ -441,7 +441,7 @@
 | [Crashlands](games/c/crashlands.md) | 4.66 | 273 | 188 | 261 |
 | [Crayta](games/c/crayta.md) | 4.19 | 813 | 50 | 383 |
 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 774 | 22 | 472 |
-| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 890 | 210 | 251 |
+| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 890 | 218 | 246 |
 | [Crimson Dawn](games/c/crimson_dawn.md) | - | - | 0 | - |
 | [Crimson Spires](games/c/crimson_spires.md) | - | - | - | - |
 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 703 | 170 | 272 |
@@ -454,7 +454,7 @@
 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 529 | 209 | 252 |
 | [CryoFall](games/c/cryofall.md) | 4.50 | 529 | 0 | 489 |
 | [Cryptmaster](games/c/cryptmaster.md) | - | - | - | - |
-| [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 352 | 212 | 249 |
+| [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 352 | 212 | 250 |
 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 288 | 164 | 276 |
 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 663 | 245 | 238 |
 | [Crysis Remastered Trilogy](games/c/crysis_remastered_trilogy.md) | - | - | - | - |
@@ -601,7 +601,7 @@
 | [Down in Bermuda](games/d/down_in_bermuda.md) | - | - | 0 | - |
 | [Dr. Fetus' Mean Meat Machine](games/d/dr._fetus'_mean_meat_machine.md) | - | - | - | - |
 | [Dr. Professor Scientist's Weapons Testing Facility](games/d/dr._professor_scientist's_weapons_testing_facility.md) | - | - | - | - |
-| [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 49 | 211 | 250 |
+| [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 49 | 211 | 251 |
 | [Dragon Wars](games/d/dragon_wars.md) | - | - | 0 | - |
 | [Dragonfish](games/d/dragonfish.md) | - | - | - | - |
 | [Drawful 2](games/d/drawful_2.md) | - | - | 0 | - |
@@ -626,7 +626,7 @@
 | [Duskers](games/d/duskers.md) | 4.45 | 601 | 0 | 489 |
 | [Dust and Neon](games/d/dust_and_neon.md) | - | - | 0 | - |
 | [Dust Fleet](games/d/dust_fleet.md) | - | - | - | - |
-| [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 426 | 6,791 | 45 |
+| [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 426 | 6,821 | 45 |
 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.59 | 395 | 27,761 | 15 |
 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 778 | 8,604 | 37 |
 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | - | - | - | - |
@@ -700,7 +700,7 @@
 | [Faces of War](games/f/faces_of_war.md) | - | - | 0 | - |
 | [Faeria](games/f/faeria.md) | 4.45 | 601 | 103 | 315 |
 | [Falcon Age](games/f/falcon_age.md) | - | - | 0 | - |
-| [Fall Guys](games/f/fall_guys.md) | 4.53 | 488 | 137,918 | 6 |
+| [Fall Guys](games/f/fall_guys.md) | 4.53 | 488 | 137,932 | 6 |
 | [Fall of Light: Darkest Edition](games/f/fall_of_light__darkest_edition.md) | - | - | 0 | - |
 | [Fallen Legion Revenants](games/f/fallen_legion_revenants.md) | - | - | - | - |
 | [Fallen Legion: Rise to Glory](games/f/fallen_legion__rise_to_glory.md) | - | - | - | - |
@@ -808,7 +808,7 @@
 | [Funtasia](games/f/funtasia.md) | - | - | 0 | - |
 | [FUR Squadron](games/f/fur_squadron.md) | - | - | - | - |
 | [FUSER™](games/f/fuser™.md) | 4.71 | 178 | 35 | 426 |
-| [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 797 | 175 | 268 |
+| [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 797 | 175 | 269 |
 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 820 | 89 | 333 |
 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | - | - | 0 | - |
 | [GALAHAD 3093](games/g/galahad_3093.md) | - | - | - | - |
@@ -1053,8 +1053,8 @@
 | [Journey Into Darkness](games/j/journey_into_darkness.md) | - | - | - | - |
 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 426 | 36 | 420 |
 | [Journey to the West](games/j/journey_to_the_west.md) | - | - | - | - |
-| [Judas](games/j/judas_1.md) | - | - | - | - |
 | [Judas](games/j/judas.md) | - | - | 0 | - |
+| [Judas](games/j/judas_1.md) | - | - | - | - |
 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 337 | 529 | 177 |
 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 141 | 582 | 166 |
 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 751 | 3,584 | 78 |
@@ -1135,7 +1135,7 @@
 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 813 | 0 | 489 |
 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 601 | 0 | 489 |
 | [League Manager 2023](games/l/league_manager_2023.md) | - | - | 0 | - |
-| [League of Legends](games/l/league_of_legends.md) | 4.21 | 797 | 12,833 | 26 |
+| [League of Legends](games/l/league_of_legends.md) | 4.21 | 797 | 12,863 | 26 |
 | [LEAP Mod Editor](games/l/leap_mod_editor.md) | - | - | - | - |
 | [Learning Factory](games/l/learning_factory.md) | - | - | 0 | - |
 | [Legend Bowl](games/l/legend_bowl.md) | - | - | 0 | - |
@@ -1148,7 +1148,7 @@
 | [Lego Batman Trilogy](games/l/lego_batman_trilogy.md) | - | - | - | - |
 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | - | - | - | - |
 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 312 | 179 | 265 |
-| [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 414 | 215 | 246 |
+| [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 414 | 215 | 247 |
 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 499 | 182 | 263 |
 | [LEGO® Brawls](games/l/lego®_brawls.md) | - | - | 0 | - |
 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 192 | 0 | 489 |
@@ -1172,8 +1172,8 @@
 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.32 | 739 | 0 | 489 |
 | [Little Inferno](games/l/little_inferno.md) | 4.61 | 352 | 0 | 489 |
 | [Little Orpheus](games/l/little_orpheus.md) | - | - | 0 | - |
-| [Live](games/l/live_79.md) | - | - | - | - |
 | [Live](games/l/live_130.md) | - | - | - | - |
+| [Live](games/l/live_79.md) | - | - | - | - |
 | [Locks Quest](games/l/locks_quest.md) | - | - | 0 | - |
 | [Lonesome Village](games/l/lonesome_village.md) | - | - | 0 | - |
 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 234 | 410 | 193 |
@@ -1401,7 +1401,7 @@
 | [Of Bird And Cage](games/o/of_bird_and_cage.md) | - | - | 0 | - |
 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 757 | 43 | 406 |
 | [OHDcore](games/o/ohdcore.md) | - | - | - | - |
-| [Old World](games/o/old_world.md) | 4.65 | 288 | 215 | 246 |
+| [Old World](games/o/old_world.md) | 4.65 | 288 | 215 | 247 |
 | [Oli One: Sneak In](games/o/oli_one__sneak_in.md) | - | - | - | - |
 | [Olija](games/o/olija.md) | - | - | 0 | - |
 | [Omen Of Sorrow](games/o/omen_of_sorrow.md) | - | - | 0 | - |
@@ -1647,7 +1647,7 @@
 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 722 | 4,858 | 62 |
 | [Rogue Invader](games/r/rogue_invader.md) | - | - | 0 | - |
 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 352 | 1,059 | 129 |
-| [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 37 | 215 | 246 |
+| [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 37 | 215 | 247 |
 | [Rogue Lords](games/r/rogue_lords.md) | 4.64 | 312 | 0 | 489 |
 | [Rogue Spirit](games/r/rogue_spirit.md) | - | - | 0 | - |
 | [Rogue State Revolution](games/r/rogue_state_revolution.md) | - | - | 0 | - |
@@ -1925,7 +1925,7 @@
 | [Submarine Titans](games/s/submarine_titans.md) | - | - | 0 | - |
 | [Submerged](games/s/submerged.md) | 4.09 | 857 | 0 | 489 |
 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 778 | 45 | 399 |
-| [Subnautica](games/s/subnautica.md) | 4.84 | 49 | 650 | 159 |
+| [Subnautica](games/s/subnautica.md) | 4.84 | 49 | 652 | 159 |
 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 104 | 142 | 285 |
 | [Subterrain Mines of Titan](games/s/subterrain_mines_of_titan.md) | - | - | - | - |
 | [Subway Midnight](games/s/subway_midnight.md) | - | - | 0 | - |
@@ -2233,7 +2233,7 @@
 | [TOHU](games/t/tohu.md) | - | - | 0 | - |
 | [Tom Clancy's EndWar](games/t/tom_clancy's_endwar.md) | - | - | 0 | - |
 | [Tom Clancy's Ghost Recon](games/t/tom_clancy's_ghost_recon.md) | - | - | - | - |
-| [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 414 | 174 | 269 |
+| [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.58 | 414 | 176 | 268 |
 | [Tom Clancy's Rainbow Six 3 GOLD EDITION](games/t/tom_clancy's_rainbow_six_3_gold_edition.md) | - | - | 0 | - |
 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 426 | 1,725 | 109 |
 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 703 | 0 | 489 |
@@ -2388,7 +2388,7 @@
 | [War Mongrels](games/w/war_mongrels.md) | 4.30 | 751 | 0 | 489 |
 | [Warface](games/w/warface.md) | 3.92 | 892 | 386 | 201 |
 | [WarForwards](games/w/warforwards.md) | - | - | 0 | - |
-| [Warframe](games/w/warframe.md) | 4.61 | 352 | 14,448 | 21 |
+| [Warframe](games/w/warframe.md) | 4.61 | 352 | 14,477 | 21 |
 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 212 | 856 | 142 |
 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 414 | 205 | 253 |
 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.33 | 730 | 58 | 379 |
