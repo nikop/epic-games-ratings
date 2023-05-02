@@ -4,8 +4,8 @@
 | 1 | [Overloop](games/o/overloop.md) | 25.00% |
 | 3 | [Doodle Devil](games/d/doodle_devil.md) | 19.44% |
 | 4 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 5 | [Island Cities](games/i/island_cities.md) | 16.33% |
-| 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 16.00% |
+| 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 16.00% |
+| 5 | [Island Cities](games/i/island_cities.md) | 16.00% |
 | 7 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.01% |
 | 9 | [Them and Us](games/t/them_and_us.md) | 12.50% |

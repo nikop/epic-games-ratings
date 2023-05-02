@@ -12,7 +12,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 129499
+      "Count": 129520
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -42,7 +42,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 116043
+      "Count": 116058
     },
     {
       "Text": "This game is Highly Recommended",
@@ -934,6 +934,11 @@
       "Time": "2023-05-02T22:03:48.3202718+00:00",
       "NumProgressed": 32342213,
       "NumCompleted": 28840
+    },
+    {
+      "Time": "2023-05-02T23:03:47.767961+00:00",
+      "NumProgressed": 32342752,
+      "NumCompleted": 28842
     }
   ],
   "RatingHistory": [
@@ -5444,21 +5449,27 @@
       "Rating": 4.53,
       "NumberOfAwards": 1292897,
       "NumberOfAwardsMax": 137932
+    },
+    {
+      "Time": "2023-05-02T22:58:31.0930912+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 1292933,
+      "NumberOfAwardsMax": 137932
     }
   ],
   "EOS_Completed_Percentage": 0.09,
-  "EOS_NewCompleters": 277,
-  "EOS_NewPlayers": 135135,
-  "EOS_Completed": 28840,
-  "EOS_Progressed": 32342213,
-  "LastUpdate_Achievements": "2023-05-02T22:03:48.3202797+00:00",
-  "LastUpdate_Ratings": "2023-05-02T21:58:32.1701436+00:00",
-  "LastChanged_Achievements": "2023-05-02T22:03:48.3202712+00:00",
-  "LastChanged": "2023-05-02T19:58:32.0995588+00:00",
+  "EOS_NewCompleters": 278,
+  "EOS_NewPlayers": 135069,
+  "EOS_Completed": 28842,
+  "EOS_Progressed": 32342752,
+  "LastUpdate_Achievements": "2023-05-02T23:03:47.767969+00:00",
+  "LastUpdate_Ratings": "2023-05-02T22:58:31.0930917+00:00",
+  "LastChanged_Achievements": "2023-05-02T23:03:47.76796+00:00",
+  "LastChanged": "2023-05-02T22:58:31.093091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.7143696+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 137932,
-  "NumberOfAwards": 1292897,
+  "NumberOfAwards": 1292933,
   "NumberOfRatings": 1046587,
   "Ranking_EOS_NewCompleters": 2,
   "Ranking_EOS_NewPlayers": 2,
