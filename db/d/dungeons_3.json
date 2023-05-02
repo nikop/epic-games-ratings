@@ -909,6 +909,11 @@
       "Time": "2023-05-02T20:02:37.3976706+00:00",
       "NumProgressed": 14444,
       "NumCompleted": 139
+    },
+    {
+      "Time": "2023-05-02T21:03:40.1883617+00:00",
+      "NumProgressed": 14451,
+      "NumCompleted": 139
     }
   ],
   "RatingHistory": [
@@ -2757,13 +2762,13 @@
     }
   ],
   "EOS_Completed_Percentage": 0.96,
-  "EOS_NewCompleters": 11,
-  "EOS_NewPlayers": 982,
+  "EOS_NewCompleters": 10,
+  "EOS_NewPlayers": 978,
   "EOS_Completed": 139,
-  "EOS_Progressed": 14444,
-  "LastUpdate_Achievements": "2023-05-02T20:02:37.3976789+00:00",
-  "LastUpdate_Ratings": "2023-05-02T19:58:41.2486532+00:00",
-  "LastChanged_Achievements": "2023-05-02T20:02:37.3976703+00:00",
+  "EOS_Progressed": 14451,
+  "LastUpdate_Achievements": "2023-05-02T21:03:40.1883695+00:00",
+  "LastUpdate_Ratings": "2023-05-02T20:58:42.1013939+00:00",
+  "LastChanged_Achievements": "2023-05-02T21:03:40.1883612+00:00",
   "LastChanged": "2023-05-01T08:58:24.1198949+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "MaxAwardTitle": "Great for Beginners",
@@ -2771,7 +2776,7 @@
   "NumberOfAwards": 2512,
   "NumberOfRatings": 1635,
   "Ranking_EOS_NewCompleters": 16,
-  "Ranking_EOS_NewPlayers": 51,
+  "Ranking_EOS_NewPlayers": 52,
   "Ranking_EOS_Completed": 78,
   "Ranking_EOS_Progress": 97,
   "Ranking_PopularitySum": 165,

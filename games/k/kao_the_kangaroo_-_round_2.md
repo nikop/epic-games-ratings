@@ -1,5 +1,5 @@
 # Kao the Kangaroo - Round 2
-Rating: 4.68 (Ranked 234)  
+Rating: 4.68 (Ranked 233)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 489)  
 Sum: 0 (Ranked 489)  

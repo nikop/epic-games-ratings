@@ -1,5 +1,5 @@
 # Doki Doki Literature Club Plus!
-Rating: 4.88 (Ranked 17)  
+Rating: 4.89 (Ranked 12)  
 Number of Ratings: 47  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 489)  
@@ -45,3 +45,4 @@ Diff (max vs sum): 0
 | 2022-11-21 | 4.87 | - | - | - |
 | 2023-01-04 | 4.88 | - | - | - |
 | 2023-03-31 | 4.88 | - | 0 | 0 |
+| 2023-05-02 | 4.89 | - | 0 | 0 |

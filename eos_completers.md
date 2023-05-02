@@ -4,7 +4,7 @@
 | 1 | [Overloop](games/o/overloop.md) | 25.00% |
 | 3 | [Doodle Devil](games/d/doodle_devil.md) | 19.44% |
 | 4 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 5 | [Island Cities](games/i/island_cities.md) | 16.67% |
+| 5 | [Island Cities](games/i/island_cities.md) | 16.33% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 16.00% |
 | 7 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.01% |
@@ -16,7 +16,7 @@
 | 14 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 15 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.48% |
+| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.47% |
 | 18 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.36% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
 | 20 | [Scorn](games/s/scorn.md) | 7.14% |
@@ -118,9 +118,9 @@
 | 116 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
 | 116 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 116 | [The Surge](games/t/the_surge.md) | 0.31% |
-| 119 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.30% |
 | 119 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
-| 121 | [Aegis Descent](games/a/aegis_descent.md) | 0.29% |
+| 120 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
+| 120 | [Aegis Descent](games/a/aegis_descent.md) | 0.29% |
 | 122 | [Despot's Game](games/d/despot's_game.md) | 0.28% |
 | 123 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
 | 123 | [Wildermyth](games/w/wildermyth.md) | 0.27% |

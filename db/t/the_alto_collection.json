@@ -24,7 +24,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game is Highly Recommended",
@@ -908,6 +908,11 @@
       "Time": "2023-05-02T20:04:01.9735182+00:00",
       "NumProgressed": 19410,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-02T21:04:33.5509135+00:00",
+      "NumProgressed": 19411,
+      "NumCompleted": 3
     }
   ],
   "RatingHistory": [
@@ -1466,21 +1471,27 @@
       "Rating": 4.7,
       "NumberOfAwards": 343,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-05-02T20:58:46.8976304+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 344,
+      "NumberOfAwardsMax": 44
     }
   ],
   "EOS_Completed_Percentage": 0.02,
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1225,
+  "EOS_NewPlayers": 1222,
   "EOS_Completed": 3,
-  "EOS_Progressed": 19410,
-  "LastUpdate_Achievements": "2023-05-02T20:04:01.9735269+00:00",
-  "LastUpdate_Ratings": "2023-05-02T19:58:45.4806671+00:00",
-  "LastChanged_Achievements": "2023-05-02T20:04:01.9735175+00:00",
-  "LastChanged": "2023-04-29T16:58:57.0130362+00:00",
+  "EOS_Progressed": 19411,
+  "LastUpdate_Achievements": "2023-05-02T21:04:33.5509214+00:00",
+  "LastUpdate_Ratings": "2023-05-02T20:58:46.897631+00:00",
+  "LastChanged_Achievements": "2023-05-02T21:04:33.5509128+00:00",
+  "LastChanged": "2023-05-02T20:58:46.8976302+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "MaxAwardTitle": "Great for Quick Sessions",
   "NumberOfAwardsMax": 44,
-  "NumberOfAwards": 343,
+  "NumberOfAwards": 344,
   "NumberOfRatings": 332,
   "Ranking_EOS_NewCompleters": 82,
   "Ranking_EOS_NewPlayers": 44,

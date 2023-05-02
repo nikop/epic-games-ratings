@@ -6,7 +6,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 47
+      "Count": 51
     },
     {
       "Text": "This game has Challenging Combat",
@@ -906,6 +906,11 @@
       "Time": "2023-05-02T20:04:56.3642369+00:00",
       "NumProgressed": 1283974,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-02T21:05:28.3812228+00:00",
+      "NumProgressed": 1284300,
+      "NumCompleted": 6
     }
   ],
   "RatingHistory": [
@@ -1250,28 +1255,34 @@
       "Rating": 4.41,
       "NumberOfAwards": 292,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-05-02T20:59:40.725459+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 296,
+      "NumberOfAwardsMax": 51
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 2,
-  "EOS_NewPlayers": 73159,
+  "EOS_NewPlayers": 72898,
   "EOS_Completed": 6,
-  "EOS_Progressed": 1283974,
-  "LastUpdate_Achievements": "2023-05-02T20:04:56.3642455+00:00",
-  "LastUpdate_Ratings": "2023-05-02T19:59:36.8235381+00:00",
-  "LastChanged_Achievements": "2023-05-02T20:04:56.3642363+00:00",
-  "LastChanged": "2023-05-02T19:59:36.8235375+00:00",
+  "EOS_Progressed": 1284300,
+  "LastUpdate_Achievements": "2023-05-02T21:05:28.3812306+00:00",
+  "LastUpdate_Ratings": "2023-05-02T20:59:40.7254594+00:00",
+  "LastChanged_Achievements": "2023-05-02T21:05:28.381222+00:00",
+  "LastChanged": "2023-05-02T20:59:40.7254588+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:33.1084407+00:00",
   "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
-  "MaxAwardTitle": "Challenging Combat",
-  "NumberOfAwardsMax": 50,
-  "NumberOfAwards": 292,
-  "Ranking_EOS_NewCompleters": 41,
+  "MaxAwardTitle": "Highly Recommended",
+  "NumberOfAwardsMax": 51,
+  "NumberOfAwards": 296,
+  "Ranking_EOS_NewCompleters": 40,
   "Ranking_EOS_NewPlayers": 6,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 7,
   "Ranking_PopularitySum": 323,
-  "Ranking_Popularity": 383,
+  "Ranking_Popularity": 382,
   "Ranking_Rating": 651,
   "Rating": 4.41,
   "FirstSeen": "2023-04-13T15:58:07.4170825+00:00"

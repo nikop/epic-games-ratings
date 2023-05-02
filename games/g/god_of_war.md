@@ -1,5 +1,5 @@
 # God of War
-Rating: 4.88 (Ranked 17)  
+Rating: 4.88 (Ranked 18)  
 Number of Ratings: 4,943  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 3,967  (Ranked 73)  
