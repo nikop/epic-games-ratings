@@ -16,10 +16,10 @@
 | 14 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 15 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.57% |
+| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.56% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.14% |
-| 20 | [Scorn](games/s/scorn.md) | 7.13% |
+| 19 | [Scorn](games/s/scorn.md) | 7.13% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.11% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 23 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.02% |
@@ -53,7 +53,7 @@
 | 51 | [ZZT!](games/z/zzt!.md) | 2.60% |
 | 52 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 53 | [Iron Danger](games/i/iron_danger.md) | 2.45% |
-| 54 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.29% |
+| 54 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.30% |
 | 55 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 56 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
 | 57 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -218,6 +218,7 @@
 | 191 | [Cafe Owner Simulator](games/c/cafe_owner_simulator.md) | 0.00% |
 | 191 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 0.00% |
 | 191 | [Chaos Galaxy](games/c/chaos_galaxy.md) | 0.00% |
+| 191 | [Chef Life - A Restaurant Simulator](games/c/chef_life_-_a_restaurant_simulator.md) | 0.00% |
 | 191 | [Chess Ultra](games/c/chess_ultra.md) | 0.00% |
 | 191 | [Children of Silentown](games/c/children_of_silentown.md) | 0.00% |
 | 191 | [Cities: Skylines](games/c/cities__skylines.md) | 0.00% |
@@ -373,4 +374,4 @@
 | 191 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 191 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 191 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,545 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,546 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

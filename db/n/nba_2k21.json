@@ -30,7 +30,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 10421
+      "Count": 10423
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4185,6 +4185,12 @@
       "Rating": 4.39,
       "NumberOfAwards": 88134,
       "NumberOfAwardsMax": 11645
+    },
+    {
+      "Time": "2023-05-03T14:00:35.9291132+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 88136,
+      "NumberOfAwardsMax": 11645
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -4192,17 +4198,17 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-03T13:11:25.6733666+00:00",
-  "LastUpdate_Ratings": "2023-05-03T13:06:08.0154384+00:00",
-  "LastChanged": "2023-05-03T11:59:55.7573056+00:00",
+  "LastUpdate_Achievements": "2023-05-03T14:05:41.6244303+00:00",
+  "LastUpdate_Ratings": "2023-05-03T14:00:35.9291136+00:00",
+  "LastChanged": "2023-05-03T14:00:35.929113+00:00",
   "MaxAwardTitle": "Relaxing",
   "NumberOfAwardsMax": 11645,
-  "NumberOfAwards": 88134,
+  "NumberOfAwards": 88136,
   "NumberOfRatings": 43722,
   "Ranking_EOS_NewCompleters": 82,
   "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 375,
+  "Ranking_EOS_Progress": 376,
   "Ranking_PopularitySum": 14,
   "Ranking_Popularity": 30,
   "Ranking_Rating": 677,

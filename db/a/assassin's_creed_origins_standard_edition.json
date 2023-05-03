@@ -48,7 +48,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 219
+      "Count": 220
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2436,6 +2436,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 5045,
       "NumberOfAwardsMax": 3002
+    },
+    {
+      "Time": "2023-05-03T13:57:59.930403+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 5046,
+      "NumberOfAwardsMax": 3002
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -2443,17 +2449,17 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-03T13:09:20.7079816+00:00",
-  "LastUpdate_Ratings": "2023-05-03T13:03:09.9911049+00:00",
-  "LastChanged": "2023-05-03T09:57:25.720444+00:00",
+  "LastUpdate_Achievements": "2023-05-03T14:03:56.1910008+00:00",
+  "LastUpdate_Ratings": "2023-05-03T13:57:59.9304036+00:00",
+  "LastChanged": "2023-05-03T13:57:59.9304027+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 3002,
-  "NumberOfAwards": 5045,
+  "NumberOfAwards": 5046,
   "NumberOfRatings": 3843,
   "Ranking_EOS_NewCompleters": 82,
   "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 375,
+  "Ranking_EOS_Progress": 376,
   "Ranking_PopularitySum": 122,
   "Ranking_Popularity": 87,
   "Ranking_Rating": 233,
