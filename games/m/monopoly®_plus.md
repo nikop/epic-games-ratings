@@ -1,5 +1,5 @@
 # MONOPOLY® PLUS
-Rating: 3.93 (Ranked 890)  
+Rating: 3.92 (Ranked 891)  
 Number of Ratings: 142  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 489)  
@@ -86,3 +86,4 @@ Diff (max vs sum): 0
 | 2023-03-21 | 3.92 | - | - | - |
 | 2023-03-31 | 3.92 | - | 0 | 0 |
 | 2023-04-07 | 3.93 | - | 0 | 0 |
+| 2023-05-03 | 3.92 | - | 0 | 0 |

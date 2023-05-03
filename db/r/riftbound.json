@@ -2,19 +2,25 @@
   "ID": "62c5dc16e57d4850916f5de42635625d",
   "Name": "Riftbound",
   "Tags": [],
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-05-03T02:01:13.0228312+00:00",
+      "NumProgressed": 4,
+      "NumCompleted": 0
+    }
+  ],
   "RatingHistory": [],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
-  "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-03T00:03:14.7268006+00:00",
-  "LastUpdate_Ratings": "2023-05-02T23:57:05.4313203+00:00",
-  "LastChanged_Achievements": "2023-05-03T00:03:14.7267979+00:00",
+  "EOS_Progressed": 4,
+  "LastUpdate_Achievements": "2023-05-03T02:01:13.0228343+00:00",
+  "LastUpdate_Ratings": "2023-05-03T01:55:08.3419299+00:00",
+  "LastChanged_Achievements": "2023-05-03T02:01:13.0228303+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:02.2220313+00:00",
-  "Ranking_EOS_NewCompleters": 81,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 372
+  "Ranking_EOS_Progress": 326
 }

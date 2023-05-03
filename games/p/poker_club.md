@@ -1,11 +1,11 @@
 # Poker Club
-Rating: 3.41 (Ranked 913)  
+Rating: 3.45 (Ranked 912)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 489)  
 Sum: 0 (Ranked 489)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 344,924 (Ranked 36)  
+Progressed: 346,897 (Ranked 35)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -17,7 +17,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-04-30 | 266,814 | 0 |
 | 2023-05-01 | 311,103 | 0 |
 | 2023-05-02 | 343,893 | 0 |
-| 2023-05-03 | 344,924 | 0 |
+| 2023-05-03 | 346,897 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -28,3 +28,4 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-04-30 | 3.13 | 0 | 0 |
 | 2023-05-01 | 3.55 | 0 | 0 |
 | 2023-05-02 | 3.41 | 0 | 0 |
+| 2023-05-03 | 3.45 | 0 | 0 |

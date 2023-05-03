@@ -4,8 +4,8 @@
 | 1 | [Overloop](games/o/overloop.md) | 25.00% |
 | 3 | [Doodle Devil](games/d/doodle_devil.md) | 19.44% |
 | 4 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 16.00% |
-| 5 | [Island Cities](games/i/island_cities.md) | 16.00% |
+| 5 | [Island Cities](games/i/island_cities.md) | 18.00% |
+| 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 16.00% |
 | 7 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.01% |
 | 9 | [Them and Us](games/t/them_and_us.md) | 12.50% |
@@ -18,7 +18,7 @@
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.57% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.28% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.26% |
 | 20 | [Scorn](games/s/scorn.md) | 7.14% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
@@ -53,7 +53,7 @@
 | 51 | [ZZT!](games/z/zzt!.md) | 2.61% |
 | 52 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 53 | [Iron Danger](games/i/iron_danger.md) | 2.45% |
-| 54 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.29% |
+| 54 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.28% |
 | 55 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 56 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
 | 57 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -78,7 +78,7 @@
 | 76 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.18% |
 | 77 | [Ten Dates](games/t/ten_dates.md) | 1.05% |
 | 78 | [Dungeons 3](games/d/dungeons_3.md) | 0.96% |
-| 79 | [Sable](games/s/sable.md) | 0.92% |
+| 79 | [Sable](games/s/sable.md) | 0.91% |
 | 80 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.89% |
 | 80 | [Hades](games/h/hades.md) | 0.89% |
 | 82 | [Five Dates](games/f/five_dates.md) | 0.88% |
@@ -108,10 +108,10 @@
 | 105 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.38% |
 | 107 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 108 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.35% |
-| 109 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.34% |
-| 110 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
-| 110 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
-| 110 | [Tchia](games/t/tchia.md) | 0.33% |
+| 109 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.33% |
+| 109 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
+| 109 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
+| 109 | [Tchia](games/t/tchia.md) | 0.33% |
 | 113 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
 | 113 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.32% |
 | 113 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |
@@ -313,6 +313,7 @@
 | 191 | [Redfall](games/r/redfall.md) | 0.00% |
 | 191 | [Redout 2](games/r/redout_2.md) | 0.00% |
 | 191 | [Remains](games/r/remains.md) | 0.00% |
+| 191 | [Riftbound](games/r/riftbound.md) | 0.00% |
 | 191 | [Rise of Industry](games/r/rise_of_industry.md) | 0.00% |
 | 191 | [Road 96](games/r/road_96.md) | 0.00% |
 | 191 | [Roboplant](games/r/roboplant.md) | 0.00% |
@@ -370,4 +371,4 @@
 | 191 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 191 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 191 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,541 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,542 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

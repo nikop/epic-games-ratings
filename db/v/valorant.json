@@ -12,13 +12,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 43162
+      "Count": 43252
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 42136
+      "Count": 42213
     },
     {
       "Text": "This game is Extremely Fun",
@@ -36,7 +36,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 42671
+      "Count": 42777
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -48,13 +48,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 39795
+      "Count": 39874
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 39507
+      "Count": 39600
     },
     {
       "Text": "This game has a Competitive Community",
@@ -4391,6 +4391,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 384581,
       "NumberOfAwardsMax": 50968
+    },
+    {
+      "Time": "2023-05-03T01:55:47.8476671+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 385026,
+      "NumberOfAwardsMax": 50968
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -4398,17 +4404,17 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-03T00:01:15.3067634+00:00",
-  "LastUpdate_Ratings": "2023-05-02T23:57:56.3335357+00:00",
-  "LastChanged": "2023-05-02T23:57:56.3335345+00:00",
+  "LastUpdate_Achievements": "2023-05-03T01:58:34.5113138+00:00",
+  "LastUpdate_Ratings": "2023-05-03T01:55:47.847668+00:00",
+  "LastChanged": "2023-05-03T01:55:47.8476669+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 50968,
-  "NumberOfAwards": 384581,
+  "NumberOfAwards": 385026,
   "NumberOfRatings": 157172,
-  "Ranking_EOS_NewCompleters": 81,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 372,
+  "Ranking_EOS_Progress": 373,
   "Ranking_PopularitySum": 6,
   "Ranking_Popularity": 11,
   "Ranking_Rating": 475,
