@@ -42,13 +42,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 5703
+      "Count": 5721
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 5915
+      "Count": 5929
     },
     {
       "Text": "This game has Competitive Players",
@@ -957,6 +957,11 @@
     {
       "Time": "2023-05-03T05:04:55.3881191+00:00",
       "NumProgressed": 388616,
+      "NumCompleted": 11350
+    },
+    {
+      "Time": "2023-05-03T06:04:24.9515908+00:00",
+      "NumProgressed": 388644,
       "NumCompleted": 11350
     }
   ],
@@ -4094,22 +4099,28 @@
       "Rating": 4.5,
       "NumberOfAwards": 81021,
       "NumberOfAwardsMax": 33472
+    },
+    {
+      "Time": "2023-05-03T05:59:05.0072766+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 81053,
+      "NumberOfAwardsMax": 33472
     }
   ],
   "EOS_Completed_Percentage": 2.92,
-  "EOS_NewCompleters": 205,
-  "EOS_NewPlayers": 7150,
+  "EOS_NewCompleters": 203,
+  "EOS_NewPlayers": 7148,
   "EOS_Completed": 11350,
-  "EOS_Progressed": 388616,
-  "LastUpdate_Achievements": "2023-05-03T05:04:55.3881279+00:00",
-  "LastUpdate_Ratings": "2023-05-03T04:59:16.0666345+00:00",
-  "LastChanged_Achievements": "2023-05-03T05:04:55.388118+00:00",
-  "LastChanged": "2023-05-03T04:59:16.0666338+00:00",
+  "EOS_Progressed": 388644,
+  "LastUpdate_Achievements": "2023-05-03T06:04:24.9515977+00:00",
+  "LastUpdate_Ratings": "2023-05-03T05:59:05.0072773+00:00",
+  "LastChanged_Achievements": "2023-05-03T06:04:24.9515903+00:00",
+  "LastChanged": "2023-05-03T05:59:05.0072765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:52.6483728+00:00",
   "FirstSeenRating": "2022-08-24T03:30:20.9735605+00:00",
   "MaxAwardTitle": "Great Boss Battles",
   "NumberOfAwardsMax": 33472,
-  "NumberOfAwards": 81021,
+  "NumberOfAwards": 81053,
   "NumberOfRatings": 32207,
   "Ranking_EOS_NewCompleters": 3,
   "Ranking_EOS_NewPlayers": 14,

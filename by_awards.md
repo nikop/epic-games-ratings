@@ -18,7 +18,7 @@
 | 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 26,960 | 4.52 | 499 |
 | 17 | [Dauntless](games/d/dauntless.md) | 19,666 | 4.53 | 488 |
 | 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 18,328 | 4.77 | 103 |
-| 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,124 | 4.57 | 428 |
+| 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,142 | 4.57 | 428 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 14,892 | 4.89 | 12 |
 | 21 | [Warframe](games/w/warframe.md) | 14,477 | 4.61 | 353 |
 | 22 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,331 | 4.58 | 414 |
@@ -87,7 +87,7 @@
 | 85 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,026 | 4.57 | 428 |
 | 86 | [Hades](games/h/hades.md) | 3,022 | 4.92 | 3 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 2,998 | 4.68 | 233 |
-| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,566 | 4.77 | 103 |
+| 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,586 | 4.77 | 103 |
 | 89 | [Trackmania](games/t/trackmania.md) | 2,518 | 4.67 | 256 |
 | 90 | [Path of Exile](games/p/path_of_exile.md) | 2,457 | 4.61 | 353 |
 | 91 | [Rage 2](games/r/rage_2.md) | 2,435 | 4.28 | 765 |
@@ -165,7 +165,7 @@
 | 163 | [Dark Deity](games/d/dark_deity.md) | 605 | 4.16 | 831 |
 | 164 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 593 | 4.59 | 395 |
 | 165 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 592 | 4.61 | 353 |
-| 166 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 582 | 4.74 | 142 |
+| 166 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 584 | 4.74 | 142 |
 | 167 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 581 | 4.62 | 336 |
 | 168 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 579 | 4.74 | 142 |
 | 169 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 556 | 4.68 | 233 |

@@ -102,7 +102,7 @@
 | 91 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 489 |
 | 101 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,689 | 65 |
 | 101 | [HITMAN 3](games/h/hitman_3.md) | 4.78 | 8,819 | 36 |
-| 103 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 2,566 | 88 |
+| 103 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 2,586 | 88 |
 | 103 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 18,328 | 18 |
 | 103 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.77 | 3,939 | 74 |
 | 103 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.77 | 0 | 489 |
@@ -147,7 +147,7 @@
 | 142 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 517 | 179 |
 | 142 | [DOOM II](games/d/doom_ii.md) | 4.74 | 25 | 463 |
 | 142 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 768 | 147 |
-| 142 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 582 | 166 |
+| 142 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 584 | 166 |
 | 142 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,472 | 49 |
 | 142 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 222 | 245 |
 | 142 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 30,537 | 13 |
@@ -442,7 +442,7 @@
 | 428 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,220 | 42 |
 | 428 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,026 | 85 |
 | 428 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 116 | 303 |
-| 428 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,124 | 19 |
+| 428 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,142 | 19 |
 | 428 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,725 | 109 |
 | 428 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.57 | 76 | 346 |
 | 428 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.57 | 0 | 489 |

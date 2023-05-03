@@ -6,7 +6,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4930
+      "Count": 4936
     },
     {
       "Text": "This game has Challenging Combat",
@@ -958,6 +958,11 @@
     {
       "Time": "2023-05-03T05:03:31.9189373+00:00",
       "NumProgressed": 28228,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T06:02:16.3301067+00:00",
+      "NumProgressed": 28238,
       "NumCompleted": 0
     }
   ],
@@ -5230,21 +5235,27 @@
       "Rating": 4.68,
       "NumberOfAwards": 42615,
       "NumberOfAwardsMax": 5151
+    },
+    {
+      "Time": "2023-05-03T05:56:58.5879111+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 42621,
+      "NumberOfAwardsMax": 5151
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 6955,
+  "EOS_NewPlayers": 6953,
   "EOS_Completed": 0,
-  "EOS_Progressed": 28228,
-  "LastUpdate_Achievements": "2023-05-03T05:03:31.9189465+00:00",
-  "LastUpdate_Ratings": "2023-05-03T04:57:19.9296205+00:00",
-  "LastChanged_Achievements": "2023-05-03T05:03:31.9189366+00:00",
-  "LastChanged": "2023-05-03T01:55:10.1876712+00:00",
+  "EOS_Progressed": 28238,
+  "LastUpdate_Achievements": "2023-05-03T06:02:16.3301135+00:00",
+  "LastUpdate_Ratings": "2023-05-03T05:56:58.5879116+00:00",
+  "LastChanged_Achievements": "2023-05-03T06:02:16.3301062+00:00",
+  "LastChanged": "2023-05-03T05:56:58.5879108+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "MaxAwardTitle": "Educational",
   "NumberOfAwardsMax": 5151,
-  "NumberOfAwards": 42615,
+  "NumberOfAwards": 42621,
   "NumberOfRatings": 8414,
   "Ranking_EOS_NewCompleters": 81,
   "Ranking_EOS_NewPlayers": 16,

@@ -1,5 +1,6 @@
 | Game | Rating | Ranking | Awards | Ranking |
 | ---- | ------ | ------- | ------ | ------- |
+| [JYDGE](games/j/jydge.md) | - | - | 0 | - |
 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | - | - | 0 | - |
 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | - | - | 0 | - |
 | [Crimson Dawn](games/c/crimson_dawn.md) | - | - | 0 | - |

@@ -48,7 +48,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 18724
+      "Count": 18732
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5136,6 +5136,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 249904,
       "NumberOfAwardsMax": 56359
+    },
+    {
+      "Time": "2023-05-03T05:58:18.2917963+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 249912,
+      "NumberOfAwardsMax": 56359
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -5143,12 +5149,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-03T05:01:18.0865712+00:00",
-  "LastUpdate_Ratings": "2023-05-03T04:58:32.4717229+00:00",
-  "LastChanged": "2023-05-03T03:58:22.0305364+00:00",
+  "LastUpdate_Achievements": "2023-05-03T06:01:21.6133463+00:00",
+  "LastUpdate_Ratings": "2023-05-03T05:58:18.2917967+00:00",
+  "LastChanged": "2023-05-03T05:58:18.2917961+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 56359,
-  "NumberOfAwards": 249904,
+  "NumberOfAwards": 249912,
   "NumberOfRatings": 35570,
   "Ranking_EOS_NewCompleters": 81,
   "Ranking_EOS_NewPlayers": 272,

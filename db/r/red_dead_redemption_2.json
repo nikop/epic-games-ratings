@@ -24,7 +24,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 12770
+      "Count": 12816
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5303,6 +5303,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 350980,
       "NumberOfAwardsMax": 138032
+    },
+    {
+      "Time": "2023-05-03T05:58:55.4560963+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 351026,
+      "NumberOfAwardsMax": 138032
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -5310,12 +5316,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-03T05:04:41.9982081+00:00",
-  "LastUpdate_Ratings": "2023-05-03T04:59:07.4797291+00:00",
-  "LastChanged": "2023-05-02T22:58:35.0303739+00:00",
+  "LastUpdate_Achievements": "2023-05-03T06:04:10.3394119+00:00",
+  "LastUpdate_Ratings": "2023-05-03T05:58:55.4560967+00:00",
+  "LastChanged": "2023-05-03T05:58:55.4560962+00:00",
   "MaxAwardTitle": "Impact the Story",
   "NumberOfAwardsMax": 138032,
-  "NumberOfAwards": 350980,
+  "NumberOfAwards": 351026,
   "NumberOfRatings": 102658,
   "Ranking_EOS_NewCompleters": 81,
   "Ranking_EOS_NewPlayers": 272,
