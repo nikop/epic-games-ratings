@@ -1,5 +1,5 @@
 # The Escapists
-Rating: 4.48 (Ranked 562)  
+Rating: 4.48 (Ranked 563)  
 Number of Ratings: 596  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 489)  

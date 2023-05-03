@@ -1,5 +1,5 @@
 # Armored Warfare
-Rating: 4.11 (Ranked 849)  
+Rating: 4.12 (Ranked 847)  
 Number of Ratings: 458  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 73  (Ranked 352)  
@@ -136,3 +136,4 @@ Diff (max vs sum): 69
 | 2023-04-30 | 4.11 | - | 72 | 571 |
 | 2023-05-01 | 4.11 | - | 72 | 572 |
 | 2023-05-02 | 4.11 | - | 73 | 573 |
+| 2023-05-03 | 4.12 | - | 73 | 573 |

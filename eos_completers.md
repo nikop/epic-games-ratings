@@ -19,7 +19,7 @@
 | 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.50% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 19 | [Scorn](games/s/scorn.md) | 7.13% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.95% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.94% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 23 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.02% |
@@ -90,8 +90,8 @@
 | 88 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 89 | [Train Valley](games/t/train_valley.md) | 0.74% |
 | 90 | [Haven](games/h/haven.md) | 0.73% |
-| 91 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.67% |
-| 91 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.67% |
+| 91 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.68% |
+| 92 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.67% |
 | 93 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
 | 94 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
 | 95 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.52% |
@@ -127,11 +127,11 @@
 | 125 | [Circus Electrique](games/c/circus_electrique.md) | 0.26% |
 | 126 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
 | 127 | [Blanc](games/b/blanc.md) | 0.22% |
+| 128 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
 | 128 | [Against the Storm](games/a/against_the_storm.md) | 0.21% |
 | 128 | [Filament](games/f/filament.md) | 0.21% |
 | 128 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.21% |
-| 131 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
-| 131 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
+| 132 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
 | 133 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
 | 133 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.19% |
 | 135 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
