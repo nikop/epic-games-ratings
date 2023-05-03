@@ -10,16 +10,16 @@
 | 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.93% |
 | 9 | [Them and Us](games/t/them_and_us.md) | 12.50% |
 | 10 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.98% |
-| 11 | [Ravenlok](games/r/ravenlok.md) | 10.77% |
+| 11 | [Ravenlok](games/r/ravenlok.md) | 10.29% |
 | 12 | [Smelter](games/s/smelter.md) | 10.00% |
 | 13 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 14 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 15 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.52% |
+| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.51% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 19 | [Scorn](games/s/scorn.md) | 7.13% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.00% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.97% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 23 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.02% |
@@ -36,8 +36,8 @@
 | 33 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.85% |
 | 35 | [The Complex](games/t/the_complex.md) | 3.57% |
 | 36 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.50% |
-| 37 | [The Bunker](games/t/the_bunker.md) | 3.37% |
-| 38 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
+| 37 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
+| 38 | [The Bunker](games/t/the_bunker.md) | 3.33% |
 | 39 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.23% |
 | 40 | [HordeCore](games/h/hordecore.md) | 3.05% |
 | 41 | [Lamentum](games/l/lamentum.md) | 3.02% |
@@ -45,15 +45,15 @@
 | 43 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.94% |
 | 43 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.94% |
 | 45 | [Destiny 2](games/d/destiny_2.md) | 2.92% |
-| 46 | [Bunny Park](games/b/bunny_park.md) | 2.88% |
+| 46 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
 | 47 | [FORECLOSED](games/f/foreclosed.md) | 2.74% |
 | 47 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 49 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 50 | [JARS](games/j/jars.md) | 2.63% |
 | 51 | [ZZT!](games/z/zzt!.md) | 2.60% |
 | 52 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 53 | [Iron Danger](games/i/iron_danger.md) | 2.45% |
-| 54 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.31% |
+| 53 | [Iron Danger](games/i/iron_danger.md) | 2.44% |
+| 54 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.30% |
 | 55 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 56 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
 | 57 | [Sifu](games/s/sifu.md) | 1.81% |

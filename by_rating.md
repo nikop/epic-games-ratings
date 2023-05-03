@@ -60,7 +60,7 @@
 | 55 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 0 | 489 |
 | 55 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 82 | 343 |
 | 60 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 489 |
-| 60 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,252 | 120 |
+| 60 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,257 | 120 |
 | 60 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,460 | 58 |
 | 60 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.82 | 0 | 489 |
 | 60 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 489 |
@@ -94,8 +94,8 @@
 | 91 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 477 | 185 |
 | 91 | [KINGDOM HEARTS III + Re Mind](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 717 | 153 |
 | 91 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.79 | 2,234 | 96 |
-| 91 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 995 | 136 |
-| 91 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,820 | 55 |
+| 91 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 997 | 136 |
+| 91 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,823 | 55 |
 | 91 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 367 | 205 |
 | 91 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 116 | 303 |
 | 91 | [Sonic Mania](games/s/sonic_mania.md) | 4.79 | 905 | 141 |
@@ -654,7 +654,7 @@
 | 651 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 0 | 489 |
 | 651 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.41 | 178 | 267 |
 | 651 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 94 | 328 |
-| 651 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 11,857 | 28 |
+| 651 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.41 | 11,870 | 28 |
 | 651 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 0 | 489 |
 | 651 | [MORDHAU](games/m/mordhau.md) | 4.41 | 51 | 382 |
 | 651 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.41 | 0 | 489 |

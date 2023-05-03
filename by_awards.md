@@ -27,7 +27,7 @@
 | 25 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,219 | 4.60 | 379 |
 | 26 | [League of Legends](games/l/league_of_legends.md) | 12,886 | 4.21 | 797 |
 | 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,317 | 4.36 | 701 |
-| 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,857 | 4.41 | 651 |
+| 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,870 | 4.41 | 651 |
 | 29 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 11,662 | 4.60 | 379 |
 | 30 | [NBA 2K21](games/n/nba_2k21.md) | 11,647 | 4.39 | 677 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,333 | 4.87 | 24 |
@@ -54,7 +54,7 @@
 | 52 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,035 | 4.58 | 414 |
 | 53 | [Sifu](games/s/sifu.md) | 6,018 | 4.82 | 60 |
 | 54 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,921 | 4.64 | 312 |
-| 55 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,820 | 4.79 | 91 |
+| 55 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,823 | 4.79 | 91 |
 | 56 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,755 | 4.66 | 272 |
 | 57 | [Prey](games/p/prey.md) | 5,528 | 4.62 | 336 |
 | 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,460 | 4.82 | 60 |
@@ -119,7 +119,7 @@
 | 117 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,372 | 4.87 | 24 |
 | 118 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,295 | 4.70 | 192 |
 | 119 | [DOOM 64](games/d/doom_64.md) | 1,286 | 4.66 | 272 |
-| 120 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,252 | 4.82 | 60 |
+| 120 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,257 | 4.82 | 60 |
 | 121 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,207 | 4.62 | 336 |
 | 122 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,206 | 4.86 | 28 |
 | 123 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,172 | 4.69 | 212 |
@@ -135,7 +135,7 @@
 | 133 | [Saints Row](games/s/saints_row.md) | 1,022 | 3.78 | 904 |
 | 134 | [EVE Online](games/e/eve_online.md) | 1,016 | 4.26 | 771 |
 | 135 | [Ooblets](games/o/ooblets.md) | 1,002 | 4.87 | 24 |
-| 136 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 995 | 4.79 | 91 |
+| 136 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 997 | 4.79 | 91 |
 | 137 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 987 | 4.23 | 790 |
 | 138 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 981 | 4.40 | 664 |
 | 139 | [Torchlight II](games/t/torchlight_ii.md) | 968 | 4.58 | 414 |
