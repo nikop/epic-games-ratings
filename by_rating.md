@@ -82,7 +82,7 @@
 | 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,247 | 50 |
 | 79 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 158 | 279 |
 | 79 | [Journey](games/j/journey.md) | 4.80 | 0 | 489 |
-| 79 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,344 | 93 |
+| 79 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,346 | 93 |
 | 79 | [Rayman Origins](games/r/rayman_origins.md) | 4.80 | 0 | 489 |
 | 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 319 |
 | 79 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 489 |
@@ -180,7 +180,7 @@
 | 178 | [Barony](games/b/barony.md) | 4.71 | 70 | 358 |
 | 178 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 312 | 218 |
 | 178 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 489 |
-| 178 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,208 | 51 |
+| 178 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,216 | 51 |
 | 178 | [Fez](games/f/fez.md) | 4.71 | 23 | 468 |
 | 178 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 426 |
 | 178 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,129 | 43 |
@@ -389,7 +389,7 @@
 | 379 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.60 | 9,025 | 35 |
 | 379 | [Roguebook](games/r/roguebook.md) | 4.60 | 0 | 489 |
 | 379 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 440 | 189 |
-| 379 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.60 | 145 | 284 |
+| 379 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.60 | 147 | 282 |
 | 379 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 20 | 481 |
 | 379 | [Warhammer 40000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.60 | 0 | 489 |
 | 379 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 84 | 340 |
@@ -509,7 +509,7 @@
 | 499 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 489 |
 | 499 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 273 | 228 |
 | 499 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 489 |
-| 499 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 146 | 283 |
+| 499 | [Tom Clancy’s Rainbow Six® Extraction Standard Edition](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.52 | 146 | 284 |
 | 499 | [UnMetal](games/u/unmetal.md) | 4.52 | 0 | 489 |
 | 512 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,562 | 112 |
 | 512 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 91 | 332 |
@@ -553,7 +553,7 @@
 | 546 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 0 | 489 |
 | 546 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 271 | 231 |
 | 546 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 226 | 243 |
-| 546 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 2,277 | 94 |
+| 546 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 2,283 | 94 |
 | 546 | [Maneater](games/m/maneater.md) | 4.49 | 13,427 | 24 |
 | 546 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 610 | 162 |
 | 546 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 489 |
@@ -730,7 +730,6 @@
 | 721 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 236 | 240 |
 | 721 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 0 | 489 |
 | 721 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.34 | 58 | 379 |
-| 731 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.33 | 341 | 210 |
 | 731 | [Backbone](games/b/backbone.md) | 4.33 | 0 | 489 |
 | 731 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 114 | 305 |
 | 731 | [Dark Light](games/d/dark_light.md) | 4.33 | 0 | 489 |
@@ -738,13 +737,14 @@
 | 731 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.33 | 0 | 489 |
 | 731 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 489 |
 | 731 | [The Silent Age](games/t/the_silent_age.md) | 4.33 | 0 | 489 |
-| 739 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 0 | 489 |
-| 739 | [Filament](games/f/filament.md) | 4.32 | 551 | 171 |
-| 739 | [House Party](games/h/house_party.md) | 4.32 | 0 | 489 |
-| 739 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 446 |
-| 739 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 489 |
-| 739 | [Torchlight](games/t/torchlight.md) | 4.32 | 20 | 481 |
-| 739 | [Vampyr](games/v/vampyr.md) | 4.32 | 545 | 174 |
+| 738 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 341 | 210 |
+| 738 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 0 | 489 |
+| 738 | [Filament](games/f/filament.md) | 4.32 | 551 | 171 |
+| 738 | [House Party](games/h/house_party.md) | 4.32 | 0 | 489 |
+| 738 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 446 |
+| 738 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 489 |
+| 738 | [Torchlight](games/t/torchlight.md) | 4.32 | 20 | 481 |
+| 738 | [Vampyr](games/v/vampyr.md) | 4.32 | 545 | 174 |
 | 746 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 489 |
 | 746 | [Hammerting](games/h/hammerting.md) | 4.31 | 0 | 489 |
 | 746 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.31 | 0 | 489 |

@@ -1,11 +1,11 @@
 # ToeJam & Earl: Back in the Groove!
-Rating: 4.32 (Ranked 739)  
+Rating: 4.32 (Ranked 738)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 489)  
 Sum: 0 (Ranked 489)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,157 (Ranked 70)  
+Progressed: 54,159 (Ranked 70)  
 Completed: 4 (0.01%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -18,7 +18,7 @@ Completed: 4 (0.01%) (Ranked 184)
 | 2023-04-30 | 54,099 | 4 |
 | 2023-05-01 | 54,130 | 4 |
 | 2023-05-02 | 54,149 | 4 |
-| 2023-05-03 | 54,157 | 4 |
+| 2023-05-03 | 54,159 | 4 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
