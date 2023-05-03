@@ -1,12 +1,12 @@
 # Old World
-Rating: 4.65 (Ranked 288)  
+Rating: 4.65 (Ranked 289)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 215  (Ranked 247)  
 Sum: 1,753 (Ranked 197)  
 Diff (max vs sum): 50
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,724 (Ranked 103)  
+Progressed: 10,725 (Ranked 103)  
 Completed: 2 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -19,7 +19,7 @@ Completed: 2 (0.02%) (Ranked 175)
 | 2023-04-30 | 10,666 | 1 |
 | 2023-05-01 | 10,694 | 2 |
 | 2023-05-02 | 10,713 | 2 |
-| 2023-05-03 | 10,724 | 2 |
+| 2023-05-03 | 10,725 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,5 +1,5 @@
 # Session: Skate Sim
-Rating: 4.65 (Ranked 288)  
+Rating: 4.66 (Ranked 272)  
 Number of Ratings: 111  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 48  (Ranked 390)  
@@ -123,3 +123,4 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-04-26 | 4.65 | - | 48 | 398 |
 | 2023-04-28 | 4.65 | - | 48 | 400 |
 | 2023-04-29 | 4.65 | - | 48 | 401 |
+| 2023-05-03 | 4.66 | - | 48 | 401 |

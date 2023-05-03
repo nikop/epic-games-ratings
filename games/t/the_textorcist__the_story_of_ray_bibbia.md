@@ -1,5 +1,5 @@
 # The Textorcist: The Story of Ray Bibbia
-Rating: 4.65 (Ranked 288)  
+Rating: 4.65 (Ranked 289)  
 Number of Ratings: 78  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 489)  

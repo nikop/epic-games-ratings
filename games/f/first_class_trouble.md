@@ -1,8 +1,8 @@
 # First Class Trouble
-Rating: 4.51 (Ranked 513)  
+Rating: 4.51 (Ranked 512)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 84  (Ranked 340)  
-Sum: 592 (Ranked 278)  
+Sum: 593 (Ranked 278)  
 Diff (max vs sum): 62
 ## Awards
 | Award | Count |
@@ -11,7 +11,7 @@ Diff (max vs sum): 62
 | This game is Great for Quick Sessions | 80 |
 | This game is Highly Recommended | 71 |
 | This game is Extremely Fun | 70 |
-| This game has Diverse Characters | 67 |
+| This game has Diverse Characters | 68 |
 | This game has Playful Visuals | 66 |
 | This game has Amazing Storytelling | 63 |
 | This game has Quickly Understood Controls | 59 |
@@ -75,3 +75,4 @@ Diff (max vs sum): 62
 | 2023-04-30 | 4.51 | 84 | 588 |
 | 2023-05-01 | 4.51 | 84 | 591 |
 | 2023-05-02 | 4.51 | 84 | 592 |
+| 2023-05-03 | 4.51 | 84 | 593 |

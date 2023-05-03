@@ -2,14 +2,14 @@
 | - | ---- | --------- |
 | 1 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.00% |
 | 1 | [Overloop](games/o/overloop.md) | 25.00% |
-| 3 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 20.00% |
+| 3 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.00% |
 | 4 | [Doodle Devil](games/d/doodle_devil.md) | 19.44% |
 | 5 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 6 | [Island Cities](games/i/island_cities.md) | 17.65% |
 | 7 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.93% |
 | 9 | [Them and Us](games/t/them_and_us.md) | 12.50% |
-| 10 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
+| 10 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.98% |
 | 11 | [Ravenlok](games/r/ravenlok.md) | 11.67% |
 | 12 | [Smelter](games/s/smelter.md) | 10.00% |
 | 13 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
@@ -17,9 +17,9 @@
 | 15 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.56% |
-| 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
+| 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 19 | [Scorn](games/s/scorn.md) | 7.13% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.11% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.08% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 23 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.02% |
@@ -133,8 +133,8 @@
 | 131 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
 | 131 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
 | 133 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
-| 134 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
-| 134 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.17% |
+| 133 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.19% |
+| 135 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
 | 136 | [HITMAN 3](games/h/hitman_3.md) | 0.16% |
 | 136 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
 | 138 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |

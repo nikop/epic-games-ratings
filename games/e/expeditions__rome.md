@@ -1,10 +1,10 @@
 # Expeditions: Rome
-Rating: 4.65 (Ranked 288)  
+Rating: 4.65 (Ranked 289)  
 Number of Ratings: 68  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 45  (Ranked 399)  
+Max (Character Customization): 45  (Ranked 400)  
 Sum: 45 (Ranked 437)  
-Diff (max vs sum): -38
+Diff (max vs sum): -37
 ## Awards
 | Award | Count |
 | ----- | ----- |
