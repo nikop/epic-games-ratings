@@ -160,14 +160,14 @@
 | 158 | [Neon Abyss](games/n/neon_abyss.md) | 660 | 4.68 | 233 |
 | 159 | [Subnautica](games/s/subnautica.md) | 652 | 4.84 | 49 |
 | 160 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 646 | 4.50 | 530 |
-| 161 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 640 | 4.67 | 256 |
+| 161 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 642 | 4.67 | 256 |
 | 162 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 610 | 4.49 | 546 |
 | 163 | [Dark Deity](games/d/dark_deity.md) | 605 | 4.16 | 831 |
 | 164 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 593 | 4.59 | 395 |
 | 165 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 592 | 4.61 | 353 |
 | 166 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 582 | 4.74 | 142 |
 | 167 | [Mafia : Definitive Edition](games/m/mafia___definitive_edition.md) | 581 | 4.62 | 336 |
-| 168 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 577 | 4.74 | 142 |
+| 168 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 579 | 4.74 | 142 |
 | 169 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 556 | 4.68 | 233 |
 | 170 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 555 | 4.60 | 378 |
 | 171 | [Filament](games/f/filament.md) | 551 | 4.32 | 739 |

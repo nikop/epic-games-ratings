@@ -24,7 +24,7 @@
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 22 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.06% |
 | 24 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.71% |
-| 25 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.02% |
+| 25 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.01% |
 | 26 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
 | 27 | [Bugsnax](games/b/bugsnax.md) | 4.60% |
 | 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.55% |
@@ -174,15 +174,15 @@
 | 167 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
 | 173 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 173 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
-| 173 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.03% |
-| 176 | [Disco Elysium](games/d/disco_elysium.md) | 0.02% |
-| 176 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.02% |
-| 176 | [Good Company](games/g/good_company.md) | 0.02% |
-| 176 | [Old World](games/o/old_world.md) | 0.02% |
-| 176 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
-| 176 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
-| 176 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
-| 176 | [The Alto Collection](games/t/the_alto_collection.md) | 0.02% |
+| 175 | [Disco Elysium](games/d/disco_elysium.md) | 0.02% |
+| 175 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.02% |
+| 175 | [Good Company](games/g/good_company.md) | 0.02% |
+| 175 | [Old World](games/o/old_world.md) | 0.02% |
+| 175 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
+| 175 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
+| 175 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.02% |
+| 175 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
+| 175 | [The Alto Collection](games/t/the_alto_collection.md) | 0.02% |
 | 184 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
 | 184 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
 | 184 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |

@@ -210,7 +210,7 @@
 | [Barrett Foster Prologue](games/b/barrett_foster_prologue.md) | - | - | 0 | - |
 | [Basingstoke](games/b/basingstoke.md) | - | - | 0 | - |
 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.34 | 721 | 0 | 489 |
-| [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 256 | 640 | 161 |
+| [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 256 | 642 | 161 |
 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 91 | 1,437 | 115 |
 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 60 | 5,460 | 58 |
 | [Batman: Arkham Collection](games/b/batman__arkham_collection.md) | - | - | - | - |
@@ -1057,8 +1057,8 @@
 | [Journey Into Darkness](games/j/journey_into_darkness.md) | - | - | - | - |
 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 428 | 36 | 420 |
 | [Journey to the West](games/j/journey_to_the_west.md) | - | - | - | - |
-| [Judas](games/j/judas_1.md) | - | - | - | - |
 | [Judas](games/j/judas.md) | - | - | 0 | - |
+| [Judas](games/j/judas_1.md) | - | - | - | - |
 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 336 | 529 | 177 |
 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 142 | 582 | 166 |
 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 750 | 3,584 | 78 |
@@ -1758,8 +1758,8 @@
 | [shapez](games/s/shapez.md) | 4.71 | 178 | 0 | 489 |
 | [Shattered Steel](games/s/shattered_steel.md) | - | - | 0 | - |
 | [Shattered: Tale of the Forgotten King](games/s/shattered__tale_of_the_forgotten_king.md) | - | - | 0 | - |
-| [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
 | [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
+| [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
 | [shaveta32internal Production](games/s/shaveta32internal_production.md) | - | - | - | - |
 | [Sheepo](games/s/sheepo.md) | - | - | 0 | - |
 | [Sheltered](games/s/sheltered.md) | 4.42 | 641 | 264 | 234 |
@@ -2324,7 +2324,7 @@
 | [UltraGoodness](games/u/ultragoodness.md) | - | - | 0 | - |
 | [UltraGoodness 2](games/u/ultragoodness_2.md) | - | - | 0 | - |
 | [Unbound: Worlds Apart](games/u/unbound__worlds_apart.md) | - | - | 0 | - |
-| [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 142 | 577 | 168 |
+| [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 142 | 579 | 168 |
 | [Uncle Chop's Rocket Shop](games/u/uncle_chop's_rocket_shop.md) | - | - | - | - |
 | [Undead Horde](games/u/undead_horde.md) | - | - | 0 | - |
 | [Under The Waves](games/u/under_the_waves.md) | - | - | - | - |

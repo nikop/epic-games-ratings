@@ -18,7 +18,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1507
+      "Count": 1518
     },
     {
       "Text": "This game has Amazing Characters",
@@ -42,7 +42,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 976
+      "Count": 986
     },
     {
       "Text": "This game is Relaxing",
@@ -941,6 +941,11 @@
     {
       "Time": "2023-05-03T03:04:41.0279939+00:00",
       "NumProgressed": 346250,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-03T04:03:56.3868527+00:00",
+      "NumProgressed": 346282,
       "NumCompleted": 8
     }
   ],
@@ -2000,22 +2005,28 @@
       "Rating": 3.99,
       "NumberOfAwards": 5569,
       "NumberOfAwardsMax": 1721
+    },
+    {
+      "Time": "2023-05-03T03:58:29.7959006+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 5590,
+      "NumberOfAwardsMax": 1721
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 9692,
+  "EOS_NewPlayers": 9714,
   "EOS_Completed": 8,
-  "EOS_Progressed": 346250,
-  "LastUpdate_Achievements": "2023-05-03T03:04:41.0280021+00:00",
-  "LastUpdate_Ratings": "2023-05-03T02:59:03.5130959+00:00",
-  "LastChanged_Achievements": "2023-05-03T03:04:41.0279932+00:00",
-  "LastChanged": "2023-05-02T14:58:04.5992643+00:00",
+  "EOS_Progressed": 346282,
+  "LastUpdate_Achievements": "2023-05-03T04:03:56.3868591+00:00",
+  "LastUpdate_Ratings": "2023-05-03T03:58:29.7959011+00:00",
+  "LastChanged_Achievements": "2023-05-03T04:03:56.3868523+00:00",
+  "LastChanged": "2023-05-03T03:58:29.7959004+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "MaxAwardTitle": "Competitive Players",
   "NumberOfAwardsMax": 1721,
-  "NumberOfAwards": 5569,
+  "NumberOfAwards": 5590,
   "Ranking_EOS_NewCompleters": 53,
   "Ranking_EOS_NewPlayers": 10,
   "Ranking_EOS_Completed": 191,

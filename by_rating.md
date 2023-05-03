@@ -155,7 +155,7 @@
 | 142 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 489 |
 | 142 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 746 | 149 |
 | 142 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 79 | 344 |
-| 142 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 577 | 168 |
+| 142 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 579 | 168 |
 | 157 | [Haven](games/h/haven.md) | 4.73 | 0 | 489 |
 | 157 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 547 | 172 |
 | 157 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 139 | 286 |
@@ -255,7 +255,7 @@
 | 233 | [The Pathless](games/t/the_pathless.md) | 4.68 | 0 | 489 |
 | 233 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 85 | 337 |
 | 233 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 0 | 489 |
-| 256 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 640 | 161 |
+| 256 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 642 | 161 |
 | 256 | [BLACKTAIL](games/b/blacktail.md) | 4.67 | 0 | 489 |
 | 256 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,504 | 48 |
 | 256 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 489 |
