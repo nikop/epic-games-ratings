@@ -66,7 +66,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 16443
+      "Count": 16453
     }
   ],
   "EosHistory": [],
@@ -5158,6 +5158,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 340135,
       "NumberOfAwardsMax": 108536
+    },
+    {
+      "Time": "2023-05-03T20:58:52.9053183+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 340145,
+      "NumberOfAwardsMax": 108536
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -5165,12 +5171,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-03T20:04:51.9583111+00:00",
-  "LastUpdate_Ratings": "2023-05-03T19:59:37.9676586+00:00",
-  "LastChanged": "2023-05-03T19:59:37.9676579+00:00",
+  "LastUpdate_Achievements": "2023-05-03T21:04:16.0360002+00:00",
+  "LastUpdate_Ratings": "2023-05-03T20:58:52.9053188+00:00",
+  "LastChanged": "2023-05-03T20:58:52.9053181+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 108536,
-  "NumberOfAwards": 340135,
+  "NumberOfAwards": 340145,
   "NumberOfRatings": 151211,
   "Ranking_EOS_NewCompleters": 81,
   "Ranking_EOS_NewPlayers": 272,

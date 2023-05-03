@@ -10,16 +10,16 @@
 | 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.93% |
 | 9 | [Them and Us](games/t/them_and_us.md) | 12.50% |
 | 10 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.98% |
-| 11 | [Ravenlok](games/r/ravenlok.md) | 10.14% |
-| 12 | [Smelter](games/s/smelter.md) | 10.00% |
+| 11 | [Smelter](games/s/smelter.md) | 10.00% |
+| 12 | [Ravenlok](games/r/ravenlok.md) | 9.86% |
 | 13 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 14 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 15 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.51% |
+| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.50% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 19 | [Scorn](games/s/scorn.md) | 7.13% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.97% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.95% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 23 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.02% |

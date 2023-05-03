@@ -42,7 +42,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2016
+      "Count": 2019
     }
   ],
   "EosHistory": [],
@@ -4177,6 +4177,12 @@
       "Rating": 4.1,
       "NumberOfAwards": 14858,
       "NumberOfAwardsMax": 2251
+    },
+    {
+      "Time": "2023-05-03T20:57:43.0716665+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 14861,
+      "NumberOfAwardsMax": 2251
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -4184,12 +4190,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-03T20:03:17.5166596+00:00",
-  "LastUpdate_Ratings": "2023-05-03T19:58:10.0308011+00:00",
-  "LastChanged": "2023-05-03T19:58:10.0308003+00:00",
+  "LastUpdate_Achievements": "2023-05-03T21:02:28.9226683+00:00",
+  "LastUpdate_Ratings": "2023-05-03T20:57:43.071667+00:00",
+  "LastChanged": "2023-05-03T20:57:43.0716661+00:00",
   "MaxAwardTitle": "Challenging Combat",
   "NumberOfAwardsMax": 2251,
-  "NumberOfAwards": 14858,
+  "NumberOfAwards": 14861,
   "NumberOfRatings": 15671,
   "Ranking_EOS_NewCompleters": 81,
   "Ranking_EOS_NewPlayers": 272,
@@ -4197,7 +4203,7 @@
   "Ranking_EOS_Progress": 377,
   "Ranking_PopularitySum": 61,
   "Ranking_Popularity": 95,
-  "Ranking_Rating": 851,
+  "Ranking_Rating": 850,
   "Rating": 4.1,
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00"
 }

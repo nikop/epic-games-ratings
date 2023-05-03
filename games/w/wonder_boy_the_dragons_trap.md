@@ -1,5 +1,5 @@
 # Wonder Boy The Dragons Trap
-Rating: 4.44 (Ranked 621)  
+Rating: 4.44 (Ranked 622)  
 Number of Ratings: 3,047  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Relaxing): 59  (Ranked 376)  

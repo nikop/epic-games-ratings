@@ -1,9 +1,9 @@
 # Far Cry 6 Standard Edition
-Rating: 4.44 (Ranked 621)  
+Rating: 4.45 (Ranked 600)  
 Number of Ratings: 12,290  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Amazing Storytelling): 692  (Ranked 154)  
-Sum: 5,342 (Ranked 117)  
+Sum: 5,344 (Ranked 117)  
 Diff (max vs sum): 37
 ## Awards
 | Award | Count |
@@ -11,7 +11,7 @@ Diff (max vs sum): 37
 | This game has Amazing Storytelling | 692 |
 | This game is Great for Beginners | 678 |
 | This game has Amazing Characters | 674 |
-| This game has Diverse Characters | 669 |
+| This game has Diverse Characters | 671 |
 | This game is Extremely Fun | 663 |
 | This game is Relaxing | 661 |
 | This game is Highly Recommended | 653 |
@@ -122,4 +122,4 @@ Diff (max vs sum): 37
 | 2023-04-30 | 4.45 | - | 680 | 5,295 |
 | 2023-05-01 | 4.45 | - | 684 | 5,318 |
 | 2023-05-02 | 4.45 | - | 688 | 5,331 |
-| 2023-05-03 | 4.45 | - | 692 | 5,342 |
+| 2023-05-03 | 4.45 | - | 692 | 5,344 |
