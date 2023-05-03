@@ -7,7 +7,7 @@
 | 5 | [Island Cities](games/i/island_cities.md) | 18.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 16.00% |
 | 7 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
-| 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.01% |
+| 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.93% |
 | 9 | [Them and Us](games/t/them_and_us.md) | 12.50% |
 | 10 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.88% |
 | 11 | [Ravenlok](games/r/ravenlok.md) | 11.67% |
@@ -18,7 +18,7 @@
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.57% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.23% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.21% |
 | 20 | [Scorn](games/s/scorn.md) | 7.14% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
@@ -53,7 +53,7 @@
 | 51 | [ZZT!](games/z/zzt!.md) | 2.60% |
 | 52 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 53 | [Iron Danger](games/i/iron_danger.md) | 2.45% |
-| 54 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.28% |
+| 54 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.29% |
 | 55 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.08% |
 | 56 | [A Musical Story](games/a/a_musical_story.md) | 2.00% |
 | 57 | [Sifu](games/s/sifu.md) | 1.81% |

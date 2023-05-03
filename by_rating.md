@@ -43,7 +43,7 @@
 | 37 | [Grindstone](games/g/grindstone.md) | 4.85 | 0 | 489 |
 | 37 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.85 | 0 | 489 |
 | 37 | [Huntdown](games/h/huntdown.md) | 4.85 | 0 | 489 |
-| 37 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 226 | 243 |
+| 37 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 226 | 244 |
 | 37 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 215 | 247 |
 | 37 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 0 | 489 |
 | 37 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 0 | 489 |
@@ -149,7 +149,7 @@
 | 142 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 768 | 147 |
 | 142 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 584 | 166 |
 | 142 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,472 | 49 |
-| 142 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 222 | 245 |
+| 142 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 222 | 246 |
 | 142 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 30,537 | 13 |
 | 142 | [Suzerain](games/s/suzerain.md) | 4.74 | 0 | 489 |
 | 142 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 489 |
@@ -232,10 +232,10 @@
 | 212 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 489 |
 | 212 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 0 | 489 |
 | 212 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 769 | 146 |
-| 233 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,319 | 80 |
+| 233 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,320 | 80 |
 | 233 | [Aimlabs](games/a/aimlabs.md) | 4.68 | 0 | 489 |
 | 233 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.68 | 0 | 489 |
-| 233 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 2,998 | 87 |
+| 233 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,002 | 87 |
 | 233 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 489 |
 | 233 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 360 |
 | 233 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 489 |
@@ -280,7 +280,7 @@
 | 273 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 508 | 180 |
 | 273 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.66 | 0 | 489 |
 | 273 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 0 | 489 |
-| 273 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,032 | 130 |
+| 273 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,032 | 131 |
 | 273 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 547 | 172 |
 | 273 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 24 | 465 |
 | 273 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.66 | 0 | 489 |
@@ -552,7 +552,7 @@
 | 546 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 88 | 335 |
 | 546 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 0 | 489 |
 | 546 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 271 | 231 |
-| 546 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 226 | 243 |
+| 546 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 226 | 244 |
 | 546 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 2,283 | 94 |
 | 546 | [Maneater](games/m/maneater.md) | 4.49 | 13,427 | 24 |
 | 546 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 610 | 162 |
@@ -639,7 +639,7 @@
 | 634 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 66 | 365 |
 | 634 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 0 | 489 |
 | 634 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 276 | 226 |
-| 634 | [World of Warships](games/w/world_of_warships.md) | 4.43 | 1,032 | 130 |
+| 634 | [World of Warships](games/w/world_of_warships.md) | 4.43 | 1,035 | 130 |
 | 641 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 60 | 375 |
 | 641 | [ELEX](games/e/elex.md) | 4.42 | 24 | 465 |
 | 641 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 489 |
@@ -889,7 +889,7 @@
 | 886 | [Chimeraland](games/c/chimeraland.md) | 3.95 | 0 | 489 |
 | 886 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 3.95 | 64 | 369 |
 | 889 | [Patron](games/p/patron.md) | 3.94 | 0 | 489 |
-| 890 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 218 | 246 |
+| 890 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 227 | 243 |
 | 891 | [Bridge Constructor The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 446 |
 | 891 | [Ironcast](games/i/ironcast.md) | 3.92 | 0 | 489 |
 | 891 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.92 | 0 | 489 |

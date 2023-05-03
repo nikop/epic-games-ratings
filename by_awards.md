@@ -79,14 +79,14 @@
 | 77 | [SMITE](games/s/smite.md) | 3,710 | 4.45 | 600 |
 | 78 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,584 | 4.30 | 750 |
 | 79 | [Gloomhaven](games/g/gloomhaven.md) | 3,436 | 4.47 | 575 |
-| 80 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,319 | 4.68 | 233 |
+| 80 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,320 | 4.68 | 233 |
 | 81 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,250 | 4.46 | 589 |
 | 82 | [Paladins](games/p/paladins.md) | 3,193 | 4.35 | 713 |
 | 83 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,170 | 4.75 | 127 |
 | 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,162 | 4.59 | 395 |
 | 85 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,026 | 4.57 | 428 |
 | 86 | [Hades](games/h/hades.md) | 3,022 | 4.92 | 3 |
-| 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 2,998 | 4.68 | 233 |
+| 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,002 | 4.68 | 233 |
 | 88 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,586 | 4.77 | 103 |
 | 89 | [Trackmania](games/t/trackmania.md) | 2,518 | 4.67 | 256 |
 | 90 | [Path of Exile](games/p/path_of_exile.md) | 2,457 | 4.61 | 353 |
@@ -129,8 +129,8 @@
 | 127 | [OUTRIDERS](games/o/outriders.md) | 1,105 | 4.42 | 641 |
 | 128 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,077 | 4.61 | 353 |
 | 129 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,059 | 4.61 | 353 |
-| 130 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,032 | 4.66 | 273 |
-| 130 | [World of Warships](games/w/world_of_warships.md) | 1,032 | 4.43 | 634 |
+| 130 | [World of Warships](games/w/world_of_warships.md) | 1,035 | 4.43 | 634 |
+| 131 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,032 | 4.66 | 273 |
 | 132 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,029 | 4.54 | 475 |
 | 133 | [Saints Row](games/s/saints_row.md) | 1,022 | 3.78 | 904 |
 | 134 | [EVE Online](games/e/eve_online.md) | 1,015 | 4.26 | 771 |
@@ -242,10 +242,10 @@
 | 240 | [Roller Champions™](games/r/roller_champions™.md) | 236 | 4.34 | 721 |
 | 241 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 230 | 4.45 | 600 |
 | 241 | [MudRunner](games/m/mudrunner.md) | 230 | 4.62 | 336 |
-| 243 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 226 | 4.49 | 546 |
-| 243 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 226 | 4.85 | 37 |
-| 245 | [Overcooked! 2](games/o/overcooked!_2.md) | 222 | 4.74 | 142 |
-| 246 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 218 | 3.93 | 890 |
+| 243 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 227 | 3.93 | 890 |
+| 244 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 226 | 4.49 | 546 |
+| 244 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 226 | 4.85 | 37 |
+| 246 | [Overcooked! 2](games/o/overcooked!_2.md) | 222 | 4.74 | 142 |
 | 247 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 215 | 4.58 | 414 |
 | 247 | [Old World](games/o/old_world.md) | 215 | 4.65 | 288 |
 | 247 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 215 | 4.85 | 37 |
