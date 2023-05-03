@@ -22,7 +22,7 @@
 | 20 | [Scorn](games/s/scorn.md) | 7.14% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
-| 22 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.06% |
+| 23 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.02% |
 | 24 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.71% |
 | 25 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.01% |
 | 26 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
@@ -140,12 +140,12 @@
 | 138 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
 | 138 | [RAILGRADE](games/r/railgrade.md) | 0.15% |
 | 138 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
+| 141 | [Dead Island 2](games/d/dead_island_2.md) | 0.14% |
 | 141 | [Isonzo](games/i/isonzo.md) | 0.14% |
 | 141 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
-| 143 | [Dead Island 2](games/d/dead_island_2.md) | 0.13% |
-| 143 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.13% |
-| 143 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.13% |
-| 143 | [Weird West](games/w/weird_west.md) | 0.13% |
+| 144 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.13% |
+| 144 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.13% |
+| 144 | [Weird West](games/w/weird_west.md) | 0.13% |
 | 147 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 147 | [Partisans 1941](games/p/partisans_1941.md) | 0.12% |
 | 149 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |

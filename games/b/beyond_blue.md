@@ -1,5 +1,5 @@
 # Beyond Blue
-Rating: 4.35 (Ranked 712)  
+Rating: 4.36 (Ranked 702)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 489)  
 Sum: 0 (Ranked 489)  
@@ -19,3 +19,4 @@ Diff (max vs sum): 0
 | 2023-04-29 | 4.33 | 0 | 0 |
 | 2023-04-30 | 4.31 | 0 | 0 |
 | 2023-05-01 | 4.35 | 0 | 0 |
+| 2023-05-03 | 4.36 | 0 | 0 |

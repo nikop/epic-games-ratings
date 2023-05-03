@@ -1,9 +1,9 @@
 # RAILGRADE
 Rating: 4.54 (Ranked 475)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 86  (Ranked 336)  
+Max (Great for Beginners): 86  (Ranked 337)  
 Sum: 642 (Ranked 269)  
-Diff (max vs sum): 67
+Diff (max vs sum): 68
 ## Popularity (Based on EOS Achievements)
 Progressed: 18,162 (Ranked 93)  
 Completed: 28 (0.15%) (Ranked 138)  
