@@ -1,5 +1,5 @@
 # Knockout City™
-Rating: 4.46 (Ranked 589)  
+Rating: 4.46 (Ranked 590)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 489)  
 Sum: 0 (Ranked 489)  

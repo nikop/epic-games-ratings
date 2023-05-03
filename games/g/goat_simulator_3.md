@@ -2,10 +2,10 @@
 Rating: 4.85 (Ranked 37)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 305  (Ranked 222)  
-Sum: 2,604 (Ranked 162)  
+Sum: 2,605 (Ranked 162)  
 Diff (max vs sum): 60
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,373 (Ranked 45)  
+Progressed: 215,383 (Ranked 45)  
 Completed: 686 (0.32%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -18,7 +18,7 @@ Completed: 686 (0.32%) (Ranked 113)
 | 2023-04-30 | 214,986 | 686 |
 | 2023-05-01 | 215,144 | 686 |
 | 2023-05-02 | 215,267 | 686 |
-| 2023-05-03 | 215,373 | 686 |
+| 2023-05-03 | 215,383 | 686 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -26,8 +26,8 @@ Completed: 686 (0.32%) (Ranked 113)
 | This game has Diverse Characters | 286 |
 | This game is Highly Recommended | 280 |
 | This game has Amazing Characters | 271 |
+| This game has Quickly Understood Controls | 256 |
 | This game is Relaxing | 255 |
-| This game has Quickly Understood Controls | 255 |
 | This game is Extremely Fun | 255 |
 | This game has Amazing Storytelling | 252 |
 | This game has a Silly Community | 228 |
@@ -78,4 +78,4 @@ Completed: 686 (0.32%) (Ranked 113)
 | 2023-04-30 | 4.85 | 303 | 2,583 |
 | 2023-05-01 | 4.85 | 305 | 2,589 |
 | 2023-05-02 | 4.85 | 305 | 2,601 |
-| 2023-05-03 | 4.85 | 305 | 2,604 |
+| 2023-05-03 | 4.85 | 305 | 2,605 |

@@ -54,7 +54,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 3140
+      "Count": 3151
     }
   ],
   "EosHistory": [],
@@ -4208,6 +4208,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 26151,
       "NumberOfAwardsMax": 4015
+    },
+    {
+      "Time": "2023-05-03T22:57:58.6042089+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 26162,
+      "NumberOfAwardsMax": 4015
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -4215,15 +4221,15 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-03T22:02:22.3115744+00:00",
-  "LastUpdate_Ratings": "2023-05-03T21:57:30.5186398+00:00",
-  "LastChanged": "2023-05-03T19:57:44.8793707+00:00",
+  "LastUpdate_Achievements": "2023-05-03T23:03:08.8469407+00:00",
+  "LastUpdate_Ratings": "2023-05-03T22:57:58.6042095+00:00",
+  "LastChanged": "2023-05-03T22:57:58.6042088+00:00",
   "MaxAwardTitle": "Extremely Fun",
   "NumberOfAwardsMax": 4015,
-  "NumberOfAwards": 26151,
+  "NumberOfAwards": 26162,
   "NumberOfRatings": 18078,
-  "Ranking_EOS_NewCompleters": 81,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 377,
   "Ranking_PopularitySum": 44,

@@ -2,13 +2,13 @@
 Rating: 4.67 (Ranked 255)  
 Number of Ratings: 6,825  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Quick Sessions): 2,518  (Ranked 89)  
-Sum: 21,641 (Ranked 51)  
+Max (Great for Quick Sessions): 2,525  (Ranked 89)  
+Sum: 21,648 (Ranked 51)  
 Diff (max vs sum): 38
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 2,518 |
+| This game is Great for Quick Sessions | 2,525 |
 | This game is Great for Beginners | 2,506 |
 | This game has Competitive Players | 2,280 |
 | This game has Quickly Understood Controls | 2,278 |
@@ -123,4 +123,4 @@ Diff (max vs sum): 38
 | 2023-04-30 | 4.67 | - | 2,508 | 21,443 |
 | 2023-05-01 | 4.67 | - | 2,512 | 21,510 |
 | 2023-05-02 | 4.67 | - | 2,518 | 21,565 |
-| 2023-05-03 | 4.67 | - | 2,518 | 21,641 |
+| 2023-05-03 | 4.67 | - | 2,525 | 21,648 |

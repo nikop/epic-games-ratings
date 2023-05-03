@@ -1,11 +1,11 @@
 # Runbow
-Rating: 4.46 (Ranked 589)  
+Rating: 4.46 (Ranked 590)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 489)  
 Sum: 0 (Ranked 489)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,390 (Ranked 40)  
+Progressed: 242,391 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -18,7 +18,7 @@ Completed: 1 (0.00%) (Ranked 191)
 | 2023-04-30 | 242,215 | 1 |
 | 2023-05-01 | 242,302 | 1 |
 | 2023-05-02 | 242,344 | 1 |
-| 2023-05-03 | 242,390 | 1 |
+| 2023-05-03 | 242,391 | 1 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

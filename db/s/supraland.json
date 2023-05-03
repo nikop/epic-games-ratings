@@ -1029,6 +1029,11 @@
       "Time": "2023-05-03T22:03:17.4981052+00:00",
       "NumProgressed": 702941,
       "NumCompleted": 668
+    },
+    {
+      "Time": "2023-05-03T23:03:44.2241469+00:00",
+      "NumProgressed": 702946,
+      "NumCompleted": 668
     }
   ],
   "RatingHistory": [
@@ -3286,12 +3291,12 @@
   ],
   "EOS_Completed_Percentage": 0.1,
   "EOS_NewCompleters": 7,
-  "EOS_NewPlayers": 1379,
+  "EOS_NewPlayers": 1369,
   "EOS_Completed": 668,
-  "EOS_Progressed": 702941,
-  "LastUpdate_Achievements": "2023-05-03T22:03:17.4981147+00:00",
-  "LastUpdate_Ratings": "2023-05-03T21:57:41.2598466+00:00",
-  "LastChanged_Achievements": "2023-05-03T22:03:17.4981045+00:00",
+  "EOS_Progressed": 702946,
+  "LastUpdate_Achievements": "2023-05-03T23:03:44.2241597+00:00",
+  "LastUpdate_Ratings": "2023-05-03T22:58:15.9281197+00:00",
+  "LastChanged_Achievements": "2023-05-03T23:03:44.2241461+00:00",
   "LastChanged": "2023-05-02T20:57:49.7615991+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "MaxAwardTitle": "Challenging Puzzles",
