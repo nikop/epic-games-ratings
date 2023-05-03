@@ -12,7 +12,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 960
+      "Count": 962
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1012,6 +1012,11 @@
     {
       "Time": "2023-05-03T16:04:59.7872251+00:00",
       "NumProgressed": 3493110,
+      "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-03T17:05:19.1742332+00:00",
+      "NumProgressed": 3493131,
       "NumCompleted": 22
     }
   ],
@@ -4214,21 +4219,27 @@
       "Rating": 4.66,
       "NumberOfAwards": 7720,
       "NumberOfAwardsMax": 1032
+    },
+    {
+      "Time": "2023-05-03T16:59:59.4589583+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 7722,
+      "NumberOfAwardsMax": 1032
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 3118,
+  "EOS_NewPlayers": 3127,
   "EOS_Completed": 22,
-  "EOS_Progressed": 3493110,
-  "LastUpdate_Achievements": "2023-05-03T16:04:59.7872354+00:00",
-  "LastUpdate_Ratings": "2023-05-03T15:59:41.491374+00:00",
-  "LastChanged_Achievements": "2023-05-03T16:04:59.7872245+00:00",
-  "LastChanged": "2023-05-03T11:59:08.6071045+00:00",
+  "EOS_Progressed": 3493131,
+  "LastUpdate_Achievements": "2023-05-03T17:05:19.174247+00:00",
+  "LastUpdate_Ratings": "2023-05-03T16:59:59.4589589+00:00",
+  "LastChanged_Achievements": "2023-05-03T17:05:19.1742324+00:00",
+  "LastChanged": "2023-05-03T16:59:59.458958+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.9861995+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 1032,
-  "NumberOfAwards": 7720,
+  "NumberOfAwards": 7722,
   "NumberOfRatings": 12155,
   "Ranking_EOS_NewCompleters": 53,
   "Ranking_EOS_NewPlayers": 24,

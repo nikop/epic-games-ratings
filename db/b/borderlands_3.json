@@ -30,7 +30,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 24518
+      "Count": 24538
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5134,6 +5134,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 340082,
       "NumberOfAwardsMax": 108536
+    },
+    {
+      "Time": "2023-05-03T17:00:19.0351598+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 340102,
+      "NumberOfAwardsMax": 108536
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -5141,12 +5147,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-03T16:05:05.448808+00:00",
-  "LastUpdate_Ratings": "2023-05-03T15:59:59.6873657+00:00",
-  "LastChanged": "2023-05-03T15:59:59.6873645+00:00",
+  "LastUpdate_Achievements": "2023-05-03T17:05:24.7132124+00:00",
+  "LastUpdate_Ratings": "2023-05-03T17:00:19.0351603+00:00",
+  "LastChanged": "2023-05-03T17:00:19.0351594+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 108536,
-  "NumberOfAwards": 340082,
+  "NumberOfAwards": 340102,
   "NumberOfRatings": 151211,
   "Ranking_EOS_NewCompleters": 81,
   "Ranking_EOS_NewPlayers": 271,
