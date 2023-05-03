@@ -30,7 +30,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 7283
+      "Count": 7293
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -66,7 +66,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 7164
+      "Count": 7179
     },
     {
       "Text": "This game has a Creative Community",
@@ -999,6 +999,11 @@
     {
       "Time": "2023-05-03T15:02:18.2940768+00:00",
       "NumProgressed": 797623,
+      "NumCompleted": 1561
+    },
+    {
+      "Time": "2023-05-03T16:02:12.2678825+00:00",
+      "NumProgressed": 797633,
       "NumCompleted": 1561
     }
   ],
@@ -6152,21 +6157,27 @@
       "Rating": 4.62,
       "NumberOfAwards": 165877,
       "NumberOfAwardsMax": 63500
+    },
+    {
+      "Time": "2023-05-03T15:57:33.4934497+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 165902,
+      "NumberOfAwardsMax": 63500
     }
   ],
   "EOS_Completed_Percentage": 0.2,
   "EOS_NewCompleters": 23,
-  "EOS_NewPlayers": 1809,
+  "EOS_NewPlayers": 1806,
   "EOS_Completed": 1561,
-  "EOS_Progressed": 797623,
-  "LastUpdate_Achievements": "2023-05-03T15:02:18.2940878+00:00",
-  "LastUpdate_Ratings": "2023-05-03T14:57:45.8491222+00:00",
-  "LastChanged_Achievements": "2023-05-03T15:02:18.2940758+00:00",
-  "LastChanged": "2023-05-03T13:03:11.7250403+00:00",
+  "EOS_Progressed": 797633,
+  "LastUpdate_Achievements": "2023-05-03T16:02:12.2678937+00:00",
+  "LastUpdate_Ratings": "2023-05-03T15:57:33.4934504+00:00",
+  "LastChanged_Achievements": "2023-05-03T16:02:12.267882+00:00",
+  "LastChanged": "2023-05-03T15:57:33.4934494+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 63500,
-  "NumberOfAwards": 165877,
+  "NumberOfAwards": 165902,
   "NumberOfRatings": 32700,
   "Ranking_EOS_NewCompleters": 9,
   "Ranking_EOS_NewPlayers": 35,

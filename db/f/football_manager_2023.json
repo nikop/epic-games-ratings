@@ -30,13 +30,13 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 350
+      "Count": 355
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 301
+      "Count": 303
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -994,6 +994,11 @@
     {
       "Time": "2023-05-03T15:05:15.989318+00:00",
       "NumProgressed": 61419,
+      "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-03T16:05:11.1173657+00:00",
+      "NumProgressed": 61429,
       "NumCompleted": 14
     }
   ],
@@ -2219,22 +2224,28 @@
       "Rating": 4.75,
       "NumberOfAwards": 2969,
       "NumberOfAwardsMax": 398
+    },
+    {
+      "Time": "2023-05-03T15:59:41.2629212+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 2976,
+      "NumberOfAwardsMax": 398
     }
   ],
   "EOS_Completed_Percentage": 0.02,
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1117,
+  "EOS_NewPlayers": 1120,
   "EOS_Completed": 14,
-  "EOS_Progressed": 61419,
-  "LastUpdate_Achievements": "2023-05-03T15:05:15.9893274+00:00",
-  "LastUpdate_Ratings": "2023-05-03T14:59:53.3488742+00:00",
-  "LastChanged_Achievements": "2023-05-03T15:05:15.9893172+00:00",
-  "LastChanged": "2023-05-03T10:59:05.9302392+00:00",
+  "EOS_Progressed": 61429,
+  "LastUpdate_Achievements": "2023-05-03T16:05:11.1173765+00:00",
+  "LastUpdate_Ratings": "2023-05-03T15:59:41.2629217+00:00",
+  "LastChanged_Achievements": "2023-05-03T16:05:11.117365+00:00",
+  "LastChanged": "2023-05-03T15:59:41.2629208+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.5210365+00:00",
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 398,
-  "NumberOfAwards": 2969,
+  "NumberOfAwards": 2976,
   "Ranking_EOS_NewCompleters": 81,
   "Ranking_EOS_NewPlayers": 48,
   "Ranking_EOS_Completed": 175,

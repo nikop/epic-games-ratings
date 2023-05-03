@@ -1,6 +1,6 @@
 {
   "ID": "ff52981b1d9947978153c7a7f8bc6d90",
-  "Name": "Disco Elysium",
+  "Name": "Disco Elysium - The Final Cut",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -910,6 +910,11 @@
     {
       "Time": "2023-05-03T15:04:38.2326548+00:00",
       "NumProgressed": 117901,
+      "NumCompleted": 24
+    },
+    {
+      "Time": "2023-05-03T16:04:32.5431622+00:00",
+      "NumProgressed": 117902,
       "NumCompleted": 24
     }
   ],
@@ -1873,12 +1878,12 @@
   ],
   "EOS_Completed_Percentage": 0.02,
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 394,
+  "EOS_NewPlayers": 390,
   "EOS_Completed": 24,
-  "EOS_Progressed": 117901,
-  "LastUpdate_Achievements": "2023-05-03T15:04:38.2326642+00:00",
-  "LastUpdate_Ratings": "2023-05-03T14:59:28.5402118+00:00",
-  "LastChanged_Achievements": "2023-05-03T15:04:38.2326543+00:00",
+  "EOS_Progressed": 117902,
+  "LastUpdate_Achievements": "2023-05-03T16:04:32.5431717+00:00",
+  "LastUpdate_Ratings": "2023-05-03T15:59:16.5439831+00:00",
+  "LastChanged_Achievements": "2023-05-03T16:04:32.5431614+00:00",
   "LastChanged": "2023-05-03T08:59:09.1280429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "MaxAwardTitle": "Character Customization",
@@ -1886,7 +1891,7 @@
   "NumberOfAwards": 1042,
   "NumberOfRatings": 1611,
   "Ranking_EOS_NewCompleters": 81,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_Progress": 55,
   "Ranking_PopularitySum": 226,

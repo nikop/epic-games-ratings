@@ -60,7 +60,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 212
+      "Count": 214
     },
     {
       "Text": "This game is Relaxing",
@@ -1446,6 +1446,12 @@
       "Rating": 4.24,
       "NumberOfAwards": 2806,
       "NumberOfAwardsMax": 352
+    },
+    {
+      "Time": "2023-05-03T15:59:16.3471285+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 2808,
+      "NumberOfAwardsMax": 352
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -1453,13 +1459,13 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-03T15:04:30.5250161+00:00",
-  "LastUpdate_Ratings": "2023-05-03T14:59:28.0463837+00:00",
-  "LastChanged": "2023-05-03T02:59:38.7173436+00:00",
+  "LastUpdate_Achievements": "2023-05-03T16:04:24.5835987+00:00",
+  "LastUpdate_Ratings": "2023-05-03T15:59:16.3471295+00:00",
+  "LastChanged": "2023-05-03T15:59:16.3471279+00:00",
   "FirstSeenRating": "2022-11-10T14:19:52.8915141+00:00",
   "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 352,
-  "NumberOfAwards": 2806,
+  "NumberOfAwards": 2808,
   "Ranking_EOS_NewCompleters": 81,
   "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_Completed": 191,

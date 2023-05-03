@@ -12,7 +12,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 2172
+      "Count": 2177
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4165,6 +4165,12 @@
       "Rating": 4.1,
       "NumberOfAwards": 14851,
       "NumberOfAwardsMax": 2251
+    },
+    {
+      "Time": "2023-05-03T15:58:15.0703959+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 14856,
+      "NumberOfAwardsMax": 2251
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -4172,12 +4178,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-03T15:02:57.7885736+00:00",
-  "LastUpdate_Ratings": "2023-05-03T14:58:27.5036166+00:00",
-  "LastChanged": "2023-05-03T14:58:27.5036156+00:00",
+  "LastUpdate_Achievements": "2023-05-03T16:03:13.1995323+00:00",
+  "LastUpdate_Ratings": "2023-05-03T15:58:15.0703966+00:00",
+  "LastChanged": "2023-05-03T15:58:15.0703955+00:00",
   "MaxAwardTitle": "Challenging Combat",
   "NumberOfAwardsMax": 2251,
-  "NumberOfAwards": 14851,
+  "NumberOfAwards": 14856,
   "NumberOfRatings": 15671,
   "Ranking_EOS_NewCompleters": 81,
   "Ranking_EOS_NewPlayers": 271,

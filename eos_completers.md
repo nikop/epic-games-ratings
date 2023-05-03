@@ -16,10 +16,10 @@
 | 14 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 15 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.56% |
+| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.55% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 19 | [Scorn](games/s/scorn.md) | 7.13% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.08% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.06% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 23 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.02% |
@@ -174,7 +174,7 @@
 | 167 | [Tropico 6](games/t/tropico_6.md) | 0.04% |
 | 173 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 173 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
-| 175 | [Disco Elysium](games/d/disco_elysium.md) | 0.02% |
+| 175 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
 | 175 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.02% |
 | 175 | [Good Company](games/g/good_company.md) | 0.02% |
 | 175 | [Old World](games/o/old_world.md) | 0.02% |
@@ -374,4 +374,4 @@
 | 191 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 191 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 191 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,546 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,549 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

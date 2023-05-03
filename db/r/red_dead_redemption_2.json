@@ -84,7 +84,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 9395
+      "Count": 9409
     }
   ],
   "EosHistory": [],
@@ -5345,6 +5345,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 351306,
       "NumberOfAwardsMax": 138032
+    },
+    {
+      "Time": "2023-05-03T15:59:16.1455954+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 351320,
+      "NumberOfAwardsMax": 138032
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -5352,12 +5358,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-03T15:04:31.1150808+00:00",
-  "LastUpdate_Ratings": "2023-05-03T14:59:27.672539+00:00",
-  "LastChanged": "2023-05-03T13:04:49.7424208+00:00",
+  "LastUpdate_Achievements": "2023-05-03T16:04:25.2030945+00:00",
+  "LastUpdate_Ratings": "2023-05-03T15:59:16.145596+00:00",
+  "LastChanged": "2023-05-03T15:59:16.1455951+00:00",
   "MaxAwardTitle": "Impact the Story",
   "NumberOfAwardsMax": 138032,
-  "NumberOfAwards": 351306,
+  "NumberOfAwards": 351320,
   "NumberOfRatings": 102658,
   "Ranking_EOS_NewCompleters": 81,
   "Ranking_EOS_NewPlayers": 271,
