@@ -143,8 +143,8 @@
 | 141 | [Sonic Mania](games/s/sonic_mania.md) | 905 | 4.79 | 91 |
 | 142 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 856 | 4.69 | 212 |
 | 143 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 846 | 4.45 | 601 |
-| 144 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 832 | 4.76 | 113 |
-| 145 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 831 | 4.55 | 466 |
+| 144 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 835 | 4.55 | 466 |
+| 145 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 832 | 4.76 | 113 |
 | 146 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 769 | 4.69 | 212 |
 | 147 | [Frostpunk](games/f/frostpunk.md) | 768 | 4.74 | 142 |
 | 148 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 752 | 4.50 | 530 |

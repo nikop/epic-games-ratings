@@ -116,7 +116,7 @@
 | 113 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,067 | 23 |
 | 113 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 85 | 337 |
 | 113 | [Dead Space](games/d/dead_space.md) | 4.76 | 39 | 410 |
-| 113 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 832 | 144 |
+| 113 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 832 | 145 |
 | 113 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.76 | 61 | 373 |
 | 113 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 489 |
 | 113 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.76 | 99 | 319 |
@@ -471,7 +471,7 @@
 | 466 | [Hue](games/h/hue.md) | 4.55 | 0 | 489 |
 | 466 | [Outward](games/o/outward.md) | 4.55 | 31 | 439 |
 | 466 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 489 |
-| 466 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 831 | 145 |
+| 466 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 835 | 144 |
 | 466 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.55 | 32 | 433 |
 | 466 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,130 | 124 |
 | 475 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 1,989 | 102 |

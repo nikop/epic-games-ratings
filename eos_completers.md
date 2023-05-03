@@ -18,7 +18,7 @@
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.57% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.26% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.24% |
 | 20 | [Scorn](games/s/scorn.md) | 7.14% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
@@ -50,7 +50,7 @@
 | 47 | [Monster Harvest](games/m/monster_harvest.md) | 2.74% |
 | 49 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 50 | [JARS](games/j/jars.md) | 2.63% |
-| 51 | [ZZT!](games/z/zzt!.md) | 2.61% |
+| 51 | [ZZT!](games/z/zzt!.md) | 2.60% |
 | 52 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 53 | [Iron Danger](games/i/iron_danger.md) | 2.45% |
 | 54 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.28% |
@@ -371,4 +371,4 @@
 | 191 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 191 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 191 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,542 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,543 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

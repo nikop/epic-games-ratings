@@ -24,7 +24,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 674
+      "Count": 675
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3285,6 +3285,12 @@
       "Rating": 4.75,
       "NumberOfAwards": 8669,
       "NumberOfAwardsMax": 3170
+    },
+    {
+      "Time": "2023-05-03T03:00:39.9106458+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 8670,
+      "NumberOfAwardsMax": 3170
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -3292,14 +3298,14 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-03T02:02:42.1043636+00:00",
-  "LastUpdate_Ratings": "2023-05-03T01:57:16.6792237+00:00",
-  "LastChanged": "2023-05-02T16:59:52.0560215+00:00",
+  "LastUpdate_Achievements": "2023-05-03T03:05:57.2477842+00:00",
+  "LastUpdate_Ratings": "2023-05-03T03:00:39.9106464+00:00",
+  "LastChanged": "2023-05-03T03:00:39.9106455+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 3170,
-  "NumberOfAwards": 8669,
+  "NumberOfAwards": 8670,
   "NumberOfRatings": 5428,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 373,
