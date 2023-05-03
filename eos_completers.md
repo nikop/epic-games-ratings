@@ -10,7 +10,7 @@
 | 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.93% |
 | 9 | [Them and Us](games/t/them_and_us.md) | 12.50% |
 | 10 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.98% |
-| 11 | [Ravenlok](games/r/ravenlok.md) | 10.29% |
+| 11 | [Ravenlok](games/r/ravenlok.md) | 10.14% |
 | 12 | [Smelter](games/s/smelter.md) | 10.00% |
 | 13 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 14 | [Time Loader](games/t/time_loader.md) | 8.42% |
@@ -229,6 +229,7 @@
 | 191 | [Crying Suns](games/c/crying_suns.md) | 0.00% |
 | 191 | [Curse of the Deadwood](games/c/curse_of_the_deadwood.md) | 0.00% |
 | 191 | [Cursed Castilla (Maldita Castilla EX)](games/c/cursed_castilla_(maldita_castilla_ex).md) | 0.00% |
+| 191 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 0.00% |
 | 191 | [Deceive Inc.](games/d/deceive_inc..md) | 0.00% |
 | 191 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 0.00% |
 | 191 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 0.00% |
@@ -374,4 +375,4 @@
 | 191 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 191 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 191 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,550 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,551 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

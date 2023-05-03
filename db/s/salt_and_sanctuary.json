@@ -1013,6 +1013,11 @@
       "Time": "2023-05-03T19:04:03.605348+00:00",
       "NumProgressed": 519672,
       "NumCompleted": 1393
+    },
+    {
+      "Time": "2023-05-03T20:04:40.0217106+00:00",
+      "NumProgressed": 519681,
+      "NumCompleted": 1393
     }
   ],
   "RatingHistory": [
@@ -3079,12 +3084,12 @@
   ],
   "EOS_Completed_Percentage": 0.27,
   "EOS_NewCompleters": 6,
-  "EOS_NewPlayers": 875,
+  "EOS_NewPlayers": 878,
   "EOS_Completed": 1393,
-  "EOS_Progressed": 519672,
-  "LastUpdate_Achievements": "2023-05-03T19:04:03.6053558+00:00",
-  "LastUpdate_Ratings": "2023-05-03T18:58:44.9245141+00:00",
-  "LastChanged_Achievements": "2023-05-03T19:04:03.6053474+00:00",
+  "EOS_Progressed": 519681,
+  "LastUpdate_Achievements": "2023-05-03T20:04:40.0217201+00:00",
+  "LastUpdate_Ratings": "2023-05-03T19:59:20.9744109+00:00",
+  "LastChanged_Achievements": "2023-05-03T20:04:40.0217097+00:00",
   "LastChanged": "2023-04-30T05:58:30.0010463+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "MaxAwardTitle": "Challenging Combat",
