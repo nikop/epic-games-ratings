@@ -6,7 +6,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 391
+      "Count": 394
     }
   ],
   "EosHistory": [
@@ -934,6 +934,11 @@
       "Time": "2023-05-03T11:03:47.9773137+00:00",
       "NumProgressed": 148124,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-03T12:03:50.2287629+00:00",
+      "NumProgressed": 148161,
+      "NumCompleted": 6
     }
   ],
   "RatingHistory": [
@@ -1108,28 +1113,34 @@
       "Rating": 4.4,
       "NumberOfAwards": 391,
       "NumberOfAwardsMax": 391
+    },
+    {
+      "Time": "2023-05-03T11:58:23.6334332+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 394,
+      "NumberOfAwardsMax": 394
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 7623,
+  "EOS_NewPlayers": 7625,
   "EOS_Completed": 6,
-  "EOS_Progressed": 148124,
-  "LastUpdate_Achievements": "2023-05-03T11:03:47.9773229+00:00",
-  "LastUpdate_Ratings": "2023-05-03T10:58:22.8373489+00:00",
-  "LastChanged_Achievements": "2023-05-03T11:03:47.977313+00:00",
-  "LastChanged": "2023-05-01T18:59:02.7845573+00:00",
+  "EOS_Progressed": 148161,
+  "LastUpdate_Achievements": "2023-05-03T12:03:50.2287735+00:00",
+  "LastUpdate_Ratings": "2023-05-03T11:58:23.633434+00:00",
+  "LastChanged_Achievements": "2023-05-03T12:03:50.2287622+00:00",
+  "LastChanged": "2023-05-03T11:58:23.633433+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5717008+00:00",
   "FirstSeenRating": "2022-12-09T02:11:05.5025317+00:00",
   "MaxAwardTitle": "Great Boss Battles",
-  "NumberOfAwardsMax": 391,
-  "NumberOfAwards": 391,
-  "Ranking_EOS_NewCompleters": 82,
+  "NumberOfAwardsMax": 394,
+  "NumberOfAwards": 394,
+  "Ranking_EOS_NewCompleters": 81,
   "Ranking_EOS_NewPlayers": 13,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 53,
   "Ranking_PopularitySum": 301,
-  "Ranking_Popularity": 200,
+  "Ranking_Popularity": 199,
   "Ranking_Rating": 664,
   "Rating": 4.4,
   "FirstSeen": "2022-12-08T19:57:27.2562206+00:00"

@@ -18,7 +18,7 @@
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.57% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.21% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.16% |
 | 20 | [Scorn](games/s/scorn.md) | 7.14% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
@@ -118,9 +118,9 @@
 | 116 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
 | 116 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 116 | [The Surge](games/t/the_surge.md) | 0.31% |
-| 119 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.30% |
-| 120 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
-| 120 | [Aegis Descent](games/a/aegis_descent.md) | 0.29% |
+| 119 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.29% |
+| 119 | [Aegis Descent](games/a/aegis_descent.md) | 0.29% |
+| 119 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
 | 122 | [Despot's Game](games/d/despot's_game.md) | 0.28% |
 | 123 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
 | 123 | [Wildermyth](games/w/wildermyth.md) | 0.27% |

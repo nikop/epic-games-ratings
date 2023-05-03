@@ -2,9 +2,9 @@
 Rating: 4.60 (Ranked 379)  
 Number of Ratings: 706  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Relaxing): 118  (Ranked 299)  
+Max (Relaxing): 118  (Ranked 300)  
 Sum: 922 (Ranked 232)  
-Diff (max vs sum): 67
+Diff (max vs sum): 68
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,633 (Ranked 132)  
 Completed: 6 (0.23%) (Ranked 126)  

@@ -30,7 +30,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1294
+      "Count": 1324
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -78,7 +78,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 955
+      "Count": 982
     }
   ],
   "EosHistory": [
@@ -1005,6 +1005,11 @@
     {
       "Time": "2023-05-03T11:05:06.8893859+00:00",
       "NumProgressed": 3427648,
+      "NumCompleted": 7
+    },
+    {
+      "Time": "2023-05-03T12:04:58.5780622+00:00",
+      "NumProgressed": 3428152,
       "NumCompleted": 7
     }
   ],
@@ -4792,23 +4797,29 @@
       "Rating": 4.59,
       "NumberOfAwards": 50759,
       "NumberOfAwardsMax": 28224
+    },
+    {
+      "Time": "2023-05-03T11:59:32.7265204+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 50816,
+      "NumberOfAwardsMax": 28224
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 125092,
+  "EOS_NewPlayers": 124805,
   "EOS_Completed": 7,
-  "EOS_Progressed": 3427648,
-  "LastUpdate_Achievements": "2023-05-03T11:05:06.8893955+00:00",
-  "LastUpdate_Ratings": "2023-05-03T10:59:29.8620432+00:00",
-  "LastChanged_Achievements": "2023-05-03T11:05:06.8893853+00:00",
-  "LastChanged": "2023-05-03T10:59:29.8620424+00:00",
+  "EOS_Progressed": 3428152,
+  "LastUpdate_Achievements": "2023-05-03T12:04:58.5780703+00:00",
+  "LastUpdate_Ratings": "2023-05-03T11:59:32.7265212+00:00",
+  "LastChanged_Achievements": "2023-05-03T12:04:58.5780615+00:00",
+  "LastChanged": "2023-05-03T11:59:32.7265202+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:58.6045663+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 28224,
-  "NumberOfAwards": 50759,
+  "NumberOfAwards": 50816,
   "NumberOfRatings": 3181,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 4,

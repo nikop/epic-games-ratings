@@ -1,5 +1,5 @@
 # BioShock 2 Remastered
-Rating: 4.51 (Ranked 512)  
+Rating: 4.51 (Ranked 513)  
 Number of Ratings: 12,272  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 4,076  (Ranked 71)  
