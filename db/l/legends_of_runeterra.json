@@ -6,7 +6,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 150
+      "Count": 151
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1092,6 +1092,12 @@
       "Rating": 4.65,
       "NumberOfAwards": 1289,
       "NumberOfAwardsMax": 150
+    },
+    {
+      "Time": "2023-05-03T10:59:52.8289574+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1290,
+      "NumberOfAwardsMax": 151
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -1099,12 +1105,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-03T09:03:23.1250046+00:00",
-  "LastUpdate_Ratings": "2023-05-03T09:59:26.9189985+00:00",
-  "LastChanged": "2023-05-01T14:59:55.2063657+00:00",
+  "LastUpdate_Achievements": "2023-05-03T11:00:27.1744574+00:00",
+  "LastUpdate_Ratings": "2023-05-03T10:59:52.8289578+00:00",
+  "LastChanged": "2023-05-03T10:59:52.8289571+00:00",
   "MaxAwardTitle": "Great for Quick Sessions",
-  "NumberOfAwardsMax": 150,
-  "NumberOfAwards": 1289,
+  "NumberOfAwardsMax": 151,
+  "NumberOfAwards": 1290,
   "NumberOfRatings": 431,
   "Ranking_EOS_NewCompleters": 82,
   "Ranking_EOS_NewPlayers": 270,

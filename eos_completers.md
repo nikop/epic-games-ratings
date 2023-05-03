@@ -90,14 +90,14 @@
 | 88 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 89 | [Train Valley](games/t/train_valley.md) | 0.74% |
 | 90 | [Haven](games/h/haven.md) | 0.73% |
+| 91 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.67% |
 | 91 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.67% |
-| 92 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.66% |
 | 93 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
 | 94 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 95 | [Grindstone](games/g/grindstone.md) | 0.52% |
 | 96 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.51% |
-| 96 | [Ghostrunner](games/g/ghostrunner.md) | 0.51% |
-| 98 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.50% |
+| 97 | [Ghostrunner](games/g/ghostrunner.md) | 0.50% |
+| 97 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.50% |
 | 99 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 100 | [Aragami 2](games/a/aragami_2.md) | 0.46% |
 | 101 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.45% |
@@ -143,11 +143,11 @@
 | 141 | [Dead Island 2](games/d/dead_island_2.md) | 0.14% |
 | 141 | [Isonzo](games/i/isonzo.md) | 0.14% |
 | 141 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
-| 144 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.13% |
 | 144 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.13% |
 | 144 | [Weird West](games/w/weird_west.md) | 0.13% |
-| 147 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
-| 147 | [Partisans 1941](games/p/partisans_1941.md) | 0.12% |
+| 146 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.12% |
+| 146 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
+| 146 | [Partisans 1941](games/p/partisans_1941.md) | 0.12% |
 | 149 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
 | 150 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 150 | [House Flipper](games/h/house_flipper.md) | 0.10% |

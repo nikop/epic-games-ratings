@@ -1,12 +1,12 @@
 # Shadow Tactics: Blades of the Shogun
-Rating: 4.66 (Ranked 273)  
+Rating: 4.66 (Ranked 272)  
 Number of Ratings: 495  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 547  (Ranked 172)  
 Sum: 4,641 (Ranked 125)  
 Diff (max vs sum): 47
 ## Popularity (Based on EOS Achievements)
-Progressed: 164,055 (Ranked 50)  
+Progressed: 164,065 (Ranked 50)  
 Completed: 41 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -19,7 +19,7 @@ Completed: 41 (0.02%) (Ranked 175)
 | 2023-04-30 | 163,302 | 41 |
 | 2023-05-01 | 163,668 | 41 |
 | 2023-05-02 | 163,962 | 41 |
-| 2023-05-03 | 164,055 | 41 |
+| 2023-05-03 | 164,065 | 41 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

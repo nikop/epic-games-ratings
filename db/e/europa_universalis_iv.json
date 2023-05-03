@@ -60,7 +60,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4066
+      "Count": 4069
     },
     {
       "Text": "This game has Unique Visuals",
@@ -983,6 +983,11 @@
     {
       "Time": "2023-05-03T10:02:21.0804784+00:00",
       "NumProgressed": 28326,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-03T11:02:26.4311291+00:00",
+      "NumProgressed": 28348,
       "NumCompleted": 0
     }
   ],
@@ -5261,21 +5266,27 @@
       "Rating": 4.68,
       "NumberOfAwards": 42621,
       "NumberOfAwardsMax": 5151
+    },
+    {
+      "Time": "2023-05-03T10:56:59.3702346+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 42624,
+      "NumberOfAwardsMax": 5151
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 6965,
+  "EOS_NewPlayers": 6948,
   "EOS_Completed": 0,
-  "EOS_Progressed": 28326,
-  "LastUpdate_Achievements": "2023-05-03T10:02:21.0804849+00:00",
-  "LastUpdate_Ratings": "2023-05-03T09:57:06.583285+00:00",
-  "LastChanged_Achievements": "2023-05-03T10:02:21.080478+00:00",
-  "LastChanged": "2023-05-03T05:56:58.5879108+00:00",
+  "EOS_Progressed": 28348,
+  "LastUpdate_Achievements": "2023-05-03T11:02:26.4311383+00:00",
+  "LastUpdate_Ratings": "2023-05-03T10:56:59.3702352+00:00",
+  "LastChanged_Achievements": "2023-05-03T11:02:26.4311284+00:00",
+  "LastChanged": "2023-05-03T10:56:59.3702343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "MaxAwardTitle": "Educational",
   "NumberOfAwardsMax": 5151,
-  "NumberOfAwards": 42621,
+  "NumberOfAwards": 42624,
   "NumberOfRatings": 8414,
   "Ranking_EOS_NewCompleters": 82,
   "Ranking_EOS_NewPlayers": 16,

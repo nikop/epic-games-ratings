@@ -54,7 +54,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 618
+      "Count": 619
     },
     {
       "Text": "This game has Amazing Characters",
@@ -982,6 +982,11 @@
     {
       "Time": "2023-05-03T10:04:18.9733592+00:00",
       "NumProgressed": 3492996,
+      "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-03T11:04:39.9545266+00:00",
+      "NumProgressed": 3493008,
       "NumCompleted": 22
     }
   ],
@@ -4172,21 +4177,27 @@
       "Rating": 4.66,
       "NumberOfAwards": 7717,
       "NumberOfAwardsMax": 1032
+    },
+    {
+      "Time": "2023-05-03T10:59:06.240702+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 7718,
+      "NumberOfAwardsMax": 1032
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 3106,
+  "EOS_NewPlayers": 3110,
   "EOS_Completed": 22,
-  "EOS_Progressed": 3492996,
-  "LastUpdate_Achievements": "2023-05-03T10:04:18.973366+00:00",
-  "LastUpdate_Ratings": "2023-05-03T09:58:48.9397976+00:00",
-  "LastChanged_Achievements": "2023-05-03T10:04:18.9733543+00:00",
-  "LastChanged": "2023-05-01T20:59:42.3901192+00:00",
+  "EOS_Progressed": 3493008,
+  "LastUpdate_Achievements": "2023-05-03T11:04:39.9545367+00:00",
+  "LastUpdate_Ratings": "2023-05-03T10:59:06.2407028+00:00",
+  "LastChanged_Achievements": "2023-05-03T11:04:39.954526+00:00",
+  "LastChanged": "2023-05-03T10:59:06.2407017+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.9861995+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 1032,
-  "NumberOfAwards": 7717,
+  "NumberOfAwards": 7718,
   "NumberOfRatings": 12155,
   "Ranking_EOS_NewCompleters": 53,
   "Ranking_EOS_NewPlayers": 24,
@@ -4194,7 +4205,7 @@
   "Ranking_EOS_Progress": 3,
   "Ranking_PopularitySum": 92,
   "Ranking_Popularity": 131,
-  "Ranking_Rating": 273,
+  "Ranking_Rating": 272,
   "Rating": 4.66,
   "FirstSeen": "2022-07-22T20:21:06.3204437+00:00"
 }

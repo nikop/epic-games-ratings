@@ -1,5 +1,5 @@
 # High On Life
-Rating: 4.67 (Ranked 256)  
+Rating: 4.67 (Ranked 255)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 489)  
 Sum: 0 (Ranked 489)  

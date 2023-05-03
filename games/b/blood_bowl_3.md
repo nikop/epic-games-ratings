@@ -1,5 +1,5 @@
 # Blood Bowl 3	
-Rating: 3.45 (Ranked 912)  
+Rating: 3.45 (Ranked 913)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 489)  
 Sum: 0 (Ranked 489)  
