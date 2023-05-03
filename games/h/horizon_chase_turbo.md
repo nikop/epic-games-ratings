@@ -1,12 +1,12 @@
 # Horizon Chase Turbo
-Rating: 4.56 (Ranked 447)  
+Rating: 4.57 (Ranked 428)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 133  (Ranked 289)  
 Sum: 1,070 (Ranked 224)  
 Diff (max vs sum): 65
 ## Popularity (Based on EOS Achievements)
-Progressed: 723,795 (Ranked 12)  
+Progressed: 723,827 (Ranked 12)  
 Completed: 230 (0.03%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -19,7 +19,7 @@ Completed: 230 (0.03%) (Ranked 173)
 | 2023-04-30 | 721,642 | 229 |
 | 2023-05-01 | 722,689 | 229 |
 | 2023-05-02 | 723,454 | 229 |
-| 2023-05-03 | 723,795 | 230 |
+| 2023-05-03 | 723,827 | 230 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -140,3 +140,4 @@ Completed: 230 (0.03%) (Ranked 173)
 | 2023-04-29 | 4.56 | - | 133 | 1,067 |
 | 2023-05-01 | 4.56 | - | 133 | 1,069 |
 | 2023-05-02 | 4.56 | - | 133 | 1,070 |
+| 2023-05-03 | 4.57 | - | 133 | 1,070 |

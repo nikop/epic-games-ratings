@@ -42,7 +42,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 7093
+      "Count": 7110
     },
     {
       "Text": "This game is Great for Beginners",
@@ -985,6 +985,11 @@
       "Time": "2023-05-03T12:01:06.4235997+00:00",
       "NumProgressed": 797592,
       "NumCompleted": 1560
+    },
+    {
+      "Time": "2023-05-03T13:07:35.4714614+00:00",
+      "NumProgressed": 797605,
+      "NumCompleted": 1561
     }
   ],
   "RatingHistory": [
@@ -6131,21 +6136,27 @@
       "Rating": 4.62,
       "NumberOfAwards": 165860,
       "NumberOfAwardsMax": 63500
+    },
+    {
+      "Time": "2023-05-03T13:03:11.7250404+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 165877,
+      "NumberOfAwardsMax": 63500
     }
   ],
   "EOS_Completed_Percentage": 0.2,
-  "EOS_NewCompleters": 23,
-  "EOS_NewPlayers": 1822,
-  "EOS_Completed": 1560,
-  "EOS_Progressed": 797592,
-  "LastUpdate_Achievements": "2023-05-03T12:01:06.4236097+00:00",
-  "LastUpdate_Ratings": "2023-05-03T11:57:26.7711254+00:00",
-  "LastChanged_Achievements": "2023-05-03T12:01:06.4235984+00:00",
-  "LastChanged": "2023-05-03T10:57:26.303797+00:00",
+  "EOS_NewCompleters": 24,
+  "EOS_NewPlayers": 1819,
+  "EOS_Completed": 1561,
+  "EOS_Progressed": 797605,
+  "LastUpdate_Achievements": "2023-05-03T13:07:35.4714748+00:00",
+  "LastUpdate_Ratings": "2023-05-03T13:03:11.725041+00:00",
+  "LastChanged_Achievements": "2023-05-03T13:07:35.4714607+00:00",
+  "LastChanged": "2023-05-03T13:03:11.7250403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 63500,
-  "NumberOfAwards": 165860,
+  "NumberOfAwards": 165877,
   "NumberOfRatings": 32700,
   "Ranking_EOS_NewCompleters": 9,
   "Ranking_EOS_NewPlayers": 35,

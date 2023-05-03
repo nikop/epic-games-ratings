@@ -2,14 +2,14 @@
 | - | ---- | --------- |
 | 1 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.00% |
 | 1 | [Overloop](games/o/overloop.md) | 25.00% |
-| 3 | [Doodle Devil](games/d/doodle_devil.md) | 19.44% |
-| 4 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 5 | [Island Cities](games/i/island_cities.md) | 18.00% |
-| 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 16.00% |
+| 3 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 20.00% |
+| 4 | [Doodle Devil](games/d/doodle_devil.md) | 19.44% |
+| 5 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
+| 6 | [Island Cities](games/i/island_cities.md) | 17.65% |
 | 7 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.93% |
 | 9 | [Them and Us](games/t/them_and_us.md) | 12.50% |
-| 10 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.88% |
+| 10 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.93% |
 | 11 | [Ravenlok](games/r/ravenlok.md) | 11.67% |
 | 12 | [Smelter](games/s/smelter.md) | 10.00% |
 | 13 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
@@ -18,8 +18,8 @@
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.57% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.16% |
-| 20 | [Scorn](games/s/scorn.md) | 7.14% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.14% |
+| 20 | [Scorn](games/s/scorn.md) | 7.13% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 23 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.02% |
@@ -39,7 +39,7 @@
 | 37 | [The Bunker](games/t/the_bunker.md) | 3.37% |
 | 38 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 39 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.23% |
-| 40 | [HordeCore](games/h/hordecore.md) | 3.06% |
+| 40 | [HordeCore](games/h/hordecore.md) | 3.05% |
 | 41 | [Lamentum](games/l/lamentum.md) | 3.02% |
 | 42 | [MultiVersus](games/m/multiversus.md) | 2.96% |
 | 43 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.94% |
@@ -237,6 +237,7 @@
 | 191 | [Don't Byte Your Tongue](games/d/don't_byte_your_tongue.md) | 0.00% |
 | 191 | [Dungeon Drafters](games/d/dungeon_drafters.md) | 0.00% |
 | 191 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 0.00% |
+| 191 | [EBOLA 2](games/e/ebola_2.md) | 0.00% |
 | 191 | [EBOLA 3](games/e/ebola_3.md) | 0.00% |
 | 191 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 0.00% |
 | 191 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 0.00% |
@@ -372,4 +373,4 @@
 | 191 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 191 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 191 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,543 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,545 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
