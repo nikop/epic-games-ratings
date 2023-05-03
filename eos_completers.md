@@ -18,7 +18,7 @@
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
 | 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.57% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.33% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.24% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.23% |
 | 20 | [Scorn](games/s/scorn.md) | 7.14% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
@@ -62,7 +62,7 @@
 | 60 | [Night Book](games/n/night_book.md) | 1.68% |
 | 61 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
 | 62 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.64% |
-| 63 | [Somerville](games/s/somerville.md) | 1.62% |
+| 63 | [Somerville](games/s/somerville.md) | 1.61% |
 | 64 | [Frogun](games/f/frogun.md) | 1.56% |
 | 65 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.54% |
 | 66 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.52% |

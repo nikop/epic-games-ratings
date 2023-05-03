@@ -1,5 +1,5 @@
 # Duskers
-Rating: 4.45 (Ranked 601)  
+Rating: 4.45 (Ranked 600)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 489)  
 Sum: 0 (Ranked 489)  
