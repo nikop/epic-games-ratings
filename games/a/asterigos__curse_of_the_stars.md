@@ -1,5 +1,5 @@
 # Asterigos: Curse of the Stars
-Rating: 4.40 (Ranked 665)  
+Rating: 4.40 (Ranked 664)  
 ## Popularity (Based on Awards)
 Max (): 0  (Ranked 489)  
 Sum: 0 (Ranked 489)  

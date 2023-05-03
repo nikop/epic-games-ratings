@@ -627,6 +627,11 @@
       "Time": "2023-05-02T22:02:13.8896817+00:00",
       "NumProgressed": 425,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-05-03T00:02:18.583073+00:00",
+      "NumProgressed": 426,
+      "NumCompleted": 31
     }
   ],
   "RatingHistory": [
@@ -637,14 +642,14 @@
       "NumberOfAwardsMax": 0
     }
   ],
-  "EOS_Completed_Percentage": 7.29,
+  "EOS_Completed_Percentage": 7.28,
   "EOS_NewCompleters": 31,
-  "EOS_NewPlayers": 414,
+  "EOS_NewPlayers": 415,
   "EOS_Completed": 31,
-  "EOS_Progressed": 425,
-  "LastUpdate_Achievements": "2023-05-02T23:02:23.1023314+00:00",
-  "LastUpdate_Ratings": "2023-05-02T22:57:01.0383191+00:00",
-  "LastChanged_Achievements": "2023-05-02T23:02:23.1023249+00:00",
+  "EOS_Progressed": 426,
+  "LastUpdate_Achievements": "2023-05-03T00:02:18.5831022+00:00",
+  "LastUpdate_Ratings": "2023-05-02T23:57:03.9714932+00:00",
+  "LastChanged_Achievements": "2023-05-03T00:02:18.583072+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",

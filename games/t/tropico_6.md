@@ -3,7 +3,7 @@ Rating: 4.67 (Ranked 256)
 Number of Ratings: 398  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 104  (Ranked 312)  
-Sum: 745 (Ranked 253)  
+Sum: 747 (Ranked 253)  
 Diff (max vs sum): 59
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,623 (Ranked 133)  
@@ -23,8 +23,8 @@ Completed: 1 (0.04%) (Ranked 167)
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 104 |
-| This game has Quickly Understood Controls | 91 |
-| This game is Relaxing | 88 |
+| This game has Quickly Understood Controls | 92 |
+| This game is Relaxing | 89 |
 | This game is Highly Recommended | 83 |
 | This game has Amazing Storytelling | 82 |
 | This game is Educational | 81 |
@@ -126,3 +126,4 @@ Completed: 1 (0.04%) (Ranked 167)
 | 2023-04-25 | 4.67 | - | 103 | 743 |
 | 2023-04-29 | 4.67 | - | 103 | 744 |
 | 2023-05-01 | 4.67 | - | 104 | 745 |
+| 2023-05-03 | 4.67 | - | 104 | 747 |
