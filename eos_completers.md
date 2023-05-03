@@ -5,21 +5,21 @@
 | 3 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.00% |
 | 4 | [Doodle Devil](games/d/doodle_devil.md) | 19.44% |
 | 5 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 6 | [Island Cities](games/i/island_cities.md) | 17.65% |
+| 6 | [Island Cities](games/i/island_cities.md) | 18.52% |
 | 7 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.93% |
 | 9 | [Them and Us](games/t/them_and_us.md) | 12.50% |
 | 10 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.98% |
-| 11 | [Ravenlok](games/r/ravenlok.md) | 11.48% |
+| 11 | [Ravenlok](games/r/ravenlok.md) | 10.77% |
 | 12 | [Smelter](games/s/smelter.md) | 10.00% |
 | 13 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.43% |
 | 14 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 15 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.55% |
+| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.52% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 19 | [Scorn](games/s/scorn.md) | 7.13% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.03% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.00% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 23 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.02% |
@@ -93,7 +93,7 @@
 | 91 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.67% |
 | 91 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.67% |
 | 93 | [The Surge 2](games/t/the_surge_2.md) | 0.65% |
-| 94 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
+| 94 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
 | 95 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.52% |
 | 95 | [Grindstone](games/g/grindstone.md) | 0.52% |
 | 97 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.51% |
@@ -153,9 +153,9 @@
 | 150 | [House Flipper](games/h/house_flipper.md) | 0.10% |
 | 150 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |
 | 150 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.10% |
-| 154 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 154 | [Fall Guys](games/f/fall_guys.md) | 0.09% |
-| 154 | [Supraland](games/s/supraland.md) | 0.09% |
+| 150 | [Supraland](games/s/supraland.md) | 0.10% |
+| 155 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 155 | [Fall Guys](games/f/fall_guys.md) | 0.09% |
 | 157 | [Riverbond](games/r/riverbond.md) | 0.08% |
 | 157 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
 | 159 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |

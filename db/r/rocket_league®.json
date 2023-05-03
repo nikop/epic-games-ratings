@@ -1018,6 +1018,11 @@
       "Time": "2023-05-03T17:04:37.428273+00:00",
       "NumProgressed": 23533538,
       "NumCompleted": 1253
+    },
+    {
+      "Time": "2023-05-03T18:03:58.2543563+00:00",
+      "NumProgressed": 23534307,
+      "NumCompleted": 1253
     }
   ],
   "RatingHistory": [
@@ -5252,12 +5257,12 @@
   ],
   "EOS_Completed_Percentage": 0.01,
   "EOS_NewCompleters": 17,
-  "EOS_NewPlayers": 113979,
+  "EOS_NewPlayers": 113834,
   "EOS_Completed": 1253,
-  "EOS_Progressed": 23533538,
-  "LastUpdate_Achievements": "2023-05-03T17:04:37.4282863+00:00",
-  "LastUpdate_Ratings": "2023-05-03T16:59:13.4178396+00:00",
-  "LastChanged_Achievements": "2023-05-03T17:04:37.4282721+00:00",
+  "EOS_Progressed": 23534307,
+  "LastUpdate_Achievements": "2023-05-03T18:03:58.254365+00:00",
+  "LastUpdate_Ratings": "2023-05-03T17:58:33.4829087+00:00",
+  "LastChanged_Achievements": "2023-05-03T18:03:58.2543558+00:00",
   "LastChanged": "2023-05-02T20:58:21.5953162+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.1822521+00:00",
   "MaxAwardTitle": "Great for Quick Sessions",
