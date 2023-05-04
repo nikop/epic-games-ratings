@@ -19,7 +19,7 @@
 | 17 | [Dauntless](games/d/dauntless.md) | 19,675 | 4.53 | 488 |
 | 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 18,359 | 4.77 | 103 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,157 | 4.57 | 428 |
-| 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 14,913 | 4.89 | 12 |
+| 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 14,931 | 4.89 | 12 |
 | 21 | [Warframe](games/w/warframe.md) | 14,502 | 4.61 | 353 |
 | 22 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,332 | 4.58 | 414 |
 | 23 | [Borderlands 2](games/b/borderlands_2.md) | 14,080 | 4.76 | 113 |
@@ -43,7 +43,7 @@
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,513 | 4.85 | 37 |
 | 42 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,227 | 4.57 | 428 |
 | 43 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,133 | 4.71 | 178 |
-| 44 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,876 | 4.89 | 12 |
+| 44 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 6,880 | 4.89 | 12 |
 | 45 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 6,847 | 4.57 | 428 |
 | 46 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 641 |
 | 47 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,679 | 4.47 | 575 |
@@ -80,7 +80,7 @@
 | 78 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,587 | 4.30 | 750 |
 | 79 | [Gloomhaven](games/g/gloomhaven.md) | 3,437 | 4.47 | 575 |
 | 80 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,320 | 4.68 | 233 |
-| 81 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,250 | 4.46 | 590 |
+| 81 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,255 | 4.46 | 590 |
 | 82 | [Paladins](games/p/paladins.md) | 3,197 | 4.35 | 713 |
 | 83 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,170 | 4.75 | 127 |
 | 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,163 | 4.59 | 395 |
@@ -93,7 +93,7 @@
 | 91 | [Rage 2](games/r/rage_2.md) | 2,435 | 4.28 | 764 |
 | 92 | [Among Us](games/a/among_us.md) | 2,390 | 4.58 | 414 |
 | 93 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,346 | 4.80 | 78 |
-| 94 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,283 | 4.50 | 530 |
+| 94 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,286 | 4.50 | 530 |
 | 95 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,251 | 4.10 | 850 |
 | 96 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,235 | 4.79 | 91 |
 | 97 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,212 | 4.67 | 255 |
@@ -211,7 +211,7 @@
 | 209 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 349 | 4.61 | 353 |
 | 210 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 341 | 4.32 | 737 |
 | 211 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 335 | 4.70 | 192 |
-| 212 | [Dishonored 2](games/d/dishonored_2.md) | 331 | 4.80 | 78 |
+| 212 | [Dishonored 2](games/d/dishonored_2.md) | 333 | 4.80 | 78 |
 | 213 | [Inscryption](games/i/inscryption.md) | 330 | 4.86 | 28 |
 | 214 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 324 | 4.76 | 113 |
 | 215 | [Tannenberg](games/t/tannenberg.md) | 321 | 4.39 | 679 |

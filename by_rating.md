@@ -11,12 +11,12 @@
 | 7 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 490 |
 | 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,793 | 106 |
 | 7 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 490 |
-| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,876 | 44 |
+| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 6,880 | 44 |
 | 12 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 490 |
 | 12 | [Firework](games/f/firework.md) | 4.89 | 0 | 490 |
 | 12 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 138,269 | 6 |
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 404 | 196 |
-| 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 14,913 | 20 |
+| 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 14,931 | 20 |
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 128 | 292 |
 | 18 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 249 | 236 |
 | 18 | [God of War](games/g/god_of_war.md) | 4.88 | 3,969 | 73 |
@@ -77,7 +77,7 @@
 | 71 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 0 | 490 |
 | 71 | [Sailing Era](games/s/sailing_era.md) | 4.81 | 0 | 490 |
 | 71 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.81 | 0 | 490 |
-| 78 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 331 | 212 |
+| 78 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 333 | 212 |
 | 78 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,250 | 50 |
 | 78 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 158 | 279 |
 | 78 | [Journey](games/j/journey.md) | 4.80 | 0 | 490 |
@@ -535,7 +535,7 @@
 | 530 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 490 |
 | 530 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 33,509 | 12 |
 | 530 | [Far Cry](games/f/far_cry.md) | 4.50 | 0 | 490 |
-| 530 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,283 | 94 |
+| 530 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,286 | 94 |
 | 530 | [Horace](games/h/horace.md) | 4.50 | 0 | 490 |
 | 530 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 0 | 490 |
 | 530 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 97 | 325 |
@@ -590,7 +590,7 @@
 | 575 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 490 |
 | 575 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 0 | 490 |
 | 590 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 490 |
-| 590 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,250 | 81 |
+| 590 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,255 | 81 |
 | 590 | [Figment](games/f/figment.md) | 4.46 | 20 | 482 |
 | 590 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 106 | 313 |
 | 590 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.46 | 0 | 490 |
@@ -910,6 +910,6 @@
 | 907 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 490 |
 | 907 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.75 | 47 | 394 |
 | 910 | [Blood of Steel](games/b/blood_of_steel.md) | 3.67 | 0 | 490 |
-| 911 | [Adios](games/a/adios.md) | 3.50 | 0 | 490 |
-| 912 | [Poker Club](games/p/poker_club.md) | 3.47 | 0 | 490 |
+| 911 | [Poker Club](games/p/poker_club.md) | 3.62 | 0 | 490 |
+| 912 | [Adios](games/a/adios.md) | 3.50 | 0 | 490 |
 | 913 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.45 | 0 | 490 |
