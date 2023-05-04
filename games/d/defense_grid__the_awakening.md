@@ -96,7 +96,7 @@ Diff (max vs sum): 42
 | Contains Trace Amounts of Gold | 0.10 |
 | You Monster | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 475,751 (Ranked 25)  
+Progressed: 475,752 (Ranked 25)  
 Completed: 4 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 4 (0.00%) (Ranked 191)
 | 2023-05-01 | 475,533 | 4 |
 | 2023-05-02 | 475,627 | 4 |
 | 2023-05-03 | 475,693 | 4 |
-| 2023-05-04 | 475,751 | 4 |
+| 2023-05-04 | 475,752 | 4 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

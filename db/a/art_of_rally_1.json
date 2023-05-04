@@ -390,6 +390,11 @@
       "Time": "2023-05-04T15:01:33.5670369+00:00",
       "NumProgressed": 9974,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-04T19:39:31.2899146+00:00",
+      "NumProgressed": 9975,
+      "NumCompleted": 9
     }
   ],
   "RatingHistory": [
@@ -567,18 +572,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 43,
-  "LastChanged_Achievements": "2023-05-04T19:15:16.5766012+00:00",
+  "LastChanged_Achievements": "2023-05-04T19:39:31.2899142+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_Completed": 9,
-  "EOS_Progressed": 9974,
-  "LastUpdate_Achievements": "2023-05-04T19:15:16.5766354+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:12:06.5971891+00:00",
+  "EOS_Progressed": 9975,
+  "LastUpdate_Achievements": "2023-05-04T19:39:31.2899466+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:32:14.6991994+00:00",
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 9974,
+      "Progressed": 9975,
       "Completed": 9
     }
   ],
@@ -589,7 +594,7 @@
   "NumberOfAwards": 0,
   "NumberOfRatings": 56,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_Progress": 105,
   "Ranking_PopularitySum": 490,

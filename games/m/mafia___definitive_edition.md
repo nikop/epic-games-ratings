@@ -1,5 +1,5 @@
 # Mafia : Definitive Edition
-Rating: 4.62 (Ranked 337)  
+Rating: 4.62 (Ranked 338)  
 Number of Ratings: 2,035  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 581  (Ranked 167)  

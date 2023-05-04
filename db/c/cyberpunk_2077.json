@@ -358,7 +358,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 7227
+      "Count": 7241
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1439,6 +1439,11 @@
     {
       "Time": "2023-05-04T19:15:06.8369935+00:00",
       "NumProgressed": 797859,
+      "NumCompleted": 1566
+    },
+    {
+      "Time": "2023-05-04T19:39:28.9911369+00:00",
+      "NumProgressed": 797862,
       "NumCompleted": 1566
     }
   ],
@@ -6652,31 +6657,37 @@
       "Rating": 4.62,
       "NumberOfAwards": 166142,
       "NumberOfAwardsMax": 63570
+    },
+    {
+      "Time": "2023-05-04T19:32:33.0859145+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 166156,
+      "NumberOfAwardsMax": 63570
     }
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 44,
-  "LastChanged_Achievements": "2023-05-04T19:15:06.8369907+00:00",
+  "LastChanged_Achievements": "2023-05-04T19:39:28.9911353+00:00",
   "EOS_NewCompleters": 24,
-  "EOS_NewPlayers": 1740,
+  "EOS_NewPlayers": 1731,
   "EOS_Completed": 1566,
-  "EOS_Progressed": 797859,
-  "LastUpdate_Achievements": "2023-05-04T19:15:06.8370357+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:12:25.2108982+00:00",
+  "EOS_Progressed": 797862,
+  "LastUpdate_Achievements": "2023-05-04T19:39:28.99118+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:32:33.0859151+00:00",
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 797859,
+      "Progressed": 797862,
       "Completed": 1566
     }
   ],
   "EOS_Completed_Percentage": 0.2,
-  "LastChanged": "2023-05-04T17:57:35.7240891+00:00",
+  "LastChanged": "2023-05-04T19:32:33.0859144+00:00",
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 63570,
-  "NumberOfAwards": 166142,
+  "NumberOfAwards": 166156,
   "NumberOfRatings": 32700,
   "Ranking_EOS_NewCompleters": 9,
   "Ranking_EOS_NewPlayers": 35,
@@ -6684,7 +6695,7 @@
   "Ranking_EOS_Progress": 10,
   "Ranking_PopularitySum": 13,
   "Ranking_Popularity": 9,
-  "Ranking_Rating": 337,
+  "Ranking_Rating": 338,
   "Rating": 4.62,
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00"
 }

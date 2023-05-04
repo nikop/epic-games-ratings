@@ -1,5 +1,5 @@
 # UNO Standard Edition
-Rating: 4.49 (Ranked 547)  
+Rating: 4.47 (Ranked 573)  
 Number of Ratings: 58  (23.09.2022)  
 ## Achievements
 | Name | Percentage |
@@ -60,3 +60,4 @@ Number of Ratings: 58  (23.09.2022)
 | 2023-03-31 | 4.49 | - | 0 | 0 |
 | 2023-04-04 | 4.48 | - | 0 | 0 |
 | 2023-04-10 | 4.49 | - | 0 | 0 |
+| 2023-05-04 | 4.47 | - | 0 | 0 |

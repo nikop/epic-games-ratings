@@ -2,7 +2,7 @@
 ## Achievements
 | Name | Percentage |
 | ---- | ---------- |
-| ROOKIE | 50.00 |
+| ROOKIE | 51.00 |
 | EXTRA BOOST | 39.00 |
 | IT MAKES BOOM! | 39.00 |
 | PRO | 29.00 |

@@ -26,9 +26,9 @@ Diff (max vs sum): 52
 | Factory farming | 34.00 |
 | Not-So-Overproud | 32.00 |
 | For a handfull of Catapults | 31.00 |
+| Thirst quencher | 30.00 |
 | Ogre Solo! | 30.00 |
 | Shadow hunter | 30.00 |
-| Thirst quencher | 29.00 |
 | Destroy the thing | 28.00 |
 | Tide Master | 28.00 |
 | Difficult family relationships | 27.00 |
@@ -64,12 +64,12 @@ Diff (max vs sum): 52
 | Night of the Living Dead (on Speed) | 4.00 |
 | I need a hero! | 4.00 |
 | Storm And Stress | 3.00 |
-| Not a scratch | 3.00 |
 | I love the smell of Catapult fire! | 3.00 |
 | Discoverer | 2.00 |
+| Not a scratch | 2.00 |
 | Sacrifices! | 2.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,639 (Ranked 96)  
+Progressed: 14,642 (Ranked 96)  
 Completed: 140 (0.96%) (Ranked 78)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 140 (0.96%) (Ranked 78)
 | 2023-05-01 | 14,317 | 137 |
 | 2023-05-02 | 14,456 | 139 |
 | 2023-05-03 | 14,554 | 140 |
-| 2023-05-04 | 14,639 | 140 |
+| 2023-05-04 | 14,642 | 140 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -42,7 +42,7 @@ Rating: 4.25 (Ranked 775)
 | Tournament Master | 0.00 |
 | Tournament Pro | 0.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156,351 (Ranked 52)  
+Progressed: 156,366 (Ranked 52)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,7 +56,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 154,135 | 0 |
 | 2023-05-02 | 154,972 | 0 |
 | 2023-05-03 | 155,748 | 0 |
-| 2023-05-04 | 156,351 | 0 |
+| 2023-05-04 | 156,366 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

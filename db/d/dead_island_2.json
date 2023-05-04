@@ -132,7 +132,7 @@
       "ID": "ach_hazardous_materials",
       "SetID": "7km39fm",
       "Name": "Hazardous Materials",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10
     },
     {
@@ -1449,6 +1449,11 @@
       "Time": "2023-05-04T19:18:13.0143574+00:00",
       "NumProgressed": 453841,
       "NumCompleted": 677
+    },
+    {
+      "Time": "2023-05-04T19:39:42.90641+00:00",
+      "NumProgressed": 453972,
+      "NumCompleted": 678
     }
   ],
   "RatingHistory": [
@@ -1905,19 +1910,19 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 45,
-  "LastChanged_Achievements": "2023-05-04T19:18:13.0143567+00:00",
-  "EOS_NewCompleters": 469,
-  "EOS_NewPlayers": 95631,
-  "EOS_Completed": 677,
-  "EOS_Progressed": 453841,
-  "LastUpdate_Achievements": "2023-05-04T19:18:13.0143999+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:12:55.5192916+00:00",
+  "LastChanged_Achievements": "2023-05-04T19:39:42.9064095+00:00",
+  "EOS_NewCompleters": 465,
+  "EOS_NewPlayers": 94733,
+  "EOS_Completed": 678,
+  "EOS_Progressed": 453972,
+  "LastUpdate_Achievements": "2023-05-04T19:39:42.906453+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:33:04.8301514+00:00",
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 453841,
-      "Completed": 677
+      "Progressed": 453972,
+      "Completed": 678
     }
   ],
   "EOS_Completed_Percentage": 0.15,

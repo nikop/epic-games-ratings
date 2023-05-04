@@ -1,5 +1,5 @@
 # Surviving the Aftermath: Founder's Edition
-Rating: 4.47 (Ranked 574)  
+Rating: 4.47 (Ranked 573)  
 Number of Ratings: 836  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 99  (Ranked 321)  
@@ -34,8 +34,8 @@ Diff (max vs sum): 54
 | Real Survivor | 21.00 |
 | War Never Changes | 19.00 |
 | Rocket Surgeon | 19.00 |
+| Big Game Hunter | 17.00 |
 | Friendly | 16.00 |
-| Big Game Hunter | 16.00 |
 | Around the World | 15.00 |
 | Spreading Influence | 15.00 |
 | Bookworm | 14.00 |
@@ -68,7 +68,7 @@ Diff (max vs sum): 54
 | Choo-choo! | 0.10 |
 | Customized calamities | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,876 (Ranked 121)  
+Progressed: 4,877 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 4,775 | 0 |
 | 2023-05-02 | 4,817 | 0 |
 | 2023-05-03 | 4,851 | 0 |
-| 2023-05-04 | 4,876 | 0 |
+| 2023-05-04 | 4,877 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

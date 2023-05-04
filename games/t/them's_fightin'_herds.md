@@ -1,5 +1,5 @@
 # Them's Fightin' Herds
-Rating: 4.62 (Ranked 337)  
+Rating: 4.62 (Ranked 338)  
 ## Achievements
 | Name | Percentage |
 | ---- | ---------- |
@@ -32,7 +32,7 @@ Rating: 4.62 (Ranked 337)
 | Alpaca Space Program | 0.10 |
 | High Priestess | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,233 (Ranked 44)  
+Progressed: 220,234 (Ranked 44)  
 Completed: 2 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -46,7 +46,7 @@ Completed: 2 (0.00%) (Ranked 191)
 | 2023-05-01 | 220,014 | 2 |
 | 2023-05-02 | 220,094 | 2 |
 | 2023-05-03 | 220,170 | 2 |
-| 2023-05-04 | 220,233 | 2 |
+| 2023-05-04 | 220,234 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -9,7 +9,7 @@ Diff (max vs sum): -56
 | ---- | ---------- |
 | Hotel California | 88.00 |
 | Break A Leg | 84.00 |
-| Hazardous Materials | 75.00 |
+| Hazardous Materials | 76.00 |
 | Coup de Grâce | 71.00 |
 | Personal Assistant Personally Assisted | 70.00 |
 | Git Gutte! | 67.00 |
@@ -53,8 +53,8 @@ Diff (max vs sum): -56
 | Survival Skills | 3.00 |
 | Zombicidal Maniac | 0.60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 453,841 (Ranked 28)  
-Completed: 677 (0.15%) (Ranked 138)  
+Progressed: 453,972 (Ranked 28)  
+Completed: 678 (0.15%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -67,7 +67,7 @@ Completed: 677 (0.15%) (Ranked 138)
 | 2023-05-01 | 433,075 | 523 |
 | 2023-05-02 | 441,520 | 585 |
 | 2023-05-03 | 448,692 | 640 |
-| 2023-05-04 | 453,841 | 677 |
+| 2023-05-04 | 453,972 | 678 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

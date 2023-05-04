@@ -1,5 +1,5 @@
 # Universe Sandbox
-Rating: 4.62 (Ranked 337)  
+Rating: 4.63 (Ranked 328)  
 Number of Ratings: 63  (23.09.2022)  
 ## Achievements
 | Name | Percentage |
@@ -57,3 +57,4 @@ Number of Ratings: 63  (23.09.2022)
 | 2023-04-09 | 4.62 | - | 0 | 0 |
 | 2023-04-16 | 4.63 | - | 0 | 0 |
 | 2023-04-23 | 4.62 | - | 0 | 0 |
+| 2023-05-04 | 4.63 | - | 0 | 0 |

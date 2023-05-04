@@ -33,7 +33,7 @@ Diff (max vs sum): 53
 | NONE FORGOTTEN | 2.00 |
 | KINDRED SPIRITS | 0.50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,514 (Ranked 72)  
+Progressed: 52,519 (Ranked 72)  
 Completed: 238 (0.45%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -47,7 +47,7 @@ Completed: 238 (0.45%) (Ranked 101)
 | 2023-05-01 | 52,195 | 236 |
 | 2023-05-02 | 52,311 | 237 |
 | 2023-05-03 | 52,436 | 238 |
-| 2023-05-04 | 52,514 | 238 |
+| 2023-05-04 | 52,519 | 238 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

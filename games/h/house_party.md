@@ -4,6 +4,75 @@ Number of Ratings: 177  (23.09.2022)
 ## Achievements
 | Name | Percentage |
 | ---- | ---------- |
+| A Friend in Need... | 0.70 |
+| Smooth Operator: Madison | 0.60 |
+| Katherine | 0.40 |
+| Relentless | 0.40 |
+| Drunk and Disorderly: Stephanie | 0.30 |
+| Life Found a Way | 0.30 |
+| If at First You Don't Succeed... | 0.30 |
+| The Brahdyssey | 0.20 |
+| Caught in the Act | 0.20 |
+| IRL Let's Player | 0.20 |
+| The Crush | 0.20 |
+| Amy | 0.10 |
+| Amy: Scavenger Hunt | 0.10 |
+| Ashley | 0.10 |
+| Benedict Brahrnold | 0.10 |
+| I'll Be Back | 0.10 |
+| Beyond the Call of Dude-y | 0.10 |
+| The Bride | 0.10 |
+| Casabrova | 0.10 |
+| Casanova | 0.10 |
+| Drunk and Disorderly: Ashley | 0.10 |
+| Drunk and Disorderly: Madison | 0.10 |
+| Do Not Burn | 0.10 |
+| Doja's Dope-Ass Dinolicious Danceapalooza | 0.10 |
+| Duck n' Weave | 0.10 |
+| First Impressions | 0.10 |
+| I Know Grump-Fu | 0.10 |
+| The Harder They Fall...Dood | 0.10 |
+| Hijinks Averted | 0.10 |
+| Host Hijinks | 0.10 |
+| Ice Bath | 0.10 |
+| Inspector | 0.10 |
+| It Smells Like Roses | 0.10 |
+| Love Conquers All | 0.10 |
+| Money Shot | 0.10 |
+| Newcomer: Vickie | 0.10 |
+| Now It's a Party! | 0.10 |
+| Rule 34 | 0.10 |
+| Rachael | 0.10 |
+| Ronin | 0.10 |
+| Smooth Operator: Ashley | 0.10 |
+| Do You Smell Blood? | 0.10 |
+| Social Butterfly | 0.10 |
+| Stephanie | 0.10 |
+| A Striking Resemblance | 0.10 |
+| The Muse: Derek | 0.10 |
+| Howz It Goin Dood | 0.10 |
+| The Muse: Madison | 0.10 |
+| The Crush(es) | 0.10 |
+| The Magic Number | 0.10 |
+| Vickie | 0.10 |
+| La Coochadora | 0.10 |
+| The Elder Brahs | 0.10 |
+| Good Ol' Days | 0.10 |
+| Snapped | 0.10 |
+| Te Amo Lety | 0.10 |
+| Against All Odds | 0.00 |
+| Congrats, A Celebrity Hates You | 0.00 |
+| D-Club Certified | 0.00 |
+| Deck the Balls | 0.00 |
+| Good Riddance! | 0.00 |
+| Hungry Hungry Hot Tubs | 0.00 |
+| Notice Me, Sensei | 0.00 |
+| Party Pooper | 0.00 |
+| Sucker Punch | 0.00 |
+| That's a Nice Bush! | 0.00 |
+| The Most Wonderful Time of the Year | 0.00 |
+| Derezzed | 0.00 |
+| Simple Geometry | 0.00 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,937 (Ranked 120)  
 Completed: 2 (0.04%) (Ranked 167)  

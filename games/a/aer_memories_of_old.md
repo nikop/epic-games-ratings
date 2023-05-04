@@ -25,7 +25,7 @@ Number of Ratings: 170  (23.09.2022)
 | Ripples on the surface | 6.00 |
 | Hide and Seek | 5.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,476 (Ranked 108)  
+Progressed: 8,478 (Ranked 108)  
 Completed: 195 (2.30%) (Ranked 54)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -39,7 +39,7 @@ Completed: 195 (2.30%) (Ranked 54)
 | 2023-05-01 | 8,299 | 189 |
 | 2023-05-02 | 8,351 | 191 |
 | 2023-05-03 | 8,431 | 194 |
-| 2023-05-04 | 8,476 | 195 |
+| 2023-05-04 | 8,478 | 195 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

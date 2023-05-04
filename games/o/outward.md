@@ -15,9 +15,9 @@ Diff (max vs sum): 99
 | Tapped! | 35.00 |
 | Eureka | 31.00 |
 | Scourge Slayer | 25.00 |
-| Home Sweet Home | 23.00 |
 | Science, Troglodyte! | 23.00 |
 | Exceptional Skill | 22.00 |
+| Home Sweet Home | 22.00 |
 | Encyclopedic! | 20.00 |
 | A Fortress Toppled! | 16.00 |
 | Apex Predator | 16.00 |
@@ -51,7 +51,7 @@ Diff (max vs sum): 99
 | Master of Aurai | 0.30 |
 | The Absolute Pinnacle. | 0.30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,302 (Ranked 136)  
+Progressed: 2,303 (Ranked 136)  
 Completed: 1 (0.04%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 1 (0.04%) (Ranked 167)
 | 2023-05-01 | 2,292 | 1 |
 | 2023-05-02 | 2,295 | 1 |
 | 2023-05-03 | 2,298 | 1 |
-| 2023-05-04 | 2,302 | 1 |
+| 2023-05-04 | 2,303 | 1 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

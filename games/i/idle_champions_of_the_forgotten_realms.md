@@ -24,6 +24,7 @@ Diff (max vs sum): 24
 | Are Ya Chicken? | 0.30 |
 | Mad Cow Disease | 0.30 |
 | Friendly Imps | 0.30 |
+| Pure Energy | 0.30 |
 | Maddening | 0.20 |
 | Owlbear Necessities | 0.20 |
 | Best Thay Ever | 0.20 |
@@ -53,9 +54,9 @@ Diff (max vs sum): 24
 | The Contagious Curse | 0.20 |
 | An Even Worse Time in Avernus | 0.20 |
 | Escort to Waterdeep | 0.20 |
+| Constant Banditry | 0.20 |
 | Waterdeep Detours | 0.20 |
 | Underdeep Cartography | 0.20 |
-| Pure Energy | 0.20 |
 | The Templar's Camp | 0.20 |
 | Pros and CONs | 0.10 |
 | Upholding the Law | 0.10 |
@@ -408,7 +409,6 @@ Diff (max vs sum): 24
 | Mirage Arcane | 0.10 |
 | Only Human | 0.10 |
 | Close Escort | 0.10 |
-| Constant Banditry | 0.10 |
 | The Long Haul | 0.10 |
 | Lost in the Deep | 0.10 |
 | Easily Distracted | 0.10 |
@@ -498,7 +498,7 @@ Diff (max vs sum): 24
 | Overwhelming Force | 0.10 |
 | Rescue in the Jungle | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,466 (Ranked 59)  
+Progressed: 86,468 (Ranked 59)  
 Completed: 1,803 (2.09%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -512,7 +512,7 @@ Completed: 1,803 (2.09%) (Ranked 55)
 | 2023-05-01 | 86,219 | 1,795 |
 | 2023-05-02 | 86,310 | 1,797 |
 | 2023-05-03 | 86,391 | 1,800 |
-| 2023-05-04 | 86,466 | 1,803 |
+| 2023-05-04 | 86,468 | 1,803 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

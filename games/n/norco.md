@@ -1,5 +1,5 @@
 # NORCO
-Rating: 4.62 (Ranked 337)  
+Rating: 4.62 (Ranked 338)  
 ## Achievements
 | Name | Percentage |
 | ---- | ---------- |

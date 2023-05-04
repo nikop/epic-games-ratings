@@ -49,7 +49,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00 |
 | Anger Management | 1.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,686 (Ranked 80)  
+Progressed: 31,687 (Ranked 80)  
 Completed: 146 (0.46%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 146 (0.46%) (Ranked 100)
 | 2023-05-01 | 31,526 | 144 |
 | 2023-05-02 | 31,592 | 145 |
 | 2023-05-03 | 31,641 | 146 |
-| 2023-05-04 | 31,686 | 146 |
+| 2023-05-04 | 31,687 | 146 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

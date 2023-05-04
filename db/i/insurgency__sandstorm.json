@@ -277,7 +277,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 311
+      "Count": 314
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1380,6 +1380,11 @@
     {
       "Time": "2023-05-04T19:15:07.0267575+00:00",
       "NumProgressed": 361707,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-04T19:39:29.1330825+00:00",
+      "NumProgressed": 361719,
       "NumCompleted": 2
     }
   ],
@@ -3099,31 +3104,37 @@
       "Rating": 4.61,
       "NumberOfAwards": 2605,
       "NumberOfAwardsMax": 349
+    },
+    {
+      "Time": "2023-05-04T19:32:37.6032645+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2608,
+      "NumberOfAwardsMax": 349
     }
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 35,
-  "LastChanged_Achievements": "2023-05-04T19:15:07.0267559+00:00",
+  "LastChanged_Achievements": "2023-05-04T19:39:29.1330801+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 3900,
+  "EOS_NewPlayers": 3895,
   "EOS_Completed": 2,
-  "EOS_Progressed": 361707,
-  "LastUpdate_Achievements": "2023-05-04T19:15:07.0267915+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:12:29.9416449+00:00",
+  "EOS_Progressed": 361719,
+  "LastUpdate_Achievements": "2023-05-04T19:39:29.1331166+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:32:37.6032651+00:00",
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 361707,
+      "Progressed": 361719,
       "Completed": 2
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T14:57:53.2578409+00:00",
+  "LastChanged": "2023-05-04T19:32:37.6032642+00:00",
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "MaxAwardTitle": "Quickly Understood Controls",
   "NumberOfAwardsMax": 349,
-  "NumberOfAwards": 2605,
+  "NumberOfAwards": 2608,
   "NumberOfRatings": 1316,
   "Ranking_EOS_NewCompleters": 79,
   "Ranking_EOS_NewPlayers": 19,

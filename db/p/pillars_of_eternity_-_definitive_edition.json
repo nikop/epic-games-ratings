@@ -83,7 +83,7 @@
       "ID": "achievement_12",
       "SetID": "70p237j",
       "Name": "5 Upgrades in Stronghold",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5
     },
     {
@@ -411,6 +411,11 @@
     {
       "Time": "2023-04-25T16:10:37.752475+00:00",
       "NumProgressed": 1074,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-04T19:39:42.536731+00:00",
+      "NumProgressed": 1075,
       "NumCompleted": 4
     }
   ],
@@ -2695,18 +2700,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 48,
-  "LastChanged_Achievements": "2023-05-04T19:18:11.2588159+00:00",
+  "LastChanged_Achievements": "2023-05-04T19:39:42.5367305+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_Completed": 4,
-  "EOS_Progressed": 1074,
-  "LastUpdate_Achievements": "2023-05-04T19:18:11.2588602+00:00",
-  "LastUpdate_Ratings": "2023-05-04T19:12:15.1515732+00:00",
+  "EOS_Progressed": 1075,
+  "LastUpdate_Achievements": "2023-05-04T19:39:42.5367714+00:00",
+  "LastUpdate_Ratings": "2023-05-04T19:32:23.928918+00:00",
   "AchievementSets": [
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1074,
+      "Progressed": 1075,
       "Completed": 4
     }
   ],
@@ -2718,7 +2723,7 @@
   "NumberOfAwards": 4591,
   "NumberOfRatings": 2847,
   "Ranking_EOS_NewCompleters": 79,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_Completed": 107,
   "Ranking_EOS_Progress": 157,
   "Ranking_PopularitySum": 126,
