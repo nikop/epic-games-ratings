@@ -1,22 +1,22 @@
 # Car Mechanic Simulator 2018
-Rating: 4.49 (Ranked 544)  
+Rating: 4.49 (Ranked 547)  
 Number of Ratings: 38,343  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Relaxing): 1,970  (Ranked 102)  
-Sum: 15,338 (Ranked 59)  
+Max (Relaxing): 1,971  (Ranked 103)  
+Sum: 15,351 (Ranked 60)  
 Diff (max vs sum): 43
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 1,970 |
+| This game is Relaxing | 1,971 |
 | This game is Great for Beginners | 1,951 |
-| This game is Educational | 1,946 |
-| This game has Quickly Understood Controls | 1,908 |
-| This game is Extremely Fun | 1,803 |
-| This game is Highly Recommended | 1,748 |
-| This game has Amazing Storytelling | 1,686 |
+| This game is Educational | 1,947 |
+| This game has Quickly Understood Controls | 1,911 |
+| This game is Extremely Fun | 1,804 |
+| This game is Highly Recommended | 1,752 |
+| This game has Amazing Storytelling | 1,687 |
 | This game has Obsessive Gameplay | 1,598 |
-| This game has Amazing Characters | 1,253 |
+| This game has Amazing Characters | 1,255 |
 | This game has a Creative Community | 1,073 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -109,4 +109,9 @@ Diff (max vs sum): 43
 | 2023-04-25 | 4.49 | - | 1,968 | 15,332 |
 | 2023-04-26 | 4.49 | - | 1,970 | 15,336 |
 | 2023-04-27 | 4.49 | - | 1,970 | 15,337 |
-| 2023-04-28 | 4.49 | - | 1,970 | 15,338 |
+| 2023-04-28 | 4.49 | - | 1,970 | 15,339 |
+| 2023-04-29 | 4.49 | - | 1,971 | 15,342 |
+| 2023-04-30 | 4.49 | - | 1,971 | 15,345 |
+| 2023-05-01 | 4.49 | - | 1,971 | 15,348 |
+| 2023-05-02 | 4.49 | - | 1,971 | 15,350 |
+| 2023-05-04 | 4.49 | - | 1,971 | 15,351 |

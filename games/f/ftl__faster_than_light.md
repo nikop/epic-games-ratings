@@ -1,21 +1,21 @@
 # FTL: Faster Than Light
-Rating: 4.80 (Ranked 79)  
+Rating: 4.80 (Ranked 78)  
 Number of Ratings: 1,209  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Extremely Fun): 158  (Ranked 279)  
-Sum: 1,138 (Ranked 221)  
+Sum: 1,140 (Ranked 221)  
 Diff (max vs sum): 58
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 158 |
 | This game has Challenging Combat | 142 |
-| This game has Quickly Understood Controls | 131 |
+| This game has Quickly Understood Controls | 132 |
 | This game is Highly Recommended | 129 |
 | This game has Diverse Characters | 126 |
 | This game has Amazing Storytelling | 125 |
 | This game has Unique Visuals | 114 |
-| This game has Amazing Characters | 111 |
+| This game has Amazing Characters | 112 |
 | This game is Relaxing | 102 |
 | This game has Obsessive Gameplay | 89 |
 | This game has a Creative Community | 64 |
@@ -99,3 +99,5 @@ Diff (max vs sum): 58
 | 2023-04-19 | 4.80 | - | 158 | 1,136 |
 | 2023-04-20 | 4.80 | - | 158 | 1,137 |
 | 2023-04-25 | 4.80 | - | 158 | 1,138 |
+| 2023-04-28 | 4.80 | - | 158 | 1,139 |
+| 2023-05-01 | 4.80 | - | 158 | 1,140 |

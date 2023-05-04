@@ -1,17 +1,20 @@
 # Redout 2
-Rating: 4.46 (Ranked 587)  
+Rating: 4.45 (Ranked 599)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 957 (Ranked 160)  
-Completed: 0 (0.00%) (Ranked 190)  
+Progressed: 961 (Ranked 162)  
+Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 955 | 0 |
 | 2023-04-26 | 957 | 0 |
+| 2023-04-29 | 958 | 0 |
+| 2023-04-30 | 960 | 0 |
+| 2023-05-03 | 961 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -27,3 +30,4 @@ Completed: 0 (0.00%) (Ranked 190)
 | 2023-02-09 | 4.44 | - | - |
 | 2023-03-31 | 4.44 | 0 | 0 |
 | 2023-04-12 | 4.46 | 0 | 0 |
+| 2023-04-30 | 4.45 | 0 | 0 |

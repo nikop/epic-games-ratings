@@ -1,19 +1,25 @@
 # Haven
-Rating: 4.72 (Ranked 164)  
+Rating: 4.73 (Ranked 157)  
 Number of Ratings: 38  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,096 (Ranked 154)  
-Completed: 8 (0.73%) (Ranked 88)  
+Progressed: 1,103 (Ranked 156)  
+Completed: 8 (0.73%) (Ranked 90)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 1,094 | 8 |
 | 2023-04-26 | 1,095 | 8 |
 | 2023-04-27 | 1,096 | 8 |
+| 2023-04-29 | 1,098 | 8 |
+| 2023-04-30 | 1,099 | 8 |
+| 2023-05-01 | 1,100 | 8 |
+| 2023-05-02 | 1,101 | 8 |
+| 2023-05-03 | 1,102 | 8 |
+| 2023-05-04 | 1,103 | 8 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -49,3 +55,4 @@ Completed: 8 (0.73%) (Ranked 88)
 | 2023-01-15 | 4.75 | - | - | - |
 | 2023-03-31 | 4.75 | - | 0 | 0 |
 | 2023-04-14 | 4.72 | - | 0 | 0 |
+| 2023-04-29 | 4.73 | - | 0 | 0 |

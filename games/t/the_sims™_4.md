@@ -1,23 +1,23 @@
 # The Sims™ 4
-Rating: 4.60 (Ranked 377)  
+Rating: 4.60 (Ranked 379)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 136  (Ranked 287)  
-Sum: 874 (Ranked 236)  
-Diff (max vs sum): 51
+Max (Great for Beginners): 151  (Ranked 281)  
+Sum: 993 (Ranked 228)  
+Diff (max vs sum): 53
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 136 |
-| This game has Diverse Characters | 132 |
-| This game has a Creative Community | 83 |
-| This game is Educational | 71 |
-| This game is Highly Recommended | 68 |
-| This game has Quickly Understood Controls | 66 |
-| This game is Extremely Fun | 66 |
-| This game has Amazing Storytelling | 66 |
-| This game is Relaxing | 65 |
-| This game has Amazing Characters | 62 |
-| This game has Easy Combat | 59 |
+| This game is Great for Beginners | 151 |
+| This game has Diverse Characters | 147 |
+| This game has a Creative Community | 96 |
+| This game is Educational | 81 |
+| This game has Quickly Understood Controls | 78 |
+| This game has Amazing Characters | 76 |
+| This game is Highly Recommended | 75 |
+| This game has Amazing Storytelling | 74 |
+| This game is Relaxing | 73 |
+| This game is Extremely Fun | 72 |
+| This game has Easy Combat | 70 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -83,4 +83,10 @@ Diff (max vs sum): 51
 | 2023-04-25 | 4.60 | 120 | 789 |
 | 2023-04-26 | 4.60 | 125 | 812 |
 | 2023-04-27 | 4.60 | 132 | 853 |
-| 2023-04-28 | 4.60 | 136 | 874 |
+| 2023-04-28 | 4.60 | 136 | 888 |
+| 2023-04-29 | 4.60 | 140 | 922 |
+| 2023-04-30 | 4.60 | 145 | 943 |
+| 2023-05-01 | 4.60 | 145 | 954 |
+| 2023-05-02 | 4.60 | 145 | 963 |
+| 2023-05-03 | 4.60 | 147 | 982 |
+| 2023-05-04 | 4.60 | 151 | 993 |

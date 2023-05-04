@@ -1,18 +1,19 @@
 # Hardspace: Shipbreaker
-Rating: 4.65 (Ranked 287)  
+Rating: 4.65 (Ranked 290)  
 Number of Ratings: 36  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 596 (Ranked 176)  
-Completed: 0 (0.00%) (Ranked 190)  
+Progressed: 597 (Ranked 179)  
+Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 595 | 0 |
 | 2023-04-26 | 596 | 0 |
+| 2023-05-02 | 597 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

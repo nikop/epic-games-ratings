@@ -1,14 +1,14 @@
 # ELEX
-Rating: 4.42 (Ranked 640)  
+Rating: 4.42 (Ranked 641)  
 Number of Ratings: 58  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 23  (Ranked 465)  
-Sum: 23 (Ranked 468)  
+Max (Character Customization): 24  (Ranked 466)  
+Sum: 24 (Ranked 469)  
 Diff (max vs sum): -3
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 23 |
+| This game has Inclusive Character Customization | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -62,3 +62,4 @@ Diff (max vs sum): -3
 | 2023-02-26 | 4.42 | - | - | - |
 | 2023-04-06 | 4.41 | - | 23 | 23 |
 | 2023-04-20 | 4.42 | - | 23 | 23 |
+| 2023-04-30 | 4.42 | - | 24 | 24 |

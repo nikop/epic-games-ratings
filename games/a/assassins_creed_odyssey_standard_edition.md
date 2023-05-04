@@ -1,25 +1,25 @@
 # Assassins Creed Odyssey Standard Edition
-Rating: 4.75 (Ranked 126)  
+Rating: 4.75 (Ranked 127)  
 Number of Ratings: 5,481  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 4,798  (Ranked 63)  
-Sum: 11,624 (Ranked 73)  
-Diff (max vs sum): -10
+Max (Character Customization): 4,853  (Ranked 63)  
+Sum: 11,768 (Ranked 72)  
+Diff (max vs sum): -9
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 4,798 |
-| This game has Great Boss Battles | 3,051 |
-| This game has Amazing Characters | 422 |
-| This game is Great for Beginners | 410 |
-| This game is Educational | 405 |
-| This game is Highly Recommended | 403 |
-| This game has Diverse Characters | 394 |
-| This game is Relaxing | 391 |
-| This game is Extremely Fun | 387 |
-| This game has Quickly Understood Controls | 380 |
-| This game has Amazing Storytelling | 369 |
-| This game has a Creative Community | 214 |
+| This game has Inclusive Character Customization | 4,853 |
+| This game has Great Boss Battles | 3,085 |
+| This game has Amazing Characters | 431 |
+| This game is Great for Beginners | 417 |
+| This game is Educational | 411 |
+| This game is Highly Recommended | 411 |
+| This game has Diverse Characters | 400 |
+| This game is Relaxing | 392 |
+| This game is Extremely Fun | 392 |
+| This game has Quickly Understood Controls | 386 |
+| This game has Amazing Storytelling | 373 |
+| This game has a Creative Community | 217 |
 | This game has Obsessive Gameplay | 210 |
 | This game has Beautiful Visuals | 202 |
 ## Ratings History
@@ -123,4 +123,10 @@ Diff (max vs sum): -10
 | 2023-04-25 | 4.75 | - | 4,773 | 11,576 |
 | 2023-04-26 | 4.75 | - | 4,779 | 11,593 |
 | 2023-04-27 | 4.75 | - | 4,793 | 11,614 |
-| 2023-04-28 | 4.75 | - | 4,798 | 11,624 |
+| 2023-04-28 | 4.75 | - | 4,798 | 11,629 |
+| 2023-04-29 | 4.75 | - | 4,810 | 11,654 |
+| 2023-04-30 | 4.75 | - | 4,823 | 11,691 |
+| 2023-05-01 | 4.75 | - | 4,833 | 11,710 |
+| 2023-05-02 | 4.75 | - | 4,843 | 11,733 |
+| 2023-05-03 | 4.75 | - | 4,843 | 11,750 |
+| 2023-05-04 | 4.75 | - | 4,853 | 11,768 |

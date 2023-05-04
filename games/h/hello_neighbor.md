@@ -1,21 +1,21 @@
 # Hello Neighbor
-Rating: 4.54 (Ranked 474)  
+Rating: 4.54 (Ranked 475)  
 Number of Ratings: 1,166  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Relaxing): 192  (Ranked 259)  
-Sum: 1,320 (Ranked 213)  
-Diff (max vs sum): 46
+Max (Great for Beginners): 196  (Ranked 257)  
+Sum: 1,338 (Ranked 213)  
+Diff (max vs sum): 44
 ## Awards
 | Award | Count |
 | ----- | ----- |
+| This game is Great for Beginners | 196 |
 | This game is Relaxing | 192 |
-| This game is Great for Beginners | 190 |
-| This game has Amazing Storytelling | 169 |
-| This game has Quickly Understood Controls | 167 |
-| This game is Extremely Fun | 159 |
-| This game is Highly Recommended | 154 |
-| This game has Amazing Characters | 150 |
-| This game has a Creative Community | 139 |
+| This game has Quickly Understood Controls | 170 |
+| This game has Amazing Storytelling | 170 |
+| This game is Extremely Fun | 160 |
+| This game is Highly Recommended | 157 |
+| This game has Amazing Characters | 152 |
+| This game has a Creative Community | 141 |
 | This game has Obsessive Gameplay | 68 |
 | This game is Great for Quick Sessions | 37 |
 ## Ratings History
@@ -125,3 +125,10 @@ Diff (max vs sum): 46
 | 2023-04-22 | 4.54 | - | 192 | 1,317 |
 | 2023-04-24 | 4.54 | - | 192 | 1,318 |
 | 2023-04-25 | 4.54 | - | 192 | 1,320 |
+| 2023-04-28 | 4.54 | - | 192 | 1,321 |
+| 2023-04-29 | 4.54 | - | 192 | 1,323 |
+| 2023-04-30 | 4.54 | - | 192 | 1,325 |
+| 2023-05-01 | 4.54 | - | 193 | 1,330 |
+| 2023-05-02 | 4.54 | - | 195 | 1,333 |
+| 2023-05-03 | 4.54 | - | 196 | 1,336 |
+| 2023-05-04 | 4.54 | - | 196 | 1,338 |

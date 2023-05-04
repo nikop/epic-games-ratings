@@ -42,7 +42,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game is Relaxing",
@@ -61,6 +61,12 @@
       "Prefix": "This game has",
       "Type": "Amazing Characters",
       "Count": 20
+    },
+    {
+      "Text": "This game has Beautiful Visuals",
+      "Prefix": "This game has",
+      "Type": "Beautiful Visuals",
+      "Count": 22
     }
   ],
   "EosHistory": [],
@@ -459,6 +465,18 @@
       "Rating": 4.86,
       "NumberOfAwards": 245,
       "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2023-05-02T16:57:48.5983768+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 246,
+      "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2023-05-04T17:57:39.9121322+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 268,
+      "NumberOfAwardsMax": 39
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -466,19 +484,19 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T17:03:50.3679518+00:00",
-  "LastUpdate_Ratings": "2023-04-28T16:57:55.4681557+00:00",
-  "LastChanged": "2023-04-12T23:56:52.8646207+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:02:16.9058555+00:00",
+  "LastUpdate_Ratings": "2023-05-04T18:57:29.2388894+00:00",
+  "LastChanged": "2023-05-04T17:57:39.912132+00:00",
   "MaxAwardTitle": "Extremely Fun",
   "NumberOfAwardsMax": 39,
-  "NumberOfAwards": 245,
+  "NumberOfAwards": 268,
   "NumberOfRatings": 272,
-  "Ranking_EOS_NewCompleters": 60,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_Progress": 363,
-  "Ranking_PopularitySum": 338,
-  "Ranking_Popularity": 407,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_Progress": 378,
+  "Ranking_PopularitySum": 333,
+  "Ranking_Popularity": 412,
   "Ranking_Rating": 28,
   "Rating": 4.86,
   "FirstSeen": "2022-07-22T20:17:49.195013+00:00"

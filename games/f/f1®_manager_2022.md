@@ -1,19 +1,19 @@
 # F1® Manager 2022
-Rating: 4.59 (Ranked 392)  
+Rating: 4.59 (Ranked 395)  
 Number of Ratings: 810  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 235  (Ranked 239)  
-Sum: 1,775 (Ranked 195)  
-Diff (max vs sum): 44
+Max (Great for Beginners): 238  (Ranked 239)  
+Sum: 1,781 (Ranked 196)  
+Diff (max vs sum): 43
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 235 |
+| This game is Great for Beginners | 238 |
 | This game is Relaxing | 209 |
-| This game has Quickly Understood Controls | 208 |
+| This game has Quickly Understood Controls | 209 |
 | This game is Highly Recommended | 202 |
 | This game has Competitive Players | 201 |
-| This game has Diverse Characters | 195 |
+| This game has Diverse Characters | 197 |
 | This game is Extremely Fun | 194 |
 | This game has Amazing Storytelling | 176 |
 | This game has Amazing Characters | 155 |
@@ -91,3 +91,7 @@ Diff (max vs sum): 44
 | 2023-04-21 | 4.59 | - | 234 | 1,772 |
 | 2023-04-24 | 4.59 | - | 235 | 1,773 |
 | 2023-04-26 | 4.59 | - | 235 | 1,775 |
+| 2023-04-28 | 4.59 | - | 235 | 1,776 |
+| 2023-04-29 | 4.59 | - | 236 | 1,777 |
+| 2023-04-30 | 4.59 | - | 236 | 1,778 |
+| 2023-05-01 | 4.59 | - | 238 | 1,781 |

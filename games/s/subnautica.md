@@ -2,21 +2,21 @@
 Rating: 4.84 (Ranked 49)  
 Number of Ratings: 7,928  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Amazing Storytelling): 649  (Ranked 159)  
-Sum: 5,183 (Ranked 121)  
+Max (Amazing Storytelling): 653  (Ranked 159)  
+Sum: 5,213 (Ranked 121)  
 Diff (max vs sum): 38
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Amazing Storytelling | 649 |
-| This game is Great for Beginners | 632 |
-| This game is Highly Recommended | 621 |
-| This game has Quickly Understood Controls | 620 |
-| This game is Relaxing | 614 |
-| This game is Extremely Fun | 597 |
-| This game is Educational | 523 |
-| This game has Amazing Characters | 513 |
-| This game has a Creative Community | 414 |
+| This game has Amazing Storytelling | 653 |
+| This game is Great for Beginners | 640 |
+| This game is Highly Recommended | 624 |
+| This game has Quickly Understood Controls | 622 |
+| This game is Relaxing | 619 |
+| This game is Extremely Fun | 598 |
+| This game is Educational | 524 |
+| This game has Amazing Characters | 516 |
+| This game has a Creative Community | 417 |
 | This game has Obsessive Gameplay | 399 |
 | This game has Beautiful Visuals | 149 |
 ## Ratings History
@@ -129,3 +129,10 @@ Diff (max vs sum): 38
 | 2023-04-25 | 4.84 | - | 646 | 5,172 |
 | 2023-04-26 | 4.84 | - | 647 | 5,177 |
 | 2023-04-27 | 4.84 | - | 649 | 5,183 |
+| 2023-04-28 | 4.84 | - | 650 | 5,185 |
+| 2023-04-29 | 4.84 | - | 650 | 5,192 |
+| 2023-04-30 | 4.84 | - | 650 | 5,195 |
+| 2023-05-01 | 4.84 | - | 650 | 5,196 |
+| 2023-05-02 | 4.84 | - | 652 | 5,201 |
+| 2023-05-03 | 4.84 | - | 653 | 5,209 |
+| 2023-05-04 | 4.84 | - | 653 | 5,213 |

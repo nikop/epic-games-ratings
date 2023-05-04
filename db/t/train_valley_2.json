@@ -6,13 +6,18 @@
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 69
+      "Count": 71
     }
   ],
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:48.6015565+00:00",
       "NumProgressed": 696,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-01T04:01:16.9872085+00:00",
+      "NumProgressed": 697,
       "NumCompleted": 1
     }
   ],
@@ -235,29 +240,41 @@
       "Rating": 4.15,
       "NumberOfAwards": 69,
       "NumberOfAwardsMax": 69
+    },
+    {
+      "Time": "2023-05-01T10:57:06.1959637+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 70,
+      "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2023-05-04T07:57:22.9551286+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 71,
+      "NumberOfAwardsMax": 71
     }
   ],
   "EOS_Completed_Percentage": 0.14,
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_Completed": 1,
-  "EOS_Progressed": 696,
-  "LastUpdate_Achievements": "2023-04-28T17:02:38.9731259+00:00",
-  "LastUpdate_Ratings": "2023-04-28T16:57:27.24668+00:00",
-  "LastChanged_Achievements": "2023-04-28T17:02:38.9731211+00:00",
-  "LastChanged": "2023-04-25T21:57:20.396722+00:00",
+  "EOS_Progressed": 697,
+  "LastUpdate_Achievements": "2023-05-04T19:03:11.9181381+00:00",
+  "LastUpdate_Ratings": "2023-05-04T18:57:11.7717236+00:00",
+  "LastChanged_Achievements": "2023-05-04T19:03:11.918135+00:00",
+  "LastChanged": "2023-05-04T07:57:22.9551284+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "MaxAwardTitle": "Challenging Puzzles",
-  "NumberOfAwardsMax": 69,
-  "NumberOfAwards": 69,
+  "NumberOfAwardsMax": 71,
+  "NumberOfAwards": 71,
   "NumberOfRatings": 87,
-  "Ranking_EOS_NewCompleters": 60,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_Progress": 171,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_Completed": 142,
+  "Ranking_EOS_Progress": 173,
   "Ranking_PopularitySum": 414,
-  "Ranking_Popularity": 358,
-  "Ranking_Rating": 834,
+  "Ranking_Popularity": 359,
+  "Ranking_Rating": 837,
   "Rating": 4.15,
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00"
 }

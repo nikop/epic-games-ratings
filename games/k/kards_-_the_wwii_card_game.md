@@ -1,21 +1,21 @@
 # KARDS - The WWII Card Game
-Rating: 4.39 (Ranked 674)  
+Rating: 4.39 (Ranked 679)  
 Number of Ratings: 1,466  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Quick Sessions): 541  (Ranked 175)  
-Sum: 3,621 (Ranked 136)  
-Diff (max vs sum): 39
+Max (Great for Quick Sessions): 542  (Ranked 175)  
+Sum: 3,625 (Ranked 137)  
+Diff (max vs sum): 38
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 541 |
-| This game has Quickly Understood Controls | 492 |
-| This game is Relaxing | 479 |
+| This game is Great for Quick Sessions | 542 |
+| This game has Quickly Understood Controls | 493 |
+| This game is Relaxing | 480 |
 | This game is Highly Recommended | 459 |
 | This game has Competitive Players | 446 |
 | This game is Extremely Fun | 443 |
 | This game is Great for Beginners | 420 |
-| This game has a Competitive Community | 381 |
+| This game has a Competitive Community | 382 |
 | This game has Amazing Storytelling | 380 |
 | This game has Amazing Characters | 127 |
 ## Ratings History
@@ -111,3 +111,6 @@ Diff (max vs sum): 39
 | 2023-04-26 | 4.39 | - | 540 | 3,617 |
 | 2023-04-27 | 4.39 | - | 540 | 3,619 |
 | 2023-04-28 | 4.39 | - | 541 | 3,621 |
+| 2023-04-29 | 4.39 | - | 541 | 3,622 |
+| 2023-05-01 | 4.39 | - | 542 | 3,624 |
+| 2023-05-04 | 4.39 | - | 542 | 3,625 |

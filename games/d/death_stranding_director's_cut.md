@@ -2,34 +2,40 @@
 Rating: 4.89 (Ranked 12)  
 Number of Ratings: 3,099  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 6,840  (Ranked 44)  
-Sum: 11,660 (Ranked 72)  
-Diff (max vs sum): -28
+Max (Great Boss Battles): 6,880  (Ranked 44)  
+Sum: 11,738 (Ranked 73)  
+Diff (max vs sum): -29
 ## Popularity (Based on EOS Achievements)
-Progressed: 450,341 (Ranked 28)  
-Completed: 1,468 (0.33%) (Ranked 109)  
+Progressed: 452,196 (Ranked 29)  
+Completed: 1,490 (0.33%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 449,654 | 1,458 |
 | 2023-04-26 | 449,897 | 1,461 |
 | 2023-04-27 | 450,119 | 1,466 |
-| 2023-04-28 | 450,341 | 1,468 |
+| 2023-04-28 | 450,388 | 1,469 |
+| 2023-04-29 | 450,772 | 1,474 |
+| 2023-04-30 | 451,150 | 1,481 |
+| 2023-05-01 | 451,494 | 1,483 |
+| 2023-05-02 | 451,747 | 1,484 |
+| 2023-05-03 | 452,004 | 1,486 |
+| 2023-05-04 | 452,196 | 1,490 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,840 |
-| This game has Amazing Storytelling | 484 |
-| This game has Diverse Characters | 460 |
-| This game is Great for Beginners | 453 |
-| This game has Amazing Characters | 452 |
-| This game is Highly Recommended | 444 |
-| This game is Extremely Fun | 437 |
-| This game has Unique Visuals | 437 |
-| This game is Educational | 434 |
-| This game has Quickly Understood Controls | 431 |
-| This game is Relaxing | 425 |
-| This game has a Creative Community | 363 |
+| This game has Great Boss Battles | 6,880 |
+| This game has Amazing Storytelling | 487 |
+| This game is Great for Beginners | 464 |
+| This game has Diverse Characters | 463 |
+| This game has Amazing Characters | 453 |
+| This game is Highly Recommended | 446 |
+| This game is Extremely Fun | 440 |
+| This game is Educational | 439 |
+| This game has Unique Visuals | 439 |
+| This game has Quickly Understood Controls | 434 |
+| This game is Relaxing | 426 |
+| This game has a Creative Community | 367 |
 | This game has Obsessive Gameplay | 158 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -137,3 +143,9 @@ Completed: 1,468 (0.33%) (Ranked 109)
 | 2023-04-26 | 4.89 | - | 6,819 | 11,623 |
 | 2023-04-27 | 4.89 | - | 6,828 | 11,640 |
 | 2023-04-28 | 4.89 | - | 6,840 | 11,660 |
+| 2023-04-29 | 4.89 | - | 6,850 | 11,675 |
+| 2023-04-30 | 4.89 | - | 6,861 | 11,692 |
+| 2023-05-01 | 4.89 | - | 6,861 | 11,697 |
+| 2023-05-02 | 4.89 | - | 6,868 | 11,713 |
+| 2023-05-03 | 4.89 | - | 6,876 | 11,728 |
+| 2023-05-04 | 4.89 | - | 6,880 | 11,738 |

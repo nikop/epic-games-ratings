@@ -1,9 +1,9 @@
 # Dark Deception
-Rating: 4.51 (Ranked 510)  
+Rating: 4.51 (Ranked 513)  
 Number of Ratings: 50  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Count |

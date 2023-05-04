@@ -1,14 +1,14 @@
 # Assassin's Creed Unity
-Rating: 4.58 (Ranked 409)  
+Rating: 4.59 (Ranked 395)  
 Number of Ratings: 900  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 586  (Ranked 165)  
-Sum: 608 (Ranked 275)  
-Diff (max vs sum): -110
+Max (Character Customization): 594  (Ranked 164)  
+Sum: 594 (Ranked 278)  
+Diff (max vs sum): -114
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 586 |
+| This game has Inclusive Character Customization | 594 |
 | This game has Great Boss Battles | 32 |
 | This game is Great for Beginners | 22 |
 | This game has Unique Visuals | 20 |
@@ -115,3 +115,8 @@ Diff (max vs sum): -110
 | 2023-04-24 | 4.58 | - | 580 | 602 |
 | 2023-04-25 | 4.58 | - | 584 | 606 |
 | 2023-04-27 | 4.58 | - | 586 | 608 |
+| 2023-04-29 | 4.58 | - | 589 | 611 |
+| 2023-04-30 | 4.59 | - | 591 | 613 |
+| 2023-05-01 | 4.59 | - | 593 | 615 |
+| 2023-05-03 | 4.59 | - | 594 | 616 |
+| 2023-05-04 | 4.59 | - | 594 | 594 |

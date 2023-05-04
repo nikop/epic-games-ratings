@@ -1,9 +1,9 @@
 # Cave Story+
-Rating: 4.76 (Ranked 116)  
+Rating: 4.76 (Ranked 113)  
 Number of Ratings: 278  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 85  (Ranked 337)  
-Sum: 85 (Ranked 401)  
+Max (Great Boss Battles): 85  (Ranked 339)  
+Sum: 85 (Ranked 403)  
 Diff (max vs sum): -64
 ## Awards
 | Award | Count |

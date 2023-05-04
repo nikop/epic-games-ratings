@@ -1,22 +1,22 @@
 # MechWarrior 5: Mercenaries Standard Edition
-Rating: 4.61 (Ranked 351)  
+Rating: 4.61 (Ranked 353)  
 Number of Ratings: 4,280  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 1,073  (Ranked 128)  
-Sum: 7,203 (Ranked 97)  
+Max (Great for Beginners): 1,077  (Ranked 128)  
+Sum: 7,221 (Ranked 97)  
 Diff (max vs sum): 31
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 1,073 |
+| This game is Great for Beginners | 1,077 |
 | This game is Highly Recommended | 1,005 |
-| This game is Extremely Fun | 963 |
-| This game has Amazing Storytelling | 935 |
-| This game has Quickly Understood Controls | 916 |
-| This game is Relaxing | 905 |
-| This game has Challenging Combat | 877 |
+| This game is Extremely Fun | 964 |
+| This game has Amazing Storytelling | 938 |
+| This game has Quickly Understood Controls | 917 |
+| This game is Relaxing | 910 |
+| This game has Challenging Combat | 880 |
 | This game has Obsessive Gameplay | 619 |
-| This game has a Creative Community | 529 |
+| This game has a Creative Community | 530 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -118,3 +118,8 @@ Diff (max vs sum): 31
 | 2023-04-26 | 4.61 | - | 1,072 | 7,195 |
 | 2023-04-27 | 4.61 | - | 1,073 | 7,198 |
 | 2023-04-28 | 4.61 | - | 1,073 | 7,203 |
+| 2023-04-29 | 4.61 | - | 1,073 | 7,205 |
+| 2023-04-30 | 4.61 | - | 1,073 | 7,209 |
+| 2023-05-01 | 4.61 | - | 1,073 | 7,214 |
+| 2023-05-02 | 4.61 | - | 1,077 | 7,218 |
+| 2023-05-03 | 4.61 | - | 1,077 | 7,221 |

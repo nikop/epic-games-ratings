@@ -1,20 +1,20 @@
 # This War of Mine
-Rating: 4.74 (Ranked 141)  
+Rating: 4.74 (Ranked 142)  
 Number of Ratings: 1,090  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 78  (Ranked 344)  
-Sum: 616 (Ranked 274)  
-Diff (max vs sum): 70
+Max (Diverse Characters): 79  (Ranked 346)  
+Sum: 620 (Ranked 273)  
+Diff (max vs sum): 73
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 78 |
+| This game has Diverse Characters | 79 |
 | This game has Quickly Understood Controls | 74 |
 | This game has Unique Visuals | 69 |
 | This game is Educational | 67 |
-| This game has Amazing Characters | 66 |
-| This game is Extremely Fun | 60 |
-| This game is Relaxing | 58 |
+| This game has Amazing Characters | 67 |
+| This game is Extremely Fun | 61 |
+| This game is Relaxing | 59 |
 | This game is Highly Recommended | 57 |
 | This game has Amazing Storytelling | 56 |
 | This game has a Creative Community | 31 |
@@ -113,3 +113,6 @@ Diff (max vs sum): 70
 | 2023-04-18 | 4.74 | - | 78 | 612 |
 | 2023-04-20 | 4.74 | - | 78 | 613 |
 | 2023-04-22 | 4.74 | - | 78 | 616 |
+| 2023-04-29 | 4.74 | - | 79 | 618 |
+| 2023-05-01 | 4.74 | - | 79 | 619 |
+| 2023-05-03 | 4.74 | - | 79 | 620 |

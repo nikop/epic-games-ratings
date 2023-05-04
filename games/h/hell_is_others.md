@@ -1,19 +1,25 @@
 # Hell is Others
-Rating: 4.48 (Ranked 561)  
+Rating: 4.47 (Ranked 574)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,032 (Ranked 38)  
-Completed: 0 (0.00%) (Ranked 190)  
+Progressed: 247,731 (Ranked 39)  
+Completed: 1 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 246,797 | 0 |
 | 2023-04-26 | 246,870 | 0 |
 | 2023-04-27 | 246,966 | 0 |
-| 2023-04-28 | 247,032 | 0 |
+| 2023-04-28 | 247,069 | 0 |
+| 2023-04-29 | 247,220 | 0 |
+| 2023-04-30 | 247,365 | 0 |
+| 2023-05-01 | 247,493 | 0 |
+| 2023-05-02 | 247,587 | 0 |
+| 2023-05-03 | 247,672 | 1 |
+| 2023-05-04 | 247,731 | 1 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -71,3 +77,6 @@ Completed: 0 (0.00%) (Ranked 190)
 | 2023-04-21 | 4.49 | 0 | 0 |
 | 2023-04-24 | 4.49 | 0 | 0 |
 | 2023-04-27 | 4.48 | 0 | 0 |
+| 2023-05-01 | 4.49 | 0 | 0 |
+| 2023-05-03 | 4.48 | 0 | 0 |
+| 2023-05-04 | 4.47 | 0 | 0 |

@@ -1,10 +1,10 @@
 # Offworld Trading Company
-Rating: 4.29 (Ranked 755)  
+Rating: 4.29 (Ranked 757)  
 Number of Ratings: 432  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Relaxing): 43  (Ranked 404)  
-Sum: 261 (Ranked 334)  
-Diff (max vs sum): 70
+Max (Relaxing): 43  (Ranked 407)  
+Sum: 262 (Ranked 336)  
+Diff (max vs sum): 71
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -12,7 +12,7 @@ Diff (max vs sum): 70
 | This game is Highly Recommended | 42 |
 | This game has Quickly Understood Controls | 42 |
 | This game is Extremely Fun | 36 |
-| This game has Diverse Characters | 34 |
+| This game has Diverse Characters | 35 |
 | This game has Challenging Combat | 34 |
 | This game is Educational | 33 |
 | This game has Amazing Storytelling | 30 |
@@ -98,3 +98,4 @@ Diff (max vs sum): 70
 | 2023-04-17 | 4.28 | - | 43 | 260 |
 | 2023-04-18 | 4.29 | - | 43 | 260 |
 | 2023-04-24 | 4.29 | - | 43 | 261 |
+| 2023-05-01 | 4.29 | - | 43 | 262 |

@@ -36,7 +36,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -48,7 +48,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has Diverse Characters",
@@ -607,6 +607,18 @@
       "Rating": 4.35,
       "NumberOfAwards": 188,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-04-30T17:59:00.6332442+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 189,
+      "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-05-03T10:58:44.7759245+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 190,
+      "NumberOfAwardsMax": 38
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -614,21 +626,21 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T17:04:46.3446034+00:00",
-  "LastUpdate_Ratings": "2023-04-28T16:59:43.2456648+00:00",
-  "LastChanged": "2023-04-19T20:58:41.9925575+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:03:59.8145656+00:00",
+  "LastUpdate_Ratings": "2023-05-04T18:58:32.1681973+00:00",
+  "LastChanged": "2023-05-03T10:58:44.7759242+00:00",
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
   "MaxAwardTitle": "Highly Recommended",
   "NumberOfAwardsMax": 38,
-  "NumberOfAwards": 188,
+  "NumberOfAwards": 190,
   "NumberOfRatings": 190,
-  "Ranking_EOS_NewCompleters": 60,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_Progress": 363,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_Progress": 378,
   "Ranking_PopularitySum": 351,
-  "Ranking_Popularity": 410,
-  "Ranking_Rating": 711,
+  "Ranking_Popularity": 414,
+  "Ranking_Rating": 713,
   "Rating": 4.35,
   "FirstSeen": "2022-08-22T17:32:55.4881061+00:00"
 }

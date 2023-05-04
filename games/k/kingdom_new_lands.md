@@ -1,19 +1,19 @@
 # Kingdom New Lands
-Rating: 4.53 (Ranked 486)  
+Rating: 4.53 (Ranked 488)  
 Number of Ratings: 1,793  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Quickly Understood Controls): 117  (Ranked 300)  
-Sum: 695 (Ranked 260)  
+Max (Quickly Understood Controls): 119  (Ranked 300)  
+Sum: 699 (Ranked 260)  
 Diff (max vs sum): 40
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 117 |
-| This game is Great for Beginners | 114 |
+| This game has Quickly Understood Controls | 119 |
+| This game is Great for Beginners | 115 |
 | This game is Relaxing | 94 |
 | This game is Extremely Fun | 88 |
 | This game is Highly Recommended | 83 |
-| This game has Amazing Characters | 80 |
+| This game has Amazing Characters | 81 |
 | This game has Amazing Storytelling | 76 |
 | This game has Obsessive Gameplay | 63 |
 | This game has Unique Visuals | 56 |
@@ -104,3 +104,7 @@ Diff (max vs sum): 40
 | 2023-04-09 | 4.53 | - | 116 | 693 |
 | 2023-04-22 | 4.53 | - | 117 | 694 |
 | 2023-04-27 | 4.53 | - | 117 | 695 |
+| 2023-04-28 | 4.53 | - | 118 | 696 |
+| 2023-04-29 | 4.53 | - | 118 | 697 |
+| 2023-04-30 | 4.53 | - | 118 | 698 |
+| 2023-05-03 | 4.53 | - | 119 | 699 |

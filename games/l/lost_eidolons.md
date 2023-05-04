@@ -1,18 +1,19 @@
 # Lost Eidolons
-Rating: 4.30 (Ranked 748)  
+Rating: 4.31 (Ranked 746)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 842 (Ranked 163)  
-Completed: 0 (0.00%) (Ranked 190)  
+Progressed: 843 (Ranked 166)  
+Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 840 | 0 |
 | 2023-04-26 | 841 | 0 |
 | 2023-04-28 | 842 | 0 |
+| 2023-04-29 | 843 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -50,3 +51,4 @@ Completed: 0 (0.00%) (Ranked 190)
 | 2023-02-20 | 4.29 | - | - |
 | 2023-03-15 | 4.30 | - | - |
 | 2023-03-31 | 4.30 | 0 | 0 |
+| 2023-05-01 | 4.31 | 0 | 0 |

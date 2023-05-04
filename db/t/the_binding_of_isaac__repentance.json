@@ -6,31 +6,31 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1537
+      "Count": 1540
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1790
+      "Count": 1793
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 583
+      "Count": 586
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 541
+      "Count": 542
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 572
+      "Count": 573
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -42,31 +42,31 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 574
+      "Count": 576
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 537
+      "Count": 539
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 534
+      "Count": 536
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 623
+      "Count": 624
     },
     {
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 542
+      "Count": 546
     },
     {
       "Text": "This game is Relaxing",
@@ -2266,6 +2266,102 @@
       "Rating": 4.9,
       "NumberOfAwards": 8324,
       "NumberOfAwardsMax": 1790
+    },
+    {
+      "Time": "2023-04-28T17:14:20.7867135+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8326,
+      "NumberOfAwardsMax": 1790
+    },
+    {
+      "Time": "2023-04-28T18:58:20.4920807+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8327,
+      "NumberOfAwardsMax": 1790
+    },
+    {
+      "Time": "2023-04-28T19:58:25.1178118+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8328,
+      "NumberOfAwardsMax": 1790
+    },
+    {
+      "Time": "2023-04-28T20:58:42.9631973+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8330,
+      "NumberOfAwardsMax": 1790
+    },
+    {
+      "Time": "2023-04-29T11:57:58.3046904+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8332,
+      "NumberOfAwardsMax": 1790
+    },
+    {
+      "Time": "2023-04-29T16:57:52.3152014+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8334,
+      "NumberOfAwardsMax": 1792
+    },
+    {
+      "Time": "2023-04-29T19:57:40.0266254+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8336,
+      "NumberOfAwardsMax": 1792
+    },
+    {
+      "Time": "2023-04-29T23:57:46.8785761+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8337,
+      "NumberOfAwardsMax": 1792
+    },
+    {
+      "Time": "2023-05-01T04:58:02.8576095+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8338,
+      "NumberOfAwardsMax": 1792
+    },
+    {
+      "Time": "2023-05-01T08:57:41.7461525+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8339,
+      "NumberOfAwardsMax": 1792
+    },
+    {
+      "Time": "2023-05-01T15:58:05.1579981+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8340,
+      "NumberOfAwardsMax": 1792
+    },
+    {
+      "Time": "2023-05-01T16:59:02.3446578+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8341,
+      "NumberOfAwardsMax": 1793
+    },
+    {
+      "Time": "2023-05-02T10:58:25.2710538+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8343,
+      "NumberOfAwardsMax": 1793
+    },
+    {
+      "Time": "2023-05-03T21:57:51.7914356+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8344,
+      "NumberOfAwardsMax": 1793
+    },
+    {
+      "Time": "2023-05-03T23:58:18.236922+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8345,
+      "NumberOfAwardsMax": 1793
+    },
+    {
+      "Time": "2023-05-04T13:03:49.6488974+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 8346,
+      "NumberOfAwardsMax": 1793
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -2273,19 +2369,19 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T17:03:13.9727762+00:00",
-  "LastUpdate_Ratings": "2023-04-28T16:58:34.5137061+00:00",
-  "LastChanged": "2023-04-27T17:58:14.2151291+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:00:01.0104828+00:00",
+  "LastUpdate_Ratings": "2023-05-04T18:57:54.7323223+00:00",
+  "LastChanged": "2023-05-04T13:03:49.6488972+00:00",
   "MaxAwardTitle": "Great Boss Battles",
-  "NumberOfAwardsMax": 1790,
-  "NumberOfAwards": 8324,
+  "NumberOfAwardsMax": 1793,
+  "NumberOfAwards": 8346,
   "NumberOfRatings": 1859,
-  "Ranking_EOS_NewCompleters": 60,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_Progress": 363,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_Progress": 378,
   "Ranking_PopularitySum": 86,
-  "Ranking_Popularity": 105,
+  "Ranking_Popularity": 106,
   "Ranking_Rating": 7,
   "Rating": 4.9,
   "FirstSeen": "2022-07-22T20:18:34.9311333+00:00"

@@ -1,31 +1,37 @@
 # DEATH STRANDING
-Rating: 4.78 (Ranked 100)  
+Rating: 4.78 (Ranked 101)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 4,633  (Ranked 65)  
-Sum: 6,307 (Ranked 110)  
+Max (Great Boss Battles): 4,707  (Ranked 65)  
+Sum: 6,399 (Ranked 110)  
 Diff (max vs sum): -45
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,492,809 (Ranked 5)  
-Completed: 1,202 (0.05%) (Ranked 163)  
+Progressed: 2,509,384 (Ranked 5)  
+Completed: 1,220 (0.05%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 2,486,843 | 1,193 |
 | 2023-04-26 | 2,488,871 | 1,198 |
 | 2023-04-27 | 2,490,968 | 1,201 |
-| 2023-04-28 | 2,492,809 | 1,202 |
+| 2023-04-28 | 2,493,354 | 1,203 |
+| 2023-04-29 | 2,496,596 | 1,206 |
+| 2023-04-30 | 2,499,947 | 1,211 |
+| 2023-05-01 | 2,502,993 | 1,211 |
+| 2023-05-02 | 2,505,364 | 1,214 |
+| 2023-05-03 | 2,507,568 | 1,218 |
+| 2023-05-04 | 2,509,384 | 1,220 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 4,633 |
-| This game is Great for Beginners | 218 |
-| This game is Highly Recommended | 201 |
-| This game has Diverse Characters | 198 |
-| This game is Relaxing | 195 |
+| This game has Great Boss Battles | 4,707 |
+| This game is Great for Beginners | 220 |
+| This game is Highly Recommended | 206 |
+| This game has Diverse Characters | 201 |
+| This game is Relaxing | 196 |
 | This game has Quickly Understood Controls | 193 |
-| This game has Amazing Characters | 187 |
-| This game has Amazing Storytelling | 180 |
-| This game is Extremely Fun | 162 |
+| This game has Amazing Characters | 191 |
+| This game has Amazing Storytelling | 182 |
+| This game is Extremely Fun | 163 |
 | This game has a Creative Community | 140 |
 | This game has Easy Combat | 28 |
 ## Ratings History
@@ -70,3 +76,9 @@ Completed: 1,202 (0.05%) (Ranked 163)
 | 2023-04-26 | 4.78 | 4,624 | 6,295 |
 | 2023-04-27 | 4.78 | 4,624 | 6,298 |
 | 2023-04-28 | 4.78 | 4,633 | 6,307 |
+| 2023-04-29 | 4.78 | 4,641 | 6,321 |
+| 2023-04-30 | 4.78 | 4,654 | 6,336 |
+| 2023-05-01 | 4.78 | 4,671 | 6,360 |
+| 2023-05-02 | 4.78 | 4,689 | 6,379 |
+| 2023-05-03 | 4.78 | 4,699 | 6,390 |
+| 2023-05-04 | 4.78 | 4,707 | 6,399 |

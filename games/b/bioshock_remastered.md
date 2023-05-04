@@ -1,23 +1,23 @@
 # BioShock Remastered
-Rating: 4.64 (Ranked 309)  
+Rating: 4.64 (Ranked 312)  
 Number of Ratings: 24,195  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 5,909  (Ranked 54)  
-Sum: 7,184 (Ranked 98)  
+Max (Great Boss Battles): 5,923  (Ranked 54)  
+Sum: 7,203 (Ranked 98)  
 Diff (max vs sum): -44
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 5,909 |
+| This game has Great Boss Battles | 5,923 |
 | This game is Extremely Fun | 147 |
 | This game has Amazing Storytelling | 143 |
 | This game has Amazing Characters | 143 |
 | This game is Highly Recommended | 143 |
-| This game has Quickly Understood Controls | 140 |
-| This game is Relaxing | 132 |
-| This game is Great for Beginners | 124 |
+| This game has Quickly Understood Controls | 141 |
+| This game is Relaxing | 133 |
+| This game is Great for Beginners | 126 |
 | This game has Diverse Characters | 115 |
-| This game has Unique Visuals | 113 |
+| This game has Unique Visuals | 114 |
 | This game has Obsessive Gameplay | 106 |
 | This game has a Creative Community | 75 |
 ## Ratings History
@@ -114,3 +114,8 @@ Diff (max vs sum): -44
 | 2023-04-24 | 4.64 | - | 5,898 | 7,172 |
 | 2023-04-26 | 4.64 | - | 5,904 | 7,179 |
 | 2023-04-27 | 4.64 | - | 5,909 | 7,184 |
+| 2023-04-28 | 4.64 | - | 5,909 | 7,185 |
+| 2023-04-29 | 4.64 | - | 5,913 | 7,191 |
+| 2023-05-01 | 4.64 | - | 5,918 | 7,198 |
+| 2023-05-02 | 4.64 | - | 5,921 | 7,201 |
+| 2023-05-04 | 4.64 | - | 5,923 | 7,203 |

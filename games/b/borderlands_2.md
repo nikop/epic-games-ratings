@@ -1,23 +1,23 @@
 # Borderlands 2
-Rating: 4.76 (Ranked 116)  
+Rating: 4.76 (Ranked 113)  
 Number of Ratings: 13,386  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 14,014  (Ranked 23)  
-Sum: 35,248 (Ranked 32)  
+Max (Great Boss Battles): 14,089  (Ranked 23)  
+Sum: 35,430 (Ranked 32)  
 Diff (max vs sum): -9
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 14,014 |
-| This game is Great for Beginners | 2,477 |
-| This game has Diverse Characters | 2,402 |
-| This game is Extremely Fun | 2,395 |
-| This game has Amazing Characters | 2,382 |
-| This game has Amazing Storytelling | 2,380 |
-| This game is Highly Recommended | 2,357 |
-| This game has Quickly Understood Controls | 2,335 |
-| This game is Relaxing | 2,265 |
-| This game has Unique Visuals | 2,241 |
+| This game has Great Boss Battles | 14,089 |
+| This game is Great for Beginners | 2,490 |
+| This game has Diverse Characters | 2,424 |
+| This game is Extremely Fun | 2,402 |
+| This game has Amazing Characters | 2,396 |
+| This game has Amazing Storytelling | 2,390 |
+| This game is Highly Recommended | 2,365 |
+| This game has Quickly Understood Controls | 2,343 |
+| This game is Relaxing | 2,275 |
+| This game has Unique Visuals | 2,256 |
 | This game has Obsessive Gameplay | 1,707 |
 | This game has Challenging Combat | 1,019 |
 ## Ratings History
@@ -138,4 +138,10 @@ Diff (max vs sum): -9
 | 2023-04-25 | 4.76 | - | 14,000 | 35,201 |
 | 2023-04-26 | 4.76 | - | 14,009 | 35,219 |
 | 2023-04-27 | 4.76 | - | 14,014 | 35,243 |
-| 2023-04-28 | 4.76 | - | 14,014 | 35,248 |
+| 2023-04-28 | 4.76 | - | 14,025 | 35,264 |
+| 2023-04-29 | 4.76 | - | 14,036 | 35,293 |
+| 2023-04-30 | 4.76 | - | 14,036 | 35,311 |
+| 2023-05-01 | 4.76 | - | 14,053 | 35,343 |
+| 2023-05-02 | 4.76 | - | 14,067 | 35,375 |
+| 2023-05-03 | 4.76 | - | 14,080 | 35,417 |
+| 2023-05-04 | 4.76 | - | 14,089 | 35,430 |

@@ -6,13 +6,13 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1198
+      "Count": 1212
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 76
+      "Count": 77
     },
     {
       "Text": "This game is Extremely Fun",
@@ -36,19 +36,19 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 60
+      "Count": 61
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 63
+      "Count": 64
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 48
+      "Count": 49
     },
     {
       "Text": "This game is Great for Beginners",
@@ -60,7 +60,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game has a Creative Community",
@@ -72,7 +72,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 51
+      "Count": 53
     }
   ],
   "EosHistory": [],
@@ -1555,6 +1555,78 @@
       "Rating": 4.62,
       "NumberOfAwards": 1823,
       "NumberOfAwardsMax": 1198
+    },
+    {
+      "Time": "2023-04-28T19:00:44.7878461+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1824,
+      "NumberOfAwardsMax": 1198
+    },
+    {
+      "Time": "2023-04-29T08:59:37.0548532+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1826,
+      "NumberOfAwardsMax": 1200
+    },
+    {
+      "Time": "2023-04-29T17:00:02.6487177+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1827,
+      "NumberOfAwardsMax": 1200
+    },
+    {
+      "Time": "2023-04-30T06:59:19.6375514+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1828,
+      "NumberOfAwardsMax": 1200
+    },
+    {
+      "Time": "2023-04-30T15:00:13.4030173+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1831,
+      "NumberOfAwardsMax": 1203
+    },
+    {
+      "Time": "2023-05-01T08:00:17.6944281+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1832,
+      "NumberOfAwardsMax": 1203
+    },
+    {
+      "Time": "2023-05-01T15:00:06.9845292+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1833,
+      "NumberOfAwardsMax": 1203
+    },
+    {
+      "Time": "2023-05-01T18:00:56.9430142+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1836,
+      "NumberOfAwardsMax": 1206
+    },
+    {
+      "Time": "2023-05-02T14:00:38.6214898+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1837,
+      "NumberOfAwardsMax": 1206
+    },
+    {
+      "Time": "2023-05-03T01:57:42.5298911+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1838,
+      "NumberOfAwardsMax": 1207
+    },
+    {
+      "Time": "2023-05-04T06:00:30.6533281+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1839,
+      "NumberOfAwardsMax": 1207
+    },
+    {
+      "Time": "2023-05-04T06:59:44.7654336+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1844,
+      "NumberOfAwardsMax": 1212
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -1562,20 +1634,20 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T17:06:31.5387188+00:00",
-  "LastUpdate_Ratings": "2023-04-28T17:01:39.9400676+00:00",
-  "LastChanged": "2023-04-28T17:01:39.9400669+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:05:10.2765801+00:00",
+  "LastUpdate_Ratings": "2023-05-04T18:59:38.3790971+00:00",
+  "LastChanged": "2023-05-04T06:59:44.7654334+00:00",
   "MaxAwardTitle": "Great Boss Battles",
-  "NumberOfAwardsMax": 1198,
-  "NumberOfAwards": 1823,
+  "NumberOfAwardsMax": 1212,
+  "NumberOfAwards": 1844,
   "NumberOfRatings": 1848,
-  "Ranking_EOS_NewCompleters": 60,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_Progress": 363,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_Progress": 378,
   "Ranking_PopularitySum": 192,
-  "Ranking_Popularity": 122,
-  "Ranking_Rating": 334,
+  "Ranking_Popularity": 121,
+  "Ranking_Rating": 337,
   "Rating": 4.62,
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00"
 }

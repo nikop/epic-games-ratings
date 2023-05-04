@@ -1,10 +1,10 @@
 # Wonder Boy The Dragons Trap
-Rating: 4.44 (Ranked 621)  
+Rating: 4.44 (Ranked 620)  
 Number of Ratings: 3,047  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Relaxing): 59  (Ranked 374)  
-Sum: 385 (Ranked 302)  
-Diff (max vs sum): 72
+Max (Relaxing): 59  (Ranked 377)  
+Sum: 386 (Ranked 303)  
+Diff (max vs sum): 74
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -16,8 +16,8 @@ Diff (max vs sum): 72
 | This game has Diverse Characters | 42 |
 | This game is Highly Recommended | 38 |
 | This game is Great for Quick Sessions | 33 |
+| This game is Extremely Fun | 33 |
 | This game has Challenging Combat | 32 |
-| This game is Extremely Fun | 32 |
 | This game is Educational | 24 |
 | This game has a Creative Community | 22 |
 ## Ratings History
@@ -96,3 +96,4 @@ Diff (max vs sum): 72
 | 2022-11-23 | 4.45 | - | - | - |
 | 2022-11-26 | 4.45 | - | - | - |
 | 2022-11-27 | 4.44 | - | - | - |
+| 2023-04-29 | 4.44 | - | 59 | 386 |

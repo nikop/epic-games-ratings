@@ -1,13 +1,13 @@
 # Eiyuden Chronicle: Rising
-Rating: 4.49 (Ranked 544)  
+Rating: 4.49 (Ranked 547)  
 Number of Ratings: 48  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 664 (Ranked 173)  
-Completed: 56 (8.43%) (Ranked 11)  
+Progressed: 664 (Ranked 177)  
+Completed: 56 (8.43%) (Ranked 12)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

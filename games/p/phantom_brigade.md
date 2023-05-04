@@ -1,9 +1,9 @@
 # Phantom Brigade
-Rating: 4.62 (Ranked 334)  
+Rating: 4.62 (Ranked 337)  
 Number of Ratings: 239  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 102  (Ranked 317)  
-Sum: 102 (Ranked 393)  
+Max (Character Customization): 102  (Ranked 319)  
+Sum: 102 (Ranked 395)  
 Diff (max vs sum): -76
 ## Awards
 | Award | Count |

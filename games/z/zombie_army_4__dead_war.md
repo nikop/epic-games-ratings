@@ -1,30 +1,36 @@
 # Zombie Army 4: Dead War
-Rating: 4.69 (Ranked 207)  
+Rating: 4.69 (Ranked 212)  
 Number of Ratings: 743  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 767  (Ranked 147)  
-Sum: 2,345 (Ranked 168)  
-Diff (max vs sum): -21
+Max (Great Boss Battles): 769  (Ranked 146)  
+Sum: 2,350 (Ranked 170)  
+Diff (max vs sum): -24
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,152 (Ranked 75)  
-Completed: 24 (0.06%) (Ranked 159)  
+Progressed: 42,201 (Ranked 76)  
+Completed: 24 (0.06%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 42,137 | 24 |
 | 2023-04-26 | 42,140 | 24 |
 | 2023-04-27 | 42,146 | 24 |
-| 2023-04-28 | 42,152 | 24 |
+| 2023-04-28 | 42,155 | 24 |
+| 2023-04-29 | 42,159 | 24 |
+| 2023-04-30 | 42,167 | 24 |
+| 2023-05-01 | 42,178 | 24 |
+| 2023-05-02 | 42,182 | 24 |
+| 2023-05-03 | 42,196 | 24 |
+| 2023-05-04 | 42,201 | 24 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 767 |
-| This game is Great for Beginners | 235 |
+| This game has Great Boss Battles | 769 |
+| This game is Great for Beginners | 237 |
 | This game has Amazing Storytelling | 204 |
 | This game is Extremely Fun | 203 |
 | This game is Highly Recommended | 201 |
+| This game has Diverse Characters | 192 |
 | This game has Quickly Understood Controls | 191 |
-| This game has Diverse Characters | 191 |
 | This game is Relaxing | 180 |
 | This game has Amazing Characters | 173 |
 | This game has Obsessive Gameplay | 165 |
@@ -131,3 +137,6 @@ Completed: 24 (0.06%) (Ranked 159)
 | 2023-04-19 | 4.69 | - | 764 | 2,338 |
 | 2023-04-23 | 4.69 | - | 765 | 2,341 |
 | 2023-04-25 | 4.69 | - | 767 | 2,345 |
+| 2023-04-29 | 4.69 | - | 769 | 2,347 |
+| 2023-04-30 | 4.69 | - | 769 | 2,349 |
+| 2023-05-03 | 4.69 | - | 769 | 2,350 |

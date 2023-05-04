@@ -1,19 +1,25 @@
 # Slain: Back From Hell
 Rating: 4.28 (Ranked 764)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 124  (Ranked 294)  
-Sum: 124 (Ranked 384)  
-Diff (max vs sum): -90
+Max (Great Boss Battles): 124  (Ranked 298)  
+Sum: 124 (Ranked 387)  
+Diff (max vs sum): -89
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,781 (Ranked 93)  
-Completed: 14 (0.08%) (Ranked 154)  
+Progressed: 18,944 (Ranked 91)  
+Completed: 14 (0.07%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 17,376 | 14 |
 | 2023-04-26 | 17,512 | 14 |
 | 2023-04-27 | 17,667 | 14 |
-| 2023-04-28 | 17,781 | 14 |
+| 2023-04-28 | 17,841 | 14 |
+| 2023-04-29 | 18,078 | 14 |
+| 2023-04-30 | 18,337 | 14 |
+| 2023-05-01 | 18,540 | 14 |
+| 2023-05-02 | 18,700 | 14 |
+| 2023-05-03 | 18,827 | 14 |
+| 2023-05-04 | 18,944 | 14 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

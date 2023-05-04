@@ -1,12 +1,12 @@
 # A Plague Tale: Requiem
-Rating: 4.74 (Ranked 141)  
+Rating: 4.74 (Ranked 142)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 398  (Ranked 197)  
-Sum: 554 (Ranked 284)  
+Max (Great Boss Battles): 398  (Ranked 198)  
+Sum: 554 (Ranked 285)  
 Diff (max vs sum): -87
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,132 (Ranked 104)  
-Completed: 29 (0.29%) (Ranked 117)  
+Progressed: 10,181 (Ranked 104)  
+Completed: 30 (0.29%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -14,6 +14,12 @@ Completed: 29 (0.29%) (Ranked 117)
 | 2023-04-26 | 10,115 | 29 |
 | 2023-04-27 | 10,123 | 29 |
 | 2023-04-28 | 10,132 | 29 |
+| 2023-04-29 | 10,147 | 29 |
+| 2023-04-30 | 10,156 | 29 |
+| 2023-05-01 | 10,166 | 30 |
+| 2023-05-02 | 10,170 | 30 |
+| 2023-05-03 | 10,176 | 30 |
+| 2023-05-04 | 10,181 | 30 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

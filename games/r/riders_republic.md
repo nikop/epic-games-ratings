@@ -1,23 +1,23 @@
 # Riders Republic
-Rating: 4.75 (Ranked 126)  
+Rating: 4.75 (Ranked 127)  
 Number of Ratings: 4,120  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Extremely Fun): 420  (Ranked 190)  
-Sum: 3,800 (Ranked 133)  
-Diff (max vs sum): 57
+Max (Extremely Fun): 432  (Ranked 190)  
+Sum: 3,887 (Ranked 132)  
+Diff (max vs sum): 58
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Extremely Fun | 420 |
-| This game is Relaxing | 395 |
-| This game is Highly Recommended | 388 |
-| This game has Competitive Players | 386 |
-| This game is Great for Beginners | 383 |
-| This game has Quickly Understood Controls | 380 |
-| This game is Great for Quick Sessions | 379 |
-| This game has Diverse Characters | 366 |
-| This game has Amazing Characters | 357 |
-| This game has Amazing Storytelling | 346 |
+| This game is Extremely Fun | 432 |
+| This game is Relaxing | 404 |
+| This game is Highly Recommended | 398 |
+| This game has Competitive Players | 396 |
+| This game is Great for Beginners | 393 |
+| This game has Quickly Understood Controls | 387 |
+| This game is Great for Quick Sessions | 382 |
+| This game has Diverse Characters | 377 |
+| This game has Amazing Characters | 363 |
+| This game has Amazing Storytelling | 355 |
 | This game is Educational | 336 |
 | This game has Obsessive Gameplay | 164 |
 ## Ratings History
@@ -126,4 +126,10 @@ Diff (max vs sum): 57
 | 2023-04-25 | 4.75 | - | 418 | 3,770 |
 | 2023-04-26 | 4.75 | - | 420 | 3,778 |
 | 2023-04-27 | 4.75 | - | 420 | 3,791 |
-| 2023-04-28 | 4.75 | - | 420 | 3,800 |
+| 2023-04-28 | 4.75 | - | 424 | 3,806 |
+| 2023-04-29 | 4.75 | - | 424 | 3,826 |
+| 2023-04-30 | 4.75 | - | 426 | 3,848 |
+| 2023-05-01 | 4.75 | - | 429 | 3,861 |
+| 2023-05-02 | 4.75 | - | 430 | 3,871 |
+| 2023-05-03 | 4.75 | - | 430 | 3,878 |
+| 2023-05-04 | 4.75 | - | 432 | 3,887 |

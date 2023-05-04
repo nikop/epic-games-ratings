@@ -1,13 +1,13 @@
 # The Caligula Effect 2
-Rating: 4.44 (Ranked 621)  
+Rating: 4.44 (Ranked 620)  
 Number of Ratings: 32  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 228 (Ranked 214)  
-Completed: 2 (0.88%) (Ranked 81)  
+Progressed: 228 (Ranked 218)  
+Completed: 2 (0.88%) (Ranked 82)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,22 +1,22 @@
 # Marvel's Midnight Suns
-Rating: 4.52 (Ranked 498)  
+Rating: 4.52 (Ranked 499)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 1,111  (Ranked 125)  
-Sum: 2,304 (Ranked 169)  
-Diff (max vs sum): -44
+Max (Character Customization): 1,129  (Ranked 126)  
+Sum: 2,360 (Ranked 168)  
+Diff (max vs sum): -42
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 1,111 |
-| This game is Highly Recommended | 151 |
-| This game has Quickly Understood Controls | 149 |
-| This game is Relaxing | 144 |
-| This game has Amazing Storytelling | 141 |
-| This game is Great for Beginners | 139 |
-| This game has Diverse Characters | 139 |
-| This game has Amazing Characters | 134 |
-| This game is Extremely Fun | 127 |
-| This game has a Creative Community | 69 |
+| This game has Inclusive Character Customization | 1,129 |
+| This game is Highly Recommended | 157 |
+| This game has Quickly Understood Controls | 150 |
+| This game is Relaxing | 146 |
+| This game is Great for Beginners | 144 |
+| This game has Amazing Characters | 144 |
+| This game has Amazing Storytelling | 143 |
+| This game has Diverse Characters | 143 |
+| This game is Extremely Fun | 132 |
+| This game has a Creative Community | 72 |
 | This game has Challenging Combat | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -90,4 +90,10 @@ Diff (max vs sum): -44
 | 2023-04-25 | 4.52 | 1,104 | 2,275 |
 | 2023-04-26 | 4.52 | 1,108 | 2,287 |
 | 2023-04-27 | 4.52 | 1,111 | 2,300 |
-| 2023-04-28 | 4.52 | 1,111 | 2,304 |
+| 2023-04-28 | 4.52 | 1,115 | 2,311 |
+| 2023-04-29 | 4.52 | 1,117 | 2,315 |
+| 2023-04-30 | 4.52 | 1,123 | 2,328 |
+| 2023-05-01 | 4.52 | 1,123 | 2,333 |
+| 2023-05-02 | 4.52 | 1,127 | 2,344 |
+| 2023-05-03 | 4.52 | 1,129 | 2,353 |
+| 2023-05-04 | 4.52 | 1,129 | 2,360 |

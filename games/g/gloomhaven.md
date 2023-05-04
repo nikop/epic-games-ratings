@@ -1,24 +1,24 @@
 # Gloomhaven
-Rating: 4.47 (Ranked 575)  
+Rating: 4.47 (Ranked 574)  
 Number of Ratings: 68  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 3,432  (Ranked 79)  
-Sum: 7,922 (Ranked 89)  
-Diff (max vs sum): -10
+Max (Character Customization): 3,437  (Ranked 79)  
+Sum: 7,940 (Ranked 91)  
+Diff (max vs sum): -12
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 3,432 |
-| This game has Diverse Characters | 547 |
-| This game has Challenging Combat | 517 |
-| This game is Highly Recommended | 509 |
-| This game is Extremely Fun | 508 |
-| This game has Quickly Understood Controls | 468 |
+| This game has Inclusive Character Customization | 3,437 |
+| This game has Diverse Characters | 548 |
+| This game has Challenging Combat | 522 |
+| This game is Highly Recommended | 510 |
+| This game is Extremely Fun | 509 |
+| This game has Quickly Understood Controls | 469 |
 | This game is Relaxing | 467 |
-| This game has Amazing Storytelling | 464 |
-| This game has Amazing Characters | 456 |
+| This game has Amazing Storytelling | 465 |
+| This game has Amazing Characters | 458 |
 | This game has Unique Visuals | 353 |
-| This game has a Creative Community | 201 |
+| This game has a Creative Community | 202 |
 | This game has Obsessive Gameplay | 152 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -79,3 +79,9 @@ Diff (max vs sum): -10
 | 2023-04-25 | 4.47 | - | 3,429 | 7,917 |
 | 2023-04-26 | 4.47 | - | 3,432 | 7,920 |
 | 2023-04-27 | 4.47 | - | 3,432 | 7,922 |
+| 2023-04-28 | 4.47 | - | 3,432 | 7,923 |
+| 2023-04-29 | 4.47 | - | 3,432 | 7,928 |
+| 2023-04-30 | 4.47 | - | 3,433 | 7,931 |
+| 2023-05-01 | 4.47 | - | 3,433 | 7,932 |
+| 2023-05-02 | 4.47 | - | 3,436 | 7,938 |
+| 2023-05-03 | 4.47 | - | 3,437 | 7,940 |

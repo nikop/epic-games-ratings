@@ -1,14 +1,14 @@
 # Assassin's Creed Rogue Standard Edition
-Rating: 4.57 (Ranked 426)  
+Rating: 4.57 (Ranked 428)  
 Number of Ratings: 305  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 150  (Ranked 280)  
-Sum: 197 (Ranked 347)  
-Diff (max vs sum): -67
+Max (Character Customization): 154  (Ranked 280)  
+Sum: 201 (Ranked 348)  
+Diff (max vs sum): -68
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 150 |
+| This game has Inclusive Character Customization | 154 |
 | This game has Great Boss Battles | 47 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -92,3 +92,6 @@ Diff (max vs sum): -67
 | 2023-03-23 | 4.57 | - | - | - |
 | 2023-04-20 | 4.57 | - | 149 | 196 |
 | 2023-04-23 | 4.57 | - | 150 | 197 |
+| 2023-04-29 | 4.57 | - | 151 | 198 |
+| 2023-04-30 | 4.57 | - | 152 | 199 |
+| 2023-05-02 | 4.57 | - | 154 | 201 |

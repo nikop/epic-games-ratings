@@ -6,37 +6,37 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 2241
+      "Count": 2286
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1665
+      "Count": 1698
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 398
+      "Count": 409
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 363
+      "Count": 379
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 343
+      "Count": 352
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 339
+      "Count": 349
     },
     {
       "Text": "This game has Challenging Combat",
@@ -48,25 +48,25 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 335
+      "Count": 340
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 379
+      "Count": 387
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 297
+      "Count": 310
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 364
+      "Count": 379
     },
     {
       "Text": "This game has a Kind Community",
@@ -78,13 +78,13 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 355
+      "Count": 371
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 412
+      "Count": 422
     }
   ],
   "EosHistory": [],
@@ -1580,6 +1580,276 @@
       "Rating": 4.5,
       "NumberOfAwards": 7491,
       "NumberOfAwardsMax": 2241
+    },
+    {
+      "Time": "2023-04-28T17:14:30.8856841+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 7495,
+      "NumberOfAwardsMax": 2241
+    },
+    {
+      "Time": "2023-04-28T17:58:18.3012591+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 7498,
+      "NumberOfAwardsMax": 2241
+    },
+    {
+      "Time": "2023-04-28T18:58:29.1833916+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 7503,
+      "NumberOfAwardsMax": 2241
+    },
+    {
+      "Time": "2023-04-28T19:58:34.3385268+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 7507,
+      "NumberOfAwardsMax": 2245
+    },
+    {
+      "Time": "2023-04-29T05:58:05.969924+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 7514,
+      "NumberOfAwardsMax": 2245
+    },
+    {
+      "Time": "2023-04-29T07:57:54.0572499+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 7517,
+      "NumberOfAwardsMax": 2245
+    },
+    {
+      "Time": "2023-04-29T11:58:05.4390164+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7520,
+      "NumberOfAwardsMax": 2245
+    },
+    {
+      "Time": "2023-04-29T15:58:47.9227205+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7523,
+      "NumberOfAwardsMax": 2245
+    },
+    {
+      "Time": "2023-04-29T16:58:03.3278802+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7529,
+      "NumberOfAwardsMax": 2245
+    },
+    {
+      "Time": "2023-04-29T18:57:56.1066532+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7530,
+      "NumberOfAwardsMax": 2245
+    },
+    {
+      "Time": "2023-04-29T19:57:45.5194221+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7531,
+      "NumberOfAwardsMax": 2245
+    },
+    {
+      "Time": "2023-04-29T20:58:08.3095434+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7543,
+      "NumberOfAwardsMax": 2257
+    },
+    {
+      "Time": "2023-04-30T02:57:51.274986+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7546,
+      "NumberOfAwardsMax": 2257
+    },
+    {
+      "Time": "2023-04-30T07:58:39.6852622+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7550,
+      "NumberOfAwardsMax": 2257
+    },
+    {
+      "Time": "2023-04-30T09:57:44.7513503+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7555,
+      "NumberOfAwardsMax": 2257
+    },
+    {
+      "Time": "2023-04-30T15:58:04.970879+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7559,
+      "NumberOfAwardsMax": 2257
+    },
+    {
+      "Time": "2023-04-30T17:58:16.4994075+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7566,
+      "NumberOfAwardsMax": 2257
+    },
+    {
+      "Time": "2023-04-30T21:58:06.7539381+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7581,
+      "NumberOfAwardsMax": 2269
+    },
+    {
+      "Time": "2023-04-30T22:57:59.4604881+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7585,
+      "NumberOfAwardsMax": 2269
+    },
+    {
+      "Time": "2023-05-01T04:58:10.2456711+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7588,
+      "NumberOfAwardsMax": 2269
+    },
+    {
+      "Time": "2023-05-01T06:58:21.9797929+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7591,
+      "NumberOfAwardsMax": 2269
+    },
+    {
+      "Time": "2023-05-01T10:58:09.8349816+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7595,
+      "NumberOfAwardsMax": 2269
+    },
+    {
+      "Time": "2023-05-01T13:03:12.1939396+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7602,
+      "NumberOfAwardsMax": 2269
+    },
+    {
+      "Time": "2023-05-01T15:58:12.1856605+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7603,
+      "NumberOfAwardsMax": 2269
+    },
+    {
+      "Time": "2023-05-01T18:58:43.3922228+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7605,
+      "NumberOfAwardsMax": 2269
+    },
+    {
+      "Time": "2023-05-01T22:57:53.4310513+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7613,
+      "NumberOfAwardsMax": 2277
+    },
+    {
+      "Time": "2023-05-02T01:56:46.4601198+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7617,
+      "NumberOfAwardsMax": 2277
+    },
+    {
+      "Time": "2023-05-02T02:58:30.5762266+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7623,
+      "NumberOfAwardsMax": 2277
+    },
+    {
+      "Time": "2023-05-02T08:58:12.3090891+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7628,
+      "NumberOfAwardsMax": 2277
+    },
+    {
+      "Time": "2023-05-02T09:57:49.1283387+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7632,
+      "NumberOfAwardsMax": 2277
+    },
+    {
+      "Time": "2023-05-02T13:04:49.8084807+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7635,
+      "NumberOfAwardsMax": 2277
+    },
+    {
+      "Time": "2023-05-02T15:57:52.3983471+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7644,
+      "NumberOfAwardsMax": 2277
+    },
+    {
+      "Time": "2023-05-02T16:58:24.6533182+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7645,
+      "NumberOfAwardsMax": 2277
+    },
+    {
+      "Time": "2023-05-02T20:58:04.5169598+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7647,
+      "NumberOfAwardsMax": 2277
+    },
+    {
+      "Time": "2023-05-03T07:57:48.5613524+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7653,
+      "NumberOfAwardsMax": 2283
+    },
+    {
+      "Time": "2023-05-03T10:58:07.4978245+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7656,
+      "NumberOfAwardsMax": 2283
+    },
+    {
+      "Time": "2023-05-03T13:04:01.366234+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7659,
+      "NumberOfAwardsMax": 2283
+    },
+    {
+      "Time": "2023-05-03T15:58:25.2805088+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7660,
+      "NumberOfAwardsMax": 2283
+    },
+    {
+      "Time": "2023-05-03T16:58:47.1741982+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7665,
+      "NumberOfAwardsMax": 2283
+    },
+    {
+      "Time": "2023-05-03T17:58:11.426548+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7668,
+      "NumberOfAwardsMax": 2283
+    },
+    {
+      "Time": "2023-05-03T18:57:54.7144088+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7675,
+      "NumberOfAwardsMax": 2283
+    },
+    {
+      "Time": "2023-05-04T01:55:06.6663414+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 7675,
+      "NumberOfAwardsMax": 2283
+    },
+    {
+      "Time": "2023-05-04T09:58:22.9222351+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 7678,
+      "NumberOfAwardsMax": 2286
+    },
+    {
+      "Time": "2023-05-04T13:58:14.6809624+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 7680,
+      "NumberOfAwardsMax": 2286
+    },
+    {
+      "Time": "2023-05-04T17:58:09.7969573+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 7682,
+      "NumberOfAwardsMax": 2286
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -1587,20 +1857,20 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T17:04:05.4152325+00:00",
-  "LastUpdate_Ratings": "2023-04-28T16:58:47.0522753+00:00",
-  "LastChanged": "2023-04-28T15:58:05.8539024+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:02:21.0790069+00:00",
+  "LastUpdate_Ratings": "2023-05-04T18:57:59.8494419+00:00",
+  "LastChanged": "2023-05-04T17:58:09.796957+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
   "MaxAwardTitle": "Character Customization",
-  "NumberOfAwardsMax": 2241,
-  "NumberOfAwards": 7491,
-  "Ranking_EOS_NewCompleters": 60,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_Progress": 363,
+  "NumberOfAwardsMax": 2286,
+  "NumberOfAwards": 7682,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_Progress": 378,
   "Ranking_PopularitySum": 94,
   "Ranking_Popularity": 94,
-  "Ranking_Rating": 528,
+  "Ranking_Rating": 530,
   "Rating": 4.5,
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00"
 }

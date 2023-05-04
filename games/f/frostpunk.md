@@ -1,24 +1,24 @@
 # Frostpunk
-Rating: 4.74 (Ranked 141)  
+Rating: 4.74 (Ranked 142)  
 Number of Ratings: 11,240  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Quickly Understood Controls): 768  (Ranked 146)  
-Sum: 6,403 (Ranked 109)  
-Diff (max vs sum): 37
+Max (Quickly Understood Controls): 768  (Ranked 147)  
+Sum: 6,419 (Ranked 109)  
+Diff (max vs sum): 38
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 768 |
 | This game is Relaxing | 740 |
-| This game has Amazing Storytelling | 736 |
-| This game is Highly Recommended | 728 |
-| This game is Educational | 701 |
-| This game is Extremely Fun | 688 |
-| This game has Unique Visuals | 606 |
-| This game has Challenging Combat | 564 |
-| This game has Amazing Characters | 524 |
+| This game has Amazing Storytelling | 737 |
+| This game is Highly Recommended | 731 |
+| This game is Educational | 703 |
+| This game is Extremely Fun | 691 |
+| This game has Unique Visuals | 608 |
+| This game has Challenging Combat | 565 |
+| This game has Amazing Characters | 526 |
 | This game has Obsessive Gameplay | 491 |
-| This game has a Creative Community | 348 |
+| This game has a Creative Community | 350 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -111,4 +111,8 @@ Diff (max vs sum): 37
 | 2023-04-25 | 4.74 | - | 766 | 6,392 |
 | 2023-04-26 | 4.74 | - | 768 | 6,399 |
 | 2023-04-27 | 4.74 | - | 768 | 6,402 |
-| 2023-04-28 | 4.74 | - | 768 | 6,403 |
+| 2023-04-28 | 4.74 | - | 768 | 6,404 |
+| 2023-04-29 | 4.74 | - | 768 | 6,408 |
+| 2023-05-01 | 4.74 | - | 768 | 6,413 |
+| 2023-05-02 | 4.74 | - | 768 | 6,415 |
+| 2023-05-03 | 4.74 | - | 768 | 6,419 |

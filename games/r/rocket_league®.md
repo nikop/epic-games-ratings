@@ -1,32 +1,38 @@
 # Rocket League®
-Rating: 4.51 (Ranked 510)  
+Rating: 4.51 (Ranked 513)  
 Number of Ratings: 366,020  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Quick Sessions): 396,236  (Ranked 2)  
-Sum: 2,695,088 (Ranked 2)  
+Max (Great for Quick Sessions): 401,779  (Ranked 2)  
+Sum: 2,740,004 (Ranked 2)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,447,706 (Ranked 2)  
-Completed: 1,239 (0.01%) (Ranked 181)  
+Progressed: 23,547,648 (Ranked 2)  
+Completed: 1,255 (0.01%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 23,410,806 | 1,234 |
 | 2023-04-26 | 23,424,378 | 1,236 |
 | 2023-04-27 | 23,438,051 | 1,239 |
-| 2023-04-28 | 23,447,706 | 1,239 |
+| 2023-04-28 | 23,453,768 | 1,241 |
+| 2023-04-29 | 23,473,443 | 1,246 |
+| 2023-04-30 | 23,493,558 | 1,248 |
+| 2023-05-01 | 23,511,466 | 1,250 |
+| 2023-05-02 | 23,525,243 | 1,251 |
+| 2023-05-03 | 23,537,701 | 1,254 |
+| 2023-05-04 | 23,547,648 | 1,255 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 396,236 |
-| This game has Competitive Players | 342,525 |
-| This game has Quickly Understood Controls | 312,614 |
-| This game is Extremely Fun | 307,098 |
-| This game is Highly Recommended | 295,656 |
-| This game has Challenging Combat | 286,404 |
-| This game has Amazing Storytelling | 257,028 |
-| This game has a Competitive Community | 255,172 |
-| This game has Amazing Characters | 242,355 |
+| This game is Great for Quick Sessions | 401,779 |
+| This game has Competitive Players | 348,936 |
+| This game has Quickly Understood Controls | 318,826 |
+| This game is Extremely Fun | 312,390 |
+| This game is Highly Recommended | 300,385 |
+| This game has Challenging Combat | 290,819 |
+| This game has Amazing Storytelling | 261,434 |
+| This game has a Competitive Community | 258,941 |
+| This game has Amazing Characters | 246,494 |
 | This game has Obsessive Gameplay | 167,946 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -126,3 +132,9 @@ Completed: 1,239 (0.01%) (Ranked 181)
 | 2023-04-25 | 4.51 | - | 393,257 | 2,679,630 |
 | 2023-04-26 | 4.51 | - | 395,079 | 2,688,649 |
 | 2023-04-27 | 4.51 | - | 396,236 | 2,695,088 |
+| 2023-04-28 | 4.51 | - | 397,288 | 2,701,386 |
+| 2023-04-29 | 4.51 | - | 398,548 | 2,710,008 |
+| 2023-04-30 | 4.51 | - | 399,423 | 2,718,637 |
+| 2023-05-01 | 4.51 | - | 400,354 | 2,727,004 |
+| 2023-05-02 | 4.51 | - | 401,108 | 2,734,048 |
+| 2023-05-03 | 4.51 | - | 401,779 | 2,740,004 |

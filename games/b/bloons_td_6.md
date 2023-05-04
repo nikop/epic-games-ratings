@@ -1,23 +1,23 @@
 # Bloons TD 6
-Rating: 4.77 (Ranked 105)  
+Rating: 4.77 (Ranked 103)  
 Number of Ratings: 136  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 2,491  (Ranked 88)  
-Sum: 14,890 (Ranked 60)  
-Diff (max vs sum): 28
+Max (Great for Beginners): 2,595  (Ranked 88)  
+Sum: 15,424 (Ranked 59)  
+Diff (max vs sum): 29
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 2,491 |
-| This game has Diverse Characters | 2,014 |
-| This game has Playful Visuals | 1,558 |
-| This game is Highly Recommended | 1,507 |
-| This game has a Creative Community | 1,307 |
-| This game has Amazing Characters | 1,305 |
-| This game is Extremely Fun | 1,270 |
-| This game has Amazing Storytelling | 1,159 |
-| This game has Quickly Understood Controls | 1,158 |
-| This game is Relaxing | 1,121 |
+| This game is Great for Beginners | 2,595 |
+| This game has Diverse Characters | 2,091 |
+| This game has Playful Visuals | 1,614 |
+| This game is Highly Recommended | 1,557 |
+| This game has Amazing Characters | 1,358 |
+| This game has a Creative Community | 1,350 |
+| This game is Extremely Fun | 1,317 |
+| This game has Amazing Storytelling | 1,200 |
+| This game has Quickly Understood Controls | 1,187 |
+| This game is Relaxing | 1,155 |
 | This game is Great for Quick Sessions | 64 |
 | This game has Competitive Players | 40 |
 | This game has Obsessive Gameplay | 33 |
@@ -118,4 +118,10 @@ Diff (max vs sum): 28
 | 2023-04-25 | 4.77 | - | 2,459 | 14,701 |
 | 2023-04-26 | 4.77 | - | 2,479 | 14,763 |
 | 2023-04-27 | 4.77 | - | 2,491 | 14,858 |
-| 2023-04-28 | 4.77 | - | 2,491 | 14,890 |
+| 2023-04-28 | 4.77 | - | 2,514 | 14,952 |
+| 2023-04-29 | 4.77 | - | 2,529 | 15,032 |
+| 2023-04-30 | 4.77 | - | 2,550 | 15,126 |
+| 2023-05-01 | 4.77 | - | 2,566 | 15,201 |
+| 2023-05-02 | 4.77 | - | 2,566 | 15,265 |
+| 2023-05-03 | 4.77 | - | 2,586 | 15,355 |
+| 2023-05-04 | 4.77 | - | 2,595 | 15,424 |

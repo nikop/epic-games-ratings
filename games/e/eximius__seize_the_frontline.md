@@ -1,19 +1,25 @@
 # Eximius: Seize the Frontline
-Rating: 4.20 (Ranked 800)  
+Rating: 4.19 (Ranked 813)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 182,008 (Ranked 48)  
-Completed: 4 (0.00%) (Ranked 190)  
+Progressed: 183,114 (Ranked 49)  
+Completed: 4 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 181,603 | 4 |
 | 2023-04-26 | 181,741 | 4 |
 | 2023-04-27 | 181,884 | 4 |
-| 2023-04-28 | 182,008 | 4 |
+| 2023-04-28 | 182,058 | 4 |
+| 2023-04-29 | 182,274 | 4 |
+| 2023-04-30 | 182,506 | 4 |
+| 2023-05-01 | 182,713 | 4 |
+| 2023-05-02 | 182,850 | 4 |
+| 2023-05-03 | 182,990 | 4 |
+| 2023-05-04 | 183,114 | 4 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -55,3 +61,5 @@ Completed: 4 (0.00%) (Ranked 190)
 | 2023-04-02 | 4.18 | 0 | 0 |
 | 2023-04-08 | 4.19 | 0 | 0 |
 | 2023-04-23 | 4.20 | 0 | 0 |
+| 2023-04-30 | 4.18 | 0 | 0 |
+| 2023-05-01 | 4.19 | 0 | 0 |

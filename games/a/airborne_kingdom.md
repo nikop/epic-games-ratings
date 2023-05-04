@@ -1,20 +1,26 @@
 # Airborne Kingdom
-Rating: 4.65 (Ranked 287)  
+Rating: 4.65 (Ranked 290)  
 Number of Ratings: 74  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,243 (Ranked 112)  
-Completed: 50 (0.80%) (Ranked 84)  
+Progressed: 6,276 (Ranked 112)  
+Completed: 50 (0.80%) (Ranked 86)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 6,229 | 50 |
 | 2023-04-26 | 6,234 | 50 |
 | 2023-04-27 | 6,242 | 50 |
-| 2023-04-28 | 6,243 | 50 |
+| 2023-04-28 | 6,244 | 50 |
+| 2023-04-29 | 6,249 | 50 |
+| 2023-04-30 | 6,251 | 50 |
+| 2023-05-01 | 6,260 | 50 |
+| 2023-05-02 | 6,263 | 50 |
+| 2023-05-03 | 6,272 | 50 |
+| 2023-05-04 | 6,276 | 50 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

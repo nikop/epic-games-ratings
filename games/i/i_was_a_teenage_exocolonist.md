@@ -1,8 +1,8 @@
 # I Was a Teenage Exocolonist
-Rating: 4.68 (Ranked 231)  
+Rating: 4.68 (Ranked 233)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Count |

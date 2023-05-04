@@ -1,23 +1,23 @@
 # Killing Floor 2
-Rating: 4.41 (Ranked 653)  
+Rating: 4.42 (Ranked 641)  
 Number of Ratings: 18,418  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 11,832  (Ranked 28)  
-Sum: 25,533 (Ranked 46)  
+Max (Great Boss Battles): 11,870  (Ranked 28)  
+Sum: 25,655 (Ranked 46)  
 Diff (max vs sum): -18
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 11,832 |
-| This game is Great for Beginners | 1,664 |
-| This game is Relaxing | 1,579 |
-| This game has Diverse Characters | 1,566 |
-| This game is Extremely Fun | 1,555 |
-| This game has Quickly Understood Controls | 1,544 |
-| This game has Amazing Characters | 1,511 |
-| This game is Highly Recommended | 1,495 |
-| This game has Challenging Combat | 1,471 |
-| This game has Amazing Storytelling | 1,316 |
+| This game has Great Boss Battles | 11,870 |
+| This game is Great for Beginners | 1,678 |
+| This game is Relaxing | 1,587 |
+| This game has Diverse Characters | 1,580 |
+| This game is Extremely Fun | 1,561 |
+| This game has Quickly Understood Controls | 1,549 |
+| This game has Amazing Characters | 1,520 |
+| This game is Highly Recommended | 1,503 |
+| This game has Challenging Combat | 1,480 |
+| This game has Amazing Storytelling | 1,327 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -117,4 +117,10 @@ Diff (max vs sum): -18
 | 2023-04-25 | 4.41 | - | 11,820 | 25,493 |
 | 2023-04-26 | 4.41 | - | 11,827 | 25,514 |
 | 2023-04-27 | 4.41 | - | 11,832 | 25,526 |
-| 2023-04-28 | 4.41 | - | 11,832 | 25,533 |
+| 2023-04-28 | 4.41 | - | 11,832 | 25,537 |
+| 2023-04-29 | 4.41 | - | 11,840 | 25,562 |
+| 2023-04-30 | 4.41 | - | 11,848 | 25,585 |
+| 2023-05-01 | 4.41 | - | 11,848 | 25,597 |
+| 2023-05-02 | 4.41 | - | 11,857 | 25,623 |
+| 2023-05-03 | 4.41 | - | 11,870 | 25,643 |
+| 2023-05-04 | 4.42 | - | 11,870 | 25,655 |

@@ -1,17 +1,22 @@
 # The Surge 2
-Rating: 4.24 (Ranked 777)  
+Rating: 4.24 (Ranked 780)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,532 (Ranked 148)  
-Completed: 10 (0.65%) (Ranked 90)  
+Progressed: 1,538 (Ranked 148)  
+Completed: 10 (0.65%) (Ranked 93)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 1,531 | 10 |
 | 2023-04-27 | 1,532 | 10 |
+| 2023-04-29 | 1,533 | 10 |
+| 2023-04-30 | 1,534 | 10 |
+| 2023-05-01 | 1,536 | 10 |
+| 2023-05-02 | 1,537 | 10 |
+| 2023-05-03 | 1,538 | 10 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

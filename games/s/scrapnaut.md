@@ -1,17 +1,20 @@
 # Scrapnaut
-Rating: 4.34 (Ranked 719)  
+Rating: 4.34 (Ranked 721)  
 Number of Ratings: 38  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 155 (Ranked 226)  
-Completed: 0 (0.00%) (Ranked 190)  
+Progressed: 158 (Ranked 227)  
+Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 155 | 0 |
+| 2023-04-29 | 156 | 0 |
+| 2023-05-02 | 157 | 0 |
+| 2023-05-03 | 158 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,20 +1,20 @@
 # Chivalry 2
-Rating: 4.61 (Ranked 351)  
+Rating: 4.61 (Ranked 353)  
 Number of Ratings: 18,078  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Extremely Fun): 3,988  (Ranked 72)  
-Sum: 25,984 (Ranked 44)  
+Max (Extremely Fun): 4,015  (Ranked 72)  
+Sum: 26,190 (Ranked 44)  
 Diff (max vs sum): 28
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Extremely Fun | 3,988 |
-| This game has Competitive Players | 3,987 |
-| This game has Diverse Characters | 3,946 |
-| This game is Highly Recommended | 3,842 |
-| This game has Quickly Understood Controls | 3,700 |
-| This game has Amazing Characters | 3,396 |
-| This game has Amazing Storytelling | 3,125 |
+| This game is Extremely Fun | 4,015 |
+| This game has Competitive Players | 4,007 |
+| This game has Diverse Characters | 3,996 |
+| This game is Highly Recommended | 3,873 |
+| This game has Quickly Understood Controls | 3,727 |
+| This game has Amazing Characters | 3,421 |
+| This game has Amazing Storytelling | 3,151 |
 | This game has Obsessive Gameplay | 2,760 |
 | This game is Great for Beginners | 968 |
 ## Ratings History
@@ -117,4 +117,10 @@ Diff (max vs sum): 28
 | 2023-04-25 | 4.61 | - | 3,982 | 25,936 |
 | 2023-04-26 | 4.61 | - | 3,985 | 25,963 |
 | 2023-04-27 | 4.61 | - | 3,988 | 25,978 |
-| 2023-04-28 | 4.61 | - | 3,988 | 25,984 |
+| 2023-04-28 | 4.61 | - | 3,988 | 25,996 |
+| 2023-04-29 | 4.61 | - | 3,993 | 26,012 |
+| 2023-04-30 | 4.61 | - | 3,993 | 26,035 |
+| 2023-05-01 | 4.61 | - | 4,001 | 26,058 |
+| 2023-05-02 | 4.61 | - | 4,006 | 26,095 |
+| 2023-05-03 | 4.61 | - | 4,015 | 26,162 |
+| 2023-05-04 | 4.61 | - | 4,015 | 26,190 |

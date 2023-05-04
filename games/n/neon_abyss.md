@@ -1,10 +1,10 @@
 # Neon Abyss
-Rating: 4.68 (Ranked 231)  
+Rating: 4.68 (Ranked 233)  
 Number of Ratings: 8,340  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 660  (Ranked 158)  
-Sum: 5,276 (Ranked 117)  
-Diff (max vs sum): 41
+Sum: 5,282 (Ranked 119)  
+Diff (max vs sum): 39
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -12,12 +12,12 @@ Diff (max vs sum): 41
 | This game has Quickly Understood Controls | 617 |
 | This game has Diverse Characters | 604 |
 | This game is Relaxing | 573 |
-| This game is Highly Recommended | 541 |
+| This game is Highly Recommended | 544 |
 | This game is Extremely Fun | 513 |
 | This game has Amazing Storytelling | 501 |
-| This game has Amazing Characters | 481 |
-| This game has Playful Visuals | 474 |
-| This game has a Creative Community | 312 |
+| This game has Amazing Characters | 482 |
+| This game has Playful Visuals | 475 |
+| This game has a Creative Community | 313 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -107,3 +107,8 @@ Diff (max vs sum): 41
 | 2023-04-26 | 4.68 | - | 659 | 5,273 |
 | 2023-04-27 | 4.68 | - | 660 | 5,274 |
 | 2023-04-28 | 4.68 | - | 660 | 5,276 |
+| 2023-04-29 | 4.68 | - | 660 | 5,277 |
+| 2023-04-30 | 4.68 | - | 660 | 5,279 |
+| 2023-05-01 | 4.68 | - | 660 | 5,280 |
+| 2023-05-02 | 4.68 | - | 660 | 5,281 |
+| 2023-05-03 | 4.68 | - | 660 | 5,282 |

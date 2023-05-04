@@ -1,28 +1,34 @@
 # Galactic Civilizations IV
-Rating: 4.18 (Ranked 819)  
+Rating: 4.18 (Ranked 820)  
 Number of Ratings: 429  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 88  (Ranked 333)  
-Sum: 652 (Ranked 267)  
-Diff (max vs sum): 66
+Max (Diverse Characters): 89  (Ranked 335)  
+Sum: 655 (Ranked 266)  
+Diff (max vs sum): 69
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,255 (Ranked 117)  
-Completed: 0 (0.00%) (Ranked 190)  
+Progressed: 5,494 (Ranked 116)  
+Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 5,159 | 0 |
 | 2023-04-26 | 5,175 | 0 |
 | 2023-04-27 | 5,209 | 0 |
-| 2023-04-28 | 5,255 | 0 |
+| 2023-04-28 | 5,268 | 0 |
+| 2023-04-29 | 5,340 | 0 |
+| 2023-04-30 | 5,405 | 0 |
+| 2023-05-01 | 5,443 | 0 |
+| 2023-05-02 | 5,465 | 0 |
+| 2023-05-03 | 5,479 | 0 |
+| 2023-05-04 | 5,494 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 88 |
-| This game is Relaxing | 85 |
+| This game has Diverse Characters | 89 |
+| This game is Relaxing | 86 |
 | This game has Quickly Understood Controls | 82 |
 | This game is Extremely Fun | 80 |
-| This game is Highly Recommended | 79 |
+| This game is Highly Recommended | 80 |
 | This game has Amazing Storytelling | 77 |
 | This game has Competitive Players | 70 |
 | This game has Amazing Characters | 64 |
@@ -113,3 +119,5 @@ Completed: 0 (0.00%) (Ranked 190)
 | 2023-04-21 | 4.18 | - | 87 | 648 |
 | 2023-04-23 | 4.18 | - | 87 | 649 |
 | 2023-04-25 | 4.18 | - | 88 | 652 |
+| 2023-04-28 | 4.18 | - | 89 | 653 |
+| 2023-04-29 | 4.18 | - | 89 | 655 |

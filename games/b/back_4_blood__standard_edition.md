@@ -1,21 +1,21 @@
 # Back 4 Blood: Standard Edition
-Rating: 4.46 (Ranked 587)  
+Rating: 4.46 (Ranked 590)  
 Number of Ratings: 2,790  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 3,237  (Ranked 81)  
-Sum: 7,123 (Ranked 99)  
+Max (Great Boss Battles): 3,255  (Ranked 81)  
+Sum: 7,161 (Ranked 99)  
 Diff (max vs sum): -18
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 3,237 |
-| This game has Diverse Characters | 616 |
-| This game is Highly Recommended | 571 |
-| This game has Quickly Understood Controls | 563 |
+| This game has Great Boss Battles | 3,255 |
+| This game has Diverse Characters | 621 |
+| This game is Highly Recommended | 574 |
+| This game has Quickly Understood Controls | 568 |
 | This game is Extremely Fun | 555 |
-| This game is Relaxing | 548 |
-| This game has Amazing Storytelling | 532 |
-| This game has Amazing Characters | 501 |
+| This game is Relaxing | 550 |
+| This game has Amazing Storytelling | 533 |
+| This game has Amazing Characters | 505 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -121,3 +121,10 @@ Diff (max vs sum): -18
 | 2023-04-25 | 4.46 | - | 3,232 | 7,111 |
 | 2023-04-26 | 4.46 | - | 3,236 | 7,118 |
 | 2023-04-27 | 4.46 | - | 3,237 | 7,123 |
+| 2023-04-28 | 4.46 | - | 3,237 | 7,125 |
+| 2023-04-29 | 4.46 | - | 3,241 | 7,133 |
+| 2023-04-30 | 4.46 | - | 3,245 | 7,139 |
+| 2023-05-01 | 4.46 | - | 3,245 | 7,142 |
+| 2023-05-02 | 4.46 | - | 3,245 | 7,146 |
+| 2023-05-03 | 4.46 | - | 3,250 | 7,155 |
+| 2023-05-04 | 4.46 | - | 3,255 | 7,161 |

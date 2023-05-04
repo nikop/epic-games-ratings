@@ -1,23 +1,23 @@
 # Disney Dreamlight Valley
-Rating: 4.76 (Ranked 116)  
+Rating: 4.76 (Ranked 113)  
 Number of Ratings: 1,396  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 828  (Ranked 144)  
-Sum: 6,963 (Ranked 102)  
+Max (Great for Beginners): 835  (Ranked 144)  
+Sum: 6,985 (Ranked 102)  
 Diff (max vs sum): 42
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 828 |
+| This game is Great for Beginners | 835 |
 | This game is Relaxing | 763 |
-| This game is Highly Recommended | 743 |
-| This game has Amazing Characters | 743 |
-| This game has Diverse Characters | 726 |
-| This game has Amazing Storytelling | 717 |
-| This game has Quickly Understood Controls | 707 |
+| This game is Highly Recommended | 746 |
+| This game has Amazing Characters | 745 |
+| This game has Diverse Characters | 728 |
+| This game has Amazing Storytelling | 718 |
+| This game has Quickly Understood Controls | 711 |
 | This game is Extremely Fun | 702 |
-| This game has a Creative Community | 574 |
-| This game has Easy Combat | 460 |
+| This game has a Creative Community | 576 |
+| This game has Easy Combat | 461 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -81,3 +81,9 @@ Diff (max vs sum): 42
 | 2023-04-26 | 4.76 | - | 825 | 6,957 |
 | 2023-04-27 | 4.76 | - | 825 | 6,959 |
 | 2023-04-28 | 4.76 | - | 828 | 6,963 |
+| 2023-04-29 | 4.76 | - | 828 | 6,968 |
+| 2023-04-30 | 4.76 | - | 828 | 6,970 |
+| 2023-05-01 | 4.76 | - | 831 | 6,974 |
+| 2023-05-02 | 4.76 | - | 832 | 6,975 |
+| 2023-05-03 | 4.76 | - | 832 | 6,978 |
+| 2023-05-04 | 4.76 | - | 835 | 6,985 |

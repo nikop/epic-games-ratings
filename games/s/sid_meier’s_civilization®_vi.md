@@ -1,23 +1,23 @@
 # Sid Meier’s Civilization® VI
-Rating: 4.74 (Ranked 141)  
+Rating: 4.74 (Ranked 142)  
 Number of Ratings: 57,866  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 30,213  (Ranked 13)  
-Sum: 249,650 (Ranked 10)  
+Max (Diverse Characters): 30,579  (Ranked 13)  
+Sum: 252,860 (Ranked 10)  
 Diff (max vs sum): 3
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 30,213 |
-| This game is Educational | 27,714 |
-| This game is Relaxing | 26,534 |
-| This game is Highly Recommended | 26,381 |
-| This game is Extremely Fun | 25,847 |
-| This game has Quickly Understood Controls | 25,667 |
-| This game has Competitive Players | 24,758 |
-| This game has Amazing Characters | 22,828 |
-| This game has Amazing Storytelling | 22,004 |
-| This game has a Creative Community | 17,704 |
+| This game has Diverse Characters | 30,579 |
+| This game is Educational | 28,115 |
+| This game is Relaxing | 26,885 |
+| This game is Highly Recommended | 26,744 |
+| This game is Extremely Fun | 26,179 |
+| This game has Quickly Understood Controls | 25,979 |
+| This game has Competitive Players | 25,084 |
+| This game has Amazing Characters | 23,099 |
+| This game has Amazing Storytelling | 22,287 |
+| This game has a Creative Community | 17,909 |
 | This game has Obsessive Gameplay | 15,734 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -118,4 +118,10 @@ Diff (max vs sum): 3
 | 2023-04-25 | 4.74 | - | 30,102 | 248,640 |
 | 2023-04-26 | 4.74 | - | 30,160 | 249,036 |
 | 2023-04-27 | 4.74 | - | 30,213 | 249,368 |
-| 2023-04-28 | 4.74 | - | 30,213 | 249,650 |
+| 2023-04-28 | 4.74 | - | 30,276 | 249,792 |
+| 2023-04-29 | 4.74 | - | 30,344 | 250,329 |
+| 2023-04-30 | 4.74 | - | 30,344 | 250,846 |
+| 2023-05-01 | 4.74 | - | 30,415 | 251,419 |
+| 2023-05-02 | 4.74 | - | 30,483 | 252,016 |
+| 2023-05-03 | 4.74 | - | 30,537 | 252,465 |
+| 2023-05-04 | 4.74 | - | 30,579 | 252,860 |

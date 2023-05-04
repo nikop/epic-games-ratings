@@ -24,7 +24,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game is Extremely Fun",
@@ -66,7 +66,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game has Challenging Combat",
@@ -626,6 +626,30 @@
       "Rating": 4.75,
       "NumberOfAwards": 368,
       "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2023-04-30T02:00:49.6366655+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 368,
+      "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2023-05-01T02:01:01.4497738+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 368,
+      "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2023-05-02T19:00:17.0741375+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 369,
+      "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2023-05-02T20:59:32.7860252+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 370,
+      "NumberOfAwardsMax": 40
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -633,20 +657,20 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T17:06:18.3548036+00:00",
-  "LastUpdate_Ratings": "2023-04-28T17:01:25.4536035+00:00",
-  "LastChanged": "2023-04-28T02:01:22.5907748+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:05:00.8840467+00:00",
+  "LastUpdate_Ratings": "2023-05-04T18:59:29.1494825+00:00",
+  "LastChanged": "2023-05-02T20:59:32.786025+00:00",
   "MaxAwardTitle": "Competitive Players",
-  "NumberOfAwardsMax": 39,
-  "NumberOfAwards": 368,
+  "NumberOfAwardsMax": 40,
+  "NumberOfAwards": 370,
   "NumberOfRatings": 212,
-  "Ranking_EOS_NewCompleters": 60,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_Progress": 363,
-  "Ranking_PopularitySum": 306,
-  "Ranking_Popularity": 407,
-  "Ranking_Rating": 126,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_Progress": 378,
+  "Ranking_PopularitySum": 307,
+  "Ranking_Popularity": 409,
+  "Ranking_Rating": 127,
   "Rating": 4.75,
   "FirstSeen": "2022-07-22T20:32:38.799219+00:00"
 }

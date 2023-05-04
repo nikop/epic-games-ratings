@@ -1,32 +1,38 @@
 # Insurgency: Sandstorm
-Rating: 4.61 (Ranked 351)  
+Rating: 4.61 (Ranked 353)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Quickly Understood Controls): 345  (Ranked 208)  
-Sum: 2,582 (Ranked 161)  
-Diff (max vs sum): 47
+Max (Quickly Understood Controls): 349  (Ranked 209)  
+Sum: 2,605 (Ranked 163)  
+Diff (max vs sum): 46
 ## Popularity (Based on EOS Achievements)
-Progressed: 358,247 (Ranked 34)  
-Completed: 2 (0.00%) (Ranked 190)  
+Progressed: 361,700 (Ranked 35)  
+Completed: 2 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 357,042 | 2 |
 | 2023-04-26 | 357,469 | 2 |
 | 2023-04-27 | 357,889 | 2 |
-| 2023-04-28 | 358,247 | 2 |
+| 2023-04-28 | 358,427 | 2 |
+| 2023-04-29 | 359,067 | 2 |
+| 2023-04-30 | 359,772 | 2 |
+| 2023-05-01 | 360,392 | 2 |
+| 2023-05-02 | 360,843 | 2 |
+| 2023-05-03 | 361,342 | 2 |
+| 2023-05-04 | 361,700 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 345 |
-| This game has Challenging Combat | 310 |
-| This game is Extremely Fun | 307 |
-| This game has Competitive Players | 304 |
-| This game has Amazing Storytelling | 278 |
-| This game has Realistic Visuals | 275 |
-| This game is Highly Recommended | 272 |
-| This game has Amazing Characters | 269 |
-| This game has a Competitive Community | 222 |
+| This game has Quickly Understood Controls | 349 |
+| This game has Challenging Combat | 311 |
+| This game is Extremely Fun | 310 |
+| This game has Competitive Players | 305 |
+| This game has Amazing Storytelling | 280 |
+| This game has Realistic Visuals | 278 |
+| This game is Highly Recommended | 274 |
+| This game has Amazing Characters | 271 |
+| This game has a Competitive Community | 227 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
 ## Ratings History
@@ -140,3 +146,9 @@ Completed: 2 (0.00%) (Ranked 190)
 | 2023-04-24 | 4.61 | - | 344 | 2,579 |
 | 2023-04-26 | 4.61 | - | 345 | 2,581 |
 | 2023-04-28 | 4.61 | - | 345 | 2,582 |
+| 2023-04-29 | 4.62 | - | 345 | 2,585 |
+| 2023-04-30 | 4.61 | - | 345 | 2,588 |
+| 2023-05-01 | 4.61 | - | 345 | 2,592 |
+| 2023-05-02 | 4.61 | - | 347 | 2,599 |
+| 2023-05-03 | 4.61 | - | 347 | 2,600 |
+| 2023-05-04 | 4.61 | - | 349 | 2,605 |

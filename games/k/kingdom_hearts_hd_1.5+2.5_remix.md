@@ -1,22 +1,22 @@
 # KINGDOM HEARTS HD 1.5+2.5 ReMIX
-Rating: 4.82 (Ranked 60)  
+Rating: 4.82 (Ranked 59)  
 Number of Ratings: 4,283  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Amazing Characters): 482  (Ranked 184)  
-Sum: 3,625 (Ranked 135)  
-Diff (max vs sum): 49
+Max (Amazing Characters): 482  (Ranked 185)  
+Sum: 3,656 (Ranked 135)  
+Diff (max vs sum): 50
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 2,006 |
 | This game has Amazing Characters | 482 |
-| This game is Great for Beginners | 474 |
-| This game is Relaxing | 458 |
+| This game is Great for Beginners | 481 |
+| This game is Relaxing | 462 |
+| This game is Extremely Fun | 456 |
 | This game has Amazing Storytelling | 455 |
-| This game is Extremely Fun | 451 |
-| This game is Highly Recommended | 441 |
-| This game has Quickly Understood Controls | 440 |
-| This game has Diverse Characters | 424 |
+| This game has Quickly Understood Controls | 447 |
+| This game is Highly Recommended | 446 |
+| This game has Diverse Characters | 427 |
 | This game has Challenging Combat | 404 |
 | This game has Obsessive Gameplay | 269 |
 | This game has a Creative Community | 79 |
@@ -119,4 +119,10 @@ Diff (max vs sum): 49
 | 2023-04-25 | 4.82 | - | 479 | 3,608 |
 | 2023-04-26 | 4.82 | - | 479 | 3,612 |
 | 2023-04-27 | 4.82 | - | 482 | 3,622 |
-| 2023-04-28 | 4.82 | - | 482 | 3,625 |
+| 2023-04-28 | 4.82 | - | 482 | 3,627 |
+| 2023-04-29 | 4.82 | - | 482 | 3,631 |
+| 2023-04-30 | 4.82 | - | 482 | 3,638 |
+| 2023-05-01 | 4.82 | - | 482 | 3,644 |
+| 2023-05-02 | 4.82 | - | 482 | 3,652 |
+| 2023-05-03 | 4.82 | - | 482 | 3,654 |
+| 2023-05-04 | 4.82 | - | 482 | 3,656 |

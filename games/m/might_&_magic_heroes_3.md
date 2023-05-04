@@ -1,19 +1,19 @@
 # Might & Magic Heroes 3
-Rating: 4.82 (Ranked 60)  
+Rating: 4.82 (Ranked 59)  
 Number of Ratings: 165  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 115  (Ranked 304)  
-Sum: 296 (Ranked 322)  
-Diff (max vs sum): -18
+Max (Character Customization): 118  (Ranked 302)  
+Sum: 305 (Ranked 322)  
+Diff (max vs sum): -20
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 115 |
-| This game is Extremely Fun | 32 |
-| This game is Great for Beginners | 31 |
-| This game has Diverse Characters | 27 |
+| This game has Inclusive Character Customization | 118 |
+| This game is Extremely Fun | 34 |
+| This game is Great for Beginners | 32 |
+| This game has Diverse Characters | 29 |
 | This game is Relaxing | 26 |
-| This game is Highly Recommended | 23 |
+| This game is Highly Recommended | 24 |
 | This game has Amazing Storytelling | 21 |
 | This game has Amazing Characters | 21 |
 ## Ratings History
@@ -102,3 +102,8 @@ Diff (max vs sum): -18
 | 2023-04-21 | 4.82 | - | 112 | 292 |
 | 2023-04-23 | 4.82 | - | 113 | 294 |
 | 2023-04-25 | 4.82 | - | 115 | 296 |
+| 2023-04-29 | 4.82 | - | 116 | 299 |
+| 2023-04-30 | 4.82 | - | 116 | 300 |
+| 2023-05-01 | 4.82 | - | 117 | 301 |
+| 2023-05-03 | 4.82 | - | 117 | 303 |
+| 2023-05-04 | 4.82 | - | 118 | 305 |

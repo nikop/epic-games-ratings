@@ -12,13 +12,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 122
+      "Count": 123
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 127
+      "Count": 128
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1928,6 +1928,18 @@
       "Rating": 4.61,
       "NumberOfAwards": 926,
       "NumberOfAwardsMax": 127
+    },
+    {
+      "Time": "2023-04-30T23:57:55.3913871+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 927,
+      "NumberOfAwardsMax": 128
+    },
+    {
+      "Time": "2023-05-03T06:57:49.3371878+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 928,
+      "NumberOfAwardsMax": 128
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -1935,20 +1947,20 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T17:02:50.9523533+00:00",
-  "LastUpdate_Ratings": "2023-04-28T16:58:10.775783+00:00",
-  "LastChanged": "2023-04-24T04:57:13.7376945+00:00",
-  "MaxAwardTitle": "Highly Recommended",
-  "NumberOfAwardsMax": 127,
-  "NumberOfAwards": 926,
+  "LastUpdate_Achievements": "2023-05-04T19:03:11.38935+00:00",
+  "LastUpdate_Ratings": "2023-05-04T18:57:39.2036705+00:00",
+  "LastChanged": "2023-05-03T06:57:49.3371876+00:00",
+  "MaxAwardTitle": "Challenging Combat",
+  "NumberOfAwardsMax": 128,
+  "NumberOfAwards": 928,
   "NumberOfRatings": 5222,
-  "Ranking_EOS_NewCompleters": 60,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_Progress": 363,
-  "Ranking_PopularitySum": 230,
-  "Ranking_Popularity": 293,
-  "Ranking_Rating": 351,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_Progress": 378,
+  "Ranking_PopularitySum": 232,
+  "Ranking_Popularity": 292,
+  "Ranking_Rating": 353,
   "Rating": 4.61,
   "FirstSeen": "2022-07-22T20:18:09.3145857+00:00"
 }

@@ -1,10 +1,10 @@
 # Creature in the Well
-Rating: 4.25 (Ranked 773)  
+Rating: 4.25 (Ranked 775)  
 Number of Ratings: 113  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 22  (Ranked 470)  
-Sum: 22 (Ranked 472)  
-Diff (max vs sum): -2
+Max (Great Boss Battles): 22  (Ranked 473)  
+Sum: 22 (Ranked 474)  
+Diff (max vs sum): -1
 ## Awards
 | Award | Count |
 | ----- | ----- |

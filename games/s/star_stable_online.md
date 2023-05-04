@@ -1,23 +1,23 @@
 # Star Stable Online
-Rating: 4.42 (Ranked 640)  
+Rating: 4.41 (Ranked 651)  
 Number of Ratings: 317  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 122  (Ranked 296)  
-Sum: 906 (Ranked 232)  
-Diff (max vs sum): 64
+Max (Great for Beginners): 126  (Ranked 296)  
+Sum: 920 (Ranked 234)  
+Diff (max vs sum): 62
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 122 |
+| This game is Great for Beginners | 126 |
+| This game has Diverse Characters | 106 |
+| This game has Amazing Characters | 105 |
 | This game is Relaxing | 105 |
-| This game has Amazing Characters | 104 |
-| This game has Diverse Characters | 104 |
+| This game is Highly Recommended | 105 |
 | This game is Educational | 104 |
-| This game is Highly Recommended | 103 |
-| This game has Amazing Storytelling | 99 |
+| This game has Amazing Storytelling | 100 |
+| This game is Extremely Fun | 98 |
 | This game has Quickly Understood Controls | 97 |
-| This game is Extremely Fun | 95 |
-| This game has Easy Combat | 77 |
+| This game has Easy Combat | 78 |
 | This game is Great for Quick Sessions | 69 |
 | This game has Obsessive Gameplay | 49 |
 ## Ratings History
@@ -145,3 +145,7 @@ Diff (max vs sum): 64
 | 2023-04-25 | 4.42 | - | 122 | 900 |
 | 2023-04-26 | 4.42 | - | 122 | 902 |
 | 2023-04-27 | 4.42 | - | 122 | 906 |
+| 2023-04-30 | 4.42 | - | 123 | 910 |
+| 2023-05-01 | 4.42 | - | 124 | 912 |
+| 2023-05-02 | 4.41 | - | 124 | 917 |
+| 2023-05-03 | 4.41 | - | 126 | 920 |

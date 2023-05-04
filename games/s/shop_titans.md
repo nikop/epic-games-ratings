@@ -1,30 +1,36 @@
 # Shop Titans
-Rating: 3.98 (Ranked 878)  
+Rating: 3.98 (Ranked 882)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 4,539  (Ranked 66)  
-Sum: 26,473 (Ranked 42)  
-Diff (max vs sum): 24
+Max (Great for Beginners): 4,551  (Ranked 66)  
+Sum: 26,504 (Ranked 43)  
+Diff (max vs sum): 23
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,049 (Ranked 53)  
-Completed: 75 (0.06%) (Ranked 159)  
+Progressed: 127,528 (Ranked 54)  
+Completed: 76 (0.06%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 126,897 | 73 |
 | 2023-04-26 | 126,949 | 75 |
 | 2023-04-27 | 127,007 | 75 |
-| 2023-04-28 | 127,049 | 75 |
+| 2023-04-28 | 127,071 | 75 |
+| 2023-04-29 | 127,169 | 75 |
+| 2023-04-30 | 127,254 | 75 |
+| 2023-05-01 | 127,338 | 75 |
+| 2023-05-02 | 127,411 | 75 |
+| 2023-05-03 | 127,478 | 76 |
+| 2023-05-04 | 127,528 | 76 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,539 |
+| This game is Great for Beginners | 4,551 |
 | This game is Relaxing | 3,942 |
-| This game has Quickly Understood Controls | 3,924 |
-| This game has Diverse Characters | 3,734 |
-| This game is Highly Recommended | 3,660 |
-| This game has Easy Combat | 3,598 |
-| This game has Playful Visuals | 3,076 |
+| This game has Quickly Understood Controls | 3,927 |
+| This game has Diverse Characters | 3,736 |
+| This game is Highly Recommended | 3,663 |
+| This game has Easy Combat | 3,602 |
+| This game has Playful Visuals | 3,083 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -123,4 +129,10 @@ Completed: 75 (0.06%) (Ranked 159)
 | 2023-04-25 | 3.98 | - | 4,537 | 26,457 |
 | 2023-04-26 | 3.98 | - | 4,537 | 26,463 |
 | 2023-04-27 | 3.98 | - | 4,539 | 26,468 |
-| 2023-04-28 | 3.98 | - | 4,539 | 26,473 |
+| 2023-04-28 | 3.98 | - | 4,539 | 26,474 |
+| 2023-04-29 | 3.98 | - | 4,539 | 26,479 |
+| 2023-04-30 | 3.98 | - | 4,543 | 26,483 |
+| 2023-05-01 | 3.98 | - | 4,545 | 26,490 |
+| 2023-05-02 | 3.98 | - | 4,548 | 26,499 |
+| 2023-05-03 | 3.98 | - | 4,548 | 26,501 |
+| 2023-05-04 | 3.98 | - | 4,551 | 26,504 |

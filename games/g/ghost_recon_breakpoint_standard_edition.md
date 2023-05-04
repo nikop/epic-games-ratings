@@ -1,22 +1,22 @@
 # Ghost Recon Breakpoint Standard Edition
-Rating: 4.54 (Ranked 474)  
+Rating: 4.54 (Ranked 475)  
 Number of Ratings: 4,870  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 1,012  (Ranked 133)  
-Sum: 7,797 (Ranked 91)  
-Diff (max vs sum): 42
+Max (Great for Beginners): 1,032  (Ranked 131)  
+Sum: 7,964 (Ranked 90)  
+Diff (max vs sum): 41
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 1,012 |
-| This game has Quickly Understood Controls | 930 |
-| This game is Relaxing | 891 |
-| This game has Amazing Storytelling | 882 |
-| This game is Extremely Fun | 881 |
-| This game is Highly Recommended | 869 |
-| This game has Diverse Characters | 848 |
-| This game has Amazing Characters | 785 |
-| This game has Realistic Visuals | 699 |
+| This game is Great for Beginners | 1,032 |
+| This game has Quickly Understood Controls | 946 |
+| This game is Relaxing | 910 |
+| This game is Extremely Fun | 904 |
+| This game has Amazing Storytelling | 901 |
+| This game is Highly Recommended | 888 |
+| This game has Diverse Characters | 872 |
+| This game has Amazing Characters | 800 |
+| This game has Realistic Visuals | 711 |
 | This game has Obsessive Gameplay | 458 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -124,4 +124,10 @@ Diff (max vs sum): 42
 | 2023-04-25 | 4.54 | - | 1,008 | 7,734 |
 | 2023-04-26 | 4.54 | - | 1,010 | 7,761 |
 | 2023-04-27 | 4.54 | - | 1,010 | 7,780 |
-| 2023-04-28 | 4.54 | - | 1,012 | 7,797 |
+| 2023-04-28 | 4.54 | - | 1,012 | 7,801 |
+| 2023-04-29 | 4.54 | - | 1,016 | 7,827 |
+| 2023-04-30 | 4.54 | - | 1,023 | 7,875 |
+| 2023-05-01 | 4.54 | - | 1,023 | 7,897 |
+| 2023-05-02 | 4.54 | - | 1,029 | 7,920 |
+| 2023-05-03 | 4.54 | - | 1,029 | 7,936 |
+| 2023-05-04 | 4.54 | - | 1,032 | 7,964 |

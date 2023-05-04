@@ -1,10 +1,10 @@
 # CRSED: F.O.A.D.
-Rating: 4.35 (Ranked 711)  
+Rating: 4.35 (Ranked 713)  
 Number of Ratings: 464  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Highly Recommended): 90  (Ranked 332)  
-Sum: 676 (Ranked 262)  
-Diff (max vs sum): 70
+Max (Highly Recommended): 90  (Ranked 334)  
+Sum: 600 (Ranked 274)  
+Diff (max vs sum): 60
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -13,12 +13,12 @@ Diff (max vs sum): 70
 | This game has Quickly Understood Controls | 82 |
 | This game has Amazing Characters | 80 |
 | This game is Extremely Fun | 78 |
-| This game has Diverse Characters | 75 |
+| This game has Diverse Characters | 76 |
+| This game has Competitive Players | 74 |
 | This game has Challenging Combat | 73 |
-| This game has Competitive Players | 72 |
 | This game is Great for Quick Sessions | 67 |
 | This game has Amazing Storytelling | 60 |
-| This game has a Competitive Community | 56 |
+| This game has a Competitive Community | 57 |
 | This game is Great for Beginners | 53 |
 | This game has Obsessive Gameplay | 36 |
 ## Ratings History
@@ -117,3 +117,6 @@ Diff (max vs sum): 70
 | 2023-04-20 | 4.35 | - | 90 | 674 |
 | 2023-04-23 | 4.35 | - | 90 | 675 |
 | 2023-04-26 | 4.35 | - | 90 | 676 |
+| 2023-04-30 | 4.35 | - | 90 | 677 |
+| 2023-05-01 | 4.35 | - | 90 | 679 |
+| 2023-05-02 | 4.35 | - | 90 | 680 |

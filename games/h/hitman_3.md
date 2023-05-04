@@ -1,32 +1,38 @@
 # HITMAN 3
-Rating: 4.78 (Ranked 100)  
+Rating: 4.78 (Ranked 101)  
 Number of Ratings: 21,082  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 8,753  (Ranked 36)  
-Sum: 64,944 (Ranked 18)  
+Max (Diverse Characters): 8,831  (Ranked 36)  
+Sum: 65,301 (Ranked 18)  
 Diff (max vs sum): 18
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,266,783 (Ranked 7)  
-Completed: 2,051 (0.16%) (Ranked 134)  
+Progressed: 1,269,543 (Ranked 8)  
+Completed: 2,058 (0.16%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 1,265,717 | 2,050 |
 | 2023-04-26 | 1,266,132 | 2,051 |
 | 2023-04-27 | 1,266,508 | 2,051 |
-| 2023-04-28 | 1,266,783 | 2,051 |
+| 2023-04-28 | 1,266,934 | 2,051 |
+| 2023-04-29 | 1,267,443 | 2,053 |
+| 2023-04-30 | 1,267,972 | 2,054 |
+| 2023-05-01 | 1,268,489 | 2,056 |
+| 2023-05-02 | 1,268,915 | 2,056 |
+| 2023-05-03 | 1,269,248 | 2,057 |
+| 2023-05-04 | 1,269,543 | 2,058 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 8,753 |
-| This game is Highly Recommended | 8,518 |
-| This game is Extremely Fun | 8,441 |
+| This game has Diverse Characters | 8,831 |
+| This game is Highly Recommended | 8,560 |
+| This game is Extremely Fun | 8,486 |
 | This game is Great for Beginners | 8,394 |
-| This game has Amazing Storytelling | 8,243 |
-| This game has Amazing Characters | 8,024 |
-| This game has Quickly Understood Controls | 7,900 |
-| This game is Relaxing | 7,861 |
-| This game has a Creative Community | 7,204 |
+| This game has Amazing Storytelling | 8,273 |
+| This game has Amazing Characters | 8,072 |
+| This game has Quickly Understood Controls | 7,924 |
+| This game is Relaxing | 7,886 |
+| This game has a Creative Community | 7,269 |
 | This game has Obsessive Gameplay | 5,956 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -151,4 +157,10 @@ Completed: 2,051 (0.16%) (Ranked 134)
 | 2023-04-25 | 4.78 | - | 8,737 | 64,848 |
 | 2023-04-26 | 4.78 | - | 8,746 | 64,882 |
 | 2023-04-27 | 4.78 | - | 8,753 | 64,921 |
-| 2023-04-28 | 4.78 | - | 8,753 | 64,944 |
+| 2023-04-28 | 4.78 | - | 8,763 | 64,972 |
+| 2023-04-29 | 4.78 | - | 8,775 | 65,027 |
+| 2023-04-30 | 4.78 | - | 8,787 | 65,104 |
+| 2023-05-01 | 4.78 | - | 8,787 | 65,137 |
+| 2023-05-02 | 4.78 | - | 8,799 | 65,201 |
+| 2023-05-03 | 4.78 | - | 8,819 | 65,268 |
+| 2023-05-04 | 4.78 | - | 8,831 | 65,301 |

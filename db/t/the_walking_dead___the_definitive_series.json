@@ -6,7 +6,7 @@
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 456
+      "Count": 458
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -748,6 +748,18 @@
       "Rating": 4.86,
       "NumberOfAwards": 639,
       "NumberOfAwardsMax": 456
+    },
+    {
+      "Time": "2023-04-29T19:58:44.7637018+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 640,
+      "NumberOfAwardsMax": 457
+    },
+    {
+      "Time": "2023-05-04T04:59:23.8156569+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 641,
+      "NumberOfAwardsMax": 458
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -755,17 +767,17 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T17:05:34.7506646+00:00",
-  "LastUpdate_Ratings": "2023-04-28T17:00:37.701784+00:00",
-  "LastChanged": "2023-04-28T02:00:44.0824037+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:04:32.4356432+00:00",
+  "LastUpdate_Ratings": "2023-05-04T18:59:03.185429+00:00",
+  "LastChanged": "2023-05-04T04:59:23.8156568+00:00",
   "MaxAwardTitle": "Impact the Story",
-  "NumberOfAwardsMax": 456,
-  "NumberOfAwards": 639,
+  "NumberOfAwardsMax": 458,
+  "NumberOfAwards": 641,
   "NumberOfRatings": 663,
-  "Ranking_EOS_NewCompleters": 60,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_Progress": 363,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_Progress": 378,
   "Ranking_PopularitySum": 271,
   "Ranking_Popularity": 186,
   "Ranking_Rating": 28,

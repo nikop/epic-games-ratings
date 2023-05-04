@@ -1,14 +1,14 @@
 # The Settlers®: New Allies
-Rating: 3.75 (Ranked 904)  
+Rating: 3.75 (Ranked 907)  
 ## Popularity (Based on Awards)
-Max (Quickly Understood Controls): 44  (Ranked 401)  
-Sum: 87 (Ranked 400)  
-Diff (max vs sum): 1
+Max (Quickly Understood Controls): 47  (Ranked 394)  
+Sum: 91 (Ranked 400)  
+Diff (max vs sum): -6
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 44 |
-| This game is Relaxing | 43 |
+| This game has Quickly Understood Controls | 47 |
+| This game is Relaxing | 44 |
 | This game is Great for Beginners | 42 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -65,3 +65,7 @@ Diff (max vs sum): 1
 | 2023-04-25 | 3.74 | 44 | 127 |
 | 2023-04-27 | 3.74 | 44 | 128 |
 | 2023-04-28 | 3.75 | 44 | 129 |
+| 2023-04-29 | 3.75 | 46 | 90 |
+| 2023-04-30 | 3.76 | 46 | 90 |
+| 2023-05-01 | 3.76 | 47 | 91 |
+| 2023-05-04 | 3.75 | 47 | 91 |

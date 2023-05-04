@@ -1,21 +1,21 @@
 # The Crew 2 Standard Edition
-Rating: 4.66 (Ranked 271)  
+Rating: 4.66 (Ranked 272)  
 Number of Ratings: 2,083  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 412  (Ranked 192)  
-Sum: 2,847 (Ranked 152)  
+Max (Great for Beginners): 415  (Ranked 192)  
+Sum: 2,886 (Ranked 152)  
 Diff (max vs sum): 40
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 412 |
-| This game has Quickly Understood Controls | 368 |
-| This game has Amazing Storytelling | 363 |
-| This game is Relaxing | 355 |
-| This game has Competitive Players | 351 |
-| This game is Extremely Fun | 349 |
-| This game is Highly Recommended | 346 |
-| This game has Amazing Characters | 303 |
+| This game is Great for Beginners | 415 |
+| This game has Quickly Understood Controls | 372 |
+| This game has Amazing Storytelling | 365 |
+| This game has Competitive Players | 362 |
+| This game is Relaxing | 358 |
+| This game is Highly Recommended | 352 |
+| This game is Extremely Fun | 352 |
+| This game has Amazing Characters | 310 |
 | This game has Obsessive Gameplay | 207 |
 | This game is Great for Quick Sessions | 87 |
 ## Ratings History
@@ -135,3 +135,9 @@ Diff (max vs sum): 40
 | 2023-04-26 | 4.66 | - | 407 | 2,832 |
 | 2023-04-27 | 4.66 | - | 409 | 2,842 |
 | 2023-04-28 | 4.66 | - | 412 | 2,847 |
+| 2023-04-29 | 4.66 | - | 412 | 2,855 |
+| 2023-04-30 | 4.66 | - | 413 | 2,860 |
+| 2023-05-01 | 4.66 | - | 413 | 2,865 |
+| 2023-05-02 | 4.66 | - | 415 | 2,875 |
+| 2023-05-03 | 4.66 | - | 415 | 2,881 |
+| 2023-05-04 | 4.66 | - | 415 | 2,886 |

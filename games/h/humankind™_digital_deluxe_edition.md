@@ -1,25 +1,25 @@
 # HUMANKIND™ Digital Deluxe Edition
-Rating: 4.51 (Ranked 510)  
+Rating: 4.51 (Ranked 513)  
 Number of Ratings: 609  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Amazing Storytelling): 104  (Ranked 311)  
-Sum: 878 (Ranked 234)  
+Max (Amazing Storytelling): 104  (Ranked 314)  
+Sum: 884 (Ranked 237)  
 Diff (max vs sum): 77
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 104 |
-| This game is Extremely Fun | 100 |
+| This game is Extremely Fun | 101 |
 | This game has Competitive Players | 100 |
-| This game is Highly Recommended | 94 |
+| This game is Highly Recommended | 96 |
 | This game is Relaxing | 93 |
-| This game is Educational | 89 |
+| This game is Educational | 90 |
 | This game has Quickly Understood Controls | 87 |
 | This game has Diverse Characters | 84 |
 | This game has Amazing Characters | 81 |
 | This game has Obsessive Gameplay | 59 |
 | This game has Beautiful Visuals | 50 |
-| This game has a Creative Community | 46 |
+| This game has a Creative Community | 48 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -112,3 +112,6 @@ Diff (max vs sum): 77
 | 2023-04-19 | 4.51 | - | 104 | 871 |
 | 2023-04-26 | 4.51 | - | 104 | 876 |
 | 2023-04-27 | 4.51 | - | 104 | 878 |
+| 2023-04-29 | 4.51 | - | 104 | 881 |
+| 2023-05-02 | 4.51 | - | 104 | 882 |
+| 2023-05-03 | 4.51 | - | 104 | 884 |

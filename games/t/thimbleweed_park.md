@@ -1,10 +1,10 @@
 # Thimbleweed Park
-Rating: 4.59 (Ranked 392)  
+Rating: 4.59 (Ranked 395)  
 Number of Ratings: 115  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Challenging Puzzles): 30  (Ranked 440)  
-Sum: 30 (Ranked 455)  
-Diff (max vs sum): -15
+Max (Challenging Puzzles): 30  (Ranked 443)  
+Sum: 30 (Ranked 457)  
+Diff (max vs sum): -14
 ## Awards
 | Award | Count |
 | ----- | ----- |

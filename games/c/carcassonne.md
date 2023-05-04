@@ -1,10 +1,10 @@
 # Carcassonne
-Rating: 4.66 (Ranked 271)  
+Rating: 4.66 (Ranked 272)  
 Number of Ratings: 276  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Highly Recommended): 72  (Ranked 352)  
+Max (Highly Recommended): 72  (Ranked 355)  
 Sum: 507 (Ranked 289)  
-Diff (max vs sum): 63
+Diff (max vs sum): 66
 ## Awards
 | Award | Count |
 | ----- | ----- |

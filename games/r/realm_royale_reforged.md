@@ -1,24 +1,24 @@
 # Realm Royale Reforged
-Rating: 4.29 (Ranked 755)  
+Rating: 4.29 (Ranked 757)  
 Number of Ratings: 841  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Relaxing): 128  (Ranked 291)  
-Sum: 1,235 (Ranked 218)  
-Diff (max vs sum): 73
+Max (Diverse Characters): 128  (Ranked 292)  
+Sum: 1,246 (Ranked 218)  
+Diff (max vs sum): 74
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 128 |
-| This game has Diverse Characters | 125 |
-| This game has Competitive Players | 122 |
+| This game has Diverse Characters | 128 |
+| This game has Competitive Players | 123 |
 | This game is Great for Beginners | 122 |
-| This game has Quickly Understood Controls | 114 |
-| This game has Amazing Characters | 111 |
+| This game has Quickly Understood Controls | 116 |
+| This game has Amazing Characters | 112 |
 | This game is Highly Recommended | 109 |
 | This game is Extremely Fun | 108 |
-| This game has Playful Visuals | 104 |
-| This game has Amazing Storytelling | 99 |
-| This game has a Competitive Community | 93 |
+| This game has Playful Visuals | 106 |
+| This game has Amazing Storytelling | 100 |
+| This game has a Competitive Community | 94 |
 | This game has Unique Visuals | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -98,3 +98,7 @@ Diff (max vs sum): 73
 | 2023-04-26 | 4.29 | - | 126 | 1,228 |
 | 2023-04-27 | 4.29 | - | 127 | 1,232 |
 | 2023-04-28 | 4.29 | - | 128 | 1,235 |
+| 2023-04-29 | 4.29 | - | 128 | 1,239 |
+| 2023-05-01 | 4.29 | - | 128 | 1,242 |
+| 2023-05-02 | 4.29 | - | 128 | 1,243 |
+| 2023-05-03 | 4.29 | - | 128 | 1,246 |

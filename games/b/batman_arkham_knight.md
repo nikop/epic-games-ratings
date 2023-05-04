@@ -1,23 +1,23 @@
 # Batman Arkham Knight
-Rating: 4.82 (Ranked 60)  
+Rating: 4.82 (Ranked 59)  
 Number of Ratings: 7,386  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 5,441  (Ranked 59)  
-Sum: 8,529 (Ranked 85)  
-Diff (max vs sum): -26
+Max (Great Boss Battles): 5,464  (Ranked 58)  
+Sum: 8,559 (Ranked 85)  
+Diff (max vs sum): -27
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 5,441 |
-| This game is Great for Beginners | 388 |
-| This game has Diverse Characters | 374 |
-| This game is Highly Recommended | 357 |
+| This game has Great Boss Battles | 5,464 |
+| This game is Great for Beginners | 390 |
+| This game has Diverse Characters | 375 |
+| This game is Highly Recommended | 358 |
 | This game is Extremely Fun | 354 |
-| This game has Amazing Storytelling | 349 |
+| This game has Amazing Storytelling | 350 |
 | This game has Amazing Characters | 343 |
 | This game has Quickly Understood Controls | 341 |
 | This game is Relaxing | 338 |
-| This game has a Creative Community | 244 |
+| This game has a Creative Community | 246 |
 | This game has Obsessive Gameplay | 190 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -113,3 +113,8 @@ Diff (max vs sum): -26
 | 2023-04-26 | 4.82 | - | 5,439 | 8,521 |
 | 2023-04-27 | 4.82 | - | 5,441 | 8,525 |
 | 2023-04-28 | 4.82 | - | 5,441 | 8,529 |
+| 2023-04-29 | 4.82 | - | 5,443 | 8,532 |
+| 2023-04-30 | 4.82 | - | 5,450 | 8,540 |
+| 2023-05-01 | 4.82 | - | 5,455 | 8,548 |
+| 2023-05-02 | 4.82 | - | 5,460 | 8,554 |
+| 2023-05-03 | 4.82 | - | 5,464 | 8,559 |

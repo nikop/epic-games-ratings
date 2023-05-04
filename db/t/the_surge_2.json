@@ -12,6 +12,36 @@
       "Time": "2023-04-27T20:06:11.0155587+00:00",
       "NumProgressed": 1532,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-04-29T16:07:05.249618+00:00",
+      "NumProgressed": 1533,
+      "NumCompleted": 10
+    },
+    {
+      "Time": "2023-04-30T18:06:14.2661808+00:00",
+      "NumProgressed": 1534,
+      "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-01T04:06:14.402979+00:00",
+      "NumProgressed": 1535,
+      "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-01T10:05:47.5533189+00:00",
+      "NumProgressed": 1536,
+      "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-02T16:05:22.1162376+00:00",
+      "NumProgressed": 1537,
+      "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-03T07:05:34.199819+00:00",
+      "NumProgressed": 1538,
+      "NumCompleted": 10
     }
   ],
   "RatingHistory": [
@@ -218,24 +248,24 @@
   ],
   "EOS_Completed_Percentage": 0.65,
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 6,
   "EOS_Completed": 10,
-  "EOS_Progressed": 1532,
-  "LastUpdate_Achievements": "2023-04-28T17:06:58.4441949+00:00",
-  "LastUpdate_Ratings": "2023-04-28T17:02:08.0294311+00:00",
-  "LastChanged_Achievements": "2023-04-28T17:06:58.444192+00:00",
+  "EOS_Progressed": 1538,
+  "LastUpdate_Achievements": "2023-05-04T19:05:30.9275558+00:00",
+  "LastUpdate_Ratings": "2023-05-04T18:59:50.3161818+00:00",
+  "LastChanged_Achievements": "2023-05-04T19:05:30.9275534+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 60,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_Completed": 90,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_Completed": 93,
   "Ranking_EOS_Progress": 148,
-  "Ranking_PopularitySum": 488,
-  "Ranking_Popularity": 488,
-  "Ranking_Rating": 777,
+  "Ranking_PopularitySum": 490,
+  "Ranking_Popularity": 490,
+  "Ranking_Rating": 780,
   "Rating": 4.24,
   "FirstSeen": "2022-08-21T23:30:56.8075479+00:00"
 }

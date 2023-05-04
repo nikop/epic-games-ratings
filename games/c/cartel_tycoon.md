@@ -1,13 +1,13 @@
 # Cartel Tycoon
-Rating: 4.35 (Ranked 711)  
+Rating: 4.35 (Ranked 713)  
 Number of Ratings: 101  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 282 (Ranked 203)  
-Completed: 1 (0.35%) (Ranked 106)  
+Progressed: 304 (Ranked 204)  
+Completed: 1 (0.33%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -15,6 +15,11 @@ Completed: 1 (0.35%) (Ranked 106)
 | 2023-04-26 | 279 | 1 |
 | 2023-04-27 | 280 | 1 |
 | 2023-04-28 | 282 | 1 |
+| 2023-04-29 | 285 | 1 |
+| 2023-04-30 | 294 | 1 |
+| 2023-05-01 | 298 | 1 |
+| 2023-05-03 | 300 | 1 |
+| 2023-05-04 | 304 | 1 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

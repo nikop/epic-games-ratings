@@ -1,33 +1,39 @@
 # Horizon Chase Turbo
-Rating: 4.56 (Ranked 443)  
+Rating: 4.57 (Ranked 428)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 133  (Ranked 289)  
-Sum: 1,065 (Ranked 224)  
-Diff (max vs sum): 65
+Sum: 1,070 (Ranked 225)  
+Diff (max vs sum): 64
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,963 (Ranked 12)  
-Completed: 229 (0.03%) (Ranked 171)  
+Progressed: 733,090 (Ranked 12)  
+Completed: 232 (0.03%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 717,244 | 227 |
 | 2023-04-26 | 717,602 | 227 |
 | 2023-04-27 | 718,219 | 229 |
-| 2023-04-28 | 718,963 | 229 |
+| 2023-04-28 | 719,214 | 229 |
+| 2023-04-29 | 720,447 | 229 |
+| 2023-04-30 | 721,642 | 229 |
+| 2023-05-01 | 722,689 | 229 |
+| 2023-05-02 | 723,454 | 229 |
+| 2023-05-03 | 724,172 | 231 |
+| 2023-05-04 | 733,090 | 232 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 133 |
-| This game has Quickly Understood Controls | 113 |
+| This game has Quickly Understood Controls | 114 |
 | This game is Relaxing | 111 |
-| This game is Highly Recommended | 102 |
+| This game is Highly Recommended | 103 |
+| This game is Great for Quick Sessions | 99 |
 | This game has Competitive Players | 98 |
-| This game is Great for Quick Sessions | 97 |
 | This game has Playful Visuals | 95 |
 | This game is Extremely Fun | 90 |
 | This game has Amazing Characters | 82 |
-| This game has Amazing Storytelling | 78 |
+| This game has Amazing Storytelling | 79 |
 | This game has Diverse Characters | 75 |
 | This game has a Competitive Community | 66 |
 ## Ratings History
@@ -132,3 +138,7 @@ Completed: 229 (0.03%) (Ranked 171)
 | 2023-04-25 | 4.56 | - | 132 | 1,061 |
 | 2023-04-27 | 4.56 | - | 133 | 1,063 |
 | 2023-04-28 | 4.56 | - | 133 | 1,065 |
+| 2023-04-29 | 4.56 | - | 133 | 1,067 |
+| 2023-05-01 | 4.56 | - | 133 | 1,069 |
+| 2023-05-02 | 4.56 | - | 133 | 1,070 |
+| 2023-05-03 | 4.57 | - | 133 | 1,070 |

@@ -1,9 +1,9 @@
 # Train Life: A Railway Simulator
-Rating: 3.99 (Ranked 875)  
+Rating: 4.00 (Ranked 876)  
 Number of Ratings: 42  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Count |
@@ -50,3 +50,4 @@ Diff (max vs sum): 0
 | 2023-02-18 | 4.03 | - | - | - |
 | 2023-03-04 | 3.99 | - | - | - |
 | 2023-03-31 | 3.99 | - | 0 | 0 |
+| 2023-05-02 | 4.00 | - | 0 | 0 |

@@ -1,9 +1,9 @@
 # Speed Brawl
-Rating: 4.32 (Ranked 736)  
+Rating: 4.32 (Ranked 737)  
 Number of Ratings: 104  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 29  (Ranked 445)  
-Sum: 29 (Ranked 457)  
+Max (Great Boss Battles): 29  (Ranked 447)  
+Sum: 29 (Ranked 459)  
 Diff (max vs sum): -12
 ## Awards
 | Award | Count |

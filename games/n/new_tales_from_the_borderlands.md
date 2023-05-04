@@ -1,19 +1,22 @@
 # New Tales from the Borderlands
-Rating: 4.07 (Ranked 859)  
+Rating: 4.07 (Ranked 861)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,363 (Ranked 128)  
-Completed: 0 (0.00%) (Ranked 190)  
+Progressed: 3,374 (Ranked 130)  
+Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 3,357 | 0 |
 | 2023-04-26 | 3,358 | 0 |
 | 2023-04-27 | 3,361 | 0 |
-| 2023-04-28 | 3,363 | 0 |
+| 2023-04-28 | 3,364 | 0 |
+| 2023-04-29 | 3,369 | 0 |
+| 2023-04-30 | 3,371 | 0 |
+| 2023-05-03 | 3,374 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

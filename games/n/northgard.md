@@ -1,15 +1,16 @@
 # Northgard
-Rating: 4.72 (Ranked 164)  
+Rating: 4.72 (Ranked 166)  
 Number of Ratings: 82  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 27  (Ranked 450)  
-Sum: 53 (Ranked 427)  
-Diff (max vs sum): 23
+Max (Great for Beginners): 27  (Ranked 453)  
+Sum: 73 (Ranked 411)  
+Diff (max vs sum): 42
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 27 |
 | This game is Relaxing | 26 |
+| This game has Diverse Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -67,3 +68,4 @@ Diff (max vs sum): 23
 | 2023-04-11 | 4.71 | - | 27 | 52 |
 | 2023-04-14 | 4.71 | - | 27 | 53 |
 | 2023-04-16 | 4.72 | - | 27 | 53 |
+| 2023-05-03 | 4.72 | - | 27 | 73 |

@@ -1,31 +1,37 @@
 # Transport Fever 2
-Rating: 4.70 (Ranked 190)  
+Rating: 4.70 (Ranked 192)  
 Number of Ratings: 180  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Highly Recommended): 37  (Ranked 413)  
-Sum: 256 (Ranked 336)  
-Diff (max vs sum): 77
+Max (Highly Recommended): 37  (Ranked 417)  
+Sum: 258 (Ranked 338)  
+Diff (max vs sum): 79
 ## Popularity (Based on EOS Achievements)
-Progressed: 974 (Ranked 159)  
-Completed: 0 (0.00%) (Ranked 190)  
+Progressed: 1,027 (Ranked 158)  
+Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 954 | 0 |
 | 2023-04-26 | 961 | 0 |
 | 2023-04-27 | 972 | 0 |
-| 2023-04-28 | 974 | 0 |
+| 2023-04-28 | 978 | 0 |
+| 2023-04-29 | 987 | 0 |
+| 2023-04-30 | 992 | 0 |
+| 2023-05-01 | 1,010 | 0 |
+| 2023-05-02 | 1,017 | 0 |
+| 2023-05-03 | 1,022 | 0 |
+| 2023-05-04 | 1,027 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 37 |
 | This game has Amazing Storytelling | 33 |
 | This game is Extremely Fun | 32 |
-| This game is Great for Beginners | 29 |
+| This game is Great for Beginners | 30 |
 | This game is Relaxing | 28 |
 | This game has Quickly Understood Controls | 28 |
+| This game has a Creative Community | 24 |
 | This game is Educational | 24 |
-| This game has a Creative Community | 23 |
 | This game has Amazing Characters | 22 |
 | This game has Obsessive Gameplay | 21 |
 ## Ratings History
@@ -86,3 +92,5 @@ Completed: 0 (0.00%) (Ranked 190)
 | 2023-04-16 | 4.70 | - | 36 | 253 |
 | 2023-04-17 | 4.70 | - | 36 | 254 |
 | 2023-04-26 | 4.70 | - | 37 | 256 |
+| 2023-05-01 | 4.70 | - | 37 | 257 |
+| 2023-05-04 | 4.70 | - | 37 | 258 |

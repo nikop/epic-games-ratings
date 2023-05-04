@@ -2,25 +2,25 @@
 Rating: 4.89 (Ranked 12)  
 Number of Ratings: 102,658  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Impact the Story): 136,613  (Ranked 7)  
-Sum: 347,277 (Ranked 8)  
-Diff (max vs sum): -1
+Max (Impact the Story): 138,269  (Ranked 6)  
+Sum: 351,963 (Ranked 8)  
+Diff (max vs sum): -2
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| In this game, your choices Impact the Story | 136,613 |
-| This game has Great Boss Battles | 74,609 |
-| This game is Great for Beginners | 13,233 |
-| This game has Diverse Characters | 12,921 |
-| This game is Highly Recommended | 12,829 |
-| This game is Relaxing | 12,826 |
-| This game is Extremely Fun | 12,768 |
-| This game has Amazing Storytelling | 12,712 |
-| This game has Amazing Characters | 12,638 |
-| This game is Educational | 12,422 |
-| This game has Quickly Understood Controls | 12,268 |
-| This game has Realistic Visuals | 12,149 |
-| This game has a Creative Community | 9,289 |
+| In this game, your choices Impact the Story | 138,269 |
+| This game has Great Boss Battles | 75,492 |
+| This game is Great for Beginners | 13,463 |
+| This game has Diverse Characters | 13,128 |
+| This game is Highly Recommended | 13,045 |
+| This game is Relaxing | 13,024 |
+| This game is Extremely Fun | 12,943 |
+| This game has Amazing Storytelling | 12,907 |
+| This game has Amazing Characters | 12,846 |
+| This game is Educational | 12,624 |
+| This game has Quickly Understood Controls | 12,451 |
+| This game has Realistic Visuals | 12,342 |
+| This game has a Creative Community | 9,429 |
 | This game has Obsessive Gameplay | 5,801 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -119,4 +119,10 @@ Diff (max vs sum): -1
 | 2023-04-25 | 4.89 | - | 136,163 | 345,694 |
 | 2023-04-26 | 4.89 | - | 136,374 | 346,306 |
 | 2023-04-27 | 4.89 | - | 136,613 | 346,970 |
-| 2023-04-28 | 4.89 | - | 136,613 | 347,277 |
+| 2023-04-28 | 4.89 | - | 136,850 | 347,641 |
+| 2023-04-29 | 4.89 | - | 137,139 | 348,446 |
+| 2023-04-30 | 4.89 | - | 137,446 | 349,292 |
+| 2023-05-01 | 4.89 | - | 137,782 | 350,254 |
+| 2023-05-02 | 4.89 | - | 138,032 | 350,980 |
+| 2023-05-03 | 4.89 | - | 138,269 | 351,681 |
+| 2023-05-04 | 4.89 | - | 138,269 | 351,963 |

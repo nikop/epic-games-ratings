@@ -1,32 +1,38 @@
 # Ghostbusters: Spirits Unleashed
-Rating: 4.49 (Ranked 544)  
+Rating: 4.49 (Ranked 547)  
 ## Popularity (Based on Awards)
-Max (Great for Quick Sessions): 223  (Ranked 244)  
-Sum: 2,002 (Ranked 183)  
-Diff (max vs sum): 61
+Max (Great for Quick Sessions): 226  (Ranked 244)  
+Sum: 2,034 (Ranked 184)  
+Diff (max vs sum): 60
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,117 (Ranked 88)  
-Completed: 40 (0.19%) (Ranked 129)  
+Progressed: 21,476 (Ranked 88)  
+Completed: 40 (0.19%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 20,950 | 38 |
 | 2023-04-26 | 21,010 | 38 |
 | 2023-04-27 | 21,087 | 40 |
-| 2023-04-28 | 21,117 | 40 |
+| 2023-04-28 | 21,139 | 40 |
+| 2023-04-29 | 21,209 | 40 |
+| 2023-04-30 | 21,285 | 40 |
+| 2023-05-01 | 21,350 | 40 |
+| 2023-05-02 | 21,395 | 40 |
+| 2023-05-03 | 21,454 | 40 |
+| 2023-05-04 | 21,476 | 40 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 223 |
-| This game is Great for Beginners | 214 |
+| This game is Great for Quick Sessions | 226 |
+| This game is Great for Beginners | 217 |
 | This game has Diverse Characters | 208 |
-| This game has Competitive Players | 203 |
-| This game is Extremely Fun | 199 |
-| This game has Amazing Storytelling | 198 |
-| This game is Highly Recommended | 194 |
-| This game is Relaxing | 191 |
-| This game has Quickly Understood Controls | 188 |
-| This game has Amazing Characters | 184 |
+| This game has Amazing Storytelling | 207 |
+| This game has Competitive Players | 205 |
+| This game is Extremely Fun | 204 |
+| This game is Highly Recommended | 195 |
+| This game is Relaxing | 193 |
+| This game has Quickly Understood Controls | 190 |
+| This game has Amazing Characters | 189 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
 ## Ratings History
@@ -77,4 +83,10 @@ Completed: 40 (0.19%) (Ranked 129)
 | 2023-04-25 | 4.49 | 219 | 1,981 |
 | 2023-04-26 | 4.49 | 220 | 1,990 |
 | 2023-04-27 | 4.49 | 223 | 1,999 |
-| 2023-04-28 | 4.49 | 223 | 2,002 |
+| 2023-04-28 | 4.49 | 223 | 2,004 |
+| 2023-04-29 | 4.49 | 225 | 2,013 |
+| 2023-04-30 | 4.49 | 226 | 2,018 |
+| 2023-05-01 | 4.50 | 226 | 2,027 |
+| 2023-05-02 | 4.49 | 226 | 2,028 |
+| 2023-05-03 | 4.49 | 226 | 2,032 |
+| 2023-05-04 | 4.49 | 226 | 2,034 |

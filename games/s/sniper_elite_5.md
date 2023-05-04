@@ -1,19 +1,24 @@
 # Sniper Elite 5
-Rating: 4.39 (Ranked 674)  
+Rating: 4.43 (Ranked 633)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 656 (Ranked 175)  
-Completed: 2 (0.30%) (Ranked 115)  
+Progressed: 680 (Ranked 175)  
+Completed: 2 (0.29%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 646 | 2 |
 | 2023-04-26 | 649 | 2 |
 | 2023-04-27 | 654 | 2 |
-| 2023-04-28 | 656 | 2 |
+| 2023-04-28 | 657 | 2 |
+| 2023-04-29 | 662 | 2 |
+| 2023-04-30 | 665 | 2 |
+| 2023-05-01 | 668 | 2 |
+| 2023-05-02 | 675 | 2 |
+| 2023-05-03 | 680 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -37,3 +42,6 @@ Completed: 2 (0.30%) (Ranked 115)
 | 2023-04-23 | 4.41 | 0 | 0 |
 | 2023-04-24 | 4.42 | 0 | 0 |
 | 2023-04-25 | 4.39 | 0 | 0 |
+| 2023-04-29 | 4.40 | 0 | 0 |
+| 2023-04-30 | 4.42 | 0 | 0 |
+| 2023-05-04 | 4.43 | 0 | 0 |

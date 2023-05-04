@@ -1,34 +1,40 @@
 # Hogwarts Legacy
-Rating: 4.78 (Ranked 100)  
+Rating: 4.77 (Ranked 103)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 18,079  (Ranked 18)  
-Sum: 32,758 (Ranked 34)  
+Max (Character Customization): 18,359  (Ranked 18)  
+Sum: 33,437 (Ranked 34)  
 Diff (max vs sum): -16
 ## Popularity (Based on EOS Achievements)
-Progressed: 264,359 (Ranked 37)  
-Completed: 334 (0.13%) (Ranked 141)  
+Progressed: 265,477 (Ranked 38)  
+Completed: 346 (0.13%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 264,031 | 333 |
 | 2023-04-26 | 264,149 | 333 |
 | 2023-04-27 | 264,260 | 334 |
-| 2023-04-28 | 264,359 | 334 |
+| 2023-04-28 | 264,438 | 334 |
+| 2023-04-29 | 264,657 | 338 |
+| 2023-04-30 | 264,889 | 340 |
+| 2023-05-01 | 265,089 | 341 |
+| 2023-05-02 | 265,238 | 343 |
+| 2023-05-03 | 265,373 | 343 |
+| 2023-05-04 | 265,477 | 346 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 18,079 |
-| This game has Great Boss Battles | 8,370 |
-| This game is Extremely Fun | 713 |
-| This game is Great for Beginners | 693 |
-| This game has Diverse Characters | 676 |
-| This game is Relaxing | 675 |
-| This game has Amazing Storytelling | 665 |
-| This game has Amazing Characters | 662 |
-| This game is Highly Recommended | 632 |
-| This game has Quickly Understood Controls | 583 |
-| This game has Beautiful Visuals | 568 |
-| This game has a Creative Community | 442 |
+| This game has Inclusive Character Customization | 18,359 |
+| This game has Great Boss Battles | 8,565 |
+| This game is Extremely Fun | 738 |
+| This game is Great for Beginners | 714 |
+| This game is Relaxing | 701 |
+| This game has Diverse Characters | 697 |
+| This game has Amazing Storytelling | 690 |
+| This game has Amazing Characters | 678 |
+| This game is Highly Recommended | 653 |
+| This game has Quickly Understood Controls | 607 |
+| This game has Beautiful Visuals | 583 |
+| This game has a Creative Community | 452 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -67,4 +73,10 @@ Completed: 334 (0.13%) (Ranked 141)
 | 2023-04-25 | 4.78 | 17,993 | 32,527 |
 | 2023-04-26 | 4.78 | 18,040 | 32,618 |
 | 2023-04-27 | 4.78 | 18,079 | 32,709 |
-| 2023-04-28 | 4.78 | 18,079 | 32,758 |
+| 2023-04-28 | 4.78 | 18,116 | 32,807 |
+| 2023-04-29 | 4.78 | 18,160 | 32,909 |
+| 2023-04-30 | 4.78 | 18,234 | 33,065 |
+| 2023-05-01 | 4.78 | 18,275 | 33,198 |
+| 2023-05-02 | 4.78 | 18,275 | 33,258 |
+| 2023-05-03 | 4.77 | 18,328 | 33,362 |
+| 2023-05-04 | 4.77 | 18,359 | 33,437 |

@@ -1,24 +1,30 @@
 # Iratus: Lord of the Dead
-Rating: 4.37 (Ranked 694)  
+Rating: 4.37 (Ranked 695)  
 Number of Ratings: 10,109  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 2,130  (Ranked 100)  
-Sum: 4,127 (Ranked 130)  
-Diff (max vs sum): -30
+Max (Character Customization): 2,131  (Ranked 101)  
+Sum: 4,128 (Ranked 130)  
+Diff (max vs sum): -29
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,390 (Ranked 84)  
-Completed: 14 (0.05%) (Ranked 163)  
+Progressed: 27,139 (Ranked 85)  
+Completed: 14 (0.05%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 26,106 | 13 |
 | 2023-04-26 | 26,201 | 14 |
 | 2023-04-27 | 26,308 | 14 |
-| 2023-04-28 | 26,390 | 14 |
+| 2023-04-28 | 26,424 | 14 |
+| 2023-04-29 | 26,551 | 14 |
+| 2023-04-30 | 26,722 | 14 |
+| 2023-05-01 | 26,855 | 14 |
+| 2023-05-02 | 26,950 | 14 |
+| 2023-05-03 | 27,055 | 14 |
+| 2023-05-04 | 27,139 | 14 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 2,130 |
+| This game has Inclusive Character Customization | 2,131 |
 | This game is Highly Recommended | 225 |
 | This game is Relaxing | 225 |
 | This game has Amazing Storytelling | 222 |
@@ -107,3 +113,4 @@ Completed: 14 (0.05%) (Ranked 163)
 | 2023-04-21 | 4.37 | - | 2,129 | 4,125 |
 | 2023-04-23 | 4.37 | - | 2,130 | 4,126 |
 | 2023-04-24 | 4.37 | - | 2,130 | 4,127 |
+| 2023-04-30 | 4.37 | - | 2,131 | 4,128 |

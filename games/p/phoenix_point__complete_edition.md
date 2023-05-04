@@ -1,22 +1,22 @@
 # Phoenix Point: Complete Edition
-Rating: 4.56 (Ranked 443)  
+Rating: 4.56 (Ranked 447)  
 Number of Ratings: 2,121  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 1,765  (Ranked 106)  
-Sum: 7,084 (Ranked 100)  
+Max (Character Customization): 1,765  (Ranked 107)  
+Sum: 7,090 (Ranked 101)  
 Diff (max vs sum): 6
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,765 |
+| This game is Extremely Fun | 674 |
 | This game is Highly Recommended | 673 |
-| This game is Extremely Fun | 673 |
 | This game has Challenging Combat | 650 |
-| This game has Diverse Characters | 645 |
-| This game has Amazing Storytelling | 629 |
+| This game has Diverse Characters | 646 |
+| This game has Amazing Storytelling | 630 |
 | This game has Quickly Understood Controls | 617 |
-| This game is Relaxing | 601 |
-| This game has Amazing Characters | 566 |
+| This game is Relaxing | 603 |
+| This game has Amazing Characters | 567 |
 | This game has a Creative Community | 265 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -106,3 +106,7 @@ Diff (max vs sum): 6
 | 2023-04-23 | 4.56 | - | 1,764 | 7,081 |
 | 2023-04-24 | 4.56 | - | 1,765 | 7,082 |
 | 2023-04-25 | 4.56 | - | 1,765 | 7,084 |
+| 2023-04-30 | 4.56 | - | 1,765 | 7,085 |
+| 2023-05-01 | 4.56 | - | 1,765 | 7,086 |
+| 2023-05-02 | 4.56 | - | 1,765 | 7,087 |
+| 2023-05-04 | 4.56 | - | 1,765 | 7,090 |

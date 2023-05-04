@@ -1,34 +1,40 @@
 # Kingdom Come: Deliverance
-Rating: 4.71 (Ranked 177)  
+Rating: 4.71 (Ranked 178)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 7,118  (Ranked 43)  
-Sum: 26,633 (Ranked 41)  
+Max (Character Customization): 7,133  (Ranked 43)  
+Sum: 26,698 (Ranked 41)  
 Diff (max vs sum): 2
 ## Popularity (Based on EOS Achievements)
-Progressed: 778,372 (Ranked 11)  
-Completed: 37 (0.00%) (Ranked 190)  
+Progressed: 779,517 (Ranked 11)  
+Completed: 38 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 777,976 | 37 |
 | 2023-04-26 | 778,113 | 37 |
 | 2023-04-27 | 778,278 | 37 |
-| 2023-04-28 | 778,372 | 37 |
+| 2023-04-28 | 778,445 | 37 |
+| 2023-04-29 | 778,672 | 37 |
+| 2023-04-30 | 778,895 | 38 |
+| 2023-05-01 | 779,099 | 38 |
+| 2023-05-02 | 779,243 | 38 |
+| 2023-05-03 | 779,399 | 38 |
+| 2023-05-04 | 779,517 | 38 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,118 |
-| This game has Great Boss Battles | 5,250 |
-| This game has Challenging Combat | 1,670 |
-| This game has Amazing Storytelling | 1,634 |
-| This game has Diverse Characters | 1,606 |
-| This game is Extremely Fun | 1,604 |
-| This game is Highly Recommended | 1,600 |
-| This game has Amazing Characters | 1,588 |
-| This game has Realistic Visuals | 1,573 |
-| This game is Educational | 1,523 |
-| This game is Relaxing | 1,467 |
+| This game has Inclusive Character Customization | 7,133 |
+| This game has Great Boss Battles | 5,258 |
+| This game has Challenging Combat | 1,673 |
+| This game has Amazing Storytelling | 1,638 |
+| This game has Diverse Characters | 1,612 |
+| This game is Extremely Fun | 1,611 |
+| This game is Highly Recommended | 1,601 |
+| This game has Amazing Characters | 1,593 |
+| This game has Realistic Visuals | 1,578 |
+| This game is Educational | 1,528 |
+| This game is Relaxing | 1,473 |
 | This game has Obsessive Gameplay | 1,048 |
 | This game has a Creative Community | 664 |
 ## Ratings History
@@ -126,4 +132,10 @@ Completed: 37 (0.00%) (Ranked 190)
 | 2023-04-25 | 4.71 | - | 7,116 | 26,612 |
 | 2023-04-26 | 4.71 | - | 7,118 | 26,618 |
 | 2023-04-27 | 4.71 | - | 7,118 | 26,627 |
-| 2023-04-28 | 4.71 | - | 7,118 | 26,633 |
+| 2023-04-28 | 4.71 | - | 7,121 | 26,640 |
+| 2023-04-29 | 4.71 | - | 7,126 | 26,656 |
+| 2023-04-30 | 4.71 | - | 7,126 | 26,663 |
+| 2023-05-01 | 4.71 | - | 7,126 | 26,670 |
+| 2023-05-02 | 4.71 | - | 7,129 | 26,683 |
+| 2023-05-03 | 4.71 | - | 7,133 | 26,691 |
+| 2023-05-04 | 4.71 | - | 7,133 | 26,698 |

@@ -1,20 +1,26 @@
 # Tannenberg
-Rating: 4.39 (Ranked 674)  
+Rating: 4.39 (Ranked 679)  
 Number of Ratings: 13,393  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Competitive Players): 321  (Ranked 214)  
-Sum: 2,820 (Ranked 153)  
+Max (Competitive Players): 321  (Ranked 215)  
+Sum: 2,821 (Ranked 154)  
 Diff (max vs sum): 61
 ## Popularity (Based on EOS Achievements)
-Progressed: 105,991 (Ranked 57)  
-Completed: 19 (0.02%) (Ranked 173)  
+Progressed: 107,223 (Ranked 58)  
+Completed: 21 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 105,598 | 19 |
 | 2023-04-26 | 105,751 | 19 |
 | 2023-04-27 | 105,880 | 19 |
-| 2023-04-28 | 105,991 | 19 |
+| 2023-04-28 | 106,054 | 19 |
+| 2023-04-29 | 106,305 | 20 |
+| 2023-04-30 | 106,551 | 20 |
+| 2023-05-01 | 106,798 | 20 |
+| 2023-05-02 | 106,966 | 20 |
+| 2023-05-03 | 107,108 | 20 |
+| 2023-05-04 | 107,223 | 21 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -24,7 +30,7 @@ Completed: 19 (0.02%) (Ranked 173)
 | This game has Diverse Characters | 302 |
 | This game is Relaxing | 302 |
 | This game has Challenging Combat | 274 |
-| This game is Highly Recommended | 270 |
+| This game is Highly Recommended | 271 |
 | This game has Amazing Characters | 267 |
 | This game has a Competitive Community | 254 |
 | This game has Realistic Visuals | 253 |
@@ -124,3 +130,4 @@ Completed: 19 (0.02%) (Ranked 173)
 | 2023-04-18 | 4.39 | - | 321 | 2,817 |
 | 2023-04-20 | 4.39 | - | 321 | 2,818 |
 | 2023-04-25 | 4.39 | - | 321 | 2,820 |
+| 2023-04-29 | 4.39 | - | 321 | 2,821 |

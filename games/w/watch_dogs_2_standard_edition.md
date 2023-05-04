@@ -1,21 +1,21 @@
 # Watch Dogs 2 Standard Edition
-Rating: 4.59 (Ranked 392)  
+Rating: 4.59 (Ranked 395)  
 Number of Ratings: 6,460  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Quickly Understood Controls): 309  (Ranked 220)  
-Sum: 2,298 (Ranked 171)  
-Diff (max vs sum): 49
+Max (Quickly Understood Controls): 312  (Ranked 218)  
+Sum: 2,349 (Ranked 171)  
+Diff (max vs sum): 47
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 309 |
-| This game is Relaxing | 301 |
-| This game has Amazing Storytelling | 295 |
-| This game is Great for Beginners | 289 |
-| This game is Extremely Fun | 288 |
-| This game has Amazing Characters | 282 |
-| This game has Diverse Characters | 275 |
-| This game is Highly Recommended | 259 |
+| This game has Quickly Understood Controls | 312 |
+| This game is Relaxing | 304 |
+| This game has Amazing Storytelling | 302 |
+| This game is Extremely Fun | 298 |
+| This game is Great for Beginners | 296 |
+| This game has Amazing Characters | 287 |
+| This game has Diverse Characters | 280 |
+| This game is Highly Recommended | 270 |
 | This game has Obsessive Gameplay | 145 |
 | This game has Competitive Players | 67 |
 ## Ratings History
@@ -114,4 +114,9 @@ Diff (max vs sum): 49
 | 2023-04-24 | 4.59 | - | 307 | 2,282 |
 | 2023-04-26 | 4.59 | - | 307 | 2,287 |
 | 2023-04-27 | 4.59 | - | 309 | 2,292 |
-| 2023-04-28 | 4.59 | - | 309 | 2,298 |
+| 2023-04-28 | 4.59 | - | 309 | 2,302 |
+| 2023-04-29 | 4.59 | - | 309 | 2,311 |
+| 2023-04-30 | 4.59 | - | 309 | 2,323 |
+| 2023-05-01 | 4.59 | - | 312 | 2,330 |
+| 2023-05-02 | 4.59 | - | 312 | 2,340 |
+| 2023-05-03 | 4.59 | - | 312 | 2,349 |

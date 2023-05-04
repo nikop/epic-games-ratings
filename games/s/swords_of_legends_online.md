@@ -1,20 +1,21 @@
 # Swords of Legends Online
-Rating: 4.30 (Ranked 748)  
+Rating: 4.30 (Ranked 750)  
 Number of Ratings: 262  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 168  (Ranked 274)  
-Sum: 365 (Ranked 307)  
-Diff (max vs sum): -33
+Max (Character Customization): 169  (Ranked 274)  
+Sum: 389 (Ranked 302)  
+Diff (max vs sum): -28
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 168 |
-| This game has Great Boss Battles | 94 |
+| This game has Inclusive Character Customization | 169 |
+| This game has Great Boss Battles | 95 |
 | This game is Relaxing | 22 |
-| This game has Amazing Characters | 21 |
+| This game has Amazing Characters | 22 |
+| This game has Quickly Understood Controls | 21 |
 | This game has Beautiful Visuals | 20 |
 | This game has Diverse Characters | 20 |
-| This game has Quickly Understood Controls | 20 |
+| This game is Extremely Fun | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -97,3 +98,7 @@ Diff (max vs sum): -33
 | 2023-04-15 | 4.30 | - | 168 | 325 |
 | 2023-04-23 | 4.30 | - | 168 | 345 |
 | 2023-04-25 | 4.30 | - | 168 | 365 |
+| 2023-04-28 | 4.30 | - | 169 | 366 |
+| 2023-04-29 | 4.30 | - | 169 | 367 |
+| 2023-04-30 | 4.30 | - | 169 | 388 |
+| 2023-05-02 | 4.30 | - | 169 | 389 |

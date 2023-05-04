@@ -1,24 +1,30 @@
 # Sunless Sea
-Rating: 4.58 (Ranked 409)  
+Rating: 4.58 (Ranked 414)  
 Number of Ratings: 401  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 202  (Ranked 253)  
-Sum: 271 (Ranked 330)  
-Diff (max vs sum): -77
+Max (Character Customization): 203  (Ranked 254)  
+Sum: 272 (Ranked 330)  
+Diff (max vs sum): -76
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,582 (Ranked 82)  
-Completed: 3 (0.01%) (Ranked 181)  
+Progressed: 28,162 (Ranked 83)  
+Completed: 3 (0.01%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 27,339 | 3 |
 | 2023-04-26 | 27,422 | 3 |
 | 2023-04-27 | 27,522 | 3 |
-| 2023-04-28 | 27,582 | 3 |
+| 2023-04-28 | 27,617 | 3 |
+| 2023-04-29 | 27,738 | 3 |
+| 2023-04-30 | 27,850 | 3 |
+| 2023-05-01 | 27,940 | 3 |
+| 2023-05-02 | 28,017 | 3 |
+| 2023-05-03 | 28,094 | 3 |
+| 2023-05-04 | 28,162 | 3 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 202 |
+| This game has Inclusive Character Customization | 203 |
 | This game has Unique Visuals | 24 |
 | This game has Amazing Storytelling | 24 |
 | This game has Quickly Understood Controls | 21 |
@@ -103,3 +109,4 @@ Completed: 3 (0.01%) (Ranked 181)
 | 2023-04-12 | 4.58 | - | 201 | 269 |
 | 2023-04-16 | 4.58 | - | 202 | 270 |
 | 2023-04-20 | 4.58 | - | 202 | 271 |
+| 2023-04-29 | 4.58 | - | 203 | 272 |

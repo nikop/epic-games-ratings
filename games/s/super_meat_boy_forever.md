@@ -1,9 +1,9 @@
 # Super Meat Boy Forever
-Rating: 4.68 (Ranked 231)  
+Rating: 4.67 (Ranked 255)  
 Number of Ratings: 24  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Count |
@@ -33,3 +33,4 @@ Diff (max vs sum): 0
 | 2023-03-31 | 4.71 | - | 0 | 0 |
 | 2023-04-02 | 4.70 | - | 0 | 0 |
 | 2023-04-12 | 4.68 | - | 0 | 0 |
+| 2023-04-28 | 4.67 | - | 0 | 0 |

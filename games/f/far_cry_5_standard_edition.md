@@ -1,24 +1,24 @@
 # Far Cry 5 Standard Edition
-Rating: 4.62 (Ranked 334)  
+Rating: 4.62 (Ranked 337)  
 Number of Ratings: 1,848  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 1,198  (Ranked 122)  
-Sum: 1,823 (Ranked 192)  
-Diff (max vs sum): -70
+Max (Great Boss Battles): 1,212  (Ranked 121)  
+Sum: 1,844 (Ranked 192)  
+Diff (max vs sum): -71
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 1,198 |
-| This game is Relaxing | 76 |
+| This game has Great Boss Battles | 1,212 |
+| This game is Relaxing | 77 |
 | This game has Amazing Characters | 76 |
 | This game has Quickly Understood Controls | 72 |
-| This game is Highly Recommended | 63 |
+| This game is Highly Recommended | 64 |
 | This game is Great for Beginners | 63 |
-| This game has Amazing Storytelling | 60 |
+| This game has Amazing Storytelling | 61 |
 | This game is Extremely Fun | 59 |
-| This game has Realistic Visuals | 57 |
-| This game has Competitive Players | 51 |
-| This game has Diverse Characters | 48 |
+| This game has Realistic Visuals | 58 |
+| This game has Competitive Players | 53 |
+| This game has Diverse Characters | 49 |
 | This game has a Creative Community | 36 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -123,4 +123,10 @@ Diff (max vs sum): -70
 | 2023-04-25 | 4.62 | - | 1,192 | 1,811 |
 | 2023-04-26 | 4.62 | - | 1,195 | 1,814 |
 | 2023-04-27 | 4.62 | - | 1,198 | 1,819 |
-| 2023-04-28 | 4.62 | - | 1,198 | 1,823 |
+| 2023-04-28 | 4.62 | - | 1,198 | 1,824 |
+| 2023-04-29 | 4.62 | - | 1,200 | 1,827 |
+| 2023-04-30 | 4.62 | - | 1,203 | 1,831 |
+| 2023-05-01 | 4.62 | - | 1,206 | 1,836 |
+| 2023-05-02 | 4.62 | - | 1,206 | 1,837 |
+| 2023-05-03 | 4.62 | - | 1,207 | 1,838 |
+| 2023-05-04 | 4.62 | - | 1,212 | 1,844 |

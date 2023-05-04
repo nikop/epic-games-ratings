@@ -1,17 +1,21 @@
 # Shoulders of Giants
-Rating: 4.26 (Ranked 770)  
+Rating: 4.26 (Ranked 771)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,849 (Ranked 143)  
-Completed: 5 (0.27%) (Ranked 120)  
+Progressed: 1,855 (Ranked 144)  
+Completed: 6 (0.32%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 1,846 | 5 |
 | 2023-04-26 | 1,849 | 5 |
+| 2023-04-29 | 1,852 | 5 |
+| 2023-05-02 | 1,853 | 6 |
+| 2023-05-03 | 1,854 | 6 |
+| 2023-05-04 | 1,855 | 6 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

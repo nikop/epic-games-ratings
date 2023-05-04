@@ -6,7 +6,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1285
+      "Count": 1286
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -18,7 +18,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1069,6 +1069,18 @@
       "Rating": 4.66,
       "NumberOfAwards": 1639,
       "NumberOfAwardsMax": 1285
+    },
+    {
+      "Time": "2023-04-30T16:57:00.2569979+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 1640,
+      "NumberOfAwardsMax": 1285
+    },
+    {
+      "Time": "2023-04-30T20:57:11.2844282+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 1641,
+      "NumberOfAwardsMax": 1286
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -1076,21 +1088,21 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T17:03:30.3344558+00:00",
-  "LastUpdate_Ratings": "2023-04-28T16:57:08.080177+00:00",
-  "LastChanged": "2023-04-22T17:57:51.9461797+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:00:17.8086757+00:00",
+  "LastUpdate_Ratings": "2023-05-04T18:57:03.5366476+00:00",
+  "LastChanged": "2023-04-30T20:57:11.284428+00:00",
   "FirstSeenRating": "2022-08-19T16:01:55.9057824+00:00",
   "MaxAwardTitle": "Great Boss Battles",
-  "NumberOfAwardsMax": 1285,
-  "NumberOfAwards": 1639,
+  "NumberOfAwardsMax": 1286,
+  "NumberOfAwards": 1641,
   "NumberOfRatings": 5134,
-  "Ranking_EOS_NewCompleters": 60,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_Progress": 363,
-  "Ranking_PopularitySum": 198,
-  "Ranking_Popularity": 118,
-  "Ranking_Rating": 271,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_Progress": 378,
+  "Ranking_PopularitySum": 199,
+  "Ranking_Popularity": 119,
+  "Ranking_Rating": 272,
   "Rating": 4.66,
   "FirstSeen": "2022-08-18T18:02:01.0810167+00:00"
 }

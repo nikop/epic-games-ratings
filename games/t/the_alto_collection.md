@@ -1,27 +1,33 @@
 # The Alto Collection
-Rating: 4.70 (Ranked 190)  
+Rating: 4.70 (Ranked 192)  
 Number of Ratings: 332  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Quick Sessions): 44  (Ranked 401)  
-Sum: 342 (Ranked 311)  
-Diff (max vs sum): 90
+Max (Great for Quick Sessions): 44  (Ranked 405)  
+Sum: 344 (Ranked 312)  
+Diff (max vs sum): 93
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,572 (Ranked 91)  
-Completed: 3 (0.02%) (Ranked 173)  
+Progressed: 19,641 (Ranked 90)  
+Completed: 3 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 18,200 | 3 |
 | 2023-04-26 | 18,337 | 3 |
 | 2023-04-27 | 18,475 | 3 |
-| 2023-04-28 | 18,572 | 3 |
+| 2023-04-28 | 18,626 | 3 |
+| 2023-04-29 | 18,820 | 3 |
+| 2023-04-30 | 19,050 | 3 |
+| 2023-05-01 | 19,247 | 3 |
+| 2023-05-02 | 19,423 | 3 |
+| 2023-05-03 | 19,544 | 3 |
+| 2023-05-04 | 19,641 | 3 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 44 |
-| This game is Highly Recommended | 41 |
+| This game is Highly Recommended | 42 |
 | This game is Great for Beginners | 40 |
-| This game has Beautiful Visuals | 37 |
+| This game has Beautiful Visuals | 38 |
 | This game has Quickly Understood Controls | 36 |
 | This game is Relaxing | 35 |
 | This game is Extremely Fun | 34 |
@@ -112,3 +118,5 @@ Completed: 3 (0.02%) (Ranked 173)
 | 2023-04-20 | 4.70 | - | 44 | 340 |
 | 2023-04-25 | 4.70 | - | 44 | 341 |
 | 2023-04-26 | 4.70 | - | 44 | 342 |
+| 2023-04-29 | 4.70 | - | 44 | 343 |
+| 2023-05-02 | 4.70 | - | 44 | 344 |

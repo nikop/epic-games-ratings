@@ -1,8 +1,8 @@
 # The Crew® – Standard Edition
-Rating: 4.63 (Ranked 323)  
+Rating: 4.63 (Ranked 328)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Count |
@@ -35,3 +35,5 @@ Diff (max vs sum): 0
 | 2023-04-20 | 4.68 | 0 | 0 |
 | 2023-04-21 | 4.66 | 0 | 0 |
 | 2023-04-27 | 4.63 | 0 | 0 |
+| 2023-05-02 | 4.62 | 0 | 0 |
+| 2023-05-04 | 4.63 | 0 | 0 |

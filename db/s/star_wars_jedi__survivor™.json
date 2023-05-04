@@ -1,7 +1,14 @@
 {
   "ID": "5a2ea5980ac147c195775039195a3081",
   "Name": "STAR WARS Jedi: Survivor\u2122",
-  "Tags": [],
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 130
+    }
+  ],
   "EosHistory": [],
   "RatingHistory": [
     {
@@ -9,6 +16,108 @@
       "Rating": null,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-29T23:59:40.7969629+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-30T02:01:11.9055467+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-04-30T02:59:37.032045+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-01T03:01:05.267757+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-01T04:00:47.3613954+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 31,
+      "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2023-05-01T15:00:24.1120936+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 31,
+      "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2023-05-01T17:01:50.7543548+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 31,
+      "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2023-05-02T05:59:50.2599057+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 76,
+      "NumberOfAwardsMax": 76
+    },
+    {
+      "Time": "2023-05-02T14:00:57.3380828+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 76,
+      "NumberOfAwardsMax": 76
+    },
+    {
+      "Time": "2023-05-03T00:00:34.4957489+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 76,
+      "NumberOfAwardsMax": 76
+    },
+    {
+      "Time": "2023-05-03T01:57:56.8512102+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 76,
+      "NumberOfAwardsMax": 76
+    },
+    {
+      "Time": "2023-05-03T07:00:02.7378223+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 105,
+      "NumberOfAwardsMax": 105
+    },
+    {
+      "Time": "2023-05-03T15:01:25.7145294+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 105,
+      "NumberOfAwardsMax": 105
+    },
+    {
+      "Time": "2023-05-04T01:57:11.0408213+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 105,
+      "NumberOfAwardsMax": 105
+    },
+    {
+      "Time": "2023-05-04T08:01:13.3953823+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 130,
+      "NumberOfAwardsMax": 130
+    },
+    {
+      "Time": "2023-05-04T12:00:37.0597491+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 130,
+      "NumberOfAwardsMax": 130
+    },
+    {
+      "Time": "2023-05-04T14:00:28.6430832+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 130,
+      "NumberOfAwardsMax": 130
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -16,15 +125,20 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T17:06:54.1033345+00:00",
-  "LastUpdate_Ratings": "2023-04-28T17:02:09.2169587+00:00",
-  "LastChanged": "2023-04-28T17:02:09.2169574+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:05:25.331523+00:00",
+  "LastUpdate_Ratings": "2023-05-04T18:59:51.2951899+00:00",
+  "LastChanged": "2023-05-04T14:00:28.6430829+00:00",
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 60,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_Progress": 363,
+  "MaxAwardTitle": "Great Boss Battles",
+  "NumberOfAwardsMax": 130,
+  "NumberOfAwards": 130,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_Progress": 378,
+  "Ranking_PopularitySum": 383,
+  "Ranking_Popularity": 291,
+  "Ranking_Rating": 687,
+  "Rating": 4.38,
   "FirstSeen": "2023-04-28T17:02:09.2169534+00:00"
 }

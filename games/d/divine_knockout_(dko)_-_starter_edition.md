@@ -1,25 +1,25 @@
 # Divine Knockout (DKO) - Starter Edition
-Rating: 4.35 (Ranked 711)  
+Rating: 4.35 (Ranked 713)  
 Number of Ratings: 60  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 48  (Ranked 387)  
-Sum: 411 (Ranked 295)  
-Diff (max vs sum): 92
+Max (Great for Beginners): 48  (Ranked 391)  
+Sum: 426 (Ranked 294)  
+Diff (max vs sum): 97
 ## Awards
 | Award | Count |
 | ----- | ----- |
+| This game has Quickly Understood Controls | 48 |
 | This game is Great for Beginners | 48 |
-| This game has Quickly Understood Controls | 47 |
-| This game has Competitive Players | 40 |
-| This game has Diverse Characters | 40 |
-| This game is Great for Quick Sessions | 38 |
-| This game is Extremely Fun | 36 |
-| This game is Highly Recommended | 36 |
-| This game has Playful Visuals | 34 |
-| This game has Amazing Characters | 33 |
+| This game has Diverse Characters | 45 |
+| This game has Competitive Players | 43 |
+| This game is Great for Quick Sessions | 39 |
+| This game is Extremely Fun | 37 |
+| This game is Highly Recommended | 37 |
+| This game has Playful Visuals | 35 |
+| This game has Amazing Characters | 34 |
 | This game has a Competitive Community | 32 |
 | This game is Relaxing | 28 |
-| This game has Amazing Storytelling | 27 |
+| This game has Amazing Storytelling | 28 |
 | This game has Unique Visuals | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -118,3 +118,8 @@ Diff (max vs sum): 92
 | 2023-04-23 | 4.36 | - | 48 | 410 |
 | 2023-04-25 | 4.36 | - | 48 | 411 |
 | 2023-04-26 | 4.35 | - | 48 | 411 |
+| 2023-04-29 | 4.36 | - | 48 | 411 |
+| 2023-04-30 | 4.36 | - | 48 | 415 |
+| 2023-05-01 | 4.35 | - | 48 | 418 |
+| 2023-05-02 | 4.35 | - | 48 | 422 |
+| 2023-05-03 | 4.35 | - | 48 | 426 |

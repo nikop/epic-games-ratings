@@ -1,9 +1,9 @@
 # Layers of Fear 2
-Rating: 4.20 (Ranked 800)  
+Rating: 4.19 (Ranked 813)  
 Number of Ratings: 249  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Count |
@@ -101,3 +101,4 @@ Diff (max vs sum): 0
 | 2023-02-25 | 4.21 | - | - | - |
 | 2023-03-01 | 4.20 | - | - | - |
 | 2023-03-31 | 4.20 | - | 0 | 0 |
+| 2023-04-30 | 4.19 | - | 0 | 0 |

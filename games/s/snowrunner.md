@@ -1,22 +1,22 @@
 # SnowRunner
-Rating: 4.76 (Ranked 116)  
+Rating: 4.76 (Ranked 113)  
 Number of Ratings: 21,349  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 7,745  (Ranked 39)  
-Sum: 55,291 (Ranked 19)  
+Max (Great for Beginners): 7,846  (Ranked 39)  
+Sum: 55,876 (Ranked 19)  
 Diff (max vs sum): 20
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 7,745 |
-| This game is Relaxing | 7,210 |
-| This game has Quickly Understood Controls | 7,159 |
-| This game is Highly Recommended | 7,024 |
-| This game is Extremely Fun | 6,819 |
-| This game has Amazing Storytelling | 6,097 |
-| This game has Challenging Combat | 4,793 |
-| This game has Amazing Characters | 4,329 |
-| This game has a Creative Community | 4,115 |
+| This game is Great for Beginners | 7,846 |
+| This game is Relaxing | 7,285 |
+| This game has Quickly Understood Controls | 7,223 |
+| This game is Highly Recommended | 7,086 |
+| This game is Extremely Fun | 6,876 |
+| This game has Amazing Storytelling | 6,164 |
+| This game has Challenging Combat | 4,842 |
+| This game has Amazing Characters | 4,385 |
+| This game has a Creative Community | 4,169 |
 | This game has Obsessive Gameplay | 4,064 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -113,4 +113,10 @@ Diff (max vs sum): 20
 | 2023-04-25 | 4.76 | - | 7,703 | 55,096 |
 | 2023-04-26 | 4.76 | - | 7,714 | 55,180 |
 | 2023-04-27 | 4.76 | - | 7,727 | 55,259 |
-| 2023-04-28 | 4.76 | - | 7,745 | 55,291 |
+| 2023-04-28 | 4.76 | - | 7,745 | 55,323 |
+| 2023-04-29 | 4.76 | - | 7,762 | 55,416 |
+| 2023-04-30 | 4.76 | - | 7,787 | 55,519 |
+| 2023-05-01 | 4.76 | - | 7,817 | 55,645 |
+| 2023-05-02 | 4.76 | - | 7,831 | 55,741 |
+| 2023-05-03 | 4.76 | - | 7,846 | 55,831 |
+| 2023-05-04 | 4.76 | - | 7,846 | 55,876 |

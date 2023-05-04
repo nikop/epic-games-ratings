@@ -1,31 +1,37 @@
 # Tropico 6
-Rating: 4.67 (Ranked 254)  
+Rating: 4.67 (Ranked 255)  
 Number of Ratings: 398  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 103  (Ranked 314)  
-Sum: 743 (Ranked 253)  
+Max (Great for Beginners): 104  (Ranked 314)  
+Sum: 747 (Ranked 253)  
 Diff (max vs sum): 61
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,519 (Ranked 134)  
-Completed: 1 (0.04%) (Ranked 165)  
+Progressed: 2,652 (Ranked 132)  
+Completed: 1 (0.04%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 2,477 | 1 |
 | 2023-04-26 | 2,488 | 1 |
 | 2023-04-27 | 2,508 | 1 |
-| 2023-04-28 | 2,519 | 1 |
+| 2023-04-28 | 2,524 | 1 |
+| 2023-04-29 | 2,555 | 1 |
+| 2023-04-30 | 2,576 | 1 |
+| 2023-05-01 | 2,605 | 1 |
+| 2023-05-02 | 2,623 | 1 |
+| 2023-05-03 | 2,641 | 1 |
+| 2023-05-04 | 2,652 | 1 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 103 |
-| This game has Quickly Understood Controls | 91 |
-| This game is Relaxing | 88 |
+| This game is Great for Beginners | 104 |
+| This game has Quickly Understood Controls | 92 |
+| This game is Relaxing | 89 |
 | This game is Highly Recommended | 83 |
 | This game has Amazing Storytelling | 82 |
 | This game is Educational | 81 |
 | This game has Amazing Characters | 79 |
-| This game is Extremely Fun | 77 |
+| This game is Extremely Fun | 78 |
 | This game has a Creative Community | 59 |
 | This game has Obsessive Gameplay | 52 |
 | This game has Diverse Characters | 46 |
@@ -120,3 +126,6 @@ Completed: 1 (0.04%) (Ranked 165)
 | 2023-04-23 | 4.67 | - | 102 | 741 |
 | 2023-04-24 | 4.67 | - | 102 | 742 |
 | 2023-04-25 | 4.67 | - | 103 | 743 |
+| 2023-04-29 | 4.67 | - | 103 | 744 |
+| 2023-05-01 | 4.67 | - | 104 | 745 |
+| 2023-05-03 | 4.67 | - | 104 | 747 |

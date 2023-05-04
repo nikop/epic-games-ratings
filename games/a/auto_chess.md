@@ -1,24 +1,24 @@
 # Auto Chess
-Rating: 4.52 (Ranked 498)  
+Rating: 4.52 (Ranked 499)  
 Number of Ratings: 2,249  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Competitive Players): 733  (Ranked 150)  
-Sum: 5,787 (Ranked 113)  
-Diff (max vs sum): 37
+Max (Competitive Players): 735  (Ranked 151)  
+Sum: 5,810 (Ranked 113)  
+Diff (max vs sum): 38
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Competitive Players | 733 |
-| This game is Relaxing | 716 |
-| This game has Diverse Characters | 714 |
-| This game has Quickly Understood Controls | 698 |
-| This game is Extremely Fun | 605 |
-| This game is Highly Recommended | 532 |
-| This game has Amazing Characters | 515 |
-| This game has Amazing Storytelling | 473 |
-| This game has Playful Visuals | 418 |
+| This game has Competitive Players | 735 |
+| This game is Relaxing | 719 |
+| This game has Diverse Characters | 716 |
+| This game has Quickly Understood Controls | 701 |
+| This game is Extremely Fun | 606 |
+| This game is Highly Recommended | 535 |
+| This game has Amazing Characters | 519 |
+| This game has Amazing Storytelling | 475 |
+| This game has Playful Visuals | 420 |
 | This game is Great for Beginners | 394 |
-| This game has a Competitive Community | 383 |
+| This game has a Competitive Community | 384 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -132,4 +132,9 @@ Diff (max vs sum): 37
 | 2023-04-25 | 4.52 | - | 733 | 5,778 |
 | 2023-04-26 | 4.52 | - | 733 | 5,779 |
 | 2023-04-27 | 4.52 | - | 733 | 5,784 |
-| 2023-04-28 | 4.52 | - | 733 | 5,787 |
+| 2023-04-28 | 4.52 | - | 733 | 5,789 |
+| 2023-04-30 | 4.52 | - | 734 | 5,795 |
+| 2023-05-01 | 4.52 | - | 734 | 5,799 |
+| 2023-05-02 | 4.52 | - | 735 | 5,805 |
+| 2023-05-03 | 4.52 | - | 735 | 5,807 |
+| 2023-05-04 | 4.52 | - | 735 | 5,810 |

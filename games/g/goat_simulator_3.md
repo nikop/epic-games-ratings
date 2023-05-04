@@ -1,32 +1,38 @@
 # Goat Simulator 3
 Rating: 4.85 (Ranked 37)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 301  (Ranked 223)  
-Sum: 2,568 (Ranked 162)  
-Diff (max vs sum): 61
+Max (Great for Beginners): 307  (Ranked 222)  
+Sum: 2,611 (Ranked 162)  
+Diff (max vs sum): 60
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,425 (Ranked 44)  
-Completed: 686 (0.32%) (Ranked 111)  
+Progressed: 215,470 (Ranked 45)  
+Completed: 686 (0.32%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 214,070 | 684 |
 | 2023-04-26 | 214,184 | 684 |
 | 2023-04-27 | 214,320 | 686 |
-| 2023-04-28 | 214,425 | 686 |
+| 2023-04-28 | 214,484 | 686 |
+| 2023-04-29 | 214,740 | 686 |
+| 2023-04-30 | 214,986 | 686 |
+| 2023-05-01 | 215,144 | 686 |
+| 2023-05-02 | 215,267 | 686 |
+| 2023-05-03 | 215,383 | 686 |
+| 2023-05-04 | 215,470 | 686 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 301 |
-| This game has Diverse Characters | 282 |
-| This game is Highly Recommended | 276 |
-| This game has Amazing Characters | 267 |
-| This game is Extremely Fun | 253 |
-| This game has Quickly Understood Controls | 252 |
-| This game has Amazing Storytelling | 251 |
-| This game is Relaxing | 250 |
-| This game has a Silly Community | 222 |
-| This game has Easy Combat | 214 |
+| This game is Great for Beginners | 307 |
+| This game has Diverse Characters | 289 |
+| This game is Highly Recommended | 280 |
+| This game has Amazing Characters | 271 |
+| This game has Quickly Understood Controls | 256 |
+| This game is Relaxing | 255 |
+| This game is Extremely Fun | 255 |
+| This game has Amazing Storytelling | 252 |
+| This game has a Silly Community | 229 |
+| This game has Easy Combat | 217 |
 | This game is Educational | 158 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -69,3 +75,9 @@ Completed: 686 (0.32%) (Ranked 111)
 | 2023-04-25 | 4.85 | 300 | 2,551 |
 | 2023-04-26 | 4.85 | 300 | 2,557 |
 | 2023-04-27 | 4.85 | 301 | 2,568 |
+| 2023-04-29 | 4.85 | 302 | 2,572 |
+| 2023-04-30 | 4.85 | 303 | 2,583 |
+| 2023-05-01 | 4.85 | 305 | 2,589 |
+| 2023-05-02 | 4.85 | 305 | 2,601 |
+| 2023-05-03 | 4.85 | 305 | 2,605 |
+| 2023-05-04 | 4.85 | 307 | 2,611 |

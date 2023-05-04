@@ -1,23 +1,23 @@
 # Rising Storm 2: Vietnam
-Rating: 4.50 (Ranked 528)  
+Rating: 4.50 (Ranked 530)  
 Number of Ratings: 2,871  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Quickly Understood Controls): 642  (Ranked 160)  
-Sum: 5,976 (Ranked 112)  
+Max (Quickly Understood Controls): 647  (Ranked 160)  
+Sum: 6,033 (Ranked 112)  
 Diff (max vs sum): 48
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 642 |
-| This game has Diverse Characters | 637 |
-| This game is Extremely Fun | 636 |
-| This game has Challenging Combat | 633 |
-| This game is Highly Recommended | 632 |
-| This game has Competitive Players | 613 |
-| This game has Realistic Visuals | 573 |
-| This game has Amazing Storytelling | 572 |
-| This game has Amazing Characters | 529 |
-| This game has a Competitive Community | 509 |
+| This game has Quickly Understood Controls | 647 |
+| This game has Diverse Characters | 646 |
+| This game has Challenging Combat | 643 |
+| This game is Extremely Fun | 643 |
+| This game is Highly Recommended | 637 |
+| This game has Competitive Players | 616 |
+| This game has Realistic Visuals | 579 |
+| This game has Amazing Storytelling | 576 |
+| This game has Amazing Characters | 534 |
+| This game has a Competitive Community | 512 |
 | This game has Obsessive Gameplay | 149 |
 | This game is Educational | 28 |
 ## Ratings History
@@ -125,3 +125,10 @@ Diff (max vs sum): 48
 | 2023-04-25 | 4.50 | - | 639 | 5,952 |
 | 2023-04-26 | 4.50 | - | 640 | 5,962 |
 | 2023-04-27 | 4.50 | - | 642 | 5,976 |
+| 2023-04-28 | 4.50 | - | 644 | 5,985 |
+| 2023-04-29 | 4.50 | - | 644 | 5,992 |
+| 2023-04-30 | 4.50 | - | 644 | 6,001 |
+| 2023-05-01 | 4.50 | - | 645 | 6,009 |
+| 2023-05-02 | 4.50 | - | 646 | 6,021 |
+| 2023-05-03 | 4.50 | - | 647 | 6,030 |
+| 2023-05-04 | 4.50 | - | 647 | 6,033 |

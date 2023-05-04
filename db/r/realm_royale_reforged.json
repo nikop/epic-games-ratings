@@ -6,7 +6,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 122
+      "Count": 123
     },
     {
       "Text": "This game has Unique Visuals",
@@ -18,7 +18,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 114
+      "Count": 116
     },
     {
       "Text": "This game is Relaxing",
@@ -36,7 +36,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 93
+      "Count": 94
     },
     {
       "Text": "This game is Great for Beginners",
@@ -48,13 +48,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 99
+      "Count": 100
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 111
+      "Count": 112
     },
     {
       "Text": "This game is Extremely Fun",
@@ -66,13 +66,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 125
+      "Count": 128
     },
     {
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 104
+      "Count": 106
     }
   ],
   "EosHistory": [],
@@ -1084,6 +1084,54 @@
       "Rating": 4.29,
       "NumberOfAwards": 1235,
       "NumberOfAwardsMax": 128
+    },
+    {
+      "Time": "2023-04-29T04:59:25.6214477+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1239,
+      "NumberOfAwardsMax": 128
+    },
+    {
+      "Time": "2023-05-01T06:58:49.6021707+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1240,
+      "NumberOfAwardsMax": 128
+    },
+    {
+      "Time": "2023-05-01T11:58:38.613721+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1241,
+      "NumberOfAwardsMax": 128
+    },
+    {
+      "Time": "2023-05-01T23:58:18.5428848+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1242,
+      "NumberOfAwardsMax": 128
+    },
+    {
+      "Time": "2023-05-02T01:57:07.4356996+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1243,
+      "NumberOfAwardsMax": 128
+    },
+    {
+      "Time": "2023-05-03T04:58:54.7819048+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1244,
+      "NumberOfAwardsMax": 128
+    },
+    {
+      "Time": "2023-05-03T06:58:32.3315638+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1245,
+      "NumberOfAwardsMax": 128
+    },
+    {
+      "Time": "2023-05-03T14:59:12.6962828+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1246,
+      "NumberOfAwardsMax": 128
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -1091,21 +1139,21 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T17:04:32.8748536+00:00",
-  "LastUpdate_Ratings": "2023-04-28T16:59:24.5961322+00:00",
-  "LastChanged": "2023-04-28T15:58:31.8393269+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:03:51.5193369+00:00",
+  "LastUpdate_Ratings": "2023-05-04T18:58:23.642673+00:00",
+  "LastChanged": "2023-05-03T14:59:12.6962825+00:00",
   "FirstSeenRating": "2022-08-24T22:31:27.0262733+00:00",
-  "MaxAwardTitle": "Relaxing",
+  "MaxAwardTitle": "Diverse Characters",
   "NumberOfAwardsMax": 128,
-  "NumberOfAwards": 1235,
+  "NumberOfAwards": 1246,
   "NumberOfRatings": 841,
-  "Ranking_EOS_NewCompleters": 60,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_Progress": 363,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_Progress": 378,
   "Ranking_PopularitySum": 218,
-  "Ranking_Popularity": 291,
-  "Ranking_Rating": 755,
+  "Ranking_Popularity": 292,
+  "Ranking_Rating": 757,
   "Rating": 4.29,
   "FirstSeen": "2022-08-22T12:01:28.8825715+00:00"
 }

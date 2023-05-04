@@ -1,32 +1,38 @@
 # Dungeons 3
-Rating: 4.65 (Ranked 287)  
+Rating: 4.65 (Ranked 290)  
 Number of Ratings: 1,635  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 318  (Ranked 217)  
-Sum: 2,508 (Ranked 164)  
-Diff (max vs sum): 53
+Sum: 2,513 (Ranked 165)  
+Diff (max vs sum): 52
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,786 (Ranked 97)  
-Completed: 135 (0.98%) (Ranked 76)  
+Progressed: 14,637 (Ranked 96)  
+Completed: 140 (0.96%) (Ranked 78)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 13,479 | 129 |
 | 2023-04-26 | 13,593 | 132 |
 | 2023-04-27 | 13,697 | 134 |
-| 2023-04-28 | 13,786 | 135 |
+| 2023-04-28 | 13,836 | 137 |
+| 2023-04-29 | 13,987 | 137 |
+| 2023-04-30 | 14,165 | 137 |
+| 2023-05-01 | 14,317 | 137 |
+| 2023-05-02 | 14,456 | 139 |
+| 2023-05-03 | 14,554 | 140 |
+| 2023-05-04 | 14,637 | 140 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 318 |
-| This game is Extremely Fun | 305 |
+| This game is Extremely Fun | 306 |
 | This game has Quickly Understood Controls | 297 |
-| This game is Highly Recommended | 280 |
+| This game is Highly Recommended | 281 |
 | This game has Amazing Storytelling | 279 |
 | This game has Amazing Characters | 278 |
-| This game is Relaxing | 257 |
-| This game has Diverse Characters | 256 |
-| This game has Playful Visuals | 238 |
+| This game is Relaxing | 258 |
+| This game has Diverse Characters | 257 |
+| This game has Playful Visuals | 239 |
 | This game has Obsessive Gameplay | 189 |
 | This game has a Silly Community | 24 |
 ## Ratings History
@@ -123,3 +129,7 @@ Completed: 135 (0.98%) (Ranked 76)
 | 2023-04-26 | 4.65 | - | 317 | 2,502 |
 | 2023-04-27 | 4.65 | - | 318 | 2,506 |
 | 2023-04-28 | 4.65 | - | 318 | 2,508 |
+| 2023-04-29 | 4.65 | - | 318 | 2,510 |
+| 2023-04-30 | 4.65 | - | 318 | 2,511 |
+| 2023-05-01 | 4.65 | - | 318 | 2,512 |
+| 2023-05-04 | 4.65 | - | 318 | 2,513 |

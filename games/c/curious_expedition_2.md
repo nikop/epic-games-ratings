@@ -1,13 +1,13 @@
 # Curious Expedition 2
-Rating: 4.70 (Ranked 190)  
+Rating: 4.70 (Ranked 192)  
 Number of Ratings: 20  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 287 (Ranked 202)  
-Completed: 1 (0.35%) (Ranked 106)  
+Progressed: 287 (Ranked 206)  
+Completed: 1 (0.35%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,16 +1,18 @@
 # Despot's Game
-Rating: 4.50 (Ranked 528)  
+Rating: 4.50 (Ranked 530)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 351 (Ranked 193)  
-Completed: 1 (0.28%) (Ranked 119)  
+Progressed: 353 (Ranked 196)  
+Completed: 1 (0.28%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 351 | 1 |
+| 2023-04-30 | 352 | 1 |
+| 2023-05-03 | 353 | 1 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

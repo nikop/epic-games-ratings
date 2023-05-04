@@ -1,19 +1,19 @@
 # DOOM 64
-Rating: 4.66 (Ranked 271)  
+Rating: 4.66 (Ranked 272)  
 Number of Ratings: 5,134  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 1,285  (Ranked 118)  
-Sum: 1,639 (Ranked 198)  
+Max (Great Boss Battles): 1,286  (Ranked 119)  
+Sum: 1,641 (Ranked 199)  
 Diff (max vs sum): -80
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 1,285 |
+| This game has Great Boss Battles | 1,286 |
 | This game is Great for Beginners | 45 |
 | This game has Quickly Understood Controls | 44 |
 | This game is Extremely Fun | 44 |
 | This game has Amazing Characters | 42 |
-| This game has Challenging Combat | 40 |
+| This game has Challenging Combat | 41 |
 | This game is Great for Quick Sessions | 40 |
 | This game is Highly Recommended | 37 |
 | This game has Amazing Storytelling | 32 |
@@ -62,3 +62,4 @@ Diff (max vs sum): -80
 | 2023-04-02 | 4.66 | - | 1,283 | 1,637 |
 | 2023-04-05 | 4.66 | - | 1,284 | 1,638 |
 | 2023-04-22 | 4.66 | - | 1,285 | 1,639 |
+| 2023-04-30 | 4.66 | - | 1,286 | 1,641 |

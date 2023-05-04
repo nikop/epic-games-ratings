@@ -1,10 +1,10 @@
 # FUSER™
-Rating: 4.71 (Ranked 177)  
+Rating: 4.71 (Ranked 178)  
 Number of Ratings: 86  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Educational): 35  (Ranked 423)  
-Sum: 342 (Ranked 311)  
-Diff (max vs sum): 112
+Max (Educational): 35  (Ranked 427)  
+Sum: 342 (Ranked 313)  
+Diff (max vs sum): 114
 ## Awards
 | Award | Count |
 | ----- | ----- |

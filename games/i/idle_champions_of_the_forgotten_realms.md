@@ -1,30 +1,36 @@
 # Idle Champions of the Forgotten Realms
-Rating: 4.06 (Ranked 864)  
+Rating: 4.06 (Ranked 866)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 4,853  (Ranked 61)  
-Sum: 29,748 (Ranked 37)  
+Max (Diverse Characters): 4,863  (Ranked 61)  
+Sum: 29,795 (Ranked 37)  
 Diff (max vs sum): 24
 ## Popularity (Based on EOS Achievements)
-Progressed: 85,755 (Ranked 59)  
-Completed: 1,785 (2.08%) (Ranked 53)  
+Progressed: 86,465 (Ranked 59)  
+Completed: 1,803 (2.09%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 85,449 | 1,775 |
 | 2023-04-26 | 85,555 | 1,780 |
 | 2023-04-27 | 85,674 | 1,782 |
-| 2023-04-28 | 85,755 | 1,785 |
+| 2023-04-28 | 85,786 | 1,785 |
+| 2023-04-29 | 85,938 | 1,786 |
+| 2023-04-30 | 86,091 | 1,792 |
+| 2023-05-01 | 86,219 | 1,795 |
+| 2023-05-02 | 86,310 | 1,797 |
+| 2023-05-03 | 86,391 | 1,800 |
+| 2023-05-04 | 86,465 | 1,803 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 4,853 |
-| This game is Great for Beginners | 4,789 |
-| This game has Quickly Understood Controls | 4,575 |
-| This game is Relaxing | 4,471 |
-| This game has Amazing Characters | 3,923 |
-| This game is Highly Recommended | 3,918 |
-| This game has Playful Visuals | 3,219 |
+| This game has Diverse Characters | 4,863 |
+| This game is Great for Beginners | 4,798 |
+| This game has Quickly Understood Controls | 4,582 |
+| This game is Relaxing | 4,474 |
+| This game is Highly Recommended | 3,927 |
+| This game has Amazing Characters | 3,926 |
+| This game has Playful Visuals | 3,225 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -120,4 +126,10 @@ Completed: 1,785 (2.08%) (Ranked 53)
 | 2023-04-25 | 4.06 | - | 4,849 | 29,726 |
 | 2023-04-26 | 4.06 | - | 4,851 | 29,732 |
 | 2023-04-27 | 4.06 | - | 4,851 | 29,741 |
-| 2023-04-28 | 4.06 | - | 4,853 | 29,748 |
+| 2023-04-28 | 4.06 | - | 4,853 | 29,749 |
+| 2023-04-29 | 4.06 | - | 4,857 | 29,755 |
+| 2023-04-30 | 4.06 | - | 4,859 | 29,762 |
+| 2023-05-01 | 4.06 | - | 4,859 | 29,772 |
+| 2023-05-02 | 4.06 | - | 4,860 | 29,782 |
+| 2023-05-03 | 4.06 | - | 4,863 | 29,789 |
+| 2023-05-04 | 4.06 | - | 4,863 | 29,795 |

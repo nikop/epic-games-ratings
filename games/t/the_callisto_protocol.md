@@ -1,19 +1,25 @@
 # The Callisto Protocol
-Rating: 4.18 (Ranked 819)  
+Rating: 4.18 (Ranked 820)  
 ## Popularity (Based on Awards)
-Max (Amazing Storytelling): 46  (Ranked 392)  
-Sum: 243 (Ranked 339)  
-Diff (max vs sum): 53
+Max (Amazing Storytelling): 46  (Ranked 396)  
+Sum: 244 (Ranked 340)  
+Diff (max vs sum): 56
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,507 (Ranked 100)  
-Completed: 46 (0.37%) (Ranked 104)  
+Progressed: 12,533 (Ranked 100)  
+Completed: 47 (0.38%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 12,499 | 46 |
 | 2023-04-26 | 12,501 | 46 |
 | 2023-04-27 | 12,505 | 46 |
-| 2023-04-28 | 12,507 | 46 |
+| 2023-04-28 | 12,509 | 46 |
+| 2023-04-29 | 12,515 | 46 |
+| 2023-04-30 | 12,519 | 47 |
+| 2023-05-01 | 12,525 | 47 |
+| 2023-05-02 | 12,529 | 47 |
+| 2023-05-03 | 12,531 | 47 |
+| 2023-05-04 | 12,533 | 47 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -21,7 +27,7 @@ Completed: 46 (0.37%) (Ranked 104)
 | This game has Amazing Storytelling | 46 |
 | This game is Extremely Fun | 41 |
 | This game has Amazing Characters | 41 |
-| This game has Quickly Understood Controls | 39 |
+| This game has Quickly Understood Controls | 40 |
 | This game has Challenging Combat | 30 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -69,3 +75,4 @@ Completed: 46 (0.37%) (Ranked 104)
 | 2023-04-24 | 4.18 | 45 | 241 |
 | 2023-04-26 | 4.18 | 46 | 242 |
 | 2023-04-28 | 4.18 | 46 | 243 |
+| 2023-04-30 | 4.18 | 46 | 244 |

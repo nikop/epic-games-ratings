@@ -1,20 +1,25 @@
 # Townsmen - A Kingdom Rebuilt
-Rating: 4.29 (Ranked 755)  
+Rating: 4.18 (Ranked 820)  
 Number of Ratings: 37  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,095 (Ranked 125)  
-Completed: 3 (0.07%) (Ranked 157)  
+Progressed: 4,141 (Ranked 125)  
+Completed: 3 (0.07%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 4,056 | 3 |
 | 2023-04-26 | 4,073 | 3 |
 | 2023-04-27 | 4,087 | 3 |
-| 2023-04-28 | 4,095 | 3 |
+| 2023-04-28 | 4,099 | 3 |
+| 2023-04-29 | 4,122 | 3 |
+| 2023-04-30 | 4,132 | 3 |
+| 2023-05-01 | 4,138 | 3 |
+| 2023-05-02 | 4,139 | 3 |
+| 2023-05-03 | 4,141 | 3 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -53,3 +58,5 @@ Completed: 3 (0.07%) (Ranked 157)
 | 2023-02-27 | 4.32 | - | - | - |
 | 2023-03-31 | 4.32 | - | 0 | 0 |
 | 2023-04-27 | 4.29 | - | 0 | 0 |
+| 2023-04-28 | 4.24 | - | 0 | 0 |
+| 2023-04-30 | 4.18 | - | 0 | 0 |

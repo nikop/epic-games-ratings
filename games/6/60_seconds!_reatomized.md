@@ -1,19 +1,25 @@
 # 60 Seconds! Reatomized
-Rating: 4.62 (Ranked 334)  
+Rating: 4.63 (Ranked 328)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,889 (Ranked 126)  
-Completed: 0 (0.00%) (Ranked 190)  
+Progressed: 3,937 (Ranked 126)  
+Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 3,876 | 0 |
 | 2023-04-26 | 3,883 | 0 |
 | 2023-04-27 | 3,887 | 0 |
-| 2023-04-28 | 3,889 | 0 |
+| 2023-04-28 | 3,892 | 0 |
+| 2023-04-29 | 3,903 | 0 |
+| 2023-04-30 | 3,921 | 0 |
+| 2023-05-01 | 3,928 | 0 |
+| 2023-05-02 | 3,929 | 0 |
+| 2023-05-03 | 3,934 | 0 |
+| 2023-05-04 | 3,937 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -34,3 +40,4 @@ Completed: 0 (0.00%) (Ranked 190)
 | 2023-04-20 | 4.59 | 0 | 0 |
 | 2023-04-26 | 4.61 | 0 | 0 |
 | 2023-04-27 | 4.62 | 0 | 0 |
+| 2023-04-29 | 4.63 | 0 | 0 |

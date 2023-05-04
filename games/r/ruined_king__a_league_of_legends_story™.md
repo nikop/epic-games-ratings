@@ -1,10 +1,10 @@
 # Ruined King: A League of Legends Story™
-Rating: 4.63 (Ranked 323)  
+Rating: 4.63 (Ranked 328)  
 Number of Ratings: 597  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Character Customization): 181  (Ranked 264)  
-Sum: 181 (Ranked 355)  
-Diff (max vs sum): -91
+Sum: 181 (Ranked 357)  
+Diff (max vs sum): -93
 ## Awards
 | Award | Count |
 | ----- | ----- |

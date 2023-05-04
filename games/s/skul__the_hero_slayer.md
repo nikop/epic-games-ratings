@@ -1,19 +1,23 @@
 # Skul: The Hero Slayer
-Rating: 4.71 (Ranked 177)  
+Rating: 4.71 (Ranked 178)  
 Number of Ratings: 546  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 114  (Ranked 305)  
-Sum: 851 (Ranked 242)  
-Diff (max vs sum): 63
+Max (Great for Beginners): 114  (Ranked 307)  
+Sum: 856 (Ranked 241)  
+Diff (max vs sum): 66
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,156 (Ranked 110)  
-Completed: 10 (0.14%) (Ranked 137)  
+Progressed: 7,166 (Ranked 110)  
+Completed: 11 (0.15%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 7,152 | 10 |
 | 2023-04-26 | 7,154 | 10 |
-| 2023-04-28 | 7,156 | 10 |
+| 2023-04-28 | 7,157 | 10 |
+| 2023-05-01 | 7,157 | 11 |
+| 2023-05-02 | 7,162 | 11 |
+| 2023-05-03 | 7,163 | 11 |
+| 2023-05-04 | 7,166 | 11 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -21,10 +25,10 @@ Completed: 10 (0.14%) (Ranked 137)
 | This game has Diverse Characters | 109 |
 | This game is Extremely Fun | 106 |
 | This game is Relaxing | 105 |
-| This game is Highly Recommended | 102 |
-| This game has Quickly Understood Controls | 96 |
-| This game has Amazing Storytelling | 84 |
-| This game has Amazing Characters | 77 |
+| This game is Highly Recommended | 103 |
+| This game has Quickly Understood Controls | 98 |
+| This game has Amazing Storytelling | 85 |
+| This game has Amazing Characters | 78 |
 | This game has a Creative Community | 58 |
 | This game has Challenging Combat | 51 |
 | This game has Playful Visuals | 45 |
@@ -111,3 +115,7 @@ Completed: 10 (0.14%) (Ranked 137)
 | 2023-04-25 | 4.70 | - | 114 | 850 |
 | 2023-04-26 | 4.71 | - | 114 | 850 |
 | 2023-04-28 | 4.71 | - | 114 | 851 |
+| 2023-04-30 | 4.71 | - | 114 | 852 |
+| 2023-05-01 | 4.71 | - | 114 | 854 |
+| 2023-05-03 | 4.71 | - | 114 | 855 |
+| 2023-05-04 | 4.71 | - | 114 | 856 |

@@ -1,32 +1,38 @@
 # Football Manager 2023
-Rating: 4.75 (Ranked 126)  
+Rating: 4.75 (Ranked 127)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 389  (Ranked 199)  
-Sum: 3,161 (Ranked 144)  
-Diff (max vs sum): 55
+Max (Diverse Characters): 402  (Ranked 197)  
+Sum: 2,986 (Ranked 150)  
+Diff (max vs sum): 47
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,603 (Ranked 65)  
-Completed: 14 (0.02%) (Ranked 173)  
+Progressed: 61,586 (Ranked 65)  
+Completed: 14 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 60,236 | 14 |
 | 2023-04-26 | 60,362 | 14 |
 | 2023-04-27 | 60,506 | 14 |
-| 2023-04-28 | 60,603 | 14 |
+| 2023-04-28 | 60,659 | 14 |
+| 2023-04-29 | 60,835 | 14 |
+| 2023-04-30 | 61,020 | 14 |
+| 2023-05-01 | 61,199 | 14 |
+| 2023-05-02 | 61,356 | 14 |
+| 2023-05-03 | 61,486 | 14 |
+| 2023-05-04 | 61,586 | 14 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 389 |
-| This game is Highly Recommended | 353 |
-| This game is Extremely Fun | 347 |
-| This game is Educational | 346 |
-| This game is Relaxing | 333 |
-| This game has Competitive Players | 298 |
-| This game has Quickly Understood Controls | 292 |
-| This game has Amazing Storytelling | 291 |
-| This game has Amazing Characters | 275 |
-| This game has Challenging Combat | 237 |
+| This game has Diverse Characters | 402 |
+| This game is Highly Recommended | 361 |
+| This game is Educational | 355 |
+| This game is Extremely Fun | 349 |
+| This game is Relaxing | 340 |
+| This game has Competitive Players | 303 |
+| This game has Quickly Understood Controls | 299 |
+| This game has Amazing Storytelling | 295 |
+| This game has Amazing Characters | 282 |
+| This game has Challenging Combat | 245 |
 | This game has a Competitive Community | 121 |
 | This game has Unique Visuals | 54 |
 ## Ratings History
@@ -91,4 +97,10 @@ Completed: 14 (0.02%) (Ranked 173)
 | 2023-04-25 | 4.75 | 385 | 3,123 |
 | 2023-04-26 | 4.75 | 385 | 3,138 |
 | 2023-04-27 | 4.75 | 389 | 3,150 |
-| 2023-04-28 | 4.75 | 389 | 3,161 |
+| 2023-04-28 | 4.75 | 393 | 3,165 |
+| 2023-04-29 | 4.75 | 393 | 3,177 |
+| 2023-04-30 | 4.75 | 396 | 2,956 |
+| 2023-05-01 | 4.75 | 398 | 3,212 |
+| 2023-05-02 | 4.75 | 398 | 3,213 |
+| 2023-05-03 | 4.75 | 402 | 3,214 |
+| 2023-05-04 | 4.75 | 402 | 2,986 |

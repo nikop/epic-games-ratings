@@ -1,24 +1,24 @@
 # Honkai Impact 3rd
-Rating: 4.50 (Ranked 528)  
+Rating: 4.50 (Ranked 530)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 2,241  (Ranked 94)  
-Sum: 7,491 (Ranked 94)  
+Max (Character Customization): 2,286  (Ranked 94)  
+Sum: 7,682 (Ranked 94)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 2,241 |
-| This game has Great Boss Battles | 1,665 |
-| This game is Great for Quick Sessions | 412 |
-| This game has Diverse Characters | 398 |
-| This game is Great for Beginners | 379 |
-| This game has Amazing Characters | 364 |
-| This game is Highly Recommended | 363 |
-| This game has Beautiful Visuals | 355 |
-| This game has Quickly Understood Controls | 343 |
-| This game has Amazing Storytelling | 339 |
-| This game is Extremely Fun | 335 |
-| This game is Relaxing | 297 |
+| This game has Inclusive Character Customization | 2,286 |
+| This game has Great Boss Battles | 1,698 |
+| This game is Great for Quick Sessions | 422 |
+| This game has Diverse Characters | 409 |
+| This game is Great for Beginners | 387 |
+| This game is Highly Recommended | 379 |
+| This game has Amazing Characters | 379 |
+| This game has Beautiful Visuals | 371 |
+| This game has Quickly Understood Controls | 352 |
+| This game has Amazing Storytelling | 349 |
+| This game is Extremely Fun | 340 |
+| This game is Relaxing | 310 |
 | This game has Challenging Combat | 28 |
 | This game has a Kind Community | 22 |
 ## Ratings History
@@ -91,4 +91,10 @@ Diff (max vs sum): 0
 | 2023-04-25 | 4.49 | 2,226 | 7,390 |
 | 2023-04-26 | 4.49 | 2,231 | 7,437 |
 | 2023-04-27 | 4.49 | 2,241 | 7,472 |
-| 2023-04-28 | 4.50 | 2,241 | 7,491 |
+| 2023-04-28 | 4.50 | 2,245 | 7,507 |
+| 2023-04-29 | 4.50 | 2,257 | 7,543 |
+| 2023-04-30 | 4.49 | 2,269 | 7,585 |
+| 2023-05-01 | 4.49 | 2,277 | 7,613 |
+| 2023-05-02 | 4.49 | 2,277 | 7,647 |
+| 2023-05-03 | 4.49 | 2,283 | 7,675 |
+| 2023-05-04 | 4.50 | 2,286 | 7,682 |

@@ -1,24 +1,24 @@
 # The Division 2 Standard Edition
-Rating: 4.47 (Ranked 575)  
+Rating: 4.47 (Ranked 574)  
 Number of Ratings: 6,675  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 6,601  (Ranked 47)  
-Sum: 21,169 (Ranked 52)  
+Max (Character Customization): 6,679  (Ranked 47)  
+Sum: 21,508 (Ranked 52)  
 Diff (max vs sum): -5
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 6,601 |
-| This game has Great Boss Battles | 4,720 |
-| This game is Great for Beginners | 1,218 |
-| This game has Quickly Understood Controls | 1,097 |
-| This game has Amazing Storytelling | 1,096 |
-| This game has Diverse Characters | 1,095 |
-| This game is Relaxing | 1,085 |
-| This game is Highly Recommended | 1,082 |
-| This game is Extremely Fun | 1,070 |
-| This game has Challenging Combat | 1,064 |
-| This game has Amazing Characters | 1,041 |
+| This game has Inclusive Character Customization | 6,679 |
+| This game has Great Boss Battles | 4,797 |
+| This game is Great for Beginners | 1,231 |
+| This game has Quickly Understood Controls | 1,121 |
+| This game has Amazing Storytelling | 1,115 |
+| This game has Diverse Characters | 1,115 |
+| This game is Relaxing | 1,108 |
+| This game is Extremely Fun | 1,102 |
+| This game is Highly Recommended | 1,098 |
+| This game has Challenging Combat | 1,085 |
+| This game has Amazing Characters | 1,057 |
 | This game has Obsessive Gameplay | 156 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -128,4 +128,10 @@ Diff (max vs sum): -5
 | 2023-04-25 | 4.47 | - | 6,561 | 21,028 |
 | 2023-04-26 | 4.47 | - | 6,575 | 21,090 |
 | 2023-04-27 | 4.47 | - | 6,588 | 21,143 |
-| 2023-04-28 | 4.47 | - | 6,601 | 21,169 |
+| 2023-04-28 | 4.47 | - | 6,601 | 21,190 |
+| 2023-04-29 | 4.47 | - | 6,620 | 21,271 |
+| 2023-04-30 | 4.47 | - | 6,640 | 21,330 |
+| 2023-05-01 | 4.47 | - | 6,657 | 21,403 |
+| 2023-05-02 | 4.47 | - | 6,657 | 21,439 |
+| 2023-05-03 | 4.47 | - | 6,671 | 21,478 |
+| 2023-05-04 | 4.47 | - | 6,679 | 21,508 |

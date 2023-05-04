@@ -1,10 +1,10 @@
 # Stubbs the Zombie in Rebel Without a Pulse
-Rating: 4.36 (Ranked 702)  
+Rating: 4.37 (Ranked 695)  
 Number of Ratings: 249  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 47  (Ranked 390)  
-Sum: 47 (Ranked 432)  
-Diff (max vs sum): -42
+Max (Great Boss Battles): 47  (Ranked 394)  
+Sum: 47 (Ranked 434)  
+Diff (max vs sum): -40
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -87,3 +87,4 @@ Diff (max vs sum): -42
 | 2022-11-26 | 4.38 | - | - | - |
 | 2022-11-29 | 4.37 | - | - | - |
 | 2022-12-09 | 4.36 | - | - | - |
+| 2023-04-29 | 4.37 | - | 47 | 47 |

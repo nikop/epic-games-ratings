@@ -1,10 +1,10 @@
 # Oddworld Soulstorm
-Rating: 4.72 (Ranked 164)  
+Rating: 4.72 (Ranked 166)  
 Number of Ratings: 72  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Challenging Puzzles): 39  (Ranked 407)  
-Sum: 39 (Ranked 441)  
-Diff (max vs sum): -34
+Max (Challenging Puzzles): 39  (Ranked 412)  
+Sum: 39 (Ranked 444)  
+Diff (max vs sum): -32
 ## Awards
 | Award | Count |
 | ----- | ----- |

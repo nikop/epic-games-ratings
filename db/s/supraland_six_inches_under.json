@@ -39,6 +39,66 @@
       "Time": "2023-04-28T16:04:52.5797914+00:00",
       "NumProgressed": 1979,
       "NumCompleted": 236
+    },
+    {
+      "Time": "2023-04-29T15:05:13.4817817+00:00",
+      "NumProgressed": 1980,
+      "NumCompleted": 236
+    },
+    {
+      "Time": "2023-04-29T22:05:00.5524017+00:00",
+      "NumProgressed": 1981,
+      "NumCompleted": 236
+    },
+    {
+      "Time": "2023-04-30T02:06:35.5246142+00:00",
+      "NumProgressed": 1982,
+      "NumCompleted": 236
+    },
+    {
+      "Time": "2023-04-30T12:05:22.7494654+00:00",
+      "NumProgressed": 1983,
+      "NumCompleted": 236
+    },
+    {
+      "Time": "2023-04-30T15:05:31.7831564+00:00",
+      "NumProgressed": 1984,
+      "NumCompleted": 236
+    },
+    {
+      "Time": "2023-05-01T17:06:40.2548619+00:00",
+      "NumProgressed": 1985,
+      "NumCompleted": 236
+    },
+    {
+      "Time": "2023-05-02T14:05:52.8232822+00:00",
+      "NumProgressed": 1986,
+      "NumCompleted": 236
+    },
+    {
+      "Time": "2023-05-03T13:11:43.3212835+00:00",
+      "NumProgressed": 1986,
+      "NumCompleted": 237
+    },
+    {
+      "Time": "2023-05-03T15:06:10.6636849+00:00",
+      "NumProgressed": 1986,
+      "NumCompleted": 238
+    },
+    {
+      "Time": "2023-05-04T04:05:20.3111782+00:00",
+      "NumProgressed": 1987,
+      "NumCompleted": 238
+    },
+    {
+      "Time": "2023-05-04T05:05:41.620009+00:00",
+      "NumProgressed": 1988,
+      "NumCompleted": 238
+    },
+    {
+      "Time": "2023-05-04T10:05:40.2866875+00:00",
+      "NumProgressed": 1989,
+      "NumCompleted": 238
     }
   ],
   "RatingHistory": [
@@ -338,29 +398,35 @@
       "Rating": 4.78,
       "NumberOfAwards": 97,
       "NumberOfAwardsMax": 97
+    },
+    {
+      "Time": "2023-05-01T22:59:17.7167093+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 97,
+      "NumberOfAwardsMax": 97
     }
   ],
-  "EOS_Completed_Percentage": 11.93,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 6,
-  "EOS_Completed": 236,
-  "EOS_Progressed": 1979,
-  "LastUpdate_Achievements": "2023-04-28T17:06:19.381471+00:00",
-  "LastUpdate_Ratings": "2023-04-28T17:01:25.2026336+00:00",
-  "LastChanged_Achievements": "2023-04-28T17:06:19.381468+00:00",
-  "LastChanged": "2023-04-18T14:57:33.639765+00:00",
+  "EOS_Completed_Percentage": 11.97,
+  "EOS_NewCompleters": 2,
+  "EOS_NewPlayers": 12,
+  "EOS_Completed": 238,
+  "EOS_Progressed": 1989,
+  "LastUpdate_Achievements": "2023-05-04T19:05:09.2173884+00:00",
+  "LastUpdate_Ratings": "2023-05-04T18:59:29.4140585+00:00",
+  "LastChanged_Achievements": "2023-05-04T19:05:09.2173848+00:00",
+  "LastChanged": "2023-05-01T22:59:17.7167092+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "MaxAwardTitle": "Challenging Puzzles",
   "NumberOfAwardsMax": 97,
   "NumberOfAwards": 97,
   "NumberOfRatings": 209,
-  "Ranking_EOS_NewCompleters": 60,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_Completed": 6,
-  "Ranking_EOS_Progress": 139,
-  "Ranking_PopularitySum": 395,
-  "Ranking_Popularity": 321,
-  "Ranking_Rating": 100,
-  "Rating": 4.78,
+  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_Completed": 10,
+  "Ranking_EOS_Progress": 140,
+  "Ranking_PopularitySum": 397,
+  "Ranking_Popularity": 325,
+  "Ranking_Rating": 103,
+  "Rating": 4.77,
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00"
 }

@@ -1,15 +1,15 @@
 # Songs of Conquest
-Rating: 4.69 (Ranked 207)  
+Rating: 4.69 (Ranked 212)  
 Number of Ratings: 292  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Relaxing): 27  (Ranked 450)  
-Sum: 169 (Ranked 362)  
-Diff (max vs sum): 88
+Max (Relaxing): 27  (Ranked 453)  
+Sum: 170 (Ranked 363)  
+Diff (max vs sum): 90
 ## Awards
 | Award | Count |
 | ----- | ----- |
+| This game has Quickly Understood Controls | 27 |
 | This game is Relaxing | 27 |
-| This game has Quickly Understood Controls | 26 |
 | This game is Highly Recommended | 25 |
 | This game has Amazing Storytelling | 25 |
 | This game is Great for Beginners | 24 |
@@ -75,3 +75,4 @@ Diff (max vs sum): 88
 | 2023-03-23 | 4.70 | - | - | - |
 | 2023-04-18 | 4.69 | - | 27 | 191 |
 | 2023-04-21 | 4.69 | - | 27 | 169 |
+| 2023-04-28 | 4.69 | - | 27 | 170 |

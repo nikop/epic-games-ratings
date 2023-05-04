@@ -1,20 +1,26 @@
 # A Game Of Thrones: The Board Game Digital Edition
-Rating: 4.20 (Ranked 800)  
+Rating: 4.20 (Ranked 801)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Quickly Understood Controls): 122  (Ranked 296)  
+Max (Quickly Understood Controls): 122  (Ranked 299)  
 Sum: 778 (Ranked 248)  
-Diff (max vs sum): 48
+Diff (max vs sum): 51
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,170 (Ranked 103)  
-Completed: 20 (0.20%) (Ranked 128)  
+Progressed: 10,999 (Ranked 102)  
+Completed: 23 (0.21%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 9,890 | 20 |
 | 2023-04-26 | 9,993 | 20 |
 | 2023-04-27 | 10,102 | 20 |
-| 2023-04-28 | 10,170 | 20 |
+| 2023-04-28 | 10,225 | 20 |
+| 2023-04-29 | 10,388 | 20 |
+| 2023-04-30 | 10,568 | 21 |
+| 2023-05-01 | 10,703 | 21 |
+| 2023-05-02 | 10,803 | 22 |
+| 2023-05-03 | 10,920 | 23 |
+| 2023-05-04 | 10,999 | 23 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

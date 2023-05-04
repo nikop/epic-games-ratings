@@ -1,9 +1,9 @@
 # Ys IX: Monstrum Nox (Launch Week)
-Rating: 4.69 (Ranked 207)  
+Rating: 4.69 (Ranked 212)  
 Number of Ratings: 33  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Count |

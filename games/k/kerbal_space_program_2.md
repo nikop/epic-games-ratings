@@ -1,8 +1,8 @@
 # Kerbal Space Program 2
-Rating: 4.11 (Ranked 848)  
+Rating: 4.10 (Ranked 850)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Count |
@@ -45,3 +45,5 @@ Diff (max vs sum): 0
 | 2023-04-24 | 4.12 | 0 | 0 |
 | 2023-04-25 | 4.13 | 0 | 0 |
 | 2023-04-28 | 4.11 | 0 | 0 |
+| 2023-05-01 | 4.12 | 0 | 0 |
+| 2023-05-03 | 4.10 | 0 | 0 |

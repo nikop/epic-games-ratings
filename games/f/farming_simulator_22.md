@@ -1,33 +1,39 @@
 # Farming Simulator 22
-Rating: 4.70 (Ranked 190)  
+Rating: 4.70 (Ranked 192)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 4,125  (Ranked 70)  
-Sum: 35,957 (Ranked 30)  
+Max (Great for Beginners): 4,160  (Ranked 70)  
+Sum: 36,144 (Ranked 30)  
 Diff (max vs sum): 40
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,485 (Ranked 77)  
-Completed: 5 (0.01%) (Ranked 181)  
+Progressed: 41,813 (Ranked 77)  
+Completed: 5 (0.01%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 41,387 | 5 |
 | 2023-04-26 | 41,424 | 5 |
 | 2023-04-27 | 41,454 | 5 |
-| 2023-04-28 | 41,485 | 5 |
+| 2023-04-28 | 41,501 | 5 |
+| 2023-04-29 | 41,576 | 5 |
+| 2023-04-30 | 41,645 | 5 |
+| 2023-05-01 | 41,709 | 5 |
+| 2023-05-02 | 41,749 | 5 |
+| 2023-05-03 | 41,789 | 5 |
+| 2023-05-04 | 41,813 | 5 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,125 |
-| This game is Relaxing | 3,864 |
-| This game is Educational | 3,805 |
-| This game has Quickly Understood Controls | 3,789 |
-| This game is Extremely Fun | 3,650 |
-| This game is Highly Recommended | 3,608 |
-| This game has Diverse Characters | 3,532 |
-| This game has Amazing Storytelling | 3,513 |
-| This game has Amazing Characters | 3,131 |
-| This game has a Creative Community | 2,940 |
+| This game is Great for Beginners | 4,160 |
+| This game is Relaxing | 3,873 |
+| This game is Educational | 3,821 |
+| This game has Quickly Understood Controls | 3,799 |
+| This game is Extremely Fun | 3,665 |
+| This game is Highly Recommended | 3,632 |
+| This game has Diverse Characters | 3,555 |
+| This game has Amazing Storytelling | 3,532 |
+| This game has Amazing Characters | 3,153 |
+| This game has a Creative Community | 2,954 |
 | This game has Obsessive Gameplay | 2,386 |
 | This game has Easy Combat | 1,816 |
 ## Ratings History
@@ -134,4 +140,10 @@ Completed: 5 (0.01%) (Ranked 181)
 | 2023-04-25 | 4.70 | - | 4,111 | 35,902 |
 | 2023-04-26 | 4.70 | - | 4,118 | 35,921 |
 | 2023-04-27 | 4.70 | - | 4,125 | 35,946 |
-| 2023-04-28 | 4.70 | - | 4,125 | 35,957 |
+| 2023-04-28 | 4.70 | - | 4,125 | 35,965 |
+| 2023-04-29 | 4.70 | - | 4,128 | 35,982 |
+| 2023-04-30 | 4.70 | - | 4,140 | 36,026 |
+| 2023-05-01 | 4.70 | - | 4,144 | 36,071 |
+| 2023-05-02 | 4.70 | - | 4,154 | 36,110 |
+| 2023-05-03 | 4.70 | - | 4,160 | 36,131 |
+| 2023-05-04 | 4.70 | - | 4,160 | 36,144 |

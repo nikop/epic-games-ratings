@@ -1,23 +1,29 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
-Rating: 4.68 (Ranked 231)  
+Rating: 4.66 (Ranked 272)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 27  (Ranked 450)  
-Sum: 27 (Ranked 459)  
-Diff (max vs sum): -9
+Max (Great Boss Battles): 28  (Ranked 450)  
+Sum: 28 (Ranked 461)  
+Diff (max vs sum): -11
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,904 (Ranked 114)  
-Completed: 20 (0.34%) (Ranked 108)  
+Progressed: 6,023 (Ranked 114)  
+Completed: 20 (0.33%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 5,850 | 18 |
 | 2023-04-26 | 5,866 | 19 |
 | 2023-04-27 | 5,889 | 20 |
-| 2023-04-28 | 5,904 | 20 |
+| 2023-04-28 | 5,911 | 20 |
+| 2023-04-29 | 5,940 | 20 |
+| 2023-04-30 | 5,963 | 20 |
+| 2023-05-01 | 5,975 | 20 |
+| 2023-05-02 | 5,993 | 20 |
+| 2023-05-03 | 6,011 | 20 |
+| 2023-05-04 | 6,023 | 20 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 27 |
+| This game has Great Boss Battles | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -65,3 +71,5 @@ Completed: 20 (0.34%) (Ranked 108)
 | 2023-04-26 | 4.68 | 26 | 26 |
 | 2023-04-27 | 4.67 | 27 | 27 |
 | 2023-04-28 | 4.68 | 27 | 27 |
+| 2023-04-29 | 4.68 | 28 | 28 |
+| 2023-05-03 | 4.66 | 28 | 28 |

@@ -1,32 +1,38 @@
 # Dead by Daylight
-Rating: 4.52 (Ranked 498)  
+Rating: 4.52 (Ranked 499)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 26,841  (Ranked 15)  
-Sum: 217,114 (Ranked 12)  
-Diff (max vs sum): 3
+Max (Diverse Characters): 27,021  (Ranked 16)  
+Sum: 218,216 (Ranked 12)  
+Diff (max vs sum): 4
 ## Popularity (Based on EOS Achievements)
-Progressed: 371,695 (Ranked 33)  
-Completed: 34 (0.01%) (Ranked 181)  
+Progressed: 396,138 (Ranked 33)  
+Completed: 36 (0.01%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 362,649 | 34 |
 | 2023-04-26 | 365,828 | 34 |
 | 2023-04-27 | 369,319 | 34 |
-| 2023-04-28 | 371,695 | 34 |
+| 2023-04-28 | 373,072 | 34 |
+| 2023-04-29 | 377,864 | 34 |
+| 2023-04-30 | 382,996 | 34 |
+| 2023-05-01 | 387,512 | 34 |
+| 2023-05-02 | 390,820 | 34 |
+| 2023-05-03 | 393,736 | 36 |
+| 2023-05-04 | 396,138 | 36 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 26,841 |
-| This game has Competitive Players | 25,135 |
-| This game is Highly Recommended | 24,709 |
-| This game is Extremely Fun | 24,630 |
-| This game has Amazing Characters | 24,546 |
-| This game has Quickly Understood Controls | 24,541 |
-| This game has Challenging Combat | 23,740 |
-| This game has Amazing Storytelling | 22,354 |
-| This game has a Competitive Community | 20,618 |
+| This game has Diverse Characters | 27,021 |
+| This game has Competitive Players | 25,228 |
+| This game is Highly Recommended | 24,837 |
+| This game is Extremely Fun | 24,761 |
+| This game has Amazing Characters | 24,652 |
+| This game has Quickly Understood Controls | 24,634 |
+| This game has Challenging Combat | 23,866 |
+| This game has Amazing Storytelling | 22,471 |
+| This game has a Competitive Community | 20,746 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
 ## Ratings History
@@ -127,3 +133,9 @@ Completed: 34 (0.01%) (Ranked 181)
 | 2023-04-26 | 4.52 | - | 26,787 | 216,768 |
 | 2023-04-27 | 4.52 | - | 26,817 | 216,958 |
 | 2023-04-28 | 4.52 | - | 26,841 | 217,114 |
+| 2023-04-29 | 4.52 | - | 26,865 | 217,281 |
+| 2023-04-30 | 4.52 | - | 26,900 | 217,495 |
+| 2023-05-01 | 4.52 | - | 26,939 | 217,702 |
+| 2023-05-02 | 4.52 | - | 26,960 | 217,876 |
+| 2023-05-03 | 4.52 | - | 26,986 | 218,012 |
+| 2023-05-04 | 4.52 | - | 27,021 | 218,216 |

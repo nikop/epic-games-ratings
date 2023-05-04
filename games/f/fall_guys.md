@@ -1,34 +1,40 @@
 # Fall Guys
-Rating: 4.53 (Ranked 486)  
+Rating: 4.53 (Ranked 488)  
 Number of Ratings: 1,046,587  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 137,839  (Ranked 6)  
-Sum: 1,292,103 (Ranked 5)  
-Diff (max vs sum): 1
+Max (Great for Beginners): 137,999  (Ranked 7)  
+Sum: 1,293,241 (Ranked 5)  
+Diff (max vs sum): 2
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,247,881 (Ranked 1)  
-Completed: 28,646 (0.09%) (Ranked 150)  
+Progressed: 32,370,905 (Ranked 1)  
+Completed: 28,883 (0.09%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 32,207,683 | 28,564 |
 | 2023-04-26 | 32,221,891 | 28,588 |
 | 2023-04-27 | 32,236,211 | 28,621 |
-| 2023-04-28 | 32,247,881 | 28,646 |
+| 2023-04-28 | 32,253,690 | 28,657 |
+| 2023-04-29 | 32,277,740 | 28,711 |
+| 2023-04-30 | 32,303,446 | 28,756 |
+| 2023-05-01 | 32,325,532 | 28,800 |
+| 2023-05-02 | 32,342,752 | 28,842 |
+| 2023-05-03 | 32,358,290 | 28,864 |
+| 2023-05-04 | 32,370,905 | 28,883 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 137,839 |
-| This game is Relaxing | 129,441 |
-| This game has Competitive Players | 126,729 |
-| This game has Quickly Understood Controls | 126,713 |
-| This game is Great for Quick Sessions | 121,589 |
-| This game has Diverse Characters | 119,156 |
-| This game is Extremely Fun | 116,001 |
-| This game is Highly Recommended | 109,172 |
-| This game has Amazing Characters | 106,505 |
-| This game has Amazing Storytelling | 101,545 |
-| This game has Playful Visuals | 97,413 |
+| This game is Great for Beginners | 137,999 |
+| This game is Relaxing | 129,539 |
+| This game has Competitive Players | 126,809 |
+| This game has Quickly Understood Controls | 126,792 |
+| This game is Great for Quick Sessions | 121,746 |
+| This game has Diverse Characters | 119,302 |
+| This game is Extremely Fun | 116,080 |
+| This game is Highly Recommended | 109,256 |
+| This game has Amazing Characters | 106,576 |
+| This game has Amazing Storytelling | 101,644 |
+| This game has Playful Visuals | 97,498 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -125,4 +131,10 @@ Completed: 28,646 (0.09%) (Ranked 150)
 | 2023-04-25 | 4.53 | - | 137,773 | 1,291,630 |
 | 2023-04-26 | 4.53 | - | 137,799 | 1,291,804 |
 | 2023-04-27 | 4.53 | - | 137,817 | 1,291,968 |
-| 2023-04-28 | 4.53 | - | 137,839 | 1,292,103 |
+| 2023-04-28 | 4.53 | - | 137,839 | 1,292,127 |
+| 2023-04-29 | 4.53 | - | 137,859 | 1,292,333 |
+| 2023-04-30 | 4.53 | - | 137,889 | 1,292,561 |
+| 2023-05-01 | 4.53 | - | 137,918 | 1,292,746 |
+| 2023-05-02 | 4.53 | - | 137,932 | 1,292,946 |
+| 2023-05-03 | 4.53 | - | 137,970 | 1,293,149 |
+| 2023-05-04 | 4.53 | - | 137,999 | 1,293,241 |

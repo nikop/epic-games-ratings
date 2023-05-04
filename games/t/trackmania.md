@@ -1,25 +1,25 @@
 # Trackmania
-Rating: 4.67 (Ranked 254)  
+Rating: 4.67 (Ranked 255)  
 Number of Ratings: 6,825  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Quick Sessions): 2,490  (Ranked 89)  
-Sum: 21,300 (Ranked 51)  
+Max (Great for Quick Sessions): 2,525  (Ranked 89)  
+Sum: 21,698 (Ranked 51)  
 Diff (max vs sum): 38
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 2,490 |
-| This game is Great for Beginners | 2,473 |
-| This game has Quickly Understood Controls | 2,236 |
-| This game has Competitive Players | 2,233 |
-| This game is Relaxing | 2,190 |
-| This game is Extremely Fun | 2,129 |
-| This game is Highly Recommended | 2,007 |
-| This game has a Competitive Community | 1,755 |
-| This game has Challenging Combat | 1,344 |
-| This game has Amazing Storytelling | 1,342 |
+| This game is Great for Quick Sessions | 2,525 |
+| This game is Great for Beginners | 2,514 |
+| This game has Competitive Players | 2,293 |
+| This game has Quickly Understood Controls | 2,278 |
+| This game is Relaxing | 2,245 |
+| This game is Extremely Fun | 2,162 |
+| This game is Highly Recommended | 2,038 |
+| This game has a Competitive Community | 1,793 |
+| This game has Amazing Storytelling | 1,364 |
+| This game has Challenging Combat | 1,362 |
 | This game has Obsessive Gameplay | 1,144 |
-| This game has Amazing Characters | 1,101 |
+| This game has Amazing Characters | 1,124 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -118,4 +118,10 @@ Diff (max vs sum): 38
 | 2023-04-25 | 4.67 | - | 2,466 | 21,150 |
 | 2023-04-26 | 4.67 | - | 2,474 | 21,189 |
 | 2023-04-27 | 4.67 | - | 2,486 | 21,270 |
-| 2023-04-28 | 4.67 | - | 2,490 | 21,300 |
+| 2023-04-28 | 4.67 | - | 2,490 | 21,324 |
+| 2023-04-29 | 4.67 | - | 2,495 | 21,388 |
+| 2023-04-30 | 4.67 | - | 2,508 | 21,443 |
+| 2023-05-01 | 4.67 | - | 2,512 | 21,510 |
+| 2023-05-02 | 4.67 | - | 2,518 | 21,565 |
+| 2023-05-03 | 4.67 | - | 2,525 | 21,657 |
+| 2023-05-04 | 4.67 | - | 2,525 | 21,698 |

@@ -1,29 +1,35 @@
 # Terraforming Mars
-Rating: 4.54 (Ranked 474)  
+Rating: 4.54 (Ranked 475)  
 Number of Ratings: 2,731  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Relaxing): 492  (Ranked 183)  
-Sum: 3,042 (Ranked 145)  
+Max (Relaxing): 494  (Ranked 183)  
+Sum: 3,050 (Ranked 145)  
 Diff (max vs sum): 38
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,889 (Ranked 69)  
-Completed: 60 (0.11%) (Ranked 146)  
+Progressed: 55,198 (Ranked 69)  
+Completed: 60 (0.11%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 53,435 | 60 |
 | 2023-04-26 | 53,589 | 60 |
 | 2023-04-27 | 53,753 | 60 |
-| 2023-04-28 | 53,889 | 60 |
+| 2023-04-28 | 53,963 | 60 |
+| 2023-04-29 | 54,234 | 60 |
+| 2023-04-30 | 54,536 | 60 |
+| 2023-05-01 | 54,779 | 60 |
+| 2023-05-02 | 54,929 | 60 |
+| 2023-05-03 | 55,095 | 60 |
+| 2023-05-04 | 55,198 | 60 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 492 |
-| This game is Highly Recommended | 480 |
+| This game is Relaxing | 494 |
+| This game is Highly Recommended | 482 |
 | This game has Quickly Understood Controls | 439 |
 | This game is Extremely Fun | 436 |
-| This game has Competitive Players | 430 |
-| This game has Amazing Storytelling | 349 |
+| This game has Competitive Players | 432 |
+| This game has Amazing Storytelling | 351 |
 | This game has Obsessive Gameplay | 334 |
 | This game has a Competitive Community | 228 |
 | This game has Amazing Characters | 188 |
@@ -119,3 +125,7 @@ Completed: 60 (0.11%) (Ranked 146)
 | 2023-04-25 | 4.54 | - | 491 | 3,039 |
 | 2023-04-26 | 4.54 | - | 491 | 3,041 |
 | 2023-04-27 | 4.54 | - | 492 | 3,042 |
+| 2023-04-28 | 4.54 | - | 492 | 3,044 |
+| 2023-04-30 | 4.54 | - | 493 | 3,046 |
+| 2023-05-02 | 4.54 | - | 493 | 3,047 |
+| 2023-05-04 | 4.54 | - | 494 | 3,050 |

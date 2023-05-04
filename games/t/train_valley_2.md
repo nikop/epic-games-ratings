@@ -1,21 +1,22 @@
 # Train Valley 2
-Rating: 4.15 (Ranked 834)  
+Rating: 4.15 (Ranked 837)  
 Number of Ratings: 87  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Challenging Puzzles): 69  (Ranked 358)  
-Sum: 69 (Ranked 414)  
-Diff (max vs sum): -56
+Max (Challenging Puzzles): 71  (Ranked 359)  
+Sum: 71 (Ranked 414)  
+Diff (max vs sum): -55
 ## Popularity (Based on EOS Achievements)
-Progressed: 696 (Ranked 171)  
-Completed: 1 (0.14%) (Ranked 137)  
+Progressed: 697 (Ranked 173)  
+Completed: 1 (0.14%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 696 | 1 |
+| 2023-05-01 | 697 | 1 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 69 |
+| This game features Challenging Puzzles | 71 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -67,3 +68,5 @@ Completed: 1 (0.14%) (Ranked 137)
 | 2023-03-10 | 4.13 | - | - | - |
 | 2023-03-12 | 4.14 | - | - | - |
 | 2023-04-25 | 4.15 | - | 69 | 69 |
+| 2023-05-01 | 4.15 | - | 70 | 70 |
+| 2023-05-04 | 4.15 | - | 71 | 71 |

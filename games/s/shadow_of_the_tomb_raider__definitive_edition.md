@@ -1,22 +1,22 @@
 # Shadow of the Tomb Raider: Definitive Edition
-Rating: 4.65 (Ranked 287)  
+Rating: 4.65 (Ranked 290)  
 Number of Ratings: 77,497  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 28,400  (Ranked 14)  
-Sum: 37,271 (Ranked 29)  
-Diff (max vs sum): -15
+Max (Great Boss Battles): 28,423  (Ranked 15)  
+Sum: 37,303 (Ranked 29)  
+Diff (max vs sum): -14
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 28,400 |
-| This game is Great for Beginners | 1,019 |
-| This game has Quickly Understood Controls | 974 |
+| This game has Great Boss Battles | 28,423 |
+| This game is Great for Beginners | 1,021 |
+| This game has Quickly Understood Controls | 975 |
 | This game is Extremely Fun | 952 |
-| This game is Highly Recommended | 945 |
-| This game has Diverse Characters | 934 |
-| This game is Educational | 912 |
+| This game is Highly Recommended | 948 |
+| This game has Diverse Characters | 935 |
+| This game is Educational | 913 |
 | This game has Amazing Storytelling | 900 |
-| This game has Amazing Characters | 887 |
+| This game has Amazing Characters | 888 |
 | This game is Relaxing | 848 |
 | This game has a Creative Community | 500 |
 | This game has Obsessive Gameplay | 284 |
@@ -116,3 +116,9 @@ Diff (max vs sum): -15
 | 2023-04-26 | 4.65 | - | 28,398 | 37,259 |
 | 2023-04-27 | 4.65 | - | 28,400 | 37,266 |
 | 2023-04-28 | 4.65 | - | 28,400 | 37,271 |
+| 2023-04-29 | 4.65 | - | 28,408 | 37,279 |
+| 2023-04-30 | 4.65 | - | 28,410 | 37,281 |
+| 2023-05-01 | 4.65 | - | 28,410 | 37,286 |
+| 2023-05-02 | 4.65 | - | 28,413 | 37,292 |
+| 2023-05-03 | 4.65 | - | 28,420 | 37,300 |
+| 2023-05-04 | 4.65 | - | 28,423 | 37,303 |

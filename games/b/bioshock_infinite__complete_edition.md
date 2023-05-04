@@ -1,23 +1,23 @@
 # BioShock Infinite: Complete Edition
-Rating: 4.70 (Ranked 190)  
+Rating: 4.70 (Ranked 192)  
 Number of Ratings: 18,329  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 4,502  (Ranked 67)  
-Sum: 5,526 (Ranked 114)  
-Diff (max vs sum): -47
+Max (Great Boss Battles): 4,518  (Ranked 67)  
+Sum: 5,547 (Ranked 115)  
+Diff (max vs sum): -48
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 4,502 |
-| This game is Great for Beginners | 120 |
+| This game has Great Boss Battles | 4,518 |
+| This game is Great for Beginners | 121 |
 | This game has Quickly Understood Controls | 116 |
 | This game is Relaxing | 115 |
 | This game has Amazing Storytelling | 112 |
 | This game is Extremely Fun | 106 |
 | This game has Amazing Characters | 104 |
 | This game has Unique Visuals | 103 |
-| This game has Diverse Characters | 92 |
-| This game is Highly Recommended | 90 |
+| This game has Diverse Characters | 93 |
+| This game is Highly Recommended | 93 |
 | This game has Obsessive Gameplay | 72 |
 | This game has a Creative Community | 66 |
 | This game is Educational | 36 |
@@ -113,3 +113,7 @@ Diff (max vs sum): -47
 | 2023-04-26 | 4.70 | - | 4,500 | 5,522 |
 | 2023-04-27 | 4.70 | - | 4,500 | 5,524 |
 | 2023-04-28 | 4.70 | - | 4,502 | 5,526 |
+| 2023-04-30 | 4.70 | - | 4,504 | 5,529 |
+| 2023-05-01 | 4.70 | - | 4,512 | 5,537 |
+| 2023-05-02 | 4.70 | - | 4,514 | 5,542 |
+| 2023-05-04 | 4.70 | - | 4,518 | 5,547 |

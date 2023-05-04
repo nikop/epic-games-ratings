@@ -1,16 +1,25 @@
 # Super Alloy Ranger
 Rating: - (Ranked -)  
 ## Popularity (Based on Awards)
-Max (): -  (Ranked -)  
-Sum: - (Ranked -)  
+Max (): 0  (Ranked -)  
+Sum: 0 (Ranked -)  
 Diff (max vs sum): -
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 328)  
-Completed: 0 (0.00%) (Ranked 190)  
+Progressed: 18 (Ranked 295)  
+Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 2 | 0 |
+| 2023-04-30 | 4 | 0 |
+| 2023-05-01 | 10 | 0 |
+| 2023-05-02 | 16 | 0 |
+| 2023-05-03 | 17 | 0 |
+| 2023-05-04 | 18 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
+## Ratings History
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
+| 2023-05-02 | - | 0 | 0 |

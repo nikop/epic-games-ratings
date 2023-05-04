@@ -1,34 +1,40 @@
 # Dying Light 2 Stay Human
-Rating: 4.57 (Ranked 426)  
+Rating: 4.57 (Ranked 428)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 6,693  (Ranked 45)  
-Sum: 15,441 (Ranked 58)  
+Max (Character Customization): 6,866  (Ranked 45)  
+Sum: 15,888 (Ranked 58)  
 Diff (max vs sum): -13
 ## Popularity (Based on EOS Achievements)
-Progressed: 532,521 (Ranked 22)  
-Completed: 45 (0.01%) (Ranked 181)  
+Progressed: 539,928 (Ranked 22)  
+Completed: 46 (0.01%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 529,550 | 45 |
 | 2023-04-26 | 530,674 | 45 |
 | 2023-04-27 | 531,749 | 45 |
-| 2023-04-28 | 532,521 | 45 |
+| 2023-04-28 | 532,912 | 45 |
+| 2023-04-29 | 534,414 | 45 |
+| 2023-04-30 | 536,043 | 46 |
+| 2023-05-01 | 537,453 | 46 |
+| 2023-05-02 | 538,429 | 46 |
+| 2023-05-03 | 539,308 | 46 |
+| 2023-05-04 | 539,928 | 46 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 6,693 |
-| This game has Great Boss Battles | 3,918 |
-| This game is Great for Beginners | 582 |
-| This game is Highly Recommended | 572 |
-| This game has Amazing Characters | 565 |
-| This game is Extremely Fun | 551 |
-| This game has Quickly Understood Controls | 545 |
-| This game has Diverse Characters | 538 |
-| This game is Relaxing | 528 |
-| This game has Amazing Storytelling | 525 |
-| This game has a Creative Community | 424 |
+| This game has Inclusive Character Customization | 6,866 |
+| This game has Great Boss Battles | 4,030 |
+| This game is Great for Beginners | 608 |
+| This game is Highly Recommended | 590 |
+| This game has Amazing Characters | 576 |
+| This game is Extremely Fun | 573 |
+| This game has Diverse Characters | 565 |
+| This game has Quickly Understood Controls | 564 |
+| This game has Amazing Storytelling | 544 |
+| This game is Relaxing | 540 |
+| This game has a Creative Community | 432 |
 | This game has Obsessive Gameplay | 230 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -139,4 +145,10 @@ Completed: 45 (0.01%) (Ranked 181)
 | 2023-04-25 | 4.58 | - | 6,604 | 15,225 |
 | 2023-04-26 | 4.58 | - | 6,633 | 15,296 |
 | 2023-04-27 | 4.58 | - | 6,664 | 15,378 |
-| 2023-04-28 | 4.57 | - | 6,693 | 15,441 |
+| 2023-04-28 | 4.57 | - | 6,693 | 15,444 |
+| 2023-04-29 | 4.57 | - | 6,722 | 15,528 |
+| 2023-04-30 | 4.57 | - | 6,755 | 15,616 |
+| 2023-05-01 | 4.57 | - | 6,791 | 15,711 |
+| 2023-05-02 | 4.57 | - | 6,821 | 15,778 |
+| 2023-05-03 | 4.57 | - | 6,847 | 15,838 |
+| 2023-05-04 | 4.57 | - | 6,866 | 15,888 |

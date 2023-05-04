@@ -1,33 +1,39 @@
 # Football Manager 2022
-Rating: 4.80 (Ranked 79)  
+Rating: 4.80 (Ranked 78)  
 Number of Ratings: 19,160  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Relaxing): 6,245  (Ranked 50)  
-Sum: 49,204 (Ranked 21)  
-Diff (max vs sum): 29
+Max (Relaxing): 6,250  (Ranked 50)  
+Sum: 49,273 (Ranked 22)  
+Diff (max vs sum): 28
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,377 (Ranked 26)  
-Completed: 18 (0.00%) (Ranked 190)  
+Progressed: 459,084 (Ranked 26)  
+Completed: 18 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 458,116 | 18 |
 | 2023-04-26 | 458,223 | 18 |
 | 2023-04-27 | 458,320 | 18 |
-| 2023-04-28 | 458,377 | 18 |
+| 2023-04-28 | 458,431 | 18 |
+| 2023-04-29 | 458,573 | 18 |
+| 2023-04-30 | 458,707 | 18 |
+| 2023-05-01 | 458,843 | 18 |
+| 2023-05-02 | 458,951 | 18 |
+| 2023-05-03 | 459,028 | 18 |
+| 2023-05-04 | 459,084 | 18 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 6,245 |
-| This game is Extremely Fun | 5,893 |
-| This game has Competitive Players | 5,708 |
-| This game has Quickly Understood Controls | 5,704 |
-| This game is Educational | 5,671 |
-| This game is Highly Recommended | 5,663 |
-| This game has Diverse Characters | 5,233 |
+| This game is Relaxing | 6,250 |
+| This game is Extremely Fun | 5,901 |
+| This game has Competitive Players | 5,721 |
+| This game has Quickly Understood Controls | 5,712 |
+| This game is Educational | 5,677 |
+| This game is Highly Recommended | 5,671 |
+| This game has Diverse Characters | 5,249 |
 | This game has Amazing Storytelling | 4,807 |
 | This game has Obsessive Gameplay | 4,416 |
-| This game has Amazing Characters | 4,280 |
+| This game has Amazing Characters | 4,285 |
 | This game has a Creative Community | 1,495 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -124,4 +130,10 @@ Completed: 18 (0.00%) (Ranked 190)
 | 2023-04-25 | 4.80 | - | 6,243 | 49,177 |
 | 2023-04-26 | 4.80 | - | 6,243 | 49,186 |
 | 2023-04-27 | 4.80 | - | 6,245 | 49,200 |
-| 2023-04-28 | 4.80 | - | 6,245 | 49,204 |
+| 2023-04-28 | 4.80 | - | 6,245 | 49,206 |
+| 2023-04-29 | 4.80 | - | 6,245 | 49,217 |
+| 2023-04-30 | 4.80 | - | 6,247 | 49,228 |
+| 2023-05-01 | 4.80 | - | 6,247 | 49,239 |
+| 2023-05-02 | 4.80 | - | 6,247 | 49,257 |
+| 2023-05-03 | 4.80 | - | 6,250 | 49,265 |
+| 2023-05-04 | 4.80 | - | 6,250 | 49,273 |

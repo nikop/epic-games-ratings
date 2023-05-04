@@ -6,19 +6,19 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5441
+      "Count": 5464
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 349
+      "Count": 350
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 388
+      "Count": 390
     },
     {
       "Text": "This game is Relaxing",
@@ -54,19 +54,19 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 357
+      "Count": 358
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 374
+      "Count": 375
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 244
+      "Count": 246
     }
   ],
   "EosHistory": [],
@@ -2945,6 +2945,78 @@
       "Rating": 4.82,
       "NumberOfAwards": 8529,
       "NumberOfAwardsMax": 5441
+    },
+    {
+      "Time": "2023-04-29T00:00:42.1446364+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 8531,
+      "NumberOfAwardsMax": 5443
+    },
+    {
+      "Time": "2023-04-29T17:59:33.7603257+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 8532,
+      "NumberOfAwardsMax": 5443
+    },
+    {
+      "Time": "2023-04-30T03:59:08.8852286+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 8539,
+      "NumberOfAwardsMax": 5450
+    },
+    {
+      "Time": "2023-04-30T04:59:45.3445847+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 8540,
+      "NumberOfAwardsMax": 5450
+    },
+    {
+      "Time": "2023-05-01T05:59:15.3892203+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 8541,
+      "NumberOfAwardsMax": 5450
+    },
+    {
+      "Time": "2023-05-01T07:00:01.3063951+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 8546,
+      "NumberOfAwardsMax": 5455
+    },
+    {
+      "Time": "2023-05-01T19:00:43.1187846+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 8547,
+      "NumberOfAwardsMax": 5455
+    },
+    {
+      "Time": "2023-05-01T21:00:29.0929228+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 8548,
+      "NumberOfAwardsMax": 5455
+    },
+    {
+      "Time": "2023-05-02T15:59:08.4504927+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 8549,
+      "NumberOfAwardsMax": 5455
+    },
+    {
+      "Time": "2023-05-02T18:00:23.0879747+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 8554,
+      "NumberOfAwardsMax": 5460
+    },
+    {
+      "Time": "2023-05-03T16:00:26.9183025+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 8555,
+      "NumberOfAwardsMax": 5460
+    },
+    {
+      "Time": "2023-05-03T20:00:01.9564334+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 8559,
+      "NumberOfAwardsMax": 5464
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -2952,20 +3024,20 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T17:06:02.202107+00:00",
-  "LastUpdate_Ratings": "2023-04-28T17:01:07.5897601+00:00",
-  "LastChanged": "2023-04-28T15:59:42.0538773+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:04:49.9360733+00:00",
+  "LastUpdate_Ratings": "2023-05-04T18:59:19.4553709+00:00",
+  "LastChanged": "2023-05-03T20:00:01.9564332+00:00",
   "MaxAwardTitle": "Great Boss Battles",
-  "NumberOfAwardsMax": 5441,
-  "NumberOfAwards": 8529,
+  "NumberOfAwardsMax": 5464,
+  "NumberOfAwards": 8559,
   "NumberOfRatings": 7386,
-  "Ranking_EOS_NewCompleters": 60,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_Progress": 363,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_Progress": 378,
   "Ranking_PopularitySum": 85,
-  "Ranking_Popularity": 59,
-  "Ranking_Rating": 60,
+  "Ranking_Popularity": 58,
+  "Ranking_Rating": 59,
   "Rating": 4.82,
   "FirstSeen": "2022-07-22T20:25:23.4007287+00:00"
 }

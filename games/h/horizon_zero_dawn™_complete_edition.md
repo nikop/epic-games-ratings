@@ -1,24 +1,24 @@
 # Horizon Zero Dawn™ Complete Edition
-Rating: 4.77 (Ranked 105)  
+Rating: 4.77 (Ranked 103)  
 Number of Ratings: 7,175  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 3,921  (Ranked 74)  
-Sum: 8,269 (Ranked 87)  
+Max (Character Customization): 3,948  (Ranked 74)  
+Sum: 8,328 (Ranked 87)  
 Diff (max vs sum): -13
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 3,921 |
-| This game has Great Boss Battles | 2,400 |
-| This game is Extremely Fun | 217 |
+| This game has Inclusive Character Customization | 3,948 |
+| This game has Great Boss Battles | 2,416 |
+| This game is Extremely Fun | 219 |
 | This game has Amazing Storytelling | 216 |
-| This game has Beautiful Visuals | 211 |
-| This game is Highly Recommended | 211 |
-| This game is Relaxing | 202 |
-| This game has Diverse Characters | 201 |
-| This game has Quickly Understood Controls | 198 |
-| This game has Amazing Characters | 196 |
-| This game is Great for Beginners | 195 |
+| This game has Beautiful Visuals | 213 |
+| This game is Highly Recommended | 213 |
+| This game is Relaxing | 205 |
+| This game has Diverse Characters | 204 |
+| This game has Quickly Understood Controls | 199 |
+| This game has Amazing Characters | 198 |
+| This game is Great for Beginners | 196 |
 | This game has a Creative Community | 101 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -115,4 +115,10 @@ Diff (max vs sum): -13
 | 2023-04-25 | 4.77 | - | 3,914 | 8,244 |
 | 2023-04-26 | 4.77 | - | 3,918 | 8,257 |
 | 2023-04-27 | 4.77 | - | 3,921 | 8,266 |
-| 2023-04-28 | 4.77 | - | 3,921 | 8,269 |
+| 2023-04-28 | 4.77 | - | 3,924 | 8,272 |
+| 2023-04-29 | 4.77 | - | 3,929 | 8,284 |
+| 2023-04-30 | 4.77 | - | 3,929 | 8,290 |
+| 2023-05-01 | 4.77 | - | 3,933 | 8,305 |
+| 2023-05-02 | 4.77 | - | 3,939 | 8,312 |
+| 2023-05-03 | 4.77 | - | 3,943 | 8,321 |
+| 2023-05-04 | 4.77 | - | 3,948 | 8,328 |

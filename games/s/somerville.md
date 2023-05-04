@@ -1,12 +1,12 @@
 # Somerville
-Rating: 4.20 (Ranked 800)  
+Rating: 4.20 (Ranked 801)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,543 (Ranked 147)  
-Completed: 25 (1.62%) (Ranked 61)  
+Progressed: 1,549 (Ranked 147)  
+Completed: 25 (1.61%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -14,6 +14,11 @@ Completed: 25 (1.62%) (Ranked 61)
 | 2023-04-26 | 1,539 | 25 |
 | 2023-04-27 | 1,541 | 25 |
 | 2023-04-28 | 1,543 | 25 |
+| 2023-04-29 | 1,544 | 25 |
+| 2023-04-30 | 1,546 | 25 |
+| 2023-05-02 | 1,547 | 25 |
+| 2023-05-03 | 1,548 | 25 |
+| 2023-05-04 | 1,549 | 25 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

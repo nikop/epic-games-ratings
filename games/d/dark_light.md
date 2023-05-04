@@ -1,8 +1,8 @@
 # Dark Light
-Rating: 4.33 (Ranked 728)  
+Rating: 4.33 (Ranked 730)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Count |

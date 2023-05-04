@@ -24,25 +24,25 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 102
+      "Count": 103
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 96
+      "Count": 98
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 84
+      "Count": 85
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 77
+      "Count": 78
     },
     {
       "Text": "This game is Relaxing",
@@ -94,6 +94,56 @@
       "Time": "2023-04-28T12:04:15.4130704+00:00",
       "NumProgressed": 7156,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-04-28T18:03:55.420308+00:00",
+      "NumProgressed": 7157,
+      "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-01T13:08:59.5213439+00:00",
+      "NumProgressed": 7157,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-02T02:02:36.0165218+00:00",
+      "NumProgressed": 7158,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-02T05:03:29.1652478+00:00",
+      "NumProgressed": 7160,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-02T08:03:40.517155+00:00",
+      "NumProgressed": 7161,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-02T10:03:31.7200048+00:00",
+      "NumProgressed": 7162,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-03T17:04:40.5201542+00:00",
+      "NumProgressed": 7163,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-04T08:01:34.9323317+00:00",
+      "NumProgressed": 7164,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-04T13:06:34.4561445+00:00",
+      "NumProgressed": 7165,
+      "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-04T17:01:14.4701057+00:00",
+      "NumProgressed": 7166,
+      "NumCompleted": 11
     }
   ],
   "RatingHistory": [
@@ -703,29 +753,59 @@
       "Rating": 4.71,
       "NumberOfAwards": 851,
       "NumberOfAwardsMax": 114
+    },
+    {
+      "Time": "2023-04-30T06:58:13.4234909+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 852,
+      "NumberOfAwardsMax": 114
+    },
+    {
+      "Time": "2023-05-01T07:58:49.5651315+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 853,
+      "NumberOfAwardsMax": 114
+    },
+    {
+      "Time": "2023-05-01T15:58:44.4258249+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 854,
+      "NumberOfAwardsMax": 114
+    },
+    {
+      "Time": "2023-05-03T06:58:36.3905977+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 855,
+      "NumberOfAwardsMax": 114
+    },
+    {
+      "Time": "2023-05-04T09:58:55.9104768+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 856,
+      "NumberOfAwardsMax": 114
     }
   ],
-  "EOS_Completed_Percentage": 0.14,
-  "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 4,
-  "EOS_Completed": 10,
-  "EOS_Progressed": 7156,
-  "LastUpdate_Achievements": "2023-04-28T17:04:40.9000835+00:00",
-  "LastUpdate_Ratings": "2023-04-28T16:59:34.9675806+00:00",
-  "LastChanged_Achievements": "2023-04-28T17:04:40.9000798+00:00",
-  "LastChanged": "2023-04-28T09:59:10.454245+00:00",
+  "EOS_Completed_Percentage": 0.15,
+  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 11,
+  "EOS_Completed": 11,
+  "EOS_Progressed": 7166,
+  "LastUpdate_Achievements": "2023-05-04T19:00:20.8801088+00:00",
+  "LastUpdate_Ratings": "2023-05-04T18:58:28.6382437+00:00",
+  "LastChanged_Achievements": "2023-05-04T19:00:20.8801057+00:00",
+  "LastChanged": "2023-05-04T09:58:55.9104765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 114,
-  "NumberOfAwards": 851,
+  "NumberOfAwards": 856,
   "NumberOfRatings": 546,
-  "Ranking_EOS_NewCompleters": 60,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_Completed": 137,
+  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_Completed": 138,
   "Ranking_EOS_Progress": 110,
-  "Ranking_PopularitySum": 242,
-  "Ranking_Popularity": 305,
-  "Ranking_Rating": 177,
+  "Ranking_PopularitySum": 241,
+  "Ranking_Popularity": 307,
+  "Ranking_Rating": 178,
   "Rating": 4.71,
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00"
 }

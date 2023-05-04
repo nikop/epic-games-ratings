@@ -1,10 +1,10 @@
 # Quake
-Rating: 4.75 (Ranked 126)  
+Rating: 4.75 (Ranked 127)  
 Number of Ratings: 53  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 45  (Ranked 395)  
-Sum: 45 (Ranked 435)  
-Diff (max vs sum): -40
+Max (Great Boss Battles): 45  (Ranked 401)  
+Sum: 45 (Ranked 438)  
+Diff (max vs sum): -37
 ## Awards
 | Award | Count |
 | ----- | ----- |

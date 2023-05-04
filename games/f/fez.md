@@ -1,10 +1,10 @@
 # Fez
-Rating: 4.71 (Ranked 177)  
+Rating: 4.71 (Ranked 178)  
 Number of Ratings: 103  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Challenging Puzzles): 23  (Ranked 465)  
-Sum: 23 (Ranked 468)  
-Diff (max vs sum): -3
+Max (Challenging Puzzles): 23  (Ranked 469)  
+Sum: 23 (Ranked 471)  
+Diff (max vs sum): -2
 ## Awards
 | Award | Count |
 | ----- | ----- |

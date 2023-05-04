@@ -1,33 +1,39 @@
 # MultiVersus
-Rating: 4.56 (Ranked 443)  
+Rating: 4.56 (Ranked 447)  
 Number of Ratings: 55,748  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 4,736  (Ranked 64)  
-Sum: 45,645 (Ranked 24)  
-Diff (max vs sum): 40
+Sum: 45,650 (Ranked 25)  
+Diff (max vs sum): 39
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,066,230 (Ranked 9)  
-Completed: 31,613 (2.96%) (Ranked 41)  
+Progressed: 1,067,920 (Ranked 9)  
+Completed: 31,618 (2.96%) (Ranked 42)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 1,065,696 | 31,609 |
 | 2023-04-26 | 1,065,905 | 31,609 |
 | 2023-04-27 | 1,066,092 | 31,612 |
-| 2023-04-28 | 1,066,230 | 31,613 |
+| 2023-04-28 | 1,066,311 | 31,613 |
+| 2023-04-29 | 1,066,688 | 31,613 |
+| 2023-04-30 | 1,067,058 | 31,615 |
+| 2023-05-01 | 1,067,360 | 31,615 |
+| 2023-05-02 | 1,067,597 | 31,615 |
+| 2023-05-03 | 1,067,773 | 31,617 |
+| 2023-05-04 | 1,067,920 | 31,618 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,736 |
 | This game has Competitive Players | 4,554 |
-| This game has Diverse Characters | 4,520 |
+| This game has Diverse Characters | 4,522 |
 | This game is Great for Quick Sessions | 4,506 |
-| This game has Quickly Understood Controls | 4,415 |
+| This game has Quickly Understood Controls | 4,417 |
 | This game is Extremely Fun | 4,224 |
 | This game has Amazing Characters | 4,144 |
 | This game is Highly Recommended | 3,938 |
 | This game has Amazing Storytelling | 3,605 |
-| This game has Playful Visuals | 3,601 |
+| This game has Playful Visuals | 3,602 |
 | This game has a Competitive Community | 3,402 |
 | This game has Obsessive Gameplay | 3,030 |
 | This game is Relaxing | 86 |
@@ -116,3 +122,6 @@ Completed: 31,613 (2.96%) (Ranked 41)
 | 2023-04-24 | 4.56 | - | 4,736 | 45,642 |
 | 2023-04-26 | 4.56 | - | 4,736 | 45,644 |
 | 2023-04-27 | 4.56 | - | 4,736 | 45,645 |
+| 2023-04-29 | 4.56 | - | 4,736 | 45,646 |
+| 2023-04-30 | 4.56 | - | 4,736 | 45,648 |
+| 2023-05-02 | 4.56 | - | 4,736 | 45,650 |

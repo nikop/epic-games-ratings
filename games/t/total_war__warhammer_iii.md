@@ -1,25 +1,25 @@
 # Total War: WARHAMMER III
-Rating: 4.69 (Ranked 207)  
+Rating: 4.69 (Ranked 212)  
 Number of Ratings: 882  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 1,462  (Ranked 113)  
-Sum: 5,246 (Ranked 119)  
-Diff (max vs sum): -6
+Max (Great Boss Battles): 1,481  (Ranked 113)  
+Sum: 5,317 (Ranked 118)  
+Diff (max vs sum): -5
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 1,462 |
-| This game has Diverse Characters | 400 |
-| This game is Highly Recommended | 373 |
-| This game is Relaxing | 357 |
-| This game has Amazing Characters | 355 |
-| This game has Amazing Storytelling | 351 |
-| This game is Extremely Fun | 349 |
-| This game has Challenging Combat | 340 |
-| This game has Quickly Understood Controls | 338 |
-| This game has Competitive Players | 338 |
-| This game has Unique Visuals | 322 |
-| This game has a Creative Community | 261 |
+| This game has Great Boss Battles | 1,481 |
+| This game has Diverse Characters | 405 |
+| This game is Highly Recommended | 380 |
+| This game is Relaxing | 359 |
+| This game has Amazing Characters | 359 |
+| This game has Amazing Storytelling | 355 |
+| This game is Extremely Fun | 354 |
+| This game has Challenging Combat | 344 |
+| This game has Quickly Understood Controls | 343 |
+| This game has Competitive Players | 340 |
+| This game has Unique Visuals | 328 |
+| This game has a Creative Community | 269 |
 | This game has Obsessive Gameplay | 179 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -139,4 +139,10 @@ Diff (max vs sum): -6
 | 2023-04-25 | 4.68 | - | 1,457 | 5,212 |
 | 2023-04-26 | 4.68 | - | 1,461 | 5,226 |
 | 2023-04-27 | 4.69 | - | 1,462 | 5,243 |
-| 2023-04-28 | 4.69 | - | 1,462 | 5,246 |
+| 2023-04-28 | 4.69 | - | 1,462 | 5,250 |
+| 2023-04-29 | 4.69 | - | 1,466 | 5,262 |
+| 2023-04-30 | 4.69 | - | 1,473 | 5,276 |
+| 2023-05-01 | 4.69 | - | 1,477 | 5,288 |
+| 2023-05-02 | 4.69 | - | 1,479 | 5,300 |
+| 2023-05-03 | 4.69 | - | 1,479 | 5,306 |
+| 2023-05-04 | 4.69 | - | 1,481 | 5,317 |

@@ -1,9 +1,9 @@
 # Vampyr
-Rating: 4.32 (Ranked 736)  
+Rating: 4.32 (Ranked 737)  
 Number of Ratings: 5,106  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 545  (Ranked 174)  
-Sum: 734 (Ranked 254)  
+Sum: 735 (Ranked 254)  
 Diff (max vs sum): -80
 ## Awards
 | Award | Count |
@@ -13,7 +13,7 @@ Diff (max vs sum): -80
 | This game has Amazing Characters | 32 |
 | This game has Quickly Understood Controls | 29 |
 | This game has Diverse Characters | 29 |
-| This game is Extremely Fun | 27 |
+| This game is Extremely Fun | 28 |
 | This game is Relaxing | 25 |
 | This game has Challenging Combat | 23 |
 | This game is Highly Recommended | 21 |
@@ -94,3 +94,4 @@ Diff (max vs sum): -80
 | 2022-11-30 | 4.31 | - | - | - |
 | 2022-12-22 | 4.32 | - | - | - |
 | 2023-04-25 | 4.32 | - | 545 | 734 |
+| 2023-04-29 | 4.32 | - | 545 | 735 |

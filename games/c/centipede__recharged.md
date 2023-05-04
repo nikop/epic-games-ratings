@@ -1,20 +1,26 @@
 # Centipede: Recharged
-Rating: 4.32 (Ranked 736)  
+Rating: 4.32 (Ranked 737)  
 Number of Ratings: 76  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,953 (Ranked 99)  
-Completed: 81 (0.63%) (Ranked 92)  
+Progressed: 13,209 (Ranked 99)  
+Completed: 81 (0.61%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 12,848 | 80 |
 | 2023-04-26 | 12,879 | 80 |
 | 2023-04-27 | 12,926 | 80 |
-| 2023-04-28 | 12,953 | 81 |
+| 2023-04-28 | 12,968 | 81 |
+| 2023-04-29 | 13,011 | 81 |
+| 2023-04-30 | 13,068 | 81 |
+| 2023-05-01 | 13,115 | 81 |
+| 2023-05-02 | 13,151 | 81 |
+| 2023-05-03 | 13,182 | 81 |
+| 2023-05-04 | 13,209 | 81 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

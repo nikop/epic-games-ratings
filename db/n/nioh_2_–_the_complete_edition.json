@@ -6,25 +6,25 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 2340
+      "Count": 2346
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1746
+      "Count": 1750
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 404
+      "Count": 406
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 415
+      "Count": 417
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -48,19 +48,19 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 334
+      "Count": 335
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 374
+      "Count": 379
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 298
+      "Count": 299
     },
     {
       "Text": "This game is Relaxing",
@@ -2180,6 +2180,72 @@
       "Rating": 4.8,
       "NumberOfAwards": 6722,
       "NumberOfAwardsMax": 2340
+    },
+    {
+      "Time": "2023-04-29T08:59:45.3270347+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 6723,
+      "NumberOfAwardsMax": 2340
+    },
+    {
+      "Time": "2023-04-30T12:01:05.3482413+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 6724,
+      "NumberOfAwardsMax": 2340
+    },
+    {
+      "Time": "2023-04-30T17:00:09.595329+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 6725,
+      "NumberOfAwardsMax": 2341
+    },
+    {
+      "Time": "2023-04-30T21:00:22.0638041+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 6726,
+      "NumberOfAwardsMax": 2341
+    },
+    {
+      "Time": "2023-05-01T10:00:11.9034471+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 6728,
+      "NumberOfAwardsMax": 2341
+    },
+    {
+      "Time": "2023-05-01T18:01:11.2404113+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 6729,
+      "NumberOfAwardsMax": 2341
+    },
+    {
+      "Time": "2023-05-01T21:01:16.8080632+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 6732,
+      "NumberOfAwardsMax": 2341
+    },
+    {
+      "Time": "2023-05-02T05:59:45.6762452+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 6735,
+      "NumberOfAwardsMax": 2344
+    },
+    {
+      "Time": "2023-05-03T07:59:30.1928415+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 6737,
+      "NumberOfAwardsMax": 2346
+    },
+    {
+      "Time": "2023-05-03T17:01:28.2986843+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 6740,
+      "NumberOfAwardsMax": 2346
+    },
+    {
+      "Time": "2023-05-04T15:00:56.8405265+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 6743,
+      "NumberOfAwardsMax": 2346
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -2187,20 +2253,20 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T17:06:46.8343892+00:00",
-  "LastUpdate_Ratings": "2023-04-28T17:02:00.6563809+00:00",
-  "LastChanged": "2023-04-28T17:02:00.6563803+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:05:20.8099454+00:00",
+  "LastUpdate_Ratings": "2023-05-04T18:59:46.5901539+00:00",
+  "LastChanged": "2023-05-04T15:00:56.8405261+00:00",
   "MaxAwardTitle": "Character Customization",
-  "NumberOfAwardsMax": 2340,
-  "NumberOfAwards": 6722,
+  "NumberOfAwardsMax": 2346,
+  "NumberOfAwards": 6743,
   "NumberOfRatings": 2526,
-  "Ranking_EOS_NewCompleters": 60,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_Progress": 363,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_Progress": 378,
   "Ranking_PopularitySum": 106,
   "Ranking_Popularity": 93,
-  "Ranking_Rating": 79,
+  "Ranking_Rating": 78,
   "Rating": 4.8,
   "FirstSeen": "2022-07-22T20:27:13.8820605+00:00"
 }

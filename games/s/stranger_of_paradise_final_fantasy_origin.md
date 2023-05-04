@@ -1,20 +1,26 @@
 # STRANGER OF PARADISE FINAL FANTASY ORIGIN
-Rating: 4.50 (Ranked 528)  
+Rating: 4.50 (Ranked 530)  
 Number of Ratings: 1,919  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great Boss Battles): 752  (Ranked 148)  
-Sum: 1,547 (Ranked 203)  
-Diff (max vs sum): -55
+Sum: 1,549 (Ranked 204)  
+Diff (max vs sum): -56
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,747 (Ranked 60)  
-Completed: 2,112 (2.72%) (Ranked 47)  
+Progressed: 77,838 (Ranked 60)  
+Completed: 2,119 (2.72%) (Ranked 49)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 77,715 | 2,111 |
 | 2023-04-26 | 77,726 | 2,112 |
 | 2023-04-27 | 77,740 | 2,112 |
-| 2023-04-28 | 77,747 | 2,112 |
+| 2023-04-28 | 77,752 | 2,113 |
+| 2023-04-29 | 77,770 | 2,115 |
+| 2023-04-30 | 77,790 | 2,116 |
+| 2023-05-01 | 77,802 | 2,117 |
+| 2023-05-02 | 77,813 | 2,117 |
+| 2023-05-03 | 77,820 | 2,119 |
+| 2023-05-04 | 77,838 | 2,119 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -22,10 +28,10 @@ Completed: 2,112 (2.72%) (Ranked 47)
 | This game has Inclusive Character Customization | 452 |
 | This game is Extremely Fun | 112 |
 | This game is Highly Recommended | 112 |
-| This game has Diverse Characters | 104 |
+| This game has Diverse Characters | 105 |
 | This game has Quickly Understood Controls | 103 |
 | This game has Amazing Storytelling | 102 |
-| This game has Challenging Combat | 91 |
+| This game has Challenging Combat | 92 |
 | This game has Amazing Characters | 88 |
 | This game has Unique Visuals | 83 |
 | This game has a Creative Community | 58 |
@@ -112,3 +118,5 @@ Completed: 2,112 (2.72%) (Ranked 47)
 | 2023-04-16 | 4.50 | - | 751 | 1,545 |
 | 2023-04-25 | 4.50 | - | 751 | 1,546 |
 | 2023-04-27 | 4.50 | - | 752 | 1,547 |
+| 2023-04-28 | 4.50 | - | 752 | 1,548 |
+| 2023-05-01 | 4.50 | - | 752 | 1,549 |

@@ -18,13 +18,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 288
+      "Count": 289
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 274
+      "Count": 275
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -36,7 +36,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 258
+      "Count": 260
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1862,6 +1862,30 @@
       "Rating": 4.73,
       "NumberOfAwards": 2358,
       "NumberOfAwardsMax": 309
+    },
+    {
+      "Time": "2023-04-28T18:00:10.1557171+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 2359,
+      "NumberOfAwardsMax": 309
+    },
+    {
+      "Time": "2023-04-28T20:00:36.087837+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 2360,
+      "NumberOfAwardsMax": 309
+    },
+    {
+      "Time": "2023-04-29T22:59:17.8670615+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 2361,
+      "NumberOfAwardsMax": 309
+    },
+    {
+      "Time": "2023-05-03T15:00:28.9346323+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 2362,
+      "NumberOfAwardsMax": 309
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -1869,20 +1893,20 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T17:05:54.8086242+00:00",
-  "LastUpdate_Ratings": "2023-04-28T17:01:00.4714308+00:00",
-  "LastChanged": "2023-04-26T09:01:30.3082519+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:04:45.7339359+00:00",
+  "LastUpdate_Ratings": "2023-05-04T18:59:14.5668866+00:00",
+  "LastChanged": "2023-05-03T15:00:28.9346321+00:00",
   "MaxAwardTitle": "Extremely Fun",
   "NumberOfAwardsMax": 309,
-  "NumberOfAwards": 2358,
+  "NumberOfAwards": 2362,
   "NumberOfRatings": 1354,
-  "Ranking_EOS_NewCompleters": 60,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_Progress": 363,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_Progress": 378,
   "Ranking_PopularitySum": 166,
-  "Ranking_Popularity": 220,
-  "Ranking_Rating": 155,
+  "Ranking_Popularity": 221,
+  "Ranking_Rating": 157,
   "Rating": 4.73,
   "FirstSeen": "2022-07-22T20:20:15.4995457+00:00"
 }

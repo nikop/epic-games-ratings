@@ -1,19 +1,19 @@
 # EA SPORTS™ FIFA 23 Standard Edition
-Rating: 4.24 (Ranked 777)  
+Rating: 4.24 (Ranked 780)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 8,321  (Ranked 37)  
-Sum: 39,471 (Ranked 27)  
+Max (Diverse Characters): 8,812  (Ranked 37)  
+Sum: 41,817 (Ranked 27)  
 Diff (max vs sum): 10
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 8,321 |
-| This game is Highly Recommended | 6,050 |
-| This game has a Competitive Community | 5,546 |
-| This game has Competitive Players | 5,079 |
-| This game has Amazing Characters | 5,023 |
-| This game has Amazing Storytelling | 4,753 |
-| This game has Quickly Understood Controls | 4,699 |
+| This game has Diverse Characters | 8,812 |
+| This game is Highly Recommended | 6,412 |
+| This game has a Competitive Community | 5,910 |
+| This game has Competitive Players | 5,363 |
+| This game has Amazing Characters | 5,312 |
+| This game has Amazing Storytelling | 5,020 |
+| This game has Quickly Understood Controls | 4,988 |
 | This game is Extremely Fun | 2,318 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -132,4 +132,10 @@ Diff (max vs sum): 10
 | 2023-04-25 | 4.24 | 8,199 | 38,729 |
 | 2023-04-26 | 4.24 | 8,260 | 39,058 |
 | 2023-04-27 | 4.24 | 8,321 | 39,287 |
-| 2023-04-28 | 4.24 | 8,321 | 39,471 |
+| 2023-04-28 | 4.24 | 8,409 | 39,559 |
+| 2023-04-29 | 4.24 | 8,483 | 39,971 |
+| 2023-04-30 | 4.24 | 8,483 | 40,243 |
+| 2023-05-01 | 4.24 | 8,538 | 40,609 |
+| 2023-05-02 | 4.24 | 8,604 | 40,998 |
+| 2023-05-03 | 4.24 | 8,740 | 41,515 |
+| 2023-05-04 | 4.24 | 8,812 | 41,817 |

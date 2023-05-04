@@ -1,10 +1,10 @@
 # Crysis 3 Remastered
-Rating: 4.65 (Ranked 287)  
+Rating: 4.65 (Ranked 290)  
 Number of Ratings: 494  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 164  (Ranked 275)  
-Sum: 164 (Ranked 365)  
-Diff (max vs sum): -90
+Max (Great Boss Battles): 164  (Ranked 276)  
+Sum: 164 (Ranked 368)  
+Diff (max vs sum): -92
 ## Awards
 | Award | Count |
 | ----- | ----- |

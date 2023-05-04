@@ -2,18 +2,24 @@
 Rating: 4.43 (Ranked 633)  
 ## Popularity (Based on Awards)
 Max (Highly Recommended): 276  (Ranked 226)  
-Sum: 2,087 (Ranked 180)  
-Diff (max vs sum): 46
+Sum: 2,089 (Ranked 181)  
+Diff (max vs sum): 45
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,573 (Ranked 46)  
-Completed: 2 (0.00%) (Ranked 190)  
+Progressed: 208,500 (Ranked 47)  
+Completed: 2 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 207,254 | 2 |
 | 2023-04-26 | 207,376 | 2 |
 | 2023-04-27 | 207,487 | 2 |
-| 2023-04-28 | 207,573 | 2 |
+| 2023-04-28 | 207,621 | 2 |
+| 2023-04-29 | 207,793 | 2 |
+| 2023-04-30 | 207,985 | 2 |
+| 2023-05-01 | 208,162 | 2 |
+| 2023-05-02 | 208,286 | 2 |
+| 2023-05-03 | 208,404 | 2 |
+| 2023-05-04 | 208,500 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -21,8 +27,8 @@ Completed: 2 (0.00%) (Ranked 190)
 | This game has Quickly Understood Controls | 269 |
 | This game is Extremely Fun | 266 |
 | This game has Amazing Characters | 254 |
-| This game has Diverse Characters | 251 |
-| This game has Amazing Storytelling | 239 |
+| This game has Diverse Characters | 252 |
+| This game has Amazing Storytelling | 240 |
 | This game is Relaxing | 233 |
 | This game has Unique Visuals | 203 |
 | This game has a Creative Community | 96 |
@@ -51,3 +57,5 @@ Completed: 2 (0.00%) (Ranked 190)
 | 2023-04-19 | 4.43 | 275 | 2,082 |
 | 2023-04-22 | 4.43 | 276 | 2,085 |
 | 2023-04-24 | 4.43 | 276 | 2,087 |
+| 2023-05-01 | 4.43 | 276 | 2,088 |
+| 2023-05-02 | 4.43 | 276 | 2,089 |

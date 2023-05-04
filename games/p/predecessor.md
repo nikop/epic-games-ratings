@@ -1,20 +1,21 @@
 # Predecessor
-Rating: 4.45 (Ranked 599)  
+Rating: 4.44 (Ranked 620)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 66  (Ranked 363)  
-Sum: 420 (Ranked 292)  
-Diff (max vs sum): 71
+Max (Diverse Characters): 72  (Ranked 355)  
+Sum: 501 (Ranked 290)  
+Diff (max vs sum): 65
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 66 |
-| This game is Highly Recommended | 62 |
-| This game has a Competitive Community | 56 |
-| This game has Amazing Characters | 53 |
-| This game has Challenging Combat | 52 |
-| This game has Competitive Players | 49 |
-| This game has Quickly Understood Controls | 44 |
-| This game is Extremely Fun | 38 |
+| This game has Diverse Characters | 72 |
+| This game is Highly Recommended | 67 |
+| This game has a Competitive Community | 60 |
+| This game has Challenging Combat | 58 |
+| This game has Amazing Characters | 56 |
+| This game has Competitive Players | 50 |
+| This game has Amazing Storytelling | 49 |
+| This game has Quickly Understood Controls | 46 |
+| This game is Extremely Fun | 43 |
 | This game has Beautiful Visuals | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -82,3 +83,9 @@ Diff (max vs sum): 71
 | 2023-04-25 | 4.45 | 62 | 404 |
 | 2023-04-26 | 4.45 | 62 | 412 |
 | 2023-04-28 | 4.45 | 66 | 420 |
+| 2023-04-29 | 4.45 | 67 | 430 |
+| 2023-04-30 | 4.44 | 67 | 431 |
+| 2023-05-01 | 4.45 | 67 | 481 |
+| 2023-05-02 | 4.45 | 69 | 489 |
+| 2023-05-03 | 4.45 | 69 | 496 |
+| 2023-05-04 | 4.44 | 72 | 501 |

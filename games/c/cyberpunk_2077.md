@@ -1,34 +1,40 @@
 # Cyberpunk 2077
-Rating: 4.62 (Ranked 334)  
+Rating: 4.62 (Ranked 337)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 63,000  (Ranked 9)  
-Sum: 164,426 (Ranked 13)  
+Max (Character Customization): 63,570  (Ranked 9)  
+Sum: 166,142 (Ranked 13)  
 Diff (max vs sum): -4
 ## Popularity (Based on EOS Achievements)
-Progressed: 796,333 (Ranked 10)  
-Completed: 1,544 (0.19%) (Ranked 129)  
+Progressed: 797,854 (Ranked 10)  
+Completed: 1,566 (0.20%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 795,673 | 1,537 |
 | 2023-04-26 | 795,929 | 1,540 |
 | 2023-04-27 | 796,157 | 1,542 |
-| 2023-04-28 | 796,333 | 1,544 |
+| 2023-04-28 | 796,415 | 1,545 |
+| 2023-04-29 | 796,749 | 1,545 |
+| 2023-04-30 | 797,072 | 1,550 |
+| 2023-05-01 | 797,331 | 1,554 |
+| 2023-05-02 | 797,505 | 1,559 |
+| 2023-05-03 | 797,701 | 1,562 |
+| 2023-05-04 | 797,854 | 1,566 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 63,000 |
-| This game has Great Boss Battles | 40,391 |
-| This game has Amazing Storytelling | 7,214 |
-| This game is Great for Beginners | 7,154 |
-| This game has Diverse Characters | 7,120 |
-| This game is Extremely Fun | 7,107 |
-| This game is Relaxing | 7,049 |
-| This game is Highly Recommended | 7,027 |
-| This game has Quickly Understood Controls | 6,925 |
-| This game has Amazing Characters | 6,865 |
-| This game has a Creative Community | 4,574 |
+| This game has Inclusive Character Customization | 63,570 |
+| This game has Great Boss Battles | 40,798 |
+| This game has Amazing Storytelling | 7,306 |
+| This game is Great for Beginners | 7,227 |
+| This game has Diverse Characters | 7,214 |
+| This game is Extremely Fun | 7,194 |
+| This game is Relaxing | 7,133 |
+| This game is Highly Recommended | 7,120 |
+| This game has Quickly Understood Controls | 7,003 |
+| This game has Amazing Characters | 6,942 |
+| This game has a Creative Community | 4,635 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -131,4 +137,10 @@ Completed: 1,544 (0.19%) (Ranked 129)
 | 2023-04-25 | 4.62 | - | 62,841 | 163,836 |
 | 2023-04-26 | 4.62 | - | 62,921 | 164,074 |
 | 2023-04-27 | 4.62 | - | 63,000 | 164,336 |
-| 2023-04-28 | 4.62 | - | 63,000 | 164,426 |
+| 2023-04-28 | 4.62 | - | 63,096 | 164,612 |
+| 2023-04-29 | 4.62 | - | 63,211 | 164,943 |
+| 2023-04-30 | 4.62 | - | 63,211 | 165,062 |
+| 2023-05-01 | 4.62 | - | 63,313 | 165,402 |
+| 2023-05-02 | 4.62 | - | 63,418 | 165,714 |
+| 2023-05-03 | 4.62 | - | 63,500 | 165,972 |
+| 2023-05-04 | 4.62 | - | 63,570 | 166,142 |

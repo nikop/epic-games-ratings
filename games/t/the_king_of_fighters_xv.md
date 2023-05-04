@@ -1,24 +1,24 @@
 # THE KING OF FIGHTERS XV
-Rating: 4.62 (Ranked 334)  
+Rating: 4.62 (Ranked 337)  
 Number of Ratings: 181  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 71  (Ranked 355)  
-Sum: 539 (Ranked 285)  
-Diff (max vs sum): 70
+Max (Diverse Characters): 72  (Ranked 355)  
+Sum: 543 (Ranked 286)  
+Diff (max vs sum): 69
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 71 |
+| This game has Diverse Characters | 72 |
 | This game is Extremely Fun | 66 |
 | This game is Relaxing | 63 |
+| This game has Quickly Understood Controls | 62 |
+| This game is Great for Quick Sessions | 62 |
 | This game has Amazing Characters | 61 |
-| This game has Quickly Understood Controls | 61 |
-| This game is Great for Quick Sessions | 61 |
 | This game has Competitive Players | 57 |
 | This game is Highly Recommended | 57 |
 | This game has Obsessive Gameplay | 48 |
 | This game has Challenging Combat | 44 |
-| This game has a Competitive Community | 42 |
+| This game has a Competitive Community | 43 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -62,3 +62,7 @@ Diff (max vs sum): 70
 | 2023-04-14 | 4.62 | - | 70 | 535 |
 | 2023-04-16 | 4.62 | - | 71 | 538 |
 | 2023-04-23 | 4.62 | - | 71 | 539 |
+| 2023-04-28 | 4.62 | - | 72 | 540 |
+| 2023-04-29 | 4.62 | - | 72 | 541 |
+| 2023-04-30 | 4.62 | - | 72 | 542 |
+| 2023-05-03 | 4.62 | - | 72 | 543 |

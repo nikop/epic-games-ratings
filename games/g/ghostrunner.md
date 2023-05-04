@@ -1,24 +1,30 @@
 # Ghostrunner
-Rating: 4.72 (Ranked 164)  
+Rating: 4.72 (Ranked 166)  
 Number of Ratings: 1,047  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 451  (Ranked 188)  
-Sum: 583 (Ranked 277)  
-Diff (max vs sum): -89
+Max (Great Boss Battles): 454  (Ranked 188)  
+Sum: 586 (Ranked 280)  
+Diff (max vs sum): -92
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,217 (Ranked 130)  
-Completed: 19 (0.59%) (Ranked 93)  
+Progressed: 3,890 (Ranked 127)  
+Completed: 20 (0.51%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 2,967 | 16 |
 | 2023-04-26 | 3,058 | 17 |
 | 2023-04-27 | 3,147 | 18 |
-| 2023-04-28 | 3,217 | 19 |
+| 2023-04-28 | 3,248 | 19 |
+| 2023-04-29 | 3,386 | 19 |
+| 2023-04-30 | 3,517 | 19 |
+| 2023-05-01 | 3,638 | 19 |
+| 2023-05-02 | 3,732 | 19 |
+| 2023-05-03 | 3,816 | 19 |
+| 2023-05-04 | 3,890 | 20 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 451 |
+| This game has Great Boss Battles | 454 |
 | This game has Diverse Characters | 24 |
 | This game has Amazing Characters | 24 |
 | This game has a Creative Community | 22 |
@@ -121,3 +127,4 @@ Completed: 19 (0.59%) (Ranked 93)
 | 2023-04-12 | 4.72 | - | 449 | 581 |
 | 2023-04-15 | 4.72 | - | 450 | 582 |
 | 2023-04-21 | 4.72 | - | 451 | 583 |
+| 2023-04-30 | 4.72 | - | 454 | 586 |

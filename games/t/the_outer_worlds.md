@@ -1,22 +1,22 @@
 # The Outer Worlds
-Rating: 4.63 (Ranked 323)  
+Rating: 4.63 (Ranked 328)  
 Number of Ratings: 2,487  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 1,727  (Ranked 107)  
-Sum: 3,527 (Ranked 140)  
-Diff (max vs sum): -33
+Max (Character Customization): 1,730  (Ranked 110)  
+Sum: 3,535 (Ranked 140)  
+Diff (max vs sum): -30
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 1,727 |
+| This game has Inclusive Character Customization | 1,730 |
 | This game is Highly Recommended | 229 |
 | This game has Amazing Storytelling | 224 |
-| This game is Extremely Fun | 219 |
+| This game is Extremely Fun | 220 |
 | This game has Diverse Characters | 213 |
-| This game has Quickly Understood Controls | 206 |
-| This game is Relaxing | 205 |
-| This game is Great for Beginners | 200 |
-| This game has Amazing Characters | 196 |
+| This game has Quickly Understood Controls | 207 |
+| This game is Relaxing | 206 |
+| This game is Great for Beginners | 201 |
+| This game has Amazing Characters | 197 |
 | This game has Easy Combat | 161 |
 | This game has a Creative Community | 108 |
 | This game has Unique Visuals | 45 |
@@ -110,3 +110,9 @@ Diff (max vs sum): -33
 | 2023-04-20 | 4.63 | - | 1,727 | 3,525 |
 | 2023-04-21 | 4.63 | - | 1,727 | 3,526 |
 | 2023-04-25 | 4.63 | - | 1,727 | 3,527 |
+| 2023-04-28 | 4.63 | - | 1,728 | 3,528 |
+| 2023-04-29 | 4.63 | - | 1,728 | 3,529 |
+| 2023-04-30 | 4.63 | - | 1,729 | 3,532 |
+| 2023-05-01 | 4.63 | - | 1,729 | 3,533 |
+| 2023-05-02 | 4.63 | - | 1,730 | 3,534 |
+| 2023-05-04 | 4.63 | - | 1,730 | 3,535 |

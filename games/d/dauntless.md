@@ -1,21 +1,21 @@
 # Dauntless
-Rating: 4.53 (Ranked 486)  
+Rating: 4.53 (Ranked 488)  
 Number of Ratings: 23,656  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 19,601  (Ranked 17)  
-Sum: 48,879 (Ranked 22)  
-Diff (max vs sum): -5
+Max (Character Customization): 19,675  (Ranked 17)  
+Sum: 49,109 (Ranked 23)  
+Diff (max vs sum): -6
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 19,601 |
-| This game has Great Boss Battles | 13,161 |
-| This game is Great for Beginners | 2,976 |
-| This game is Extremely Fun | 2,677 |
-| This game is Highly Recommended | 2,645 |
-| This game is Relaxing | 2,640 |
-| This game has Quickly Understood Controls | 2,636 |
-| This game has Amazing Characters | 2,543 |
+| This game has Inclusive Character Customization | 19,675 |
+| This game has Great Boss Battles | 13,236 |
+| This game is Great for Beginners | 2,998 |
+| This game is Extremely Fun | 2,691 |
+| This game is Highly Recommended | 2,657 |
+| This game has Quickly Understood Controls | 2,651 |
+| This game is Relaxing | 2,646 |
+| This game has Amazing Characters | 2,555 |
 | This game is Great for Quick Sessions | 1,548 |
 | This game has Diverse Characters | 915 |
 | This game has Obsessive Gameplay | 420 |
@@ -114,4 +114,10 @@ Diff (max vs sum): -5
 | 2023-04-25 | 4.53 | - | 19,566 | 48,792 |
 | 2023-04-26 | 4.53 | - | 19,575 | 48,829 |
 | 2023-04-27 | 4.53 | - | 19,587 | 48,864 |
-| 2023-04-28 | 4.53 | - | 19,601 | 48,879 |
+| 2023-04-28 | 4.53 | - | 19,601 | 48,897 |
+| 2023-04-29 | 4.53 | - | 19,614 | 48,933 |
+| 2023-04-30 | 4.53 | - | 19,634 | 48,983 |
+| 2023-05-01 | 4.53 | - | 19,652 | 49,033 |
+| 2023-05-02 | 4.53 | - | 19,666 | 49,071 |
+| 2023-05-03 | 4.53 | - | 19,675 | 49,101 |
+| 2023-05-04 | 4.53 | - | 19,675 | 49,109 |

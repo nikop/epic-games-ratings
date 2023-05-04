@@ -1,22 +1,22 @@
 # Jurassic World Evolution
-Rating: 4.62 (Ranked 334)  
+Rating: 4.62 (Ranked 337)  
 Number of Ratings: 9,223  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 529  (Ranked 177)  
-Sum: 4,784 (Ranked 123)  
+Max (Extremely Fun): 530  (Ranked 177)  
+Sum: 4,793 (Ranked 123)  
 Diff (max vs sum): 54
 ## Awards
 | Award | Count |
 | ----- | ----- |
+| This game is Extremely Fun | 530 |
 | This game is Great for Beginners | 529 |
-| This game is Extremely Fun | 527 |
-| This game has Quickly Understood Controls | 512 |
+| This game has Quickly Understood Controls | 515 |
 | This game is Educational | 498 |
 | This game has Amazing Storytelling | 492 |
-| This game is Relaxing | 486 |
+| This game is Relaxing | 487 |
 | This game has Amazing Characters | 465 |
-| This game has Diverse Characters | 455 |
-| This game is Highly Recommended | 454 |
+| This game has Diverse Characters | 456 |
+| This game is Highly Recommended | 455 |
 | This game has Obsessive Gameplay | 415 |
 | This game has a Creative Community | 366 |
 ## Ratings History
@@ -112,3 +112,8 @@ Diff (max vs sum): 54
 | 2023-04-25 | 4.62 | - | 527 | 4,779 |
 | 2023-04-26 | 4.62 | - | 527 | 4,781 |
 | 2023-04-27 | 4.62 | - | 529 | 4,784 |
+| 2023-04-29 | 4.62 | - | 529 | 4,785 |
+| 2023-05-01 | 4.62 | - | 529 | 4,787 |
+| 2023-05-02 | 4.62 | - | 529 | 4,791 |
+| 2023-05-03 | 4.62 | - | 530 | 4,792 |
+| 2023-05-04 | 4.62 | - | 530 | 4,793 |

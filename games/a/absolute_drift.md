@@ -1,20 +1,26 @@
 # Absolute Drift
-Rating: 4.42 (Ranked 640)  
+Rating: 4.41 (Ranked 651)  
 Number of Ratings: 216  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,512,917 (Ranked 6)  
-Completed: 592 (0.04%) (Ranked 165)  
+Progressed: 1,514,271 (Ranked 6)  
+Completed: 597 (0.04%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 1,512,449 | 592 |
 | 2023-04-26 | 1,512,608 | 592 |
 | 2023-04-27 | 1,512,792 | 592 |
-| 2023-04-28 | 1,512,917 | 592 |
+| 2023-04-28 | 1,512,999 | 592 |
+| 2023-04-29 | 1,513,263 | 593 |
+| 2023-04-30 | 1,513,509 | 593 |
+| 2023-05-01 | 1,513,751 | 595 |
+| 2023-05-02 | 1,513,946 | 595 |
+| 2023-05-03 | 1,514,123 | 595 |
+| 2023-05-04 | 1,514,271 | 597 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -98,3 +104,4 @@ Completed: 592 (0.04%) (Ranked 165)
 | 2023-03-19 | 4.43 | - | - | - |
 | 2023-03-23 | 4.42 | - | - | - |
 | 2023-03-31 | 4.42 | - | 0 | 0 |
+| 2023-05-01 | 4.41 | - | 0 | 0 |

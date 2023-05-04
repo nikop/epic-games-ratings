@@ -1,33 +1,39 @@
 # Shadow Tactics: Blades of the Shogun
-Rating: 4.66 (Ranked 271)  
+Rating: 4.66 (Ranked 272)  
 Number of Ratings: 495  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 547  (Ranked 172)  
-Sum: 4,632 (Ranked 125)  
+Sum: 4,643 (Ranked 125)  
 Diff (max vs sum): 47
 ## Popularity (Based on EOS Achievements)
-Progressed: 162,441 (Ranked 49)  
-Completed: 40 (0.02%) (Ranked 173)  
+Progressed: 164,408 (Ranked 50)  
+Completed: 41 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 161,627 | 39 |
 | 2023-04-26 | 161,900 | 40 |
 | 2023-04-27 | 162,202 | 40 |
-| 2023-04-28 | 162,441 | 40 |
+| 2023-04-28 | 162,509 | 40 |
+| 2023-04-29 | 162,892 | 41 |
+| 2023-04-30 | 163,302 | 41 |
+| 2023-05-01 | 163,668 | 41 |
+| 2023-05-02 | 163,962 | 41 |
+| 2023-05-03 | 164,202 | 41 |
+| 2023-05-04 | 164,408 | 41 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 547 |
 | This game has Diverse Characters | 517 |
-| This game is Extremely Fun | 508 |
+| This game is Extremely Fun | 510 |
 | This game has Amazing Storytelling | 496 |
-| This game has Amazing Characters | 478 |
-| This game is Highly Recommended | 473 |
-| This game has Challenging Combat | 468 |
-| This game is Relaxing | 463 |
-| This game has Quickly Understood Controls | 442 |
-| This game has a Creative Community | 240 |
+| This game has Amazing Characters | 479 |
+| This game is Highly Recommended | 475 |
+| This game has Challenging Combat | 469 |
+| This game is Relaxing | 465 |
+| This game has Quickly Understood Controls | 443 |
+| This game has a Creative Community | 242 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -127,4 +133,9 @@ Completed: 40 (0.02%) (Ranked 173)
 | 2023-04-24 | 4.66 | - | 547 | 4,627 |
 | 2023-04-25 | 4.66 | - | 547 | 4,630 |
 | 2023-04-26 | 4.66 | - | 547 | 4,631 |
-| 2023-04-28 | 4.66 | - | 547 | 4,632 |
+| 2023-04-28 | 4.66 | - | 547 | 4,634 |
+| 2023-04-29 | 4.66 | - | 547 | 4,636 |
+| 2023-04-30 | 4.66 | - | 547 | 4,637 |
+| 2023-05-01 | 4.66 | - | 547 | 4,640 |
+| 2023-05-02 | 4.66 | - | 547 | 4,641 |
+| 2023-05-04 | 4.66 | - | 547 | 4,643 |

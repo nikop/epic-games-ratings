@@ -1,23 +1,23 @@
 # God of War
-Rating: 4.89 (Ranked 12)  
+Rating: 4.88 (Ranked 18)  
 Number of Ratings: 4,943  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 3,956  (Ranked 73)  
-Sum: 7,658 (Ranked 93)  
+Max (Character Customization): 3,969  (Ranked 73)  
+Sum: 7,685 (Ranked 93)  
 Diff (max vs sum): -20
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 3,956 |
-| This game has Great Boss Battles | 2,115 |
-| This game is Extremely Fun | 167 |
+| This game has Inclusive Character Customization | 3,969 |
+| This game has Great Boss Battles | 2,124 |
+| This game is Extremely Fun | 170 |
 | This game has Amazing Characters | 163 |
-| This game has Amazing Storytelling | 160 |
+| This game has Amazing Storytelling | 161 |
 | This game has Competitive Players | 157 |
 | This game is Highly Recommended | 150 |
 | This game is Educational | 149 |
 | This game is Relaxing | 147 |
-| This game has Diverse Characters | 142 |
+| This game has Diverse Characters | 143 |
 | This game has Challenging Combat | 134 |
 | This game has Quickly Understood Controls | 126 |
 | This game has a Creative Community | 92 |
@@ -120,3 +120,8 @@ Diff (max vs sum): -20
 | 2023-04-25 | 4.89 | - | 3,953 | 7,653 |
 | 2023-04-26 | 4.89 | - | 3,954 | 7,656 |
 | 2023-04-27 | 4.89 | - | 3,956 | 7,658 |
+| 2023-04-29 | 4.89 | - | 3,959 | 7,663 |
+| 2023-04-30 | 4.89 | - | 3,961 | 7,666 |
+| 2023-05-01 | 4.88 | - | 3,967 | 7,675 |
+| 2023-05-03 | 4.88 | - | 3,967 | 7,681 |
+| 2023-05-04 | 4.88 | - | 3,969 | 7,685 |

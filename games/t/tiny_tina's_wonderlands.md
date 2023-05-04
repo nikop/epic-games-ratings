@@ -1,22 +1,22 @@
 # Tiny Tina's Wonderlands
-Rating: 4.57 (Ranked 426)  
+Rating: 4.57 (Ranked 428)  
 Number of Ratings: 20,753  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 18,043  (Ranked 19)  
-Sum: 31,765 (Ranked 35)  
+Max (Great Boss Battles): 18,157  (Ranked 19)  
+Sum: 31,995 (Ranked 35)  
 Diff (max vs sum): -16
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 18,043 |
-| This game has Amazing Storytelling | 1,784 |
-| This game has Diverse Characters | 1,774 |
-| This game has Quickly Understood Controls | 1,740 |
-| This game is Extremely Fun | 1,717 |
-| This game is Great for Beginners | 1,716 |
-| This game is Relaxing | 1,696 |
-| This game is Highly Recommended | 1,659 |
-| This game has Amazing Characters | 1,636 |
+| This game has Great Boss Battles | 18,157 |
+| This game has Amazing Storytelling | 1,801 |
+| This game has Diverse Characters | 1,788 |
+| This game has Quickly Understood Controls | 1,756 |
+| This game is Great for Beginners | 1,734 |
+| This game is Extremely Fun | 1,729 |
+| This game is Relaxing | 1,707 |
+| This game is Highly Recommended | 1,671 |
+| This game has Amazing Characters | 1,652 |
 | This game has Obsessive Gameplay | 1,206 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -116,4 +116,10 @@ Diff (max vs sum): -16
 | 2023-04-25 | 4.57 | - | 18,001 | 31,657 |
 | 2023-04-26 | 4.57 | - | 18,022 | 31,698 |
 | 2023-04-27 | 4.57 | - | 18,043 | 31,741 |
-| 2023-04-28 | 4.57 | - | 18,043 | 31,765 |
+| 2023-04-28 | 4.57 | - | 18,062 | 31,790 |
+| 2023-04-29 | 4.57 | - | 18,080 | 31,823 |
+| 2023-04-30 | 4.57 | - | 18,080 | 31,847 |
+| 2023-05-01 | 4.57 | - | 18,106 | 31,898 |
+| 2023-05-02 | 4.57 | - | 18,124 | 31,929 |
+| 2023-05-03 | 4.57 | - | 18,142 | 31,966 |
+| 2023-05-04 | 4.57 | - | 18,157 | 31,995 |

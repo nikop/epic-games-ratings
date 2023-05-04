@@ -1,29 +1,35 @@
 # Salt and Sanctuary
-Rating: 4.61 (Ranked 351)  
+Rating: 4.61 (Ranked 353)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Challenging Combat): 266  (Ranked 232)  
-Sum: 1,868 (Ranked 190)  
+Max (Challenging Combat): 267  (Ranked 232)  
+Sum: 1,872 (Ranked 190)  
 Diff (max vs sum): 42
 ## Popularity (Based on EOS Achievements)
-Progressed: 519,014 (Ranked 23)  
-Completed: 1,389 (0.27%) (Ranked 120)  
+Progressed: 519,781 (Ranked 23)  
+Completed: 1,396 (0.27%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 518,720 | 1,387 |
 | 2023-04-26 | 518,817 | 1,387 |
 | 2023-04-27 | 518,926 | 1,389 |
-| 2023-04-28 | 519,014 | 1,389 |
+| 2023-04-28 | 519,040 | 1,389 |
+| 2023-04-29 | 519,189 | 1,391 |
+| 2023-04-30 | 519,345 | 1,392 |
+| 2023-05-01 | 519,480 | 1,392 |
+| 2023-05-02 | 519,575 | 1,392 |
+| 2023-05-03 | 519,689 | 1,394 |
+| 2023-05-04 | 519,781 | 1,396 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Challenging Combat | 266 |
+| This game has Challenging Combat | 267 |
 | This game has Quickly Understood Controls | 249 |
 | This game is Highly Recommended | 246 |
 | This game has Diverse Characters | 227 |
+| This game is Extremely Fun | 227 |
 | This game has Amazing Storytelling | 224 |
-| This game is Extremely Fun | 224 |
 | This game has Amazing Characters | 218 |
 | This game has Unique Visuals | 214 |
 | This game has Obsessive Gameplay | 164 |
@@ -126,4 +132,6 @@ Completed: 1,389 (0.27%) (Ranked 120)
 | 2023-04-21 | 4.61 | - | 266 | 1,863 |
 | 2023-04-23 | 4.61 | - | 266 | 1,864 |
 | 2023-04-26 | 4.61 | - | 266 | 1,866 |
-| 2023-04-28 | 4.61 | - | 266 | 1,868 |
+| 2023-04-28 | 4.61 | - | 267 | 1,869 |
+| 2023-04-30 | 4.61 | - | 267 | 1,870 |
+| 2023-05-04 | 4.61 | - | 267 | 1,872 |

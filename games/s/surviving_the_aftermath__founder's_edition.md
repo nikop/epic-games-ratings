@@ -1,33 +1,39 @@
 # Surviving the Aftermath: Founder's Edition
-Rating: 4.47 (Ranked 575)  
+Rating: 4.47 (Ranked 574)  
 Number of Ratings: 836  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Extremely Fun): 96  (Ranked 323)  
-Sum: 646 (Ranked 268)  
-Diff (max vs sum): 55
+Max (Extremely Fun): 99  (Ranked 321)  
+Sum: 651 (Ranked 267)  
+Diff (max vs sum): 54
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,588 (Ranked 123)  
-Completed: 0 (0.00%) (Ranked 190)  
+Progressed: 4,876 (Ranked 121)  
+Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 4,483 | 0 |
 | 2023-04-26 | 4,516 | 0 |
 | 2023-04-27 | 4,568 | 0 |
-| 2023-04-28 | 4,588 | 0 |
+| 2023-04-28 | 4,599 | 0 |
+| 2023-04-29 | 4,655 | 0 |
+| 2023-04-30 | 4,715 | 0 |
+| 2023-05-01 | 4,775 | 0 |
+| 2023-05-02 | 4,817 | 0 |
+| 2023-05-03 | 4,851 | 0 |
+| 2023-05-04 | 4,876 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Extremely Fun | 96 |
+| This game is Extremely Fun | 99 |
 | This game has Amazing Storytelling | 83 |
 | This game is Great for Beginners | 81 |
 | This game is Relaxing | 80 |
 | This game has Quickly Understood Controls | 77 |
 | This game is Highly Recommended | 66 |
 | This game has Diverse Characters | 63 |
-| This game has Amazing Characters | 61 |
+| This game has Amazing Characters | 62 |
 | This game has Obsessive Gameplay | 58 |
-| This game has a Creative Community | 39 |
+| This game has a Creative Community | 40 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -109,3 +115,6 @@ Completed: 0 (0.00%) (Ranked 190)
 | 2023-04-10 | 4.47 | - | 96 | 644 |
 | 2023-04-23 | 4.47 | - | 96 | 645 |
 | 2023-04-24 | 4.47 | - | 96 | 646 |
+| 2023-04-29 | 4.47 | - | 98 | 648 |
+| 2023-05-03 | 4.47 | - | 98 | 649 |
+| 2023-05-04 | 4.47 | - | 99 | 651 |

@@ -1,10 +1,10 @@
 # Fault: Elder Orb
-Rating: 3.91 (Ranked 892)  
+Rating: 3.91 (Ranked 895)  
 Number of Ratings: 723  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Extremely Fun): 103  (Ranked 314)  
+Max (Extremely Fun): 103  (Ranked 317)  
 Sum: 728 (Ranked 256)  
-Diff (max vs sum): 58
+Diff (max vs sum): 61
 ## Awards
 | Award | Count |
 | ----- | ----- |

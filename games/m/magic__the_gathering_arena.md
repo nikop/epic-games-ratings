@@ -2,23 +2,23 @@
 Rating: 4.45 (Ranked 599)  
 Number of Ratings: 14,652  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Quick Sessions): 9,998  (Ranked 33)  
-Sum: 82,404 (Ranked 15)  
+Max (Great for Quick Sessions): 10,077  (Ranked 33)  
+Sum: 82,920 (Ranked 15)  
 Diff (max vs sum): 18
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 9,998 |
-| This game is Relaxing | 8,794 |
-| This game has Competitive Players | 8,740 |
-| This game has Quickly Understood Controls | 8,280 |
-| This game has Diverse Characters | 7,976 |
-| This game is Extremely Fun | 7,734 |
-| This game is Highly Recommended | 7,472 |
-| This game has Challenging Combat | 6,502 |
-| This game has Amazing Characters | 5,985 |
-| This game has Amazing Storytelling | 5,544 |
-| This game has a Competitive Community | 5,379 |
+| This game is Great for Quick Sessions | 10,077 |
+| This game is Relaxing | 8,843 |
+| This game has Competitive Players | 8,797 |
+| This game has Quickly Understood Controls | 8,329 |
+| This game has Diverse Characters | 8,026 |
+| This game is Extremely Fun | 7,779 |
+| This game is Highly Recommended | 7,516 |
+| This game has Challenging Combat | 6,542 |
+| This game has Amazing Characters | 6,027 |
+| This game has Amazing Storytelling | 5,574 |
+| This game has a Competitive Community | 5,410 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -118,4 +118,10 @@ Diff (max vs sum): 18
 | 2023-04-25 | 4.45 | - | 9,963 | 82,109 |
 | 2023-04-26 | 4.45 | - | 9,982 | 82,249 |
 | 2023-04-27 | 4.45 | - | 9,998 | 82,362 |
-| 2023-04-28 | 4.45 | - | 9,998 | 82,404 |
+| 2023-04-28 | 4.45 | - | 10,014 | 82,451 |
+| 2023-04-29 | 4.45 | - | 10,027 | 82,531 |
+| 2023-04-30 | 4.45 | - | 10,039 | 82,624 |
+| 2023-05-01 | 4.45 | - | 10,050 | 82,729 |
+| 2023-05-02 | 4.45 | - | 10,062 | 82,799 |
+| 2023-05-03 | 4.45 | - | 10,077 | 82,874 |
+| 2023-05-04 | 4.45 | - | 10,077 | 82,920 |

@@ -1,22 +1,22 @@
 # Days Gone
-Rating: 4.69 (Ranked 207)  
+Rating: 4.69 (Ranked 212)  
 Number of Ratings: 3,949  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 3,732  (Ranked 76)  
-Sum: 6,612 (Ranked 107)  
+Max (Great Boss Battles): 3,741  (Ranked 76)  
+Sum: 6,624 (Ranked 107)  
 Diff (max vs sum): -31
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 3,732 |
+| This game has Great Boss Battles | 3,741 |
 | This game is Extremely Fun | 364 |
 | This game has Amazing Storytelling | 354 |
 | This game is Great for Beginners | 345 |
 | This game is Relaxing | 339 |
-| This game has Diverse Characters | 335 |
-| This game is Highly Recommended | 329 |
+| This game has Diverse Characters | 336 |
+| This game is Highly Recommended | 330 |
+| This game has Amazing Characters | 323 |
 | This game has Quickly Understood Controls | 322 |
-| This game has Amazing Characters | 322 |
 | This game has Obsessive Gameplay | 198 |
 | This game has a Creative Community | 170 |
 | This game has Realistic Visuals | 107 |
@@ -123,3 +123,8 @@ Diff (max vs sum): -31
 | 2023-04-25 | 4.69 | - | 3,729 | 6,609 |
 | 2023-04-26 | 4.69 | - | 3,731 | 6,611 |
 | 2023-04-27 | 4.69 | - | 3,732 | 6,612 |
+| 2023-04-29 | 4.69 | - | 3,733 | 6,614 |
+| 2023-04-30 | 4.69 | - | 3,738 | 6,619 |
+| 2023-05-01 | 4.69 | - | 3,740 | 6,621 |
+| 2023-05-02 | 4.69 | - | 3,740 | 6,622 |
+| 2023-05-03 | 4.69 | - | 3,741 | 6,624 |

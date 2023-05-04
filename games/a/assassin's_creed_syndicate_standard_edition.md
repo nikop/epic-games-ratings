@@ -1,18 +1,18 @@
 # Assassin's Creed Syndicate Standard Edition
-Rating: 4.51 (Ranked 510)  
+Rating: 4.51 (Ranked 513)  
 Number of Ratings: 2,854  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great for Beginners): 91  (Ranked 330)  
-Sum: 673 (Ranked 263)  
-Diff (max vs sum): 67
+Max (Great for Beginners): 91  (Ranked 333)  
+Sum: 678 (Ranked 262)  
+Diff (max vs sum): 71
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 91 |
-| This game is Relaxing | 83 |
-| This game has Diverse Characters | 77 |
-| This game has Quickly Understood Controls | 69 |
-| This game has Amazing Storytelling | 69 |
+| This game is Relaxing | 84 |
+| This game has Diverse Characters | 78 |
+| This game has Amazing Storytelling | 71 |
+| This game has Quickly Understood Controls | 70 |
 | This game is Educational | 64 |
 | This game is Highly Recommended | 63 |
 | This game is Extremely Fun | 60 |
@@ -124,3 +124,6 @@ Diff (max vs sum): 67
 | 2023-04-20 | 4.51 | - | 91 | 671 |
 | 2023-04-22 | 4.51 | - | 91 | 672 |
 | 2023-04-24 | 4.51 | - | 91 | 673 |
+| 2023-04-29 | 4.51 | - | 91 | 674 |
+| 2023-04-30 | 4.51 | - | 91 | 677 |
+| 2023-05-01 | 4.51 | - | 91 | 678 |

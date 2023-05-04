@@ -1,9 +1,9 @@
 # MotoGP™21
-Rating: 4.58 (Ranked 409)  
+Rating: 4.58 (Ranked 414)  
 Number of Ratings: 95  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Amazing Characters): 22  (Ranked 470)  
-Sum: 42 (Ranked 437)  
+Max (Amazing Characters): 22  (Ranked 473)  
+Sum: 42 (Ranked 440)  
 Diff (max vs sum): 33
 ## Awards
 | Award | Count |

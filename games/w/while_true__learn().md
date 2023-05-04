@@ -1,20 +1,26 @@
 # while True: learn()
-Rating: 4.51 (Ranked 510)  
+Rating: 4.51 (Ranked 513)  
 Number of Ratings: 896  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Challenging Puzzles): 131  (Ranked 290)  
 Sum: 131 (Ranked 382)  
 Diff (max vs sum): -92
 ## Popularity (Based on EOS Achievements)
-Progressed: 586,040 (Ranked 20)  
-Completed: 473 (0.08%) (Ranked 154)  
+Progressed: 586,913 (Ranked 20)  
+Completed: 474 (0.08%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 585,732 | 473 |
 | 2023-04-26 | 585,853 | 473 |
 | 2023-04-27 | 585,962 | 473 |
-| 2023-04-28 | 586,040 | 473 |
+| 2023-04-28 | 586,092 | 473 |
+| 2023-04-29 | 586,257 | 473 |
+| 2023-04-30 | 586,437 | 473 |
+| 2023-05-01 | 586,589 | 474 |
+| 2023-05-02 | 586,713 | 474 |
+| 2023-05-03 | 586,815 | 474 |
+| 2023-05-04 | 586,913 | 474 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

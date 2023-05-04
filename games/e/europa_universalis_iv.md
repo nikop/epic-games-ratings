@@ -1,32 +1,38 @@
 # Europa Universalis IV
-Rating: 4.68 (Ranked 231)  
+Rating: 4.68 (Ranked 233)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Educational): 5,119  (Ranked 60)  
-Sum: 42,353 (Ranked 26)  
+Max (Educational): 5,157  (Ranked 60)  
+Sum: 42,684 (Ranked 26)  
 Diff (max vs sum): 34
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,586 (Ranked 85)  
-Completed: 0 (0.00%) (Ranked 190)  
+Progressed: 29,292 (Ranked 82)  
+Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 21,176 | 0 |
 | 2023-04-26 | 22,062 | 0 |
 | 2023-04-27 | 22,962 | 0 |
-| 2023-04-28 | 23,586 | 0 |
+| 2023-04-28 | 23,979 | 0 |
+| 2023-04-29 | 25,274 | 0 |
+| 2023-04-30 | 26,437 | 0 |
+| 2023-05-01 | 27,408 | 0 |
+| 2023-05-02 | 28,152 | 0 |
+| 2023-05-03 | 28,808 | 0 |
+| 2023-05-04 | 29,292 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 5,119 |
-| This game has Challenging Combat | 4,901 |
-| This game is Highly Recommended | 4,895 |
-| This game is Extremely Fun | 4,855 |
-| This game has Diverse Characters | 4,807 |
-| This game is Relaxing | 4,769 |
-| This game has Competitive Players | 4,597 |
-| This game has Amazing Storytelling | 4,365 |
-| This game has Amazing Characters | 4,045 |
+| This game is Educational | 5,157 |
+| This game is Highly Recommended | 4,942 |
+| This game has Challenging Combat | 4,930 |
+| This game is Extremely Fun | 4,896 |
+| This game has Diverse Characters | 4,850 |
+| This game is Relaxing | 4,803 |
+| This game has Competitive Players | 4,636 |
+| This game has Amazing Storytelling | 4,397 |
+| This game has Amazing Characters | 4,073 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -132,4 +138,10 @@ Completed: 0 (0.00%) (Ranked 190)
 | 2023-04-25 | 4.68 | - | 5,093 | 42,215 |
 | 2023-04-26 | 4.68 | - | 5,102 | 42,258 |
 | 2023-04-27 | 4.68 | - | 5,112 | 42,306 |
-| 2023-04-28 | 4.68 | - | 5,119 | 42,353 |
+| 2023-04-28 | 4.68 | - | 5,119 | 42,368 |
+| 2023-04-29 | 4.68 | - | 5,127 | 42,445 |
+| 2023-04-30 | 4.68 | - | 5,138 | 42,518 |
+| 2023-05-01 | 4.68 | - | 5,147 | 42,581 |
+| 2023-05-02 | 4.68 | - | 5,151 | 42,607 |
+| 2023-05-03 | 4.68 | - | 5,157 | 42,653 |
+| 2023-05-04 | 4.68 | - | 5,157 | 42,684 |

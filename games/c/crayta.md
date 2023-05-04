@@ -1,13 +1,13 @@
 # Crayta
-Rating: 4.19 (Ranked 814)  
+Rating: 4.19 (Ranked 813)  
 Number of Ratings: 94  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Diverse Characters): 50  (Ranked 382)  
-Sum: 370 (Ranked 305)  
-Diff (max vs sum): 77
+Max (Diverse Characters): 50  (Ranked 385)  
+Sum: 370 (Ranked 307)  
+Diff (max vs sum): 78
 ## Popularity (Based on EOS Achievements)
-Progressed: 109,222 (Ranked 56)  
-Completed: 5 (0.00%) (Ranked 190)  
+Progressed: 109,250 (Ranked 57)  
+Completed: 5 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -15,6 +15,12 @@ Completed: 5 (0.00%) (Ranked 190)
 | 2023-04-26 | 109,210 | 5 |
 | 2023-04-27 | 109,218 | 5 |
 | 2023-04-28 | 109,222 | 5 |
+| 2023-04-29 | 109,225 | 5 |
+| 2023-04-30 | 109,233 | 5 |
+| 2023-05-01 | 109,235 | 5 |
+| 2023-05-02 | 109,242 | 5 |
+| 2023-05-03 | 109,245 | 5 |
+| 2023-05-04 | 109,250 | 5 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

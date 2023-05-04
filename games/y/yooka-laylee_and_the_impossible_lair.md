@@ -1,10 +1,10 @@
 # Yooka-Laylee and the Impossible Lair
-Rating: 4.37 (Ranked 694)  
+Rating: 4.37 (Ranked 695)  
 Number of Ratings: 346  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Relaxing): 31  (Ranked 437)  
-Sum: 156 (Ranked 372)  
-Diff (max vs sum): 65
+Max (Relaxing): 31  (Ranked 440)  
+Sum: 176 (Ranked 361)  
+Diff (max vs sum): 79
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -15,6 +15,7 @@ Diff (max vs sum): 65
 | This game is Highly Recommended | 23 |
 | This game has Amazing Storytelling | 22 |
 | This game has Obsessive Gameplay | 21 |
+| This game has Quickly Understood Controls | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -105,3 +106,4 @@ Diff (max vs sum): 65
 | 2023-03-16 | 4.38 | - | - | - |
 | 2023-04-02 | 4.38 | - | 31 | 156 |
 | 2023-04-24 | 4.37 | - | 31 | 156 |
+| 2023-05-02 | 4.37 | - | 31 | 176 |

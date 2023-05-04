@@ -1,31 +1,37 @@
 # Gotham Knights
-Rating: 4.17 (Ranked 823)  
+Rating: 4.17 (Ranked 826)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 2,159  (Ranked 98)  
-Sum: 3,572 (Ranked 139)  
-Diff (max vs sum): -41
+Max (Great Boss Battles): 2,187  (Ranked 99)  
+Sum: 3,616 (Ranked 139)  
+Diff (max vs sum): -40
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,425 (Ranked 66)  
-Completed: 85 (0.14%) (Ranked 137)  
+Progressed: 60,620 (Ranked 66)  
+Completed: 89 (0.15%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 60,355 | 85 |
 | 2023-04-26 | 60,373 | 85 |
 | 2023-04-27 | 60,401 | 85 |
-| 2023-04-28 | 60,425 | 85 |
+| 2023-04-28 | 60,435 | 85 |
+| 2023-04-29 | 60,493 | 87 |
+| 2023-04-30 | 60,526 | 88 |
+| 2023-05-01 | 60,560 | 88 |
+| 2023-05-02 | 60,584 | 89 |
+| 2023-05-03 | 60,606 | 89 |
+| 2023-05-04 | 60,620 | 89 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,159 |
+| This game has Great Boss Battles | 2,187 |
+| This game is Extremely Fun | 186 |
 | This game is Relaxing | 185 |
-| This game is Extremely Fun | 185 |
-| This game has Quickly Understood Controls | 180 |
-| This game has Diverse Characters | 177 |
-| This game is Highly Recommended | 174 |
-| This game has Amazing Characters | 172 |
-| This game is Great for Beginners | 171 |
-| This game has Amazing Storytelling | 169 |
+| This game has Quickly Understood Controls | 184 |
+| This game has Diverse Characters | 180 |
+| This game has Amazing Characters | 177 |
+| This game is Highly Recommended | 175 |
+| This game is Great for Beginners | 172 |
+| This game has Amazing Storytelling | 170 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -99,3 +105,8 @@ Completed: 85 (0.14%) (Ranked 137)
 | 2023-04-26 | 4.17 | 2,153 | 3,561 |
 | 2023-04-27 | 4.17 | 2,159 | 3,570 |
 | 2023-04-28 | 4.17 | 2,159 | 3,572 |
+| 2023-04-29 | 4.17 | 2,167 | 3,589 |
+| 2023-04-30 | 4.17 | 2,172 | 3,597 |
+| 2023-05-01 | 4.17 | 2,178 | 3,605 |
+| 2023-05-03 | 4.17 | 2,182 | 3,611 |
+| 2023-05-04 | 4.17 | 2,187 | 3,616 |

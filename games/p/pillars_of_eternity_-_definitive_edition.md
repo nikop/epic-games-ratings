@@ -1,13 +1,13 @@
 # Pillars of Eternity - Definitive Edition
-Rating: 4.65 (Ranked 287)  
+Rating: 4.65 (Ranked 290)  
 Number of Ratings: 2,847  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 1,867  (Ranked 103)  
-Sum: 4,586 (Ranked 126)  
-Diff (max vs sum): -23
+Max (Character Customization): 1,868  (Ranked 104)  
+Sum: 4,591 (Ranked 126)  
+Diff (max vs sum): -22
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,074 (Ranked 155)  
-Completed: 4 (0.37%) (Ranked 104)  
+Progressed: 1,074 (Ranked 157)  
+Completed: 4 (0.37%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -15,16 +15,16 @@ Completed: 4 (0.37%) (Ranked 104)
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 1,867 |
-| This game is Extremely Fun | 333 |
+| This game has Inclusive Character Customization | 1,868 |
+| This game is Extremely Fun | 334 |
 | This game has Amazing Storytelling | 332 |
-| This game has Amazing Characters | 324 |
+| This game has Amazing Characters | 325 |
 | This game has Diverse Characters | 324 |
-| This game is Highly Recommended | 312 |
+| This game is Highly Recommended | 313 |
 | This game has Challenging Combat | 307 |
 | This game is Relaxing | 305 |
 | This game has Quickly Understood Controls | 299 |
-| This game has a Creative Community | 183 |
+| This game has a Creative Community | 184 |
 | This game has Unique Visuals | 141 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -119,3 +119,7 @@ Completed: 4 (0.37%) (Ranked 104)
 | 2023-04-23 | 4.65 | - | 1,866 | 4,584 |
 | 2023-04-24 | 4.65 | - | 1,867 | 4,585 |
 | 2023-04-26 | 4.65 | - | 1,867 | 4,586 |
+| 2023-04-29 | 4.65 | - | 1,868 | 4,588 |
+| 2023-05-01 | 4.65 | - | 1,868 | 4,589 |
+| 2023-05-03 | 4.65 | - | 1,868 | 4,590 |
+| 2023-05-04 | 4.65 | - | 1,868 | 4,591 |

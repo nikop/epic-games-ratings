@@ -1,18 +1,21 @@
 # Tails of Iron
-Rating: 4.50 (Ranked 528)  
+Rating: 4.50 (Ranked 530)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,352 (Ranked 151)  
-Completed: 6 (0.44%) (Ranked 100)  
+Progressed: 1,359 (Ranked 151)  
+Completed: 6 (0.44%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 1,346 | 6 |
 | 2023-04-26 | 1,350 | 6 |
-| 2023-04-28 | 1,352 | 6 |
+| 2023-04-28 | 1,353 | 6 |
+| 2023-04-29 | 1,355 | 6 |
+| 2023-04-30 | 1,356 | 6 |
+| 2023-05-02 | 1,359 | 6 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

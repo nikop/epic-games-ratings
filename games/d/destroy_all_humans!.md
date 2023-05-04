@@ -1,10 +1,10 @@
 # Destroy All Humans!
-Rating: 4.62 (Ranked 334)  
+Rating: 4.62 (Ranked 337)  
 Number of Ratings: 85  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 34  (Ranked 426)  
-Sum: 34 (Ranked 448)  
-Diff (max vs sum): -22
+Max (Great Boss Battles): 34  (Ranked 430)  
+Sum: 34 (Ranked 451)  
+Diff (max vs sum): -21
 ## Awards
 | Award | Count |
 | ----- | ----- |

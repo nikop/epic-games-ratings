@@ -1,33 +1,39 @@
 # Against the Storm
-Rating: 4.81 (Ranked 71)  
+Rating: 4.81 (Ranked 72)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Popularity (Based on Awards)
 Max (Quickly Understood Controls): 417  (Ranked 191)  
-Sum: 3,000 (Ranked 149)  
-Diff (max vs sum): 42
+Sum: 3,012 (Ranked 148)  
+Diff (max vs sum): 43
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,501 (Ranked 96)  
-Completed: 30 (0.21%) (Ranked 126)  
+Progressed: 14,637 (Ranked 96)  
+Completed: 30 (0.20%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 14,446 | 30 |
 | 2023-04-26 | 14,466 | 30 |
 | 2023-04-27 | 14,485 | 30 |
-| 2023-04-28 | 14,501 | 30 |
+| 2023-04-28 | 14,509 | 30 |
+| 2023-04-29 | 14,542 | 30 |
+| 2023-04-30 | 14,576 | 30 |
+| 2023-05-01 | 14,593 | 30 |
+| 2023-05-02 | 14,612 | 30 |
+| 2023-05-03 | 14,625 | 30 |
+| 2023-05-04 | 14,637 | 30 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 417 |
-| This game is Relaxing | 409 |
-| This game is Extremely Fun | 386 |
-| This game is Highly Recommended | 368 |
-| This game is Great for Beginners | 368 |
+| This game is Relaxing | 410 |
+| This game is Extremely Fun | 389 |
+| This game is Great for Beginners | 370 |
+| This game is Highly Recommended | 369 |
+| This game has Unique Visuals | 299 |
 | This game has Amazing Storytelling | 297 |
-| This game has Unique Visuals | 296 |
-| This game has Amazing Characters | 267 |
+| This game has Amazing Characters | 268 |
 | This game has Obsessive Gameplay | 254 |
-| This game has a Creative Community | 192 |
+| This game has a Creative Community | 193 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -135,3 +141,8 @@ Completed: 30 (0.21%) (Ranked 126)
 | 2023-04-26 | 4.81 | - | 417 | 2,998 |
 | 2023-04-27 | 4.81 | - | 417 | 2,999 |
 | 2023-04-28 | 4.81 | - | 417 | 3,000 |
+| 2023-04-29 | 4.81 | - | 417 | 3,002 |
+| 2023-04-30 | 4.81 | - | 417 | 3,008 |
+| 2023-05-01 | 4.81 | - | 417 | 3,010 |
+| 2023-05-02 | 4.81 | - | 417 | 3,011 |
+| 2023-05-04 | 4.81 | - | 417 | 3,012 |

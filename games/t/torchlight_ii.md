@@ -1,22 +1,22 @@
 # Torchlight II
-Rating: 4.58 (Ranked 409)  
+Rating: 4.58 (Ranked 414)  
 Number of Ratings: 2,280  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 967  (Ranked 139)  
-Sum: 1,890 (Ranked 187)  
+Max (Character Customization): 969  (Ranked 139)  
+Sum: 1,896 (Ranked 187)  
 Diff (max vs sum): -48
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 967 |
-| This game has Great Boss Battles | 474 |
+| This game has Inclusive Character Customization | 969 |
+| This game has Great Boss Battles | 476 |
 | This game has Quickly Understood Controls | 60 |
 | This game is Great for Beginners | 57 |
 | This game is Relaxing | 55 |
 | This game has Amazing Characters | 54 |
-| This game is Extremely Fun | 50 |
+| This game is Extremely Fun | 51 |
+| This game is Highly Recommended | 50 |
 | This game has Diverse Characters | 50 |
-| This game is Highly Recommended | 49 |
 | This game has Amazing Storytelling | 49 |
 | This game has a Creative Community | 25 |
 ## Ratings History
@@ -109,3 +109,5 @@ Diff (max vs sum): -48
 | 2023-04-26 | 4.58 | - | 967 | 1,888 |
 | 2023-04-27 | 4.58 | - | 967 | 1,889 |
 | 2023-04-28 | 4.58 | - | 967 | 1,890 |
+| 2023-04-30 | 4.58 | - | 968 | 1,894 |
+| 2023-05-04 | 4.58 | - | 969 | 1,896 |

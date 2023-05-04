@@ -1,9 +1,9 @@
 # Startup Panic
-Rating: 4.38 (Ranked 685)  
+Rating: 4.38 (Ranked 687)  
 Number of Ratings: 28  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 488)  
-Sum: 0 (Ranked 488)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Awards
 | Award | Count |

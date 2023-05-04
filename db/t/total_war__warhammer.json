@@ -6,55 +6,55 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6009
+      "Count": 6038
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 957
+      "Count": 959
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 903
+      "Count": 909
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 871
+      "Count": 873
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 949
+      "Count": 950
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 843
+      "Count": 845
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 839
+      "Count": 840
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 826
+      "Count": 832
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 802
+      "Count": 810
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3565,6 +3565,132 @@
       "Rating": 4.58,
       "NumberOfAwards": 13815,
       "NumberOfAwardsMax": 6009
+    },
+    {
+      "Time": "2023-04-28T19:59:26.3311858+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13816,
+      "NumberOfAwardsMax": 6009
+    },
+    {
+      "Time": "2023-04-29T15:59:33.9851989+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13821,
+      "NumberOfAwardsMax": 6014
+    },
+    {
+      "Time": "2023-04-30T01:59:53.2966452+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13823,
+      "NumberOfAwardsMax": 6014
+    },
+    {
+      "Time": "2023-04-30T14:58:44.2728139+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13825,
+      "NumberOfAwardsMax": 6014
+    },
+    {
+      "Time": "2023-04-30T15:58:39.5391994+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13826,
+      "NumberOfAwardsMax": 6014
+    },
+    {
+      "Time": "2023-04-30T17:58:58.2479388+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13834,
+      "NumberOfAwardsMax": 6022
+    },
+    {
+      "Time": "2023-04-30T21:58:43.171355+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13835,
+      "NumberOfAwardsMax": 6022
+    },
+    {
+      "Time": "2023-05-01T02:59:08.2751291+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13837,
+      "NumberOfAwardsMax": 6022
+    },
+    {
+      "Time": "2023-05-01T03:58:59.6605844+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13838,
+      "NumberOfAwardsMax": 6022
+    },
+    {
+      "Time": "2023-05-01T05:58:27.7200242+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13840,
+      "NumberOfAwardsMax": 6022
+    },
+    {
+      "Time": "2023-05-01T17:59:19.2051667+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13845,
+      "NumberOfAwardsMax": 6027
+    },
+    {
+      "Time": "2023-05-02T03:58:20.2827883+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13849,
+      "NumberOfAwardsMax": 6027
+    },
+    {
+      "Time": "2023-05-02T15:58:21.9729772+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13850,
+      "NumberOfAwardsMax": 6027
+    },
+    {
+      "Time": "2023-05-02T17:59:11.9746416+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13854,
+      "NumberOfAwardsMax": 6027
+    },
+    {
+      "Time": "2023-05-02T18:59:05.1138955+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13862,
+      "NumberOfAwardsMax": 6035
+    },
+    {
+      "Time": "2023-05-02T19:58:32.6093549+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13863,
+      "NumberOfAwardsMax": 6035
+    },
+    {
+      "Time": "2023-05-02T20:58:33.2293864+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13864,
+      "NumberOfAwardsMax": 6035
+    },
+    {
+      "Time": "2023-05-03T11:58:45.8593121+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13866,
+      "NumberOfAwardsMax": 6035
+    },
+    {
+      "Time": "2023-05-03T20:58:22.4167952+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13869,
+      "NumberOfAwardsMax": 6038
+    },
+    {
+      "Time": "2023-05-03T21:58:33.4315333+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13871,
+      "NumberOfAwardsMax": 6038
+    },
+    {
+      "Time": "2023-05-04T13:58:51.2983611+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13872,
+      "NumberOfAwardsMax": 6038
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -3572,20 +3698,20 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-04-28T17:04:43.876714+00:00",
-  "LastUpdate_Ratings": "2023-04-28T16:59:39.9096608+00:00",
-  "LastChanged": "2023-04-28T13:58:48.7532766+00:00",
+  "LastUpdate_Achievements": "2023-05-04T19:03:58.0066794+00:00",
+  "LastUpdate_Ratings": "2023-05-04T18:58:31.3879604+00:00",
+  "LastChanged": "2023-05-04T13:58:51.2983608+00:00",
   "MaxAwardTitle": "Great Boss Battles",
-  "NumberOfAwardsMax": 6009,
-  "NumberOfAwards": 13815,
+  "NumberOfAwardsMax": 6038,
+  "NumberOfAwards": 13872,
   "NumberOfRatings": 8439,
-  "Ranking_EOS_NewCompleters": 60,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_Progress": 363,
+  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_Progress": 378,
   "Ranking_PopularitySum": 65,
   "Ranking_Popularity": 52,
-  "Ranking_Rating": 409,
+  "Ranking_Rating": 414,
   "Rating": 4.58,
   "FirstSeen": "2022-07-22T20:19:32.4449837+00:00"
 }

@@ -1,34 +1,40 @@
 # Pathfinder: Wrath of the Righteous
-Rating: 4.76 (Ranked 116)  
+Rating: 4.76 (Ranked 113)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 1,619  (Ranked 110)  
-Sum: 6,548 (Ranked 108)  
-Diff (max vs sum): 2
+Max (Character Customization): 1,623  (Ranked 111)  
+Sum: 6,573 (Ranked 108)  
+Diff (max vs sum): 3
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,488 (Ranked 107)  
-Completed: 0 (0.00%) (Ranked 190)  
+Progressed: 8,621 (Ranked 107)  
+Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 8,450 | 0 |
 | 2023-04-26 | 8,470 | 0 |
 | 2023-04-27 | 8,480 | 0 |
-| 2023-04-28 | 8,488 | 0 |
+| 2023-04-28 | 8,494 | 0 |
+| 2023-04-29 | 8,528 | 0 |
+| 2023-04-30 | 8,552 | 0 |
+| 2023-05-01 | 8,578 | 0 |
+| 2023-05-02 | 8,584 | 0 |
+| 2023-05-03 | 8,607 | 0 |
+| 2023-05-04 | 8,621 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 1,619 |
-| This game is Extremely Fun | 611 |
-| This game is Highly Recommended | 599 |
-| This game has Amazing Characters | 596 |
-| This game has Diverse Characters | 582 |
-| This game has Amazing Storytelling | 580 |
-| This game has Quickly Understood Controls | 543 |
-| This game has Challenging Combat | 538 |
-| This game is Relaxing | 520 |
+| This game has Inclusive Character Customization | 1,623 |
+| This game is Extremely Fun | 614 |
+| This game has Amazing Characters | 600 |
+| This game is Highly Recommended | 600 |
+| This game has Diverse Characters | 584 |
+| This game has Amazing Storytelling | 581 |
+| This game has Quickly Understood Controls | 545 |
+| This game has Challenging Combat | 539 |
+| This game is Relaxing | 522 |
+| This game has a Creative Community | 365 |
 | This game has Obsessive Gameplay | 364 |
-| This game has a Creative Community | 360 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -125,3 +131,10 @@ Completed: 0 (0.00%) (Ranked 190)
 | 2023-04-25 | 4.76 | - | 1,616 | 6,540 |
 | 2023-04-26 | 4.76 | - | 1,616 | 6,544 |
 | 2023-04-27 | 4.76 | - | 1,619 | 6,548 |
+| 2023-04-28 | 4.76 | - | 1,621 | 6,551 |
+| 2023-04-29 | 4.76 | - | 1,621 | 6,554 |
+| 2023-04-30 | 4.76 | - | 1,623 | 6,563 |
+| 2023-05-01 | 4.76 | - | 1,623 | 6,566 |
+| 2023-05-02 | 4.76 | - | 1,623 | 6,567 |
+| 2023-05-03 | 4.76 | - | 1,623 | 6,568 |
+| 2023-05-04 | 4.76 | - | 1,623 | 6,573 |

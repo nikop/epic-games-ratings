@@ -1,20 +1,26 @@
 # Verdun
-Rating: 4.53 (Ranked 486)  
+Rating: 4.53 (Ranked 488)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Highly Recommended): 93  (Ranked 328)  
+Max (Highly Recommended): 93  (Ranked 331)  
 Sum: 729 (Ranked 255)  
-Diff (max vs sum): 73
+Diff (max vs sum): 76
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,802 (Ranked 76)  
-Completed: 2 (0.00%) (Ranked 190)  
+Progressed: 42,563 (Ranked 75)  
+Completed: 2 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 41,526 | 2 |
 | 2023-04-26 | 41,616 | 2 |
 | 2023-04-27 | 41,716 | 2 |
-| 2023-04-28 | 41,802 | 2 |
+| 2023-04-28 | 41,848 | 2 |
+| 2023-04-29 | 42,003 | 2 |
+| 2023-04-30 | 42,148 | 2 |
+| 2023-05-01 | 42,289 | 2 |
+| 2023-05-02 | 42,404 | 2 |
+| 2023-05-03 | 42,492 | 2 |
+| 2023-05-04 | 42,563 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
