@@ -1,9 +1,9 @@
 # The Callisto Protocol
 Rating: 4.18 (Ranked 820)  
 ## Popularity (Based on Awards)
-Max (Amazing Storytelling): 46  (Ranked 395)  
+Max (Amazing Storytelling): 46  (Ranked 396)  
 Sum: 244 (Ranked 340)  
-Diff (max vs sum): 55
+Diff (max vs sum): 56
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,531 (Ranked 100)  
 Completed: 47 (0.38%) (Ranked 105)  

@@ -2,8 +2,8 @@
 Rating: 4.47 (Ranked 575)  
 Number of Ratings: 58  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 32  (Ranked 433)  
-Sum: 32 (Ranked 452)  
+Max (Great Boss Battles): 32  (Ranked 434)  
+Sum: 32 (Ranked 453)  
 Diff (max vs sum): -19
 ## Popularity (Based on EOS Achievements)
 Progressed: 845 (Ranked 165)  

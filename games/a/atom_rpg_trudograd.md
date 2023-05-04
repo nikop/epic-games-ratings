@@ -1,8 +1,8 @@
 # ATOM RPG Trudograd
 Rating: 4.50 (Ranked 530)  
 ## Popularity (Based on Awards)
-Max (Character Customization): 20  (Ranked 481)  
-Sum: 20 (Ranked 481)  
+Max (Character Customization): 20  (Ranked 482)  
+Sum: 20 (Ranked 482)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,007 (Ranked 159)  

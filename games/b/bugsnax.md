@@ -2,9 +2,9 @@
 Rating: 4.85 (Ranked 37)  
 Number of Ratings: 425  (23.09.2022)  
 ## Popularity (Based on Awards)
-Max (Amazing Storytelling): 38  (Ranked 413)  
-Sum: 310 (Ranked 321)  
-Diff (max vs sum): 92
+Max (Amazing Storytelling): 38  (Ranked 414)  
+Sum: 311 (Ranked 321)  
+Diff (max vs sum): 93
 ## Popularity (Based on EOS Achievements)
 Progressed: 27,342 (Ranked 84)  
 Completed: 1,260 (4.61%) (Ranked 27)  
@@ -31,7 +31,7 @@ Completed: 1,260 (4.61%) (Ranked 27)
 | This game has Amazing Characters | 30 |
 | This game has Diverse Characters | 27 |
 | This game is Extremely Fun | 26 |
-| This game is Relaxing | 24 |
+| This game is Relaxing | 25 |
 | This game has a Creative Community | 24 |
 | This game is Great for Quick Sessions | 24 |
 | This game has Easy Combat | 23 |
@@ -115,3 +115,4 @@ Completed: 1,260 (4.61%) (Ranked 27)
 | 2023-04-30 | 4.85 | - | 37 | 308 |
 | 2023-05-01 | 4.85 | - | 38 | 309 |
 | 2023-05-03 | 4.85 | - | 38 | 310 |
+| 2023-05-04 | 4.85 | - | 38 | 311 |

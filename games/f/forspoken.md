@@ -1,11 +1,11 @@
 # Forspoken
 Rating: 4.10 (Ranked 850)  
 ## Popularity (Based on Awards)
-Max (): 0  (Ranked 489)  
-Sum: 0 (Ranked 489)  
+Max (): 0  (Ranked 490)  
+Sum: 0 (Ranked 490)  
 Diff (max vs sum): 0
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,506 (Ranked 79)  
+Progressed: 37,509 (Ranked 79)  
 Completed: 1 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -19,7 +19,7 @@ Completed: 1 (0.00%) (Ranked 191)
 | 2023-05-01 | 37,478 | 1 |
 | 2023-05-02 | 37,492 | 1 |
 | 2023-05-03 | 37,500 | 1 |
-| 2023-05-04 | 37,506 | 1 |
+| 2023-05-04 | 37,509 | 1 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

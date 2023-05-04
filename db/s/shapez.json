@@ -1,7 +1,14 @@
 {
   "ID": "315e6807f6684c279fc286d0fc36a44f",
   "Name": "shapez",
-  "Tags": [],
+  "Tags": [
+    {
+      "Text": "This game features Challenging Puzzles",
+      "Prefix": "This game features",
+      "Type": "Challenging Puzzles",
+      "Count": 127
+    }
+  ],
   "EosHistory": [],
   "RatingHistory": [
     {
@@ -129,6 +136,12 @@
       "Rating": 4.71,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-04T03:57:16.4507696+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 127,
+      "NumberOfAwardsMax": 127
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -136,18 +149,19 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T03:02:24.792518+00:00",
-  "LastUpdate_Ratings": "2023-05-04T02:57:12.3892826+00:00",
-  "LastChanged": "2023-04-23T13:01:44.450454+00:00",
+  "LastUpdate_Achievements": "2023-05-04T04:02:11.4650167+00:00",
+  "LastUpdate_Ratings": "2023-05-04T03:57:16.4507698+00:00",
+  "LastChanged": "2023-05-04T03:57:16.4507693+00:00",
   "FirstSeenRating": "2022-11-10T15:57:35.7088081+00:00",
-  "NumberOfAwardsMax": 0,
-  "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 83,
+  "MaxAwardTitle": "Challenging Puzzles",
+  "NumberOfAwardsMax": 127,
+  "NumberOfAwards": 127,
+  "Ranking_EOS_NewCompleters": 82,
   "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 378,
-  "Ranking_PopularitySum": 489,
-  "Ranking_Popularity": 489,
+  "Ranking_PopularitySum": 384,
+  "Ranking_Popularity": 294,
   "Ranking_Rating": 178,
   "Rating": 4.71,
   "FirstSeen": "2022-11-01T20:01:20.018196+00:00"

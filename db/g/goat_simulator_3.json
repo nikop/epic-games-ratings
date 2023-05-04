@@ -24,13 +24,13 @@
       "Text": "This game has a Silly Community",
       "Prefix": "This game has a",
       "Type": "Silly Community",
-      "Count": 228
+      "Count": 229
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 305
+      "Count": 307
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1054,6 +1054,11 @@
       "Time": "2023-05-04T02:02:13.7105785+00:00",
       "NumProgressed": 215402,
       "NumCompleted": 686
+    },
+    {
+      "Time": "2023-05-04T04:05:37.736646+00:00",
+      "NumProgressed": 215404,
+      "NumCompleted": 686
     }
   ],
   "RatingHistory": [
@@ -2020,22 +2025,28 @@
       "Rating": 4.85,
       "NumberOfAwards": 2608,
       "NumberOfAwardsMax": 305
+    },
+    {
+      "Time": "2023-05-04T04:00:15.1948976+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2611,
+      "NumberOfAwardsMax": 307
     }
   ],
   "EOS_Completed_Percentage": 0.32,
   "EOS_NewCompleters": 1,
-  "EOS_NewPlayers": 1186,
+  "EOS_NewPlayers": 1185,
   "EOS_Completed": 686,
-  "EOS_Progressed": 215402,
-  "LastUpdate_Achievements": "2023-05-04T03:05:12.1790409+00:00",
-  "LastUpdate_Ratings": "2023-05-04T02:59:33.2869463+00:00",
-  "LastChanged_Achievements": "2023-05-04T03:05:12.1790302+00:00",
-  "LastChanged": "2023-05-04T02:59:33.2869453+00:00",
+  "EOS_Progressed": 215404,
+  "LastUpdate_Achievements": "2023-05-04T04:05:37.7366557+00:00",
+  "LastUpdate_Ratings": "2023-05-04T04:00:15.194898+00:00",
+  "LastChanged_Achievements": "2023-05-04T04:05:37.7366455+00:00",
+  "LastChanged": "2023-05-04T04:00:15.1948973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "MaxAwardTitle": "Great for Beginners",
-  "NumberOfAwardsMax": 305,
-  "NumberOfAwards": 2608,
+  "NumberOfAwardsMax": 307,
+  "NumberOfAwards": 2611,
   "Ranking_EOS_NewCompleters": 53,
   "Ranking_EOS_NewPlayers": 46,
   "Ranking_EOS_Completed": 113,
