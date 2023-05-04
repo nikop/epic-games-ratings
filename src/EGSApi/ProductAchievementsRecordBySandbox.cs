@@ -20,9 +20,9 @@
 
         public int numCompleted { get; set; }
 
-        public int totalAchievements { get; set; }
+        public int? totalAchievements { get; set; }
 
-        public int totalXP { get; set; }
+        public int? totalXP { get; set; }
     }
 
     public class AchievementRarity
@@ -79,9 +79,9 @@
 
         public string? sandboxId { get; set; }
 
-        public int totalAchievements { get; set; }
+        public int? totalAchievements { get; set; }
 
-        public int totalProductXP { get; set; }
+        public int? totalProductXP { get; set; }
 
         public AchievementRarity platinumRarity { get; set; } = new();
 

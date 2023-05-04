@@ -95,8 +95,8 @@ namespace EpicRatingsUpdater
                 }
 
                 // Achievement Totals
-                item.TotalAchievements = data.totalAchievements;
-                item.TotalAchievementsXP = data.totalProductXP;
+                item.TotalAchievements = data.totalAchievements ?? 0;
+                item.TotalAchievementsXP = data.totalProductXP ?? 0;
 
                 // Sets
                 foreach (var set in data.achievementSets)

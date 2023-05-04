@@ -323,7 +323,7 @@ await File.WriteAllTextAsync(
 );
 
 // Experiments
-Directory.CreateDirectory("out/experimental");
+Directory.CreateDirectory("experimental");
 
 var eosGames = new MarkdownTable<GameDbItem>()
     .AddColumn("Game", x => $"[{x.Name}]({GamesLink(x)})")
@@ -338,17 +338,17 @@ var eosGamesSets = new MarkdownTable<GameDbItem>()
     .AddColumn("Sets", x => MarkdownHelpers.FormatRanking(x.AchievementSets.Count));
 
 await File.WriteAllTextAsync(
-    Path.Combine(path, "out/experimental/eos_total_achievements.md"),
+    Path.Combine(path, "experimental/eos_total_achievements.md"),
     eosGames.FormatTable(items.Where(x => x.TotalAchievements > 0).OrderByDescending(x => x.TotalAchievements).ThenBy(x => x.Name))
 );
 
 await File.WriteAllTextAsync(
-    Path.Combine(path, "out/experimental/eos_total_xp.md"),
+    Path.Combine(path, "experimental/eos_total_xp.md"),
     eosGames.FormatTable(items.Where(x => x.TotalAchievementsXP > 0).OrderByDescending(x => x.TotalAchievementsXP).ThenBy(x => x.Name))
 );
 
 // Is there any with multiple?
 await File.WriteAllTextAsync(
-    Path.Combine(path, "out/experimental/eos_num_sets.md"),
+    Path.Combine(path, "experimental/eos_num_sets.md"),
     eosGamesSets.FormatTable(items.Where(x => x.AchievementSets.Count > 1).OrderByDescending(x => x.AchievementSets.Count).ThenBy(x => x.Name))
 );
