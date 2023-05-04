@@ -239,7 +239,7 @@
 | 233 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 489 |
 | 233 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 360 |
 | 233 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 489 |
-| 233 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,151 | 60 |
+| 233 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,157 | 60 |
 | 233 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 294,791 | 3 |
 | 233 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 165,194 | 5 |
 | 233 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 489 |
@@ -477,7 +477,7 @@
 | 475 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 2,115 | 101 |
 | 475 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 431 |
 | 475 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,029 | 132 |
-| 475 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 195 | 258 |
+| 475 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.54 | 196 | 257 |
 | 475 | [IXION](games/i/ixion.md) | 4.54 | 0 | 489 |
 | 475 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 87 | 337 |
 | 475 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 88 | 335 |
@@ -613,7 +613,6 @@
 | 600 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.45 | 37 | 416 |
 | 600 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 489 |
 | 600 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 847 | 143 |
-| 600 | [Predecessor](games/p/predecessor.md) | 4.45 | 69 | 360 |
 | 600 | [Redout 2](games/r/redout_2.md) | 4.45 | 0 | 489 |
 | 600 | [SMITE](games/s/smite.md) | 4.45 | 3,710 | 77 |
 | 600 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 520 | 178 |
@@ -621,17 +620,18 @@
 | 600 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 113 | 308 |
 | 600 | [Weird West](games/w/weird_west.md) | 4.45 | 23 | 468 |
 | 600 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 0 | 489 |
-| 622 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 489 |
-| 622 | [Death Coming](games/d/death_coming.md) | 4.44 | 0 | 489 |
-| 622 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 489 |
-| 622 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 46 | 395 |
-| 622 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 0 | 489 |
-| 622 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 0 | 489 |
-| 622 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.44 | 0 | 489 |
-| 622 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 489 |
-| 622 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 324 |
-| 622 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 0 | 489 |
-| 622 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 376 |
+| 621 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 489 |
+| 621 | [Death Coming](games/d/death_coming.md) | 4.44 | 0 | 489 |
+| 621 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 489 |
+| 621 | [Predecessor](games/p/predecessor.md) | 4.44 | 69 | 360 |
+| 621 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 46 | 395 |
+| 621 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 0 | 489 |
+| 621 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 0 | 489 |
+| 621 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.44 | 0 | 489 |
+| 621 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 489 |
+| 621 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 324 |
+| 621 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.44 | 0 | 489 |
+| 621 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 376 |
 | 633 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 26 | 458 |
 | 633 | [Good Company](games/g/good_company.md) | 4.43 | 0 | 489 |
 | 633 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 0 | 489 |
@@ -835,7 +835,7 @@
 | 831 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 0 | 489 |
 | 831 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 489 |
 | 831 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.16 | 0 | 489 |
-| 831 | [Space Punks](games/s/space_punks.md) | 4.16 | 171 | 270 |
+| 831 | [Space Punks](games/s/space_punks.md) | 4.16 | 171 | 271 |
 | 837 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.15 | 0 | 489 |
 | 837 | [Pine](games/p/pine.md) | 4.15 | 0 | 489 |
 | 837 | [Relicta](games/r/relicta.md) | 4.15 | 193 | 259 |
@@ -873,7 +873,7 @@
 | 870 | [Wreckfest](games/w/wreckfest.md) | 4.04 | 0 | 489 |
 | 872 | [Lake](games/l/lake.md) | 4.03 | 0 | 489 |
 | 872 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.03 | 0 | 489 |
-| 872 | [Pinball FX](games/p/pinball_fx.md) | 4.03 | 171 | 270 |
+| 872 | [Pinball FX](games/p/pinball_fx.md) | 4.03 | 172 | 270 |
 | 875 | [Gravewood High](games/g/gravewood_high.md) | 4.01 | 0 | 489 |
 | 876 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.00 | 0 | 489 |
 | 876 | [Banished](games/b/banished.md) | 4.00 | 0 | 489 |

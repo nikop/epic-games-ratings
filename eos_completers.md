@@ -5,7 +5,7 @@
 | 3 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.00% |
 | 4 | [Doodle Devil](games/d/doodle_devil.md) | 19.44% |
 | 5 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 6 | [Island Cities](games/i/island_cities.md) | 18.52% |
+| 6 | [Island Cities](games/i/island_cities.md) | 18.18% |
 | 7 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 8 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.93% |
 | 9 | [Them and Us](games/t/them_and_us.md) | 12.50% |
@@ -16,13 +16,13 @@
 | 14 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 15 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 8.33% |
-| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.50% |
+| 17 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.49% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 19 | [Scorn](games/s/scorn.md) | 7.13% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.90% |
-| 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
-| 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
-| 23 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.02% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.89% |
+| 21 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.77% |
+| 22 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
+| 23 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 24 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.71% |
 | 25 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.01% |
 | 26 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |

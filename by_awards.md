@@ -59,7 +59,7 @@
 | 57 | [Prey](games/p/prey.md) | 5,528 | 4.62 | 336 |
 | 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,464 | 4.82 | 60 |
 | 59 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,454 | 4.85 | 37 |
-| 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,151 | 4.68 | 233 |
+| 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,157 | 4.68 | 233 |
 | 61 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,863 | 4.06 | 866 |
 | 61 | [Rogue Company](games/r/rogue_company.md) | 4,863 | 4.34 | 721 |
 | 63 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4,843 | 4.75 | 127 |
@@ -256,8 +256,8 @@
 | 254 | [Sunless Sea](games/s/sunless_sea.md) | 203 | 4.58 | 414 |
 | 255 | [Stranded Deep](games/s/stranded_deep.md) | 202 | 4.22 | 794 |
 | 256 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 201 | 4.35 | 713 |
+| 257 | [Hello Neighbor](games/h/hello_neighbor.md) | 196 | 4.54 | 475 |
 | 257 | [HITMAN](games/h/hitman.md) | 196 | 4.64 | 312 |
-| 258 | [Hello Neighbor](games/h/hello_neighbor.md) | 195 | 4.54 | 475 |
 | 259 | [Relicta](games/r/relicta.md) | 193 | 4.15 | 837 |
 | 260 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 189 | 4.80 | 78 |
 | 261 | [Crashlands](games/c/crashlands.md) | 188 | 4.66 | 272 |
@@ -269,8 +269,8 @@
 | 267 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 178 | 4.41 | 651 |
 | 268 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 176 | 4.58 | 414 |
 | 269 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 175 | 4.21 | 797 |
-| 270 | [Pinball FX](games/p/pinball_fx.md) | 171 | 4.03 | 872 |
-| 270 | [Space Punks](games/s/space_punks.md) | 171 | 4.16 | 831 |
+| 270 | [Pinball FX](games/p/pinball_fx.md) | 172 | 4.03 | 872 |
+| 271 | [Space Punks](games/s/space_punks.md) | 171 | 4.16 | 831 |
 | 272 | [Cris Tales](games/c/cris_tales.md) | 170 | 4.36 | 701 |
 | 272 | [The Witness](games/t/the_witness.md) | 170 | 4.70 | 192 |
 | 274 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 169 | 4.30 | 750 |
@@ -325,7 +325,7 @@
 | 323 | [Surviving the Aftermath: Founder's Edition](games/s/surviving_the_aftermath__founder's_edition.md) | 98 | 4.47 | 575 |
 | 324 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 97 | 4.50 | 530 |
 | 324 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 97 | 4.77 | 103 |
-| 324 | [The Captain](games/t/the_captain.md) | 97 | 4.44 | 622 |
+| 324 | [The Captain](games/t/the_captain.md) | 97 | 4.44 | 621 |
 | 327 | [Scavengers](games/s/scavengers.md) | 96 | 4.18 | 820 |
 | 328 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 94 | 4.41 | 651 |
 | 328 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 94 | 4.86 | 28 |
@@ -361,7 +361,7 @@
 | 358 | [Train Valley 2](games/t/train_valley_2.md) | 70 | 4.15 | 837 |
 | 360 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 69 | 4.68 | 233 |
 | 360 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 69 | 4.56 | 447 |
-| 360 | [Predecessor](games/p/predecessor.md) | 69 | 4.45 | 600 |
+| 360 | [Predecessor](games/p/predecessor.md) | 69 | 4.44 | 621 |
 | 363 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 68 | 4.51 | 512 |
 | 363 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 68 | 4.72 | 166 |
 | 365 | [Potion Permit](games/p/potion_permit.md) | 66 | 3.79 | 903 |
@@ -377,7 +377,7 @@
 | 375 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 60 | 4.42 | 640 |
 | 376 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 59 | 4.64 | 312 |
 | 376 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 59 | 4.69 | 212 |
-| 376 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 622 |
+| 376 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 621 |
 | 379 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 58 | 4.34 | 721 |
 | 380 | [Heavy Rain](games/h/heavy_rain.md) | 57 | 4.59 | 395 |
 | 381 | [MORDHAU](games/m/mordhau.md) | 56 | 4.41 | 651 |
@@ -397,7 +397,7 @@
 | 395 | [ATOM RPG](games/a/atom_rpg.md) | 46 | 4.45 | 600 |
 | 395 | [AXIOM VERGE](games/a/axiom_verge.md) | 46 | 4.57 | 428 |
 | 395 | [Desperados III](games/d/desperados_iii.md) | 46 | 4.84 | 49 |
-| 395 | [Ranch Simulator](games/r/ranch_simulator.md) | 46 | 4.44 | 622 |
+| 395 | [Ranch Simulator](games/r/ranch_simulator.md) | 46 | 4.44 | 621 |
 | 395 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 46 | 4.18 | 820 |
 | 400 | [Ancient Enemy](games/a/ancient_enemy.md) | 45 | 3.95 | 887 |
 | 400 | [Expeditions: Rome](games/e/expeditions__rome.md) | 45 | 4.65 | 290 |
