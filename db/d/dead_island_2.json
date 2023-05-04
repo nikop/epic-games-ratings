@@ -1464,6 +1464,11 @@
       "Time": "2023-05-04T21:05:34.2591732+00:00",
       "NumProgressed": 454466,
       "NumCompleted": 686
+    },
+    {
+      "Time": "2023-05-04T22:06:17.8973481+00:00",
+      "NumProgressed": 454758,
+      "NumCompleted": 689
     }
   ],
   "RatingHistory": [
@@ -1920,19 +1925,19 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 45,
-  "LastChanged_Achievements": "2023-05-04T21:05:34.259173+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:17.8973472+00:00",
   "EOS_NewCompleters": 471,
-  "EOS_NewPlayers": 94283,
-  "EOS_Completed": 686,
-  "EOS_Progressed": 454466,
-  "LastUpdate_Achievements": "2023-05-04T21:05:34.2592069+00:00",
-  "LastUpdate_Ratings": "2023-05-04T20:58:15.7329894+00:00",
+  "EOS_NewPlayers": 93718,
+  "EOS_Completed": 689,
+  "EOS_Progressed": 454758,
+  "LastUpdate_Achievements": "2023-05-04T22:06:17.8973975+00:00",
+  "LastUpdate_Ratings": "2023-05-04T21:58:49.0676108+00:00",
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 454466,
-      "Completed": 686
+      "Progressed": 454758,
+      "Completed": 689
     }
   ],
   "EOS_Completed_Percentage": 0.15,

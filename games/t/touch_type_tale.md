@@ -36,7 +36,7 @@
 | Untouchable | 1.00 |
 | All Geared Up | 1.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,504 (Ranked 135)  
+Progressed: 2,505 (Ranked 135)  
 Completed: 8 (0.32%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,7 +50,7 @@ Completed: 8 (0.32%) (Ranked 113)
 | 2023-05-01 | 2,486 | 8 |
 | 2023-05-02 | 2,491 | 8 |
 | 2023-05-03 | 2,498 | 8 |
-| 2023-05-04 | 2,504 | 8 |
+| 2023-05-04 | 2,505 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

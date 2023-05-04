@@ -267,7 +267,7 @@
 | [Tortuga - A Pirate's Tale](../games/t/tortuga_-_a_pirate's_tale.md) | 26 | 1,000 |
 | [Adios](../games/a/adios.md) | 25 | 1,000 |
 | [MeteoHeroes Saving Planet Earth!](../games/m/meteoheroes_saving_planet_earth!.md) | 25 | 1,000 |
-| [My Fantastic Ranch](../games/m/my_fantastic_ranch.md) | 25 | 1,000 |
+| [My Fantastic Ranch: Unicorns & Dragons](../games/m/my_fantastic_ranch__unicorns_&_dragons.md) | 25 | 1,000 |
 | [Poi](../games/p/poi.md) | 25 | 1,000 |
 | [Quest of Dungeons](../games/q/quest_of_dungeons.md) | 25 | 1,000 |
 | [tERRORbane](../games/t/terrorbane.md) | 25 | 1,000 |

@@ -174,7 +174,7 @@
       "ID": "empire_tier_4",
       "SetID": "3ib2d0i",
       "Name": "Masters of Santo Ileso",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20
     },
     {
@@ -382,7 +382,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 947
+      "Count": 948
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1499,6 +1499,11 @@
     {
       "Time": "2023-05-04T21:05:27.1151551+00:00",
       "NumProgressed": 21882,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-04T22:06:09.9121006+00:00",
+      "NumProgressed": 21909,
       "NumCompleted": 1
     }
   ],
@@ -3505,32 +3510,38 @@
       "Rating": 3.78,
       "NumberOfAwards": 9046,
       "NumberOfAwardsMax": 1022
+    },
+    {
+      "Time": "2023-05-04T22:00:21.8368803+00:00",
+      "Rating": 3.78,
+      "NumberOfAwards": 9047,
+      "NumberOfAwardsMax": 1022
     }
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 50,
-  "LastChanged_Achievements": "2023-05-04T21:05:27.1151545+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:09.9120999+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 2712,
+  "EOS_NewPlayers": 2723,
   "EOS_Completed": 1,
-  "EOS_Progressed": 21882,
-  "LastUpdate_Achievements": "2023-05-04T21:05:27.1151929+00:00",
-  "LastUpdate_Ratings": "2023-05-04T20:59:29.6696274+00:00",
+  "EOS_Progressed": 21909,
+  "LastUpdate_Achievements": "2023-05-04T22:06:09.9121642+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:00:21.8368811+00:00",
   "AchievementSets": [
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 21882,
+      "Progressed": 21909,
       "Completed": 1
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-03T19:59:36.6711041+00:00",
+  "LastChanged": "2023-05-04T22:00:21.83688+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "MaxAwardTitle": "Extremely Fun",
   "NumberOfAwardsMax": 1022,
-  "NumberOfAwards": 9046,
+  "NumberOfAwards": 9047,
   "NumberOfRatings": 22103,
   "Ranking_EOS_NewCompleters": 80,
   "Ranking_EOS_NewPlayers": 28,

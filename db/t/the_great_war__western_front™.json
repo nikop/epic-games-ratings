@@ -62,7 +62,7 @@
       "ID": "USE_UNDERMINE",
       "SetID": "6kcl14p",
       "Name": "Earth Shattering",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 90
     },
     {
@@ -76,7 +76,7 @@
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
       "SetID": "6kcl14p",
       "Name": "Das Ist Endg\u00FCltig!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 100
     },
     {
@@ -338,6 +338,11 @@
       "Time": "2023-05-04T11:04:13.0309614+00:00",
       "NumProgressed": 75,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T22:06:27.1138627+00:00",
+      "NumProgressed": 76,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [
@@ -350,18 +355,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 12,
-  "LastChanged_Achievements": "2023-05-04T21:05:42.3301298+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:27.1138619+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_Completed": 0,
-  "EOS_Progressed": 75,
-  "LastUpdate_Achievements": "2023-05-04T21:05:42.3301486+00:00",
-  "LastUpdate_Ratings": "2023-05-04T20:58:24.6105346+00:00",
+  "EOS_Progressed": 76,
+  "LastUpdate_Achievements": "2023-05-04T22:06:27.113878+00:00",
+  "LastUpdate_Ratings": "2023-05-04T21:58:59.9628141+00:00",
   "AchievementSets": [
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 75,
+      "Progressed": 76,
       "Completed": 0
     }
   ],
@@ -372,8 +377,8 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 255,
+  "Ranking_EOS_Progress": 254,
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00"
 }

@@ -18,7 +18,7 @@
 | Special Specialist | 0.00 |
 | Weapon Mods | 0.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10 (Ranked 304)  
+Progressed: 10 (Ranked 305)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |

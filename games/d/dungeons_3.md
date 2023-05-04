@@ -69,7 +69,7 @@ Diff (max vs sum): 52
 | Discoverer | 2.00 |
 | Sacrifices! | 2.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,661 (Ranked 96)  
+Progressed: 14,670 (Ranked 96)  
 Completed: 140 (0.95%) (Ranked 78)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 140 (0.95%) (Ranked 78)
 | 2023-05-01 | 14,317 | 137 |
 | 2023-05-02 | 14,456 | 139 |
 | 2023-05-03 | 14,554 | 140 |
-| 2023-05-04 | 14,661 | 140 |
+| 2023-05-04 | 14,670 | 140 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

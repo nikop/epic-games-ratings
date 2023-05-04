@@ -49,7 +49,7 @@ Diff (max vs sum): -70
 | Medal dispenser | 0.10 |
 | What body? | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117,946 (Ranked 55)  
+Progressed: 117,947 (Ranked 55)  
 Completed: 24 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 24 (0.02%) (Ranked 175)
 | 2023-05-01 | 117,827 | 24 |
 | 2023-05-02 | 117,873 | 24 |
 | 2023-05-03 | 117,917 | 24 |
-| 2023-05-04 | 117,946 | 24 |
+| 2023-05-04 | 117,947 | 24 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

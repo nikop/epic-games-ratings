@@ -167,7 +167,7 @@
       "ID": "ACH_BASE_32",
       "SetID": "92iocjf",
       "Name": "Praise the Hull!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15
     },
     {
@@ -744,13 +744,13 @@
   ],
   "TotalAchievementsXP": 1050,
   "TotalAchievements": 57,
-  "LastChanged_Achievements": "2023-05-04T21:05:25.091511+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:07.6345164+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 32,
   "EOS_Completed": 0,
   "EOS_Progressed": 1827,
-  "LastUpdate_Achievements": "2023-05-04T21:05:25.0915557+00:00",
-  "LastUpdate_Ratings": "2023-05-04T20:58:22.7384868+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:06:07.6345895+00:00",
+  "LastUpdate_Ratings": "2023-05-04T21:58:57.6594173+00:00",
   "AchievementSets": [
     {
       "ID": "7a6m2da",
@@ -772,7 +772,7 @@
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 145,
   "Ranking_PopularitySum": 490,

@@ -68,7 +68,7 @@ Diff (max vs sum): 54
 | Choo-choo! | 0.10 |
 | Customized calamities | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,879 (Ranked 121)  
+Progressed: 4,882 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 4,775 | 0 |
 | 2023-05-02 | 4,817 | 0 |
 | 2023-05-03 | 4,851 | 0 |
-| 2023-05-04 | 4,879 | 0 |
+| 2023-05-04 | 4,882 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

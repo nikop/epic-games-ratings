@@ -13,8 +13,8 @@ Diff (max vs sum): -92
 | Wallrunner | 58.00 |
 | Running out of breath | 56.00 |
 | Homerunner | 47.00 |
+| Out of order | 47.00 |
 | I call it luck | 46.00 |
-| Out of order | 46.00 |
 | Where are my Keys? | 44.00 |
 | Back to hell | 39.00 |
 | Perfection | 34.00 |

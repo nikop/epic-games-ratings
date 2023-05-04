@@ -3,8 +3,8 @@
 | Name | Percentage |
 | ---- | ---------- |
 | Fright ✔ | 50.00 |
-| Inventory ✔ | 47.00 |
-| Chest ✔ | 47.00 |
+| Inventory ✔ | 48.00 |
+| Chest ✔ | 48.00 |
 | Police officers ✔ | 22.00 |
 | Mutation ✔ | 21.00 |
 | Doberman ✔ | 8.00 |

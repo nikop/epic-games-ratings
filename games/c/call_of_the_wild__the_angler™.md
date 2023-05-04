@@ -44,7 +44,7 @@ Diff (max vs sum): 61
 | No Fin left to give | 0.00 |
 | Have Fish, Will Travel | 0.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,401 (Ranked 129)  
+Progressed: 3,402 (Ranked 129)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,7 +58,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 3,386 | 0 |
 | 2023-05-02 | 3,392 | 0 |
 | 2023-05-03 | 3,397 | 0 |
-| 2023-05-04 | 3,401 | 0 |
+| 2023-05-04 | 3,402 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

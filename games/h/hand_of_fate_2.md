@@ -57,7 +57,7 @@ Diff (max vs sum): 69
 | Miracle | 0.10 |
 | Blood Pact | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 655,593 (Ranked 18)  
+Progressed: 655,594 (Ranked 18)  
 Completed: 164 (0.03%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 164 (0.03%) (Ranked 173)
 | 2023-05-01 | 655,470 | 164 |
 | 2023-05-02 | 655,512 | 164 |
 | 2023-05-03 | 655,549 | 164 |
-| 2023-05-04 | 655,593 | 164 |
+| 2023-05-04 | 655,594 | 164 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

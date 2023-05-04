@@ -1,5 +1,5 @@
 # True Fear: Forsaken Souls Part 1
-Rating: 4.38 (Ranked 687)  
+Rating: 4.38 (Ranked 686)  
 ## Achievements
 | Name | Percentage |
 | ---- | ---------- |

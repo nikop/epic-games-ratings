@@ -25,8 +25,8 @@ Diff (max vs sum): -2
 | The Great Escape | 23.00 |
 | That’s All, Folks | 18.00 |
 | Fallen Star | 16.00 |
+| For Balance | 16.00 |
 | Winds of War | 16.00 |
-| For Balance | 15.00 |
 | Here Comes Santa Claus | 15.00 |
 | Dog Days | 13.00 |
 | Workers' Rights | 13.00 |

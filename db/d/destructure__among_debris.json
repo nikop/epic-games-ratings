@@ -13,7 +13,7 @@
       "ID": "avaricerite",
       "SetID": "jig50d",
       "Name": "Avaricerite",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10
     },
     {
@@ -48,7 +48,7 @@
       "ID": "bullet_hell",
       "SetID": "jig50d",
       "Name": "Bullet Hell",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10
     },
     {
@@ -69,7 +69,7 @@
       "ID": "die",
       "SetID": "jig50d",
       "Name": "You Have Been Deaded",
-      "Percentage": 51,
+      "Percentage": 53,
       "XP": 10
     },
     {
@@ -83,7 +83,7 @@
       "ID": "graduation",
       "SetID": "jig50d",
       "Name": "Graduation",
-      "Percentage": 69,
+      "Percentage": 67,
       "XP": 10
     },
     {
@@ -153,7 +153,7 @@
       "ID": "rookie",
       "SetID": "jig50d",
       "Name": "Rookie",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 5
     },
     {
@@ -209,7 +209,7 @@
       "ID": "weapons",
       "SetID": "jig50d",
       "Name": "You Are Actually Supposed To Use Those",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15
     },
     {
@@ -356,6 +356,11 @@
       "Time": "2023-05-04T19:04:56.1168106+00:00",
       "NumProgressed": 35,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T22:06:53.5448308+00:00",
+      "NumProgressed": 36,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [
@@ -368,18 +373,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 31,
-  "LastChanged_Achievements": "2023-05-04T21:06:05.3955702+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:53.54483+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_Completed": 0,
-  "EOS_Progressed": 35,
-  "LastUpdate_Achievements": "2023-05-04T21:06:05.3955881+00:00",
-  "LastUpdate_Ratings": "2023-05-04T20:59:56.0904487+00:00",
+  "EOS_Progressed": 36,
+  "LastUpdate_Achievements": "2023-05-04T22:06:53.5448543+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:00:54.8016631+00:00",
   "AchievementSets": [
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 35,
+      "Progressed": 36,
       "Completed": 0
     }
   ],
@@ -392,6 +397,6 @@
   "Ranking_EOS_NewCompleters": 80,
   "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 280,
+  "Ranking_EOS_Progress": 279,
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00"
 }

@@ -228,7 +228,7 @@
 | [MORDHAU](../games/m/mordhau.md) | 38 | 1,000 |
 | [Mount & Blade II: Bannerlord](../games/m/mount_&_blade_ii__bannerlord.md) | 51 | 1,000 |
 | [MultiVersus](../games/m/multiversus.md) | 28 | 1,000 |
-| [My Fantastic Ranch](../games/m/my_fantastic_ranch.md) | 25 | 1,000 |
+| [My Fantastic Ranch: Unicorns & Dragons](../games/m/my_fantastic_ranch__unicorns_&_dragons.md) | 25 | 1,000 |
 | [My Friend Peppa Pig](../games/m/my_friend_peppa_pig.md) | 11 | 1,000 |
 | [MY LITTLE PONY A Maretime Bay Adventure](../games/m/my_little_pony_a_maretime_bay_adventure.md) | 13 | 1,000 |
 | [My Lovely Wife](../games/m/my_lovely_wife.md) | 33 | 1,000 |

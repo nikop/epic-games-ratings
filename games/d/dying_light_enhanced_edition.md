@@ -87,7 +87,7 @@ Diff (max vs sum): -7
 | Fast as hell | 0.10 |
 | Into the lava | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,442,874 (Ranked 4)  
+Progressed: 3,443,201 (Ranked 4)  
 Completed: 7 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 7 (0.00%) (Ranked 191)
 | 2023-05-01 | 3,409,850 | 7 |
 | 2023-05-02 | 3,422,528 | 7 |
 | 2023-05-03 | 3,433,675 | 7 |
-| 2023-05-04 | 3,442,874 | 7 |
+| 2023-05-04 | 3,443,201 | 7 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

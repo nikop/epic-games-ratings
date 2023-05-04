@@ -69,7 +69,7 @@
       "ID": "ACH_FOR_BALANCE",
       "SetID": "8j30i9k",
       "Name": "For Balance",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20
     },
     {
@@ -734,13 +734,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 53,
-  "LastChanged_Achievements": "2023-05-04T21:05:33.2865261+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:16.7941557+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 7,
   "EOS_Completed": 2,
   "EOS_Progressed": 1493,
-  "LastUpdate_Achievements": "2023-05-04T21:05:33.2865585+00:00",
-  "LastUpdate_Ratings": "2023-05-04T20:58:23.3212564+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:06:16.7942016+00:00",
+  "LastUpdate_Ratings": "2023-05-04T21:58:58.3674559+00:00",
   "AchievementSets": [
     {
       "ID": "8j30i9k",

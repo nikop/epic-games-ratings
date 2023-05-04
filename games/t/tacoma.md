@@ -1,5 +1,5 @@
 # Tacoma
-Rating: 4.39 (Ranked 679)  
+Rating: 4.40 (Ranked 663)  
 Number of Ratings: 60  (23.09.2022)  
 ## Achievements
 | Name | Percentage |
@@ -59,3 +59,4 @@ Number of Ratings: 60  (23.09.2022)
 | 2023-01-01 | 4.41 | - | - | - |
 | 2023-02-24 | 4.39 | - | - | - |
 | 2023-03-31 | 4.39 | - | 0 | 0 |
+| 2023-05-04 | 4.40 | - | 0 | 0 |

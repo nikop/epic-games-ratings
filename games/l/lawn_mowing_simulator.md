@@ -63,7 +63,7 @@ Diff (max vs sum): 36
 | Lawn Enforcement Officer | 0.10 |
 | Mo mowers, mo problems | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 609,297 (Ranked 19)  
+Progressed: 609,325 (Ranked 19)  
 Completed: 9 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 9 (0.00%) (Ranked 191)
 | 2023-05-01 | 608,241 | 9 |
 | 2023-05-02 | 608,630 | 9 |
 | 2023-05-03 | 608,996 | 9 |
-| 2023-05-04 | 609,297 | 9 |
+| 2023-05-04 | 609,325 | 9 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

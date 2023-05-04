@@ -294,7 +294,7 @@ Diff (max vs sum): 50
 | Win a LAN Game | 0.10 |
 | Win a Play-By-Cloud Game | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,753 (Ranked 103)  
+Progressed: 10,754 (Ranked 103)  
 Completed: 2 (0.02%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 2 (0.02%) (Ranked 175)
 | 2023-05-01 | 10,694 | 2 |
 | 2023-05-02 | 10,713 | 2 |
 | 2023-05-03 | 10,738 | 2 |
-| 2023-05-04 | 10,753 | 2 |
+| 2023-05-04 | 10,754 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

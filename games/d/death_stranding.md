@@ -71,7 +71,7 @@ Diff (max vs sum): -45
 | Trail-Blazer | 0.10 |
 | Homo Faber | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,509,523 (Ranked 5)  
+Progressed: 2,509,572 (Ranked 5)  
 Completed: 1,220 (0.05%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 1,220 (0.05%) (Ranked 164)
 | 2023-05-01 | 2,502,993 | 1,211 |
 | 2023-05-02 | 2,505,364 | 1,214 |
 | 2023-05-03 | 2,507,568 | 1,218 |
-| 2023-05-04 | 2,509,523 | 1,220 |
+| 2023-05-04 | 2,509,572 | 1,220 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

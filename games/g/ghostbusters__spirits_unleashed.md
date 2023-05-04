@@ -59,8 +59,8 @@ Diff (max vs sum): 60
 | I don't need these | 1.00 |
 | Mycophile | 1.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,477 (Ranked 88)  
-Completed: 40 (0.19%) (Ranked 133)  
+Progressed: 21,482 (Ranked 88)  
+Completed: 40 (0.19%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -73,7 +73,7 @@ Completed: 40 (0.19%) (Ranked 133)
 | 2023-05-01 | 21,350 | 40 |
 | 2023-05-02 | 21,395 | 40 |
 | 2023-05-03 | 21,454 | 40 |
-| 2023-05-04 | 21,477 | 40 |
+| 2023-05-04 | 21,482 | 40 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

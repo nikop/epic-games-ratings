@@ -53,8 +53,8 @@ Diff (max vs sum): -56
 | Survival Skills | 3.00 |
 | Zombicidal Maniac | 0.60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 454,466 (Ranked 28)  
-Completed: 686 (0.15%) (Ranked 138)  
+Progressed: 454,758 (Ranked 28)  
+Completed: 689 (0.15%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -67,7 +67,7 @@ Completed: 686 (0.15%) (Ranked 138)
 | 2023-05-01 | 433,075 | 523 |
 | 2023-05-02 | 441,520 | 585 |
 | 2023-05-03 | 448,692 | 640 |
-| 2023-05-04 | 454,466 | 686 |
+| 2023-05-04 | 454,758 | 689 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

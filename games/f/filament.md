@@ -37,7 +37,7 @@ Diff (max vs sum): -92
 | Snooper + | 0.40 |
 | Corrupted + | 0.30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 188,771 (Ranked 48)  
+Progressed: 188,781 (Ranked 48)  
 Completed: 406 (0.22%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,7 +51,7 @@ Completed: 406 (0.22%) (Ranked 127)
 | 2023-05-01 | 188,524 | 402 |
 | 2023-05-02 | 188,621 | 404 |
 | 2023-05-03 | 188,702 | 404 |
-| 2023-05-04 | 188,771 | 406 |
+| 2023-05-04 | 188,781 | 406 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

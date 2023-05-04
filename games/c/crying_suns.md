@@ -74,7 +74,7 @@ Diff (max vs sum): -95
 | Kaos Supremacy | 0.10 |
 | Excelsior Supremacy | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,251 (Ranked 27)  
+Progressed: 457,252 (Ranked 27)  
 Completed: 14 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 14 (0.00%) (Ranked 191)
 | 2023-05-01 | 457,072 | 14 |
 | 2023-05-02 | 457,126 | 14 |
 | 2023-05-03 | 457,187 | 14 |
-| 2023-05-04 | 457,251 | 14 |
+| 2023-05-04 | 457,252 | 14 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

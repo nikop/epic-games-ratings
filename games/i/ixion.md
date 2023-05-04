@@ -20,6 +20,7 @@ Rating: 4.54 (Ranked 475)
 | Sputnik 2049 | 0.10 |
 | A Hunk of Junk | 0.10 |
 | Power Outage | 0.10 |
+| Praise the Hull! | 0.10 |
 | Fully Recycled | 0.10 |
 | Ready for a New World | 0.10 |
 | Necessary Enhancement | 0.10 |
@@ -42,7 +43,6 @@ Rating: 4.54 (Ranked 475)
 | Sightseeing | 0.00 |
 | In Dolos We Trust | 0.00 |
 | Catastrophe Avoided | 0.00 |
-| Praise the Hull! | 0.00 |
 | Breaking Protocol | 0.00 |
 | Access Granted | 0.00 |
 | You Had One Job... | 0.00 |

@@ -181,14 +181,14 @@
       "ID": "MQ08_2",
       "SetID": "bbing49",
       "Name": "Up In Flames",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 40
     },
     {
       "ID": "MQ08_3",
       "SetID": "bbing49",
       "Name": "Fhtagn!",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50
     },
     {
@@ -317,13 +317,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 28,
-  "LastChanged_Achievements": "2023-05-04T21:05:28.8986092+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:11.9318686+00:00",
   "EOS_NewCompleters": 1,
   "EOS_NewPlayers": 13,
   "EOS_Completed": 9,
   "EOS_Progressed": 133,
-  "LastUpdate_Achievements": "2023-05-04T21:05:28.8986232+00:00",
-  "LastUpdate_Ratings": "2023-05-04T20:57:10.1810345+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:06:11.9318966+00:00",
+  "LastUpdate_Ratings": "2023-05-04T21:57:29.6496205+00:00",
   "AchievementSets": [
     {
       "ID": "bbing49",
@@ -338,7 +338,7 @@
   "FirstSeen": "2023-04-12T21:57:08.1785727+00:00",
   "NumberOfAwardsMax": 0,
   "NumberOfAwards": 0,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_Completed": 20,
   "Ranking_EOS_Progress": 239,

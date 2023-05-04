@@ -118,7 +118,7 @@
       "ID": "24",
       "SetID": "9p3jgda",
       "Name": "HERE ARE SOME BARE NECESSITIES",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 35
     },
     {
@@ -1012,13 +1012,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 24,
-  "LastChanged_Achievements": "2023-05-04T21:05:47.4393021+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:32.9405947+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 453,
+  "EOS_NewPlayers": 451,
   "EOS_Completed": 0,
   "EOS_Progressed": 2302,
-  "LastUpdate_Achievements": "2023-05-04T21:05:47.4393198+00:00",
-  "LastUpdate_Ratings": "2023-05-04T20:58:48.2075804+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:06:32.9406174+00:00",
+  "LastUpdate_Ratings": "2023-05-04T21:59:29.2581954+00:00",
   "AchievementSets": [
     {
       "ID": "9p3jgda",

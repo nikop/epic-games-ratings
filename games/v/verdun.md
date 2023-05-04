@@ -68,7 +68,7 @@ Diff (max vs sum): 76
 | Comrade | 0.10 |
 | Blood Brother | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,573 (Ranked 75)  
+Progressed: 42,579 (Ranked 75)  
 Completed: 2 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 2 (0.00%) (Ranked 191)
 | 2023-05-01 | 42,289 | 2 |
 | 2023-05-02 | 42,404 | 2 |
 | 2023-05-03 | 42,492 | 2 |
-| 2023-05-04 | 42,573 | 2 |
+| 2023-05-04 | 42,579 | 2 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

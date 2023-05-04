@@ -104,7 +104,7 @@
       "ID": "we_go_again",
       "SetID": "c4ipj3h",
       "Name": "We Go Again",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 100
     }
   ],
@@ -191,13 +191,13 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 15,
-  "LastChanged_Achievements": "2023-05-04T21:05:40.757393+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:25.2592965+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 12,
   "EOS_Completed": 3,
   "EOS_Progressed": 344,
-  "LastUpdate_Achievements": "2023-05-04T21:05:40.7574026+00:00",
-  "LastUpdate_Ratings": "2023-05-04T20:58:05.18645+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:06:25.2593081+00:00",
+  "LastUpdate_Ratings": "2023-05-04T21:58:35.9097626+00:00",
   "AchievementSets": [
     {
       "ID": "c4ipj3h",

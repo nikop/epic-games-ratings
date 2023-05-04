@@ -128,7 +128,7 @@ Diff (max vs sum): 35
 | World of Rotorcraft | 0.10 |
 | Z00 | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,155 (Ranked 13)  
+Progressed: 703,223 (Ranked 13)  
 Completed: 6 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 6 (0.00%) (Ranked 191)
 | 2023-05-01 | 697,660 | 6 |
 | 2023-05-02 | 699,651 | 6 |
 | 2023-05-03 | 701,512 | 6 |
-| 2023-05-04 | 703,155 | 6 |
+| 2023-05-04 | 703,223 | 6 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

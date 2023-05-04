@@ -35,12 +35,12 @@ Rating: 4.64 (Ranked 312)
 | The terminals are not enough | 2.00 |
 | Lose Another Day | 2.00 |
 | Chairman of Deceive Inc. | 2.00 |
-| Chief Information Officer | 0.90 |
+| Chief Information Officer | 1.00 |
 | Masteries Are Forever | 0.40 |
 | Extraction Confusion | 0.30 |
 | Spyfall | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,150 (Ranked 118)  
+Progressed: 5,154 (Ranked 118)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -54,7 +54,7 @@ Completed: 0 (0.00%) (Ranked 191)
 | 2023-05-01 | 4,968 | 0 |
 | 2023-05-02 | 5,040 | 0 |
 | 2023-05-03 | 5,111 | 0 |
-| 2023-05-04 | 5,150 | 0 |
+| 2023-05-04 | 5,154 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -50,7 +50,7 @@ Diff (max vs sum): -80
 | Triple Threat | 0.90 |
 | Master Spirit Guide | 0.30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 424,858 (Ranked 30)  
+Progressed: 424,859 (Ranked 30)  
 Completed: 497 (0.12%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 497 (0.12%) (Ranked 146)
 | 2023-05-01 | 424,790 | 496 |
 | 2023-05-02 | 424,815 | 497 |
 | 2023-05-03 | 424,838 | 497 |
-| 2023-05-04 | 424,858 | 497 |
+| 2023-05-04 | 424,859 | 497 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

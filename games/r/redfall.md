@@ -5,7 +5,7 @@
 | I Like My Stakes Rare! | 84.00 |
 | Ne Plus Ultra | 65.00 |
 | Home Is Where the Heart Is | 63.00 |
-| Wounded Whispers | 63.00 |
+| Wounded Whispers | 62.00 |
 | Blood Will Have Blood | 46.00 |
 | ICU | 44.00 |
 | Catch and Release | 41.00 |
@@ -36,11 +36,11 @@
 | Blood Brother | 1.00 |
 | Bell-ringer | 1.00 |
 | Silence Is Golden | 1.00 |
-| Check, Please! | 1.00 |
 | Empty Nest Syndrome | 1.00 |
 | Ask Not For Whom The Horns Blow | 1.00 |
 | Enemy of My Enemy | 1.00 |
 | Friendgineering | 0.90 |
+| Check, Please! | 0.90 |
 | Monster Hunters Club | 0.80 |
 | Sic Transit Umbra | 0.70 |
 | Curious Finch | 0.70 |
@@ -53,8 +53,8 @@
 | What Lies Below | 0.30 |
 | So Anyway I Started Blasting | 0.30 |
 | Sisterhood | 0.20 |
+| Under a Bushel | 0.20 |
 | Someplace to Be | 0.10 |
-| Under a Bushel | 0.10 |
 | Good Samaritan | 0.10 |
 | Eagle Eyes | 0.10 |
 | Deforestation | 0.00 |
@@ -69,14 +69,14 @@
 | Say Goodbye, Joe | 0.00 |
 | Avenging the Good Doctor | 0.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,152 (Ranked 153)  
+Progressed: 1,160 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-02 | 735 | 0 |
 | 2023-05-03 | 1,021 | 0 |
-| 2023-05-04 | 1,152 | 0 |
+| 2023-05-04 | 1,160 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

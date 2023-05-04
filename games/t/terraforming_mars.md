@@ -39,7 +39,7 @@ Diff (max vs sum): 38
 | Team Effort | 3.00 |
 | Opportunity | 3.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,231 (Ranked 69)  
+Progressed: 55,240 (Ranked 69)  
 Completed: 60 (0.11%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -53,7 +53,7 @@ Completed: 60 (0.11%) (Ranked 149)
 | 2023-05-01 | 54,779 | 60 |
 | 2023-05-02 | 54,929 | 60 |
 | 2023-05-03 | 55,095 | 60 |
-| 2023-05-04 | 55,231 | 60 |
+| 2023-05-04 | 55,240 | 60 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

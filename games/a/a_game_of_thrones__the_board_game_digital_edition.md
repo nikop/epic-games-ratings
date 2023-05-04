@@ -31,7 +31,7 @@ Diff (max vs sum): 51
 | King in the North | 2.00 |
 | War of the Five Kings | 1.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,008 (Ranked 102)  
+Progressed: 11,012 (Ranked 102)  
 Completed: 23 (0.21%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -45,7 +45,7 @@ Completed: 23 (0.21%) (Ranked 129)
 | 2023-05-01 | 10,703 | 21 |
 | 2023-05-02 | 10,803 | 22 |
 | 2023-05-03 | 10,920 | 23 |
-| 2023-05-04 | 11,008 | 23 |
+| 2023-05-04 | 11,012 | 23 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

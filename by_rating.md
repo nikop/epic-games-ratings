@@ -227,7 +227,7 @@
 | 212 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.69 | 59 | 377 |
 | 212 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.69 | 1,481 | 113 |
 | 212 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.69 | 0 | 490 |
-| 212 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 856 | 142 |
+| 212 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 857 | 142 |
 | 212 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 0 | 490 |
 | 212 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 490 |
 | 212 | [Ys IX: Monstrum Nox (Launch Week)](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 0 | 490 |
@@ -240,8 +240,8 @@
 | 233 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 362 |
 | 233 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 490 |
 | 233 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,157 | 60 |
-| 233 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 294,791 | 3 |
-| 233 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 165,194 | 5 |
+| 233 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 294,973 | 3 |
+| 233 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 165,608 | 5 |
 | 233 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 490 |
 | 233 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.68 | 0 | 490 |
 | 233 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 410 | 193 |
@@ -355,7 +355,7 @@
 | 353 | [20XX](games/2/20xx.md) | 4.61 | 36 | 421 |
 | 353 | [ABZU](games/a/abzu.md) | 4.61 | 0 | 490 |
 | 353 | [Alien: Isolation ](games/a/alien__isolation.md) | 4.61 | 128 | 292 |
-| 353 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 4,015 | 72 |
+| 353 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 4,021 | 72 |
 | 353 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 490 |
 | 353 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 212 | 250 |
 | 353 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 374 | 204 |
@@ -639,7 +639,7 @@
 | 633 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.43 | 0 | 490 |
 | 633 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 0 | 490 |
 | 633 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 276 | 226 |
-| 633 | [World of Warships](games/w/world_of_warships.md) | 4.43 | 1,035 | 130 |
+| 633 | [World of Warships](games/w/world_of_warships.md) | 4.43 | 1,038 | 130 |
 | 641 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 60 | 376 |
 | 641 | [ELEX](games/e/elex.md) | 4.42 | 24 | 466 |
 | 641 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 11,874 | 28 |
@@ -663,7 +663,6 @@
 | 651 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.41 | 72 | 355 |
 | 651 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 126 | 296 |
 | 663 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.40 | 0 | 490 |
-| 663 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 490 |
 | 663 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 246 | 238 |
 | 663 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 983 | 138 |
 | 663 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.40 | 0 | 490 |
@@ -675,6 +674,7 @@
 | 663 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 394 | 199 |
 | 663 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 0 | 490 |
 | 663 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 0 | 490 |
+| 663 | [Tacoma](games/t/tacoma.md) | 4.40 | 0 | 490 |
 | 663 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 490 |
 | 663 | [Tunche](games/t/tunche.md) | 4.40 | 0 | 490 |
 | 663 | [Warpips](games/w/warpips.md) | 4.40 | 20 | 482 |
@@ -684,16 +684,16 @@
 | 679 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 542 | 175 |
 | 679 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 0 | 490 |
 | 679 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,647 | 30 |
-| 679 | [Tacoma](games/t/tacoma.md) | 4.39 | 0 | 490 |
 | 679 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 321 | 215 |
-| 687 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 490 |
-| 687 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.38 | 0 | 490 |
-| 687 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 0 | 490 |
-| 687 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 162 | 277 |
-| 687 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 162 | 277 |
-| 687 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.38 | 130 | 291 |
-| 687 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 0 | 490 |
-| 687 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 490 |
+| 686 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 490 |
+| 686 | [Breathedge](games/b/breathedge.md) | 4.38 | 0 | 490 |
+| 686 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.38 | 0 | 490 |
+| 686 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 0 | 490 |
+| 686 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 162 | 277 |
+| 686 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 162 | 277 |
+| 686 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.38 | 130 | 291 |
+| 686 | [Startup Panic](games/s/startup_panic.md) | 4.38 | 0 | 490 |
+| 686 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 490 |
 | 695 | [Core](games/c/core.md) | 4.37 | 727 | 152 |
 | 695 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 0 | 490 |
 | 695 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,131 | 101 |

@@ -28,6 +28,7 @@ Diff (max vs sum): 24
 | Maddening | 0.20 |
 | Owlbear Necessities | 0.20 |
 | Best Thay Ever | 0.20 |
+| Return to the Tomb | 0.20 |
 | Keep Your Distance | 0.20 |
 | Hands Off! | 0.20 |
 | The Dread Domain of Tovag | 0.20 |
@@ -145,7 +146,6 @@ Diff (max vs sum): 24
 | Well Equipped | 0.10 |
 | Friends of the Forest | 0.10 |
 | More Than Well Equipped | 0.10 |
-| Return to the Tomb | 0.10 |
 | Arcane Efforts | 0.10 |
 | Heatwave | 0.10 |
 | To Avernus in a Handbasket | 0.10 |
@@ -498,7 +498,7 @@ Diff (max vs sum): 24
 | Overwhelming Force | 0.10 |
 | Rescue in the Jungle | 0.10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,475 (Ranked 59)  
+Progressed: 86,479 (Ranked 59)  
 Completed: 1,804 (2.09%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -512,7 +512,7 @@ Completed: 1,804 (2.09%) (Ranked 55)
 | 2023-05-01 | 86,219 | 1,795 |
 | 2023-05-02 | 86,310 | 1,797 |
 | 2023-05-03 | 86,391 | 1,800 |
-| 2023-05-04 | 86,475 | 1,804 |
+| 2023-05-04 | 86,479 | 1,804 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

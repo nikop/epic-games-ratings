@@ -1,5 +1,5 @@
 # Baldur's Gate Dark Alliance II
-Rating: 4.38 (Ranked 687)  
+Rating: 4.38 (Ranked 686)  
 Number of Ratings: 31  (23.09.2022)  
 ## Achievements
 | Name | Percentage |

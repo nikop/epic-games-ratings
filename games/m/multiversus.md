@@ -37,7 +37,7 @@ Diff (max vs sum): 39
 | Going Down? | 29.00 |
 | Run It Back | 6.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,067,941 (Ranked 9)  
+Progressed: 1,067,954 (Ranked 9)  
 Completed: 31,618 (2.96%) (Ranked 42)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,7 +51,7 @@ Completed: 31,618 (2.96%) (Ranked 42)
 | 2023-05-01 | 1,067,360 | 31,615 |
 | 2023-05-02 | 1,067,597 | 31,615 |
 | 2023-05-03 | 1,067,773 | 31,617 |
-| 2023-05-04 | 1,067,941 | 31,618 |
+| 2023-05-04 | 1,067,954 | 31,618 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

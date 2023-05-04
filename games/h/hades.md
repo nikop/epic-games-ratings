@@ -58,7 +58,7 @@ Diff (max vs sum): -12
 | Thorn of Thanatos | 4.00 |
 | Friends Forever | 4.00 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 679,763 (Ranked 16)  
+Progressed: 679,765 (Ranked 16)  
 Completed: 6,073 (0.89%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 6,073 (0.89%) (Ranked 80)
 | 2023-05-01 | 679,575 | 6,063 |
 | 2023-05-02 | 679,645 | 6,067 |
 | 2023-05-03 | 679,707 | 6,070 |
-| 2023-05-04 | 679,763 | 6,073 |
+| 2023-05-04 | 679,765 | 6,073 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

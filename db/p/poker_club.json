@@ -90,7 +90,7 @@
       "ID": "ColdCaller",
       "SetID": "7mgad4a",
       "Name": "Cold Caller",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10
     },
     {
@@ -293,7 +293,7 @@
       "ID": "ThreeWay",
       "SetID": "7mgad4a",
       "Name": "Three Way",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10
     },
     {
@@ -1174,6 +1174,11 @@
       "Time": "2023-05-04T21:06:05.8592236+00:00",
       "NumProgressed": 397793,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T22:06:54.0843653+00:00",
+      "NumProgressed": 398249,
+      "NumCompleted": 0
     }
   ],
   "RatingHistory": [
@@ -1252,18 +1257,18 @@
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 45,
-  "LastChanged_Achievements": "2023-05-04T21:06:05.8592232+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:54.0843643+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 361228,
+  "EOS_NewPlayers": 357440,
   "EOS_Completed": 0,
-  "EOS_Progressed": 397793,
-  "LastUpdate_Achievements": "2023-05-04T21:06:05.8592558+00:00",
-  "LastUpdate_Ratings": "2023-05-04T20:59:54.9978398+00:00",
+  "EOS_Progressed": 398249,
+  "LastUpdate_Achievements": "2023-05-04T22:06:54.0844339+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:00:53.8392654+00:00",
   "AchievementSets": [
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 397793,
+      "Progressed": 398249,
       "Completed": 0
     }
   ],

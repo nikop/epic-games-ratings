@@ -407,7 +407,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 712
+      "Count": 714
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1453,6 +1453,11 @@
     {
       "Time": "2023-05-04T21:06:03.0212209+00:00",
       "NumProgressed": 48791,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-04T22:06:50.9393918+00:00",
+      "NumProgressed": 48792,
       "NumCompleted": 0
     }
   ],
@@ -5152,31 +5157,37 @@
       "Rating": 4.74,
       "NumberOfAwards": 12904,
       "NumberOfAwardsMax": 6480
+    },
+    {
+      "Time": "2023-05-04T22:00:34.2436624+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 12906,
+      "NumberOfAwardsMax": 6480
     }
   ],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 51,
-  "LastChanged_Achievements": "2023-05-04T21:06:03.0212206+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:50.9393912+00:00",
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 612,
+  "EOS_NewPlayers": 610,
   "EOS_Completed": 0,
-  "EOS_Progressed": 48791,
-  "LastUpdate_Achievements": "2023-05-04T21:06:03.0212604+00:00",
-  "LastUpdate_Ratings": "2023-05-04T20:59:39.4469209+00:00",
+  "EOS_Progressed": 48792,
+  "LastUpdate_Achievements": "2023-05-04T22:06:50.9394405+00:00",
+  "LastUpdate_Ratings": "2023-05-04T22:00:34.2436628+00:00",
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 48791,
+      "Progressed": 48792,
       "Completed": 0
     }
   ],
   "EOS_Completed_Percentage": 0,
-  "LastChanged": "2023-05-04T17:59:18.0659953+00:00",
+  "LastChanged": "2023-05-04T22:00:34.2436621+00:00",
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 6480,
-  "NumberOfAwards": 12904,
+  "NumberOfAwards": 12906,
   "NumberOfRatings": 5603,
   "Ranking_EOS_NewCompleters": 80,
   "Ranking_EOS_NewPlayers": 71,

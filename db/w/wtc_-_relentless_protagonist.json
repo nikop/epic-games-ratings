@@ -449,13 +449,13 @@
   "RatingHistory": [],
   "TotalAchievementsXP": 1000,
   "TotalAchievements": 60,
-  "LastChanged_Achievements": "2023-05-04T21:05:47.2161445+00:00",
+  "LastChanged_Achievements": "2023-05-04T22:06:32.6817826+00:00",
   "EOS_NewCompleters": 0,
   "EOS_NewPlayers": 3,
   "EOS_Completed": 0,
   "EOS_Progressed": 4,
-  "LastUpdate_Achievements": "2023-05-04T21:05:47.2161893+00:00",
-  "LastUpdate_Ratings": "2023-05-04T20:58:38.9261017+00:00",
+  "LastUpdate_Achievements": "2023-05-04T22:06:32.6818395+00:00",
+  "LastUpdate_Ratings": "2023-05-04T21:59:17.9491325+00:00",
   "AchievementSets": [
     {
       "ID": "94elm8b",
@@ -466,8 +466,8 @@
   ],
   "EOS_Completed_Percentage": 0,
   "Ranking_EOS_NewCompleters": 80,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_Progress": 330,
+  "Ranking_EOS_Progress": 331,
   "FirstSeenAchievements": "2023-04-25T20:49:03.3118524+00:00"
 }
