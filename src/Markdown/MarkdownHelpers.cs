@@ -136,18 +136,35 @@ namespace EpicRatingsUpdater.Markdown
 
             sb.AppendLine($"# {item.Name}");
 
-            sb.AppendLine($"Rating: {FormatRating(item.Rating)} (Ranked {FormatRanking(item.Ranking_Rating)})  ");
+            if (item.Rating != null)
+            {
+                sb.AppendLine($"Rating: {FormatRating(item.Rating)} (Ranked {FormatRanking(item.Ranking_Rating)})  ");
+            }
 
             if (item.NumberOfRatings != null)
             {
                 sb.AppendLine($"Number of Ratings: {FormatVotes(item.NumberOfRatings)}  (23.09.2022)  ");
             }
 
-            sb.AppendLine("## Popularity (Based on Awards)");
+            if (item.NumberOfAwards != null && item.NumberOfAwards > 0)
+            {
+                sb.AppendLine("## Popularity (Based on Awards)");
 
-            sb.AppendLine($"Max ({item.MaxAwardTitle}): {FormatVotes(item.NumberOfAwardsMax)}  (Ranked {FormatRanking(item.Ranking_Popularity)})  ");
-            sb.AppendLine($"Sum: {FormatVotes(item.NumberOfAwards)} (Ranked {FormatRanking(item.Ranking_PopularitySum)})  ");
-            sb.AppendLine($"Diff (max vs sum): {FormatRanking(item.Ranking_Popularity - item.Ranking_PopularitySum)}");
+                sb.AppendLine($"Max ({item.MaxAwardTitle}): {FormatVotes(item.NumberOfAwardsMax)}  (Ranked {FormatRanking(item.Ranking_Popularity)})  ");
+                sb.AppendLine($"Sum: {FormatVotes(item.NumberOfAwards)} (Ranked {FormatRanking(item.Ranking_PopularitySum)})  ");
+                sb.AppendLine($"Diff (max vs sum): {FormatRanking(item.Ranking_Popularity - item.Ranking_PopularitySum)}  ");
+            }
+
+            if (item.Achievements != null)
+            {
+                sb.AppendLine("## Achievements");
+
+                var achTable = new MarkdownTable<AchievementItem>();
+                achTable.AddColumn("Name", x => x.Name);
+                achTable.AddColumn("Percentage", x => FormatRating(x.Percentage));
+
+                sb.Append(achTable.FormatTable(item.Achievements.OrderByDescending(x => x.Percentage)));
+            }
 
             if (item.EOS_Progressed > 0)
             {
@@ -174,14 +191,17 @@ namespace EpicRatingsUpdater.Markdown
                 sb.Append(eosHistoryTable.FormatTable(itemsToShow));
             }
 
-            sb.AppendLine("## Awards");
-
-            sb.AppendLine("| Award | Count |");
-            sb.AppendLine("| ----- | ----- |");
-
-            foreach (var tag in item.Tags.OrderByDescending(x => x.Count))
+            if (item.Tags.Count > 0)
             {
-                sb.AppendLine($"| {tag.Text} | {FormatVotes(tag.Count)} |");
+                sb.AppendLine("## Awards");
+
+                sb.AppendLine("| Award | Count |");
+                sb.AppendLine("| ----- | ----- |");
+
+                foreach (var tag in item.Tags.OrderByDescending(x => x.Count))
+                {
+                    sb.AppendLine($"| {tag.Text} | {FormatVotes(tag.Count)} |");
+                }
             }
 
             if (item.RatingHistory.Count > 0)

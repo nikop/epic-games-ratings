@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-internal class RatingsResponse
+﻿internal class RatingsResponse
 {
     public RatingsPolls? RatingsPolls { get; set; }
 }
@@ -20,7 +19,7 @@ public class getProductResult
 
 public class pollResult
 {
-    public pollresult_localizations localizations { get; set; }
+    public pollresult_localizations localizations { get; set; } = new();
 
     public int? total { get; set; }
 }

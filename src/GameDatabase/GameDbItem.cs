@@ -74,10 +74,18 @@ namespace EpicRatingsUpdater.GameDatabase
 
         public double EOS_Completed_Percentage { get; set; }
 
+        public int TotalAchievements { get; set; }
+
+        public int TotalAchievementsXP { get; set; }
+
         public List<GameDbItemRatingHistory> RatingHistory { get; set; } = new();
 
         public List<GameDbItemEOSHistory> EosHistory { get; set; } = new();
 
         public List<GameDbItemTag> Tags { get; set; } = new();
+
+        public List<AchievementItem> Achievements { get; set; } = new();
+
+        public List<AchievementSet> AchievementSets { get; set; } = new();
     }
 }

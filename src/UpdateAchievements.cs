@@ -19,7 +19,9 @@ namespace EpicRatingsUpdater
 
             var orderedItems = items.OrderBy(x => x.LastUpdate_Achievements ?? DateTimeOffset.MinValue).ToList();
 
-            await Parallel.ForEachAsync(orderedItems, new ParallelOptions { MaxDegreeOfParallelism = 2 },
+            var cts = new CancellationTokenSource();
+
+            await Parallel.ForEachAsync(orderedItems, new ParallelOptions { MaxDegreeOfParallelism = 2, CancellationToken = cts.Token },
                 async (item, ct) =>
                 {
                     try
@@ -29,14 +31,14 @@ namespace EpicRatingsUpdater
                     catch (GraphQLHttpRequestException)
                     {
                         Console.WriteLine("Ratelimited...");
-                        await Task.Delay(10000);
+                        await Task.Delay(10000, ct);
                     }
                     catch (Exception ex)
                     {
                         Console.WriteLine($"Error: {ex}");
                     }
 
-                    await Task.Delay(100);
+                    await Task.Delay(100, ct);
                 }
             );
         }
@@ -48,11 +50,11 @@ namespace EpicRatingsUpdater
 
         public async Task UpdateItem(GameDbItem item)
         {
-            var ach = await EpicApi.QueryAchievements(item.ID);
+            var data = await EpicApi.QueryAchievements(item.ID);
 
-            if (ach?.productId != null)
+            if (data != null && data?.productId != null)
             {
-                var baseSet = ach?.achievementSets?.FirstOrDefault(x => x.isBase);
+                var baseSet = data.achievementSets.FirstOrDefault(x => x.isBase);
 
                 if (baseSet != null)
                 {
@@ -90,6 +92,57 @@ namespace EpicRatingsUpdater
                     {
                         item.FirstSeenAchievements = DateTimeOffset.UtcNow;
                     }
+                }
+
+                // Achievement Totals
+                item.TotalAchievements = data.totalAchievements;
+                item.TotalAchievementsXP = data.totalProductXP;
+
+                // Sets
+                foreach (var set in data.achievementSets)
+                {
+                    var current = item.AchievementSets.FirstOrDefault(x => x.ID == set.achievementSetId);
+
+                    if (current == null)
+                    {
+                        current = new AchievementSet
+                        {
+                            ID = set.achievementSetId,
+                        };
+                        item.AchievementSets.Add(current);
+                    }
+
+                    current.IsBase = set.isBase;
+                    current.Progressed = set.numProgressed;
+                    current.Completed = set.numCompleted;
+                }
+
+                // Achievements
+
+                foreach (var kv in data.achievements)
+                {
+                    var ach = kv.achievement; // why?
+
+                    if (ach == null)
+                        continue;
+
+                    var current = item.Achievements.FirstOrDefault(x => x.ID == ach.name);
+
+                    if (current == null)
+                    {
+                        current = new AchievementItem
+                        {
+                            ID = ach.name,
+                            SetID = ach.achievementSetId,
+                        };
+                        item.Achievements.Add(current);
+                    }
+
+                    var set = item.AchievementSets.FirstOrDefault(x => x.ID == ach.achievementSetId);
+
+                    current.Name = ach.unlockedDisplayName;
+                    current.Percentage = ach.rarity.percent;
+                    current.XP = ach.XP;
                 }
             }
 
