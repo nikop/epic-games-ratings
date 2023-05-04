@@ -54,7 +54,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 224
+      "Count": 227
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1108,6 +1108,11 @@
     {
       "Time": "2023-05-04T14:00:41.8944705+00:00",
       "NumProgressed": 361587,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-04T15:01:21.0458946+00:00",
+      "NumProgressed": 361606,
       "NumCompleted": 2
     }
   ],
@@ -2821,21 +2826,27 @@
       "Rating": 4.61,
       "NumberOfAwards": 2602,
       "NumberOfAwardsMax": 349
+    },
+    {
+      "Time": "2023-05-04T14:57:53.2578411+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2605,
+      "NumberOfAwardsMax": 349
     }
   ],
   "EOS_Completed_Percentage": 0,
   "EOS_NewCompleters": 0,
-  "EOS_NewPlayers": 3875,
+  "EOS_NewPlayers": 3877,
   "EOS_Completed": 2,
-  "EOS_Progressed": 361587,
-  "LastUpdate_Achievements": "2023-05-04T14:00:41.8944958+00:00",
-  "LastUpdate_Ratings": "2023-05-04T13:57:39.924084+00:00",
-  "LastChanged_Achievements": "2023-05-04T14:00:41.894469+00:00",
-  "LastChanged": "2023-05-04T01:54:35.4151048+00:00",
+  "EOS_Progressed": 361606,
+  "LastUpdate_Achievements": "2023-05-04T15:01:21.0459089+00:00",
+  "LastUpdate_Ratings": "2023-05-04T14:57:53.2578415+00:00",
+  "LastChanged_Achievements": "2023-05-04T15:01:21.0458933+00:00",
+  "LastChanged": "2023-05-04T14:57:53.2578409+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "MaxAwardTitle": "Quickly Understood Controls",
   "NumberOfAwardsMax": 349,
-  "NumberOfAwards": 2602,
+  "NumberOfAwards": 2605,
   "NumberOfRatings": 1316,
   "Ranking_EOS_NewCompleters": 81,
   "Ranking_EOS_NewPlayers": 19,

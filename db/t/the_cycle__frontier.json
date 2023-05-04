@@ -6,7 +6,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 2250
+      "Count": 2254
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4189,6 +4189,12 @@
       "Rating": 4.1,
       "NumberOfAwards": 14866,
       "NumberOfAwardsMax": 2251
+    },
+    {
+      "Time": "2023-05-04T14:58:24.1243492+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 14870,
+      "NumberOfAwardsMax": 2254
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -4196,12 +4202,12 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T14:03:34.0678895+00:00",
-  "LastUpdate_Ratings": "2023-05-04T13:58:06.8670062+00:00",
-  "LastChanged": "2023-05-03T22:58:30.5460888+00:00",
-  "MaxAwardTitle": "Challenging Combat",
-  "NumberOfAwardsMax": 2251,
-  "NumberOfAwards": 14866,
+  "LastUpdate_Achievements": "2023-05-04T15:03:28.8311404+00:00",
+  "LastUpdate_Ratings": "2023-05-04T14:58:24.1243497+00:00",
+  "LastChanged": "2023-05-04T14:58:24.124349+00:00",
+  "MaxAwardTitle": "Competitive Players",
+  "NumberOfAwardsMax": 2254,
+  "NumberOfAwards": 14870,
   "NumberOfRatings": 15671,
   "Ranking_EOS_NewCompleters": 81,
   "Ranking_EOS_NewPlayers": 276,

@@ -30,7 +30,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 121722
+      "Count": 121746
     },
     {
       "Text": "This game has Diverse Characters",
@@ -66,7 +66,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 97485
+      "Count": 97498
     }
   ],
   "EosHistory": [
@@ -1124,6 +1124,11 @@
       "Time": "2023-05-04T14:04:28.714581+00:00",
       "NumProgressed": 32366269,
       "NumCompleted": 28875
+    },
+    {
+      "Time": "2023-05-04T15:04:40.3071647+00:00",
+      "NumProgressed": 32367258,
+      "NumCompleted": 28877
     }
   ],
   "RatingHistory": [
@@ -5694,21 +5699,27 @@
       "Rating": 4.53,
       "NumberOfAwards": 1293178,
       "NumberOfAwardsMax": 137999
+    },
+    {
+      "Time": "2023-05-04T14:59:14.3844734+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 1293215,
+      "NumberOfAwardsMax": 137999
     }
   ],
   "EOS_Completed_Percentage": 0.09,
-  "EOS_NewCompleters": 269,
-  "EOS_NewPlayers": 136599,
-  "EOS_Completed": 28875,
-  "EOS_Progressed": 32366269,
-  "LastUpdate_Achievements": "2023-05-04T14:04:28.714596+00:00",
-  "LastUpdate_Ratings": "2023-05-04T13:58:50.5622095+00:00",
-  "LastChanged_Achievements": "2023-05-04T14:04:28.7145798+00:00",
-  "LastChanged": "2023-05-04T11:58:50.0714692+00:00",
+  "EOS_NewCompleters": 270,
+  "EOS_NewPlayers": 136741,
+  "EOS_Completed": 28877,
+  "EOS_Progressed": 32367258,
+  "LastUpdate_Achievements": "2023-05-04T15:04:40.3071747+00:00",
+  "LastUpdate_Ratings": "2023-05-04T14:59:14.3844739+00:00",
+  "LastChanged_Achievements": "2023-05-04T15:04:40.3071634+00:00",
+  "LastChanged": "2023-05-04T14:59:14.3844732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.7143696+00:00",
   "MaxAwardTitle": "Great for Beginners",
   "NumberOfAwardsMax": 137999,
-  "NumberOfAwards": 1293178,
+  "NumberOfAwards": 1293215,
   "NumberOfRatings": 1046587,
   "Ranking_EOS_NewCompleters": 2,
   "Ranking_EOS_NewPlayers": 2,

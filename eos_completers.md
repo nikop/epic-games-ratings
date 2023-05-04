@@ -19,12 +19,12 @@
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.28% |
 | 18 | [Scorn](games/s/scorn.md) | 7.13% |
 | 19 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.77% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.71% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.70% |
 | 21 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.31% |
 | 22 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 6.06% |
 | 23 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.71% |
 | 24 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
-| 25 | [Ravenlok](games/r/ravenlok.md) | 4.94% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 4.85% |
 | 26 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.73% |
 | 27 | [Bugsnax](games/b/bugsnax.md) | 4.61% |
 | 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.55% |
@@ -127,10 +127,10 @@
 | 125 | [Circus Electrique](games/c/circus_electrique.md) | 0.26% |
 | 126 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
 | 127 | [Blanc](games/b/blanc.md) | 0.22% |
-| 128 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
-| 128 | [Against the Storm](games/a/against_the_storm.md) | 0.21% |
-| 128 | [Filament](games/f/filament.md) | 0.21% |
-| 128 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.21% |
+| 127 | [Filament](games/f/filament.md) | 0.22% |
+| 129 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
+| 129 | [Against the Storm](games/a/against_the_storm.md) | 0.21% |
+| 129 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.21% |
 | 132 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
 | 133 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
 | 133 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.19% |
