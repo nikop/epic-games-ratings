@@ -2,7 +2,7 @@
 Rating: 4.58 (Ranked 414)  
 ## Popularity (Based on Awards)
 Max (Great for Beginners): 99  (Ranked 321)  
-Sum: 933 (Ranked 231)  
+Sum: 937 (Ranked 231)  
 Diff (max vs sum): 90
 ## Awards
 | Award | Count |
@@ -10,9 +10,9 @@ Diff (max vs sum): 90
 | This game is Great for Beginners | 99 |
 | This game has Competitive Players | 88 |
 | This game has Diverse Characters | 87 |
+| This game is Great for Quick Sessions | 85 |
 | This game is Relaxing | 84 |
 | This game has Quickly Understood Controls | 82 |
-| This game is Great for Quick Sessions | 81 |
 | This game is Extremely Fun | 76 |
 | This game has Amazing Characters | 76 |
 | This game is Highly Recommended | 69 |
@@ -122,4 +122,4 @@ Diff (max vs sum): 90
 | 2023-05-01 | 4.58 | 97 | 899 |
 | 2023-05-02 | 4.58 | 97 | 914 |
 | 2023-05-03 | 4.58 | 99 | 925 |
-| 2023-05-04 | 4.58 | 99 | 933 |
+| 2023-05-04 | 4.58 | 99 | 937 |

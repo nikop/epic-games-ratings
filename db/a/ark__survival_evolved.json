@@ -6,7 +6,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 56392
+      "Count": 56423
     },
     {
       "Text": "This game has Challenging Combat",
@@ -18,7 +18,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 20049
+      "Count": 20056
     },
     {
       "Text": "This game is Extremely Fun",
@@ -54,7 +54,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 18213
+      "Count": 18215
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -72,7 +72,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 19219
+      "Count": 19224
     }
   ],
   "EosHistory": [],
@@ -5202,6 +5202,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 250036,
       "NumberOfAwardsMax": 56392
+    },
+    {
+      "Time": "2023-05-04T16:58:27.3269862+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 250081,
+      "NumberOfAwardsMax": 56423
     }
   ],
   "EOS_Completed_Percentage": 0,
@@ -5209,14 +5215,14 @@
   "EOS_NewPlayers": 0,
   "EOS_Completed": 0,
   "EOS_Progressed": 0,
-  "LastUpdate_Achievements": "2023-05-04T15:01:54.4835124+00:00",
-  "LastUpdate_Ratings": "2023-05-04T14:58:39.4857658+00:00",
-  "LastChanged": "2023-05-04T14:58:39.4857652+00:00",
+  "LastUpdate_Achievements": "2023-05-04T17:01:31.4484936+00:00",
+  "LastUpdate_Ratings": "2023-05-04T16:58:27.3269868+00:00",
+  "LastChanged": "2023-05-04T16:58:27.3269859+00:00",
   "MaxAwardTitle": "Character Customization",
-  "NumberOfAwardsMax": 56392,
-  "NumberOfAwards": 250036,
+  "NumberOfAwardsMax": 56423,
+  "NumberOfAwards": 250081,
   "NumberOfRatings": 35570,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_Progress": 378,

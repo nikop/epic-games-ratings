@@ -30,7 +30,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 7293
+      "Count": 7306
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1110,6 +1110,11 @@
       "Time": "2023-05-04T15:01:20.7745925+00:00",
       "NumProgressed": 797816,
       "NumCompleted": 1565
+    },
+    {
+      "Time": "2023-05-04T17:00:58.6568218+00:00",
+      "NumProgressed": 797841,
+      "NumCompleted": 1566
     }
   ],
   "RatingHistory": [
@@ -6310,29 +6315,35 @@
       "Rating": 4.62,
       "NumberOfAwards": 166114,
       "NumberOfAwardsMax": 63570
+    },
+    {
+      "Time": "2023-05-04T16:57:38.9121485+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 166127,
+      "NumberOfAwardsMax": 63570
     }
   ],
   "EOS_Completed_Percentage": 0.2,
-  "EOS_NewCompleters": 23,
-  "EOS_NewPlayers": 1757,
-  "EOS_Completed": 1565,
-  "EOS_Progressed": 797816,
-  "LastUpdate_Achievements": "2023-05-04T15:01:20.7746139+00:00",
-  "LastUpdate_Ratings": "2023-05-04T14:57:46.69168+00:00",
-  "LastChanged_Achievements": "2023-05-04T15:01:20.7745849+00:00",
-  "LastChanged": "2023-05-04T13:57:34.5599689+00:00",
+  "EOS_NewCompleters": 24,
+  "EOS_NewPlayers": 1753,
+  "EOS_Completed": 1566,
+  "EOS_Progressed": 797841,
+  "LastUpdate_Achievements": "2023-05-04T17:00:58.6568383+00:00",
+  "LastUpdate_Ratings": "2023-05-04T16:57:38.9121493+00:00",
+  "LastChanged_Achievements": "2023-05-04T17:00:58.6568205+00:00",
+  "LastChanged": "2023-05-04T16:57:38.9121484+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "MaxAwardTitle": "Character Customization",
   "NumberOfAwardsMax": 63570,
-  "NumberOfAwards": 166114,
+  "NumberOfAwards": 166127,
   "NumberOfRatings": 32700,
   "Ranking_EOS_NewCompleters": 9,
   "Ranking_EOS_NewPlayers": 35,
-  "Ranking_EOS_Completed": 132,
+  "Ranking_EOS_Completed": 131,
   "Ranking_EOS_Progress": 10,
   "Ranking_PopularitySum": 13,
   "Ranking_Popularity": 9,
-  "Ranking_Rating": 336,
+  "Ranking_Rating": 337,
   "Rating": 4.62,
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00"
 }

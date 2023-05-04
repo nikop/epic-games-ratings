@@ -1,11 +1,11 @@
 # Gotham Knights
 Rating: 4.17 (Ranked 826)  
 ## Popularity (Based on Awards)
-Max (Great Boss Battles): 2,187  (Ranked 98)  
+Max (Great Boss Battles): 2,187  (Ranked 99)  
 Sum: 3,616 (Ranked 139)  
-Diff (max vs sum): -41
+Diff (max vs sum): -40
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,618 (Ranked 66)  
+Progressed: 60,620 (Ranked 66)  
 Completed: 89 (0.15%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -19,7 +19,7 @@ Completed: 89 (0.15%) (Ranked 138)
 | 2023-05-01 | 60,560 | 88 |
 | 2023-05-02 | 60,584 | 89 |
 | 2023-05-03 | 60,606 | 89 |
-| 2023-05-04 | 60,618 | 89 |
+| 2023-05-04 | 60,620 | 89 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
